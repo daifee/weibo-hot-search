@@ -1,6 +1,6 @@
 {
   "startTime": 1721579123353,
-  "endTime": 1721580070072,
+  "endTime": 1721582172043,
   "band_list": [
     {
       "raw_hot": 2077038,
@@ -43,6 +43,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 627611,
+      "num": 627611,
+      "word": "为什么现在很少看到灾难片了",
+      "onboard_time": 1721576899,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 615761,
       "num": 615761,
       "word": "虎门一公职人员贩毒被执行死刑",
@@ -73,14 +81,6 @@
       "onboard_time": 1721568741,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 522898,
-      "num": 371568,
-      "word": "为什么现在很少看到灾难片了",
-      "onboard_time": 1721576899,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 449173,
@@ -187,6 +187,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 183586,
+      "num": 166388,
+      "word": "被奶奶的手机壳震惊到了",
+      "onboard_time": 1721579420,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 181415,
       "num": 181415,
       "word": "预制菜已经发展到这个地步了",
@@ -267,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128693,
+      "num": 167306,
+      "word": "宝马回应临时加价4S店才交车",
+      "onboard_time": 1721578879,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 128006,
       "num": 164019,
       "word": "三中全会决定60条",
@@ -299,20 +315,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115602,
+      "num": 165545,
+      "word": "宋茜回应花少6官宣",
+      "onboard_time": 1721581216,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114884,
       "num": 163916,
       "word": "英雄联盟手游取消赵露思置顶",
       "onboard_time": 1721549239,
       "rank": 41,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 114639,
-      "num": 164213,
-      "word": "宝马回应临时加价4S店才交车",
-      "onboard_time": 1721578879,
-      "rank": 48,
-      "category": "汽车"
     },
     {
       "raw_hot": 111170,
@@ -363,14 +379,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 91289,
-      "num": 163722,
-      "word": "被奶奶的手机壳震惊到了",
-      "onboard_time": 1721579420,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 86863,
       "num": 163486,
       "word": "蒲熠星JOJO私下关系",
@@ -395,12 +403,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 81548,
+      "num": 162833,
+      "word": "男子称给霸王茶姬差评后被找上门",
+      "onboard_time": 1721581396,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78903,
       "num": 252708,
       "word": "内蒙05后人均一米八",
       "onboard_time": 1721577441,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49847,
+      "num": 159737,
+      "word": "赵雅芝叶童重现打伞名场面",
+      "onboard_time": 1721580138,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 49842,
@@ -417,6 +441,14 @@
       "onboard_time": 1721579297,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 16774,
+      "num": 168904,
+      "word": "大熊猫北辰是实心的实锤了",
+      "onboard_time": 1721581156,
+      "rank": 9,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

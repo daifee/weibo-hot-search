@@ -1,0 +1,410 @@
+{
+  "runTime": 1721582172043,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 627611,
+        "num": 627611,
+        "word": "为什么现在很少看到灾难片了",
+        "onboard_time": 1721576899,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 277688,
+        "num": 277688,
+        "word": "虎门一公职人员贩毒被执行死刑",
+        "onboard_time": 1721571982,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33444,
+        "num": 263835,
+        "word": "暴雨来袭不要这样做",
+        "onboard_time": 1721569461,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263576,
+        "num": 263576,
+        "word": "TFBOYS发文支持王源",
+        "onboard_time": 1721569221,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 250394,
+        "num": 250394,
+        "word": "做过近视眼手术的人嘴都这么严吗",
+        "onboard_time": 1721569461,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 202588,
+        "num": 202588,
+        "word": "陕西桥梁垮塌事故已致15人遇难",
+        "onboard_time": 1721572222,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247446,
+        "num": 199663,
+        "word": "张元英踩到安宥真的裙子",
+        "onboard_time": 1721575460,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169328,
+        "num": 169328,
+        "word": "盗墓团伙要价1.8亿的文物被追回",
+        "onboard_time": 1721570842,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123758,
+        "num": 169101,
+        "word": "种地吧回应加人",
+        "onboard_time": 1721467338,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16774,
+        "num": 168904,
+        "word": "大熊猫北辰是实心的实锤了",
+        "onboard_time": 1721581156,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 959172,
+        "num": 168809,
+        "word": "五一广场车祸",
+        "onboard_time": 1721572161,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 469752,
+        "num": 168392,
+        "word": "男女店内亲热被店家请离后给差评",
+        "onboard_time": 1721572042,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320244,
+        "num": 168213,
+        "word": "延迟退休",
+        "onboard_time": 1721561058,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 312100,
+        "num": 167985,
+        "word": "黄子韬徐艺洋公开后秀恩爱",
+        "onboard_time": 1721568741,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224309,
+        "num": 167810,
+        "word": "胎儿检出超雄孕妇完成终止妊娠手术",
+        "onboard_time": 1721562979,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204720,
+        "num": 167582,
+        "word": "吃饭偶遇张婧仪做服务员",
+        "onboard_time": 1721573844,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128693,
+        "num": 167306,
+        "word": "宝马回应临时加价4S店才交车",
+        "onboard_time": 1721578879,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 123398,
+        "num": 167043,
+        "word": "相柳小夭见的最后一面",
+        "onboard_time": 1721576721,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121494,
+        "num": 166731,
+        "word": "王源回重庆不回家住的原因",
+        "onboard_time": 1721568321,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119766,
+        "num": 166567,
+        "word": "长沙",
+        "onboard_time": 1721571861,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183586,
+        "num": 166388,
+        "word": "被奶奶的手机壳震惊到了",
+        "onboard_time": 1721579420,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140045,
+        "num": 166091,
+        "word": "熬过4个易发胖时刻变瘦就容易了",
+        "onboard_time": 1721577199,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 121644,
+        "num": 165755,
+        "word": "阳虚还是阴虚看出汗就能知道",
+        "onboard_time": 1721569461,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115602,
+        "num": 165545,
+        "word": "宋茜回应花少6官宣",
+        "onboard_time": 1721581216,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111821,
+        "num": 165343,
+        "word": "单依纯都搞唱跳了",
+        "onboard_time": 1721576001,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 105004,
+        "num": 165169,
+        "word": "预制菜已经发展到这个地步了",
+        "onboard_time": 1721562560,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 96776,
+        "num": 164938,
+        "word": "赵露思直播怼脸镜头",
+        "onboard_time": 1721571621,
+        "rank": 26,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 92578,
+        "num": 164680,
+        "word": "悉尼一父亲救滚入轨道的婴儿车不幸死亡",
+        "onboard_time": 1721563879,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89887,
+        "num": 164423,
+        "word": "泰国队员想来中国队宿舍凉快",
+        "onboard_time": 1721565621,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86585,
+        "num": 163991,
+        "word": "为啥鸡的身体零件比整只鸡贵",
+        "onboard_time": 1721575522,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 84728,
+        "num": 163912,
+        "word": "薛之谦压轴",
+        "onboard_time": 1721569281,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 88022,
+        "num": 163495,
+        "word": "英雄联盟手游取消赵露思置顶",
+        "onboard_time": 1721549239,
+        "rank": 31,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 84222,
+        "num": 163343,
+        "word": "高会",
+        "onboard_time": 1721572942,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 82264,
+        "num": 163158,
+        "word": "男婴出生2天腿部青紫查出罕见病",
+        "onboard_time": 1721568321,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81548,
+        "num": 162833,
+        "word": "男子称给霸王茶姬差评后被找上门",
+        "onboard_time": 1721581396,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68693,
+        "num": 162727,
+        "word": "唐诡2仵作之死最惨的是谁",
+        "onboard_time": 1721564300,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66650,
+        "num": 162294,
+        "word": "时代峰峻否认张真源贺峻霖恋情",
+        "onboard_time": 1721569520,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65714,
+        "num": 162103,
+        "word": "赵露思ID耙耙柑儿",
+        "onboard_time": 1721572161,
+        "rank": 37,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 65650,
+        "num": 161902,
+        "word": "杨幂画的手稿",
+        "onboard_time": 1721571921,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 65380,
+        "num": 161589,
+        "word": "王楚钦早六晚十练了两年了",
+        "onboard_time": 1721567420,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61534,
+        "num": 161356,
+        "word": "三中全会决定60条",
+        "onboard_time": 1721551518,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 61492,
+        "num": 161190,
+        "word": "陕西塌桥一落水者因打开车窗获救",
+        "onboard_time": 1721569821,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54205,
+        "num": 161033,
+        "word": "南京大屠杀幸存者周智林老人去世",
+        "onboard_time": 1721574444,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53372,
+        "num": 160760,
+        "word": "花儿与少年直播",
+        "onboard_time": 1721568140,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53027,
+        "num": 160367,
+        "word": "周深TMEA年度男歌手",
+        "onboard_time": 1721574323,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 52604,
+        "num": 160178,
+        "word": "蒲熠星JOJO私下关系",
+        "onboard_time": 1721570661,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 50435,
+        "num": 159902,
+        "word": "陈丽君凤求凰好英气",
+        "onboard_time": 1721573844,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49847,
+        "num": 159737,
+        "word": "赵雅芝叶童重现打伞名场面",
+        "onboard_time": 1721580138,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 47128,
+        "num": 159359,
+        "word": "内蒙05后人均一米八",
+        "onboard_time": 1721577441,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49544,
+        "num": 159175,
+        "word": "周深TMEA压轴",
+        "onboard_time": 1721576419,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#三中全会决定60条#"
+    }
+  }
+}
