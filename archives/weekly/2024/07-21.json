@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721540140722,
+  "endTime": 1721543250000,
   "band_list": [
     {
       "raw_hot": 2330012,
@@ -32,6 +32,14 @@
       "word": "13位少年倒了600000尾鱼苗",
       "onboard_time": 1721527579,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1607972,
+      "num": 1607972,
+      "word": "花少6官宣阵容",
+      "onboard_time": 1721539638,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -75,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1198624,
+      "num": 540551,
+      "word": "为特朗普治疗耳朵的医生发声",
+      "onboard_time": 1721538077,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 981010,
       "num": 981010,
       "word": "杨迪恭喜张予曦总冠军",
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 942297,
-      "num": 501939,
+      "num": 516331,
       "word": "于正说小龙女先找的Angelababy",
       "onboard_time": 1721534298,
       "rank": 10,
@@ -97,6 +113,14 @@
       "onboard_time": 1721480118,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 888452,
+      "num": 705935,
+      "word": "陈好 花少6大姐",
+      "onboard_time": 1721540298,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 871136,
@@ -116,7 +140,7 @@
     },
     {
       "raw_hot": 806459,
-      "num": 424147,
+      "num": 537976,
       "word": "女子被离婚七年的前夫暴力殴打",
       "onboard_time": 1721538077,
       "rank": 17,
@@ -137,6 +161,14 @@
       "onboard_time": 1721526198,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 705774,
+      "num": 705774,
+      "word": "韩国第一夫人被传唤调查",
+      "onboard_time": 1721541439,
+      "rank": 4,
+      "category": "国外时政"
     },
     {
       "raw_hot": 705597,
@@ -163,12 +195,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 674290,
-      "num": 422959,
-      "word": "为特朗普治疗耳朵的医生发声",
-      "onboard_time": 1721538077,
-      "rank": 30,
-      "category": "国外时政"
+      "raw_hot": 668467,
+      "num": 668467,
+      "word": "国家发改委紧急下达3.5亿元",
+      "onboard_time": 1721539337,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 661995,
@@ -219,6 +251,22 @@
       "category": "时尚,社会新闻"
     },
     {
+      "raw_hot": 545770,
+      "num": 315353,
+      "word": "洞洞鞋三宗罪",
+      "onboard_time": 1721540000,
+      "rank": 36,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 535118,
+      "num": 535118,
+      "word": "加拿大女子曝光印度人海滩挖坑大便",
+      "onboard_time": 1721540898,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 529245,
       "num": 477723,
       "word": "花儿与少年",
@@ -260,7 +308,7 @@
     },
     {
       "raw_hot": 484941,
-      "num": 421458,
+      "num": 441786,
       "word": "蓝色监狱 顶级帅哥体育生",
       "onboard_time": 1721534420,
       "rank": 23,
@@ -304,6 +352,14 @@
       "word": "桥梁垮塌幸存者称一车人只有自己获救",
       "onboard_time": 1721535078,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 437618,
+      "num": 437618,
+      "word": "陕西柞水部分坠河车辆位置确定",
+      "onboard_time": 1721539939,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -403,14 +459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 312795,
-      "num": 278420,
-      "word": "花少6官宣阵容",
-      "onboard_time": 1721539638,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 310924,
       "num": 274387,
       "word": "医生说24岁的我舌头放错位置了",
@@ -427,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 303628,
+      "num": 303628,
+      "word": "李庚希纯素颜连麦张大大",
+      "onboard_time": 1721541080,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 294231,
       "num": 294231,
       "word": "外国人免签144小时把酸汤火锅吃火了",
@@ -441,14 +497,6 @@
       "onboard_time": 1721537660,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 288434,
-      "num": 288434,
-      "word": "国家发改委紧急下达3.5亿元",
-      "onboard_time": 1721539337,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 285796,
@@ -499,6 +547,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245856,
+      "num": 245856,
+      "word": "周雨彤侯明昊售后来了",
+      "onboard_time": 1721540420,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 244897,
+      "num": 244897,
+      "word": "县城文学是怎么火爆全网的",
+      "onboard_time": 1721539219,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 239736,
       "num": 239736,
       "word": "三伏天别做这7件事",
@@ -521,6 +585,14 @@
       "onboard_time": 1721502372,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232329,
+      "num": 232329,
+      "word": "孙颖莎进入奥运村就只有乒乓球",
+      "onboard_time": 1721541201,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 230560,
@@ -579,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206391,
+      "num": 206391,
+      "word": "华晨宇肌肉线条",
+      "onboard_time": 1721542340,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 205102,
       "num": 205102,
       "word": "唐诡西行细节",
@@ -619,6 +699,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 200283,
+      "num": 200283,
+      "word": "Uzi频繁请假",
+      "onboard_time": 1721542520,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 198817,
       "num": 198817,
       "word": "微软850万台Windows设备蓝屏",
@@ -649,6 +737,14 @@
       "onboard_time": 1721538917,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195595,
+      "num": 195595,
+      "word": "被胖东来爆改步步高门店工资涨80%",
+      "onboard_time": 1721540478,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195375,
@@ -827,6 +923,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 166295,
+      "num": 166295,
+      "word": "这3件事或是卵巢衰老信号",
+      "onboard_time": 1721539458,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 163599,
       "num": 213936,
       "word": "张予曦获得你好歌手2024歌王",
@@ -841,22 +945,6 @@
       "onboard_time": 1721488701,
       "rank": 27,
       "category": "国内时政,科学科普"
-    },
-    {
-      "raw_hot": 162558,
-      "num": 162558,
-      "word": "县城文学是怎么火爆全网的",
-      "onboard_time": 1721539219,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 161911,
-      "num": 161911,
-      "word": "这3件事或是卵巢衰老信号",
-      "onboard_time": 1721539458,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 161492,
@@ -891,14 +979,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 158693,
-      "num": 158693,
-      "word": "洞洞鞋三宗罪",
-      "onboard_time": 1721540000,
-      "rank": 36,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 155509,
       "num": 155509,
       "word": "纪星韩廷回忆刀最伤人",
@@ -931,6 +1011,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 150023,
+      "num": 150023,
+      "word": "侯明昊花少出发",
+      "onboard_time": 1721542760,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147088,
       "num": 147088,
       "word": "藏海传预约数破200万",
@@ -953,6 +1041,22 @@
       "onboard_time": 1721481498,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 145195,
+      "num": 145195,
+      "word": "杨和苏三封冠军",
+      "onboard_time": 1721541258,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 144441,
+      "num": 144441,
+      "word": "韦世豪道歉",
+      "onboard_time": 1721542879,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 143839,
@@ -1051,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134558,
+      "num": 134558,
+      "word": "宝马销售回应不交车",
+      "onboard_time": 1721542399,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 133116,
       "num": 133116,
       "word": "80岁爷爷坐在兵哥哥肩上看升旗",
@@ -1131,6 +1243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121365,
+      "num": 121365,
+      "word": "林一发文夸张予曦",
+      "onboard_time": 1721541919,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120467,
       "num": 120467,
       "word": "蔡徐坤Allblack",
@@ -1177,6 +1297,14 @@
       "onboard_time": 1721523317,
       "rank": 45,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 116552,
+      "num": 116552,
+      "word": "500年前古人怎样跟朋友送别",
+      "onboard_time": 1721543118,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113852,
@@ -1241,14 +1369,6 @@
       "onboard_time": 1721489241,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106787,
-      "num": 426261,
-      "word": "陕西柞水部分坠河车辆位置确定",
-      "onboard_time": 1721539939,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106117,
@@ -1579,6 +1699,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 30927,
+      "num": 543501,
+      "word": "巴勒斯坦运动员说能来巴黎参赛就是胜利",
+      "onboard_time": 1721542699,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30801,
       "num": 40805,
       "word": "巴黎奥运村主餐厅以前是工厂",
@@ -1600,6 +1728,14 @@
       "word": "有一种甜蜜叫哈密",
       "onboard_time": 1721491881,
       "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 22922,
+      "num": 546525,
+      "word": "被家里老人惦记有多幸福",
+      "onboard_time": 1721537057,
+      "rank": 8,
       "category": "情感"
     },
     {

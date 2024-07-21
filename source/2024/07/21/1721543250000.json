@@ -1,0 +1,410 @@
+{
+  "runTime": 1721543250000,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1607972,
+        "num": 1607972,
+        "word": "花少6官宣阵容",
+        "onboard_time": 1721539638,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 804652,
+        "num": 804652,
+        "word": "多地宝马4S店拒不交车",
+        "onboard_time": 1721533579,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11884,
+        "num": 706065,
+        "word": "幸福就在这里走进西藏",
+        "onboard_time": 1721444479,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 888452,
+        "num": 705935,
+        "word": "陈好 花少6大姐",
+        "onboard_time": 1721540298,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 705774,
+        "num": 705774,
+        "word": "韩国第一夫人被传唤调查",
+        "onboard_time": 1721541439,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 668467,
+        "num": 668467,
+        "word": "国家发改委紧急下达3.5亿元",
+        "onboard_time": 1721539337,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 605234,
+        "num": 605234,
+        "word": "孕妇空袭遇难腹中婴儿被救出",
+        "onboard_time": 1721530518,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 548426,
+        "num": 548426,
+        "word": "杨迪恭喜张予曦总冠军",
+        "onboard_time": 1721529499,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22922,
+        "num": 546525,
+        "word": "被家里老人惦记有多幸福",
+        "onboard_time": 1721537057,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30927,
+        "num": 543501,
+        "word": "巴勒斯坦运动员说能来巴黎参赛就是胜利",
+        "onboard_time": 1721542699,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1198624,
+        "num": 540551,
+        "word": "为特朗普治疗耳朵的医生发声",
+        "onboard_time": 1721538077,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 784903,
+        "num": 537976,
+        "word": "女子被离婚七年的前夫暴力殴打",
+        "onboard_time": 1721538077,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535118,
+        "num": 535118,
+        "word": "加拿大女子曝光印度人海滩挖坑大便",
+        "onboard_time": 1721540898,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516331,
+        "num": 516331,
+        "word": "于正说小龙女先找的Angelababy",
+        "onboard_time": 1721534298,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 441786,
+        "num": 441786,
+        "word": "蓝色监狱 顶级帅哥体育生",
+        "onboard_time": 1721534420,
+        "rank": 14,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 437618,
+        "num": 437618,
+        "word": "陕西柞水部分坠河车辆位置确定",
+        "onboard_time": 1721539939,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375347,
+        "num": 375347,
+        "word": "韩瑞希ins爆料",
+        "onboard_time": 1721525898,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360428,
+        "num": 360428,
+        "word": "家属称希望不要妖魔化超雄综合征",
+        "onboard_time": 1721518755,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328308,
+        "num": 328308,
+        "word": "司机称10个中就有2个在用作弊软件",
+        "onboard_time": 1721529018,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323622,
+        "num": 323622,
+        "word": "13位少年倒了600000尾鱼苗",
+        "onboard_time": 1721527579,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 545770,
+        "num": 315353,
+        "word": "洞洞鞋三宗罪",
+        "onboard_time": 1721540000,
+        "rank": 20,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 503436,
+        "num": 310330,
+        "word": "一次性内裤真的能穿吗",
+        "onboard_time": 1721535978,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 303628,
+        "num": 303628,
+        "word": "李庚希纯素颜连麦张大大",
+        "onboard_time": 1721541080,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255868,
+        "num": 255868,
+        "word": "种地吧回应加人",
+        "onboard_time": 1721467338,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245856,
+        "num": 245856,
+        "word": "周雨彤侯明昊售后来了",
+        "onboard_time": 1721540420,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244897,
+        "num": 244897,
+        "word": "县城文学是怎么火爆全网的",
+        "onboard_time": 1721539219,
+        "rank": 25,
+        "category": "社会新闻,社会议题"
+      },
+      {
+        "raw_hot": 240684,
+        "num": 240684,
+        "word": "花少6官宣宋茜",
+        "onboard_time": 1721538318,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232329,
+        "num": 232329,
+        "word": "孙颖莎进入奥运村就只有乒乓球",
+        "onboard_time": 1721541201,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208218,
+        "num": 208218,
+        "word": "这是长相思2想拍出的变脸效果吗",
+        "onboard_time": 1721539758,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206391,
+        "num": 206391,
+        "word": "华晨宇肌肉线条",
+        "onboard_time": 1721542340,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200283,
+        "num": 200283,
+        "word": "Uzi频繁请假",
+        "onboard_time": 1721542520,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 195595,
+        "num": 195595,
+        "word": "被胖东来爆改步步高门店工资涨80%",
+        "onboard_time": 1721540478,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166295,
+        "num": 166295,
+        "word": "这3件事或是卵巢衰老信号",
+        "onboard_time": 1721539458,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163445,
+        "num": 163445,
+        "word": "立即关闭柞水垮塌桥梁上游所有水库",
+        "onboard_time": 1721536159,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162822,
+        "num": 162822,
+        "word": "桥梁垮塌幸存者称一车人只有自己获救",
+        "onboard_time": 1721535078,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158014,
+        "num": 158014,
+        "word": "于正说鞠婧祎档期排到明年4月了",
+        "onboard_time": 1721526198,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150677,
+        "num": 150677,
+        "word": "蔡少芬 宜修不坏是现实逼她的",
+        "onboard_time": 1721538917,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150023,
+        "num": 150023,
+        "word": "侯明昊花少出发",
+        "onboard_time": 1721542760,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149220,
+        "num": 149220,
+        "word": "汪苏泷 退票",
+        "onboard_time": 1721487622,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145195,
+        "num": 145195,
+        "word": "杨和苏三封冠军",
+        "onboard_time": 1721541258,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144441,
+        "num": 144441,
+        "word": "韦世豪道歉",
+        "onboard_time": 1721542879,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142741,
+        "num": 142741,
+        "word": "张晚意一滴泪演技",
+        "onboard_time": 1721538558,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136430,
+        "num": 136430,
+        "word": "杨倩回应无缘巴黎奥运",
+        "onboard_time": 1721524819,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134558,
+        "num": 134558,
+        "word": "宝马销售回应不交车",
+        "onboard_time": 1721542399,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 131875,
+        "num": 131875,
+        "word": "体重达到这个数大脑可能提前衰老12年",
+        "onboard_time": 1721521158,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129232,
+        "num": 129232,
+        "word": "全红婵水花消失术用英语怎么说",
+        "onboard_time": 1721530579,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121365,
+        "num": 121365,
+        "word": "林一发文夸张予曦",
+        "onboard_time": 1721541919,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120240,
+        "num": 120240,
+        "word": "相柳开大高能名场面",
+        "onboard_time": 1721538917,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119151,
+        "num": 119151,
+        "word": "熊猫妈妈抱着崽翻来覆去地吸",
+        "onboard_time": 1721537538,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116552,
+        "num": 116552,
+        "word": "500年前古人怎样跟朋友送别",
+        "onboard_time": 1721543118,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#切实保障人民群众生命财产安全#"
+    }
+  }
+}
