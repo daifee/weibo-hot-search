@@ -1,6 +1,6 @@
 {
   "startTime": 1721579123353,
-  "endTime": 1721582172043,
+  "endTime": 1721583270978,
   "band_list": [
     {
       "raw_hot": 2077038,
@@ -212,11 +212,19 @@
     },
     {
       "raw_hot": 172487,
-      "num": 172487,
+      "num": 177816,
       "word": "种地吧回应加人",
       "onboard_time": 1721467338,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172111,
+      "num": 172111,
+      "word": "男子称给霸王茶姬差评后被找上门",
+      "onboard_time": 1721581396,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166278,
@@ -225,6 +233,14 @@
       "onboard_time": 1721571621,
       "rank": 28,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 163862,
+      "num": 167306,
+      "word": "宝马回应临时加价4S店才交车",
+      "onboard_time": 1721578879,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 161086,
@@ -273,14 +289,6 @@
       "onboard_time": 1721569821,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128693,
-      "num": 167306,
-      "word": "宝马回应临时加价4S店才交车",
-      "onboard_time": 1721578879,
-      "rank": 48,
-      "category": "汽车"
     },
     {
       "raw_hot": 128006,
@@ -403,14 +411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 81548,
-      "num": 162833,
-      "word": "男子称给霸王茶姬差评后被找上门",
-      "onboard_time": 1721581396,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 78903,
       "num": 252708,
       "word": "内蒙05后人均一米八",
@@ -419,7 +419,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49847,
+      "raw_hot": 51218,
       "num": 159737,
       "word": "赵雅芝叶童重现打伞名场面",
       "onboard_time": 1721580138,
@@ -443,12 +443,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 16774,
+      "raw_hot": 22620,
       "num": 168904,
       "word": "大熊猫北辰是实心的实锤了",
       "onboard_time": 1721581156,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16952,
+      "num": 174579,
+      "word": "71岁大爷破窗勇救落水女司机",
+      "onboard_time": 1721583014,
+      "rank": 14,
+      "category": "社会正能量"
     }
   ],
   "hotgov_list": [
