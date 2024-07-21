@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721586268779,
+  "endTime": 1721587014278,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -680,6 +680,14 @@
       "word": "日本",
       "onboard_time": 1720743977,
       "rank": 0,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 2015385,
+      "num": 2015385,
+      "word": "拜登退选",
+      "onboard_time": 1721585473,
+      "rank": 1,
       "category": "国外时政"
     },
     {
@@ -3913,14 +3921,6 @@
       "onboard_time": 1720138877,
       "rank": 22,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 991839,
-      "num": 991839,
-      "word": "拜登退选",
-      "onboard_time": 1721585473,
-      "rank": 1,
-      "category": "国外时政"
     },
     {
       "raw_hot": 990011,
@@ -53275,6 +53275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86575,
+      "num": 64660,
+      "word": "睡觉盖肚脐真的有必要吗",
+      "onboard_time": 1721582894,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 86516,
       "num": 86516,
       "word": "章昊获得青龙奖OST人气奖",
@@ -53609,14 +53617,6 @@
       "onboard_time": 1720832897,
       "rank": 9,
       "category": "自然"
-    },
-    {
-      "raw_hot": 81676,
-      "num": 64660,
-      "word": "睡觉盖肚脐真的有必要吗",
-      "onboard_time": 1721582894,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 81619,
@@ -57043,6 +57043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48848,
+      "num": 48848,
+      "word": "拜登支持哈里斯竞选",
+      "onboard_time": 1721586613,
+      "rank": 26,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 48737,
       "num": 1230025,
       "word": "高招征集志愿填报注意这5点",
@@ -57681,6 +57689,14 @@
       "onboard_time": 1720134072,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 44321,
+      "num": 44321,
+      "word": "王俊凯电竞男主",
+      "onboard_time": 1721586673,
+      "rank": 29,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 44184,
@@ -59139,6 +59155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31822,
+      "num": 63760,
+      "word": "周深年度最具影响力全能歌手",
+      "onboard_time": 1721585772,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 31785,
       "num": 305636,
       "word": "中国小伙一腿一臂登顶乞力马扎罗",
@@ -59169,14 +59193,6 @@
       "onboard_time": 1720985771,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 31428,
-      "num": 63760,
-      "word": "周深年度最具影响力全能歌手",
-      "onboard_time": 1721585772,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 31333,
@@ -60907,6 +60923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18278,
+      "num": 745755,
+      "word": "打卡课本里的大美中国",
+      "onboard_time": 1721568920,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18221,
       "num": 365912,
       "word": "贴心闺女免费给村里老人剪发27年",
@@ -61017,14 +61041,6 @@
       "onboard_time": 1720892594,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 17502,
-      "num": 654700,
-      "word": "打卡课本里的大美中国",
-      "onboard_time": 1721568920,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17245,

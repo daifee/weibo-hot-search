@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721586268779,
+  "endTime": 1721587014278,
   "band_list": [
     {
       "raw_hot": 3697740,
@@ -65,6 +65,14 @@
       "onboard_time": 1721568741,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2015385,
+      "num": 2015385,
+      "word": "拜登退选",
+      "onboard_time": 1721585473,
+      "rank": 1,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1985531,
@@ -248,14 +256,6 @@
       "word": "韩国第一夫人被传唤调查",
       "onboard_time": 1721541439,
       "rank": 4,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 991839,
-      "num": 991839,
-      "word": "拜登退选",
-      "onboard_time": 1721585473,
-      "rank": 1,
       "category": "国外时政"
     },
     {
@@ -3099,6 +3099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86575,
+      "num": 64660,
+      "word": "睡觉盖肚脐真的有必要吗",
+      "onboard_time": 1721582894,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 86050,
       "num": 121874,
       "word": "上海闪电",
@@ -3121,14 +3129,6 @@
       "onboard_time": 1721488161,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 81676,
-      "num": 64660,
-      "word": "睡觉盖肚脐真的有必要吗",
-      "onboard_time": 1721582894,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 78903,
@@ -3331,6 +3331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48848,
+      "num": 48848,
+      "word": "拜登支持哈里斯竞选",
+      "onboard_time": 1721586613,
+      "rank": 26,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 47458,
       "num": 91049,
       "word": "EDG夺冠",
@@ -3369,6 +3377,14 @@
       "onboard_time": 1721516895,
       "rank": 34,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 44321,
+      "num": 44321,
+      "word": "王俊凯电竞男主",
+      "onboard_time": 1721586673,
+      "rank": 29,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 43275,
@@ -3475,7 +3491,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 31428,
+      "raw_hot": 31822,
       "num": 63760,
       "word": "周深年度最具影响力全能歌手",
       "onboard_time": 1721585772,
@@ -3587,8 +3603,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17502,
-      "num": 654700,
+      "raw_hot": 18278,
+      "num": 745755,
       "word": "打卡课本里的大美中国",
       "onboard_time": 1721568920,
       "rank": 2,
