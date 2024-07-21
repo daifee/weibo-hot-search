@@ -1,0 +1,410 @@
+{
+  "runTime": 1721550927937,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1760150,
+        "num": 1760150,
+        "word": "勤天柱",
+        "onboard_time": 1721548998,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 593920,
+        "num": 593920,
+        "word": "韩国第一夫人被传唤调查",
+        "onboard_time": 1721541439,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 61755,
+        "num": 411301,
+        "word": "深中通道岸边成日出日落旅游打卡点",
+        "onboard_time": 1721549239,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 998024,
+        "num": 401822,
+        "word": "英雄联盟手游取消赵露思置顶",
+        "onboard_time": 1721549239,
+        "rank": 3,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 391388,
+        "num": 391388,
+        "word": "多地宝马4S店拒不交车",
+        "onboard_time": 1721533579,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373812,
+        "num": 373812,
+        "word": "国家发改委紧急下达3.5亿元",
+        "onboard_time": 1721539337,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 751390,
+        "num": 357316,
+        "word": "花少6官宣阵容",
+        "onboard_time": 1721539638,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 724075,
+        "num": 347945,
+        "word": "爱豆和嫂子的日常belike",
+        "onboard_time": 1721545519,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266064,
+        "num": 266064,
+        "word": "山东文科考生们太不容易了",
+        "onboard_time": 1721545278,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 41288,
+        "num": 261817,
+        "word": "井盖被冲男子雨中用身体当警示牌",
+        "onboard_time": 1721547918,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1337868,
+        "num": 255975,
+        "word": "当事人回应胎儿被诊断超雄综合征",
+        "onboard_time": 1721544738,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1098972,
+        "num": 248248,
+        "word": "杨倩陪母亲走完最后时光",
+        "onboard_time": 1721548099,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 603371,
+        "num": 240999,
+        "word": "宋雨琦回应小肚子",
+        "onboard_time": 1721544558,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 542809,
+        "num": 234386,
+        "word": "加拿大女子曝光印度人海滩挖坑大便",
+        "onboard_time": 1721540898,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425262,
+        "num": 233669,
+        "word": "张大大下周公布谁谈恋爱了",
+        "onboard_time": 1721546359,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 421125,
+        "num": 222852,
+        "word": "女子被离婚七年的前夫暴力殴打",
+        "onboard_time": 1721538077,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329734,
+        "num": 220417,
+        "word": "陈好 花少6大姐",
+        "onboard_time": 1721540298,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305737,
+        "num": 211707,
+        "word": "为特朗普治疗耳朵的医生发声",
+        "onboard_time": 1721538077,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 304278,
+        "num": 208086,
+        "word": "杨迪恭喜张予曦总冠军",
+        "onboard_time": 1721529499,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201690,
+        "num": 201690,
+        "word": "英雄联盟手游",
+        "onboard_time": 1721544319,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 357094,
+        "num": 201685,
+        "word": "女子称花7元多买到加了色素的贡菜",
+        "onboard_time": 1721546297,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286069,
+        "num": 201494,
+        "word": "刘耀文 我想演戏当演员",
+        "onboard_time": 1721550137,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262417,
+        "num": 201317,
+        "word": "于正说小龙女先找的Angelababy",
+        "onboard_time": 1721534298,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252239,
+        "num": 201267,
+        "word": "洞洞鞋三宗罪",
+        "onboard_time": 1721540000,
+        "rank": 23,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 249816,
+        "num": 201114,
+        "word": "种地吧回应加人",
+        "onboard_time": 1721467338,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228996,
+        "num": 200948,
+        "word": "这居然是张新成",
+        "onboard_time": 1721550678,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206584,
+        "num": 200834,
+        "word": "张钧甯怕找不到男演员搭戏",
+        "onboard_time": 1721547078,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200775,
+        "num": 200775,
+        "word": "小S和二女儿坐云霄飞车对比",
+        "onboard_time": 1721549778,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200026,
+        "num": 200026,
+        "word": "单依纯给沈月化的烟熏妆",
+        "onboard_time": 1721543599,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198100,
+        "num": 198100,
+        "word": "武警消防在陕西新发现3处失联车辆",
+        "onboard_time": 1721548279,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197500,
+        "num": 197500,
+        "word": "薛之谦单轮巡演鸟巢开九场",
+        "onboard_time": 1721550199,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181165,
+        "num": 181165,
+        "word": "孕妇空袭遇难腹中婴儿被救出",
+        "onboard_time": 1721530518,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 63226,
+        "num": 180791,
+        "word": "星巴克YONEX联名出球拍了",
+        "onboard_time": 1721550258,
+        "rank": 32,
+        "category": "运动健身,美食"
+      },
+      {
+        "raw_hot": 180530,
+        "num": 180530,
+        "word": "一次性内裤真的能穿吗",
+        "onboard_time": 1721535978,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 170978,
+        "num": 170978,
+        "word": "巴黎奥运会 空调",
+        "onboard_time": 1721550079,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169774,
+        "num": 169774,
+        "word": "吃太多甜食可能会加重近视",
+        "onboard_time": 1721546778,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 160269,
+        "num": 160269,
+        "word": "国际数学奥林匹克成绩中国队屈居第二",
+        "onboard_time": 1721549358,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 159430,
+        "num": 159430,
+        "word": "陕西柞水部分坠河车辆位置确定",
+        "onboard_time": 1721539939,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159193,
+        "num": 159193,
+        "word": "王俊凯的蜡像运送方式",
+        "onboard_time": 1721548578,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150497,
+        "num": 150497,
+        "word": "乃万 所有结束都是新的开始",
+        "onboard_time": 1721548338,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143229,
+        "num": 143229,
+        "word": "蓝色监狱 顶级帅哥体育生",
+        "onboard_time": 1721534420,
+        "rank": 40,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 143091,
+        "num": 143091,
+        "word": "超雄综合征会遗传下一代吗",
+        "onboard_time": 1721548759,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138844,
+        "num": 138844,
+        "word": "相柳第一次落泪",
+        "onboard_time": 1721546659,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133291,
+        "num": 133291,
+        "word": "YS对战MRC",
+        "onboard_time": 1721550319,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123117,
+        "num": 123117,
+        "word": "云南一副局长涉嫌酒驾被查处",
+        "onboard_time": 1721549599,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121950,
+        "num": 121950,
+        "word": "浙江高考分数线",
+        "onboard_time": 1721544440,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 121027,
+        "num": 121027,
+        "word": "韦世豪道歉",
+        "onboard_time": 1721542879,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118914,
+        "num": 118914,
+        "word": "SBS歌谣大战",
+        "onboard_time": 1721543779,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116757,
+        "num": 116757,
+        "word": "孙颖莎进入奥运村就只有乒乓球",
+        "onboard_time": 1721541201,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108821,
+        "num": 108821,
+        "word": "韩瑞希ins爆料",
+        "onboard_time": 1721525898,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#论学习贯彻党的二十届三中全会精神#"
+    }
+  }
+}
