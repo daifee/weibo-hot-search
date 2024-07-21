@@ -1,0 +1,410 @@
+{
+  "runTime": 1721546213697,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1216760,
+        "num": 1216760,
+        "word": "花少6官宣阵容",
+        "onboard_time": 1721539638,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1123707,
+        "num": 1123707,
+        "word": "韩国第一夫人被传唤调查",
+        "onboard_time": 1721541439,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 15935,
+        "num": 789939,
+        "word": "中国奥运代表团加油壁纸",
+        "onboard_time": 1721522418,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 663752,
+        "num": 663752,
+        "word": "陈好 花少6大姐",
+        "onboard_time": 1721540298,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 603527,
+        "num": 603527,
+        "word": "国家发改委紧急下达3.5亿元",
+        "onboard_time": 1721539337,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 494968,
+        "num": 494968,
+        "word": "多地宝马4S店拒不交车",
+        "onboard_time": 1721533579,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476138,
+        "num": 476138,
+        "word": "单依纯给沈月化的烟熏妆",
+        "onboard_time": 1721543599,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 458336,
+        "num": 458336,
+        "word": "英雄联盟",
+        "onboard_time": 1721544319,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 440365,
+        "num": 440365,
+        "word": "孕妇空袭遇难腹中婴儿被救出",
+        "onboard_time": 1721530518,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 413175,
+        "num": 413175,
+        "word": "杨迪恭喜张予曦总冠军",
+        "onboard_time": 1721529499,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 873899,
+        "num": 407252,
+        "word": "宋雨琦回应小肚子",
+        "onboard_time": 1721544558,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 789260,
+        "num": 403826,
+        "word": "加拿大女子曝光印度人海滩挖坑大便",
+        "onboard_time": 1721540898,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 675421,
+        "num": 390925,
+        "word": "为特朗普治疗耳朵的医生发声",
+        "onboard_time": 1721538077,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 494132,
+        "num": 382233,
+        "word": "女子被离婚七年的前夫暴力殴打",
+        "onboard_time": 1721538077,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424519,
+        "num": 374493,
+        "word": "于正说小龙女先找的Angelababy",
+        "onboard_time": 1721534298,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 368339,
+        "num": 368339,
+        "word": "当事人回应胎儿被诊断超雄综合征",
+        "onboard_time": 1721544738,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315236,
+        "num": 315236,
+        "word": "家属称希望不要妖魔化超雄综合征",
+        "onboard_time": 1721518755,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295412,
+        "num": 295412,
+        "word": "蓝色监狱 顶级帅哥体育生",
+        "onboard_time": 1721534420,
+        "rank": 17,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 275465,
+        "num": 275465,
+        "word": "种地吧回应加人",
+        "onboard_time": 1721467338,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11350,
+        "num": 275444,
+        "word": "幸福就在这里走进西藏",
+        "onboard_time": 1721444479,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32702,
+        "num": 275037,
+        "word": "男孩野泳脚被卡好心人下水解救",
+        "onboard_time": 1721546059,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58356,
+        "num": 274951,
+        "word": "绝区零朱鸢",
+        "onboard_time": 1721545339,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 599998,
+        "num": 274586,
+        "word": "洞洞鞋三宗罪",
+        "onboard_time": 1721540000,
+        "rank": 22,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 274583,
+        "num": 274583,
+        "word": "爱豆和嫂子的日常belike",
+        "onboard_time": 1721545519,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337476,
+        "num": 267565,
+        "word": "一次性内裤真的能穿吗",
+        "onboard_time": 1721535978,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 260443,
+        "num": 260443,
+        "word": "陕西柞水部分坠河车辆位置确定",
+        "onboard_time": 1721539939,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77197,
+        "num": 252600,
+        "word": "福宝第1次在家过生日",
+        "onboard_time": 1721543841,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248613,
+        "num": 248613,
+        "word": "韩瑞希ins爆料",
+        "onboard_time": 1721525898,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226462,
+        "num": 226462,
+        "word": "孙颖莎进入奥运村就只有乒乓球",
+        "onboard_time": 1721541201,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222738,
+        "num": 222738,
+        "word": "韦世豪道歉",
+        "onboard_time": 1721542879,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203184,
+        "num": 203184,
+        "word": "TMEA音乐节",
+        "onboard_time": 1721544978,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201054,
+        "num": 201054,
+        "word": "是女刘烨不是男刘烨",
+        "onboard_time": 1721545158,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200564,
+        "num": 200564,
+        "word": "SBS歌谣大战",
+        "onboard_time": 1721543779,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199868,
+        "num": 199868,
+        "word": "aespa新加坡签售",
+        "onboard_time": 1721545757,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192015,
+        "num": 192015,
+        "word": "司机称10个中就有2个在用作弊软件",
+        "onboard_time": 1721529018,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187870,
+        "num": 187870,
+        "word": "浙江高考分数线",
+        "onboard_time": 1721544440,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 180637,
+        "num": 180637,
+        "word": "周雨彤侯明昊售后来了",
+        "onboard_time": 1721540420,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180377,
+        "num": 180377,
+        "word": "被胖东来爆改步步高门店工资涨80%",
+        "onboard_time": 1721540478,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178276,
+        "num": 178276,
+        "word": "Uzi频繁请假",
+        "onboard_time": 1721542520,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 175155,
+        "num": 175155,
+        "word": "13位少年倒了600000尾鱼苗",
+        "onboard_time": 1721527579,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173863,
+        "num": 173863,
+        "word": "山东文科考生们太不容易了",
+        "onboard_time": 1721545278,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 170371,
+        "num": 170371,
+        "word": "蔡少芬 宜修不坏是现实逼她的",
+        "onboard_time": 1721538917,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30063,
+        "num": 161689,
+        "word": "女子地铁晕倒瞬间她冲了上去",
+        "onboard_time": 1721545999,
+        "rank": 42,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 158039,
+        "num": 158039,
+        "word": "李庚希纯素颜连麦张大大",
+        "onboard_time": 1721541080,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150387,
+        "num": 150387,
+        "word": "县城文学是怎么火爆全网的",
+        "onboard_time": 1721539219,
+        "rank": 44,
+        "category": "社会新闻,社会议题"
+      },
+      {
+        "raw_hot": 148966,
+        "num": 148966,
+        "word": "杨旭文中戏正武生",
+        "onboard_time": 1721543417,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144859,
+        "num": 144859,
+        "word": "香港中环偶遇徐冬冬尹子维",
+        "onboard_time": 1721544920,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137963,
+        "num": 137963,
+        "word": "英雄联盟手游2周年",
+        "onboard_time": 1721545881,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132818,
+        "num": 132818,
+        "word": "用北京时间打开奥运金牌赛事",
+        "onboard_time": 1721545218,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128939,
+        "num": 128939,
+        "word": "于正说鞠婧祎档期排到明年4月了",
+        "onboard_time": 1721526198,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#切实保障人民群众生命财产安全#"
+    }
+  }
+}

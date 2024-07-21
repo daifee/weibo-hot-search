@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721544025755,
+  "endTime": 1721546213697,
   "band_list": [
     {
       "raw_hot": 2330012,
@@ -91,6 +91,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1123707,
+      "num": 1123707,
+      "word": "韩国第一夫人被传唤调查",
+      "onboard_time": 1721541439,
+      "rank": 4,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 981010,
       "num": 981010,
       "word": "杨迪恭喜张予曦总冠军",
@@ -115,20 +123,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 902184,
-      "num": 902184,
-      "word": "韩国第一夫人被传唤调查",
-      "onboard_time": 1721541439,
-      "rank": 4,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 888452,
       "num": 873373,
       "word": "陈好 花少6大姐",
       "onboard_time": 1721540298,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 873899,
+      "num": 407252,
+      "word": "宋雨琦回应小肚子",
+      "onboard_time": 1721544558,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 871136,
@@ -152,6 +160,14 @@
       "word": "女子被离婚七年的前夫暴力殴打",
       "onboard_time": 1721538077,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 789260,
+      "num": 535118,
+      "word": "加拿大女子曝光印度人海滩挖坑大便",
+      "onboard_time": 1721540898,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -217,14 +233,6 @@
       "onboard_time": 1721519714,
       "rank": 4,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 625932,
-      "num": 535118,
-      "word": "加拿大女子曝光印度人海滩挖坑大便",
-      "onboard_time": 1721540898,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 597910,
@@ -323,6 +331,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 476138,
+      "num": 476138,
+      "word": "单依纯给沈月化的烟熏妆",
+      "onboard_time": 1721543599,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 458336,
+      "num": 458336,
+      "word": "英雄联盟",
+      "onboard_time": 1721544319,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 452813,
       "num": 452813,
       "word": "郑水晶发文告别错位江娜",
@@ -408,6 +432,14 @@
       "word": "泉州卫健委回应号召党员干部生三孩",
       "onboard_time": 1721531058,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 368339,
+      "num": 368339,
+      "word": "当事人回应胎儿被诊断超雄综合征",
+      "onboard_time": 1721544738,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -507,6 +539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 274583,
+      "num": 274583,
+      "word": "爱豆和嫂子的日常belike",
+      "onboard_time": 1721545519,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 268726,
       "num": 268726,
       "word": "代露娃回应长相思角色争议",
@@ -545,14 +585,6 @@
       "onboard_time": 1721536159,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 254318,
-      "num": 254318,
-      "word": "单依纯给沈月化的烟熏妆",
-      "onboard_time": 1721543599,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 249134,
@@ -707,6 +739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 203184,
+      "num": 203184,
+      "word": "TMEA音乐节",
+      "onboard_time": 1721544978,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 203141,
       "num": 203141,
       "word": "景甜深V碎花裙",
@@ -729,6 +769,30 @@
       "onboard_time": 1721525718,
       "rank": 9,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 201054,
+      "num": 201054,
+      "word": "是女刘烨不是男刘烨",
+      "onboard_time": 1721545158,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 200564,
+      "num": 200564,
+      "word": "SBS歌谣大战",
+      "onboard_time": 1721543779,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 199868,
+      "num": 199868,
+      "word": "aespa新加坡签售",
+      "onboard_time": 1721545757,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 198817,
@@ -835,6 +899,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 187870,
+      "num": 187870,
+      "word": "浙江高考分数线",
+      "onboard_time": 1721544440,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 185793,
       "num": 185793,
       "word": "花花的每个动作都是甜蜜暴击",
@@ -913,6 +985,14 @@
       "onboard_time": 1721525599,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173863,
+      "num": 173863,
+      "word": "山东文科考生们太不容易了",
+      "onboard_time": 1721545278,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 172821,
@@ -1051,14 +1131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 147378,
-      "num": 147378,
-      "word": "SBS歌谣大战",
-      "onboard_time": 1721543779,
-      "rank": 39,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 147088,
       "num": 147088,
       "word": "藏海传预约数破200万",
@@ -1089,6 +1161,14 @@
       "onboard_time": 1721541258,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144859,
+      "num": 144859,
+      "word": "香港中环偶遇徐冬冬尹子维",
+      "onboard_time": 1721544920,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 143839,
@@ -1163,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137963,
+      "num": 137963,
+      "word": "英雄联盟手游2周年",
+      "onboard_time": 1721545881,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 137695,
       "num": 137695,
       "word": "林依轮95年央视春晚证件照曝光",
@@ -1209,6 +1297,14 @@
       "onboard_time": 1721518936,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132818,
+      "num": 132818,
+      "word": "用北京时间打开奥运金牌赛事",
+      "onboard_time": 1721545218,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 132374,
@@ -1523,6 +1619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77197,
+      "num": 272461,
+      "word": "福宝第1次在家过生日",
+      "onboard_time": 1721543841,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76784,
       "num": 399273,
       "word": "挖掘机转运受伤群众过河",
@@ -1561,6 +1665,14 @@
       "onboard_time": 1721534898,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58356,
+      "num": 274951,
+      "word": "绝区零朱鸢",
+      "onboard_time": 1721545339,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 57119,
@@ -1616,14 +1728,6 @@
       "word": "司机高速路遇货车提醒躲过一劫",
       "onboard_time": 1721523798,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 49099,
-      "num": 272461,
-      "word": "福宝第1次在家过生日",
-      "onboard_time": 1721543841,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -1732,7 +1836,7 @@
     },
     {
       "raw_hot": 36615,
-      "num": 206909,
+      "num": 789939,
       "word": "中国奥运代表团加油壁纸",
       "onboard_time": 1721522418,
       "rank": 25,
@@ -1755,6 +1859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 32702,
+      "num": 275037,
+      "word": "男孩野泳脚被卡好心人下水解救",
+      "onboard_time": 1721546059,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30966,
       "num": 400518,
       "word": "导弹维修专业究竟在学什么",
@@ -1769,6 +1881,14 @@
       "onboard_time": 1721501712,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30063,
+      "num": 161689,
+      "word": "女子地铁晕倒瞬间她冲了上去",
+      "onboard_time": 1721545999,
+      "rank": 42,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 26373,
