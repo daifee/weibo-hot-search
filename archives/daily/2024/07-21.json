@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721539191212,
+  "endTime": 1721540140722,
   "band_list": [
     {
       "raw_hot": 2330012,
@@ -99,7 +99,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 860711,
+      "raw_hot": 871136,
       "num": 335182,
       "word": "一次性内裤真的能穿吗",
       "onboard_time": 1721535978,
@@ -113,6 +113,22 @@
       "onboard_time": 1721528718,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 806459,
+      "num": 424147,
+      "word": "女子被离婚七年的前夫暴力殴打",
+      "onboard_time": 1721538077,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 766083,
+      "num": 766083,
+      "word": "花少6官宣宋茜",
+      "onboard_time": 1721538318,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 733476,
@@ -147,20 +163,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 674290,
+      "num": 422959,
+      "word": "为特朗普治疗耳朵的医生发声",
+      "onboard_time": 1721538077,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 661995,
       "num": 558100,
       "word": "贵州22岁女子退婚后遭男方入室杀害",
       "onboard_time": 1721519714,
       "rank": 4,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 635205,
-      "num": 482695,
-      "word": "花少6官宣宋茜",
-      "onboard_time": 1721538318,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 597910,
@@ -203,6 +219,14 @@
       "category": "时尚,社会新闻"
     },
     {
+      "raw_hot": 529245,
+      "num": 477723,
+      "word": "花儿与少年",
+      "onboard_time": 1721537778,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 525879,
       "num": 552740,
       "word": "男子轨交上猥亵女子被拘13日",
@@ -235,20 +259,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 484941,
+      "num": 421458,
+      "word": "蓝色监狱 顶级帅哥体育生",
+      "onboard_time": 1721534420,
+      "rank": 23,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 484226,
       "num": 323828,
       "word": "王嘉尔又当伴郎了",
       "onboard_time": 1721489301,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 477723,
-      "num": 477723,
-      "word": "花儿与少年",
-      "onboard_time": 1721537778,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 452813,
@@ -283,28 +307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 417611,
-      "num": 417611,
-      "word": "蓝色监狱 顶级帅哥体育生",
-      "onboard_time": 1721534420,
-      "rank": 23,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 408319,
       "num": 408319,
       "word": "檀健次全黑",
       "onboard_time": 1721520736,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 407465,
-      "num": 407465,
-      "word": "女子被离婚七年的前夫暴力殴打",
-      "onboard_time": 1721538077,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 402339,
@@ -371,14 +379,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 360712,
-      "num": 175491,
-      "word": "为特朗普治疗耳朵的医生发声",
-      "onboard_time": 1721538077,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 342240,
       "num": 342240,
       "word": "优衣库高管称中国消费者心态变了",
@@ -400,6 +400,14 @@
       "word": "十个勤天粉丝发文",
       "onboard_time": 1721536218,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 312795,
+      "num": 278420,
+      "word": "花少6官宣阵容",
+      "onboard_time": 1721539638,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -435,6 +443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 288434,
+      "num": 288434,
+      "word": "国家发改委紧急下达3.5亿元",
+      "onboard_time": 1721539337,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 285796,
       "num": 214971,
       "word": "发烫的手机一下就降温了",
@@ -451,12 +467,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 267777,
+      "num": 267777,
+      "word": "这是长相思2想拍出的变脸效果吗",
+      "onboard_time": 1721539758,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 263752,
       "num": 263752,
       "word": "金智媛怼脸生图",
       "onboard_time": 1721487742,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 254690,
+      "num": 441718,
+      "word": "立即关闭柞水垮塌桥梁上游所有水库",
+      "onboard_time": 1721536159,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249134,
@@ -505,6 +537,14 @@
       "onboard_time": 1721518515,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 222545,
+      "num": 222545,
+      "word": "蔡少芬 宜修不坏是现实逼她的",
+      "onboard_time": 1721538917,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 221948,
@@ -609,14 +649,6 @@
       "onboard_time": 1721538917,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 195421,
-      "num": 441718,
-      "word": "立即关闭柞水垮塌桥梁上游所有水库",
-      "onboard_time": 1721536159,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 195375,
@@ -811,6 +843,22 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 162558,
+      "num": 162558,
+      "word": "县城文学是怎么火爆全网的",
+      "onboard_time": 1721539219,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 161911,
+      "num": 161911,
+      "word": "这3件事或是卵巢衰老信号",
+      "onboard_time": 1721539458,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 161492,
       "num": 213833,
       "word": "TFBOYS在这位大哥嘴里合体了",
@@ -841,6 +889,14 @@
       "onboard_time": 1721528479,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 158693,
+      "num": 158693,
+      "word": "洞洞鞋三宗罪",
+      "onboard_time": 1721540000,
+      "rank": 36,
+      "category": "时尚"
     },
     {
       "raw_hot": 155509,
@@ -905,14 +961,6 @@
       "onboard_time": 1721531599,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 143754,
-      "num": 143754,
-      "word": "蔡少芬 宜修不坏是现实逼她的",
-      "onboard_time": 1721538917,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 143651,
@@ -1195,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106787,
+      "num": 426261,
+      "word": "陕西柞水部分坠河车辆位置确定",
+      "onboard_time": 1721539939,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106117,
       "num": 106117,
       "word": "肖战演唱烛光里的妈妈",
@@ -1273,6 +1329,14 @@
       "onboard_time": 1721483239,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88079,
+      "num": 426180,
+      "word": "大桥垮塌生还者抱紧石头被村民救起",
+      "onboard_time": 1721538020,
+      "rank": 14,
+      "category": "社会新闻,社会正能量"
     },
     {
       "raw_hot": 86050,
@@ -1425,14 +1489,6 @@
       "onboard_time": 1721496435,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 46214,
-      "num": 426180,
-      "word": "大桥垮塌生还者抱紧石头被村民救起",
-      "onboard_time": 1721538020,
-      "rank": 14,
-      "category": "社会新闻,社会正能量"
     },
     {
       "raw_hot": 45717,
