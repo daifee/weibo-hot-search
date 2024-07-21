@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721589301070,
+  "endTime": 1721590501143,
   "band_list": [
     {
       "raw_hot": 3697740,
@@ -993,6 +993,14 @@
       "onboard_time": 1721536218,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 314784,
+      "num": 314784,
+      "word": "特朗普回应拜登退选",
+      "onboard_time": 1721588592,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 312013,
@@ -3059,6 +3067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95353,
+      "num": 59315,
+      "word": "特朗普称哈里斯更容易被击败",
+      "onboard_time": 1721589071,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 93332,
       "num": 211180,
       "word": "华晨宇忒修斯的船",
@@ -3081,14 +3097,6 @@
       "onboard_time": 1721484320,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 89673,
-      "num": 59315,
-      "word": "特朗普称哈里斯更容易被击败",
-      "onboard_time": 1721589071,
-      "rank": 13,
-      "category": "国外时政"
     },
     {
       "raw_hot": 88661,
@@ -3185,14 +3193,6 @@
       "onboard_time": 1721567180,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74528,
-      "num": 34401,
-      "word": "特朗普回应拜登退选",
-      "onboard_time": 1721588592,
-      "rank": 30,
-      "category": "国外时政"
     },
     {
       "raw_hot": 73644,
@@ -3321,6 +3321,14 @@
       "onboard_time": 1721489601,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 53725,
+      "num": 41066,
+      "word": "长沙交警通报",
+      "onboard_time": 1721588292,
+      "rank": 34,
+      "category": "社会负面"
     },
     {
       "raw_hot": 52234,
@@ -3505,14 +3513,6 @@
       "onboard_time": 1721537057,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 31930,
-      "num": 34115,
-      "word": "长沙交警通报",
-      "onboard_time": 1721588292,
-      "rank": 34,
-      "category": "社会负面"
     },
     {
       "raw_hot": 31822,

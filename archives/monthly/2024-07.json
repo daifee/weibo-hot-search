@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721589301070,
+  "endTime": 1721590501143,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -19497,6 +19497,14 @@
       "onboard_time": 1721194100,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 314784,
+      "num": 314784,
+      "word": "特朗普回应拜登退选",
+      "onboard_time": 1721588592,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 314691,
@@ -52411,6 +52419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 95353,
+      "num": 59315,
+      "word": "特朗普称哈里斯更容易被击败",
+      "onboard_time": 1721589071,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 95270,
       "num": 95270,
       "word": "李蓉重新喜欢上裴文宣",
@@ -53009,14 +53025,6 @@
       "onboard_time": 1720136356,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 89673,
-      "num": 59315,
-      "word": "特朗普称哈里斯更容易被击败",
-      "onboard_time": 1721589071,
-      "rank": 13,
-      "category": "国外时政"
     },
     {
       "raw_hot": 89396,
@@ -54289,14 +54297,6 @@
       "onboard_time": 1720277180,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 74528,
-      "num": 34401,
-      "word": "特朗普回应拜登退选",
-      "onboard_time": 1721588592,
-      "rank": 30,
-      "category": "国外时政"
     },
     {
       "raw_hot": 74284,
@@ -56449,6 +56449,14 @@
       "onboard_time": 1720148898,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53725,
+      "num": 41066,
+      "word": "长沙交警通报",
+      "onboard_time": 1721588292,
+      "rank": 34,
+      "category": "社会负面"
     },
     {
       "raw_hot": 53662,
@@ -59161,14 +59169,6 @@
       "onboard_time": 1721191820,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 31930,
-      "num": 34115,
-      "word": "长沙交警通报",
-      "onboard_time": 1721588292,
-      "rank": 34,
-      "category": "社会负面"
     },
     {
       "raw_hot": 31874,
