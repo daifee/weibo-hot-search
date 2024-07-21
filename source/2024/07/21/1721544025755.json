@@ -1,0 +1,410 @@
+{
+  "runTime": 1721544025755,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1516196,
+        "num": 1516196,
+        "word": "花少6官宣阵容",
+        "onboard_time": 1721539638,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 902184,
+        "num": 902184,
+        "word": "韩国第一夫人被传唤调查",
+        "onboard_time": 1721541439,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 12963,
+        "num": 884197,
+        "word": "幸福就在这里走进西藏",
+        "onboard_time": 1721444479,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 873373,
+        "num": 873373,
+        "word": "陈好 花少6大姐",
+        "onboard_time": 1721540298,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 695314,
+        "num": 695314,
+        "word": "国家发改委紧急下达3.5亿元",
+        "onboard_time": 1721539337,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 672666,
+        "num": 672666,
+        "word": "多地宝马4S店拒不交车",
+        "onboard_time": 1721533579,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559531,
+        "num": 559531,
+        "word": "孕妇空袭遇难腹中婴儿被救出",
+        "onboard_time": 1721530518,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 528873,
+        "num": 528873,
+        "word": "杨迪恭喜张予曦总冠军",
+        "onboard_time": 1721529499,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 443817,
+        "num": 443817,
+        "word": "蓝色监狱 顶级帅哥体育生",
+        "onboard_time": 1721534420,
+        "rank": 8,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 69908,
+        "num": 441523,
+        "word": "巴勒斯坦运动员说能来巴黎参赛就是胜利",
+        "onboard_time": 1721542699,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1095753,
+        "num": 433948,
+        "word": "为特朗普治疗耳朵的医生发声",
+        "onboard_time": 1721538077,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 682257,
+        "num": 426802,
+        "word": "女子被离婚七年的前夫暴力殴打",
+        "onboard_time": 1721538077,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625932,
+        "num": 417473,
+        "word": "加拿大女子曝光印度人海滩挖坑大便",
+        "onboard_time": 1721540898,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481983,
+        "num": 409412,
+        "word": "于正说小龙女先找的Angelababy",
+        "onboard_time": 1721534298,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30966,
+        "num": 400518,
+        "word": "导弹维修专业究竟在学什么",
+        "onboard_time": 1721543417,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399501,
+        "num": 399501,
+        "word": "陕西柞水部分坠河车辆位置确定",
+        "onboard_time": 1721539939,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374604,
+        "num": 374604,
+        "word": "家属称希望不要妖魔化超雄综合征",
+        "onboard_time": 1721518755,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353880,
+        "num": 353880,
+        "word": "韩瑞希ins爆料",
+        "onboard_time": 1721525898,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304334,
+        "num": 304334,
+        "word": "司机称10个中就有2个在用作弊软件",
+        "onboard_time": 1721529018,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279501,
+        "num": 279501,
+        "word": "13位少年倒了600000尾鱼苗",
+        "onboard_time": 1721527579,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 667633,
+        "num": 274006,
+        "word": "洞洞鞋三宗罪",
+        "onboard_time": 1721540000,
+        "rank": 20,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 49099,
+        "num": 272461,
+        "word": "福宝第1次在家过生日",
+        "onboard_time": 1721543841,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35237,
+        "num": 264169,
+        "word": "被家里老人惦记有多幸福",
+        "onboard_time": 1721537057,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 469748,
+        "num": 257500,
+        "word": "一次性内裤真的能穿吗",
+        "onboard_time": 1721535978,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 256031,
+        "num": 256031,
+        "word": "县城文学是怎么火爆全网的",
+        "onboard_time": 1721539219,
+        "rank": 24,
+        "category": "社会新闻,社会议题"
+      },
+      {
+        "raw_hot": 254318,
+        "num": 254318,
+        "word": "单依纯给沈月化的烟熏妆",
+        "onboard_time": 1721543599,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247002,
+        "num": 247002,
+        "word": "李庚希纯素颜连麦张大大",
+        "onboard_time": 1721541080,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238681,
+        "num": 238681,
+        "word": "种地吧回应加人",
+        "onboard_time": 1721467338,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232762,
+        "num": 232762,
+        "word": "周雨彤侯明昊售后来了",
+        "onboard_time": 1721540420,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229820,
+        "num": 229820,
+        "word": "孙颖莎进入奥运村就只有乒乓球",
+        "onboard_time": 1721541201,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241759,
+        "num": 228655,
+        "word": "韦世豪道歉",
+        "onboard_time": 1721542879,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226685,
+        "num": 226685,
+        "word": "Uzi频繁请假",
+        "onboard_time": 1721542520,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 212310,
+        "num": 212310,
+        "word": "被胖东来爆改步步高门店工资涨80%",
+        "onboard_time": 1721540478,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194184,
+        "num": 194184,
+        "word": "杨旭文中戏正武生",
+        "onboard_time": 1721543417,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190112,
+        "num": 190112,
+        "word": "蔡少芬 宜修不坏是现实逼她的",
+        "onboard_time": 1721538917,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172634,
+        "num": 172634,
+        "word": "这是长相思2想拍出的变脸效果吗",
+        "onboard_time": 1721539758,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161442,
+        "num": 161442,
+        "word": "这3件事或是卵巢衰老信号",
+        "onboard_time": 1721539458,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 158839,
+        "num": 158839,
+        "word": "于正说鞠婧祎档期排到明年4月了",
+        "onboard_time": 1721526198,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152022,
+        "num": 152022,
+        "word": "歌谣大战红毯",
+        "onboard_time": 1721543898,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147378,
+        "num": 147378,
+        "word": "SBS歌谣大战",
+        "onboard_time": 1721543779,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 142893,
+        "num": 142893,
+        "word": "500年前古人怎样跟朋友送别",
+        "onboard_time": 1721543118,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139012,
+        "num": 139012,
+        "word": "侯明昊花少出发",
+        "onboard_time": 1721542760,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138897,
+        "num": 138897,
+        "word": "杨和苏三封冠军",
+        "onboard_time": 1721541258,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136418,
+        "num": 136418,
+        "word": "汪苏泷 退票",
+        "onboard_time": 1721487622,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135712,
+        "num": 135712,
+        "word": "桥梁垮塌幸存者称一车人只有自己获救",
+        "onboard_time": 1721535078,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131544,
+        "num": 131544,
+        "word": "宝马销售回应不交车",
+        "onboard_time": 1721542399,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 129765,
+        "num": 129765,
+        "word": "杨倩回应无缘巴黎奥运",
+        "onboard_time": 1721524819,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128893,
+        "num": 128893,
+        "word": "花少6官宣宋茜",
+        "onboard_time": 1721538318,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127784,
+        "num": 127784,
+        "word": "立即关闭柞水垮塌桥梁上游所有水库",
+        "onboard_time": 1721536159,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126883,
+        "num": 126883,
+        "word": "张晚意一滴泪演技",
+        "onboard_time": 1721538558,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#切实保障人民群众生命财产安全#"
+    }
+  }
+}

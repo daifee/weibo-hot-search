@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721543250000,
+  "endTime": 1721544025755,
   "band_list": [
     {
       "raw_hot": 2330012,
@@ -115,8 +115,16 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 902184,
+      "num": 902184,
+      "word": "韩国第一夫人被传唤调查",
+      "onboard_time": 1721541439,
+      "rank": 4,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 888452,
-      "num": 705935,
+      "num": 873373,
       "word": "陈好 花少6大姐",
       "onboard_time": 1721540298,
       "rank": 3,
@@ -163,14 +171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 705774,
-      "num": 705774,
-      "word": "韩国第一夫人被传唤调查",
-      "onboard_time": 1721541439,
-      "rank": 4,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 705597,
       "num": 275414,
       "word": "体重达到这个数大脑可能提前衰老12年",
@@ -187,6 +187,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 695314,
+      "num": 695314,
+      "word": "国家发改委紧急下达3.5亿元",
+      "onboard_time": 1721539337,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 693484,
       "num": 693484,
       "word": "司机称10个中就有2个在用作弊软件",
@@ -195,12 +203,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 668467,
-      "num": 668467,
-      "word": "国家发改委紧急下达3.5亿元",
-      "onboard_time": 1721539337,
-      "rank": 18,
-      "category": "国内时政"
+      "raw_hot": 667633,
+      "num": 315353,
+      "word": "洞洞鞋三宗罪",
+      "onboard_time": 1721540000,
+      "rank": 36,
+      "category": "时尚"
     },
     {
       "raw_hot": 661995,
@@ -209,6 +217,14 @@
       "onboard_time": 1721519714,
       "rank": 4,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 625932,
+      "num": 535118,
+      "word": "加拿大女子曝光印度人海滩挖坑大便",
+      "onboard_time": 1721540898,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 597910,
@@ -249,22 +265,6 @@
       "onboard_time": 1721525776,
       "rank": 22,
       "category": "时尚,社会新闻"
-    },
-    {
-      "raw_hot": 545770,
-      "num": 315353,
-      "word": "洞洞鞋三宗罪",
-      "onboard_time": 1721540000,
-      "rank": 36,
-      "category": "时尚"
-    },
-    {
-      "raw_hot": 535118,
-      "num": 535118,
-      "word": "加拿大女子曝光印度人海滩挖坑大便",
-      "onboard_time": 1721540898,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 529245,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 484941,
-      "num": 441786,
+      "num": 443817,
       "word": "蓝色监狱 顶级帅哥体育生",
       "onboard_time": 1721534420,
       "rank": 23,
@@ -531,12 +531,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 256031,
+      "num": 256031,
+      "word": "县城文学是怎么火爆全网的",
+      "onboard_time": 1721539219,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 254690,
       "num": 441718,
       "word": "立即关闭柞水垮塌桥梁上游所有水库",
       "onboard_time": 1721536159,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254318,
+      "num": 254318,
+      "word": "单依纯给沈月化的烟熏妆",
+      "onboard_time": 1721543599,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 249134,
@@ -555,12 +571,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 244897,
-      "num": 244897,
-      "word": "县城文学是怎么火爆全网的",
-      "onboard_time": 1721539219,
-      "rank": 34,
-      "category": "情感"
+      "raw_hot": 241759,
+      "num": 228655,
+      "word": "韦世豪道歉",
+      "onboard_time": 1721542879,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 239736,
@@ -601,6 +617,14 @@
       "onboard_time": 1721533699,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226685,
+      "num": 226685,
+      "word": "Uzi频繁请假",
+      "onboard_time": 1721542520,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 223950,
@@ -651,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212310,
+      "num": 212310,
+      "word": "被胖东来爆改步步高门店工资涨80%",
+      "onboard_time": 1721540478,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206391,
       "num": 206391,
       "word": "华晨宇肌肉线条",
@@ -699,14 +731,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 200283,
-      "num": 200283,
-      "word": "Uzi频繁请假",
-      "onboard_time": 1721542520,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 198817,
       "num": 198817,
       "word": "微软850万台Windows设备蓝屏",
@@ -739,14 +763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195595,
-      "num": 195595,
-      "word": "被胖东来爆改步步高门店工资涨80%",
-      "onboard_time": 1721540478,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 195375,
       "num": 195375,
       "word": "郭士强任中国男篮主教练",
@@ -760,6 +776,14 @@
       "word": "藏海的浑天仪",
       "onboard_time": 1721534839,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 194184,
+      "num": 194184,
+      "word": "杨旭文中戏正武生",
+      "onboard_time": 1721543417,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -1003,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152022,
+      "num": 152022,
+      "word": "歌谣大战红毯",
+      "onboard_time": 1721543898,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 151235,
       "num": 151235,
       "word": "以军空袭也门荷台达",
@@ -1017,6 +1049,14 @@
       "onboard_time": 1721542760,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147378,
+      "num": 147378,
+      "word": "SBS歌谣大战",
+      "onboard_time": 1721543779,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 147088,
@@ -1051,14 +1091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 144441,
-      "num": 144441,
-      "word": "韦世豪道歉",
-      "onboard_time": 1721542879,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 143839,
       "num": 143839,
       "word": "鹭卓晒自拍说下次见",
@@ -1072,6 +1104,14 @@
       "word": "滴滴客服就8公里收费两百多致歉",
       "onboard_time": 1721485641,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142893,
+      "num": 142893,
+      "word": "500年前古人怎样跟朋友送别",
+      "onboard_time": 1721543118,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1299,14 +1339,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 116552,
-      "num": 116552,
-      "word": "500年前古人怎样跟朋友送别",
-      "onboard_time": 1721543118,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113852,
       "num": 211659,
       "word": "演员李晟回怼网友",
@@ -1507,6 +1539,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 69908,
+      "num": 543501,
+      "word": "巴勒斯坦运动员说能来巴黎参赛就是胜利",
+      "onboard_time": 1721542699,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60679,
       "num": 153959,
       "word": "大学生众筹千元救难产猫妈妈",
@@ -1576,6 +1616,14 @@
       "word": "司机高速路遇货车提醒躲过一劫",
       "onboard_time": 1721523798,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49099,
+      "num": 272461,
+      "word": "福宝第1次在家过生日",
+      "onboard_time": 1721543841,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -1699,12 +1747,20 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 30927,
-      "num": 543501,
-      "word": "巴勒斯坦运动员说能来巴黎参赛就是胜利",
-      "onboard_time": 1721542699,
-      "rank": 9,
-      "category": "体育"
+      "raw_hot": 35237,
+      "num": 546525,
+      "word": "被家里老人惦记有多幸福",
+      "onboard_time": 1721537057,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 30966,
+      "num": 400518,
+      "word": "导弹维修专业究竟在学什么",
+      "onboard_time": 1721543417,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30801,
@@ -1728,14 +1784,6 @@
       "word": "有一种甜蜜叫哈密",
       "onboard_time": 1721491881,
       "rank": 23,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 22922,
-      "num": 546525,
-      "word": "被家里老人惦记有多幸福",
-      "onboard_time": 1721537057,
-      "rank": 8,
       "category": "情感"
     },
     {
