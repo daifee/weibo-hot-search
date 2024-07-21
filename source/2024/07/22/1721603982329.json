@@ -1,0 +1,410 @@
+{
+  "runTime": 1721603982329,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6598521,
+        "num": 6598521,
+        "word": "拜登退选",
+        "onboard_time": 1721585473,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1328012,
+        "num": 1328012,
+        "word": "特朗普回应拜登退选",
+        "onboard_time": 1721588592,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 50798,
+        "num": 535788,
+        "word": "打卡课本里的大美中国",
+        "onboard_time": 1721568920,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1476067,
+        "num": 507671,
+        "word": "见证历史",
+        "onboard_time": 1721590632,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 451875,
+        "num": 451875,
+        "word": "为什么现在很少看到灾难片了",
+        "onboard_time": 1721576899,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 341963,
+        "num": 341963,
+        "word": "男子称给霸王茶姬差评后被找上门",
+        "onboard_time": 1721581396,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320164,
+        "num": 320164,
+        "word": "虎门一公职人员贩毒被执行死刑",
+        "onboard_time": 1721571982,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262879,
+        "num": 262879,
+        "word": "种地吧",
+        "onboard_time": 1721603897,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191096,
+        "num": 191096,
+        "word": "大暑",
+        "onboard_time": 1721603476,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21599,
+        "num": 190327,
+        "word": "博物馆的千年文物开花了",
+        "onboard_time": 1721575581,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 512421,
+        "num": 186076,
+        "word": "五一广场车祸",
+        "onboard_time": 1721572161,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 496650,
+        "num": 183763,
+        "word": "拜登支持哈里斯竞选",
+        "onboard_time": 1721586613,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 490028,
+        "num": 181579,
+        "word": "男女店内亲热被店家请离后给差评",
+        "onboard_time": 1721572042,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404993,
+        "num": 178678,
+        "word": "特朗普称哈里斯更容易被击败",
+        "onboard_time": 1721589071,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 249902,
+        "num": 177548,
+        "word": "延迟退休",
+        "onboard_time": 1721561058,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 217634,
+        "num": 175648,
+        "word": "胎儿检出超雄孕妇完成终止妊娠手术",
+        "onboard_time": 1721562979,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207842,
+        "num": 171922,
+        "word": "黄子韬徐艺洋公开后秀恩爱",
+        "onboard_time": 1721568741,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170618,
+        "num": 170618,
+        "word": "做过近视眼手术的人嘴都这么严吗",
+        "onboard_time": 1721569461,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 167495,
+        "num": 167495,
+        "word": "宝马回应临时加价4S店才交车",
+        "onboard_time": 1721578879,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 166071,
+        "num": 166071,
+        "word": "哈里斯",
+        "onboard_time": 1721603777,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 135017,
+        "num": 135017,
+        "word": "熬过4个易发胖时刻变瘦就容易了",
+        "onboard_time": 1721577199,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 129589,
+        "num": 129589,
+        "word": "男婴出生2天腿部青紫查出罕见病",
+        "onboard_time": 1721568321,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128770,
+        "num": 128770,
+        "word": "相柳小夭见的最后一面",
+        "onboard_time": 1721576721,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124981,
+        "num": 124981,
+        "word": "睡觉盖肚脐真的有必要吗",
+        "onboard_time": 1721582894,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 122537,
+        "num": 122537,
+        "word": "长沙交警通报",
+        "onboard_time": 1721588292,
+        "rank": 24,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 117185,
+        "num": 117185,
+        "word": "阳虚还是阴虚看出汗就能知道",
+        "onboard_time": 1721569461,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 112933,
+        "num": 112933,
+        "word": "张元英踩到安宥真的裙子",
+        "onboard_time": 1721575460,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 112642,
+        "num": 112642,
+        "word": "郑钦文夺生涯第三冠",
+        "onboard_time": 1721603415,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101835,
+        "num": 101835,
+        "word": "泰国队员想来中国队宿舍凉快",
+        "onboard_time": 1721565621,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98208,
+        "num": 98208,
+        "word": "盗墓团伙要价1.8亿的文物被追回",
+        "onboard_time": 1721570842,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98567,
+        "num": 97146,
+        "word": "业主群爱心红包被秒抢引公愤",
+        "onboard_time": 1721597951,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87033,
+        "num": 87033,
+        "word": "YG准备推出NextMonster",
+        "onboard_time": 1721603235,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85867,
+        "num": 85867,
+        "word": "拜登",
+        "onboard_time": 1721585593,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 78604,
+        "num": 78604,
+        "word": "悉尼一父亲救滚入轨道的婴儿车不幸死亡",
+        "onboard_time": 1721563879,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76679,
+        "num": 76679,
+        "word": "吃饭偶遇张婧仪做服务员",
+        "onboard_time": 1721573844,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76546,
+        "num": 76546,
+        "word": "进入大暑多地体感温度达40摄氏度",
+        "onboard_time": 1721603656,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74570,
+        "num": 74570,
+        "word": "王源回重庆不回家住的原因",
+        "onboard_time": 1721568321,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69946,
+        "num": 69946,
+        "word": "预制菜已经发展到这个地步了",
+        "onboard_time": 1721562560,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 68982,
+        "num": 68982,
+        "word": "中国奥数竞赛五连冠被美国队终结",
+        "onboard_time": 1721592671,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 68157,
+        "num": 68157,
+        "word": "陕西塌桥一落水者因打开车窗获救",
+        "onboard_time": 1721569821,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66526,
+        "num": 66526,
+        "word": "赵露思直播怼脸镜头",
+        "onboard_time": 1721571621,
+        "rank": 40,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 71320,
+        "num": 66478,
+        "word": "TFBOYS发文支持王源",
+        "onboard_time": 1721569221,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 66021,
+        "num": 66021,
+        "word": "为啥鸡的身体零件比整只鸡贵",
+        "onboard_time": 1721575522,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 61877,
+        "num": 61877,
+        "word": "2NE1确定重组",
+        "onboard_time": 1721603536,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56133,
+        "num": 61857,
+        "word": "薛之谦压轴",
+        "onboard_time": 1721569281,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 51665,
+        "num": 61819,
+        "word": "种地吧回应加人",
+        "onboard_time": 1721467338,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49692,
+        "num": 61804,
+        "word": "王俊凯电竞男主",
+        "onboard_time": 1721586673,
+        "rank": 46,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 43752,
+        "num": 61781,
+        "word": "三中全会决定60条",
+        "onboard_time": 1721551518,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 41035,
+        "num": 61731,
+        "word": "出汗并不能帮身体排毒",
+        "onboard_time": 1721593572,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 39077,
+        "num": 61722,
+        "word": "宋茜回应花少6官宣",
+        "onboard_time": 1721581216,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#三中全会决定60条#"
+    }
+  }
+}

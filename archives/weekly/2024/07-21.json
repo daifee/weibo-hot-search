@@ -1,7 +1,15 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721601284205,
+  "endTime": 1721603982329,
   "band_list": [
+    {
+      "raw_hot": 6598521,
+      "num": 6598521,
+      "word": "拜登退选",
+      "onboard_time": 1721585473,
+      "rank": 1,
+      "category": "国外时政"
+    },
     {
       "raw_hot": 3697740,
       "num": 1298240,
@@ -67,14 +75,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2015385,
-      "num": 2015385,
-      "word": "拜登退选",
-      "onboard_time": 1721585473,
-      "rank": 1,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 1985531,
       "num": 433838,
       "word": "初步确认垮塌高速桥坠桥43人信息",
@@ -121,6 +121,14 @@
       "onboard_time": 1721551518,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1476067,
+      "num": 507671,
+      "word": "见证历史",
+      "onboard_time": 1721590632,
+      "rank": 3,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1447507,
@@ -177,6 +185,14 @@
       "onboard_time": 1721544738,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1328012,
+      "num": 1328012,
+      "word": "特朗普回应拜登退选",
+      "onboard_time": 1721588592,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1324585,
@@ -363,14 +379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 781014,
-      "num": 355482,
-      "word": "见证历史",
-      "onboard_time": 1721590632,
-      "rank": 3,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 768676,
       "num": 768676,
       "word": "刘耀文 我想演戏当演员",
@@ -481,14 +489,6 @@
       "onboard_time": 1721540000,
       "rank": 36,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 665065,
-      "num": 665065,
-      "word": "特朗普回应拜登退选",
-      "onboard_time": 1721588592,
-      "rank": 30,
-      "category": "国外时政"
     },
     {
       "raw_hot": 661995,
@@ -683,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 496650,
+      "num": 402189,
+      "word": "拜登支持哈里斯竞选",
+      "onboard_time": 1721586613,
+      "rank": 26,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 486760,
       "num": 455730,
       "word": "赵丽颖 电影向阳花",
@@ -835,20 +843,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 404993,
+      "num": 178678,
+      "word": "特朗普称哈里斯更容易被击败",
+      "onboard_time": 1721589071,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 402339,
       "num": 402339,
       "word": "宝格丽CEO感谢刘亦菲吴磊",
       "onboard_time": 1721520436,
       "rank": 14,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 402189,
-      "num": 402189,
-      "word": "拜登支持哈里斯竞选",
-      "onboard_time": 1721586613,
-      "rank": 26,
-      "category": "国外时政"
     },
     {
       "raw_hot": 400777,
@@ -1185,6 +1193,14 @@
       "onboard_time": 1721487742,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 262879,
+      "num": 262879,
+      "word": "种地吧",
+      "onboard_time": 1721603897,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 261750,
@@ -1851,6 +1867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191096,
+      "num": 191096,
+      "word": "大暑",
+      "onboard_time": 1721603476,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189507,
       "num": 189507,
       "word": "迈凯轮策略",
@@ -2155,6 +2179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167495,
+      "num": 167495,
+      "word": "宝马回应临时加价4S店才交车",
+      "onboard_time": 1721578879,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 166295,
       "num": 166295,
       "word": "这3件事或是卵巢衰老信号",
@@ -2171,20 +2203,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 166071,
+      "num": 166071,
+      "word": "哈里斯",
+      "onboard_time": 1721603777,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 164910,
       "num": 164910,
       "word": "吴佳怡 怼人赛道",
       "onboard_time": 1721552240,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 163862,
-      "num": 167306,
-      "word": "宝马回应临时加价4S店才交车",
-      "onboard_time": 1721578879,
-      "rank": 48,
-      "category": "汽车"
     },
     {
       "raw_hot": 163599,
@@ -2787,6 +2819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124981,
+      "num": 124981,
+      "word": "睡觉盖肚脐真的有必要吗",
+      "onboard_time": 1721582894,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 123117,
       "num": 123117,
       "word": "云南一副局长涉嫌酒驾被查处",
@@ -2801,6 +2841,14 @@
       "onboard_time": 1721490260,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 122537,
+      "num": 122537,
+      "word": "长沙交警通报",
+      "onboard_time": 1721588292,
+      "rank": 34,
+      "category": "社会负面"
     },
     {
       "raw_hot": 122174,
@@ -2905,6 +2953,14 @@
       "onboard_time": 1721565799,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112642,
+      "num": 112642,
+      "word": "郑钦文夺生涯第三冠",
+      "onboard_time": 1721603415,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 112449,
@@ -3067,20 +3123,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 98567,
+      "num": 97146,
+      "word": "业主群爱心红包被秒抢引公愤",
+      "onboard_time": 1721597951,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98242,
       "num": 210554,
       "word": "刘耀文泼宋亚轩",
       "onboard_time": 1721482640,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 95353,
-      "num": 80786,
-      "word": "特朗普称哈里斯更容易被击败",
-      "onboard_time": 1721589071,
-      "rank": 13,
-      "category": "国外时政"
     },
     {
       "raw_hot": 93332,
@@ -3131,12 +3187,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 86575,
-      "num": 67884,
-      "word": "睡觉盖肚脐真的有必要吗",
-      "onboard_time": 1721582894,
-      "rank": 20,
-      "category": "健康医疗"
+      "raw_hot": 87033,
+      "num": 87033,
+      "word": "YG准备推出NextMonster",
+      "onboard_time": 1721603235,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 86050,
@@ -3195,20 +3251,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76546,
+      "num": 76546,
+      "word": "进入大暑多地体感温度达40摄氏度",
+      "onboard_time": 1721603656,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75950,
       "num": 151621,
       "word": "男孩不想吃学习的苦被家长带去捡瓶子",
       "onboard_time": 1721567180,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73899,
-      "num": 73899,
-      "word": "长沙交警通报",
-      "onboard_time": 1721588292,
-      "rank": 34,
-      "category": "社会负面"
     },
     {
       "raw_hot": 73644,
@@ -3251,6 +3307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68982,
+      "num": 68982,
+      "word": "中国奥数竞赛五连冠被美国队终结",
+      "onboard_time": 1721592671,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 68293,
       "num": 787288,
       "word": "暴雨来袭不要这样做",
@@ -3273,6 +3337,14 @@
       "onboard_time": 1721550258,
       "rank": 32,
       "category": "运动健身,美食"
+    },
+    {
+      "raw_hot": 61877,
+      "num": 61877,
+      "word": "2NE1确定重组",
+      "onboard_time": 1721603536,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 60679,
@@ -3363,12 +3435,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 49273,
-      "num": 49273,
-      "word": "业主群爱心红包被秒抢引公愤",
-      "onboard_time": 1721597951,
-      "rank": 32,
+      "raw_hot": 50798,
+      "num": 745755,
+      "word": "打卡课本里的大美中国",
+      "onboard_time": 1721568920,
+      "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49692,
+      "num": 61804,
+      "word": "王俊凯电竞男主",
+      "onboard_time": 1721586673,
+      "rank": 29,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 49259,
@@ -3419,14 +3499,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 44321,
-      "num": 44321,
-      "word": "王俊凯电竞男主",
-      "onboard_time": 1721586673,
-      "rank": 29,
-      "category": "艺人,电竞"
-    },
-    {
       "raw_hot": 43275,
       "num": 46031,
       "word": "康康 这是无数个日日夜夜换来的",
@@ -3451,12 +3523,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 39651,
-      "num": 39651,
-      "word": "中国奥数竞赛五连冠被美国队终结",
-      "onboard_time": 1721592671,
-      "rank": 45,
-      "category": "教育"
+      "raw_hot": 41035,
+      "num": 61731,
+      "word": "出汗并不能帮身体排毒",
+      "onboard_time": 1721593572,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 38976,
@@ -3537,22 +3609,6 @@
       "onboard_time": 1721537057,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 34313,
-      "num": 34313,
-      "word": "出汗并不能帮身体排毒",
-      "onboard_time": 1721593572,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 32868,
-      "num": 745755,
-      "word": "打卡课本里的大美中国",
-      "onboard_time": 1721568920,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31822,

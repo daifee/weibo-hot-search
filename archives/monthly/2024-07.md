@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/22 06:34:44
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/22 07:19:42
 </p>
 </blockquote>
 <p>
@@ -65,6 +65,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%BF%97%E6%9D%B0%E5%8E%BB%E4%B8%96%23" target="weibo">
 张志杰去世（热度：7901681）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E9%80%80%E9%80%89%23" target="weibo">
+拜登退选（热度：6598521）
 </a>
 </li>
 
@@ -521,12 +527,6 @@ TFBOYS发文支持王源（热度：2183586）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%23" target="weibo">
 日本（热度：2028549）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E9%80%80%E9%80%89%23" target="weibo">
-拜登退选（热度：2015385）
 </a>
 </li>
 
@@ -1275,6 +1275,12 @@ Lenka袭榜（热度：1680168）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A7%81%E8%AF%81%E5%8E%86%E5%8F%B2%23" target="weibo">
+见证历史（热度：1476067）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%20%E5%92%8C%E9%A2%82%23" target="weibo">
 鞠婧祎 和颂（热度：1476049）
 </a>
@@ -1637,6 +1643,12 @@ DK（热度：1341805）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%96%9D%E6%B0%B4%E5%B0%B1%E6%83%B3%E5%B0%BF%E5%92%8C%E5%A4%9A%E5%96%9D%E6%B0%B4%E5%8D%B4%E6%B2%A1%E5%B0%BF%E5%93%AA%E4%B8%AA%E4%B8%8D%E5%A5%BD%23" target="weibo">
 一喝水就想尿和多喝水却没尿哪个不好（热度：1328362）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E6%8B%9C%E7%99%BB%E9%80%80%E9%80%89%23" target="weibo">
+特朗普回应拜登退选（热度：1328012）
 </a>
 </li>
 
@@ -4509,12 +4521,6 @@ T1夺冠（热度：781234）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A7%81%E8%AF%81%E5%8E%86%E5%8F%B2%23" target="weibo">
-见证历史（热度：781014）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%96%E6%89%B9%E6%AD%A6%E8%AD%A6%E5%B7%B2%E6%8A%B5%E8%BE%BE%E6%B4%9E%E5%BA%AD%E6%B9%96%E5%BC%80%E5%A7%8B%E6%95%91%E6%8F%B4%23" target="weibo">
 首批武警已抵达洞庭湖开始救援（热度：780932）
 </a>
@@ -5759,12 +5765,6 @@ B太曝光星期狗（热度：681086）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E5%8F%8D%E9%A9%B3%E4%B8%AD%E5%9B%BD%E6%88%BF%E5%AD%90%E8%BF%87%E5%89%A9%23" target="weibo">
 北大教授反驳中国房子过剩（热度：665307）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E6%8B%9C%E7%99%BB%E9%80%80%E9%80%89%23" target="weibo">
-特朗普回应拜登退选（热度：665065）
 </a>
 </li>
 

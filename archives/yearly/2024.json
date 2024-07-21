@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1721601284205,
+  "endTime": 1721603982329,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1057,6 +1057,14 @@
       "onboard_time": 1718422519,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 6598521,
+      "num": 6598521,
+      "word": "拜登退选",
+      "onboard_time": 1721585473,
+      "rank": 1,
+      "category": "国外时政"
     },
     {
       "raw_hot": 6547480,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1717731506,
       "rank": 1,
       "category": "教育"
-    },
-    {
-      "raw_hot": 3410457,
-      "num": 3410457,
-      "word": "端午节放3天不调休",
-      "onboard_time": 1713145817,
-      "rank": 0,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
