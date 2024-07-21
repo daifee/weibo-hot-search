@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721565328243,
+  "endTime": 1721566200845,
   "band_list": [
     {
       "raw_hot": 3697740,
@@ -259,6 +259,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 745765,
+      "num": 745765,
+      "word": "双胞胎坐婴儿车滚下站台撞上火车",
+      "onboard_time": 1721563879,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 738518,
+      "num": 738518,
+      "word": "胎儿检出超雄孕妇完成终止妊娠手术",
+      "onboard_time": 1721562979,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 733476,
       "num": 715641,
       "word": "于正说鞠婧祎档期排到明年4月了",
@@ -315,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 684592,
+      "num": 684592,
+      "word": "预制菜已经发展到这个地步了",
+      "onboard_time": 1721562560,
+      "rank": 3,
+      "category": "美食"
+    },
+    {
       "raw_hot": 681373,
       "num": 641038,
       "word": "杨超越还好没退群",
@@ -345,14 +369,6 @@
       "onboard_time": 1721558478,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 633730,
-      "num": 418744,
-      "word": "预制菜已经发展到这个地步了",
-      "onboard_time": 1721562560,
-      "rank": 3,
-      "category": "美食"
     },
     {
       "raw_hot": 597910,
@@ -499,14 +515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 465442,
-      "num": 307118,
-      "word": "胎儿检出超雄孕妇完成终止妊娠手术",
-      "onboard_time": 1721562979,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 459612,
       "num": 459612,
       "word": "英雄联盟",
@@ -520,6 +528,14 @@
       "word": "郑水晶发文告别错位江娜",
       "onboard_time": 1721531239,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 450336,
+      "num": 450336,
+      "word": "唐诡2仵作之死最惨的是谁",
+      "onboard_time": 1721564300,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -625,6 +641,14 @@
       "onboard_time": 1721521096,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 382166,
+      "num": 382166,
+      "word": "泰国队员想来中国队宿舍凉快",
+      "onboard_time": 1721565621,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 373272,
@@ -803,14 +827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 270269,
-      "num": 270269,
-      "word": "双胞胎坐婴儿车滚下站台撞上火车",
-      "onboard_time": 1721563879,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 269008,
       "num": 269008,
       "word": "追星女和同龄人现状",
@@ -899,12 +915,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 244483,
-      "num": 244483,
-      "word": "唐诡2仵作之死最惨的是谁",
-      "onboard_time": 1721564300,
-      "rank": 19,
-      "category": "剧集"
+      "raw_hot": 242614,
+      "num": 220968,
+      "word": "宁艺卓上海签售",
+      "onboard_time": 1721565259,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 241759,
@@ -969,6 +985,14 @@
       "onboard_time": 1721542520,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 225893,
+      "num": 219934,
+      "word": "你比星光美丽",
+      "onboard_time": 1721564240,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 223950,
@@ -1059,20 +1083,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206695,
+      "num": 206695,
+      "word": "赵露思花车饭撒",
+      "onboard_time": 1721565079,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 206391,
       "num": 206391,
       "word": "华晨宇肌肉线条",
       "onboard_time": 1721542340,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 205516,
-      "num": 205516,
-      "word": "你比星光美丽",
-      "onboard_time": 1721564240,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 205102,
@@ -1083,12 +1107,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204786,
+      "num": 204786,
+      "word": "孟佳腰臀比",
+      "onboard_time": 1721565139,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 204591,
       "num": 204591,
       "word": "买了个最老实的狗后面发现是装的",
       "onboard_time": 1721513532,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 204292,
+      "num": 204292,
+      "word": "ive新闻图",
+      "onboard_time": 1721565741,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 203184,
@@ -1107,12 +1147,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 202783,
-      "num": 199887,
-      "word": "赵露思花车饭撒",
-      "onboard_time": 1721565079,
-      "rank": 25,
-      "category": "作品衍生,时尚"
+      "raw_hot": 202183,
+      "num": 168180,
+      "word": "王俊凯ID成为英雄",
+      "onboard_time": 1721565681,
+      "rank": 30,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 201815,
@@ -1243,14 +1283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196298,
-      "num": 196298,
-      "word": "宁艺卓上海签售",
-      "onboard_time": 1721565259,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
       "raw_hot": 195375,
       "num": 195375,
       "word": "郭士强任中国男篮主教练",
@@ -1329,6 +1361,14 @@
       "onboard_time": 1721525898,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188393,
+      "num": 188393,
+      "word": "美国15岁华裔女孩骑行途中离奇消失",
+      "onboard_time": 1721561778,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188332,
@@ -1579,6 +1619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167861,
+      "num": 167861,
+      "word": "中医说三伏天得热着过",
+      "onboard_time": 1721564601,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 166295,
       "num": 166295,
       "word": "这3件事或是卵巢衰老信号",
@@ -1593,6 +1641,14 @@
       "onboard_time": 1721552240,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163774,
+      "num": 163774,
+      "word": "孙颖莎谈对混双金牌的渴望",
+      "onboard_time": 1721564840,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 163599,
@@ -1843,14 +1899,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 141163,
-      "num": 141163,
-      "word": "美国15岁华裔女孩骑行途中离奇消失",
-      "onboard_time": 1721561778,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140977,
       "num": 140977,
       "word": "巴黎奥运会设计已经是nextlevel了",
@@ -1892,7 +1940,7 @@
     },
     {
       "raw_hot": 138372,
-      "num": 419220,
+      "num": 740129,
       "word": "中国奥运天团大合影汇总",
       "onboard_time": 1721537840,
       "rank": 40,
@@ -1955,6 +2003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 137426,
+      "num": 137426,
+      "word": "酱汁鑫鑫豆豆",
+      "onboard_time": 1721566040,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137306,
       "num": 137306,
       "word": "虞书欣拍的黄晓明新中式",
@@ -1969,6 +2025,14 @@
       "onboard_time": 1721552898,
       "rank": 40,
       "category": "科学科普,母婴育儿"
+    },
+    {
+      "raw_hot": 137002,
+      "num": 137002,
+      "word": "晚霞",
+      "onboard_time": 1721562800,
+      "rank": 40,
+      "category": "自然"
     },
     {
       "raw_hot": 135882,
@@ -1993,14 +2057,6 @@
       "onboard_time": 1721485401,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 135157,
-      "num": 135157,
-      "word": "晚霞",
-      "onboard_time": 1721562800,
-      "rank": 40,
-      "category": "自然"
     },
     {
       "raw_hot": 134558,
@@ -2171,14 +2227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120864,
-      "num": 120864,
-      "word": "孟佳腰臀比",
-      "onboard_time": 1721565139,
-      "rank": 44,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 120467,
       "num": 120467,
       "word": "蔡徐坤Allblack",
@@ -2243,28 +2291,28 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 114571,
-      "num": 114571,
-      "word": "中医说三伏天得热着过",
-      "onboard_time": 1721564601,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 114113,
-      "num": 114113,
-      "word": "孙颖莎谈对混双金牌的渴望",
-      "onboard_time": 1721564840,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 113852,
       "num": 211659,
       "word": "演员李晟回怼网友",
       "onboard_time": 1721459238,
       "rank": 39,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 113375,
+      "num": 113375,
+      "word": "贤贤崽掀翻盆盆奶",
+      "onboard_time": 1721565799,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 112449,
+      "num": 112449,
+      "word": "绽放巴黎",
+      "onboard_time": 1721563460,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 112442,
@@ -2769,6 +2817,14 @@
       "onboard_time": 1721507531,
       "rank": 48,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 35810,
+      "num": 393355,
+      "word": "一口价黄金饰品套路多成消费陷阱",
+      "onboard_time": 1721565319,
+      "rank": 9,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 35237,
