@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721576076385,
+  "endTime": 1721579123353,
   "band_list": [
     {
       "raw_hot": 3697740,
@@ -145,6 +145,14 @@
       "onboard_time": 1721524819,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1338959,
+      "num": 250810,
+      "word": "人大教授王贵元 性骚扰",
+      "onboard_time": 1721578100,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1337868,
@@ -307,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 856287,
+      "num": 335522,
+      "word": "王贵元",
+      "onboard_time": 1721574083,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 850569,
       "num": 850569,
       "word": "中国奥运首金得主谈金牌捐献国博",
@@ -451,14 +467,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 655768,
-      "num": 335522,
-      "word": "王贵元",
-      "onboard_time": 1721574083,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 645203,
       "num": 349243,
       "word": "男婴出生2天腿部青紫查出罕见病",
@@ -577,6 +585,14 @@
       "onboard_time": 1721537778,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 528944,
+      "num": 528944,
+      "word": "张元英踩到安宥真的裙子",
+      "onboard_time": 1721575460,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 525879,
@@ -747,14 +763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 425445,
-      "num": 370554,
-      "word": "张元英踩到安宥真的裙子",
-      "onboard_time": 1721575460,
-      "rank": 6,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 425262,
       "num": 281525,
       "word": "张大大下周公布谁谈恋爱了",
@@ -777,6 +785,14 @@
       "onboard_time": 1721520736,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 405830,
+      "num": 268498,
+      "word": "为什么现在很少看到灾难片了",
+      "onboard_time": 1721576899,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 402339,
@@ -1171,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254053,
+      "num": 456191,
+      "word": "陕西桥梁垮塌事故已致15人遇难",
+      "onboard_time": 1721572222,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249134,
       "num": 249134,
       "word": "保洁大爷帮抓老鼠被咬商户只愿给800",
@@ -1451,6 +1475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 203562,
+      "num": 203562,
+      "word": "单依纯都搞唱跳了",
+      "onboard_time": 1721576001,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 203184,
       "num": 203184,
       "word": "TMEA音乐节",
@@ -1563,14 +1595,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 199721,
-      "num": 456191,
-      "word": "陕西桥梁垮塌事故已致15人遇难",
-      "onboard_time": 1721572222,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 199054,
       "num": 393355,
       "word": "一口价黄金饰品套路多成消费陷阱",
@@ -1640,6 +1664,14 @@
       "word": "相柳第一次落泪",
       "onboard_time": 1721546659,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 197846,
+      "num": 197846,
+      "word": "相柳小夭见的最后一面",
+      "onboard_time": 1721576721,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -1761,6 +1793,14 @@
       "onboard_time": 1721525898,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190709,
+      "num": 190709,
+      "word": "熬过4个易发胖时刻变瘦就容易了",
+      "onboard_time": 1721577199,
+      "rank": 24,
+      "category": "运动健身"
     },
     {
       "raw_hot": 189507,
@@ -2019,14 +2059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170977,
-      "num": 170977,
-      "word": "单依纯都搞唱跳了",
-      "onboard_time": 1721576001,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 170734,
       "num": 290853,
       "word": "盗墓笔记",
@@ -2121,6 +2153,14 @@
       "onboard_time": 1721482519,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161086,
+      "num": 161086,
+      "word": "周深今天好闪",
+      "onboard_time": 1721577920,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 161005,
@@ -2891,6 +2931,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 104362,
+      "num": 347829,
+      "word": "博物馆的千年文物开花了",
+      "onboard_time": 1721575581,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 102887,
       "num": 102887,
       "word": "朱志鑫组二公小考第一",
@@ -2929,6 +2977,14 @@
       "onboard_time": 1721549239,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98805,
+      "num": 150495,
+      "word": "周深TMEA压轴",
+      "onboard_time": 1721576419,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 98767,
@@ -3019,6 +3075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 82282,
+      "num": 150481,
+      "word": "宝马回应临时加价4S店才交车",
+      "onboard_time": 1721578879,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 78589,
       "num": 78589,
       "word": "新疆地震",
@@ -3073,14 +3137,6 @@
       "onboard_time": 1721560518,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 71482,
-      "num": 347829,
-      "word": "博物馆的千年文物开花了",
-      "onboard_time": 1721575581,
-      "rank": 9,
-      "category": "旅游"
     },
     {
       "raw_hot": 70829,
@@ -3272,6 +3328,14 @@
       "word": "小摔跤手阿其拉跳蒙版科目三",
       "onboard_time": 1721536338,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41581,
+      "num": 252708,
+      "word": "内蒙05后人均一米八",
+      "onboard_time": 1721577441,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
