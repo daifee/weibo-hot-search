@@ -1,10 +1,10 @@
 {
   "startTime": 1721579123353,
-  "endTime": 1721603982329,
+  "endTime": 1721604965551,
   "band_list": [
     {
-      "raw_hot": 6598521,
-      "num": 6598521,
+      "raw_hot": 7346864,
+      "num": 7346864,
       "word": "拜登退选",
       "onboard_time": 1721585473,
       "rank": 1,
@@ -19,19 +19,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1985838,
+      "num": 507671,
+      "word": "见证历史",
+      "onboard_time": 1721590632,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1953437,
-      "num": 251684,
+      "num": 310605,
       "word": "五一广场车祸",
       "onboard_time": 1721572161,
       "rank": 10,
       "category": "社会负面"
     },
     {
-      "raw_hot": 1476067,
-      "num": 507671,
-      "word": "见证历史",
-      "onboard_time": 1721590632,
-      "rank": 3,
+      "raw_hot": 1444891,
+      "num": 1328012,
+      "word": "特朗普回应拜登退选",
+      "onboard_time": 1721588592,
+      "rank": 30,
       "category": "国外时政"
     },
     {
@@ -40,14 +48,6 @@
       "word": "拜登",
       "onboard_time": 1721585593,
       "rank": 0,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 1328012,
-      "num": 1328012,
-      "word": "特朗普回应拜登退选",
-      "onboard_time": 1721588592,
-      "rank": 30,
       "category": "国外时政"
     },
     {
@@ -67,12 +67,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 777322,
+      "num": 777322,
+      "word": "拜登支持哈里斯竞选",
+      "onboard_time": 1721586613,
+      "rank": 26,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 686213,
       "num": 919794,
       "word": "TFBOYS发文支持王源",
       "onboard_time": 1721569221,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 654787,
+      "num": 348921,
+      "word": "哈里斯",
+      "onboard_time": 1721603777,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 627611,
@@ -92,7 +108,7 @@
     },
     {
       "raw_hot": 557983,
-      "num": 244057,
+      "num": 283406,
       "word": "延迟退休",
       "onboard_time": 1721561058,
       "rank": 15,
@@ -108,19 +124,19 @@
     },
     {
       "raw_hot": 528621,
-      "num": 245796,
+      "num": 256392,
       "word": "黄子韬徐艺洋公开后秀恩爱",
       "onboard_time": 1721568741,
       "rank": 14,
       "category": "综艺"
     },
     {
-      "raw_hot": 496650,
-      "num": 402189,
-      "word": "拜登支持哈里斯竞选",
-      "onboard_time": 1721586613,
-      "rank": 26,
-      "category": "国外时政"
+      "raw_hot": 527717,
+      "num": 527717,
+      "word": "种地吧",
+      "onboard_time": 1721603897,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 480833,
@@ -139,6 +155,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 415385,
+      "num": 296730,
+      "word": "特朗普称哈里斯更容易被击败",
+      "onboard_time": 1721589071,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 413459,
       "num": 243574,
       "word": "吃饭偶遇张婧仪做服务员",
@@ -147,16 +171,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 404993,
-      "num": 178678,
-      "word": "特朗普称哈里斯更容易被击败",
-      "onboard_time": 1721589071,
-      "rank": 13,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 399376,
-      "num": 241260,
+      "num": 254306,
       "word": "胎儿检出超雄孕妇完成终止妊娠手术",
       "onboard_time": 1721562979,
       "rank": 17,
@@ -177,14 +193,6 @@
       "onboard_time": 1721570842,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 262879,
-      "num": 262879,
-      "word": "种地吧",
-      "onboard_time": 1721603897,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 254053,
@@ -219,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212336,
+      "num": 212336,
+      "word": "人大教授王贵元",
+      "onboard_time": 1721604378,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203562,
       "num": 203562,
       "word": "单依纯都搞唱跳了",
@@ -249,6 +265,14 @@
       "onboard_time": 1721577199,
       "rank": 24,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 193848,
+      "num": 193848,
+      "word": "2NE1确定重组",
+      "onboard_time": 1721603536,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 191096,
@@ -307,14 +331,6 @@
       "category": "艺人,电竞"
     },
     {
-      "raw_hot": 166071,
-      "num": 166071,
-      "word": "哈里斯",
-      "onboard_time": 1721603777,
-      "rank": 19,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 161086,
       "num": 161086,
       "word": "周深今天好闪",
@@ -347,12 +363,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149481,
+      "num": 149481,
+      "word": "郑钦文夺生涯第三冠",
+      "onboard_time": 1721603415,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 139195,
+      "num": 139195,
+      "word": "泫雅表演时台下无人应援",
+      "onboard_time": 1721604677,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132616,
       "num": 164294,
       "word": "为啥鸡的身体零件比整只鸡贵",
       "onboard_time": 1721575522,
       "rank": 33,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 131656,
+      "num": 131656,
+      "word": "YG准备推出NextMonster",
+      "onboard_time": 1721603235,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 130509,
@@ -427,12 +467,12 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 112642,
-      "num": 112642,
-      "word": "郑钦文夺生涯第三冠",
-      "onboard_time": 1721603415,
-      "rank": 27,
-      "category": "体育"
+      "raw_hot": 114645,
+      "num": 114645,
+      "word": "王鹤棣新歌烧",
+      "onboard_time": 1721604256,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 111170,
@@ -452,7 +492,7 @@
     },
     {
       "raw_hot": 104362,
-      "num": 190327,
+      "num": 341682,
       "word": "博物馆的千年文物开花了",
       "onboard_time": 1721575581,
       "rank": 42,
@@ -491,14 +531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 87033,
-      "num": 87033,
-      "word": "YG准备推出NextMonster",
-      "onboard_time": 1721603235,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 86863,
       "num": 163486,
       "word": "蒲熠星JOJO私下关系",
@@ -521,6 +553,14 @@
       "onboard_time": 1721568140,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 79630,
+      "num": 79630,
+      "word": "华晨宇说不要再说我写的歌很难了",
+      "onboard_time": 1721604437,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 78903,
@@ -547,12 +587,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 61877,
-      "num": 61877,
-      "word": "2NE1确定重组",
-      "onboard_time": 1721603536,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 68226,
+      "num": 745755,
+      "word": "打卡课本里的大美中国",
+      "onboard_time": 1721568920,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65180,
+      "num": 65180,
+      "word": "碰谁都不能碰巨蟹座",
+      "onboard_time": 1721604738,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 51218,
@@ -561,14 +609,6 @@
       "onboard_time": 1721580138,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 50798,
-      "num": 745755,
-      "word": "打卡课本里的大美中国",
-      "onboard_time": 1721568920,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49842,

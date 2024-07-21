@@ -1,10 +1,10 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721603982329,
+  "endTime": 1721604965551,
   "band_list": [
     {
-      "raw_hot": 6598521,
-      "num": 6598521,
+      "raw_hot": 7346864,
+      "num": 7346864,
       "word": "拜登退选",
       "onboard_time": 1721585473,
       "rank": 1,
@@ -75,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1985838,
+      "num": 507671,
+      "word": "见证历史",
+      "onboard_time": 1721590632,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1985531,
       "num": 433838,
       "word": "初步确认垮塌高速桥坠桥43人信息",
@@ -123,20 +131,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1476067,
-      "num": 507671,
-      "word": "见证历史",
-      "onboard_time": 1721590632,
-      "rank": 3,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 1447507,
       "num": 985171,
       "word": "种地吧回应加人",
       "onboard_time": 1721467338,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1444891,
+      "num": 1328012,
+      "word": "特朗普回应拜登退选",
+      "onboard_time": 1721588592,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1425914,
@@ -185,14 +193,6 @@
       "onboard_time": 1721544738,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1328012,
-      "num": 1328012,
-      "word": "特朗普回应拜登退选",
-      "onboard_time": 1721588592,
-      "rank": 30,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1324585,
@@ -379,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 777322,
+      "num": 777322,
+      "word": "拜登支持哈里斯竞选",
+      "onboard_time": 1721586613,
+      "rank": 26,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 768676,
       "num": 768676,
       "word": "刘耀文 我想演戏当演员",
@@ -497,6 +505,14 @@
       "onboard_time": 1721519714,
       "rank": 4,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 654787,
+      "num": 348921,
+      "word": "哈里斯",
+      "onboard_time": 1721603777,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 645203,
@@ -635,6 +651,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 527717,
+      "num": 527717,
+      "word": "种地吧",
+      "onboard_time": 1721603897,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 525879,
       "num": 552740,
       "word": "男子轨交上猥亵女子被拘13日",
@@ -681,14 +705,6 @@
       "onboard_time": 1721564300,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 496650,
-      "num": 402189,
-      "word": "拜登支持哈里斯竞选",
-      "onboard_time": 1721586613,
-      "rank": 26,
-      "category": "国外时政"
     },
     {
       "raw_hot": 486760,
@@ -835,20 +851,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 415385,
+      "num": 296730,
+      "word": "特朗普称哈里斯更容易被击败",
+      "onboard_time": 1721589071,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 408319,
       "num": 408319,
       "word": "檀健次全黑",
       "onboard_time": 1721520736,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 404993,
-      "num": 178678,
-      "word": "特朗普称哈里斯更容易被击败",
-      "onboard_time": 1721589071,
-      "rank": 13,
-      "category": "国外时政"
     },
     {
       "raw_hot": 402339,
@@ -1195,14 +1211,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 262879,
-      "num": 262879,
-      "word": "种地吧",
-      "onboard_time": 1721603897,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 261750,
       "num": 1264713,
       "word": "关于二十届三中全会决定的说明",
@@ -1465,6 +1473,14 @@
       "onboard_time": 1721486301,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212336,
+      "num": 212336,
+      "word": "人大教授王贵元",
+      "onboard_time": 1721604378,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212310,
@@ -1809,6 +1825,14 @@
       "onboard_time": 1721555179,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193848,
+      "num": 193848,
+      "word": "2NE1确定重组",
+      "onboard_time": 1721603536,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 193340,
@@ -2203,14 +2227,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 166071,
-      "num": 166071,
-      "word": "哈里斯",
-      "onboard_time": 1721603777,
-      "rank": 19,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 164910,
       "num": 164910,
       "word": "吴佳怡 怼人赛道",
@@ -2403,6 +2419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149481,
+      "num": 149481,
+      "word": "郑钦文夺生涯第三冠",
+      "onboard_time": 1721603415,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147088,
       "num": 147088,
       "word": "藏海传预约数破200万",
@@ -2537,6 +2561,14 @@
       "onboard_time": 1721556019,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 139195,
+      "num": 139195,
+      "word": "泫雅表演时台下无人应援",
+      "onboard_time": 1721604677,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 138913,
@@ -2739,6 +2771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131656,
+      "num": 131656,
+      "word": "YG准备推出NextMonster",
+      "onboard_time": 1721603235,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131192,
       "num": 131192,
       "word": "追星学到的第一课就是接受遗憾",
@@ -2939,6 +2979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114645,
+      "num": 114645,
+      "word": "王鹤棣新歌烧",
+      "onboard_time": 1721604256,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 113852,
       "num": 211659,
       "word": "演员李晟回怼网友",
@@ -2953,14 +3001,6 @@
       "onboard_time": 1721565799,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 112642,
-      "num": 112642,
-      "word": "郑钦文夺生涯第三冠",
-      "onboard_time": 1721603415,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 112449,
@@ -3187,14 +3227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 87033,
-      "num": 87033,
-      "word": "YG准备推出NextMonster",
-      "onboard_time": 1721603235,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 86050,
       "num": 121874,
       "word": "上海闪电",
@@ -3217,6 +3249,14 @@
       "onboard_time": 1721488161,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 79630,
+      "num": 79630,
+      "word": "华晨宇说不要再说我写的歌很难了",
+      "onboard_time": 1721604437,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 78903,
@@ -3323,6 +3363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68226,
+      "num": 745755,
+      "word": "打卡课本里的大美中国",
+      "onboard_time": 1721568920,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66988,
       "num": 274951,
       "word": "绝区零朱鸢",
@@ -3331,20 +3379,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 65180,
+      "num": 65180,
+      "word": "碰谁都不能碰巨蟹座",
+      "onboard_time": 1721604738,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 63226,
       "num": 344773,
       "word": "星巴克YONEX联名出球拍了",
       "onboard_time": 1721550258,
       "rank": 32,
       "category": "运动健身,美食"
-    },
-    {
-      "raw_hot": 61877,
-      "num": 61877,
-      "word": "2NE1确定重组",
-      "onboard_time": 1721603536,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 60679,
@@ -3433,14 +3481,6 @@
       "onboard_time": 1721526618,
       "rank": 49,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 50798,
-      "num": 745755,
-      "word": "打卡课本里的大美中国",
-      "onboard_time": 1721568920,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49692,

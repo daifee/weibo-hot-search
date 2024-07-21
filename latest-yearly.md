@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/07/22 07:19:42
+本榜单时间：2024/01/01 00:21:05 ~ 2024/07/22 07:36:05
 </p>
 </blockquote>
 <p>
@@ -705,6 +705,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E9%80%80%E9%80%89%23" target="weibo">
+拜登退选（热度：7346864）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%8F%A3%E7%A2%91%23" target="weibo">
 白敬亭口碑（热度：7342180）
 </a>
@@ -803,12 +809,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E7%BA%A7%E7%AD%94%E6%A1%88%23" target="weibo">
 四级答案（热度：6639747）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E9%80%80%E9%80%89%23" target="weibo">
-拜登退选（热度：6598521）
 </a>
 </li>
 

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/22 07:19:42
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/22 07:36:05
 </p>
 </blockquote>
 <p>
@@ -70,7 +70,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E9%80%80%E9%80%89%23" target="weibo">
-拜登退选（热度：6598521）
+拜登退选（热度：7346864）
 </a>
 </li>
 
@@ -545,6 +545,12 @@ TFBOYS发文支持王源（热度：2183586）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E4%B8%BE%E6%8A%A5%E5%84%BF%E5%AD%90%E7%9C%8B%E6%B7%AB%E7%A7%BD%E7%BD%91%E7%AB%99%E7%89%B5%E5%87%BA%E7%8A%AF%E7%BD%AA%E5%9B%A2%E4%BC%99%23" target="weibo">
 父亲举报儿子看淫秽网站牵出犯罪团伙（热度：2000825）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A7%81%E8%AF%81%E5%8E%86%E5%8F%B2%23" target="weibo">
+见证历史（热度：1985838）
 </a>
 </li>
 
@@ -1275,12 +1281,6 @@ Lenka袭榜（热度：1680168）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A7%81%E8%AF%81%E5%8E%86%E5%8F%B2%23" target="weibo">
-见证历史（热度：1476067）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%20%E5%92%8C%E9%A2%82%23" target="weibo">
 鞠婧祎 和颂（热度：1476049）
 </a>
@@ -1373,6 +1373,12 @@ Lenka袭榜（热度：1680168）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%86%E6%AF%85%E5%9B%9E%E5%BA%94%23" target="weibo">
 陆毅回应（热度：1445938）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E6%8B%9C%E7%99%BB%E9%80%80%E9%80%89%23" target="weibo">
+特朗普回应拜登退选（热度：1444891）
 </a>
 </li>
 
@@ -1643,12 +1649,6 @@ DK（热度：1341805）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%96%9D%E6%B0%B4%E5%B0%B1%E6%83%B3%E5%B0%BF%E5%92%8C%E5%A4%9A%E5%96%9D%E6%B0%B4%E5%8D%B4%E6%B2%A1%E5%B0%BF%E5%93%AA%E4%B8%AA%E4%B8%8D%E5%A5%BD%23" target="weibo">
 一喝水就想尿和多喝水却没尿哪个不好（热度：1328362）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E6%8B%9C%E7%99%BB%E9%80%80%E9%80%89%23" target="weibo">
-特朗普回应拜登退选（热度：1328012）
 </a>
 </li>
 
@@ -4551,6 +4551,12 @@ T1夺冠（热度：781234）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%94%AF%E6%8C%81%E5%93%88%E9%87%8C%E6%96%AF%E7%AB%9E%E9%80%89%23" target="weibo">
+拜登支持哈里斯竞选（热度：777322）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E8%BF%9E%E5%A4%9C%E8%BF%BD%E5%8A%A0%E5%85%AB%E7%99%BE%E4%B8%87%23" target="weibo">
 汪苏泷连夜追加八百万（热度：777269）
 </a>
@@ -5907,6 +5913,12 @@ iPhone17不使用节省空间的主板材料（热度：656083）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E9%87%8C%E6%96%AF%23" target="weibo">
+哈里斯（热度：654787）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E7%94%A8%E6%88%B7%E6%8D%A2%E6%9C%BA%E5%91%A8%E6%9C%9F%E5%8F%98%E9%95%BF%23" target="weibo">
 苹果用户换机周期变长（热度：654341）
 </a>
@@ -5999,18 +6011,6 @@ iPhone17不使用节省空间的主板材料（热度：656083）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E5%A4%AA%E6%99%92%E4%B8%8E%E5%88%98%E5%BE%B7%E5%8D%8E%E5%A4%AB%E5%A6%87%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%23" target="weibo">
 向太晒与刘德华夫妇聊天记录（热度：646242）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD30%E5%B2%81%E5%A5%B3%E6%95%99%E5%B8%88%E6%80%A7%E4%BE%B52%E5%90%8D%E7%94%B7%E7%94%9F%E6%80%80%E8%83%8E%E7%94%9F%E5%AD%90%23" target="weibo">
-英国30岁女教师性侵2名男生怀胎生子（热度：646059）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%237%E5%B2%81%E7%9A%84%E5%B0%8F%E6%9C%8B%E5%8F%8B220%E6%96%A4%23" target="weibo">
-7岁的小朋友220斤（热度：645799）
 </a>
 </li>
 

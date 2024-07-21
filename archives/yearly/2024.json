@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1721603982329,
+  "endTime": 1721604965551,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -923,6 +923,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 7346864,
+      "num": 7346864,
+      "word": "拜登退选",
+      "onboard_time": 1721585473,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 7342180,
       "num": 7342180,
       "word": "白敬亭口碑",
@@ -1057,14 +1065,6 @@
       "onboard_time": 1718422519,
       "rank": 0,
       "category": "教育"
-    },
-    {
-      "raw_hot": 6598521,
-      "num": 6598521,
-      "word": "拜登退选",
-      "onboard_time": 1721585473,
-      "rank": 1,
-      "category": "国外时政"
     },
     {
       "raw_hot": 6547480,
