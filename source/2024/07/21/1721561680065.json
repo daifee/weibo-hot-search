@@ -1,0 +1,410 @@
+{
+  "runTime": 1721561680065,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1434727,
+        "num": 1434727,
+        "word": "串串房引发身体不适搬走后又租别人",
+        "onboard_time": 1721555298,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1298240,
+        "num": 1298240,
+        "word": "延迟退休",
+        "onboard_time": 1721561058,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 72716,
+        "num": 1054103,
+        "word": "鼓励国外高水平理工类大学来华合作办学",
+        "onboard_time": 1721560518,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 986928,
+        "num": 986928,
+        "word": "宋丹丹张新成演恋人",
+        "onboard_time": 1721555356,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 672035,
+        "num": 672035,
+        "word": "三中全会决定60条",
+        "onboard_time": 1721551518,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 647201,
+        "num": 647201,
+        "word": "按自愿弹性原则推进渐进式延迟退休改革",
+        "onboard_time": 1721557398,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 633795,
+        "num": 633795,
+        "word": "退休阿姨5个好友4个骗子",
+        "onboard_time": 1721558478,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559768,
+        "num": 559768,
+        "word": "英雄联盟手游取消赵露思置顶",
+        "onboard_time": 1721549239,
+        "rank": 7,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 488764,
+        "num": 488764,
+        "word": "TF三代reaction直播",
+        "onboard_time": 1721555719,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 472654,
+        "num": 472654,
+        "word": "女子漫展穿和服被保安拒绝入场",
+        "onboard_time": 1721555959,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449027,
+        "num": 449027,
+        "word": "孙一宁说流量对她来说是风险",
+        "onboard_time": 1721560098,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 359815,
+        "num": 359815,
+        "word": "老人为领鸡蛋听课后花两千买胶囊",
+        "onboard_time": 1721557757,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313812,
+        "num": 313812,
+        "word": "当事人回应胎儿被诊断超雄综合征",
+        "onboard_time": 1721544738,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310142,
+        "num": 310142,
+        "word": "英国偶遇邓超孙俪一家",
+        "onboard_time": 1721558958,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293855,
+        "num": 293855,
+        "word": "杨倩陪母亲走完最后时光",
+        "onboard_time": 1721548099,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291650,
+        "num": 291650,
+        "word": "专家称绝大多数超雄宝宝能正常生活",
+        "onboard_time": 1721555298,
+        "rank": 15,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 274376,
+        "num": 274376,
+        "word": "花少6官宣阵容",
+        "onboard_time": 1721539638,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255848,
+        "num": 255848,
+        "word": "minnie在宋雨琦肚子上比心",
+        "onboard_time": 1721554459,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 241789,
+        "num": 241789,
+        "word": "赵丽颖 电影向阳花",
+        "onboard_time": 1721553318,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136429,
+        "num": 236000,
+        "word": "尔滨你真的一年四季都没有淡季",
+        "onboard_time": 1721559680,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 234043,
+        "num": 234043,
+        "word": "杨超越还好没退群",
+        "onboard_time": 1721553318,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212351,
+        "num": 212351,
+        "word": "种地吧回应加人",
+        "onboard_time": 1721467338,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209681,
+        "num": 209681,
+        "word": "洞洞鞋三宗罪",
+        "onboard_time": 1721540000,
+        "rank": 22,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 190999,
+        "num": 190999,
+        "word": "SBS直播",
+        "onboard_time": 1721556019,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 49572,
+        "num": 186858,
+        "word": "孙子替住院爷爷回赠病友炸知了猴",
+        "onboard_time": 1721561599,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186697,
+        "num": 186697,
+        "word": "我国将完善学生实习实践制度",
+        "onboard_time": 1721558297,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 181774,
+        "num": 181774,
+        "word": "刘宇宁睡前都看宇妮走天下",
+        "onboard_time": 1721560098,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176459,
+        "num": 176459,
+        "word": "小棉袄帮爸爸擦汗球友叔叔快碎了",
+        "onboard_time": 1721559680,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175687,
+        "num": 175687,
+        "word": "老两口常年吃剩菜先后确诊胃癌",
+        "onboard_time": 1721558597,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170428,
+        "num": 170428,
+        "word": "孟子义是舍弃不了一点点颜值",
+        "onboard_time": 1721560877,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168848,
+        "num": 169808,
+        "word": "唐诡西行手指缝里品细糠",
+        "onboard_time": 1721560279,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169666,
+        "num": 169666,
+        "word": "追星女和同龄人现状",
+        "onboard_time": 1721559138,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167851,
+        "num": 167851,
+        "word": "英雄联盟手游",
+        "onboard_time": 1721544319,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162268,
+        "num": 162268,
+        "word": "周深又把戒指甩掉了",
+        "onboard_time": 1721560039,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155998,
+        "num": 155998,
+        "word": "关于二十届三中全会决定的说明",
+        "onboard_time": 1721552240,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 149527,
+        "num": 149527,
+        "word": "宋雨琦回应小肚子",
+        "onboard_time": 1721544558,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148542,
+        "num": 148542,
+        "word": "女子被离婚七年的前夫暴力殴打",
+        "onboard_time": 1721538077,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138882,
+        "num": 138882,
+        "word": "三中全会决定的民生领域改革要点",
+        "onboard_time": 1721559978,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137770,
+        "num": 137770,
+        "word": "巴黎奥运会的第一次",
+        "onboard_time": 1721561178,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136736,
+        "num": 136736,
+        "word": "SBS歌谣大战节目单",
+        "onboard_time": 1721557577,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133480,
+        "num": 133480,
+        "word": "新秀意难平",
+        "onboard_time": 1721560639,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133313,
+        "num": 133313,
+        "word": "国乒进入奥运会乒乓球场馆训练",
+        "onboard_time": 1721558958,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130497,
+        "num": 130497,
+        "word": "网上的皮肤vs实际的皮肤",
+        "onboard_time": 1721559018,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 125358,
+        "num": 125358,
+        "word": "刘耀文 我想演戏当演员",
+        "onboard_time": 1721550137,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114481,
+        "num": 114481,
+        "word": "左航舞台",
+        "onboard_time": 1721557218,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106630,
+        "num": 106630,
+        "word": "女子称花7元多买到加了色素的贡菜",
+        "onboard_time": 1721546297,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104021,
+        "num": 104021,
+        "word": "快乐老友记2",
+        "onboard_time": 1721560337,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100814,
+        "num": 100814,
+        "word": "为什么有的虫子身上有编号",
+        "onboard_time": 1721561359,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 97007,
+        "num": 97007,
+        "word": "孙颖莎王曼昱奥运赛场对练",
+        "onboard_time": 1721561657,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95555,
+        "num": 95555,
+        "word": "卡琳娜cos硬核一中",
+        "onboard_time": 1721554519,
+        "rank": 49,
+        "category": "动漫,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#论学习贯彻党的二十届三中全会精神#"
+    }
+  }
+}
