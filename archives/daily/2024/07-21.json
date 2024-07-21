@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721575292233,
+  "endTime": 1721576076385,
   "band_list": [
     {
       "raw_hot": 3697740,
@@ -172,11 +172,19 @@
     },
     {
       "raw_hot": 1274398,
-      "num": 643620,
+      "num": 712903,
       "word": "做过近视眼手术的人嘴都这么严吗",
       "onboard_time": 1721569461,
       "rank": 3,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1267659,
+      "num": 358970,
+      "word": "男女店内亲热被店家请离后给差评",
+      "onboard_time": 1721572042,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1244197,
@@ -193,14 +201,6 @@
       "onboard_time": 1721549239,
       "rank": 7,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 1208556,
-      "num": 358970,
-      "word": "男女店内亲热被店家请离后给差评",
-      "onboard_time": 1721572042,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1198827,
@@ -283,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 873530,
+      "num": 873530,
+      "word": "虎门一公职人员贩毒被执行死刑",
+      "onboard_time": 1721571982,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 871136,
       "num": 335182,
       "word": "一次性内裤真的能穿吗",
@@ -344,14 +352,6 @@
       "word": "双胞胎坐婴儿车滚下站台撞上火车",
       "onboard_time": 1721563879,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 735790,
-      "num": 735790,
-      "word": "虎门一公职人员贩毒被执行死刑",
-      "onboard_time": 1721571982,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -451,6 +451,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 655768,
+      "num": 335522,
+      "word": "王贵元",
+      "onboard_time": 1721574083,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 645203,
       "num": 349243,
       "word": "男婴出生2天腿部青紫查出罕见病",
@@ -475,7 +483,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 605359,
+      "raw_hot": 626868,
       "num": 355244,
       "word": "吃饭偶遇张婧仪做服务员",
       "onboard_time": 1721573844,
@@ -491,8 +499,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 584254,
-      "num": 584254,
+      "raw_hot": 585270,
+      "num": 585270,
       "word": "高会",
       "onboard_time": 1721572942,
       "rank": 4,
@@ -737,6 +745,14 @@
       "onboard_time": 1721567420,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 425445,
+      "num": 370554,
+      "word": "张元英踩到安宥真的裙子",
+      "onboard_time": 1721575460,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 425262,
@@ -1027,6 +1043,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 291510,
+      "num": 291510,
+      "word": "盗墓团伙要价1.8亿的文物被追回",
+      "onboard_time": 1721570842,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291017,
       "num": 291017,
       "word": "光与夜之恋",
@@ -1043,12 +1067,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 275451,
-      "num": 275451,
-      "word": "盗墓团伙要价1.8亿的文物被追回",
-      "onboard_time": 1721570842,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 276604,
+      "num": 276604,
+      "word": "周深TMEA年度男歌手",
+      "onboard_time": 1721574323,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 275347,
@@ -1107,11 +1131,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 261082,
-      "num": 261082,
-      "word": "王贵元",
-      "onboard_time": 1721574083,
-      "rank": 25,
+      "raw_hot": 261326,
+      "num": 261326,
+      "word": "南京大屠杀幸存者周智林老人去世",
+      "onboard_time": 1721574444,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1328,14 +1352,6 @@
       "word": "SBS歌谣大战节目单",
       "onboard_time": 1721557577,
       "rank": 25,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 215603,
-      "num": 215603,
-      "word": "周深TMEA年度男歌手",
-      "onboard_time": 1721574323,
-      "rank": 32,
       "category": "音乐"
     },
     {
@@ -1659,14 +1675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196695,
-      "num": 196695,
-      "word": "南京大屠杀幸存者周智林老人去世",
-      "onboard_time": 1721574444,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 195375,
       "num": 195375,
       "word": "郭士强任中国男篮主教练",
@@ -1753,6 +1761,14 @@
       "onboard_time": 1721525898,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189507,
+      "num": 189507,
+      "word": "迈凯轮策略",
+      "onboard_time": 1721575282,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 189403,
@@ -2001,6 +2017,14 @@
       "onboard_time": 1721534420,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170977,
+      "num": 170977,
+      "word": "单依纯都搞唱跳了",
+      "onboard_time": 1721576001,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 170734,
@@ -2513,6 +2537,14 @@
       "onboard_time": 1721542399,
       "rank": 43,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 134445,
+      "num": 154716,
+      "word": "为啥鸡的身体零件比整只鸡贵",
+      "onboard_time": 1721575522,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 133741,
@@ -3043,6 +3075,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 71482,
+      "num": 347829,
+      "word": "博物馆的千年文物开花了",
+      "onboard_time": 1721575581,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 70829,
       "num": 70829,
       "word": "5个提高代谢方法能降低体脂率",
@@ -3060,7 +3100,7 @@
     },
     {
       "raw_hot": 68293,
-      "num": 655372,
+      "num": 787288,
       "word": "暴雨来袭不要这样做",
       "onboard_time": 1721569461,
       "rank": 2,
