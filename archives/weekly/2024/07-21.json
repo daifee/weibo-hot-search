@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721532142815,
+  "endTime": 1721532947919,
   "band_list": [
     {
       "raw_hot": 2330012,
@@ -27,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1556957,
-      "num": 1556957,
+      "raw_hot": 1661891,
+      "num": 1661891,
       "word": "13位少年倒了600000尾鱼苗",
       "onboard_time": 1721527579,
       "rank": 6,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 952964,
+      "num": 952964,
+      "word": "孕妇空袭遇难腹中婴儿被救出",
+      "onboard_time": 1721530518,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 922901,
       "num": 922901,
       "word": "wei大xun",
@@ -67,8 +75,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 746370,
-      "num": 746370,
+      "raw_hot": 850569,
+      "num": 850569,
       "word": "中国奥运首金得主谈金牌捐献国博",
       "onboard_time": 1721528718,
       "rank": 34,
@@ -105,6 +113,14 @@
       "onboard_time": 1721521577,
       "rank": 10,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 693484,
+      "num": 693484,
+      "word": "司机称10个中就有2个在用作弊软件",
+      "onboard_time": 1721529018,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 661995,
@@ -179,28 +195,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 488968,
-      "num": 385041,
-      "word": "孕妇空袭遇难腹中婴儿被救出",
-      "onboard_time": 1721530518,
-      "rank": 12,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 484226,
       "num": 323828,
       "word": "王嘉尔又当伴郎了",
       "onboard_time": 1721489301,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 472039,
-      "num": 472039,
-      "word": "司机称10个中就有2个在用作弊软件",
-      "onboard_time": 1721529018,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 443919,
@@ -299,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 313567,
+      "num": 313567,
+      "word": "全红婵水花消失术用英语怎么说",
+      "onboard_time": 1721530579,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 310924,
       "num": 274387,
       "word": "医生说24岁的我舌头放错位置了",
@@ -347,6 +355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 255109,
+      "num": 255109,
+      "word": "郑水晶发文告别错位江娜",
+      "onboard_time": 1721531239,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249134,
       "num": 249134,
       "word": "保洁大爷帮抓老鼠被咬商户只愿给800",
@@ -387,20 +403,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 223047,
-      "num": 223047,
-      "word": "全红婵水花消失术用英语怎么说",
-      "onboard_time": 1721530579,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 216930,
       "num": 216930,
       "word": "反对任何形式的暴力伤医",
       "onboard_time": 1721468839,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213099,
+      "num": 213099,
+      "word": "我们的歌6开播",
+      "onboard_time": 1721531717,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 213063,
@@ -411,12 +427,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206559,
-      "num": 206559,
-      "word": "我们的歌6开播",
-      "onboard_time": 1721531717,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 208561,
+      "num": 208561,
+      "word": "泉州卫健委回应号召党员干部生三孩",
+      "onboard_time": 1721531058,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205102,
@@ -467,12 +483,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 198473,
+      "num": 198473,
+      "word": "剑来动画宁姚预告好飒",
+      "onboard_time": 1721532800,
+      "rank": 26,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 195375,
       "num": 195375,
       "word": "郭士强任中国男篮主教练",
       "onboard_time": 1721529858,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191554,
+      "num": 191554,
+      "word": "丁真吃泡面加冷水",
+      "onboard_time": 1721529319,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 191280,
@@ -483,20 +515,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 189685,
-      "num": 189685,
-      "word": "郑水晶发文告别错位江娜",
-      "onboard_time": 1721531239,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 188332,
       "num": 188332,
       "word": "汪苏泷演唱会退票事件观众回应",
       "onboard_time": 1721524998,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 185793,
+      "num": 185793,
+      "word": "花花的每个动作都是甜蜜暴击",
+      "onboard_time": 1721529618,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185252,
@@ -521,6 +553,14 @@
       "onboard_time": 1721481798,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 175679,
+      "num": 175679,
+      "word": "雅安暴雨致30余人失联",
+      "onboard_time": 1721530278,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175617,
@@ -561,38 +601,6 @@
       "onboard_time": 1721484622,
       "rank": 9,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 170281,
-      "num": 170281,
-      "word": "泉州卫健委回应号召党员干部生三孩",
-      "onboard_time": 1721531058,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165455,
-      "num": 165455,
-      "word": "丁真吃泡面加冷水",
-      "onboard_time": 1721529319,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 164757,
-      "num": 164757,
-      "word": "花花的每个动作都是甜蜜暴击",
-      "onboard_time": 1721529618,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164173,
-      "num": 164173,
-      "word": "雅安暴雨致30余人失联",
-      "onboard_time": 1721530278,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 163599,
@@ -675,6 +683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 143839,
+      "num": 143839,
+      "word": "鹭卓晒自拍说下次见",
+      "onboard_time": 1721531599,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 143651,
       "num": 213080,
       "word": "滴滴客服就8公里收费两百多致歉",
@@ -737,14 +753,6 @@
       "onboard_time": 1721519115,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 135478,
-      "num": 135478,
-      "word": "鹭卓晒自拍说下次见",
-      "onboard_time": 1721531599,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 135447,
@@ -841,6 +849,14 @@
       "onboard_time": 1721520916,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 118186,
+      "num": 118186,
+      "word": "王鹤棣新歌迎燃而上",
+      "onboard_time": 1721532620,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 118151,
@@ -1035,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76784,
+      "num": 399273,
+      "word": "挖掘机转运受伤群众过河",
+      "onboard_time": 1721530819,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70829,
       "num": 70829,
       "word": "5个提高代谢方法能降低体脂率",
@@ -1139,14 +1163,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 46027,
-      "num": 399273,
-      "word": "挖掘机转运受伤群众过河",
-      "onboard_time": 1721530819,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 45717,
       "num": 45717,
       "word": "带着微博去旅行",
@@ -1176,6 +1192,22 @@
       "word": "四川汉源山洪现场已搜救到4人",
       "onboard_time": 1721518215,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38589,
+      "num": 191596,
+      "word": "韩国称朝鲜再次向韩放飞气球",
+      "onboard_time": 1721532498,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 38238,
+      "num": 379002,
+      "word": "男孩吃葡萄被卡医生海姆立克救回",
+      "onboard_time": 1721528058,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1219,12 +1251,12 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 31483,
-      "num": 159708,
-      "word": "男孩吃葡萄被卡医生海姆立克救回",
-      "onboard_time": 1721528058,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 33818,
+      "num": 357413,
+      "word": "特朗普遭枪击后首次现身竞选集会",
+      "onboard_time": 1721532199,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 30801,
@@ -1307,8 +1339,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 3535,
-      "num": 793632,
+      "raw_hot": 7538,
+      "num": 895659,
       "word": "幸福就在这里走进西藏",
       "onboard_time": 1721444479,
       "rank": 2,
