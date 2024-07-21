@@ -1,0 +1,410 @@
+{
+  "runTime": 1721568863132,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1280249,
+        "num": 1280249,
+        "word": "泰国队员想来中国队宿舍凉快",
+        "onboard_time": 1721565621,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 862902,
+        "num": 862902,
+        "word": "悉尼一父亲救滚入轨道的婴儿车不幸死亡",
+        "onboard_time": 1721563879,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29777,
+        "num": 715495,
+        "word": "中国奥运天团大合影汇总",
+        "onboard_time": 1721537840,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 666453,
+        "num": 666453,
+        "word": "宋丹丹张新成演恋人",
+        "onboard_time": 1721555356,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 580215,
+        "num": 580215,
+        "word": "三中全会决定60条",
+        "onboard_time": 1721551518,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 580068,
+        "num": 580068,
+        "word": "预制菜已经发展到这个地步了",
+        "onboard_time": 1721562560,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 487100,
+        "num": 487100,
+        "word": "唐诡2仵作之死最惨的是谁",
+        "onboard_time": 1721564300,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 442933,
+        "num": 442933,
+        "word": "英雄联盟手游取消赵露思置顶",
+        "onboard_time": 1721549239,
+        "rank": 7,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 372020,
+        "num": 372020,
+        "word": "酱汁鑫鑫豆豆",
+        "onboard_time": 1721566040,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54575,
+        "num": 371913,
+        "word": "实拍陕西桥梁垮塌搜救现场",
+        "onboard_time": 1721567661,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2728829,
+        "num": 358807,
+        "word": "延迟退休",
+        "onboard_time": 1721561058,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2054955,
+        "num": 350439,
+        "word": "黄子韬徐艺洋公开后秀恩爱",
+        "onboard_time": 1721568741,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1425914,
+        "num": 335624,
+        "word": "时代峰峻声明",
+        "onboard_time": 1721567360,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1395089,
+        "num": 329871,
+        "word": "胎儿检出超雄孕妇完成终止妊娠手术",
+        "onboard_time": 1721562979,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322465,
+        "num": 322465,
+        "word": "王楚钦早六晚十练了两年了",
+        "onboard_time": 1721567420,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309193,
+        "num": 309193,
+        "word": "王俊凯EZ反杀",
+        "onboard_time": 1721567780,
+        "rank": 15,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 303652,
+        "num": 303652,
+        "word": "退休阿姨5个好友4个骗子",
+        "onboard_time": 1721558478,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301267,
+        "num": 301267,
+        "word": "ive新闻图",
+        "onboard_time": 1721565741,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 301146,
+        "num": 301146,
+        "word": "美国15岁华裔女孩骑行途中离奇消失",
+        "onboard_time": 1721561778,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296868,
+        "num": 296868,
+        "word": "串串房引发身体不适搬走后又租别人",
+        "onboard_time": 1721555298,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325192,
+        "num": 296419,
+        "word": "中医说三伏天得热着过",
+        "onboard_time": 1721564601,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 308762,
+        "num": 295721,
+        "word": "怎么有反派30集才掉马的啊",
+        "onboard_time": 1721566700,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279523,
+        "num": 279523,
+        "word": "涂山璟角色热度破1亿",
+        "onboard_time": 1721563042,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259659,
+        "num": 259659,
+        "word": "花儿与少年直播",
+        "onboard_time": 1721568140,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255694,
+        "num": 255694,
+        "word": "张杰即将13次打卡鸟巢",
+        "onboard_time": 1721567598,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 239902,
+        "num": 239902,
+        "word": "小鬼王琳凯年度最佳说唱歌手",
+        "onboard_time": 1721562800,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 239258,
+        "num": 239258,
+        "word": "按自愿弹性原则推进渐进式延迟退休改革",
+        "onboard_time": 1721557398,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 234446,
+        "num": 234446,
+        "word": "FPX战胜LNG",
+        "onboard_time": 1721568201,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 229748,
+        "num": 229748,
+        "word": "王源回重庆不回家住的原因",
+        "onboard_time": 1721568321,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212222,
+        "num": 212222,
+        "word": "孙一宁说流量对她来说是风险",
+        "onboard_time": 1721560098,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 205957,
+        "num": 205957,
+        "word": "孟佳腰臀比",
+        "onboard_time": 1721565139,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202150,
+        "num": 202150,
+        "word": "种地吧回应加人",
+        "onboard_time": 1721467338,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200411,
+        "num": 200411,
+        "word": "NMIXX滑倒",
+        "onboard_time": 1721567900,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190558,
+        "num": 190558,
+        "word": "二十届三中全会决定全文公布",
+        "onboard_time": 1721567420,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 175068,
+        "num": 184981,
+        "word": "老两口常年吃剩菜先后确诊胃癌",
+        "onboard_time": 1721558597,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194129,
+        "num": 184924,
+        "word": "汪苏泷王心凌合唱大眠",
+        "onboard_time": 1721568020,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184828,
+        "num": 184828,
+        "word": "TF三代reaction直播",
+        "onboard_time": 1721555719,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183523,
+        "num": 183523,
+        "word": "赵露思花车饭撒",
+        "onboard_time": 1721565079,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 169511,
+        "num": 169511,
+        "word": "男婴出生2天腿部青紫查出罕见病",
+        "onboard_time": 1721568321,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164771,
+        "num": 164771,
+        "word": "一口价黄金饰品套路多成消费陷阱",
+        "onboard_time": 1721565319,
+        "rank": 39,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 181744,
+        "num": 161697,
+        "word": "你比星光美丽",
+        "onboard_time": 1721564240,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180119,
+        "num": 161553,
+        "word": "我们的歌直播",
+        "onboard_time": 1721568680,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179552,
+        "num": 159094,
+        "word": "花少6官宣阵容",
+        "onboard_time": 1721539638,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155886,
+        "num": 155886,
+        "word": "宁艺卓上海签售",
+        "onboard_time": 1721565259,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151185,
+        "num": 151185,
+        "word": "孙颖莎谈对混双金牌的渴望",
+        "onboard_time": 1721564840,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146146,
+        "num": 146146,
+        "word": "为什么有的虫子身上有编号",
+        "onboard_time": 1721561359,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 137904,
+        "num": 137904,
+        "word": "尔滨你真的一年四季都没有淡季",
+        "onboard_time": 1721559680,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 137249,
+        "num": 137249,
+        "word": "开着空调在养生馆做艾灸三人中毒",
+        "onboard_time": 1721566340,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129598,
+        "num": 129598,
+        "word": "专家称绝大多数超雄宝宝能正常生活",
+        "onboard_time": 1721555298,
+        "rank": 48,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 126034,
+        "num": 126034,
+        "word": "何冲巴黎奥运会新身份",
+        "onboard_time": 1721567842,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#论学习贯彻党的二十届三中全会精神#"
+    }
+  }
+}

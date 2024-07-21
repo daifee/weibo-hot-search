@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721568011884,
+  "endTime": 1721568863132,
   "band_list": [
     {
       "raw_hot": 3697740,
@@ -25,6 +25,14 @@
       "onboard_time": 1721518755,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2054955,
+      "num": 350439,
+      "word": "黄子韬徐艺洋公开后秀恩爱",
+      "onboard_time": 1721568741,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1985531,
@@ -83,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1425914,
+      "num": 364334,
+      "word": "时代峰峻声明",
+      "onboard_time": 1721567360,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1407164,
       "num": 1407164,
       "word": "孕妇空袭遇难腹中婴儿被救出",
@@ -91,7 +107,7 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1353124,
+      "raw_hot": 1395089,
       "num": 738518,
       "word": "胎儿检出超雄孕妇完成终止妊娠手术",
       "onboard_time": 1721562979,
@@ -123,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1280249,
+      "num": 1280249,
+      "word": "泰国队员想来中国队宿舍凉快",
+      "onboard_time": 1721565621,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1244197,
       "num": 492743,
       "word": "韩瑞希ins爆料",
@@ -137,14 +161,6 @@
       "onboard_time": 1721549239,
       "rank": 7,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 1200066,
-      "num": 1200066,
-      "word": "泰国队员想来中国队宿舍凉快",
-      "onboard_time": 1721565621,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 1198827,
@@ -195,14 +211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 946340,
-      "num": 364334,
-      "word": "时代峰峻声明",
-      "onboard_time": 1721567360,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 942297,
       "num": 516331,
       "word": "于正说小龙女先找的Angelababy",
@@ -241,6 +249,14 @@
       "onboard_time": 1721535978,
       "rank": 20,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 862902,
+      "num": 862902,
+      "word": "悉尼一父亲救滚入轨道的婴儿车不幸死亡",
+      "onboard_time": 1721563879,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 850569,
@@ -377,14 +393,6 @@
       "onboard_time": 1721519714,
       "rank": 4,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 656030,
-      "num": 656030,
-      "word": "悉尼一父亲救滚入轨道的婴儿车不幸死亡",
-      "onboard_time": 1721563879,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 633795,
@@ -747,12 +755,28 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 325192,
+      "num": 296419,
+      "word": "中医说三伏天得热着过",
+      "onboard_time": 1721564601,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 322477,
       "num": 322477,
       "word": "雅安暴雨山洪已致8人遇难",
       "onboard_time": 1721519175,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 322465,
+      "num": 322465,
+      "word": "王楚钦早六晚十练了两年了",
+      "onboard_time": 1721567420,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 322189,
@@ -811,6 +835,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 309193,
+      "num": 309193,
+      "word": "王俊凯EZ反杀",
+      "onboard_time": 1721567780,
+      "rank": 35,
+      "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 308762,
+      "num": 295721,
+      "word": "怎么有反派30集才掉马的啊",
+      "onboard_time": 1721566700,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 303628,
       "num": 303628,
       "word": "李庚希纯素颜连麦张大大",
@@ -859,14 +899,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 280532,
-      "num": 280532,
-      "word": "中医说三伏天得热着过",
-      "onboard_time": 1721564601,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 275347,
       "num": 240151,
       "word": "这居然是张新成",
@@ -907,14 +939,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 265918,
-      "num": 265918,
-      "word": "怎么有反派30集才掉马的啊",
-      "onboard_time": 1721566700,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 263752,
       "num": 263752,
       "word": "金智媛怼脸生图",
@@ -939,12 +963,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 259659,
+      "num": 259659,
+      "word": "花儿与少年直播",
+      "onboard_time": 1721568140,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256031,
       "num": 256031,
       "word": "县城文学是怎么火爆全网的",
       "onboard_time": 1721539219,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 255694,
+      "num": 255694,
+      "word": "张杰即将13次打卡鸟巢",
+      "onboard_time": 1721567598,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 254690,
@@ -1003,6 +1043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234446,
+      "num": 234446,
+      "word": "FPX战胜LNG",
+      "onboard_time": 1721568201,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 232760,
       "num": 232760,
       "word": "超雄综合征真是天生坏种吗",
@@ -1032,6 +1080,14 @@
       "word": "密逃6解读恐惧与未知",
       "onboard_time": 1721533699,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 229748,
+      "num": 229748,
+      "word": "王源回重庆不回家住的原因",
+      "onboard_time": 1721568321,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -1155,6 +1211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 205957,
+      "num": 205957,
+      "word": "孟佳腰臀比",
+      "onboard_time": 1721565139,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 205764,
       "num": 205764,
       "word": "AG对战TTG",
@@ -1169,14 +1233,6 @@
       "onboard_time": 1721531298,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 204786,
-      "num": 204786,
-      "word": "孟佳腰臀比",
-      "onboard_time": 1721565139,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 204591,
@@ -1256,6 +1312,14 @@
       "word": "SBS歌谣大战",
       "onboard_time": 1721543779,
       "rank": 39,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 200411,
+      "num": 200411,
+      "word": "NMIXX滑倒",
+      "onboard_time": 1721567900,
+      "rank": 48,
       "category": "音乐"
     },
     {
@@ -1355,14 +1419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195429,
-      "num": 195429,
-      "word": "张杰即将13次打卡鸟巢",
-      "onboard_time": 1721567598,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 195375,
       "num": 195375,
       "word": "郭士强任中国男篮主教练",
@@ -1385,6 +1441,14 @@
       "onboard_time": 1721543417,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194129,
+      "num": 184924,
+      "word": "汪苏泷王心凌合唱大眠",
+      "onboard_time": 1721568020,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 193981,
@@ -1515,14 +1579,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 182359,
-      "num": 178465,
-      "word": "王俊凯EZ反杀",
-      "onboard_time": 1721567780,
-      "rank": 35,
-      "category": "艺人,电竞"
-    },
-    {
       "raw_hot": 180250,
       "num": 357413,
       "word": "特朗普遭枪击后首次现身竞选集会",
@@ -1539,12 +1595,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 179451,
-      "num": 179451,
-      "word": "王楚钦早六晚十练了两年了",
-      "onboard_time": 1721567420,
-      "rank": 34,
-      "category": "体育"
+      "raw_hot": 180119,
+      "num": 161553,
+      "word": "我们的歌直播",
+      "onboard_time": 1721568680,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 178517,
@@ -1588,7 +1644,7 @@
     },
     {
       "raw_hot": 175687,
-      "num": 175687,
+      "num": 184981,
       "word": "老两口常年吃剩菜先后确诊胃癌",
       "onboard_time": 1721558597,
       "rank": 32,
@@ -1705,6 +1761,14 @@
       "onboard_time": 1721546778,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 169511,
+      "num": 169511,
+      "word": "男婴出生2天腿部青紫查出罕见病",
+      "onboard_time": 1721568321,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168848,
@@ -2097,14 +2161,6 @@
       "onboard_time": 1721557757,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 137480,
-      "num": 137480,
-      "word": "NMIXX滑倒",
-      "onboard_time": 1721567900,
-      "rank": 48,
-      "category": "音乐"
     },
     {
       "raw_hot": 137306,
@@ -2755,6 +2811,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 54575,
+      "num": 373741,
+      "word": "实拍陕西桥梁垮塌搜救现场",
+      "onboard_time": 1721567661,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53906,
       "num": 91264,
       "word": "BLG换人",
@@ -3016,14 +3080,6 @@
       "word": "高速垮塌灾害亲历者讲述获救情形",
       "onboard_time": 1721505732,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18468,
-      "num": 373741,
-      "word": "实拍陕西桥梁垮塌搜救现场",
-      "onboard_time": 1721567661,
-      "rank": 9,
       "category": "社会新闻"
     },
     {

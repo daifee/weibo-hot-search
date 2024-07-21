@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721568011884,
+  "endTime": 1721568863132,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -633,6 +633,14 @@
       "onboard_time": 1720449560,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2054955,
+      "num": 350439,
+      "word": "黄子韬徐艺洋公开后秀恩爱",
+      "onboard_time": 1721568741,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 2028549,
@@ -1779,6 +1787,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1425914,
+      "num": 364334,
+      "word": "时代峰峻声明",
+      "onboard_time": 1721567360,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1420328,
       "num": 1420328,
       "word": "防风邶下线",
@@ -1848,6 +1864,14 @@
       "word": "女子为恢复卵巢功能连炫20多个榴莲",
       "onboard_time": 1720847657,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1395089,
+      "num": 738518,
+      "word": "胎儿检出超雄孕妇完成终止妊娠手术",
+      "onboard_time": 1721562979,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -2001,14 +2025,6 @@
       "onboard_time": 1721439858,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1353124,
-      "num": 738518,
-      "word": "胎儿检出超雄孕妇完成终止妊娠手术",
-      "onboard_time": 1721562979,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1351307,
@@ -2315,6 +2331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1280249,
+      "num": 1280249,
+      "word": "泰国队员想来中国队宿舍凉快",
+      "onboard_time": 1721565621,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1271414,
       "num": 1271414,
       "word": "白敬亭两片装饼干21元",
@@ -2545,14 +2569,6 @@
       "onboard_time": 1720707141,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1200066,
-      "num": 1200066,
-      "word": "泰国队员想来中国队宿舍凉快",
-      "onboard_time": 1721565621,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 1198960,
@@ -4155,14 +4171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 946340,
-      "num": 364334,
-      "word": "时代峰峻声明",
-      "onboard_time": 1721567360,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 945480,
       "num": 945480,
       "word": "黄晓明再次感谢虞书欣",
@@ -4937,6 +4945,14 @@
       "onboard_time": 1721224998,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 862902,
+      "num": 862902,
+      "word": "悉尼一父亲救滚入轨道的婴儿车不幸死亡",
+      "onboard_time": 1721563879,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 862312,
@@ -7705,14 +7721,6 @@
       "onboard_time": 1721228537,
       "rank": 17,
       "category": "数码"
-    },
-    {
-      "raw_hot": 656030,
-      "num": 656030,
-      "word": "悉尼一父亲救滚入轨道的婴儿车不幸死亡",
-      "onboard_time": 1721563879,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 655541,
@@ -18787,6 +18795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325192,
+      "num": 296419,
+      "word": "中医说三伏天得热着过",
+      "onboard_time": 1721564601,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 325099,
       "num": 495536,
       "word": "赵露思TikTok浏览量破120亿",
@@ -18945,6 +18961,14 @@
       "onboard_time": 1721182218,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 322465,
+      "num": 322465,
+      "word": "王楚钦早六晚十练了两年了",
+      "onboard_time": 1721567420,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 322320,
@@ -19611,6 +19635,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 309193,
+      "num": 309193,
+      "word": "王俊凯EZ反杀",
+      "onboard_time": 1721567780,
+      "rank": 35,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 309062,
       "num": 274257,
       "word": "7月份我的同事一个个消失了",
@@ -19633,6 +19665,14 @@
       "onboard_time": 1720445540,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 308762,
+      "num": 295721,
+      "word": "怎么有反派30集才掉马的啊",
+      "onboard_time": 1721566700,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 308673,
@@ -21227,14 +21267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 280532,
-      "num": 280532,
-      "word": "中医说三伏天得热着过",
-      "onboard_time": 1721564601,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 280383,
       "num": 280383,
       "word": "DIOR活动",
@@ -21979,14 +22011,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 265918,
-      "num": 265918,
-      "word": "怎么有反派30集才掉马的啊",
-      "onboard_time": 1721566700,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 265828,
       "num": 265828,
       "word": "西班牙2比1法国",
@@ -22371,6 +22395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259659,
+      "num": 259659,
+      "word": "花儿与少年直播",
+      "onboard_time": 1721568140,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 259476,
       "num": 206865,
       "word": "邓为直播",
@@ -22593,6 +22625,14 @@
       "onboard_time": 1721443697,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 255694,
+      "num": 255694,
+      "word": "张杰即将13次打卡鸟巢",
+      "onboard_time": 1721567598,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 255690,
@@ -24339,6 +24379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234446,
+      "num": 234446,
+      "word": "FPX战胜LNG",
+      "onboard_time": 1721568201,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 234357,
       "num": 234357,
       "word": "林丹曾呼吁给运动员更多休息时间",
@@ -24809,6 +24857,14 @@
       "onboard_time": 1720674741,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 229748,
+      "num": 229748,
+      "word": "王源回重庆不回家住的原因",
+      "onboard_time": 1721568321,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 229631,
@@ -27803,6 +27859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205957,
+      "num": 205957,
+      "word": "孟佳腰臀比",
+      "onboard_time": 1721565139,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 205802,
       "num": 205802,
       "word": "94岁吴明珠来到吐鲁番",
@@ -28065,14 +28129,6 @@
       "onboard_time": 1720686018,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 204786,
-      "num": 204786,
-      "word": "孟佳腰臀比",
-      "onboard_time": 1721565139,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 204784,
@@ -29153,6 +29209,14 @@
       "onboard_time": 1721487440,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200411,
+      "num": 200411,
+      "word": "NMIXX滑倒",
+      "onboard_time": 1721567900,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 200400,
@@ -30371,14 +30435,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 195429,
-      "num": 195429,
-      "word": "张杰即将13次打卡鸟巢",
-      "onboard_time": 1721567598,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 195422,
       "num": 195422,
       "word": "吴昕99字夸王俊凯秦霄贤",
@@ -30601,6 +30657,14 @@
       "onboard_time": 1720962379,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 194129,
+      "num": 184924,
+      "word": "汪苏泷王心凌合唱大眠",
+      "onboard_time": 1721568020,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 194126,
@@ -33155,14 +33219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182359,
-      "num": 178465,
-      "word": "王俊凯EZ反杀",
-      "onboard_time": 1721567780,
-      "rank": 35,
-      "category": "艺人,电竞"
-    },
-    {
       "raw_hot": 182337,
       "num": 187621,
       "word": "戒指哥 我破防了",
@@ -33643,6 +33699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180119,
+      "num": 161553,
+      "word": "我们的歌直播",
+      "onboard_time": 1721568680,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180073,
       "num": 180073,
       "word": "男生如何正确称呼陌生女性",
@@ -33705,14 +33769,6 @@
       "onboard_time": 1720362678,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 179451,
-      "num": 179451,
-      "word": "王楚钦早六晚十练了两年了",
-      "onboard_time": 1721567420,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 179368,
@@ -34476,7 +34532,7 @@
     },
     {
       "raw_hot": 175687,
-      "num": 175687,
+      "num": 184981,
       "word": "老两口常年吃剩菜先后确诊胃癌",
       "onboard_time": 1721558597,
       "rank": 32,
@@ -35833,6 +35889,14 @@
       "onboard_time": 1721029819,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 169511,
+      "num": 169511,
+      "word": "男婴出生2天腿部青紫查出罕见病",
+      "onboard_time": 1721568321,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169510,
@@ -43057,14 +43121,6 @@
       "onboard_time": 1721007617,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137480,
-      "num": 137480,
-      "word": "NMIXX滑倒",
-      "onboard_time": 1721567900,
-      "rank": 48,
-      "category": "音乐"
     },
     {
       "raw_hot": 137389,
@@ -55875,6 +55931,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 54575,
+      "num": 373741,
+      "word": "实拍陕西桥梁垮塌搜救现场",
+      "onboard_time": 1721567661,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54566,
       "num": 372289,
       "word": "保障食品安全需做好监管把关",
@@ -60335,14 +60399,6 @@
       "num": 121432,
       "word": "轮椅男生回应被兄弟们抬上泰山",
       "onboard_time": 1720889716,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18468,
-      "num": 373741,
-      "word": "实拍陕西桥梁垮塌搜救现场",
-      "onboard_time": 1721567661,
       "rank": 9,
       "category": "社会新闻"
     },
