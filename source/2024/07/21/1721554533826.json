@@ -1,0 +1,410 @@
+{
+  "runTime": 1721554533826,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1540559,
+        "num": 1540559,
+        "word": "三中全会决定60条",
+        "onboard_time": 1721551518,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 76337,
+        "num": 1259994,
+        "word": "关于二十届三中全会决定的说明",
+        "onboard_time": 1721552240,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 55839,
+        "num": 1107922,
+        "word": "健全推动经济高质量发展体制机制",
+        "onboard_time": 1721554278,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1086363,
+        "num": 1086363,
+        "word": "杨倩陪母亲走完最后时光",
+        "onboard_time": 1721548099,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1001205,
+        "num": 1001205,
+        "word": "英雄联盟手游取消赵露思置顶",
+        "onboard_time": 1721549239,
+        "rank": 4,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 941179,
+        "num": 941179,
+        "word": "勤天柱",
+        "onboard_time": 1721548998,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 748483,
+        "num": 748483,
+        "word": "刘耀文 我想演戏当演员",
+        "onboard_time": 1721550137,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 568486,
+        "num": 568486,
+        "word": "花少6官宣阵容",
+        "onboard_time": 1721539638,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 522420,
+        "num": 522420,
+        "word": "巴黎奥运会 空调",
+        "onboard_time": 1721550079,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197255,
+        "num": 481706,
+        "word": "多地宝马4S店拒不交车",
+        "onboard_time": 1721533579,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 852479,
+        "num": 481138,
+        "word": "当事人回应胎儿被诊断超雄综合征",
+        "onboard_time": 1721544738,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480541,
+        "num": 480541,
+        "word": "宋雨琦回应小肚子",
+        "onboard_time": 1721544558,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 459591,
+        "num": 459591,
+        "word": "杨超越还好没退群",
+        "onboard_time": 1721553318,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455730,
+        "num": 455730,
+        "word": "赵丽颖 电影向阳花",
+        "onboard_time": 1721553318,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 407051,
+        "num": 407051,
+        "word": "爱豆和嫂子的日常belike",
+        "onboard_time": 1721545519,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63221,
+        "num": 344773,
+        "word": "星巴克YONEX联名出球拍了",
+        "onboard_time": 1721550258,
+        "rank": 15,
+        "category": "运动健身,美食"
+      },
+      {
+        "raw_hot": 329430,
+        "num": 329430,
+        "word": "加拿大女子曝光印度人海滩挖坑大便",
+        "onboard_time": 1721540898,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316150,
+        "num": 316150,
+        "word": "女子被离婚七年的前夫暴力殴打",
+        "onboard_time": 1721538077,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291380,
+        "num": 291380,
+        "word": "为特朗普治疗耳朵的医生发声",
+        "onboard_time": 1721538077,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 206341,
+        "num": 206341,
+        "word": "韩国第一夫人被传唤调查",
+        "onboard_time": 1721541439,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 320379,
+        "num": 206032,
+        "word": "种地吧回应加人",
+        "onboard_time": 1721467338,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96498,
+        "num": 205941,
+        "word": "深中通道岸边成日出日落旅游打卡点",
+        "onboard_time": 1721549239,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295746,
+        "num": 205431,
+        "word": "小S和二女儿坐云霄飞车对比",
+        "onboard_time": 1721549778,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294293,
+        "num": 205231,
+        "word": "女子称花7元多买到加了色素的贡菜",
+        "onboard_time": 1721546297,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258911,
+        "num": 204879,
+        "word": "这居然是张新成",
+        "onboard_time": 1721550678,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237861,
+        "num": 204466,
+        "word": "张大大下周公布谁谈恋爱了",
+        "onboard_time": 1721546359,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 216888,
+        "num": 204009,
+        "word": "洞洞鞋三宗罪",
+        "onboard_time": 1721540000,
+        "rank": 26,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 203868,
+        "num": 203868,
+        "word": "于正说小龙女先找的Angelababy",
+        "onboard_time": 1721534298,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200918,
+        "num": 200918,
+        "word": "陕西垮塌桥4公里外发现2辆失联车",
+        "onboard_time": 1721551579,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191344,
+        "num": 191344,
+        "word": "相柳第一次外放情绪",
+        "onboard_time": 1721553618,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188651,
+        "num": 188651,
+        "word": "勤天柱超话",
+        "onboard_time": 1721552240,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181974,
+        "num": 181974,
+        "word": "陈好 花少6大姐",
+        "onboard_time": 1721540298,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152186,
+        "num": 152186,
+        "word": "一次性内裤真的能穿吗",
+        "onboard_time": 1721535978,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 151864,
+        "num": 151864,
+        "word": "国家发改委紧急下达3.5亿元",
+        "onboard_time": 1721539337,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 144591,
+        "num": 144591,
+        "word": "花少6合体路透",
+        "onboard_time": 1721551458,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141890,
+        "num": 141890,
+        "word": "国际数学奥林匹克成绩中国队屈居第二",
+        "onboard_time": 1721549358,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 141667,
+        "num": 141667,
+        "word": "默杀 最绝望的父亲",
+        "onboard_time": 1721553737,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141311,
+        "num": 141311,
+        "word": "决定说明全文",
+        "onboard_time": 1721552898,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141061,
+        "num": 141061,
+        "word": "吴佳怡 怼人赛道",
+        "onboard_time": 1721552240,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138333,
+        "num": 138333,
+        "word": "上一秒伤心小狗下一秒开心小狗",
+        "onboard_time": 1721554278,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137145,
+        "num": 137145,
+        "word": "超级婴儿正在硅谷兴起",
+        "onboard_time": 1721552898,
+        "rank": 40,
+        "category": "科学科普,母婴育儿"
+      },
+      {
+        "raw_hot": 133752,
+        "num": 133752,
+        "word": "杨迪恭喜张予曦总冠军",
+        "onboard_time": 1721529499,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133741,
+        "num": 133741,
+        "word": "峨眉山猴子抢夺食物导致男孩被摔伤",
+        "onboard_time": 1721550918,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127602,
+        "num": 127602,
+        "word": "禾伙人",
+        "onboard_time": 1721554459,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126331,
+        "num": 126331,
+        "word": "抓娃娃票房破14亿",
+        "onboard_time": 1721553499,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125708,
+        "num": 125708,
+        "word": "minnie在宋雨琦肚子上比心",
+        "onboard_time": 1721554459,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121418,
+        "num": 121418,
+        "word": "张钧甯怕找不到男演员搭戏",
+        "onboard_time": 1721547078,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117961,
+        "num": 117961,
+        "word": "孕妇空袭遇难腹中婴儿被救出",
+        "onboard_time": 1721530518,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 112568,
+        "num": 112568,
+        "word": "超雄综合征会遗传下一代吗",
+        "onboard_time": 1721548759,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109802,
+        "num": 109802,
+        "word": "英雄联盟手游",
+        "onboard_time": 1721544319,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#切实保障人民群众生命财产安全#"
+    }
+  }
+}

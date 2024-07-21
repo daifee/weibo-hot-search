@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721553657038,
+  "endTime": 1721554533826,
   "band_list": [
     {
       "raw_hot": 2330012,
@@ -51,8 +51,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1502007,
-      "num": 1502007,
+      "raw_hot": 1540559,
+      "num": 1540559,
       "word": "三中全会决定60条",
       "onboard_time": 1721551518,
       "rank": 0,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 878478,
-      "num": 452043,
+      "num": 480541,
       "word": "宋雨琦回应小肚子",
       "onboard_time": 1721544558,
       "rank": 10,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 724075,
-      "num": 401221,
+      "num": 407051,
       "word": "爱豆和嫂子的日常belike",
       "onboard_time": 1721545519,
       "rank": 23,
@@ -347,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 522420,
+      "num": 522420,
+      "word": "巴黎奥运会 空调",
+      "onboard_time": 1721550079,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 520124,
       "num": 376940,
       "word": "司机高速发现后备箱人脸后报警",
@@ -403,6 +411,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 459591,
+      "num": 459591,
+      "word": "杨超越还好没退群",
+      "onboard_time": 1721553318,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 455730,
+      "num": 455730,
+      "word": "赵丽颖 电影向阳花",
+      "onboard_time": 1721553318,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 452813,
       "num": 452813,
       "word": "郑水晶发文告别错位江娜",
@@ -449,14 +473,6 @@
       "onboard_time": 1721546359,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 423429,
-      "num": 423429,
-      "word": "巴黎奥运会 空调",
-      "onboard_time": 1721550079,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 408319,
@@ -587,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 295746,
+      "num": 235092,
+      "word": "小S和二女儿坐云霄飞车对比",
+      "onboard_time": 1721549778,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 294231,
       "num": 294231,
       "word": "外国人免签144小时把酸汤火锅吃火了",
@@ -617,14 +641,6 @@
       "onboard_time": 1721550678,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 270226,
-      "num": 235092,
-      "word": "小S和二女儿坐云霄飞车对比",
-      "onboard_time": 1721549778,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 268726,
@@ -819,14 +835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 212985,
-      "num": 212985,
-      "word": "杨超越还好没退群",
-      "onboard_time": 1721553318,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 212310,
       "num": 212310,
       "word": "被胖东来爆改步步高门店工资涨80%",
@@ -921,14 +929,6 @@
       "onboard_time": 1721543779,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 200136,
-      "num": 200136,
-      "word": "赵丽颖 电影向阳花",
-      "onboard_time": 1721553318,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 199868,
@@ -1443,6 +1443,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141667,
+      "num": 141667,
+      "word": "默杀 最绝望的父亲",
+      "onboard_time": 1721553737,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 141311,
+      "num": 146069,
+      "word": "决定说明全文",
+      "onboard_time": 1721552898,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 140977,
       "num": 140977,
       "word": "巴黎奥运会设计已经是nextlevel了",
@@ -1465,6 +1481,14 @@
       "onboard_time": 1721537840,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138333,
+      "num": 138333,
+      "word": "上一秒伤心小狗下一秒开心小狗",
+      "onboard_time": 1721554278,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 138218,
@@ -1507,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137145,
+      "num": 137145,
+      "word": "超级婴儿正在硅谷兴起",
+      "onboard_time": 1721552898,
+      "rank": 40,
+      "category": "科学科普,母婴育儿"
+    },
+    {
       "raw_hot": 135828,
       "num": 135828,
       "word": "粉笔模考",
@@ -1531,6 +1563,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 133741,
+      "num": 133741,
+      "word": "峨眉山猴子抢夺食物导致男孩被摔伤",
+      "onboard_time": 1721550918,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133291,
       "num": 133291,
       "word": "YS对战MRC",
@@ -1545,14 +1585,6 @@
       "onboard_time": 1721518936,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 133115,
-      "num": 146069,
-      "word": "决定说明全文",
-      "onboard_time": 1721552898,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 132818,
@@ -1603,6 +1635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127602,
+      "num": 127602,
+      "word": "禾伙人",
+      "onboard_time": 1721554459,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126936,
       "num": 211866,
       "word": "郭富城小女儿单手翻一字马",
@@ -1611,11 +1651,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126331,
+      "num": 126331,
+      "word": "抓娃娃票房破14亿",
+      "onboard_time": 1721553499,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 126223,
       "num": 126223,
       "word": "马伊琍演技",
       "onboard_time": 1721547198,
       "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 125708,
+      "num": 125708,
+      "word": "minnie在宋雨琦肚子上比心",
+      "onboard_time": 1721554459,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -1675,14 +1731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119089,
-      "num": 119089,
-      "word": "峨眉山猴子抢夺食物导致男孩被摔伤",
-      "onboard_time": 1721550918,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 118938,
       "num": 118938,
       "word": "檀健次 电影",
@@ -1729,14 +1777,6 @@
       "onboard_time": 1721459238,
       "rank": 39,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 113496,
-      "num": 113496,
-      "word": "抓娃娃票房破14亿",
-      "onboard_time": 1721553499,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 112022,
@@ -1980,7 +2020,7 @@
     },
     {
       "raw_hot": 63226,
-      "num": 337688,
+      "num": 344773,
       "word": "星巴克YONEX联名出球拍了",
       "onboard_time": 1721550258,
       "rank": 32,
@@ -2017,6 +2057,14 @@
       "onboard_time": 1721484802,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 55839,
+      "num": 1107922,
+      "word": "健全推动经济高质量发展体制机制",
+      "onboard_time": 1721554278,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 53906,
