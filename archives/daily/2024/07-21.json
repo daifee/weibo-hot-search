@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721566200845,
+  "endTime": 1721568011884,
   "band_list": [
     {
       "raw_hot": 3697740,
@@ -91,6 +91,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1353124,
+      "num": 738518,
+      "word": "胎儿检出超雄孕妇完成终止妊娠手术",
+      "onboard_time": 1721562979,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1340479,
       "num": 1340479,
       "word": "杨倩回应无缘巴黎奥运",
@@ -129,6 +137,14 @@
       "onboard_time": 1721549239,
       "rank": 7,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 1200066,
+      "num": 1200066,
+      "word": "泰国队员想来中国队宿舍凉快",
+      "onboard_time": 1721565621,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 1198827,
@@ -177,6 +193,14 @@
       "onboard_time": 1721529499,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 946340,
+      "num": 364334,
+      "word": "时代峰峻声明",
+      "onboard_time": 1721567360,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 942297,
@@ -267,14 +291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 738518,
-      "num": 738518,
-      "word": "胎儿检出超雄孕妇完成终止妊娠手术",
-      "onboard_time": 1721562979,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 733476,
       "num": 715641,
       "word": "于正说鞠婧祎档期排到明年4月了",
@@ -361,6 +377,14 @@
       "onboard_time": 1721519714,
       "rank": 4,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 656030,
+      "num": 656030,
+      "word": "悉尼一父亲救滚入轨道的婴儿车不幸死亡",
+      "onboard_time": 1721563879,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 633795,
@@ -475,6 +499,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 501476,
+      "num": 501476,
+      "word": "唐诡2仵作之死最惨的是谁",
+      "onboard_time": 1721564300,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 486760,
       "num": 455730,
       "word": "赵丽颖 电影向阳花",
@@ -528,14 +560,6 @@
       "word": "郑水晶发文告别错位江娜",
       "onboard_time": 1721531239,
       "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 450336,
-      "num": 450336,
-      "word": "唐诡2仵作之死最惨的是谁",
-      "onboard_time": 1721564300,
-      "rank": 19,
       "category": "剧集"
     },
     {
@@ -643,12 +667,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 382166,
-      "num": 382166,
-      "word": "泰国队员想来中国队宿舍凉快",
-      "onboard_time": 1721565621,
-      "rank": 13,
-      "category": "体育"
+      "raw_hot": 377759,
+      "num": 377759,
+      "word": "酱汁鑫鑫豆豆",
+      "onboard_time": 1721566040,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 373272,
@@ -731,12 +755,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 322189,
+      "num": 322189,
+      "word": "美国15岁华裔女孩骑行途中离奇消失",
+      "onboard_time": 1721561778,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314888,
       "num": 261520,
       "word": "十个勤天粉丝发文",
       "onboard_time": 1721536218,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 312013,
+      "num": 312013,
+      "word": "涂山璟角色热度破1亿",
+      "onboard_time": 1721563042,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 310924,
@@ -763,20 +803,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 309464,
+      "num": 309464,
+      "word": "ive新闻图",
+      "onboard_time": 1721565741,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 303628,
       "num": 303628,
       "word": "李庚希纯素颜连麦张大大",
       "onboard_time": 1721541080,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 302071,
-      "num": 302071,
-      "word": "涂山璟角色热度破1亿",
-      "onboard_time": 1721563042,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 300808,
@@ -819,6 +859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 280532,
+      "num": 280532,
+      "word": "中医说三伏天得热着过",
+      "onboard_time": 1721564601,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 275347,
       "num": 240151,
       "word": "这居然是张新成",
@@ -857,6 +905,14 @@
       "onboard_time": 1721545278,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 265918,
+      "num": 265918,
+      "word": "怎么有反派30集才掉马的啊",
+      "onboard_time": 1721566700,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 263752,
@@ -1099,6 +1155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 205764,
+      "num": 205764,
+      "word": "AG对战TTG",
+      "onboard_time": 1721567121,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 205102,
       "num": 205102,
       "word": "唐诡西行细节",
@@ -1121,14 +1185,6 @@
       "onboard_time": 1721513532,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 204292,
-      "num": 204292,
-      "word": "ive新闻图",
-      "onboard_time": 1721565741,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 203184,
@@ -1211,12 +1267,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 199054,
+      "num": 393355,
+      "word": "一口价黄金饰品套路多成消费陷阱",
+      "onboard_time": 1721565319,
+      "rank": 9,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 198817,
       "num": 198817,
       "word": "微软850万台Windows设备蓝屏",
       "onboard_time": 1721525239,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 198755,
+      "num": 198755,
+      "word": "二十届三中全会决定全文公布",
+      "onboard_time": 1721567420,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 198473,
@@ -1281,6 +1353,14 @@
       "onboard_time": 1721538917,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195429,
+      "num": 195429,
+      "word": "张杰即将13次打卡鸟巢",
+      "onboard_time": 1721567598,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 195375,
@@ -1363,14 +1443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188393,
-      "num": 188393,
-      "word": "美国15岁华裔女孩骑行途中离奇消失",
-      "onboard_time": 1721561778,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188332,
       "num": 188332,
       "word": "汪苏泷演唱会退票事件观众回应",
@@ -1443,6 +1515,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 182359,
+      "num": 178465,
+      "word": "王俊凯EZ反杀",
+      "onboard_time": 1721567780,
+      "rank": 35,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 180250,
       "num": 357413,
       "word": "特朗普遭枪击后首次现身竞选集会",
@@ -1457,6 +1537,14 @@
       "onboard_time": 1721548578,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179451,
+      "num": 179451,
+      "word": "王楚钦早六晚十练了两年了",
+      "onboard_time": 1721567420,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 178517,
@@ -1555,6 +1643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173484,
+      "num": 173484,
+      "word": "孙颖莎谈对混双金牌的渴望",
+      "onboard_time": 1721564840,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172821,
       "num": 213619,
       "word": "小尖尖",
@@ -1619,14 +1715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 167861,
-      "num": 167861,
-      "word": "中医说三伏天得热着过",
-      "onboard_time": 1721564601,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 166295,
       "num": 166295,
       "word": "这3件事或是卵巢衰老信号",
@@ -1641,14 +1729,6 @@
       "onboard_time": 1721552240,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 163774,
-      "num": 163774,
-      "word": "孙颖莎谈对混双金牌的渴望",
-      "onboard_time": 1721564840,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 163599,
@@ -1763,6 +1843,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 151362,
+      "num": 151362,
+      "word": "荣梓杉毕业旅行去花少了",
+      "onboard_time": 1721567420,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151235,
       "num": 151235,
       "word": "以军空袭也门荷台达",
@@ -1841,6 +1929,14 @@
       "onboard_time": 1721541258,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144763,
+      "num": 144763,
+      "word": "开着空调在养生馆做艾灸三人中毒",
+      "onboard_time": 1721566340,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143839,
@@ -2003,12 +2099,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 137426,
-      "num": 137426,
-      "word": "酱汁鑫鑫豆豆",
-      "onboard_time": 1721566040,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 137480,
+      "num": 137480,
+      "word": "NMIXX滑倒",
+      "onboard_time": 1721567900,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 137306,
@@ -2137,6 +2233,14 @@
       "onboard_time": 1721486062,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129358,
+      "num": 129358,
+      "word": "何冲巴黎奥运会新身份",
+      "onboard_time": 1721567842,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 128836,
@@ -2547,6 +2651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75950,
+      "num": 151621,
+      "word": "男孩不想吃学习的苦被家长带去捡瓶子",
+      "onboard_time": 1721567180,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73644,
       "num": 262012,
       "word": "流浪猫靠蹭腿撒娇入编消防队",
@@ -2819,14 +2931,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 35810,
-      "num": 393355,
-      "word": "一口价黄金饰品套路多成消费陷阱",
-      "onboard_time": 1721565319,
-      "rank": 9,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 35237,
       "num": 546525,
       "word": "被家里老人惦记有多幸福",
@@ -2912,6 +3016,14 @@
       "word": "高速垮塌灾害亲历者讲述获救情形",
       "onboard_time": 1721505732,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18468,
+      "num": 373741,
+      "word": "实拍陕西桥梁垮塌搜救现场",
+      "onboard_time": 1721567661,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
