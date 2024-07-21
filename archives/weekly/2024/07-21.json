@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721530082583,
+  "endTime": 1721532142815,
   "band_list": [
     {
       "raw_hot": 2330012,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1556957,
+      "num": 1556957,
+      "word": "13位少年倒了600000尾鱼苗",
+      "onboard_time": 1721527579,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1447507,
       "num": 943546,
       "word": "种地吧回应加人",
@@ -51,20 +59,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 930108,
-      "num": 930108,
-      "word": "13位少年倒了600000尾鱼苗",
-      "onboard_time": 1721527579,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 922901,
       "num": 922901,
       "word": "wei大xun",
       "onboard_time": 1721480118,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 746370,
+      "num": 746370,
+      "word": "中国奥运首金得主谈金牌捐献国博",
+      "onboard_time": 1721528718,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 736312,
+      "num": 223919,
+      "word": "杨迪恭喜张予曦总冠军",
+      "onboard_time": 1721529499,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 733476,
@@ -140,7 +156,7 @@
     },
     {
       "raw_hot": 520124,
-      "num": 332496,
+      "num": 376940,
       "word": "司机高速发现后备箱人脸后报警",
       "onboard_time": 1721527398,
       "rank": 13,
@@ -163,6 +179,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 488968,
+      "num": 385041,
+      "word": "孕妇空袭遇难腹中婴儿被救出",
+      "onboard_time": 1721530518,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 484226,
       "num": 323828,
       "word": "王嘉尔又当伴郎了",
@@ -171,8 +195,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 472039,
+      "num": 472039,
+      "word": "司机称10个中就有2个在用作弊软件",
+      "onboard_time": 1721529018,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 443919,
-      "num": 332416,
+      "num": 375849,
       "word": "白鹿销冠的底气",
       "onboard_time": 1721527999,
       "rank": 14,
@@ -193,14 +225,6 @@
       "onboard_time": 1721520736,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 407363,
-      "num": 185065,
-      "word": "杨迪恭喜张予曦总冠军",
-      "onboard_time": 1721529499,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 402339,
@@ -307,14 +331,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 281295,
-      "num": 281295,
-      "word": "中国奥运首金得主谈金牌捐献国博",
-      "onboard_time": 1721528718,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 268726,
       "num": 268726,
       "word": "代露娃回应长相思角色争议",
@@ -371,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223047,
+      "num": 223047,
+      "word": "全红婵水花消失术用英语怎么说",
+      "onboard_time": 1721530579,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216930,
       "num": 216930,
       "word": "反对任何形式的暴力伤医",
@@ -387,12 +411,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206559,
+      "num": 206559,
+      "word": "我们的歌6开播",
+      "onboard_time": 1721531717,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 205102,
+      "num": 205102,
+      "word": "唐诡西行细节",
+      "onboard_time": 1721531298,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204591,
       "num": 204591,
       "word": "买了个最老实的狗后面发现是装的",
       "onboard_time": 1721513532,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 203141,
+      "num": 203141,
+      "word": "景甜深V碎花裙",
+      "onboard_time": 1721530219,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 201815,
@@ -419,12 +467,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 195375,
+      "num": 195375,
+      "word": "郭士强任中国男篮主教练",
+      "onboard_time": 1721529858,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191280,
       "num": 191280,
       "word": "香港街头偶遇朴灿烈",
       "onboard_time": 1721525898,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189685,
+      "num": 189685,
+      "word": "郑水晶发文告别错位江娜",
+      "onboard_time": 1721531239,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 188332,
@@ -449,14 +513,6 @@
       "onboard_time": 1721496135,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 177563,
-      "num": 177563,
-      "word": "郭士强任中国男篮主教练",
-      "onboard_time": 1721529858,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 176668,
@@ -507,6 +563,38 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 170281,
+      "num": 170281,
+      "word": "泉州卫健委回应号召党员干部生三孩",
+      "onboard_time": 1721531058,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165455,
+      "num": 165455,
+      "word": "丁真吃泡面加冷水",
+      "onboard_time": 1721529319,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 164757,
+      "num": 164757,
+      "word": "花花的每个动作都是甜蜜暴击",
+      "onboard_time": 1721529618,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164173,
+      "num": 164173,
+      "word": "雅安暴雨致30余人失联",
+      "onboard_time": 1721530278,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163599,
       "num": 213936,
       "word": "张予曦获得你好歌手2024歌王",
@@ -547,20 +635,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 159318,
+      "num": 159318,
+      "word": "02年实习生爆改亚裔辣妹妆",
+      "onboard_time": 1721528479,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 153305,
       "num": 153305,
       "word": "詹姆斯绝杀南苏丹男篮",
       "onboard_time": 1721518095,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152902,
-      "num": 152902,
-      "word": "丁真吃泡面加冷水",
-      "onboard_time": 1721529319,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 151235,
@@ -649,6 +737,14 @@
       "onboard_time": 1721519115,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135478,
+      "num": 135478,
+      "word": "鹭卓晒自拍说下次见",
+      "onboard_time": 1721531599,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 135447,
@@ -875,22 +971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 98080,
-      "num": 98080,
-      "word": "花花的每个动作都是甜蜜暴击",
-      "onboard_time": 1721529618,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97159,
-      "num": 99828,
-      "word": "02年实习生爆改亚裔辣妹妆",
-      "onboard_time": 1721528479,
-      "rank": 49,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 93332,
       "num": 211180,
       "word": "华晨宇忒修斯的船",
@@ -963,14 +1043,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 61102,
-      "num": 332766,
-      "word": "司机称10个中就有2个在用作弊软件",
-      "onboard_time": 1721529018,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 60679,
       "num": 153959,
       "word": "大学生众筹千元救难产猫妈妈",
@@ -1009,6 +1081,14 @@
       "onboard_time": 1721489601,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 52234,
+      "num": 303114,
+      "word": "党的二十届三中全会学习笔记",
+      "onboard_time": 1721531839,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 51051,
@@ -1057,6 +1137,14 @@
       "onboard_time": 1721496435,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 46027,
+      "num": 399273,
+      "word": "挖掘机转运受伤群众过河",
+      "onboard_time": 1721530819,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45717,
@@ -1115,12 +1203,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36615,
+      "num": 206909,
+      "word": "中国奥运代表团加油壁纸",
+      "onboard_time": 1721522418,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36119,
       "num": 46022,
       "word": "商家按单做热咖啡被顾客差评要冷的",
       "onboard_time": 1721507531,
       "rank": 48,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 31483,
+      "num": 159708,
+      "word": "男孩吃葡萄被卡医生海姆立克救回",
+      "onboard_time": 1721528058,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30801,
@@ -1201,6 +1305,14 @@
       "onboard_time": 1721497634,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 3535,
+      "num": 793632,
+      "word": "幸福就在这里走进西藏",
+      "onboard_time": 1721444479,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
