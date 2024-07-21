@@ -1,0 +1,410 @@
+{
+  "runTime": 1721557186580,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1260130,
+        "num": 1260130,
+        "word": "三中全会决定60条",
+        "onboard_time": 1721551518,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1198827,
+        "num": 1198827,
+        "word": "TF三代reaction直播",
+        "onboard_time": 1721555719,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108632,
+        "num": 806934,
+        "word": "我国探索逐步扩大免费教育范围",
+        "onboard_time": 1721556258,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 779901,
+        "num": 779901,
+        "word": "杨倩陪母亲走完最后时光",
+        "onboard_time": 1721548099,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 706905,
+        "num": 706905,
+        "word": "英雄联盟手游取消赵露思置顶",
+        "onboard_time": 1721549239,
+        "rank": 4,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 503758,
+        "num": 503758,
+        "word": "串串房引发身体不适搬走后又租别人",
+        "onboard_time": 1721555298,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681373,
+        "num": 448514,
+        "word": "杨超越还好没退群",
+        "onboard_time": 1721553318,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 529682,
+        "num": 434230,
+        "word": "SBS直播",
+        "onboard_time": 1721556019,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 387222,
+        "num": 387222,
+        "word": "巴黎奥运会 空调",
+        "onboard_time": 1721550079,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 357961,
+        "num": 357961,
+        "word": "卡琳娜cos硬核一中",
+        "onboard_time": 1721554519,
+        "rank": 9,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 581912,
+        "num": 342854,
+        "word": "当事人回应胎儿被诊断超雄综合征",
+        "onboard_time": 1721544738,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486760,
+        "num": 331693,
+        "word": "赵丽颖 电影向阳花",
+        "onboard_time": 1721553318,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 419774,
+        "num": 312803,
+        "word": "minnie在宋雨琦肚子上比心",
+        "onboard_time": 1721554459,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 416059,
+        "num": 310988,
+        "word": "勤天柱",
+        "onboard_time": 1721548998,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 408688,
+        "num": 289034,
+        "word": "花少6官宣阵容",
+        "onboard_time": 1721539638,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280414,
+        "num": 280414,
+        "word": "女子被离婚七年的前夫暴力殴打",
+        "onboard_time": 1721538077,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44494,
+        "num": 262012,
+        "word": "流浪猫靠蹭腿撒娇入编消防队",
+        "onboard_time": 1721551640,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261750,
+        "num": 261750,
+        "word": "关于二十届三中全会决定的说明",
+        "onboard_time": 1721552240,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 231905,
+        "num": 231905,
+        "word": "加拿大女子曝光印度人海滩挖坑大便",
+        "onboard_time": 1721540898,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229968,
+        "num": 229968,
+        "word": "为特朗普治疗耳朵的医生发声",
+        "onboard_time": 1721538077,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 523088,
+        "num": 229440,
+        "word": "宋丹丹张新成演恋人",
+        "onboard_time": 1721555356,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354257,
+        "num": 215613,
+        "word": "刘耀文 我想演戏当演员",
+        "onboard_time": 1721550137,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346104,
+        "num": 206158,
+        "word": "爱豆和嫂子的日常belike",
+        "onboard_time": 1721545519,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196135,
+        "num": 196135,
+        "word": "多地宝马4S店拒不交车",
+        "onboard_time": 1721533579,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254697,
+        "num": 196066,
+        "word": "宋雨琦回应小肚子",
+        "onboard_time": 1721544558,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 242328,
+        "num": 196035,
+        "word": "种地吧回应加人",
+        "onboard_time": 1721467338,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232275,
+        "num": 196015,
+        "word": "洞洞鞋三宗罪",
+        "onboard_time": 1721540000,
+        "rank": 26,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 195965,
+        "num": 195965,
+        "word": "专家称绝大多数超雄宝宝能正常生活",
+        "onboard_time": 1721555298,
+        "rank": 27,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 193981,
+        "num": 193981,
+        "word": "杨旭文说唐诡一部比一部压力大",
+        "onboard_time": 1721555179,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191755,
+        "num": 191755,
+        "word": "女子漫展穿和服被保安拒绝入场",
+        "onboard_time": 1721555959,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174569,
+        "num": 174569,
+        "word": "女子称花7元多买到加了色素的贡菜",
+        "onboard_time": 1721546297,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159587,
+        "num": 159587,
+        "word": "陕西垮塌桥4公里外发现2辆失联车",
+        "onboard_time": 1721551579,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153177,
+        "num": 153177,
+        "word": "谁送礼物送马桶啊",
+        "onboard_time": 1721556498,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148648,
+        "num": 148648,
+        "word": "相柳第一次外放情绪",
+        "onboard_time": 1721553618,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147847,
+        "num": 147847,
+        "word": "歌谣大战红毯",
+        "onboard_time": 1721543898,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141794,
+        "num": 141794,
+        "word": "英雄联盟手游",
+        "onboard_time": 1721544319,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139399,
+        "num": 139399,
+        "word": "王源TMEA白T彩排照",
+        "onboard_time": 1721556019,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137191,
+        "num": 137191,
+        "word": "小S和二女儿坐云霄飞车对比",
+        "onboard_time": 1721549778,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137139,
+        "num": 137139,
+        "word": "超级婴儿正在硅谷兴起",
+        "onboard_time": 1721552898,
+        "rank": 38,
+        "category": "科学科普,母婴育儿"
+      },
+      {
+        "raw_hot": 134330,
+        "num": 134330,
+        "word": "这居然是张新成",
+        "onboard_time": 1721550678,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133072,
+        "num": 133072,
+        "word": "于正说小龙女先找的Angelababy",
+        "onboard_time": 1721534298,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131886,
+        "num": 131886,
+        "word": "陈好 花少6大姐",
+        "onboard_time": 1721540298,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123463,
+        "num": 123463,
+        "word": "SBS歌谣大战",
+        "onboard_time": 1721543779,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 123292,
+        "num": 123292,
+        "word": "国际数学奥林匹克成绩中国队屈居第二",
+        "onboard_time": 1721549358,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 118853,
+        "num": 118853,
+        "word": "登陆日",
+        "onboard_time": 1721557158,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117453,
+        "num": 117453,
+        "word": "上一秒伤心小狗下一秒开心小狗",
+        "onboard_time": 1721554278,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117288,
+        "num": 117288,
+        "word": "韩国第一夫人被传唤调查",
+        "onboard_time": 1721541439,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 110902,
+        "num": 110902,
+        "word": "一次性内裤真的能穿吗",
+        "onboard_time": 1721535978,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 110040,
+        "num": 110040,
+        "word": "峨眉山猴子抢夺食物导致男孩被摔伤",
+        "onboard_time": 1721550918,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98767,
+        "num": 109451,
+        "word": "棒球帽低丸子头发型",
+        "onboard_time": 1721556738,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#切实保障人民群众生命财产安全#"
+    }
+  }
+}

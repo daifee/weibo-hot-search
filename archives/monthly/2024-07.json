@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721554533826,
+  "endTime": 1721557186580,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -2529,6 +2529,14 @@
       "onboard_time": 1719887898,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1198827,
+      "num": 1198827,
+      "word": "TF三代reaction直播",
+      "onboard_time": 1721555719,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1198786,
@@ -7171,6 +7179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 681373,
+      "num": 459591,
+      "word": "杨超越还好没退群",
+      "onboard_time": 1721553318,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 681086,
       "num": 681086,
       "word": "B太曝光星期狗",
@@ -10531,6 +10547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 529682,
+      "num": 434230,
+      "word": "SBS直播",
+      "onboard_time": 1721556019,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 529558,
       "num": 308072,
       "word": "员工称宗馥莉接班后频繁更换中高层",
@@ -10689,6 +10713,14 @@
       "onboard_time": 1719883397,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 523088,
+      "num": 229440,
+      "word": "宋丹丹张新成演恋人",
+      "onboard_time": 1721555356,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 522946,
@@ -11241,6 +11273,14 @@
       "onboard_time": 1719761659,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 503758,
+      "num": 503758,
+      "word": "串串房引发身体不适搬走后又租别人",
+      "onboard_time": 1721555298,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 503257,
@@ -11897,6 +11937,14 @@
       "onboard_time": 1720579098,
       "rank": 25,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 486760,
+      "num": 455730,
+      "word": "赵丽颖 电影向阳花",
+      "onboard_time": 1721553318,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 486584,
@@ -12771,14 +12819,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 459591,
-      "num": 459591,
-      "word": "杨超越还好没退群",
-      "onboard_time": 1721553318,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 459577,
       "num": 459577,
       "word": "浪姐6阵容",
@@ -12865,14 +12905,6 @@
       "onboard_time": 1721172798,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 455730,
-      "num": 455730,
-      "word": "赵丽颖 电影向阳花",
-      "onboard_time": 1721553318,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 455586,
@@ -14553,6 +14585,14 @@
       "onboard_time": 1721018182,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 419774,
+      "num": 312803,
+      "word": "minnie在宋雨琦肚子上比心",
+      "onboard_time": 1721554459,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 419486,
@@ -17017,6 +17057,14 @@
       "onboard_time": 1719920418,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 357961,
+      "num": 357961,
+      "word": "卡琳娜cos硬核一中",
+      "onboard_time": 1721554519,
+      "rank": 9,
+      "category": "动漫,网红"
     },
     {
       "raw_hot": 357940,
@@ -21969,6 +22017,14 @@
       "onboard_time": 1720159758,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 261750,
+      "num": 1264713,
+      "word": "关于二十届三中全会决定的说明",
+      "onboard_time": 1721552240,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 261737,
@@ -29867,6 +29923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 195965,
+      "num": 195965,
+      "word": "专家称绝大多数超雄宝宝能正常生活",
+      "onboard_time": 1721555298,
+      "rank": 27,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 195960,
       "num": 62290,
       "word": "喜欢睡觉但晚上舍不得睡",
@@ -30305,6 +30369,14 @@
       "onboard_time": 1720357338,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 193981,
+      "num": 193981,
+      "word": "杨旭文说唐诡一部比一部压力大",
+      "onboard_time": 1721555179,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 193967,
@@ -30785,6 +30857,14 @@
       "onboard_time": 1720317617,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 191755,
+      "num": 191755,
+      "word": "女子漫展穿和服被保安拒绝入场",
+      "onboard_time": 1721555959,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191754,
@@ -38739,6 +38819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153177,
+      "num": 153177,
+      "word": "谁送礼物送马桶啊",
+      "onboard_time": 1721556498,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153127,
       "num": 863295,
       "word": "7月新规影响你我",
@@ -41985,6 +42073,14 @@
       "onboard_time": 1719755598,
       "rank": 31,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 139399,
+      "num": 139399,
+      "word": "王源TMEA白T彩排照",
+      "onboard_time": 1721556019,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 139374,
@@ -45344,14 +45440,6 @@
       "word": "周也又去环球影城了",
       "onboard_time": 1720056557,
       "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 125708,
-      "num": 125708,
-      "word": "minnie在宋雨琦肚子上比心",
-      "onboard_time": 1721554459,
-      "rank": 45,
       "category": "艺人"
     },
     {
@@ -49259,6 +49347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108632,
+      "num": 806934,
+      "word": "我国探索逐步扩大免费教育范围",
+      "onboard_time": 1721556258,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 108568,
       "num": 108568,
       "word": "杨紫工作室好皮",
@@ -50779,6 +50875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 98767,
+      "num": 109451,
+      "word": "棒球帽低丸子头发型",
+      "onboard_time": 1721556738,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 98758,
       "num": 98758,
       "word": "卫生间的发展令我汗流浃背了",
@@ -51897,14 +52001,6 @@
       "onboard_time": 1720136356,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 89696,
-      "num": 1264713,
-      "word": "关于二十届三中全会决定的说明",
-      "onboard_time": 1721552240,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 89396,
@@ -56481,6 +56577,14 @@
       "onboard_time": 1720106717,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 44494,
+      "num": 262012,
+      "word": "流浪猫靠蹭腿撒娇入编消防队",
+      "onboard_time": 1721551640,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44433,
