@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721535753330,
+  "endTime": 1721536593666,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -2843,6 +2843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1123829,
+      "num": 1123829,
+      "word": "多地宝马4S店拒不交车",
+      "onboard_time": 1721533579,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1123805,
       "num": 1123805,
       "word": "涂山璟滴血验亲喜提警方科普",
@@ -3771,19 +3779,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 981010,
+      "num": 981010,
+      "word": "杨迪恭喜张予曦总冠军",
+      "onboard_time": 1721529499,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 980675,
       "num": 606894,
       "word": "女子举报公婆名下有近亿资产",
       "onboard_time": 1721376500,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 979022,
-      "num": 979022,
-      "word": "多地宝马4S店拒不交车",
-      "onboard_time": 1721533579,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -3873,14 +3881,6 @@
       "onboard_time": 1720866317,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 967717,
-      "num": 583293,
-      "word": "杨迪恭喜张予曦总冠军",
-      "onboard_time": 1721529499,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 966732,
@@ -4137,6 +4137,14 @@
       "onboard_time": 1720345998,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 931999,
+      "num": 501939,
+      "word": "于正说小龙女先找的Angelababy",
+      "onboard_time": 1721534298,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 931287,
@@ -5040,14 +5048,6 @@
       "word": "姜涩琪道歉",
       "onboard_time": 1720861277,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 835347,
-      "num": 501939,
-      "word": "于正说小龙女先找的Angelababy",
-      "onboard_time": 1721534298,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -15459,6 +15459,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 391939,
+      "num": 335182,
+      "word": "一次性内裤真的能穿吗",
+      "onboard_time": 1721535978,
+      "rank": 20,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 391701,
       "num": 391701,
       "word": "吴奇隆在机场跑道开车",
@@ -18843,6 +18851,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 314888,
+      "num": 261520,
+      "word": "十个勤天粉丝发文",
+      "onboard_time": 1721536218,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 314808,
       "num": 238105,
       "word": "董洁晒与儿子日本旅行vlog",
@@ -18921,6 +18937,14 @@
       "onboard_time": 1720011377,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 313419,
+      "num": 519691,
+      "word": "桥梁垮塌幸存者称一车人只有自己获救",
+      "onboard_time": 1721535078,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 313320,
@@ -20809,6 +20833,14 @@
       "onboard_time": 1720692076,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 279690,
+      "num": 279690,
+      "word": "蓝色监狱 顶级帅哥体育生",
+      "onboard_time": 1721534420,
+      "rank": 23,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 279677,
@@ -23217,14 +23249,6 @@
       "onboard_time": 1719757460,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 240881,
-      "num": 240881,
-      "word": "蓝色监狱 顶级帅哥体育生",
-      "onboard_time": 1721534420,
-      "rank": 23,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 240854,
@@ -30099,6 +30123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192975,
+      "num": 192975,
+      "word": "韩国称朝鲜再次向韩放飞气球",
+      "onboard_time": 1721532498,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 192971,
       "num": 192971,
       "word": "DYG对战TES",
@@ -30265,6 +30297,14 @@
       "onboard_time": 1720703598,
       "rank": 31,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 191966,
+      "num": 191966,
+      "word": "花少看世界2024",
+      "onboard_time": 1721536039,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 191960,
@@ -31059,14 +31099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 188643,
-      "num": 519691,
-      "word": "桥梁垮塌幸存者称一车人只有自己获救",
-      "onboard_time": 1721535078,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188625,
       "num": 188625,
       "word": "GLASS三周年盛典阵容官宣",
@@ -31273,6 +31305,14 @@
       "onboard_time": 1721306237,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187916,
+      "num": 187916,
+      "word": "特朗普竞回应马斯克支持",
+      "onboard_time": 1721534719,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 187905,
@@ -32371,14 +32411,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 181698,
-      "num": 181698,
-      "word": "特朗普竞回应马斯克支持",
-      "onboard_time": 1721534719,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 181651,
       "num": 181651,
       "word": "刘诗诗给唐朝诡事录2打call",
@@ -32721,6 +32753,14 @@
       "onboard_time": 1720086258,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180250,
+      "num": 357413,
+      "word": "特朗普遭枪击后首次现身竞选集会",
+      "onboard_time": 1721532199,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 180244,
@@ -33153,6 +33193,14 @@
       "onboard_time": 1720589237,
       "rank": 48,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 177658,
+      "num": 177658,
+      "word": "李昊说相信我",
+      "onboard_time": 1721535018,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 177655,
@@ -34059,14 +34107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 173276,
-      "num": 357413,
-      "word": "特朗普遭枪击后首次现身竞选集会",
-      "onboard_time": 1721532199,
-      "rank": 13,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 173271,
       "num": 173271,
       "word": "AI爆改还珠格格",
@@ -34353,14 +34393,6 @@
       "onboard_time": 1721104340,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 171750,
-      "num": 171750,
-      "word": "李昊说相信我",
-      "onboard_time": 1721535018,
-      "rank": 33,
-      "category": "演出"
     },
     {
       "raw_hot": 171745,
@@ -36513,14 +36545,6 @@
       "onboard_time": 1721299518,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 161199,
-      "num": 191596,
-      "word": "韩国称朝鲜再次向韩放飞气球",
-      "onboard_time": 1721532498,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 161178,
@@ -43219,6 +43243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131768,
+      "num": 131768,
+      "word": "立即关闭柞水垮塌桥梁上游所有水库",
+      "onboard_time": 1721536159,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131758,
       "num": 131758,
       "word": "张志杰晕倒后应由谁第一时间急救",
@@ -45987,6 +46019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120157,
+      "num": 120157,
+      "word": "阿娇 金鱼上岸",
+      "onboard_time": 1721536579,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 120146,
       "num": 120146,
       "word": "宋亚轩最佳笑容奖",
@@ -48355,6 +48395,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 109339,
+      "num": 482043,
+      "word": "看到奥运村纸板床的第一反应",
+      "onboard_time": 1721533638,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109334,
       "num": 109334,
       "word": "詹俊说上半区两场对决悬念拉满",
@@ -49313,6 +49361,14 @@
       "onboard_time": 1721334910,
       "rank": 10,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 104035,
+      "num": 472398,
+      "word": "台风今晚登陆三亚琼海一带",
+      "onboard_time": 1721534420,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104009,
@@ -52091,14 +52147,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 77365,
-      "num": 482043,
-      "word": "看到奥运村纸板床的第一反应",
-      "onboard_time": 1721533638,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 76928,
       "num": 48465,
       "word": "失眠是因为身体缺少维生素",
@@ -52465,14 +52513,6 @@
       "onboard_time": 1720207271,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 73186,
-      "num": 472398,
-      "word": "台风今晚登陆三亚琼海一带",
-      "onboard_time": 1721534420,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73156,
@@ -55907,6 +55947,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 42699,
+      "num": 402707,
+      "word": "小摔跤手阿其拉跳蒙版科目三",
+      "onboard_time": 1721536338,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42582,
       "num": 170613,
       "word": "爸爸边拎桶边抱宝宝最后2合1",
@@ -58464,6 +58512,14 @@
       "word": "他们纷纷上前帮推车的身影可真帅",
       "onboard_time": 1721492838,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21431,
+      "num": 143671,
+      "word": "美俄亥俄州一飞机坠毁3人死亡",
+      "onboard_time": 1721535978,
+      "rank": 38,
       "category": "社会新闻"
     },
     {

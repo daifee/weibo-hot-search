@@ -1,0 +1,410 @@
+{
+  "runTime": 1721536593666,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1376964,
+        "num": 1376964,
+        "word": "孕妇空袭遇难腹中婴儿被救出",
+        "onboard_time": 1721530518,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1123829,
+        "num": 1123829,
+        "word": "多地宝马4S店拒不交车",
+        "onboard_time": 1721533579,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12048,
+        "num": 1086282,
+        "word": "幸福就在这里走进西藏",
+        "onboard_time": 1721444479,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1076307,
+        "num": 1076307,
+        "word": "13位少年倒了600000尾鱼苗",
+        "onboard_time": 1721527579,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 981010,
+        "num": 981010,
+        "word": "杨迪恭喜张予曦总冠军",
+        "onboard_time": 1721529499,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 576284,
+        "num": 576284,
+        "word": "司机称10个中就有2个在用作弊软件",
+        "onboard_time": 1721529018,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 799062,
+        "num": 572556,
+        "word": "种地吧回应加人",
+        "onboard_time": 1721467338,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 560154,
+        "num": 560154,
+        "word": "全红婵水花消失术用英语怎么说",
+        "onboard_time": 1721530579,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313419,
+        "num": 459640,
+        "word": "桥梁垮塌幸存者称一车人只有自己获救",
+        "onboard_time": 1721535078,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418631,
+        "num": 418631,
+        "word": "汪苏泷 退票",
+        "onboard_time": 1721487622,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 931999,
+        "num": 417138,
+        "word": "于正说小龙女先找的Angelababy",
+        "onboard_time": 1721534298,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 622193,
+        "num": 414963,
+        "word": "韩瑞希ins爆料",
+        "onboard_time": 1721525898,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109339,
+        "num": 412770,
+        "word": "看到奥运村纸板床的第一反应",
+        "onboard_time": 1721533638,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32854,
+        "num": 408949,
+        "word": "跳水梦之队出征巴黎",
+        "onboard_time": 1721534898,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 620739,
+        "num": 405856,
+        "word": "家属称希望不要妖魔化超雄综合征",
+        "onboard_time": 1721518755,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42699,
+        "num": 402707,
+        "word": "小摔跤手阿其拉跳蒙版科目三",
+        "onboard_time": 1721536338,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401462,
+        "num": 401462,
+        "word": "杨倩回应无缘巴黎奥运",
+        "onboard_time": 1721524819,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 375554,
+        "num": 375554,
+        "word": "郑水晶发文告别错位江娜",
+        "onboard_time": 1721531239,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371398,
+        "num": 371398,
+        "word": "泉州卫健委回应号召党员干部生三孩",
+        "onboard_time": 1721531058,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350922,
+        "num": 350922,
+        "word": "中国奥运首金得主谈金牌捐献国博",
+        "onboard_time": 1721528718,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 391939,
+        "num": 335182,
+        "word": "一次性内裤真的能穿吗",
+        "onboard_time": 1721535978,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 302922,
+        "num": 302922,
+        "word": "于正说鞠婧祎档期排到明年4月了",
+        "onboard_time": 1721526198,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279690,
+        "num": 279690,
+        "word": "蓝色监狱 顶级帅哥体育生",
+        "onboard_time": 1721534420,
+        "rank": 22,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 314888,
+        "num": 261520,
+        "word": "十个勤天粉丝发文",
+        "onboard_time": 1721536218,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218321,
+        "num": 218321,
+        "word": "白鹿销冠的底气",
+        "onboard_time": 1721527999,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216755,
+        "num": 216755,
+        "word": "体重达到这个数大脑可能提前衰老12年",
+        "onboard_time": 1721521158,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 216575,
+        "num": 216575,
+        "word": "密逃6解读恐惧与未知",
+        "onboard_time": 1721533699,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203520,
+        "num": 203520,
+        "word": "美国公布核弹头数量",
+        "onboard_time": 1721521577,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 192975,
+        "num": 192975,
+        "word": "韩国称朝鲜再次向韩放飞气球",
+        "onboard_time": 1721532498,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 191966,
+        "num": 191966,
+        "word": "花少看世界2024",
+        "onboard_time": 1721536039,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187916,
+        "num": 187916,
+        "word": "特朗普竞回应马斯克支持",
+        "onboard_time": 1721534719,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 185466,
+        "num": 185466,
+        "word": "贵州22岁女子退婚后遭男方入室杀害",
+        "onboard_time": 1721519714,
+        "rank": 31,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 180758,
+        "num": 180758,
+        "word": "长相思成了不被理解的痴男怨女",
+        "onboard_time": 1721519115,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180250,
+        "num": 180250,
+        "word": "特朗普遭枪击后首次现身竞选集会",
+        "onboard_time": 1721532199,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 177658,
+        "num": 177658,
+        "word": "李昊说相信我",
+        "onboard_time": 1721535018,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170532,
+        "num": 170532,
+        "word": "司机高速发现后备箱人脸后报警",
+        "onboard_time": 1721527398,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157579,
+        "num": 157579,
+        "word": "藏海的浑天仪",
+        "onboard_time": 1721534839,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150302,
+        "num": 150302,
+        "word": "檀健次全黑",
+        "onboard_time": 1721520736,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21431,
+        "num": 143671,
+        "word": "美俄亥俄州一飞机坠毁3人死亡",
+        "onboard_time": 1721535978,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142997,
+        "num": 142997,
+        "word": "丁真吃泡面加冷水",
+        "onboard_time": 1721529319,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141531,
+        "num": 141531,
+        "word": "我们的歌6开播",
+        "onboard_time": 1721531717,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104035,
+        "num": 137921,
+        "word": "台风今晚登陆三亚琼海一带",
+        "onboard_time": 1721534420,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137334,
+        "num": 137334,
+        "word": "男子轨交上猥亵女子被拘13日",
+        "onboard_time": 1721520316,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131768,
+        "num": 131768,
+        "word": "立即关闭柞水垮塌桥梁上游所有水库",
+        "onboard_time": 1721536159,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129073,
+        "num": 129073,
+        "word": "藏海传预约数破200万",
+        "onboard_time": 1721533939,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128841,
+        "num": 128841,
+        "word": "花花的每个动作都是甜蜜暴击",
+        "onboard_time": 1721529618,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122883,
+        "num": 122883,
+        "word": "张峻豪说不敢面对观众",
+        "onboard_time": 1721521096,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120157,
+        "num": 120157,
+        "word": "阿娇 金鱼上岸",
+        "onboard_time": 1721536579,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116601,
+        "num": 116601,
+        "word": "三伏天别做这7件事",
+        "onboard_time": 1721522418,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115678,
+        "num": 115678,
+        "word": "樊振东 顺利入住",
+        "onboard_time": 1721518515,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#切实保障人民群众生命财产安全#"
+    }
+  }
+}
