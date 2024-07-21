@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721536593666,
+  "endTime": 1721539191212,
   "band_list": [
     {
       "raw_hot": 2330012,
@@ -59,20 +59,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1324585,
+      "num": 1324585,
+      "word": "多地宝马4S店拒不交车",
+      "onboard_time": 1721533579,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1244197,
       "num": 492743,
       "word": "韩瑞希ins爆料",
       "onboard_time": 1721525898,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1123829,
-      "num": 1123829,
-      "word": "多地宝马4S店拒不交车",
-      "onboard_time": 1721533579,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 981010,
@@ -83,7 +83,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 931999,
+      "raw_hot": 942297,
       "num": 501939,
       "word": "于正说小龙女先找的Angelababy",
       "onboard_time": 1721534298,
@@ -97,6 +97,14 @@
       "onboard_time": 1721480118,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 860711,
+      "num": 335182,
+      "word": "一次性内裤真的能穿吗",
+      "onboard_time": 1721535978,
+      "rank": 20,
+      "category": "科学科普"
     },
     {
       "raw_hot": 850569,
@@ -145,6 +153,14 @@
       "onboard_time": 1721519714,
       "rank": 4,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 635205,
+      "num": 482695,
+      "word": "花少6官宣宋茜",
+      "onboard_time": 1721538318,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 597910,
@@ -227,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 477723,
+      "num": 477723,
+      "word": "花儿与少年",
+      "onboard_time": 1721537778,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 452813,
       "num": 452813,
       "word": "郑水晶发文告别错位江娜",
@@ -251,12 +275,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 442027,
+      "num": 519691,
+      "word": "桥梁垮塌幸存者称一车人只有自己获救",
+      "onboard_time": 1721535078,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 417611,
+      "num": 417611,
+      "word": "蓝色监狱 顶级帅哥体育生",
+      "onboard_time": 1721534420,
+      "rank": 23,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 408319,
       "num": 408319,
       "word": "檀健次全黑",
       "onboard_time": 1721520736,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 407465,
+      "num": 407465,
+      "word": "女子被离婚七年的前夫暴力殴打",
+      "onboard_time": 1721538077,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 402339,
@@ -273,14 +321,6 @@
       "onboard_time": 1721524400,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 391939,
-      "num": 335182,
-      "word": "一次性内裤真的能穿吗",
-      "onboard_time": 1721535978,
-      "rank": 20,
-      "category": "科学科普"
     },
     {
       "raw_hot": 389855,
@@ -331,6 +371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 360712,
+      "num": 175491,
+      "word": "为特朗普治疗耳朵的医生发声",
+      "onboard_time": 1721538077,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 342240,
       "num": 342240,
       "word": "优衣库高管称中国消费者心态变了",
@@ -353,14 +401,6 @@
       "onboard_time": 1721536218,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 313419,
-      "num": 519691,
-      "word": "桥梁垮塌幸存者称一车人只有自己获救",
-      "onboard_time": 1721535078,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 310924,
@@ -387,20 +427,20 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 291017,
+      "num": 291017,
+      "word": "光与夜之恋",
+      "onboard_time": 1721537660,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 285796,
       "num": 214971,
       "word": "发烫的手机一下就降温了",
       "onboard_time": 1721488881,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 279690,
-      "num": 279690,
-      "word": "蓝色监狱 顶级帅哥体育生",
-      "onboard_time": 1721534420,
-      "rank": 23,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 268726,
@@ -465,6 +505,14 @@
       "onboard_time": 1721518515,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 221948,
+      "num": 221948,
+      "word": "阿娇 金鱼上岸",
+      "onboard_time": 1721536579,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 216930,
@@ -545,6 +593,30 @@
       "onboard_time": 1721532800,
       "rank": 26,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 198305,
+      "num": 198305,
+      "word": "张晚意一滴泪演技",
+      "onboard_time": 1721538558,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 197386,
+      "num": 197386,
+      "word": "相柳开大高能名场面",
+      "onboard_time": 1721538917,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 195421,
+      "num": 441718,
+      "word": "立即关闭柞水垮塌桥梁上游所有水库",
+      "onboard_time": 1721536159,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195375,
@@ -675,6 +747,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 175438,
+      "num": 175438,
+      "word": "茶啊二中反向开学",
+      "onboard_time": 1721536937,
+      "rank": 31,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 174805,
       "num": 174805,
       "word": "巴黎奥运金牌赛事日历",
@@ -697,6 +777,14 @@
       "onboard_time": 1721520916,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 171250,
+      "num": 472398,
+      "word": "台风今晚登陆三亚琼海一带",
+      "onboard_time": 1721534420,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170734,
@@ -755,6 +843,22 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 155509,
+      "num": 155509,
+      "word": "纪星韩廷回忆刀最伤人",
+      "onboard_time": 1721538858,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 154421,
+      "num": 154421,
+      "word": "熊猫妈妈抱着崽翻来覆去地吸",
+      "onboard_time": 1721537538,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153305,
       "num": 153305,
       "word": "詹姆斯绝杀南苏丹男篮",
@@ -803,6 +907,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 143754,
+      "num": 143754,
+      "word": "蔡少芬 宜修不坏是现实逼她的",
+      "onboard_time": 1721538917,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143651,
       "num": 213080,
       "word": "滴滴客服就8公里收费两百多致歉",
@@ -833,6 +945,14 @@
       "onboard_time": 1721519415,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138372,
+      "num": 138372,
+      "word": "中国奥运天团大合影汇总",
+      "onboard_time": 1721537840,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 138218,
@@ -867,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135828,
+      "num": 135828,
+      "word": "粉笔模考",
+      "onboard_time": 1721537718,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 135447,
       "num": 212527,
       "word": "我的初代唱跳白月光杀回来了",
@@ -883,19 +1011,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132374,
+      "num": 132374,
+      "word": "抓娃娃里全家体育生",
+      "onboard_time": 1721536816,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 132343,
       "num": 132343,
       "word": "宏胜集团已注册宗馥莉商标",
       "onboard_time": 1721511431,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131768,
-      "num": 131768,
-      "word": "立即关闭柞水垮塌桥梁上游所有水库",
-      "onboard_time": 1721536159,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -961,14 +1089,6 @@
       "onboard_time": 1721522118,
       "rank": 43,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 120157,
-      "num": 120157,
-      "word": "阿娇 金鱼上岸",
-      "onboard_time": 1721536579,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 118938,
@@ -1081,14 +1201,6 @@
       "onboard_time": 1721519055,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 104035,
-      "num": 472398,
-      "word": "台风今晚登陆三亚琼海一带",
-      "onboard_time": 1721534420,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102887,
@@ -1219,6 +1331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58823,
+      "num": 453475,
+      "word": "跳水梦之队出征巴黎",
+      "onboard_time": 1721534898,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57119,
       "num": 210083,
       "word": "韦世豪红牌",
@@ -1307,6 +1427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 46214,
+      "num": 426180,
+      "word": "大桥垮塌生还者抱紧石头被村民救起",
+      "onboard_time": 1721538020,
+      "rank": 14,
+      "category": "社会新闻,社会正能量"
+    },
+    {
       "raw_hot": 45717,
       "num": 45717,
       "word": "带着微博去旅行",
@@ -1321,14 +1449,6 @@
       "onboard_time": 1721518515,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 42827,
-      "num": 453475,
-      "word": "跳水梦之队出征巴黎",
-      "onboard_time": 1721534898,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 42719,
@@ -1467,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15696,
+      "num": 1086282,
+      "word": "幸福就在这里走进西藏",
+      "onboard_time": 1721444479,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13740,
       "num": 20275,
       "word": "切实保障人民群众生命财产安全",
@@ -1480,14 +1608,6 @@
       "word": "女子被卷入车底众人飞奔抬车救人",
       "onboard_time": 1721499493,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12048,
-      "num": 1086282,
-      "word": "幸福就在这里走进西藏",
-      "onboard_time": 1721444479,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

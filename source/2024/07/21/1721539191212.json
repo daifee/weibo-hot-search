@@ -1,0 +1,410 @@
+{
+  "runTime": 1721539191212,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1324585,
+        "num": 1324585,
+        "word": "多地宝马4S店拒不交车",
+        "onboard_time": 1721533579,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1066281,
+        "num": 1066281,
+        "word": "孕妇空袭遇难腹中婴儿被救出",
+        "onboard_time": 1721530518,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 15696,
+        "num": 883828,
+        "word": "幸福就在这里走进西藏",
+        "onboard_time": 1721444479,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 834129,
+        "num": 834129,
+        "word": "杨迪恭喜张予曦总冠军",
+        "onboard_time": 1721529499,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 727448,
+        "num": 727448,
+        "word": "13位少年倒了600000尾鱼苗",
+        "onboard_time": 1721527579,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 485704,
+        "num": 485704,
+        "word": "司机称10个中就有2个在用作弊软件",
+        "onboard_time": 1721529018,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 635205,
+        "num": 482695,
+        "word": "花少6官宣宋茜",
+        "onboard_time": 1721538318,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 477723,
+        "num": 477723,
+        "word": "花儿与少年",
+        "onboard_time": 1721537778,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442027,
+        "num": 442027,
+        "word": "桥梁垮塌幸存者称一车人只有自己获救",
+        "onboard_time": 1721535078,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195421,
+        "num": 441718,
+        "word": "立即关闭柞水垮塌桥梁上游所有水库",
+        "onboard_time": 1721536159,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 942297,
+        "num": 436551,
+        "word": "于正说小龙女先找的Angelababy",
+        "onboard_time": 1721534298,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58823,
+        "num": 433372,
+        "word": "跳水梦之队出征巴黎",
+        "onboard_time": 1721534898,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 513507,
+        "num": 433224,
+        "word": "韩瑞希ins爆料",
+        "onboard_time": 1721525898,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 511933,
+        "num": 427874,
+        "word": "家属称希望不要妖魔化超雄综合征",
+        "onboard_time": 1721518755,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46214,
+        "num": 426180,
+        "word": "大桥垮塌生还者抱紧石头被村民救起",
+        "onboard_time": 1721538020,
+        "rank": 14,
+        "category": "社会新闻,社会正能量"
+      },
+      {
+        "raw_hot": 424568,
+        "num": 424568,
+        "word": "种地吧回应加人",
+        "onboard_time": 1721467338,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417611,
+        "num": 417611,
+        "word": "蓝色监狱 顶级帅哥体育生",
+        "onboard_time": 1721534420,
+        "rank": 16,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 407465,
+        "num": 407465,
+        "word": "女子被离婚七年的前夫暴力殴打",
+        "onboard_time": 1721538077,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314710,
+        "num": 314710,
+        "word": "全红婵水花消失术用英语怎么说",
+        "onboard_time": 1721530579,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291017,
+        "num": 291017,
+        "word": "光与夜之恋",
+        "onboard_time": 1721537660,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 860711,
+        "num": 288253,
+        "word": "一次性内裤真的能穿吗",
+        "onboard_time": 1721535978,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 414741,
+        "num": 285007,
+        "word": "汪苏泷 退票",
+        "onboard_time": 1721487622,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 277771,
+        "num": 277771,
+        "word": "杨倩回应无缘巴黎奥运",
+        "onboard_time": 1721524819,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264789,
+        "num": 264789,
+        "word": "郑水晶发文告别错位江娜",
+        "onboard_time": 1721531239,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247915,
+        "num": 247915,
+        "word": "于正说鞠婧祎档期排到明年4月了",
+        "onboard_time": 1721526198,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221948,
+        "num": 221948,
+        "word": "阿娇 金鱼上岸",
+        "onboard_time": 1721536579,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 205953,
+        "num": 205953,
+        "word": "体重达到这个数大脑可能提前衰老12年",
+        "onboard_time": 1721521158,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 198305,
+        "num": 198305,
+        "word": "张晚意一滴泪演技",
+        "onboard_time": 1721538558,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197386,
+        "num": 197386,
+        "word": "相柳开大高能名场面",
+        "onboard_time": 1721538917,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175492,
+        "num": 175492,
+        "word": "白鹿销冠的底气",
+        "onboard_time": 1721527999,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 360712,
+        "num": 175491,
+        "word": "为特朗普治疗耳朵的医生发声",
+        "onboard_time": 1721538077,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 175438,
+        "num": 175438,
+        "word": "茶啊二中反向开学",
+        "onboard_time": 1721536937,
+        "rank": 31,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 171250,
+        "num": 171250,
+        "word": "台风今晚登陆三亚琼海一带",
+        "onboard_time": 1721534420,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169135,
+        "num": 169135,
+        "word": "花少看世界2024",
+        "onboard_time": 1721536039,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166233,
+        "num": 166233,
+        "word": "中国奥运首金得主谈金牌捐献国博",
+        "onboard_time": 1721528718,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160979,
+        "num": 160979,
+        "word": "密逃6解读恐惧与未知",
+        "onboard_time": 1721533699,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155509,
+        "num": 155509,
+        "word": "纪星韩廷回忆刀最伤人",
+        "onboard_time": 1721538858,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154421,
+        "num": 154421,
+        "word": "熊猫妈妈抱着崽翻来覆去地吸",
+        "onboard_time": 1721537538,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143754,
+        "num": 143754,
+        "word": "蔡少芬 宜修不坏是现实逼她的",
+        "onboard_time": 1721538917,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140691,
+        "num": 140691,
+        "word": "贵州22岁女子退婚后遭男方入室杀害",
+        "onboard_time": 1721519714,
+        "rank": 39,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 138372,
+        "num": 138372,
+        "word": "中国奥运天团大合影汇总",
+        "onboard_time": 1721537840,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136969,
+        "num": 136969,
+        "word": "司机高速发现后备箱人脸后报警",
+        "onboard_time": 1721527398,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136310,
+        "num": 136310,
+        "word": "李昊说相信我",
+        "onboard_time": 1721535018,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135828,
+        "num": 135828,
+        "word": "粉笔模考",
+        "onboard_time": 1721537718,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 132454,
+        "num": 132454,
+        "word": "特朗普竞回应马斯克支持",
+        "onboard_time": 1721534719,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 132374,
+        "num": 132374,
+        "word": "抓娃娃里全家体育生",
+        "onboard_time": 1721536816,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131470,
+        "num": 131470,
+        "word": "韩国称朝鲜再次向韩放飞气球",
+        "onboard_time": 1721532498,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 130222,
+        "num": 130222,
+        "word": "长相思成了不被理解的痴男怨女",
+        "onboard_time": 1721519115,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126933,
+        "num": 126933,
+        "word": "檀健次全黑",
+        "onboard_time": 1721520736,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113009,
+        "num": 113009,
+        "word": "特朗普遭枪击后首次现身竞选集会",
+        "onboard_time": 1721532199,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#切实保障人民群众生命财产安全#"
+    }
+  }
+}
