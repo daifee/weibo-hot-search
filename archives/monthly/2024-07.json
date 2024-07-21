@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721558180643,
+  "endTime": 1721560573784,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -1281,6 +1281,14 @@
       "onboard_time": 1720589119,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1595603,
+      "num": 1595603,
+      "word": "串串房引发身体不适搬走后又租别人",
+      "onboard_time": 1721555298,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1589081,
@@ -3977,14 +3985,6 @@
       "onboard_time": 1720236618,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 964846,
-      "num": 964846,
-      "word": "串串房引发身体不适搬走后又租别人",
-      "onboard_time": 1721555298,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 962127,
@@ -8403,6 +8403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 614812,
+      "num": 581093,
+      "word": "宋丹丹张新成演恋人",
+      "onboard_time": 1721555356,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 614257,
       "num": 614257,
       "word": "男生为减肥晒背一天一个色",
@@ -8993,6 +9001,14 @@
       "onboard_time": 1720003638,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 589227,
+      "num": 589227,
+      "word": "退休阿姨5个好友4个骗子",
+      "onboard_time": 1721558478,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 588263,
@@ -9675,14 +9691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 563562,
-      "num": 229440,
-      "word": "宋丹丹张新成演恋人",
-      "onboard_time": 1721555356,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 563373,
       "num": 563373,
       "word": "多家银行调整个人账户非柜面交易限额",
@@ -10065,6 +10073,14 @@
       "onboard_time": 1720087578,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 548719,
+      "num": 548719,
+      "word": "女子漫展穿和服被保安拒绝入场",
+      "onboard_time": 1721555959,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 547897,
@@ -14299,6 +14315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 426985,
+      "num": 383846,
+      "word": "按自愿弹性原则推进渐进式延迟退休改革",
+      "onboard_time": 1721557398,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 426835,
       "num": 426835,
       "word": "凡希亚弹唱",
@@ -14441,6 +14465,14 @@
       "onboard_time": 1721046918,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 423415,
+      "num": 431657,
+      "word": "老人为领鸡蛋听课后花两千买胶囊",
+      "onboard_time": 1721557757,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 423134,
@@ -18083,6 +18115,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 337472,
+      "num": 337472,
+      "word": "专家称绝大多数超雄宝宝能正常生活",
+      "onboard_time": 1721555298,
+      "rank": 27,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 337402,
       "num": 337402,
       "word": "张杰鸟巢演唱会加场",
@@ -19449,14 +19489,6 @@
       "onboard_time": 1720403718,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 308975,
-      "num": 308975,
-      "word": "女子漫展穿和服被保安拒绝入场",
-      "onboard_time": 1721555959,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 308942,
@@ -22739,6 +22771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 251661,
+      "num": 251661,
+      "word": "英国偶遇邓超孙俪一家",
+      "onboard_time": 1721558958,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251595,
       "num": 251595,
       "word": "狐妖小红娘第12季定档",
@@ -25019,14 +25059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 225855,
-      "num": 225855,
-      "word": "专家称绝大多数超雄宝宝能正常生活",
-      "onboard_time": 1721555298,
-      "rank": 27,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 225688,
       "num": 225688,
       "word": "上午说了辞职晚上就后悔了",
@@ -27089,14 +27121,6 @@
       "onboard_time": 1721463439,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 208560,
-      "num": 193669,
-      "word": "按自愿弹性原则推进渐进式延迟退休改革",
-      "onboard_time": 1721557398,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 208528,
@@ -29435,6 +29459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198134,
+      "num": 198134,
+      "word": "周深又把戒指甩掉了",
+      "onboard_time": 1721560039,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 198124,
       "num": 184485,
       "word": "只卖火锅的海底捞还有人买账吗",
@@ -30569,6 +30601,14 @@
       "onboard_time": 1721227339,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 193340,
+      "num": 193340,
+      "word": "刘宇宁睡前都看宇妮走天下",
+      "onboard_time": 1721560098,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 193309,
@@ -33595,6 +33635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178517,
+      "num": 178517,
+      "word": "国乒进入奥运会乒乓球场馆训练",
+      "onboard_time": 1721558958,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178368,
       "num": 178368,
       "word": "姆巴佩将身披皇马9号",
@@ -34545,6 +34593,14 @@
       "onboard_time": 1721207659,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174068,
+      "num": 164454,
+      "word": "网上的皮肤vs实际的皮肤",
+      "onboard_time": 1721559018,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 173981,
@@ -36435,6 +36491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164482,
+      "num": 164482,
+      "word": "孙一宁说流量对她来说是风险",
+      "onboard_time": 1721560098,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 164462,
       "num": 164462,
       "word": "格局加入RNG",
@@ -37513,6 +37577,14 @@
       "onboard_time": 1720698558,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159169,
+      "num": 159169,
+      "word": "老两口常年吃剩菜先后确诊胃癌",
+      "onboard_time": 1721558597,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159144,
@@ -38969,6 +39041,14 @@
       "onboard_time": 1720528159,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152696,
+      "num": 152696,
+      "word": "小棉袄帮爸爸擦汗球友叔叔快碎了",
+      "onboard_time": 1721559680,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152693,
@@ -40587,6 +40667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145561,
+      "num": 145561,
+      "word": "Gr对战FPX.ZQ",
+      "onboard_time": 1721559437,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 145548,
       "num": 127954,
       "word": "白敬亭章若楠互关",
@@ -41537,6 +41625,14 @@
       "onboard_time": 1721445439,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141490,
+      "num": 141490,
+      "word": "追星女和同龄人现状",
+      "onboard_time": 1721559138,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 141487,
@@ -43963,6 +44059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132303,
+      "num": 399998,
+      "word": "尔滨你真的一年四季都没有淡季",
+      "onboard_time": 1721559680,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 132281,
       "num": 132281,
       "word": "吉利高管公开反内卷",
@@ -45483,6 +45587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125857,
+      "num": 125857,
+      "word": "三中全会决定的民生领域改革要点",
+      "onboard_time": 1721559978,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 125796,
       "num": 125796,
       "word": "AG对战eStar",
@@ -45801,6 +45913,14 @@
       "onboard_time": 1721186479,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124547,
+      "num": 384296,
+      "word": "我国将完善学生实习实践制度",
+      "onboard_time": 1721558297,
+      "rank": 10,
+      "category": "国内时政"
     },
     {
       "raw_hot": 124486,
@@ -46137,6 +46257,14 @@
       "onboard_time": 1721549599,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123087,
+      "num": 123087,
+      "word": "唐诡西行手指缝里品细糠",
+      "onboard_time": 1721560279,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 122983,
@@ -47033,6 +47161,14 @@
       "onboard_time": 1721209279,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119675,
+      "num": 122802,
+      "word": "袁娅维深V半透视黑裙",
+      "onboard_time": 1721560279,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 119647,
@@ -48595,6 +48731,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 112442,
+      "num": 112442,
+      "word": "快乐老友记2",
+      "onboard_time": 1721560337,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112355,
       "num": 112355,
       "word": "洞庭湖团洲垸决口封堵突破100米",
@@ -50049,6 +50193,14 @@
       "onboard_time": 1720329138,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105018,
+      "num": 105018,
+      "word": "Newjeans歌谣大战新闻图",
+      "onboard_time": 1721559978,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 104978,
@@ -54467,14 +54619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 62151,
-      "num": 431657,
-      "word": "老人为领鸡蛋听课后花两千买胶囊",
-      "onboard_time": 1721557757,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 62083,
       "num": 203335,
       "word": "小哥双腿绑沙袋送快递跑进奥运会",
@@ -55425,6 +55569,14 @@
       "onboard_time": 1720676358,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53904,
+      "num": 681268,
+      "word": "鼓励国外高水平理工类大学来华合作办学",
+      "onboard_time": 1721560518,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 53818,

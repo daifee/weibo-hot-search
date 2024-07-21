@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721558180643,
+  "endTime": 1721560573784,
   "band_list": [
     {
       "raw_hot": 2330012,
@@ -49,6 +49,14 @@
       "onboard_time": 1721539638,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1595603,
+      "num": 1595603,
+      "word": "串串房引发身体不适搬走后又租别人",
+      "onboard_time": 1721555298,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1540559,
@@ -153,14 +161,6 @@
       "onboard_time": 1721529499,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 964846,
-      "num": 964846,
-      "word": "串串房引发身体不适搬走后又租别人",
-      "onboard_time": 1721555298,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 942297,
@@ -315,12 +315,28 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 614812,
+      "num": 581093,
+      "word": "宋丹丹张新成演恋人",
+      "onboard_time": 1721555356,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 597910,
       "num": 597910,
       "word": "特朗普噘嘴求亲吻妻子的反应",
       "onboard_time": 1721482760,
       "rank": 4,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 589227,
+      "num": 589227,
+      "word": "退休阿姨5个好友4个骗子",
+      "onboard_time": 1721558478,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 580931,
@@ -355,12 +371,12 @@
       "category": "时尚,社会新闻"
     },
     {
-      "raw_hot": 563562,
-      "num": 229440,
-      "word": "宋丹丹张新成演恋人",
-      "onboard_time": 1721555356,
-      "rank": 20,
-      "category": "综艺"
+      "raw_hot": 548719,
+      "num": 548719,
+      "word": "女子漫展穿和服被保安拒绝入场",
+      "onboard_time": 1721555959,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 529682,
@@ -507,12 +523,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 426985,
+      "num": 383846,
+      "word": "按自愿弹性原则推进渐进式延迟退休改革",
+      "onboard_time": 1721557398,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 425262,
       "num": 281525,
       "word": "张大大下周公布谁谈恋爱了",
       "onboard_time": 1721546359,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 423415,
+      "num": 431657,
+      "word": "老人为领鸡蛋听课后花两千买胶囊",
+      "onboard_time": 1721557757,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 408319,
@@ -611,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337472,
+      "num": 337472,
+      "word": "专家称绝大多数超雄宝宝能正常生活",
+      "onboard_time": 1721555298,
+      "rank": 27,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 322477,
       "num": 322477,
       "word": "雅安暴雨山洪已致8人遇难",
@@ -641,14 +681,6 @@
       "onboard_time": 1721474418,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 308975,
-      "num": 308975,
-      "word": "女子漫展穿和服被保安拒绝入场",
-      "onboard_time": 1721555959,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 303628,
@@ -771,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251661,
+      "num": 251661,
+      "word": "英国偶遇邓超孙俪一家",
+      "onboard_time": 1721558958,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249134,
       "num": 249134,
       "word": "保洁大爷帮抓老鼠被咬商户只愿给800",
@@ -841,14 +881,6 @@
       "onboard_time": 1721542520,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 225855,
-      "num": 225855,
-      "word": "专家称绝大多数超雄宝宝能正常生活",
-      "onboard_time": 1721555298,
-      "rank": 27,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 223950,
@@ -929,14 +961,6 @@
       "onboard_time": 1721540478,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208560,
-      "num": 193669,
-      "word": "按自愿弹性原则推进渐进式延迟退休改革",
-      "onboard_time": 1721557398,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 207720,
@@ -1067,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198134,
+      "num": 198134,
+      "word": "周深又把戒指甩掉了",
+      "onboard_time": 1721560039,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 198100,
       "num": 255286,
       "word": "武警消防在陕西新发现3处失联车辆",
@@ -1137,6 +1169,14 @@
       "onboard_time": 1721555179,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193340,
+      "num": 193340,
+      "word": "刘宇宁睡前都看宇妮走天下",
+      "onboard_time": 1721560098,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 192975,
@@ -1251,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178517,
+      "num": 178517,
+      "word": "国乒进入奥运会乒乓球场馆训练",
+      "onboard_time": 1721558958,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177658,
       "num": 177658,
       "word": "李昊说相信我",
@@ -1297,6 +1345,14 @@
       "onboard_time": 1721525599,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174068,
+      "num": 164454,
+      "word": "网上的皮肤vs实际的皮肤",
+      "onboard_time": 1721559018,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 172821,
@@ -1363,6 +1419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164482,
+      "num": 164482,
+      "word": "孙一宁说流量对她来说是风险",
+      "onboard_time": 1721560098,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 163599,
       "num": 213936,
       "word": "张予曦获得你好歌手2024歌王",
@@ -1427,6 +1491,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 159169,
+      "num": 159169,
+      "word": "老两口常年吃剩菜先后确诊胃癌",
+      "onboard_time": 1721558597,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155509,
       "num": 155509,
       "word": "纪星韩廷回忆刀最伤人",
@@ -1457,6 +1529,14 @@
       "onboard_time": 1721556498,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152696,
+      "num": 152696,
+      "word": "小棉袄帮爸爸擦汗球友叔叔快碎了",
+      "onboard_time": 1721559680,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152022,
@@ -1523,6 +1603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145561,
+      "num": 145561,
+      "word": "Gr对战FPX.ZQ",
+      "onboard_time": 1721559437,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 145322,
       "num": 145322,
       "word": "我是玟小六的叶十七",
@@ -1585,6 +1673,14 @@
       "onboard_time": 1721553737,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 141490,
+      "num": 141490,
+      "word": "追星女和同龄人现状",
+      "onboard_time": 1721559138,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 141311,
@@ -1779,6 +1875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132303,
+      "num": 399998,
+      "word": "尔滨你真的一年四季都没有淡季",
+      "onboard_time": 1721559680,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 131192,
       "num": 131192,
       "word": "追星学到的第一课就是接受遗憾",
@@ -1835,6 +1939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125857,
+      "num": 125857,
+      "word": "三中全会决定的民生领域改革要点",
+      "onboard_time": 1721559978,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 125533,
       "num": 212519,
       "word": "鞠婧祎吃糖被审判",
@@ -1843,12 +1955,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124547,
+      "num": 384296,
+      "word": "我国将完善学生实习实践制度",
+      "onboard_time": 1721558297,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 123117,
       "num": 123117,
       "word": "云南一副局长涉嫌酒驾被查处",
       "onboard_time": 1721549599,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123087,
+      "num": 123087,
+      "word": "唐诡西行手指缝里品细糠",
+      "onboard_time": 1721560279,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 122936,
@@ -1879,6 +2007,14 @@
       "num": 120467,
       "word": "蔡徐坤Allblack",
       "onboard_time": 1721522118,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 119675,
+      "num": 122802,
+      "word": "袁娅维深V半透视黑裙",
+      "onboard_time": 1721560279,
       "rank": 43,
       "category": "作品衍生,时尚"
     },
@@ -1937,6 +2073,14 @@
       "onboard_time": 1721459238,
       "rank": 39,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 112442,
+      "num": 112442,
+      "word": "快乐老友记2",
+      "onboard_time": 1721560337,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 112022,
@@ -2001,6 +2145,14 @@
       "onboard_time": 1721519055,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105018,
+      "num": 105018,
+      "word": "Newjeans歌谣大战新闻图",
+      "onboard_time": 1721559978,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 102887,
@@ -2195,14 +2347,6 @@
       "category": "运动健身,美食"
     },
     {
-      "raw_hot": 62151,
-      "num": 431657,
-      "word": "老人为领鸡蛋听课后花两千买胶囊",
-      "onboard_time": 1721557757,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 60679,
       "num": 153959,
       "word": "大学生众筹千元救难产猫妈妈",
@@ -2249,6 +2393,14 @@
       "onboard_time": 1721477480,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 53904,
+      "num": 681268,
+      "word": "鼓励国外高水平理工类大学来华合作办学",
+      "onboard_time": 1721560518,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 53764,
