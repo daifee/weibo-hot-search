@@ -1,0 +1,410 @@
+{
+  "runTime": 1721571481214,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1997285,
+        "num": 1997285,
+        "word": "TFBOYS发文支持王源",
+        "onboard_time": 1721569221,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 715881,
+        "num": 715881,
+        "word": "悉尼一父亲救滚入轨道的婴儿车不幸死亡",
+        "onboard_time": 1721563879,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62821,
+        "num": 580333,
+        "word": "暴雨来袭不要这样做",
+        "onboard_time": 1721569461,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1066616,
+        "num": 569455,
+        "word": "做过近视眼手术的人嘴都这么严吗",
+        "onboard_time": 1721569461,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 447248,
+        "num": 447248,
+        "word": "三中全会决定60条",
+        "onboard_time": 1721551518,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 661402,
+        "num": 441861,
+        "word": "王源回重庆不回家住的原因",
+        "onboard_time": 1721568321,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 580143,
+        "num": 441787,
+        "word": "薛之谦压轴",
+        "onboard_time": 1721569281,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 560534,
+        "num": 439506,
+        "word": "花儿与少年直播",
+        "onboard_time": 1721568140,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 428196,
+        "num": 428196,
+        "word": "王楚钦早六晚十练了两年了",
+        "onboard_time": 1721567420,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216011,
+        "num": 425588,
+        "word": "陕西塌桥一落水者因打开车窗获救",
+        "onboard_time": 1721569821,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1767357,
+        "num": 422417,
+        "word": "延迟退休",
+        "onboard_time": 1721561058,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1249626,
+        "num": 415869,
+        "word": "黄子韬徐艺洋公开后秀恩爱",
+        "onboard_time": 1721568741,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 990719,
+        "num": 412995,
+        "word": "泰国队员想来中国队宿舍凉快",
+        "onboard_time": 1721565621,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 852648,
+        "num": 405384,
+        "word": "胎儿检出超雄孕妇完成终止妊娠手术",
+        "onboard_time": 1721562979,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557165,
+        "num": 400443,
+        "word": "时代峰峻声明",
+        "onboard_time": 1721567360,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 523785,
+        "num": 396612,
+        "word": "宋丹丹张新成演恋人",
+        "onboard_time": 1721555356,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394026,
+        "num": 394026,
+        "word": "预制菜已经发展到这个地步了",
+        "onboard_time": 1721562560,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 342813,
+        "num": 342813,
+        "word": "唐诡2仵作之死最惨的是谁",
+        "onboard_time": 1721564300,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250685,
+        "num": 250685,
+        "word": "美国15岁华裔女孩骑行途中离奇消失",
+        "onboard_time": 1721561778,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234847,
+        "num": 234847,
+        "word": "退休阿姨5个好友4个骗子",
+        "onboard_time": 1721558478,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463471,
+        "num": 234816,
+        "word": "男婴出生2天腿部青紫查出罕见病",
+        "onboard_time": 1721568321,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331376,
+        "num": 234121,
+        "word": "TF三代reaction直播",
+        "onboard_time": 1721555719,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382092,
+        "num": 233443,
+        "word": "王冰冰和她家的猫撞脸",
+        "onboard_time": 1721570122,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359706,
+        "num": 233271,
+        "word": "中医说三伏天得热着过",
+        "onboard_time": 1721564601,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 326163,
+        "num": 232668,
+        "word": "阳虚还是阴虚看出汗就能知道",
+        "onboard_time": 1721569461,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 322177,
+        "num": 232434,
+        "word": "张杰即将13次打卡鸟巢",
+        "onboard_time": 1721567598,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 263580,
+        "num": 231721,
+        "word": "怎么有反派30集才掉马的啊",
+        "onboard_time": 1721566700,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240081,
+        "num": 231315,
+        "word": "英雄联盟手游取消赵露思置顶",
+        "onboard_time": 1721549239,
+        "rank": 27,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 235977,
+        "num": 230839,
+        "word": "时代峰峻否认张真源贺峻霖恋情",
+        "onboard_time": 1721569520,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230602,
+        "num": 230602,
+        "word": "种地吧回应加人",
+        "onboard_time": 1721467338,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210726,
+        "num": 210726,
+        "word": "周深已老实",
+        "onboard_time": 1721568860,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202942,
+        "num": 202942,
+        "word": "花少6",
+        "onboard_time": 1721570541,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197547,
+        "num": 197547,
+        "word": "汪苏泷王心凌合唱大眠",
+        "onboard_time": 1721568020,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163572,
+        "num": 196329,
+        "word": "老两口常年吃剩菜先后确诊胃癌",
+        "onboard_time": 1721558597,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157347,
+        "num": 195821,
+        "word": "串串房引发身体不适搬走后又租别人",
+        "onboard_time": 1721555298,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195406,
+        "num": 195406,
+        "word": "ive新闻图",
+        "onboard_time": 1721565741,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193723,
+        "num": 193723,
+        "word": "王俊凯EZ反杀",
+        "onboard_time": 1721567780,
+        "rank": 36,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 186010,
+        "num": 186010,
+        "word": "蒲熠星JOJO私下关系",
+        "onboard_time": 1721570661,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155562,
+        "num": 155562,
+        "word": "乐山大佛脚下多人航道中游泳",
+        "onboard_time": 1721570602,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 155270,
+        "num": 155270,
+        "word": "开着空调在养生馆做艾灸三人中毒",
+        "onboard_time": 1721566340,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185434,
+        "num": 154617,
+        "word": "酱汁鑫鑫豆豆",
+        "onboard_time": 1721566040,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170968,
+        "num": 154418,
+        "word": "NMIXX滑倒",
+        "onboard_time": 1721567900,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153891,
+        "num": 153891,
+        "word": "孟佳腰臀比",
+        "onboard_time": 1721565139,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153095,
+        "num": 153095,
+        "word": "超雄综合征",
+        "onboard_time": 1721570361,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 153587,
+        "num": 153030,
+        "word": "Natty亲李泳知",
+        "onboard_time": 1721571201,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149727,
+        "num": 149727,
+        "word": "盗墓团伙要价1.8亿的文物被追回",
+        "onboard_time": 1721570842,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145865,
+        "num": 145865,
+        "word": "二十届三中全会决定全文公布",
+        "onboard_time": 1721567420,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 144504,
+        "num": 144504,
+        "word": "按自愿弹性原则推进渐进式延迟退休改革",
+        "onboard_time": 1721557398,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141414,
+        "num": 141414,
+        "word": "孙一宁说流量对她来说是风险",
+        "onboard_time": 1721560098,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 122890,
+        "num": 126857,
+        "word": "FPX战胜LNG",
+        "onboard_time": 1721568201,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#关于二十届三中全会决定的说明#"
+    }
+  }
+}
