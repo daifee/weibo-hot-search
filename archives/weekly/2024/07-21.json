@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721579123353,
+  "endTime": 1721580070072,
   "band_list": [
     {
       "raw_hot": 3697740,
@@ -49,6 +49,14 @@
       "onboard_time": 1721569221,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2077038,
+      "num": 250810,
+      "word": "人大教授王贵元 性骚扰",
+      "onboard_time": 1721578100,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2054955,
@@ -145,14 +153,6 @@
       "onboard_time": 1721524819,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1338959,
-      "num": 250810,
-      "word": "人大教授王贵元 性骚扰",
-      "onboard_time": 1721578100,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1337868,
@@ -603,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 522898,
+      "num": 371568,
+      "word": "为什么现在很少看到灾难片了",
+      "onboard_time": 1721576899,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 522420,
       "num": 522420,
       "word": "巴黎奥运会 空调",
@@ -785,14 +793,6 @@
       "onboard_time": 1721520736,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 405830,
-      "num": 268498,
-      "word": "为什么现在很少看到灾难片了",
-      "onboard_time": 1721576899,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 402339,
@@ -1731,6 +1731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194066,
+      "num": 194066,
+      "word": "熬过4个易发胖时刻变瘦就容易了",
+      "onboard_time": 1721577199,
+      "rank": 24,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 193981,
       "num": 193981,
       "word": "杨旭文说唐诡一部比一部压力大",
@@ -1793,14 +1801,6 @@
       "onboard_time": 1721525898,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 190709,
-      "num": 190709,
-      "word": "熬过4个易发胖时刻变瘦就容易了",
-      "onboard_time": 1721577199,
-      "rank": 24,
-      "category": "运动健身"
     },
     {
       "raw_hot": 189507,
@@ -2580,7 +2580,7 @@
     },
     {
       "raw_hot": 134445,
-      "num": 154716,
+      "num": 164294,
       "word": "为啥鸡的身体零件比整只鸡贵",
       "onboard_time": 1721575522,
       "rank": 48,
@@ -2819,6 +2819,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 114639,
+      "num": 164213,
+      "word": "宝马回应临时加价4S店才交车",
+      "onboard_time": 1721578879,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 113852,
       "num": 211659,
       "word": "演员李晟回怼网友",
@@ -2980,7 +2988,7 @@
     },
     {
       "raw_hot": 98805,
-      "num": 150495,
+      "num": 163426,
       "word": "周深TMEA压轴",
       "onboard_time": 1721576419,
       "rank": 45,
@@ -3025,6 +3033,14 @@
       "onboard_time": 1721484320,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 91289,
+      "num": 163722,
+      "word": "被奶奶的手机壳震惊到了",
+      "onboard_time": 1721579420,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 88661,
@@ -3075,12 +3091,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 82282,
-      "num": 150481,
-      "word": "宝马回应临时加价4S店才交车",
-      "onboard_time": 1721578879,
-      "rank": 48,
-      "category": "汽车"
+      "raw_hot": 78903,
+      "num": 252708,
+      "word": "内蒙05后人均一米八",
+      "onboard_time": 1721577441,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78589,
@@ -3331,14 +3347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 41581,
-      "num": 252708,
-      "word": "内蒙05后人均一米八",
-      "onboard_time": 1721577441,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 38976,
       "num": 46028,
       "word": "四川汉源山洪现场已搜救到4人",
@@ -3441,6 +3449,14 @@
       "onboard_time": 1721545999,
       "rank": 42,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 26867,
+      "num": 219232,
+      "word": "考上同一军校双胞胎收到录取通知书了",
+      "onboard_time": 1721579297,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 26373,
