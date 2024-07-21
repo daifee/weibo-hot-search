@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721587014278,
+  "endTime": 1721589301070,
   "band_list": [
     {
       "raw_hot": 3697740,
@@ -825,6 +825,14 @@
       "onboard_time": 1721520436,
       "rank": 14,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 402189,
+      "num": 402189,
+      "word": "拜登支持哈里斯竞选",
+      "onboard_time": 1721586613,
+      "rank": 26,
+      "category": "国外时政"
     },
     {
       "raw_hot": 400777,
@@ -3075,6 +3083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 89673,
+      "num": 59315,
+      "word": "特朗普称哈里斯更容易被击败",
+      "onboard_time": 1721589071,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 88661,
       "num": 934637,
       "word": "30秒速览巴黎奥运中国代表团阵容",
@@ -3169,6 +3185,14 @@
       "onboard_time": 1721567180,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74528,
+      "num": 34401,
+      "word": "特朗普回应拜登退选",
+      "onboard_time": 1721588592,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 73644,
@@ -3331,14 +3355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48848,
-      "num": 48848,
-      "word": "拜登支持哈里斯竞选",
-      "onboard_time": 1721586613,
-      "rank": 26,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 47458,
       "num": 91049,
       "word": "EDG夺冠",
@@ -3491,6 +3507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 31930,
+      "num": 34115,
+      "word": "长沙交警通报",
+      "onboard_time": 1721588292,
+      "rank": 34,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 31822,
       "num": 63760,
       "word": "周深年度最具影响力全能歌手",
@@ -3545,6 +3569,14 @@
       "onboard_time": 1721584992,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 25822,
+      "num": 34115,
+      "word": "中餐厅",
+      "onboard_time": 1721587933,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 23248,
@@ -3603,7 +3635,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18278,
+      "raw_hot": 19174,
       "num": 745755,
       "word": "打卡课本里的大美中国",
       "onboard_time": 1721568920,
