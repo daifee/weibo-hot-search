@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721593310669,
+  "endTime": 1721594088709,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -12659,6 +12659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 473497,
+      "num": 230277,
+      "word": "见证历史",
+      "onboard_time": 1721590632,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 473277,
       "num": 473277,
       "word": "杨幂月光白裙",
@@ -12897,14 +12905,6 @@
       "onboard_time": 1720524677,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 463839,
-      "num": 230277,
-      "word": "见证历史",
-      "onboard_time": 1721590632,
-      "rank": 3,
-      "category": "国外时政"
     },
     {
       "raw_hot": 463640,
@@ -15355,6 +15355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 408277,
+      "num": 408277,
+      "word": "特朗普回应拜登退选",
+      "onboard_time": 1721588592,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 407978,
       "num": 407978,
       "word": "长相思2人设最完美的人",
@@ -15377,14 +15385,6 @@
       "onboard_time": 1721475679,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 407492,
-      "num": 407492,
-      "word": "特朗普回应拜登退选",
-      "onboard_time": 1721588592,
-      "rank": 30,
-      "category": "国外时政"
     },
     {
       "raw_hot": 407244,
@@ -60723,6 +60723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20253,
+      "num": 26227,
+      "word": "你为什么不买优衣库了",
+      "onboard_time": 1721591531,
+      "rank": 42,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 20207,
       "num": 59588,
       "word": "宁大学生就科学躲避鸟粪写了一篇论文",
@@ -60907,12 +60915,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18771,
-      "num": 26227,
-      "word": "你为什么不买优衣库了",
-      "onboard_time": 1721591531,
-      "rank": 42,
-      "category": "时尚"
+      "raw_hot": 18736,
+      "num": 26226,
+      "word": "中国奥数竞赛五连冠被美国队终结",
+      "onboard_time": 1721592671,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 18632,
@@ -61209,14 +61217,6 @@
       "onboard_time": 1720124531,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 16093,
-      "num": 26226,
-      "word": "中国奥数竞赛五连冠被美国队终结",
-      "onboard_time": 1721592671,
-      "rank": 45,
-      "category": "教育"
     },
     {
       "raw_hot": 16039,
