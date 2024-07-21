@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721557186580,
+  "endTime": 1721558180643,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -3979,6 +3979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 964846,
+      "num": 964846,
+      "word": "串串房引发身体不适搬走后又租别人",
+      "onboard_time": 1721555298,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 962127,
       "num": 545003,
       "word": "爸妈给弟弟买了一万的电脑我退群了",
@@ -7180,7 +7188,7 @@
     },
     {
       "raw_hot": 681373,
-      "num": 459591,
+      "num": 641038,
       "word": "杨超越还好没退群",
       "onboard_time": 1721553318,
       "rank": 26,
@@ -9667,6 +9675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 563562,
+      "num": 229440,
+      "word": "宋丹丹张新成演恋人",
+      "onboard_time": 1721555356,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 563373,
       "num": 563373,
       "word": "多家银行调整个人账户非柜面交易限额",
@@ -10548,7 +10564,7 @@
     },
     {
       "raw_hot": 529682,
-      "num": 434230,
+      "num": 464601,
       "word": "SBS直播",
       "onboard_time": 1721556019,
       "rank": 7,
@@ -10713,14 +10729,6 @@
       "onboard_time": 1719883397,
       "rank": 22,
       "category": "数码"
-    },
-    {
-      "raw_hot": 523088,
-      "num": 229440,
-      "word": "宋丹丹张新成演恋人",
-      "onboard_time": 1721555356,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 522946,
@@ -11273,14 +11281,6 @@
       "onboard_time": 1719761659,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 503758,
-      "num": 503758,
-      "word": "串串房引发身体不适搬走后又租别人",
-      "onboard_time": 1721555298,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 503257,
@@ -13723,6 +13723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 439427,
+      "num": 439427,
+      "word": "minnie在宋雨琦肚子上比心",
+      "onboard_time": 1721554459,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 439147,
       "num": 303561,
       "word": "优酷升至行业第二",
@@ -14585,14 +14593,6 @@
       "onboard_time": 1721018182,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 419774,
-      "num": 312803,
-      "word": "minnie在宋雨琦肚子上比心",
-      "onboard_time": 1721554459,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 419486,
@@ -19451,6 +19451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 308975,
+      "num": 308975,
+      "word": "女子漫展穿和服被保安拒绝入场",
+      "onboard_time": 1721555959,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308942,
       "num": 308942,
       "word": "忆江南cp官宣",
@@ -19809,6 +19817,14 @@
       "onboard_time": 1720939822,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 300808,
+      "num": 371527,
+      "word": "志愿者体验无空调巴黎奥运村",
+      "onboard_time": 1721550079,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 300653,
@@ -25003,6 +25019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225855,
+      "num": 225855,
+      "word": "专家称绝大多数超雄宝宝能正常生活",
+      "onboard_time": 1721555298,
+      "rank": 27,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 225688,
       "num": 225688,
       "word": "上午说了辞职晚上就后悔了",
@@ -25889,6 +25913,14 @@
       "onboard_time": 1720176559,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216657,
+      "num": 216657,
+      "word": "SBS歌谣大战节目单",
+      "onboard_time": 1721557577,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 216643,
@@ -27057,6 +27089,14 @@
       "onboard_time": 1721463439,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208560,
+      "num": 193669,
+      "word": "按自愿弹性原则推进渐进式延迟退休改革",
+      "onboard_time": 1721557398,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 208528,
@@ -28619,6 +28659,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 201512,
+      "num": 201512,
+      "word": "左航舞台",
+      "onboard_time": 1721557218,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201447,
       "num": 201447,
       "word": "极限挑战10收官",
@@ -29515,6 +29563,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 197648,
+      "num": 197648,
+      "word": "华晨宇演唱会刷新场馆纪录",
+      "onboard_time": 1721557338,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 197621,
       "num": 197621,
       "word": "男子凌晨报警家里多出一个孩子",
@@ -29921,14 +29977,6 @@
       "onboard_time": 1719809900,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 195965,
-      "num": 195965,
-      "word": "专家称绝大多数超雄宝宝能正常生活",
-      "onboard_time": 1721555298,
-      "rank": 27,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 195960,
@@ -30857,14 +30905,6 @@
       "onboard_time": 1720317617,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 191755,
-      "num": 191755,
-      "word": "女子漫展穿和服被保安拒绝入场",
-      "onboard_time": 1721555959,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191754,
@@ -31921,6 +31961,14 @@
       "onboard_time": 1719966379,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187532,
+      "num": 187532,
+      "word": "登陆日",
+      "onboard_time": 1720261576,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 187529,
@@ -33233,14 +33281,6 @@
       "onboard_time": 1720508238,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180450,
-      "num": 176775,
-      "word": "登陆日",
-      "onboard_time": 1720261576,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 180428,
@@ -42195,6 +42235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138913,
+      "num": 965215,
+      "word": "我国探索逐步扩大免费教育范围",
+      "onboard_time": 1721556258,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 138871,
       "num": 138871,
       "word": "塞纳河水",
@@ -42569,6 +42617,14 @@
       "onboard_time": 1721300957,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137523,
+      "num": 137523,
+      "word": "海克斯狂欢夜",
+      "onboard_time": 1721557757,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 137514,
@@ -42993,6 +43049,14 @@
       "onboard_time": 1721038397,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 135882,
+      "num": 135882,
+      "word": "加快建立租购并举的住房制度",
+      "onboard_time": 1721557877,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 135878,
@@ -49347,14 +49411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 108632,
-      "num": 806934,
-      "word": "我国探索逐步扩大免费教育范围",
-      "onboard_time": 1721556258,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 108568,
       "num": 108568,
       "word": "杨紫工作室好皮",
@@ -53307,6 +53363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 73644,
+      "num": 262012,
+      "word": "流浪猫靠蹭腿撒娇入编消防队",
+      "onboard_time": 1721551640,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73500,
       "num": 73500,
       "word": "庾澄庆童年时期全家福",
@@ -54401,6 +54465,14 @@
       "onboard_time": 1720797859,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 62151,
+      "num": 431657,
+      "word": "老人为领鸡蛋听课后花两千买胶囊",
+      "onboard_time": 1721557757,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62083,
@@ -56577,14 +56649,6 @@
       "onboard_time": 1720106717,
       "rank": 9,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 44494,
-      "num": 262012,
-      "word": "流浪猫靠蹭腿撒娇入编消防队",
-      "onboard_time": 1721551640,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44433,
