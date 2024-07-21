@@ -1,0 +1,410 @@
+{
+  "runTime": 1721529495329,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1340479,
+        "num": 1340479,
+        "word": "杨倩回应无缘巴黎奥运",
+        "onboard_time": 1721524819,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 890632,
+        "num": 890632,
+        "word": "种地吧回应加人",
+        "onboard_time": 1721467338,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76468,
+        "num": 724121,
+        "word": "30秒速览巴黎奥运中国代表团阵容",
+        "onboard_time": 1721483239,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 715641,
+        "num": 715641,
+        "word": "于正说鞠婧祎档期排到明年4月了",
+        "onboard_time": 1721526198,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393805,
+        "num": 393805,
+        "word": "四川山洪村民睡眠中被卷走",
+        "onboard_time": 1721524400,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367682,
+        "num": 367682,
+        "word": "贪官将3千元赝品字画150万卖给商人",
+        "onboard_time": 1721523919,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669920,
+        "num": 364021,
+        "word": "13位少年倒了600000尾鱼苗",
+        "onboard_time": 1721527579,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 666317,
+        "num": 353607,
+        "word": "汪苏泷 退票",
+        "onboard_time": 1721487622,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 332848,
+        "num": 332848,
+        "word": "金价猛涨后又大跳水",
+        "onboard_time": 1721517794,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 33473,
+        "num": 332766,
+        "word": "司机称10个中就有2个在用作弊软件",
+        "onboard_time": 1721529018,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1525092,
+        "num": 332726,
+        "word": "家属称希望不要妖魔化超雄综合征",
+        "onboard_time": 1721518755,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1232634,
+        "num": 332619,
+        "word": "韩瑞希ins爆料",
+        "onboard_time": 1721525898,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47480,
+        "num": 332545,
+        "word": "鸿星尔克硬核国货局",
+        "onboard_time": 1721526618,
+        "rank": 12,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 520124,
+        "num": 332496,
+        "word": "司机高速发现后备箱人脸后报警",
+        "onboard_time": 1721527398,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436447,
+        "num": 332416,
+        "word": "白鹿销冠的底气",
+        "onboard_time": 1721527999,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 400463,
+        "num": 332249,
+        "word": "美国公布核弹头数量",
+        "onboard_time": 1721521577,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 332249,
+        "num": 332248,
+        "word": "长相思成了不被理解的痴男怨女",
+        "onboard_time": 1721519115,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317036,
+        "num": 317036,
+        "word": "郁可唯求观众删视频",
+        "onboard_time": 1721516654,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 308315,
+        "num": 308315,
+        "word": "初步确认垮塌高速桥坠桥43人信息",
+        "onboard_time": 1721486603,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284059,
+        "num": 284059,
+        "word": "雅安暴雨山洪已致8人遇难",
+        "onboard_time": 1721519175,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525436,
+        "num": 279034,
+        "word": "你还去买优衣库吗",
+        "onboard_time": 1721525776,
+        "rank": 20,
+        "category": "时尚,社会新闻"
+      },
+      {
+        "raw_hot": 408758,
+        "num": 268202,
+        "word": "贵州22岁女子退婚后遭男方入室杀害",
+        "onboard_time": 1721519714,
+        "rank": 21,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 381497,
+        "num": 256989,
+        "word": "体重达到这个数大脑可能提前衰老12年",
+        "onboard_time": 1721521158,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 243761,
+        "num": 243761,
+        "word": "宝格丽CEO感谢刘亦菲吴磊",
+        "onboard_time": 1721520436,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 234870,
+        "num": 234870,
+        "word": "男子轨交上猥亵女子被拘13日",
+        "onboard_time": 1721520316,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224606,
+        "num": 224606,
+        "word": "檀健次全黑",
+        "onboard_time": 1721520736,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201815,
+        "num": 201815,
+        "word": "阚清子曾投资餐厅失败",
+        "onboard_time": 1721527457,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201584,
+        "num": 201584,
+        "word": "健身房打扫卫生的大姨拿了健美冠军",
+        "onboard_time": 1721525718,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 194064,
+        "num": 194064,
+        "word": "硬卧39小时55分钟造一个舒适小窝",
+        "onboard_time": 1721498353,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188332,
+        "num": 188332,
+        "word": "汪苏泷演唱会退票事件观众回应",
+        "onboard_time": 1721524998,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 174028,
+        "num": 174028,
+        "word": "张峻豪说不敢面对观众",
+        "onboard_time": 1721521096,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173586,
+        "num": 173586,
+        "word": "三伏天别做这7件事",
+        "onboard_time": 1721522418,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 172678,
+        "num": 172678,
+        "word": "香港街头偶遇朴灿烈",
+        "onboard_time": 1721525898,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159826,
+        "num": 159826,
+        "word": "樊振东 顺利入住",
+        "onboard_time": 1721518515,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153409,
+        "num": 153409,
+        "word": "中国奥运首金得主谈金牌捐献国博",
+        "onboard_time": 1721528718,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140977,
+        "num": 140977,
+        "word": "巴黎奥运会设计已经是nextlevel了",
+        "onboard_time": 1721527398,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139119,
+        "num": 139119,
+        "word": "肿瘤标志物升高离癌症还有多远",
+        "onboard_time": 1721520616,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138218,
+        "num": 138218,
+        "word": "小米汽车回应更改小爱同学唤醒",
+        "onboard_time": 1721527279,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 133167,
+        "num": 133167,
+        "word": "虞书欣拍的黄晓明新中式",
+        "onboard_time": 1721519115,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114283,
+        "num": 114283,
+        "word": "李昊北京场",
+        "onboard_time": 1721520916,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113981,
+        "num": 113981,
+        "word": "巴黎奥运金牌赛事日历",
+        "onboard_time": 1721525599,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111563,
+        "num": 111563,
+        "word": "丁真吃泡面加冷水",
+        "onboard_time": 1721529319,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105921,
+        "num": 105921,
+        "word": "詹姆斯绝杀南苏丹男篮",
+        "onboard_time": 1721518095,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103633,
+        "num": 103633,
+        "word": "台风派比安生成",
+        "onboard_time": 1721529257,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102880,
+        "num": 102880,
+        "word": "微软850万台Windows设备蓝屏",
+        "onboard_time": 1721525239,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 101193,
+        "num": 101193,
+        "word": "史彭元曾见义勇为救落水男孩",
+        "onboard_time": 1721526739,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100217,
+        "num": 100217,
+        "word": "山东的桃子已经离谱到这种程度了吗",
+        "onboard_time": 1721496975,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 60679,
+        "num": 100056,
+        "word": "大学生众筹千元救难产猫妈妈",
+        "onboard_time": 1721525659,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99991,
+        "num": 99991,
+        "word": "贵州警方通报男子持刀杀害一女子",
+        "onboard_time": 1721523317,
+        "rank": 48,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 94546,
+        "num": 99828,
+        "word": "02年实习生爆改亚裔辣妹妆",
+        "onboard_time": 1721528479,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#切实保障人民群众生命财产安全#"
+    }
+  }
+}

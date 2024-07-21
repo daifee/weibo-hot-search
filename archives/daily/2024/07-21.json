@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721526645613,
+  "endTime": 1721529495329,
   "band_list": [
     {
       "raw_hot": 2330012,
@@ -28,19 +28,27 @@
     },
     {
       "raw_hot": 1447507,
-      "num": 609266,
+      "num": 890632,
       "word": "种地吧回应加人",
       "onboard_time": 1721467338,
       "rank": 3,
       "category": "综艺"
     },
     {
-      "raw_hot": 1145364,
-      "num": 471526,
+      "raw_hot": 1340479,
+      "num": 1340479,
       "word": "杨倩回应无缘巴黎奥运",
       "onboard_time": 1721524819,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1232634,
+      "num": 449071,
+      "word": "韩瑞希ins爆料",
+      "onboard_time": 1721525898,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 922901,
@@ -51,11 +59,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 723386,
-      "num": 449071,
-      "word": "韩瑞希ins爆料",
-      "onboard_time": 1721525898,
-      "rank": 12,
+      "raw_hot": 715641,
+      "num": 715641,
+      "word": "于正说鞠婧祎档期排到明年4月了",
+      "onboard_time": 1721526198,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -73,6 +81,14 @@
       "onboard_time": 1721521577,
       "rank": 10,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 669920,
+      "num": 364021,
+      "word": "13位少年倒了600000尾鱼苗",
+      "onboard_time": 1721527579,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 661995,
@@ -115,6 +131,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 525436,
+      "num": 279034,
+      "word": "你还去买优衣库吗",
+      "onboard_time": 1721525776,
+      "rank": 22,
+      "category": "时尚,社会新闻"
+    },
+    {
+      "raw_hot": 520124,
+      "num": 332496,
+      "word": "司机高速发现后备箱人脸后报警",
+      "onboard_time": 1721527398,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 516186,
       "num": 516186,
       "word": "郁可唯求观众删视频",
@@ -147,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 436447,
+      "num": 332416,
+      "word": "白鹿销冠的底气",
+      "onboard_time": 1721527999,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 408319,
       "num": 408319,
       "word": "檀健次全黑",
@@ -161,6 +201,14 @@
       "onboard_time": 1721520436,
       "rank": 14,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 393805,
+      "num": 393805,
+      "word": "四川山洪村民睡眠中被卷走",
+      "onboard_time": 1721524400,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 389855,
@@ -187,6 +235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 367682,
+      "num": 367682,
+      "word": "贪官将3千元赝品字画150万卖给商人",
+      "onboard_time": 1721523919,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 367320,
       "num": 277229,
       "word": "汪苏泷还原戚薇名场面",
@@ -201,14 +257,6 @@
       "onboard_time": 1721464159,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 330626,
-      "num": 330626,
-      "word": "于正说鞠婧祎档期排到明年4月了",
-      "onboard_time": 1721526198,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 310924,
@@ -235,20 +283,20 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 293668,
-      "num": 293668,
-      "word": "四川山洪村民睡眠中被卷走",
-      "onboard_time": 1721524400,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 285796,
       "num": 214971,
       "word": "发烫的手机一下就降温了",
       "onboard_time": 1721488881,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 284059,
+      "num": 284059,
+      "word": "雅安暴雨山洪已致8人遇难",
+      "onboard_time": 1721519175,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 268726,
@@ -265,22 +313,6 @@
       "onboard_time": 1721487742,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 260062,
-      "num": 260062,
-      "word": "贪官将3千元赝品字画150万卖给商人",
-      "onboard_time": 1721523919,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259331,
-      "num": 259331,
-      "word": "你还去买优衣库吗",
-      "onboard_time": 1721525776,
-      "rank": 22,
-      "category": "时尚,社会新闻"
     },
     {
       "raw_hot": 249134,
@@ -331,14 +363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214176,
-      "num": 214176,
-      "word": "雅安暴雨山洪已致8人遇难",
-      "onboard_time": 1721519175,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213063,
       "num": 214869,
       "word": "差点没认出这是吴京",
@@ -355,12 +379,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201815,
+      "num": 201815,
+      "word": "阚清子曾投资餐厅失败",
+      "onboard_time": 1721527457,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 201584,
+      "num": 490939,
+      "word": "健身房打扫卫生的大姨拿了健美冠军",
+      "onboard_time": 1721525718,
+      "rank": 9,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 198817,
       "num": 198817,
       "word": "微软850万台Windows设备蓝屏",
       "onboard_time": 1721525239,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 188332,
+      "num": 188332,
+      "word": "汪苏泷演唱会退票事件观众回应",
+      "onboard_time": 1721524998,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 185252,
@@ -409,6 +457,14 @@
       "onboard_time": 1721482159,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 172678,
+      "num": 172678,
+      "word": "香港街头偶遇朴灿烈",
+      "onboard_time": 1721525898,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 171365,
@@ -467,20 +523,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 157564,
-      "num": 490939,
-      "word": "健身房打扫卫生的大姨拿了健美冠军",
-      "onboard_time": 1721525718,
-      "rank": 9,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 157039,
-      "num": 157039,
-      "word": "香港街头偶遇朴灿烈",
-      "onboard_time": 1721525898,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 153409,
+      "num": 153409,
+      "word": "中国奥运首金得主谈金牌捐献国博",
+      "onboard_time": 1721528718,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 153305,
@@ -489,14 +537,6 @@
       "onboard_time": 1721518095,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152863,
-      "num": 152863,
-      "word": "汪苏泷演唱会退票事件观众回应",
-      "onboard_time": 1721524998,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 151235,
@@ -539,12 +579,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140977,
+      "num": 140977,
+      "word": "巴黎奥运会设计已经是nextlevel了",
+      "onboard_time": 1721527398,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140671,
       "num": 140671,
       "word": "王菲现身台北",
       "onboard_time": 1721519415,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138218,
+      "num": 138218,
+      "word": "小米汽车回应更改小爱同学唤醒",
+      "onboard_time": 1721527279,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 138027,
@@ -699,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111563,
+      "num": 111563,
+      "word": "丁真吃泡面加冷水",
+      "onboard_time": 1721529319,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110067,
       "num": 110067,
       "word": "周鸿祎谈为何微软蓝屏故障在中国少",
@@ -739,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103633,
+      "num": 103633,
+      "word": "台风派比安生成",
+      "onboard_time": 1721529257,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102887,
       "num": 102887,
       "word": "朱志鑫组二公小考第一",
@@ -755,6 +827,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 101193,
+      "num": 101193,
+      "word": "史彭元曾见义勇为救落水男孩",
+      "onboard_time": 1721526739,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 99349,
       "num": 211034,
       "word": "王家卫转发",
@@ -769,6 +849,14 @@
       "onboard_time": 1721482640,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 94546,
+      "num": 99828,
+      "word": "02年实习生爆改亚裔辣妹妆",
+      "onboard_time": 1721528479,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 93332,
@@ -788,7 +876,7 @@
     },
     {
       "raw_hot": 88661,
-      "num": 619046,
+      "num": 724121,
       "word": "30秒速览巴黎奥运中国代表团阵容",
       "onboard_time": 1721483239,
       "rank": 2,
@@ -835,6 +923,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 60679,
+      "num": 153959,
+      "word": "大学生众筹千元救难产猫妈妈",
+      "onboard_time": 1721525659,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57119,
       "num": 210083,
       "word": "韦世豪红牌",
@@ -868,7 +964,7 @@
     },
     {
       "raw_hot": 51051,
-      "num": 110980,
+      "num": 332545,
       "word": "鸿星尔克硬核国货局",
       "onboard_time": 1721526618,
       "rank": 49,
@@ -979,20 +1075,20 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 33473,
+      "num": 332766,
+      "word": "司机称10个中就有2个在用作弊软件",
+      "onboard_time": 1721529018,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30801,
       "num": 40805,
       "word": "巴黎奥运村主餐厅以前是工厂",
       "onboard_time": 1721501712,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 27689,
-      "num": 153959,
-      "word": "大学生众筹千元救难产猫妈妈",
-      "onboard_time": 1721525659,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26373,
