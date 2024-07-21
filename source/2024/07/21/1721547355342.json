@@ -1,0 +1,410 @@
+{
+  "runTime": 1721547355342,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1115375,
+        "num": 1178460,
+        "word": "花少6官宣阵容",
+        "onboard_time": 1721539638,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1024890,
+        "num": 1024890,
+        "word": "韩国第一夫人被传唤调查",
+        "onboard_time": 1721541439,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 23287,
+        "num": 823760,
+        "word": "中国奥运代表团加油壁纸",
+        "onboard_time": 1721522418,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 665389,
+        "num": 665389,
+        "word": "当事人回应胎儿被诊断超雄综合征",
+        "onboard_time": 1721544738,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 596422,
+        "num": 596422,
+        "word": "陈好 花少6大姐",
+        "onboard_time": 1721540298,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 547228,
+        "num": 547228,
+        "word": "国家发改委紧急下达3.5亿元",
+        "onboard_time": 1721539337,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 506521,
+        "num": 506521,
+        "word": "多地宝马4S店拒不交车",
+        "onboard_time": 1721533579,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470372,
+        "num": 470372,
+        "word": "单依纯给沈月化的烟熏妆",
+        "onboard_time": 1721543599,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 459612,
+        "num": 459612,
+        "word": "英雄联盟",
+        "onboard_time": 1721544319,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 38193,
+        "num": 458882,
+        "word": "男孩野泳脚被卡好心人下水解救",
+        "onboard_time": 1721546059,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 878478,
+        "num": 452043,
+        "word": "宋雨琦回应小肚子",
+        "onboard_time": 1721544558,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 772627,
+        "num": 448010,
+        "word": "加拿大女子曝光印度人海滩挖坑大便",
+        "onboard_time": 1721540898,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501242,
+        "num": 442417,
+        "word": "为特朗普治疗耳朵的医生发声",
+        "onboard_time": 1721538077,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 440308,
+        "num": 440308,
+        "word": "女子被离婚七年的前夫暴力殴打",
+        "onboard_time": 1721538077,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401221,
+        "num": 401221,
+        "word": "爱豆和嫂子的日常belike",
+        "onboard_time": 1721545519,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 374511,
+        "num": 374511,
+        "word": "于正说小龙女先找的Angelababy",
+        "onboard_time": 1721534298,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 373932,
+        "num": 373932,
+        "word": "杨迪恭喜张予曦总冠军",
+        "onboard_time": 1721529499,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364637,
+        "num": 364637,
+        "word": "孕妇空袭遇难腹中婴儿被救出",
+        "onboard_time": 1721530518,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 310855,
+        "num": 310855,
+        "word": "种地吧回应加人",
+        "onboard_time": 1721467338,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286179,
+        "num": 286179,
+        "word": "家属称希望不要妖魔化超雄综合征",
+        "onboard_time": 1721518755,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66988,
+        "num": 262387,
+        "word": "绝区零朱鸢",
+        "onboard_time": 1721545339,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 463026,
+        "num": 262307,
+        "word": "洞洞鞋三宗罪",
+        "onboard_time": 1721540000,
+        "rank": 21,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 262205,
+        "num": 262205,
+        "word": "张大大下周公布谁谈恋爱了",
+        "onboard_time": 1721546359,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249873,
+        "num": 249873,
+        "word": "一次性内裤真的能穿吗",
+        "onboard_time": 1721535978,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 249237,
+        "num": 249237,
+        "word": "蓝色监狱 顶级帅哥体育生",
+        "onboard_time": 1721534420,
+        "rank": 24,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 231484,
+        "num": 231484,
+        "word": "陕西柞水部分坠河车辆位置确定",
+        "onboard_time": 1721539939,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223163,
+        "num": 223163,
+        "word": "女子称花7元多买到加了色素的贡菜",
+        "onboard_time": 1721546297,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210465,
+        "num": 210465,
+        "word": "韦世豪道歉",
+        "onboard_time": 1721542879,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197914,
+        "num": 197914,
+        "word": "相柳第一次落泪",
+        "onboard_time": 1721546659,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192110,
+        "num": 192110,
+        "word": "王俊凯庆典彩排图",
+        "onboard_time": 1721547018,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191705,
+        "num": 191705,
+        "word": "张钧甯怕找不到男演员搭戏",
+        "onboard_time": 1721547078,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191660,
+        "num": 191660,
+        "word": "韩瑞希ins爆料",
+        "onboard_time": 1721525898,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182303,
+        "num": 182303,
+        "word": "山东文科考生们太不容易了",
+        "onboard_time": 1721545278,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 180487,
+        "num": 180487,
+        "word": "浙江高考分数线",
+        "onboard_time": 1721544440,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 176772,
+        "num": 176772,
+        "word": "孙颖莎进入奥运村就只有乒乓球",
+        "onboard_time": 1721541201,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176148,
+        "num": 176148,
+        "word": "是女刘烨不是男刘烨",
+        "onboard_time": 1721545158,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168726,
+        "num": 168726,
+        "word": "SBS歌谣大战",
+        "onboard_time": 1721543779,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161931,
+        "num": 161931,
+        "word": "Uzi频繁请假",
+        "onboard_time": 1721542520,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161903,
+        "num": 161903,
+        "word": "13位少年倒了600000尾鱼苗",
+        "onboard_time": 1721527579,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155792,
+        "num": 155792,
+        "word": "TMEA音乐节",
+        "onboard_time": 1721544978,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150653,
+        "num": 150653,
+        "word": "香港中环偶遇徐冬冬尹子维",
+        "onboard_time": 1721544920,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146231,
+        "num": 146231,
+        "word": "司机称10个中就有2个在用作弊软件",
+        "onboard_time": 1721529018,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140902,
+        "num": 140902,
+        "word": "杨旭文中戏正武生",
+        "onboard_time": 1721543417,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138995,
+        "num": 138995,
+        "word": "周雨彤侯明昊售后来了",
+        "onboard_time": 1721540420,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137921,
+        "num": 137921,
+        "word": "被胖东来爆改步步高门店工资涨80%",
+        "onboard_time": 1721540478,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131970,
+        "num": 131970,
+        "word": "aespa新加坡签售",
+        "onboard_time": 1721545757,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126223,
+        "num": 126223,
+        "word": "马伊琍演技",
+        "onboard_time": 1721547198,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121172,
+        "num": 121172,
+        "word": "县城文学是怎么火爆全网的",
+        "onboard_time": 1721539219,
+        "rank": 47,
+        "category": "社会新闻,社会议题"
+      },
+      {
+        "raw_hot": 119376,
+        "num": 119376,
+        "word": "众人皆知相柳爱意",
+        "onboard_time": 1721547319,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115082,
+        "num": 115082,
+        "word": "于正说鞠婧祎档期排到明年4月了",
+        "onboard_time": 1721526198,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#切实保障人民群众生命财产安全#"
+    }
+  }
+}
