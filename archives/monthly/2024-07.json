@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721604965551,
+  "endTime": 1721611567870,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -9,6 +9,14 @@
       "onboard_time": 1721347639,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11907933,
+      "num": 11907933,
+      "word": "中国人民大学声明",
+      "onboard_time": 1721609841,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11328266,
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 3359570,
-      "num": 360872,
+      "num": 378061,
       "word": "五一广场车祸",
       "onboard_time": 1721572161,
       "rank": 19,
@@ -2745,6 +2753,14 @@
       "onboard_time": 1719893360,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1181385,
+      "num": 1181385,
+      "word": "哈里斯发声称赞拜登",
+      "onboard_time": 1721606420,
+      "rank": 3,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1180122,
@@ -7939,6 +7955,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 649724,
+      "num": 649724,
+      "word": "泫雅表演时台下无人应援",
+      "onboard_time": 1721604677,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 649118,
       "num": 649118,
       "word": "西班牙vs法国",
@@ -8457,6 +8481,14 @@
       "onboard_time": 1721098817,
       "rank": 26,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 623559,
+      "num": 623559,
+      "word": "拜登退选前大量烧钱",
+      "onboard_time": 1721608581,
+      "rank": 5,
+      "category": "国外时政"
     },
     {
       "raw_hot": 623236,
@@ -10299,6 +10331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 550001,
+      "num": 376969,
+      "word": "王迪",
+      "onboard_time": 1721606358,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 549259,
       "num": 323447,
       "word": "自助餐为什么不受欢迎了",
@@ -11955,6 +11995,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 494134,
+      "num": 375659,
+      "word": "克林顿和希拉里表态支持哈里斯",
+      "onboard_time": 1721606420,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 494088,
       "num": 1652342,
       "word": "12部国产动画加入暑期档",
@@ -12185,6 +12233,14 @@
       "onboard_time": 1720740975,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 488158,
+      "num": 345734,
+      "word": "给老公带了35天中饭瘦了20斤",
+      "onboard_time": 1721605639,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 488019,
@@ -13081,6 +13137,14 @@
       "onboard_time": 1720946122,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 460262,
+      "num": 372029,
+      "word": "特朗普称哈里斯更容易被击败",
+      "onboard_time": 1721589071,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 460127,
@@ -15067,14 +15131,6 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 415385,
-      "num": 296730,
-      "word": "特朗普称哈里斯更容易被击败",
-      "onboard_time": 1721589071,
-      "rank": 13,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 415127,
       "num": 415127,
       "word": "伊朗总统大选结果揭晓",
@@ -15449,6 +15505,14 @@
       "onboard_time": 1720626677,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 406511,
+      "num": 366642,
+      "word": "外媒称奥巴马没支持哈里斯",
+      "onboard_time": 1721610321,
+      "rank": 16,
+      "category": "国外时政"
     },
     {
       "raw_hot": 406374,
@@ -16539,6 +16603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 379379,
+      "num": 379379,
+      "word": "1年期5年期LPR均下调10个基点",
+      "onboard_time": 1721611160,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 379314,
       "num": 315977,
       "word": "电影默杀",
@@ -16817,6 +16889,14 @@
       "onboard_time": 1721019860,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 374550,
+      "num": 374550,
+      "word": "金泰亨因发麦当劳被抵制",
+      "onboard_time": 1721609120,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 374480,
@@ -17571,6 +17651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 354733,
+      "num": 354733,
+      "word": "女子用凤仙花染头发视觉效果炸裂",
+      "onboard_time": 1721610861,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 354716,
       "num": 354716,
       "word": "上海徐汇气温目前全国最高",
@@ -17673,6 +17761,14 @@
       "onboard_time": 1720100239,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 353258,
+      "num": 353258,
+      "word": "虞书欣和她的七个小i人",
+      "onboard_time": 1721606240,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 353215,
@@ -19243,6 +19339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 321912,
+      "num": 321912,
+      "word": "LPR",
+      "onboard_time": 1721611160,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 321728,
       "num": 321728,
       "word": "枪响后特朗普与安保贴身对话公开",
@@ -19937,6 +20041,14 @@
       "onboard_time": 1721285899,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 308251,
+      "num": 308251,
+      "word": "全红婵哥哥姐姐来京送妹妹出征巴黎",
+      "onboard_time": 1721605458,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 308219,
@@ -21459,6 +21571,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 280941,
+      "num": 280941,
+      "word": "别剪短发你会后悔的",
+      "onboard_time": 1721608942,
+      "rank": 24,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 280924,
       "num": 280924,
       "word": "罐车卸完煤制油直接装运食用油",
@@ -21585,6 +21705,14 @@
       "onboard_time": 1720584440,
       "rank": 33,
       "category": "健康医疗,美食"
+    },
+    {
+      "raw_hot": 278593,
+      "num": 278593,
+      "word": "BLACKPINK将明年回归",
+      "onboard_time": 1721605039,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 278510,
@@ -21907,6 +22035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 273878,
+      "num": 273878,
+      "word": "YG真急了",
+      "onboard_time": 1721610200,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 273803,
       "num": 391967,
       "word": "女警一声大喊救险被货车碾压的骑车人",
@@ -22193,6 +22329,14 @@
       "onboard_time": 1719966379,
       "rank": 24,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 267201,
+      "num": 267201,
+      "word": "台风",
+      "onboard_time": 1721457620,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267137,
@@ -22827,6 +22971,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 256789,
+      "num": 256789,
+      "word": "抓娃娃片尾鸣谢沈腾马丽家属",
+      "onboard_time": 1721610981,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 256764,
       "num": 271225,
       "word": "为什么新疆的店名有点奇怪",
@@ -23145,6 +23297,14 @@
       "onboard_time": 1721477718,
       "rank": 36,
       "category": "财经,时尚"
+    },
+    {
+      "raw_hot": 252993,
+      "num": 252993,
+      "word": "2NE1确定重组",
+      "onboard_time": 1721603536,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 252840,
@@ -23945,6 +24105,14 @@
       "onboard_time": 1720049476,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 242742,
+      "num": 242742,
+      "word": "成都暴雨",
+      "onboard_time": 1721609061,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242614,
@@ -27195,14 +27363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211312,
-      "num": 211312,
-      "word": "台风",
-      "onboard_time": 1721457620,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211221,
       "num": 211221,
       "word": "陕西暴雨",
@@ -29907,6 +30067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198748,
+      "num": 198748,
+      "word": "aespa到上海了",
+      "onboard_time": 1721607379,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 198730,
       "num": 198730,
       "word": "歌手2024突围赛",
@@ -31115,14 +31283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193848,
-      "num": 193848,
-      "word": "2NE1确定重组",
-      "onboard_time": 1721603536,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 193827,
       "num": 193827,
       "word": "TES战胜LGD",
@@ -31593,6 +31753,14 @@
       "onboard_time": 1720587378,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191790,
+      "num": 191790,
+      "word": "华晨宇说不要再说我写的歌很难了",
+      "onboard_time": 1721604437,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 191765,
@@ -32163,6 +32331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 189587,
+      "num": 189587,
+      "word": "郑晓龙流潋紫二搭",
+      "onboard_time": 1721606060,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189569,
       "num": 185691,
       "word": "源氏木语家具被曝买了4个月仍有甲醛",
@@ -32729,6 +32905,14 @@
       "onboard_time": 1720620499,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 187178,
+      "num": 187178,
+      "word": "杨议怼德云社",
+      "onboard_time": 1721611341,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 187169,
@@ -33811,6 +33995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181261,
+      "num": 181261,
+      "word": "我爷爷总把微信当作写信的软件",
+      "onboard_time": 1721610442,
+      "rank": 42,
+      "category": "情感,互联网"
+    },
+    {
       "raw_hot": 181259,
       "num": 181259,
       "word": "王源歌迷主题房是懂宠粉的",
@@ -34643,6 +34835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 177313,
+      "num": 177313,
+      "word": "中菲就管控仁爱礁局势达成临时性安排",
+      "onboard_time": 1721609180,
+      "rank": 43,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 177276,
       "num": 177276,
       "word": "好久没见过这么干净的特效了",
@@ -34827,6 +35027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 176085,
+      "num": 176085,
+      "word": "陈震 韩路",
+      "onboard_time": 1721607560,
+      "rank": 44,
+      "category": "数码,网红"
+    },
+    {
       "raw_hot": 176078,
       "num": 176078,
       "word": "爷爷把我几年前的水宝宝天天照顾着",
@@ -34881,6 +35089,14 @@
       "onboard_time": 1721190261,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175812,
+      "num": 175812,
+      "word": "佩洛西不愿哈里斯自动接替拜登",
+      "onboard_time": 1721605639,
+      "rank": 45,
+      "category": "国外时政"
     },
     {
       "raw_hot": 175796,
@@ -39179,6 +39395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155680,
+      "num": 155680,
+      "word": "巴黎奥运哪些金牌赛不用熬夜看",
+      "onboard_time": 1721606960,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155660,
       "num": 155660,
       "word": "九尾跨界去当歌手了",
@@ -39459,6 +39683,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 154739,
+      "num": 154739,
+      "word": "长沙警方通报五一广场车祸",
+      "onboard_time": 1721606900,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154712,
       "num": 154712,
       "word": "以军撤离后加沙一地发现60多具遗体",
@@ -39585,6 +39817,14 @@
       "onboard_time": 1720336339,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154073,
+      "num": 154073,
+      "word": "7天期逆回购操作利率调整为1.70%",
+      "onboard_time": 1721610321,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 154025,
@@ -43065,14 +43305,6 @@
       "onboard_time": 1720694298,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139195,
-      "num": 139195,
-      "word": "泫雅表演时台下无人应援",
-      "onboard_time": 1721604677,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 139190,
@@ -50219,6 +50451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 109720,
+      "num": 379146,
+      "word": "2名护士为救晕倒乘客错过火车",
+      "onboard_time": 1721609900,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 109707,
       "num": 109707,
       "word": "孙亚龙开团LPL教练",
@@ -53611,6 +53851,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 83761,
+      "num": 1902883,
+      "word": "打卡课本里的大美中国",
+      "onboard_time": 1721568920,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83600,
       "num": 574283,
       "word": "乘坐无人驾驶出租车是什么样的体验",
@@ -53921,14 +54169,6 @@
       "onboard_time": 1720851918,
       "rank": 29,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 79630,
-      "num": 79630,
-      "word": "华晨宇说不要再说我写的歌很难了",
-      "onboard_time": 1721604437,
-      "rank": 38,
-      "category": "音乐"
     },
     {
       "raw_hot": 79594,
@@ -54961,14 +55201,6 @@
       "onboard_time": 1720367057,
       "rank": 48,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 68226,
-      "num": 745755,
-      "word": "打卡课本里的大美中国",
-      "onboard_time": 1721568920,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 68202,

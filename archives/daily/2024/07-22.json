@@ -1,7 +1,15 @@
 {
   "startTime": 1721579123353,
-  "endTime": 1721604965551,
+  "endTime": 1721611567870,
   "band_list": [
+    {
+      "raw_hot": 11907933,
+      "num": 11907933,
+      "word": "中国人民大学声明",
+      "onboard_time": 1721609841,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 7346864,
       "num": 7346864,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1953437,
-      "num": 310605,
+      "num": 378061,
       "word": "五一广场车祸",
       "onboard_time": 1721572161,
       "rank": 10,
@@ -48,6 +56,14 @@
       "word": "拜登",
       "onboard_time": 1721585593,
       "rank": 0,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 1181385,
+      "num": 1181385,
+      "word": "哈里斯发声称赞拜登",
+      "onboard_time": 1721606420,
+      "rank": 3,
       "category": "国外时政"
     },
     {
@@ -91,12 +107,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 649724,
+      "num": 649724,
+      "word": "泫雅表演时台下无人应援",
+      "onboard_time": 1721604677,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 627611,
       "num": 627611,
       "word": "为什么现在很少看到灾难片了",
       "onboard_time": 1721576899,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 623559,
+      "num": 623559,
+      "word": "拜登退选前大量烧钱",
+      "onboard_time": 1721608581,
+      "rank": 5,
+      "category": "国外时政"
     },
     {
       "raw_hot": 615761,
@@ -113,6 +145,14 @@
       "onboard_time": 1721561058,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 550001,
+      "num": 376969,
+      "word": "王迪",
+      "onboard_time": 1721606358,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 528944,
@@ -139,12 +179,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 494134,
+      "num": 375659,
+      "word": "克林顿和希拉里表态支持哈里斯",
+      "onboard_time": 1721606420,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 488158,
+      "num": 345734,
+      "word": "给老公带了35天中饭瘦了20斤",
+      "onboard_time": 1721605639,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 480833,
       "num": 480833,
       "word": "男子称给霸王茶姬差评后被找上门",
       "onboard_time": 1721581396,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 460262,
+      "num": 372029,
+      "word": "特朗普称哈里斯更容易被击败",
+      "onboard_time": 1721589071,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 449173,
@@ -155,20 +219,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 415385,
-      "num": 296730,
-      "word": "特朗普称哈里斯更容易被击败",
-      "onboard_time": 1721589071,
-      "rank": 13,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 413459,
       "num": 243574,
       "word": "吃饭偶遇张婧仪做服务员",
       "onboard_time": 1721573844,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 406511,
+      "num": 366642,
+      "word": "外媒称奥巴马没支持哈里斯",
+      "onboard_time": 1721610321,
+      "rank": 16,
+      "category": "国外时政"
     },
     {
       "raw_hot": 399376,
@@ -179,12 +243,76 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 379379,
+      "num": 379379,
+      "word": "1年期5年期LPR均下调10个基点",
+      "onboard_time": 1721611160,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 374550,
+      "num": 374550,
+      "word": "金泰亨因发麦当劳被抵制",
+      "onboard_time": 1721609120,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 354733,
+      "num": 354733,
+      "word": "女子用凤仙花染头发视觉效果炸裂",
+      "onboard_time": 1721610861,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353258,
+      "num": 353258,
+      "word": "虞书欣和她的七个小i人",
+      "onboard_time": 1721606240,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 323164,
       "num": 266357,
       "word": "高会",
       "onboard_time": 1721572942,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 321912,
+      "num": 321912,
+      "word": "LPR",
+      "onboard_time": 1721611160,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 308251,
+      "num": 308251,
+      "word": "全红婵哥哥姐姐来京送妹妹出征巴黎",
+      "onboard_time": 1721605458,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 280941,
+      "num": 280941,
+      "word": "别剪短发你会后悔的",
+      "onboard_time": 1721608942,
+      "rank": 24,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 278593,
+      "num": 278593,
+      "word": "BLACKPINK将明年回归",
+      "onboard_time": 1721605039,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 275719,
@@ -195,11 +323,51 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273878,
+      "num": 273878,
+      "word": "YG真急了",
+      "onboard_time": 1721610200,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 267201,
+      "num": 267201,
+      "word": "台风",
+      "onboard_time": 1721605519,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256789,
+      "num": 256789,
+      "word": "抓娃娃片尾鸣谢沈腾马丽家属",
+      "onboard_time": 1721610981,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 254053,
       "num": 254053,
       "word": "陕西桥梁垮塌事故已致15人遇难",
       "onboard_time": 1721572222,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252993,
+      "num": 252993,
+      "word": "2NE1确定重组",
+      "onboard_time": 1721603536,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 242742,
+      "num": 242742,
+      "word": "成都暴雨",
+      "onboard_time": 1721609061,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -243,6 +411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198748,
+      "num": 198748,
+      "word": "aespa到上海了",
+      "onboard_time": 1721607379,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 197846,
       "num": 197846,
       "word": "相柳小夭见的最后一面",
@@ -267,12 +443,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 193848,
-      "num": 193848,
-      "word": "2NE1确定重组",
-      "onboard_time": 1721603536,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 191790,
+      "num": 191790,
+      "word": "华晨宇说不要再说我写的歌很难了",
+      "onboard_time": 1721604437,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 191096,
@@ -283,10 +459,34 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189587,
+      "num": 189587,
+      "word": "郑晓龙流潋紫二搭",
+      "onboard_time": 1721606060,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 187178,
+      "num": 187178,
+      "word": "杨议怼德云社",
+      "onboard_time": 1721611341,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183586,
       "num": 166388,
       "word": "被奶奶的手机壳震惊到了",
       "onboard_time": 1721579420,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 182912,
+      "num": 182912,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1721606960,
       "rank": 41,
       "category": "情感"
     },
@@ -297,6 +497,38 @@
       "onboard_time": 1721562560,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 181261,
+      "num": 181261,
+      "word": "我爷爷总把微信当作写信的软件",
+      "onboard_time": 1721610442,
+      "rank": 42,
+      "category": "情感,互联网"
+    },
+    {
+      "raw_hot": 177313,
+      "num": 177313,
+      "word": "中菲就管控仁爱礁局势达成临时性安排",
+      "onboard_time": 1721609180,
+      "rank": 43,
+      "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 176085,
+      "num": 176085,
+      "word": "陈震 韩路",
+      "onboard_time": 1721607560,
+      "rank": 44,
+      "category": "数码,网红"
+    },
+    {
+      "raw_hot": 175812,
+      "num": 175812,
+      "word": "佩洛西不愿哈里斯自动接替拜登",
+      "onboard_time": 1721605639,
+      "rank": 45,
+      "category": "国外时政"
     },
     {
       "raw_hot": 174328,
@@ -347,6 +579,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155680,
+      "num": 155680,
+      "word": "巴黎奥运哪些金牌赛不用熬夜看",
+      "onboard_time": 1721606960,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 154739,
+      "num": 154739,
+      "word": "长沙警方通报五一广场车祸",
+      "onboard_time": 1721606900,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154073,
+      "num": 154073,
+      "word": "7天期逆回购操作利率调整为1.70%",
+      "onboard_time": 1721610321,
+      "rank": 49,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 152828,
       "num": 164276,
       "word": "薛之谦压轴",
@@ -369,14 +625,6 @@
       "onboard_time": 1721603415,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139195,
-      "num": 139195,
-      "word": "泫雅表演时台下无人应援",
-      "onboard_time": 1721604677,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 132616,
@@ -483,6 +731,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 109720,
+      "num": 379146,
+      "word": "2名护士为救晕倒乘客错过火车",
+      "onboard_time": 1721609900,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 104929,
       "num": 163561,
       "word": "陈丽君凤求凰好英气",
@@ -539,6 +795,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 83761,
+      "num": 1902883,
+      "word": "打卡课本里的大美中国",
+      "onboard_time": 1721568920,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82309,
       "num": 150485,
       "word": "宋丹丹张新成演恋人",
@@ -553,14 +817,6 @@
       "onboard_time": 1721568140,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 79630,
-      "num": 79630,
-      "word": "华晨宇说不要再说我写的歌很难了",
-      "onboard_time": 1721604437,
-      "rank": 38,
-      "category": "音乐"
     },
     {
       "raw_hot": 78903,
@@ -585,14 +841,6 @@
       "onboard_time": 1721592671,
       "rank": 45,
       "category": "教育"
-    },
-    {
-      "raw_hot": 68226,
-      "num": 745755,
-      "word": "打卡课本里的大美中国",
-      "onboard_time": 1721568920,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 65180,

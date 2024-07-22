@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/07/22 07:36:05
+本榜单时间：2024/01/01 00:21:05 ~ 2024/07/22 09:26:07
 </p>
 </blockquote>
 <p>
@@ -143,6 +143,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B2%B3%E4%BA%91%E9%B9%8F%E5%98%B4%E7%93%A2%23" target="weibo">
 岳云鹏嘴瓢（热度：12106728）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%A6%E5%A3%B0%E6%98%8E%23" target="weibo">
+中国人民大学声明（热度：11907933）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ SM承认柳智敏恋情（热度：4051630）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B3%A2%E5%87%BA%E8%BD%A8%E9%A3%8E%E6%B3%A2%23" target="weibo">
 杨波出轨风波（热度：3421471）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23" target="weibo">
-高考作文 人工智能（热度：3412141）
 </a>
 </li>
 

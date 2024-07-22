@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1721604965551,
+  "endTime": 1721611567870,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -177,6 +177,14 @@
       "onboard_time": 1707481486,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 11907933,
+      "num": 11907933,
+      "word": "中国人民大学声明",
+      "onboard_time": 1721609841,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11692231,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1706852254,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3412141,
-      "num": 3412141,
-      "word": "高考作文 人工智能",
-      "onboard_time": 1717731506,
-      "rank": 1,
-      "category": "教育"
     }
   ],
   "hotgov_list": [
