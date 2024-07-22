@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721672776512,
+  "endTime": 1721673569389,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -5651,6 +5651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105114,
+      "num": 105114,
+      "word": "拜登退选至少有两重原因",
+      "onboard_time": 1721668215,
+      "rank": 38,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 105018,
       "num": 105018,
       "word": "Newjeans歌谣大战新闻图",
@@ -5793,14 +5801,6 @@
       "onboard_time": 1721571861,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 86602,
-      "num": 86602,
-      "word": "拜登退选至少有两重原因",
-      "onboard_time": 1721668215,
-      "rank": 38,
-      "category": "国外时政"
     },
     {
       "raw_hot": 86050,
@@ -6275,6 +6275,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 40390,
+      "num": 41556,
+      "word": "咒术回战 要不还是别画了",
+      "onboard_time": 1721672353,
+      "rank": 44,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 39202,
       "num": 70484,
       "word": "优衣库和中国消费者都说对方变了",
@@ -6387,14 +6395,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 33214,
-      "num": 41556,
-      "word": "咒术回战 要不还是别画了",
-      "onboard_time": 1721672353,
-      "rank": 44,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 31899,
       "num": 41467,
       "word": "汪苏泷我想念一周年",
@@ -6481,6 +6481,14 @@
       "onboard_time": 1721579297,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 26762,
+      "num": 36012,
+      "word": "拜登退选后的可能继任者",
+      "onboard_time": 1721673251,
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 26373,
@@ -6593,6 +6601,14 @@
       "onboard_time": 1721584752,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 17923,
+      "num": 48690,
+      "word": "高铁乘客突发疾病河南医生紧急施救",
+      "onboard_time": 1721673493,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16952,
