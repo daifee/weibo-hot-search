@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721657968101,
+  "endTime": 1721659005606,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3099466,
+      "num": 1015495,
+      "word": "人大女博士回应举报导师处理结果",
+      "onboard_time": 1721657124,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2914975,
       "num": 359595,
       "word": "中国人民大学",
@@ -123,20 +131,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2216689,
-      "num": 1015495,
-      "word": "人大女博士回应举报导师处理结果",
-      "onboard_time": 1721657124,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 2183586,
       "num": 2183586,
       "word": "TFBOYS发文支持王源",
       "onboard_time": 1721569221,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2177918,
+      "num": 566105,
+      "word": "种地吧成员支持蒋敦豪",
+      "onboard_time": 1721658264,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 2133352,
@@ -315,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1378589,
+      "num": 538494,
+      "word": "北京警方通报导师被学生举报情况",
+      "onboard_time": 1721658745,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1348425,
       "num": 1348425,
       "word": "拜登",
@@ -393,6 +409,14 @@
       "onboard_time": 1721549239,
       "rank": 7,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 1213679,
+      "num": 543902,
+      "word": "老年男明星 性侵女服务员",
+      "onboard_time": 1721658207,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1198827,
@@ -1161,6 +1185,14 @@
       "onboard_time": 1721624902,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 533711,
+      "num": 533711,
+      "word": "鹭卓 我们的心一定会一直在一起",
+      "onboard_time": 1721658144,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 529682,
@@ -2059,6 +2091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 311943,
+      "num": 311943,
+      "word": "肖战陈情令人物曲上线五周年",
+      "onboard_time": 1721657905,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 310924,
       "num": 274387,
       "word": "医生说24岁的我舌头放错位置了",
@@ -2113,6 +2153,14 @@
       "onboard_time": 1721605458,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 307262,
+      "num": 266397,
+      "word": "女子称因学历低被判去高危妊娠门诊",
+      "onboard_time": 1721658264,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 307079,
@@ -2915,6 +2963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215002,
+      "num": 215002,
+      "word": "张杰帮唱凡希亚",
+      "onboard_time": 1721658505,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214313,
       "num": 214313,
       "word": "勤天柱超话",
@@ -2937,6 +2993,14 @@
       "onboard_time": 1721486301,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212986,
+      "num": 212986,
+      "word": "杨紫用四种语气说是我错了",
+      "onboard_time": 1721658505,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 212497,
@@ -3763,6 +3827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 186161,
+      "num": 186161,
+      "word": "善于把人生调成这三种模式",
+      "onboard_time": 1721658444,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 185793,
       "num": 185793,
       "word": "花花的每个动作都是甜蜜暴击",
@@ -4267,6 +4339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 165412,
+      "num": 165412,
+      "word": "BBA退出价格战涨了多少",
+      "onboard_time": 1721658565,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 164910,
       "num": 164910,
       "word": "吴佳怡 怼人赛道",
@@ -4313,6 +4393,14 @@
       "onboard_time": 1721645784,
       "rank": 46,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 161866,
+      "num": 552966,
+      "word": "人民网评人大清理害群之马",
+      "onboard_time": 1721658324,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161492,
@@ -4384,6 +4472,14 @@
       "word": "律师谈人大女博士举报导师性骚扰",
       "onboard_time": 1721653761,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157580,
+      "num": 625259,
+      "word": "洁癖严重到无法出门是种什么感觉",
+      "onboard_time": 1721656824,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -4713,14 +4809,6 @@
       "onboard_time": 1721548759,
       "rank": 40,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 143056,
-      "num": 143056,
-      "word": "肖战陈情令人物曲上线五周年",
-      "onboard_time": 1721657905,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 142893,
@@ -5691,11 +5779,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 64033,
-      "num": 625259,
-      "word": "洁癖严重到无法出门是种什么感觉",
-      "onboard_time": 1721656824,
-      "rank": 9,
+      "raw_hot": 63762,
+      "num": 1065058,
+      "word": "万千气象看青海",
+      "onboard_time": 1721651491,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -5753,14 +5841,6 @@
       "onboard_time": 1721534898,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 57400,
-      "num": 1065058,
-      "word": "万千气象看青海",
-      "onboard_time": 1721651491,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 57119,
