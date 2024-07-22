@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721686732548,
+  "endTime": 1721687742901,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -26963,6 +26963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226323,
+      "num": 347998,
+      "word": "从严从快处理师德失范行为",
+      "onboard_time": 1721664619,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226294,
       "num": 214254,
       "word": "王源代言美年达",
@@ -34537,14 +34545,6 @@
       "onboard_time": 1721544440,
       "rank": 35,
       "category": "教育"
-    },
-    {
-      "raw_hot": 187792,
-      "num": 347998,
-      "word": "从严从快处理师德失范行为",
-      "onboard_time": 1721664619,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187741,
@@ -49443,6 +49443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123750,
+      "num": 123750,
+      "word": "拜登退选至少有两重原因",
+      "onboard_time": 1721668215,
+      "rank": 38,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 123727,
       "num": 123727,
       "word": "黄晓明晒照回复虞书欣",
@@ -49529,14 +49537,6 @@
       "onboard_time": 1721126058,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 123305,
-      "num": 105114,
-      "word": "拜登退选至少有两重原因",
-      "onboard_time": 1721668215,
-      "rank": 38,
-      "category": "国外时政"
     },
     {
       "raw_hot": 123277,
@@ -58299,6 +58299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61103,
+      "num": 76535,
+      "word": "一句警察叔叔我好饿小孩哥成功蹭到了",
+      "onboard_time": 1721669773,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61033,
       "num": 91541,
       "word": "2024LPL",
@@ -59049,6 +59057,14 @@
       "onboard_time": 1720545615,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 55183,
+      "num": 70475,
+      "word": "宗馥莉已接手父亲名下多家公司",
+      "onboard_time": 1721658083,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55179,
@@ -60387,14 +60403,6 @@
       "category": "社会新闻,读书作家"
     },
     {
-      "raw_hot": 44702,
-      "num": 70475,
-      "word": "宗馥莉已接手父亲名下多家公司",
-      "onboard_time": 1721658083,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 44689,
       "num": 40929,
       "word": "58岁华裔阿姨征战巴黎奥运会",
@@ -60465,14 +60473,6 @@
       "onboard_time": 1720890736,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 43888,
-      "num": 76535,
-      "word": "一句警察叔叔我好饿小孩哥成功蹭到了",
-      "onboard_time": 1721669773,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43876,
@@ -61675,6 +61675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34980,
+      "num": 38519,
+      "word": "胡先煦曾参加过封神试镜",
+      "onboard_time": 1721679011,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 34969,
       "num": 63775,
       "word": "祝福香港祝福祖国",
@@ -61835,6 +61843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 33084,
+      "num": 38483,
+      "word": "四川眉山千人共吃超大火锅",
+      "onboard_time": 1721681230,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 33070,
       "num": 314805,
       "word": "板凳球员保送上名校背后",
@@ -61932,19 +61948,11 @@
     },
     {
       "raw_hot": 32478,
-      "num": 71675,
+      "num": 92335,
       "word": "拜登退选后的可能继任者",
       "onboard_time": 1721673251,
       "rank": 48,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 32274,
-      "num": 32274,
-      "word": "胡先煦曾参加过封神试镜",
-      "onboard_time": 1721679011,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 32121,
@@ -62105,6 +62113,14 @@
       "onboard_time": 1719977357,
       "rank": 38,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 30851,
+      "num": 38478,
+      "word": "唐朝诡事录意难平",
+      "onboard_time": 1721687052,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 30801,
@@ -62275,6 +62291,14 @@
       "category": "社会新闻,社会正能量"
     },
     {
+      "raw_hot": 29739,
+      "num": 38475,
+      "word": "郑州局部暴雨超100毫米",
+      "onboard_time": 1721680151,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29738,
       "num": 29738,
       "word": "Red女团首专OrientalRed",
@@ -62361,14 +62385,6 @@
       "onboard_time": 1721325372,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 28930,
-      "num": 28930,
-      "word": "四川眉山千人共吃超大火锅",
-      "onboard_time": 1721681230,
-      "rank": 40,
-      "category": "美食"
     },
     {
       "raw_hot": 28922,
@@ -62563,14 +62579,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 27575,
-      "num": 28928,
-      "word": "郑州局部暴雨超100毫米",
-      "onboard_time": 1721680151,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 27544,
       "num": 27544,
       "word": "登陆计划 规则怪谈",
@@ -62641,6 +62649,14 @@
       "onboard_time": 1720531637,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27067,
+      "num": 38465,
+      "word": "用山东方言说唱呼叫山东舰",
+      "onboard_time": 1721674512,
+      "rank": 44,
+      "category": "军事"
     },
     {
       "raw_hot": 27024,
@@ -63051,14 +63067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25134,
-      "num": 28916,
-      "word": "用山东方言说唱呼叫山东舰",
-      "onboard_time": 1721674512,
-      "rank": 44,
-      "category": "军事"
-    },
-    {
       "raw_hot": 25104,
       "num": 134297,
       "word": "快手可灵AI迎来最强更新",
@@ -63249,6 +63257,14 @@
       "onboard_time": 1719844879,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23370,
+      "num": 38442,
+      "word": "巴黎奥运吉祥物会按奖牌颜色颁发",
+      "onboard_time": 1721676012,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 23351,
@@ -63537,14 +63553,6 @@
       "onboard_time": 1721325192,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 20894,
-      "num": 28908,
-      "word": "巴黎奥运吉祥物会按奖牌颜色颁发",
-      "onboard_time": 1721676012,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 20852,
