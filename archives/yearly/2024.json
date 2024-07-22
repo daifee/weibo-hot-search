@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1721647043340,
+  "endTime": 1721648086248,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -185,6 +185,14 @@
       "onboard_time": 1707481486,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 11964554,
+      "num": 13214554,
+      "word": "人大通报王某某性骚扰",
+      "onboard_time": 1721647102,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11732343,
@@ -1556,7 +1564,7 @@
     },
     {
       "raw_hot": 4636082,
-      "num": 406275,
+      "num": 892817,
       "word": "退休时间",
       "onboard_time": 1721641343,
       "rank": 11,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1711246398,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 3426448,
-      "num": 3426448,
-      "word": "朝鲜向韩国西部海域发射200多发海岸炮",
-      "onboard_time": 1704437310,
-      "rank": 0,
-      "category": "国外时政"
     }
   ],
   "hotgov_list": [
