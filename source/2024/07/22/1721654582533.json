@@ -1,0 +1,410 @@
+{
+  "runTime": 1721654582533,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10319414,
+        "num": 10319414,
+        "word": "人大通报王某某性骚扰",
+        "onboard_time": 1721647102,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1459709,
+        "num": 1459709,
+        "word": "蒋敦豪发长文回应",
+        "onboard_time": 1721654242,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52565,
+        "num": 1198906,
+        "word": "神十八乘组太空出差能有多充实",
+        "onboard_time": 1721653282,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1053540,
+        "num": 1053540,
+        "word": "相柳战死",
+        "onboard_time": 1721647523,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 839211,
+        "num": 839211,
+        "word": "宗馥莉决定继续在娃哈哈履职",
+        "onboard_time": 1721653462,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 790417,
+        "num": 790417,
+        "word": "人大王某某被解聘",
+        "onboard_time": 1721647282,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 823779,
+        "num": 747985,
+        "word": "秦岚 我不会和前任做朋友",
+        "onboard_time": 1721646202,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 700593,
+        "num": 700593,
+        "word": "郑州暴雨",
+        "onboard_time": 1721646260,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 682118,
+        "num": 682118,
+        "word": "金智媛化妆师秒删ins",
+        "onboard_time": 1721649683,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49597,
+        "num": 653277,
+        "word": "羽毛球涨价人工合成球卖断货",
+        "onboard_time": 1721653221,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1530840,
+        "num": 652957,
+        "word": "90后男女都65岁以后退休系网民推估",
+        "onboard_time": 1721650223,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1077922,
+        "num": 652620,
+        "word": "退休时间",
+        "onboard_time": 1721641343,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652141,
+        "num": 652141,
+        "word": "奶茶30元时代已成过去",
+        "onboard_time": 1721640983,
+        "rank": 12,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 624591,
+        "num": 624591,
+        "word": "中国人民大学声明",
+        "onboard_time": 1721609841,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545161,
+        "num": 545161,
+        "word": "宁艺卓说第一次在中国签售",
+        "onboard_time": 1721651003,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 374754,
+        "num": 374754,
+        "word": "空空日记",
+        "onboard_time": 1721638343,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 384813,
+        "num": 374644,
+        "word": "人大王某某被开除党籍",
+        "onboard_time": 1721647703,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374484,
+        "num": 374484,
+        "word": "男子猥亵被拘13天父亲向受害者求情",
+        "onboard_time": 1721649983,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370187,
+        "num": 370187,
+        "word": "婚礼上被喷酒新娘霸气眼神杀",
+        "onboard_time": 1721648423,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359877,
+        "num": 359877,
+        "word": "想贾玲了",
+        "onboard_time": 1721648544,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 460381,
+        "num": 344689,
+        "word": "游泳时千万别穿白色泳衣",
+        "onboard_time": 1721649623,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 327823,
+        "num": 327823,
+        "word": "两个i人生了个e人",
+        "onboard_time": 1721650761,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 324738,
+        "num": 324738,
+        "word": "一个月没洗的床单有多脏",
+        "onboard_time": 1721635581,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 274007,
+        "num": 274007,
+        "word": "清华教授解读自愿弹性延迟退休原则",
+        "onboard_time": 1721651422,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268015,
+        "num": 268015,
+        "word": "原来慈禧太后的卧室长这样",
+        "onboard_time": 1721651963,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 263620,
+        "num": 263620,
+        "word": "李昊人生只有一个9862",
+        "onboard_time": 1721649562,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 241903,
+        "num": 241903,
+        "word": "詹姆斯成美国首位男篮旗手",
+        "onboard_time": 1721649503,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230643,
+        "num": 230643,
+        "word": "月亮",
+        "onboard_time": 1721653462,
+        "rank": 27,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 230640,
+        "num": 230640,
+        "word": "女子折叠凳掉福宝场地被终身禁入",
+        "onboard_time": 1721652321,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223332,
+        "num": 223332,
+        "word": "张杰 歌手总决赛",
+        "onboard_time": 1721633720,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214407,
+        "num": 214407,
+        "word": "90后男女65岁退休发文自媒体未经认证",
+        "onboard_time": 1721651722,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210678,
+        "num": 210678,
+        "word": "娃哈哈",
+        "onboard_time": 1721654362,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210405,
+        "num": 210405,
+        "word": "宗馥莉",
+        "onboard_time": 1721654121,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201003,
+        "num": 201003,
+        "word": "中方决定取消对美国卫讯公司的反制措施",
+        "onboard_time": 1721646142,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 190960,
+        "num": 190960,
+        "word": "空空日记掉粉超100万",
+        "onboard_time": 1721644400,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 187673,
+        "num": 187673,
+        "word": "路过以为张若昀是哪个爱豆",
+        "onboard_time": 1721648124,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185043,
+        "num": 185043,
+        "word": "小夭玱玹爱就爱到铭心刻骨",
+        "onboard_time": 1721653641,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182941,
+        "num": 182941,
+        "word": "查重率没超3%却被检测出AI代写",
+        "onboard_time": 1721635881,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182578,
+        "num": 182578,
+        "word": "人大",
+        "onboard_time": 1721648063,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180748,
+        "num": 180748,
+        "word": "唐诡西行版酒店惊魂",
+        "onboard_time": 1721652982,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164436,
+        "num": 164436,
+        "word": "相柳是笑着死的",
+        "onboard_time": 1721649683,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161636,
+        "num": 161636,
+        "word": "长相思2",
+        "onboard_time": 1721643442,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163675,
+        "num": 158611,
+        "word": "相柳此生只亏欠了他自己",
+        "onboard_time": 1721652623,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153485,
+        "num": 153485,
+        "word": "苏醒求职大大方方的",
+        "onboard_time": 1721650582,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151620,
+        "num": 151620,
+        "word": "宝马i3将回涨7万",
+        "onboard_time": 1721649983,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 144565,
+        "num": 144565,
+        "word": "巴黎奥运会志愿者回应伙食",
+        "onboard_time": 1721654482,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140693,
+        "num": 140693,
+        "word": "律师谈人大女博士举报导师性骚扰",
+        "onboard_time": 1721653761,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137456,
+        "num": 137456,
+        "word": "孙颖莎背包上挂了个马里奥",
+        "onboard_time": 1721653881,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135771,
+        "num": 135771,
+        "word": "相柳大战前夜送走毛球",
+        "onboard_time": 1721649083,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135762,
+        "num": 135762,
+        "word": "张凌赫宋威龙同款choker",
+        "onboard_time": 1721651603,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#一图速读三中全会决定60条#"
+    }
+  }
+}

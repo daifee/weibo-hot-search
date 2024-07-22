@@ -1,6 +1,6 @@
 {
   "startTime": 1721579123353,
-  "endTime": 1721652805910,
+  "endTime": 1721654582533,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -153,6 +153,22 @@
       "onboard_time": 1721640983,
       "rank": 43,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 1530840,
+      "num": 808099,
+      "word": "90后男女都65岁以后退休系网民推估",
+      "onboard_time": 1721650223,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1459709,
+      "num": 1459709,
+      "word": "蒋敦豪发长文回应",
+      "onboard_time": 1721654242,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1444891,
@@ -339,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 839211,
+      "num": 839211,
+      "word": "宗馥莉决定继续在娃哈哈履职",
+      "onboard_time": 1721653462,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 822958,
       "num": 822958,
       "word": "媒体评人大女博士举报导师性骚扰",
@@ -360,14 +384,6 @@
       "word": "查重率没超3%却被检测出AI代写",
       "onboard_time": 1721635881,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 808099,
-      "num": 808099,
-      "word": "90后男女都65岁以后退休系网民推估",
-      "onboard_time": 1721650223,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -451,8 +467,8 @@
       "category": "财经,网红"
     },
     {
-      "raw_hot": 677849,
-      "num": 677849,
+      "raw_hot": 682118,
+      "num": 682118,
       "word": "金智媛化妆师秒删ins",
       "onboard_time": 1721649683,
       "rank": 7,
@@ -771,6 +787,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 460381,
+      "num": 395850,
+      "word": "游泳时千万别穿白色泳衣",
+      "onboard_time": 1721649623,
+      "rank": 21,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 460262,
       "num": 372029,
       "word": "特朗普称哈里斯更容易被击败",
@@ -931,14 +955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 395850,
-      "num": 395850,
-      "word": "游泳时千万别穿白色泳衣",
-      "onboard_time": 1721649623,
-      "rank": 21,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 389457,
       "num": 323200,
       "word": "我爷爷总把微信当作写信的软件",
@@ -947,12 +963,28 @@
       "category": "情感,互联网"
     },
     {
+      "raw_hot": 374484,
+      "num": 374484,
+      "word": "男子猥亵被拘13天父亲向受害者求情",
+      "onboard_time": 1721649983,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 371733,
       "num": 371733,
       "word": "密逃初代粉碎了",
       "onboard_time": 1721638162,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 370187,
+      "num": 370187,
+      "word": "婚礼上被喷酒新娘霸气眼神杀",
+      "onboard_time": 1721648423,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 369786,
@@ -1067,28 +1099,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 327610,
-      "num": 327610,
-      "word": "男子猥亵被拘13天父亲向受害者求情",
-      "onboard_time": 1721649983,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 323164,
       "num": 266357,
       "word": "高会",
       "onboard_time": 1721572942,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 322295,
-      "num": 322295,
-      "word": "婚礼上被喷酒新娘霸气眼神杀",
-      "onboard_time": 1721648423,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 322072,
@@ -1235,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274007,
+      "num": 543102,
+      "word": "清华教授解读自愿弹性延迟退休原则",
+      "onboard_time": 1721651422,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272845,
       "num": 272845,
       "word": "东方甄选敬文离职",
@@ -1257,6 +1281,14 @@
       "onboard_time": 1721617820,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 268015,
+      "num": 268015,
+      "word": "原来慈禧太后的卧室长这样",
+      "onboard_time": 1721651963,
+      "rank": 37,
+      "category": "科学科普"
     },
     {
       "raw_hot": 267201,
@@ -1451,6 +1483,22 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 230643,
+      "num": 230643,
+      "word": "月亮",
+      "onboard_time": 1721653462,
+      "rank": 27,
+      "category": "自然"
+    },
+    {
+      "raw_hot": 230640,
+      "num": 230640,
+      "word": "女子折叠凳掉福宝场地被终身禁入",
+      "onboard_time": 1721652321,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228423,
       "num": 228423,
       "word": "饿了么免单",
@@ -1584,6 +1632,22 @@
       "word": "人大教授王贵元",
       "onboard_time": 1721604378,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210678,
+      "num": 210678,
+      "word": "娃哈哈",
+      "onboard_time": 1721654362,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210405,
+      "num": 210405,
+      "word": "宗馥莉",
+      "onboard_time": 1721654121,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -1923,14 +1987,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 188137,
-      "num": 188137,
-      "word": "原来慈禧太后的卧室长这样",
-      "onboard_time": 1721651963,
-      "rank": 37,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 187170,
       "num": 473178,
       "word": "哈里斯称将尽一切努力击败特朗普",
@@ -1961,6 +2017,14 @@
       "onboard_time": 1721636541,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 185043,
+      "num": 185043,
+      "word": "小夭玱玹爱就爱到铭心刻骨",
+      "onboard_time": 1721653641,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 184422,
@@ -2017,6 +2081,14 @@
       "onboard_time": 1721562560,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 180748,
+      "num": 180748,
+      "word": "唐诡西行版酒店惊魂",
+      "onboard_time": 1721652982,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 177904,
@@ -2259,14 +2331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 159347,
-      "num": 159347,
-      "word": "女子折叠凳掉福宝场地被终身禁入",
-      "onboard_time": 1721652321,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158880,
       "num": 158880,
       "word": "拜登家人谈其退选原因",
@@ -2419,6 +2483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144565,
+      "num": 144565,
+      "word": "巴黎奥运会志愿者回应伙食",
+      "onboard_time": 1721654482,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143616,
       "num": 143616,
       "word": "徐明浩国内综艺再跳SEVENTEEN的歌",
@@ -2441,6 +2513,22 @@
       "onboard_time": 1721632641,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 140693,
+      "num": 140693,
+      "word": "律师谈人大女博士举报导师性骚扰",
+      "onboard_time": 1721653761,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137456,
+      "num": 137456,
+      "word": "孙颖莎背包上挂了个马里奥",
+      "onboard_time": 1721653881,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 136359,
@@ -2561,14 +2649,6 @@
       "onboard_time": 1721604256,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 111266,
-      "num": 543102,
-      "word": "清华教授解读自愿弹性延迟退休原则",
-      "onboard_time": 1721651422,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111170,
@@ -2771,6 +2851,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 52565,
+      "num": 1198906,
+      "word": "神十八乘组太空出差能有多充实",
+      "onboard_time": 1721653282,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51241,
       "num": 371053,
       "word": "鸿星尔克与国货们的暖心联动",
@@ -2809,6 +2897,14 @@
       "onboard_time": 1721586673,
       "rank": 29,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 49597,
+      "num": 653277,
+      "word": "羽毛球涨价人工合成球卖断货",
+      "onboard_time": 1721653221,
+      "rank": 9,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 43319,
