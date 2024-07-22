@@ -1,6 +1,6 @@
 {
   "startTime": 1721579123353,
-  "endTime": 1721625634636,
+  "endTime": 1721626652205,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -17,6 +17,14 @@
       "onboard_time": 1721585473,
       "rank": 1,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 2451773,
+      "num": 2451773,
+      "word": "那个叫招弟的女孩决定改名",
+      "onboard_time": 1721623642,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2091293,
@@ -67,12 +75,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1772672,
-      "num": 1772672,
-      "word": "那个叫招弟的女孩决定改名",
-      "onboard_time": 1721623642,
-      "rank": 1,
-      "category": "社会新闻"
+      "raw_hot": 1641355,
+      "num": 540242,
+      "word": "王楚然素颜被审判",
+      "onboard_time": 1721624362,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1444891,
@@ -89,14 +97,6 @@
       "onboard_time": 1721585593,
       "rank": 0,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1247818,
-      "num": 540242,
-      "word": "王楚然素颜被审判",
-      "onboard_time": 1721624362,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1184100,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 916175,
-      "num": 358588,
+      "num": 370632,
       "word": "为什么空调一关立刻就变热了",
       "onboard_time": 1721614220,
       "rank": 20,
@@ -203,8 +203,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 671905,
-      "num": 671905,
+      "raw_hot": 685912,
+      "num": 685912,
       "word": "张雪峰公司经营异常",
       "onboard_time": 1721623462,
       "rank": 5,
@@ -267,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 580041,
+      "num": 580041,
+      "word": "王菲演唱会",
+      "onboard_time": 1721624541,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 564306,
       "num": 449693,
       "word": "赵丽颖轻妆进组",
@@ -307,6 +315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 541174,
+      "num": 541174,
+      "word": "唐尚珺投档到华南师范大学",
+      "onboard_time": 1721624902,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 528944,
       "num": 528944,
       "word": "张元英踩到安宥真的裙子",
@@ -331,20 +347,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 520650,
-      "num": 520650,
-      "word": "王菲演唱会",
-      "onboard_time": 1721624541,
-      "rank": 15,
-      "category": "演出"
-    },
-    {
       "raw_hot": 514495,
       "num": 514495,
       "word": "杨志刚演技",
       "onboard_time": 1721614220,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 504152,
+      "num": 462647,
+      "word": "罗志祥杭州线下见面会",
+      "onboard_time": 1721625621,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 496255,
@@ -507,20 +523,20 @@
       "category": "情感,互联网"
     },
     {
+      "raw_hot": 377811,
+      "num": 377811,
+      "word": "乌合麒麟还原中国百年体育史",
+      "onboard_time": 1721624422,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 369786,
       "num": 369786,
       "word": "马斯克换头像庆祝拜登退选",
       "onboard_time": 1721614281,
       "rank": 14,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 360995,
-      "num": 360995,
-      "word": "唐尚珺投档到华南师范大学",
-      "onboard_time": 1721624902,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 353258,
@@ -619,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272845,
+      "num": 272845,
+      "word": "东方甄选敬文离职",
+      "onboard_time": 1721625140,
+      "rank": 29,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 271860,
       "num": 271860,
       "word": "唐诡西行第二案硬核推理",
@@ -627,20 +651,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 268883,
-      "num": 268883,
-      "word": "东方甄选敬文离职",
-      "onboard_time": 1721625140,
-      "rank": 29,
-      "category": "财经,互联网"
-    },
-    {
       "raw_hot": 267201,
       "num": 267201,
       "word": "台风",
       "onboard_time": 1721605519,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266004,
+      "num": 266004,
+      "word": "美国会迎来历史上首位女总统吗",
+      "onboard_time": 1721624603,
+      "rank": 41,
+      "category": "国外时政"
     },
     {
       "raw_hot": 263909,
@@ -659,20 +683,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 258714,
-      "num": 258714,
-      "word": "乌合麒麟还原中国百年体育史",
-      "onboard_time": 1721624422,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 257402,
       "num": 257402,
       "word": "A股",
       "onboard_time": 1721614640,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 255991,
+      "num": 255991,
+      "word": "留学花30万回国后起薪仅5500元",
+      "onboard_time": 1721623043,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254053,
@@ -697,14 +721,6 @@
       "onboard_time": 1721603536,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 252127,
-      "num": 252127,
-      "word": "留学花30万回国后起薪仅5500元",
-      "onboard_time": 1721623043,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 242742,
@@ -779,6 +795,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 217487,
+      "num": 544747,
+      "word": "寻医广播一响一群浙大医学生冲了上去",
+      "onboard_time": 1721625140,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 216895,
       "num": 216895,
       "word": "长沙",
@@ -787,12 +811,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214318,
-      "num": 214318,
-      "word": "美国会迎来历史上首位女总统吗",
-      "onboard_time": 1721624603,
-      "rank": 41,
-      "category": "国外时政"
+      "raw_hot": 216023,
+      "num": 216023,
+      "word": "有这么凄惨的女主进入内娱",
+      "onboard_time": 1721625322,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 212336,
@@ -824,14 +848,6 @@
       "word": "檀健次复刻相柳经典台词",
       "onboard_time": 1721622741,
       "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 205720,
-      "num": 205720,
-      "word": "有这么凄惨的女主进入内娱",
-      "onboard_time": 1721625322,
-      "rank": 42,
       "category": "剧集"
     },
     {
@@ -907,6 +923,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 194042,
+      "num": 194042,
+      "word": "金莎孙丞潇又上综艺秀恩爱",
+      "onboard_time": 1721626460,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192067,
       "num": 192067,
       "word": "鹿晗夏夜vlog",
@@ -977,6 +1001,14 @@
       "onboard_time": 1721617461,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 185076,
+      "num": 185076,
+      "word": "全红婵说没睡觉就来训练了",
+      "onboard_time": 1721626221,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 183586,
@@ -1051,6 +1083,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 174468,
+      "num": 174468,
+      "word": "航海王官方入驻微博",
+      "onboard_time": 1721625680,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 174328,
       "num": 174328,
       "word": "泰国队员想来中国队宿舍凉快",
@@ -1073,6 +1113,14 @@
       "onboard_time": 1721616380,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173076,
+      "num": 173076,
+      "word": "相柳闭上眼也让我痛得死去活来",
+      "onboard_time": 1721626520,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 172487,
@@ -1211,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150329,
+      "num": 529026,
+      "word": "自贡火灾中消防门被锁多人砸门未果",
+      "onboard_time": 1721624422,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149481,
       "num": 149481,
       "word": "郑钦文夺生涯第三冠",
@@ -1267,14 +1323,6 @@
       "category": "艺人,电竞"
     },
     {
-      "raw_hot": 126813,
-      "num": 544747,
-      "word": "寻医广播一响一群浙大医学生冲了上去",
-      "onboard_time": 1721625140,
-      "rank": 9,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 124981,
       "num": 124981,
       "word": "睡觉盖肚脐真的有必要吗",
@@ -1308,7 +1356,7 @@
     },
     {
       "raw_hot": 117819,
-      "num": 1565028,
+      "num": 1646952,
       "word": "夏天最后一个节气来了",
       "onboard_time": 1721616200,
       "rank": 2,
@@ -1395,14 +1443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 89091,
-      "num": 529026,
-      "word": "自贡火灾中消防门被锁多人砸门未果",
-      "onboard_time": 1721624422,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 86863,
       "num": 163486,
       "word": "蒲熠星JOJO私下关系",
@@ -1475,6 +1515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59336,
+      "num": 521519,
+      "word": "傅园慧名场面成为饿了么免单题",
+      "onboard_time": 1721624422,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 51241,
       "num": 371053,
       "word": "鸿星尔克与国货们的暖心联动",
@@ -1515,12 +1563,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 37306,
-      "num": 521519,
-      "word": "傅园慧名场面成为饿了么免单题",
-      "onboard_time": 1721624422,
-      "rank": 14,
-      "category": "互联网"
+      "raw_hot": 33544,
+      "num": 506303,
+      "word": "对师德失范零容忍就要刮骨疗毒",
+      "onboard_time": 1721626221,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31822,
@@ -1529,6 +1577,14 @@
       "onboard_time": 1721585772,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 31120,
+      "num": 504318,
+      "word": "拜登的政治生涯关键词",
+      "onboard_time": 1721625621,
+      "rank": 12,
+      "category": "国外时政"
     },
     {
       "raw_hot": 29246,
