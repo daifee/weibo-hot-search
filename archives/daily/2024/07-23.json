@@ -1,6 +1,6 @@
 {
   "startTime": 1721665529273,
-  "endTime": 1721687742901,
+  "endTime": 1721690370456,
   "band_list": [
     {
       "raw_hot": 4456876,
@@ -43,6 +43,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 717990,
+      "num": 717990,
+      "word": "儿子给妈妈缠了1把扇子后暑假没了",
+      "onboard_time": 1721690297,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 699944,
+      "num": 353325,
+      "word": "女子称因学历低被判去高危妊娠门诊",
+      "onboard_time": 1721658264,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 699236,
       "num": 699236,
       "word": "奶茶30元时代已成过去",
@@ -83,12 +99,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 426207,
-      "num": 353325,
-      "word": "女子称因学历低被判去高危妊娠门诊",
-      "onboard_time": 1721658264,
+      "raw_hot": 481182,
+      "num": 193841,
+      "word": "杭州女生高考602分去职业技术大学",
+      "onboard_time": 1721690297,
       "rank": 12,
-      "category": "社会新闻"
+      "category": "教育"
     },
     {
       "raw_hot": 402457,
@@ -115,20 +131,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 369873,
+      "num": 369873,
+      "word": "中方决定取消对美国卫讯公司的反制措施",
+      "onboard_time": 1721646142,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 368146,
+      "num": 436467,
+      "word": "清华教授解读自愿弹性延迟退休原则",
+      "onboard_time": 1721651422,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 359473,
       "num": 296664,
       "word": "相柳战死",
       "onboard_time": 1721647523,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 306188,
-      "num": 436467,
-      "word": "清华教授解读自愿弹性延迟退休原则",
-      "onboard_time": 1721651422,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 296382,
@@ -145,6 +169,22 @@
       "onboard_time": 1721653462,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282719,
+      "num": 282719,
+      "word": "女子折叠凳掉福宝场地被终身禁入",
+      "onboard_time": 1721652321,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265649,
+      "num": 265649,
+      "word": "拜登退选至少有两重原因",
+      "onboard_time": 1721668215,
+      "rank": 38,
+      "category": "国外时政"
     },
     {
       "raw_hot": 250775,
@@ -195,12 +235,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 191674,
+      "num": 191674,
+      "word": "一句警察叔叔我好饿小孩哥成功蹭到了",
+      "onboard_time": 1721669773,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191453,
       "num": 636251,
       "word": "郑州暴雨",
       "onboard_time": 1721646260,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183714,
+      "num": 183714,
+      "word": "空空日记人设",
+      "onboard_time": 1721668515,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 182941,
@@ -235,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172033,
+      "num": 172033,
+      "word": "男子猥亵被拘13天父亲向受害者求情",
+      "onboard_time": 1721649983,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170910,
       "num": 170910,
       "word": "李梦两眼一黑黑黑型穿搭",
@@ -249,14 +313,6 @@
       "onboard_time": 1721662580,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 167504,
-      "num": 167504,
-      "word": "女子折叠凳掉福宝场地被终身禁入",
-      "onboard_time": 1721652321,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 164395,
@@ -275,12 +331,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154145,
-      "num": 105474,
-      "word": "空空日记人设",
-      "onboard_time": 1721668515,
-      "rank": 41,
-      "category": "网红"
+      "raw_hot": 156507,
+      "num": 156507,
+      "word": "感觉檀健次工作室在哄我们",
+      "onboard_time": 1721689515,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 152854,
@@ -313,14 +369,6 @@
       "onboard_time": 1721659583,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 144114,
-      "num": 144114,
-      "word": "男子猥亵被拘13天父亲向受害者求情",
-      "onboard_time": 1721649983,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 143827,
@@ -395,22 +443,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 126578,
-      "num": 126578,
-      "word": "中方决定取消对美国卫讯公司的反制措施",
-      "onboard_time": 1721646142,
-      "rank": 47,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 123750,
-      "num": 123750,
-      "word": "拜登退选至少有两重原因",
-      "onboard_time": 1721668215,
-      "rank": 38,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 123474,
       "num": 123474,
       "word": "肖战宋威龙同款",
@@ -435,6 +467,38 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109698,
+      "num": 109698,
+      "word": "宗馥莉已接手父亲名下多家公司",
+      "onboard_time": 1721658083,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86386,
+      "num": 86386,
+      "word": "警方介入王某某性骚扰事件",
+      "onboard_time": 1721690297,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83068,
+      "num": 83068,
+      "word": "唐朝诡事录意难平",
+      "onboard_time": 1721687052,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 63772,
+      "num": 70484,
+      "word": "优衣库和中国消费者都说对方变了",
+      "onboard_time": 1721668455,
+      "rank": 48,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 62529,
       "num": 667774,
       "word": "万千气象看青海",
@@ -443,20 +507,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 61103,
-      "num": 76535,
-      "word": "一句警察叔叔我好饿小孩哥成功蹭到了",
-      "onboard_time": 1721669773,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 59755,
+      "num": 59755,
+      "word": "第一批打司美格鲁肽的人已被反弹劝退",
+      "onboard_time": 1721689214,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
-      "raw_hot": 55183,
-      "num": 70475,
-      "word": "宗馥莉已接手父亲名下多家公司",
-      "onboard_time": 1721658083,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 58921,
+      "num": 58921,
+      "word": "作者联合抵制番茄小说AI协议",
+      "onboard_time": 1721690176,
+      "rank": 36,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 54955,
+      "num": 54955,
+      "word": "胡先煦曾参加过封神试镜",
+      "onboard_time": 1721679011,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 54270,
+      "num": 54270,
+      "word": "北京300万元以下老破小成交放大",
+      "onboard_time": 1721690236,
+      "rank": 39,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 52553,
@@ -467,12 +547,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 51953,
+      "num": 51953,
+      "word": "45岁大龄妈妈费尽心思混进家长群",
+      "onboard_time": 1721690297,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51801,
       "num": 51801,
       "word": "天秤座的情绪周期",
       "onboard_time": 1721670014,
       "rank": 26,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 51586,
+      "num": 51586,
+      "word": "全红婵三次满分跳水",
+      "onboard_time": 1721690176,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 49707,
@@ -483,11 +579,35 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 45977,
+      "num": 480547,
+      "word": "神十八乘组太空出差能有多充实",
+      "onboard_time": 1721653282,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43990,
+      "num": 48300,
+      "word": "新发房贷利率处历史最低水平",
+      "onboard_time": 1721690176,
+      "rank": 45,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 43755,
       "num": 235226,
       "word": "00后姑娘试用期被特批15天休假",
       "onboard_time": 1721666779,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42716,
+      "num": 48280,
+      "word": "郑州局部暴雨超100毫米",
+      "onboard_time": 1721680151,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -497,22 +617,6 @@
       "onboard_time": 1721667377,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 39202,
-      "num": 70484,
-      "word": "优衣库和中国消费者都说对方变了",
-      "onboard_time": 1721668455,
-      "rank": 48,
-      "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 34980,
-      "num": 38519,
-      "word": "胡先煦曾参加过封神试镜",
-      "onboard_time": 1721679011,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 33084,
@@ -539,19 +643,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 30851,
-      "num": 38478,
-      "word": "唐朝诡事录意难平",
-      "onboard_time": 1721687052,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 29739,
-      "num": 38475,
-      "word": "郑州局部暴雨超100毫米",
-      "onboard_time": 1721680151,
-      "rank": 37,
+      "raw_hot": 27780,
+      "num": 195857,
+      "word": "货车侧翻4男子车流中砸窗救出父子",
+      "onboard_time": 1721689515,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -561,14 +657,6 @@
       "onboard_time": 1721674512,
       "rank": 44,
       "category": "军事"
-    },
-    {
-      "raw_hot": 23699,
-      "num": 143856,
-      "word": "神十八乘组太空出差能有多充实",
-      "onboard_time": 1721653282,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23370,
