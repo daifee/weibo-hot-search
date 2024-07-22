@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721640287426,
+  "endTime": 1721641040858,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -16,6 +16,14 @@
       "word": "中国人民大学声明",
       "onboard_time": 1721609841,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11732343,
+      "num": 11732343,
+      "word": "退休",
+      "onboard_time": 1721634741,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -265,14 +273,6 @@
       "onboard_time": 1721374880,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3516120,
-      "num": 3299284,
-      "word": "退休",
-      "onboard_time": 1721634741,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 3450111,
@@ -1139,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1731297,
+      "num": 1731297,
+      "word": "人大女博士举报导师为学科带头人",
+      "onboard_time": 1721637982,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1727687,
       "num": 1727687,
       "word": "霸王茶姬被曝正在业内大量挖人",
@@ -1360,14 +1368,6 @@
       "word": "不停道歉的东方甄选怎么了",
       "onboard_time": 1720102459,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1624778,
-      "num": 1624778,
-      "word": "人大女博士举报导师为学科带头人",
-      "onboard_time": 1721637982,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -5587,6 +5587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 826390,
+      "num": 483188,
+      "word": "空空日记",
+      "onboard_time": 1721638343,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
       "raw_hot": 826352,
       "num": 826352,
       "word": "拜登出现离谱口误",
@@ -5881,14 +5889,6 @@
       "onboard_time": 1720689858,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 806643,
-      "num": 483188,
-      "word": "空空日记",
-      "onboard_time": 1721638343,
-      "rank": 12,
-      "category": "网红"
     },
     {
       "raw_hot": 806459,
@@ -15899,6 +15899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 408848,
+      "num": 408848,
+      "word": "小米相纸 2元",
+      "onboard_time": 1721638942,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 408626,
       "num": 408626,
       "word": "洞庭湖决口出现水流回流",
@@ -16393,14 +16401,6 @@
       "onboard_time": 1720263557,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 397908,
-      "num": 397908,
-      "word": "小米相纸 2元",
-      "onboard_time": 1721638942,
-      "rank": 17,
-      "category": "数码"
     },
     {
       "raw_hot": 397797,
@@ -17867,6 +17867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 361807,
+      "num": 349425,
+      "word": "卡琳娜cos遇到对手了",
+      "onboard_time": 1721639962,
+      "rank": 36,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 361657,
       "num": 361657,
       "word": "杨丞琳连续十年为李荣浩庆生",
@@ -18513,6 +18521,14 @@
       "onboard_time": 1720481716,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 349614,
+      "num": 349614,
+      "word": "喜欢上班的人有福啦",
+      "onboard_time": 1721638822,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 349506,
@@ -19561,14 +19577,6 @@
       "onboard_time": 1720136596,
       "rank": 8,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 327532,
-      "num": 327532,
-      "word": "喜欢上班的人有福啦",
-      "onboard_time": 1721638822,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 327435,
@@ -24187,6 +24195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 249931,
+      "num": 249931,
+      "word": "电影异人之下首映口碑",
+      "onboard_time": 1721638761,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 249883,
       "num": 203969,
       "word": "张子墨 不自信",
@@ -24561,14 +24577,6 @@
       "onboard_time": 1721015539,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 245939,
-      "num": 245939,
-      "word": "电影异人之下首映口碑",
-      "onboard_time": 1721638761,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 245891,
@@ -25649,6 +25657,14 @@
       "onboard_time": 1721104040,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 233143,
+      "num": 233143,
+      "word": "田曦薇吊带针织裙",
+      "onboard_time": 1721640561,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 233095,
@@ -29915,14 +29931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 202918,
-      "num": 202918,
-      "word": "卡琳娜cos遇到对手了",
-      "onboard_time": 1721639962,
-      "rank": 36,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 202904,
       "num": 179054,
       "word": "暑假第一次胚胎式追剧",
@@ -29985,6 +29993,14 @@
       "onboard_time": 1720163898,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202675,
+      "num": 202675,
+      "word": "人大女博士",
+      "onboard_time": 1721640322,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202619,
@@ -33433,6 +33449,14 @@
       "onboard_time": 1721201297,
       "rank": 32,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 188947,
+      "num": 188947,
+      "word": "到底是谁发明的不显示聊天",
+      "onboard_time": 1721640022,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 188835,
@@ -39403,6 +39427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160911,
+      "num": 160911,
+      "word": "庾澄庆 现在的经纪人保护艺人太过头",
+      "onboard_time": 1721640082,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160823,
       "num": 160823,
       "word": "张真源看到马嘉祺受伤的反应",
@@ -41619,6 +41651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151185,
+      "num": 151185,
+      "word": "奶茶30元时代已成过去",
+      "onboard_time": 1721640983,
+      "rank": 43,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 151137,
       "num": 151137,
       "word": "房东的猫OST",
@@ -41905,14 +41945,6 @@
       "onboard_time": 1720582758,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 149938,
-      "num": 149938,
-      "word": "到底是谁发明的不显示聊天",
-      "onboard_time": 1721640022,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 149924,
@@ -43377,14 +43409,6 @@
       "onboard_time": 1720147637,
       "rank": 45,
       "category": "电影,动漫"
-    },
-    {
-      "raw_hot": 143623,
-      "num": 143623,
-      "word": "庾澄庆 现在的经纪人保护艺人太过头",
-      "onboard_time": 1721640082,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 143616,
@@ -45297,6 +45321,14 @@
       "onboard_time": 1719823218,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136359,
+      "num": 136359,
+      "word": "7月105款游戏获批",
+      "onboard_time": 1721640682,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 136358,
@@ -57867,6 +57899,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 56007,
+      "num": 488368,
+      "word": "4人6秒救下乘扶梯摔倒老人",
+      "onboard_time": 1721634500,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 55999,
       "num": 55999,
       "word": "汤唯素颜生图",
@@ -59611,6 +59651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42359,
+      "num": 437667,
+      "word": "法国影后同款摘金宴",
+      "onboard_time": 1721638102,
+      "rank": 15,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 42330,
       "num": 513236,
       "word": "九旬退休教师免费教书法20年",
@@ -59913,14 +59961,6 @@
       "onboard_time": 1720805654,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 39913,
-      "num": 402875,
-      "word": "法国影后同款摘金宴",
-      "onboard_time": 1721638102,
-      "rank": 15,
-      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 39637,
@@ -61091,6 +61131,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 30005,
+      "num": 236693,
+      "word": "美国儿医被超速司机撞倒后身亡",
+      "onboard_time": 1721640441,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29859,
       "num": 408566,
       "word": "我国航天员已圆满完成16次出舱活动",
@@ -62217,6 +62265,14 @@
       "onboard_time": 1721207720,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22114,
+      "num": 427690,
+      "word": "2024美国大选背后有哪些政治算计",
+      "onboard_time": 1721640621,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 22024,

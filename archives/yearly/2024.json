@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1721640287426,
+  "endTime": 1721641040858,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -185,6 +185,14 @@
       "onboard_time": 1707481486,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 11732343,
+      "num": 11732343,
+      "word": "退休",
+      "onboard_time": 1721634741,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11692231,
@@ -2296,14 +2304,6 @@
       "word": "南通车祸事故原因初步查明",
       "onboard_time": 1715440581,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3516120,
-      "num": 3299284,
-      "word": "退休",
-      "onboard_time": 1721634741,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
