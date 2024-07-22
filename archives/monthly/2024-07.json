@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721668722597,
+  "endTime": 1721669790885,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -34539,6 +34539,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 187792,
+      "num": 347998,
+      "word": "从严从快处理师德失范行为",
+      "onboard_time": 1721664619,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187741,
       "num": 187741,
       "word": "奥迪退出价格战后2天涨价2轮",
@@ -37233,14 +37241,6 @@
       "onboard_time": 1719918618,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 174815,
-      "num": 347998,
-      "word": "从严从快处理师德失范行为",
-      "onboard_time": 1721664619,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174805,
@@ -53515,6 +53515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105474,
+      "num": 105474,
+      "word": "空空日记人设",
+      "onboard_time": 1721668515,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 105454,
       "num": 105454,
       "word": "这种三观真的可以",
@@ -57555,14 +57563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 67669,
-      "num": 70533,
-      "word": "空空日记人设",
-      "onboard_time": 1721668515,
-      "rank": 41,
-      "category": "网红"
-    },
-    {
       "raw_hot": 67541,
       "num": 349203,
       "word": "百岁山符合国标和欧盟标准",
@@ -58553,6 +58553,14 @@
       "onboard_time": 1721373021,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59044,
+      "num": 69401,
+      "word": "拜登退选至少有两重原因",
+      "onboard_time": 1721668215,
+      "rank": 38,
+      "category": "国外时政"
     },
     {
       "raw_hot": 59040,
@@ -60697,6 +60705,14 @@
       "onboard_time": 1720602138,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42372,
+      "num": 69266,
+      "word": "涂山璟孤独破碎",
+      "onboard_time": 1721667377,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 42359,
@@ -63496,6 +63512,14 @@
       "word": "微观中国深改之变",
       "onboard_time": 1720875318,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20550,
+      "num": 76535,
+      "word": "一句警察叔叔我好饿小孩哥成功蹭到了",
+      "onboard_time": 1721669773,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
