@@ -1,0 +1,410 @@
+{
+  "runTime": 1721661755553,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9243754,
+        "num": 9243754,
+        "word": "蒋敦豪发长文回应",
+        "onboard_time": 1721654242,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3175843,
+        "num": 3175843,
+        "word": "北京警方通报导师被学生举报情况",
+        "onboard_time": 1721658745,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107389,
+        "num": 2682676,
+        "word": "万千气象看青海",
+        "onboard_time": 1721651491,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2495098,
+        "num": 2495098,
+        "word": "人大女博士回应举报导师处理结果",
+        "onboard_time": 1721657124,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 746156,
+        "num": 2334052,
+        "word": "人大王某某被解聘",
+        "onboard_time": 1721647282,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2290453,
+        "num": 2290453,
+        "word": "种地吧成员支持蒋敦豪",
+        "onboard_time": 1721658264,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 765904,
+        "num": 765904,
+        "word": "田曦薇财阀千金",
+        "onboard_time": 1721660305,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 691173,
+        "num": 691173,
+        "word": "奶茶30元时代已成过去",
+        "onboard_time": 1721640983,
+        "rank": 7,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 632932,
+        "num": 632932,
+        "word": "相柳战死",
+        "onboard_time": 1721647523,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118542,
+        "num": 632854,
+        "word": "善于把人生调成这三种模式",
+        "onboard_time": 1721658444,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 4650588,
+        "num": 631579,
+        "word": "人大通报王某某性骚扰",
+        "onboard_time": 1721647102,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2655589,
+        "num": 630713,
+        "word": "老年男明星 性侵女服务员",
+        "onboard_time": 1721658207,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 764291,
+        "num": 628676,
+        "word": "90后男女都65岁以后退休系网民推估",
+        "onboard_time": 1721650223,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 642885,
+        "num": 627721,
+        "word": "女子称因学历低被判去高危妊娠门诊",
+        "onboard_time": 1721658264,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 627579,
+        "num": 627579,
+        "word": "电影学院到底有谁在啊",
+        "onboard_time": 1721660064,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 550980,
+        "num": 550980,
+        "word": "宗馥莉决定继续在娃哈哈履职",
+        "onboard_time": 1721653462,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457439,
+        "num": 457439,
+        "word": "gidle方道歉",
+        "onboard_time": 1721660782,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 455314,
+        "num": 455314,
+        "word": "李昊 十个勤天永远是十个勤天",
+        "onboard_time": 1721659289,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348200,
+        "num": 348200,
+        "word": "郑州暴雨",
+        "onboard_time": 1721646260,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326270,
+        "num": 326270,
+        "word": "退休时间",
+        "onboard_time": 1721641343,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375372,
+        "num": 322811,
+        "word": "游泳时千万别穿白色泳衣",
+        "onboard_time": 1721649623,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 372973,
+        "num": 321467,
+        "word": "秦岚 我不会和前任做朋友",
+        "onboard_time": 1721646202,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352599,
+        "num": 319942,
+        "word": "肖战工作室要维权了",
+        "onboard_time": 1721660005,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317791,
+        "num": 317791,
+        "word": "清华教授解读自愿弹性延迟退休原则",
+        "onboard_time": 1721651422,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300732,
+        "num": 300732,
+        "word": "长相思尖叫之夜",
+        "onboard_time": 1721656285,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286475,
+        "num": 286475,
+        "word": "十个勤天新人是公司员工不是新成员",
+        "onboard_time": 1721659583,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267318,
+        "num": 267318,
+        "word": "人大王某某被开除党籍",
+        "onboard_time": 1721647703,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266819,
+        "num": 266819,
+        "word": "张杰帮唱凡希亚",
+        "onboard_time": 1721658505,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261265,
+        "num": 261265,
+        "word": "原来慈禧太后的卧室长这样",
+        "onboard_time": 1721651963,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 251868,
+        "num": 251868,
+        "word": "肖战陈情令人物曲上线五周年",
+        "onboard_time": 1721657905,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250994,
+        "num": 250994,
+        "word": "宁艺卓说第一次在中国签售",
+        "onboard_time": 1721651003,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 242578,
+        "num": 242578,
+        "word": "小猫以为自己生了小狗",
+        "onboard_time": 1721659883,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229168,
+        "num": 229168,
+        "word": "中国人民大学声明",
+        "onboard_time": 1721609841,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226461,
+        "num": 226461,
+        "word": "人民网评人大清理害群之马",
+        "onboard_time": 1721658324,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220555,
+        "num": 220555,
+        "word": "女子折叠凳掉福宝场地被终身禁入",
+        "onboard_time": 1721652321,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220283,
+        "num": 220283,
+        "word": "下班后比刷手机更有意义的事",
+        "onboard_time": 1721660604,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219597,
+        "num": 219597,
+        "word": "鹭卓 我们的心一定会一直在一起",
+        "onboard_time": 1721658144,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215779,
+        "num": 215779,
+        "word": "空空日记掉粉超100万",
+        "onboard_time": 1721644400,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 213447,
+        "num": 213447,
+        "word": "人大女博士举报情况属实",
+        "onboard_time": 1721660722,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210282,
+        "num": 210282,
+        "word": "金智媛化妆师秒删ins",
+        "onboard_time": 1721649683,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208892,
+        "num": 208892,
+        "word": "Capper直播",
+        "onboard_time": 1721661143,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207933,
+        "num": 207933,
+        "word": "毛球",
+        "onboard_time": 1721655685,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205320,
+        "num": 205320,
+        "word": "婚礼上被喷酒新娘霸气眼神杀",
+        "onboard_time": 1721648423,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198662,
+        "num": 198662,
+        "word": "邓为涂山璟婚服",
+        "onboard_time": 1721656585,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193211,
+        "num": 193211,
+        "word": "新华社好会拍",
+        "onboard_time": 1721660364,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184648,
+        "num": 184648,
+        "word": "统一了中西方审美的国风美学",
+        "onboard_time": 1721660424,
+        "rank": 45,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 184229,
+        "num": 184229,
+        "word": "夭柳彻底be",
+        "onboard_time": 1721660904,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181648,
+        "num": 181648,
+        "word": "男子猥亵被拘13天父亲向受害者求情",
+        "onboard_time": 1721649983,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179320,
+        "num": 179320,
+        "word": "相柳是笑着死的",
+        "onboard_time": 1721649683,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168864,
+        "num": 168864,
+        "word": "从此以后你与我再无关系",
+        "onboard_time": 1721660544,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#一图速读三中全会决定60条#"
+    }
+  }
+}

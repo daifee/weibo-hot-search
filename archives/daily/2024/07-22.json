@@ -1,6 +1,6 @@
 {
   "startTime": 1721579123353,
-  "endTime": 1721659005606,
+  "endTime": 1721661755553,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -59,12 +59,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3175843,
+      "num": 3175843,
+      "word": "北京警方通报导师被学生举报情况",
+      "onboard_time": 1721658745,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3099466,
-      "num": 1015495,
+      "num": 2495098,
       "word": "人大女博士回应举报导师处理结果",
       "onboard_time": 1721657124,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2655589,
+      "num": 630713,
+      "word": "老年男明星 性侵女服务员",
+      "onboard_time": 1721658207,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 2483909,
@@ -84,15 +100,15 @@
     },
     {
       "raw_hot": 2301422,
-      "num": 1061268,
+      "num": 2334052,
       "word": "人大王某某被解聘",
       "onboard_time": 1721647282,
       "rank": 3,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2177918,
-      "num": 566105,
+      "raw_hot": 2290453,
+      "num": 2290453,
       "word": "种地吧成员支持蒋敦豪",
       "onboard_time": 1721658264,
       "rank": 5,
@@ -195,14 +211,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1378589,
-      "num": 538494,
-      "word": "北京警方通报导师被学生举报情况",
-      "onboard_time": 1721658745,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1348425,
       "num": 1348425,
       "word": "拜登",
@@ -217,14 +225,6 @@
       "onboard_time": 1721653462,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1213679,
-      "num": 543902,
-      "word": "老年男明星 性侵女服务员",
-      "onboard_time": 1721658207,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1187849,
@@ -451,6 +451,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 765904,
+      "num": 765904,
+      "word": "田曦薇财阀千金",
+      "onboard_time": 1721660305,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 741319,
       "num": 741319,
       "word": "秦昊忙求婚伊能静忙补妆",
@@ -547,6 +555,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 642885,
+      "num": 627721,
+      "word": "女子称因学历低被判去高危妊娠门诊",
+      "onboard_time": 1721658264,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 628672,
       "num": 628672,
       "word": "韩国女子遭性侵21年后反杀加害者",
@@ -561,6 +577,14 @@
       "onboard_time": 1721576899,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 627579,
+      "num": 627579,
+      "word": "电影学院到底有谁在啊",
+      "onboard_time": 1721660064,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 621443,
@@ -883,12 +907,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 457439,
+      "num": 457439,
+      "word": "gidle方道歉",
+      "onboard_time": 1721660782,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 456267,
       "num": 456267,
       "word": "LPR",
       "onboard_time": 1721611160,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 455314,
+      "num": 455314,
+      "word": "李昊 十个勤天永远是十个勤天",
+      "onboard_time": 1721659289,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 454573,
@@ -1147,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 352599,
+      "num": 319942,
+      "word": "肖战工作室要维权了",
+      "onboard_time": 1721660005,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 351138,
       "num": 351138,
       "word": "两个i人生了个e人",
@@ -1251,14 +1299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 307262,
-      "num": 266397,
-      "word": "女子称因学历低被判去高危妊娠门诊",
-      "onboard_time": 1721658264,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 303898,
       "num": 303898,
       "word": "对方撤回一个肖战",
@@ -1347,6 +1387,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 286475,
+      "num": 286475,
+      "word": "十个勤天新人是公司员工不是新成员",
+      "onboard_time": 1721659583,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283034,
       "num": 283034,
       "word": "田曦薇吊带针织裙",
@@ -1417,6 +1465,14 @@
       "onboard_time": 1721605519,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266819,
+      "num": 266819,
+      "word": "张杰帮唱凡希亚",
+      "onboard_time": 1721658505,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 266027,
@@ -1555,6 +1611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242578,
+      "num": 242578,
+      "word": "小猫以为自己生了小狗",
+      "onboard_time": 1721659883,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 241866,
       "num": 241866,
       "word": "央行宣布降息10个基点",
@@ -1635,6 +1699,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 226461,
+      "num": 552966,
+      "word": "人民网评人大清理害群之马",
+      "onboard_time": 1721658324,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225919,
       "num": 225919,
       "word": "90后男女65岁退休发文自媒体未经认证",
@@ -1673,6 +1745,14 @@
       "onboard_time": 1721618481,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220283,
+      "num": 220283,
+      "word": "下班后比刷手机更有意义的事",
+      "onboard_time": 1721660604,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 220231,
@@ -1739,12 +1819,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 215002,
-      "num": 215002,
-      "word": "张杰帮唱凡希亚",
-      "onboard_time": 1721658505,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 213447,
+      "num": 213447,
+      "word": "人大女博士举报情况属实",
+      "onboard_time": 1721660722,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212986,
@@ -1785,6 +1865,14 @@
       "onboard_time": 1721629460,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208892,
+      "num": 208892,
+      "word": "Capper直播",
+      "onboard_time": 1721661143,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 207231,
@@ -2027,6 +2115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193211,
+      "num": 193211,
+      "word": "新华社好会拍",
+      "onboard_time": 1721660364,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192913,
       "num": 192913,
       "word": "孙颖莎背包上挂了个马里奥",
@@ -2156,11 +2252,19 @@
     },
     {
       "raw_hot": 186161,
-      "num": 186161,
+      "num": 632854,
       "word": "善于把人生调成这三种模式",
       "onboard_time": 1721658444,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 184648,
+      "num": 184648,
+      "word": "统一了中西方审美的国风美学",
+      "onboard_time": 1721660424,
+      "rank": 45,
+      "category": "时尚"
     },
     {
       "raw_hot": 184422,
@@ -2169,6 +2273,14 @@
       "onboard_time": 1721644521,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 184229,
+      "num": 184229,
+      "word": "夭柳彻底be",
+      "onboard_time": 1721660904,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 183586,
@@ -2379,6 +2491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168864,
+      "num": 168864,
+      "word": "从此以后你与我再无关系",
+      "onboard_time": 1721660544,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168591,
       "num": 168591,
       "word": "男生暑假被骗到姐姐家全程带娃",
@@ -2465,14 +2585,6 @@
       "onboard_time": 1721645784,
       "rank": 46,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 161866,
-      "num": 552966,
-      "word": "人民网评人大清理害群之马",
-      "onboard_time": 1721658324,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161086,
@@ -2835,6 +2947,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 107389,
+      "num": 2682676,
+      "word": "万千气象看青海",
+      "onboard_time": 1721651491,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104929,
       "num": 163561,
       "word": "陈丽君凤求凰好英气",
@@ -2993,14 +3113,6 @@
       "onboard_time": 1721604738,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 63762,
-      "num": 1065058,
-      "word": "万千气象看青海",
-      "onboard_time": 1721651491,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 63671,
