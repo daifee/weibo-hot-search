@@ -1,6 +1,6 @@
 {
   "startTime": 1721665529273,
-  "endTime": 1721679658928,
+  "endTime": 1721680474752,
   "band_list": [
     {
       "raw_hot": 4456876,
@@ -523,6 +523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 24089,
+      "num": 24089,
+      "word": "胡先煦曾参加过封神试镜",
+      "onboard_time": 1721679011,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 23699,
       "num": 143856,
       "word": "神十八乘组太空出差能有多充实",
@@ -531,7 +539,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21894,
+      "raw_hot": 23553,
       "num": 27469,
       "word": "用山东方言说唱呼叫山东舰",
       "onboard_time": 1721674512,
@@ -539,20 +547,20 @@
       "category": "军事"
     },
     {
-      "raw_hot": 21260,
-      "num": 21260,
-      "word": "胡先煦曾参加过封神试镜",
-      "onboard_time": 1721679011,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 20594,
-      "num": 20594,
+      "num": 23983,
       "word": "姜妍虞书欣 姐狗文学",
       "onboard_time": 1721677690,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 18540,
+      "num": 23982,
+      "word": "遇到性骚扰请勇敢说不",
+      "onboard_time": 1721677390,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17923,
@@ -563,12 +571,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17910,
-      "num": 19484,
-      "word": "遇到性骚扰请勇敢说不",
-      "onboard_time": 1721677390,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 15620,
+      "num": 23980,
+      "word": "巴黎奥运吉祥物会按奖牌颜色颁发",
+      "onboard_time": 1721676012,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 13827,
