@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1721633708042,
+  "endTime": 1721636779908,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -2299,6 +2299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3516120,
+      "num": 482052,
+      "word": "退休",
+      "onboard_time": 1721634741,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3505714,
       "num": 3505714,
       "word": "妇产科迎来关停潮",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1710506985,
       "rank": 3,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 3421471,
-      "num": 3421471,
-      "word": "杨波出轨风波",
-      "onboard_time": 1706852254,
-      "rank": 0,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
