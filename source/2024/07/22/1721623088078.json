@@ -1,0 +1,410 @@
+{
+  "runTime": 1721623088078,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10181978,
+        "num": 10181978,
+        "word": "中国人民大学声明",
+        "onboard_time": 1721609841,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1479548,
+        "num": 1479548,
+        "word": "拜登退选",
+        "onboard_time": 1721585473,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 117819,
+        "num": 1194425,
+        "word": "夏天最后一个节气来了",
+        "onboard_time": 1721616200,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1810586,
+        "num": 1171151,
+        "word": "李嫣晒唇腭裂手术照",
+        "onboard_time": 1721621181,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 998043,
+        "num": 998043,
+        "word": "赵丽颖领衔主演冯小刚新片",
+        "onboard_time": 1721614281,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 710537,
+        "num": 710537,
+        "word": "央视起底硅胶人脸面具乱象",
+        "onboard_time": 1721617820,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 813205,
+        "num": 709737,
+        "word": "密室大逃脱6首发阵容",
+        "onboard_time": 1721620341,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 665622,
+        "num": 665622,
+        "word": "女教师连捐两次生命种子救一人",
+        "onboard_time": 1721615540,
+        "rank": 7,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 621443,
+        "num": 621443,
+        "word": "不婚不育的年轻人涌入阜新买低价房",
+        "onboard_time": 1721618961,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27578,
+        "num": 608776,
+        "word": "拜登宣布退选细节曝出",
+        "onboard_time": 1721622803,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1185761,
+        "num": 608116,
+        "word": "海底捞真的越来越颠了",
+        "onboard_time": 1721614039,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1123088,
+        "num": 607989,
+        "word": "王宁",
+        "onboard_time": 1721619741,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606158,
+        "num": 606158,
+        "word": "陈好宋茜 教授和她骄傲的学生",
+        "onboard_time": 1721621603,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 478032,
+        "num": 478032,
+        "word": "哈里斯发声称赞拜登",
+        "onboard_time": 1721606420,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 108703,
+        "num": 473178,
+        "word": "哈里斯称将尽一切努力击败特朗普",
+        "onboard_time": 1721621842,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 471030,
+        "num": 471030,
+        "word": "9年医学生查出桥本甲状腺炎被拒录",
+        "onboard_time": 1721620341,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420614,
+        "num": 420614,
+        "word": "王迪",
+        "onboard_time": 1721606358,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378630,
+        "num": 378630,
+        "word": "冯小刚赵丽颖是第二次合作",
+        "onboard_time": 1721618602,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 357218,
+        "num": 357218,
+        "word": "人民大学称对师德失范行为零容忍",
+        "onboard_time": 1721612599,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345044,
+        "num": 345044,
+        "word": "拜登退选前大量烧钱",
+        "onboard_time": 1721608581,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 616146,
+        "num": 344974,
+        "word": "为什么空调一关立刻就变热了",
+        "onboard_time": 1721614220,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 418874,
+        "num": 335319,
+        "word": "气血不足就要多出去玩",
+        "onboard_time": 1721618961,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 365577,
+        "num": 332529,
+        "word": "耶耶 还有哪位要摸吗",
+        "onboard_time": 1721617941,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 311556,
+        "num": 311556,
+        "word": "女子用凤仙花染头发视觉效果炸裂",
+        "onboard_time": 1721610861,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295898,
+        "num": 295898,
+        "word": "大哥远停播",
+        "onboard_time": 1721614940,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 279168,
+        "num": 279168,
+        "word": "赵丽颖轻妆进组",
+        "onboard_time": 1721618481,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264256,
+        "num": 264256,
+        "word": "五一广场车祸",
+        "onboard_time": 1721572161,
+        "rank": 26,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 263135,
+        "num": 263135,
+        "word": "100万元房贷30年减少2.1万",
+        "onboard_time": 1721612661,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261815,
+        "num": 261815,
+        "word": "惠英红文淇荣梓杉 游神供火恐怖片",
+        "onboard_time": 1721622682,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 248143,
+        "num": 248143,
+        "word": "陈好宋茜在干嘛",
+        "onboard_time": 1721622562,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248033,
+        "num": 248033,
+        "word": "福宝场地再掉异物",
+        "onboard_time": 1721622502,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238771,
+        "num": 238771,
+        "word": "杨志刚演技",
+        "onboard_time": 1721614220,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237562,
+        "num": 237562,
+        "word": "特朗普称哈里斯更容易被击败",
+        "onboard_time": 1721589071,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 218886,
+        "num": 218886,
+        "word": "唐诡西行第二案硬核推理",
+        "onboard_time": 1721617820,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213946,
+        "num": 213946,
+        "word": "降息",
+        "onboard_time": 1721611943,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 207231,
+        "num": 207231,
+        "word": "俄罗斯女子从13楼坠落奇迹生还",
+        "onboard_time": 1721618180,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205919,
+        "num": 205919,
+        "word": "檀健次复刻相柳经典台词",
+        "onboard_time": 1721622741,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205190,
+        "num": 205190,
+        "word": "小猫就这么水灵灵的剃光了",
+        "onboard_time": 1721618661,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201142,
+        "num": 201142,
+        "word": "房贷利率有望进入2字头时代",
+        "onboard_time": 1721622383,
+        "rank": 38,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 200548,
+        "num": 200548,
+        "word": "拜登支持哈里斯竞选",
+        "onboard_time": 1721586613,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 187290,
+        "num": 187290,
+        "word": "男子称给霸王茶姬差评后被找上门",
+        "onboard_time": 1721581396,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184683,
+        "num": 184683,
+        "word": "抓娃娃片尾鸣谢沈腾马丽家属",
+        "onboard_time": 1721610981,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184377,
+        "num": 184377,
+        "word": "因为高中有朋友啊",
+        "onboard_time": 1721613440,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180200,
+        "num": 180200,
+        "word": "邓紫棋在舞台上抽筋",
+        "onboard_time": 1721620220,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172177,
+        "num": 172177,
+        "word": "留学花30万回国后起薪仅5500元",
+        "onboard_time": 1721623043,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168885,
+        "num": 168885,
+        "word": "哈里斯能打败特朗普吗",
+        "onboard_time": 1721613920,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 167569,
+        "num": 167569,
+        "word": "马斯克换头像庆祝拜登退选",
+        "onboard_time": 1721614281,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 165905,
+        "num": 165905,
+        "word": "少年白马醉春风 女主",
+        "onboard_time": 1721623043,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165581,
+        "num": 165581,
+        "word": "特朗普回应拜登退选",
+        "onboard_time": 1721588592,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 164756,
+        "num": 164756,
+        "word": "YG真急了",
+        "onboard_time": 1721610200,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#关于二十届三中全会决定的说明#"
+    }
+  }
+}

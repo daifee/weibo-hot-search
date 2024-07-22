@@ -1,6 +1,6 @@
 {
   "startTime": 1721579123353,
-  "endTime": 1721622234626,
+  "endTime": 1721623088078,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -52,11 +52,19 @@
     },
     {
       "raw_hot": 1821432,
-      "num": 492612,
+      "num": 608116,
       "word": "海底捞真的越来越颠了",
       "onboard_time": 1721614039,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1810586,
+      "num": 1319425,
+      "word": "李嫣晒唇腭裂手术照",
+      "onboard_time": 1721621181,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1444891,
@@ -75,16 +83,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1319425,
-      "num": 1319425,
-      "word": "李嫣晒唇腭裂手术照",
-      "onboard_time": 1721621181,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1184100,
-      "num": 484146,
+      "num": 607989,
       "word": "王宁",
       "onboard_time": 1721619741,
       "rank": 11,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 916175,
-      "num": 342599,
+      "num": 344974,
       "word": "为什么空调一关立刻就变热了",
       "onboard_time": 1721614220,
       "rank": 20,
@@ -171,20 +171,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 710537,
+      "num": 710537,
+      "word": "央视起底硅胶人脸面具乱象",
+      "onboard_time": 1721617820,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 686213,
       "num": 919794,
       "word": "TFBOYS发文支持王源",
       "onboard_time": 1721569221,
       "rank": 0,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 682118,
-      "num": 682118,
-      "word": "央视起底硅胶人脸面具乱象",
-      "onboard_time": 1721617820,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 670039,
@@ -211,6 +211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 621443,
+      "num": 621443,
+      "word": "不婚不育的年轻人涌入阜新买低价房",
+      "onboard_time": 1721618961,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 615761,
       "num": 615761,
       "word": "虎门一公职人员贩毒被执行死刑",
@@ -219,12 +227,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 584055,
-      "num": 584055,
-      "word": "不婚不育的年轻人涌入阜新买低价房",
-      "onboard_time": 1721618961,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 606158,
+      "num": 606158,
+      "word": "陈好宋茜 教授和她骄傲的学生",
+      "onboard_time": 1721621603,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 564306,
@@ -323,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 471030,
+      "num": 495033,
+      "word": "9年医学生查出桥本甲状腺炎被拒录",
+      "onboard_time": 1721620341,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 468028,
       "num": 442988,
       "word": "大哥远停播",
@@ -395,12 +411,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 416662,
-      "num": 416662,
-      "word": "陈好宋茜 教授和她骄傲的学生",
-      "onboard_time": 1721621603,
-      "rank": 13,
-      "category": "综艺"
+      "raw_hot": 418874,
+      "num": 338728,
+      "word": "气血不足就要多出去玩",
+      "onboard_time": 1721618961,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 413459,
@@ -409,14 +425,6 @@
       "onboard_time": 1721573844,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 410635,
-      "num": 338728,
-      "word": "气血不足就要多出去玩",
-      "onboard_time": 1721618961,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 407652,
@@ -547,20 +555,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 271197,
-      "num": 495033,
-      "word": "9年医学生查出桥本甲状腺炎被拒录",
-      "onboard_time": 1721620341,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267201,
       "num": 267201,
       "word": "台风",
       "onboard_time": 1721605519,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261815,
+      "num": 261815,
+      "word": "惠英红文淇荣梓杉 游神供火恐怖片",
+      "onboard_time": 1721622682,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 257402,
@@ -585,6 +593,22 @@
       "onboard_time": 1721603536,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 248143,
+      "num": 248143,
+      "word": "陈好宋茜在干嘛",
+      "onboard_time": 1721622562,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 248033,
+      "num": 248033,
+      "word": "福宝场地再掉异物",
+      "onboard_time": 1721622502,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242742,
@@ -667,12 +691,36 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 207231,
+      "num": 214620,
+      "word": "俄罗斯女子从13楼坠落奇迹生还",
+      "onboard_time": 1721618180,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205919,
+      "num": 205919,
+      "word": "檀健次复刻相柳经典台词",
+      "onboard_time": 1721622741,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205267,
       "num": 205267,
       "word": "向阳花",
       "onboard_time": 1721618301,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 205190,
+      "num": 205190,
+      "word": "小猫就这么水灵灵的剃光了",
+      "onboard_time": 1721618661,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 203562,
@@ -683,20 +731,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 201142,
+      "num": 201142,
+      "word": "房贷利率有望进入2字头时代",
+      "onboard_time": 1721622383,
+      "rank": 38,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 198385,
       "num": 198385,
       "word": "泽连斯基称尊重拜登退选决定",
       "onboard_time": 1721613920,
       "rank": 41,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 198238,
-      "num": 198238,
-      "word": "小猫就这么水灵灵的剃光了",
-      "onboard_time": 1721618661,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 197846,
@@ -859,14 +907,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 174574,
-      "num": 214620,
-      "word": "俄罗斯女子从13楼坠落奇迹生还",
-      "onboard_time": 1721618180,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174328,
       "num": 174328,
       "word": "泰国队员想来中国队宿舍凉快",
@@ -899,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172177,
+      "num": 172177,
+      "word": "留学花30万回国后起薪仅5500元",
+      "onboard_time": 1721623043,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171530,
       "num": 171530,
       "word": "哈里斯能打败特朗普吗",
@@ -929,6 +977,14 @@
       "onboard_time": 1721571621,
       "rank": 28,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 165905,
+      "num": 165905,
+      "word": "少年白马醉春风 女主",
+      "onboard_time": 1721623043,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 161086,
@@ -1115,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117819,
+      "num": 1565028,
+      "word": "夏天最后一个节气来了",
+      "onboard_time": 1721616200,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115602,
       "num": 165545,
       "word": "宋茜回应花少6官宣",
@@ -1139,14 +1203,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 113771,
-      "num": 1565028,
-      "word": "夏天最后一个节气来了",
-      "onboard_time": 1721616200,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 111170,
       "num": 163660,
       "word": "周深TMEA年度男歌手",
@@ -1155,8 +1211,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 105105,
-      "num": 409947,
+      "raw_hot": 108703,
+      "num": 473178,
       "word": "哈里斯称将尽一切努力击败特朗普",
       "onboard_time": 1721621842,
       "rank": 14,
@@ -1344,6 +1400,14 @@
       "word": "白宫官员称拜登退选决定与健康无关",
       "onboard_time": 1721618242,
       "rank": 14,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 27578,
+      "num": 608776,
+      "word": "拜登宣布退选细节曝出",
+      "onboard_time": 1721622803,
+      "rank": 9,
       "category": "国外时政"
     },
     {

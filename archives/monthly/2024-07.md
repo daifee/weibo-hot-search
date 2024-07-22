@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/22 12:23:54
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/22 12:38:08
 </p>
 </blockquote>
 <p>
@@ -755,6 +755,12 @@ Jennie方承认吸烟并道歉（热度：1919980）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23729%E5%A3%B0%E6%98%8E%23" target="weibo">
 729声明（热度：1811932）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AB%A3%E6%99%92%E5%94%87%E8%85%AD%E8%A3%82%E6%89%8B%E6%9C%AF%E7%85%A7%23" target="weibo">
+李嫣晒唇腭裂手术照（热度：1810586）
 </a>
 </li>
 
@@ -1703,12 +1709,6 @@ DK（热度：1341805）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%83%E4%BD%8D%E8%89%BE%E6%BB%8B%E7%97%85%E6%B2%BB%E6%84%88%E8%80%85%E6%88%96%E5%87%BA%E7%8E%B0%23" target="weibo">
 全球第七位艾滋病治愈者或出现（热度：1321262）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AB%A3%E6%99%92%E5%94%87%E8%85%AD%E8%A3%82%E6%89%8B%E6%9C%AF%E7%85%A7%23" target="weibo">
-李嫣晒唇腭裂手术照（热度：1319425）
 </a>
 </li>
 
@@ -5271,6 +5271,12 @@ Miss回应团队背刺郭碧婷（热度：719560）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%B5%B7%E5%BA%95%E7%A1%85%E8%83%B6%E4%BA%BA%E8%84%B8%E9%9D%A2%E5%85%B7%E4%B9%B1%E8%B1%A1%23" target="weibo">
+央视起底硅胶人脸面具乱象（热度：710537）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E6%8A%8A%E5%89%A7%E5%90%8D%E6%8B%8D%E5%87%BA%E6%9D%A5%E4%BA%86%23" target="weibo">
 第一次见把剧名拍出来了（热度：710095）
 </a>
@@ -5609,12 +5615,6 @@ Miss回应团队背刺郭碧婷（热度：719560）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%95%AC%E6%98%8E%E5%AE%98%E5%AE%A3%E4%B8%A4%E9%83%A8%E5%89%A7%23" target="weibo">
 郭敬明官宣两部剧（热度：682182）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%B5%B7%E5%BA%95%E7%A1%85%E8%83%B6%E4%BA%BA%E8%84%B8%E9%9D%A2%E5%85%B7%E4%B9%B1%E8%B1%A1%23" target="weibo">
-央视起底硅胶人脸面具乱象（热度：682118）
 </a>
 </li>
 
