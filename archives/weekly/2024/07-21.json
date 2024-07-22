@@ -1,10 +1,10 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721611567870,
+  "endTime": 1721612884142,
   "band_list": [
     {
-      "raw_hot": 11907933,
-      "num": 11907933,
+      "raw_hot": 13754550,
+      "num": 13754550,
       "word": "中国人民大学声明",
       "onboard_time": 1721609841,
       "rank": 0,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 3359570,
-      "num": 378061,
+      "num": 456758,
       "word": "五一广场车祸",
       "onboard_time": 1721572161,
       "rank": 19,
@@ -291,6 +291,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1051696,
+      "num": 354733,
+      "word": "女子用凤仙花染头发视觉效果炸裂",
+      "onboard_time": 1721610861,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 986928,
       "num": 1139594,
       "word": "宋丹丹张新成演恋人",
@@ -491,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 688643,
+      "num": 688643,
+      "word": "拜登退选前大量烧钱",
+      "onboard_time": 1721608581,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 684592,
       "num": 684592,
       "word": "预制菜已经发展到这个地步了",
@@ -505,6 +521,14 @@
       "onboard_time": 1721553318,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 670039,
+      "num": 670039,
+      "word": "泫雅表演时台下无人应援",
+      "onboard_time": 1721604677,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 667633,
@@ -529,14 +553,6 @@
       "onboard_time": 1721603777,
       "rank": 19,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 649724,
-      "num": 649724,
-      "word": "泫雅表演时台下无人应援",
-      "onboard_time": 1721604677,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 645203,
@@ -577,14 +593,6 @@
       "onboard_time": 1721573844,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 623559,
-      "num": 623559,
-      "word": "拜登退选前大量烧钱",
-      "onboard_time": 1721608581,
-      "rank": 5,
-      "category": "国外时政"
     },
     {
       "raw_hot": 597910,
@@ -652,7 +660,7 @@
     },
     {
       "raw_hot": 550001,
-      "num": 376969,
+      "num": 444439,
       "word": "王迪",
       "onboard_time": 1721606358,
       "rank": 11,
@@ -723,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 519189,
+      "num": 519189,
+      "word": "降息",
+      "onboard_time": 1721611943,
+      "rank": 6,
+      "category": "财经"
+    },
+    {
       "raw_hot": 516186,
       "num": 516186,
       "word": "郁可唯求观众删视频",
@@ -737,6 +753,14 @@
       "onboard_time": 1721486121,
       "rank": 11,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 502878,
+      "num": 502878,
+      "word": "抓娃娃片尾鸣谢沈腾马丽家属",
+      "onboard_time": 1721610981,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 501476,
@@ -811,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 460736,
+      "num": 460736,
+      "word": "1年期5年期LPR均下调10个基点",
+      "onboard_time": 1721611160,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 460262,
       "num": 372029,
       "word": "特朗普称哈里斯更容易被击败",
@@ -835,6 +867,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 456267,
+      "num": 456267,
+      "word": "LPR",
+      "onboard_time": 1721611160,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 452813,
       "num": 452813,
       "word": "郑水晶发文告别错位江娜",
@@ -849,6 +889,14 @@
       "onboard_time": 1721562498,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 445392,
+      "num": 445392,
+      "word": "金泰亨因发麦当劳被抵制",
+      "onboard_time": 1721609120,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 443919,
@@ -979,28 +1027,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 379379,
-      "num": 379379,
-      "word": "1年期5年期LPR均下调10个基点",
-      "onboard_time": 1721611160,
-      "rank": 8,
-      "category": "财经"
-    },
-    {
       "raw_hot": 377759,
       "num": 377759,
       "word": "酱汁鑫鑫豆豆",
       "onboard_time": 1721566040,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 374550,
-      "num": 374550,
-      "word": "金泰亨因发麦当劳被抵制",
-      "onboard_time": 1721609120,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 373272,
@@ -1059,14 +1091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 354733,
-      "num": 354733,
-      "word": "女子用凤仙花染头发视觉效果炸裂",
-      "onboard_time": 1721610861,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 353258,
       "num": 353258,
       "word": "虞书欣和她的七个小i人",
@@ -1099,6 +1123,22 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 335333,
+      "num": 335333,
+      "word": "YG真急了",
+      "onboard_time": 1721610200,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 323200,
+      "num": 323200,
+      "word": "我爷爷总把微信当作写信的软件",
+      "onboard_time": 1721610442,
+      "rank": 42,
+      "category": "情感,互联网"
+    },
+    {
       "raw_hot": 322477,
       "num": 322477,
       "word": "雅安暴雨山洪已致8人遇难",
@@ -1123,12 +1163,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 321912,
-      "num": 321912,
-      "word": "LPR",
-      "onboard_time": 1721611160,
-      "rank": 22,
-      "category": "财经"
+      "raw_hot": 322072,
+      "num": 322072,
+      "word": "杨议怼德云社",
+      "onboard_time": 1721611341,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 314888,
@@ -1259,20 +1299,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 288654,
+      "num": 288654,
+      "word": "别剪短发你会后悔的",
+      "onboard_time": 1721608942,
+      "rank": 24,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 285796,
       "num": 214971,
       "word": "发烫的手机一下就降温了",
       "onboard_time": 1721488881,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 280941,
-      "num": 280941,
-      "word": "别剪短发你会后悔的",
-      "onboard_time": 1721608942,
-      "rank": 24,
-      "category": "美妆"
     },
     {
       "raw_hot": 278593,
@@ -1297,14 +1337,6 @@
       "onboard_time": 1721550678,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 273878,
-      "num": 273878,
-      "word": "YG真急了",
-      "onboard_time": 1721610200,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 269008,
@@ -1385,14 +1417,6 @@
       "onboard_time": 1721572161,
       "rank": 30,
       "category": "艺人,电竞"
-    },
-    {
-      "raw_hot": 256789,
-      "num": 256789,
-      "word": "抓娃娃片尾鸣谢沈腾马丽家属",
-      "onboard_time": 1721610981,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 256031,
@@ -1603,6 +1627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 217492,
+      "num": 217492,
+      "word": "aespa到上海了",
+      "onboard_time": 1721607379,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 216930,
       "num": 216930,
       "word": "反对任何形式的暴力伤医",
@@ -1665,6 +1697,14 @@
       "onboard_time": 1721568860,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 209288,
+      "num": 379146,
+      "word": "2名护士为救晕倒乘客错过火车",
+      "onboard_time": 1721609900,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 207720,
@@ -1771,6 +1811,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 201971,
+      "num": 201971,
+      "word": "人民大学称对师德失范行为零容忍",
+      "onboard_time": 1721612599,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201815,
       "num": 201815,
       "word": "阚清子曾投资餐厅失败",
@@ -1865,14 +1913,6 @@
       "onboard_time": 1721567420,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 198748,
-      "num": 198748,
-      "word": "aespa到上海了",
-      "onboard_time": 1721607379,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 198473,
@@ -2091,6 +2131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189418,
+      "num": 189418,
+      "word": "奶茶店都不要35岁以上的了",
+      "onboard_time": 1721606841,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189403,
       "num": 189403,
       "word": "皮亚斯特里F1生涯首冠",
@@ -2131,12 +2179,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187178,
-      "num": 187178,
-      "word": "杨议怼德云社",
-      "onboard_time": 1721611341,
+      "raw_hot": 187035,
+      "num": 187035,
+      "word": "100万元房贷30年减少2.1万",
+      "onboard_time": 1721612661,
       "rank": 40,
-      "category": "艺人"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186697,
@@ -2195,14 +2243,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 181261,
-      "num": 181261,
-      "word": "我爷爷总把微信当作写信的软件",
-      "onboard_time": 1721610442,
-      "rank": 42,
-      "category": "情感,互联网"
-    },
-    {
       "raw_hot": 180250,
       "num": 357413,
       "word": "特朗普遭枪击后首次现身竞选集会",
@@ -2233,6 +2273,14 @@
       "onboard_time": 1721558958,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177904,
+      "num": 177904,
+      "word": "三伏与三暑是一回事吗",
+      "onboard_time": 1721611881,
+      "rank": 43,
+      "category": "科学科普"
     },
     {
       "raw_hot": 177730,
@@ -2336,6 +2384,14 @@
       "word": "网上的皮肤vs实际的皮肤",
       "onboard_time": 1721559018,
       "rank": 30,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 174009,
+      "num": 174009,
+      "word": "说一个免费变美的冷知识",
+      "onboard_time": 1721612481,
+      "rank": 45,
       "category": "美妆"
     },
     {
@@ -3299,14 +3355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 109720,
-      "num": 379146,
-      "word": "2名护士为救晕倒乘客错过火车",
-      "onboard_time": 1721609900,
-      "rank": 9,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 109620,
       "num": 87666,
       "word": "新疆尉犁县4.5级地震",
@@ -4089,6 +4137,14 @@
       "onboard_time": 1721497634,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 10706,
+      "num": 456851,
+      "word": "四川汛期24小时求助平台",
+      "onboard_time": 1721607560,
+      "rank": 9,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

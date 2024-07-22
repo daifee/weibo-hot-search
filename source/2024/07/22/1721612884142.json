@@ -1,0 +1,410 @@
+{
+  "runTime": 1721612884142,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 13754550,
+        "num": 13754550,
+        "word": "中国人民大学声明",
+        "onboard_time": 1721609841,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3895694,
+        "num": 3895694,
+        "word": "拜登退选",
+        "onboard_time": 1721585473,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 77208,
+        "num": 893258,
+        "word": "打卡课本里的大美中国",
+        "onboard_time": 1721568920,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 726225,
+        "num": 726225,
+        "word": "哈里斯发声称赞拜登",
+        "onboard_time": 1721606420,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 688643,
+        "num": 688643,
+        "word": "拜登退选前大量烧钱",
+        "onboard_time": 1721608581,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 670039,
+        "num": 670039,
+        "word": "泫雅表演时台下无人应援",
+        "onboard_time": 1721604677,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 519189,
+        "num": 519189,
+        "word": "降息",
+        "onboard_time": 1721611943,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 502878,
+        "num": 502878,
+        "word": "抓娃娃片尾鸣谢沈腾马丽家属",
+        "onboard_time": 1721610981,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 460736,
+        "num": 460736,
+        "word": "1年期5年期LPR均下调10个基点",
+        "onboard_time": 1721611160,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 10706,
+        "num": 456851,
+        "word": "四川汛期24小时求助平台",
+        "onboard_time": 1721607560,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552986,
+        "num": 456758,
+        "word": "五一广场车祸",
+        "onboard_time": 1721572161,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 456267,
+        "num": 456267,
+        "word": "LPR",
+        "onboard_time": 1721611160,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 445392,
+        "num": 445392,
+        "word": "金泰亨因发麦当劳被抵制",
+        "onboard_time": 1721609120,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444439,
+        "num": 444439,
+        "word": "王迪",
+        "onboard_time": 1721606358,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434186,
+        "num": 434186,
+        "word": "男子称给霸王茶姬差评后被找上门",
+        "onboard_time": 1721581396,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425018,
+        "num": 425018,
+        "word": "虎门一公职人员贩毒被执行死刑",
+        "onboard_time": 1721571982,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369053,
+        "num": 369053,
+        "word": "特朗普称哈里斯更容易被击败",
+        "onboard_time": 1721589071,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 356533,
+        "num": 356533,
+        "word": "克林顿和希拉里表态支持哈里斯",
+        "onboard_time": 1721606420,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 335333,
+        "num": 335333,
+        "word": "YG真急了",
+        "onboard_time": 1721610200,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333011,
+        "num": 333011,
+        "word": "外媒称奥巴马没支持哈里斯",
+        "onboard_time": 1721610321,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1051696,
+        "num": 330681,
+        "word": "女子用凤仙花染头发视觉效果炸裂",
+        "onboard_time": 1721610861,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604112,
+        "num": 327866,
+        "word": "特朗普回应拜登退选",
+        "onboard_time": 1721588592,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 371835,
+        "num": 326611,
+        "word": "给老公带了35天中饭瘦了20斤",
+        "onboard_time": 1721605639,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 324115,
+        "num": 324115,
+        "word": "为什么现在很少看到灾难片了",
+        "onboard_time": 1721576899,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 323200,
+        "num": 323200,
+        "word": "我爷爷总把微信当作写信的软件",
+        "onboard_time": 1721610442,
+        "rank": 24,
+        "category": "情感,互联网"
+      },
+      {
+        "raw_hot": 322072,
+        "num": 322072,
+        "word": "杨议怼德云社",
+        "onboard_time": 1721611341,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317138,
+        "num": 317138,
+        "word": "拜登支持哈里斯竞选",
+        "onboard_time": 1721586613,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 288654,
+        "num": 288654,
+        "word": "别剪短发你会后悔的",
+        "onboard_time": 1721608942,
+        "rank": 27,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 285283,
+        "num": 285283,
+        "word": "虞书欣和她的七个小i人",
+        "onboard_time": 1721606240,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242632,
+        "num": 242632,
+        "word": "成都暴雨",
+        "onboard_time": 1721609061,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241669,
+        "num": 241669,
+        "word": "做过近视眼手术的人嘴都这么严吗",
+        "onboard_time": 1721569461,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 217492,
+        "num": 217492,
+        "word": "aespa到上海了",
+        "onboard_time": 1721607379,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 209288,
+        "num": 209288,
+        "word": "2名护士为救晕倒乘客错过火车",
+        "onboard_time": 1721609900,
+        "rank": 32,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 209270,
+        "num": 209270,
+        "word": "全红婵哥哥姐姐来京送妹妹出征巴黎",
+        "onboard_time": 1721605458,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201971,
+        "num": 201971,
+        "word": "人民大学称对师德失范行为零容忍",
+        "onboard_time": 1721612599,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201900,
+        "num": 201900,
+        "word": "哈里斯",
+        "onboard_time": 1721603777,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 196629,
+        "num": 196629,
+        "word": "BLACKPINK将明年回归",
+        "onboard_time": 1721605039,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193722,
+        "num": 193722,
+        "word": "2NE1确定重组",
+        "onboard_time": 1721603536,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191276,
+        "num": 191276,
+        "word": "台风",
+        "onboard_time": 1721605519,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189418,
+        "num": 189418,
+        "word": "奶茶店都不要35岁以上的了",
+        "onboard_time": 1721606841,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187035,
+        "num": 187035,
+        "word": "100万元房贷30年减少2.1万",
+        "onboard_time": 1721612661,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184792,
+        "num": 184792,
+        "word": "华晨宇说不要再说我写的歌很难了",
+        "onboard_time": 1721604437,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177920,
+        "num": 177920,
+        "word": "男女店内亲热被店家请离后给差评",
+        "onboard_time": 1721572042,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177904,
+        "num": 177904,
+        "word": "三伏与三暑是一回事吗",
+        "onboard_time": 1721611881,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 175762,
+        "num": 175762,
+        "word": "胎儿检出超雄孕妇完成终止妊娠手术",
+        "onboard_time": 1721562979,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174009,
+        "num": 174009,
+        "word": "说一个免费变美的冷知识",
+        "onboard_time": 1721612481,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 171810,
+        "num": 171810,
+        "word": "陈震 韩路",
+        "onboard_time": 1721607560,
+        "rank": 46,
+        "category": "数码,网红"
+      },
+      {
+        "raw_hot": 162901,
+        "num": 162901,
+        "word": "郑晓龙流潋紫二搭",
+        "onboard_time": 1721606060,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150778,
+        "num": 150778,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1721606960,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150064,
+        "num": 150064,
+        "word": "中菲就管控仁爱礁局势达成临时性安排",
+        "onboard_time": 1721609180,
+        "rank": 49,
+        "category": "国内时政,军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#关于二十届三中全会决定的说明#"
+    }
+  }
+}
