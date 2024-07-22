@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721618600329,
+  "endTime": 1721619429788,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -347,6 +347,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 916175,
+      "num": 315771,
+      "word": "为什么空调一关立刻就变热了",
+      "onboard_time": 1721614220,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 891991,
+      "num": 891991,
+      "word": "女教师连捐两次生命种子救一人",
+      "onboard_time": 1721615540,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 888452,
       "num": 873373,
       "word": "陈好 花少6大姐",
@@ -403,14 +419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 829980,
-      "num": 829980,
-      "word": "女教师连捐两次生命种子救一人",
-      "onboard_time": 1721615540,
-      "rank": 9,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 820128,
       "num": 688643,
       "word": "拜登退选前大量烧钱",
@@ -465,14 +473,6 @@
       "onboard_time": 1721538318,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 756246,
-      "num": 310908,
-      "word": "为什么空调一关立刻就变热了",
-      "onboard_time": 1721614220,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 745765,
@@ -691,6 +691,14 @@
       "category": "时尚,社会新闻"
     },
     {
+      "raw_hot": 564306,
+      "num": 449693,
+      "word": "赵丽颖轻妆进组",
+      "onboard_time": 1721618481,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 560534,
       "num": 463288,
       "word": "花儿与少年直播",
@@ -883,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 468028,
+      "num": 442988,
+      "word": "大哥远停播",
+      "onboard_time": 1721614940,
+      "rank": 17,
+      "category": "网红"
+    },
+    {
       "raw_hot": 460736,
       "num": 460736,
       "word": "1年期5年期LPR均下调10个基点",
@@ -897,6 +913,14 @@
       "onboard_time": 1721589071,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 459757,
+      "num": 310294,
+      "word": "耶耶 还有哪位要摸吗",
+      "onboard_time": 1721617941,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 459665,
@@ -921,6 +945,14 @@
       "onboard_time": 1721611160,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 454573,
+      "num": 349974,
+      "word": "刘亦菲高马尾新中式",
+      "onboard_time": 1721618661,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 452813,
@@ -953,14 +985,6 @@
       "onboard_time": 1721527999,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 442988,
-      "num": 442988,
-      "word": "大哥远停播",
-      "onboard_time": 1721614940,
-      "rank": 17,
-      "category": "网红"
     },
     {
       "raw_hot": 442604,
@@ -1025,14 +1049,6 @@
       "onboard_time": 1721557757,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 411158,
-      "num": 304766,
-      "word": "耶耶 还有哪位要摸吗",
-      "onboard_time": 1721617941,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 408319,
@@ -1121,6 +1137,14 @@
       "onboard_time": 1721566040,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 377619,
+      "num": 377619,
+      "word": "冯小刚赵丽颖是第二次合作",
+      "onboard_time": 1721618602,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 373272,
@@ -1275,14 +1299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 314401,
-      "num": 314401,
-      "word": "赵丽颖轻妆进组",
-      "onboard_time": 1721618481,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 312013,
       "num": 312013,
       "word": "涂山璟角色热度破1亿",
@@ -1419,6 +1435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 285126,
+      "num": 285126,
+      "word": "气血不足就要多出去玩",
+      "onboard_time": 1721618961,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 278593,
       "num": 278593,
       "word": "BLACKPINK将明年回归",
@@ -1441,6 +1465,14 @@
       "onboard_time": 1721550678,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 271860,
+      "num": 271860,
+      "word": "唐诡西行第二案硬核推理",
+      "onboard_time": 1721617820,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 269008,
@@ -1585,14 +1617,6 @@
       "onboard_time": 1721540420,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 242933,
-      "num": 242933,
-      "word": "唐诡西行第二案硬核推理",
-      "onboard_time": 1721617820,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 242742,
@@ -1747,6 +1771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 220568,
+      "num": 220568,
+      "word": "樊振东说对冠军的渴望依旧强烈",
+      "onboard_time": 1721618481,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220374,
       "num": 220374,
       "word": "F1",
@@ -1843,6 +1875,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 207998,
+      "num": 207998,
+      "word": "不婚不育的年轻人涌入阜新买低价房",
+      "onboard_time": 1721618961,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207720,
       "num": 207720,
       "word": "陕西垮塌桥4公里外发现2辆失联车",
@@ -1881,6 +1921,14 @@
       "onboard_time": 1721567121,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 205267,
+      "num": 205267,
+      "word": "向阳花",
+      "onboard_time": 1721618301,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 205102,
@@ -2395,6 +2443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182995,
+      "num": 182995,
+      "word": "小猫就这么水灵灵的剃光了",
+      "onboard_time": 1721618661,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 182912,
       "num": 182912,
       "word": "本周狗屎运最旺的星座",
@@ -2425,14 +2481,6 @@
       "onboard_time": 1721568680,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 179264,
-      "num": 177391,
-      "word": "向阳花",
-      "onboard_time": 1721618301,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 178517,
@@ -2587,14 +2635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 172838,
-      "num": 172838,
-      "word": "樊振东说对冠军的渴望依旧强烈",
-      "onboard_time": 1721618481,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 172821,
       "num": 213619,
       "word": "小尖尖",
@@ -2609,6 +2649,14 @@
       "onboard_time": 1721548338,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172331,
+      "num": 245458,
+      "word": "俄罗斯一女子2拳击倒搭讪男子",
+      "onboard_time": 1721616380,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171530,
@@ -2785,6 +2833,22 @@
       "onboard_time": 1721528479,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 158880,
+      "num": 158880,
+      "word": "拜登家人谈其退选原因",
+      "onboard_time": 1721618961,
+      "rank": 45,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 156529,
+      "num": 156529,
+      "word": "感染尼帕病毒死亡率高达75%",
+      "onboard_time": 1721617280,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155987,
@@ -3001,6 +3065,14 @@
       "onboard_time": 1721531599,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 143764,
+      "num": 420888,
+      "word": "央视起底硅胶人脸面具乱象",
+      "onboard_time": 1721617820,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143651,
@@ -3731,14 +3803,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 89333,
-      "num": 400864,
-      "word": "央视起底硅胶人脸面具乱象",
-      "onboard_time": 1721617820,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 88661,
       "num": 934637,
       "word": "30秒速览巴黎奥运中国代表团阵容",
@@ -4243,6 +4307,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 28437,
+      "num": 383430,
+      "word": "白宫官员称拜登退选决定与健康无关",
+      "onboard_time": 1721618242,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 26867,
       "num": 219232,
       "word": "考上同一军校双胞胎收到录取通知书了",
@@ -4273,14 +4345,6 @@
       "onboard_time": 1721587933,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 25384,
-      "num": 363206,
-      "word": "白宫官员称拜登退选决定与健康无关",
-      "onboard_time": 1721618242,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 24108,
@@ -4344,14 +4408,6 @@
       "word": "高速垮塌灾害亲历者讲述获救情形",
       "onboard_time": 1721505732,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20355,
-      "num": 245458,
-      "word": "俄罗斯一女子2拳击倒搭讪男子",
-      "onboard_time": 1721616380,
-      "rank": 29,
       "category": "社会新闻"
     },
     {

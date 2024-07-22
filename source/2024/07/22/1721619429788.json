@@ -1,0 +1,410 @@
+{
+  "runTime": 1721619429788,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9802385,
+        "num": 9802385,
+        "word": "中国人民大学声明",
+        "onboard_time": 1721609841,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1558703,
+        "num": 1558703,
+        "word": "赵丽颖领衔主演冯小刚新片",
+        "onboard_time": 1721614281,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96848,
+        "num": 1254645,
+        "word": "夏天最后一个节气来了",
+        "onboard_time": 1721616200,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1145339,
+        "num": 1145339,
+        "word": "拜登退选",
+        "onboard_time": 1721585473,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 891991,
+        "num": 891991,
+        "word": "女教师连捐两次生命种子救一人",
+        "onboard_time": 1721615540,
+        "rank": 4,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 466377,
+        "num": 466377,
+        "word": "哈里斯发声称赞拜登",
+        "onboard_time": 1721606420,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 564306,
+        "num": 449693,
+        "word": "赵丽颖轻妆进组",
+        "onboard_time": 1721618481,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 468028,
+        "num": 440855,
+        "word": "大哥远停播",
+        "onboard_time": 1721614940,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 421552,
+        "num": 421552,
+        "word": "杨志刚演技",
+        "onboard_time": 1721614220,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143764,
+        "num": 420888,
+        "word": "央视起底硅胶人脸面具乱象",
+        "onboard_time": 1721617820,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1508287,
+        "num": 420858,
+        "word": "海底捞真的越来越颠了",
+        "onboard_time": 1721614039,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 485790,
+        "num": 420838,
+        "word": "拜登退选前大量烧钱",
+        "onboard_time": 1721608581,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 420777,
+        "num": 420777,
+        "word": "100万元房贷30年减少2.1万",
+        "onboard_time": 1721612661,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392916,
+        "num": 392916,
+        "word": "人民大学称对师德失范行为零容忍",
+        "onboard_time": 1721612599,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28437,
+        "num": 383430,
+        "word": "白宫官员称拜登退选决定与健康无关",
+        "onboard_time": 1721618242,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 377619,
+        "num": 377619,
+        "word": "冯小刚赵丽颖是第二次合作",
+        "onboard_time": 1721618602,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 355875,
+        "num": 355875,
+        "word": "降息",
+        "onboard_time": 1721611943,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 454573,
+        "num": 349974,
+        "word": "刘亦菲高马尾新中式",
+        "onboard_time": 1721618661,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 331017,
+        "num": 331017,
+        "word": "马斯克换头像庆祝拜登退选",
+        "onboard_time": 1721614281,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 318525,
+        "num": 318525,
+        "word": "五一广场车祸",
+        "onboard_time": 1721572161,
+        "rank": 19,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 916175,
+        "num": 315771,
+        "word": "为什么空调一关立刻就变热了",
+        "onboard_time": 1721614220,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 459757,
+        "num": 310294,
+        "word": "耶耶 还有哪位要摸吗",
+        "onboard_time": 1721617941,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 362552,
+        "num": 308917,
+        "word": "女子用凤仙花染头发视觉效果炸裂",
+        "onboard_time": 1721610861,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356983,
+        "num": 304188,
+        "word": "因为高中有朋友啊",
+        "onboard_time": 1721613440,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300373,
+        "num": 300373,
+        "word": "王迪",
+        "onboard_time": 1721606358,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285586,
+        "num": 285586,
+        "word": "抓娃娃片尾鸣谢沈腾马丽家属",
+        "onboard_time": 1721610981,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 285126,
+        "num": 285126,
+        "word": "气血不足就要多出去玩",
+        "onboard_time": 1721618961,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 271860,
+        "num": 271860,
+        "word": "唐诡西行第二案硬核推理",
+        "onboard_time": 1721617820,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252634,
+        "num": 252634,
+        "word": "易烊千玺刘艳芬年度实体专辑",
+        "onboard_time": 1721615301,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 247778,
+        "num": 247778,
+        "word": "特朗普称哈里斯更容易被击败",
+        "onboard_time": 1721589071,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 242180,
+        "num": 242180,
+        "word": "男子称给霸王茶姬差评后被找上门",
+        "onboard_time": 1721581396,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224641,
+        "num": 224641,
+        "word": "泫雅表演时台下无人应援",
+        "onboard_time": 1721604677,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 220568,
+        "num": 220568,
+        "word": "樊振东说对冠军的渴望依旧强烈",
+        "onboard_time": 1721618481,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207998,
+        "num": 207998,
+        "word": "不婚不育的年轻人涌入阜新买低价房",
+        "onboard_time": 1721618961,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206826,
+        "num": 206826,
+        "word": "特朗普回应拜登退选",
+        "onboard_time": 1721588592,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 205267,
+        "num": 205267,
+        "word": "向阳花",
+        "onboard_time": 1721618301,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202395,
+        "num": 202395,
+        "word": "拜登支持哈里斯竞选",
+        "onboard_time": 1721586613,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 199592,
+        "num": 199592,
+        "word": "央行宣布降息10个基点",
+        "onboard_time": 1721613440,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 185911,
+        "num": 185911,
+        "word": "金泰亨因发麦当劳被抵制",
+        "onboard_time": 1721609120,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182995,
+        "num": 182995,
+        "word": "小猫就这么水灵灵的剃光了",
+        "onboard_time": 1721618661,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177487,
+        "num": 177487,
+        "word": "YG真急了",
+        "onboard_time": 1721610200,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177037,
+        "num": 177037,
+        "word": "拜登退选后家人感到如释重负",
+        "onboard_time": 1721615419,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 176912,
+        "num": 176912,
+        "word": "我爷爷总把微信当作写信的软件",
+        "onboard_time": 1721610442,
+        "rank": 42,
+        "category": "情感,互联网"
+      },
+      {
+        "raw_hot": 172331,
+        "num": 172331,
+        "word": "俄罗斯一女子2拳击倒搭讪男子",
+        "onboard_time": 1721616380,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170445,
+        "num": 170445,
+        "word": "哈里斯能打败特朗普吗",
+        "onboard_time": 1721613920,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 158880,
+        "num": 158880,
+        "word": "拜登家人谈其退选原因",
+        "onboard_time": 1721618961,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 156529,
+        "num": 156529,
+        "word": "感染尼帕病毒死亡率高达75%",
+        "onboard_time": 1721617280,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153189,
+        "num": 153189,
+        "word": "泽连斯基称尊重拜登退选决定",
+        "onboard_time": 1721613920,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 151780,
+        "num": 151780,
+        "word": "给老公带了35天中饭瘦了20斤",
+        "onboard_time": 1721605639,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143931,
+        "num": 143931,
+        "word": "A股",
+        "onboard_time": 1721614640,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#权威速览三中全会决定#"
+    }
+  }
+}
