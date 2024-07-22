@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721626652205,
+  "endTime": 1721629699538,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -2777,6 +2777,14 @@
       "onboard_time": 1720774218,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1187849,
+      "num": 1187849,
+      "word": "郑佩佩儿子发文",
+      "onboard_time": 1721627660,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1187056,
@@ -10243,6 +10251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 556895,
+      "num": 462647,
+      "word": "罗志祥杭州线下见面会",
+      "onboard_time": 1721625621,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 556784,
       "num": 324067,
       "word": "张志杰比赛中猝死谁之过",
@@ -10449,6 +10465,14 @@
       "onboard_time": 1720483998,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 550690,
+      "num": 550690,
+      "word": "乌合麒麟还原中国百年体育史",
+      "onboard_time": 1721624422,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 550649,
@@ -11763,14 +11787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 504152,
-      "num": 462647,
-      "word": "罗志祥杭州线下见面会",
-      "onboard_time": 1721625621,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 504020,
       "num": 277300,
       "word": "TFBOYS同时上热搜变相合体",
@@ -12233,6 +12249,14 @@
       "onboard_time": 1720083498,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 492628,
+      "num": 492628,
+      "word": "陈昊宇回应咖位最低的冠军标签",
+      "onboard_time": 1721627660,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 492359,
@@ -13889,6 +13913,14 @@
       "onboard_time": 1720149077,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 448719,
+      "num": 448719,
+      "word": "美国会迎来历史上首位女总统吗",
+      "onboard_time": 1721624603,
+      "rank": 41,
+      "category": "国外时政"
     },
     {
       "raw_hot": 448325,
@@ -16299,6 +16331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 394479,
+      "num": 394479,
+      "word": "秦昊忙求婚伊能静忙补妆",
+      "onboard_time": 1721628501,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 394472,
       "num": 277778,
       "word": "羽毛球赛程密集频遭选手吐槽",
@@ -16953,14 +16993,6 @@
       "onboard_time": 1720839737,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 377811,
-      "num": 377811,
-      "word": "乌合麒麟还原中国百年体育史",
-      "onboard_time": 1721624422,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 377759,
@@ -20619,6 +20651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 302618,
+      "num": 302618,
+      "word": "惠英红文淇荣梓杉 游神供火恐怖片",
+      "onboard_time": 1721622682,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 302614,
       "num": 302614,
       "word": "赵丽颖南京活动",
@@ -20777,6 +20817,14 @@
       "onboard_time": 1720883059,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 299495,
+      "num": 279632,
+      "word": "赵丽颖沈雨出狱生活",
+      "onboard_time": 1721628680,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 299283,
@@ -21129,6 +21177,14 @@
       "onboard_time": 1720510819,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 291700,
+      "num": 291700,
+      "word": "漫展的cos越来越抽象了",
+      "onboard_time": 1721627061,
+      "rank": 19,
+      "category": "动漫"
     },
     {
       "raw_hot": 291626,
@@ -22723,14 +22779,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 266004,
-      "num": 266004,
-      "word": "美国会迎来历史上首位女总统吗",
-      "onboard_time": 1721624603,
-      "rank": 41,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 265828,
       "num": 265828,
       "word": "西班牙2比1法国",
@@ -22953,14 +23001,6 @@
       "onboard_time": 1719796820,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 261815,
-      "num": 261815,
-      "word": "惠英红文淇荣梓杉 游神供火恐怖片",
-      "onboard_time": 1721622682,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 261796,
@@ -25947,6 +25987,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 227141,
+      "num": 227141,
+      "word": "全红婵到巴黎说的第一个笑话",
+      "onboard_time": 1721627061,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 227120,
       "num": 227120,
       "word": "东北冷面大大方方的",
@@ -27649,6 +27697,14 @@
       "onboard_time": 1721395161,
       "rank": 48,
       "category": "游戏,运动健身"
+    },
+    {
+      "raw_hot": 212213,
+      "num": 212213,
+      "word": "迪丽热巴无袖小香",
+      "onboard_time": 1721629580,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 212196,
@@ -30459,6 +30515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198921,
+      "num": 198921,
+      "word": "陆虎巡演抢票",
+      "onboard_time": 1721629220,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 198913,
       "num": 198913,
       "word": "美洲杯",
@@ -31025,6 +31089,14 @@
       "onboard_time": 1720407858,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196840,
+      "num": 196840,
+      "word": "媒体评人大女博士举报导师性骚扰",
+      "onboard_time": 1721629101,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196825,
@@ -32491,6 +32563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190987,
+      "num": 190987,
+      "word": "全红婵说没睡觉就来训练了",
+      "onboard_time": 1721626221,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190981,
       "num": 190981,
       "word": "长相思大荒招生简章",
@@ -32641,6 +32721,14 @@
       "onboard_time": 1721268558,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190526,
+      "num": 190526,
+      "word": "娜然戴头纱和我双向奔赴了",
+      "onboard_time": 1721628861,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 190498,
@@ -33817,14 +33905,6 @@
       "onboard_time": 1720085957,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 185076,
-      "num": 185076,
-      "word": "全红婵说没睡觉就来训练了",
-      "onboard_time": 1721626221,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 185064,
@@ -35931,6 +36011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 174827,
+      "num": 174827,
+      "word": "异人之下",
+      "onboard_time": 1721627958,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 174822,
       "num": 174822,
       "word": "歌手",
@@ -36521,6 +36609,14 @@
       "onboard_time": 1720493477,
       "rank": 33,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 172170,
+      "num": 172170,
+      "word": "深圳116套房源不到3小时售罄",
+      "onboard_time": 1721625980,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172162,
@@ -39611,6 +39707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157152,
+      "num": 157152,
+      "word": "谁去横店把陈哲远网线拔了",
+      "onboard_time": 1721629580,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157140,
       "num": 157140,
       "word": "野孩子终极预告",
@@ -40641,6 +40745,14 @@
       "onboard_time": 1719755840,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152959,
+      "num": 152959,
+      "word": "江西一地出现教师严重短缺",
+      "onboard_time": 1721629460,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152953,
@@ -41881,6 +41993,14 @@
       "onboard_time": 1721012598,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 147435,
+      "num": 147435,
+      "word": "再考清华当事人恭喜唐尚珺",
+      "onboard_time": 1721628079,
+      "rank": 45,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 147340,
@@ -56361,6 +56481,14 @@
       "onboard_time": 1719814519,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 63301,
+      "num": 474020,
+      "word": "用吸管自制梦幻泡泡机",
+      "onboard_time": 1721628861,
+      "rank": 9,
+      "category": "休闲"
     },
     {
       "raw_hot": 63300,

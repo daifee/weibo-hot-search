@@ -1,6 +1,6 @@
 {
   "startTime": 1721579123353,
-  "endTime": 1721626652205,
+  "endTime": 1721629699538,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -97,6 +97,14 @@
       "onboard_time": 1721585593,
       "rank": 0,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1187849,
+      "num": 1187849,
+      "word": "郑佩佩儿子发文",
+      "onboard_time": 1721627660,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1184100,
@@ -291,12 +299,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 556895,
+      "num": 462647,
+      "word": "罗志祥杭州线下见面会",
+      "onboard_time": 1721625621,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 554045,
       "num": 554045,
       "word": "100万元房贷30年减少2.1万",
       "onboard_time": 1721612661,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 550690,
+      "num": 550690,
+      "word": "乌合麒麟还原中国百年体育史",
+      "onboard_time": 1721624422,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 550001,
@@ -355,14 +379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 504152,
-      "num": 462647,
-      "word": "罗志祥杭州线下见面会",
-      "onboard_time": 1721625621,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 496255,
       "num": 496255,
       "word": "肖战滑滑梯颠屁股",
@@ -377,6 +393,14 @@
       "onboard_time": 1721606420,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 492628,
+      "num": 492628,
+      "word": "陈昊宇回应咖位最低的冠军标签",
+      "onboard_time": 1721627660,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 488158,
@@ -451,6 +475,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 448719,
+      "num": 448719,
+      "word": "美国会迎来历史上首位女总统吗",
+      "onboard_time": 1721624603,
+      "rank": 41,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 445392,
       "num": 445392,
       "word": "金泰亨因发麦当劳被抵制",
@@ -515,20 +547,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 394479,
+      "num": 394479,
+      "word": "秦昊忙求婚伊能静忙补妆",
+      "onboard_time": 1721628501,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 389457,
       "num": 323200,
       "word": "我爷爷总把微信当作写信的软件",
       "onboard_time": 1721610442,
       "rank": 42,
       "category": "情感,互联网"
-    },
-    {
-      "raw_hot": 377811,
-      "num": 377811,
-      "word": "乌合麒麟还原中国百年体育史",
-      "onboard_time": 1721624422,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 369786,
@@ -603,6 +635,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302618,
+      "num": 302618,
+      "word": "惠英红文淇荣梓杉 游神供火恐怖片",
+      "onboard_time": 1721622682,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 299495,
+      "num": 279632,
+      "word": "赵丽颖沈雨出狱生活",
+      "onboard_time": 1721628680,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 291700,
+      "num": 291700,
+      "word": "漫展的cos越来越抽象了",
+      "onboard_time": 1721627061,
+      "rank": 19,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 288654,
       "num": 288654,
       "word": "别剪短发你会后悔的",
@@ -659,28 +715,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 266004,
-      "num": 266004,
-      "word": "美国会迎来历史上首位女总统吗",
-      "onboard_time": 1721624603,
-      "rank": 41,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 263909,
       "num": 263909,
       "word": "房贷利率有望进入2字头时代",
       "onboard_time": 1721622383,
       "rank": 38,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 261815,
-      "num": 261815,
-      "word": "惠英红文淇荣梓杉 游神供火恐怖片",
-      "onboard_time": 1721622682,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 257402,
@@ -763,6 +803,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 228423,
+      "num": 228423,
+      "word": "饿了么免单",
+      "onboard_time": 1721625021,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 227141,
+      "num": 227141,
+      "word": "全红婵到巴黎说的第一个笑话",
+      "onboard_time": 1721627061,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 226563,
       "num": 608776,
       "word": "拜登宣布退选细节曝出",
@@ -827,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212213,
+      "num": 212213,
+      "word": "迪丽热巴无袖小香",
+      "onboard_time": 1721629580,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 210000,
       "num": 379146,
       "word": "2名护士为救晕倒乘客错过火车",
@@ -883,6 +947,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198921,
+      "num": 198921,
+      "word": "陆虎巡演抢票",
+      "onboard_time": 1721629220,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 198385,
       "num": 198385,
       "word": "泽连斯基称尊重拜登退选决定",
@@ -897,6 +969,14 @@
       "onboard_time": 1721576721,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196840,
+      "num": 196840,
+      "word": "媒体评人大女博士举报导师性骚扰",
+      "onboard_time": 1721629101,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196328,
@@ -955,12 +1035,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190184,
-      "num": 190184,
-      "word": "饿了么免单",
-      "onboard_time": 1721625021,
-      "rank": 44,
-      "category": "互联网"
+      "raw_hot": 190987,
+      "num": 190987,
+      "word": "全红婵说没睡觉就来训练了",
+      "onboard_time": 1721626221,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 190526,
+      "num": 190526,
+      "word": "娜然戴头纱和我双向奔赴了",
+      "onboard_time": 1721628861,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 189587,
@@ -1001,14 +1089,6 @@
       "onboard_time": 1721617461,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 185076,
-      "num": 185076,
-      "word": "全红婵说没睡觉就来训练了",
-      "onboard_time": 1721626221,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 183586,
@@ -1083,6 +1163,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 174827,
+      "num": 174827,
+      "word": "异人之下",
+      "onboard_time": 1721627958,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 174468,
       "num": 174468,
       "word": "航海王官方入驻微博",
@@ -1129,6 +1217,14 @@
       "onboard_time": 1721467338,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172170,
+      "num": 172170,
+      "word": "深圳116套房源不到3小时售罄",
+      "onboard_time": 1721625980,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171530,
@@ -1187,6 +1283,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 157152,
+      "num": 157152,
+      "word": "谁去横店把陈哲远网线拔了",
+      "onboard_time": 1721629580,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156529,
       "num": 156529,
       "word": "感染尼帕病毒死亡率高达75%",
@@ -1235,6 +1339,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 152959,
+      "num": 152959,
+      "word": "江西一地出现教师严重短缺",
+      "onboard_time": 1721629460,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152828,
       "num": 164276,
       "word": "薛之谦压轴",
@@ -1273,6 +1385,14 @@
       "onboard_time": 1721603415,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147435,
+      "num": 147435,
+      "word": "再考清华当事人恭喜唐尚珺",
+      "onboard_time": 1721628079,
+      "rank": 45,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 133122,
@@ -1513,6 +1633,14 @@
       "onboard_time": 1721613499,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63301,
+      "num": 474020,
+      "word": "用吸管自制梦幻泡泡机",
+      "onboard_time": 1721628861,
+      "rank": 9,
+      "category": "休闲"
     },
     {
       "raw_hot": 59336,
