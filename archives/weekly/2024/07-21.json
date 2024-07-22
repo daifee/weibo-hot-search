@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721648086248,
+  "endTime": 1721651895717,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 11964554,
-      "num": 13214554,
+      "raw_hot": 13593460,
+      "num": 13593460,
       "word": "人大通报王某某性骚扰",
       "onboard_time": 1721647102,
       "rank": 0,
@@ -139,6 +139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 2077088,
+      "num": 888197,
+      "word": "高亚麟 久于善良终于人品",
+      "onboard_time": 1721646021,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2077038,
       "num": 250810,
       "word": "人大教授王贵元 性骚扰",
@@ -193,14 +201,6 @@
       "onboard_time": 1721548998,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1687938,
-      "num": 888197,
-      "word": "高亚麟 久于善良终于人品",
-      "onboard_time": 1721646021,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 1661891,
@@ -425,6 +425,14 @@
       "onboard_time": 1721541439,
       "rank": 4,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1114237,
+      "num": 1114237,
+      "word": "相柳战死",
+      "onboard_time": 1721647523,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 1105303,
@@ -915,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 631961,
+      "num": 631961,
+      "word": "金智媛化妆师秒删ins",
+      "onboard_time": 1721649683,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 628672,
       "num": 628672,
       "word": "韩国女子遭性侵21年后反杀加害者",
@@ -1049,6 +1065,14 @@
       "onboard_time": 1721625621,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 554866,
+      "num": 554866,
+      "word": "90后男女都65岁以后退休系网民推估",
+      "onboard_time": 1721650223,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 554045,
@@ -1323,6 +1347,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 464142,
+      "num": 464142,
+      "word": "想贾玲了",
+      "onboard_time": 1721648544,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 461280,
       "num": 448719,
       "word": "美国会迎来历史上首位女总统吗",
@@ -1411,6 +1443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 446777,
+      "num": 446777,
+      "word": "宁艺卓说第一次在中国签售",
+      "onboard_time": 1721651003,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 446386,
       "num": 418005,
       "word": "张杰直播",
@@ -1473,14 +1513,6 @@
       "onboard_time": 1721613440,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 429276,
-      "num": 916628,
-      "word": "相柳战死",
-      "onboard_time": 1721647523,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 428196,
@@ -1699,6 +1731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 364022,
+      "num": 364022,
+      "word": "中方决定取消对美国卫讯公司的反制措施",
+      "onboard_time": 1721646142,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 362188,
       "num": 339351,
       "word": "唐诡2李汶翰大唐投影仪",
@@ -1731,6 +1771,14 @@
       "category": "动漫,网红"
     },
     {
+      "raw_hot": 357850,
+      "num": 357850,
+      "word": "李昊人生只有一个9862",
+      "onboard_time": 1721649562,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 357094,
       "num": 249723,
       "word": "女子称花7元多买到加了色素的贡菜",
@@ -1761,6 +1809,14 @@
       "onboard_time": 1721638822,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 346319,
+      "num": 346319,
+      "word": "游泳时千万别穿白色泳衣",
+      "onboard_time": 1721649623,
+      "rank": 21,
+      "category": "科学科普"
     },
     {
       "raw_hot": 342240,
@@ -1947,6 +2003,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 303960,
+      "num": 303960,
+      "word": "男子猥亵被拘13天父亲向受害者求情",
+      "onboard_time": 1721649983,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 303898,
       "num": 303898,
       "word": "对方撤回一个肖战",
@@ -1977,14 +2041,6 @@
       "onboard_time": 1721622682,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 301402,
-      "num": 301402,
-      "word": "中方决定取消对美国卫讯公司的反制措施",
-      "onboard_time": 1721646142,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 300808,
@@ -2025,6 +2081,14 @@
       "onboard_time": 1721644160,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 294406,
+      "num": 294406,
+      "word": "婚礼上被喷酒新娘霸气眼神杀",
+      "onboard_time": 1721648423,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294231,
@@ -2203,6 +2267,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 266027,
+      "num": 266027,
+      "word": "人大",
+      "onboard_time": 1721648063,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263909,
       "num": 263909,
       "word": "房贷利率有望进入2字头时代",
@@ -2363,6 +2435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248284,
+      "num": 248284,
+      "word": "詹姆斯成美国首位男篮旗手",
+      "onboard_time": 1721649503,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 247221,
       "num": 247221,
       "word": "时代峰峻否认张真源贺峻霖恋情",
@@ -2411,6 +2491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 241699,
+      "num": 241699,
+      "word": "两个i人生了个e人",
+      "onboard_time": 1721650761,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 241498,
       "num": 241498,
       "word": "杨幂画的手稿",
@@ -2419,12 +2507,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 239801,
-      "num": 239801,
-      "word": "人大",
-      "onboard_time": 1721648063,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 240700,
+      "num": 240700,
+      "word": "路过以为张若昀是哪个爱豆",
+      "onboard_time": 1721648124,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 239736,
@@ -2675,6 +2763,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 216603,
+      "num": 216603,
+      "word": "苏醒求职大大方方的",
+      "onboard_time": 1721650582,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216023,
       "num": 216023,
       "word": "有这么凄惨的女主进入内娱",
@@ -2907,6 +3003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202444,
+      "num": 202444,
+      "word": "长相思2超点",
+      "onboard_time": 1721650582,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202183,
       "num": 168180,
       "word": "王俊凯ID成为英雄",
@@ -2921,6 +3025,14 @@
       "onboard_time": 1721570661,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 201954,
+      "num": 201954,
+      "word": "张凌赫宋威龙同款choker",
+      "onboard_time": 1721651603,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 201815,
@@ -2977,6 +3089,14 @@
       "onboard_time": 1721642362,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 200652,
+      "num": 200652,
+      "word": "Leyan回应加入NIP",
+      "onboard_time": 1721651491,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 200564,
@@ -3123,6 +3243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197746,
+      "num": 197746,
+      "word": "相柳大战前夜送走毛球",
+      "onboard_time": 1721649083,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197651,
       "num": 197651,
       "word": "左航最萌的脸打最狠的鼓",
@@ -3201,6 +3329,14 @@
       "onboard_time": 1721636841,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194305,
+      "num": 189456,
+      "word": "相柳是笑着死的",
+      "onboard_time": 1721649683,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 194237,
@@ -3289,6 +3425,14 @@
       "onboard_time": 1721617461,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 191988,
+      "num": 191988,
+      "word": "宝马i3将回涨7万",
+      "onboard_time": 1721649983,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 191966,
@@ -3899,6 +4043,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 167284,
+      "num": 381573,
+      "word": "妈妈帮36岁女儿登记相亲引来骗子",
+      "onboard_time": 1721646079,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166509,
       "num": 166509,
       "word": "时代少年团对接回应高会调整",
@@ -3931,12 +4083,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 166084,
+      "num": 166084,
+      "word": "90后男女65岁退休发文自媒体未经认证",
+      "onboard_time": 1721651722,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164910,
       "num": 164910,
       "word": "吴佳怡 怼人赛道",
       "onboard_time": 1721552240,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163681,
+      "num": 163681,
+      "word": "孙颖莎 集pin爱好者上线",
+      "onboard_time": 1721651603,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 163599,
@@ -4179,6 +4347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151575,
+      "num": 151575,
+      "word": "人大王某某被撤销教授职称",
+      "onboard_time": 1721649202,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151362,
       "num": 151362,
       "word": "荣梓杉毕业旅行去花少了",
@@ -4403,6 +4579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139826,
+      "num": 139826,
+      "word": "赵丽颖封面成绩",
+      "onboard_time": 1721651842,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 139399,
       "num": 139399,
       "word": "王源TMEA白T彩排照",
@@ -4545,6 +4729,14 @@
       "onboard_time": 1721485401,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135259,
+      "num": 168320,
+      "word": "多品牌回应冰敷手机降温",
+      "onboard_time": 1721646741,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134558,
@@ -4713,14 +4905,6 @@
       "onboard_time": 1721482519,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 125247,
-      "num": 381573,
-      "word": "妈妈帮36岁女儿登记相亲引来骗子",
-      "onboard_time": 1721646079,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124981,
@@ -5251,6 +5435,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 68687,
+      "num": 485709,
+      "word": "清华教授解读自愿弹性延迟退休原则",
+      "onboard_time": 1721651422,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68506,
       "num": 474020,
       "word": "用吸管自制梦幻泡泡机",
@@ -5281,6 +5473,14 @@
       "onboard_time": 1721604738,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 64156,
+      "num": 481752,
+      "word": "精致boy的穿搭有多city",
+      "onboard_time": 1721648663,
+      "rank": 15,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 63671,
@@ -5731,12 +5931,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 23281,
+      "num": 1059204,
+      "word": "万千气象看青海",
+      "onboard_time": 1721651491,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23248,
       "num": 214495,
       "word": "有一种甜蜜叫哈密",
       "onboard_time": 1721491881,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 22804,
+      "num": 164522,
+      "word": "我们的家园幸福美丽西藏",
+      "onboard_time": 1721634080,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22620,
@@ -5891,6 +6107,9 @@
     },
     {
       "word": "#三中全会决定里的民生事#"
+    },
+    {
+      "word": "#一图全解二十届三中全会决定#"
     }
   ]
 }
