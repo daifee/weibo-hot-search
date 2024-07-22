@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721630466692,
+  "endTime": 1721632760607,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -153,6 +153,14 @@
       "onboard_time": 1721624362,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1615809,
+      "num": 1615809,
+      "word": "退休年龄",
+      "onboard_time": 1721630779,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1607972,
@@ -523,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 754327,
+      "num": 754327,
+      "word": "媒体评人大女博士举报导师性骚扰",
+      "onboard_time": 1721629101,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 745765,
       "num": 745765,
       "word": "双胞胎坐婴儿车滚下站台撞上火车",
@@ -619,6 +635,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 682144,
+      "num": 682144,
+      "word": "秦昊忙求婚伊能静忙补妆",
+      "onboard_time": 1721628501,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 681373,
       "num": 641038,
       "word": "杨超越还好没退群",
@@ -681,14 +705,6 @@
       "onboard_time": 1721571861,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 635723,
-      "num": 635723,
-      "word": "秦昊忙求婚伊能静忙补妆",
-      "onboard_time": 1721628501,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 633795,
@@ -812,7 +828,7 @@
     },
     {
       "raw_hot": 556895,
-      "num": 462647,
+      "num": 469533,
       "word": "罗志祥杭州线下见面会",
       "onboard_time": 1721625621,
       "rank": 16,
@@ -897,6 +913,14 @@
       "onboard_time": 1721603897,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 525991,
+      "num": 351837,
+      "word": "看似干净其实很脏的行为",
+      "onboard_time": 1721630480,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 525879,
@@ -1091,6 +1115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 459074,
+      "num": 524326,
+      "word": "迪丽热巴无袖小香",
+      "onboard_time": 1721629580,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 456267,
       "num": 456267,
       "word": "LPR",
@@ -1203,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 422081,
+      "num": 422081,
+      "word": "谁去横店把陈哲远网线拔了",
+      "onboard_time": 1721629580,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 418874,
       "num": 338728,
       "word": "气血不足就要多出去玩",
@@ -1307,14 +1347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 374765,
-      "num": 374765,
-      "word": "迪丽热巴无袖小香",
-      "onboard_time": 1721629580,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 373272,
       "num": 373272,
       "word": "泉州卫健委回应号召党员干部生三孩",
@@ -1355,6 +1387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 367222,
+      "num": 347658,
+      "word": "唐朝诡事录口碑",
+      "onboard_time": 1721630361,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 359706,
       "num": 296419,
       "word": "中医说三伏天得热着过",
@@ -1379,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353726,
+      "num": 353726,
+      "word": "青岛暴雨",
+      "onboard_time": 1721631321,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 353258,
       "num": 353258,
       "word": "虞书欣和她的七个小i人",
@@ -1393,6 +1441,14 @@
       "onboard_time": 1721464159,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 341435,
+      "num": 420955,
+      "word": "日媒爆拜登退选可能影响日本首相人选",
+      "onboard_time": 1721629820,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 339023,
@@ -1595,14 +1651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 294590,
-      "num": 294590,
-      "word": "媒体评人大女博士举报导师性骚扰",
-      "onboard_time": 1721629101,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 294231,
       "num": 294231,
       "word": "外国人免签144小时把酸汤火锅吃火了",
@@ -1641,6 +1689,14 @@
       "onboard_time": 1721608942,
       "rank": 24,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 288118,
+      "num": 288118,
+      "word": "泽连斯基同意与普京谈判",
+      "onboard_time": 1721630419,
+      "rank": 35,
+      "category": "国外时政"
     },
     {
       "raw_hot": 285796,
@@ -1689,6 +1745,14 @@
       "onboard_time": 1721625140,
       "rank": 29,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 272199,
+      "num": 272199,
+      "word": "密室大逃脱大神版",
+      "onboard_time": 1721631321,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 271860,
@@ -1843,6 +1907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 251648,
+      "num": 251648,
+      "word": "全红婵到巴黎说的第一个笑话",
+      "onboard_time": 1721627061,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 249134,
       "num": 249134,
       "word": "保洁大爷帮抓老鼠被咬商户只愿给800",
@@ -1907,28 +1979,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 239998,
-      "num": 239998,
-      "word": "全红婵到巴黎说的第一个笑话",
-      "onboard_time": 1721627061,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 239736,
       "num": 239736,
       "word": "三伏天别做这7件事",
       "onboard_time": 1721522418,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 235714,
-      "num": 235714,
-      "word": "谁去横店把陈哲远网线拔了",
-      "onboard_time": 1721629580,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 234463,
@@ -2075,6 +2131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220231,
+      "num": 220231,
+      "word": "男孩低下身子原来是为了求婚",
+      "onboard_time": 1721631560,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 217626,
       "num": 217626,
       "word": "张钧甯怕找不到男演员搭戏",
@@ -2097,6 +2161,14 @@
       "onboard_time": 1721625140,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 217167,
+      "num": 217167,
+      "word": "薛之谦说没资格在周末生病",
+      "onboard_time": 1721631080,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 216930,
@@ -2177,6 +2249,14 @@
       "onboard_time": 1721609900,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 209417,
+      "num": 209417,
+      "word": "江西一地出现教师严重短缺",
+      "onboard_time": 1721629460,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207720,
@@ -2305,14 +2385,6 @@
       "onboard_time": 1721570541,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 202842,
-      "num": 202842,
-      "word": "江西一地出现教师严重短缺",
-      "onboard_time": 1721629460,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202183,
@@ -2459,6 +2531,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198193,
+      "num": 198122,
+      "word": "赵丽颖时尚COSMO8月封面预告",
+      "onboard_time": 1721631801,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 198153,
+      "num": 198153,
+      "word": "张新成本性暴露",
+      "onboard_time": 1721632341,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198134,
       "num": 198134,
       "word": "周深又把戒指甩掉了",
@@ -2553,6 +2641,14 @@
       "onboard_time": 1721534839,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194237,
+      "num": 194237,
+      "word": "陈哲远撑伞像提着把刀",
+      "onboard_time": 1721632161,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 194184,
@@ -2721,6 +2817,14 @@
       "onboard_time": 1721621181,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 189004,
+      "num": 189004,
+      "word": "田小娟想送歌给NewJeans",
+      "onboard_time": 1721630961,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 188332,
@@ -2905,14 +3009,6 @@
       "onboard_time": 1721609180,
       "rank": 43,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 176862,
-      "num": 176862,
-      "word": "泽连斯基同意与普京谈判",
-      "onboard_time": 1721630419,
-      "rank": 35,
-      "category": "国外时政"
     },
     {
       "raw_hot": 176668,
@@ -3523,6 +3619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143616,
+      "num": 143616,
+      "word": "徐明浩国内综艺再跳SEVENTEEN的歌",
+      "onboard_time": 1721632220,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143091,
       "num": 143091,
       "word": "超雄综合征会遗传下一代吗",
@@ -3545,6 +3649,14 @@
       "onboard_time": 1721571382,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 142470,
+      "num": 142470,
+      "word": "皇后乐队有自己的百变大咖秀",
+      "onboard_time": 1721632641,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 142454,
@@ -3593,14 +3705,6 @@
       "onboard_time": 1721556019,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 139028,
-      "num": 139028,
-      "word": "唐朝诡事录口碑",
-      "onboard_time": 1721630361,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 138913,
@@ -4043,6 +4147,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 113384,
+      "num": 522621,
+      "word": "网红面包店现蟑螂维权先删视频",
+      "onboard_time": 1721631620,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113375,
       "num": 113375,
       "word": "贤贤崽掀翻盆盆奶",
@@ -4363,14 +4475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 73048,
-      "num": 420955,
-      "word": "日媒爆拜登退选可能影响日本首相人选",
-      "onboard_time": 1721629820,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 72933,
       "num": 261817,
       "word": "井盖被冲男子雨中用身体当警示牌",
@@ -4457,6 +4561,14 @@
       "onboard_time": 1721550258,
       "rank": 32,
       "category": "运动健身,美食"
+    },
+    {
+      "raw_hot": 61875,
+      "num": 356970,
+      "word": "谁懂30万块电池0自燃的含金量",
+      "onboard_time": 1721630480,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 60679,
@@ -4619,6 +4731,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 43319,
+      "num": 1635157,
+      "word": "我国高技术制造业增加值增长8.7%",
+      "onboard_time": 1721616079,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43275,
       "num": 46031,
       "word": "康康 这是无数个日日夜夜换来的",
@@ -4753,6 +4873,14 @@
       "onboard_time": 1721585772,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 31572,
+      "num": 406797,
+      "word": "国有大行考虑下调存款挂牌利率",
+      "onboard_time": 1721631620,
+      "rank": 14,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 31120,
@@ -4960,14 +5088,6 @@
       "word": "四川汛期24小时求助平台",
       "onboard_time": 1721607560,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6971,
-      "num": 1297310,
-      "word": "我国高技术制造业增加值增长8.7%",
-      "onboard_time": 1721616079,
-      "rank": 2,
       "category": "社会新闻"
     }
   ],

@@ -1,6 +1,6 @@
 {
   "startTime": 1721579123353,
-  "endTime": 1721630466692,
+  "endTime": 1721632760607,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -81,6 +81,14 @@
       "onboard_time": 1721624362,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1615809,
+      "num": 1615809,
+      "word": "退休年龄",
+      "onboard_time": 1721630779,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1444891,
@@ -195,6 +203,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 754327,
+      "num": 754327,
+      "word": "媒体评人大女博士举报导师性骚扰",
+      "onboard_time": 1721629101,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 710537,
       "num": 710537,
       "word": "央视起底硅胶人脸面具乱象",
@@ -219,6 +235,14 @@
       "category": "财经,网红"
     },
     {
+      "raw_hot": 682144,
+      "num": 682144,
+      "word": "秦昊忙求婚伊能静忙补妆",
+      "onboard_time": 1721628501,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 670039,
       "num": 670039,
       "word": "泫雅表演时台下无人应援",
@@ -241,14 +265,6 @@
       "onboard_time": 1721603777,
       "rank": 19,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 635723,
-      "num": 635723,
-      "word": "秦昊忙求婚伊能静忙补妆",
-      "onboard_time": 1721628501,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 627611,
@@ -308,7 +324,7 @@
     },
     {
       "raw_hot": 556895,
-      "num": 462647,
+      "num": 469533,
       "word": "罗志祥杭州线下见面会",
       "onboard_time": 1721625621,
       "rank": 16,
@@ -377,6 +393,14 @@
       "onboard_time": 1721603897,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 525991,
+      "num": 351837,
+      "word": "看似干净其实很脏的行为",
+      "onboard_time": 1721630480,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 514495,
@@ -467,6 +491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 459074,
+      "num": 524326,
+      "word": "迪丽热巴无袖小香",
+      "onboard_time": 1721629580,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 456267,
       "num": 456267,
       "word": "LPR",
@@ -505,6 +537,14 @@
       "onboard_time": 1721613440,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 422081,
+      "num": 422081,
+      "word": "谁去横店把陈哲远网线拔了",
+      "onboard_time": 1721629580,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 418874,
@@ -563,14 +603,6 @@
       "category": "情感,互联网"
     },
     {
-      "raw_hot": 374765,
-      "num": 374765,
-      "word": "迪丽热巴无袖小香",
-      "onboard_time": 1721629580,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 369786,
       "num": 369786,
       "word": "马斯克换头像庆祝拜登退选",
@@ -579,12 +611,36 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 367222,
+      "num": 347658,
+      "word": "唐朝诡事录口碑",
+      "onboard_time": 1721630361,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 353726,
+      "num": 353726,
+      "word": "青岛暴雨",
+      "onboard_time": 1721631321,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 353258,
       "num": 353258,
       "word": "虞书欣和她的七个小i人",
       "onboard_time": 1721606240,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 341435,
+      "num": 420955,
+      "word": "日媒爆拜登退选可能影响日本首相人选",
+      "onboard_time": 1721629820,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 335333,
@@ -659,14 +715,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 294590,
-      "num": 294590,
-      "word": "媒体评人大女博士举报导师性骚扰",
-      "onboard_time": 1721629101,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 291700,
       "num": 291700,
       "word": "漫展的cos越来越抽象了",
@@ -681,6 +729,14 @@
       "onboard_time": 1721608942,
       "rank": 24,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 288118,
+      "num": 288118,
+      "word": "泽连斯基同意与普京谈判",
+      "onboard_time": 1721630419,
+      "rank": 35,
+      "category": "国外时政"
     },
     {
       "raw_hot": 278789,
@@ -713,6 +769,14 @@
       "onboard_time": 1721625140,
       "rank": 29,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 272199,
+      "num": 272199,
+      "word": "密室大逃脱大神版",
+      "onboard_time": 1721631321,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 271860,
@@ -779,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 251648,
+      "num": 251648,
+      "word": "全红婵到巴黎说的第一个笑话",
+      "onboard_time": 1721627061,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 242742,
       "num": 242742,
       "word": "成都暴雨",
@@ -801,22 +873,6 @@
       "onboard_time": 1721568321,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 239998,
-      "num": 239998,
-      "word": "全红婵到巴黎说的第一个笑话",
-      "onboard_time": 1721627061,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 235714,
-      "num": 235714,
-      "word": "谁去横店把陈哲远网线拔了",
-      "onboard_time": 1721629580,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 233814,
@@ -867,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220231,
+      "num": 220231,
+      "word": "男孩低下身子原来是为了求婚",
+      "onboard_time": 1721631560,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 217492,
       "num": 217492,
       "word": "aespa到上海了",
@@ -881,6 +945,14 @@
       "onboard_time": 1721625140,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 217167,
+      "num": 217167,
+      "word": "薛之谦说没资格在周末生病",
+      "onboard_time": 1721631080,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 216895,
@@ -913,6 +985,14 @@
       "onboard_time": 1721609900,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 209417,
+      "num": 209417,
+      "word": "江西一地出现教师严重短缺",
+      "onboard_time": 1721629460,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207231,
@@ -963,14 +1043,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 202842,
-      "num": 202842,
-      "word": "江西一地出现教师严重短缺",
-      "onboard_time": 1721629460,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198921,
       "num": 198921,
       "word": "陆虎巡演抢票",
@@ -985,6 +1057,22 @@
       "onboard_time": 1721613920,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 198193,
+      "num": 198122,
+      "word": "赵丽颖时尚COSMO8月封面预告",
+      "onboard_time": 1721631801,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 198153,
+      "num": 198153,
+      "word": "张新成本性暴露",
+      "onboard_time": 1721632341,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 197846,
@@ -1009,6 +1097,14 @@
       "onboard_time": 1721616260,
       "rank": 38,
       "category": "情感,旅游"
+    },
+    {
+      "raw_hot": 194237,
+      "num": 194237,
+      "word": "陈哲远撑伞像提着把刀",
+      "onboard_time": 1721632161,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 194066,
@@ -1091,6 +1187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 189004,
+      "num": 189004,
+      "word": "田小娟想送歌给NewJeans",
+      "onboard_time": 1721630961,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 187170,
       "num": 473178,
       "word": "哈里斯称将尽一切努力击败特朗普",
@@ -1161,14 +1265,6 @@
       "onboard_time": 1721609180,
       "rank": 43,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 176862,
-      "num": 176862,
-      "word": "泽连斯基同意与普京谈判",
-      "onboard_time": 1721630419,
-      "rank": 35,
-      "category": "国外时政"
     },
     {
       "raw_hot": 176085,
@@ -1403,12 +1499,20 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 139028,
-      "num": 139028,
-      "word": "唐朝诡事录口碑",
-      "onboard_time": 1721630361,
-      "rank": 46,
-      "category": "剧集"
+      "raw_hot": 143616,
+      "num": 143616,
+      "word": "徐明浩国内综艺再跳SEVENTEEN的歌",
+      "onboard_time": 1721632220,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 142470,
+      "num": 142470,
+      "word": "皇后乐队有自己的百变大咖秀",
+      "onboard_time": 1721632641,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 133122,
@@ -1523,6 +1627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 113384,
+      "num": 522621,
+      "word": "网红面包店现蟑螂维权先删视频",
+      "onboard_time": 1721631620,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111170,
       "num": 163660,
       "word": "周深TMEA年度男歌手",
@@ -1627,14 +1739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 73048,
-      "num": 420955,
-      "word": "日媒爆拜登退选可能影响日本首相人选",
-      "onboard_time": 1721629820,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 68982,
       "num": 68982,
       "word": "中国奥数竞赛五连冠被美国队终结",
@@ -1665,6 +1769,14 @@
       "onboard_time": 1721628861,
       "rank": 9,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 61875,
+      "num": 356970,
+      "word": "谁懂30万块电池0自燃的含金量",
+      "onboard_time": 1721630480,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 59336,
@@ -1707,6 +1819,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 43319,
+      "num": 1635157,
+      "word": "我国高技术制造业增加值增长8.7%",
+      "onboard_time": 1721616079,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41035,
       "num": 61731,
       "word": "出汗并不能帮身体排毒",
@@ -1737,6 +1857,14 @@
       "onboard_time": 1721585772,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 31572,
+      "num": 406797,
+      "word": "国有大行考虑下调存款挂牌利率",
+      "onboard_time": 1721631620,
+      "rank": 14,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 31120,
@@ -1832,14 +1960,6 @@
       "word": "四川汛期24小时求助平台",
       "onboard_time": 1721607560,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6971,
-      "num": 1297310,
-      "word": "我国高技术制造业增加值增长8.7%",
-      "onboard_time": 1721616079,
-      "rank": 2,
       "category": "社会新闻"
     }
   ],

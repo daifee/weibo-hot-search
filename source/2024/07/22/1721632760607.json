@@ -1,0 +1,410 @@
+{
+  "runTime": 1721632760607,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3921854,
+        "num": 3921854,
+        "word": "中国人民大学声明",
+        "onboard_time": 1721609841,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1661066,
+        "num": 1661066,
+        "word": "那个叫招弟的女孩决定改名",
+        "onboard_time": 1721623642,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43319,
+        "num": 1635157,
+        "word": "我国高技术制造业增加值增长8.7%",
+        "onboard_time": 1721616079,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1615809,
+        "num": 1615809,
+        "word": "退休年龄",
+        "onboard_time": 1721630779,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 884551,
+        "num": 884551,
+        "word": "郑佩佩儿子发文",
+        "onboard_time": 1721627660,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 754327,
+        "num": 754327,
+        "word": "媒体评人大女博士举报导师性骚扰",
+        "onboard_time": 1721629101,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 682144,
+        "num": 682144,
+        "word": "秦昊忙求婚伊能静忙补妆",
+        "onboard_time": 1721628501,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 565914,
+        "num": 565914,
+        "word": "李嫣晒唇腭裂手术照",
+        "onboard_time": 1721621181,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 459074,
+        "num": 524326,
+        "word": "迪丽热巴无袖小香",
+        "onboard_time": 1721629580,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113384,
+        "num": 522621,
+        "word": "网红面包店现蟑螂维权先删视频",
+        "onboard_time": 1721631620,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1095811,
+        "num": 522510,
+        "word": "王楚然素颜被审判",
+        "onboard_time": 1721624362,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 522135,
+        "num": 522135,
+        "word": "海底捞真的越来越颠了",
+        "onboard_time": 1721614039,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 469533,
+        "num": 469533,
+        "word": "罗志祥杭州线下见面会",
+        "onboard_time": 1721625621,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422081,
+        "num": 422081,
+        "word": "谁去横店把陈哲远网线拔了",
+        "onboard_time": 1721629580,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31572,
+        "num": 406797,
+        "word": "国有大行考虑下调存款挂牌利率",
+        "onboard_time": 1721631620,
+        "rank": 14,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 391735,
+        "num": 391735,
+        "word": "陈昊宇回应咖位最低的冠军标签",
+        "onboard_time": 1721627660,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385349,
+        "num": 385349,
+        "word": "美国会迎来历史上首位女总统吗",
+        "onboard_time": 1721624603,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 370686,
+        "num": 370686,
+        "word": "张雪峰公司经营异常",
+        "onboard_time": 1721623462,
+        "rank": 17,
+        "category": "财经,网红"
+      },
+      {
+        "raw_hot": 61875,
+        "num": 356970,
+        "word": "谁懂30万块电池0自燃的含金量",
+        "onboard_time": 1721630480,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 353726,
+        "num": 353726,
+        "word": "青岛暴雨",
+        "onboard_time": 1721631321,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525991,
+        "num": 351837,
+        "word": "看似干净其实很脏的行为",
+        "onboard_time": 1721630480,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 497559,
+        "num": 348862,
+        "word": "为什么空调一关立刻就变热了",
+        "onboard_time": 1721614220,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 367222,
+        "num": 347658,
+        "word": "唐朝诡事录口碑",
+        "onboard_time": 1721630361,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341435,
+        "num": 341435,
+        "word": "日媒爆拜登退选可能影响日本首相人选",
+        "onboard_time": 1721629820,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 315344,
+        "num": 315344,
+        "word": "9年医学生查出桥本甲状腺炎被拒录",
+        "onboard_time": 1721620341,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295977,
+        "num": 295977,
+        "word": "唐尚珺投档到华南师范大学",
+        "onboard_time": 1721624902,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288118,
+        "num": 288118,
+        "word": "泽连斯基同意与普京谈判",
+        "onboard_time": 1721630419,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 286605,
+        "num": 286605,
+        "word": "拜登退选",
+        "onboard_time": 1721585473,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 272199,
+        "num": 272199,
+        "word": "密室大逃脱大神版",
+        "onboard_time": 1721631321,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251648,
+        "num": 251648,
+        "word": "全红婵到巴黎说的第一个笑话",
+        "onboard_time": 1721627061,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232982,
+        "num": 232982,
+        "word": "王菲演唱会",
+        "onboard_time": 1721624541,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 223261,
+        "num": 223261,
+        "word": "密室大逃脱6首发阵容",
+        "onboard_time": 1721620341,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220231,
+        "num": 220231,
+        "word": "男孩低下身子原来是为了求婚",
+        "onboard_time": 1721631560,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219601,
+        "num": 219601,
+        "word": "赵丽颖沈雨出狱生活",
+        "onboard_time": 1721628680,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 217167,
+        "num": 217167,
+        "word": "薛之谦说没资格在周末生病",
+        "onboard_time": 1721631080,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209417,
+        "num": 209417,
+        "word": "江西一地出现教师严重短缺",
+        "onboard_time": 1721629460,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206313,
+        "num": 206313,
+        "word": "惠英红文淇荣梓杉 游神供火恐怖片",
+        "onboard_time": 1721622682,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198153,
+        "num": 198153,
+        "word": "张新成本性暴露",
+        "onboard_time": 1721632341,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198193,
+        "num": 198122,
+        "word": "赵丽颖时尚COSMO8月封面预告",
+        "onboard_time": 1721631801,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 194237,
+        "num": 194237,
+        "word": "陈哲远撑伞像提着把刀",
+        "onboard_time": 1721632161,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190276,
+        "num": 190276,
+        "word": "气血不足就要多出去玩",
+        "onboard_time": 1721618961,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 189004,
+        "num": 189004,
+        "word": "田小娟想送歌给NewJeans",
+        "onboard_time": 1721630961,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 178868,
+        "num": 178868,
+        "word": "人民大学称对师德失范行为零容忍",
+        "onboard_time": 1721612599,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171561,
+        "num": 171561,
+        "word": "乌合麒麟还原中国百年体育史",
+        "onboard_time": 1721624422,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162865,
+        "num": 162865,
+        "word": "深圳116套房源不到3小时售罄",
+        "onboard_time": 1721625980,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158788,
+        "num": 158788,
+        "word": "肖战滑滑梯颠屁股",
+        "onboard_time": 1721624182,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147097,
+        "num": 147097,
+        "word": "漫展的cos越来越抽象了",
+        "onboard_time": 1721627061,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 143616,
+        "num": 143616,
+        "word": "徐明浩国内综艺再跳SEVENTEEN的歌",
+        "onboard_time": 1721632220,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142470,
+        "num": 142470,
+        "word": "皇后乐队有自己的百变大咖秀",
+        "onboard_time": 1721632641,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138907,
+        "num": 138907,
+        "word": "留学花30万回国后起薪仅5500元",
+        "onboard_time": 1721623043,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#关于二十届三中全会决定的说明#"
+    }
+  }
+}
