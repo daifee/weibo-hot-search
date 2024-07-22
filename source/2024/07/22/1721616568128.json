@@ -1,0 +1,410 @@
+{
+  "runTime": 1721616568128,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10092716,
+        "num": 10092716,
+        "word": "中国人民大学声明",
+        "onboard_time": 1721609841,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2091293,
+        "num": 2091293,
+        "word": "赵丽颖领衔主演冯小刚新片",
+        "onboard_time": 1721614281,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 82944,
+        "num": 1565028,
+        "word": "夏天最后一个节气来了",
+        "onboard_time": 1721616200,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1526566,
+        "num": 1526566,
+        "word": "拜登退选",
+        "onboard_time": 1721585473,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 730285,
+        "num": 730285,
+        "word": "降息",
+        "onboard_time": 1721611943,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 554045,
+        "num": 554045,
+        "word": "100万元房贷30年减少2.1万",
+        "onboard_time": 1721612661,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530639,
+        "num": 530639,
+        "word": "抓娃娃片尾鸣谢沈腾马丽家属",
+        "onboard_time": 1721610981,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 514495,
+        "num": 514495,
+        "word": "杨志刚演技",
+        "onboard_time": 1721614220,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 461548,
+        "num": 461548,
+        "word": "哈里斯发声称赞拜登",
+        "onboard_time": 1721606420,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 170559,
+        "num": 416875,
+        "word": "女教师连捐两次生命种子救一人",
+        "onboard_time": 1721615540,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1677878,
+        "num": 416162,
+        "word": "海底捞真的越来越颠了",
+        "onboard_time": 1721614039,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 723064,
+        "num": 415285,
+        "word": "拜登退选前大量烧钱",
+        "onboard_time": 1721608581,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 407652,
+        "num": 407652,
+        "word": "人民大学称对师德失范行为零容忍",
+        "onboard_time": 1721612599,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385883,
+        "num": 385883,
+        "word": "泫雅表演时台下无人应援",
+        "onboard_time": 1721604677,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 384356,
+        "num": 384356,
+        "word": "大哥远停播",
+        "onboard_time": 1721614940,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 49525,
+        "num": 371053,
+        "word": "鸿星尔克与国货们的暖心联动",
+        "onboard_time": 1721612901,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369786,
+        "num": 369786,
+        "word": "马斯克换头像庆祝拜登退选",
+        "onboard_time": 1721614281,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 345684,
+        "num": 345684,
+        "word": "五一广场车祸",
+        "onboard_time": 1721572161,
+        "rank": 17,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 331350,
+        "num": 331350,
+        "word": "易烊千玺刘艳芬年度实体专辑",
+        "onboard_time": 1721615301,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 280264,
+        "num": 280264,
+        "word": "金泰亨因发麦当劳被抵制",
+        "onboard_time": 1721609120,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 709448,
+        "num": 278424,
+        "word": "为什么空调一关立刻就变热了",
+        "onboard_time": 1721614220,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 482009,
+        "num": 276545,
+        "word": "女子用凤仙花染头发视觉效果炸裂",
+        "onboard_time": 1721610861,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431603,
+        "num": 274290,
+        "word": "因为高中有朋友啊",
+        "onboard_time": 1721613440,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324298,
+        "num": 271596,
+        "word": "我爷爷总把微信当作写信的软件",
+        "onboard_time": 1721610442,
+        "rank": 23,
+        "category": "情感,互联网"
+      },
+      {
+        "raw_hot": 270764,
+        "num": 270764,
+        "word": "男子称给霸王茶姬差评后被找上门",
+        "onboard_time": 1721581396,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266293,
+        "num": 266293,
+        "word": "YG真急了",
+        "onboard_time": 1721610200,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257497,
+        "num": 257497,
+        "word": "王迪",
+        "onboard_time": 1721606358,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254321,
+        "num": 254321,
+        "word": "A股",
+        "onboard_time": 1721614640,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 251090,
+        "num": 251090,
+        "word": "特朗普称哈里斯更容易被击败",
+        "onboard_time": 1721589071,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 20355,
+        "num": 245458,
+        "word": "俄罗斯一女子2拳击倒搭讪男子",
+        "onboard_time": 1721616380,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241866,
+        "num": 241866,
+        "word": "央行宣布降息10个基点",
+        "onboard_time": 1721613440,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 237698,
+        "num": 237698,
+        "word": "特朗普回应拜登退选",
+        "onboard_time": 1721588592,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 222868,
+        "num": 222868,
+        "word": "拜登退选后家人感到如释重负",
+        "onboard_time": 1721615419,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 221541,
+        "num": 221541,
+        "word": "拜登支持哈里斯竞选",
+        "onboard_time": 1721586613,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 210000,
+        "num": 210000,
+        "word": "2名护士为救晕倒乘客错过火车",
+        "onboard_time": 1721609900,
+        "rank": 34,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 201937,
+        "num": 201937,
+        "word": "别剪短发你会后悔的",
+        "onboard_time": 1721608942,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 200040,
+        "num": 200040,
+        "word": "给老公带了35天中饭瘦了20斤",
+        "onboard_time": 1721605639,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198385,
+        "num": 198385,
+        "word": "泽连斯基称尊重拜登退选决定",
+        "onboard_time": 1721613920,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 195627,
+        "num": 195627,
+        "word": "接天莲叶无穷碧一句话被具象化了",
+        "onboard_time": 1721616260,
+        "rank": 38,
+        "category": "情感,旅游"
+      },
+      {
+        "raw_hot": 183246,
+        "num": 183246,
+        "word": "杨议怼德云社",
+        "onboard_time": 1721611341,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174831,
+        "num": 174831,
+        "word": "外媒称奥巴马没支持哈里斯",
+        "onboard_time": 1721610321,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 53313,
+        "num": 169989,
+        "word": "打卡课本里的大美中国",
+        "onboard_time": 1721568920,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63671,
+        "num": 166849,
+        "word": "寿带鸟抖动尾羽像极了舞水袖",
+        "onboard_time": 1721613499,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166799,
+        "num": 166799,
+        "word": "哈里斯能打败特朗普吗",
+        "onboard_time": 1721613920,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 166743,
+        "num": 166743,
+        "word": "花少6出发智利",
+        "onboard_time": 1721614461,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166357,
+        "num": 166357,
+        "word": "虎门一公职人员贩毒被执行死刑",
+        "onboard_time": 1721571982,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165145,
+        "num": 165145,
+        "word": "克林顿和希拉里表态支持哈里斯",
+        "onboard_time": 1721606420,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 159339,
+        "num": 159339,
+        "word": "延迟退休",
+        "onboard_time": 1721561058,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 155987,
+        "num": 155987,
+        "word": "80后乘组即将在轨满三个月",
+        "onboard_time": 1721616442,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149547,
+        "num": 149547,
+        "word": "巴黎奥运会金牌长啥样",
+        "onboard_time": 1721614821,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#三中全会决定60条#"
+    }
+  }
+}
