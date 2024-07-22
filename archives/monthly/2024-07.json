@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721616568128,
+  "endTime": 1721618600329,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -5395,6 +5395,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 829980,
+      "num": 829980,
+      "word": "女教师连捐两次生命种子救一人",
+      "onboard_time": 1721615540,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 829849,
       "num": 515881,
       "word": "长沙一小区疑似疯犬狂奔咬伤多人",
@@ -6363,6 +6371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 756246,
+      "num": 310908,
+      "word": "为什么空调一关立刻就变热了",
+      "onboard_time": 1721614220,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 756168,
       "num": 330199,
       "word": "多部门回应涉宗馥莉举报信",
@@ -6985,14 +7001,6 @@
       "onboard_time": 1721289619,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 709448,
-      "num": 310908,
-      "word": "为什么空调一关立刻就变热了",
-      "onboard_time": 1721614220,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 709346,
@@ -14035,6 +14043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 442988,
+      "num": 442988,
+      "word": "大哥远停播",
+      "onboard_time": 1721614940,
+      "rank": 17,
+      "category": "网红"
+    },
+    {
       "raw_hot": 442933,
       "num": 414930,
       "word": "杨紫久久出不了戏",
@@ -15387,6 +15403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 411158,
+      "num": 304766,
+      "word": "耶耶 还有哪位要摸吗",
+      "onboard_time": 1721617941,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 410793,
       "num": 217284,
       "word": "女生钓到大肚鱼烤熟后结果悲剧了",
@@ -16505,14 +16529,6 @@
       "onboard_time": 1719834079,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 384356,
-      "num": 384356,
-      "word": "大哥远停播",
-      "onboard_time": 1721614940,
-      "rank": 17,
-      "category": "网红"
     },
     {
       "raw_hot": 384225,
@@ -19785,6 +19801,14 @@
       "onboard_time": 1721394742,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 314401,
+      "num": 314401,
+      "word": "赵丽颖轻妆进组",
+      "onboard_time": 1721618481,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 314375,
@@ -24161,6 +24185,14 @@
       "onboard_time": 1721379321,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 242933,
+      "num": 242933,
+      "word": "唐诡西行第二案硬核推理",
+      "onboard_time": 1721617820,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 242929,
@@ -31835,6 +31867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192067,
+      "num": 192067,
+      "word": "鹿晗夏夜vlog",
+      "onboard_time": 1721617461,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 192057,
       "num": 192057,
       "word": "秦彻久候狂欢之徒",
@@ -33137,6 +33177,14 @@
       "onboard_time": 1720336398,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186758,
+      "num": 186758,
+      "word": "电影向阳花概念海报",
+      "onboard_time": 1721617461,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 186738,
@@ -34513,6 +34561,14 @@
       "onboard_time": 1719837980,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 179264,
+      "num": 177391,
+      "word": "向阳花",
+      "onboard_time": 1721618301,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 179246,
@@ -35963,6 +36019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172838,
+      "num": 172838,
+      "word": "樊振东说对冠军的渴望依旧强烈",
+      "onboard_time": 1721618481,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172803,
       "num": 172803,
       "word": "乃万 所有结束都是新的开始",
@@ -36219,6 +36283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 171530,
+      "num": 171530,
+      "word": "哈里斯能打败特朗普吗",
+      "onboard_time": 1721613920,
+      "rank": 42,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 171405,
       "num": 171405,
       "word": "JackeyLove 明天加油兄弟们",
@@ -36417,14 +36489,6 @@
       "onboard_time": 1720587978,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 170559,
-      "num": 416875,
-      "word": "女教师连捐两次生命种子救一人",
-      "onboard_time": 1721615540,
-      "rank": 9,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 170526,
@@ -37225,14 +37289,6 @@
       "onboard_time": 1719962896,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 166799,
-      "num": 166799,
-      "word": "哈里斯能打败特朗普吗",
-      "onboard_time": 1721613920,
-      "rank": 42,
-      "category": "国外时政"
     },
     {
       "raw_hot": 166790,
@@ -40513,6 +40569,14 @@
       "onboard_time": 1720513040,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 151676,
+      "num": 151676,
+      "word": "孙丞潇和小猫坠入爱河了",
+      "onboard_time": 1721616682,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 151649,
@@ -45041,6 +45105,14 @@
       "onboard_time": 1719814698,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133122,
+      "num": 133122,
+      "word": "隔着屏幕都能感受到歼20的压迫感",
+      "onboard_time": 1721618242,
+      "rank": 49,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 133116,
@@ -52403,6 +52475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 98836,
+      "num": 1565028,
+      "word": "夏天最后一个节气来了",
+      "onboard_time": 1721616200,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98805,
       "num": 163426,
       "word": "周深TMEA压轴",
@@ -53571,6 +53651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89333,
+      "num": 400864,
+      "word": "央视起底硅胶人脸面具乱象",
+      "onboard_time": 1721617820,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89088,
       "num": 89088,
       "word": "英伟达老员工大多成百万富翁",
@@ -54081,14 +54169,6 @@
       "onboard_time": 1719962476,
       "rank": 36,
       "category": "数码"
-    },
-    {
-      "raw_hot": 82944,
-      "num": 1565028,
-      "word": "夏天最后一个节气来了",
-      "onboard_time": 1721616200,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 82918,
@@ -57299,6 +57379,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 51241,
+      "num": 371053,
+      "word": "鸿星尔克与国货们的暖心联动",
+      "onboard_time": 1721612901,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51218,
       "num": 159737,
       "word": "赵雅芝叶童重现打伞名场面",
@@ -57537,14 +57625,6 @@
       "onboard_time": 1721397982,
       "rank": 30,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 49525,
-      "num": 371053,
-      "word": "鸿星尔克与国货们的暖心联动",
-      "onboard_time": 1721612901,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49413,
@@ -58849,6 +58929,14 @@
       "onboard_time": 1720805654,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 39889,
+      "num": 214620,
+      "word": "俄罗斯女子从13楼坠落奇迹生还",
+      "onboard_time": 1721618180,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39637,
@@ -60705,6 +60793,14 @@
       "onboard_time": 1720236019,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25384,
+      "num": 363206,
+      "word": "白宫官员称拜登退选决定与健康无关",
+      "onboard_time": 1721618242,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 25370,
@@ -63112,6 +63208,9 @@
     },
     {
       "word": "#三中全会决定15部分60条#"
+    },
+    {
+      "word": "#权威速览三中全会决定#"
     }
   ]
 }
