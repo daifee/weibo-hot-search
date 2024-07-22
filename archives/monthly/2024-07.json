@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721644695413,
+  "endTime": 1721647043340,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -179,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 4636082,
+      "num": 406275,
+      "word": "退休时间",
+      "onboard_time": 1721641343,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 4126542,
       "num": 4753085,
       "word": "阮富仲去世",
@@ -280,14 +288,6 @@
       "word": "鲁花回应油罐车事件",
       "onboard_time": 1720515739,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3391177,
-      "num": 371159,
-      "word": "退休时间",
-      "onboard_time": 1721641343,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -1387,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1608563,
+      "num": 1608563,
+      "word": "奶茶30元时代已成过去",
+      "onboard_time": 1721640983,
+      "rank": 43,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 1607972,
       "num": 1607972,
       "word": "花少6官宣阵容",
@@ -1569,14 +1577,6 @@
       "onboard_time": 1719832578,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1549678,
-      "num": 1549678,
-      "word": "奶茶30元时代已成过去",
-      "onboard_time": 1721640983,
-      "rank": 43,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 1540559,
@@ -2891,6 +2891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1176217,
+      "num": 375257,
+      "word": "高亚麟风波后首发文",
+      "onboard_time": 1721645482,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1176132,
       "num": 655790,
       "word": "韩总 夫人终于给你名分了",
@@ -3843,6 +3851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1028035,
+      "num": 368301,
+      "word": "迪拜公主霸气公开休夫出轨男",
+      "onboard_time": 1721643681,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1027635,
       "num": 343108,
       "word": "视觉中国回应特朗普照片版权",
@@ -3875,12 +3891,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1021132,
+      "num": 1021132,
+      "word": "人大女博士",
+      "onboard_time": 1721640322,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1020755,
       "num": 1020755,
       "word": "谢娜生孩子何炅推掉工作去陪产",
       "onboard_time": 1720604659,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1020591,
+      "num": 346046,
+      "word": "高亚麟 久于善良终于人品",
+      "onboard_time": 1721646021,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1020509,
@@ -7457,14 +7489,6 @@
       "onboard_time": 1721038877,
       "rank": 22,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 694107,
-      "num": 694107,
-      "word": "人大女博士",
-      "onboard_time": 1721640322,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 693621,
@@ -11163,6 +11187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 533500,
+      "num": 355254,
+      "word": "秦岚 我不会和前任做朋友",
+      "onboard_time": 1721646202,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 533289,
       "num": 274781,
       "word": "朋友圈真的不要留太多电子宠物",
@@ -11889,6 +11921,14 @@
       "onboard_time": 1720759159,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 509219,
+      "num": 509219,
+      "word": "叶童回应机场被骂",
+      "onboard_time": 1721646142,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 508614,
@@ -13003,6 +13043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 480039,
+      "num": 342008,
+      "word": "杨迪cue瘦了的贾玲",
+      "onboard_time": 1721644341,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 479926,
       "num": 479926,
       "word": "葡萄牙3比5法国",
@@ -13625,6 +13673,14 @@
       "onboard_time": 1721617941,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 459720,
+      "num": 459720,
+      "word": "长相思2",
+      "onboard_time": 1720433059,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 459676,
@@ -15555,6 +15611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 418735,
+      "num": 418735,
+      "word": "我国唯一一艘国防动员舰邓世昌舰",
+      "onboard_time": 1721641103,
+      "rank": 17,
+      "category": "军事"
+    },
+    {
       "raw_hot": 418555,
       "num": 357102,
       "word": "黄子韬徐艺洋娱乐圈文学",
@@ -17027,14 +17091,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 383705,
-      "num": 383705,
-      "word": "我国唯一一艘国防动员舰邓世昌舰",
-      "onboard_time": 1721641103,
-      "rank": 17,
-      "category": "军事"
-    },
-    {
       "raw_hot": 383529,
       "num": 383529,
       "word": "杨紫 生命树",
@@ -17313,14 +17369,6 @@
       "onboard_time": 1720171640,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 376578,
-      "num": 376578,
-      "word": "长相思2",
-      "onboard_time": 1720433059,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 376343,
@@ -17881,6 +17929,14 @@
       "onboard_time": 1720017500,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 362188,
+      "num": 339351,
+      "word": "唐诡2李汶翰大唐投影仪",
+      "onboard_time": 1721643381,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 362161,
@@ -19515,6 +19571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 329020,
+      "num": 329020,
+      "word": "空空日记掉粉超100万",
+      "onboard_time": 1721644400,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 329006,
       "num": 329006,
       "word": "阳朔西街男子疑似猥亵多名女性",
@@ -20835,14 +20899,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 304908,
-      "num": 304908,
-      "word": "唐诡2李汶翰大唐投影仪",
-      "onboard_time": 1721643381,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 304842,
       "num": 269664,
       "word": "hi6下期有时代少年团",
@@ -20985,14 +21041,6 @@
       "onboard_time": 1719843259,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 302070,
-      "num": 302070,
-      "word": "迪拜公主霸气公开休夫出轨男",
-      "onboard_time": 1721643681,
-      "rank": 22,
-      "category": "国外时政"
     },
     {
       "raw_hot": 301982,
@@ -21329,6 +21377,14 @@
       "onboard_time": 1721486841,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 295311,
+      "num": 295311,
+      "word": "孙颖莎王楚钦同框合影",
+      "onboard_time": 1721644160,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 294803,
@@ -21793,6 +21849,14 @@
       "onboard_time": 1720944261,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 288365,
+      "num": 255637,
+      "word": "中方决定取消对美国卫讯公司的反制措施",
+      "onboard_time": 1721646142,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 288327,
@@ -22457,14 +22521,6 @@
       "onboard_time": 1720928601,
       "rank": 8,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 278158,
-      "num": 278158,
-      "word": "孙颖莎王楚钦同框合影",
-      "onboard_time": 1721644160,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 278041,
@@ -23267,6 +23323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263863,
+      "num": 263863,
+      "word": "LV巧克力上海店开业排队堪比迪士尼",
+      "onboard_time": 1721644160,
+      "rank": 35,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 263853,
       "num": 243261,
       "word": "默杀 周处除三害",
@@ -23841,6 +23905,14 @@
       "onboard_time": 1720663577,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 254898,
+      "num": 254898,
+      "word": "养了六年的小狗为了保护我被咬瘫痪",
+      "onboard_time": 1721641823,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 254868,
@@ -25235,6 +25307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 239224,
+      "num": 239224,
+      "word": "奶茶放置超2小时细菌数或超安全标准",
+      "onboard_time": 1721646142,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 239211,
       "num": 259699,
       "word": "切好的西瓜最好不要买",
@@ -25825,6 +25905,14 @@
       "onboard_time": 1720237937,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 232436,
+      "num": 232436,
+      "word": "为什么白色短袖穿不过一个夏天",
+      "onboard_time": 1721646142,
+      "rank": 33,
+      "category": "时尚"
     },
     {
       "raw_hot": 232412,
@@ -26691,14 +26779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 223940,
-      "num": 223940,
-      "word": "养了六年的小狗为了保护我被咬瘫痪",
-      "onboard_time": 1721641823,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 223832,
       "num": 223832,
       "word": "WBG状态",
@@ -26889,6 +26969,14 @@
       "onboard_time": 1720767438,
       "rank": 25,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 221754,
+      "num": 221754,
+      "word": "全世界的恋师女都吻上了",
+      "onboard_time": 1721644762,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 221745,
@@ -28099,6 +28187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212497,
+      "num": 373355,
+      "word": "山东招考院辟谣19万文科考生滑档",
+      "onboard_time": 1721644281,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212405,
       "num": 212405,
       "word": "大厂离职做博主有人后悔了",
@@ -29273,14 +29369,6 @@
       "onboard_time": 1721622741,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 205881,
-      "num": 205881,
-      "word": "杨迪cue瘦了的贾玲",
-      "onboard_time": 1721644341,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 205802,
@@ -32091,6 +32179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194641,
+      "num": 358725,
+      "word": "印度网民期待哈里斯为印度争光",
+      "onboard_time": 1721644221,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 194574,
       "num": 194574,
       "word": "藏海的浑天仪",
@@ -32209,6 +32305,14 @@
       "onboard_time": 1720427179,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194211,
+      "num": 194211,
+      "word": "人民日报专访孙颖莎",
+      "onboard_time": 1721646862,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 194185,
@@ -33883,14 +33987,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 188001,
-      "num": 188001,
-      "word": "LV巧克力上海店开业排队堪比迪士尼",
-      "onboard_time": 1721644160,
-      "rank": 35,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 187976,
       "num": 187976,
       "word": "严浩翔饭撒战神",
@@ -34569,6 +34665,14 @@
       "onboard_time": 1721287399,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184422,
+      "num": 184422,
+      "word": "原来真的有领导叫人ID啊",
+      "onboard_time": 1721644521,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 184360,
@@ -36129,14 +36233,6 @@
       "onboard_time": 1720436838,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176602,
-      "num": 176602,
-      "word": "空空日记掉粉超100万",
-      "onboard_time": 1721644400,
-      "rank": 39,
-      "category": "网红"
     },
     {
       "raw_hot": 176510,
@@ -39379,6 +39475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 161907,
+      "num": 161907,
+      "word": "东北大哥震惊南方只有米饭叫饭",
+      "onboard_time": 1721645784,
+      "rank": 46,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 161833,
       "num": 161833,
       "word": "TES对战WBG",
@@ -41249,6 +41353,14 @@
       "onboard_time": 1720488378,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153563,
+      "num": 153563,
+      "word": "PEL选手都水灵灵落水了",
+      "onboard_time": 1721646202,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 153393,
@@ -44057,14 +44169,6 @@
       "onboard_time": 1721465959,
       "rank": 45,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 141557,
-      "num": 141557,
-      "word": "原来真的有领导叫人ID啊",
-      "onboard_time": 1721644521,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 141529,
@@ -55851,6 +55955,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 76423,
+      "num": 399598,
+      "word": "被张凌赫纯白西服硬控",
+      "onboard_time": 1721642422,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 76346,
       "num": 83927,
       "word": "长相思2最萌的一段",
@@ -56297,14 +56409,6 @@
       "onboard_time": 1720890135,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 71867,
-      "num": 358725,
-      "word": "印度网民期待哈里斯为印度争光",
-      "onboard_time": 1721644221,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 71779,
@@ -57083,6 +57187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 64096,
+      "num": 381573,
+      "word": "妈妈帮36岁女儿登记相亲引来骗子",
+      "onboard_time": 1721646079,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64042,
       "num": 493392,
       "word": "小孩哥地铁上看书被北大博导夸赞",
@@ -57801,14 +57913,6 @@
       "onboard_time": 1720641370,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 58175,
-      "num": 373355,
-      "word": "山东招考院辟谣19万文科考生滑档",
-      "onboard_time": 1721644281,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58166,
@@ -60155,14 +60259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 39620,
-      "num": 368188,
-      "word": "被张凌赫纯白西服硬控",
-      "onboard_time": 1721642422,
-      "rank": 21,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 39563,
       "num": 55337,
       "word": "发现很多人都是精装朋友圈毛坯人生",
@@ -60808,6 +60904,14 @@
       "word": "过去一周日本中暑死亡19人",
       "onboard_time": 1720596378,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34300,
+      "num": 415165,
+      "word": "因业委会内斗小区给业主发钱",
+      "onboard_time": 1721646622,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -63711,6 +63815,14 @@
       "num": 167550,
       "word": "韩国动保组织呼吁禁止吃鸡",
       "onboard_time": 1721223078,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10715,
+      "num": 256084,
+      "word": "韩国敬老院连续五人农药中毒",
+      "onboard_time": 1721646741,
       "rank": 29,
       "category": "社会新闻"
     },
