@@ -1,0 +1,410 @@
+{
+  "runTime": 1721644695413,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1549678,
+        "num": 1549678,
+        "word": "奶茶30元时代已成过去",
+        "onboard_time": 1721640983,
+        "rank": 0,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 716607,
+        "num": 716607,
+        "word": "张杰 歌手总决赛",
+        "onboard_time": 1721633720,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103475,
+        "num": 703427,
+        "word": "你见过仅4.21克的超轻无人机吗",
+        "onboard_time": 1721636000,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 694107,
+        "num": 694107,
+        "word": "人大女博士",
+        "onboard_time": 1721640322,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465394,
+        "num": 465394,
+        "word": "小米相纸 2元",
+        "onboard_time": 1721638942,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 401018,
+        "num": 401018,
+        "word": "金智媛金秀贤 台北",
+        "onboard_time": 1721644400,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383705,
+        "num": 383705,
+        "word": "我国唯一一艘国防动员舰邓世昌舰",
+        "onboard_time": 1721641103,
+        "rank": 6,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 382425,
+        "num": 382425,
+        "word": "查重率没超3%却被检测出AI代写",
+        "onboard_time": 1721635881,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375125,
+        "num": 375125,
+        "word": "那个叫招弟的女孩决定改名",
+        "onboard_time": 1721623642,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58175,
+        "num": 373355,
+        "word": "山东招考院辟谣19万文科考生滑档",
+        "onboard_time": 1721644281,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3391177,
+        "num": 371159,
+        "word": "退休时间",
+        "onboard_time": 1721641343,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39620,
+        "num": 368188,
+        "word": "被张凌赫纯白西服硬控",
+        "onboard_time": 1721642422,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 2000346,
+        "num": 365508,
+        "word": "人大女博士举报导师为学科带头人",
+        "onboard_time": 1721637982,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1257881,
+        "num": 360965,
+        "word": "中国人民大学声明",
+        "onboard_time": 1721609841,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71867,
+        "num": 358725,
+        "word": "印度网民期待哈里斯为印度争光",
+        "onboard_time": 1721644221,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 910434,
+        "num": 355857,
+        "word": "空空日记",
+        "onboard_time": 1721638343,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 355211,
+        "num": 355211,
+        "word": "韩国女子遭性侵21年后反杀加害者",
+        "onboard_time": 1721634619,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332435,
+        "num": 332435,
+        "word": "长相思2",
+        "onboard_time": 1721643442,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323104,
+        "num": 323104,
+        "word": "密逃初代粉碎了",
+        "onboard_time": 1721638162,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310084,
+        "num": 310084,
+        "word": "黄子韬徐艺洋 这比暑期档好看",
+        "onboard_time": 1721634680,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348323,
+        "num": 309246,
+        "word": "一个月没洗的床单有多脏",
+        "onboard_time": 1721635581,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 304908,
+        "num": 304908,
+        "word": "唐诡2李汶翰大唐投影仪",
+        "onboard_time": 1721643381,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302070,
+        "num": 302070,
+        "word": "迪拜公主霸气公开休夫出轨男",
+        "onboard_time": 1721643681,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 298633,
+        "num": 298633,
+        "word": "歌手帮唱 苏打绿",
+        "onboard_time": 1721641284,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290058,
+        "num": 290058,
+        "word": "gidle打歌服擅自使用红十字被审判",
+        "onboard_time": 1721638402,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 283034,
+        "num": 283034,
+        "word": "田曦薇吊带针织裙",
+        "onboard_time": 1721640561,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 278158,
+        "num": 278158,
+        "word": "孙颖莎王楚钦同框合影",
+        "onboard_time": 1721644160,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274289,
+        "num": 274289,
+        "word": "卡琳娜cos遇到对手了",
+        "onboard_time": 1721639962,
+        "rank": 27,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 257398,
+        "num": 257398,
+        "word": "郑佩佩 半山扶梯的故事",
+        "onboard_time": 1721638882,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223940,
+        "num": 223940,
+        "word": "养了六年的小狗为了保护我被咬瘫痪",
+        "onboard_time": 1721641823,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206744,
+        "num": 206744,
+        "word": "成毅赴山海被绑路透",
+        "onboard_time": 1721644460,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205881,
+        "num": 205881,
+        "word": "杨迪cue瘦了的贾玲",
+        "onboard_time": 1721644341,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192398,
+        "num": 192398,
+        "word": "到底是谁发明的不显示聊天",
+        "onboard_time": 1721640022,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191064,
+        "num": 191064,
+        "word": "王传君说沈月在东南亚很火",
+        "onboard_time": 1721643140,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189636,
+        "num": 189636,
+        "word": "健康茶饮成年轻人社交工具",
+        "onboard_time": 1721644160,
+        "rank": 34,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 188001,
+        "num": 188001,
+        "word": "LV巧克力上海店开业排队堪比迪士尼",
+        "onboard_time": 1721644160,
+        "rank": 35,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 187428,
+        "num": 187428,
+        "word": "京沪高铁上的班味严重超标",
+        "onboard_time": 1721639662,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183491,
+        "num": 183491,
+        "word": "唐诡西行一集爆哭三次",
+        "onboard_time": 1721642722,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183133,
+        "num": 183133,
+        "word": "吴承恩永远也想不到",
+        "onboard_time": 1721635041,
+        "rank": 38,
+        "category": "幽默,综艺"
+      },
+      {
+        "raw_hot": 176602,
+        "num": 176602,
+        "word": "空空日记掉粉超100万",
+        "onboard_time": 1721644400,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 175496,
+        "num": 175496,
+        "word": "王楚然素颜被审判",
+        "onboard_time": 1721624362,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172820,
+        "num": 172820,
+        "word": "郑佩佩儿子发文",
+        "onboard_time": 1721627660,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172229,
+        "num": 172229,
+        "word": "歌手帮唱",
+        "onboard_time": 1721633300,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164116,
+        "num": 164116,
+        "word": "惠英红 真的想演求个本子",
+        "onboard_time": 1721632940,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163248,
+        "num": 163248,
+        "word": "对方撤回一个肖战",
+        "onboard_time": 1721635041,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155902,
+        "num": 155902,
+        "word": "庾澄庆 现在的经纪人保护艺人太过头",
+        "onboard_time": 1721640082,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155067,
+        "num": 155067,
+        "word": "鲍师傅肉松小贝酱料改配方",
+        "onboard_time": 1721636000,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 154492,
+        "num": 154492,
+        "word": "抓娃娃 穷养的谎言",
+        "onboard_time": 1721642543,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 94885,
+        "num": 143823,
+        "word": "高速断桥拦车人称不知哪来的勇气",
+        "onboard_time": 1721642422,
+        "rank": 48,
+        "category": "社会新闻,社会正能量"
+      },
+      {
+        "raw_hot": 141557,
+        "num": 141557,
+        "word": "原来真的有领导叫人ID啊",
+        "onboard_time": 1721644521,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#三中全会决定里的民生事#"
+    }
+  }
+}
