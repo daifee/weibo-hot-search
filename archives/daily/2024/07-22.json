@@ -1,6 +1,6 @@
 {
   "startTime": 1721579123353,
-  "endTime": 1721619429788,
+  "endTime": 1721622234626,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1821432,
-      "num": 437772,
+      "num": 492612,
       "word": "海底捞真的越来越颠了",
       "onboard_time": 1721614039,
       "rank": 10,
@@ -75,6 +75,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1319425,
+      "num": 1319425,
+      "word": "李嫣晒唇腭裂手术照",
+      "onboard_time": 1721621181,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1184100,
+      "num": 484146,
+      "word": "王宁",
+      "onboard_time": 1721619741,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1181385,
       "num": 1181385,
       "word": "哈里斯发声称赞拜登",
@@ -92,11 +108,19 @@
     },
     {
       "raw_hot": 916175,
-      "num": 315771,
+      "num": 342599,
       "word": "为什么空调一关立刻就变热了",
       "onboard_time": 1721614220,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 912950,
+      "num": 727042,
+      "word": "密室大逃脱6首发阵容",
+      "onboard_time": 1721620341,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 895813,
@@ -155,6 +179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 682118,
+      "num": 682118,
+      "word": "央视起底硅胶人脸面具乱象",
+      "onboard_time": 1721617820,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 670039,
       "num": 670039,
       "word": "泫雅表演时台下无人应援",
@@ -184,6 +216,14 @@
       "word": "虎门一公职人员贩毒被执行死刑",
       "onboard_time": 1721571982,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 584055,
+      "num": 584055,
+      "word": "不婚不育的年轻人涌入阜新买低价房",
+      "onboard_time": 1721618961,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -308,7 +348,7 @@
     },
     {
       "raw_hot": 459757,
-      "num": 310294,
+      "num": 338053,
       "word": "耶耶 还有哪位要摸吗",
       "onboard_time": 1721617941,
       "rank": 21,
@@ -355,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 416662,
+      "num": 416662,
+      "word": "陈好宋茜 教授和她骄傲的学生",
+      "onboard_time": 1721621603,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 413459,
       "num": 243574,
       "word": "吃饭偶遇张婧仪做服务员",
@@ -363,12 +411,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 410635,
+      "num": 338728,
+      "word": "气血不足就要多出去玩",
+      "onboard_time": 1721618961,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 407652,
       "num": 407652,
       "word": "人民大学称对师德失范行为零容忍",
       "onboard_time": 1721612599,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 407275,
+      "num": 407275,
+      "word": "冯小刚赵丽颖是第二次合作",
+      "onboard_time": 1721618602,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 406511,
@@ -393,14 +457,6 @@
       "onboard_time": 1721610442,
       "rank": 42,
       "category": "情感,互联网"
-    },
-    {
-      "raw_hot": 377619,
-      "num": 377619,
-      "word": "冯小刚赵丽颖是第二次合作",
-      "onboard_time": 1721618602,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 369786,
@@ -467,14 +523,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 285126,
-      "num": 285126,
-      "word": "气血不足就要多出去玩",
-      "onboard_time": 1721618961,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 278593,
       "num": 278593,
       "word": "BLACKPINK将明年回归",
@@ -497,6 +545,14 @@
       "onboard_time": 1721617820,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 271197,
+      "num": 495033,
+      "word": "9年医学生查出桥本甲状腺炎被拒录",
+      "onboard_time": 1721620341,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267201,
@@ -611,14 +667,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 207998,
-      "num": 207998,
-      "word": "不婚不育的年轻人涌入阜新买低价房",
-      "onboard_time": 1721618961,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 205267,
       "num": 205267,
       "word": "向阳花",
@@ -641,6 +689,14 @@
       "onboard_time": 1721613920,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 198238,
+      "num": 198238,
+      "word": "小猫就这么水灵灵的剃光了",
+      "onboard_time": 1721618661,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 197846,
@@ -715,6 +771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 189363,
+      "num": 189363,
+      "word": "许嵩大连抢票",
+      "onboard_time": 1721621181,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 186758,
       "num": 186758,
       "word": "电影向阳花概念海报",
@@ -739,20 +803,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 182995,
-      "num": 182995,
-      "word": "小猫就这么水灵灵的剃光了",
-      "onboard_time": 1721618661,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 182912,
       "num": 182912,
       "word": "本周狗屎运最旺的星座",
       "onboard_time": 1721606960,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 182674,
+      "num": 182674,
+      "word": "邓紫棋在舞台上抽筋",
+      "onboard_time": 1721620220,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 181415,
@@ -795,6 +859,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 174574,
+      "num": 214620,
+      "word": "俄罗斯女子从13楼坠落奇迹生还",
+      "onboard_time": 1721618180,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174328,
       "num": 174328,
       "word": "泰国队员想来中国队宿舍凉快",
@@ -811,20 +883,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 173553,
+      "num": 245458,
+      "word": "俄罗斯一女子2拳击倒搭讪男子",
+      "onboard_time": 1721616380,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172487,
       "num": 177816,
       "word": "种地吧回应加人",
       "onboard_time": 1721467338,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 172331,
-      "num": 245458,
-      "word": "俄罗斯一女子2拳击倒搭讪男子",
-      "onboard_time": 1721616380,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171530,
@@ -891,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156125,
+      "num": 156125,
+      "word": "小狗为蹭空调尾巴要摇成螺旋桨了",
+      "onboard_time": 1721617701,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155987,
       "num": 155987,
       "word": "80后乘组即将在轨满三个月",
@@ -953,14 +1033,6 @@
       "onboard_time": 1721603415,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143764,
-      "num": 420888,
-      "word": "央视起底硅胶人脸面具乱象",
-      "onboard_time": 1721617820,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133122,
@@ -1067,12 +1139,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 113771,
+      "num": 1565028,
+      "word": "夏天最后一个节气来了",
+      "onboard_time": 1721616200,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111170,
       "num": 163660,
       "word": "周深TMEA年度男歌手",
       "onboard_time": 1721574323,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 105105,
+      "num": 409947,
+      "word": "哈里斯称将尽一切努力击败特朗普",
+      "onboard_time": 1721621842,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 104929,
@@ -1105,14 +1193,6 @@
       "onboard_time": 1721567420,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 98836,
-      "num": 1565028,
-      "word": "夏天最后一个节气来了",
-      "onboard_time": 1721616200,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98805,
@@ -1241,14 +1321,6 @@
       "onboard_time": 1721593572,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 39889,
-      "num": 214620,
-      "word": "俄罗斯女子从13楼坠落奇迹生还",
-      "onboard_time": 1721618180,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31822,
