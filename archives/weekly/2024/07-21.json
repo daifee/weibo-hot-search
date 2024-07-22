@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721612884142,
+  "endTime": 1721615992472,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -97,6 +97,22 @@
       "onboard_time": 1721486603,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1835510,
+      "num": 1835510,
+      "word": "赵丽颖领衔主演冯小刚新片",
+      "onboard_time": 1721614281,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1821432,
+      "num": 437772,
+      "word": "海底捞真的越来越颠了",
+      "onboard_time": 1721614039,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 1760150,
@@ -387,12 +403,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 820128,
+      "num": 688643,
+      "word": "拜登退选前大量烧钱",
+      "onboard_time": 1721608581,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 806459,
       "num": 537976,
       "word": "女子被离婚七年的前夫暴力殴打",
       "onboard_time": 1721538077,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 792733,
+      "num": 792733,
+      "word": "降息",
+      "onboard_time": 1721611943,
+      "rank": 6,
+      "category": "财经"
     },
     {
       "raw_hot": 789260,
@@ -475,6 +507,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 702288,
+      "num": 310908,
+      "word": "为什么空调一关立刻就变热了",
+      "onboard_time": 1721614220,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 701426,
       "num": 443536,
       "word": "美国公布核弹头数量",
@@ -497,14 +537,6 @@
       "onboard_time": 1721529018,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 688643,
-      "num": 688643,
-      "word": "拜登退选前大量烧钱",
-      "onboard_time": 1721608581,
-      "rank": 5,
-      "category": "国外时政"
     },
     {
       "raw_hot": 684592,
@@ -675,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 547095,
+      "num": 547095,
+      "word": "抓娃娃片尾鸣谢沈腾马丽家属",
+      "onboard_time": 1721610981,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 529682,
       "num": 464601,
       "word": "SBS直播",
@@ -731,14 +771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 519189,
-      "num": 519189,
-      "word": "降息",
-      "onboard_time": 1721611943,
-      "rank": 6,
-      "category": "财经"
-    },
-    {
       "raw_hot": 516186,
       "num": 516186,
       "word": "郁可唯求观众删视频",
@@ -747,20 +779,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 511215,
+      "num": 511215,
+      "word": "杨志刚演技",
+      "onboard_time": 1721614220,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 507119,
       "num": 285586,
       "word": "特朗普17岁长孙女演讲出圈",
       "onboard_time": 1721486121,
       "rank": 11,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 502878,
-      "num": 502878,
-      "word": "抓娃娃片尾鸣谢沈腾马丽家属",
-      "onboard_time": 1721610981,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 501476,
@@ -809,6 +841,14 @@
       "onboard_time": 1721489301,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 484223,
+      "num": 484223,
+      "word": "100万元房贷30年减少2.1万",
+      "onboard_time": 1721612661,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 482263,
@@ -995,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396131,
+      "num": 396131,
+      "word": "人民大学称对师德失范行为零容忍",
+      "onboard_time": 1721612599,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 393218,
       "num": 346237,
       "word": "阳虚还是阴虚看出汗就能知道",
@@ -1003,12 +1051,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 391353,
+      "num": 308480,
+      "word": "因为高中有朋友啊",
+      "onboard_time": 1721613440,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 389855,
       "num": 281072,
       "word": "国家卫健委表示对伤医事件零容忍",
       "onboard_time": 1721483961,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389457,
+      "num": 323200,
+      "word": "我爷爷总把微信当作写信的软件",
+      "onboard_time": 1721610442,
+      "rank": 42,
+      "category": "情感,互联网"
     },
     {
       "raw_hot": 384464,
@@ -1075,6 +1139,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 358526,
+      "num": 358526,
+      "word": "马斯克换头像庆祝拜登退选",
+      "onboard_time": 1721614281,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 357961,
       "num": 357961,
       "word": "卡琳娜cos硬核一中",
@@ -1131,12 +1203,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 323200,
-      "num": 323200,
-      "word": "我爷爷总把微信当作写信的软件",
-      "onboard_time": 1721610442,
-      "rank": 42,
-      "category": "情感,互联网"
+      "raw_hot": 322829,
+      "num": 322829,
+      "word": "大哥远停播",
+      "onboard_time": 1721614940,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 322477,
@@ -1185,6 +1257,14 @@
       "onboard_time": 1721563042,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 311557,
+      "num": 311557,
+      "word": "易烊千玺刘艳芬年度实体专辑",
+      "onboard_time": 1721615301,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 310924,
@@ -1419,6 +1499,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 257402,
+      "num": 257402,
+      "word": "A股",
+      "onboard_time": 1721614640,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 256031,
       "num": 256031,
       "word": "县城文学是怎么火爆全网的",
@@ -1513,6 +1601,14 @@
       "onboard_time": 1721522418,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 234904,
+      "num": 234904,
+      "word": "央行宣布降息10个基点",
+      "onboard_time": 1721613440,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 234463,
@@ -1809,14 +1905,6 @@
       "onboard_time": 1721570661,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 201971,
-      "num": 201971,
-      "word": "人民大学称对师德失范行为零容忍",
-      "onboard_time": 1721612599,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201815,
@@ -2179,14 +2267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187035,
-      "num": 187035,
-      "word": "100万元房贷30年减少2.1万",
-      "onboard_time": 1721612661,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186697,
       "num": 384296,
       "word": "我国将完善学生实习实践制度",
@@ -2235,12 +2315,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 183491,
+      "num": 183491,
+      "word": "花少6出发智利",
+      "onboard_time": 1721614461,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182912,
       "num": 182912,
       "word": "本周狗屎运最旺的星座",
       "onboard_time": 1721606960,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 182437,
+      "num": 182437,
+      "word": "拜登退选后家人感到如释重负",
+      "onboard_time": 1721615419,
+      "rank": 39,
+      "category": "国外时政"
     },
     {
       "raw_hot": 180250,
@@ -2491,6 +2587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168434,
+      "num": 168434,
+      "word": "巴黎奥运会金牌长啥样",
+      "onboard_time": 1721614821,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167495,
       "num": 167495,
       "word": "宝马回应临时加价4S店才交车",
@@ -2704,6 +2808,14 @@
       "word": "以军空袭也门荷台达",
       "onboard_time": 1721519115,
       "rank": 32,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 151103,
+      "num": 163242,
+      "word": "泽连斯基称尊重拜登退选决定",
+      "onboard_time": 1721613920,
+      "rank": 41,
       "category": "国外时政"
     },
     {
@@ -3001,6 +3113,14 @@
       "onboard_time": 1721485401,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134801,
+      "num": 161478,
+      "word": "哈里斯能打败特朗普吗",
+      "onboard_time": 1721613920,
+      "rank": 42,
+      "category": "国外时政"
     },
     {
       "raw_hot": 134558,
@@ -3699,6 +3819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59314,
+      "num": 440603,
+      "word": "寿带鸟抖动尾羽像极了舞水袖",
+      "onboard_time": 1721613499,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58823,
       "num": 453475,
       "word": "跳水梦之队出征巴黎",
@@ -3855,6 +3983,14 @@
       "num": 402707,
       "word": "小摔跤手阿其拉跳蒙版科目三",
       "onboard_time": 1721536338,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41764,
+      "num": 356915,
+      "word": "鸿星尔克与国货们的暖心联动",
+      "onboard_time": 1721612901,
       "rank": 15,
       "category": "社会新闻"
     },
