@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1721655270687,
+  "endTime": 1721657968101,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -185,6 +185,14 @@
       "onboard_time": 1708328198,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12145699,
+      "num": 12145699,
+      "word": "蒋敦豪发长文回应",
+      "onboard_time": 1721654242,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 12106728,
@@ -625,14 +633,6 @@
       "onboard_time": 1704379117,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8543780,
-      "num": 8543780,
-      "word": "蒋敦豪发长文回应",
-      "onboard_time": 1721654242,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 8484703,
