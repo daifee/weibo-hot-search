@@ -1,6 +1,6 @@
 {
   "startTime": 1721665529273,
-  "endTime": 1721673569389,
+  "endTime": 1721675829814,
   "band_list": [
     {
       "raw_hot": 4456876,
@@ -403,6 +403,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 123305,
+      "num": 105114,
+      "word": "拜登退选至少有两重原因",
+      "onboard_time": 1721668215,
+      "rank": 38,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 118093,
       "num": 134820,
       "word": "成毅赴山海被绑路透",
@@ -417,14 +425,6 @@
       "onboard_time": 1721648423,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 105114,
-      "num": 105114,
-      "word": "拜登退选至少有两重原因",
-      "onboard_time": 1721668215,
-      "rank": 38,
-      "category": "国外时政"
     },
     {
       "raw_hot": 67137,
@@ -459,6 +459,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 49707,
+      "num": 49707,
+      "word": "咒术回战 要不还是别画了",
+      "onboard_time": 1721672353,
+      "rank": 44,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 43755,
       "num": 235226,
       "word": "00后姑娘试用期被特批15天休假",
@@ -473,14 +481,6 @@
       "onboard_time": 1721667377,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 40390,
-      "num": 41556,
-      "word": "咒术回战 要不还是别画了",
-      "onboard_time": 1721672353,
-      "rank": 44,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 39202,
@@ -515,7 +515,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 26762,
+      "raw_hot": 27879,
       "num": 36012,
       "word": "拜登退选后的可能继任者",
       "onboard_time": 1721673251,
@@ -523,7 +523,7 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 23660,
+      "raw_hot": 23699,
       "num": 143856,
       "word": "神十八乘组太空出差能有多充实",
       "onboard_time": 1721653282,
@@ -531,11 +531,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21376,
+      "num": 27010,
+      "word": "用山东方言说唱呼叫山东舰",
+      "onboard_time": 1721674512,
+      "rank": 44,
+      "category": "军事"
+    },
+    {
       "raw_hot": 17923,
       "num": 48690,
       "word": "高铁乘客突发疾病河南医生紧急施救",
       "onboard_time": 1721673493,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13827,
+      "num": 64892,
+      "word": "i人火把节被摔出表情包",
+      "onboard_time": 1721675351,
+      "rank": 9,
       "category": "社会新闻"
     },
     {

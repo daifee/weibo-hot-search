@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721673569389,
+  "endTime": 1721675829814,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -49531,6 +49531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123305,
+      "num": 105114,
+      "word": "拜登退选至少有两重原因",
+      "onboard_time": 1721668215,
+      "rank": 38,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 123277,
       "num": 123277,
       "word": "上海迪士尼暑期门票飙至719元",
@@ -53561,14 +53569,6 @@
       "onboard_time": 1720329138,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 105114,
-      "num": 105114,
-      "word": "拜登退选至少有两重原因",
-      "onboard_time": 1721668215,
-      "rank": 38,
-      "category": "国外时政"
     },
     {
       "raw_hot": 105018,
@@ -59675,6 +59675,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 49707,
+      "num": 49707,
+      "word": "咒术回战 要不还是别画了",
+      "onboard_time": 1721672353,
+      "rank": 44,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 49692,
       "num": 61804,
       "word": "王俊凯电竞男主",
@@ -60977,14 +60985,6 @@
       "onboard_time": 1719913999,
       "rank": 9,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 40390,
-      "num": 41556,
-      "word": "咒术回战 要不还是别画了",
-      "onboard_time": 1721672353,
-      "rank": 44,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 40304,
@@ -62515,6 +62515,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 27879,
+      "num": 36012,
+      "word": "拜登退选后的可能继任者",
+      "onboard_time": 1721673251,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 27763,
       "num": 229563,
       "word": "绝区零好多人啊",
@@ -62673,14 +62681,6 @@
       "onboard_time": 1720995312,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 26762,
-      "num": 36012,
-      "word": "拜登退选后的可能继任者",
-      "onboard_time": 1721673251,
-      "rank": 48,
-      "category": "国外时政"
     },
     {
       "raw_hot": 26729,
@@ -63481,6 +63481,14 @@
       "onboard_time": 1721122699,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21376,
+      "num": 27010,
+      "word": "用山东方言说唱呼叫山东舰",
+      "onboard_time": 1721674512,
+      "rank": 44,
+      "category": "军事"
     },
     {
       "raw_hot": 21370,
@@ -64361,6 +64369,14 @@
       "onboard_time": 1721246110,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13827,
+      "num": 64892,
+      "word": "i人火把节被摔出表情包",
+      "onboard_time": 1721675351,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13740,
