@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721675829814,
+  "endTime": 1721676915189,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -62227,6 +62227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30194,
+      "num": 36012,
+      "word": "拜登退选后的可能继任者",
+      "onboard_time": 1721673251,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 30070,
       "num": 30070,
       "word": "索斯盖特又换对了",
@@ -62513,14 +62521,6 @@
       "onboard_time": 1720413859,
       "rank": 21,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 27879,
-      "num": 36012,
-      "word": "拜登退选后的可能继任者",
-      "onboard_time": 1721673251,
-      "rank": 48,
-      "category": "国外时政"
     },
     {
       "raw_hot": 27763,
@@ -63419,6 +63419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21843,
+      "num": 27469,
+      "word": "用山东方言说唱呼叫山东舰",
+      "onboard_time": 1721674512,
+      "rank": 44,
+      "category": "军事"
+    },
+    {
       "raw_hot": 21784,
       "num": 148659,
       "word": "周深说荧光棒别打到前面的朋友",
@@ -63481,14 +63489,6 @@
       "onboard_time": 1721122699,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21376,
-      "num": 27010,
-      "word": "用山东方言说唱呼叫山东舰",
-      "onboard_time": 1721674512,
-      "rank": 44,
-      "category": "军事"
     },
     {
       "raw_hot": 21370,
