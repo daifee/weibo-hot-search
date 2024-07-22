@@ -1,0 +1,410 @@
+{
+  "runTime": 1721679658928,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 218157,
+        "num": 218157,
+        "word": "蒋敦豪发长文回应",
+        "onboard_time": 1721654242,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65613,
+        "num": 65613,
+        "word": "奶茶30元时代已成过去",
+        "onboard_time": 1721640983,
+        "rank": 1,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 17295,
+        "num": 63809,
+        "word": "神十八乘组太空出差能有多充实",
+        "onboard_time": 1721653282,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62943,
+        "num": 62943,
+        "word": "拜登退选至少有两重原因",
+        "onboard_time": 1721668215,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 53654,
+        "num": 53654,
+        "word": "人大王某某被开除党籍",
+        "onboard_time": 1721647703,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108152,
+        "num": 53277,
+        "word": "种地吧成员支持蒋敦豪",
+        "onboard_time": 1721658264,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61360,
+        "num": 53146,
+        "word": "李梦 穿的不错下次别穿了",
+        "onboard_time": 1721664800,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 52404,
+        "num": 52404,
+        "word": "从严从快处理师德失范行为",
+        "onboard_time": 1721664619,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41640,
+        "num": 41640,
+        "word": "相柳战死",
+        "onboard_time": 1721647523,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21766,
+        "num": 41332,
+        "word": "BBA退出价格战涨了多少",
+        "onboard_time": 1721658565,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 187297,
+        "num": 41065,
+        "word": "老年男明星 性侵女服务员",
+        "onboard_time": 1721658207,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114641,
+        "num": 40207,
+        "word": "人大通报王某某性骚扰",
+        "onboard_time": 1721647102,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62536,
+        "num": 39758,
+        "word": "空空日记人设",
+        "onboard_time": 1721668515,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 62075,
+        "num": 39240,
+        "word": "女子称因学历低被判去高危妊娠门诊",
+        "onboard_time": 1721658264,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54129,
+        "num": 39102,
+        "word": "空空日记掉粉超100万",
+        "onboard_time": 1721644400,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 47757,
+        "num": 38303,
+        "word": "清华教授解读自愿弹性延迟退休原则",
+        "onboard_time": 1721651422,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38155,
+        "num": 38155,
+        "word": "90后男女都65岁以后退休系网民推估",
+        "onboard_time": 1721650223,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34586,
+        "num": 34586,
+        "word": "秦岚 我不会和前任做朋友",
+        "onboard_time": 1721646202,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32595,
+        "num": 32595,
+        "word": "咒术回战 要不还是别画了",
+        "onboard_time": 1721672353,
+        "rank": 18,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 32478,
+        "num": 32478,
+        "word": "拜登退选后的可能继任者",
+        "onboard_time": 1721673251,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 31330,
+        "num": 31330,
+        "word": "人民网评人大清理害群之马",
+        "onboard_time": 1721658324,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30429,
+        "num": 30429,
+        "word": "郑州暴雨",
+        "onboard_time": 1721646260,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30168,
+        "num": 30168,
+        "word": "女子折叠凳掉福宝场地被终身禁入",
+        "onboard_time": 1721652321,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27531,
+        "num": 27531,
+        "word": "田曦薇财阀千金",
+        "onboard_time": 1721660305,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 26360,
+        "num": 26360,
+        "word": "中方决定取消对美国卫讯公司的反制措施",
+        "onboard_time": 1721646142,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25381,
+        "num": 25381,
+        "word": "男子猥亵被拘13天父亲向受害者求情",
+        "onboard_time": 1721649983,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24838,
+        "num": 24838,
+        "word": "游泳时千万别穿白色泳衣",
+        "onboard_time": 1721649623,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 23530,
+        "num": 23530,
+        "word": "宗馥莉已接手父亲名下多家公司",
+        "onboard_time": 1721658083,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22431,
+        "num": 22431,
+        "word": "gidle方道歉",
+        "onboard_time": 1721660782,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22029,
+        "num": 22029,
+        "word": "婚礼上被喷酒新娘霸气眼神杀",
+        "onboard_time": 1721648423,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21921,
+        "num": 21921,
+        "word": "原来慈禧太后的卧室长这样",
+        "onboard_time": 1721651963,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 21894,
+        "num": 21894,
+        "word": "用山东方言说唱呼叫山东舰",
+        "onboard_time": 1721674512,
+        "rank": 31,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 21863,
+        "num": 21863,
+        "word": "中国人民大学声明",
+        "onboard_time": 1721609841,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21260,
+        "num": 21260,
+        "word": "胡先煦曾参加过封神试镜",
+        "onboard_time": 1721679011,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20594,
+        "num": 20594,
+        "word": "姜妍虞书欣 姐狗文学",
+        "onboard_time": 1721677690,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20240,
+        "num": 20240,
+        "word": "宁艺卓说第一次在中国签售",
+        "onboard_time": 1721651003,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 20025,
+        "num": 20025,
+        "word": "金智媛化妆师秒删ins",
+        "onboard_time": 1721649683,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19688,
+        "num": 19688,
+        "word": "人大女博士举报情况属实",
+        "onboard_time": 1721660722,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19671,
+        "num": 19671,
+        "word": "优衣库和中国消费者都说对方变了",
+        "onboard_time": 1721668455,
+        "rank": 38,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 19547,
+        "num": 19547,
+        "word": "一句警察叔叔我好饿小孩哥成功蹭到了",
+        "onboard_time": 1721669773,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19487,
+        "num": 19487,
+        "word": "相柳是笑着死的",
+        "onboard_time": 1721649683,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18412,
+        "num": 19485,
+        "word": "苹果手表被曝运动记录无中生有",
+        "onboard_time": 1721662821,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 17910,
+        "num": 19484,
+        "word": "遇到性骚扰请勇敢说不",
+        "onboard_time": 1721677390,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16857,
+        "num": 19482,
+        "word": "长相思尖叫之夜",
+        "onboard_time": 1721656285,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16712,
+        "num": 19480,
+        "word": "肖战陈情令人物曲上线五周年",
+        "onboard_time": 1721657905,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16694,
+        "num": 19478,
+        "word": "毛球",
+        "onboard_time": 1721655685,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16645,
+        "num": 19477,
+        "word": "李昊 十个勤天永远是十个勤天",
+        "onboard_time": 1721659289,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16604,
+        "num": 19474,
+        "word": "相柳下线了",
+        "onboard_time": 1721665940,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16565,
+        "num": 19471,
+        "word": "天秤座的情绪周期",
+        "onboard_time": 1721670014,
+        "rank": 48,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 16296,
+        "num": 19470,
+        "word": "杨紫长相思2最后一个镜头",
+        "onboard_time": 1721662523,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#一图速读三中全会决定60条#"
+    }
+  }
+}
