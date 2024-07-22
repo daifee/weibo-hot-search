@@ -1,6 +1,6 @@
 {
   "startTime": 1721579123353,
-  "endTime": 1721632760607,
+  "endTime": 1721633708042,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -17,6 +17,14 @@
       "onboard_time": 1721585473,
       "rank": 1,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 2483909,
+      "num": 1615809,
+      "word": "退休年龄",
+      "onboard_time": 1721630779,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2451773,
@@ -81,14 +89,6 @@
       "onboard_time": 1721624362,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1615809,
-      "num": 1615809,
-      "word": "退休年龄",
-      "onboard_time": 1721630779,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1444891,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 822958,
+      "num": 822958,
+      "word": "媒体评人大女博士举报导师性骚扰",
+      "onboard_time": 1721629101,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 820128,
       "num": 688643,
       "word": "拜登退选前大量烧钱",
@@ -203,12 +211,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 754327,
-      "num": 754327,
-      "word": "媒体评人大女博士举报导师性骚扰",
-      "onboard_time": 1721629101,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 741319,
+      "num": 741319,
+      "word": "秦昊忙求婚伊能静忙补妆",
+      "onboard_time": 1721628501,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 710537,
@@ -217,6 +225,14 @@
       "onboard_time": 1721617820,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 695389,
+      "num": 351837,
+      "word": "看似干净其实很脏的行为",
+      "onboard_time": 1721630480,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 686213,
@@ -233,14 +249,6 @@
       "onboard_time": 1721623462,
       "rank": 5,
       "category": "财经,网红"
-    },
-    {
-      "raw_hot": 682144,
-      "num": 682144,
-      "word": "秦昊忙求婚伊能静忙补妆",
-      "onboard_time": 1721628501,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 670039,
@@ -395,14 +403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 525991,
-      "num": 351837,
-      "word": "看似干净其实很脏的行为",
-      "onboard_time": 1721630480,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 514495,
       "num": 514495,
       "word": "杨志刚演技",
@@ -433,6 +433,14 @@
       "onboard_time": 1721606420,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 493973,
+      "num": 493973,
+      "word": "青岛暴雨",
+      "onboard_time": 1721631321,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 488158,
@@ -547,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 419958,
+      "num": 429429,
+      "word": "唐朝诡事录口碑",
+      "onboard_time": 1721630361,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 418874,
       "num": 338728,
       "word": "气血不足就要多出去玩",
@@ -587,6 +603,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 401169,
+      "num": 401169,
+      "word": "张新成本性暴露",
+      "onboard_time": 1721632341,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 399376,
       "num": 254306,
       "word": "胎儿检出超雄孕妇完成终止妊娠手术",
@@ -611,28 +635,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 367222,
-      "num": 347658,
-      "word": "唐朝诡事录口碑",
-      "onboard_time": 1721630361,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 353726,
-      "num": 353726,
-      "word": "青岛暴雨",
-      "onboard_time": 1721631321,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 353258,
       "num": 353258,
       "word": "虞书欣和她的七个小i人",
       "onboard_time": 1721606240,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 347534,
+      "num": 288911,
+      "word": "惠英红 真的想演求个本子",
+      "onboard_time": 1721632940,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 341435,
@@ -731,8 +747,8 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 288118,
-      "num": 288118,
+      "raw_hot": 288628,
+      "num": 288628,
       "word": "泽连斯基同意与普京谈判",
       "onboard_time": 1721630419,
       "rank": 35,
@@ -753,6 +769,14 @@
       "onboard_time": 1721605039,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 276408,
+      "num": 276408,
+      "word": "歌手帮唱",
+      "onboard_time": 1721633300,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 275719,
@@ -1043,6 +1067,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 203054,
+      "num": 522621,
+      "word": "网红面包店现蟑螂维权先删视频",
+      "onboard_time": 1721631620,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198921,
       "num": 198921,
       "word": "陆虎巡演抢票",
@@ -1065,14 +1097,6 @@
       "onboard_time": 1721631801,
       "rank": 38,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 198153,
-      "num": 198153,
-      "word": "张新成本性暴露",
-      "onboard_time": 1721632341,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 197846,
@@ -1209,6 +1233,14 @@
       "onboard_time": 1721617461,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 186234,
+      "num": 186234,
+      "word": "肖战给自己配音",
+      "onboard_time": 1721633420,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 183586,
@@ -1355,6 +1387,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 169999,
+      "num": 169999,
+      "word": "今年三伏天所有女孩都这样做",
+      "onboard_time": 1721632881,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168434,
       "num": 168434,
       "word": "巴黎奥运会金牌长啥样",
@@ -1369,6 +1409,14 @@
       "onboard_time": 1721578879,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 166477,
+      "num": 506303,
+      "word": "对师德失范零容忍就要刮骨疗毒",
+      "onboard_time": 1721626221,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166278,
@@ -1627,14 +1675,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 113384,
-      "num": 522621,
-      "word": "网红面包店现蟑螂维权先删视频",
-      "onboard_time": 1721631620,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 111170,
       "num": 163660,
       "word": "周深TMEA年度男歌手",
@@ -1739,12 +1779,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74391,
+      "num": 356970,
+      "word": "谁懂30万块电池0自燃的含金量",
+      "onboard_time": 1721630480,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 68982,
       "num": 68982,
       "word": "中国奥数竞赛五连冠被美国队终结",
       "onboard_time": 1721592671,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 68506,
+      "num": 474020,
+      "word": "用吸管自制梦幻泡泡机",
+      "onboard_time": 1721628861,
+      "rank": 9,
+      "category": "休闲"
     },
     {
       "raw_hot": 65180,
@@ -1761,22 +1817,6 @@
       "onboard_time": 1721613499,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 63301,
-      "num": 474020,
-      "word": "用吸管自制梦幻泡泡机",
-      "onboard_time": 1721628861,
-      "rank": 9,
-      "category": "休闲"
-    },
-    {
-      "raw_hot": 61875,
-      "num": 356970,
-      "word": "谁懂30万块电池0自燃的含金量",
-      "onboard_time": 1721630480,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 59336,
@@ -1801,6 +1841,14 @@
       "onboard_time": 1721580138,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 49938,
+      "num": 406797,
+      "word": "国有大行考虑下调存款挂牌利率",
+      "onboard_time": 1721631620,
+      "rank": 14,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 49842,
@@ -1843,28 +1891,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 33544,
-      "num": 506303,
-      "word": "对师德失范零容忍就要刮骨疗毒",
-      "onboard_time": 1721626221,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 31822,
       "num": 63760,
       "word": "周深年度最具影响力全能歌手",
       "onboard_time": 1721585772,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 31572,
-      "num": 406797,
-      "word": "国有大行考虑下调存款挂牌利率",
-      "onboard_time": 1721631620,
-      "rank": 14,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 31120,

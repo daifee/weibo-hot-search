@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721632760607,
+  "endTime": 1721633708042,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -41,6 +41,14 @@
       "onboard_time": 1721572821,
       "rank": 11,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 2483909,
+      "num": 1615809,
+      "word": "退休年龄",
+      "onboard_time": 1721630779,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2451773,
@@ -153,14 +161,6 @@
       "onboard_time": 1721624362,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1615809,
-      "num": 1615809,
-      "word": "退休年龄",
-      "onboard_time": 1721630779,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1607972,
@@ -475,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 822958,
+      "num": 822958,
+      "word": "媒体评人大女博士举报导师性骚扰",
+      "onboard_time": 1721629101,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 820128,
       "num": 688643,
       "word": "拜登退选前大量烧钱",
@@ -531,20 +539,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 754327,
-      "num": 754327,
-      "word": "媒体评人大女博士举报导师性骚扰",
-      "onboard_time": 1721629101,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 745765,
       "num": 745765,
       "word": "双胞胎坐婴儿车滚下站台撞上火车",
       "onboard_time": 1721563879,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 741319,
+      "num": 741319,
+      "word": "秦昊忙求婚伊能静忙补妆",
+      "onboard_time": 1721628501,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 733476,
@@ -603,6 +611,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 695389,
+      "num": 351837,
+      "word": "看似干净其实很脏的行为",
+      "onboard_time": 1721630480,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 695314,
       "num": 695314,
       "word": "国家发改委紧急下达3.5亿元",
@@ -633,14 +649,6 @@
       "onboard_time": 1721562560,
       "rank": 3,
       "category": "美食"
-    },
-    {
-      "raw_hot": 682144,
-      "num": 682144,
-      "word": "秦昊忙求婚伊能静忙补妆",
-      "onboard_time": 1721628501,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 681373,
@@ -915,14 +923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 525991,
-      "num": 351837,
-      "word": "看似干净其实很脏的行为",
-      "onboard_time": 1721630480,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 525879,
       "num": 552740,
       "word": "男子轨交上猥亵女子被拘13日",
@@ -1001,6 +1001,14 @@
       "onboard_time": 1721606420,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 493973,
+      "num": 493973,
+      "word": "青岛暴雨",
+      "onboard_time": 1721631321,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 488158,
@@ -1243,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 419958,
+      "num": 429429,
+      "word": "唐朝诡事录口碑",
+      "onboard_time": 1721630361,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 418874,
       "num": 338728,
       "word": "气血不足就要多出去玩",
@@ -1289,6 +1305,14 @@
       "onboard_time": 1721520436,
       "rank": 14,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 401169,
+      "num": 401169,
+      "word": "张新成本性暴露",
+      "onboard_time": 1721632341,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 400777,
@@ -1387,14 +1411,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 367222,
-      "num": 347658,
-      "word": "唐朝诡事录口碑",
-      "onboard_time": 1721630361,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 359706,
       "num": 296419,
       "word": "中医说三伏天得热着过",
@@ -1419,20 +1435,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 353726,
-      "num": 353726,
-      "word": "青岛暴雨",
-      "onboard_time": 1721631321,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 353258,
       "num": 353258,
       "word": "虞书欣和她的七个小i人",
       "onboard_time": 1721606240,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 347534,
+      "num": 288911,
+      "word": "惠英红 真的想演求个本子",
+      "onboard_time": 1721632940,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 342240,
@@ -1691,8 +1707,8 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 288118,
-      "num": 288118,
+      "raw_hot": 288628,
+      "num": 288628,
       "word": "泽连斯基同意与普京谈判",
       "onboard_time": 1721630419,
       "rank": 35,
@@ -1729,6 +1745,14 @@
       "onboard_time": 1721574323,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 276408,
+      "num": 276408,
+      "word": "歌手帮唱",
+      "onboard_time": 1721633300,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 275347,
@@ -2379,6 +2403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 203054,
+      "num": 522621,
+      "word": "网红面包店现蟑螂维权先删视频",
+      "onboard_time": 1721631620,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202942,
       "num": 202942,
       "word": "花少6",
@@ -2537,14 +2569,6 @@
       "onboard_time": 1721631801,
       "rank": 38,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 198153,
-      "num": 198153,
-      "word": "张新成本性暴露",
-      "onboard_time": 1721632341,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 198134,
@@ -2883,6 +2907,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 186234,
+      "num": 186234,
+      "word": "肖战给自己配音",
+      "onboard_time": 1721633420,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185793,
       "num": 185793,
       "word": "花花的每个动作都是甜蜜暴击",
@@ -3219,6 +3251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169999,
+      "num": 169999,
+      "word": "今年三伏天所有女孩都这样做",
+      "onboard_time": 1721632881,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169774,
       "num": 169774,
       "word": "吃太多甜食可能会加重近视",
@@ -3257,6 +3297,14 @@
       "onboard_time": 1721578879,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 166477,
+      "num": 506303,
+      "word": "对师德失范零容忍就要刮骨疗毒",
+      "onboard_time": 1721626221,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166295,
@@ -4147,14 +4195,6 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 113384,
-      "num": 522621,
-      "word": "网红面包店现蟑螂维权先删视频",
-      "onboard_time": 1721631620,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113375,
       "num": 113375,
       "word": "贤贤崽掀翻盆盆奶",
@@ -4467,6 +4507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74391,
+      "num": 356970,
+      "word": "谁懂30万块电池0自燃的含金量",
+      "onboard_time": 1721630480,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 73644,
       "num": 262012,
       "word": "流浪猫靠蹭腿撒娇入编消防队",
@@ -4515,6 +4563,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 68506,
+      "num": 474020,
+      "word": "用吸管自制梦幻泡泡机",
+      "onboard_time": 1721628861,
+      "rank": 9,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 68293,
       "num": 787288,
       "word": "暴雨来袭不要这样做",
@@ -4547,28 +4603,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 63301,
-      "num": 474020,
-      "word": "用吸管自制梦幻泡泡机",
-      "onboard_time": 1721628861,
-      "rank": 9,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 63226,
       "num": 344773,
       "word": "星巴克YONEX联名出球拍了",
       "onboard_time": 1721550258,
       "rank": 32,
       "category": "运动健身,美食"
-    },
-    {
-      "raw_hot": 61875,
-      "num": 356970,
-      "word": "谁懂30万块电池0自燃的含金量",
-      "onboard_time": 1721630480,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 60679,
@@ -4673,6 +4713,14 @@
       "onboard_time": 1721526618,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 49938,
+      "num": 406797,
+      "word": "国有大行考虑下调存款挂牌利率",
+      "onboard_time": 1721631620,
+      "rank": 14,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 49692,
@@ -4859,28 +4907,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 33544,
-      "num": 506303,
-      "word": "对师德失范零容忍就要刮骨疗毒",
-      "onboard_time": 1721626221,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 31822,
       "num": 63760,
       "word": "周深年度最具影响力全能歌手",
       "onboard_time": 1721585772,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 31572,
-      "num": 406797,
-      "word": "国有大行考虑下调存款挂牌利率",
-      "onboard_time": 1721631620,
-      "rank": 14,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 31120,
