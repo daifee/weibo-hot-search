@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/22 16:40:05
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/22 17:24:47
 </p>
 </blockquote>
 <p>
@@ -1031,6 +1031,12 @@ Lenka袭榜（热度：1680168）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%81%9C%E9%81%93%E6%AD%89%E7%9A%84%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E6%80%8E%E4%B9%88%E4%BA%86%23" target="weibo">
 不停道歉的东方甄选怎么了（热度：1627344）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%A4%A7%E5%A5%B3%E5%8D%9A%E5%A3%AB%E4%B8%BE%E6%8A%A5%E5%AF%BC%E5%B8%88%E4%B8%BA%E5%AD%A6%E7%A7%91%E5%B8%A6%E5%A4%B4%E4%BA%BA%23" target="weibo">
+人大女博士举报导师为学科带头人（热度：1624778）
 </a>
 </li>
 
@@ -2817,6 +2823,12 @@ Henry说漏嘴了（热度：1050972）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%20%E6%AD%8C%E6%89%8B%E6%80%BB%E5%86%B3%E8%B5%9B%23" target="weibo">
+张杰 歌手总决赛（热度：1040139）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC2%E7%94%B7%E5%AD%90%E5%B0%8650%E5%B2%81%E5%90%8C%E4%BA%8B%E6%94%BE%E6%B4%97%E8%A1%A3%E6%9C%BA%23" target="weibo">
 日本2男子将50岁同事放洗衣机（热度：1039530）
 </a>
@@ -2873,12 +2885,6 @@ Henry说漏嘴了（热度：1050972）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A7%86%E8%A7%89%E4%B8%AD%E5%9B%BD%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%85%A7%E7%89%87%E7%89%88%E6%9D%83%23" target="weibo">
 视觉中国回应特朗普照片版权（热度：1027635）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%20%E6%AD%8C%E6%89%8B%E6%80%BB%E5%86%B3%E8%B5%9B%23" target="weibo">
-张杰 歌手总决赛（热度：1027147）
 </a>
 </li>
 
@@ -4329,6 +4335,12 @@ B太称新疆行回程给司机大姐买机票（热度：833367）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9F%A5%E9%87%8D%E7%8E%87%E6%B2%A1%E8%B6%853%25%E5%8D%B4%E8%A2%AB%E6%A3%80%E6%B5%8B%E5%87%BAAI%E4%BB%A3%E5%86%99%23" target="weibo">
+查重率没超3%却被检测出AI代写（热度：813403）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B7%8C200%E4%B8%87%E5%90%8E%E5%A5%B3%E5%AD%90%E8%A6%81%E5%8D%96%E6%8E%89%E8%83%BD%E7%9C%8B%E8%A5%BF%E6%B9%96%E7%9A%84%E6%88%BF%E5%AD%90%23" target="weibo">
 跌200万后女子要卖掉能看西湖的房子（热度：812940）
 </a>
@@ -4409,6 +4421,12 @@ B太称新疆行回程给司机大姐买机票（热度：833367）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%9E%E4%B9%A0%E4%B8%80%E4%B8%AA%E6%9C%88%E5%87%80%E6%94%B6%E5%85%A514%E5%85%83%23" target="weibo">
 实习一个月净收入14元（热度：806864）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A9%BA%E7%A9%BA%E6%97%A5%E8%AE%B0%23" target="weibo">
+空空日记（热度：806643）
 </a>
 </li>
 
@@ -4565,6 +4583,12 @@ iPhone16出货量或达9000万部（热度：792182）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2326%E5%B2%81%E5%A5%B3%E7%94%9F%E5%BA%94%E8%81%98%E7%91%9E%E5%B9%B8%E8%A2%AB%E5%AB%8C%E5%B9%B4%E7%BA%AA%E5%A4%A7%23" target="weibo">
 26岁女生应聘瑞幸被嫌年纪大（热度：791663）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E6%9C%88%E6%B2%A1%E6%B4%97%E7%9A%84%E5%BA%8A%E5%8D%95%E6%9C%89%E5%A4%9A%E8%84%8F%23" target="weibo">
+一个月没洗的床单有多脏（热度：789497）
 </a>
 </li>
 
@@ -5990,30 +6014,6 @@ B太曝光星期狗（热度：681086）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9D%9A%E6%8C%81%E7%A9%BF%E8%A2%9C%E5%AD%90%E7%9D%A1%E8%A7%891%E4%B8%AA%E6%9C%88%E8%BA%AB%E4%BD%93%E7%9A%84%E5%8F%98%E5%8C%96%23" target="weibo">
-坚持穿袜子睡觉1个月身体的变化（热度：661156）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%98%89%E5%85%83%E8%A2%AB%E4%B8%AD%E4%BC%A0%E5%BD%95%E5%8F%96%E4%BA%86%23" target="weibo">
-张嘉元被中传录取了（热度：659983）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%A9%BA%E9%99%8D%23" target="weibo">
-张凌赫空降（热度：659918）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E5%89%A7%E9%80%8F%E4%B8%8B%E4%B8%80%E5%AD%A3%E8%8A%B1%E5%B0%91%E6%88%90%E5%91%98%23" target="weibo">
-秦岚剧透下一季花少成员（热度：659875）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6695,6 +6695,12 @@ B太曝光星期狗（热度：681086）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E7%89%88%E4%B8%89%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%86%B3%E5%AE%9A%23%23" target="weibo">
 #思维导图版三中全会决定#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%89%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%86%B3%E5%AE%9A%E9%87%8C%E7%9A%84%E6%B0%91%E7%94%9F%E4%BA%8B%23%23" target="weibo">
+#三中全会决定里的民生事#
 </a>
 </li>
 

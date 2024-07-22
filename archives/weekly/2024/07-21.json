@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721637605379,
+  "endTime": 1721640287426,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 3516120,
-      "num": 494873,
+      "num": 3299284,
       "word": "退休",
       "onboard_time": 1721634741,
       "rank": 10,
@@ -177,6 +177,14 @@
       "onboard_time": 1721624362,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1624778,
+      "num": 1624778,
+      "word": "人大女博士举报导师为学科带头人",
+      "onboard_time": 1721637982,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1607972,
@@ -372,7 +380,7 @@
     },
     {
       "raw_hot": 1105303,
-      "num": 468075,
+      "num": 496082,
       "word": "黄子韬徐艺洋 这比暑期档好看",
       "onboard_time": 1721634680,
       "rank": 13,
@@ -387,7 +395,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1027147,
+      "raw_hot": 1040139,
       "num": 1148168,
       "word": "张杰 歌手总决赛",
       "onboard_time": 1721633720,
@@ -547,6 +555,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 813403,
+      "num": 813403,
+      "word": "查重率没超3%却被检测出AI代写",
+      "onboard_time": 1721635881,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 806643,
+      "num": 483188,
+      "word": "空空日记",
+      "onboard_time": 1721638343,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
       "raw_hot": 806459,
       "num": 537976,
       "word": "女子被离婚七年的前夫暴力殴打",
@@ -561,6 +585,14 @@
       "onboard_time": 1721611943,
       "rank": 6,
       "category": "财经"
+    },
+    {
+      "raw_hot": 789497,
+      "num": 366109,
+      "word": "一个月没洗的床单有多脏",
+      "onboard_time": 1721635581,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 789260,
@@ -771,12 +803,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 644843,
-      "num": 357300,
-      "word": "一个月没洗的床单有多脏",
-      "onboard_time": 1721635581,
-      "rank": 21,
-      "category": "健康医疗"
+      "raw_hot": 644684,
+      "num": 644684,
+      "word": "鲍师傅肉松小贝酱料改配方",
+      "onboard_time": 1721636000,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 640013,
@@ -792,6 +824,14 @@
       "word": "退休阿姨5个好友4个骗子",
       "onboard_time": 1721558478,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 628672,
+      "num": 628672,
+      "word": "韩国女子遭性侵21年后反杀加害者",
+      "onboard_time": 1721634619,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -811,14 +851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 625139,
-      "num": 625139,
-      "word": "韩国女子遭性侵21年后反杀加害者",
-      "onboard_time": 1721634619,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 621443,
       "num": 621443,
       "word": "不婚不育的年轻人涌入阜新买低价房",
@@ -833,6 +865,14 @@
       "onboard_time": 1721621603,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 600279,
+      "num": 600279,
+      "word": "gidle打歌服擅自使用红十字被审判",
+      "onboard_time": 1721638402,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 597910,
@@ -977,6 +1017,14 @@
       "onboard_time": 1721556019,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 529557,
+      "num": 529557,
+      "word": "郑佩佩 半山扶梯的故事",
+      "onboard_time": 1721638882,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 529245,
@@ -1387,14 +1435,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 403776,
-      "num": 403776,
-      "word": "鲍师傅肉松小贝酱料改配方",
-      "onboard_time": 1721636000,
-      "rank": 27,
-      "category": "美食"
-    },
-    {
       "raw_hot": 402339,
       "num": 402339,
       "word": "宝格丽CEO感谢刘亦菲吴磊",
@@ -1403,12 +1443,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 401230,
+      "num": 401230,
+      "word": "韩国1个西瓜可能飙升至5万韩元",
+      "onboard_time": 1721633841,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 400777,
       "num": 400777,
       "word": "四川山洪村民睡眠中被卷走",
       "onboard_time": 1721524400,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 397908,
+      "num": 397908,
+      "word": "小米相纸 2元",
+      "onboard_time": 1721638942,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 393218,
@@ -1467,6 +1523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 371733,
+      "num": 371733,
+      "word": "密逃初代粉碎了",
+      "onboard_time": 1721638162,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 369786,
       "num": 369786,
       "word": "马斯克换头像庆祝拜登退选",
@@ -1523,20 +1587,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 354856,
+      "num": 354856,
+      "word": "吴承恩永远也想不到",
+      "onboard_time": 1721635041,
+      "rank": 36,
+      "category": "幽默,综艺"
+    },
+    {
       "raw_hot": 353258,
       "num": 353258,
       "word": "虞书欣和她的七个小i人",
       "onboard_time": 1721606240,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 342761,
-      "num": 342761,
-      "word": "查重率没超3%却被检测出AI代写",
-      "onboard_time": 1721635881,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 342240,
@@ -1593,6 +1657,14 @@
       "onboard_time": 1721615301,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 327532,
+      "num": 327532,
+      "word": "喜欢上班的人有福啦",
+      "onboard_time": 1721638822,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 322477,
@@ -2075,6 +2147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245939,
+      "num": 245939,
+      "word": "电影异人之下首映口碑",
+      "onboard_time": 1721638761,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 245856,
       "num": 245856,
       "word": "周雨彤侯明昊售后来了",
@@ -2121,14 +2201,6 @@
       "onboard_time": 1721571921,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 240018,
-      "num": 240018,
-      "word": "韩国1个西瓜可能飙升至5万韩元",
-      "onboard_time": 1721633841,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 239736,
@@ -2419,14 +2491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 209403,
-      "num": 209403,
-      "word": "吴承恩永远也想不到",
-      "onboard_time": 1721635041,
-      "rank": 36,
-      "category": "幽默,综艺"
-    },
-    {
       "raw_hot": 207720,
       "num": 207720,
       "word": "陕西垮塌桥4公里外发现2辆失联车",
@@ -2457,6 +2521,14 @@
       "onboard_time": 1721542340,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 206206,
+      "num": 206206,
+      "word": "小米 拍立得",
+      "onboard_time": 1721636481,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 205957,
@@ -2507,6 +2579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 205166,
+      "num": 205166,
+      "word": "京沪高铁上的班味严重超标",
+      "onboard_time": 1721639662,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205102,
       "num": 205102,
       "word": "唐诡西行细节",
@@ -2553,6 +2633,14 @@
       "onboard_time": 1721570541,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202918,
+      "num": 202918,
+      "word": "卡琳娜cos遇到对手了",
+      "onboard_time": 1721639962,
+      "rank": 36,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 202183,
@@ -2785,14 +2873,6 @@
       "onboard_time": 1721538917,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 195786,
-      "num": 195786,
-      "word": "小米 拍立得",
-      "onboard_time": 1721636481,
-      "rank": 44,
-      "category": "数码"
     },
     {
       "raw_hot": 195627,
@@ -3603,6 +3683,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 158523,
+      "num": 158523,
+      "word": "乐华家族演唱会首发阵容",
+      "onboard_time": 1721637800,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 156529,
       "num": 156529,
       "word": "感染尼帕病毒死亡率高达75%",
@@ -3779,6 +3867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149938,
+      "num": 149938,
+      "word": "到底是谁发明的不显示聊天",
+      "onboard_time": 1721640022,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 149481,
       "num": 149481,
       "word": "郑钦文夺生涯第三冠",
@@ -3801,6 +3897,14 @@
       "onboard_time": 1721533939,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146657,
+      "num": 1149229,
+      "word": "你见过仅4.21克的超轻无人机吗",
+      "onboard_time": 1721636000,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146345,
@@ -3857,6 +3961,14 @@
       "onboard_time": 1721485641,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143623,
+      "num": 143623,
+      "word": "庾澄庆 现在的经纪人保护艺人太过头",
+      "onboard_time": 1721640082,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 143616,
@@ -4361,14 +4473,6 @@
       "onboard_time": 1721523317,
       "rank": 45,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 116128,
-      "num": 864602,
-      "word": "你见过仅4.21克的超轻无人机吗",
-      "onboard_time": 1721636000,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115602,
@@ -5019,6 +5123,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 39913,
+      "num": 402875,
+      "word": "法国影后同款摘金宴",
+      "onboard_time": 1721638102,
+      "rank": 15,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 38976,
       "num": 46028,
       "word": "四川汉源山洪现场已搜救到4人",
@@ -5352,6 +5464,9 @@
     },
     {
       "word": "#思维导图版三中全会决定#"
+    },
+    {
+      "word": "#三中全会决定里的民生事#"
     }
   ]
 }
