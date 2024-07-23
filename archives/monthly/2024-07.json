@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721734494795,
+  "endTime": 1721738265458,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -1521,6 +1521,14 @@
       "onboard_time": 1721690416,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1621581,
+      "num": 402165,
+      "word": "金靖文案 小孕妇",
+      "onboard_time": 1721735360,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1608703,
@@ -4859,6 +4867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 935262,
+      "num": 401416,
+      "word": "空空日记掉了200万粉丝",
+      "onboard_time": 1721736259,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 934790,
       "num": 934790,
       "word": "三伏天真的适合减肥吗",
@@ -6147,6 +6163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 820729,
+      "num": 820729,
+      "word": "中国凉席火到法国",
+      "onboard_time": 1721734819,
+      "rank": 1,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 820128,
       "num": 688643,
       "word": "拜登退选前大量烧钱",
@@ -6828,7 +6852,7 @@
     },
     {
       "raw_hot": 774426,
-      "num": 433469,
+      "num": 525355,
       "word": "官方通报女子飙英文骂哭乘务员",
       "onboard_time": 1721731459,
       "rank": 13,
@@ -7315,6 +7339,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 738445,
+      "num": 738445,
+      "word": "韩总 夫人终于嫁给你了",
+      "onboard_time": 1721734220,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 737674,
       "num": 1032243,
       "word": "韩国队奥运没带空调发冰坎肩",
@@ -7401,6 +7433,14 @@
       "onboard_time": 1720977913,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 731192,
+      "num": 400960,
+      "word": "新娘本人回应扔手捧花砸婚闹朋友",
+      "onboard_time": 1721733501,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 730778,
@@ -17003,6 +17043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 402711,
+      "num": 402711,
+      "word": "单依纯说自己长得不高兴",
+      "onboard_time": 1721733800,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 402350,
       "num": 402350,
       "word": "金牛座为什么难以亲近",
@@ -17161,6 +17209,14 @@
       "onboard_time": 1720240998,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 400619,
+      "num": 400619,
+      "word": "元彬 Giselle",
+      "onboard_time": 1721733800,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 400556,
@@ -23443,14 +23499,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 281812,
-      "num": 281812,
-      "word": "元彬 Giselle",
-      "onboard_time": 1721733800,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 281254,
       "num": 281254,
       "word": "直播显示医生未带除颤仪进场",
@@ -23505,6 +23553,14 @@
       "onboard_time": 1721042898,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 280728,
+      "num": 200252,
+      "word": "Lady Gaga 奥运开幕式",
+      "onboard_time": 1721735780,
+      "rank": 24,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 280713,
@@ -24059,6 +24115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 272406,
+      "num": 198819,
+      "word": "lalali",
+      "onboard_time": 1721736919,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 272199,
       "num": 272199,
       "word": "密室大逃脱大神版",
@@ -24329,6 +24393,14 @@
       "onboard_time": 1721708363,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 266686,
+      "num": 198155,
+      "word": "小S大女儿晒聚会照",
+      "onboard_time": 1721737459,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 266653,
@@ -24705,6 +24777,14 @@
       "onboard_time": 1719747738,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 260894,
+      "num": 197634,
+      "word": "莲花楼豆瓣超70万人打分",
+      "onboard_time": 1721736319,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 260861,
@@ -26731,6 +26811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238204,
+      "num": 238204,
+      "word": "白宇拍的国乒",
+      "onboard_time": 1721735360,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 238033,
       "num": 238033,
       "word": "东京食尸鬼 十年后的新动画",
@@ -27867,6 +27955,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 226987,
+      "num": 196505,
+      "word": "克拉岛",
+      "onboard_time": 1721736381,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 226967,
       "num": 217472,
       "word": "谁懂洗完澡才8点的含金量啊",
@@ -28176,6 +28272,14 @@
       "word": "黄晓明新剧携300名博士归国",
       "onboard_time": 1721223259,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 224173,
+      "num": 196314,
+      "word": "张晚意的饭撒好高级",
+      "onboard_time": 1721735060,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -30729,14 +30833,6 @@
       "onboard_time": 1721308579,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 207140,
-      "num": 207140,
-      "word": "单依纯说自己长得不高兴",
-      "onboard_time": 1721733800,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 207085,
@@ -33987,14 +34083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194675,
-      "num": 194675,
-      "word": "韩总 夫人终于嫁给你了",
-      "onboard_time": 1721734220,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 194670,
       "num": 194670,
       "word": "相柳是笑着死的",
@@ -36315,6 +36403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186223,
+      "num": 186223,
+      "word": "SM被曝签署巨额协议操控舆论",
+      "onboard_time": 1721736919,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186221,
       "num": 186221,
       "word": "邓为谈体感长相思爆火的时刻",
@@ -36353,6 +36449,14 @@
       "onboard_time": 1719825798,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 186053,
+      "num": 186053,
+      "word": "当我连续开15个小时的空调",
+      "onboard_time": 1721734041,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 185962,
@@ -36617,6 +36721,14 @@
       "onboard_time": 1720532599,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 184672,
+      "num": 184672,
+      "word": "唐朝诡事录把文物带火了",
+      "onboard_time": 1721736560,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 184648,
@@ -39089,14 +39201,6 @@
       "onboard_time": 1721294959,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 173328,
-      "num": 173328,
-      "word": "新娘本人回应扔手捧花砸婚闹朋友",
-      "onboard_time": 1721733501,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173317,
@@ -42611,6 +42715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157554,
+      "num": 157554,
+      "word": "菲律宾同意回到此前君子协定",
+      "onboard_time": 1721737400,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 157553,
       "num": 157553,
       "word": "克罗斯发文正式退役",
@@ -42961,6 +43073,14 @@
       "onboard_time": 1720605559,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 156332,
+      "num": 156332,
+      "word": "任命郭婷婷为财政部副部长",
+      "onboard_time": 1721734880,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 156314,
@@ -43587,6 +43707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153837,
+      "num": 153837,
+      "word": "唐朝诡事录之西行县尉F4",
+      "onboard_time": 1721737639,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153834,
       "num": 153834,
       "word": "TES办理英国签证",
@@ -43955,6 +44083,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 152145,
+      "num": 152145,
+      "word": "赵丽颖海边的更衣间",
+      "onboard_time": 1721737160,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152101,
       "num": 152101,
       "word": "00后参与暴拉股价22900%",
@@ -44089,6 +44225,14 @@
       "onboard_time": 1720078398,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151582,
+      "num": 151582,
+      "word": "姐妹俩刚吃一口饭就被广告牌砸中",
+      "onboard_time": 1721736259,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151575,
@@ -49923,6 +50067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 128901,
+      "num": 128901,
+      "word": "BLG战胜WBG",
+      "onboard_time": 1721737880,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 128866,
       "num": 128866,
       "word": "JDG迎来首胜",
@@ -52649,6 +52801,14 @@
       "onboard_time": 1720666818,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117889,
+      "num": 117889,
+      "word": "文俊辉女团舞",
+      "onboard_time": 1721735540,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 117819,
