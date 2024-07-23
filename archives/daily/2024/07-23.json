@@ -1,6 +1,6 @@
 {
   "startTime": 1721665529273,
-  "endTime": 1721702248243,
+  "endTime": 1721702826374,
   "band_list": [
     {
       "raw_hot": 4456876,
@@ -107,12 +107,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1025081,
-      "num": 1025081,
+      "raw_hot": 1037215,
+      "num": 1037215,
       "word": "纪凌尘 黄景瑜的十分之一",
       "onboard_time": 1721699059,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 967766,
+      "num": 277830,
+      "word": "建议大家不要带6岁以下孩子旅行",
+      "onboard_time": 1721700078,
+      "rank": 20,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 851143,
@@ -123,20 +131,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 844225,
+      "num": 501657,
+      "word": "美特勤局承认几十年来最重大行动失败",
+      "onboard_time": 1721701038,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 812759,
       "num": 468870,
       "word": "女子称因学历低被判去高危妊娠门诊",
       "onboard_time": 1721658264,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 712924,
-      "num": 277830,
-      "word": "建议大家不要带6岁以下孩子旅行",
-      "onboard_time": 1721700078,
-      "rank": 20,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 699236,
@@ -177,14 +185,6 @@
       "onboard_time": 1721694922,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 619832,
-      "num": 501657,
-      "word": "美特勤局承认几十年来最重大行动失败",
-      "onboard_time": 1721701038,
-      "rank": 12,
-      "category": "国外时政"
     },
     {
       "raw_hot": 590219,
@@ -299,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 391352,
+      "num": 391352,
+      "word": "140元药卖患者2980元",
+      "onboard_time": 1721700740,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381506,
       "num": 381506,
       "word": "苹果手表被曝运动记录无中生有",
@@ -323,20 +331,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350401,
+      "num": 244936,
+      "word": "甲状腺好的人有6个习惯",
+      "onboard_time": 1721699359,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 342457,
       "num": 342457,
       "word": "警方调查人大教授涉嫌违法情况",
       "onboard_time": 1721693419,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 330405,
-      "num": 244936,
-      "word": "甲状腺好的人有6个习惯",
-      "onboard_time": 1721699359,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 314596,
@@ -376,14 +384,6 @@
       "word": "宗馥莉决定继续在娃哈哈履职",
       "onboard_time": 1721653462,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 285773,
-      "num": 285773,
-      "word": "140元药卖患者2980元",
-      "onboard_time": 1721700740,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -499,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216345,
+      "num": 216345,
+      "word": "看到娜然懂什么是刮骨刀了",
+      "onboard_time": 1721700858,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 213512,
       "num": 213512,
       "word": "中国游客在大阪遇袭被砍伤",
@@ -555,14 +563,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 193577,
-      "num": 193577,
-      "word": "看到娜然懂什么是刮骨刀了",
-      "onboard_time": 1721700858,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 191453,
       "num": 636251,
       "word": "郑州暴雨",
@@ -587,11 +587,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188714,
+      "num": 188714,
+      "word": "魏嘉再发文要求高亚麟道歉",
+      "onboard_time": 1721702659,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186741,
       "num": 186741,
       "word": "保安多次在个人号晒女性乘电梯监控",
       "onboard_time": 1721694081,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185988,
+      "num": 185988,
+      "word": "七分甜回应捏捏杯一捏就爆",
+      "onboard_time": 1721701759,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -625,6 +641,14 @@
       "onboard_time": 1721659289,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179358,
+      "num": 179358,
+      "word": "拜登退选后民主党收到千万美元捐款",
+      "onboard_time": 1721701399,
+      "rank": 38,
+      "category": "国外时政"
     },
     {
       "raw_hot": 178096,
@@ -667,12 +691,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 160209,
-      "num": 160209,
-      "word": "拜登退选后民主党收到千万美元捐款",
-      "onboard_time": 1721701399,
+      "raw_hot": 163445,
+      "num": 163445,
+      "word": "女子称拒绝镇干部前男友发生关系被打伤",
+      "onboard_time": 1721702479,
       "rank": 38,
-      "category": "国外时政"
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160243,
+      "num": 160243,
+      "word": "十万狂花入梦来阵容官宣",
+      "onboard_time": 1721702600,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 159512,
@@ -707,6 +739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151858,
+      "num": 151858,
+      "word": "男子找人撞女友和其父亲后装好人照顾",
+      "onboard_time": 1721701879,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151050,
       "num": 151050,
       "word": "导师性骚扰学生不只是师德问题",
@@ -737,6 +777,14 @@
       "onboard_time": 1721690416,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 147200,
+      "num": 147200,
+      "word": "唐代版少爷和我",
+      "onboard_time": 1721701998,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 146936,
@@ -811,14 +859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131180,
-      "num": 131180,
-      "word": "七分甜回应捏捏杯一捏就爆",
-      "onboard_time": 1721701759,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 128099,
       "num": 134887,
       "word": "长相思尖叫之夜",
@@ -843,14 +883,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 125592,
-      "num": 125592,
-      "word": "唐代版少爷和我",
-      "onboard_time": 1721701998,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 123824,
       "num": 600261,
       "word": "武警用身体搭一条传送带救老人",
@@ -867,12 +899,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 120773,
-      "num": 120773,
-      "word": "男子找人撞女友和其父亲后装好人照顾",
-      "onboard_time": 1721701879,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 122036,
+      "num": 533794,
+      "word": "约50%中老年忍痛拖延就医",
+      "onboard_time": 1721700740,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 118093,
@@ -921,14 +953,6 @@
       "onboard_time": 1721690176,
       "rank": 36,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 102341,
-      "num": 533794,
-      "word": "约50%中老年忍痛拖延就医",
-      "onboard_time": 1721700740,
-      "rank": 9,
-      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 96009,
@@ -1073,6 +1097,14 @@
       "onboard_time": 1721667377,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 35217,
+      "num": 202791,
+      "word": "攀岩世界纪录5秒内攀上5楼高",
+      "onboard_time": 1721702781,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33084,
