@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721756129547,
+  "endTime": 1721759160708,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -67121,6 +67121,14 @@
       "onboard_time": 1720938444,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 12845,
+      "num": 59602,
+      "word": "男子回应父母失能成唯一照护者",
+      "onboard_time": 1721758633,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12800,

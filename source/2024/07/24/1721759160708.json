@@ -1,0 +1,410 @@
+{
+  "runTime": 1721759160708,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 136085,
+        "num": 178457,
+        "word": "韩红 女神孙老师你没回复我",
+        "onboard_time": 1721746580,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94229,
+        "num": 94229,
+        "word": "台风格美最新消息",
+        "onboard_time": 1721749998,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7912,
+        "num": 82684,
+        "word": "高质量发展中国行",
+        "onboard_time": 1721720000,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 103437,
+        "num": 82387,
+        "word": "秦志远",
+        "onboard_time": 1721729119,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 75540,
+        "num": 75540,
+        "word": "当我连续开15个小时的空调",
+        "onboard_time": 1721734041,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60555,
+        "num": 74540,
+        "word": "韩国瓜农说今年的西瓜白种了",
+        "onboard_time": 1721739499,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74181,
+        "num": 74181,
+        "word": "张杰用镊子给自己拔鱼刺",
+        "onboard_time": 1721746341,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66464,
+        "num": 66464,
+        "word": "林一绿茶小狗",
+        "onboard_time": 1721754376,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59759,
+        "num": 59759,
+        "word": "北京宣言为巴勒斯坦人民带来了宝贵希望",
+        "onboard_time": 1721745140,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12845,
+        "num": 59602,
+        "word": "男子回应父母失能成唯一照护者",
+        "onboard_time": 1721758633,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190060,
+        "num": 58979,
+        "word": "金靖文案 小孕妇",
+        "onboard_time": 1721735360,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147261,
+        "num": 58528,
+        "word": "空空日记掉了200万粉丝",
+        "onboard_time": 1721736259,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 76619,
+        "num": 57544,
+        "word": "姐妹俩刚吃一口饭就被广告牌砸中",
+        "onboard_time": 1721736259,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76503,
+        "num": 57378,
+        "word": "新娘本人回应扔手捧花砸婚闹朋友",
+        "onboard_time": 1721733501,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66949,
+        "num": 56539,
+        "word": "广告牌坠落致3死7伤责任人被控制",
+        "onboard_time": 1721726661,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56265,
+        "num": 56265,
+        "word": "蒋敦豪发长文回应",
+        "onboard_time": 1721654242,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55731,
+        "num": 55731,
+        "word": "昆明广告牌坠落致3死目击者发声",
+        "onboard_time": 1721748080,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53959,
+        "num": 53959,
+        "word": "大哥远年内开播近200场",
+        "onboard_time": 1721739499,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 51163,
+        "num": 51163,
+        "word": "北京将迎大到暴雨局地大暴雨",
+        "onboard_time": 1721746041,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47273,
+        "num": 47273,
+        "word": "宝宝小手拍了下爸爸后背竟留下掌印",
+        "onboard_time": 1721747420,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149332,
+        "num": 46793,
+        "word": "拜登真实健康状况竟这么糟",
+        "onboard_time": 1721717181,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 62210,
+        "num": 46621,
+        "word": "拜登听取线上简报",
+        "onboard_time": 1721728100,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 51375,
+        "num": 46405,
+        "word": "左邓",
+        "onboard_time": 1721746761,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46134,
+        "num": 46134,
+        "word": "韩总 夫人终于嫁给你了",
+        "onboard_time": 1721734220,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45899,
+        "num": 45899,
+        "word": "檀健次 相柳能听见",
+        "onboard_time": 1721733501,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45400,
+        "num": 45400,
+        "word": "旅游是真的要趁早",
+        "onboard_time": 1721748259,
+        "rank": 25,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 43975,
+        "num": 43975,
+        "word": "张若昀 三十岁也是相信光的年纪",
+        "onboard_time": 1721740160,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 42800,
+        "num": 42800,
+        "word": "唐朝诡事录",
+        "onboard_time": 1721742320,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42501,
+        "num": 42501,
+        "word": "广州659分中考生选择读中职",
+        "onboard_time": 1721743281,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 41557,
+        "num": 41557,
+        "word": "歌王之战阵容",
+        "onboard_time": 1721754434,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41336,
+        "num": 41336,
+        "word": "霍思燕 纯胖",
+        "onboard_time": 1721713401,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38842,
+        "num": 38842,
+        "word": "哈里斯眼中的特朗普",
+        "onboard_time": 1721739680,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 37305,
+        "num": 37305,
+        "word": "韩国偶遇胡军儿子",
+        "onboard_time": 1721738660,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37165,
+        "num": 37165,
+        "word": "美特勤局局长辞职",
+        "onboard_time": 1721746402,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 36227,
+        "num": 36227,
+        "word": "刘芸身材好辣",
+        "onboard_time": 1721743340,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 35792,
+        "num": 35792,
+        "word": "Tyla帮唱香缇莫",
+        "onboard_time": 1721752576,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34417,
+        "num": 34417,
+        "word": "元彬 Giselle",
+        "onboard_time": 1721733800,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33432,
+        "num": 33432,
+        "word": "官方通报女子飙英文骂哭乘务员",
+        "onboard_time": 1721731459,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33187,
+        "num": 33187,
+        "word": "种地吧爆火的原因",
+        "onboard_time": 1721745981,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33141,
+        "num": 33141,
+        "word": "台风格美进入24小时警戒线",
+        "onboard_time": 1721744120,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32755,
+        "num": 32755,
+        "word": "莲花楼 是谁的意难平",
+        "onboard_time": 1721742800,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31600,
+        "num": 31600,
+        "word": "陈冲刘亦菲微博互关",
+        "onboard_time": 1721749879,
+        "rank": 41,
+        "category": "艺人,读书作家"
+      },
+      {
+        "raw_hot": 31437,
+        "num": 31437,
+        "word": "校长回应教师产假时被公示解聘",
+        "onboard_time": 1721746220,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30959,
+        "num": 30959,
+        "word": "韩红发文祝孙燕姿生日快乐",
+        "onboard_time": 1721746700,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29848,
+        "num": 29848,
+        "word": "永劫无间手游",
+        "onboard_time": 1721753177,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 29838,
+        "num": 29838,
+        "word": "福建浙江防汛防台风四级应急响应",
+        "onboard_time": 1721749998,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29549,
+        "num": 29549,
+        "word": "Lady Gaga 奥运开幕式",
+        "onboard_time": 1721735780,
+        "rank": 46,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 26493,
+        "num": 29549,
+        "word": "张凌赫表情管理最失控的一次",
+        "onboard_time": 1721741900,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25863,
+        "num": 29548,
+        "word": "拜登表示将尽力履职",
+        "onboard_time": 1721720720,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 19521,
+        "num": 29545,
+        "word": "美国女乒想和马龙樊振东林高远搭档",
+        "onboard_time": 1721744540,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届三中全会决定思维导图#"
+    }
+  }
+}
