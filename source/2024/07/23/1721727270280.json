@@ -1,0 +1,410 @@
+{
+  "runTime": 1721727270280,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1248340,
+        "num": 1248340,
+        "word": "北师大回应被举报教授曾被导师力保",
+        "onboard_time": 1721722101,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 752775,
+        "num": 752775,
+        "word": "谁家大小姐一副破碎模样",
+        "onboard_time": 1721723241,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32511,
+        "num": 669671,
+        "word": "高质量发展中国行",
+        "onboard_time": 1721720000,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1567544,
+        "num": 664771,
+        "word": "拜登表示将尽力履职",
+        "onboard_time": 1721720720,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1096365,
+        "num": 662411,
+        "word": "霍思燕 纯胖",
+        "onboard_time": 1721713401,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 659717,
+        "num": 659717,
+        "word": "北京宣言内容",
+        "onboard_time": 1721721260,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 787611,
+        "num": 615769,
+        "word": "张萌身材",
+        "onboard_time": 1721726481,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 545660,
+        "num": 545660,
+        "word": "女子怀孕控糖家人给切超小块西瓜",
+        "onboard_time": 1721715739,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1535203,
+        "num": 539235,
+        "word": "拜登真实健康状况竟这么糟",
+        "onboard_time": 1721717181,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 74177,
+        "num": 531628,
+        "word": "14个巴勒斯坦派别签署北京宣言现场",
+        "onboard_time": 1721717120,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1194446,
+        "num": 529297,
+        "word": "工资卡限额调整惹争议",
+        "onboard_time": 1721719880,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 526496,
+        "num": 526496,
+        "word": "昆明一广告牌坠落已致3死7伤",
+        "onboard_time": 1721720541,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503460,
+        "num": 503460,
+        "word": "赵丽颖进组后很少有公开活动",
+        "onboard_time": 1721723601,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477807,
+        "num": 477807,
+        "word": "金靖晒孕肚自拍",
+        "onboard_time": 1721714061,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473594,
+        "num": 473594,
+        "word": "种地吧加人只能是小英",
+        "onboard_time": 1721723302,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 436483,
+        "num": 436483,
+        "word": "TF三代回应最废的一代",
+        "onboard_time": 1721721140,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 406204,
+        "num": 406204,
+        "word": "台风",
+        "onboard_time": 1721721381,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384497,
+        "num": 384497,
+        "word": "小原乃梨子去世",
+        "onboard_time": 1721718440,
+        "rank": 17,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 381793,
+        "num": 381793,
+        "word": "男子疑在阿勒泰发现石油",
+        "onboard_time": 1721713279,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366623,
+        "num": 366623,
+        "word": "newjeans将进入休息期",
+        "onboard_time": 1721723481,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400519,
+        "num": 362723,
+        "word": "女硕士让博士男友检查论文瞬间破防",
+        "onboard_time": 1721717181,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388979,
+        "num": 348823,
+        "word": "日本70岁老人勒死102岁母亲",
+        "onboard_time": 1721718080,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317638,
+        "num": 317638,
+        "word": "女生应聘西塔老太太被要求与店长约会",
+        "onboard_time": 1721725160,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310870,
+        "num": 310870,
+        "word": "拜登退选",
+        "onboard_time": 1721585473,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 297653,
+        "num": 297653,
+        "word": "A股大跌",
+        "onboard_time": 1721719280,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 282224,
+        "num": 282224,
+        "word": "广告牌坠落致3死7伤责任人被控制",
+        "onboard_time": 1721726661,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266466,
+        "num": 266466,
+        "word": "朱志鑫回应TF三代人气差距",
+        "onboard_time": 1721726721,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260964,
+        "num": 260964,
+        "word": "上班吃同事真的很不礼貌",
+        "onboard_time": 1721724080,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 259224,
+        "num": 259224,
+        "word": "赵露思婚纱上班路透",
+        "onboard_time": 1721720180,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254066,
+        "num": 254066,
+        "word": "这居然是张超",
+        "onboard_time": 1721726121,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244487,
+        "num": 244487,
+        "word": "宝宝蛇 你自由了",
+        "onboard_time": 1721724859,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244232,
+        "num": 244232,
+        "word": "华为Mate70系列配置曝光",
+        "onboard_time": 1721722460,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 224142,
+        "num": 224142,
+        "word": "法塔赫和哈马斯达成北京宣言",
+        "onboard_time": 1721708121,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 218379,
+        "num": 218379,
+        "word": "重庆一镇政府办事大厅仅一人在岗",
+        "onboard_time": 1721719942,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209447,
+        "num": 209447,
+        "word": "建议大家不要带6岁以下孩子旅行",
+        "onboard_time": 1721700078,
+        "rank": 34,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 206320,
+        "num": 206320,
+        "word": "夏天脾气暴可能是得了热怒症",
+        "onboard_time": 1721710880,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203525,
+        "num": 203525,
+        "word": "刘欢帮唱孙楠",
+        "onboard_time": 1721726421,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195973,
+        "num": 195973,
+        "word": "美国国会大厦降半旗真相",
+        "onboard_time": 1721727021,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 190953,
+        "num": 190953,
+        "word": "报复性存钱的年轻人",
+        "onboard_time": 1721714719,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190209,
+        "num": 190209,
+        "word": "怪不得张艺兴lay呢",
+        "onboard_time": 1721724201,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185940,
+        "num": 185940,
+        "word": "帕金森病专家曾八次访问白宫",
+        "onboard_time": 1721721740,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 181424,
+        "num": 181424,
+        "word": "刘亦菲在看陈冲新书",
+        "onboard_time": 1721724260,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175073,
+        "num": 175073,
+        "word": "车主回应私家车贴满寻人启示",
+        "onboard_time": 1721719339,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173261,
+        "num": 173261,
+        "word": "檀健次更新微博自动回复",
+        "onboard_time": 1721721920,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172291,
+        "num": 172291,
+        "word": "胡先煦 天津妲己",
+        "onboard_time": 1721724320,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169909,
+        "num": 169909,
+        "word": "拜登称将参加哈里斯的竞选活动",
+        "onboard_time": 1721725340,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 169203,
+        "num": 169203,
+        "word": "6种常见病其实都是癌前病变",
+        "onboard_time": 1721724681,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 159474,
+        "num": 159474,
+        "word": "在巴黎被中国的厕所侠救了",
+        "onboard_time": 1721725940,
+        "rank": 47,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 157152,
+        "num": 157152,
+        "word": "美国一黑人女子报警反遭警察枪杀",
+        "onboard_time": 1721723781,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155667,
+        "num": 155667,
+        "word": "宁夏一网红主播杀害妻子后自杀",
+        "onboard_time": 1721712740,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记学习三中全会决定#"
+    }
+  }
+}
