@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721713004844,
+  "endTime": 1721716067456,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -585,6 +585,14 @@
       "onboard_time": 1721487622,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 2423315,
+      "num": 840119,
+      "word": "霍思燕 纯胖",
+      "onboard_time": 1721713401,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 2320305,
@@ -2873,6 +2881,14 @@
       "onboard_time": 1719974237,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1207754,
+      "num": 838954,
+      "word": "金靖晒孕肚自拍",
+      "onboard_time": 1721714061,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1207090,
@@ -6187,6 +6203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 809531,
+      "num": 809531,
+      "word": "男子疑在阿勒泰发现石油",
+      "onboard_time": 1721713279,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 807821,
       "num": 632774,
       "word": "超雄银渐层",
@@ -7035,6 +7059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 743630,
+      "num": 407101,
+      "word": "拜登退选后民主党收到千万美元捐款",
+      "onboard_time": 1721701399,
+      "rank": 38,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 743618,
       "num": 238653,
       "word": "长期口臭可能是长了扁桃体结石",
@@ -7217,6 +7249,14 @@
       "onboard_time": 1720952840,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 730204,
+      "num": 258119,
+      "word": "宁夏一网红主播杀害妻子后自杀",
+      "onboard_time": 1721712740,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 730112,
@@ -18371,6 +18411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 365857,
+      "num": 365857,
+      "word": "李荣书 Newjeans出道组",
+      "onboard_time": 1721712200,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 365774,
       "num": 365774,
       "word": "朋友哥哥是车银优",
@@ -19523,6 +19571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 343224,
+      "num": 343224,
+      "word": "买房不建议买槽钢层",
+      "onboard_time": 1721712080,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 343113,
       "num": 343113,
       "word": "秦彻 喵喵牌",
@@ -20425,14 +20481,6 @@
       "onboard_time": 1721345836,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 325109,
-      "num": 325109,
-      "word": "李荣书 Newjeans出道组",
-      "onboard_time": 1721712200,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 325099,
@@ -25539,14 +25587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 245720,
-      "num": 235322,
-      "word": "买房不建议买槽钢层",
-      "onboard_time": 1721712080,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 245499,
       "num": 245499,
       "word": "B型血患癌风险或较低",
@@ -25923,12 +25963,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241206,
+      "num": 241206,
+      "word": "赵丽颖时尚COSMO8月刊",
+      "onboard_time": 1721715559,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 241129,
       "num": 241129,
       "word": "鸣潮",
       "onboard_time": 1720435939,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 241120,
+      "num": 241120,
+      "word": "Danielle原来是YG练习生",
+      "onboard_time": 1721715620,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 241106,
@@ -26952,14 +27008,6 @@
       "word": "化工油食用油混装无异于投毒",
       "onboard_time": 1720418300,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 230853,
-      "num": 230853,
-      "word": "宁夏一网红主播杀害妻子后自杀",
-      "onboard_time": 1721712740,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -34227,14 +34275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191411,
-      "num": 191411,
-      "word": "拜登退选后民主党收到千万美元捐款",
-      "onboard_time": 1721701399,
-      "rank": 38,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 191410,
       "num": 191410,
       "word": "79秒看懂洞庭湖决堤全过程",
@@ -36427,6 +36467,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 182045,
+      "num": 516259,
+      "word": "夏天脾气暴可能是得了热怒症",
+      "onboard_time": 1721710880,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182028,
       "num": 182028,
       "word": "指甲突然出现黑线可能是癌变",
@@ -36913,6 +36961,14 @@
       "onboard_time": 1719989958,
       "rank": 26,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 179579,
+      "num": 179579,
+      "word": "密逃6分贝预警",
+      "onboard_time": 1721715681,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 179523,
@@ -41091,6 +41147,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 160997,
+      "num": 160997,
+      "word": "特朗普爆料拜登与奥巴马互相讨厌",
+      "onboard_time": 1721714901,
+      "rank": 39,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 160980,
       "num": 160980,
       "word": "赵露思自己化许妍的定妆",
@@ -43467,14 +43531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150866,
-      "num": 516259,
-      "word": "夏天脾气暴可能是得了热怒症",
-      "onboard_time": 1721710880,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150809,
       "num": 150809,
       "word": "Meiko人快融化了",
@@ -45273,6 +45329,14 @@
       "onboard_time": 1720937723,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143300,
+      "num": 143300,
+      "word": "异人之下新浪扫楼",
+      "onboard_time": 1721715500,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 143250,
@@ -47361,6 +47425,14 @@
       "onboard_time": 1721437159,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 135135,
+      "num": 135135,
+      "word": "女子怀孕控糖家人给切超小块西瓜",
+      "onboard_time": 1721715739,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135126,
@@ -52169,6 +52241,14 @@
       "onboard_time": 1720829474,
       "rank": 42,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 116061,
+      "num": 134380,
+      "word": "讨好二次元是老商场最后的自救吗",
+      "onboard_time": 1721716040,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 116034,
@@ -59707,6 +59787,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 57553,
+      "num": 474527,
+      "word": "范丞丞大热天玩火",
+      "onboard_time": 1721710941,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57468,
       "num": 314647,
       "word": "毕业典礼男孩看不到女同学一把抱起",
@@ -61571,6 +61659,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 43076,
+      "num": 408450,
+      "word": "专家建议高校设立性骚扰举报通道",
+      "onboard_time": 1721714420,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43054,
       "num": 309384,
       "word": "退役护旗手升旗现场教小朋友敬礼",
@@ -62049,14 +62145,6 @@
       "onboard_time": 1721419990,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 39582,
-      "num": 474527,
-      "word": "范丞丞大热天玩火",
-      "onboard_time": 1721710941,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 39563,
