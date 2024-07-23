@@ -1,0 +1,410 @@
+{
+  "runTime": 1721733499720,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1901447,
+        "num": 1901447,
+        "word": "大哥远账号被禁言",
+        "onboard_time": 1721732060,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1005313,
+        "num": 1005313,
+        "word": "美国国会大厦降半旗真相",
+        "onboard_time": 1721727021,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 30549,
+        "num": 868292,
+        "word": "高质量发展中国行",
+        "onboard_time": 1721720000,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 806027,
+        "num": 806027,
+        "word": "秦志远",
+        "onboard_time": 1721729119,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 650842,
+        "num": 650842,
+        "word": "月薪2万过不好一个高质量暑假",
+        "onboard_time": 1721730021,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600542,
+        "num": 600542,
+        "word": "拜登听取线上简报",
+        "onboard_time": 1721728100,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 799695,
+        "num": 592268,
+        "word": "芒果 发点桃难财",
+        "onboard_time": 1721729001,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 572718,
+        "num": 572718,
+        "word": "在巴黎被中国的厕所侠救了",
+        "onboard_time": 1721725940,
+        "rank": 7,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 567468,
+        "num": 567468,
+        "word": "宝宝蛇 你自由了",
+        "onboard_time": 1721724859,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41796,
+        "num": 543536,
+        "word": "直播间里千元高尔夫球杆卖300",
+        "onboard_time": 1721732420,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 588098,
+        "num": 542988,
+        "word": "广告牌坠落致3死7伤责任人被控制",
+        "onboard_time": 1721726661,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539169,
+        "num": 539169,
+        "word": "拜登表示将尽力履职",
+        "onboard_time": 1721720720,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 387929,
+        "num": 387929,
+        "word": "胡锡进今天大跌14311元",
+        "onboard_time": 1721729239,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 355827,
+        "num": 355827,
+        "word": "官方通报女子飙英文骂哭乘务员",
+        "onboard_time": 1721731459,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328822,
+        "num": 328822,
+        "word": "歌手总决赛pk分组",
+        "onboard_time": 1721731399,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328147,
+        "num": 328147,
+        "word": "原来眉骨还能防晒",
+        "onboard_time": 1721730440,
+        "rank": 15,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 316389,
+        "num": 316389,
+        "word": "我国科学家在月壤中发现分子水",
+        "onboard_time": 1721729541,
+        "rank": 16,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 310784,
+        "num": 310784,
+        "word": "阴阳师",
+        "onboard_time": 1721732540,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 242643,
+        "num": 242643,
+        "word": "北京宣言内容",
+        "onboard_time": 1721721260,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 229218,
+        "num": 229218,
+        "word": "歌手",
+        "onboard_time": 1721728342,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 803296,
+        "num": 229109,
+        "word": "霍思燕 纯胖",
+        "onboard_time": 1721713401,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 596167,
+        "num": 228804,
+        "word": "拜登真实健康状况竟这么糟",
+        "onboard_time": 1721717181,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 361102,
+        "num": 228542,
+        "word": "女子买碎碎冰金戒指3个月后心碎碎",
+        "onboard_time": 1721731160,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301968,
+        "num": 228414,
+        "word": "建议双职工家庭试试错峰带娃",
+        "onboard_time": 1721730500,
+        "rank": 23,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 299184,
+        "num": 227946,
+        "word": "女硕士让博士男友检查论文瞬间破防",
+        "onboard_time": 1721717181,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278729,
+        "num": 227745,
+        "word": "金靖晒孕肚自拍",
+        "onboard_time": 1721714061,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252897,
+        "num": 227571,
+        "word": "日本70岁老人勒死102岁母亲",
+        "onboard_time": 1721718080,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252687,
+        "num": 227275,
+        "word": "孙颖莎差点削到王楚钦",
+        "onboard_time": 1721730620,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227131,
+        "num": 227131,
+        "word": "女子怀孕控糖家人给切超小块西瓜",
+        "onboard_time": 1721715739,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213813,
+        "num": 213813,
+        "word": "上海助浴团队抬着浴缸上门洗澡",
+        "onboard_time": 1721732840,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210799,
+        "num": 210799,
+        "word": "朱丹拿馒头换尚雯婕英语课",
+        "onboard_time": 1721732300,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207171,
+        "num": 207171,
+        "word": "台风",
+        "onboard_time": 1721721381,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199200,
+        "num": 199200,
+        "word": "尹净汉蓝色发梢",
+        "onboard_time": 1721732239,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199115,
+        "num": 199115,
+        "word": "克拉岛直播",
+        "onboard_time": 1721729419,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182494,
+        "num": 182494,
+        "word": "谁家大小姐一副破碎模样",
+        "onboard_time": 1721723241,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52207,
+        "num": 182149,
+        "word": "老外赞中国人旅行真的太会玩了",
+        "onboard_time": 1721731100,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181978,
+        "num": 181978,
+        "word": "时代少年团音体不分家vlog",
+        "onboard_time": 1721731999,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171250,
+        "num": 171250,
+        "word": "小原乃梨子去世",
+        "onboard_time": 1721718440,
+        "rank": 37,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 166305,
+        "num": 166305,
+        "word": "金在中 咒文",
+        "onboard_time": 1721727261,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165612,
+        "num": 165612,
+        "word": "拜登称将参加哈里斯的竞选活动",
+        "onboard_time": 1721725340,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 162750,
+        "num": 162750,
+        "word": "昆明一广告牌坠落已致3死7伤",
+        "onboard_time": 1721720541,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155557,
+        "num": 155557,
+        "word": "相柳",
+        "onboard_time": 1721732119,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154119,
+        "num": 154119,
+        "word": "蒋敦豪发长文回应",
+        "onboard_time": 1721654242,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152848,
+        "num": 152848,
+        "word": "TF三代谈和李飞相处",
+        "onboard_time": 1721732720,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151646,
+        "num": 151646,
+        "word": "看完长相思2产生戒断感",
+        "onboard_time": 1721730560,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143844,
+        "num": 143844,
+        "word": "女生应聘西塔老太太被要求与店长约会",
+        "onboard_time": 1721725160,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141194,
+        "num": 141194,
+        "word": "法塔赫和哈马斯达成北京宣言",
+        "onboard_time": 1721708121,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 138313,
+        "num": 138313,
+        "word": "卢昱晓和爸爸一个捧哏一个逗哏",
+        "onboard_time": 1721733139,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137707,
+        "num": 137707,
+        "word": "建议大家不要带6岁以下孩子旅行",
+        "onboard_time": 1721700078,
+        "rank": 48,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 137408,
+        "num": 137408,
+        "word": "唐诡西行李汶翰从舞到武",
+        "onboard_time": 1721728701,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#一份标注时代的改革新蓝图#"
+    }
+  }
+}
