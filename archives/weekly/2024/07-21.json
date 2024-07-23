@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721752056115,
+  "endTime": 1721752911827,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -2627,6 +2627,14 @@
       "category": "情感,互联网"
     },
     {
+      "raw_hot": 389294,
+      "num": 188750,
+      "word": "旅游是真的要趁早",
+      "onboard_time": 1721748259,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 387778,
       "num": 232753,
       "word": "女子买碎碎冰金戒指3个月后心碎碎",
@@ -3513,14 +3521,6 @@
       "onboard_time": 1721550678,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 273544,
-      "num": 157009,
-      "word": "旅游是真的要趁早",
-      "onboard_time": 1721748259,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 273336,
@@ -7291,6 +7291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141110,
+      "num": 190868,
+      "word": "昆明广告牌坠落致3死目击者发声",
+      "onboard_time": 1721748080,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140977,
       "num": 140977,
       "word": "巴黎奥运会设计已经是nextlevel了",
@@ -7435,14 +7443,6 @@
       "category": "自然"
     },
     {
-      "raw_hot": 136360,
-      "num": 149578,
-      "word": "昆明广告牌坠落致3死目击者发声",
-      "onboard_time": 1721748080,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136359,
       "num": 136359,
       "word": "7月105款游戏获批",
@@ -7553,6 +7553,14 @@
       "onboard_time": 1721545218,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132706,
+      "num": 132706,
+      "word": "台风格美最新消息",
+      "onboard_time": 1721749998,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132374,
@@ -8235,14 +8243,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 79488,
-      "num": 129342,
-      "word": "台风格美最新消息",
-      "onboard_time": 1721749998,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 79000,
       "num": 785102,
       "word": "盘点中国奥运史上9个第一次",
@@ -8265,6 +8265,14 @@
       "onboard_time": 1721516593,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77835,
+      "num": 107564,
+      "word": "Tyla帮唱香缇莫",
+      "onboard_time": 1721752576,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 77335,
@@ -8464,6 +8472,14 @@
       "word": "暴雨来袭不要这样做",
       "onboard_time": 1721569461,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67415,
+      "num": 107289,
+      "word": "福建浙江防汛防台风四级应急响应",
+      "onboard_time": 1721749998,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -8748,7 +8764,7 @@
     },
     {
       "raw_hot": 46916,
-      "num": 167782,
+      "num": 200319,
       "word": "新生儿宝宝被104岁高祖母抱入怀中",
       "onboard_time": 1721749280,
       "rank": 18,
@@ -8793,14 +8809,6 @@
       "onboard_time": 1721516895,
       "rank": 34,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 45632,
-      "num": 104684,
-      "word": "福建浙江防汛防台风四级应急响应",
-      "onboard_time": 1721749998,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43755,
