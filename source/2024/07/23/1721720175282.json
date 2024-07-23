@@ -1,0 +1,410 @@
+{
+  "runTime": 1721720175282,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2309163,
+        "num": 2309163,
+        "word": "拜登真实健康状况竟这么糟",
+        "onboard_time": 1721717181,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1111604,
+        "num": 1111604,
+        "word": "女子怀孕控糖家人给切超小块西瓜",
+        "onboard_time": 1721715739,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2290,
+        "num": 940589,
+        "word": "我们的家园幸福美丽西藏",
+        "onboard_time": 1721634080,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1584218,
+        "num": 937726,
+        "word": "霍思燕 纯胖",
+        "onboard_time": 1721713401,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 926849,
+        "num": 926849,
+        "word": "小原乃梨子去世",
+        "onboard_time": 1721718440,
+        "rank": 4,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 845621,
+        "num": 845621,
+        "word": "金靖晒孕肚自拍",
+        "onboard_time": 1721714061,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 777594,
+        "num": 777594,
+        "word": "人大被举报教授被曝早年曾有类似前科",
+        "onboard_time": 1721717060,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 717893,
+        "num": 717893,
+        "word": "男子疑在阿勒泰发现石油",
+        "onboard_time": 1721713279,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683727,
+        "num": 683727,
+        "word": "我替你做质子你还我一命",
+        "onboard_time": 1721716641,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108362,
+        "num": 666999,
+        "word": "车主回应私家车贴满寻人启示",
+        "onboard_time": 1721719339,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655487,
+        "num": 655487,
+        "word": "A股大跌",
+        "onboard_time": 1721719280,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 654599,
+        "num": 654599,
+        "word": "法塔赫和哈马斯达成北京宣言",
+        "onboard_time": 1721708121,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 592079,
+        "num": 592079,
+        "word": "A股",
+        "onboard_time": 1721716159,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 576594,
+        "num": 576594,
+        "word": "蒋敦豪发长文回应",
+        "onboard_time": 1721654242,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68784,
+        "num": 471463,
+        "word": "性骚扰的本质是权力不平等",
+        "onboard_time": 1721719819,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457887,
+        "num": 457887,
+        "word": "丰巢回应骨灰盒放一年只要55块钱",
+        "onboard_time": 1721704700,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341695,
+        "num": 341695,
+        "word": "王鹤棣经纪人开了炸串店",
+        "onboard_time": 1721708421,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336299,
+        "num": 336299,
+        "word": "拜登退选",
+        "onboard_time": 1721585473,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 324957,
+        "num": 324957,
+        "word": "宋茜粉丝接机",
+        "onboard_time": 1721718321,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290504,
+        "num": 290504,
+        "word": "夏天脾气暴可能是得了热怒症",
+        "onboard_time": 1721710880,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1008520,
+        "num": 290399,
+        "word": "女硕士让博士男友检查论文瞬间破防",
+        "onboard_time": 1721717181,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392650,
+        "num": 279559,
+        "word": "建议大家不要带6岁以下孩子旅行",
+        "onboard_time": 1721700078,
+        "rank": 21,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 334320,
+        "num": 267340,
+        "word": "阚清子晒未P原图",
+        "onboard_time": 1721719819,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314701,
+        "num": 258930,
+        "word": "日本70岁老人勒死102岁母亲",
+        "onboard_time": 1721718080,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307068,
+        "num": 248557,
+        "word": "宁夏一网红主播杀害妻子后自杀",
+        "onboard_time": 1721712740,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244923,
+        "num": 244923,
+        "word": "种地吧",
+        "onboard_time": 1721694922,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239338,
+        "num": 239338,
+        "word": "中国游客在日本遭抢劫被砍伤",
+        "onboard_time": 1721705240,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219619,
+        "num": 219619,
+        "word": "奥利 垫音",
+        "onboard_time": 1721718801,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 217973,
+        "num": 217973,
+        "word": "讨好二次元是老商场最后的自救吗",
+        "onboard_time": 1721716040,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209765,
+        "num": 209765,
+        "word": "相柳无坟可哭",
+        "onboard_time": 1721719040,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198085,
+        "num": 198085,
+        "word": "朱一龙哭戏",
+        "onboard_time": 1721719161,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190131,
+        "num": 190131,
+        "word": "买房不建议买槽钢层",
+        "onboard_time": 1721712080,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 187459,
+        "num": 187459,
+        "word": "密逃6分贝预警",
+        "onboard_time": 1721715681,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186757,
+        "num": 186757,
+        "word": "唐诡西行狄公弟子变牢铁",
+        "onboard_time": 1721719459,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179671,
+        "num": 179671,
+        "word": "三星堆二号神树虚拟复原后长这样",
+        "onboard_time": 1721717481,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174169,
+        "num": 174169,
+        "word": "李荣书 Newjeans出道组",
+        "onboard_time": 1721712200,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172336,
+        "num": 172336,
+        "word": "14个巴勒斯坦派别签署北京宣言现场",
+        "onboard_time": 1721717120,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 172195,
+        "num": 172195,
+        "word": "赵丽颖时尚COSMO8月刊",
+        "onboard_time": 1721715559,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 411165,
+        "num": 170695,
+        "word": "北师大回应王某某早年曾有类似前科",
+        "onboard_time": 1721717001,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168844,
+        "num": 168844,
+        "word": "女子称拒绝镇干部前男友发生关系被打伤",
+        "onboard_time": 1721702479,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167770,
+        "num": 167770,
+        "word": "乔振宇 男狐狸",
+        "onboard_time": 1721717419,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161368,
+        "num": 161368,
+        "word": "重庆一镇政府办事大厅仅一人在岗",
+        "onboard_time": 1721719942,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156050,
+        "num": 156050,
+        "word": "工资卡限额调整惹争议",
+        "onboard_time": 1721719880,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144295,
+        "num": 144295,
+        "word": "长相思2阿念一诺还一诺",
+        "onboard_time": 1721711600,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142254,
+        "num": 142254,
+        "word": "我国载人登月火箭有新突破",
+        "onboard_time": 1721718321,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141862,
+        "num": 141862,
+        "word": "古巨基帮唱汪苏泷",
+        "onboard_time": 1721719942,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19857,
+        "num": 140948,
+        "word": "我国已规划建设181条东数西算干线光缆",
+        "onboard_time": 1721705240,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140072,
+        "num": 140072,
+        "word": "三星堆遗址考古发掘取得重要进展",
+        "onboard_time": 1721705481,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130760,
+        "num": 130760,
+        "word": "特朗普爆料拜登与奥巴马互相讨厌",
+        "onboard_time": 1721714901,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 130702,
+        "num": 130702,
+        "word": "哈里斯发声称赞拜登",
+        "onboard_time": 1721606420,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#三中全会决定里的未来全景图#"
+    }
+  }
+}
