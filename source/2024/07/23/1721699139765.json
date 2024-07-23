@@ -1,0 +1,410 @@
+{
+  "runTime": 1721699139765,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1729576,
+        "num": 1729576,
+        "word": "Nike宣传片舔乒乓球拍引热议",
+        "onboard_time": 1721691017,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1475984,
+        "num": 1475984,
+        "word": "教师在产假期间被公示解聘",
+        "onboard_time": 1721696658,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53881,
+        "num": 1288655,
+        "word": "神十八乘组太空出差能有多充实",
+        "onboard_time": 1721653282,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1139088,
+        "num": 1139088,
+        "word": "蒋敦豪发长文回应",
+        "onboard_time": 1721654242,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 619152,
+        "num": 619152,
+        "word": "种地吧",
+        "onboard_time": 1721694922,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 600141,
+        "num": 600141,
+        "word": "四川人社回应网传90后得65岁退休",
+        "onboard_time": 1721693780,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545448,
+        "num": 545448,
+        "word": "成毅李莲花李相夷",
+        "onboard_time": 1721690898,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 523716,
+        "num": 523716,
+        "word": "杭州女生高考602分去职业技术大学",
+        "onboard_time": 1721690297,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 576719,
+        "num": 522239,
+        "word": "种地吧成员支持蒋敦豪",
+        "onboard_time": 1721658264,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67261,
+        "num": 521587,
+        "word": "中国高中生国际数学奥林匹克竞赛夺金",
+        "onboard_time": 1721698818,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1207204,
+        "num": 519762,
+        "word": "老年男明星 性侵女服务员",
+        "onboard_time": 1721658207,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1109325,
+        "num": 517502,
+        "word": "俄罗斯至少12名士兵因西瓜被下毒身亡",
+        "onboard_time": 1721695041,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1074604,
+        "num": 516081,
+        "word": "65岁退休",
+        "onboard_time": 1721692340,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514735,
+        "num": 514735,
+        "word": "拜登退选后哈里斯首次公开露面",
+        "onboard_time": 1721695102,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 716373,
+        "num": 510231,
+        "word": "人大通报王某某性骚扰",
+        "onboard_time": 1721647102,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469529,
+        "num": 469529,
+        "word": "在王源手上看到了物理防晒的重要性",
+        "onboard_time": 1721698100,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429831,
+        "num": 429831,
+        "word": "李梦 穿的不错下次别穿了",
+        "onboard_time": 1721664800,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 380902,
+        "num": 380902,
+        "word": "全红婵说自己头发油到可以炒菜了",
+        "onboard_time": 1721693902,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 335084,
+        "num": 335084,
+        "word": "女子称因学历低被判去高危妊娠门诊",
+        "onboard_time": 1721658264,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283449,
+        "num": 283449,
+        "word": "11岁男孩自写600多行代码造火箭",
+        "onboard_time": 1721695102,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 724577,
+        "num": 280583,
+        "word": "儿子给妈妈缠了1把扇子后暑假没了",
+        "onboard_time": 1721690297,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332691,
+        "num": 274305,
+        "word": "苗苗说没想到郑恺会这么靠谱",
+        "onboard_time": 1721690477,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321276,
+        "num": 266412,
+        "word": "大学生9个月减重80斤父母认不出",
+        "onboard_time": 1721697679,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249996,
+        "num": 249996,
+        "word": "特朗普自称为下一任美国总统",
+        "onboard_time": 1721695761,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 240620,
+        "num": 240620,
+        "word": "田曦薇财阀千金",
+        "onboard_time": 1721660305,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 233526,
+        "num": 233526,
+        "word": "中国人每周工作时间越来越长",
+        "onboard_time": 1721697021,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219552,
+        "num": 219552,
+        "word": "卢昱晓爸爸不理解但是情绪价值给满",
+        "onboard_time": 1721690477,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216495,
+        "num": 216495,
+        "word": "于正回应白鹿贴脸开大",
+        "onboard_time": 1721694622,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213512,
+        "num": 213512,
+        "word": "中国游客在大阪遇袭被砍伤",
+        "onboard_time": 1721694501,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211486,
+        "num": 211486,
+        "word": "中国奥运代表团抵达巴黎",
+        "onboard_time": 1721697379,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206403,
+        "num": 206403,
+        "word": "感觉檀健次工作室在哄我们",
+        "onboard_time": 1721689515,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201127,
+        "num": 201127,
+        "word": "天津大姨盘头欢迎潘玮柏",
+        "onboard_time": 1721698039,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201682,
+        "num": 200983,
+        "word": "张晚意演技",
+        "onboard_time": 1721694741,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190456,
+        "num": 190456,
+        "word": "普通家庭没有必要进行苦难教育",
+        "onboard_time": 1721697619,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184042,
+        "num": 184042,
+        "word": "空空日记人设",
+        "onboard_time": 1721668515,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 183948,
+        "num": 183948,
+        "word": "莲花楼限免",
+        "onboard_time": 1721692159,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123824,
+        "num": 180240,
+        "word": "武警用身体搭一条传送带救老人",
+        "onboard_time": 1721696781,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177020,
+        "num": 177020,
+        "word": "保安多次在个人号晒女性乘电梯监控",
+        "onboard_time": 1721694081,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145168,
+        "num": 145168,
+        "word": "国安部披露一起举报间谍案例",
+        "onboard_time": 1721698521,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145096,
+        "num": 145096,
+        "word": "一句警察叔叔我好饿小孩哥成功蹭到了",
+        "onboard_time": 1721669773,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220715,
+        "num": 145061,
+        "word": "十个勤天演唱会舞台事故",
+        "onboard_time": 1721694560,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144230,
+        "num": 144230,
+        "word": "夏天这7种病或是省出来的",
+        "onboard_time": 1721696301,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137933,
+        "num": 137933,
+        "word": "早期肝癌5年生存率高达80%以上",
+        "onboard_time": 1721690416,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132408,
+        "num": 132408,
+        "word": "刘诗诗狐妖单人海报",
+        "onboard_time": 1721693240,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 776446,
+        "num": 132042,
+        "word": "志愿者说巴黎不热不需要空调",
+        "onboard_time": 1721691857,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1365217,
+        "num": 131560,
+        "word": "清华教授为人大女博士事件发声",
+        "onboard_time": 1721690416,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129459,
+        "num": 129459,
+        "word": "纪凌尘 黄景瑜的十分之一",
+        "onboard_time": 1721699059,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118159,
+        "num": 118159,
+        "word": "詹姆斯连得11分收比赛",
+        "onboard_time": 1721693360,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115607,
+        "num": 115607,
+        "word": "女子发现老公遭诈骗秒报警保住56万",
+        "onboard_time": 1721693360,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115545,
+        "num": 115545,
+        "word": "相柳看起来要碎掉了",
+        "onboard_time": 1721698400,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#一图速读三中全会决定60条#"
+    }
+  }
+}
