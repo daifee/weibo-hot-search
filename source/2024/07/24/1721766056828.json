@@ -1,0 +1,410 @@
+{
+  "runTime": 1721766056828,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 74567,
+        "num": 74567,
+        "word": "秦志远",
+        "onboard_time": 1721729119,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 54481,
+        "num": 54481,
+        "word": "台风格美最新消息",
+        "onboard_time": 1721749998,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7692,
+        "num": 47844,
+        "word": "高质量发展中国行",
+        "onboard_time": 1721720000,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 41573,
+        "num": 41573,
+        "word": "昆明广告牌坠落致3死目击者发声",
+        "onboard_time": 1721748080,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40657,
+        "num": 40657,
+        "word": "韩国瓜农说今年的西瓜白种了",
+        "onboard_time": 1721739499,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37157,
+        "num": 37157,
+        "word": "当我连续开15个小时的空调",
+        "onboard_time": 1721734041,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 33325,
+        "num": 33325,
+        "word": "北京宣言为巴勒斯坦人民带来了宝贵希望",
+        "onboard_time": 1721745140,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32389,
+        "num": 32389,
+        "word": "韩红 女神孙老师你没回复我",
+        "onboard_time": 1721746580,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30220,
+        "num": 32256,
+        "word": "福建浙江防汛防台风四级应急响应",
+        "onboard_time": 1721749998,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19016,
+        "num": 31946,
+        "word": "宝宝小手拍了下爸爸后背竟留下掌印",
+        "onboard_time": 1721747420,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71908,
+        "num": 31810,
+        "word": "金靖文案 小孕妇",
+        "onboard_time": 1721735360,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51022,
+        "num": 31484,
+        "word": "空空日记掉了200万粉丝",
+        "onboard_time": 1721736259,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 39112,
+        "num": 31257,
+        "word": "新娘本人回应扔手捧花砸婚闹朋友",
+        "onboard_time": 1721733501,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31116,
+        "num": 31116,
+        "word": "姐妹俩刚吃一口饭就被广告牌砸中",
+        "onboard_time": 1721736259,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30928,
+        "num": 30928,
+        "word": "广告牌坠落致3死7伤责任人被控制",
+        "onboard_time": 1721726661,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29225,
+        "num": 29225,
+        "word": "哈里斯眼中的特朗普",
+        "onboard_time": 1721739680,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 28643,
+        "num": 28643,
+        "word": "大哥远年内开播近200场",
+        "onboard_time": 1721739499,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 28166,
+        "num": 28166,
+        "word": "广州659分中考生选择读中职",
+        "onboard_time": 1721743281,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 27311,
+        "num": 27311,
+        "word": "张杰用镊子给自己拔鱼刺",
+        "onboard_time": 1721746341,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26679,
+        "num": 26679,
+        "word": "北京将迎大到暴雨局地大暴雨",
+        "onboard_time": 1721746041,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77719,
+        "num": 26677,
+        "word": "拜登真实健康状况竟这么糟",
+        "onboard_time": 1721717181,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 32486,
+        "num": 26662,
+        "word": "拜登听取线上简报",
+        "onboard_time": 1721728100,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 26591,
+        "num": 26591,
+        "word": "校长回应教师产假时被公示解聘",
+        "onboard_time": 1721746220,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26508,
+        "num": 26508,
+        "word": "台风格美进入24小时警戒线",
+        "onboard_time": 1721744120,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25481,
+        "num": 25481,
+        "word": "安徽一教师被指网聊表白学生",
+        "onboard_time": 1721744421,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25239,
+        "num": 25239,
+        "word": "美特勤局局长辞职",
+        "onboard_time": 1721746402,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 24172,
+        "num": 24172,
+        "word": "唐朝诡事录",
+        "onboard_time": 1721742320,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23999,
+        "num": 23999,
+        "word": "檀健次 相柳能听见",
+        "onboard_time": 1721733501,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23433,
+        "num": 23433,
+        "word": "韩总 夫人终于嫁给你了",
+        "onboard_time": 1721734220,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22326,
+        "num": 22326,
+        "word": "莲花楼 是谁的意难平",
+        "onboard_time": 1721742800,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25599,
+        "num": 22185,
+        "word": "被广告牌砸中女童母亲发声",
+        "onboard_time": 1721764691,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21393,
+        "num": 21393,
+        "word": "国乒运动员分享巴黎备战视频",
+        "onboard_time": 1721761331,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21298,
+        "num": 21298,
+        "word": "刘芸身材好辣",
+        "onboard_time": 1721743340,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20575,
+        "num": 20575,
+        "word": "长相思2收官",
+        "onboard_time": 1721743940,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20061,
+        "num": 20061,
+        "word": "韩国偶遇胡军儿子",
+        "onboard_time": 1721738660,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20009,
+        "num": 20009,
+        "word": "蒋敦豪发长文回应",
+        "onboard_time": 1721654242,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19650,
+        "num": 20009,
+        "word": "官方通报女子飙英文骂哭乘务员",
+        "onboard_time": 1721731459,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19616,
+        "num": 20007,
+        "word": "新生儿宝宝被104岁高祖母抱入怀中",
+        "onboard_time": 1721749280,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18918,
+        "num": 20007,
+        "word": "101岁爷爷给50多岁孙子扇蚊子",
+        "onboard_time": 1721756773,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18382,
+        "num": 20006,
+        "word": "找到花花等比例长大的证据了",
+        "onboard_time": 1721764270,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17655,
+        "num": 20006,
+        "word": "霍思燕 纯胖",
+        "onboard_time": 1721713401,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17604,
+        "num": 20005,
+        "word": "刚洗的杯子为何一倒热水就漂油污",
+        "onboard_time": 1721764751,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 17482,
+        "num": 20005,
+        "word": "永劫无间手游",
+        "onboard_time": 1721753177,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 16732,
+        "num": 20004,
+        "word": "元彬 Giselle",
+        "onboard_time": 1721733800,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16572,
+        "num": 20003,
+        "word": "台风格美对上海影响风大于雨",
+        "onboard_time": 1721762352,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16460,
+        "num": 20003,
+        "word": "旅游是真的要趁早",
+        "onboard_time": 1721748259,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 15359,
+        "num": 20002,
+        "word": "张凌赫表情管理最失控的一次",
+        "onboard_time": 1721741900,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15170,
+        "num": 20001,
+        "word": "爱美的她毅然剪掉了及腰秀发",
+        "onboard_time": 1721761153,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14878,
+        "num": 20000,
+        "word": "桥梁垮塌带头拦车的司机是退伍军人",
+        "onboard_time": 1721760491,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 14589,
+        "num": 20000,
+        "word": "韩红发文祝孙燕姿生日快乐",
+        "onboard_time": 1721746700,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届三中全会决定思维导图#"
+    }
+  }
+}
