@@ -1,6 +1,6 @@
 {
   "startTime": 1721665529273,
-  "endTime": 1721716067456,
+  "endTime": 1721716827857,
   "band_list": [
     {
       "raw_hot": 4456876,
@@ -179,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1024654,
+      "num": 1024654,
+      "word": "男子疑在阿勒泰发现石油",
+      "onboard_time": 1721713279,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 966493,
       "num": 966493,
       "word": "中国游客在日本遭抢劫被砍伤",
@@ -224,14 +232,6 @@
       "word": "女子称因学历低被判去高危妊娠门诊",
       "onboard_time": 1721658264,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 809531,
-      "num": 809531,
-      "word": "男子疑在阿勒泰发现石油",
-      "onboard_time": 1721713279,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -305,6 +305,14 @@
       "onboard_time": 1721693902,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 584983,
+      "num": 584983,
+      "word": "A股",
+      "onboard_time": 1721716159,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 578994,
@@ -563,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 336547,
+      "num": 336547,
+      "word": "赵丽颖时尚COSMO8月刊",
+      "onboard_time": 1721715559,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 321726,
       "num": 321726,
       "word": "宇露君沾",
@@ -699,12 +715,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 241206,
-      "num": 241206,
-      "word": "赵丽颖时尚COSMO8月刊",
-      "onboard_time": 1721715559,
-      "rank": 22,
-      "category": "作品衍生"
+      "raw_hot": 243692,
+      "num": 516259,
+      "word": "夏天脾气暴可能是得了热怒症",
+      "onboard_time": 1721710880,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241120,
@@ -851,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217175,
+      "num": 217175,
+      "word": "我替你做质子你还我一命",
+      "onboard_time": 1721716641,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214124,
       "num": 475604,
       "word": "25岁青年捐建村小教学楼烂尾十年",
@@ -929,6 +953,14 @@
       "onboard_time": 1721694741,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200192,
+      "num": 200192,
+      "word": "密逃6分贝预警",
+      "onboard_time": 1721715681,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 199315,
@@ -1067,14 +1099,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 182045,
-      "num": 516259,
-      "word": "夏天脾气暴可能是得了热怒症",
-      "onboard_time": 1721710880,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181617,
       "num": 181617,
       "word": "苏杉杉起诉丝芭",
@@ -1096,14 +1120,6 @@
       "word": "李昊 十个勤天永远是十个勤天",
       "onboard_time": 1721659289,
       "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 179579,
-      "num": 179579,
-      "word": "密逃6分贝预警",
-      "onboard_time": 1721715681,
-      "rank": 33,
       "category": "综艺"
     },
     {
@@ -1131,6 +1147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171388,
+      "num": 171388,
+      "word": "特朗普爆料拜登与奥巴马互相讨厌",
+      "onboard_time": 1721714901,
+      "rank": 39,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 170910,
       "num": 170910,
       "word": "李梦两眼一黑黑黑型穿搭",
@@ -1145,6 +1169,14 @@
       "onboard_time": 1721662580,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 168194,
+      "num": 168194,
+      "word": "讨好二次元是老商场最后的自救吗",
+      "onboard_time": 1721716040,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 167579,
@@ -1187,12 +1219,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160997,
-      "num": 160997,
-      "word": "特朗普爆料拜登与奥巴马互相讨厌",
-      "onboard_time": 1721714901,
-      "rank": 39,
-      "category": "国外时政"
+      "raw_hot": 162432,
+      "num": 162432,
+      "word": "女子怀孕控糖家人给切超小块西瓜",
+      "onboard_time": 1721715739,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160243,
@@ -1315,6 +1347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142493,
+      "num": 142493,
+      "word": "李一桐古装走路仪态",
+      "onboard_time": 1721715920,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141423,
       "num": 141423,
       "word": "相柳下线了",
@@ -1352,14 +1392,6 @@
       "word": "退休时间",
       "onboard_time": 1721641343,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135135,
-      "num": 135135,
-      "word": "女子怀孕控糖家人给切超小块西瓜",
-      "onboard_time": 1721715739,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1417,14 +1449,6 @@
       "onboard_time": 1721644460,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 116061,
-      "num": 134380,
-      "word": "讨好二次元是老商场最后的自救吗",
-      "onboard_time": 1721716040,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 115607,
