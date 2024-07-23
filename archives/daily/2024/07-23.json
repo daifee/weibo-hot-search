@@ -1,6 +1,6 @@
 {
   "startTime": 1721665529273,
-  "endTime": 1721738265458,
+  "endTime": 1721739161708,
   "band_list": [
     {
       "raw_hot": 4456876,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1813345,
+      "num": 420136,
+      "word": "金靖文案 小孕妇",
+      "onboard_time": 1721735360,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1780418,
       "num": 1780418,
       "word": "教师在产假期间被公示解聘",
@@ -105,14 +113,6 @@
       "onboard_time": 1721690416,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1621581,
-      "num": 402165,
-      "word": "金靖文案 小孕妇",
-      "onboard_time": 1721735360,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1567544,
@@ -275,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1025432,
+      "num": 416620,
+      "word": "空空日记掉了200万粉丝",
+      "onboard_time": 1721736259,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1024654,
       "num": 1024654,
       "word": "男子疑在阿勒泰发现石油",
@@ -323,12 +331,12 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 935262,
-      "num": 401416,
-      "word": "空空日记掉了200万粉丝",
-      "onboard_time": 1721736259,
-      "rank": 11,
-      "category": "网红"
+      "raw_hot": 940657,
+      "num": 940657,
+      "word": "中国凉席火到法国",
+      "onboard_time": 1721734819,
+      "rank": 1,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 933151,
@@ -387,14 +395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 820729,
-      "num": 820729,
-      "word": "中国凉席火到法国",
-      "onboard_time": 1721734819,
-      "rank": 1,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 812759,
       "num": 468870,
       "word": "女子称因学历低被判去高危妊娠门诊",
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 755523,
+      "num": 755523,
+      "word": "韩总 夫人终于嫁给你了",
+      "onboard_time": 1721734220,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 752775,
       "num": 752775,
       "word": "谁家大小姐一副破碎模样",
@@ -443,16 +451,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 738445,
-      "num": 738445,
-      "word": "韩总 夫人终于嫁给你了",
-      "onboard_time": 1721734220,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 731192,
-      "num": 400960,
+      "num": 412721,
       "word": "新娘本人回应扔手捧花砸婚闹朋友",
       "onboard_time": 1721733501,
       "rank": 39,
@@ -755,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 433587,
+      "num": 433587,
+      "word": "名校一日游贵至1500元",
+      "onboard_time": 1721730021,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 428800,
       "num": 428800,
       "word": "胡锡进今天大跌14311元",
@@ -763,20 +771,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 412653,
+      "num": 412653,
+      "word": "单依纯说自己长得不高兴",
+      "onboard_time": 1721733800,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 411945,
+      "num": 411945,
+      "word": "当我连续开15个小时的空调",
+      "onboard_time": 1721734041,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 411165,
       "num": 328220,
       "word": "北师大回应王某某早年曾有类似前科",
       "onboard_time": 1721717001,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 402711,
-      "num": 402711,
-      "word": "单依纯说自己长得不高兴",
-      "onboard_time": 1721733800,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 402457,
@@ -872,6 +888,14 @@
       "word": "李荣书 Newjeans出道组",
       "onboard_time": 1721712200,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 365450,
+      "num": 365450,
+      "word": "韩国偶遇胡军儿子",
+      "onboard_time": 1721738660,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -1076,7 +1100,7 @@
     },
     {
       "raw_hot": 280728,
-      "num": 200252,
+      "num": 228472,
       "word": "Lady Gaga 奥运开幕式",
       "onboard_time": 1721735780,
       "rank": 24,
@@ -1099,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 278330,
+      "num": 231354,
+      "word": "莲花楼豆瓣超70万人打分",
+      "onboard_time": 1721736319,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 273336,
       "num": 273336,
       "word": "逆水寒手游",
@@ -1108,7 +1140,7 @@
     },
     {
       "raw_hot": 272406,
-      "num": 198819,
+      "num": 226316,
       "word": "lalali",
       "onboard_time": 1721736919,
       "rank": 26,
@@ -1132,7 +1164,7 @@
     },
     {
       "raw_hot": 266686,
-      "num": 198155,
+      "num": 226133,
       "word": "小S大女儿晒聚会照",
       "onboard_time": 1721737459,
       "rank": 27,
@@ -1153,14 +1185,6 @@
       "onboard_time": 1721724080,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 260894,
-      "num": 197634,
-      "word": "莲花楼豆瓣超70万人打分",
-      "onboard_time": 1721736319,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 259284,
@@ -1227,6 +1251,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 243313,
+      "num": 243313,
+      "word": "白宇拍的国乒",
+      "onboard_time": 1721735360,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 242376,
       "num": 242376,
       "word": "阴阳师手游",
@@ -1265,14 +1297,6 @@
       "onboard_time": 1721694560,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 238204,
-      "num": 238204,
-      "word": "白宇拍的国乒",
-      "onboard_time": 1721735360,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 237534,
@@ -1388,7 +1412,7 @@
     },
     {
       "raw_hot": 224173,
-      "num": 196314,
+      "num": 207869,
       "word": "张晚意的饭撒好高级",
       "onboard_time": 1721735060,
       "rank": 30,
@@ -1521,6 +1545,14 @@
       "onboard_time": 1721694501,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213258,
+      "num": 213258,
+      "word": "唐朝诡事录把文物带火了",
+      "onboard_time": 1721736560,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 213152,
@@ -1779,6 +1811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192445,
+      "num": 192445,
+      "word": "姐妹俩刚吃一口饭就被广告牌砸中",
+      "onboard_time": 1721736259,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191453,
       "num": 636251,
       "word": "郑州暴雨",
@@ -1867,14 +1907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 186053,
-      "num": 186053,
-      "word": "当我连续开15个小时的空调",
-      "onboard_time": 1721734041,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 185940,
       "num": 670045,
       "word": "帕金森病专家曾八次访问白宫",
@@ -1891,20 +1923,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 184942,
+      "num": 184942,
+      "word": "一诺客串王者荣耀短剧",
+      "onboard_time": 1721738718,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 184818,
       "num": 184818,
       "word": "警方介入王某某性骚扰事件",
       "onboard_time": 1721690297,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184672,
-      "num": 184672,
-      "word": "唐朝诡事录把文物带火了",
-      "onboard_time": 1721736560,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 184107,
@@ -1937,6 +1969,14 @@
       "onboard_time": 1721712920,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181493,
+      "num": 181493,
+      "word": "菲律宾同意回到此前君子协定",
+      "onboard_time": 1721737400,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 180133,
@@ -2131,20 +2171,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 158550,
+      "num": 158550,
+      "word": "任命郭婷婷为财政部副部长",
+      "onboard_time": 1721734880,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 158482,
       "num": 158482,
       "word": "刘诗诗狐妖单人海报",
       "onboard_time": 1721693240,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 157554,
-      "num": 157554,
-      "word": "菲律宾同意回到此前君子协定",
-      "onboard_time": 1721737400,
-      "rank": 36,
-      "category": "国内时政"
     },
     {
       "raw_hot": 157152,
@@ -2161,14 +2201,6 @@
       "onboard_time": 1721649683,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 156332,
-      "num": 156332,
-      "word": "任命郭婷婷为财政部副部长",
-      "onboard_time": 1721734880,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 155557,
@@ -2209,14 +2241,6 @@
       "onboard_time": 1721737160,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 151582,
-      "num": 151582,
-      "word": "姐妹俩刚吃一口饭就被广告牌砸中",
-      "onboard_time": 1721736259,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151444,
@@ -2331,6 +2355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137829,
+      "num": 137829,
+      "word": "李宏毅给孙珍妮把脉",
+      "onboard_time": 1721739080,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137349,
       "num": 137349,
       "word": "国人在巴黎街头爆改白人饭",
@@ -2371,6 +2403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131259,
+      "num": 131259,
+      "word": "陈泽杂志",
+      "onboard_time": 1721738479,
+      "rank": 46,
+      "category": "网红,作品衍生"
+    },
+    {
       "raw_hot": 128901,
       "num": 128901,
       "word": "BLG战胜WBG",
@@ -2401,6 +2441,14 @@
       "onboard_time": 1721653041,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 126280,
+      "num": 126280,
+      "word": "云南洱海水面宛如明镜",
+      "onboard_time": 1721738718,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 123824,
@@ -2489,6 +2537,14 @@
       "onboard_time": 1721689214,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 95109,
+      "num": 421514,
+      "word": "千钧一发他毫不犹豫跳水救人",
+      "onboard_time": 1721738780,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83068,
@@ -2792,6 +2848,14 @@
       "word": "巴黎奥运吉祥物会按奖牌颜色颁发",
       "onboard_time": 1721676012,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 22885,
+      "num": 785102,
+      "word": "盘点中国奥运史上9个第一次",
+      "onboard_time": 1721738780,
+      "rank": 2,
       "category": "体育"
     },
     {
