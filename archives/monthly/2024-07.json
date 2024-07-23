@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721723178965,
+  "endTime": 1721723947613,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -3611,6 +3611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1095552,
+      "num": 1095552,
+      "word": "北京宣言内容",
+      "onboard_time": 1721721260,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1094353,
       "num": 1011298,
       "word": "袁娅维第五次被歌手淘汰",
@@ -3809,14 +3817,6 @@
       "onboard_time": 1721042777,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1064871,
-      "num": 1064871,
-      "word": "北京宣言内容",
-      "onboard_time": 1721721260,
-      "rank": 4,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1064752,
@@ -5819,6 +5819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 843718,
+      "num": 843718,
+      "word": "工资卡限额调整惹争议",
+      "onboard_time": 1721719880,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 843641,
       "num": 843641,
       "word": "山东龙卷风致5死83伤",
@@ -7803,12 +7811,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 700243,
-      "num": 700243,
-      "word": "工资卡限额调整惹争议",
-      "onboard_time": 1721719880,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 700988,
+      "num": 700988,
+      "word": "TF三代回应最废的一代",
+      "onboard_time": 1721721140,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 699786,
@@ -7889,14 +7897,6 @@
       "onboard_time": 1721038877,
       "rank": 22,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 693949,
-      "num": 693949,
-      "word": "TF三代回应最废的一代",
-      "onboard_time": 1721721140,
-      "rank": 8,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 693621,
@@ -8337,6 +8337,14 @@
       "onboard_time": 1719789555,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 668788,
+      "num": 668788,
+      "word": "昆明一广告牌坠落已致3死7伤",
+      "onboard_time": 1721720541,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 668403,
@@ -9129,14 +9137,6 @@
       "onboard_time": 1720082657,
       "rank": 3,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 629323,
-      "num": 629323,
-      "word": "昆明一广告牌坠落已致3死7伤",
-      "onboard_time": 1721720541,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 628672,
@@ -13787,6 +13787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 472529,
+      "num": 472529,
+      "word": "赵露思婚纱上班路透",
+      "onboard_time": 1721720180,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 472410,
       "num": 289834,
       "word": "张子墨 自摸哥",
@@ -14395,14 +14403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 455406,
-      "num": 455406,
-      "word": "赵露思婚纱上班路透",
-      "onboard_time": 1721720180,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 455347,
       "num": 455347,
       "word": "iPhone16Pro或配15ProMax同款镜头",
@@ -14577,6 +14577,14 @@
       "onboard_time": 1720778598,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 452357,
+      "num": 452357,
+      "word": "种地吧加人只能是小英",
+      "onboard_time": 1721723302,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 452229,
@@ -15931,6 +15939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 425728,
+      "num": 425728,
+      "word": "台风",
+      "onboard_time": 1721457620,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 425440,
       "num": 658259,
       "word": "镖人 刘耀文",
@@ -16675,14 +16691,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 408269,
-      "num": 408269,
-      "word": "台风",
-      "onboard_time": 1721457620,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 407978,
       "num": 407978,
       "word": "长相思2人设最完美的人",
@@ -16761,6 +16769,14 @@
       "onboard_time": 1721610321,
       "rank": 16,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 406450,
+      "num": 406450,
+      "word": "北师大回应被举报教授曾被导师力保",
+      "onboard_time": 1721722101,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 406374,
@@ -21019,14 +21035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 318506,
-      "num": 318506,
-      "word": "北师大回应被举报教授曾被导师力保",
-      "onboard_time": 1721722101,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 318494,
       "num": 318494,
       "word": "曾舜晞给白鹿编了个头盔",
@@ -23305,6 +23313,14 @@
       "onboard_time": 1721042898,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 280849,
+      "num": 280849,
+      "word": "赵丽颖进组后很少有公开活动",
+      "onboard_time": 1721723601,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 280713,
@@ -25763,6 +25779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245142,
+      "num": 245142,
+      "word": "华为Mate70系列配置曝光",
+      "onboard_time": 1721722460,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 245140,
       "num": 245140,
       "word": "发现结婚和恋爱真的是两码事",
@@ -26691,6 +26715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235022,
+      "num": 235022,
+      "word": "newjeans将进入休息期",
+      "onboard_time": 1721723481,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234829,
       "num": 234829,
       "word": "莲花楼限免",
@@ -27057,6 +27089,14 @@
       "onboard_time": 1720929140,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 231847,
+      "num": 684020,
+      "word": "报复性存钱的年轻人",
+      "onboard_time": 1721714719,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231789,
@@ -29651,6 +29691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211124,
+      "num": 211124,
+      "word": "谁家大小姐一副破碎模样",
+      "onboard_time": 1721723241,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211005,
       "num": 211005,
       "word": "檀健次 空降",
@@ -31961,14 +32009,6 @@
       "onboard_time": 1721545158,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200971,
-      "num": 200971,
-      "word": "华为Mate70系列配置曝光",
-      "onboard_time": 1721722460,
-      "rank": 36,
-      "category": "数码"
     },
     {
       "raw_hot": 200962,
@@ -35859,6 +35899,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 186372,
+      "num": 186372,
+      "word": "中信证券大跌",
+      "onboard_time": 1721722641,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 186352,
       "num": 186352,
       "word": "王源巡演归来",
@@ -36553,14 +36601,6 @@
       "onboard_time": 1721134638,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 183029,
-      "num": 183029,
-      "word": "中信证券大跌",
-      "onboard_time": 1721722641,
-      "rank": 40,
-      "category": "财经"
     },
     {
       "raw_hot": 183020,
@@ -37953,6 +37993,14 @@
       "onboard_time": 1720774959,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176066,
+      "num": 176066,
+      "word": "美议员称特朗普若输大选就打内战",
+      "onboard_time": 1721720959,
+      "rank": 43,
+      "category": "国外时政"
     },
     {
       "raw_hot": 176036,
@@ -39641,14 +39689,6 @@
       "onboard_time": 1720798457,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 168925,
-      "num": 168925,
-      "word": "美议员称特朗普若输大选就打内战",
-      "onboard_time": 1721720959,
-      "rank": 43,
-      "category": "国外时政"
     },
     {
       "raw_hot": 168873,
@@ -44412,7 +44452,7 @@
     },
     {
       "raw_hot": 147967,
-      "num": 147967,
+      "num": 670045,
       "word": "帕金森病专家曾八次访问白宫",
       "onboard_time": 1721721740,
       "rank": 46,
@@ -48729,14 +48769,6 @@
       "onboard_time": 1721436198,
       "rank": 43,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 131720,
-      "num": 684020,
-      "word": "报复性存钱的年轻人",
-      "onboard_time": 1721714719,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131672,
@@ -59923,6 +59955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59366,
+      "num": 249201,
+      "word": "美国一黑人女子报警反遭警察枪杀",
+      "onboard_time": 1721723781,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59341,
       "num": 92103,
       "word": "王子奇李耕耘争当爹",
@@ -66936,6 +66976,9 @@
     },
     {
       "word": "#一份标注时代的改革新蓝图#"
+    },
+    {
+      "word": "#跟着总书记学习三中全会决定#"
     }
   ]
 }

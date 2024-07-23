@@ -1,6 +1,6 @@
 {
   "startTime": 1721665529273,
-  "endTime": 1721723178965,
+  "endTime": 1721723947613,
   "band_list": [
     {
       "raw_hot": 4456876,
@@ -179,8 +179,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1064871,
-      "num": 1064871,
+      "raw_hot": 1095552,
+      "num": 1095552,
       "word": "北京宣言内容",
       "onboard_time": 1721721260,
       "rank": 4,
@@ -275,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 843718,
+      "num": 843718,
+      "word": "工资卡限额调整惹争议",
+      "onboard_time": 1721719880,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 825863,
       "num": 777594,
       "word": "人大被举报教授被曝早年曾有类似前科",
@@ -323,12 +331,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 700243,
-      "num": 700243,
-      "word": "工资卡限额调整惹争议",
-      "onboard_time": 1721719880,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 700988,
+      "num": 700988,
+      "word": "TF三代回应最废的一代",
+      "onboard_time": 1721721140,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 699236,
@@ -337,14 +345,6 @@
       "onboard_time": 1721640983,
       "rank": 1,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 693949,
-      "num": 693949,
-      "word": "TF三代回应最废的一代",
-      "onboard_time": 1721721140,
-      "rank": 8,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 683886,
@@ -361,6 +361,14 @@
       "onboard_time": 1721719280,
       "rank": 10,
       "category": "财经"
+    },
+    {
+      "raw_hot": 668788,
+      "num": 668788,
+      "word": "昆明一广告牌坠落已致3死7伤",
+      "onboard_time": 1721720541,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 655982,
@@ -392,14 +400,6 @@
       "word": "140元药卖患者2980元",
       "onboard_time": 1721700740,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 629323,
-      "num": 629323,
-      "word": "昆明一广告牌坠落已致3死7伤",
-      "onboard_time": 1721720541,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -507,8 +507,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 455406,
-      "num": 455406,
+      "raw_hot": 472529,
+      "num": 472529,
       "word": "赵露思婚纱上班路透",
       "onboard_time": 1721720180,
       "rank": 14,
@@ -519,6 +519,14 @@
       "num": 454561,
       "word": "我家那闺女",
       "onboard_time": 1721710341,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 452357,
+      "num": 452357,
+      "word": "种地吧加人只能是小英",
+      "onboard_time": 1721723302,
       "rank": 15,
       "category": "综艺"
     },
@@ -563,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 425728,
+      "num": 425728,
+      "word": "台风",
+      "onboard_time": 1721721381,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 411165,
       "num": 328220,
       "word": "北师大回应王某某早年曾有类似前科",
@@ -571,11 +587,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 408269,
-      "num": 408269,
-      "word": "台风",
-      "onboard_time": 1721721381,
-      "rank": 16,
+      "raw_hot": 406450,
+      "num": 406450,
+      "word": "北师大回应被举报教授曾被导师力保",
+      "onboard_time": 1721722101,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -739,14 +755,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 318506,
-      "num": 318506,
-      "word": "北师大回应被举报教授曾被导师力保",
-      "onboard_time": 1721722101,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 314596,
       "num": 314596,
       "word": "拜登退选至少有两重原因",
@@ -819,6 +827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 280849,
+      "num": 280849,
+      "word": "赵丽颖进组后很少有公开活动",
+      "onboard_time": 1721723601,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279986,
       "num": 279986,
       "word": "巴勒斯坦各派别在北京举行和解对话",
@@ -883,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245142,
+      "num": 245142,
+      "word": "华为Mate70系列配置曝光",
+      "onboard_time": 1721722460,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 241120,
       "num": 241120,
       "word": "Danielle原来是YG练习生",
@@ -915,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235022,
+      "num": 235022,
+      "word": "newjeans将进入休息期",
+      "onboard_time": 1721723481,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234829,
       "num": 234829,
       "word": "莲花楼限免",
@@ -944,6 +976,14 @@
       "word": "团伙用3元淫秽视频获利60余万",
       "onboard_time": 1721707641,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231847,
+      "num": 684020,
+      "word": "报复性存钱的年轻人",
+      "onboard_time": 1721714719,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1115,6 +1155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211124,
+      "num": 211124,
+      "word": "谁家大小姐一副破碎模样",
+      "onboard_time": 1721723241,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209898,
       "num": 209898,
       "word": "赵丽颖深V侧颜",
@@ -1169,14 +1217,6 @@
       "onboard_time": 1721694741,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 200971,
-      "num": 200971,
-      "word": "华为Mate70系列配置曝光",
-      "onboard_time": 1721722460,
-      "rank": 36,
-      "category": "数码"
     },
     {
       "raw_hot": 200192,
@@ -1339,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186372,
+      "num": 186372,
+      "word": "中信证券大跌",
+      "onboard_time": 1721722641,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 184818,
       "num": 184818,
       "word": "警方介入王某某性骚扰事件",
@@ -1353,14 +1401,6 @@
       "onboard_time": 1721712260,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 183029,
-      "num": 183029,
-      "word": "中信证券大跌",
-      "onboard_time": 1721722641,
-      "rank": 40,
-      "category": "财经"
     },
     {
       "raw_hot": 182941,
@@ -1427,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176066,
+      "num": 176066,
+      "word": "美议员称特朗普若输大选就打内战",
+      "onboard_time": 1721720959,
+      "rank": 43,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 174876,
       "num": 174876,
       "word": "莎头组合喝水神同步",
@@ -1465,14 +1513,6 @@
       "onboard_time": 1721662580,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 168925,
-      "num": 168925,
-      "word": "美议员称特朗普若输大选就打内战",
-      "onboard_time": 1721720959,
-      "rank": 43,
-      "category": "国外时政"
     },
     {
       "raw_hot": 167579,
@@ -1596,7 +1636,7 @@
     },
     {
       "raw_hot": 147967,
-      "num": 147967,
+      "num": 670045,
       "word": "帕金森病专家曾八次访问白宫",
       "onboard_time": 1721721740,
       "rank": 46,
@@ -1713,14 +1753,6 @@
       "onboard_time": 1721660544,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 131720,
-      "num": 684020,
-      "word": "报复性存钱的年轻人",
-      "onboard_time": 1721714719,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 128099,
@@ -1931,6 +1963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59366,
+      "num": 249201,
+      "word": "美国一黑人女子报警反遭警察枪杀",
+      "onboard_time": 1721723781,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57553,
       "num": 474527,
       "word": "范丞丞大热天玩火",
@@ -2123,19 +2163,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13937,
+      "num": 1472176,
+      "word": "我们的家园幸福美丽西藏",
+      "onboard_time": 1721634080,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13827,
       "num": 64892,
       "word": "i人火把节被摔出表情包",
       "onboard_time": 1721675351,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11951,
-      "num": 1472176,
-      "word": "我们的家园幸福美丽西藏",
-      "onboard_time": 1721634080,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2162,6 +2202,9 @@
     },
     {
       "word": "#一份标注时代的改革新蓝图#"
+    },
+    {
+      "word": "#跟着总书记学习三中全会决定#"
     }
   ]
 }
