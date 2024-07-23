@@ -1,6 +1,6 @@
 {
   "startTime": 1721665529273,
-  "endTime": 1721709432446,
+  "endTime": 1721712006754,
   "band_list": [
     {
       "raw_hot": 4456876,
@@ -99,12 +99,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1263629,
-      "num": 1263629,
+      "raw_hot": 1436705,
+      "num": 1436705,
       "word": "法塔赫和哈马斯达成北京宣言",
       "onboard_time": 1721708121,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1249764,
+      "num": 914147,
+      "word": "王鹤棣经纪人开了炸串店",
+      "onboard_time": 1721708421,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1222249,
@@ -177,14 +185,6 @@
       "onboard_time": 1721701038,
       "rank": 12,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 914147,
-      "num": 914147,
-      "word": "王鹤棣经纪人开了炸串店",
-      "onboard_time": 1721708421,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 851143,
@@ -323,6 +323,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 524259,
+      "num": 524259,
+      "word": "哈里斯称已获足够支持成美国总统候选人",
+      "onboard_time": 1721706981,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 517431,
       "num": 390774,
       "word": "苗苗说没想到郑恺会这么靠谱",
@@ -337,6 +345,22 @@
       "onboard_time": 1721695102,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 500579,
+      "num": 500579,
+      "word": "中国人民大学",
+      "onboard_time": 1721707641,
+      "rank": 34,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 454561,
+      "num": 454561,
+      "word": "我家那闺女",
+      "onboard_time": 1721710341,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 451710,
@@ -361,22 +385,6 @@
       "onboard_time": 1721651422,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 416447,
-      "num": 416447,
-      "word": "哈里斯称已获足够支持成美国总统候选人",
-      "onboard_time": 1721706981,
-      "rank": 18,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 410296,
-      "num": 410296,
-      "word": "中国人民大学",
-      "onboard_time": 1721707641,
-      "rank": 34,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 402457,
@@ -419,6 +427,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 372804,
+      "num": 372804,
+      "word": "拜登退选",
+      "onboard_time": 1721585473,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 367430,
       "num": 367430,
       "word": "甲状腺好的人有6个习惯",
@@ -433,14 +449,6 @@
       "onboard_time": 1721647523,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 358385,
-      "num": 358385,
-      "word": "拜登退选",
-      "onboard_time": 1721585473,
-      "rank": 28,
-      "category": "国外时政"
     },
     {
       "raw_hot": 356776,
@@ -467,12 +475,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 349116,
+      "num": 349116,
+      "word": "毛球醒了寻不到主人了",
+      "onboard_time": 1721707401,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 342457,
       "num": 342457,
       "word": "警方调查人大教授涉嫌违法情况",
       "onboard_time": 1721693419,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 322919,
+      "num": 322919,
+      "word": "密室大逃脱",
+      "onboard_time": 1721711241,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 321726,
@@ -489,6 +513,14 @@
       "onboard_time": 1721668215,
       "rank": 38,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 313220,
+      "num": 833957,
+      "word": "985学霸当厨师未必是浪费学历",
+      "onboard_time": 1721709021,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 298500,
@@ -683,6 +715,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 225055,
+      "num": 225055,
+      "word": "团伙用3元淫秽视频获利60余万",
+      "onboard_time": 1721707641,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221504,
+      "num": 221504,
+      "word": "Newjeans出道前的视频",
+      "onboard_time": 1721709620,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221123,
       "num": 221123,
       "word": "感觉檀健次工作室在哄我们",
@@ -707,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219034,
+      "num": 219034,
+      "word": "长相思2阿念一诺还一诺",
+      "onboard_time": 1721711600,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217429,
       "num": 217429,
       "word": "于正回应白鹿贴脸开大",
@@ -721,6 +777,14 @@
       "onboard_time": 1721703620,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213798,
+      "num": 213798,
+      "word": "眉姐姐在丑衣服赛道又超常发挥了",
+      "onboard_time": 1721709981,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 213512,
@@ -763,20 +827,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 210427,
-      "num": 210427,
-      "word": "团伙用3元淫秽视频获利60余万",
-      "onboard_time": 1721707641,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 209140,
       "num": 209140,
       "word": "小猫以为自己生了小狗",
       "onboard_time": 1721659883,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 206114,
+      "num": 206114,
+      "word": "谁让她俩扮的仙白啊",
+      "onboard_time": 1721711301,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 204219,
+      "num": 204219,
+      "word": "涂山璟热度破2亿",
+      "onboard_time": 1721710941,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 201682,
@@ -801,6 +873,14 @@
       "onboard_time": 1721705842,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198170,
+      "num": 198170,
+      "word": "Gucci总监晒张凌赫送的苏绣",
+      "onboard_time": 1721709620,
+      "rank": 42,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 196952,
@@ -963,6 +1043,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 167041,
+      "num": 167041,
+      "word": "我们的歌第二轮阵容",
+      "onboard_time": 1721710041,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 166755,
+      "num": 166755,
+      "word": "第六周最佳选手今屿",
+      "onboard_time": 1721710761,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 164395,
       "num": 164395,
       "word": "胡先煦说那尔那茜是封神超强彩蛋",
@@ -993,6 +1089,14 @@
       "onboard_time": 1721697501,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158834,
+      "num": 158834,
+      "word": "负负得正海报",
+      "onboard_time": 1721710582,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 158482,
@@ -1267,6 +1371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 70583,
+      "num": 516259,
+      "word": "夏天脾气暴可能是得了热怒症",
+      "onboard_time": 1721710880,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68543,
       "num": 68543,
       "word": "双鱼座是一个越失控越理智的人",
@@ -1305,6 +1417,14 @@
       "onboard_time": 1721690176,
       "rank": 45,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 60101,
+      "num": 823623,
+      "word": "肖战宝诗龙地广打卡",
+      "onboard_time": 1721707342,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 56857,
@@ -1355,14 +1475,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 45634,
-      "num": 833957,
-      "word": "985学霸当厨师未必是浪费学历",
-      "onboard_time": 1721709021,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 43755,
       "num": 235226,
       "word": "00后姑娘试用期被特批15天休假",
@@ -1387,11 +1499,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 41110,
-      "num": 823623,
-      "word": "肖战宝诗龙地广打卡",
-      "onboard_time": 1721707342,
-      "rank": 32,
+      "raw_hot": 39582,
+      "num": 232898,
+      "word": "范丞丞大热天玩火",
+      "onboard_time": 1721710941,
+      "rank": 30,
       "category": "艺人"
     },
     {

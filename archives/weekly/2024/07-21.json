@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721709432446,
+  "endTime": 1721712006754,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 2914975,
-      "num": 410296,
+      "num": 500579,
       "word": "中国人民大学",
       "onboard_time": 1721572821,
       "rank": 11,
@@ -371,6 +371,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1436705,
+      "num": 1436705,
+      "word": "法塔赫和哈马斯达成北京宣言",
+      "onboard_time": 1721708121,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1425914,
       "num": 423735,
       "word": "时代峰峻声明",
@@ -459,12 +467,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1263629,
-      "num": 1263629,
-      "word": "法塔赫和哈马斯达成北京宣言",
-      "onboard_time": 1721708121,
-      "rank": 8,
-      "category": "国内时政"
+      "raw_hot": 1249764,
+      "num": 914147,
+      "word": "王鹤棣经纪人开了炸串店",
+      "onboard_time": 1721708421,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1244197,
@@ -729,14 +737,6 @@
       "onboard_time": 1721614220,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 914147,
-      "num": 914147,
-      "word": "王鹤棣经纪人开了炸串店",
-      "onboard_time": 1721708421,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 912950,
@@ -1499,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 524259,
+      "num": 524259,
+      "word": "哈里斯称已获足够支持成美国总统候选人",
+      "onboard_time": 1721706981,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 522420,
       "num": 522420,
       "word": "巴黎奥运会 空调",
@@ -1811,6 +1819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 454561,
+      "num": 454561,
+      "word": "我家那闺女",
+      "onboard_time": 1721710341,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 452813,
       "num": 452813,
       "word": "郑水晶发文告别错位江娜",
@@ -1969,14 +1985,6 @@
       "onboard_time": 1721641103,
       "rank": 17,
       "category": "军事"
-    },
-    {
-      "raw_hot": 416447,
-      "num": 416447,
-      "word": "哈里斯称已获足够支持成美国总统候选人",
-      "onboard_time": 1721706981,
-      "rank": 18,
-      "category": "国外时政"
     },
     {
       "raw_hot": 408319,
@@ -2323,6 +2331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 349116,
+      "num": 349116,
+      "word": "毛球醒了寻不到主人了",
+      "onboard_time": 1721707401,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 342457,
       "num": 342457,
       "word": "警方调查人大教授涉嫌违法情况",
@@ -2395,6 +2411,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 322919,
+      "num": 322919,
+      "word": "密室大逃脱",
+      "onboard_time": 1721711241,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 322477,
       "num": 322477,
       "word": "雅安暴雨山洪已致8人遇难",
@@ -2465,6 +2489,14 @@
       "onboard_time": 1721668215,
       "rank": 38,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 313220,
+      "num": 833957,
+      "word": "985学霸当厨师未必是浪费学历",
+      "onboard_time": 1721709021,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 312013,
@@ -3387,6 +3419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225055,
+      "num": 225055,
+      "word": "团伙用3元淫秽视频获利60余万",
+      "onboard_time": 1721707641,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223950,
       "num": 223950,
       "word": "樊振东 顺利入住",
@@ -3425,6 +3465,14 @@
       "onboard_time": 1721644762,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 221504,
+      "num": 221504,
+      "word": "Newjeans出道前的视频",
+      "onboard_time": 1721709620,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 221123,
@@ -3481,6 +3529,14 @@
       "onboard_time": 1721669773,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219034,
+      "num": 219034,
+      "word": "长相思2阿念一诺还一诺",
+      "onboard_time": 1721711600,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 217626,
@@ -3569,6 +3625,14 @@
       "onboard_time": 1721703620,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213798,
+      "num": 213798,
+      "word": "眉姐姐在丑衣服赛道又超常发挥了",
+      "onboard_time": 1721709981,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 213512,
@@ -3675,14 +3739,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 210427,
-      "num": 210427,
-      "word": "团伙用3元淫秽视频获利60余万",
-      "onboard_time": 1721707641,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210000,
       "num": 379146,
       "word": "2名护士为救晕倒乘客错过火车",
@@ -3755,6 +3811,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 206114,
+      "num": 206114,
+      "word": "谁让她俩扮的仙白啊",
+      "onboard_time": 1721711301,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205957,
       "num": 205957,
       "word": "孟佳腰臀比",
@@ -3825,6 +3889,14 @@
       "onboard_time": 1721513532,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 204219,
+      "num": 204219,
+      "word": "涂山璟热度破2亿",
+      "onboard_time": 1721710941,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 203562,
@@ -4073,6 +4145,14 @@
       "onboard_time": 1721631801,
       "rank": 38,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 198170,
+      "num": 198170,
+      "word": "Gucci总监晒张凌赫送的苏绣",
+      "onboard_time": 1721709620,
+      "rank": 42,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 198134,
@@ -5123,6 +5203,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167041,
+      "num": 167041,
+      "word": "我们的歌第二轮阵容",
+      "onboard_time": 1721710041,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 166755,
+      "num": 166755,
+      "word": "第六周最佳选手今屿",
+      "onboard_time": 1721710761,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 166509,
       "num": 166509,
       "word": "时代少年团对接回应高会调整",
@@ -5305,6 +5401,14 @@
       "onboard_time": 1721618961,
       "rank": 45,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 158834,
+      "num": 158834,
+      "word": "负负得正海报",
+      "onboard_time": 1721710582,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 158523,
@@ -6731,6 +6835,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 70583,
+      "num": 516259,
+      "word": "夏天脾气暴可能是得了热怒症",
+      "onboard_time": 1721710880,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69908,
       "num": 543501,
       "word": "巴勒斯坦运动员说能来巴黎参赛就是胜利",
@@ -6849,6 +6961,14 @@
       "onboard_time": 1721525659,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60101,
+      "num": 823623,
+      "word": "肖战宝诗龙地广打卡",
+      "onboard_time": 1721707342,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 59499,
@@ -7059,14 +7179,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 45634,
-      "num": 833957,
-      "word": "985学霸当厨师未必是浪费学历",
-      "onboard_time": 1721709021,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 43755,
       "num": 235226,
       "word": "00后姑娘试用期被特批15天休假",
@@ -7131,20 +7243,20 @@
       "category": "体育,作品衍生"
     },
     {
-      "raw_hot": 41110,
-      "num": 823623,
-      "word": "肖战宝诗龙地广打卡",
-      "onboard_time": 1721707342,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 41035,
       "num": 61731,
       "word": "出汗并不能帮身体排毒",
       "onboard_time": 1721593572,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 39582,
+      "num": 232898,
+      "word": "范丞丞大热天玩火",
+      "onboard_time": 1721710941,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 38976,
