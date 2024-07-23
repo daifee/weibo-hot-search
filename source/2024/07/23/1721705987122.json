@@ -1,0 +1,410 @@
+{
+  "runTime": 1721705987122,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1503774,
+        "num": 1503774,
+        "word": "女子称拒绝镇干部前男友发生关系被打伤",
+        "onboard_time": 1721702479,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 936434,
+        "num": 936434,
+        "word": "教师在产假期间被公示解聘",
+        "onboard_time": 1721696658,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62716,
+        "num": 907794,
+        "word": "三星堆遗址考古发掘取得重要进展",
+        "onboard_time": 1721705481,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 890835,
+        "num": 890835,
+        "word": "Nike宣传片舔乒乓球拍引热议",
+        "onboard_time": 1721691017,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 887419,
+        "num": 887419,
+        "word": "太二酸菜鱼客单价跌至7年前",
+        "onboard_time": 1721703859,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 798317,
+        "num": 798317,
+        "word": "蒋敦豪发长文回应",
+        "onboard_time": 1721654242,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 747313,
+        "num": 747313,
+        "word": "莲花楼登爱奇艺热搜榜第一",
+        "onboard_time": 1721704099,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 707049,
+        "num": 707049,
+        "word": "纪凌尘 黄景瑜的十分之一",
+        "onboard_time": 1721699059,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 553313,
+        "num": 553313,
+        "word": "140元药卖患者2980元",
+        "onboard_time": 1721700740,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239165,
+        "num": 550923,
+        "word": "中国游客在日本遭抢劫被砍伤",
+        "onboard_time": 1721705240,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37156,
+        "num": 514803,
+        "word": "E起CityDrive",
+        "onboard_time": 1721703739,
+        "rank": 10,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1017351,
+        "num": 494679,
+        "word": "老年男明星 性侵女服务员",
+        "onboard_time": 1721658207,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 811217,
+        "num": 485877,
+        "word": "美特勤局承认几十年来最重大行动失败",
+        "onboard_time": 1721701038,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 555156,
+        "num": 466182,
+        "word": "魏嘉再发文要求高亚麟道歉",
+        "onboard_time": 1721702659,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 451710,
+        "num": 451710,
+        "word": "李亚鹏让妻子和他一起唱因为爱情",
+        "onboard_time": 1721704340,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429923,
+        "num": 429923,
+        "word": "人大通报王某某性骚扰",
+        "onboard_time": 1721647102,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379793,
+        "num": 379793,
+        "word": "特朗普自称为下一任美国总统",
+        "onboard_time": 1721695761,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 366040,
+        "num": 366040,
+        "word": "全红婵说自己头发油到可以炒菜了",
+        "onboard_time": 1721693902,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 358476,
+        "num": 358476,
+        "word": "种地吧成员支持蒋敦豪",
+        "onboard_time": 1721658264,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353815,
+        "num": 353815,
+        "word": "看到娜然懂什么是刮骨刀了",
+        "onboard_time": 1721700858,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1327071,
+        "num": 350362,
+        "word": "建议大家不要带6岁以下孩子旅行",
+        "onboard_time": 1721700078,
+        "rank": 20,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 657249,
+        "num": 343264,
+        "word": "丰巢回应骨灰盒放一年只要55块钱",
+        "onboard_time": 1721704700,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358525,
+        "num": 342878,
+        "word": "甲状腺好的人有6个习惯",
+        "onboard_time": 1721699359,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 354437,
+        "num": 332649,
+        "word": "儿子给妈妈缠了1把扇子后暑假没了",
+        "onboard_time": 1721690297,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332546,
+        "num": 332546,
+        "word": "种地吧",
+        "onboard_time": 1721694922,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325544,
+        "num": 325544,
+        "word": "日本近4成孤独死年轻人陈尸家中",
+        "onboard_time": 1721703979,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296085,
+        "num": 296085,
+        "word": "樊振东被叫小胖至今经历了什么",
+        "onboard_time": 1721704700,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291908,
+        "num": 291908,
+        "word": "俄罗斯至少12名士兵因西瓜被下毒身亡",
+        "onboard_time": 1721695041,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 289942,
+        "num": 289942,
+        "word": "陈昊宇陈丽君版白娘子许仙",
+        "onboard_time": 1721704280,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 263498,
+        "num": 263498,
+        "word": "在王源手上看到了物理防晒的重要性",
+        "onboard_time": 1721698100,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263375,
+        "num": 263375,
+        "word": "大学生9个月减重80斤父母认不出",
+        "onboard_time": 1721697679,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245328,
+        "num": 245328,
+        "word": "男子找人撞女友和其父亲后装好人照顾",
+        "onboard_time": 1721701879,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234567,
+        "num": 234567,
+        "word": "拜登退选后哈里斯首次公开露面",
+        "onboard_time": 1721695102,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 225547,
+        "num": 225547,
+        "word": "七分甜回应捏捏杯一捏就爆",
+        "onboard_time": 1721701759,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220190,
+        "num": 220190,
+        "word": "约50%中老年忍痛拖延就医",
+        "onboard_time": 1721700740,
+        "rank": 34,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 214124,
+        "num": 214124,
+        "word": "25岁青年捐建村小教学楼烂尾十年",
+        "onboard_time": 1721703620,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206021,
+        "num": 206021,
+        "word": "不拴绳狗被碾压女子砸车打人后外逃",
+        "onboard_time": 1721702538,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202040,
+        "num": 202040,
+        "word": "李梦 穿的不错下次别穿了",
+        "onboard_time": 1721664800,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200982,
+        "num": 200982,
+        "word": "宇露君沾",
+        "onboard_time": 1721705421,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195266,
+        "num": 195266,
+        "word": "红豆生南国 徐三是男模",
+        "onboard_time": 1721705060,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193851,
+        "num": 193851,
+        "word": "李莲花红绸飞到了今日",
+        "onboard_time": 1721705540,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169886,
+        "num": 169886,
+        "word": "莎头组合喝水神同步",
+        "onboard_time": 1721703799,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167579,
+        "num": 167579,
+        "word": "吴谨言仿妆宁静",
+        "onboard_time": 1721705660,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167331,
+        "num": 167331,
+        "word": "长相思 特效",
+        "onboard_time": 1721699300,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166644,
+        "num": 166644,
+        "word": "杭州女生高考602分去职业技术大学",
+        "onboard_time": 1721690297,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 163071,
+        "num": 163071,
+        "word": "11岁男孩自写600多行代码造火箭",
+        "onboard_time": 1721695102,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147705,
+        "num": 147705,
+        "word": "孙颖莎再回应被叫小魔王",
+        "onboard_time": 1721699600,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145364,
+        "num": 145364,
+        "word": "女子父亲病故摆2桌酒席被罚5千",
+        "onboard_time": 1721705842,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144018,
+        "num": 144018,
+        "word": "朴彩英首支OST",
+        "onboard_time": 1721699240,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140774,
+        "num": 140774,
+        "word": "童年骑狮子拍照的人去非洲溜狮子了",
+        "onboard_time": 1721704460,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#三中全会决定里的未来全景图#"
+    }
+  }
+}
