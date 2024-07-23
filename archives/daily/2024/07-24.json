@@ -1,10 +1,10 @@
 {
   "startTime": 1721752056115,
-  "endTime": 1721776968619,
+  "endTime": 1721777751965,
   "band_list": [
     {
-      "raw_hot": 859492,
-      "num": 298260,
+      "raw_hot": 993687,
+      "num": 327808,
       "word": "尼坤妹妹被家暴",
       "onboard_time": 1721775914,
       "rank": 3,
@@ -19,12 +19,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 697144,
+      "num": 327642,
+      "word": "偶遇沈腾一家度假",
+      "onboard_time": 1721776457,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 644006,
       "num": 214249,
       "word": "金靖文案 小孕妇",
       "onboard_time": 1721735360,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 586787,
+      "num": 110918,
+      "word": "英国一强奸犯狱中中720万英镑大奖",
+      "onboard_time": 1721777115,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 560615,
@@ -76,18 +92,18 @@
     },
     {
       "raw_hot": 387389,
-      "num": 387389,
+      "num": 863804,
       "word": "韩国瓜农说今年的西瓜白种了",
       "onboard_time": 1721739499,
       "rank": 1,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 379862,
-      "num": 285142,
-      "word": "偶遇沈腾一家度假",
-      "onboard_time": 1721776457,
-      "rank": 6,
+      "raw_hot": 370801,
+      "num": 185303,
+      "word": "刘畊宏谈定居苏州公园多到超乎想象",
+      "onboard_time": 1721777416,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -107,6 +123,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342966,
+      "num": 342966,
+      "word": "校长回应教师产假时被公示解聘",
+      "onboard_time": 1721746220,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323498,
+      "num": 323498,
+      "word": "当我连续开15个小时的空调",
+      "onboard_time": 1721734041,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 305075,
       "num": 757214,
       "word": "秦志远",
@@ -121,22 +153,6 @@
       "onboard_time": 1721745140,
       "rank": 5,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 293843,
-      "num": 293843,
-      "word": "校长回应教师产假时被公示解聘",
-      "onboard_time": 1721746220,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 253802,
-      "num": 253802,
-      "word": "当我连续开15个小时的空调",
-      "onboard_time": 1721734041,
-      "rank": 9,
-      "category": "幽默"
     },
     {
       "raw_hot": 249330,
@@ -203,20 +219,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 174934,
-      "num": 174934,
+      "raw_hot": 183038,
+      "num": 183038,
       "word": "被广告牌砸中女童母亲发声",
       "onboard_time": 1721764691,
       "rank": 30,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173863,
+      "raw_hot": 178393,
       "num": 190868,
       "word": "昆明广告牌坠落致3死目击者发声",
       "onboard_time": 1721748080,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171004,
+      "num": 108075,
+      "word": "被失联5年的爸爸联系了",
+      "onboard_time": 1721775914,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 160612,
@@ -251,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136726,
+      "num": 106070,
+      "word": "幼儿园回应拉横幅庆祝学生考上清华",
+      "onboard_time": 1721768531,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136383,
       "num": 136383,
       "word": "莲花楼 是谁的意难平",
@@ -259,20 +291,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134728,
-      "num": 105306,
-      "word": "被失联5年的爸爸联系了",
-      "onboard_time": 1721775914,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 134355,
       "num": 134355,
       "word": "陈冲刘亦菲微博互关",
       "onboard_time": 1721749879,
       "rank": 29,
       "category": "艺人,读书作家"
+    },
+    {
+      "raw_hot": 126358,
+      "num": 126358,
+      "word": "赵丽颖身穿第60套高定",
+      "onboard_time": 1721774293,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 125776,
@@ -289,6 +321,14 @@
       "onboard_time": 1721739499,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 121309,
+      "num": 100863,
+      "word": "巴黎奥运倒计时2天",
+      "onboard_time": 1721777235,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 119861,
@@ -323,22 +363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 114552,
-      "num": 114552,
-      "word": "赵丽颖身穿第60套高定",
-      "onboard_time": 1721774293,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 112975,
-      "num": 104292,
-      "word": "幼儿园回应拉横幅庆祝学生考上清华",
-      "onboard_time": 1721768531,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107683,
       "num": 107733,
       "word": "哈里斯眼中的特朗普",
@@ -363,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100381,
+      "num": 100381,
+      "word": "22岁的王琳好像油画里走出来的",
+      "onboard_time": 1721776096,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100055,
       "num": 100055,
       "word": "林一绿茶小狗",
@@ -377,6 +409,14 @@
       "onboard_time": 1721720720,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 98779,
+      "num": 182138,
+      "word": "这个冰粉摊没有吆喝却生意火爆",
+      "onboard_time": 1721775674,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92491,
@@ -419,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79241,
+      "num": 79241,
+      "word": "韩国偶遇胡军儿子",
+      "onboard_time": 1721738660,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78158,
       "num": 107564,
       "word": "Tyla帮唱香缇莫",
@@ -443,12 +491,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76286,
+      "num": 76286,
+      "word": "军港之夜原型老兵时隔44年重聚",
+      "onboard_time": 1721777718,
+      "rank": 39,
+      "category": "军事"
+    },
+    {
       "raw_hot": 73335,
       "num": 103940,
       "word": "美国国会大厦降半旗真相",
       "onboard_time": 1721727021,
       "rank": 49,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 68859,
+      "num": 68859,
+      "word": "巴黎奥运会首个比赛日",
+      "onboard_time": 1721777357,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 67415,
@@ -459,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66486,
+      "num": 66486,
+      "word": "中央研究开征地方附加税",
+      "onboard_time": 1721777296,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 65992,
       "num": 107224,
       "word": "元彬 Giselle",
@@ -467,20 +539,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 63745,
-      "num": 63745,
-      "word": "22岁的王琳好像油画里走出来的",
-      "onboard_time": 1721776096,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 65137,
+      "num": 65137,
+      "word": "洗衣凝珠的袋子哪去了",
+      "onboard_time": 1721777056,
+      "rank": 43,
+      "category": "科学科普"
     },
     {
-      "raw_hot": 62221,
-      "num": 182138,
-      "word": "这个冰粉摊没有吆喝却生意火爆",
-      "onboard_time": 1721775674,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 64494,
+      "num": 64494,
+      "word": "刚洗的杯子为何一倒热水就漂油污",
+      "onboard_time": 1721764751,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 61844,
+      "num": 61844,
+      "word": "陈泽杂志",
+      "onboard_time": 1721738479,
+      "rank": 48,
+      "category": "网红,作品衍生"
     },
     {
       "raw_hot": 58388,
@@ -491,28 +571,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 58237,
-      "num": 58237,
-      "word": "韩国偶遇胡军儿子",
-      "onboard_time": 1721738660,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 53851,
       "num": 200319,
       "word": "新生儿宝宝被104岁高祖母抱入怀中",
       "onboard_time": 1721749280,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 53281,
-      "num": 53281,
-      "word": "刚洗的杯子为何一倒热水就漂油污",
-      "onboard_time": 1721764751,
-      "rank": 41,
-      "category": "科学科普"
     },
     {
       "raw_hot": 50789,
@@ -587,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24207,
+      "num": 110040,
+      "word": "买海鲜担心短斤缺两浙江出手了",
+      "onboard_time": 1721777596,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21647,
       "num": 38645,
       "word": "家属称广告牌坠落致女儿离世",
@@ -644,7 +716,7 @@
     },
     {
       "raw_hot": 11314,
-      "num": 298283,
+      "num": 330922,
       "word": "高质量发展中国行",
       "onboard_time": 1721720000,
       "rank": 2,

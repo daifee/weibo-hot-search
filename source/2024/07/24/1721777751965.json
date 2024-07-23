@@ -1,0 +1,410 @@
+{
+  "runTime": 1721777751965,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 383045,
+        "num": 863804,
+        "word": "韩国瓜农说今年的西瓜白种了",
+        "onboard_time": 1721739499,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342966,
+        "num": 342966,
+        "word": "校长回应教师产假时被公示解聘",
+        "onboard_time": 1721746220,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9492,
+        "num": 330922,
+        "word": "高质量发展中国行",
+        "onboard_time": 1721720000,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 993687,
+        "num": 327808,
+        "word": "尼坤妹妹被家暴",
+        "onboard_time": 1721775914,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 697144,
+        "num": 327642,
+        "word": "偶遇沈腾一家度假",
+        "onboard_time": 1721776457,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323498,
+        "num": 323498,
+        "word": "当我连续开15个小时的空调",
+        "onboard_time": 1721734041,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 293251,
+        "num": 293251,
+        "word": "北京将迎大到暴雨局地大暴雨",
+        "onboard_time": 1721746041,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242422,
+        "num": 242422,
+        "word": "秦志远",
+        "onboard_time": 1721729119,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 214277,
+        "num": 214277,
+        "word": "北京宣言为巴勒斯坦人民带来了宝贵希望",
+        "onboard_time": 1721745140,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 187958,
+        "num": 187958,
+        "word": "张杰用镊子给自己拔鱼刺",
+        "onboard_time": 1721746341,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439114,
+        "num": 186756,
+        "word": "金靖文案 小孕妇",
+        "onboard_time": 1721735360,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370801,
+        "num": 185303,
+        "word": "刘畊宏谈定居苏州公园多到超乎想象",
+        "onboard_time": 1721777416,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212436,
+        "num": 184576,
+        "word": "新娘本人回应扔手捧花砸婚闹朋友",
+        "onboard_time": 1721733501,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183038,
+        "num": 183038,
+        "word": "被广告牌砸中女童母亲发声",
+        "onboard_time": 1721764691,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178393,
+        "num": 178393,
+        "word": "昆明广告牌坠落致3死目击者发声",
+        "onboard_time": 1721748080,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175076,
+        "num": 175076,
+        "word": "广州659分中考生选择读中职",
+        "onboard_time": 1721743281,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 150929,
+        "num": 150929,
+        "word": "台风格美最新消息",
+        "onboard_time": 1721749998,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126358,
+        "num": 126358,
+        "word": "赵丽颖身穿第60套高定",
+        "onboard_time": 1721774293,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114988,
+        "num": 114988,
+        "word": "韩总 夫人终于嫁给你了",
+        "onboard_time": 1721734220,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111697,
+        "num": 111697,
+        "word": "宝宝小手拍了下爸爸后背竟留下掌印",
+        "onboard_time": 1721747420,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586787,
+        "num": 110918,
+        "word": "英国一强奸犯狱中中720万英镑大奖",
+        "onboard_time": 1721777115,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24207,
+        "num": 110040,
+        "word": "买海鲜担心短斤缺两浙江出手了",
+        "onboard_time": 1721777596,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345297,
+        "num": 108896,
+        "word": "拜登真实健康状况竟这么糟",
+        "onboard_time": 1721717181,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 171004,
+        "num": 108075,
+        "word": "被失联5年的爸爸联系了",
+        "onboard_time": 1721775914,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136726,
+        "num": 106070,
+        "word": "幼儿园回应拉横幅庆祝学生考上清华",
+        "onboard_time": 1721768531,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130776,
+        "num": 105637,
+        "word": "拜登听取线上简报",
+        "onboard_time": 1721728100,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 98779,
+        "num": 104683,
+        "word": "这个冰粉摊没有吆喝却生意火爆",
+        "onboard_time": 1721775674,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113107,
+        "num": 102862,
+        "word": "空空日记掉了200万粉丝",
+        "onboard_time": 1721736259,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 102551,
+        "num": 102551,
+        "word": "韩红 女神孙老师你没回复我",
+        "onboard_time": 1721746580,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100997,
+        "num": 100997,
+        "word": "投喂流浪猫被判赔24万案将宣判",
+        "onboard_time": 1721766311,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121309,
+        "num": 100863,
+        "word": "巴黎奥运倒计时2天",
+        "onboard_time": 1721777235,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100381,
+        "num": 100381,
+        "word": "22岁的王琳好像油画里走出来的",
+        "onboard_time": 1721776096,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100269,
+        "num": 100269,
+        "word": "旅游是真的要趁早",
+        "onboard_time": 1721748259,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 95805,
+        "num": 95805,
+        "word": "哈里斯眼中的特朗普",
+        "onboard_time": 1721739680,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 92319,
+        "num": 92319,
+        "word": "霍思燕 纯胖",
+        "onboard_time": 1721713401,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83288,
+        "num": 83288,
+        "word": "姐妹俩刚吃一口饭就被广告牌砸中",
+        "onboard_time": 1721736259,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80722,
+        "num": 80722,
+        "word": "官方通报女子飙英文骂哭乘务员",
+        "onboard_time": 1721731459,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79241,
+        "num": 79241,
+        "word": "韩国偶遇胡军儿子",
+        "onboard_time": 1721738660,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77589,
+        "num": 77589,
+        "word": "台风格美进入24小时警戒线",
+        "onboard_time": 1721744120,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76286,
+        "num": 76286,
+        "word": "军港之夜原型老兵时隔44年重聚",
+        "onboard_time": 1721777718,
+        "rank": 39,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 73346,
+        "num": 73346,
+        "word": "长相思2收官",
+        "onboard_time": 1721743940,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68859,
+        "num": 68859,
+        "word": "巴黎奥运会首个比赛日",
+        "onboard_time": 1721777357,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66486,
+        "num": 66486,
+        "word": "中央研究开征地方附加税",
+        "onboard_time": 1721777296,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 65137,
+        "num": 65137,
+        "word": "洗衣凝珠的袋子哪去了",
+        "onboard_time": 1721777056,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 64494,
+        "num": 64494,
+        "word": "刚洗的杯子为何一倒热水就漂油污",
+        "onboard_time": 1721764751,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 63112,
+        "num": 63112,
+        "word": "莲花楼 是谁的意难平",
+        "onboard_time": 1721742800,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62962,
+        "num": 62962,
+        "word": "蒋敦豪发长文回应",
+        "onboard_time": 1721654242,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62503,
+        "num": 62503,
+        "word": "安徽一教师被指网聊表白学生",
+        "onboard_time": 1721744421,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61844,
+        "num": 61844,
+        "word": "陈泽杂志",
+        "onboard_time": 1721738479,
+        "rank": 48,
+        "category": "网红,作品衍生"
+      },
+      {
+        "raw_hot": 62247,
+        "num": 61697,
+        "word": "美特勤局局长辞职",
+        "onboard_time": 1721746402,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#三中全会决定60条#"
+    }
+  }
+}

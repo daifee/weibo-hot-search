@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721776968619,
+  "endTime": 1721777751965,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -803,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 993687,
+      "num": 327808,
+      "word": "尼坤妹妹被家暴",
+      "onboard_time": 1721775914,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 986928,
       "num": 1139594,
       "word": "宋丹丹张新成演恋人",
@@ -993,14 +1001,6 @@
       "onboard_time": 1721563879,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 859492,
-      "num": 298260,
-      "word": "尼坤妹妹被家暴",
-      "onboard_time": 1721775914,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 856287,
@@ -1355,6 +1355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 697144,
+      "num": 327642,
+      "word": "偶遇沈腾一家度假",
+      "onboard_time": 1721776457,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 695389,
       "num": 357667,
       "word": "看似干净其实很脏的行为",
@@ -1641,6 +1649,14 @@
       "onboard_time": 1721746761,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 586787,
+      "num": 110918,
+      "word": "英国一强奸犯狱中中720万英镑大奖",
+      "onboard_time": 1721777115,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 585270,
@@ -2683,14 +2699,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 379862,
-      "num": 285142,
-      "word": "偶遇沈腾一家度假",
-      "onboard_time": 1721776457,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 377759,
       "num": 377759,
       "word": "酱汁鑫鑫豆豆",
@@ -2729,6 +2737,14 @@
       "onboard_time": 1721638162,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 370801,
+      "num": 185303,
+      "word": "刘畊宏谈定居苏州公园多到超乎想象",
+      "onboard_time": 1721777416,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 370187,
@@ -2937,6 +2953,14 @@
       "onboard_time": 1721712080,
       "rank": 30,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 342966,
+      "num": 342966,
+      "word": "校长回应教师产假时被公示解聘",
+      "onboard_time": 1721746220,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 342457,
@@ -3369,14 +3393,6 @@
       "onboard_time": 1721477059,
       "rank": 8,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 293843,
-      "num": 293843,
-      "word": "校长回应教师产假时被公示解聘",
-      "onboard_time": 1721746220,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 291769,
@@ -5955,6 +5971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183038,
+      "num": 183038,
+      "word": "被广告牌砸中女童母亲发声",
+      "onboard_time": 1721764691,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182912,
       "num": 182912,
       "word": "本周狗屎运最旺的星座",
@@ -6065,6 +6089,14 @@
       "onboard_time": 1721558958,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178393,
+      "num": 190868,
+      "word": "昆明广告牌坠落致3死目击者发声",
+      "onboard_time": 1721748080,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177904,
@@ -6187,14 +6219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 174934,
-      "num": 174934,
-      "word": "被广告牌砸中女童母亲发声",
-      "onboard_time": 1721764691,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174876,
       "num": 174876,
       "word": "莎头组合喝水神同步",
@@ -6249,14 +6273,6 @@
       "onboard_time": 1721717419,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 173863,
-      "num": 190868,
-      "word": "昆明广告牌坠落致3死目击者发声",
-      "onboard_time": 1721748080,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173689,
@@ -6401,6 +6417,14 @@
       "onboard_time": 1721534420,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171004,
+      "num": 108075,
+      "word": "被失联5年的爸爸联系了",
+      "onboard_time": 1721775914,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 170943,
@@ -7483,6 +7507,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 136726,
+      "num": 106070,
+      "word": "幼儿园回应拉横幅庆祝学生考上清华",
+      "onboard_time": 1721768531,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136359,
       "num": 136359,
       "word": "7月105款游戏获批",
@@ -7513,14 +7545,6 @@
       "onboard_time": 1721485401,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134728,
-      "num": 105306,
-      "word": "被失联5年的爸爸联系了",
-      "onboard_time": 1721775914,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 134558,
@@ -7715,6 +7739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 126358,
+      "num": 126358,
+      "word": "赵丽颖身穿第60套高定",
+      "onboard_time": 1721774293,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 126331,
       "num": 126331,
       "word": "抓娃娃票房破14亿",
@@ -7809,6 +7841,14 @@
       "onboard_time": 1721541919,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121309,
+      "num": 100863,
+      "word": "巴黎奥运倒计时2天",
+      "onboard_time": 1721777235,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 120467,
@@ -7923,14 +7963,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 114552,
-      "num": 114552,
-      "word": "赵丽颖身穿第60套高定",
-      "onboard_time": 1721774293,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 113852,
       "num": 211659,
       "word": "演员李晟回怼网友",
@@ -7945,14 +7977,6 @@
       "onboard_time": 1721565799,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 112975,
-      "num": 104292,
-      "word": "幼儿园回应拉横幅庆祝学生考上清华",
-      "onboard_time": 1721768531,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112449,
@@ -8115,6 +8139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 100381,
+      "num": 100381,
+      "word": "22岁的王琳好像油画里走出来的",
+      "onboard_time": 1721776096,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100055,
       "num": 100055,
       "word": "林一绿茶小狗",
@@ -8145,6 +8177,14 @@
       "onboard_time": 1721576419,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 98779,
+      "num": 182138,
+      "word": "这个冰粉摊没有吆喝却生意火爆",
+      "onboard_time": 1721775674,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98767,
@@ -8379,6 +8419,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 76286,
+      "num": 76286,
+      "word": "军港之夜原型老兵时隔44年重聚",
+      "onboard_time": 1721777718,
+      "rank": 39,
+      "category": "军事"
+    },
+    {
       "raw_hot": 75950,
       "num": 151621,
       "word": "男孩不想吃学习的苦被家长带去捡瓶子",
@@ -8491,6 +8539,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 68859,
+      "num": 68859,
+      "word": "巴黎奥运会首个比赛日",
+      "onboard_time": 1721777357,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68784,
       "num": 471463,
       "word": "性骚扰的本质是权力不平等",
@@ -8571,6 +8627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 66486,
+      "num": 66486,
+      "word": "中央研究开征地方附加税",
+      "onboard_time": 1721777296,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 65180,
       "num": 65180,
       "word": "碰谁都不能碰巨蟹座",
@@ -8579,12 +8643,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 63745,
-      "num": 63745,
-      "word": "22岁的王琳好像油画里走出来的",
-      "onboard_time": 1721776096,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 65137,
+      "num": 65137,
+      "word": "洗衣凝珠的袋子哪去了",
+      "onboard_time": 1721777056,
+      "rank": 43,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 64494,
+      "num": 64494,
+      "word": "刚洗的杯子为何一倒热水就漂油污",
+      "onboard_time": 1721764751,
+      "rank": 41,
+      "category": "科学科普"
     },
     {
       "raw_hot": 63671,
@@ -8601,14 +8673,6 @@
       "onboard_time": 1721550258,
       "rank": 32,
       "category": "运动健身,美食"
-    },
-    {
-      "raw_hot": 62221,
-      "num": 182138,
-      "word": "这个冰粉摊没有吆喝却生意火爆",
-      "onboard_time": 1721775674,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61901,
@@ -8769,14 +8833,6 @@
       "onboard_time": 1721489601,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 53281,
-      "num": 53281,
-      "word": "刚洗的杯子为何一倒热水就漂油污",
-      "onboard_time": 1721764751,
-      "rank": 41,
-      "category": "科学科普"
     },
     {
       "raw_hot": 52234,
@@ -9313,6 +9369,14 @@
       "onboard_time": 1721587933,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24207,
+      "num": 110040,
+      "word": "买海鲜担心短斤缺两浙江出手了",
+      "onboard_time": 1721777596,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24108,

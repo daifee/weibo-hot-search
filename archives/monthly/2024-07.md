@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/24 07:22:48
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/24 07:35:51
 </p>
 </blockquote>
 <p>
@@ -3345,6 +3345,12 @@ N1（热度：997983）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%BC%E5%9D%A4%E5%A6%B9%E5%A6%B9%E8%A2%AB%E5%AE%B6%E6%9A%B4%23" target="weibo">
+尼坤妹妹被家暴（热度：993687）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%AE%E5%88%AE%E4%B9%90%E9%94%80%E9%87%8F%E5%A4%A7%E8%B7%8C%23" target="weibo">
 刮刮乐销量大跌（热度：993017）
 </a>
@@ -4313,12 +4319,6 @@ N1（热度：997983）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%87%91%E7%A6%BB%E4%B8%96%E5%91%98%E5%B7%A5%E5%B9%B4%E4%BB%8530%E5%B2%81%23" target="weibo">
 中金离世员工年仅30岁（热度：859716）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%BC%E5%9D%A4%E5%A6%B9%E5%A6%B9%E8%A2%AB%E5%AE%B6%E6%9A%B4%23" target="weibo">
-尼坤妹妹被家暴（热度：859492）
 </a>
 </li>
 
