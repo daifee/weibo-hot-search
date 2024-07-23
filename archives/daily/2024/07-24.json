@@ -1,7 +1,15 @@
 {
   "startTime": 1721752056115,
-  "endTime": 1721774136935,
+  "endTime": 1721776968619,
   "band_list": [
+    {
+      "raw_hot": 859492,
+      "num": 298260,
+      "word": "尼坤妹妹被家暴",
+      "onboard_time": 1721775914,
+      "rank": 3,
+      "category": "艺人"
+    },
     {
       "raw_hot": 702696,
       "num": 363460,
@@ -75,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 379862,
+      "num": 285142,
+      "word": "偶遇沈腾一家度假",
+      "onboard_time": 1721776457,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 359418,
       "num": 213321,
       "word": "姐妹俩刚吃一口饭就被广告牌砸中",
@@ -91,12 +107,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 305075,
+      "num": 757214,
+      "word": "秦志远",
+      "onboard_time": 1721729119,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 304191,
       "num": 304191,
       "word": "北京宣言为巴勒斯坦人民带来了宝贵希望",
       "onboard_time": 1721745140,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 293843,
+      "num": 293843,
+      "word": "校长回应教师产假时被公示解聘",
+      "onboard_time": 1721746220,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253802,
+      "num": 253802,
+      "word": "当我连续开15个小时的空调",
+      "onboard_time": 1721734041,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 249330,
@@ -131,14 +171,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 214472,
-      "num": 214472,
-      "word": "当我连续开15个小时的空调",
-      "onboard_time": 1721734041,
-      "rank": 9,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 213257,
       "num": 213257,
       "word": "新娘本人回应扔手捧花砸婚闹朋友",
@@ -155,14 +187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 210453,
-      "num": 441532,
-      "word": "秦志远",
-      "onboard_time": 1721729119,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
       "raw_hot": 210236,
       "num": 210236,
       "word": "广告牌坠落致3死7伤责任人被控制",
@@ -177,6 +201,22 @@
       "onboard_time": 1721740160,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 174934,
+      "num": 174934,
+      "word": "被广告牌砸中女童母亲发声",
+      "onboard_time": 1721764691,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173863,
+      "num": 190868,
+      "word": "昆明广告牌坠落致3死目击者发声",
+      "onboard_time": 1721748080,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160612,
@@ -203,14 +243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141110,
-      "num": 190868,
-      "word": "昆明广告牌坠落致3死目击者发声",
-      "onboard_time": 1721748080,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 138739,
       "num": 138739,
       "word": "种地吧爆火的原因",
@@ -225,6 +257,14 @@
       "onboard_time": 1721742800,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134728,
+      "num": 105306,
+      "word": "被失联5年的爸爸联系了",
+      "onboard_time": 1721775914,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 134355,
@@ -283,11 +323,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 113665,
-      "num": 113665,
-      "word": "校长回应教师产假时被公示解聘",
-      "onboard_time": 1721746220,
-      "rank": 37,
+      "raw_hot": 114552,
+      "num": 114552,
+      "word": "赵丽颖身穿第60套高定",
+      "onboard_time": 1721774293,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 112975,
+      "num": 104292,
+      "word": "幼儿园回应拉横幅庆祝学生考上清华",
+      "onboard_time": 1721768531,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -307,6 +355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 104260,
+      "num": 104260,
+      "word": "投喂流浪猫被判赔24万案将宣判",
+      "onboard_time": 1721766311,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100055,
       "num": 100055,
       "word": "林一绿茶小狗",
@@ -321,14 +377,6 @@
       "onboard_time": 1721720720,
       "rank": 41,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 95511,
-      "num": 60265,
-      "word": "被广告牌砸中女童母亲发声",
-      "onboard_time": 1721764691,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92491,
@@ -403,14 +451,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 68103,
-      "num": 44622,
-      "word": "幼儿园回应拉横幅庆祝学生考上清华",
-      "onboard_time": 1721768531,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 67415,
       "num": 107289,
       "word": "福建浙江防汛防台风四级应急响应",
@@ -425,6 +465,22 @@
       "onboard_time": 1721733800,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 63745,
+      "num": 63745,
+      "word": "22岁的王琳好像油画里走出来的",
+      "onboard_time": 1721776096,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 62221,
+      "num": 182138,
+      "word": "这个冰粉摊没有吆喝却生意火爆",
+      "onboard_time": 1721775674,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 58388,
@@ -443,12 +499,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 55131,
-      "num": 55131,
-      "word": "投喂流浪猫被判赔24万案将宣判",
-      "onboard_time": 1721766311,
-      "rank": 46,
+      "raw_hot": 53851,
+      "num": 200319,
+      "word": "新生儿宝宝被104岁高祖母抱入怀中",
+      "onboard_time": 1721749280,
+      "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53281,
+      "num": 53281,
+      "word": "刚洗的杯子为何一倒热水就漂油污",
+      "onboard_time": 1721764751,
+      "rank": 41,
+      "category": "科学科普"
     },
     {
       "raw_hot": 50789,
@@ -459,12 +523,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 46916,
-      "num": 200319,
-      "word": "新生儿宝宝被104岁高祖母抱入怀中",
-      "onboard_time": 1721749280,
-      "rank": 18,
+      "raw_hot": 50496,
+      "num": 53279,
+      "word": "台风格美对上海影响风大于雨",
+      "onboard_time": 1721762352,
+      "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46482,
+      "num": 53272,
+      "word": "校方回应女生高考602分去职业大学",
+      "onboard_time": 1721769071,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 44804,
+      "num": 53269,
+      "word": "热得发烫的车座对身体有危害吗",
+      "onboard_time": 1721772611,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 43598,
@@ -475,12 +555,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38759,
-      "num": 38759,
-      "word": "校方回应女生高考602分去职业大学",
-      "onboard_time": 1721769071,
-      "rank": 35,
-      "category": "教育"
+      "raw_hot": 43372,
+      "num": 53267,
+      "word": "原生家庭缺爱的人会养成两种本能",
+      "onboard_time": 1721776935,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 33201,
@@ -489,14 +569,6 @@
       "onboard_time": 1721764270,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 28878,
-      "num": 38696,
-      "word": "刚洗的杯子为何一倒热水就漂油污",
-      "onboard_time": 1721764751,
-      "rank": 41,
-      "category": "科学科普"
     },
     {
       "raw_hot": 27644,
@@ -513,22 +585,6 @@
       "onboard_time": 1721761331,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24227,
-      "num": 38665,
-      "word": "台风格美对上海影响风大于雨",
-      "onboard_time": 1721762352,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22286,
-      "num": 38654,
-      "word": "热得发烫的车座对身体有危害吗",
-      "onboard_time": 1721772611,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 21647,
@@ -587,8 +643,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9124,
-      "num": 159635,
+      "raw_hot": 11314,
+      "num": 298283,
       "word": "高质量发展中国行",
       "onboard_time": 1721720000,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1721776968619,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 305075,
+        "num": 757214,
+        "word": "秦志远",
+        "onboard_time": 1721729119,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 299267,
+        "num": 299267,
+        "word": "韩国瓜农说今年的西瓜白种了",
+        "onboard_time": 1721739499,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11314,
+        "num": 298283,
+        "word": "高质量发展中国行",
+        "onboard_time": 1721720000,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 859492,
+        "num": 298260,
+        "word": "尼坤妹妹被家暴",
+        "onboard_time": 1721775914,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297775,
+        "num": 297775,
+        "word": "北京将迎大到暴雨局地大暴雨",
+        "onboard_time": 1721746041,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293843,
+        "num": 293843,
+        "word": "校长回应教师产假时被公示解聘",
+        "onboard_time": 1721746220,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379862,
+        "num": 285142,
+        "word": "偶遇沈腾一家度假",
+        "onboard_time": 1721776457,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253802,
+        "num": 253802,
+        "word": "当我连续开15个小时的空调",
+        "onboard_time": 1721734041,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190813,
+        "num": 190813,
+        "word": "北京宣言为巴勒斯坦人民带来了宝贵希望",
+        "onboard_time": 1721745140,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 62221,
+        "num": 182138,
+        "word": "这个冰粉摊没有吆喝却生意火爆",
+        "onboard_time": 1721775674,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377469,
+        "num": 181608,
+        "word": "金靖文案 小孕妇",
+        "onboard_time": 1721735360,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202535,
+        "num": 180572,
+        "word": "新娘本人回应扔手捧花砸婚闹朋友",
+        "onboard_time": 1721733501,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174934,
+        "num": 174934,
+        "word": "被广告牌砸中女童母亲发声",
+        "onboard_time": 1721764691,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173863,
+        "num": 173863,
+        "word": "昆明广告牌坠落致3死目击者发声",
+        "onboard_time": 1721748080,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151468,
+        "num": 151468,
+        "word": "广州659分中考生选择读中职",
+        "onboard_time": 1721743281,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 148446,
+        "num": 148446,
+        "word": "张杰用镊子给自己拔鱼刺",
+        "onboard_time": 1721746341,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145200,
+        "num": 145200,
+        "word": "台风格美最新消息",
+        "onboard_time": 1721749998,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119828,
+        "num": 119828,
+        "word": "韩总 夫人终于嫁给你了",
+        "onboard_time": 1721734220,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114552,
+        "num": 114552,
+        "word": "赵丽颖身穿第60套高定",
+        "onboard_time": 1721774293,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106094,
+        "num": 106094,
+        "word": "空空日记掉了200万粉丝",
+        "onboard_time": 1721736259,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 333164,
+        "num": 105763,
+        "word": "拜登真实健康状况竟这么糟",
+        "onboard_time": 1721717181,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 134728,
+        "num": 105306,
+        "word": "被失联5年的爸爸联系了",
+        "onboard_time": 1721775914,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114603,
+        "num": 104770,
+        "word": "拜登听取线上简报",
+        "onboard_time": 1721728100,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 112975,
+        "num": 104292,
+        "word": "幼儿园回应拉横幅庆祝学生考上清华",
+        "onboard_time": 1721768531,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104260,
+        "num": 104260,
+        "word": "投喂流浪猫被判赔24万案将宣判",
+        "onboard_time": 1721766311,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103093,
+        "num": 103093,
+        "word": "韩红 女神孙老师你没回复我",
+        "onboard_time": 1721746580,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102136,
+        "num": 102136,
+        "word": "宝宝小手拍了下爸爸后背竟留下掌印",
+        "onboard_time": 1721747420,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97779,
+        "num": 97779,
+        "word": "旅游是真的要趁早",
+        "onboard_time": 1721748259,
+        "rank": 27,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 93808,
+        "num": 93808,
+        "word": "台风格美进入24小时警戒线",
+        "onboard_time": 1721744120,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88273,
+        "num": 88273,
+        "word": "官方通报女子飙英文骂哭乘务员",
+        "onboard_time": 1721731459,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81220,
+        "num": 81220,
+        "word": "姐妹俩刚吃一口饭就被广告牌砸中",
+        "onboard_time": 1721736259,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80755,
+        "num": 80755,
+        "word": "霍思燕 纯胖",
+        "onboard_time": 1721713401,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78307,
+        "num": 78307,
+        "word": "哈里斯眼中的特朗普",
+        "onboard_time": 1721739680,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 65419,
+        "num": 65419,
+        "word": "长相思2收官",
+        "onboard_time": 1721743940,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63745,
+        "num": 63745,
+        "word": "22岁的王琳好像油画里走出来的",
+        "onboard_time": 1721776096,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60302,
+        "num": 60302,
+        "word": "莲花楼 是谁的意难平",
+        "onboard_time": 1721742800,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58625,
+        "num": 58625,
+        "word": "广告牌坠落致3死7伤责任人被控制",
+        "onboard_time": 1721726661,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55752,
+        "num": 55752,
+        "word": "檀健次 相柳能听见",
+        "onboard_time": 1721733501,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54577,
+        "num": 54577,
+        "word": "美特勤局局长辞职",
+        "onboard_time": 1721746402,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 54258,
+        "num": 54258,
+        "word": "安徽一教师被指网聊表白学生",
+        "onboard_time": 1721744421,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53851,
+        "num": 53851,
+        "word": "新生儿宝宝被104岁高祖母抱入怀中",
+        "onboard_time": 1721749280,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53281,
+        "num": 53281,
+        "word": "刚洗的杯子为何一倒热水就漂油污",
+        "onboard_time": 1721764751,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 50496,
+        "num": 53279,
+        "word": "台风格美对上海影响风大于雨",
+        "onboard_time": 1721762352,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50079,
+        "num": 53279,
+        "word": "大哥远年内开播近200场",
+        "onboard_time": 1721739499,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 49706,
+        "num": 53277,
+        "word": "韩红发文祝孙燕姿生日快乐",
+        "onboard_time": 1721746700,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48530,
+        "num": 53275,
+        "word": "唐朝诡事录",
+        "onboard_time": 1721742320,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46482,
+        "num": 53272,
+        "word": "校方回应女生高考602分去职业大学",
+        "onboard_time": 1721769071,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 46200,
+        "num": 53272,
+        "word": "蒋敦豪发长文回应",
+        "onboard_time": 1721654242,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44804,
+        "num": 53269,
+        "word": "热得发烫的车座对身体有危害吗",
+        "onboard_time": 1721772611,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 43372,
+        "num": 53267,
+        "word": "原生家庭缺爱的人会养成两种本能",
+        "onboard_time": 1721776935,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届三中全会决定思维导图#"
+    }
+  }
+}

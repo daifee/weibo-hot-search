@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/24 00:27:36 ~ 2024/07/24 06:35:36
+本榜单时间：2024/07/24 00:27:36 ~ 2024/07/24 07:22:48
 </p>
 </blockquote>
 <p>
@@ -13,6 +13,12 @@
 热榜
 </h2>
 <ol>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%BC%E5%9D%A4%E5%A6%B9%E5%A6%B9%E8%A2%AB%E5%AE%B6%E6%9A%B4%23" target="weibo">
+尼坤妹妹被家暴（热度：859492）
+</a>
+</li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E7%94%A8%E9%95%8A%E5%AD%90%E7%BB%99%E8%87%AA%E5%B7%B1%E6%8B%94%E9%B1%BC%E5%88%BA%23" target="weibo">
@@ -69,6 +75,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%81%B6%E9%81%87%E6%B2%88%E8%85%BE%E4%B8%80%E5%AE%B6%E5%BA%A6%E5%81%87%23" target="weibo">
+偶遇沈腾一家度假（热度：379862）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A6%B9%E4%BF%A9%E5%88%9A%E5%90%83%E4%B8%80%E5%8F%A3%E9%A5%AD%E5%B0%B1%E8%A2%AB%E5%B9%BF%E5%91%8A%E7%89%8C%E7%A0%B8%E4%B8%AD%23" target="weibo">
 姐妹俩刚吃一口饭就被广告牌砸中（热度：359418）
 </a>
@@ -81,8 +93,26 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%BF%97%E8%BF%9C%23" target="weibo">
+秦志远（热度：305075）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%AE%A3%E8%A8%80%E4%B8%BA%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E4%BA%BA%E6%B0%91%E5%B8%A6%E6%9D%A5%E4%BA%86%E5%AE%9D%E8%B4%B5%E5%B8%8C%E6%9C%9B%23" target="weibo">
 北京宣言为巴勒斯坦人民带来了宝贵希望（热度：304191）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A0%A1%E9%95%BF%E5%9B%9E%E5%BA%94%E6%95%99%E5%B8%88%E4%BA%A7%E5%81%87%E6%97%B6%E8%A2%AB%E5%85%AC%E7%A4%BA%E8%A7%A3%E8%81%98%23" target="weibo">
+校长回应教师产假时被公示解聘（热度：293843）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E6%88%91%E8%BF%9E%E7%BB%AD%E5%BC%8015%E4%B8%AA%E5%B0%8F%E6%97%B6%E7%9A%84%E7%A9%BA%E8%B0%83%23" target="weibo">
+当我连续开15个小时的空调（热度：253802）
 </a>
 </li>
 
@@ -111,12 +141,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E6%88%91%E8%BF%9E%E7%BB%AD%E5%BC%8015%E4%B8%AA%E5%B0%8F%E6%97%B6%E7%9A%84%E7%A9%BA%E8%B0%83%23" target="weibo">
-当我连续开15个小时的空调（热度：214472）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%A8%98%E6%9C%AC%E4%BA%BA%E5%9B%9E%E5%BA%94%E6%89%94%E6%89%8B%E6%8D%A7%E8%8A%B1%E7%A0%B8%E5%A9%9A%E9%97%B9%E6%9C%8B%E5%8F%8B%23" target="weibo">
 新娘本人回应扔手捧花砸婚闹朋友（热度：213257）
 </a>
@@ -129,12 +153,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%BF%97%E8%BF%9C%23" target="weibo">
-秦志远（热度：210453）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%91%8A%E7%89%8C%E5%9D%A0%E8%90%BD%E8%87%B43%E6%AD%BB7%E4%BC%A4%E8%B4%A3%E4%BB%BB%E4%BA%BA%E8%A2%AB%E6%8E%A7%E5%88%B6%23" target="weibo">
 广告牌坠落致3死7伤责任人被控制（热度：210236）
 </a>
@@ -143,6 +161,18 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%20%E4%B8%89%E5%8D%81%E5%B2%81%E4%B9%9F%E6%98%AF%E7%9B%B8%E4%BF%A1%E5%85%89%E7%9A%84%E5%B9%B4%E7%BA%AA%23" target="weibo">
 张若昀 三十岁也是相信光的年纪（热度：194903）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%B9%BF%E5%91%8A%E7%89%8C%E7%A0%B8%E4%B8%AD%E5%A5%B3%E7%AB%A5%E6%AF%8D%E4%BA%B2%E5%8F%91%E5%A3%B0%23" target="weibo">
+被广告牌砸中女童母亲发声（热度：174934）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%86%E6%98%8E%E5%B9%BF%E5%91%8A%E7%89%8C%E5%9D%A0%E8%90%BD%E8%87%B43%E6%AD%BB%E7%9B%AE%E5%87%BB%E8%80%85%E5%8F%91%E5%A3%B0%23" target="weibo">
+昆明广告牌坠落致3死目击者发声（热度：173863）
 </a>
 </li>
 
@@ -165,12 +195,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%86%E6%98%8E%E5%B9%BF%E5%91%8A%E7%89%8C%E5%9D%A0%E8%90%BD%E8%87%B43%E6%AD%BB%E7%9B%AE%E5%87%BB%E8%80%85%E5%8F%91%E5%A3%B0%23" target="weibo">
-昆明广告牌坠落致3死目击者发声（热度：141110）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E5%90%A7%E7%88%86%E7%81%AB%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
 种地吧爆火的原因（热度：138739）
 </a>
@@ -179,6 +203,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%20%E6%98%AF%E8%B0%81%E7%9A%84%E6%84%8F%E9%9A%BE%E5%B9%B3%23" target="weibo">
 莲花楼 是谁的意难平（热度：136383）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%A4%B1%E8%81%945%E5%B9%B4%E7%9A%84%E7%88%B8%E7%88%B8%E8%81%94%E7%B3%BB%E4%BA%86%23" target="weibo">
+被失联5年的爸爸联系了（热度：134728）
 </a>
 </li>
 
@@ -225,8 +255,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A0%A1%E9%95%BF%E5%9B%9E%E5%BA%94%E6%95%99%E5%B8%88%E4%BA%A7%E5%81%87%E6%97%B6%E8%A2%AB%E5%85%AC%E7%A4%BA%E8%A7%A3%E8%81%98%23" target="weibo">
-校长回应教师产假时被公示解聘（热度：113665）
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%BA%AB%E7%A9%BF%E7%AC%AC60%E5%A5%97%E9%AB%98%E5%AE%9A%23" target="weibo">
+赵丽颖身穿第60套高定（热度：114552）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%9B%9E%E5%BA%94%E6%8B%89%E6%A8%AA%E5%B9%85%E5%BA%86%E7%A5%9D%E5%AD%A6%E7%94%9F%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%23" target="weibo">
+幼儿园回应拉横幅庆祝学生考上清华（热度：112975）
 </a>
 </li>
 
@@ -243,6 +279,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%95%E5%96%82%E6%B5%81%E6%B5%AA%E7%8C%AB%E8%A2%AB%E5%88%A4%E8%B5%9424%E4%B8%87%E6%A1%88%E5%B0%86%E5%AE%A3%E5%88%A4%23" target="weibo">
+投喂流浪猫被判赔24万案将宣判（热度：104260）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%B8%80%E7%BB%BF%E8%8C%B6%E5%B0%8F%E7%8B%97%23" target="weibo">
 林一绿茶小狗（热度：100055）
 </a>
@@ -251,12 +293,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E8%A1%A8%E7%A4%BA%E5%B0%86%E5%B0%BD%E5%8A%9B%E5%B1%A5%E8%81%8C%23" target="weibo">
 拜登表示将尽力履职（热度：98905）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%B9%BF%E5%91%8A%E7%89%8C%E7%A0%B8%E4%B8%AD%E5%A5%B3%E7%AB%A5%E6%AF%8D%E4%BA%B2%E5%8F%91%E5%A3%B0%23" target="weibo">
-被广告牌砸中女童母亲发声（热度：95511）
 </a>
 </li>
 
@@ -315,12 +351,6 @@ Tyla帮唱香缇莫（热度：78158）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%9B%9E%E5%BA%94%E6%8B%89%E6%A8%AA%E5%B9%85%E5%BA%86%E7%A5%9D%E5%AD%A6%E7%94%9F%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%23" target="weibo">
-幼儿园回应拉横幅庆祝学生考上清华（热度：68103）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E6%B5%99%E6%B1%9F%E9%98%B2%E6%B1%9B%E9%98%B2%E5%8F%B0%E9%A3%8E%E5%9B%9B%E7%BA%A7%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94%23" target="weibo">
 福建浙江防汛防台风四级应急响应（热度：67415）
 </a>
@@ -329,6 +359,18 @@ Tyla帮唱香缇莫（热度：78158）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%83%E5%BD%AC%20Giselle%23" target="weibo">
 元彬 Giselle（热度：65992）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2322%E5%B2%81%E7%9A%84%E7%8E%8B%E7%90%B3%E5%A5%BD%E5%83%8F%E6%B2%B9%E7%94%BB%E9%87%8C%E8%B5%B0%E5%87%BA%E6%9D%A5%E7%9A%84%23" target="weibo">
+22岁的王琳好像油画里走出来的（热度：63745）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E5%86%B0%E7%B2%89%E6%91%8A%E6%B2%A1%E6%9C%89%E5%90%86%E5%96%9D%E5%8D%B4%E7%94%9F%E6%84%8F%E7%81%AB%E7%88%86%23" target="weibo">
+这个冰粉摊没有吆喝却生意火爆（热度：62221）
 </a>
 </li>
 
@@ -345,8 +387,14 @@ Tyla帮唱香缇莫（热度：78158）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%95%E5%96%82%E6%B5%81%E6%B5%AA%E7%8C%AB%E8%A2%AB%E5%88%A4%E8%B5%9424%E4%B8%87%E6%A1%88%E5%B0%86%E5%AE%A3%E5%88%A4%23" target="weibo">
-投喂流浪猫被判赔24万案将宣判（热度：55131）
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%94%9F%E5%84%BF%E5%AE%9D%E5%AE%9D%E8%A2%AB104%E5%B2%81%E9%AB%98%E7%A5%96%E6%AF%8D%E6%8A%B1%E5%85%A5%E6%80%80%E4%B8%AD%23" target="weibo">
+新生儿宝宝被104岁高祖母抱入怀中（热度：53851）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%9A%E6%B4%97%E7%9A%84%E6%9D%AF%E5%AD%90%E4%B8%BA%E4%BD%95%E4%B8%80%E5%80%92%E7%83%AD%E6%B0%B4%E5%B0%B1%E6%BC%82%E6%B2%B9%E6%B1%A1%23" target="weibo">
+刚洗的杯子为何一倒热水就漂油污（热度：53281）
 </a>
 </li>
 
@@ -357,8 +405,20 @@ Tyla帮唱香缇莫（热度：78158）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%94%9F%E5%84%BF%E5%AE%9D%E5%AE%9D%E8%A2%AB104%E5%B2%81%E9%AB%98%E7%A5%96%E6%AF%8D%E6%8A%B1%E5%85%A5%E6%80%80%E4%B8%AD%23" target="weibo">
-新生儿宝宝被104岁高祖母抱入怀中（热度：46916）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%A0%BC%E7%BE%8E%E5%AF%B9%E4%B8%8A%E6%B5%B7%E5%BD%B1%E5%93%8D%E9%A3%8E%E5%A4%A7%E4%BA%8E%E9%9B%A8%23" target="weibo">
+台风格美对上海影响风大于雨（热度：50496）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83602%E5%88%86%E5%8E%BB%E8%81%8C%E4%B8%9A%E5%A4%A7%E5%AD%A6%23" target="weibo">
+校方回应女生高考602分去职业大学（热度：46482）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%83%AD%E5%BE%97%E5%8F%91%E7%83%AB%E7%9A%84%E8%BD%A6%E5%BA%A7%E5%AF%B9%E8%BA%AB%E4%BD%93%E6%9C%89%E5%8D%B1%E5%AE%B3%E5%90%97%23" target="weibo">
+热得发烫的车座对身体有危害吗（热度：44804）
 </a>
 </li>
 
@@ -369,20 +429,14 @@ Tyla帮唱香缇莫（热度：78158）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83602%E5%88%86%E5%8E%BB%E8%81%8C%E4%B8%9A%E5%A4%A7%E5%AD%A6%23" target="weibo">
-校方回应女生高考602分去职业大学（热度：38759）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%94%9F%E5%AE%B6%E5%BA%AD%E7%BC%BA%E7%88%B1%E7%9A%84%E4%BA%BA%E4%BC%9A%E5%85%BB%E6%88%90%E4%B8%A4%E7%A7%8D%E6%9C%AC%E8%83%BD%23" target="weibo">
+原生家庭缺爱的人会养成两种本能（热度：43372）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%BE%E5%88%B0%E8%8A%B1%E8%8A%B1%E7%AD%89%E6%AF%94%E4%BE%8B%E9%95%BF%E5%A4%A7%E7%9A%84%E8%AF%81%E6%8D%AE%E4%BA%86%23" target="weibo">
 找到花花等比例长大的证据了（热度：33201）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%9A%E6%B4%97%E7%9A%84%E6%9D%AF%E5%AD%90%E4%B8%BA%E4%BD%95%E4%B8%80%E5%80%92%E7%83%AD%E6%B0%B4%E5%B0%B1%E6%BC%82%E6%B2%B9%E6%B1%A1%23" target="weibo">
-刚洗的杯子为何一倒热水就漂油污（热度：28878）
 </a>
 </li>
 
@@ -395,18 +449,6 @@ Tyla帮唱香缇莫（热度：78158）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E8%BF%90%E5%8A%A8%E5%91%98%E5%88%86%E4%BA%AB%E5%B7%B4%E9%BB%8E%E5%A4%87%E6%88%98%E8%A7%86%E9%A2%91%23" target="weibo">
 国乒运动员分享巴黎备战视频（热度：27137）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%A0%BC%E7%BE%8E%E5%AF%B9%E4%B8%8A%E6%B5%B7%E5%BD%B1%E5%93%8D%E9%A3%8E%E5%A4%A7%E4%BA%8E%E9%9B%A8%23" target="weibo">
-台风格美对上海影响风大于雨（热度：24227）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%83%AD%E5%BE%97%E5%8F%91%E7%83%AB%E7%9A%84%E8%BD%A6%E5%BA%A7%E5%AF%B9%E8%BA%AB%E4%BD%93%E6%9C%89%E5%8D%B1%E5%AE%B3%E5%90%97%23" target="weibo">
-热得发烫的车座对身体有危害吗（热度：22286）
 </a>
 </li>
 
@@ -454,7 +496,7 @@ Tyla帮唱香缇莫（热度：78158）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E4%B8%AD%E5%9B%BD%E8%A1%8C%23" target="weibo">
-高质量发展中国行（热度：9124）
+高质量发展中国行（热度：11314）
 </a>
 </li>
 
