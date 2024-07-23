@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721755072691,
+  "endTime": 1721756129547,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -42611,6 +42611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159485,
+      "num": 159485,
+      "word": "台风格美最新消息",
+      "onboard_time": 1721749998,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159477,
       "num": 159477,
       "word": "肖战魏无羡饭制五周年贺",
@@ -44513,14 +44521,6 @@
       "onboard_time": 1721039778,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 151790,
-      "num": 151790,
-      "word": "台风格美最新消息",
-      "onboard_time": 1721749998,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151776,
@@ -56643,6 +56643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100055,
+      "num": 100055,
+      "word": "林一绿茶小狗",
+      "onboard_time": 1721754376,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99968,
       "num": 333587,
       "word": "外交部回应ChinaTravel走红",
@@ -59027,14 +59035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 76617,
-      "num": 76617,
-      "word": "林一绿茶小狗",
-      "onboard_time": 1721754376,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 76599,
       "num": 64007,
       "word": "亚马尔世界波",
@@ -61131,6 +61131,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 58388,
+      "num": 58388,
+      "word": "歌王之战阵容",
+      "onboard_time": 1721754434,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 58386,
       "num": 404177,
       "word": "黄岩岛珊瑚礁调查结论首次公布",
@@ -61617,14 +61625,6 @@
       "onboard_time": 1720432339,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 54423,
-      "num": 54423,
-      "word": "歌王之战阵容",
-      "onboard_time": 1721754434,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 54305,
@@ -66588,7 +66588,7 @@
     },
     {
       "raw_hot": 17443,
-      "num": 83205,
+      "num": 105451,
       "word": "婆婆上班式宠媳每天走1小时做饭",
       "onboard_time": 1721753656,
       "rank": 29,

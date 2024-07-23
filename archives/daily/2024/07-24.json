@@ -1,6 +1,6 @@
 {
   "startTime": 1721752056115,
-  "endTime": 1721755072691,
+  "endTime": 1721756129547,
   "band_list": [
     {
       "raw_hot": 702696,
@@ -187,8 +187,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 151790,
-      "num": 151790,
+      "raw_hot": 159485,
+      "num": 159485,
       "word": "台风格美最新消息",
       "onboard_time": 1721749998,
       "rank": 30,
@@ -307,6 +307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 100055,
+      "num": 100055,
+      "word": "林一绿茶小狗",
+      "onboard_time": 1721754376,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98905,
       "num": 107458,
       "word": "拜登表示将尽力履职",
@@ -371,14 +379,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 76617,
-      "num": 76617,
-      "word": "林一绿茶小狗",
-      "onboard_time": 1721754376,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 76603,
       "num": 107166,
       "word": "美国女乒想和马龙樊振东林高远搭档",
@@ -411,20 +411,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58388,
+      "num": 58388,
+      "word": "歌王之战阵容",
+      "onboard_time": 1721754434,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 58237,
       "num": 58237,
       "word": "韩国偶遇胡军儿子",
       "onboard_time": 1721738660,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 54423,
-      "num": 54423,
-      "word": "歌王之战阵容",
-      "onboard_time": 1721754434,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 50789,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 17443,
-      "num": 83205,
+      "num": 105451,
       "word": "婆婆上班式宠媳每天走1小时做饭",
       "onboard_time": 1721753656,
       "rank": 29,
