@@ -1,6 +1,6 @@
 {
   "startTime": 1721665529273,
-  "endTime": 1721712006754,
+  "endTime": 1721713004844,
   "band_list": [
     {
       "raw_hot": 4456876,
@@ -267,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 578994,
+      "num": 578994,
+      "word": "哈里斯称已获足够支持成美国总统候选人",
+      "onboard_time": 1721706981,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 566050,
       "num": 441503,
       "word": "电影学院到底有谁在啊",
@@ -323,12 +331,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 524259,
-      "num": 524259,
-      "word": "哈里斯称已获足够支持成美国总统候选人",
-      "onboard_time": 1721706981,
-      "rank": 18,
-      "category": "国外时政"
+      "raw_hot": 533392,
+      "num": 533392,
+      "word": "长相思2阿念一诺还一诺",
+      "onboard_time": 1721711600,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 517431,
@@ -347,8 +355,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 500579,
-      "num": 500579,
+      "raw_hot": 511852,
+      "num": 511852,
       "word": "中国人民大学",
       "onboard_time": 1721707641,
       "rank": 34,
@@ -377,6 +385,14 @@
       "onboard_time": 1721646142,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 435861,
+      "num": 435861,
+      "word": "毛球醒了寻不到主人了",
+      "onboard_time": 1721707401,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 434511,
@@ -417,6 +433,14 @@
       "onboard_time": 1721697679,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 384062,
+      "num": 325483,
+      "word": "密室大逃脱",
+      "onboard_time": 1721711241,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 381506,
@@ -475,14 +499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 349116,
-      "num": 349116,
-      "word": "毛球醒了寻不到主人了",
-      "onboard_time": 1721707401,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 342457,
       "num": 342457,
       "word": "警方调查人大教授涉嫌违法情况",
@@ -491,12 +507,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 322919,
-      "num": 322919,
-      "word": "密室大逃脱",
-      "onboard_time": 1721711241,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 325109,
+      "num": 325109,
+      "word": "李荣书 Newjeans出道组",
+      "onboard_time": 1721712200,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 321726,
@@ -635,6 +651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245720,
+      "num": 235322,
+      "word": "买房不建议买槽钢层",
+      "onboard_time": 1721712080,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 239199,
       "num": 239199,
       "word": "十个勤天演唱会舞台事故",
@@ -683,6 +707,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233376,
+      "num": 233376,
+      "word": "团伙用3元淫秽视频获利60余万",
+      "onboard_time": 1721707641,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230853,
+      "num": 230853,
+      "word": "宁夏一网红主播杀害妻子后自杀",
+      "onboard_time": 1721712740,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230246,
       "num": 230246,
       "word": "长相思 特效",
@@ -715,12 +755,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 225055,
-      "num": 225055,
-      "word": "团伙用3元淫秽视频获利60余万",
-      "onboard_time": 1721707641,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 222769,
+      "num": 222769,
+      "word": "谁让她俩扮的仙白啊",
+      "onboard_time": 1721711301,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 221504,
@@ -753,14 +793,6 @@
       "onboard_time": 1721669773,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 219034,
-      "num": 219034,
-      "word": "长相思2阿念一诺还一诺",
-      "onboard_time": 1721711600,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 217429,
@@ -835,14 +867,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 206114,
-      "num": 206114,
-      "word": "谁让她俩扮的仙白啊",
-      "onboard_time": 1721711301,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 204219,
       "num": 204219,
       "word": "涂山璟热度破2亿",
@@ -881,6 +905,22 @@
       "onboard_time": 1721709620,
       "rank": 42,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 197913,
+      "num": 197913,
+      "word": "汪苏泷郑州演唱会抢票",
+      "onboard_time": 1721712440,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 197109,
+      "num": 197109,
+      "word": "被跳水队的水下视角美到了",
+      "onboard_time": 1721712560,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 196952,
@@ -971,12 +1011,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184107,
+      "num": 184107,
+      "word": "密室大逃脱6预告",
+      "onboard_time": 1721712260,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182941,
       "num": 182941,
       "word": "下班后比刷手机更有意义的事",
       "onboard_time": 1721660604,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 181617,
+      "num": 181617,
+      "word": "苏杉杉起诉丝芭",
+      "onboard_time": 1721712920,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 180014,
@@ -1128,6 +1184,14 @@
       "word": "导师性骚扰学生不只是师德问题",
       "onboard_time": 1721696120,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150866,
+      "num": 516259,
+      "word": "夏天脾气暴可能是得了热怒症",
+      "onboard_time": 1721710880,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1371,11 +1435,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 70583,
-      "num": 516259,
-      "word": "夏天脾气暴可能是得了热怒症",
-      "onboard_time": 1721710880,
-      "rank": 9,
+      "raw_hot": 70572,
+      "num": 421855,
+      "word": "男子获救后连鞠三躬感谢医护",
+      "onboard_time": 1721712740,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -1500,7 +1564,7 @@
     },
     {
       "raw_hot": 39582,
-      "num": 232898,
+      "num": 474527,
       "word": "范丞丞大热天玩火",
       "onboard_time": 1721710941,
       "rank": 30,
