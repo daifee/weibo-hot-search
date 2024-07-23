@@ -1,6 +1,6 @@
 {
   "startTime": 1721752056115,
-  "endTime": 1721769703105,
+  "endTime": 1721770490088,
   "band_list": [
     {
       "raw_hot": 702696,
@@ -363,8 +363,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 81580,
-      "num": 22276,
+      "raw_hot": 85470,
+      "num": 28236,
       "word": "被广告牌砸中女童母亲发声",
       "onboard_time": 1721764691,
       "rank": 30,
@@ -459,8 +459,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 32295,
-      "num": 25569,
+      "raw_hot": 34459,
+      "num": 28203,
       "word": "投喂流浪猫被判赔24万案将宣判",
       "onboard_time": 1721766311,
       "rank": 46,
@@ -475,12 +475,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22736,
-      "num": 22127,
+      "raw_hot": 23707,
+      "num": 23707,
       "word": "刚洗的杯子为何一倒热水就漂油污",
       "onboard_time": 1721764751,
       "rank": 41,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 21739,
+      "num": 21739,
+      "word": "找到花花等比例长大的证据了",
+      "onboard_time": 1721764270,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 21393,
@@ -491,12 +499,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 20793,
-      "num": 20793,
-      "word": "找到花花等比例长大的证据了",
-      "onboard_time": 1721764270,
-      "rank": 39,
-      "category": "幽默"
+      "raw_hot": 20928,
+      "num": 20928,
+      "word": "幼儿园回应拉横幅庆祝学生考上清华",
+      "onboard_time": 1721768531,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18835,
@@ -531,7 +539,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16140,
+      "raw_hot": 16978,
       "num": 20768,
       "word": "家属称广告牌坠落致女儿离世",
       "onboard_time": 1721767631,
@@ -539,7 +547,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15487,
+      "raw_hot": 15624,
       "num": 32302,
       "word": "桥梁垮塌带头拦车的司机是退伍军人",
       "onboard_time": 1721760491,
@@ -547,19 +555,11 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 15438,
+      "raw_hot": 15620,
       "num": 41867,
       "word": "爱美的她毅然剪掉了及腰秀发",
       "onboard_time": 1721761153,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15010,
-      "num": 20757,
-      "word": "幼儿园回应拉横幅庆祝学生考上清华",
-      "onboard_time": 1721768531,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
