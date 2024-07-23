@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721759160708,
+  "endTime": 1721759867806,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -65105,6 +65105,14 @@
       "onboard_time": 1720072397,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 27644,
+      "num": 27644,
+      "word": "101岁爷爷给50多岁孙子扇蚊子",
+      "onboard_time": 1721756773,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27594,
