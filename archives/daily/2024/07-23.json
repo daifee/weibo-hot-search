@@ -1,6 +1,6 @@
 {
   "startTime": 1721665529273,
-  "endTime": 1721740942636,
+  "endTime": 1721741658520,
   "band_list": [
     {
       "raw_hot": 4456876,
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 827069,
-      "num": 542988,
+      "num": 558320,
       "word": "广告牌坠落致3死7伤责任人被控制",
       "onboard_time": 1721726661,
       "rank": 25,
@@ -491,6 +491,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 684655,
+      "num": 365450,
+      "word": "韩国偶遇胡军儿子",
+      "onboard_time": 1721738660,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 683886,
       "num": 468016,
       "word": "人大王某某被解聘",
@@ -545,14 +553,6 @@
       "onboard_time": 1721700740,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 626679,
-      "num": 365450,
-      "word": "韩国偶遇胡军儿子",
-      "onboard_time": 1721738660,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 599434,
@@ -697,6 +697,14 @@
       "onboard_time": 1721707641,
       "rank": 34,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 505622,
+      "num": 505622,
+      "word": "姐妹俩刚吃一口饭就被广告牌砸中",
+      "onboard_time": 1721736259,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 472529,
@@ -931,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 348625,
+      "num": 348625,
+      "word": "Lady Gaga 奥运开幕式",
+      "onboard_time": 1721735780,
+      "rank": 24,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 348234,
       "num": 348234,
       "word": "我国科学家在月壤中发现分子水",
@@ -952,14 +968,6 @@
       "word": "警方调查人大教授涉嫌违法情况",
       "onboard_time": 1721693419,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 338008,
-      "num": 338008,
-      "word": "姐妹俩刚吃一口饭就被广告牌砸中",
-      "onboard_time": 1721736259,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1044,7 +1052,7 @@
     },
     {
       "raw_hot": 301968,
-      "num": 230878,
+      "num": 234698,
       "word": "建议双职工家庭试试错峰带娃",
       "onboard_time": 1721730500,
       "rank": 44,
@@ -1091,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291115,
+      "num": 291115,
+      "word": "韩国瓜农说今年的西瓜白种了",
+      "onboard_time": 1721739499,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290504,
       "num": 516259,
       "word": "夏天脾气暴可能是得了热怒症",
@@ -1107,20 +1123,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 288763,
+      "num": 288763,
+      "word": "哈里斯眼中的特朗普",
+      "onboard_time": 1721739680,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 287306,
-      "num": 234463,
+      "num": 234782,
       "word": "张若昀 三十岁也是相信光的年纪",
       "onboard_time": 1721740160,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 280728,
-      "num": 231272,
-      "word": "Lady Gaga 奥运开幕式",
-      "onboard_time": 1721735780,
-      "rank": 24,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 279986,
@@ -1195,12 +1211,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 264934,
+      "num": 264934,
+      "word": "大哥远年内开播近200场",
+      "onboard_time": 1721739499,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 263277,
       "num": 263277,
       "word": "上班吃同事真的很不礼貌",
       "onboard_time": 1721724080,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 262385,
+      "num": 234761,
+      "word": "文俊辉女团舞",
+      "onboard_time": 1721735540,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 259284,
@@ -1315,14 +1347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 240275,
-      "num": 240275,
-      "word": "哈里斯眼中的特朗普",
-      "onboard_time": 1721739680,
-      "rank": 19,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 240077,
       "num": 240077,
       "word": "怪不得张艺兴lay呢",
@@ -1337,6 +1361,14 @@
       "onboard_time": 1721694560,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 238269,
+      "num": 234674,
+      "word": "谭维维说歌手的赛制好搞笑",
+      "onboard_time": 1721740340,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 237534,
@@ -1419,22 +1451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 227678,
-      "num": 227678,
-      "word": "谭维维说歌手的赛制好搞笑",
-      "onboard_time": 1721740340,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 227406,
-      "num": 220160,
-      "word": "大哥远年内开播近200场",
-      "onboard_time": 1721739499,
-      "rank": 30,
-      "category": "网红"
-    },
-    {
       "raw_hot": 226987,
       "num": 207517,
       "word": "克拉岛",
@@ -1481,14 +1497,6 @@
       "onboard_time": 1721711301,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 222170,
-      "num": 222170,
-      "word": "韩国瓜农说今年的西瓜白种了",
-      "onboard_time": 1721739499,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 221504,
@@ -1747,12 +1755,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200553,
+      "num": 200553,
+      "word": "TES战胜NIP",
+      "onboard_time": 1721740880,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 200192,
       "num": 200192,
       "word": "密逃6分贝预警",
       "onboard_time": 1721715681,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199744,
+      "num": 199744,
+      "word": "SM被曝签署巨额协议操控舆论",
+      "onboard_time": 1721736919,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 199670,
@@ -1875,6 +1899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191943,
+      "num": 191943,
+      "word": "李宏毅给孙珍妮把脉",
+      "onboard_time": 1721739080,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191453,
       "num": 636251,
       "word": "郑州暴雨",
@@ -1955,14 +1987,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 186223,
-      "num": 186223,
-      "word": "SM被曝签署巨额协议操控舆论",
-      "onboard_time": 1721736919,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 185940,
       "num": 670045,
       "word": "帕金森病专家曾八次访问白宫",
@@ -2003,6 +2027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184026,
+      "num": 184026,
+      "word": "杨幂为洪涝地区捐赠物资",
+      "onboard_time": 1721739258,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182941,
       "num": 182941,
       "word": "下班后比刷手机更有意义的事",
@@ -2033,14 +2065,6 @@
       "onboard_time": 1721737400,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 181450,
-      "num": 181450,
-      "word": "李宏毅给孙珍妮把脉",
-      "onboard_time": 1721739080,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 180133,
@@ -2155,14 +2179,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 170684,
-      "num": 170684,
-      "word": "杨幂为洪涝地区捐赠物资",
-      "onboard_time": 1721739258,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 169872,
       "num": 169872,
       "word": "娜然在内娱闯出妩魅系赛道",
@@ -2195,6 +2211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167025,
+      "num": 167025,
+      "word": "何与直播烤羊腿",
+      "onboard_time": 1721740580,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166755,
       "num": 166755,
       "word": "第六周最佳选手今屿",
@@ -2217,14 +2241,6 @@
       "onboard_time": 1721704160,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 163021,
-      "num": 163021,
-      "word": "何与直播烤羊腿",
-      "onboard_time": 1721740580,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 160243,
@@ -2289,14 +2305,6 @@
       "onboard_time": 1721732119,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 154101,
-      "num": 154101,
-      "word": "TES战胜NIP",
-      "onboard_time": 1721740880,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 153837,
@@ -2524,7 +2532,7 @@
     },
     {
       "raw_hot": 126280,
-      "num": 126280,
+      "num": 152173,
       "word": "云南洱海水面宛如明镜",
       "onboard_time": 1721738718,
       "rank": 49,
@@ -2553,14 +2561,6 @@
       "onboard_time": 1721644460,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 117889,
-      "num": 117889,
-      "word": "文俊辉女团舞",
-      "onboard_time": 1721735540,
-      "rank": 49,
-      "category": "音乐"
     },
     {
       "raw_hot": 115607,
@@ -2691,6 +2691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69471,
+      "num": 785102,
+      "word": "盘点中国奥运史上9个第一次",
+      "onboard_time": 1721738780,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68784,
       "num": 471463,
       "word": "性骚扰的本质是权力不平等",
@@ -2721,14 +2729,6 @@
       "onboard_time": 1721698818,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 63426,
-      "num": 785102,
-      "word": "盘点中国奥运史上9个第一次",
-      "onboard_time": 1721738780,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 62529,
@@ -2905,6 +2905,14 @@
       "onboard_time": 1721673251,
       "rank": 48,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 32151,
+      "num": 234714,
+      "word": "关不掉的弹窗广告背后可能隐藏犯罪",
+      "onboard_time": 1721741540,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31899,

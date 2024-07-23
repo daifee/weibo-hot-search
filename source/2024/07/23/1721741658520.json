@@ -1,0 +1,410 @@
+{
+  "runTime": 1721741658520,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 933981,
+        "num": 1149437,
+        "word": "大哥远账号被禁言",
+        "onboard_time": 1721732060,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 648578,
+        "num": 648578,
+        "word": "中国凉席火到法国",
+        "onboard_time": 1721734819,
+        "rank": 1,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 69471,
+        "num": 609242,
+        "word": "盘点中国奥运史上9个第一次",
+        "onboard_time": 1721738780,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 588453,
+        "num": 588453,
+        "word": "韩总 夫人终于嫁给你了",
+        "onboard_time": 1721734220,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 586769,
+        "num": 586769,
+        "word": "当我连续开15个小时的空调",
+        "onboard_time": 1721734041,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 558320,
+        "num": 558320,
+        "word": "广告牌坠落致3死7伤责任人被控制",
+        "onboard_time": 1721726661,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527687,
+        "num": 527687,
+        "word": "美国国会大厦降半旗真相",
+        "onboard_time": 1721727021,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 505622,
+        "num": 505622,
+        "word": "姐妹俩刚吃一口饭就被广告牌砸中",
+        "onboard_time": 1721736259,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402519,
+        "num": 402519,
+        "word": "宝宝蛇 你自由了",
+        "onboard_time": 1721724859,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 369684,
+        "num": 369684,
+        "word": "官方通报女子飙英文骂哭乘务员",
+        "onboard_time": 1721731459,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1606596,
+        "num": 365015,
+        "word": "金靖文案 小孕妇",
+        "onboard_time": 1721735360,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1092019,
+        "num": 360126,
+        "word": "空空日记掉了200万粉丝",
+        "onboard_time": 1721736259,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 684655,
+        "num": 354788,
+        "word": "韩国偶遇胡军儿子",
+        "onboard_time": 1721738660,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386129,
+        "num": 349954,
+        "word": "新娘本人回应扔手捧花砸婚闹朋友",
+        "onboard_time": 1721733501,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348625,
+        "num": 348625,
+        "word": "Lady Gaga 奥运开幕式",
+        "onboard_time": 1721735780,
+        "rank": 14,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 291115,
+        "num": 291115,
+        "word": "韩国瓜农说今年的西瓜白种了",
+        "onboard_time": 1721739499,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288763,
+        "num": 288763,
+        "word": "哈里斯眼中的特朗普",
+        "onboard_time": 1721739680,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 264934,
+        "num": 264934,
+        "word": "大哥远年内开播近200场",
+        "onboard_time": 1721739499,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 234876,
+        "num": 234876,
+        "word": "在巴黎被中国的厕所侠救了",
+        "onboard_time": 1721725940,
+        "rank": 18,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 33926,
+        "num": 234875,
+        "word": "沉浸式打卡巴黎奥运现场",
+        "onboard_time": 1721735780,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 529780,
+        "num": 234840,
+        "word": "拜登真实健康状况竟这么糟",
+        "onboard_time": 1721717181,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 509751,
+        "num": 234820,
+        "word": "霍思燕 纯胖",
+        "onboard_time": 1721713401,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473288,
+        "num": 234795,
+        "word": "拜登听取线上简报",
+        "onboard_time": 1721728100,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 269622,
+        "num": 234782,
+        "word": "张若昀 三十岁也是相信光的年纪",
+        "onboard_time": 1721740160,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 262385,
+        "num": 234761,
+        "word": "文俊辉女团舞",
+        "onboard_time": 1721735540,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 259457,
+        "num": 234735,
+        "word": "拜登表示将尽力履职",
+        "onboard_time": 1721720720,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 32151,
+        "num": 234714,
+        "word": "关不掉的弹窗广告背后可能隐藏犯罪",
+        "onboard_time": 1721741540,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247199,
+        "num": 234698,
+        "word": "建议双职工家庭试试错峰带娃",
+        "onboard_time": 1721730500,
+        "rank": 27,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 238269,
+        "num": 234674,
+        "word": "谭维维说歌手的赛制好搞笑",
+        "onboard_time": 1721740340,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234653,
+        "num": 234653,
+        "word": "单依纯说自己长得不高兴",
+        "onboard_time": 1721733800,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219419,
+        "num": 219419,
+        "word": "巨蟹座藏在心里的小秘密",
+        "onboard_time": 1721740700,
+        "rank": 30,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 216804,
+        "num": 216804,
+        "word": "机场辱骂叶童男子道歉",
+        "onboard_time": 1721739860,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216592,
+        "num": 216592,
+        "word": "名校一日游贵至1500元",
+        "onboard_time": 1721730021,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215580,
+        "num": 215580,
+        "word": "元彬 Giselle",
+        "onboard_time": 1721733800,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212455,
+        "num": 212455,
+        "word": "莲花楼豆瓣超70万人打分",
+        "onboard_time": 1721736319,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200553,
+        "num": 200553,
+        "word": "TES战胜NIP",
+        "onboard_time": 1721740880,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 199744,
+        "num": 199744,
+        "word": "SM被曝签署巨额协议操控舆论",
+        "onboard_time": 1721736919,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193558,
+        "num": 193558,
+        "word": "lalali",
+        "onboard_time": 1721736919,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192908,
+        "num": 192908,
+        "word": "秦志远",
+        "onboard_time": 1721729119,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 191943,
+        "num": 191943,
+        "word": "李宏毅给孙珍妮把脉",
+        "onboard_time": 1721739080,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184026,
+        "num": 184026,
+        "word": "杨幂为洪涝地区捐赠物资",
+        "onboard_time": 1721739258,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177314,
+        "num": 177314,
+        "word": "唐朝诡事录把文物带火了",
+        "onboard_time": 1721736560,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175487,
+        "num": 175487,
+        "word": "克拉岛",
+        "onboard_time": 1721736381,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173725,
+        "num": 173725,
+        "word": "菲律宾同意回到此前君子协定",
+        "onboard_time": 1721737400,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 169552,
+        "num": 169552,
+        "word": "小S大女儿晒聚会照",
+        "onboard_time": 1721737459,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167025,
+        "num": 167025,
+        "word": "何与直播烤羊腿",
+        "onboard_time": 1721740580,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154763,
+        "num": 154763,
+        "word": "北京宣言内容",
+        "onboard_time": 1721721260,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 154148,
+        "num": 154148,
+        "word": "台风",
+        "onboard_time": 1721721381,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136206,
+        "num": 152616,
+        "word": "白宇拍的国乒",
+        "onboard_time": 1721735360,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92757,
+        "num": 152173,
+        "word": "云南洱海水面宛如明镜",
+        "onboard_time": 1721738718,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届三中全会决定思维导图#"
+    }
+  }
+}

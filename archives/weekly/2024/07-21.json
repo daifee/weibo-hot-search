@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721740942636,
+  "endTime": 1721741658520,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -1036,7 +1036,7 @@
     },
     {
       "raw_hot": 827069,
-      "num": 542988,
+      "num": 558320,
       "word": "广告牌坠落致3死7伤责任人被控制",
       "onboard_time": 1721726661,
       "rank": 25,
@@ -1347,6 +1347,14 @@
       "category": "财经,网红"
     },
     {
+      "raw_hot": 684655,
+      "num": 365450,
+      "word": "韩国偶遇胡军儿子",
+      "onboard_time": 1721738660,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 684592,
       "num": 684592,
       "word": "预制菜已经发展到这个地步了",
@@ -1504,14 +1512,6 @@
       "word": "吃饭偶遇张婧仪做服务员",
       "onboard_time": 1721573844,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 626679,
-      "num": 365450,
-      "word": "韩国偶遇胡军儿子",
-      "onboard_time": 1721738660,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -1905,6 +1905,14 @@
       "onboard_time": 1721486121,
       "rank": 11,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 505622,
+      "num": 505622,
+      "word": "姐妹俩刚吃一口饭就被广告牌砸中",
+      "onboard_time": 1721736259,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 501476,
@@ -2779,6 +2787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 348625,
+      "num": 348625,
+      "word": "Lady Gaga 奥运开幕式",
+      "onboard_time": 1721735780,
+      "rank": 24,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 348234,
       "num": 348234,
       "word": "我国科学家在月壤中发现分子水",
@@ -2817,14 +2833,6 @@
       "onboard_time": 1721562800,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 338008,
-      "num": 338008,
-      "word": "姐妹俩刚吃一口饭就被广告牌砸中",
-      "onboard_time": 1721736259,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 337472,
@@ -3124,7 +3132,7 @@
     },
     {
       "raw_hot": 301968,
-      "num": 230878,
+      "num": 234698,
       "word": "建议双职工家庭试试错峰带娃",
       "onboard_time": 1721730500,
       "rank": 44,
@@ -3227,6 +3235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291115,
+      "num": 291115,
+      "word": "韩国瓜农说今年的西瓜白种了",
+      "onboard_time": 1721739499,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291017,
       "num": 291017,
       "word": "光与夜之恋",
@@ -3259,6 +3275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 288763,
+      "num": 288763,
+      "word": "哈里斯眼中的特朗普",
+      "onboard_time": 1721739680,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 288654,
       "num": 288654,
       "word": "别剪短发你会后悔的",
@@ -3276,7 +3300,7 @@
     },
     {
       "raw_hot": 287306,
-      "num": 234463,
+      "num": 234782,
       "word": "张若昀 三十岁也是相信光的年纪",
       "onboard_time": 1721740160,
       "rank": 23,
@@ -3313,14 +3337,6 @@
       "onboard_time": 1721646142,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 280728,
-      "num": 231272,
-      "word": "Lady Gaga 奥运开幕式",
-      "onboard_time": 1721735780,
-      "rank": 24,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 279986,
@@ -3491,6 +3507,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 264934,
+      "num": 264934,
+      "word": "大哥远年内开播近200场",
+      "onboard_time": 1721739499,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 263909,
       "num": 263909,
       "word": "房贷利率有望进入2字头时代",
@@ -3521,6 +3545,14 @@
       "onboard_time": 1721724080,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 262385,
+      "num": 234761,
+      "word": "文俊辉女团舞",
+      "onboard_time": 1721735540,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 261750,
@@ -3851,14 +3883,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 240275,
-      "num": 240275,
-      "word": "哈里斯眼中的特朗普",
-      "onboard_time": 1721739680,
-      "rank": 19,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 240077,
       "num": 240077,
       "word": "怪不得张艺兴lay呢",
@@ -3888,6 +3912,14 @@
       "word": "娜扎张云龙CP",
       "onboard_time": 1721635701,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 238269,
+      "num": 234674,
+      "word": "谭维维说歌手的赛制好搞笑",
+      "onboard_time": 1721740340,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -4043,22 +4075,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 227678,
-      "num": 227678,
-      "word": "谭维维说歌手的赛制好搞笑",
-      "onboard_time": 1721740340,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 227406,
-      "num": 220160,
-      "word": "大哥远年内开播近200场",
-      "onboard_time": 1721739499,
-      "rank": 30,
-      "category": "网红"
-    },
-    {
       "raw_hot": 226987,
       "num": 207517,
       "word": "克拉岛",
@@ -4185,14 +4201,6 @@
       "onboard_time": 1721538917,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 222170,
-      "num": 222170,
-      "word": "韩国瓜农说今年的西瓜白种了",
-      "onboard_time": 1721739499,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 221948,
@@ -4899,6 +4907,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 200553,
+      "num": 200553,
+      "word": "TES战胜NIP",
+      "onboard_time": 1721740880,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 200411,
       "num": 200411,
       "word": "NMIXX滑倒",
@@ -4921,6 +4937,14 @@
       "onboard_time": 1721545757,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 199744,
+      "num": 199744,
+      "word": "SM被曝签署巨额协议操控舆论",
+      "onboard_time": 1721736919,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 199691,
@@ -5379,6 +5403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191943,
+      "num": 191943,
+      "word": "李宏毅给孙珍妮把脉",
+      "onboard_time": 1721739080,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191790,
       "num": 191790,
       "word": "华晨宇说不要再说我写的歌很难了",
@@ -5619,14 +5651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 186223,
-      "num": 186223,
-      "word": "SM被曝签署巨额协议操控舆论",
-      "onboard_time": 1721736919,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 186213,
       "num": 186213,
       "word": "张艺兴广州",
@@ -5731,6 +5755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184026,
+      "num": 184026,
+      "word": "杨幂为洪涝地区捐赠物资",
+      "onboard_time": 1721739258,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184006,
       "num": 184006,
       "word": "为什么有的虫子身上有编号",
@@ -5801,14 +5833,6 @@
       "onboard_time": 1721737400,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 181450,
-      "num": 181450,
-      "word": "李宏毅给孙珍妮把脉",
-      "onboard_time": 1721739080,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 180748,
@@ -6211,14 +6235,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 170684,
-      "num": 170684,
-      "word": "杨幂为洪涝地区捐赠物资",
-      "onboard_time": 1721739258,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 170428,
       "num": 170428,
       "word": "孟子义是舍弃不了一点点颜值",
@@ -6331,6 +6347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167025,
+      "num": 167025,
+      "word": "何与直播烤羊腿",
+      "onboard_time": 1721740580,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166755,
       "num": 166755,
       "word": "第六周最佳选手今屿",
@@ -6433,14 +6457,6 @@
       "onboard_time": 1721704160,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 163021,
-      "num": 163021,
-      "word": "何与直播烤羊腿",
-      "onboard_time": 1721740580,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 162795,
@@ -6665,14 +6681,6 @@
       "onboard_time": 1721537538,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154101,
-      "num": 154101,
-      "word": "TES战胜NIP",
-      "onboard_time": 1721740880,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 154073,
@@ -7428,7 +7436,7 @@
     },
     {
       "raw_hot": 126280,
-      "num": 126280,
+      "num": 152173,
       "word": "云南洱海水面宛如明镜",
       "onboard_time": 1721738718,
       "rank": 49,
@@ -7561,14 +7569,6 @@
       "onboard_time": 1721520136,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117889,
-      "num": 117889,
-      "word": "文俊辉女团舞",
-      "onboard_time": 1721735540,
-      "rank": 49,
-      "category": "音乐"
     },
     {
       "raw_hot": 117819,
@@ -8139,6 +8139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69471,
+      "num": 785102,
+      "word": "盘点中国奥运史上9个第一次",
+      "onboard_time": 1721738780,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68982,
       "num": 68982,
       "word": "中国奥数竞赛五连冠被美国队终结",
@@ -8225,14 +8233,6 @@
       "onboard_time": 1721613499,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 63426,
-      "num": 785102,
-      "word": "盘点中国奥运史上9个第一次",
-      "onboard_time": 1721738780,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 63226,
@@ -8721,6 +8721,14 @@
       "onboard_time": 1721673251,
       "rank": 48,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 32151,
+      "num": 234714,
+      "word": "关不掉的弹窗广告背后可能隐藏犯罪",
+      "onboard_time": 1721741540,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31899,
