@@ -1,0 +1,410 @@
+{
+  "runTime": 1721734494795,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1723373,
+        "num": 1723373,
+        "word": "大哥远账号被禁言",
+        "onboard_time": 1721732060,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 964396,
+        "num": 964396,
+        "word": "月薪2万过不好一个高质量暑假",
+        "onboard_time": 1721730021,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29356,
+        "num": 859244,
+        "word": "高质量发展中国行",
+        "onboard_time": 1721720000,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 817602,
+        "num": 817602,
+        "word": "美国国会大厦降半旗真相",
+        "onboard_time": 1721727021,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 735058,
+        "num": 735058,
+        "word": "秦志远",
+        "onboard_time": 1721729119,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 544756,
+        "num": 680916,
+        "word": "拜登听取线上简报",
+        "onboard_time": 1721728100,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 664243,
+        "num": 664243,
+        "word": "芒果 发点桃难财",
+        "onboard_time": 1721729001,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 550475,
+        "num": 550475,
+        "word": "宝宝蛇 你自由了",
+        "onboard_time": 1721724859,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 522958,
+        "num": 522958,
+        "word": "拜登表示将尽力履职",
+        "onboard_time": 1721720720,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 448043,
+        "num": 448043,
+        "word": "在巴黎被中国的厕所侠救了",
+        "onboard_time": 1721725940,
+        "rank": 9,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 774426,
+        "num": 433469,
+        "word": "官方通报女子飙英文骂哭乘务员",
+        "onboard_time": 1721731459,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466270,
+        "num": 402962,
+        "word": "广告牌坠落致3死7伤责任人被控制",
+        "onboard_time": 1721726661,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348234,
+        "num": 348234,
+        "word": "我国科学家在月壤中发现分子水",
+        "onboard_time": 1721729541,
+        "rank": 12,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 328671,
+        "num": 328671,
+        "word": "胡锡进今天大跌14311元",
+        "onboard_time": 1721729239,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 296410,
+        "num": 296410,
+        "word": "歌手总决赛pk分组",
+        "onboard_time": 1721731399,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281812,
+        "num": 281812,
+        "word": "元彬 Giselle",
+        "onboard_time": 1721733800,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248468,
+        "num": 248468,
+        "word": "北京宣言内容",
+        "onboard_time": 1721721260,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 242376,
+        "num": 242376,
+        "word": "阴阳师手游",
+        "onboard_time": 1721732540,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 238580,
+        "num": 238580,
+        "word": "原来眉骨还能防晒",
+        "onboard_time": 1721730440,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 233998,
+        "num": 233998,
+        "word": "女子怀孕控糖家人给切超小块西瓜",
+        "onboard_time": 1721715739,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697222,
+        "num": 233639,
+        "word": "霍思燕 纯胖",
+        "onboard_time": 1721713401,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52011,
+        "num": 233289,
+        "word": "11岁小孩姐复刻雪山蛋糕目标厨师职高",
+        "onboard_time": 1721732060,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556332,
+        "num": 233126,
+        "word": "拜登真实健康状况竟这么糟",
+        "onboard_time": 1721717181,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 387778,
+        "num": 232753,
+        "word": "女子买碎碎冰金戒指3个月后心碎碎",
+        "onboard_time": 1721731160,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75628,
+        "num": 232283,
+        "word": "直播间里千元高尔夫球杆卖300",
+        "onboard_time": 1721732420,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278528,
+        "num": 231816,
+        "word": "孙颖莎差点削到王楚钦",
+        "onboard_time": 1721730620,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265552,
+        "num": 231307,
+        "word": "金靖晒孕肚自拍",
+        "onboard_time": 1721714061,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262034,
+        "num": 230878,
+        "word": "建议双职工家庭试试错峰带娃",
+        "onboard_time": 1721730500,
+        "rank": 27,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 236181,
+        "num": 230756,
+        "word": "女硕士让博士男友检查论文瞬间破防",
+        "onboard_time": 1721717181,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230436,
+        "num": 230436,
+        "word": "日本70岁老人勒死102岁母亲",
+        "onboard_time": 1721718080,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207140,
+        "num": 207140,
+        "word": "单依纯说自己长得不高兴",
+        "onboard_time": 1721733800,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202334,
+        "num": 202334,
+        "word": "檀健次 相柳能听见",
+        "onboard_time": 1721733501,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199729,
+        "num": 199729,
+        "word": "台风",
+        "onboard_time": 1721721381,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194675,
+        "num": 194675,
+        "word": "韩总 夫人终于嫁给你了",
+        "onboard_time": 1721734220,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193098,
+        "num": 193098,
+        "word": "薛之谦李健像风一样live",
+        "onboard_time": 1721733681,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 61222,
+        "num": 193006,
+        "word": "老外赞中国人旅行真的太会玩了",
+        "onboard_time": 1721731100,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192973,
+        "num": 192973,
+        "word": "密室大逃脱第六季玩这么大吗",
+        "onboard_time": 1721733559,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178194,
+        "num": 178194,
+        "word": "拜登称将参加哈里斯的竞选活动",
+        "onboard_time": 1721725340,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 173999,
+        "num": 173999,
+        "word": "克拉岛直播",
+        "onboard_time": 1721729419,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173328,
+        "num": 173328,
+        "word": "新娘本人回应扔手捧花砸婚闹朋友",
+        "onboard_time": 1721733501,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172294,
+        "num": 172294,
+        "word": "卢昱晓和爸爸一个捧哏一个逗哏",
+        "onboard_time": 1721733139,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160132,
+        "num": 160132,
+        "word": "时代少年团音体不分家vlog",
+        "onboard_time": 1721731999,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156627,
+        "num": 156627,
+        "word": "朱丹拿馒头换尚雯婕英语课",
+        "onboard_time": 1721732300,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154722,
+        "num": 154722,
+        "word": "WBG对战BLG",
+        "onboard_time": 1721729661,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151444,
+        "num": 151444,
+        "word": "纺愿缘结神臻藏皮肤",
+        "onboard_time": 1721734041,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151092,
+        "num": 151092,
+        "word": "上海助浴团队抬着浴缸上门洗澡",
+        "onboard_time": 1721732840,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150302,
+        "num": 150302,
+        "word": "小原乃梨子去世",
+        "onboard_time": 1721718440,
+        "rank": 46,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 149447,
+        "num": 149447,
+        "word": "昆明一广告牌坠落已致3死7伤",
+        "onboard_time": 1721720541,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144442,
+        "num": 144442,
+        "word": "蒋敦豪发长文回应",
+        "onboard_time": 1721654242,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140172,
+        "num": 140172,
+        "word": "金在中 咒文",
+        "onboard_time": 1721727261,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#一份标注时代的改革新蓝图#"
+    }
+  }
+}

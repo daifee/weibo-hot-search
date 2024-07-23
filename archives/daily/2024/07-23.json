@@ -1,6 +1,6 @@
 {
   "startTime": 1721665529273,
-  "endTime": 1721733499720,
+  "endTime": 1721734494795,
   "band_list": [
     {
       "raw_hot": 4456876,
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 964396,
+      "num": 964396,
+      "word": "月薪2万过不好一个高质量暑假",
+      "onboard_time": 1721730021,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 959855,
       "num": 959855,
       "word": "太二酸菜鱼客单价跌至7年前",
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 831406,
-      "num": 631094,
+      "num": 680916,
       "word": "拜登听取线上简报",
       "onboard_time": 1721728100,
       "rank": 10,
@@ -385,6 +393,14 @@
       "onboard_time": 1721716159,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 774426,
+      "num": 433469,
+      "word": "官方通报女子飙英文骂哭乘务员",
+      "onboard_time": 1721731459,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 752775,
@@ -464,14 +480,6 @@
       "word": "四川人社回应网传90后得65岁退休",
       "onboard_time": 1721693780,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 650842,
-      "num": 650842,
-      "word": "月薪2万过不好一个高质量暑假",
-      "onboard_time": 1721730021,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -763,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 387778,
+      "num": 232753,
+      "word": "女子买碎碎冰金戒指3个月后心碎碎",
+      "onboard_time": 1721731160,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 384062,
       "num": 325483,
       "word": "密室大逃脱",
@@ -803,14 +819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 361102,
-      "num": 228542,
-      "word": "女子买碎碎冰金戒指3个月后心碎碎",
-      "onboard_time": 1721731160,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 359473,
       "num": 296664,
       "word": "相柳战死",
@@ -824,14 +832,6 @@
       "word": "女子折叠凳掉福宝场地被终身禁入",
       "onboard_time": 1721652321,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 355827,
-      "num": 355827,
-      "word": "官方通报女子飙英文骂哭乘务员",
-      "onboard_time": 1721731459,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -849,6 +849,14 @@
       "onboard_time": 1721703979,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348234,
+      "num": 348234,
+      "word": "我国科学家在月壤中发现分子水",
+      "onboard_time": 1721729541,
+      "rank": 37,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 343224,
@@ -923,14 +931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 316389,
-      "num": 316389,
-      "word": "我国科学家在月壤中发现分子水",
-      "onboard_time": 1721729541,
-      "rank": 37,
-      "category": "国内时政,科学科普"
-    },
-    {
       "raw_hot": 314596,
       "num": 314596,
       "word": "拜登退选至少有两重原因",
@@ -956,7 +956,7 @@
     },
     {
       "raw_hot": 301968,
-      "num": 228414,
+      "num": 230878,
       "word": "建议双职工家庭试试错峰带娃",
       "onboard_time": 1721730500,
       "rank": 44,
@@ -1019,12 +1019,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 281812,
+      "num": 281812,
+      "word": "元彬 Giselle",
+      "onboard_time": 1721733800,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279986,
       "num": 279986,
       "word": "巴勒斯坦各派别在北京举行和解对话",
       "onboard_time": 1721706921,
       "rank": 31,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 278528,
+      "num": 231816,
+      "word": "孙颖莎差点削到王楚钦",
+      "onboard_time": 1721730620,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 273336,
@@ -1099,14 +1115,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 252687,
-      "num": 227275,
-      "word": "孙颖莎差点削到王楚钦",
-      "onboard_time": 1721730620,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 251375,
       "num": 533794,
       "word": "约50%中老年忍痛拖延就医",
@@ -1137,6 +1145,14 @@
       "onboard_time": 1721722460,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 242376,
+      "num": 242376,
+      "word": "阴阳师手游",
+      "onboard_time": 1721732540,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 241926,
@@ -1483,6 +1499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 207140,
+      "num": 207140,
+      "word": "单依纯说自己长得不高兴",
+      "onboard_time": 1721733800,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204743,
       "num": 204743,
       "word": "邓佳鑫成年",
@@ -1513,6 +1537,14 @@
       "onboard_time": 1721724260,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202334,
+      "num": 202334,
+      "word": "檀健次 相柳能听见",
+      "onboard_time": 1721733501,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 201682,
@@ -1627,12 +1659,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194675,
+      "num": 194675,
+      "word": "韩总 夫人终于嫁给你了",
+      "onboard_time": 1721734220,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193851,
       "num": 193851,
       "word": "李莲花红绸飞到了今日",
       "onboard_time": 1721705540,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193098,
+      "num": 193098,
+      "word": "薛之谦李健像风一样live",
+      "onboard_time": 1721733681,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 192973,
+      "num": 192973,
+      "word": "密室大逃脱第六季玩这么大吗",
+      "onboard_time": 1721733559,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 191453,
@@ -1851,12 +1907,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 173328,
+      "num": 173328,
+      "word": "新娘本人回应扔手捧花砸婚闹朋友",
+      "onboard_time": 1721733501,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172829,
       "num": 172829,
       "word": "WBG对战BLG",
       "onboard_time": 1721729661,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 172294,
+      "num": 172294,
+      "word": "卢昱晓和爸爸一个捧哏一个逗哏",
+      "onboard_time": 1721733139,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 171388,
@@ -2003,6 +2075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151444,
+      "num": 151444,
+      "word": "纺愿缘结神臻藏皮肤",
+      "onboard_time": 1721734041,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 151050,
       "num": 151050,
       "word": "导师性骚扰学生不只是师德问题",
@@ -2105,14 +2185,6 @@
       "onboard_time": 1721693360,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 138313,
-      "num": 138313,
-      "word": "卢昱晓和爸爸一个捧哏一个逗哏",
-      "onboard_time": 1721733139,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 137349,
@@ -2291,6 +2363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75628,
+      "num": 543536,
+      "word": "直播间里千元高尔夫球杆卖300",
+      "onboard_time": 1721732420,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73057,
       "num": 73057,
       "word": "胡先煦曾参加过封神试镜",
@@ -2355,6 +2435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61222,
+      "num": 193006,
+      "word": "老外赞中国人旅行真的太会玩了",
+      "onboard_time": 1721731100,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60689,
       "num": 60689,
       "word": "新发房贷利率处历史最低水平",
@@ -2411,11 +2499,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 52207,
-      "num": 182149,
-      "word": "老外赞中国人旅行真的太会玩了",
-      "onboard_time": 1721731100,
-      "rank": 35,
+      "raw_hot": 52011,
+      "num": 233289,
+      "word": "11岁小孩姐复刻雪山蛋糕目标厨师职高",
+      "onboard_time": 1721732060,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -2465,14 +2553,6 @@
       "onboard_time": 1721667377,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 41796,
-      "num": 543536,
-      "word": "直播间里千元高尔夫球杆卖300",
-      "onboard_time": 1721732420,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39641,
