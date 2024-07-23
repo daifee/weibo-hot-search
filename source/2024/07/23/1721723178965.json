@@ -1,0 +1,410 @@
+{
+  "runTime": 1721723178965,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2216734,
+        "num": 2216734,
+        "word": "拜登",
+        "onboard_time": 1721720720,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 2034220,
+        "num": 2034220,
+        "word": "拜登真实健康状况竟这么糟",
+        "onboard_time": 1721717181,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 11951,
+        "num": 1472176,
+        "word": "我们的家园幸福美丽西藏",
+        "onboard_time": 1721634080,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1322781,
+        "num": 1322781,
+        "word": "霍思燕 纯胖",
+        "onboard_time": 1721713401,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1064871,
+        "num": 1064871,
+        "word": "北京宣言内容",
+        "onboard_time": 1721721260,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 978702,
+        "num": 978702,
+        "word": "女子怀孕控糖家人给切超小块西瓜",
+        "onboard_time": 1721715739,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 831160,
+        "num": 831160,
+        "word": "小原乃梨子去世",
+        "onboard_time": 1721718440,
+        "rank": 6,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 700243,
+        "num": 700243,
+        "word": "工资卡限额调整惹争议",
+        "onboard_time": 1721719880,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 693949,
+        "num": 693949,
+        "word": "TF三代回应最废的一代",
+        "onboard_time": 1721721140,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131720,
+        "num": 684020,
+        "word": "报复性存钱的年轻人",
+        "onboard_time": 1721714719,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 825863,
+        "num": 683950,
+        "word": "人大被举报教授被曝早年曾有类似前科",
+        "onboard_time": 1721717060,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 680096,
+        "num": 680096,
+        "word": "A股大跌",
+        "onboard_time": 1721719280,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 635590,
+        "num": 635590,
+        "word": "金靖晒孕肚自拍",
+        "onboard_time": 1721714061,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 629323,
+        "num": 629323,
+        "word": "昆明一广告牌坠落已致3死7伤",
+        "onboard_time": 1721720541,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455406,
+        "num": 455406,
+        "word": "赵露思婚纱上班路透",
+        "onboard_time": 1721720180,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 444431,
+        "num": 444431,
+        "word": "蒋敦豪发长文回应",
+        "onboard_time": 1721654242,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 408269,
+        "num": 408269,
+        "word": "台风",
+        "onboard_time": 1721721381,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405897,
+        "num": 405897,
+        "word": "我替你做质子你还我一命",
+        "onboard_time": 1721716641,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 400945,
+        "num": 400945,
+        "word": "男子疑在阿勒泰发现石油",
+        "onboard_time": 1721713279,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364580,
+        "num": 364580,
+        "word": "法塔赫和哈马斯达成北京宣言",
+        "onboard_time": 1721708121,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 765525,
+        "num": 359576,
+        "word": "女硕士让博士男友检查论文瞬间破防",
+        "onboard_time": 1721717181,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450436,
+        "num": 356860,
+        "word": "阚清子晒未P原图",
+        "onboard_time": 1721719819,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347035,
+        "num": 347035,
+        "word": "日本70岁老人勒死102岁母亲",
+        "onboard_time": 1721718080,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327693,
+        "num": 327693,
+        "word": "重庆一镇政府办事大厅仅一人在岗",
+        "onboard_time": 1721719942,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318506,
+        "num": 318506,
+        "word": "北师大回应被举报教授曾被导师力保",
+        "onboard_time": 1721722101,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287562,
+        "num": 287562,
+        "word": "建议大家不要带6岁以下孩子旅行",
+        "onboard_time": 1721700078,
+        "rank": 25,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 264207,
+        "num": 264207,
+        "word": "拜登退选",
+        "onboard_time": 1721585473,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 260261,
+        "num": 260261,
+        "word": "丰巢回应骨灰盒放一年只要55块钱",
+        "onboard_time": 1721704700,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255563,
+        "num": 255563,
+        "word": "夏天脾气暴可能是得了热怒症",
+        "onboard_time": 1721710880,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20569,
+        "num": 232593,
+        "word": "日本小林制药会长与社长辞职",
+        "onboard_time": 1721722881,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231269,
+        "num": 231269,
+        "word": "王鹤棣经纪人开了炸串店",
+        "onboard_time": 1721708421,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217637,
+        "num": 217637,
+        "word": "外交部回应北京宣言",
+        "onboard_time": 1721721620,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 217287,
+        "num": 217287,
+        "word": "Selina晒儿子小腰果近照",
+        "onboard_time": 1721720659,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209898,
+        "num": 209898,
+        "word": "赵丽颖深V侧颜",
+        "onboard_time": 1721722402,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209709,
+        "num": 209709,
+        "word": "檀健次更新微博自动回复",
+        "onboard_time": 1721721920,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201697,
+        "num": 201697,
+        "word": "宋茜粉丝接机",
+        "onboard_time": 1721718321,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200971,
+        "num": 200971,
+        "word": "华为Mate70系列配置曝光",
+        "onboard_time": 1721722460,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 199670,
+        "num": 199670,
+        "word": "TF三代说初生不如老登",
+        "onboard_time": 1721721441,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195874,
+        "num": 195874,
+        "word": "宁夏一网红主播杀害妻子后自杀",
+        "onboard_time": 1721712740,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184211,
+        "num": 184211,
+        "word": "奥利 垫音",
+        "onboard_time": 1721718801,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183029,
+        "num": 183029,
+        "word": "中信证券大跌",
+        "onboard_time": 1721722641,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 180133,
+        "num": 180133,
+        "word": "姜贞羽一眼白月光",
+        "onboard_time": 1721720479,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179928,
+        "num": 179928,
+        "word": "三星堆二号神树虚拟复原后长这样",
+        "onboard_time": 1721717481,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168925,
+        "num": 168925,
+        "word": "美议员称特朗普若输大选就打内战",
+        "onboard_time": 1721720959,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 159723,
+        "num": 159723,
+        "word": "A股",
+        "onboard_time": 1721716159,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 149982,
+        "num": 149982,
+        "word": "唐诡西行狄公弟子变牢铁",
+        "onboard_time": 1721719459,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147967,
+        "num": 147967,
+        "word": "帕金森病专家曾八次访问白宫",
+        "onboard_time": 1721721740,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 147959,
+        "num": 147959,
+        "word": "李荣书 Newjeans出道组",
+        "onboard_time": 1721712200,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140794,
+        "num": 140794,
+        "word": "种地吧",
+        "onboard_time": 1721694922,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125324,
+        "num": 125324,
+        "word": "古巨基帮唱汪苏泷",
+        "onboard_time": 1721719942,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#一份标注时代的改革新蓝图#"
+    }
+  }
+}

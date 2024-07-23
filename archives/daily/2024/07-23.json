@@ -1,6 +1,6 @@
 {
   "startTime": 1721665529273,
-  "endTime": 1721720175282,
+  "endTime": 1721723178965,
   "band_list": [
     {
       "raw_hot": 4456876,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2423315,
-      "num": 937726,
+      "num": 1322781,
       "word": "霍思燕 纯胖",
       "onboard_time": 1721713401,
       "rank": 3,
@@ -31,6 +31,14 @@
       "num": 2320160,
       "word": "拜登真实健康状况竟这么糟",
       "onboard_time": 1721717181,
+      "rank": 0,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 2216734,
+      "num": 2216734,
+      "word": "拜登",
+      "onboard_time": 1721720720,
       "rank": 0,
       "category": "国外时政"
     },
@@ -171,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1064871,
+      "num": 1064871,
+      "word": "北京宣言内容",
+      "onboard_time": 1721721260,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1063438,
       "num": 1063438,
       "word": "儿子给妈妈缠了1把扇子后暑假没了",
@@ -204,7 +220,7 @@
     },
     {
       "raw_hot": 1008520,
-      "num": 290399,
+      "num": 359576,
       "word": "女硕士让博士男友检查论文瞬间破防",
       "onboard_time": 1721717181,
       "rank": 20,
@@ -259,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 825863,
+      "num": 777594,
+      "word": "人大被举报教授被曝早年曾有类似前科",
+      "onboard_time": 1721717060,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 812759,
       "num": 468870,
       "word": "女子称因学历低被判去高危妊娠门诊",
@@ -273,14 +297,6 @@
       "onboard_time": 1721716159,
       "rank": 7,
       "category": "财经"
-    },
-    {
-      "raw_hot": 777594,
-      "num": 777594,
-      "word": "人大被举报教授被曝早年曾有类似前科",
-      "onboard_time": 1721717060,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 743630,
@@ -307,12 +323,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 700243,
+      "num": 700243,
+      "word": "工资卡限额调整惹争议",
+      "onboard_time": 1721719880,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 699236,
       "num": 699236,
       "word": "奶茶30元时代已成过去",
       "onboard_time": 1721640983,
       "rank": 1,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 693949,
+      "num": 693949,
+      "word": "TF三代回应最废的一代",
+      "onboard_time": 1721721140,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 683886,
@@ -323,20 +355,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 680096,
+      "num": 680096,
+      "word": "A股大跌",
+      "onboard_time": 1721719280,
+      "rank": 10,
+      "category": "财经"
+    },
+    {
       "raw_hot": 655982,
       "num": 655982,
       "word": "四川人社回应网传90后得65岁退休",
       "onboard_time": 1721693780,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 655487,
-      "num": 655487,
-      "word": "A股大跌",
-      "onboard_time": 1721719280,
-      "rank": 10,
-      "category": "财经"
     },
     {
       "raw_hot": 650541,
@@ -360,6 +392,14 @@
       "word": "140元药卖患者2980元",
       "onboard_time": 1721700740,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 629323,
+      "num": 629323,
+      "word": "昆明一广告牌坠落已致3死7伤",
+      "onboard_time": 1721720541,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -467,6 +507,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 455406,
+      "num": 455406,
+      "word": "赵露思婚纱上班路透",
+      "onboard_time": 1721720180,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 454561,
       "num": 454561,
       "word": "我家那闺女",
@@ -480,6 +528,14 @@
       "word": "李亚鹏让妻子和他一起唱因为爱情",
       "onboard_time": 1721704340,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 450436,
+      "num": 356860,
+      "word": "阚清子晒未P原图",
+      "onboard_time": 1721719819,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -511,6 +567,14 @@
       "num": 328220,
       "word": "北师大回应王某某早年曾有类似前科",
       "onboard_time": 1721717001,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408269,
+      "num": 408269,
+      "word": "台风",
+      "onboard_time": 1721721381,
       "rank": 16,
       "category": "社会新闻"
     },
@@ -619,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347035,
+      "num": 347035,
+      "word": "日本70岁老人勒死102岁母亲",
+      "onboard_time": 1721718080,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343224,
       "num": 343224,
       "word": "买房不建议买槽钢层",
@@ -643,12 +715,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 334320,
-      "num": 267340,
-      "word": "阚清子晒未P原图",
-      "onboard_time": 1721719819,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 327693,
+      "num": 327693,
+      "word": "重庆一镇政府办事大厅仅一人在岗",
+      "onboard_time": 1721719942,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 324957,
@@ -667,10 +739,10 @@
       "category": "电影"
     },
     {
-      "raw_hot": 314701,
-      "num": 258930,
-      "word": "日本70岁老人勒死102岁母亲",
-      "onboard_time": 1721718080,
+      "raw_hot": 318506,
+      "num": 318506,
+      "word": "北师大回应被举报教授曾被导师力保",
+      "onboard_time": 1721722101,
       "rank": 24,
       "category": "社会新闻"
     },
@@ -963,12 +1035,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 217637,
+      "num": 217637,
+      "word": "外交部回应北京宣言",
+      "onboard_time": 1721721620,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 217429,
       "num": 217429,
       "word": "于正回应白鹿贴脸开大",
       "onboard_time": 1721694622,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217287,
+      "num": 217287,
+      "word": "Selina晒儿子小腰果近照",
+      "onboard_time": 1721720659,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 214124,
@@ -1027,11 +1115,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209898,
+      "num": 209898,
+      "word": "赵丽颖深V侧颜",
+      "onboard_time": 1721722402,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 209765,
       "num": 209765,
       "word": "相柳无坟可哭",
       "onboard_time": 1721719040,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 209709,
+      "num": 209709,
+      "word": "檀健次更新微博自动回复",
+      "onboard_time": 1721721920,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -1067,12 +1171,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200971,
+      "num": 200971,
+      "word": "华为Mate70系列配置曝光",
+      "onboard_time": 1721722460,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 200192,
       "num": 200192,
       "word": "密逃6分贝预警",
       "onboard_time": 1721715681,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199670,
+      "num": 199670,
+      "word": "TF三代说初生不如老登",
+      "onboard_time": 1721721441,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 199315,
@@ -1235,6 +1355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183029,
+      "num": 183029,
+      "word": "中信证券大跌",
+      "onboard_time": 1721722641,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 182941,
       "num": 182941,
       "word": "下班后比刷手机更有意义的事",
@@ -1251,6 +1379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180133,
+      "num": 180133,
+      "word": "姜贞羽一眼白月光",
+      "onboard_time": 1721720479,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180014,
       "num": 180014,
       "word": "夏天这7种病或是省出来的",
@@ -1259,20 +1395,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 179928,
+      "num": 179928,
+      "word": "三星堆二号神树虚拟复原后长这样",
+      "onboard_time": 1721717481,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179859,
       "num": 179859,
       "word": "李昊 十个勤天永远是十个勤天",
       "onboard_time": 1721659289,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 179671,
-      "num": 179671,
-      "word": "三星堆二号神树虚拟复原后长这样",
-      "onboard_time": 1721717481,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 178096,
@@ -1331,6 +1467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 168925,
+      "num": 168925,
+      "word": "美议员称特朗普若输大选就打内战",
+      "onboard_time": 1721720959,
+      "rank": 43,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 167579,
       "num": 167579,
       "word": "吴谨言仿妆宁静",
@@ -1369,14 +1513,6 @@
       "onboard_time": 1721704160,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 161368,
-      "num": 161368,
-      "word": "重庆一镇政府办事大厅仅一人在岗",
-      "onboard_time": 1721719942,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160243,
@@ -1419,14 +1555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 156050,
-      "num": 156050,
-      "word": "工资卡限额调整惹争议",
-      "onboard_time": 1721719880,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152854,
       "num": 152854,
       "word": "相柳是笑着死的",
@@ -1465,6 +1593,14 @@
       "onboard_time": 1721690416,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 147967,
+      "num": 147967,
+      "word": "帕金森病专家曾八次访问白宫",
+      "onboard_time": 1721721740,
+      "rank": 46,
+      "category": "国外时政"
     },
     {
       "raw_hot": 147200,
@@ -1577,6 +1713,14 @@
       "onboard_time": 1721660544,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131720,
+      "num": 684020,
+      "word": "报复性存钱的年轻人",
+      "onboard_time": 1721714719,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128099,
@@ -1939,6 +2083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 20569,
+      "num": 232593,
+      "word": "日本小林制药会长与社长辞职",
+      "onboard_time": 1721722881,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19857,
       "num": 140948,
       "word": "我国已规划建设181条东数西算干线光缆",
@@ -1979,19 +2131,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 11951,
+      "num": 1472176,
+      "word": "我们的家园幸福美丽西藏",
+      "onboard_time": 1721634080,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 8664,
       "num": 95346,
       "word": "你好易初女士",
       "onboard_time": 1721671632,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2290,
-      "num": 940589,
-      "word": "我们的家园幸福美丽西藏",
-      "onboard_time": 1721634080,
-      "rank": 2,
       "category": "社会新闻"
     }
   ],
@@ -2007,6 +2159,9 @@
     },
     {
       "word": "#三中全会决定诞生记#"
+    },
+    {
+      "word": "#一份标注时代的改革新蓝图#"
     }
   ]
 }
