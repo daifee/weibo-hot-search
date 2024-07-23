@@ -1,6 +1,6 @@
 {
   "startTime": 1721752056115,
-  "endTime": 1721773165702,
+  "endTime": 1721774136935,
   "band_list": [
     {
       "raw_hot": 702696,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 210453,
-      "num": 349398,
+      "num": 441532,
       "word": "秦志远",
       "onboard_time": 1721729119,
       "rank": 16,
@@ -323,6 +323,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 95511,
+      "num": 60265,
+      "word": "被广告牌砸中女童母亲发声",
+      "onboard_time": 1721764691,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92491,
       "num": 107654,
       "word": "Lady Gaga 奥运开幕式",
@@ -363,14 +371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 85470,
-      "num": 48902,
-      "word": "被广告牌砸中女童母亲发声",
-      "onboard_time": 1721764691,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 78158,
       "num": 107564,
       "word": "Tyla帮唱香缇莫",
@@ -401,6 +401,14 @@
       "onboard_time": 1721727021,
       "rank": 49,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 68103,
+      "num": 44622,
+      "word": "幼儿园回应拉横幅庆祝学生考上清华",
+      "onboard_time": 1721768531,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67415,
@@ -435,16 +443,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 53252,
-      "num": 37778,
-      "word": "幼儿园回应拉横幅庆祝学生考上清华",
-      "onboard_time": 1721768531,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51647,
-      "num": 40830,
+      "raw_hot": 55131,
+      "num": 55131,
       "word": "投喂流浪猫被判赔24万案将宣判",
       "onboard_time": 1721766311,
       "rank": 46,
@@ -475,68 +475,68 @@
       "category": "体育"
     },
     {
-      "raw_hot": 28015,
-      "num": 37747,
+      "raw_hot": 38759,
+      "num": 38759,
       "word": "校方回应女生高考602分去职业大学",
       "onboard_time": 1721769071,
       "rank": 35,
       "category": "教育"
     },
     {
-      "raw_hot": 27644,
-      "num": 37679,
-      "word": "101岁爷爷给50多岁孙子扇蚊子",
-      "onboard_time": 1721756773,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27340,
-      "num": 37725,
+      "raw_hot": 33201,
+      "num": 38727,
       "word": "找到花花等比例长大的证据了",
       "onboard_time": 1721764270,
       "rank": 39,
       "category": "幽默"
     },
     {
-      "raw_hot": 26271,
-      "num": 37701,
+      "raw_hot": 28878,
+      "num": 38696,
       "word": "刚洗的杯子为何一倒热水就漂油污",
       "onboard_time": 1721764751,
       "rank": 41,
       "category": "科学科普"
     },
     {
-      "raw_hot": 26060,
-      "num": 37688,
+      "raw_hot": 27644,
+      "num": 38678,
+      "word": "101岁爷爷给50多岁孙子扇蚊子",
+      "onboard_time": 1721756773,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27137,
+      "num": 38687,
       "word": "国乒运动员分享巴黎备战视频",
       "onboard_time": 1721761331,
       "rank": 49,
       "category": "体育"
     },
     {
-      "raw_hot": 20787,
-      "num": 37668,
-      "word": "家属称广告牌坠落致女儿离世",
-      "onboard_time": 1721767631,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20376,
-      "num": 37662,
+      "raw_hot": 24227,
+      "num": 38665,
       "word": "台风格美对上海影响风大于雨",
       "onboard_time": 1721762352,
       "rank": 48,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18969,
-      "num": 37652,
+      "raw_hot": 22286,
+      "num": 38654,
       "word": "热得发烫的车座对身体有危害吗",
       "onboard_time": 1721772611,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 21647,
+      "num": 38645,
+      "word": "家属称广告牌坠落致女儿离世",
+      "onboard_time": 1721767631,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18835,
@@ -587,7 +587,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 8035,
+      "raw_hot": 9124,
       "num": 159635,
       "word": "高质量发展中国行",
       "onboard_time": 1721720000,
