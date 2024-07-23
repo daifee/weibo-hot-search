@@ -1,0 +1,410 @@
+{
+  "runTime": 1721702248243,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1780418,
+        "num": 1780418,
+        "word": "教师在产假期间被公示解聘",
+        "onboard_time": 1721696658,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1276901,
+        "num": 1276901,
+        "word": "Nike宣传片舔乒乓球拍引热议",
+        "onboard_time": 1721691017,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43072,
+        "num": 1110157,
+        "word": "神十八乘组太空出差能有多充实",
+        "onboard_time": 1721653282,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1025081,
+        "num": 1025081,
+        "word": "纪凌尘 黄景瑜的十分之一",
+        "onboard_time": 1721699059,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 887928,
+        "num": 887928,
+        "word": "蒋敦豪发长文回应",
+        "onboard_time": 1721654242,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 590219,
+        "num": 590219,
+        "word": "全红婵说自己头发油到可以炒菜了",
+        "onboard_time": 1721693902,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 593777,
+        "num": 587807,
+        "word": "种地吧",
+        "onboard_time": 1721694922,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 565760,
+        "num": 565760,
+        "word": "在王源手上看到了物理防晒的重要性",
+        "onboard_time": 1721698100,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 534840,
+        "num": 534840,
+        "word": "特朗普自称为下一任美国总统",
+        "onboard_time": 1721695761,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 102341,
+        "num": 533794,
+        "word": "约50%中老年忍痛拖延就医",
+        "onboard_time": 1721700740,
+        "rank": 9,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 1123981,
+        "num": 519877,
+        "word": "老年男明星 性侵女服务员",
+        "onboard_time": 1721658207,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1017868,
+        "num": 517443,
+        "word": "65岁退休",
+        "onboard_time": 1721692340,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619832,
+        "num": 501657,
+        "word": "美特勤局承认几十年来最重大行动失败",
+        "onboard_time": 1721701038,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 610572,
+        "num": 496265,
+        "word": "俄罗斯至少12名士兵因西瓜被下毒身亡",
+        "onboard_time": 1721695041,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 610300,
+        "num": 491947,
+        "word": "人大通报王某某性骚扰",
+        "onboard_time": 1721647102,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483999,
+        "num": 483999,
+        "word": "种地吧成员支持蒋敦豪",
+        "onboard_time": 1721658264,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 483364,
+        "num": 483364,
+        "word": "拜登退选后哈里斯首次公开露面",
+        "onboard_time": 1721695102,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 380260,
+        "num": 380260,
+        "word": "成毅李莲花李相夷",
+        "onboard_time": 1721690898,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308348,
+        "num": 308348,
+        "word": "杭州女生高考602分去职业技术大学",
+        "onboard_time": 1721690297,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 285773,
+        "num": 285773,
+        "word": "140元药卖患者2980元",
+        "onboard_time": 1721700740,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 712924,
+        "num": 277830,
+        "word": "建议大家不要带6岁以下孩子旅行",
+        "onboard_time": 1721700078,
+        "rank": 20,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 650388,
+        "num": 274961,
+        "word": "儿子给妈妈缠了1把扇子后暑假没了",
+        "onboard_time": 1721690297,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391735,
+        "num": 256506,
+        "word": "大学生9个月减重80斤父母认不出",
+        "onboard_time": 1721697679,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330405,
+        "num": 244936,
+        "word": "甲状腺好的人有6个习惯",
+        "onboard_time": 1721699359,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 244792,
+        "num": 244792,
+        "word": "11岁男孩自写600多行代码造火箭",
+        "onboard_time": 1721695102,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238108,
+        "num": 238108,
+        "word": "李梦 穿的不错下次别穿了",
+        "onboard_time": 1721664800,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 230246,
+        "num": 230246,
+        "word": "长相思 特效",
+        "onboard_time": 1721699300,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220291,
+        "num": 220291,
+        "word": "孙颖莎再回应被叫小魔王",
+        "onboard_time": 1721699600,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213152,
+        "num": 213152,
+        "word": "朴彩英首支OST",
+        "onboard_time": 1721699240,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 211816,
+        "num": 211816,
+        "word": "天津大姨盘头欢迎潘玮柏",
+        "onboard_time": 1721698039,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201803,
+        "num": 201803,
+        "word": "田曦薇财阀千金",
+        "onboard_time": 1721660305,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 193577,
+        "num": 193577,
+        "word": "看到娜然懂什么是刮骨刀了",
+        "onboard_time": 1721700858,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191553,
+        "num": 191553,
+        "word": "中国人每周工作时间越来越长",
+        "onboard_time": 1721697021,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189582,
+        "num": 189582,
+        "word": "国安部披露一起举报间谍案例",
+        "onboard_time": 1721698521,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267670,
+        "num": 189091,
+        "word": "普通家庭没有必要进行苦难教育",
+        "onboard_time": 1721697619,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185061,
+        "num": 185061,
+        "word": "女子称因学历低被判去高危妊娠门诊",
+        "onboard_time": 1721658264,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181449,
+        "num": 181449,
+        "word": "中国游客在大阪遇袭被砍伤",
+        "onboard_time": 1721694501,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163603,
+        "num": 163603,
+        "word": "卢昱晓爸爸不理解但是情绪价值给满",
+        "onboard_time": 1721690477,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160209,
+        "num": 160209,
+        "word": "拜登退选后民主党收到千万美元捐款",
+        "onboard_time": 1721701399,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 152492,
+        "num": 152492,
+        "word": "莲花楼限免",
+        "onboard_time": 1721692159,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146915,
+        "num": 146915,
+        "word": "苗苗说没想到郑恺会这么靠谱",
+        "onboard_time": 1721690477,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146514,
+        "num": 146514,
+        "word": "警方调查人大教授涉嫌违法情况",
+        "onboard_time": 1721693419,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139652,
+        "num": 139652,
+        "word": "空空日记人设",
+        "onboard_time": 1721668515,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 138000,
+        "num": 138000,
+        "word": "于正回应白鹿贴脸开大",
+        "onboard_time": 1721694622,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133569,
+        "num": 133569,
+        "word": "感觉檀健次工作室在哄我们",
+        "onboard_time": 1721689515,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131180,
+        "num": 131180,
+        "word": "七分甜回应捏捏杯一捏就爆",
+        "onboard_time": 1721701759,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129240,
+        "num": 129240,
+        "word": "早期肝癌5年生存率高达80%以上",
+        "onboard_time": 1721690416,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125592,
+        "num": 125592,
+        "word": "唐代版少爷和我",
+        "onboard_time": 1721701998,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125386,
+        "num": 125386,
+        "word": "张晚意演技",
+        "onboard_time": 1721694741,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120773,
+        "num": 120773,
+        "word": "男子找人撞女友和其父亲后装好人照顾",
+        "onboard_time": 1721701879,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一图全解二十届三中全会决定#"
+    }
+  }
+}
