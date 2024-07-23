@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721691333447,
+  "endTime": 1721697833263,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1844266,
+      "num": 1844266,
+      "word": "Nike宣传片舔乒乓球拍引热议",
+      "onboard_time": 1721691017,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1821432,
       "num": 608116,
       "word": "海底捞真的越来越颠了",
@@ -259,12 +267,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1657741,
+      "num": 395695,
+      "word": "被开除解聘的人大教授还有退休金吗",
+      "onboard_time": 1721691377,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1641355,
       "num": 540242,
       "word": "王楚然素颜被审判",
       "onboard_time": 1721624362,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1624204,
+      "num": 594479,
+      "word": "清华教授为人大女博士事件发声",
+      "onboard_time": 1721690416,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1608563,
@@ -419,6 +443,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 1222249,
+      "num": 563984,
+      "word": "65岁退休",
+      "onboard_time": 1721692340,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1198827,
       "num": 1198827,
       "word": "TF三代reaction直播",
@@ -433,6 +465,14 @@
       "onboard_time": 1721538077,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1195463,
+      "num": 1195463,
+      "word": "志愿者说巴黎不热不需要空调",
+      "onboard_time": 1721691857,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1187849,
@@ -488,6 +528,14 @@
       "word": "韩国第一夫人被传唤调查",
       "onboard_time": 1721541439,
       "rank": 4,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 1123509,
+      "num": 554328,
+      "word": "俄罗斯至少12名士兵因西瓜被下毒身亡",
+      "onboard_time": 1721695041,
+      "rank": 14,
       "category": "国外时政"
     },
     {
@@ -987,6 +1035,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 655982,
+      "num": 655982,
+      "word": "四川人社回应网传90后得65岁退休",
+      "onboard_time": 1721693780,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 654944,
       "num": 654944,
       "word": "9年医学生查出桥本甲状腺炎被拒录",
@@ -1001,6 +1057,22 @@
       "onboard_time": 1721603777,
       "rank": 19,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 651876,
+      "num": 651876,
+      "word": "教师在产假期间被公示解聘",
+      "onboard_time": 1721696658,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 649319,
+      "num": 649319,
+      "word": "种地吧",
+      "onboard_time": 1721603897,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 645203,
@@ -1227,6 +1299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 541626,
+      "num": 541626,
+      "word": "成毅李莲花李相夷",
+      "onboard_time": 1721690898,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 541174,
       "num": 541174,
       "word": "唐尚珺投档到华南师范大学",
@@ -1275,14 +1355,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 527717,
-      "num": 527717,
-      "word": "种地吧",
-      "onboard_time": 1721603897,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 525879,
       "num": 552740,
       "word": "男子轨交上猥亵女子被拘13日",
@@ -1305,6 +1377,14 @@
       "onboard_time": 1721527398,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 517431,
+      "num": 390774,
+      "word": "苗苗说没想到郑恺会这么靠谱",
+      "onboard_time": 1721690477,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 516186,
@@ -1465,6 +1545,14 @@
       "onboard_time": 1721614940,
       "rank": 17,
       "category": "网红"
+    },
+    {
+      "raw_hot": 466196,
+      "num": 466196,
+      "word": "拜登退选后哈里斯首次公开露面",
+      "onboard_time": 1721695102,
+      "rank": 18,
+      "category": "国外时政"
     },
     {
       "raw_hot": 465394,
@@ -1811,6 +1899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 397256,
+      "num": 397256,
+      "word": "人大",
+      "onboard_time": 1721648063,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 393218,
       "num": 346237,
       "word": "阳虚还是阴虚看出汗就能知道",
@@ -2043,6 +2139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 342457,
+      "num": 342457,
+      "word": "警方调查人大教授涉嫌违法情况",
+      "onboard_time": 1721693419,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 342240,
       "num": 342240,
       "word": "优衣库高管称中国消费者心态变了",
@@ -2107,14 +2211,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 323484,
-      "num": 237419,
-      "word": "清华教授为人大女博士事件发声",
-      "onboard_time": 1721690416,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 322477,
       "num": 322477,
       "word": "雅安暴雨山洪已致8人遇难",
@@ -2145,14 +2241,6 @@
       "onboard_time": 1721611341,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 318772,
-      "num": 187119,
-      "word": "苗苗说没想到郑恺会这么靠谱",
-      "onboard_time": 1721690477,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 317441,
@@ -2323,6 +2411,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 298500,
+      "num": 298500,
+      "word": "11岁男孩自写600多行代码造火箭",
+      "onboard_time": 1721695102,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298187,
+      "num": 298187,
+      "word": "全红婵说自己头发油到可以炒菜了",
+      "onboard_time": 1721693902,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 296120,
       "num": 296120,
       "word": "宗馥莉",
@@ -2353,6 +2457,14 @@
       "onboard_time": 1721477059,
       "rank": 8,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 291769,
+      "num": 291769,
+      "word": "卢昱晓爸爸不理解但是情绪价值给满",
+      "onboard_time": 1721690477,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 291700,
@@ -2537,14 +2649,6 @@
       "onboard_time": 1721545278,
       "rank": 40,
       "category": "教育"
-    },
-    {
-      "raw_hot": 266027,
-      "num": 266027,
-      "word": "人大",
-      "onboard_time": 1721648063,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 263909,
@@ -2827,6 +2931,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 239199,
+      "num": 239199,
+      "word": "十个勤天演唱会舞台事故",
+      "onboard_time": 1721694560,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 238712,
       "num": 238712,
       "word": "娜扎张云龙CP",
@@ -2835,12 +2947,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236774,
+      "num": 236774,
+      "word": "特朗普自称为下一任美国总统",
+      "onboard_time": 1721695761,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 235750,
       "num": 235750,
       "word": "张凌赫宋威龙同款choker",
       "onboard_time": 1721651603,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 234829,
+      "num": 234829,
+      "word": "莲花楼限免",
+      "onboard_time": 1721692159,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 234548,
@@ -3027,6 +3155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 221123,
+      "num": 221123,
+      "word": "感觉檀健次工作室在哄我们",
+      "onboard_time": 1721689515,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220568,
       "num": 220568,
       "word": "樊振东说对冠军的渴望依旧强烈",
@@ -3089,6 +3225,14 @@
       "onboard_time": 1721625140,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 217429,
+      "num": 217429,
+      "word": "于正回应白鹿贴脸开大",
+      "onboard_time": 1721694622,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 217167,
@@ -3203,14 +3347,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 210584,
-      "num": 210584,
-      "word": "成毅李莲花李相夷",
-      "onboard_time": 1721690898,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 210000,
       "num": 379146,
       "word": "2名护士为救晕倒乘客错过火车",
@@ -3235,6 +3371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 207918,
+      "num": 207918,
+      "word": "中国游客在大阪遇袭被砍伤",
+      "onboard_time": 1721694501,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207720,
       "num": 207720,
       "word": "陕西垮塌桥4公里外发现2辆失联车",
@@ -3249,6 +3393,14 @@
       "onboard_time": 1721618180,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207113,
+      "num": 207113,
+      "word": "中国奥运代表团抵达巴黎",
+      "onboard_time": 1721697379,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 206744,
@@ -3409,6 +3561,14 @@
       "onboard_time": 1721570661,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 201904,
+      "num": 201904,
+      "word": "中国人每周工作时间越来越长",
+      "onboard_time": 1721697021,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201815,
@@ -3947,6 +4107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 189068,
+      "num": 189068,
+      "word": "张晚意演技",
+      "onboard_time": 1721694741,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189004,
       "num": 189004,
       "word": "田小娟想送歌给NewJeans",
@@ -4001,6 +4169,14 @@
       "onboard_time": 1721617461,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 186741,
+      "num": 186741,
+      "word": "保安多次在个人号晒女性乘电梯监控",
+      "onboard_time": 1721694081,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186697,
@@ -4171,6 +4347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180014,
+      "num": 180014,
+      "word": "夏天这7种病或是省出来的",
+      "onboard_time": 1721696301,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 178517,
       "num": 178517,
       "word": "国乒进入奥运会乒乓球场馆训练",
@@ -4233,14 +4417,6 @@
       "onboard_time": 1721607560,
       "rank": 44,
       "category": "数码,网红"
-    },
-    {
-      "raw_hot": 175963,
-      "num": 175963,
-      "word": "卢昱晓爸爸不理解但是情绪价值给满",
-      "onboard_time": 1721690477,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 175812,
@@ -4313,14 +4489,6 @@
       "onboard_time": 1721625680,
       "rank": 44,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 174397,
-      "num": 174397,
-      "word": "感觉檀健次工作室在哄我们",
-      "onboard_time": 1721689515,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 174068,
@@ -4707,6 +4875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 159512,
+      "num": 159512,
+      "word": "间谍非法勘测窃密被开车导游发现",
+      "onboard_time": 1721697501,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159318,
       "num": 159318,
       "word": "02年实习生爆改亚裔辣妹妆",
@@ -4729,6 +4905,14 @@
       "onboard_time": 1721637800,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 158482,
+      "num": 158482,
+      "word": "刘诗诗狐妖单人海报",
+      "onboard_time": 1721693240,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 158453,
@@ -4915,6 +5099,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 151050,
+      "num": 151050,
+      "word": "导师性骚扰学生不只是师德问题",
+      "onboard_time": 1721696120,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150653,
       "num": 150653,
       "word": "香港中环偶遇徐冬冬尹子维",
@@ -4953,6 +5145,14 @@
       "onboard_time": 1721603415,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148398,
+      "num": 148398,
+      "word": "早期肝癌5年生存率高达80%以上",
+      "onboard_time": 1721690416,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 147435,
@@ -5107,11 +5307,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141743,
-      "num": 141743,
-      "word": "Nike宣传片舔乒乓球拍引热议",
-      "onboard_time": 1721691017,
-      "rank": 25,
+      "raw_hot": 142340,
+      "num": 142340,
+      "word": "大学生9个月减重80斤父母认不出",
+      "onboard_time": 1721697679,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -5169,6 +5369,14 @@
       "onboard_time": 1721556258,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 138893,
+      "num": 138893,
+      "word": "詹姆斯连得11分收比赛",
+      "onboard_time": 1721693360,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 138882,
@@ -5297,6 +5505,14 @@
       "onboard_time": 1721485401,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135057,
+      "num": 135057,
+      "word": "普通家庭没有必要进行苦难教育",
+      "onboard_time": 1721697619,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 134558,
@@ -5449,6 +5665,14 @@
       "onboard_time": 1721486121,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126393,
+      "num": 582760,
+      "word": "暑期档电影票房破60亿",
+      "onboard_time": 1721653041,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 126331,
@@ -5739,6 +5963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106164,
+      "num": 600261,
+      "word": "武警用身体搭一条传送带救老人",
+      "onboard_time": 1721696781,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106117,
       "num": 106117,
       "word": "肖战演唱烛光里的妈妈",
@@ -5913,14 +6145,6 @@
       "onboard_time": 1721483660,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85457,
-      "num": 85457,
-      "word": "早期肝癌5年生存率高达80%以上",
-      "onboard_time": 1721690416,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 84964,
