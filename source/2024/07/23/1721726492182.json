@@ -1,0 +1,410 @@
+{
+  "runTime": 1721726492182,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1460015,
+        "num": 1460015,
+        "word": "拜登",
+        "onboard_time": 1721720720,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1286988,
+        "num": 1286988,
+        "word": "工资卡限额调整惹争议",
+        "onboard_time": 1721719880,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 32363,
+        "num": 1162606,
+        "word": "高质量发展中国行",
+        "onboard_time": 1721720000,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1604091,
+        "num": 1156362,
+        "word": "拜登真实健康状况竟这么糟",
+        "onboard_time": 1721717181,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1121676,
+        "num": 1121676,
+        "word": "霍思燕 纯胖",
+        "onboard_time": 1721713401,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1027106,
+        "num": 1027106,
+        "word": "北师大回应被举报教授曾被导师力保",
+        "onboard_time": 1721722101,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 754174,
+        "num": 754174,
+        "word": "北京宣言内容",
+        "onboard_time": 1721721260,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 604627,
+        "num": 604627,
+        "word": "昆明一广告牌坠落已致3死7伤",
+        "onboard_time": 1721720541,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565025,
+        "num": 565025,
+        "word": "谁家大小姐一副破碎模样",
+        "onboard_time": 1721723241,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 549650,
+        "num": 561664,
+        "word": "女子怀孕控糖家人给切超小块西瓜",
+        "onboard_time": 1721715739,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560078,
+        "num": 560078,
+        "word": "赵丽颖进组后很少有公开活动",
+        "onboard_time": 1721723601,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 558672,
+        "num": 558672,
+        "word": "种地吧加人只能是小英",
+        "onboard_time": 1721723302,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 531841,
+        "num": 531841,
+        "word": "TF三代回应最废的一代",
+        "onboard_time": 1721721140,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 517331,
+        "num": 517331,
+        "word": "金靖晒孕肚自拍",
+        "onboard_time": 1721714061,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 470482,
+        "num": 470482,
+        "word": "台风",
+        "onboard_time": 1721721381,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469117,
+        "num": 469117,
+        "word": "小原乃梨子去世",
+        "onboard_time": 1721718440,
+        "rank": 15,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 395806,
+        "num": 395806,
+        "word": "newjeans将进入休息期",
+        "onboard_time": 1721723481,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341147,
+        "num": 341147,
+        "word": "A股大跌",
+        "onboard_time": 1721719280,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 340630,
+        "num": 340630,
+        "word": "男子疑在阿勒泰发现石油",
+        "onboard_time": 1721713279,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309830,
+        "num": 309830,
+        "word": "赵露思婚纱上班路透",
+        "onboard_time": 1721720180,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 449629,
+        "num": 301959,
+        "word": "女硕士让博士男友检查论文瞬间破防",
+        "onboard_time": 1721717181,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440227,
+        "num": 296365,
+        "word": "日本70岁老人勒死102岁母亲",
+        "onboard_time": 1721718080,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274090,
+        "num": 274090,
+        "word": "拜登退选",
+        "onboard_time": 1721585473,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 269742,
+        "num": 269742,
+        "word": "女生应聘西塔老太太被要求与店长约会",
+        "onboard_time": 1721725160,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263277,
+        "num": 263277,
+        "word": "上班吃同事真的很不礼貌",
+        "onboard_time": 1721724080,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 259943,
+        "num": 259943,
+        "word": "宝宝蛇 你自由了",
+        "onboard_time": 1721724859,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139583,
+        "num": 252533,
+        "word": "帕金森病专家曾八次访问白宫",
+        "onboard_time": 1721721740,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 245474,
+        "num": 245474,
+        "word": "重庆一镇政府办事大厅仅一人在岗",
+        "onboard_time": 1721719942,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244283,
+        "num": 244283,
+        "word": "华为Mate70系列配置曝光",
+        "onboard_time": 1721722460,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 240077,
+        "num": 240077,
+        "word": "怪不得张艺兴lay呢",
+        "onboard_time": 1721724201,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 232073,
+        "num": 232073,
+        "word": "法塔赫和哈马斯达成北京宣言",
+        "onboard_time": 1721708121,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 232036,
+        "num": 232036,
+        "word": "胡先煦 天津妲己",
+        "onboard_time": 1721724320,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 207644,
+        "num": 207644,
+        "word": "报复性存钱的年轻人",
+        "onboard_time": 1721714719,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207414,
+        "num": 207414,
+        "word": "这居然是张超",
+        "onboard_time": 1721726121,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205384,
+        "num": 205384,
+        "word": "建议大家不要带6岁以下孩子旅行",
+        "onboard_time": 1721700078,
+        "rank": 34,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 202910,
+        "num": 202910,
+        "word": "刘亦菲在看陈冲新书",
+        "onboard_time": 1721724260,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185125,
+        "num": 185125,
+        "word": "一诺卫衣男大感",
+        "onboard_time": 1721725460,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176504,
+        "num": 176504,
+        "word": "夏天脾气暴可能是得了热怒症",
+        "onboard_time": 1721710880,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168469,
+        "num": 168469,
+        "word": "丰巢回应骨灰盒放一年只要55块钱",
+        "onboard_time": 1721704700,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167995,
+        "num": 167995,
+        "word": "檀健次更新微博自动回复",
+        "onboard_time": 1721721920,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165168,
+        "num": 165168,
+        "word": "阚清子晒未P原图",
+        "onboard_time": 1721719819,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164397,
+        "num": 164397,
+        "word": "宁夏一网红主播杀害妻子后自杀",
+        "onboard_time": 1721712740,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163679,
+        "num": 163679,
+        "word": "美议员称特朗普若输大选就打内战",
+        "onboard_time": 1721720959,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 163002,
+        "num": 163002,
+        "word": "我替你做质子你还我一命",
+        "onboard_time": 1721716641,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160725,
+        "num": 160725,
+        "word": "车主回应私家车贴满寻人启示",
+        "onboard_time": 1721719339,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160241,
+        "num": 160241,
+        "word": "王鹤棣经纪人开了炸串店",
+        "onboard_time": 1721708421,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157600,
+        "num": 157600,
+        "word": "6种常见病其实都是癌前病变",
+        "onboard_time": 1721724681,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148259,
+        "num": 148259,
+        "word": "刘欢帮唱孙楠",
+        "onboard_time": 1721726421,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146868,
+        "num": 146868,
+        "word": "美国一黑人女子报警反遭警察枪杀",
+        "onboard_time": 1721723781,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144392,
+        "num": 144392,
+        "word": "三星堆二号神树虚拟复原后长这样",
+        "onboard_time": 1721717481,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记学习三中全会决定#"
+    }
+  }
+}

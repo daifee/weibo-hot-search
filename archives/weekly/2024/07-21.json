@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721723947613,
+  "endTime": 1721726492182,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -459,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1286988,
+      "num": 1286988,
+      "word": "工资卡限额调整惹争议",
+      "onboard_time": 1721719880,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1280249,
       "num": 1280249,
       "word": "泰国队员想来中国队宿舍凉快",
@@ -689,6 +697,14 @@
       "onboard_time": 1721643681,
       "rank": 22,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1027106,
+      "num": 1027106,
+      "word": "北师大回应被举报教授曾被导师力保",
+      "onboard_time": 1721722101,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1024654,
@@ -929,14 +945,6 @@
       "onboard_time": 1721704099,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 843718,
-      "num": 843718,
-      "word": "工资卡限额调整惹争议",
-      "onboard_time": 1721719880,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 825863,
@@ -1483,6 +1491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 565025,
+      "num": 565025,
+      "word": "谁家大小姐一副破碎模样",
+      "onboard_time": 1721723241,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 564306,
       "num": 449693,
       "word": "赵丽颖轻妆进组",
@@ -1496,6 +1512,22 @@
       "word": "花儿与少年直播",
       "onboard_time": 1721568140,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 560078,
+      "num": 560078,
+      "word": "赵丽颖进组后很少有公开活动",
+      "onboard_time": 1721723601,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 558672,
+      "num": 558672,
+      "word": "种地吧加人只能是小英",
+      "onboard_time": 1721723302,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -1843,6 +1875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 470482,
+      "num": 470482,
+      "word": "台风",
+      "onboard_time": 1721605519,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 468028,
       "num": 442988,
       "word": "大哥远停播",
@@ -1987,14 +2027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 452357,
-      "num": 452357,
-      "word": "种地吧加人只能是小英",
-      "onboard_time": 1721723302,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 451710,
       "num": 451710,
       "word": "李亚鹏让妻子和他一起唱因为爱情",
@@ -2067,6 +2099,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 440227,
+      "num": 347035,
+      "word": "日本70岁老人勒死102岁母亲",
+      "onboard_time": 1721718080,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 439427,
       "num": 439427,
       "word": "minnie在宋雨琦肚子上比心",
@@ -2113,14 +2153,6 @@
       "onboard_time": 1721567420,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 425728,
-      "num": 425728,
-      "word": "台风",
-      "onboard_time": 1721605519,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 425262,
@@ -2211,14 +2243,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 406450,
-      "num": 406450,
-      "word": "北师大回应被举报教授曾被导师力保",
-      "onboard_time": 1721722101,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 402339,
       "num": 402339,
       "word": "宝格丽CEO感谢刘亦菲吴磊",
@@ -2265,6 +2289,14 @@
       "onboard_time": 1721648063,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 395806,
+      "num": 395806,
+      "word": "newjeans将进入休息期",
+      "onboard_time": 1721723481,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 393218,
@@ -2545,14 +2577,6 @@
       "onboard_time": 1721638822,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 347035,
-      "num": 347035,
-      "word": "日本70岁老人勒死102岁母亲",
-      "onboard_time": 1721718080,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 343224,
@@ -3027,14 +3051,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 280849,
-      "num": 280849,
-      "word": "赵丽颖进组后很少有公开活动",
-      "onboard_time": 1721723601,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 279986,
       "num": 279986,
       "word": "巴勒斯坦各派别在北京举行和解对话",
@@ -3097,6 +3113,14 @@
       "onboard_time": 1721617820,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 269742,
+      "num": 269742,
+      "word": "女生应聘西塔老太太被要求与店长约会",
+      "onboard_time": 1721725160,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269008,
@@ -3179,6 +3203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 263277,
+      "num": 263277,
+      "word": "上班吃同事真的很不礼貌",
+      "onboard_time": 1721724080,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 261750,
       "num": 1264713,
       "word": "关于二十届三中全会决定的说明",
@@ -3201,6 +3233,14 @@
       "onboard_time": 1721544319,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 259943,
+      "num": 259943,
+      "word": "宝宝蛇 你自由了",
+      "onboard_time": 1721724859,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 259849,
@@ -3451,6 +3491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 240077,
+      "num": 240077,
+      "word": "怪不得张艺兴lay呢",
+      "onboard_time": 1721724201,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 239736,
       "num": 239736,
       "word": "三伏天别做这7件事",
@@ -3489,14 +3537,6 @@
       "onboard_time": 1721705481,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 235022,
-      "num": 235022,
-      "word": "newjeans将进入休息期",
-      "onboard_time": 1721723481,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 234829,
@@ -3585,6 +3625,14 @@
       "onboard_time": 1721541201,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232036,
+      "num": 232036,
+      "word": "胡先煦 天津妲己",
+      "onboard_time": 1721724320,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 231847,
@@ -4035,14 +4083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211124,
-      "num": 211124,
-      "word": "谁家大小姐一副破碎模样",
-      "onboard_time": 1721723241,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 210726,
       "num": 210726,
       "word": "周深已老实",
@@ -4105,6 +4145,14 @@
       "onboard_time": 1721551579,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207414,
+      "num": 207414,
+      "word": "这居然是张超",
+      "onboard_time": 1721726121,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 207231,
@@ -4265,6 +4313,14 @@
       "onboard_time": 1721570541,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202910,
+      "num": 202910,
+      "word": "刘亦菲在看陈冲新书",
+      "onboard_time": 1721724260,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 202444,
@@ -5083,6 +5139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185125,
+      "num": 185125,
+      "word": "一诺卫衣男大感",
+      "onboard_time": 1721725460,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 184818,
       "num": 184818,
       "word": "警方介入王某某性骚扰事件",
@@ -5811,6 +5875,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 160725,
+      "num": 666999,
+      "word": "车主回应私家车贴满寻人启示",
+      "onboard_time": 1721719339,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160269,
       "num": 160269,
       "word": "国际数学奥林匹克成绩中国队屈居第二",
@@ -5889,6 +5961,14 @@
       "onboard_time": 1721653761,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157600,
+      "num": 157600,
+      "word": "6种常见病其实都是癌前病变",
+      "onboard_time": 1721724681,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 157580,
@@ -6123,6 +6203,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 148259,
+      "num": 148259,
+      "word": "刘欢帮唱孙楠",
+      "onboard_time": 1721726421,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147967,
       "num": 670045,
       "word": "帕金森病专家曾八次访问白宫",
@@ -6161,6 +6249,14 @@
       "onboard_time": 1721533939,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146868,
+      "num": 249201,
+      "word": "美国一黑人女子报警反遭警察枪杀",
+      "onboard_time": 1721723781,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146657,
@@ -6979,14 +7075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 108362,
-      "num": 666999,
-      "word": "车主回应私家车贴满寻人启示",
-      "onboard_time": 1721719339,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107389,
       "num": 2682676,
       "word": "万千气象看青海",
@@ -7491,14 +7579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 59366,
-      "num": 249201,
-      "word": "美国一黑人女子报警反遭警察枪杀",
-      "onboard_time": 1721723781,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 59336,
       "num": 521519,
       "word": "傅园慧名场面成为饿了么免单题",
@@ -7897,6 +7977,14 @@
       "onboard_time": 1721673251,
       "rank": 48,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 32363,
+      "num": 1162606,
+      "word": "高质量发展中国行",
+      "onboard_time": 1721720000,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 31899,

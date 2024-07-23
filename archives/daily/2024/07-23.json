@@ -1,6 +1,6 @@
 {
   "startTime": 1721665529273,
-  "endTime": 1721723947613,
+  "endTime": 1721726492182,
   "band_list": [
     {
       "raw_hot": 4456876,
@@ -131,6 +131,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1286988,
+      "num": 1286988,
+      "word": "工资卡限额调整惹争议",
+      "onboard_time": 1721719880,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1249764,
       "num": 914147,
       "word": "王鹤棣经纪人开了炸串店",
@@ -211,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1027106,
+      "num": 1027106,
+      "word": "北师大回应被举报教授曾被导师力保",
+      "onboard_time": 1721722101,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1024654,
       "num": 1024654,
       "word": "男子疑在阿勒泰发现石油",
@@ -273,14 +289,6 @@
       "onboard_time": 1721704099,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 843718,
-      "num": 843718,
-      "word": "工资卡限额调整惹争议",
-      "onboard_time": 1721719880,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 825863,
@@ -435,6 +443,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 565025,
+      "num": 565025,
+      "word": "谁家大小姐一副破碎模样",
+      "onboard_time": 1721723241,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 560078,
+      "num": 560078,
+      "word": "赵丽颖进组后很少有公开活动",
+      "onboard_time": 1721723601,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 558672,
+      "num": 558672,
+      "word": "种地吧加人只能是小英",
+      "onboard_time": 1721723302,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 555156,
       "num": 472350,
       "word": "魏嘉再发文要求高亚麟道歉",
@@ -515,18 +547,18 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 470482,
+      "num": 470482,
+      "word": "台风",
+      "onboard_time": 1721721381,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 454561,
       "num": 454561,
       "word": "我家那闺女",
       "onboard_time": 1721710341,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 452357,
-      "num": 452357,
-      "word": "种地吧加人只能是小英",
-      "onboard_time": 1721723302,
       "rank": 15,
       "category": "综艺"
     },
@@ -555,6 +587,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 440227,
+      "num": 347035,
+      "word": "日本70岁老人勒死102岁母亲",
+      "onboard_time": 1721718080,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 435861,
       "num": 435861,
       "word": "毛球醒了寻不到主人了",
@@ -571,27 +611,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 425728,
-      "num": 425728,
-      "word": "台风",
-      "onboard_time": 1721721381,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 411165,
       "num": 328220,
       "word": "北师大回应王某某早年曾有类似前科",
       "onboard_time": 1721717001,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 406450,
-      "num": 406450,
-      "word": "北师大回应被举报教授曾被导师力保",
-      "onboard_time": 1721722101,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -609,6 +633,14 @@
       "onboard_time": 1721695220,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 395806,
+      "num": 395806,
+      "word": "newjeans将进入休息期",
+      "onboard_time": 1721723481,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 395727,
@@ -696,14 +728,6 @@
       "word": "日本近4成孤独死年轻人陈尸家中",
       "onboard_time": 1721703979,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 347035,
-      "num": 347035,
-      "word": "日本70岁老人勒死102岁母亲",
-      "onboard_time": 1721718080,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -827,20 +851,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 280849,
-      "num": 280849,
-      "word": "赵丽颖进组后很少有公开活动",
-      "onboard_time": 1721723601,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 279986,
       "num": 279986,
       "word": "巴勒斯坦各派别在北京举行和解对话",
       "onboard_time": 1721706921,
       "rank": 31,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 269742,
+      "num": 269742,
+      "word": "女生应聘西塔老太太被要求与店长约会",
+      "onboard_time": 1721725160,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267670,
@@ -857,6 +881,22 @@
       "onboard_time": 1721708363,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 263277,
+      "num": 263277,
+      "word": "上班吃同事真的很不礼貌",
+      "onboard_time": 1721724080,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 259943,
+      "num": 259943,
+      "word": "宝宝蛇 你自由了",
+      "onboard_time": 1721724859,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 259284,
@@ -915,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240077,
+      "num": 240077,
+      "word": "怪不得张艺兴lay呢",
+      "onboard_time": 1721724201,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 239199,
       "num": 239199,
       "word": "十个勤天演唱会舞台事故",
@@ -937,14 +985,6 @@
       "onboard_time": 1721705481,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 235022,
-      "num": 235022,
-      "word": "newjeans将进入休息期",
-      "onboard_time": 1721723481,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 234829,
@@ -977,6 +1017,14 @@
       "onboard_time": 1721707641,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232036,
+      "num": 232036,
+      "word": "胡先煦 天津妲己",
+      "onboard_time": 1721724320,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 231847,
@@ -1155,14 +1203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211124,
-      "num": 211124,
-      "word": "谁家大小姐一副破碎模样",
-      "onboard_time": 1721723241,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 209898,
       "num": 209898,
       "word": "赵丽颖深V侧颜",
@@ -1195,6 +1235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 207414,
+      "num": 207414,
+      "word": "这居然是张超",
+      "onboard_time": 1721726121,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204743,
       "num": 204743,
       "word": "邓佳鑫成年",
@@ -1209,6 +1257,14 @@
       "onboard_time": 1721710941,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202910,
+      "num": 202910,
+      "word": "刘亦菲在看陈冲新书",
+      "onboard_time": 1721724260,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 201682,
@@ -1387,6 +1443,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 185125,
+      "num": 185125,
+      "word": "一诺卫衣男大感",
+      "onboard_time": 1721725460,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 184818,
       "num": 184818,
       "word": "警方介入王某某性骚扰事件",
@@ -1555,6 +1619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160725,
+      "num": 666999,
+      "word": "车主回应私家车贴满寻人启示",
+      "onboard_time": 1721719339,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160243,
       "num": 160243,
       "word": "十万狂花入梦来阵容官宣",
@@ -1585,6 +1657,14 @@
       "onboard_time": 1721693240,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157600,
+      "num": 157600,
+      "word": "6种常见病其实都是癌前病变",
+      "onboard_time": 1721724681,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 157009,
@@ -1635,6 +1715,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 148259,
+      "num": 148259,
+      "word": "刘欢帮唱孙楠",
+      "onboard_time": 1721726421,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147967,
       "num": 670045,
       "word": "帕金森病专家曾八次访问白宫",
@@ -1657,6 +1745,14 @@
       "onboard_time": 1721659583,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146868,
+      "num": 249201,
+      "word": "美国一黑人女子报警反遭警察枪杀",
+      "onboard_time": 1721723781,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143827,
@@ -1835,14 +1931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 108362,
-      "num": 666999,
-      "word": "车主回应私家车贴满寻人启示",
-      "onboard_time": 1721719339,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 104399,
       "num": 104399,
       "word": "作者联合抵制番茄小说AI协议",
@@ -1963,14 +2051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 59366,
-      "num": 249201,
-      "word": "美国一黑人女子报警反遭警察枪杀",
-      "onboard_time": 1721723781,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 57553,
       "num": 474527,
       "word": "范丞丞大热天玩火",
@@ -2081,6 +2161,14 @@
       "onboard_time": 1721673251,
       "rank": 48,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 32363,
+      "num": 1162606,
+      "word": "高质量发展中国行",
+      "onboard_time": 1721720000,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 31899,
