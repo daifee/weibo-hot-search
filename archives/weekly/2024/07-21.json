@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721716827857,
+  "endTime": 1721719121130,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 2423315,
-      "num": 840119,
+      "num": 926030,
       "word": "霍思燕 纯胖",
       "onboard_time": 1721713401,
       "rank": 3,
@@ -137,6 +137,14 @@
       "onboard_time": 1721487622,
       "rank": 0,
       "category": "演出"
+    },
+    {
+      "raw_hot": 2320160,
+      "num": 2320160,
+      "word": "拜登真实健康状况竟这么糟",
+      "onboard_time": 1721717181,
+      "rank": 0,
+      "category": "国外时政"
     },
     {
       "raw_hot": 2301422,
@@ -508,7 +516,7 @@
     },
     {
       "raw_hot": 1207754,
-      "num": 838954,
+      "num": 901120,
       "word": "金靖晒孕肚自拍",
       "onboard_time": 1721714061,
       "rank": 4,
@@ -731,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 937665,
+      "num": 937665,
+      "word": "女子怀孕控糖家人给切超小块西瓜",
+      "onboard_time": 1721715739,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 933151,
       "num": 519727,
       "word": "美特勤局承认几十年来最重大行动失败",
@@ -931,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 795003,
+      "num": 795003,
+      "word": "A股",
+      "onboard_time": 1721614640,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 792733,
       "num": 792733,
       "word": "降息",
@@ -1035,10 +1059,26 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 724808,
+      "num": 257442,
+      "word": "女硕士让博士男友检查论文瞬间破防",
+      "onboard_time": 1721717181,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 724075,
       "num": 407051,
       "word": "爱豆和嫂子的日常belike",
       "onboard_time": 1721545519,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 720907,
+      "num": 720907,
+      "word": "我替你做质子你还我一命",
+      "onboard_time": 1721716641,
       "rank": 23,
       "category": "剧集"
     },
@@ -1219,6 +1259,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 640084,
+      "num": 640084,
+      "word": "人大被举报教授被曝早年曾有类似前科",
+      "onboard_time": 1721717060,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 640013,
       "num": 356117,
       "word": "长沙",
@@ -1321,14 +1369,6 @@
       "onboard_time": 1721572942,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 584983,
-      "num": 584983,
-      "word": "A股",
-      "onboard_time": 1721614640,
-      "rank": 29,
-      "category": "财经"
     },
     {
       "raw_hot": 580931,
@@ -2219,6 +2259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 373442,
+      "num": 373442,
+      "word": "小原乃梨子去世",
+      "onboard_time": 1721718440,
+      "rank": 13,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 373272,
       "num": 373272,
       "word": "泉州卫健委回应号召党员干部生三孩",
@@ -2497,6 +2545,14 @@
       "onboard_time": 1721644400,
       "rank": 39,
       "category": "网红"
+    },
+    {
+      "raw_hot": 328220,
+      "num": 328220,
+      "word": "北师大回应王某某早年曾有类似前科",
+      "onboard_time": 1721717001,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 322477,
@@ -2987,6 +3043,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 265617,
+      "num": 516259,
+      "word": "夏天脾气暴可能是得了热怒症",
+      "onboard_time": 1721710880,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263909,
       "num": 263909,
       "word": "房贷利率有望进入2字头时代",
@@ -3187,6 +3251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248673,
+      "num": 248673,
+      "word": "日本70岁老人勒死102岁母亲",
+      "onboard_time": 1721718080,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247221,
       "num": 247221,
       "word": "时代峰峻否认张真源贺峻霖恋情",
@@ -3217,14 +3289,6 @@
       "onboard_time": 1721540420,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 243692,
-      "num": 516259,
-      "word": "夏天脾气暴可能是得了热怒症",
-      "onboard_time": 1721710880,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 242742,
@@ -3659,14 +3723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 217175,
-      "num": 217175,
-      "word": "我替你做质子你还我一命",
-      "onboard_time": 1721716641,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 217167,
       "num": 217167,
       "word": "薛之谦说没资格在周末生病",
@@ -3777,6 +3833,14 @@
       "onboard_time": 1721658505,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212513,
+      "num": 212513,
+      "word": "宋茜粉丝接机",
+      "onboard_time": 1721718321,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 212497,
@@ -3969,6 +4033,14 @@
       "onboard_time": 1721531298,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204743,
+      "num": 204743,
+      "word": "邓佳鑫成年",
+      "onboard_time": 1721718021,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 204591,
@@ -4611,12 +4683,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190214,
+      "num": 190214,
+      "word": "我国载人登月火箭有新突破",
+      "onboard_time": 1721718321,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 189911,
       "num": 189911,
       "word": "从此以后你与我再无关系",
       "onboard_time": 1721660544,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189813,
+      "num": 189813,
+      "word": "14个巴勒斯坦派别签署北京宣言现场",
+      "onboard_time": 1721717120,
+      "rank": 33,
+      "category": "国外时政"
     },
     {
       "raw_hot": 189636,
@@ -5043,6 +5131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174924,
+      "num": 174924,
+      "word": "三星堆二号神树虚拟复原后长这样",
+      "onboard_time": 1721717481,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174876,
       "num": 174876,
       "word": "莎头组合喝水神同步",
@@ -5089,6 +5185,14 @@
       "onboard_time": 1721612481,
       "rank": 45,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 173900,
+      "num": 173900,
+      "word": "乔振宇 男狐狸",
+      "onboard_time": 1721717419,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 173689,
@@ -5300,7 +5404,7 @@
     },
     {
       "raw_hot": 168194,
-      "num": 168194,
+      "num": 655875,
       "word": "讨好二次元是老商场最后的自救吗",
       "onboard_time": 1721716040,
       "rank": 49,
@@ -5461,10 +5565,10 @@
     {
       "raw_hot": 162432,
       "num": 162432,
-      "word": "女子怀孕控糖家人给切超小块西瓜",
-      "onboard_time": 1721715739,
-      "rank": 48,
-      "category": "社会新闻"
+      "word": "奥利 垫音",
+      "onboard_time": 1721718801,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 161907,
@@ -6123,6 +6227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 137349,
+      "num": 137349,
+      "word": "国人在巴黎街头爆改白人饭",
+      "onboard_time": 1721718321,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 137306,
       "num": 137306,
       "word": "虞书欣拍的黄晓明新中式",
@@ -6417,6 +6529,14 @@
       "onboard_time": 1721487440,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121892,
+      "num": 121892,
+      "word": "相柳无坟可哭",
+      "onboard_time": 1721719040,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 121365,
