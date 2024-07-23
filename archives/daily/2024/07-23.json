@@ -1,6 +1,6 @@
 {
   "startTime": 1721665529273,
-  "endTime": 1721702826374,
+  "endTime": 1721705074898,
   "band_list": [
     {
       "raw_hot": 4456876,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1545593,
+      "num": 370676,
+      "word": "建议大家不要带6岁以下孩子旅行",
+      "onboard_time": 1721700078,
+      "rank": 20,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 1445888,
       "num": 609498,
       "word": "种地吧成员支持蒋敦豪",
@@ -115,12 +123,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 967766,
-      "num": 277830,
-      "word": "建议大家不要带6岁以下孩子旅行",
-      "onboard_time": 1721700078,
-      "rank": 20,
-      "category": "母婴育儿"
+      "raw_hot": 1015056,
+      "num": 1015056,
+      "word": "女子称拒绝镇干部前男友发生关系被打伤",
+      "onboard_time": 1721702479,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 933151,
+      "num": 501657,
+      "word": "美特勤局承认几十年来最重大行动失败",
+      "onboard_time": 1721701038,
+      "rank": 12,
+      "category": "国外时政"
     },
     {
       "raw_hot": 851143,
@@ -129,14 +145,6 @@
       "onboard_time": 1721690297,
       "rank": 12,
       "category": "教育"
-    },
-    {
-      "raw_hot": 844225,
-      "num": 501657,
-      "word": "美特勤局承认几十年来最重大行动失败",
-      "onboard_time": 1721701038,
-      "rank": 12,
-      "category": "国外时政"
     },
     {
       "raw_hot": 812759,
@@ -187,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 636526,
+      "num": 636526,
+      "word": "140元药卖患者2980元",
+      "onboard_time": 1721700740,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 590219,
       "num": 590219,
       "word": "全红婵说自己头发油到可以炒菜了",
@@ -235,6 +251,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 534670,
+      "num": 472350,
+      "word": "魏嘉再发文要求高亚麟道歉",
+      "onboard_time": 1721702659,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 517431,
       "num": 390774,
       "word": "苗苗说没想到郑恺会这么靠谱",
@@ -249,6 +273,22 @@
       "onboard_time": 1721695102,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 488559,
+      "num": 488559,
+      "word": "莲花楼登爱奇艺热搜榜第一",
+      "onboard_time": 1721704099,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 471630,
+      "num": 471630,
+      "word": "太二酸菜鱼客单价跌至7年前",
+      "onboard_time": 1721703859,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 441079,
@@ -292,18 +332,10 @@
     },
     {
       "raw_hot": 391735,
-      "num": 266412,
+      "num": 280714,
       "word": "大学生9个月减重80斤父母认不出",
       "onboard_time": 1721697679,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 391352,
-      "num": 391352,
-      "word": "140元药卖患者2980元",
-      "onboard_time": 1721700740,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -313,6 +345,14 @@
       "onboard_time": 1721662821,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 367430,
+      "num": 367430,
+      "word": "甲状腺好的人有6个习惯",
+      "onboard_time": 1721699359,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 359473,
@@ -331,12 +371,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 350401,
-      "num": 244936,
-      "word": "甲状腺好的人有6个习惯",
-      "onboard_time": 1721699359,
-      "rank": 23,
-      "category": "健康医疗"
+      "raw_hot": 355167,
+      "num": 355167,
+      "word": "看到娜然懂什么是刮骨刀了",
+      "onboard_time": 1721700858,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 342457,
@@ -347,12 +387,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 341166,
+      "num": 341166,
+      "word": "李亚鹏让妻子和他一起唱因为爱情",
+      "onboard_time": 1721704340,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314596,
       "num": 314596,
       "word": "拜登退选至少有两重原因",
       "onboard_time": 1721668215,
       "rank": 38,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 310231,
+      "num": 310231,
+      "word": "日本近4成孤独死年轻人陈尸家中",
+      "onboard_time": 1721703979,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 298500,
@@ -387,12 +443,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281381,
+      "num": 281381,
+      "word": "丰巢回应骨灰盒放一年只要55块钱",
+      "onboard_time": 1721704700,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277951,
+      "num": 277951,
+      "word": "陈昊宇陈丽君版白娘子许仙",
+      "onboard_time": 1721704280,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 267670,
       "num": 190456,
       "word": "普通家庭没有必要进行苦难教育",
       "onboard_time": 1721697619,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 256592,
+      "num": 256592,
+      "word": "男子找人撞女友和其父亲后装好人照顾",
+      "onboard_time": 1721701879,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251375,
+      "num": 533794,
+      "word": "约50%中老年忍痛拖延就医",
+      "onboard_time": 1721700740,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 250775,
@@ -425,6 +513,14 @@
       "onboard_time": 1721647703,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236498,
+      "num": 279158,
+      "word": "樊振东被叫小胖至今经历了什么",
+      "onboard_time": 1721704700,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 234829,
@@ -491,20 +587,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217506,
+      "num": 217506,
+      "word": "七分甜回应捏捏杯一捏就爆",
+      "onboard_time": 1721701759,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217429,
       "num": 217429,
       "word": "于正回应白鹿贴脸开大",
       "onboard_time": 1721694622,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 216345,
-      "num": 216345,
-      "word": "看到娜然懂什么是刮骨刀了",
-      "onboard_time": 1721700858,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 213512,
@@ -521,6 +617,14 @@
       "onboard_time": 1721699240,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 211961,
+      "num": 211961,
+      "word": "不拴绳狗被碾压女子砸车打人后外逃",
+      "onboard_time": 1721702538,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211816,
@@ -555,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199315,
+      "num": 199315,
+      "word": "童年骑狮子拍照的人去非洲溜狮子了",
+      "onboard_time": 1721704460,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196952,
       "num": 196952,
       "word": "空空日记掉粉超100万",
@@ -569,6 +681,14 @@
       "onboard_time": 1721646260,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191411,
+      "num": 191411,
+      "word": "拜登退选后民主党收到千万美元捐款",
+      "onboard_time": 1721701399,
+      "rank": 38,
+      "category": "国外时政"
     },
     {
       "raw_hot": 189582,
@@ -587,27 +707,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188714,
-      "num": 188714,
-      "word": "魏嘉再发文要求高亚麟道歉",
-      "onboard_time": 1721702659,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 186741,
       "num": 186741,
       "word": "保安多次在个人号晒女性乘电梯监控",
       "onboard_time": 1721694081,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 185988,
-      "num": 185988,
-      "word": "七分甜回应捏捏杯一捏就爆",
-      "onboard_time": 1721701759,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -643,14 +747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179358,
-      "num": 179358,
-      "word": "拜登退选后民主党收到千万美元捐款",
-      "onboard_time": 1721701399,
-      "rank": 38,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 178096,
       "num": 178096,
       "word": "宁艺卓说第一次在中国签售",
@@ -665,6 +761,14 @@
       "onboard_time": 1721609841,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174876,
+      "num": 174876,
+      "word": "莎头组合喝水神同步",
+      "onboard_time": 1721703799,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 170910,
@@ -691,12 +795,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 163445,
-      "num": 163445,
-      "word": "女子称拒绝镇干部前男友发生关系被打伤",
-      "onboard_time": 1721702479,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 163202,
+      "num": 163202,
+      "word": "十万狂花入梦来开机",
+      "onboard_time": 1721704160,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 160243,
@@ -737,14 +841,6 @@
       "onboard_time": 1721649683,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 151858,
-      "num": 151858,
-      "word": "男子找人撞女友和其父亲后装好人照顾",
-      "onboard_time": 1721701879,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151050,
@@ -793,6 +889,14 @@
       "onboard_time": 1721659583,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145861,
+      "num": 145861,
+      "word": "红豆生南国 徐三是男模",
+      "onboard_time": 1721705060,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 143827,
@@ -899,12 +1003,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 122036,
-      "num": 533794,
-      "word": "约50%中老年忍痛拖延就医",
-      "onboard_time": 1721700740,
+      "raw_hot": 118808,
+      "num": 475604,
+      "word": "25岁青年捐建村小教学楼烂尾十年",
+      "onboard_time": 1721703620,
       "rank": 9,
-      "category": "社会新闻,健康医疗"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118093,
@@ -1041,6 +1145,14 @@
       "onboard_time": 1721690176,
       "rank": 45,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 55088,
+      "num": 432359,
+      "word": "E起CityDrive",
+      "onboard_time": 1721703739,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 53881,
