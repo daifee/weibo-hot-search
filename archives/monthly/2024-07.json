@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721727270280,
+  "endTime": 1721730027726,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -1676,7 +1676,7 @@
     },
     {
       "raw_hot": 1567544,
-      "num": 664771,
+      "num": 791356,
       "word": "拜登表示将尽力履职",
       "onboard_time": 1721720720,
       "rank": 3,
@@ -1881,6 +1881,14 @@
       "onboard_time": 1720173379,
       "rank": 1,
       "category": "动漫,网红"
+    },
+    {
+      "raw_hot": 1499904,
+      "num": 1499904,
+      "word": "美国国会大厦降半旗真相",
+      "onboard_time": 1721727021,
+      "rank": 37,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1499849,
@@ -3713,6 +3721,14 @@
       "onboard_time": 1720512318,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1080073,
+      "num": 798764,
+      "word": "张萌身材",
+      "onboard_time": 1721726481,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1079541,
@@ -5915,6 +5931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 831406,
+      "num": 419719,
+      "word": "拜登听取线上简报",
+      "onboard_time": 1721728100,
+      "rank": 10,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 830680,
       "num": 333205,
       "word": "宋雨琦ins发文",
@@ -5993,6 +6017,14 @@
       "onboard_time": 1720754359,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 827069,
+      "num": 418693,
+      "word": "广告牌坠落致3死7伤责任人被控制",
+      "onboard_time": 1721726661,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 826638,
@@ -6177,6 +6209,14 @@
       "onboard_time": 1721175557,
       "rank": 1,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 813844,
+      "num": 813844,
+      "word": "秦志远",
+      "onboard_time": 1721729119,
+      "rank": 1,
+      "category": "网红"
     },
     {
       "raw_hot": 813403,
@@ -6523,6 +6563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 791589,
+      "num": 791589,
+      "word": "在巴黎被中国的厕所侠救了",
+      "onboard_time": 1721725940,
+      "rank": 47,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 789497,
       "num": 366109,
       "word": "一个月没洗的床单有多脏",
@@ -6569,14 +6617,6 @@
       "onboard_time": 1721048899,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 787611,
-      "num": 615769,
-      "word": "张萌身材",
-      "onboard_time": 1721726481,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 787577,
@@ -11419,6 +11459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 543988,
+      "num": 415085,
+      "word": "歌手",
+      "onboard_time": 1719918618,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 543841,
       "num": 251118,
       "word": "吴磊刘亦菲同框",
@@ -12377,6 +12425,14 @@
       "onboard_time": 1719741438,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 512989,
+      "num": 412467,
+      "word": "宝宝蛇 你自由了",
+      "onboard_time": 1721724859,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 512394,
@@ -16513,6 +16569,14 @@
       "onboard_time": 1720492578,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 412417,
+      "num": 412417,
+      "word": "芒果 发点桃难财",
+      "onboard_time": 1721729001,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 412369,
@@ -23299,14 +23363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 282224,
-      "num": 282224,
-      "word": "广告牌坠落致3死7伤责任人被控制",
-      "onboard_time": 1721726661,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 282103,
       "num": 282103,
       "word": "剑网3",
@@ -24435,6 +24491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262177,
+      "num": 262177,
+      "word": "胡锡进今天大跌14311元",
+      "onboard_time": 1721729239,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 262081,
       "num": 262081,
       "word": "李一桐横店近视眼",
@@ -24609,14 +24673,6 @@
       "onboard_time": 1720257737,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 259943,
-      "num": 259943,
-      "word": "宝宝蛇 你自由了",
-      "onboard_time": 1721724859,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 259921,
@@ -26115,6 +26171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241926,
+      "num": 241926,
+      "word": "巴黎厕所侠",
+      "onboard_time": 1721727981,
+      "rank": 28,
+      "category": "旅游,体育"
+    },
+    {
       "raw_hot": 241866,
       "num": 241866,
       "word": "央行宣布降息10个基点",
@@ -26937,6 +27001,14 @@
       "onboard_time": 1720160898,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 233980,
+      "num": 233980,
+      "word": "金在中 咒文",
+      "onboard_time": 1721727261,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 233814,
@@ -28315,6 +28387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220997,
+      "num": 220997,
+      "word": "拜登称将参加哈里斯的竞选活动",
+      "onboard_time": 1721725340,
+      "rank": 45,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 220955,
       "num": 220955,
       "word": "差点没认出这是吴京",
@@ -28563,6 +28643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 219198,
+      "num": 219198,
+      "word": "赤水丰隆是长相思的纯元",
+      "onboard_time": 1721727501,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218859,
       "num": 218859,
       "word": "郭麒麟有瓜真吃",
@@ -28585,6 +28673,14 @@
       "onboard_time": 1720238897,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 218688,
+      "num": 218688,
+      "word": "克拉岛直播",
+      "onboard_time": 1721729419,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 218635,
@@ -29819,6 +29915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210864,
+      "num": 210864,
+      "word": "我国科学家在月壤中发现分子水",
+      "onboard_time": 1721729541,
+      "rank": 37,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 210828,
       "num": 160886,
       "word": "一个人的成熟从3次放下开始",
@@ -30905,6 +31009,14 @@
       "onboard_time": 1720277839,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205355,
+      "num": 205355,
+      "word": "唐诡西行李汶翰从舞到武",
+      "onboard_time": 1721728701,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 205321,
@@ -33499,14 +33611,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 195973,
-      "num": 195973,
-      "word": "美国国会大厦降半旗真相",
-      "onboard_time": 1721727021,
-      "rank": 37,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 195960,
       "num": 62290,
       "word": "喜欢睡觉但晚上舍不得睡",
@@ -34873,6 +34977,14 @@
       "onboard_time": 1720960280,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190858,
+      "num": 190858,
+      "word": "逆水寒铠甲勇士联动",
+      "onboard_time": 1721729359,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 190840,
@@ -38499,14 +38611,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 174822,
-      "num": 174822,
-      "word": "歌手",
-      "onboard_time": 1719918618,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 174805,
       "num": 174805,
       "word": "巴黎奥运金牌赛事日历",
@@ -38953,6 +39057,14 @@
       "onboard_time": 1720367777,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172829,
+      "num": 172829,
+      "word": "WBG对战BLG",
+      "onboard_time": 1721729661,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 172803,
@@ -39625,14 +39737,6 @@
       "onboard_time": 1719753558,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 169909,
-      "num": 169909,
-      "word": "拜登称将参加哈里斯的竞选活动",
-      "onboard_time": 1721725340,
-      "rank": 45,
-      "category": "国外时政"
     },
     {
       "raw_hot": 169872,
@@ -41897,14 +42001,6 @@
       "onboard_time": 1719886999,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 159474,
-      "num": 159474,
-      "word": "在巴黎被中国的厕所侠救了",
-      "onboard_time": 1721725940,
-      "rank": 47,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 159440,
@@ -56235,6 +56331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96528,
+      "num": 386589,
+      "word": "国家级科研背书的李宁户外黑科技",
+      "onboard_time": 1721727501,
+      "rank": 15,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 96511,
       "num": 96511,
       "word": "西班牙进球",
@@ -62651,6 +62755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 39641,
+      "num": 1162606,
+      "word": "高质量发展中国行",
+      "onboard_time": 1721720000,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 39637,
       "num": 39637,
       "word": "王铮亮 起猛了在家看到猎人了",
@@ -63515,14 +63627,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 32511,
-      "num": 1162606,
-      "word": "高质量发展中国行",
-      "onboard_time": 1721720000,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 32495,
       "num": 52130,
       "word": "AI生成插画制作流程视频",
@@ -64185,6 +64289,14 @@
       "onboard_time": 1721401701,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 27352,
+      "num": 210076,
+      "word": "蚊子传播罕见病毒致印度16人死亡",
+      "onboard_time": 1721729299,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27348,

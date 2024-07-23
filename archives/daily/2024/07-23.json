@@ -1,6 +1,6 @@
 {
   "startTime": 1721665529273,
-  "endTime": 1721727270280,
+  "endTime": 1721730027726,
   "band_list": [
     {
       "raw_hot": 4456876,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1567544,
-      "num": 664771,
+      "num": 791356,
       "word": "拜登表示将尽力履职",
       "onboard_time": 1721720720,
       "rank": 3,
@@ -121,6 +121,14 @@
       "onboard_time": 1721702479,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1499904,
+      "num": 1499904,
+      "word": "美国国会大厦降半旗真相",
+      "onboard_time": 1721727021,
+      "rank": 37,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1445888,
@@ -211,6 +219,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1080073,
+      "num": 798764,
+      "word": "张萌身材",
+      "onboard_time": 1721726481,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1063438,
       "num": 1063438,
       "word": "儿子给妈妈缠了1把扇子后暑假没了",
@@ -299,12 +315,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 831406,
+      "num": 419719,
+      "word": "拜登听取线上简报",
+      "onboard_time": 1721728100,
+      "rank": 10,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 827069,
+      "num": 418693,
+      "word": "广告牌坠落致3死7伤责任人被控制",
+      "onboard_time": 1721726661,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 825863,
       "num": 777594,
       "word": "人大被举报教授被曝早年曾有类似前科",
       "onboard_time": 1721717060,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 813844,
+      "num": 813844,
+      "word": "秦志远",
+      "onboard_time": 1721729119,
+      "rank": 1,
+      "category": "网红"
     },
     {
       "raw_hot": 812759,
@@ -323,12 +363,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 787611,
-      "num": 615769,
-      "word": "张萌身材",
-      "onboard_time": 1721726481,
-      "rank": 6,
-      "category": "艺人"
+      "raw_hot": 791589,
+      "num": 791589,
+      "word": "在巴黎被中国的厕所侠救了",
+      "onboard_time": 1721725940,
+      "rank": 47,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 752775,
@@ -515,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 543988,
+      "num": 415085,
+      "word": "歌手",
+      "onboard_time": 1721728342,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 534840,
       "num": 534840,
       "word": "特朗普自称为下一任美国总统",
@@ -545,6 +593,14 @@
       "onboard_time": 1721695102,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 512989,
+      "num": 412467,
+      "word": "宝宝蛇 你自由了",
+      "onboard_time": 1721724859,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 511852,
@@ -625,6 +681,14 @@
       "onboard_time": 1721651422,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 412417,
+      "num": 412417,
+      "word": "芒果 发点桃难财",
+      "onboard_time": 1721729001,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 411165,
@@ -875,14 +939,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 282224,
-      "num": 282224,
-      "word": "广告牌坠落致3死7伤责任人被控制",
-      "onboard_time": 1721726661,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 279986,
       "num": 279986,
       "word": "巴勒斯坦各派别在北京举行和解对话",
@@ -923,12 +979,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 259943,
-      "num": 259943,
-      "word": "宝宝蛇 你自由了",
-      "onboard_time": 1721724859,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 262177,
+      "num": 262177,
+      "word": "胡锡进今天大跌14311元",
+      "onboard_time": 1721729239,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 259284,
@@ -987,6 +1043,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 241926,
+      "num": 241926,
+      "word": "巴黎厕所侠",
+      "onboard_time": 1721727981,
+      "rank": 28,
+      "category": "旅游,体育"
+    },
+    {
       "raw_hot": 241120,
       "num": 241120,
       "word": "Danielle原来是YG练习生",
@@ -1041,6 +1105,14 @@
       "onboard_time": 1721668515,
       "rank": 41,
       "category": "网红"
+    },
+    {
+      "raw_hot": 233980,
+      "num": 233980,
+      "word": "金在中 咒文",
+      "onboard_time": 1721727261,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 233526,
@@ -1131,6 +1203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220997,
+      "num": 220997,
+      "word": "拜登称将参加哈里斯的竞选活动",
+      "onboard_time": 1721725340,
+      "rank": 45,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 220291,
       "num": 220291,
       "word": "孙颖莎再回应被叫小魔王",
@@ -1153,6 +1233,22 @@
       "onboard_time": 1721718801,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 219198,
+      "num": 219198,
+      "word": "赤水丰隆是长相思的纯元",
+      "onboard_time": 1721727501,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 218688,
+      "num": 218688,
+      "word": "克拉岛直播",
+      "onboard_time": 1721729419,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 217973,
@@ -1243,6 +1339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210864,
+      "num": 210864,
+      "word": "我国科学家在月壤中发现分子水",
+      "onboard_time": 1721729541,
+      "rank": 37,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 209898,
       "num": 209898,
       "word": "赵丽颖深V侧颜",
@@ -1273,6 +1377,14 @@
       "onboard_time": 1721659883,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 205355,
+      "num": 205355,
+      "word": "唐诡西行李汶翰从舞到武",
+      "onboard_time": 1721728701,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 204743,
@@ -1395,14 +1507,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 195973,
-      "num": 195973,
-      "word": "美国国会大厦降半旗真相",
-      "onboard_time": 1721727021,
-      "rank": 37,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 195266,
       "num": 195266,
       "word": "红豆生南国 徐三是男模",
@@ -1433,6 +1537,14 @@
       "onboard_time": 1721708963,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190858,
+      "num": 190858,
+      "word": "逆水寒铠甲勇士联动",
+      "onboard_time": 1721729359,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 190214,
@@ -1619,6 +1731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 172829,
+      "num": 172829,
+      "word": "WBG对战BLG",
+      "onboard_time": 1721729661,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 171388,
       "num": 171388,
       "word": "特朗普爆料拜登与奥巴马互相讨厌",
@@ -1635,20 +1755,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 169909,
-      "num": 169909,
-      "word": "拜登称将参加哈里斯的竞选活动",
-      "onboard_time": 1721725340,
-      "rank": 45,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 169872,
       "num": 169872,
       "word": "娜然在内娱闯出妩魅系赛道",
       "onboard_time": 1721662580,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 169500,
+      "num": 169500,
+      "word": "逆水寒手游",
+      "onboard_time": 1721729961,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 169203,
@@ -1713,14 +1833,6 @@
       "onboard_time": 1721697501,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159474,
-      "num": 159474,
-      "word": "在巴黎被中国的厕所侠救了",
-      "onboard_time": 1721725940,
-      "rank": 47,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 158834,
@@ -1995,6 +2107,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 96528,
+      "num": 386589,
+      "word": "国家级科研背书的李宁户外黑科技",
+      "onboard_time": 1721727501,
+      "rank": 15,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 96009,
       "num": 96009,
       "word": "第一批打司美格鲁肽的人已被反弹劝退",
@@ -2195,6 +2315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 39641,
+      "num": 1162606,
+      "word": "高质量发展中国行",
+      "onboard_time": 1721720000,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 35217,
       "num": 202791,
       "word": "攀岩世界纪录5秒内攀上5楼高",
@@ -2209,14 +2337,6 @@
       "onboard_time": 1721681230,
       "rank": 40,
       "category": "美食"
-    },
-    {
-      "raw_hot": 32511,
-      "num": 1162606,
-      "word": "高质量发展中国行",
-      "onboard_time": 1721720000,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 32478,
@@ -2240,6 +2360,14 @@
       "word": "货车侧翻4男子车流中砸窗救出父子",
       "onboard_time": 1721689515,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27352,
+      "num": 210076,
+      "word": "蚊子传播罕见病毒致印度16人死亡",
+      "onboard_time": 1721729299,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
