@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/24 17:20:59
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/24 17:34:19
 </p>
 </blockquote>
 <p>
@@ -3381,6 +3381,12 @@ Henry说漏嘴了（热度：1050972）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%81%9C%E6%AD%A2%E4%B8%BE%E8%A1%8C%E5%A4%A7%E5%9E%8B%E6%88%B7%E5%A4%96%E7%AB%9E%E9%80%89%E9%9B%86%E4%BC%9A%23" target="weibo">
+特朗普停止举行大型户外竞选集会（热度：1011161）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%9B%9E%E5%BA%94%E6%9A%91%E6%9C%9F%E9%97%A8%E7%A5%A8%E9%A3%99%E8%87%B3719%E5%85%83%23" target="weibo">
 上海迪士尼回应暑期门票飙至719元（热度：1008707）
 </a>
@@ -6005,12 +6011,6 @@ Miss回应团队背刺郭碧婷（热度：719560）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%92%9F%E5%A4%A7%E8%80%81%E4%BA%86%E5%A5%BD%E5%A4%9A%23" target="weibo">
 金钟大老了好多（热度：718435）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E9%A9%AC%E6%B6%A8%E4%BB%B7%E5%90%8E%E6%9D%A5%E7%9C%8B%E8%BD%A6%E7%9A%84%E4%BA%BA%E5%8F%98%E5%A4%9A%E4%BA%86%23" target="weibo">
-宝马涨价后来看车的人变多了（热度：718238）
 </a>
 </li>
 
