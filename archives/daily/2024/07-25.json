@@ -1,6 +1,6 @@
 {
   "startTime": 1721838296901,
-  "endTime": 1721859550264,
+  "endTime": 1721860545452,
   "band_list": [
     {
       "raw_hot": 1358111,
@@ -155,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245757,
+      "num": 245757,
+      "word": "巴黎奥运会首个比赛日出现闹剧",
+      "onboard_time": 1721842154,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 232885,
       "num": 232885,
       "word": "关晓彤收到了孙颖莎的礼物",
@@ -169,6 +177,14 @@
       "onboard_time": 1721837419,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199832,
+      "num": 95124,
+      "word": "特朗普遇袭事件出现最新视频",
+      "onboard_time": 1721846532,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 195699,
@@ -219,28 +235,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171421,
-      "num": 171421,
-      "word": "巴黎奥运会首个比赛日出现闹剧",
-      "onboard_time": 1721842154,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 164594,
       "num": 164594,
       "word": "巴黎奥运会开幕式时长",
       "onboard_time": 1721835860,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 157949,
-      "num": 79010,
-      "word": "特朗普遇袭事件出现最新视频",
-      "onboard_time": 1721846532,
-      "rank": 13,
-      "category": "国外时政"
     },
     {
       "raw_hot": 151738,
@@ -371,6 +371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 102456,
+      "num": 102456,
+      "word": "妻子买西瓜发生纠纷男子捅伤瓜贩",
+      "onboard_time": 1721848331,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102311,
       "num": 121068,
       "word": "马龙冯雨担任中国体育代表团旗手",
@@ -403,20 +411,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89356,
+      "num": 89356,
+      "word": "知名痔疮药涨价20多倍还断货",
+      "onboard_time": 1721840655,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 89332,
       "num": 120984,
       "word": "阿根廷国奥vs摩洛哥国奥",
       "onboard_time": 1721830401,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86206,
-      "num": 86100,
-      "word": "知名痔疮药涨价20多倍还断货",
-      "onboard_time": 1721840655,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 86069,
@@ -432,14 +440,6 @@
       "word": "台风格美开始画圈了",
       "onboard_time": 1721833341,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83529,
-      "num": 83529,
-      "word": "妻子买西瓜发生纠纷男子捅伤瓜贩",
-      "onboard_time": 1721848331,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -475,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55030,
+      "num": 86035,
+      "word": "陕师大通报教师疑骚扰女生",
+      "onboard_time": 1721839336,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52974,
       "num": 86012,
       "word": "国乒女团vs埃及女团",
@@ -483,11 +491,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 49713,
-      "num": 86035,
-      "word": "陕师大通报教师疑骚扰女生",
-      "onboard_time": 1721839336,
-      "rank": 47,
+      "raw_hot": 50106,
+      "num": 45244,
+      "word": "北京暴雨一秒入夜",
+      "onboard_time": 1721847852,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -499,12 +507,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 40788,
-      "num": 35276,
+      "raw_hot": 44964,
+      "num": 43531,
       "word": "网友称哈尔滨中央大街成烧烤一条街",
       "onboard_time": 1721856671,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 43297,
+      "num": 43297,
+      "word": "身体排湿的10个表现是什么",
+      "onboard_time": 1721853971,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 38312,
@@ -515,20 +531,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 38169,
-      "num": 38169,
-      "word": "北京暴雨一秒入夜",
-      "onboard_time": 1721847852,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36674,
-      "num": 36674,
-      "word": "身体排湿的10个表现是什么",
-      "onboard_time": 1721853971,
-      "rank": 34,
-      "category": "健康医疗"
+      "raw_hot": 31272,
+      "num": 31272,
+      "word": "魏大勋两句话被火树盘出身份",
+      "onboard_time": 1721859373,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 30851,
@@ -537,6 +545,14 @@
       "onboard_time": 1721826320,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30724,
+      "num": 31096,
+      "word": "田曦薇的眼睛就是尺",
+      "onboard_time": 1721852831,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 30592,
@@ -555,14 +571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 27710,
-      "num": 27710,
-      "word": "田曦薇的眼睛就是尺",
-      "onboard_time": 1721852831,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 27139,
       "num": 376981,
       "word": "马龙回应任奥运旗手",
@@ -571,8 +579,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 23123,
-      "num": 26228,
+      "raw_hot": 25378,
+      "num": 31095,
       "word": "为何红斑狼疮尤其偏爱女性",
       "onboard_time": 1721850490,
       "rank": 38,
@@ -593,14 +601,6 @@
       "onboard_time": 1721838618,
       "rank": 9,
       "category": "自然"
-    },
-    {
-      "raw_hot": 20651,
-      "num": 26202,
-      "word": "魏大勋两句话被火树盘出身份",
-      "onboard_time": 1721859373,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 17980,
