@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721805530801,
+  "endTime": 1721806516167,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -691,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1199134,
+      "num": 1199134,
+      "word": "李现拒绝出演高中生",
+      "onboard_time": 1721801900,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1198827,
       "num": 1198827,
       "word": "TF三代reaction直播",
@@ -835,14 +843,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1089802,
-      "num": 1089802,
-      "word": "李现拒绝出演高中生",
-      "onboard_time": 1721801900,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1080073,
       "num": 798764,
       "word": "张萌身材",
@@ -865,6 +865,14 @@
       "onboard_time": 1721690297,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1058654,
+      "num": 1058654,
+      "word": "贾玲安藤樱 杂志",
+      "onboard_time": 1721801959,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1058191,
@@ -939,14 +947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1022727,
-      "num": 1022727,
-      "word": "贾玲安藤樱 杂志",
-      "onboard_time": 1721801959,
-      "rank": 31,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 1021132,
       "num": 1021132,
       "word": "人大女博士",
@@ -977,6 +977,14 @@
       "onboard_time": 1721775914,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 986945,
+      "num": 986945,
+      "word": "尼泊尔坠机事故已致22人丧生",
+      "onboard_time": 1721803099,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 986928,
@@ -1569,14 +1577,6 @@
       "onboard_time": 1721545519,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 722952,
-      "num": 722952,
-      "word": "尼泊尔坠机事故已致22人丧生",
-      "onboard_time": 1721803099,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 720907,
@@ -2315,6 +2315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 525302,
+      "num": 525302,
+      "word": "台风红色预警发布",
+      "onboard_time": 1721791640,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 522420,
       "num": 522420,
       "word": "巴黎奥运会 空调",
@@ -2369,14 +2377,6 @@
       "onboard_time": 1721614220,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 513998,
-      "num": 513998,
-      "word": "台风红色预警发布",
-      "onboard_time": 1721791640,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 513949,
@@ -2497,6 +2497,14 @@
       "onboard_time": 1721534420,
       "rank": 23,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 484585,
+      "num": 484585,
+      "word": "暑期档唯一家庭剧来了",
+      "onboard_time": 1721803219,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 484226,
@@ -3515,12 +3523,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 332770,
+      "num": 332770,
+      "word": "清华教授建议发1万亿元消费券",
+      "onboard_time": 1721805620,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 331350,
       "num": 331350,
       "word": "易烊千玺刘艳芬年度实体专辑",
       "onboard_time": 1721615301,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 330908,
+      "num": 330908,
+      "word": "田曦薇王安宇居然认识10年了",
+      "onboard_time": 1721805200,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 329507,
+      "num": 329507,
+      "word": "魏大勋说蒲熠星把END都录完了",
+      "onboard_time": 1721805380,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 329020,
@@ -3569,14 +3601,6 @@
       "onboard_time": 1721740160,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 325054,
-      "num": 325054,
-      "word": "暑期档唯一家庭剧来了",
-      "onboard_time": 1721803219,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 324957,
@@ -3923,6 +3947,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 292892,
+      "num": 292892,
+      "word": "贾玲安藤樱首次相见",
+      "onboard_time": 1721804540,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 291769,
       "num": 291769,
       "word": "卢昱晓爸爸不理解但是情绪价值给满",
@@ -4041,14 +4073,6 @@
       "onboard_time": 1721803699,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 284071,
-      "num": 284071,
-      "word": "贾玲安藤樱首次相见",
-      "onboard_time": 1721804540,
-      "rank": 27,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 283034,
@@ -4185,6 +4209,14 @@
       "onboard_time": 1721617820,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 269384,
+      "num": 269384,
+      "word": "王者荣耀",
+      "onboard_time": 1721805259,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 269369,
@@ -5019,6 +5051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 225674,
+      "num": 225674,
+      "word": "美国一华裔女子遛娃时遭性侵殴打",
+      "onboard_time": 1721805920,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225547,
       "num": 225547,
       "word": "七分甜回应捏捏杯一捏就爆",
@@ -5121,14 +5161,6 @@
       "onboard_time": 1721709620,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 221353,
-      "num": 221353,
-      "word": "田曦薇王安宇居然认识10年了",
-      "onboard_time": 1721805200,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 221123,
@@ -5459,6 +5491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212544,
+      "num": 212544,
+      "word": "檀健次是演爽了观众也哭死了",
+      "onboard_time": 1721806160,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 212497,
       "num": 373355,
       "word": "山东招考院辟谣19万文科考生滑档",
@@ -5497,6 +5537,14 @@
       "onboard_time": 1721698039,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 211764,
+      "num": 211764,
+      "word": "NewJeans父母发声",
+      "onboard_time": 1721806339,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 211486,
@@ -5577,14 +5625,6 @@
       "onboard_time": 1721661143,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 208286,
-      "num": 208286,
-      "word": "王者荣耀",
-      "onboard_time": 1721805259,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 207720,
@@ -5737,14 +5777,6 @@
       "onboard_time": 1721792060,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 203836,
-      "num": 203836,
-      "word": "魏大勋说蒲熠星把END都录完了",
-      "onboard_time": 1721805380,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 203732,
@@ -8307,6 +8339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 143704,
+      "num": 475822,
+      "word": "大学生山里卖凉皮顺手救了个人",
+      "onboard_time": 1721806221,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143651,
       "num": 213080,
       "word": "滴滴客服就8公里收费两百多致歉",
@@ -8875,6 +8915,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 124818,
+      "num": 350866,
+      "word": "成年后视力度数会下降吗",
+      "onboard_time": 1721801420,
+      "rank": 20,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 123824,
       "num": 600261,
       "word": "武警用身体搭一条传送带救老人",
@@ -8905,14 +8953,6 @@
       "onboard_time": 1721490260,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 122790,
-      "num": 350866,
-      "word": "成年后视力度数会下降吗",
-      "onboard_time": 1721801420,
-      "rank": 20,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 122537,
@@ -9179,6 +9219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105786,
+      "num": 475659,
+      "word": "尼泊尔媒体称机长已被救出送医",
+      "onboard_time": 1721806280,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105018,
       "num": 105018,
       "word": "Newjeans歌谣大战新闻图",
@@ -9440,6 +9488,14 @@
       "word": "打卡课本里的大美中国",
       "onboard_time": 1721568920,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83294,
+      "num": 547151,
+      "word": "律师解读被流浪猫绊倒案再审宣判",
+      "onboard_time": 1721804419,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -9761,6 +9817,14 @@
       "onboard_time": 1721545339,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 66953,
+      "num": 515653,
+      "word": "格美来袭台民众挤爆超市扫货",
+      "onboard_time": 1721804419,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66862,
@@ -10139,6 +10203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43440,
+      "num": 1120848,
+      "word": "三星堆考古新发现实证3000年前城市规划",
+      "onboard_time": 1721791699,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43372,
       "num": 53267,
       "word": "原生家庭缺爱的人会养成两种本能",
@@ -10219,28 +10291,12 @@
       "category": "体育,作品衍生"
     },
     {
-      "raw_hot": 41447,
-      "num": 515653,
-      "word": "格美来袭台民众挤爆超市扫货",
-      "onboard_time": 1721804419,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 41035,
       "num": 61731,
       "word": "出汗并不能帮身体排毒",
       "onboard_time": 1721593572,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 40356,
-      "num": 547151,
-      "word": "律师解读被流浪猫绊倒案再审宣判",
-      "onboard_time": 1721804419,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39641,
@@ -10321,14 +10377,6 @@
       "onboard_time": 1721522418,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 36613,
-      "num": 498713,
-      "word": "三星堆考古新发现实证3000年前城市规划",
-      "onboard_time": 1721791699,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36119,
