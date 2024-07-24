@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721784254042,
+  "endTime": 1721785539801,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -465,6 +465,14 @@
       "onboard_time": 1721562979,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1356171,
+      "num": 1356171,
+      "word": "谭松韵快把长发焊在头上",
+      "onboard_time": 1721784138,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 1340479,
@@ -2067,6 +2075,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 503827,
+      "num": 503827,
+      "word": "考上TOP2后我接受了自己是普通人",
+      "onboard_time": 1721780657,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 501476,
       "num": 501476,
       "word": "唐诡2仵作之死最惨的是谁",
@@ -2491,6 +2507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 433411,
+      "num": 433411,
+      "word": "22岁的王琳好像油画里走出来的",
+      "onboard_time": 1721776096,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 431603,
       "num": 308480,
       "word": "因为高中有朋友啊",
@@ -2899,6 +2923,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 358852,
+      "num": 358852,
+      "word": "台风格美加强为超强台风",
+      "onboard_time": 1721785278,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357961,
       "num": 357961,
       "word": "卡琳娜cos硬核一中",
@@ -2953,14 +2985,6 @@
       "onboard_time": 1721635041,
       "rank": 36,
       "category": "幽默,综艺"
-    },
-    {
-      "raw_hot": 353705,
-      "num": 353705,
-      "word": "22岁的王琳好像油画里走出来的",
-      "onboard_time": 1721776096,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 353258,
@@ -3715,14 +3739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 268015,
-      "num": 268015,
-      "word": "考上TOP2后我接受了自己是普通人",
-      "onboard_time": 1721780657,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 267777,
       "num": 267777,
       "word": "这是长相思2想拍出的变脸效果吗",
@@ -3777,6 +3793,14 @@
       "onboard_time": 1721545278,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 264886,
+      "num": 264886,
+      "word": "台风暴雨高温多预警齐发",
+      "onboard_time": 1721783239,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263909,
@@ -4027,6 +4051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 247524,
+      "num": 247524,
+      "word": "回春丹帮唱那英",
+      "onboard_time": 1721784680,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247221,
       "num": 247221,
       "word": "时代峰峻否认张真源贺峻霖恋情",
@@ -4041,14 +4073,6 @@
       "onboard_time": 1721662523,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 246090,
-      "num": 246090,
-      "word": "台风暴雨高温多预警齐发",
-      "onboard_time": 1721783239,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 246053,
@@ -4147,6 +4171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 241757,
+      "num": 241757,
+      "word": "官方通报中学政教处主任表白学生",
+      "onboard_time": 1721784018,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241498,
       "num": 241498,
       "word": "杨幂画的手稿",
@@ -4227,20 +4259,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238000,
+      "num": 406569,
+      "word": "台风格美进入24小时警戒线",
+      "onboard_time": 1721744120,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235750,
       "num": 235750,
       "word": "张凌赫宋威龙同款choker",
       "onboard_time": 1721651603,
       "rank": 34,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 235463,
-      "num": 406569,
-      "word": "台风格美进入24小时警戒线",
-      "onboard_time": 1721744120,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 235093,
@@ -4699,6 +4731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216863,
+      "num": 216863,
+      "word": "檀健次演技",
+      "onboard_time": 1721784439,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216657,
       "num": 216657,
       "word": "SBS歌谣大战节目单",
@@ -4720,14 +4760,6 @@
       "word": "有这么凄惨的女主进入内娱",
       "onboard_time": 1721625322,
       "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 214966,
-      "num": 214966,
-      "word": "谭松韵快把长发焊在头上",
-      "onboard_time": 1721784138,
-      "rank": 29,
       "category": "剧集"
     },
     {
@@ -5275,6 +5307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199714,
+      "num": 199714,
+      "word": "距巴黎奥运开幕还有2天",
+      "onboard_time": 1721785039,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199691,
       "num": 199691,
       "word": "到底是谁发明的不显示聊天",
@@ -5337,6 +5377,14 @@
       "onboard_time": 1721567420,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 198750,
+      "num": 198750,
+      "word": "格美",
+      "onboard_time": 1721784618,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198664,
@@ -5497,6 +5545,14 @@
       "onboard_time": 1721538917,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197378,
+      "num": 197378,
+      "word": "台风格美将迎爆发式增强",
+      "onboard_time": 1721784319,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197109,
@@ -5921,6 +5977,22 @@
       "onboard_time": 1721557158,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187334,
+      "num": 462807,
+      "word": "巴黎奥运倒计时2天",
+      "onboard_time": 1721777235,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 187198,
+      "num": 187198,
+      "word": "巴勒斯坦代表签署后多次感激中国",
+      "onboard_time": 1721784078,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 187170,
@@ -7851,14 +7923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132197,
-      "num": 132197,
-      "word": "官方通报中学政教处主任表白学生",
-      "onboard_time": 1721784018,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131656,
       "num": 131656,
       "word": "YG准备推出NextMonster",
@@ -7891,12 +7955,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130376,
-      "num": 130376,
-      "word": "巴勒斯坦代表签署后多次感激中国",
-      "onboard_time": 1721784078,
-      "rank": 48,
-      "category": "国内时政"
+      "raw_hot": 130036,
+      "num": 130036,
+      "word": "中医解释为什么有人会上热下寒",
+      "onboard_time": 1721784799,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 129358,
@@ -7929,6 +7993,14 @@
       "onboard_time": 1721654902,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128643,
+      "num": 128643,
+      "word": "西藏的惊喜太多藏不住了",
+      "onboard_time": 1721785519,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 127843,
@@ -8065,14 +8137,6 @@
       "onboard_time": 1721541919,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 121309,
-      "num": 100863,
-      "word": "巴黎奥运倒计时2天",
-      "onboard_time": 1721777235,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 120467,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1721785539801,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1701650,
+        "num": 1701650,
+        "word": "台湾语文课本文言文删掉了四分之三",
+        "onboard_time": 1721780719,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1356171,
+        "num": 1356171,
+        "word": "谭松韵快把长发焊在头上",
+        "onboard_time": 1721784138,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31594,
+        "num": 1124860,
+        "word": "高质量发展中国行",
+        "onboard_time": 1721720000,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1108920,
+        "num": 1108920,
+        "word": "英国一强奸犯狱中中720万英镑大奖",
+        "onboard_time": 1721777115,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 867764,
+        "num": 867764,
+        "word": "刘畊宏谈定居苏州公园多到超乎想象",
+        "onboard_time": 1721777416,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 704665,
+        "num": 704665,
+        "word": "北京宣言",
+        "onboard_time": 1721782640,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 699580,
+        "num": 699580,
+        "word": "拜登退选后首次公开露面",
+        "onboard_time": 1721780839,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 640594,
+        "num": 640594,
+        "word": "贵州地震",
+        "onboard_time": 1721779699,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503827,
+        "num": 503827,
+        "word": "考上TOP2后我接受了自己是普通人",
+        "onboard_time": 1721780657,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187334,
+        "num": 462807,
+        "word": "巴黎奥运倒计时2天",
+        "onboard_time": 1721777235,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 842458,
+        "num": 461026,
+        "word": "尼坤妹妹被家暴",
+        "onboard_time": 1721775914,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 454167,
+        "num": 454167,
+        "word": "偶遇沈腾一家度假",
+        "onboard_time": 1721776457,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433411,
+        "num": 433411,
+        "word": "22岁的王琳好像油画里走出来的",
+        "onboard_time": 1721776096,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382088,
+        "num": 382088,
+        "word": "金靖文案 小孕妇",
+        "onboard_time": 1721735360,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377045,
+        "num": 377045,
+        "word": "巴黎奥运会首个比赛日",
+        "onboard_time": 1721777357,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 361972,
+        "num": 361972,
+        "word": "这个冰粉摊没有吆喝却生意火爆",
+        "onboard_time": 1721775674,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358852,
+        "num": 358852,
+        "word": "台风格美加强为超强台风",
+        "onboard_time": 1721785278,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353704,
+        "num": 353704,
+        "word": "台风",
+        "onboard_time": 1721778619,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319610,
+        "num": 319610,
+        "word": "金毛没牵绳抓坏路边新车",
+        "onboard_time": 1721778317,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264886,
+        "num": 264886,
+        "word": "台风暴雨高温多预警齐发",
+        "onboard_time": 1721783239,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438602,
+        "num": 264784,
+        "word": "婚纱照发朋友圈被同事阴阳了",
+        "onboard_time": 1721778197,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 254280,
+        "num": 254280,
+        "word": "中央研究开征地方附加税",
+        "onboard_time": 1721777296,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 248822,
+        "num": 248822,
+        "word": "田柾国Jennie金珉奎一起吃烤肉",
+        "onboard_time": 1721778676,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247942,
+        "num": 247942,
+        "word": "韩国瓜农说今年的西瓜白种了",
+        "onboard_time": 1721739499,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247524,
+        "num": 247524,
+        "word": "回春丹帮唱那英",
+        "onboard_time": 1721784680,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242180,
+        "num": 242180,
+        "word": "老板要求我注意微信拉群聊的顺序",
+        "onboard_time": 1721779218,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241757,
+        "num": 241757,
+        "word": "官方通报中学政教处主任表白学生",
+        "onboard_time": 1721784018,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238000,
+        "num": 238000,
+        "word": "台风格美进入24小时警戒线",
+        "onboard_time": 1721744120,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231918,
+        "num": 231918,
+        "word": "恶意满满地救了一只小狗",
+        "onboard_time": 1721781080,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219105,
+        "num": 219105,
+        "word": "发现有个人好像把工作租给我了",
+        "onboard_time": 1721780602,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216863,
+        "num": 216863,
+        "word": "檀健次演技",
+        "onboard_time": 1721784439,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201295,
+        "num": 201295,
+        "word": "韩红 女神孙老师你没回复我",
+        "onboard_time": 1721746580,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199714,
+        "num": 199714,
+        "word": "距巴黎奥运开幕还有2天",
+        "onboard_time": 1721785039,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198750,
+        "num": 198750,
+        "word": "格美",
+        "onboard_time": 1721784618,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197378,
+        "num": 197378,
+        "word": "台风格美将迎爆发式增强",
+        "onboard_time": 1721784319,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196074,
+        "num": 196074,
+        "word": "被失联5年的爸爸联系了",
+        "onboard_time": 1721775914,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187198,
+        "num": 187198,
+        "word": "巴勒斯坦代表签署后多次感激中国",
+        "onboard_time": 1721784078,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 184490,
+        "num": 184490,
+        "word": "北京将迎大到暴雨局地大暴雨",
+        "onboard_time": 1721746041,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182843,
+        "num": 182843,
+        "word": "张杰用镊子给自己拔鱼刺",
+        "onboard_time": 1721746341,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176149,
+        "num": 176149,
+        "word": "地磁暴又要来了",
+        "onboard_time": 1721783419,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 172391,
+        "num": 172391,
+        "word": "网友吐槽aespa上海签售",
+        "onboard_time": 1721782458,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163803,
+        "num": 163803,
+        "word": "宝宝小手拍了下爸爸后背竟留下掌印",
+        "onboard_time": 1721747420,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159054,
+        "num": 159054,
+        "word": "当我连续开15个小时的空调",
+        "onboard_time": 1721734041,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158931,
+        "num": 158931,
+        "word": "旅游是真的要趁早",
+        "onboard_time": 1721748259,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 139196,
+        "num": 139196,
+        "word": "校长回应教师产假时被公示解聘",
+        "onboard_time": 1721746220,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133901,
+        "num": 133901,
+        "word": "九命相柳 相柳下线",
+        "onboard_time": 1721781919,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130036,
+        "num": 130036,
+        "word": "中医解释为什么有人会上热下寒",
+        "onboard_time": 1721784799,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128643,
+        "num": 128643,
+        "word": "西藏的惊喜太多藏不住了",
+        "onboard_time": 1721785519,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 128138,
+        "num": 128138,
+        "word": "广州659分中考生选择读中职",
+        "onboard_time": 1721743281,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 127130,
+        "num": 127130,
+        "word": "这块奥运奖牌时隔24年补发",
+        "onboard_time": 1721783419,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届三中全会决定思维导图#"
+    }
+  }
+}
