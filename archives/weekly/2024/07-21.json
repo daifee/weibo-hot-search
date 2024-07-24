@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721777751965,
+  "endTime": 1721784254042,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -200,6 +200,14 @@
       "word": "人大女博士举报导师为学科带头人",
       "onboard_time": 1721637982,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2095531,
+      "num": 2095531,
+      "word": "台湾语文课本文言文删掉了四分之三",
+      "onboard_time": 1721780719,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -651,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1160102,
+      "num": 1160102,
+      "word": "英国一强奸犯狱中中720万英镑大奖",
+      "onboard_time": 1721777115,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1149792,
       "num": 1137138,
       "word": "杨倩陪母亲走完最后时光",
@@ -771,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1033880,
+      "num": 1033880,
+      "word": "刘畊宏谈定居苏州公园多到超乎想象",
+      "onboard_time": 1721777416,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1028035,
       "num": 876860,
       "word": "迪拜公主霸气公开休夫出轨男",
@@ -804,7 +828,7 @@
     },
     {
       "raw_hot": 993687,
-      "num": 327808,
+      "num": 509734,
       "word": "尼坤妹妹被家暴",
       "onboard_time": 1721775914,
       "rank": 3,
@@ -995,6 +1019,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 868488,
+      "num": 868488,
+      "word": "北京宣言",
+      "onboard_time": 1721782640,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 862902,
       "num": 862902,
       "word": "悉尼一父亲救滚入轨道的婴儿车不幸死亡",
@@ -1115,11 +1147,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 806770,
+      "num": 806770,
+      "word": "拜登退选后首次公开露面",
+      "onboard_time": 1721780839,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 806459,
       "num": 537976,
       "word": "女子被离婚七年的前夫暴力殴打",
       "onboard_time": 1721538077,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 805249,
+      "num": 805249,
+      "word": "贵州地震",
+      "onboard_time": 1721779699,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -1356,7 +1404,7 @@
     },
     {
       "raw_hot": 697144,
-      "num": 327642,
+      "num": 608429,
       "word": "偶遇沈腾一家度假",
       "onboard_time": 1721776457,
       "rank": 6,
@@ -1409,6 +1457,14 @@
       "onboard_time": 1721562560,
       "rank": 3,
       "category": "美食"
+    },
+    {
+      "raw_hot": 684428,
+      "num": 684428,
+      "word": "台风",
+      "onboard_time": 1721605519,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 682118,
@@ -1587,6 +1643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 610139,
+      "num": 266857,
+      "word": "婚纱照发朋友圈被同事阴阳了",
+      "onboard_time": 1721778197,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 606158,
       "num": 606158,
       "word": "陈好宋茜 教授和她骄傲的学生",
@@ -1649,14 +1713,6 @@
       "onboard_time": 1721746761,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 586787,
-      "num": 110918,
-      "word": "英国一强奸犯狱中中720万英镑大奖",
-      "onboard_time": 1721777115,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 585270,
@@ -2019,6 +2075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 497851,
+      "num": 497851,
+      "word": "巴黎奥运会首个比赛日",
+      "onboard_time": 1721777357,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 496255,
       "num": 496255,
       "word": "肖战滑滑梯颠屁股",
@@ -2139,20 +2203,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 470482,
-      "num": 470482,
-      "word": "台风",
-      "onboard_time": 1721605519,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 468028,
       "num": 442988,
       "word": "大哥远停播",
       "onboard_time": 1721614940,
       "rank": 17,
       "category": "网红"
+    },
+    {
+      "raw_hot": 467964,
+      "num": 467964,
+      "word": "金毛没牵绳抓坏路边新车",
+      "onboard_time": 1721778317,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 465394,
@@ -2185,6 +2249,14 @@
       "onboard_time": 1721611160,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 460548,
+      "num": 460548,
+      "word": "这个冰粉摊没有吆喝却生意火爆",
+      "onboard_time": 1721775674,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 460262,
@@ -2739,14 +2811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 370801,
-      "num": 185303,
-      "word": "刘畊宏谈定居苏州公园多到超乎想象",
-      "onboard_time": 1721777416,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 370187,
       "num": 370187,
       "word": "婚礼上被喷酒新娘霸气眼神杀",
@@ -2891,6 +2955,14 @@
       "category": "幽默,综艺"
     },
     {
+      "raw_hot": 353705,
+      "num": 353705,
+      "word": "22岁的王琳好像油画里走出来的",
+      "onboard_time": 1721776096,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 353258,
       "num": 353258,
       "word": "虞书欣和她的七个小i人",
@@ -2937,6 +3009,14 @@
       "onboard_time": 1721638822,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 348419,
+      "num": 348419,
+      "word": "中央研究开征地方附加税",
+      "onboard_time": 1721777296,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 348234,
@@ -3323,6 +3403,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 299441,
+      "num": 299441,
+      "word": "田柾国Jennie金珉奎一起吃烤肉",
+      "onboard_time": 1721778676,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 298633,
       "num": 298633,
       "word": "歌手帮唱 苏打绿",
@@ -3449,6 +3537,14 @@
       "onboard_time": 1721704280,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 289617,
+      "num": 260215,
+      "word": "老板要求我注意微信拉群聊的顺序",
+      "onboard_time": 1721779218,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 288763,
@@ -3617,6 +3713,14 @@
       "onboard_time": 1721487502,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 268015,
+      "num": 268015,
+      "word": "考上TOP2后我接受了自己是普通人",
+      "onboard_time": 1721780657,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 267777,
@@ -3939,6 +4043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 246090,
+      "num": 246090,
+      "word": "台风暴雨高温多预警齐发",
+      "onboard_time": 1721783239,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246053,
       "num": 246053,
       "word": "小猫以为自己生了小狗",
@@ -3985,6 +4097,14 @@
       "onboard_time": 1721565259,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 242548,
+      "num": 242548,
+      "word": "被失联5年的爸爸联系了",
+      "onboard_time": 1721775914,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 242376,
@@ -4083,6 +4203,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238634,
+      "num": 238634,
+      "word": "发现有个人好像把工作租给我了",
+      "onboard_time": 1721780602,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 238518,
+      "num": 238518,
+      "word": "恶意满满地救了一只小狗",
+      "onboard_time": 1721781080,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 238269,
       "num": 234674,
       "word": "谭维维说歌手的赛制好搞笑",
@@ -4097,6 +4233,14 @@
       "onboard_time": 1721651603,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 235463,
+      "num": 406569,
+      "word": "台风格美进入24小时警戒线",
+      "onboard_time": 1721744120,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235093,
@@ -4576,6 +4720,14 @@
       "word": "有这么凄惨的女主进入内娱",
       "onboard_time": 1721625322,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 214966,
+      "num": 214966,
+      "word": "谭松韵快把长发焊在头上",
+      "onboard_time": 1721784138,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -5651,14 +5803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190476,
-      "num": 406569,
-      "word": "台风格美进入24小时警戒线",
-      "onboard_time": 1721744120,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190214,
       "num": 190214,
       "word": "我国载人登月火箭有新突破",
@@ -6035,6 +6179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180721,
+      "num": 180721,
+      "word": "地磁暴又要来了",
+      "onboard_time": 1721783419,
+      "rank": 33,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 180250,
       "num": 357413,
       "word": "特朗普遭枪击后首次现身竞选集会",
@@ -6129,6 +6281,14 @@
       "onboard_time": 1721609180,
       "rank": 43,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 176808,
+      "num": 176808,
+      "word": "多地受台风格美影响将有大到暴雨",
+      "onboard_time": 1721783239,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176668,
@@ -6243,12 +6403,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174495,
+      "num": 174495,
+      "word": "李相夷 意难平",
+      "onboard_time": 1721779159,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174468,
       "num": 174468,
       "word": "航海王官方入驻微博",
       "onboard_time": 1721625680,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 174161,
+      "num": 174161,
+      "word": "网友吐槽aespa上海签售",
+      "onboard_time": 1721782458,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 174068,
@@ -6419,14 +6595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171004,
-      "num": 108075,
-      "word": "被失联5年的爸爸联系了",
-      "onboard_time": 1721775914,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 170943,
       "num": 174830,
       "word": "胡锡进总亏损升至9.33万",
@@ -6595,6 +6763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166933,
+      "num": 515538,
+      "word": "宝宝小手拍了下爸爸后背竟留下掌印",
+      "onboard_time": 1721747420,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166755,
       "num": 166755,
       "word": "第六周最佳选手今屿",
@@ -6619,6 +6795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166463,
+      "num": 166463,
+      "word": "这块奥运奖牌时隔24年补发",
+      "onboard_time": 1721783419,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166295,
       "num": 166295,
       "word": "这3件事或是卵巢衰老信号",
@@ -6633,6 +6817,14 @@
       "onboard_time": 1721573063,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 165779,
+      "num": 165779,
+      "word": "九命相柳 相柳下线",
+      "onboard_time": 1721781919,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 165575,
@@ -6699,6 +6891,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 163344,
+      "num": 163344,
+      "word": "iPhoneSE4或10月量产",
+      "onboard_time": 1721780537,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 163250,
       "num": 163250,
       "word": "孙颖莎的大心脏也是委屈撑大的",
@@ -6753,14 +6953,6 @@
       "onboard_time": 1721496975,
       "rank": 24,
       "category": "美食"
-    },
-    {
-      "raw_hot": 160612,
-      "num": 515538,
-      "word": "宝宝小手拍了下爸爸后背竟留下掌印",
-      "onboard_time": 1721747420,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160269,
@@ -7508,7 +7700,7 @@
     },
     {
       "raw_hot": 136726,
-      "num": 106070,
+      "num": 129286,
       "word": "幼儿园回应拉横幅庆祝学生考上清华",
       "onboard_time": 1721768531,
       "rank": 47,
@@ -7547,6 +7739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135243,
+      "num": 135243,
+      "word": "投喂流浪猫被判赔24万案将宣判",
+      "onboard_time": 1721766311,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134558,
       "num": 134558,
       "word": "宝马销售回应不交车",
@@ -7569,6 +7769,14 @@
       "onboard_time": 1721749879,
       "rank": 29,
       "category": "艺人,读书作家"
+    },
+    {
+      "raw_hot": 133843,
+      "num": 133843,
+      "word": "洗衣凝珠的袋子哪去了",
+      "onboard_time": 1721777056,
+      "rank": 43,
+      "category": "科学科普"
     },
     {
       "raw_hot": 133741,
@@ -7643,6 +7851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132197,
+      "num": 132197,
+      "word": "官方通报中学政教处主任表白学生",
+      "onboard_time": 1721784018,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131656,
       "num": 131656,
       "word": "YG准备推出NextMonster",
@@ -7673,6 +7889,14 @@
       "onboard_time": 1721486062,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130376,
+      "num": 130376,
+      "word": "巴勒斯坦代表签署后多次感激中国",
+      "onboard_time": 1721784078,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 129358,
@@ -8107,14 +8331,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 104260,
-      "num": 104260,
-      "word": "投喂流浪猫被判赔24万案将宣判",
-      "onboard_time": 1721766311,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 102887,
       "num": 102887,
       "word": "朱志鑫组二公小考第一",
@@ -8137,14 +8353,6 @@
       "onboard_time": 1721526739,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 100381,
-      "num": 100381,
-      "word": "22岁的王琳好像油画里走出来的",
-      "onboard_time": 1721776096,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 100055,
@@ -8177,14 +8385,6 @@
       "onboard_time": 1721576419,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 98779,
-      "num": 182138,
-      "word": "这个冰粉摊没有吆喝却生意火爆",
-      "onboard_time": 1721775674,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98767,
@@ -8539,14 +8739,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 68859,
-      "num": 68859,
-      "word": "巴黎奥运会首个比赛日",
-      "onboard_time": 1721777357,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 68784,
       "num": 471463,
       "word": "性骚扰的本质是权力不平等",
@@ -8627,28 +8819,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 66486,
-      "num": 66486,
-      "word": "中央研究开征地方附加税",
-      "onboard_time": 1721777296,
-      "rank": 42,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 65180,
       "num": 65180,
       "word": "碰谁都不能碰巨蟹座",
       "onboard_time": 1721604738,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 65137,
-      "num": 65137,
-      "word": "洗衣凝珠的袋子哪去了",
-      "onboard_time": 1721777056,
-      "rank": 43,
-      "category": "科学科普"
     },
     {
       "raw_hot": 64494,
@@ -9000,6 +9176,14 @@
       "word": "00后姑娘试用期被特批15天休假",
       "onboard_time": 1721666779,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43564,
+      "num": 510514,
+      "word": "买海鲜担心短斤缺两浙江出手了",
+      "onboard_time": 1721777596,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -9369,14 +9553,6 @@
       "onboard_time": 1721587933,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 24207,
-      "num": 110040,
-      "word": "买海鲜担心短斤缺两浙江出手了",
-      "onboard_time": 1721777596,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24108,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1721784254042,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2095531,
+        "num": 2095531,
+        "word": "台湾语文课本文言文删掉了四分之三",
+        "onboard_time": 1721780719,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1160102,
+        "num": 1160102,
+        "word": "英国一强奸犯狱中中720万英镑大奖",
+        "onboard_time": 1721777115,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31311,
+        "num": 1087481,
+        "word": "高质量发展中国行",
+        "onboard_time": 1721720000,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1033880,
+        "num": 1033880,
+        "word": "刘畊宏谈定居苏州公园多到超乎想象",
+        "onboard_time": 1721777416,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 868488,
+        "num": 868488,
+        "word": "北京宣言",
+        "onboard_time": 1721782640,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 806770,
+        "num": 806770,
+        "word": "拜登退选后首次公开露面",
+        "onboard_time": 1721780839,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 805249,
+        "num": 805249,
+        "word": "贵州地震",
+        "onboard_time": 1721779699,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 684428,
+        "num": 684428,
+        "word": "台风",
+        "onboard_time": 1721778619,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 608429,
+        "num": 608429,
+        "word": "偶遇沈腾一家度假",
+        "onboard_time": 1721776457,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43564,
+        "num": 510514,
+        "word": "买海鲜担心短斤缺两浙江出手了",
+        "onboard_time": 1721777596,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 982341,
+        "num": 509734,
+        "word": "尼坤妹妹被家暴",
+        "onboard_time": 1721775914,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497851,
+        "num": 497851,
+        "word": "巴黎奥运会首个比赛日",
+        "onboard_time": 1721777357,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 467964,
+        "num": 467964,
+        "word": "金毛没牵绳抓坏路边新车",
+        "onboard_time": 1721778317,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460548,
+        "num": 460548,
+        "word": "这个冰粉摊没有吆喝却生意火爆",
+        "onboard_time": 1721775674,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458728,
+        "num": 458728,
+        "word": "金靖文案 小孕妇",
+        "onboard_time": 1721735360,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353705,
+        "num": 353705,
+        "word": "22岁的王琳好像油画里走出来的",
+        "onboard_time": 1721776096,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348419,
+        "num": 348419,
+        "word": "中央研究开征地方附加税",
+        "onboard_time": 1721777296,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 321090,
+        "num": 321090,
+        "word": "韩国瓜农说今年的西瓜白种了",
+        "onboard_time": 1721739499,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299441,
+        "num": 299441,
+        "word": "田柾国Jennie金珉奎一起吃烤肉",
+        "onboard_time": 1721778676,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268015,
+        "num": 268015,
+        "word": "考上TOP2后我接受了自己是普通人",
+        "onboard_time": 1721780657,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 610139,
+        "num": 266857,
+        "word": "婚纱照发朋友圈被同事阴阳了",
+        "onboard_time": 1721778197,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 289617,
+        "num": 260215,
+        "word": "老板要求我注意微信拉群聊的顺序",
+        "onboard_time": 1721779218,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246090,
+        "num": 246090,
+        "word": "台风暴雨高温多预警齐发",
+        "onboard_time": 1721783239,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242548,
+        "num": 242548,
+        "word": "被失联5年的爸爸联系了",
+        "onboard_time": 1721775914,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238634,
+        "num": 238634,
+        "word": "发现有个人好像把工作租给我了",
+        "onboard_time": 1721780602,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238518,
+        "num": 238518,
+        "word": "恶意满满地救了一只小狗",
+        "onboard_time": 1721781080,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235463,
+        "num": 235463,
+        "word": "台风格美进入24小时警戒线",
+        "onboard_time": 1721744120,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223954,
+        "num": 223954,
+        "word": "当我连续开15个小时的空调",
+        "onboard_time": 1721734041,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215112,
+        "num": 215112,
+        "word": "北京将迎大到暴雨局地大暴雨",
+        "onboard_time": 1721746041,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214966,
+        "num": 214966,
+        "word": "谭松韵快把长发焊在头上",
+        "onboard_time": 1721784138,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203626,
+        "num": 203626,
+        "word": "韩红 女神孙老师你没回复我",
+        "onboard_time": 1721746580,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198973,
+        "num": 198973,
+        "word": "校长回应教师产假时被公示解聘",
+        "onboard_time": 1721746220,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198815,
+        "num": 198815,
+        "word": "张杰用镊子给自己拔鱼刺",
+        "onboard_time": 1721746341,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180721,
+        "num": 180721,
+        "word": "地磁暴又要来了",
+        "onboard_time": 1721783419,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 176808,
+        "num": 176808,
+        "word": "多地受台风格美影响将有大到暴雨",
+        "onboard_time": 1721783239,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174495,
+        "num": 174495,
+        "word": "李相夷 意难平",
+        "onboard_time": 1721779159,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174161,
+        "num": 174161,
+        "word": "网友吐槽aespa上海签售",
+        "onboard_time": 1721782458,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 166933,
+        "num": 166933,
+        "word": "宝宝小手拍了下爸爸后背竟留下掌印",
+        "onboard_time": 1721747420,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166463,
+        "num": 166463,
+        "word": "这块奥运奖牌时隔24年补发",
+        "onboard_time": 1721783419,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165779,
+        "num": 165779,
+        "word": "九命相柳 相柳下线",
+        "onboard_time": 1721781919,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165495,
+        "num": 165495,
+        "word": "旅游是真的要趁早",
+        "onboard_time": 1721748259,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 163552,
+        "num": 163552,
+        "word": "广州659分中考生选择读中职",
+        "onboard_time": 1721743281,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 163344,
+        "num": 163344,
+        "word": "iPhoneSE4或10月量产",
+        "onboard_time": 1721780537,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 151987,
+        "num": 151987,
+        "word": "拜登真实健康状况竟这么糟",
+        "onboard_time": 1721717181,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 149655,
+        "num": 149655,
+        "word": "空空日记掉了200万粉丝",
+        "onboard_time": 1721736259,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 135243,
+        "num": 135243,
+        "word": "投喂流浪猫被判赔24万案将宣判",
+        "onboard_time": 1721766311,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133843,
+        "num": 133843,
+        "word": "洗衣凝珠的袋子哪去了",
+        "onboard_time": 1721777056,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 132197,
+        "num": 132197,
+        "word": "官方通报中学政教处主任表白学生",
+        "onboard_time": 1721784018,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130376,
+        "num": 130376,
+        "word": "巴勒斯坦代表签署后多次感激中国",
+        "onboard_time": 1721784078,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 129286,
+        "num": 129286,
+        "word": "幼儿园回应拉横幅庆祝学生考上清华",
+        "onboard_time": 1721768531,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届三中全会决定思维导图#"
+    }
+  }
+}
