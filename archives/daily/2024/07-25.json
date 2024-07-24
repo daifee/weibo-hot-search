@@ -1,6 +1,6 @@
 {
   "startTime": 1721838296901,
-  "endTime": 1721855971283,
+  "endTime": 1721856888171,
   "band_list": [
     {
       "raw_hot": 1358111,
@@ -515,20 +515,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30760,
+      "num": 28190,
+      "word": "北京暴雨一秒入夜",
+      "onboard_time": 1721847852,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30592,
       "num": 37491,
       "word": "音乐缘计划",
       "onboard_time": 1721844614,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 29828,
-      "num": 28190,
-      "word": "北京暴雨一秒入夜",
-      "onboard_time": 1721847852,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28177,
@@ -547,8 +547,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 24510,
-      "num": 21578,
+      "raw_hot": 26133,
+      "num": 26133,
+      "word": "身体排湿的10个表现是什么",
+      "onboard_time": 1721853971,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 24879,
+      "num": 24879,
       "word": "田曦薇的眼睛就是尺",
       "onboard_time": 1721852831,
       "rank": 42,
@@ -571,16 +579,8 @@
       "category": "自然"
     },
     {
-      "raw_hot": 20203,
-      "num": 20681,
-      "word": "身体排湿的10个表现是什么",
-      "onboard_time": 1721853971,
-      "rank": 34,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 19508,
-      "num": 21636,
+      "raw_hot": 19998,
+      "num": 21712,
       "word": "为何红斑狼疮尤其偏爱女性",
       "onboard_time": 1721850490,
       "rank": 38,
@@ -601,6 +601,14 @@
       "onboard_time": 1721844193,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15985,
+      "num": 21695,
+      "word": "网友称哈尔滨中央大街成烧烤一条街",
+      "onboard_time": 1721856671,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 15843,
