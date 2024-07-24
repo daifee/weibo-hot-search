@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721839214029,
+  "endTime": 1721841464153,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -3617,6 +3617,14 @@
       "onboard_time": 1721614281,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 369667,
+      "num": 137740,
+      "word": "男子野泳消失找到后同事跪倒痛哭",
+      "onboard_time": 1721838318,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 369267,
@@ -8635,6 +8643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164594,
+      "num": 164594,
+      "word": "巴黎奥运会开幕式时长",
+      "onboard_time": 1721835860,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164398,
       "num": 164398,
       "word": "拿取都不会乱的收纳技巧",
@@ -9155,6 +9171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 152016,
+      "num": 86201,
+      "word": "法国vs美国",
+      "onboard_time": 1721839635,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151762,
       "num": 151762,
       "word": "魏大勋竹叶新中式长衫",
@@ -9273,14 +9297,6 @@
       "onboard_time": 1721827160,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 148643,
-      "num": 148643,
-      "word": "巴黎奥运会开幕式时长",
-      "onboard_time": 1721835860,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 148398,
@@ -9665,14 +9681,6 @@
       "onboard_time": 1721561178,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 137740,
-      "num": 137740,
-      "word": "男子野泳消失找到后同事跪倒痛哭",
-      "onboard_time": 1721838318,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137695,
@@ -10971,6 +10979,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 72168,
+      "num": 86177,
+      "word": "台风格美登陆台湾宜兰",
+      "onboard_time": 1721840355,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71229,
       "num": 361441,
       "word": "花花把自己团成了三角饭团",
@@ -11259,6 +11275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58054,
+      "num": 86100,
+      "word": "知名痔疮药涨价20多倍还断货",
+      "onboard_time": 1721840655,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 57553,
       "num": 474527,
       "word": "范丞丞大热天玩火",
@@ -11419,6 +11443,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 49713,
+      "num": 86035,
+      "word": "陕师大通报教师疑骚扰女生",
+      "onboard_time": 1721839336,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49707,
       "num": 49707,
       "word": "咒术回战 要不还是别画了",
@@ -11441,6 +11473,22 @@
       "onboard_time": 1721523798,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49249,
+      "num": 86025,
+      "word": "国乒女团签表",
+      "onboard_time": 1721840956,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 47878,
+      "num": 86012,
+      "word": "国乒女团vs埃及女团",
+      "onboard_time": 1721841135,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 47613,
@@ -12152,6 +12200,14 @@
       "word": "坚持零容忍才能斩断高校性骚扰",
       "onboard_time": 1721682850,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17999,
+      "num": 169791,
+      "word": "浙江姑娘在加沙开了三家免费中国诊所",
+      "onboard_time": 1721840474,
+      "rank": 9,
       "category": "社会新闻"
     },
     {

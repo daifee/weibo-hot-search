@@ -1,6 +1,6 @@
 {
   "startTime": 1721838296901,
-  "endTime": 1721839214029,
+  "endTime": 1721841464153,
   "band_list": [
     {
       "raw_hot": 1358111,
@@ -88,6 +88,14 @@
       "word": "台风路径",
       "onboard_time": 1721829740,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369667,
+      "num": 137740,
+      "word": "男子野泳消失找到后同事跪倒痛哭",
+      "onboard_time": 1721838318,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -203,20 +211,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164594,
+      "num": 164594,
+      "word": "巴黎奥运会开幕式时长",
+      "onboard_time": 1721835860,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 152016,
+      "num": 86201,
+      "word": "法国vs美国",
+      "onboard_time": 1721839635,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151738,
       "num": 151738,
       "word": "在健身房锻炼被人开走了",
       "onboard_time": 1721832081,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 148643,
-      "num": 148643,
-      "word": "巴黎奥运会开幕式时长",
-      "onboard_time": 1721835860,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 144419,
@@ -249,14 +265,6 @@
       "onboard_time": 1721820558,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 137740,
-      "num": 137740,
-      "word": "男子野泳消失找到后同事跪倒痛哭",
-      "onboard_time": 1721838318,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136069,
@@ -403,12 +411,52 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72168,
+      "num": 86177,
+      "word": "台风格美登陆台湾宜兰",
+      "onboard_time": 1721840355,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64842,
       "num": 111846,
       "word": "SEVENTEEN十月开启世巡",
       "onboard_time": 1721828361,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 58054,
+      "num": 86100,
+      "word": "知名痔疮药涨价20多倍还断货",
+      "onboard_time": 1721840655,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 49713,
+      "num": 86035,
+      "word": "陕师大通报教师疑骚扰女生",
+      "onboard_time": 1721839336,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49249,
+      "num": 86025,
+      "word": "国乒女团签表",
+      "onboard_time": 1721840956,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 47878,
+      "num": 86012,
+      "word": "国乒女团vs埃及女团",
+      "onboard_time": 1721841135,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 30851,
@@ -433,6 +481,14 @@
       "onboard_time": 1721838618,
       "rank": 9,
       "category": "自然"
+    },
+    {
+      "raw_hot": 17999,
+      "num": 169791,
+      "word": "浙江姑娘在加沙开了三家免费中国诊所",
+      "onboard_time": 1721840474,
+      "rank": 9,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
