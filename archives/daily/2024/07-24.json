@@ -1,6 +1,6 @@
 {
   "startTime": 1721752056115,
-  "endTime": 1721810259872,
+  "endTime": 1721812859614,
   "band_list": [
     {
       "raw_hot": 2095531,
@@ -17,6 +17,14 @@
       "onboard_time": 1721785879,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1748274,
+      "num": 1748274,
+      "word": "实拍禁止中韩客人入内日本餐厅",
+      "onboard_time": 1721807240,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1688878,
@@ -123,19 +131,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1169655,
+      "num": 1169655,
+      "word": "喜欢你我也是 婚纱照",
+      "onboard_time": 1721810419,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1160102,
       "num": 1160102,
       "word": "英国一强奸犯狱中中720万英镑大奖",
       "onboard_time": 1721777115,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1139202,
-      "num": 1182272,
-      "word": "实拍禁止中韩客人入内日本餐厅",
-      "onboard_time": 1721807240,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -209,6 +217,14 @@
       "onboard_time": 1721786418,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 919588,
+      "num": 919588,
+      "word": "武汉萝卜快跑涨价",
+      "onboard_time": 1721809220,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 891665,
@@ -539,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 484741,
+      "num": 484741,
+      "word": "乌克兰外长访华",
+      "onboard_time": 1721809759,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 484585,
       "num": 484585,
       "word": "暑期档唯一家庭剧来了",
@@ -683,14 +707,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 337624,
-      "num": 337624,
-      "word": "武汉萝卜快跑涨价",
-      "onboard_time": 1721809220,
-      "rank": 46,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 335250,
       "num": 335250,
       "word": "陕师大回应副教授发不雅照骚扰女生",
@@ -747,20 +763,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 310146,
+      "num": 310146,
+      "word": "王一博出席乐华演唱会",
+      "onboard_time": 1721811439,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 305075,
       "num": 757214,
       "word": "秦志远",
       "onboard_time": 1721729119,
       "rank": 16,
       "category": "网红"
-    },
-    {
-      "raw_hot": 304672,
-      "num": 304672,
-      "word": "乌克兰外长访华",
-      "onboard_time": 1721809759,
-      "rank": 22,
-      "category": "国外时政"
     },
     {
       "raw_hot": 304191,
@@ -833,6 +849,14 @@
       "onboard_time": 1721789779,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282484,
+      "num": 482644,
+      "word": "特朗普停止举行大型户外竞选集会",
+      "onboard_time": 1721807480,
+      "rank": 32,
+      "category": "国外时政"
     },
     {
       "raw_hot": 282145,
@@ -923,6 +947,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 247086,
+      "num": 247086,
+      "word": "孙颖莎看到pin就走不动了",
+      "onboard_time": 1721809639,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 242548,
       "num": 242548,
       "word": "被失联5年的爸爸联系了",
@@ -953,6 +985,14 @@
       "onboard_time": 1721802859,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239926,
+      "num": 229823,
+      "word": "生命树 大女主剧",
+      "onboard_time": 1721812580,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 238634,
@@ -1035,12 +1075,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 229961,
-      "num": 229961,
-      "word": "特朗普停止举行大型户外竞选集会",
-      "onboard_time": 1721807480,
-      "rank": 32,
-      "category": "国外时政"
+      "raw_hot": 227210,
+      "num": 227210,
+      "word": "冠军路体彩店老板劝退彩民",
+      "onboard_time": 1721808019,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225686,
@@ -1049,6 +1089,14 @@
       "onboard_time": 1721788219,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 225631,
+      "num": 225631,
+      "word": "时代少年团 新歌",
+      "onboard_time": 1721812338,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 224383,
@@ -1081,6 +1129,14 @@
       "onboard_time": 1721789178,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 217461,
+      "num": 210057,
+      "word": "席琳迪翁 奥运开幕式",
+      "onboard_time": 1721812098,
+      "rank": 32,
+      "category": "作品衍生,体育"
     },
     {
       "raw_hot": 216863,
@@ -1139,12 +1195,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213049,
+      "num": 207927,
+      "word": "沈腾马丽王源李晨同框合拍",
+      "onboard_time": 1721812460,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 212872,
       "num": 212872,
       "word": "他是中国首位奥运会日夺3金的运动员",
       "onboard_time": 1721788038,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211323,
+      "num": 211323,
+      "word": "人民币不开户也可以买美股",
+      "onboard_time": 1721811500,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 211117,
@@ -1203,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200981,
+      "num": 200981,
+      "word": "法国获2030冬奥会举办权",
+      "onboard_time": 1721812400,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199803,
       "num": 199803,
       "word": "资深程序员已经开始用AI干活了",
@@ -1251,14 +1331,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 195885,
-      "num": 195885,
-      "word": "孙颖莎看到pin就走不动了",
-      "onboard_time": 1721809639,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 194903,
       "num": 193902,
       "word": "张若昀 三十岁也是相信光的年纪",
@@ -1281,14 +1353,6 @@
       "onboard_time": 1721784799,
       "rank": 46,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 189999,
-      "num": 189999,
-      "word": "冠军路体彩店老板劝退彩民",
-      "onboard_time": 1721808019,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189316,
@@ -1329,6 +1393,30 @@
       "onboard_time": 1721806700,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186663,
+      "num": 186663,
+      "word": "夏之光被叫叔叔",
+      "onboard_time": 1721811920,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 184821,
+      "num": 184821,
+      "word": "卓沅一款球场十万个为什么",
+      "onboard_time": 1721811139,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 184584,
+      "num": 184584,
+      "word": "石家庄暴雨",
+      "onboard_time": 1721809639,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183605,
@@ -1387,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174647,
+      "num": 174647,
+      "word": "张信哲向上博捐赠12件服饰",
+      "onboard_time": 1721811199,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174495,
       "num": 174495,
       "word": "李相夷 意难平",
@@ -1433,6 +1529,14 @@
       "onboard_time": 1721781919,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165631,
+      "num": 165631,
+      "word": "颖儿金晨同游马尔代夫",
+      "onboard_time": 1721810840,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 164279,
@@ -1505,6 +1609,22 @@
       "onboard_time": 1721788279,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151410,
+      "num": 151410,
+      "word": "公孙离 无双皮肤",
+      "onboard_time": 1721812820,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 150490,
+      "num": 150490,
+      "word": "下班时间不要叫我纪老师",
+      "onboard_time": 1721811979,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 145106,
@@ -1747,6 +1867,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 91499,
+      "num": 1003798,
+      "word": "暴雨天气这9件事千万要注意",
+      "onboard_time": 1721811620,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89766,
       "num": 107604,
       "word": "巨蟹座藏在心里的小秘密",
@@ -1849,6 +1977,14 @@
       "onboard_time": 1721777718,
       "rank": 39,
       "category": "军事"
+    },
+    {
+      "raw_hot": 74880,
+      "num": 530981,
+      "word": "陈震暴力测试折叠手机",
+      "onboard_time": 1721808500,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 74706,
@@ -1971,12 +2107,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47713,
-      "num": 530981,
-      "word": "陈震暴力测试折叠手机",
-      "onboard_time": 1721808500,
-      "rank": 21,
-      "category": "数码"
+      "raw_hot": 47613,
+      "num": 225647,
+      "word": "蒙牛美团洪荒之力送金",
+      "onboard_time": 1721810479,
+      "rank": 27,
+      "category": "美食,体育"
     },
     {
       "raw_hot": 46482,
@@ -2057,6 +2193,14 @@
       "onboard_time": 1721720000,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 30285,
+      "num": 220303,
+      "word": "哥伦比亚劫匪伪装警察抢劫珠宝店",
+      "onboard_time": 1721812519,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27644,
@@ -2183,6 +2327,9 @@
     },
     {
       "word": "#二十届三中全会决定学习笔记#"
+    },
+    {
+      "word": "#总书记的体育情怀#"
     }
   ]
 }

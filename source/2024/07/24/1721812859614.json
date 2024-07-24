@@ -1,0 +1,410 @@
+{
+  "runTime": 1721812859614,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1748274,
+        "num": 1748274,
+        "word": "实拍禁止中韩客人入内日本餐厅",
+        "onboard_time": 1721807240,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1169655,
+        "num": 1169655,
+        "word": "喜欢你我也是 婚纱照",
+        "onboard_time": 1721810419,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91499,
+        "num": 1003798,
+        "word": "暴雨天气这9件事千万要注意",
+        "onboard_time": 1721811620,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 919588,
+        "num": 919588,
+        "word": "武汉萝卜快跑涨价",
+        "onboard_time": 1721809220,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 741563,
+        "num": 741563,
+        "word": "浙江母女双双确诊红斑狼疮",
+        "onboard_time": 1721802680,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609968,
+        "num": 609968,
+        "word": "李现拒绝出演高中生",
+        "onboard_time": 1721801900,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 561307,
+        "num": 561307,
+        "word": "奶茶店为四五十岁女性设熬煮岗",
+        "onboard_time": 1721795661,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538499,
+        "num": 538499,
+        "word": "台风红色预警发布",
+        "onboard_time": 1721791640,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484741,
+        "num": 484741,
+        "word": "乌克兰外长访华",
+        "onboard_time": 1721809759,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 282484,
+        "num": 482644,
+        "word": "特朗普停止举行大型户外竞选集会",
+        "onboard_time": 1721807480,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 709948,
+        "num": 482643,
+        "word": "刘冲搂着张婧仪出门",
+        "onboard_time": 1721799620,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 481126,
+        "num": 481126,
+        "word": "檀健次是演爽了观众也哭死了",
+        "onboard_time": 1721806160,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 452731,
+        "num": 452731,
+        "word": "北京暴雨",
+        "onboard_time": 1721800820,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426225,
+        "num": 426225,
+        "word": "樊振东爆改巴黎纸板床",
+        "onboard_time": 1721800700,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 410205,
+        "num": 410205,
+        "word": "NewJeans父母发声",
+        "onboard_time": 1721806339,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74880,
+        "num": 401114,
+        "word": "陈震暴力测试折叠手机",
+        "onboard_time": 1721808500,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 392426,
+        "num": 392426,
+        "word": "尼泊尔坠机事故已致22人丧生",
+        "onboard_time": 1721803099,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356320,
+        "num": 356320,
+        "word": "贾玲安藤樱 杂志",
+        "onboard_time": 1721801959,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 336474,
+        "num": 336474,
+        "word": "美国一华裔女子遛娃时遭性侵殴打",
+        "onboard_time": 1721805920,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322638,
+        "num": 322638,
+        "word": "田曦薇王安宇居然认识10年了",
+        "onboard_time": 1721805200,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310146,
+        "num": 310146,
+        "word": "王一博出席乐华演唱会",
+        "onboard_time": 1721811439,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 250143,
+        "num": 250143,
+        "word": "书亦烧仙草声明",
+        "onboard_time": 1721808860,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 247086,
+        "num": 247086,
+        "word": "孙颖莎看到pin就走不动了",
+        "onboard_time": 1721809639,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242650,
+        "num": 242650,
+        "word": "生命树 杨紫胡歌",
+        "onboard_time": 1721796799,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230427,
+        "num": 230427,
+        "word": "曝萧亚轩男友是假荷兰富二代",
+        "onboard_time": 1721807300,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239926,
+        "num": 229823,
+        "word": "生命树 大女主剧",
+        "onboard_time": 1721812580,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227210,
+        "num": 227210,
+        "word": "冠军路体彩店老板劝退彩民",
+        "onboard_time": 1721808019,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47613,
+        "num": 225647,
+        "word": "蒙牛美团洪荒之力送金",
+        "onboard_time": 1721810479,
+        "rank": 27,
+        "category": "美食,体育"
+      },
+      {
+        "raw_hot": 225631,
+        "num": 225631,
+        "word": "时代少年团 新歌",
+        "onboard_time": 1721812338,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 30285,
+        "num": 220303,
+        "word": "哥伦比亚劫匪伪装警察抢劫珠宝店",
+        "onboard_time": 1721812519,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215951,
+        "num": 215951,
+        "word": "乐华家族演唱会全阵容官宣",
+        "onboard_time": 1721809699,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 211323,
+        "num": 211323,
+        "word": "人民币不开户也可以买美股",
+        "onboard_time": 1721811500,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 217461,
+        "num": 210057,
+        "word": "席琳迪翁 奥运开幕式",
+        "onboard_time": 1721812098,
+        "rank": 32,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 213049,
+        "num": 207927,
+        "word": "沈腾马丽王源李晨同框合拍",
+        "onboard_time": 1721812460,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203964,
+        "num": 203964,
+        "word": "歌王之战官宣张杰",
+        "onboard_time": 1721795302,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200981,
+        "num": 200981,
+        "word": "法国获2030冬奥会举办权",
+        "onboard_time": 1721812400,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188370,
+        "num": 188370,
+        "word": "以为很干净实际很脏的次抛用品",
+        "onboard_time": 1721801839,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 186663,
+        "num": 186663,
+        "word": "夏之光被叫叔叔",
+        "onboard_time": 1721811920,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185666,
+        "num": 185666,
+        "word": "台风格美加强为超强台风",
+        "onboard_time": 1721785278,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184821,
+        "num": 184821,
+        "word": "卓沅一款球场十万个为什么",
+        "onboard_time": 1721811139,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184584,
+        "num": 184584,
+        "word": "石家庄暴雨",
+        "onboard_time": 1721809639,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182905,
+        "num": 182905,
+        "word": "陕师大回应副教授发不雅照骚扰女生",
+        "onboard_time": 1721799440,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176195,
+        "num": 176195,
+        "word": "美国男子强暴14岁少女判11年",
+        "onboard_time": 1721791640,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174647,
+        "num": 174647,
+        "word": "张信哲向上博捐赠12件服饰",
+        "onboard_time": 1721811199,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170448,
+        "num": 170448,
+        "word": "暑期档唯一家庭剧来了",
+        "onboard_time": 1721803219,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167136,
+        "num": 167136,
+        "word": "宋雨琦穿的好辣",
+        "onboard_time": 1721804120,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165631,
+        "num": 165631,
+        "word": "颖儿金晨同游马尔代夫",
+        "onboard_time": 1721810840,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153503,
+        "num": 153503,
+        "word": "台风",
+        "onboard_time": 1721778619,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151410,
+        "num": 151410,
+        "word": "公孙离 无双皮肤",
+        "onboard_time": 1721812820,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150490,
+        "num": 150490,
+        "word": "下班时间不要叫我纪老师",
+        "onboard_time": 1721811979,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的体育情怀#"
+    }
+  }
+}
