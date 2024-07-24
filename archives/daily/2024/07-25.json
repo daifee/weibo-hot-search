@@ -1,6 +1,6 @@
 {
   "startTime": 1721838296901,
-  "endTime": 1721849675906,
+  "endTime": 1721852423006,
   "band_list": [
     {
       "raw_hot": 1358111,
@@ -331,6 +331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111732,
+      "num": 45110,
+      "word": "特朗普遇袭事件出现最新视频",
+      "onboard_time": 1721846532,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 109988,
       "num": 121199,
       "word": "女子时隔25年两次落水被同一人救起",
@@ -395,14 +403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 91703,
-      "num": 45110,
-      "word": "特朗普遇袭事件出现最新视频",
-      "onboard_time": 1721846532,
-      "rank": 13,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 89332,
       "num": 120984,
       "word": "阿根廷国奥vs摩洛哥国奥",
@@ -447,6 +447,14 @@
       "num": 120868,
       "word": "男子川藏线偶遇大爷竟是00后",
       "onboard_time": 1721823439,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66602,
+      "num": 66602,
+      "word": "妻子买西瓜发生纠纷男子捅伤瓜贩",
+      "onboard_time": 1721848331,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -523,28 +531,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27540,
+      "num": 25858,
+      "word": "北京暴雨一秒入夜",
+      "onboard_time": 1721847852,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27139,
       "num": 376981,
       "word": "马龙回应任奥运旗手",
       "onboard_time": 1721829622,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 25373,
-      "num": 25373,
-      "word": "妻子买西瓜发生纠纷男子捅伤瓜贩",
-      "onboard_time": 1721848331,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24311,
-      "num": 25224,
-      "word": "北京暴雨一秒入夜",
-      "onboard_time": 1721847852,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22983,
@@ -561,6 +561,14 @@
       "onboard_time": 1721838618,
       "rank": 9,
       "category": "自然"
+    },
+    {
+      "raw_hot": 18008,
+      "num": 21399,
+      "word": "为何红斑狼疮尤其偏爱女性",
+      "onboard_time": 1721850490,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 17980,

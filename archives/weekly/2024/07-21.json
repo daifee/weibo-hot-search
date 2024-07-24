@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721849675906,
+  "endTime": 1721852423006,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -10379,6 +10379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111732,
+      "num": 45110,
+      "word": "特朗普遇袭事件出现最新视频",
+      "onboard_time": 1721846532,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 111397,
       "num": 362893,
       "word": "巴黎街头的小米SU7",
@@ -10697,14 +10705,6 @@
       "onboard_time": 1721529257,
       "rank": 49,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 91703,
-      "num": 45110,
-      "word": "特朗普遇袭事件出现最新视频",
-      "onboard_time": 1721846532,
-      "rank": 13,
-      "category": "国外时政"
     },
     {
       "raw_hot": 91557,
@@ -11176,6 +11176,14 @@
       "word": "韩国一老师多次拍打患脑瘤男童头部",
       "onboard_time": 1721794881,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66602,
+      "num": 66602,
+      "word": "妻子买西瓜发生纠纷男子捅伤瓜贩",
+      "onboard_time": 1721848331,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -11995,6 +12003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27540,
+      "num": 25858,
+      "word": "北京暴雨一秒入夜",
+      "onboard_time": 1721847852,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27352,
       "num": 210076,
       "word": "蚊子传播罕见病毒致印度16人死亡",
@@ -12073,22 +12089,6 @@
       "onboard_time": 1721587933,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 25373,
-      "num": 25373,
-      "word": "妻子买西瓜发生纠纷男子捅伤瓜贩",
-      "onboard_time": 1721848331,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24311,
-      "num": 25224,
-      "word": "北京暴雨一秒入夜",
-      "onboard_time": 1721847852,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24108,
@@ -12281,6 +12281,14 @@
       "onboard_time": 1721682850,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18008,
+      "num": 21399,
+      "word": "为何红斑狼疮尤其偏爱女性",
+      "onboard_time": 1721850490,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 17992,
