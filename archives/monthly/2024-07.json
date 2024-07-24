@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721853323380,
+  "endTime": 1721855971283,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -67683,6 +67683,14 @@
       "category": "社会新闻,社会正能量"
     },
     {
+      "raw_hot": 29828,
+      "num": 28190,
+      "word": "北京暴雨一秒入夜",
+      "onboard_time": 1721847852,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29738,
       "num": 29738,
       "word": "Red女团首专OrientalRed",
@@ -67736,14 +67744,6 @@
       "word": "职场人超前精神状态belike",
       "onboard_time": 1720232296,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29290,
-      "num": 25858,
-      "word": "北京暴雨一秒入夜",
-      "onboard_time": 1721847852,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -68571,6 +68571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24510,
+      "num": 21578,
+      "word": "田曦薇的眼睛就是尺",
+      "onboard_time": 1721852831,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 24375,
       "num": 24375,
       "word": "凯恩吃黄牌",
@@ -69155,6 +69163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20203,
+      "num": 20681,
+      "word": "身体排湿的10个表现是什么",
+      "onboard_time": 1721853971,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 20066,
       "num": 29766,
       "word": "落凡尘暑期档黑马",
@@ -69275,6 +69291,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 19508,
+      "num": 21636,
+      "word": "为何红斑狼疮尤其偏爱女性",
+      "onboard_time": 1721850490,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 19241,
       "num": 138796,
       "word": "陌生男子给小孩发蛋糕原因让人泪目",
@@ -69345,14 +69369,6 @@
       "onboard_time": 1720217471,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18766,
-      "num": 21636,
-      "word": "为何红斑狼疮尤其偏爱女性",
-      "onboard_time": 1721850490,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 18632,
@@ -69587,14 +69603,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 17009,
-      "num": 21578,
-      "word": "田曦薇的眼睛就是尺",
-      "onboard_time": 1721852831,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 16981,
       "num": 286485,
       "word": "内部人士回应网传蔚来部分车型涨价",
@@ -69753,6 +69761,14 @@
       "onboard_time": 1721218097,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15843,
+      "num": 18707,
+      "word": "被直立行走的熊猫宝宝震惊到了",
+      "onboard_time": 1721855891,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 15791,
