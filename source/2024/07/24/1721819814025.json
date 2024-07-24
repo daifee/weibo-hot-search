@@ -1,0 +1,410 @@
+{
+  "runTime": 1721819814025,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1084146,
+        "num": 1173463,
+        "word": "唐尚珺今年高考601分",
+        "onboard_time": 1721813240,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 746878,
+        "num": 746878,
+        "word": "抓娃娃宣发",
+        "onboard_time": 1721814080,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 69922,
+        "num": 606024,
+        "word": "暴雨天气这9件事千万要注意",
+        "onboard_time": 1721811620,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572543,
+        "num": 572543,
+        "word": "北京暴雨",
+        "onboard_time": 1721800820,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497530,
+        "num": 497530,
+        "word": "苏翊鸣点赞张婧仪ins",
+        "onboard_time": 1721814439,
+        "rank": 4,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 541207,
+        "num": 470824,
+        "word": "实拍禁止中韩客人入内日本餐厅",
+        "onboard_time": 1721807240,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434834,
+        "num": 434834,
+        "word": "浙江母女双双确诊红斑狼疮",
+        "onboard_time": 1721802680,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413753,
+        "num": 413753,
+        "word": "台风红色预警发布",
+        "onboard_time": 1721791640,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402909,
+        "num": 402909,
+        "word": "喜欢你我也是 婚纱照",
+        "onboard_time": 1721810419,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43062,
+        "num": 401737,
+        "word": "暑假学习计划第3天就作废了",
+        "onboard_time": 1721818818,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533196,
+        "num": 401354,
+        "word": "特朗普停止举行大型户外竞选集会",
+        "onboard_time": 1721807480,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 400884,
+        "num": 400884,
+        "word": "陕师大一副教授被指发不雅照骚扰女生",
+        "onboard_time": 1721816959,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397919,
+        "num": 397919,
+        "word": "刘冲搂着张婧仪出门",
+        "onboard_time": 1721799620,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395020,
+        "num": 395020,
+        "word": "小夭婚礼上处处有相柳的影子",
+        "onboard_time": 1721818339,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40315,
+        "num": 359312,
+        "word": "国台办回应特朗普声称台湾要给美付保护费",
+        "onboard_time": 1721818818,
+        "rank": 14,
+        "category": "社会新闻,国外时政"
+      },
+      {
+        "raw_hot": 340563,
+        "num": 340563,
+        "word": "花少6海报",
+        "onboard_time": 1721814380,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332922,
+        "num": 332922,
+        "word": "种地吧",
+        "onboard_time": 1721785879,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295158,
+        "num": 295158,
+        "word": "盖浇饭已经改叫中式能量碗了",
+        "onboard_time": 1721818461,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 292172,
+        "num": 292172,
+        "word": "生命树 大女主剧",
+        "onboard_time": 1721812580,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272306,
+        "num": 272306,
+        "word": "公孙离 无双皮肤",
+        "onboard_time": 1721812820,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1128506,
+        "num": 271398,
+        "word": "男子领证后连中三次彩票",
+        "onboard_time": 1721816360,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278731,
+        "num": 270950,
+        "word": "李现拒绝出演高中生",
+        "onboard_time": 1721801900,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265951,
+        "num": 265951,
+        "word": "吴倩清纯女大即视感",
+        "onboard_time": 1721813600,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260864,
+        "num": 260864,
+        "word": "尼泊尔坠机事故已致22人丧生",
+        "onboard_time": 1721803099,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259046,
+        "num": 259046,
+        "word": "檀健次再演沈翊压力很大",
+        "onboard_time": 1721819119,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240657,
+        "num": 240657,
+        "word": "莲花楼长尾爆剧",
+        "onboard_time": 1721817800,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235264,
+        "num": 235264,
+        "word": "奶茶店为四五十岁女性设熬煮岗",
+        "onboard_time": 1721795661,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195910,
+        "num": 195910,
+        "word": "美特勤局局长听证会上被问蒙",
+        "onboard_time": 1721813180,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 189545,
+        "num": 189545,
+        "word": "Capper官宣厂牌",
+        "onboard_time": 1721819538,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 6072,
+        "num": 186708,
+        "word": "两名奥运转播人员在巴黎遭抢劫",
+        "onboard_time": 1721819780,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186535,
+        "num": 186535,
+        "word": "尼泊尔客机坠毁监控画面",
+        "onboard_time": 1721816481,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186239,
+        "num": 186239,
+        "word": "张予曦cos公孙离",
+        "onboard_time": 1721819058,
+        "rank": 31,
+        "category": "作品衍生,游戏"
+      },
+      {
+        "raw_hot": 177612,
+        "num": 177612,
+        "word": "王一博出席乐华演唱会",
+        "onboard_time": 1721811439,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162272,
+        "num": 162272,
+        "word": "唐诡2豆瓣开分8.1",
+        "onboard_time": 1721817320,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161709,
+        "num": 161709,
+        "word": "苹果回应iPhone相册照片消失",
+        "onboard_time": 1721816059,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 161060,
+        "num": 161060,
+        "word": "新加坡进入食虫时代",
+        "onboard_time": 1721813479,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155636,
+        "num": 155636,
+        "word": "席琳迪翁 奥运开幕式",
+        "onboard_time": 1721812098,
+        "rank": 36,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 145857,
+        "num": 145857,
+        "word": "樊振东爆改巴黎纸板床",
+        "onboard_time": 1721800700,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143426,
+        "num": 143426,
+        "word": "爸爸为女儿展示矿泉水烟花太惊艳了",
+        "onboard_time": 1721817018,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139005,
+        "num": 139005,
+        "word": "时代少年团 新歌",
+        "onboard_time": 1721812338,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138876,
+        "num": 138876,
+        "word": "贾玲安藤樱 杂志",
+        "onboard_time": 1721801959,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 136741,
+        "num": 136741,
+        "word": "撒贝宁的最后一块短板是啥",
+        "onboard_time": 1721818760,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 134167,
+        "num": 134167,
+        "word": "RNG大名单移除Iwandy",
+        "onboard_time": 1721817738,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133746,
+        "num": 133746,
+        "word": "南海海军长航时高强度实战化训练",
+        "onboard_time": 1721819479,
+        "rank": 43,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 131649,
+        "num": 131649,
+        "word": "书亦烧仙草声明",
+        "onboard_time": 1721808860,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129964,
+        "num": 129964,
+        "word": "美国获2034冬奥会举办权",
+        "onboard_time": 1721819718,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129390,
+        "num": 129390,
+        "word": "NewJeans父母发声",
+        "onboard_time": 1721806339,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127973,
+        "num": 127973,
+        "word": "多家航司回应一人带三娃坐不了飞机",
+        "onboard_time": 1721819479,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124167,
+        "num": 124167,
+        "word": "原来这么多人在拼多多认真写评论",
+        "onboard_time": 1721813600,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 122286,
+        "num": 122286,
+        "word": "歌王之战官宣张杰",
+        "onboard_time": 1721795302,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的体育情怀#"
+    }
+  }
+}

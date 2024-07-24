@@ -1,6 +1,6 @@
 {
   "startTime": 1721752056115,
-  "endTime": 1721817489369,
+  "endTime": 1721819814025,
   "band_list": [
     {
       "raw_hot": 2095531,
@@ -147,6 +147,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1128506,
+      "num": 271398,
+      "word": "男子领证后连中三次彩票",
+      "onboard_time": 1721816360,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1084146,
+      "num": 1173463,
+      "word": "唐尚珺今年高考601分",
+      "onboard_time": 1721813240,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1073823,
       "num": 1073823,
       "word": "巴黎奥运审美吐槽不了一点",
@@ -275,14 +291,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 849237,
-      "num": 1135878,
-      "word": "唐尚珺今年高考601分",
-      "onboard_time": 1721813240,
-      "rank": 35,
-      "category": "教育"
-    },
-    {
       "raw_hot": 825088,
       "num": 825088,
       "word": "歌王之战官宣张杰",
@@ -329,6 +337,14 @@
       "onboard_time": 1721786839,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 746878,
+      "num": 746878,
+      "word": "抓娃娃宣发",
+      "onboard_time": 1721814080,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 745374,
@@ -571,8 +587,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 491044,
-      "num": 491044,
+      "raw_hot": 497530,
+      "num": 497530,
       "word": "苏翊鸣点赞张婧仪ins",
       "onboard_time": 1721814439,
       "rank": 6,
@@ -627,14 +643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 454841,
-      "num": 454841,
-      "word": "抓娃娃宣发",
-      "onboard_time": 1721814080,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 454772,
       "num": 454772,
       "word": "你好外卖 拍摄女顾客",
@@ -673,6 +681,22 @@
       "onboard_time": 1721736259,
       "rank": 13,
       "category": "网红"
+    },
+    {
+      "raw_hot": 400884,
+      "num": 400884,
+      "word": "陕师大一副教授被指发不雅照骚扰女生",
+      "onboard_time": 1721816959,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 395020,
+      "num": 395020,
+      "word": "小夭婚礼上处处有相柳的影子",
+      "onboard_time": 1721818339,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 389294,
@@ -835,14 +859,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 318923,
-      "num": 229490,
-      "word": "男子领证后连中三次彩票",
-      "onboard_time": 1721816360,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 310146,
       "num": 310146,
       "word": "王一博出席乐华演唱会",
@@ -889,6 +905,14 @@
       "onboard_time": 1721790139,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 295158,
+      "num": 295158,
+      "word": "盖浇饭已经改叫中式能量碗了",
+      "onboard_time": 1721818461,
+      "rank": 17,
+      "category": "美食"
     },
     {
       "raw_hot": 294384,
@@ -971,6 +995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265951,
+      "num": 265951,
+      "word": "吴倩清纯女大即视感",
+      "onboard_time": 1721813600,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 264886,
       "num": 264886,
       "word": "台风暴雨高温多预警齐发",
@@ -993,6 +1025,14 @@
       "onboard_time": 1721808080,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 259046,
+      "num": 259046,
+      "word": "檀健次再演沈翊压力很大",
+      "onboard_time": 1721819119,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 257772,
@@ -1057,6 +1097,14 @@
       "onboard_time": 1721795901,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 240657,
+      "num": 240657,
+      "word": "莲花楼长尾爆剧",
+      "onboard_time": 1721817800,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 240583,
@@ -1177,14 +1225,6 @@
       "onboard_time": 1721800159,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 223973,
-      "num": 223973,
-      "word": "吴倩清纯女大即视感",
-      "onboard_time": 1721813600,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 221969,
@@ -1451,6 +1491,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 189545,
+      "num": 189545,
+      "word": "Capper官宣厂牌",
+      "onboard_time": 1721819538,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 189316,
       "num": 189316,
       "word": "天蝎座最懂你的特别",
@@ -1513,6 +1561,22 @@
       "onboard_time": 1721811920,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186535,
+      "num": 186535,
+      "word": "尼泊尔客机坠毁监控画面",
+      "onboard_time": 1721816481,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186239,
+      "num": 186239,
+      "word": "张予曦cos公孙离",
+      "onboard_time": 1721819058,
+      "rank": 31,
+      "category": "作品衍生,游戏"
     },
     {
       "raw_hot": 183605,
@@ -1619,14 +1683,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 167650,
-      "num": 167650,
-      "word": "陕师大一副教授被指发不雅照骚扰女生",
-      "onboard_time": 1721816959,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166933,
       "num": 166933,
       "word": "宝宝小手拍了下爸爸后背竟留下掌印",
@@ -1699,12 +1755,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161709,
+      "num": 161709,
+      "word": "苹果回应iPhone相册照片消失",
+      "onboard_time": 1721816059,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 161502,
       "num": 161502,
       "word": "权志龙Naver删简介",
       "onboard_time": 1721790259,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161060,
+      "num": 230684,
+      "word": "新加坡进入食虫时代",
+      "onboard_time": 1721813479,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159485,
@@ -1731,14 +1803,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 156927,
-      "num": 156927,
-      "word": "尼泊尔客机坠毁监控画面",
-      "onboard_time": 1721816481,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155871,
       "num": 155871,
       "word": "赵丽娜再回应直播崩溃大哭",
@@ -1752,14 +1816,6 @@
       "word": "北京市升级发布暴雨橙色预警",
       "onboard_time": 1721788279,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154595,
-      "num": 230684,
-      "word": "新加坡进入食虫时代",
-      "onboard_time": 1721813479,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1787,14 +1843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 144794,
-      "num": 144794,
-      "word": "苹果回应iPhone相册照片消失",
-      "onboard_time": 1721816059,
-      "rank": 43,
-      "category": "数码"
-    },
-    {
       "raw_hot": 144633,
       "num": 144633,
       "word": "巴黎奥运村餐厅不提供炸鸡块",
@@ -1811,12 +1859,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143426,
+      "num": 149913,
+      "word": "爸爸为女儿展示矿泉水烟花太惊艳了",
+      "onboard_time": 1721817018,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138739,
       "num": 138739,
       "word": "种地吧爆火的原因",
       "onboard_time": 1721745981,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136741,
+      "num": 136741,
+      "word": "撒贝宁的最后一块短板是啥",
+      "onboard_time": 1721818760,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 136726,
@@ -1851,12 +1915,28 @@
       "category": "艺人,读书作家"
     },
     {
+      "raw_hot": 134167,
+      "num": 134167,
+      "word": "RNG大名单移除Iwandy",
+      "onboard_time": 1721817738,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 133843,
       "num": 133843,
       "word": "洗衣凝珠的袋子哪去了",
       "onboard_time": 1721777056,
       "rank": 43,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 133746,
+      "num": 133746,
+      "word": "南海海军长航时高强度实战化训练",
+      "onboard_time": 1721819479,
+      "rank": 43,
+      "category": "军事"
     },
     {
       "raw_hot": 133088,
@@ -1867,12 +1947,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129964,
+      "num": 129964,
+      "word": "美国获2034冬奥会举办权",
+      "onboard_time": 1721819718,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128643,
       "num": 128643,
       "word": "西藏的惊喜太多藏不住了",
       "onboard_time": 1721785519,
       "rank": 47,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 127973,
+      "num": 127973,
+      "word": "多家航司回应一人带三娃坐不了飞机",
+      "onboard_time": 1721819479,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126358,
@@ -2171,14 +2267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 74639,
-      "num": 149913,
-      "word": "爸爸为女儿展示矿泉水烟花太惊艳了",
-      "onboard_time": 1721817018,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73335,
       "num": 103940,
       "word": "美国国会大厦降半旗真相",
@@ -2339,12 +2427,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 43062,
+      "num": 401737,
+      "word": "暑假学习计划第3天就作废了",
+      "onboard_time": 1721818818,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42982,
       "num": 410098,
       "word": "东方茶席卷巴黎city不city",
       "onboard_time": 1721790259,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 40315,
+      "num": 359312,
+      "word": "国台办回应特朗普声称台湾要给美付保护费",
+      "onboard_time": 1721818818,
+      "rank": 14,
+      "category": "社会新闻,国外时政"
     },
     {
       "raw_hot": 37665,
@@ -2503,6 +2607,14 @@
       "num": 236677,
       "word": "埃塞俄比亚山体滑坡229人遇难",
       "onboard_time": 1721809999,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6072,
+      "num": 186708,
+      "word": "两名奥运转播人员在巴黎遭抢劫",
+      "onboard_time": 1721819780,
       "rank": 29,
       "category": "社会新闻"
     },
