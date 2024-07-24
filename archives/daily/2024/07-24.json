@@ -1,7 +1,15 @@
 {
   "startTime": 1721752056115,
-  "endTime": 1721820889529,
+  "endTime": 1721824613473,
   "band_list": [
+    {
+      "raw_hot": 2204859,
+      "num": 2204859,
+      "word": "马龙冯雨担任中国体育代表团旗手",
+      "onboard_time": 1721823379,
+      "rank": 0,
+      "category": "体育"
+    },
     {
       "raw_hot": 2095531,
       "num": 2095531,
@@ -35,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1623447,
+      "num": 1623447,
+      "word": "李佳琦说旺旺离职不会挽留",
+      "onboard_time": 1721823620,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1556640,
       "num": 626798,
       "word": "刘冲搂着张婧仪出门",
@@ -57,6 +73,14 @@
       "onboard_time": 1721790619,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1366626,
+      "num": 1366626,
+      "word": "女高中生举报大学教师婚内出轨",
+      "onboard_time": 1721822178,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1356171,
@@ -148,11 +172,19 @@
     },
     {
       "raw_hot": 1128506,
-      "num": 271398,
+      "num": 274730,
       "word": "男子领证后连中三次彩票",
       "onboard_time": 1721816360,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1101772,
+      "num": 1101772,
+      "word": "骗子用赵露思旧照行骗",
+      "onboard_time": 1721820558,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 1084146,
@@ -185,6 +217,14 @@
       "onboard_time": 1721777416,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1031677,
+      "num": 1031677,
+      "word": "盖浇饭已经改叫中式能量碗了",
+      "onboard_time": 1721818461,
+      "rank": 17,
+      "category": "美食"
     },
     {
       "raw_hot": 1029490,
@@ -315,14 +355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 801349,
-      "num": 801349,
-      "word": "盖浇饭已经改叫中式能量碗了",
-      "onboard_time": 1721818461,
-      "rank": 17,
-      "category": "美食"
-    },
-    {
       "raw_hot": 798573,
       "num": 798573,
       "word": "一架飞机在尼泊尔首都机场坠毁",
@@ -435,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 640013,
+      "num": 431271,
+      "word": "巴黎奥运村纸板床终于塌了",
+      "onboard_time": 1721822777,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 619175,
       "num": 619175,
       "word": "尼泊尔坠机事故现场已发现5具遗体",
@@ -497,6 +537,14 @@
       "onboard_time": 1721789420,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 567150,
+      "num": 567150,
+      "word": "EXO有自己的何炅",
+      "onboard_time": 1721823318,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 562574,
@@ -579,6 +627,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 504415,
+      "num": 504415,
+      "word": "多家航司回应一人带三娃坐不了飞机",
+      "onboard_time": 1721819479,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 503827,
       "num": 503827,
       "word": "考上TOP2后我接受了自己是普通人",
@@ -617,6 +673,14 @@
       "onboard_time": 1721803219,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 483045,
+      "num": 483045,
+      "word": "深圳晚霞",
+      "onboard_time": 1721821399,
+      "rank": 8,
+      "category": "自然"
     },
     {
       "raw_hot": 476205,
@@ -931,6 +995,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 293932,
+      "num": 293932,
+      "word": "香港一警长泰国旅游意外身亡",
+      "onboard_time": 1721820499,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292892,
       "num": 292892,
       "word": "贾玲安藤樱首次相见",
@@ -945,6 +1017,14 @@
       "onboard_time": 1721801120,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289940,
+      "num": 194489,
+      "word": "章昊用榴莲炸掉公司大楼",
+      "onboard_time": 1721823259,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 289617,
@@ -1035,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259663,
+      "num": 259663,
+      "word": "辛芷蕾 我不能只演一部分女性",
+      "onboard_time": 1721823978,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 257772,
       "num": 257772,
       "word": "张婧仪挂脖U领",
@@ -1112,6 +1200,14 @@
       "word": "尼泊尔媒体称坠毁飞机上载有19人",
       "onboard_time": 1721802859,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239906,
+      "num": 239906,
+      "word": "地铁被污蔑偷拍案调解宣告破裂",
+      "onboard_time": 1721821038,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1251,6 +1347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219827,
+      "num": 219827,
+      "word": "女子称古茗奶茶内疑有血痰",
+      "onboard_time": 1721824039,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218901,
       "num": 218901,
       "word": "二十七岁的查美乐喜欢什么咖啡",
@@ -1297,6 +1401,14 @@
       "onboard_time": 1721809160,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213787,
+      "num": 389527,
+      "word": "爸爸为女儿展示矿泉水烟花太惊艳了",
+      "onboard_time": 1721817018,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213726,
@@ -1347,20 +1459,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 210754,
-      "num": 210754,
-      "word": "多家航司回应一人带三娃坐不了飞机",
-      "onboard_time": 1721819479,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210236,
       "num": 210236,
       "word": "广告牌坠落致3死7伤责任人被控制",
       "onboard_time": 1721726661,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210006,
+      "num": 210006,
+      "word": "唐诡西行 独孤苍苍而娘子青青",
+      "onboard_time": 1721824100,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 207631,
+      "num": 207631,
+      "word": "TF家族测体脂率",
+      "onboard_time": 1721824580,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205085,
@@ -1473,6 +1593,14 @@
       "onboard_time": 1721740160,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 194729,
+      "num": 194729,
+      "word": "台风格美",
+      "onboard_time": 1721821639,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194215,
@@ -1603,28 +1731,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186093,
-      "num": 389527,
-      "word": "爸爸为女儿展示矿泉水烟花太惊艳了",
-      "onboard_time": 1721817018,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183605,
       "num": 183605,
       "word": "地磁暴又要来了",
       "onboard_time": 1721783419,
       "rank": 33,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 183299,
-      "num": 183299,
-      "word": "骗子用赵露思旧照行骗",
-      "onboard_time": 1721820558,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 183038,
@@ -1635,12 +1747,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181251,
+      "num": 181251,
+      "word": "歌手总决赛帮唱宣传片",
+      "onboard_time": 1721822239,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181154,
       "num": 181154,
       "word": "颖儿金晨同游马尔代夫",
       "onboard_time": 1721810840,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179718,
+      "num": 179718,
+      "word": "肾出现问题身体会发出这4个警报",
+      "onboard_time": 1721823921,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 179078,
@@ -1691,6 +1819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175671,
+      "num": 175671,
+      "word": "男子川藏线偶遇大爷竟是00后",
+      "onboard_time": 1721823439,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174647,
       "num": 174647,
       "word": "张信哲向上博捐赠12件服饰",
@@ -1713,6 +1849,14 @@
       "onboard_time": 1721782458,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 170501,
+      "num": 170501,
+      "word": "王菲李嫣回京",
+      "onboard_time": 1721821577,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 170315,
@@ -1859,6 +2003,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 156691,
+      "num": 156691,
+      "word": "NewJeans原出道组成员",
+      "onboard_time": 1721822840,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155871,
       "num": 155871,
       "word": "赵丽娜再回应直播崩溃大哭",
@@ -1881,6 +2033,14 @@
       "onboard_time": 1721811979,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150271,
+      "num": 150271,
+      "word": "崔胜澈smart",
+      "onboard_time": 1721821038,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 145106,
@@ -1921,14 +2081,6 @@
       "onboard_time": 1721745981,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 137298,
-      "num": 137298,
-      "word": "香港一警长泰国旅游意外身亡",
-      "onboard_time": 1721820499,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136741,
@@ -2009,6 +2161,30 @@
       "onboard_time": 1721785519,
       "rank": 47,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 127935,
+      "num": 127935,
+      "word": "滴滴客服1个月找回5本房产证",
+      "onboard_time": 1721823139,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126762,
+      "num": 126762,
+      "word": "把温馨日常拍成窝点暗访了",
+      "onboard_time": 1721824580,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 126527,
+      "num": 126527,
+      "word": "李硕珉跳guilty",
+      "onboard_time": 1721821999,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 126358,
@@ -2147,6 +2323,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 98897,
+      "num": 171785,
+      "word": "全国多地银行官宣降息",
+      "onboard_time": 1721822418,
+      "rank": 37,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 95528,
       "num": 629985,
       "word": "兼职客服可能在帮不法分子引流",
@@ -2188,7 +2372,7 @@
     },
     {
       "raw_hot": 91499,
-      "num": 1003798,
+      "num": 1417511,
       "word": "暴雨天气这9件事千万要注意",
       "onboard_time": 1721811620,
       "rank": 2,
@@ -2387,7 +2571,7 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 61960,
+      "raw_hot": 62417,
       "num": 359312,
       "word": "国台办回应特朗普声称台湾要给美付保护费",
       "onboard_time": 1721818818,
@@ -2489,6 +2673,14 @@
       "onboard_time": 1721790259,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 40184,
+      "num": 300353,
+      "word": "北京的雨在路上",
+      "onboard_time": 1721824400,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37665,
