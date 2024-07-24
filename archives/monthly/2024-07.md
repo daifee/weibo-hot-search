@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/24 18:22:53
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/24 18:38:09
 </p>
 </blockquote>
 <p>
@@ -4593,6 +4593,12 @@ N1（热度：997983）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%B0%9A%E7%8F%BA%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83601%E5%88%86%23" target="weibo">
+唐尚珺今年高考601分（热度：849237）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%8F%A3%E5%87%BA%E7%94%9F%E7%8E%87%E4%BB%8A%E5%B9%B4%E6%88%96%E8%BF%8E%E5%B0%8F%E9%98%B3%E6%98%A5%23" target="weibo">
 人口出生率今年或迎小阳春（热度：848435）
 </a>
@@ -5525,12 +5531,6 @@ T1夺冠（热度：781234）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BC%96%E5%89%A7%E7%9C%8B%E4%BA%86%E5%A4%9A%E5%B0%91%E7%83%82%E5%89%A7%E6%89%8D%E5%86%99%E5%87%BA%E7%9A%84%E5%8F%B0%E8%AF%8D%23" target="weibo">
 编剧看了多少烂剧才写出的台词（热度：763037）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%B0%9A%E7%8F%BA%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83601%E5%88%86%23" target="weibo">
-唐尚珺今年高考601分（热度：762885）
 </a>
 </li>
 

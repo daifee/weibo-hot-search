@@ -1,6 +1,6 @@
 {
   "startTime": 1721752056115,
-  "endTime": 1721816573680,
+  "endTime": 1721817489369,
   "band_list": [
     {
       "raw_hot": 2095531,
@@ -275,6 +275,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 849237,
+      "num": 1135878,
+      "word": "唐尚珺今年高考601分",
+      "onboard_time": 1721813240,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 825088,
       "num": 825088,
       "word": "歌王之战官宣张杰",
@@ -313,14 +321,6 @@
       "onboard_time": 1721784018,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 762885,
-      "num": 431876,
-      "word": "唐尚珺今年高考601分",
-      "onboard_time": 1721813240,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 748756,
@@ -571,6 +571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 491044,
+      "num": 491044,
+      "word": "苏翊鸣点赞张婧仪ins",
+      "onboard_time": 1721814439,
+      "rank": 6,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 484741,
       "num": 484741,
       "word": "乌克兰外长访华",
@@ -603,14 +611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 461725,
-      "num": 461725,
-      "word": "苏翊鸣点赞张婧仪ins",
-      "onboard_time": 1721814439,
-      "rank": 6,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 460548,
       "num": 460548,
       "word": "这个冰粉摊没有吆喝却生意火爆",
@@ -619,12 +619,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 458197,
-      "num": 458197,
+      "raw_hot": 460359,
+      "num": 460359,
       "word": "生命树 大女主剧",
       "onboard_time": 1721812580,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 454841,
+      "num": 454841,
+      "word": "抓娃娃宣发",
+      "onboard_time": 1721814080,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 454772,
@@ -827,6 +835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 318923,
+      "num": 229490,
+      "word": "男子领证后连中三次彩票",
+      "onboard_time": 1721816360,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310146,
       "num": 310146,
       "word": "王一博出席乐华演唱会",
@@ -905,14 +921,6 @@
       "onboard_time": 1721779218,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 286568,
-      "num": 286568,
-      "word": "抓娃娃宣发",
-      "onboard_time": 1721814080,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 284436,
@@ -995,6 +1003,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 249829,
+      "num": 238911,
+      "word": "席琳迪翁 奥运开幕式",
+      "onboard_time": 1721812098,
+      "rank": 32,
+      "category": "作品衍生,体育"
+    },
+    {
       "raw_hot": 249330,
       "num": 249330,
       "word": "广州659分中考生选择读中职",
@@ -1049,14 +1065,6 @@
       "onboard_time": 1721802859,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 238911,
-      "num": 238911,
-      "word": "席琳迪翁 奥运开幕式",
-      "onboard_time": 1721812098,
-      "rank": 32,
-      "category": "作品衍生,体育"
     },
     {
       "raw_hot": 238634,
@@ -1169,6 +1177,14 @@
       "onboard_time": 1721800159,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223973,
+      "num": 223973,
+      "word": "吴倩清纯女大即视感",
+      "onboard_time": 1721813600,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 221969,
@@ -1291,14 +1307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 206974,
-      "num": 206974,
-      "word": "吴倩清纯女大即视感",
-      "onboard_time": 1721813600,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 205085,
       "num": 205085,
       "word": "夏侯惇水墨武侠皮肤",
@@ -1419,6 +1427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 192189,
+      "num": 192189,
+      "word": "田曦薇拒绝王安宇的ABC",
+      "onboard_time": 1721813839,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191578,
       "num": 191578,
       "word": "唐诡西行四集反转四次",
@@ -1465,6 +1481,14 @@
       "onboard_time": 1721800820,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188056,
+      "num": 423666,
+      "word": "原来这么多人在拼多多认真写评论",
+      "onboard_time": 1721813600,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 187337,
@@ -1555,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175787,
+      "num": 175787,
+      "word": "唐诡2豆瓣开分8.1",
+      "onboard_time": 1721817320,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174647,
       "num": 174647,
       "word": "张信哲向上博捐赠12件服饰",
@@ -1585,6 +1617,14 @@
       "onboard_time": 1721791460,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 167650,
+      "num": 167650,
+      "word": "陕师大一副教授被指发不雅照骚扰女生",
+      "onboard_time": 1721816959,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166933,
@@ -1683,12 +1723,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 156744,
-      "num": 423666,
-      "word": "原来这么多人在拼多多认真写评论",
-      "onboard_time": 1721813600,
-      "rank": 49,
-      "category": "互联网"
+      "raw_hot": 157842,
+      "num": 157842,
+      "word": "赵丽颖很珍惜和粉丝见面的机会",
+      "onboard_time": 1721816901,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 156927,
+      "num": 156927,
+      "word": "尼泊尔客机坠毁监控画面",
+      "onboard_time": 1721816481,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155871,
@@ -1707,20 +1755,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154595,
+      "num": 230684,
+      "word": "新加坡进入食虫时代",
+      "onboard_time": 1721813479,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150490,
       "num": 150490,
       "word": "下班时间不要叫我纪老师",
       "onboard_time": 1721811979,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146681,
-      "num": 132265,
-      "word": "田曦薇拒绝王安宇的ABC",
-      "onboard_time": 1721813839,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 145106,
@@ -1737,6 +1785,14 @@
       "onboard_time": 1721734220,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144794,
+      "num": 144794,
+      "word": "苹果回应iPhone相册照片消失",
+      "onboard_time": 1721816059,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 144633,
@@ -1779,14 +1835,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 135952,
-      "num": 135952,
-      "word": "男子领证后连中三次彩票",
-      "onboard_time": 1721816360,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135243,
       "num": 135243,
       "word": "投喂流浪猫被判赔24万案将宣判",
@@ -1817,14 +1865,6 @@
       "onboard_time": 1721808200,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 130877,
-      "num": 130877,
-      "word": "苹果回应iPhone相册照片消失",
-      "onboard_time": 1721816059,
-      "rank": 43,
-      "category": "数码"
     },
     {
       "raw_hot": 128643,
@@ -1859,6 +1899,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 124091,
+      "num": 124091,
+      "word": "歌手总决赛赛制",
+      "onboard_time": 1721813959,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122978,
       "num": 122978,
       "word": "大哥远年内开播近200场",
@@ -1888,14 +1936,6 @@
       "word": "官方通报女子飙英文骂哭乘务员",
       "onboard_time": 1721731459,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117969,
-      "num": 117969,
-      "word": "尼泊尔客机坠毁监控画面",
-      "onboard_time": 1721816481,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -2128,6 +2168,14 @@
       "word": "中国奥运健儿带来的感动瞬间",
       "onboard_time": 1721792060,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74639,
+      "num": 149913,
+      "word": "爸爸为女儿展示矿泉水烟花太惊艳了",
+      "onboard_time": 1721817018,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -2459,10 +2507,10 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 11174,
-      "num": 230684,
-      "word": "新加坡进入食虫时代",
-      "onboard_time": 1721813479,
+      "raw_hot": 6032,
+      "num": 175854,
+      "word": "美国黄石公园因热液喷发紧急关闭",
+      "onboard_time": 1721817379,
       "rank": 29,
       "category": "社会新闻"
     }

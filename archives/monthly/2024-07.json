@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721816573680,
+  "endTime": 1721817489369,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -6107,6 +6107,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 849237,
+      "num": 1135878,
+      "word": "唐尚珺今年高考601分",
+      "onboard_time": 1721813240,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 848435,
       "num": 848435,
       "word": "人口出生率今年或迎小阳春",
@@ -7353,14 +7361,6 @@
       "onboard_time": 1721133317,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 762885,
-      "num": 431876,
-      "word": "唐尚珺今年高考601分",
-      "onboard_time": 1721813240,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 762639,
@@ -13867,6 +13867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 491044,
+      "num": 491044,
+      "word": "苏翊鸣点赞张婧仪ins",
+      "onboard_time": 1721814439,
+      "rank": 6,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 490980,
       "num": 490980,
       "word": "BLG换人",
@@ -14955,14 +14963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 461725,
-      "num": 461725,
-      "word": "苏翊鸣点赞张婧仪ins",
-      "onboard_time": 1721814439,
-      "rank": 6,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 461665,
       "num": 461665,
       "word": "英格兰连续两届欧洲杯进决赛",
@@ -15017,6 +15017,14 @@
       "onboard_time": 1720946122,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 460359,
+      "num": 460359,
+      "word": "生命树 大女主剧",
+      "onboard_time": 1721812580,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 460262,
@@ -15145,14 +15153,6 @@
       "onboard_time": 1720173500,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 458197,
-      "num": 458197,
-      "word": "生命树 大女主剧",
-      "onboard_time": 1721812580,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 457811,
@@ -15289,6 +15289,14 @@
       "onboard_time": 1720327756,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 454841,
+      "num": 454841,
+      "word": "抓娃娃宣发",
+      "onboard_time": 1721814080,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 454787,
@@ -22075,6 +22083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 318923,
+      "num": 229490,
+      "word": "男子领证后连中三次彩票",
+      "onboard_time": 1721816360,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318786,
       "num": 318786,
       "word": "ENHYPEN回归",
@@ -24097,14 +24113,6 @@
       "onboard_time": 1720836677,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 286568,
-      "num": 286568,
-      "word": "抓娃娃宣发",
-      "onboard_time": 1721814080,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 286475,
@@ -26715,6 +26723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 249829,
+      "num": 238911,
+      "word": "席琳迪翁 奥运开幕式",
+      "onboard_time": 1721812098,
+      "rank": 32,
+      "category": "作品衍生,体育"
+    },
+    {
       "raw_hot": 249823,
       "num": 1496985,
       "word": "二十届三中全会知识点",
@@ -27841,14 +27857,6 @@
       "onboard_time": 1721306058,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 238911,
-      "num": 238911,
-      "word": "席琳迪翁 奥运开幕式",
-      "onboard_time": 1721812098,
-      "rank": 32,
-      "category": "作品衍生,体育"
     },
     {
       "raw_hot": 238908,
@@ -29504,6 +29512,14 @@
       "word": "檀健次牵手回眸杀",
       "onboard_time": 1721471359,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 223973,
+      "num": 223973,
+      "word": "吴倩清纯女大即视感",
+      "onboard_time": 1721813600,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -32161,14 +32177,6 @@
       "onboard_time": 1720789639,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 206974,
-      "num": 206974,
-      "word": "吴倩清纯女大即视感",
-      "onboard_time": 1721813600,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 206927,
@@ -36259,6 +36267,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 192189,
+      "num": 192189,
+      "word": "田曦薇拒绝王安宇的ABC",
+      "onboard_time": 1721813839,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192135,
       "num": 171287,
       "word": "Faker大满贯",
@@ -37473,6 +37489,14 @@
       "onboard_time": 1719898578,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 188056,
+      "num": 423666,
+      "word": "原来这么多人在拼多多认真写评论",
+      "onboard_time": 1721813600,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 188054,
@@ -40155,6 +40179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175787,
+      "num": 175787,
+      "word": "唐诡2豆瓣开分8.1",
+      "onboard_time": 1721817320,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175745,
       "num": 376576,
       "word": "放弃普高读职校会后悔吗",
@@ -42185,6 +42217,14 @@
       "onboard_time": 1721355505,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167650,
+      "num": 167650,
+      "word": "陕师大一副教授被指发不雅照骚扰女生",
+      "onboard_time": 1721816959,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167626,
@@ -44427,6 +44467,14 @@
       "category": "社会新闻,国内时政"
     },
     {
+      "raw_hot": 157842,
+      "num": 157842,
+      "word": "赵丽颖很珍惜和粉丝见面的机会",
+      "onboard_time": 1721816901,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 157821,
       "num": 157821,
       "word": "当你的手办被妈妈碰过",
@@ -44691,6 +44739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156927,
+      "num": 156927,
+      "word": "尼泊尔客机坠毁监控画面",
+      "onboard_time": 1721816481,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156888,
       "num": 156888,
       "word": "原来水还可以清澈到这种程度",
@@ -44753,14 +44809,6 @@
       "onboard_time": 1721383698,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 156744,
-      "num": 423666,
-      "word": "原来这么多人在拼多多认真写评论",
-      "onboard_time": 1721813600,
-      "rank": 49,
-      "category": "互联网"
     },
     {
       "raw_hot": 156702,
@@ -45345,6 +45393,14 @@
       "onboard_time": 1720093578,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 154595,
+      "num": 230684,
+      "word": "新加坡进入食虫时代",
+      "onboard_time": 1721813479,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154566,
@@ -47187,14 +47243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146681,
-      "num": 132265,
-      "word": "田曦薇拒绝王安宇的ABC",
-      "onboard_time": 1721813839,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 146657,
       "num": 1149229,
       "word": "你见过仅4.21克的超轻无人机吗",
@@ -47681,6 +47729,14 @@
       "onboard_time": 1720287853,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144794,
+      "num": 144794,
+      "word": "苹果回应iPhone相册照片消失",
+      "onboard_time": 1721816059,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 144739,
@@ -50099,14 +50155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135952,
-      "num": 135952,
-      "word": "男子领证后连中三次彩票",
-      "onboard_time": 1721816360,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135948,
       "num": 135948,
       "word": "佩佩失误",
@@ -51497,14 +51545,6 @@
       "onboard_time": 1720746199,
       "rank": 31,
       "category": "美食"
-    },
-    {
-      "raw_hot": 130877,
-      "num": 130877,
-      "word": "苹果回应iPhone相册照片消失",
-      "onboard_time": 1721816059,
-      "rank": 43,
-      "category": "数码"
     },
     {
       "raw_hot": 130875,
@@ -53179,6 +53219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124091,
+      "num": 124091,
+      "word": "歌手总决赛赛制",
+      "onboard_time": 1721813959,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124066,
       "num": 124066,
       "word": "蔡依林合肥抢票",
@@ -54713,14 +54761,6 @@
       "onboard_time": 1720228038,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117969,
-      "num": 117969,
-      "word": "尼泊尔客机坠毁监控画面",
-      "onboard_time": 1721816481,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117955,
@@ -60977,6 +61017,14 @@
       "onboard_time": 1720783878,
       "rank": 48,
       "category": "国内时政,国外时政"
+    },
+    {
+      "raw_hot": 74639,
+      "num": 149913,
+      "word": "爸爸为女儿展示矿泉水烟花太惊艳了",
+      "onboard_time": 1721817018,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74567,
@@ -69203,14 +69251,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 11174,
-      "num": 230684,
-      "word": "新加坡进入食虫时代",
-      "onboard_time": 1721813479,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 11109,
       "num": 94436,
       "word": "路遇男孩落水2男子不约而同跳河救人",
@@ -69664,6 +69704,14 @@
       "word": "上合组织有哪些成员国",
       "onboard_time": 1720097538,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6032,
+      "num": 175854,
+      "word": "美国黄石公园因热液喷发紧急关闭",
+      "onboard_time": 1721817379,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
