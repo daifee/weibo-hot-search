@@ -1,6 +1,6 @@
 {
   "startTime": 1721838296901,
-  "endTime": 1721845699825,
+  "endTime": 1721846494596,
   "band_list": [
     {
       "raw_hot": 1358111,
@@ -403,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86206,
+      "num": 86100,
+      "word": "知名痔疮药涨价20多倍还断货",
+      "onboard_time": 1721840655,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 86069,
       "num": 120945,
       "word": "盖浇饭已经改叫中式能量碗了",
@@ -433,14 +441,6 @@
       "onboard_time": 1721823439,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 69407,
-      "num": 86100,
-      "word": "知名痔疮药涨价20多倍还断货",
-      "onboard_time": 1721840655,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 64842,
@@ -547,10 +547,18 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 10658,
+      "raw_hot": 17747,
       "num": 78727,
       "word": "男子胃痛医生一眼识别为心梗救下一命",
       "onboard_time": 1721844193,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13773,
+      "num": 62795,
+      "word": "男孩坐火车吃瓜子卡喉列车员救回",
+      "onboard_time": 1721846053,
       "rank": 9,
       "category": "社会新闻"
     }
