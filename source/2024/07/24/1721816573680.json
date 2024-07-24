@@ -1,0 +1,410 @@
+{
+  "runTime": 1721816573680,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 763830,
+        "num": 1122212,
+        "word": "喜欢你我也是 婚纱照",
+        "onboard_time": 1721810419,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 581233,
+        "num": 581233,
+        "word": "浙江母女双双确诊红斑狼疮",
+        "onboard_time": 1721802680,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81435,
+        "num": 514644,
+        "word": "暴雨天气这9件事千万要注意",
+        "onboard_time": 1721811620,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496344,
+        "num": 496344,
+        "word": "台风红色预警发布",
+        "onboard_time": 1721791640,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486575,
+        "num": 486575,
+        "word": "奶茶店为四五十岁女性设熬煮岗",
+        "onboard_time": 1721795661,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 939622,
+        "num": 484764,
+        "word": "实拍禁止中韩客人入内日本餐厅",
+        "onboard_time": 1721807240,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461725,
+        "num": 461725,
+        "word": "苏翊鸣点赞张婧仪ins",
+        "onboard_time": 1721814439,
+        "rank": 6,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 458197,
+        "num": 458197,
+        "word": "生命树 大女主剧",
+        "onboard_time": 1721812580,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 432128,
+        "num": 432128,
+        "word": "花少6海报",
+        "onboard_time": 1721814380,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30651,
+        "num": 431893,
+        "word": "被火把节上的民族服饰炫到了",
+        "onboard_time": 1721815159,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 762885,
+        "num": 431876,
+        "word": "唐尚珺今年高考601分",
+        "onboard_time": 1721813240,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 549372,
+        "num": 431872,
+        "word": "特朗普停止举行大型户外竞选集会",
+        "onboard_time": 1721807480,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 431859,
+        "num": 431859,
+        "word": "刘冲搂着张婧仪出门",
+        "onboard_time": 1721799620,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156744,
+        "num": 423666,
+        "word": "原来这么多人在拼多多认真写评论",
+        "onboard_time": 1721813600,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 415846,
+        "num": 415846,
+        "word": "北京暴雨",
+        "onboard_time": 1721800820,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380958,
+        "num": 380958,
+        "word": "美特勤局局长听证会上被问蒙",
+        "onboard_time": 1721813180,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 364214,
+        "num": 364214,
+        "word": "公孙离 无双皮肤",
+        "onboard_time": 1721812820,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 327621,
+        "num": 327621,
+        "word": "李现拒绝出演高中生",
+        "onboard_time": 1721801900,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299042,
+        "num": 299042,
+        "word": "王一博出席乐华演唱会",
+        "onboard_time": 1721811439,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 286568,
+        "num": 286568,
+        "word": "抓娃娃宣发",
+        "onboard_time": 1721814080,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 277714,
+        "num": 277714,
+        "word": "樊振东爆改巴黎纸板床",
+        "onboard_time": 1721800700,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246680,
+        "num": 246680,
+        "word": "曝萧亚轩男友是假荷兰富二代",
+        "onboard_time": 1721807300,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238911,
+        "num": 238911,
+        "word": "席琳迪翁 奥运开幕式",
+        "onboard_time": 1721812098,
+        "rank": 22,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 222070,
+        "num": 222070,
+        "word": "尼泊尔坠机事故已致22人丧生",
+        "onboard_time": 1721803099,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215163,
+        "num": 215163,
+        "word": "檀健次是演爽了观众也哭死了",
+        "onboard_time": 1721806160,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211306,
+        "num": 211306,
+        "word": "贾玲安藤樱 杂志",
+        "onboard_time": 1721801959,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 206974,
+        "num": 206974,
+        "word": "吴倩清纯女大即视感",
+        "onboard_time": 1721813600,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205474,
+        "num": 205474,
+        "word": "时代少年团 新歌",
+        "onboard_time": 1721812338,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 204781,
+        "num": 204781,
+        "word": "人民币不开户也可以买美股",
+        "onboard_time": 1721811500,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 199380,
+        "num": 199380,
+        "word": "NewJeans父母发声",
+        "onboard_time": 1721806339,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191578,
+        "num": 191578,
+        "word": "唐诡西行四集反转四次",
+        "onboard_time": 1721814139,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186967,
+        "num": 186967,
+        "word": "宋亚轩翻唱泪桥",
+        "onboard_time": 1721815341,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172988,
+        "num": 172988,
+        "word": "生命树 杨紫胡歌",
+        "onboard_time": 1721796799,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171813,
+        "num": 171813,
+        "word": "法国获2030冬奥会举办权",
+        "onboard_time": 1721812400,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169443,
+        "num": 169443,
+        "word": "以为很干净实际很脏的次抛用品",
+        "onboard_time": 1721801839,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 166720,
+        "num": 166720,
+        "word": "NCTcp总选开始",
+        "onboard_time": 1721814860,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164447,
+        "num": 164447,
+        "word": "沈腾马丽王源李晨同框合拍",
+        "onboard_time": 1721812460,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161443,
+        "num": 161443,
+        "word": "陕师大回应副教授发不雅照骚扰女生",
+        "onboard_time": 1721799440,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152685,
+        "num": 152685,
+        "word": "书亦烧仙草声明",
+        "onboard_time": 1721808860,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135952,
+        "num": 135952,
+        "word": "男子领证后连中三次彩票",
+        "onboard_time": 1721816360,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162023,
+        "num": 135135,
+        "word": "叶鼎之 叶盯之",
+        "onboard_time": 1721815220,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160946,
+        "num": 133113,
+        "word": "歌王之战官宣张杰",
+        "onboard_time": 1721795302,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146681,
+        "num": 132265,
+        "word": "田曦薇拒绝王安宇的ABC",
+        "onboard_time": 1721813839,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130877,
+        "num": 130877,
+        "word": "苹果回应iPhone相册照片消失",
+        "onboard_time": 1721816059,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 123867,
+        "num": 123867,
+        "word": "孙颖莎看到pin就走不动了",
+        "onboard_time": 1721809639,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118012,
+        "num": 118012,
+        "word": "台风",
+        "onboard_time": 1721778619,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117969,
+        "num": 117969,
+        "word": "尼泊尔客机坠毁监控画面",
+        "onboard_time": 1721816481,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114894,
+        "num": 114894,
+        "word": "乌克兰外长访华",
+        "onboard_time": 1721809759,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 113243,
+        "num": 113243,
+        "word": "王楚钦孙颖莎混双针对性备战",
+        "onboard_time": 1721815760,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111785,
+        "num": 111785,
+        "word": "Jasper等比例长大",
+        "onboard_time": 1721813479,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的体育情怀#"
+    }
+  }
+}
