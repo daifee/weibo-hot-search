@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721830786467,
+  "endTime": 1721831844955,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -1139,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 943185,
+      "num": 943185,
+      "word": "网传某头部大行员工月薪2千元",
+      "onboard_time": 1721826320,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 942297,
       "num": 516331,
       "word": "于正说小龙女先找的Angelababy",
@@ -1331,14 +1339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 859833,
-      "num": 859833,
-      "word": "网传某头部大行员工月薪2千元",
-      "onboard_time": 1721826320,
-      "rank": 25,
-      "category": "财经"
-    },
-    {
       "raw_hot": 857497,
       "num": 857497,
       "word": "唐尚珺被华南师范大学录取",
@@ -1364,7 +1364,7 @@
     },
     {
       "raw_hot": 855972,
-      "num": 262413,
+      "num": 263088,
       "word": "女子称古茗奶茶内疑有血痰",
       "onboard_time": 1721824039,
       "rank": 25,
@@ -1492,7 +1492,7 @@
     },
     {
       "raw_hot": 806166,
-      "num": 256229,
+      "num": 261191,
       "word": "肾出现问题身体会发出这4个警报",
       "onboard_time": 1721823921,
       "rank": 35,
@@ -1843,6 +1843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 689335,
+      "num": 689335,
+      "word": "国乒奥运抽签",
+      "onboard_time": 1721826921,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 685912,
       "num": 685912,
       "word": "张雪峰公司经营异常",
@@ -1929,14 +1937,6 @@
       "onboard_time": 1721519714,
       "rank": 4,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 658818,
-      "num": 658818,
-      "word": "国乒奥运抽签",
-      "onboard_time": 1721826921,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 656426,
@@ -2177,6 +2177,14 @@
       "onboard_time": 1721806160,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 593121,
+      "num": 593121,
+      "word": "关晓彤收到了孙颖莎的礼物",
+      "onboard_time": 1721829500,
+      "rank": 22,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 590219,
@@ -2635,6 +2643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 500684,
+      "num": 500684,
+      "word": "檀健次再演沈翊压力很大",
+      "onboard_time": 1721819119,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 497851,
       "num": 497851,
       "word": "巴黎奥运会首个比赛日",
@@ -2777,14 +2793,6 @@
       "onboard_time": 1721644341,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 476205,
-      "num": 476205,
-      "word": "檀健次再演沈翊压力很大",
-      "onboard_time": 1721819119,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 476138,
@@ -3523,14 +3531,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 369624,
-      "num": 248440,
-      "word": "关晓彤收到了孙颖莎的礼物",
-      "onboard_time": 1721829500,
-      "rank": 22,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 369267,
       "num": 369267,
       "word": "曝萧亚轩男友是假荷兰富二代",
@@ -3979,6 +3979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 322049,
+      "num": 322049,
+      "word": "歌手帮唱声生不息团建",
+      "onboard_time": 1721829200,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 321726,
       "num": 321726,
       "word": "宇露君沾",
@@ -4025,6 +4033,14 @@
       "onboard_time": 1721668215,
       "rank": 38,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 313451,
+      "num": 254632,
+      "word": "中国口红纸在国外火了",
+      "onboard_time": 1721828478,
+      "rank": 23,
+      "category": "美妆"
     },
     {
       "raw_hot": 313220,
@@ -4211,6 +4227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 299012,
+      "num": 299012,
+      "word": "台风路径",
+      "onboard_time": 1721829740,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298648,
       "num": 298648,
       "word": "陈妍希周柯宇演情侣cp感",
@@ -4241,14 +4265,6 @@
       "onboard_time": 1721695102,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 297164,
-      "num": 243485,
-      "word": "中国口红纸在国外火了",
-      "onboard_time": 1721828478,
-      "rank": 23,
-      "category": "美妆"
     },
     {
       "raw_hot": 296120,
@@ -4297,14 +4313,6 @@
       "onboard_time": 1721808860,
       "rank": 31,
       "category": "美食"
-    },
-    {
-      "raw_hot": 294368,
-      "num": 294368,
-      "word": "歌手帮唱声生不息团建",
-      "onboard_time": 1721829200,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 294231,
@@ -4553,6 +4561,14 @@
       "onboard_time": 1721793922,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 274845,
+      "num": 389527,
+      "word": "爸爸为女儿展示矿泉水烟花太惊艳了",
+      "onboard_time": 1721817018,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 273336,
@@ -4811,14 +4827,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 257285,
-      "num": 389527,
-      "word": "爸爸为女儿展示矿泉水烟花太惊艳了",
-      "onboard_time": 1721817018,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 257027,
       "num": 257027,
       "word": "陈梦 巴黎奥运村的时光",
@@ -5001,6 +5009,14 @@
       "onboard_time": 1721741900,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 247906,
+      "num": 247906,
+      "word": "三伏天是祛湿最佳时间",
+      "onboard_time": 1721825240,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 247221,
@@ -6041,14 +6057,6 @@
       "onboard_time": 1721644281,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212494,
-      "num": 212494,
-      "word": "三伏天是祛湿最佳时间",
-      "onboard_time": 1721825240,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 212336,
@@ -8251,6 +8259,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 169638,
+      "num": 169638,
+      "word": "狼队晋级S组",
+      "onboard_time": 1721831359,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 169203,
       "num": 169203,
       "word": "6种常见病其实都是癌前病变",
@@ -8297,14 +8313,6 @@
       "onboard_time": 1721614821,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168186,
-      "num": 168186,
-      "word": "台风路径",
-      "onboard_time": 1721829740,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167579,
@@ -9283,6 +9291,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 143075,
+      "num": 143075,
+      "word": "用10块钱吃4荤6素的烤肉",
+      "onboard_time": 1721831239,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 142893,
       "num": 142893,
       "word": "500年前古人怎样跟朋友送别",
@@ -10075,6 +10091,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 114551,
+      "num": 114551,
+      "word": "最近河北是捅了明星窝吧",
+      "onboard_time": 1721831060,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 113852,
       "num": 211659,
       "word": "演员李晟回怼网友",
@@ -10179,6 +10203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109474,
+      "num": 458806,
+      "word": "乡干部蚂蚁搬家式侵占补助2314笔",
+      "onboard_time": 1721829622,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109339,
       "num": 482043,
       "word": "看到奥运村纸板床的第一反应",
@@ -10201,6 +10233,22 @@
       "onboard_time": 1721489241,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108200,
+      "num": 108200,
+      "word": "有这样的床这辈子不想再出门",
+      "onboard_time": 1721829441,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 107761,
+      "num": 107761,
+      "word": "汪顺手机壁纸是顺",
+      "onboard_time": 1721831421,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 107389,
@@ -11219,14 +11267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 46553,
-      "num": 458806,
-      "word": "乡干部蚂蚁搬家式侵占补助2314笔",
-      "onboard_time": 1721829622,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 46483,
       "num": 64176,
       "word": "Fly泼水一直在撤回",
@@ -11265,6 +11305,14 @@
       "onboard_time": 1721772611,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 44796,
+      "num": 229115,
+      "word": "Tiffany七夕活动",
+      "onboard_time": 1721830521,
+      "rank": 46,
+      "category": "时尚"
     },
     {
       "raw_hot": 43755,
@@ -11489,14 +11537,6 @@
       "onboard_time": 1721735780,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 34302,
-      "num": 121449,
-      "word": "Tiffany七夕活动",
-      "onboard_time": 1721830521,
-      "rank": 46,
-      "category": "时尚"
     },
     {
       "raw_hot": 34046,
