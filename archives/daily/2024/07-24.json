@@ -1,6 +1,6 @@
 {
   "startTime": 1721752056115,
-  "endTime": 1721789245442,
+  "endTime": 1721791358181,
   "band_list": [
     {
       "raw_hot": 2095531,
@@ -19,20 +19,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1239723,
+      "num": 1239723,
+      "word": "大哥远无限期封禁",
+      "onboard_time": 1721788279,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 1233480,
+      "num": 804297,
+      "word": "沈腾老婆胖了好多",
+      "onboard_time": 1721788279,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1160102,
       "num": 1160102,
       "word": "英国一强奸犯狱中中720万英镑大奖",
       "onboard_time": 1721777115,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1106030,
-      "num": 804297,
-      "word": "沈腾老婆胖了好多",
-      "onboard_time": 1721788279,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1033880,
@@ -43,12 +51,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1029490,
+      "num": 403241,
+      "word": "骆驼 王俊凯",
+      "onboard_time": 1721788518,
+      "rank": 32,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 993687,
       "num": 509734,
       "word": "尼坤妹妹被家暴",
       "onboard_time": 1721775914,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 928206,
+      "num": 581765,
+      "word": "夏天厕所20分钟效应",
+      "onboard_time": 1721786418,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 868488,
@@ -83,22 +107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 774596,
-      "num": 669325,
-      "word": "大哥远无限期封禁",
-      "onboard_time": 1721788279,
-      "rank": 15,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 706257,
-      "num": 547867,
-      "word": "夏天厕所20分钟效应",
-      "onboard_time": 1721786418,
-      "rank": 12,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 702696,
       "num": 363460,
       "word": "张杰用镊子给自己拔鱼刺",
@@ -113,6 +121,14 @@
       "onboard_time": 1721776457,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 688917,
+      "num": 688917,
+      "word": "男子被流浪猫绊倒投喂者赔24万案宣判",
+      "onboard_time": 1721786839,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 684428,
@@ -147,6 +163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 597028,
+      "num": 597028,
+      "word": "放弃百万年薪他去阿勒泰养马放牛",
+      "onboard_time": 1721786780,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 594622,
       "num": 594622,
       "word": "台风格美加强为超强台风",
@@ -155,12 +179,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 580704,
+      "num": 580704,
+      "word": "孙丞潇对女嘉宾的边界感",
+      "onboard_time": 1721789420,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 560615,
       "num": 214152,
       "word": "左邓",
       "onboard_time": 1721746761,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 559200,
+      "num": 559200,
+      "word": "被虐待致死的3岁女童母亲发声",
+      "onboard_time": 1721789838,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 547443,
@@ -177,6 +217,22 @@
       "onboard_time": 1721746580,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 513949,
+      "num": 513949,
+      "word": "未婚妻早产男子微信请假被公司辞退",
+      "onboard_time": 1721787379,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 512229,
+      "num": 512229,
+      "word": "哈里斯支持率领先特朗普2%",
+      "onboard_time": 1721790079,
+      "rank": 16,
+      "category": "国外时政"
     },
     {
       "raw_hot": 504964,
@@ -235,28 +291,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 413620,
-      "num": 413620,
-      "word": "未婚妻早产男子微信请假被公司辞退",
-      "onboard_time": 1721787379,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 412174,
       "num": 213711,
       "word": "空空日记掉了200万粉丝",
       "onboard_time": 1721736259,
       "rank": 13,
       "category": "网红"
-    },
-    {
-      "raw_hot": 403241,
-      "num": 403241,
-      "word": "骆驼 王俊凯",
-      "onboard_time": 1721788518,
-      "rank": 32,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 389294,
@@ -283,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 354475,
+      "num": 551933,
+      "word": "这些属龙运动员出征龙年奥运了",
+      "onboard_time": 1721786839,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 350493,
       "num": 350493,
       "word": "北京将迎大到暴雨局地大暴雨",
@@ -307,20 +355,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334376,
+      "num": 334376,
+      "word": "没人告诉我张杰唱甜歌这么好听",
+      "onboard_time": 1721790139,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 327663,
+      "num": 327663,
+      "word": "猫 拿我讨好你丈母娘是吧",
+      "onboard_time": 1721788518,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 323498,
       "num": 323498,
       "word": "当我连续开15个小时的空调",
       "onboard_time": 1721734041,
       "rank": 9,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 321246,
-      "num": 321246,
-      "word": "男子被流浪猫绊倒投喂者赔24万案宣判",
-      "onboard_time": 1721786839,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 305075,
@@ -347,12 +403,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 294919,
-      "num": 294919,
-      "word": "放弃百万年薪他去阿勒泰养马放牛",
-      "onboard_time": 1721786780,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 298648,
+      "num": 298648,
+      "word": "陈妍希周柯宇演情侣cp感",
+      "onboard_time": 1721790139,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 289617,
@@ -361,6 +417,14 @@
       "onboard_time": 1721779218,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 283021,
+      "num": 283021,
+      "word": "追踪台风格美",
+      "onboard_time": 1721789779,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269369,
@@ -393,6 +457,22 @@
       "onboard_time": 1721775914,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 241812,
+      "num": 241812,
+      "word": "陈楚生帮唱谭维维",
+      "onboard_time": 1721789838,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 240667,
+      "num": 240667,
+      "word": "买黄金前一定要知道的冷知识",
+      "onboard_time": 1721789960,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 238634,
@@ -435,6 +515,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 232518,
+      "num": 232518,
+      "word": "恋与制作人",
+      "onboard_time": 1721790858,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 231855,
       "num": 231855,
       "word": "美特勤局局长辞职",
@@ -449,6 +537,14 @@
       "onboard_time": 1721788219,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 218803,
+      "num": 218803,
+      "word": "乌尔善新片口碑",
+      "onboard_time": 1721789178,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 216863,
@@ -483,20 +579,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 210461,
-      "num": 551933,
-      "word": "这些属龙运动员出征龙年奥运了",
-      "onboard_time": 1721786839,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 210236,
       "num": 210236,
       "word": "广告牌坠落致3死7伤责任人被控制",
       "onboard_time": 1721726661,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207665,
+      "num": 207665,
+      "word": "唐尚珺被华南师范大学录取",
+      "onboard_time": 1721790978,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 199803,
@@ -563,14 +659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184212,
-      "num": 184212,
-      "word": "猫 拿我讨好你丈母娘是吧",
-      "onboard_time": 1721788518,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 183605,
       "num": 183605,
       "word": "地磁暴又要来了",
@@ -604,7 +692,7 @@
     },
     {
       "raw_hot": 176808,
-      "num": 176808,
+      "num": 582436,
       "word": "多地受台风格美影响将有大到暴雨",
       "onboard_time": 1721783239,
       "rank": 34,
@@ -659,12 +747,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164279,
+      "num": 164279,
+      "word": "射手座从来不会隐藏好感",
+      "onboard_time": 1721791040,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163344,
       "num": 163344,
       "word": "iPhoneSE4或10月量产",
       "onboard_time": 1721780537,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 162177,
+      "num": 162177,
+      "word": "台风格美预计今夜登陆我国台湾",
+      "onboard_time": 1721790679,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161502,
+      "num": 161502,
+      "word": "权志龙Naver删简介",
+      "onboard_time": 1721790259,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 159485,
@@ -691,12 +803,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145024,
-      "num": 145024,
-      "word": "乌尔善新片口碑",
-      "onboard_time": 1721789178,
-      "rank": 47,
-      "category": "电影"
+      "raw_hot": 151332,
+      "num": 524152,
+      "word": "拜登将于24日晚就退选发表演讲",
+      "onboard_time": 1721790619,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 144996,
@@ -1051,6 +1163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 33084,
+      "num": 365473,
+      "word": "东方茶席卷巴黎city不city",
+      "onboard_time": 1721790259,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 31594,
       "num": 1124860,
       "word": "高质量发展中国行",
@@ -1088,6 +1208,14 @@
       "word": "家属称广告牌坠落致女儿离世",
       "onboard_time": 1721767631,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21183,
+      "num": 240818,
+      "word": "超万人聚集在西班牙抗议过度旅游",
+      "onboard_time": 1721790978,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
