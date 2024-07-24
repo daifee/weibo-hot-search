@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721788674058,
+  "endTime": 1721789245442,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -723,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1106030,
+      "num": 804297,
+      "word": "沈腾老婆胖了好多",
+      "onboard_time": 1721788279,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1105303,
       "num": 496082,
       "word": "黄子韬徐艺洋 这比暑期档好看",
@@ -1147,14 +1155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 812841,
-      "num": 448836,
-      "word": "沈腾老婆胖了好多",
-      "onboard_time": 1721788279,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 812759,
       "num": 640598,
       "word": "女子称因学历低被判去高危妊娠门诊",
@@ -1193,6 +1193,14 @@
       "onboard_time": 1721729001,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 795079,
+      "num": 795079,
+      "word": "官方通报中学政教处主任表白学生",
+      "onboard_time": 1721784018,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 795003,
@@ -1243,6 +1251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 774596,
+      "num": 669325,
+      "word": "大哥远无限期封禁",
+      "onboard_time": 1721788279,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
       "raw_hot": 774426,
       "num": 525355,
       "word": "官方通报女子飙英文骂哭乘务员",
@@ -1265,14 +1281,6 @@
       "onboard_time": 1721538318,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 758345,
-      "num": 758345,
-      "word": "官方通报中学政教处主任表白学生",
-      "onboard_time": 1721784018,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 755523,
@@ -1401,6 +1409,14 @@
       "onboard_time": 1721617820,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 706257,
+      "num": 547867,
+      "word": "夏天厕所20分钟效应",
+      "onboard_time": 1721786418,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 705597,
@@ -1547,6 +1563,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 656426,
+      "num": 656426,
+      "word": "巴黎奥运倒计时2天",
+      "onboard_time": 1721777235,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 655982,
       "num": 655982,
       "word": "四川人社回应网传90后得65岁退休",
@@ -1668,7 +1692,7 @@
     },
     {
       "raw_hot": 610139,
-      "num": 295218,
+      "num": 299339,
       "word": "婚纱照发朋友圈被同事阴阳了",
       "onboard_time": 1721778197,
       "rank": 20,
@@ -1721,6 +1745,14 @@
       "onboard_time": 1721743281,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 594622,
+      "num": 594622,
+      "word": "台风格美加强为超强台风",
+      "onboard_time": 1721785278,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 590219,
@@ -1817,14 +1849,6 @@
       "onboard_time": 1721698100,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 564737,
-      "num": 564737,
-      "word": "台风格美加强为超强台风",
-      "onboard_time": 1721785278,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 564306,
@@ -1969,14 +1993,6 @@
       "onboard_time": 1721624902,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 536338,
-      "num": 536338,
-      "word": "巴黎奥运倒计时2天",
-      "onboard_time": 1721777235,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 534840,
@@ -2435,14 +2451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 448250,
-      "num": 448250,
-      "word": "夏天厕所20分钟效应",
-      "onboard_time": 1721786418,
-      "rank": 12,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 446386,
       "num": 418005,
       "word": "张杰直播",
@@ -2643,6 +2651,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 413620,
+      "num": 413620,
+      "word": "未婚妻早产男子微信请假被公司辞退",
+      "onboard_time": 1721787379,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 412653,
       "num": 412653,
       "word": "单依纯说自己长得不高兴",
@@ -2697,6 +2713,14 @@
       "onboard_time": 1721610321,
       "rank": 16,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 403241,
+      "num": 403241,
+      "word": "骆驼 王俊凯",
+      "onboard_time": 1721788518,
+      "rank": 32,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 402339,
@@ -2796,7 +2820,7 @@
     },
     {
       "raw_hot": 389294,
-      "num": 197558,
+      "num": 215986,
       "word": "旅游是真的要趁早",
       "onboard_time": 1721748259,
       "rank": 49,
@@ -2961,14 +2985,6 @@
       "onboard_time": 1721639962,
       "rank": 36,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 360546,
-      "num": 360546,
-      "word": "大哥远无限期封禁",
-      "onboard_time": 1721788279,
-      "rank": 15,
-      "category": "网红"
     },
     {
       "raw_hot": 359706,
@@ -3219,14 +3235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 327120,
-      "num": 327120,
-      "word": "未婚妻早产男子微信请假被公司辞退",
-      "onboard_time": 1721787379,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 326694,
       "num": 316900,
       "word": "张若昀 三十岁也是相信光的年纪",
@@ -3281,6 +3289,14 @@
       "onboard_time": 1721705421,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 321246,
+      "num": 321246,
+      "word": "男子被流浪猫绊倒投喂者赔24万案宣判",
+      "onboard_time": 1721786839,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 317638,
@@ -3545,6 +3561,14 @@
       "onboard_time": 1721644160,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 294919,
+      "num": 294919,
+      "word": "放弃百万年薪他去阿勒泰养马放牛",
+      "onboard_time": 1721786780,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294738,
@@ -4043,14 +4067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 252056,
-      "num": 252056,
-      "word": "男子被流浪猫绊倒投喂者赔24万案宣判",
-      "onboard_time": 1721786839,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251648,
       "num": 251648,
       "word": "全红婵到巴黎说的第一个笑话",
@@ -4105,14 +4121,6 @@
       "onboard_time": 1721739860,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 249504,
-      "num": 249504,
-      "word": "放弃百万年薪他去阿勒泰养马放牛",
-      "onboard_time": 1721786780,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 249134,
@@ -4547,6 +4555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225686,
+      "num": 225686,
+      "word": "TheShy说Wei不如xun",
+      "onboard_time": 1721788219,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 225547,
       "num": 225547,
       "word": "七分甜回应捏捏杯一捏就爆",
@@ -4915,6 +4931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212872,
+      "num": 212872,
+      "word": "他是中国首位奥运会日夺3金的运动员",
+      "onboard_time": 1721788038,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212497,
       "num": 373355,
       "word": "山东招考院辟谣19万文科考生滑档",
@@ -4980,7 +5004,7 @@
     },
     {
       "raw_hot": 210461,
-      "num": 449107,
+      "num": 551933,
       "word": "这些属龙运动员出征龙年奥运了",
       "onboard_time": 1721786839,
       "rank": 9,
@@ -5315,14 +5339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 200928,
-      "num": 200928,
-      "word": "TheShy说Wei不如xun",
-      "onboard_time": 1721788219,
-      "rank": 29,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 200807,
       "num": 200807,
       "word": "张凌赫GUCCI活动生图",
@@ -5441,14 +5457,6 @@
       "onboard_time": 1721565319,
       "rank": 9,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 199030,
-      "num": 199030,
-      "word": "骆驼 王俊凯",
-      "onboard_time": 1721788518,
-      "rank": 32,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 198921,
@@ -6051,6 +6059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 189012,
+      "num": 189012,
+      "word": "被流浪猫绊倒案再审宣判",
+      "onboard_time": 1721788820,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189004,
       "num": 189004,
       "word": "田小娟想送歌给NewJeans",
@@ -6235,6 +6251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184212,
+      "num": 184212,
+      "word": "猫 拿我讨好你丈母娘是吧",
+      "onboard_time": 1721788518,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 184186,
       "num": 114374,
       "word": "张子墨回应退出登陆日",
@@ -6281,14 +6305,6 @@
       "onboard_time": 1721579420,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 183539,
-      "num": 183539,
-      "word": "他是中国首位奥运会日夺3金的运动员",
-      "onboard_time": 1721788038,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 183491,
@@ -6425,6 +6441,14 @@
       "onboard_time": 1721748080,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178374,
+      "num": 178374,
+      "word": "iPhone新增无线局域网通话开关",
+      "onboard_time": 1721787738,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 177904,
@@ -7235,14 +7259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 157677,
-      "num": 157677,
-      "word": "iPhone新增无线局域网通话开关",
-      "onboard_time": 1721787738,
-      "rank": 42,
-      "category": "数码"
-    },
-    {
       "raw_hot": 157580,
       "num": 625259,
       "word": "洁癖严重到无法出门是种什么感觉",
@@ -7281,6 +7297,14 @@
       "onboard_time": 1721616442,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155871,
+      "num": 155871,
+      "word": "赵丽娜再回应直播崩溃大哭",
+      "onboard_time": 1721788638,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 155680,
@@ -7323,20 +7347,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154818,
+      "num": 154818,
+      "word": "北京市升级发布暴雨橙色预警",
+      "onboard_time": 1721788279,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154739,
       "num": 154739,
       "word": "长沙警方通报五一广场车祸",
       "onboard_time": 1721606900,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154576,
-      "num": 154576,
-      "word": "猫 拿我讨好你丈母娘是吧",
-      "onboard_time": 1721788518,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 154421,
@@ -7571,14 +7595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146620,
-      "num": 146620,
-      "word": "北京市升级发布暴雨橙色预警",
-      "onboard_time": 1721788279,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146345,
       "num": 214351,
       "word": "重庆警方通报男子轨交上猥亵女子",
@@ -7617,6 +7633,22 @@
       "onboard_time": 1721541258,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145024,
+      "num": 145024,
+      "word": "乌尔善新片口碑",
+      "onboard_time": 1721789178,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 144633,
+      "num": 144633,
+      "word": "巴黎奥运村餐厅不提供炸鸡块",
+      "onboard_time": 1721789119,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 144565,
@@ -7801,14 +7833,6 @@
       "onboard_time": 1721559978,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 138777,
-      "num": 138777,
-      "word": "赵丽娜再回应直播崩溃大哭",
-      "onboard_time": 1721788638,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 138372,
@@ -9753,6 +9777,14 @@
       "onboard_time": 1721599632,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 23582,
+      "num": 216285,
+      "word": "日本52岁男子与24岁虚拟女友结婚",
+      "onboard_time": 1721788698,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23370,
