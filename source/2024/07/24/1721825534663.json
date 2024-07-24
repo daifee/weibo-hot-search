@@ -1,0 +1,410 @@
+{
+  "runTime": 1721825534663,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2059232,
+        "num": 2059232,
+        "word": "马龙冯雨担任中国体育代表团旗手",
+        "onboard_time": 1721823379,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1927500,
+        "num": 1927500,
+        "word": "李佳琦说旺旺离职不会挽留",
+        "onboard_time": 1721823620,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67414,
+        "num": 1458815,
+        "word": "暴雨天气这9件事千万要注意",
+        "onboard_time": 1721811620,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1414980,
+        "num": 1414980,
+        "word": "女高中生举报大学教师婚内出轨",
+        "onboard_time": 1721822178,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 912332,
+        "num": 912332,
+        "word": "骗子用赵露思旧照行骗",
+        "onboard_time": 1721820558,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 739248,
+        "num": 739248,
+        "word": "盖浇饭已经改叫中式能量碗了",
+        "onboard_time": 1721818461,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 672011,
+        "num": 672011,
+        "word": "巴黎奥运村纸板床终于塌了",
+        "onboard_time": 1721822777,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 619072,
+        "num": 619072,
+        "word": "EXO有自己的何炅",
+        "onboard_time": 1721823318,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 476697,
+        "num": 476697,
+        "word": "多家航司回应一人带三娃坐不了飞机",
+        "onboard_time": 1721819479,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100575,
+        "num": 444784,
+        "word": "女子时隔25年两次落水被同一人救起",
+        "onboard_time": 1721824640,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537417,
+        "num": 436484,
+        "word": "郑爽未播剧出品方母公司股权被冻结",
+        "onboard_time": 1721824700,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422144,
+        "num": 422144,
+        "word": "辛芷蕾 我不能只演一部分女性",
+        "onboard_time": 1721823978,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 388136,
+        "num": 388136,
+        "word": "深圳晚霞",
+        "onboard_time": 1721821399,
+        "rank": 12,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 370606,
+        "num": 370606,
+        "word": "特朗普停止举行大型户外竞选集会",
+        "onboard_time": 1721807480,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 127150,
+        "num": 366794,
+        "word": "原来这么多人在拼多多认真写评论",
+        "onboard_time": 1721813600,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 366212,
+        "num": 366212,
+        "word": "小夭婚礼上处处有相柳的影子",
+        "onboard_time": 1721818339,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289101,
+        "num": 289101,
+        "word": "浙江母女双双确诊红斑狼疮",
+        "onboard_time": 1721802680,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338606,
+        "num": 287317,
+        "word": "檀健次再演沈翊压力很大",
+        "onboard_time": 1721819119,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279253,
+        "num": 279253,
+        "word": "唐尚珺今年高考601分",
+        "onboard_time": 1721813240,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 274966,
+        "num": 274966,
+        "word": "香港一警长泰国旅游意外身亡",
+        "onboard_time": 1721820499,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447649,
+        "num": 262413,
+        "word": "女子称古茗奶茶内疑有血痰",
+        "onboard_time": 1721824039,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286482,
+        "num": 255405,
+        "word": "男子领证后连中三次彩票",
+        "onboard_time": 1721816360,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244194,
+        "num": 244194,
+        "word": "台风红色预警发布",
+        "onboard_time": 1721791640,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239384,
+        "num": 239384,
+        "word": "TF家族测体脂率",
+        "onboard_time": 1721824580,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 238699,
+        "num": 238699,
+        "word": "肾出现问题身体会发出这4个警报",
+        "onboard_time": 1721823921,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 226834,
+        "num": 226834,
+        "word": "时代少年团 新歌",
+        "onboard_time": 1721812338,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 222777,
+        "num": 222777,
+        "word": "地铁被污蔑偷拍案调解宣告破裂",
+        "onboard_time": 1721821038,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221113,
+        "num": 221113,
+        "word": "唐诡西行 独孤苍苍而娘子青青",
+        "onboard_time": 1721824100,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211298,
+        "num": 211298,
+        "word": "抓娃娃宣发",
+        "onboard_time": 1721814080,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204717,
+        "num": 204717,
+        "word": "爸爸为女儿展示矿泉水烟花太惊艳了",
+        "onboard_time": 1721817018,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202859,
+        "num": 202859,
+        "word": "歌手总决赛帮唱宣传片",
+        "onboard_time": 1721822239,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191904,
+        "num": 191904,
+        "word": "北京暴雨",
+        "onboard_time": 1721800820,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190460,
+        "num": 190460,
+        "word": "应对台风1.1万名消防员枕戈待旦",
+        "onboard_time": 1721823439,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189826,
+        "num": 189826,
+        "word": "刘冲搂着张婧仪出门",
+        "onboard_time": 1721799620,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185917,
+        "num": 185917,
+        "word": "JDG对战LNG",
+        "onboard_time": 1721825240,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 179708,
+        "num": 179708,
+        "word": "马龙巴黎见",
+        "onboard_time": 1721824940,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175157,
+        "num": 175157,
+        "word": "男子川藏线偶遇大爷竟是00后",
+        "onboard_time": 1721823439,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170813,
+        "num": 170813,
+        "word": "台风格美",
+        "onboard_time": 1721821639,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168169,
+        "num": 168169,
+        "word": "实拍禁止中韩客人入内日本餐厅",
+        "onboard_time": 1721807240,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165203,
+        "num": 165203,
+        "word": "陕师大一副教授被指发不雅照骚扰女生",
+        "onboard_time": 1721816959,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153207,
+        "num": 153207,
+        "word": "生命树 大女主剧",
+        "onboard_time": 1721812580,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144759,
+        "num": 144759,
+        "word": "王菲李嫣回京",
+        "onboard_time": 1721821577,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133368,
+        "num": 133368,
+        "word": "王一博出席乐华演唱会",
+        "onboard_time": 1721811439,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131423,
+        "num": 131423,
+        "word": "崔胜澈smart",
+        "onboard_time": 1721821038,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128329,
+        "num": 128329,
+        "word": "三伏天是祛湿最佳时间",
+        "onboard_time": 1721825240,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127073,
+        "num": 127073,
+        "word": "Capper官宣厂牌",
+        "onboard_time": 1721819538,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 127012,
+        "num": 127012,
+        "word": "NewJeans原出道组成员",
+        "onboard_time": 1721822840,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124140,
+        "num": 124140,
+        "word": "把温馨日常拍成窝点暗访了",
+        "onboard_time": 1721824580,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123785,
+        "num": 123785,
+        "word": "吴倩清纯女大即视感",
+        "onboard_time": 1721813600,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121467,
+        "num": 121467,
+        "word": "全国多地银行官宣降息",
+        "onboard_time": 1721822418,
+        "rank": 49,
+        "category": "社会新闻,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的体育情怀#"
+    }
+  }
+}
