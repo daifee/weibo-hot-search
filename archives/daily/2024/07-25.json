@@ -1,6 +1,6 @@
 {
   "startTime": 1721838296901,
-  "endTime": 1721848577543,
+  "endTime": 1721849675906,
   "band_list": [
     {
       "raw_hot": 1358111,
@@ -323,8 +323,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 112902,
-      "num": 96138,
+      "raw_hot": 116433,
+      "num": 116433,
       "word": "巴黎奥运会首个比赛日出现闹剧",
       "onboard_time": 1721842154,
       "rank": 39,
@@ -393,6 +393,14 @@
       "onboard_time": 1721818339,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91703,
+      "num": 45110,
+      "word": "特朗普遇袭事件出现最新视频",
+      "onboard_time": 1721846532,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 89332,
@@ -483,14 +491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 45110,
-      "num": 45110,
-      "word": "特朗普遇袭事件出现最新视频",
-      "onboard_time": 1721846532,
-      "rank": 13,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 38312,
       "num": 38312,
       "word": "虞书欣清冷A感",
@@ -531,6 +531,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25373,
+      "num": 25373,
+      "word": "妻子买西瓜发生纠纷男子捅伤瓜贩",
+      "onboard_time": 1721848331,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24311,
+      "num": 25224,
+      "word": "北京暴雨一秒入夜",
+      "onboard_time": 1721847852,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22983,
       "num": 169791,
       "word": "浙江姑娘在加沙开了三家免费中国诊所",
@@ -545,22 +561,6 @@
       "onboard_time": 1721838618,
       "rank": 9,
       "category": "自然"
-    },
-    {
-      "raw_hot": 19462,
-      "num": 24946,
-      "word": "北京暴雨一秒入夜",
-      "onboard_time": 1721847852,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19208,
-      "num": 24945,
-      "word": "妻子买西瓜发生纠纷男子捅伤瓜贩",
-      "onboard_time": 1721848331,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17980,
