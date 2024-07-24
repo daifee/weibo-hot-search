@@ -1,6 +1,6 @@
 {
   "startTime": 1721838296901,
-  "endTime": 1721842480213,
+  "endTime": 1721845699825,
   "band_list": [
     {
       "raw_hot": 1358111,
@@ -235,6 +235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 149146,
+      "num": 149146,
+      "word": "台风格美登陆台湾宜兰",
+      "onboard_time": 1721840355,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144419,
       "num": 144419,
       "word": "应对台风1.1万名消防员枕戈待旦",
@@ -315,6 +323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 112902,
+      "num": 78723,
+      "word": "巴黎奥运会首个比赛日出现闹剧",
+      "onboard_time": 1721842154,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109988,
       "num": 121199,
       "word": "女子时隔25年两次落水被同一人救起",
@@ -353,14 +369,6 @@
       "onboard_time": 1721823379,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 101325,
-      "num": 101325,
-      "word": "台风格美登陆台湾宜兰",
-      "onboard_time": 1721840355,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99916,
@@ -427,7 +435,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 68086,
+      "raw_hot": 69407,
       "num": 86100,
       "word": "知名痔疮药涨价20多倍还断货",
       "onboard_time": 1721840655,
@@ -443,19 +451,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 58881,
+      "num": 58881,
+      "word": "阿根廷国奥1比2摩洛哥国奥",
+      "onboard_time": 1721842634,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52974,
       "num": 86012,
       "word": "国乒女团vs埃及女团",
       "onboard_time": 1721841135,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 51805,
-      "num": 61515,
-      "word": "巴黎奥运会首个比赛日出现闹剧",
-      "onboard_time": 1721842154,
-      "rank": 39,
       "category": "体育"
     },
     {
@@ -475,12 +483,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38312,
+      "num": 38312,
+      "word": "虞书欣清冷A感",
+      "onboard_time": 1721842513,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30851,
       "num": 754755,
       "word": "万千气象看青海",
       "onboard_time": 1721826320,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30592,
+      "num": 37491,
+      "word": "音乐缘计划",
+      "onboard_time": 1721844614,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 28177,
+      "num": 37481,
+      "word": "奥运村环境",
+      "onboard_time": 1721842933,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 27139,
@@ -513,11 +545,22 @@
       "onboard_time": 1721842334,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10658,
+      "num": 78727,
+      "word": "男子胃痛医生一眼识别为心梗救下一命",
+      "onboard_time": 1721844193,
+      "rank": 9,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#习近平给厦航全体员工回信#"
+    },
+    {
+      "word": "#加快建设现代化经济体系#"
     }
   ]
 }
