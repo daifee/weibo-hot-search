@@ -1,0 +1,410 @@
+{
+  "runTime": 1721834504350,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1833222,
+        "num": 1833222,
+        "word": "国乒奥运抽签",
+        "onboard_time": 1721826921,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1545809,
+        "num": 1545809,
+        "word": "台风路径",
+        "onboard_time": 1721829740,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48391,
+        "num": 1358801,
+        "word": "万千气象看青海",
+        "onboard_time": 1721826320,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1321364,
+        "num": 1321364,
+        "word": "李佳琦说旺旺离职不会挽留",
+        "onboard_time": 1721823620,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 850091,
+        "num": 850091,
+        "word": "陕西师范大学声明已报案",
+        "onboard_time": 1721832022,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659598,
+        "num": 659598,
+        "word": "孙红雷回应移民传闻",
+        "onboard_time": 1721833281,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 645148,
+        "num": 645148,
+        "word": "关晓彤收到了孙颖莎的礼物",
+        "onboard_time": 1721829500,
+        "rank": 6,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 558202,
+        "num": 558202,
+        "word": "巴黎奥运村纸板床终于塌了",
+        "onboard_time": 1721822777,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 518740,
+        "num": 518740,
+        "word": "网传某头部大行员工月薪2千元",
+        "onboard_time": 1721826320,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 300209,
+        "num": 509836,
+        "word": "爸爸为女儿展示矿泉水烟花太惊艳了",
+        "onboard_time": 1721817018,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509317,
+        "num": 509317,
+        "word": "郑爽未播剧出品方母公司股权被冻结",
+        "onboard_time": 1721824700,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476718,
+        "num": 476718,
+        "word": "台风格美直角掉头了",
+        "onboard_time": 1721832920,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446144,
+        "num": 446144,
+        "word": "芒果台有自己的四大名著",
+        "onboard_time": 1721832801,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207649,
+        "num": 436391,
+        "word": "多家航司回应一人带三娃坐不了飞机",
+        "onboard_time": 1721819479,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429949,
+        "num": 429949,
+        "word": "檀健次再演沈翊压力很大",
+        "onboard_time": 1721819119,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370016,
+        "num": 370016,
+        "word": "知情人谈生理盐水冒充疫苗操作内幕",
+        "onboard_time": 1721827822,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327188,
+        "num": 327188,
+        "word": "EXO有自己的何炅",
+        "onboard_time": 1721823318,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 311638,
+        "num": 311638,
+        "word": "盖浇饭已经改叫中式能量碗了",
+        "onboard_time": 1721818461,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 252199,
+        "num": 252199,
+        "word": "成毅 我们都会找到不同的出路",
+        "onboard_time": 1721833281,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 226094,
+        "num": 226094,
+        "word": "这是马龙和奥运的16年",
+        "onboard_time": 1721826261,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 648304,
+        "num": 224659,
+        "word": "女高中生举报大学教师婚内出轨",
+        "onboard_time": 1721822178,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476047,
+        "num": 221528,
+        "word": "中国口红纸在国外火了",
+        "onboard_time": 1721828478,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 472477,
+        "num": 220176,
+        "word": "女子称古茗奶茶内疑有血痰",
+        "onboard_time": 1721824039,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383101,
+        "num": 217858,
+        "word": "肾出现问题身体会发出这4个警报",
+        "onboard_time": 1721823921,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 239774,
+        "num": 216029,
+        "word": "歌手帮唱声生不息团建",
+        "onboard_time": 1721829200,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61257,
+        "num": 212695,
+        "word": "Tiffany七夕活动",
+        "onboard_time": 1721830521,
+        "rank": 25,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 212184,
+        "num": 212184,
+        "word": "骗子用赵露思旧照行骗",
+        "onboard_time": 1721820558,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180845,
+        "num": 207903,
+        "word": "女子时隔25年两次落水被同一人救起",
+        "onboard_time": 1721824640,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206166,
+        "num": 206166,
+        "word": "巴黎奥运会开赛了",
+        "onboard_time": 1721827279,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201686,
+        "num": 201686,
+        "word": "张泽禹400w粉丝福利",
+        "onboard_time": 1721834001,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 238406,
+        "num": 200236,
+        "word": "WTT奥洛穆茨",
+        "onboard_time": 1721832739,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198472,
+        "num": 198472,
+        "word": "陕西师范大学",
+        "onboard_time": 1721833761,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197686,
+        "num": 197686,
+        "word": "阿根廷国奥vs摩洛哥国奥",
+        "onboard_time": 1721830401,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192565,
+        "num": 192565,
+        "word": "马龙冯雨担任中国体育代表团旗手",
+        "onboard_time": 1721823379,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191863,
+        "num": 191863,
+        "word": "张若昀空降北京电影院",
+        "onboard_time": 1721834300,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189653,
+        "num": 189653,
+        "word": "海莉孕肚大片",
+        "onboard_time": 1721825780,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182532,
+        "num": 182532,
+        "word": "辛芷蕾 我不能只演一部分女性",
+        "onboard_time": 1721823978,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179447,
+        "num": 179447,
+        "word": "长期使用是我妈攒钱的好办法",
+        "onboard_time": 1721833162,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172914,
+        "num": 172914,
+        "word": "三伏天是祛湿最佳时间",
+        "onboard_time": 1721825240,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 162681,
+        "num": 162681,
+        "word": "应对台风1.1万名消防员枕戈待旦",
+        "onboard_time": 1721823439,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161986,
+        "num": 161986,
+        "word": "台风格美开始画圈了",
+        "onboard_time": 1721833341,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153222,
+        "num": 153222,
+        "word": "三伏天蒸桃子",
+        "onboard_time": 1721832081,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 151648,
+        "num": 151648,
+        "word": "在健身房锻炼被人开走了",
+        "onboard_time": 1721832081,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149854,
+        "num": 149854,
+        "word": "男子川藏线偶遇大爷竟是00后",
+        "onboard_time": 1721823439,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144104,
+        "num": 144104,
+        "word": "全网围观台风格美路径",
+        "onboard_time": 1721833401,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143303,
+        "num": 143303,
+        "word": "小夭婚礼上处处有相柳的影子",
+        "onboard_time": 1721818339,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138636,
+        "num": 138636,
+        "word": "白宇 太平年",
+        "onboard_time": 1721834121,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138197,
+        "num": 138197,
+        "word": "陕师大一副教授被指发不雅照骚扰女生",
+        "onboard_time": 1721816959,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138013,
+        "num": 138013,
+        "word": "地铁被污蔑偷拍案调解宣告破裂",
+        "onboard_time": 1721821038,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130465,
+        "num": 130465,
+        "word": "SEVENTEEN十月开启世巡",
+        "onboard_time": 1721828361,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平给厦航全体员工回信#"
+    }
+  }
+}

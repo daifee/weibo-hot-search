@@ -1,6 +1,6 @@
 {
   "startTime": 1721752056115,
-  "endTime": 1721831844955,
+  "endTime": 1721834504350,
   "band_list": [
     {
       "raw_hot": 2204859,
@@ -25,6 +25,14 @@
       "onboard_time": 1721823620,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1833222,
+      "num": 1833222,
+      "word": "国乒奥运抽签",
+      "onboard_time": 1721826921,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 1807455,
@@ -57,6 +65,14 @@
       "onboard_time": 1721799620,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1545809,
+      "num": 1545809,
+      "word": "台风路径",
+      "onboard_time": 1721829740,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1530617,
@@ -363,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 850091,
+      "num": 850091,
+      "word": "陕西师范大学声明已报案",
+      "onboard_time": 1721832022,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 825088,
       "num": 825088,
       "word": "歌王之战官宣张杰",
@@ -483,14 +507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 689335,
-      "num": 689335,
-      "word": "国乒奥运抽签",
-      "onboard_time": 1721826921,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 684428,
       "num": 684428,
       "word": "台风",
@@ -499,12 +515,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 659598,
+      "num": 659598,
+      "word": "孙红雷回应移民传闻",
+      "onboard_time": 1721833281,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 656426,
       "num": 656426,
       "word": "巴黎奥运倒计时2天",
       "onboard_time": 1721777235,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 645148,
+      "num": 645148,
+      "word": "关晓彤收到了孙颖莎的礼物",
+      "onboard_time": 1721829500,
+      "rank": 22,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 644006,
@@ -585,14 +617,6 @@
       "onboard_time": 1721806160,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 593121,
-      "num": 593121,
-      "word": "关晓彤收到了孙颖莎的礼物",
-      "onboard_time": 1721829500,
-      "rank": 22,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 585423,
@@ -747,12 +771,28 @@
       "category": "自然"
     },
     {
+      "raw_hot": 476718,
+      "num": 476718,
+      "word": "台风格美直角掉头了",
+      "onboard_time": 1721832920,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 476121,
       "num": 476121,
       "word": "歌手帮唱",
       "onboard_time": 1721793440,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 476047,
+      "num": 254632,
+      "word": "中国口红纸在国外火了",
+      "onboard_time": 1721828478,
+      "rank": 23,
+      "category": "美妆"
     },
     {
       "raw_hot": 468200,
@@ -801,6 +841,14 @@
       "onboard_time": 1721793260,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 446144,
+      "num": 446144,
+      "word": "芒果台有自己的四大名著",
+      "onboard_time": 1721832801,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 445757,
@@ -897,6 +945,14 @@
       "onboard_time": 1721797101,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 370016,
+      "num": 452858,
+      "word": "知情人谈生理盐水冒充疫苗操作内幕",
+      "onboard_time": 1721827822,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 369267,
@@ -1035,14 +1091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 313451,
-      "num": 254632,
-      "word": "中国口红纸在国外火了",
-      "onboard_time": 1721828478,
-      "rank": 23,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 310146,
       "num": 310146,
       "word": "王一博出席乐华演唱会",
@@ -1075,20 +1123,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 300209,
+      "num": 509836,
+      "word": "爸爸为女儿展示矿泉水烟花太惊艳了",
+      "onboard_time": 1721817018,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299441,
       "num": 299441,
       "word": "田柾国Jennie金珉奎一起吃烤肉",
       "onboard_time": 1721778676,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 299012,
-      "num": 299012,
-      "word": "台风路径",
-      "onboard_time": 1721829740,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 298648,
@@ -1179,14 +1227,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 274845,
-      "num": 389527,
-      "word": "爸爸为女儿展示矿泉水烟花太惊艳了",
-      "onboard_time": 1721817018,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 269384,
       "num": 269384,
       "word": "王者荣耀",
@@ -1248,6 +1288,14 @@
       "word": "张婧仪挂脖U领",
       "onboard_time": 1721796440,
       "rank": 29,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 252199,
+      "num": 252199,
+      "word": "成毅 我们都会找到不同的出路",
+      "onboard_time": 1721833281,
+      "rank": 18,
       "category": "作品衍生"
     },
     {
@@ -1361,6 +1409,14 @@
       "onboard_time": 1721781080,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 238406,
+      "num": 200236,
+      "word": "WTT奥洛穆茨",
+      "onboard_time": 1721832739,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 238000,
@@ -1547,14 +1603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214792,
-      "num": 452858,
-      "word": "知情人谈生理盐水冒充疫苗操作内幕",
-      "onboard_time": 1721827822,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 214062,
       "num": 214062,
       "word": "奥运开幕倒计时2天有体彩店已卖空",
@@ -1675,6 +1723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201686,
+      "num": 201686,
+      "word": "张泽禹400w粉丝福利",
+      "onboard_time": 1721834001,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 199803,
       "num": 199803,
       "word": "资深程序员已经开始用AI干活了",
@@ -1705,6 +1761,22 @@
       "onboard_time": 1721784618,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198472,
+      "num": 198472,
+      "word": "陕西师范大学",
+      "onboard_time": 1721833761,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197686,
+      "num": 197686,
+      "word": "阿根廷国奥vs摩洛哥国奥",
+      "onboard_time": 1721830401,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 197378,
@@ -1785,6 +1857,14 @@
       "onboard_time": 1721813839,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191863,
+      "num": 191863,
+      "word": "张若昀空降北京电影院",
+      "onboard_time": 1721834300,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 191578,
@@ -1899,14 +1979,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 185158,
-      "num": 185158,
-      "word": "阿根廷国奥vs摩洛哥国奥",
-      "onboard_time": 1721830401,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 183605,
       "num": 183605,
       "word": "地磁暴又要来了",
@@ -1931,12 +2003,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180845,
+      "num": 444784,
+      "word": "女子时隔25年两次落水被同一人救起",
+      "onboard_time": 1721824640,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179708,
       "num": 179708,
       "word": "马龙巴黎见",
       "onboard_time": 1721824940,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179447,
+      "num": 179447,
+      "word": "长期使用是我妈攒钱的好办法",
+      "onboard_time": 1721833162,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 179078,
@@ -2025,14 +2113,6 @@
       "onboard_time": 1721830461,
       "rank": 31,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 172232,
-      "num": 444784,
-      "word": "女子时隔25年两次落水被同一人救起",
-      "onboard_time": 1721824640,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170501,
@@ -2147,6 +2227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161986,
+      "num": 161986,
+      "word": "台风格美开始画圈了",
+      "onboard_time": 1721833341,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161709,
       "num": 161709,
       "word": "苹果回应iPhone相册照片消失",
@@ -2235,12 +2323,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153222,
+      "num": 153222,
+      "word": "三伏天蒸桃子",
+      "onboard_time": 1721832081,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 151762,
       "num": 151762,
       "word": "魏大勋竹叶新中式长衫",
       "onboard_time": 1721829320,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151648,
+      "num": 151648,
+      "word": "在健身房锻炼被人开走了",
+      "onboard_time": 1721832081,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 150490,
@@ -2307,6 +2411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144104,
+      "num": 144104,
+      "word": "全网围观台风格美路径",
+      "onboard_time": 1721833401,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143704,
       "num": 475822,
       "word": "大学生山里卖凉皮顺手救了个人",
@@ -2337,6 +2449,14 @@
       "onboard_time": 1721745981,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138636,
+      "num": 138636,
+      "word": "白宇 太平年",
+      "onboard_time": 1721834121,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 136741,
@@ -2876,7 +2996,7 @@
     },
     {
       "raw_hot": 64768,
-      "num": 982696,
+      "num": 1358801,
       "word": "万千气象看青海",
       "onboard_time": 1721826320,
       "rank": 2,
@@ -2905,6 +3025,14 @@
       "onboard_time": 1721738479,
       "rank": 48,
       "category": "网红,作品衍生"
+    },
+    {
+      "raw_hot": 61257,
+      "num": 229115,
+      "word": "Tiffany七夕活动",
+      "onboard_time": 1721830521,
+      "rank": 46,
+      "category": "时尚"
     },
     {
       "raw_hot": 58388,
@@ -2961,14 +3089,6 @@
       "onboard_time": 1721772611,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 44796,
-      "num": 229115,
-      "word": "Tiffany七夕活动",
-      "onboard_time": 1721830521,
-      "rank": 46,
-      "category": "时尚"
     },
     {
       "raw_hot": 43598,
