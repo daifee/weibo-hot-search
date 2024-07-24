@@ -1,6 +1,6 @@
 {
   "startTime": 1721838296901,
-  "endTime": 1721852423006,
+  "endTime": 1721853323380,
   "band_list": [
     {
       "raw_hot": 1358111,
@@ -435,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79509,
+      "num": 79509,
+      "word": "妻子买西瓜发生纠纷男子捅伤瓜贩",
+      "onboard_time": 1721848331,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79426,
       "num": 120885,
       "word": "辛芷蕾 我不能只演一部分女性",
@@ -447,14 +455,6 @@
       "num": 120868,
       "word": "男子川藏线偶遇大爷竟是00后",
       "onboard_time": 1721823439,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66602,
-      "num": 66602,
-      "word": "妻子买西瓜发生纠纷男子捅伤瓜贩",
-      "onboard_time": 1721848331,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -523,20 +523,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29290,
+      "num": 25858,
+      "word": "北京暴雨一秒入夜",
+      "onboard_time": 1721847852,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28177,
       "num": 37481,
       "word": "奥运村环境",
       "onboard_time": 1721842933,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 27540,
-      "num": 25858,
-      "word": "北京暴雨一秒入夜",
-      "onboard_time": 1721847852,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27139,
@@ -563,8 +563,8 @@
       "category": "自然"
     },
     {
-      "raw_hot": 18008,
-      "num": 21399,
+      "raw_hot": 18766,
+      "num": 21636,
       "word": "为何红斑狼疮尤其偏爱女性",
       "onboard_time": 1721850490,
       "rank": 38,
@@ -585,6 +585,22 @@
       "onboard_time": 1721844193,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17009,
+      "num": 21578,
+      "word": "田曦薇的眼睛就是尺",
+      "onboard_time": 1721852831,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 15315,
+      "num": 21528,
+      "word": "闪光的夏天",
+      "onboard_time": 1721852590,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 13773,
