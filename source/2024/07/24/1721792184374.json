@@ -1,0 +1,410 @@
+{
+  "runTime": 1721792184374,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1267066,
+        "num": 1267066,
+        "word": "大哥远无限期封禁",
+        "onboard_time": 1721788279,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 927927,
+        "num": 927927,
+        "word": "台湾语文课本文言文删掉了四分之三",
+        "onboard_time": 1721780719,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19755,
+        "num": 838126,
+        "word": "中国奥运健儿带来的感动瞬间",
+        "onboard_time": 1721792060,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 831483,
+        "num": 831483,
+        "word": "被虐待致死的3岁女童母亲发声",
+        "onboard_time": 1721789838,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 813339,
+        "num": 813339,
+        "word": "哈里斯支持率领先特朗普2%",
+        "onboard_time": 1721790079,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 748756,
+        "num": 748756,
+        "word": "男子被流浪猫绊倒投喂者赔24万案宣判",
+        "onboard_time": 1721786839,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623758,
+        "num": 623758,
+        "word": "谭松韵快把长发焊在头上",
+        "onboard_time": 1721784138,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 585423,
+        "num": 585423,
+        "word": "孙丞潇对女嘉宾的边界感",
+        "onboard_time": 1721789420,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 544066,
+        "num": 544066,
+        "word": "放弃百万年薪他去阿勒泰养马放牛",
+        "onboard_time": 1721786780,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71097,
+        "num": 525409,
+        "word": "多地受台风格美影响将有大到暴雨",
+        "onboard_time": 1721783239,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1241703,
+        "num": 524447,
+        "word": "沈腾老婆胖了好多",
+        "onboard_time": 1721788279,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 780585,
+        "num": 522371,
+        "word": "夏天厕所20分钟效应",
+        "onboard_time": 1721786418,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 516027,
+        "num": 516027,
+        "word": "台风格美加强为超强台风",
+        "onboard_time": 1721785278,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36613,
+        "num": 498713,
+        "word": "三星堆考古新发现实证3000年前城市规划",
+        "onboard_time": 1721791699,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180432,
+        "num": 486014,
+        "word": "拜登将于24日晚就退选发表演讲",
+        "onboard_time": 1721790619,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 483300,
+        "num": 483300,
+        "word": "巴黎奥运倒计时2天",
+        "onboard_time": 1721777235,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 460723,
+        "num": 460723,
+        "word": "未婚妻早产男子微信请假被公司辞退",
+        "onboard_time": 1721787379,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415354,
+        "num": 415354,
+        "word": "英国一强奸犯狱中中720万英镑大奖",
+        "onboard_time": 1721777115,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42982,
+        "num": 410098,
+        "word": "东方茶席卷巴黎city不city",
+        "onboard_time": 1721790259,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 408194,
+        "num": 408194,
+        "word": "没人告诉我张杰唱甜歌这么好听",
+        "onboard_time": 1721790139,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 429231,
+        "num": 397979,
+        "word": "官方通报中学政教处主任表白学生",
+        "onboard_time": 1721784018,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356403,
+        "num": 356403,
+        "word": "唐尚珺被华南师范大学录取",
+        "onboard_time": 1721790978,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 327062,
+        "num": 327062,
+        "word": "唐诡西行 配角的命也是命",
+        "onboard_time": 1721786718,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310288,
+        "num": 310288,
+        "word": "买黄金前一定要知道的冷知识",
+        "onboard_time": 1721789960,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 307473,
+        "num": 307473,
+        "word": "猫 拿我讨好你丈母娘是吧",
+        "onboard_time": 1721788518,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 302654,
+        "num": 302654,
+        "word": "尼坤妹妹被家暴",
+        "onboard_time": 1721775914,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283805,
+        "num": 283805,
+        "word": "陈妍希周柯宇演情侣cp感",
+        "onboard_time": 1721790139,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282145,
+        "num": 282145,
+        "word": "恋与制作人",
+        "onboard_time": 1721790858,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 274639,
+        "num": 274639,
+        "word": "刘畊宏谈定居苏州公园多到超乎想象",
+        "onboard_time": 1721777416,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34935,
+        "num": 259654,
+        "word": "美国男子强暴14岁少女判11年",
+        "onboard_time": 1721791640,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1012943,
+        "num": 258483,
+        "word": "骆驼 王俊凯",
+        "onboard_time": 1721788518,
+        "rank": 30,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 254011,
+        "num": 254011,
+        "word": "这些属龙运动员出征龙年奥运了",
+        "onboard_time": 1721786839,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249405,
+        "num": 249405,
+        "word": "追踪台风格美",
+        "onboard_time": 1721789779,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243710,
+        "num": 243710,
+        "word": "台风红色预警发布",
+        "onboard_time": 1721791640,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230538,
+        "num": 230538,
+        "word": "陈楚生帮唱谭维维",
+        "onboard_time": 1721789838,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216379,
+        "num": 216379,
+        "word": "乌尔善新片口碑",
+        "onboard_time": 1721789178,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 208619,
+        "num": 208619,
+        "word": "拜登退选后首次公开露面",
+        "onboard_time": 1721780839,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 203900,
+        "num": 203900,
+        "word": "私藏浪漫官宣定档",
+        "onboard_time": 1721792060,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194926,
+        "num": 194926,
+        "word": "巴黎奥运会首个比赛日",
+        "onboard_time": 1721777357,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186993,
+        "num": 186993,
+        "word": "偶遇沈腾一家度假",
+        "onboard_time": 1721776457,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184706,
+        "num": 184706,
+        "word": "台风暴雨高温多预警齐发",
+        "onboard_time": 1721783239,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183010,
+        "num": 183010,
+        "word": "婚纱照发朋友圈被同事阴阳了",
+        "onboard_time": 1721778197,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182206,
+        "num": 182206,
+        "word": "台风",
+        "onboard_time": 1721778619,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181917,
+        "num": 181917,
+        "word": "他是中国首位奥运会日夺3金的运动员",
+        "onboard_time": 1721788038,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18878,
+        "num": 179644,
+        "word": "高质量发展中国行",
+        "onboard_time": 1721720000,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 178145,
+        "num": 178145,
+        "word": "张杰跳着跳着笑场了",
+        "onboard_time": 1721791999,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170315,
+        "num": 170315,
+        "word": "张远有个朋友",
+        "onboard_time": 1721791460,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169605,
+        "num": 169605,
+        "word": "TheShy说Wei不如xun",
+        "onboard_time": 1721788219,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 169003,
+        "num": 169003,
+        "word": "种地吧",
+        "onboard_time": 1721785879,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165987,
+        "num": 165987,
+        "word": "金靖文案 小孕妇",
+        "onboard_time": 1721735360,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#这个纲领性文件是如何诞生的#"
+    }
+  }
+}

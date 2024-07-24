@@ -1,6 +1,6 @@
 {
   "startTime": 1721752056115,
-  "endTime": 1721791358181,
+  "endTime": 1721792184374,
   "band_list": [
     {
       "raw_hot": 2095531,
@@ -19,15 +19,15 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1239723,
-      "num": 1239723,
+      "raw_hot": 1267066,
+      "num": 1267066,
       "word": "大哥远无限期封禁",
       "onboard_time": 1721788279,
       "rank": 15,
       "category": "网红"
     },
     {
-      "raw_hot": 1233480,
+      "raw_hot": 1241703,
       "num": 804297,
       "word": "沈腾老婆胖了好多",
       "onboard_time": 1721788279,
@@ -83,6 +83,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 831483,
+      "num": 831483,
+      "word": "被虐待致死的3岁女童母亲发声",
+      "onboard_time": 1721789838,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 813339,
+      "num": 813339,
+      "word": "哈里斯支持率领先特朗普2%",
+      "onboard_time": 1721790079,
+      "rank": 16,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 806770,
       "num": 806770,
       "word": "拜登退选后首次公开露面",
@@ -107,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 748756,
+      "num": 748756,
+      "word": "男子被流浪猫绊倒投喂者赔24万案宣判",
+      "onboard_time": 1721786839,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 702696,
       "num": 363460,
       "word": "张杰用镊子给自己拔鱼刺",
@@ -121,14 +145,6 @@
       "onboard_time": 1721776457,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 688917,
-      "num": 688917,
-      "word": "男子被流浪猫绊倒投喂者赔24万案宣判",
-      "onboard_time": 1721786839,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 684428,
@@ -179,8 +195,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 580704,
-      "num": 580704,
+      "raw_hot": 585423,
+      "num": 585423,
       "word": "孙丞潇对女嘉宾的边界感",
       "onboard_time": 1721789420,
       "rank": 11,
@@ -193,14 +209,6 @@
       "onboard_time": 1721746761,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 559200,
-      "num": 559200,
-      "word": "被虐待致死的3岁女童母亲发声",
-      "onboard_time": 1721789838,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 547443,
@@ -225,14 +233,6 @@
       "onboard_time": 1721787379,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 512229,
-      "num": 512229,
-      "word": "哈里斯支持率领先特朗普2%",
-      "onboard_time": 1721790079,
-      "rank": 16,
-      "category": "国外时政"
     },
     {
       "raw_hot": 504964,
@@ -299,6 +299,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 408194,
+      "num": 408194,
+      "word": "没人告诉我张杰唱甜歌这么好听",
+      "onboard_time": 1721790139,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 389294,
       "num": 215986,
       "word": "旅游是真的要趁早",
@@ -321,6 +329,14 @@
       "onboard_time": 1721736259,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 356403,
+      "num": 356403,
+      "word": "唐尚珺被华南师范大学录取",
+      "onboard_time": 1721790978,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 354475,
@@ -355,14 +371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 334376,
-      "num": 334376,
-      "word": "没人告诉我张杰唱甜歌这么好听",
-      "onboard_time": 1721790139,
-      "rank": 23,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 327663,
       "num": 327663,
       "word": "猫 拿我讨好你丈母娘是吧",
@@ -377,6 +385,14 @@
       "onboard_time": 1721734041,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 310288,
+      "num": 310288,
+      "word": "买黄金前一定要知道的冷知识",
+      "onboard_time": 1721789960,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 305075,
@@ -427,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282145,
+      "num": 282145,
+      "word": "恋与制作人",
+      "onboard_time": 1721790858,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 269369,
       "num": 269369,
       "word": "回春丹帮唱那英",
@@ -451,6 +475,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 243710,
+      "num": 243710,
+      "word": "台风红色预警发布",
+      "onboard_time": 1721791640,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242548,
       "num": 242548,
       "word": "被失联5年的爸爸联系了",
@@ -465,14 +497,6 @@
       "onboard_time": 1721789838,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 240667,
-      "num": 240667,
-      "word": "买黄金前一定要知道的冷知识",
-      "onboard_time": 1721789960,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 238634,
@@ -513,14 +537,6 @@
       "onboard_time": 1721728100,
       "rank": 22,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 232518,
-      "num": 232518,
-      "word": "恋与制作人",
-      "onboard_time": 1721790858,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 231855,
@@ -587,12 +603,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 207665,
-      "num": 207665,
-      "word": "唐尚珺被华南师范大学录取",
-      "onboard_time": 1721790978,
-      "rank": 35,
-      "category": "教育"
+      "raw_hot": 203900,
+      "num": 203900,
+      "word": "私藏浪漫官宣定档",
+      "onboard_time": 1721792060,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 199803,
@@ -675,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180432,
+      "num": 524152,
+      "word": "拜登将于24日晚就退选发表演讲",
+      "onboard_time": 1721790619,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 178393,
       "num": 190868,
       "word": "昆明广告牌坠落致3死目击者发声",
@@ -689,6 +713,14 @@
       "onboard_time": 1721787738,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 178145,
+      "num": 178145,
+      "word": "张杰跳着跳着笑场了",
+      "onboard_time": 1721791999,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 176808,
@@ -720,6 +752,14 @@
       "word": "网友吐槽aespa上海签售",
       "onboard_time": 1721782458,
       "rank": 36,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 170315,
+      "num": 170315,
+      "word": "张远有个朋友",
+      "onboard_time": 1721791460,
+      "rank": 46,
       "category": "作品衍生"
     },
     {
@@ -801,14 +841,6 @@
       "onboard_time": 1721788279,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151332,
-      "num": 524152,
-      "word": "拜登将于24日晚就退选发表演讲",
-      "onboard_time": 1721790619,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 144996,
@@ -1155,20 +1187,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 42982,
+      "num": 410098,
+      "word": "东方茶席卷巴黎city不city",
+      "onboard_time": 1721790259,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 36613,
+      "num": 498713,
+      "word": "三星堆考古新发现实证3000年前城市规划",
+      "onboard_time": 1721791699,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34935,
+      "num": 259654,
+      "word": "美国男子强暴14岁少女判11年",
+      "onboard_time": 1721791640,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33201,
       "num": 38727,
       "word": "找到花花等比例长大的证据了",
       "onboard_time": 1721764270,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 33084,
-      "num": 365473,
-      "word": "东方茶席卷巴黎city不city",
-      "onboard_time": 1721790259,
-      "rank": 19,
-      "category": "美食"
     },
     {
       "raw_hot": 31594,
@@ -1216,6 +1264,14 @@
       "word": "超万人聚集在西班牙抗议过度旅游",
       "onboard_time": 1721790978,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19755,
+      "num": 838126,
+      "word": "中国奥运健儿带来的感动瞬间",
+      "onboard_time": 1721792060,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1273,6 +1329,9 @@
     },
     {
       "word": "#二十届三中全会决定思维导图#"
+    },
+    {
+      "word": "#这个纲领性文件是如何诞生的#"
     }
   ]
 }

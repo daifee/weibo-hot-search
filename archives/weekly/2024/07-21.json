@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721791358181,
+  "endTime": 1721792184374,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -539,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1267066,
+      "num": 1267066,
+      "word": "大哥远无限期封禁",
+      "onboard_time": 1721788279,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1249764,
       "num": 914147,
       "word": "王鹤棣经纪人开了炸串店",
@@ -563,15 +571,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1239723,
-      "num": 1239723,
-      "word": "大哥远无限期封禁",
-      "onboard_time": 1721788279,
-      "rank": 15,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 1233480,
+      "raw_hot": 1241703,
       "num": 804297,
       "word": "沈腾老婆胖了好多",
       "onboard_time": 1721788279,
@@ -1131,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 831483,
+      "num": 831483,
+      "word": "被虐待致死的3岁女童母亲发声",
+      "onboard_time": 1721789838,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 831406,
       "num": 680916,
       "word": "拜登听取线上简报",
@@ -1177,6 +1185,14 @@
       "onboard_time": 1721635881,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 813339,
+      "num": 813339,
+      "word": "哈里斯支持率领先特朗普2%",
+      "onboard_time": 1721790079,
+      "rank": 16,
+      "category": "国外时政"
     },
     {
       "raw_hot": 812759,
@@ -1313,6 +1329,14 @@
       "onboard_time": 1721723241,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 748756,
+      "num": 748756,
+      "word": "男子被流浪猫绊倒投喂者赔24万案宣判",
+      "onboard_time": 1721786839,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 745765,
@@ -1480,14 +1504,6 @@
       "word": "司机称10个中就有2个在用作弊软件",
       "onboard_time": 1721529018,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 688917,
-      "num": 688917,
-      "word": "男子被流浪猫绊倒投喂者赔24万案宣判",
-      "onboard_time": 1721786839,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1795,6 +1811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 585423,
+      "num": 585423,
+      "word": "孙丞潇对女嘉宾的边界感",
+      "onboard_time": 1721789420,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 585270,
       "num": 585270,
       "word": "高会",
@@ -1809,14 +1833,6 @@
       "onboard_time": 1721519115,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 580704,
-      "num": 580704,
-      "word": "孙丞潇对女嘉宾的边界感",
-      "onboard_time": 1721789420,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 580143,
@@ -1913,14 +1929,6 @@
       "onboard_time": 1721723601,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 559200,
-      "num": 559200,
-      "word": "被虐待致死的3岁女童母亲发声",
-      "onboard_time": 1721789838,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 558672,
@@ -2161,14 +2169,6 @@
       "onboard_time": 1721787379,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 512229,
-      "num": 512229,
-      "word": "哈里斯支持率领先特朗普2%",
-      "onboard_time": 1721790079,
-      "rank": 16,
-      "category": "国外时政"
     },
     {
       "raw_hot": 509219,
@@ -2731,6 +2731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 408194,
+      "num": 408194,
+      "word": "没人告诉我张杰唱甜歌这么好听",
+      "onboard_time": 1721790139,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 408010,
       "num": 408010,
       "word": "Lady Gaga 奥运开幕式",
@@ -3075,6 +3083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356403,
+      "num": 356403,
+      "word": "唐尚珺被华南师范大学录取",
+      "onboard_time": 1721790978,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 355167,
       "num": 355167,
       "word": "看到娜然懂什么是刮骨刀了",
@@ -3233,14 +3249,6 @@
       "onboard_time": 1721634741,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 334376,
-      "num": 334376,
-      "word": "没人告诉我张杰唱甜歌这么好听",
-      "onboard_time": 1721790139,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 334032,
@@ -3433,6 +3441,14 @@
       "onboard_time": 1721732540,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 310288,
+      "num": 310288,
+      "word": "买黄金前一定要知道的冷知识",
+      "onboard_time": 1721789960,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 310142,
@@ -3761,6 +3777,14 @@
       "onboard_time": 1721789779,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282145,
+      "num": 282145,
+      "word": "恋与制作人",
+      "onboard_time": 1721790858,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 281212,
@@ -4243,6 +4267,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 243710,
+      "num": 243710,
+      "word": "台风红色预警发布",
+      "onboard_time": 1721791640,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243313,
       "num": 243313,
       "word": "白宇拍的国乒",
@@ -4345,14 +4377,6 @@
       "onboard_time": 1721648124,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 240667,
-      "num": 240667,
-      "word": "买黄金前一定要知道的冷知识",
-      "onboard_time": 1721789960,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 240077,
@@ -4513,14 +4537,6 @@
       "onboard_time": 1721502372,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232518,
-      "num": 232518,
-      "word": "恋与制作人",
-      "onboard_time": 1721790858,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 232436,
@@ -5163,14 +5179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 207665,
-      "num": 207665,
-      "word": "唐尚珺被华南师范大学录取",
-      "onboard_time": 1721790978,
-      "rank": 35,
-      "category": "教育"
-    },
-    {
       "raw_hot": 207231,
       "num": 214620,
       "word": "俄罗斯女子从13楼坠落奇迹生还",
@@ -5296,6 +5304,14 @@
       "word": "涂山璟热度破2亿",
       "onboard_time": 1721710941,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 203900,
+      "num": 203900,
+      "word": "私藏浪漫官宣定档",
+      "onboard_time": 1721792060,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -6467,6 +6483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180432,
+      "num": 524152,
+      "word": "拜登将于24日晚就退选发表演讲",
+      "onboard_time": 1721790619,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 180250,
       "num": 357413,
       "word": "特朗普遭枪击后首次现身竞选集会",
@@ -6537,6 +6561,14 @@
       "onboard_time": 1721787738,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 178145,
+      "num": 178145,
+      "word": "张杰跳着跳着笑场了",
+      "onboard_time": 1721791999,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 177904,
@@ -6921,6 +6953,14 @@
       "onboard_time": 1721560877,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170315,
+      "num": 170315,
+      "word": "张远有个朋友",
+      "onboard_time": 1721791460,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 169999,
@@ -7601,14 +7641,6 @@
       "onboard_time": 1721567420,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151332,
-      "num": 524152,
-      "word": "拜登将于24日晚就退选发表演讲",
-      "onboard_time": 1721790619,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 151235,
@@ -9547,6 +9579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42982,
+      "num": 410098,
+      "word": "东方茶席卷巴黎city不city",
+      "onboard_time": 1721790259,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 42719,
       "num": 42719,
       "word": "这3种药长期服用或让免疫力下降",
@@ -9667,6 +9707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36613,
+      "num": 498713,
+      "word": "三星堆考古新发现实证3000年前城市规划",
+      "onboard_time": 1721791699,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36119,
       "num": 46022,
       "word": "商家按单做热咖啡被顾客差评要冷的",
@@ -9687,6 +9735,14 @@
       "num": 202791,
       "word": "攀岩世界纪录5秒内攀上5楼高",
       "onboard_time": 1721702781,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34935,
+      "num": 259654,
+      "word": "美国男子强暴14岁少女判11年",
+      "onboard_time": 1721791640,
       "rank": 29,
       "category": "社会新闻"
     },
@@ -9720,14 +9776,6 @@
       "word": "四川眉山千人共吃超大火锅",
       "onboard_time": 1721681230,
       "rank": 40,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 33084,
-      "num": 365473,
-      "word": "东方茶席卷巴黎city不city",
-      "onboard_time": 1721790259,
-      "rank": 19,
       "category": "美食"
     },
     {
@@ -10027,6 +10075,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 19755,
+      "num": 838126,
+      "word": "中国奥运健儿带来的感动瞬间",
+      "onboard_time": 1721792060,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19117,
       "num": 28896,
       "word": "遇到性骚扰请勇敢说不",
@@ -10224,6 +10280,9 @@
     },
     {
       "word": "#二十届三中全会决定思维导图#"
+    },
+    {
+      "word": "#这个纲领性文件是如何诞生的#"
     }
   ]
 }
