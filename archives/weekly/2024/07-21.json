@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721794960379,
+  "endTime": 1721795794541,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -307,20 +307,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1807455,
+      "num": 1807455,
+      "word": "种地吧",
+      "onboard_time": 1721603897,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1780418,
       "num": 1780418,
       "word": "教师在产假期间被公示解聘",
       "onboard_time": 1721696658,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1763420,
-      "num": 1763420,
-      "word": "种地吧",
-      "onboard_time": 1721603897,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 1760150,
@@ -412,7 +412,7 @@
     },
     {
       "raw_hot": 1530617,
-      "num": 1150915,
+      "num": 1246949,
       "word": "歌王之战帮唱阵容官宣",
       "onboard_time": 1721793200,
       "rank": 3,
@@ -432,6 +432,14 @@
       "word": "美国国会大厦降半旗真相",
       "onboard_time": 1721727021,
       "rank": 37,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 1458611,
+      "num": 1458611,
+      "word": "拜登将于24日晚就退选发表演讲",
+      "onboard_time": 1721790619,
+      "rank": 14,
       "category": "国外时政"
     },
     {
@@ -524,7 +532,7 @@
     },
     {
       "raw_hot": 1309108,
-      "num": 1144240,
+      "num": 1245592,
       "word": "被虐待致死的3岁女童母亲发声",
       "onboard_time": 1721789838,
       "rank": 12,
@@ -737,14 +745,6 @@
       "onboard_time": 1721746341,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1132022,
-      "num": 1132022,
-      "word": "拜登将于24日晚就退选发表演讲",
-      "onboard_time": 1721790619,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1126099,
@@ -1080,6 +1080,14 @@
       "word": "宋雨琦回应小肚子",
       "onboard_time": 1721544558,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 875015,
+      "num": 655625,
+      "word": "赵丽颖带想想与父母聚餐",
+      "onboard_time": 1721793321,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -1491,14 +1499,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 705152,
-      "num": 655625,
-      "word": "赵丽颖带想想与父母聚餐",
-      "onboard_time": 1721793321,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 701426,
       "num": 443536,
       "word": "美国公布核弹头数量",
@@ -1513,6 +1513,14 @@
       "onboard_time": 1721721140,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 697559,
+      "num": 697559,
+      "word": "镇政府多名人员9点缺岗被问责",
+      "onboard_time": 1721792540,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 697144,
@@ -1947,6 +1955,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 560770,
+      "num": 560770,
+      "word": "美国男子强暴14岁少女判11年",
+      "onboard_time": 1721791640,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 560534,
       "num": 463288,
       "word": "花儿与少年直播",
@@ -2083,12 +2099,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 534663,
-      "num": 534663,
-      "word": "镇政府多名人员9点缺岗被问责",
-      "onboard_time": 1721792540,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 534351,
+      "num": 534351,
+      "word": "异人之下口碑",
+      "onboard_time": 1721792960,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 533711,
@@ -2555,6 +2571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 451250,
+      "num": 451250,
+      "word": "巴黎奥运审美吐槽不了一点",
+      "onboard_time": 1721794220,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 450436,
       "num": 356860,
       "word": "阚清子晒未P原图",
@@ -2633,14 +2657,6 @@
       "onboard_time": 1721554459,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 438119,
-      "num": 438119,
-      "word": "异人之下口碑",
-      "onboard_time": 1721792960,
-      "rank": 20,
-      "category": "电影"
     },
     {
       "raw_hot": 437860,
@@ -2939,14 +2955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 386942,
-      "num": 386942,
-      "word": "美国男子强暴14岁少女判11年",
-      "onboard_time": 1721791640,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 384464,
       "num": 384464,
       "word": "张峻豪说不敢面对观众",
@@ -3041,6 +3049,14 @@
       "onboard_time": 1721498353,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 367739,
+      "num": 367739,
+      "word": "歌王之战官宣张杰",
+      "onboard_time": 1721795302,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 367682,
@@ -3145,6 +3161,14 @@
       "onboard_time": 1721652321,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 356394,
+      "num": 356394,
+      "word": "十个勤天加盟横篮",
+      "onboard_time": 1721794881,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 355167,
@@ -3304,6 +3328,14 @@
       "word": "女子考公7年因患地中海贫血被拒录",
       "onboard_time": 1721634741,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334709,
+      "num": 334709,
+      "word": "澳大利亚女子在巴黎疑遭5人性侵",
+      "onboard_time": 1721794401,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -3579,12 +3611,12 @@
       "category": "艺人,电竞"
     },
     {
-      "raw_hot": 304196,
-      "num": 304196,
-      "word": "巴黎奥运审美吐槽不了一点",
-      "onboard_time": 1721794220,
-      "rank": 32,
-      "category": "体育"
+      "raw_hot": 305414,
+      "num": 305414,
+      "word": "你好外卖 拍摄女顾客",
+      "onboard_time": 1721793260,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 303898,
@@ -3923,12 +3955,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 274965,
-      "num": 274965,
-      "word": "你好外卖 拍摄女顾客",
-      "onboard_time": 1721793260,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 275140,
+      "num": 275140,
+      "word": "J人的行李箱P人永远不懂",
+      "onboard_time": 1721793922,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 273336,
@@ -4235,14 +4267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 252138,
-      "num": 252138,
-      "word": "十个勤天加盟横篮",
-      "onboard_time": 1721794881,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 251648,
       "num": 251648,
       "word": "全红婵到巴黎说的第一个笑话",
@@ -4353,6 +4377,14 @@
       "onboard_time": 1721722460,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 243876,
+      "num": 243876,
+      "word": "700多头生猪在江苏热得浑身通红",
+      "onboard_time": 1721794100,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243313,
@@ -4523,14 +4555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 236303,
-      "num": 236303,
-      "word": "J人的行李箱P人永远不懂",
-      "onboard_time": 1721793922,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 235750,
       "num": 235750,
       "word": "张凌赫宋威龙同款choker",
@@ -4689,14 +4713,6 @@
       "onboard_time": 1721625021,
       "rank": 44,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 227273,
-      "num": 227273,
-      "word": "澳大利亚女子在巴黎疑遭5人性侵",
-      "onboard_time": 1721794401,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 226987,
@@ -5267,6 +5283,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 207942,
+      "num": 549378,
+      "word": "北京发布暴雨橙色预警倡导弹性上下班",
+      "onboard_time": 1721793620,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207720,
       "num": 207720,
       "word": "陕西垮塌桥4公里外发现2辆失联车",
@@ -5529,14 +5553,6 @@
       "onboard_time": 1721570602,
       "rank": 38,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 201427,
-      "num": 201427,
-      "word": "700多头生猪在江苏热得浑身通红",
-      "onboard_time": 1721794100,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201054,
@@ -5881,6 +5897,14 @@
       "onboard_time": 1721712560,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196848,
+      "num": 196848,
+      "word": "巴黎奥运会将大量采用中国AI技术",
+      "onboard_time": 1721795420,
+      "rank": 49,
+      "category": "体育,互联网"
     },
     {
       "raw_hot": 196220,
@@ -7899,6 +7923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145106,
+      "num": 673690,
+      "word": "台风格美未来预计怎么走",
+      "onboard_time": 1721793620,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144633,
       "num": 144633,
       "word": "巴黎奥运村餐厅不提供炸鸡块",
@@ -8225,14 +8257,6 @@
       "onboard_time": 1721485401,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 135402,
-      "num": 549378,
-      "word": "北京发布暴雨橙色预警倡导弹性上下班",
-      "onboard_time": 1721793620,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135243,
@@ -8907,14 +8931,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 95440,
-      "num": 673690,
-      "word": "台风格美未来预计怎么走",
-      "onboard_time": 1721793620,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 95109,
       "num": 421514,
       "word": "千钧一发他毫不犹豫跳水救人",
@@ -8955,6 +8971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 90686,
+      "num": 357432,
+      "word": "奶茶店为四五十岁女性设熬煮岗",
+      "onboard_time": 1721795661,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88661,
       "num": 934637,
       "word": "30秒速览巴黎奥运中国代表团阵容",
@@ -8993,6 +9017,14 @@
       "onboard_time": 1721510472,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84170,
+      "num": 362893,
+      "word": "巴黎街头的小米SU7",
+      "onboard_time": 1721793440,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 84048,
@@ -9147,8 +9179,16 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 74616,
-      "num": 1158145,
+      "raw_hot": 74719,
+      "num": 659073,
+      "word": "易烊千玺请你一杯",
+      "onboard_time": 1721792599,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 74706,
+      "num": 1247128,
       "word": "中国奥运健儿带来的感动瞬间",
       "onboard_time": 1721792060,
       "rank": 2,
@@ -9435,14 +9475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 57422,
-      "num": 659073,
-      "word": "易烊千玺请你一杯",
-      "onboard_time": 1721792599,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 57119,
       "num": 210083,
       "word": "韦世豪红牌",
@@ -9521,14 +9553,6 @@
       "onboard_time": 1721489601,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 53322,
-      "num": 352170,
-      "word": "巴黎街头的小米SU7",
-      "onboard_time": 1721793440,
-      "rank": 25,
-      "category": "汽车"
     },
     {
       "raw_hot": 52234,
@@ -9843,6 +9867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37665,
+      "num": 352184,
+      "word": "哈里斯开启首场竞选活动",
+      "onboard_time": 1721795420,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37471,
       "num": 337586,
       "word": "苏州大学首封录取通知书已送达",
@@ -9931,6 +9963,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 32516,
+      "num": 275767,
+      "word": "石宇奇受伤后走出低谷的经历太热血",
+      "onboard_time": 1721790020,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32478,
       "num": 92335,
       "word": "拜登退选后的可能继任者",
@@ -9961,6 +10001,14 @@
       "onboard_time": 1721625621,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 31098,
+      "num": 338392,
+      "word": "辛爽需要我时打给我",
+      "onboard_time": 1721795239,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 30966,
