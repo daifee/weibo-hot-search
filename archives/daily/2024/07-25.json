@@ -1,6 +1,6 @@
 {
   "startTime": 1721838296901,
-  "endTime": 1721863230771,
+  "endTime": 1721864085083,
   "band_list": [
     {
       "raw_hot": 1358111,
@@ -27,6 +27,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 829932,
+      "num": 829932,
+      "word": "长期使用是我妈攒钱的好办法",
+      "onboard_time": 1721833162,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 811472,
       "num": 811472,
       "word": "孙颖莎早田希娜女单同区",
@@ -35,12 +43,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 598698,
-      "num": 598698,
-      "word": "长期使用是我妈攒钱的好办法",
-      "onboard_time": 1721833162,
-      "rank": 7,
-      "category": "情感"
+      "raw_hot": 699250,
+      "num": 256670,
+      "word": "兰州怪味",
+      "onboard_time": 1721862617,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 589382,
+      "num": 589382,
+      "word": "台风",
+      "onboard_time": 1721862314,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 584147,
@@ -67,12 +83,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 477588,
-      "num": 477588,
-      "word": "台风",
-      "onboard_time": 1721862314,
-      "rank": 3,
-      "category": "社会新闻"
+      "raw_hot": 500979,
+      "num": 226721,
+      "word": "特朗普遇袭事件出现最新视频",
+      "onboard_time": 1721846532,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 478272,
+      "num": 478272,
+      "word": "闲鱼回应用暗号开展色情交易",
+      "onboard_time": 1721863576,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 446099,
@@ -81,14 +105,6 @@
       "onboard_time": 1721833281,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 417892,
-      "num": 193215,
-      "word": "特朗普遇袭事件出现最新视频",
-      "onboard_time": 1721846532,
-      "rank": 13,
-      "category": "国外时政"
     },
     {
       "raw_hot": 374998,
@@ -116,7 +132,7 @@
     },
     {
       "raw_hot": 369667,
-      "num": 137740,
+      "num": 144380,
       "word": "男子野泳消失找到后同事跪倒痛哭",
       "onboard_time": 1721838318,
       "rank": 28,
@@ -163,14 +179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 267553,
-      "num": 191006,
-      "word": "兰州怪味",
-      "onboard_time": 1721862617,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 264859,
       "num": 264859,
       "word": "陕西师范大学声明已报案",
@@ -195,11 +203,43 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 226569,
+      "num": 144302,
+      "word": "瘦了50斤再穿同一件衣服的变化",
+      "onboard_time": 1721863876,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 223264,
+      "num": 223264,
+      "word": "妻子买西瓜发生纠纷男子捅伤瓜贩",
+      "onboard_time": 1721848331,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214076,
       "num": 214076,
       "word": "台风格美登陆台湾宜兰",
       "onboard_time": 1721840355,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210931,
+      "num": 210931,
+      "word": "知名痔疮药涨价20多倍还断货",
+      "onboard_time": 1721840655,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 208792,
+      "num": 208792,
+      "word": "格美",
+      "onboard_time": 1721863216,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -243,14 +283,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 188938,
-      "num": 188938,
-      "word": "妻子买西瓜发生纠纷男子捅伤瓜贩",
-      "onboard_time": 1721848331,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179700,
       "num": 179700,
       "word": "知情人谈生理盐水冒充疫苗操作内幕",
@@ -267,14 +299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 169057,
-      "num": 169057,
-      "word": "知名痔疮药涨价20多倍还断货",
-      "onboard_time": 1721840655,
-      "rank": 40,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 164594,
       "num": 164594,
       "word": "巴黎奥运会开幕式时长",
@@ -283,12 +307,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164041,
+      "num": 164041,
+      "word": "海莉不公开怀孕的原因",
+      "onboard_time": 1721863757,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151738,
       "num": 151738,
       "word": "在健身房锻炼被人开走了",
       "onboard_time": 1721832081,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 147275,
+      "num": 144271,
+      "word": "韩国人很爱强调全世界只有几件",
+      "onboard_time": 1721862794,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 144437,
+      "num": 144437,
+      "word": "多家航司回应一人带三娃坐不了飞机",
+      "onboard_time": 1721819479,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144419,
@@ -305,14 +353,6 @@
       "onboard_time": 1721834121,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 140784,
-      "num": 140784,
-      "word": "多家航司回应一人带三娃坐不了飞机",
-      "onboard_time": 1721819479,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139625,
@@ -355,6 +395,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 124838,
+      "num": 124838,
+      "word": "北京时间版奥运观赛日历",
+      "onboard_time": 1721863456,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 123333,
+      "num": 123333,
+      "word": "巴黎奥运会倒计时1天",
+      "onboard_time": 1721863397,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122193,
       "num": 122193,
       "word": "国内首档啦啦队综艺来了",
@@ -379,20 +435,44 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 112052,
+      "num": 112052,
+      "word": "做噩梦可能是免疫系统在攻击你",
+      "onboard_time": 1721863095,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 109988,
-      "num": 196211,
+      "num": 291739,
       "word": "女子时隔25年两次落水被同一人救起",
       "onboard_time": 1721824640,
       "rank": 38,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106027,
+      "num": 106027,
+      "word": "焦俊艳papi酱聚餐",
+      "onboard_time": 1721862495,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105875,
-      "num": 89820,
+      "num": 100321,
       "word": "北京暴雨一秒入夜",
       "onboard_time": 1721847852,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105416,
+      "num": 105416,
+      "word": "乒乓球",
+      "onboard_time": 1721863516,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 104679,
@@ -443,14 +523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 90826,
-      "num": 87667,
-      "word": "做噩梦可能是免疫系统在攻击你",
-      "onboard_time": 1721863095,
-      "rank": 25,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 89332,
       "num": 120984,
       "word": "阿根廷国奥vs摩洛哥国奥",
@@ -475,6 +547,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84346,
+      "num": 84346,
+      "word": "身体排湿的10个表现是什么",
+      "onboard_time": 1721853971,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 82338,
+      "num": 82338,
+      "word": "新冠疫苗自费接种定价首次公布",
+      "onboard_time": 1721863335,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 81136,
+      "num": 81136,
+      "word": "魏大勋两句话被火树盘出身份",
+      "onboard_time": 1721859373,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 79426,
       "num": 120885,
       "word": "辛芷蕾 我不能只演一部分女性",
@@ -491,36 +587,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74996,
+      "num": 74996,
+      "word": "特朗普公开巴勒斯坦总统来信",
+      "onboard_time": 1721863637,
+      "rank": 42,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 72956,
       "num": 72956,
       "word": "网友称哈尔滨中央大街成烧烤一条街",
       "onboard_time": 1721856671,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 72676,
-      "num": 72676,
-      "word": "魏大勋两句话被火树盘出身份",
-      "onboard_time": 1721859373,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 69830,
-      "num": 69830,
-      "word": "身体排湿的10个表现是什么",
-      "onboard_time": 1721853971,
-      "rank": 34,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 65914,
-      "num": 65914,
-      "word": "焦俊艳papi酱聚餐",
-      "onboard_time": 1721862495,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 64842,
@@ -555,14 +635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 52831,
-      "num": 52831,
-      "word": "韩国人很爱强调全世界只有几件",
-      "onboard_time": 1721862794,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 52562,
       "num": 52562,
       "word": "国乒混双抽签结果",
@@ -585,6 +657,14 @@
       "onboard_time": 1721852831,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 39623,
+      "num": 269400,
+      "word": "神仙企业连续11年给员工父母发零花钱",
+      "onboard_time": 1721862617,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38519,
@@ -639,14 +719,6 @@
       "num": 169791,
       "word": "浙江姑娘在加沙开了三家免费中国诊所",
       "onboard_time": 1721840474,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21220,
-      "num": 194430,
-      "word": "神仙企业连续11年给员工父母发零花钱",
-      "onboard_time": 1721862617,
       "rank": 9,
       "category": "社会新闻"
     },
