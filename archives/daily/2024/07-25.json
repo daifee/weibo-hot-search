@@ -1,6 +1,6 @@
 {
   "startTime": 1721838296901,
-  "endTime": 1721838296901,
+  "endTime": 1721839214029,
   "band_list": [
     {
       "raw_hot": 1358111,
@@ -27,8 +27,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 735947,
-      "num": 735947,
+      "raw_hot": 811472,
+      "num": 811472,
       "word": "孙颖莎早田希娜女单同区",
       "onboard_time": 1721836879,
       "rank": 3,
@@ -59,20 +59,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 456741,
+      "num": 456741,
+      "word": "长期使用是我妈攒钱的好办法",
+      "onboard_time": 1721833162,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 446099,
       "num": 446099,
       "word": "孙红雷回应移民传闻",
       "onboard_time": 1721833281,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 427482,
-      "num": 427482,
-      "word": "长期使用是我妈攒钱的好办法",
-      "onboard_time": 1721833162,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 374998,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 271920,
+      "num": 271920,
+      "word": "王楚钦雨果男单同区",
+      "onboard_time": 1721838437,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 269619,
       "num": 183362,
       "word": "女子称古茗奶茶内疑有血痰",
@@ -147,8 +155,8 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 195979,
-      "num": 195979,
+      "raw_hot": 200625,
+      "num": 200625,
       "word": "阿根廷国奥绝平",
       "onboard_time": 1721837419,
       "rank": 18,
@@ -203,12 +211,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 147644,
-      "num": 147644,
+      "raw_hot": 148643,
+      "num": 148643,
       "word": "巴黎奥运会开幕式时长",
       "onboard_time": 1721835860,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144419,
+      "num": 144419,
+      "word": "应对台风1.1万名消防员枕戈待旦",
+      "onboard_time": 1721823439,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143436,
@@ -235,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137740,
+      "num": 137740,
+      "word": "男子野泳消失找到后同事跪倒痛哭",
+      "onboard_time": 1721838318,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136069,
       "num": 136069,
       "word": "海莉孕肚大片",
@@ -249,14 +273,6 @@
       "onboard_time": 1721826320,
       "rank": 33,
       "category": "财经"
-    },
-    {
-      "raw_hot": 130895,
-      "num": 130895,
-      "word": "应对台风1.1万名消防员枕戈待旦",
-      "onboard_time": 1721823439,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125112,
@@ -387,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64842,
+      "num": 111846,
+      "word": "SEVENTEEN十月开启世巡",
+      "onboard_time": 1721828361,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 30851,
       "num": 754755,
       "word": "万千气象看青海",
@@ -401,6 +425,14 @@
       "onboard_time": 1721829622,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21176,
+      "num": 319344,
+      "word": "云赏深圳绝美晚霞",
+      "onboard_time": 1721838618,
+      "rank": 9,
+      "category": "自然"
     }
   ],
   "hotgov_list": [
