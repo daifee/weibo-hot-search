@@ -1,6 +1,6 @@
 {
   "startTime": 1721752056115,
-  "endTime": 1721785539801,
+  "endTime": 1721788674058,
   "band_list": [
     {
       "raw_hot": 2095531,
@@ -51,6 +51,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 812841,
+      "num": 448836,
+      "word": "沈腾老婆胖了好多",
+      "onboard_time": 1721788279,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 806770,
       "num": 806770,
       "word": "拜登退选后首次公开露面",
@@ -64,6 +72,14 @@
       "word": "贵州地震",
       "onboard_time": 1721779699,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 758345,
+      "num": 758345,
+      "word": "官方通报中学政教处主任表白学生",
+      "onboard_time": 1721784018,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -100,11 +116,19 @@
     },
     {
       "raw_hot": 610139,
-      "num": 266857,
+      "num": 295218,
       "word": "婚纱照发朋友圈被同事阴阳了",
       "onboard_time": 1721778197,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 564737,
+      "num": 564737,
+      "word": "台风格美加强为超强台风",
+      "onboard_time": 1721785278,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 560615,
@@ -113,6 +137,22 @@
       "onboard_time": 1721746761,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 547443,
+      "num": 547443,
+      "word": "唐诡西行 配角的命也是命",
+      "onboard_time": 1721786718,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 536338,
+      "num": 536338,
+      "word": "巴黎奥运倒计时2天",
+      "onboard_time": 1721777235,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 525641,
@@ -163,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 448250,
+      "num": 448250,
+      "word": "夏天厕所20分钟效应",
+      "onboard_time": 1721786418,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 433411,
       "num": 433411,
       "word": "22岁的王琳好像油画里走出来的",
@@ -188,7 +236,7 @@
     },
     {
       "raw_hot": 389294,
-      "num": 188750,
+      "num": 197558,
       "word": "旅游是真的要趁早",
       "onboard_time": 1721748259,
       "rank": 21,
@@ -203,19 +251,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360546,
+      "num": 360546,
+      "word": "大哥远无限期封禁",
+      "onboard_time": 1721788279,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
       "raw_hot": 359418,
       "num": 213321,
       "word": "姐妹俩刚吃一口饭就被广告牌砸中",
       "onboard_time": 1721736259,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 358852,
-      "num": 358852,
-      "word": "台风格美加强为超强台风",
-      "onboard_time": 1721785278,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -240,6 +288,14 @@
       "word": "校长回应教师产假时被公示解聘",
       "onboard_time": 1721746220,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 327120,
+      "num": 327120,
+      "word": "未婚妻早产男子微信请假被公司辞退",
+      "onboard_time": 1721787379,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -283,11 +339,35 @@
       "category": "情感"
     },
     {
+      "raw_hot": 269369,
+      "num": 269369,
+      "word": "回春丹帮唱那英",
+      "onboard_time": 1721784680,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264886,
       "num": 264886,
       "word": "台风暴雨高温多预警齐发",
       "onboard_time": 1721783239,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252056,
+      "num": 252056,
+      "word": "男子被流浪猫绊倒投喂者赔24万案宣判",
+      "onboard_time": 1721786839,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249504,
+      "num": 249504,
+      "word": "放弃百万年薪他去阿勒泰养马放牛",
+      "onboard_time": 1721786780,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -299,28 +379,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 247524,
-      "num": 247524,
-      "word": "回春丹帮唱那英",
-      "onboard_time": 1721784680,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 242548,
       "num": 242548,
       "word": "被失联5年的爸爸联系了",
       "onboard_time": 1721775914,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 241757,
-      "num": 241757,
-      "word": "官方通报中学政教处主任表白学生",
-      "onboard_time": 1721784018,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238634,
@@ -395,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210461,
+      "num": 449107,
+      "word": "这些属龙运动员出征龙年奥运了",
+      "onboard_time": 1721786839,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210236,
       "num": 210236,
       "word": "广告牌坠落致3死7伤责任人被控制",
@@ -403,12 +475,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200928,
+      "num": 200928,
+      "word": "TheShy说Wei不如xun",
+      "onboard_time": 1721788219,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 199803,
+      "num": 199803,
+      "word": "资深程序员已经开始用AI干活了",
+      "onboard_time": 1721787858,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 199714,
       "num": 199714,
       "word": "距巴黎奥运开幕还有2天",
       "onboard_time": 1721785039,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199030,
+      "num": 199030,
+      "word": "骆驼 王俊凯",
+      "onboard_time": 1721788518,
+      "rank": 32,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 198750,
@@ -435,20 +531,36 @@
       "category": "电影"
     },
     {
-      "raw_hot": 187334,
-      "num": 462807,
-      "word": "巴黎奥运倒计时2天",
-      "onboard_time": 1721777235,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 187198,
-      "num": 187198,
+      "raw_hot": 193032,
+      "num": 193032,
       "word": "巴勒斯坦代表签署后多次感激中国",
       "onboard_time": 1721784078,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 191375,
+      "num": 191375,
+      "word": "中医解释为什么有人会上热下寒",
+      "onboard_time": 1721784799,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 183605,
+      "num": 183605,
+      "word": "地磁暴又要来了",
+      "onboard_time": 1721783419,
+      "rank": 33,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 183539,
+      "num": 183539,
+      "word": "他是中国首位奥运会日夺3金的运动员",
+      "onboard_time": 1721788038,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 183038,
@@ -457,14 +569,6 @@
       "onboard_time": 1721764691,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180721,
-      "num": 180721,
-      "word": "地磁暴又要来了",
-      "onboard_time": 1721783419,
-      "rank": 33,
-      "category": "科学科普"
     },
     {
       "raw_hot": 178393,
@@ -481,6 +585,14 @@
       "onboard_time": 1721783239,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176431,
+      "num": 176431,
+      "word": "种地吧",
+      "onboard_time": 1721785879,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 174495,
@@ -539,12 +651,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157677,
+      "num": 157677,
+      "word": "iPhone新增无线局域网通话开关",
+      "onboard_time": 1721787738,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 154576,
+      "num": 154576,
+      "word": "猫 拿我讨好你丈母娘是吧",
+      "onboard_time": 1721788518,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 146620,
+      "num": 146620,
+      "word": "北京市升级发布暴雨橙色预警",
+      "onboard_time": 1721788279,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144996,
       "num": 144996,
       "word": "韩总 夫人终于嫁给你了",
       "onboard_time": 1721734220,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138777,
+      "num": 138777,
+      "word": "赵丽娜再回应直播崩溃大哭",
+      "onboard_time": 1721788638,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 138739,
@@ -593,14 +737,6 @@
       "onboard_time": 1721777056,
       "rank": 43,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 130036,
-      "num": 130036,
-      "word": "中医解释为什么有人会上热下寒",
-      "onboard_time": 1721784799,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 128643,
