@@ -1,0 +1,410 @@
+{
+  "runTime": 1721810259872,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1139202,
+        "num": 1182272,
+        "word": "实拍禁止中韩客人入内日本餐厅",
+        "onboard_time": 1721807240,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1130834,
+        "num": 1130834,
+        "word": "浙江母女双双确诊红斑狼疮",
+        "onboard_time": 1721802680,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66818,
+        "num": 912687,
+        "word": "三星堆考古新发现实证3000年前城市规划",
+        "onboard_time": 1721791699,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 837234,
+        "num": 837234,
+        "word": "清华教授建议发1万亿元消费券",
+        "onboard_time": 1721805620,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 791163,
+        "num": 791163,
+        "word": "李现拒绝出演高中生",
+        "onboard_time": 1721801900,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 710408,
+        "num": 710408,
+        "word": "美国一华裔女子遛娃时遭性侵殴打",
+        "onboard_time": 1721805920,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645044,
+        "num": 645044,
+        "word": "奶茶店为四五十岁女性设熬煮岗",
+        "onboard_time": 1721795661,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 641655,
+        "num": 641655,
+        "word": "尼泊尔坠机事故已致22人丧生",
+        "onboard_time": 1721803099,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 639866,
+        "num": 639866,
+        "word": "NewJeans父母发声",
+        "onboard_time": 1721806339,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 526218,
+        "num": 594123,
+        "word": "尼泊尔坠机事故现场已发现5具遗体",
+        "onboard_time": 1721807480,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 890137,
+        "num": 592393,
+        "word": "刘冲搂着张婧仪出门",
+        "onboard_time": 1721799620,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65792,
+        "num": 588433,
+        "word": "vivo大片后劲太大了",
+        "onboard_time": 1721806520,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 586100,
+        "num": 586100,
+        "word": "台风红色预警发布",
+        "onboard_time": 1721791640,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581149,
+        "num": 581149,
+        "word": "檀健次是演爽了观众也哭死了",
+        "onboard_time": 1721806160,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 546698,
+        "num": 546698,
+        "word": "田曦薇王安宇居然认识10年了",
+        "onboard_time": 1721805200,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45111,
+        "num": 530981,
+        "word": "陈震暴力测试折叠手机",
+        "onboard_time": 1721808500,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 516881,
+        "num": 516881,
+        "word": "樊振东爆改巴黎纸板床",
+        "onboard_time": 1721800700,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 477783,
+        "num": 477783,
+        "word": "贾玲安藤樱 杂志",
+        "onboard_time": 1721801959,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 441295,
+        "num": 441295,
+        "word": "北京暴雨",
+        "onboard_time": 1721800820,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354023,
+        "num": 354023,
+        "word": "美国男子强暴14岁少女判11年",
+        "onboard_time": 1721791640,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337624,
+        "num": 337624,
+        "word": "武汉萝卜快跑涨价",
+        "onboard_time": 1721809220,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 325526,
+        "num": 325526,
+        "word": "暑期档唯一家庭剧来了",
+        "onboard_time": 1721803219,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304672,
+        "num": 304672,
+        "word": "乌克兰外长访华",
+        "onboard_time": 1721809759,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 294384,
+        "num": 294384,
+        "word": "书亦烧仙草声明",
+        "onboard_time": 1721808860,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 278745,
+        "num": 278745,
+        "word": "曝萧亚轩男友是假荷兰富二代",
+        "onboard_time": 1721807300,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276671,
+        "num": 276671,
+        "word": "生命树 杨紫胡歌",
+        "onboard_time": 1721796799,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264479,
+        "num": 264479,
+        "word": "被所有人起哄的暧昧有多甜",
+        "onboard_time": 1721808080,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248866,
+        "num": 248866,
+        "word": "乐华家族演唱会全阵容官宣",
+        "onboard_time": 1721809699,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 244099,
+        "num": 244099,
+        "word": "以为很干净实际很脏的次抛用品",
+        "onboard_time": 1721801839,
+        "rank": 28,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 11399,
+        "num": 236677,
+        "word": "埃塞俄比亚山体滑坡229人遇难",
+        "onboard_time": 1721809999,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233746,
+        "num": 233746,
+        "word": "宋雨琦穿的好辣",
+        "onboard_time": 1721804120,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 229961,
+        "num": 229961,
+        "word": "特朗普停止举行大型户外竞选集会",
+        "onboard_time": 1721807480,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 223301,
+        "num": 223301,
+        "word": "陕师大回应副教授发不雅照骚扰女生",
+        "onboard_time": 1721799440,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220654,
+        "num": 220654,
+        "word": "台风格美加强为超强台风",
+        "onboard_time": 1721785278,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215618,
+        "num": 215618,
+        "word": "男子看不惯cos奇装异服打人",
+        "onboard_time": 1721804781,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214062,
+        "num": 214062,
+        "word": "奥运开幕倒计时2天有体彩店已卖空",
+        "onboard_time": 1721809160,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203043,
+        "num": 203043,
+        "word": "邓为打戏",
+        "onboard_time": 1721809759,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195885,
+        "num": 195885,
+        "word": "孙颖莎看到pin就走不动了",
+        "onboard_time": 1721809639,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193250,
+        "num": 193250,
+        "word": "魏大勋说蒲熠星把END都录完了",
+        "onboard_time": 1721805380,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189999,
+        "num": 189999,
+        "word": "冠军路体彩店老板劝退彩民",
+        "onboard_time": 1721808019,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133088,
+        "num": 188054,
+        "word": "华润置地一领导涉暴力侵犯女下属被查",
+        "onboard_time": 1721808200,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187230,
+        "num": 187230,
+        "word": "唐尚珺回应被信息工程录取",
+        "onboard_time": 1721803699,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 184697,
+        "num": 184697,
+        "word": "种地吧",
+        "onboard_time": 1721785879,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183021,
+        "num": 183021,
+        "word": "歌王之战帮唱阵容官宣",
+        "onboard_time": 1721793200,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182222,
+        "num": 182222,
+        "word": "全红婵生动演绎出远门前的广东人",
+        "onboard_time": 1721806700,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178351,
+        "num": 178351,
+        "word": "严禁给退休回乡干部职工分宅基地建房",
+        "onboard_time": 1721798059,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178167,
+        "num": 178167,
+        "word": "歌王之战官宣张杰",
+        "onboard_time": 1721795302,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176116,
+        "num": 176116,
+        "word": "台风",
+        "onboard_time": 1721778619,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170396,
+        "num": 170396,
+        "word": "追踪台风格美",
+        "onboard_time": 1721789779,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95528,
+        "num": 160314,
+        "word": "兼职客服可能在帮不法分子引流",
+        "onboard_time": 1721808019,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届三中全会决定学习笔记#"
+    }
+  }
+}
