@@ -1,0 +1,410 @@
+{
+  "runTime": 1721805530801,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1688878,
+        "num": 1688878,
+        "word": "浙江母女双双确诊红斑狼疮",
+        "onboard_time": 1721802680,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1089802,
+        "num": 1089802,
+        "word": "李现拒绝出演高中生",
+        "onboard_time": 1721801900,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11748,
+        "num": 1047539,
+        "word": "中国奥运健儿带来的感动瞬间",
+        "onboard_time": 1721792060,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1037947,
+        "num": 1037947,
+        "word": "奶茶店为四五十岁女性设熬煮岗",
+        "onboard_time": 1721795661,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1022727,
+        "num": 1022727,
+        "word": "贾玲安藤樱 杂志",
+        "onboard_time": 1721801959,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 875757,
+        "num": 875757,
+        "word": "北京暴雨",
+        "onboard_time": 1721800820,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 873758,
+        "num": 873758,
+        "word": "樊振东爆改巴黎纸板床",
+        "onboard_time": 1721800700,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 722952,
+        "num": 722952,
+        "word": "尼泊尔坠机事故已致22人丧生",
+        "onboard_time": 1721803099,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556069,
+        "num": 556069,
+        "word": "宋雨琦穿的好辣",
+        "onboard_time": 1721804120,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 40356,
+        "num": 547151,
+        "word": "律师解读被流浪猫绊倒案再审宣判",
+        "onboard_time": 1721804419,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1214547,
+        "num": 546210,
+        "word": "刘冲搂着张婧仪出门",
+        "onboard_time": 1721799620,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 540770,
+        "num": 540770,
+        "word": "严禁给退休回乡干部职工分宅基地建房",
+        "onboard_time": 1721798059,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532064,
+        "num": 532064,
+        "word": "生命树 杨紫胡歌",
+        "onboard_time": 1721796799,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94778,
+        "num": 522831,
+        "word": "刘翔谢谢挂念",
+        "onboard_time": 1721801479,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41447,
+        "num": 515653,
+        "word": "格美来袭台民众挤爆超市扫货",
+        "onboard_time": 1721804419,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513998,
+        "num": 513998,
+        "word": "台风红色预警发布",
+        "onboard_time": 1721791640,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460597,
+        "num": 460597,
+        "word": "美国男子强暴14岁少女判11年",
+        "onboard_time": 1721791640,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460214,
+        "num": 460214,
+        "word": "股市拉到4000点财富或能增长25万亿",
+        "onboard_time": 1721801179,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 414689,
+        "num": 414689,
+        "word": "一架飞机在尼泊尔首都机场坠毁",
+        "onboard_time": 1721801059,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364479,
+        "num": 364479,
+        "word": "illit卢玧我被曝霸凌",
+        "onboard_time": 1721799259,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122790,
+        "num": 342466,
+        "word": "成年后视力度数会下降吗",
+        "onboard_time": 1721801420,
+        "rank": 20,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 465867,
+        "num": 340381,
+        "word": "真的要冻死在这三伏天了",
+        "onboard_time": 1721798659,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 335250,
+        "num": 335250,
+        "word": "陕师大回应副教授发不雅照骚扰女生",
+        "onboard_time": 1721799440,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325054,
+        "num": 325054,
+        "word": "暑期档唯一家庭剧来了",
+        "onboard_time": 1721803219,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323439,
+        "num": 323439,
+        "word": "歌王之战帮唱阵容官宣",
+        "onboard_time": 1721793200,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295573,
+        "num": 295573,
+        "word": "以为很干净实际很脏的次抛用品",
+        "onboard_time": 1721801839,
+        "rank": 25,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 284436,
+        "num": 284436,
+        "word": "唐尚珺回应被信息工程录取",
+        "onboard_time": 1721803699,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 284071,
+        "num": 284071,
+        "word": "贾玲安藤樱首次相见",
+        "onboard_time": 1721804540,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 275320,
+        "num": 275320,
+        "word": "台风格美加强为超强台风",
+        "onboard_time": 1721785278,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273424,
+        "num": 273424,
+        "word": "澳大利亚女子在巴黎疑遭5人性侵",
+        "onboard_time": 1721794401,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262321,
+        "num": 262321,
+        "word": "赵丽颖带想想与父母聚餐",
+        "onboard_time": 1721793321,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240445,
+        "num": 240445,
+        "word": "沈腾老婆胖了好多",
+        "onboard_time": 1721788279,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225498,
+        "num": 225498,
+        "word": "种地吧",
+        "onboard_time": 1721785879,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221353,
+        "num": 221353,
+        "word": "田曦薇王安宇居然认识10年了",
+        "onboard_time": 1721805200,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221200,
+        "num": 221200,
+        "word": "歌王之战官宣张杰",
+        "onboard_time": 1721795302,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219734,
+        "num": 219734,
+        "word": "小学生添加明星QQ被骗90余万",
+        "onboard_time": 1721799860,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214426,
+        "num": 214426,
+        "word": "哈里斯支持率领先特朗普2%",
+        "onboard_time": 1721790079,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 213361,
+        "num": 213361,
+        "word": "追踪台风格美",
+        "onboard_time": 1721789779,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208286,
+        "num": 208286,
+        "word": "王者荣耀",
+        "onboard_time": 1721805259,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204481,
+        "num": 204481,
+        "word": "巴黎奥运审美吐槽不了一点",
+        "onboard_time": 1721794220,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203836,
+        "num": 203836,
+        "word": "魏大勋说蒲熠星把END都录完了",
+        "onboard_time": 1721805380,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201897,
+        "num": 201897,
+        "word": "男子看不惯cos奇装异服打人",
+        "onboard_time": 1721804781,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191449,
+        "num": 191449,
+        "word": "台风",
+        "onboard_time": 1721778619,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189001,
+        "num": 189001,
+        "word": "沪指再度失守2900点关口",
+        "onboard_time": 1721804359,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 188672,
+        "num": 188672,
+        "word": "官方回应男子称阿勒泰发现石油",
+        "onboard_time": 1721800820,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184345,
+        "num": 184345,
+        "word": "爆红的妈被裁的爸没事哒的家",
+        "onboard_time": 1721797101,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181154,
+        "num": 181154,
+        "word": "2岁女童被生父和女友虐待致死",
+        "onboard_time": 1721800159,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180269,
+        "num": 180269,
+        "word": "二十七岁的查美乐喜欢什么咖啡",
+        "onboard_time": 1721802979,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178342,
+        "num": 178342,
+        "word": "被虐待致死的3岁女童母亲发声",
+        "onboard_time": 1721789838,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162790,
+        "num": 162790,
+        "word": "王楚钦说经验不足只有玩命努力",
+        "onboard_time": 1721805501,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#这个纲领性文件是如何诞生的#"
+    }
+  }
+}

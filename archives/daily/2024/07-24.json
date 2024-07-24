@@ -1,6 +1,6 @@
 {
   "startTime": 1721752056115,
-  "endTime": 1721803249395,
+  "endTime": 1721805530801,
   "band_list": [
     {
       "raw_hot": 2095531,
@@ -17,6 +17,14 @@
       "onboard_time": 1721785879,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1688878,
+      "num": 1688878,
+      "word": "浙江母女双双确诊红斑狼疮",
+      "onboard_time": 1721802680,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1556640,
@@ -115,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1089802,
+      "num": 1089802,
+      "word": "李现拒绝出演高中生",
+      "onboard_time": 1721801900,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1073823,
       "num": 1073823,
       "word": "巴黎奥运审美吐槽不了一点",
@@ -137,6 +153,14 @@
       "onboard_time": 1721788518,
       "rank": 32,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 1022727,
+      "num": 1022727,
+      "word": "贾玲安藤樱 杂志",
+      "onboard_time": 1721801959,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1004874,
@@ -169,6 +193,14 @@
       "onboard_time": 1721786418,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 875757,
+      "num": 875757,
+      "word": "北京暴雨",
+      "onboard_time": 1721800820,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 875015,
@@ -259,6 +291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 722952,
+      "num": 722952,
+      "word": "尼泊尔坠机事故已致22人丧生",
+      "onboard_time": 1721803099,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 702696,
       "num": 363460,
       "word": "张杰用镊子给自己拔鱼刺",
@@ -288,14 +328,6 @@
       "word": "台风",
       "onboard_time": 1721778619,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 666053,
-      "num": 666053,
-      "word": "北京暴雨",
-      "onboard_time": 1721800820,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -329,14 +361,6 @@
       "onboard_time": 1721786780,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 596689,
-      "num": 596689,
-      "word": "李现拒绝出演高中生",
-      "onboard_time": 1721801900,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 594622,
@@ -379,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 556069,
+      "num": 556069,
+      "word": "宋雨琦穿的好辣",
+      "onboard_time": 1721804120,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 553121,
       "num": 553121,
       "word": "illit卢玧我被曝霸凌",
@@ -411,19 +443,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 513998,
+      "num": 513998,
+      "word": "台风红色预警发布",
+      "onboard_time": 1721791640,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 513949,
       "num": 513949,
       "word": "未婚妻早产男子微信请假被公司辞退",
       "onboard_time": 1721787379,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 510397,
-      "num": 510397,
-      "word": "台风红色预警发布",
-      "onboard_time": 1721791640,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -449,14 +481,6 @@
       "onboard_time": 1721777357,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 494726,
-      "num": 494726,
-      "word": "贾玲安藤樱 杂志",
-      "onboard_time": 1721801959,
-      "rank": 31,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 476121,
@@ -595,6 +619,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 335250,
+      "num": 335250,
+      "word": "陕师大回应副教授发不雅照骚扰女生",
+      "onboard_time": 1721799440,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 333490,
       "num": 333490,
       "word": "芒果娱乐 投票",
@@ -619,6 +651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 325054,
+      "num": 325054,
+      "word": "暑期档唯一家庭剧来了",
+      "onboard_time": 1721803219,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 324669,
       "num": 324669,
       "word": "买黄金前一定要知道的冷知识",
@@ -633,14 +673,6 @@
       "onboard_time": 1721734041,
       "rank": 9,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 314563,
-      "num": 314563,
-      "word": "陕师大回应副教授发不雅照骚扰女生",
-      "onboard_time": 1721799440,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 305075,
@@ -689,6 +721,22 @@
       "onboard_time": 1721779218,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 284436,
+      "num": 284436,
+      "word": "唐尚珺回应被信息工程录取",
+      "onboard_time": 1721803699,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 284071,
+      "num": 284071,
+      "word": "贾玲安藤樱首次相见",
+      "onboard_time": 1721804540,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 283021,
@@ -883,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221353,
+      "num": 221353,
+      "word": "田曦薇王安宇居然认识10年了",
+      "onboard_time": 1721805200,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220362,
       "num": 220362,
       "word": "小学生添加明星QQ被骗90余万",
@@ -971,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208286,
+      "num": 208286,
+      "word": "王者荣耀",
+      "onboard_time": 1721805259,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 205085,
       "num": 205085,
       "word": "夏侯惇水墨武侠皮肤",
@@ -987,12 +1051,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203836,
+      "num": 203836,
+      "word": "魏大勋说蒲熠星把END都录完了",
+      "onboard_time": 1721805380,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203732,
       "num": 203732,
       "word": "歌手官宣张磊帮唱",
       "onboard_time": 1721795841,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201897,
+      "num": 201897,
+      "word": "男子看不惯cos奇装异服打人",
+      "onboard_time": 1721804781,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199803,
@@ -1075,6 +1155,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189001,
+      "num": 189001,
+      "word": "沪指再度失守2900点关口",
+      "onboard_time": 1721804359,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 188672,
+      "num": 440877,
+      "word": "官方回应男子称阿勒泰发现石油",
+      "onboard_time": 1721800820,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183605,
       "num": 183605,
       "word": "地磁暴又要来了",
@@ -1131,14 +1227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 174698,
-      "num": 174698,
-      "word": "暑期档唯一家庭剧来了",
-      "onboard_time": 1721803219,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 174495,
       "num": 174495,
       "word": "李相夷 意难平",
@@ -1153,14 +1241,6 @@
       "onboard_time": 1721782458,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 173929,
-      "num": 440877,
-      "word": "官方回应男子称阿勒泰发现石油",
-      "onboard_time": 1721800820,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170315,
@@ -1209,6 +1289,14 @@
       "onboard_time": 1721780537,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 162790,
+      "num": 162790,
+      "word": "王楚钦说经验不足只有玩命努力",
+      "onboard_time": 1721805501,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 162177,
@@ -1363,6 +1451,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 122790,
+      "num": 350866,
+      "word": "成年后视力度数会下降吗",
+      "onboard_time": 1721801420,
+      "rank": 20,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 119861,
       "num": 119861,
       "word": "唐朝诡事录",
@@ -1385,14 +1481,6 @@
       "onboard_time": 1721731459,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117321,
-      "num": 350866,
-      "word": "成年后视力度数会下降吗",
-      "onboard_time": 1721801420,
-      "rank": 20,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 111397,
@@ -1441,6 +1529,14 @@
       "onboard_time": 1721720720,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 94778,
+      "num": 522831,
+      "word": "刘翔谢谢挂念",
+      "onboard_time": 1721801479,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 94402,
@@ -1635,14 +1731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 53954,
-      "num": 442133,
-      "word": "刘翔谢谢挂念",
-      "onboard_time": 1721801479,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 53851,
       "num": 200319,
       "word": "新生儿宝宝被104岁高祖母抱入怀中",
@@ -1713,6 +1801,22 @@
       "onboard_time": 1721790259,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 41447,
+      "num": 515653,
+      "word": "格美来袭台民众挤爆超市扫货",
+      "onboard_time": 1721804419,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40356,
+      "num": 547151,
+      "word": "律师解读被流浪猫绊倒案再审宣判",
+      "onboard_time": 1721804419,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37665,
