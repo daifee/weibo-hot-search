@@ -1,0 +1,410 @@
+{
+  "runTime": 1721842480213,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 555393,
+        "num": 555393,
+        "word": "台风格美直角掉头了",
+        "onboard_time": 1721832920,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282340,
+        "num": 282340,
+        "word": "孙颖莎早田希娜女单同区",
+        "onboard_time": 1721836879,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15553,
+        "num": 247765,
+        "word": "万千气象看青海",
+        "onboard_time": 1721826320,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244487,
+        "num": 244487,
+        "word": "陕西师范大学",
+        "onboard_time": 1721833761,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197786,
+        "num": 197786,
+        "word": "长期使用是我妈攒钱的好办法",
+        "onboard_time": 1721833162,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189668,
+        "num": 189668,
+        "word": "芒果台有自己的四大名著",
+        "onboard_time": 1721832801,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186515,
+        "num": 186515,
+        "word": "王楚钦雨果男单同区",
+        "onboard_time": 1721838437,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165934,
+        "num": 165934,
+        "word": "孙红雷回应移民传闻",
+        "onboard_time": 1721833281,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129662,
+        "num": 129662,
+        "word": "巴黎奥运会开幕式时长",
+        "onboard_time": 1721835860,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68881,
+        "num": 127927,
+        "word": "爸爸为女儿展示矿泉水烟花太惊艳了",
+        "onboard_time": 1721817018,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193771,
+        "num": 127766,
+        "word": "法国vs美国",
+        "onboard_time": 1721839635,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173498,
+        "num": 127761,
+        "word": "辛纳退出巴黎奥运会",
+        "onboard_time": 1721836519,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127210,
+        "num": 127210,
+        "word": "台风路径",
+        "onboard_time": 1721829740,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123107,
+        "num": 123107,
+        "word": "檀健次再演沈翊压力很大",
+        "onboard_time": 1721819119,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117729,
+        "num": 117729,
+        "word": "郑爽未播剧出品方母公司股权被冻结",
+        "onboard_time": 1721824700,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101325,
+        "num": 101325,
+        "word": "台风格美登陆台湾宜兰",
+        "onboard_time": 1721840355,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99916,
+        "num": 99916,
+        "word": "阿根廷国奥绝平球无效",
+        "onboard_time": 1721837419,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99831,
+        "num": 99831,
+        "word": "国内首档啦啦队综艺来了",
+        "onboard_time": 1721837538,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93070,
+        "num": 93070,
+        "word": "EXO有自己的何炅",
+        "onboard_time": 1721823318,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 84290,
+        "num": 84290,
+        "word": "应对台风1.1万名消防员枕戈待旦",
+        "onboard_time": 1721823439,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17980,
+        "num": 83337,
+        "word": "大学生潜海20秒帮外地游客捡回手机",
+        "onboard_time": 1721842334,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373398,
+        "num": 81818,
+        "word": "李佳琦说旺旺离职不会挽留",
+        "onboard_time": 1721823620,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305918,
+        "num": 79511,
+        "word": "男子野泳消失找到后同事跪倒痛哭",
+        "onboard_time": 1721838318,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22983,
+        "num": 77800,
+        "word": "浙江姑娘在加沙开了三家免费中国诊所",
+        "onboard_time": 1721840474,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156176,
+        "num": 75970,
+        "word": "女高中生举报大学教师婚内出轨",
+        "onboard_time": 1721822178,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143021,
+        "num": 74063,
+        "word": "女子称古茗奶茶内疑有血痰",
+        "onboard_time": 1721824039,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72375,
+        "num": 72375,
+        "word": "刘浩存机车服",
+        "onboard_time": 1721835680,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70906,
+        "num": 70906,
+        "word": "骗子用赵露思旧照行骗",
+        "onboard_time": 1721820558,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69854,
+        "num": 69854,
+        "word": "关晓彤收到了孙颖莎的礼物",
+        "onboard_time": 1721829500,
+        "rank": 28,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 61134,
+        "num": 68646,
+        "word": "这是马龙和奥运的16年",
+        "onboard_time": 1721826261,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68086,
+        "num": 68086,
+        "word": "知名痔疮药涨价20多倍还断货",
+        "onboard_time": 1721840655,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 67869,
+        "num": 67869,
+        "word": "国乒奥运抽签",
+        "onboard_time": 1721826921,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66451,
+        "num": 66451,
+        "word": "成毅 我们都会找到不同的出路",
+        "onboard_time": 1721833281,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 64556,
+        "num": 64556,
+        "word": "海莉孕肚大片",
+        "onboard_time": 1721825780,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62644,
+        "num": 62644,
+        "word": "肾出现问题身体会发出这4个警报",
+        "onboard_time": 1721823921,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 61572,
+        "num": 61572,
+        "word": "中国口红纸在国外火了",
+        "onboard_time": 1721828478,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 52974,
+        "num": 61560,
+        "word": "国乒女团vs埃及女团",
+        "onboard_time": 1721841135,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52741,
+        "num": 61545,
+        "word": "马龙冯雨担任中国体育代表团旗手",
+        "onboard_time": 1721823379,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52271,
+        "num": 61543,
+        "word": "阿根廷国奥vs摩洛哥国奥",
+        "onboard_time": 1721830401,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51805,
+        "num": 61515,
+        "word": "巴黎奥运会首个比赛日出现闹剧",
+        "onboard_time": 1721842154,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48409,
+        "num": 61513,
+        "word": "多家航司回应一人带三娃坐不了飞机",
+        "onboard_time": 1721819479,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47409,
+        "num": 61499,
+        "word": "知情人谈生理盐水冒充疫苗操作内幕",
+        "onboard_time": 1721827822,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47220,
+        "num": 61486,
+        "word": "小夭婚礼上处处有相柳的影子",
+        "onboard_time": 1721818339,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45934,
+        "num": 61459,
+        "word": "女子时隔25年两次落水被同一人救起",
+        "onboard_time": 1721824640,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44291,
+        "num": 61443,
+        "word": "陕师大通报教师疑骚扰女生",
+        "onboard_time": 1721839336,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44079,
+        "num": 61443,
+        "word": "三伏天是祛湿最佳时间",
+        "onboard_time": 1721825240,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 42784,
+        "num": 61418,
+        "word": "在健身房锻炼被人开走了",
+        "onboard_time": 1721832081,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42312,
+        "num": 61405,
+        "word": "看哭了有张若昀哄",
+        "onboard_time": 1721834960,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41380,
+        "num": 61385,
+        "word": "国乒女团签表",
+        "onboard_time": 1721840956,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40037,
+        "num": 61385,
+        "word": "陕西师范大学声明已报案",
+        "onboard_time": 1721832022,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平给厦航全体员工回信#"
+    }
+  }
+}
