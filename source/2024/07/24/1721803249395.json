@@ -1,0 +1,410 @@
+{
+  "runTime": 1721803249395,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1286834,
+        "num": 1286834,
+        "word": "奶茶店为四五十岁女性设熬煮岗",
+        "onboard_time": 1721795661,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1004874,
+        "num": 1004874,
+        "word": "樊振东爆改巴黎纸板床",
+        "onboard_time": 1721800700,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17176,
+        "num": 983942,
+        "word": "中国奥运健儿带来的感动瞬间",
+        "onboard_time": 1721792060,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 981332,
+        "num": 981332,
+        "word": "严禁给退休回乡干部职工分宅基地建房",
+        "onboard_time": 1721798059,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 798573,
+        "num": 798573,
+        "word": "一架飞机在尼泊尔首都机场坠毁",
+        "onboard_time": 1721801059,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 755122,
+        "num": 755122,
+        "word": "生命树 杨紫胡歌",
+        "onboard_time": 1721796799,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 666053,
+        "num": 666053,
+        "word": "北京暴雨",
+        "onboard_time": 1721800820,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629259,
+        "num": 629259,
+        "word": "美国男子强暴14岁少女判11年",
+        "onboard_time": 1721791640,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 596689,
+        "num": 596689,
+        "word": "李现拒绝出演高中生",
+        "onboard_time": 1721801900,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86333,
+        "num": 574590,
+        "word": "尼泊尔坠机事故现场已发现5具遗体",
+        "onboard_time": 1721803099,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1556640,
+        "num": 573130,
+        "word": "刘冲搂着张婧仪出门",
+        "onboard_time": 1721799620,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 562574,
+        "num": 562574,
+        "word": "股市拉到4000点财富或能增长25万亿",
+        "onboard_time": 1721801179,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 556134,
+        "num": 556134,
+        "word": "歌王之战帮唱阵容官宣",
+        "onboard_time": 1721793200,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 521579,
+        "num": 521579,
+        "word": "illit卢玧我被曝霸凌",
+        "onboard_time": 1721799259,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 494726,
+        "num": 494726,
+        "word": "贾玲安藤樱 杂志",
+        "onboard_time": 1721801959,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 493531,
+        "num": 493531,
+        "word": "台风红色预警发布",
+        "onboard_time": 1721791640,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44547,
+        "num": 442133,
+        "word": "刘翔谢谢挂念",
+        "onboard_time": 1721801479,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 393032,
+        "num": 393032,
+        "word": "赵丽颖带想想与父母聚餐",
+        "onboard_time": 1721793321,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384551,
+        "num": 384551,
+        "word": "澳大利亚女子在巴黎疑遭5人性侵",
+        "onboard_time": 1721794401,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71229,
+        "num": 361441,
+        "word": "花花把自己团成了三角饭团",
+        "onboard_time": 1721802919,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117321,
+        "num": 350866,
+        "word": "成年后视力度数会下降吗",
+        "onboard_time": 1721801420,
+        "rank": 20,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 662198,
+        "num": 350580,
+        "word": "真的要冻死在这三伏天了",
+        "onboard_time": 1721798659,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 342407,
+        "num": 342407,
+        "word": "以为很干净实际很脏的次抛用品",
+        "onboard_time": 1721801839,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 341041,
+        "num": 341041,
+        "word": "巴黎奥运审美吐槽不了一点",
+        "onboard_time": 1721794220,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 337977,
+        "num": 337977,
+        "word": "沈腾老婆胖了好多",
+        "onboard_time": 1721788279,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333439,
+        "num": 333439,
+        "word": "浙江母女双双确诊美女病",
+        "onboard_time": 1721802680,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304728,
+        "num": 304728,
+        "word": "陕师大回应副教授发不雅照骚扰女生",
+        "onboard_time": 1721799440,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285435,
+        "num": 285435,
+        "word": "被虐待致死的3岁女童母亲发声",
+        "onboard_time": 1721789838,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281234,
+        "num": 281234,
+        "word": "歌王之战官宣张杰",
+        "onboard_time": 1721795302,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277036,
+        "num": 277036,
+        "word": "哈里斯支持率领先特朗普2%",
+        "onboard_time": 1721790079,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 240583,
+        "num": 240583,
+        "word": "尼泊尔媒体称坠毁飞机上载有19人",
+        "onboard_time": 1721802859,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225475,
+        "num": 225475,
+        "word": "爆红的妈被裁的爸没事哒的家",
+        "onboard_time": 1721797101,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224383,
+        "num": 224383,
+        "word": "2岁女童被生父和女友虐待致死",
+        "onboard_time": 1721800159,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222937,
+        "num": 222937,
+        "word": "尼泊尔飞机",
+        "onboard_time": 1721801120,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221750,
+        "num": 221750,
+        "word": "台风格美加强为超强台风",
+        "onboard_time": 1721785278,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218901,
+        "num": 218901,
+        "word": "二十七岁的查美乐喜欢什么咖啡",
+        "onboard_time": 1721802979,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215402,
+        "num": 215402,
+        "word": "小学生添加明星QQ被骗90余万",
+        "onboard_time": 1721799860,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213053,
+        "num": 213053,
+        "word": "李一桐模仿美羊羊表情包",
+        "onboard_time": 1721802439,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210588,
+        "num": 210588,
+        "word": "广州82岁老人8个月被迫转院16次",
+        "onboard_time": 1721798420,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186921,
+        "num": 186921,
+        "word": "大哥远无限期封禁",
+        "onboard_time": 1721788279,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 186683,
+        "num": 186683,
+        "word": "异人之下口碑",
+        "onboard_time": 1721792960,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185633,
+        "num": 185633,
+        "word": "北京发布暴雨橙色预警倡导弹性上下班",
+        "onboard_time": 1721793620,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181053,
+        "num": 181053,
+        "word": "台湾语文课本文言文删掉了四分之三",
+        "onboard_time": 1721780719,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178953,
+        "num": 178953,
+        "word": "镇政府多名人员9点缺岗被问责",
+        "onboard_time": 1721792540,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178138,
+        "num": 178138,
+        "word": "巴黎奥运倒计时2天",
+        "onboard_time": 1721777235,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176983,
+        "num": 176983,
+        "word": "台风",
+        "onboard_time": 1721778619,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176540,
+        "num": 176540,
+        "word": "拜登将于24日晚就退选发表演讲",
+        "onboard_time": 1721790619,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 175045,
+        "num": 175045,
+        "word": "你好外卖 拍摄女顾客",
+        "onboard_time": 1721793260,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174698,
+        "num": 174698,
+        "word": "暑期档唯一家庭剧来了",
+        "onboard_time": 1721803219,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173929,
+        "num": 173929,
+        "word": "官方回应男子称阿勒泰发现石油",
+        "onboard_time": 1721800820,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#这个纲领性文件是如何诞生的#"
+    }
+  }
+}
