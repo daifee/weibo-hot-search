@@ -1,6 +1,6 @@
 {
   "startTime": 1721752056115,
-  "endTime": 1721798387213,
+  "endTime": 1721799384389,
   "band_list": [
     {
       "raw_hot": 2095531,
@@ -40,6 +40,14 @@
       "word": "谭松韵快把长发焊在头上",
       "onboard_time": 1721784138,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1347212,
+      "num": 1347212,
+      "word": "生命树 杨紫胡歌",
+      "onboard_time": 1721796799,
+      "rank": 4,
       "category": "剧集"
     },
     {
@@ -91,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1073823,
+      "num": 1073823,
+      "word": "巴黎奥运审美吐槽不了一点",
+      "onboard_time": 1721794220,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1033880,
       "num": 1033880,
       "word": "刘畊宏谈定居苏州公园多到超乎想象",
@@ -113,22 +129,6 @@
       "onboard_time": 1721775914,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 990882,
-      "num": 990882,
-      "word": "巴黎奥运审美吐槽不了一点",
-      "onboard_time": 1721794220,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 983679,
-      "num": 983679,
-      "word": "生命树 杨紫胡歌",
-      "onboard_time": 1721796799,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 928206,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 732692,
+      "num": 732692,
+      "word": "澳大利亚女子在巴黎疑遭5人性侵",
+      "onboard_time": 1721794401,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 702696,
       "num": 363460,
       "word": "张杰用镊子给自己拔鱼刺",
@@ -251,11 +259,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 619110,
-      "num": 619110,
-      "word": "澳大利亚女子在巴黎疑遭5人性侵",
-      "onboard_time": 1721794401,
-      "rank": 41,
+      "raw_hot": 634671,
+      "num": 634671,
+      "word": "奶茶店为四五十岁女性设熬煮岗",
+      "onboard_time": 1721795661,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -427,14 +435,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 409808,
-      "num": 409808,
-      "word": "奶茶店为四五十岁女性设熬煮岗",
-      "onboard_time": 1721795661,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 389294,
       "num": 215986,
       "word": "旅游是真的要趁早",
@@ -504,6 +504,14 @@
       "word": "校长回应教师产假时被公示解聘",
       "onboard_time": 1721746220,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 340561,
+      "num": 340561,
+      "word": "严禁给退休回乡干部职工分宅基地建房",
+      "onboard_time": 1721798059,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -577,6 +585,14 @@
       "onboard_time": 1721779218,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 287263,
+      "num": 287263,
+      "word": "illit卢玧我被曝霸凌",
+      "onboard_time": 1721799259,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 283021,
@@ -763,6 +779,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216015,
+      "num": 216015,
+      "word": "姚晨 最成功的漫改电影",
+      "onboard_time": 1721796022,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 213726,
+      "num": 549378,
+      "word": "北京发布暴雨橙色预警倡导弹性上下班",
+      "onboard_time": 1721793620,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213257,
       "num": 213257,
       "word": "新娘本人回应扔手捧花砸婚闹朋友",
@@ -787,27 +819,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 210992,
-      "num": 210992,
-      "word": "姚晨 最成功的漫改电影",
-      "onboard_time": 1721796022,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 210236,
       "num": 210236,
       "word": "广告牌坠落致3死7伤责任人被控制",
       "onboard_time": 1721726661,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207942,
-      "num": 549378,
-      "word": "北京发布暴雨橙色预警倡导弹性上下班",
-      "onboard_time": 1721793620,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -867,6 +883,14 @@
       "category": "体育,互联网"
     },
     {
+      "raw_hot": 196034,
+      "num": 196034,
+      "word": "哈里斯",
+      "onboard_time": 1721798720,
+      "rank": 37,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 194903,
       "num": 193902,
       "word": "张若昀 三十岁也是相信光的年纪",
@@ -899,20 +923,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188565,
-      "num": 188565,
-      "word": "严禁给退休回乡干部职工分宅基地建房",
-      "onboard_time": 1721798059,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183605,
       "num": 183605,
       "word": "地磁暴又要来了",
       "onboard_time": 1721783419,
       "rank": 33,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 183417,
+      "num": 183417,
+      "word": "广州82岁老人8个月被迫转院16次",
+      "onboard_time": 1721798420,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183038,
@@ -1049,6 +1073,14 @@
       "onboard_time": 1721749998,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159392,
+      "num": 159392,
+      "word": "真的要冻死在这三伏天了",
+      "onboard_time": 1721798659,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 158327,
@@ -1227,6 +1259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 103116,
+      "num": 639725,
+      "word": "武汉同济医院某医生诱逼捐器官不实",
+      "onboard_time": 1721797221,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100055,
       "num": 100055,
       "word": "林一绿茶小狗",
@@ -1241,6 +1281,14 @@
       "onboard_time": 1721720720,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 94402,
+      "num": 635368,
+      "word": "辛爽需要我时打给我",
+      "onboard_time": 1721795239,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 92491,
@@ -1347,12 +1395,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 70482,
-      "num": 635368,
-      "word": "辛爽需要我时打给我",
-      "onboard_time": 1721795239,
-      "rank": 32,
-      "category": "电影"
+      "raw_hot": 69465,
+      "num": 605926,
+      "word": "美媒曝特朗普曾给哈里斯捐款",
+      "onboard_time": 1721797221,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 67415,
@@ -1411,14 +1459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52828,
-      "num": 639725,
-      "word": "武汉同济医院某医生诱逼捐器官不实",
-      "onboard_time": 1721797221,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 50789,
       "num": 50789,
       "word": "永劫无间手游",
@@ -1441,14 +1481,6 @@
       "onboard_time": 1721769071,
       "rank": 35,
       "category": "教育"
-    },
-    {
-      "raw_hot": 46295,
-      "num": 605926,
-      "word": "美媒曝特朗普曾给哈里斯捐款",
-      "onboard_time": 1721797221,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 44804,
@@ -1551,6 +1583,14 @@
       "num": 216285,
       "word": "日本52岁男子与24岁虚拟女友结婚",
       "onboard_time": 1721788698,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22666,
+      "num": 226318,
+      "word": "英国电信未接通数千紧急电话被罚1.6亿",
+      "onboard_time": 1721799081,
       "rank": 29,
       "category": "社会新闻"
     },
