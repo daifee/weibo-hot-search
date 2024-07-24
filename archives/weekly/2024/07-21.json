@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721795794541,
+  "endTime": 1721798387213,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -611,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1243795,
+      "num": 984560,
+      "word": "美国男子强暴14岁少女判11年",
+      "onboard_time": 1721791640,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1241703,
       "num": 804297,
       "word": "沈腾老婆胖了好多",
@@ -907,12 +915,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 990882,
+      "num": 990882,
+      "word": "巴黎奥运审美吐槽不了一点",
+      "onboard_time": 1721794220,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 986928,
       "num": 1139594,
       "word": "宋丹丹张新成演恋人",
       "onboard_time": 1721555356,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 983679,
+      "num": 983679,
+      "word": "生命树 杨紫胡歌",
+      "onboard_time": 1721796799,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 981010,
@@ -1209,6 +1233,14 @@
       "onboard_time": 1721717060,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 825088,
+      "num": 825088,
+      "word": "歌王之战官宣张杰",
+      "onboard_time": 1721795302,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 822958,
@@ -1763,6 +1795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 619110,
+      "num": 619110,
+      "word": "澳大利亚女子在巴黎疑遭5人性侵",
+      "onboard_time": 1721794401,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 610139,
       "num": 299339,
       "word": "婚纱照发朋友圈被同事阴阳了",
@@ -1955,12 +1995,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 560770,
-      "num": 560770,
-      "word": "美国男子强暴14岁少女判11年",
-      "onboard_time": 1721791640,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 560726,
+      "num": 560726,
+      "word": "异人之下口碑",
+      "onboard_time": 1721792960,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 560534,
@@ -2097,14 +2137,6 @@
       "onboard_time": 1721695761,
       "rank": 29,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 534351,
-      "num": 534351,
-      "word": "异人之下口碑",
-      "onboard_time": 1721792960,
-      "rank": 20,
-      "category": "电影"
     },
     {
       "raw_hot": 533711,
@@ -2539,6 +2571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 454772,
+      "num": 454772,
+      "word": "你好外卖 拍摄女顾客",
+      "onboard_time": 1721793260,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 454573,
       "num": 349974,
       "word": "刘亦菲高马尾新中式",
@@ -2569,14 +2609,6 @@
       "onboard_time": 1721704340,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 451250,
-      "num": 451250,
-      "word": "巴黎奥运审美吐槽不了一点",
-      "onboard_time": 1721794220,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 450436,
@@ -2800,6 +2832,14 @@
       "word": "北师大回应王某某早年曾有类似前科",
       "onboard_time": 1721717001,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 409808,
+      "num": 409808,
+      "word": "奶茶店为四五十岁女性设熬煮岗",
+      "onboard_time": 1721795661,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -3027,6 +3067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 370244,
+      "num": 370244,
+      "word": "爆红的妈被裁的爸没事哒的家",
+      "onboard_time": 1721797101,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 370187,
       "num": 370187,
       "word": "婚礼上被喷酒新娘霸气眼神杀",
@@ -3049,14 +3097,6 @@
       "onboard_time": 1721498353,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 367739,
-      "num": 367739,
-      "word": "歌王之战官宣张杰",
-      "onboard_time": 1721795302,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 367682,
@@ -3331,14 +3371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 334709,
-      "num": 334709,
-      "word": "澳大利亚女子在巴黎疑遭5人性侵",
-      "onboard_time": 1721794401,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 334032,
       "num": 334032,
       "word": "赵丽颖沈雨出狱生活",
@@ -3609,14 +3641,6 @@
       "onboard_time": 1721571621,
       "rank": 24,
       "category": "艺人,电竞"
-    },
-    {
-      "raw_hot": 305414,
-      "num": 305414,
-      "word": "你好外卖 拍摄女顾客",
-      "onboard_time": 1721793260,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 303898,
@@ -4091,6 +4115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264844,
+      "num": 264844,
+      "word": "700多头生猪在江苏热得浑身通红",
+      "onboard_time": 1721794100,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263909,
       "num": 263909,
       "word": "房贷利率有望进入2字头时代",
@@ -4169,6 +4201,14 @@
       "onboard_time": 1721572161,
       "rank": 30,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 257772,
+      "num": 257772,
+      "word": "张婧仪挂脖U领",
+      "onboard_time": 1721796440,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 257027,
@@ -4379,14 +4419,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 243876,
-      "num": 243876,
-      "word": "700多头生猪在江苏热得浑身通红",
-      "onboard_time": 1721794100,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 243313,
       "num": 243313,
       "word": "白宇拍的国乒",
@@ -4465,6 +4497,14 @@
       "onboard_time": 1721542879,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 241683,
+      "num": 241683,
+      "word": "辣椒酱没赶上 裁员赶上了",
+      "onboard_time": 1721795901,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 241498,
@@ -4555,6 +4595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237495,
+      "num": 237495,
+      "word": "陈丽君上台前借不到演出服",
+      "onboard_time": 1721797521,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235750,
       "num": 235750,
       "word": "张凌赫宋威龙同款choker",
@@ -4577,6 +4625,14 @@
       "onboard_time": 1721692159,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 234761,
+      "num": 234761,
+      "word": "原来巴黎紫叫法式尤莱紫",
+      "onboard_time": 1721796980,
+      "rank": 35,
+      "category": "美妆,时尚"
     },
     {
       "raw_hot": 234548,
@@ -4625,6 +4681,14 @@
       "onboard_time": 1721697021,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233450,
+      "num": 233450,
+      "word": "张婧仪小说女主具像化",
+      "onboard_time": 1721796680,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 233376,
@@ -5211,6 +5275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210992,
+      "num": 210992,
+      "word": "姚晨 最成功的漫改电影",
+      "onboard_time": 1721796022,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 210799,
       "num": 210799,
       "word": "朱丹拿馒头换尚雯婕英语课",
@@ -5433,6 +5505,14 @@
       "onboard_time": 1721792060,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203732,
+      "num": 203732,
+      "word": "歌手官宣张磊帮唱",
+      "onboard_time": 1721795841,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 203562,
@@ -6313,6 +6393,14 @@
       "onboard_time": 1721630961,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 188565,
+      "num": 188565,
+      "word": "严禁给退休回乡干部职工分宅基地建房",
+      "onboard_time": 1721798059,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188332,
@@ -8731,6 +8819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111397,
+      "num": 362893,
+      "word": "巴黎街头的小米SU7",
+      "onboard_time": 1721793440,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 110133,
       "num": 186858,
       "word": "孙子替住院爷爷回赠病友炸知了猴",
@@ -8971,14 +9067,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 90686,
-      "num": 357432,
-      "word": "奶茶店为四五十岁女性设熬煮岗",
-      "onboard_time": 1721795661,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 88661,
       "num": 934637,
       "word": "30秒速览巴黎奥运中国代表团阵容",
@@ -9011,20 +9099,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85884,
+      "num": 659073,
+      "word": "易烊千玺请你一杯",
+      "onboard_time": 1721792599,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84964,
       "num": 84964,
       "word": "自驾阿姨说花16万离婚几乎倾家荡产",
       "onboard_time": 1721510472,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 84170,
-      "num": 362893,
-      "word": "巴黎街头的小米SU7",
-      "onboard_time": 1721793440,
-      "rank": 25,
-      "category": "汽车"
     },
     {
       "raw_hot": 84048,
@@ -9179,14 +9267,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 74719,
-      "num": 659073,
-      "word": "易烊千玺请你一杯",
-      "onboard_time": 1721792599,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 74706,
       "num": 1247128,
       "word": "中国奥运健儿带来的感动瞬间",
@@ -9257,6 +9337,14 @@
       "onboard_time": 1721730021,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70482,
+      "num": 635368,
+      "word": "辛爽需要我时打给我",
+      "onboard_time": 1721795239,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 69908,
@@ -9555,6 +9643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 52828,
+      "num": 639725,
+      "word": "武汉同济医院某医生诱逼捐器官不实",
+      "onboard_time": 1721797221,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52234,
       "num": 303114,
       "word": "党的二十届三中全会学习笔记",
@@ -9689,6 +9785,14 @@
       "onboard_time": 1721769071,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 46295,
+      "num": 605926,
+      "word": "美媒曝特朗普曾给哈里斯捐款",
+      "onboard_time": 1721797221,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 45791,
@@ -10001,14 +10105,6 @@
       "onboard_time": 1721625621,
       "rank": 12,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 31098,
-      "num": 338392,
-      "word": "辛爽需要我时打给我",
-      "onboard_time": 1721795239,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 30966,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1721798387213,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1157584,
+        "num": 1185213,
+        "word": "种地吧",
+        "onboard_time": 1721785879,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 990882,
+        "num": 990882,
+        "word": "巴黎奥运审美吐槽不了一点",
+        "onboard_time": 1721794220,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43942,
+        "num": 985150,
+        "word": "中国奥运健儿带来的感动瞬间",
+        "onboard_time": 1721792060,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1243795,
+        "num": 984560,
+        "word": "美国男子强暴14岁少女判11年",
+        "onboard_time": 1721791640,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 983679,
+        "num": 983679,
+        "word": "生命树 杨紫胡歌",
+        "onboard_time": 1721796799,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 792179,
+        "num": 936360,
+        "word": "被虐待致死的3岁女童母亲发声",
+        "onboard_time": 1721789838,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 925770,
+        "num": 925770,
+        "word": "歌王之战帮唱阵容官宣",
+        "onboard_time": 1721793200,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 825088,
+        "num": 825088,
+        "word": "歌王之战官宣张杰",
+        "onboard_time": 1721795302,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 694278,
+        "num": 694278,
+        "word": "拜登将于24日晚就退选发表演讲",
+        "onboard_time": 1721790619,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 52828,
+        "num": 639725,
+        "word": "武汉同济医院某医生诱逼捐器官不实",
+        "onboard_time": 1721797221,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 814126,
+        "num": 639514,
+        "word": "赵丽颖带想想与父母聚餐",
+        "onboard_time": 1721793321,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70482,
+        "num": 635368,
+        "word": "辛爽需要我时打给我",
+        "onboard_time": 1721795239,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 633599,
+        "num": 633599,
+        "word": "镇政府多名人员9点缺岗被问责",
+        "onboard_time": 1721792540,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619110,
+        "num": 619110,
+        "word": "澳大利亚女子在巴黎疑遭5人性侵",
+        "onboard_time": 1721794401,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46295,
+        "num": 605926,
+        "word": "美媒曝特朗普曾给哈里斯捐款",
+        "onboard_time": 1721797221,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 601647,
+        "num": 601647,
+        "word": "台风",
+        "onboard_time": 1721778619,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560726,
+        "num": 560726,
+        "word": "异人之下口碑",
+        "onboard_time": 1721792960,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 555740,
+        "num": 555740,
+        "word": "沈腾老婆胖了好多",
+        "onboard_time": 1721788279,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529118,
+        "num": 529118,
+        "word": "哈里斯支持率领先特朗普2%",
+        "onboard_time": 1721790079,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 454772,
+        "num": 454772,
+        "word": "你好外卖 拍摄女顾客",
+        "onboard_time": 1721793260,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446752,
+        "num": 446752,
+        "word": "台湾语文课本文言文删掉了四分之三",
+        "onboard_time": 1721780719,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409808,
+        "num": 409808,
+        "word": "奶茶店为四五十岁女性设熬煮岗",
+        "onboard_time": 1721795661,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370244,
+        "num": 370244,
+        "word": "爆红的妈被裁的爸没事哒的家",
+        "onboard_time": 1721797101,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 366759,
+        "num": 366759,
+        "word": "大哥远无限期封禁",
+        "onboard_time": 1721788279,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 340958,
+        "num": 340958,
+        "word": "男子被流浪猫绊倒投喂者赔24万案宣判",
+        "onboard_time": 1721786839,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297071,
+        "num": 297071,
+        "word": "谭松韵快把长发焊在头上",
+        "onboard_time": 1721784138,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274132,
+        "num": 274132,
+        "word": "台风格美加强为超强台风",
+        "onboard_time": 1721785278,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267726,
+        "num": 267726,
+        "word": "巴黎奥运倒计时2天",
+        "onboard_time": 1721777235,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264844,
+        "num": 264844,
+        "word": "700多头生猪在江苏热得浑身通红",
+        "onboard_time": 1721794100,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257772,
+        "num": 257772,
+        "word": "张婧仪挂脖U领",
+        "onboard_time": 1721796440,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 285397,
+        "num": 257223,
+        "word": "骆驼 王俊凯",
+        "onboard_time": 1721788518,
+        "rank": 30,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 253197,
+        "num": 253197,
+        "word": "台风红色预警发布",
+        "onboard_time": 1721791640,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85884,
+        "num": 244046,
+        "word": "易烊千玺请你一杯",
+        "onboard_time": 1721792599,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241683,
+        "num": 241683,
+        "word": "辣椒酱没赶上 裁员赶上了",
+        "onboard_time": 1721795901,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237495,
+        "num": 237495,
+        "word": "陈丽君上台前借不到演出服",
+        "onboard_time": 1721797521,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234761,
+        "num": 234761,
+        "word": "原来巴黎紫叫法式尤莱紫",
+        "onboard_time": 1721796980,
+        "rank": 35,
+        "category": "美妆,时尚"
+      },
+      {
+        "raw_hot": 233450,
+        "num": 233450,
+        "word": "张婧仪小说女主具像化",
+        "onboard_time": 1721796680,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111397,
+        "num": 217564,
+        "word": "巴黎街头的小米SU7",
+        "onboard_time": 1721793440,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 211025,
+        "num": 211025,
+        "word": "十个勤天加盟横篮",
+        "onboard_time": 1721794881,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210992,
+        "num": 210992,
+        "word": "姚晨 最成功的漫改电影",
+        "onboard_time": 1721796022,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 206043,
+        "num": 206043,
+        "word": "歌手帮唱",
+        "onboard_time": 1721793440,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203732,
+        "num": 203732,
+        "word": "歌手官宣张磊帮唱",
+        "onboard_time": 1721795841,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203676,
+        "num": 203676,
+        "word": "J人的行李箱P人永远不懂",
+        "onboard_time": 1721793922,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193892,
+        "num": 193892,
+        "word": "北京发布暴雨橙色预警倡导弹性上下班",
+        "onboard_time": 1721793620,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193947,
+        "num": 193824,
+        "word": "芒果娱乐 投票",
+        "onboard_time": 1721793380,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188565,
+        "num": 188565,
+        "word": "严禁给退休回乡干部职工分宅基地建房",
+        "onboard_time": 1721798059,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180011,
+        "num": 180011,
+        "word": "夏天厕所20分钟效应",
+        "onboard_time": 1721786418,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171166,
+        "num": 171166,
+        "word": "买黄金前一定要知道的冷知识",
+        "onboard_time": 1721789960,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 161295,
+        "num": 161295,
+        "word": "追踪台风格美",
+        "onboard_time": 1721789779,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159911,
+        "num": 159911,
+        "word": "偶遇沈腾一家度假",
+        "onboard_time": 1721776457,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届三中全会决定学习笔记#"
+    }
+  }
+}
