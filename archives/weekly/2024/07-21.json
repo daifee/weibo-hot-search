@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721799384389,
+  "endTime": 1721802484697,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -435,6 +435,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1486298,
+      "num": 503373,
+      "word": "刘冲搂着张婧仪出门",
+      "onboard_time": 1721799620,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1458611,
       "num": 1458611,
       "word": "拜登将于24日晚就退选发表演讲",
@@ -520,6 +528,14 @@
       "word": "当事人回应胎儿被诊断超雄综合征",
       "onboard_time": 1721544738,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1336940,
+      "num": 1336940,
+      "word": "奶茶店为四五十岁女性设熬煮岗",
+      "onboard_time": 1721795661,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -939,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 984889,
+      "num": 984889,
+      "word": "严禁给退休回乡干部职工分宅基地建房",
+      "onboard_time": 1721798059,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 981010,
       "num": 981010,
       "word": "杨迪恭喜张予曦总冠军",
@@ -1355,6 +1379,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 776829,
+      "num": 776829,
+      "word": "樊振东爆改巴黎纸板床",
+      "onboard_time": 1721800700,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 774964,
       "num": 774964,
       "word": "莲花楼 是谁的意难平",
@@ -1481,6 +1513,14 @@
       "onboard_time": 1721660064,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 728056,
+      "num": 344584,
+      "word": "真的要冻死在这三伏天了",
+      "onboard_time": 1721798659,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 724075,
@@ -1651,6 +1691,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 678712,
+      "num": 678712,
+      "word": "一架飞机在尼泊尔首都机场坠毁",
+      "onboard_time": 1721801059,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 670039,
       "num": 670039,
       "word": "泫雅表演时台下无人应援",
@@ -1752,14 +1800,6 @@
       "word": "140元药卖患者2980元",
       "onboard_time": 1721700740,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 634671,
-      "num": 634671,
-      "word": "奶茶店为四五十岁女性设熬煮岗",
-      "onboard_time": 1721795661,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -2057,6 +2097,14 @@
       "onboard_time": 1721612661,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 553121,
+      "num": 553121,
+      "word": "illit卢玧我被曝霸凌",
+      "onboard_time": 1721799259,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 553034,
@@ -2699,6 +2747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 439027,
+      "num": 439027,
+      "word": "股市拉到4000点财富或能增长25万亿",
+      "onboard_time": 1721801179,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
       "raw_hot": 437860,
       "num": 437860,
       "word": "北京宣言为巴勒斯坦人民带来了宝贵希望",
@@ -2881,6 +2937,14 @@
       "onboard_time": 1721610321,
       "rank": 16,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 405631,
+      "num": 405631,
+      "word": "北京暴雨",
+      "onboard_time": 1721800820,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 402339,
@@ -3089,6 +3153,14 @@
       "onboard_time": 1721614281,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 369613,
+      "num": 369613,
+      "word": "李现拒绝出演高中生",
+      "onboard_time": 1721801900,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 367971,
@@ -3331,14 +3403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 340561,
-      "num": 340561,
-      "word": "严禁给退休回乡干部职工分宅基地建房",
-      "onboard_time": 1721798059,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 339023,
       "num": 339023,
       "word": "小鬼王琳凯年度最佳说唱歌手",
@@ -3545,6 +3609,14 @@
       "onboard_time": 1721668215,
       "rank": 38,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 314563,
+      "num": 314563,
+      "word": "陕师大回应副教授发不雅照骚扰女生",
+      "onboard_time": 1721799440,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 313220,
@@ -3827,6 +3899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 290841,
+      "num": 290841,
+      "word": "尼泊尔飞机",
+      "onboard_time": 1721801120,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290562,
       "num": 290562,
       "word": "赵丽颖阿玛尼深V裙",
@@ -3881,14 +3961,6 @@
       "onboard_time": 1721630419,
       "rank": 35,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 287263,
-      "num": 287263,
-      "word": "illit卢玧我被曝霸凌",
-      "onboard_time": 1721799259,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 286475,
@@ -4041,6 +4113,14 @@
       "onboard_time": 1721617820,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 270527,
+      "num": 270527,
+      "word": "以为很干净实际很脏的次抛用品",
+      "onboard_time": 1721801839,
+      "rank": 28,
+      "category": "美妆"
     },
     {
       "raw_hot": 269369,
@@ -4555,6 +4635,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 239871,
+      "num": 239871,
+      "word": "贾玲安藤樱 杂志",
+      "onboard_time": 1721801959,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 239736,
       "num": 239736,
       "word": "三伏天别做这7件事",
@@ -4673,6 +4761,14 @@
       "onboard_time": 1721568201,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 234240,
+      "num": 234240,
+      "word": "广州82岁老人8个月被迫转院16次",
+      "onboard_time": 1721798420,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233980,
@@ -4977,6 +5073,14 @@
       "onboard_time": 1721573122,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220362,
+      "num": 220362,
+      "word": "小学生添加明星QQ被骗90余万",
+      "onboard_time": 1721799860,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220291,
@@ -5419,6 +5523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 206348,
+      "num": 206348,
+      "word": "2岁女童被生父和女友虐待致死",
+      "onboard_time": 1721800159,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206206,
       "num": 206206,
       "word": "小米 拍立得",
@@ -5489,6 +5601,14 @@
       "onboard_time": 1721531298,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205085,
+      "num": 205085,
+      "word": "夏侯惇水墨武侠皮肤",
+      "onboard_time": 1721802260,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 204743,
@@ -6643,14 +6763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183417,
-      "num": 183417,
-      "word": "广州82岁老人8个月被迫转院16次",
-      "onboard_time": 1721798420,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183038,
       "num": 183038,
       "word": "被广告牌砸中女童母亲发声",
@@ -7089,6 +7201,14 @@
       "onboard_time": 1721733139,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172069,
+      "num": 172069,
+      "word": "李一桐模仿美羊羊表情包",
+      "onboard_time": 1721802439,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 171772,
@@ -7585,14 +7705,6 @@
       "onboard_time": 1721749998,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159392,
-      "num": 159392,
-      "word": "真的要冻死在这三伏天了",
-      "onboard_time": 1721798659,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 159318,
@@ -9099,12 +9211,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 92046,
+      "num": 344831,
+      "word": "成年后视力度数会下降吗",
+      "onboard_time": 1721801420,
+      "rank": 20,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 91557,
       "num": 210176,
       "word": "张韶涵香水百合",
       "onboard_time": 1721484320,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 89488,
+      "num": 440877,
+      "word": "官方回应男子称阿勒泰发现石油",
+      "onboard_time": 1721800820,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88661,
@@ -9161,6 +9289,14 @@
       "onboard_time": 1721744181,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 83880,
+      "num": 509680,
+      "word": "巴黎奥运开幕式细节曝光",
+      "onboard_time": 1721800400,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83761,
@@ -9657,6 +9793,14 @@
       "onboard_time": 1721567661,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53954,
+      "num": 335778,
+      "word": "刘翔谢谢挂念",
+      "onboard_time": 1721801479,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 53906,
