@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721828089328,
+  "endTime": 1721830786467,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -1331,6 +1331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 859833,
+      "num": 859833,
+      "word": "网传某头部大行员工月薪2千元",
+      "onboard_time": 1721826320,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 857497,
       "num": 857497,
       "word": "唐尚珺被华南师范大学录取",
@@ -1484,7 +1492,7 @@
     },
     {
       "raw_hot": 806166,
-      "num": 242925,
+      "num": 256229,
       "word": "肾出现问题身体会发出这4个警报",
       "onboard_time": 1721823921,
       "rank": 35,
@@ -1923,6 +1931,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 658818,
+      "num": 658818,
+      "word": "国乒奥运抽签",
+      "onboard_time": 1721826921,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 656426,
       "num": 656426,
       "word": "巴黎奥运倒计时2天",
@@ -2049,6 +2065,14 @@
       "onboard_time": 1721618961,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 620491,
+      "num": 620491,
+      "word": "巴黎奥运会开赛了",
+      "onboard_time": 1721827279,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 619175,
@@ -2531,14 +2555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 516970,
-      "num": 516970,
-      "word": "巴黎奥运会开赛了",
-      "onboard_time": 1721827279,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 516186,
       "num": 516186,
       "word": "郁可唯求观众删视频",
@@ -2828,7 +2844,7 @@
     },
     {
       "raw_hot": 464024,
-      "num": 464024,
+      "num": 466217,
       "word": "这是马龙和奥运的16年",
       "onboard_time": 1721826261,
       "rank": 8,
@@ -3339,6 +3355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396320,
+      "num": 396320,
+      "word": "Ruka和Chiquita吧断交",
+      "onboard_time": 1721828300,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 395806,
       "num": 395806,
       "word": "newjeans将进入休息期",
@@ -3499,20 +3523,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 369624,
+      "num": 248440,
+      "word": "关晓彤收到了孙颖莎的礼物",
+      "onboard_time": 1721829500,
+      "rank": 22,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 369267,
       "num": 369267,
       "word": "曝萧亚轩男友是假荷兰富二代",
       "onboard_time": 1721807300,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 368709,
-      "num": 368709,
-      "word": "国乒奥运抽签",
-      "onboard_time": 1721826921,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 367971,
@@ -4219,6 +4243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297164,
+      "num": 243485,
+      "word": "中国口红纸在国外火了",
+      "onboard_time": 1721828478,
+      "rank": 23,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 296120,
       "num": 296120,
       "word": "宗馥莉",
@@ -4265,6 +4297,14 @@
       "onboard_time": 1721808860,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 294368,
+      "num": 294368,
+      "word": "歌手帮唱声生不息团建",
+      "onboard_time": 1721829200,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 294231,
@@ -4489,14 +4529,6 @@
       "onboard_time": 1721736319,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 276718,
-      "num": 276718,
-      "word": "网传某头部大行员工月薪2千元",
-      "onboard_time": 1721826320,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 276604,
@@ -5563,6 +5595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223153,
+      "num": 223153,
+      "word": "SEVENTEEN十月开启世巡",
+      "onboard_time": 1721828361,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 222868,
       "num": 222868,
       "word": "拜登退选后家人感到如释重负",
@@ -5859,6 +5899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214792,
+      "num": 452858,
+      "word": "知情人谈生理盐水冒充疫苗操作内幕",
+      "onboard_time": 1721827822,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214313,
       "num": 214313,
       "word": "勤天柱超话",
@@ -5993,6 +6041,14 @@
       "onboard_time": 1721644281,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212494,
+      "num": 212494,
+      "word": "三伏天是祛湿最佳时间",
+      "onboard_time": 1721825240,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 212336,
@@ -7451,6 +7507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185158,
+      "num": 185158,
+      "word": "阿根廷国奥vs摩洛哥国奥",
+      "onboard_time": 1721830401,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185125,
       "num": 185125,
       "word": "一诺卫衣男大感",
@@ -7731,14 +7795,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 177882,
-      "num": 177882,
-      "word": "三伏天是祛湿最佳时间",
-      "onboard_time": 1721825240,
-      "rank": 44,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 177730,
       "num": 399998,
       "word": "尔滨你真的一年四季都没有淡季",
@@ -7995,6 +8051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172958,
+      "num": 172958,
+      "word": "这5种看似健康的行为别再做了",
+      "onboard_time": 1721830461,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 172951,
       "num": 172951,
       "word": "相柳此生只亏欠了他自己",
@@ -8233,6 +8297,14 @@
       "onboard_time": 1721614821,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168186,
+      "num": 168186,
+      "word": "台风路径",
+      "onboard_time": 1721829740,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167579,
@@ -8563,6 +8635,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 160672,
+      "num": 160672,
+      "word": "LNG战胜JDG",
+      "onboard_time": 1721830102,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 160269,
       "num": 160269,
       "word": "国际数学奥林匹克成绩中国队屈居第二",
@@ -8705,6 +8785,14 @@
       "onboard_time": 1721822840,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156603,
+      "num": 156603,
+      "word": "张晚意哭戏后劲好大",
+      "onboard_time": 1721829622,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 156529,
@@ -8889,6 +8977,14 @@
       "onboard_time": 1721543898,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 151762,
+      "num": 151762,
+      "word": "魏大勋竹叶新中式长衫",
+      "onboard_time": 1721829320,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 151676,
@@ -9873,6 +9969,14 @@
       "onboard_time": 1721560279,
       "rank": 43,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 119513,
+      "num": 119513,
+      "word": "日行2万步健身易引起膝关节积液",
+      "onboard_time": 1721829981,
+      "rank": 47,
+      "category": "运动健身"
     },
     {
       "raw_hot": 119376,
@@ -11115,6 +11219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46553,
+      "num": 458806,
+      "word": "乡干部蚂蚁搬家式侵占补助2314笔",
+      "onboard_time": 1721829622,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46483,
       "num": 64176,
       "word": "Fly泼水一直在撤回",
@@ -11299,14 +11411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38190,
-      "num": 452858,
-      "word": "知情人谈生理盐水冒充疫苗操作内幕",
-      "onboard_time": 1721827822,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 37962,
       "num": 46025,
       "word": "一个看似养生的行为可能在养癌",
@@ -11385,6 +11489,14 @@
       "onboard_time": 1721735780,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34302,
+      "num": 121449,
+      "word": "Tiffany七夕活动",
+      "onboard_time": 1721830521,
+      "rank": 46,
+      "category": "时尚"
     },
     {
       "raw_hot": 34046,

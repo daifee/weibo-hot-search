@@ -1,0 +1,410 @@
+{
+  "runTime": 1721830786467,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1714797,
+        "num": 1714797,
+        "word": "李佳琦说旺旺离职不会挽留",
+        "onboard_time": 1721823620,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 859833,
+        "num": 859833,
+        "word": "网传某头部大行员工月薪2千元",
+        "onboard_time": 1721826320,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 50614,
+        "num": 849084,
+        "word": "万千气象看青海",
+        "onboard_time": 1721826320,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 839248,
+        "num": 839248,
+        "word": "巴黎奥运村纸板床终于塌了",
+        "onboard_time": 1721822777,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 783744,
+        "num": 783744,
+        "word": "郑爽未播剧出品方母公司股权被冻结",
+        "onboard_time": 1721824700,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 658818,
+        "num": 658818,
+        "word": "国乒奥运抽签",
+        "onboard_time": 1721826921,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 620491,
+        "num": 620491,
+        "word": "巴黎奥运会开赛了",
+        "onboard_time": 1721827279,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 504844,
+        "num": 504844,
+        "word": "EXO有自己的何炅",
+        "onboard_time": 1721823318,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 363530,
+        "num": 466217,
+        "word": "这是马龙和奥运的16年",
+        "onboard_time": 1721826261,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46553,
+        "num": 458806,
+        "word": "乡干部蚂蚁搬家式侵占补助2314笔",
+        "onboard_time": 1721829622,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 810202,
+        "num": 458313,
+        "word": "女高中生举报大学教师婚内出轨",
+        "onboard_time": 1721822178,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455501,
+        "num": 455501,
+        "word": "马龙冯雨担任中国体育代表团旗手",
+        "onboard_time": 1721823379,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 447957,
+        "num": 447957,
+        "word": "檀健次再演沈翊压力很大",
+        "onboard_time": 1721819119,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 396320,
+        "num": 396320,
+        "word": "Ruka和Chiquita吧断交",
+        "onboard_time": 1721828300,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353695,
+        "num": 353695,
+        "word": "海莉孕肚大片",
+        "onboard_time": 1721825780,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332608,
+        "num": 332608,
+        "word": "骗子用赵露思旧照行骗",
+        "onboard_time": 1721820558,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328852,
+        "num": 328852,
+        "word": "盖浇饭已经改叫中式能量碗了",
+        "onboard_time": 1721818461,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 294368,
+        "num": 294368,
+        "word": "歌手帮唱声生不息团建",
+        "onboard_time": 1721829200,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272843,
+        "num": 272843,
+        "word": "多家航司回应一人带三娃坐不了飞机",
+        "onboard_time": 1721819479,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256705,
+        "num": 256705,
+        "word": "爸爸为女儿展示矿泉水烟花太惊艳了",
+        "onboard_time": 1721817018,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591503,
+        "num": 256229,
+        "word": "肾出现问题身体会发出这4个警报",
+        "onboard_time": 1721823921,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 581329,
+        "num": 250415,
+        "word": "女子称古茗奶茶内疑有血痰",
+        "onboard_time": 1721824039,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369624,
+        "num": 248440,
+        "word": "关晓彤收到了孙颖莎的礼物",
+        "onboard_time": 1721829500,
+        "rank": 22,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 297164,
+        "num": 243485,
+        "word": "中国口红纸在国外火了",
+        "onboard_time": 1721828478,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 241257,
+        "num": 241257,
+        "word": "辛芷蕾 我不能只演一部分女性",
+        "onboard_time": 1721823978,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 223153,
+        "num": 223153,
+        "word": "SEVENTEEN十月开启世巡",
+        "onboard_time": 1721828361,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 214792,
+        "num": 214792,
+        "word": "知情人谈生理盐水冒充疫苗操作内幕",
+        "onboard_time": 1721827822,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212494,
+        "num": 212494,
+        "word": "三伏天是祛湿最佳时间",
+        "onboard_time": 1721825240,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 198089,
+        "num": 198089,
+        "word": "小夭婚礼上处处有相柳的影子",
+        "onboard_time": 1721818339,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196324,
+        "num": 196324,
+        "word": "卢凌风 遵妻命",
+        "onboard_time": 1721826680,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185158,
+        "num": 185158,
+        "word": "阿根廷国奥vs摩洛哥国奥",
+        "onboard_time": 1721830401,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172958,
+        "num": 172958,
+        "word": "这5种看似健康的行为别再做了",
+        "onboard_time": 1721830461,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 170725,
+        "num": 170725,
+        "word": "台风格美",
+        "onboard_time": 1721821639,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169116,
+        "num": 169116,
+        "word": "男子川藏线偶遇大爷竟是00后",
+        "onboard_time": 1721823439,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168186,
+        "num": 168186,
+        "word": "台风路径",
+        "onboard_time": 1721829740,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160672,
+        "num": 160672,
+        "word": "LNG战胜JDG",
+        "onboard_time": 1721830102,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 156603,
+        "num": 156603,
+        "word": "张晚意哭戏后劲好大",
+        "onboard_time": 1721829622,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151762,
+        "num": 151762,
+        "word": "魏大勋竹叶新中式长衫",
+        "onboard_time": 1721829320,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144593,
+        "num": 144593,
+        "word": "女子时隔25年两次落水被同一人救起",
+        "onboard_time": 1721824640,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142221,
+        "num": 142221,
+        "word": "地铁被污蔑偷拍案调解宣告破裂",
+        "onboard_time": 1721821038,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141366,
+        "num": 141366,
+        "word": "男子领证后连中三次彩票",
+        "onboard_time": 1721816360,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139515,
+        "num": 139515,
+        "word": "唐尚珺今年高考601分",
+        "onboard_time": 1721813240,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 138787,
+        "num": 138787,
+        "word": "应对台风1.1万名消防员枕戈待旦",
+        "onboard_time": 1721823439,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133599,
+        "num": 133599,
+        "word": "美国女乒队长是马龙迷妹实锤了",
+        "onboard_time": 1721827881,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132285,
+        "num": 132285,
+        "word": "台风红色预警发布",
+        "onboard_time": 1721791640,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128121,
+        "num": 128121,
+        "word": "唐诡西行 独孤苍苍而娘子青青",
+        "onboard_time": 1721824100,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34302,
+        "num": 121449,
+        "word": "Tiffany七夕活动",
+        "onboard_time": 1721830521,
+        "rank": 46,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 119513,
+        "num": 119513,
+        "word": "日行2万步健身易引起膝关节积液",
+        "onboard_time": 1721829981,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 116181,
+        "num": 116181,
+        "word": "TF家族测体脂率",
+        "onboard_time": 1721824580,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115112,
+        "num": 115112,
+        "word": "袋装薯片和桶状薯片的区别",
+        "onboard_time": 1721827341,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快建设现代化经济体系#"
+    }
+  }
+}
