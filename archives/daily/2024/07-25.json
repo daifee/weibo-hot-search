@@ -1,6 +1,6 @@
 {
   "startTime": 1721838296901,
-  "endTime": 1721895936861,
+  "endTime": 1721896722900,
   "band_list": [
     {
       "raw_hot": 2093627,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1623816,
+      "num": 537510,
+      "word": "孙卓已被南京工业大学录取",
+      "onboard_time": 1721895559,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1600597,
       "num": 545291,
       "word": "电梯内电池爆燃事主26天后去世",
@@ -97,6 +105,14 @@
       "onboard_time": 1721880259,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1295370,
+      "num": 1295370,
+      "word": "中国游泳队身上全是火罐印",
+      "onboard_time": 1721892680,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 1258525,
@@ -160,14 +176,6 @@
       "word": "巴黎再现2008北京奥运背包",
       "onboard_time": 1721881100,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 975120,
-      "num": 975120,
-      "word": "中国游泳队身上全是火罐印",
-      "onboard_time": 1721892680,
-      "rank": 45,
       "category": "体育"
     },
     {
@@ -259,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 732546,
+      "num": 732546,
+      "word": "十个勤天 两年没有分开过",
+      "onboard_time": 1721893100,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 719139,
       "num": 719139,
       "word": "山东理工大学曹某被开除党籍",
@@ -273,14 +289,6 @@
       "onboard_time": 1721875037,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 706545,
-      "num": 706545,
-      "word": "十个勤天 两年没有分开过",
-      "onboard_time": 1721893100,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 705188,
@@ -491,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 472531,
+      "num": 355824,
+      "word": "卖了300斤的腌水果到底有多好吃",
+      "onboard_time": 1721890699,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 466287,
       "num": 461919,
       "word": "特朗普公开巴勒斯坦总统来信",
@@ -505,22 +521,6 @@
       "onboard_time": 1721833281,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 437705,
-      "num": 355824,
-      "word": "卖了300斤的腌水果到底有多好吃",
-      "onboard_time": 1721890699,
-      "rank": 31,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 431482,
-      "num": 431482,
-      "word": "孙卓已被南京工业大学录取",
-      "onboard_time": 1721895559,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 417670,
@@ -963,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227243,
+      "num": 227243,
+      "word": "TFBOYS才是最早的养成系",
+      "onboard_time": 1721895320,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225973,
       "num": 225973,
       "word": "无期迷途",
@@ -1027,14 +1035,6 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 216585,
-      "num": 216585,
-      "word": "TFBOYS才是最早的养成系",
-      "onboard_time": 1721895320,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 214523,
       "num": 214523,
       "word": "日媒称牛肉饭涨价怪中国",
@@ -1097,6 +1097,14 @@
       "onboard_time": 1721840655,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 210872,
+      "num": 210872,
+      "word": "终于有能和妈妈一起去的演唱会了",
+      "onboard_time": 1721895621,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 210575,
@@ -1219,6 +1227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 194516,
+      "num": 186959,
+      "word": "中国军队历来不信邪不怕鬼不怕压",
+      "onboard_time": 1721895859,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194100,
       "num": 194100,
       "word": "降息",
@@ -1291,14 +1307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189780,
-      "num": 189780,
-      "word": "终于有能和妈妈一起去的演唱会了",
-      "onboard_time": 1721895621,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 189738,
       "num": 176697,
       "word": "王一博与穿山甲寻护者同行",
@@ -1339,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187460,
+      "num": 187460,
+      "word": "纪凌尘吃鸡蛋只需一口",
+      "onboard_time": 1721893519,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182857,
       "num": 182857,
       "word": "昌平线",
@@ -1353,6 +1369,14 @@
       "onboard_time": 1721895021,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180015,
+      "num": 180015,
+      "word": "孙海洋祝福孙卓",
+      "onboard_time": 1721896401,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179700,
@@ -1409,14 +1433,6 @@
       "onboard_time": 1721864778,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 175033,
-      "num": 175033,
-      "word": "纪凌尘吃鸡蛋只需一口",
-      "onboard_time": 1721893519,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 175019,
@@ -1499,6 +1515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 166822,
+      "num": 166822,
+      "word": "全欧洲的小偷都在往巴黎赶",
+      "onboard_time": 1721894300,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166606,
       "num": 166606,
       "word": "鹭卓去横篮打出几部戏给兄弟们",
@@ -1579,6 +1603,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 161350,
+      "num": 161350,
+      "word": "巴黎奥运 白人饭",
+      "onboard_time": 1721894840,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158201,
       "num": 158201,
       "word": "居然有连周深都说难唱的歌",
@@ -1609,6 +1641,14 @@
       "onboard_time": 1721864657,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153546,
+      "num": 153546,
+      "word": "易烊千玺官宣奥运加油团",
+      "onboard_time": 1721896279,
+      "rank": 39,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 153341,
@@ -1643,20 +1683,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 151746,
-      "num": 151746,
-      "word": "巴黎奥运 白人饭",
-      "onboard_time": 1721894840,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 151738,
       "num": 151738,
       "word": "在健身房锻炼被人开走了",
       "onboard_time": 1721832081,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 149088,
+      "num": 614961,
+      "word": "女子称花3900纹发际线后还是像阿哥",
+      "onboard_time": 1721894600,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148225,
@@ -1731,12 +1771,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137600,
-      "num": 137600,
-      "word": "中国军队历来不信邪不怕鬼不怕压",
-      "onboard_time": 1721895859,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 136629,
+      "num": 136629,
+      "word": "韩国队签运",
+      "onboard_time": 1721896637,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 136069,
@@ -1761,6 +1801,22 @@
       "onboard_time": 1721891479,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 134069,
+      "num": 134069,
+      "word": "沈阳暴雨",
+      "onboard_time": 1721896579,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133345,
+      "num": 133345,
+      "word": "杨紫为中国健儿加油",
+      "onboard_time": 1721896701,
+      "rank": 48,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 132933,
@@ -1923,6 +1979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88401,
+      "num": 544030,
+      "word": "有一种美叫大女主的美",
+      "onboard_time": 1721891599,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 86069,
       "num": 120945,
       "word": "盖浇饭已经改叫中式能量碗了",
@@ -1937,14 +2001,6 @@
       "onboard_time": 1721833341,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85038,
-      "num": 544030,
-      "word": "有一种美叫大女主的美",
-      "onboard_time": 1721891599,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 84639,
@@ -2000,14 +2056,6 @@
       "word": "男子川藏线偶遇大爷竟是00后",
       "onboard_time": 1721823439,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74628,
-      "num": 614961,
-      "word": "女子称花3900纹发际线后还是像阿哥",
-      "onboard_time": 1721894600,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2139,6 +2187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37637,
+      "num": 1081807,
+      "word": "防汛关键期必须有关键作为",
+      "onboard_time": 1721880200,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36283,
       "num": 1041260,
       "word": "万千气象看青海",
@@ -2147,11 +2203,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33931,
-      "num": 1081807,
-      "word": "防汛关键期必须有关键作为",
-      "onboard_time": 1721880200,
-      "rank": 2,
+      "raw_hot": 33830,
+      "num": 567324,
+      "word": "为老人代写回忆录子女未必看完",
+      "onboard_time": 1721896279,
+      "rank": 8,
       "category": "社会新闻"
     },
     {

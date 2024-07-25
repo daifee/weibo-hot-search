@@ -1,0 +1,410 @@
+{
+  "runTime": 1721896722900,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1403444,
+        "num": 1403444,
+        "word": "密室大逃脱 举报",
+        "onboard_time": 1721889319,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1295370,
+        "num": 1295370,
+        "word": "中国游泳队身上全是火罐印",
+        "onboard_time": 1721892680,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37637,
+        "num": 1043579,
+        "word": "防汛关键期必须有关键作为",
+        "onboard_time": 1721880200,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 990608,
+        "num": 990608,
+        "word": "樊振东 死亡下半区",
+        "onboard_time": 1721891420,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 914242,
+        "num": 914242,
+        "word": "杨幂村妇造型路透",
+        "onboard_time": 1721892200,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 763144,
+        "num": 763144,
+        "word": "台风格美预计今天下午到傍晚登陆福建",
+        "onboard_time": 1721877021,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 732546,
+        "num": 732546,
+        "word": "十个勤天 两年没有分开过",
+        "onboard_time": 1721893100,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 653503,
+        "num": 653503,
+        "word": "宁艺卓身材引发热议",
+        "onboard_time": 1721891719,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33830,
+        "num": 567324,
+        "word": "为老人代写回忆录子女未必看完",
+        "onboard_time": 1721896279,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489766,
+        "num": 539944,
+        "word": "巴黎再现2008北京奥运背包",
+        "onboard_time": 1721881100,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1623816,
+        "num": 537510,
+        "word": "孙卓已被南京工业大学录取",
+        "onboard_time": 1721895559,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534044,
+        "num": 534044,
+        "word": "兰州刺激性异味来源查清",
+        "onboard_time": 1721887401,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506984,
+        "num": 506984,
+        "word": "花少直播 无聊",
+        "onboard_time": 1721890520,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 482319,
+        "num": 482319,
+        "word": "阚清子与未婚夫结束度假回国",
+        "onboard_time": 1721882780,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469052,
+        "num": 469052,
+        "word": "14岁初中生课堂嗑药致昏迷进ICU",
+        "onboard_time": 1721880680,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461500,
+        "num": 461500,
+        "word": "花少海报 站位",
+        "onboard_time": 1721892140,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396393,
+        "num": 396393,
+        "word": "一个普通女孩140斤到98斤之路",
+        "onboard_time": 1721884760,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 338982,
+        "num": 338982,
+        "word": "高中教师表白女学生事发高考前",
+        "onboard_time": 1721886258,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330272,
+        "num": 330272,
+        "word": "陈哲远当面捅了芒果后期的窝",
+        "onboard_time": 1721889799,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88401,
+        "num": 329876,
+        "word": "有一种美叫大女主的美",
+        "onboard_time": 1721891599,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 843317,
+        "num": 329835,
+        "word": "电梯内电池爆燃事主26天后去世",
+        "onboard_time": 1721884879,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472531,
+        "num": 329833,
+        "word": "卖了300斤的腌水果到底有多好吃",
+        "onboard_time": 1721890699,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 329782,
+        "num": 329782,
+        "word": "金靖不办婚礼的原因",
+        "onboard_time": 1721880259,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 232512,
+        "num": 232512,
+        "word": "台风",
+        "onboard_time": 1721862314,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227243,
+        "num": 227243,
+        "word": "TFBOYS才是最早的养成系",
+        "onboard_time": 1721895320,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226972,
+        "num": 226972,
+        "word": "宋江好帅",
+        "onboard_time": 1721885601,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218547,
+        "num": 218547,
+        "word": "孙楠背了流浪地球KPI吗",
+        "onboard_time": 1721894239,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210872,
+        "num": 210872,
+        "word": "终于有能和妈妈一起去的演唱会了",
+        "onboard_time": 1721895621,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 209100,
+        "num": 209100,
+        "word": "中药冰淇淋一份卖到38元",
+        "onboard_time": 1721874798,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187460,
+        "num": 187460,
+        "word": "纪凌尘吃鸡蛋只需一口",
+        "onboard_time": 1721893519,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194516,
+        "num": 186959,
+        "word": "中国军队历来不信邪不怕鬼不怕压",
+        "onboard_time": 1721895859,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185397,
+        "num": 185397,
+        "word": "张兰说白癜风控制住了",
+        "onboard_time": 1721894059,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180015,
+        "num": 180015,
+        "word": "孙海洋祝福孙卓",
+        "onboard_time": 1721896401,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177126,
+        "num": 177126,
+        "word": "格美",
+        "onboard_time": 1721891599,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167725,
+        "num": 167725,
+        "word": "CCTV电视剧发王一博",
+        "onboard_time": 1721892021,
+        "rank": 34,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 166822,
+        "num": 166822,
+        "word": "全欧洲的小偷都在往巴黎赶",
+        "onboard_time": 1721894300,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166793,
+        "num": 166793,
+        "word": "孙燕姿暂时不开演唱会的原因",
+        "onboard_time": 1721891298,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161350,
+        "num": 161350,
+        "word": "巴黎奥运 白人饭",
+        "onboard_time": 1721894840,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149088,
+        "num": 157132,
+        "word": "女子称花3900纹发际线后还是像阿哥",
+        "onboard_time": 1721894600,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153546,
+        "num": 153546,
+        "word": "易烊千玺官宣奥运加油团",
+        "onboard_time": 1721896279,
+        "rank": 39,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 153516,
+        "num": 153516,
+        "word": "甘肃博物馆回应麻辣烫玩偶火了",
+        "onboard_time": 1721889021,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146889,
+        "num": 146889,
+        "word": "夫妻冷战三伏天车里开暖风",
+        "onboard_time": 1721872398,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144191,
+        "num": 144191,
+        "word": "赵露思宋威龙网传合作",
+        "onboard_time": 1721894120,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142338,
+        "num": 142338,
+        "word": "从国企辞职回老家开书店",
+        "onboard_time": 1721892740,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136629,
+        "num": 136629,
+        "word": "韩国队签运",
+        "onboard_time": 1721896637,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135599,
+        "num": 135599,
+        "word": "密室大逃脱播不播",
+        "onboard_time": 1721882481,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134069,
+        "num": 134069,
+        "word": "沈阳暴雨",
+        "onboard_time": 1721896579,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134010,
+        "num": 134010,
+        "word": "虾系坐姿是伤脖子最快的坐姿",
+        "onboard_time": 1721891240,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133345,
+        "num": 133345,
+        "word": "杨紫为中国健儿加油",
+        "onboard_time": 1721896701,
+        "rank": 48,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 130933,
+        "num": 130933,
+        "word": "闵熙珍私下辱骂NewJeans成员",
+        "onboard_time": 1721881521,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#完善国家创新体系#"
+    }
+  }
+}
