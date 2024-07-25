@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721892885559,
+  "endTime": 1721895936861,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -755,6 +755,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1258525,
+      "num": 1258525,
+      "word": "樊振东 死亡下半区",
+      "onboard_time": 1721891420,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1254613,
       "num": 1254613,
       "word": "哈里斯支持率领先特朗普2%",
@@ -793,14 +801,6 @@
       "onboard_time": 1721791640,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1242716,
-      "num": 1242716,
-      "word": "樊振东 死亡下半区",
-      "onboard_time": 1721891420,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 1241703,
@@ -1107,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1041781,
+      "num": 1041781,
+      "word": "杨幂村妇造型路透",
+      "onboard_time": 1721892200,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1040314,
       "num": 1040314,
       "word": "秦岚 我不会和前任做朋友",
@@ -1257,6 +1265,14 @@
       "onboard_time": 1721529499,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 975120,
+      "num": 975120,
+      "word": "中国游泳队身上全是火罐印",
+      "onboard_time": 1721892680,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 967782,
@@ -2051,6 +2067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 706545,
+      "num": 706545,
+      "word": "十个勤天 两年没有分开过",
+      "onboard_time": 1721893100,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 705597,
       "num": 275414,
       "word": "体重达到这个数大脑可能提前衰老12年",
@@ -2243,6 +2267,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 664837,
+      "num": 664837,
+      "word": "宁艺卓身材引发热议",
+      "onboard_time": 1721891719,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 661995,
       "num": 558100,
       "word": "贵州22岁女子退婚后遭男方入室杀害",
@@ -2401,14 +2433,6 @@
       "onboard_time": 1721870599,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 625380,
-      "num": 625380,
-      "word": "杨幂村妇造型路透",
-      "onboard_time": 1721892200,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 623577,
@@ -3115,6 +3139,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 496980,
+      "num": 496980,
+      "word": "花少海报 站位",
+      "onboard_time": 1721892140,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 496883,
       "num": 403501,
       "word": "矢野浩二晒与美依礼芽合照",
@@ -3249,14 +3281,6 @@
       "onboard_time": 1721644341,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 478857,
-      "num": 478857,
-      "word": "宁艺卓身材引发热议",
-      "onboard_time": 1721891719,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 476138,
@@ -3587,6 +3611,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 437705,
+      "num": 355824,
+      "word": "卖了300斤的腌水果到底有多好吃",
+      "onboard_time": 1721890699,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 437618,
       "num": 437618,
       "word": "陕西柞水部分坠河车辆位置确定",
@@ -3641,6 +3673,14 @@
       "onboard_time": 1721613440,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 431482,
+      "num": 431482,
+      "word": "孙卓已被南京工业大学录取",
+      "onboard_time": 1721895559,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 428800,
@@ -5139,6 +5179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282514,
+      "num": 282514,
+      "word": "孙楠背了流浪地球KPI吗",
+      "onboard_time": 1721894239,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282145,
       "num": 282145,
       "word": "恋与制作人",
@@ -5593,14 +5641,6 @@
       "onboard_time": 1721623043,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 255543,
-      "num": 223097,
-      "word": "卖了300斤的腌水果到底有多好吃",
-      "onboard_time": 1721890699,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 254898,
@@ -6075,6 +6115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236873,
+      "num": 236873,
+      "word": "张兰说白癜风控制住了",
+      "onboard_time": 1721894059,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235750,
       "num": 235750,
       "word": "张凌赫宋威龙同款choker",
@@ -6547,14 +6595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 221410,
-      "num": 221410,
-      "word": "花少海报 站位",
-      "onboard_time": 1721892140,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 221123,
       "num": 221123,
       "word": "感觉檀健次工作室在哄我们",
@@ -6793,6 +6833,14 @@
       "onboard_time": 1721650582,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 216585,
+      "num": 216585,
+      "word": "TFBOYS才是最早的养成系",
+      "onboard_time": 1721895320,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 216235,
@@ -8235,6 +8283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191855,
+      "num": 191855,
+      "word": "虞书欣给奥运健儿加油",
+      "onboard_time": 1721894961,
+      "rank": 30,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 191790,
       "num": 191790,
       "word": "华晨宇说不要再说我写的歌很难了",
@@ -8369,6 +8425,14 @@
       "onboard_time": 1721717120,
       "rank": 33,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 189780,
+      "num": 189780,
+      "word": "终于有能和妈妈一起去的演唱会了",
+      "onboard_time": 1721895621,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 189738,
@@ -8835,6 +8899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 181879,
+      "num": 181879,
+      "word": "少白是百里东君的一碗孟婆汤",
+      "onboard_time": 1721895021,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181617,
       "num": 181617,
       "word": "苏杉杉起诉丝芭",
@@ -9163,6 +9235,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175033,
+      "num": 175033,
+      "word": "纪凌尘吃鸡蛋只需一口",
+      "onboard_time": 1721893519,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 175019,
+      "num": 175019,
+      "word": "孙燕姿暂时不开演唱会的原因",
+      "onboard_time": 1721891298,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 175009,
       "num": 175009,
       "word": "蒲熠星怒音",
@@ -9313,6 +9401,14 @@
       "onboard_time": 1721626520,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172979,
+      "num": 597188,
+      "word": "多家驾校明示可进行学时造假",
+      "onboard_time": 1721890879,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172958,
@@ -9603,6 +9699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167884,
+      "num": 167884,
+      "word": "赵露思宋威龙网传合作",
+      "onboard_time": 1721894120,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167579,
       "num": 167579,
       "word": "吴谨言仿妆宁静",
@@ -9641,14 +9745,6 @@
       "onboard_time": 1721646079,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167247,
-      "num": 167247,
-      "word": "孙燕姿暂时不开演唱会的原因",
-      "onboard_time": 1721891298,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 167150,
@@ -9835,12 +9931,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164142,
+      "num": 164142,
+      "word": "各地文旅发的十个勤天",
+      "onboard_time": 1721894781,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164005,
       "num": 164005,
       "word": "把黄金纳入投资组合利于应对通胀",
       "onboard_time": 1721888300,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 163641,
+      "num": 163641,
+      "word": "NCTcp总选票数",
+      "onboard_time": 1721895021,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 163599,
@@ -9953,6 +10065,14 @@
       "onboard_time": 1721645784,
       "rank": 46,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 161788,
+      "num": 628920,
+      "word": "从国企辞职回老家开书店",
+      "onboard_time": 1721892740,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161709,
@@ -10435,6 +10555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151746,
+      "num": 151746,
+      "word": "巴黎奥运 白人饭",
+      "onboard_time": 1721894840,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151676,
       "num": 151676,
       "word": "孙丞潇和小猫坠入爱河了",
@@ -10683,14 +10811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144598,
-      "num": 144598,
-      "word": "中国游泳队身上全是火罐印",
-      "onboard_time": 1721892680,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 144565,
       "num": 144565,
       "word": "巴黎奥运会志愿者回应伙食",
@@ -10875,6 +10995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140050,
+      "num": 140050,
+      "word": "虾系坐姿是伤脖子最快的坐姿",
+      "onboard_time": 1721891240,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 139548,
       "num": 139548,
       "word": "解密",
@@ -10971,6 +11099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 137600,
+      "num": 137600,
+      "word": "中国军队历来不信邪不怕鬼不怕压",
+      "onboard_time": 1721895859,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137523,
       "num": 137523,
       "word": "海克斯狂欢夜",
@@ -11057,14 +11193,6 @@
       "onboard_time": 1721485401,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 135262,
-      "num": 135262,
-      "word": "虾系坐姿是伤脖子最快的坐姿",
-      "onboard_time": 1721891240,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 135243,
@@ -11947,14 +12075,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 98694,
-      "num": 597188,
-      "word": "多家驾校明示可进行学时造假",
-      "onboard_time": 1721890879,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 98567,
       "num": 97146,
       "word": "业主群爱心红包被秒抢引公愤",
@@ -12105,6 +12225,14 @@
       "onboard_time": 1721792599,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85038,
+      "num": 544030,
+      "word": "有一种美叫大女主的美",
+      "onboard_time": 1721891599,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 84964,
@@ -12355,6 +12483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74628,
+      "num": 614961,
+      "word": "女子称花3900纹发际线后还是像阿哥",
+      "onboard_time": 1721894600,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74391,
       "num": 356970,
       "word": "谁懂30万块电池0自燃的含金量",
@@ -12409,14 +12545,6 @@
       "onboard_time": 1721560518,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 71839,
-      "num": 542415,
-      "word": "有一种美叫大女主的美",
-      "onboard_time": 1721891599,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 71229,
@@ -13291,20 +13419,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 34364,
-      "num": 628920,
-      "word": "从国企辞职回老家开书店",
-      "onboard_time": 1721892740,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 34046,
       "num": 391651,
       "word": "拜登退选如何影响美国大选格局",
       "onboard_time": 1721629820,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 33931,
+      "num": 1081807,
+      "word": "防汛关键期必须有关键作为",
+      "onboard_time": 1721880200,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33595,
