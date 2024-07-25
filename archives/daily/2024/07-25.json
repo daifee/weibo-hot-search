@@ -1,6 +1,6 @@
 {
   "startTime": 1721838296901,
-  "endTime": 1721917095348,
+  "endTime": 1721918152063,
   "band_list": [
     {
       "raw_hot": 8749772,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1322764,
+      "num": 1033249,
+      "word": "马子佳结婚了",
+      "onboard_time": 1721915660,
+      "rank": 6,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1258525,
       "num": 1258525,
       "word": "樊振东 死亡下半区",
@@ -203,14 +211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1104876,
-      "num": 659043,
-      "word": "马子佳结婚了",
-      "onboard_time": 1721915660,
-      "rank": 6,
-      "category": "网红"
-    },
-    {
       "raw_hot": 1093339,
       "num": 1633853,
       "word": "台风格美在福建沿海登陆",
@@ -224,6 +224,14 @@
       "word": "歌手歌单",
       "onboard_time": 1721879959,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1082257,
+      "num": 1082257,
+      "word": "你好种地少年",
+      "onboard_time": 1721916860,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -265,6 +273,14 @@
       "onboard_time": 1721909060,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1017905,
+      "num": 1017905,
+      "word": "上海抑郁症患病率全国第一",
+      "onboard_time": 1721914280,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 986679,
@@ -321,14 +337,6 @@
       "onboard_time": 1721823620,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 845905,
-      "num": 235712,
-      "word": "上海抑郁症患病率全国第一",
-      "onboard_time": 1721914280,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 842617,
@@ -675,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 540036,
+      "num": 426914,
+      "word": "第一次见乌龟长得这么水灵",
+      "onboard_time": 1721915000,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 532578,
       "num": 532578,
       "word": "芒果台有自己的四大名著",
@@ -697,14 +713,6 @@
       "onboard_time": 1721896401,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 523679,
-      "num": 523679,
-      "word": "你好种地少年",
-      "onboard_time": 1721916860,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 510360,
@@ -963,6 +971,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 343208,
+      "num": 343208,
+      "word": "前台是未成年还吃辣条",
+      "onboard_time": 1721915121,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 340901,
       "num": 260067,
       "word": "柳岩爸爸",
@@ -1099,14 +1115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 296178,
-      "num": 233562,
-      "word": "前台是未成年还吃辣条",
-      "onboard_time": 1721915121,
-      "rank": 24,
-      "category": "网红"
-    },
-    {
       "raw_hot": 295974,
       "num": 295974,
       "word": "陈楚生 姑娘",
@@ -1139,12 +1147,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 286272,
-      "num": 286272,
-      "word": "第一次见乌龟长得这么水灵",
-      "onboard_time": 1721915000,
-      "rank": 18,
-      "category": "幽默"
+      "raw_hot": 287469,
+      "num": 232452,
+      "word": "心动的信号",
+      "onboard_time": 1721915841,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 284404,
@@ -1177,6 +1185,14 @@
       "onboard_time": 1721879900,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 278575,
+      "num": 563785,
+      "word": "油价降了",
+      "onboard_time": 1721915000,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 278483,
@@ -1339,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242874,
+      "num": 213331,
+      "word": "王玉雯说张新成压抑了很多年",
+      "onboard_time": 1721915601,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 241293,
       "num": 241293,
       "word": "那英回春丹真唱鲜花",
@@ -1353,14 +1377,6 @@
       "onboard_time": 1721878280,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 239323,
-      "num": 232452,
-      "word": "心动的信号",
-      "onboard_time": 1721915841,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 238110,
@@ -1393,6 +1409,14 @@
       "onboard_time": 1721894059,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 235530,
+      "num": 206158,
+      "word": "唐诡主创热度破万flag",
+      "onboard_time": 1721917282,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 234710,
@@ -1587,14 +1611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213331,
-      "num": 213331,
-      "word": "王玉雯说张新成压抑了很多年",
-      "onboard_time": 1721915601,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 212545,
       "num": 212545,
       "word": "陆沉背痛包",
@@ -1723,6 +1739,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 203999,
+      "num": 203999,
+      "word": "张真源洗澡镜头",
+      "onboard_time": 1721917700,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 203881,
       "num": 203881,
       "word": "周深发博庆出道十周年",
@@ -1827,14 +1851,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 197213,
-      "num": 563785,
-      "word": "油价降了",
-      "onboard_time": 1721915000,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 197047,
       "num": 197047,
       "word": "年轻人开始挑战用利息生活",
@@ -1923,6 +1939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193435,
+      "num": 193435,
+      "word": "时代少年团楼非楼概念序章",
+      "onboard_time": 1721917640,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 193370,
       "num": 193370,
       "word": "发条微博祝中国健儿圆梦今夏",
@@ -1937,6 +1961,14 @@
       "onboard_time": 1721910200,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 193049,
+      "num": 209179,
+      "word": "00后小将冲击中国队首金",
+      "onboard_time": 1721916561,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 192457,
@@ -2105,14 +2137,6 @@
       "onboard_time": 1721867180,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182011,
-      "num": 182011,
-      "word": "00后小将冲击中国队首金",
-      "onboard_time": 1721916561,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 181879,
@@ -2481,6 +2505,14 @@
       "onboard_time": 1721897900,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158407,
+      "num": 158407,
+      "word": "冯唐问为什么你留不住人才",
+      "onboard_time": 1721916561,
+      "rank": 46,
+      "category": "读书作家"
     },
     {
       "raw_hot": 158285,
@@ -2875,6 +2907,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 96786,
+      "num": 373583,
+      "word": "为什么260万用户都选比亚迪宋",
+      "onboard_time": 1721912662,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 96083,
       "num": 166515,
       "word": "村委会回应男子用赵露思旧照行骗",
@@ -2905,14 +2945,6 @@
       "onboard_time": 1721830401,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88622,
-      "num": 373583,
-      "word": "为什么260万用户都选比亚迪宋",
-      "onboard_time": 1721912662,
-      "rank": 15,
-      "category": "汽车"
     },
     {
       "raw_hot": 88401,
@@ -2995,6 +3027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77038,
+      "num": 394880,
+      "word": "离岸人民币兑美元升破7.21",
+      "onboard_time": 1721913500,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
       "raw_hot": 77019,
       "num": 296164,
       "word": "你会选爸妈做旅游搭子吗",
@@ -3017,14 +3057,6 @@
       "onboard_time": 1721911279,
       "rank": 33,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 74664,
-      "num": 394880,
-      "word": "离岸人民币兑美元升破7.21",
-      "onboard_time": 1721913500,
-      "rank": 11,
-      "category": "财经"
     },
     {
       "raw_hot": 73288,
@@ -3065,6 +3097,14 @@
       "onboard_time": 1721828361,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 63130,
+      "num": 459181,
+      "word": "海外付费实习是天坑还是捷径",
+      "onboard_time": 1721914220,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61452,
@@ -3147,6 +3187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47080,
+      "num": 234186,
+      "word": "第五代DM技术造就工业奇迹宋L",
+      "onboard_time": 1721914760,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 46889,
       "num": 46889,
       "word": "田曦薇的眼睛就是尺",
@@ -3227,14 +3275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32519,
-      "num": 234186,
-      "word": "第五代DM技术造就工业奇迹宋L",
-      "onboard_time": 1721914760,
-      "rank": 23,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 30592,
       "num": 37491,
       "word": "音乐缘计划",
@@ -3267,20 +3307,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 27278,
+      "num": 190857,
+      "word": "新能源下半场拼油耗更拼智驾",
+      "onboard_time": 1721914760,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 27139,
       "num": 376981,
       "word": "马龙回应任奥运旗手",
       "onboard_time": 1721829622,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 25613,
-      "num": 459181,
-      "word": "海外付费实习是天坑还是捷径",
-      "onboard_time": 1721914220,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25391,
@@ -3297,14 +3337,6 @@
       "onboard_time": 1721873360,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24116,
-      "num": 183933,
-      "word": "新能源下半场拼油耗更拼智驾",
-      "onboard_time": 1721914760,
-      "rank": 37,
-      "category": "汽车"
     },
     {
       "raw_hot": 22983,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1721918152063,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1313450,
+        "num": 1313450,
+        "word": "河南小伙高考529分被清华录取",
+        "onboard_time": 1721910920,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1082257,
+        "num": 1082257,
+        "word": "你好种地少年",
+        "onboard_time": 1721916860,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16184,
+        "num": 1034253,
+        "word": "北京时间版奥运观赛日历",
+        "onboard_time": 1721863456,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1322764,
+        "num": 1033249,
+        "word": "马子佳结婚了",
+        "onboard_time": 1721915660,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1017905,
+        "num": 1017905,
+        "word": "上海抑郁症患病率全国第一",
+        "onboard_time": 1721914280,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 620633,
+        "num": 620633,
+        "word": "台风格美在福建沿海登陆",
+        "onboard_time": 1721909360,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1108222,
+        "num": 620434,
+        "word": "刘梓晨",
+        "onboard_time": 1721912959,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 782590,
+        "num": 618926,
+        "word": "偶遇霍思燕带女儿喝下午茶",
+        "onboard_time": 1721909060,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 615868,
+        "num": 615868,
+        "word": "为啥打耳洞不会有肉被捅出来",
+        "onboard_time": 1721910320,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 523464,
+        "num": 523464,
+        "word": "台风登陆",
+        "onboard_time": 1721911219,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 766448,
+        "num": 478565,
+        "word": "还我妈生鼻",
+        "onboard_time": 1721906242,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 600868,
+        "num": 439547,
+        "word": "宋亚轩 我再也不玩抽象了",
+        "onboard_time": 1721914821,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 540036,
+        "num": 426914,
+        "word": "第一次见乌龟长得这么水灵",
+        "onboard_time": 1721915000,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 343208,
+        "num": 343208,
+        "word": "前台是未成年还吃辣条",
+        "onboard_time": 1721915121,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 316183,
+        "num": 316183,
+        "word": "孙卓已被南京工业大学录取",
+        "onboard_time": 1721895559,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296178,
+        "num": 296178,
+        "word": "TFBOYS头发梳成大人模样是凯妈做的",
+        "onboard_time": 1721910620,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278575,
+        "num": 278575,
+        "word": "油价降了",
+        "onboard_time": 1721915000,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 235932,
+        "num": 235932,
+        "word": "台风格美影响或波及10余省份",
+        "onboard_time": 1721911460,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77038,
+        "num": 223530,
+        "word": "离岸人民币兑美元升破7.21",
+        "onboard_time": 1721913500,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 214454,
+        "num": 214454,
+        "word": "开心消消乐连不上网",
+        "onboard_time": 1721915301,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 47080,
+        "num": 214077,
+        "word": "第五代DM技术造就工业奇迹宋L",
+        "onboard_time": 1721914760,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 563389,
+        "num": 212465,
+        "word": "真的很讨厌外卖点到液体勺",
+        "onboard_time": 1721901919,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 287469,
+        "num": 211237,
+        "word": "心动的信号",
+        "onboard_time": 1721915841,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35148,
+        "num": 210343,
+        "word": "深蓝S07上市14.99万元起",
+        "onboard_time": 1721916082,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 193049,
+        "num": 209179,
+        "word": "00后小将冲击中国队首金",
+        "onboard_time": 1721916561,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261582,
+        "num": 208801,
+        "word": "夏之光 亲什么嘴儿啊",
+        "onboard_time": 1721909000,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242874,
+        "num": 207128,
+        "word": "王玉雯说张新成压抑了很多年",
+        "onboard_time": 1721915601,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235530,
+        "num": 206158,
+        "word": "唐诡主创热度破万flag",
+        "onboard_time": 1721917282,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205472,
+        "num": 205472,
+        "word": "亲戚催婚时好像说漏嘴了",
+        "onboard_time": 1721910860,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203999,
+        "num": 203999,
+        "word": "张真源洗澡镜头",
+        "onboard_time": 1721917700,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 41899,
+        "num": 200007,
+        "word": "手机成为电影短片设备主力军",
+        "onboard_time": 1721912662,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199782,
+        "num": 199782,
+        "word": "许凯彭昱畅陈哲远各有各的好笑",
+        "onboard_time": 1721912419,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198356,
+        "num": 198356,
+        "word": "应聘时HR拿着我的简历在手抖",
+        "onboard_time": 1721903781,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96786,
+        "num": 198147,
+        "word": "为什么260万用户都选比亚迪宋",
+        "onboard_time": 1721912662,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 198095,
+        "num": 198095,
+        "word": "刘耀文头像",
+        "onboard_time": 1721906541,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193435,
+        "num": 193435,
+        "word": "时代少年团楼非楼概念序章",
+        "onboard_time": 1721917640,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188984,
+        "num": 191433,
+        "word": "中国游泳队身上全是火罐印",
+        "onboard_time": 1721892680,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27278,
+        "num": 190857,
+        "word": "新能源下半场拼油耗更拼智驾",
+        "onboard_time": 1721914760,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 190800,
+        "num": 190800,
+        "word": "一诺说要保护九尾",
+        "onboard_time": 1721914162,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188118,
+        "num": 188118,
+        "word": "杨幂村妇造型路透",
+        "onboard_time": 1721892200,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180035,
+        "num": 180035,
+        "word": "终于知道刘昊然去年为什么那么瘦了",
+        "onboard_time": 1721910799,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172280,
+        "num": 172280,
+        "word": "台风格美登陆福建位置又变了",
+        "onboard_time": 1721901980,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172075,
+        "num": 172075,
+        "word": "美国男子奸杀8岁女孩抛尸垃圾箱",
+        "onboard_time": 1721901139,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170272,
+        "num": 170272,
+        "word": "九尾 手伤",
+        "onboard_time": 1721908161,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168870,
+        "num": 168870,
+        "word": "黄明昊在十个勤天中都i起来了",
+        "onboard_time": 1721911519,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167655,
+        "num": 167655,
+        "word": "密室大神版 svip还要收费",
+        "onboard_time": 1721906242,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158407,
+        "num": 158407,
+        "word": "冯唐问为什么你留不住人才",
+        "onboard_time": 1721916561,
+        "rank": 46,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 151957,
+        "num": 151957,
+        "word": "披荆斩棘4返场哥哥投票",
+        "onboard_time": 1721903842,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63130,
+        "num": 149695,
+        "word": "海外付费实习是天坑还是捷径",
+        "onboard_time": 1721914220,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148099,
+        "num": 148099,
+        "word": "与辉同行总销售额超42亿",
+        "onboard_time": 1721912779,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局常务委员会召开会议#"
+    }
+  }
+}

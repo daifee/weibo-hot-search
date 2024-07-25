@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721917095348,
+  "endTime": 1721918152063,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -771,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1322764,
+      "num": 1033249,
+      "word": "马子佳结婚了",
+      "onboard_time": 1721915660,
+      "rank": 6,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1314303,
       "num": 1314303,
       "word": "宗馥莉决定继续在娃哈哈履职",
@@ -1099,14 +1107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1104876,
-      "num": 659043,
-      "word": "马子佳结婚了",
-      "onboard_time": 1721915660,
-      "rank": 6,
-      "category": "网红"
-    },
-    {
       "raw_hot": 1101772,
       "num": 1101772,
       "word": "骗子用赵露思旧照行骗",
@@ -1145,6 +1145,14 @@
       "onboard_time": 1721813240,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1082257,
+      "num": 1082257,
+      "word": "你好种地少年",
+      "onboard_time": 1721916860,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1080073,
@@ -1305,6 +1313,14 @@
       "onboard_time": 1721909060,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1017905,
+      "num": 1017905,
+      "word": "上海抑郁症患病率全国第一",
+      "onboard_time": 1721914280,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1011161,
@@ -1736,14 +1752,6 @@
       "word": "网红面包店现蟑螂维权先删视频",
       "onboard_time": 1721631620,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 845905,
-      "num": 235712,
-      "word": "上海抑郁症患病率全国第一",
-      "onboard_time": 1721914280,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -3147,6 +3155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 540036,
+      "num": 426914,
+      "word": "第一次见乌龟长得这么水灵",
+      "onboard_time": 1721915000,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 534840,
       "num": 534840,
       "word": "特朗普自称为下一任美国总统",
@@ -3233,14 +3249,6 @@
       "onboard_time": 1721896401,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 523679,
-      "num": 523679,
-      "word": "你好种地少年",
-      "onboard_time": 1721916860,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 522420,
@@ -4699,6 +4707,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 343208,
+      "num": 343208,
+      "word": "前台是未成年还吃辣条",
+      "onboard_time": 1721915121,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 342966,
       "num": 342966,
       "word": "校长回应教师产假时被公示解聘",
@@ -5315,14 +5331,6 @@
       "category": "网红,互联网"
     },
     {
-      "raw_hot": 296178,
-      "num": 233562,
-      "word": "前台是未成年还吃辣条",
-      "onboard_time": 1721915121,
-      "rank": 24,
-      "category": "网红"
-    },
-    {
       "raw_hot": 296120,
       "num": 296120,
       "word": "宗馥莉",
@@ -5531,20 +5539,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 287469,
+      "num": 232452,
+      "word": "心动的信号",
+      "onboard_time": 1721915841,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286475,
       "num": 286475,
       "word": "十个勤天新人是公司员工不是新成员",
       "onboard_time": 1721659583,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 286272,
-      "num": 286272,
-      "word": "第一次见乌龟长得这么水灵",
-      "onboard_time": 1721915000,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 285796,
@@ -5649,6 +5657,14 @@
       "onboard_time": 1721605039,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 278575,
+      "num": 563785,
+      "word": "油价降了",
+      "onboard_time": 1721915000,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 278528,
@@ -6323,6 +6339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 242874,
+      "num": 213331,
+      "word": "王玉雯说张新成压抑了很多年",
+      "onboard_time": 1721915601,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242742,
       "num": 242742,
       "word": "成都暴雨",
@@ -6491,14 +6515,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 239323,
-      "num": 232452,
-      "word": "心动的信号",
-      "onboard_time": 1721915841,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 239199,
       "num": 239199,
       "word": "十个勤天演唱会舞台事故",
@@ -6601,6 +6617,14 @@
       "onboard_time": 1721651603,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 235530,
+      "num": 206158,
+      "word": "唐诡主创热度破万flag",
+      "onboard_time": 1721917282,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 235093,
@@ -7483,14 +7507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213331,
-      "num": 213331,
-      "word": "王玉雯说张新成压抑了很多年",
-      "onboard_time": 1721915601,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 213258,
       "num": 213258,
       "word": "唐朝诡事录把文物带火了",
@@ -7953,6 +7969,14 @@
       "onboard_time": 1721710941,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203999,
+      "num": 203999,
+      "word": "张真源洗澡镜头",
+      "onboard_time": 1721917700,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 203900,
@@ -8563,14 +8587,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 197213,
-      "num": 563785,
-      "word": "油价降了",
-      "onboard_time": 1721915000,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 197109,
       "num": 197109,
       "word": "被跳水队的水下视角美到了",
@@ -8819,6 +8835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193435,
+      "num": 193435,
+      "word": "时代少年团楼非楼概念序章",
+      "onboard_time": 1721917640,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 193370,
       "num": 193370,
       "word": "发条微博祝中国健儿圆梦今夏",
@@ -8857,6 +8881,14 @@
       "onboard_time": 1721910200,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 193049,
+      "num": 209179,
+      "word": "00后小将冲击中国队首金",
+      "onboard_time": 1721916561,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 193032,
@@ -9633,14 +9665,6 @@
       "onboard_time": 1721642543,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 182011,
-      "num": 182011,
-      "word": "00后小将冲击中国队首金",
-      "onboard_time": 1721916561,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 181978,
@@ -11129,6 +11153,14 @@
       "onboard_time": 1721653761,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158407,
+      "num": 158407,
+      "word": "冯唐问为什么你留不住人才",
+      "onboard_time": 1721916561,
+      "rank": 46,
+      "category": "读书作家"
     },
     {
       "raw_hot": 158327,
@@ -13043,6 +13075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96786,
+      "num": 373583,
+      "word": "为什么260万用户都选比亚迪宋",
+      "onboard_time": 1721912662,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 96528,
       "num": 403860,
       "word": "国家级科研背书的李宁户外黑科技",
@@ -13161,14 +13201,6 @@
       "onboard_time": 1721483239,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88622,
-      "num": 373583,
-      "word": "为什么260万用户都选比亚迪宋",
-      "onboard_time": 1721912662,
-      "rank": 15,
-      "category": "汽车"
     },
     {
       "raw_hot": 88401,
@@ -13387,6 +13419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77038,
+      "num": 394880,
+      "word": "离岸人民币兑美元升破7.21",
+      "onboard_time": 1721913500,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
       "raw_hot": 77019,
       "num": 296164,
       "word": "你会选爸妈做旅游搭子吗",
@@ -13481,14 +13521,6 @@
       "onboard_time": 1721792060,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74664,
-      "num": 394880,
-      "word": "离岸人民币兑美元升破7.21",
-      "onboard_time": 1721913500,
-      "rank": 11,
-      "category": "财经"
     },
     {
       "raw_hot": 74391,
@@ -13761,6 +13793,14 @@
       "onboard_time": 1721550258,
       "rank": 32,
       "category": "运动健身,美食"
+    },
+    {
+      "raw_hot": 63130,
+      "num": 459181,
+      "word": "海外付费实习是天坑还是捷径",
+      "onboard_time": 1721914220,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62417,
@@ -14129,6 +14169,14 @@
       "onboard_time": 1721483782,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 47080,
+      "num": 234186,
+      "word": "第五代DM技术造就工业奇迹宋L",
+      "onboard_time": 1721914760,
+      "rank": 23,
+      "category": "汽车"
     },
     {
       "raw_hot": 46889,
@@ -14515,14 +14563,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 32519,
-      "num": 234186,
-      "word": "第五代DM技术造就工业奇迹宋L",
-      "onboard_time": 1721914760,
-      "rank": 23,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 32516,
       "num": 275767,
       "word": "石宇奇受伤后走出低谷的经历太热血",
@@ -14683,6 +14723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27278,
+      "num": 190857,
+      "word": "新能源下半场拼油耗更拼智驾",
+      "onboard_time": 1721914760,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 27168,
       "num": 228114,
       "word": "日本富士山开山以来已有六人遇难",
@@ -14755,14 +14803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 25613,
-      "num": 459181,
-      "word": "海外付费实习是天坑还是捷径",
-      "onboard_time": 1721914220,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 25391,
       "num": 546777,
       "word": "女子相信美容整形可转运被骗11万",
@@ -14777,14 +14817,6 @@
       "onboard_time": 1721873360,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24116,
-      "num": 183933,
-      "word": "新能源下半场拼油耗更拼智驾",
-      "onboard_time": 1721914760,
-      "rank": 37,
-      "category": "汽车"
     },
     {
       "raw_hot": 24108,
