@@ -1,6 +1,6 @@
 {
   "startTime": 1721838296901,
-  "endTime": 1721899340455,
+  "endTime": 1721900077027,
   "band_list": [
     {
       "raw_hot": 2644382,
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 709760,
+      "num": 709760,
+      "word": "人民币汇率",
+      "onboard_time": 1721898021,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
       "raw_hot": 705188,
       "num": 705188,
       "word": "中药冰淇淋一份卖到38元",
@@ -459,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 530042,
+      "num": 614961,
+      "word": "女子称花3900纹发际线后还是像阿哥",
+      "onboard_time": 1721894600,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 524295,
       "num": 524295,
       "word": "孙海洋祝福孙卓",
@@ -507,12 +523,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 484080,
-      "num": 484080,
-      "word": "人民币汇率",
-      "onboard_time": 1721898021,
-      "rank": 11,
-      "category": "财经"
+      "raw_hot": 481454,
+      "num": 227399,
+      "word": "南工大欢迎孙卓",
+      "onboard_time": 1721899400,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 472531,
@@ -521,14 +537,6 @@
       "onboard_time": 1721890699,
       "rank": 31,
       "category": "美食"
-    },
-    {
-      "raw_hot": 469736,
-      "num": 614961,
-      "word": "女子称花3900纹发际线后还是像阿哥",
-      "onboard_time": 1721894600,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 467086,
@@ -561,6 +569,14 @@
       "onboard_time": 1721869160,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 408891,
+      "num": 408891,
+      "word": "孙卓",
+      "onboard_time": 1721899400,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 406938,
@@ -649,6 +665,14 @@
       "onboard_time": 1721883021,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 357805,
+      "num": 357805,
+      "word": "刘昊然自曝数学成绩",
+      "onboard_time": 1721898921,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 356558,
@@ -859,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269283,
+      "num": 269283,
+      "word": "工资涨了不少我却变抠门了",
+      "onboard_time": 1721898199,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 269131,
       "num": 269131,
       "word": "全红婵赛前试跳207C",
@@ -939,14 +971,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 251255,
-      "num": 251255,
-      "word": "工资涨了不少我却变抠门了",
-      "onboard_time": 1721898199,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 243342,
       "num": 580641,
       "word": "为什么取消手机收费套餐这么麻烦",
@@ -977,6 +1001,14 @@
       "onboard_time": 1721894059,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 233588,
+      "num": 233588,
+      "word": "我妈说我姐能考上编是因为爱睡觉",
+      "onboard_time": 1721898500,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 232885,
@@ -1035,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226875,
+      "num": 226875,
+      "word": "卢昱晓妈妈担心女儿因为工作不结婚",
+      "onboard_time": 1721899520,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225973,
       "num": 225973,
       "word": "无期迷途",
@@ -1091,28 +1131,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 217195,
-      "num": 1219364,
-      "word": "这就是奥运会",
-      "onboard_time": 1721880320,
-      "rank": 2,
-      "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 216382,
-      "num": 216382,
+      "raw_hot": 219374,
+      "num": 219374,
       "word": "全欧洲的小偷都在往巴黎赶",
       "onboard_time": 1721894300,
       "rank": 35,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 216188,
-      "num": 216188,
-      "word": "刘昊然自曝数学成绩",
-      "onboard_time": 1721898921,
-      "rank": 30,
-      "category": "电影"
+      "raw_hot": 217195,
+      "num": 1219364,
+      "word": "这就是奥运会",
+      "onboard_time": 1721880320,
+      "rank": 2,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 214523,
@@ -1185,6 +1217,14 @@
       "onboard_time": 1721895621,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 210809,
+      "num": 210809,
+      "word": "韩国队签运",
+      "onboard_time": 1721896637,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 210575,
@@ -1307,14 +1347,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 196327,
-      "num": 196327,
-      "word": "韩国队签运",
-      "onboard_time": 1721896637,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 195699,
       "num": 182190,
       "word": "肾出现问题身体会发出这4个警报",
@@ -1363,14 +1395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193329,
-      "num": 193329,
-      "word": "我妈说我姐能考上编是因为爱睡觉",
-      "onboard_time": 1721898500,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 192457,
       "num": 192457,
       "word": "成毅V领红衬衫",
@@ -1401,6 +1425,14 @@
       "onboard_time": 1721823318,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 190357,
+      "num": 190357,
+      "word": "拔火罐吸出的瘀血是毒素吗",
+      "onboard_time": 1721900000,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 189829,
@@ -1451,12 +1483,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187613,
+      "num": 187613,
+      "word": "何浩楠闯进山东女婿赛道",
+      "onboard_time": 1721899098,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187460,
       "num": 187460,
       "word": "纪凌尘吃鸡蛋只需一口",
       "onboard_time": 1721893519,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185370,
+      "num": 185370,
+      "word": "赵露思为奥运健儿打call",
+      "onboard_time": 1721899520,
+      "rank": 42,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 182857,
@@ -1473,6 +1521,14 @@
       "onboard_time": 1721895021,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180917,
+      "num": 180917,
+      "word": "郭晶晶以裁判身份出发巴黎",
+      "onboard_time": 1721897359,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 179700,
@@ -1555,6 +1611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174303,
+      "num": 174303,
+      "word": "胡锡进总亏损首次破10万",
+      "onboard_time": 1721899400,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 173201,
       "num": 173201,
       "word": "胡兵瞿颖友达以上恋人未满",
@@ -1579,20 +1643,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 170623,
-      "num": 170623,
-      "word": "郭晶晶以裁判身份出发巴黎",
-      "onboard_time": 1721897359,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 170563,
       "num": 170563,
       "word": "史上最像草台班子的奥运会",
       "onboard_time": 1721898080,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170207,
+      "num": 170207,
+      "word": "长白山雪货破吉尼斯世界纪录",
+      "onboard_time": 1721899580,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 169633,
@@ -1609,6 +1673,14 @@
       "onboard_time": 1721877919,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 167930,
+      "num": 1039182,
+      "word": "中国奥运项目首金高燃视频",
+      "onboard_time": 1721898080,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 167884,
@@ -1803,16 +1875,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 150925,
-      "num": 1039182,
-      "word": "中国奥运项目首金高燃视频",
-      "onboard_time": 1721898080,
-      "rank": 2,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 149322,
-      "num": 149322,
+      "raw_hot": 149613,
+      "num": 149613,
       "word": "刘诗雯新身份出发巴黎",
       "onboard_time": 1721897900,
       "rank": 42,
@@ -1825,14 +1889,6 @@
       "onboard_time": 1721870479,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 147493,
-      "num": 147493,
-      "word": "何浩楠闯进山东女婿赛道",
-      "onboard_time": 1721899098,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 145017,
@@ -1972,7 +2028,7 @@
     },
     {
       "raw_hot": 130441,
-      "num": 130441,
+      "num": 214690,
       "word": "孙卓收到南京工业大学录取通知书",
       "onboard_time": 1721897060,
       "rank": 49,
@@ -2097,6 +2153,14 @@
       "onboard_time": 1721825240,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 95186,
+      "num": 536205,
+      "word": "学历造假背后的赴港读研保录取生意",
+      "onboard_time": 1721898080,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93398,
@@ -2249,14 +2313,6 @@
       "onboard_time": 1721842634,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 58501,
-      "num": 536205,
-      "word": "学历造假背后的赴港读研保录取生意",
-      "onboard_time": 1721898080,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 57757,
@@ -2419,6 +2475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22316,
+      "num": 536260,
+      "word": "网络曝光再处理师德问题不应是常态",
+      "onboard_time": 1721900000,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21176,
       "num": 319344,
       "word": "云赏深圳绝美晚霞",
@@ -2465,6 +2529,14 @@
       "onboard_time": 1721846053,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9903,
+      "num": 228547,
+      "word": "抗议者在以总理访美下榻酒店放虫子",
+      "onboard_time": 1721899880,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 7440,
