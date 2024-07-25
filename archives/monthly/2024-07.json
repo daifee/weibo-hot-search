@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721889659059,
+  "endTime": 1721892029592,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -1249,6 +1249,14 @@
       "onboard_time": 1721872398,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1788030,
+      "num": 1788030,
+      "word": "密室大逃脱 举报",
+      "onboard_time": 1721889319,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 1787589,
@@ -3164,7 +3172,7 @@
     },
     {
       "raw_hot": 1222057,
-      "num": 575764,
+      "num": 592422,
       "word": "阚清子与未婚夫结束度假回国",
       "onboard_time": 1721882780,
       "rank": 10,
@@ -4201,6 +4209,14 @@
       "onboard_time": 1720922961,
       "rank": 3,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1069293,
+      "num": 1069293,
+      "word": "高中教师表白女学生事发高考前",
+      "onboard_time": 1721886258,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1067645,
@@ -10603,6 +10619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 608524,
+      "num": 608524,
+      "word": "花少直播 无聊",
+      "onboard_time": 1721890520,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 608386,
       "num": 608386,
       "word": "陆虎在北京机场又捡到活了",
@@ -11769,6 +11793,14 @@
       "onboard_time": 1719817338,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 567483,
+      "num": 567483,
+      "word": "陈哲远当面捅了芒果后期的窝",
+      "onboard_time": 1721889799,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 567470,
@@ -13209,6 +13241,14 @@
       "onboard_time": 1719825619,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 524622,
+      "num": 203247,
+      "word": "樊振东 死亡下半区",
+      "onboard_time": 1721891420,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 524248,
@@ -18315,6 +18355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 404884,
+      "num": 404884,
+      "word": "苏炳添已抵达巴黎",
+      "onboard_time": 1721888300,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 404688,
       "num": 404688,
       "word": "张志杰曾表示想通过努力证明自己",
@@ -23355,14 +23403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 309904,
-      "num": 309904,
-      "word": "高中教师表白女学生事发高考前",
-      "onboard_time": 1721886258,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 309771,
       "num": 309771,
       "word": "刘昊然为新戏拔了头发眉毛",
@@ -23841,14 +23881,6 @@
       "onboard_time": 1720939822,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 300832,
-      "num": 300832,
-      "word": "苏炳添已抵达巴黎",
-      "onboard_time": 1721888300,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 300808,
@@ -26203,14 +26235,6 @@
       "category": "综艺,幽默"
     },
     {
-      "raw_hot": 267904,
-      "num": 267904,
-      "word": "密室大逃脱 举报",
-      "onboard_time": 1721889319,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 267791,
       "num": 267791,
       "word": "防空警报",
@@ -27115,6 +27139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255543,
+      "num": 203014,
+      "word": "卖了300斤的腌水果到底有多好吃",
+      "onboard_time": 1721890699,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 255525,
       "num": 255525,
       "word": "iPhone16系列或将支持40W快充",
@@ -27193,6 +27225,14 @@
       "onboard_time": 1721446099,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 254395,
+      "num": 612748,
+      "word": "南阳官方再回应医院职工工资1700元",
+      "onboard_time": 1721887222,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254222,
@@ -27425,6 +27465,14 @@
       "onboard_time": 1721122038,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 252657,
+      "num": 252657,
+      "word": "老外因爱吃番茄炒蛋留在中国",
+      "onboard_time": 1721886379,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 252334,
@@ -29803,14 +29851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 230394,
-      "num": 612748,
-      "word": "南阳官方再回应医院职工工资1700元",
-      "onboard_time": 1721887222,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 230384,
       "num": 230384,
       "word": "张元英D社新闻图",
@@ -30073,6 +30113,14 @@
       "onboard_time": 1719963136,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 228095,
+      "num": 228095,
+      "word": "十个人的友情能有多圆满",
+      "onboard_time": 1721889199,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 228088,
@@ -32755,6 +32803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 210095,
+      "num": 464339,
+      "word": "甘肃博物馆回应麻辣烫玩偶火了",
+      "onboard_time": 1721889021,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210071,
       "num": 210071,
       "word": "给12岁失业的弟找了份高薪工作",
@@ -32929,6 +32985,14 @@
       "onboard_time": 1720769598,
       "rank": 17,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 209420,
+      "num": 209420,
+      "word": "宁艺卓身材引发热议",
+      "onboard_time": 1721891719,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 209417,
@@ -33161,14 +33225,6 @@
       "onboard_time": 1720167258,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 208380,
-      "num": 208380,
-      "word": "十个人的友情能有多圆满",
-      "onboard_time": 1721889199,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 208308,
@@ -34385,6 +34441,14 @@
       "onboard_time": 1719971417,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203393,
+      "num": 203393,
+      "word": "肖战给奥运健儿打call",
+      "onboard_time": 1721891119,
+      "rank": 29,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 203390,
@@ -40843,12 +40907,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 179389,
-      "num": 179389,
-      "word": "老外因爱吃番茄炒蛋留在中国",
-      "onboard_time": 1721886379,
-      "rank": 47,
-      "category": "美食"
+      "raw_hot": 179421,
+      "num": 179421,
+      "word": "院人全年无休计划",
+      "onboard_time": 1721891540,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 179368,
@@ -44099,6 +44163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166606,
+      "num": 166606,
+      "word": "鹭卓去横篮打出几部戏给兄弟们",
+      "onboard_time": 1721890699,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166598,
       "num": 166598,
       "word": "笑猫日记完结",
@@ -45305,6 +45377,14 @@
       "onboard_time": 1720267097,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161811,
+      "num": 161811,
+      "word": "孙燕姿暂时不开演唱会的原因",
+      "onboard_time": 1721891298,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 161789,
@@ -47657,6 +47737,14 @@
       "onboard_time": 1720277479,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152277,
+      "num": 152277,
+      "word": "巴黎奥运会 四大巨星歌手",
+      "onboard_time": 1721891000,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 152235,
@@ -52273,6 +52361,14 @@
       "onboard_time": 1721090119,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134585,
+      "num": 134585,
+      "word": "第一次喝冰水的鸭鸭",
+      "onboard_time": 1721891479,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 134558,
@@ -63363,6 +63459,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 71839,
+      "num": 202844,
+      "word": "有一种美叫大女主的美",
+      "onboard_time": 1721891599,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 71779,
       "num": 659101,
       "word": "快递业务量累计完成801.6亿件",
@@ -65011,6 +65115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 58591,
+      "num": 597188,
+      "word": "多家驾校明示可进行学时造假",
+      "onboard_time": 1721890879,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58569,
       "num": 1025961,
       "word": "我们向前中国向上",
@@ -66656,14 +66768,6 @@
       "word": "行进的中国如此蓬勃",
       "onboard_time": 1720963640,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46359,
-      "num": 464339,
-      "word": "甘肃博物馆回应麻辣烫玩偶火了",
-      "onboard_time": 1721889021,
-      "rank": 9,
       "category": "社会新闻"
     },
     {

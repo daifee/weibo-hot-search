@@ -1,6 +1,6 @@
 {
   "startTime": 1721838296901,
-  "endTime": 1721889659059,
+  "endTime": 1721892029592,
   "band_list": [
     {
       "raw_hot": 2093627,
@@ -25,6 +25,14 @@
       "onboard_time": 1721872398,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1788030,
+      "num": 1788030,
+      "word": "密室大逃脱 举报",
+      "onboard_time": 1721889319,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 1751552,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1222057,
-      "num": 575764,
+      "num": 592422,
       "word": "阚清子与未婚夫结束度假回国",
       "onboard_time": 1721882780,
       "rank": 10,
@@ -113,6 +121,14 @@
       "onboard_time": 1721879959,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1069293,
+      "num": 1069293,
+      "word": "高中教师表白女学生事发高考前",
+      "onboard_time": 1721886258,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1027521,
@@ -315,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 608524,
+      "num": 608524,
+      "word": "花少直播 无聊",
+      "onboard_time": 1721890520,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 593630,
       "num": 593630,
       "word": "让胡静演妈不是演我妈",
@@ -347,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 567483,
+      "num": 567483,
+      "word": "陈哲远当面捅了芒果后期的窝",
+      "onboard_time": 1721889799,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 566947,
       "num": 566947,
       "word": "闵熙珍私下辱骂NewJeans成员",
@@ -377,6 +409,14 @@
       "onboard_time": 1721832801,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 524622,
+      "num": 203247,
+      "word": "樊振东 死亡下半区",
+      "onboard_time": 1721891420,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 510360,
@@ -441,6 +481,14 @@
       "onboard_time": 1721865017,
       "rank": 16,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 404884,
+      "num": 404884,
+      "word": "苏炳添已抵达巴黎",
+      "onboard_time": 1721888300,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 402902,
@@ -579,27 +627,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 309904,
-      "num": 309904,
-      "word": "高中教师表白女学生事发高考前",
-      "onboard_time": 1721886258,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 303416,
       "num": 303416,
       "word": "混双签表",
       "onboard_time": 1721834662,
       "rank": 13,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 300832,
-      "num": 300832,
-      "word": "苏炳添已抵达巴黎",
-      "onboard_time": 1721888300,
-      "rank": 34,
       "category": "体育"
     },
     {
@@ -723,14 +755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 267904,
-      "num": 267904,
-      "word": "密室大逃脱 举报",
-      "onboard_time": 1721889319,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 266370,
       "num": 266370,
       "word": "中科大保卫处招聘要求硕士以上学历",
@@ -763,12 +787,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 255543,
+      "num": 203014,
+      "word": "卖了300斤的腌水果到底有多好吃",
+      "onboard_time": 1721890699,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 254395,
+      "num": 612748,
+      "word": "南阳官方再回应医院职工工资1700元",
+      "onboard_time": 1721887222,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253429,
       "num": 253429,
       "word": "檀健次再演沈翊压力很大",
       "onboard_time": 1721819119,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 252657,
+      "num": 252657,
+      "word": "老外因爱吃番茄炒蛋留在中国",
+      "onboard_time": 1721886379,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 243342,
@@ -819,20 +867,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 230394,
-      "num": 612748,
-      "word": "南阳官方再回应医院职工工资1700元",
-      "onboard_time": 1721887222,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228224,
       "num": 228224,
       "word": "BLG发布公告",
       "onboard_time": 1721880381,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 228095,
+      "num": 228095,
+      "word": "十个人的友情能有多圆满",
+      "onboard_time": 1721889199,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 227543,
@@ -971,20 +1019,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210095,
+      "num": 464339,
+      "word": "甘肃博物馆回应麻辣烫玩偶火了",
+      "onboard_time": 1721889021,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209420,
+      "num": 209420,
+      "word": "宁艺卓身材引发热议",
+      "onboard_time": 1721891719,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208792,
       "num": 208792,
       "word": "格美",
       "onboard_time": 1721863216,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208380,
-      "num": 208380,
-      "word": "十个人的友情能有多圆满",
-      "onboard_time": 1721889199,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 208092,
@@ -1017,6 +1073,14 @@
       "onboard_time": 1721874078,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203393,
+      "num": 203393,
+      "word": "肖战给奥运健儿打call",
+      "onboard_time": 1721891119,
+      "rank": 29,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 202395,
@@ -1195,12 +1259,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179389,
-      "num": 179389,
-      "word": "老外因爱吃番茄炒蛋留在中国",
-      "onboard_time": 1721886379,
-      "rank": 47,
-      "category": "美食"
+      "raw_hot": 179421,
+      "num": 179421,
+      "word": "院人全年无休计划",
+      "onboard_time": 1721891540,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 178510,
@@ -1299,6 +1363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 166606,
+      "num": 166606,
+      "word": "鹭卓去横篮打出几部戏给兄弟们",
+      "onboard_time": 1721890699,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164594,
       "num": 164594,
       "word": "巴黎奥运会开幕式时长",
@@ -1329,6 +1401,14 @@
       "onboard_time": 1721874379,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161811,
+      "num": 161811,
+      "word": "孙燕姿暂时不开演唱会的原因",
+      "onboard_time": 1721891298,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 161591,
@@ -1393,6 +1473,14 @@
       "onboard_time": 1721874979,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152277,
+      "num": 152277,
+      "word": "巴黎奥运会 四大巨星歌手",
+      "onboard_time": 1721891000,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 151738,
@@ -1473,6 +1561,14 @@
       "onboard_time": 1721826320,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 134585,
+      "num": 134585,
+      "word": "第一次喝冰水的鸭鸭",
+      "onboard_time": 1721891479,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 132933,
@@ -1723,6 +1819,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 71839,
+      "num": 202844,
+      "word": "有一种美叫大女主的美",
+      "onboard_time": 1721891599,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 64842,
       "num": 111846,
       "word": "SEVENTEEN十月开启世巡",
@@ -1753,6 +1857,14 @@
       "onboard_time": 1721842634,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58591,
+      "num": 597188,
+      "word": "多家驾校明示可进行学时造假",
+      "onboard_time": 1721890879,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57757,
@@ -1793,14 +1905,6 @@
       "onboard_time": 1721852831,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 46359,
-      "num": 464339,
-      "word": "甘肃博物馆回应麻辣烫玩偶火了",
-      "onboard_time": 1721889021,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40824,
