@@ -1,6 +1,6 @@
 {
   "startTime": 1721838296901,
-  "endTime": 1721911951767,
+  "endTime": 1721913774827,
   "band_list": [
     {
       "raw_hot": 8749772,
@@ -179,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1126239,
+      "num": 1126239,
+      "word": "河南小伙高考529分被清华录取",
+      "onboard_time": 1721910920,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1106067,
       "num": 565114,
       "word": "D社再曝闵熙珍聊天记录",
@@ -235,6 +243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1010593,
+      "num": 1010593,
+      "word": "偶遇霍思燕带女儿喝下午茶",
+      "onboard_time": 1721909060,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 986679,
       "num": 986679,
       "word": "巴黎再现2008北京奥运背包",
@@ -249,14 +265,6 @@
       "onboard_time": 1721869941,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 957070,
-      "num": 742665,
-      "word": "偶遇霍思燕带女儿喝下午茶",
-      "onboard_time": 1721909060,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 948007,
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 759212,
-      "num": 488914,
+      "num": 617109,
       "word": "夏之光 亲什么嘴儿啊",
       "onboard_time": 1721909000,
       "rank": 11,
@@ -440,6 +448,14 @@
       "word": "世界上最可爱的小鼻屎诞生了",
       "onboard_time": 1721865980,
       "rank": 20,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 681349,
+      "num": 681349,
+      "word": "为啥打耳洞不会有肉被捅出来",
+      "onboard_time": 1721910320,
+      "rank": 45,
       "category": "幽默"
     },
     {
@@ -537,6 +553,14 @@
       "onboard_time": 1721906541,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 610036,
+      "num": 610036,
+      "word": "台风登陆",
+      "onboard_time": 1721911219,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 608145,
@@ -643,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 523969,
-      "num": 523969,
-      "word": "台风登陆",
-      "onboard_time": 1721911219,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 510360,
       "num": 300556,
       "word": "瘦了50斤再穿同一件衣服的变化",
@@ -737,6 +753,14 @@
       "onboard_time": 1721906242,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 418280,
+      "num": 418280,
+      "word": "TFBOYS头发梳成大人模样是凯妈做的",
+      "onboard_time": 1721910620,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 417670,
@@ -875,6 +899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 350242,
+      "num": 350242,
+      "word": "杨旭文 唐诡2嫡掌子",
+      "onboard_time": 1721911340,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 347306,
       "num": 347306,
       "word": "拜登退选演讲",
@@ -897,6 +929,14 @@
       "onboard_time": 1721878939,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 336305,
+      "num": 336305,
+      "word": "刘梓晨",
+      "onboard_time": 1721912959,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 332178,
@@ -979,14 +1019,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 298285,
-      "num": 298285,
-      "word": "TFBOYS头发梳成大人模样是凯妈做的",
-      "onboard_time": 1721910620,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 297515,
       "num": 297515,
       "word": "唐诡西行捅到疯窝了",
@@ -1043,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282895,
+      "num": 282895,
+      "word": "台风格美影响或波及10余省份",
+      "onboard_time": 1721911460,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282514,
       "num": 282514,
       "word": "孙楠背了流浪地球KPI吗",
@@ -1065,14 +1105,6 @@
       "onboard_time": 1721879900,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 279909,
-      "num": 279909,
-      "word": "河南小伙高考529分被清华录取",
-      "onboard_time": 1721910920,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 278483,
@@ -1185,6 +1217,14 @@
       "onboard_time": 1721863216,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256815,
+      "num": 256815,
+      "word": "亲戚催婚时好像说漏嘴了",
+      "onboard_time": 1721910860,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 254395,
@@ -1315,14 +1355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228339,
-      "num": 228339,
-      "word": "为啥打耳洞不会有肉被捅出来",
-      "onboard_time": 1721910320,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 228224,
       "num": 228224,
       "word": "BLG发布公告",
@@ -1403,14 +1435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 221301,
-      "num": 221301,
-      "word": "亲戚催婚时好像说漏嘴了",
-      "onboard_time": 1721910860,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 220995,
       "num": 220995,
       "word": "台风格美登陆致台湾2死201伤",
@@ -1475,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212982,
+      "num": 212982,
+      "word": "黄明昊在十个勤天中都i起来了",
+      "onboard_time": 1721911519,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212545,
       "num": 212545,
       "word": "陆沉背痛包",
@@ -1483,12 +1515,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 212337,
+      "num": 212337,
+      "word": "终于知道刘昊然去年为什么那么瘦了",
+      "onboard_time": 1721910799,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 212312,
       "num": 514550,
       "word": "马龙简历好long",
       "onboard_time": 1721872999,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212174,
+      "num": 212174,
+      "word": "许凯彭昱畅陈哲远各有各的好笑",
+      "onboard_time": 1721912419,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 212011,
@@ -1555,14 +1603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208853,
-      "num": 208853,
-      "word": "杨旭文 唐诡2嫡掌子",
-      "onboard_time": 1721911340,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 208092,
       "num": 208092,
       "word": "赵小童 自己做的篮筐认人",
@@ -1611,14 +1651,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 202565,
-      "num": 202565,
-      "word": "终于知道刘昊然去年为什么那么瘦了",
-      "onboard_time": 1721910799,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 202538,
       "num": 202538,
       "word": "东方甄选",
@@ -1641,14 +1673,6 @@
       "onboard_time": 1721871259,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 200969,
-      "num": 200969,
-      "word": "黄明昊在十个勤天中都i起来了",
-      "onboard_time": 1721911519,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 200625,
@@ -1817,6 +1841,14 @@
       "onboard_time": 1721878460,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 191248,
+      "num": 191248,
+      "word": "田嘉瑞到底什么是真的",
+      "onboard_time": 1721912900,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 191113,
@@ -2027,6 +2059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176755,
+      "num": 428196,
+      "word": "老破小现在值得入手吗",
+      "onboard_time": 1721911219,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176221,
       "num": 176221,
       "word": "俞敏洪称东方甄选是董宇辉引爆的",
@@ -2120,14 +2160,6 @@
       "word": "多家驾校明示可进行学时造假",
       "onboard_time": 1721890879,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 172020,
-      "num": 172020,
-      "word": "台风格美影响或波及10余省份",
-      "onboard_time": 1721911460,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -2225,6 +2257,14 @@
       "onboard_time": 1721835860,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164237,
+      "num": 164237,
+      "word": "与辉同行总销售额超42亿",
+      "onboard_time": 1721912779,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 164143,
@@ -2345,6 +2385,14 @@
       "onboard_time": 1721887939,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 156538,
+      "num": 156538,
+      "word": "宝诗龙活动",
+      "onboard_time": 1721913559,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 156349,
@@ -2473,6 +2521,14 @@
       "onboard_time": 1721870359,
       "rank": 46,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 140829,
+      "num": 140829,
+      "word": "李昊卓沅 真假球王",
+      "onboard_time": 1721912839,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 140050,
@@ -2627,6 +2683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119922,
+      "num": 119922,
+      "word": "秦新宇",
+      "onboard_time": 1721912900,
+      "rank": 49,
+      "category": "网红"
+    },
+    {
       "raw_hot": 112052,
       "num": 112052,
       "word": "做噩梦可能是免疫系统在攻击你",
@@ -2729,6 +2793,14 @@
       "onboard_time": 1721891599,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 87479,
+      "num": 341889,
+      "word": "为什么260万用户都选比亚迪宋",
+      "onboard_time": 1721912662,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 86069,
@@ -2891,12 +2963,12 @@
       "category": "体育,体育"
     },
     {
-      "raw_hot": 55493,
-      "num": 428196,
-      "word": "老破小现在值得入手吗",
-      "onboard_time": 1721911219,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 55575,
+      "num": 284874,
+      "word": "手机成为电影短片设备主力军",
+      "onboard_time": 1721912662,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 53166,
@@ -2923,6 +2995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49518,
+      "num": 232511,
+      "word": "欧米茄宣传片好燃",
+      "onboard_time": 1721909300,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 49249,
       "num": 86025,
       "word": "国乒女团签表",
@@ -2931,20 +3011,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47095,
+      "num": 361884,
+      "word": "20万内唯一搭载华为智驾SUV",
+      "onboard_time": 1721911279,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 46889,
       "num": 46889,
       "word": "田曦薇的眼睛就是尺",
       "onboard_time": 1721852831,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 43113,
-      "num": 232511,
-      "word": "欧米茄宣传片好燃",
-      "onboard_time": 1721909300,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 40824,
@@ -2961,6 +3041,14 @@
       "onboard_time": 1721862617,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38648,
+      "num": 394880,
+      "word": "离岸人民币兑美元升破7.21",
+      "onboard_time": 1721913500,
+      "rank": 11,
+      "category": "财经"
     },
     {
       "raw_hot": 38519,
@@ -2993,14 +3081,6 @@
       "onboard_time": 1721880200,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37556,
-      "num": 221509,
-      "word": "20万内唯一搭载华为智驾SUV",
-      "onboard_time": 1721911279,
-      "rank": 33,
-      "category": "汽车"
     },
     {
       "raw_hot": 36283,
@@ -3172,6 +3252,9 @@
     },
     {
       "word": "#完善国家创新体系#"
+    },
+    {
+      "word": "#中共中央政治局常务委员会召开会议#"
     }
   ]
 }

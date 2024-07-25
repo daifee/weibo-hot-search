@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/25 20:52:31
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/25 21:22:54
 </p>
 </blockquote>
 <p>
@@ -2853,6 +2853,12 @@ Kris离职（热度：1198786）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%B0%8F%E4%BC%99%E9%AB%98%E8%80%83529%E5%88%86%E8%A2%AB%E6%B8%85%E5%8D%8E%E5%BD%95%E5%8F%96%23" target="weibo">
+河南小伙高考529分被清华录取（热度：1126239）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%B8%E6%9F%B3%E6%88%98%E6%AD%BB%23" target="weibo">
 相柳战死（热度：1126099）
 </a>
@@ -3609,6 +3615,12 @@ Henry说漏嘴了（热度：1050972）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%81%B6%E9%81%87%E9%9C%8D%E6%80%9D%E7%87%95%E5%B8%A6%E5%A5%B3%E5%84%BF%E5%96%9D%E4%B8%8B%E5%8D%88%E8%8C%B6%23" target="weibo">
+偶遇霍思燕带女儿喝下午茶（热度：1010593）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%9B%9E%E5%BA%94%E6%9A%91%E6%9C%9F%E9%97%A8%E7%A5%A8%E9%A3%99%E8%87%B3719%E5%85%83%23" target="weibo">
 上海迪士尼回应暑期门票飙至719元（热度：1008707）
 </a>
@@ -3929,12 +3941,6 @@ N1（热度：997983）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B2024%23" target="weibo">
 歌手2024（热度：958480）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%81%B6%E9%81%87%E9%9C%8D%E6%80%9D%E7%87%95%E5%B8%A6%E5%A5%B3%E5%84%BF%E5%96%9D%E4%B8%8B%E5%8D%88%E8%8C%B6%23" target="weibo">
-偶遇霍思燕带女儿喝下午茶（热度：957070）
 </a>
 </li>
 
@@ -6008,12 +6014,6 @@ T1夺冠（热度：781234）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B6%82%E5%B1%B1%E7%92%9F%E5%8F%B0%E8%AF%8D%23" target="weibo">
-涂山璟台词（热度：749168）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6779,6 +6779,12 @@ T1夺冠（热度：781234）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E5%AE%8C%E5%96%84%E5%9B%BD%E5%AE%B6%E5%88%9B%E6%96%B0%E4%BD%93%E7%B3%BB%23%23" target="weibo">
 #完善国家创新体系#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%B8%B8%E5%8A%A1%E5%A7%94%E5%91%98%E4%BC%9A%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE%23%23" target="weibo">
+#中共中央政治局常务委员会召开会议#
 </a>
 </li>
 

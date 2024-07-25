@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721911951767,
+  "endTime": 1721913774827,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -3787,6 +3787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1126239,
+      "num": 1126239,
+      "word": "河南小伙高考529分被清华录取",
+      "onboard_time": 1721910920,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1126099,
       "num": 1126099,
       "word": "相柳战死",
@@ -4795,6 +4803,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1010593,
+      "num": 1010593,
+      "word": "偶遇霍思燕带女儿喝下午茶",
+      "onboard_time": 1721909060,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1008707,
       "num": 1008707,
       "word": "上海迪士尼回应暑期门票飙至719元",
@@ -5225,14 +5241,6 @@
       "onboard_time": 1720784059,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 957070,
-      "num": 742665,
-      "word": "偶遇霍思燕带女儿喝下午茶",
-      "onboard_time": 1721909060,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 956793,
@@ -7820,7 +7828,7 @@
     },
     {
       "raw_hot": 759212,
-      "num": 488914,
+      "num": 617109,
       "word": "夏之光 亲什么嘴儿啊",
       "onboard_time": 1721909000,
       "rank": 11,
@@ -9217,6 +9225,14 @@
       "onboard_time": 1721553318,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 681349,
+      "num": 681349,
+      "word": "为啥打耳洞不会有肉被捅出来",
+      "onboard_time": 1721910320,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 681086,
@@ -10793,6 +10809,14 @@
       "onboard_time": 1721778197,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 610036,
+      "num": 610036,
+      "word": "台风登陆",
+      "onboard_time": 1721911219,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 609640,
@@ -13481,14 +13505,6 @@
       "onboard_time": 1719993377,
       "rank": 23,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 523969,
-      "num": 523969,
-      "word": "台风登陆",
-      "onboard_time": 1721911219,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 523136,
@@ -18075,6 +18091,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 418280,
+      "num": 418280,
+      "word": "TFBOYS头发梳成大人模样是凯妈做的",
+      "onboard_time": 1721910620,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 418092,
       "num": 210589,
       "word": "原来旅游时花钱可以这么有尊严",
@@ -21395,6 +21419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350242,
+      "num": 350242,
+      "word": "杨旭文 唐诡2嫡掌子",
+      "onboard_time": 1721911340,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 350212,
       "num": 350212,
       "word": "王曼昱说没参加单打有些遗憾",
@@ -22129,6 +22161,14 @@
       "onboard_time": 1721715559,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 336305,
+      "num": 336305,
+      "word": "刘梓晨",
+      "onboard_time": 1721912959,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 336212,
@@ -24443,14 +24483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 298285,
-      "num": 298285,
-      "word": "TFBOYS头发梳成大人模样是凯妈做的",
-      "onboard_time": 1721910620,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 298259,
       "num": 298259,
       "word": "三星发布会",
@@ -25651,6 +25683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282895,
+      "num": 282895,
+      "word": "台风格美影响或波及10余省份",
+      "onboard_time": 1721911460,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282812,
       "num": 282812,
       "word": "尼格买提 我把嘉宾都吃了",
@@ -25833,14 +25873,6 @@
       "onboard_time": 1721211259,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 279909,
-      "num": 279909,
-      "word": "河南小伙高考529分被清华录取",
-      "onboard_time": 1721910920,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 279900,
@@ -27441,6 +27473,14 @@
       "onboard_time": 1721121138,
       "rank": 24,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 256815,
+      "num": 256815,
+      "word": "亲戚催婚时好像说漏嘴了",
+      "onboard_time": 1721910860,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 256764,
@@ -30515,14 +30555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 228339,
-      "num": 228339,
-      "word": "为啥打耳洞不会有肉被捅出来",
-      "onboard_time": 1721910320,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 228293,
       "num": 228293,
       "word": "city不city的旅行到底是什么",
@@ -31409,14 +31441,6 @@
       "onboard_time": 1719830359,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 221301,
-      "num": 221301,
-      "word": "亲戚催婚时好像说漏嘴了",
-      "onboard_time": 1721910860,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 221214,
@@ -32859,6 +32883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212982,
+      "num": 212982,
+      "word": "黄明昊在十个勤天中都i起来了",
+      "onboard_time": 1721911519,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212872,
       "num": 212872,
       "word": "他是中国首位奥运会日夺3金的运动员",
@@ -32915,6 +32947,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 212337,
+      "num": 212337,
+      "word": "终于知道刘昊然去年为什么那么瘦了",
+      "onboard_time": 1721910799,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 212336,
       "num": 212336,
       "word": "人大教授王贵元",
@@ -32961,6 +33001,14 @@
       "onboard_time": 1721287279,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212174,
+      "num": 212174,
+      "word": "许凯彭昱畅陈哲远各有各的好笑",
+      "onboard_time": 1721912419,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 212081,
@@ -33609,14 +33657,6 @@
       "onboard_time": 1721661143,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 208853,
-      "num": 208853,
-      "word": "杨旭文 唐诡2嫡掌子",
-      "onboard_time": 1721911340,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 208812,
@@ -35203,14 +35243,6 @@
       "category": "综艺,音乐"
     },
     {
-      "raw_hot": 202565,
-      "num": 202565,
-      "word": "终于知道刘昊然去年为什么那么瘦了",
-      "onboard_time": 1721910799,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 202538,
       "num": 202538,
       "word": "东方甄选",
@@ -35680,14 +35712,6 @@
       "word": "是女刘烨不是男刘烨",
       "onboard_time": 1721545158,
       "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 200969,
-      "num": 200969,
-      "word": "黄明昊在十个勤天中都i起来了",
-      "onboard_time": 1721911519,
-      "rank": 39,
       "category": "综艺"
     },
     {
@@ -38609,6 +38633,14 @@
       "onboard_time": 1719837917,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 191248,
+      "num": 191248,
+      "word": "田嘉瑞到底什么是真的",
+      "onboard_time": 1721912900,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 191240,
@@ -42283,6 +42315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 176755,
+      "num": 428196,
+      "word": "老破小现在值得入手吗",
+      "onboard_time": 1721911219,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176749,
       "num": 176749,
       "word": "赵丽颖冯小刚聚餐",
@@ -43577,14 +43617,6 @@
       "onboard_time": 1720066218,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 172020,
-      "num": 172020,
-      "word": "台风格美影响或波及10余省份",
-      "onboard_time": 1721911460,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171984,
@@ -45537,6 +45569,14 @@
       "onboard_time": 1721381180,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164237,
+      "num": 164237,
+      "word": "与辉同行总销售额超42亿",
+      "onboard_time": 1721912779,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 164191,
@@ -47561,6 +47601,14 @@
       "onboard_time": 1719789555,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156538,
+      "num": 156538,
+      "word": "宝诗龙活动",
+      "onboard_time": 1721913559,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 156529,
@@ -51617,6 +51665,14 @@
       "onboard_time": 1721870359,
       "rank": 46,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 140829,
+      "num": 140829,
+      "word": "李昊卓沅 真假球王",
+      "onboard_time": 1721912839,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 140825,
@@ -57291,6 +57347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119922,
+      "num": 119922,
+      "word": "秦新宇",
+      "onboard_time": 1721912900,
+      "rank": 49,
+      "category": "网红"
+    },
+    {
       "raw_hot": 119910,
       "num": 119910,
       "word": "爆米花大爷们",
@@ -62915,6 +62979,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 87479,
+      "num": 341889,
+      "word": "为什么260万用户都选比亚迪宋",
+      "onboard_time": 1721912662,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 87436,
       "num": 77831,
       "word": "克罗斯结束球员生涯",
@@ -66563,20 +66635,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55575,
+      "num": 284874,
+      "word": "手机成为电影短片设备主力军",
+      "onboard_time": 1721912662,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 55554,
       "num": 292747,
       "word": "又被珠海的晚霞狠狠治愈了",
       "onboard_time": 1720365019,
       "rank": 9,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 55493,
-      "num": 428196,
-      "word": "老破小现在值得入手吗",
-      "onboard_time": 1721911219,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 55399,
@@ -67315,6 +67387,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 49518,
+      "num": 232511,
+      "word": "欧米茄宣传片好燃",
+      "onboard_time": 1721909300,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 49413,
       "num": 930637,
       "word": "为什么中国制造能行",
@@ -67689,6 +67769,14 @@
       "onboard_time": 1721407156,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47095,
+      "num": 361884,
+      "word": "20万内唯一搭载华为智驾SUV",
+      "onboard_time": 1721911279,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 47088,
@@ -68241,14 +68329,6 @@
       "onboard_time": 1720943363,
       "rank": 19,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 43113,
-      "num": 232511,
-      "word": "欧米茄宣传片好燃",
-      "onboard_time": 1721909300,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 43076,
@@ -68915,6 +68995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 38648,
+      "num": 394880,
+      "word": "离岸人民币兑美元升破7.21",
+      "onboard_time": 1721913500,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
       "raw_hot": 38519,
       "num": 46023,
       "word": "为何红斑狼疮尤其偏爱女性",
@@ -69049,14 +69137,6 @@
       "onboard_time": 1721880200,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37556,
-      "num": 221509,
-      "word": "20万内唯一搭载华为智驾SUV",
-      "onboard_time": 1721911279,
-      "rank": 33,
-      "category": "汽车"
     },
     {
       "raw_hot": 37501,
@@ -73640,6 +73720,9 @@
     },
     {
       "word": "#完善国家创新体系#"
+    },
+    {
+      "word": "#中共中央政治局常务委员会召开会议#"
     }
   ]
 }
