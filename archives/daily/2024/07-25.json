@@ -1,6 +1,6 @@
 {
   "startTime": 1721838296901,
-  "endTime": 1721875665362,
+  "endTime": 1721877720177,
   "band_list": [
     {
       "raw_hot": 1836788,
@@ -16,6 +16,14 @@
       "word": "校方通报高中生举报大学教师婚内出轨",
       "onboard_time": 1721866100,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1628745,
+      "num": 1628745,
+      "word": "夫妻冷战三伏天车里开暖风",
+      "onboard_time": 1721872398,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -35,11 +43,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1201728,
-      "num": 1201728,
-      "word": "夫妻冷战三伏天车里开暖风",
-      "onboard_time": 1721872398,
-      "rank": 1,
+      "raw_hot": 1004464,
+      "num": 1004464,
+      "word": "台风格美预计今天下午到傍晚登陆福建",
+      "onboard_time": 1721877021,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -49,6 +57,22 @@
       "onboard_time": 1721869941,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 902679,
+      "num": 902679,
+      "word": "张家齐谈遗憾无缘巴黎奥运会",
+      "onboard_time": 1721873840,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 899158,
+      "num": 899158,
+      "word": "iPhone17或将移除Plus机型",
+      "onboard_time": 1721873718,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 865631,
@@ -123,6 +147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 685971,
+      "num": 685971,
+      "word": "兰州生态环境局通报市民反映空气异味",
+      "onboard_time": 1721875579,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 675468,
       "num": 675468,
       "word": "84岁痴呆母亲忘记儿子离世仍每天为其铺床",
@@ -179,6 +211,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 584174,
+      "num": 584174,
+      "word": "唐尚珺请网友投票去不去上大学",
+      "onboard_time": 1721875037,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 584147,
       "num": 376651,
       "word": "辛纳退出巴黎奥运会",
@@ -195,20 +235,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 549885,
-      "num": 549885,
-      "word": "iPhone17或将移除Plus机型",
-      "onboard_time": 1721873718,
-      "rank": 22,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 545458,
-      "num": 545458,
-      "word": "张家齐谈遗憾无缘巴黎奥运会",
-      "onboard_time": 1721873840,
-      "rank": 13,
-      "category": "体育"
+      "raw_hot": 540781,
+      "num": 540781,
+      "word": "田曦薇王安宇从籍籍无名到人声鼎沸",
+      "onboard_time": 1721873119,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 532578,
@@ -243,20 +275,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 461277,
-      "num": 461277,
-      "word": "田曦薇王安宇从籍籍无名到人声鼎沸",
-      "onboard_time": 1721873119,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 446099,
       "num": 446099,
       "word": "孙红雷回应移民传闻",
       "onboard_time": 1721833281,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 417670,
+      "num": 352129,
+      "word": "人一旦拎着袋子上班那基本就定型了",
+      "onboard_time": 1721869160,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 406938,
@@ -273,14 +305,6 @@
       "onboard_time": 1721873780,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 398224,
-      "num": 352129,
-      "word": "人一旦拎着袋子上班那基本就定型了",
-      "onboard_time": 1721869160,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 374998,
@@ -443,11 +467,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256438,
+      "num": 256438,
+      "word": "赵露思白色小香",
+      "onboard_time": 1721875279,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253429,
       "num": 253429,
       "word": "檀健次再演沈翊压力很大",
       "onboard_time": 1721819119,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 243531,
+      "num": 243531,
+      "word": "张若昀在路演当布洛芬",
+      "onboard_time": 1721874198,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 240692,
+      "num": 240692,
+      "word": "唐诡西行捅到疯窝了",
+      "onboard_time": 1721876539,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -472,14 +520,6 @@
       "word": "北京地铁",
       "onboard_time": 1721865800,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 225100,
-      "num": 225100,
-      "word": "唐尚珺请网友投票去不去上大学",
-      "onboard_time": 1721875037,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -515,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212312,
+      "num": 514550,
+      "word": "马龙简历好long",
+      "onboard_time": 1721872999,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212011,
       "num": 212011,
       "word": "乒乓球",
@@ -539,28 +587,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 209683,
-      "num": 209683,
-      "word": "赵露思白色小香",
-      "onboard_time": 1721875279,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208792,
       "num": 208792,
       "word": "格美",
       "onboard_time": 1721863216,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 205899,
-      "num": 205899,
-      "word": "张若昀在路演当布洛芬",
-      "onboard_time": 1721874198,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 203881,
@@ -585,6 +617,14 @@
       "onboard_time": 1721871259,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200738,
+      "num": 200738,
+      "word": "让胡静演妈不是演我妈",
+      "onboard_time": 1721877260,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 200625,
@@ -619,6 +659,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192457,
+      "num": 192457,
+      "word": "成毅V领红衬衫",
+      "onboard_time": 1721876900,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 191803,
+      "num": 191803,
+      "word": "降息",
+      "onboard_time": 1721875399,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 191113,
       "num": 191113,
       "word": "EXO有自己的何炅",
@@ -627,12 +683,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 189328,
+      "num": 189328,
+      "word": "泉州全市停工停产停课休市",
+      "onboard_time": 1721875880,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188268,
       "num": 188268,
       "word": "史彭元说抓娃娃里马继业像玩剧本杀",
       "onboard_time": 1721875340,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 188157,
+      "num": 188157,
+      "word": "宋茜粉丝维权成功",
+      "onboard_time": 1721875759,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 182857,
@@ -699,14 +771,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 169066,
-      "num": 169066,
-      "word": "兰州生态环境局通报市民反映空气异味",
-      "onboard_time": 1721875579,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164594,
       "num": 164594,
       "word": "巴黎奥运会开幕式时长",
@@ -747,20 +811,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 155174,
-      "num": 155174,
-      "word": "降息",
-      "onboard_time": 1721875399,
-      "rank": 48,
-      "category": "财经"
-    },
-    {
       "raw_hot": 153341,
       "num": 153341,
       "word": "距巴黎奥运开幕还有1天",
       "onboard_time": 1721872279,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153296,
+      "num": 153296,
+      "word": "中药冰淇淋一份卖到38元",
+      "onboard_time": 1721874798,
+      "rank": 47,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 152629,
@@ -817,14 +881,6 @@
       "onboard_time": 1721834121,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142870,
-      "num": 489433,
-      "word": "马龙简历好long",
-      "onboard_time": 1721872999,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 140836,
@@ -1075,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73288,
+      "num": 348943,
+      "word": "国字号认证的技术有多牛",
+      "onboard_time": 1721876840,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72956,
       "num": 72956,
       "word": "网友称哈尔滨中央大街成烧烤一条街",
@@ -1113,6 +1177,14 @@
       "onboard_time": 1721875640,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56271,
+      "num": 296164,
+      "word": "你会选爸妈做旅游搭子吗",
+      "onboard_time": 1721876718,
+      "rank": 25,
+      "category": "旅游"
     },
     {
       "raw_hot": 52974,
@@ -1203,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24303,
+      "num": 369914,
+      "word": "夏日观赛灵魂拍档",
+      "onboard_time": 1721873360,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 22983,
       "num": 169791,
       "word": "浙江姑娘在加沙开了三家免费中国诊所",
@@ -1217,14 +1297,6 @@
       "onboard_time": 1721838618,
       "rank": 9,
       "category": "自然"
-    },
-    {
-      "raw_hot": 20949,
-      "num": 353237,
-      "word": "夏日观赛灵魂拍档",
-      "onboard_time": 1721873360,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 17980,
@@ -1264,6 +1336,14 @@
       "word": "男孩坐火车吃瓜子卡喉列车员救回",
       "onboard_time": 1721846053,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9036,
+      "num": 545256,
+      "word": "中介高薪诱导招工基础工资仅2490元",
+      "onboard_time": 1721877679,
+      "rank": 8,
       "category": "社会新闻"
     },
     {

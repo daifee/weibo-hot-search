@@ -1,0 +1,410 @@
+{
+  "runTime": 1721877720177,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1628745,
+        "num": 1628745,
+        "word": "夫妻冷战三伏天车里开暖风",
+        "onboard_time": 1721872398,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1057120,
+        "num": 1057120,
+        "word": "多所高校决定延长研究生学制",
+        "onboard_time": 1721870120,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 17288,
+        "num": 1005572,
+        "word": "万千气象看青海",
+        "onboard_time": 1721826320,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1004464,
+        "num": 1004464,
+        "word": "台风格美预计今天下午到傍晚登陆福建",
+        "onboard_time": 1721877021,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 902679,
+        "num": 902679,
+        "word": "张家齐谈遗憾无缘巴黎奥运会",
+        "onboard_time": 1721873840,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 899158,
+        "num": 899158,
+        "word": "iPhone17或将移除Plus机型",
+        "onboard_time": 1721873718,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 685971,
+        "num": 685971,
+        "word": "兰州生态环境局通报市民反映空气异味",
+        "onboard_time": 1721875579,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584174,
+        "num": 584174,
+        "word": "唐尚珺请网友投票去不去上大学",
+        "onboard_time": 1721875037,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9036,
+        "num": 545256,
+        "word": "中介高薪诱导招工基础工资仅2490元",
+        "onboard_time": 1721877679,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540781,
+        "num": 540781,
+        "word": "田曦薇王安宇从籍籍无名到人声鼎沸",
+        "onboard_time": 1721873119,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212312,
+        "num": 514550,
+        "word": "马龙简历好long",
+        "onboard_time": 1721872999,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 632223,
+        "num": 506903,
+        "word": "闲鱼回应用暗号开展色情交易",
+        "onboard_time": 1721863576,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 493372,
+        "num": 493372,
+        "word": "歌王之战来了5个歌王",
+        "onboard_time": 1721865739,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 561880,
+        "num": 485049,
+        "word": "山东理工大学",
+        "onboard_time": 1721870599,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475972,
+        "num": 475972,
+        "word": "100万存5年利息少1万",
+        "onboard_time": 1721869941,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 468648,
+        "num": 468648,
+        "word": "校方通报高中生举报大学教师婚内出轨",
+        "onboard_time": 1721866100,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446964,
+        "num": 446964,
+        "word": "台风格美直角掉头了",
+        "onboard_time": 1721832920,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378667,
+        "num": 378667,
+        "word": "台风格美将致10余省强降雨",
+        "onboard_time": 1721866641,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24303,
+        "num": 369914,
+        "word": "夏日观赛灵魂拍档",
+        "onboard_time": 1721873360,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 364053,
+        "num": 364053,
+        "word": "台风",
+        "onboard_time": 1721862314,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73288,
+        "num": 348943,
+        "word": "国字号认证的技术有多牛",
+        "onboard_time": 1721876840,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417670,
+        "num": 348414,
+        "word": "人一旦拎着袋子上班那基本就定型了",
+        "onboard_time": 1721869160,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 399592,
+        "num": 346711,
+        "word": "李佳琦说旺旺离职不会挽留",
+        "onboard_time": 1721823620,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344219,
+        "num": 344219,
+        "word": "拜登谈退选原因",
+        "onboard_time": 1721868502,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 301822,
+        "num": 301822,
+        "word": "密室大逃脱",
+        "onboard_time": 1721873419,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56271,
+        "num": 296164,
+        "word": "你会选爸妈做旅游搭子吗",
+        "onboard_time": 1721876718,
+        "rank": 25,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 292484,
+        "num": 292484,
+        "word": "花儿与少年直播",
+        "onboard_time": 1721872579,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287646,
+        "num": 287646,
+        "word": "A股",
+        "onboard_time": 1721873780,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 256438,
+        "num": 256438,
+        "word": "赵露思白色小香",
+        "onboard_time": 1721875279,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246719,
+        "num": 246719,
+        "word": "海莉不公开怀孕的原因",
+        "onboard_time": 1721863757,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245472,
+        "num": 245472,
+        "word": "陈楚生 姑娘",
+        "onboard_time": 1721874259,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 243531,
+        "num": 243531,
+        "word": "张若昀在路演当布洛芬",
+        "onboard_time": 1721874198,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 240692,
+        "num": 240692,
+        "word": "唐诡西行捅到疯窝了",
+        "onboard_time": 1721876539,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232378,
+        "num": 232378,
+        "word": "全红婵赛前试跳207C",
+        "onboard_time": 1721872460,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225119,
+        "num": 225119,
+        "word": "2NE1官宣首尔演唱会",
+        "onboard_time": 1721873300,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 209909,
+        "num": 209909,
+        "word": "中科大保卫处招聘要求硕士以上学历",
+        "onboard_time": 1721873119,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209034,
+        "num": 209034,
+        "word": "迪丽热巴为奥运健儿打call",
+        "onboard_time": 1721874140,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201312,
+        "num": 201312,
+        "word": "世界上最可爱的小鼻屎诞生了",
+        "onboard_time": 1721865980,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200738,
+        "num": 200738,
+        "word": "让胡静演妈不是演我妈",
+        "onboard_time": 1721877260,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193688,
+        "num": 193688,
+        "word": "瘦了50斤再穿同一件衣服的变化",
+        "onboard_time": 1721863876,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192457,
+        "num": 192457,
+        "word": "成毅V领红衬衫",
+        "onboard_time": 1721876900,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191803,
+        "num": 191803,
+        "word": "降息",
+        "onboard_time": 1721875399,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 189328,
+        "num": 189328,
+        "word": "泉州全市停工停产停课休市",
+        "onboard_time": 1721875880,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188157,
+        "num": 188157,
+        "word": "宋茜粉丝维权成功",
+        "onboard_time": 1721875759,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177712,
+        "num": 177712,
+        "word": "冯雨多次点赞王一博",
+        "onboard_time": 1721865017,
+        "rank": 44,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 158951,
+        "num": 158951,
+        "word": "90后开始参加同学葬礼",
+        "onboard_time": 1721872820,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158256,
+        "num": 158256,
+        "word": "多部门展开调查兰州刺激性气味",
+        "onboard_time": 1721868022,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153296,
+        "num": 153296,
+        "word": "中药冰淇淋一份卖到38元",
+        "onboard_time": 1721874798,
+        "rank": 47,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 152160,
+        "num": 152160,
+        "word": "华为发布会定档",
+        "onboard_time": 1721874919,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 149680,
+        "num": 149680,
+        "word": "芒果台有自己的四大名著",
+        "onboard_time": 1721832801,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快建设现代化经济体系#"
+    }
+  }
+}
