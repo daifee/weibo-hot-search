@@ -1,6 +1,6 @@
 {
   "startTime": 1721838296901,
-  "endTime": 1721885762556,
+  "endTime": 1721888897385,
   "band_list": [
     {
       "raw_hot": 2093627,
@@ -32,6 +32,14 @@
       "word": "校方通报高中生举报大学教师婚内出轨",
       "onboard_time": 1721866100,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1600597,
+      "num": 545291,
+      "word": "电梯内电池爆燃事主26天后去世",
+      "onboard_time": 1721884879,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -75,8 +83,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1286840,
+      "num": 1286840,
+      "word": "兰州刺激性异味来源查清",
+      "onboard_time": 1721887401,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1222057,
-      "num": 569287,
+      "num": 575764,
       "word": "阚清子与未婚夫结束度假回国",
       "onboard_time": 1721882780,
       "rank": 10,
@@ -129,6 +145,14 @@
       "onboard_time": 1721873840,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 889064,
+      "num": 889064,
+      "word": "一个普通女孩140斤到98斤之路",
+      "onboard_time": 1721884760,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 865631,
@@ -267,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 629896,
+      "num": 629896,
+      "word": "宋江好帅",
+      "onboard_time": 1721885601,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 625915,
       "num": 625915,
       "word": "山东理工大学",
@@ -328,14 +360,6 @@
       "word": "陕西师范大学",
       "onboard_time": 1721833761,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 545291,
-      "num": 545291,
-      "word": "电梯内电池爆燃事主26天后去世",
-      "onboard_time": 1721884879,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -611,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284404,
+      "num": 284404,
+      "word": "福建防抗台风格美在行动",
+      "onboard_time": 1721888659,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281981,
       "num": 281981,
       "word": "第五人格超话",
@@ -641,14 +673,6 @@
       "onboard_time": 1721874140,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 272864,
-      "num": 272864,
-      "word": "一个普通女孩140斤到98斤之路",
-      "onboard_time": 1721884760,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 271920,
@@ -721,6 +745,14 @@
       "onboard_time": 1721819119,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 247404,
+      "num": 247404,
+      "word": "高中教师表白女学生事发高考前",
+      "onboard_time": 1721886258,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243342,
@@ -825,6 +857,14 @@
       "onboard_time": 1721864657,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220516,
+      "num": 220516,
+      "word": "十个勤天激将法拿捏纪凌尘",
+      "onboard_time": 1721887518,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 217195,
@@ -971,14 +1011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199677,
-      "num": 199677,
-      "word": "宋江好帅",
-      "onboard_time": 1721885601,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 199135,
       "num": 199135,
       "word": "冯雨说王一博无名后劲有点大",
@@ -1001,6 +1033,14 @@
       "onboard_time": 1721823921,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 195634,
+      "num": 195634,
+      "word": "崔胜澈 南韩卡戴珊",
+      "onboard_time": 1721886321,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 194100,
@@ -1067,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189436,
+      "num": 189436,
+      "word": "张杰演唱会官宣三城",
+      "onboard_time": 1721888238,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 189328,
       "num": 189328,
       "word": "泉州全市停工停产停课休市",
@@ -1105,6 +1153,22 @@
       "onboard_time": 1721827822,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179379,
+      "num": 179379,
+      "word": "苏炳添已抵达巴黎",
+      "onboard_time": 1721888300,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 178510,
+      "num": 178510,
+      "word": "四海重明宣发",
+      "onboard_time": 1721887760,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 176198,
@@ -1187,11 +1251,35 @@
       "category": "电影"
     },
     {
+      "raw_hot": 166849,
+      "num": 166849,
+      "word": "JieJie city不city啊",
+      "onboard_time": 1721886919,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 164594,
       "num": 164594,
       "word": "巴黎奥运会开幕式时长",
       "onboard_time": 1721835860,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 164005,
+      "num": 164005,
+      "word": "把黄金纳入投资组合利于应对通胀",
+      "onboard_time": 1721888300,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 163533,
+      "num": 163533,
+      "word": "国羽9名男队员同住一屋",
+      "onboard_time": 1721886321,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -1209,6 +1297,14 @@
       "onboard_time": 1721869941,
       "rank": 41,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 157774,
+      "num": 157774,
+      "word": "虎杖悠仁领域展开",
+      "onboard_time": 1721887939,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 156349,
@@ -1267,6 +1363,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 147989,
+      "num": 147989,
+      "word": "年轻人开始挑战用利息生活",
+      "onboard_time": 1721888238,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 147487,
+      "num": 147487,
+      "word": "居然有连周深都说难唱的歌",
+      "onboard_time": 1721885180,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 144437,
       "num": 144437,
       "word": "多家航司回应一人带三娃坐不了飞机",
@@ -1281,6 +1393,14 @@
       "onboard_time": 1721823439,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143867,
+      "num": 143867,
+      "word": "老外因爱吃番茄炒蛋留在中国",
+      "onboard_time": 1721886379,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 143436,
@@ -1441,6 +1561,14 @@
       "onboard_time": 1721834300,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 104437,
+      "num": 612748,
+      "word": "南阳官方再回应医院职工工资1700元",
+      "onboard_time": 1721887222,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102311,
@@ -1604,7 +1732,7 @@
     },
     {
       "raw_hot": 57757,
-      "num": 545753,
+      "num": 569153,
       "word": "伊利为中国健儿加油",
       "onboard_time": 1721884340,
       "rank": 38,

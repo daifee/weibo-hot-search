@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721885762556,
+  "endTime": 1721888897385,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -451,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1600597,
+      "num": 545291,
+      "word": "电梯内电池爆燃事主26天后去世",
+      "onboard_time": 1721884879,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1595603,
       "num": 1595603,
       "word": "串串房引发身体不适搬走后又租别人",
@@ -699,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1286840,
+      "num": 1286840,
+      "word": "兰州刺激性异味来源查清",
+      "onboard_time": 1721887401,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1280249,
       "num": 1280249,
       "word": "泰国队员想来中国队宿舍凉快",
@@ -804,7 +820,7 @@
     },
     {
       "raw_hot": 1222057,
-      "num": 569287,
+      "num": 575764,
       "word": "阚清子与未婚夫结束度假回国",
       "onboard_time": 1721882780,
       "rank": 10,
@@ -1409,6 +1425,14 @@
       "onboard_time": 1721632940,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 889064,
+      "num": 889064,
+      "word": "一个普通女孩140斤到98斤之路",
+      "onboard_time": 1721884760,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 888452,
@@ -2307,6 +2331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 629896,
+      "num": 629896,
+      "word": "宋江好帅",
+      "onboard_time": 1721885601,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 628672,
       "num": 628672,
       "word": "韩国女子遭性侵21年后反杀加害者",
@@ -2785,14 +2817,6 @@
       "onboard_time": 1721690898,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 545291,
-      "num": 545291,
-      "word": "电梯内电池爆燃事主26天后去世",
-      "onboard_time": 1721884879,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 543988,
@@ -5027,6 +5051,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 284404,
+      "num": 284404,
+      "word": "福建防抗台风格美在行动",
+      "onboard_time": 1721888659,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283034,
       "num": 283034,
       "word": "田曦薇吊带针织裙",
@@ -5161,14 +5193,6 @@
       "onboard_time": 1721729961,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 272864,
-      "num": 272864,
-      "word": "一个普通女孩140斤到98斤之路",
-      "onboard_time": 1721884760,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 272845,
@@ -5657,6 +5681,14 @@
       "onboard_time": 1721825240,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 247404,
+      "num": 247404,
+      "word": "高中教师表白女学生事发高考前",
+      "onboard_time": 1721886258,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247221,
@@ -6449,6 +6481,14 @@
       "onboard_time": 1721618481,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220516,
+      "num": 220516,
+      "word": "十个勤天激将法拿捏纪凌尘",
+      "onboard_time": 1721887518,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 220374,
@@ -7483,14 +7523,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 199677,
-      "num": 199677,
-      "word": "宋江好帅",
-      "onboard_time": 1721885601,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 199670,
       "num": 199670,
       "word": "TF三代说初生不如老登",
@@ -7785,6 +7817,14 @@
       "onboard_time": 1721730560,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195634,
+      "num": 195634,
+      "word": "崔胜澈 南韩卡戴珊",
+      "onboard_time": 1721886321,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 195627,
@@ -8233,6 +8273,14 @@
       "onboard_time": 1721575282,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189436,
+      "num": 189436,
+      "word": "张杰演唱会官宣三城",
+      "onboard_time": 1721888238,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 189418,
@@ -8747,6 +8795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179379,
+      "num": 179379,
+      "word": "苏炳添已抵达巴黎",
+      "onboard_time": 1721888300,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179078,
       "num": 179078,
       "word": "涂山璟热度破3亿",
@@ -8761,6 +8817,14 @@
       "onboard_time": 1721558958,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178510,
+      "num": 178510,
+      "word": "四海重明宣发",
+      "onboard_time": 1721887760,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 178393,
@@ -9475,6 +9539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166849,
+      "num": 166849,
+      "word": "JieJie city不city啊",
+      "onboard_time": 1721886919,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 166755,
       "num": 166755,
       "word": "第六周最佳选手今屿",
@@ -9603,12 +9675,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164005,
+      "num": 164005,
+      "word": "把黄金纳入投资组合利于应对通胀",
+      "onboard_time": 1721888300,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 163599,
       "num": 213936,
       "word": "张予曦获得你好歌手2024歌王",
       "onboard_time": 1721486841,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163533,
+      "num": 163533,
+      "word": "国羽9名男队员同住一屋",
+      "onboard_time": 1721886321,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 163530,
@@ -9889,6 +9977,14 @@
       "onboard_time": 1721816901,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 157774,
+      "num": 157774,
+      "word": "虎杖悠仁领域展开",
+      "onboard_time": 1721887939,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 157580,
@@ -10291,6 +10387,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 147989,
+      "num": 147989,
+      "word": "年轻人开始挑战用利息生活",
+      "onboard_time": 1721888238,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 147487,
+      "num": 147487,
+      "word": "居然有连周深都说难唱的歌",
+      "onboard_time": 1721885180,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 147435,
       "num": 147435,
       "word": "再考清华当事人恭喜唐尚珺",
@@ -10417,6 +10529,14 @@
       "onboard_time": 1721833401,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143867,
+      "num": 143867,
+      "word": "老外因爱吃番茄炒蛋留在中国",
+      "onboard_time": 1721886379,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 143839,
@@ -11539,6 +11659,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 104437,
+      "num": 612748,
+      "word": "南阳官方再回应医院职工工资1700元",
+      "onboard_time": 1721887222,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104399,
       "num": 104399,
       "word": "作者联合抵制番茄小说AI协议",
@@ -12404,7 +12532,7 @@
     },
     {
       "raw_hot": 57757,
-      "num": 545753,
+      "num": 569153,
       "word": "伊利为中国健儿加油",
       "onboard_time": 1721884340,
       "rank": 38,
