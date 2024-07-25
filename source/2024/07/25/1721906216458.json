@@ -1,0 +1,410 @@
+{
+  "runTime": 1721906216458,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8749772,
+        "num": 8749772,
+        "word": "董宇辉离职",
+        "onboard_time": 1721902699,
+        "rank": 0,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 843050,
+        "num": 843050,
+        "word": "孙卓已被南京工业大学录取",
+        "onboard_time": 1721895559,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104895,
+        "num": 569264,
+        "word": "中国奥运项目首金高燃视频",
+        "onboard_time": 1721898080,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3103337,
+        "num": 556119,
+        "word": "董宇辉7658万收购与辉同行",
+        "onboard_time": 1721904142,
+        "rank": 3,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 539083,
+        "num": 539083,
+        "word": "中国游泳队身上全是火罐印",
+        "onboard_time": 1721892680,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 444753,
+        "num": 444753,
+        "word": "台风格美登陆福建位置又变了",
+        "onboard_time": 1721901980,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1862620,
+        "num": 442414,
+        "word": "董宇辉回应离职",
+        "onboard_time": 1721903482,
+        "rank": 6,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 558053,
+        "num": 435566,
+        "word": "刘昊然自曝数学成绩",
+        "onboard_time": 1721898921,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 420739,
+        "num": 420739,
+        "word": "台风格美预计今天下午到傍晚登陆福建",
+        "onboard_time": 1721877021,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190328,
+        "num": 419663,
+        "word": "镜头下的中国新农村",
+        "onboard_time": 1721904262,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1585075,
+        "num": 417428,
+        "word": "东方甄选公告董宇辉离职",
+        "onboard_time": 1721902640,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 747111,
+        "num": 413943,
+        "word": "美国男子奸杀8岁女孩抛尸垃圾箱",
+        "onboard_time": 1721901139,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602364,
+        "num": 409736,
+        "word": "俞敏洪回应董宇辉离职",
+        "onboard_time": 1721903723,
+        "rank": 12,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 488189,
+        "num": 406021,
+        "word": "密室大逃脱 举报",
+        "onboard_time": 1721889319,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 461769,
+        "num": 404329,
+        "word": "道枝骏佑直播",
+        "onboard_time": 1721905224,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302806,
+        "num": 399921,
+        "word": "樊振东 死亡下半区",
+        "onboard_time": 1721891420,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 436190,
+        "num": 397452,
+        "word": "披荆斩棘4返场哥哥投票",
+        "onboard_time": 1721903842,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396885,
+        "num": 396885,
+        "word": "南工大欢迎孙卓",
+        "onboard_time": 1721899400,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307752,
+        "num": 307752,
+        "word": "南阳三姐弟溺亡事故司机已被批捕",
+        "onboard_time": 1721902039,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232945,
+        "num": 232945,
+        "word": "人民币汇率",
+        "onboard_time": 1721898021,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 775542,
+        "num": 232881,
+        "word": "真的很讨厌外卖点到液体勺",
+        "onboard_time": 1721901919,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 385404,
+        "num": 232510,
+        "word": "电梯内电池爆燃事主26天后去世",
+        "onboard_time": 1721884879,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352829,
+        "num": 232245,
+        "word": "闵熙珍说郑秀晶抄袭她",
+        "onboard_time": 1721902280,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318373,
+        "num": 232034,
+        "word": "杨幂村妇造型路透",
+        "onboard_time": 1721892200,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310312,
+        "num": 231780,
+        "word": "应聘时HR拿着我的简历在手抖",
+        "onboard_time": 1721903781,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 268943,
+        "num": 231494,
+        "word": "与辉同行净利润或奖励给董宇辉",
+        "onboard_time": 1721905522,
+        "rank": 25,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 268913,
+        "num": 231188,
+        "word": "工资涨了不少我却变抠门了",
+        "onboard_time": 1721898199,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 257363,
+        "num": 230962,
+        "word": "蔡徐坤上半年最佳表现歌手",
+        "onboard_time": 1721902340,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 230755,
+        "num": 230755,
+        "word": "发现姥姥偷偷留了五十万给我",
+        "onboard_time": 1721904563,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27973,
+        "num": 227288,
+        "word": "日本人口创有记录以来的最大跌幅",
+        "onboard_time": 1721905882,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226406,
+        "num": 226406,
+        "word": "密室大逃脱大神版",
+        "onboard_time": 1721902099,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223951,
+        "num": 223951,
+        "word": "披荆斩棘",
+        "onboard_time": 1721904442,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193970,
+        "num": 193970,
+        "word": "我妈说我姐能考上编是因为爱睡觉",
+        "onboard_time": 1721898500,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193008,
+        "num": 193008,
+        "word": "福建防抗台风格美在行动",
+        "onboard_time": 1721888659,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188668,
+        "num": 188668,
+        "word": "卢昱晓妈妈担心女儿因为工作不结婚",
+        "onboard_time": 1721899520,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184003,
+        "num": 184003,
+        "word": "14岁初中生课堂嗑药致昏迷进ICU",
+        "onboard_time": 1721880680,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178174,
+        "num": 178174,
+        "word": "周深汪苏泷上半年最佳表现歌手",
+        "onboard_time": 1721905282,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55982,
+        "num": 178002,
+        "word": "孙卓收到南京工业大学录取通知书",
+        "onboard_time": 1721897060,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177929,
+        "num": 177929,
+        "word": "宁艺卓身材引发热议",
+        "onboard_time": 1721891719,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176029,
+        "num": 176029,
+        "word": "新东方股价直线跳水",
+        "onboard_time": 1721904262,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 167565,
+        "num": 167565,
+        "word": "种地吧",
+        "onboard_time": 1721906002,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164143,
+        "num": 164143,
+        "word": "剑来动画 好多人啊",
+        "onboard_time": 1721905882,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 162632,
+        "num": 162632,
+        "word": "台风格美正在靠近福建沿海",
+        "onboard_time": 1721902220,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162096,
+        "num": 162096,
+        "word": "女子称花3900纹发际线后还是像阿哥",
+        "onboard_time": 1721894600,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161957,
+        "num": 161957,
+        "word": "密室大逃脱6",
+        "onboard_time": 1721906061,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161523,
+        "num": 161523,
+        "word": "登陆日空降",
+        "onboard_time": 1721898980,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158285,
+        "num": 160850,
+        "word": "与辉同行",
+        "onboard_time": 1721904802,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 160318,
+        "num": 160318,
+        "word": "花少直播 无聊",
+        "onboard_time": 1721890520,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159658,
+        "num": 159658,
+        "word": "全欧洲的小偷都在往巴黎赶",
+        "onboard_time": 1721894300,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159291,
+        "num": 159291,
+        "word": "密室大逃脱 恐怖元素",
+        "onboard_time": 1721906002,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#完善国家创新体系#"
+    }
+  }
+}
