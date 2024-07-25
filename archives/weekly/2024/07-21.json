@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721918152063,
+  "endTime": 1721920851845,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -1515,6 +1515,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 925314,
+      "num": 925314,
+      "word": "前台是未成年还吃辣条",
+      "onboard_time": 1721915121,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 922901,
       "num": 922901,
       "word": "wei大xun",
@@ -1948,7 +1956,7 @@
     },
     {
       "raw_hot": 775542,
-      "num": 320181,
+      "num": 372756,
       "word": "真的很讨厌外卖点到液体勺",
       "onboard_time": 1721901919,
       "rank": 22,
@@ -2113,6 +2121,14 @@
       "onboard_time": 1721628501,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 735026,
+      "num": 735026,
+      "word": "女教练连扇小球员9个耳光",
+      "onboard_time": 1721918599,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 733476,
@@ -3387,6 +3403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 498162,
+      "num": 498162,
+      "word": "清融 中单",
+      "onboard_time": 1721918842,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 497851,
       "num": 497851,
       "word": "巴黎奥运会首个比赛日",
@@ -3537,6 +3561,14 @@
       "onboard_time": 1721581396,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 480401,
+      "num": 480401,
+      "word": "偶遇张若昀对着自行车鞠躬",
+      "onboard_time": 1721919081,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 480039,
@@ -4235,6 +4267,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 392115,
+      "num": 370211,
+      "word": "心动的信号",
+      "onboard_time": 1721915841,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 391735,
       "num": 280714,
       "word": "大学生9个月减重80斤父母认不出",
@@ -4291,6 +4331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 382869,
+      "num": 382869,
+      "word": "被清华录取后他先去了这里",
+      "onboard_time": 1721918360,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 382092,
       "num": 311911,
       "word": "王冰冰和她家的猫撞脸",
@@ -4329,6 +4377,14 @@
       "onboard_time": 1721651963,
       "rank": 37,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 375738,
+      "num": 563785,
+      "word": "油价降了",
+      "onboard_time": 1721915000,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 374834,
@@ -4441,6 +4497,14 @@
       "onboard_time": 1721883021,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 368394,
+      "num": 368394,
+      "word": "九尾沙特请假条",
+      "onboard_time": 1721918242,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 367971,
@@ -4707,14 +4771,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 343208,
-      "num": 343208,
-      "word": "前台是未成年还吃辣条",
-      "onboard_time": 1721915121,
-      "rank": 24,
-      "category": "网红"
-    },
-    {
       "raw_hot": 342966,
       "num": 342966,
       "word": "校长回应教师产假时被公示解聘",
@@ -4857,6 +4913,14 @@
       "onboard_time": 1721615301,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 330245,
+      "num": 330245,
+      "word": "九尾不去沙特",
+      "onboard_time": 1721919081,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 329507,
@@ -5193,6 +5257,14 @@
       "onboard_time": 1721622502,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302818,
+      "num": 302818,
+      "word": "蒋敦豪晒十个勤天合照",
+      "onboard_time": 1721920581,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 302618,
@@ -5539,14 +5611,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 287469,
-      "num": 232452,
-      "word": "心动的信号",
-      "onboard_time": 1721915841,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 286475,
       "num": 286475,
       "word": "十个勤天新人是公司员工不是新成员",
@@ -5657,14 +5721,6 @@
       "onboard_time": 1721605039,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 278575,
-      "num": 563785,
-      "word": "油价降了",
-      "onboard_time": 1721915000,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 278528,
@@ -6083,6 +6139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255806,
+      "num": 255806,
+      "word": "张真源洗澡镜头",
+      "onboard_time": 1721917700,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 254898,
       "num": 254898,
       "word": "养了六年的小狗为了保护我被咬瘫痪",
@@ -6145,6 +6209,14 @@
       "onboard_time": 1721892140,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 253315,
+      "num": 253315,
+      "word": "上半年每10套房有4套买家是90后",
+      "onboard_time": 1721918780,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253288,
@@ -6340,7 +6412,7 @@
     },
     {
       "raw_hot": 242874,
-      "num": 213331,
+      "num": 231860,
       "word": "王玉雯说张新成压抑了很多年",
       "onboard_time": 1721915601,
       "rank": 32,
@@ -7659,6 +7731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211193,
+      "num": 211193,
+      "word": "脱胎换骨式减肥法",
+      "onboard_time": 1721917821,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 211144,
       "num": 211144,
       "word": "竟然有Shallow",
@@ -7739,6 +7819,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 209917,
+      "num": 209917,
+      "word": "奥运会史上首次开放式开幕式",
+      "onboard_time": 1721920399,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209898,
       "num": 209898,
       "word": "赵丽颖深V侧颜",
@@ -7793,6 +7881,14 @@
       "onboard_time": 1721885601,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207932,
+      "num": 207932,
+      "word": "网剧少年白马醉春风",
+      "onboard_time": 1721919921,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 207720,
@@ -7969,14 +8065,6 @@
       "onboard_time": 1721710941,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 203999,
-      "num": 203999,
-      "word": "张真源洗澡镜头",
-      "onboard_time": 1721917700,
-      "rank": 29,
-      "category": "音乐"
     },
     {
       "raw_hot": 203900,
@@ -8331,6 +8419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 199536,
+      "num": 199536,
+      "word": "陈哲远被吓纯享版",
+      "onboard_time": 1721919861,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199315,
       "num": 199315,
       "word": "童年骑狮子拍照的人去非洲溜狮子了",
@@ -8585,6 +8681,14 @@
       "onboard_time": 1721910380,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 197121,
+      "num": 197121,
+      "word": "连线改简历意外被创始人看中",
+      "onboard_time": 1721919200,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197109,
@@ -9651,6 +9755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182722,
+      "num": 182722,
+      "word": "傅园慧晒奖牌回应网友质疑",
+      "onboard_time": 1721920281,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182674,
       "num": 182674,
       "word": "邓紫棋在舞台上抽筋",
@@ -9681,6 +9793,14 @@
       "onboard_time": 1721895021,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181840,
+      "num": 181840,
+      "word": "被新疆冰淇淋冲击到了",
+      "onboard_time": 1721920160,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 181752,
@@ -10145,6 +10265,14 @@
       "onboard_time": 1721625680,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 174360,
+      "num": 174360,
+      "word": "檀健次上海站",
+      "onboard_time": 1721919501,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 174303,
@@ -11099,6 +11227,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 159259,
+      "num": 159259,
+      "word": "心动的信号7路透",
+      "onboard_time": 1721920758,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158958,
       "num": 158958,
       "word": "刘诗雯新身份出发巴黎",
@@ -11697,6 +11833,14 @@
       "onboard_time": 1721827881,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145861,
+      "num": 145861,
+      "word": "国色芳华",
+      "onboard_time": 1721920700,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 145561,
@@ -13499,6 +13643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75485,
+      "num": 512033,
+      "word": "台风格美在福建连江掀起狂浪",
+      "onboard_time": 1721919321,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74889,
       "num": 653277,
       "word": "羽毛球涨价人工合成球卖断货",
@@ -13867,6 +14019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59880,
+      "num": 232593,
+      "word": "深蓝S07上市14.99万元起",
+      "onboard_time": 1721916082,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 59499,
       "num": 296549,
       "word": "路人急流中合力救出母女3人",
@@ -13993,6 +14153,14 @@
       "onboard_time": 1721567661,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54006,
+      "num": 370366,
+      "word": "中型SUV进入油耗3时代",
+      "onboard_time": 1721918301,
+      "rank": 21,
+      "category": "汽车"
     },
     {
       "raw_hot": 53906,
@@ -14491,14 +14659,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 35660,
-      "num": 232593,
-      "word": "深蓝S07上市14.99万元起",
-      "onboard_time": 1721916082,
-      "rank": 26,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 35237,
       "num": 546525,
       "word": "被家里老人惦记有多幸福",
@@ -14561,6 +14721,14 @@
       "onboard_time": 1721681230,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 32688,
+      "num": 176514,
+      "word": "长白山酒店提前半年迎来订单高峰",
+      "onboard_time": 1721920220,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32516,
