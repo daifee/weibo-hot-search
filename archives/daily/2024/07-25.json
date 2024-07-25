@@ -1,22 +1,22 @@
 {
   "startTime": 1721838296901,
-  "endTime": 1721870615838,
+  "endTime": 1721871911459,
   "band_list": [
     {
-      "raw_hot": 1517101,
-      "num": 478272,
-      "word": "闲鱼回应用暗号开展色情交易",
-      "onboard_time": 1721863576,
-      "rank": 4,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 1476305,
-      "num": 1476305,
+      "raw_hot": 1706157,
+      "num": 1706157,
       "word": "校方通报高中生举报大学教师婚内出轨",
       "onboard_time": 1721866100,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1517101,
+      "num": 551429,
+      "word": "闲鱼回应用暗号开展色情交易",
+      "onboard_time": 1721863576,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 1358111,
@@ -27,8 +27,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 865631,
+      "num": 865631,
+      "word": "拜登谈退选原因",
+      "onboard_time": 1721868502,
+      "rank": 15,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 865622,
-      "num": 274400,
+      "num": 317149,
       "word": "李佳琦说旺旺离职不会挽留",
       "onboard_time": 1721823620,
       "rank": 20,
@@ -59,8 +67,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 718850,
-      "num": 718850,
+      "raw_hot": 719139,
+      "num": 719139,
       "word": "山东理工大学曹某被开除党籍",
       "onboard_time": 1721866459,
       "rank": 3,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 686871,
-      "num": 280430,
+      "num": 307356,
       "word": "世界上最可爱的小鼻屎诞生了",
       "onboard_time": 1721865980,
       "rank": 20,
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 656999,
-      "num": 461968,
+      "num": 550727,
       "word": "海莉不公开怀孕的原因",
       "onboard_time": 1721863757,
       "rank": 17,
@@ -115,19 +123,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 623577,
+      "num": 623577,
+      "word": "多部门展开调查兰州刺激性气味",
+      "onboard_time": 1721868022,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 589382,
       "num": 589382,
       "word": "台风",
       "onboard_time": 1721862314,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 587285,
-      "num": 587285,
-      "word": "多部门展开调查兰州刺激性气味",
-      "onboard_time": 1721868022,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -147,6 +155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 572082,
+      "num": 572082,
+      "word": "多所高校决定延长研究生学制",
+      "onboard_time": 1721870120,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 556747,
       "num": 556747,
       "word": "陕西师范大学",
@@ -164,7 +180,7 @@
     },
     {
       "raw_hot": 510360,
-      "num": 265956,
+      "num": 300556,
       "word": "瘦了50斤再穿同一件衣服的变化",
       "onboard_time": 1721863876,
       "rank": 23,
@@ -195,20 +211,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 429485,
-      "num": 429485,
-      "word": "拜登谈退选原因",
-      "onboard_time": 1721868502,
-      "rank": 15,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 406938,
       "num": 406938,
       "word": "冯雨多次点赞王一博",
       "onboard_time": 1721865017,
       "rank": 16,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 384052,
+      "num": 384052,
+      "word": "100万存5年利息少1万",
+      "onboard_time": 1721869941,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 374998,
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 369667,
-      "num": 233388,
+      "num": 240108,
       "word": "男子野泳消失找到后同事跪倒痛哭",
       "onboard_time": 1721838318,
       "rank": 28,
@@ -260,7 +276,7 @@
     },
     {
       "raw_hot": 322546,
-      "num": 253361,
+      "num": 269872,
       "word": "人一旦拎着袋子上班那基本就定型了",
       "onboard_time": 1721869160,
       "rank": 24,
@@ -289,6 +305,14 @@
       "onboard_time": 1721824700,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 292833,
+      "num": 292833,
+      "word": "LV母公司业绩会提了48次中国",
+      "onboard_time": 1721868861,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271920,
@@ -323,11 +347,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 249782,
-      "num": 249782,
-      "word": "LV母公司业绩会提了48次中国",
-      "onboard_time": 1721868861,
-      "rank": 25,
+      "raw_hot": 245742,
+      "num": 245742,
+      "word": "山东理工大学",
+      "onboard_time": 1721870599,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -419,12 +443,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 204152,
-      "num": 204152,
-      "word": "100万存5年利息少1万",
-      "onboard_time": 1721869941,
-      "rank": 34,
-      "category": "财经"
+      "raw_hot": 203881,
+      "num": 203881,
+      "word": "周深发博庆出道十周年",
+      "onboard_time": 1721871020,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 202165,
+      "num": 202165,
+      "word": "相柳我希望你忘了我",
+      "onboard_time": 1721871259,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 200625,
@@ -467,6 +499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 182857,
+      "num": 182857,
+      "word": "昌平线",
+      "onboard_time": 1721867180,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179700,
       "num": 179700,
       "word": "知情人谈生理盐水冒充疫苗操作内幕",
@@ -491,20 +531,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 175623,
-      "num": 175623,
-      "word": "多所高校决定延长研究生学制",
-      "onboard_time": 1721870120,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 170903,
-      "num": 170903,
-      "word": "昌平线",
-      "onboard_time": 1721867180,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 175598,
+      "num": 175598,
+      "word": "著名歌手席琳迪翁已抵达巴黎",
+      "onboard_time": 1721864778,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 169633,
@@ -513,14 +545,6 @@
       "onboard_time": 1721862794,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 168220,
-      "num": 168220,
-      "word": "著名歌手席琳迪翁已抵达巴黎",
-      "onboard_time": 1721864778,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 164594,
@@ -571,6 +595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148225,
+      "num": 148225,
+      "word": "Viper刷新韩服纪录",
+      "onboard_time": 1721870479,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 144437,
       "num": 144437,
       "word": "多家航司回应一人带三娃坐不了飞机",
@@ -601,14 +633,6 @@
       "onboard_time": 1721870359,
       "rank": 46,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 139965,
-      "num": 139965,
-      "word": "山东理工大学",
-      "onboard_time": 1721870599,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139625,
@@ -812,7 +836,7 @@
     },
     {
       "raw_hot": 82232,
-      "num": 225336,
+      "num": 551737,
       "word": "中国文化在法国大街回头率拉满",
       "onboard_time": 1721868199,
       "rank": 29,
@@ -931,8 +955,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 34541,
-      "num": 793517,
+      "raw_hot": 36283,
+      "num": 875255,
       "word": "万千气象看青海",
       "onboard_time": 1721826320,
       "rank": 2,
