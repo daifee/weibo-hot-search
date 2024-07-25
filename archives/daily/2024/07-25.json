@@ -1,6 +1,6 @@
 {
   "startTime": 1721838296901,
-  "endTime": 1721900077027,
+  "endTime": 1721902883052,
   "band_list": [
     {
       "raw_hot": 2644382,
@@ -147,12 +147,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1076580,
+      "num": 1076580,
+      "word": "董宇辉离职",
+      "onboard_time": 1721902699,
+      "rank": 1,
+      "category": "网红,互联网"
+    },
+    {
       "raw_hot": 1069293,
       "num": 1069293,
       "word": "高中教师表白女学生事发高考前",
       "onboard_time": 1721886258,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1048443,
+      "num": 1048443,
+      "word": "刘昊然自曝数学成绩",
+      "onboard_time": 1721898921,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 1041781,
@@ -193,6 +209,14 @@
       "onboard_time": 1721873718,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 942920,
+      "num": 581962,
+      "word": "南工大欢迎孙卓",
+      "onboard_time": 1721899400,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 902679,
@@ -291,8 +315,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 709760,
-      "num": 709760,
+      "raw_hot": 715804,
+      "num": 715804,
       "word": "人民币汇率",
       "onboard_time": 1721898021,
       "rank": 11,
@@ -395,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 618093,
+      "num": 311010,
+      "word": "工资涨了不少我却变抠门了",
+      "onboard_time": 1721898199,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 608145,
       "num": 608145,
       "word": "陈哲远当面捅了芒果后期的窝",
@@ -416,6 +448,14 @@
       "word": "台风",
       "onboard_time": 1721862314,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 586000,
+      "num": 586000,
+      "word": "孙卓",
+      "onboard_time": 1721899400,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -523,14 +563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 481454,
-      "num": 227399,
-      "word": "南工大欢迎孙卓",
-      "onboard_time": 1721899400,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 472531,
       "num": 355824,
       "word": "卖了300斤的腌水果到底有多好吃",
@@ -569,14 +601,6 @@
       "onboard_time": 1721869160,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 408891,
-      "num": 408891,
-      "word": "孙卓",
-      "onboard_time": 1721899400,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 406938,
@@ -667,14 +691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 357805,
-      "num": 357805,
-      "word": "刘昊然自曝数学成绩",
-      "onboard_time": 1721898921,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 356558,
       "num": 356558,
       "word": "齐司礼 绿色",
@@ -707,6 +723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 336038,
+      "num": 336038,
+      "word": "卢昱晓妈妈担心女儿因为工作不结婚",
+      "onboard_time": 1721899520,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 332178,
       "num": 263794,
       "word": "学校免费提供的卫生巾堆得像山",
@@ -721,6 +745,14 @@
       "onboard_time": 1721873419,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 323196,
+      "num": 307535,
+      "word": "真的很讨厌外卖点到液体勺",
+      "onboard_time": 1721901919,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 317774,
@@ -883,14 +915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 269283,
-      "num": 269283,
-      "word": "工资涨了不少我却变抠门了",
-      "onboard_time": 1721898199,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 269131,
       "num": 269131,
       "word": "全红婵赛前试跳207C",
@@ -971,6 +995,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 245960,
+      "num": 245960,
+      "word": "我妈说我姐能考上编是因为爱睡觉",
+      "onboard_time": 1721898500,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 243342,
       "num": 580641,
       "word": "为什么取消手机收费套餐这么麻烦",
@@ -1001,14 +1033,6 @@
       "onboard_time": 1721894059,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 233588,
-      "num": 233588,
-      "word": "我妈说我姐能考上编是因为爱睡觉",
-      "onboard_time": 1721898500,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 232885,
@@ -1065,14 +1089,6 @@
       "onboard_time": 1721895320,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 226875,
-      "num": 226875,
-      "word": "卢昱晓妈妈担心女儿因为工作不结婚",
-      "onboard_time": 1721899520,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 225973,
@@ -1235,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210239,
+      "num": 210239,
+      "word": "密逃6正常播出",
+      "onboard_time": 1721900480,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208092,
       "num": 208092,
       "word": "赵小童 自己做的篮筐认人",
@@ -1249,6 +1273,14 @@
       "onboard_time": 1721892021,
       "rank": 30,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 207026,
+      "num": 207026,
+      "word": "蔡徐坤上半年最佳表现歌手",
+      "onboard_time": 1721902340,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 205675,
@@ -1323,6 +1355,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 197960,
+      "num": 197960,
+      "word": "闵熙珍说郑秀晶抄袭她",
+      "onboard_time": 1721902280,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197047,
       "num": 197047,
       "word": "年轻人开始挑战用利息生活",
@@ -1347,6 +1387,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 195840,
+      "num": 195840,
+      "word": "宋亚轩把衣服穿反了",
+      "onboard_time": 1721902159,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195699,
       "num": 182190,
       "word": "肾出现问题身体会发出这4个警报",
@@ -1363,12 +1411,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 195510,
+      "num": 195510,
+      "word": "密室大逃脱大神版",
+      "onboard_time": 1721902099,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194100,
       "num": 194100,
       "word": "降息",
       "onboard_time": 1721875399,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 193920,
+      "num": 193920,
+      "word": "台风格美正在靠近福建沿海",
+      "onboard_time": 1721902220,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193771,
@@ -1425,6 +1489,14 @@
       "onboard_time": 1721823318,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 190851,
+      "num": 190851,
+      "word": "南阳三姐弟溺亡事故司机已被批捕",
+      "onboard_time": 1721902039,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190357,
@@ -1523,6 +1595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181752,
+      "num": 181752,
+      "word": "奥克尼的雨",
+      "onboard_time": 1721901919,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 180917,
       "num": 180917,
       "word": "郭晶晶以裁判身份出发巴黎",
@@ -1553,6 +1633,14 @@
       "onboard_time": 1721887760,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176658,
+      "num": 176658,
+      "word": "台风格美登陆福建位置又变了",
+      "onboard_time": 1721901980,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176198,
@@ -1676,7 +1764,7 @@
     },
     {
       "raw_hot": 167930,
-      "num": 1039182,
+      "num": 1061179,
       "word": "中国奥运项目首金高燃视频",
       "onboard_time": 1721898080,
       "rank": 2,
@@ -1795,6 +1883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160003,
+      "num": 160003,
+      "word": "官方通报南阳三姐弟溺亡事故",
+      "onboard_time": 1721901798,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158201,
       "num": 158201,
       "word": "居然有连周深都说难唱的歌",
@@ -1809,6 +1905,14 @@
       "onboard_time": 1721887939,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 157546,
+      "num": 157546,
+      "word": "刘诗雯新身份出发巴黎",
+      "onboard_time": 1721897900,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 156349,
@@ -1873,14 +1977,6 @@
       "onboard_time": 1721832081,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 149613,
-      "num": 149613,
-      "word": "刘诗雯新身份出发巴黎",
-      "onboard_time": 1721897900,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 148225,
@@ -2097,6 +2193,14 @@
       "onboard_time": 1721863095,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 110146,
+      "num": 582836,
+      "word": "东方甄选公告董宇辉离职",
+      "onboard_time": 1721902640,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109988,
@@ -2353,6 +2457,14 @@
       "onboard_time": 1721852831,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 42541,
+      "num": 582047,
+      "word": "机场等车10分钟被收20元停车费",
+      "onboard_time": 1721901798,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40824,
