@@ -1,6 +1,6 @@
 {
   "startTime": 1721924711965,
-  "endTime": 1721932633149,
+  "endTime": 1721934994340,
   "band_list": [
     {
       "raw_hot": 1002103,
@@ -411,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70052,
+      "num": 70052,
+      "word": "LV母公司股价跌超4.5%",
+      "onboard_time": 1721931192,
+      "rank": 39,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 67437,
       "num": 77418,
       "word": "台风格美登陆福建位置又变了",
@@ -433,14 +441,6 @@
       "onboard_time": 1721906242,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 45430,
-      "num": 45430,
-      "word": "LV母公司股价跌超4.5%",
-      "onboard_time": 1721931192,
-      "rank": 39,
-      "category": "时尚"
     },
     {
       "raw_hot": 44379,
@@ -491,7 +491,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 26307,
+      "raw_hot": 28455,
       "num": 30988,
       "word": "许凯差点以为自己要出道了",
       "onboard_time": 1721932391,
@@ -499,10 +499,58 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25783,
+      "num": 25783,
+      "word": "抓娃娃",
+      "onboard_time": 1721933472,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 25754,
+      "num": 25754,
+      "word": "格美逼近福州海岸现数米高大浪",
+      "onboard_time": 1721933112,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25093,
+      "num": 25093,
+      "word": "寻护者直播",
+      "onboard_time": 1721934071,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 23620,
+      "num": 23620,
+      "word": "徐明浩跳舞纯享27秒",
+      "onboard_time": 1721934612,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 22529,
+      "num": 23503,
+      "word": "ewc电竞世界杯",
+      "onboard_time": 1721933411,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 15644,
       "num": 113919,
       "word": "准大学生暑假每天送外卖到凌晨赚学费",
       "onboard_time": 1721930353,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12482,
+      "num": 70277,
+      "word": "义乌小孩姐指点老板爸爸改良产品",
+      "onboard_time": 1721933171,
       "rank": 9,
       "category": "社会新闻"
     },

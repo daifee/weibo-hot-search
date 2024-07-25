@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721932633149,
+  "endTime": 1721934994340,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -65091,6 +65091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70052,
+      "num": 70052,
+      "word": "LV母公司股价跌超4.5%",
+      "onboard_time": 1721931192,
+      "rank": 39,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 70038,
       "num": 551281,
       "word": "暑期档电影票房破45亿",
@@ -68387,14 +68395,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 45430,
-      "num": 45430,
-      "word": "LV母公司股价跌超4.5%",
-      "onboard_time": 1721931192,
-      "rank": 39,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 45389,
       "num": 372129,
       "word": "米哈游你果然背刺我了",
@@ -70755,6 +70755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28455,
+      "num": 30988,
+      "word": "许凯差点以为自己要出道了",
+      "onboard_time": 1721932391,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 28437,
       "num": 383430,
       "word": "白宫官员称拜登退选决定与健康无关",
@@ -71243,14 +71251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26307,
-      "num": 30988,
-      "word": "许凯差点以为自己要出道了",
-      "onboard_time": 1721932391,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 26274,
       "num": 293158,
       "word": "101岁抗战老兵看到祖国战机竖大拇指",
@@ -71353,6 +71353,14 @@
       "onboard_time": 1720193121,
       "rank": 37,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 25754,
+      "num": 25754,
+      "word": "格美逼近福州海岸现数米高大浪",
+      "onboard_time": 1721933112,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25710,
@@ -71497,6 +71505,14 @@
       "onboard_time": 1720432818,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 25093,
+      "num": 25093,
+      "word": "寻护者直播",
+      "onboard_time": 1721934071,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 25081,
@@ -71665,6 +71681,14 @@
       "onboard_time": 1720508718,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23620,
+      "num": 23620,
+      "word": "徐明浩跳舞纯享27秒",
+      "onboard_time": 1721934612,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 23598,
@@ -71841,6 +71865,14 @@
       "onboard_time": 1720521079,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22529,
+      "num": 23503,
+      "word": "ewc电竞世界杯",
+      "onboard_time": 1721933411,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 22440,
@@ -73169,6 +73201,14 @@
       "onboard_time": 1721250012,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12482,
+      "num": 70277,
+      "word": "义乌小孩姐指点老板爸爸改良产品",
+      "onboard_time": 1721933171,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12439,
