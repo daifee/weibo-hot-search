@@ -1,6 +1,6 @@
 {
   "startTime": 1721838296901,
-  "endTime": 1721881529656,
+  "endTime": 1721882385977,
   "band_list": [
     {
       "raw_hot": 1836788,
@@ -51,6 +51,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1330009,
+      "num": 1159992,
+      "word": "金靖不办婚礼的原因",
+      "onboard_time": 1721880259,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1169691,
+      "num": 1169691,
+      "word": "古茗监控视频曝光",
+      "onboard_time": 1721880140,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 1159829,
+      "num": 1159829,
+      "word": "14岁初中生课堂嗑药致昏迷进ICU",
+      "onboard_time": 1721880680,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1106067,
       "num": 565114,
       "word": "D社再曝闵熙珍聊天记录",
@@ -64,14 +88,6 @@
       "word": "歌手歌单",
       "onboard_time": 1721879959,
       "rank": 1,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 976941,
-      "num": 976941,
-      "word": "金靖不办婚礼的原因",
-      "onboard_time": 1721880259,
-      "rank": 3,
       "category": "综艺"
     },
     {
@@ -147,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 748649,
+      "num": 748649,
+      "word": "杨紫李现国色芳华杀青了",
+      "onboard_time": 1721880078,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 719139,
       "num": 719139,
       "word": "山东理工大学曹某被开除党籍",
@@ -161,14 +185,6 @@
       "onboard_time": 1721875037,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 712659,
-      "num": 712659,
-      "word": "古茗监控视频曝光",
-      "onboard_time": 1721880140,
-      "rank": 4,
-      "category": "美食"
     },
     {
       "raw_hot": 699250,
@@ -267,12 +283,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 583958,
-      "num": 583958,
-      "word": "杨紫李现国色芳华杀青了",
-      "onboard_time": 1721880078,
-      "rank": 8,
-      "category": "剧集"
+      "raw_hot": 576989,
+      "num": 576989,
+      "word": "中药冰淇淋一份卖到38元",
+      "onboard_time": 1721874798,
+      "rank": 47,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 556747,
@@ -297,14 +313,6 @@
       "onboard_time": 1721832801,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 518591,
-      "num": 518591,
-      "word": "14岁初中生课堂嗑药致昏迷进ICU",
-      "onboard_time": 1721880680,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 510360,
@@ -363,14 +371,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 390977,
-      "num": 390977,
-      "word": "中药冰淇淋一份卖到38元",
-      "onboard_time": 1721874798,
-      "rank": 47,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 374998,
       "num": 186216,
       "word": "女高中生举报大学教师婚内出轨",
@@ -387,12 +387,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 373906,
+      "num": 373906,
+      "word": "檀健次三部待播剧都是轻喜风",
+      "onboard_time": 1721880801,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 372904,
       "num": 372904,
       "word": "台风路径",
       "onboard_time": 1721829740,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 371992,
+      "num": 371992,
+      "word": "闵熙珍私下辱骂NewJeans成员",
+      "onboard_time": 1721881521,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 371315,
@@ -427,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 337284,
+      "num": 337284,
+      "word": "考上研究生前后的颜值变化",
+      "onboard_time": 1721878939,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 323231,
       "num": 323231,
       "word": "密室大逃脱",
@@ -443,14 +467,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 313942,
-      "num": 339313,
-      "word": "檀健次三部待播剧都是轻喜风",
-      "onboard_time": 1721880801,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 311162,
       "num": 311162,
       "word": "成毅 我们都会找到不同的出路",
@@ -465,6 +481,22 @@
       "onboard_time": 1721834662,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 299608,
+      "num": 299608,
+      "word": "花花的专属洞洞已经装不下它了",
+      "onboard_time": 1721879300,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297515,
+      "num": 297515,
+      "word": "唐诡西行捅到疯窝了",
+      "onboard_time": 1721876539,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 296456,
@@ -491,14 +523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 281802,
-      "num": 281802,
-      "word": "唐诡西行捅到疯窝了",
-      "onboard_time": 1721876539,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 280134,
       "num": 280134,
       "word": "恋与深空免五",
@@ -507,20 +531,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 278483,
+      "num": 278483,
+      "word": "NewJeans被闵熙珍吐槽胖成猪",
+      "onboard_time": 1721882360,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275776,
       "num": 275776,
       "word": "迪丽热巴为奥运健儿打call",
       "onboard_time": 1721874140,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 272800,
-      "num": 272800,
-      "word": "考上研究生前后的颜值变化",
-      "onboard_time": 1721878939,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 271920,
@@ -579,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263898,
+      "num": 263898,
+      "word": "迪丽热巴第十幕登华语新歌流行榜Top1",
+      "onboard_time": 1721882120,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 253429,
       "num": 253429,
       "word": "檀健次再演沈翊压力很大",
@@ -587,16 +619,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 251606,
-      "num": 251606,
-      "word": "花花的专属洞洞已经装不下它了",
-      "onboard_time": 1721879300,
-      "rank": 35,
+      "raw_hot": 243342,
+      "num": 580641,
+      "word": "为什么取消手机收费套餐这么麻烦",
+      "onboard_time": 1721880021,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 240971,
-      "num": 240971,
+      "raw_hot": 241293,
+      "num": 241293,
       "word": "那英回春丹真唱鲜花",
       "onboard_time": 1721881280,
       "rank": 36,
@@ -611,12 +643,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 235151,
+      "num": 235151,
+      "word": "巴黎再现2008北京奥运背包",
+      "onboard_time": 1721881100,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 232885,
       "num": 232885,
       "word": "关晓彤收到了孙颖莎的礼物",
       "onboard_time": 1721829500,
       "rank": 17,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 232883,
+      "num": 232883,
+      "word": "白宫回应拜登任内未访华",
+      "onboard_time": 1721880501,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 232736,
@@ -675,6 +723,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217195,
+      "num": 1160062,
+      "word": "这就是奥运会",
+      "onboard_time": 1721880320,
+      "rank": 2,
+      "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 214523,
+      "num": 214523,
+      "word": "日媒称牛肉饭涨价怪中国",
+      "onboard_time": 1721881399,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 214076,
       "num": 214076,
       "word": "台风格美登陆台湾宜兰",
@@ -696,6 +760,14 @@
       "word": "乒乓球",
       "onboard_time": 1721863516,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 211482,
+      "num": 211482,
+      "word": "孙颖莎王楚钦气场拉满",
+      "onboard_time": 1721880622,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -721,14 +793,6 @@
       "onboard_time": 1721863216,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206038,
-      "num": 206038,
-      "word": "白宫回应拜登任内未访华",
-      "onboard_time": 1721880501,
-      "rank": 40,
-      "category": "国内时政"
     },
     {
       "raw_hot": 203881,
@@ -761,14 +825,6 @@
       "onboard_time": 1721837419,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 197489,
-      "num": 1024976,
-      "word": "这就是奥运会",
-      "onboard_time": 1721880320,
-      "rank": 2,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 196886,
@@ -811,20 +867,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193493,
+      "num": 193493,
+      "word": "学校免费提供的卫生巾堆得像山",
+      "onboard_time": 1721882001,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192457,
       "num": 192457,
       "word": "成毅V领红衬衫",
       "onboard_time": 1721876900,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 192325,
-      "num": 192325,
-      "word": "巴黎再现2008北京奥运背包",
-      "onboard_time": 1721881100,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 191318,
@@ -883,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181414,
+      "num": 181414,
+      "word": "光与夜之恋活动",
+      "onboard_time": 1721882360,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 179700,
       "num": 179700,
       "word": "知情人谈生理盐水冒充疫苗操作内幕",
@@ -931,20 +995,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173201,
+      "num": 173201,
+      "word": "胡兵瞿颖友达以上恋人未满",
+      "onboard_time": 1721882241,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170654,
       "num": 170654,
       "word": "华为发布会定档",
       "onboard_time": 1721874919,
       "rank": 48,
       "category": "数码"
-    },
-    {
-      "raw_hot": 170204,
-      "num": 170204,
-      "word": "孙颖莎王楚钦气场拉满",
-      "onboard_time": 1721880622,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 169633,
@@ -961,14 +1025,6 @@
       "onboard_time": 1721877919,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 167505,
-      "num": 167505,
-      "word": "日媒称牛肉饭涨价怪中国",
-      "onboard_time": 1721881399,
-      "rank": 48,
-      "category": "国内时政"
     },
     {
       "raw_hot": 164594,
@@ -1177,14 +1233,6 @@
       "onboard_time": 1721834001,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 117948,
-      "num": 580641,
-      "word": "为什么取消手机收费套餐这么麻烦",
-      "onboard_time": 1721880021,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112052,
