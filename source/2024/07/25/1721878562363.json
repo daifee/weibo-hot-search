@@ -1,0 +1,410 @@
+{
+  "runTime": 1721878562363,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1802177,
+        "num": 1802177,
+        "word": "夫妻冷战三伏天车里开暖风",
+        "onboard_time": 1721872398,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1320095,
+        "num": 1320095,
+        "word": "台风格美预计今天下午到傍晚登陆福建",
+        "onboard_time": 1721877021,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13964,
+        "num": 970438,
+        "word": "万千气象看青海",
+        "onboard_time": 1721826320,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 948007,
+        "num": 948007,
+        "word": "iPhone17或将移除Plus机型",
+        "onboard_time": 1721873718,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 899966,
+        "num": 899966,
+        "word": "多所高校决定延长研究生学制",
+        "onboard_time": 1721870120,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 880384,
+        "num": 880384,
+        "word": "张家齐谈遗憾无缘巴黎奥运会",
+        "onboard_time": 1721873840,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 762562,
+        "num": 762562,
+        "word": "兰州生态环境局通报市民反映空气异味",
+        "onboard_time": 1721875579,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 718938,
+        "num": 718938,
+        "word": "唐尚珺请网友投票去不去上大学",
+        "onboard_time": 1721875037,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38006,
+        "num": 626707,
+        "word": "中介高薪诱导招工基础工资仅2490元",
+        "onboard_time": 1721877679,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59167,
+        "num": 618847,
+        "word": "汪汪队组团蹭空调被酒店邀请乘凉",
+        "onboard_time": 1721875640,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612110,
+        "num": 612110,
+        "word": "闲鱼回应用暗号开展色情交易",
+        "onboard_time": 1721863576,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 602312,
+        "num": 602312,
+        "word": "歌王之战来了5个歌王",
+        "onboard_time": 1721865739,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 515421,
+        "num": 515421,
+        "word": "田曦薇王安宇从籍籍无名到人声鼎沸",
+        "onboard_time": 1721873119,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 428402,
+        "num": 428402,
+        "word": "台风格美直角掉头了",
+        "onboard_time": 1721832920,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368234,
+        "num": 368234,
+        "word": "D社再曝闵熙珍聊天记录",
+        "onboard_time": 1721878161,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366007,
+        "num": 366007,
+        "word": "台风格美将致10余省强降雨",
+        "onboard_time": 1721866641,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362334,
+        "num": 362334,
+        "word": "让胡静演妈不是演我妈",
+        "onboard_time": 1721877260,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 358932,
+        "num": 358932,
+        "word": "100万存5年利息少1万",
+        "onboard_time": 1721869941,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 345277,
+        "num": 345277,
+        "word": "台风",
+        "onboard_time": 1721862314,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323231,
+        "num": 323231,
+        "word": "密室大逃脱",
+        "onboard_time": 1721873419,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 528570,
+        "num": 322920,
+        "word": "山东理工大学",
+        "onboard_time": 1721870599,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47848,
+        "num": 321125,
+        "word": "国字号认证的技术有多牛",
+        "onboard_time": 1721876840,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393169,
+        "num": 320598,
+        "word": "校方通报高中生举报大学教师婚内出轨",
+        "onboard_time": 1721866100,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387865,
+        "num": 318946,
+        "word": "李佳琦说旺旺离职不会挽留",
+        "onboard_time": 1721823620,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378609,
+        "num": 318182,
+        "word": "人一旦拎着袋子上班那基本就定型了",
+        "onboard_time": 1721869160,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 317774,
+        "num": 317774,
+        "word": "张若昀在路演当布洛芬",
+        "onboard_time": 1721874198,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 312610,
+        "num": 312610,
+        "word": "拜登谈退选原因",
+        "onboard_time": 1721868502,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 40451,
+        "num": 284819,
+        "word": "你会选爸妈做旅游搭子吗",
+        "onboard_time": 1721876718,
+        "rank": 27,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 203212,
+        "num": 283094,
+        "word": "马龙简历好long",
+        "onboard_time": 1721872999,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6494,
+        "num": 282230,
+        "word": "韩国宝妈因儿子搭讪失败袭警",
+        "onboard_time": 1721878519,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281802,
+        "num": 281802,
+        "word": "唐诡西行捅到疯窝了",
+        "onboard_time": 1721876539,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270971,
+        "num": 270971,
+        "word": "赵露思白色小香",
+        "onboard_time": 1721875279,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246495,
+        "num": 246495,
+        "word": "A股",
+        "onboard_time": 1721873780,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 240493,
+        "num": 240493,
+        "word": "第五人格心跳特辑",
+        "onboard_time": 1721878280,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 233677,
+        "num": 233677,
+        "word": "世界上最可爱的小鼻屎诞生了",
+        "onboard_time": 1721865980,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233429,
+        "num": 233429,
+        "word": "花儿与少年直播",
+        "onboard_time": 1721872579,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233268,
+        "num": 233268,
+        "word": "陈楚生 姑娘",
+        "onboard_time": 1721874259,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 229053,
+        "num": 229053,
+        "word": "海莉不公开怀孕的原因",
+        "onboard_time": 1721863757,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226500,
+        "num": 226500,
+        "word": "全红婵赛前试跳207C",
+        "onboard_time": 1721872460,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213624,
+        "num": 213624,
+        "word": "2NE1官宣首尔演唱会",
+        "onboard_time": 1721873300,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 211944,
+        "num": 211944,
+        "word": "中药冰淇淋一份卖到38元",
+        "onboard_time": 1721874798,
+        "rank": 40,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 198767,
+        "num": 198767,
+        "word": "迪丽热巴为奥运健儿打call",
+        "onboard_time": 1721874140,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196476,
+        "num": 196476,
+        "word": "中科大保卫处招聘要求硕士以上学历",
+        "onboard_time": 1721873119,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194100,
+        "num": 194100,
+        "word": "降息",
+        "onboard_time": 1721875399,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 191318,
+        "num": 191318,
+        "word": "咒术回战264话",
+        "onboard_time": 1721878460,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 189829,
+        "num": 189829,
+        "word": "奥运会",
+        "onboard_time": 1721877739,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183895,
+        "num": 183895,
+        "word": "瘦了50斤再穿同一件衣服的变化",
+        "onboard_time": 1721863876,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20909,
+        "num": 178580,
+        "word": "夏日观赛灵魂拍档",
+        "onboard_time": 1721873360,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175009,
+        "num": 175009,
+        "word": "蒲熠星怒音",
+        "onboard_time": 1721877860,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169179,
+        "num": 169179,
+        "word": "凡希亚唱了解密OST",
+        "onboard_time": 1721877919,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平给厦航全体员工回信#"
+    }
+  }
+}

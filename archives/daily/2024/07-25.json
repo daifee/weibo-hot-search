@@ -1,6 +1,6 @@
 {
   "startTime": 1721838296901,
-  "endTime": 1721877720177,
+  "endTime": 1721878562363,
   "band_list": [
     {
       "raw_hot": 1836788,
@@ -11,6 +11,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1802177,
+      "num": 1802177,
+      "word": "夫妻冷战三伏天车里开暖风",
+      "onboard_time": 1721872398,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1706157,
       "num": 1706157,
       "word": "校方通报高中生举报大学教师婚内出轨",
@@ -19,16 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1628745,
-      "num": 1628745,
-      "word": "夫妻冷战三伏天车里开暖风",
-      "onboard_time": 1721872398,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1517101,
-      "num": 551429,
+      "num": 612110,
       "word": "闲鱼回应用暗号开展色情交易",
       "onboard_time": 1721863576,
       "rank": 4,
@@ -43,8 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1004464,
-      "num": 1004464,
+      "raw_hot": 1320095,
+      "num": 1320095,
       "word": "台风格美预计今天下午到傍晚登陆福建",
       "onboard_time": 1721877021,
       "rank": 3,
@@ -59,20 +59,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 948007,
+      "num": 948007,
+      "word": "iPhone17或将移除Plus机型",
+      "onboard_time": 1721873718,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 902679,
       "num": 902679,
       "word": "张家齐谈遗憾无缘巴黎奥运会",
       "onboard_time": 1721873840,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 899158,
-      "num": 899158,
-      "word": "iPhone17或将移除Plus机型",
-      "onboard_time": 1721873718,
-      "rank": 22,
-      "category": "数码"
     },
     {
       "raw_hot": 865631,
@@ -115,11 +115,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 762562,
+      "num": 762562,
+      "word": "兰州生态环境局通报市民反映空气异味",
+      "onboard_time": 1721875579,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 719139,
       "num": 719139,
       "word": "山东理工大学曹某被开除党籍",
       "onboard_time": 1721866459,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 718938,
+      "num": 718938,
+      "word": "唐尚珺请网友投票去不去上大学",
+      "onboard_time": 1721875037,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -145,14 +161,6 @@
       "onboard_time": 1721865980,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 685971,
-      "num": 685971,
-      "word": "兰州生态环境局通报市民反映空气异味",
-      "onboard_time": 1721875579,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 675468,
@@ -209,14 +217,6 @@
       "onboard_time": 1721863335,
       "rank": 39,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 584174,
-      "num": 584174,
-      "word": "唐尚珺请网友投票去不去上大学",
-      "onboard_time": 1721875037,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 584147,
@@ -347,6 +347,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 368234,
+      "num": 368234,
+      "word": "D社再曝闵熙珍聊天记录",
+      "onboard_time": 1721878161,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 362334,
+      "num": 362334,
+      "word": "让胡静演妈不是演我妈",
+      "onboard_time": 1721877260,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 347306,
       "num": 347306,
       "word": "拜登退选演讲",
@@ -363,20 +379,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 323231,
+      "num": 323231,
+      "word": "密室大逃脱",
+      "onboard_time": 1721873419,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 317774,
+      "num": 317774,
+      "word": "张若昀在路演当布洛芬",
+      "onboard_time": 1721874198,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 311162,
       "num": 311162,
       "word": "成毅 我们都会找到不同的出路",
       "onboard_time": 1721833281,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 310853,
-      "num": 310853,
-      "word": "密室大逃脱",
-      "onboard_time": 1721873419,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 303416,
@@ -411,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281802,
+      "num": 281802,
+      "word": "唐诡西行捅到疯窝了",
+      "onboard_time": 1721876539,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 275776,
       "num": 275776,
       "word": "迪丽热巴为奥运健儿打call",
@@ -425,6 +457,14 @@
       "onboard_time": 1721838437,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 270971,
+      "num": 270971,
+      "word": "赵露思白色小香",
+      "onboard_time": 1721875279,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 269619,
@@ -467,14 +507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256438,
-      "num": 256438,
-      "word": "赵露思白色小香",
-      "onboard_time": 1721875279,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 253429,
       "num": 253429,
       "word": "檀健次再演沈翊压力很大",
@@ -483,20 +515,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 243531,
-      "num": 243531,
-      "word": "张若昀在路演当布洛芬",
-      "onboard_time": 1721874198,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 240692,
-      "num": 240692,
-      "word": "唐诡西行捅到疯窝了",
-      "onboard_time": 1721876539,
-      "rank": 32,
-      "category": "剧集"
+      "raw_hot": 240493,
+      "num": 240493,
+      "word": "第五人格心跳特辑",
+      "onboard_time": 1721878280,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 232885,
@@ -571,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211944,
+      "num": 211944,
+      "word": "中药冰淇淋一份卖到38元",
+      "onboard_time": 1721874798,
+      "rank": 47,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 210931,
       "num": 210931,
       "word": "知名痔疮药涨价20多倍还断货",
@@ -619,14 +651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 200738,
-      "num": 200738,
-      "word": "让胡静演妈不是演我妈",
-      "onboard_time": 1721877260,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 200625,
       "num": 200625,
       "word": "阿根廷国奥绝平",
@@ -641,6 +665,14 @@
       "onboard_time": 1721823921,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 194100,
+      "num": 194100,
+      "word": "降息",
+      "onboard_time": 1721875399,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 193771,
@@ -667,12 +699,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 191803,
-      "num": 191803,
-      "word": "降息",
-      "onboard_time": 1721875399,
-      "rank": 48,
-      "category": "财经"
+      "raw_hot": 191318,
+      "num": 191318,
+      "word": "咒术回战264话",
+      "onboard_time": 1721878460,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 191113,
@@ -681,6 +713,14 @@
       "onboard_time": 1721823318,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 189829,
+      "num": 189829,
+      "word": "奥运会",
+      "onboard_time": 1721877739,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 189328,
@@ -755,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175009,
+      "num": 175009,
+      "word": "蒲熠星怒音",
+      "onboard_time": 1721877860,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170654,
       "num": 170654,
       "word": "华为发布会定档",
@@ -769,6 +817,14 @@
       "onboard_time": 1721862794,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 169179,
+      "num": 169179,
+      "word": "凡希亚唱了解密OST",
+      "onboard_time": 1721877919,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 164594,
@@ -817,14 +873,6 @@
       "onboard_time": 1721872279,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153296,
-      "num": 153296,
-      "word": "中药冰淇淋一份卖到38元",
-      "onboard_time": 1721874798,
-      "rank": 47,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 152629,
@@ -1163,20 +1211,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59167,
+      "num": 618847,
+      "word": "汪汪队组团蹭空调被酒店邀请乘凉",
+      "onboard_time": 1721875640,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58881,
       "num": 58881,
       "word": "阿根廷国奥1比2摩洛哥国奥",
       "onboard_time": 1721842634,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 58489,
-      "num": 256874,
-      "word": "汪汪队组团蹭空调被酒店邀请乘凉",
-      "onboard_time": 1721875640,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 56271,
@@ -1241,6 +1289,14 @@
       "onboard_time": 1721842513,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 38006,
+      "num": 626707,
+      "word": "中介高薪诱导招工基础工资仅2490元",
+      "onboard_time": 1721877679,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36283,
@@ -1339,19 +1395,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9036,
-      "num": 545256,
-      "word": "中介高薪诱导招工基础工资仅2490元",
-      "onboard_time": 1721877679,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 7440,
       "num": 55213,
       "word": "因无人应答房东报警救下热昏迷租客",
       "onboard_time": 1721847912,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6494,
+      "num": 282230,
+      "word": "韩国宝妈因儿子搭讪失败袭警",
+      "onboard_time": 1721878519,
+      "rank": 29,
       "category": "社会新闻"
     }
   ],
