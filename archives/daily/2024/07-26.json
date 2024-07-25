@@ -1,6 +1,6 @@
 {
   "startTime": 1721924711965,
-  "endTime": 1721945967881,
+  "endTime": 1721946948319,
   "band_list": [
     {
       "raw_hot": 1002103,
@@ -163,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231561,
+      "num": 231561,
+      "word": "台风格美实时路径",
+      "onboard_time": 1721936352,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216345,
       "num": 216345,
       "word": "刘梓晨",
@@ -179,11 +187,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 181289,
-      "num": 181289,
-      "word": "台风格美实时路径",
-      "onboard_time": 1721936352,
-      "rank": 15,
+      "raw_hot": 169893,
+      "num": 119542,
+      "word": "三亚酒店暴跌游客都去哪儿了",
+      "onboard_time": 1721925077,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -201,6 +209,14 @@
       "onboard_time": 1721911460,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152144,
+      "num": 152144,
+      "word": "张云龙 还在那抱",
+      "onboard_time": 1721943491,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 148638,
@@ -233,14 +249,6 @@
       "onboard_time": 1721923518,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 129804,
-      "num": 119542,
-      "word": "三亚酒店暴跌游客都去哪儿了",
-      "onboard_time": 1721925077,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129685,
@@ -411,14 +419,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 83245,
-      "num": 83245,
-      "word": "张云龙 还在那抱",
-      "onboard_time": 1721943491,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 80014,
       "num": 121334,
       "word": "脱胎换骨式减肥法",
@@ -475,6 +475,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 38614,
+      "num": 38614,
+      "word": "古代的吸管杯又美又潮",
+      "onboard_time": 1721941631,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36993,
       "num": 36993,
       "word": "永劫无间",
@@ -491,19 +499,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 32138,
-      "num": 32138,
-      "word": "古代的吸管杯又美又潮",
-      "onboard_time": 1721941631,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30696,
       "num": 32676,
       "word": "微博旅行家",
       "onboard_time": 1721931433,
       "rank": 47,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 30201,
+      "num": 33541,
+      "word": "被天空之镜惊艳到了",
+      "onboard_time": 1721940251,
+      "rank": 42,
       "category": "旅游"
     },
     {
@@ -515,20 +523,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29617,
+      "num": 33540,
+      "word": "格美逼近福州海岸现数米高大浪",
+      "onboard_time": 1721933112,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29309,
       "num": 32673,
       "word": "原神",
       "onboard_time": 1721929393,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 28712,
-      "num": 30129,
-      "word": "被天空之镜惊艳到了",
-      "onboard_time": 1721940251,
-      "rank": 42,
-      "category": "旅游"
     },
     {
       "raw_hot": 28455,
@@ -539,11 +547,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 26361,
-      "num": 30113,
-      "word": "格美逼近福州海岸现数米高大浪",
-      "onboard_time": 1721933112,
-      "rank": 40,
+      "raw_hot": 28036,
+      "num": 33540,
+      "word": "福建莆田进入台风七级风圈",
+      "onboard_time": 1721941391,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27517,
+      "num": 70277,
+      "word": "义乌小孩姐指点老板爸爸改良产品",
+      "onboard_time": 1721933171,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -555,12 +571,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 25196,
-      "num": 70277,
-      "word": "义乌小孩姐指点老板爸爸改良产品",
-      "onboard_time": 1721933171,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 25216,
+      "num": 33539,
+      "word": "樊振东说不会让拿金牌成自己的包袱",
+      "onboard_time": 1721938991,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 25093,
@@ -571,20 +587,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 25092,
+      "num": 33539,
+      "word": "台风格美或致福建浙江极端降雨",
+      "onboard_time": 1721938631,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23620,
       "num": 23620,
       "word": "徐明浩跳舞纯享27秒",
       "onboard_time": 1721934612,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 22990,
-      "num": 30105,
-      "word": "台风格美或致福建浙江极端降雨",
-      "onboard_time": 1721938631,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22529,
@@ -595,20 +611,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 22148,
-      "num": 30102,
-      "word": "樊振东说不会让拿金牌成自己的包袱",
-      "onboard_time": 1721938991,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 22468,
+      "num": 33538,
+      "word": "罗保铭被查",
+      "onboard_time": 1721941030,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 21926,
-      "num": 30096,
-      "word": "福建莆田进入台风七级风圈",
-      "onboard_time": 1721941391,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 21789,
+      "num": 66587,
+      "word": "奥运版流动的盛宴",
+      "onboard_time": 1721932633,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 21437,
@@ -617,14 +633,6 @@
       "onboard_time": 1721935331,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 20726,
-      "num": 66587,
-      "word": "奥运版流动的盛宴",
-      "onboard_time": 1721932633,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 19098,
@@ -640,14 +648,6 @@
       "word": "准大学生暑假每天送外卖到凌晨赚学费",
       "onboard_time": 1721930353,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15414,
-      "num": 21929,
-      "word": "罗保铭被查",
-      "onboard_time": 1721941030,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
