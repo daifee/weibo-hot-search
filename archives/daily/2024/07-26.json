@@ -1,6 +1,6 @@
 {
   "startTime": 1721924711965,
-  "endTime": 1721943287128,
+  "endTime": 1721945967881,
   "band_list": [
     {
       "raw_hot": 1002103,
@@ -179,6 +179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 181289,
+      "num": 181289,
+      "word": "台风格美实时路径",
+      "onboard_time": 1721936352,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163550,
       "num": 163550,
       "word": "还我妈生鼻",
@@ -273,14 +281,6 @@
       "onboard_time": 1721915000,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 124280,
-      "num": 124280,
-      "word": "台风格美实时路径",
-      "onboard_time": 1721936352,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124267,
@@ -387,6 +387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 85399,
+      "num": 85399,
+      "word": "哈里斯与特朗普谁的胜算更大",
+      "onboard_time": 1721938813,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85272,
       "num": 121348,
       "word": "台风格美在福建连江掀起狂浪",
@@ -401,6 +409,14 @@
       "onboard_time": 1721931192,
       "rank": 39,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 83245,
+      "num": 83245,
+      "word": "张云龙 还在那抱",
+      "onboard_time": 1721943491,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 80014,
@@ -432,14 +448,6 @@
       "word": "台风格美登陆福建位置又变了",
       "onboard_time": 1721901980,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66853,
-      "num": 66853,
-      "word": "哈里斯与特朗普谁的胜算更大",
-      "onboard_time": 1721938813,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -483,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32138,
+      "num": 32138,
+      "word": "古代的吸管杯又美又潮",
+      "onboard_time": 1721941631,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30696,
       "num": 32676,
       "word": "微博旅行家",
@@ -507,6 +523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 28712,
+      "num": 30129,
+      "word": "被天空之镜惊艳到了",
+      "onboard_time": 1721940251,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 28455,
       "num": 30988,
       "word": "许凯差点以为自己要出道了",
@@ -516,7 +540,7 @@
     },
     {
       "raw_hot": 26361,
-      "num": 26361,
+      "num": 30113,
       "word": "格美逼近福州海岸现数米高大浪",
       "onboard_time": 1721933112,
       "rank": 40,
@@ -531,20 +555,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 25196,
+      "num": 70277,
+      "word": "义乌小孩姐指点老板爸爸改良产品",
+      "onboard_time": 1721933171,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25093,
       "num": 25093,
       "word": "寻护者直播",
       "onboard_time": 1721934071,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 24374,
-      "num": 70277,
-      "word": "义乌小孩姐指点老板爸爸改良产品",
-      "onboard_time": 1721933171,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23620,
@@ -555,12 +579,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 22990,
+      "num": 30105,
+      "word": "台风格美或致福建浙江极端降雨",
+      "onboard_time": 1721938631,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22529,
       "num": 23503,
       "word": "ewc电竞世界杯",
       "onboard_time": 1721933411,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 22148,
+      "num": 30102,
+      "word": "樊振东说不会让拿金牌成自己的包袱",
+      "onboard_time": 1721938991,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 21926,
+      "num": 30096,
+      "word": "福建莆田进入台风七级风圈",
+      "onboard_time": 1721941391,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21437,
@@ -579,52 +627,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 20639,
-      "num": 21942,
-      "word": "台风格美或致福建浙江极端降雨",
-      "onboard_time": 1721938631,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19798,
-      "num": 21941,
-      "word": "古代的吸管杯又美又潮",
-      "onboard_time": 1721941631,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 19098,
       "num": 22137,
       "word": "大同丈母娘的刀削面在巴黎火了",
       "onboard_time": 1721936052,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18466,
-      "num": 21938,
-      "word": "福建莆田进入台风七级风圈",
-      "onboard_time": 1721941391,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17736,
-      "num": 21935,
-      "word": "被天空之镜惊艳到了",
-      "onboard_time": 1721940251,
-      "rank": 42,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 17193,
-      "num": 21934,
-      "word": "樊振东说不会让拿金牌成自己的包袱",
-      "onboard_time": 1721938991,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 15644,

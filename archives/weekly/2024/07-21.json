@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721943287128,
+  "endTime": 1721945967881,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -9859,6 +9859,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 181289,
+      "num": 181289,
+      "word": "台风格美实时路径",
+      "onboard_time": 1721936352,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181154,
       "num": 181154,
       "word": "颖儿金晨同游马尔代夫",
@@ -12731,14 +12739,6 @@
       "category": "健康医疗,科学科普"
     },
     {
-      "raw_hot": 124280,
-      "num": 124280,
-      "word": "台风格美实时路径",
-      "onboard_time": 1721936352,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124091,
       "num": 124091,
       "word": "歌手总决赛赛制",
@@ -13459,6 +13459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85399,
+      "num": 85399,
+      "word": "哈里斯与特朗普谁的胜算更大",
+      "onboard_time": 1721938813,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84964,
       "num": 84964,
       "word": "自驾阿姨说花16万离婚几乎倾家荡产",
@@ -13521,6 +13529,14 @@
       "onboard_time": 1721804419,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83245,
+      "num": 83245,
+      "word": "张云龙 还在那抱",
+      "onboard_time": 1721943491,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 83068,
@@ -13984,14 +14000,6 @@
       "word": "韩国一老师多次拍打患脑瘤男童头部",
       "onboard_time": 1721794881,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66853,
-      "num": 66853,
-      "word": "哈里斯与特朗普谁的胜算更大",
-      "onboard_time": 1721938813,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -14859,6 +14867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32138,
+      "num": 32138,
+      "word": "古代的吸管杯又美又潮",
+      "onboard_time": 1721941631,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31899,
       "num": 41467,
       "word": "汪苏泷我想念一周年",
@@ -14969,6 +14985,14 @@
       "onboard_time": 1721591531,
       "rank": 42,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 28712,
+      "num": 30129,
+      "word": "被天空之镜惊艳到了",
+      "onboard_time": 1721940251,
+      "rank": 42,
+      "category": "旅游"
     },
     {
       "raw_hot": 28455,
@@ -15100,7 +15124,7 @@
     },
     {
       "raw_hot": 26361,
-      "num": 26361,
+      "num": 30113,
       "word": "格美逼近福州海岸现数米高大浪",
       "onboard_time": 1721933112,
       "rank": 40,
@@ -15139,20 +15163,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25196,
+      "num": 70277,
+      "word": "义乌小孩姐指点老板爸爸改良产品",
+      "onboard_time": 1721933171,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25093,
       "num": 25093,
       "word": "寻护者直播",
       "onboard_time": 1721934071,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 24374,
-      "num": 70277,
-      "word": "义乌小孩姐指点老板爸爸改良产品",
-      "onboard_time": 1721933171,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24303,
@@ -15201,6 +15225,14 @@
       "onboard_time": 1721491881,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 22990,
+      "num": 30105,
+      "word": "台风格美或致福建浙江极端降雨",
+      "onboard_time": 1721938631,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22983,
@@ -15259,12 +15291,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22148,
+      "num": 30102,
+      "word": "樊振东说不会让拿金牌成自己的包袱",
+      "onboard_time": 1721938991,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 22114,
       "num": 427690,
       "word": "2024美国大选背后有哪些政治算计",
       "onboard_time": 1721640621,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 21926,
+      "num": 30096,
+      "word": "福建莆田进入台风七级风圈",
+      "onboard_time": 1721941391,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21647,
@@ -15339,14 +15387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 20639,
-      "num": 21942,
-      "word": "台风格美或致福建浙江极端降雨",
-      "onboard_time": 1721938631,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 20594,
       "num": 27083,
       "word": "姜妍虞书欣 姐狗文学",
@@ -15369,14 +15409,6 @@
       "onboard_time": 1721705240,
       "rank": 46,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 19798,
-      "num": 21941,
-      "word": "古代的吸管杯又美又潮",
-      "onboard_time": 1721941631,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19117,
@@ -15409,14 +15441,6 @@
       "onboard_time": 1721584752,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 18466,
-      "num": 21938,
-      "word": "福建莆田进入台风七级风圈",
-      "onboard_time": 1721941391,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18383,
@@ -15459,28 +15483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17736,
-      "num": 21935,
-      "word": "被天空之镜惊艳到了",
-      "onboard_time": 1721940251,
-      "rank": 42,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 17443,
       "num": 105451,
       "word": "婆婆上班式宠媳每天走1小时做饭",
       "onboard_time": 1721753656,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17193,
-      "num": 21934,
-      "word": "樊振东说不会让拿金牌成自己的包袱",
-      "onboard_time": 1721938991,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 16952,
