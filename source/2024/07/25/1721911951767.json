@@ -1,0 +1,410 @@
+{
+  "runTime": 1721911951767,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1456433,
+        "num": 1456433,
+        "word": "还我妈生鼻",
+        "onboard_time": 1721906242,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1093339,
+        "num": 1093339,
+        "word": "台风格美在福建沿海登陆",
+        "onboard_time": 1721909360,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99797,
+        "num": 771535,
+        "word": "中国奥运项目首金高燃视频",
+        "onboard_time": 1721898080,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1762323,
+        "num": 751197,
+        "word": "董宇辉7658万收购与辉同行",
+        "onboard_time": 1721904142,
+        "rank": 3,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 565045,
+        "num": 565045,
+        "word": "九尾 手伤",
+        "onboard_time": 1721908161,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 523969,
+        "num": 523969,
+        "word": "台风登陆",
+        "onboard_time": 1721911219,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 957070,
+        "num": 508586,
+        "word": "偶遇霍思燕带女儿喝下午茶",
+        "onboard_time": 1721909060,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 759212,
+        "num": 488914,
+        "word": "夏之光 亲什么嘴儿啊",
+        "onboard_time": 1721909000,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 435715,
+        "num": 435715,
+        "word": "孙卓已被南京工业大学录取",
+        "onboard_time": 1721895559,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55493,
+        "num": 428196,
+        "word": "老破小现在值得入手吗",
+        "onboard_time": 1721911219,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2571381,
+        "num": 427456,
+        "word": "董宇辉离职",
+        "onboard_time": 1721902699,
+        "rank": 10,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 535875,
+        "num": 427197,
+        "word": "刘耀文头像",
+        "onboard_time": 1721906541,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425059,
+        "num": 425059,
+        "word": "密室大神版 svip还要收费",
+        "onboard_time": 1721906242,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1318591,
+        "num": 418282,
+        "word": "俞敏洪称公司是送给董宇辉的",
+        "onboard_time": 1721907082,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409408,
+        "num": 409408,
+        "word": "深圳地铁",
+        "onboard_time": 1721908460,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53166,
+        "num": 383042,
+        "word": "华为联手深蓝剑指外资主流",
+        "onboard_time": 1721907441,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 769984,
+        "num": 380571,
+        "word": "东方甄选公告董宇辉离职",
+        "onboard_time": 1721902640,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368756,
+        "num": 368756,
+        "word": "中国游泳队身上全是火罐印",
+        "onboard_time": 1721892680,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287601,
+        "num": 360667,
+        "word": "美国男子奸杀8岁女孩抛尸垃圾箱",
+        "onboard_time": 1721901139,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593971,
+        "num": 342101,
+        "word": "董宇辉回应离职",
+        "onboard_time": 1721903482,
+        "rank": 19,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 629880,
+        "num": 320181,
+        "word": "真的很讨厌外卖点到液体勺",
+        "onboard_time": 1721901919,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 443818,
+        "num": 303070,
+        "word": "台风格美登陆福建位置又变了",
+        "onboard_time": 1721901980,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300596,
+        "num": 300596,
+        "word": "披荆斩棘4返场哥哥投票",
+        "onboard_time": 1721903842,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298285,
+        "num": 298285,
+        "word": "TFBOYS头发梳成大人模样是凯妈做的",
+        "onboard_time": 1721910620,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279909,
+        "num": 279909,
+        "word": "河南小伙高考529分被清华录取",
+        "onboard_time": 1721910920,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279682,
+        "num": 279682,
+        "word": "刘昊然自曝数学成绩",
+        "onboard_time": 1721898921,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 237599,
+        "num": 237599,
+        "word": "半夜保养是一种心理安慰吗",
+        "onboard_time": 1721910679,
+        "rank": 26,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 234489,
+        "num": 234489,
+        "word": "巴黎奥运 告白气球塌房",
+        "onboard_time": 1721908039,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233063,
+        "num": 233063,
+        "word": "孙海洋晒孙卓录取通知书",
+        "onboard_time": 1721908340,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43113,
+        "num": 232511,
+        "word": "欧米茄宣传片好燃",
+        "onboard_time": 1721909300,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231965,
+        "num": 231965,
+        "word": "密室大逃脱 举报",
+        "onboard_time": 1721889319,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228339,
+        "num": 228339,
+        "word": "为啥打耳洞不会有肉被捅出来",
+        "onboard_time": 1721910320,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226200,
+        "num": 226200,
+        "word": "宁肯赔3万也不道歉",
+        "onboard_time": 1721906601,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37556,
+        "num": 221509,
+        "word": "20万内唯一搭载华为智驾SUV",
+        "onboard_time": 1721911279,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 221301,
+        "num": 221301,
+        "word": "亲戚催婚时好像说漏嘴了",
+        "onboard_time": 1721910860,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216819,
+        "num": 216819,
+        "word": "梦之队花式登场秀",
+        "onboard_time": 1721911340,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 215926,
+        "num": 215926,
+        "word": "南工大欢迎孙卓",
+        "onboard_time": 1721899400,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208853,
+        "num": 208853,
+        "word": "杨旭文 唐诡2嫡掌子",
+        "onboard_time": 1721911340,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202565,
+        "num": 202565,
+        "word": "终于知道刘昊然去年为什么那么瘦了",
+        "onboard_time": 1721910799,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200969,
+        "num": 200969,
+        "word": "黄明昊在十个勤天中都i起来了",
+        "onboard_time": 1721911519,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197510,
+        "num": 197510,
+        "word": "当代年轻人的电子妆容有多离谱",
+        "onboard_time": 1721910320,
+        "rank": 40,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 182957,
+        "num": 182957,
+        "word": "陶喆抢票",
+        "onboard_time": 1721909960,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179819,
+        "num": 179819,
+        "word": "这场巴黎街头的汉服秀好city",
+        "onboard_time": 1721911580,
+        "rank": 42,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 172020,
+        "num": 172020,
+        "word": "台风格美影响或波及10余省份",
+        "onboard_time": 1721911460,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170257,
+        "num": 170257,
+        "word": "樊振东 死亡下半区",
+        "onboard_time": 1721891420,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169659,
+        "num": 169659,
+        "word": "闵熙珍说郑秀晶抄袭她",
+        "onboard_time": 1721902280,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163741,
+        "num": 163741,
+        "word": "俞敏洪感谢董宇辉",
+        "onboard_time": 1721907082,
+        "rank": 46,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 162702,
+        "num": 162702,
+        "word": "道枝骏佑直播",
+        "onboard_time": 1721905224,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155528,
+        "num": 155528,
+        "word": "应聘时HR拿着我的简历在手抖",
+        "onboard_time": 1721903781,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149808,
+        "num": 149808,
+        "word": "王一博又飒又A",
+        "onboard_time": 1721910200,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#完善国家创新体系#"
+    }
+  }
+}
