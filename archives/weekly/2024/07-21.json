@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721914449315,
+  "endTime": 1721917095348,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -899,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1225021,
+      "num": 775818,
+      "word": "刘梓晨",
+      "onboard_time": 1721912959,
+      "rank": 17,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1222249,
       "num": 563984,
       "word": "65岁退休",
@@ -1089,6 +1097,14 @@
       "onboard_time": 1721634680,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1104876,
+      "num": 659043,
+      "word": "马子佳结婚了",
+      "onboard_time": 1721915660,
+      "rank": 6,
+      "category": "网红"
     },
     {
       "raw_hot": 1101772,
@@ -1723,6 +1739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 845905,
+      "num": 235712,
+      "word": "上海抑郁症患病率全国第一",
+      "onboard_time": 1721914280,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 845315,
       "num": 845315,
       "word": "莲花楼登爱奇艺热搜榜第一",
@@ -1915,14 +1939,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 775818,
-      "num": 775818,
-      "word": "刘梓晨",
-      "onboard_time": 1721912959,
-      "rank": 17,
-      "category": "网红"
-    },
-    {
       "raw_hot": 775542,
       "num": 320181,
       "word": "真的很讨厌外卖点到液体勺",
@@ -1969,6 +1985,14 @@
       "onboard_time": 1721538318,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 763737,
+      "num": 549671,
+      "word": "宋亚轩 我再也不玩抽象了",
+      "onboard_time": 1721914821,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 762562,
@@ -2395,6 +2419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 671447,
+      "num": 671447,
+      "word": "台风登陆",
+      "onboard_time": 1721911219,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 670039,
       "num": 670039,
       "word": "泫雅表演时台下无人应援",
@@ -2544,14 +2576,6 @@
       "word": "140元药卖患者2980元",
       "onboard_time": 1721700740,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 634101,
-      "num": 634101,
-      "word": "台风登陆",
-      "onboard_time": 1721911219,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -3209,6 +3233,14 @@
       "onboard_time": 1721896401,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 523679,
+      "num": 523679,
+      "word": "你好种地少年",
+      "onboard_time": 1721916860,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 522420,
@@ -5283,6 +5315,14 @@
       "category": "网红,互联网"
     },
     {
+      "raw_hot": 296178,
+      "num": 233562,
+      "word": "前台是未成年还吃辣条",
+      "onboard_time": 1721915121,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 296120,
       "num": 296120,
       "word": "宗馥莉",
@@ -5435,6 +5475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290482,
+      "num": 290482,
+      "word": "开心消消乐连不上网",
+      "onboard_time": 1721915301,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 289942,
       "num": 289942,
       "word": "陈昊宇陈丽君版白娘子许仙",
@@ -5489,6 +5537,14 @@
       "onboard_time": 1721659583,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 286272,
+      "num": 286272,
+      "word": "第一次见乌龟长得这么水灵",
+      "onboard_time": 1721915000,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 285796,
@@ -6433,6 +6489,14 @@
       "onboard_time": 1721824580,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 239323,
+      "num": 232452,
+      "word": "心动的信号",
+      "onboard_time": 1721915841,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 239199,
@@ -7419,6 +7483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213331,
+      "num": 213331,
+      "word": "王玉雯说张新成压抑了很多年",
+      "onboard_time": 1721915601,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213258,
       "num": 213258,
       "word": "唐朝诡事录把文物带火了",
@@ -8099,6 +8171,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 201286,
+      "num": 201286,
+      "word": "一诺说要保护九尾",
+      "onboard_time": 1721914162,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 201054,
       "num": 201054,
       "word": "是女刘烨不是男刘烨",
@@ -8225,14 +8305,6 @@
       "onboard_time": 1721721441,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 199371,
-      "num": 199371,
-      "word": "上海抑郁症患病率全国第一",
-      "onboard_time": 1721914280,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199315,
@@ -8489,6 +8561,14 @@
       "onboard_time": 1721910380,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 197213,
+      "num": 563785,
+      "word": "油价降了",
+      "onboard_time": 1721915000,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 197109,
@@ -9553,6 +9633,14 @@
       "onboard_time": 1721642543,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 182011,
+      "num": 182011,
+      "word": "00后小将冲击中国队首金",
+      "onboard_time": 1721916561,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 181978,
@@ -11179,6 +11267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155577,
+      "num": 155577,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1721915660,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 155557,
       "num": 155557,
       "word": "相柳",
@@ -12419,14 +12515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123527,
-      "num": 123527,
-      "word": "一诺说要保护九尾",
-      "onboard_time": 1721914162,
-      "rank": 48,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 123474,
       "num": 123474,
       "word": "肖战宋威龙同款",
@@ -13075,6 +13163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88622,
+      "num": 373583,
+      "word": "为什么260万用户都选比亚迪宋",
+      "onboard_time": 1721912662,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 88401,
       "num": 544030,
       "word": "有一种美叫大女主的美",
@@ -13097,14 +13193,6 @@
       "onboard_time": 1721571861,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87479,
-      "num": 373583,
-      "word": "为什么260万用户都选比亚迪宋",
-      "onboard_time": 1721912662,
-      "rank": 15,
-      "category": "汽车"
     },
     {
       "raw_hot": 86050,
@@ -13345,6 +13433,14 @@
       "onboard_time": 1721567180,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 75940,
+      "num": 391258,
+      "word": "20万内唯一搭载华为智驾SUV",
+      "onboard_time": 1721911279,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 75780,
@@ -13673,14 +13769,6 @@
       "onboard_time": 1721818818,
       "rank": 14,
       "category": "社会新闻,国外时政"
-    },
-    {
-      "raw_hot": 62027,
-      "num": 391258,
-      "word": "20万内唯一搭载华为智驾SUV",
-      "onboard_time": 1721911279,
-      "rank": 33,
-      "category": "汽车"
     },
     {
       "raw_hot": 61901,
@@ -14355,6 +14443,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 35660,
+      "num": 232593,
+      "word": "深蓝S07上市14.99万元起",
+      "onboard_time": 1721916082,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 35237,
       "num": 546525,
       "word": "被家里老人惦记有多幸福",
@@ -14417,6 +14513,14 @@
       "onboard_time": 1721681230,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 32519,
+      "num": 234186,
+      "word": "第五代DM技术造就工业奇迹宋L",
+      "onboard_time": 1721914760,
+      "rank": 23,
+      "category": "汽车"
     },
     {
       "raw_hot": 32516,
@@ -14673,6 +14777,14 @@
       "onboard_time": 1721873360,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24116,
+      "num": 183933,
+      "word": "新能源下半场拼油耗更拼智驾",
+      "onboard_time": 1721914760,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 24108,
