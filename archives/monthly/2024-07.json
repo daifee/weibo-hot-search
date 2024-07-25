@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721946948319,
+  "endTime": 1721949681186,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -14411,6 +14411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 499935,
+      "num": 499935,
+      "word": "张云龙 还在那抱",
+      "onboard_time": 1721943491,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 499848,
       "num": 499848,
       "word": "敖子逸 小鬼",
@@ -15521,6 +15529,14 @@
       "onboard_time": 1720491078,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 473977,
+      "num": 164361,
+      "word": "一县委书记被举报涉嫌性侵女下属",
+      "onboard_time": 1721948655,
+      "rank": 10,
+      "category": "社会负面"
     },
     {
       "raw_hot": 473830,
@@ -18761,6 +18777,14 @@
       "onboard_time": 1721451981,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 405435,
+      "num": 119542,
+      "word": "三亚酒店暴跌游客都去哪儿了",
+      "onboard_time": 1721925077,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 405265,
@@ -27219,6 +27243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 263035,
+      "num": 263035,
+      "word": "台风格美实时路径",
+      "onboard_time": 1721936352,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262996,
       "num": 195993,
       "word": "摩羯座主动打电话的含金量",
@@ -30425,14 +30457,6 @@
       "onboard_time": 1720261399,
       "rank": 31,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 231561,
-      "num": 231561,
-      "word": "台风格美实时路径",
-      "onboard_time": 1721936352,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 231523,
@@ -44491,14 +44515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169893,
-      "num": 119542,
-      "word": "三亚酒店暴跌游客都去哪儿了",
-      "onboard_time": 1721925077,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169872,
       "num": 169872,
       "word": "娜然在内娱闯出妩魅系赛道",
@@ -49067,14 +49083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152144,
-      "num": 152144,
-      "word": "张云龙 还在那抱",
-      "onboard_time": 1721943491,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 152101,
       "num": 152101,
       "word": "00后参与暴拉股价22900%",
@@ -53195,6 +53203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136816,
+      "num": 117084,
+      "word": "戴了五年美瞳把眼睛寿命磨损完了",
+      "onboard_time": 1721949195,
+      "rank": 21,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 136799,
       "num": 136799,
       "word": "花傲天杯赛程",
@@ -55555,6 +55571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 128066,
+      "num": 115737,
+      "word": "南科大录取通知书被指用错的地",
+      "onboard_time": 1721948534,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128037,
       "num": 128037,
       "word": "李蓉裴文宣雪天烟花吻",
@@ -56145,6 +56169,14 @@
       "onboard_time": 1721021898,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125750,
+      "num": 125750,
+      "word": "哈里斯与特朗普谁的胜算更大",
+      "onboard_time": 1721938813,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125710,
@@ -59009,6 +59041,14 @@
       "onboard_time": 1720488077,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114104,
+      "num": 114104,
+      "word": "体重将近200斤的美国恶霸犬",
+      "onboard_time": 1721949195,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 114094,
@@ -62051,6 +62091,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 97808,
+      "num": 97808,
+      "word": "商贷利率逼近公积金",
+      "onboard_time": 1721948534,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 97777,
       "num": 97777,
       "word": "普华永道丢掉前8大客户",
@@ -63179,6 +63227,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 89053,
+      "num": 89053,
+      "word": "论我26号晚上会有多忙",
+      "onboard_time": 1721949255,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88971,
       "num": 88971,
       "word": "我们所认识的胡友平",
@@ -63395,6 +63451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 87073,
+      "num": 87073,
+      "word": "娜扎让陈哲远管管梁洁",
+      "onboard_time": 1721947634,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 87042,
       "num": 898953,
       "word": "我国高温超导体研究获新突破",
@@ -63536,14 +63600,6 @@
       "word": "3名小学生分工一条龙式帮救火",
       "onboard_time": 1720930525,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85399,
-      "num": 85399,
-      "word": "哈里斯与特朗普谁的胜算更大",
-      "onboard_time": 1721938813,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -63705,6 +63761,14 @@
       "onboard_time": 1721568920,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83699,
+      "num": 83699,
+      "word": "蓝盈莹 遇到真诚的人很珍贵",
+      "onboard_time": 1721948174,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 83600,
@@ -64483,6 +64547,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 75886,
+      "num": 75886,
+      "word": "狗狗把自己臭的龇牙咧嘴的",
+      "onboard_time": 1721949195,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 75780,
       "num": 75780,
       "word": "全红婵三次满分跳水",
@@ -64763,6 +64835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73483,
+      "num": 73483,
+      "word": "6位艺术大咖集体入驻话奥运",
+      "onboard_time": 1721948957,
+      "rank": 35,
+      "category": "体育,科学科普"
+    },
+    {
       "raw_hot": 73438,
       "num": 73438,
       "word": "婆婆理解的皮蛋瘦肉粥",
@@ -64913,6 +64993,14 @@
       "onboard_time": 1720238537,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 72364,
+      "num": 72364,
+      "word": "BBA涨价后卖更好了",
+      "onboard_time": 1721949195,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 72317,
@@ -65089,6 +65177,14 @@
       "onboard_time": 1721730021,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70499,
+      "num": 70499,
+      "word": "徐明浩上恋综了",
+      "onboard_time": 1721949315,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 70421,
@@ -65457,6 +65553,14 @@
       "onboard_time": 1721378002,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67275,
+      "num": 67275,
+      "word": "杨紫古装白衣",
+      "onboard_time": 1721947274,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 67261,
@@ -66115,6 +66219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62055,
+      "num": 62055,
+      "word": "宋亚轩定位忘关了",
+      "onboard_time": 1721949616,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 61991,
       "num": 61991,
       "word": "荷兰2比1土耳其",
@@ -66411,6 +66523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60069,
+      "num": 60069,
+      "word": "原来生活中的暗示这么明显",
+      "onboard_time": 1721949495,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 60052,
       "num": 223871,
       "word": "深圳为19岁男孩点亮夜空",
@@ -66633,6 +66753,14 @@
       "onboard_time": 1719844461,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58520,
+      "num": 234510,
+      "word": "你会考虑买老破小吗",
+      "onboard_time": 1721927296,
+      "rank": 9,
+      "category": "社会议题"
     },
     {
       "raw_hot": 58421,
@@ -67512,6 +67640,14 @@
       "word": "南京这水晶天city不city",
       "onboard_time": 1720084998,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51426,
+      "num": 51426,
+      "word": "深圳暴雨",
+      "onboard_time": 1721949556,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -68593,14 +68729,6 @@
       "onboard_time": 1720517118,
       "rank": 29,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 44379,
-      "num": 234510,
-      "word": "你会考虑买老破小吗",
-      "onboard_time": 1721927296,
-      "rank": 9,
-      "category": "社会议题"
     },
     {
       "raw_hot": 44332,
@@ -73121,6 +73249,14 @@
       "onboard_time": 1720036391,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 14431,
+      "num": 164522,
+      "word": "盲人推拿师用上了语音洗衣机",
+      "onboard_time": 1721949195,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13995,
