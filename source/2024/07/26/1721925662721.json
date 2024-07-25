@@ -1,0 +1,410 @@
+{
+  "runTime": 1721925662721,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 845754,
+        "num": 845754,
+        "word": "奥运会史上首次开放式开幕式",
+        "onboard_time": 1721920399,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 841197,
+        "num": 841197,
+        "word": "女教练连扇小球员9个耳光",
+        "onboard_time": 1721918599,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10102,
+        "num": 511264,
+        "word": "北京时间版奥运观赛日历",
+        "onboard_time": 1721863456,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 491029,
+        "num": 491029,
+        "word": "偶遇张若昀对着自行车鞠躬",
+        "onboard_time": 1721919081,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 439867,
+        "num": 439867,
+        "word": "前台是未成年还吃辣条",
+        "onboard_time": 1721915121,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 435446,
+        "num": 435446,
+        "word": "河南小伙高考529分被清华录取",
+        "onboard_time": 1721910920,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417003,
+        "num": 417003,
+        "word": "马子佳结婚了",
+        "onboard_time": 1721915660,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 365960,
+        "num": 365960,
+        "word": "偶遇霍思燕带女儿喝下午茶",
+        "onboard_time": 1721909060,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319091,
+        "num": 319091,
+        "word": "被清华录取后他先去了这里",
+        "onboard_time": 1721918360,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302001,
+        "num": 302001,
+        "word": "台风格美在福建沿海登陆",
+        "onboard_time": 1721909360,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380476,
+        "num": 296019,
+        "word": "傅园慧晒奖牌回应网友质疑",
+        "onboard_time": 1721920281,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280156,
+        "num": 280156,
+        "word": "被新疆冰淇淋冲击到了",
+        "onboard_time": 1721920160,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 279252,
+        "num": 279252,
+        "word": "官方通报万年县委领导毛某被举报",
+        "onboard_time": 1721922198,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267332,
+        "num": 267332,
+        "word": "蒋敦豪晒十个勤天合照",
+        "onboard_time": 1721920581,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250611,
+        "num": 250611,
+        "word": "陕师大性骚扰女毕业生副教授被解聘",
+        "onboard_time": 1721923219,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243139,
+        "num": 243139,
+        "word": "上半年每10套房有4套买家是90后",
+        "onboard_time": 1721918780,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229356,
+        "num": 229356,
+        "word": "为啥打耳洞不会有肉被捅出来",
+        "onboard_time": 1721910320,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223158,
+        "num": 223158,
+        "word": "台风登陆",
+        "onboard_time": 1721911219,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175841,
+        "num": 175841,
+        "word": "全红婵自嘲我也年轻过",
+        "onboard_time": 1721922859,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169240,
+        "num": 169240,
+        "word": "你好种地少年",
+        "onboard_time": 1721916860,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442655,
+        "num": 164782,
+        "word": "真的很讨厌外卖点到液体勺",
+        "onboard_time": 1721901919,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159355,
+        "num": 159355,
+        "word": "刘梓晨",
+        "onboard_time": 1721912959,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 142042,
+        "num": 142042,
+        "word": "清融 中单",
+        "onboard_time": 1721918842,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137715,
+        "num": 137715,
+        "word": "还我妈生鼻",
+        "onboard_time": 1721906242,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 130600,
+        "num": 130600,
+        "word": "檀健次歌来了人不敢来",
+        "onboard_time": 1721923518,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129035,
+        "num": 129035,
+        "word": "密逃的别名是许凯丢脸史吧",
+        "onboard_time": 1721921480,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126562,
+        "num": 126562,
+        "word": "网剧少年白马醉春风",
+        "onboard_time": 1721919921,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111057,
+        "num": 111057,
+        "word": "心动的信号",
+        "onboard_time": 1721915841,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109387,
+        "num": 109387,
+        "word": "张真源洗澡镜头",
+        "onboard_time": 1721917700,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 107736,
+        "num": 107736,
+        "word": "孙卓已被南京工业大学录取",
+        "onboard_time": 1721895559,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104738,
+        "num": 104738,
+        "word": "陈哲远被吓纯享版",
+        "onboard_time": 1721919861,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102801,
+        "num": 102801,
+        "word": "九尾沙特请假条",
+        "onboard_time": 1721918242,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 97029,
+        "num": 97029,
+        "word": "国色芳华",
+        "onboard_time": 1721920700,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95864,
+        "num": 95864,
+        "word": "第一次见乌龟长得这么水灵",
+        "onboard_time": 1721915000,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93931,
+        "num": 93931,
+        "word": "九尾不去沙特",
+        "onboard_time": 1721919081,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93680,
+        "num": 93680,
+        "word": "连线改简历意外被创始人看中",
+        "onboard_time": 1721919200,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91844,
+        "num": 91844,
+        "word": "宋亚轩 我再也不玩抽象了",
+        "onboard_time": 1721914821,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91002,
+        "num": 91002,
+        "word": "刘耀文头像",
+        "onboard_time": 1721906541,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89124,
+        "num": 89124,
+        "word": "一诺和九尾走散了",
+        "onboard_time": 1721924178,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 86953,
+        "num": 86953,
+        "word": "TFBOYS头发梳成大人模样是凯妈做的",
+        "onboard_time": 1721910620,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85424,
+        "num": 85424,
+        "word": "终于知道刘昊然去年为什么那么瘦了",
+        "onboard_time": 1721910799,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 85191,
+        "num": 85191,
+        "word": "王玉雯说张新成压抑了很多年",
+        "onboard_time": 1721915601,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83941,
+        "num": 83941,
+        "word": "油价降了",
+        "onboard_time": 1721915000,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 81866,
+        "num": 81866,
+        "word": "檀健次上海站",
+        "onboard_time": 1721919501,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 79460,
+        "num": 79460,
+        "word": "杨幂村妇造型路透",
+        "onboard_time": 1721892200,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79362,
+        "num": 79362,
+        "word": "心动的信号7路透",
+        "onboard_time": 1721920758,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77452,
+        "num": 77452,
+        "word": "当事女生回应陕师大副教授被指性骚扰",
+        "onboard_time": 1721922080,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75131,
+        "num": 77441,
+        "word": "三亚酒店暴跌游客都去哪儿了",
+        "onboard_time": 1721925077,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68634,
+        "num": 77433,
+        "word": "台风格美在福建连江掀起狂浪",
+        "onboard_time": 1721919321,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67437,
+        "num": 77418,
+        "word": "台风格美登陆福建位置又变了",
+        "onboard_time": 1721901980,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局常务委员会召开会议#"
+    }
+  }
+}
