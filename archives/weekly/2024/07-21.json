@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721875079711,
+  "endTime": 1721875665362,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -771,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1201728,
+      "num": 1201728,
+      "word": "夫妻冷战三伏天车里开暖风",
+      "onboard_time": 1721872398,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1199134,
       "num": 1199134,
       "word": "李现拒绝出演高中生",
@@ -953,14 +961,6 @@
       "onboard_time": 1721813240,
       "rank": 35,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1081196,
-      "num": 1081196,
-      "word": "夫妻冷战三伏天车里开暖风",
-      "onboard_time": 1721872398,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1080073,
@@ -2611,6 +2611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 549885,
+      "num": 549885,
+      "word": "iPhone17或将移除Plus机型",
+      "onboard_time": 1721873718,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 549155,
       "num": 549155,
       "word": "杨洋父亲持股公司成老赖",
@@ -2641,6 +2649,14 @@
       "onboard_time": 1721610981,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 545458,
+      "num": 545458,
+      "word": "张家齐谈遗憾无缘巴黎奥运会",
+      "onboard_time": 1721873840,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 545448,
@@ -3099,6 +3115,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 461277,
+      "num": 461277,
+      "word": "田曦薇王安宇从籍籍无名到人声鼎沸",
+      "onboard_time": 1721873119,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 460736,
       "num": 460736,
       "word": "1年期5年期LPR均下调10个基点",
@@ -3419,14 +3443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 423848,
-      "num": 423848,
-      "word": "田曦薇王安宇从籍籍无名到人声鼎沸",
-      "onboard_time": 1721873119,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 423415,
       "num": 431657,
       "word": "老人为领鸡蛋听课后花两千买胶囊",
@@ -3505,14 +3521,6 @@
       "onboard_time": 1721825780,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 410622,
-      "num": 410622,
-      "word": "张家齐谈遗憾无缘巴黎奥运会",
-      "onboard_time": 1721873840,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 408319,
@@ -3611,20 +3619,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 398224,
+      "num": 352129,
+      "word": "人一旦拎着袋子上班那基本就定型了",
+      "onboard_time": 1721869160,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 397256,
       "num": 397256,
       "word": "人大",
       "onboard_time": 1721648063,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 396738,
-      "num": 329350,
-      "word": "人一旦拎着袋子上班那基本就定型了",
-      "onboard_time": 1721869160,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 396320,
@@ -4259,14 +4267,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 322923,
-      "num": 322923,
-      "word": "iPhone17或将移除Plus机型",
-      "onboard_time": 1721873718,
-      "rank": 22,
-      "category": "数码"
-    },
-    {
       "raw_hot": 322477,
       "num": 322477,
       "word": "雅安暴雨山洪已致8人遇难",
@@ -4883,6 +4883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 275776,
+      "num": 275776,
+      "word": "迪丽热巴为奥运健儿打call",
+      "onboard_time": 1721874140,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 275347,
       "num": 240151,
       "word": "这居然是张新成",
@@ -4961,6 +4969,14 @@
       "onboard_time": 1721784680,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 269131,
+      "num": 269131,
+      "word": "全红婵赛前试跳207C",
+      "onboard_time": 1721872460,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 269008,
@@ -5049,6 +5065,14 @@
       "onboard_time": 1721813600,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 265801,
+      "num": 265801,
+      "word": "2NE1官宣首尔演唱会",
+      "onboard_time": 1721873300,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 264886,
@@ -5329,14 +5353,6 @@
       "onboard_time": 1721739860,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 249338,
-      "num": 249338,
-      "word": "全红婵赛前试跳207C",
-      "onboard_time": 1721872460,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 249134,
@@ -5971,12 +5987,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 224385,
-      "num": 224385,
-      "word": "2NE1官宣首尔演唱会",
-      "onboard_time": 1721873300,
-      "rank": 33,
-      "category": "演出"
+      "raw_hot": 225100,
+      "num": 225100,
+      "word": "唐尚珺请网友投票去不去上大学",
+      "onboard_time": 1721875037,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224383,
@@ -6587,6 +6603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209683,
+      "num": 209683,
+      "word": "赵露思白色小香",
+      "onboard_time": 1721875279,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209417,
       "num": 209417,
       "word": "江西一地出现教师严重短缺",
@@ -6681,6 +6705,14 @@
       "onboard_time": 1721622741,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205899,
+      "num": 205899,
+      "word": "张若昀在路演当布洛芬",
+      "onboard_time": 1721874198,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 205764,
@@ -7323,14 +7355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197072,
-      "num": 197072,
-      "word": "迪丽热巴为奥运健儿打call",
-      "onboard_time": 1721874140,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 196848,
       "num": 196848,
       "word": "巴黎奥运会将大量采用中国AI技术",
@@ -7851,6 +7875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188268,
+      "num": 188268,
+      "word": "史彭元说抓娃娃里马继业像玩剧本杀",
+      "onboard_time": 1721875340,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 188056,
       "num": 423666,
       "word": "原来这么多人在拼多多认真写评论",
@@ -8121,14 +8153,6 @@
       "onboard_time": 1721614461,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 183346,
-      "num": 183346,
-      "word": "张若昀在路演当布洛芬",
-      "onboard_time": 1721874198,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 183038,
@@ -8755,6 +8779,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 170654,
+      "num": 170654,
+      "word": "华为发布会定档",
+      "onboard_time": 1721874919,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 170574,
       "num": 170574,
       "word": "李莎旻子做了所有歌手的功课",
@@ -8841,6 +8873,14 @@
       "onboard_time": 1721724681,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 169066,
+      "num": 169066,
+      "word": "兰州生态环境局通报市民反映空气异味",
+      "onboard_time": 1721875579,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168905,
@@ -9571,6 +9611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 153341,
+      "num": 153341,
+      "word": "距巴黎奥运开幕还有1天",
+      "onboard_time": 1721872279,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153305,
       "num": 153305,
       "word": "詹姆斯绝杀南苏丹男篮",
@@ -9851,14 +9899,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 145543,
-      "num": 145543,
-      "word": "华为发布会定档",
-      "onboard_time": 1721874919,
-      "rank": 48,
-      "category": "数码"
-    },
-    {
       "raw_hot": 145322,
       "num": 145322,
       "word": "我是玟小六的叶十七",
@@ -9979,6 +10019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142870,
+      "num": 489433,
+      "word": "马龙简历好long",
+      "onboard_time": 1721872999,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142660,
       "num": 142660,
       "word": "能力不详但心地善良",
@@ -10017,14 +10065,6 @@
       "onboard_time": 1721719942,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 141769,
-      "num": 141769,
-      "word": "唐尚珺请网友投票去不去上大学",
-      "onboard_time": 1721875037,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141667,
@@ -10979,14 +11019,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 107916,
-      "num": 425281,
-      "word": "马龙简历好long",
-      "onboard_time": 1721872999,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 107761,
       "num": 107761,
       "word": "汪顺手机壁纸是顺",
@@ -11289,6 +11321,14 @@
       "onboard_time": 1721510472,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84639,
+      "num": 437022,
+      "word": "从洛杉矶到巴黎看中国夏奥高光时刻",
+      "onboard_time": 1721872579,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 84346,
@@ -11859,6 +11899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58489,
+      "num": 256874,
+      "word": "汪汪队组团蹭空调被酒店邀请乘凉",
+      "onboard_time": 1721875640,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58388,
       "num": 58388,
       "word": "歌王之战阵容",
@@ -11985,14 +12033,6 @@
       "onboard_time": 1721732060,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51941,
-      "num": 437022,
-      "word": "从洛杉矶到巴黎看中国夏奥高光时刻",
-      "onboard_time": 1721872579,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 51801,
@@ -12779,6 +12819,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 20949,
+      "num": 353237,
+      "word": "夏日观赛灵魂拍档",
+      "onboard_time": 1721873360,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 20828,
       "num": 212190,
       "word": "用四川方言打开火把节斗牛赛",
@@ -12809,14 +12857,6 @@
       "onboard_time": 1721722881,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20040,
-      "num": 338094,
-      "word": "夏日观赛灵魂拍档",
-      "onboard_time": 1721873360,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 19857,

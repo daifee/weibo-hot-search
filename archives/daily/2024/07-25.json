@@ -1,6 +1,6 @@
 {
   "startTime": 1721838296901,
-  "endTime": 1721875079711,
+  "endTime": 1721875665362,
   "band_list": [
     {
       "raw_hot": 1836788,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1081196,
-      "num": 1081196,
+      "raw_hot": 1201728,
+      "num": 1201728,
       "word": "夫妻冷战三伏天车里开暖风",
       "onboard_time": 1721872398,
       "rank": 1,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 865622,
-      "num": 332692,
+      "num": 352330,
       "word": "李佳琦说旺旺离职不会挽留",
       "onboard_time": 1721823620,
       "rank": 20,
@@ -195,6 +195,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 549885,
+      "num": 549885,
+      "word": "iPhone17或将移除Plus机型",
+      "onboard_time": 1721873718,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 545458,
+      "num": 545458,
+      "word": "张家齐谈遗憾无缘巴黎奥运会",
+      "onboard_time": 1721873840,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 532578,
       "num": 532578,
       "word": "芒果台有自己的四大名著",
@@ -227,28 +243,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 446099,
-      "num": 446099,
-      "word": "孙红雷回应移民传闻",
-      "onboard_time": 1721833281,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 423848,
-      "num": 423848,
+      "raw_hot": 461277,
+      "num": 461277,
       "word": "田曦薇王安宇从籍籍无名到人声鼎沸",
       "onboard_time": 1721873119,
       "rank": 12,
       "category": "综艺"
     },
     {
-      "raw_hot": 410622,
-      "num": 410622,
-      "word": "张家齐谈遗憾无缘巴黎奥运会",
-      "onboard_time": 1721873840,
-      "rank": 13,
-      "category": "体育"
+      "raw_hot": 446099,
+      "num": 446099,
+      "word": "孙红雷回应移民传闻",
+      "onboard_time": 1721833281,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 406938,
@@ -259,8 +267,16 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 396738,
-      "num": 329350,
+      "raw_hot": 400778,
+      "num": 400778,
+      "word": "A股",
+      "onboard_time": 1721873780,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 398224,
+      "num": 352129,
       "word": "人一旦拎着袋子上班那基本就定型了",
       "onboard_time": 1721869160,
       "rank": 24,
@@ -323,28 +339,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 335796,
-      "num": 335796,
-      "word": "A股",
-      "onboard_time": 1721873780,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 322923,
-      "num": 322923,
-      "word": "iPhone17或将移除Plus机型",
-      "onboard_time": 1721873718,
-      "rank": 22,
-      "category": "数码"
-    },
-    {
       "raw_hot": 311162,
       "num": 311162,
       "word": "成毅 我们都会找到不同的出路",
       "onboard_time": 1721833281,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 310853,
+      "num": 310853,
+      "word": "密室大逃脱",
+      "onboard_time": 1721873419,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 303416,
@@ -379,12 +387,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 290321,
-      "num": 290321,
-      "word": "密室大逃脱",
-      "onboard_time": 1721873419,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 275776,
+      "num": 275776,
+      "word": "迪丽热巴为奥运健儿打call",
+      "onboard_time": 1721874140,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 271920,
@@ -403,12 +411,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269131,
+      "num": 269131,
+      "word": "全红婵赛前试跳207C",
+      "onboard_time": 1721872460,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 266370,
       "num": 266370,
       "word": "中科大保卫处招聘要求硕士以上学历",
       "onboard_time": 1721873119,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265801,
+      "num": 265801,
+      "word": "2NE1官宣首尔演唱会",
+      "onboard_time": 1721873300,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 264859,
@@ -425,14 +449,6 @@
       "onboard_time": 1721819119,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 249338,
-      "num": 249338,
-      "word": "全红婵赛前试跳207C",
-      "onboard_time": 1721872460,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 232885,
@@ -459,12 +475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 224385,
-      "num": 224385,
-      "word": "2NE1官宣首尔演唱会",
-      "onboard_time": 1721873300,
-      "rank": 33,
-      "category": "演出"
+      "raw_hot": 225100,
+      "num": 225100,
+      "word": "唐尚珺请网友投票去不去上大学",
+      "onboard_time": 1721875037,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224368,
@@ -523,12 +539,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209683,
+      "num": 209683,
+      "word": "赵露思白色小香",
+      "onboard_time": 1721875279,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208792,
       "num": 208792,
       "word": "格美",
       "onboard_time": 1721863216,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205899,
+      "num": 205899,
+      "word": "张若昀在路演当布洛芬",
+      "onboard_time": 1721874198,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 203881,
@@ -560,14 +592,6 @@
       "word": "阿根廷国奥绝平",
       "onboard_time": 1721837419,
       "rank": 18,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 197072,
-      "num": 197072,
-      "word": "迪丽热巴为奥运健儿打call",
-      "onboard_time": 1721874140,
-      "rank": 36,
       "category": "体育"
     },
     {
@@ -603,11 +627,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 183346,
-      "num": 183346,
-      "word": "张若昀在路演当布洛芬",
-      "onboard_time": 1721874198,
-      "rank": 38,
+      "raw_hot": 188268,
+      "num": 188268,
+      "word": "史彭元说抓娃娃里马继业像玩剧本杀",
+      "onboard_time": 1721875340,
+      "rank": 41,
       "category": "电影"
     },
     {
@@ -659,12 +683,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170654,
+      "num": 170654,
+      "word": "华为发布会定档",
+      "onboard_time": 1721874919,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 169633,
       "num": 169633,
       "word": "韩国人很爱强调全世界只有几件",
       "onboard_time": 1721862794,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 169066,
+      "num": 169066,
+      "word": "兰州生态环境局通报市民反映空气异味",
+      "onboard_time": 1721875579,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164594,
@@ -707,6 +747,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 155174,
+      "num": 155174,
+      "word": "降息",
+      "onboard_time": 1721875399,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 153341,
+      "num": 153341,
+      "word": "距巴黎奥运开幕还有1天",
+      "onboard_time": 1721872279,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152629,
       "num": 152629,
       "word": "第五人格",
@@ -739,14 +795,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 145543,
-      "num": 145543,
-      "word": "华为发布会定档",
-      "onboard_time": 1721874919,
-      "rank": 48,
-      "category": "数码"
-    },
-    {
       "raw_hot": 144437,
       "num": 144437,
       "word": "多家航司回应一人带三娃坐不了飞机",
@@ -771,12 +819,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141769,
-      "num": 141769,
-      "word": "唐尚珺请网友投票去不去上大学",
-      "onboard_time": 1721875037,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 142870,
+      "num": 489433,
+      "word": "马龙简历好long",
+      "onboard_time": 1721872999,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 140836,
@@ -899,14 +947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 107916,
-      "num": 425281,
-      "word": "马龙简历好long",
-      "onboard_time": 1721872999,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 105875,
       "num": 100321,
       "word": "北京暴雨一秒入夜",
@@ -987,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84639,
+      "num": 437022,
+      "word": "从洛杉矶到巴黎看中国夏奥高光时刻",
+      "onboard_time": 1721872579,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84346,
       "num": 84346,
       "word": "身体排湿的10个表现是什么",
@@ -1059,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58489,
+      "num": 256874,
+      "word": "汪汪队组团蹭空调被酒店邀请乘凉",
+      "onboard_time": 1721875640,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52974,
       "num": 86012,
       "word": "国乒女团vs埃及女团",
@@ -1072,14 +1128,6 @@
       "word": "国乒混双抽签结果",
       "onboard_time": 1721862074,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 51941,
-      "num": 437022,
-      "word": "从洛杉矶到巴黎看中国夏奥高光时刻",
-      "onboard_time": 1721872579,
-      "rank": 9,
       "category": "体育"
     },
     {
@@ -1171,8 +1219,8 @@
       "category": "自然"
     },
     {
-      "raw_hot": 20040,
-      "num": 338094,
+      "raw_hot": 20949,
+      "num": 353237,
       "word": "夏日观赛灵魂拍档",
       "onboard_time": 1721873360,
       "rank": 18,
