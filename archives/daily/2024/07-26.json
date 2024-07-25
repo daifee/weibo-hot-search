@@ -1,6 +1,6 @@
 {
   "startTime": 1721924711965,
-  "endTime": 1721934994340,
+  "endTime": 1721936079211,
   "band_list": [
     {
       "raw_hot": 1002103,
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84075,
+      "num": 84075,
+      "word": "LV母公司股价跌超4.5%",
+      "onboard_time": 1721931192,
+      "rank": 39,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 80014,
       "num": 121334,
       "word": "脱胎换骨式减肥法",
@@ -409,14 +417,6 @@
       "onboard_time": 1721922080,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 70052,
-      "num": 70052,
-      "word": "LV母公司股价跌超4.5%",
-      "onboard_time": 1721931192,
-      "rank": 39,
-      "category": "时尚"
     },
     {
       "raw_hot": 67437,
@@ -499,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26361,
+      "num": 26361,
+      "word": "格美逼近福州海岸现数米高大浪",
+      "onboard_time": 1721933112,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25783,
       "num": 25783,
       "word": "抓娃娃",
@@ -507,20 +515,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 25754,
-      "num": 25754,
-      "word": "格美逼近福州海岸现数米高大浪",
-      "onboard_time": 1721933112,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 25093,
       "num": 25093,
       "word": "寻护者直播",
       "onboard_time": 1721934071,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 24374,
+      "num": 70277,
+      "word": "义乌小孩姐指点老板爸爸改良产品",
+      "onboard_time": 1721933171,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23620,
@@ -539,6 +547,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 21437,
+      "num": 22143,
+      "word": "如果幸福是 那我是",
+      "onboard_time": 1721935331,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 19098,
+      "num": 22137,
+      "word": "大同丈母娘的刀削面在巴黎火了",
+      "onboard_time": 1721936052,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15644,
       "num": 113919,
       "word": "准大学生暑假每天送外卖到凌晨赚学费",
@@ -547,12 +571,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12482,
-      "num": 70277,
-      "word": "义乌小孩姐指点老板爸爸改良产品",
-      "onboard_time": 1721933171,
+      "raw_hot": 11793,
+      "num": 66587,
+      "word": "奥运版流动的盛宴",
+      "onboard_time": 1721932633,
       "rank": 9,
-      "category": "社会新闻"
+      "category": "体育"
     },
     {
       "raw_hot": 11535,
