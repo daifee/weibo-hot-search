@@ -1,6 +1,6 @@
 {
   "startTime": 1721838296901,
-  "endTime": 1721884785906,
+  "endTime": 1721885762556,
   "band_list": [
     {
       "raw_hot": 2093627,
@@ -75,7 +75,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1138076,
+      "raw_hot": 1222057,
       "num": 569287,
       "word": "阚清子与未婚夫结束度假回国",
       "onboard_time": 1721882780,
@@ -97,6 +97,14 @@
       "onboard_time": 1721879959,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 986679,
+      "num": 986679,
+      "word": "巴黎再现2008北京奥运背包",
+      "onboard_time": 1721881100,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 967782,
@@ -307,14 +315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 581175,
-      "num": 581175,
-      "word": "巴黎再现2008北京奥运背包",
-      "onboard_time": 1721881100,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 566947,
       "num": 566947,
       "word": "闵熙珍私下辱骂NewJeans成员",
@@ -328,6 +328,14 @@
       "word": "陕西师范大学",
       "onboard_time": 1721833761,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 545291,
+      "num": 545291,
+      "word": "电梯内电池爆燃事主26天后去世",
+      "onboard_time": 1721884879,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -355,6 +363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 506422,
+      "num": 547179,
+      "word": "TFBOYS的歌已成为衡量时间的尺",
+      "onboard_time": 1721883921,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 500979,
       "num": 226721,
       "word": "特朗普遇袭事件出现最新视频",
@@ -364,7 +380,7 @@
     },
     {
       "raw_hot": 496883,
-      "num": 287547,
+      "num": 403501,
       "word": "矢野浩二晒与美依礼芽合照",
       "onboard_time": 1721882481,
       "rank": 20,
@@ -403,20 +419,20 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 402902,
+      "num": 402902,
+      "word": "闵熙珍叫巫师附身郑秀晶",
+      "onboard_time": 1721884221,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 400778,
       "num": 400778,
       "word": "A股",
       "onboard_time": 1721873780,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 377371,
-      "num": 377371,
-      "word": "闵熙珍叫巫师附身郑秀晶",
-      "onboard_time": 1721884221,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 374998,
@@ -468,19 +484,19 @@
     },
     {
       "raw_hot": 369256,
-      "num": 285850,
+      "num": 335692,
       "word": "和陈奕迅拼桌吃饭",
       "onboard_time": 1721883021,
       "rank": 21,
       "category": "艺人"
     },
     {
-      "raw_hot": 362235,
-      "num": 280719,
-      "word": "TFBOYS的歌已成为衡量时间的尺",
-      "onboard_time": 1721883921,
-      "rank": 22,
-      "category": "音乐"
+      "raw_hot": 356558,
+      "num": 356558,
+      "word": "齐司礼 绿色",
+      "onboard_time": 1721884280,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 347306,
@@ -507,20 +523,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 332178,
+      "num": 263794,
+      "word": "学校免费提供的卫生巾堆得像山",
+      "onboard_time": 1721882001,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323231,
       "num": 323231,
       "word": "密室大逃脱",
       "onboard_time": 1721873419,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 319943,
-      "num": 255087,
-      "word": "学校免费提供的卫生巾堆得像山",
-      "onboard_time": 1721882001,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 317774,
@@ -595,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281981,
+      "num": 281981,
+      "word": "第五人格超话",
+      "onboard_time": 1721884879,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 280134,
       "num": 280134,
       "word": "恋与深空免五",
@@ -619,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 272864,
+      "num": 272864,
+      "word": "一个普通女孩140斤到98斤之路",
+      "onboard_time": 1721884760,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 271920,
       "num": 271920,
       "word": "王楚钦雨果男单同区",
@@ -633,14 +665,6 @@
       "onboard_time": 1721875279,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 270792,
-      "num": 270792,
-      "word": "齐司礼 绿色",
-      "onboard_time": 1721884280,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 269619,
@@ -763,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225973,
+      "num": 225973,
+      "word": "无期迷途",
+      "onboard_time": 1721884582,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 224368,
       "num": 224368,
       "word": "工行农行下调人民币存款利率",
@@ -817,6 +849,14 @@
       "onboard_time": 1721840355,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212545,
+      "num": 212545,
+      "word": "陆沉背痛包",
+      "onboard_time": 1721884161,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 212312,
@@ -875,6 +915,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208092,
+      "num": 208092,
+      "word": "赵小童 自己做的篮筐认人",
+      "onboard_time": 1721885601,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 205675,
+      "num": 205675,
+      "word": "张杰雨中撑伞图",
+      "onboard_time": 1721885241,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 203881,
       "num": 203881,
       "word": "周深发博庆出道十周年",
@@ -889,6 +945,14 @@
       "onboard_time": 1721874078,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202395,
+      "num": 202395,
+      "word": "巴黎奥运会",
+      "onboard_time": 1721884699,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 202165,
@@ -907,20 +971,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200503,
-      "num": 200503,
-      "word": "无期迷途",
-      "onboard_time": 1721884582,
-      "rank": 39,
-      "category": "游戏"
+      "raw_hot": 199677,
+      "num": 199677,
+      "word": "宋江好帅",
+      "onboard_time": 1721885601,
+      "rank": 44,
+      "category": "剧集"
     },
     {
-      "raw_hot": 197944,
-      "num": 197944,
-      "word": "巴黎奥运会",
-      "onboard_time": 1721884699,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 199135,
+      "num": 199135,
+      "word": "冯雨说王一博无名后劲有点大",
+      "onboard_time": 1721885301,
+      "rank": 45,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 196886,
@@ -963,12 +1027,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 193543,
-      "num": 193543,
-      "word": "陆沉背痛包",
-      "onboard_time": 1721884161,
-      "rank": 42,
-      "category": "游戏"
+      "raw_hot": 193370,
+      "num": 193370,
+      "word": "发条微博祝中国健儿圆梦今夏",
+      "onboard_time": 1721884940,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 192457,
@@ -1097,14 +1161,6 @@
       "onboard_time": 1721882241,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 170810,
-      "num": 170810,
-      "word": "一个普通女孩140斤到98斤之路",
-      "onboard_time": 1721884760,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 170654,
@@ -1339,6 +1395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 121060,
+      "num": 569576,
+      "word": "为啥1米深的水也能淹死成年人",
+      "onboard_time": 1721883622,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112052,
       "num": 112052,
       "word": "做噩梦可能是免疫系统在攻击你",
@@ -1540,19 +1604,11 @@
     },
     {
       "raw_hot": 57757,
-      "num": 202884,
+      "num": 545753,
       "word": "伊利为中国健儿加油",
       "onboard_time": 1721884340,
       "rank": 38,
       "category": "体育,体育"
-    },
-    {
-      "raw_hot": 57270,
-      "num": 569576,
-      "word": "为啥1米深的水也能淹死成年人",
-      "onboard_time": 1721883622,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52974,
@@ -1585,6 +1641,14 @@
       "onboard_time": 1721852831,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 40824,
+      "num": 357469,
+      "word": "被塞纳河上的中国式浪漫击中",
+      "onboard_time": 1721884940,
+      "rank": 22,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 39623,
@@ -1649,6 +1713,14 @@
       "onboard_time": 1721829622,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25391,
+      "num": 546777,
+      "word": "女子相信美容整形可转运被骗11万",
+      "onboard_time": 1721885480,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24303,
