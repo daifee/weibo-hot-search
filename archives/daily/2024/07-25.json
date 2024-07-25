@@ -1,6 +1,6 @@
 {
   "startTime": 1721838296901,
-  "endTime": 1721913774827,
+  "endTime": 1721914449315,
   "band_list": [
     {
       "raw_hot": 8749772,
@@ -131,6 +131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1423194,
+      "num": 1423194,
+      "word": "河南小伙高考529分被清华录取",
+      "onboard_time": 1721910920,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1417274,
       "num": 1417274,
       "word": "中国游泳队身上全是火罐印",
@@ -177,14 +185,6 @@
       "onboard_time": 1721882780,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1126239,
-      "num": 1126239,
-      "word": "河南小伙高考529分被清华录取",
-      "onboard_time": 1721910920,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1106067,
@@ -243,8 +243,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1010593,
-      "num": 1010593,
+      "raw_hot": 1019017,
+      "num": 1019017,
       "word": "偶遇霍思燕带女儿喝下午茶",
       "onboard_time": 1721909060,
       "rank": 6,
@@ -329,6 +329,22 @@
       "onboard_time": 1721836879,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 803762,
+      "num": 803762,
+      "word": "为啥打耳洞不会有肉被捅出来",
+      "onboard_time": 1721910320,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 775818,
+      "num": 775818,
+      "word": "刘梓晨",
+      "onboard_time": 1721912959,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 775542,
@@ -451,14 +467,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 681349,
-      "num": 681349,
-      "word": "为啥打耳洞不会有肉被捅出来",
-      "onboard_time": 1721910320,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 675468,
       "num": 675468,
       "word": "84岁痴呆母亲忘记儿子离世仍每天为其铺床",
@@ -504,6 +512,14 @@
       "word": "台风格美将致10余省强降雨",
       "onboard_time": 1721866641,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 634101,
+      "num": 634101,
+      "word": "台风登陆",
+      "onboard_time": 1721911219,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -553,14 +569,6 @@
       "onboard_time": 1721906541,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 610036,
-      "num": 610036,
-      "word": "台风登陆",
-      "onboard_time": 1721911219,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 608145,
@@ -739,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 448352,
+      "num": 448352,
+      "word": "TFBOYS头发梳成大人模样是凯妈做的",
+      "onboard_time": 1721910620,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 446099,
       "num": 446099,
       "word": "孙红雷回应移民传闻",
@@ -753,14 +769,6 @@
       "onboard_time": 1721906242,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 418280,
-      "num": 418280,
-      "word": "TFBOYS头发梳成大人模样是凯妈做的",
-      "onboard_time": 1721910620,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 417670,
@@ -859,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 369971,
+      "num": 369971,
+      "word": "杨旭文 唐诡2嫡掌子",
+      "onboard_time": 1721911340,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 369667,
       "num": 240108,
       "word": "男子野泳消失找到后同事跪倒痛哭",
@@ -873,6 +889,14 @@
       "onboard_time": 1721883021,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 359203,
+      "num": 359203,
+      "word": "宋L",
+      "onboard_time": 1721914220,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 356558,
@@ -899,14 +923,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 350242,
-      "num": 350242,
-      "word": "杨旭文 唐诡2嫡掌子",
-      "onboard_time": 1721911340,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 347306,
       "num": 347306,
       "word": "拜登退选演讲",
@@ -929,14 +945,6 @@
       "onboard_time": 1721878939,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 336305,
-      "num": 336305,
-      "word": "刘梓晨",
-      "onboard_time": 1721912959,
-      "rank": 17,
-      "category": "网红"
     },
     {
       "raw_hot": 332178,
@@ -993,6 +1001,14 @@
       "onboard_time": 1721897179,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 302477,
+      "num": 302477,
+      "word": "台风格美影响或波及10余省份",
+      "onboard_time": 1721911460,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 300777,
@@ -1067,19 +1083,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290703,
+      "num": 290703,
+      "word": "亲戚催婚时好像说漏嘴了",
+      "onboard_time": 1721910860,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 284404,
       "num": 284404,
       "word": "福建防抗台风格美在行动",
       "onboard_time": 1721888659,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 282895,
-      "num": 282895,
-      "word": "台风格美影响或波及10余省份",
-      "onboard_time": 1721911460,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1219,14 +1235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256815,
-      "num": 256815,
-      "word": "亲戚催婚时好像说漏嘴了",
-      "onboard_time": 1721910860,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 254395,
       "num": 612748,
       "word": "南阳官方再回应医院职工工资1700元",
@@ -1291,6 +1299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 238110,
+      "num": 238110,
+      "word": "黄明昊在十个勤天中都i起来了",
+      "onboard_time": 1721911519,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237977,
       "num": 230755,
       "word": "发现姥姥偷偷留了五十万给我",
@@ -1313,6 +1329,14 @@
       "onboard_time": 1721894059,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 234710,
+      "num": 234710,
+      "word": "许凯彭昱畅陈哲远各有各的好笑",
+      "onboard_time": 1721912419,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 234489,
@@ -1499,14 +1523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 212982,
-      "num": 212982,
-      "word": "黄明昊在十个勤天中都i起来了",
-      "onboard_time": 1721911519,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 212545,
       "num": 212545,
       "word": "陆沉背痛包",
@@ -1529,14 +1545,6 @@
       "onboard_time": 1721872999,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 212174,
-      "num": 212174,
-      "word": "许凯彭昱畅陈哲远各有各的好笑",
-      "onboard_time": 1721912419,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 212011,
@@ -1569,6 +1577,14 @@
       "onboard_time": 1721840655,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 210892,
+      "num": 210892,
+      "word": "与辉同行总销售额超42亿",
+      "onboard_time": 1721912779,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 210872,
@@ -1617,6 +1633,14 @@
       "onboard_time": 1721892021,
       "rank": 30,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 206535,
+      "num": 206535,
+      "word": "宝诗龙活动",
+      "onboard_time": 1721913559,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 205675,
@@ -1689,6 +1713,14 @@
       "onboard_time": 1721906601,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 199371,
+      "num": 199371,
+      "word": "上海抑郁症患病率全国第一",
+      "onboard_time": 1721914280,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199135,
@@ -1777,6 +1809,14 @@
       "onboard_time": 1721875399,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 194075,
+      "num": 194075,
+      "word": "宝诗龙红毯",
+      "onboard_time": 1721913919,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 193920,
@@ -2259,14 +2299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 164237,
-      "num": 164237,
-      "word": "与辉同行总销售额超42亿",
-      "onboard_time": 1721912779,
-      "rank": 36,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 164143,
       "num": 164143,
       "word": "剑来动画 好多人啊",
@@ -2385,14 +2417,6 @@
       "onboard_time": 1721887939,
       "rank": 42,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 156538,
-      "num": 156538,
-      "word": "宝诗龙活动",
-      "onboard_time": 1721913559,
-      "rank": 40,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 156349,
@@ -2636,11 +2660,19 @@
     },
     {
       "raw_hot": 124838,
-      "num": 124838,
+      "num": 1122245,
       "word": "北京时间版奥运观赛日历",
       "onboard_time": 1721863456,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123527,
+      "num": 123527,
+      "word": "一诺说要保护九尾",
+      "onboard_time": 1721914162,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 123333,
@@ -2796,7 +2828,7 @@
     },
     {
       "raw_hot": 87479,
-      "num": 341889,
+      "num": 373583,
       "word": "为什么260万用户都选比亚迪宋",
       "onboard_time": 1721912662,
       "rank": 15,
@@ -2891,6 +2923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74664,
+      "num": 394880,
+      "word": "离岸人民币兑美元升破7.21",
+      "onboard_time": 1721913500,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
       "raw_hot": 73288,
       "num": 348943,
       "word": "国字号认证的技术有多牛",
@@ -2931,6 +2971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 62027,
+      "num": 391258,
+      "word": "20万内唯一搭载华为智驾SUV",
+      "onboard_time": 1721911279,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 61452,
       "num": 86035,
       "word": "陕师大通报教师疑骚扰女生",
@@ -2964,7 +3012,7 @@
     },
     {
       "raw_hot": 55575,
-      "num": 284874,
+      "num": 392661,
       "word": "手机成为电影短片设备主力军",
       "onboard_time": 1721912662,
       "rank": 21,
@@ -3011,14 +3059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 47095,
-      "num": 361884,
-      "word": "20万内唯一搭载华为智驾SUV",
-      "onboard_time": 1721911279,
-      "rank": 33,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 46889,
       "num": 46889,
       "word": "田曦薇的眼睛就是尺",
@@ -3041,14 +3081,6 @@
       "onboard_time": 1721862617,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38648,
-      "num": 394880,
-      "word": "离岸人民币兑美元升破7.21",
-      "onboard_time": 1721913500,
-      "rank": 11,
-      "category": "财经"
     },
     {
       "raw_hot": 38519,
@@ -3137,6 +3169,14 @@
       "onboard_time": 1721829622,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25613,
+      "num": 459181,
+      "word": "海外付费实习是天坑还是捷径",
+      "onboard_time": 1721914220,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25391,
