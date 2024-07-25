@@ -1,7 +1,15 @@
 {
   "startTime": 1721838296901,
-  "endTime": 1721896722900,
+  "endTime": 1721899340455,
   "band_list": [
+    {
+      "raw_hot": 2644382,
+      "num": 2644382,
+      "word": "孙卓已被南京工业大学录取",
+      "onboard_time": 1721895559,
+      "rank": 17,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2093627,
       "num": 2093627,
@@ -51,14 +59,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1623816,
-      "num": 537510,
-      "word": "孙卓已被南京工业大学录取",
-      "onboard_time": 1721895559,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1600597,
       "num": 545291,
       "word": "电梯内电池爆燃事主26天后去世",
@@ -83,6 +83,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1417274,
+      "num": 1417274,
+      "word": "中国游泳队身上全是火罐印",
+      "onboard_time": 1721892680,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1391882,
       "num": 1391882,
       "word": "古茗监控视频曝光",
@@ -105,14 +113,6 @@
       "onboard_time": 1721880259,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1295370,
-      "num": 1295370,
-      "word": "中国游泳队身上全是火罐印",
-      "onboard_time": 1721892680,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 1258525,
@@ -459,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 524295,
+      "num": 524295,
+      "word": "孙海洋祝福孙卓",
+      "onboard_time": 1721896401,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 510360,
       "num": 300556,
       "word": "瘦了50斤再穿同一件衣服的变化",
@@ -499,12 +507,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 484080,
+      "num": 484080,
+      "word": "人民币汇率",
+      "onboard_time": 1721898021,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
       "raw_hot": 472531,
       "num": 355824,
       "word": "卖了300斤的腌水果到底有多好吃",
       "onboard_time": 1721890699,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 469736,
+      "num": 614961,
+      "word": "女子称花3900纹发际线后还是像阿哥",
+      "onboard_time": 1721894600,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 467086,
+      "num": 467086,
+      "word": "中国军队历来不信邪不怕鬼不怕压",
+      "onboard_time": 1721895859,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 466287,
@@ -691,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 303260,
+      "num": 303260,
+      "word": "张学友杭州站3场演唱会取消",
+      "onboard_time": 1721897179,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 299608,
       "num": 299608,
       "word": "花花的专属洞洞已经装不下它了",
@@ -787,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 272987,
+      "num": 272987,
+      "word": "陈楚生直播",
+      "onboard_time": 1721898199,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271920,
       "num": 271920,
       "word": "王楚钦雨果男单同区",
@@ -875,12 +923,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 253318,
+      "num": 253318,
+      "word": "花少海报",
+      "onboard_time": 1721892140,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252657,
       "num": 252657,
       "word": "老外因爱吃番茄炒蛋留在中国",
       "onboard_time": 1721886379,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 251255,
+      "num": 251255,
+      "word": "工资涨了不少我却变抠门了",
+      "onboard_time": 1721898199,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 243342,
@@ -1035,6 +1099,22 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 216382,
+      "num": 216382,
+      "word": "全欧洲的小偷都在往巴黎赶",
+      "onboard_time": 1721894300,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216188,
+      "num": 216188,
+      "word": "刘昊然自曝数学成绩",
+      "onboard_time": 1721898921,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 214523,
       "num": 214523,
       "word": "日媒称牛肉饭涨价怪中国",
@@ -1163,6 +1243,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 202592,
+      "num": 202592,
+      "word": "登陆日空降",
+      "onboard_time": 1721898980,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202395,
       "num": 202395,
       "word": "巴黎奥运会",
@@ -1211,6 +1299,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196538,
+      "num": 196538,
+      "word": "汇率",
+      "onboard_time": 1721898021,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 196327,
+      "num": 196327,
+      "word": "韩国队签运",
+      "onboard_time": 1721896637,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195699,
       "num": 182190,
       "word": "肾出现问题身体会发出这4个警报",
@@ -1225,14 +1329,6 @@
       "onboard_time": 1721886321,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 194516,
-      "num": 186959,
-      "word": "中国军队历来不信邪不怕鬼不怕压",
-      "onboard_time": 1721895859,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194100,
@@ -1265,6 +1361,14 @@
       "onboard_time": 1721884940,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193329,
+      "num": 193329,
+      "word": "我妈说我姐能考上编是因为爱睡觉",
+      "onboard_time": 1721898500,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 192457,
@@ -1371,14 +1475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180015,
-      "num": 180015,
-      "word": "孙海洋祝福孙卓",
-      "onboard_time": 1721896401,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179700,
       "num": 179700,
       "word": "知情人谈生理盐水冒充疫苗操作内幕",
@@ -1483,6 +1579,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 170623,
+      "num": 170623,
+      "word": "郭晶晶以裁判身份出发巴黎",
+      "onboard_time": 1721897359,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 170563,
+      "num": 170563,
+      "word": "史上最像草台班子的奥运会",
+      "onboard_time": 1721898080,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169633,
       "num": 169633,
       "word": "韩国人很爱强调全世界只有几件",
@@ -1513,14 +1625,6 @@
       "onboard_time": 1721886919,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 166822,
-      "num": 166822,
-      "word": "全欧洲的小偷都在往巴黎赶",
-      "onboard_time": 1721894300,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166606,
@@ -1577,6 +1681,14 @@
       "onboard_time": 1721886321,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163197,
+      "num": 163197,
+      "word": "沈阳暴雨",
+      "onboard_time": 1721896579,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162829,
@@ -1691,12 +1803,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 149088,
-      "num": 614961,
-      "word": "女子称花3900纹发际线后还是像阿哥",
-      "onboard_time": 1721894600,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 150925,
+      "num": 1039182,
+      "word": "中国奥运项目首金高燃视频",
+      "onboard_time": 1721898080,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 149322,
+      "num": 149322,
+      "word": "刘诗雯新身份出发巴黎",
+      "onboard_time": 1721897900,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 148225,
@@ -1705,6 +1825,14 @@
       "onboard_time": 1721870479,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 147493,
+      "num": 147493,
+      "word": "何浩楠闯进山东女婿赛道",
+      "onboard_time": 1721899098,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 145017,
@@ -1739,6 +1867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142422,
+      "num": 142422,
+      "word": "密室大逃脱否认延期",
+      "onboard_time": 1721899098,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140836,
       "num": 140836,
       "word": "易烊千玺给奥运健儿加油",
@@ -1771,14 +1907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 136629,
-      "num": 136629,
-      "word": "韩国队签运",
-      "onboard_time": 1721896637,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 136069,
       "num": 136069,
       "word": "海莉孕肚大片",
@@ -1803,12 +1931,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 134069,
-      "num": 134069,
-      "word": "沈阳暴雨",
-      "onboard_time": 1721896579,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 133436,
+      "num": 133436,
+      "word": "别在法国街边流口水了",
+      "onboard_time": 1721898921,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 133345,
@@ -1841,6 +1969,14 @@
       "onboard_time": 1721869400,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130441,
+      "num": 130441,
+      "word": "孙卓收到南京工业大学录取通知书",
+      "onboard_time": 1721897060,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125112,
@@ -2075,6 +2211,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 66938,
+      "num": 467807,
+      "word": "永劫无间手游今日上线",
+      "onboard_time": 1721897179,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 64842,
       "num": 111846,
       "word": "SEVENTEEN十月开启世巡",
@@ -2105,6 +2249,14 @@
       "onboard_time": 1721842634,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58501,
+      "num": 536205,
+      "word": "学历造假背后的赴港读研保录取生意",
+      "onboard_time": 1721898080,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57757,

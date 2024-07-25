@@ -1,0 +1,410 @@
+{
+  "runTime": 1721899340455,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2644382,
+        "num": 2644382,
+        "word": "孙卓已被南京工业大学录取",
+        "onboard_time": 1721895559,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1417274,
+        "num": 1417274,
+        "word": "中国游泳队身上全是火罐印",
+        "onboard_time": 1721892680,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150925,
+        "num": 1039182,
+        "word": "中国奥运项目首金高燃视频",
+        "onboard_time": 1721898080,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1027071,
+        "num": 1027071,
+        "word": "密室大逃脱 举报",
+        "onboard_time": 1721889319,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 736848,
+        "num": 736848,
+        "word": "杨幂村妇造型路透",
+        "onboard_time": 1721892200,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 734381,
+        "num": 734381,
+        "word": "台风格美预计今天下午到傍晚登陆福建",
+        "onboard_time": 1721877021,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 705401,
+        "num": 705401,
+        "word": "十个勤天 两年没有分开过",
+        "onboard_time": 1721893100,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 632567,
+        "num": 632567,
+        "word": "樊振东 死亡下半区",
+        "onboard_time": 1721891420,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 569337,
+        "num": 569337,
+        "word": "宁艺卓身材引发热议",
+        "onboard_time": 1721891719,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58501,
+        "num": 536205,
+        "word": "学历造假背后的赴港读研保录取生意",
+        "onboard_time": 1721898080,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524295,
+        "num": 524295,
+        "word": "孙海洋祝福孙卓",
+        "onboard_time": 1721896401,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484080,
+        "num": 484080,
+        "word": "人民币汇率",
+        "onboard_time": 1721898021,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 469736,
+        "num": 469736,
+        "word": "女子称花3900纹发际线后还是像阿哥",
+        "onboard_time": 1721894600,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66938,
+        "num": 467807,
+        "word": "永劫无间手游今日上线",
+        "onboard_time": 1721897179,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 467086,
+        "num": 467086,
+        "word": "中国军队历来不信邪不怕鬼不怕压",
+        "onboard_time": 1721895859,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464073,
+        "num": 464073,
+        "word": "14岁初中生课堂嗑药致昏迷进ICU",
+        "onboard_time": 1721880680,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453029,
+        "num": 453029,
+        "word": "阚清子与未婚夫结束度假回国",
+        "onboard_time": 1721882780,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353225,
+        "num": 353225,
+        "word": "巴黎再现2008北京奥运背包",
+        "onboard_time": 1721881100,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323578,
+        "num": 323578,
+        "word": "花少直播 无聊",
+        "onboard_time": 1721890520,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323004,
+        "num": 323004,
+        "word": "一个普通女孩140斤到98斤之路",
+        "onboard_time": 1721884760,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 680555,
+        "num": 322835,
+        "word": "电梯内电池爆燃事主26天后去世",
+        "onboard_time": 1721884879,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322429,
+        "num": 322429,
+        "word": "卖了300斤的腌水果到底有多好吃",
+        "onboard_time": 1721890699,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 303260,
+        "num": 303260,
+        "word": "张学友杭州站3场演唱会取消",
+        "onboard_time": 1721897179,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 272987,
+        "num": 272987,
+        "word": "陈楚生直播",
+        "onboard_time": 1721898199,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269564,
+        "num": 269564,
+        "word": "金靖不办婚礼的原因",
+        "onboard_time": 1721880259,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 253769,
+        "num": 253769,
+        "word": "陈哲远当面捅了芒果后期的窝",
+        "onboard_time": 1721889799,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253318,
+        "num": 253318,
+        "word": "花少海报",
+        "onboard_time": 1721892140,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251255,
+        "num": 251255,
+        "word": "工资涨了不少我却变抠门了",
+        "onboard_time": 1721898199,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226519,
+        "num": 226519,
+        "word": "高中教师表白女学生事发高考前",
+        "onboard_time": 1721886258,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216382,
+        "num": 216382,
+        "word": "全欧洲的小偷都在往巴黎赶",
+        "onboard_time": 1721894300,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216188,
+        "num": 216188,
+        "word": "刘昊然自曝数学成绩",
+        "onboard_time": 1721898921,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202592,
+        "num": 202592,
+        "word": "登陆日空降",
+        "onboard_time": 1721898980,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196538,
+        "num": 196538,
+        "word": "汇率",
+        "onboard_time": 1721898021,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 196327,
+        "num": 196327,
+        "word": "韩国队签运",
+        "onboard_time": 1721896637,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193329,
+        "num": 193329,
+        "word": "我妈说我姐能考上编是因为爱睡觉",
+        "onboard_time": 1721898500,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184107,
+        "num": 184107,
+        "word": "宋江好帅",
+        "onboard_time": 1721885601,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182760,
+        "num": 182760,
+        "word": "中药冰淇淋一份卖到38元",
+        "onboard_time": 1721874798,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181014,
+        "num": 181014,
+        "word": "TFBOYS才是最早的养成系",
+        "onboard_time": 1721895320,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170623,
+        "num": 170623,
+        "word": "郭晶晶以裁判身份出发巴黎",
+        "onboard_time": 1721897359,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170563,
+        "num": 170563,
+        "word": "史上最像草台班子的奥运会",
+        "onboard_time": 1721898080,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165098,
+        "num": 165098,
+        "word": "台风",
+        "onboard_time": 1721862314,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163197,
+        "num": 163197,
+        "word": "沈阳暴雨",
+        "onboard_time": 1721896579,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149322,
+        "num": 149322,
+        "word": "刘诗雯新身份出发巴黎",
+        "onboard_time": 1721897900,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147493,
+        "num": 147493,
+        "word": "何浩楠闯进山东女婿赛道",
+        "onboard_time": 1721899098,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142422,
+        "num": 142422,
+        "word": "密室大逃脱否认延期",
+        "onboard_time": 1721899098,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138762,
+        "num": 138762,
+        "word": "张兰说白癜风控制住了",
+        "onboard_time": 1721894059,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138644,
+        "num": 138644,
+        "word": "密室大逃脱",
+        "onboard_time": 1721873419,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133436,
+        "num": 133436,
+        "word": "别在法国街边流口水了",
+        "onboard_time": 1721898921,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 131221,
+        "num": 131221,
+        "word": "密室大逃脱播不播",
+        "onboard_time": 1721882481,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130441,
+        "num": 130441,
+        "word": "孙卓收到南京工业大学录取通知书",
+        "onboard_time": 1721897060,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#完善国家创新体系#"
+    }
+  }
+}
