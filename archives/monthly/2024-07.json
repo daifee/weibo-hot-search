@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721949681186,
+  "endTime": 1721950486547,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -5195,6 +5195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 968395,
+      "num": 968395,
+      "word": "奥运会史上首次开放式开幕式",
+      "onboard_time": 1721920399,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 968160,
       "num": 377240,
       "word": "婴儿疑因月嫂护理不当呛奶死亡",
@@ -6137,14 +6145,6 @@
       "onboard_time": 1721192720,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 876956,
-      "num": 876956,
-      "word": "奥运会史上首次开放式开幕式",
-      "onboard_time": 1721920399,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 876563,
@@ -8121,6 +8121,14 @@
       "onboard_time": 1721833281,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 747548,
+      "num": 747548,
+      "word": "一县委书记被举报涉嫌性侵女下属",
+      "onboard_time": 1721948655,
+      "rank": 10,
+      "category": "社会负面"
     },
     {
       "raw_hot": 747111,
@@ -11419,6 +11427,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 591826,
+      "num": 146636,
+      "word": "交了8年社保后我决定停交了",
+      "onboard_time": 1721949796,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 591510,
       "num": 591510,
       "word": "TES对战T1",
@@ -12801,6 +12817,14 @@
       "onboard_time": 1720087578,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 549129,
+      "num": 549129,
+      "word": "张云龙 还在那抱",
+      "onboard_time": 1721943491,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 548719,
@@ -14411,14 +14435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 499935,
-      "num": 499935,
-      "word": "张云龙 还在那抱",
-      "onboard_time": 1721943491,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 499848,
       "num": 499848,
       "word": "敖子逸 小鬼",
@@ -15529,14 +15545,6 @@
       "onboard_time": 1720491078,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 473977,
-      "num": 164361,
-      "word": "一县委书记被举报涉嫌性侵女下属",
-      "onboard_time": 1721948655,
-      "rank": 10,
-      "category": "社会负面"
     },
     {
       "raw_hot": 473830,
@@ -18780,7 +18788,7 @@
     },
     {
       "raw_hot": 405435,
-      "num": 119542,
+      "num": 144557,
       "word": "三亚酒店暴跌游客都去哪儿了",
       "onboard_time": 1721925077,
       "rank": 47,
@@ -20425,6 +20433,14 @@
       "onboard_time": 1720342278,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 371127,
+      "num": 371127,
+      "word": "台风格美",
+      "onboard_time": 1721821639,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 370876,
@@ -23115,6 +23131,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 323742,
+      "num": 207722,
+      "word": "体重将近200斤的美国恶霸犬",
+      "onboard_time": 1721949195,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 323710,
       "num": 323710,
       "word": "马嘉祺听到出道战赛制的反应",
@@ -24480,6 +24504,14 @@
       "word": "银河",
       "onboard_time": 1719992597,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300411,
+      "num": 300411,
+      "word": "台风格美实时路径",
+      "onboard_time": 1721936352,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -27043,6 +27075,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 265633,
+      "num": 143548,
+      "word": "戴了五年美瞳把眼睛寿命磨损完了",
+      "onboard_time": 1721949195,
+      "rank": 21,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 265556,
       "num": 265556,
       "word": "张晚意 说你那是红的就是红的",
@@ -27241,14 +27281,6 @@
       "onboard_time": 1721724080,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 263035,
-      "num": 263035,
-      "word": "台风格美实时路径",
-      "onboard_time": 1721936352,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 262996,
@@ -37827,14 +37859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194729,
-      "num": 194729,
-      "word": "台风格美",
-      "onboard_time": 1721821639,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194700,
       "num": 176998,
       "word": "文韬 情绪稳定",
@@ -46795,6 +46819,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 161111,
+      "num": 161111,
+      "word": "南科大录取通知书被指用错的地",
+      "onboard_time": 1721948534,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161086,
       "num": 161086,
       "word": "周深今天好闪",
@@ -49865,6 +49897,14 @@
       "onboard_time": 1720874718,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 149100,
+      "num": 149100,
+      "word": "商贷利率逼近公积金",
+      "onboard_time": 1721948534,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 149075,
@@ -53203,14 +53243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 136816,
-      "num": 117084,
-      "word": "戴了五年美瞳把眼睛寿命磨损完了",
-      "onboard_time": 1721949195,
-      "rank": 21,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 136799,
       "num": 136799,
       "word": "花傲天杯赛程",
@@ -53625,6 +53657,14 @@
       "onboard_time": 1721472980,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134948,
+      "num": 134948,
+      "word": "徐明浩上恋综了",
+      "onboard_time": 1721949315,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 134913,
@@ -54555,6 +54595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132036,
+      "num": 132036,
+      "word": "哈里斯与特朗普谁的胜算更大",
+      "onboard_time": 1721938813,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132029,
       "num": 132029,
       "word": "Henry把黄子弘凡点燃了",
@@ -54785,6 +54833,14 @@
       "onboard_time": 1720431079,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 131198,
+      "num": 131198,
+      "word": "宋亚轩定位忘关了",
+      "onboard_time": 1721949616,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 131192,
@@ -55571,14 +55627,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 128066,
-      "num": 115737,
-      "word": "南科大录取通知书被指用错的地",
-      "onboard_time": 1721948534,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 128037,
       "num": 128037,
       "word": "李蓉裴文宣雪天烟花吻",
@@ -56171,14 +56219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125750,
-      "num": 125750,
-      "word": "哈里斯与特朗普谁的胜算更大",
-      "onboard_time": 1721938813,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125710,
       "num": 125710,
       "word": "周也又去环球影城了",
@@ -56721,6 +56761,14 @@
       "onboard_time": 1720014740,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123782,
+      "num": 123782,
+      "word": "狗狗把自己臭的龇牙咧嘴的",
+      "onboard_time": 1721949195,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 123775,
@@ -57507,6 +57555,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 120967,
+      "num": 120967,
+      "word": "深圳暴雨",
+      "onboard_time": 1721949556,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120855,
       "num": 120855,
       "word": "中国在南海的历史性权利不容否定",
@@ -58153,6 +58209,14 @@
       "onboard_time": 1721032579,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118246,
+      "num": 118246,
+      "word": "BBA涨价后卖更好了",
+      "onboard_time": 1721949195,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 118225,
@@ -58843,6 +58907,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 115422,
+      "num": 115422,
+      "word": "欧阳娜娜现身刘昊然新片首映礼",
+      "onboard_time": 1721950096,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 115399,
       "num": 115399,
       "word": "王鹤棣说从小听GAI",
@@ -59041,14 +59113,6 @@
       "onboard_time": 1720488077,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114104,
-      "num": 114104,
-      "word": "体重将近200斤的美国恶霸犬",
-      "onboard_time": 1721949195,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 114094,
@@ -60843,6 +60907,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 105994,
+      "num": 105994,
+      "word": "论我26号晚上会有多忙",
+      "onboard_time": 1721949255,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105960,
       "num": 105960,
       "word": "吴谨言王星越芭莎预告",
@@ -62091,14 +62163,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 97808,
-      "num": 97808,
-      "word": "商贷利率逼近公积金",
-      "onboard_time": 1721948534,
-      "rank": 25,
-      "category": "财经"
-    },
-    {
       "raw_hot": 97777,
       "num": 97777,
       "word": "普华永道丢掉前8大客户",
@@ -62715,6 +62779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94034,
+      "num": 94034,
+      "word": "8个月宝宝第一次经历台风挺秃然",
+      "onboard_time": 1721950036,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94023,
       "num": 94023,
       "word": "TES决赛对战T1",
@@ -62897,6 +62969,14 @@
       "onboard_time": 1721091619,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92415,
+      "num": 92415,
+      "word": "娜扎让陈哲远管管梁洁",
+      "onboard_time": 1721947634,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 92358,
@@ -63227,14 +63307,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 89053,
-      "num": 89053,
-      "word": "论我26号晚上会有多忙",
-      "onboard_time": 1721949255,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 88971,
       "num": 88971,
       "word": "我们所认识的胡友平",
@@ -63449,14 +63521,6 @@
       "onboard_time": 1721190619,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87073,
-      "num": 87073,
-      "word": "娜扎让陈哲远管管梁洁",
-      "onboard_time": 1721947634,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 87042,
@@ -64507,6 +64571,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 76249,
+      "num": 76249,
+      "word": "原来生活中的暗示这么明显",
+      "onboard_time": 1721949495,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 76189,
       "num": 76189,
       "word": "广州海珠一新能源车发生自燃",
@@ -64545,14 +64617,6 @@
       "onboard_time": 1721911279,
       "rank": 33,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 75886,
-      "num": 75886,
-      "word": "狗狗把自己臭的龇牙咧嘴的",
-      "onboard_time": 1721949195,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 75780,
@@ -64995,14 +65059,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 72364,
-      "num": 72364,
-      "word": "BBA涨价后卖更好了",
-      "onboard_time": 1721949195,
-      "rank": 37,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 72317,
       "num": 373000,
       "word": "周杰伦新代言原来是蓄谋已久",
@@ -65177,14 +65233,6 @@
       "onboard_time": 1721730021,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 70499,
-      "num": 70499,
-      "word": "徐明浩上恋综了",
-      "onboard_time": 1721949315,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 70421,
@@ -66219,14 +66267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 62055,
-      "num": 62055,
-      "word": "宋亚轩定位忘关了",
-      "onboard_time": 1721949616,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 61991,
       "num": 61991,
       "word": "荷兰2比1土耳其",
@@ -66521,14 +66561,6 @@
       "onboard_time": 1721707342,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 60069,
-      "num": 60069,
-      "word": "原来生活中的暗示这么明显",
-      "onboard_time": 1721949495,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 60052,
@@ -67291,6 +67323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54500,
+      "num": 54500,
+      "word": "陈道明入行50年第一次跑厅",
+      "onboard_time": 1721950457,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 54305,
       "num": 306596,
       "word": "下午茶就该在下午喝",
@@ -67640,14 +67680,6 @@
       "word": "南京这水晶天city不city",
       "onboard_time": 1720084998,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51426,
-      "num": 51426,
-      "word": "深圳暴雨",
-      "onboard_time": 1721949556,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -72443,6 +72475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19869,
+      "num": 209192,
+      "word": "盲人推拿师用上了语音洗衣机",
+      "onboard_time": 1721949195,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19867,
       "num": 40723,
       "word": "原来羊是真的会晕倒",
@@ -73249,14 +73289,6 @@
       "onboard_time": 1720036391,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 14431,
-      "num": 164522,
-      "word": "盲人推拿师用上了语音洗衣机",
-      "onboard_time": 1721949195,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13995,

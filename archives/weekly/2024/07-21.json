@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721949681186,
+  "endTime": 1721950486547,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -1411,6 +1411,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 968395,
+      "num": 968395,
+      "word": "奥运会史上首次开放式开幕式",
+      "onboard_time": 1721920399,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 967782,
       "num": 967782,
       "word": "100万存5年利息少1万",
@@ -1641,14 +1649,6 @@
       "onboard_time": 1721544558,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 876956,
-      "num": 876956,
-      "word": "奥运会史上首次开放式开幕式",
-      "onboard_time": 1721920399,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 875757,
@@ -2081,6 +2081,14 @@
       "onboard_time": 1721833281,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 747548,
+      "num": 747548,
+      "word": "一县委书记被举报涉嫌性侵女下属",
+      "onboard_time": 1721948655,
+      "rank": 10,
+      "category": "社会负面"
     },
     {
       "raw_hot": 747111,
@@ -2859,6 +2867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 591826,
+      "num": 146636,
+      "word": "交了8年社保后我决定停交了",
+      "onboard_time": 1721949796,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 590219,
       "num": 590219,
       "word": "全红婵说自己头发油到可以炒菜了",
@@ -3129,6 +3145,14 @@
       "onboard_time": 1721707703,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 549129,
+      "num": 549129,
+      "word": "张云龙 还在那抱",
+      "onboard_time": 1721943491,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 548719,
@@ -3419,14 +3443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 499935,
-      "num": 499935,
-      "word": "张云龙 还在那抱",
-      "onboard_time": 1721943491,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 498162,
       "num": 498162,
       "word": "清融 中单",
@@ -3625,14 +3641,6 @@
       "onboard_time": 1721828478,
       "rank": 23,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 473977,
-      "num": 164361,
-      "word": "一县委书记被举报涉嫌性侵女下属",
-      "onboard_time": 1721948655,
-      "rank": 10,
-      "category": "社会负面"
     },
     {
       "raw_hot": 472531,
@@ -4228,7 +4236,7 @@
     },
     {
       "raw_hot": 405435,
-      "num": 119542,
+      "num": 144557,
       "word": "三亚酒店暴跌游客都去哪儿了",
       "onboard_time": 1721925077,
       "rank": 47,
@@ -4489,6 +4497,14 @@
       "onboard_time": 1721638162,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 371127,
+      "num": 371127,
+      "word": "台风格美",
+      "onboard_time": 1721821639,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 370244,
@@ -5059,6 +5075,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 323742,
+      "num": 207722,
+      "word": "体重将近200斤的美国恶霸犬",
+      "onboard_time": 1721949195,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 322477,
       "num": 322477,
       "word": "雅安暴雨山洪已致8人遇难",
@@ -5369,6 +5393,14 @@
       "onboard_time": 1721906601,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 300411,
+      "num": 300411,
+      "word": "台风格美实时路径",
+      "onboard_time": 1721936352,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 300209,
@@ -6051,6 +6083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 265633,
+      "num": 143548,
+      "word": "戴了五年美瞳把眼睛寿命磨损完了",
+      "onboard_time": 1721949195,
+      "rank": 21,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 264886,
       "num": 264886,
       "word": "台风暴雨高温多预警齐发",
@@ -6113,14 +6153,6 @@
       "onboard_time": 1721724080,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 263035,
-      "num": 263035,
-      "word": "台风格美实时路径",
-      "onboard_time": 1721936352,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 262385,
@@ -8875,14 +8907,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 194729,
-      "num": 194729,
-      "word": "台风格美",
-      "onboard_time": 1721821639,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194670,
       "num": 194670,
       "word": "相柳是笑着死的",
@@ -11195,6 +11219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161111,
+      "num": 161111,
+      "word": "南科大录取通知书被指用错的地",
+      "onboard_time": 1721948534,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161086,
       "num": 161086,
       "word": "周深今天好闪",
@@ -11811,6 +11843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149100,
+      "num": 149100,
+      "word": "商贷利率逼近公积金",
+      "onboard_time": 1721948534,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 148398,
       "num": 148398,
       "word": "早期肝癌5年生存率高达80%以上",
@@ -12307,14 +12347,6 @@
       "category": "自然"
     },
     {
-      "raw_hot": 136816,
-      "num": 117084,
-      "word": "戴了五年美瞳把眼睛寿命磨损完了",
-      "onboard_time": 1721949195,
-      "rank": 21,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 136741,
       "num": 136741,
       "word": "撒贝宁的最后一块短板是啥",
@@ -12377,6 +12409,14 @@
       "onboard_time": 1721766311,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134948,
+      "num": 134948,
+      "word": "徐明浩上恋综了",
+      "onboard_time": 1721949315,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 134585,
@@ -12547,6 +12587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132036,
+      "num": 132036,
+      "word": "哈里斯与特朗普谁的胜算更大",
+      "onboard_time": 1721938813,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131656,
       "num": 131656,
       "word": "YG准备推出NextMonster",
@@ -12561,6 +12609,14 @@
       "onboard_time": 1721738479,
       "rank": 46,
       "category": "网红,作品衍生"
+    },
+    {
+      "raw_hot": 131198,
+      "num": 131198,
+      "word": "宋亚轩定位忘关了",
+      "onboard_time": 1721949616,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 131192,
@@ -12641,14 +12697,6 @@
       "onboard_time": 1721785519,
       "rank": 47,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 128066,
-      "num": 115737,
-      "word": "南科大录取通知书被指用错的地",
-      "onboard_time": 1721948534,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127935,
@@ -12739,14 +12787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125750,
-      "num": 125750,
-      "word": "哈里斯与特朗普谁的胜算更大",
-      "onboard_time": 1721938813,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125533,
       "num": 212519,
       "word": "鞠婧祎吃糖被审判",
@@ -12793,6 +12833,14 @@
       "onboard_time": 1721696781,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123782,
+      "num": 123782,
+      "word": "狗狗把自己臭的龇牙咧嘴的",
+      "onboard_time": 1721949195,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 123474,
@@ -12875,6 +12923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120967,
+      "num": 120967,
+      "word": "深圳暴雨",
+      "onboard_time": 1721949556,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120467,
       "num": 120467,
       "word": "蔡徐坤Allblack",
@@ -12921,6 +12977,14 @@
       "onboard_time": 1721520916,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 118246,
+      "num": 118246,
+      "word": "BBA涨价后卖更好了",
+      "onboard_time": 1721949195,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 118186,
@@ -12995,6 +13059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115422,
+      "num": 115422,
+      "word": "欧阳娜娜现身刘昊然新片首映礼",
+      "onboard_time": 1721950096,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 114645,
       "num": 114645,
       "word": "王鹤棣新歌烧",
@@ -13009,14 +13081,6 @@
       "onboard_time": 1721831060,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 114104,
-      "num": 114104,
-      "word": "体重将近200斤的美国恶霸犬",
-      "onboard_time": 1721949195,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 113852,
@@ -13195,6 +13259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105994,
+      "num": 105994,
+      "word": "论我26号晚上会有多忙",
+      "onboard_time": 1721949255,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105875,
       "num": 100321,
       "word": "北京暴雨一秒入夜",
@@ -13331,14 +13403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 97808,
-      "num": 97808,
-      "word": "商贷利率逼近公积金",
-      "onboard_time": 1721948534,
-      "rank": 25,
-      "category": "财经"
-    },
-    {
       "raw_hot": 96786,
       "num": 373583,
       "word": "为什么260万用户都选比亚迪宋",
@@ -13427,6 +13491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 94034,
+      "num": 94034,
+      "word": "8个月宝宝第一次经历台风挺秃然",
+      "onboard_time": 1721950036,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93332,
       "num": 211180,
       "word": "华晨宇忒修斯的船",
@@ -13441,6 +13513,14 @@
       "onboard_time": 1721529257,
       "rank": 49,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 92415,
+      "num": 92415,
+      "word": "娜扎让陈哲远管管梁洁",
+      "onboard_time": 1721947634,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 91557,
@@ -13465,14 +13545,6 @@
       "onboard_time": 1721924178,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 89053,
-      "num": 89053,
-      "word": "论我26号晚上会有多忙",
-      "onboard_time": 1721949255,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 88661,
@@ -13505,14 +13577,6 @@
       "onboard_time": 1721571861,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87073,
-      "num": 87073,
-      "word": "娜扎让陈哲远管管梁洁",
-      "onboard_time": 1721947634,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 86050,
@@ -13779,6 +13843,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 76249,
+      "num": 76249,
+      "word": "原来生活中的暗示这么明显",
+      "onboard_time": 1721949495,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 75950,
       "num": 151621,
       "word": "男孩不想吃学习的苦被家长带去捡瓶子",
@@ -13793,14 +13865,6 @@
       "onboard_time": 1721911279,
       "rank": 33,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 75886,
-      "num": 75886,
-      "word": "狗狗把自己臭的龇牙咧嘴的",
-      "onboard_time": 1721949195,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 75780,
@@ -13907,14 +13971,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 72364,
-      "num": 72364,
-      "word": "BBA涨价后卖更好了",
-      "onboard_time": 1721949195,
-      "rank": 37,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 71229,
       "num": 361441,
       "word": "花花把自己团成了三角饭团",
@@ -13945,14 +14001,6 @@
       "onboard_time": 1721730021,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 70499,
-      "num": 70499,
-      "word": "徐明浩上恋综了",
-      "onboard_time": 1721949315,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 69908,
@@ -14171,14 +14219,6 @@
       "category": "社会新闻,国外时政"
     },
     {
-      "raw_hot": 62055,
-      "num": 62055,
-      "word": "宋亚轩定位忘关了",
-      "onboard_time": 1721949616,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 61901,
       "num": 899169,
       "word": "因业委会内斗小区给业主发钱",
@@ -14233,14 +14273,6 @@
       "onboard_time": 1721707342,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 60069,
-      "num": 60069,
-      "word": "原来生活中的暗示这么明显",
-      "onboard_time": 1721949495,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 59880,
@@ -14387,6 +14419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54500,
+      "num": 54500,
+      "word": "陈道明入行50年第一次跑厅",
+      "onboard_time": 1721950457,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 53906,
       "num": 91264,
       "word": "BLG换人",
@@ -14457,14 +14497,6 @@
       "onboard_time": 1721670014,
       "rank": 26,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 51426,
-      "num": 51426,
-      "word": "深圳暴雨",
-      "onboard_time": 1721949556,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 51241,
@@ -15539,6 +15571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19869,
+      "num": 209192,
+      "word": "盲人推拿师用上了语音洗衣机",
+      "onboard_time": 1721949195,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19857,
       "num": 140948,
       "word": "我国已规划建设181条东数西算干线光缆",
@@ -15681,14 +15721,6 @@
       "onboard_time": 1721852590,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 14431,
-      "num": 164522,
-      "word": "盲人推拿师用上了语音洗衣机",
-      "onboard_time": 1721949195,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13827,
