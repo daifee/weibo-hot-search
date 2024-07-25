@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721882385977,
+  "endTime": 1721884785906,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -817,6 +817,14 @@
       "onboard_time": 1720091478,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2093627,
+      "num": 2093627,
+      "word": "14岁初中生课堂嗑药致昏迷进ICU",
+      "onboard_time": 1721880680,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2091293,
@@ -2363,6 +2371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1391882,
+      "num": 1391882,
+      "word": "古茗监控视频曝光",
+      "onboard_time": 1721880140,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1391404,
       "num": 1391404,
       "word": "希林娜依高嗓子咋了",
@@ -3443,14 +3459,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1169691,
-      "num": 1169691,
-      "word": "古茗监控视频曝光",
-      "onboard_time": 1721880140,
-      "rank": 4,
-      "category": "美食"
-    },
-    {
       "raw_hot": 1169655,
       "num": 1169655,
       "word": "喜欢你我也是 婚纱照",
@@ -3539,14 +3547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1159829,
-      "num": 1159829,
-      "word": "14岁初中生课堂嗑药致昏迷进ICU",
-      "onboard_time": 1721880680,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1158706,
       "num": 1177758,
       "word": "交警指挥不了萝卜快跑需引起重视",
@@ -3623,6 +3623,14 @@
       "num": 379576,
       "word": "奚梦瑶2岁女儿身高",
       "onboard_time": 1720334538,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1138076,
+      "num": 569287,
+      "word": "阚清子与未婚夫结束度假回国",
+      "onboard_time": 1721882780,
       "rank": 10,
       "category": "艺人"
     },
@@ -8563,6 +8571,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 705188,
+      "num": 705188,
+      "word": "中药冰淇淋一份卖到38元",
+      "onboard_time": 1721874798,
+      "rank": 47,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 704466,
       "num": 468955,
       "word": "特朗普17岁长孙女演讲出圈",
@@ -9987,6 +10003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 631462,
+      "num": 631462,
+      "word": "密室大逃脱播不播",
+      "onboard_time": 1721882481,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 631404,
       "num": 512742,
       "word": "涂山璟白发",
@@ -11323,6 +11347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 581175,
+      "num": 581175,
+      "word": "巴黎再现2008北京奥运背包",
+      "onboard_time": 1721881100,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 580931,
       "num": 543818,
       "word": "长相思成了不被理解的痴男怨女",
@@ -11465,14 +11497,6 @@
       "onboard_time": 1720066698,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 576989,
-      "num": 576989,
-      "word": "中药冰淇淋一份卖到38元",
-      "onboard_time": 1721874798,
-      "rank": 47,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 576196,
@@ -11745,6 +11769,14 @@
       "onboard_time": 1720144576,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 566947,
+      "num": 566947,
+      "word": "闵熙珍私下辱骂NewJeans成员",
+      "onboard_time": 1721881521,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 566790,
@@ -14089,6 +14121,14 @@
       "onboard_time": 1720965981,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 496883,
+      "num": 287547,
+      "word": "矢野浩二晒与美依礼芽合照",
+      "onboard_time": 1721882481,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 496456,
@@ -19483,6 +19523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 377371,
+      "num": 377371,
+      "word": "闵熙珍叫巫师附身郑秀晶",
+      "onboard_time": 1721884221,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 377056,
       "num": 377056,
       "word": "亚马尔领奖还是没经验",
@@ -19795,14 +19843,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 371992,
-      "num": 371992,
-      "word": "闵熙珍私下辱骂NewJeans成员",
-      "onboard_time": 1721881521,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 371733,
       "num": 371733,
       "word": "密逃初代粉碎了",
@@ -19936,6 +19976,14 @@
       "word": "曝萧亚轩男友是假荷兰富二代",
       "onboard_time": 1721807300,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 369256,
+      "num": 285850,
+      "word": "和陈奕迅拼桌吃饭",
+      "onboard_time": 1721883021,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -20217,6 +20265,14 @@
       "onboard_time": 1720017500,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 362235,
+      "num": 280719,
+      "word": "TFBOYS的歌已成为衡量时间的尺",
+      "onboard_time": 1721883921,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 362188,
@@ -22667,6 +22723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 319943,
+      "num": 255087,
+      "word": "学校免费提供的卫生巾堆得像山",
+      "onboard_time": 1721882001,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319845,
       "num": 319845,
       "word": "花花上桌全靠脸使劲",
@@ -23880,6 +23944,14 @@
       "word": "秦彻 密约",
       "onboard_time": 1720673781,
       "rank": 18,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 298877,
+      "num": 298877,
+      "word": "光与夜之恋活动",
+      "onboard_time": 1721882360,
+      "rank": 45,
       "category": "游戏"
     },
     {
@@ -25897,6 +25969,14 @@
       "onboard_time": 1721875279,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270792,
+      "num": 270792,
+      "word": "齐司礼 绿色",
+      "onboard_time": 1721884280,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 270659,
@@ -29033,14 +29113,6 @@
       "onboard_time": 1721222659,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 235151,
-      "num": 235151,
-      "word": "巴黎再现2008北京奥运背包",
-      "onboard_time": 1721881100,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 235140,
@@ -32403,6 +32475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211144,
+      "num": 211144,
+      "word": "竟然有Shallow",
+      "onboard_time": 1721883021,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211136,
       "num": 211136,
       "word": "92岁老人24秒翻2米高大门出走",
@@ -35027,6 +35107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200503,
+      "num": 200503,
+      "word": "无期迷途",
+      "onboard_time": 1721884582,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 200491,
       "num": 200491,
       "word": "广东的蟑螂居然有荧光棒了",
@@ -35769,6 +35857,14 @@
       "onboard_time": 1721004921,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197944,
+      "num": 197944,
+      "word": "巴黎奥运会",
+      "onboard_time": 1720841717,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 197914,
@@ -37027,6 +37123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193543,
+      "num": 193543,
+      "word": "陆沉背痛包",
+      "onboard_time": 1721884161,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193523,
       "num": 193523,
       "word": "被巴黎奥运村的熊猫可爱到",
@@ -37041,14 +37145,6 @@
       "onboard_time": 1720433658,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 193493,
-      "num": 193493,
-      "word": "学校免费提供的卫生巾堆得像山",
-      "onboard_time": 1721882001,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193431,
@@ -40147,14 +40243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 181414,
-      "num": 181414,
-      "word": "光与夜之恋活动",
-      "onboard_time": 1721882360,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 181354,
       "num": 181354,
       "word": "家族运动会线下礼",
@@ -41819,6 +41907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174727,
+      "num": 174727,
+      "word": "GAI为帮选手通话王源",
+      "onboard_time": 1721882721,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174668,
       "num": 174668,
       "word": "李汶翰木子洋打橄榄球",
@@ -42753,6 +42849,14 @@
       "onboard_time": 1721026939,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170810,
+      "num": 170810,
+      "word": "一个普通女孩140斤到98斤之路",
+      "onboard_time": 1721884760,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 170791,
@@ -46289,14 +46393,6 @@
       "onboard_time": 1721617280,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156526,
-      "num": 156526,
-      "word": "巴黎奥运会",
-      "onboard_time": 1720841717,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 156395,
@@ -64795,6 +64891,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 57757,
+      "num": 202884,
+      "word": "伊利为中国健儿加油",
+      "onboard_time": 1721884340,
+      "rank": 38,
+      "category": "体育,体育"
+    },
+    {
       "raw_hot": 57679,
       "num": 747295,
       "word": "玫瑰之城的欢迎仪式太盛大了",
@@ -64873,6 +64977,14 @@
       "onboard_time": 1720383191,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 57270,
+      "num": 569576,
+      "word": "为啥1米深的水也能淹死成年人",
+      "onboard_time": 1721883622,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57254,

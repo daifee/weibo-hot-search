@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721882385977,
+  "endTime": 1721884785906,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -216,6 +216,14 @@
       "word": "台湾语文课本文言文删掉了四分之三",
       "onboard_time": 1721780719,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2093627,
+      "num": 2093627,
+      "word": "14岁初中生课堂嗑药致昏迷进ICU",
+      "onboard_time": 1721880680,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -595,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1391882,
+      "num": 1391882,
+      "word": "古茗监控视频曝光",
+      "onboard_time": 1721880140,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1358111,
       "num": 1358111,
       "word": "台风格美直角掉头了",
@@ -875,14 +891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1169691,
-      "num": 1169691,
-      "word": "古茗监控视频曝光",
-      "onboard_time": 1721880140,
-      "rank": 4,
-      "category": "美食"
-    },
-    {
       "raw_hot": 1169655,
       "num": 1169655,
       "word": "喜欢你我也是 婚纱照",
@@ -899,14 +907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1159829,
-      "num": 1159829,
-      "word": "14岁初中生课堂嗑药致昏迷进ICU",
-      "onboard_time": 1721880680,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1149792,
       "num": 1137138,
       "word": "杨倩陪母亲走完最后时光",
@@ -920,6 +920,14 @@
       "word": "张杰用镊子给自己拔鱼刺",
       "onboard_time": 1721746341,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1138076,
+      "num": 569287,
+      "word": "阚清子与未婚夫结束度假回国",
+      "onboard_time": 1721882780,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -1987,6 +1995,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 705188,
+      "num": 705188,
+      "word": "中药冰淇淋一份卖到38元",
+      "onboard_time": 1721874798,
+      "rank": 47,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 701426,
       "num": 443536,
       "word": "美国公布核弹头数量",
@@ -2275,6 +2291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 631462,
+      "num": 631462,
+      "word": "密室大逃脱播不播",
+      "onboard_time": 1721882481,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 628672,
       "num": 628672,
       "word": "韩国女子遭性侵21年后反杀加害者",
@@ -2507,6 +2531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 581175,
+      "num": 581175,
+      "word": "巴黎再现2008北京奥运背包",
+      "onboard_time": 1721881100,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 580931,
       "num": 543818,
       "word": "长相思成了不被理解的痴男怨女",
@@ -2547,14 +2579,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 576989,
-      "num": 576989,
-      "word": "中药冰淇淋一份卖到38元",
-      "onboard_time": 1721874798,
-      "rank": 47,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 569613,
       "num": 569613,
       "word": "全红婵水花消失术用英语怎么说",
@@ -2577,6 +2601,14 @@
       "onboard_time": 1721724859,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 566947,
+      "num": 566947,
+      "word": "闵熙珍私下辱骂NewJeans成员",
+      "onboard_time": 1721881521,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 565760,
@@ -2993,6 +3025,14 @@
       "onboard_time": 1721814439,
       "rank": 6,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 496883,
+      "num": 287547,
+      "word": "矢野浩二晒与美依礼芽合照",
+      "onboard_time": 1721882481,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 496255,
@@ -3835,6 +3875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 377371,
+      "num": 377371,
+      "word": "闵熙珍叫巫师附身郑秀晶",
+      "onboard_time": 1721884221,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 375950,
       "num": 353384,
       "word": "原来慈禧太后的卧室长这样",
@@ -3873,14 +3921,6 @@
       "onboard_time": 1721531058,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 371992,
-      "num": 371992,
-      "word": "闵熙珍私下辱骂NewJeans成员",
-      "onboard_time": 1721881521,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 371733,
@@ -3939,6 +3979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 369256,
+      "num": 285850,
+      "word": "和陈奕迅拼桌吃饭",
+      "onboard_time": 1721883021,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 367971,
       "num": 515340,
       "word": "硬卧39小时55分钟造一个舒适小窝",
@@ -3993,6 +4041,14 @@
       "onboard_time": 1721812820,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 362235,
+      "num": 280719,
+      "word": "TFBOYS的歌已成为衡量时间的尺",
+      "onboard_time": 1721883921,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 362188,
@@ -4427,6 +4483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 319943,
+      "num": 255087,
+      "word": "学校免费提供的卫生巾堆得像山",
+      "onboard_time": 1721882001,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317774,
       "num": 317774,
       "word": "张若昀在路演当布洛芬",
@@ -4681,6 +4745,14 @@
       "onboard_time": 1721778676,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 298877,
+      "num": 298877,
+      "word": "光与夜之恋活动",
+      "onboard_time": 1721882360,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 298648,
@@ -5113,6 +5185,14 @@
       "onboard_time": 1721875279,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270792,
+      "num": 270792,
+      "word": "齐司礼 绿色",
+      "onboard_time": 1721884280,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 269384,
@@ -5857,14 +5937,6 @@
       "onboard_time": 1721651603,
       "rank": 34,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 235151,
-      "num": 235151,
-      "word": "巴黎再现2008北京奥运背包",
-      "onboard_time": 1721881100,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 235093,
@@ -6787,6 +6859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211144,
+      "num": 211144,
+      "word": "竟然有Shallow",
+      "onboard_time": 1721883021,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210931,
       "num": 210931,
       "word": "知名痔疮药涨价20多倍还断货",
@@ -7283,6 +7363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 200503,
+      "num": 200503,
+      "word": "无期迷途",
+      "onboard_time": 1721884582,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 200411,
       "num": 200411,
       "word": "NMIXX滑倒",
@@ -7488,6 +7576,14 @@
       "word": "诺里斯亚军",
       "onboard_time": 1721574501,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 197944,
+      "num": 197944,
+      "word": "巴黎奥运会",
+      "onboard_time": 1721884699,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -7779,12 +7875,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 193493,
-      "num": 193493,
-      "word": "学校免费提供的卫生巾堆得像山",
-      "onboard_time": 1721882001,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 193543,
+      "num": 193543,
+      "word": "陆沉背痛包",
+      "onboard_time": 1721884161,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 193340,
@@ -8507,14 +8603,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 181414,
-      "num": 181414,
-      "word": "光与夜之恋活动",
-      "onboard_time": 1721882360,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 181154,
       "num": 181154,
       "word": "颖儿金晨同游马尔代夫",
@@ -8843,6 +8931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174727,
+      "num": 174727,
+      "word": "GAI为帮选手通话王源",
+      "onboard_time": 1721882721,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174647,
       "num": 174647,
       "word": "张信哲向上博捐赠12件服饰",
@@ -9081,6 +9177,14 @@
       "onboard_time": 1721662162,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 170810,
+      "num": 170810,
+      "word": "一个普通女孩140斤到98斤之路",
+      "onboard_time": 1721884760,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 170734,
@@ -12235,12 +12339,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 57757,
+      "num": 202884,
+      "word": "伊利为中国健儿加油",
+      "onboard_time": 1721884340,
+      "rank": 38,
+      "category": "体育,体育"
+    },
+    {
       "raw_hot": 57553,
       "num": 474527,
       "word": "范丞丞大热天玩火",
       "onboard_time": 1721710941,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 57270,
+      "num": 569576,
+      "word": "为啥1米深的水也能淹死成年人",
+      "onboard_time": 1721883622,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57119,

@@ -1,7 +1,15 @@
 {
   "startTime": 1721838296901,
-  "endTime": 1721882385977,
+  "endTime": 1721884785906,
   "band_list": [
+    {
+      "raw_hot": 2093627,
+      "num": 2093627,
+      "word": "14岁初中生课堂嗑药致昏迷进ICU",
+      "onboard_time": 1721880680,
+      "rank": 14,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1836788,
       "num": 1836788,
@@ -43,6 +51,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1391882,
+      "num": 1391882,
+      "word": "古茗监控视频曝光",
+      "onboard_time": 1721880140,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1358111,
       "num": 1358111,
       "word": "台风格美直角掉头了",
@@ -59,20 +75,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1169691,
-      "num": 1169691,
-      "word": "古茗监控视频曝光",
-      "onboard_time": 1721880140,
-      "rank": 4,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 1159829,
-      "num": 1159829,
-      "word": "14岁初中生课堂嗑药致昏迷进ICU",
-      "onboard_time": 1721880680,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 1138076,
+      "num": 569287,
+      "word": "阚清子与未婚夫结束度假回国",
+      "onboard_time": 1721882780,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1106067,
@@ -187,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 705188,
+      "num": 705188,
+      "word": "中药冰淇淋一份卖到38元",
+      "onboard_time": 1721874798,
+      "rank": 47,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 699250,
       "num": 462991,
       "word": "兰州怪味",
@@ -233,6 +249,14 @@
       "onboard_time": 1721866641,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 631462,
+      "num": 631462,
+      "word": "密室大逃脱播不播",
+      "onboard_time": 1721882481,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 625915,
@@ -283,12 +307,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 576989,
-      "num": 576989,
-      "word": "中药冰淇淋一份卖到38元",
-      "onboard_time": 1721874798,
-      "rank": 47,
-      "category": "社会新闻,美食"
+      "raw_hot": 581175,
+      "num": 581175,
+      "word": "巴黎再现2008北京奥运背包",
+      "onboard_time": 1721881100,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 566947,
+      "num": 566947,
+      "word": "闵熙珍私下辱骂NewJeans成员",
+      "onboard_time": 1721881521,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 556747,
@@ -331,6 +363,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 496883,
+      "num": 287547,
+      "word": "矢野浩二晒与美依礼芽合照",
+      "onboard_time": 1721882481,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 466287,
       "num": 461919,
       "word": "特朗普公开巴勒斯坦总统来信",
@@ -371,6 +411,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 377371,
+      "num": 377371,
+      "word": "闵熙珍叫巫师附身郑秀晶",
+      "onboard_time": 1721884221,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 374998,
       "num": 186216,
       "word": "女高中生举报大学教师婚内出轨",
@@ -403,14 +451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 371992,
-      "num": 371992,
-      "word": "闵熙珍私下辱骂NewJeans成员",
-      "onboard_time": 1721881521,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 371315,
       "num": 371315,
       "word": "花儿与少年直播",
@@ -425,6 +465,22 @@
       "onboard_time": 1721838318,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369256,
+      "num": 285850,
+      "word": "和陈奕迅拼桌吃饭",
+      "onboard_time": 1721883021,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 362235,
+      "num": 280719,
+      "word": "TFBOYS的歌已成为衡量时间的尺",
+      "onboard_time": 1721883921,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 347306,
@@ -459,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 319943,
+      "num": 255087,
+      "word": "学校免费提供的卫生巾堆得像山",
+      "onboard_time": 1721882001,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317774,
       "num": 317774,
       "word": "张若昀在路演当布洛芬",
@@ -489,6 +553,14 @@
       "onboard_time": 1721879300,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298877,
+      "num": 298877,
+      "word": "光与夜之恋活动",
+      "onboard_time": 1721882360,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 297515,
@@ -561,6 +633,14 @@
       "onboard_time": 1721875279,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270792,
+      "num": 270792,
+      "word": "齐司礼 绿色",
+      "onboard_time": 1721884280,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 269619,
@@ -641,14 +721,6 @@
       "onboard_time": 1721878280,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 235151,
-      "num": 235151,
-      "word": "巴黎再现2008北京奥运背包",
-      "onboard_time": 1721881100,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 232885,
@@ -771,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211144,
+      "num": 211144,
+      "word": "竟然有Shallow",
+      "onboard_time": 1721883021,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210931,
       "num": 210931,
       "word": "知名痔疮药涨价20多倍还断货",
@@ -827,6 +907,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200503,
+      "num": 200503,
+      "word": "无期迷途",
+      "onboard_time": 1721884582,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 197944,
+      "num": 197944,
+      "word": "巴黎奥运会",
+      "onboard_time": 1721884699,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196886,
       "num": 196886,
       "word": "汪苏泷古巨基唱放逐",
@@ -867,12 +963,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 193493,
-      "num": 193493,
-      "word": "学校免费提供的卫生巾堆得像山",
-      "onboard_time": 1721882001,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 193543,
+      "num": 193543,
+      "word": "陆沉背痛包",
+      "onboard_time": 1721884161,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 192457,
@@ -939,14 +1035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181414,
-      "num": 181414,
-      "word": "光与夜之恋活动",
-      "onboard_time": 1721882360,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 179700,
       "num": 179700,
       "word": "知情人谈生理盐水冒充疫苗操作内幕",
@@ -995,12 +1083,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174727,
+      "num": 174727,
+      "word": "GAI为帮选手通话王源",
+      "onboard_time": 1721882721,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173201,
       "num": 173201,
       "word": "胡兵瞿颖友达以上恋人未满",
       "onboard_time": 1721882241,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170810,
+      "num": 170810,
+      "word": "一个普通女孩140斤到98斤之路",
+      "onboard_time": 1721884760,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 170654,
@@ -1433,6 +1537,22 @@
       "onboard_time": 1721842634,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57757,
+      "num": 202884,
+      "word": "伊利为中国健儿加油",
+      "onboard_time": 1721884340,
+      "rank": 38,
+      "category": "体育,体育"
+    },
+    {
+      "raw_hot": 57270,
+      "num": 569576,
+      "word": "为啥1米深的水也能淹死成年人",
+      "onboard_time": 1721883622,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52974,
