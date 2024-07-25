@@ -1,0 +1,410 @@
+{
+  "runTime": 1721881529656,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1563302,
+        "num": 1563302,
+        "word": "台风格美预计今天下午到傍晚登陆福建",
+        "onboard_time": 1721877021,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1093318,
+        "num": 1093318,
+        "word": "歌手歌单",
+        "onboard_time": 1721879959,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197489,
+        "num": 1024976,
+        "word": "这就是奥运会",
+        "onboard_time": 1721880320,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 976941,
+        "num": 976941,
+        "word": "金靖不办婚礼的原因",
+        "onboard_time": 1721880259,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 712659,
+        "num": 712659,
+        "word": "古茗监控视频曝光",
+        "onboard_time": 1721880140,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 652187,
+        "num": 652187,
+        "word": "多所高校决定延长研究生学制",
+        "onboard_time": 1721870120,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 618093,
+        "num": 618093,
+        "word": "兰州生态环境局通报市民反映空气异味",
+        "onboard_time": 1721875579,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593630,
+        "num": 593630,
+        "word": "让胡静演妈不是演我妈",
+        "onboard_time": 1721877260,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 583958,
+        "num": 583958,
+        "word": "杨紫李现国色芳华杀青了",
+        "onboard_time": 1721880078,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117948,
+        "num": 580641,
+        "word": "为什么取消手机收费套餐这么麻烦",
+        "onboard_time": 1721880021,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1355503,
+        "num": 571080,
+        "word": "夫妻冷战三伏天车里开暖风",
+        "onboard_time": 1721872398,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1106067,
+        "num": 565114,
+        "word": "D社再曝闵熙珍聊天记录",
+        "onboard_time": 1721878161,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 628321,
+        "num": 562754,
+        "word": "闲鱼回应用暗号开展色情交易",
+        "onboard_time": 1721863576,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 555794,
+        "num": 555794,
+        "word": "唐尚珺请网友投票去不去上大学",
+        "onboard_time": 1721875037,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518591,
+        "num": 518591,
+        "word": "14岁初中生课堂嗑药致昏迷进ICU",
+        "onboard_time": 1721880680,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495677,
+        "num": 495677,
+        "word": "张家齐谈遗憾无缘巴黎奥运会",
+        "onboard_time": 1721873840,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 390977,
+        "num": 390977,
+        "word": "中药冰淇淋一份卖到38元",
+        "onboard_time": 1721874798,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370729,
+        "num": 370729,
+        "word": "歌王之战来了5个歌王",
+        "onboard_time": 1721865739,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346016,
+        "num": 346016,
+        "word": "100万存5年利息少1万",
+        "onboard_time": 1721869941,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 313942,
+        "num": 339313,
+        "word": "檀健次三部待播剧都是轻喜风",
+        "onboard_time": 1721880801,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 450648,
+        "num": 339129,
+        "word": "山东理工大学",
+        "onboard_time": 1721870599,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358544,
+        "num": 338835,
+        "word": "校方通报高中生举报大学教师婚内出轨",
+        "onboard_time": 1721866100,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338438,
+        "num": 338438,
+        "word": "人一旦拎着袋子上班那基本就定型了",
+        "onboard_time": 1721869160,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 322677,
+        "num": 322677,
+        "word": "拜登谈退选原因",
+        "onboard_time": 1721868502,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 309656,
+        "num": 309656,
+        "word": "台风格美直角掉头了",
+        "onboard_time": 1721832920,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68793,
+        "num": 302112,
+        "word": "国字号认证的技术有多牛",
+        "onboard_time": 1721876840,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301499,
+        "num": 301499,
+        "word": "台风",
+        "onboard_time": 1721862314,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283789,
+        "num": 283789,
+        "word": "台风格美将致10余省强降雨",
+        "onboard_time": 1721866641,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 698023,
+        "num": 283479,
+        "word": "iPhone17或将移除Plus机型",
+        "onboard_time": 1721873718,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 280134,
+        "num": 280134,
+        "word": "恋与深空免五",
+        "onboard_time": 1721879900,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 275754,
+        "num": 275754,
+        "word": "唐诡西行捅到疯窝了",
+        "onboard_time": 1721876539,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272889,
+        "num": 272889,
+        "word": "密室大逃脱",
+        "onboard_time": 1721873419,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272800,
+        "num": 272800,
+        "word": "考上研究生前后的颜值变化",
+        "onboard_time": 1721878939,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 263356,
+        "num": 263356,
+        "word": "田曦薇王安宇从籍籍无名到人声鼎沸",
+        "onboard_time": 1721873119,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257494,
+        "num": 257494,
+        "word": "陈楚生 姑娘",
+        "onboard_time": 1721874259,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 251606,
+        "num": 251606,
+        "word": "花花的专属洞洞已经装不下它了",
+        "onboard_time": 1721879300,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240971,
+        "num": 240971,
+        "word": "那英回春丹真唱鲜花",
+        "onboard_time": 1721881280,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228224,
+        "num": 228224,
+        "word": "BLG发布公告",
+        "onboard_time": 1721880381,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 223650,
+        "num": 223650,
+        "word": "谁给凡希亚做的造型",
+        "onboard_time": 1721879780,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217966,
+        "num": 217966,
+        "word": "李佳琦说旺旺离职不会挽留",
+        "onboard_time": 1721823620,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206038,
+        "num": 206038,
+        "word": "白宫回应拜登任内未访华",
+        "onboard_time": 1721880501,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 196886,
+        "num": 196886,
+        "word": "汪苏泷古巨基唱放逐",
+        "onboard_time": 1721880740,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192325,
+        "num": 192325,
+        "word": "巴黎再现2008北京奥运背包",
+        "onboard_time": 1721881100,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192116,
+        "num": 192116,
+        "word": "赵露思白色小香",
+        "onboard_time": 1721875279,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187908,
+        "num": 187908,
+        "word": "张若昀在路演当布洛芬",
+        "onboard_time": 1721874198,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 77019,
+        "num": 184841,
+        "word": "你会选爸妈做旅游搭子吗",
+        "onboard_time": 1721876718,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 184401,
+        "num": 184401,
+        "word": "咒术回战264话",
+        "onboard_time": 1721878460,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 170204,
+        "num": 170204,
+        "word": "孙颖莎王楚钦气场拉满",
+        "onboard_time": 1721880622,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167505,
+        "num": 167505,
+        "word": "日媒称牛肉饭涨价怪中国",
+        "onboard_time": 1721881399,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164157,
+        "num": 164157,
+        "word": "降息",
+        "onboard_time": 1721875399,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#完善国家创新体系#"
+    }
+  }
+}

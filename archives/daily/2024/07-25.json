@@ -1,6 +1,6 @@
 {
   "startTime": 1721838296901,
-  "endTime": 1721878562363,
+  "endTime": 1721881529656,
   "band_list": [
     {
       "raw_hot": 1836788,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1563302,
+      "num": 1563302,
+      "word": "台风格美预计今天下午到傍晚登陆福建",
+      "onboard_time": 1721877021,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1517101,
       "num": 612110,
       "word": "闲鱼回应用暗号开展色情交易",
@@ -43,12 +51,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1320095,
-      "num": 1320095,
-      "word": "台风格美预计今天下午到傍晚登陆福建",
-      "onboard_time": 1721877021,
+      "raw_hot": 1106067,
+      "num": 565114,
+      "word": "D社再曝闵熙珍聊天记录",
+      "onboard_time": 1721878161,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1093318,
+      "num": 1093318,
+      "word": "歌手歌单",
+      "onboard_time": 1721879959,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 976941,
+      "num": 976941,
+      "word": "金靖不办婚礼的原因",
+      "onboard_time": 1721880259,
       "rank": 3,
-      "category": "社会新闻"
+      "category": "综艺"
     },
     {
       "raw_hot": 967782,
@@ -139,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 712659,
+      "num": 712659,
+      "word": "古茗监控视频曝光",
+      "onboard_time": 1721880140,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
       "raw_hot": 699250,
       "num": 462991,
       "word": "兰州怪味",
@@ -203,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 593630,
+      "num": 593630,
+      "word": "让胡静演妈不是演我妈",
+      "onboard_time": 1721877260,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 589382,
       "num": 589382,
       "word": "台风",
@@ -227,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 583958,
+      "num": 583958,
+      "word": "杨紫李现国色芳华杀青了",
+      "onboard_time": 1721880078,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 556747,
       "num": 556747,
       "word": "陕西师范大学",
@@ -249,6 +297,14 @@
       "onboard_time": 1721832801,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 518591,
+      "num": 518591,
+      "word": "14岁初中生课堂嗑药致昏迷进ICU",
+      "onboard_time": 1721880680,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 510360,
@@ -307,6 +363,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 390977,
+      "num": 390977,
+      "word": "中药冰淇淋一份卖到38元",
+      "onboard_time": 1721874798,
+      "rank": 47,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 374998,
       "num": 186216,
       "word": "女高中生举报大学教师婚内出轨",
@@ -347,22 +411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 368234,
-      "num": 368234,
-      "word": "D社再曝闵熙珍聊天记录",
-      "onboard_time": 1721878161,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 362334,
-      "num": 362334,
-      "word": "让胡静演妈不是演我妈",
-      "onboard_time": 1721877260,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 347306,
       "num": 347306,
       "word": "拜登退选演讲",
@@ -393,6 +441,14 @@
       "onboard_time": 1721874198,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 313942,
+      "num": 339313,
+      "word": "檀健次三部待播剧都是轻喜风",
+      "onboard_time": 1721880801,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 311162,
@@ -443,12 +499,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 280134,
+      "num": 280134,
+      "word": "恋与深空免五",
+      "onboard_time": 1721879900,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 275776,
       "num": 275776,
       "word": "迪丽热巴为奥运健儿打call",
       "onboard_time": 1721874140,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 272800,
+      "num": 272800,
+      "word": "考上研究生前后的颜值变化",
+      "onboard_time": 1721878939,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 271920,
@@ -515,6 +587,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 251606,
+      "num": 251606,
+      "word": "花花的专属洞洞已经装不下它了",
+      "onboard_time": 1721879300,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240971,
+      "num": 240971,
+      "word": "那英回春丹真唱鲜花",
+      "onboard_time": 1721881280,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240493,
       "num": 240493,
       "word": "第五人格心跳特辑",
@@ -539,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228224,
+      "num": 228224,
+      "word": "BLG发布公告",
+      "onboard_time": 1721880381,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 227543,
       "num": 227543,
       "word": "北京地铁",
@@ -553,6 +649,14 @@
       "onboard_time": 1721865859,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223650,
+      "num": 223650,
+      "word": "谁给凡希亚做的造型",
+      "onboard_time": 1721879780,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 223264,
@@ -595,14 +699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211944,
-      "num": 211944,
-      "word": "中药冰淇淋一份卖到38元",
-      "onboard_time": 1721874798,
-      "rank": 47,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 210931,
       "num": 210931,
       "word": "知名痔疮药涨价20多倍还断货",
@@ -625,6 +721,14 @@
       "onboard_time": 1721863216,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206038,
+      "num": 206038,
+      "word": "白宫回应拜登任内未访华",
+      "onboard_time": 1721880501,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 203881,
@@ -657,6 +761,22 @@
       "onboard_time": 1721837419,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197489,
+      "num": 1024976,
+      "word": "这就是奥运会",
+      "onboard_time": 1721880320,
+      "rank": 2,
+      "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 196886,
+      "num": 196886,
+      "word": "汪苏泷古巨基唱放逐",
+      "onboard_time": 1721880740,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 195699,
@@ -697,6 +817,14 @@
       "onboard_time": 1721876900,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 192325,
+      "num": 192325,
+      "word": "巴黎再现2008北京奥运背包",
+      "onboard_time": 1721881100,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 191318,
@@ -811,6 +939,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 170204,
+      "num": 170204,
+      "word": "孙颖莎王楚钦气场拉满",
+      "onboard_time": 1721880622,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169633,
       "num": 169633,
       "word": "韩国人很爱强调全世界只有几件",
@@ -825,6 +961,14 @@
       "onboard_time": 1721877919,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 167505,
+      "num": 167505,
+      "word": "日媒称牛肉饭涨价怪中国",
+      "onboard_time": 1721881399,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 164594,
@@ -1035,6 +1179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 117948,
+      "num": 580641,
+      "word": "为什么取消手机收费套餐这么麻烦",
+      "onboard_time": 1721880021,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112052,
       "num": 112052,
       "word": "做噩梦可能是免疫系统在攻击你",
@@ -1171,6 +1323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 77019,
+      "num": 296164,
+      "word": "你会选爸妈做旅游搭子吗",
+      "onboard_time": 1721876718,
+      "rank": 25,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 76196,
       "num": 120868,
       "word": "男子川藏线偶遇大爷竟是00后",
@@ -1225,14 +1385,6 @@
       "onboard_time": 1721842634,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 56271,
-      "num": 296164,
-      "word": "你会选爸妈做旅游搭子吗",
-      "onboard_time": 1721876718,
-      "rank": 25,
-      "category": "旅游"
     },
     {
       "raw_hot": 52974,
@@ -1417,6 +1569,9 @@
     },
     {
       "word": "#加快建设现代化经济体系#"
+    },
+    {
+      "word": "#完善国家创新体系#"
     }
   ]
 }
