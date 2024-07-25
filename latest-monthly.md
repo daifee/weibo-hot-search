@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/25 18:21:23
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/25 18:37:56
 </p>
 </blockquote>
 <p>
@@ -95,6 +95,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E9%80%80%E9%80%89%23" target="weibo">
 拜登退选（热度：7346864）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E7%A6%BB%E8%81%8C%23" target="weibo">
+董宇辉离职（热度：7198318）
 </a>
 </li>
 
@@ -2115,6 +2121,12 @@ DK（热度：1341805）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E5%85%AC%E5%91%8A%E8%91%A3%E5%AE%87%E8%BE%89%E7%A6%BB%E8%81%8C%23" target="weibo">
+东方甄选公告董宇辉离职（热度：1307931）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%AD%E7%BB%B4%E7%BB%B4%E5%BC%80%E5%A4%A7%E4%BA%86%23" target="weibo">
 谭维维开大了（热度：1307298）
 </a>
@@ -2895,6 +2907,12 @@ Kris离职（热度：1198786）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E5%9B%9E%E5%BA%94%E7%A6%BB%E8%81%8C%23" target="weibo">
+董宇辉回应离职（热度：1114251）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%90%AC%E5%8F%96%E7%89%B9%E6%9C%97%E6%99%AE%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E7%AE%80%E6%8A%A5%23" target="weibo">
 拜登听取特朗普枪击事件简报（热度：1114004）
 </a>
@@ -3125,12 +3143,6 @@ Jennie疑似抽烟（热度：1100610）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%88%AA%E4%BB%94%E6%B1%82%E5%A9%9A%E5%BE%90%E8%80%81%E5%B8%88%23" target="weibo">
 航仔求婚徐老师（热度：1077475）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E7%A6%BB%E8%81%8C%23" target="weibo">
-董宇辉离职（热度：1076580）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ T1夺冠（热度：781234）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%80%83%E7%9A%84%E4%B8%8D%E5%A5%BD%E6%98%AF%E5%8F%AF%E4%BB%A5%E4%B8%8D%E7%94%A8%E6%8C%A8%E9%AA%82%E7%9A%84%23" target="weibo">
 原来考的不好是可以不用挨骂的（热度：746353）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E5%9D%90%E5%A9%B4%E5%84%BF%E8%BD%A6%E6%BB%9A%E4%B8%8B%E7%AB%99%E5%8F%B0%E6%92%9E%E4%B8%8A%E7%81%AB%E8%BD%A6%23" target="weibo">
-双胞胎坐婴儿车滚下站台撞上火车（热度：745765）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23NewJeans%E7%88%B6%E6%AF%8D%E5%8F%91%E5%A3%B0%23" target="weibo">
-NewJeans父母发声（热度：745374）
 </a>
 </li>
 
