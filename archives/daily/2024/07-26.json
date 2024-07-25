@@ -1,0 +1,411 @@
+{
+  "startTime": 1721924711965,
+  "endTime": 1721924711965,
+  "band_list": [
+    {
+      "raw_hot": 1002103,
+      "num": 1002103,
+      "word": "女教练连扇小球员9个耳光",
+      "onboard_time": 1721918599,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 876956,
+      "num": 876956,
+      "word": "奥运会史上首次开放式开幕式",
+      "onboard_time": 1721920399,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 538307,
+      "num": 538307,
+      "word": "河南小伙高考529分被清华录取",
+      "onboard_time": 1721910920,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 529398,
+      "num": 529398,
+      "word": "马子佳结婚了",
+      "onboard_time": 1721915660,
+      "rank": 4,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 526450,
+      "num": 526450,
+      "word": "前台是未成年还吃辣条",
+      "onboard_time": 1721915121,
+      "rank": 5,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 523668,
+      "num": 523668,
+      "word": "偶遇张若昀对着自行车鞠躬",
+      "onboard_time": 1721919081,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 502912,
+      "num": 206450,
+      "word": "真的很讨厌外卖点到液体勺",
+      "onboard_time": 1721901919,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 489008,
+      "num": 489008,
+      "word": "被清华录取后他先去了这里",
+      "onboard_time": 1721918360,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 415469,
+      "num": 415469,
+      "word": "偶遇霍思燕带女儿喝下午茶",
+      "onboard_time": 1721909060,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 414540,
+      "num": 414540,
+      "word": "傅园慧晒奖牌回应网友质疑",
+      "onboard_time": 1721920281,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 344834,
+      "num": 344834,
+      "word": "台风格美在福建沿海登陆",
+      "onboard_time": 1721909360,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315162,
+      "num": 315162,
+      "word": "蒋敦豪晒十个勤天合照",
+      "onboard_time": 1721920581,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 291949,
+      "num": 291949,
+      "word": "上半年每10套房有4套买家是90后",
+      "onboard_time": 1721918780,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261292,
+      "num": 261292,
+      "word": "台风登陆",
+      "onboard_time": 1721911219,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260984,
+      "num": 260984,
+      "word": "为啥打耳洞不会有肉被捅出来",
+      "onboard_time": 1721910320,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 258289,
+      "num": 258289,
+      "word": "被新疆冰淇淋冲击到了",
+      "onboard_time": 1721920160,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 242051,
+      "num": 242051,
+      "word": "你好种地少年",
+      "onboard_time": 1721916860,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 216345,
+      "num": 216345,
+      "word": "刘梓晨",
+      "onboard_time": 1721912959,
+      "rank": 18,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 212739,
+      "num": 212739,
+      "word": "官方通报万年县委领导毛某被举报",
+      "onboard_time": 1721922198,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199681,
+      "num": 199681,
+      "word": "清融 中单",
+      "onboard_time": 1721918842,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 192506,
+      "num": 192506,
+      "word": "全红婵自嘲我也年轻过",
+      "onboard_time": 1721922859,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 163550,
+      "num": 163550,
+      "word": "还我妈生鼻",
+      "onboard_time": 1721906242,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 153017,
+      "num": 153017,
+      "word": "台风格美影响或波及10余省份",
+      "onboard_time": 1721911460,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148638,
+      "num": 148638,
+      "word": "网剧少年白马醉春风",
+      "onboard_time": 1721919921,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 141081,
+      "num": 141081,
+      "word": "密逃的别名是许凯丢脸史吧",
+      "onboard_time": 1721921480,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 139181,
+      "num": 139181,
+      "word": "心动的信号",
+      "onboard_time": 1721915841,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 129685,
+      "num": 129685,
+      "word": "孙卓已被南京工业大学录取",
+      "onboard_time": 1721895559,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129215,
+      "num": 129215,
+      "word": "九尾沙特请假条",
+      "onboard_time": 1721918242,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 126086,
+      "num": 126086,
+      "word": "连线改简历意外被创始人看中",
+      "onboard_time": 1721919200,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125547,
+      "num": 125547,
+      "word": "九尾不去沙特",
+      "onboard_time": 1721919081,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 125037,
+      "num": 125037,
+      "word": "第一次见乌龟长得这么水灵",
+      "onboard_time": 1721915000,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 124267,
+      "num": 124267,
+      "word": "张真源洗澡镜头",
+      "onboard_time": 1721917700,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 121494,
+      "num": 121494,
+      "word": "国色芳华",
+      "onboard_time": 1721920700,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 118220,
+      "num": 121488,
+      "word": "陈哲远被吓纯享版",
+      "onboard_time": 1721919861,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 115484,
+      "num": 121476,
+      "word": "宋亚轩 我再也不玩抽象了",
+      "onboard_time": 1721914821,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 115337,
+      "num": 121458,
+      "word": "檀健次歌来了人不敢来",
+      "onboard_time": 1721923518,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 108685,
+      "num": 414595,
+      "word": "陕师大性骚扰女毕业生副教授被解聘",
+      "onboard_time": 1721923219,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108136,
+      "num": 121454,
+      "word": "油价降了",
+      "onboard_time": 1721915000,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 107771,
+      "num": 121444,
+      "word": "王玉雯说张新成压抑了很多年",
+      "onboard_time": 1721915601,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 104291,
+      "num": 121425,
+      "word": "刘耀文头像",
+      "onboard_time": 1721906541,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 99566,
+      "num": 121409,
+      "word": "终于知道刘昊然去年为什么那么瘦了",
+      "onboard_time": 1721910799,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 98933,
+      "num": 121402,
+      "word": "檀健次上海站",
+      "onboard_time": 1721919501,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 97105,
+      "num": 121388,
+      "word": "TFBOYS头发梳成大人模样是凯妈做的",
+      "onboard_time": 1721910620,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 91204,
+      "num": 121373,
+      "word": "心动的信号7路透",
+      "onboard_time": 1721920758,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 90103,
+      "num": 121355,
+      "word": "杨幂村妇造型路透",
+      "onboard_time": 1721892200,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 85272,
+      "num": 121348,
+      "word": "台风格美在福建连江掀起狂浪",
+      "onboard_time": 1721919321,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80014,
+      "num": 121334,
+      "word": "脱胎换骨式减肥法",
+      "onboard_time": 1721917821,
+      "rank": 47,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 79847,
+      "num": 121330,
+      "word": "种地吧",
+      "onboard_time": 1721906002,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 78845,
+      "num": 121305,
+      "word": "一诺和九尾走散了",
+      "onboard_time": 1721924178,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 11535,
+      "num": 664598,
+      "word": "北京时间版奥运观赛日历",
+      "onboard_time": 1721863456,
+      "rank": 2,
+      "category": "体育"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#中共中央政治局常务委员会召开会议#"
+    }
+  ]
+}
