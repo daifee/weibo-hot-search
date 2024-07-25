@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721920851845,
+  "endTime": 1721921689121,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -1395,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 971334,
+      "num": 971334,
+      "word": "前台是未成年还吃辣条",
+      "onboard_time": 1721915121,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 967782,
       "num": 967782,
       "word": "100万存5年利息少1万",
@@ -1513,14 +1521,6 @@
       "onboard_time": 1721718440,
       "rank": 13,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 925314,
-      "num": 925314,
-      "word": "前台是未成年还吃辣条",
-      "onboard_time": 1721915121,
-      "rank": 24,
-      "category": "网红"
     },
     {
       "raw_hot": 922901,
@@ -1769,6 +1769,14 @@
       "onboard_time": 1721704099,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 831951,
+      "num": 831951,
+      "word": "女教练连扇小球员9个耳光",
+      "onboard_time": 1721918599,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 831406,
@@ -2121,14 +2129,6 @@
       "onboard_time": 1721628501,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 735026,
-      "num": 735026,
-      "word": "女教练连扇小球员9个耳光",
-      "onboard_time": 1721918599,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 733476,
@@ -2617,6 +2617,14 @@
       "onboard_time": 1721882481,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 630308,
+      "num": 537543,
+      "word": "偶遇张若昀对着自行车鞠躬",
+      "onboard_time": 1721919081,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 629905,
@@ -3563,14 +3571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 480401,
-      "num": 480401,
-      "word": "偶遇张若昀对着自行车鞠躬",
-      "onboard_time": 1721919081,
-      "rank": 12,
-      "category": "电影"
-    },
-    {
       "raw_hot": 480039,
       "num": 907784,
       "word": "杨迪cue瘦了的贾玲",
@@ -4332,7 +4332,7 @@
     },
     {
       "raw_hot": 382869,
-      "num": 382869,
+      "num": 442168,
       "word": "被清华录取后他先去了这里",
       "onboard_time": 1721918360,
       "rank": 18,
@@ -4680,6 +4680,14 @@
       "word": "虞书欣和她的七个小i人",
       "onboard_time": 1721606240,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 352852,
+      "num": 352852,
+      "word": "蒋敦豪晒十个勤天合照",
+      "onboard_time": 1721920581,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -5259,14 +5267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 302818,
-      "num": 302818,
-      "word": "蒋敦豪晒十个勤天合照",
-      "onboard_time": 1721920581,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 302618,
       "num": 302618,
       "word": "惠英红文淇荣梓杉 游神供火恐怖片",
@@ -5609,6 +5609,14 @@
       "onboard_time": 1721630419,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 286574,
+      "num": 212192,
+      "word": "傅园慧晒奖牌回应网友质疑",
+      "onboard_time": 1721920281,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 286475,
@@ -6057,6 +6065,14 @@
       "onboard_time": 1721574444,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260770,
+      "num": 260770,
+      "word": "奥运会史上首次开放式开幕式",
+      "onboard_time": 1721920399,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 260670,
@@ -7355,6 +7371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218151,
+      "num": 218151,
+      "word": "被新疆冰淇淋冲击到了",
+      "onboard_time": 1721920160,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 217973,
       "num": 655875,
       "word": "讨好二次元是老商场最后的自救吗",
@@ -7497,6 +7521,14 @@
       "onboard_time": 1721804781,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215361,
+      "num": 215361,
+      "word": "网剧少年白马醉春风",
+      "onboard_time": 1721919921,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 214523,
@@ -7819,14 +7851,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 209917,
-      "num": 209917,
-      "word": "奥运会史上首次开放式开幕式",
-      "onboard_time": 1721920399,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 209898,
       "num": 209898,
       "word": "赵丽颖深V侧颜",
@@ -7883,14 +7907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207932,
-      "num": 207932,
-      "word": "网剧少年白马醉春风",
-      "onboard_time": 1721919921,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 207720,
       "num": 207720,
       "word": "陕西垮塌桥4公里外发现2辆失联车",
@@ -7945,6 +7961,14 @@
       "onboard_time": 1721542340,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 206235,
+      "num": 206235,
+      "word": "陈哲远被吓纯享版",
+      "onboard_time": 1721919861,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 206206,
@@ -8417,14 +8441,6 @@
       "onboard_time": 1721721441,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 199536,
-      "num": 199536,
-      "word": "陈哲远被吓纯享版",
-      "onboard_time": 1721919861,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 199315,
@@ -9107,6 +9123,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 191658,
+      "num": 191658,
+      "word": "国色芳华",
+      "onboard_time": 1721920700,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191578,
       "num": 191578,
       "word": "唐诡西行四集反转四次",
@@ -9755,14 +9779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182722,
-      "num": 182722,
-      "word": "傅园慧晒奖牌回应网友质疑",
-      "onboard_time": 1721920281,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 182674,
       "num": 182674,
       "word": "邓紫棋在舞台上抽筋",
@@ -9793,14 +9809,6 @@
       "onboard_time": 1721895021,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 181840,
-      "num": 181840,
-      "word": "被新疆冰淇淋冲击到了",
-      "onboard_time": 1721920160,
-      "rank": 37,
-      "category": "美食"
     },
     {
       "raw_hot": 181752,
@@ -11835,14 +11843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 145861,
-      "num": 145861,
-      "word": "国色芳华",
-      "onboard_time": 1721920700,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 145561,
       "num": 145561,
       "word": "Gr对战FPX.ZQ",
@@ -11985,6 +11985,14 @@
       "onboard_time": 1721571382,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 142513,
+      "num": 142513,
+      "word": "密逃的别名是许凯丢脸史吧",
+      "onboard_time": 1721921480,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 142493,
@@ -12281,6 +12289,14 @@
       "onboard_time": 1721537718,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 135768,
+      "num": 512033,
+      "word": "台风格美在福建连江掀起狂浪",
+      "onboard_time": 1721919321,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135447,
@@ -13643,14 +13659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 75485,
-      "num": 512033,
-      "word": "台风格美在福建连江掀起狂浪",
-      "onboard_time": 1721919321,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 74889,
       "num": 653277,
       "word": "羽毛球涨价人工合成球卖断货",
@@ -13857,6 +13865,14 @@
       "onboard_time": 1721698818,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67197,
+      "num": 370366,
+      "word": "中型SUV进入油耗3时代",
+      "onboard_time": 1721918301,
+      "rank": 21,
+      "category": "汽车"
     },
     {
       "raw_hot": 67115,
@@ -14153,14 +14169,6 @@
       "onboard_time": 1721567661,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 54006,
-      "num": 370366,
-      "word": "中型SUV进入油耗3时代",
-      "onboard_time": 1721918301,
-      "rank": 21,
-      "category": "汽车"
     },
     {
       "raw_hot": 53906,
@@ -14555,6 +14563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38759,
+      "num": 176514,
+      "word": "长白山酒店提前半年迎来订单高峰",
+      "onboard_time": 1721920220,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38519,
       "num": 46023,
       "word": "为何红斑狼疮尤其偏爱女性",
@@ -14721,14 +14737,6 @@
       "onboard_time": 1721681230,
       "rank": 40,
       "category": "美食"
-    },
-    {
-      "raw_hot": 32688,
-      "num": 176514,
-      "word": "长白山酒店提前半年迎来订单高峰",
-      "onboard_time": 1721920220,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32516,

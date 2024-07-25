@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721920851845,
+  "endTime": 1721921689121,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -5147,6 +5147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 971334,
+      "num": 971334,
+      "word": "前台是未成年还吃辣条",
+      "onboard_time": 1721915121,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 970406,
       "num": 563435,
       "word": "枪击特朗普枪手为共和党人",
@@ -5625,14 +5633,6 @@
       "onboard_time": 1721022439,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 925314,
-      "num": 925314,
-      "word": "前台是未成年还吃辣条",
-      "onboard_time": 1721915121,
-      "rank": 24,
-      "category": "网红"
     },
     {
       "raw_hot": 922416,
@@ -6712,6 +6712,14 @@
       "word": "B太称新疆行回程给司机大姐买机票",
       "onboard_time": 1719818598,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 831951,
+      "num": 831951,
+      "word": "女教练连扇小球员9个耳光",
+      "onboard_time": 1721918599,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -8281,14 +8289,6 @@
       "onboard_time": 1720152258,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 735026,
-      "num": 735026,
-      "word": "女教练连扇小球员9个耳光",
-      "onboard_time": 1721918599,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 734987,
@@ -10369,6 +10369,14 @@
       "onboard_time": 1720504579,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 630308,
+      "num": 537543,
+      "word": "偶遇张若昀对着自行车鞠躬",
+      "onboard_time": 1721919081,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 630228,
@@ -15291,14 +15299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 480401,
-      "num": 480401,
-      "word": "偶遇张若昀对着自行车鞠躬",
-      "onboard_time": 1721919081,
-      "rank": 12,
-      "category": "电影"
-    },
-    {
       "raw_hot": 480376,
       "num": 480376,
       "word": "王嘉尔自曝很少有真心朋友",
@@ -19804,7 +19804,7 @@
     },
     {
       "raw_hot": 382869,
-      "num": 382869,
+      "num": 442168,
       "word": "被清华录取后他先去了这里",
       "onboard_time": 1721918360,
       "rank": 18,
@@ -21345,6 +21345,14 @@
       "onboard_time": 1721467999,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 352852,
+      "num": 352852,
+      "word": "蒋敦豪晒十个勤天合照",
+      "onboard_time": 1721920581,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 352829,
@@ -24291,14 +24299,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 302818,
-      "num": 302818,
-      "word": "蒋敦豪晒十个勤天合照",
-      "onboard_time": 1721920581,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 302618,
       "num": 302618,
       "word": "惠英红文淇荣梓杉 游神供火恐怖片",
@@ -25496,6 +25496,14 @@
       "word": "布朗尼三分8中0",
       "onboard_time": 1720836677,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 286574,
+      "num": 212192,
+      "word": "傅园慧晒奖牌回应网友质疑",
+      "onboard_time": 1721920281,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -27329,6 +27337,14 @@
       "onboard_time": 1720941682,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 260770,
+      "num": 260770,
+      "word": "奥运会史上首次开放式开幕式",
+      "onboard_time": 1721920399,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 260730,
@@ -32067,6 +32083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 218151,
+      "num": 218151,
+      "word": "被新疆冰淇淋冲击到了",
+      "onboard_time": 1721920160,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 218135,
       "num": 218135,
       "word": "杨紫哭戏",
@@ -32585,6 +32609,14 @@
       "onboard_time": 1720442118,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215361,
+      "num": 215361,
+      "word": "网剧少年白马醉春风",
+      "onboard_time": 1721919921,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 215349,
@@ -33587,14 +33619,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 209917,
-      "num": 209917,
-      "word": "奥运会史上首次开放式开幕式",
-      "onboard_time": 1721920399,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 209903,
       "num": 204510,
       "word": "张志杰姐姐再发文",
@@ -34035,14 +34059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207932,
-      "num": 207932,
-      "word": "网剧少年白马醉春风",
-      "onboard_time": 1721919921,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 207918,
       "num": 207918,
       "word": "极氪X",
@@ -34361,6 +34377,14 @@
       "onboard_time": 1720420698,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206235,
+      "num": 206235,
+      "word": "陈哲远被吓纯享版",
+      "onboard_time": 1721919861,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 206213,
@@ -36321,14 +36345,6 @@
       "onboard_time": 1719933318,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199536,
-      "num": 199536,
-      "word": "陈哲远被吓纯享版",
-      "onboard_time": 1721919861,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 199424,
@@ -38729,6 +38745,14 @@
       "onboard_time": 1721483121,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191658,
+      "num": 191658,
+      "word": "国色芳华",
+      "onboard_time": 1721920700,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 191655,
@@ -41219,14 +41243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 182722,
-      "num": 182722,
-      "word": "傅园慧晒奖牌回应网友质疑",
-      "onboard_time": 1721920281,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 182697,
       "num": 182697,
       "word": "苏醒张远去哪都不忘记0713",
@@ -41377,14 +41393,6 @@
       "onboard_time": 1721895021,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 181840,
-      "num": 181840,
-      "word": "被新疆冰淇淋冲击到了",
-      "onboard_time": 1721920160,
-      "rank": 37,
-      "category": "美食"
     },
     {
       "raw_hot": 181806,
@@ -50603,14 +50611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 145861,
-      "num": 145861,
-      "word": "国色芳华",
-      "onboard_time": 1721920700,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 145842,
       "num": 145842,
       "word": "吴谨言下一部剧妆造",
@@ -51489,6 +51489,14 @@
       "onboard_time": 1720941441,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 142513,
+      "num": 142513,
+      "word": "密逃的别名是许凯丢脸史吧",
+      "onboard_time": 1721921480,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 142493,
@@ -53433,6 +53441,14 @@
       "onboard_time": 1719924557,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135768,
+      "num": 512033,
+      "word": "台风格美在福建连江掀起狂浪",
+      "onboard_time": 1721919321,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135745,
@@ -64451,14 +64467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75485,
-      "num": 512033,
-      "word": "台风格美在福建连江掀起狂浪",
-      "onboard_time": 1721919321,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 75424,
       "num": 570683,
       "word": "中国成鱼子酱最大产地",
@@ -65377,6 +65385,14 @@
       "onboard_time": 1721160191,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 67197,
+      "num": 370366,
+      "word": "中型SUV进入油耗3时代",
+      "onboard_time": 1721918301,
+      "rank": 21,
+      "category": "汽车"
     },
     {
       "raw_hot": 67194,
@@ -67081,14 +67097,6 @@
       "onboard_time": 1721289920,
       "rank": 9,
       "category": "社会新闻,国外时政"
-    },
-    {
-      "raw_hot": 54006,
-      "num": 370366,
-      "word": "中型SUV进入油耗3时代",
-      "onboard_time": 1721918301,
-      "rank": 21,
-      "category": "汽车"
     },
     {
       "raw_hot": 53921,
@@ -69307,6 +69315,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 38759,
+      "num": 176514,
+      "word": "长白山酒店提前半年迎来订单高峰",
+      "onboard_time": 1721920220,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38725,
       "num": 273140,
       "word": "深圳大学最好的招生简章",
@@ -70097,14 +70113,6 @@
       "onboard_time": 1720986372,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 32688,
-      "num": 176514,
-      "word": "长白山酒店提前半年迎来订单高峰",
-      "onboard_time": 1721920220,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32681,
