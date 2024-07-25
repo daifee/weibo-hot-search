@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721888897385,
+  "endTime": 1721889659059,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -1337,6 +1337,14 @@
       "onboard_time": 1721130738,
       "rank": 3,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1751552,
+      "num": 1751552,
+      "word": "兰州刺激性异味来源查清",
+      "onboard_time": 1721887401,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1748274,
@@ -2888,14 +2896,6 @@
       "word": "工资卡限额调整惹争议",
       "onboard_time": 1721719880,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1286840,
-      "num": 1286840,
-      "word": "兰州刺激性异味来源查清",
-      "onboard_time": 1721887401,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -4563,6 +4563,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1027521,
+      "num": 1027521,
+      "word": "一个普通女孩140斤到98斤之路",
+      "onboard_time": 1721884760,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1026737,
       "num": 1026737,
       "word": "警方通报北京地铁大爷女儿含泪发声",
@@ -5817,14 +5825,6 @@
       "onboard_time": 1721632940,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 889064,
-      "num": 889064,
-      "word": "一个普通女孩140斤到98斤之路",
-      "onboard_time": 1721884760,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 888452,
@@ -7513,6 +7513,14 @@
       "onboard_time": 1721003540,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 773113,
+      "num": 773113,
+      "word": "宋江好帅",
+      "onboard_time": 1721885601,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 772865,
@@ -10097,14 +10105,6 @@
       "onboard_time": 1719837618,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 629896,
-      "num": 629896,
-      "word": "宋江好帅",
-      "onboard_time": 1721885601,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 629578,
@@ -23355,6 +23355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 309904,
+      "num": 309904,
+      "word": "高中教师表白女学生事发高考前",
+      "onboard_time": 1721886258,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 309771,
       "num": 309771,
       "word": "刘昊然为新戏拔了头发眉毛",
@@ -23833,6 +23841,14 @@
       "onboard_time": 1720939822,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 300832,
+      "num": 300832,
+      "word": "苏炳添已抵达巴黎",
+      "onboard_time": 1721888300,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 300808,
@@ -26187,6 +26203,14 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 267904,
+      "num": 267904,
+      "word": "密室大逃脱 举报",
+      "onboard_time": 1721889319,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 267791,
       "num": 267791,
       "word": "防空警报",
@@ -27889,14 +27913,6 @@
       "onboard_time": 1719808762,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 247404,
-      "num": 247404,
-      "word": "高中教师表白女学生事发高考前",
-      "onboard_time": 1721886258,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 247385,
@@ -29785,6 +29801,14 @@
       "onboard_time": 1720756636,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 230394,
+      "num": 612748,
+      "word": "南阳官方再回应医院职工工资1700元",
+      "onboard_time": 1721887222,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230384,
@@ -33139,6 +33163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 208380,
+      "num": 208380,
+      "word": "十个人的友情能有多圆满",
+      "onboard_time": 1721889199,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208308,
       "num": 208308,
       "word": "王嘉尔上海开店",
@@ -36225,6 +36257,14 @@
       "onboard_time": 1721712560,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197047,
+      "num": 197047,
+      "word": "年轻人开始挑战用利息生活",
+      "onboard_time": 1721888238,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 196968,
@@ -40803,12 +40843,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 179379,
-      "num": 179379,
-      "word": "苏炳添已抵达巴黎",
-      "onboard_time": 1721888300,
-      "rank": 34,
-      "category": "体育"
+      "raw_hot": 179389,
+      "num": 179389,
+      "word": "老外因爱吃番茄炒蛋留在中国",
+      "onboard_time": 1721886379,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 179368,
@@ -46107,6 +46147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158201,
+      "num": 158201,
+      "word": "居然有连周深都说难唱的歌",
+      "onboard_time": 1721885180,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 158059,
       "num": 158059,
       "word": "成都已经进化到这种程度了",
@@ -48643,14 +48691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147989,
-      "num": 147989,
-      "word": "年轻人开始挑战用利息生活",
-      "onboard_time": 1721888238,
-      "rank": 44,
-      "category": "财经"
-    },
-    {
       "raw_hot": 147965,
       "num": 147965,
       "word": "特朗普枪击事件大概率不是自导自演",
@@ -48769,14 +48809,6 @@
       "onboard_time": 1720184780,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 147487,
-      "num": 147487,
-      "word": "居然有连周深都说难唱的歌",
-      "onboard_time": 1721885180,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 147465,
@@ -49753,14 +49785,6 @@
       "onboard_time": 1720498580,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 143867,
-      "num": 143867,
-      "word": "老外因爱吃番茄炒蛋留在中国",
-      "onboard_time": 1721886379,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 143839,
@@ -52937,6 +52961,14 @@
       "onboard_time": 1720429400,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 132455,
+      "num": 132455,
+      "word": "比亚迪",
+      "onboard_time": 1721889621,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 132441,
@@ -59577,14 +59609,6 @@
       "onboard_time": 1720435039,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 104437,
-      "num": 612748,
-      "word": "南阳官方再回应医院职工工资1700元",
-      "onboard_time": 1721887222,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104399,
@@ -66635,6 +66659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46359,
+      "num": 464339,
+      "word": "甘肃博物馆回应麻辣烫玩偶火了",
+      "onboard_time": 1721889021,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46327,
       "num": 1141946,
       "word": "全国演出市场上半年票房收入超190亿元",
@@ -69233,6 +69265,14 @@
       "onboard_time": 1720112714,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 27429,
+      "num": 185034,
+      "word": "拜登未来6个月继续专注于总统工作",
+      "onboard_time": 1721889021,
+      "rank": 33,
+      "category": "国外时政"
     },
     {
       "raw_hot": 27411,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1721889659059,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1751552,
+        "num": 1751552,
+        "word": "兰州刺激性异味来源查清",
+        "onboard_time": 1721887401,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1214382,
+        "num": 1214382,
+        "word": "14岁初中生课堂嗑药致昏迷进ICU",
+        "onboard_time": 1721880680,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104023,
+        "num": 1093090,
+        "word": "这就是奥运会",
+        "onboard_time": 1721880320,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1027521,
+        "num": 1027521,
+        "word": "一个普通女孩140斤到98斤之路",
+        "onboard_time": 1721884760,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 955981,
+        "num": 955981,
+        "word": "巴黎再现2008北京奥运背包",
+        "onboard_time": 1721881100,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 773113,
+        "num": 773113,
+        "word": "宋江好帅",
+        "onboard_time": 1721885601,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 724489,
+        "num": 724489,
+        "word": "台风格美预计今天下午到傍晚登陆福建",
+        "onboard_time": 1721877021,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 644737,
+        "num": 644737,
+        "word": "金靖不办婚礼的原因",
+        "onboard_time": 1721880259,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 470008,
+        "num": 470008,
+        "word": "TFBOYS的歌已成为衡量时间的尺",
+        "onboard_time": 1721883921,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 46359,
+        "num": 464339,
+        "word": "甘肃博物馆回应麻辣烫玩偶火了",
+        "onboard_time": 1721889021,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 924671,
+        "num": 464262,
+        "word": "阚清子与未婚夫结束度假回国",
+        "onboard_time": 1721882780,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462308,
+        "num": 462308,
+        "word": "中药冰淇淋一份卖到38元",
+        "onboard_time": 1721874798,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450484,
+        "num": 450484,
+        "word": "古茗监控视频曝光",
+        "onboard_time": 1721880140,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 414741,
+        "num": 414741,
+        "word": "闵熙珍私下辱骂NewJeans成员",
+        "onboard_time": 1721881521,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381231,
+        "num": 381231,
+        "word": "夫妻冷战三伏天车里开暖风",
+        "onboard_time": 1721872398,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357296,
+        "num": 357296,
+        "word": "密室大逃脱播不播",
+        "onboard_time": 1721882481,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309904,
+        "num": 309904,
+        "word": "高中教师表白女学生事发高考前",
+        "onboard_time": 1721886258,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307493,
+        "num": 307493,
+        "word": "闲鱼回应用暗号开展色情交易",
+        "onboard_time": 1721863576,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 300832,
+        "num": 300832,
+        "word": "苏炳添已抵达巴黎",
+        "onboard_time": 1721888300,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285340,
+        "num": 285340,
+        "word": "兰州生态环境局通报市民反映空气异味",
+        "onboard_time": 1721875579,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1477139,
+        "num": 284825,
+        "word": "电梯内电池爆燃事主26天后去世",
+        "onboard_time": 1721884879,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267904,
+        "num": 267904,
+        "word": "密室大逃脱 举报",
+        "onboard_time": 1721889319,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241349,
+        "num": 241349,
+        "word": "闵熙珍叫巫师附身郑秀晶",
+        "onboard_time": 1721884221,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230394,
+        "num": 230394,
+        "word": "南阳官方再回应医院职工工资1700元",
+        "onboard_time": 1721887222,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222924,
+        "num": 222924,
+        "word": "台风",
+        "onboard_time": 1721862314,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32697,
+        "num": 216928,
+        "word": "伊利为中国健儿加油",
+        "onboard_time": 1721884340,
+        "rank": 25,
+        "category": "体育,体育"
+      },
+      {
+        "raw_hot": 216324,
+        "num": 216324,
+        "word": "让胡静演妈不是演我妈",
+        "onboard_time": 1721877260,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 213721,
+        "num": 213721,
+        "word": "学校免费提供的卫生巾堆得像山",
+        "onboard_time": 1721882001,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212617,
+        "num": 212617,
+        "word": "和陈奕迅拼桌吃饭",
+        "onboard_time": 1721883021,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211163,
+        "num": 211163,
+        "word": "杨紫李现国色芳华杀青了",
+        "onboard_time": 1721880078,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208380,
+        "num": 208380,
+        "word": "十个人的友情能有多圆满",
+        "onboard_time": 1721889199,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197047,
+        "num": 197047,
+        "word": "年轻人开始挑战用利息生活",
+        "onboard_time": 1721888238,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 192310,
+        "num": 192310,
+        "word": "十个勤天激将法拿捏纪凌尘",
+        "onboard_time": 1721887518,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27429,
+        "num": 185034,
+        "word": "拜登未来6个月继续专注于总统工作",
+        "onboard_time": 1721889021,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 180028,
+        "num": 180028,
+        "word": "歌手歌单",
+        "onboard_time": 1721879959,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179389,
+        "num": 179389,
+        "word": "老外因爱吃番茄炒蛋留在中国",
+        "onboard_time": 1721886379,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 172728,
+        "num": 172728,
+        "word": "矢野浩二晒与美依礼芽合照",
+        "onboard_time": 1721882481,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163420,
+        "num": 163420,
+        "word": "D社再曝闵熙珍聊天记录",
+        "onboard_time": 1721878161,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161638,
+        "num": 161638,
+        "word": "崔胜澈 南韩卡戴珊",
+        "onboard_time": 1721886321,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158534,
+        "num": 158534,
+        "word": "齐司礼 绿色",
+        "onboard_time": 1721884280,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158418,
+        "num": 158418,
+        "word": "多所高校决定延长研究生学制",
+        "onboard_time": 1721870120,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 158201,
+        "num": 158201,
+        "word": "居然有连周深都说难唱的歌",
+        "onboard_time": 1721885180,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153868,
+        "num": 153868,
+        "word": "四海重明宣发",
+        "onboard_time": 1721887760,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147499,
+        "num": 147499,
+        "word": "福建防抗台风格美在行动",
+        "onboard_time": 1721888659,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149478,
+        "num": 147166,
+        "word": "檀健次三部待播剧都是轻喜风",
+        "onboard_time": 1721880801,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144206,
+        "num": 144206,
+        "word": "国羽9名男队员同住一屋",
+        "onboard_time": 1721886321,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139040,
+        "num": 139040,
+        "word": "张家齐谈遗憾无缘巴黎奥运会",
+        "onboard_time": 1721873840,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136485,
+        "num": 136485,
+        "word": "JieJie city不city啊",
+        "onboard_time": 1721886919,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133730,
+        "num": 133730,
+        "word": "张杰演唱会官宣三城",
+        "onboard_time": 1721888238,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132455,
+        "num": 132455,
+        "word": "比亚迪",
+        "onboard_time": 1721889621,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#完善国家创新体系#"
+    }
+  }
+}
