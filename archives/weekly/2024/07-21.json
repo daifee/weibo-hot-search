@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721927912102,
+  "endTime": 1721928937300,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -14891,6 +14891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29389,
+      "num": 234510,
+      "word": "你会考虑买老破小吗",
+      "onboard_time": 1721927296,
+      "rank": 9,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 29246,
       "num": 32679,
       "word": "你为什么不买优衣库了",
@@ -15041,14 +15049,6 @@
       "onboard_time": 1721885480,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24448,
-      "num": 234510,
-      "word": "你会考虑买老破小吗",
-      "onboard_time": 1721927296,
-      "rank": 9,
-      "category": "社会议题"
     },
     {
       "raw_hot": 24303,
