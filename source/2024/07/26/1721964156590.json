@@ -1,0 +1,410 @@
+{
+  "runTime": 1721964156590,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1205986,
+        "num": 1205986,
+        "word": "6岁女孩遇到继母后如今判若两人",
+        "onboard_time": 1721955861,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 947187,
+        "num": 947187,
+        "word": "鼻血馒头",
+        "onboard_time": 1721954899,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 49869,
+        "num": 748775,
+        "word": "那抹中国红永远让人热血沸腾",
+        "onboard_time": 1721959519,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 688501,
+        "num": 688501,
+        "word": "在法国吃到了混血煎饼果子",
+        "onboard_time": 1721961739,
+        "rank": 3,
+        "category": "体育,美食"
+      },
+      {
+        "raw_hot": 565318,
+        "num": 565318,
+        "word": "为什么精致女生坐高铁系列被喷",
+        "onboard_time": 1721955741,
+        "rank": 4,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 512551,
+        "num": 512551,
+        "word": "上海21岁小伙为救父亲溺水身亡",
+        "onboard_time": 1721959940,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485891,
+        "num": 485891,
+        "word": "巴黎奥运北京时间凌晨开幕",
+        "onboard_time": 1721951419,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 390822,
+        "num": 390822,
+        "word": "英国跳水名将戴利为儿子出战奥运会",
+        "onboard_time": 1721958078,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 324241,
+        "num": 324241,
+        "word": "台风后生蚝遍地市民组团赶海",
+        "onboard_time": 1721961260,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25247,
+        "num": 324134,
+        "word": "路政干部沦为拦路虎5年贪上百万",
+        "onboard_time": 1721963779,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1032483,
+        "num": 321869,
+        "word": "王能能承认与罗拉吵架",
+        "onboard_time": 1721959280,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 996338,
+        "num": 320146,
+        "word": "刘亚仁涉嫌强奸被立案",
+        "onboard_time": 1721954420,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328442,
+        "num": 317434,
+        "word": "男子几天内狂炫50斤西瓜致带状疱疹",
+        "onboard_time": 1721956821,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316058,
+        "num": 316058,
+        "word": "奥运会史上首次开放式开幕式",
+        "onboard_time": 1721920399,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44578,
+        "num": 312268,
+        "word": "有基民赎回公募用来提前还房贷",
+        "onboard_time": 1721963779,
+        "rank": 14,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 245584,
+        "num": 312207,
+        "word": "张艺谋再次操刀奥运会开幕",
+        "onboard_time": 1721959759,
+        "rank": 15,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 318850,
+        "num": 312207,
+        "word": "蓝盈莹从不嘻嘻到嘻嘻",
+        "onboard_time": 1721962639,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312200,
+        "num": 312200,
+        "word": "台风格美将由福建移入江西",
+        "onboard_time": 1721952198,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292330,
+        "num": 292330,
+        "word": "为了奥运会巴黎地铁椅子终于洗了",
+        "onboard_time": 1721960299,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291571,
+        "num": 291571,
+        "word": "异人之下上映",
+        "onboard_time": 1721958680,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 48525,
+        "num": 290596,
+        "word": "双奥导演张艺谋又来了",
+        "onboard_time": 1721963240,
+        "rank": 20,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 695625,
+        "num": 287662,
+        "word": "支持田亮维权",
+        "onboard_time": 1721959999,
+        "rank": 21,
+        "category": "网红,体育"
+      },
+      {
+        "raw_hot": 593966,
+        "num": 284900,
+        "word": "爷爷居然用我的眼线笔写字",
+        "onboard_time": 1721956460,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 494879,
+        "num": 281001,
+        "word": "福寿螺在成都遇到天敌了",
+        "onboard_time": 1721951777,
+        "rank": 23,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 280145,
+        "num": 280145,
+        "word": "甘肃1961年以来最强区域性暴雨",
+        "onboard_time": 1721956701,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255324,
+        "num": 255324,
+        "word": "猫 我永远都不会原谅你",
+        "onboard_time": 1721961019,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252469,
+        "num": 252469,
+        "word": "宋亚轩定位忘关了",
+        "onboard_time": 1721949616,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238328,
+        "num": 238328,
+        "word": "让李小冉追更的网文作家出新书了",
+        "onboard_time": 1721960360,
+        "rank": 27,
+        "category": "艺人,读书作家"
+      },
+      {
+        "raw_hot": 68372,
+        "num": 234260,
+        "word": "肉眼可见的电量增长速度",
+        "onboard_time": 1721961320,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 51954,
+        "num": 231700,
+        "word": "英国王室不动产收益超100亿元",
+        "onboard_time": 1721964140,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 231155,
+        "num": 231155,
+        "word": "台风格美已造成福建省62.86万人受灾",
+        "onboard_time": 1721956580,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212914,
+        "num": 212914,
+        "word": "台风格美",
+        "onboard_time": 1721950036,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211541,
+        "num": 211541,
+        "word": "甘肃暴雨致河水暴涨冲垮桥梁",
+        "onboard_time": 1721959880,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208205,
+        "num": 208205,
+        "word": "朴彩英洛杉矶街拍生图",
+        "onboard_time": 1721960840,
+        "rank": 33,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 197150,
+        "num": 197150,
+        "word": "紫色跑道为什么有利于比赛",
+        "onboard_time": 1721963539,
+        "rank": 34,
+        "category": "体育,科学科普"
+      },
+      {
+        "raw_hot": 189880,
+        "num": 189880,
+        "word": "马子佳 孔汝淳",
+        "onboard_time": 1721954059,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186518,
+        "num": 186518,
+        "word": "唐诡西行 家暴的他破碎的她",
+        "onboard_time": 1721955141,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34375,
+        "num": 183406,
+        "word": "莫斯科将欧洲广场更名为欧亚广场",
+        "onboard_time": 1721963539,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182397,
+        "num": 182397,
+        "word": "王一博黑粉公开致歉",
+        "onboard_time": 1721962162,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178553,
+        "num": 178553,
+        "word": "戴了五年美瞳把眼睛寿命磨损完了",
+        "onboard_time": 1721949195,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 153778,
+        "num": 153778,
+        "word": "徐明浩上恋综了",
+        "onboard_time": 1721949315,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135729,
+        "num": 152507,
+        "word": "4岁小男孩动作娴熟帮爸爸搬卸桶装水",
+        "onboard_time": 1721962940,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152096,
+        "num": 152096,
+        "word": "奥运会",
+        "onboard_time": 1721960119,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151773,
+        "num": 151773,
+        "word": "24岁女子回家途中失联已有10天",
+        "onboard_time": 1721951777,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151253,
+        "num": 151253,
+        "word": "你好种地少年",
+        "onboard_time": 1721916860,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150538,
+        "num": 150538,
+        "word": "这6种面相可能是身体在报警",
+        "onboard_time": 1721961681,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 144651,
+        "num": 144651,
+        "word": "王栎鑫陆虎高情商发言",
+        "onboard_time": 1721957779,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136563,
+        "num": 136563,
+        "word": "南科大录取通知书被指用错的地",
+        "onboard_time": 1721948534,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133511,
+        "num": 133511,
+        "word": "吉林一公安局长和辅警救灾遇险失联",
+        "onboard_time": 1721964080,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132658,
+        "num": 132658,
+        "word": "抑郁症有11个隐形信号",
+        "onboard_time": 1721951238,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平和厦航的故事#"
+    }
+  }
+}

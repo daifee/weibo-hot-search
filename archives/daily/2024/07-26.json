@@ -1,6 +1,6 @@
 {
   "startTime": 1721924711965,
-  "endTime": 1721962046340,
+  "endTime": 1721964156590,
   "band_list": [
     {
       "raw_hot": 1915128,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1585611,
-      "num": 253669,
+      "num": 281001,
       "word": "福寿螺在成都遇到天敌了",
       "onboard_time": 1721951777,
       "rank": 20,
@@ -92,19 +92,27 @@
     },
     {
       "raw_hot": 745073,
-      "num": 244375,
+      "num": 284900,
       "word": "爷爷居然用我的眼线笔写字",
       "onboard_time": 1721956460,
       "rank": 42,
       "category": "情感"
     },
     {
-      "raw_hot": 683877,
-      "num": 243504,
+      "raw_hot": 695625,
+      "num": 287662,
       "word": "支持田亮维权",
       "onboard_time": 1721959999,
       "rank": 21,
       "category": "网红,体育"
+    },
+    {
+      "raw_hot": 688501,
+      "num": 688501,
+      "word": "在法国吃到了混血煎饼果子",
+      "onboard_time": 1721961739,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 672942,
@@ -177,6 +185,14 @@
       "onboard_time": 1721919081,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 512551,
+      "num": 512551,
+      "word": "上海21岁小伙为救父亲溺水身亡",
+      "onboard_time": 1721959940,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 502912,
@@ -331,6 +347,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324241,
+      "num": 324241,
+      "word": "台风后生蚝遍地市民组团赶海",
+      "onboard_time": 1721961260,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318850,
+      "num": 312207,
+      "word": "蓝盈莹从不嘻嘻到嘻嘻",
+      "onboard_time": 1721962639,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 315162,
       "num": 315162,
       "word": "蒋敦豪晒十个勤天合照",
@@ -355,12 +387,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292330,
+      "num": 292330,
+      "word": "为了奥运会巴黎地铁椅子终于洗了",
+      "onboard_time": 1721960299,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 291949,
       "num": 291949,
       "word": "上半年每10套房有4套买家是90后",
       "onboard_time": 1721918780,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291571,
+      "num": 291571,
+      "word": "异人之下上映",
+      "onboard_time": 1721958680,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 280156,
@@ -395,8 +443,24 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255324,
+      "num": 255324,
+      "word": "猫 我永远都不会原谅你",
+      "onboard_time": 1721961019,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 245584,
+      "num": 312207,
+      "word": "张艺谋再次操刀奥运会开幕",
+      "onboard_time": 1721959759,
+      "rank": 15,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 243961,
-      "num": 235576,
+      "num": 238328,
       "word": "让李小冉追更的网文作家出新书了",
       "onboard_time": 1721960360,
       "rank": 28,
@@ -411,30 +475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 240006,
-      "num": 240006,
-      "word": "异人之下上映",
-      "onboard_time": 1721958680,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 235467,
-      "num": 235467,
-      "word": "上海21岁小伙为救父亲溺水身亡",
-      "onboard_time": 1721959940,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 220898,
-      "num": 220898,
-      "word": "为了奥运会巴黎地铁椅子终于洗了",
-      "onboard_time": 1721960299,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 216345,
       "num": 216345,
       "word": "刘梓晨",
@@ -443,8 +483,16 @@
       "category": "网红"
     },
     {
-      "raw_hot": 204268,
-      "num": 204268,
+      "raw_hot": 211541,
+      "num": 325070,
+      "word": "甘肃暴雨致河水暴涨冲垮桥梁",
+      "onboard_time": 1721959880,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208205,
+      "num": 208205,
       "word": "朴彩英洛杉矶街拍生图",
       "onboard_time": 1721960840,
       "rank": 34,
@@ -483,6 +531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197150,
+      "num": 197150,
+      "word": "紫色跑道为什么有利于比赛",
+      "onboard_time": 1721963539,
+      "rank": 34,
+      "category": "体育,科学科普"
+    },
+    {
       "raw_hot": 192578,
       "num": 192578,
       "word": "巴黎奥运会到底有多浪漫",
@@ -499,14 +555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190330,
-      "num": 325070,
-      "word": "甘肃暴雨致河水暴涨冲垮桥梁",
-      "onboard_time": 1721959880,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189092,
       "num": 189092,
       "word": "王栎鑫陆虎高情商发言",
@@ -515,20 +563,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 186956,
-      "num": 186956,
-      "word": "猫 我永远都不会原谅你",
-      "onboard_time": 1721961019,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 186001,
       "num": 186001,
       "word": "陈道明入行50年第一次跑厅",
       "onboard_time": 1721950457,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 182397,
+      "num": 182397,
+      "word": "王一博黑粉公开致歉",
+      "onboard_time": 1721962162,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 176044,
@@ -595,14 +643,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 161180,
-      "num": 161180,
-      "word": "在法国吃到了混血煎饼果子",
-      "onboard_time": 1721961739,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 157906,
       "num": 157906,
       "word": "歌手彩排",
@@ -635,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150538,
+      "num": 150538,
+      "word": "这6种面相可能是身体在报警",
+      "onboard_time": 1721961681,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 149100,
       "num": 149100,
       "word": "商贷利率逼近公积金",
@@ -657,14 +705,6 @@
       "onboard_time": 1721950638,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 146796,
-      "num": 146796,
-      "word": "台风后生蚝遍地市民组团赶海",
-      "onboard_time": 1721961260,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141081,
@@ -697,6 +737,22 @@
       "onboard_time": 1721959398,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 135729,
+      "num": 152507,
+      "word": "4岁小男孩动作娴熟帮爸爸搬卸桶装水",
+      "onboard_time": 1721962940,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133511,
+      "num": 133511,
+      "word": "吉林一公安局长和辅警救灾遇险失联",
+      "onboard_time": 1721964080,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132036,
@@ -771,14 +827,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 122833,
-      "num": 294799,
-      "word": "张艺谋再次操刀奥运会开幕",
-      "onboard_time": 1721959759,
-      "rank": 15,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 121494,
       "num": 121494,
       "word": "国色芳华",
@@ -809,14 +857,6 @@
       "onboard_time": 1721960241,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 109833,
-      "num": 109833,
-      "word": "这6种面相可能是身体在报警",
-      "onboard_time": 1721961681,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 109511,
@@ -971,6 +1011,14 @@
       "category": "体育,科学科普"
     },
     {
+      "raw_hot": 68372,
+      "num": 234260,
+      "word": "肉眼可见的电量增长速度",
+      "onboard_time": 1721961320,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 67437,
       "num": 77418,
       "word": "台风格美登陆福建位置又变了",
@@ -1011,12 +1059,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 51995,
-      "num": 208630,
-      "word": "肉眼可见的电量增长速度",
-      "onboard_time": 1721961320,
-      "rank": 45,
-      "category": "汽车"
+      "raw_hot": 51954,
+      "num": 231700,
+      "word": "英国王室不动产收益超100亿元",
+      "onboard_time": 1721964140,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 49869,
+      "num": 748775,
+      "word": "那抹中国红永远让人热血沸腾",
+      "onboard_time": 1721959519,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 48525,
+      "num": 290596,
+      "word": "双奥导演张艺谋又来了",
+      "onboard_time": 1721963240,
+      "rank": 20,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 44578,
+      "num": 312268,
+      "word": "有基民赎回公募用来提前还房贷",
+      "onboard_time": 1721963779,
+      "rank": 14,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 38614,
@@ -1033,6 +1105,14 @@
       "onboard_time": 1721929154,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 34375,
+      "num": 183406,
+      "word": "莫斯科将欧洲广场更名为欧亚广场",
+      "onboard_time": 1721963539,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32224,
@@ -1113,6 +1193,14 @@
       "onboard_time": 1721933472,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 25247,
+      "num": 324134,
+      "word": "路政干部沦为拦路虎5年贪上百万",
+      "onboard_time": 1721963779,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25216,
@@ -1222,6 +1310,9 @@
   "hotgov_list": [
     {
       "word": "#中共中央政治局常务委员会召开会议#"
+    },
+    {
+      "word": "#习近平和厦航的故事#"
     }
   ]
 }
