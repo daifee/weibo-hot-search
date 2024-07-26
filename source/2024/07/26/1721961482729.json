@@ -1,0 +1,410 @@
+{
+  "runTime": 1721961482729,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1287992,
+        "num": 1287992,
+        "word": "6岁女孩遇到继母后如今判若两人",
+        "onboard_time": 1721955861,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1271410,
+        "num": 1271410,
+        "word": "刘亚仁涉嫌强奸被立案",
+        "onboard_time": 1721954420,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14374,
+        "num": 1174596,
+        "word": "北京时间版奥运观赛日历",
+        "onboard_time": 1721863456,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1154584,
+        "num": 1154584,
+        "word": "鼻血馒头",
+        "onboard_time": 1721954899,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 770699,
+        "num": 770699,
+        "word": "为什么精致女生坐高铁系列被喷",
+        "onboard_time": 1721955741,
+        "rank": 4,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 562559,
+        "num": 562559,
+        "word": "巴黎奥运北京时间凌晨开幕",
+        "onboard_time": 1721951419,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 496994,
+        "num": 496994,
+        "word": "英国跳水名将戴利为儿子出战奥运会",
+        "onboard_time": 1721958078,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 478444,
+        "num": 478444,
+        "word": "奥运会史上首次开放式开幕式",
+        "onboard_time": 1721920399,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 364642,
+        "num": 364642,
+        "word": "台风格美将由福建移入江西",
+        "onboard_time": 1721952198,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117837,
+        "num": 325070,
+        "word": "甘肃暴雨致河水暴涨冲垮桥梁",
+        "onboard_time": 1721959880,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1136912,
+        "num": 324250,
+        "word": "王能能承认与罗拉吵架",
+        "onboard_time": 1721959280,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452975,
+        "num": 315726,
+        "word": "男子几天内狂炫50斤西瓜致带状疱疹",
+        "onboard_time": 1721956821,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305581,
+        "num": 305581,
+        "word": "宋亚轩定位忘关了",
+        "onboard_time": 1721949616,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301559,
+        "num": 301559,
+        "word": "甘肃1961年以来最强区域性暴雨",
+        "onboard_time": 1721956701,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294859,
+        "num": 294859,
+        "word": "唐诡西行 家暴的他破碎的她",
+        "onboard_time": 1721955141,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94619,
+        "num": 294799,
+        "word": "张艺谋再次操刀奥运会开幕",
+        "onboard_time": 1721959759,
+        "rank": 15,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 294748,
+        "num": 294748,
+        "word": "台风格美已造成福建省62.86万人受灾",
+        "onboard_time": 1721956580,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266535,
+        "num": 266535,
+        "word": "24岁女子回家途中失联已有10天",
+        "onboard_time": 1721951777,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262930,
+        "num": 262930,
+        "word": "南科大录取通知书被指用错的地",
+        "onboard_time": 1721948534,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246469,
+        "num": 246469,
+        "word": "马子佳 孔汝淳",
+        "onboard_time": 1721954059,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 745073,
+        "num": 244375,
+        "word": "爷爷居然用我的眼线笔写字",
+        "onboard_time": 1721956460,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 592681,
+        "num": 243504,
+        "word": "支持田亮维权",
+        "onboard_time": 1721959999,
+        "rank": 21,
+        "category": "网红,体育"
+      },
+      {
+        "raw_hot": 583036,
+        "num": 242774,
+        "word": "福寿螺在成都遇到天敌了",
+        "onboard_time": 1721951777,
+        "rank": 22,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 240006,
+        "num": 240006,
+        "word": "异人之下上映",
+        "onboard_time": 1721958680,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 239526,
+        "num": 239526,
+        "word": "戴了五年美瞳把眼睛寿命磨损完了",
+        "onboard_time": 1721949195,
+        "rank": 24,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 220250,
+        "num": 220250,
+        "word": "台风格美",
+        "onboard_time": 1721950036,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212173,
+        "num": 212173,
+        "word": "上海21岁小伙为救父亲溺水身亡",
+        "onboard_time": 1721959940,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201290,
+        "num": 201290,
+        "word": "奥运会",
+        "onboard_time": 1721960119,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197659,
+        "num": 197659,
+        "word": "让李小冉追更的网文作家出新书了",
+        "onboard_time": 1721960360,
+        "rank": 28,
+        "category": "艺人,读书作家"
+      },
+      {
+        "raw_hot": 197236,
+        "num": 197236,
+        "word": "一县委书记被举报涉嫌性侵女下属",
+        "onboard_time": 1721948655,
+        "rank": 29,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 195859,
+        "num": 195859,
+        "word": "抑郁症有11个隐形信号",
+        "onboard_time": 1721951238,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 192578,
+        "num": 192578,
+        "word": "巴黎奥运会到底有多浪漫",
+        "onboard_time": 1721960241,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192547,
+        "num": 192547,
+        "word": "你好种地少年",
+        "onboard_time": 1721916860,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189488,
+        "num": 189488,
+        "word": "为了奥运会巴黎地铁椅子终于洗了",
+        "onboard_time": 1721960299,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184360,
+        "num": 184360,
+        "word": "朴彩英洛杉矶街拍生图",
+        "onboard_time": 1721960840,
+        "rank": 34,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 175826,
+        "num": 175826,
+        "word": "王栎鑫陆虎高情商发言",
+        "onboard_time": 1721957779,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174659,
+        "num": 174659,
+        "word": "刘亚仁方否认性侵男性",
+        "onboard_time": 1721958919,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148746,
+        "num": 148746,
+        "word": "猫 我永远都不会原谅你",
+        "onboard_time": 1721961019,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146715,
+        "num": 146715,
+        "word": "偶遇张若昀对着自行车鞠躬",
+        "onboard_time": 1721919081,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145655,
+        "num": 145655,
+        "word": "徐明浩上恋综了",
+        "onboard_time": 1721949315,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136906,
+        "num": 136906,
+        "word": "陕师大性骚扰女毕业生副教授被解聘",
+        "onboard_time": 1721923219,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136236,
+        "num": 136236,
+        "word": "逆水寒手游更新",
+        "onboard_time": 1721959398,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132820,
+        "num": 132820,
+        "word": "三亚酒店暴跌游客都去哪儿了",
+        "onboard_time": 1721925077,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129453,
+        "num": 129453,
+        "word": "前台是未成年还吃辣条",
+        "onboard_time": 1721915121,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 129118,
+        "num": 129118,
+        "word": "体重将近200斤的美国恶霸犬",
+        "onboard_time": 1721949195,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29614,
+        "num": 126302,
+        "word": "肉眼可见的电量增长速度",
+        "onboard_time": 1721961320,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 124558,
+        "num": 124558,
+        "word": "8个月宝宝第一次经历台风挺秃然",
+        "onboard_time": 1721950036,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122538,
+        "num": 122538,
+        "word": "台风后生蚝遍地市民组团赶海",
+        "onboard_time": 1721961260,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121778,
+        "num": 121778,
+        "word": "原来生活中的暗示这么明显",
+        "onboard_time": 1721949495,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121495,
+        "num": 121495,
+        "word": "欧阳娜娜现身刘昊然新片首映礼",
+        "onboard_time": 1721950096,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局常务委员会召开会议#"
+    }
+  }
+}

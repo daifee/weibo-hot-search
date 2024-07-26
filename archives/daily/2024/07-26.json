@@ -1,6 +1,6 @@
 {
   "startTime": 1721924711965,
-  "endTime": 1721958271819,
+  "endTime": 1721961482729,
   "band_list": [
     {
       "raw_hot": 1915128,
@@ -27,12 +27,28 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 1151113,
-      "num": 750609,
+      "raw_hot": 1287992,
+      "num": 1287992,
+      "word": "6岁女孩遇到继母后如今判若两人",
+      "onboard_time": 1721955861,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1154584,
+      "num": 1154584,
       "word": "鼻血馒头",
       "onboard_time": 1721954899,
       "rank": 7,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1136912,
+      "num": 324250,
+      "word": "王能能承认与罗拉吵架",
+      "onboard_time": 1721959280,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1002103,
@@ -59,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 770699,
+      "num": 770699,
+      "word": "为什么精致女生坐高铁系列被喷",
+      "onboard_time": 1721955741,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 747548,
       "num": 747548,
       "word": "一县委书记被举报涉嫌性侵女下属",
@@ -67,12 +91,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 725748,
-      "num": 725748,
-      "word": "为什么精致女生坐高铁系列被喷",
-      "onboard_time": 1721955741,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 745073,
+      "num": 244375,
+      "word": "爷爷居然用我的眼线笔写字",
+      "onboard_time": 1721956460,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 672942,
@@ -83,20 +107,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 661726,
-      "num": 661726,
-      "word": "6岁女孩遇到继母后如今判若两人",
-      "onboard_time": 1721955861,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 627643,
       "num": 244417,
       "word": "抑郁症有11个隐形信号",
       "onboard_time": 1721951238,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 592681,
+      "num": 243504,
+      "word": "支持田亮维权",
+      "onboard_time": 1721959999,
+      "rank": 21,
+      "category": "网红,体育"
+    },
+    {
+      "raw_hot": 562559,
+      "num": 562559,
+      "word": "巴黎奥运北京时间凌晨开幕",
+      "onboard_time": 1721951419,
+      "rank": 9,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 553094,
@@ -121,14 +153,6 @@
       "onboard_time": 1721910920,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 536106,
-      "num": 536106,
-      "word": "巴黎奥运北京时间凌晨开幕",
-      "onboard_time": 1721951419,
-      "rank": 9,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 529398,
@@ -163,6 +187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 496994,
+      "num": 496994,
+      "word": "英国跳水名将戴利为儿子出战奥运会",
+      "onboard_time": 1721958078,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 490263,
       "num": 427528,
       "word": "马子佳 孔汝淳",
@@ -195,8 +227,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 452975,
+      "num": 315726,
+      "word": "男子几天内狂炫50斤西瓜致带状疱疹",
+      "onboard_time": 1721956821,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 447468,
-      "num": 222275,
+      "num": 239526,
       "word": "戴了五年美瞳把眼睛寿命磨损完了",
       "onboard_time": 1721949195,
       "rank": 21,
@@ -299,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301559,
+      "num": 465668,
+      "word": "甘肃1961年以来最强区域性暴雨",
+      "onboard_time": 1721956701,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300411,
       "num": 300411,
       "word": "台风格美实时路径",
@@ -321,14 +369,6 @@
       "onboard_time": 1721920160,
       "rank": 16,
       "category": "美食"
-    },
-    {
-      "raw_hot": 275429,
-      "num": 206294,
-      "word": "爷爷居然用我的眼线笔写字",
-      "onboard_time": 1721956460,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 261292,
@@ -363,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240006,
+      "num": 240006,
+      "word": "异人之下上映",
+      "onboard_time": 1721958680,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 216345,
       "num": 216345,
       "word": "刘梓晨",
@@ -371,11 +419,11 @@
       "category": "网红"
     },
     {
-      "raw_hot": 205090,
-      "num": 205090,
-      "word": "男子几天内狂炫50斤西瓜致带状疱疹",
-      "onboard_time": 1721956821,
-      "rank": 49,
+      "raw_hot": 212173,
+      "num": 212173,
+      "word": "上海21岁小伙为救父亲溺水身亡",
+      "onboard_time": 1721959940,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -395,12 +443,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 201290,
+      "num": 201290,
+      "word": "奥运会",
+      "onboard_time": 1721960119,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199681,
       "num": 199681,
       "word": "清融 中单",
       "onboard_time": 1721918842,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 197659,
+      "num": 197659,
+      "word": "让李小冉追更的网文作家出新书了",
+      "onboard_time": 1721960360,
+      "rank": 28,
+      "category": "艺人,读书作家"
+    },
+    {
+      "raw_hot": 192578,
+      "num": 192578,
+      "word": "巴黎奥运会到底有多浪漫",
+      "onboard_time": 1721960241,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 191455,
@@ -411,12 +483,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189488,
+      "num": 189488,
+      "word": "为了奥运会巴黎地铁椅子终于洗了",
+      "onboard_time": 1721960299,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186001,
       "num": 186001,
       "word": "陈道明入行50年第一次跑厅",
       "onboard_time": 1721950457,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 184360,
+      "num": 184360,
+      "word": "朴彩英洛杉矶街拍生图",
+      "onboard_time": 1721960840,
+      "rank": 34,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 176044,
@@ -427,20 +515,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175826,
+      "num": 175826,
+      "word": "王栎鑫陆虎高情商发言",
+      "onboard_time": 1721957779,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 174659,
+      "num": 174659,
+      "word": "刘亚仁方否认性侵男性",
+      "onboard_time": 1721958919,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173575,
       "num": 173575,
       "word": "3名中国游客在肯尼亚遇车祸身亡",
       "onboard_time": 1721953701,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173327,
-      "num": 173327,
-      "word": "英国跳水名将戴利为儿子出战奥运会",
-      "onboard_time": 1721958078,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 171943,
@@ -507,14 +603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 152162,
-      "num": 152162,
-      "word": "王栎鑫陆虎高情商发言",
-      "onboard_time": 1721957779,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 152116,
       "num": 152116,
       "word": "李佩霞",
@@ -529,6 +617,14 @@
       "onboard_time": 1721948534,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 148746,
+      "num": 148746,
+      "word": "猫 我永远都不会原谅你",
+      "onboard_time": 1721961019,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 148638,
@@ -569,6 +665,14 @@
       "onboard_time": 1721957900,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136236,
+      "num": 136236,
+      "word": "逆水寒手游更新",
+      "onboard_time": 1721959398,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 132036,
@@ -643,6 +747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 122538,
+      "num": 122538,
+      "word": "台风后生蚝遍地市民组团赶海",
+      "onboard_time": 1721961260,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121494,
       "num": 121494,
       "word": "国色芳华",
@@ -651,20 +763,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119626,
-      "num": 465668,
-      "word": "甘肃1961年以来最强区域性暴雨",
-      "onboard_time": 1721956701,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 118220,
       "num": 121488,
       "word": "陈哲远被吓纯享版",
       "onboard_time": 1721919861,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117837,
+      "num": 325070,
+      "word": "甘肃暴雨致河水暴涨冲垮桥梁",
+      "onboard_time": 1721959880,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115484,
@@ -721,6 +833,14 @@
       "onboard_time": 1721910620,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94619,
+      "num": 294799,
+      "word": "张艺谋再次操刀奥运会开幕",
+      "onboard_time": 1721959759,
+      "rank": 15,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 92415,
@@ -907,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29614,
+      "num": 126302,
+      "word": "肉眼可见的电量增长速度",
+      "onboard_time": 1721961320,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 29309,
       "num": 32673,
       "word": "原神",
@@ -1012,7 +1140,7 @@
     },
     {
       "raw_hot": 20140,
-      "num": 851566,
+      "num": 1174596,
       "word": "北京时间版奥运观赛日历",
       "onboard_time": 1721863456,
       "rank": 2,
