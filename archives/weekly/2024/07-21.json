@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1722021503624,
+  "endTime": 1722022490157,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -1307,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1202181,
+      "num": 1202181,
+      "word": "巴黎奥运 女性主义",
+      "onboard_time": 1722020895,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1199134,
       "num": 1199134,
       "word": "李现拒绝出演高中生",
@@ -1755,14 +1763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1005244,
-      "num": 1005244,
-      "word": "巴黎奥运 女性主义",
-      "onboard_time": 1722020895,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1004874,
       "num": 1004874,
       "word": "樊振东爆改巴黎纸板床",
@@ -2056,6 +2056,14 @@
       "word": "开幕式路透",
       "onboard_time": 1721984781,
       "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 913174,
+      "num": 913174,
+      "word": "韩国 占C",
+      "onboard_time": 1722020534,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -3609,14 +3617,6 @@
       "onboard_time": 1721983040,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 588881,
-      "num": 588881,
-      "word": "韩国 占C",
-      "onboard_time": 1722020534,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 587423,
@@ -12059,6 +12059,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 182029,
+      "num": 182029,
+      "word": "巴黎圣母院 还在修",
+      "onboard_time": 1722019034,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181978,
       "num": 181978,
       "word": "时代少年团音体不分家vlog",
@@ -12337,6 +12345,14 @@
       "onboard_time": 1721791999,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 178067,
+      "num": 178067,
+      "word": "马赛曲",
+      "onboard_time": 1722021913,
+      "rank": 27,
+      "category": "体育,音乐"
     },
     {
       "raw_hot": 177904,
@@ -13979,14 +13995,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 158365,
-      "num": 158365,
-      "word": "巴黎圣母院 还在修",
-      "onboard_time": 1722019034,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 158327,
       "num": 158327,
       "word": "许凯很帅但韩廷更帅",
@@ -14433,6 +14441,14 @@
       "onboard_time": 1721519115,
       "rank": 32,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 151089,
+      "num": 151089,
+      "word": "开幕式 女性能顶半边天",
+      "onboard_time": 1722022215,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 151055,
@@ -15163,6 +15179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135515,
+      "num": 135515,
+      "word": "日本代表团这么多人",
+      "onboard_time": 1722022452,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135502,
       "num": 135502,
       "word": "43国警察被部署在巴黎",
@@ -15329,6 +15353,14 @@
       "onboard_time": 1721808200,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133071,
+      "num": 133071,
+      "word": "致敬杰出女性",
+      "onboard_time": 1722021553,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 132995,
@@ -15651,6 +15683,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 124315,
+      "num": 124315,
+      "word": "法国要不要擦下镜头呢",
+      "onboard_time": 1722020714,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124091,
       "num": 124091,
       "word": "歌手总决赛赛制",
@@ -15955,6 +15995,22 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 113582,
+      "num": 113582,
+      "word": "祖与占",
+      "onboard_time": 1722022452,
+      "rank": 40,
+      "category": "电影,体育"
+    },
+    {
+      "raw_hot": 113453,
+      "num": 113453,
+      "word": "卢浮宫奇妙夜 有意思",
+      "onboard_time": 1722021854,
+      "rank": 41,
+      "category": "体育,演出"
+    },
+    {
       "raw_hot": 113375,
       "num": 113375,
       "word": "贤贤崽掀翻盆盆奶",
@@ -16025,6 +16081,14 @@
       "onboard_time": 1721793440,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 111143,
+      "num": 111143,
+      "word": "以色列",
+      "onboard_time": 1722022394,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 111089,
@@ -18737,6 +18801,14 @@
       "onboard_time": 1721705240,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 19766,
+      "num": 668197,
+      "word": "小伙在巴黎街头吹唢呐为中国加油",
+      "onboard_time": 1722022033,
+      "rank": 9,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 19178,
