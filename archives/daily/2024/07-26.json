@@ -1,6 +1,6 @@
 {
   "startTime": 1721924711965,
-  "endTime": 1721985647705,
+  "endTime": 1721986489731,
   "band_list": [
     {
       "raw_hot": 3714268,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3341917,
-      "num": 3341917,
+      "raw_hot": 3374355,
+      "num": 3374355,
       "word": "中信建投实习生泄漏IPO材料",
       "onboard_time": 1721981539,
       "rank": 26,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 980080,
-      "num": 916729,
+      "num": 928073,
       "word": "肖战国外买的纪念品madeinChina",
       "onboard_time": 1721975960,
       "rank": 32,
@@ -177,6 +177,22 @@
       "onboard_time": 1721966361,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 913620,
+      "num": 913620,
+      "word": "开幕式路透",
+      "onboard_time": 1721984781,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 891188,
+      "num": 891188,
+      "word": "中信建投回应网传高校学生视频",
+      "onboard_time": 1721982920,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 873281,
@@ -291,14 +307,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 623948,
-      "num": 623948,
-      "word": "中信建投回应网传高校学生视频",
-      "onboard_time": 1721982920,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 601167,
       "num": 519362,
       "word": "吴昕原话",
@@ -307,20 +315,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 600467,
-      "num": 600467,
-      "word": "开幕式路透",
-      "onboard_time": 1721984781,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 594432,
       "num": 308551,
       "word": "三个月瘦了40斤的运动之路",
       "onboard_time": 1721971459,
       "rank": 23,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 590126,
+      "num": 515991,
+      "word": "李冰冰魏大勋豪门姐弟",
+      "onboard_time": 1721983040,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 575615,
@@ -449,14 +457,6 @@
       "onboard_time": 1721901919,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 498028,
-      "num": 498028,
-      "word": "李冰冰魏大勋豪门姐弟",
-      "onboard_time": 1721983040,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 496994,
@@ -803,8 +803,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 283994,
-      "num": 283994,
+      "raw_hot": 285855,
+      "num": 285855,
       "word": "警方通报村干部取快递被捅身亡",
       "onboard_time": 1721982259,
       "rank": 36,
@@ -835,6 +835,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269233,
+      "num": 269233,
+      "word": "男子准备跳水遭野猴攻击将猴推下山崖",
+      "onboard_time": 1721982500,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268081,
+      "num": 268081,
+      "word": "台风",
+      "onboard_time": 1721972360,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265906,
       "num": 265906,
       "word": "猫 我永远都不会原谅你",
@@ -860,7 +876,7 @@
     },
     {
       "raw_hot": 259753,
-      "num": 259753,
+      "num": 516881,
       "word": "诊所140元药卖2980患者家属发声",
       "onboard_time": 1721983701,
       "rank": 27,
@@ -881,14 +897,6 @@
       "onboard_time": 1721968342,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 254667,
-      "num": 254667,
-      "word": "男子准备跳水遭野猴攻击将猴推下山崖",
-      "onboard_time": 1721982500,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 245670,
@@ -939,14 +947,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 237111,
-      "num": 237111,
-      "word": "台风",
-      "onboard_time": 1721972360,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 231170,
       "num": 231170,
       "word": "武大雷军班录取分数",
@@ -993,6 +993,22 @@
       "onboard_time": 1721912959,
       "rank": 18,
       "category": "网红"
+    },
+    {
+      "raw_hot": 216170,
+      "num": 216170,
+      "word": "华为出游戏本了",
+      "onboard_time": 1721985260,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 215472,
+      "num": 215472,
+      "word": "马龙回应是否最后一次出战奥运",
+      "onboard_time": 1721984600,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 214657,
@@ -1219,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190868,
+      "num": 190868,
+      "word": "蓝色禁区踢进了我的心门",
+      "onboard_time": 1721986039,
+      "rank": 38,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 190767,
       "num": 190767,
       "word": "肖战法国第七章vlog",
@@ -1233,14 +1257,6 @@
       "onboard_time": 1721957779,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 188683,
-      "num": 188683,
-      "word": "华为出游戏本了",
-      "onboard_time": 1721985260,
-      "rank": 38,
-      "category": "数码"
     },
     {
       "raw_hot": 186001,
@@ -1307,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179753,
+      "num": 179753,
+      "word": "当考试还剩15分钟时",
+      "onboard_time": 1721983341,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179696,
       "num": 179696,
       "word": "唐诡西行中暑剧",
@@ -1321,14 +1345,6 @@
       "onboard_time": 1721975179,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 178050,
-      "num": 178050,
-      "word": "马龙回应是否最后一次出战奥运",
-      "onboard_time": 1721984600,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 177180,
@@ -1388,7 +1404,7 @@
     },
     {
       "raw_hot": 173313,
-      "num": 173313,
+      "num": 180028,
       "word": "武侠娃娃版中国奥运军团",
       "onboard_time": 1721985200,
       "rank": 44,
@@ -1396,7 +1412,7 @@
     },
     {
       "raw_hot": 173283,
-      "num": 173283,
+      "num": 182324,
       "word": "中国队奥运加油",
       "onboard_time": 1721982981,
       "rank": 46,
@@ -2075,6 +2091,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 58326,
+      "num": 399801,
+      "word": "科幻电影里的车都怎么出现",
+      "onboard_time": 1721985440,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 57802,
       "num": 241691,
       "word": "张艺谋再现中国人的要强",
@@ -2105,14 +2129,6 @@
       "onboard_time": 1721964140,
       "rank": 29,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 52812,
-      "num": 178137,
-      "word": "科幻电影里的车都怎么出现",
-      "onboard_time": 1721985440,
-      "rank": 42,
-      "category": "汽车"
     },
     {
       "raw_hot": 49289,
@@ -2171,20 +2187,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33095,
+      "num": 1200240,
+      "word": "镜头里的奥运超燃瞬间",
+      "onboard_time": 1721983761,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32224,
       "num": 32678,
       "word": "李昊最萌的脸打最猛的球",
       "onboard_time": 1721931733,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 32188,
-      "num": 1200240,
-      "word": "镜头里的奥运超燃瞬间",
-      "onboard_time": 1721983761,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 30696,
