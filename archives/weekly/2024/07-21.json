@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721950486547,
+  "endTime": 1721956983354,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -307,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1915128,
+      "num": 1915128,
+      "word": "刘亚仁涉嫌强奸被立案",
+      "onboard_time": 1721954420,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1901447,
       "num": 1901447,
       "word": "大哥远账号被禁言",
@@ -443,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1702775,
+      "num": 389420,
+      "word": "交了8年社保后我决定停交了",
+      "onboard_time": 1721949796,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1688878,
       "num": 1688878,
       "word": "浙江母女双双确诊红斑狼疮",
@@ -513,6 +529,14 @@
       "onboard_time": 1721555298,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1585611,
+      "num": 253669,
+      "word": "福寿螺在成都遇到天敌了",
+      "onboard_time": 1721951777,
+      "rank": 20,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 1585075,
@@ -1403,20 +1427,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 975714,
+      "num": 975714,
+      "word": "奥运会史上首次开放式开幕式",
+      "onboard_time": 1721920399,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 971334,
       "num": 971334,
       "word": "前台是未成年还吃辣条",
       "onboard_time": 1721915121,
       "rank": 24,
       "category": "网红"
-    },
-    {
-      "raw_hot": 968395,
-      "num": 968395,
-      "word": "奥运会史上首次开放式开幕式",
-      "onboard_time": 1721920399,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 967782,
@@ -1963,6 +1987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 779924,
+      "num": 779924,
+      "word": "24岁女子回家途中失联已有10天",
+      "onboard_time": 1721951777,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 777322,
       "num": 777322,
       "word": "拜登支持哈里斯竞选",
@@ -2459,6 +2491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 672942,
+      "num": 672942,
+      "word": "台风格美将由福建移入江西",
+      "onboard_time": 1721952198,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 671447,
       "num": 671447,
       "word": "台风登陆",
@@ -2657,6 +2697,14 @@
       "onboard_time": 1721634619,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 627643,
+      "num": 244417,
+      "word": "抑郁症有11个隐形信号",
+      "onboard_time": 1721951238,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 627611,
@@ -2865,14 +2913,6 @@
       "onboard_time": 1721877260,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 591826,
-      "num": 146636,
-      "word": "交了8年社保后我决定停交了",
-      "onboard_time": 1721949796,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 590219,
@@ -3113,6 +3153,14 @@
       "onboard_time": 1721799259,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 553094,
+      "num": 553094,
+      "word": "南科大录取通知书被指用错的地",
+      "onboard_time": 1721948534,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 553034,
@@ -3427,6 +3475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 501298,
+      "num": 501298,
+      "word": "鼻血馒头",
+      "onboard_time": 1721954899,
+      "rank": 7,
+      "category": "网红"
+    },
+    {
       "raw_hot": 500979,
       "num": 226721,
       "word": "特朗普遇袭事件出现最新视频",
@@ -3521,6 +3577,14 @@
       "onboard_time": 1721649623,
       "rank": 21,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 490263,
+      "num": 388855,
+      "word": "马子佳 孔汝淳",
+      "onboard_time": 1721954059,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 490102,
@@ -3899,6 +3963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 447468,
+      "num": 222275,
+      "word": "戴了五年美瞳把眼睛寿命磨损完了",
+      "onboard_time": 1721949195,
+      "rank": 21,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 446386,
       "num": 418005,
       "word": "张杰直播",
@@ -4236,7 +4308,7 @@
     },
     {
       "raw_hot": 405435,
-      "num": 144557,
+      "num": 201241,
       "word": "三亚酒店暴跌游客都去哪儿了",
       "onboard_time": 1721925077,
       "rank": 47,
@@ -4303,6 +4375,14 @@
       "num": 400556,
       "word": "娃哈哈",
       "onboard_time": 1721654362,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398581,
+      "num": 398581,
+      "word": "台风格美",
+      "onboard_time": 1721821639,
       "rank": 31,
       "category": "社会新闻"
     },
@@ -4387,6 +4467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 387721,
+      "num": 387721,
+      "word": "宋亚轩定位忘关了",
+      "onboard_time": 1721949616,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 384464,
       "num": 384464,
       "word": "张峻豪说不敢面对观众",
@@ -4467,6 +4555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 374236,
+      "num": 374236,
+      "word": "体重将近200斤的美国恶霸犬",
+      "onboard_time": 1721949195,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 374034,
       "num": 374034,
       "word": "巴黎奥运会首个比赛日出现闹剧",
@@ -4497,14 +4593,6 @@
       "onboard_time": 1721638162,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 371127,
-      "num": 371127,
-      "word": "台风格美",
-      "onboard_time": 1721821639,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 370244,
@@ -4649,6 +4737,22 @@
       "onboard_time": 1721639962,
       "rank": 36,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 361314,
+      "num": 361314,
+      "word": "唐诡西行 家暴的他破碎的她",
+      "onboard_time": 1721955141,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 360621,
+      "num": 360621,
+      "word": "为什么精致女生坐高铁系列被喷",
+      "onboard_time": 1721955741,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 359706,
@@ -4833,6 +4937,14 @@
       "onboard_time": 1721729541,
       "rank": 37,
       "category": "国内时政,科学科普"
+    },
+    {
+      "raw_hot": 347859,
+      "num": 347859,
+      "word": "8个月宝宝第一次经历台风挺秃然",
+      "onboard_time": 1721950036,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 347306,
@@ -5075,14 +5187,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 323742,
-      "num": 207722,
-      "word": "体重将近200斤的美国恶霸犬",
-      "onboard_time": 1721949195,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 322477,
       "num": 322477,
       "word": "雅安暴雨山洪已致8人遇难",
@@ -5137,6 +5241,14 @@
       "onboard_time": 1721705421,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 320415,
+      "num": 320415,
+      "word": "台风格美已造成福建省62.86万人受灾",
+      "onboard_time": 1721956580,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 317774,
@@ -6083,14 +6195,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 265633,
-      "num": 143548,
-      "word": "戴了五年美瞳把眼睛寿命磨损完了",
-      "onboard_time": 1721949195,
-      "rank": 21,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 264886,
       "num": 264886,
       "word": "台风暴雨高温多预警齐发",
@@ -6193,6 +6297,14 @@
       "onboard_time": 1721660604,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 258340,
+      "num": 258340,
+      "word": "徐明浩上恋综了",
+      "onboard_time": 1721949315,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 258336,
@@ -7563,6 +7675,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 216768,
+      "num": 216768,
+      "word": "6岁女孩遇到继母后如今判若两人",
+      "onboard_time": 1721955861,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216657,
       "num": 216657,
       "word": "SBS歌谣大战节目单",
@@ -7987,6 +8107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 208285,
+      "num": 390367,
+      "word": "巴黎奥运北京时间凌晨开幕",
+      "onboard_time": 1721951419,
+      "rank": 9,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 208092,
       "num": 208092,
       "word": "赵小童 自己做的篮筐认人",
@@ -8289,6 +8417,14 @@
       "onboard_time": 1721822239,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202798,
+      "num": 202798,
+      "word": "原来生活中的暗示这么明显",
+      "onboard_time": 1721949495,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 202538,
@@ -9227,6 +9363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191455,
+      "num": 191455,
+      "word": "深圳暴雨",
+      "onboard_time": 1721949556,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191375,
       "num": 191375,
       "word": "中医解释为什么有人会上热下寒",
@@ -9689,6 +9833,14 @@
       "onboard_time": 1721658444,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 186001,
+      "num": 186001,
+      "word": "陈道明入行50年第一次跑厅",
+      "onboard_time": 1721950457,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 185940,
@@ -10419,6 +10571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 173575,
+      "num": 173575,
+      "word": "3名中国游客在肯尼亚遇车祸身亡",
+      "onboard_time": 1721953701,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173553,
       "num": 245458,
       "word": "俄罗斯一女子2拳击倒搭讪男子",
@@ -10521,6 +10681,14 @@
       "onboard_time": 1721733139,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171943,
+      "num": 171943,
+      "word": "欧阳娜娜现身刘昊然新片首映礼",
+      "onboard_time": 1721950096,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 171772,
@@ -11043,6 +11211,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 163930,
+      "num": 163930,
+      "word": "特警拍防溺水短片竟遇到真溺水者",
+      "onboard_time": 1721954001,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163727,
+      "num": 163727,
+      "word": "BBA涨价后卖更好了",
+      "onboard_time": 1721949195,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 163641,
       "num": 163641,
       "word": "NCTcp总选票数",
@@ -11217,14 +11401,6 @@
       "onboard_time": 1721894840,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161111,
-      "num": 161111,
-      "word": "南科大录取通知书被指用错的地",
-      "onboard_time": 1721948534,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161086,
@@ -11419,6 +11595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 157906,
+      "num": 157906,
+      "word": "歌手彩排",
+      "onboard_time": 1721952620,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157842,
       "num": 157842,
       "word": "赵丽颖很珍惜和粉丝见面的机会",
@@ -11587,6 +11771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154441,
+      "num": 154441,
+      "word": "论我26号晚上会有多忙",
+      "onboard_time": 1721949255,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154421,
       "num": 154421,
       "word": "熊猫妈妈抱着崽翻来覆去地吸",
@@ -11667,6 +11859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153113,
+      "num": 153113,
+      "word": "爷爷居然用我的眼线笔写字",
+      "onboard_time": 1721956460,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 153095,
       "num": 153095,
       "word": "超雄综合征",
@@ -11713,6 +11913,14 @@
       "onboard_time": 1721737160,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152116,
+      "num": 152116,
+      "word": "李佩霞",
+      "onboard_time": 1721952620,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152022,
@@ -11867,6 +12075,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 147703,
+      "num": 147703,
+      "word": "48人登上见义勇为勇士榜",
+      "onboard_time": 1721956940,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147435,
       "num": 147435,
       "word": "再考清华当事人恭喜唐尚珺",
@@ -11889,6 +12105,14 @@
       "onboard_time": 1721701998,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147134,
+      "num": 147134,
+      "word": "王宝强说陈思诚就是为电影而生",
+      "onboard_time": 1721950638,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 147088,
@@ -12211,6 +12435,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 139734,
+      "num": 139734,
+      "word": "男子几天内狂炫50斤西瓜致带状疱疹",
+      "onboard_time": 1721956821,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139548,
       "num": 139548,
       "word": "解密",
@@ -12411,14 +12643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134948,
-      "num": 134948,
-      "word": "徐明浩上恋综了",
-      "onboard_time": 1721949315,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 134585,
       "num": 134585,
       "word": "第一次喝冰水的鸭鸭",
@@ -12609,14 +12833,6 @@
       "onboard_time": 1721738479,
       "rank": 46,
       "category": "网红,作品衍生"
-    },
-    {
-      "raw_hot": 131198,
-      "num": 131198,
-      "word": "宋亚轩定位忘关了",
-      "onboard_time": 1721949616,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 131192,
@@ -12923,14 +13139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 120967,
-      "num": 120967,
-      "word": "深圳暴雨",
-      "onboard_time": 1721949556,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120467,
       "num": 120467,
       "word": "蔡徐坤Allblack",
@@ -12977,14 +13185,6 @@
       "onboard_time": 1721520916,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 118246,
-      "num": 118246,
-      "word": "BBA涨价后卖更好了",
-      "onboard_time": 1721949195,
-      "rank": 37,
-      "category": "汽车"
     },
     {
       "raw_hot": 118186,
@@ -13057,14 +13257,6 @@
       "onboard_time": 1721698400,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 115422,
-      "num": 115422,
-      "word": "欧阳娜娜现身刘昊然新片首映礼",
-      "onboard_time": 1721950096,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 114645,
@@ -13257,14 +13449,6 @@
       "onboard_time": 1721519055,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 105994,
-      "num": 105994,
-      "word": "论我26号晚上会有多忙",
-      "onboard_time": 1721949255,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 105875,
@@ -13489,14 +13673,6 @@
       "onboard_time": 1721795239,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 94034,
-      "num": 94034,
-      "word": "8个月宝宝第一次经历台风挺秃然",
-      "onboard_time": 1721950036,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 93332,
@@ -13841,14 +14017,6 @@
       "onboard_time": 1721777718,
       "rank": 39,
       "category": "军事"
-    },
-    {
-      "raw_hot": 76249,
-      "num": 76249,
-      "word": "原来生活中的暗示这么明显",
-      "onboard_time": 1721949495,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 75950,
@@ -14417,14 +14585,6 @@
       "onboard_time": 1721567661,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 54500,
-      "num": 54500,
-      "word": "陈道明入行50年第一次跑厅",
-      "onboard_time": 1721950457,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 53906,

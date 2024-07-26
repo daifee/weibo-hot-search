@@ -1,0 +1,410 @@
+{
+  "runTime": 1721956983354,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1915128,
+        "num": 1915128,
+        "word": "刘亚仁涉嫌强奸被立案",
+        "onboard_time": 1721954420,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 975714,
+        "num": 975714,
+        "word": "奥运会史上首次开放式开幕式",
+        "onboard_time": 1721920399,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20140,
+        "num": 851566,
+        "word": "北京时间版奥运观赛日历",
+        "onboard_time": 1721863456,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 779924,
+        "num": 779924,
+        "word": "24岁女子回家途中失联已有10天",
+        "onboard_time": 1721951777,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 672942,
+        "num": 672942,
+        "word": "台风格美将由福建移入江西",
+        "onboard_time": 1721952198,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553094,
+        "num": 553094,
+        "word": "南科大录取通知书被指用错的地",
+        "onboard_time": 1721948534,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536597,
+        "num": 536597,
+        "word": "张云龙 还在那抱",
+        "onboard_time": 1721943491,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 501298,
+        "num": 501298,
+        "word": "鼻血馒头",
+        "onboard_time": 1721954899,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 398581,
+        "num": 398581,
+        "word": "台风格美",
+        "onboard_time": 1721950036,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208285,
+        "num": 390367,
+        "word": "巴黎奥运北京时间凌晨开幕",
+        "onboard_time": 1721951419,
+        "rank": 9,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1702775,
+        "num": 389420,
+        "word": "交了8年社保后我决定停交了",
+        "onboard_time": 1721949796,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490263,
+        "num": 388855,
+        "word": "马子佳 孔汝淳",
+        "onboard_time": 1721954059,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 387721,
+        "num": 387721,
+        "word": "宋亚轩定位忘关了",
+        "onboard_time": 1721949616,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374236,
+        "num": 374236,
+        "word": "体重将近200斤的美国恶霸犬",
+        "onboard_time": 1721949195,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 361314,
+        "num": 361314,
+        "word": "唐诡西行 家暴的他破碎的她",
+        "onboard_time": 1721955141,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 360621,
+        "num": 360621,
+        "word": "为什么精致女生坐高铁系列被喷",
+        "onboard_time": 1721955741,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347859,
+        "num": 347859,
+        "word": "8个月宝宝第一次经历台风挺秃然",
+        "onboard_time": 1721950036,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320415,
+        "num": 320415,
+        "word": "台风格美已造成福建省62.86万人受灾",
+        "onboard_time": 1721956580,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274373,
+        "num": 274373,
+        "word": "偶遇张若昀对着自行车鞠躬",
+        "onboard_time": 1721919081,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 258340,
+        "num": 258340,
+        "word": "徐明浩上恋综了",
+        "onboard_time": 1721949315,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1585611,
+        "num": 253669,
+        "word": "福寿螺在成都遇到天敌了",
+        "onboard_time": 1721951777,
+        "rank": 20,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 627643,
+        "num": 244417,
+        "word": "抑郁症有11个隐形信号",
+        "onboard_time": 1721951238,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 539747,
+        "num": 234326,
+        "word": "一县委书记被举报涉嫌性侵女下属",
+        "onboard_time": 1721948655,
+        "rank": 22,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 447468,
+        "num": 222275,
+        "word": "戴了五年美瞳把眼睛寿命磨损完了",
+        "onboard_time": 1721949195,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 216768,
+        "num": 216768,
+        "word": "6岁女孩遇到继母后如今判若两人",
+        "onboard_time": 1721955861,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208076,
+        "num": 208076,
+        "word": "前台是未成年还吃辣条",
+        "onboard_time": 1721915121,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 202798,
+        "num": 202798,
+        "word": "原来生活中的暗示这么明显",
+        "onboard_time": 1721949495,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201960,
+        "num": 201960,
+        "word": "马子佳结婚了",
+        "onboard_time": 1721915660,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 201241,
+        "num": 201241,
+        "word": "三亚酒店暴跌游客都去哪儿了",
+        "onboard_time": 1721925077,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191455,
+        "num": 191455,
+        "word": "深圳暴雨",
+        "onboard_time": 1721949556,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190967,
+        "num": 190967,
+        "word": "你好种地少年",
+        "onboard_time": 1721916860,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187651,
+        "num": 187651,
+        "word": "陕师大性骚扰女毕业生副教授被解聘",
+        "onboard_time": 1721923219,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186001,
+        "num": 186001,
+        "word": "陈道明入行50年第一次跑厅",
+        "onboard_time": 1721950457,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185188,
+        "num": 185188,
+        "word": "台风登陆",
+        "onboard_time": 1721911219,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174823,
+        "num": 174823,
+        "word": "台风格美在福建沿海登陆",
+        "onboard_time": 1721909360,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173575,
+        "num": 173575,
+        "word": "3名中国游客在肯尼亚遇车祸身亡",
+        "onboard_time": 1721953701,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171943,
+        "num": 171943,
+        "word": "欧阳娜娜现身刘昊然新片首映礼",
+        "onboard_time": 1721950096,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165596,
+        "num": 165596,
+        "word": "傅园慧晒奖牌回应网友质疑",
+        "onboard_time": 1721920281,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163930,
+        "num": 163930,
+        "word": "特警拍防溺水短片竟遇到真溺水者",
+        "onboard_time": 1721954001,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163727,
+        "num": 163727,
+        "word": "BBA涨价后卖更好了",
+        "onboard_time": 1721949195,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 157906,
+        "num": 157906,
+        "word": "歌手彩排",
+        "onboard_time": 1721952620,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154441,
+        "num": 154441,
+        "word": "论我26号晚上会有多忙",
+        "onboard_time": 1721949255,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153113,
+        "num": 153113,
+        "word": "爷爷居然用我的眼线笔写字",
+        "onboard_time": 1721956460,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152116,
+        "num": 152116,
+        "word": "李佩霞",
+        "onboard_time": 1721952620,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150583,
+        "num": 150583,
+        "word": "河南小伙高考529分被清华录取",
+        "onboard_time": 1721910920,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149070,
+        "num": 149070,
+        "word": "台风格美影响或波及10余省份",
+        "onboard_time": 1721911460,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147703,
+        "num": 147703,
+        "word": "48人登上见义勇为勇士榜",
+        "onboard_time": 1721956940,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147134,
+        "num": 147134,
+        "word": "王宝强说陈思诚就是为电影而生",
+        "onboard_time": 1721950638,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143653,
+        "num": 143653,
+        "word": "偶遇霍思燕带女儿喝下午茶",
+        "onboard_time": 1721909060,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139734,
+        "num": 139734,
+        "word": "男子几天内狂炫50斤西瓜致带状疱疹",
+        "onboard_time": 1721956821,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局常务委员会召开会议#"
+    }
+  }
+}
