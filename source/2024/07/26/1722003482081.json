@@ -1,0 +1,410 @@
+{
+  "runTime": 1722003482081,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8018492,
+        "num": 8018492,
+        "word": "那英吃了回春丹",
+        "onboard_time": 1721999423,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 7379450,
+        "num": 7379450,
+        "word": "香缇莫淘汰",
+        "onboard_time": 1722000326,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117647,
+        "num": 4112490,
+        "word": "闪耀奥运赛场的中国骄傲",
+        "onboard_time": 1722001223,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4000164,
+        "num": 4000164,
+        "word": "歌手总决赛",
+        "onboard_time": 1721991739,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 928873,
+        "num": 928873,
+        "word": "巴黎奥运开幕式",
+        "onboard_time": 1722002904,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 695886,
+        "num": 695886,
+        "word": "开幕式路透",
+        "onboard_time": 1721984781,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 514325,
+        "num": 514325,
+        "word": "印度一工人挖出近20克拉钻石",
+        "onboard_time": 1721999662,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431976,
+        "num": 431976,
+        "word": "奥运会赛程",
+        "onboard_time": 1721978598,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376218,
+        "num": 376218,
+        "word": "发条微博为中国健儿打call",
+        "onboard_time": 1721995640,
+        "rank": 8,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 157214,
+        "num": 367950,
+        "word": "周震南 太燥了",
+        "onboard_time": 1722002723,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3316833,
+        "num": 359577,
+        "word": "歌手 音乐竞技搞煽情",
+        "onboard_time": 1722001344,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26161,
+        "num": 357418,
+        "word": "遇见你的CRUSH",
+        "onboard_time": 1722000861,
+        "rank": 11,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 2154058,
+        "num": 350599,
+        "word": "刘欢加孙楠 以为奥运开幕了",
+        "onboard_time": 1721997020,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1864459,
+        "num": 335690,
+        "word": "张杰陈楚生拥抱",
+        "onboard_time": 1722001463,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1715385,
+        "num": 332336,
+        "word": "太牛了那英",
+        "onboard_time": 1722003024,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50542,
+        "num": 323920,
+        "word": "西藏护林员介绍森林满脸自豪",
+        "onboard_time": 1722001584,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1603973,
+        "num": 311295,
+        "word": "中信建投实习生道歉",
+        "onboard_time": 1721992878,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429580,
+        "num": 308023,
+        "word": "印度女子生下2张脸4只胳膊婴儿",
+        "onboard_time": 1721975300,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301290,
+        "num": 301290,
+        "word": "雪憨憨恋爱",
+        "onboard_time": 1722001223,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 293453,
+        "num": 293453,
+        "word": "开幕式 熬夜",
+        "onboard_time": 1721964860,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1100191,
+        "num": 291372,
+        "word": "谭维维哭了",
+        "onboard_time": 1721998042,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1033316,
+        "num": 288493,
+        "word": "汪苏泷忘词",
+        "onboard_time": 1721999121,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 966490,
+        "num": 285378,
+        "word": "凡希亚转音杀疯了",
+        "onboard_time": 1722001883,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 883497,
+        "num": 283287,
+        "word": "那英燃炸了",
+        "onboard_time": 1721999662,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 432264,
+        "num": 279130,
+        "word": "中信建投实习生说网上身份信息不实",
+        "onboard_time": 1721992520,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 811931,
+        "num": 277813,
+        "word": "贾玲亮相奥委会主席晚宴",
+        "onboard_time": 1721995760,
+        "rank": 25,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 713206,
+        "num": 274854,
+        "word": "陈楚生谭维维好搭",
+        "onboard_time": 1721998521,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 870888,
+        "num": 271662,
+        "word": "张杰凡希亚 强强联合",
+        "onboard_time": 1721996420,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397381,
+        "num": 268750,
+        "word": "中信建投实习生泄漏IPO材料",
+        "onboard_time": 1721981539,
+        "rank": 28,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 38778,
+        "num": 265677,
+        "word": "92年前那次一个人的奥林匹克",
+        "onboard_time": 1722003445,
+        "rank": 29,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 611052,
+        "num": 260978,
+        "word": "汪苏泷淘汰",
+        "onboard_time": 1722002423,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 547591,
+        "num": 260124,
+        "word": "贾玲巴黎状态",
+        "onboard_time": 1721996179,
+        "rank": 31,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 523204,
+        "num": 256975,
+        "word": "古巨基一直看提词器",
+        "onboard_time": 1721999182,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309125,
+        "num": 254299,
+        "word": "乒乓球果然是顶流啊",
+        "onboard_time": 1721996361,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252005,
+        "num": 252005,
+        "word": "眼睛里取出来好多结石",
+        "onboard_time": 1721991979,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 483070,
+        "num": 248821,
+        "word": "歌手第二轮",
+        "onboard_time": 1722002183,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 444032,
+        "num": 248753,
+        "word": "张磊秒了海来阿木",
+        "onboard_time": 1721996240,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243951,
+        "num": 243951,
+        "word": "为什么吃道具是剧组大忌",
+        "onboard_time": 1722002063,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207161,
+        "num": 207161,
+        "word": "上海海港8比1南通支云",
+        "onboard_time": 1722002904,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196840,
+        "num": 196840,
+        "word": "奥运会",
+        "onboard_time": 1721997383,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 354430,
+        "num": 195871,
+        "word": "种地吧是十个勤天的起点不是终点",
+        "onboard_time": 1721997322,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353943,
+        "num": 195574,
+        "word": "迪玛希白月光回来了",
+        "onboard_time": 1721999062,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351698,
+        "num": 194962,
+        "word": "那英赢了香缇莫",
+        "onboard_time": 1722001883,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194300,
+        "num": 194300,
+        "word": "法国铁路遭纵火等恶意袭击",
+        "onboard_time": 1721999484,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341219,
+        "num": 189814,
+        "word": "还我黄宣",
+        "onboard_time": 1721996301,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183615,
+        "num": 183615,
+        "word": "大熊猫被自家娃遛了30分钟",
+        "onboard_time": 1721991680,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179544,
+        "num": 179544,
+        "word": "男性怀孕或成现实",
+        "onboard_time": 1721965161,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169124,
+        "num": 179531,
+        "word": "开幕式 夜宵",
+        "onboard_time": 1721988438,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165629,
+        "num": 179521,
+        "word": "王超",
+        "onboard_time": 1721993899,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151957,
+        "num": 179502,
+        "word": "中国代表团巴黎奥运全家福",
+        "onboard_time": 1721999121,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的奥运情缘#"
+    }
+  }
+}
