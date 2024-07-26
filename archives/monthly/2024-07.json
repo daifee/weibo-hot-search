@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721982238983,
+  "endTime": 1721983035348,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -1401,6 +1401,14 @@
       "onboard_time": 1721049740,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1768258,
+      "num": 1768258,
+      "word": "全红婵因跳207C饱受折磨",
+      "onboard_time": 1721980340,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 1765931,
@@ -3065,14 +3073,6 @@
       "onboard_time": 1721108537,
       "rank": 1,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 1289461,
-      "num": 478742,
-      "word": "全红婵因跳207C饱受折磨",
-      "onboard_time": 1721980340,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 1286988,
@@ -5244,7 +5244,7 @@
     },
     {
       "raw_hot": 980080,
-      "num": 557481,
+      "num": 762863,
       "word": "肖战国外买的纪念品madeinChina",
       "onboard_time": 1721975960,
       "rank": 32,
@@ -8091,6 +8091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 759430,
+      "num": 546149,
+      "word": "带癌上班的年轻人不敢躺平",
+      "onboard_time": 1721976679,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 759212,
       "num": 617109,
       "word": "夏之光 亲什么嘴儿啊",
@@ -8505,6 +8513,14 @@
       "onboard_time": 1720152258,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 735229,
+      "num": 420950,
+      "word": "中信建投实习生泄漏IPO材料",
+      "onboard_time": 1721981539,
+      "rank": 26,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 734987,
@@ -9793,14 +9809,6 @@
       "onboard_time": 1720780698,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 668075,
-      "num": 546149,
-      "word": "带癌上班的年轻人不敢躺平",
-      "onboard_time": 1721976679,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 667907,
@@ -12529,6 +12537,14 @@
       "onboard_time": 1720654576,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 565415,
+      "num": 565415,
+      "word": "全红婵背包上挂了10KG动物园",
+      "onboard_time": 1721976979,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 565363,
@@ -18731,14 +18747,6 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 415302,
-      "num": 415302,
-      "word": "全红婵背包上挂了10KG动物园",
-      "onboard_time": 1721976979,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 415127,
       "num": 415127,
       "word": "伊朗总统大选结果揭晓",
@@ -20777,6 +20785,14 @@
       "onboard_time": 1721842154,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 373934,
+      "num": 373934,
+      "word": "中信建投",
+      "onboard_time": 1721981539,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 373906,
@@ -23803,6 +23819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 321652,
+      "num": 321652,
+      "word": "全红婵父亲称不能只靠女儿的名气",
+      "onboard_time": 1721980580,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 321558,
       "num": 321558,
       "word": "N2",
@@ -24521,6 +24545,14 @@
       "onboard_time": 1720588639,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 308897,
+      "num": 308897,
+      "word": "异人之下剧情",
+      "onboard_time": 1721980698,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 308883,
@@ -26883,6 +26915,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 276726,
+      "num": 276726,
+      "word": "扇耳光女教练称愿意接受任何处分",
+      "onboard_time": 1721979860,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276604,
       "num": 276604,
       "word": "周深TMEA年度男歌手",
@@ -27280,6 +27320,14 @@
       "word": "徐志胜被孟子义整破防了",
       "onboard_time": 1719824898,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 270656,
+      "num": 270656,
+      "word": "陶昕然 我不接受背黑锅",
+      "onboard_time": 1721981660,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -27939,14 +27987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 261504,
-      "num": 261504,
-      "word": "扇耳光女教练称愿意接受任何处分",
-      "onboard_time": 1721979860,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 261326,
       "num": 261326,
       "word": "南京大屠杀幸存者周智林老人去世",
@@ -28241,14 +28281,6 @@
       "onboard_time": 1720279280,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 257261,
-      "num": 257261,
-      "word": "全红婵父亲称不能只靠女儿的名气",
-      "onboard_time": 1721980580,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 257234,
@@ -29587,14 +29619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 243748,
-      "num": 243748,
-      "word": "中信建投实习生泄漏IPO材料",
-      "onboard_time": 1721981539,
-      "rank": 26,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 243428,
       "num": 243428,
       "word": "赵今麦张凌赫 苹果吻",
@@ -30129,14 +30153,6 @@
       "onboard_time": 1721101759,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 239652,
-      "num": 239652,
-      "word": "中信建投",
-      "onboard_time": 1721981539,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 239409,
@@ -32323,14 +32339,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 221726,
-      "num": 221726,
-      "word": "异人之下剧情",
-      "onboard_time": 1721980698,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 221696,
       "num": 197275,
       "word": "怎么应聘这个洗龟龟的工作",
@@ -32961,6 +32969,14 @@
       "onboard_time": 1721625140,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 217476,
+      "num": 217476,
+      "word": "你一天上班的成本是多少",
+      "onboard_time": 1721977940,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 217473,
@@ -33800,6 +33816,14 @@
       "word": "李荣浩穿的是杨丞琳的周边",
       "onboard_time": 1720660759,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 213228,
+      "num": 213228,
+      "word": "杨幂卡诗剪影预热",
+      "onboard_time": 1721982020,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -34859,14 +34883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207840,
-      "num": 207840,
-      "word": "陶昕然 我不接受背黑锅",
-      "onboard_time": 1721981660,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 207808,
       "num": 207808,
       "word": "潘粤明王鹤棣杀青照",
@@ -35811,6 +35827,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 204336,
+      "num": 204336,
+      "word": "警方通报村干部取快递被捅身亡",
+      "onboard_time": 1721982259,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204333,
       "num": 192384,
       "word": "王一博传递火炬上了英语试卷",
@@ -36249,6 +36273,14 @@
       "onboard_time": 1721949495,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 202752,
+      "num": 202752,
+      "word": "田曦薇黑长直A感",
+      "onboard_time": 1721981839,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 202742,
@@ -36971,14 +37003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200428,
-      "num": 200428,
-      "word": "你一天上班的成本是多少",
-      "onboard_time": 1721977940,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 200411,
       "num": 200411,
       "word": "NMIXX滑倒",
@@ -37121,6 +37145,14 @@
       "onboard_time": 1721545757,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 199831,
+      "num": 199831,
+      "word": "陈思铭 在最美好的年纪遇见了彼此",
+      "onboard_time": 1721982801,
+      "rank": 39,
+      "category": "网红"
     },
     {
       "raw_hot": 199811,
@@ -37721,6 +37753,14 @@
       "onboard_time": 1721124018,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198011,
+      "num": 198011,
+      "word": "刘昊然 谢帝谢帝我要diss你",
+      "onboard_time": 1721982620,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 197983,
@@ -38603,6 +38643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 195202,
+      "num": 195202,
+      "word": "叶童 赵雅芝",
+      "onboard_time": 1721979381,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195193,
       "num": 195193,
       "word": "Capper官宣厂牌",
@@ -38617,14 +38665,6 @@
       "onboard_time": 1721379861,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 195130,
-      "num": 195130,
-      "word": "杨幂卡诗剪影预热",
-      "onboard_time": 1721982020,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 195049,
@@ -41347,6 +41387,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 186369,
+      "num": 425935,
+      "word": "中信建投回应网传高校学生视频",
+      "onboard_time": 1721982920,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186352,
       "num": 186352,
       "word": "王源巡演归来",
@@ -42193,14 +42241,6 @@
       "onboard_time": 1720347018,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 182735,
-      "num": 182735,
-      "word": "叶童 赵雅芝",
-      "onboard_time": 1721979381,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 182697,
@@ -43121,14 +43161,6 @@
       "onboard_time": 1720573039,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 178670,
-      "num": 178670,
-      "word": "田曦薇黑长直A感",
-      "onboard_time": 1721981839,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 178623,
@@ -44659,6 +44691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173283,
+      "num": 173283,
+      "word": "中国队奥运加油",
+      "onboard_time": 1721982981,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173271,
       "num": 173271,
       "word": "AI爆改还珠格格",
@@ -45753,6 +45793,14 @@
       "onboard_time": 1721877919,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 169154,
+      "num": 169154,
+      "word": "男子准备跳水遭野猴攻击将猴推下山崖",
+      "onboard_time": 1721982500,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169128,
@@ -57531,6 +57579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125386,
+      "num": 481796,
+      "word": "反驳型人格伴侣有多糟心",
+      "onboard_time": 1721980939,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125372,
       "num": 125372,
       "word": "徐明浩HOT王子礼",
@@ -66411,14 +66467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 71332,
-      "num": 481796,
-      "word": "反驳型人格伴侣有多糟心",
-      "onboard_time": 1721980939,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 71283,
       "num": 96927,
       "word": "惠州4人潜水失联背后",
@@ -69308,7 +69356,7 @@
     },
     {
       "raw_hot": 49289,
-      "num": 240396,
+      "num": 383813,
       "word": "vivo影像已经进入nextlevel",
       "onboard_time": 1721981060,
       "rank": 27,
@@ -75865,6 +75913,9 @@
     },
     {
       "word": "#习近平的奥林匹克情缘#"
+    },
+    {
+      "word": "#人民生命财产安全在总书记心中重若千钧#"
     }
   ]
 }

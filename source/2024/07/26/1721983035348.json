@@ -1,0 +1,410 @@
+{
+  "runTime": 1721983035348,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1768258,
+        "num": 1768258,
+        "word": "全红婵因跳207C饱受折磨",
+        "onboard_time": 1721980340,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1126059,
+        "num": 1126059,
+        "word": "奥运会赛程",
+        "onboard_time": 1721978598,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21425,
+        "num": 925887,
+        "word": "万千气象看青海",
+        "onboard_time": 1721963119,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 762863,
+        "num": 762863,
+        "word": "肖战国外买的纪念品madeinChina",
+        "onboard_time": 1721975960,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 565415,
+        "num": 565415,
+        "word": "全红婵背包上挂了10KG动物园",
+        "onboard_time": 1721976979,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 522342,
+        "num": 522342,
+        "word": "官方通报古茗奶茶中疑有血痰",
+        "onboard_time": 1721968282,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514795,
+        "num": 514795,
+        "word": "陈妍希沈月淘汰",
+        "onboard_time": 1721973080,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 428283,
+        "num": 428283,
+        "word": "吴昕原话",
+        "onboard_time": 1721977280,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238113,
+        "num": 427113,
+        "word": "中国世界遗产名录又增一项",
+        "onboard_time": 1721980099,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186369,
+        "num": 425935,
+        "word": "中信建投回应网传高校学生视频",
+        "onboard_time": 1721982920,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1372576,
+        "num": 424644,
+        "word": "印度女子生下2张脸4只胳膊婴儿",
+        "onboard_time": 1721975300,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 759430,
+        "num": 423278,
+        "word": "带癌上班的年轻人不敢躺平",
+        "onboard_time": 1721976679,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 422515,
+        "num": 422515,
+        "word": "警方通报男子杀害女子及其家属4人",
+        "onboard_time": 1721976500,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 735229,
+        "num": 420950,
+        "word": "中信建投实习生泄漏IPO材料",
+        "onboard_time": 1721981539,
+        "rank": 13,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 508440,
+        "num": 420695,
+        "word": "大二女生卧室被父母安装摄像头",
+        "onboard_time": 1721969420,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418717,
+        "num": 418717,
+        "word": "女子穿吊带被老人当街指责没家教",
+        "onboard_time": 1721969961,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396582,
+        "num": 396582,
+        "word": "番茄小说多个作品高度雷同",
+        "onboard_time": 1721966421,
+        "rank": 16,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 33419,
+        "num": 383813,
+        "word": "vivo影像已经进入nextlevel",
+        "onboard_time": 1721981060,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 373934,
+        "num": 373934,
+        "word": "中信建投",
+        "onboard_time": 1721981539,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346916,
+        "num": 346916,
+        "word": "开幕式 熬夜",
+        "onboard_time": 1721964860,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 769114,
+        "num": 346780,
+        "word": "男性怀孕或成现实",
+        "onboard_time": 1721965161,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406148,
+        "num": 336045,
+        "word": "吴昕劝被家暴的旺旺妈妈再婚",
+        "onboard_time": 1721964680,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110902,
+        "num": 328282,
+        "word": "奥运是和你一起难忘的夏天",
+        "onboard_time": 1721970322,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 324177,
+        "num": 324177,
+        "word": "平顶山地震",
+        "onboard_time": 1721976500,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321652,
+        "num": 321652,
+        "word": "全红婵父亲称不能只靠女儿的名气",
+        "onboard_time": 1721980580,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308897,
+        "num": 308897,
+        "word": "异人之下剧情",
+        "onboard_time": 1721980698,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 279099,
+        "num": 279099,
+        "word": "三个月瘦了40斤的运动之路",
+        "onboard_time": 1721971459,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 276726,
+        "num": 276726,
+        "word": "扇耳光女教练称愿意接受任何处分",
+        "onboard_time": 1721979860,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273053,
+        "num": 273053,
+        "word": "奶茶袋治好了年轻人的包包焦虑吗",
+        "onboard_time": 1721968222,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270656,
+        "num": 270656,
+        "word": "陶昕然 我不接受背黑锅",
+        "onboard_time": 1721981660,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262599,
+        "num": 262599,
+        "word": "张杰回应和凡希亚组合名",
+        "onboard_time": 1721974459,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125386,
+        "num": 233580,
+        "word": "反驳型人格伴侣有多糟心",
+        "onboard_time": 1721980939,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228151,
+        "num": 228151,
+        "word": "武大雷军班录取分数",
+        "onboard_time": 1721980819,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 217476,
+        "num": 217476,
+        "word": "你一天上班的成本是多少",
+        "onboard_time": 1721977940,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213228,
+        "num": 213228,
+        "word": "杨幂卡诗剪影预热",
+        "onboard_time": 1721982020,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209387,
+        "num": 209387,
+        "word": "汪涵老婆带儿子出游",
+        "onboard_time": 1721975720,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204336,
+        "num": 204336,
+        "word": "警方通报村干部取快递被捅身亡",
+        "onboard_time": 1721982259,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202752,
+        "num": 202752,
+        "word": "田曦薇黑长直A感",
+        "onboard_time": 1721981839,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201515,
+        "num": 201515,
+        "word": "贺峻霖晒与马嘉祺张真源合照",
+        "onboard_time": 1721976919,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199831,
+        "num": 199831,
+        "word": "陈思铭 在最美好的年纪遇见了彼此",
+        "onboard_time": 1721982801,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 198011,
+        "num": 198011,
+        "word": "刘昊然 谢帝谢帝我要diss你",
+        "onboard_time": 1721982620,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195202,
+        "num": 195202,
+        "word": "叶童 赵雅芝",
+        "onboard_time": 1721979381,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186499,
+        "num": 186499,
+        "word": "肖战撸猫撩鹅和牛打招呼",
+        "onboard_time": 1721982200,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176203,
+        "num": 176203,
+        "word": "台风",
+        "onboard_time": 1721972360,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174400,
+        "num": 174400,
+        "word": "刘诗诗发奥运封9宫格",
+        "onboard_time": 1721979860,
+        "rank": 44,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 174233,
+        "num": 174233,
+        "word": "林依晨上恋综了",
+        "onboard_time": 1721966361,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173283,
+        "num": 173283,
+        "word": "中国队奥运加油",
+        "onboard_time": 1721982981,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171166,
+        "num": 171166,
+        "word": "山东小伙卖假睫毛成村里最强女婿",
+        "onboard_time": 1721977700,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169154,
+        "num": 169154,
+        "word": "男子准备跳水遭野猴攻击将猴推下山崖",
+        "onboard_time": 1721982500,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165068,
+        "num": 165068,
+        "word": "易烊千玺跳着下楼梯",
+        "onboard_time": 1721975239,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民生命财产安全在总书记心中重若千钧#"
+    }
+  }
+}

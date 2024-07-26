@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721982238983,
+  "endTime": 1721983035348,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -459,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1768258,
+      "num": 1768258,
+      "word": "全红婵因跳207C饱受折磨",
+      "onboard_time": 1721980340,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1760150,
       "num": 1760150,
       "word": "勤天柱",
@@ -881,14 +889,6 @@
       "onboard_time": 1721955861,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1289461,
-      "num": 478742,
-      "word": "全红婵因跳207C饱受折磨",
-      "onboard_time": 1721980340,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 1286988,
@@ -1540,7 +1540,7 @@
     },
     {
       "raw_hot": 980080,
-      "num": 557481,
+      "num": 762863,
       "word": "肖战国外买的纪念品madeinChina",
       "onboard_time": 1721975960,
       "rank": 32,
@@ -2227,6 +2227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 759430,
+      "num": 546149,
+      "word": "带癌上班的年轻人不敢躺平",
+      "onboard_time": 1721976679,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 759212,
       "num": 617109,
       "word": "夏之光 亲什么嘴儿啊",
@@ -2345,6 +2353,14 @@
       "onboard_time": 1721628501,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 735229,
+      "num": 420950,
+      "word": "中信建投实习生泄漏IPO材料",
+      "onboard_time": 1721981539,
+      "rank": 26,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 733476,
@@ -2705,14 +2721,6 @@
       "onboard_time": 1721720541,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 668075,
-      "num": 546149,
-      "word": "带癌上班的年轻人不敢躺平",
-      "onboard_time": 1721976679,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 667633,
@@ -3281,6 +3289,14 @@
       "onboard_time": 1721698100,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 565415,
+      "num": 565415,
+      "word": "全红婵背包上挂了10KG动物园",
+      "onboard_time": 1721976979,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 564306,
@@ -4555,14 +4571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 415302,
-      "num": 415302,
-      "word": "全红婵背包上挂了10KG动物园",
-      "onboard_time": 1721976979,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 414540,
       "num": 414540,
       "word": "傅园慧晒奖牌回应网友质疑",
@@ -4913,6 +4921,14 @@
       "onboard_time": 1721842154,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 373934,
+      "num": 373934,
+      "word": "中信建投",
+      "onboard_time": 1721981539,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 373906,
@@ -5635,6 +5651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 321652,
+      "num": 321652,
+      "word": "全红婵父亲称不能只靠女儿的名气",
+      "onboard_time": 1721980580,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 317774,
       "num": 317774,
       "word": "张若昀在路演当布洛芬",
@@ -5777,6 +5801,14 @@
       "onboard_time": 1721567780,
       "rank": 35,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 308897,
+      "num": 308897,
+      "word": "异人之下剧情",
+      "onboard_time": 1721980698,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 308762,
@@ -6395,6 +6427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 276726,
+      "num": 276726,
+      "word": "扇耳光女教练称愿意接受任何处分",
+      "onboard_time": 1721979860,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276604,
       "num": 276604,
       "word": "周深TMEA年度男歌手",
@@ -6497,6 +6537,14 @@
       "onboard_time": 1721875279,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270656,
+      "num": 270656,
+      "word": "陶昕然 我不接受背黑锅",
+      "onboard_time": 1721981660,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 269384,
@@ -6715,14 +6763,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 261504,
-      "num": 261504,
-      "word": "扇耳光女教练称愿意接受任何处分",
-      "onboard_time": 1721979860,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 261326,
       "num": 261326,
       "word": "南京大屠杀幸存者周智林老人去世",
@@ -6793,14 +6833,6 @@
       "onboard_time": 1721784618,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 257261,
-      "num": 257261,
-      "word": "全红婵父亲称不能只靠女儿的名气",
-      "onboard_time": 1721980580,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 257027,
@@ -7115,14 +7147,6 @@
       "category": "艺人,读书作家"
     },
     {
-      "raw_hot": 243748,
-      "num": 243748,
-      "word": "中信建投实习生泄漏IPO材料",
-      "onboard_time": 1721981539,
-      "rank": 26,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 243342,
       "num": 580641,
       "word": "为什么取消手机收费套餐这么麻烦",
@@ -7313,14 +7337,6 @@
       "onboard_time": 1721522418,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 239652,
-      "num": 239652,
-      "word": "中信建投",
-      "onboard_time": 1721981539,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 239384,
@@ -7963,14 +7979,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 221726,
-      "num": 221726,
-      "word": "异人之下剧情",
-      "onboard_time": 1721980698,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 221504,
       "num": 221504,
       "word": "Newjeans出道前的视频",
@@ -8161,6 +8169,14 @@
       "onboard_time": 1721625140,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 217476,
+      "num": 217476,
+      "word": "你一天上班的成本是多少",
+      "onboard_time": 1721977940,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 217429,
@@ -8385,6 +8401,14 @@
       "onboard_time": 1721736560,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213228,
+      "num": 213228,
+      "word": "杨幂卡诗剪影预热",
+      "onboard_time": 1721982020,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 213152,
@@ -8699,14 +8723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207840,
-      "num": 207840,
-      "word": "陶昕然 我不接受背黑锅",
-      "onboard_time": 1721981660,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 207720,
       "num": 207720,
       "word": "陕西垮塌桥4公里外发现2辆失联车",
@@ -8899,6 +8915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 204336,
+      "num": 204336,
+      "word": "警方通报村干部取快递被捅身亡",
+      "onboard_time": 1721982259,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204219,
       "num": 204219,
       "word": "涂山璟热度破2亿",
@@ -9025,6 +9049,14 @@
       "onboard_time": 1721949495,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 202752,
+      "num": 202752,
+      "word": "田曦薇黑长直A感",
+      "onboard_time": 1721981839,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 202538,
@@ -9219,14 +9251,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 200428,
-      "num": 200428,
-      "word": "你一天上班的成本是多少",
-      "onboard_time": 1721977940,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 200411,
       "num": 200411,
       "word": "NMIXX滑倒",
@@ -9257,6 +9281,14 @@
       "onboard_time": 1721545757,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 199831,
+      "num": 199831,
+      "word": "陈思铭 在最美好的年纪遇见了彼此",
+      "onboard_time": 1721982801,
+      "rank": 39,
+      "category": "网红"
     },
     {
       "raw_hot": 199803,
@@ -9465,6 +9497,14 @@
       "onboard_time": 1721574501,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198011,
+      "num": 198011,
+      "word": "刘昊然 谢帝谢帝我要diss你",
+      "onboard_time": 1721982620,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 197914,
@@ -9699,20 +9739,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 195202,
+      "num": 195202,
+      "word": "叶童 赵雅芝",
+      "onboard_time": 1721979381,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195193,
       "num": 195193,
       "word": "Capper官宣厂牌",
       "onboard_time": 1721819538,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 195130,
-      "num": 195130,
-      "word": "杨幂卡诗剪影预热",
-      "onboard_time": 1721982020,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 194670,
@@ -10531,6 +10571,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 186369,
+      "num": 425935,
+      "word": "中信建投回应网传高校学生视频",
+      "onboard_time": 1721982920,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186234,
       "num": 186234,
       "word": "肖战给自己配音",
@@ -10737,14 +10785,6 @@
       "onboard_time": 1721867180,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182735,
-      "num": 182735,
-      "word": "叶童 赵雅芝",
-      "onboard_time": 1721979381,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 182674,
@@ -10977,14 +11017,6 @@
       "onboard_time": 1721975179,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 178670,
-      "num": 178670,
-      "word": "田曦薇黑长直A感",
-      "onboard_time": 1721981839,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 178517,
@@ -11451,6 +11483,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 173283,
+      "num": 173283,
+      "word": "中国队奥运加油",
+      "onboard_time": 1721982981,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173239,
       "num": 173239,
       "word": "周鸿祎回应睡觉被雷军瞪",
@@ -11761,6 +11801,14 @@
       "onboard_time": 1721877919,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 169154,
+      "num": 169154,
+      "word": "男子准备跳水遭野猴攻击将猴推下山崖",
+      "onboard_time": 1721982500,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169065,
@@ -14067,6 +14115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125386,
+      "num": 481796,
+      "word": "反驳型人格伴侣有多糟心",
+      "onboard_time": 1721980939,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124981,
       "num": 124981,
       "word": "睡觉盖肚脐真的有必要吗",
@@ -15251,14 +15307,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 71332,
-      "num": 481796,
-      "word": "反驳型人格伴侣有多糟心",
-      "onboard_time": 1721980939,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 71229,
       "num": 361441,
       "word": "花花把自己团成了三角饭团",
@@ -15884,7 +15932,7 @@
     },
     {
       "raw_hot": 49289,
-      "num": 240396,
+      "num": 383813,
       "word": "vivo影像已经进入nextlevel",
       "onboard_time": 1721981060,
       "rank": 27,
@@ -17299,6 +17347,9 @@
     },
     {
       "word": "#习近平的奥林匹克情缘#"
+    },
+    {
+      "word": "#人民生命财产安全在总书记心中重若千钧#"
     }
   ]
 }
