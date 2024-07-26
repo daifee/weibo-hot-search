@@ -1,0 +1,410 @@
+{
+  "runTime": 1721985647705,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3341917,
+        "num": 3341917,
+        "word": "中信建投实习生泄漏IPO材料",
+        "onboard_time": 1721981539,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1609952,
+        "num": 1609952,
+        "word": "全红婵因跳207C饱受折磨",
+        "onboard_time": 1721980340,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32188,
+        "num": 1200240,
+        "word": "镜头里的奥运超燃瞬间",
+        "onboard_time": 1721983761,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 916729,
+        "num": 916729,
+        "word": "肖战国外买的纪念品madeinChina",
+        "onboard_time": 1721975960,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 823312,
+        "num": 823312,
+        "word": "扇耳光女教练称愿意接受任何处分",
+        "onboard_time": 1721979860,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623948,
+        "num": 623948,
+        "word": "中信建投回应网传高校学生视频",
+        "onboard_time": 1721982920,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600467,
+        "num": 600467,
+        "word": "开幕式路透",
+        "onboard_time": 1721984781,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 569958,
+        "num": 569958,
+        "word": "全红婵背包上挂了10KG动物园",
+        "onboard_time": 1721976979,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 535032,
+        "num": 535032,
+        "word": "奥运会赛程",
+        "onboard_time": 1721978598,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73577,
+        "num": 527225,
+        "word": "奥运是和你一起难忘的夏天",
+        "onboard_time": 1721970322,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1219618,
+        "num": 527012,
+        "word": "印度女子生下2张脸4只胳膊婴儿",
+        "onboard_time": 1721975300,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546689,
+        "num": 526695,
+        "word": "中信建投",
+        "onboard_time": 1721981539,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525147,
+        "num": 525147,
+        "word": "带癌上班的年轻人不敢躺平",
+        "onboard_time": 1721976679,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 512391,
+        "num": 512391,
+        "word": "官方通报古茗奶茶中疑有血痰",
+        "onboard_time": 1721968282,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498028,
+        "num": 498028,
+        "word": "李冰冰魏大勋豪门姐弟",
+        "onboard_time": 1721983040,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47504,
+        "num": 482092,
+        "word": "vivo影像已经进入nextlevel",
+        "onboard_time": 1721981060,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 470070,
+        "num": 470070,
+        "word": "大二女生卧室被父母安装摄像头",
+        "onboard_time": 1721969420,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447188,
+        "num": 447188,
+        "word": "陈思铭 在最美好的年纪遇见了彼此",
+        "onboard_time": 1721982801,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 416578,
+        "num": 416578,
+        "word": "开幕式 熬夜",
+        "onboard_time": 1721964860,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 358260,
+        "num": 358260,
+        "word": "女子穿吊带被老人当街指责没家教",
+        "onboard_time": 1721969961,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687906,
+        "num": 346103,
+        "word": "男性怀孕或成现实",
+        "onboard_time": 1721965161,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310264,
+        "num": 310264,
+        "word": "阿娇 确定七夕不一起过吗",
+        "onboard_time": 1721983520,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 308630,
+        "num": 308630,
+        "word": "吴昕劝被家暴的旺旺妈妈再婚",
+        "onboard_time": 1721964680,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294762,
+        "num": 294762,
+        "word": "番茄小说多个作品高度雷同",
+        "onboard_time": 1721966421,
+        "rank": 23,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 291767,
+        "num": 291767,
+        "word": "全红婵父亲称不能只靠女儿的名气",
+        "onboard_time": 1721980580,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290699,
+        "num": 290699,
+        "word": "陈妍希沈月淘汰",
+        "onboard_time": 1721973080,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283994,
+        "num": 283994,
+        "word": "警方通报村干部取快递被捅身亡",
+        "onboard_time": 1721982259,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259753,
+        "num": 259753,
+        "word": "诊所140元药卖2980患者家属发声",
+        "onboard_time": 1721983701,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254667,
+        "num": 254667,
+        "word": "男子准备跳水遭野猴攻击将猴推下山崖",
+        "onboard_time": 1721982500,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242110,
+        "num": 242110,
+        "word": "陶昕然 我不接受背黑锅",
+        "onboard_time": 1721981660,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237111,
+        "num": 237111,
+        "word": "台风",
+        "onboard_time": 1721972360,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229775,
+        "num": 229775,
+        "word": "异人之下剧情",
+        "onboard_time": 1721980698,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 227572,
+        "num": 227572,
+        "word": "你一天上班的成本是多少",
+        "onboard_time": 1721977940,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226870,
+        "num": 226870,
+        "word": "杨幂卡诗剪影预热",
+        "onboard_time": 1721982020,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216526,
+        "num": 216526,
+        "word": "张艺兴电梯自拍",
+        "onboard_time": 1721983220,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211510,
+        "num": 211510,
+        "word": "by2双胞胎搭配效果翻倍",
+        "onboard_time": 1721983639,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210569,
+        "num": 210569,
+        "word": "三个月瘦了40斤的运动之路",
+        "onboard_time": 1721971459,
+        "rank": 36,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 205243,
+        "num": 205243,
+        "word": "时代少年团特权码",
+        "onboard_time": 1721984420,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188683,
+        "num": 188683,
+        "word": "华为出游戏本了",
+        "onboard_time": 1721985260,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 184104,
+        "num": 184104,
+        "word": "吴昕原话",
+        "onboard_time": 1721977280,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181766,
+        "num": 181766,
+        "word": "今年夏天朱珠含量好高",
+        "onboard_time": 1721984361,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178267,
+        "num": 178267,
+        "word": "警方通报男子杀害女子及其家属4人",
+        "onboard_time": 1721976500,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52812,
+        "num": 178137,
+        "word": "科幻电影里的车都怎么出现",
+        "onboard_time": 1721985440,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 178050,
+        "num": 178050,
+        "word": "马龙回应是否最后一次出战奥运",
+        "onboard_time": 1721984600,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173313,
+        "num": 173313,
+        "word": "武侠娃娃版中国奥运军团",
+        "onboard_time": 1721985200,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169006,
+        "num": 169006,
+        "word": "歌王之战歌单",
+        "onboard_time": 1721972482,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167545,
+        "num": 167545,
+        "word": "奶茶袋治好了年轻人的包包焦虑吗",
+        "onboard_time": 1721968222,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163968,
+        "num": 163968,
+        "word": "武大雷军班录取分数",
+        "onboard_time": 1721980819,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 161389,
+        "num": 163966,
+        "word": "汪涵老婆带儿子出游",
+        "onboard_time": 1721975720,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154867,
+        "num": 163956,
+        "word": "张杰回应和凡希亚组合名",
+        "onboard_time": 1721974459,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂全会决定中的这些名词#"
+    }
+  }
+}

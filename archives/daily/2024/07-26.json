@@ -1,6 +1,6 @@
 {
   "startTime": 1721924711965,
-  "endTime": 1721983035348,
+  "endTime": 1721985647705,
   "band_list": [
     {
       "raw_hot": 3714268,
@@ -9,6 +9,14 @@
       "onboard_time": 1721965161,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3341917,
+      "num": 3341917,
+      "word": "中信建投实习生泄漏IPO材料",
+      "onboard_time": 1721981539,
+      "rank": 26,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 2244987,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1800076,
-      "num": 479144,
+      "num": 527012,
       "word": "印度女子生下2张脸4只胳膊婴儿",
       "onboard_time": 1721975300,
       "rank": 45,
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 980080,
-      "num": 762863,
+      "num": 916729,
       "word": "肖战国外买的纪念品madeinChina",
       "onboard_time": 1721975960,
       "rank": 32,
@@ -185,6 +193,14 @@
       "onboard_time": 1721966600,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 823312,
+      "num": 823312,
+      "word": "扇耳光女教练称愿意接受任何处分",
+      "onboard_time": 1721979860,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 797118,
@@ -235,14 +251,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 735229,
-      "num": 420950,
-      "word": "中信建投实习生泄漏IPO材料",
-      "onboard_time": 1721981539,
-      "rank": 26,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 695625,
       "num": 287662,
       "word": "支持田亮维权",
@@ -283,12 +291,28 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 623948,
+      "num": 623948,
+      "word": "中信建投回应网传高校学生视频",
+      "onboard_time": 1721982920,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 601167,
       "num": 519362,
       "word": "吴昕原话",
       "onboard_time": 1721977280,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 600467,
+      "num": 600467,
+      "word": "开幕式路透",
+      "onboard_time": 1721984781,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 594432,
@@ -315,8 +339,8 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 565415,
-      "num": 565415,
+      "raw_hot": 569958,
+      "num": 569958,
       "word": "全红婵背包上挂了10KG动物园",
       "onboard_time": 1721976979,
       "rank": 47,
@@ -353,6 +377,14 @@
       "onboard_time": 1721943491,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 546689,
+      "num": 526695,
+      "word": "中信建投",
+      "onboard_time": 1721981539,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 546397,
@@ -419,6 +451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 498028,
+      "num": 498028,
+      "word": "李冰冰魏大勋豪门姐弟",
+      "onboard_time": 1721983040,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 496994,
       "num": 496994,
       "word": "英国跳水名将戴利为儿子出战奥运会",
@@ -444,7 +484,7 @@
     },
     {
       "raw_hot": 486346,
-      "num": 486346,
+      "num": 527225,
       "word": "奥运是和你一起难忘的夏天",
       "onboard_time": 1721970322,
       "rank": 31,
@@ -489,6 +529,14 @@
       "onboard_time": 1721949195,
       "rank": 21,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 447188,
+      "num": 447188,
+      "word": "陈思铭 在最美好的年纪遇见了彼此",
+      "onboard_time": 1721982801,
+      "rank": 39,
+      "category": "网红"
     },
     {
       "raw_hot": 438848,
@@ -577,14 +625,6 @@
       "onboard_time": 1721949195,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 373934,
-      "num": 373934,
-      "word": "中信建投",
-      "onboard_time": 1721981539,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 362435,
@@ -691,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 310264,
+      "num": 310264,
+      "word": "阿娇 确定七夕不一起过吗",
+      "onboard_time": 1721983520,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 308897,
       "num": 308897,
       "word": "异人之下剧情",
@@ -755,20 +803,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 283994,
+      "num": 283994,
+      "word": "警方通报村干部取快递被捅身亡",
+      "onboard_time": 1721982259,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280156,
       "num": 280156,
       "word": "被新疆冰淇淋冲击到了",
       "onboard_time": 1721920160,
       "rank": 16,
       "category": "美食"
-    },
-    {
-      "raw_hot": 276726,
-      "num": 276726,
-      "word": "扇耳光女教练称愿意接受任何处分",
-      "onboard_time": 1721979860,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 273370,
@@ -811,6 +859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 259753,
+      "num": 259753,
+      "word": "诊所140元药卖2980患者家属发声",
+      "onboard_time": 1721983701,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258340,
       "num": 258340,
       "word": "徐明浩上恋综了",
@@ -825,6 +881,14 @@
       "onboard_time": 1721968342,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254667,
+      "num": 254667,
+      "word": "男子准备跳水遭野猴攻击将猴推下山崖",
+      "onboard_time": 1721982500,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 245670,
@@ -875,12 +939,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237111,
+      "num": 237111,
+      "word": "台风",
+      "onboard_time": 1721972360,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231170,
       "num": 231170,
       "word": "武大雷军班录取分数",
       "onboard_time": 1721980819,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 227572,
+      "num": 227572,
+      "word": "你一天上班的成本是多少",
+      "onboard_time": 1721977940,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 226870,
+      "num": 226870,
+      "word": "杨幂卡诗剪影预热",
+      "onboard_time": 1721982020,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 225143,
@@ -891,20 +979,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 224637,
-      "num": 224637,
-      "word": "台风",
-      "onboard_time": 1721972360,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 217476,
-      "num": 217476,
-      "word": "你一天上班的成本是多少",
-      "onboard_time": 1721977940,
-      "rank": 47,
-      "category": "情感"
+      "raw_hot": 216526,
+      "num": 216526,
+      "word": "张艺兴电梯自拍",
+      "onboard_time": 1721983220,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 216345,
@@ -939,20 +1019,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 213228,
-      "num": 213228,
-      "word": "杨幂卡诗剪影预热",
-      "onboard_time": 1721982020,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 211541,
       "num": 325070,
       "word": "甘肃暴雨致河水暴涨冲垮桥梁",
       "onboard_time": 1721959880,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211510,
+      "num": 211510,
+      "word": "by2双胞胎搭配效果翻倍",
+      "onboard_time": 1721983639,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 210682,
@@ -987,12 +1067,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 204336,
-      "num": 204336,
-      "word": "警方通报村干部取快递被捅身亡",
-      "onboard_time": 1721982259,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 205243,
+      "num": 205243,
+      "word": "时代少年团特权码",
+      "onboard_time": 1721984420,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 202798,
@@ -1041,14 +1121,6 @@
       "onboard_time": 1721967741,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 199831,
-      "num": 199831,
-      "word": "陈思铭 在最美好的年纪遇见了彼此",
-      "onboard_time": 1721982801,
-      "rank": 39,
-      "category": "网红"
     },
     {
       "raw_hot": 199681,
@@ -1163,12 +1235,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 186369,
-      "num": 425935,
-      "word": "中信建投回应网传高校学生视频",
-      "onboard_time": 1721982920,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 188683,
+      "num": 188683,
+      "word": "华为出游戏本了",
+      "onboard_time": 1721985260,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 186001,
@@ -1211,6 +1283,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 181766,
+      "num": 181766,
+      "word": "今年夏天朱珠含量好高",
+      "onboard_time": 1721984361,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180745,
       "num": 180745,
       "word": "超人剧组工作人员身亡",
@@ -1241,6 +1321,14 @@
       "onboard_time": 1721975179,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178050,
+      "num": 178050,
+      "word": "马龙回应是否最后一次出战奥运",
+      "onboard_time": 1721984600,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 177180,
@@ -1299,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173313,
+      "num": 173313,
+      "word": "武侠娃娃版中国奥运军团",
+      "onboard_time": 1721985200,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173283,
       "num": 173283,
       "word": "中国队奥运加油",
@@ -1337,14 +1433,6 @@
       "onboard_time": 1721978721,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 169154,
-      "num": 169154,
-      "word": "男子准备跳水遭野猴攻击将猴推下山崖",
-      "onboard_time": 1721982500,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169065,
@@ -2019,8 +2107,16 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 52812,
+      "num": 178137,
+      "word": "科幻电影里的车都怎么出现",
+      "onboard_time": 1721985440,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 49289,
-      "num": 383813,
+      "num": 482092,
       "word": "vivo影像已经进入nextlevel",
       "onboard_time": 1721981060,
       "rank": 27,
@@ -2081,6 +2177,14 @@
       "onboard_time": 1721931733,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 32188,
+      "num": 1200240,
+      "word": "镜头里的奥运超燃瞬间",
+      "onboard_time": 1721983761,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 30696,
@@ -2303,6 +2407,9 @@
     },
     {
       "word": "#人民生命财产安全在总书记心中重若千钧#"
+    },
+    {
+      "word": "#读懂全会决定中的这些名词#"
     }
   ]
 }
