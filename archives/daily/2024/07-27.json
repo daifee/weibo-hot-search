@@ -1,6 +1,6 @@
 {
   "startTime": 1722011177149,
-  "endTime": 1722029770764,
+  "endTime": 1722032368455,
   "band_list": [
     {
       "raw_hot": 8956068,
@@ -51,6 +51,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2439668,
+      "num": 2439668,
+      "word": "巴黎开幕式 真的牛",
+      "onboard_time": 1722022813,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2408916,
       "num": 2408916,
       "word": "贾玲 奥运开幕式",
@@ -64,14 +72,6 @@
       "word": "中国队拼船",
       "onboard_time": 1722016756,
       "rank": 5,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1759538,
-      "num": 1759538,
-      "word": "巴黎开幕式 真的牛",
-      "onboard_time": 1722022813,
-      "rank": 3,
       "category": "体育"
     },
     {
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 645275,
+      "num": 645275,
+      "word": "巴黎奥运主火炬点燃",
+      "onboard_time": 1722029353,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 600903,
       "num": 600903,
       "word": "旗手马龙出发了",
@@ -241,6 +249,14 @@
       "onboard_time": 1722018196,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 560795,
+      "num": 560795,
+      "word": "席琳迪翁终于来了",
+      "onboard_time": 1722029472,
+      "rank": 14,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 553686,
@@ -321,14 +337,6 @@
       "onboard_time": 1722007341,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 468292,
-      "num": 468292,
-      "word": "巴黎奥运主火炬点燃",
-      "onboard_time": 1722029353,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 458165,
@@ -443,14 +451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 304769,
-      "num": 304769,
-      "word": "席琳迪翁终于来了",
-      "onboard_time": 1722029472,
-      "rank": 14,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 300565,
       "num": 259611,
       "word": "香缇莫淘汰",
@@ -491,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 280632,
+      "num": 280632,
+      "word": "法国要不要擦下镜头呢",
+      "onboard_time": 1722020714,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 279968,
       "num": 256866,
       "word": "歌手 音乐竞技搞煽情",
@@ -513,14 +521,6 @@
       "onboard_time": 1721995760,
       "rank": 26,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 270026,
-      "num": 270026,
-      "word": "法国要不要擦下镜头呢",
-      "onboard_time": 1722020714,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 269601,
@@ -915,6 +915,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 155268,
+      "num": 155268,
+      "word": "巴黎奥运最伟大最震撼的环节",
+      "onboard_time": 1722025393,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151573,
       "num": 151573,
       "word": "巴勒斯坦代表团",
@@ -947,11 +955,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144695,
-      "num": 139528,
-      "word": "巴黎奥运最伟大最震撼的环节",
-      "onboard_time": 1722025393,
-      "rank": 42,
+      "raw_hot": 141808,
+      "num": 141808,
+      "word": "巴黎奥运会把韩国念成朝鲜",
+      "onboard_time": 1722029952,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -1059,6 +1067,22 @@
       "category": "体育,演出"
     },
     {
+      "raw_hot": 106488,
+      "num": 106488,
+      "word": "五星红旗闪耀巴黎",
+      "onboard_time": 1722032114,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 101474,
+      "num": 101474,
+      "word": "纳达尔齐达内传奇同框",
+      "onboard_time": 1722030253,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101264,
       "num": 157465,
       "word": "奥运会",
@@ -1107,6 +1131,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 78213,
+      "num": 78213,
+      "word": "大雨向下 女性向上",
+      "onboard_time": 1722031392,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47976,
       "num": 3720770,
       "word": "闪耀奥运赛场的中国骄傲",
@@ -1151,6 +1183,14 @@
       "num": 1169874,
       "word": "潮州街道水浸水位高至车顶",
       "onboard_time": 1722016457,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22673,
+      "num": 582812,
+      "word": "商场回应男子辱骂coser殴打员工",
+      "onboard_time": 1722031873,
       "rank": 9,
       "category": "社会新闻"
     },
