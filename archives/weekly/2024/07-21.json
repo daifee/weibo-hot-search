@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721993684564,
+  "endTime": 1721997373688,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -57,6 +57,14 @@
       "onboard_time": 1721641343,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4241386,
+      "num": 4241386,
+      "word": "歌手总决赛",
+      "onboard_time": 1721991739,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 3714268,
@@ -131,6 +139,22 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 2831299,
+      "num": 2831299,
+      "word": "张杰凡希亚 强强联合",
+      "onboard_time": 1721996420,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2738662,
+      "num": 2738662,
+      "word": "中信建投实习生道歉",
+      "onboard_time": 1721992878,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2714233,
       "num": 822860,
       "word": "老年男明星 性侵女服务员",
@@ -145,6 +169,14 @@
       "onboard_time": 1721895559,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2550359,
+      "num": 2550359,
+      "word": "海来阿木 难听",
+      "onboard_time": 1721995880,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 2483909,
@@ -217,14 +249,6 @@
       "onboard_time": 1721518755,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2225873,
-      "num": 2225873,
-      "word": "歌手总决赛",
-      "onboard_time": 1721991739,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 2216734,
@@ -379,14 +403,6 @@
       "category": "网红,互联网"
     },
     {
-      "raw_hot": 1855798,
-      "num": 1855798,
-      "word": "中信建投实习生道歉",
-      "onboard_time": 1721992878,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1844266,
       "num": 1844266,
       "word": "Nike宣传片舔乒乓球拍引热议",
@@ -452,7 +468,7 @@
     },
     {
       "raw_hot": 1800076,
-      "num": 527012,
+      "num": 595968,
       "word": "印度女子生下2张脸4只胳膊婴儿",
       "onboard_time": 1721975300,
       "rank": 45,
@@ -513,6 +529,14 @@
       "onboard_time": 1721807240,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1726827,
+      "num": 598161,
+      "word": "张磊秒了海来阿木",
+      "onboard_time": 1721996240,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1706157,
@@ -1321,6 +1345,14 @@
       "onboard_time": 1721886258,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1066575,
+      "num": 597836,
+      "word": "贾玲亮相奥委会主席晚宴",
+      "onboard_time": 1721995760,
+      "rank": 11,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 1063947,
@@ -2139,6 +2171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 797732,
+      "num": 597185,
+      "word": "歌手第一轮帮帮唱",
+      "onboard_time": 1721996240,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 797118,
       "num": 797118,
       "word": "磕药进ICU学生母亲或与药店达成赔偿",
@@ -2425,6 +2465,14 @@
       "onboard_time": 1721893100,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 731684,
+      "num": 596743,
+      "word": "胡歌白发这么多了",
+      "onboard_time": 1721992038,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 731192,
@@ -2755,6 +2803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 669980,
+      "num": 595989,
+      "word": "贾玲巴黎状态",
+      "onboard_time": 1721996179,
+      "rank": 14,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 669074,
       "num": 669074,
       "word": "中信建投实习生说网上身份信息不实",
@@ -3059,6 +3115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 611785,
+      "num": 333849,
+      "word": "刘欢加孙楠 以为奥运开幕了",
+      "onboard_time": 1721997020,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 611724,
       "num": 516881,
       "word": "诊所140元药卖2980患者家属发声",
@@ -3193,6 +3257,14 @@
       "onboard_time": 1721877260,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 590822,
+      "num": 332834,
+      "word": "眼睛里取出来好多结石",
+      "onboard_time": 1721991979,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 590219,
@@ -3408,14 +3480,6 @@
       "word": "赵丽颖进组后很少有公开活动",
       "onboard_time": 1721723601,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 559484,
-      "num": 559484,
-      "word": "胡歌白发这么多了",
-      "onboard_time": 1721992038,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -4603,6 +4667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 423950,
+      "num": 332329,
+      "word": "还我黄宣",
+      "onboard_time": 1721996301,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 423415,
       "num": 431657,
       "word": "老人为领鸡蛋听课后花两千买胶囊",
@@ -4801,6 +4873,14 @@
       "onboard_time": 1721520436,
       "rank": 14,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 401977,
+      "num": 330576,
+      "word": "橘老师上歌手了",
+      "onboard_time": 1721996301,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 401230,
@@ -5507,6 +5587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 339200,
+      "num": 339200,
+      "word": "王超",
+      "onboard_time": 1721993899,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 339023,
       "num": 339023,
       "word": "小鬼王琳凯年度最佳说唱歌手",
@@ -5969,6 +6057,14 @@
       "onboard_time": 1721571621,
       "rank": 24,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 306848,
+      "num": 306848,
+      "word": "种地吧是十个勤天的起点不是终点",
+      "onboard_time": 1721997322,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 304390,
@@ -6451,6 +6547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 285282,
+      "num": 285282,
+      "word": "邓为直播",
+      "onboard_time": 1721994918,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284436,
       "num": 284436,
       "word": "唐尚珺回应被信息工程录取",
@@ -6691,6 +6795,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270629,
+      "num": 270629,
+      "word": "乒乓球果然是顶流啊",
+      "onboard_time": 1721996361,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 270086,
+      "num": 270086,
+      "word": "歌王预测",
+      "onboard_time": 1721996601,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 269384,
       "num": 269384,
       "word": "王者荣耀",
@@ -6921,6 +7041,14 @@
       "onboard_time": 1721552240,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 261678,
+      "num": 261678,
+      "word": "原来喝咖啡能减轻久坐伤害",
+      "onboard_time": 1721991858,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 261326,
@@ -7185,14 +7313,6 @@
       "onboard_time": 1721739860,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 249320,
-      "num": 249320,
-      "word": "眼睛里取出来好多结石",
-      "onboard_time": 1721991979,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 249134,
@@ -7867,6 +7987,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 230182,
+      "num": 230182,
+      "word": "张杰狂夸凡希亚",
+      "onboard_time": 1721990480,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 229594,
+      "num": 229594,
+      "word": "刘欢锐评",
+      "onboard_time": 1721997141,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228770,
       "num": 228770,
       "word": "光与夜之恋查理苏",
@@ -8475,6 +8611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 215885,
+      "num": 612925,
+      "word": "大熊猫被自家娃遛了30分钟",
+      "onboard_time": 1721991680,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215618,
       "num": 215618,
       "word": "男子看不惯cos奇装异服打人",
@@ -8907,6 +9051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209606,
+      "num": 209606,
+      "word": "又双叕来复习北京奥运开幕式",
+      "onboard_time": 1721996481,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209417,
       "num": 209417,
       "word": "江西一地出现教师严重短缺",
@@ -8961,6 +9113,14 @@
       "onboard_time": 1721618180,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207042,
+      "num": 207042,
+      "word": "李现杀青发文",
+      "onboard_time": 1721993239,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 206744,
@@ -9129,14 +9289,6 @@
       "onboard_time": 1721718021,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204666,
-      "num": 204666,
-      "word": "李现杀青发文",
-      "onboard_time": 1721993239,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 204591,
@@ -10065,14 +10217,6 @@
       "onboard_time": 1721555179,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 193949,
-      "num": 193949,
-      "word": "张杰狂夸凡希亚",
-      "onboard_time": 1721990480,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 193920,
@@ -11267,14 +11411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 179677,
-      "num": 179677,
-      "word": "原来喝咖啡能减轻久坐伤害",
-      "onboard_time": 1721991858,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 179421,
       "num": 179421,
       "word": "院人全年无休计划",
@@ -11401,6 +11537,14 @@
       "onboard_time": 1721970021,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177027,
+      "num": 177027,
+      "word": "林俊杰青岛演唱会抢票",
+      "onboard_time": 1721997322,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 176808,
@@ -11665,14 +11809,6 @@
       "onboard_time": 1721779159,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174470,
-      "num": 189476,
-      "word": "大熊猫被自家娃遛了30分钟",
-      "onboard_time": 1721991680,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174468,
@@ -12051,6 +12187,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 170060,
+      "num": 322340,
+      "word": "发条微博为中国健儿打call",
+      "onboard_time": 1721995640,
+      "rank": 29,
+      "category": "体育,互联网"
+    },
+    {
       "raw_hot": 169999,
       "num": 169999,
       "word": "今年三伏天所有女孩都这样做",
@@ -12404,7 +12548,7 @@
     },
     {
       "raw_hot": 165588,
-      "num": 165588,
+      "num": 336892,
       "word": "黄子弘凡曾一天在机场来回6次",
       "onboard_time": 1721988079,
       "rank": 33,
@@ -12561,6 +12705,14 @@
       "onboard_time": 1721895021,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163632,
+      "num": 163632,
+      "word": "离开虞书欣谁还把林大厨当小孩",
+      "onboard_time": 1721995880,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 163599,
@@ -15331,6 +15483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 88160,
+      "num": 337841,
+      "word": "奥运成为LV的箱包秀场",
+      "onboard_time": 1721993899,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88079,
       "num": 426180,
       "word": "大桥垮塌生还者抱紧石头被村民救起",
@@ -16299,6 +16459,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 51528,
+      "num": 374000,
+      "word": "群面式相亲好小众",
+      "onboard_time": 1721996842,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 51241,
       "num": 371053,
       "word": "鸿星尔克与国货们的暖心联动",
@@ -16612,7 +16780,7 @@
     },
     {
       "raw_hot": 42346,
-      "num": 1192545,
+      "num": 2755693,
       "word": "高质量发展看四川",
       "onboard_time": 1721983459,
       "rank": 2,
@@ -17425,6 +17593,14 @@
       "onboard_time": 1721492479,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20788,
+      "num": 598707,
+      "word": "虚拟货币AI成跨境电诈新手段",
+      "onboard_time": 1721997020,
+      "rank": 9,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 20745,

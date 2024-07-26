@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721993684564,
+  "endTime": 1721997373688,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -209,6 +209,14 @@
       "onboard_time": 1721641343,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4241386,
+      "num": 4241386,
+      "word": "歌手总决赛",
+      "onboard_time": 1721991739,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 4126542,
@@ -435,12 +443,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 2831299,
+      "num": 2831299,
+      "word": "张杰凡希亚 强强联合",
+      "onboard_time": 1721996420,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2816859,
       "num": 2816859,
       "word": "黄宣 陶喆附体",
       "onboard_time": 1720188382,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2738662,
+      "num": 2738662,
+      "word": "中信建投实习生道歉",
+      "onboard_time": 1721992878,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2714899,
@@ -553,6 +577,14 @@
       "onboard_time": 1721272937,
       "rank": 0,
       "category": "财经"
+    },
+    {
+      "raw_hot": 2550359,
+      "num": 2550359,
+      "word": "海来阿木 难听",
+      "onboard_time": 1721995880,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 2548004,
@@ -697,14 +729,6 @@
       "onboard_time": 1721518755,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2225873,
-      "num": 2225873,
-      "word": "歌手总决赛",
-      "onboard_time": 1721991739,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 2221414,
@@ -1187,14 +1211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1855798,
-      "num": 1855798,
-      "word": "中信建投实习生道歉",
-      "onboard_time": 1721992878,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1855281,
       "num": 1855281,
       "word": "徐艺洋 老板就能上我卫生间吗",
@@ -1340,7 +1356,7 @@
     },
     {
       "raw_hot": 1800076,
-      "num": 527012,
+      "num": 595968,
       "word": "印度女子生下2张脸4只胳膊婴儿",
       "onboard_time": 1721975300,
       "rank": 45,
@@ -1497,6 +1513,14 @@
       "onboard_time": 1721023878,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1726827,
+      "num": 598161,
+      "word": "张磊秒了海来阿木",
+      "onboard_time": 1721996240,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1725680,
@@ -4497,6 +4521,14 @@
       "onboard_time": 1721042777,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1066575,
+      "num": 597836,
+      "word": "贾玲亮相奥委会主席晚宴",
+      "onboard_time": 1721995760,
+      "rank": 11,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 1064752,
@@ -7531,6 +7563,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 797732,
+      "num": 597185,
+      "word": "歌手第一轮帮帮唱",
+      "onboard_time": 1721996240,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 797600,
       "num": 797600,
       "word": "CP30 杭州",
@@ -8617,6 +8657,14 @@
       "onboard_time": 1721893100,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 731684,
+      "num": 596743,
+      "word": "胡歌白发这么多了",
+      "onboard_time": 1721992038,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 731524,
@@ -9809,6 +9857,14 @@
       "onboard_time": 1720581618,
       "rank": 38,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 669980,
+      "num": 595989,
+      "word": "贾玲巴黎状态",
+      "onboard_time": 1721996179,
+      "rank": 14,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 669483,
@@ -11171,6 +11227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 611785,
+      "num": 333849,
+      "word": "刘欢加孙楠 以为奥运开幕了",
+      "onboard_time": 1721997020,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 611725,
       "num": 611725,
       "word": "长相思真把阿念养得很好",
@@ -11777,6 +11841,14 @@
       "onboard_time": 1721001979,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 590822,
+      "num": 332834,
+      "word": "眼睛里取出来好多结石",
+      "onboard_time": 1721991979,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 590602,
@@ -12769,14 +12841,6 @@
       "onboard_time": 1721197158,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 559484,
-      "num": 559484,
-      "word": "胡歌白发这么多了",
-      "onboard_time": 1721992038,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 559445,
@@ -18483,6 +18547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 423950,
+      "num": 332329,
+      "word": "还我黄宣",
+      "onboard_time": 1721996301,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 423759,
       "num": 423759,
       "word": "奥运官网发布12位值得关注运动员",
@@ -19465,6 +19537,14 @@
       "onboard_time": 1721397082,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 401977,
+      "num": 330576,
+      "word": "橘老师上歌手了",
+      "onboard_time": 1721996301,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 401968,
@@ -22835,6 +22915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 339200,
+      "num": 339200,
+      "word": "王超",
+      "onboard_time": 1721993899,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 339182,
       "num": 299266,
       "word": "于正说白鹿李一桐李沁绝美古典美",
@@ -24819,6 +24907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 306848,
+      "num": 306848,
+      "word": "种地吧是十个勤天的起点不是终点",
+      "onboard_time": 1721997322,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306635,
       "num": 306635,
       "word": "男子给差评烧烤店说没来消费",
@@ -26435,6 +26531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 285282,
+      "num": 285282,
+      "word": "邓为直播",
+      "onboard_time": 1720606277,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 285179,
       "num": 245004,
       "word": "王俊凯提名百花奖最佳男主角",
@@ -27475,6 +27579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270629,
+      "num": 270629,
+      "word": "乒乓球果然是顶流啊",
+      "onboard_time": 1721996361,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 270597,
       "num": 270597,
       "word": "这是今早的香港金紫荆广场",
@@ -27521,6 +27633,14 @@
       "onboard_time": 1721184017,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270086,
+      "num": 270086,
+      "word": "歌王预测",
+      "onboard_time": 1721996601,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 269856,
@@ -28131,6 +28251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261678,
+      "num": 261678,
+      "word": "原来喝咖啡能减轻久坐伤害",
+      "onboard_time": 1721991858,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 261570,
       "num": 261570,
       "word": "汪苏泷巡演",
@@ -28273,14 +28401,6 @@
       "onboard_time": 1719889878,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 259476,
-      "num": 206865,
-      "word": "邓为直播",
-      "onboard_time": 1720606277,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 259295,
@@ -29257,14 +29377,6 @@
       "onboard_time": 1721111957,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 249320,
-      "num": 249320,
-      "word": "眼睛里取出来好多结石",
-      "onboard_time": 1721991979,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 249301,
@@ -31491,6 +31603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 230182,
+      "num": 230182,
+      "word": "张杰狂夸凡希亚",
+      "onboard_time": 1721990480,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230051,
       "num": 323574,
       "word": "崔永熙",
@@ -31537,6 +31657,14 @@
       "onboard_time": 1721102540,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229594,
+      "num": 229594,
+      "word": "刘欢锐评",
+      "onboard_time": 1721997141,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 229509,
@@ -33475,6 +33603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215885,
+      "num": 612925,
+      "word": "大熊猫被自家娃遛了30分钟",
+      "onboard_time": 1721991680,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215773,
       "num": 206782,
       "word": "迪丽热巴穿了周柯宇外套",
@@ -34739,6 +34875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 209606,
+      "num": 209606,
+      "word": "又双叕来复习北京奥运开幕式",
+      "onboard_time": 1721996481,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209600,
       "num": 209600,
       "word": "小夭重回清水镇",
@@ -35249,6 +35393,14 @@
       "onboard_time": 1720789639,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207042,
+      "num": 207042,
+      "word": "李现杀青发文",
+      "onboard_time": 1721993239,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 206927,
@@ -35945,14 +36097,6 @@
       "onboard_time": 1720617618,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 204666,
-      "num": 204666,
-      "word": "李现杀青发文",
-      "onboard_time": 1721993239,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 204644,
@@ -39215,14 +39359,6 @@
       "num": 193967,
       "word": "王俊凯丝滑过杆",
       "onboard_time": 1720250298,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 193949,
-      "num": 193949,
-      "word": "张杰狂夸凡希亚",
-      "onboard_time": 1721990480,
       "rank": 30,
       "category": "综艺"
     },
@@ -43251,14 +43387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 179677,
-      "num": 179677,
-      "word": "原来喝咖啡能减轻久坐伤害",
-      "onboard_time": 1721991858,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 179646,
       "num": 179646,
       "word": "经常吃这类食物更易感染幽门螺杆菌",
@@ -43889,6 +44017,14 @@
       "onboard_time": 1720423758,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177027,
+      "num": 177027,
+      "word": "林俊杰青岛演唱会抢票",
+      "onboard_time": 1721997322,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 177005,
@@ -44657,14 +44793,6 @@
       "onboard_time": 1721779159,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174470,
-      "num": 189476,
-      "word": "大熊猫被自家娃遛了30分钟",
-      "onboard_time": 1721991680,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174468,
@@ -45859,6 +45987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 170060,
+      "num": 322340,
+      "word": "发条微博为中国健儿打call",
+      "onboard_time": 1721995640,
+      "rank": 29,
+      "category": "体育,互联网"
+    },
+    {
       "raw_hot": 170052,
       "num": 344479,
       "word": "公交车每天挂着大蒜辣椒出发",
@@ -47028,7 +47164,7 @@
     },
     {
       "raw_hot": 165588,
-      "num": 165588,
+      "num": 336892,
       "word": "黄子弘凡曾一天在机场来回6次",
       "onboard_time": 1721988079,
       "rank": 33,
@@ -47577,6 +47713,14 @@
       "onboard_time": 1721895021,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163632,
+      "num": 163632,
+      "word": "离开虞书欣谁还把林大厨当小孩",
+      "onboard_time": 1721995880,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 163588,
@@ -65147,6 +65291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 88160,
+      "num": 337841,
+      "word": "奥运成为LV的箱包秀场",
+      "onboard_time": 1721993899,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88115,
       "num": 217343,
       "word": "超详细鼻影化妆思路",
@@ -69435,6 +69587,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 51528,
+      "num": 374000,
+      "word": "群面式相亲好小众",
+      "onboard_time": 1721996842,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 51475,
       "num": 470696,
       "word": "西瓜滚落一地路人默默帮店主搬回",
@@ -70932,7 +71092,7 @@
     },
     {
       "raw_hot": 42346,
-      "num": 1192545,
+      "num": 2755693,
       "word": "高质量发展看四川",
       "onboard_time": 1721983459,
       "rank": 2,
@@ -74209,6 +74369,14 @@
       "onboard_time": 1720379711,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 20788,
+      "num": 598707,
+      "word": "虚拟货币AI成跨境电诈新手段",
+      "onboard_time": 1721997020,
+      "rank": 9,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 20745,

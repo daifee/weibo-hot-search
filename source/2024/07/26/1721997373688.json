@@ -1,0 +1,410 @@
+{
+  "runTime": 1721997373688,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4241386,
+        "num": 4241386,
+        "word": "歌手总决赛",
+        "onboard_time": 1721991739,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2831299,
+        "num": 2831299,
+        "word": "张杰凡希亚 强强联合",
+        "onboard_time": 1721996420,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38441,
+        "num": 2755693,
+        "word": "高质量发展看四川",
+        "onboard_time": 1721983459,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2738662,
+        "num": 2738662,
+        "word": "中信建投实习生道歉",
+        "onboard_time": 1721992878,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2550359,
+        "num": 2550359,
+        "word": "海来阿木 难听",
+        "onboard_time": 1721995880,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 707441,
+        "num": 707441,
+        "word": "开幕式路透",
+        "onboard_time": 1721984781,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 646837,
+        "num": 646837,
+        "word": "中信建投实习生说网上身份信息不实",
+        "onboard_time": 1721992520,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215885,
+        "num": 612925,
+        "word": "大熊猫被自家娃遛了30分钟",
+        "onboard_time": 1721991680,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599039,
+        "num": 599039,
+        "word": "开幕式 熬夜",
+        "onboard_time": 1721964860,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20788,
+        "num": 598707,
+        "word": "虚拟货币AI成跨境电诈新手段",
+        "onboard_time": 1721997020,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1726827,
+        "num": 598161,
+        "word": "张磊秒了海来阿木",
+        "onboard_time": 1721996240,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1066575,
+        "num": 597836,
+        "word": "贾玲亮相奥委会主席晚宴",
+        "onboard_time": 1721995760,
+        "rank": 11,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 797732,
+        "num": 597185,
+        "word": "歌手第一轮帮帮唱",
+        "onboard_time": 1721996240,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 731684,
+        "num": 596743,
+        "word": "胡歌白发这么多了",
+        "onboard_time": 1721992038,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 669980,
+        "num": 595989,
+        "word": "贾玲巴黎状态",
+        "onboard_time": 1721996179,
+        "rank": 14,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 595968,
+        "num": 595968,
+        "word": "印度女子生下2张脸4只胳膊婴儿",
+        "onboard_time": 1721975300,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481375,
+        "num": 481375,
+        "word": "奥运会赛程",
+        "onboard_time": 1721978598,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51528,
+        "num": 374000,
+        "word": "群面式相亲好小众",
+        "onboard_time": 1721996842,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339200,
+        "num": 339200,
+        "word": "王超",
+        "onboard_time": 1721993899,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88160,
+        "num": 337841,
+        "word": "奥运成为LV的箱包秀场",
+        "onboard_time": 1721993899,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38686,
+        "num": 336892,
+        "word": "黄子弘凡曾一天在机场来回6次",
+        "onboard_time": 1721988079,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 740865,
+        "num": 335501,
+        "word": "中信建投实习生泄漏IPO材料",
+        "onboard_time": 1721981539,
+        "rank": 21,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 611785,
+        "num": 333849,
+        "word": "刘欢加孙楠 以为奥运开幕了",
+        "onboard_time": 1721997020,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 590822,
+        "num": 332834,
+        "word": "眼睛里取出来好多结石",
+        "onboard_time": 1721991979,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 423950,
+        "num": 332329,
+        "word": "还我黄宣",
+        "onboard_time": 1721996301,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401977,
+        "num": 330576,
+        "word": "橘老师上歌手了",
+        "onboard_time": 1721996301,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 387729,
+        "num": 328733,
+        "word": "王翘楚",
+        "onboard_time": 1721992158,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295676,
+        "num": 327497,
+        "word": "中信建投回应网传高校学生视频",
+        "onboard_time": 1721982920,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326939,
+        "num": 326939,
+        "word": "全红婵因跳207C饱受折磨",
+        "onboard_time": 1721980340,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170060,
+        "num": 322340,
+        "word": "发条微博为中国健儿打call",
+        "onboard_time": 1721995640,
+        "rank": 29,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 321986,
+        "num": 321986,
+        "word": "刘亚仁涉嫌强奸细节",
+        "onboard_time": 1721992398,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306848,
+        "num": 306848,
+        "word": "种地吧是十个勤天的起点不是终点",
+        "onboard_time": 1721997322,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285282,
+        "num": 285282,
+        "word": "邓为直播",
+        "onboard_time": 1721994918,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270629,
+        "num": 270629,
+        "word": "乒乓球果然是顶流啊",
+        "onboard_time": 1721996361,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270086,
+        "num": 270086,
+        "word": "歌王预测",
+        "onboard_time": 1721996601,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269867,
+        "num": 269867,
+        "word": "男性怀孕或成现实",
+        "onboard_time": 1721965161,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261678,
+        "num": 261678,
+        "word": "原来喝咖啡能减轻久坐伤害",
+        "onboard_time": 1721991858,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 244679,
+        "num": 244679,
+        "word": "歌王之战歌单",
+        "onboard_time": 1721972482,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230182,
+        "num": 230182,
+        "word": "张杰狂夸凡希亚",
+        "onboard_time": 1721990480,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229594,
+        "num": 229594,
+        "word": "刘欢锐评",
+        "onboard_time": 1721997141,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226907,
+        "num": 226907,
+        "word": "赵露思珠光美人",
+        "onboard_time": 1721992520,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209606,
+        "num": 209606,
+        "word": "又双叕来复习北京奥运开幕式",
+        "onboard_time": 1721996481,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207042,
+        "num": 207042,
+        "word": "李现杀青发文",
+        "onboard_time": 1721993239,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201993,
+        "num": 201993,
+        "word": "全红婵背包上挂了10KG动物园",
+        "onboard_time": 1721976979,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183669,
+        "num": 183669,
+        "word": "谷爱凌巴黎奥运证件场地权限ALL",
+        "onboard_time": 1721991078,
+        "rank": 44,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 177027,
+        "num": 177027,
+        "word": "林俊杰青岛演唱会抢票",
+        "onboard_time": 1721997322,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173802,
+        "num": 173802,
+        "word": "女子穿吊带被老人当街指责没家教",
+        "onboard_time": 1721969961,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168507,
+        "num": 168507,
+        "word": "肖战国外买的纪念品madeinChina",
+        "onboard_time": 1721975960,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163632,
+        "num": 163632,
+        "word": "离开虞书欣谁还把林大厨当小孩",
+        "onboard_time": 1721995880,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152029,
+        "num": 163576,
+        "word": "开幕式 夜宵",
+        "onboard_time": 1721988438,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂全会决定中的这些名词#"
+    }
+  }
+}
