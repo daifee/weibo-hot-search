@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1722007272220,
+  "endTime": 1722008076000,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -467,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2983425,
+      "num": 2983425,
+      "word": "巴黎奥运开幕式",
+      "onboard_time": 1722002904,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2914975,
       "num": 511852,
       "word": "中国人民大学",
@@ -489,14 +497,6 @@
       "onboard_time": 1721996420,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2819946,
-      "num": 2819946,
-      "word": "巴黎奥运开幕式",
-      "onboard_time": 1722002904,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 2816859,
@@ -9075,6 +9075,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 716419,
+      "num": 716419,
+      "word": "海底捞美甲开始要收费了",
+      "onboard_time": 1722004344,
+      "rank": 7,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 716295,
       "num": 638716,
       "word": "长相思见面会",
@@ -9233,14 +9241,6 @@
       "onboard_time": 1720149976,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 707976,
-      "num": 707976,
-      "word": "海底捞美甲开始要收费了",
-      "onboard_time": 1722004344,
-      "rank": 7,
-      "category": "美妆"
     },
     {
       "raw_hot": 707392,
@@ -14051,6 +14051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 529719,
+      "num": 529719,
+      "word": "未央直播",
+      "onboard_time": 1722007282,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 529682,
       "num": 464601,
       "word": "SBS直播",
@@ -18747,6 +18755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 423219,
+      "num": 423219,
+      "word": "为什么吃道具是剧组大忌",
+      "onboard_time": 1722002063,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 423134,
       "num": 583338,
       "word": "国乒出发奔赴巴黎",
@@ -20481,14 +20497,6 @@
       "onboard_time": 1721184740,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 386650,
-      "num": 386650,
-      "word": "为什么吃道具是剧组大忌",
-      "onboard_time": 1722002063,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 386326,
@@ -24595,6 +24603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 314887,
+      "num": 243743,
+      "word": "D社记者吐槽中恩静",
+      "onboard_time": 1722007282,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314808,
       "num": 238105,
       "word": "董洁晒与儿子日本旅行vlog",
@@ -25121,6 +25137,14 @@
       "onboard_time": 1721190501,
       "rank": 19,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 307276,
+      "num": 243259,
+      "word": "卢昱晓给工作人员做心肺复苏",
+      "onboard_time": 1722007821,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 307254,
@@ -25817,6 +25841,14 @@
       "onboard_time": 1721363905,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 296539,
+      "num": 245536,
+      "word": "医生让我每晚睡前喝杯牛奶",
+      "onboard_time": 1722007341,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 296452,
@@ -30184,6 +30216,14 @@
       "word": "白宇拍的国乒",
       "onboard_time": 1721735360,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 243166,
+      "num": 243166,
+      "word": "中国代表团预计第41个入场",
+      "onboard_time": 1722007043,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -40179,14 +40219,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 192460,
-      "num": 192460,
-      "word": "中国代表团预计第41个入场",
-      "onboard_time": 1722007043,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 192457,
       "num": 192457,
       "word": "成毅V领红衬衫",
@@ -44489,6 +44521,14 @@
       "onboard_time": 1721975660,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176453,
+      "num": 176453,
+      "word": "永劫无间",
+      "onboard_time": 1721929154,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 176395,
@@ -62075,6 +62115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 111089,
+      "num": 382815,
+      "word": "汽车落水如何把握黄金时间自救",
+      "onboard_time": 1722005724,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111071,
       "num": 111071,
       "word": "一诺告别班味",
@@ -63529,6 +63577,14 @@
       "onboard_time": 1720851856,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 104163,
+      "num": 365577,
+      "word": "实习生泄密可能承担哪些法律责任",
+      "onboard_time": 1722006023,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104135,
@@ -66147,14 +66203,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 83213,
-      "num": 382815,
-      "word": "汽车落水如何把握黄金时间自救",
-      "onboard_time": 1722005724,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 83068,
       "num": 83068,
       "word": "唐朝诡事录意难平",
@@ -67859,14 +67907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 67442,
-      "num": 365577,
-      "word": "实习生泄密可能承担哪些法律责任",
-      "onboard_time": 1722006023,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 67415,
       "num": 107289,
       "word": "福建浙江防汛防台风四级应急响应",
@@ -67888,6 +67928,14 @@
       "word": "他们从树林中背出78岁迷路老人",
       "onboard_time": 1721378002,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67299,
+      "num": 247136,
+      "word": "中信建投实习生称未被告知资料保密",
+      "onboard_time": 1722007942,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -69699,6 +69747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53746,
+      "num": 281674,
+      "word": "闪光的夏天",
+      "onboard_time": 1721852590,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 53662,
       "num": 312913,
       "word": "掌管反差萌的神",
@@ -69713,14 +69769,6 @@
       "onboard_time": 1721358621,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 53604,
-      "num": 281674,
-      "word": "闪光的夏天",
-      "onboard_time": 1721852590,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 53454,
@@ -69777,6 +69825,14 @@
       "onboard_time": 1721907441,
       "rank": 13,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 53153,
+      "num": 266358,
+      "word": "王鹤棣直播开大送黄金",
+      "onboard_time": 1722004224,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 53007,
@@ -69883,6 +69939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52557,
+      "num": 416836,
+      "word": "刘宇BadGuy",
+      "onboard_time": 1722005066,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 52530,
       "num": 108152,
       "word": "钱塘江潮汐树上演犹抱琵琶半遮面",
@@ -69944,6 +70008,14 @@
       "word": "韩红祝愿中国队一路生花",
       "onboard_time": 1720843397,
       "rank": 13,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 52087,
+      "num": 377025,
+      "word": "杨洋隔空拥抱奥运健儿",
+      "onboard_time": 1722004645,
+      "rank": 11,
       "category": "艺人,体育"
     },
     {
@@ -70707,14 +70779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47291,
-      "num": 266358,
-      "word": "王鹤棣直播开大送黄金",
-      "onboard_time": 1722004224,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 47261,
       "num": 357863,
       "word": "北京申奥成功23周年",
@@ -71233,14 +71297,6 @@
       "onboard_time": 1721109618,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 43495,
-      "num": 377025,
-      "word": "杨洋隔空拥抱奥运健儿",
-      "onboard_time": 1722004645,
-      "rank": 11,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 43475,
@@ -72211,14 +72267,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 36993,
-      "num": 36993,
-      "word": "永劫无间",
-      "onboard_time": 1721929154,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 36977,
       "num": 247847,
       "word": "mini版巴太策马追风",
@@ -72689,14 +72737,6 @@
       "onboard_time": 1720683018,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33769,
-      "num": 370684,
-      "word": "刘宇BadGuy",
-      "onboard_time": 1722005066,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 33727,
@@ -73595,6 +73635,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 27809,
+      "num": 279984,
+      "word": "凡希亚祝运动员无负担拿第一",
+      "onboard_time": 1722006262,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 27780,
       "num": 262842,
       "word": "货车侧翻4男子车流中砸窗救出父子",
@@ -73993,14 +74041,6 @@
       "onboard_time": 1720010237,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26025,
-      "num": 279984,
-      "word": "凡希亚祝运动员无负担拿第一",
-      "onboard_time": 1722006262,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 26016,

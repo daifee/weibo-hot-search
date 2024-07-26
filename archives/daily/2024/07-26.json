@@ -1,6 +1,6 @@
 {
   "startTime": 1721924711965,
-  "endTime": 1722007272220,
+  "endTime": 1722008076000,
   "band_list": [
     {
       "raw_hot": 12903482,
@@ -67,20 +67,20 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 2983425,
+      "num": 2983425,
+      "word": "巴黎奥运开幕式",
+      "onboard_time": 1722002904,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2831299,
       "num": 2831299,
       "word": "张杰凡希亚 强强联合",
       "onboard_time": 1721996420,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2819946,
-      "num": 2819946,
-      "word": "巴黎奥运开幕式",
-      "onboard_time": 1722002904,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 2738662,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 1510359,
-      "num": 380292,
+      "num": 396194,
       "word": "歌手排名",
       "onboard_time": 1722005664,
       "rank": 10,
@@ -491,8 +491,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 707976,
-      "num": 707976,
+      "raw_hot": 716419,
+      "num": 716419,
       "word": "海底捞美甲开始要收费了",
       "onboard_time": 1722004344,
       "rank": 7,
@@ -699,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 529719,
+      "num": 529719,
+      "word": "未央直播",
+      "onboard_time": 1722007282,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 529398,
       "num": 529398,
       "word": "马子佳结婚了",
@@ -899,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 423219,
+      "num": 423219,
+      "word": "为什么吃道具是剧组大忌",
+      "onboard_time": 1722002063,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 416076,
       "num": 416076,
       "word": "贺峻霖晒与马嘉祺张真源合照",
@@ -969,14 +985,6 @@
       "onboard_time": 1721949616,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 386650,
-      "num": 386650,
-      "word": "为什么吃道具是剧组大忌",
-      "onboard_time": 1722002063,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 377565,
@@ -1163,6 +1171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 314887,
+      "num": 243743,
+      "word": "D社记者吐槽中恩静",
+      "onboard_time": 1722007282,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310264,
       "num": 310264,
       "word": "阿娇 确定七夕不一起过吗",
@@ -1185,6 +1201,14 @@
       "onboard_time": 1721980698,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 307276,
+      "num": 243259,
+      "word": "卢昱晓给工作人员做心肺复苏",
+      "onboard_time": 1722007821,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 304390,
@@ -1233,6 +1257,14 @@
       "onboard_time": 1722005246,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 296539,
+      "num": 245536,
+      "word": "医生让我每晚睡前喝杯牛奶",
+      "onboard_time": 1722007341,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 296173,
@@ -1433,6 +1465,14 @@
       "onboard_time": 1721960360,
       "rank": 28,
       "category": "艺人,读书作家"
+    },
+    {
+      "raw_hot": 243166,
+      "num": 243166,
+      "word": "中国代表团预计第41个入场",
+      "onboard_time": 1722007043,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 242369,
@@ -1843,14 +1883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192460,
-      "num": 192460,
-      "word": "中国代表团预计第41个入场",
-      "onboard_time": 1722007043,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 192210,
       "num": 192210,
       "word": "巴黎怎么做到连地上的隔离带都那么美",
@@ -2065,6 +2097,14 @@
       "onboard_time": 1721975660,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176453,
+      "num": 176453,
+      "word": "永劫无间",
+      "onboard_time": 1721929154,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 176044,
@@ -2739,6 +2779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111089,
+      "num": 382815,
+      "word": "汽车落水如何把握黄金时间自救",
+      "onboard_time": 1722005724,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109864,
       "num": 446479,
       "word": "法国铁路公司证实高铁受恶意行为攻击",
@@ -2785,6 +2833,14 @@
       "onboard_time": 1721906541,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104163,
+      "num": 365577,
+      "word": "实习生泄密可能承担哪些法律责任",
+      "onboard_time": 1722006023,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99566,
@@ -2891,14 +2947,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 83213,
-      "num": 382815,
-      "word": "汽车落水如何把握黄金时间自救",
-      "onboard_time": 1722005724,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 81615,
       "num": 427500,
       "word": "千元知名品牌化妆品仅售398",
@@ -2955,19 +3003,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 67442,
-      "num": 365577,
-      "word": "实习生泄密可能承担哪些法律责任",
-      "onboard_time": 1722006023,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 67437,
       "num": 77418,
       "word": "台风格美登陆福建位置又变了",
       "onboard_time": 1721901980,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67299,
+      "num": 247136,
+      "word": "中信建投实习生称未被告知资料保密",
+      "onboard_time": 1722007942,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -3035,12 +3083,36 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 53604,
+      "raw_hot": 53746,
       "num": 281674,
       "word": "闪光的夏天",
       "onboard_time": 1722001344,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 53153,
+      "num": 266358,
+      "word": "王鹤棣直播开大送黄金",
+      "onboard_time": 1722004224,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 52557,
+      "num": 416836,
+      "word": "刘宇BadGuy",
+      "onboard_time": 1722005066,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 52087,
+      "num": 377025,
+      "word": "杨洋隔空拥抱奥运健儿",
+      "onboard_time": 1722004645,
+      "rank": 11,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 51528,
@@ -3083,14 +3155,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 47291,
-      "num": 266358,
-      "word": "王鹤棣直播开大送黄金",
-      "onboard_time": 1722004224,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 44589,
       "num": 231768,
       "word": "日本尝试喂海胆吃卷心菜",
@@ -3105,14 +3169,6 @@
       "onboard_time": 1721963779,
       "rank": 14,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 43495,
-      "num": 377025,
-      "word": "杨洋隔空拥抱奥运健儿",
-      "onboard_time": 1722004645,
-      "rank": 11,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 42346,
@@ -3139,28 +3195,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36993,
-      "num": 36993,
-      "word": "永劫无间",
-      "onboard_time": 1721929154,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 34375,
       "num": 183406,
       "word": "莫斯科将欧洲广场更名为欧亚广场",
       "onboard_time": 1721963539,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33769,
-      "num": 370684,
-      "word": "刘宇BadGuy",
-      "onboard_time": 1722005066,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 33424,
@@ -3267,6 +3307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27809,
+      "num": 279984,
+      "word": "凡希亚祝运动员无负担拿第一",
+      "onboard_time": 1722006262,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 27517,
       "num": 70277,
       "word": "义乌小孩姐指点老板爸爸改良产品",
@@ -3281,14 +3329,6 @@
       "onboard_time": 1722000861,
       "rank": 11,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 26025,
-      "num": 279984,
-      "word": "凡希亚祝运动员无负担拿第一",
-      "onboard_time": 1722006262,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 25783,
