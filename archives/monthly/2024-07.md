@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/26 18:38:05
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/26 19:18:29
 </p>
 </blockquote>
 <p>
@@ -1019,6 +1019,12 @@ Nike宣传片舔乒乓球拍引热议（热度：1844266）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%B0%B4%E5%B0%8F%E4%B9%9D%E5%88%86%E6%89%8B%23" target="weibo">
 小水小九分手（热度：1787589）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%80%BB%E5%86%B3%E8%B5%9B%23" target="weibo">
+歌手总决赛（热度：1780617）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ T1夺冠（热度：781234）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%AC%E5%B7%9E%E5%9C%B0%E9%9C%87%23" target="weibo">
 扬州地震（热度：770595）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BD%91%E5%8C%BB%E7%94%9F%E8%A6%81%E6%B1%82%E6%8A%8A4%E5%88%86%E8%BF%98%E7%BB%99%E5%B0%8F%E5%AD%A6%E7%94%9F%23" target="weibo">
-全网医生要求把4分还给小学生（热度：770448）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1721924711965,
-  "endTime": 1721990285959,
+  "endTime": 1721992709646,
   "band_list": [
     {
       "raw_hot": 3714268,
@@ -49,6 +49,14 @@
       "onboard_time": 1721969420,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1780617,
+      "num": 1780617,
+      "word": "歌手总决赛",
+      "onboard_time": 1721991739,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1778369,
@@ -507,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 482330,
+      "num": 482330,
+      "word": "开幕式 夜宵",
+      "onboard_time": 1721988438,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 478365,
       "num": 324016,
       "word": "男子几天内狂炫50斤西瓜致带状疱疹",
@@ -715,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 327699,
+      "num": 327699,
+      "word": "王栎鑫被路人认成了张艺兴",
+      "onboard_time": 1721988980,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 327487,
       "num": 327487,
       "word": "校方通报球员被女教练连扇耳光",
@@ -731,20 +755,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 318392,
+      "num": 318392,
+      "word": "胡歌白发这么多了",
+      "onboard_time": 1721992038,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 316130,
       "num": 307301,
       "word": "广西大爷靠姆巴佩卖红薯走红",
       "onboard_time": 1721967921,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 315252,
-      "num": 315252,
-      "word": "王栎鑫被路人认成了张艺兴",
-      "onboard_time": 1721988980,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 315162,
@@ -827,6 +851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 289599,
+      "num": 289599,
+      "word": "中信建投就网传视频启动问责程序",
+      "onboard_time": 1721989339,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285855,
       "num": 285855,
       "word": "警方通报村干部取快递被捅身亡",
@@ -841,14 +873,6 @@
       "onboard_time": 1721920160,
       "rank": 16,
       "category": "美食"
-    },
-    {
-      "raw_hot": 277024,
-      "num": 277024,
-      "word": "开幕式 夜宵",
-      "onboard_time": 1721988438,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 273370,
@@ -891,6 +915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 265185,
+      "num": 265185,
+      "word": "王翘楚",
+      "onboard_time": 1721992158,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261292,
       "num": 261292,
       "word": "台风登陆",
@@ -921,14 +953,6 @@
       "onboard_time": 1721968342,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 246189,
-      "num": 246189,
-      "word": "中信建投就网传视频启动问责程序",
-      "onboard_time": 1721989339,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 245670,
@@ -979,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236021,
+      "num": 236021,
+      "word": "赵露思珠光美人",
+      "onboard_time": 1721992520,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 232683,
       "num": 232683,
       "word": "和恋与深空一起助战奥运",
@@ -1001,6 +1033,14 @@
       "onboard_time": 1721980819,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 230755,
+      "num": 230755,
+      "word": "谷爱凌巴黎奥运证件场地权限ALL",
+      "onboard_time": 1721991078,
+      "rank": 23,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 227572,
@@ -1089,6 +1129,14 @@
       "onboard_time": 1721983639,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210704,
+      "num": 210704,
+      "word": "歌手赛前直播",
+      "onboard_time": 1721990119,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 210682,
@@ -1227,6 +1275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193949,
+      "num": 193949,
+      "word": "张杰狂夸凡希亚",
+      "onboard_time": 1721990480,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192862,
       "num": 192862,
       "word": "山东小伙卖假睫毛成村里最强女婿",
@@ -1273,6 +1329,14 @@
       "onboard_time": 1721949556,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190956,
+      "num": 190956,
+      "word": "宋紫薇",
+      "onboard_time": 1721990599,
+      "rank": 32,
+      "category": "汽车,网红"
     },
     {
       "raw_hot": 190868,
@@ -1353,6 +1417,14 @@
       "onboard_time": 1721984361,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181701,
+      "num": 181701,
+      "word": "全红婵哥哥感谢妹妹带来的变化",
+      "onboard_time": 1721988259,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 180745,
@@ -1491,6 +1563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 170513,
+      "num": 170513,
+      "word": "刘亚仁涉嫌强奸细节",
+      "onboard_time": 1721992398,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169376,
       "num": 169376,
       "word": "百花奖日程",
@@ -1619,6 +1699,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 162896,
+      "num": 162896,
+      "word": "恋与深空体育文化推荐官",
+      "onboard_time": 1721991078,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 162174,
       "num": 555855,
       "word": "双奥导演张艺谋又来了",
@@ -1633,6 +1721,14 @@
       "onboard_time": 1721964559,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 162064,
+      "num": 162064,
+      "word": "原来喝咖啡能减轻久坐伤害",
+      "onboard_time": 1721991858,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 159125,
@@ -1667,12 +1763,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 155137,
+      "num": 155137,
+      "word": "古茗再回应血痰事件",
+      "onboard_time": 1721992279,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154441,
       "num": 154441,
       "word": "论我26号晚上会有多忙",
       "onboard_time": 1721949255,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153839,
+      "num": 153839,
+      "word": "眼睛里取出来好多结石",
+      "onboard_time": 1721991979,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 153280,
@@ -1747,14 +1859,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 148734,
-      "num": 148734,
-      "word": "全红婵哥哥感谢妹妹带来的变化",
-      "onboard_time": 1721988259,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 148655,
       "num": 141047,
       "word": "巴黎奥运会开幕式神秘感拉满",
@@ -1811,6 +1915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140384,
+      "num": 140384,
+      "word": "虞书欣白裙配红靴",
+      "onboard_time": 1721992457,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 140308,
       "num": 140308,
       "word": "全红婵的真显眼包",
@@ -1851,6 +1963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135713,
+      "num": 156324,
+      "word": "大熊猫被自家娃遛了30分钟",
+      "onboard_time": 1721991680,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134156,
       "num": 134156,
       "word": "巴黎作息",
@@ -1859,12 +1979,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132665,
-      "num": 132665,
-      "word": "歌手赛前直播",
-      "onboard_time": 1721990119,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 133300,
+      "num": 133300,
+      "word": "看完异人之下又服了乌尔善一次",
+      "onboard_time": 1721988199,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 132036,
@@ -1977,14 +2097,6 @@
       "onboard_time": 1721949195,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 123507,
-      "num": 129696,
-      "word": "看完异人之下又服了乌尔善一次",
-      "onboard_time": 1721988199,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 121494,
@@ -2219,6 +2331,14 @@
       "category": "体育,科学科普"
     },
     {
+      "raw_hot": 67945,
+      "num": 404980,
+      "word": "中信建投实习生说网上身份信息不实",
+      "onboard_time": 1721992520,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67437,
       "num": 77418,
       "word": "台风格美登陆福建位置又变了",
@@ -2240,6 +2360,14 @@
       "word": "汽车落水6旬大爷跳河救3人",
       "onboard_time": 1721959219,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58861,
+      "num": 446479,
+      "word": "法国铁路公司证实高铁受恶意行为攻击",
+      "onboard_time": 1721991258,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2379,6 +2507,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 30369,
+      "num": 216040,
+      "word": "与众不同的王霏霏",
+      "onboard_time": 1721988438,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 30201,
       "num": 33541,
       "word": "被天空之镜惊艳到了",
@@ -2393,14 +2529,6 @@
       "onboard_time": 1721932032,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 29719,
-      "num": 208984,
-      "word": "与众不同的王霏霏",
-      "onboard_time": 1721988438,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 29617,
