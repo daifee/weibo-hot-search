@@ -1,6 +1,6 @@
 {
   "startTime": 1721924711965,
-  "endTime": 1721972228709,
+  "endTime": 1721975295677,
   "band_list": [
     {
       "raw_hot": 3714268,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1793389,
+      "num": 1793389,
+      "word": "大二女生卧室被父母安装摄像头",
+      "onboard_time": 1721969420,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1778369,
       "num": 1778369,
       "word": "官方通报古茗奶茶中疑有血痰",
@@ -43,20 +51,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1635998,
-      "num": 1635998,
-      "word": "大二女生卧室被父母安装摄像头",
-      "onboard_time": 1721969420,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1585611,
       "num": 300101,
       "word": "福寿螺在成都遇到天敌了",
       "onboard_time": 1721951777,
       "rank": 20,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 1367068,
+      "num": 1367068,
+      "word": "女子穿吊带被老人当街指责没家教",
+      "onboard_time": 1721969961,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1308281,
@@ -89,6 +97,14 @@
       "onboard_time": 1721959280,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1036317,
+      "num": 1036317,
+      "word": "陈妍希沈月淘汰",
+      "onboard_time": 1721973080,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1002103,
@@ -137,14 +153,6 @@
       "onboard_time": 1721966600,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 800693,
-      "num": 800693,
-      "word": "女子穿吊带被老人当街指责没家教",
-      "onboard_time": 1721969961,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 779924,
@@ -211,6 +219,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 627336,
+      "num": 627336,
+      "word": "时代少年团 李宁",
+      "onboard_time": 1721973199,
+      "rank": 5,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 594432,
+      "num": 308551,
+      "word": "三个月瘦了40斤的运动之路",
+      "onboard_time": 1721971459,
+      "rank": 23,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 575615,
       "num": 575615,
       "word": "韩国博主来中国的街拍",
@@ -241,6 +265,14 @@
       "onboard_time": 1721943491,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 548693,
+      "num": 548693,
+      "word": "奶茶袋治好了年轻人的包包焦虑吗",
+      "onboard_time": 1721968222,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 546397,
@@ -355,14 +387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 450205,
-      "num": 470353,
-      "word": "奶茶袋治好了年轻人的包包焦虑吗",
-      "onboard_time": 1721968222,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 447468,
       "num": 239526,
       "word": "戴了五年美瞳把眼睛寿命磨损完了",
@@ -379,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 431271,
+      "num": 431271,
+      "word": "奥运是和你一起难忘的夏天",
+      "onboard_time": 1721970322,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 424095,
       "num": 424095,
       "word": "异人之下真香了",
@@ -393,6 +425,14 @@
       "onboard_time": 1721922859,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 419741,
+      "num": 419741,
+      "word": "权侑莉ins删图",
+      "onboard_time": 1721973859,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 415469,
@@ -475,20 +515,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 339722,
+      "num": 339722,
+      "word": "披荆斩棘的哥哥",
+      "onboard_time": 1721969481,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 335004,
       "num": 335004,
       "word": "为了奥运会巴黎地铁椅子终于洗了",
       "onboard_time": 1721960299,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 328967,
-      "num": 328967,
-      "word": "披荆斩棘的哥哥",
-      "onboard_time": 1721969481,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 327487,
@@ -500,7 +540,7 @@
     },
     {
       "raw_hot": 316130,
-      "num": 276835,
+      "num": 307301,
       "word": "广西大爷靠姆巴佩卖红薯走红",
       "onboard_time": 1721967921,
       "rank": 36,
@@ -531,12 +571,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 299232,
-      "num": 229108,
-      "word": "三个月瘦了40斤的运动之路",
-      "onboard_time": 1721971459,
-      "rank": 23,
-      "category": "运动健身"
+      "raw_hot": 296147,
+      "num": 296147,
+      "word": "歌王之战歌单",
+      "onboard_time": 1721972482,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 291949,
@@ -603,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253052,
+      "num": 253052,
+      "word": "张杰回应和凡希亚组合名",
+      "onboard_time": 1721974459,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245670,
       "num": 245670,
       "word": "出版社回应高校教师出版不雅诗集",
@@ -641,6 +689,30 @@
       "onboard_time": 1721916860,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 230715,
+      "num": 582550,
+      "word": "磕药进ICU学生母亲或与药店达成赔偿",
+      "onboard_time": 1721971820,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224637,
+      "num": 224637,
+      "word": "台风",
+      "onboard_time": 1721972360,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220184,
+      "num": 220184,
+      "word": "易烊千玺跳着下楼梯",
+      "onboard_time": 1721975239,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 216345,
@@ -731,6 +803,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 199323,
+      "num": 199323,
+      "word": "中国跳水队终于有娘家人撑腰了",
+      "onboard_time": 1721970201,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192735,
       "num": 451956,
       "word": "路政干部沦为拦路虎5年贪上百万",
@@ -753,14 +833,6 @@
       "onboard_time": 1721967982,
       "rank": 37,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 191683,
-      "num": 191683,
-      "word": "奥运是和你一起难忘的夏天",
-      "onboard_time": 1721970322,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 191455,
@@ -811,14 +883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182545,
-      "num": 182545,
-      "word": "中国跳水队终于有娘家人撑腰了",
-      "onboard_time": 1721970201,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 182397,
       "num": 182397,
       "word": "王一博黑粉公开致歉",
@@ -833,6 +897,22 @@
       "onboard_time": 1721968582,
       "rank": 46,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 180745,
+      "num": 180745,
+      "word": "超人剧组工作人员身亡",
+      "onboard_time": 1721973319,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 180415,
+      "num": 180415,
+      "word": "侯明昊十天收到448条消息",
+      "onboard_time": 1721974399,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 179696,
@@ -1035,6 +1115,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151055,
+      "num": 151055,
+      "word": "姜妍为奥运健儿做定胜糕",
+      "onboard_time": 1721974578,
+      "rank": 38,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 149539,
+      "num": 149539,
+      "word": "中国队出征巴黎奥运国际形象宣传片",
+      "onboard_time": 1721974519,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149100,
       "num": 149100,
       "word": "商贷利率逼近公积金",
@@ -1083,6 +1179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 144607,
+      "num": 144607,
+      "word": "景甜冷艳风",
+      "onboard_time": 1721974100,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 141081,
       "num": 141081,
       "word": "密逃的别名是许凯丢脸史吧",
@@ -1104,6 +1208,14 @@
       "word": "心动的信号",
       "onboard_time": 1721915841,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 139084,
+      "num": 139084,
+      "word": "王栎鑫俞灏明合唱最佳损友",
+      "onboard_time": 1721975179,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -1129,6 +1241,14 @@
       "onboard_time": 1721962940,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134004,
+      "num": 134004,
+      "word": "剑网3无界ChinaJoy",
+      "onboard_time": 1721974819,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 132036,
@@ -1163,12 +1283,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 128894,
+      "num": 139574,
+      "word": "巴黎怎么做到连地上的隔离带都那么美",
+      "onboard_time": 1721973139,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126086,
       "num": 126086,
       "word": "连线改简历意外被创始人看中",
       "onboard_time": 1721919200,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125811,
+      "num": 125811,
+      "word": "体育局回应女教练连抽球员9记耳光",
+      "onboard_time": 1721974399,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 125547,
@@ -1209,6 +1345,14 @@
       "onboard_time": 1721920700,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120845,
+      "num": 527233,
+      "word": "这可能是史上最奢华又最抠门的奥运",
+      "onboard_time": 1721973618,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118220,
@@ -1403,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74783,
+      "num": 312764,
+      "word": "抢婚吧哥们儿",
+      "onboard_time": 1721975119,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 73483,
       "num": 73483,
       "word": "6位艺术大咖集体入驻话奥运",
@@ -1443,6 +1595,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 57802,
+      "num": 241691,
+      "word": "张艺谋再现中国人的要强",
+      "onboard_time": 1721971160,
+      "rank": 49,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 55952,
       "num": 55952,
       "word": "密室大神版 svip还要收费",
@@ -1457,22 +1617,6 @@
       "onboard_time": 1721964140,
       "rank": 29,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 45902,
-      "num": 582550,
-      "word": "磕药进ICU学生母亲或与药店达成赔偿",
-      "onboard_time": 1721971820,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44889,
-      "num": 215438,
-      "word": "张艺谋再现中国人的要强",
-      "onboard_time": 1721971160,
-      "rank": 49,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 44589,
@@ -1704,6 +1848,14 @@
       "word": "40年前的老西安什么样",
       "onboard_time": 1721936291,
       "rank": 49,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 10265,
+      "num": 142925,
+      "word": "沉浸式逛展降温",
+      "onboard_time": 1721975119,
+      "rank": 42,
       "category": "旅游"
     }
   ],

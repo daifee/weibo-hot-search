@@ -1,0 +1,410 @@
+{
+  "runTime": 1721975295677,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1793389,
+        "num": 1793389,
+        "word": "大二女生卧室被父母安装摄像头",
+        "onboard_time": 1721969420,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1391757,
+        "num": 1391757,
+        "word": "官方通报古茗奶茶中疑有血痰",
+        "onboard_time": 1721968282,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58746,
+        "num": 1374013,
+        "word": "那抹中国红永远让人热血沸腾",
+        "onboard_time": 1721959519,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1367068,
+        "num": 1367068,
+        "word": "女子穿吊带被老人当街指责没家教",
+        "onboard_time": 1721969961,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1036317,
+        "num": 1036317,
+        "word": "陈妍希沈月淘汰",
+        "onboard_time": 1721973080,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 627336,
+        "num": 627336,
+        "word": "时代少年团 李宁",
+        "onboard_time": 1721973199,
+        "rank": 5,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 599005,
+        "num": 599005,
+        "word": "番茄小说多个作品高度雷同",
+        "onboard_time": 1721966421,
+        "rank": 6,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 556671,
+        "num": 556671,
+        "word": "林依晨上恋综了",
+        "onboard_time": 1721966361,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 548693,
+        "num": 548693,
+        "word": "奶茶袋治好了年轻人的包包焦虑吗",
+        "onboard_time": 1721968222,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120845,
+        "num": 527233,
+        "word": "这可能是史上最奢华又最抠门的奥运",
+        "onboard_time": 1721973618,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508682,
+        "num": 508682,
+        "word": "汪顺 追我的人排到了法国",
+        "onboard_time": 1721969002,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 431271,
+        "num": 431271,
+        "word": "奥运是和你一起难忘的夏天",
+        "onboard_time": 1721970322,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 419741,
+        "num": 419741,
+        "word": "权侑莉ins删图",
+        "onboard_time": 1721973859,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360389,
+        "num": 360389,
+        "word": "王能能承认与罗拉吵架",
+        "onboard_time": 1721959280,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345121,
+        "num": 345121,
+        "word": "开幕式 熬夜",
+        "onboard_time": 1721964860,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339968,
+        "num": 339968,
+        "word": "刘宇自曝巡演售罄依旧亏本",
+        "onboard_time": 1721966600,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339722,
+        "num": 339722,
+        "word": "披荆斩棘的哥哥",
+        "onboard_time": 1721969481,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338603,
+        "num": 338603,
+        "word": "6岁女孩遇到继母后如今判若两人",
+        "onboard_time": 1721955861,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312875,
+        "num": 312875,
+        "word": "巴黎奥运北京时间凌晨开幕",
+        "onboard_time": 1721951419,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74783,
+        "num": 312764,
+        "word": "抢婚吧哥们儿",
+        "onboard_time": 1721975119,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1421190,
+        "num": 311432,
+        "word": "男性怀孕或成现实",
+        "onboard_time": 1721965161,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 847848,
+        "num": 309920,
+        "word": "吴昕劝被家暴的旺旺妈妈再婚",
+        "onboard_time": 1721964680,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 594432,
+        "num": 308551,
+        "word": "三个月瘦了40斤的运动之路",
+        "onboard_time": 1721971459,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 307301,
+        "num": 307301,
+        "word": "广西大爷靠姆巴佩卖红薯走红",
+        "onboard_time": 1721967921,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296147,
+        "num": 296147,
+        "word": "歌王之战歌单",
+        "onboard_time": 1721972482,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253052,
+        "num": 253052,
+        "word": "张杰回应和凡希亚组合名",
+        "onboard_time": 1721974459,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57802,
+        "num": 241691,
+        "word": "张艺谋再现中国人的要强",
+        "onboard_time": 1721971160,
+        "rank": 26,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 230715,
+        "num": 230715,
+        "word": "磕药进ICU学生母亲或与药店达成赔偿",
+        "onboard_time": 1721971820,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224637,
+        "num": 224637,
+        "word": "台风",
+        "onboard_time": 1721972360,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220184,
+        "num": 220184,
+        "word": "易烊千玺跳着下楼梯",
+        "onboard_time": 1721975239,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202503,
+        "num": 202503,
+        "word": "为什么精致女生坐高铁系列被喷",
+        "onboard_time": 1721955741,
+        "rank": 30,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 199323,
+        "num": 199323,
+        "word": "中国跳水队终于有娘家人撑腰了",
+        "onboard_time": 1721970201,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180745,
+        "num": 180745,
+        "word": "超人剧组工作人员身亡",
+        "onboard_time": 1721973319,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180415,
+        "num": 180415,
+        "word": "侯明昊十天收到448条消息",
+        "onboard_time": 1721974399,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178815,
+        "num": 178815,
+        "word": "爷爷居然用我的眼线笔写字",
+        "onboard_time": 1721956460,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163133,
+        "num": 163133,
+        "word": "福寿螺在成都遇到天敌了",
+        "onboard_time": 1721951777,
+        "rank": 35,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 160957,
+        "num": 160957,
+        "word": "刘亚仁涉嫌强奸被立案",
+        "onboard_time": 1721954420,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160817,
+        "num": 160817,
+        "word": "韩生育率暴跌中年人成职场香饽饽",
+        "onboard_time": 1721967381,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151055,
+        "num": 151055,
+        "word": "姜妍为奥运健儿做定胜糕",
+        "onboard_time": 1721974578,
+        "rank": 38,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 149539,
+        "num": 149539,
+        "word": "中国队出征巴黎奥运国际形象宣传片",
+        "onboard_time": 1721974519,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147105,
+        "num": 147105,
+        "word": "不办卡不囤课穷鬼健身火了",
+        "onboard_time": 1721970021,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144607,
+        "num": 144607,
+        "word": "景甜冷艳风",
+        "onboard_time": 1721974100,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 10265,
+        "num": 142925,
+        "word": "沉浸式逛展降温",
+        "onboard_time": 1721975119,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 141696,
+        "num": 141696,
+        "word": "韩国博主来中国的街拍",
+        "onboard_time": 1721964378,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128894,
+        "num": 139574,
+        "word": "巴黎怎么做到连地上的隔离带都那么美",
+        "onboard_time": 1721973139,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139084,
+        "num": 139084,
+        "word": "王栎鑫俞灏明合唱最佳损友",
+        "onboard_time": 1721975179,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134004,
+        "num": 134004,
+        "word": "剑网3无界ChinaJoy",
+        "onboard_time": 1721974819,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125811,
+        "num": 125811,
+        "word": "体育局回应女教练连抽球员9记耳光",
+        "onboard_time": 1721974399,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125737,
+        "num": 125737,
+        "word": "蓝盈莹从不嘻嘻到嘻嘻",
+        "onboard_time": 1721962639,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124367,
+        "num": 124367,
+        "word": "台风格美",
+        "onboard_time": 1721950036,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的奥林匹克情缘#"
+    }
+  }
+}
