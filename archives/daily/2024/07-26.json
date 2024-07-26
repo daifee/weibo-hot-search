@@ -1,6 +1,6 @@
 {
   "startTime": 1721924711965,
-  "endTime": 1721956983354,
+  "endTime": 1721958271819,
   "band_list": [
     {
       "raw_hot": 1915128,
@@ -25,6 +25,14 @@
       "onboard_time": 1721951777,
       "rank": 20,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 1151113,
+      "num": 750609,
+      "word": "鼻血馒头",
+      "onboard_time": 1721954899,
+      "rank": 7,
+      "category": "网红"
     },
     {
       "raw_hot": 1002103,
@@ -59,11 +67,27 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 725748,
+      "num": 725748,
+      "word": "为什么精致女生坐高铁系列被喷",
+      "onboard_time": 1721955741,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 672942,
       "num": 672942,
       "word": "台风格美将由福建移入江西",
       "onboard_time": 1721952198,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 661726,
+      "num": 661726,
+      "word": "6岁女孩遇到继母后如今判若两人",
+      "onboard_time": 1721955861,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -99,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 536106,
+      "num": 536106,
+      "word": "巴黎奥运北京时间凌晨开幕",
+      "onboard_time": 1721951419,
+      "rank": 9,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 529398,
       "num": 529398,
       "word": "马子佳结婚了",
@@ -131,16 +163,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 501298,
-      "num": 501298,
-      "word": "鼻血馒头",
-      "onboard_time": 1721954899,
-      "rank": 7,
-      "category": "网红"
-    },
-    {
       "raw_hot": 490263,
-      "num": 388855,
+      "num": 427528,
       "word": "马子佳 孔汝淳",
       "onboard_time": 1721954059,
       "rank": 11,
@@ -163,12 +187,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 458913,
+      "num": 458913,
+      "word": "台风格美已造成福建省62.86万人受灾",
+      "onboard_time": 1721956580,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 447468,
       "num": 222275,
       "word": "戴了五年美瞳把眼睛寿命磨损完了",
       "onboard_time": 1721949195,
       "rank": 21,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 437981,
+      "num": 437981,
+      "word": "唐诡西行 家暴的他破碎的她",
+      "onboard_time": 1721955141,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 423965,
@@ -227,22 +267,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 361314,
-      "num": 361314,
-      "word": "唐诡西行 家暴的他破碎的她",
-      "onboard_time": 1721955141,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 360621,
-      "num": 360621,
-      "word": "为什么精致女生坐高铁系列被喷",
-      "onboard_time": 1721955741,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 347859,
       "num": 347859,
       "word": "8个月宝宝第一次经历台风挺秃然",
@@ -256,14 +280,6 @@
       "word": "台风格美在福建沿海登陆",
       "onboard_time": 1721909360,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 320415,
-      "num": 320415,
-      "word": "台风格美已造成福建省62.86万人受灾",
-      "onboard_time": 1721956580,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -307,6 +323,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 275429,
+      "num": 206294,
+      "word": "爷爷居然用我的眼线笔写字",
+      "onboard_time": 1721956460,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 261292,
       "num": 261292,
       "word": "台风登陆",
@@ -339,14 +363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 216768,
-      "num": 216768,
-      "word": "6岁女孩遇到继母后如今判若两人",
-      "onboard_time": 1721955861,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 216345,
       "num": 216345,
       "word": "刘梓晨",
@@ -355,12 +371,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 208285,
-      "num": 390367,
-      "word": "巴黎奥运北京时间凌晨开幕",
-      "onboard_time": 1721951419,
-      "rank": 9,
-      "category": "社会新闻,体育"
+      "raw_hot": 205090,
+      "num": 205090,
+      "word": "男子几天内狂炫50斤西瓜致带状疱疹",
+      "onboard_time": 1721956821,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202798,
@@ -369,6 +385,14 @@
       "onboard_time": 1721949495,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 202191,
+      "num": 202191,
+      "word": "电影解密",
+      "onboard_time": 1721957539,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 199681,
@@ -395,6 +419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 176044,
+      "num": 176044,
+      "word": "48人登上见义勇为勇士榜",
+      "onboard_time": 1721956940,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173575,
       "num": 173575,
       "word": "3名中国游客在肯尼亚遇车祸身亡",
@@ -403,12 +435,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173327,
+      "num": 173327,
+      "word": "英国跳水名将戴利为儿子出战奥运会",
+      "onboard_time": 1721958078,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171943,
       "num": 171943,
       "word": "欧阳娜娜现身刘昊然新片首映礼",
       "onboard_time": 1721950096,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 164035,
+      "num": 164035,
+      "word": "胡友平出现在见义勇为勇士榜",
+      "onboard_time": 1721957300,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163930,
@@ -451,20 +499,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 153113,
-      "num": 153113,
-      "word": "爷爷居然用我的眼线笔写字",
-      "onboard_time": 1721956460,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 153017,
       "num": 153017,
       "word": "台风格美影响或波及10余省份",
       "onboard_time": 1721911460,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152162,
+      "num": 152162,
+      "word": "王栎鑫陆虎高情商发言",
+      "onboard_time": 1721957779,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 152116,
@@ -491,14 +539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147703,
-      "num": 147703,
-      "word": "48人登上见义勇为勇士榜",
-      "onboard_time": 1721956940,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147134,
       "num": 147134,
       "word": "王宝强说陈思诚就是为电影而生",
@@ -515,20 +555,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139734,
-      "num": 139734,
-      "word": "男子几天内狂炫50斤西瓜致带状疱疹",
-      "onboard_time": 1721956821,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139181,
       "num": 139181,
       "word": "心动的信号",
       "onboard_time": 1721915841,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138154,
+      "num": 138154,
+      "word": "檀健次或演我不成仙",
+      "onboard_time": 1721957900,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 132036,
@@ -609,6 +649,14 @@
       "onboard_time": 1721920700,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119626,
+      "num": 465668,
+      "word": "甘肃1961年以来最强区域性暴雨",
+      "onboard_time": 1721956701,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118220,
