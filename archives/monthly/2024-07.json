@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1722033365632,
+  "endTime": 1722035974104,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -259,6 +259,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 4609322,
+      "num": 4609322,
+      "word": "巴黎开幕式 真的牛",
+      "onboard_time": 1722022813,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 4176347,
+      "num": 4176347,
+      "word": "央视解说沉默了",
+      "onboard_time": 1722019394,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 4126542,
       "num": 4753085,
       "word": "阮富仲去世",
@@ -369,14 +385,6 @@
       "onboard_time": 1721272937,
       "rank": 11,
       "category": "财经"
-    },
-    {
-      "raw_hot": 3521314,
-      "num": 3521314,
-      "word": "央视解说沉默了",
-      "onboard_time": 1722019394,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 3520625,
@@ -497,14 +505,6 @@
       "onboard_time": 1721657124,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3094593,
-      "num": 3094593,
-      "word": "巴黎开幕式 真的牛",
-      "onboard_time": 1722022813,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 3031333,
@@ -3571,6 +3571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1237394,
+      "num": 1237394,
+      "word": "韩国 占C",
+      "onboard_time": 1722020534,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1236299,
       "num": 1236299,
       "word": "湖南卫视台标",
@@ -6211,14 +6219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 913174,
-      "num": 913174,
-      "word": "韩国 占C",
-      "onboard_time": 1722020534,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 912950,
       "num": 727042,
       "word": "密室大逃脱6首发阵容",
@@ -7843,6 +7843,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 797950,
+      "num": 797950,
+      "word": "奥林匹克会旗挂反了",
+      "onboard_time": 1722028032,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 797773,
       "num": 365760,
       "word": "易猝死的人往往有这4个共同点",
@@ -8347,14 +8355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 770204,
-      "num": 770204,
-      "word": "奥林匹克会旗挂反了",
-      "onboard_time": 1722028032,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 769808,
       "num": 769808,
       "word": "你好星期六全员高能甜",
@@ -8641,6 +8641,14 @@
       "onboard_time": 1719821536,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 750101,
+      "num": 750101,
+      "word": "开幕式上小黄人突然出现",
+      "onboard_time": 1722021193,
+      "rank": 12,
+      "category": "电影,体育"
     },
     {
       "raw_hot": 749950,
@@ -10121,14 +10129,6 @@
       "onboard_time": 1721358742,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 672531,
-      "num": 672531,
-      "word": "开幕式上小黄人突然出现",
-      "onboard_time": 1722021193,
-      "rank": 12,
-      "category": "电影,体育"
     },
     {
       "raw_hot": 672244,
@@ -16427,6 +16427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 477243,
+      "num": 477243,
+      "word": "法国要不要擦下镜头呢",
+      "onboard_time": 1722020714,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 476533,
       "num": 476533,
       "word": "陕师大性骚扰女毕业生副教授被解聘",
@@ -19195,6 +19203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 420088,
+      "num": 420088,
+      "word": "巴黎奥运会把韩国念成朝鲜",
+      "onboard_time": 1722029952,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 419958,
       "num": 429429,
       "word": "唐朝诡事录口碑",
@@ -19689,6 +19705,14 @@
       "onboard_time": 1721908460,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 409383,
+      "num": 409383,
+      "word": "中国台北",
+      "onboard_time": 1722024553,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 409002,
@@ -21275,14 +21299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 376390,
-      "num": 376390,
-      "word": "中国台北",
-      "onboard_time": 1722024553,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 376343,
       "num": 548752,
       "word": "喝隔夜水会致癌吗",
@@ -22451,6 +22467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 354647,
+      "num": 354647,
+      "word": "LV到底给了多少钱",
+      "onboard_time": 1722018676,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 354475,
       "num": 551933,
       "word": "这些属龙运动员出征龙年奥运了",
@@ -23433,14 +23457,6 @@
       "onboard_time": 1721969481,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 339678,
-      "num": 339678,
-      "word": "法国要不要擦下镜头呢",
-      "onboard_time": 1722020714,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 339570,
@@ -26683,14 +26699,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 290432,
-      "num": 290432,
-      "word": "LV到底给了多少钱",
-      "onboard_time": 1722018676,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 290391,
       "num": 290391,
       "word": "正在变老的明显特征是什么",
@@ -28017,6 +28025,14 @@
       "onboard_time": 1721361083,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 273810,
+      "num": 273810,
+      "word": "巴黎奥运最伟大最震撼的环节",
+      "onboard_time": 1722025393,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 273803,
@@ -32369,6 +32385,14 @@
       "onboard_time": 1719996078,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 229163,
+      "num": 229163,
+      "word": "塞纳河畔 告白热气球",
+      "onboard_time": 1722033975,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 229084,
@@ -44147,6 +44171,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 180335,
+      "num": 180335,
+      "word": "巴黎奥运开幕式 好癫好爱",
+      "onboard_time": 1722025691,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180325,
       "num": 180325,
       "word": "爱情并不是谁先主动谁就输",
@@ -44505,6 +44537,14 @@
       "onboard_time": 1720573039,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178631,
+      "num": 178631,
+      "word": "国际兴奋剂检测组织回应中国游泳队药检争议",
+      "onboard_time": 1722035898,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 178623,
@@ -47163,14 +47203,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 169461,
-      "num": 169461,
-      "word": "巴黎奥运会把韩国念成朝鲜",
-      "onboard_time": 1722029952,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 169416,
       "num": 169416,
       "word": "高圆圆吊带白裙",
@@ -48433,6 +48465,14 @@
       "onboard_time": 1720157659,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164578,
+      "num": 586374,
+      "word": "商场回应男子辱骂coser殴打员工",
+      "onboard_time": 1722031873,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164574,
@@ -50865,14 +50905,6 @@
       "onboard_time": 1721616442,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155962,
-      "num": 155962,
-      "word": "巴黎奥运最伟大最震撼的环节",
-      "onboard_time": 1722025393,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 155956,
@@ -55329,14 +55361,6 @@
       "onboard_time": 1720959318,
       "rank": 35,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 139509,
-      "num": 139509,
-      "word": "巴黎奥运开幕式 好癫好爱",
-      "onboard_time": 1722025691,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 139480,
@@ -74467,14 +74491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27927,
-      "num": 586374,
-      "word": "商场回应男子辱骂coser殴打员工",
-      "onboard_time": 1722031873,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 27904,
       "num": 311131,
       "word": "像SIM卡槽一样薄的手机",
@@ -75993,6 +76009,14 @@
       "onboard_time": 1720899372,
       "rank": 27,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 19190,
+      "num": 760251,
+      "word": "风雨再大老人1个都不能落下",
+      "onboard_time": 1722035117,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19178,

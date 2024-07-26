@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1722033365632,
+  "endTime": 1722035974104,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1635,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 4609322,
+      "num": 4609322,
+      "word": "巴黎开幕式 真的牛",
+      "onboard_time": 1722022813,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 4580625,
       "num": 4580625,
       "word": "乐华为王一博报警",
@@ -1809,6 +1817,14 @@
       "onboard_time": 1709939602,
       "rank": 21,
       "category": "教育"
+    },
+    {
+      "raw_hot": 4176347,
+      "num": 4176347,
+      "word": "央视解说沉默了",
+      "onboard_time": 1722019394,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 4172565,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1716129142,
       "rank": 20,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 3534733,
-      "num": 3534733,
-      "word": "杨幂拿到唐嫣的礼物了吗",
-      "onboard_time": 1705157987,
-      "rank": 5,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 3521314,
-      "num": 3521314,
-      "word": "央视解说沉默了",
-      "onboard_time": 1722019394,
-      "rank": 3,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
