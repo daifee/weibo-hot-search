@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1722004536808,
+  "endTime": 1722007272220,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -25,6 +25,14 @@
       "onboard_time": 1721647102,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12903482,
+      "num": 12903482,
+      "word": "那英歌王",
+      "onboard_time": 1722004584,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 12402900,
@@ -481,6 +489,14 @@
       "onboard_time": 1721996420,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2819946,
+      "num": 2819946,
+      "word": "巴黎奥运开幕式",
+      "onboard_time": 1722002904,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 2816859,
@@ -3131,14 +3147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1303426,
-      "num": 1303426,
-      "word": "巴黎奥运开幕式",
-      "onboard_time": 1722002904,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1302794,
       "num": 676137,
       "word": "野孩子声明",
@@ -4729,6 +4737,14 @@
       "onboard_time": 1721096717,
       "rank": 8,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1053351,
+      "num": 1053351,
+      "word": "万年县委书记毛奇被查",
+      "onboard_time": 1722004826,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1051696,
@@ -9217,6 +9233,14 @@
       "onboard_time": 1720149976,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 707976,
+      "num": 707976,
+      "word": "海底捞美甲开始要收费了",
+      "onboard_time": 1722004344,
+      "rank": 7,
+      "category": "美妆"
     },
     {
       "raw_hot": 707392,
@@ -16371,14 +16395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 469686,
-      "num": 469686,
-      "word": "海底捞美甲开始要收费了",
-      "onboard_time": 1722004344,
-      "rank": 7,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 469643,
       "num": 285196,
       "word": "朋友被裁员拿到了50万经济补偿",
@@ -20465,6 +20481,14 @@
       "onboard_time": 1721184740,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 386650,
+      "num": 386650,
+      "word": "为什么吃道具是剧组大忌",
+      "onboard_time": 1722002063,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 386326,
@@ -25747,6 +25771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 297399,
+      "num": 297399,
+      "word": "王楚钦削上了",
+      "onboard_time": 1722005246,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 296895,
       "num": 296895,
       "word": "一声娘子梦回苍兰诀",
@@ -27625,14 +27657,6 @@
       "onboard_time": 1721029038,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 273580,
-      "num": 273580,
-      "word": "为什么吃道具是剧组大忌",
-      "onboard_time": 1722002063,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 273370,
@@ -32347,6 +32371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226211,
+      "num": 226211,
+      "word": "网传IPO项目泄露中信建投董事长震怒",
+      "onboard_time": 1722006203,
+      "rank": 39,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 226201,
       "num": 226201,
       "word": "巴黎作息",
@@ -34379,6 +34411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 213267,
+      "num": 236899,
+      "word": "潮州暴雨",
+      "onboard_time": 1722001223,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213258,
       "num": 213258,
       "word": "唐朝诡事录把文物带火了",
@@ -34465,6 +34505,14 @@
       "onboard_time": 1720598178,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 212778,
+      "num": 212778,
+      "word": "奥运红毯仪式超绝松弛感",
+      "onboard_time": 1722006922,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 212613,
@@ -37323,6 +37371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201430,
+      "num": 201430,
+      "word": "这次上海漫展又有人cos了袁华",
+      "onboard_time": 1722005066,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 201393,
       "num": 201393,
       "word": "RNG偷家战胜UP",
@@ -40123,6 +40179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 192460,
+      "num": 192460,
+      "word": "中国代表团预计第41个入场",
+      "onboard_time": 1722007043,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192457,
       "num": 192457,
       "word": "成毅V领红衬衫",
@@ -41603,6 +41667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 188057,
+      "num": 188057,
+      "word": "不到千元的电脑能当生产力吗",
+      "onboard_time": 1722006383,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 188056,
       "num": 423666,
       "word": "原来这么多人在拼多多认真写评论",
@@ -41857,14 +41929,6 @@
       "onboard_time": 1721207299,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 187113,
-      "num": 236899,
-      "word": "潮州暴雨",
-      "onboard_time": 1722001223,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187061,
@@ -49136,6 +49200,14 @@
       "word": "深夜给高中班主任转账1元",
       "onboard_time": 1720677498,
       "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 159350,
+      "num": 187849,
+      "word": "当你喂鹿而又怕鹿时",
+      "onboard_time": 1722006982,
+      "rank": 48,
       "category": "情感"
     },
     {
@@ -66075,6 +66147,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 83213,
+      "num": 382815,
+      "word": "汽车落水如何把握黄金时间自救",
+      "onboard_time": 1722005724,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83068,
       "num": 83068,
       "word": "唐朝诡事录意难平",
@@ -67775,6 +67855,14 @@
       "num": 407954,
       "word": "存量房业主自救指南",
       "onboard_time": 1721206818,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67442,
+      "num": 365577,
+      "word": "实习生泄密可能承担哪些法律责任",
+      "onboard_time": 1722006023,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -69627,6 +69715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53604,
+      "num": 281674,
+      "word": "闪光的夏天",
+      "onboard_time": 1721852590,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 53454,
       "num": 53454,
       "word": "回村后发现爸爸新装修的厕所",
@@ -70612,7 +70708,7 @@
     },
     {
       "raw_hot": 47291,
-      "num": 238099,
+      "num": 266358,
       "word": "王鹤棣直播开大送黄金",
       "onboard_time": 1722004224,
       "rank": 38,
@@ -71137,6 +71233,14 @@
       "onboard_time": 1721109618,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 43495,
+      "num": 377025,
+      "word": "杨洋隔空拥抱奥运健儿",
+      "onboard_time": 1722004645,
+      "rank": 11,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 43475,
@@ -72587,6 +72691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33769,
+      "num": 370684,
+      "word": "刘宇BadGuy",
+      "onboard_time": 1722005066,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 33727,
       "num": 364606,
       "word": "湖南衡阳2013年发文严打违法运输食用油",
@@ -73881,6 +73993,14 @@
       "onboard_time": 1720010237,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26025,
+      "num": 279984,
+      "word": "凡希亚祝运动员无负担拿第一",
+      "onboard_time": 1722006262,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 26016,
@@ -75537,14 +75657,6 @@
       "onboard_time": 1719859211,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 15315,
-      "num": 21528,
-      "word": "闪光的夏天",
-      "onboard_time": 1721852590,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 15297,

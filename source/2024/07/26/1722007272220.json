@@ -1,0 +1,410 @@
+{
+  "runTime": 1722007272220,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12903482,
+        "num": 12903482,
+        "word": "那英歌王",
+        "onboard_time": 1722004584,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3384011,
+        "num": 3384011,
+        "word": "那英吃了回春丹",
+        "onboard_time": 1721999423,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79684,
+        "num": 3043639,
+        "word": "闪耀奥运赛场的中国骄傲",
+        "onboard_time": 1722001223,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2819946,
+        "num": 2819946,
+        "word": "巴黎奥运开幕式",
+        "onboard_time": 1722002904,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2140918,
+        "num": 2140918,
+        "word": "歌手总决赛",
+        "onboard_time": 1721991739,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1931551,
+        "num": 1931551,
+        "word": "谭维维 审美疲劳",
+        "onboard_time": 1722004947,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1053351,
+        "num": 1053351,
+        "word": "万年县委书记毛奇被查",
+        "onboard_time": 1722004826,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 707976,
+        "num": 707976,
+        "word": "海底捞美甲开始要收费了",
+        "onboard_time": 1722004344,
+        "rank": 7,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 386650,
+        "num": 386650,
+        "word": "为什么吃道具是剧组大忌",
+        "onboard_time": 1722002063,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83213,
+        "num": 382815,
+        "word": "汽车落水如何把握黄金时间自救",
+        "onboard_time": 1722005724,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1510359,
+        "num": 380292,
+        "word": "歌手排名",
+        "onboard_time": 1722005664,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43495,
+        "num": 377025,
+        "word": "杨洋隔空拥抱奥运健儿",
+        "onboard_time": 1722004645,
+        "rank": 11,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 33769,
+        "num": 370684,
+        "word": "刘宇BadGuy",
+        "onboard_time": 1722005066,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1293838,
+        "num": 366704,
+        "word": "香缇莫淘汰",
+        "onboard_time": 1722000326,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67442,
+        "num": 365577,
+        "word": "实习生泄密可能承担哪些法律责任",
+        "onboard_time": 1722006023,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1161678,
+        "num": 358151,
+        "word": "中信建投实习生道歉",
+        "onboard_time": 1721992878,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358060,
+        "num": 358060,
+        "word": "印度一工人挖出近20克拉钻石",
+        "onboard_time": 1721999662,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316719,
+        "num": 316719,
+        "word": "印度女子生下2张脸4只胳膊婴儿",
+        "onboard_time": 1721975300,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297399,
+        "num": 297399,
+        "word": "王楚钦削上了",
+        "onboard_time": 1722005246,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286141,
+        "num": 286141,
+        "word": "开幕式路透",
+        "onboard_time": 1721984781,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1090739,
+        "num": 285122,
+        "word": "刘欢加孙楠 以为奥运开幕了",
+        "onboard_time": 1721997020,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1031411,
+        "num": 282410,
+        "word": "歌手 音乐竞技搞煽情",
+        "onboard_time": 1722001344,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53604,
+        "num": 281674,
+        "word": "闪光的夏天",
+        "onboard_time": 1722001344,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26025,
+        "num": 279984,
+        "word": "凡希亚祝运动员无负担拿第一",
+        "onboard_time": 1722006262,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 864585,
+        "num": 276680,
+        "word": "张杰陈楚生拥抱",
+        "onboard_time": 1722001463,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 642431,
+        "num": 274883,
+        "word": "那英燃炸了",
+        "onboard_time": 1721999662,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375336,
+        "num": 272140,
+        "word": "中信建投实习生泄漏IPO材料",
+        "onboard_time": 1721981539,
+        "rank": 26,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 371322,
+        "num": 271979,
+        "word": "中信建投实习生说网上身份信息不实",
+        "onboard_time": 1721992520,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606128,
+        "num": 269739,
+        "word": "凡希亚转音杀疯了",
+        "onboard_time": 1722001883,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267943,
+        "num": 267943,
+        "word": "发条微博为中国健儿打call",
+        "onboard_time": 1721995640,
+        "rank": 29,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 517340,
+        "num": 267602,
+        "word": "贾玲亮相奥委会主席晚宴",
+        "onboard_time": 1721995760,
+        "rank": 30,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 46993,
+        "num": 266358,
+        "word": "王鹤棣直播开大送黄金",
+        "onboard_time": 1722004224,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514221,
+        "num": 265420,
+        "word": "太牛了那英",
+        "onboard_time": 1722003024,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 601709,
+        "num": 263732,
+        "word": "张杰凡希亚 强强联合",
+        "onboard_time": 1721996420,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263571,
+        "num": 263571,
+        "word": "雪憨憨恋爱",
+        "onboard_time": 1722001223,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 471269,
+        "num": 259627,
+        "word": "贾玲巴黎状态",
+        "onboard_time": 1721996179,
+        "rank": 35,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 451160,
+        "num": 249702,
+        "word": "谭维维哭了",
+        "onboard_time": 1721998042,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376237,
+        "num": 248151,
+        "word": "中餐厅",
+        "onboard_time": 1722003804,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229932,
+        "num": 229932,
+        "word": "乒乓球果然是顶流啊",
+        "onboard_time": 1721996361,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226211,
+        "num": 226211,
+        "word": "网传IPO项目泄露中信建投董事长震怒",
+        "onboard_time": 1722006203,
+        "rank": 39,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 213267,
+        "num": 213267,
+        "word": "潮州暴雨",
+        "onboard_time": 1722001223,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212778,
+        "num": 212778,
+        "word": "奥运红毯仪式超绝松弛感",
+        "onboard_time": 1722006922,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204192,
+        "num": 204192,
+        "word": "眼睛里取出来好多结石",
+        "onboard_time": 1721991979,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 201430,
+        "num": 201430,
+        "word": "这次上海漫展又有人cos了袁华",
+        "onboard_time": 1722005066,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 192460,
+        "num": 192460,
+        "word": "中国代表团预计第41个入场",
+        "onboard_time": 1722007043,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191377,
+        "num": 191377,
+        "word": "毛奇",
+        "onboard_time": 1722004106,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188057,
+        "num": 188057,
+        "word": "不到千元的电脑能当生产力吗",
+        "onboard_time": 1722006383,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 166141,
+        "num": 187956,
+        "word": "奥运会赛程",
+        "onboard_time": 1721978598,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159350,
+        "num": 187849,
+        "word": "当你喂鹿而又怕鹿时",
+        "onboard_time": 1722006982,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118729,
+        "num": 187819,
+        "word": "奥运会",
+        "onboard_time": 1721997383,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的奥运情缘#"
+    }
+  }
+}

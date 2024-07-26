@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1722004536808,
+  "endTime": 1722007272220,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -137,6 +137,14 @@
       "onboard_time": 1707493577,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 12903482,
+      "num": 12903482,
+      "word": "那英歌王",
+      "onboard_time": 1722004584,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 12825415,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704527733,
       "rank": 0,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 3491240,
-      "num": 3491240,
-      "word": "刘谦含着眼泪离开春晚舞台",
-      "onboard_time": 1707522630,
-      "rank": 0,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

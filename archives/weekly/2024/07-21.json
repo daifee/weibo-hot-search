@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1722004536808,
+  "endTime": 1722007272220,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -17,6 +17,14 @@
       "onboard_time": 1721647102,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12903482,
+      "num": 12903482,
+      "word": "那英歌王",
+      "onboard_time": 1722004584,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 12402900,
@@ -177,6 +185,14 @@
       "onboard_time": 1721996420,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2819946,
+      "num": 2819946,
+      "word": "巴黎奥运开幕式",
+      "onboard_time": 1722002904,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 2738662,
@@ -424,6 +440,14 @@
       "word": "汪苏泷忘词",
       "onboard_time": 1721999121,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1931551,
+      "num": 1931551,
+      "word": "谭维维 审美疲劳",
+      "onboard_time": 1722004947,
+      "rank": 5,
       "category": "综艺"
     },
     {
@@ -803,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1510359,
+      "num": 380292,
+      "word": "歌手排名",
+      "onboard_time": 1722005664,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1503774,
       "num": 1503774,
       "word": "女子称拒绝镇干部前男友发生关系被打伤",
@@ -1041,14 +1073,6 @@
       "onboard_time": 1721955861,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1303426,
-      "num": 1303426,
-      "word": "巴黎奥运开幕式",
-      "onboard_time": 1722002904,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 1286988,
@@ -1489,6 +1513,14 @@
       "onboard_time": 1721708601,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1053351,
+      "num": 1053351,
+      "word": "万年县委书记毛奇被查",
+      "onboard_time": 1722004826,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1051696,
@@ -2721,6 +2753,14 @@
       "onboard_time": 1721805920,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 707976,
+      "num": 707976,
+      "word": "海底捞美甲开始要收费了",
+      "onboard_time": 1722004344,
+      "rank": 7,
+      "category": "美妆"
     },
     {
       "raw_hot": 705597,
@@ -4347,14 +4387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 469686,
-      "num": 469686,
-      "word": "海底捞美甲开始要收费了",
-      "onboard_time": 1722004344,
-      "rank": 7,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 468200,
       "num": 447940,
       "word": "小夭婚礼上处处有相柳的影子",
@@ -5193,6 +5225,14 @@
       "onboard_time": 1721949616,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 386650,
+      "num": 386650,
+      "word": "为什么吃道具是剧组大忌",
+      "onboard_time": 1722002063,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 384464,
@@ -6491,6 +6531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 297399,
+      "num": 297399,
+      "word": "王楚钦削上了",
+      "onboard_time": 1722005246,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 296729,
       "num": 296729,
       "word": "蔡徐坤上半年最佳表现歌手",
@@ -6953,14 +7001,6 @@
       "onboard_time": 1721793922,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 273580,
-      "num": 273580,
-      "word": "为什么吃道具是剧组大忌",
-      "onboard_time": 1722002063,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 273370,
@@ -8347,6 +8387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226211,
+      "num": 226211,
+      "word": "网传IPO项目泄露中信建投董事长震怒",
+      "onboard_time": 1722006203,
+      "rank": 39,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 226201,
       "num": 226201,
       "word": "巴黎作息",
@@ -8987,6 +9035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213267,
+      "num": 236899,
+      "word": "潮州暴雨",
+      "onboard_time": 1722001223,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213258,
       "num": 213258,
       "word": "唐朝诡事录把文物带火了",
@@ -9048,6 +9104,14 @@
       "word": "他是中国首位奥运会日夺3金的运动员",
       "onboard_time": 1721788038,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 212778,
+      "num": 212778,
+      "word": "奥运红毯仪式超绝松弛感",
+      "onboard_time": 1722006922,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -9809,6 +9873,14 @@
       "onboard_time": 1721570602,
       "rank": 38,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 201430,
+      "num": 201430,
+      "word": "这次上海漫展又有人cos了袁华",
+      "onboard_time": 1722005066,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 201339,
@@ -10651,6 +10723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192460,
+      "num": 192460,
+      "word": "中国代表团预计第41个入场",
+      "onboard_time": 1722007043,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192457,
       "num": 192457,
       "word": "成毅V领红衬衫",
@@ -11123,6 +11203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188057,
+      "num": 188057,
+      "word": "不到千元的电脑能当生产力吗",
+      "onboard_time": 1722006383,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 188056,
       "num": 423666,
       "word": "原来这么多人在拼多多认真写评论",
@@ -11201,14 +11289,6 @@
       "onboard_time": 1721621842,
       "rank": 14,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 187113,
-      "num": 236899,
-      "word": "潮州暴雨",
-      "onboard_time": 1722001223,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186967,
@@ -13281,6 +13361,14 @@
       "onboard_time": 1721749998,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159350,
+      "num": 187849,
+      "word": "当你喂鹿而又怕鹿时",
+      "onboard_time": 1722006982,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 159318,
@@ -15899,6 +15987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83213,
+      "num": 382815,
+      "word": "汽车落水如何把握黄金时间自救",
+      "onboard_time": 1722005724,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83068,
       "num": 83068,
       "word": "唐朝诡事录意难平",
@@ -16323,6 +16419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67442,
+      "num": 365577,
+      "word": "实习生泄密可能承担哪些法律责任",
+      "onboard_time": 1722006023,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67415,
       "num": 107289,
       "word": "福建浙江防汛防台风四级应急响应",
@@ -16723,6 +16827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 53604,
+      "num": 281674,
+      "word": "闪光的夏天",
+      "onboard_time": 1721852590,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 53166,
       "num": 383042,
       "word": "华为联手深蓝剑指外资主流",
@@ -16916,7 +17028,7 @@
     },
     {
       "raw_hot": 47291,
-      "num": 238099,
+      "num": 266358,
       "word": "王鹤棣直播开大送黄金",
       "onboard_time": 1722004224,
       "rank": 38,
@@ -17025,6 +17137,14 @@
       "onboard_time": 1721777596,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43495,
+      "num": 377025,
+      "word": "杨洋隔空拥抱奥运健儿",
+      "onboard_time": 1722004645,
+      "rank": 11,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 43372,
@@ -17345,6 +17465,14 @@
       "onboard_time": 1721896279,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33769,
+      "num": 370684,
+      "word": "刘宇BadGuy",
+      "onboard_time": 1722005066,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 33595,
@@ -17721,6 +17849,14 @@
       "onboard_time": 1722000861,
       "rank": 11,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 26025,
+      "num": 279984,
+      "word": "凡希亚祝运动员无负担拿第一",
+      "onboard_time": 1722006262,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 25783,
@@ -18121,14 +18257,6 @@
       "onboard_time": 1721761153,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15315,
-      "num": 21528,
-      "word": "闪光的夏天",
-      "onboard_time": 1721852590,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 14279,

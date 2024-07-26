@@ -1,7 +1,15 @@
 {
   "startTime": 1721924711965,
-  "endTime": 1722004536808,
+  "endTime": 1722007272220,
   "band_list": [
+    {
+      "raw_hot": 12903482,
+      "num": 12903482,
+      "word": "那英歌王",
+      "onboard_time": 1722004584,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 12402900,
       "num": 12402900,
@@ -67,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2819946,
+      "num": 2819946,
+      "word": "巴黎奥运开幕式",
+      "onboard_time": 1722002904,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2738662,
       "num": 2738662,
       "word": "中信建投实习生道歉",
@@ -120,6 +136,14 @@
       "word": "汪苏泷忘词",
       "onboard_time": 1721999121,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1931551,
+      "num": 1931551,
+      "word": "谭维维 审美疲劳",
+      "onboard_time": 1722004947,
+      "rank": 5,
       "category": "综艺"
     },
     {
@@ -219,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1510359,
+      "num": 380292,
+      "word": "歌手排名",
+      "onboard_time": 1722005664,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1386417,
       "num": 1386417,
       "word": "奥运会赛程",
@@ -251,14 +283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1303426,
-      "num": 1303426,
-      "word": "巴黎奥运开幕式",
-      "onboard_time": 1722002904,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1273159,
       "num": 1273159,
       "word": "开幕式 熬夜",
@@ -289,6 +313,14 @@
       "onboard_time": 1721973080,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1053351,
+      "num": 1053351,
+      "word": "万年县委书记毛奇被查",
+      "onboard_time": 1722004826,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1002103,
@@ -457,6 +489,14 @@
       "onboard_time": 1721992520,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 707976,
+      "num": 707976,
+      "word": "海底捞美甲开始要收费了",
+      "onboard_time": 1722004344,
+      "rank": 7,
+      "category": "美妆"
     },
     {
       "raw_hot": 697473,
@@ -787,14 +827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 469686,
-      "num": 469686,
-      "word": "海底捞美甲开始要收费了",
-      "onboard_time": 1722004344,
-      "rank": 7,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 458913,
       "num": 458913,
       "word": "台风格美已造成福建省62.86万人受灾",
@@ -937,6 +969,14 @@
       "onboard_time": 1721949616,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 386650,
+      "num": 386650,
+      "word": "为什么吃道具是剧组大忌",
+      "onboard_time": 1722002063,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 377565,
@@ -1187,6 +1227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 297399,
+      "num": 297399,
+      "word": "王楚钦削上了",
+      "onboard_time": 1722005246,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 296173,
       "num": 296173,
       "word": "赵露思珠光美人",
@@ -1257,14 +1305,6 @@
       "onboard_time": 1721920160,
       "rank": 16,
       "category": "美食"
-    },
-    {
-      "raw_hot": 273580,
-      "num": 273580,
-      "word": "为什么吃道具是剧组大忌",
-      "onboard_time": 1722002063,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 273370,
@@ -1459,6 +1499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226211,
+      "num": 226211,
+      "word": "网传IPO项目泄露中信建投董事长震怒",
+      "onboard_time": 1722006203,
+      "rank": 39,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 226201,
       "num": 226201,
       "word": "巴黎作息",
@@ -1529,6 +1577,22 @@
       "onboard_time": 1721982200,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213267,
+      "num": 236899,
+      "word": "潮州暴雨",
+      "onboard_time": 1722001223,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212778,
+      "num": 212778,
+      "word": "奥运红毯仪式超绝松弛感",
+      "onboard_time": 1722006922,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 211862,
@@ -1659,6 +1723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 201430,
+      "num": 201430,
+      "word": "这次上海漫展又有人cos了袁华",
+      "onboard_time": 1722005066,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 201339,
       "num": 201339,
       "word": "镖人",
@@ -1771,6 +1843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192460,
+      "num": 192460,
+      "word": "中国代表团预计第41个入场",
+      "onboard_time": 1722007043,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192210,
       "num": 192210,
       "word": "巴黎怎么做到连地上的隔离带都那么美",
@@ -1851,20 +1931,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188057,
+      "num": 188057,
+      "word": "不到千元的电脑能当生产力吗",
+      "onboard_time": 1722006383,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 187571,
       "num": 211835,
       "word": "券商光速加强管理实习生接触范围",
       "onboard_time": 1721999966,
       "rank": 45,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 187113,
-      "num": 236899,
-      "word": "潮州暴雨",
-      "onboard_time": 1722001223,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186001,
@@ -2241,6 +2321,14 @@
       "onboard_time": 1721964559,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 159350,
+      "num": 187849,
+      "word": "当你喂鹿而又怕鹿时",
+      "onboard_time": 1722006982,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 159125,
@@ -2803,6 +2891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 83213,
+      "num": 382815,
+      "word": "汽车落水如何把握黄金时间自救",
+      "onboard_time": 1722005724,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81615,
       "num": 427500,
       "word": "千元知名品牌化妆品仅售398",
@@ -2856,6 +2952,14 @@
       "word": "一文了解我国新增的两处世界遗产",
       "onboard_time": 1722003682,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67442,
+      "num": 365577,
+      "word": "实习生泄密可能承担哪些法律责任",
+      "onboard_time": 1722006023,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2931,6 +3035,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 53604,
+      "num": 281674,
+      "word": "闪光的夏天",
+      "onboard_time": 1722001344,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 51528,
       "num": 554461,
       "word": "群面式相亲好小众",
@@ -2972,7 +3084,7 @@
     },
     {
       "raw_hot": 47291,
-      "num": 238099,
+      "num": 266358,
       "word": "王鹤棣直播开大送黄金",
       "onboard_time": 1722004224,
       "rank": 38,
@@ -2993,6 +3105,14 @@
       "onboard_time": 1721963779,
       "rank": 14,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 43495,
+      "num": 377025,
+      "word": "杨洋隔空拥抱奥运健儿",
+      "onboard_time": 1722004645,
+      "rank": 11,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 42346,
@@ -3033,6 +3153,14 @@
       "onboard_time": 1721963539,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33769,
+      "num": 370684,
+      "word": "刘宇BadGuy",
+      "onboard_time": 1722005066,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 33424,
@@ -3153,6 +3281,14 @@
       "onboard_time": 1722000861,
       "rank": 11,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 26025,
+      "num": 279984,
+      "word": "凡希亚祝运动员无负担拿第一",
+      "onboard_time": 1722006262,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 25783,
