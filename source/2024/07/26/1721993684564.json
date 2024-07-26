@@ -1,0 +1,410 @@
+{
+  "runTime": 1721993684564,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2225873,
+        "num": 2225873,
+        "word": "歌手总决赛",
+        "onboard_time": 1721991739,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1855798,
+        "num": 1855798,
+        "word": "中信建投实习生道歉",
+        "onboard_time": 1721992878,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28899,
+        "num": 1192545,
+        "word": "高质量发展看四川",
+        "onboard_time": 1721983459,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 748634,
+        "num": 748634,
+        "word": "开幕式路透",
+        "onboard_time": 1721984781,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2101030,
+        "num": 747504,
+        "word": "中信建投实习生泄漏IPO材料",
+        "onboard_time": 1721981539,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 693459,
+        "num": 693459,
+        "word": "开幕式 熬夜",
+        "onboard_time": 1721964860,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 669074,
+        "num": 669074,
+        "word": "中信建投实习生说网上身份信息不实",
+        "onboard_time": 1721992520,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629136,
+        "num": 629136,
+        "word": "中信建投回应网传高校学生视频",
+        "onboard_time": 1721982920,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559484,
+        "num": 559484,
+        "word": "胡歌白发这么多了",
+        "onboard_time": 1721992038,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474447,
+        "num": 474447,
+        "word": "奥运会赛程",
+        "onboard_time": 1721978598,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 773554,
+        "num": 472121,
+        "word": "印度女子生下2张脸4只胳膊婴儿",
+        "onboard_time": 1721975300,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461840,
+        "num": 461840,
+        "word": "全红婵因跳207C饱受折磨",
+        "onboard_time": 1721980340,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 424041,
+        "num": 424041,
+        "word": "刘亚仁涉嫌强奸细节",
+        "onboard_time": 1721992398,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405344,
+        "num": 405344,
+        "word": "王翘楚",
+        "onboard_time": 1721992158,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370152,
+        "num": 370152,
+        "word": "全红婵背包上挂了10KG动物园",
+        "onboard_time": 1721976979,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 363585,
+        "num": 363585,
+        "word": "开幕式 夜宵",
+        "onboard_time": 1721988438,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339514,
+        "num": 339514,
+        "word": "女子穿吊带被老人当街指责没家教",
+        "onboard_time": 1721969961,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296173,
+        "num": 296173,
+        "word": "赵露思珠光美人",
+        "onboard_time": 1721992520,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 277634,
+        "num": 277634,
+        "word": "肖战国外买的纪念品madeinChina",
+        "onboard_time": 1721975960,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109864,
+        "num": 266148,
+        "word": "法国铁路公司证实高铁受恶意行为攻击",
+        "onboard_time": 1721991258,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429996,
+        "num": 265573,
+        "word": "男性怀孕或成现实",
+        "onboard_time": 1721965161,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263322,
+        "num": 263322,
+        "word": "谷爱凌巴黎奥运证件场地权限ALL",
+        "onboard_time": 1721991078,
+        "rank": 21,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 249320,
+        "num": 249320,
+        "word": "眼睛里取出来好多结石",
+        "onboard_time": 1721991979,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 230975,
+        "num": 230975,
+        "word": "中信建投就网传视频启动问责程序",
+        "onboard_time": 1721989339,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230176,
+        "num": 230176,
+        "word": "王栎鑫被路人认成了张艺兴",
+        "onboard_time": 1721988980,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226022,
+        "num": 226022,
+        "word": "官方通报古茗奶茶中疑有血痰",
+        "onboard_time": 1721968282,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49867,
+        "num": 209727,
+        "word": "父母均为聋哑人儿子688分考上北大",
+        "onboard_time": 1721993598,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 204666,
+        "num": 204666,
+        "word": "李现杀青发文",
+        "onboard_time": 1721993239,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198803,
+        "num": 198803,
+        "word": "大二女生卧室被父母安装摄像头",
+        "onboard_time": 1721969420,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196135,
+        "num": 196135,
+        "word": "歌王之战歌单",
+        "onboard_time": 1721972482,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191770,
+        "num": 191770,
+        "word": "宋紫薇",
+        "onboard_time": 1721990599,
+        "rank": 30,
+        "category": "汽车,网红"
+      },
+      {
+        "raw_hot": 189518,
+        "num": 189518,
+        "word": "TES战胜AL",
+        "onboard_time": 1721993539,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 191458,
+        "num": 189504,
+        "word": "李冰冰魏大勋豪门姐弟",
+        "onboard_time": 1721983040,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174470,
+        "num": 189476,
+        "word": "大熊猫被自家娃遛了30分钟",
+        "onboard_time": 1721991680,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189475,
+        "num": 189475,
+        "word": "台风",
+        "onboard_time": 1721972360,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189175,
+        "num": 189175,
+        "word": "虞书欣白裙配红靴",
+        "onboard_time": 1721992457,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185797,
+        "num": 185797,
+        "word": "全红婵哥哥感谢妹妹带来的变化",
+        "onboard_time": 1721988259,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179677,
+        "num": 179677,
+        "word": "原来喝咖啡能减轻久坐伤害",
+        "onboard_time": 1721991858,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 175201,
+        "num": 175201,
+        "word": "巴黎八分钟",
+        "onboard_time": 1721988679,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173700,
+        "num": 173700,
+        "word": "中信建投",
+        "onboard_time": 1721981539,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172087,
+        "num": 172087,
+        "word": "诊所140元药卖2980患者家属发声",
+        "onboard_time": 1721983701,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171253,
+        "num": 171253,
+        "word": "张杰狂夸凡希亚",
+        "onboard_time": 1721990480,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166729,
+        "num": 166729,
+        "word": "古茗再回应血痰事件",
+        "onboard_time": 1721992279,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171079,
+        "num": 165513,
+        "word": "谁能想到我瘦下来长这样",
+        "onboard_time": 1721990178,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163627,
+        "num": 163627,
+        "word": "男子准备跳水遭野猴攻击将猴推下山崖",
+        "onboard_time": 1721982500,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148639,
+        "num": 148639,
+        "word": "歌手赛前直播",
+        "onboard_time": 1721990119,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135502,
+        "num": 135502,
+        "word": "43国警察被部署在巴黎",
+        "onboard_time": 1721993358,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130033,
+        "num": 130033,
+        "word": "上海巴黎紫集装箱应援中国队",
+        "onboard_time": 1721990780,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126681,
+        "num": 126681,
+        "word": "直击沈阳暴雨",
+        "onboard_time": 1721982680,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119019,
+        "num": 119019,
+        "word": "吴昕劝被家暴的旺旺妈妈再婚",
+        "onboard_time": 1721964680,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂全会决定中的这些名词#"
+    }
+  }
+}

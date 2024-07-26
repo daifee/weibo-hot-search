@@ -1,6 +1,6 @@
 {
   "startTime": 1721924711965,
-  "endTime": 1721992709646,
+  "endTime": 1721993684564,
   "band_list": [
     {
       "raw_hot": 3714268,
@@ -27,12 +27,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2225873,
+      "num": 2225873,
+      "word": "歌手总决赛",
+      "onboard_time": 1721991739,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1915128,
       "num": 1915128,
       "word": "刘亚仁涉嫌强奸被立案",
       "onboard_time": 1721954420,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1855798,
+      "num": 1855798,
+      "word": "中信建投实习生道歉",
+      "onboard_time": 1721992878,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1800076,
@@ -49,14 +65,6 @@
       "onboard_time": 1721969420,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1780617,
-      "num": 1780617,
-      "word": "歌手总决赛",
-      "onboard_time": 1721991739,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1778369,
@@ -299,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 669074,
+      "num": 669074,
+      "word": "中信建投实习生说网上身份信息不实",
+      "onboard_time": 1721992520,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 627643,
       "num": 244417,
       "word": "抑郁症有11个隐形信号",
@@ -369,6 +385,14 @@
       "onboard_time": 1721976979,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 559484,
+      "num": 559484,
+      "word": "胡歌白发这么多了",
+      "onboard_time": 1721992038,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 559174,
@@ -587,6 +611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 424041,
+      "num": 424041,
+      "word": "刘亚仁涉嫌强奸细节",
+      "onboard_time": 1721992398,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 423965,
       "num": 423965,
       "word": "全红婵自嘲我也年轻过",
@@ -624,6 +656,14 @@
       "word": "三亚酒店暴跌游客都去哪儿了",
       "onboard_time": 1721925077,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 405344,
+      "num": 405344,
+      "word": "王翘楚",
+      "onboard_time": 1721992158,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -755,14 +795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 318392,
-      "num": 318392,
-      "word": "胡歌白发这么多了",
-      "onboard_time": 1721992038,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 316130,
       "num": 307301,
       "word": "广西大爷靠姆巴佩卖红薯走红",
@@ -825,6 +857,14 @@
       "onboard_time": 1721975359,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 296173,
+      "num": 296173,
+      "word": "赵露思珠光美人",
+      "onboard_time": 1721992520,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 296147,
@@ -915,12 +955,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 265185,
-      "num": 265185,
-      "word": "王翘楚",
-      "onboard_time": 1721992158,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 263322,
+      "num": 263322,
+      "word": "谷爱凌巴黎奥运证件场地权限ALL",
+      "onboard_time": 1721991078,
+      "rank": 23,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 261292,
@@ -953,6 +993,14 @@
       "onboard_time": 1721968342,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 249320,
+      "num": 249320,
+      "word": "眼睛里取出来好多结石",
+      "onboard_time": 1721991979,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 245670,
@@ -1003,14 +1051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 236021,
-      "num": 236021,
-      "word": "赵露思珠光美人",
-      "onboard_time": 1721992520,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 232683,
       "num": 232683,
       "word": "和恋与深空一起助战奥运",
@@ -1033,14 +1073,6 @@
       "onboard_time": 1721980819,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 230755,
-      "num": 230755,
-      "word": "谷爱凌巴黎奥运证件场地权限ALL",
-      "onboard_time": 1721991078,
-      "rank": 23,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 227572,
@@ -1177,6 +1209,14 @@
       "onboard_time": 1721984420,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 204666,
+      "num": 204666,
+      "word": "李现杀青发文",
+      "onboard_time": 1721993239,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 202798,
@@ -1323,20 +1363,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 191770,
+      "num": 191770,
+      "word": "宋紫薇",
+      "onboard_time": 1721990599,
+      "rank": 32,
+      "category": "汽车,网红"
+    },
+    {
       "raw_hot": 191455,
       "num": 191455,
       "word": "深圳暴雨",
       "onboard_time": 1721949556,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190956,
-      "num": 190956,
-      "word": "宋紫薇",
-      "onboard_time": 1721990599,
-      "rank": 32,
-      "category": "汽车,网红"
     },
     {
       "raw_hot": 190868,
@@ -1363,6 +1403,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189518,
+      "num": 189518,
+      "word": "TES战胜AL",
+      "onboard_time": 1721993539,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 189175,
+      "num": 189175,
+      "word": "虞书欣白裙配红靴",
+      "onboard_time": 1721992457,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 189092,
       "num": 189092,
       "word": "王栎鑫陆虎高情商发言",
@@ -1377,6 +1433,14 @@
       "onboard_time": 1721950457,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 185797,
+      "num": 185797,
+      "word": "全红婵哥哥感谢妹妹带来的变化",
+      "onboard_time": 1721988259,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 185780,
@@ -1419,14 +1483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 181701,
-      "num": 181701,
-      "word": "全红婵哥哥感谢妹妹带来的变化",
-      "onboard_time": 1721988259,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 180745,
       "num": 180745,
       "word": "超人剧组工作人员身亡",
@@ -1457,6 +1513,14 @@
       "onboard_time": 1721969061,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179677,
+      "num": 179677,
+      "word": "原来喝咖啡能减轻久坐伤害",
+      "onboard_time": 1721991858,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 178902,
@@ -1515,6 +1579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174470,
+      "num": 189476,
+      "word": "大熊猫被自家娃遛了30分钟",
+      "onboard_time": 1721991680,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174246,
       "num": 174246,
       "word": "邓为行为淡人精神浓人",
@@ -1563,12 +1635,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 170513,
-      "num": 170513,
-      "word": "刘亚仁涉嫌强奸细节",
-      "onboard_time": 1721992398,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 171079,
+      "num": 165513,
+      "word": "谁能想到我瘦下来长这样",
+      "onboard_time": 1721990178,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 169376,
@@ -1625,6 +1697,14 @@
       "onboard_time": 1721975119,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166729,
+      "num": 166729,
+      "word": "古茗再回应血痰事件",
+      "onboard_time": 1721992279,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165659,
@@ -1723,14 +1803,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 162064,
-      "num": 162064,
-      "word": "原来喝咖啡能减轻久坐伤害",
-      "onboard_time": 1721991858,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 159125,
       "num": 159125,
       "word": "关晓彤白吊带齐肩短发",
@@ -1763,28 +1835,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 155137,
-      "num": 155137,
-      "word": "古茗再回应血痰事件",
-      "onboard_time": 1721992279,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154441,
       "num": 154441,
       "word": "论我26号晚上会有多忙",
       "onboard_time": 1721949255,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153839,
-      "num": 153839,
-      "word": "眼睛里取出来好多结石",
-      "onboard_time": 1721991979,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 153280,
@@ -1809,14 +1865,6 @@
       "onboard_time": 1721975899,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152285,
-      "num": 152285,
-      "word": "谁能想到我瘦下来长这样",
-      "onboard_time": 1721990178,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 152116,
@@ -1915,14 +1963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140384,
-      "num": 140384,
-      "word": "虞书欣白裙配红靴",
-      "onboard_time": 1721992457,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 140308,
       "num": 140308,
       "word": "全红婵的真显眼包",
@@ -1963,12 +2003,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135713,
-      "num": 156324,
-      "word": "大熊猫被自家娃遛了30分钟",
-      "onboard_time": 1721991680,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 135502,
+      "num": 135502,
+      "word": "43国警察被部署在巴黎",
+      "onboard_time": 1721993358,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 134156,
@@ -2009,6 +2049,14 @@
       "onboard_time": 1721988199,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 130033,
+      "num": 130033,
+      "word": "上海巴黎紫集装箱应援中国队",
+      "onboard_time": 1721990780,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 129709,
@@ -2137,6 +2185,14 @@
       "onboard_time": 1721960241,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109864,
+      "num": 446479,
+      "word": "法国铁路公司证实高铁受恶意行为攻击",
+      "onboard_time": 1721991258,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109511,
@@ -2331,14 +2387,6 @@
       "category": "体育,科学科普"
     },
     {
-      "raw_hot": 67945,
-      "num": 404980,
-      "word": "中信建投实习生说网上身份信息不实",
-      "onboard_time": 1721992520,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 67437,
       "num": 77418,
       "word": "台风格美登陆福建位置又变了",
@@ -2360,14 +2408,6 @@
       "word": "汽车落水6旬大爷跳河救3人",
       "onboard_time": 1721959219,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 58861,
-      "num": 446479,
-      "word": "法国铁路公司证实高铁受恶意行为攻击",
-      "onboard_time": 1721991258,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2419,6 +2459,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 49867,
+      "num": 209727,
+      "word": "父母均为聋哑人儿子688分考上北大",
+      "onboard_time": 1721993598,
+      "rank": 26,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 49289,
       "num": 482092,
       "word": "vivo影像已经进入nextlevel",
@@ -2452,7 +2500,7 @@
     },
     {
       "raw_hot": 42346,
-      "num": 891878,
+      "num": 1192545,
       "word": "高质量发展看四川",
       "onboard_time": 1721983459,
       "rank": 2,
