@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1722028761109,
+  "endTime": 1722029770764,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -659,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1759538,
+      "num": 1759538,
+      "word": "巴黎开幕式 真的牛",
+      "onboard_time": 1722022813,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1751552,
       "num": 1751552,
       "word": "兰州刺激性异味来源查清",
@@ -737,14 +745,6 @@
       "onboard_time": 1721624362,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1637109,
-      "num": 1637109,
-      "word": "巴黎开幕式 真的牛",
-      "onboard_time": 1722022813,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 1624204,
@@ -2577,6 +2577,14 @@
       "onboard_time": 1721955741,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 770204,
+      "num": 770204,
+      "word": "奥林匹克会旗挂反了",
+      "onboard_time": 1722028032,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 768676,
@@ -4627,6 +4635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 468292,
+      "num": 468292,
+      "word": "巴黎奥运主火炬点燃",
+      "onboard_time": 1722029353,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 468200,
       "num": 447940,
       "word": "小夭婚礼上处处有相柳的影子",
@@ -4687,14 +4703,6 @@
       "num": 466217,
       "word": "这是马龙和奥运的16年",
       "onboard_time": 1721826261,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 462332,
-      "num": 462332,
-      "word": "奥林匹克会旗挂反了",
-      "onboard_time": 1722028032,
       "rank": 8,
       "category": "体育"
     },
@@ -5425,6 +5433,14 @@
       "onboard_time": 1721828300,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 396125,
+      "num": 396125,
+      "word": "巴黎奥运正式开幕",
+      "onboard_time": 1722028331,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 395806,
@@ -6657,6 +6673,14 @@
       "onboard_time": 1721571621,
       "rank": 24,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 304769,
+      "num": 304769,
+      "word": "席琳迪翁终于来了",
+      "onboard_time": 1722029472,
+      "rank": 14,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 304390,
@@ -8881,6 +8905,14 @@
       "onboard_time": 1721973618,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224904,
+      "num": 224904,
+      "word": "火炬台是热气球",
+      "onboard_time": 1722029532,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 224383,
@@ -14828,7 +14860,7 @@
     },
     {
       "raw_hot": 144695,
-      "num": 138539,
+      "num": 139528,
       "word": "巴黎奥运最伟大最震撼的环节",
       "onboard_time": 1722025393,
       "rank": 42,
@@ -16131,14 +16163,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 114370,
-      "num": 114370,
-      "word": "巴黎奥运正式开幕",
-      "onboard_time": 1722028331,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 113852,
       "num": 211659,
       "word": "演员李晟回怼网友",
@@ -16603,6 +16627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93757,
+      "num": 93757,
+      "word": "还不点火",
+      "onboard_time": 1722029353,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93733,
       "num": 410161,
       "word": "沈阳持续大暴雨多路段被淹",
@@ -16841,6 +16873,14 @@
       "onboard_time": 1721826020,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81253,
+      "num": 81253,
+      "word": "开幕式女骑手",
+      "onboard_time": 1722028932,
+      "rank": 49,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 81136,
@@ -18988,7 +19028,7 @@
     },
     {
       "raw_hot": 18693,
-      "num": 393283,
+      "num": 428792,
       "word": "曝光诊所140元药卖2980博主发声",
       "onboard_time": 1722023892,
       "rank": 9,

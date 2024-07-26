@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/27 05:19:21
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/27 05:36:10
 </p>
 </blockquote>
 <p>
@@ -1215,6 +1215,12 @@ TES（热度：1771255）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%BC%80%E5%B9%95%E5%BC%8F%20%E7%9C%9F%E7%9A%84%E7%89%9B%23" target="weibo">
+巴黎开幕式 真的牛（热度：1759538）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%BD%BB%20%E6%8A%84%E8%A2%AD%23" target="weibo">
 秦彻 抄袭（热度：1753553）
 </a>
@@ -1433,12 +1439,6 @@ Lenka袭榜（热度：1680168）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%92%95%E7%A5%A8%E6%A1%88%E6%9D%8E%E5%A8%9C%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%23" target="weibo">
 菲律宾撕票案李娜来自中国台湾（热度：1639276）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%BC%80%E5%B9%95%E5%BC%8F%20%E7%9C%9F%E7%9A%84%E7%89%9B%23" target="weibo">
-巴黎开幕式 真的牛（热度：1637109）
 </a>
 </li>
 
