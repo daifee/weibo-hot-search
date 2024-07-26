@@ -1,9 +1,9 @@
 {
   "startTime": 1721924711965,
-  "endTime": 1721967832889,
+  "endTime": 1721968692240,
   "band_list": [
     {
-      "raw_hot": 3089395,
+      "raw_hot": 3714268,
       "num": 533236,
       "word": "男性怀孕或成现实",
       "onboard_time": 1721965161,
@@ -51,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1229624,
-      "num": 1229624,
+      "raw_hot": 1273159,
+      "num": 1273159,
       "word": "开幕式 熬夜",
       "onboard_time": 1721964860,
       "rank": 48,
@@ -91,8 +91,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 911697,
-      "num": 911697,
+      "raw_hot": 945220,
+      "num": 945220,
       "word": "林依晨上恋综了",
       "onboard_time": 1721966361,
       "rank": 3,
@@ -105,6 +105,14 @@
       "onboard_time": 1721961739,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 846930,
+      "num": 575152,
+      "word": "刘宇自曝巡演售罄依旧亏本",
+      "onboard_time": 1721966600,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 779924,
@@ -163,16 +171,16 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 567302,
-      "num": 567302,
+      "raw_hot": 575615,
+      "num": 575615,
       "word": "韩国博主来中国的街拍",
       "onboard_time": 1721964378,
       "rank": 30,
       "category": "情感"
     },
     {
-      "raw_hot": 562559,
-      "num": 562559,
+      "raw_hot": 572653,
+      "num": 572653,
       "word": "巴黎奥运北京时间凌晨开幕",
       "onboard_time": 1721951419,
       "rank": 9,
@@ -281,14 +289,6 @@
       "onboard_time": 1721918360,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 486485,
-      "num": 486485,
-      "word": "刘宇自曝巡演售罄依旧亏本",
-      "onboard_time": 1721966600,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 478365,
@@ -427,20 +427,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 327487,
+      "num": 327487,
+      "word": "校方通报球员被女教练连扇耳光",
+      "onboard_time": 1721965761,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 319893,
+      "num": 319893,
+      "word": "异人之下真香了",
+      "onboard_time": 1721966122,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 315162,
       "num": 315162,
       "word": "蒋敦豪晒十个勤天合照",
       "onboard_time": 1721920581,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 313569,
-      "num": 313569,
-      "word": "校方通报球员被女教练连扇耳光",
-      "onboard_time": 1721965761,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 302050,
@@ -471,14 +479,6 @@
       "num": 291571,
       "word": "异人之下上映",
       "onboard_time": 1721958680,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 291419,
-      "num": 291419,
-      "word": "异人之下真香了",
-      "onboard_time": 1721966122,
       "rank": 23,
       "category": "电影"
     },
@@ -523,12 +523,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257639,
+      "num": 257639,
+      "word": "汪苏泷第二轮唱流沙",
+      "onboard_time": 1721968342,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245584,
       "num": 312207,
       "word": "张艺谋再次操刀奥运会开幕",
       "onboard_time": 1721959759,
       "rank": 15,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 244575,
+      "num": 244575,
+      "word": "紫色跑道为什么有利于比赛",
+      "onboard_time": 1721963539,
+      "rank": 34,
+      "category": "体育,科学科普"
     },
     {
       "raw_hot": 243961,
@@ -545,6 +561,22 @@
       "onboard_time": 1721916860,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233341,
+      "num": 544326,
+      "word": "番茄小说多个作品高度雷同",
+      "onboard_time": 1721966421,
+      "rank": 9,
+      "category": "读书作家,作品衍生"
+    },
+    {
+      "raw_hot": 225596,
+      "num": 225596,
+      "word": "官方通报古茗奶茶中疑有血痰",
+      "onboard_time": 1721968282,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216345,
@@ -571,12 +603,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208031,
-      "num": 208031,
-      "word": "紫色跑道为什么有利于比赛",
-      "onboard_time": 1721963539,
+      "raw_hot": 206511,
+      "num": 206511,
+      "word": "汪顺巴黎奥运首支vlog",
+      "onboard_time": 1721968162,
       "rank": 34,
-      "category": "体育,科学科普"
+      "category": "体育"
     },
     {
       "raw_hot": 202798,
@@ -595,12 +627,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 201339,
+      "num": 201339,
+      "word": "镖人",
+      "onboard_time": 1721964441,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 201290,
       "num": 201290,
       "word": "奥运会",
       "onboard_time": 1721960119,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200411,
+      "num": 200411,
+      "word": "广西大爷靠姆巴佩卖红薯走红",
+      "onboard_time": 1721967921,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199988,
+      "num": 199988,
+      "word": "KPL梦之队全员换头像",
+      "onboard_time": 1721967741,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 199681,
@@ -611,12 +667,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 192735,
+      "num": 451956,
+      "word": "路政干部沦为拦路虎5年贪上百万",
+      "onboard_time": 1721963779,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192578,
       "num": 192578,
       "word": "巴黎奥运会到底有多浪漫",
       "onboard_time": 1721960241,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191859,
+      "num": 200131,
+      "word": "京东校招将提供16000个岗位",
+      "onboard_time": 1721967982,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 191455,
@@ -635,14 +707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187817,
-      "num": 187817,
-      "word": "镖人",
-      "onboard_time": 1721964441,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 186001,
       "num": 186001,
       "word": "陈道明入行50年第一次跑厅",
@@ -651,12 +715,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 183407,
-      "num": 451956,
-      "word": "路政干部沦为拦路虎5年贪上百万",
-      "onboard_time": 1721963779,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 185780,
+      "num": 196323,
+      "word": "孙楠决赛自弹自唱",
+      "onboard_time": 1721967861,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 182397,
@@ -691,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174246,
+      "num": 174246,
+      "word": "邓为行为淡人精神浓人",
+      "onboard_time": 1721967622,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 173575,
       "num": 173575,
       "word": "3名中国游客在肯尼亚遇车祸身亡",
@@ -707,12 +779,36 @@
       "category": "电影"
     },
     {
-      "raw_hot": 166906,
-      "num": 166906,
+      "raw_hot": 169376,
+      "num": 169376,
+      "word": "百花奖日程",
+      "onboard_time": 1721968041,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 168586,
+      "num": 168586,
+      "word": "中餐厅全员征集奥运菜菜名",
+      "onboard_time": 1721968582,
+      "rank": 46,
+      "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 168443,
+      "num": 168443,
       "word": "吉林一公安局长和辅警救灾遇险失联",
       "onboard_time": 1721964080,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165659,
+      "num": 165659,
+      "word": "喜人奇妙夜",
+      "onboard_time": 1721968401,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 164954,
@@ -737,6 +833,14 @@
       "onboard_time": 1721954001,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163895,
+      "num": 163895,
+      "word": "篮球运动员曾八次担任奥运会开幕式旗手",
+      "onboard_time": 1721965221,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 163727,
@@ -771,28 +875,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 160536,
-      "num": 160536,
-      "word": "KPL梦之队全员换头像",
-      "onboard_time": 1721967741,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 157906,
       "num": 157906,
       "word": "歌手彩排",
       "onboard_time": 1721952620,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157868,
-      "num": 157868,
-      "word": "邓为行为淡人精神浓人",
-      "onboard_time": 1721967622,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 154441,
@@ -809,14 +897,6 @@
       "onboard_time": 1721911460,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152809,
-      "num": 152809,
-      "word": "篮球运动员曾八次担任奥运会开幕式旗手",
-      "onboard_time": 1721965221,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 152116,
@@ -945,14 +1025,6 @@
       "onboard_time": 1721918242,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 126987,
-      "num": 544326,
-      "word": "番茄小说多个作品高度雷同",
-      "onboard_time": 1721966421,
-      "rank": 9,
-      "category": "读书作家,作品衍生"
     },
     {
       "raw_hot": 126086,
@@ -1091,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97334,
+      "num": 470353,
+      "word": "奶茶袋治好了年轻人的包包焦虑吗",
+      "onboard_time": 1721968222,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97105,
       "num": 121388,
       "word": "TFBOYS头发梳成大人模样是凯妈做的",
@@ -1099,20 +1179,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94277,
+      "num": 1076976,
+      "word": "那抹中国红永远让人热血沸腾",
+      "onboard_time": 1721959519,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92415,
       "num": 92415,
       "word": "娜扎让陈哲远管管梁洁",
       "onboard_time": 1721947634,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 91370,
-      "num": 1055069,
-      "word": "那抹中国红永远让人热血沸腾",
-      "onboard_time": 1721959519,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 91204,
@@ -1456,6 +1536,14 @@
       "word": "盲人推拿师用上了语音洗衣机",
       "onboard_time": 1721949195,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19178,
+      "num": 223214,
+      "word": "英警察粗暴执法脚踩男子头部",
+      "onboard_time": 1721968642,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
