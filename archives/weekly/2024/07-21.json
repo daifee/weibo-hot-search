@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1722025366306,
+  "endTime": 1722026058416,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -3179,6 +3179,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 660170,
+      "num": 660170,
+      "word": "美国包船",
+      "onboard_time": 1722024253,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 657698,
       "num": 520192,
       "word": "台风格美登陆福建位置又变了",
@@ -4163,6 +4171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 523652,
+      "num": 523652,
+      "word": "变装皇后",
+      "onboard_time": 1722022573,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 522420,
       "num": 522420,
       "word": "巴黎奥运会 空调",
@@ -4283,14 +4299,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 505845,
-      "num": 505845,
-      "word": "美国包船",
-      "onboard_time": 1722024253,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 504415,
       "num": 504415,
       "word": "多家航司回应一人带三娃坐不了飞机",
@@ -4305,14 +4313,6 @@
       "onboard_time": 1721780657,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 501850,
-      "num": 501850,
-      "word": "变装皇后",
-      "onboard_time": 1722022573,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 501476,
@@ -6435,6 +6435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 316381,
+      "num": 316381,
+      "word": "以色列",
+      "onboard_time": 1722022394,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 316130,
       "num": 307301,
       "word": "广西大爷靠姆巴佩卖红薯走红",
@@ -7139,14 +7147,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 285466,
-      "num": 285466,
-      "word": "以色列",
-      "onboard_time": 1722022394,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 285282,
       "num": 285282,
       "word": "邓为直播",
@@ -7409,6 +7409,14 @@
       "onboard_time": 1721981660,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 269601,
+      "num": 269601,
+      "word": "日本代表团这么多人",
+      "onboard_time": 1722022452,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 269384,
@@ -8091,14 +8099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 242844,
-      "num": 242844,
-      "word": "日本代表团这么多人",
-      "onboard_time": 1722022452,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 242742,
       "num": 242742,
       "word": "成都暴雨",
@@ -8603,6 +8603,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 230909,
+      "num": 230909,
+      "word": "法国要不要擦下镜头呢",
+      "onboard_time": 1722020714,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 230612,
       "num": 230612,
       "word": "人民币不开户也可以买美股",
@@ -8897,14 +8905,6 @@
       "onboard_time": 1721879780,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 223353,
-      "num": 223353,
-      "word": "法国要不要擦下镜头呢",
-      "onboard_time": 1722020714,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 223264,
@@ -11875,6 +11875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 186103,
+      "num": 186103,
+      "word": "中国台北",
+      "onboard_time": 1722024553,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186001,
       "num": 186001,
       "word": "陈道明入行50年第一次跑厅",
@@ -12009,6 +12017,14 @@
       "onboard_time": 1721739258,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184020,
+      "num": 184020,
+      "word": "没有俄罗斯",
+      "onboard_time": 1722024672,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 184006,
@@ -13883,6 +13899,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 160724,
+      "num": 160724,
+      "word": "imagine",
+      "onboard_time": 1722025632,
+      "rank": 29,
+      "category": "音乐,体育"
+    },
+    {
       "raw_hot": 160672,
       "num": 160672,
       "word": "LNG战胜JDG",
@@ -14009,14 +14033,6 @@
       "onboard_time": 1721710582,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 158652,
-      "num": 158652,
-      "word": "没有俄罗斯",
-      "onboard_time": 1722024672,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 158550,
@@ -14987,6 +15003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141136,
+      "num": 141136,
+      "word": "终于等到詹姆斯",
+      "onboard_time": 1722025332,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140977,
       "num": 140977,
       "word": "巴黎奥运会设计已经是nextlevel了",
@@ -15579,14 +15603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129011,
-      "num": 129011,
-      "word": "中国台北",
-      "onboard_time": 1722024553,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 128901,
       "num": 128901,
       "word": "BLG战胜WBG",
@@ -15995,6 +16011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116667,
+      "num": 116667,
+      "word": "卢浮宫奇妙夜 有意思",
+      "onboard_time": 1722021854,
+      "rank": 41,
+      "category": "体育,演出"
+    },
+    {
       "raw_hot": 116614,
       "num": 116614,
       "word": "贵州警方通报男子持刀杀害一女子",
@@ -16051,14 +16075,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 114633,
-      "num": 114633,
-      "word": "卢浮宫奇妙夜 有意思",
-      "onboard_time": 1722021854,
-      "rank": 41,
-      "category": "体育,演出"
-    },
-    {
       "raw_hot": 114551,
       "num": 114551,
       "word": "最近河北是捅了明星窝吧",
@@ -16105,6 +16121,14 @@
       "onboard_time": 1721560337,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112324,
+      "num": 112324,
+      "word": "巴黎奥运开幕式 好癫好爱",
+      "onboard_time": 1722025691,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 112103,
@@ -16451,6 +16475,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 96404,
+      "num": 96404,
+      "word": "巴黎奥运最伟大最震撼的环节",
+      "onboard_time": 1722025393,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96083,
       "num": 166515,
       "word": "村委会回应男子用赵露思旧照行骗",
@@ -16555,14 +16587,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 92757,
-      "num": 92757,
-      "word": "终于等到詹姆斯",
-      "onboard_time": 1722025332,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 92415,
       "num": 92415,
       "word": "娜扎让陈哲远管管梁洁",
@@ -16593,6 +16617,14 @@
       "onboard_time": 1721811620,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90092,
+      "num": 90092,
+      "word": "法国 一个P值点满的国家",
+      "onboard_time": 1722025512,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 89124,
@@ -16641,6 +16673,14 @@
       "onboard_time": 1721483660,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85951,
+      "num": 85951,
+      "word": "雨淋钢琴 火烧钢琴",
+      "onboard_time": 1722025932,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 85884,
@@ -18148,7 +18188,7 @@
     },
     {
       "raw_hot": 36888,
-      "num": 224619,
+      "num": 317867,
       "word": "LVMH法式运动优雅",
       "onboard_time": 1722024313,
       "rank": 19,
@@ -18915,6 +18955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18693,
+      "num": 393283,
+      "word": "曝光诊所140元药卖2980博主发声",
+      "onboard_time": 1722023892,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18523,
       "num": 26227,
       "word": "少年白马醉春风",
@@ -19048,14 +19096,6 @@
       "word": "切实保障人民群众生命财产安全",
       "onboard_time": 1721508011,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12907,
-      "num": 393283,
-      "word": "曝光诊所140元药卖2980博主发声",
-      "onboard_time": 1722023892,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
