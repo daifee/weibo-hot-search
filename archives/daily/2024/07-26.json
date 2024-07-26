@@ -1,6 +1,6 @@
 {
   "startTime": 1721924711965,
-  "endTime": 1721964156590,
+  "endTime": 1721964986754,
   "band_list": [
     {
       "raw_hot": 1915128,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1136912,
-      "num": 344782,
+      "num": 432382,
       "word": "王能能承认与罗拉吵架",
       "onboard_time": 1721959280,
       "rank": 10,
@@ -65,6 +65,14 @@
       "onboard_time": 1721920399,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 873281,
+      "num": 873281,
+      "word": "在法国吃到了混血煎饼果子",
+      "onboard_time": 1721961739,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 779924,
@@ -107,14 +115,6 @@
       "category": "网红,体育"
     },
     {
-      "raw_hot": 688501,
-      "num": 688501,
-      "word": "在法国吃到了混血煎饼果子",
-      "onboard_time": 1721961739,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 672942,
       "num": 672942,
       "word": "台风格美将由福建移入江西",
@@ -155,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 546397,
+      "num": 546397,
+      "word": "蓝盈莹从不嘻嘻到嘻嘻",
+      "onboard_time": 1721962639,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 538307,
       "num": 538307,
       "word": "河南小伙高考529分被清华录取",
@@ -192,6 +200,22 @@
       "word": "上海21岁小伙为救父亲溺水身亡",
       "onboard_time": 1721959940,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 507977,
+      "num": 341197,
+      "word": "吴昕劝被家暴的旺旺妈妈再婚",
+      "onboard_time": 1721964680,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 507172,
+      "num": 507172,
+      "word": "台风后生蚝遍地市民组团赶海",
+      "onboard_time": 1721961260,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -347,20 +371,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 324241,
-      "num": 324241,
-      "word": "台风后生蚝遍地市民组团赶海",
-      "onboard_time": 1721961260,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 318850,
-      "num": 312207,
-      "word": "蓝盈莹从不嘻嘻到嘻嘻",
-      "onboard_time": 1721962639,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 335004,
+      "num": 335004,
+      "word": "为了奥运会巴黎地铁椅子终于洗了",
+      "onboard_time": 1721960299,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 315162,
@@ -385,14 +401,6 @@
       "onboard_time": 1721936352,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 292330,
-      "num": 292330,
-      "word": "为了奥运会巴黎地铁椅子终于洗了",
-      "onboard_time": 1721960299,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 291949,
@@ -475,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236122,
+      "num": 231709,
+      "word": "韩国博主来中国的街拍",
+      "onboard_time": 1721964378,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 216345,
       "num": 216345,
       "word": "刘梓晨",
@@ -483,20 +499,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 214564,
+      "num": 214564,
+      "word": "朴彩英洛杉矶街拍生图",
+      "onboard_time": 1721960840,
+      "rank": 34,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 211541,
       "num": 325070,
       "word": "甘肃暴雨致河水暴涨冲垮桥梁",
       "onboard_time": 1721959880,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208205,
-      "num": 208205,
-      "word": "朴彩英洛杉矶街拍生图",
-      "onboard_time": 1721960840,
-      "rank": 34,
-      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 202798,
@@ -587,6 +603,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175399,
+      "num": 175399,
+      "word": "镖人",
+      "onboard_time": 1721964441,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 175225,
+      "num": 175225,
+      "word": "这6种面相可能是身体在报警",
+      "onboard_time": 1721961681,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 174659,
       "num": 174659,
       "word": "刘亚仁方否认性侵男性",
@@ -609,6 +641,14 @@
       "onboard_time": 1721950096,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 164826,
+      "num": 164826,
+      "word": "吉林一公安局长和辅警救灾遇险失联",
+      "onboard_time": 1721964080,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164035,
@@ -643,6 +683,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 162089,
+      "num": 162089,
+      "word": "李大霄退休",
+      "onboard_time": 1721964559,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 157906,
       "num": 157906,
       "word": "歌手彩排",
@@ -675,14 +723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150538,
-      "num": 150538,
-      "word": "这6种面相可能是身体在报警",
-      "onboard_time": 1721961681,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 149100,
       "num": 149100,
       "word": "商贷利率逼近公积金",
@@ -707,12 +747,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 146312,
+      "num": 146312,
+      "word": "开幕式 熬夜",
+      "onboard_time": 1721964860,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141081,
       "num": 141081,
       "word": "密逃的别名是许凯丢脸史吧",
       "onboard_time": 1721921480,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140308,
+      "num": 140308,
+      "word": "全红婵的真显眼包",
+      "onboard_time": 1721964621,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 139181,
@@ -744,14 +800,6 @@
       "word": "4岁小男孩动作娴熟帮爸爸搬卸桶装水",
       "onboard_time": 1721962940,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 133511,
-      "num": 133511,
-      "word": "吉林一公安局长和辅警救灾遇险失联",
-      "onboard_time": 1721964080,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -883,6 +931,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 106113,
+      "num": 280345,
+      "word": "肉眼可见的电量增长速度",
+      "onboard_time": 1721961320,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 104291,
       "num": 121425,
       "word": "刘耀文头像",
@@ -1011,12 +1067,20 @@
       "category": "体育,科学科普"
     },
     {
-      "raw_hot": 68372,
-      "num": 234260,
-      "word": "肉眼可见的电量增长速度",
-      "onboard_time": 1721961320,
-      "rank": 45,
-      "category": "汽车"
+      "raw_hot": 70023,
+      "num": 893755,
+      "word": "那抹中国红永远让人热血沸腾",
+      "onboard_time": 1721959519,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 69299,
+      "num": 451956,
+      "word": "路政干部沦为拦路虎5年贪上百万",
+      "onboard_time": 1721963779,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67437,
@@ -1059,7 +1123,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 51954,
+      "raw_hot": 55943,
       "num": 231700,
       "word": "英国王室不动产收益超100亿元",
       "onboard_time": 1721964140,
@@ -1067,24 +1131,24 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 49869,
-      "num": 748775,
-      "word": "那抹中国红永远让人热血沸腾",
-      "onboard_time": 1721959519,
-      "rank": 2,
-      "category": "体育"
-    },
-    {
       "raw_hot": 48525,
-      "num": 290596,
+      "num": 323030,
       "word": "双奥导演张艺谋又来了",
       "onboard_time": 1721963240,
       "rank": 20,
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 44589,
+      "num": 231768,
+      "word": "日本尝试喂海胆吃卷心菜",
+      "onboard_time": 1721964799,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44578,
-      "num": 312268,
+      "num": 324428,
       "word": "有基民赎回公募用来提前还房贷",
       "onboard_time": 1721963779,
       "rank": 14,
@@ -1193,14 +1257,6 @@
       "onboard_time": 1721933472,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 25247,
-      "num": 324134,
-      "word": "路政干部沦为拦路虎5年贪上百万",
-      "onboard_time": 1721963779,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25216,
@@ -1313,6 +1369,9 @@
     },
     {
       "word": "#习近平和厦航的故事#"
+    },
+    {
+      "word": "#习近平的奥林匹克情缘#"
     }
   ]
 }
