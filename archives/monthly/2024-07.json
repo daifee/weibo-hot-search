@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721975295677,
+  "endTime": 1721976075112,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -2587,6 +2587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1380073,
+      "num": 1380073,
+      "word": "女子穿吊带被老人当街指责没家教",
+      "onboard_time": 1721969961,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1379804,
       "num": 1379804,
       "word": "日本已有1144例食人菌感染病例",
@@ -2633,14 +2641,6 @@
       "onboard_time": 1721274198,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1367068,
-      "num": 1367068,
-      "word": "女子穿吊带被老人当街指责没家教",
-      "onboard_time": 1721969961,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1365348,
@@ -4467,6 +4467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1063947,
+      "num": 1063947,
+      "word": "陈妍希沈月淘汰",
+      "onboard_time": 1721973080,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1063438,
       "num": 1063438,
       "word": "儿子给妈妈缠了1把扇子后暑假没了",
@@ -4721,14 +4729,6 @@
       "onboard_time": 1721386399,
       "rank": 12,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1036317,
-      "num": 1036317,
-      "word": "陈妍希沈月淘汰",
-      "onboard_time": 1721973080,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 1035890,
@@ -12643,6 +12643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 559174,
+      "num": 559174,
+      "word": "奶茶袋治好了年轻人的包包焦虑吗",
+      "onboard_time": 1721968222,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 559107,
       "num": 559107,
       "word": "上海三甲医院医生泄露患者隐私已被调查",
@@ -13056,14 +13064,6 @@
       "word": "女子漫展穿和服被保安拒绝入场",
       "onboard_time": 1721555959,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 548693,
-      "num": 548693,
-      "word": "奶茶袋治好了年轻人的包包焦虑吗",
-      "onboard_time": 1721968222,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -15347,6 +15347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 486346,
+      "num": 486346,
+      "word": "奥运是和你一起难忘的夏天",
+      "onboard_time": 1721970322,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 485971,
       "num": 485971,
       "word": "湖南遇险牺牲的抗洪干部年仅30岁",
@@ -17523,6 +17531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 438848,
+      "num": 438848,
+      "word": "权侑莉ins删图",
+      "onboard_time": 1721973859,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 438646,
       "num": 438646,
       "word": "你好星期六",
@@ -17969,14 +17985,6 @@
       "onboard_time": 1721148014,
       "rank": 49,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 431271,
-      "num": 431271,
-      "word": "奥运是和你一起难忘的夏天",
-      "onboard_time": 1721970322,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 431165,
@@ -18473,14 +18481,6 @@
       "onboard_time": 1721018182,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 419741,
-      "num": 419741,
-      "word": "权侑莉ins删图",
-      "onboard_time": 1721973859,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 419486,
@@ -25139,6 +25139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 297801,
+      "num": 297801,
+      "word": "于正cue白鹿",
+      "onboard_time": 1721975359,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 297515,
       "num": 297515,
       "word": "唐诡西行捅到疯窝了",
@@ -25249,6 +25257,14 @@
       "onboard_time": 1721874259,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 295924,
+      "num": 295924,
+      "word": "易烊千玺跳着下楼梯",
+      "onboard_time": 1721975239,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 295746,
@@ -26985,6 +27001,14 @@
       "onboard_time": 1721029038,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 273396,
+      "num": 210690,
+      "word": "汪涵老婆带儿子出游",
+      "onboard_time": 1721975720,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 273336,
@@ -30323,6 +30347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236747,
+      "num": 582550,
+      "word": "磕药进ICU学生母亲或与药店达成赔偿",
+      "onboard_time": 1721971820,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236457,
       "num": 236457,
       "word": "张贤胜公开退团原因",
@@ -31067,14 +31099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 230715,
-      "num": 582550,
-      "word": "磕药进ICU学生母亲或与药店达成赔偿",
-      "onboard_time": 1721971820,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 230612,
       "num": 230612,
       "word": "人民币不开户也可以买美股",
@@ -31755,6 +31779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225143,
+      "num": 527233,
+      "word": "这可能是史上最奢华又最抠门的奥运",
+      "onboard_time": 1721973618,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225116,
       "num": 225116,
       "word": "张真源告别奔跑吧",
@@ -32369,14 +32401,6 @@
       "onboard_time": 1720690458,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 220184,
-      "num": 220184,
-      "word": "易烊千玺跳着下楼梯",
-      "onboard_time": 1721975239,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 220179,
@@ -34251,6 +34275,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 209781,
+      "num": 209781,
+      "word": "时代少年团常州演唱会演出时间",
+      "onboard_time": 1721975539,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 209777,
       "num": 209777,
       "word": "王源 抢票",
@@ -35681,6 +35713,14 @@
       "onboard_time": 1720760899,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 204176,
+      "num": 204176,
+      "word": "肖战国外买的纪念品madeinChina",
+      "onboard_time": 1721975960,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 204148,
@@ -42835,6 +42875,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 178902,
+      "num": 178902,
+      "word": "王栎鑫俞灏明合唱最佳损友",
+      "onboard_time": 1721975179,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 178880,
+      "num": 178880,
+      "word": "中国队出征巴黎奥运国际形象宣传片",
+      "onboard_time": 1721974519,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178747,
       "num": 178747,
       "word": "混装化工油和食用油就是草菅人命",
@@ -43393,6 +43449,14 @@
       "onboard_time": 1721559680,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176456,
+      "num": 176456,
+      "word": "于正晒白鹿曾舜晞吐血剧照",
+      "onboard_time": 1721975660,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 176395,
@@ -45523,6 +45587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168808,
+      "num": 168808,
+      "word": "种地星球",
+      "onboard_time": 1721445800,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168789,
       "num": 168789,
       "word": "上半年买车均价比2019年贵3.7万元",
@@ -45928,6 +46000,14 @@
       "word": "种地吧爆火的原因",
       "onboard_time": 1721745981,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 167416,
+      "num": 312764,
+      "word": "抢婚吧哥们儿",
+      "onboard_time": 1721975119,
+      "rank": 19,
       "category": "综艺"
     },
     {
@@ -49659,6 +49739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153280,
+      "num": 153280,
+      "word": "剑网3无界ChinaJoy",
+      "onboard_time": 1721974819,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 153254,
       "num": 153254,
       "word": "吴磊疑似左脚受伤",
@@ -49824,6 +49912,14 @@
       "word": "崔永熙骑马射箭",
       "onboard_time": 1721182097,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 152621,
+      "num": 152621,
+      "word": "媒体评巴黎奥运10大高颜值女运动员",
+      "onboard_time": 1721975899,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -50483,6 +50579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150188,
+      "num": 150188,
+      "word": "KPL梦叽队C位出道",
+      "onboard_time": 1721975780,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 150115,
       "num": 144247,
       "word": "王鹤棣朴鲨合作",
@@ -50617,14 +50721,6 @@
       "onboard_time": 1721120299,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 149539,
-      "num": 149539,
-      "word": "中国队出征巴黎奥运国际形象宣传片",
-      "onboard_time": 1721974519,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 149522,
@@ -50841,6 +50937,14 @@
       "onboard_time": 1720694298,
       "rank": 35,
       "category": "汽车,互联网"
+    },
+    {
+      "raw_hot": 148526,
+      "num": 148526,
+      "word": "巴黎怎么做到连地上的隔离带都那么美",
+      "onboard_time": 1721973139,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 148510,
@@ -51281,14 +51385,6 @@
       "onboard_time": 1719981559,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 146894,
-      "num": 146894,
-      "word": "种地星球",
-      "onboard_time": 1721445800,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 146883,
@@ -53451,14 +53547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139084,
-      "num": 139084,
-      "word": "王栎鑫俞灏明合唱最佳损友",
-      "onboard_time": 1721975179,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 139078,
       "num": 103354,
       "word": "几十万套法拍房背后",
@@ -53577,6 +53665,14 @@
       "onboard_time": 1720786518,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138806,
+      "num": 150213,
+      "word": "印度女子生下2张脸4只胳膊婴儿",
+      "onboard_time": 1721975300,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138751,
@@ -54849,14 +54945,6 @@
       "onboard_time": 1720088359,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 134004,
-      "num": 134004,
-      "word": "剑网3无界ChinaJoy",
-      "onboard_time": 1721974819,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 133991,
@@ -56353,14 +56441,6 @@
       "onboard_time": 1721737880,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 128894,
-      "num": 139574,
-      "word": "巴黎怎么做到连地上的隔离带都那么美",
-      "onboard_time": 1721973139,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 128866,
@@ -58489,14 +58569,6 @@
       "onboard_time": 1720835597,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 120845,
-      "num": 527233,
-      "word": "这可能是史上最奢华又最抠门的奥运",
-      "onboard_time": 1721973618,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120807,
@@ -65699,14 +65771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 74783,
-      "num": 312764,
-      "word": "抢婚吧哥们儿",
-      "onboard_time": 1721975119,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 74754,
       "num": 591520,
       "word": "湾区最长地铁让1天逛5城不是梦",
@@ -68121,6 +68185,14 @@
       "onboard_time": 1720307713,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55968,
+      "num": 236141,
+      "word": "抽屉里的猫爆改哆啦B梦",
+      "onboard_time": 1721976020,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 55943,
@@ -74275,6 +74347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 14279,
+      "num": 153302,
+      "word": "沉浸式逛展降温",
+      "onboard_time": 1721975119,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 13995,
       "num": 178235,
       "word": "派出所出现极限拉扯暖心场面",
@@ -74705,14 +74785,6 @@
       "onboard_time": 1719945551,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 10265,
-      "num": 142925,
-      "word": "沉浸式逛展降温",
-      "onboard_time": 1721975119,
-      "rank": 42,
-      "category": "旅游"
     },
     {
       "raw_hot": 10210,

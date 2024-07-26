@@ -1,6 +1,6 @@
 {
   "startTime": 1721924711965,
-  "endTime": 1721975295677,
+  "endTime": 1721976075112,
   "band_list": [
     {
       "raw_hot": 3714268,
@@ -59,8 +59,8 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 1367068,
-      "num": 1367068,
+      "raw_hot": 1380073,
+      "num": 1380073,
       "word": "女子穿吊带被老人当街指责没家教",
       "onboard_time": 1721969961,
       "rank": 12,
@@ -99,8 +99,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1036317,
-      "num": 1036317,
+      "raw_hot": 1063947,
+      "num": 1063947,
       "word": "陈妍希沈月淘汰",
       "onboard_time": 1721973080,
       "rank": 4,
@@ -251,6 +251,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 559174,
+      "num": 559174,
+      "word": "奶茶袋治好了年轻人的包包焦虑吗",
+      "onboard_time": 1721968222,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 553094,
       "num": 553094,
       "word": "南科大录取通知书被指用错的地",
@@ -265,14 +273,6 @@
       "onboard_time": 1721943491,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 548693,
-      "num": 548693,
-      "word": "奶茶袋治好了年轻人的包包焦虑吗",
-      "onboard_time": 1721968222,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 546397,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 486346,
+      "num": 486346,
+      "word": "奥运是和你一起难忘的夏天",
+      "onboard_time": 1721970322,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 478365,
       "num": 324016,
       "word": "男子几天内狂炫50斤西瓜致带状疱疹",
@@ -395,20 +403,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 438848,
+      "num": 438848,
+      "word": "权侑莉ins删图",
+      "onboard_time": 1721973859,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 437981,
       "num": 437981,
       "word": "唐诡西行 家暴的他破碎的她",
       "onboard_time": 1721955141,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 431271,
-      "num": 431271,
-      "word": "奥运是和你一起难忘的夏天",
-      "onboard_time": 1721970322,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 424095,
@@ -425,14 +433,6 @@
       "onboard_time": 1721922859,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 419741,
-      "num": 419741,
-      "word": "权侑莉ins删图",
-      "onboard_time": 1721973859,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 415469,
@@ -571,12 +571,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297801,
+      "num": 297801,
+      "word": "于正cue白鹿",
+      "onboard_time": 1721975359,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 296147,
       "num": 296147,
       "word": "歌王之战歌单",
       "onboard_time": 1721972482,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 295924,
+      "num": 295924,
+      "word": "易烊千玺跳着下楼梯",
+      "onboard_time": 1721975239,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 291949,
@@ -601,6 +617,14 @@
       "onboard_time": 1721920160,
       "rank": 16,
       "category": "美食"
+    },
+    {
+      "raw_hot": 273396,
+      "num": 210690,
+      "word": "汪涵老婆带儿子出游",
+      "onboard_time": 1721975720,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 265906,
@@ -691,10 +715,18 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 230715,
+      "raw_hot": 236747,
       "num": 582550,
       "word": "磕药进ICU学生母亲或与药店达成赔偿",
       "onboard_time": 1721971820,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225143,
+      "num": 527233,
+      "word": "这可能是史上最奢华又最抠门的奥运",
+      "onboard_time": 1721973618,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -705,14 +737,6 @@
       "onboard_time": 1721972360,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 220184,
-      "num": 220184,
-      "word": "易烊千玺跳着下楼梯",
-      "onboard_time": 1721975239,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 216345,
@@ -747,12 +771,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209781,
+      "num": 209781,
+      "word": "时代少年团常州演唱会演出时间",
+      "onboard_time": 1721975539,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 206511,
       "num": 206511,
       "word": "汪顺巴黎奥运首支vlog",
       "onboard_time": 1721968162,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204176,
+      "num": 204176,
+      "word": "肖战国外买的纪念品madeinChina",
+      "onboard_time": 1721975960,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 202798,
@@ -923,12 +963,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178902,
+      "num": 178902,
+      "word": "王栎鑫俞灏明合唱最佳损友",
+      "onboard_time": 1721975179,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 178880,
+      "num": 178880,
+      "word": "中国队出征巴黎奥运国际形象宣传片",
+      "onboard_time": 1721974519,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177180,
       "num": 634607,
       "word": "不办卡不囤课穷鬼健身火了",
       "onboard_time": 1721970021,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176456,
+      "num": 176456,
+      "word": "于正晒白鹿曾舜晞吐血剧照",
+      "onboard_time": 1721975660,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 176044,
@@ -995,6 +1059,14 @@
       "category": "作品衍生,体育"
     },
     {
+      "raw_hot": 168808,
+      "num": 168808,
+      "word": "种地星球",
+      "onboard_time": 1721975960,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168443,
       "num": 168443,
       "word": "吉林一公安局长和辅警救灾遇险失联",
@@ -1009,6 +1081,14 @@
       "onboard_time": 1721970501,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 167416,
+      "num": 312764,
+      "word": "抢婚吧哥们儿",
+      "onboard_time": 1721975119,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 165659,
@@ -1099,12 +1179,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153280,
+      "num": 153280,
+      "word": "剑网3无界ChinaJoy",
+      "onboard_time": 1721974819,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 153017,
       "num": 153017,
       "word": "台风格美影响或波及10余省份",
       "onboard_time": 1721911460,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152621,
+      "num": 152621,
+      "word": "媒体评巴黎奥运10大高颜值女运动员",
+      "onboard_time": 1721975899,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 152116,
@@ -1123,12 +1219,12 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 149539,
-      "num": 149539,
-      "word": "中国队出征巴黎奥运国际形象宣传片",
-      "onboard_time": 1721974519,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 150188,
+      "num": 150188,
+      "word": "KPL梦叽队C位出道",
+      "onboard_time": 1721975780,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 149100,
@@ -1153,6 +1249,14 @@
       "onboard_time": 1721919921,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148526,
+      "num": 148526,
+      "word": "巴黎怎么做到连地上的隔离带都那么美",
+      "onboard_time": 1721973139,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 147474,
@@ -1211,12 +1315,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139084,
-      "num": 139084,
-      "word": "王栎鑫俞灏明合唱最佳损友",
-      "onboard_time": 1721975179,
+      "raw_hot": 138806,
+      "num": 150213,
+      "word": "印度女子生下2张脸4只胳膊婴儿",
+      "onboard_time": 1721975300,
       "rank": 45,
-      "category": "综艺"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138154,
@@ -1241,14 +1345,6 @@
       "onboard_time": 1721962940,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134004,
-      "num": 134004,
-      "word": "剑网3无界ChinaJoy",
-      "onboard_time": 1721974819,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 132036,
@@ -1281,14 +1377,6 @@
       "onboard_time": 1721918242,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 128894,
-      "num": 139574,
-      "word": "巴黎怎么做到连地上的隔离带都那么美",
-      "onboard_time": 1721973139,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 126086,
@@ -1345,14 +1433,6 @@
       "onboard_time": 1721920700,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120845,
-      "num": 527233,
-      "word": "这可能是史上最奢华又最抠门的奥运",
-      "onboard_time": 1721973618,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118220,
@@ -1547,14 +1627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 74783,
-      "num": 312764,
-      "word": "抢婚吧哥们儿",
-      "onboard_time": 1721975119,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 73483,
       "num": 73483,
       "word": "6位艺术大咖集体入驻话奥运",
@@ -1601,6 +1673,14 @@
       "onboard_time": 1721971160,
       "rank": 49,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 55968,
+      "num": 236141,
+      "word": "抽屉里的猫爆改哆啦B梦",
+      "onboard_time": 1721976020,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 55952,
@@ -1843,19 +1923,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14279,
+      "num": 153302,
+      "word": "沉浸式逛展降温",
+      "onboard_time": 1721975119,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 10476,
       "num": 20669,
       "word": "40年前的老西安什么样",
       "onboard_time": 1721936291,
       "rank": 49,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 10265,
-      "num": 142925,
-      "word": "沉浸式逛展降温",
-      "onboard_time": 1721975119,
-      "rank": 42,
       "category": "旅游"
     }
   ],
