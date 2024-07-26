@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721998279854,
+  "endTime": 1722000158778,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -35,6 +35,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 10416436,
+      "num": 10416436,
+      "word": "那英吃了回春丹",
+      "onboard_time": 1721999423,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 9407681,
+      "num": 9407681,
+      "word": "歌手总决赛",
+      "onboard_time": 1721991739,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 8749772,
       "num": 8749772,
       "word": "董宇辉离职",
@@ -57,14 +73,6 @@
       "onboard_time": 1721641343,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 4241386,
-      "num": 4241386,
-      "word": "歌手总决赛",
-      "onboard_time": 1721991739,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 3714268,
@@ -355,6 +363,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2050803,
+      "num": 315044,
+      "word": "谭维维哭了",
+      "onboard_time": 1721998042,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2031512,
+      "num": 597836,
+      "word": "贾玲亮相奥委会主席晚宴",
+      "onboard_time": 1721995760,
+      "rank": 11,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 1985838,
       "num": 507671,
       "word": "见证历史",
@@ -369,6 +393,14 @@
       "onboard_time": 1721486603,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1959304,
+      "num": 297486,
+      "word": "汪苏泷忘词",
+      "onboard_time": 1721999121,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 1915128,
@@ -571,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1666443,
+      "num": 207639,
+      "word": "那英燃炸了",
+      "onboard_time": 1721999662,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1661891,
       "num": 1661891,
       "word": "13位少年倒了600000尾鱼苗",
@@ -715,14 +755,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1504880,
-      "num": 597836,
-      "word": "贾玲亮相奥委会主席晚宴",
-      "onboard_time": 1721995760,
-      "rank": 11,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 1503774,
       "num": 1503774,
       "word": "女子称拒绝镇干部前男友发生关系被打伤",
@@ -785,6 +817,14 @@
       "onboard_time": 1721708121,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1434421,
+      "num": 206475,
+      "word": "陈楚生谭维维好搭",
+      "onboard_time": 1721998521,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 1425914,
@@ -913,6 +953,14 @@
       "onboard_time": 1721880259,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1326727,
+      "num": 595989,
+      "word": "贾玲巴黎状态",
+      "onboard_time": 1721996179,
+      "rank": 14,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 1324585,
@@ -1097,22 +1145,6 @@
       "onboard_time": 1721882780,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1216992,
-      "num": 595989,
-      "word": "贾玲巴黎状态",
-      "onboard_time": 1721996179,
-      "rank": 14,
-      "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 1211011,
-      "num": 288359,
-      "word": "谭维维哭了",
-      "onboard_time": 1721998042,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 1207754,
@@ -1683,6 +1715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 958814,
+      "num": 203934,
+      "word": "迪玛希白月光回来了",
+      "onboard_time": 1721999062,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 955859,
       "num": 955859,
       "word": "在巴黎被中国的厕所侠救了",
@@ -1897,6 +1937,14 @@
       "onboard_time": 1721544558,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 876141,
+      "num": 203428,
+      "word": "古巨基一直看提词器",
+      "onboard_time": 1721999182,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 875757,
@@ -2827,6 +2875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 669340,
+      "num": 281986,
+      "word": "刘欢锐评",
+      "onboard_time": 1721997141,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 669074,
       "num": 669074,
       "word": "中信建投实习生说网上身份信息不实",
@@ -2963,14 +3019,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 641894,
-      "num": 281986,
-      "word": "刘欢锐评",
-      "onboard_time": 1721997141,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 640013,
       "num": 356117,
       "word": "长沙",
@@ -2985,6 +3033,14 @@
       "onboard_time": 1721700740,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 634477,
+      "num": 332329,
+      "word": "还我黄宣",
+      "onboard_time": 1721996301,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 633795,
@@ -4507,6 +4563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 443088,
+      "num": 270629,
+      "word": "乒乓球果然是顶流啊",
+      "onboard_time": 1721996361,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 442994,
       "num": 425059,
       "word": "密室大神版 svip还要收费",
@@ -4689,14 +4753,6 @@
       "onboard_time": 1721922859,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 423950,
-      "num": 332329,
-      "word": "还我黄宣",
-      "onboard_time": 1721996301,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 423415,
@@ -5089,14 +5145,6 @@
       "onboard_time": 1721566040,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 377326,
-      "num": 270629,
-      "word": "乒乓球果然是顶流啊",
-      "onboard_time": 1721996361,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 375950,
@@ -5515,6 +5563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350397,
+      "num": 265421,
+      "word": "马子佳婚礼",
+      "onboard_time": 1721997621,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 349718,
       "num": 349718,
       "word": "易烊千玺跳着下楼梯",
@@ -5561,14 +5617,6 @@
       "onboard_time": 1721867301,
       "rank": 17,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 343471,
-      "num": 265421,
-      "word": "马子佳婚礼",
-      "onboard_time": 1721997621,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 343224,
@@ -6691,6 +6739,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 279462,
+      "num": 612925,
+      "word": "大熊猫被自家娃遛了30分钟",
+      "onboard_time": 1721991680,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278789,
       "num": 278789,
       "word": "谁教李明德这么P图的",
@@ -6761,14 +6817,6 @@
       "onboard_time": 1721793922,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 273827,
-      "num": 612925,
-      "word": "大熊猫被自家娃遛了30分钟",
-      "onboard_time": 1721991680,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 273370,
@@ -7913,6 +7961,14 @@
       "onboard_time": 1721908340,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233015,
+      "num": 322340,
+      "word": "发条微博为中国健儿打call",
+      "onboard_time": 1721995640,
+      "rank": 29,
+      "category": "体育,互联网"
     },
     {
       "raw_hot": 232883,
@@ -9139,6 +9195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207901,
+      "num": 207901,
+      "word": "印度一工人挖出近20克拉钻石",
+      "onboard_time": 1721999662,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207720,
       "num": 207720,
       "word": "陕西垮塌桥4公里外发现2辆失联车",
@@ -10051,6 +10115,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 196945,
+      "num": 196945,
+      "word": "巴黎奥运助威曲龙腾",
+      "onboard_time": 1721999121,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196886,
       "num": 196886,
       "word": "汪苏泷古巨基唱放逐",
@@ -10065,6 +10137,14 @@
       "onboard_time": 1721795420,
       "rank": 49,
       "category": "体育,互联网"
+    },
+    {
+      "raw_hot": 196707,
+      "num": 196707,
+      "word": "中国代表团巴黎奥运全家福",
+      "onboard_time": 1721999121,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 196580,
@@ -10921,6 +11001,14 @@
       "onboard_time": 1721899098,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187571,
+      "num": 187571,
+      "word": "券商光速加强管理实习生接触范围",
+      "onboard_time": 1721999966,
+      "rank": 45,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 187532,
@@ -12225,14 +12313,6 @@
       "onboard_time": 1721899580,
       "rank": 46,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 170060,
-      "num": 322340,
-      "word": "发条微博为中国健儿打call",
-      "onboard_time": 1721995640,
-      "rank": 29,
-      "category": "体育,互联网"
     },
     {
       "raw_hot": 169999,
@@ -16155,6 +16235,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 63842,
+      "num": 206483,
+      "word": "法国铁路遭纵火等恶意袭击",
+      "onboard_time": 1721999484,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63671,
       "num": 440603,
       "word": "寿带鸟抖动尾羽像极了舞水袖",
@@ -16812,7 +16900,7 @@
     },
     {
       "raw_hot": 42346,
-      "num": 2755693,
+      "num": 3241580,
       "word": "高质量发展看四川",
       "onboard_time": 1721983459,
       "rank": 2,
@@ -17609,6 +17697,14 @@
       "onboard_time": 1721535978,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21244,
+      "num": 307185,
+      "word": "刘德华舞台魅力非凡",
+      "onboard_time": 1721998342,
+      "rank": 12,
+      "category": "演出"
     },
     {
       "raw_hot": 21183,
