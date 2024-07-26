@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1722011177149,
+  "endTime": 1722012080405,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 4120170,
+      "num": 4120170,
+      "word": "巴黎奥运开幕式",
+      "onboard_time": 1722002904,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3765386,
       "num": 453902,
       "word": "歌手 音乐竞技搞煽情",
@@ -137,14 +145,6 @@
       "onboard_time": 1721572161,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3348618,
-      "num": 3348618,
-      "word": "巴黎奥运开幕式",
-      "onboard_time": 1722002904,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 3319740,
@@ -259,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2408916,
+      "num": 2408916,
+      "word": "贾玲 奥运开幕式",
+      "onboard_time": 1722008661,
+      "rank": 3,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 2330012,
       "num": 2330012,
       "word": "汪苏泷 退票",
@@ -345,14 +353,6 @@
       "onboard_time": 1721998042,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2175070,
-      "num": 2175070,
-      "word": "贾玲 奥运开幕式",
-      "onboard_time": 1722008661,
-      "rank": 3,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 2133352,
@@ -1827,6 +1827,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 953794,
+      "num": 953794,
+      "word": "中信建投实习生称未被告知资料保密",
+      "onboard_time": 1722007942,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 948007,
       "num": 948007,
       "word": "iPhone17或将移除Plus机型",
@@ -2121,14 +2129,6 @@
       "onboard_time": 1721790978,
       "rank": 35,
       "category": "教育"
-    },
-    {
-      "raw_hot": 856355,
-      "num": 856355,
-      "word": "中信建投实习生称未被告知资料保密",
-      "onboard_time": 1722007942,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 856287,
@@ -2617,6 +2617,14 @@
       "onboard_time": 1721526198,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 733069,
+      "num": 733069,
+      "word": "巴黎下雨了",
+      "onboard_time": 1722010161,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 732692,
@@ -3731,6 +3739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 553686,
+      "num": 553686,
+      "word": "卢昱晓给工作人员做心肺复苏",
+      "onboard_time": 1722007821,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 553121,
       "num": 553121,
       "word": "illit卢玧我被曝霸凌",
@@ -4379,19 +4395,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 476356,
+      "num": 263984,
+      "word": "医生让我每晚睡前喝杯牛奶",
+      "onboard_time": 1722007341,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 476138,
       "num": 476138,
       "word": "单依纯给沈月化的烟熏妆",
       "onboard_time": 1721543599,
       "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 476113,
-      "num": 476113,
-      "word": "卢昱晓给工作人员做心肺复苏",
-      "onboard_time": 1722007821,
-      "rank": 41,
       "category": "综艺"
     },
     {
@@ -4787,14 +4803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 438159,
-      "num": 263984,
-      "word": "医生让我每晚睡前喝杯牛奶",
-      "onboard_time": 1722007341,
-      "rank": 32,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 437981,
       "num": 437981,
       "word": "唐诡西行 家暴的他破碎的她",
@@ -5083,6 +5091,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 406282,
+      "num": 406282,
+      "word": "中国队将乘坐16号船亮相开幕式",
+      "onboard_time": 1722009980,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 405435,
       "num": 201241,
       "word": "三亚酒店暴跌游客都去哪儿了",
@@ -5273,14 +5289,6 @@
       "onboard_time": 1721949616,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 385268,
-      "num": 385268,
-      "word": "巴黎下雨了",
-      "onboard_time": 1722010161,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 384464,
@@ -6985,14 +6993,6 @@
       "onboard_time": 1721706921,
       "rank": 31,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 279402,
-      "num": 279402,
-      "word": "中国队将乘坐16号船亮相开幕式",
-      "onboard_time": 1722009980,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 278789,
@@ -10075,6 +10075,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 199969,
+      "num": 199969,
+      "word": "时尚巴沙",
+      "onboard_time": 1722010999,
+      "rank": 37,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 199868,
       "num": 199868,
       "word": "aespa新加坡签售",
@@ -10585,14 +10593,6 @@
       "onboard_time": 1721644221,
       "rank": 14,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 194637,
-      "num": 194637,
-      "word": "时尚巴沙",
-      "onboard_time": 1722010999,
-      "rank": 37,
-      "category": "体育,时尚"
     },
     {
       "raw_hot": 194574,
@@ -13459,6 +13459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160115,
+      "num": 160115,
+      "word": "奥运会开幕式时间",
+      "onboard_time": 1722008482,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160003,
       "num": 160003,
       "word": "官方通报南阳三姐弟溺亡事故",
@@ -15731,6 +15739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105746,
+      "num": 401487,
+      "word": "全红婵说以后如果不跳就没人喜欢了",
+      "onboard_time": 1722011778,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105018,
       "num": 105018,
       "word": "Newjeans歌谣大战新闻图",
@@ -15993,6 +16009,14 @@
       "onboard_time": 1721947634,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91966,
+      "num": 514070,
+      "word": "初二男生保送清华大学本硕博连读",
+      "onboard_time": 1722007882,
+      "rank": 9,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 91557,
@@ -16545,14 +16569,6 @@
       "onboard_time": 1721628861,
       "rank": 9,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 68341,
-      "num": 514070,
-      "word": "初二男生保送清华大学本硕博连读",
-      "onboard_time": 1722007882,
-      "rank": 9,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 68312,

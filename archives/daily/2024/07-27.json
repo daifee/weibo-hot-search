@@ -1,6 +1,6 @@
 {
   "startTime": 1722011177149,
-  "endTime": 1722011177149,
+  "endTime": 1722012080405,
   "band_list": [
     {
       "raw_hot": 5413677,
@@ -11,20 +11,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 3348618,
-      "num": 3348618,
+      "raw_hot": 4120170,
+      "num": 4120170,
       "word": "巴黎奥运开幕式",
       "onboard_time": 1722002904,
       "rank": 1,
       "category": "体育"
     },
     {
-      "raw_hot": 2175070,
-      "num": 2175070,
+      "raw_hot": 2408916,
+      "num": 2408916,
       "word": "贾玲 奥运开幕式",
       "onboard_time": 1722008661,
       "rank": 3,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 953794,
+      "num": 953794,
+      "word": "中信建投实习生称未被告知资料保密",
+      "onboard_time": 1722007942,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 872790,
@@ -35,20 +43,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 856355,
-      "num": 856355,
-      "word": "中信建投实习生称未被告知资料保密",
-      "onboard_time": 1722007942,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 768761,
       "num": 768761,
       "word": "歌手排名",
       "onboard_time": 1722005664,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 733069,
+      "num": 733069,
+      "word": "巴黎下雨了",
+      "onboard_time": 1722010161,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 675483,
@@ -65,6 +73,14 @@
       "onboard_time": 1722004826,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 553686,
+      "num": 553686,
+      "word": "卢昱晓给工作人员做心肺复苏",
+      "onboard_time": 1722007821,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 522694,
@@ -99,15 +115,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 476113,
-      "num": 476113,
-      "word": "卢昱晓给工作人员做心肺复苏",
-      "onboard_time": 1722007821,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 438159,
+      "raw_hot": 476356,
       "num": 263984,
       "word": "医生让我每晚睡前喝杯牛奶",
       "onboard_time": 1722007341,
@@ -123,12 +131,20 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 385268,
-      "num": 385268,
-      "word": "巴黎下雨了",
-      "onboard_time": 1722010161,
-      "rank": 15,
+      "raw_hot": 406282,
+      "num": 406282,
+      "word": "中国队将乘坐16号船亮相开幕式",
+      "onboard_time": 1722009980,
+      "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 377304,
+      "num": 377304,
+      "word": "未央直播",
+      "onboard_time": 1722007282,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 335104,
@@ -137,14 +153,6 @@
       "onboard_time": 1721991739,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 333355,
-      "num": 333355,
-      "word": "未央直播",
-      "onboard_time": 1722007282,
-      "rank": 16,
-      "category": "电竞"
     },
     {
       "raw_hot": 317697,
@@ -177,14 +185,6 @@
       "onboard_time": 1722001344,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 279402,
-      "num": 279402,
-      "word": "中国队将乘坐16号船亮相开幕式",
-      "onboard_time": 1722009980,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 272043,
@@ -275,6 +275,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 199969,
+      "num": 199969,
+      "word": "时尚巴沙",
+      "onboard_time": 1722010999,
+      "rank": 37,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 199476,
       "num": 192479,
       "word": "王一博献唱奥运助威曲",
@@ -305,14 +313,6 @@
       "onboard_time": 1722005246,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 194637,
-      "num": 194637,
-      "word": "时尚巴沙",
-      "onboard_time": 1722010999,
-      "rank": 37,
-      "category": "体育,时尚"
     },
     {
       "raw_hot": 193950,
@@ -371,6 +371,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160115,
+      "num": 160115,
+      "word": "奥运会开幕式时间",
+      "onboard_time": 1722008482,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 148316,
+      "num": 148316,
+      "word": "张磊秒了海来阿木",
+      "onboard_time": 1721996240,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 105746,
+      "num": 401487,
+      "word": "全红婵说以后如果不跳就没人喜欢了",
+      "onboard_time": 1722011778,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101264,
       "num": 157465,
       "word": "奥运会",
@@ -379,7 +403,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 68341,
+      "raw_hot": 91966,
       "num": 514070,
       "word": "初二男生保送清华大学本硕博连读",
       "onboard_time": 1722007882,
@@ -388,7 +412,7 @@
     },
     {
       "raw_hot": 47976,
-      "num": 2332829,
+      "num": 2745297,
       "word": "闪耀奥运赛场的中国骄傲",
       "onboard_time": 1722001223,
       "rank": 2,
