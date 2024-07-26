@@ -1,6 +1,6 @@
 {
   "startTime": 1721924711965,
-  "endTime": 1721968692240,
+  "endTime": 1721971257576,
   "band_list": [
     {
       "raw_hot": 3714268,
@@ -25,6 +25,14 @@
       "onboard_time": 1721954420,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1778369,
+      "num": 1778369,
+      "word": "官方通报古茗奶茶中疑有血痰",
+      "onboard_time": 1721968282,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1702775,
@@ -83,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 991329,
+      "num": 991329,
+      "word": "汪顺 追我的人排到了法国",
+      "onboard_time": 1721969002,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 975714,
       "num": 975714,
       "word": "奥运会史上首次开放式开幕式",
@@ -107,12 +123,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 846930,
-      "num": 575152,
+      "raw_hot": 871040,
+      "num": 871040,
       "word": "刘宇自曝巡演售罄依旧亏本",
       "onboard_time": 1721966600,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 828888,
+      "num": 828888,
+      "word": "大二女生卧室被父母安装摄像头",
+      "onboard_time": 1721969420,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 779924,
@@ -161,6 +185,14 @@
       "onboard_time": 1721952198,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 642559,
+      "num": 642559,
+      "word": "番茄小说多个作品高度雷同",
+      "onboard_time": 1721966421,
+      "rank": 9,
+      "category": "读书作家,作品衍生"
     },
     {
       "raw_hot": 627643,
@@ -339,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 419900,
+      "num": 419900,
+      "word": "女子穿吊带被老人当街指责没家教",
+      "onboard_time": 1721969961,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 415469,
       "num": 415469,
       "word": "偶遇霍思燕带女儿喝下午茶",
@@ -379,12 +419,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 380577,
+      "num": 380577,
+      "word": "异人之下真香了",
+      "onboard_time": 1721966122,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 374236,
       "num": 374236,
       "word": "体重将近200斤的美国恶霸犬",
       "onboard_time": 1721949195,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 359748,
+      "num": 470353,
+      "word": "奶茶袋治好了年轻人的包包焦虑吗",
+      "onboard_time": 1721968222,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 356683,
@@ -435,20 +491,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 319893,
-      "num": 319893,
-      "word": "异人之下真香了",
-      "onboard_time": 1721966122,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 315162,
       "num": 315162,
       "word": "蒋敦豪晒十个勤天合照",
       "onboard_time": 1721920581,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 314901,
+      "num": 276835,
+      "word": "广西大爷靠姆巴佩卖红薯走红",
+      "onboard_time": 1721967921,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302050,
@@ -481,6 +537,14 @@
       "onboard_time": 1721958680,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 280241,
+      "num": 280241,
+      "word": "披荆斩棘的哥哥",
+      "onboard_time": 1721969481,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 280156,
@@ -563,19 +627,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 233341,
-      "num": 544326,
-      "word": "番茄小说多个作品高度雷同",
-      "onboard_time": 1721966421,
-      "rank": 9,
-      "category": "读书作家,作品衍生"
-    },
-    {
-      "raw_hot": 225596,
-      "num": 225596,
-      "word": "官方通报古茗奶茶中疑有血痰",
-      "onboard_time": 1721968282,
-      "rank": 27,
+      "raw_hot": 216650,
+      "num": 216650,
+      "word": "出版社回应高校教师出版不雅诗集",
+      "onboard_time": 1721967622,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -643,14 +699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200411,
-      "num": 200411,
-      "word": "广西大爷靠姆巴佩卖红薯走红",
-      "onboard_time": 1721967921,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 199988,
       "num": 199988,
       "word": "KPL梦之队全员换头像",
@@ -699,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190767,
+      "num": 190767,
+      "word": "肖战法国第七章vlog",
+      "onboard_time": 1721968881,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189092,
       "num": 189092,
       "word": "王栎鑫陆虎高情商发言",
@@ -723,12 +779,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182545,
+      "num": 182545,
+      "word": "中国跳水队终于有娘家人撑腰了",
+      "onboard_time": 1721970201,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182397,
       "num": 182397,
       "word": "王一博黑粉公开致歉",
       "onboard_time": 1721962162,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182095,
+      "num": 182095,
+      "word": "中餐厅全员征集奥运菜菜名",
+      "onboard_time": 1721968582,
+      "rank": 46,
+      "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 179696,
+      "num": 179696,
+      "word": "唐诡西行中暑剧",
+      "onboard_time": 1721969061,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 176044,
@@ -787,12 +867,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 168586,
-      "num": 168586,
-      "word": "中餐厅全员征集奥运菜菜名",
-      "onboard_time": 1721968582,
-      "rank": 46,
-      "category": "综艺,体育"
+      "raw_hot": 169065,
+      "num": 169065,
+      "word": "刘诗诗V中文版奥运封",
+      "onboard_time": 1721969780,
+      "rank": 38,
+      "category": "作品衍生,体育"
     },
     {
       "raw_hot": 168443,
@@ -801,6 +881,14 @@
       "onboard_time": 1721964080,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167487,
+      "num": 167487,
+      "word": "巅峰榜十大艺人",
+      "onboard_time": 1721970501,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 165659,
@@ -875,6 +963,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 159515,
+      "num": 211959,
+      "word": "韩生育率暴跌中年人成职场香饽饽",
+      "onboard_time": 1721967381,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157906,
       "num": 157906,
       "word": "歌手彩排",
@@ -907,14 +1003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150032,
-      "num": 150032,
-      "word": "出版社回应高校教师出版不雅诗集",
-      "onboard_time": 1721967622,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149100,
       "num": 149100,
       "word": "商贷利率逼近公积金",
@@ -937,6 +1025,14 @@
       "onboard_time": 1721919921,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147140,
+      "num": 147140,
+      "word": "巴赫说中国AI把奥运带到新高度",
+      "onboard_time": 1721969840,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 147134,
@@ -1099,6 +1195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110991,
+      "num": 634607,
+      "word": "不办卡不囤课穷鬼健身火了",
+      "onboard_time": 1721970021,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109511,
       "num": 109511,
       "word": "尹子维你就宠着徐冬冬吧",
@@ -1163,14 +1267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 97334,
-      "num": 470353,
-      "word": "奶茶袋治好了年轻人的包包焦虑吗",
-      "onboard_time": 1721968222,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97105,
       "num": 121388,
       "word": "TFBOYS头发梳成大人模样是凯妈做的",
@@ -1180,7 +1276,7 @@
     },
     {
       "raw_hot": 94277,
-      "num": 1076976,
+      "num": 1217564,
       "word": "那抹中国红永远让人热血沸腾",
       "onboard_time": 1721959519,
       "rank": 2,
@@ -1331,14 +1427,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 51700,
-      "num": 211959,
-      "word": "韩生育率暴跌中年人成职场香饽饽",
-      "onboard_time": 1721967381,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 44589,
       "num": 231768,
       "word": "日本尝试喂海胆吃卷心菜",
@@ -1369,6 +1457,14 @@
       "onboard_time": 1721929154,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 34444,
+      "num": 133076,
+      "word": "张艺谋再现中国人的要强",
+      "onboard_time": 1721971160,
+      "rank": 49,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 34375,

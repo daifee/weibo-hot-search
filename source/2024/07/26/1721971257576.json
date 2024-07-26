@@ -1,0 +1,410 @@
+{
+  "runTime": 1721971257576,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1778369,
+        "num": 1778369,
+        "word": "官方通报古茗奶茶中疑有血痰",
+        "onboard_time": 1721968282,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1546535,
+        "num": 1546535,
+        "word": "吴昕劝被家暴的旺旺妈妈再婚",
+        "onboard_time": 1721964680,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76494,
+        "num": 1217564,
+        "word": "那抹中国红永远让人热血沸腾",
+        "onboard_time": 1721959519,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 991329,
+        "num": 991329,
+        "word": "汪顺 追我的人排到了法国",
+        "onboard_time": 1721969002,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 871040,
+        "num": 871040,
+        "word": "刘宇自曝巡演售罄依旧亏本",
+        "onboard_time": 1721966600,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 828888,
+        "num": 828888,
+        "word": "大二女生卧室被父母安装摄像头",
+        "onboard_time": 1721969420,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 817153,
+        "num": 817153,
+        "word": "林依晨上恋综了",
+        "onboard_time": 1721966361,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 777016,
+        "num": 777016,
+        "word": "开幕式 熬夜",
+        "onboard_time": 1721964860,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 642559,
+        "num": 642559,
+        "word": "番茄小说多个作品高度雷同",
+        "onboard_time": 1721966421,
+        "rank": 8,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 110991,
+        "num": 634607,
+        "word": "不办卡不囤课穷鬼健身火了",
+        "onboard_time": 1721970021,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 626760,
+        "num": 626760,
+        "word": "6岁女孩遇到继母后如今判若两人",
+        "onboard_time": 1721955861,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500504,
+        "num": 500504,
+        "word": "王能能承认与罗拉吵架",
+        "onboard_time": 1721959280,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419900,
+        "num": 419900,
+        "word": "女子穿吊带被老人当街指责没家教",
+        "onboard_time": 1721969961,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380577,
+        "num": 380577,
+        "word": "异人之下真香了",
+        "onboard_time": 1721966122,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 377140,
+        "num": 377140,
+        "word": "巴黎奥运北京时间凌晨开幕",
+        "onboard_time": 1721951419,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 368093,
+        "num": 368093,
+        "word": "为什么精致女生坐高铁系列被喷",
+        "onboard_time": 1721955741,
+        "rank": 15,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 364497,
+        "num": 364497,
+        "word": "韩国博主来中国的街拍",
+        "onboard_time": 1721964378,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 359748,
+        "num": 359748,
+        "word": "奶茶袋治好了年轻人的包包焦虑吗",
+        "onboard_time": 1721968222,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296361,
+        "num": 296361,
+        "word": "校方通报球员被女教练连扇耳光",
+        "onboard_time": 1721965761,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280241,
+        "num": 280241,
+        "word": "披荆斩棘的哥哥",
+        "onboard_time": 1721969481,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2424794,
+        "num": 279548,
+        "word": "男性怀孕或成现实",
+        "onboard_time": 1721965161,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466070,
+        "num": 279186,
+        "word": "刘亚仁涉嫌强奸被立案",
+        "onboard_time": 1721954420,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349151,
+        "num": 278376,
+        "word": "爷爷居然用我的眼线笔写字",
+        "onboard_time": 1721956460,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 318399,
+        "num": 277882,
+        "word": "福寿螺在成都遇到天敌了",
+        "onboard_time": 1721951777,
+        "rank": 23,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 314901,
+        "num": 276835,
+        "word": "广西大爷靠姆巴佩卖红薯走红",
+        "onboard_time": 1721967921,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33173,
+        "num": 276032,
+        "word": "第一次看到这样的央视广告",
+        "onboard_time": 1721966659,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275848,
+        "num": 275848,
+        "word": "鼻血馒头",
+        "onboard_time": 1721954899,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 271265,
+        "num": 271265,
+        "word": "蓝盈莹从不嘻嘻到嘻嘻",
+        "onboard_time": 1721962639,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241919,
+        "num": 241919,
+        "word": "在法国吃到了混血煎饼果子",
+        "onboard_time": 1721961739,
+        "rank": 28,
+        "category": "体育,美食"
+      },
+      {
+        "raw_hot": 217662,
+        "num": 217662,
+        "word": "上海21岁小伙为救父亲溺水身亡",
+        "onboard_time": 1721959940,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216650,
+        "num": 216650,
+        "word": "出版社回应高校教师出版不雅诗集",
+        "onboard_time": 1721967622,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213061,
+        "num": 213061,
+        "word": "陈哲远靠生图救了自己",
+        "onboard_time": 1721965941,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190767,
+        "num": 190767,
+        "word": "肖战法国第七章vlog",
+        "onboard_time": 1721968881,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182545,
+        "num": 182545,
+        "word": "中国跳水队终于有娘家人撑腰了",
+        "onboard_time": 1721970201,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182095,
+        "num": 182095,
+        "word": "中餐厅全员征集奥运菜菜名",
+        "onboard_time": 1721968582,
+        "rank": 34,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 179696,
+        "num": 179696,
+        "word": "唐诡西行中暑剧",
+        "onboard_time": 1721969061,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178894,
+        "num": 178894,
+        "word": "紫色跑道为什么有利于比赛",
+        "onboard_time": 1721963539,
+        "rank": 36,
+        "category": "体育,科学科普"
+      },
+      {
+        "raw_hot": 171293,
+        "num": 171293,
+        "word": "台风格美将由福建移入江西",
+        "onboard_time": 1721952198,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169065,
+        "num": 169065,
+        "word": "刘诗诗V中文版奥运封",
+        "onboard_time": 1721969780,
+        "rank": 38,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 167487,
+        "num": 167487,
+        "word": "巅峰榜十大艺人",
+        "onboard_time": 1721970501,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165189,
+        "num": 165189,
+        "word": "台风格美",
+        "onboard_time": 1721950036,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164552,
+        "num": 164552,
+        "word": "京东校招将提供16000个岗位",
+        "onboard_time": 1721967982,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 159525,
+        "num": 159525,
+        "word": "汪苏泷第二轮唱流沙",
+        "onboard_time": 1721968342,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159515,
+        "num": 159515,
+        "word": "韩生育率暴跌中年人成职场香饽饽",
+        "onboard_time": 1721967381,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144522,
+        "num": 154033,
+        "word": "奥运会",
+        "onboard_time": 1721960119,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148992,
+        "num": 148992,
+        "word": "支持田亮维权",
+        "onboard_time": 1721959999,
+        "rank": 45,
+        "category": "网红,体育"
+      },
+      {
+        "raw_hot": 147537,
+        "num": 147537,
+        "word": "台风后生蚝遍地市民组团赶海",
+        "onboard_time": 1721961260,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147140,
+        "num": 147140,
+        "word": "巴赫说中国AI把奥运带到新高度",
+        "onboard_time": 1721969840,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133119,
+        "num": 133119,
+        "word": "汪顺巴黎奥运首支vlog",
+        "onboard_time": 1721968162,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34444,
+        "num": 133076,
+        "word": "张艺谋再现中国人的要强",
+        "onboard_time": 1721971160,
+        "rank": 49,
+        "category": "艺人,体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的奥林匹克情缘#"
+    }
+  }
+}
