@@ -1,6 +1,6 @@
 {
   "startTime": 1722011177149,
-  "endTime": 1722018315342,
+  "endTime": 1722019057940,
   "band_list": [
     {
       "raw_hot": 8956068,
@@ -19,19 +19,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3665895,
+      "num": 3665895,
+      "word": "开幕式 简陋",
+      "onboard_time": 1722016457,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3456601,
       "num": 3456601,
       "word": "中国队亮相",
       "onboard_time": 1722013399,
       "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2915884,
-      "num": 2915884,
-      "word": "开幕式 简陋",
-      "onboard_time": 1722016457,
-      "rank": 3,
       "category": "体育"
     },
     {
@@ -43,28 +43,44 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 1411496,
-      "num": 1411496,
+      "raw_hot": 1892402,
+      "num": 1892402,
       "word": "中国队拼船",
       "onboard_time": 1722016756,
       "rank": 5,
       "category": "体育"
     },
     {
-      "raw_hot": 1252268,
-      "num": 1252268,
+      "raw_hot": 1592994,
+      "num": 1592994,
       "word": "LadyGaga像火烈鸟一样窜出来",
       "onboard_time": 1722016876,
       "rank": 6,
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 1153875,
-      "num": 1153875,
+      "raw_hot": 1573607,
+      "num": 1573607,
+      "word": "开幕式 LV硬广",
+      "onboard_time": 1722018136,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1436163,
+      "num": 1436163,
       "word": "火炬手 刺客信条",
       "onboard_time": 1722017417,
       "rank": 7,
       "category": "体育,游戏"
+    },
+    {
+      "raw_hot": 1137059,
+      "num": 1137059,
+      "word": "几个国家挤一条船",
+      "onboard_time": 1722016935,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 1101741,
@@ -75,11 +91,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1015027,
-      "num": 1015027,
-      "word": "几个国家挤一条船",
-      "onboard_time": 1722016935,
-      "rank": 10,
+      "raw_hot": 981905,
+      "num": 981905,
+      "word": "法国人 浪漫至死不渝",
+      "onboard_time": 1722016576,
+      "rank": 11,
       "category": "体育"
     },
     {
@@ -115,14 +131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 701453,
-      "num": 701453,
-      "word": "法国人 浪漫至死不渝",
-      "onboard_time": 1722016576,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 675483,
       "num": 675483,
       "word": "那英吃了回春丹",
@@ -153,6 +161,14 @@
       "onboard_time": 1722007821,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 537098,
+      "num": 537098,
+      "word": "马龙奥运神图",
+      "onboard_time": 1722018136,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 528108,
@@ -211,6 +227,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 458165,
+      "num": 458165,
+      "word": "歌剧魅影",
+      "onboard_time": 1722015976,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 433197,
+      "num": 433197,
+      "word": "奥运开幕式 燃冬",
+      "onboard_time": 1722018915,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 428285,
       "num": 428285,
       "word": "德罗巴为贾玲撑伞",
@@ -243,11 +275,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 366459,
-      "num": 366459,
-      "word": "歌剧魅影",
-      "onboard_time": 1722015976,
-      "rank": 16,
+      "raw_hot": 353186,
+      "num": 353186,
+      "word": "奥运会 入场穿插表演",
+      "onboard_time": 1722017237,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -291,11 +323,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 290432,
+      "num": 290432,
+      "word": "LV到底给了多少钱",
+      "onboard_time": 1722018676,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 288189,
       "num": 288189,
       "word": "开幕式路透",
       "onboard_time": 1721984781,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 283354,
+      "num": 283354,
+      "word": "中国队镜头呢",
+      "onboard_time": 1722018196,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -387,14 +435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212718,
-      "num": 212718,
-      "word": "奥运会 入场穿插表演",
-      "onboard_time": 1722017237,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 210234,
       "num": 210234,
       "word": "中国代表团出发了",
@@ -416,14 +456,6 @@
       "word": "乒乓球队站第一排",
       "onboard_time": 1722013637,
       "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 206049,
-      "num": 179027,
-      "word": "马龙奥运神图",
-      "onboard_time": 1722018136,
-      "rank": 31,
       "category": "体育"
     },
     {
@@ -459,11 +491,11 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 198009,
-      "num": 198009,
-      "word": "开幕式 LV硬广",
-      "onboard_time": 1722018136,
-      "rank": 26,
+      "raw_hot": 197045,
+      "num": 197045,
+      "word": "中国队直拍",
+      "onboard_time": 1722017896,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -473,6 +505,14 @@
       "onboard_time": 1722007282,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196028,
+      "num": 196028,
+      "word": "开幕式镜头比我的人生还混乱",
+      "onboard_time": 1722018376,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 195805,
@@ -499,11 +539,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193236,
+      "num": 193236,
+      "word": "悲惨世界",
+      "onboard_time": 1722018855,
+      "rank": 30,
+      "category": "体育,读书作家"
+    },
+    {
       "raw_hot": 192686,
       "num": 192686,
       "word": "中国队旗手马龙冯雨",
       "onboard_time": 1722013038,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 192614,
+      "num": 192614,
+      "word": "奥运开幕式开场好抽象",
+      "onboard_time": 1722018736,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -539,14 +595,6 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 189196,
-      "num": 189196,
-      "word": "中国队直拍",
-      "onboard_time": 1722017896,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 187482,
       "num": 179387,
       "word": "中国代表团将与加拿大等队同船亮相",
@@ -555,11 +603,27 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178518,
-      "num": 178518,
+      "raw_hot": 181420,
+      "num": 181420,
       "word": "樊振东 上船了上船了",
       "onboard_time": 1722017237,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 179953,
+      "num": 179953,
+      "word": "巴黎奥运会",
+      "onboard_time": 1722018796,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 179222,
+      "num": 179222,
+      "word": "卡门",
+      "onboard_time": 1722018855,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -587,11 +651,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169965,
+      "num": 169965,
+      "word": "火炬手像偷火炬的",
+      "onboard_time": 1722018317,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163308,
       "num": 163308,
       "word": "谷爱凌开幕式红毯比心",
       "onboard_time": 1722014476,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 162548,
+      "num": 162548,
+      "word": "火炬手在房顶跑酷",
+      "onboard_time": 1722018736,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -608,14 +688,6 @@
       "word": "奥运会开幕式时间",
       "onboard_time": 1722008482,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 158891,
-      "num": 158891,
-      "word": "中国队镜头呢",
-      "onboard_time": 1722018196,
-      "rank": 36,
       "category": "体育"
     },
     {
@@ -649,6 +721,14 @@
       "onboard_time": 1722015916,
       "rank": 42,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 131715,
+      "num": 131715,
+      "word": "巴黎圣母院 还在修",
+      "onboard_time": 1722019034,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 123902,
@@ -707,6 +787,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 41837,
+      "num": 1017649,
+      "word": "全红婵怎么还出歌了",
+      "onboard_time": 1722016576,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 27213,
       "num": 194172,
       "word": "凡希亚祝运动员无负担拿第一",
@@ -715,12 +803,12 @@
       "category": "综艺,体育"
     },
     {
-      "raw_hot": 23338,
-      "num": 1017649,
-      "word": "全红婵怎么还出歌了",
-      "onboard_time": 1722016576,
+      "raw_hot": 22913,
+      "num": 1169874,
+      "word": "潮州街道水浸水位高至车顶",
+      "onboard_time": 1722016457,
       "rank": 9,
-      "category": "体育"
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

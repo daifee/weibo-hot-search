@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1722018315342,
+  "endTime": 1722019057940,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -331,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3665895,
+      "num": 3665895,
+      "word": "开幕式 简陋",
+      "onboard_time": 1722016457,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3610622,
       "num": 3721245,
       "word": "枪声响起特朗普撤离演讲台",
@@ -481,14 +489,6 @@
       "onboard_time": 1721354665,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2915884,
-      "num": 2915884,
-      "word": "开幕式 简陋",
-      "onboard_time": 1722016457,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 2914975,
@@ -1251,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1892402,
+      "num": 1892402,
+      "word": "中国队拼船",
+      "onboard_time": 1722016756,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1889445,
       "num": 1820630,
       "word": "李雪琴同届考生发文",
@@ -1979,6 +1987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1592994,
+      "num": 1592994,
+      "word": "LadyGaga像火烈鸟一样窜出来",
+      "onboard_time": 1722016876,
+      "rank": 6,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 1589081,
       "num": 512076,
       "word": "林生斌",
@@ -2033,6 +2049,14 @@
       "onboard_time": 1720616418,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1573607,
+      "num": 1573607,
+      "word": "开幕式 LV硬广",
+      "onboard_time": 1722018136,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 1573115,
@@ -2587,6 +2611,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1436163,
+      "num": 1436163,
+      "word": "火炬手 刺客信条",
+      "onboard_time": 1722017417,
+      "rank": 7,
+      "category": "体育,游戏"
+    },
+    {
       "raw_hot": 1434829,
       "num": 1434829,
       "word": "中金员工人均月薪降至3.5万元",
@@ -2657,14 +2689,6 @@
       "onboard_time": 1720409659,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1411496,
-      "num": 1411496,
-      "word": "中国队拼船",
-      "onboard_time": 1722016756,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 1411036,
@@ -3419,14 +3443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1252268,
-      "num": 1252268,
-      "word": "LadyGaga像火烈鸟一样窜出来",
-      "onboard_time": 1722016876,
-      "rank": 6,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 1249764,
       "num": 914147,
       "word": "王鹤棣经纪人开了炸串店",
@@ -4011,14 +4027,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1153875,
-      "num": 1153875,
-      "word": "火炬手 刺客信条",
-      "onboard_time": 1722017417,
-      "rank": 7,
-      "category": "体育,游戏"
-    },
-    {
       "raw_hot": 1152088,
       "num": 1152088,
       "word": "官方通报延安中学学生坠亡",
@@ -4081,6 +4089,14 @@
       "onboard_time": 1720334538,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1137059,
+      "num": 1137059,
+      "word": "几个国家挤一条船",
+      "onboard_time": 1722016935,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 1136912,
@@ -5163,14 +5179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1015027,
-      "num": 1015027,
-      "word": "几个国家挤一条船",
-      "onboard_time": 1722016935,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1014439,
       "num": 227724,
       "word": "去已婚姐姐家过暑假要给生活费吗",
@@ -5457,6 +5465,14 @@
       "onboard_time": 1721798059,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 981905,
+      "num": 981905,
+      "word": "法国人 浪漫至死不渝",
+      "onboard_time": 1722016576,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 981448,
@@ -9473,14 +9489,6 @@
       "onboard_time": 1720779560,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 701453,
-      "num": 701453,
-      "word": "法国人 浪漫至死不渝",
-      "onboard_time": 1722016576,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 701426,
@@ -13931,6 +13939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 537098,
+      "num": 537098,
+      "word": "马龙奥运神图",
+      "onboard_time": 1722018136,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 536755,
       "num": 506731,
       "word": "手紧的年轻人爆买10元防晒衣",
@@ -17035,6 +17051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 458165,
+      "num": 458165,
+      "word": "歌剧魅影",
+      "onboard_time": 1722015976,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 457811,
       "num": 457811,
       "word": "福宝今天4岁了",
@@ -18409,6 +18433,14 @@
       "onboard_time": 1721776096,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 433197,
+      "num": 433197,
+      "word": "奥运开幕式 燃冬",
+      "onboard_time": 1722018915,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 433089,
@@ -21683,14 +21715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 366459,
-      "num": 366459,
-      "word": "歌剧魅影",
-      "onboard_time": 1722015976,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 366454,
       "num": 366454,
       "word": "可疑的是案件可怕的是人性",
@@ -22433,6 +22457,14 @@
       "onboard_time": 1720710560,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 353186,
+      "num": 353186,
+      "word": "奥运会 入场穿插表演",
+      "onboard_time": 1722017237,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 353149,
@@ -26499,6 +26531,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 290432,
+      "num": 290432,
+      "word": "LV到底给了多少钱",
+      "onboard_time": 1722018676,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 290391,
       "num": 290391,
       "word": "正在变老的明显特征是什么",
@@ -27153,6 +27193,14 @@
       "onboard_time": 1720348819,
       "rank": 9,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 283354,
+      "num": 283354,
+      "word": "中国队镜头呢",
+      "onboard_time": 1722018196,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 283288,
@@ -34739,14 +34787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212718,
-      "num": 212718,
-      "word": "奥运会 入场穿插表演",
-      "onboard_time": 1722017237,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 212613,
       "num": 212613,
       "word": "美媒称特朗普被子弹擦伤",
@@ -36193,14 +36233,6 @@
       "onboard_time": 1721097020,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 206049,
-      "num": 179027,
-      "word": "马龙奥运神图",
-      "onboard_time": 1722018136,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 206045,
@@ -38707,14 +38739,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 198009,
-      "num": 198009,
-      "word": "开幕式 LV硬广",
-      "onboard_time": 1722018136,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 197983,
       "num": 197983,
       "word": "张钰琪裤子",
@@ -39033,6 +39057,14 @@
       "onboard_time": 1721888238,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 197045,
+      "num": 197045,
+      "word": "中国队直拍",
+      "onboard_time": 1722017896,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 196968,
@@ -39369,6 +39401,14 @@
       "onboard_time": 1720603038,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 196028,
+      "num": 196028,
+      "word": "开幕式镜头比我的人生还混乱",
+      "onboard_time": 1722018376,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 196006,
@@ -40195,6 +40235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193236,
+      "num": 193236,
+      "word": "悲惨世界",
+      "onboard_time": 1722018855,
+      "rank": 30,
+      "category": "体育,读书作家"
+    },
+    {
       "raw_hot": 193228,
       "num": 193228,
       "word": "七七事变",
@@ -40425,6 +40473,14 @@
       "onboard_time": 1721574862,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 192614,
+      "num": 192614,
+      "word": "奥运开幕式开场好抽象",
+      "onboard_time": 1722018736,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 192578,
@@ -41609,14 +41665,6 @@
       "onboard_time": 1720408580,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 189196,
-      "num": 189196,
-      "word": "中国队直拍",
-      "onboard_time": 1722017896,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 189175,
@@ -43587,6 +43635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181420,
+      "num": 181420,
+      "word": "樊振东 上船了上船了",
+      "onboard_time": 1722017237,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181354,
       "num": 181354,
       "word": "家族运动会线下礼",
@@ -44131,6 +44187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 179222,
+      "num": 179222,
+      "word": "卡门",
+      "onboard_time": 1722018855,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179218,
       "num": 179218,
       "word": "猫咪冲向归家主人5分钟后倒地离世",
@@ -44289,14 +44353,6 @@
       "onboard_time": 1719997339,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 178518,
-      "num": 178518,
-      "word": "樊振东 上船了上船了",
-      "onboard_time": 1722017237,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 178517,
@@ -46739,6 +46795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169965,
+      "num": 169965,
+      "word": "火炬手像偷火炬的",
+      "onboard_time": 1722018317,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169944,
       "num": 169944,
       "word": "小夭 他一直陪我等你来",
@@ -48811,6 +48875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 162548,
+      "num": 162548,
+      "word": "火炬手在房顶跑酷",
+      "onboard_time": 1722018736,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162489,
       "num": 162489,
       "word": "狮子座的好是夸出来的",
@@ -49697,14 +49769,6 @@
       "onboard_time": 1721196078,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 158891,
-      "num": 158891,
-      "word": "中国队镜头呢",
-      "onboard_time": 1722018196,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 158886,
@@ -57273,6 +57337,14 @@
       "onboard_time": 1721436198,
       "rank": 43,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 131715,
+      "num": 131715,
+      "word": "巴黎圣母院 还在修",
+      "onboard_time": 1722019034,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 131672,
@@ -72051,6 +72123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41837,
+      "num": 1017649,
+      "word": "全红婵怎么还出歌了",
+      "onboard_time": 1722016576,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41754,
       "num": 41754,
       "word": "鹿晗银发蓝毛衣",
@@ -74899,14 +74979,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 23338,
-      "num": 1017649,
-      "word": "全红婵怎么还出歌了",
-      "onboard_time": 1722016576,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 23248,
       "num": 214495,
       "word": "有一种甜蜜叫哈密",
@@ -74977,6 +75049,14 @@
       "onboard_time": 1720729389,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 22913,
+      "num": 1169874,
+      "word": "潮州街道水浸水位高至车顶",
+      "onboard_time": 1722016457,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22830,

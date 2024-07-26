@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1722018315342,
+  "endTime": 1722019057940,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -123,6 +123,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 3665895,
+      "num": 3665895,
+      "word": "开幕式 简陋",
+      "onboard_time": 1722016457,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3456601,
       "num": 3456601,
       "word": "中国队亮相",
@@ -185,14 +193,6 @@
       "onboard_time": 1721657124,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2915884,
-      "num": 2915884,
-      "word": "开幕式 简陋",
-      "onboard_time": 1722016457,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 2914975,
@@ -507,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1892402,
+      "num": 1892402,
+      "word": "中国队拼船",
+      "onboard_time": 1722016756,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1864459,
       "num": 491517,
       "word": "张杰陈楚生拥抱",
@@ -755,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1592994,
+      "num": 1592994,
+      "word": "LadyGaga像火烈鸟一样窜出来",
+      "onboard_time": 1722016876,
+      "rank": 6,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 1585611,
       "num": 300101,
       "word": "福寿螺在成都遇到天敌了",
@@ -769,6 +785,14 @@
       "onboard_time": 1721902640,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1573607,
+      "num": 1573607,
+      "word": "开幕式 LV硬广",
+      "onboard_time": 1722018136,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 1567544,
@@ -923,6 +947,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1436163,
+      "num": 1436163,
+      "word": "火炬手 刺客信条",
+      "onboard_time": 1722017417,
+      "rank": 7,
+      "category": "体育,游戏"
+    },
+    {
       "raw_hot": 1425914,
       "num": 423735,
       "word": "时代峰峻声明",
@@ -953,14 +985,6 @@
       "onboard_time": 1721822178,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1411496,
-      "num": 1411496,
-      "word": "中国队拼船",
-      "onboard_time": 1722016756,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 1407164,
@@ -1171,14 +1195,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1252268,
-      "num": 1252268,
-      "word": "LadyGaga像火烈鸟一样窜出来",
-      "onboard_time": 1722016876,
-      "rank": 6,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 1249764,
       "num": 914147,
       "word": "王鹤棣经纪人开了炸串店",
@@ -1371,14 +1387,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1153875,
-      "num": 1153875,
-      "word": "火炬手 刺客信条",
-      "onboard_time": 1722017417,
-      "rank": 7,
-      "category": "体育,游戏"
-    },
-    {
       "raw_hot": 1149792,
       "num": 1137138,
       "word": "杨倩陪母亲走完最后时光",
@@ -1393,6 +1401,14 @@
       "onboard_time": 1721746341,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1137059,
+      "num": 1137059,
+      "word": "几个国家挤一条船",
+      "onboard_time": 1722016935,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 1136912,
@@ -1699,14 +1715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1015027,
-      "num": 1015027,
-      "word": "几个国家挤一条船",
-      "onboard_time": 1722016935,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1011161,
       "num": 482644,
       "word": "特朗普停止举行大型户外竞选集会",
@@ -1785,6 +1793,14 @@
       "onboard_time": 1721798059,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 981905,
+      "num": 981905,
+      "word": "法国人 浪漫至死不渝",
+      "onboard_time": 1722016576,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 981010,
@@ -2857,14 +2873,6 @@
       "onboard_time": 1721874798,
       "rank": 47,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 701453,
-      "num": 701453,
-      "word": "法国人 浪漫至死不渝",
-      "onboard_time": 1722016576,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 701426,
@@ -3963,6 +3971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 537098,
+      "num": 537098,
+      "word": "马龙奥运神图",
+      "onboard_time": 1722018136,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 534840,
       "num": 534840,
       "word": "特朗普自称为下一任美国总统",
@@ -4699,6 +4715,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 458165,
+      "num": 458165,
+      "word": "歌剧魅影",
+      "onboard_time": 1722015976,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 456267,
       "num": 456267,
       "word": "LPR",
@@ -4945,6 +4969,14 @@
       "onboard_time": 1721776096,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 433197,
+      "num": 433197,
+      "word": "奥运开幕式 燃冬",
+      "onboard_time": 1722018915,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 432128,
@@ -5627,14 +5659,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 366459,
-      "num": 366459,
-      "word": "歌剧魅影",
-      "onboard_time": 1722015976,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 366045,
       "num": 353279,
       "word": "时代少年团演唱会",
@@ -5809,6 +5833,14 @@
       "onboard_time": 1721606240,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 353186,
+      "num": 353186,
+      "word": "奥运会 入场穿插表演",
+      "onboard_time": 1722017237,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 352852,
@@ -6931,6 +6963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 290432,
+      "num": 290432,
+      "word": "LV到底给了多少钱",
+      "onboard_time": 1722018676,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 289942,
       "num": 289942,
       "word": "陈昊宇陈丽君版白娘子许仙",
@@ -7041,6 +7081,14 @@
       "onboard_time": 1721888659,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283354,
+      "num": 283354,
+      "word": "中国队镜头呢",
+      "onboard_time": 1722018196,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 283034,
@@ -9339,14 +9387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212718,
-      "num": 212718,
-      "word": "奥运会 入场穿插表演",
-      "onboard_time": 1722017237,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 212545,
       "num": 212545,
       "word": "陆沉背痛包",
@@ -9752,14 +9792,6 @@
       "word": "乒乓球队站第一排",
       "onboard_time": 1722013637,
       "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 206049,
-      "num": 179027,
-      "word": "马龙奥运神图",
-      "onboard_time": 1722018136,
-      "rank": 31,
       "category": "体育"
     },
     {
@@ -10483,14 +10515,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 198009,
-      "num": 198009,
-      "word": "开幕式 LV硬广",
-      "onboard_time": 1722018136,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 197914,
       "num": 197914,
       "word": "相柳第一次落泪",
@@ -10627,6 +10651,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 197045,
+      "num": 197045,
+      "word": "中国队直拍",
+      "onboard_time": 1722017896,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196945,
       "num": 211830,
       "word": "巴黎奥运助威曲龙腾",
@@ -10689,6 +10721,14 @@
       "onboard_time": 1721708542,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 196028,
+      "num": 196028,
+      "word": "开幕式镜头比我的人生还混乱",
+      "onboard_time": 1722018376,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 195840,
@@ -10915,6 +10955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193236,
+      "num": 193236,
+      "word": "悲惨世界",
+      "onboard_time": 1722018855,
+      "rank": 30,
+      "category": "体育,读书作家"
+    },
+    {
       "raw_hot": 193211,
       "num": 193211,
       "word": "新华社好会拍",
@@ -11009,6 +11057,14 @@
       "onboard_time": 1721574862,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 192614,
+      "num": 192614,
+      "word": "奥运开幕式开场好抽象",
+      "onboard_time": 1722018736,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 192578,
@@ -11425,14 +11481,6 @@
       "onboard_time": 1721809160,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 189196,
-      "num": 189196,
-      "word": "中国队直拍",
-      "onboard_time": 1722017896,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 189175,
@@ -11987,6 +12035,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 181420,
+      "num": 181420,
+      "word": "樊振东 上船了上船了",
+      "onboard_time": 1722017237,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181154,
       "num": 181154,
       "word": "颖儿金晨同游马尔代夫",
@@ -12131,6 +12187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179222,
+      "num": 179222,
+      "word": "卡门",
+      "onboard_time": 1722018855,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179078,
       "num": 179078,
       "word": "涂山璟热度破3亿",
@@ -12145,14 +12209,6 @@
       "onboard_time": 1721975179,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 178518,
-      "num": 178518,
-      "word": "樊振东 上船了上船了",
-      "onboard_time": 1722017237,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 178517,
@@ -12931,6 +12987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169965,
+      "num": 169965,
+      "word": "火炬手像偷火炬的",
+      "onboard_time": 1722018317,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169872,
       "num": 169872,
       "word": "娜然在内娱闯出妩魅系赛道",
@@ -13547,6 +13611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162548,
+      "num": 162548,
+      "word": "火炬手在房顶跑酷",
+      "onboard_time": 1722018736,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162177,
       "num": 162177,
       "word": "台风格美预计今夜登陆我国台湾",
@@ -13776,14 +13848,6 @@
       "word": "刘诗雯新身份出发巴黎",
       "onboard_time": 1721897900,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 158891,
-      "num": 158891,
-      "word": "中国队镜头呢",
-      "onboard_time": 1722018196,
-      "rank": 36,
       "category": "体育"
     },
     {
@@ -15233,6 +15297,14 @@
       "onboard_time": 1721938813,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131715,
+      "num": 131715,
+      "word": "巴黎圣母院 还在修",
+      "onboard_time": 1722019034,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 131656,
@@ -17683,6 +17755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41837,
+      "num": 1017649,
+      "word": "全红婵怎么还出歌了",
+      "onboard_time": 1722016576,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41035,
       "num": 61731,
       "word": "出汗并不能帮身体排毒",
@@ -18371,14 +18451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 23338,
-      "num": 1017649,
-      "word": "全红婵怎么还出歌了",
-      "onboard_time": 1722016576,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 23248,
       "num": 214495,
       "word": "有一种甜蜜叫哈密",
@@ -18391,6 +18463,14 @@
       "num": 169791,
       "word": "浙江姑娘在加沙开了三家免费中国诊所",
       "onboard_time": 1721840474,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22913,
+      "num": 1169874,
+      "word": "潮州街道水浸水位高至车顶",
+      "onboard_time": 1722016457,
       "rank": 9,
       "category": "社会新闻"
     },
