@@ -1,7 +1,23 @@
 {
   "startTime": 1721924711965,
-  "endTime": 1721964986754,
+  "endTime": 1721967832889,
   "band_list": [
+    {
+      "raw_hot": 3089395,
+      "num": 533236,
+      "word": "男性怀孕或成现实",
+      "onboard_time": 1721965161,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2244987,
+      "num": 2244987,
+      "word": "吴昕劝被家暴的旺旺妈妈再婚",
+      "onboard_time": 1721964680,
+      "rank": 12,
+      "category": "综艺"
+    },
     {
       "raw_hot": 1915128,
       "num": 1915128,
@@ -20,7 +36,7 @@
     },
     {
       "raw_hot": 1585611,
-      "num": 281001,
+      "num": 300101,
       "word": "福寿螺在成都遇到天敌了",
       "onboard_time": 1721951777,
       "rank": 20,
@@ -35,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1229624,
+      "num": 1229624,
+      "word": "开幕式 熬夜",
+      "onboard_time": 1721964860,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1154584,
       "num": 1154584,
       "word": "鼻血馒头",
@@ -44,7 +68,7 @@
     },
     {
       "raw_hot": 1136912,
-      "num": 432382,
+      "num": 518154,
       "word": "王能能承认与罗拉吵架",
       "onboard_time": 1721959280,
       "rank": 10,
@@ -65,6 +89,14 @@
       "onboard_time": 1721920399,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 911697,
+      "num": 911697,
+      "word": "林依晨上恋综了",
+      "onboard_time": 1721966361,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 873281,
@@ -100,7 +132,7 @@
     },
     {
       "raw_hot": 745073,
-      "num": 284900,
+      "num": 304085,
       "word": "爷爷居然用我的眼线笔写字",
       "onboard_time": 1721956460,
       "rank": 42,
@@ -129,6 +161,14 @@
       "onboard_time": 1721951238,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 567302,
+      "num": 567302,
+      "word": "韩国博主来中国的街拍",
+      "onboard_time": 1721964378,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 562559,
@@ -203,14 +243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 507977,
-      "num": 341197,
-      "word": "吴昕劝被家暴的旺旺妈妈再婚",
-      "onboard_time": 1721964680,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 507172,
       "num": 507172,
       "word": "台风后生蚝遍地市民组团赶海",
@@ -249,6 +281,14 @@
       "onboard_time": 1721918360,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 486485,
+      "num": 486485,
+      "word": "刘宇自曝巡演售罄依旧亏本",
+      "onboard_time": 1721966600,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 478365,
@@ -355,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351701,
+      "num": 351701,
+      "word": "陈哲远靠生图救了自己",
+      "onboard_time": 1721965941,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 347859,
       "num": 347859,
       "word": "8个月宝宝第一次经历台风挺秃然",
@@ -385,6 +433,14 @@
       "onboard_time": 1721920581,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 313569,
+      "num": 313569,
+      "word": "校方通报球员被女教练连扇耳光",
+      "onboard_time": 1721965761,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302050,
@@ -419,12 +475,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 291419,
+      "num": 291419,
+      "word": "异人之下真香了",
+      "onboard_time": 1721966122,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 280156,
       "num": 280156,
       "word": "被新疆冰淇淋冲击到了",
       "onboard_time": 1721920160,
       "rank": 16,
       "category": "美食"
+    },
+    {
+      "raw_hot": 265906,
+      "num": 265906,
+      "word": "猫 我永远都不会原谅你",
+      "onboard_time": 1721961019,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 261292,
@@ -451,14 +523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 255324,
-      "num": 255324,
-      "word": "猫 我永远都不会原谅你",
-      "onboard_time": 1721961019,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 245584,
       "num": 312207,
       "word": "张艺谋再次操刀奥运会开幕",
@@ -483,14 +547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 236122,
-      "num": 231709,
-      "word": "韩国博主来中国的街拍",
-      "onboard_time": 1721964378,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 216345,
       "num": 216345,
       "word": "刘梓晨",
@@ -513,6 +569,14 @@
       "onboard_time": 1721959880,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208031,
+      "num": 208031,
+      "word": "紫色跑道为什么有利于比赛",
+      "onboard_time": 1721963539,
+      "rank": 34,
+      "category": "体育,科学科普"
     },
     {
       "raw_hot": 202798,
@@ -547,14 +611,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 197150,
-      "num": 197150,
-      "word": "紫色跑道为什么有利于比赛",
-      "onboard_time": 1721963539,
-      "rank": 34,
-      "category": "体育,科学科普"
-    },
-    {
       "raw_hot": 192578,
       "num": 192578,
       "word": "巴黎奥运会到底有多浪漫",
@@ -579,12 +635,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187817,
+      "num": 187817,
+      "word": "镖人",
+      "onboard_time": 1721964441,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 186001,
       "num": 186001,
       "word": "陈道明入行50年第一次跑厅",
       "onboard_time": 1721950457,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 183407,
+      "num": 451956,
+      "word": "路政干部沦为拦路虎5年贪上百万",
+      "onboard_time": 1721963779,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182397,
@@ -601,14 +673,6 @@
       "onboard_time": 1721956940,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175399,
-      "num": 175399,
-      "word": "镖人",
-      "onboard_time": 1721964441,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 175225,
@@ -643,12 +707,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 164826,
-      "num": 164826,
+      "raw_hot": 166906,
+      "num": 166906,
       "word": "吉林一公安局长和辅警救灾遇险失联",
       "onboard_time": 1721964080,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164954,
+      "num": 164954,
+      "word": "陈奕迅大连抢票",
+      "onboard_time": 1721966841,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 164035,
@@ -683,6 +755,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 162174,
+      "num": 555855,
+      "word": "双奥导演张艺谋又来了",
+      "onboard_time": 1721963240,
+      "rank": 20,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 162089,
       "num": 162089,
       "word": "李大霄退休",
@@ -691,12 +771,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 160536,
+      "num": 160536,
+      "word": "KPL梦之队全员换头像",
+      "onboard_time": 1721967741,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 157906,
       "num": 157906,
       "word": "歌手彩排",
       "onboard_time": 1721952620,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157868,
+      "num": 157868,
+      "word": "邓为行为淡人精神浓人",
+      "onboard_time": 1721967622,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 154441,
@@ -715,10 +811,26 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152809,
+      "num": 152809,
+      "word": "篮球运动员曾八次担任奥运会开幕式旗手",
+      "onboard_time": 1721965221,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152116,
       "num": 152116,
       "word": "李佩霞",
       "onboard_time": 1721952620,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150032,
+      "num": 150032,
+      "word": "出版社回应高校教师出版不雅诗集",
+      "onboard_time": 1721967622,
       "rank": 43,
       "category": "社会新闻"
     },
@@ -729,6 +841,14 @@
       "onboard_time": 1721948534,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 148655,
+      "num": 141047,
+      "word": "巴黎奥运会开幕式神秘感拉满",
+      "onboard_time": 1721967682,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 148638,
@@ -745,14 +865,6 @@
       "onboard_time": 1721950638,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 146312,
-      "num": 146312,
-      "word": "开幕式 熬夜",
-      "onboard_time": 1721964860,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 141081,
@@ -833,6 +945,14 @@
       "onboard_time": 1721918242,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 126987,
+      "num": 544326,
+      "word": "番茄小说多个作品高度雷同",
+      "onboard_time": 1721966421,
+      "rank": 9,
+      "category": "读书作家,作品衍生"
     },
     {
       "raw_hot": 126086,
@@ -963,6 +1083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 97692,
+      "num": 284564,
+      "word": "第一次看到这样的央视广告",
+      "onboard_time": 1721966659,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97105,
       "num": 121388,
       "word": "TFBOYS头发梳成大人模样是凯妈做的",
@@ -977,6 +1105,14 @@
       "onboard_time": 1721947634,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91370,
+      "num": 1055069,
+      "word": "那抹中国红永远让人热血沸腾",
+      "onboard_time": 1721959519,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 91204,
@@ -1067,22 +1203,6 @@
       "category": "体育,科学科普"
     },
     {
-      "raw_hot": 70023,
-      "num": 893755,
-      "word": "那抹中国红永远让人热血沸腾",
-      "onboard_time": 1721959519,
-      "rank": 2,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 69299,
-      "num": 451956,
-      "word": "路政干部沦为拦路虎5年贪上百万",
-      "onboard_time": 1721963779,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 67437,
       "num": 77418,
       "word": "台风格美登陆福建位置又变了",
@@ -1131,12 +1251,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 48525,
-      "num": 323030,
-      "word": "双奥导演张艺谋又来了",
-      "onboard_time": 1721963240,
-      "rank": 20,
-      "category": "艺人,体育"
+      "raw_hot": 51700,
+      "num": 211959,
+      "word": "韩生育率暴跌中年人成职场香饽饽",
+      "onboard_time": 1721967381,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44589,
