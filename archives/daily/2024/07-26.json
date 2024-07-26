@@ -1,6 +1,6 @@
 {
   "startTime": 1721924711965,
-  "endTime": 1721976075112,
+  "endTime": 1721978310858,
   "band_list": [
     {
       "raw_hot": 3714268,
@@ -48,6 +48,14 @@
       "word": "交了8年社保后我决定停交了",
       "onboard_time": 1721949796,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1632417,
+      "num": 410069,
+      "word": "印度女子生下2张脸4只胳膊婴儿",
+      "onboard_time": 1721975300,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 1063947,
-      "num": 1063947,
+      "num": 1146402,
       "word": "陈妍希沈月淘汰",
       "onboard_time": 1721973080,
       "rank": 4,
@@ -121,6 +129,14 @@
       "onboard_time": 1721969002,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 980080,
+      "num": 389442,
+      "word": "肖战国外买的纪念品madeinChina",
+      "onboard_time": 1721975960,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 975714,
@@ -153,6 +169,14 @@
       "onboard_time": 1721966600,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 797118,
+      "num": 797118,
+      "word": "磕药进ICU学生母亲或与药店达成赔偿",
+      "onboard_time": 1721971820,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 779924,
@@ -371,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 478437,
+      "num": 478437,
+      "word": "吴昕原话",
+      "onboard_time": 1721977280,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 478365,
       "num": 324016,
       "word": "男子几天内狂炫50斤西瓜致带状疱疹",
@@ -451,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 413704,
+      "num": 413704,
+      "word": "平顶山地震",
+      "onboard_time": 1721976500,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 405435,
       "num": 201241,
       "word": "三亚酒店暴跌游客都去哪儿了",
@@ -483,6 +523,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 371453,
+      "num": 371453,
+      "word": "贺峻霖晒与马嘉祺张真源合照",
+      "onboard_time": 1721976919,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 362435,
+      "num": 362435,
+      "word": "汪涵老婆带儿子出游",
+      "onboard_time": 1721975720,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 356683,
       "num": 465668,
       "word": "甘肃1961年以来最强区域性暴雨",
@@ -497,6 +553,14 @@
       "onboard_time": 1721965941,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 349718,
+      "num": 349718,
+      "word": "易烊千玺跳着下楼梯",
+      "onboard_time": 1721975239,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 347859,
@@ -587,14 +651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 295924,
-      "num": 295924,
-      "word": "易烊千玺跳着下楼梯",
-      "onboard_time": 1721975239,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 291949,
       "num": 291949,
       "word": "上半年每10套房有4套买家是90后",
@@ -611,20 +667,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 290909,
+      "num": 290909,
+      "word": "恋与深空",
+      "onboard_time": 1721977161,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 280156,
       "num": 280156,
       "word": "被新疆冰淇淋冲击到了",
       "onboard_time": 1721920160,
       "rank": 16,
       "category": "美食"
-    },
-    {
-      "raw_hot": 273396,
-      "num": 210690,
-      "word": "汪涵老婆带儿子出游",
-      "onboard_time": 1721975720,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 265906,
@@ -651,6 +707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 259926,
+      "num": 259926,
+      "word": "带癌上班的年轻人不敢躺平",
+      "onboard_time": 1721976679,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 258340,
       "num": 258340,
       "word": "徐明浩上恋综了",
@@ -665,6 +729,14 @@
       "onboard_time": 1721968342,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256647,
+      "num": 256647,
+      "word": "警方通报男子杀害女子及其家属4人",
+      "onboard_time": 1721976500,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253052,
@@ -707,20 +779,20 @@
       "category": "艺人,读书作家"
     },
     {
+      "raw_hot": 242369,
+      "num": 242369,
+      "word": "时代少年团常州演唱会演出时间",
+      "onboard_time": 1721975539,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 242051,
       "num": 242051,
       "word": "你好种地少年",
       "onboard_time": 1721916860,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 236747,
-      "num": 582550,
-      "word": "磕药进ICU学生母亲或与药店达成赔偿",
-      "onboard_time": 1721971820,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 225143,
@@ -771,12 +843,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 209781,
-      "num": 209781,
-      "word": "时代少年团常州演唱会演出时间",
-      "onboard_time": 1721975539,
-      "rank": 31,
-      "category": "演出"
+      "raw_hot": 210682,
+      "num": 210682,
+      "word": "中国队出征巴黎奥运国际形象宣传片",
+      "onboard_time": 1721974519,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 209786,
+      "num": 209786,
+      "word": "陈楚生回披荆斩棘",
+      "onboard_time": 1721977161,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 206511,
@@ -785,14 +865,6 @@
       "onboard_time": 1721968162,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 204176,
-      "num": 204176,
-      "word": "肖战国外买的纪念品madeinChina",
-      "onboard_time": 1721975960,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 202798,
@@ -849,6 +921,22 @@
       "onboard_time": 1721970201,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197396,
+      "num": 197396,
+      "word": "百花奖抢票",
+      "onboard_time": 1721977280,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 192862,
+      "num": 192862,
+      "word": "山东小伙卖假睫毛成村里最强女婿",
+      "onboard_time": 1721977700,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192735,
@@ -971,11 +1059,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178880,
-      "num": 178880,
-      "word": "中国队出征巴黎奥运国际形象宣传片",
-      "onboard_time": 1721974519,
-      "rank": 39,
+      "raw_hot": 178668,
+      "num": 178668,
+      "word": "巴黎怎么做到连地上的隔离带都那么美",
+      "onboard_time": 1721973139,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -1033,6 +1121,14 @@
       "onboard_time": 1721953701,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173239,
+      "num": 173239,
+      "word": "周鸿祎回应睡觉被雷军瞪",
+      "onboard_time": 1721976739,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 171943,
@@ -1227,6 +1323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 149335,
+      "num": 149335,
+      "word": "你一天上班的成本是多少",
+      "onboard_time": 1721977940,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 149100,
       "num": 149100,
       "word": "商贷利率逼近公积金",
@@ -1249,14 +1353,6 @@
       "onboard_time": 1721919921,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 148526,
-      "num": 148526,
-      "word": "巴黎怎么做到连地上的隔离带都那么美",
-      "onboard_time": 1721973139,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 147474,
@@ -1313,14 +1409,6 @@
       "onboard_time": 1721915841,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 138806,
-      "num": 150213,
-      "word": "印度女子生下2张脸4只胳膊婴儿",
-      "onboard_time": 1721975300,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138154,
@@ -1699,6 +1787,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 51740,
+      "num": 410161,
+      "word": "沈阳持续大暴雨多路段被淹",
+      "onboard_time": 1721977220,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44589,
       "num": 231768,
       "word": "日本尝试喂海胆吃卷心菜",
@@ -1737,6 +1833,14 @@
       "onboard_time": 1721963539,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33968,
+      "num": 212751,
+      "word": "张艺谋奥运大场面重现",
+      "onboard_time": 1721977700,
+      "rank": 34,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 32224,
@@ -1785,6 +1889,14 @@
       "onboard_time": 1721929393,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 28596,
+      "num": 242542,
+      "word": "美国法院裁定无骨鸡翅可含骨头",
+      "onboard_time": 1721978120,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28455,
@@ -1912,6 +2024,14 @@
       "word": "大同丈母娘的刀削面在巴黎火了",
       "onboard_time": 1721936052,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18439,
+      "num": 759357,
+      "word": "万千气象看青海",
+      "onboard_time": 1721963119,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
