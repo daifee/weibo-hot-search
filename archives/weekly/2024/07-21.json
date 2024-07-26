@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721978310858,
+  "endTime": 1721979301861,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1800076,
+      "num": 423409,
+      "word": "印度女子生下2张脸4只胳膊婴儿",
+      "onboard_time": 1721975300,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1793389,
       "num": 1793389,
       "word": "大二女生卧室被父母安装摄像头",
@@ -521,14 +529,6 @@
       "onboard_time": 1721624362,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1632417,
-      "num": 410069,
-      "word": "印度女子生下2张脸4只胳膊婴儿",
-      "onboard_time": 1721975300,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1624204,
@@ -1524,7 +1524,7 @@
     },
     {
       "raw_hot": 980080,
-      "num": 389442,
+      "num": 557481,
       "word": "肖战国外买的纪念品madeinChina",
       "onboard_time": 1721975960,
       "rank": 32,
@@ -3027,6 +3027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 601167,
+      "num": 519362,
+      "word": "吴昕原话",
+      "onboard_time": 1721977280,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 600279,
       "num": 600279,
       "word": "gidle打歌服擅自使用红十字被审判",
@@ -3377,6 +3385,14 @@
       "onboard_time": 1721664800,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 552728,
+      "num": 552728,
+      "word": "平顶山地震",
+      "onboard_time": 1721976500,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 550690,
@@ -3920,14 +3936,6 @@
       "word": "杨迪cue瘦了的贾玲",
       "onboard_time": 1721644341,
       "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 478437,
-      "num": 478437,
-      "word": "吴昕原话",
-      "onboard_time": 1721977280,
-      "rank": 5,
       "category": "综艺"
     },
     {
@@ -4507,20 +4515,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 416076,
+      "num": 416076,
+      "word": "贺峻霖晒与马嘉祺张真源合照",
+      "onboard_time": 1721976919,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 414540,
       "num": 414540,
       "word": "傅园慧晒奖牌回应网友质疑",
       "onboard_time": 1721920281,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 413704,
-      "num": 413704,
-      "word": "平顶山地震",
-      "onboard_time": 1721976500,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 412653,
@@ -4771,6 +4779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 387096,
+      "num": 387096,
+      "word": "奥运会赛程",
+      "onboard_time": 1721978598,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 384464,
       "num": 384464,
       "word": "张峻豪说不敢面对观众",
@@ -4889,14 +4905,6 @@
       "onboard_time": 1721638162,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 371453,
-      "num": 371453,
-      "word": "贺峻霖晒与马嘉祺张真源合照",
-      "onboard_time": 1721976919,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 370244,
@@ -5137,6 +5145,14 @@
       "onboard_time": 1721700858,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 354928,
+      "num": 354928,
+      "word": "张杰回应和凡希亚组合名",
+      "onboard_time": 1721974459,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 354856,
@@ -5763,6 +5779,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 304390,
+      "num": 304390,
+      "word": "恋与深空",
+      "onboard_time": 1721977161,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 304343,
       "num": 304343,
       "word": "时代少年团 新歌",
@@ -6104,14 +6128,6 @@
       "word": "光与夜之恋",
       "onboard_time": 1721537660,
       "rank": 19,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 290909,
-      "num": 290909,
-      "word": "恋与深空",
-      "onboard_time": 1721977161,
-      "rank": 24,
       "category": "游戏"
     },
     {
@@ -6651,6 +6667,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 261812,
+      "num": 261812,
+      "word": "警方通报男子杀害女子及其家属4人",
+      "onboard_time": 1721976500,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261750,
       "num": 1264713,
       "word": "关于二十届三中全会决定的说明",
@@ -6745,14 +6769,6 @@
       "onboard_time": 1721635641,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 256647,
-      "num": 256647,
-      "word": "警方通报男子杀害女子及其家属4人",
-      "onboard_time": 1721976500,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 256592,
@@ -6856,14 +6872,6 @@
       "word": "陈好宋茜在干嘛",
       "onboard_time": 1721622562,
       "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 253052,
-      "num": 253052,
-      "word": "张杰回应和凡希亚组合名",
-      "onboard_time": 1721974459,
-      "rank": 25,
       "category": "综艺"
     },
     {
@@ -9531,6 +9539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 196181,
+      "num": 196181,
+      "word": "你一天上班的成本是多少",
+      "onboard_time": 1721977940,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 195840,
       "num": 195840,
       "word": "宋亚轩把衣服穿反了",
@@ -9841,6 +9857,14 @@
       "onboard_time": 1721876900,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 192210,
+      "num": 192210,
+      "word": "巴黎怎么做到连地上的隔离带都那么美",
+      "onboard_time": 1721973139,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 192189,
@@ -10835,14 +10859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178668,
-      "num": 178668,
-      "word": "巴黎怎么做到连地上的隔离带都那么美",
-      "onboard_time": 1721973139,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 178517,
       "num": 178517,
       "word": "国乒进入奥运会乒乓球场馆训练",
@@ -11595,6 +11611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 169208,
+      "num": 169208,
+      "word": "恋与深空电话预约",
+      "onboard_time": 1721978721,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 169203,
       "num": 169203,
       "word": "6种常见病其实都是癌前病变",
@@ -12315,6 +12339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159125,
+      "num": 159125,
+      "word": "关晓彤白吊带齐肩短发",
+      "onboard_time": 1721978961,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 158958,
       "num": 158958,
       "word": "刘诗雯新身份出发巴黎",
@@ -12537,6 +12569,14 @@
       "onboard_time": 1721732119,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155528,
+      "num": 155528,
+      "word": "全红婵背包上挂了10KG动物园",
+      "onboard_time": 1721976979,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 155509,
@@ -12881,14 +12921,6 @@
       "onboard_time": 1721827160,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 149335,
-      "num": 149335,
-      "word": "你一天上班的成本是多少",
-      "onboard_time": 1721977940,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 149100,
@@ -14611,6 +14643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93733,
+      "num": 410161,
+      "word": "沈阳持续大暴雨多路段被淹",
+      "onboard_time": 1721977220,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93332,
       "num": 211180,
       "word": "华晨宇忒修斯的船",
@@ -14800,6 +14840,14 @@
       "word": "中国文化在法国大街回头率拉满",
       "onboard_time": 1721868199,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81615,
+      "num": 427500,
+      "word": "千元知名品牌化妆品仅售398",
+      "onboard_time": 1721979080,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -15627,14 +15675,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 51740,
-      "num": 410161,
-      "word": "沈阳持续大暴雨多路段被淹",
-      "onboard_time": 1721977220,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 51241,
       "num": 371053,
       "word": "鸿星尔克与国货们的暖心联动",
@@ -16140,7 +16180,7 @@
     },
     {
       "raw_hot": 33968,
-      "num": 212751,
+      "num": 248611,
       "word": "张艺谋奥运大场面重现",
       "onboard_time": 1721977700,
       "rank": 34,

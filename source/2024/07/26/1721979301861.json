@@ -1,0 +1,410 @@
+{
+  "runTime": 1721979301861,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 874521,
+        "num": 1139923,
+        "word": "陈妍希沈月淘汰",
+        "onboard_time": 1721973080,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 656742,
+        "num": 656742,
+        "word": "官方通报古茗奶茶中疑有血痰",
+        "onboard_time": 1721968282,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22290,
+        "num": 557708,
+        "word": "万千气象看青海",
+        "onboard_time": 1721963119,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 775092,
+        "num": 557481,
+        "word": "肖战国外买的纪念品madeinChina",
+        "onboard_time": 1721975960,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 697123,
+        "num": 556690,
+        "word": "磕药进ICU学生母亲或与药店达成赔偿",
+        "onboard_time": 1721971820,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552728,
+        "num": 552728,
+        "word": "平顶山地震",
+        "onboard_time": 1721976500,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 601167,
+        "num": 519362,
+        "word": "吴昕原话",
+        "onboard_time": 1721977280,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 484541,
+        "num": 484541,
+        "word": "番茄小说多个作品高度雷同",
+        "onboard_time": 1721966421,
+        "rank": 7,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 428649,
+        "num": 428649,
+        "word": "奥运是和你一起难忘的夏天",
+        "onboard_time": 1721970322,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81615,
+        "num": 427500,
+        "word": "千元知名品牌化妆品仅售398",
+        "onboard_time": 1721979080,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1800076,
+        "num": 423409,
+        "word": "印度女子生下2张脸4只胳膊婴儿",
+        "onboard_time": 1721975300,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 901132,
+        "num": 421430,
+        "word": "大二女生卧室被父母安装摄像头",
+        "onboard_time": 1721969420,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 854234,
+        "num": 418616,
+        "word": "女子穿吊带被老人当街指责没家教",
+        "onboard_time": 1721969961,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416076,
+        "num": 416076,
+        "word": "贺峻霖晒与马嘉祺张真源合照",
+        "onboard_time": 1721976919,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393852,
+        "num": 393852,
+        "word": "奶茶袋治好了年轻人的包包焦虑吗",
+        "onboard_time": 1721968222,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387096,
+        "num": 387096,
+        "word": "奥运会赛程",
+        "onboard_time": 1721978598,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 354928,
+        "num": 354928,
+        "word": "张杰回应和凡希亚组合名",
+        "onboard_time": 1721974459,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333893,
+        "num": 333893,
+        "word": "林依晨上恋综了",
+        "onboard_time": 1721966361,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325637,
+        "num": 325637,
+        "word": "汪涵老婆带儿子出游",
+        "onboard_time": 1721975720,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304390,
+        "num": 304390,
+        "word": "恋与深空",
+        "onboard_time": 1721977161,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 858320,
+        "num": 303694,
+        "word": "男性怀孕或成现实",
+        "onboard_time": 1721965161,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471595,
+        "num": 298370,
+        "word": "吴昕劝被家暴的旺旺妈妈再婚",
+        "onboard_time": 1721964680,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394576,
+        "num": 295476,
+        "word": "三个月瘦了40斤的运动之路",
+        "onboard_time": 1721971459,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 291996,
+        "num": 291996,
+        "word": "权侑莉ins删图",
+        "onboard_time": 1721973859,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274910,
+        "num": 274910,
+        "word": "易烊千玺跳着下楼梯",
+        "onboard_time": 1721975239,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261812,
+        "num": 261812,
+        "word": "警方通报男子杀害女子及其家属4人",
+        "onboard_time": 1721976500,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253013,
+        "num": 253013,
+        "word": "巴黎奥运北京时间凌晨开幕",
+        "onboard_time": 1721951419,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30490,
+        "num": 248611,
+        "word": "张艺谋奥运大场面重现",
+        "onboard_time": 1721977700,
+        "rank": 27,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 244530,
+        "num": 244530,
+        "word": "王能能承认与罗拉吵架",
+        "onboard_time": 1721959280,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239888,
+        "num": 239888,
+        "word": "带癌上班的年轻人不敢躺平",
+        "onboard_time": 1721976679,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 226725,
+        "num": 226725,
+        "word": "开幕式 熬夜",
+        "onboard_time": 1721964860,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220046,
+        "num": 220046,
+        "word": "于正cue白鹿",
+        "onboard_time": 1721975359,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211941,
+        "num": 211941,
+        "word": "台风",
+        "onboard_time": 1721972360,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196181,
+        "num": 196181,
+        "word": "你一天上班的成本是多少",
+        "onboard_time": 1721977940,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192210,
+        "num": 192210,
+        "word": "巴黎怎么做到连地上的隔离带都那么美",
+        "onboard_time": 1721973139,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191069,
+        "num": 191069,
+        "word": "中国队出征巴黎奥运国际形象宣传片",
+        "onboard_time": 1721974519,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186952,
+        "num": 186952,
+        "word": "时代少年团常州演唱会演出时间",
+        "onboard_time": 1721975539,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 93733,
+        "num": 184657,
+        "word": "沈阳持续大暴雨多路段被淹",
+        "onboard_time": 1721977220,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183828,
+        "num": 183828,
+        "word": "6岁女孩遇到继母后如今判若两人",
+        "onboard_time": 1721955861,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177398,
+        "num": 177398,
+        "word": "汪顺 追我的人排到了法国",
+        "onboard_time": 1721969002,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174768,
+        "num": 174768,
+        "word": "百花奖抢票",
+        "onboard_time": 1721977280,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169208,
+        "num": 169208,
+        "word": "恋与深空电话预约",
+        "onboard_time": 1721978721,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166216,
+        "num": 166216,
+        "word": "周鸿祎回应睡觉被雷军瞪",
+        "onboard_time": 1721976739,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 165295,
+        "num": 165295,
+        "word": "这可能是史上最奢华又最抠门的奥运",
+        "onboard_time": 1721973618,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163885,
+        "num": 163885,
+        "word": "陈楚生回披荆斩棘",
+        "onboard_time": 1721977161,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163036,
+        "num": 163036,
+        "word": "山东小伙卖假睫毛成村里最强女婿",
+        "onboard_time": 1721977700,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159125,
+        "num": 159125,
+        "word": "关晓彤白吊带齐肩短发",
+        "onboard_time": 1721978961,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155528,
+        "num": 155528,
+        "word": "全红婵背包上挂了10KG动物园",
+        "onboard_time": 1721976979,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143558,
+        "num": 143558,
+        "word": "歌王之战歌单",
+        "onboard_time": 1721972482,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142906,
+        "num": 142906,
+        "word": "刘宇自曝巡演售罄依旧亏本",
+        "onboard_time": 1721966600,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的奥林匹克情缘#"
+    }
+  }
+}
