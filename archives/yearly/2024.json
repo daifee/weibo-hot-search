@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1722035974104,
+  "endTime": 1722036892493,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1787,6 +1787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4230542,
+      "num": 4230542,
+      "word": "央视解说沉默了",
+      "onboard_time": 1722019394,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 4229022,
       "num": 4229022,
       "word": "白玉兰内场",
@@ -1817,14 +1825,6 @@
       "onboard_time": 1709939602,
       "rank": 21,
       "category": "教育"
-    },
-    {
-      "raw_hot": 4176347,
-      "num": 4176347,
-      "word": "央视解说沉默了",
-      "onboard_time": 1722019394,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 4172565,
