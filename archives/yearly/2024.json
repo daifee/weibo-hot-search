@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1722000158778,
+  "endTime": 1722000857659,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -179,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 12402900,
+      "num": 12402900,
+      "word": "那英吃了回春丹",
+      "onboard_time": 1721999423,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 12343812,
       "num": 12343812,
       "word": "学校通报女教师出轨高中生",
@@ -200,6 +208,14 @@
       "word": "岳云鹏嘴瓢",
       "onboard_time": 1707481486,
       "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 12049355,
+      "num": 12049355,
+      "word": "歌手总决赛",
+      "onboard_time": 1721991739,
+      "rank": 1,
       "category": "综艺"
     },
     {
@@ -329,14 +345,6 @@
       "onboard_time": 1716178103,
       "rank": 1,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 10416436,
-      "num": 10416436,
-      "word": "那英吃了回春丹",
-      "onboard_time": 1721999423,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 10409378,
@@ -480,14 +488,6 @@
       "word": "投那英",
       "onboard_time": 1716554543,
       "rank": 20,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 9407681,
-      "num": 9407681,
-      "word": "歌手总决赛",
-      "onboard_time": 1721991739,
-      "rank": 1,
       "category": "综艺"
     },
     {
@@ -2219,6 +2219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3621648,
+      "num": 3621648,
+      "word": "香缇莫淘汰",
+      "onboard_time": 1722000326,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3614744,
       "num": 312234,
       "word": "潍坊出轨",
@@ -2392,14 +2400,6 @@
       "word": "缅北电诈四大家族覆灭",
       "onboard_time": 1706661628,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3474203,
-      "num": 295694,
-      "word": "女教师聊天记录",
-      "onboard_time": 1708357117,
-      "rank": 19,
       "category": "社会新闻"
     }
   ],

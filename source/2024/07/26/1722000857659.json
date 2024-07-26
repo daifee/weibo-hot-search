@@ -1,0 +1,410 @@
+{
+  "runTime": 1722000857659,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12402900,
+        "num": 12402900,
+        "word": "那英吃了回春丹",
+        "onboard_time": 1721999423,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12049355,
+        "num": 12049355,
+        "word": "歌手总决赛",
+        "onboard_time": 1721991739,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35651,
+        "num": 5278761,
+        "word": "高质量发展看四川",
+        "onboard_time": 1721983459,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3621648,
+        "num": 3621648,
+        "word": "香缇莫淘汰",
+        "onboard_time": 1722000326,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 885189,
+        "num": 885189,
+        "word": "开幕式路透",
+        "onboard_time": 1721984781,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 622057,
+        "num": 622057,
+        "word": "奥运会赛程",
+        "onboard_time": 1721978598,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 459337,
+        "num": 459337,
+        "word": "开幕式 熬夜",
+        "onboard_time": 1721964860,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 319861,
+        "num": 319861,
+        "word": "发条微博为中国健儿打call",
+        "onboard_time": 1721995640,
+        "rank": 7,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 39812,
+        "num": 319056,
+        "word": "黄子弘凡曾一天在机场来回6次",
+        "onboard_time": 1721988079,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87687,
+        "num": 317969,
+        "word": "法国铁路遭纵火等恶意袭击",
+        "onboard_time": 1721999484,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2179498,
+        "num": 316262,
+        "word": "谭维维哭了",
+        "onboard_time": 1721998042,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2027017,
+        "num": 315756,
+        "word": "中信建投实习生道歉",
+        "onboard_time": 1721992878,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2021292,
+        "num": 314818,
+        "word": "刘欢加孙楠 以为奥运开幕了",
+        "onboard_time": 1721997020,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33424,
+        "num": 312589,
+        "word": "刘德华舞台魅力非凡",
+        "onboard_time": 1721998342,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1950145,
+        "num": 311506,
+        "word": "汪苏泷忘词",
+        "onboard_time": 1721999121,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 489796,
+        "num": 310500,
+        "word": "印度女子生下2张脸4只胳膊婴儿",
+        "onboard_time": 1721975300,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309977,
+        "num": 309977,
+        "word": "大熊猫被自家娃遛了30分钟",
+        "onboard_time": 1721991680,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263092,
+        "num": 263092,
+        "word": "王超",
+        "onboard_time": 1721993899,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261790,
+        "num": 261790,
+        "word": "全红婵因跳207C饱受折磨",
+        "onboard_time": 1721980340,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250964,
+        "num": 250964,
+        "word": "印度一工人挖出近20克拉钻石",
+        "onboard_time": 1721999662,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1531737,
+        "num": 250930,
+        "word": "贾玲亮相奥委会主席晚宴",
+        "onboard_time": 1721995760,
+        "rank": 20,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 1519864,
+        "num": 246485,
+        "word": "陈楚生谭维维好搭",
+        "onboard_time": 1721998521,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1414654,
+        "num": 244536,
+        "word": "那英燃炸了",
+        "onboard_time": 1721999662,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1286238,
+        "num": 243091,
+        "word": "张杰凡希亚 强强联合",
+        "onboard_time": 1721996420,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 722363,
+        "num": 239771,
+        "word": "中信建投实习生说网上身份信息不实",
+        "onboard_time": 1721992520,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1008899,
+        "num": 238896,
+        "word": "贾玲巴黎状态",
+        "onboard_time": 1721996179,
+        "rank": 25,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 956926,
+        "num": 234611,
+        "word": "歌手第一轮帮帮唱",
+        "onboard_time": 1721996240,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 940873,
+        "num": 233631,
+        "word": "迪玛希白月光回来了",
+        "onboard_time": 1721999062,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 559910,
+        "num": 230011,
+        "word": "中信建投实习生泄漏IPO材料",
+        "onboard_time": 1721981539,
+        "rank": 28,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 395644,
+        "num": 228595,
+        "word": "乒乓球果然是顶流啊",
+        "onboard_time": 1721996361,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 868000,
+        "num": 225158,
+        "word": "古巨基一直看提词器",
+        "onboard_time": 1721999182,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 859027,
+        "num": 224180,
+        "word": "张磊秒了海来阿木",
+        "onboard_time": 1721996240,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 623066,
+        "num": 221466,
+        "word": "还我黄宣",
+        "onboard_time": 1721996301,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343581,
+        "num": 217888,
+        "word": "眼睛里取出来好多结石",
+        "onboard_time": 1721991979,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 217401,
+        "num": 217401,
+        "word": "男性怀孕或成现实",
+        "onboard_time": 1721965161,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461390,
+        "num": 216843,
+        "word": "刘欢锐评",
+        "onboard_time": 1721997141,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 528483,
+        "num": 215115,
+        "word": "海来阿木 难听",
+        "onboard_time": 1721995880,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211862,
+        "num": 211862,
+        "word": "琴棋书画版夏雨荷具象化了",
+        "onboard_time": 1721999785,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197376,
+        "num": 211862,
+        "word": "中信建投回应网传高校学生视频",
+        "onboard_time": 1721982920,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176270,
+        "num": 211859,
+        "word": "王翘楚",
+        "onboard_time": 1721992158,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377565,
+        "num": 211855,
+        "word": "那英鲜花",
+        "onboard_time": 1722000564,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364292,
+        "num": 211852,
+        "word": "种地吧是十个勤天的起点不是终点",
+        "onboard_time": 1721997322,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328924,
+        "num": 211848,
+        "word": "胡歌白发这么多了",
+        "onboard_time": 1721992038,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173973,
+        "num": 211847,
+        "word": "开幕式 夜宵",
+        "onboard_time": 1721988438,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173250,
+        "num": 211843,
+        "word": "奥运会",
+        "onboard_time": 1721997383,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144418,
+        "num": 211839,
+        "word": "中国代表团巴黎奥运全家福",
+        "onboard_time": 1721999121,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137068,
+        "num": 211836,
+        "word": "全红婵背包上挂了10KG动物园",
+        "onboard_time": 1721976979,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134000,
+        "num": 211835,
+        "word": "券商光速加强管理实习生接触范围",
+        "onboard_time": 1721999966,
+        "rank": 47,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 125053,
+        "num": 211830,
+        "word": "巴黎奥运助威曲龙腾",
+        "onboard_time": 1721999121,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115897,
+        "num": 211829,
+        "word": "巴黎奥运会金牌日历",
+        "onboard_time": 1721989880,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂全会决定中的这些名词#"
+    }
+  }
+}
