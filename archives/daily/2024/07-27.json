@@ -1,6 +1,6 @@
 {
   "startTime": 1722011177149,
-  "endTime": 1722026058416,
+  "endTime": 1722028761109,
   "band_list": [
     {
       "raw_hot": 8956068,
@@ -67,6 +67,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1637109,
+      "num": 1637109,
+      "word": "巴黎开幕式 真的牛",
+      "onboard_time": 1722022813,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1592994,
       "num": 1592994,
       "word": "LadyGaga像火烈鸟一样窜出来",
@@ -80,14 +88,6 @@
       "word": "开幕式 LV硬广",
       "onboard_time": 1722018136,
       "rank": 26,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1555245,
-      "num": 1555245,
-      "word": "巴黎开幕式 真的牛",
-      "onboard_time": 1722022813,
-      "rank": 3,
       "category": "体育"
     },
     {
@@ -315,6 +315,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 462332,
+      "num": 462332,
+      "word": "奥林匹克会旗挂反了",
+      "onboard_time": 1722028032,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 458165,
       "num": 458165,
       "word": "歌剧魅影",
@@ -355,6 +363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 376390,
+      "num": 376390,
+      "word": "中国台北",
+      "onboard_time": 1722024553,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 353186,
       "num": 353186,
       "word": "奥运会 入场穿插表演",
@@ -377,6 +393,14 @@
       "onboard_time": 1721991739,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 330846,
+      "num": 330846,
+      "word": "没有俄罗斯",
+      "onboard_time": 1722024672,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 317697,
@@ -467,6 +491,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 270026,
+      "num": 270026,
+      "word": "法国要不要擦下镜头呢",
+      "onboard_time": 1722020714,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 269601,
       "num": 269601,
       "word": "日本代表团这么多人",
@@ -512,14 +544,6 @@
       "word": "中国代表团预计第41个入场",
       "onboard_time": 1722007043,
       "rank": 29,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 230909,
-      "num": 230909,
-      "word": "法国要不要擦下镜头呢",
-      "onboard_time": 1722020714,
-      "rank": 39,
       "category": "体育"
     },
     {
@@ -723,22 +747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186103,
-      "num": 186103,
-      "word": "中国台北",
-      "onboard_time": 1722024553,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 184020,
-      "num": 184020,
-      "word": "没有俄罗斯",
-      "onboard_time": 1722024672,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 182029,
       "num": 182029,
       "word": "巴黎圣母院 还在修",
@@ -859,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158307,
+      "num": 158307,
+      "word": "法国 一个P值点满的国家",
+      "onboard_time": 1722025512,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157817,
       "num": 157817,
       "word": "贾玲好大气",
@@ -891,11 +907,43 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145046,
+      "num": 145046,
+      "word": "雨淋钢琴 火烧钢琴",
+      "onboard_time": 1722025932,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 144695,
+      "num": 138539,
+      "word": "巴黎奥运最伟大最震撼的环节",
+      "onboard_time": 1722025393,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141136,
       "num": 141136,
       "word": "终于等到詹姆斯",
       "onboard_time": 1722025332,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 139509,
+      "num": 139509,
+      "word": "巴黎奥运开幕式 好癫好爱",
+      "onboard_time": 1722025691,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 136815,
+      "num": 136815,
+      "word": "机械马女骑手 钢铁女骑士",
+      "onboard_time": 1722026294,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -979,11 +1027,11 @@
       "category": "体育,演出"
     },
     {
-      "raw_hot": 112324,
-      "num": 112324,
-      "word": "巴黎奥运开幕式 好癫好爱",
-      "onboard_time": 1722025691,
-      "rank": 37,
+      "raw_hot": 114370,
+      "num": 114370,
+      "word": "巴黎奥运正式开幕",
+      "onboard_time": 1722028331,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -995,14 +1043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 96404,
-      "num": 96404,
-      "word": "巴黎奥运最伟大最震撼的环节",
-      "onboard_time": 1722025393,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 91966,
       "num": 514070,
       "word": "初二男生保送清华大学本硕博连读",
@@ -1011,19 +1051,11 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 90092,
-      "num": 90092,
-      "word": "法国 一个P值点满的国家",
-      "onboard_time": 1722025512,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 85951,
-      "num": 85951,
-      "word": "雨淋钢琴 火烧钢琴",
-      "onboard_time": 1722025932,
-      "rank": 46,
+      "raw_hot": 89478,
+      "num": 89478,
+      "word": "巴黎开幕式太多元了",
+      "onboard_time": 1722026172,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -1059,8 +1091,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 36888,
-      "num": 317867,
+      "raw_hot": 38664,
+      "num": 331355,
       "word": "LVMH法式运动优雅",
       "onboard_time": 1722024313,
       "rank": 19,

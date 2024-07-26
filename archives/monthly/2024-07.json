@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1722026058416,
+  "endTime": 1722028761109,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -1899,6 +1899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1637109,
+      "num": 1637109,
+      "word": "巴黎开幕式 真的牛",
+      "onboard_time": 1722022813,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1629065,
       "num": 1629065,
       "word": "一所被低估的211大学",
@@ -2177,14 +2185,6 @@
       "onboard_time": 1721799620,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1555245,
-      "num": 1555245,
-      "word": "巴黎开幕式 真的牛",
-      "onboard_time": 1722022813,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 1550455,
@@ -16907,6 +16907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 462332,
+      "num": 462332,
+      "word": "奥林匹克会旗挂反了",
+      "onboard_time": 1722028032,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 462201,
       "num": 397452,
       "word": "披荆斩棘4返场哥哥投票",
@@ -21243,6 +21251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 376390,
+      "num": 376390,
+      "word": "中国台北",
+      "onboard_time": 1722024553,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 376343,
       "num": 548752,
       "word": "喝隔夜水会致癌吗",
@@ -23873,6 +23889,14 @@
       "onboard_time": 1719791778,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 330846,
+      "num": 330846,
+      "word": "没有俄罗斯",
+      "onboard_time": 1722024672,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 330571,
@@ -28219,6 +28243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270026,
+      "num": 270026,
+      "word": "法国要不要擦下镜头呢",
+      "onboard_time": 1722020714,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 269856,
       "num": 269856,
       "word": "王子奇王星越给沈月整无语了",
@@ -32137,14 +32169,6 @@
       "onboard_time": 1720418300,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 230909,
-      "num": 230909,
-      "word": "法国要不要擦下镜头呢",
-      "onboard_time": 1722020714,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 230851,
@@ -42715,14 +42739,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 186103,
-      "num": 186103,
-      "word": "中国台北",
-      "onboard_time": 1722024553,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 186001,
       "num": 186001,
       "word": "陈道明入行50年第一次跑厅",
@@ -43185,14 +43201,6 @@
       "onboard_time": 1721739258,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 184020,
-      "num": 184020,
-      "word": "没有俄罗斯",
-      "onboard_time": 1722024672,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 184014,
@@ -50163,6 +50171,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 158307,
+      "num": 158307,
+      "word": "法国 一个P值点满的国家",
+      "onboard_time": 1722025512,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158285,
       "num": 158285,
       "word": "姆巴佩入驻微博",
@@ -53683,6 +53699,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 145046,
+      "num": 145046,
+      "word": "雨淋钢琴 火烧钢琴",
+      "onboard_time": 1722025932,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145026,
       "num": 145026,
       "word": "同事帮我带饭都是素菜收5元",
@@ -53761,6 +53785,14 @@
       "onboard_time": 1720681157,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144695,
+      "num": 138539,
+      "word": "巴黎奥运最伟大最震撼的环节",
+      "onboard_time": 1722025393,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 144669,
@@ -55259,6 +55291,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 139509,
+      "num": 139509,
+      "word": "巴黎奥运开幕式 好癫好爱",
+      "onboard_time": 1722025691,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139480,
       "num": 139480,
       "word": "已坐等长相思2求周一放过",
@@ -56041,6 +56081,14 @@
       "onboard_time": 1720097658,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136815,
+      "num": 136815,
+      "word": "机械马女骑手 钢铁女骑士",
+      "onboard_time": 1722026294,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 136799,
@@ -62051,6 +62099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114370,
+      "num": 114370,
+      "word": "巴黎奥运正式开幕",
+      "onboard_time": 1722028331,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114346,
       "num": 143665,
       "word": "看完这组名片你说中国City不City啊",
@@ -62497,14 +62553,6 @@
       "onboard_time": 1720252157,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 112324,
-      "num": 112324,
-      "word": "巴黎奥运开幕式 好癫好爱",
-      "onboard_time": 1722025691,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 112240,
@@ -65347,14 +65395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 96404,
-      "num": 96404,
-      "word": "巴黎奥运最伟大最震撼的环节",
-      "onboard_time": 1722025393,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 96340,
       "num": 96340,
       "word": "王源直播",
@@ -66267,14 +66307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 90092,
-      "num": 90092,
-      "word": "法国 一个P值点满的国家",
-      "onboard_time": 1722025512,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 90050,
       "num": 296227,
       "word": "详解不同年龄段海姆立克急救法",
@@ -66297,6 +66329,14 @@
       "onboard_time": 1720136356,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 89478,
+      "num": 89478,
+      "word": "巴黎开幕式太多元了",
+      "onboard_time": 1722026172,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 89396,
@@ -66657,14 +66697,6 @@
       "onboard_time": 1721024599,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85951,
-      "num": 85951,
-      "word": "雨淋钢琴 火烧钢琴",
-      "onboard_time": 1722025932,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 85884,
@@ -72811,6 +72843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 38664,
+      "num": 331355,
+      "word": "LVMH法式运动优雅",
+      "onboard_time": 1722024313,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38614,
       "num": 38614,
       "word": "古代的吸管杯又美又潮",
@@ -73017,14 +73057,6 @@
       "onboard_time": 1720337897,
       "rank": 9,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 36888,
-      "num": 317867,
-      "word": "LVMH法式运动优雅",
-      "onboard_time": 1722024313,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 36887,
