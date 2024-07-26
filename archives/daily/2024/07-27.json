@@ -1,6 +1,6 @@
 {
   "startTime": 1722011177149,
-  "endTime": 1722032368455,
+  "endTime": 1722033365632,
   "band_list": [
     {
       "raw_hot": 8956068,
@@ -51,8 +51,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2439668,
-      "num": 2439668,
+      "raw_hot": 3094593,
+      "num": 3094593,
       "word": "巴黎开幕式 真的牛",
       "onboard_time": 1722022813,
       "rank": 3,
@@ -211,6 +211,14 @@
       "category": "电影,体育"
     },
     {
+      "raw_hot": 671007,
+      "num": 671007,
+      "word": "巴黎奥运主火炬点燃",
+      "onboard_time": 1722029353,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 660170,
       "num": 660170,
       "word": "美国包船",
@@ -227,14 +235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 645275,
-      "num": 645275,
-      "word": "巴黎奥运主火炬点燃",
-      "onboard_time": 1722029353,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 600903,
       "num": 600903,
       "word": "旗手马龙出发了",
@@ -243,20 +243,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 584606,
+      "num": 584606,
+      "word": "席琳迪翁终于来了",
+      "onboard_time": 1722029472,
+      "rank": 14,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 580043,
       "num": 580043,
       "word": "中国队镜头呢",
       "onboard_time": 1722018196,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 560795,
-      "num": 560795,
-      "word": "席琳迪翁终于来了",
-      "onboard_time": 1722029472,
-      "rank": 14,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 553686,
@@ -411,6 +411,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 339678,
+      "num": 339678,
+      "word": "法国要不要擦下镜头呢",
+      "onboard_time": 1722020714,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 335104,
       "num": 261474,
       "word": "歌手总决赛",
@@ -489,14 +497,6 @@
       "onboard_time": 1721996420,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 280632,
-      "num": 280632,
-      "word": "法国要不要擦下镜头呢",
-      "onboard_time": 1722020714,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 279968,
@@ -859,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169461,
+      "num": 169461,
+      "word": "巴黎奥运会把韩国念成朝鲜",
+      "onboard_time": 1722029952,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163308,
       "num": 163308,
       "word": "谷爱凌开幕式红毯比心",
@@ -915,8 +923,8 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 155268,
-      "num": 155268,
+      "raw_hot": 155962,
+      "num": 155962,
       "word": "巴黎奥运最伟大最震撼的环节",
       "onboard_time": 1722025393,
       "rank": 42,
@@ -952,14 +960,6 @@
       "word": "雨淋钢琴 火烧钢琴",
       "onboard_time": 1722025932,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 141808,
-      "num": 141808,
-      "word": "巴黎奥运会把韩国念成朝鲜",
-      "onboard_time": 1722029952,
-      "rank": 33,
       "category": "体育"
     },
     {
@@ -1067,19 +1067,19 @@
       "category": "体育,演出"
     },
     {
+      "raw_hot": 115150,
+      "num": 115150,
+      "word": "纳达尔齐达内传奇同框",
+      "onboard_time": 1722030253,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106488,
       "num": 106488,
       "word": "五星红旗闪耀巴黎",
       "onboard_time": 1722032114,
       "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 101474,
-      "num": 101474,
-      "word": "纳达尔齐达内传奇同框",
-      "onboard_time": 1722030253,
-      "rank": 39,
       "category": "体育"
     },
     {
@@ -1139,7 +1139,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 47976,
+      "raw_hot": 56671,
       "num": 3720770,
       "word": "闪耀奥运赛场的中国骄傲",
       "onboard_time": 1722001223,
@@ -1171,6 +1171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27927,
+      "num": 586374,
+      "word": "商场回应男子辱骂coser殴打员工",
+      "onboard_time": 1722031873,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27213,
       "num": 194172,
       "word": "凡希亚祝运动员无负担拿第一",
@@ -1183,14 +1191,6 @@
       "num": 1169874,
       "word": "潮州街道水浸水位高至车顶",
       "onboard_time": 1722016457,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22673,
-      "num": 582812,
-      "word": "商场回应男子辱骂coser殴打员工",
-      "onboard_time": 1722031873,
       "rank": 9,
       "category": "社会新闻"
     },

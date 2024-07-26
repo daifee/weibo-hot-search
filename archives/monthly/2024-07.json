@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1722032368455,
+  "endTime": 1722033365632,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -499,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3094593,
+      "num": 3094593,
+      "word": "巴黎开幕式 真的牛",
+      "onboard_time": 1722022813,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3031333,
       "num": 318834,
       "word": "刘涛",
@@ -745,14 +753,6 @@
       "onboard_time": 1721487622,
       "rank": 4,
       "category": "演出"
-    },
-    {
-      "raw_hot": 2439668,
-      "num": 2439668,
-      "word": "巴黎开幕式 真的牛",
-      "onboard_time": 1722022813,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 2423315,
@@ -10155,6 +10155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 671007,
+      "num": 671007,
+      "word": "巴黎奥运主火炬点燃",
+      "onboard_time": 1722029353,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 670397,
       "num": 670397,
       "word": "重生之我是江浙沪独女",
@@ -10745,14 +10753,6 @@
       "onboard_time": 1719841880,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 645275,
-      "num": 645275,
-      "word": "巴黎奥运主火炬点燃",
-      "onboard_time": 1722029353,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 645203,
@@ -12395,6 +12395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 584606,
+      "num": 584606,
+      "word": "席琳迪翁终于来了",
+      "onboard_time": 1722029472,
+      "rank": 14,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 584330,
       "num": 584330,
       "word": "新冠疫苗自费接种定价首次公布",
@@ -13137,14 +13145,6 @@
       "onboard_time": 1720930645,
       "rank": 30,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 560795,
-      "num": 560795,
-      "word": "席琳迪翁终于来了",
-      "onboard_time": 1722029472,
-      "rank": 14,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 560726,
@@ -23435,6 +23435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 339678,
+      "num": 339678,
+      "word": "法国要不要擦下镜头呢",
+      "onboard_time": 1722020714,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 339570,
       "num": 339570,
       "word": "岂能尽如人意 但求不愧我心",
@@ -27529,14 +27537,6 @@
       "onboard_time": 1721440639,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 280632,
-      "num": 280632,
-      "word": "法国要不要擦下镜头呢",
-      "onboard_time": 1722020714,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 280383,
@@ -47163,6 +47163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 169461,
+      "num": 169461,
+      "word": "巴黎奥运会把韩国念成朝鲜",
+      "onboard_time": 1722029952,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169416,
       "num": 169416,
       "word": "高圆圆吊带白裙",
@@ -50859,6 +50867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155962,
+      "num": 155962,
+      "word": "巴黎奥运最伟大最震撼的环节",
+      "onboard_time": 1722025393,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155956,
       "num": 155956,
       "word": "淡人张真源遇上浓人白鹿",
@@ -51065,14 +51081,6 @@
       "onboard_time": 1721566340,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155268,
-      "num": 155268,
-      "word": "巴黎奥运最伟大最震撼的环节",
-      "onboard_time": 1722025393,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 155245,
@@ -54633,14 +54641,6 @@
       "onboard_time": 1721229618,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 141808,
-      "num": 141808,
-      "word": "巴黎奥运会把韩国念成朝鲜",
-      "onboard_time": 1722029952,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 141792,
@@ -62011,6 +62011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 115150,
+      "num": 115150,
+      "word": "纳达尔齐达内传奇同框",
+      "onboard_time": 1722030253,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115108,
       "num": 388603,
       "word": "黄岩岛海域生态环境全面体检",
@@ -64729,14 +64737,6 @@
       "onboard_time": 1720662199,
       "rank": 46,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 101474,
-      "num": 101474,
-      "word": "纳达尔齐达内传奇同框",
-      "onboard_time": 1722030253,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 101451,
@@ -74467,6 +74467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27927,
+      "num": 586374,
+      "word": "商场回应男子辱骂coser殴打员工",
+      "onboard_time": 1722031873,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27904,
       "num": 311131,
       "word": "像SIM卡槽一样薄的手机",
@@ -75448,14 +75456,6 @@
       "word": "我们的家园幸福美丽西藏",
       "onboard_time": 1721634080,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22673,
-      "num": 582812,
-      "word": "商场回应男子辱骂coser殴打员工",
-      "onboard_time": 1722031873,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
