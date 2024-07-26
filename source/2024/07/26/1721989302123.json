@@ -1,0 +1,410 @@
+{
+  "runTime": 1721989302123,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2685887,
+        "num": 2685887,
+        "word": "中信建投实习生泄漏IPO材料",
+        "onboard_time": 1721981539,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 973364,
+        "num": 973364,
+        "word": "全红婵因跳207C饱受折磨",
+        "onboard_time": 1721980340,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39963,
+        "num": 891878,
+        "word": "高质量发展看四川",
+        "onboard_time": 1721983459,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 855244,
+        "num": 855244,
+        "word": "开幕式路透",
+        "onboard_time": 1721984781,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 747692,
+        "num": 747692,
+        "word": "中信建投回应网传高校学生视频",
+        "onboard_time": 1721982920,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554452,
+        "num": 554452,
+        "word": "开幕式 熬夜",
+        "onboard_time": 1721964860,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 501859,
+        "num": 501859,
+        "word": "肖战国外买的纪念品madeinChina",
+        "onboard_time": 1721975960,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429646,
+        "num": 429646,
+        "word": "官方通报古茗奶茶中疑有血痰",
+        "onboard_time": 1721968282,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101648,
+        "num": 429632,
+        "word": "奥运是和你一起难忘的夏天",
+        "onboard_time": 1721970322,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136263,
+        "num": 429513,
+        "word": "直击沈阳暴雨",
+        "onboard_time": 1721982680,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1173724,
+        "num": 429471,
+        "word": "印度女子生下2张脸4只胳膊婴儿",
+        "onboard_time": 1721975300,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611724,
+        "num": 429337,
+        "word": "诊所140元药卖2980患者家属发声",
+        "onboard_time": 1721983701,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429335,
+        "num": 429335,
+        "word": "奥运会赛程",
+        "onboard_time": 1721978598,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 426881,
+        "num": 426881,
+        "word": "李冰冰魏大勋豪门姐弟",
+        "onboard_time": 1721983040,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370075,
+        "num": 370075,
+        "word": "全红婵背包上挂了10KG动物园",
+        "onboard_time": 1721976979,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 366432,
+        "num": 366432,
+        "word": "大二女生卧室被父母安装摄像头",
+        "onboard_time": 1721969420,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327324,
+        "num": 327324,
+        "word": "女子穿吊带被老人当街指责没家教",
+        "onboard_time": 1721969961,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353986,
+        "num": 313097,
+        "word": "闲鱼 服务费",
+        "onboard_time": 1721988920,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 49994,
+        "num": 284693,
+        "word": "科幻电影里的车都怎么出现",
+        "onboard_time": 1721985440,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 273720,
+        "num": 273720,
+        "word": "中信建投",
+        "onboard_time": 1721981539,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 670629,
+        "num": 273026,
+        "word": "男性怀孕或成现实",
+        "onboard_time": 1721965161,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271960,
+        "num": 271960,
+        "word": "陈思铭 在最美好的年纪遇见了彼此",
+        "onboard_time": 1721982801,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 254609,
+        "num": 254609,
+        "word": "台风",
+        "onboard_time": 1721972360,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231696,
+        "num": 231696,
+        "word": "华为出游戏本了",
+        "onboard_time": 1721985260,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 230049,
+        "num": 230049,
+        "word": "歌王之战歌单",
+        "onboard_time": 1721972482,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222125,
+        "num": 222125,
+        "word": "开幕式 夜宵",
+        "onboard_time": 1721988438,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219339,
+        "num": 219339,
+        "word": "男子准备跳水遭野猴攻击将猴推下山崖",
+        "onboard_time": 1721982500,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16414,
+        "num": 208984,
+        "word": "与众不同的王霏霏",
+        "onboard_time": 1721988438,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203257,
+        "num": 203257,
+        "word": "阿娇 确定七夕不一起过吗",
+        "onboard_time": 1721983520,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 71899,
+        "num": 195664,
+        "word": "巴黎奥运北京时间凌晨开幕",
+        "onboard_time": 1721951419,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189904,
+        "num": 189904,
+        "word": "巴黎八分钟",
+        "onboard_time": 1721988679,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188304,
+        "num": 188304,
+        "word": "张艺兴电梯自拍",
+        "onboard_time": 1721983220,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182859,
+        "num": 182859,
+        "word": "马龙回应是否最后一次出战奥运",
+        "onboard_time": 1721984600,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165588,
+        "num": 165588,
+        "word": "黄子弘凡曾一天在机场来回6次",
+        "onboard_time": 1721988079,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164471,
+        "num": 164471,
+        "word": "带癌上班的年轻人不敢躺平",
+        "onboard_time": 1721976679,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 160780,
+        "num": 160780,
+        "word": "吴昕劝被家暴的旺旺妈妈再婚",
+        "onboard_time": 1721964680,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157840,
+        "num": 157840,
+        "word": "王栎鑫被路人认成了张艺兴",
+        "onboard_time": 1721988980,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157094,
+        "num": 157094,
+        "word": "星穹铁道coser运动会",
+        "onboard_time": 1721987480,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153118,
+        "num": 153118,
+        "word": "番茄小说多个作品高度雷同",
+        "onboard_time": 1721966421,
+        "rank": 38,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 143754,
+        "num": 143754,
+        "word": "异人之下剧情",
+        "onboard_time": 1721980698,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141828,
+        "num": 141828,
+        "word": "张杰回应和凡希亚组合名",
+        "onboard_time": 1721974459,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137944,
+        "num": 137944,
+        "word": "陈妍希沈月淘汰",
+        "onboard_time": 1721973080,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134156,
+        "num": 134156,
+        "word": "巴黎作息",
+        "onboard_time": 1721988438,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130177,
+        "num": 130177,
+        "word": "全红婵哥哥感谢妹妹带来的变化",
+        "onboard_time": 1721988259,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130151,
+        "num": 130151,
+        "word": "俞敏洪现在亲自带主播",
+        "onboard_time": 1721988199,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 129709,
+        "num": 129709,
+        "word": "奥运官网 运动员念自己名字",
+        "onboard_time": 1721986520,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126873,
+        "num": 129709,
+        "word": "杨幂卡诗剪影预热",
+        "onboard_time": 1721982020,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123824,
+        "num": 129698,
+        "word": "全红婵父亲称不能只靠女儿的名气",
+        "onboard_time": 1721980580,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123507,
+        "num": 129696,
+        "word": "看完异人之下又服了乌尔善一次",
+        "onboard_time": 1721988199,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122718,
+        "num": 129686,
+        "word": "三个月瘦了40斤的运动之路",
+        "onboard_time": 1721971459,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂全会决定中的这些名词#"
+    }
+  }
+}

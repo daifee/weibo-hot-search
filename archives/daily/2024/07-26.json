@@ -1,6 +1,6 @@
 {
   "startTime": 1721924711965,
-  "endTime": 1721986489731,
+  "endTime": 1721989302123,
   "band_list": [
     {
       "raw_hot": 3714268,
@@ -305,6 +305,14 @@
       "onboard_time": 1721973199,
       "rank": 5,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 611724,
+      "num": 516881,
+      "word": "诊所140元药卖2980患者家属发声",
+      "onboard_time": 1721983701,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 601167,
@@ -651,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 353986,
+      "num": 313097,
+      "word": "闲鱼 服务费",
+      "onboard_time": 1721988920,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 351701,
       "num": 351701,
       "word": "陈哲远靠生图救了自己",
@@ -875,14 +891,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 259753,
-      "num": 516881,
-      "word": "诊所140元药卖2980患者家属发声",
-      "onboard_time": 1721983701,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 258340,
       "num": 258340,
       "word": "徐明浩上恋综了",
@@ -947,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231696,
+      "num": 231696,
+      "word": "华为出游戏本了",
+      "onboard_time": 1721985260,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 231170,
       "num": 231170,
       "word": "武大雷军班录取分数",
@@ -979,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222125,
+      "num": 222125,
+      "word": "开幕式 夜宵",
+      "onboard_time": 1721988438,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216526,
       "num": 216526,
       "word": "张艺兴电梯自拍",
@@ -993,14 +1017,6 @@
       "onboard_time": 1721912959,
       "rank": 18,
       "category": "网红"
-    },
-    {
-      "raw_hot": 216170,
-      "num": 216170,
-      "word": "华为出游戏本了",
-      "onboard_time": 1721985260,
-      "rank": 38,
-      "category": "数码"
     },
     {
       "raw_hot": 215472,
@@ -1251,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189904,
+      "num": 189904,
+      "word": "巴黎八分钟",
+      "onboard_time": 1721988679,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189092,
       "num": 189092,
       "word": "王栎鑫陆虎高情商发言",
@@ -1499,6 +1523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165588,
+      "num": 165588,
+      "word": "黄子弘凡曾一天在机场来回6次",
+      "onboard_time": 1721988079,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164954,
       "num": 164954,
       "word": "陈奕迅大连抢票",
@@ -1585,6 +1617,22 @@
       "onboard_time": 1721952620,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157840,
+      "num": 157840,
+      "word": "王栎鑫被路人认成了张艺兴",
+      "onboard_time": 1721988980,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 157094,
+      "num": 157094,
+      "word": "星穹铁道coser运动会",
+      "onboard_time": 1721987480,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 154441,
@@ -1731,6 +1779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136263,
+      "num": 429513,
+      "word": "直击沈阳暴雨",
+      "onboard_time": 1721982680,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136236,
       "num": 136236,
       "word": "逆水寒手游更新",
@@ -1747,6 +1803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134156,
+      "num": 134156,
+      "word": "巴黎作息",
+      "onboard_time": 1721988438,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132036,
       "num": 132036,
       "word": "哈里斯与特朗普谁的胜算更大",
@@ -1761,6 +1825,30 @@
       "onboard_time": 1721923518,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 130177,
+      "num": 130177,
+      "word": "全红婵哥哥感谢妹妹带来的变化",
+      "onboard_time": 1721988259,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 130151,
+      "num": 130151,
+      "word": "俞敏洪现在亲自带主播",
+      "onboard_time": 1721988199,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 129709,
+      "num": 129709,
+      "word": "奥运官网 运动员念自己名字",
+      "onboard_time": 1721986520,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 129685,
@@ -1833,6 +1921,14 @@
       "onboard_time": 1721949195,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 123507,
+      "num": 129696,
+      "word": "看完异人之下又服了乌尔善一次",
+      "onboard_time": 1721988199,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 121494,
@@ -2163,6 +2259,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 39963,
+      "num": 891878,
+      "word": "高质量发展看四川",
+      "onboard_time": 1721983459,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38614,
       "num": 38614,
       "word": "古代的吸管杯又美又潮",
@@ -2385,6 +2489,14 @@
       "onboard_time": 1721936052,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16414,
+      "num": 208984,
+      "word": "与众不同的王霏霏",
+      "onboard_time": 1721988438,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 15644,
