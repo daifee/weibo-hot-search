@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721997373688,
+  "endTime": 1721998279854,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -593,6 +593,14 @@
       "onboard_time": 1721361863,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2524203,
+      "num": 2524203,
+      "word": "刘欢加孙楠 以为奥运开幕了",
+      "onboard_time": 1721997020,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 2489741,
@@ -2187,6 +2195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1504880,
+      "num": 597836,
+      "word": "贾玲亮相奥委会主席晚宴",
+      "onboard_time": 1721995760,
+      "rank": 11,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 1503953,
       "num": 1459805,
       "word": "小鱼海棠 小英",
@@ -3451,11 +3467,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1216992,
+      "num": 595989,
+      "word": "贾玲巴黎状态",
+      "onboard_time": 1721996179,
+      "rank": 14,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 1215561,
       "num": 1215561,
       "word": "我家那闺女首发阵容官宣",
       "onboard_time": 1719974237,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1211011,
+      "num": 288359,
+      "word": "谭维维哭了",
+      "onboard_time": 1721998042,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -4521,14 +4553,6 @@
       "onboard_time": 1721042777,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1066575,
-      "num": 597836,
-      "word": "贾玲亮相奥委会主席晚宴",
-      "onboard_time": 1721995760,
-      "rank": 11,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 1064752,
@@ -9859,14 +9883,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 669980,
-      "num": 595989,
-      "word": "贾玲巴黎状态",
-      "onboard_time": 1721996179,
-      "rank": 14,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 669483,
       "num": 348870,
       "word": "只有工资到账那一秒是爽的",
@@ -10473,6 +10489,14 @@
       "onboard_time": 1720489098,
       "rank": 19,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 641894,
+      "num": 281986,
+      "word": "刘欢锐评",
+      "onboard_time": 1721997141,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 641439,
@@ -11225,14 +11249,6 @@
       "onboard_time": 1720224436,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 611785,
-      "num": 333849,
-      "word": "刘欢加孙楠 以为奥运开幕了",
-      "onboard_time": 1721997020,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 611725,
@@ -15113,6 +15129,14 @@
       "onboard_time": 1720061537,
       "rank": 13,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 495843,
+      "num": 306848,
+      "word": "种地吧是十个勤天的起点不是终点",
+      "onboard_time": 1721997322,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 495761,
@@ -20715,6 +20739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 377326,
+      "num": 270629,
+      "word": "乒乓球果然是顶流啊",
+      "onboard_time": 1721996361,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 377056,
       "num": 377056,
       "word": "亚马尔领奖还是没经验",
@@ -22675,6 +22707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 343471,
+      "num": 265421,
+      "word": "马子佳婚礼",
+      "onboard_time": 1721997621,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 343224,
       "num": 343224,
       "word": "买房不建议买槽钢层",
@@ -23153,6 +23193,14 @@
       "onboard_time": 1720423758,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 334687,
+      "num": 270086,
+      "word": "歌王预测",
+      "onboard_time": 1721996601,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 334302,
@@ -24907,14 +24955,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 306848,
-      "num": 306848,
-      "word": "种地吧是十个勤天的起点不是终点",
-      "onboard_time": 1721997322,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 306635,
       "num": 306635,
       "word": "男子给差评烧烤店说没来消费",
@@ -25401,6 +25441,14 @@
       "onboard_time": 1721882360,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 298798,
+      "num": 298798,
+      "word": "奥运会",
+      "onboard_time": 1721877739,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 298759,
@@ -27371,6 +27419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 273827,
+      "num": 612925,
+      "word": "大熊猫被自家娃遛了30分钟",
+      "onboard_time": 1721991680,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273803,
       "num": 391967,
       "word": "女警一声大喊救险被货车碾压的骑车人",
@@ -27579,14 +27635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 270629,
-      "num": 270629,
-      "word": "乒乓球果然是顶流啊",
-      "onboard_time": 1721996361,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 270597,
       "num": 270597,
       "word": "这是今早的香港金紫荆广场",
@@ -27633,14 +27681,6 @@
       "onboard_time": 1721184017,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 270086,
-      "num": 270086,
-      "word": "歌王预测",
-      "onboard_time": 1721996601,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 269856,
@@ -29297,6 +29337,14 @@
       "onboard_time": 1720570098,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 249708,
+      "num": 249708,
+      "word": "林俊杰青岛演唱会抢票",
+      "onboard_time": 1721997322,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 249680,
@@ -31659,14 +31707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 229594,
-      "num": 229594,
-      "word": "刘欢锐评",
-      "onboard_time": 1721997141,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 229509,
       "num": 229509,
       "word": "史彭元 晋江男主啥样啊",
@@ -32123,6 +32163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226201,
+      "num": 226201,
+      "word": "巴黎作息",
+      "onboard_time": 1721988438,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 226199,
       "num": 226199,
       "word": "张若昀空降北京电影院",
@@ -32536,6 +32584,14 @@
       "word": "陈丽君 果然自信会影响气场",
       "onboard_time": 1720973718,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 222833,
+      "num": 222833,
+      "word": "陈楚生真空深V",
+      "onboard_time": 1721997980,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -33601,14 +33657,6 @@
       "onboard_time": 1721280559,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 215885,
-      "num": 612925,
-      "word": "大熊猫被自家娃遛了30分钟",
-      "onboard_time": 1721991680,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 215773,
@@ -37097,14 +37145,6 @@
       "onboard_time": 1721964441,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 201290,
-      "num": 201290,
-      "word": "奥运会",
-      "onboard_time": 1721877739,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 201286,
@@ -44019,14 +44059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 177027,
-      "num": 177027,
-      "word": "林俊杰青岛演唱会抢票",
-      "onboard_time": 1721997322,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 177005,
       "num": 216931,
       "word": "张真源被水浇到原地起飞",
@@ -44689,6 +44721,14 @@
       "onboard_time": 1721117718,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 174838,
+      "num": 174838,
+      "word": "BLG对战NIP",
+      "onboard_time": 1721995640,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 174827,
@@ -55683,14 +55723,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 134156,
-      "num": 134156,
-      "word": "巴黎作息",
-      "onboard_time": 1721988438,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 134151,
       "num": 134151,
       "word": "北方人有多嫌弃挂面",
@@ -58689,6 +58721,14 @@
       "onboard_time": 1719807681,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123383,
+      "num": 337841,
+      "word": "奥运成为LV的箱包秀场",
+      "onboard_time": 1721993899,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 123337,
@@ -65291,14 +65331,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 88160,
-      "num": 337841,
-      "word": "奥运成为LV的箱包秀场",
-      "onboard_time": 1721993899,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 88115,
       "num": 217343,
       "word": "超详细鼻影化妆思路",
@@ -69588,7 +69620,7 @@
     },
     {
       "raw_hot": 51528,
-      "num": 374000,
+      "num": 554461,
       "word": "群面式相亲好小众",
       "onboard_time": 1721996842,
       "rank": 17,
@@ -72883,6 +72915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29528,
+      "num": 598707,
+      "word": "虚拟货币AI成跨境电诈新手段",
+      "onboard_time": 1721997020,
+      "rank": 9,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 29483,
       "num": 545360,
       "word": "中国式现代化是干出来的",
@@ -74369,14 +74409,6 @@
       "onboard_time": 1720379711,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 20788,
-      "num": 598707,
-      "word": "虚拟货币AI成跨境电诈新手段",
-      "onboard_time": 1721997020,
-      "rank": 9,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 20745,
