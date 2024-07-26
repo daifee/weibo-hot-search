@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1722003482081,
+  "endTime": 1722004536808,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -2099,6 +2099,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 3765386,
+      "num": 453902,
+      "word": "歌手 音乐竞技搞煽情",
+      "onboard_time": 1722001344,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3760420,
       "num": 3760420,
       "word": "网红猫一杯道歉",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1707522630,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 3485180,
-      "num": 3485180,
-      "word": "缅北电诈四大家族覆灭",
-      "onboard_time": 1706661628,
-      "rank": 0,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
