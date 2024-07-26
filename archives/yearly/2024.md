@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/07/27 01:17:18
+本榜单时间：2024/01/01 00:21:05 ~ 2024/07/27 01:34:34
 </p>
 </blockquote>
 <p>
@@ -861,6 +861,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F%23" target="weibo">
+巴黎奥运开幕式（热度：6642054）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E7%BA%A7%E7%AD%94%E6%A1%88%23" target="weibo">
 四级答案（热度：6639747）
 </a>
@@ -1127,12 +1133,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E6%84%A4%E6%80%92%E5%9B%9E%E5%BA%94%E6%A2%85%E8%A5%BF%E9%81%93%E6%AD%89%23" target="weibo">
 霍启刚愤怒回应梅西道歉（热度：5030432）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F%23" target="weibo">
-巴黎奥运开幕式（热度：5026406）
 </a>
 </li>
 
