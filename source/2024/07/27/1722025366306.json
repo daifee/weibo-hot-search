@@ -1,0 +1,410 @@
+{
+  "runTime": 1722025366306,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2339593,
+        "num": 2339593,
+        "word": "央视解说沉默了",
+        "onboard_time": 1722019394,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1755163,
+        "num": 1755163,
+        "word": "巴黎奥运开幕式",
+        "onboard_time": 1722002904,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35011,
+        "num": 1599988,
+        "word": "闪耀奥运赛场的中国骄傲",
+        "onboard_time": 1722001223,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1555245,
+        "num": 1555245,
+        "word": "巴黎开幕式 真的牛",
+        "onboard_time": 1722022813,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1055195,
+        "num": 1055195,
+        "word": "奥运开幕式 燃冬",
+        "onboard_time": 1722018915,
+        "rank": 4,
+        "category": "体育,电影"
+      },
+      {
+        "raw_hot": 831094,
+        "num": 831094,
+        "word": "巴黎奥运 女性主义",
+        "onboard_time": 1722020895,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 728559,
+        "num": 728559,
+        "word": "韩国 占C",
+        "onboard_time": 1722020534,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 505845,
+        "num": 505845,
+        "word": "美国包船",
+        "onboard_time": 1722024253,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 501850,
+        "num": 501850,
+        "word": "变装皇后",
+        "onboard_time": 1722022573,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12907,
+        "num": 393283,
+        "word": "曝光诊所140元药卖2980博主发声",
+        "onboard_time": 1722023892,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371266,
+        "num": 371266,
+        "word": "马龙奥运神图",
+        "onboard_time": 1722018136,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 319249,
+        "num": 319249,
+        "word": "中国队拼船",
+        "onboard_time": 1722016756,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 314374,
+        "num": 314374,
+        "word": "贾玲 奥运开幕式",
+        "onboard_time": 1722008661,
+        "rank": 12,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 309082,
+        "num": 309082,
+        "word": "奥运会开幕式直播",
+        "onboard_time": 1722017055,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285466,
+        "num": 285466,
+        "word": "以色列",
+        "onboard_time": 1722022394,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278374,
+        "num": 278374,
+        "word": "蒙娜丽莎被小黄人偷走了",
+        "onboard_time": 1722020475,
+        "rank": 15,
+        "category": "体育,电影"
+      },
+      {
+        "raw_hot": 266899,
+        "num": 266899,
+        "word": "LadyGaga像火烈鸟一样窜出来",
+        "onboard_time": 1722016876,
+        "rank": 16,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 260266,
+        "num": 260266,
+        "word": "开幕式 LV硬广",
+        "onboard_time": 1722018136,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242844,
+        "num": 242844,
+        "word": "日本代表团这么多人",
+        "onboard_time": 1722022452,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36888,
+        "num": 224619,
+        "word": "LVMH法式运动优雅",
+        "onboard_time": 1722024313,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223353,
+        "num": 223353,
+        "word": "法国要不要擦下镜头呢",
+        "onboard_time": 1722020714,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210689,
+        "num": 210689,
+        "word": "那英歌王",
+        "onboard_time": 1722004584,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199051,
+        "num": 199051,
+        "word": "中国队亮相",
+        "onboard_time": 1722013399,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189289,
+        "num": 189289,
+        "word": "中国队镜头呢",
+        "onboard_time": 1722018196,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186888,
+        "num": 186888,
+        "word": "微博实时 开幕式弹幕",
+        "onboard_time": 1722020294,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183398,
+        "num": 183398,
+        "word": "法国人 浪漫至死不渝",
+        "onboard_time": 1722016576,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176647,
+        "num": 176647,
+        "word": "开幕式上小黄人突然出现",
+        "onboard_time": 1722021193,
+        "rank": 26,
+        "category": "电影,体育"
+      },
+      {
+        "raw_hot": 175127,
+        "num": 175127,
+        "word": "最后的晚餐走秀版",
+        "onboard_time": 1722024074,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158652,
+        "num": 158652,
+        "word": "没有俄罗斯",
+        "onboard_time": 1722024672,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156598,
+        "num": 156598,
+        "word": "火炬手 刺客信条",
+        "onboard_time": 1722017417,
+        "rank": 29,
+        "category": "体育,游戏"
+      },
+      {
+        "raw_hot": 151573,
+        "num": 151573,
+        "word": "巴勒斯坦代表团",
+        "onboard_time": 1722024492,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137699,
+        "num": 137699,
+        "word": "巴黎圣母院 还在修",
+        "onboard_time": 1722019034,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133735,
+        "num": 133735,
+        "word": "开幕式 女性能顶半边天",
+        "onboard_time": 1722022215,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129011,
+        "num": 129011,
+        "word": "中国台北",
+        "onboard_time": 1722024553,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125281,
+        "num": 125281,
+        "word": "开幕式镜头比我的人生还混乱",
+        "onboard_time": 1722018376,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122886,
+        "num": 122886,
+        "word": "祖与占",
+        "onboard_time": 1722022452,
+        "rank": 35,
+        "category": "电影,体育"
+      },
+      {
+        "raw_hot": 116541,
+        "num": 116541,
+        "word": "LV到底给了多少钱",
+        "onboard_time": 1722018676,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114633,
+        "num": 114633,
+        "word": "卢浮宫奇妙夜 有意思",
+        "onboard_time": 1722021854,
+        "rank": 37,
+        "category": "体育,演出"
+      },
+      {
+        "raw_hot": 110176,
+        "num": 110176,
+        "word": "樊振东穿雨衣挥国旗",
+        "onboard_time": 1722013276,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99598,
+        "num": 99598,
+        "word": "蒙娜丽莎又被偷了",
+        "onboard_time": 1722020594,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97443,
+        "num": 97443,
+        "word": "开幕式路透",
+        "onboard_time": 1721984781,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95649,
+        "num": 95649,
+        "word": "德罗巴为贾玲撑伞",
+        "onboard_time": 1722016155,
+        "rank": 41,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 95557,
+        "num": 95557,
+        "word": "开幕式 简陋",
+        "onboard_time": 1722016457,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92757,
+        "num": 92757,
+        "word": "终于等到詹姆斯",
+        "onboard_time": 1722025332,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88884,
+        "num": 88884,
+        "word": "悲惨世界",
+        "onboard_time": 1722018855,
+        "rank": 44,
+        "category": "体育,读书作家"
+      },
+      {
+        "raw_hot": 84937,
+        "num": 84937,
+        "word": "歌手总决赛",
+        "onboard_time": 1721991739,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84586,
+        "num": 84586,
+        "word": "几个国家挤一条船",
+        "onboard_time": 1722016935,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82880,
+        "num": 83390,
+        "word": "巴黎奥运会",
+        "onboard_time": 1722018796,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50634,
+        "num": 83310,
+        "word": "奥运会",
+        "onboard_time": 1721997383,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83293,
+        "num": 83293,
+        "word": "马赛曲",
+        "onboard_time": 1722021913,
+        "rank": 49,
+        "category": "体育,音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的奥运情缘#"
+    }
+  }
+}
