@@ -1,6 +1,6 @@
 {
   "startTime": 1722097426384,
-  "endTime": 1722112566478,
+  "endTime": 1722115054897,
   "band_list": [
     {
       "raw_hot": 9614106,
@@ -499,19 +499,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 218270,
-      "num": 94040,
-      "word": "潘展乐第一棒破奥运纪录",
-      "onboard_time": 1722111972,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 215166,
-      "num": 215166,
+      "raw_hot": 231422,
+      "num": 231422,
       "word": "中国香港代表团首枚金牌",
       "onboard_time": 1722111012,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 218270,
+      "num": 134019,
+      "word": "潘展乐第一棒破奥运纪录",
+      "onboard_time": 1722111972,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -611,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140944,
+      "num": 140944,
+      "word": "中国游泳队首枚奖牌",
+      "onboard_time": 1722110472,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120281,
       "num": 120281,
       "word": "中国男子4x100自由泳接力第四",
@@ -640,14 +648,6 @@
       "word": "潘展乐46秒92",
       "onboard_time": 1722111012,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 111420,
-      "num": 111420,
-      "word": "中国游泳队首枚奖牌",
-      "onboard_time": 1722110472,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -739,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52270,
+      "num": 52270,
+      "word": "韩国代表团首金",
+      "onboard_time": 1722114912,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50420,
       "num": 50420,
       "word": "覃海洋晋级100蛙决赛",
@@ -747,7 +755,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35084,
+      "raw_hot": 43659,
       "num": 318575,
       "word": "博士生花7万5找人代写论文",
       "onboard_time": 1722110531,
@@ -777,6 +785,14 @@
       "onboard_time": 1722106814,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15407,
+      "num": 178220,
+      "word": "爸爸要昌雅妮在升国旗时大声唱国歌",
+      "onboard_time": 1722114252,
+      "rank": 9,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
