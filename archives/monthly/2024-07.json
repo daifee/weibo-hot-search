@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1722097426384,
+  "endTime": 1722098288732,
   "band_list": [
     {
       "raw_hot": 16577668,
@@ -147,6 +147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 9614106,
+      "num": 9614106,
+      "word": "张本智和早田希娜爆冷出局",
+      "onboard_time": 1722094480,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 9582613,
       "num": 8621713,
       "word": "奥运五环旗挂反了",
@@ -200,14 +208,6 @@
       "word": "张志杰去世",
       "onboard_time": 1719792137,
       "rank": 0,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 7788107,
-      "num": 7788107,
-      "word": "张本智和早田希娜爆冷出局",
-      "onboard_time": 1722094480,
-      "rank": 12,
       "category": "体育"
     },
     {
@@ -299,6 +299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 5299837,
+      "num": 5299837,
+      "word": "许昕 神秘之师不好惹",
+      "onboard_time": 1722095615,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 5012056,
       "num": 561493,
       "word": "温州一医生工作时被砍伤正抢救",
@@ -345,14 +353,6 @@
       "onboard_time": 1721641343,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 4479607,
-      "num": 4479607,
-      "word": "许昕 神秘之师不好惹",
-      "onboard_time": 1722095615,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 4230542,
@@ -3969,6 +3969,14 @@
       "onboard_time": 1719974237,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1211405,
+      "num": 1211405,
+      "word": "张本智和碎了",
+      "onboard_time": 1722096275,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 1207754,
@@ -8707,6 +8715,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 775579,
+      "num": 1000662,
+      "word": "中国跳水队金牌总数与美国队并列第一",
+      "onboard_time": 1722095615,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 775542,
       "num": 372756,
       "word": "真的很讨厌外卖点到液体勺",
@@ -9121,6 +9137,14 @@
       "onboard_time": 1720862116,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 751444,
+      "num": 751444,
+      "word": "王源扯婚纱",
+      "onboard_time": 1722093867,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 751396,
@@ -11393,14 +11417,6 @@
       "onboard_time": 1720489098,
       "rank": 19,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 642050,
-      "num": 642050,
-      "word": "王源扯婚纱",
-      "onboard_time": 1722093867,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 641439,
@@ -13763,14 +13779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 563792,
-      "num": 563792,
-      "word": "张本智和碎了",
-      "onboard_time": 1722096275,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 563373,
       "num": 563373,
       "word": "多家银行调整个人账户非柜面交易限额",
@@ -15627,6 +15635,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 511307,
+      "num": 511307,
+      "word": "乒乓球没有应该",
+      "onboard_time": 1722096327,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 511089,
       "num": 319276,
       "word": "邓超晒孙俪给他烤的肉",
@@ -16081,14 +16097,6 @@
       "onboard_time": 1721359464,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 499974,
-      "num": 499974,
-      "word": "乒乓球没有应该",
-      "onboard_time": 1722096327,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 499848,
@@ -17195,6 +17203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 478163,
+      "num": 345411,
+      "word": "贾乃亮现场观赛激动哭了",
+      "onboard_time": 1722095317,
+      "rank": 31,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 477588,
       "num": 1019804,
       "word": "温州",
@@ -17651,6 +17667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 463892,
+      "num": 463892,
+      "word": "孙颖莎正手",
+      "onboard_time": 1722093927,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 463640,
       "num": 463640,
       "word": "张志杰埃里克森倒地救治对比",
@@ -18001,14 +18025,6 @@
       "onboard_time": 1719793458,
       "rank": 5,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 456959,
-      "num": 456959,
-      "word": "孙颖莎正手",
-      "onboard_time": 1722093927,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 456883,
@@ -19427,12 +19443,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 432794,
+      "num": 432794,
+      "word": "苹果盒",
+      "onboard_time": 1722095025,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 432643,
       "num": 432643,
       "word": "Mic迈扣账号被封禁",
       "onboard_time": 1720422679,
       "rank": 15,
       "category": "互联网,艺人"
+    },
+    {
+      "raw_hot": 432611,
+      "num": 1080051,
+      "word": "盛李豪得知被叫干饭哥的反应",
+      "onboard_time": 1722092904,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 432430,
@@ -19625,6 +19657,14 @@
       "onboard_time": 1720524258,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 429398,
+      "num": 342193,
+      "word": "莎头已看呆",
+      "onboard_time": 1722097230,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 429351,
@@ -19905,14 +19945,6 @@
       "onboard_time": 1720530857,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 423025,
-      "num": 423025,
-      "word": "中国跳水队金牌总数与美国队并列第一",
-      "onboard_time": 1722095615,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 422881,
@@ -22371,14 +22403,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 375391,
-      "num": 375391,
-      "word": "苹果盒",
-      "onboard_time": 1722095025,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 375322,
       "num": 375322,
       "word": "得闲谨制开机",
@@ -23033,6 +23057,14 @@
       "onboard_time": 1719983778,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 362377,
+      "num": 362377,
+      "word": "澳大利亚首金",
+      "onboard_time": 1722094535,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 362349,
@@ -23787,14 +23819,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 351466,
-      "num": 1080051,
-      "word": "盛李豪得知被叫干饭哥的反应",
-      "onboard_time": 1722092904,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 351349,
       "num": 223645,
       "word": "王俊凯说我们是一个team",
@@ -23809,6 +23833,14 @@
       "onboard_time": 1720883779,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 351232,
+      "num": 351232,
+      "word": "日本夺冠大热出局后拒绝握手",
+      "onboard_time": 1722096812,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 351195,
@@ -25017,14 +25049,6 @@
       "onboard_time": 1721615301,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 331307,
-      "num": 331307,
-      "word": "澳大利亚首金",
-      "onboard_time": 1722094535,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 331281,
@@ -26425,14 +26449,6 @@
       "onboard_time": 1721476639,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 310893,
-      "num": 310893,
-      "word": "贾乃亮现场观赛激动哭了",
-      "onboard_time": 1722095317,
-      "rank": 31,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 310847,
@@ -28027,6 +28043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 289927,
+      "num": 289927,
+      "word": "王楚钦孙颖莎关注日本组合比赛",
+      "onboard_time": 1722097771,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 289848,
       "num": 289848,
       "word": "查理苏生日卡",
@@ -29585,6 +29609,14 @@
       "onboard_time": 1721456900,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 271998,
+      "num": 271998,
+      "word": "水谷隼 奥运会的魔物啊",
+      "onboard_time": 1722098073,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 271935,
@@ -31339,14 +31371,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 252285,
-      "num": 252285,
-      "word": "日本夺冠大热出局后拒绝握手",
-      "onboard_time": 1722096812,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 252254,
       "num": 252254,
       "word": "入伏",
@@ -31481,6 +31505,14 @@
       "onboard_time": 1721018721,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250442,
+      "num": 250442,
+      "word": "日乒教练表情",
+      "onboard_time": 1722097170,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 250381,
@@ -34121,14 +34153,6 @@
       "onboard_time": 1719827418,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 229292,
-      "num": 229292,
-      "word": "日乒教练表情",
-      "onboard_time": 1722097170,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 229182,
@@ -71836,7 +71860,7 @@
     },
     {
       "raw_hot": 62630,
-      "num": 747072,
+      "num": 4802785,
       "word": "中国队首金升国旗奏国歌现场",
       "onboard_time": 1722085583,
       "rank": 12,
