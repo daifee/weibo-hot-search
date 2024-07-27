@@ -1,0 +1,410 @@
+{
+  "runTime": 1722057539045,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5629442,
+        "num": 5629442,
+        "word": "巴黎开幕式 真的牛",
+        "onboard_time": 1722022813,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2211124,
+        "num": 2211124,
+        "word": "迪玛希忘记关麦克风",
+        "onboard_time": 1722044600,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228914,
+        "num": 1731364,
+        "word": "巴黎今天将决出14枚奥运金牌",
+        "onboard_time": 1722042201,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1412104,
+        "num": 1412104,
+        "word": "韩国网友要求法国道歉",
+        "onboard_time": 1722049040,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1309192,
+        "num": 1309192,
+        "word": "巴黎开幕式 争议",
+        "onboard_time": 1722055821,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1056336,
+        "num": 1056336,
+        "word": "全红婵跳水都没我下饺子水花大",
+        "onboard_time": 1722051920,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 915862,
+        "num": 915862,
+        "word": "国际奥委会向韩国道歉",
+        "onboard_time": 1722051500,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 851943,
+        "num": 851943,
+        "word": "奥运五环旗挂反了",
+        "onboard_time": 1722056840,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 730118,
+        "num": 730118,
+        "word": "贾乃亮奥运开幕式被淋透",
+        "onboard_time": 1722051020,
+        "rank": 8,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 71363,
+        "num": 729408,
+        "word": "恶魔基因是对超雄综合征的污名化",
+        "onboard_time": 1722056420,
+        "rank": 9,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 136114,
+        "num": 726175,
+        "word": "雷军现身巴黎奥运会开幕式",
+        "onboard_time": 1722053240,
+        "rank": 10,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 916009,
+        "num": 723916,
+        "word": "巴黎奥运 女性的里程碑",
+        "onboard_time": 1722057140,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 785857,
+        "num": 720911,
+        "word": "韩国 占C",
+        "onboard_time": 1722020534,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 719683,
+        "num": 719683,
+        "word": "蒙娜丽莎被小黄人偷走了",
+        "onboard_time": 1722020475,
+        "rank": 13,
+        "category": "体育,电影"
+      },
+      {
+        "raw_hot": 38121,
+        "num": 650380,
+        "word": "饿了么说有底气提前发夺金免单",
+        "onboard_time": 1722056420,
+        "rank": 14,
+        "category": "美食,体育"
+      },
+      {
+        "raw_hot": 648510,
+        "num": 648510,
+        "word": "那英说我敢接受冠军负评",
+        "onboard_time": 1722052459,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 501427,
+        "num": 501427,
+        "word": "贾玲 哪有那么多闪电",
+        "onboard_time": 1722056660,
+        "rank": 16,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 492537,
+        "num": 492537,
+        "word": "仙侠剧男女主终于都长嘴了",
+        "onboard_time": 1722054801,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 455204,
+        "num": 455204,
+        "word": "巴黎奥运 杰出女性",
+        "onboard_time": 1722020895,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137556,
+        "num": 449525,
+        "word": "张杰把凡希亚的歌加入歌单",
+        "onboard_time": 1722057321,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 490004,
+        "num": 449060,
+        "word": "一个27岁的研究生轻轻的碎了",
+        "onboard_time": 1722054742,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 446431,
+        "num": 446431,
+        "word": "霍启刚郭晶晶现身奥运开幕式",
+        "onboard_time": 1722053900,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 429439,
+        "num": 429439,
+        "word": "贾玲 奥运开幕式",
+        "onboard_time": 1722008661,
+        "rank": 22,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 417175,
+        "num": 417175,
+        "word": "罗拉 但我真的已经累了",
+        "onboard_time": 1722042140,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 407716,
+        "num": 407716,
+        "word": "巴黎开幕式 多元化",
+        "onboard_time": 1722056961,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 390431,
+        "num": 390431,
+        "word": "巴黎奥运开幕式",
+        "onboard_time": 1722002904,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58262,
+        "num": 363779,
+        "word": "在香奈儿活动遇见心动CRUSH",
+        "onboard_time": 1722056901,
+        "rank": 26,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 346468,
+        "num": 346468,
+        "word": "巴黎奥运正式开幕",
+        "onboard_time": 1722028331,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 336732,
+        "num": 336732,
+        "word": "官方通报民警午休被吵醒态度生硬",
+        "onboard_time": 1722052701,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327731,
+        "num": 327731,
+        "word": "马龙奥运神图",
+        "onboard_time": 1722018136,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323454,
+        "num": 323454,
+        "word": "丁太升说歌王就应该属于那英",
+        "onboard_time": 1722055399,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292048,
+        "num": 292048,
+        "word": "贾玲被说瘦成一道闪电的回答",
+        "onboard_time": 1722056480,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287125,
+        "num": 287125,
+        "word": "女子提前3分钟敲门办事惹怒交警",
+        "onboard_time": 1722054919,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284105,
+        "num": 284105,
+        "word": "歌手回应质疑",
+        "onboard_time": 1722036979,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279073,
+        "num": 279073,
+        "word": "凡希亚从没掉出前三 总决赛第四",
+        "onboard_time": 1722052940,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291056,
+        "num": 279047,
+        "word": "那英歌王",
+        "onboard_time": 1722004584,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278830,
+        "num": 278830,
+        "word": "难为央视把你们都找出来",
+        "onboard_time": 1722054981,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274458,
+        "num": 274458,
+        "word": "吴千语施伯雄婚礼伴手礼",
+        "onboard_time": 1722052459,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261810,
+        "num": 261810,
+        "word": "HYBE 还我妈生鼻",
+        "onboard_time": 1722047899,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223412,
+        "num": 223412,
+        "word": "席琳迪翁终于来了",
+        "onboard_time": 1722029472,
+        "rank": 39,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 221622,
+        "num": 221622,
+        "word": "霸王茶姬免单",
+        "onboard_time": 1722049940,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 202628,
+        "num": 202628,
+        "word": "纪念抗美援朝战争胜利71周年",
+        "onboard_time": 1722045681,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 202306,
+        "num": 202306,
+        "word": "开幕式 LV硬广",
+        "onboard_time": 1722018136,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198176,
+        "num": 198176,
+        "word": "法国人 浪漫至死不渝",
+        "onboard_time": 1722016576,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197445,
+        "num": 197445,
+        "word": "蒲熠星 难听",
+        "onboard_time": 1722038600,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190994,
+        "num": 190994,
+        "word": "鹅表示已老实求放过",
+        "onboard_time": 1722055942,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190203,
+        "num": 190203,
+        "word": "哈尔滨亚冬会",
+        "onboard_time": 1722057199,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188493,
+        "num": 188493,
+        "word": "美国2名宇航员被困太空超50天",
+        "onboard_time": 1722048921,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 185090,
+        "num": 185090,
+        "word": "巴黎火炬手 刺客信条",
+        "onboard_time": 1722051139,
+        "rank": 48,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 184541,
+        "num": 184541,
+        "word": "相机镜头布搜索量暴涨百倍",
+        "onboard_time": 1722056242,
+        "rank": 49,
+        "category": "数码,体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视和关心体育事业#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1722011177149,
-  "endTime": 1722055051478,
+  "endTime": 1722057539045,
   "band_list": [
     {
       "raw_hot": 12261931,
@@ -139,6 +139,14 @@
       "category": "体育,游戏"
     },
     {
+      "raw_hot": 1309192,
+      "num": 1309192,
+      "word": "巴黎开幕式 争议",
+      "onboard_time": 1722055821,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1202181,
       "num": 1202181,
       "word": "巴黎奥运 女性主义",
@@ -179,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1056336,
+      "num": 1056336,
+      "word": "全红婵跳水都没我下饺子水花大",
+      "onboard_time": 1722051920,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1013273,
       "num": 1013273,
       "word": "歌手回应质疑",
@@ -201,6 +217,14 @@
       "onboard_time": 1722007942,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 916009,
+      "num": 723916,
+      "word": "巴黎奥运 女性的里程碑",
+      "onboard_time": 1722057140,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 902972,
@@ -227,6 +251,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 851943,
+      "num": 851943,
+      "word": "奥运五环旗挂反了",
+      "onboard_time": 1722056840,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 811461,
       "num": 811461,
       "word": "那英说我敢接受冠军负评",
@@ -240,14 +272,6 @@
       "word": "奥林匹克会旗挂反了",
       "onboard_time": 1722028032,
       "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 786074,
-      "num": 786074,
-      "word": "全红婵跳水都没我下饺子水花大",
-      "onboard_time": 1722051920,
-      "rank": 16,
       "category": "体育"
     },
     {
@@ -451,12 +475,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 501427,
+      "num": 501427,
+      "word": "贾玲 哪有那么多闪电",
+      "onboard_time": 1722056660,
+      "rank": 16,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 492537,
+      "num": 492537,
+      "word": "仙侠剧男女主终于都长嘴了",
+      "onboard_time": 1722054801,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 491517,
       "num": 491517,
       "word": "张杰陈楚生拥抱",
       "onboard_time": 1722001463,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 490004,
+      "num": 449060,
+      "word": "一个27岁的研究生轻轻的碎了",
+      "onboard_time": 1722054742,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 476356,
@@ -491,20 +539,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 451420,
-      "num": 427266,
-      "word": "一个27岁的研究生轻轻的碎了",
-      "onboard_time": 1722054742,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 447116,
       "num": 757885,
       "word": "对话中信建投实习生",
       "onboard_time": 1722043700,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 446431,
+      "num": 446431,
+      "word": "霍启刚郭晶晶现身奥运开幕式",
+      "onboard_time": 1722053900,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 443144,
@@ -545,6 +593,14 @@
       "onboard_time": 1721996179,
       "rank": 21,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 407716,
+      "num": 407716,
+      "word": "巴黎开幕式 多元化",
+      "onboard_time": 1722056961,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 406282,
@@ -595,14 +651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 362419,
-      "num": 362419,
-      "word": "霍启刚郭晶晶现身奥运开幕式",
-      "onboard_time": 1722053900,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 354479,
       "num": 354479,
       "word": "纪念抗美援朝战争胜利71周年",
@@ -643,6 +691,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 336732,
+      "num": 336732,
+      "word": "官方通报民警午休被吵醒态度生硬",
+      "onboard_time": 1722052701,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 335104,
       "num": 261474,
       "word": "歌手总决赛",
@@ -657,6 +713,14 @@
       "onboard_time": 1722024672,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 323454,
+      "num": 323454,
+      "word": "丁太升说歌王就应该属于那英",
+      "onboard_time": 1722055399,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 317697,
@@ -715,6 +779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 292048,
+      "num": 292048,
+      "word": "贾玲被说瘦成一道闪电的回答",
+      "onboard_time": 1722056480,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 288189,
       "num": 288189,
       "word": "开幕式路透",
@@ -755,12 +827,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 279001,
-      "num": 279001,
-      "word": "官方通报民警午休被吵醒态度生硬",
-      "onboard_time": 1722052701,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 278830,
+      "num": 278830,
+      "word": "难为央视把你们都找出来",
+      "onboard_time": 1722054981,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 278747,
@@ -816,14 +888,6 @@
       "word": "巴黎今天将决出14枚奥运金牌",
       "onboard_time": 1722042201,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 256743,
-      "num": 256743,
-      "word": "难为央视把你们都找出来",
-      "onboard_time": 1722054981,
-      "rank": 36,
       "category": "体育"
     },
     {
@@ -1091,14 +1155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 204165,
-      "num": 428169,
-      "word": "仙侠剧男女主终于都长嘴了",
-      "onboard_time": 1722054801,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 203658,
       "num": 203658,
       "word": "原来HelloKitty不是猫",
@@ -1275,6 +1331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190994,
+      "num": 190994,
+      "word": "鹅表示已老实求放过",
+      "onboard_time": 1722055942,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190920,
       "num": 190920,
       "word": "你好星期六全员AI风",
@@ -1299,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190203,
+      "num": 190203,
+      "word": "哈尔滨亚冬会",
+      "onboard_time": 1722057199,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190095,
       "num": 190095,
       "word": "鞠婧祎吊带黄背心",
@@ -1321,6 +1393,14 @@
       "onboard_time": 1722013158,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184541,
+      "num": 184541,
+      "word": "相机镜头布搜索量暴涨百倍",
+      "onboard_time": 1722056242,
+      "rank": 49,
+      "category": "数码,体育"
     },
     {
       "raw_hot": 184331,
@@ -1523,12 +1603,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137556,
+      "num": 449525,
+      "word": "张杰把凡希亚的歌加入歌单",
+      "onboard_time": 1722057321,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136815,
       "num": 136815,
       "word": "机械马女骑手 钢铁女骑士",
       "onboard_time": 1722026294,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136114,
+      "num": 726175,
+      "word": "雷军现身巴黎奥运会开幕式",
+      "onboard_time": 1722053240,
+      "rank": 12,
+      "category": "体育,互联网"
     },
     {
       "raw_hot": 135743,
@@ -1731,12 +1827,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 74717,
-      "num": 641422,
-      "word": "雷军现身巴黎奥运会开幕式",
-      "onboard_time": 1722053240,
-      "rank": 12,
-      "category": "体育,互联网"
+      "raw_hot": 71363,
+      "num": 729408,
+      "word": "恶魔基因是对超雄综合征的污名化",
+      "onboard_time": 1722056420,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 59458,
@@ -1745,6 +1841,14 @@
       "onboard_time": 1722049520,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58262,
+      "num": 363779,
+      "word": "在香奈儿活动遇见心动CRUSH",
+      "onboard_time": 1722056901,
+      "rank": 26,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 57046,
@@ -1777,6 +1881,14 @@
       "onboard_time": 1722024313,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38121,
+      "num": 650380,
+      "word": "饿了么说有底气提前发夺金免单",
+      "onboard_time": 1722056420,
+      "rank": 14,
+      "category": "美食,体育"
     },
     {
       "raw_hot": 35695,
