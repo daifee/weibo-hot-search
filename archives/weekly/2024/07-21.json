@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1722076560330,
+  "endTime": 1722079048658,
   "band_list": [
     {
       "raw_hot": 16577668,
@@ -297,6 +297,14 @@
       "onboard_time": 1721996420,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2831121,
+      "num": 2472924,
+      "word": "孙一文首轮淘汰",
+      "onboard_time": 1722075803,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 2816209,
@@ -1275,6 +1283,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 1325602,
+      "num": 1325602,
+      "word": "覃海洋状态",
+      "onboard_time": 1722076584,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1324585,
       "num": 1324585,
       "word": "多地宝马4S店拒不交车",
@@ -2203,6 +2219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 942112,
+      "num": 509225,
+      "word": "迪玛希回应忘关麦克风",
+      "onboard_time": 1722078144,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 940657,
       "num": 940657,
       "word": "中国凉席火到法国",
@@ -2641,6 +2665,14 @@
       "onboard_time": 1721658264,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 812220,
+      "num": 812220,
+      "word": "黄雨婷盛李豪登上最高领奖台",
+      "onboard_time": 1722076044,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 811472,
@@ -3353,14 +3385,6 @@
       "onboard_time": 1721865980,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 686377,
-      "num": 686377,
-      "word": "黄雨婷盛李豪登上最高领奖台",
-      "onboard_time": 1722076044,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 685912,
@@ -4299,6 +4323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 554282,
+      "num": 554282,
+      "word": "全红婵最强拉拉队",
+      "onboard_time": 1722078144,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 554045,
       "num": 554045,
       "word": "100万元房贷30年减少2.1万",
@@ -4361,14 +4393,6 @@
       "onboard_time": 1721606358,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 549371,
-      "num": 549371,
-      "word": "孙一文首轮淘汰",
-      "onboard_time": 1722075803,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 549155,
@@ -4635,6 +4659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 516143,
+      "num": 516143,
+      "word": "张雨霏100蝶小组第一",
+      "onboard_time": 1722076823,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 514735,
       "num": 514735,
       "word": "拜登退选后哈里斯首次公开露面",
@@ -4680,6 +4712,14 @@
       "word": "开幕式红毯",
       "onboard_time": 1722013996,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 512023,
+      "num": 512023,
+      "word": "潘展乐太牛了",
+      "onboard_time": 1722078563,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -4977,6 +5017,14 @@
       "onboard_time": 1721489301,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 483997,
+      "num": 483997,
+      "word": "陈艺文昌雅妮好甜",
+      "onboard_time": 1722078263,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 483070,
@@ -5395,6 +5443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 446564,
+      "num": 446564,
+      "word": "阿条姐头像 我不行谁行",
+      "onboard_time": 1722077663,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 446431,
       "num": 446431,
       "word": "霍启刚郭晶晶现身奥运开幕式",
@@ -5761,6 +5817,14 @@
       "onboard_time": 1721976919,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 415563,
+      "num": 415563,
+      "word": "林依轮给孙颖莎王楚钦做大旗",
+      "onboard_time": 1722077423,
+      "rank": 32,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 414540,
@@ -6307,6 +6371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 368824,
+      "num": 368824,
+      "word": "田亮叶一茜全家去看了开幕式",
+      "onboard_time": 1722077842,
+      "rank": 34,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 368394,
       "num": 368394,
       "word": "九尾沙特请假条",
@@ -6401,6 +6473,14 @@
       "onboard_time": 1721639962,
       "rank": 36,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 360212,
+      "num": 360212,
+      "word": "韩国人又多了个说自己国家大的理由",
+      "onboard_time": 1722077842,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 359706,
@@ -7248,6 +7328,14 @@
       "word": "开幕式镜头比我的人生还混乱",
       "onboard_time": 1722018376,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 310324,
+      "num": 310324,
+      "word": "奥运会体操",
+      "onboard_time": 1722078203,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -8339,6 +8427,14 @@
       "category": "网红,互联网"
     },
     {
+      "raw_hot": 268867,
+      "num": 268867,
+      "word": "少一个孙子这个生日都过不成",
+      "onboard_time": 1722078684,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 268726,
       "num": 268726,
       "word": "代露娃回应长相思角色争议",
@@ -8579,6 +8675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 259150,
+      "num": 259150,
+      "word": "中国队升国旗奏国歌",
+      "onboard_time": 1722076943,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 258340,
       "num": 258340,
       "word": "徐明浩上恋综了",
@@ -8763,6 +8867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253095,
+      "num": 253095,
+      "word": "美团免单",
+      "onboard_time": 1722077483,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 252993,
       "num": 252993,
       "word": "2NE1确定重组",
@@ -8913,6 +9025,14 @@
       "onboard_time": 1721825240,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 247737,
+      "num": 247737,
+      "word": "刘亦菲黄衬衫大波浪造型",
+      "onboard_time": 1722078863,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 247221,
@@ -9449,6 +9569,14 @@
       "onboard_time": 1721624720,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 233562,
+      "num": 1016630,
+      "word": "启蒙教练说黄雨婷天生就是打枪的",
+      "onboard_time": 1722075984,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 233526,
@@ -16699,14 +16827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136510,
-      "num": 1016630,
-      "word": "启蒙教练说黄雨婷天生就是打枪的",
-      "onboard_time": 1722075984,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 136359,
       "num": 136359,
       "word": "7月105款游戏获批",
@@ -17451,6 +17571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 118288,
+      "num": 439042,
+      "word": "巴黎审美已经是nextlevel了",
+      "onboard_time": 1722078984,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118186,
       "num": 118186,
       "word": "王鹤棣新歌迎燃而上",
@@ -18009,6 +18137,14 @@
       "onboard_time": 1721727501,
       "rank": 15,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 96494,
+      "num": 1007462,
+      "word": "金边新闻是什么",
+      "onboard_time": 1722074786,
+      "rank": 33,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 96083,
@@ -18915,6 +19051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63291,
+      "num": 383010,
+      "word": "台州小山村走出大心脏的神枪少女",
+      "onboard_time": 1722078923,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63226,
       "num": 344773,
       "word": "星巴克YONEX联名出球拍了",
@@ -19097,14 +19241,6 @@
       "onboard_time": 1721884340,
       "rank": 38,
       "category": "体育,体育"
-    },
-    {
-      "raw_hot": 57740,
-      "num": 1007462,
-      "word": "金边新闻是什么",
-      "onboard_time": 1722074786,
-      "rank": 33,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 57553,
@@ -19729,6 +19865,14 @@
       "onboard_time": 1722074727,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 39463,
+      "num": 363134,
+      "word": "庆祝中国首金蒙牛送出500金",
+      "onboard_time": 1722078263,
+      "rank": 35,
+      "category": "体育,美食"
     },
     {
       "raw_hot": 38976,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1722079048658,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7827053,
+        "num": 7827053,
+        "word": "中国队跳水女双3米板金牌",
+        "onboard_time": 1722073768,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3313668,
+        "num": 3313668,
+        "word": "中国队混合团体10米气步枪金牌",
+        "onboard_time": 1722072453,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2479405,
+        "num": 2479405,
+        "word": "中国首金",
+        "onboard_time": 1722072809,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2831121,
+        "num": 2472924,
+        "word": "孙一文首轮淘汰",
+        "onboard_time": 1722075803,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1656536,
+        "num": 1656536,
+        "word": "黄雨婷发卡好可爱",
+        "onboard_time": 1722071239,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1325602,
+        "num": 1325602,
+        "word": "覃海洋状态",
+        "onboard_time": 1722076584,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1114968,
+        "num": 1114968,
+        "word": "阿条姐 干饭哥",
+        "onboard_time": 1722067699,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1101570,
+        "num": 1101570,
+        "word": "全红婵跳水都没我下饺子水花大",
+        "onboard_time": 1722051920,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1095374,
+        "num": 1095374,
+        "word": "巴黎开幕式 争议",
+        "onboard_time": 1722055821,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 901069,
+        "num": 901069,
+        "word": "游泳预赛",
+        "onboard_time": 1722075564,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1919436,
+        "num": 873976,
+        "word": "奥运五环旗挂反了",
+        "onboard_time": 1722056840,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96494,
+        "num": 838176,
+        "word": "金边新闻是什么",
+        "onboard_time": 1722074786,
+        "rank": 11,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 812220,
+        "num": 812220,
+        "word": "黄雨婷盛李豪登上最高领奖台",
+        "onboard_time": 1722076044,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 711299,
+        "num": 711299,
+        "word": "光靠干饭就拿金牌了",
+        "onboard_time": 1722073589,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 668484,
+        "num": 668484,
+        "word": "法媒把韩国国旗搞错了",
+        "onboard_time": 1722067400,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35316,
+        "num": 651758,
+        "word": "蔚来启动汽车座舱AI化",
+        "onboard_time": 1722074727,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 637415,
+        "num": 637415,
+        "word": "射击混合团体10米气步枪",
+        "onboard_time": 1722059899,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 554282,
+        "num": 554282,
+        "word": "全红婵最强拉拉队",
+        "onboard_time": 1722078144,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 516143,
+        "num": 516143,
+        "word": "张雨霏100蝶小组第一",
+        "onboard_time": 1722076823,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 512023,
+        "num": 512023,
+        "word": "潘展乐太牛了",
+        "onboard_time": 1722078563,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 942112,
+        "num": 509225,
+        "word": "迪玛希回应忘关麦克风",
+        "onboard_time": 1722078144,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 504158,
+        "num": 504158,
+        "word": "巴黎奥运会男女比例1比1",
+        "onboard_time": 1722058161,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 503602,
+        "num": 503602,
+        "word": "黄雨婷盛李豪好稳",
+        "onboard_time": 1722072021,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8986,
+        "num": 487228,
+        "word": "蔚来二代手机零预装零广告",
+        "onboard_time": 1722074727,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 483997,
+        "num": 483997,
+        "word": "陈艺文昌雅妮好甜",
+        "onboard_time": 1722078263,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 454745,
+        "num": 454745,
+        "word": "盛李豪说比赛太刺激了",
+        "onboard_time": 1722074666,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 446564,
+        "num": 446564,
+        "word": "阿条姐头像 我不行谁行",
+        "onboard_time": 1722077663,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 441724,
+        "num": 441724,
+        "word": "巴黎奥运最伟大最震撼的环节",
+        "onboard_time": 1722057140,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 440791,
+        "num": 440791,
+        "word": "巴黎开幕式 真的牛",
+        "onboard_time": 1722022813,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118288,
+        "num": 439042,
+        "word": "巴黎审美已经是nextlevel了",
+        "onboard_time": 1722078984,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 438842,
+        "num": 438842,
+        "word": "杨倩解说",
+        "onboard_time": 1722071359,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 416052,
+        "num": 416052,
+        "word": "中国队1小时连夺2金",
+        "onboard_time": 1722074189,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 415563,
+        "num": 415563,
+        "word": "林依轮给孙颖莎王楚钦做大旗",
+        "onboard_time": 1722077423,
+        "rank": 32,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 63291,
+        "num": 383010,
+        "word": "台州小山村走出大心脏的神枪少女",
+        "onboard_time": 1722078923,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 368824,
+        "num": 368824,
+        "word": "田亮叶一茜全家去看了开幕式",
+        "onboard_time": 1722077842,
+        "rank": 34,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 39463,
+        "num": 363134,
+        "word": "庆祝中国首金蒙牛送出500金",
+        "onboard_time": 1722078263,
+        "rank": 35,
+        "category": "体育,美食"
+      },
+      {
+        "raw_hot": 360514,
+        "num": 360514,
+        "word": "宋丹丹回应刘星家可有钱了",
+        "onboard_time": 1722060441,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360212,
+        "num": 360212,
+        "word": "韩国人又多了个说自己国家大的理由",
+        "onboard_time": 1722077842,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 342466,
+        "num": 342466,
+        "word": "杨幂又一个全球代言",
+        "onboard_time": 1722069560,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 310324,
+        "num": 310324,
+        "word": "奥运会体操",
+        "onboard_time": 1722078203,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303213,
+        "num": 303213,
+        "word": "巴黎奥运会首金",
+        "onboard_time": 1722073768,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281735,
+        "num": 281735,
+        "word": "巴黎奥运开幕式",
+        "onboard_time": 1722002904,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276117,
+        "num": 276117,
+        "word": "巴黎开幕式 多元化",
+        "onboard_time": 1722056961,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268867,
+        "num": 268867,
+        "word": "少一个孙子这个生日都过不成",
+        "onboard_time": 1722078684,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259150,
+        "num": 259150,
+        "word": "中国队升国旗奏国歌",
+        "onboard_time": 1722076943,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253095,
+        "num": 253095,
+        "word": "美团免单",
+        "onboard_time": 1722077483,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 247737,
+        "num": 247737,
+        "word": "刘亦菲黄衬衫大波浪造型",
+        "onboard_time": 1722078863,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 245541,
+        "num": 245541,
+        "word": "奥运会赛程",
+        "onboard_time": 1722075803,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241869,
+        "num": 241869,
+        "word": "杨倩祝贺黄雨婷盛李豪夺金",
+        "onboard_time": 1722074606,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233562,
+        "num": 233562,
+        "word": "启蒙教练说黄雨婷天生就是打枪的",
+        "onboard_time": 1722075984,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂全会决定中的这些名词#"
+    }
+  }
+}
