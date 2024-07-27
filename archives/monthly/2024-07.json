@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1722105484929,
+  "endTime": 1722107755544,
   "band_list": [
     {
       "raw_hot": 16577668,
@@ -5835,6 +5835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 988899,
+      "num": 576503,
+      "word": "我和她",
+      "onboard_time": 1722101777,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 988840,
       "num": 840028,
       "word": "女子长期喝通便茶肠道长满豹纹",
@@ -7801,6 +7809,14 @@
       "onboard_time": 1720573398,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 829123,
+      "num": 829123,
+      "word": "奥运会游泳",
+      "onboard_time": 1722098365,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 828874,
@@ -13347,14 +13363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 576503,
-      "num": 576503,
-      "word": "我和她",
-      "onboard_time": 1722101777,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 576196,
       "num": 424097,
       "word": "王鹤棣金发回归",
@@ -13497,6 +13505,14 @@
       "onboard_time": 1720936284,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 571508,
+      "num": 571508,
+      "word": "宁泽涛解说",
+      "onboard_time": 1722105133,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 570954,
@@ -16737,14 +16753,6 @@
       "onboard_time": 1720098079,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 487677,
-      "num": 487677,
-      "word": "奥运会游泳",
-      "onboard_time": 1722098365,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 487471,
@@ -20601,6 +20609,14 @@
       "onboard_time": 1720338436,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 410050,
+      "num": 410050,
+      "word": "男子400米自由泳决赛",
+      "onboard_time": 1722106273,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 409929,
@@ -24931,6 +24947,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 333780,
+      "num": 333780,
+      "word": "张雨霏进决赛",
+      "onboard_time": 1722106273,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 333682,
       "num": 333682,
       "word": "英格兰vs瑞士",
@@ -26177,6 +26201,14 @@
       "onboard_time": 1720283419,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 315182,
+      "num": 315182,
+      "word": "孙杨的奥运记录",
+      "onboard_time": 1722106994,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 314888,
@@ -40731,14 +40763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198911,
-      "num": 198911,
-      "word": "宁泽涛解说",
-      "onboard_time": 1722105133,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 198895,
       "num": 198895,
       "word": "王者荣耀10V10预告片",
@@ -48537,6 +48561,14 @@
       "onboard_time": 1720867997,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 173129,
+      "num": 115832,
+      "word": "邓亚萍跳预言家了",
+      "onboard_time": 1722104594,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 173118,
@@ -63019,14 +63051,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 120948,
-      "num": 115832,
-      "word": "邓亚萍跳预言家了",
-      "onboard_time": 1722104594,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 120855,
       "num": 120855,
       "word": "中国在南海的历史性权利不容否定",
@@ -64577,6 +64601,14 @@
       "onboard_time": 1720338797,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114581,
+      "num": 114581,
+      "word": "张雨霏56秒15晋级决赛",
+      "onboard_time": 1722106755,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 114560,
@@ -66963,6 +66995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103565,
+      "num": 96638,
+      "word": "张雨霏池江璃花子 巴黎再相逢",
+      "onboard_time": 1722105913,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103467,
       "num": 103467,
       "word": "杜江介绍珍珠的新生活",
@@ -67832,6 +67872,14 @@
       "word": "林高远3比0黄镇廷",
       "onboard_time": 1720257438,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 97034,
+      "num": 97034,
+      "word": "费立纬400自第六",
+      "onboard_time": 1722106994,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -69105,6 +69153,14 @@
       "onboard_time": 1720743799,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 87702,
+      "num": 87702,
+      "word": "宁泽涛真的来了",
+      "onboard_time": 1722106814,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 87692,
@@ -71291,6 +71347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67678,
+      "num": 67678,
+      "word": "刘国梁看莎头首秀好松弛",
+      "onboard_time": 1722106633,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67541,
       "num": 349203,
       "word": "百岁山符合国标和欧盟标准",
@@ -72065,6 +72129,14 @@
       "onboard_time": 1720140500,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61590,
+      "num": 61590,
+      "word": "奥运新手头头表示非常兴奋",
+      "onboard_time": 1722107652,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 61580,
@@ -79009,6 +79081,14 @@
       "onboard_time": 1721121499,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17227,
+      "num": 315485,
+      "word": "珠海教师以裁判身份亮相奥运会",
+      "onboard_time": 1722106814,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 17145,
