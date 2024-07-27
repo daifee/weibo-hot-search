@@ -1,6 +1,6 @@
 {
   "startTime": 1722097426384,
-  "endTime": 1722115054897,
+  "endTime": 1722116084737,
   "band_list": [
     {
       "raw_hot": 9614106,
@@ -555,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195854,
+      "num": 195854,
+      "word": "中国游泳队首枚奖牌",
+      "onboard_time": 1722110472,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191206,
       "num": 191206,
       "word": "许昕预测神了",
@@ -607,14 +615,6 @@
       "num": 150570,
       "word": "陈艺文昌雅妮 好嗑",
       "onboard_time": 1722102135,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 140944,
-      "num": 140944,
-      "word": "中国游泳队首枚奖牌",
-      "onboard_time": 1722110472,
       "rank": 25,
       "category": "体育"
     },
@@ -763,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27744,
+      "num": 196582,
+      "word": "爸爸要昌雅妮在升国旗时大声唱国歌",
+      "onboard_time": 1722114252,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23647,
       "num": 388397,
       "word": "黄雨婷房间里摆满小玩偶",
@@ -785,14 +793,6 @@
       "onboard_time": 1722106814,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 15407,
-      "num": 178220,
-      "word": "爸爸要昌雅妮在升国旗时大声唱国歌",
-      "onboard_time": 1722114252,
-      "rank": 9,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
