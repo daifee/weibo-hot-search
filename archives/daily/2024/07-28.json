@@ -1,6 +1,6 @@
 {
   "startTime": 1722097426384,
-  "endTime": 1722108941887,
+  "endTime": 1722111582658,
   "band_list": [
     {
       "raw_hot": 9614106,
@@ -83,6 +83,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1181698,
+      "num": 1181698,
+      "word": "游泳接力",
+      "onboard_time": 1722109152,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1149953,
       "num": 1149953,
       "word": "中国首金",
@@ -147,6 +155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 786466,
+      "num": 786466,
+      "word": "孙杨的奥运记录",
+      "onboard_time": 1722106994,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 751444,
       "num": 751444,
       "word": "王源扯婚纱",
@@ -160,14 +176,6 @@
       "word": "朝鲜混双",
       "onboard_time": 1722094046,
       "rank": 13,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 650963,
-      "num": 650963,
-      "word": "孙杨的奥运记录",
-      "onboard_time": 1722106994,
-      "rank": 11,
       "category": "体育"
     },
     {
@@ -240,6 +248,14 @@
       "word": "孙颖莎正手",
       "onboard_time": 1722093927,
       "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 441330,
+      "num": 441330,
+      "word": "潘展乐太牛了",
+      "onboard_time": 1722078563,
+      "rank": 3,
       "category": "体育"
     },
     {
@@ -371,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 305583,
+      "num": 305583,
+      "word": "期待潘展乐单项",
+      "onboard_time": 1722111071,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 303078,
       "num": 303078,
       "word": "阿条姐 干饭哥",
@@ -384,6 +408,14 @@
       "word": "中国队 松弛感",
       "onboard_time": 1722092123,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 298863,
+      "num": 298863,
+      "word": "覃海洋58秒93晋级决赛",
+      "onboard_time": 1722109152,
+      "rank": 13,
       "category": "体育"
     },
     {
@@ -499,11 +531,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196482,
+      "num": 196482,
+      "word": "江旻憓重剑金牌",
+      "onboard_time": 1722110773,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191206,
       "num": 191206,
       "word": "许昕预测神了",
       "onboard_time": 1722099499,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 180454,
+      "num": 180454,
+      "word": "中国姑娘4×100自由泳接力铜牌",
+      "onboard_time": 1722110292,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -528,6 +576,14 @@
       "word": "日媒称日本乒乓奥运连冠梦破灭了",
       "onboard_time": 1722101057,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 160537,
+      "num": 160537,
+      "word": "中国香港代表团首枚金牌",
+      "onboard_time": 1722111012,
+      "rank": 20,
       "category": "体育"
     },
     {
@@ -563,11 +619,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112205,
+      "num": 84940,
+      "word": "潘展乐46秒92",
+      "onboard_time": 1722111012,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 108302,
+      "num": 108302,
+      "word": "中国游泳队首枚奖牌",
+      "onboard_time": 1722110472,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103565,
       "num": 96638,
       "word": "张雨霏池江璃花子 巴黎再相逢",
       "onboard_time": 1722105913,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100553,
+      "num": 100553,
+      "word": "张雨霏好霸气",
+      "onboard_time": 1722108853,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -587,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88961,
+      "num": 88961,
+      "word": "中国男子4x100自由泳接力第四",
+      "onboard_time": 1722111012,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87702,
       "num": 87702,
       "word": "宁泽涛真的来了",
@@ -603,11 +691,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75302,
+      "num": 75302,
+      "word": "中国姑娘接力破亚洲纪录",
+      "onboard_time": 1722110773,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67678,
       "num": 67678,
       "word": "刘国梁看莎头首秀好松弛",
       "onboard_time": 1722106633,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 66209,
+      "num": 66209,
+      "word": "覃海洋100蛙冲金",
+      "onboard_time": 1722110052,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -619,11 +723,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54995,
-      "num": 54995,
-      "word": "张雨霏好霸气",
-      "onboard_time": 1722108853,
-      "rank": 49,
+      "raw_hot": 52272,
+      "num": 199977,
+      "word": "黄雨婷盛李豪的昵称很00后",
+      "onboard_time": 1722108672,
+      "rank": 13,
       "category": "体育"
     },
     {
@@ -635,20 +739,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 20407,
-      "num": 199977,
-      "word": "黄雨婷盛李豪的昵称很00后",
-      "onboard_time": 1722108672,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 18874,
       "num": 315485,
       "word": "珠海教师以裁判身份亮相奥运会",
       "onboard_time": 1722106814,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15850,
+      "num": 318575,
+      "word": "博士生花7万5找人代写论文",
+      "onboard_time": 1722110531,
+      "rank": 9,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1722108941887,
+  "endTime": 1722111582658,
   "band_list": [
     {
       "raw_hot": 16577668,
@@ -4161,6 +4161,14 @@
       "onboard_time": 1719893360,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1181698,
+      "num": 1181698,
+      "word": "游泳接力",
+      "onboard_time": 1722109152,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1181385,
@@ -8579,6 +8587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 786466,
+      "num": 786466,
+      "word": "孙杨的奥运记录",
+      "onboard_time": 1722106994,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 784912,
       "num": 582221,
       "word": "何猷君奚梦瑶拥吻照",
@@ -11273,14 +11289,6 @@
       "onboard_time": 1721405418,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 650963,
-      "num": 650963,
-      "word": "孙杨的奥运记录",
-      "onboard_time": 1722106994,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 650926,
@@ -26883,6 +26891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 305583,
+      "num": 305583,
+      "word": "期待潘展乐单项",
+      "onboard_time": 1722111071,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 305483,
       "num": 305483,
       "word": "印尼羽协公布张志杰抢救细节",
@@ -27345,6 +27361,14 @@
       "onboard_time": 1721882360,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 298863,
+      "num": 298863,
+      "word": "覃海洋58秒93晋级决赛",
+      "onboard_time": 1722109152,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 298798,
@@ -41683,6 +41707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196482,
+      "num": 196482,
+      "word": "江旻憓重剑金牌",
+      "onboard_time": 1722110773,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196474,
       "num": 196474,
       "word": "马斯克祝特朗普早日康复",
@@ -46481,6 +46513,14 @@
       "onboard_time": 1720508238,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180454,
+      "num": 180454,
+      "word": "中国姑娘4×100自由泳接力铜牌",
+      "onboard_time": 1722110292,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 180428,
@@ -52073,6 +52113,14 @@
       "onboard_time": 1719896959,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 160537,
+      "num": 160537,
+      "word": "中国香港代表团首枚金牌",
+      "onboard_time": 1722111012,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 160514,
@@ -65115,6 +65163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112205,
+      "num": 84940,
+      "word": "潘展乐46秒92",
+      "onboard_time": 1722111012,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112167,
       "num": 112167,
       "word": "西湖大学本科新生大多是高二生",
@@ -66048,6 +66104,14 @@
       "word": "多方回应张志杰事件",
       "onboard_time": 1719931640,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 108302,
+      "num": 108302,
+      "word": "中国游泳队首枚奖牌",
+      "onboard_time": 1722110472,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -67441,6 +67505,14 @@
       "onboard_time": 1721489601,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 100553,
+      "num": 100553,
+      "word": "张雨霏好霸气",
+      "onboard_time": 1722108853,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 100517,
@@ -69035,6 +69107,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 88961,
+      "num": 88961,
+      "word": "中国男子4x100自由泳接力第四",
+      "onboard_time": 1722111012,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88950,
       "num": 4685101,
       "word": "二十届三中全会公报速读",
@@ -70467,6 +70547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75302,
+      "num": 75302,
+      "word": "中国姑娘接力破亚洲纪录",
+      "onboard_time": 1722110773,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75257,
       "num": 75257,
       "word": "石油杯 奶油杯",
@@ -71577,6 +71665,14 @@
       "onboard_time": 1720308495,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 66209,
+      "num": 66209,
+      "word": "覃海洋100蛙冲金",
+      "onboard_time": 1722110052,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 66158,
@@ -73171,14 +73267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54995,
-      "num": 54995,
-      "word": "张雨霏好霸气",
-      "onboard_time": 1722108853,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 54816,
       "num": 874905,
       "word": "我国综合立体交通网总里程超600万公里",
@@ -73497,6 +73585,14 @@
       "onboard_time": 1720473551,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 52272,
+      "num": 199977,
+      "word": "黄雨婷盛李豪的昵称很00后",
+      "onboard_time": 1722108672,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 52234,
@@ -78603,14 +78699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 20407,
-      "num": 199977,
-      "word": "黄雨婷盛李豪的昵称很00后",
-      "onboard_time": 1722108672,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 20307,
       "num": 26632,
       "word": "罐车拉完煤制油直接装食用油",
@@ -79265,6 +79353,14 @@
       "onboard_time": 1720802956,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 15850,
+      "num": 318575,
+      "word": "博士生花7万5找人代写论文",
+      "onboard_time": 1722110531,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15846,

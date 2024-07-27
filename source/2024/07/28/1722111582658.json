@@ -1,0 +1,410 @@
+{
+  "runTime": 1722111582658,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1181698,
+        "num": 1181698,
+        "word": "游泳接力",
+        "onboard_time": 1722109152,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 786466,
+        "num": 786466,
+        "word": "孙杨的奥运记录",
+        "onboard_time": 1722106994,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3879,
+        "num": 591170,
+        "word": "中国队首金升国旗奏国歌现场",
+        "onboard_time": 1722085583,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 441330,
+        "num": 441330,
+        "word": "潘展乐太牛了",
+        "onboard_time": 1722078563,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 415120,
+        "num": 415120,
+        "word": "奥运会游泳",
+        "onboard_time": 1722098365,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 366827,
+        "num": 366827,
+        "word": "莎头已看呆",
+        "onboard_time": 1722097230,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327249,
+        "num": 327249,
+        "word": "宁泽涛解说",
+        "onboard_time": 1722105133,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 326378,
+        "num": 326378,
+        "word": "男子400米自由泳决赛",
+        "onboard_time": 1722106273,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323740,
+        "num": 323740,
+        "word": "许昕 神秘之师不好惹",
+        "onboard_time": 1722095615,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15850,
+        "num": 318575,
+        "word": "博士生花7万5找人代写论文",
+        "onboard_time": 1722110531,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405634,
+        "num": 318400,
+        "word": "我和她",
+        "onboard_time": 1722101777,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317971,
+        "num": 317971,
+        "word": "水谷隼 奥运会的魔物啊",
+        "onboard_time": 1722098073,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305583,
+        "num": 305583,
+        "word": "期待潘展乐单项",
+        "onboard_time": 1722111071,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298863,
+        "num": 298863,
+        "word": "覃海洋58秒93晋级决赛",
+        "onboard_time": 1722109152,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257761,
+        "num": 257761,
+        "word": "孙一文遭误判",
+        "onboard_time": 1722087681,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202021,
+        "num": 202021,
+        "word": "张本智和早田希娜爆冷出局",
+        "onboard_time": 1722094480,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196482,
+        "num": 196482,
+        "word": "江旻憓重剑金牌",
+        "onboard_time": 1722110773,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193701,
+        "num": 193701,
+        "word": "张雨霏进决赛",
+        "onboard_time": 1722106273,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180454,
+        "num": 180454,
+        "word": "中国姑娘4×100自由泳接力铜牌",
+        "onboard_time": 1722110292,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165948,
+        "num": 165948,
+        "word": "张本智和碎了",
+        "onboard_time": 1722096275,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160537,
+        "num": 160537,
+        "word": "中国香港代表团首枚金牌",
+        "onboard_time": 1722111012,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145108,
+        "num": 145108,
+        "word": "中国跳水队金牌总数与美国队并列第一",
+        "onboard_time": 1722095615,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140022,
+        "num": 140022,
+        "word": "中国队跳水女双3米板金牌",
+        "onboard_time": 1722073768,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134492,
+        "num": 134492,
+        "word": "中国首金",
+        "onboard_time": 1722072809,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124941,
+        "num": 124941,
+        "word": "王楚钦孙颖莎vs阿萨尔梅谢芙",
+        "onboard_time": 1722089603,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108302,
+        "num": 108302,
+        "word": "中国游泳队首枚奖牌",
+        "onboard_time": 1722110472,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106527,
+        "num": 106527,
+        "word": "隔壁张本智和好吵",
+        "onboard_time": 1722093808,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100553,
+        "num": 100553,
+        "word": "张雨霏好霸气",
+        "onboard_time": 1722108853,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88961,
+        "num": 88961,
+        "word": "中国男子4x100自由泳接力第四",
+        "onboard_time": 1722111012,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86838,
+        "num": 86838,
+        "word": "奥运五环旗挂反了",
+        "onboard_time": 1722056840,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112205,
+        "num": 84940,
+        "word": "潘展乐46秒92",
+        "onboard_time": 1722111012,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81924,
+        "num": 81924,
+        "word": "日媒称日本乒乓奥运连冠梦破灭了",
+        "onboard_time": 1722101057,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79446,
+        "num": 79446,
+        "word": "朝鲜乒乓 神秘之师",
+        "onboard_time": 1722093927,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79079,
+        "num": 79079,
+        "word": "张雨霏池江璃花子 巴黎再相逢",
+        "onboard_time": 1722105913,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76445,
+        "num": 76445,
+        "word": "宁泽涛真的来了",
+        "onboard_time": 1722106814,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75302,
+        "num": 75302,
+        "word": "中国姑娘接力破亚洲纪录",
+        "onboard_time": 1722110773,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70955,
+        "num": 70955,
+        "word": "羽毛球女双",
+        "onboard_time": 1722102017,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68544,
+        "num": 68544,
+        "word": "陈艺文昌雅妮 好嗑",
+        "onboard_time": 1722102135,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66209,
+        "num": 66209,
+        "word": "覃海洋100蛙冲金",
+        "onboard_time": 1722110052,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65456,
+        "num": 65456,
+        "word": "张本智和早田希娜一轮游",
+        "onboard_time": 1722095025,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65234,
+        "num": 65234,
+        "word": "迪玛希回应忘关麦克风",
+        "onboard_time": 1722078144,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61996,
+        "num": 61996,
+        "word": "王源扯婚纱",
+        "onboard_time": 1722093867,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 61124,
+        "num": 61124,
+        "word": "奥运会",
+        "onboard_time": 1722096092,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60184,
+        "num": 60184,
+        "word": "相柳角色号清空微博",
+        "onboard_time": 1722090923,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16617,
+        "num": 59725,
+        "word": "孙颖莎说和王楚钦搭档是缘分",
+        "onboard_time": 1722086003,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59595,
+        "num": 59595,
+        "word": "孙颖莎王楚钦晋级8强",
+        "onboard_time": 1722093627,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59566,
+        "num": 59566,
+        "word": "中国队混合团体10米气步枪金牌",
+        "onboard_time": 1722072453,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58714,
+        "num": 58714,
+        "word": "美国网红夫妇生吃生蚝一死一重病",
+        "onboard_time": 1722092604,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54974,
+        "num": 54974,
+        "word": "邓亚萍跳预言家了",
+        "onboard_time": 1722104594,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52272,
+        "num": 52272,
+        "word": "黄雨婷盛李豪的昵称很00后",
+        "onboard_time": 1722108672,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记感悟体育精神#"
+    }
+  }
+}
