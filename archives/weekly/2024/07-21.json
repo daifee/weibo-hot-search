@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1722057539045,
+  "endTime": 1722058521412,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -249,6 +249,14 @@
       "onboard_time": 1721992878,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2722693,
+      "num": 2722693,
+      "word": "奥运五环旗挂反了",
+      "onboard_time": 1722056840,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 2714233,
@@ -963,6 +971,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1499197,
+      "num": 1499197,
+      "word": "巴黎开幕式 争议",
+      "onboard_time": 1722055821,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1485811,
       "num": 1485811,
       "word": "蒙娜丽莎被小黄人偷走了",
@@ -1179,14 +1195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1309192,
-      "num": 1309192,
-      "word": "巴黎开幕式 争议",
-      "onboard_time": 1722055821,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1309108,
       "num": 1245592,
       "word": "被虐待致死的3岁女童母亲发声",
@@ -1305,6 +1313,14 @@
       "onboard_time": 1721788279,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1236654,
+      "num": 1236654,
+      "word": "全红婵跳水都没我下饺子水花大",
+      "onboard_time": 1722051920,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 1231819,
@@ -1681,14 +1697,6 @@
       "onboard_time": 1721708601,
       "rank": 5,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1056336,
-      "num": 1056336,
-      "word": "全红婵跳水都没我下饺子水花大",
-      "onboard_time": 1722051920,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 1053351,
@@ -2132,7 +2140,7 @@
     },
     {
       "raw_hot": 916009,
-      "num": 723916,
+      "num": 915194,
       "word": "巴黎奥运 女性的里程碑",
       "onboard_time": 1722057140,
       "rank": 11,
@@ -2231,6 +2239,14 @@
       "num": 879914,
       "word": "巴黎奥运村纸板床终于塌了",
       "onboard_time": 1721822777,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 879268,
+      "num": 879268,
+      "word": "巴黎奥运会 性别平等",
+      "onboard_time": 1722058161,
       "rank": 10,
       "category": "体育"
     },
@@ -2361,14 +2377,6 @@
       "onboard_time": 1721824039,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 851943,
-      "num": 851943,
-      "word": "奥运五环旗挂反了",
-      "onboard_time": 1722056840,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 851143,
@@ -2625,6 +2633,14 @@
       "onboard_time": 1721540898,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 788692,
+      "num": 788692,
+      "word": "贾玲 哪有那么多闪电",
+      "onboard_time": 1722056660,
+      "rank": 16,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 779924,
@@ -3025,6 +3041,14 @@
       "onboard_time": 1721647703,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 711062,
+      "num": 449060,
+      "word": "一个27岁的研究生轻轻的碎了",
+      "onboard_time": 1722054742,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 710537,
@@ -4499,14 +4523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 501427,
-      "num": 501427,
-      "word": "贾玲 哪有那么多闪电",
-      "onboard_time": 1722056660,
-      "rank": 16,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 500979,
       "num": 226721,
       "word": "特朗普遇袭事件出现最新视频",
@@ -4545,6 +4561,14 @@
       "onboard_time": 1721814439,
       "rank": 6,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 497492,
+      "num": 497492,
+      "word": "仙侠剧男女主终于都长嘴了",
+      "onboard_time": 1722054801,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 496994,
@@ -4611,14 +4635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 492537,
-      "num": 492537,
-      "word": "仙侠剧男女主终于都长嘴了",
-      "onboard_time": 1722054801,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 490360,
       "num": 395850,
       "word": "游泳时千万别穿白色泳衣",
@@ -4641,14 +4657,6 @@
       "onboard_time": 1721629820,
       "rank": 9,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 490004,
-      "num": 449060,
-      "word": "一个27岁的研究生轻轻的碎了",
-      "onboard_time": 1722054742,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 489008,
@@ -6468,7 +6476,7 @@
     },
     {
       "raw_hot": 336732,
-      "num": 336732,
+      "num": 880973,
       "word": "官方通报民警午休被吵醒态度生硬",
       "onboard_time": 1722052701,
       "rank": 34,
@@ -7179,6 +7187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298102,
+      "num": 298102,
+      "word": "难为央视把你们都找出来",
+      "onboard_time": 1722054981,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 297801,
       "num": 297801,
       "word": "于正cue白鹿",
@@ -7627,14 +7643,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 278830,
-      "num": 278830,
-      "word": "难为央视把你们都找出来",
-      "onboard_time": 1722054981,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 278789,
       "num": 278789,
       "word": "谁教李明德这么P图的",
@@ -7819,6 +7827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270489,
+      "num": 270489,
+      "word": "席琳迪翁战胜病魔",
+      "onboard_time": 1722057560,
+      "rank": 32,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 269601,
       "num": 269601,
       "word": "日本代表团这么多人",
@@ -7881,6 +7897,14 @@
       "onboard_time": 1721487502,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 267886,
+      "num": 264566,
+      "word": "凡希亚机位",
+      "onboard_time": 1722057860,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 267777,
@@ -8323,6 +8347,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 249973,
+      "num": 249973,
+      "word": "中国队射击跳水冲击首金",
+      "onboard_time": 1722058041,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 249931,
       "num": 249931,
       "word": "电影异人之下首映口碑",
@@ -8361,6 +8393,14 @@
       "onboard_time": 1721739860,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249282,
+      "num": 249282,
+      "word": "这很法国",
+      "onboard_time": 1722057741,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 249134,
@@ -9481,6 +9521,14 @@
       "onboard_time": 1722051139,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 221505,
+      "num": 221505,
+      "word": "金钟国变大黑牛",
+      "onboard_time": 1722057620,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 221504,
@@ -10641,6 +10689,14 @@
       "onboard_time": 1721795841,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203715,
+      "num": 203715,
+      "word": "姆巴佩国籍法国祖籍广西",
+      "onboard_time": 1722056242,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 203658,
@@ -12595,6 +12651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185563,
+      "num": 449525,
+      "word": "张杰把凡希亚的歌加入歌单",
+      "onboard_time": 1722057321,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185370,
       "num": 185370,
       "word": "赵露思为奥运健儿打call",
@@ -13041,6 +13105,14 @@
       "onboard_time": 1721975179,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178779,
+      "num": 178779,
+      "word": "冰雪谣定档官宣",
+      "onboard_time": 1722058459,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 178517,
@@ -14819,6 +14891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 158009,
+      "num": 729408,
+      "word": "恶魔基因是对超雄综合征的污名化",
+      "onboard_time": 1722056420,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
+    },
+    {
       "raw_hot": 157906,
       "num": 157906,
       "word": "歌手彩排",
@@ -15865,14 +15945,6 @@
       "onboard_time": 1721523497,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 137556,
-      "num": 449525,
-      "word": "张杰把凡希亚的歌加入歌单",
-      "onboard_time": 1722057321,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 137523,
@@ -17859,14 +17931,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 71363,
-      "num": 729408,
-      "word": "恶魔基因是对超雄综合征的污名化",
-      "onboard_time": 1722056420,
-      "rank": 9,
-      "category": "社会新闻,健康医疗"
-    },
-    {
       "raw_hot": 71229,
       "num": 361441,
       "word": "花花把自己团成了三角饭团",
@@ -17929,6 +17993,14 @@
       "onboard_time": 1721797221,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 69025,
+      "num": 650380,
+      "word": "饿了么说有底气提前发夺金免单",
+      "onboard_time": 1722056420,
+      "rank": 14,
+      "category": "美食,体育"
     },
     {
       "raw_hot": 68982,
@@ -18268,7 +18340,7 @@
     },
     {
       "raw_hot": 58262,
-      "num": 363779,
+      "num": 423879,
       "word": "在香奈儿活动遇见心动CRUSH",
       "onboard_time": 1722056901,
       "rank": 26,
@@ -18953,14 +19025,6 @@
       "onboard_time": 1721546059,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38121,
-      "num": 650380,
-      "word": "饿了么说有底气提前发夺金免单",
-      "onboard_time": 1722056420,
-      "rank": 14,
-      "category": "美食,体育"
     },
     {
       "raw_hot": 38006,
