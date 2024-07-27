@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1722090856311,
+  "endTime": 1722093582446,
   "band_list": [
     {
       "raw_hot": 16577668,
@@ -27,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13601097,
-      "num": 13601097,
+      "raw_hot": 13650363,
+      "num": 13650363,
       "word": "孙一文遭误判",
       "onboard_time": 1722087681,
       "rank": 0,
@@ -105,6 +105,14 @@
       "onboard_time": 1720919238,
       "rank": 1,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 11308443,
+      "num": 11308443,
+      "word": "王楚钦孙颖莎vs阿萨尔梅谢芙",
+      "onboard_time": 1722089603,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 11305852,
@@ -441,14 +449,6 @@
       "onboard_time": 1721374880,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3485407,
-      "num": 3485407,
-      "word": "王楚钦孙颖莎vs阿萨尔梅谢芙",
-      "onboard_time": 1722089603,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 3456601,
@@ -1545,6 +1545,14 @@
       "onboard_time": 1721691017,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1839092,
+      "num": 1839092,
+      "word": "张本智和早田希娜开局被打6比0",
+      "onboard_time": 1722092843,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1838162,
@@ -9027,6 +9035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 751396,
+      "num": 751396,
+      "word": "陈艺文公主抱吓坏美国队",
+      "onboard_time": 1722087743,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 751062,
       "num": 751062,
       "word": "沙特土豪误认选手豪赠100刀",
@@ -10145,6 +10161,14 @@
       "onboard_time": 1721539337,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 695229,
+      "num": 695229,
+      "word": "相柳角色号清空微博",
+      "onboard_time": 1722090923,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 694799,
@@ -15059,6 +15083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 523571,
+      "num": 383591,
+      "word": "美国网红夫妇生吃生蚝一死一重病",
+      "onboard_time": 1722092604,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 523136,
       "num": 266120,
       "word": "iPhone16Pro屏幕有重大升级",
@@ -15744,14 +15776,6 @@
       "word": "巴黎奥运开幕式 好癫好爱",
       "onboard_time": 1722025691,
       "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 503373,
-      "num": 503373,
-      "word": "陈艺文公主抱吓坏美国队",
-      "onboard_time": 1722087743,
-      "rank": 19,
       "category": "体育"
     },
     {
@@ -20139,6 +20163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 415044,
+      "num": 415044,
+      "word": "何猷君 很感谢王嘉尔",
+      "onboard_time": 1722092783,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 414777,
       "num": 242369,
       "word": "稀有小马宝莉卡被炒到16万1张",
@@ -20977,6 +21009,14 @@
       "onboard_time": 1720868057,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 399698,
+      "num": 399698,
+      "word": "张杰四十岁正是东张西望的年纪",
+      "onboard_time": 1722090863,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 399378,
@@ -23107,6 +23147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 357153,
+      "num": 357153,
+      "word": "乒乓球",
+      "onboard_time": 1721863516,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 357094,
       "num": 249723,
       "word": "女子称花7元多买到加了色素的贡菜",
@@ -24145,6 +24193,14 @@
       "onboard_time": 1721746220,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 342836,
+      "num": 342836,
+      "word": "中国队 松弛感",
+      "onboard_time": 1722092123,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 342457,
@@ -30003,14 +30059,6 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 263294,
-      "num": 263294,
-      "word": "乒乓球",
-      "onboard_time": 1721863516,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 263277,
       "num": 263277,
       "word": "上班吃同事真的很不礼貌",
@@ -30163,6 +30211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261475,
+      "num": 261475,
+      "word": "黄宣心中的歌手前三名",
+      "onboard_time": 1722092493,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261420,
       "num": 261420,
       "word": "凤凰组合开门红",
@@ -30259,6 +30315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260169,
+      "num": 260169,
+      "word": "盛李豪得知被叫干饭哥的反应",
+      "onboard_time": 1722092904,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 260159,
       "num": 260159,
       "word": "伞少女",
@@ -30297,6 +30361,14 @@
       "onboard_time": 1721660604,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 259825,
+      "num": 259825,
+      "word": "陈艺文昌雅妮神图",
+      "onboard_time": 1722093085,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 259697,
@@ -30947,6 +31019,14 @@
       "category": "社会新闻,国外时政"
     },
     {
+      "raw_hot": 253185,
+      "num": 253185,
+      "word": "游泳队身材",
+      "onboard_time": 1722091525,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 253099,
       "num": 247336,
       "word": "陶喆 二十二",
@@ -31387,6 +31467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 249259,
+      "num": 249259,
+      "word": "被李晨45岁的老腰痛到了",
+      "onboard_time": 1722093264,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 249138,
       "num": 249138,
       "word": "马嘉祺丁程鑫互泼对方",
@@ -31673,6 +31761,14 @@
       "onboard_time": 1719982699,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 246625,
+      "num": 246625,
+      "word": "盛李豪是清华的",
+      "onboard_time": 1722091223,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 246538,
@@ -33219,6 +33315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233419,
+      "num": 233419,
+      "word": "刘诗雯观战莎头首秀",
+      "onboard_time": 1722093203,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 233376,
       "num": 233376,
       "word": "团伙用3元淫秽视频获利60余万",
@@ -34065,6 +34169,14 @@
       "onboard_time": 1720927460,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 227352,
+      "num": 227352,
+      "word": "中国姑娘夺金后给自己公主抱",
+      "onboard_time": 1722093507,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 227340,
@@ -35347,6 +35459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 218444,
+      "num": 218444,
+      "word": "体操导播干嘛呢",
+      "onboard_time": 1722092663,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218388,
       "num": 218388,
       "word": "怪盗基德 怪盗圣少女",
@@ -35777,6 +35897,14 @@
       "onboard_time": 1721826680,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216168,
+      "num": 788880,
+      "word": "孙一文回应爆冷时眼中有泪",
+      "onboard_time": 1722092184,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 216153,
@@ -67964,7 +68092,7 @@
     },
     {
       "raw_hot": 93606,
-      "num": 2632620,
+      "num": 5812949,
       "word": "90秒看北京中轴线对称之美",
       "onboard_time": 1722084202,
       "rank": 2,
@@ -77841,6 +77969,14 @@
       "onboard_time": 1720957698,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21674,
+      "num": 425514,
+      "word": "邵圣懿铭记首金时刻",
+      "onboard_time": 1722092783,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 21647,

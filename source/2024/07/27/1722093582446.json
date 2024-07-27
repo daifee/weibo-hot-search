@@ -1,0 +1,410 @@
+{
+  "runTime": 1722093582446,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 13650363,
+        "num": 13650363,
+        "word": "孙一文遭误判",
+        "onboard_time": 1722087681,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11308443,
+        "num": 11308443,
+        "word": "王楚钦孙颖莎vs阿萨尔梅谢芙",
+        "onboard_time": 1722089603,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33073,
+        "num": 5812949,
+        "word": "90秒看北京中轴线对称之美",
+        "onboard_time": 1722084202,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2144094,
+        "num": 2144094,
+        "word": "中国首金",
+        "onboard_time": 1722072809,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1839092,
+        "num": 1839092,
+        "word": "张本智和早田希娜开局被打6比0",
+        "onboard_time": 1722092843,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1629301,
+        "num": 1629301,
+        "word": "中国队跳水女双3米板金牌",
+        "onboard_time": 1722073768,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1138420,
+        "num": 1138420,
+        "word": "郭晶晶 跳水裁判长",
+        "onboard_time": 1722080482,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 967890,
+        "num": 967890,
+        "word": "阿条姐 干饭哥",
+        "onboard_time": 1722067699,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 828164,
+        "num": 828164,
+        "word": "中国队混合团体10米气步枪金牌",
+        "onboard_time": 1722072453,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216168,
+        "num": 788880,
+        "word": "孙一文回应爆冷时眼中有泪",
+        "onboard_time": 1722092184,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 948529,
+        "num": 782541,
+        "word": "奥运五环旗挂反了",
+        "onboard_time": 1722056840,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 751396,
+        "num": 751396,
+        "word": "陈艺文公主抱吓坏美国队",
+        "onboard_time": 1722087743,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 695229,
+        "num": 695229,
+        "word": "相柳角色号清空微博",
+        "onboard_time": 1722090923,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 499339,
+        "num": 499339,
+        "word": "虞书欣炒个菜步数第一",
+        "onboard_time": 1722087622,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21674,
+        "num": 425514,
+        "word": "邵圣懿铭记首金时刻",
+        "onboard_time": 1722092783,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 415044,
+        "num": 415044,
+        "word": "何猷君 很感谢王嘉尔",
+        "onboard_time": 1722092783,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404888,
+        "num": 404888,
+        "word": "巴黎奥运参赛夺金概率仅3%",
+        "onboard_time": 1722081743,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 399698,
+        "num": 399698,
+        "word": "张杰四十岁正是东张西望的年纪",
+        "onboard_time": 1722090863,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397863,
+        "num": 397863,
+        "word": "巴黎开幕式 争议",
+        "onboard_time": 1722055821,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 397151,
+        "num": 397151,
+        "word": "孙颖莎说和王楚钦搭档是缘分",
+        "onboard_time": 1722086003,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 628842,
+        "num": 393041,
+        "word": "迪玛希回应忘关麦克风",
+        "onboard_time": 1722078144,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 523571,
+        "num": 383591,
+        "word": "美国网红夫妇生吃生蚝一死一重病",
+        "onboard_time": 1722092604,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368491,
+        "num": 368491,
+        "word": "黄雨婷的发卡是自己做的",
+        "onboard_time": 1722084923,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 357153,
+        "num": 357153,
+        "word": "乒乓球",
+        "onboard_time": 1722084502,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 348414,
+        "num": 348414,
+        "word": "王嘉尔ins回怼网友",
+        "onboard_time": 1722081443,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342836,
+        "num": 342836,
+        "word": "中国队 松弛感",
+        "onboard_time": 1722092123,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 338386,
+        "num": 338386,
+        "word": "巴黎奥运开幕式",
+        "onboard_time": 1722002904,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309933,
+        "num": 309933,
+        "word": "雅思组合巴黎首秀",
+        "onboard_time": 1722090322,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299920,
+        "num": 299920,
+        "word": "中信建投称不存在协助财务造假",
+        "onboard_time": 1722084683,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282466,
+        "num": 282466,
+        "word": "奥运会体操",
+        "onboard_time": 1722078203,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276482,
+        "num": 276482,
+        "word": "马杨告况盛",
+        "onboard_time": 1722081682,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261475,
+        "num": 261475,
+        "word": "黄宣心中的歌手前三名",
+        "onboard_time": 1722092493,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260765,
+        "num": 260765,
+        "word": "苏炳添说埃菲尔铁塔有点小",
+        "onboard_time": 1722088582,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260169,
+        "num": 260169,
+        "word": "盛李豪得知被叫干饭哥的反应",
+        "onboard_time": 1722092904,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259825,
+        "num": 259825,
+        "word": "陈艺文昌雅妮神图",
+        "onboard_time": 1722093085,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254289,
+        "num": 254289,
+        "word": "射击混合团体10米气步枪",
+        "onboard_time": 1722059899,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253185,
+        "num": 253185,
+        "word": "游泳队身材",
+        "onboard_time": 1722091525,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251652,
+        "num": 251652,
+        "word": "唐朝诡事录",
+        "onboard_time": 1722084442,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249259,
+        "num": 249259,
+        "word": "被李晨45岁的老腰痛到了",
+        "onboard_time": 1722093264,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246146,
+        "num": 247258,
+        "word": "羽毛球女双",
+        "onboard_time": 1722086602,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247027,
+        "num": 247027,
+        "word": "散装江苏争夺盛李豪",
+        "onboard_time": 1722089062,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246625,
+        "num": 246625,
+        "word": "盛李豪是清华的",
+        "onboard_time": 1722091223,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243726,
+        "num": 243726,
+        "word": "全红婵跳水都没我下饺子水花大",
+        "onboard_time": 1722051920,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240095,
+        "num": 240095,
+        "word": "孙一文首轮淘汰",
+        "onboard_time": 1722075803,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235513,
+        "num": 235513,
+        "word": "莎头首秀",
+        "onboard_time": 1722067159,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233419,
+        "num": 233419,
+        "word": "刘诗雯观战莎头首秀",
+        "onboard_time": 1722093203,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230931,
+        "num": 230931,
+        "word": "陈艺文昌雅妮好甜",
+        "onboard_time": 1722078263,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227352,
+        "num": 227352,
+        "word": "中国姑娘夺金后给自己公主抱",
+        "onboard_time": 1722093507,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225587,
+        "num": 225587,
+        "word": "原来黄雨婷也是禾伙人",
+        "onboard_time": 1722085884,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218444,
+        "num": 218444,
+        "word": "体操导播干嘛呢",
+        "onboard_time": 1722092663,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#全面深化改革进行时#"
+    }
+  }
+}
