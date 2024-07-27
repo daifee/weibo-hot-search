@@ -1,6 +1,6 @@
 {
   "startTime": 1722011177149,
-  "endTime": 1722058521412,
+  "endTime": 1722061514601,
   "band_list": [
     {
       "raw_hot": 12261931,
@@ -16,6 +16,14 @@
       "word": "巴黎奥运开幕式",
       "onboard_time": 1722002904,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 5731774,
+      "num": 5731774,
+      "word": "奥运五环旗挂反了",
+      "onboard_time": 1722056840,
+      "rank": 7,
       "category": "体育"
     },
     {
@@ -67,14 +75,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2722693,
-      "num": 2722693,
-      "word": "奥运五环旗挂反了",
-      "onboard_time": 1722056840,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 2521491,
       "num": 2521491,
       "word": "韩国网友要求法国道歉",
@@ -107,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1835369,
+      "num": 1835369,
+      "word": "巴黎开幕式 争议",
+      "onboard_time": 1722055821,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1734528,
       "num": 1254680,
       "word": "韩国 占C",
@@ -128,14 +136,6 @@
       "word": "开幕式 LV硬广",
       "onboard_time": 1722018136,
       "rank": 26,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1499197,
-      "num": 1499197,
-      "word": "巴黎开幕式 争议",
-      "onboard_time": 1722055821,
-      "rank": 4,
       "category": "体育"
     },
     {
@@ -219,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 964605,
+      "num": 964605,
+      "word": "贾玲 哪有那么多闪电",
+      "onboard_time": 1722056660,
+      "rank": 16,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 953794,
       "num": 953794,
       "word": "中信建投实习生称未被告知资料保密",
@@ -243,8 +251,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 879268,
-      "num": 879268,
+      "raw_hot": 891706,
+      "num": 891706,
       "word": "巴黎奥运会 性别平等",
       "onboard_time": 1722058161,
       "rank": 10,
@@ -281,14 +289,6 @@
       "onboard_time": 1722028032,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 788692,
-      "num": 788692,
-      "word": "贾玲 哪有那么多闪电",
-      "onboard_time": 1722056660,
-      "rank": 16,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 768761,
@@ -331,7 +331,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 711062,
+      "raw_hot": 726749,
       "num": 449060,
       "word": "一个27岁的研究生轻轻的碎了",
       "onboard_time": 1722054742,
@@ -409,6 +409,14 @@
       "onboard_time": 1722018196,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 571084,
+      "num": 571084,
+      "word": "宋丹丹回应刘星家可有钱了",
+      "onboard_time": 1722060441,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 553686,
@@ -635,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 392901,
+      "num": 392901,
+      "word": "中国队射击跳水冲击首金",
+      "onboard_time": 1722058041,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 385977,
       "num": 385977,
       "word": "凡希亚从没掉出前三 总决赛第四",
@@ -649,6 +665,14 @@
       "onboard_time": 1722007282,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 375295,
+      "num": 375295,
+      "word": "凡希亚机位",
+      "onboard_time": 1722057860,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 375078,
@@ -696,6 +720,14 @@
       "word": "LadyGaga彩排",
       "onboard_time": 1722015198,
       "rank": 35,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 341765,
+      "num": 341765,
+      "word": "韩国三大代表之一是防弹少年团",
+      "onboard_time": 1722059119,
+      "rank": 18,
       "category": "艺人,体育"
     },
     {
@@ -803,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 289460,
+      "num": 289460,
+      "word": "北京中轴线列入世界遗产",
+      "onboard_time": 1722060978,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288189,
       "num": 288189,
       "word": "开幕式路透",
@@ -867,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 276752,
+      "num": 276752,
+      "word": "樊振东就这么水灵灵地吃上了",
+      "onboard_time": 1722059060,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 273810,
       "num": 273810,
       "word": "巴黎奥运最伟大最震撼的环节",
@@ -899,19 +947,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 267886,
-      "num": 264566,
-      "word": "凡希亚机位",
-      "onboard_time": 1722057860,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 267195,
       "num": 2347866,
       "word": "巴黎今天将决出14枚奥运金牌",
       "onboard_time": 1722042201,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 256962,
+      "num": 256962,
+      "word": "姆巴佩国籍法国祖籍广西",
+      "onboard_time": 1722056242,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -931,19 +979,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252175,
+      "num": 252175,
+      "word": "张若昀 人尴尬的时候会假装很忙",
+      "onboard_time": 1722059300,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 251161,
       "num": 251161,
       "word": "全红婵妈妈把女儿得分记到小数点后",
       "onboard_time": 1722039141,
       "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 249973,
-      "num": 249973,
-      "word": "中国队射击跳水冲击首金",
-      "onboard_time": 1722058041,
-      "rank": 37,
       "category": "体育"
     },
     {
@@ -1200,14 +1248,6 @@
       "word": "巴黎奥运开幕式点火",
       "onboard_time": 1722043641,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 203715,
-      "num": 203715,
-      "word": "姆巴佩国籍法国祖籍广西",
-      "onboard_time": 1722056242,
-      "rank": 45,
       "category": "体育"
     },
     {
@@ -1475,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183602,
+      "num": 183602,
+      "word": "国色芳华",
+      "onboard_time": 1722061280,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182029,
       "num": 182029,
       "word": "巴黎圣母院 还在修",
@@ -1539,12 +1587,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 178255,
+      "num": 178255,
+      "word": "ladygaga的伴舞摔倒",
+      "onboard_time": 1722058581,
+      "rank": 43,
+      "category": "演出,体育"
+    },
+    {
       "raw_hot": 178067,
       "num": 178067,
       "word": "马赛曲",
       "onboard_time": 1722021913,
       "rank": 27,
       "category": "体育,音乐"
+    },
+    {
+      "raw_hot": 177350,
+      "num": 177350,
+      "word": "董宇辉巴黎奥运会被偶遇",
+      "onboard_time": 1722059600,
+      "rank": 44,
+      "category": "互联网,体育"
     },
     {
       "raw_hot": 175765,
@@ -1571,6 +1635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173728,
+      "num": 729408,
+      "word": "恶魔基因是对超雄综合征的污名化",
+      "onboard_time": 1722056420,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
+    },
+    {
       "raw_hot": 169965,
       "num": 169965,
       "word": "火炬手像偷火炬的",
@@ -1593,6 +1665,14 @@
       "onboard_time": 1722031873,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164289,
+      "num": 314600,
+      "word": "唐诡西行是个喜剧吧",
+      "onboard_time": 1722061159,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 163308,
@@ -1643,14 +1723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158009,
-      "num": 729408,
-      "word": "恶魔基因是对超雄综合征的污名化",
-      "onboard_time": 1722056420,
-      "rank": 9,
-      "category": "社会新闻,健康医疗"
-    },
-    {
       "raw_hot": 157817,
       "num": 157817,
       "word": "贾玲好大气",
@@ -1681,6 +1753,14 @@
       "onboard_time": 1721996240,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141620,
+      "num": 192890,
+      "word": "白象中国面为实力喝彩",
+      "onboard_time": 1722060020,
+      "rank": 39,
+      "category": "体育,美食"
     },
     {
       "raw_hot": 136815,
@@ -1755,6 +1835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119083,
+      "num": 167040,
+      "word": "射击混合团体10米气步枪",
+      "onboard_time": 1722059899,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118075,
       "num": 118075,
       "word": "火车进站",
@@ -1825,6 +1913,14 @@
       "onboard_time": 1721997383,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98133,
+      "num": 608513,
+      "word": "主播网恋44岁大姐被骗60多万",
+      "onboard_time": 1722060020,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93757,
@@ -1947,6 +2043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40265,
+      "num": 532159,
+      "word": "实至名归传奇上场",
+      "onboard_time": 1722060201,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38664,
       "num": 331355,
       "word": "LVMH法式运动优雅",
@@ -1969,6 +2073,14 @@
       "onboard_time": 1722045921,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 29272,
+      "num": 279579,
+      "word": "伊利首日双金看点",
+      "onboard_time": 1722060201,
+      "rank": 27,
+      "category": "体育,美食"
     },
     {
       "raw_hot": 27213,
