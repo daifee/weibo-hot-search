@@ -1,6 +1,6 @@
 {
   "startTime": 1722011177149,
-  "endTime": 1722075585937,
+  "endTime": 1722076560330,
   "band_list": [
     {
       "raw_hot": 16577668,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 11976288,
-      "num": 11855012,
+      "num": 12004597,
       "word": "中国队跳水女双3米板金牌",
       "onboard_time": 1722073768,
       "rank": 1,
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 923084,
+      "num": 923084,
+      "word": "游泳预赛",
+      "onboard_time": 1722075564,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 916009,
       "num": 915194,
       "word": "巴黎奥运 女性的里程碑",
@@ -393,6 +401,14 @@
       "onboard_time": 1722065119,
       "rank": 20,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 843166,
+      "num": 843166,
+      "word": "奥运会赛程",
+      "onboard_time": 1721978598,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 811461,
@@ -491,11 +507,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 709998,
+      "num": 709998,
+      "word": "盛李豪说比赛太刺激了",
+      "onboard_time": 1722074666,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 692500,
       "num": 692500,
       "word": "国羽巴黎奥运首胜",
       "onboard_time": 1722064880,
       "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 686377,
+      "num": 686377,
+      "word": "黄雨婷盛李豪登上最高领奖台",
+      "onboard_time": 1722076044,
+      "rank": 22,
       "category": "体育"
     },
     {
@@ -579,14 +611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 604187,
-      "num": 604187,
-      "word": "盛李豪说比赛太刺激了",
-      "onboard_time": 1722074666,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 600903,
       "num": 600903,
       "word": "旗手马龙出发了",
@@ -633,6 +657,14 @@
       "onboard_time": 1722007821,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 549371,
+      "num": 549371,
+      "word": "孙一文首轮淘汰",
+      "onboard_time": 1722075803,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 541558,
@@ -1011,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 331197,
+      "num": 331197,
+      "word": "长沙警方通报机动车撞人案",
+      "onboard_time": 1722075624,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330846,
       "num": 330846,
       "word": "没有俄罗斯",
@@ -1080,14 +1120,6 @@
       "word": "开幕式镜头比我的人生还混乱",
       "onboard_time": 1722018376,
       "rank": 29,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 310013,
-      "num": 310013,
-      "word": "游泳预赛",
-      "onboard_time": 1722075564,
-      "rank": 36,
       "category": "体育"
     },
     {
@@ -1320,6 +1352,14 @@
       "word": "日本代表团这么多人",
       "onboard_time": 1722022452,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 261921,
+      "num": 261921,
+      "word": "颁奖仪式",
+      "onboard_time": 1722076224,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -1577,6 +1617,14 @@
       "onboard_time": 1722042800,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214513,
+      "num": 581466,
+      "word": "00后小将打开中国军团金牌账户",
+      "onboard_time": 1722073589,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 213177,
@@ -2075,14 +2123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 182224,
-      "num": 581466,
-      "word": "00后小将打开中国军团金牌账户",
-      "onboard_time": 1722073589,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 182029,
       "num": 182029,
       "word": "巴黎圣母院 还在修",
@@ -2355,6 +2395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136510,
+      "num": 1016630,
+      "word": "启蒙教练说黄雨婷天生就是打枪的",
+      "onboard_time": 1722075984,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136114,
       "num": 726175,
       "word": "雷军现身巴黎奥运会开幕式",
@@ -2425,14 +2473,6 @@
       "onboard_time": 1722021193,
       "rank": 44,
       "category": "体育,电影"
-    },
-    {
-      "raw_hot": 117825,
-      "num": 117825,
-      "word": "奥运会赛程",
-      "onboard_time": 1721978598,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 116667,
@@ -2595,6 +2635,14 @@
       "category": "美食,体育"
     },
     {
+      "raw_hot": 68843,
+      "num": 431752,
+      "word": "外媒称马克龙赌对了",
+      "onboard_time": 1722075984,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 66797,
       "num": 514864,
       "word": "博物馆非馆方讲解2小时要价2680元",
@@ -2620,7 +2668,7 @@
     },
     {
       "raw_hot": 57740,
-      "num": 342117,
+      "num": 1007462,
       "word": "金边新闻是什么",
       "onboard_time": 1722074786,
       "rank": 33,
@@ -2676,7 +2724,7 @@
     },
     {
       "raw_hot": 39597,
-      "num": 451035,
+      "num": 508328,
       "word": "蔚来二代手机零预装零广告",
       "onboard_time": 1722074727,
       "rank": 27,
@@ -2771,12 +2819,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18114,
+      "num": 255563,
+      "word": "当非遗遇到巴黎奥运",
+      "onboard_time": 1722076103,
+      "rank": 43,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 9747,
       "num": 918105,
       "word": "叶诗文晒和队友跳舞视频",
       "onboard_time": 1722020173,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7697,
+      "num": 254132,
+      "word": "关于香奈儿设计中的遇见",
+      "onboard_time": 1722076282,
+      "rank": 44,
+      "category": "时尚"
     }
   ],
   "hotgov_list": [
