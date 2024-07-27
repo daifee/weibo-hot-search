@@ -1,0 +1,410 @@
+{
+  "runTime": 1722084719277,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2855902,
+        "num": 2855902,
+        "word": "中国首金",
+        "onboard_time": 1722072809,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1909583,
+        "num": 1909583,
+        "word": "中国队跳水女双3米板金牌",
+        "onboard_time": 1722073768,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23887,
+        "num": 1827703,
+        "word": "90秒看北京中轴线对称之美",
+        "onboard_time": 1722084202,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1821975,
+        "num": 1821975,
+        "word": "郭晶晶 跳水裁判长",
+        "onboard_time": 1722080482,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1476954,
+        "num": 1476954,
+        "word": "阿条姐 干饭哥",
+        "onboard_time": 1722067699,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1282817,
+        "num": 1282817,
+        "word": "巴黎奥运参赛夺金概率仅3%",
+        "onboard_time": 1722081743,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1081147,
+        "num": 1081147,
+        "word": "孙一文首轮淘汰",
+        "onboard_time": 1722075803,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 854748,
+        "num": 854748,
+        "word": "王嘉尔ins回怼网友",
+        "onboard_time": 1722081443,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68591,
+        "num": 853459,
+        "word": "贾玲谷爱凌恭喜中国队夺得首金",
+        "onboard_time": 1722081802,
+        "rank": 8,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 110751,
+        "num": 851371,
+        "word": "奥运冠军这条路有多难",
+        "onboard_time": 1722084143,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2734357,
+        "num": 848995,
+        "word": "长沙撞人",
+        "onboard_time": 1722079944,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1192032,
+        "num": 846519,
+        "word": "奥运五环旗挂反了",
+        "onboard_time": 1722056840,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93266,
+        "num": 846054,
+        "word": "美团外卖免单不用猜",
+        "onboard_time": 1722082103,
+        "rank": 12,
+        "category": "互联网,体育"
+      },
+      {
+        "raw_hot": 1469998,
+        "num": 842896,
+        "word": "长沙汽车冲撞行人事件已致8死5伤",
+        "onboard_time": 1722080122,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 27514,
+        "num": 840832,
+        "word": "和杨迪一起看好六上天猫冲奥",
+        "onboard_time": 1722081621,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 840067,
+        "num": 840067,
+        "word": "阿条姐头像 我不行谁行",
+        "onboard_time": 1722077663,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 835505,
+        "num": 835505,
+        "word": "中国队混合团体10米气步枪金牌",
+        "onboard_time": 1722072453,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 820065,
+        "num": 820065,
+        "word": "马杨告况盛",
+        "onboard_time": 1722081682,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 657554,
+        "num": 657554,
+        "word": "全红婵跳水都没我下饺子水花大",
+        "onboard_time": 1722051920,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 533442,
+        "num": 533442,
+        "word": "巴黎开幕式 争议",
+        "onboard_time": 1722055821,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1483537,
+        "num": 517023,
+        "word": "迪玛希回应忘关麦克风",
+        "onboard_time": 1722078144,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 464500,
+        "num": 464500,
+        "word": "法媒把韩国国旗搞错了",
+        "onboard_time": 1722067400,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 461436,
+        "num": 461436,
+        "word": "少一个孙子这个生日都过不成",
+        "onboard_time": 1722078684,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 436956,
+        "num": 436956,
+        "word": "黄雨婷发卡好可爱",
+        "onboard_time": 1722071239,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 350392,
+        "num": 350392,
+        "word": "明日方舟",
+        "onboard_time": 1722080603,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 336896,
+        "num": 336896,
+        "word": "王栎鑫带儿子女儿游乐场玩耍",
+        "onboard_time": 1722081983,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333270,
+        "num": 333270,
+        "word": "外媒称马克龙赌对了",
+        "onboard_time": 1722075984,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 330751,
+        "num": 330751,
+        "word": "黄雨婷还是高中生",
+        "onboard_time": 1722079823,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 319230,
+        "num": 319230,
+        "word": "射击混合团体10米气步枪",
+        "onboard_time": 1722059899,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307043,
+        "num": 307043,
+        "word": "导演夸奖卢昱晓剧组救人",
+        "onboard_time": 1722082642,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300810,
+        "num": 300810,
+        "word": "陈艺文昌雅妮好甜",
+        "onboard_time": 1722078263,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299431,
+        "num": 299431,
+        "word": "黄雨婷盛李豪好稳",
+        "onboard_time": 1722072021,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296931,
+        "num": 296931,
+        "word": "黄雨婷盛李豪登上最高领奖台",
+        "onboard_time": 1722076044,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287538,
+        "num": 287538,
+        "word": "巴黎奥运会男女比例1比1",
+        "onboard_time": 1722058161,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286691,
+        "num": 286691,
+        "word": "潘展乐太牛了",
+        "onboard_time": 1722078563,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286360,
+        "num": 286360,
+        "word": "田亮叶一茜全家去看了开幕式",
+        "onboard_time": 1722077842,
+        "rank": 35,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 285404,
+        "num": 285404,
+        "word": "闪耀暖暖直播",
+        "onboard_time": 1722079703,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 283141,
+        "num": 283141,
+        "word": "浙江省委省政府电贺黄雨婷勇夺首金",
+        "onboard_time": 1722082523,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279314,
+        "num": 279314,
+        "word": "相柳是朕来晚了",
+        "onboard_time": 1722081022,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273909,
+        "num": 273909,
+        "word": "黄雨婷回应夺冠",
+        "onboard_time": 1722083663,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262898,
+        "num": 262898,
+        "word": "中国队排名第一晋级4x100自接力决赛",
+        "onboard_time": 1722082642,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257814,
+        "num": 257814,
+        "word": "想孙杨了",
+        "onboard_time": 1722083364,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255906,
+        "num": 255906,
+        "word": "明日方舟 佩佩",
+        "onboard_time": 1722083722,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 246533,
+        "num": 246533,
+        "word": "覃海洋状态",
+        "onboard_time": 1722076584,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241772,
+        "num": 241772,
+        "word": "巴黎奥运最伟大最震撼的环节",
+        "onboard_time": 1722057140,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238682,
+        "num": 238682,
+        "word": "乒乓球",
+        "onboard_time": 1722084502,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229409,
+        "num": 229409,
+        "word": "巴黎奥运开幕式",
+        "onboard_time": 1722002904,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224455,
+        "num": 224455,
+        "word": "中信建投称不存在协助财务造假",
+        "onboard_time": 1722084683,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224349,
+        "num": 224349,
+        "word": "光靠干饭就拿金牌了",
+        "onboard_time": 1722073589,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222113,
+        "num": 222113,
+        "word": "李冰洁无缘400自决赛",
+        "onboard_time": 1722081682,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视和关心体育事业#"
+    }
+  }
+}
