@@ -1,6 +1,6 @@
 {
   "startTime": 1722097426384,
-  "endTime": 1722116084737,
+  "endTime": 1722118668436,
   "band_list": [
     {
       "raw_hot": 9614106,
@@ -387,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 323130,
+      "num": 323130,
+      "word": "中国游泳队首枚奖牌",
+      "onboard_time": 1722110472,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 314168,
       "num": 314168,
       "word": "虞书欣炒个菜步数第一",
@@ -459,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 264061,
+      "num": 264061,
+      "word": "中国香港代表团首枚金牌",
+      "onboard_time": 1722111012,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 263872,
       "num": 263872,
       "word": "张本智和早田希娜第一题不会做",
@@ -496,14 +512,6 @@
       "word": "陈艺文昌雅妮好甜",
       "onboard_time": 1722078263,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 231422,
-      "num": 231422,
-      "word": "中国香港代表团首枚金牌",
-      "onboard_time": 1722111012,
-      "rank": 20,
       "category": "体育"
     },
     {
@@ -552,14 +560,6 @@
       "word": "奥运会",
       "onboard_time": 1722096092,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 195854,
-      "num": 195854,
-      "word": "中国游泳队首枚奖牌",
-      "onboard_time": 1722110472,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -731,19 +731,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61214,
+      "num": 61214,
+      "word": "韩国代表团首金",
+      "onboard_time": 1722114912,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 58181,
+      "num": 196582,
+      "word": "爸爸要昌雅妮在升国旗时大声唱国歌",
+      "onboard_time": 1722114252,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57302,
+      "num": 57302,
+      "word": "盛李豪说这仅仅只是开始",
+      "onboard_time": 1722116112,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52272,
       "num": 199977,
       "word": "黄雨婷盛李豪的昵称很00后",
       "onboard_time": 1722108672,
       "rank": 13,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 52270,
-      "num": 52270,
-      "word": "韩国代表团首金",
-      "onboard_time": 1722114912,
-      "rank": 39,
       "category": "体育"
     },
     {
@@ -755,18 +771,10 @@
       "category": "体育"
     },
     {
-      "raw_hot": 43659,
+      "raw_hot": 50284,
       "num": 318575,
       "word": "博士生花7万5找人代写论文",
       "onboard_time": 1722110531,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27744,
-      "num": 196582,
-      "word": "爸爸要昌雅妮在升国旗时大声唱国歌",
-      "onboard_time": 1722114252,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -791,6 +799,14 @@
       "num": 315485,
       "word": "珠海教师以裁判身份亮相奥运会",
       "onboard_time": 1722106814,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 14104,
+      "num": 219437,
+      "word": "雨停后的台州为雨婷而沸腾了",
+      "onboard_time": 1722117972,
       "rank": 9,
       "category": "体育"
     }
