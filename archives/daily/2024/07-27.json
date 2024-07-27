@@ -1,6 +1,6 @@
 {
   "startTime": 1722011177149,
-  "endTime": 1722061514601,
+  "endTime": 1722062326356,
   "band_list": [
     {
       "raw_hot": 12261931,
@@ -19,8 +19,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 5731774,
-      "num": 5731774,
+      "raw_hot": 8621713,
+      "num": 8621713,
       "word": "奥运五环旗挂反了",
       "onboard_time": 1722056840,
       "rank": 7,
@@ -99,19 +99,19 @@
       "category": "美食"
     },
     {
+      "raw_hot": 2258786,
+      "num": 2258786,
+      "word": "巴黎开幕式 争议",
+      "onboard_time": 1722055821,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1892402,
       "num": 1892402,
       "word": "中国队拼船",
       "onboard_time": 1722016756,
       "rank": 5,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1835369,
-      "num": 1835369,
-      "word": "巴黎开幕式 争议",
-      "onboard_time": 1722055821,
-      "rank": 4,
       "category": "体育"
     },
     {
@@ -187,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1079987,
+      "num": 1079987,
+      "word": "巴黎奥运会 性别平等",
+      "onboard_time": 1722058161,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1076259,
       "num": 1076259,
       "word": "国际奥委会向韩国道歉",
@@ -251,12 +259,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 891706,
-      "num": 891706,
-      "word": "巴黎奥运会 性别平等",
-      "onboard_time": 1722058161,
-      "rank": 10,
-      "category": "体育"
+      "raw_hot": 902564,
+      "num": 902564,
+      "word": "宋丹丹回应刘星家可有钱了",
+      "onboard_time": 1722060441,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 872790,
@@ -411,14 +419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 571084,
-      "num": 571084,
-      "word": "宋丹丹回应刘星家可有钱了",
-      "onboard_time": 1722060441,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 553686,
       "num": 553686,
       "word": "卢昱晓给工作人员做心肺复苏",
@@ -473,6 +473,14 @@
       "onboard_time": 1721997020,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 519591,
+      "num": 625208,
+      "word": "北京中轴线列入世界遗产",
+      "onboard_time": 1722060978,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 518741,
@@ -611,6 +619,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 418749,
+      "num": 418749,
+      "word": "凡希亚机位",
+      "onboard_time": 1722057860,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 407716,
       "num": 407716,
       "word": "巴黎开幕式 多元化",
@@ -643,8 +659,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 392901,
-      "num": 392901,
+      "raw_hot": 393899,
+      "num": 393899,
       "word": "中国队射击跳水冲击首金",
       "onboard_time": 1722058041,
       "rank": 37,
@@ -659,20 +675,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 380389,
+      "num": 380389,
+      "word": "韩国三大代表之一是防弹少年团",
+      "onboard_time": 1722059119,
+      "rank": 18,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 377304,
       "num": 377304,
       "word": "未央直播",
       "onboard_time": 1722007282,
       "rank": 16,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 375295,
-      "num": 375295,
-      "word": "凡希亚机位",
-      "onboard_time": 1722057860,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 375078,
@@ -720,14 +736,6 @@
       "word": "LadyGaga彩排",
       "onboard_time": 1722015198,
       "rank": 35,
-      "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 341765,
-      "num": 341765,
-      "word": "韩国三大代表之一是防弹少年团",
-      "onboard_time": 1722059119,
-      "rank": 18,
       "category": "艺人,体育"
     },
     {
@@ -811,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 298746,
+      "num": 298746,
+      "word": "樊振东就这么水灵灵地吃上了",
+      "onboard_time": 1722059060,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 298102,
       "num": 298102,
       "word": "难为央视把你们都找出来",
@@ -833,14 +849,6 @@
       "onboard_time": 1722056480,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 289460,
-      "num": 289460,
-      "word": "北京中轴线列入世界遗产",
-      "onboard_time": 1722060978,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 288189,
@@ -904,14 +912,6 @@
       "word": "林依轮举孙颖莎签名手幅打call",
       "onboard_time": 1722043581,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 276752,
-      "num": 276752,
-      "word": "樊振东就这么水灵灵地吃上了",
-      "onboard_time": 1722059060,
-      "rank": 28,
       "category": "体育"
     },
     {
@@ -1259,6 +1259,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 203353,
+      "num": 314600,
+      "word": "唐诡西行是个喜剧吧",
+      "onboard_time": 1722061159,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 203026,
+      "num": 203026,
+      "word": "杨紫古装A感",
+      "onboard_time": 1722061941,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203011,
       "num": 203011,
       "word": "蒙娜丽莎又被偷了",
@@ -1345,6 +1361,14 @@
       "onboard_time": 1722007282,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196093,
+      "num": 196093,
+      "word": "王一博人鱼终审",
+      "onboard_time": 1722061578,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 195887,
@@ -1475,6 +1499,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 188492,
+      "num": 188492,
+      "word": "国色芳华",
+      "onboard_time": 1722061280,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188072,
       "num": 188072,
       "word": "时代少年团hi6大片",
@@ -1515,14 +1547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183602,
-      "num": 183602,
-      "word": "国色芳华",
-      "onboard_time": 1722061280,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 182029,
       "num": 182029,
       "word": "巴黎圣母院 还在修",
@@ -1545,6 +1569,14 @@
       "onboard_time": 1722017237,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181011,
+      "num": 608513,
+      "word": "主播网恋44岁大姐被骗60多万",
+      "onboard_time": 1722060020,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179953,
@@ -1643,6 +1675,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 170812,
+      "num": 170812,
+      "word": "射击混合团体10米气步枪",
+      "onboard_time": 1722059899,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169965,
       "num": 169965,
       "word": "火炬手像偷火炬的",
@@ -1665,14 +1705,6 @@
       "onboard_time": 1722031873,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164289,
-      "num": 314600,
-      "word": "唐诡西行是个喜剧吧",
-      "onboard_time": 1722061159,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 163308,
@@ -1729,6 +1761,22 @@
       "onboard_time": 1722019874,
       "rank": 35,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 157021,
+      "num": 157021,
+      "word": "马龙在巴黎到处被人要合影",
+      "onboard_time": 1722062242,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 156002,
+      "num": 156002,
+      "word": "央视曝光低价代订酒店骗局",
+      "onboard_time": 1722061701,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151573,
@@ -1835,14 +1883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119083,
-      "num": 167040,
-      "word": "射击混合团体10米气步枪",
-      "onboard_time": 1722059899,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 118075,
       "num": 118075,
       "word": "火车进站",
@@ -1913,14 +1953,6 @@
       "onboard_time": 1721997383,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 98133,
-      "num": 608513,
-      "word": "主播网恋44岁大姐被骗60多万",
-      "onboard_time": 1722060020,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 93757,
@@ -2044,7 +2076,7 @@
     },
     {
       "raw_hot": 40265,
-      "num": 532159,
+      "num": 543752,
       "word": "实至名归传奇上场",
       "onboard_time": 1722060201,
       "rank": 12,
@@ -2065,6 +2097,14 @@
       "onboard_time": 1722053420,
       "rank": 9,
       "category": "社会新闻,国内时政"
+    },
+    {
+      "raw_hot": 33909,
+      "num": 163832,
+      "word": "猫猫卡在哪",
+      "onboard_time": 1722062120,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 30232,

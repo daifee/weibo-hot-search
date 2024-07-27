@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1722061514601,
+  "endTime": 1722062326356,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -83,6 +83,14 @@
       "category": "网红,互联网"
     },
     {
+      "raw_hot": 8621713,
+      "num": 8621713,
+      "word": "奥运五环旗挂反了",
+      "onboard_time": 1722056840,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 7379450,
       "num": 7379450,
       "word": "香缇莫淘汰",
@@ -97,14 +105,6 @@
       "onboard_time": 1721585473,
       "rank": 1,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 5731774,
-      "num": 5731774,
-      "word": "奥运五环旗挂反了",
-      "onboard_time": 1722056840,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 4749535,
@@ -371,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2258786,
+      "num": 2258786,
+      "word": "巴黎开幕式 争议",
+      "onboard_time": 1722055821,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2244987,
       "num": 2244987,
       "word": "吴昕劝被家暴的旺旺妈妈再婚",
@@ -601,14 +609,6 @@
       "onboard_time": 1721870120,
       "rank": 36,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1835369,
-      "num": 1835369,
-      "word": "巴黎开幕式 争议",
-      "onboard_time": 1722055821,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 1833222,
@@ -1635,6 +1635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1079987,
+      "num": 1079987,
+      "word": "巴黎奥运会 性别平等",
+      "onboard_time": 1722058161,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1076259,
       "num": 1076259,
       "word": "国际奥委会向韩国道歉",
@@ -2195,6 +2203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 902564,
+      "num": 902564,
+      "word": "宋丹丹回应刘星家可有钱了",
+      "onboard_time": 1722060441,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 901870,
       "num": 901870,
       "word": "田曦薇财阀千金",
@@ -2209,14 +2225,6 @@
       "onboard_time": 1721615540,
       "rank": 9,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 891706,
-      "num": 891706,
-      "word": "巴黎奥运会 性别平等",
-      "onboard_time": 1722058161,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 891665,
@@ -3923,14 +3931,6 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 571084,
-      "num": 571084,
-      "word": "宋丹丹回应刘星家可有钱了",
-      "onboard_time": 1722060441,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 569958,
       "num": 569958,
       "word": "全红婵背包上挂了10KG动物园",
@@ -4384,6 +4384,14 @@
       "word": "司机高速发现后备箱人脸后报警",
       "onboard_time": 1721527398,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 519591,
+      "num": 625208,
+      "word": "北京中轴线列入世界遗产",
+      "onboard_time": 1722060978,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -5459,6 +5467,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 418749,
+      "num": 418749,
+      "word": "凡希亚机位",
+      "onboard_time": 1722057860,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 418735,
       "num": 418735,
       "word": "我国唯一一艘国防动员舰邓世昌舰",
@@ -5723,20 +5739,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 393899,
+      "num": 393899,
+      "word": "中国队射击跳水冲击首金",
+      "onboard_time": 1722058041,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 393218,
       "num": 346237,
       "word": "阳虚还是阴虚看出汗就能知道",
       "onboard_time": 1721569461,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 392901,
-      "num": 392901,
-      "word": "中国队射击跳水冲击首金",
-      "onboard_time": 1722058041,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 392115,
@@ -5851,6 +5867,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 380389,
+      "num": 380389,
+      "word": "韩国三大代表之一是防弹少年团",
+      "onboard_time": 1722059119,
+      "rank": 18,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 377759,
       "num": 377759,
       "word": "酱汁鑫鑫豆豆",
@@ -5889,14 +5913,6 @@
       "onboard_time": 1721915000,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 375295,
-      "num": 375295,
-      "word": "凡希亚机位",
-      "onboard_time": 1722057860,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 375078,
@@ -6449,14 +6465,6 @@
       "onboard_time": 1721464159,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 341765,
-      "num": 341765,
-      "word": "韩国三大代表之一是防弹少年团",
-      "onboard_time": 1722059119,
-      "rank": 18,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 340901,
@@ -7187,6 +7195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 298746,
+      "num": 298746,
+      "word": "樊振东就这么水灵灵地吃上了",
+      "onboard_time": 1722059060,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 298648,
       "num": 298648,
       "word": "陈妍希周柯宇演情侣cp感",
@@ -7507,14 +7523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 289460,
-      "num": 289460,
-      "word": "北京中轴线列入世界遗产",
-      "onboard_time": 1722060978,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 288763,
       "num": 288763,
       "word": "哈里斯眼中的特朗普",
@@ -7744,14 +7752,6 @@
       "word": "林依轮举孙颖莎签名手幅打call",
       "onboard_time": 1722043581,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 276752,
-      "num": 276752,
-      "word": "樊振东就这么水灵灵地吃上了",
-      "onboard_time": 1722059060,
-      "rank": 28,
       "category": "体育"
     },
     {
@@ -10787,6 +10787,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 203353,
+      "num": 314600,
+      "word": "唐诡西行是个喜剧吧",
+      "onboard_time": 1722061159,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203184,
       "num": 203184,
       "word": "TMEA音乐节",
@@ -10808,6 +10816,14 @@
       "word": "邓为打戏",
       "onboard_time": 1721809759,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 203026,
+      "num": 203026,
+      "word": "杨紫古装A感",
+      "onboard_time": 1722061941,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -11561,6 +11577,14 @@
       "onboard_time": 1721708542,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 196093,
+      "num": 196093,
+      "word": "王一博人鱼终审",
+      "onboard_time": 1722061578,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 195887,
@@ -12979,6 +13003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181011,
+      "num": 608513,
+      "word": "主播网恋44岁大姐被骗60多万",
+      "onboard_time": 1722060020,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180917,
       "num": 180917,
       "word": "郭晶晶以裁判身份出发巴黎",
@@ -13891,6 +13923,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 170812,
+      "num": 170812,
+      "word": "射击混合团体10米气步枪",
+      "onboard_time": 1722059899,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170734,
       "num": 290853,
       "word": "盗墓笔记",
@@ -14425,14 +14465,6 @@
       "onboard_time": 1721664141,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 164289,
-      "num": 314600,
-      "word": "唐诡西行是个喜剧吧",
-      "onboard_time": 1722061159,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 164279,
@@ -15027,6 +15059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 157021,
+      "num": 157021,
+      "word": "马龙在巴黎到处被人要合影",
+      "onboard_time": 1722062242,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156691,
       "num": 156691,
       "word": "NewJeans原出道组成员",
@@ -15081,6 +15121,14 @@
       "onboard_time": 1721832081,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 156002,
+      "num": 156002,
+      "word": "央视曝光低价代订酒店骗局",
+      "onboard_time": 1722061701,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155987,
@@ -16819,14 +16867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119083,
-      "num": 167040,
-      "word": "射击混合团体10米气步枪",
-      "onboard_time": 1722059899,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 118938,
       "num": 118938,
       "word": "檀健次 电影",
@@ -17353,14 +17393,6 @@
       "onboard_time": 1721482640,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 98133,
-      "num": 608513,
-      "word": "主播网恋44岁大姐被骗60多万",
-      "onboard_time": 1722060020,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 97692,
@@ -19020,7 +19052,7 @@
     },
     {
       "raw_hot": 40265,
-      "num": 532159,
+      "num": 543752,
       "word": "实至名归传奇上场",
       "onboard_time": 1722060201,
       "rank": 12,
@@ -19241,6 +19273,14 @@
       "onboard_time": 1721629820,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 33909,
+      "num": 163832,
+      "word": "猫猫卡在哪",
+      "onboard_time": 1722062120,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 33830,
