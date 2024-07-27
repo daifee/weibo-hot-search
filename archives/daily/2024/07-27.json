@@ -1,6 +1,6 @@
 {
   "startTime": 1722011177149,
-  "endTime": 1722084719277,
+  "endTime": 1722086401918,
   "band_list": [
     {
       "raw_hot": 16577668,
@@ -203,19 +203,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1903807,
+      "num": 1903807,
+      "word": "郭晶晶 跳水裁判长",
+      "onboard_time": 1722080482,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1892402,
       "num": 1892402,
       "word": "中国队拼船",
       "onboard_time": 1722016756,
       "rank": 5,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1830828,
-      "num": 1830828,
-      "word": "郭晶晶 跳水裁判长",
-      "onboard_time": 1722080482,
-      "rank": 3,
       "category": "体育"
     },
     {
@@ -291,6 +291,14 @@
       "category": "体育,游戏"
     },
     {
+      "raw_hot": 1393487,
+      "num": 1393487,
+      "word": "巴黎奥运参赛夺金概率仅3%",
+      "onboard_time": 1722081743,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1392098,
       "num": 1392098,
       "word": "杨倩解说",
@@ -304,14 +312,6 @@
       "word": "覃海洋状态",
       "onboard_time": 1722076584,
       "rank": 5,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1282817,
-      "num": 1282817,
-      "word": "巴黎奥运参赛夺金概率仅3%",
-      "onboard_time": 1722081743,
-      "rank": 9,
       "category": "体育"
     },
     {
@@ -459,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 868352,
+      "num": 868352,
+      "word": "王嘉尔ins回怼网友",
+      "onboard_time": 1722081443,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 867792,
       "num": 867792,
       "word": "马杨告况盛",
@@ -481,14 +489,6 @@
       "onboard_time": 1722065119,
       "rank": 20,
       "category": "互联网,网红"
-    },
-    {
-      "raw_hot": 854748,
-      "num": 854748,
-      "word": "王嘉尔ins回怼网友",
-      "onboard_time": 1722081443,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 843166,
@@ -723,6 +723,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 591028,
+      "num": 461436,
+      "word": "少一个孙子这个生日都过不成",
+      "onboard_time": 1722078684,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 589647,
       "num": 625208,
       "word": "北京中轴线列入世界遗产",
@@ -923,14 +931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 461436,
-      "num": 461436,
-      "word": "少一个孙子这个生日都过不成",
-      "onboard_time": 1722078684,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 458165,
       "num": 458165,
       "word": "歌剧魅影",
@@ -1017,6 +1017,14 @@
       "onboard_time": 1722073228,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 416711,
+      "num": 753248,
+      "word": "中信建投称不存在协助财务造假",
+      "onboard_time": 1722084683,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 415563,
@@ -1139,6 +1147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 363539,
+      "num": 363539,
+      "word": "王栎鑫带儿子女儿游乐场玩耍",
+      "onboard_time": 1722081983,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 354479,
       "num": 354479,
       "word": "纪念抗美援朝战争胜利71周年",
@@ -1201,14 +1217,6 @@
       "onboard_time": 1722015198,
       "rank": 35,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 336896,
-      "num": 336896,
-      "word": "王栎鑫带儿子女儿游乐场玩耍",
-      "onboard_time": 1722081983,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 336732,
@@ -1299,6 +1307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 311952,
+      "num": 311952,
+      "word": "孙颖莎说和王楚钦搭档是缘分",
+      "onboard_time": 1722086003,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 310563,
       "num": 310563,
       "word": "莎头首秀",
@@ -1323,12 +1339,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 307295,
+      "num": 307295,
+      "word": "黄雨婷回应夺冠",
+      "onboard_time": 1722083663,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 304383,
       "num": 304383,
       "word": "奥运会直播",
       "onboard_time": 1722071661,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 303635,
+      "num": 303635,
+      "word": "原来黄雨婷也是禾伙人",
+      "onboard_time": 1722085884,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 303200,
+      "num": 303200,
+      "word": "相柳是朕来晚了",
+      "onboard_time": 1722081022,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 300627,
@@ -1419,6 +1459,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 284575,
+      "num": 284575,
+      "word": "浙江省委省政府电贺黄雨婷勇夺首金",
+      "onboard_time": 1722082523,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 284558,
       "num": 284558,
       "word": "那英曾与黄宣交换出场顺序",
@@ -1427,12 +1475,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 283141,
-      "num": 283141,
-      "word": "浙江省委省政府电贺黄雨婷勇夺首金",
-      "onboard_time": 1722082523,
-      "rank": 37,
-      "category": "体育"
+      "raw_hot": 282014,
+      "num": 282014,
+      "word": "唐朝诡事录",
+      "onboard_time": 1722084442,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 281492,
@@ -1475,19 +1523,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 279314,
-      "num": 279314,
-      "word": "相柳是朕来晚了",
-      "onboard_time": 1722081022,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 278747,
       "num": 278747,
       "word": "微博实时 开幕式弹幕",
       "onboard_time": 1722020294,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 278676,
+      "num": 278676,
+      "word": "孙一文回应失利",
+      "onboard_time": 1722085282,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -1513,14 +1561,6 @@
       "onboard_time": 1722068118,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 273909,
-      "num": 273909,
-      "word": "黄雨婷回应夺冠",
-      "onboard_time": 1722083663,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 273525,
@@ -1601,6 +1641,14 @@
       "onboard_time": 1722083722,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 263294,
+      "num": 263294,
+      "word": "乒乓球",
+      "onboard_time": 1722084502,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 261921,
@@ -1763,14 +1811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 238682,
-      "num": 238682,
-      "word": "乒乓球",
-      "onboard_time": 1722084502,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 236707,
       "num": 236707,
       "word": "盛李豪气步枪上贴着亚运会吉祥物",
@@ -1891,14 +1931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 224455,
-      "num": 224455,
-      "word": "中信建投称不存在协助财务造假",
-      "onboard_time": 1722084683,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 224096,
       "num": 224096,
       "word": "凡晨组合巴黎奥运首胜",
@@ -1987,6 +2019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212423,
+      "num": 212423,
+      "word": "牛骏峰 见证金牌的诞生真的太激动了",
+      "onboard_time": 1722086244,
+      "rank": 49,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 211801,
       "num": 211801,
       "word": "詹姆斯世界名画",
@@ -2048,6 +2088,14 @@
       "word": "乒乓球队站第一排",
       "onboard_time": 1722013637,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 205705,
+      "num": 214741,
+      "word": "干饭哥夺冠后最想吃红烧肉",
+      "onboard_time": 1722084981,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -2699,6 +2747,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 153596,
+      "num": 874179,
+      "word": "美团外卖免单不用猜",
+      "onboard_time": 1722082103,
+      "rank": 12,
+      "category": "互联网,体育"
+    },
+    {
       "raw_hot": 151573,
       "num": 151573,
       "word": "巴勒斯坦代表团",
@@ -2777,6 +2833,14 @@
       "onboard_time": 1722021553,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128558,
+      "num": 926078,
+      "word": "贾玲谷爱凌恭喜中国队夺得首金",
+      "onboard_time": 1722081802,
+      "rank": 8,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 123902,
@@ -2915,14 +2979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 93266,
-      "num": 874179,
-      "word": "美团外卖免单不用猜",
-      "onboard_time": 1722082103,
-      "rank": 12,
-      "category": "互联网,体育"
-    },
-    {
       "raw_hot": 91966,
       "num": 514070,
       "word": "初二男生保送清华大学本硕博连读",
@@ -2953,6 +3009,14 @@
       "onboard_time": 1722054142,
       "rank": 8,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 86331,
+      "num": 1827703,
+      "word": "90秒看北京中轴线对称之美",
+      "onboard_time": 1722084202,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85058,
@@ -3003,14 +3067,6 @@
       "category": "美食,体育"
     },
     {
-      "raw_hot": 68591,
-      "num": 926078,
-      "word": "贾玲谷爱凌恭喜中国队夺得首金",
-      "onboard_time": 1722081802,
-      "rank": 8,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 66797,
       "num": 514864,
       "word": "博物馆非馆方讲解2小时要价2680元",
@@ -3025,6 +3081,14 @@
       "onboard_time": 1722078923,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62630,
+      "num": 747072,
+      "word": "中国队首金升国旗奏国歌现场",
+      "onboard_time": 1722085583,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 59458,
@@ -3049,6 +3113,14 @@
       "onboard_time": 1722046039,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 51268,
+      "num": 329488,
+      "word": "LV老花托盘",
+      "onboard_time": 1722085522,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 51232,
@@ -3187,14 +3259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23887,
-      "num": 1827703,
-      "word": "90秒看北京中轴线对称之美",
-      "onboard_time": 1722084202,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 22913,
       "num": 1169874,
       "word": "潮州街道水浸水位高至车顶",
@@ -3260,6 +3324,9 @@
     },
     {
       "word": "#读懂全会决定中的这些名词#"
+    },
+    {
+      "word": "#跟着总书记感悟体育精神#"
     }
   ]
 }
