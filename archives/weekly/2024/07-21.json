@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1722062326356,
+  "endTime": 1722064750532,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 9582613,
+      "num": 8621713,
+      "word": "奥运五环旗挂反了",
+      "onboard_time": 1722056840,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 8956068,
       "num": 8956068,
       "word": "巴黎奥运开幕式",
@@ -81,14 +89,6 @@
       "onboard_time": 1721902699,
       "rank": 1,
       "category": "网红,互联网"
-    },
-    {
-      "raw_hot": 8621713,
-      "num": 8621713,
-      "word": "奥运五环旗挂反了",
-      "onboard_time": 1722056840,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 7379450,
@@ -1307,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1241939,
+      "num": 1241939,
+      "word": "宋丹丹回应刘星家可有钱了",
+      "onboard_time": 1722060441,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1241703,
       "num": 804297,
       "word": "沈腾老婆胖了好多",
@@ -1555,6 +1563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1107725,
+      "num": 1079987,
+      "word": "巴黎奥运会 性别平等",
+      "onboard_time": 1722058161,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1106067,
       "num": 565114,
       "word": "D社再曝闵熙珍聊天记录",
@@ -1633,14 +1649,6 @@
       "onboard_time": 1721726481,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1079987,
-      "num": 1079987,
-      "word": "巴黎奥运会 性别平等",
-      "onboard_time": 1722058161,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 1076259,
@@ -2201,14 +2209,6 @@
       "onboard_time": 1721873840,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 902564,
-      "num": 902564,
-      "word": "宋丹丹回应刘星家可有钱了",
-      "onboard_time": 1722060441,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 901870,
@@ -3411,6 +3411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 647653,
+      "num": 508030,
+      "word": "何猷君奚梦瑶拥吻照",
+      "onboard_time": 1722062420,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 647278,
       "num": 647278,
       "word": "台风格美将致10余省强降雨",
@@ -3809,6 +3817,14 @@
       "onboard_time": 1721983040,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 589647,
+      "num": 625208,
+      "word": "北京中轴线列入世界遗产",
+      "onboard_time": 1722060978,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 587423,
@@ -4387,14 +4403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 519591,
-      "num": 625208,
-      "word": "北京中轴线列入世界遗产",
-      "onboard_time": 1722060978,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 517431,
       "num": 390774,
       "word": "苗苗说没想到郑恺会这么靠谱",
@@ -4528,6 +4536,14 @@
       "word": "巴黎奥运开幕式 好癫好爱",
       "onboard_time": 1722025691,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 502917,
+      "num": 502917,
+      "word": "奥运会羽毛球",
+      "onboard_time": 1722063741,
+      "rank": 13,
       "category": "体育"
     },
     {
@@ -4849,6 +4865,14 @@
       "onboard_time": 1721720180,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 469520,
+      "num": 469520,
+      "word": "香缇莫回应被淘汰",
+      "onboard_time": 1722063260,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 468200,
@@ -5691,6 +5715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 399320,
+      "num": 399320,
+      "word": "何冰娇vs法蒂玛",
+      "onboard_time": 1722064040,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 398581,
       "num": 398581,
       "word": "台风格美",
@@ -6145,6 +6177,14 @@
       "onboard_time": 1721914220,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 358877,
+      "num": 358877,
+      "word": "东航回应全机乘客陪等外国人登机",
+      "onboard_time": 1722059422,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 357961,
@@ -6995,6 +7035,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 309019,
+      "num": 309019,
+      "word": "樊振东就这么水灵灵地吃上了",
+      "onboard_time": 1722059060,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 308897,
       "num": 308897,
       "word": "异人之下剧情",
@@ -7192,14 +7240,6 @@
       "word": "奥运会",
       "onboard_time": 1721877739,
       "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 298746,
-      "num": 298746,
-      "word": "樊振东就这么水灵灵地吃上了",
-      "onboard_time": 1722059060,
-      "rank": 28,
       "category": "体育"
     },
     {
@@ -7595,6 +7635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 284558,
+      "num": 284558,
+      "word": "那英曾与黄宣交换出场顺序",
+      "onboard_time": 1722063200,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284436,
       "num": 284436,
       "word": "唐尚珺回应被信息工程录取",
@@ -7809,6 +7857,14 @@
       "onboard_time": 1721729961,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 273091,
+      "num": 273091,
+      "word": "杨紫沈梦辰合照",
+      "onboard_time": 1722063859,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 272987,
@@ -8355,6 +8411,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 252545,
+      "num": 252545,
+      "word": "射击混合团体10米气步枪",
+      "onboard_time": 1722059899,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 252175,
       "num": 252175,
       "word": "张若昀 人尴尬的时候会假装很忙",
@@ -8803,6 +8867,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 238992,
+      "num": 238992,
+      "word": "冯雨 奥运会开幕式的另一位旗手",
+      "onboard_time": 1722061820,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 238712,
       "num": 238712,
       "word": "娜扎张云龙CP",
@@ -8905,6 +8977,14 @@
       "onboard_time": 1721651603,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 235733,
+      "num": 235733,
+      "word": "马龙在巴黎到处被人要合影",
+      "onboard_time": 1722062242,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 235530,
@@ -9169,6 +9249,14 @@
       "onboard_time": 1721990480,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229827,
+      "num": 229827,
+      "word": "易烊千玺单依纯唱尔滨的雪",
+      "onboard_time": 1722063200,
+      "rank": 35,
+      "category": "演出,体育"
     },
     {
       "raw_hot": 229558,
@@ -10779,6 +10867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203421,
+      "num": 203421,
+      "word": "梁靖崑视角的开幕式",
+      "onboard_time": 1722063679,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203393,
       "num": 203393,
       "word": "肖战给奥运健儿打call",
@@ -11193,6 +11289,14 @@
       "onboard_time": 1722010879,
       "rank": 41,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 199457,
+      "num": 199457,
+      "word": "冯彦哲黄东萍vs邱恺翔珍妮盖",
+      "onboard_time": 1722063741,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 199323,
@@ -12915,6 +13019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182298,
+      "num": 182298,
+      "word": "浙B开车去巴黎",
+      "onboard_time": 1722062960,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182095,
       "num": 182095,
       "word": "中餐厅全员征集奥运菜菜名",
@@ -13923,14 +14035,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 170812,
-      "num": 170812,
-      "word": "射击混合团体10米气步枪",
-      "onboard_time": 1722059899,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 170734,
       "num": 290853,
       "word": "盗墓笔记",
@@ -14715,6 +14819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161740,
+      "num": 161740,
+      "word": "央视曝光低价代订酒店骗局",
+      "onboard_time": 1722061701,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161709,
       "num": 161709,
       "word": "苹果回应iPhone相册照片消失",
@@ -15059,14 +15171,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 157021,
-      "num": 157021,
-      "word": "马龙在巴黎到处被人要合影",
-      "onboard_time": 1722062242,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 156691,
       "num": 156691,
       "word": "NewJeans原出道组成员",
@@ -15121,14 +15225,6 @@
       "onboard_time": 1721832081,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 156002,
-      "num": 156002,
-      "word": "央视曝光低价代订酒店骗局",
-      "onboard_time": 1722061701,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155987,
@@ -19203,6 +19299,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 37293,
+      "num": 514864,
+      "word": "博物馆非馆方讲解2小时要价2680元",
+      "onboard_time": 1722063620,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37139,
       "num": 46023,
       "word": "檀健次直播",
@@ -19276,7 +19380,7 @@
     },
     {
       "raw_hot": 33909,
-      "num": 163832,
+      "num": 215323,
       "word": "猫猫卡在哪",
       "onboard_time": 1722062120,
       "rank": 45,

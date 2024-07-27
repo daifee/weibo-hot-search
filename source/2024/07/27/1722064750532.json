@@ -1,0 +1,410 @@
+{
+  "runTime": 1722064750532,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1379329,
+        "num": 1379329,
+        "word": "巴黎开幕式 争议",
+        "onboard_time": 1722055821,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1310980,
+        "num": 1310980,
+        "word": "巴黎开幕式 真的牛",
+        "onboard_time": 1722022813,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199585,
+        "num": 1266311,
+        "word": "巴黎今天将决出14枚奥运金牌",
+        "onboard_time": 1722042201,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1241939,
+        "num": 1241939,
+        "word": "宋丹丹回应刘星家可有钱了",
+        "onboard_time": 1722060441,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 868951,
+        "num": 868951,
+        "word": "全红婵跳水都没我下饺子水花大",
+        "onboard_time": 1722051920,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 599451,
+        "num": 599451,
+        "word": "国际奥委会向韩国道歉",
+        "onboard_time": 1722051500,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 589647,
+        "num": 589647,
+        "word": "北京中轴线列入世界遗产",
+        "onboard_time": 1722060978,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522794,
+        "num": 522794,
+        "word": "贾玲 哪有那么多闪电",
+        "onboard_time": 1722056660,
+        "rank": 7,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 9582613,
+        "num": 521175,
+        "word": "奥运五环旗挂反了",
+        "onboard_time": 1722056840,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37293,
+        "num": 514864,
+        "word": "博物馆非馆方讲解2小时要价2680元",
+        "onboard_time": 1722063620,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1107725,
+        "num": 513586,
+        "word": "巴黎奥运会 性别平等",
+        "onboard_time": 1722058161,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 647653,
+        "num": 508030,
+        "word": "何猷君奚梦瑶拥吻照",
+        "onboard_time": 1722062420,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9785,
+        "num": 505585,
+        "word": "实至名归传奇上场",
+        "onboard_time": 1722060201,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 502917,
+        "num": 502917,
+        "word": "奥运会羽毛球",
+        "onboard_time": 1722063741,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 469520,
+        "num": 469520,
+        "word": "香缇莫回应被淘汰",
+        "onboard_time": 1722063260,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 464143,
+        "num": 464143,
+        "word": "韩国 占C",
+        "onboard_time": 1722020534,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 399320,
+        "num": 399320,
+        "word": "何冰娇vs法蒂玛",
+        "onboard_time": 1722064040,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 358877,
+        "num": 358877,
+        "word": "东航回应全机乘客陪等外国人登机",
+        "onboard_time": 1722059422,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356924,
+        "num": 356924,
+        "word": "韩国三大代表之一是防弹少年团",
+        "onboard_time": 1722059119,
+        "rank": 18,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 313217,
+        "num": 313217,
+        "word": "中国队射击跳水冲击首金",
+        "onboard_time": 1722058041,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 410431,
+        "num": 311537,
+        "word": "巴黎奥运 女性的里程碑",
+        "onboard_time": 1722057140,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 393933,
+        "num": 311199,
+        "word": "一个27岁的研究生轻轻的碎了",
+        "onboard_time": 1722054742,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 309019,
+        "num": 309019,
+        "word": "樊振东就这么水灵灵地吃上了",
+        "onboard_time": 1722059060,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304100,
+        "num": 304100,
+        "word": "巴黎奥运 杰出女性",
+        "onboard_time": 1722020895,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 297314,
+        "num": 297314,
+        "word": "巴黎奥运开幕式",
+        "onboard_time": 1722002904,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291197,
+        "num": 291197,
+        "word": "凡希亚机位",
+        "onboard_time": 1722057860,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284558,
+        "num": 284558,
+        "word": "那英曾与黄宣交换出场顺序",
+        "onboard_time": 1722063200,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273091,
+        "num": 273091,
+        "word": "杨紫沈梦辰合照",
+        "onboard_time": 1722063859,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269462,
+        "num": 269462,
+        "word": "巴黎开幕式 多元化",
+        "onboard_time": 1722056961,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253039,
+        "num": 253039,
+        "word": "巴黎奥运正式开幕",
+        "onboard_time": 1722028331,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7985,
+        "num": 252570,
+        "word": "伊利首日双金看点",
+        "onboard_time": 1722060201,
+        "rank": 30,
+        "category": "体育,美食"
+      },
+      {
+        "raw_hot": 252545,
+        "num": 252545,
+        "word": "射击混合团体10米气步枪",
+        "onboard_time": 1722059899,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244667,
+        "num": 244667,
+        "word": "那英说我敢接受冠军负评",
+        "onboard_time": 1722052459,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238992,
+        "num": 238992,
+        "word": "冯雨 奥运会开幕式的另一位旗手",
+        "onboard_time": 1722061820,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235733,
+        "num": 235733,
+        "word": "马龙在巴黎到处被人要合影",
+        "onboard_time": 1722062242,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229827,
+        "num": 229827,
+        "word": "易烊千玺单依纯唱尔滨的雪",
+        "onboard_time": 1722063200,
+        "rank": 35,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 218865,
+        "num": 218865,
+        "word": "韩国网友要求法国道歉",
+        "onboard_time": 1722049040,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28357,
+        "num": 215323,
+        "word": "猫猫卡在哪",
+        "onboard_time": 1722062120,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212479,
+        "num": 212479,
+        "word": "女子提前3分钟敲门办事惹怒交警",
+        "onboard_time": 1722054919,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203421,
+        "num": 203421,
+        "word": "梁靖崑视角的开幕式",
+        "onboard_time": 1722063679,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202421,
+        "num": 202421,
+        "word": "难为央视把你们都找出来",
+        "onboard_time": 1722054981,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199457,
+        "num": 199457,
+        "word": "冯彦哲黄东萍vs邱恺翔珍妮盖",
+        "onboard_time": 1722063741,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188164,
+        "num": 188164,
+        "word": "蒙娜丽莎被小黄人偷走了",
+        "onboard_time": 1722020475,
+        "rank": 42,
+        "category": "体育,电影"
+      },
+      {
+        "raw_hot": 182298,
+        "num": 182298,
+        "word": "浙B开车去巴黎",
+        "onboard_time": 1722062960,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178959,
+        "num": 178959,
+        "word": "姆巴佩国籍法国祖籍广西",
+        "onboard_time": 1722056242,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171627,
+        "num": 171627,
+        "word": "仙侠剧男女主终于都长嘴了",
+        "onboard_time": 1722054801,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163128,
+        "num": 163128,
+        "word": "张若昀 人尴尬的时候会假装很忙",
+        "onboard_time": 1722059300,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161740,
+        "num": 161740,
+        "word": "央视曝光低价代订酒店骗局",
+        "onboard_time": 1722061701,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157532,
+        "num": 157532,
+        "word": "贾乃亮奥运开幕式被淋透",
+        "onboard_time": 1722051020,
+        "rank": 48,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 151350,
+        "num": 151350,
+        "word": "董宇辉巴黎奥运会被偶遇",
+        "onboard_time": 1722059600,
+        "rank": 49,
+        "category": "互联网,体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂全会决定中的这些名词#"
+    }
+  }
+}
