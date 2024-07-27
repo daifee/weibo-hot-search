@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1722036892493,
+  "endTime": 1722043335786,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -33,6 +33,14 @@
       "onboard_time": 1721999423,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 12261931,
+      "num": 12261931,
+      "word": "巴黎开幕式 真的牛",
+      "onboard_time": 1722022813,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 12145699,
@@ -105,14 +113,6 @@
       "onboard_time": 1721641343,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 4609322,
-      "num": 4609322,
-      "word": "巴黎开幕式 真的牛",
-      "onboard_time": 1722022813,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 4230542,
@@ -867,6 +867,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1533335,
+      "num": 1254680,
+      "word": "韩国 占C",
+      "onboard_time": 1722020534,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1530617,
       "num": 1246949,
       "word": "歌王之战帮唱阵容官宣",
@@ -1216,14 +1224,6 @@
       "word": "樊振东 死亡下半区",
       "onboard_time": 1721891420,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1254680,
-      "num": 1254680,
-      "word": "韩国 占C",
-      "onboard_time": 1722020534,
-      "rank": 16,
       "category": "体育"
     },
     {
@@ -1587,6 +1587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1075145,
+      "num": 1075145,
+      "word": "国际兴奋剂检测组织回应中国游泳队药检争议",
+      "onboard_time": 1722035898,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1073823,
       "num": 1073823,
       "word": "巴黎奥运审美吐槽不了一点",
@@ -1761,6 +1769,14 @@
       "onboard_time": 1721914280,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1013273,
+      "num": 1013273,
+      "word": "歌手回应质疑",
+      "onboard_time": 1722036979,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1011161,
@@ -2091,6 +2107,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 902972,
+      "num": 902972,
+      "word": "马龙奥运神图",
+      "onboard_time": 1722018136,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 902679,
       "num": 902679,
       "word": "张家齐谈遗憾无缘巴黎奥运会",
@@ -2105,14 +2129,6 @@
       "onboard_time": 1721660305,
       "rank": 6,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 896687,
-      "num": 896687,
-      "word": "马龙奥运神图",
-      "onboard_time": 1722018136,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 891991,
@@ -3243,6 +3259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 655609,
+      "num": 655609,
+      "word": "巴黎奥运 杰出女性",
+      "onboard_time": 1722020895,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 654944,
       "num": 654944,
       "word": "9年医学生查出桥本甲状腺炎被拒录",
@@ -3353,6 +3377,14 @@
       "onboard_time": 1721905224,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 628932,
+      "num": 628932,
+      "word": "那英得知自己是歌王那一刻表情",
+      "onboard_time": 1722039321,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 628672,
@@ -4347,6 +4379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 503785,
+      "num": 503785,
+      "word": "巴黎奥运开幕式 好癫好爱",
+      "onboard_time": 1722025691,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 501476,
       "num": 501476,
       "word": "唐诡2仵作之死最惨的是谁",
@@ -4899,6 +4939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 450687,
+      "num": 450687,
+      "word": "罗拉 但我真的已经累了",
+      "onboard_time": 1722042140,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
       "raw_hot": 450436,
       "num": 356860,
       "word": "阚清子晒未P原图",
@@ -5115,6 +5163,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 428681,
+      "num": 428681,
+      "word": "巴黎奥运正式开幕",
+      "onboard_time": 1722028331,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 428285,
       "num": 428285,
       "word": "德罗巴为贾玲撑伞",
@@ -5219,6 +5275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 419047,
+      "num": 419047,
+      "word": "外国人没上机全机乘客等3.5小时",
+      "onboard_time": 1722040582,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 418874,
       "num": 338728,
       "word": "气血不足就要多出去玩",
@@ -5249,6 +5313,14 @@
       "onboard_time": 1721976919,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 415585,
+      "num": 415585,
+      "word": "蒲熠星 难听",
+      "onboard_time": 1722038600,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 414540,
@@ -5467,20 +5539,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 396125,
-      "num": 396125,
-      "word": "巴黎奥运正式开幕",
-      "onboard_time": 1722028331,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 395806,
       "num": 395806,
       "word": "newjeans将进入休息期",
       "onboard_time": 1721723481,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 395546,
+      "num": 395546,
+      "word": "全红婵正经历发育期考验",
+      "onboard_time": 1722039741,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 393218,
@@ -6393,14 +6465,6 @@
       "onboard_time": 1721740160,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 325576,
-      "num": 325576,
-      "word": "国际兴奋剂检测组织回应中国游泳队药检争议",
-      "onboard_time": 1722035898,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 324957,
@@ -7971,6 +8035,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 251161,
+      "num": 251161,
+      "word": "全红婵妈妈把女儿得分记到小数点后",
+      "onboard_time": 1722039141,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 250818,
       "num": 250818,
       "word": "月亮",
@@ -8539,6 +8611,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 234284,
+      "num": 234284,
+      "word": "汪顺把床带去了巴黎奥运村",
+      "onboard_time": 1722038334,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234240,
       "num": 234240,
       "word": "广州82岁老人8个月被迫转院16次",
@@ -8891,6 +8971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225712,
+      "num": 225712,
+      "word": "巴黎奥运开幕式回放",
+      "onboard_time": 1722041541,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225686,
       "num": 225686,
       "word": "TheShy说Wei不如xun",
@@ -9227,6 +9315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218238,
+      "num": 218238,
+      "word": "雨淋钢琴 火烧钢琴",
+      "onboard_time": 1722025932,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217973,
       "num": 655875,
       "word": "讨好二次元是老商场最后的自救吗",
@@ -9281,6 +9377,14 @@
       "onboard_time": 1721720659,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 217252,
+      "num": 217252,
+      "word": "凡希亚向汪苏泷邀歌",
+      "onboard_time": 1722042800,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 217195,
@@ -10051,6 +10155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 205629,
+      "num": 205629,
+      "word": "终于等到詹姆斯",
+      "onboard_time": 1722025332,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205267,
       "num": 205267,
       "word": "向阳花",
@@ -10292,7 +10404,7 @@
     },
     {
       "raw_hot": 202395,
-      "num": 202395,
+      "num": 207586,
       "word": "巴黎奥运会",
       "onboard_time": 1721884699,
       "rank": 40,
@@ -10883,6 +10995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197022,
+      "num": 197022,
+      "word": "马克龙说这就是法国",
+      "onboard_time": 1722041241,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196945,
       "num": 211830,
       "word": "巴黎奥运助威曲龙腾",
@@ -10945,6 +11065,14 @@
       "onboard_time": 1721708542,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 195887,
+      "num": 195887,
+      "word": "巴黎开幕式 艺术多元性",
+      "onboard_time": 1722042320,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 195840,
@@ -11737,14 +11865,6 @@
       "onboard_time": 1721804359,
       "rank": 43,
       "category": "财经"
-    },
-    {
-      "raw_hot": 188951,
-      "num": 188951,
-      "word": "巴黎奥运开幕式 好癫好爱",
-      "onboard_time": 1722025691,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 188672,
@@ -14891,14 +15011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145046,
-      "num": 145046,
-      "word": "雨淋钢琴 火烧钢琴",
-      "onboard_time": 1722025932,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 145017,
       "num": 145017,
       "word": "中国游泳队训练火罐印抢眼",
@@ -15105,14 +15217,6 @@
       "onboard_time": 1721742621,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 141136,
-      "num": 141136,
-      "word": "终于等到詹姆斯",
-      "onboard_time": 1722025332,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 140977,
@@ -16267,6 +16371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111981,
+      "num": 704104,
+      "word": "小姨的腿长给孩子长脸",
+      "onboard_time": 1722042320,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111785,
       "num": 111785,
       "word": "Jasper等比例长大",
@@ -16801,6 +16913,14 @@
       "onboard_time": 1721792599,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85058,
+      "num": 256702,
+      "word": "普通人也能跑进奥运会了",
+      "onboard_time": 1722042080,
+      "rank": 33,
+      "category": "体育,运动健身"
     },
     {
       "raw_hot": 84964,
@@ -17473,6 +17593,14 @@
       "onboard_time": 1721646622,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61783,
+      "num": 321167,
+      "word": "我们的开幕式",
+      "onboard_time": 1722042260,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 61452,

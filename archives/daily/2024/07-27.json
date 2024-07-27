@@ -1,7 +1,15 @@
 {
   "startTime": 1722011177149,
-  "endTime": 1722036892493,
+  "endTime": 1722043335786,
   "band_list": [
+    {
+      "raw_hot": 12261931,
+      "num": 12261931,
+      "word": "巴黎开幕式 真的牛",
+      "onboard_time": 1722022813,
+      "rank": 3,
+      "category": "体育"
+    },
     {
       "raw_hot": 8956068,
       "num": 8956068,
@@ -24,14 +32,6 @@
       "word": "奥运开幕式 燃冬",
       "onboard_time": 1722018915,
       "rank": 16,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 4609322,
-      "num": 4609322,
-      "word": "巴黎开幕式 真的牛",
-      "onboard_time": 1722022813,
-      "rank": 3,
       "category": "体育"
     },
     {
@@ -91,6 +91,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1533335,
+      "num": 1254680,
+      "word": "韩国 占C",
+      "onboard_time": 1722020534,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1436163,
       "num": 1436163,
       "word": "火炬手 刺客信条",
@@ -105,14 +113,6 @@
       "onboard_time": 1722020475,
       "rank": 5,
       "category": "体育,电影"
-    },
-    {
-      "raw_hot": 1254680,
-      "num": 1254680,
-      "word": "韩国 占C",
-      "onboard_time": 1722020534,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 1202181,
@@ -139,6 +139,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1075145,
+      "num": 1075145,
+      "word": "国际兴奋剂检测组织回应中国游泳队药检争议",
+      "onboard_time": 1722035898,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1013273,
+      "num": 1013273,
+      "word": "歌手回应质疑",
+      "onboard_time": 1722036979,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 981905,
       "num": 981905,
       "word": "法国人 浪漫至死不渝",
@@ -155,8 +171,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 896687,
-      "num": 896687,
+      "raw_hot": 902972,
+      "num": 902972,
       "word": "马龙奥运神图",
       "onboard_time": 1722018136,
       "rank": 31,
@@ -233,6 +249,22 @@
       "onboard_time": 1722004826,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 655609,
+      "num": 655609,
+      "word": "巴黎奥运 杰出女性",
+      "onboard_time": 1722020895,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 628932,
+      "num": 628932,
+      "word": "那英得知自己是歌王那一刻表情",
+      "onboard_time": 1722039321,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 600903,
@@ -331,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 503785,
+      "num": 503785,
+      "word": "巴黎奥运开幕式 好癫好爱",
+      "onboard_time": 1722025691,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 491517,
       "num": 491517,
       "word": "张杰陈楚生拥抱",
@@ -352,6 +392,22 @@
       "word": "歌剧魅影",
       "onboard_time": 1722015976,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 450687,
+      "num": 450687,
+      "word": "罗拉 但我真的已经累了",
+      "onboard_time": 1722042140,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 428681,
+      "num": 428681,
+      "word": "巴黎奥运正式开幕",
+      "onboard_time": 1722028331,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -379,6 +435,22 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 419047,
+      "num": 419047,
+      "word": "外国人没上机全机乘客等3.5小时",
+      "onboard_time": 1722040582,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 415585,
+      "num": 415585,
+      "word": "蒲熠星 难听",
+      "onboard_time": 1722038600,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 409383,
       "num": 409383,
       "word": "中国台北",
@@ -395,11 +467,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 396125,
-      "num": 396125,
-      "word": "巴黎奥运正式开幕",
-      "onboard_time": 1722028331,
-      "rank": 35,
+      "raw_hot": 395546,
+      "num": 395546,
+      "word": "全红婵正经历发育期考验",
+      "onboard_time": 1722039741,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -448,14 +520,6 @@
       "word": "没有俄罗斯",
       "onboard_time": 1722024672,
       "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 325576,
-      "num": 325576,
-      "word": "国际兴奋剂检测组织回应中国游泳队药检争议",
-      "onboard_time": 1722035898,
-      "rank": 34,
       "category": "体育"
     },
     {
@@ -571,6 +635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251161,
+      "num": 251161,
+      "word": "全红婵妈妈把女儿得分记到小数点后",
+      "onboard_time": 1722039141,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 248700,
       "num": 248700,
       "word": "耳帝",
@@ -603,12 +675,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 234284,
+      "num": 234284,
+      "word": "汪顺把床带去了巴黎奥运村",
+      "onboard_time": 1722038334,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229558,
       "num": 229558,
       "word": "悲惨世界",
       "onboard_time": 1722018855,
       "rank": 30,
       "category": "体育,读书作家"
+    },
+    {
+      "raw_hot": 225712,
+      "num": 225712,
+      "word": "巴黎奥运开幕式回放",
+      "onboard_time": 1722041541,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 224904,
@@ -625,6 +713,22 @@
       "onboard_time": 1721975300,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218238,
+      "num": 218238,
+      "word": "雨淋钢琴 火烧钢琴",
+      "onboard_time": 1722025932,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 217252,
+      "num": 217252,
+      "word": "凡希亚向汪苏泷邀歌",
+      "onboard_time": 1722042800,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 213177,
@@ -672,6 +776,14 @@
       "word": "乒乓球队站第一排",
       "onboard_time": 1722013637,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 205629,
+      "num": 205629,
+      "word": "终于等到詹姆斯",
+      "onboard_time": 1722025332,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -723,12 +835,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197022,
+      "num": 197022,
+      "word": "马克龙说这就是法国",
+      "onboard_time": 1722041241,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196391,
       "num": 191864,
       "word": "D社记者吐槽中恩静",
       "onboard_time": 1722007282,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195887,
+      "num": 195887,
+      "word": "巴黎开幕式 艺术多元性",
+      "onboard_time": 1722042320,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 195805,
@@ -803,14 +931,6 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 188951,
-      "num": 188951,
-      "word": "巴黎奥运开幕式 好癫好爱",
-      "onboard_time": 1722025691,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 187482,
       "num": 179387,
       "word": "中国代表团将与加拿大等队同船亮相",
@@ -836,7 +956,7 @@
     },
     {
       "raw_hot": 179953,
-      "num": 179953,
+      "num": 207586,
       "word": "巴黎奥运会",
       "onboard_time": 1722018796,
       "rank": 35,
@@ -987,22 +1107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 145046,
-      "num": 145046,
-      "word": "雨淋钢琴 火烧钢琴",
-      "onboard_time": 1722025932,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 141136,
-      "num": 141136,
-      "word": "终于等到詹姆斯",
-      "onboard_time": 1722025332,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 136815,
       "num": 136815,
       "word": "机械马女骑手 钢铁女骑士",
@@ -1099,6 +1203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111981,
+      "num": 704104,
+      "word": "小姨的腿长给孩子长脸",
+      "onboard_time": 1722042320,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106898,
       "num": 3720770,
       "word": "闪耀奥运赛场的中国骄傲",
@@ -1116,7 +1228,7 @@
     },
     {
       "raw_hot": 101264,
-      "num": 157465,
+      "num": 196213,
       "word": "奥运会",
       "onboard_time": 1721997383,
       "rank": 49,
@@ -1147,6 +1259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85058,
+      "num": 256702,
+      "word": "普通人也能跑进奥运会了",
+      "onboard_time": 1722042080,
+      "rank": 33,
+      "category": "体育,运动健身"
+    },
+    {
       "raw_hot": 82065,
       "num": 117909,
       "word": "LadyGaga奥运开幕式彩排画面曝光",
@@ -1168,6 +1288,14 @@
       "word": "大雨向下 女性向上",
       "onboard_time": 1722031392,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 61783,
+      "num": 321167,
+      "word": "我们的开幕式",
+      "onboard_time": 1722042260,
+      "rank": 28,
       "category": "体育"
     },
     {

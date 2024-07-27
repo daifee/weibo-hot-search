@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1722036892493,
+  "endTime": 1722043335786,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -201,6 +201,14 @@
       "onboard_time": 1708328198,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12261931,
+      "num": 12261931,
+      "word": "巴黎开幕式 真的牛",
+      "onboard_time": 1722022813,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 12145699,
@@ -1633,14 +1641,6 @@
       "onboard_time": 1721641343,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 4609322,
-      "num": 4609322,
-      "word": "巴黎开幕式 真的牛",
-      "onboard_time": 1722022813,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 4580625,
