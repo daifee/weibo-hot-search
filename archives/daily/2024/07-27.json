@@ -1,6 +1,6 @@
 {
   "startTime": 1722011177149,
-  "endTime": 1722068557286,
+  "endTime": 1722069378208,
   "band_list": [
     {
       "raw_hot": 12261931,
@@ -300,11 +300,27 @@
     },
     {
       "raw_hot": 784912,
-      "num": 553067,
+      "num": 582221,
       "word": "何猷君奚梦瑶拥吻照",
       "onboard_time": 1722062420,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 782345,
+      "num": 782345,
+      "word": "阿条姐 干饭哥",
+      "onboard_time": 1722067699,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 781292,
+      "num": 781292,
+      "word": "中国00后组合晋级金牌赛",
+      "onboard_time": 1722066499,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 768761,
@@ -331,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 756631,
+      "num": 756631,
+      "word": "射击混合团体10米气步枪",
+      "onboard_time": 1722059899,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 750101,
       "num": 750101,
       "word": "开幕式上小黄人突然出现",
@@ -353,14 +377,6 @@
       "onboard_time": 1722054742,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 701695,
-      "num": 701695,
-      "word": "中国00后组合晋级金牌赛",
-      "onboard_time": 1722066499,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 692500,
@@ -401,6 +417,14 @@
       "onboard_time": 1722004826,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 657701,
+      "num": 657701,
+      "word": "法媒把韩国国旗搞错了",
+      "onboard_time": 1722067400,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 653207,
@@ -539,12 +563,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 511903,
-      "num": 511903,
-      "word": "阿条姐 干饭哥",
-      "onboard_time": 1722067699,
-      "rank": 13,
-      "category": "体育"
+      "raw_hot": 511229,
+      "num": 420206,
+      "word": "董宇辉分手费实为3.58亿",
+      "onboard_time": 1722065119,
+      "rank": 20,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 507348,
@@ -635,14 +659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 453711,
-      "num": 398158,
-      "word": "董宇辉分手费实为3.58亿",
-      "onboard_time": 1722065119,
-      "rank": 20,
-      "category": "互联网,网红"
-    },
-    {
       "raw_hot": 447116,
       "num": 757885,
       "word": "对话中信建投实习生",
@@ -664,14 +680,6 @@
       "word": "巴黎奥运正式开幕",
       "onboard_time": 1722028331,
       "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 435402,
-      "num": 435402,
-      "word": "射击混合团体10米气步枪",
-      "onboard_time": 1722059899,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -800,14 +808,6 @@
       "word": "LV到底给了多少钱",
       "onboard_time": 1722018676,
       "rank": 20,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 373777,
-      "num": 373777,
-      "word": "法媒把韩国国旗搞错了",
-      "onboard_time": 1722067400,
-      "rank": 22,
       "category": "体育"
     },
     {
@@ -1003,8 +1003,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286867,
+      "num": 286867,
+      "word": "莎头首秀",
+      "onboard_time": 1722067159,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 286062,
-      "num": 286062,
+      "num": 612627,
       "word": "4K修复影像看志愿军欢庆胜利",
       "onboard_time": 1722065180,
       "rank": 24,
@@ -1211,14 +1219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 244602,
-      "num": 244602,
-      "word": "莎头首秀",
-      "onboard_time": 1722067159,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 239599,
       "num": 239599,
       "word": "塞纳河畔 告白热气球",
@@ -1232,6 +1232,14 @@
       "word": "中国代表团预计第41个入场",
       "onboard_time": 1722007043,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 235846,
+      "num": 235846,
+      "word": "射击队比完赛一看微博天都塌了",
+      "onboard_time": 1722066919,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -1331,6 +1339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221362,
+      "num": 221362,
+      "word": "南工大35名研究生被退学",
+      "onboard_time": 1722067999,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 220359,
       "num": 220359,
       "word": "137秒回顾巴黎奥运会开幕式亮点",
@@ -1353,22 +1369,6 @@
       "onboard_time": 1722042800,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 214934,
-      "num": 214934,
-      "word": "南工大35名研究生被退学",
-      "onboard_time": 1722067999,
-      "rank": 34,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 214371,
-      "num": 214371,
-      "word": "射击队比完赛一看微博天都塌了",
-      "onboard_time": 1722066919,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 213177,
@@ -1433,6 +1433,14 @@
       "onboard_time": 1721999121,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208323,
+      "num": 208323,
+      "word": "杨紫长相思2收官长文",
+      "onboard_time": 1722069019,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 208294,
@@ -1995,6 +2003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164762,
+      "num": 164762,
+      "word": "王鹤棣用时宴造型直播",
+      "onboard_time": 1722069200,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164578,
       "num": 586374,
       "word": "商场回应男子辱骂coser殴打员工",
@@ -2323,6 +2339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62454,
+      "num": 514897,
+      "word": "中国父母为什么总想让孩子吃苦",
+      "onboard_time": 1722068118,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59458,
       "num": 397069,
       "word": "巴黎游船上的运动大秀",
@@ -2348,7 +2372,7 @@
     },
     {
       "raw_hot": 51232,
-      "num": 166549,
+      "num": 227530,
       "word": "在办公室见证了一场吉尼斯纪录诞生",
       "onboard_time": 1722068419,
       "rank": 47,
@@ -2440,14 +2464,6 @@
       "word": "风雨再大老人1个都不能落下",
       "onboard_time": 1722035117,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24648,
-      "num": 490537,
-      "word": "中国父母为什么总想让孩子吃苦",
-      "onboard_time": 1722068118,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
