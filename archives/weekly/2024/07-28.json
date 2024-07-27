@@ -1,6 +1,6 @@
 {
   "startTime": 1722097426384,
-  "endTime": 1722111582658,
+  "endTime": 1722112566478,
   "band_list": [
     {
       "raw_hot": 9614106,
@@ -371,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 326761,
+      "num": 326761,
+      "word": "江旻憓重剑金牌",
+      "onboard_time": 1722110773,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 323935,
       "num": 323935,
       "word": "陈艺文公主抱吓坏美国队",
@@ -491,6 +499,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 218270,
+      "num": 94040,
+      "word": "潘展乐第一棒破奥运纪录",
+      "onboard_time": 1722111972,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 215166,
+      "num": 215166,
+      "word": "中国香港代表团首枚金牌",
+      "onboard_time": 1722111012,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215070,
       "num": 367566,
       "word": "盛李豪说光靠干饭就随便取的",
@@ -528,14 +552,6 @@
       "word": "奥运会",
       "onboard_time": 1722096092,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 196482,
-      "num": 196482,
-      "word": "江旻憓重剑金牌",
-      "onboard_time": 1722110773,
-      "rank": 16,
       "category": "体育"
     },
     {
@@ -579,14 +595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160537,
-      "num": 160537,
-      "word": "中国香港代表团首枚金牌",
-      "onboard_time": 1722111012,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 151352,
       "num": 151352,
       "word": "羽毛球女双",
@@ -600,6 +608,14 @@
       "word": "陈艺文昌雅妮 好嗑",
       "onboard_time": 1722102135,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 120281,
+      "num": 120281,
+      "word": "中国男子4x100自由泳接力第四",
+      "onboard_time": 1722111012,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -620,15 +636,15 @@
     },
     {
       "raw_hot": 112205,
-      "num": 84940,
+      "num": 110621,
       "word": "潘展乐46秒92",
       "onboard_time": 1722111012,
       "rank": 30,
       "category": "体育"
     },
     {
-      "raw_hot": 108302,
-      "num": 108302,
+      "raw_hot": 111420,
+      "num": 111420,
       "word": "中国游泳队首枚奖牌",
       "onboard_time": 1722110472,
       "rank": 25,
@@ -664,14 +680,6 @@
       "word": "中国队首金升国旗奏国歌现场",
       "onboard_time": 1722085583,
       "rank": 2,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 88961,
-      "num": 88961,
-      "word": "中国男子4x100自由泳接力第四",
-      "onboard_time": 1722111012,
-      "rank": 28,
       "category": "体育"
     },
     {
@@ -731,11 +739,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50420,
+      "num": 50420,
+      "word": "覃海洋晋级100蛙决赛",
+      "onboard_time": 1722109214,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 35084,
+      "num": 318575,
+      "word": "博士生花7万5找人代写论文",
+      "onboard_time": 1722110531,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23647,
       "num": 388397,
       "word": "黄雨婷房间里摆满小玩偶",
       "onboard_time": 1722104954,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 20558,
+      "num": 122891,
+      "word": "陈艺文父母回应女儿夺冠",
+      "onboard_time": 1722112392,
+      "rank": 20,
       "category": "体育"
     },
     {
@@ -745,14 +777,6 @@
       "onboard_time": 1722106814,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 15850,
-      "num": 318575,
-      "word": "博士生花7万5找人代写论文",
-      "onboard_time": 1722110531,
-      "rank": 9,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
