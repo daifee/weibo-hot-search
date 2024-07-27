@@ -1,6 +1,6 @@
 {
   "startTime": 1722097426384,
-  "endTime": 1722107755544,
+  "endTime": 1722108941887,
   "band_list": [
     {
       "raw_hot": 9614106,
@@ -160,6 +160,14 @@
       "word": "朝鲜混双",
       "onboard_time": 1722094046,
       "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 650963,
+      "num": 650963,
+      "word": "孙杨的奥运记录",
+      "onboard_time": 1722106994,
+      "rank": 11,
       "category": "体育"
     },
     {
@@ -352,14 +360,6 @@
       "word": "陈艺文公主抱吓坏美国队",
       "onboard_time": 1722087743,
       "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 315182,
-      "num": 315182,
-      "word": "孙杨的奥运记录",
-      "onboard_time": 1722106994,
-      "rank": 11,
       "category": "体育"
     },
     {
@@ -619,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54995,
+      "num": 54995,
+      "word": "张雨霏好霸气",
+      "onboard_time": 1722108853,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23647,
       "num": 388397,
       "word": "黄雨婷房间里摆满小玩偶",
@@ -627,7 +635,15 @@
       "category": "体育"
     },
     {
-      "raw_hot": 17227,
+      "raw_hot": 20407,
+      "num": 199977,
+      "word": "黄雨婷盛李豪的昵称很00后",
+      "onboard_time": 1722108672,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 18874,
       "num": 315485,
       "word": "珠海教师以裁判身份亮相奥运会",
       "onboard_time": 1722106814,
