@@ -1,6 +1,6 @@
 {
   "startTime": 1722097426384,
-  "endTime": 1722119659807,
+  "endTime": 1722122513374,
   "band_list": [
     {
       "raw_hot": 9614106,
@@ -179,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 648643,
+      "num": 648643,
+      "word": "中国游泳队首枚奖牌",
+      "onboard_time": 1722110472,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 620013,
       "num": 620013,
       "word": "相柳角色号清空微博",
@@ -299,14 +307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 407656,
-      "num": 407656,
-      "word": "中国游泳队首枚奖牌",
-      "onboard_time": 1722110472,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 398954,
       "num": 398954,
       "word": "中国队混合团体10米气步枪金牌",
@@ -336,6 +336,14 @@
       "word": "澳大利亚首金",
       "onboard_time": 1722094535,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 353398,
+      "num": 353398,
+      "word": "中国香港代表团首枚金牌",
+      "onboard_time": 1722111012,
+      "rank": 20,
       "category": "体育"
     },
     {
@@ -435,19 +443,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 293541,
-      "num": 293541,
-      "word": "中国香港代表团首枚金牌",
-      "onboard_time": 1722111012,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 289927,
       "num": 289927,
       "word": "王楚钦孙颖莎关注日本组合比赛",
       "onboard_time": 1722097771,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 283366,
+      "num": 283366,
+      "word": "日媒称日本乒乓奥运连冠梦破灭了",
+      "onboard_time": 1722101057,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -504,6 +512,14 @@
       "word": "日乒教练表情",
       "onboard_time": 1722097170,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 247951,
+      "num": 247951,
+      "word": "中国男子4x100自由泳接力第四",
+      "onboard_time": 1722111012,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -595,14 +611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168118,
-      "num": 168118,
-      "word": "日媒称日本乒乓奥运连冠梦破灭了",
-      "onboard_time": 1722101057,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 151352,
       "num": 151352,
       "word": "羽毛球女双",
@@ -619,11 +627,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120281,
-      "num": 120281,
-      "word": "中国男子4x100自由泳接力第四",
-      "onboard_time": 1722111012,
-      "rank": 28,
+      "raw_hot": 140262,
+      "num": 140262,
+      "word": "原来跳水比赛的哨是郭晶晶按的",
+      "onboard_time": 1722118933,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 120576,
+      "num": 120576,
+      "word": "张雨霏比完赛想去深山待2周",
+      "onboard_time": 1722120255,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -651,8 +667,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 103565,
-      "num": 96638,
+      "raw_hot": 112163,
+      "num": 112163,
+      "word": "中信建投称不存在协助财务造假",
+      "onboard_time": 1722084683,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110402,
+      "num": 110402,
       "word": "张雨霏池江璃花子 巴黎再相逢",
       "onboard_time": 1722105913,
       "rank": 31,
@@ -675,6 +699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95779,
+      "num": 318575,
+      "word": "博士生花7万5找人代写论文",
+      "onboard_time": 1722110531,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89943,
       "num": 4802785,
       "word": "中国队首金升国旗奏国歌现场",
@@ -691,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82256,
+      "num": 82256,
+      "word": "韩国代表团首金",
+      "onboard_time": 1722114912,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81042,
       "num": 705326,
       "word": "乐黛云先生逝世",
@@ -700,10 +740,18 @@
     },
     {
       "raw_hot": 75302,
-      "num": 75302,
+      "num": 79669,
       "word": "中国姑娘接力破亚洲纪录",
       "onboard_time": 1722110773,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 75055,
+      "num": 526134,
+      "word": "中国队塞纳河上合唱起歌唱祖国",
+      "onboard_time": 1722119834,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -723,14 +771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 63371,
-      "num": 63371,
-      "word": "韩国代表团首金",
-      "onboard_time": 1722114912,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 61590,
       "num": 61590,
       "word": "奥运新手头头表示非常兴奋",
@@ -739,28 +779,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 59156,
-      "num": 318575,
-      "word": "博士生花7万5找人代写论文",
-      "onboard_time": 1722110531,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 58181,
       "num": 196582,
       "word": "爸爸要昌雅妮在升国旗时大声唱国歌",
       "onboard_time": 1722114252,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 58027,
-      "num": 58027,
-      "word": "原来跳水比赛的哨是郭晶晶按的",
-      "onboard_time": 1722118933,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 57302,
