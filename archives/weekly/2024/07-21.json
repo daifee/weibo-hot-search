@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1722079048658,
+  "endTime": 1722080068944,
   "band_list": [
     {
       "raw_hot": 16577668,
@@ -521,6 +521,14 @@
       "onboard_time": 1721637982,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2104228,
+      "num": 515020,
+      "word": "迪玛希回应忘关麦克风",
+      "onboard_time": 1722078144,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 2095531,
@@ -2219,14 +2227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 942112,
-      "num": 509225,
-      "word": "迪玛希回应忘关麦克风",
-      "onboard_time": 1722078144,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 940657,
       "num": 940657,
       "word": "中国凉席火到法国",
@@ -2329,6 +2329,14 @@
       "onboard_time": 1721638343,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 910102,
+      "num": 910102,
+      "word": "潘展乐太牛了",
+      "onboard_time": 1722078563,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 902972,
@@ -3859,6 +3867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 610641,
+      "num": 610641,
+      "word": "陈艺文昌雅妮好甜",
+      "onboard_time": 1722078263,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 610139,
       "num": 299339,
       "word": "婚纱照发朋友圈被同事阴阳了",
@@ -4603,6 +4619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 526589,
+      "num": 526589,
+      "word": "阿条姐头像 我不行谁行",
+      "onboard_time": 1722077663,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 525879,
       "num": 552740,
       "word": "男子轨交上猥亵女子被拘13日",
@@ -4712,14 +4736,6 @@
       "word": "开幕式红毯",
       "onboard_time": 1722013996,
       "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 512023,
-      "num": 512023,
-      "word": "潘展乐太牛了",
-      "onboard_time": 1722078563,
-      "rank": 19,
       "category": "体育"
     },
     {
@@ -5017,14 +5033,6 @@
       "onboard_time": 1721489301,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 483997,
-      "num": 483997,
-      "word": "陈艺文昌雅妮好甜",
-      "onboard_time": 1722078263,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 483070,
@@ -5443,14 +5451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 446564,
-      "num": 446564,
-      "word": "阿条姐头像 我不行谁行",
-      "onboard_time": 1722077663,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 446431,
       "num": 446431,
       "word": "霍启刚郭晶晶现身奥运开幕式",
@@ -5649,6 +5649,14 @@
       "onboard_time": 1721613440,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 431356,
+      "num": 431356,
+      "word": "长沙撞人",
+      "onboard_time": 1722079944,
+      "rank": 25,
+      "category": "社会负面"
     },
     {
       "raw_hot": 428800,
@@ -6035,6 +6043,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 398186,
+      "num": 398186,
+      "word": "黄雨婷还是高中生",
+      "onboard_time": 1722079823,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 397256,
       "num": 397256,
       "word": "人大",
@@ -6129,6 +6145,22 @@
       "onboard_time": 1721748259,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 389046,
+      "num": 389046,
+      "word": "韩国人又多了个说自己国家大的理由",
+      "onboard_time": 1722077842,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 388621,
+      "num": 388621,
+      "word": "田亮叶一茜全家去看了开幕式",
+      "onboard_time": 1722077842,
+      "rank": 34,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 387778,
@@ -6371,14 +6403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 368824,
-      "num": 368824,
-      "word": "田亮叶一茜全家去看了开幕式",
-      "onboard_time": 1722077842,
-      "rank": 34,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 368394,
       "num": 368394,
       "word": "九尾沙特请假条",
@@ -6473,14 +6497,6 @@
       "onboard_time": 1721639962,
       "rank": 36,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 360212,
-      "num": 360212,
-      "word": "韩国人又多了个说自己国家大的理由",
-      "onboard_time": 1722077842,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 359706,
@@ -6659,6 +6675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 352213,
+      "num": 352213,
+      "word": "奥运会体操",
+      "onboard_time": 1722078203,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 351701,
       "num": 351701,
       "word": "陈哲远靠生图救了自己",
@@ -6769,6 +6793,14 @@
       "onboard_time": 1721867301,
       "rank": 17,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 346973,
+      "num": 346973,
+      "word": "刘亦菲黄衬衫大波浪造型",
+      "onboard_time": 1722078863,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 346668,
@@ -7331,14 +7363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 310324,
-      "num": 310324,
-      "word": "奥运会体操",
-      "onboard_time": 1722078203,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 310264,
       "num": 310264,
       "word": "阿娇 确定七夕不一起过吗",
@@ -7497,6 +7521,14 @@
       "onboard_time": 1721622502,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303081,
+      "num": 303081,
+      "word": "少一个孙子这个生日都过不成",
+      "onboard_time": 1722078684,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 302618,
@@ -7689,6 +7721,14 @@
       "onboard_time": 1721907082,
       "rank": 25,
       "category": "网红,互联网"
+    },
+    {
+      "raw_hot": 296261,
+      "num": 296261,
+      "word": "闪耀暖暖直播",
+      "onboard_time": 1722079703,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 296173,
@@ -7969,6 +8009,14 @@
       "onboard_time": 1722054919,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286691,
+      "num": 286691,
+      "word": "恭喜阿条姐和干饭哥夺冠",
+      "onboard_time": 1722079222,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 286475,
@@ -8427,14 +8475,6 @@
       "category": "网红,互联网"
     },
     {
-      "raw_hot": 268867,
-      "num": 268867,
-      "word": "少一个孙子这个生日都过不成",
-      "onboard_time": 1722078684,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 268726,
       "num": 268726,
       "word": "代露娃回应长相思角色争议",
@@ -8875,6 +8915,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 253053,
+      "num": 253053,
+      "word": "中国游泳队",
+      "onboard_time": 1722079761,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 252993,
       "num": 252993,
       "word": "2NE1确定重组",
@@ -9025,14 +9073,6 @@
       "onboard_time": 1721825240,
       "rank": 44,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 247737,
-      "num": 247737,
-      "word": "刘亦菲黄衬衫大波浪造型",
-      "onboard_time": 1722078863,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 247221,
@@ -9475,6 +9515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235505,
+      "num": 235505,
+      "word": "潘展乐再次游进47秒",
+      "onboard_time": 1722080001,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 235093,
       "num": 1250461,
       "word": "三星堆遗址考古发掘取得重要进展",
@@ -9601,6 +9649,14 @@
       "onboard_time": 1721707641,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233305,
+      "num": 233305,
+      "word": "胡先煦 男大就该男大演",
+      "onboard_time": 1722079522,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 233063,
@@ -19795,6 +19851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42007,
+      "num": 431632,
+      "word": "庆祝中国首金蒙牛送出500金",
+      "onboard_time": 1722078263,
+      "rank": 35,
+      "category": "体育,美食"
+    },
+    {
       "raw_hot": 41837,
       "num": 1017649,
       "word": "全红婵怎么还出歌了",
@@ -19851,6 +19915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 39635,
+      "num": 913611,
+      "word": "暑托班变相补课催出天价",
+      "onboard_time": 1722079222,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 39623,
       "num": 269400,
       "word": "神仙企业连续11年给员工父母发零花钱",
@@ -19865,14 +19937,6 @@
       "onboard_time": 1722074727,
       "rank": 27,
       "category": "数码"
-    },
-    {
-      "raw_hot": 39463,
-      "num": 363134,
-      "word": "庆祝中国首金蒙牛送出500金",
-      "onboard_time": 1722078263,
-      "rank": 35,
-      "category": "体育,美食"
     },
     {
       "raw_hot": 38976,

@@ -1,6 +1,6 @@
 {
   "startTime": 1722011177149,
-  "endTime": 1722079048658,
+  "endTime": 1722080068944,
   "band_list": [
     {
       "raw_hot": 16577668,
@@ -187,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2104228,
+      "num": 515020,
+      "word": "迪玛希回应忘关麦克风",
+      "onboard_time": 1722078144,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1892402,
       "num": 1892402,
       "word": "中国队拼船",
@@ -371,14 +379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 942112,
-      "num": 509225,
-      "word": "迪玛希回应忘关麦克风",
-      "onboard_time": 1722078144,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 923084,
       "num": 923084,
       "word": "游泳预赛",
@@ -392,6 +392,14 @@
       "word": "巴黎奥运 女性的里程碑",
       "onboard_time": 1722057140,
       "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 910102,
+      "num": 910102,
+      "word": "潘展乐太牛了",
+      "onboard_time": 1722078563,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -619,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 610641,
+      "num": 610641,
+      "word": "陈艺文昌雅妮好甜",
+      "onboard_time": 1722078263,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 608732,
       "num": 608732,
       "word": "巴黎奥运最伟大最震撼的环节",
@@ -715,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 526589,
+      "num": 526589,
+      "word": "阿条姐头像 我不行谁行",
+      "onboard_time": 1722077663,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 523652,
       "num": 523652,
       "word": "变装皇后",
@@ -763,14 +787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 512023,
-      "num": 512023,
-      "word": "潘展乐太牛了",
-      "onboard_time": 1722078563,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 507348,
       "num": 507348,
       "word": "吴千语施伯雄婚礼伴手礼",
@@ -809,14 +825,6 @@
       "onboard_time": 1722001463,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 483997,
-      "num": 483997,
-      "word": "陈艺文昌雅妮好甜",
-      "onboard_time": 1722078263,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 483037,
@@ -875,14 +883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 446564,
-      "num": 446564,
-      "word": "阿条姐头像 我不行谁行",
-      "onboard_time": 1722077663,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 446431,
       "num": 446431,
       "word": "霍启刚郭晶晶现身奥运开幕式",
@@ -905,6 +905,14 @@
       "onboard_time": 1722056961,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 431356,
+      "num": 431356,
+      "word": "长沙撞人",
+      "onboard_time": 1722079944,
+      "rank": 25,
+      "category": "社会负面"
     },
     {
       "raw_hot": 428285,
@@ -987,6 +995,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 398186,
+      "num": 398186,
+      "word": "黄雨婷还是高中生",
+      "onboard_time": 1722079823,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 395546,
       "num": 395546,
       "word": "全红婵正经历发育期考验",
@@ -1001,6 +1017,22 @@
       "onboard_time": 1722058041,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 389046,
+      "num": 389046,
+      "word": "韩国人又多了个说自己国家大的理由",
+      "onboard_time": 1722077842,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 388621,
+      "num": 388621,
+      "word": "田亮叶一茜全家去看了开幕式",
+      "onboard_time": 1722077842,
+      "rank": 34,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 385977,
@@ -1035,28 +1067,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 368824,
-      "num": 368824,
-      "word": "田亮叶一茜全家去看了开幕式",
-      "onboard_time": 1722077842,
-      "rank": 34,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 364096,
       "num": 364096,
       "word": "杨紫沈梦辰合照",
       "onboard_time": 1722063859,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 360212,
-      "num": 360212,
-      "word": "韩国人又多了个说自己国家大的理由",
-      "onboard_time": 1722077842,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 354479,
@@ -1075,6 +1091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 352213,
+      "num": 352213,
+      "word": "奥运会体操",
+      "onboard_time": 1722078203,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 350052,
       "num": 350052,
       "word": "何冰娇29分钟速胜",
@@ -1089,6 +1113,14 @@
       "onboard_time": 1722046220,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 346973,
+      "num": 346973,
+      "word": "刘亦菲黄衬衫大波浪造型",
+      "onboard_time": 1722078863,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 346668,
@@ -1203,14 +1235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 310324,
-      "num": 310324,
-      "word": "奥运会体操",
-      "onboard_time": 1722078203,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 309019,
       "num": 309019,
       "word": "樊振东就这么水灵灵地吃上了",
@@ -1225,6 +1249,14 @@
       "onboard_time": 1722071661,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 303081,
+      "num": 303081,
+      "word": "少一个孙子这个生日都过不成",
+      "onboard_time": 1722078684,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 300627,
@@ -1249,6 +1281,14 @@
       "onboard_time": 1722054981,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 296261,
+      "num": 296261,
+      "word": "闪耀暖暖直播",
+      "onboard_time": 1722079703,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 295067,
@@ -1289,6 +1329,14 @@
       "onboard_time": 1722054919,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286691,
+      "num": 286691,
+      "word": "恭喜阿条姐和干饭哥夺冠",
+      "onboard_time": 1722079222,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 286062,
@@ -1443,14 +1491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 268867,
-      "num": 268867,
-      "word": "少一个孙子这个生日都过不成",
-      "onboard_time": 1722078684,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 261921,
       "num": 261921,
       "word": "颁奖仪式",
@@ -1523,6 +1563,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 253053,
+      "num": 253053,
+      "word": "中国游泳队",
+      "onboard_time": 1722079761,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 252175,
       "num": 252175,
       "word": "张若昀 人尴尬的时候会假装很忙",
@@ -1553,14 +1601,6 @@
       "onboard_time": 1722009321,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 247737,
-      "num": 247737,
-      "word": "刘亦菲黄衬衫大波浪造型",
-      "onboard_time": 1722078863,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 246836,
@@ -1611,6 +1651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235505,
+      "num": 235505,
+      "word": "潘展乐再次游进47秒",
+      "onboard_time": 1722080001,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234284,
       "num": 234284,
       "word": "汪顺把床带去了巴黎奥运村",
@@ -1625,6 +1673,14 @@
       "onboard_time": 1722075984,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 233305,
+      "num": 233305,
+      "word": "胡先煦 男大就该男大演",
+      "onboard_time": 1722079522,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 229558,
@@ -2835,6 +2891,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 42007,
+      "num": 431632,
+      "word": "庆祝中国首金蒙牛送出500金",
+      "onboard_time": 1722078263,
+      "rank": 35,
+      "category": "体育,美食"
+    },
+    {
       "raw_hot": 41837,
       "num": 1017649,
       "word": "全红婵怎么还出歌了",
@@ -2859,20 +2923,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 39635,
+      "num": 913611,
+      "word": "暑托班变相补课催出天价",
+      "onboard_time": 1722079222,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 39597,
       "num": 508328,
       "word": "蔚来二代手机零预装零广告",
       "onboard_time": 1722074727,
       "rank": 27,
       "category": "数码"
-    },
-    {
-      "raw_hot": 39463,
-      "num": 363134,
-      "word": "庆祝中国首金蒙牛送出500金",
-      "onboard_time": 1722078263,
-      "rank": 35,
-      "category": "体育,美食"
     },
     {
       "raw_hot": 38664,
