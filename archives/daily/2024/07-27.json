@@ -1,6 +1,6 @@
 {
   "startTime": 1722011177149,
-  "endTime": 1722051400702,
+  "endTime": 1722054217302,
   "band_list": [
     {
       "raw_hot": 12261931,
@@ -67,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2521491,
+      "num": 2521491,
+      "word": "韩国网友要求法国道歉",
+      "onboard_time": 1722049040,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2408916,
       "num": 2408916,
       "word": "贾玲 奥运开幕式",
@@ -81,14 +89,6 @@
       "onboard_time": 1722049940,
       "rank": 3,
       "category": "美食"
-    },
-    {
-      "raw_hot": 2257289,
-      "num": 2257289,
-      "word": "韩国网友要求法国道歉",
-      "onboard_time": 1722049040,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 1892402,
@@ -163,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1076259,
+      "num": 1076259,
+      "word": "国际奥委会向韩国道歉",
+      "onboard_time": 1722051500,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1075145,
       "num": 1075145,
       "word": "国际兴奋剂检测组织回应中国游泳队药检争议",
@@ -211,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 865804,
+      "num": 865804,
+      "word": "贾乃亮奥运开幕式被淋透",
+      "onboard_time": 1722051020,
+      "rank": 32,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 797950,
       "num": 797950,
       "word": "奥林匹克会旗挂反了",
@@ -225,6 +241,14 @@
       "onboard_time": 1722005664,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 765973,
+      "num": 765973,
+      "word": "巴黎奥运 杰出女性",
+      "onboard_time": 1722020895,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 756726,
@@ -267,12 +291,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 660762,
-      "num": 660762,
-      "word": "巴黎奥运 杰出女性",
-      "onboard_time": 1722020895,
-      "rank": 10,
-      "category": "体育"
+      "raw_hot": 662876,
+      "num": 662876,
+      "word": "那英说我敢接受冠军负评",
+      "onboard_time": 1722052459,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 660170,
@@ -395,12 +419,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 517124,
+      "num": 517124,
+      "word": "全红婵跳水都没我下饺子水花大",
+      "onboard_time": 1722051920,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 512281,
       "num": 512281,
       "word": "开幕式红毯",
       "onboard_time": 1722013996,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 507348,
+      "num": 507348,
+      "word": "吴千语施伯雄婚礼伴手礼",
+      "onboard_time": 1722052459,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 503785,
@@ -459,8 +499,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 428681,
-      "num": 428681,
+      "raw_hot": 443144,
+      "num": 443144,
       "word": "巴黎奥运正式开幕",
       "onboard_time": 1722028331,
       "rank": 35,
@@ -507,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 398276,
+      "num": 636711,
+      "word": "美国2名宇航员被困太空超50天",
+      "onboard_time": 1722048921,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 395546,
       "num": 395546,
       "word": "全红婵正经历发育期考验",
@@ -545,6 +593,14 @@
       "onboard_time": 1722017237,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 351762,
+      "num": 351762,
+      "word": "凡希亚从没掉出前三 总决赛第四",
+      "onboard_time": 1722052940,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 348150,
@@ -617,14 +673,6 @@
       "onboard_time": 1722018376,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 308250,
-      "num": 636711,
-      "word": "美国2名宇航员被困太空超50天",
-      "onboard_time": 1722048921,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 300627,
@@ -731,6 +779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267195,
+      "num": 2347866,
+      "word": "巴黎今天将决出14枚奥运金牌",
+      "onboard_time": 1722042201,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 254744,
       "num": 254744,
       "word": "那英燃炸了",
@@ -745,14 +801,6 @@
       "onboard_time": 1722009559,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 252221,
-      "num": 252221,
-      "word": "贾乃亮奥运开幕式被淋透",
-      "onboard_time": 1722051020,
-      "rank": 32,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 251161,
@@ -801,6 +849,14 @@
       "onboard_time": 1722038334,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232075,
+      "num": 232075,
+      "word": "官方通报民警午休被吵醒态度生硬",
+      "onboard_time": 1722052701,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229558,
@@ -867,10 +923,34 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224669,
+      "num": 224669,
+      "word": "上海航空",
+      "onboard_time": 1722051561,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221682,
+      "num": 221682,
+      "word": "巴黎火炬手 刺客信条",
+      "onboard_time": 1722051139,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220359,
       "num": 220359,
       "word": "137秒回顾巴黎奥运会开幕式亮点",
       "onboard_time": 1722047119,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 218572,
+      "num": 218572,
+      "word": "霍启刚郭晶晶现身奥运开幕式",
+      "onboard_time": 1722053900,
       "rank": 38,
       "category": "体育"
     },
@@ -889,14 +969,6 @@
       "onboard_time": 1722042800,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 213252,
-      "num": 2347866,
-      "word": "巴黎今天将决出14枚奥运金牌",
-      "onboard_time": 1722042201,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 213177,
@@ -947,6 +1019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209669,
+      "num": 328555,
+      "word": "奥运射箭不靠视力靠脸型",
+      "onboard_time": 1722050540,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209006,
       "num": 193717,
       "word": "汪苏泷忘词",
@@ -985,6 +1065,14 @@
       "onboard_time": 1722043641,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203658,
+      "num": 203658,
+      "word": "原来HelloKitty不是猫",
+      "onboard_time": 1722053240,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 203011,
@@ -1104,14 +1192,6 @@
       "word": "王楚钦削上了",
       "onboard_time": 1722005246,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 195798,
-      "num": 328555,
-      "word": "奥运射箭不靠视力靠脸型",
-      "onboard_time": 1722050540,
-      "rank": 49,
       "category": "体育"
     },
     {
@@ -1289,6 +1369,22 @@
       "onboard_time": 1722018317,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169762,
+      "num": 169762,
+      "word": "北京奥运会",
+      "onboard_time": 1722051680,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 169655,
+      "num": 169655,
+      "word": "育碧赢麻了",
+      "onboard_time": 1722054200,
+      "rank": 49,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 164578,
@@ -1547,6 +1643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89056,
+      "num": 712714,
+      "word": "巴黎奥运里的电影元素",
+      "onboard_time": 1722054142,
+      "rank": 8,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 85058,
       "num": 256702,
       "word": "普通人也能跑进奥运会了",
@@ -1579,6 +1683,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68413,
+      "num": 641422,
+      "word": "雷军现身巴黎奥运会开幕式",
+      "onboard_time": 1722053240,
+      "rank": 12,
+      "category": "体育,互联网"
+    },
+    {
+      "raw_hot": 59458,
+      "num": 397069,
+      "word": "巴黎游船上的运动大秀",
+      "onboard_time": 1722049520,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57046,
       "num": 437141,
       "word": "永劫光遇等千款游戏推出鸿蒙版",
@@ -1600,14 +1720,6 @@
       "word": "全红婵怎么还出歌了",
       "onboard_time": 1722016576,
       "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 40851,
-      "num": 397069,
-      "word": "巴黎游船上的运动大秀",
-      "onboard_time": 1722049520,
-      "rank": 19,
       "category": "体育"
     },
     {
@@ -1649,6 +1761,14 @@
       "onboard_time": 1722016457,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20740,
+      "num": 684660,
+      "word": "外媒曝美国防部承认在菲抹黑中国疫苗",
+      "onboard_time": 1722053420,
+      "rank": 9,
+      "category": "社会新闻,国内时政"
     },
     {
       "raw_hot": 19766,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1722054217302,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7377652,
+        "num": 7377652,
+        "word": "巴黎开幕式 真的牛",
+        "onboard_time": 1722022813,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2521491,
+        "num": 2521491,
+        "word": "韩国网友要求法国道歉",
+        "onboard_time": 1722049040,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267195,
+        "num": 2295368,
+        "word": "巴黎今天将决出14枚奥运金牌",
+        "onboard_time": 1722042201,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2105791,
+        "num": 2105791,
+        "word": "迪玛希忘记关麦克风",
+        "onboard_time": 1722044600,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1076259,
+        "num": 1076259,
+        "word": "国际奥委会向韩国道歉",
+        "onboard_time": 1722051500,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 931702,
+        "num": 931702,
+        "word": "蒙娜丽莎被小黄人偷走了",
+        "onboard_time": 1722020475,
+        "rank": 5,
+        "category": "体育,电影"
+      },
+      {
+        "raw_hot": 865804,
+        "num": 865804,
+        "word": "贾乃亮奥运开幕式被淋透",
+        "onboard_time": 1722051020,
+        "rank": 6,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 765973,
+        "num": 765973,
+        "word": "巴黎奥运 杰出女性",
+        "onboard_time": 1722020895,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89056,
+        "num": 712714,
+        "word": "巴黎奥运里的电影元素",
+        "onboard_time": 1722054142,
+        "rank": 8,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 20740,
+        "num": 684660,
+        "word": "外媒曝美国防部承认在菲抹黑中国疫苗",
+        "onboard_time": 1722053420,
+        "rank": 9,
+        "category": "社会新闻,国内时政"
+      },
+      {
+        "raw_hot": 1178039,
+        "num": 678371,
+        "word": "韩国 占C",
+        "onboard_time": 1722020534,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 662876,
+        "num": 662876,
+        "word": "那英说我敢接受冠军负评",
+        "onboard_time": 1722052459,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68413,
+        "num": 641422,
+        "word": "雷军现身巴黎奥运会开幕式",
+        "onboard_time": 1722053240,
+        "rank": 12,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 636776,
+        "num": 636776,
+        "word": "贾玲 奥运开幕式",
+        "onboard_time": 1722008661,
+        "rank": 13,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 612579,
+        "num": 612579,
+        "word": "巴黎奥运开幕式",
+        "onboard_time": 1722002904,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 554627,
+        "num": 554627,
+        "word": "马龙奥运神图",
+        "onboard_time": 1722018136,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 517124,
+        "num": 517124,
+        "word": "全红婵跳水都没我下饺子水花大",
+        "onboard_time": 1722051920,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 507348,
+        "num": 507348,
+        "word": "吴千语施伯雄婚礼伴手礼",
+        "onboard_time": 1722052459,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480479,
+        "num": 480479,
+        "word": "那英得知自己是歌王那一刻表情",
+        "onboard_time": 1722039321,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 426513,
+        "num": 462492,
+        "word": "歌手回应质疑",
+        "onboard_time": 1722036979,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 460647,
+        "num": 460647,
+        "word": "HYBE 还我妈生鼻",
+        "onboard_time": 1722047899,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443144,
+        "num": 443144,
+        "word": "巴黎奥运正式开幕",
+        "onboard_time": 1722028331,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 398276,
+        "num": 398276,
+        "word": "美国2名宇航员被困太空超50天",
+        "onboard_time": 1722048921,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 59458,
+        "num": 387042,
+        "word": "巴黎游船上的运动大秀",
+        "onboard_time": 1722049520,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 386861,
+        "num": 386861,
+        "word": "罗拉 但我真的已经累了",
+        "onboard_time": 1722042140,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 378546,
+        "num": 378546,
+        "word": "那英歌王",
+        "onboard_time": 1722004584,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351920,
+        "num": 351920,
+        "word": "开幕式 LV硬广",
+        "onboard_time": 1722018136,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 351762,
+        "num": 351762,
+        "word": "凡希亚从没掉出前三 总决赛第四",
+        "onboard_time": 1722052940,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340245,
+        "num": 340245,
+        "word": "外国人没上机全机乘客等3.5小时",
+        "onboard_time": 1722040582,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302461,
+        "num": 302461,
+        "word": "法国人 浪漫至死不渝",
+        "onboard_time": 1722016576,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 690902,
+        "num": 302291,
+        "word": "霸王茶姬免单",
+        "onboard_time": 1722049940,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 292308,
+        "num": 292308,
+        "word": "中国台北",
+        "onboard_time": 1722024553,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266200,
+        "num": 266200,
+        "word": "席琳迪翁终于来了",
+        "onboard_time": 1722029472,
+        "rank": 32,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 241498,
+        "num": 241498,
+        "word": "蒲熠星 难听",
+        "onboard_time": 1722038600,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232075,
+        "num": 232075,
+        "word": "官方通报民警午休被吵醒态度生硬",
+        "onboard_time": 1722052701,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231242,
+        "num": 231242,
+        "word": "纪念抗美援朝战争胜利71周年",
+        "onboard_time": 1722045681,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 224669,
+        "num": 224669,
+        "word": "上海航空",
+        "onboard_time": 1722051561,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221682,
+        "num": 221682,
+        "word": "巴黎火炬手 刺客信条",
+        "onboard_time": 1722051139,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218572,
+        "num": 218572,
+        "word": "霍启刚郭晶晶现身奥运开幕式",
+        "onboard_time": 1722053900,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218145,
+        "num": 218145,
+        "word": "LV到底给了多少钱",
+        "onboard_time": 1722018676,
+        "rank": 39,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 217158,
+        "num": 217158,
+        "word": "LadyGaga像火烈鸟一样窜出来",
+        "onboard_time": 1722016876,
+        "rank": 40,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 209669,
+        "num": 209669,
+        "word": "奥运射箭不靠视力靠脸型",
+        "onboard_time": 1722050540,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203658,
+        "num": 203658,
+        "word": "原来HelloKitty不是猫",
+        "onboard_time": 1722053240,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 188250,
+        "num": 188250,
+        "word": "韩国一奥运射箭冠军视力仅0.1",
+        "onboard_time": 1722046220,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187554,
+        "num": 187554,
+        "word": "对话中信建投实习生",
+        "onboard_time": 1722043700,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186676,
+        "num": 186676,
+        "word": "你好星期六全员AI风",
+        "onboard_time": 1722049581,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182465,
+        "num": 182465,
+        "word": "樊振东穿雨衣挥国旗",
+        "onboard_time": 1722013276,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177238,
+        "num": 177238,
+        "word": "奥林匹克会旗挂反了",
+        "onboard_time": 1722028032,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169762,
+        "num": 169762,
+        "word": "北京奥运会",
+        "onboard_time": 1722051680,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169655,
+        "num": 169655,
+        "word": "育碧赢麻了",
+        "onboard_time": 1722054200,
+        "rank": 49,
+        "category": "游戏,体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂全会决定中的这些名词#"
+    }
+  }
+}
