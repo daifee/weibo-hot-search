@@ -1,6 +1,6 @@
 {
   "startTime": 1722097426384,
-  "endTime": 1722122513374,
+  "endTime": 1722123271332,
   "band_list": [
     {
       "raw_hot": 9614106,
@@ -339,8 +339,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 353398,
-      "num": 353398,
+      "raw_hot": 358578,
+      "num": 358578,
       "word": "中国香港代表团首枚金牌",
       "onboard_time": 1722111012,
       "rank": 20,
@@ -507,19 +507,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257347,
+      "num": 257347,
+      "word": "中国男子4x100自由泳接力第四",
+      "onboard_time": 1722111012,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 250442,
       "num": 250442,
       "word": "日乒教练表情",
       "onboard_time": 1722097170,
       "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 247951,
-      "num": 247951,
-      "word": "中国男子4x100自由泳接力第四",
-      "onboard_time": 1722111012,
-      "rank": 28,
       "category": "体育"
     },
     {
@@ -635,8 +635,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120576,
-      "num": 120576,
+      "raw_hot": 123979,
+      "num": 123979,
       "word": "张雨霏比完赛想去深山待2周",
       "onboard_time": 1722120255,
       "rank": 33,
@@ -659,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112384,
+      "num": 112384,
+      "word": "中信建投称不存在协助财务造假",
+      "onboard_time": 1722084683,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112205,
       "num": 110621,
       "word": "潘展乐46秒92",
@@ -667,11 +675,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112163,
-      "num": 112163,
-      "word": "中信建投称不存在协助财务造假",
-      "onboard_time": 1722084683,
-      "rank": 36,
+      "raw_hot": 111545,
+      "num": 318575,
+      "word": "博士生花7万5找人代写论文",
+      "onboard_time": 1722110531,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -699,14 +707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95779,
-      "num": 318575,
-      "word": "博士生花7万5找人代写论文",
-      "onboard_time": 1722110531,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 89943,
       "num": 4802785,
       "word": "中国队首金升国旗奏国歌现场",
@@ -720,6 +720,14 @@
       "word": "宁泽涛真的来了",
       "onboard_time": 1722106814,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 86738,
+      "num": 86738,
+      "word": "各国奥运金牌奖励多少钱",
+      "onboard_time": 1722122835,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -739,16 +747,24 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78852,
+      "num": 78852,
+      "word": "张雨霏100蝶半决赛第三",
+      "onboard_time": 1722122777,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75302,
-      "num": 79669,
+      "num": 84094,
       "word": "中国姑娘接力破亚洲纪录",
       "onboard_time": 1722110773,
       "rank": 35,
       "category": "体育"
     },
     {
-      "raw_hot": 75055,
-      "num": 526134,
+      "raw_hot": 75189,
+      "num": 575711,
       "word": "中国队塞纳河上合唱起歌唱祖国",
       "onboard_time": 1722119834,
       "rank": 9,
