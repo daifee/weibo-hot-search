@@ -1,0 +1,410 @@
+{
+  "runTime": 1722050581672,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7889962,
+        "num": 7889962,
+        "word": "巴黎开幕式 真的牛",
+        "onboard_time": 1722022813,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2905506,
+        "num": 2905506,
+        "word": "迪玛希忘记关麦克风",
+        "onboard_time": 1722044600,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160165,
+        "num": 2205493,
+        "word": "巴黎今天将决出14枚奥运金牌",
+        "onboard_time": 1722042201,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2197672,
+        "num": 2197672,
+        "word": "霸王茶姬免单",
+        "onboard_time": 1722049940,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1667166,
+        "num": 1667166,
+        "word": "韩国网友要求法国道歉",
+        "onboard_time": 1722049040,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1182482,
+        "num": 1182482,
+        "word": "蒙娜丽莎被小黄人偷走了",
+        "onboard_time": 1722020475,
+        "rank": 5,
+        "category": "体育,电影"
+      },
+      {
+        "raw_hot": 821283,
+        "num": 821283,
+        "word": "贾玲 奥运开幕式",
+        "onboard_time": 1722008661,
+        "rank": 6,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 652717,
+        "num": 652717,
+        "word": "马龙奥运神图",
+        "onboard_time": 1722018136,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18707,
+        "num": 639319,
+        "word": "贾玲说不服输的人就是冠军",
+        "onboard_time": 1722045921,
+        "rank": 8,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 208182,
+        "num": 636711,
+        "word": "美国2名宇航员被困太空超50天",
+        "onboard_time": 1722048921,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1302211,
+        "num": 636196,
+        "word": "韩国 占C",
+        "onboard_time": 1722020534,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 635317,
+        "num": 635317,
+        "word": "巴黎奥运开幕式",
+        "onboard_time": 1722002904,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 602988,
+        "num": 602988,
+        "word": "巴黎奥运 杰出女性",
+        "onboard_time": 1722020895,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 595526,
+        "num": 595526,
+        "word": "歌手回应质疑",
+        "onboard_time": 1722036979,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 499630,
+        "num": 499630,
+        "word": "那英得知自己是歌王那一刻表情",
+        "onboard_time": 1722039321,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 452884,
+        "num": 452884,
+        "word": "外国人没上机全机乘客等3.5小时",
+        "onboard_time": 1722040582,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449883,
+        "num": 449883,
+        "word": "HYBE 还我妈生鼻",
+        "onboard_time": 1722047899,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 436185,
+        "num": 436185,
+        "word": "罗拉 但我真的已经累了",
+        "onboard_time": 1722042140,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 413753,
+        "num": 413753,
+        "word": "开幕式 LV硬广",
+        "onboard_time": 1722018136,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40851,
+        "num": 397069,
+        "word": "巴黎游船上的运动大秀",
+        "onboard_time": 1722049520,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 394307,
+        "num": 394307,
+        "word": "那英歌王",
+        "onboard_time": 1722004584,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394280,
+        "num": 394280,
+        "word": "对话中信建投实习生",
+        "onboard_time": 1722043700,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386641,
+        "num": 386641,
+        "word": "巴黎奥运正式开幕",
+        "onboard_time": 1722028331,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 375237,
+        "num": 375237,
+        "word": "LadyGaga像火烈鸟一样窜出来",
+        "onboard_time": 1722016876,
+        "rank": 23,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 353441,
+        "num": 353441,
+        "word": "中国台北",
+        "onboard_time": 1722024553,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333866,
+        "num": 333866,
+        "word": "法国人 浪漫至死不渝",
+        "onboard_time": 1722016576,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308515,
+        "num": 308515,
+        "word": "韩国一奥运射箭冠军视力仅0.1",
+        "onboard_time": 1722046220,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306093,
+        "num": 306093,
+        "word": "席琳迪翁终于来了",
+        "onboard_time": 1722029472,
+        "rank": 27,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 300627,
+        "num": 300627,
+        "word": "那英回应推荐歌手参加下一季",
+        "onboard_time": 1722048440,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295831,
+        "num": 295831,
+        "word": "纪念抗美援朝战争胜利71周年",
+        "onboard_time": 1722045681,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 290431,
+        "num": 290431,
+        "word": "蒲熠星 难听",
+        "onboard_time": 1722038600,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279908,
+        "num": 279908,
+        "word": "77号往事",
+        "onboard_time": 1722050060,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 278087,
+        "num": 278087,
+        "word": "奥林匹克会旗挂反了",
+        "onboard_time": 1722028032,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277714,
+        "num": 277714,
+        "word": "四川男篮选中杨政",
+        "onboard_time": 1722049279,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272946,
+        "num": 272946,
+        "word": "LV到底给了多少钱",
+        "onboard_time": 1722018676,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252677,
+        "num": 252677,
+        "word": "泫雅官宣结婚后首次走机场",
+        "onboard_time": 1722044360,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245259,
+        "num": 245259,
+        "word": "中国队亮相",
+        "onboard_time": 1722013399,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225116,
+        "num": 225116,
+        "word": "马克龙说这就是法国",
+        "onboard_time": 1722041241,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210881,
+        "num": 210881,
+        "word": "马龙采访梁靖崑抢镜",
+        "onboard_time": 1722049460,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207049,
+        "num": 207049,
+        "word": "中国代表团",
+        "onboard_time": 1722050480,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203593,
+        "num": 203593,
+        "word": "樊振东穿雨衣挥国旗",
+        "onboard_time": 1722013276,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201467,
+        "num": 201467,
+        "word": "没有俄罗斯",
+        "onboard_time": 1722024672,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200458,
+        "num": 200458,
+        "word": "央视新闻艾特00后运动员网名",
+        "onboard_time": 1722050060,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198936,
+        "num": 198936,
+        "word": "唐诡西行左手打人右手疼你",
+        "onboard_time": 1722049761,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87891,
+        "num": 197554,
+        "word": "巴黎奥运会",
+        "onboard_time": 1722018796,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196617,
+        "num": 196617,
+        "word": "应届生不要被整顿职场的段子洗脑",
+        "onboard_time": 1722047177,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190920,
+        "num": 190920,
+        "word": "你好星期六全员AI风",
+        "onboard_time": 1722049581,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195308,
+        "num": 190761,
+        "word": "郎平谈女排为何能重返巅峰",
+        "onboard_time": 1722050299,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39968,
+        "num": 190299,
+        "word": "奥运会",
+        "onboard_time": 1721997383,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190225,
+        "num": 190225,
+        "word": "奥运射箭不靠视力靠脸型",
+        "onboard_time": 1722050540,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视和关心体育事业#"
+    }
+  }
+}
