@@ -1,6 +1,6 @@
 {
   "startTime": 1722097426384,
-  "endTime": 1722104766865,
+  "endTime": 1722105484929,
   "band_list": [
     {
       "raw_hot": 9614106,
@@ -155,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 576503,
+      "num": 576503,
+      "word": "我和她",
+      "onboard_time": 1722101777,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 544445,
       "num": 479706,
       "word": "美国网红夫妇生吃生蚝一死一重病",
@@ -192,6 +200,14 @@
       "word": "莎头巴黎开门红",
       "onboard_time": 1722097293,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 487677,
+      "num": 487677,
+      "word": "奥运会游泳",
+      "onboard_time": 1722098365,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -240,14 +256,6 @@
       "word": "张本智和早田希娜开局被打6比0",
       "onboard_time": 1722092843,
       "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 427061,
-      "num": 427061,
-      "word": "奥运会游泳",
-      "onboard_time": 1722098365,
-      "rank": 18,
       "category": "体育"
     },
     {
@@ -344,14 +352,6 @@
       "word": "中国队 松弛感",
       "onboard_time": 1722092123,
       "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 290720,
-      "num": 290720,
-      "word": "我和她",
-      "onboard_time": 1722101777,
-      "rank": 12,
       "category": "体育"
     },
     {
@@ -467,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198911,
+      "num": 198911,
+      "word": "宁泽涛解说",
+      "onboard_time": 1722105133,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191206,
       "num": 191206,
       "word": "许昕预测神了",
@@ -483,8 +491,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165412,
-      "num": 165412,
+      "raw_hot": 168118,
+      "num": 168118,
       "word": "日媒称日本乒乓奥运连冠梦破灭了",
       "onboard_time": 1722101057,
       "rank": 48,
@@ -507,19 +515,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120948,
+      "num": 115832,
+      "word": "邓亚萍跳预言家了",
+      "onboard_time": 1722104594,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118946,
       "num": 698493,
       "word": "盛李豪赛后回应微博名",
       "onboard_time": 1722094166,
       "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 97789,
-      "num": 97789,
-      "word": "邓亚萍跳预言家了",
-      "onboard_time": 1722104594,
-      "rank": 42,
       "category": "体育"
     },
     {
@@ -537,6 +545,14 @@
       "onboard_time": 1722091825,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23647,
+      "num": 388397,
+      "word": "黄雨婷房间里摆满小玩偶",
+      "onboard_time": 1722104954,
+      "rank": 9,
+      "category": "体育"
     }
   ],
   "hotgov_list": [

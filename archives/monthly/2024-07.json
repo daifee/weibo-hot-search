@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1722104766865,
+  "endTime": 1722105484929,
   "band_list": [
     {
       "raw_hot": 16577668,
@@ -13347,6 +13347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 576503,
+      "num": 576503,
+      "word": "我和她",
+      "onboard_time": 1722101777,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 576196,
       "num": 424097,
       "word": "王鹤棣金发回归",
@@ -16731,6 +16739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 487677,
+      "num": 487677,
+      "word": "奥运会游泳",
+      "onboard_time": 1722098365,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 487471,
       "num": 487471,
       "word": "明日方舟",
@@ -19745,14 +19761,6 @@
       "onboard_time": 1720068859,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 427061,
-      "num": 427061,
-      "word": "奥运会游泳",
-      "onboard_time": 1722098365,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 427008,
@@ -27969,14 +27977,6 @@
       "onboard_time": 1721467639,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 290720,
-      "num": 290720,
-      "word": "我和她",
-      "onboard_time": 1722101777,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 290707,
@@ -40731,6 +40731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198911,
+      "num": 198911,
+      "word": "宁泽涛解说",
+      "onboard_time": 1722105133,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198895,
       "num": 198895,
       "word": "王者荣耀10V10预告片",
@@ -49947,6 +49955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168118,
+      "num": 168118,
+      "word": "日媒称日本乒乓奥运连冠梦破灭了",
+      "onboard_time": 1722101057,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168080,
       "num": 168080,
       "word": "连我也是夭玹外人",
@@ -50585,14 +50601,6 @@
       "onboard_time": 1721658565,
       "rank": 47,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 165412,
-      "num": 165412,
-      "word": "日媒称日本乒乓奥运连冠梦破灭了",
-      "onboard_time": 1722101057,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 165383,
@@ -63011,6 +63019,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 120948,
+      "num": 115832,
+      "word": "邓亚萍跳预言家了",
+      "onboard_time": 1722104594,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120855,
       "num": 120855,
       "word": "中国在南海的历史性权利不容否定",
@@ -67721,14 +67737,6 @@
       "onboard_time": 1720609157,
       "rank": 46,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 97789,
-      "num": 97789,
-      "word": "邓亚萍跳预言家了",
-      "onboard_time": 1722104594,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 97777,
@@ -78001,6 +78009,14 @@
       "onboard_time": 1720508718,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23647,
+      "num": 388397,
+      "word": "黄雨婷房间里摆满小玩偶",
+      "onboard_time": 1722104954,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 23620,
