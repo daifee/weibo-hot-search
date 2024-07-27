@@ -1,0 +1,410 @@
+{
+  "runTime": 1722101722659,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2564625,
+        "num": 2564625,
+        "word": "许昕 神秘之师不好惹",
+        "onboard_time": 1722095615,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2541696,
+        "num": 2541696,
+        "word": "张本智和早田希娜爆冷出局",
+        "onboard_time": 1722094480,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72876,
+        "num": 2063416,
+        "word": "中国队首金升国旗奏国歌现场",
+        "onboard_time": 1722085583,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1937145,
+        "num": 1937145,
+        "word": "莎头已看呆",
+        "onboard_time": 1722097230,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1125960,
+        "num": 1125960,
+        "word": "水谷隼 奥运会的魔物啊",
+        "onboard_time": 1722098073,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 982738,
+        "num": 982738,
+        "word": "王楚钦孙颖莎vs阿萨尔梅谢芙",
+        "onboard_time": 1722089603,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 973844,
+        "num": 973844,
+        "word": "张本智和碎了",
+        "onboard_time": 1722096275,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 967255,
+        "num": 967255,
+        "word": "孙一文遭误判",
+        "onboard_time": 1722087681,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 719223,
+        "num": 719223,
+        "word": "隔壁张本智和好吵",
+        "onboard_time": 1722093808,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76739,
+        "num": 698493,
+        "word": "盛李豪赛后回应微博名",
+        "onboard_time": 1722094166,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 694830,
+        "num": 694830,
+        "word": "中国跳水队金牌总数与美国队并列第一",
+        "onboard_time": 1722095615,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 539864,
+        "num": 539864,
+        "word": "乒乓球没有应该",
+        "onboard_time": 1722096327,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 484484,
+        "num": 484484,
+        "word": "朝鲜乒乓 神秘之师",
+        "onboard_time": 1722093927,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 476342,
+        "num": 476342,
+        "word": "中国首金",
+        "onboard_time": 1722072809,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 472124,
+        "num": 472124,
+        "word": "孙颖莎王楚钦晋级8强",
+        "onboard_time": 1722093627,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 427061,
+        "num": 427061,
+        "word": "奥运会游泳",
+        "onboard_time": 1722098365,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 413080,
+        "num": 413080,
+        "word": "王源扯婚纱",
+        "onboard_time": 1722093867,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 401239,
+        "num": 401239,
+        "word": "中国队跳水女双3米板金牌",
+        "onboard_time": 1722073768,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 342888,
+        "num": 342888,
+        "word": "对手给孙颖莎竖大拇指",
+        "onboard_time": 1722098848,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321101,
+        "num": 321101,
+        "word": "相柳角色号清空微博",
+        "onboard_time": 1722090923,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311995,
+        "num": 311995,
+        "word": "美国网红夫妇生吃生蚝一死一重病",
+        "onboard_time": 1722092604,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297766,
+        "num": 297766,
+        "word": "苹果盒",
+        "onboard_time": 1722095025,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281214,
+        "num": 281214,
+        "word": "奥运五环旗挂反了",
+        "onboard_time": 1722056840,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256874,
+        "num": 256874,
+        "word": "日本夺冠大热出局后拒绝握手",
+        "onboard_time": 1722096812,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237751,
+        "num": 237751,
+        "word": "张本智和早田希娜一轮游",
+        "onboard_time": 1722095025,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236801,
+        "num": 236801,
+        "word": "莎头采访",
+        "onboard_time": 1722099262,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230643,
+        "num": 230643,
+        "word": "王楚钦孙颖莎关注日本组合比赛",
+        "onboard_time": 1722097771,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227650,
+        "num": 227650,
+        "word": "迪玛希回应忘关麦克风",
+        "onboard_time": 1722078144,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219929,
+        "num": 219929,
+        "word": "莎头组合奥运会首秀",
+        "onboard_time": 1722093627,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219744,
+        "num": 219744,
+        "word": "日乒教练表情",
+        "onboard_time": 1722097170,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205218,
+        "num": 205218,
+        "word": "郭晶晶 跳水裁判长",
+        "onboard_time": 1722080482,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202011,
+        "num": 202011,
+        "word": "盛李豪得知被叫干饭哥的反应",
+        "onboard_time": 1722092904,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191206,
+        "num": 191206,
+        "word": "许昕预测神了",
+        "onboard_time": 1722099499,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188234,
+        "num": 188234,
+        "word": "陈艺文公主抱吓坏美国队",
+        "onboard_time": 1722087743,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187306,
+        "num": 187306,
+        "word": "虞书欣炒个菜步数第一",
+        "onboard_time": 1722087622,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187245,
+        "num": 187245,
+        "word": "莎头巴黎开门红",
+        "onboard_time": 1722097293,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182032,
+        "num": 182032,
+        "word": "中国队混合团体10米气步枪金牌",
+        "onboard_time": 1722072453,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175858,
+        "num": 175858,
+        "word": "贾乃亮现场观赛激动哭了",
+        "onboard_time": 1722095317,
+        "rank": 37,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 175160,
+        "num": 175160,
+        "word": "阿条姐 干饭哥",
+        "onboard_time": 1722067699,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173956,
+        "num": 173956,
+        "word": "张本智和早田希娜vs李正植金琴英",
+        "onboard_time": 1722093927,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163509,
+        "num": 163509,
+        "word": "陈丽君 梁祝",
+        "onboard_time": 1722095136,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160661,
+        "num": 160661,
+        "word": "朝鲜混双",
+        "onboard_time": 1722094046,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154846,
+        "num": 154846,
+        "word": "何猷君 很感谢王嘉尔",
+        "onboard_time": 1722092783,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135916,
+        "num": 135916,
+        "word": "唐朝诡事录热度",
+        "onboard_time": 1722093748,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95917,
+        "num": 130234,
+        "word": "孙颖莎说和王楚钦搭档是缘分",
+        "onboard_time": 1722086003,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81042,
+        "num": 130193,
+        "word": "乐黛云先生逝世",
+        "onboard_time": 1722091825,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130192,
+        "num": 130192,
+        "word": "孙颖莎正手",
+        "onboard_time": 1722093927,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137000,
+        "num": 129553,
+        "word": "王嘉尔ins回怼网友",
+        "onboard_time": 1722081443,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126544,
+        "num": 126544,
+        "word": "日媒称日本乒乓奥运连冠梦破灭了",
+        "onboard_time": 1722101057,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126449,
+        "num": 126449,
+        "word": "张博恒好稳",
+        "onboard_time": 1722095493,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记感悟体育精神#"
+    }
+  }
+}
