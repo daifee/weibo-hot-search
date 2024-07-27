@@ -1,6 +1,6 @@
 {
   "startTime": 1722011177149,
-  "endTime": 1722050581672,
+  "endTime": 1722051400702,
   "band_list": [
     {
       "raw_hot": 12261931,
@@ -75,12 +75,20 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 2197672,
+      "raw_hot": 2339421,
       "num": 2197672,
       "word": "霸王茶姬免单",
       "onboard_time": 1722049940,
       "rank": 3,
       "category": "美食"
+    },
+    {
+      "raw_hot": 2257289,
+      "num": 2257289,
+      "word": "韩国网友要求法国道歉",
+      "onboard_time": 1722049040,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1892402,
@@ -96,14 +104,6 @@
       "word": "韩国 占C",
       "onboard_time": 1722020534,
       "rank": 16,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1667166,
-      "num": 1667166,
-      "word": "韩国网友要求法国道歉",
-      "onboard_time": 1722049040,
-      "rank": 4,
       "category": "体育"
     },
     {
@@ -267,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 660762,
+      "num": 660762,
+      "word": "巴黎奥运 杰出女性",
+      "onboard_time": 1722020895,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 660170,
       "num": 660170,
       "word": "美国包船",
@@ -281,14 +289,6 @@
       "onboard_time": 1722004826,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 655609,
-      "num": 655609,
-      "word": "巴黎奥运 杰出女性",
-      "onboard_time": 1722020895,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 617120,
@@ -435,20 +435,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 464241,
+      "num": 464241,
+      "word": "HYBE 还我妈生鼻",
+      "onboard_time": 1722047899,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 458165,
       "num": 458165,
       "word": "歌剧魅影",
       "onboard_time": 1722015976,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 449883,
-      "num": 449883,
-      "word": "HYBE 还我妈生鼻",
-      "onboard_time": 1722047899,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 447116,
@@ -619,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 308250,
+      "num": 636711,
+      "word": "美国2名宇航员被困太空超50天",
+      "onboard_time": 1722048921,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 300627,
       "num": 300627,
       "word": "那英回应推荐歌手参加下一季",
@@ -739,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252221,
+      "num": 252221,
+      "word": "贾乃亮奥运开幕式被淋透",
+      "onboard_time": 1722051020,
+      "rank": 32,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 251161,
       "num": 251161,
       "word": "全红婵妈妈把女儿得分记到小数点后",
@@ -843,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224823,
+      "num": 224823,
+      "word": "郎平谈女排为何能重返巅峰",
+      "onboard_time": 1722050299,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220359,
       "num": 220359,
       "word": "137秒回顾巴黎奥运会开幕式亮点",
@@ -868,7 +892,7 @@
     },
     {
       "raw_hot": 213252,
-      "num": 2205493,
+      "num": 2347866,
       "word": "巴黎今天将决出14枚奥运金牌",
       "onboard_time": 1722042201,
       "rank": 43,
@@ -929,14 +953,6 @@
       "onboard_time": 1721999121,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208182,
-      "num": 636711,
-      "word": "美国2名宇航员被困太空超50天",
-      "onboard_time": 1722048921,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 207049,
@@ -1091,11 +1107,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195308,
-      "num": 190761,
-      "word": "郎平谈女排为何能重返巅峰",
-      "onboard_time": 1722050299,
-      "rank": 47,
+      "raw_hot": 195798,
+      "num": 328555,
+      "word": "奥运射箭不靠视力靠脸型",
+      "onboard_time": 1722050540,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -1163,20 +1179,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190225,
-      "num": 190225,
-      "word": "奥运射箭不靠视力靠脸型",
-      "onboard_time": 1722050540,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 190095,
       "num": 190095,
       "word": "鞠婧祎吊带黄背心",
       "onboard_time": 1722010701,
       "rank": 45,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 188072,
+      "num": 188072,
+      "word": "时代少年团hi6大片",
+      "onboard_time": 1722050900,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 187482,
@@ -1217,6 +1233,14 @@
       "onboard_time": 1722018855,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179045,
+      "num": 179045,
+      "word": "魔兽世界崩了",
+      "onboard_time": 1722051380,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 178401,
@@ -1657,6 +1681,9 @@
     },
     {
       "word": "#习近平总书记高度重视和关心体育事业#"
+    },
+    {
+      "word": "#读懂全会决定中的这些名词#"
     }
   ]
 }

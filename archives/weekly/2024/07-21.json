@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1722050581672,
+  "endTime": 1722051400702,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -315,6 +315,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 2339421,
+      "num": 2197672,
+      "word": "霸王茶姬免单",
+      "onboard_time": 1722049940,
+      "rank": 3,
+      "category": "美食"
+    },
+    {
       "raw_hot": 2330012,
       "num": 2330012,
       "word": "汪苏泷 退票",
@@ -345,6 +353,14 @@
       "onboard_time": 1721658264,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2257289,
+      "num": 2257289,
+      "word": "韩国网友要求法国道歉",
+      "onboard_time": 1722049040,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 2244987,
@@ -385,14 +401,6 @@
       "onboard_time": 1721823379,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2197672,
-      "num": 2197672,
-      "word": "霸王茶姬免单",
-      "onboard_time": 1722049940,
-      "rank": 3,
-      "category": "美食"
     },
     {
       "raw_hot": 2183586,
@@ -737,14 +745,6 @@
       "onboard_time": 1721802680,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1667166,
-      "num": 1667166,
-      "word": "韩国网友要求法国道歉",
-      "onboard_time": 1722049040,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 1666443,
@@ -3243,6 +3243,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 660762,
+      "num": 660762,
+      "word": "巴黎奥运 杰出女性",
+      "onboard_time": 1722020895,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 660170,
       "num": 660170,
       "word": "美国包船",
@@ -3289,14 +3297,6 @@
       "onboard_time": 1721693780,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 655609,
-      "num": 655609,
-      "word": "巴黎奥运 杰出女性",
-      "onboard_time": 1722020895,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 654944,
@@ -4795,6 +4795,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 464241,
+      "num": 464241,
+      "word": "HYBE 还我妈生鼻",
+      "onboard_time": 1722047899,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 464142,
       "num": 464142,
       "word": "想贾玲了",
@@ -4992,14 +5000,6 @@
       "word": "阚清子晒未P原图",
       "onboard_time": 1721719819,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 449883,
-      "num": 449883,
-      "word": "HYBE 还我妈生鼻",
-      "onboard_time": 1722047899,
-      "rank": 34,
       "category": "艺人"
     },
     {
@@ -6835,6 +6835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 308250,
+      "num": 636711,
+      "word": "美国2名宇航员被困太空超50天",
+      "onboard_time": 1722048921,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 307254,
       "num": 307254,
       "word": "唐朝诡事录",
@@ -8115,6 +8123,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 252221,
+      "num": 252221,
+      "word": "贾乃亮奥运开幕式被淋透",
+      "onboard_time": 1722051020,
+      "rank": 32,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 251648,
       "num": 251648,
       "word": "全红婵到巴黎说的第一个笑话",
@@ -9163,6 +9179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224823,
+      "num": 224823,
+      "word": "郎平谈女排为何能重返巅峰",
+      "onboard_time": 1722050299,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 224383,
       "num": 224383,
       "word": "2岁女童被生父和女友虐待致死",
@@ -9756,7 +9780,7 @@
     },
     {
       "raw_hot": 213252,
-      "num": 2205493,
+      "num": 2347866,
       "word": "巴黎今天将决出14枚奥运金牌",
       "onboard_time": 1722042201,
       "rank": 43,
@@ -10153,14 +10177,6 @@
       "onboard_time": 1721661143,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 208182,
-      "num": 636711,
-      "word": "美国2名宇航员被困太空超50天",
-      "onboard_time": 1722048921,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 208092,
@@ -11299,6 +11315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195798,
+      "num": 328555,
+      "word": "奥运射箭不靠视力靠脸型",
+      "onboard_time": 1722050540,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195771,
       "num": 195771,
       "word": "看完长相思2产生戒断感",
@@ -11328,14 +11352,6 @@
       "word": "郭士强任中国男篮主教练",
       "onboard_time": 1721529858,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 195308,
-      "num": 190761,
-      "word": "郎平谈女排为何能重返巅峰",
-      "onboard_time": 1722050299,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -11915,14 +11931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190225,
-      "num": 190225,
-      "word": "奥运射箭不靠视力靠脸型",
-      "onboard_time": 1722050540,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 190214,
       "num": 190214,
       "word": "我国载人登月火箭有新突破",
@@ -12152,6 +12160,14 @@
       "word": "宋茜粉丝维权成功",
       "onboard_time": 1721875759,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 188072,
+      "num": 188072,
+      "word": "时代少年团hi6大片",
+      "onboard_time": 1722050900,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -12793,6 +12809,14 @@
       "onboard_time": 1721794819,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179045,
+      "num": 179045,
+      "word": "魔兽世界崩了",
+      "onboard_time": 1722051380,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 178902,
