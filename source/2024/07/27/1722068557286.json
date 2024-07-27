@@ -1,0 +1,410 @@
+{
+  "runTime": 1722068557286,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1508069,
+        "num": 1508069,
+        "word": "巴黎开幕式 争议",
+        "onboard_time": 1722055821,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1260661,
+        "num": 1260661,
+        "word": "巴黎开幕式 真的牛",
+        "onboard_time": 1722022813,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169624,
+        "num": 982046,
+        "word": "巴黎今天将决出14枚奥运金牌",
+        "onboard_time": 1722042201,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 965572,
+        "num": 965572,
+        "word": "宋丹丹回应刘星家可有钱了",
+        "onboard_time": 1722060441,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 777905,
+        "num": 777905,
+        "word": "全红婵跳水都没我下饺子水花大",
+        "onboard_time": 1722051920,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 701695,
+        "num": 701695,
+        "word": "中国00后组合晋级金牌赛",
+        "onboard_time": 1722066499,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 692500,
+        "num": 692500,
+        "word": "国羽巴黎奥运首胜",
+        "onboard_time": 1722064880,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 565675,
+        "num": 565675,
+        "word": "北京中轴线列入世界遗产",
+        "onboard_time": 1722060978,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554965,
+        "num": 554965,
+        "word": "国际奥委会向韩国道歉",
+        "onboard_time": 1722051500,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146879,
+        "num": 553073,
+        "word": "央视曝光低价代订酒店骗局",
+        "onboard_time": 1722061701,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5297713,
+        "num": 553069,
+        "word": "奥运五环旗挂反了",
+        "onboard_time": 1722056840,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 642382,
+        "num": 553067,
+        "word": "何猷君奚梦瑶拥吻照",
+        "onboard_time": 1722062420,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 553064,
+        "num": 553064,
+        "word": "香缇莫回应被淘汰",
+        "onboard_time": 1722063260,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 511903,
+        "num": 511903,
+        "word": "阿条姐 干饭哥",
+        "onboard_time": 1722067699,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24648,
+        "num": 490537,
+        "word": "中国父母为什么总想让孩子吃苦",
+        "onboard_time": 1722068118,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485778,
+        "num": 485778,
+        "word": "东航回应全机乘客陪等外国人登机",
+        "onboard_time": 1722059422,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480187,
+        "num": 480187,
+        "word": "巴黎奥运最伟大最震撼的环节",
+        "onboard_time": 1722057140,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 474005,
+        "num": 474005,
+        "word": "奥运会射击",
+        "onboard_time": 1722066859,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 435402,
+        "num": 435402,
+        "word": "射击混合团体10米气步枪",
+        "onboard_time": 1722059899,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 399981,
+        "num": 399981,
+        "word": "巴黎奥运会男女比例1比1",
+        "onboard_time": 1722058161,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 453711,
+        "num": 398158,
+        "word": "董宇辉分手费实为3.58亿",
+        "onboard_time": 1722065119,
+        "rank": 20,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 382127,
+        "num": 382127,
+        "word": "韩国 占C",
+        "onboard_time": 1722020534,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373777,
+        "num": 373777,
+        "word": "法媒把韩国国旗搞错了",
+        "onboard_time": 1722067400,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 362553,
+        "num": 362553,
+        "word": "一个27岁的研究生轻轻的碎了",
+        "onboard_time": 1722054742,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 323359,
+        "num": 323359,
+        "word": "梁伟铿王昶vs董星宇矢仓尼",
+        "onboard_time": 1722066379,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313635,
+        "num": 313635,
+        "word": "杨紫沈梦辰合照",
+        "onboard_time": 1722063859,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291976,
+        "num": 291976,
+        "word": "贾玲 哪有那么多闪电",
+        "onboard_time": 1722056660,
+        "rank": 26,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 280067,
+        "num": 280067,
+        "word": "2024ChinaJoy",
+        "onboard_time": 1722067758,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 270082,
+        "num": 270082,
+        "word": "易烊千玺单依纯唱尔滨的雪",
+        "onboard_time": 1722063200,
+        "rank": 28,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 261420,
+        "num": 261420,
+        "word": "凤凰组合开门红",
+        "onboard_time": 1722065779,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256915,
+        "num": 256915,
+        "word": "那英说我敢接受冠军负评",
+        "onboard_time": 1722052459,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244700,
+        "num": 244700,
+        "word": "巴黎开幕式 多元化",
+        "onboard_time": 1722056961,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244602,
+        "num": 244602,
+        "word": "莎头首秀",
+        "onboard_time": 1722067159,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222035,
+        "num": 222035,
+        "word": "韩国三大代表之一是防弹少年团",
+        "onboard_time": 1722059119,
+        "rank": 33,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 214934,
+        "num": 214934,
+        "word": "南工大35名研究生被退学",
+        "onboard_time": 1722067999,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 228004,
+        "num": 214692,
+        "word": "那英曾与黄宣交换出场顺序",
+        "onboard_time": 1722063200,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214371,
+        "num": 214371,
+        "word": "射击队比完赛一看微博天都塌了",
+        "onboard_time": 1722066919,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213956,
+        "num": 213956,
+        "word": "巴黎奥运 杰出女性",
+        "onboard_time": 1722020895,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208294,
+        "num": 208294,
+        "word": "浙B开车去巴黎",
+        "onboard_time": 1722062960,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197999,
+        "num": 197999,
+        "word": "射击男子10米气手枪",
+        "onboard_time": 1722067039,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193824,
+        "num": 193824,
+        "word": "冯彦哲黄东萍2比0邱恺翔珍妮盖",
+        "onboard_time": 1722065899,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193599,
+        "num": 193599,
+        "word": "开幕式钢琴着火",
+        "onboard_time": 1722067880,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188401,
+        "num": 188401,
+        "word": "TF三代登陆日二公海报",
+        "onboard_time": 1722067819,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184895,
+        "num": 184895,
+        "word": "马龙在巴黎到处被人要合影",
+        "onboard_time": 1722062242,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183408,
+        "num": 183408,
+        "word": "女子提前3分钟敲门办事惹怒交警",
+        "onboard_time": 1722054919,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173880,
+        "num": 173880,
+        "word": "巴黎奥运开幕式",
+        "onboard_time": 1722002904,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168896,
+        "num": 168896,
+        "word": "大叔就这么水灵灵的变成甜妹了",
+        "onboard_time": 1722068540,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 51232,
+        "num": 166549,
+        "word": "在办公室见证了一场吉尼斯纪录诞生",
+        "onboard_time": 1722068419,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165484,
+        "num": 165484,
+        "word": "仙侠剧男女主终于都长嘴了",
+        "onboard_time": 1722054801,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165108,
+        "num": 165108,
+        "word": "王星越上班骑摩托",
+        "onboard_time": 1722067039,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂全会决定中的这些名词#"
+    }
+  }
+}
