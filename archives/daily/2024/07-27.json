@@ -1,6 +1,6 @@
 {
   "startTime": 1722011177149,
-  "endTime": 1722087267061,
+  "endTime": 1722089857324,
   "band_list": [
     {
       "raw_hot": 16577668,
@@ -48,6 +48,14 @@
       "word": "巴黎奥运开幕式",
       "onboard_time": 1722002904,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 5714398,
+      "num": 5714398,
+      "word": "孙一文遭误判",
+      "onboard_time": 1722087681,
+      "rank": 0,
       "category": "体育"
     },
     {
@@ -379,6 +387,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1052125,
+      "num": 1052125,
+      "word": "王楚钦孙颖莎vs阿萨尔梅谢芙",
+      "onboard_time": 1722089603,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1039213,
+      "num": 1039213,
+      "word": "孙颖莎说和王楚钦搭档是缘分",
+      "onboard_time": 1722086003,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1013273,
       "num": 1013273,
       "word": "歌手回应质疑",
@@ -424,6 +448,14 @@
       "word": "游泳预赛",
       "onboard_time": 1722075564,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 922025,
+      "num": 922025,
+      "word": "羽毛球女双",
+      "onboard_time": 1722086602,
+      "rank": 13,
       "category": "体育"
     },
     {
@@ -563,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 767172,
+      "num": 767172,
+      "word": "中信建投称不存在协助财务造假",
+      "onboard_time": 1722084683,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 765973,
       "num": 765973,
       "word": "巴黎奥运 杰出女性",
@@ -603,20 +643,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 714887,
+      "num": 714887,
+      "word": "牛骏峰 见证金牌的诞生真的太激动了",
+      "onboard_time": 1722086244,
+      "rank": 49,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 709998,
       "num": 709998,
       "word": "盛李豪说比赛太刺激了",
       "onboard_time": 1722074666,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 701719,
-      "num": 753248,
-      "word": "中信建投称不存在协助财务造假",
-      "onboard_time": 1722084683,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 692500,
@@ -691,14 +731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 616676,
-      "num": 616676,
-      "word": "羽毛球女双",
-      "onboard_time": 1722086602,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 610641,
       "num": 610641,
       "word": "陈艺文昌雅妮好甜",
@@ -739,14 +771,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 592995,
-      "num": 592995,
-      "word": "孙颖莎说和王楚钦搭档是缘分",
-      "onboard_time": 1722086003,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 591028,
       "num": 461436,
       "word": "少一个孙子这个生日都过不成",
@@ -776,6 +800,22 @@
       "word": "中国队镜头呢",
       "onboard_time": 1722018196,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 578196,
+      "num": 578196,
+      "word": "虞书欣炒个菜步数第一",
+      "onboard_time": 1722087622,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 559388,
+      "num": 481028,
+      "word": "原来黄雨婷也是禾伙人",
+      "onboard_time": 1722085884,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -921,6 +961,14 @@
       "onboard_time": 1722069560,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 482414,
+      "num": 482414,
+      "word": "陈艺文公主抱吓坏美国队",
+      "onboard_time": 1722087743,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 476356,
@@ -1131,14 +1179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 382962,
-      "num": 382962,
-      "word": "原来黄雨婷也是禾伙人",
-      "onboard_time": 1722085884,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 380389,
       "num": 380389,
       "word": "韩国三大代表之一是防弹少年团",
@@ -1160,6 +1200,14 @@
       "word": "LV到底给了多少钱",
       "onboard_time": 1722018676,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 368416,
+      "num": 368416,
+      "word": "黄雨婷的发卡是自己做的",
+      "onboard_time": 1722084923,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -1243,20 +1291,20 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 342272,
+      "num": 342272,
+      "word": "翔霖",
+      "onboard_time": 1722088462,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 336732,
       "num": 880973,
       "word": "官方通报民警午休被吵醒态度生硬",
       "onboard_time": 1722052701,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 336460,
-      "num": 336460,
-      "word": "牛骏峰 见证金牌的诞生真的太激动了",
-      "onboard_time": 1722086244,
-      "rank": 49,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 335104,
@@ -1371,6 +1419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 304848,
+      "num": 304848,
+      "word": "散装江苏争夺盛李豪",
+      "onboard_time": 1722089062,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 304383,
       "num": 304383,
       "word": "奥运会直播",
@@ -1441,6 +1497,14 @@
       "onboard_time": 1722056480,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 288769,
+      "num": 288769,
+      "word": "张艺兴蓝色碎盖短发",
+      "onboard_time": 1722088402,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 288189,
@@ -1539,6 +1603,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 278845,
+      "num": 278845,
+      "word": "坐等王楚钦孙颖莎",
+      "onboard_time": 1722088281,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 278751,
+      "num": 278751,
+      "word": "上万人都在搜黄雨婷同款发卡",
+      "onboard_time": 1722088762,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 278747,
       "num": 278747,
       "word": "微博实时 开幕式弹幕",
@@ -1633,6 +1713,14 @@
       "onboard_time": 1722063200,
       "rank": 35,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 269663,
+      "num": 269663,
+      "word": "王源来郑州开巡演的原因",
+      "onboard_time": 1722088281,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 269638,
@@ -1835,6 +1923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238296,
+      "num": 238296,
+      "word": "苏炳添说埃菲尔铁塔有点小",
+      "onboard_time": 1722088582,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 236707,
       "num": 236707,
       "word": "盛李豪气步枪上贴着亚运会吉祥物",
@@ -1891,6 +1987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230154,
+      "num": 230154,
+      "word": "郎平把1号球衣送黄雨婷盛李豪",
+      "onboard_time": 1722088042,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229558,
       "num": 229558,
       "word": "悲惨世界",
@@ -1915,12 +2019,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 226151,
-      "num": 226151,
-      "word": "黄雨婷的发卡是自己做的",
-      "onboard_time": 1722084923,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 227595,
+      "num": 613567,
+      "word": "中信建投回应实习生视频事件",
+      "onboard_time": 1722088101,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225712,
@@ -2003,6 +2107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 218867,
+      "num": 218867,
+      "word": "中国游泳队凌晨冲金",
+      "onboard_time": 1722088522,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218238,
       "num": 218238,
       "word": "雨淋钢琴 火烧钢琴",
@@ -2080,6 +2192,14 @@
       "word": "中国代表团出发了",
       "onboard_time": 1722012317,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 209764,
+      "num": 209764,
+      "word": "10米气步枪运动员其实看不清靶心在哪",
+      "onboard_time": 1722088402,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -2795,6 +2915,14 @@
       "category": "互联网,体育"
     },
     {
+      "raw_hot": 152930,
+      "num": 566418,
+      "word": "LV老花托盘",
+      "onboard_time": 1722085522,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151573,
       "num": 151573,
       "word": "巴勒斯坦代表团",
@@ -3105,14 +3233,6 @@
       "onboard_time": 1722063620,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65614,
-      "num": 501044,
-      "word": "LV老花托盘",
-      "onboard_time": 1722085522,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 63291,
