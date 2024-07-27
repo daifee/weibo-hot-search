@@ -1,6 +1,6 @@
 {
   "startTime": 1722011177149,
-  "endTime": 1722044956403,
+  "endTime": 1722047738736,
   "band_list": [
     {
       "raw_hot": 12261931,
@@ -57,6 +57,14 @@
       "onboard_time": 1722013399,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2764132,
+      "num": 2764132,
+      "word": "迪玛希忘记关麦克风",
+      "onboard_time": 1722044600,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 2408916,
@@ -283,8 +291,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 595290,
-      "num": 595290,
+      "raw_hot": 600012,
+      "num": 600012,
       "word": "罗拉 但我真的已经累了",
       "onboard_time": 1722042140,
       "rank": 19,
@@ -419,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 447116,
+      "num": 757885,
+      "word": "对话中信建投实习生",
+      "onboard_time": 1722043700,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 428681,
       "num": 428681,
       "word": "巴黎奥运正式开幕",
@@ -467,14 +483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 397749,
-      "num": 397749,
-      "word": "迪玛希忘记关麦克风",
-      "onboard_time": 1722044600,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 395546,
       "num": 395546,
       "word": "全红婵正经历发育期考验",
@@ -504,6 +512,14 @@
       "word": "奥运会 入场穿插表演",
       "onboard_time": 1722017237,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 346668,
+      "num": 346668,
+      "word": "马克龙说这就是法国",
+      "onboard_time": 1722041241,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -547,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 316219,
+      "num": 316219,
+      "word": "泫雅官宣结婚后首次走机场",
+      "onboard_time": 1722044360,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310433,
       "num": 310433,
       "word": "开幕式镜头比我的人生还混乱",
@@ -561,6 +585,14 @@
       "onboard_time": 1722000326,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 298459,
+      "num": 298459,
+      "word": "韩国一奥运射箭冠军视力仅0.1",
+      "onboard_time": 1722046220,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 294000,
@@ -600,14 +632,6 @@
       "word": "微博实时 开幕式弹幕",
       "onboard_time": 1722020294,
       "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 277504,
-      "num": 277504,
-      "word": "马克龙说这就是法国",
-      "onboard_time": 1722041241,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -691,14 +715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 239340,
-      "num": 239340,
-      "word": "泫雅官宣结婚后首次走机场",
-      "onboard_time": 1722044360,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 239007,
       "num": 248757,
       "word": "中国代表团预计第41个入场",
@@ -739,6 +755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225625,
+      "num": 225625,
+      "word": "虞书欣胡一天好嗑",
+      "onboard_time": 1722044181,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224904,
       "num": 224904,
       "word": "火炬台是热气球",
@@ -753,6 +777,14 @@
       "onboard_time": 1721975300,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220359,
+      "num": 220359,
+      "word": "137秒回顾巴黎奥运会开幕式亮点",
+      "onboard_time": 1722047119,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 218238,
@@ -795,12 +827,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211728,
-      "num": 211728,
-      "word": "虞书欣胡一天好嗑",
-      "onboard_time": 1722044181,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 211801,
+      "num": 211801,
+      "word": "詹姆斯世界名画",
+      "onboard_time": 1722045260,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 210234,
@@ -817,6 +849,14 @@
       "onboard_time": 1721999121,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207044,
+      "num": 301730,
+      "word": "纪念抗美援朝战争胜利71周年",
+      "onboard_time": 1722045681,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 206098,
@@ -851,11 +891,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202961,
+      "num": 202961,
+      "word": "读书真的会影响潜意识",
+      "onboard_time": 1722047119,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200907,
       "num": 200907,
       "word": "马龙挥舞国旗",
       "onboard_time": 1722017835,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 200073,
+      "num": 200073,
+      "word": "巴黎今天将决出14枚奥运金牌",
+      "onboard_time": 1722042201,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -907,14 +963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196284,
-      "num": 757885,
-      "word": "对话中信建投实习生",
-      "onboard_time": 1722043700,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 195887,
       "num": 195887,
       "word": "巴黎开幕式 艺术多元性",
@@ -947,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193693,
+      "num": 193693,
+      "word": "应届生不要被整顿职场的段子洗脑",
+      "onboard_time": 1722047177,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192686,
       "num": 192686,
       "word": "中国队旗手马龙冯雨",
@@ -968,6 +1024,14 @@
       "word": "巴黎开幕式现北京奥运五环",
       "onboard_time": 1722017055,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 190995,
+      "num": 190995,
+      "word": "尼格买提录的奥运加油视频好燃",
+      "onboard_time": 1722046881,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -1275,6 +1339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110719,
+      "num": 756971,
+      "word": "我们的开幕式",
+      "onboard_time": 1722042260,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106898,
       "num": 3720770,
       "word": "闪耀奥运赛场的中国骄傲",
@@ -1313,6 +1385,14 @@
       "onboard_time": 1722007882,
       "rank": 9,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 90945,
+      "num": 419483,
+      "word": "10座镀金雕像致敬女性力量",
+      "onboard_time": 1722047540,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 89478,
@@ -1355,12 +1435,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 61783,
-      "num": 756971,
-      "word": "我们的开幕式",
-      "onboard_time": 1722042260,
-      "rank": 28,
-      "category": "体育"
+      "raw_hot": 52376,
+      "num": 426049,
+      "word": "永劫光遇等千款游戏推出鸿蒙版",
+      "onboard_time": 1722046039,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 45942,
@@ -1385,6 +1465,14 @@
       "onboard_time": 1722024313,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30232,
+      "num": 674995,
+      "word": "贾玲说不服输的人就是冠军",
+      "onboard_time": 1722045921,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 27213,
