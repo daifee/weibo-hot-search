@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/07/27 22:17:37
+本榜单时间：2024/01/01 00:21:05 ~ 2024/07/27 22:34:16
 </p>
 </blockquote>
 <p>
@@ -107,6 +107,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%A6%E5%A3%B0%E6%98%8E%23" target="weibo">
 中国人民大学声明（热度：13754550）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%B8%80%E6%96%87%E9%81%AD%E8%AF%AF%E5%88%A4%23" target="weibo">
+孙一文遭误判（热度：13601097）
 </a>
 </li>
 
@@ -1043,12 +1049,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%8D%E5%8E%BB%E7%A7%A6%E5%88%9A%E5%90%8C%E5%BF%97%E4%B8%AD%E5%A4%AE%E5%A7%94%E5%91%98%E4%BC%9A%E5%A7%94%E5%91%98%E8%81%8C%E5%8A%A1%23" target="weibo">
 免去秦刚同志中央委员会委员职务（热度：5737660）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%B8%80%E6%96%87%E9%81%AD%E8%AF%AF%E5%88%A4%23" target="weibo">
-孙一文遭误判（热度：5714398）
 </a>
 </li>
 
