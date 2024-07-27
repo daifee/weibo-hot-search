@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1722043335786,
+  "endTime": 1722044956403,
   "band_list": [
     {
       "raw_hot": 13754550,
@@ -683,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1734528,
+      "num": 1254680,
+      "word": "韩国 占C",
+      "onboard_time": 1722020534,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1726827,
       "num": 598161,
       "word": "张磊秒了海来阿木",
@@ -867,14 +875,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1533335,
-      "num": 1254680,
-      "word": "韩国 占C",
-      "onboard_time": 1722020534,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1530617,
       "num": 1246949,
       "word": "歌王之战帮唱阵容官宣",
@@ -937,6 +937,14 @@
       "onboard_time": 1721727021,
       "rank": 37,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1485811,
+      "num": 1485811,
+      "word": "蒙娜丽莎被小黄人偷走了",
+      "onboard_time": 1722020475,
+      "rank": 5,
+      "category": "体育,电影"
     },
     {
       "raw_hot": 1458611,
@@ -1161,14 +1169,6 @@
       "onboard_time": 1721955861,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1304949,
-      "num": 1304949,
-      "word": "蒙娜丽莎被小黄人偷走了",
-      "onboard_time": 1722020475,
-      "rank": 5,
-      "category": "体育,电影"
     },
     {
       "raw_hot": 1286988,
@@ -2651,6 +2651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 756726,
+      "num": 756726,
+      "word": "那英得知自己是歌王那一刻表情",
+      "onboard_time": 1722039321,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 755523,
       "num": 755523,
       "word": "韩总 夫人终于嫁给你了",
@@ -3379,14 +3387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 628932,
-      "num": 628932,
-      "word": "那英得知自己是歌王那一刻表情",
-      "onboard_time": 1722039321,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 628672,
       "num": 628672,
       "word": "韩国女子遭性侵21年后反杀加害者",
@@ -3497,6 +3497,14 @@
       "onboard_time": 1721906541,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 617120,
+      "num": 617120,
+      "word": "外国人没上机全机乘客等3.5小时",
+      "onboard_time": 1722040582,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 612135,
@@ -3625,6 +3633,14 @@
       "onboard_time": 1721786780,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 595290,
+      "num": 595290,
+      "word": "罗拉 但我真的已经累了",
+      "onboard_time": 1722042140,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 594622,
@@ -4731,6 +4747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 466589,
+      "num": 466589,
+      "word": "中国台北",
+      "onboard_time": 1722024553,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 466287,
       "num": 461919,
       "word": "特朗普公开巴勒斯坦总统来信",
@@ -4937,14 +4961,6 @@
       "onboard_time": 1721704340,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 450687,
-      "num": 450687,
-      "word": "罗拉 但我真的已经累了",
-      "onboard_time": 1722042140,
-      "rank": 19,
-      "category": "网红"
     },
     {
       "raw_hot": 450436,
@@ -5187,6 +5203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 427008,
+      "num": 427008,
+      "word": "蒲熠星 难听",
+      "onboard_time": 1722038600,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 425262,
       "num": 281525,
       "word": "张大大下周公布谁谈恋爱了",
@@ -5275,14 +5299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 419047,
-      "num": 419047,
-      "word": "外国人没上机全机乘客等3.5小时",
-      "onboard_time": 1722040582,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 418874,
       "num": 338728,
       "word": "气血不足就要多出去玩",
@@ -5313,14 +5329,6 @@
       "onboard_time": 1721976919,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 415585,
-      "num": 415585,
-      "word": "蒲熠星 难听",
-      "onboard_time": 1722038600,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 414540,
@@ -5361,14 +5369,6 @@
       "onboard_time": 1721908460,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 409383,
-      "num": 409383,
-      "word": "中国台北",
-      "onboard_time": 1722024553,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 408319,
@@ -5521,6 +5521,14 @@
       "onboard_time": 1721821639,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 397749,
+      "num": 397749,
+      "word": "迪玛希忘记关麦克风",
+      "onboard_time": 1722044600,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 397256,
@@ -5707,6 +5715,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 375078,
+      "num": 375078,
+      "word": "LV到底给了多少钱",
+      "onboard_time": 1722018676,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 374834,
       "num": 374834,
       "word": "卢昱晓妈妈担心女儿因为工作不结婚",
@@ -5857,14 +5873,6 @@
       "onboard_time": 1721699359,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 367321,
-      "num": 367321,
-      "word": "LV到底给了多少钱",
-      "onboard_time": 1722018676,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 367320,
@@ -7435,6 +7443,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277504,
+      "num": 277504,
+      "word": "马克龙说这就是法国",
+      "onboard_time": 1722041241,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 276788,
+      "num": 276788,
+      "word": "林依轮举孙颖莎签名手幅打call",
+      "onboard_time": 1722043581,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 276604,
       "num": 276604,
       "word": "周深TMEA年度男歌手",
@@ -8435,6 +8459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 239340,
+      "num": 239340,
+      "word": "泫雅官宣结婚后首次走机场",
+      "onboard_time": 1722044360,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239199,
       "num": 239199,
       "word": "十个勤天演唱会舞台事故",
@@ -8833,6 +8865,14 @@
       "onboard_time": 1721880381,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 228130,
+      "num": 228130,
+      "word": "小黄人居然是法国的",
+      "onboard_time": 1722044121,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 228095,
@@ -9787,6 +9827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 211728,
+      "num": 211728,
+      "word": "虞书欣胡一天好嗑",
+      "onboard_time": 1722044181,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211541,
       "num": 325070,
       "word": "甘肃暴雨致河水暴涨冲垮桥梁",
@@ -10235,6 +10283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204732,
+      "num": 204732,
+      "word": "巴黎奥运开幕式点火",
+      "onboard_time": 1722043641,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204591,
       "num": 204591,
       "word": "买了个最老实的狗后面发现是装的",
@@ -10601,6 +10657,14 @@
       "onboard_time": 1721715681,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199995,
+      "num": 199995,
+      "word": "开幕式的意义",
+      "onboard_time": 1722044121,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 199988,
@@ -10995,14 +11059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197022,
-      "num": 197022,
-      "word": "马克龙说这就是法国",
-      "onboard_time": 1722041241,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 196945,
       "num": 211830,
       "word": "巴黎奥运助威曲龙腾",
@@ -11057,6 +11113,14 @@
       "onboard_time": 1721898021,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 196284,
+      "num": 757885,
+      "word": "对话中信建投实习生",
+      "onboard_time": 1722043700,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196220,
@@ -17596,7 +17660,7 @@
     },
     {
       "raw_hot": 61783,
-      "num": 321167,
+      "num": 756971,
       "word": "我们的开幕式",
       "onboard_time": 1722042260,
       "rank": 28,

@@ -1,6 +1,6 @@
 {
   "startTime": 1722011177149,
-  "endTime": 1722043335786,
+  "endTime": 1722044956403,
   "band_list": [
     {
       "raw_hot": 12261931,
@@ -75,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1734528,
+      "num": 1254680,
+      "word": "韩国 占C",
+      "onboard_time": 1722020534,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1592994,
       "num": 1592994,
       "word": "LadyGaga像火烈鸟一样窜出来",
@@ -91,12 +99,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1533335,
-      "num": 1254680,
-      "word": "韩国 占C",
-      "onboard_time": 1722020534,
-      "rank": 16,
-      "category": "体育"
+      "raw_hot": 1485811,
+      "num": 1485811,
+      "word": "蒙娜丽莎被小黄人偷走了",
+      "onboard_time": 1722020475,
+      "rank": 5,
+      "category": "体育,电影"
     },
     {
       "raw_hot": 1436163,
@@ -105,14 +113,6 @@
       "onboard_time": 1722017417,
       "rank": 7,
       "category": "体育,游戏"
-    },
-    {
-      "raw_hot": 1304949,
-      "num": 1304949,
-      "word": "蒙娜丽莎被小黄人偷走了",
-      "onboard_time": 1722020475,
-      "rank": 5,
-      "category": "体育,电影"
     },
     {
       "raw_hot": 1202181,
@@ -203,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 756726,
+      "num": 756726,
+      "word": "那英得知自己是歌王那一刻表情",
+      "onboard_time": 1722039321,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 750101,
       "num": 750101,
       "word": "开幕式上小黄人突然出现",
@@ -259,12 +267,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 628932,
-      "num": 628932,
-      "word": "那英得知自己是歌王那一刻表情",
-      "onboard_time": 1722039321,
-      "rank": 11,
-      "category": "综艺"
+      "raw_hot": 617120,
+      "num": 617120,
+      "word": "外国人没上机全机乘客等3.5小时",
+      "onboard_time": 1722040582,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 600903,
@@ -273,6 +281,14 @@
       "onboard_time": 1722012259,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 595290,
+      "num": 595290,
+      "word": "罗拉 但我真的已经累了",
+      "onboard_time": 1722042140,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 584606,
@@ -387,20 +403,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 466589,
+      "num": 466589,
+      "word": "中国台北",
+      "onboard_time": 1722024553,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 458165,
       "num": 458165,
       "word": "歌剧魅影",
       "onboard_time": 1722015976,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 450687,
-      "num": 450687,
-      "word": "罗拉 但我真的已经累了",
-      "onboard_time": 1722042140,
-      "rank": 19,
-      "category": "网红"
     },
     {
       "raw_hot": 428681,
@@ -419,6 +435,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 427008,
+      "num": 427008,
+      "word": "蒲熠星 难听",
+      "onboard_time": 1722038600,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 420088,
       "num": 420088,
       "word": "巴黎奥运会把韩国念成朝鲜",
@@ -435,36 +459,20 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 419047,
-      "num": 419047,
-      "word": "外国人没上机全机乘客等3.5小时",
-      "onboard_time": 1722040582,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 415585,
-      "num": 415585,
-      "word": "蒲熠星 难听",
-      "onboard_time": 1722038600,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 409383,
-      "num": 409383,
-      "word": "中国台北",
-      "onboard_time": 1722024553,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 406282,
       "num": 406282,
       "word": "中国队将乘坐16号船亮相开幕式",
       "onboard_time": 1722009980,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 397749,
+      "num": 397749,
+      "word": "迪玛希忘记关麦克风",
+      "onboard_time": 1722044600,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 395546,
@@ -483,8 +491,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 367321,
-      "num": 367321,
+      "raw_hot": 375078,
+      "num": 375078,
       "word": "LV到底给了多少钱",
       "onboard_time": 1722018676,
       "rank": 20,
@@ -595,6 +603,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 277504,
+      "num": 277504,
+      "word": "马克龙说这就是法国",
+      "onboard_time": 1722041241,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 276788,
+      "num": 276788,
+      "word": "林依轮举孙颖莎签名手幅打call",
+      "onboard_time": 1722043581,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 273810,
       "num": 273810,
       "word": "巴黎奥运最伟大最震撼的环节",
@@ -667,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 239340,
+      "num": 239340,
+      "word": "泫雅官宣结婚后首次走机场",
+      "onboard_time": 1722044360,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239007,
       "num": 248757,
       "word": "中国代表团预计第41个入场",
@@ -689,6 +721,14 @@
       "onboard_time": 1722018855,
       "rank": 30,
       "category": "体育,读书作家"
+    },
+    {
+      "raw_hot": 228130,
+      "num": 228130,
+      "word": "小黄人居然是法国的",
+      "onboard_time": 1722044121,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 225712,
@@ -755,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211728,
+      "num": 211728,
+      "word": "虞书欣胡一天好嗑",
+      "onboard_time": 1722044181,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210234,
       "num": 210234,
       "word": "中国代表团出发了",
@@ -787,6 +835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204732,
+      "num": 204732,
+      "word": "巴黎奥运开幕式点火",
+      "onboard_time": 1722043641,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203011,
       "num": 203011,
       "word": "蒙娜丽莎又被偷了",
@@ -809,6 +865,14 @@
       "onboard_time": 1722001223,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 199995,
+      "num": 199995,
+      "word": "开幕式的意义",
+      "onboard_time": 1722044121,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 199969,
@@ -835,20 +899,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197022,
-      "num": 197022,
-      "word": "马克龙说这就是法国",
-      "onboard_time": 1722041241,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 196391,
       "num": 191864,
       "word": "D社记者吐槽中恩静",
       "onboard_time": 1722007282,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196284,
+      "num": 757885,
+      "word": "对话中信建投实习生",
+      "onboard_time": 1722043700,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195887,
@@ -1228,7 +1292,7 @@
     },
     {
       "raw_hot": 101264,
-      "num": 196213,
+      "num": 199425,
       "word": "奥运会",
       "onboard_time": 1721997383,
       "rank": 49,
@@ -1292,7 +1356,7 @@
     },
     {
       "raw_hot": 61783,
-      "num": 321167,
+      "num": 756971,
       "word": "我们的开幕式",
       "onboard_time": 1722042260,
       "rank": 28,
