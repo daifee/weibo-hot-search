@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1722072872355,
+  "endTime": 1722075585937,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 16577668,
-      "num": 4930971,
+      "num": 5796890,
       "word": "射击混合团体10米气步枪",
       "onboard_time": 1722059899,
       "rank": 47,
@@ -243,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 11976288,
+      "num": 11855012,
+      "word": "中国队跳水女双3米板金牌",
+      "onboard_time": 1722073768,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 11732343,
       "num": 11732343,
       "word": "退休",
@@ -273,6 +281,14 @@
       "onboard_time": 1720919238,
       "rank": 1,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 11305852,
+      "num": 11934978,
+      "word": "中国队混合团体10米气步枪金牌",
+      "onboard_time": 1722072453,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 11274014,
@@ -1435,6 +1451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 5347883,
+      "num": 5347883,
+      "word": "中国首金",
+      "onboard_time": 1722072809,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 5347676,
       "num": 5347676,
       "word": "泰国vs新加坡",
@@ -2377,30 +2401,6 @@
       "onboard_time": 1706176892,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 3572733,
-      "num": 3572733,
-      "word": "难怪玲子这次不来了",
-      "onboard_time": 1705212030,
-      "rank": 10,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 3566728,
-      "num": 1000208,
-      "word": "女教师丈夫",
-      "onboard_time": 1708354120,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3562153,
-      "num": 3562153,
-      "word": "李闽轩回应",
-      "onboard_time": 1713879380,
-      "rank": 0,
-      "category": "网红"
     }
   ],
   "hotgov_list": [

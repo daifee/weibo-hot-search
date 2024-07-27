@@ -1,10 +1,10 @@
 {
   "startTime": 1722011177149,
-  "endTime": 1722072872355,
+  "endTime": 1722075585937,
   "band_list": [
     {
       "raw_hot": 16577668,
-      "num": 4930971,
+      "num": 5796890,
       "word": "射击混合团体10米气步枪",
       "onboard_time": 1722059899,
       "rank": 47,
@@ -16,6 +16,22 @@
       "word": "巴黎开幕式 真的牛",
       "onboard_time": 1722022813,
       "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 11976288,
+      "num": 11855012,
+      "word": "中国队跳水女双3米板金牌",
+      "onboard_time": 1722073768,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 11305852,
+      "num": 11934978,
+      "word": "中国队混合团体10米气步枪金牌",
+      "onboard_time": 1722072453,
+      "rank": 0,
       "category": "体育"
     },
     {
@@ -41,6 +57,14 @@
       "onboard_time": 1722004584,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 5347883,
+      "num": 5347883,
+      "word": "中国首金",
+      "onboard_time": 1722072809,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 4749535,
@@ -83,14 +107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 3108615,
-      "num": 3108615,
-      "word": "中国队混合团体10米气步枪金牌",
-      "onboard_time": 1722072453,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
       "raw_hot": 2957725,
       "num": 2957725,
       "word": "迪玛希忘记关麦克风",
@@ -103,6 +119,14 @@
       "num": 2839170,
       "word": "阿条姐 干饭哥",
       "onboard_time": 1722067699,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2816209,
+      "num": 2816209,
+      "word": "黄雨婷发卡好可爱",
+      "onboard_time": 1722071239,
       "rank": 13,
       "category": "体育"
     },
@@ -139,14 +163,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 2302683,
-      "num": 2302683,
-      "word": "黄雨婷发卡好可爱",
-      "onboard_time": 1722071239,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 2258786,
       "num": 2258786,
       "word": "巴黎开幕式 争议",
@@ -171,11 +187,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1743827,
+      "num": 1743827,
+      "word": "光靠干饭就拿金牌了",
+      "onboard_time": 1722073589,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1734528,
       "num": 1254680,
       "word": "韩国 占C",
       "onboard_time": 1722020534,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1660151,
+      "num": 1660151,
+      "word": "中国队1小时连夺2金",
+      "onboard_time": 1722074189,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -217,6 +249,14 @@
       "onboard_time": 1722017417,
       "rank": 7,
       "category": "体育,游戏"
+    },
+    {
+      "raw_hot": 1392098,
+      "num": 1392098,
+      "word": "杨倩解说",
+      "onboard_time": 1722071359,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 1249787,
@@ -280,14 +320,6 @@
       "word": "国际兴奋剂检测组织回应中国游泳队药检争议",
       "onboard_time": 1722035898,
       "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1071859,
-      "num": 316976,
-      "word": "杨倩解说",
-      "onboard_time": 1722071359,
-      "rank": 37,
       "category": "体育"
     },
     {
@@ -499,12 +531,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 655525,
+      "num": 655525,
+      "word": "巴黎奥运会首金",
+      "onboard_time": 1722073768,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 653207,
       "num": 653207,
       "word": "东航回应全机乘客陪等外国人登机",
       "onboard_time": 1722059422,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 622996,
+      "num": 622996,
+      "word": "杨倩祝贺黄雨婷盛李豪夺金",
+      "onboard_time": 1722074606,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 617120,
@@ -529,6 +577,14 @@
       "onboard_time": 1722063260,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 604187,
+      "num": 604187,
+      "word": "盛李豪说比赛太刺激了",
+      "onboard_time": 1722074666,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 600903,
@@ -683,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 483037,
+      "num": 1270043,
+      "word": "杨幂又一个全球代言",
+      "onboard_time": 1722069560,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 476356,
       "num": 263984,
       "word": "医生让我每晚睡前喝杯牛奶",
@@ -795,19 +859,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 417512,
+      "num": 417512,
+      "word": "求黄雨婷丸子头教程",
+      "onboard_time": 1722073228,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 406282,
       "num": 406282,
       "word": "中国队将乘坐16号船亮相开幕式",
       "onboard_time": 1722009980,
       "rank": 18,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 405594,
-      "num": 405594,
-      "word": "中国首金",
-      "onboard_time": 1722072809,
-      "rank": 23,
       "category": "体育"
     },
     {
@@ -1019,6 +1083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 310013,
+      "num": 310013,
+      "word": "游泳预赛",
+      "onboard_time": 1722075564,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 309019,
       "num": 309019,
       "word": "樊振东就这么水灵灵地吃上了",
@@ -1057,6 +1129,14 @@
       "onboard_time": 1722054981,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 295067,
+      "num": 295067,
+      "word": "凡希亚看解密看哭了",
+      "onboard_time": 1722074128,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 294000,
@@ -1187,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 273463,
+      "num": 5810711,
+      "word": "巴黎今天将决出14枚奥运金牌",
+      "onboard_time": 1722042201,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 272043,
       "num": 255426,
       "word": "贾玲亮相奥委会主席晚宴",
@@ -1232,14 +1320,6 @@
       "word": "日本代表团这么多人",
       "onboard_time": 1722022452,
       "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 267195,
-      "num": 2877926,
-      "word": "巴黎今天将决出14枚奥运金牌",
-      "onboard_time": 1722042201,
-      "rank": 43,
       "category": "体育"
     },
     {
@@ -1355,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 236707,
+      "num": 236707,
+      "word": "盛李豪气步枪上贴着亚运会吉祥物",
+      "onboard_time": 1722074368,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 235795,
       "num": 235795,
       "word": "上海航空",
@@ -1432,6 +1520,14 @@
       "word": "郎平谈女排为何能重返巅峰",
       "onboard_time": 1722050299,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 224096,
+      "num": 224096,
+      "word": "凡晨组合巴黎奥运首胜",
+      "onboard_time": 1722074007,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -1899,14 +1995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190139,
-      "num": 1270043,
-      "word": "杨幂又一个全球代言",
-      "onboard_time": 1722069560,
-      "rank": 12,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 190095,
       "num": 190095,
       "word": "鞠婧祎吊带黄背心",
@@ -1985,6 +2073,14 @@
       "onboard_time": 1722070760,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182224,
+      "num": 581466,
+      "word": "00后小将打开中国军团金牌账户",
+      "onboard_time": 1722073589,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 182029,
@@ -2387,6 +2483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102216,
+      "num": 207776,
+      "word": "TEAMCHINA奥运赛程",
+      "onboard_time": 1722073466,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101264,
       "num": 199425,
       "word": "奥运会",
@@ -2515,6 +2619,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 57740,
+      "num": 342117,
+      "word": "金边新闻是什么",
+      "onboard_time": 1722074786,
+      "rank": 33,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 57046,
       "num": 437141,
       "word": "永劫光遇等千款游戏推出鸿蒙版",
@@ -2553,6 +2665,22 @@
       "onboard_time": 1722060201,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39910,
+      "num": 973422,
+      "word": "蔚来启动汽车座舱AI化",
+      "onboard_time": 1722074727,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 39597,
+      "num": 451035,
+      "word": "蔚来二代手机零预装零广告",
+      "onboard_time": 1722074727,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 38664,
