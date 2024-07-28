@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1722206164591,
+  "endTime": 1722208793967,
   "band_list": [
     {
       "raw_hot": 16577668,
@@ -881,6 +881,14 @@
       "onboard_time": 1721448139,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2664289,
+      "num": 2664289,
+      "word": "雨霏别哭",
+      "onboard_time": 1722195972,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 2644382,
@@ -3715,6 +3723,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1341058,
+      "num": 1341058,
+      "word": "法国人天天两眼一睁就是惹韩国人生气",
+      "onboard_time": 1722188114,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1340980,
       "num": 244270,
       "word": "娃哈哈内斗严重",
@@ -3841,14 +3857,6 @@
       "onboard_time": 1721449639,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1316409,
-      "num": 1316409,
-      "word": "雨霏别哭",
-      "onboard_time": 1722195972,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 1314673,
@@ -6137,6 +6145,14 @@
       "onboard_time": 1721713279,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1023291,
+      "num": 1023291,
+      "word": "苏醒说乒乓球是毫无悬念的比赛",
+      "onboard_time": 1722191415,
+      "rank": 17,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 1022787,
@@ -9827,6 +9843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 758359,
+      "num": 758359,
+      "word": "小孩姐第一次参加奥运就创造历史",
+      "onboard_time": 1722187456,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 757579,
       "num": 334205,
       "word": "张元英被叫阿姨",
@@ -12963,14 +12987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 620529,
-      "num": 620529,
-      "word": "法国人天天两眼一睁就是惹韩国人生气",
-      "onboard_time": 1722188114,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 620498,
       "num": 620498,
       "word": "体操小花好可爱",
@@ -14065,14 +14081,6 @@
       "onboard_time": 1721899400,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 585990,
-      "num": 585990,
-      "word": "苏醒说乒乓球是毫无悬念的比赛",
-      "onboard_time": 1722191415,
-      "rank": 17,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 585423,
@@ -16937,6 +16945,14 @@
       "onboard_time": 1720759159,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 509346,
+      "num": 509346,
+      "word": "巴黎奥运会奖牌榜弄错韩国国旗",
+      "onboard_time": 1722188415,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 509219,
@@ -19899,6 +19915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 446612,
+      "num": 446612,
+      "word": "泳池好浅",
+      "onboard_time": 1722197472,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 446554,
       "num": 228957,
       "word": "克卜勒",
@@ -21619,14 +21643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 417192,
-      "num": 417192,
-      "word": "巴黎奥运会奖牌榜弄错韩国国旗",
-      "onboard_time": 1722188415,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 416600,
       "num": 416600,
       "word": "洞庭湖决口已封堵135.5米",
@@ -23153,6 +23169,14 @@
       "onboard_time": 1722077842,
       "rank": 34,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 388261,
+      "num": 388261,
+      "word": "女子体操",
+      "onboard_time": 1722192014,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 387778,
@@ -25947,14 +25971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 342648,
-      "num": 342648,
-      "word": "小孩姐第一次参加奥运就创造历史",
-      "onboard_time": 1722187456,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 342457,
       "num": 342457,
       "word": "警方调查人大教授涉嫌违法情况",
@@ -27057,6 +27073,14 @@
       "onboard_time": 1721740160,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 326569,
+      "num": 326569,
+      "word": "覃海洋说特别想赢没调整好",
+      "onboard_time": 1722200951,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 326303,
@@ -28505,14 +28529,6 @@
       "onboard_time": 1722133103,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 306714,
-      "num": 306714,
-      "word": "泳池好浅",
-      "onboard_time": 1722197472,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 306635,
@@ -34416,14 +34432,6 @@
       "word": "白宇拍的国乒",
       "onboard_time": 1721735360,
       "rank": 16,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 243209,
-      "num": 243209,
-      "word": "覃海洋说特别想赢没调整好",
-      "onboard_time": 1722200951,
-      "rank": 27,
       "category": "体育"
     },
     {
@@ -41291,14 +41299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 204422,
-      "num": 204422,
-      "word": "女子体操",
-      "onboard_time": 1722192014,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 204412,
       "num": 204412,
       "word": "邓为6年前街拍旧照",
@@ -42689,6 +42689,14 @@
       "onboard_time": 1719889519,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 200283,
+      "num": 200283,
+      "word": "阿根廷选手出场时显示中国国旗",
+      "onboard_time": 1722208216,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 200267,
@@ -44425,6 +44433,14 @@
       "onboard_time": 1721819538,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195187,
+      "num": 195187,
+      "word": "妈妈不理解但是主打一个尊重",
+      "onboard_time": 1722203652,
+      "rank": 41,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 195153,
@@ -50787,6 +50803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174077,
+      "num": 174077,
+      "word": "覃海洋说后50米游得很乱",
+      "onboard_time": 1722208216,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174068,
       "num": 164454,
       "word": "网上的皮肤vs实际的皮肤",
@@ -51257,6 +51281,14 @@
       "onboard_time": 1720087999,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172390,
+      "num": 172390,
+      "word": "美国男篮狂砍110分",
+      "onboard_time": 1722208216,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 172373,
@@ -54827,6 +54859,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 159600,
+      "num": 159600,
+      "word": "王楚钦说珍惜和莎莎一起征战奥运",
+      "onboard_time": 1722200051,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159581,
       "num": 159581,
       "word": "韩国动物团体呼吁禁止吃鸡肉",
@@ -57337,6 +57377,14 @@
       "onboard_time": 1720437318,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150740,
+      "num": 150740,
+      "word": "面对世界第一他真的尽力了",
+      "onboard_time": 1722208216,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 150721,
@@ -62625,6 +62673,14 @@
       "onboard_time": 1721387298,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 132173,
+      "num": 132173,
+      "word": "肖战法国游满屏松弛感",
+      "onboard_time": 1722204373,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 132170,
@@ -68987,6 +69043,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 107257,
+      "num": 107257,
+      "word": "张雨霏戴五环眼镜",
+      "onboard_time": 1722208697,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107149,
       "num": 107149,
       "word": "奥运火炬开始在巴黎传递",
@@ -69377,6 +69441,14 @@
       "onboard_time": 1719921258,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 105274,
+      "num": 105274,
+      "word": "张雨霏说奥运压力比想象大",
+      "onboard_time": 1722195552,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 105130,
@@ -70187,14 +70259,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 100164,
-      "num": 100164,
-      "word": "王楚钦说珍惜和莎莎一起征战奥运",
-      "onboard_time": 1722200051,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 100057,
       "num": 100057,
       "word": "被自制的蝴蝶书签酷到了",
@@ -70529,14 +70593,6 @@
       "onboard_time": 1720629316,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 97498,
-      "num": 73021,
-      "word": "张雨霏说奥运压力比想象大",
-      "onboard_time": 1722195552,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 97398,
@@ -72049,14 +72105,6 @@
       "onboard_time": 1719764657,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86522,
-      "num": 86522,
-      "word": "妈妈不理解但是主打一个尊重",
-      "onboard_time": 1722203652,
-      "rank": 41,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 86516,
@@ -75241,14 +75289,6 @@
       "onboard_time": 1719963196,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 60718,
-      "num": 60718,
-      "word": "肖战法国游满屏松弛感",
-      "onboard_time": 1722204373,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 60689,
@@ -79852,7 +79892,7 @@
     },
     {
       "raw_hot": 30637,
-      "num": 1252282,
+      "num": 1349506,
       "word": "奥运会上的中国队太燃了",
       "onboard_time": 1722171862,
       "rank": 2,
@@ -82232,6 +82272,14 @@
       "word": "婆婆上班式宠媳每天走1小时做饭",
       "onboard_time": 1721753656,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17295,
+      "num": 520952,
+      "word": "小伙被海浪卷走漂1小时被热心人救起",
+      "onboard_time": 1722208276,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
