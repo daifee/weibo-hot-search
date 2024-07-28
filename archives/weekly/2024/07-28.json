@@ -1,6 +1,6 @@
 {
   "startTime": 1722097426384,
-  "endTime": 1722205117453,
+  "endTime": 1722206164591,
   "band_list": [
     {
       "raw_hot": 15610430,
@@ -467,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1316409,
+      "num": 1316409,
+      "word": "雨霏别哭",
+      "onboard_time": 1722195972,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1294866,
       "num": 1294866,
       "word": "中国女篮失误",
@@ -672,14 +680,6 @@
       "word": "夜玫瑰的曲夺冠",
       "onboard_time": 1722154282,
       "rank": 13,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1092861,
-      "num": 1092861,
-      "word": "雨霏别哭",
-      "onboard_time": 1722195972,
-      "rank": 3,
       "category": "体育"
     },
     {
@@ -1843,6 +1843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 342648,
+      "num": 342648,
+      "word": "小孩姐第一次参加奥运就创造历史",
+      "onboard_time": 1722187456,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 342349,
       "num": 342349,
       "word": "塞尔维亚男篮vs美国男篮",
@@ -2067,6 +2075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 306714,
+      "num": 306714,
+      "word": "泳池好浅",
+      "onboard_time": 1722197472,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 305583,
       "num": 305583,
       "word": "期待潘展乐单项",
@@ -2120,14 +2136,6 @@
       "word": "覃海洋58秒93晋级决赛",
       "onboard_time": 1722109152,
       "rank": 13,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 297566,
-      "num": 297566,
-      "word": "小孩姐第一次参加奥运就创造历史",
-      "onboard_time": 1722187456,
-      "rank": 28,
       "category": "体育"
     },
     {
@@ -2435,14 +2443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 259276,
-      "num": 259276,
-      "word": "泳池好浅",
-      "onboard_time": 1722197472,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 257347,
       "num": 257347,
       "word": "中国男子4x100自由泳接力第四",
@@ -2529,6 +2529,14 @@
       "onboard_time": 1722159923,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 243209,
+      "num": 243209,
+      "word": "覃海洋说特别想赢没调整好",
+      "onboard_time": 1722200951,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 241011,
@@ -2787,6 +2795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204422,
+      "num": 204422,
+      "word": "女子体操",
+      "onboard_time": 1722192014,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204205,
       "num": 204205,
       "word": "江旻憓超级学霸",
@@ -2824,14 +2840,6 @@
       "word": "奥运冠军何姿水下应援中国跳水队",
       "onboard_time": 1722129382,
       "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 201003,
-      "num": 201003,
-      "word": "女子体操",
-      "onboard_time": 1722192014,
-      "rank": 20,
       "category": "体育"
     },
     {
@@ -2936,14 +2944,6 @@
       "word": "张雨霏第二枚铜牌",
       "onboard_time": 1722194232,
       "rank": 20,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 184264,
-      "num": 184264,
-      "word": "覃海洋说特别想赢没调整好",
-      "onboard_time": 1722200951,
-      "rank": 27,
       "category": "体育"
     },
     {
@@ -3339,6 +3339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100164,
+      "num": 100164,
+      "word": "王楚钦说珍惜和莎莎一起征战奥运",
+      "onboard_time": 1722200051,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97808,
       "num": 97808,
       "word": "马尔尚400混破奥运纪录夺金",
@@ -3348,7 +3356,7 @@
     },
     {
       "raw_hot": 97498,
-      "num": 71074,
+      "num": 73021,
       "word": "张雨霏说奥运压力比想象大",
       "onboard_time": 1722195552,
       "rank": 30,
@@ -3419,6 +3427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86522,
+      "num": 86522,
+      "word": "妈妈不理解但是主打一个尊重",
+      "onboard_time": 1722203652,
+      "rank": 41,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 84532,
       "num": 300642,
       "word": "日本东京发生大规模火灾",
@@ -3449,14 +3465,6 @@
       "onboard_time": 1722091825,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 80957,
-      "num": 80957,
-      "word": "王楚钦说珍惜和莎莎一起征战奥运",
-      "onboard_time": 1722200051,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 79940,
@@ -3595,20 +3603,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60718,
+      "num": 60718,
+      "word": "肖战法国游满屏松弛感",
+      "onboard_time": 1722204373,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 59712,
       "num": 616540,
       "word": "这届奥运冠军的历史都是高清的",
       "onboard_time": 1722175944,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 59602,
-      "num": 59602,
-      "word": "妈妈不理解但是主打一个尊重",
-      "onboard_time": 1722203652,
-      "rank": 41,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 58970,
@@ -3689,14 +3697,6 @@
       "onboard_time": 1722109214,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 49409,
-      "num": 49409,
-      "word": "肖战法国游满屏松弛感",
-      "onboard_time": 1722204373,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 48955,
@@ -3843,18 +3843,18 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13157,
-      "num": 278735,
-      "word": "邮递员为女儿送清华录取通知书",
-      "onboard_time": 1722197712,
+      "raw_hot": 17166,
+      "num": 281534,
+      "word": "妈妈执意要和079号战机合影",
+      "onboard_time": 1722203772,
       "rank": 9,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 11663,
-      "num": 215824,
-      "word": "妈妈执意要和079号战机合影",
-      "onboard_time": 1722203772,
+      "raw_hot": 13157,
+      "num": 278735,
+      "word": "邮递员为女儿送清华录取通知书",
+      "onboard_time": 1722197712,
       "rank": 9,
       "category": "社会新闻"
     }
