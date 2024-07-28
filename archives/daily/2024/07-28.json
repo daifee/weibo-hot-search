@@ -1,6 +1,6 @@
 {
   "startTime": 1722097426384,
-  "endTime": 1722140531161,
+  "endTime": 1722141346733,
   "band_list": [
     {
       "raw_hot": 12476342,
@@ -91,6 +91,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1631431,
+      "num": 1631431,
+      "word": "巴黎停电",
+      "onboard_time": 1722139881,
+      "rank": 20,
+      "category": "国外时政,体育"
+    },
+    {
       "raw_hot": 1461660,
       "num": 1461660,
       "word": "张本智和早田希娜vs李正植金琴英",
@@ -120,6 +128,14 @@
       "word": "孙颖莎王楚钦晋级8强",
       "onboard_time": 1722093627,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1278819,
+      "num": 1278819,
+      "word": "孙杨400米自由泳纪录12年未被打破",
+      "onboard_time": 1722136162,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 1166464,
-      "num": 669438,
+      "num": 754630,
       "word": "女童遭父亲性侵被奶奶要求写谅解书",
       "onboard_time": 1722133703,
       "rank": 22,
@@ -179,20 +195,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1136592,
-      "num": 1136592,
-      "word": "孙杨400米自由泳纪录12年未被打破",
-      "onboard_time": 1722136162,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1076723,
       "num": 1076723,
       "word": "赵露思得知中国队连拿两金后的反应",
       "onboard_time": 1722130222,
       "rank": 17,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 1035731,
+      "num": 1035731,
+      "word": "苏醒 孕妇没有大家想象的那么挑剔",
+      "onboard_time": 1722140301,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 1017270,
@@ -219,12 +235,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 933752,
+      "num": 933752,
+      "word": "韩国游泳男选手搬离宿舍去住酒店了",
+      "onboard_time": 1722137181,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 927926,
       "num": 927926,
       "word": "台风格美已造成福建省76.69万人受灾",
       "onboard_time": 1722132983,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 886314,
+      "num": 886314,
+      "word": "湖南衡阳山体滑坡约20人被困",
+      "onboard_time": 1722136583,
+      "rank": 26,
+      "category": "社会负面"
     },
     {
       "raw_hot": 833379,
@@ -248,14 +280,6 @@
       "word": "奥运会游泳",
       "onboard_time": 1722098365,
       "rank": 18,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 802847,
-      "num": 657937,
-      "word": "韩国游泳男选手搬离宿舍去住酒店了",
-      "onboard_time": 1722137181,
-      "rank": 36,
       "category": "体育"
     },
     {
@@ -305,14 +329,6 @@
       "onboard_time": 1722131602,
       "rank": 11,
       "category": "网红,音乐"
-    },
-    {
-      "raw_hot": 658703,
-      "num": 658703,
-      "word": "湖南衡阳山体滑坡约20人被困",
-      "onboard_time": 1722136583,
-      "rank": 26,
-      "category": "社会负面"
     },
     {
       "raw_hot": 656677,
@@ -419,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 512536,
+      "num": 512536,
+      "word": "席琳迪翁是巴黎奥运会的第一个赢家",
+      "onboard_time": 1722139280,
+      "rank": 18,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 507761,
       "num": 507761,
       "word": "日本混双",
@@ -435,14 +459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 497903,
-      "num": 497903,
-      "word": "席琳迪翁是巴黎奥运会的第一个赢家",
-      "onboard_time": 1722139280,
-      "rank": 18,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 478163,
       "num": 345411,
       "word": "贾乃亮现场观赛激动哭了",
@@ -451,20 +467,20 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 467951,
+      "num": 673461,
+      "word": "长沙暴雨",
+      "onboard_time": 1722136102,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 463892,
       "num": 463892,
       "word": "孙颖莎正手",
       "onboard_time": 1722093927,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 448926,
-      "num": 448926,
-      "word": "巴黎停电",
-      "onboard_time": 1722139881,
-      "rank": 20,
-      "category": "国外时政,体育"
     },
     {
       "raw_hot": 441330,
@@ -521,14 +537,6 @@
       "onboard_time": 1722133761,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 426669,
-      "num": 673461,
-      "word": "长沙暴雨",
-      "onboard_time": 1722136102,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 421205,
@@ -608,6 +616,14 @@
       "word": "日本夺冠大热出局后拒绝握手",
       "onboard_time": 1722096812,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 350960,
+      "num": 350960,
+      "word": "巴黎奥运会把韩国首金的名字打错",
+      "onboard_time": 1722139942,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -731,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 300556,
+      "num": 300556,
+      "word": "小罗伯特唐尼 毁灭博士",
+      "onboard_time": 1722138141,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 299376,
       "num": 299376,
       "word": "中国队 松弛感",
@@ -747,28 +771,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 294087,
-      "num": 294087,
-      "word": "小罗伯特唐尼 毁灭博士",
-      "onboard_time": 1722138141,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 289927,
       "num": 289927,
       "word": "王楚钦孙颖莎关注日本组合比赛",
       "onboard_time": 1722097771,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 288312,
-      "num": 288312,
-      "word": "苏醒 孕妇没有大家想象的那么挑剔",
-      "onboard_time": 1722140301,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 288193,
@@ -779,19 +787,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 282396,
-      "num": 282396,
-      "word": "巴黎奥运会把韩国首金的名字打错",
-      "onboard_time": 1722139942,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 280926,
       "num": 280926,
       "word": "孙杨的奥运纪录",
       "onboard_time": 1722106994,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 280150,
+      "num": 280150,
+      "word": "奥运会到处都是孙杨的影子",
+      "onboard_time": 1722137780,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -851,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 261277,
+      "num": 261277,
+      "word": "巴黎奥运会颁奖没有鲜花",
+      "onboard_time": 1722139643,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 260357,
       "num": 260357,
       "word": "唐朝诡事录热度",
@@ -883,11 +899,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 248399,
-      "num": 248399,
-      "word": "奥运会到处都是孙杨的影子",
-      "onboard_time": 1722137780,
-      "rank": 39,
+      "raw_hot": 248546,
+      "num": 248546,
+      "word": "原神fes抢票",
+      "onboard_time": 1722140911,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 234945,
+      "num": 234945,
+      "word": "93年5岁的马龙脸还没球拍大",
+      "onboard_time": 1722138201,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -1011,14 +1035,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 206255,
-      "num": 206255,
-      "word": "巴黎奥运会颁奖没有鲜花",
-      "onboard_time": 1722139643,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 205675,
       "num": 205675,
       "word": "暴雪",
@@ -1081,6 +1097,14 @@
       "onboard_time": 1722137662,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188226,
+      "num": 895320,
+      "word": "湖南衡阳山体滑坡11人遇难",
+      "onboard_time": 1722140848,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185425,
@@ -1169,14 +1193,6 @@
       "onboard_time": 1722133943,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 170958,
-      "num": 185008,
-      "word": "93年5岁的马龙脸还没球拍大",
-      "onboard_time": 1722138201,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 167905,
@@ -1315,20 +1331,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84532,
+      "num": 300642,
+      "word": "日本东京发生大规模火灾",
+      "onboard_time": 1722141331,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82345,
+      "num": 336566,
+      "word": "中国一夺冠美团就免单",
+      "onboard_time": 1722136522,
+      "rank": 38,
+      "category": "体育,互联网"
+    },
+    {
       "raw_hot": 82256,
       "num": 82256,
       "word": "韩国代表团首金",
       "onboard_time": 1722114912,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 81378,
-      "num": 336566,
-      "word": "中国一夺冠美团就免单",
-      "onboard_time": 1722136522,
-      "rank": 38,
-      "category": "体育,互联网"
     },
     {
       "raw_hot": 81042,
@@ -1345,6 +1369,14 @@
       "onboard_time": 1722127099,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78144,
+      "num": 516073,
+      "word": "杨紫还原唐仕女图",
+      "onboard_time": 1722140541,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 75302,
@@ -1411,6 +1443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50938,
+      "num": 771059,
+      "word": "WB吃夜宵被海底捞硬控了",
+      "onboard_time": 1722139342,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 50420,
       "num": 50420,
       "word": "覃海洋晋级100蛙决赛",
@@ -1419,19 +1459,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 41383,
-      "num": 647530,
-      "word": "WB吃夜宵被海底捞硬控了",
-      "onboard_time": 1722139342,
-      "rank": 13,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 32232,
-      "num": 317145,
+      "raw_hot": 46902,
+      "num": 1361129,
       "word": "中国队夺金动人瞬间",
       "onboard_time": 1722140242,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 41461,
+      "num": 1323369,
+      "word": "从0的突破到00后的突破",
+      "onboard_time": 1722140481,
+      "rank": 2,
       "category": "体育"
     },
     {
@@ -1465,14 +1505,6 @@
       "onboard_time": 1722117972,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 9518,
-      "num": 1323369,
-      "word": "从0的突破到00后的突破",
-      "onboard_time": 1722140481,
-      "rank": 2,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
@@ -1484,6 +1516,9 @@
     },
     {
       "word": "#读懂全会决定中的这些名词#"
+    },
+    {
+      "word": "#生态文明直接关系人民群众的生活幸福#"
     }
   ]
 }
