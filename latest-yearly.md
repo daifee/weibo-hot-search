@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/07/28 12:35:46
+本榜单时间：2024/01/01 00:21:05 ~ 2024/07/28 13:20:27
 </p>
 </blockquote>
 <p>
@@ -59,6 +59,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%84%E5%87%BB%E6%B7%B7%E5%90%88%E5%9B%A2%E4%BD%9310%E7%B1%B3%E6%B0%94%E6%AD%A5%E6%9E%AA%23" target="weibo">
 射击混合团体10米气步枪（热度：16577668）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%81%9C%E7%94%B5%23" target="weibo">
+巴黎停电（热度：15610430）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ SM承认柳智敏恋情（热度：4051630）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%AA%E5%A3%B0%E5%93%8D%E8%B5%B7%E7%89%B9%E6%9C%97%E6%99%AE%E6%92%A4%E7%A6%BB%E6%BC%94%E8%AE%B2%E5%8F%B0%23" target="weibo">
 枪声响起特朗普撤离演讲台（热度：3610622）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%96%E5%86%A0%E9%9C%96%20%E6%9C%AC%E4%BA%BA%E5%B0%86%E8%BD%AC%E5%8F%98%E8%B5%9B%E9%81%93%23" target="weibo">
-赖冠霖 本人将转变赛道（热度：3609925）
 </a>
 </li>
 
