@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1722170078115,
+  "endTime": 1722170950575,
   "band_list": [
     {
       "raw_hot": 16577668,
@@ -3355,6 +3355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1378414,
+      "num": 1378414,
+      "word": "杨舒予太帅了",
+      "onboard_time": 1722168203,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1376403,
       "num": 1376403,
       "word": "涂山璟 此身从此分明了",
@@ -3585,6 +3593,14 @@
       "onboard_time": 1719992657,
       "rank": 4,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 1328318,
+      "num": 1328318,
+      "word": "中国女篮vs西班牙女篮",
+      "onboard_time": 1722164481,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 1326727,
@@ -3953,6 +3969,14 @@
       "onboard_time": 1720147038,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1260730,
+      "num": 1260730,
+      "word": "中国女篮失误",
+      "onboard_time": 1722169101,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 1258525,
@@ -4425,14 +4449,6 @@
       "onboard_time": 1721619741,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1183210,
-      "num": 1183210,
-      "word": "中国女篮vs西班牙女篮",
-      "onboard_time": 1722164481,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 1183136,
@@ -5555,6 +5571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1051390,
+      "num": 803748,
+      "word": "田亮真的把森碟养的很好",
+      "onboard_time": 1722166281,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1050972,
       "num": 1050972,
       "word": "Henry说漏嘴了",
@@ -6025,14 +6049,6 @@
       "onboard_time": 1720249637,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1003104,
-      "num": 1003104,
-      "word": "杨舒予太帅了",
-      "onboard_time": 1722168203,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 1002103,
@@ -6753,14 +6769,6 @@
       "onboard_time": 1721351901,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 937172,
-      "num": 803748,
-      "word": "田亮真的把森碟养的很好",
-      "onboard_time": 1722166281,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 936101,
@@ -9219,14 +9227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 774533,
-      "num": 774533,
-      "word": "中国女篮失误",
-      "onboard_time": 1722169101,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 774426,
       "num": 525355,
       "word": "官方通报女子飙英文骂哭乘务员",
@@ -10275,6 +10275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 718650,
+      "num": 718650,
+      "word": "巴黎偶遇郭晶晶霍启刚霍启山",
+      "onboard_time": 1722167541,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 718435,
       "num": 383437,
       "word": "金钟大老了好多",
@@ -10497,6 +10505,14 @@
       "onboard_time": 1720149976,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 708092,
+      "num": 708092,
+      "word": "姚明现场督战女篮巴黎首秀",
+      "onboard_time": 1722169946,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 707392,
@@ -11233,14 +11249,6 @@
       "onboard_time": 1721358742,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 672522,
-      "num": 672522,
-      "word": "巴黎偶遇郭晶晶霍启刚霍启山",
-      "onboard_time": 1722167541,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 672244,
@@ -17931,6 +17939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 478217,
+      "num": 478217,
+      "word": "内娱四大短顶",
+      "onboard_time": 1722169162,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 478163,
       "num": 345411,
       "word": "贾乃亮现场观赛激动哭了",
@@ -19627,6 +19643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 442989,
+      "num": 442989,
+      "word": "我勒个三十天速成世界冠军",
+      "onboard_time": 1722169762,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 442933,
       "num": 414930,
       "word": "杨紫久久出不了戏",
@@ -19937,6 +19961,14 @@
       "onboard_time": 1721955141,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 437928,
+      "num": 437928,
+      "word": "华天 马术",
+      "onboard_time": 1722168921,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 437860,
@@ -20425,14 +20457,6 @@
       "onboard_time": 1720580239,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 429546,
-      "num": 429546,
-      "word": "内娱四大短顶",
-      "onboard_time": 1722169162,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 429457,
@@ -22995,6 +23019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 380576,
+      "num": 380576,
+      "word": "中国女篮半场领先西班牙4分",
+      "onboard_time": 1722169889,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 380521,
       "num": 334929,
       "word": "孙艺珍说和玄彬之间是命运",
@@ -23875,6 +23907,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 364397,
+      "num": 364397,
+      "word": "女篮解说 打球化妆",
+      "onboard_time": 1722170601,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 364214,
       "num": 364214,
       "word": "公孙离 无双皮肤",
@@ -23985,14 +24025,6 @@
       "onboard_time": 1720017500,
       "rank": 12,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 362272,
-      "num": 362272,
-      "word": "华天 马术",
-      "onboard_time": 1722168921,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 362188,
@@ -28075,14 +28107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 302587,
-      "num": 302587,
-      "word": "我勒个三十天速成世界冠军",
-      "onboard_time": 1722169762,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 302477,
       "num": 302477,
       "word": "台风格美影响或波及10余省份",
@@ -28987,14 +29011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 291416,
-      "num": 291416,
-      "word": "姚明现场督战女篮巴黎首秀",
-      "onboard_time": 1722169946,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 291374,
       "num": 258065,
       "word": "华晨宇舞台已经NextLevel了",
@@ -29504,14 +29520,6 @@
       "word": "恭喜阿条姐和干饭哥夺冠",
       "onboard_time": 1722079222,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 286637,
-      "num": 286637,
-      "word": "中国女篮半场领先西班牙4分",
-      "onboard_time": 1722169889,
-      "rank": 39,
       "category": "体育"
     },
     {
@@ -30321,6 +30329,14 @@
       "onboard_time": 1720928601,
       "rank": 8,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 278130,
+      "num": 278130,
+      "word": "张怡涵自由操",
+      "onboard_time": 1722169404,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 278041,
@@ -31329,6 +31345,14 @@
       "onboard_time": 1721961019,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 265881,
+      "num": 265881,
+      "word": "唐朝诡事录造型师回应",
+      "onboard_time": 1722167362,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 265828,
@@ -32467,14 +32491,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 253884,
-      "num": 253884,
-      "word": "张怡涵自由操",
-      "onboard_time": 1722169404,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 253878,
       "num": 486817,
       "word": "外交部回应拜登退出大选",
@@ -32705,6 +32721,14 @@
       "onboard_time": 1721346137,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 252264,
+      "num": 252264,
+      "word": "拜尔斯跳马跳了男子动作",
+      "onboard_time": 1722170661,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 252254,
@@ -33009,14 +33033,6 @@
       "onboard_time": 1720259776,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 249537,
-      "num": 249537,
-      "word": "唐朝诡事录造型师回应",
-      "onboard_time": 1722167362,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 249481,
@@ -33809,6 +33825,14 @@
       "onboard_time": 1721021238,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242390,
+      "num": 242390,
+      "word": "李月汝好强",
+      "onboard_time": 1722170601,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 242376,
@@ -35937,6 +35961,14 @@
       "onboard_time": 1721808019,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227188,
+      "num": 806146,
+      "word": "马来西亚申请加入金砖国家",
+      "onboard_time": 1722165080,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 227120,
@@ -69163,14 +69195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 101088,
-      "num": 806146,
-      "word": "马来西亚申请加入金砖国家",
-      "onboard_time": 1722165080,
-      "rank": 29,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 101077,
       "num": 108537,
       "word": "老人接诈骗电话后存折上的27万被转走",
@@ -72900,7 +72924,7 @@
     },
     {
       "raw_hot": 70566,
-      "num": 1274589,
+      "num": 1330990,
       "word": "奥运赛场中国队运动员神同步瞬间",
       "onboard_time": 1722155301,
       "rank": 15,
@@ -75383,6 +75407,14 @@
       "num": 356147,
       "word": "洞庭湖决堤抢险现场画面",
       "onboard_time": 1720243817,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52636,
+      "num": 720091,
+      "word": "山体滑坡如何紧急避险",
+      "onboard_time": 1722170361,
       "rank": 9,
       "category": "社会新闻"
     },
