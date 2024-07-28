@@ -1,6 +1,6 @@
 {
   "startTime": 1722097426384,
-  "endTime": 1722191903586,
+  "endTime": 1722194125579,
   "band_list": [
     {
       "raw_hot": 15610430,
@@ -419,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1372060,
+      "num": 1372060,
+      "word": "女子100米蝶泳决赛",
+      "onboard_time": 1722192433,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1354864,
       "num": 1354864,
       "word": "谢瑜好稳",
@@ -704,6 +712,14 @@
       "word": "拜尔斯好牛",
       "onboard_time": 1722162081,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 991457,
+      "num": 991457,
+      "word": "张雨霏100蝶铜牌",
+      "onboard_time": 1722192854,
+      "rank": 1,
       "category": "体育"
     },
     {
@@ -1067,6 +1083,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 620529,
+      "num": 620529,
+      "word": "法国人天天两眼一睁就是惹韩国人生气",
+      "onboard_time": 1722188114,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 620498,
       "num": 620498,
       "word": "体操小花好可爱",
@@ -1137,6 +1161,14 @@
       "onboard_time": 1722152660,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 585990,
+      "num": 585990,
+      "word": "苏醒说乒乓球是毫无悬念的比赛",
+      "onboard_time": 1722191415,
+      "rank": 17,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 581013,
@@ -1603,14 +1635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 402452,
-      "num": 402452,
-      "word": "法国人天天两眼一睁就是惹韩国人生气",
-      "onboard_time": 1722188114,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 401502,
       "num": 363002,
       "word": "全红婵平地入水都可以这么完美",
@@ -1912,6 +1936,14 @@
       "word": "为什么不上韩旭",
       "onboard_time": 1722179605,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 320043,
+      "num": 320043,
+      "word": "男子400米混合泳决赛",
+      "onboard_time": 1722191833,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -2635,14 +2667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 208917,
-      "num": 208917,
-      "word": "苏醒说乒乓球是毫无悬念的比赛",
-      "onboard_time": 1722191415,
-      "rank": 17,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 208910,
       "num": 208910,
       "word": "漫威",
@@ -2995,6 +3019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164130,
+      "num": 164130,
+      "word": "女子体操",
+      "onboard_time": 1722192014,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162095,
       "num": 162095,
       "word": "花10块钱吃5荤5素的火锅",
@@ -3115,6 +3147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 128911,
+      "num": 128911,
+      "word": "张雨霏好棒",
+      "onboard_time": 1722193155,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124495,
       "num": 939013,
       "word": "新疆发现罕见白色棕熊",
@@ -3219,6 +3259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95073,
+      "num": 95073,
+      "word": "游泳赛程",
+      "onboard_time": 1722192073,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91032,
       "num": 609299,
       "word": "泰缅边界遭遇惊魂8小时",
@@ -3227,11 +3275,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90716,
+      "num": 90563,
+      "word": "拉塞尔被取消成绩",
+      "onboard_time": 1722192914,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 90639,
+      "num": 90216,
+      "word": "马尔尚400混破奥运纪录夺金",
+      "onboard_time": 1722193932,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89943,
       "num": 4802785,
       "word": "中国队首金升国旗奏国歌现场",
       "onboard_time": 1722085583,
       "rank": 2,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 89672,
+      "num": 89672,
+      "word": "奖牌榜",
+      "onboard_time": 1722192973,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -3299,14 +3371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 75601,
-      "num": 75601,
-      "word": "男子400米混合泳决赛",
-      "onboard_time": 1722191833,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 75302,
       "num": 184092,
       "word": "中国姑娘接力破亚洲纪录",
@@ -3345,6 +3409,14 @@
       "onboard_time": 1722143542,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 70785,
+      "num": 70785,
+      "word": "游泳比赛时间 阴间",
+      "onboard_time": 1722193872,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 70566,
