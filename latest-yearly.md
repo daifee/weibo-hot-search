@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/07/28 19:34:36
+本榜单时间：2024/01/01 00:21:05 ~ 2024/07/28 20:34:38
 </p>
 </blockquote>
 <p>
@@ -1563,6 +1563,12 @@ SM承认柳智敏恋情（热度：4051630）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E5%BF%97%E5%B8%8C%E7%88%86%E5%86%B7%E5%87%BA%E5%B1%80%23" target="weibo">
+田志希爆冷出局（热度：4021868）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%8F%91%E8%A8%80%E4%BA%BA%E8%AF%84%E8%AE%BA%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C%23" target="weibo">
 国台办发言人评论台湾地区选举结果（热度：4020228）
 </a>
@@ -1805,12 +1811,6 @@ SM承认柳智敏恋情（热度：4051630）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%20%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%99%BD%E6%95%AC%E4%BA%AD%E6%94%BE%E9%B8%BD%E5%AD%90%23" target="weibo">
 金晨 不存在白敬亭放鸽子（热度：3646082）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%9C%BA%E5%A5%BD%E7%83%AD%E9%97%B9%23" target="weibo">
-开场好热闹（热度：3641771）
 </a>
 </li>
 
