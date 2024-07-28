@@ -1,6 +1,6 @@
 {
   "startTime": 1722097426384,
-  "endTime": 1722130547425,
+  "endTime": 1722131500060,
   "band_list": [
     {
       "raw_hot": 9614106,
@@ -35,8 +35,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2198543,
-      "num": 2198543,
+      "raw_hot": 2797626,
+      "num": 2797626,
+      "word": "奥运会官号删除巴黎开幕式视频",
+      "onboard_time": 1722130101,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2407524,
+      "num": 2407524,
       "word": "朝鲜乒乓教练嘴角压不住了",
       "onboard_time": 1722126859,
       "rank": 0,
@@ -131,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1002117,
+      "num": 1002117,
+      "word": "赵露思得知中国队连拿两金后的反应",
+      "onboard_time": 1722130222,
+      "rank": 17,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 991333,
       "num": 991333,
       "word": "张本智和早田希娜一轮游",
@@ -187,8 +203,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 684372,
-      "num": 645868,
+      "raw_hot": 734213,
+      "num": 734213,
       "word": "孙颖莎谈日本混双组合爆冷出局",
       "onboard_time": 1722128120,
       "rank": 10,
@@ -307,14 +323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 438243,
-      "num": 438243,
-      "word": "奥运会官号删除巴黎开幕式视频",
-      "onboard_time": 1722130101,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 432794,
       "num": 432794,
       "word": "苹果盒",
@@ -353,14 +361,6 @@
       "onboard_time": 1722101057,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 422370,
-      "num": 422370,
-      "word": "赵露思得知中国队连拿两金后的反应",
-      "onboard_time": 1722130222,
-      "rank": 17,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 421205,
@@ -411,12 +411,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 370521,
+      "num": 370521,
+      "word": "朝鲜队透露获胜秘诀",
+      "onboard_time": 1722129382,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 362377,
       "num": 362377,
       "word": "澳大利亚首金",
       "onboard_time": 1722094535,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 356893,
+      "num": 356893,
+      "word": "终于有剧拍出了大唐盛世",
+      "onboard_time": 1722129981,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 351232,
@@ -440,6 +456,14 @@
       "word": "宁泽涛给我帅醒了",
       "onboard_time": 1722124817,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 334769,
+      "num": 334769,
+      "word": "奥运会开幕式法国人自己都受不了",
+      "onboard_time": 1722128239,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -483,14 +507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 316802,
-      "num": 316802,
-      "word": "朝鲜队透露获胜秘诀",
-      "onboard_time": 1722129382,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 314168,
       "num": 314168,
       "word": "虞书欣炒个菜步数第一",
@@ -512,14 +528,6 @@
       "word": "阿条姐 干饭哥",
       "onboard_time": 1722067699,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 300260,
-      "num": 300260,
-      "word": "奥运会开幕式法国人自己都受不了",
-      "onboard_time": 1722128239,
-      "rank": 26,
       "category": "体育"
     },
     {
@@ -545,6 +553,22 @@
       "onboard_time": 1722097771,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 288193,
+      "num": 288193,
+      "word": "张雨霏再度回应兴奋剂质疑",
+      "onboard_time": 1722126267,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 286799,
+      "num": 286799,
+      "word": "孟子义 我根本不吃这套",
+      "onboard_time": 1722129800,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 280926,
@@ -619,12 +643,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 242336,
-      "num": 242336,
-      "word": "终于有剧拍出了大唐盛世",
-      "onboard_time": 1722129981,
-      "rank": 32,
-      "category": "剧集"
+      "raw_hot": 242470,
+      "num": 242470,
+      "word": "中国暂列奥运金牌榜第二",
+      "onboard_time": 1722130520,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 232518,
@@ -643,20 +667,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230863,
+      "num": 230863,
+      "word": "才知道全红婵这一跳的含金量有多高",
+      "onboard_time": 1722128120,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 224057,
+      "num": 735736,
+      "word": "巴黎中餐店主买万面国旗为中国队加油",
+      "onboard_time": 1722130279,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218270,
       "num": 134019,
       "word": "潘展乐第一棒破奥运纪录",
       "onboard_time": 1722111972,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 216725,
-      "num": 216725,
-      "word": "孟子义 我根本不吃这套",
-      "onboard_time": 1722129800,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 215070,
@@ -707,20 +739,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 205279,
-      "num": 205279,
-      "word": "中国暂列奥运金牌榜第二",
-      "onboard_time": 1722130520,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 202082,
       "num": 202082,
       "word": "刘忻黑色蕾丝吊带",
       "onboard_time": 1722130222,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 201506,
+      "num": 201506,
+      "word": "奥运冠军何姿水下应援中国跳水队",
+      "onboard_time": 1722129382,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 191206,
@@ -744,14 +776,6 @@
       "word": "方博 张本腿软手软就嘴不软",
       "onboard_time": 1722129682,
       "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 187483,
-      "num": 187483,
-      "word": "奥运冠军何姿水下应援中国跳水队",
-      "onboard_time": 1722129382,
-      "rank": 45,
       "category": "体育"
     },
     {
@@ -779,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157832,
+      "num": 157832,
+      "word": "中国队首日获2金1铜",
+      "onboard_time": 1722128720,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151352,
       "num": 151352,
       "word": "羽毛球女双",
@@ -800,14 +832,6 @@
       "word": "原来跳水比赛的哨是郭晶晶按的",
       "onboard_time": 1722118933,
       "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 133451,
-      "num": 522500,
-      "word": "巴黎中餐店主买万面国旗为中国队加油",
-      "onboard_time": 1722130279,
-      "rank": 12,
       "category": "体育"
     },
     {
