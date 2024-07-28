@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1722152077057,
+  "endTime": 1722154928812,
   "band_list": [
     {
       "raw_hot": 16577668,
@@ -267,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 5874510,
+      "num": 5874510,
+      "word": "谢瑜男子10米气手枪金牌",
+      "onboard_time": 1722153744,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 5810500,
       "num": 870837,
       "word": "黄子韬徐艺洋官宣",
@@ -491,6 +499,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 3551609,
+      "num": 3551609,
+      "word": "男子10米气手枪决赛",
+      "onboard_time": 1722151999,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3520625,
       "num": 1028110,
       "word": "郑佩佩女儿发文",
@@ -625,6 +641,14 @@
       "onboard_time": 1721657124,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3092079,
+      "num": 3092079,
+      "word": "孙颖莎vs高桥茱莉亚",
+      "onboard_time": 1722152839,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 3031333,
@@ -864,6 +888,14 @@
       "word": "韩国网友要求法国道歉",
       "onboard_time": 1722049040,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2499364,
+      "num": 2499364,
+      "word": "中国第3金",
+      "onboard_time": 1722154043,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -1923,6 +1955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1739673,
+      "num": 1739673,
+      "word": "谢瑜反超",
+      "onboard_time": 1722153620,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1734528,
       "num": 1254680,
       "word": "韩国 占C",
@@ -1972,7 +2012,7 @@
     },
     {
       "raw_hot": 1718700,
-      "num": 291166,
+      "num": 316719,
       "word": "刘强东章泽天带女儿看奥运会",
       "onboard_time": 1722145527,
       "rank": 30,
@@ -2812,7 +2852,7 @@
     },
     {
       "raw_hot": 1477063,
-      "num": 516623,
+      "num": 1178734,
       "word": "吴敏霞称女儿经检测不适合练跳水",
       "onboard_time": 1722148639,
       "rank": 38,
@@ -3339,6 +3379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1354864,
+      "num": 1354864,
+      "word": "谢瑜好稳",
+      "onboard_time": 1722153684,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1353152,
       "num": 1353152,
       "word": "爱奇艺 十个勤天",
@@ -3729,6 +3777,14 @@
       "onboard_time": 1721719880,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1286356,
+      "num": 1286356,
+      "word": "巴黎奥运 韩国人破防",
+      "onboard_time": 1722149780,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 1280600,
@@ -4577,14 +4633,6 @@
       "onboard_time": 1719923898,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1146228,
-      "num": 1146228,
-      "word": "巴黎奥运 韩国人破防",
-      "onboard_time": 1722149780,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 1141412,
@@ -5489,6 +5537,14 @@
       "onboard_time": 1721112377,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1040588,
+      "num": 1040588,
+      "word": "夜玫瑰的曲夺冠",
+      "onboard_time": 1722154282,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 1040580,
@@ -11715,6 +11771,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 641734,
+      "num": 641734,
+      "word": "射击比赛真的刺激",
+      "onboard_time": 1722153439,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 641439,
       "num": 307237,
       "word": "妈妈去世后微信成了我的留言本",
@@ -13345,6 +13409,14 @@
       "onboard_time": 1720859237,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 586266,
+      "num": 586266,
+      "word": "奥运会射击",
+      "onboard_time": 1722066859,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 586000,
@@ -15027,6 +15099,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 540210,
+      "num": 540210,
+      "word": "霉霉演唱会隔壁山上全是人",
+      "onboard_time": 1722148520,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 540036,
       "num": 426914,
       "word": "第一次见乌龟长得这么水灵",
@@ -16121,14 +16201,6 @@
       "onboard_time": 1721646142,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 509062,
-      "num": 509062,
-      "word": "霉霉演唱会隔壁山上全是人",
-      "onboard_time": 1722148520,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 508614,
@@ -17355,6 +17427,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 482222,
+      "num": 482222,
+      "word": "孙颖莎女单首秀",
+      "onboard_time": 1722150920,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 482162,
       "num": 482162,
       "word": "小米手环9",
@@ -17705,14 +17785,6 @@
       "onboard_time": 1720491078,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 474005,
-      "num": 474005,
-      "word": "奥运会射击",
-      "onboard_time": 1722066859,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 473830,
@@ -20099,14 +20171,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 428619,
-      "num": 428619,
-      "word": "男子10米气手枪决赛",
-      "onboard_time": 1722151999,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 428530,
       "num": 428530,
       "word": "日媒称日本乒乓奥运连冠梦破灭了",
@@ -20881,6 +20945,14 @@
       "onboard_time": 1721733800,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 412623,
+      "num": 412623,
+      "word": "王一博腕表当腰带",
+      "onboard_time": 1722153380,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 412369,
@@ -24243,6 +24315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 352584,
+      "num": 352584,
+      "word": "国际奥委会主席向韩国总统道歉",
+      "onboard_time": 1722153560,
+      "rank": 26,
+      "category": "国外时政,体育"
+    },
+    {
       "raw_hot": 352546,
       "num": 352546,
       "word": "成韩彬发文道歉",
@@ -25651,6 +25731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 330200,
+      "num": 330200,
+      "word": "全红婵跳水惊呆老外",
+      "onboard_time": 1722150200,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 330144,
       "num": 330144,
       "word": "被李晨45岁的老腰痛到了",
@@ -26952,6 +27040,14 @@
       "word": "董力回应被骂",
       "onboard_time": 1720352357,
       "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 311674,
+      "num": 311674,
+      "word": "Henry我们公开吗",
+      "onboard_time": 1722153684,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -28771,6 +28867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288970,
+      "num": 288970,
+      "word": "奥组委宣布取消铁人三项游泳训练",
+      "onboard_time": 1722153983,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 288939,
       "num": 288939,
       "word": "魏大勋已老实求放过",
@@ -29457,14 +29561,6 @@
       "onboard_time": 1720669038,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 282049,
-      "num": 282049,
-      "word": "孙颖莎女单首秀",
-      "onboard_time": 1722150920,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 281981,
@@ -31521,6 +31617,14 @@
       "onboard_time": 1722111012,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 257335,
+      "num": 257335,
+      "word": "柳智敏缺席aespa演唱会",
+      "onboard_time": 1722154582,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 257296,
@@ -34251,6 +34355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234077,
+      "num": 234077,
+      "word": "三十天速成世界冠军",
+      "onboard_time": 1722149962,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234073,
       "num": 234073,
       "word": "8岁男孩涂直播间祛疤胶后左脸腐烂",
@@ -36283,14 +36395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 220169,
-      "num": 220169,
-      "word": "三十天速成世界冠军",
-      "onboard_time": 1722149962,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 220111,
       "num": 220111,
       "word": "星穹铁道石心十人",
@@ -36449,14 +36553,6 @@
       "onboard_time": 1721727501,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 219126,
-      "num": 219126,
-      "word": "全红婵跳水惊呆老外",
-      "onboard_time": 1722150200,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 218901,
@@ -39811,6 +39907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204560,
+      "num": 204560,
+      "word": "凤凰组合巴黎奥运两连胜",
+      "onboard_time": 1722151940,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204552,
       "num": 204552,
       "word": "黄旭东吐槽JackeyLove",
@@ -40041,6 +40145,14 @@
       "onboard_time": 1721795841,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203727,
+      "num": 203727,
+      "word": "中国射击第2金",
+      "onboard_time": 1722154582,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 203670,
@@ -40377,14 +40489,6 @@
       "onboard_time": 1720496959,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 202841,
-      "num": 202841,
-      "word": "凤凰组合巴黎奥运两连胜",
-      "onboard_time": 1722151940,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 202798,
@@ -41089,6 +41193,14 @@
       "onboard_time": 1721651491,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 200632,
+      "num": 200632,
+      "word": "夜玫瑰的曲出战男子10米气手枪决赛",
+      "onboard_time": 1722154402,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 200625,
@@ -44097,6 +44209,14 @@
       "onboard_time": 1720342577,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191601,
+      "num": 191601,
+      "word": "中国射击队再夺一金",
+      "onboard_time": 1722154642,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 191578,
@@ -47515,6 +47635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180130,
+      "num": 180130,
+      "word": "全红婵追拍陈艺文昌雅妮",
+      "onboard_time": 1722151821,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180119,
       "num": 161553,
       "word": "我们的歌直播",
@@ -50299,14 +50427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170361,
-      "num": 170361,
-      "word": "全红婵追拍陈艺文昌雅妮",
-      "onboard_time": 1722151821,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 170358,
       "num": 170358,
       "word": "朱一龙社畜感在演我",
@@ -50673,6 +50793,14 @@
       "onboard_time": 1720512921,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169114,
+      "num": 518823,
+      "word": "农家乐遭山体滑坡多人正吃早餐",
+      "onboard_time": 1722150260,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169065,
@@ -56244,7 +56372,7 @@
     },
     {
       "raw_hot": 149119,
-      "num": 2170047,
+      "num": 4052802,
       "word": "从0的突破到00后的突破",
       "onboard_time": 1722140481,
       "rank": 2,
@@ -58427,6 +58555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140886,
+      "num": 1040747,
+      "word": "母亲回应杨思琪完成冲浪奥运首秀",
+      "onboard_time": 1722154582,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140871,
       "num": 140871,
       "word": "当地监管部门回应萝卜快跑定价争议",
@@ -60065,6 +60201,14 @@
       "onboard_time": 1721437159,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 135304,
+      "num": 164521,
+      "word": "15岁凉山女孩完成中国冲浪奥运首秀",
+      "onboard_time": 1722152300,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 135243,
@@ -63625,14 +63769,6 @@
       "onboard_time": 1719792318,
       "rank": 47,
       "category": "教育"
-    },
-    {
-      "raw_hot": 122638,
-      "num": 518823,
-      "word": "农家乐遭山体滑坡多人正吃早餐",
-      "onboard_time": 1722150260,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122581,
@@ -70881,6 +71017,14 @@
       "onboard_time": 1721826020,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81295,
+      "num": 654097,
+      "word": "饿了么免单挺中国泳士",
+      "onboard_time": 1722153620,
+      "rank": 14,
+      "category": "互联网,体育"
     },
     {
       "raw_hot": 81253,
