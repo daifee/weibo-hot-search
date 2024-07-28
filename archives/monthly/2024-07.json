@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1722159286904,
+  "endTime": 1722161967202,
   "band_list": [
     {
       "raw_hot": 16577668,
@@ -3643,6 +3643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1314086,
+      "num": 1314086,
+      "word": "女子10米气手枪决赛",
+      "onboard_time": 1722160641,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1314058,
       "num": 1067382,
       "word": "王家卫转发",
@@ -4240,6 +4248,14 @@
       "word": "巴黎奥运 女性主义",
       "onboard_time": 1722020895,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1201703,
+      "num": 1201703,
+      "word": "王楚钦最后一球帅死我了",
+      "onboard_time": 1722158363,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -4921,6 +4937,14 @@
       "onboard_time": 1721301197,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1107841,
+      "num": 938969,
+      "word": "虞书欣不用公筷被审判",
+      "onboard_time": 1722157762,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 1107762,
@@ -6643,14 +6667,6 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 938969,
-      "num": 938969,
-      "word": "虞书欣不用公筷被审判",
-      "onboard_time": 1722157762,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 938813,
       "num": 938813,
       "word": "医院通报医生传播患者麻醉裸照",
@@ -7041,6 +7057,14 @@
       "onboard_time": 1720321637,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 905814,
+      "num": 905814,
+      "word": "被央视女主持人射箭惊艳到了",
+      "onboard_time": 1722158723,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 905104,
@@ -8601,14 +8625,6 @@
       "onboard_time": 1721910320,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 803072,
-      "num": 803072,
-      "word": "王楚钦最后一球帅死我了",
-      "onboard_time": 1722158363,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 803029,
@@ -13675,6 +13691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 581013,
+      "num": 581013,
+      "word": "潘展乐200自预赛出局",
+      "onboard_time": 1722159863,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 580931,
       "num": 543818,
       "word": "长相思成了不被理解的痴男怨女",
@@ -16531,6 +16555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 502095,
+      "num": 502095,
+      "word": "奥组委宣布取消铁人三项游泳训练",
+      "onboard_time": 1722153983,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 501476,
       "num": 501476,
       "word": "唐诡2仵作之死最惨的是谁",
@@ -17553,14 +17585,6 @@
       "onboard_time": 1721399061,
       "rank": 14,
       "category": "数码"
-    },
-    {
-      "raw_hot": 481922,
-      "num": 481922,
-      "word": "奥组委宣布取消铁人三项游泳训练",
-      "onboard_time": 1722153983,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 481781,
@@ -18627,6 +18651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 456757,
+      "num": 456757,
+      "word": "真的菜菜曝唐朝诡事录造型抄袭",
+      "onboard_time": 1722161601,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 456721,
       "num": 456721,
       "word": "天生臭脸和天生笑脸的区别",
@@ -18729,6 +18761,14 @@
       "onboard_time": 1720327756,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 454846,
+      "num": 454846,
+      "word": "王楚钦晋级32强",
+      "onboard_time": 1722159325,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 454787,
@@ -24347,14 +24387,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 353277,
-      "num": 353277,
-      "word": "被央视女主持人射箭惊艳到了",
-      "onboard_time": 1722158723,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 353267,
       "num": 353267,
       "word": "林俊杰卡地亚现场",
@@ -27249,6 +27281,14 @@
       "onboard_time": 1721187678,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 310951,
+      "num": 310951,
+      "word": "王昶 这LV的凳子啊",
+      "onboard_time": 1722161480,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 310924,
@@ -30827,6 +30867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268846,
+      "num": 268846,
+      "word": "王楚钦开门红",
+      "onboard_time": 1722159683,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 268726,
       "num": 268726,
       "word": "代露娃回应长相思角色争议",
@@ -32563,6 +32611,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 250054,
+      "num": 250054,
+      "word": "女子体操资格赛",
+      "onboard_time": 1722161480,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 249974,
       "num": 249974,
       "word": "田曦薇花间提裙",
@@ -32873,6 +32929,14 @@
       "onboard_time": 1721825240,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 247803,
+      "num": 247803,
+      "word": "莎头组合一日双赛",
+      "onboard_time": 1722159443,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 247755,
@@ -33249,6 +33313,14 @@
       "onboard_time": 1720249697,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 244098,
+      "num": 244098,
+      "word": "炉石传说",
+      "onboard_time": 1722159923,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 244010,
@@ -39153,6 +39225,14 @@
       "onboard_time": 1721551579,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207712,
+      "num": 207712,
+      "word": "边松景4比1杜凯琹",
+      "onboard_time": 1722161900,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 207640,
@@ -51409,6 +51489,14 @@
       "onboard_time": 1720998734,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167833,
+      "num": 468467,
+      "word": "加200元95号汽油后油箱出现一半水",
+      "onboard_time": 1722159983,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167759,
