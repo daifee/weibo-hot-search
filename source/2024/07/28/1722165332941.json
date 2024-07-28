@@ -1,0 +1,410 @@
+{
+  "runTime": 1722165332941,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2338810,
+        "num": 2338810,
+        "word": "王楚钦vs汪洋",
+        "onboard_time": 1722156920,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1120410,
+        "num": 1120410,
+        "word": "真的菜菜曝唐朝诡事录造型抄袭",
+        "onboard_time": 1722161601,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31826,
+        "num": 1012596,
+        "word": "一人一句给中国健儿加油",
+        "onboard_time": 1722155543,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1000640,
+        "num": 1000640,
+        "word": "拜尔斯好牛",
+        "onboard_time": 1722162081,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 982464,
+        "num": 982464,
+        "word": "孙颖莎vs高桥茱莉亚",
+        "onboard_time": 1722152839,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 956835,
+        "num": 956835,
+        "word": "谢瑜男子10米气手枪金牌",
+        "onboard_time": 1722153744,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 937453,
+        "num": 937453,
+        "word": "女子10米气手枪决赛",
+        "onboard_time": 1722160641,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 908054,
+        "num": 908054,
+        "word": "中国第3金",
+        "onboard_time": 1722154043,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 881602,
+        "num": 881602,
+        "word": "全红婵像迪士尼门口卖假货的",
+        "onboard_time": 1722143121,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 871648,
+        "num": 871648,
+        "word": "王昶 这LV的凳子啊",
+        "onboard_time": 1722161480,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1062087,
+        "num": 868440,
+        "word": "虞书欣不用公筷被审判",
+        "onboard_time": 1722157762,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 840870,
+        "num": 840870,
+        "word": "全红婵跳水惊呆老外",
+        "onboard_time": 1722150200,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 746083,
+        "num": 746083,
+        "word": "削球 难打",
+        "onboard_time": 1722158542,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63448,
+        "num": 709124,
+        "word": "谷爱凌和新朋友灵龙",
+        "onboard_time": 1722162623,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 681920,
+        "num": 681920,
+        "word": "韩国选手破奥运纪录夺冠",
+        "onboard_time": 1722164362,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 668286,
+        "num": 668286,
+        "word": "被央视女主持人射箭惊艳到了",
+        "onboard_time": 1722158723,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 658087,
+        "num": 658087,
+        "word": "王楚钦最后一球帅死我了",
+        "onboard_time": 1722158363,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56820,
+        "num": 595808,
+        "word": "迈巴赫司机雨中截停女子硬塞伞",
+        "onboard_time": 1722165080,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586456,
+        "num": 586456,
+        "word": "女子体操资格赛",
+        "onboard_time": 1722161480,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 571362,
+        "num": 571362,
+        "word": "巴黎奥运赞助商回应撤资",
+        "onboard_time": 1722148040,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3011719,
+        "num": 568944,
+        "word": "孙颖莎说吵死了",
+        "onboard_time": 1722157161,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 551833,
+        "num": 551833,
+        "word": "黄雨婷晋级决赛",
+        "onboard_time": 1722157521,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 461935,
+        "num": 461935,
+        "word": "10米气手枪李雪第5姜冉馨第6",
+        "onboard_time": 1722162861,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 437287,
+        "num": 437287,
+        "word": "男子10米气手枪决赛",
+        "onboard_time": 1722151999,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 408653,
+        "num": 408653,
+        "word": "滑板小孩姐好稳",
+        "onboard_time": 1722164481,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 372097,
+        "num": 372097,
+        "word": "谢瑜反超",
+        "onboard_time": 1722153620,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 368494,
+        "num": 368494,
+        "word": "孙颖莎晋级32强",
+        "onboard_time": 1722156082,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 363616,
+        "num": 363616,
+        "word": "中国女篮vs西班牙女篮",
+        "onboard_time": 1722164481,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69089,
+        "num": 362465,
+        "word": "应急管理部派工作组赴衡阳山体滑坡现场",
+        "onboard_time": 1722163222,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72882,
+        "num": 361600,
+        "word": "马来西亚申请加入金砖国家",
+        "onboard_time": 1722165080,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 361556,
+        "num": 361556,
+        "word": "巴黎奥运 韩国人破防",
+        "onboard_time": 1722149780,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 362919,
+        "num": 360444,
+        "word": "邱祺缘欧钰珊掉木",
+        "onboard_time": 1722165143,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 351839,
+        "num": 351839,
+        "word": "王昶好帅",
+        "onboard_time": 1722162681,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 344216,
+        "num": 344216,
+        "word": "奥组委宣布取消铁人三项游泳训练",
+        "onboard_time": 1722153983,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 332890,
+        "num": 332890,
+        "word": "王楚钦男单首秀",
+        "onboard_time": 1722156323,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320451,
+        "num": 320451,
+        "word": "谢瑜好稳",
+        "onboard_time": 1722153684,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318129,
+        "num": 318129,
+        "word": "湖南衡阳山体滑坡",
+        "onboard_time": 1722145882,
+        "rank": 36,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 308462,
+        "num": 308462,
+        "word": "孙颖莎单打开门红",
+        "onboard_time": 1722155963,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306400,
+        "num": 306400,
+        "word": "贻定颖",
+        "onboard_time": 1722155602,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302170,
+        "num": 302170,
+        "word": "吴敏霞称女儿经检测不适合练跳水",
+        "onboard_time": 1722148639,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290003,
+        "num": 290003,
+        "word": "石头将无法出席五月天太原演唱会",
+        "onboard_time": 1722161422,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 285404,
+        "num": 285404,
+        "word": "王楚钦晋级32强",
+        "onboard_time": 1722159325,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274012,
+        "num": 274012,
+        "word": "孙颖莎女单首秀",
+        "onboard_time": 1722150920,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267033,
+        "num": 267033,
+        "word": "潘展乐200自预赛出局",
+        "onboard_time": 1722159863,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264138,
+        "num": 264138,
+        "word": "孙颖莎帮忙捡球",
+        "onboard_time": 1722163763,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262699,
+        "num": 262699,
+        "word": "加200元95号汽油后油箱出现一半水",
+        "onboard_time": 1722159983,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246715,
+        "num": 255805,
+        "word": "舞蹈老师复刻奥运会名场面",
+        "onboard_time": 1722163822,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255759,
+        "num": 255759,
+        "word": "刘强东章泽天带女儿看奥运会",
+        "onboard_time": 1722145527,
+        "rank": 47,
+        "category": "互联网,体育"
+      },
+      {
+        "raw_hot": 254950,
+        "num": 254950,
+        "word": "王楚钦绕场一周再退场",
+        "onboard_time": 1722164661,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240715,
+        "num": 240715,
+        "word": "苏醒 孕妇没有大家想象的那么挑剔",
+        "onboard_time": 1722140301,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂全会决定中的这些名词#"
+    }
+  }
+}
