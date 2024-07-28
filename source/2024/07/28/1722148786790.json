@@ -1,0 +1,410 @@
+{
+  "runTime": 1722148786790,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8865694,
+        "num": 8865694,
+        "word": "巴黎停电",
+        "onboard_time": 1722139881,
+        "rank": 0,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 2275517,
+        "num": 2275517,
+        "word": "全红婵像迪士尼门口卖假货的",
+        "onboard_time": 1722143121,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107123,
+        "num": 1395828,
+        "word": "从0的突破到00后的突破",
+        "onboard_time": 1722140481,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 821789,
+        "num": 821789,
+        "word": "韩国游泳男选手搬离宿舍去住酒店了",
+        "onboard_time": 1722137181,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 703184,
+        "num": 703184,
+        "word": "苏醒 孕妇没有大家想象的那么挑剔",
+        "onboard_time": 1722140301,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 623996,
+        "num": 623996,
+        "word": "巴黎奥运会赞助商跑路",
+        "onboard_time": 1722132922,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 480895,
+        "num": 480895,
+        "word": "湖南衡阳山体滑坡约20人被困",
+        "onboard_time": 1722136583,
+        "rank": 6,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 464094,
+        "num": 464094,
+        "word": "唐朝诡事录热度破万",
+        "onboard_time": 1722143963,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273454,
+        "num": 463449,
+        "word": "日本民众集会要求返还从中国掠夺文物",
+        "onboard_time": 1722147680,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 133557,
+        "num": 461406,
+        "word": "炉石回归送全卡",
+        "onboard_time": 1722147085,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1763768,
+        "num": 460417,
+        "word": "奥运会官号删除巴黎开幕式视频",
+        "onboard_time": 1722130101,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 509823,
+        "num": 457900,
+        "word": "巴黎奥运赞助商回应撤资",
+        "onboard_time": 1722148040,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 457800,
+        "num": 457800,
+        "word": "湖南衡阳山体滑坡",
+        "onboard_time": 1722145882,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 476373,
+        "num": 456557,
+        "word": "严屹宽老婆遇水果刺客",
+        "onboard_time": 1722147323,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 440410,
+        "num": 440410,
+        "word": "台风格美已造成福建省76.69万人受灾",
+        "onboard_time": 1722132983,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420363,
+        "num": 420363,
+        "word": "平台回应88VIP会员买东西更贵",
+        "onboard_time": 1722142341,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 370686,
+        "num": 370686,
+        "word": "憨豆先生是唯一敢在奥运会上开玩笑的",
+        "onboard_time": 1722136283,
+        "rank": 16,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 46751,
+        "num": 366079,
+        "word": "傅园慧洪荒之力送免单",
+        "onboard_time": 1722145708,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 362772,
+        "num": 362772,
+        "word": "贾玲 这一刻真的好为她骄傲",
+        "onboard_time": 1722147502,
+        "rank": 18,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 357473,
+        "num": 357473,
+        "word": "这一跳没有惊动水却惊动了全世界",
+        "onboard_time": 1722138620,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 401502,
+        "num": 357471,
+        "word": "全红婵平地入水都可以这么完美",
+        "onboard_time": 1722144382,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 349387,
+        "num": 349387,
+        "word": "混双爆冷日本网友绷不住了",
+        "onboard_time": 1722132863,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 345866,
+        "num": 345866,
+        "word": "汪涵老婆杨乐乐晒带娃vlog",
+        "onboard_time": 1722147265,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333252,
+        "num": 333252,
+        "word": "席琳迪翁是巴黎奥运会的第一个赢家",
+        "onboard_time": 1722139280,
+        "rank": 23,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 323898,
+        "num": 323898,
+        "word": "巴黎奥运官方暂未回应开幕式争议",
+        "onboard_time": 1722144922,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27317,
+        "num": 313905,
+        "word": "嵇炀让你接地气没让你杵地里",
+        "onboard_time": 1722143542,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311042,
+        "num": 311042,
+        "word": "女童遭父亲性侵被奶奶要求写谅解书",
+        "onboard_time": 1722133703,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306793,
+        "num": 306793,
+        "word": "黄雨婷的一床娃娃",
+        "onboard_time": 1722146241,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21334,
+        "num": 291482,
+        "word": "代露娃 我和阿念共同成长",
+        "onboard_time": 1722148761,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20280,
+        "num": 291175,
+        "word": "炉石停服错过的收藏品将返场",
+        "onboard_time": 1722148220,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1633267,
+        "num": 291166,
+        "word": "刘强东章泽天带女儿看奥运会",
+        "onboard_time": 1722145527,
+        "rank": 30,
+        "category": "互联网,体育"
+      },
+      {
+        "raw_hot": 291142,
+        "num": 291142,
+        "word": "存款利率进入1%时代",
+        "onboard_time": 1722145402,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 263637,
+        "num": 263637,
+        "word": "孙杨400米自由泳纪录12年未被打破",
+        "onboard_time": 1722136162,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257743,
+        "num": 257743,
+        "word": "巴黎奥运会颁奖没有鲜花",
+        "onboard_time": 1722139643,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252659,
+        "num": 252659,
+        "word": "赵露思得知中国队连拿两金后的反应",
+        "onboard_time": 1722130222,
+        "rank": 34,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 224673,
+        "num": 224673,
+        "word": "朝鲜乒乓教练嘴角压不住了",
+        "onboard_time": 1722126859,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217993,
+        "num": 217993,
+        "word": "霉霉演唱会隔壁山上全是人",
+        "onboard_time": 1722148520,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 212164,
+        "num": 212164,
+        "word": "张大大贴脸问张宥浩李庚希恋情",
+        "onboard_time": 1722143422,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211853,
+        "num": 211853,
+        "word": "吴敏霞称女儿经检测不适合练跳水",
+        "onboard_time": 1722148639,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 947990,
+        "num": 211727,
+        "word": "法媒把韩国国旗认成百事",
+        "onboard_time": 1722142581,
+        "rank": 39,
+        "category": "体育,国外时政"
+      },
+      {
+        "raw_hot": 211004,
+        "num": 211004,
+        "word": "巴黎奥运会把韩国首金的名字打错",
+        "onboard_time": 1722139942,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200366,
+        "num": 200366,
+        "word": "奥运官方账号上只有韩国国旗被虚化",
+        "onboard_time": 1722146485,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48955,
+        "num": 196654,
+        "word": "大胆预测美团免单时间点",
+        "onboard_time": 1722143842,
+        "rank": 42,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 195018,
+        "num": 195018,
+        "word": "沈月通过微博私信联系队友",
+        "onboard_time": 1722142702,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190065,
+        "num": 190065,
+        "word": "最后的晚餐",
+        "onboard_time": 1722142102,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178961,
+        "num": 178961,
+        "word": "王鹤润回应藏牌争议",
+        "onboard_time": 1722146119,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178251,
+        "num": 178251,
+        "word": "许昕 神秘之师不好惹",
+        "onboard_time": 1722095615,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175692,
+        "num": 175692,
+        "word": "小唐尼回归复联5",
+        "onboard_time": 1722133582,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170508,
+        "num": 170508,
+        "word": "长沙暴雨",
+        "onboard_time": 1722136102,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170748,
+        "num": 168483,
+        "word": "小罗伯特唐尼 毁灭博士",
+        "onboard_time": 1722138141,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#生态文明直接关系人民群众的生活幸福#"
+    }
+  }
+}
