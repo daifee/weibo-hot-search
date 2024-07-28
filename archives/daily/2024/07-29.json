@@ -1,6 +1,6 @@
 {
   "startTime": 1722183872314,
-  "endTime": 1722208793967,
+  "endTime": 1722209686229,
   "band_list": [
     {
       "raw_hot": 13356940,
@@ -99,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1697978,
+      "num": 1697978,
+      "word": "法国人天天两眼一睁就是惹韩国人生气",
+      "onboard_time": 1722188114,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1585164,
       "num": 1585164,
       "word": "女篮解说 打球化妆",
@@ -128,14 +136,6 @@
       "word": "女子100米蝶泳决赛",
       "onboard_time": 1722192433,
       "rank": 0,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1341058,
-      "num": 1341058,
-      "word": "法国人天天两眼一睁就是惹韩国人生气",
-      "onboard_time": 1722188114,
-      "rank": 14,
       "category": "体育"
     },
     {
@@ -195,20 +195,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1044712,
+      "num": 1023291,
+      "word": "苏醒说乒乓球是毫无悬念的比赛",
+      "onboard_time": 1722191415,
+      "rank": 17,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 1031980,
       "num": 1031980,
       "word": "射箭女团决赛中韩大战",
       "onboard_time": 1722179422,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1023291,
-      "num": 1023291,
-      "word": "苏醒说乒乓球是毫无悬念的比赛",
-      "onboard_time": 1722191415,
-      "rank": 17,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 991457,
@@ -243,8 +243,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 758359,
-      "num": 758359,
+      "raw_hot": 797520,
+      "num": 797520,
       "word": "小孩姐第一次参加奥运就创造历史",
       "onboard_time": 1722187456,
       "rank": 28,
@@ -339,8 +339,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 509346,
-      "num": 509346,
+      "raw_hot": 522829,
+      "num": 522829,
       "word": "巴黎奥运会奖牌榜弄错韩国国旗",
       "onboard_time": 1722188415,
       "rank": 8,
@@ -371,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 472050,
+      "num": 472050,
+      "word": "泳池好浅",
+      "onboard_time": 1722197472,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 462836,
       "num": 462836,
       "word": "谢瑜男子10米气手枪金牌",
@@ -385,14 +393,6 @@
       "onboard_time": 1722177803,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 446612,
-      "num": 446612,
-      "word": "泳池好浅",
-      "onboard_time": 1722197472,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 444314,
@@ -595,11 +595,51 @@
       "category": "体育"
     },
     {
+      "raw_hot": 283955,
+      "num": 283955,
+      "word": "阿根廷选手出场时显示中国国旗",
+      "onboard_time": 1722208216,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 265145,
+      "num": 265145,
+      "word": "美国男篮狂砍110分",
+      "onboard_time": 1722208216,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 260521,
       "num": 260521,
       "word": "奥运会",
       "onboard_time": 1722184342,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 224794,
+      "num": 224794,
+      "word": "妈妈不理解但是主打一个尊重",
+      "onboard_time": 1722203652,
+      "rank": 41,
+      "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 210347,
+      "num": 185564,
+      "word": "面对世界第一他真的尽力了",
+      "onboard_time": 1722208216,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 205553,
+      "num": 184889,
+      "word": "覃海洋说后50米游得很乱",
+      "onboard_time": 1722208216,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -609,22 +649,6 @@
       "onboard_time": 1722194772,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 200283,
-      "num": 200283,
-      "word": "阿根廷选手出场时显示中国国旗",
-      "onboard_time": 1722208216,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 195187,
-      "num": 195187,
-      "word": "妈妈不理解但是主打一个尊重",
-      "onboard_time": 1722203652,
-      "rank": 41,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 195059,
@@ -651,19 +675,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174077,
-      "num": 174077,
-      "word": "覃海洋说后50米游得很乱",
-      "onboard_time": 1722208216,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 172390,
-      "num": 172390,
-      "word": "美国男篮狂砍110分",
-      "onboard_time": 1722208216,
-      "rank": 31,
+      "raw_hot": 177053,
+      "num": 177053,
+      "word": "王楚钦说珍惜和莎莎一起征战奥运",
+      "onboard_time": 1722200051,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -683,27 +699,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 159600,
-      "num": 159600,
-      "word": "王楚钦说珍惜和莎莎一起征战奥运",
-      "onboard_time": 1722200051,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 156420,
       "num": 156420,
       "word": "莎头 惊心动魄",
       "onboard_time": 1722185299,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 150740,
-      "num": 150740,
-      "word": "面对世界第一他真的尽力了",
-      "onboard_time": 1722208216,
-      "rank": 38,
       "category": "体育"
     },
     {
@@ -713,6 +713,30 @@
       "onboard_time": 1722185598,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145990,
+      "num": 145990,
+      "word": "肖战法国游满屏松弛感",
+      "onboard_time": 1722204373,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 143814,
+      "num": 143814,
+      "word": "阿条姐和干饭哥冲击个人项目金牌",
+      "onboard_time": 1722209179,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 141085,
+      "num": 141085,
+      "word": "刘诗诗出发巴黎",
+      "onboard_time": 1722209179,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 137306,
@@ -739,14 +763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132173,
-      "num": 132173,
-      "word": "肖战法国游满屏松弛感",
-      "onboard_time": 1722204373,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 128911,
       "num": 128911,
       "word": "张雨霏好棒",
@@ -763,12 +779,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124724,
+      "num": 124724,
+      "word": "巴黎偶遇郭晶晶霍启刚霍启山",
+      "onboard_time": 1722167541,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121608,
       "num": 121608,
       "word": "第五人格",
       "onboard_time": 1722189194,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 120000,
+      "num": 120000,
+      "word": "张雨霏戴五环眼镜",
+      "onboard_time": 1722208697,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 115954,
@@ -784,14 +816,6 @@
       "word": "张之臻无缘奥运32强",
       "onboard_time": 1722189016,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 107257,
-      "num": 107257,
-      "word": "张雨霏戴五环眼镜",
-      "onboard_time": 1722208697,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -875,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68046,
+      "num": 529410,
+      "word": "高考生带录取通知书去公安局报喜",
+      "onboard_time": 1722209360,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 57413,
       "num": 1277329,
       "word": "从北京到巴黎为和平与团结努力",
@@ -931,7 +963,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17295,
+      "raw_hot": 27707,
       "num": 520952,
       "word": "小伙被海浪卷走漂1小时被热心人救起",
       "onboard_time": 1722208276,
