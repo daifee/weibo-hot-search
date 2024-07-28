@@ -1,0 +1,410 @@
+{
+  "runTime": 1722172847006,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2660236,
+        "num": 2660236,
+        "word": "田志希爆冷出局",
+        "onboard_time": 1722166581,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2622771,
+        "num": 2622771,
+        "word": "中国女篮vs西班牙女篮",
+        "onboard_time": 1722164481,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17783,
+        "num": 2560170,
+        "word": "文化中国行打卡北京中轴线",
+        "onboard_time": 1722172224,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2549814,
+        "num": 2549814,
+        "word": "女篮解说 打球化妆",
+        "onboard_time": 1722170601,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1486608,
+        "num": 1486608,
+        "word": "杨舒予太帅了",
+        "onboard_time": 1722168203,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1125016,
+        "num": 1125016,
+        "word": "姚明现场督战女篮巴黎首秀",
+        "onboard_time": 1722169946,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 916691,
+        "num": 916691,
+        "word": "中国女篮三分绝了",
+        "onboard_time": 1722171382,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 905757,
+        "num": 905757,
+        "word": "中国女篮失误",
+        "onboard_time": 1722169101,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 620495,
+        "num": 620495,
+        "word": "谢瑜男子10米气手枪金牌",
+        "onboard_time": 1722153744,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61346,
+        "num": 609299,
+        "word": "泰缅边界遭遇惊魂8小时",
+        "onboard_time": 1722171682,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 944116,
+        "num": 606380,
+        "word": "田亮真的把森碟养的很好",
+        "onboard_time": 1722166281,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 725749,
+        "num": 606178,
+        "word": "拜尔斯跳马跳了男子动作",
+        "onboard_time": 1722170661,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 601820,
+        "num": 601820,
+        "word": "全红婵像迪士尼门口卖假货的",
+        "onboard_time": 1722143121,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 582046,
+        "num": 582046,
+        "word": "王昶 这LV的凳子啊",
+        "onboard_time": 1722161480,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 577471,
+        "num": 577471,
+        "word": "韩国选手破奥运纪录夺冠",
+        "onboard_time": 1722164362,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 565454,
+        "num": 565454,
+        "word": "王楚钦vs汪洋",
+        "onboard_time": 1722156920,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 678351,
+        "num": 564749,
+        "word": "虞书欣不用公筷被审判",
+        "onboard_time": 1722157762,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 559873,
+        "num": 559873,
+        "word": "巴黎偶遇郭晶晶霍启刚霍启山",
+        "onboard_time": 1722167541,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510261,
+        "num": 510261,
+        "word": "中国第3金",
+        "onboard_time": 1722154043,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 497832,
+        "num": 497832,
+        "word": "我勒个三十天速成世界冠军",
+        "onboard_time": 1722169762,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1643150,
+        "num": 496775,
+        "word": "孙颖莎说吵死了",
+        "onboard_time": 1722157161,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 493405,
+        "num": 493405,
+        "word": "真的菜菜曝唐朝诡事录造型抄袭",
+        "onboard_time": 1722161601,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 452904,
+        "num": 452904,
+        "word": "孙颖莎vs高桥茱莉亚",
+        "onboard_time": 1722152839,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 448809,
+        "num": 448809,
+        "word": "中国乒乓球队混双",
+        "onboard_time": 1722171147,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 442496,
+        "num": 442496,
+        "word": "华天 马术",
+        "onboard_time": 1722168921,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 437326,
+        "num": 437326,
+        "word": "孙杨回应奥运纪录仍未被打破",
+        "onboard_time": 1722171561,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 426088,
+        "num": 426088,
+        "word": "滑板小孩姐好稳",
+        "onboard_time": 1722164481,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 423792,
+        "num": 423792,
+        "word": "体操小花好可爱",
+        "onboard_time": 1722165981,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 413909,
+        "num": 413909,
+        "word": "中国女篮半场领先西班牙4分",
+        "onboard_time": 1722169889,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258158,
+        "num": 408637,
+        "word": "崔宸曦杀疯了",
+        "onboard_time": 1722167781,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 386691,
+        "num": 386691,
+        "word": "射箭女子团体",
+        "onboard_time": 1722171682,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 379932,
+        "num": 379932,
+        "word": "内娱四大短顶",
+        "onboard_time": 1722169162,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373736,
+        "num": 373736,
+        "word": "全红婵跳水惊呆老外",
+        "onboard_time": 1722150200,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 360035,
+        "num": 360035,
+        "word": "王楚钦男单首秀",
+        "onboard_time": 1722156323,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 349857,
+        "num": 349857,
+        "word": "李梦状态",
+        "onboard_time": 1722168921,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333502,
+        "num": 333502,
+        "word": "巴黎奥运赞助商回应撤资",
+        "onboard_time": 1722148040,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303880,
+        "num": 303880,
+        "word": "张怡涵自由操",
+        "onboard_time": 1722169404,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293481,
+        "num": 293481,
+        "word": "孙颖莎晋级32强",
+        "onboard_time": 1722156082,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292739,
+        "num": 292739,
+        "word": "雅思组合两连胜",
+        "onboard_time": 1722171502,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289458,
+        "num": 289458,
+        "word": "李月汝好强",
+        "onboard_time": 1722170601,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287730,
+        "num": 287730,
+        "word": "韩国济州岛偶遇张子萱",
+        "onboard_time": 1722168803,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278138,
+        "num": 278138,
+        "word": "王楚钦晋级32强",
+        "onboard_time": 1722159325,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264541,
+        "num": 264541,
+        "word": "郑好好才11岁",
+        "onboard_time": 1722168741,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262157,
+        "num": 262157,
+        "word": "男子10米气手枪决赛",
+        "onboard_time": 1722151999,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252412,
+        "num": 252412,
+        "word": "孙颖莎单打开门红",
+        "onboard_time": 1722155963,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251562,
+        "num": 251562,
+        "word": "顶级运动员这该死的胜负欲",
+        "onboard_time": 1722165501,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246283,
+        "num": 246283,
+        "word": "郑钦文奥运首秀",
+        "onboard_time": 1722172402,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240046,
+        "num": 240046,
+        "word": "香缇莫凡希亚官宣歌手后首个演唱会",
+        "onboard_time": 1722166880,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 235473,
+        "num": 235473,
+        "word": "陈雨菲vs李怡逢",
+        "onboard_time": 1722172761,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224772,
+        "num": 224772,
+        "word": "韩旭好牛",
+        "onboard_time": 1722172823,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂全会决定中的这些名词#"
+    }
+  }
+}
