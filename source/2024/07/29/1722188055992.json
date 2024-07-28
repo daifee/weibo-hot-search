@@ -1,0 +1,410 @@
+{
+  "runTime": 1722188055992,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1375377,
+        "num": 1375377,
+        "word": "莎头组合进半决赛",
+        "onboard_time": 1722183032,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1247495,
+        "num": 1247495,
+        "word": "许昕点评莎头比赛",
+        "onboard_time": 1722185776,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30637,
+        "num": 1243786,
+        "word": "奥运会上的中国队太燃了",
+        "onboard_time": 1722171862,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1240360,
+        "num": 1240360,
+        "word": "姚明 不要犯规",
+        "onboard_time": 1722185178,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1061966,
+        "num": 1061966,
+        "word": "王楚钦孙颖莎vs林昀儒陈思羽",
+        "onboard_time": 1722177203,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 821372,
+        "num": 821372,
+        "word": "杨毅回应女篮解说言论",
+        "onboard_time": 1722181527,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 815751,
+        "num": 815751,
+        "word": "大杀器杜兰特",
+        "onboard_time": 1722181766,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 672088,
+        "num": 672088,
+        "word": "郭晶晶裁判长好飒",
+        "onboard_time": 1722182063,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 590992,
+        "num": 590992,
+        "word": "王楚钦",
+        "onboard_time": 1722184940,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48835,
+        "num": 549703,
+        "word": "央视曝光卡牌盲盒乱象",
+        "onboard_time": 1722187576,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 919099,
+        "num": 547961,
+        "word": "遮球",
+        "onboard_time": 1722186077,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 719681,
+        "num": 539334,
+        "word": "女篮解说 打球化妆",
+        "onboard_time": 1722170601,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 513177,
+        "num": 513177,
+        "word": "巴黎奥组委为开幕式争议节目道歉",
+        "onboard_time": 1722174810,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 487085,
+        "num": 487085,
+        "word": "库里防约老师",
+        "onboard_time": 1722182914,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 475877,
+        "num": 475877,
+        "word": "福原爱谈日本混双爆冷出局",
+        "onboard_time": 1722179665,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 467355,
+        "num": 467355,
+        "word": "苏醒来看莎头比赛",
+        "onboard_time": 1722177743,
+        "rank": 15,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 437306,
+        "num": 437306,
+        "word": "莎头组合大心脏",
+        "onboard_time": 1722183805,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 436418,
+        "num": 436418,
+        "word": "朝鲜混双有点东西",
+        "onboard_time": 1722178293,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 370718,
+        "num": 370718,
+        "word": "田志希爆冷出局",
+        "onboard_time": 1722166581,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 338824,
+        "num": 338824,
+        "word": "未成年人抽卡近乎疯狂",
+        "onboard_time": 1722181766,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338182,
+        "num": 338182,
+        "word": "詹姆斯扣篮",
+        "onboard_time": 1722183269,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 326765,
+        "num": 326765,
+        "word": "滑板决赛",
+        "onboard_time": 1722180744,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282896,
+        "num": 282896,
+        "word": "崔宸曦第4",
+        "onboard_time": 1722185178,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265463,
+        "num": 265463,
+        "word": "马龙观赛莎头",
+        "onboard_time": 1722180923,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232121,
+        "num": 232121,
+        "word": "王楚钦 接发球",
+        "onboard_time": 1722180808,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231350,
+        "num": 231350,
+        "word": "拜尔斯跳马跳了男子动作",
+        "onboard_time": 1722170661,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224318,
+        "num": 224318,
+        "word": "乒乓球混双四强",
+        "onboard_time": 1722184580,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199846,
+        "num": 199846,
+        "word": "中国姑娘射箭团体银牌",
+        "onboard_time": 1722181884,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195293,
+        "num": 195293,
+        "word": "小孩姐第一次参加奥运就创造历史",
+        "onboard_time": 1722187456,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195059,
+        "num": 195059,
+        "word": "程玉洁带刘耀文小卡去奥运会",
+        "onboard_time": 1722186976,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194441,
+        "num": 194441,
+        "word": "杨毅",
+        "onboard_time": 1722176004,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191586,
+        "num": 191586,
+        "word": "塞尔维亚男篮vs美国男篮",
+        "onboard_time": 1722181403,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190245,
+        "num": 190245,
+        "word": "刘诗雯观赛",
+        "onboard_time": 1722182853,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177387,
+        "num": 177387,
+        "word": "孙颖莎赛后采访",
+        "onboard_time": 1722186617,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175300,
+        "num": 175300,
+        "word": "中国女篮不敌西班牙女篮",
+        "onboard_time": 1722174687,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173623,
+        "num": 173623,
+        "word": "奥运会限定版莎头",
+        "onboard_time": 1722182246,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172892,
+        "num": 172892,
+        "word": "田亮真的把森碟养的很好",
+        "onboard_time": 1722166281,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164990,
+        "num": 164990,
+        "word": "王昶 座椅品鉴大师",
+        "onboard_time": 1722182486,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162666,
+        "num": 162666,
+        "word": "华天的马受惊",
+        "onboard_time": 1722179902,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157759,
+        "num": 157759,
+        "word": "中国女篮vs西班牙女篮",
+        "onboard_time": 1722164481,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156601,
+        "num": 156601,
+        "word": "王源陆虎祝赵英俊生日快乐",
+        "onboard_time": 1722177803,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155648,
+        "num": 155648,
+        "word": "射箭附加赛",
+        "onboard_time": 1722181527,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152671,
+        "num": 152671,
+        "word": "莎头",
+        "onboard_time": 1722181527,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147258,
+        "num": 147258,
+        "word": "王楚钦孙颖莎4比2林昀儒陈思羽",
+        "onboard_time": 1722185598,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136498,
+        "num": 136498,
+        "word": "莎头组合一日双赛",
+        "onboard_time": 1722159443,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46266,
+        "num": 134294,
+        "word": "昌雅妮夺冠后收到爸爸的188红包",
+        "onboard_time": 1722186736,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133197,
+        "num": 133197,
+        "word": "女篮比分好胶着",
+        "onboard_time": 1722174508,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131970,
+        "num": 131970,
+        "word": "谢瑜男子10米气手枪金牌",
+        "onboard_time": 1722153744,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125954,
+        "num": 125954,
+        "word": "姚明现场督战女篮巴黎首秀",
+        "onboard_time": 1722169946,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124371,
+        "num": 124371,
+        "word": "滑板小孩姐好稳",
+        "onboard_time": 1722164481,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#弘扬奥林匹克运动精神#"
+    }
+  }
+}
