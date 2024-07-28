@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/07/28 22:16:59
+本榜单时间：2024/01/01 00:21:05 ~ 2024/07/28 22:34:36
 </p>
 </blockquote>
 <p>
@@ -1353,6 +1353,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%A5%A5%E7%BB%84%E5%A7%94%E4%B8%BA%E5%BC%80%E5%B9%95%E5%BC%8F%E9%81%93%E6%AD%89%23" target="weibo">
+巴黎奥组委为开幕式道歉（热度：4599515）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%E4%B8%BA%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%8A%A5%E8%AD%A6%23" target="weibo">
 乐华为王一博报警（热度：4580625）
 </a>
@@ -1805,12 +1811,6 @@ SM承认柳智敏恋情（热度：4051630）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%92%B0%E7%90%AA%E5%9B%9E%E5%BA%94%E4%B8%AD%E6%8C%87%23" target="weibo">
 张钰琪回应中指（热度：3669505）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B9%95%E5%BC%8F%20%E7%AE%80%E9%99%8B%23" target="weibo">
-开幕式 简陋（热度：3665895）
 </a>
 </li>
 
