@@ -1,0 +1,410 @@
+{
+  "runTime": 1722205117453,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1067857,
+        "num": 1067857,
+        "word": "雨霏别哭",
+        "onboard_time": 1722195972,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 533810,
+        "num": 533810,
+        "word": "王楚钦孙颖莎vs林昀儒陈思羽",
+        "onboard_time": 1722177203,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5546,
+        "num": 450088,
+        "word": "奥运会上的中国队太燃了",
+        "onboard_time": 1722171862,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440905,
+        "num": 440905,
+        "word": "法国人天天两眼一睁就是惹韩国人生气",
+        "onboard_time": 1722188114,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 385059,
+        "num": 385059,
+        "word": "苏醒说乒乓球是毫无悬念的比赛",
+        "onboard_time": 1722191415,
+        "rank": 4,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 377924,
+        "num": 377924,
+        "word": "覃海洋100蛙第7",
+        "onboard_time": 1722197113,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293995,
+        "num": 293995,
+        "word": "姚明 不要犯规",
+        "onboard_time": 1722185178,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273597,
+        "num": 273597,
+        "word": "小孩姐第一次参加奥运就创造历史",
+        "onboard_time": 1722187456,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259276,
+        "num": 259276,
+        "word": "泳池好浅",
+        "onboard_time": 1722197472,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11663,
+        "num": 215824,
+        "word": "妈妈执意要和079号战机合影",
+        "onboard_time": 1722203772,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202922,
+        "num": 202922,
+        "word": "男子100米蛙泳决赛",
+        "onboard_time": 1722195491,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184264,
+        "num": 184264,
+        "word": "覃海洋说特别想赢没调整好",
+        "onboard_time": 1722200951,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183736,
+        "num": 183736,
+        "word": "福原爱谈日本混双爆冷出局",
+        "onboard_time": 1722179665,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183233,
+        "num": 183233,
+        "word": "巴黎奥组委为开幕式争议节目道歉",
+        "onboard_time": 1722174810,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178897,
+        "num": 178897,
+        "word": "女子体操",
+        "onboard_time": 1722192014,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174596,
+        "num": 174596,
+        "word": "徐嘉余太快了",
+        "onboard_time": 1722196391,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158841,
+        "num": 158841,
+        "word": "巴黎奥运会奖牌榜弄错韩国国旗",
+        "onboard_time": 1722188415,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154155,
+        "num": 154155,
+        "word": "莎头组合进半决赛",
+        "onboard_time": 1722183032,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150818,
+        "num": 150818,
+        "word": "许昕点评莎头比赛",
+        "onboard_time": 1722185776,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145029,
+        "num": 145029,
+        "word": "张雨霏100蝶铜牌",
+        "onboard_time": 1722192854,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141101,
+        "num": 141101,
+        "word": "田志希爆冷出局",
+        "onboard_time": 1722166581,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136377,
+        "num": 136377,
+        "word": "女子100米蝶泳决赛",
+        "onboard_time": 1722192433,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119079,
+        "num": 119079,
+        "word": "王楚钦",
+        "onboard_time": 1722184940,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105569,
+        "num": 105569,
+        "word": "杨毅回应女篮解说言论",
+        "onboard_time": 1722181527,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98912,
+        "num": 98912,
+        "word": "大杀器杜兰特",
+        "onboard_time": 1722181766,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94981,
+        "num": 94981,
+        "word": "奥运会游泳",
+        "onboard_time": 1722191353,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92317,
+        "num": 92317,
+        "word": "朝鲜混双有点东西",
+        "onboard_time": 1722178293,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90134,
+        "num": 90134,
+        "word": "央视曝光卡牌盲盒乱象",
+        "onboard_time": 1722187576,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89396,
+        "num": 89396,
+        "word": "徐嘉余小组第1晋级决赛",
+        "onboard_time": 1722196511,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85551,
+        "num": 85551,
+        "word": "女篮解说 打球化妆",
+        "onboard_time": 1722170601,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80957,
+        "num": 80957,
+        "word": "王楚钦说珍惜和莎莎一起征战奥运",
+        "onboard_time": 1722200051,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77684,
+        "num": 77684,
+        "word": "中国姑娘射箭团体银牌",
+        "onboard_time": 1722181884,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74611,
+        "num": 74611,
+        "word": "覃海洋出场 男模走秀",
+        "onboard_time": 1722196932,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70494,
+        "num": 70494,
+        "word": "遮球",
+        "onboard_time": 1722186077,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69874,
+        "num": 69874,
+        "word": "苏醒来看莎头比赛",
+        "onboard_time": 1722177743,
+        "rank": 34,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 67307,
+        "num": 67307,
+        "word": "莎头组合大心脏",
+        "onboard_time": 1722183805,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63507,
+        "num": 63507,
+        "word": "莎头",
+        "onboard_time": 1722181527,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63348,
+        "num": 63348,
+        "word": "未成年人抽卡近乎疯狂",
+        "onboard_time": 1722181766,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63201,
+        "num": 63201,
+        "word": "奥运会",
+        "onboard_time": 1722184342,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62960,
+        "num": 62960,
+        "word": "中国女篮vs西班牙女篮",
+        "onboard_time": 1722164481,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60875,
+        "num": 60875,
+        "word": "崔宸曦第4",
+        "onboard_time": 1722185178,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59602,
+        "num": 59602,
+        "word": "妈妈不理解但是主打一个尊重",
+        "onboard_time": 1722203652,
+        "rank": 41,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 59228,
+        "num": 59228,
+        "word": "拜尔斯跳马跳了男子动作",
+        "onboard_time": 1722170661,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52900,
+        "num": 52900,
+        "word": "张雨霏说奥运压力比想象大",
+        "onboard_time": 1722195552,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51777,
+        "num": 51777,
+        "word": "唐钱婷晋级100蛙决赛",
+        "onboard_time": 1722194772,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51300,
+        "num": 51300,
+        "word": "游泳比赛时间 阴间",
+        "onboard_time": 1722193872,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51204,
+        "num": 51204,
+        "word": "张雨霏好棒",
+        "onboard_time": 1722193155,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50886,
+        "num": 50886,
+        "word": "男子400米混合泳决赛",
+        "onboard_time": 1722191833,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49409,
+        "num": 49409,
+        "word": "肖战法国游满屏松弛感",
+        "onboard_time": 1722204373,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48014,
+        "num": 48014,
+        "word": "詹姆斯扣篮",
+        "onboard_time": 1722183269,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#弘扬奥林匹克运动精神#"
+    }
+  }
+}
