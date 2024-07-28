@@ -1,6 +1,6 @@
 {
   "startTime": 1722097426384,
-  "endTime": 1722123271332,
+  "endTime": 1722130547425,
   "band_list": [
     {
       "raw_hot": 9614106,
@@ -35,8 +35,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2077311,
-      "num": 2077311,
+      "raw_hot": 2198543,
+      "num": 2198543,
+      "word": "朝鲜乒乓教练嘴角压不住了",
+      "onboard_time": 1722126859,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2115107,
+      "num": 2115107,
       "word": "莎头已看呆",
       "onboard_time": 1722097230,
       "rank": 31,
@@ -67,11 +75,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1350361,
+      "num": 1350361,
+      "word": "水谷隼 奥运会的魔物啊",
+      "onboard_time": 1722098073,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1344659,
       "num": 1344659,
       "word": "孙颖莎王楚钦晋级8强",
       "onboard_time": 1722093627,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1245867,
+      "num": 1245867,
+      "word": "张雨霏说场馆不适合中国宝宝体质",
+      "onboard_time": 1722126139,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -96,14 +120,6 @@
       "word": "中国首金",
       "onboard_time": 1722072809,
       "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1125960,
-      "num": 1125960,
-      "word": "水谷隼 奥运会的魔物啊",
-      "onboard_time": 1722098073,
-      "rank": 41,
       "category": "体育"
     },
     {
@@ -171,12 +187,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 684372,
+      "num": 645868,
+      "word": "孙颖莎谈日本混双组合爆冷出局",
+      "onboard_time": 1722128120,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 656677,
       "num": 656677,
       "word": "朝鲜混双",
       "onboard_time": 1722094046,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 651107,
+      "num": 651107,
+      "word": "陈思诚 我没有模仿任何人",
+      "onboard_time": 1722127518,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 648643,
@@ -195,6 +227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 614931,
+      "num": 614931,
+      "word": "谢霆锋 谁让你这么穿衬衫的",
+      "onboard_time": 1722125358,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 571508,
       "num": 571508,
       "word": "宁泽涛解说",
@@ -203,7 +243,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 544445,
+      "raw_hot": 570121,
       "num": 479706,
       "word": "美国网红夫妇生吃生蚝一死一重病",
       "onboard_time": 1722092604,
@@ -267,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 438243,
+      "num": 438243,
+      "word": "奥运会官号删除巴黎开幕式视频",
+      "onboard_time": 1722130101,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 432794,
       "num": 432794,
       "word": "苹果盒",
@@ -299,6 +347,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 428530,
+      "num": 428530,
+      "word": "日媒称日本乒乓奥运连冠梦破灭了",
+      "onboard_time": 1722101057,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 422370,
+      "num": 422370,
+      "word": "赵露思得知中国队连拿两金后的反应",
+      "onboard_time": 1722130222,
+      "rank": 17,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 421205,
+      "num": 421205,
+      "word": "中国香港代表团首枚金牌",
+      "onboard_time": 1722111012,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 410050,
       "num": 410050,
       "word": "男子400米自由泳决赛",
@@ -323,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 380637,
+      "num": 380637,
+      "word": "蒲熠星申请重演舞台",
+      "onboard_time": 1722124579,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 376005,
       "num": 376005,
       "word": "迪玛希回应忘关麦克风",
@@ -339,14 +419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 358578,
-      "num": 358578,
-      "word": "中国香港代表团首枚金牌",
-      "onboard_time": 1722111012,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 351232,
       "num": 351232,
       "word": "日本夺冠大热出局后拒绝握手",
@@ -360,6 +432,14 @@
       "word": "对手给孙颖莎竖大拇指",
       "onboard_time": 1722098848,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 341823,
+      "num": 341823,
+      "word": "宁泽涛给我帅醒了",
+      "onboard_time": 1722124817,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -403,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 316802,
+      "num": 316802,
+      "word": "朝鲜队透露获胜秘诀",
+      "onboard_time": 1722129382,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 314168,
       "num": 314168,
       "word": "虞书欣炒个菜步数第一",
@@ -424,6 +512,14 @@
       "word": "阿条姐 干饭哥",
       "onboard_time": 1722067699,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 300260,
+      "num": 300260,
+      "word": "奥运会开幕式法国人自己都受不了",
+      "onboard_time": 1722128239,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -451,11 +547,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 283366,
-      "num": 283366,
-      "word": "日媒称日本乒乓奥运连冠梦破灭了",
-      "onboard_time": 1722101057,
-      "rank": 48,
+      "raw_hot": 280926,
+      "num": 280926,
+      "word": "孙杨的奥运纪录",
+      "onboard_time": 1722106994,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -523,6 +619,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 242336,
+      "num": 242336,
+      "word": "终于有剧拍出了大唐盛世",
+      "onboard_time": 1722129981,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 232518,
+      "num": 232518,
+      "word": "张雨霏100蝶半决赛第三",
+      "onboard_time": 1722122777,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 231899,
       "num": 231899,
       "word": "陈艺文昌雅妮好甜",
@@ -539,12 +651,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216725,
+      "num": 216725,
+      "word": "孟子义 我根本不吃这套",
+      "onboard_time": 1722129800,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215070,
       "num": 367566,
       "word": "盛李豪说光靠干饭就随便取的",
       "onboard_time": 1722094535,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215047,
+      "num": 215047,
+      "word": "凡希亚歌手收官文",
+      "onboard_time": 1722128780,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 209718,
@@ -579,11 +707,51 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205279,
+      "num": 205279,
+      "word": "中国暂列奥运金牌榜第二",
+      "onboard_time": 1722130520,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 202082,
+      "num": 202082,
+      "word": "刘忻黑色蕾丝吊带",
+      "onboard_time": 1722130222,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 191206,
       "num": 191206,
       "word": "许昕预测神了",
       "onboard_time": 1722099499,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 191155,
+      "num": 318575,
+      "word": "博士生花7万5找人代写论文",
+      "onboard_time": 1722110531,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190022,
+      "num": 190022,
+      "word": "方博 张本腿软手软就嘴不软",
+      "onboard_time": 1722129682,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 187483,
+      "num": 187483,
+      "word": "奥运冠军何姿水下应援中国跳水队",
+      "onboard_time": 1722129382,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -635,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133451,
+      "num": 522500,
+      "word": "巴黎中餐店主买万面国旗为中国队加油",
+      "onboard_time": 1722130279,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123979,
       "num": 123979,
       "word": "张雨霏比完赛想去深山待2周",
@@ -673,14 +849,6 @@
       "onboard_time": 1722111012,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 111545,
-      "num": 318575,
-      "word": "博士生花7万5找人代写论文",
-      "onboard_time": 1722110531,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110402,
@@ -747,16 +915,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 78852,
-      "num": 78852,
-      "word": "张雨霏100蝶半决赛第三",
-      "onboard_time": 1722122777,
+      "raw_hot": 79940,
+      "num": 175455,
+      "word": "巴黎奥运会上00后争气了",
+      "onboard_time": 1722127099,
       "rank": 49,
       "category": "体育"
     },
     {
       "raw_hot": 75302,
-      "num": 84094,
+      "num": 184092,
       "word": "中国姑娘接力破亚洲纪录",
       "onboard_time": 1722110773,
       "rank": 35,
