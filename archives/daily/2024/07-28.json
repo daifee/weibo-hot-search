@@ -1,6 +1,6 @@
 {
   "startTime": 1722097426384,
-  "endTime": 1722134380876,
+  "endTime": 1722134978085,
   "band_list": [
     {
       "raw_hot": 12476342,
@@ -43,6 +43,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2452754,
+      "num": 2452754,
+      "word": "巴黎奥运会赞助商跑路",
+      "onboard_time": 1722132922,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2407524,
       "num": 2407524,
       "word": "朝鲜乒乓教练嘴角压不住了",
@@ -72,14 +80,6 @@
       "word": "朝鲜乒乓 神秘之师",
       "onboard_time": 1722093927,
       "rank": 5,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1602004,
-      "num": 1602004,
-      "word": "巴黎奥运会赞助商跑路",
-      "onboard_time": 1722132922,
-      "rank": 3,
       "category": "体育"
     },
     {
@@ -139,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1149001,
+      "num": 1149001,
+      "word": "小唐尼回归复联5",
+      "onboard_time": 1722133582,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1076723,
       "num": 1076723,
       "word": "赵露思得知中国队连拿两金后的反应",
@@ -169,6 +177,14 @@
       "onboard_time": 1722101777,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 927926,
+      "num": 927926,
+      "word": "台风格美已造成福建省76.69万人受灾",
+      "onboard_time": 1722132983,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 833379,
@@ -219,14 +235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 727964,
-      "num": 727964,
-      "word": "小唐尼回归复联5",
-      "onboard_time": 1722133582,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
       "raw_hot": 676346,
       "num": 653150,
       "word": "终于有剧拍出了大唐盛世",
@@ -235,28 +243,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 665800,
+      "num": 665800,
+      "word": "不还妈生鼻 那咋了",
+      "onboard_time": 1722131602,
+      "rank": 11,
+      "category": "网红,音乐"
+    },
+    {
       "raw_hot": 656677,
       "num": 656677,
       "word": "朝鲜混双",
       "onboard_time": 1722094046,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 655070,
-      "num": 655070,
-      "word": "台风格美已造成福建省76.69万人受灾",
-      "onboard_time": 1722132983,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 651203,
-      "num": 651203,
-      "word": "不还妈生鼻 那咋了",
-      "onboard_time": 1722131602,
-      "rank": 11,
-      "category": "网红,音乐"
     },
     {
       "raw_hot": 651107,
@@ -297,6 +297,14 @@
       "onboard_time": 1722129382,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 587326,
+      "num": 587326,
+      "word": "女童遭父亲性侵被奶奶要求写谅解书",
+      "onboard_time": 1722133703,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 571508,
@@ -475,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 375023,
+      "num": 375023,
+      "word": "阚清子被问为什么喜欢大海",
+      "onboard_time": 1722133761,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 362377,
       "num": 362377,
       "word": "澳大利亚首金",
@@ -483,12 +499,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 359689,
-      "num": 359689,
-      "word": "女童遭父亲性侵被奶奶要求写谅解书",
-      "onboard_time": 1722133703,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 356728,
+      "num": 356728,
+      "word": "陈雨浓自曝已经订婚",
+      "onboard_time": 1722134242,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 352221,
+      "num": 352221,
+      "word": "混双爆冷日本网友绷不住了",
+      "onboard_time": 1722132863,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 351232,
@@ -571,14 +595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 315205,
-      "num": 315205,
-      "word": "混双爆冷日本网友绷不住了",
-      "onboard_time": 1722132863,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 314168,
       "num": 314168,
       "word": "虞书欣炒个菜步数第一",
@@ -617,14 +633,6 @@
       "onboard_time": 1722109152,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 298228,
-      "num": 298228,
-      "word": "阚清子被问为什么喜欢大海",
-      "onboard_time": 1722133761,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 289927,
@@ -715,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 250583,
+      "num": 673985,
+      "word": "中央气象台对格美停止编号",
+      "onboard_time": 1722133103,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250442,
       "num": 250442,
       "word": "日乒教练表情",
@@ -723,12 +739,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 243723,
-      "num": 243723,
-      "word": "中央气象台对格美停止编号",
-      "onboard_time": 1722133103,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 241707,
+      "num": 241707,
+      "word": "中国快递小哥参赛亲测巴黎不需空调",
+      "onboard_time": 1722133641,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 232518,
@@ -787,14 +803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 208725,
-      "num": 208725,
-      "word": "陈雨浓自曝已经订婚",
-      "onboard_time": 1722134242,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 207526,
       "num": 207526,
       "word": "日乒遭遇当头一棒",
@@ -827,11 +835,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192893,
-      "num": 192893,
-      "word": "中国快递小哥参赛亲测巴黎不需空调",
-      "onboard_time": 1722133641,
-      "rank": 41,
+      "raw_hot": 199869,
+      "num": 199869,
+      "word": "黄雨婷还在读高二",
+      "onboard_time": 1722134482,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 197813,
+      "num": 197813,
+      "word": "巴黎奥运开幕式豆瓣8.9分",
+      "onboard_time": 1722134002,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -859,8 +875,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 182970,
-      "num": 182970,
+      "raw_hot": 185425,
+      "num": 185425,
       "word": "你的肝是怎么一步步被透支掉的",
       "onboard_time": 1722131963,
       "rank": 43,
@@ -875,6 +891,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180206,
+      "num": 180206,
+      "word": "湖南衡阳发生山体滑坡有多人被埋",
+      "onboard_time": 1722134900,
+      "rank": 45,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 177351,
+      "num": 177351,
+      "word": "中国游泳队 高频次药检",
+      "onboard_time": 1722133822,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 176828,
+      "num": 176828,
+      "word": "阿森纳2比1曼联",
+      "onboard_time": 1722134422,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175077,
       "num": 175077,
       "word": "贵州漂流已经是西天取经级别",
@@ -884,7 +924,7 @@
     },
     {
       "raw_hot": 174234,
-      "num": 174234,
+      "num": 174434,
       "word": "女篮姑娘脸上的伤比身上还多",
       "onboard_time": 1722133042,
       "rank": 45,
@@ -897,14 +937,6 @@
       "onboard_time": 1722081443,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173294,
-      "num": 173294,
-      "word": "中国游泳队 高频次药检",
-      "onboard_time": 1722133822,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 173129,
@@ -923,19 +955,19 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 171387,
-      "num": 171387,
-      "word": "巴黎奥运开幕式豆瓣8.9分",
-      "onboard_time": 1722134002,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 157832,
       "num": 157832,
       "word": "中国队首日获2金1铜",
       "onboard_time": 1722128720,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 152785,
+      "num": 177052,
+      "word": "张雨霏回应半决赛不敌美国对手",
+      "onboard_time": 1722131602,
+      "rank": 47,
       "category": "体育"
     },
     {

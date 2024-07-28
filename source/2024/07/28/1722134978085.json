@@ -1,0 +1,410 @@
+{
+  "runTime": 1722134978085,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11597104,
+        "num": 11597104,
+        "word": "奥运会官号删除巴黎开幕式视频",
+        "onboard_time": 1722130101,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2452754,
+        "num": 2452754,
+        "word": "巴黎奥运会赞助商跑路",
+        "onboard_time": 1722132922,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25544,
+        "num": 1876276,
+        "word": "中国队首金升国旗奏国歌现场",
+        "onboard_time": 1722085583,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1748131,
+        "num": 1748131,
+        "word": "朝鲜乒乓教练嘴角压不住了",
+        "onboard_time": 1722126859,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1149001,
+        "num": 1149001,
+        "word": "小唐尼回归复联5",
+        "onboard_time": 1722133582,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1012356,
+        "num": 1012356,
+        "word": "赵露思得知中国队连拿两金后的反应",
+        "onboard_time": 1722130222,
+        "rank": 5,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 927926,
+        "num": 927926,
+        "word": "台风格美已造成福建省76.69万人受灾",
+        "onboard_time": 1722132983,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 764602,
+        "num": 764602,
+        "word": "莎头已看呆",
+        "onboard_time": 1722097230,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 703938,
+        "num": 703938,
+        "word": "许昕 神秘之师不好惹",
+        "onboard_time": 1722095615,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250583,
+        "num": 673985,
+        "word": "中央气象台对格美停止编号",
+        "onboard_time": 1722133103,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665800,
+        "num": 665800,
+        "word": "不还妈生鼻 那咋了",
+        "onboard_time": 1722131602,
+        "rank": 10,
+        "category": "网红,音乐"
+      },
+      {
+        "raw_hot": 638299,
+        "num": 638299,
+        "word": "终于有剧拍出了大唐盛世",
+        "onboard_time": 1722129981,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 593720,
+        "num": 593720,
+        "word": "朝鲜队透露获胜秘诀",
+        "onboard_time": 1722129382,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 590158,
+        "num": 590158,
+        "word": "水谷隼 奥运会的魔物啊",
+        "onboard_time": 1722098073,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 587326,
+        "num": 587326,
+        "word": "女童遭父亲性侵被奶奶要求写谅解书",
+        "onboard_time": 1722133703,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464780,
+        "num": 464780,
+        "word": "孙颖莎谈日本混双组合爆冷出局",
+        "onboard_time": 1722128120,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 463704,
+        "num": 463704,
+        "word": "奥运会开幕式法国人自己都受不了",
+        "onboard_time": 1722128239,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 452992,
+        "num": 452992,
+        "word": "孙一文遭误判",
+        "onboard_time": 1722087681,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 429593,
+        "num": 429593,
+        "word": "王楚钦孙颖莎vs阿萨尔梅谢芙",
+        "onboard_time": 1722089603,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 396980,
+        "num": 396980,
+        "word": "张雨霏说场馆不适合中国宝宝体质",
+        "onboard_time": 1722126139,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 375023,
+        "num": 375023,
+        "word": "阚清子被问为什么喜欢大海",
+        "onboard_time": 1722133761,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356728,
+        "num": 356728,
+        "word": "陈雨浓自曝已经订婚",
+        "onboard_time": 1722134242,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352221,
+        "num": 352221,
+        "word": "混双爆冷日本网友绷不住了",
+        "onboard_time": 1722132863,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 326009,
+        "num": 326009,
+        "word": "巴黎中餐店主买万面国旗为中国队加油",
+        "onboard_time": 1722130279,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 324308,
+        "num": 324308,
+        "word": "张本智和碎了",
+        "onboard_time": 1722096275,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 319787,
+        "num": 319787,
+        "word": "中国首金",
+        "onboard_time": 1722072809,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315941,
+        "num": 315941,
+        "word": "陈思诚 我没有模仿任何人",
+        "onboard_time": 1722127518,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 294190,
+        "num": 294190,
+        "word": "美国网红夫妇生吃生蚝一死一重病",
+        "onboard_time": 1722092604,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288545,
+        "num": 288545,
+        "word": "才知道全红婵这一跳的含金量有多高",
+        "onboard_time": 1722128120,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286228,
+        "num": 286228,
+        "word": "孟子义 我根本不吃这套",
+        "onboard_time": 1722129800,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282637,
+        "num": 282637,
+        "word": "谢霆锋 谁让你这么穿衬衫的",
+        "onboard_time": 1722125358,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 253419,
+        "num": 253419,
+        "word": "中国暂列奥运金牌榜第二",
+        "onboard_time": 1722130520,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247906,
+        "num": 247906,
+        "word": "中国跳水队金牌总数与美国队并列第一",
+        "onboard_time": 1722095615,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241707,
+        "num": 241707,
+        "word": "中国快递小哥参赛亲测巴黎不需空调",
+        "onboard_time": 1722133641,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236701,
+        "num": 236701,
+        "word": "中国队跳水女双3米板金牌",
+        "onboard_time": 1722073768,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234434,
+        "num": 234434,
+        "word": "张本智和早田希娜爆冷出局",
+        "onboard_time": 1722094480,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211822,
+        "num": 211822,
+        "word": "宁泽涛给我帅醒了",
+        "onboard_time": 1722124817,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209053,
+        "num": 209053,
+        "word": "中国香港代表团首枚金牌",
+        "onboard_time": 1722111012,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205849,
+        "num": 205849,
+        "word": "男子400米自由泳决赛",
+        "onboard_time": 1722106273,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199869,
+        "num": 199869,
+        "word": "黄雨婷还在读高二",
+        "onboard_time": 1722134482,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197813,
+        "num": 197813,
+        "word": "巴黎奥运开幕式豆瓣8.9分",
+        "onboard_time": 1722134002,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197417,
+        "num": 197417,
+        "word": "孙颖莎王楚钦晋级8强",
+        "onboard_time": 1722093627,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197039,
+        "num": 197039,
+        "word": "孙杨的奥运纪录",
+        "onboard_time": 1722106994,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185425,
+        "num": 185425,
+        "word": "你的肝是怎么一步步被透支掉的",
+        "onboard_time": 1722131963,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 182061,
+        "num": 182061,
+        "word": "隔壁张本智和好吵",
+        "onboard_time": 1722093808,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180206,
+        "num": 180206,
+        "word": "湖南衡阳发生山体滑坡有多人被埋",
+        "onboard_time": 1722134900,
+        "rank": 45,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 177351,
+        "num": 177351,
+        "word": "中国游泳队 高频次药检",
+        "onboard_time": 1722133822,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152785,
+        "num": 177052,
+        "word": "张雨霏回应半决赛不敌美国对手",
+        "onboard_time": 1722131602,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176828,
+        "num": 176828,
+        "word": "阿森纳2比1曼联",
+        "onboard_time": 1722134422,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150620,
+        "num": 174434,
+        "word": "女篮姑娘脸上的伤比身上还多",
+        "onboard_time": 1722133042,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记感悟体育精神#"
+    }
+  }
+}
