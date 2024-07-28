@@ -1,6 +1,6 @@
 {
   "startTime": 1722097426384,
-  "endTime": 1722151087527,
+  "endTime": 1722152077057,
   "band_list": [
     {
       "raw_hot": 15610430,
@@ -243,6 +243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1146228,
+      "num": 1146228,
+      "word": "巴黎奥运 韩国人破防",
+      "onboard_time": 1722149780,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1076723,
       "num": 1076723,
       "word": "赵露思得知中国队连拿两金后的反应",
@@ -299,6 +307,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 846906,
+      "num": 846906,
+      "word": "日本民众集会要求返还从中国掠夺文物",
+      "onboard_time": 1722147680,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 833379,
       "num": 833379,
       "word": "中国队跳水女双3米板金牌",
@@ -345,14 +361,6 @@
       "onboard_time": 1722128120,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 714580,
-      "num": 714580,
-      "word": "日本民众集会要求返还从中国掠夺文物",
-      "onboard_time": 1722147680,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 714148,
@@ -491,14 +499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 555313,
-      "num": 555313,
-      "word": "巴黎奥运 韩国人破防",
-      "onboard_time": 1722149780,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 546951,
       "num": 546951,
       "word": "唐朝诡事录热度破万",
@@ -529,6 +529,14 @@
       "onboard_time": 1722056840,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 509062,
+      "num": 509062,
+      "word": "霉霉演唱会隔壁山上全是人",
+      "onboard_time": 1722148520,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 507761,
@@ -569,14 +577,6 @@
       "onboard_time": 1722147502,
       "rank": 35,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 474349,
-      "num": 474349,
-      "word": "霉霉演唱会隔壁山上全是人",
-      "onboard_time": 1722148520,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 467951,
@@ -651,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 428619,
+      "num": 428619,
+      "word": "男子10米气手枪决赛",
+      "onboard_time": 1722151999,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 428530,
       "num": 428530,
       "word": "日媒称日本乒乓奥运连冠梦破灭了",
@@ -712,6 +720,14 @@
       "word": "郭晶晶 跳水裁判长",
       "onboard_time": 1722080482,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 386515,
+      "num": 386515,
+      "word": "江旻憓 港版林志玲",
+      "onboard_time": 1722150379,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -867,6 +883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 319359,
+      "num": 319359,
+      "word": "黄雨婷的一床娃娃",
+      "onboard_time": 1722146241,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 318072,
       "num": 318072,
       "word": "霸王茶姬免单",
@@ -880,14 +904,6 @@
       "word": "才知道全红婵这一跳的含金量有多高",
       "onboard_time": 1722128120,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 314955,
-      "num": 314955,
-      "word": "黄雨婷的一床娃娃",
-      "onboard_time": 1722146241,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -977,6 +993,14 @@
       "onboard_time": 1722143422,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 282049,
+      "num": 282049,
+      "word": "孙颖莎女单首秀",
+      "onboard_time": 1722150920,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 280926,
@@ -1091,6 +1115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 257041,
+      "num": 257041,
+      "word": "奥运开幕式 冒犯基督教",
+      "onboard_time": 1722149540,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 253539,
       "num": 253539,
       "word": "93年5岁的马龙脸还没球拍大",
@@ -1113,14 +1145,6 @@
       "onboard_time": 1722140911,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 244196,
-      "num": 244196,
-      "word": "奥运开幕式 冒犯基督教",
-      "onboard_time": 1722149540,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 239216,
@@ -1203,11 +1227,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219126,
+      "num": 219126,
+      "word": "全红婵跳水惊呆老外",
+      "onboard_time": 1722150200,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218270,
       "num": 134019,
       "word": "潘展乐第一棒破奥运纪录",
       "onboard_time": 1722111972,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 215800,
+      "num": 215800,
+      "word": "奥运官方账号上只有韩国国旗被虚化",
+      "onboard_time": 1722146485,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -1225,14 +1265,6 @@
       "onboard_time": 1722128780,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 211873,
-      "num": 211873,
-      "word": "奥运官方账号上只有韩国国旗被虚化",
-      "onboard_time": 1722146485,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 209718,
@@ -1315,6 +1347,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204205,
+      "num": 204205,
+      "word": "江旻憓超级学霸",
+      "onboard_time": 1722150860,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 202841,
+      "num": 202841,
+      "word": "凤凰组合巴黎奥运两连胜",
+      "onboard_time": 1722151940,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202082,
       "num": 202082,
       "word": "刘忻黑色蕾丝吊带",
@@ -1328,14 +1376,6 @@
       "word": "奥运冠军何姿水下应援中国跳水队",
       "onboard_time": 1722129382,
       "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 200694,
-      "num": 200694,
-      "word": "江旻憓 港版林志玲",
-      "onboard_time": 1722150379,
-      "rank": 40,
       "category": "体育"
     },
     {
@@ -1411,14 +1451,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 181064,
-      "num": 181064,
-      "word": "江旻憓超级学霸",
-      "onboard_time": 1722150860,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 180454,
       "num": 180454,
       "word": "中国姑娘4×100自由泳接力铜牌",
@@ -1467,6 +1499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176620,
+      "num": 176620,
+      "word": "桃花坞李嘉琦的25岁到29岁",
+      "onboard_time": 1722151640,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175077,
       "num": 175077,
       "word": "贵州漂流已经是西天取经级别",
@@ -1507,11 +1547,11 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 171094,
-      "num": 171094,
-      "word": "孙颖莎女单首秀",
-      "onboard_time": 1722150920,
-      "rank": 47,
+      "raw_hot": 170361,
+      "num": 170361,
+      "word": "全红婵追拍陈艺文昌雅妮",
+      "onboard_time": 1722151821,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -1545,6 +1585,14 @@
       "onboard_time": 1722150440,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 160714,
+      "num": 160714,
+      "word": "巴黎奥运会司机迷路",
+      "onboard_time": 1722151100,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 157832,
@@ -1603,20 +1651,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122638,
+      "num": 518823,
+      "word": "农家乐遭山体滑坡多人正吃早餐",
+      "onboard_time": 1722150260,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118946,
       "num": 698493,
       "word": "盛李豪赛后回应微博名",
       "onboard_time": 1722094166,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115683,
-      "num": 518823,
-      "word": "农家乐遭山体滑坡多人正吃早餐",
-      "onboard_time": 1722150260,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114581,
@@ -1859,7 +1907,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 39741,
+      "raw_hot": 44553,
       "num": 220974,
       "word": "北京三里屯满屏飘黄金",
       "onboard_time": 1722149000,
