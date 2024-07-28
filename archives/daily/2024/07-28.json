@@ -1,6 +1,6 @@
 {
   "startTime": 1722097426384,
-  "endTime": 1722154928812,
+  "endTime": 1722155701405,
   "band_list": [
     {
       "raw_hot": 15610430,
@@ -27,8 +27,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 5874510,
-      "num": 5874510,
+      "raw_hot": 7378726,
+      "num": 8628726,
       "word": "谢瑜男子10米气手枪金牌",
       "onboard_time": 1722153744,
       "rank": 1,
@@ -48,6 +48,14 @@
       "word": "王楚钦孙颖莎vs阿萨尔梅谢芙",
       "onboard_time": 1722089603,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3905350,
+      "num": 3905350,
+      "word": "孙颖莎vs高桥茱莉亚",
+      "onboard_time": 1722152839,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -72,14 +80,6 @@
       "word": "巴黎奥运会赞助商跑路",
       "onboard_time": 1722132922,
       "rank": 3,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 3092079,
-      "num": 3092079,
-      "word": "孙颖莎vs高桥茱莉亚",
-      "onboard_time": 1722152839,
-      "rank": 4,
       "category": "体育"
     },
     {
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 1718700,
-      "num": 316719,
+      "num": 338703,
       "word": "刘强东章泽天带女儿看奥运会",
       "onboard_time": 1722145527,
       "rank": 30,
@@ -299,20 +299,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1094675,
+      "num": 1094675,
+      "word": "夜玫瑰的曲夺冠",
+      "onboard_time": 1722154282,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1076723,
       "num": 1076723,
       "word": "赵露思得知中国队连拿两金后的反应",
       "onboard_time": 1722130222,
       "rank": 17,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 1040588,
-      "num": 1040588,
-      "word": "夜玫瑰的曲夺冠",
-      "onboard_time": 1722154282,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 1017270,
@@ -507,6 +507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 624929,
+      "num": 624929,
+      "word": "贻定颖",
+      "onboard_time": 1722155602,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 621665,
       "num": 621665,
       "word": "湖南衡阳山体滑坡",
@@ -603,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 525999,
+      "num": 525999,
+      "word": "孙颖莎女单首秀",
+      "onboard_time": 1722150920,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 523705,
       "num": 523705,
       "word": "奥运五环旗挂反了",
@@ -635,20 +651,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 482222,
-      "num": 482222,
-      "word": "孙颖莎女单首秀",
-      "onboard_time": 1722150920,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 478163,
       "num": 345411,
       "word": "贾乃亮现场观赛激动哭了",
       "onboard_time": 1722095317,
       "rank": 31,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 476364,
+      "num": 476364,
+      "word": "全红婵跳水惊呆老外",
+      "onboard_time": 1722150200,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 475840,
@@ -747,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 427621,
+      "num": 427621,
+      "word": "王一博腕表当腰带",
+      "onboard_time": 1722153380,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 421205,
       "num": 421205,
       "word": "中国香港代表团首枚金牌",
@@ -761,14 +785,6 @@
       "onboard_time": 1722130279,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 412623,
-      "num": 412623,
-      "word": "王一博腕表当腰带",
-      "onboard_time": 1722153380,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 410050,
@@ -816,6 +832,14 @@
       "word": "蒲熠星申请重演舞台",
       "onboard_time": 1722124579,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 378404,
+      "num": 378404,
+      "word": "Henry我们公开吗",
+      "onboard_time": 1722153684,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -915,14 +939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 330200,
-      "num": 330200,
-      "word": "全红婵跳水惊呆老外",
-      "onboard_time": 1722150200,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 328807,
       "num": 328807,
       "word": "陈丽君 梁祝",
@@ -1011,12 +1027,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 311674,
-      "num": 311674,
-      "word": "Henry我们公开吗",
-      "onboard_time": 1722153684,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 309932,
+      "num": 309932,
+      "word": "奥组委宣布取消铁人三项游泳训练",
+      "onboard_time": 1722153983,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 306882,
@@ -1083,14 +1099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 288970,
-      "num": 288970,
-      "word": "奥组委宣布取消铁人三项游泳训练",
-      "onboard_time": 1722153983,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 288193,
       "num": 288193,
       "word": "张雨霏再度回应兴奋剂质疑",
@@ -1137,6 +1145,14 @@
       "onboard_time": 1722137061,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274770,
+      "num": 274770,
+      "word": "三十天速成世界冠军",
+      "onboard_time": 1722149962,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 273679,
@@ -1275,14 +1291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 234077,
-      "num": 234077,
-      "word": "三十天速成世界冠军",
-      "onboard_time": 1722149962,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 233948,
       "num": 233948,
       "word": "沈月通过微博私信联系队友",
@@ -1369,6 +1377,22 @@
       "onboard_time": 1722128780,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214214,
+      "num": 214214,
+      "word": "全红婵追拍陈艺文昌雅妮",
+      "onboard_time": 1722151821,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 211801,
+      "num": 211801,
+      "word": "巴黎今天将产生13枚金牌",
+      "onboard_time": 1722155061,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 209718,
@@ -1579,6 +1603,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 182141,
+      "num": 182141,
+      "word": "玫瑰哥",
+      "onboard_time": 1722155662,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180454,
       "num": 180454,
       "word": "中国姑娘4×100自由泳接力铜牌",
@@ -1593,14 +1625,6 @@
       "onboard_time": 1722134900,
       "rank": 45,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 180130,
-      "num": 180130,
-      "word": "全红婵追拍陈艺文昌雅妮",
-      "onboard_time": 1722151821,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 179737,
@@ -1803,6 +1827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122866,
+      "num": 654097,
+      "word": "饿了么免单挺中国泳士",
+      "onboard_time": 1722153620,
+      "rank": 14,
+      "category": "互联网,体育"
+    },
+    {
       "raw_hot": 118946,
       "num": 698493,
       "word": "盛李豪赛后回应微博名",
@@ -1907,14 +1939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 81295,
-      "num": 654097,
-      "word": "饿了么免单挺中国泳士",
-      "onboard_time": 1722153620,
-      "rank": 14,
-      "category": "互联网,体育"
-    },
-    {
       "raw_hot": 81042,
       "num": 705326,
       "word": "乐黛云先生逝世",
@@ -1961,6 +1985,14 @@
       "onboard_time": 1722143542,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 70566,
+      "num": 547315,
+      "word": "奥运赛场中国队运动员神同步瞬间",
+      "onboard_time": 1722155301,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67678,
@@ -2067,6 +2099,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38707,
+      "num": 387884,
+      "word": "钓鱼大叔用一根竹竿捞起落水孩子",
+      "onboard_time": 1722155121,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36439,
+      "num": 4308176,
+      "word": "一人一句给中国健儿加油",
+      "onboard_time": 1722155543,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27125,
       "num": 291175,
       "word": "炉石停服错过的收藏品将返场",
@@ -2127,6 +2175,9 @@
     },
     {
       "word": "#生态文明直接关系人民群众的生活幸福#"
+    },
+    {
+      "word": "#持续缩小城乡区域发展差距#"
     }
   ]
 }

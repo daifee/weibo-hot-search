@@ -1,0 +1,410 @@
+{
+  "runTime": 1722155701405,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7378726,
+        "num": 8628726,
+        "word": "谢瑜男子10米气手枪金牌",
+        "onboard_time": 1722153744,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6029427,
+        "num": 6029427,
+        "word": "巴黎停电",
+        "onboard_time": 1722139881,
+        "rank": 1,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 36439,
+        "num": 4308176,
+        "word": "一人一句给中国健儿加油",
+        "onboard_time": 1722155543,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3905350,
+        "num": 3905350,
+        "word": "孙颖莎vs高桥茱莉亚",
+        "onboard_time": 1722152839,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2145428,
+        "num": 2145428,
+        "word": "男子10米气手枪决赛",
+        "onboard_time": 1722151999,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2129371,
+        "num": 2129371,
+        "word": "中国第3金",
+        "onboard_time": 1722154043,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1506853,
+        "num": 1506853,
+        "word": "谢瑜反超",
+        "onboard_time": 1722153620,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1461849,
+        "num": 1461849,
+        "word": "全红婵像迪士尼门口卖假货的",
+        "onboard_time": 1722143121,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1099450,
+        "num": 1099450,
+        "word": "巴黎奥运 韩国人破防",
+        "onboard_time": 1722149780,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1094675,
+        "num": 1094675,
+        "word": "夜玫瑰的曲夺冠",
+        "onboard_time": 1722154282,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 954916,
+        "num": 954916,
+        "word": "谢瑜好稳",
+        "onboard_time": 1722153684,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 942540,
+        "num": 942540,
+        "word": "吴敏霞称女儿经检测不适合练跳水",
+        "onboard_time": 1722148639,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 865769,
+        "num": 865769,
+        "word": "巴黎奥运赞助商回应撤资",
+        "onboard_time": 1722148040,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 624929,
+        "num": 624929,
+        "word": "贻定颖",
+        "onboard_time": 1722155602,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122866,
+        "num": 563387,
+        "word": "饿了么免单挺中国泳士",
+        "onboard_time": 1722153620,
+        "rank": 14,
+        "category": "互联网,体育"
+      },
+      {
+        "raw_hot": 70566,
+        "num": 547315,
+        "word": "奥运赛场中国队运动员神同步瞬间",
+        "onboard_time": 1722155301,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536794,
+        "num": 536794,
+        "word": "霉霉演唱会隔壁山上全是人",
+        "onboard_time": 1722148520,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 525999,
+        "num": 525999,
+        "word": "孙颖莎女单首秀",
+        "onboard_time": 1722150920,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109896,
+        "num": 520439,
+        "word": "母亲回应杨思琪完成冲浪奥运首秀",
+        "onboard_time": 1722154582,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 518969,
+        "num": 518969,
+        "word": "射击比赛真的刺激",
+        "onboard_time": 1722153439,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 476364,
+        "num": 476364,
+        "word": "全红婵跳水惊呆老外",
+        "onboard_time": 1722150200,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 434334,
+        "num": 434334,
+        "word": "严屹宽老婆遇水果刺客",
+        "onboard_time": 1722147323,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 427621,
+        "num": 427621,
+        "word": "王一博腕表当腰带",
+        "onboard_time": 1722153380,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 416639,
+        "num": 416639,
+        "word": "日本民众集会要求返还从中国掠夺文物",
+        "onboard_time": 1722147680,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 407212,
+        "num": 407212,
+        "word": "巴黎奥运会赞助商跑路",
+        "onboard_time": 1722132922,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38707,
+        "num": 387884,
+        "word": "钓鱼大叔用一根竹竿捞起落水孩子",
+        "onboard_time": 1722155121,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378404,
+        "num": 378404,
+        "word": "Henry我们公开吗",
+        "onboard_time": 1722153684,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363677,
+        "num": 363677,
+        "word": "台风格美已造成福建省76.69万人受灾",
+        "onboard_time": 1722132983,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349194,
+        "num": 349194,
+        "word": "奥运会射击",
+        "onboard_time": 1722152660,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339392,
+        "num": 339392,
+        "word": "国际奥委会主席向韩国总统道歉",
+        "onboard_time": 1722153560,
+        "rank": 29,
+        "category": "国外时政,体育"
+      },
+      {
+        "raw_hot": 434571,
+        "num": 338703,
+        "word": "刘强东章泽天带女儿看奥运会",
+        "onboard_time": 1722145527,
+        "rank": 30,
+        "category": "互联网,体育"
+      },
+      {
+        "raw_hot": 331385,
+        "num": 331385,
+        "word": "苏炳添说自己不可能再上奥运了",
+        "onboard_time": 1722149120,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 324557,
+        "num": 324557,
+        "word": "苏醒 孕妇没有大家想象的那么挑剔",
+        "onboard_time": 1722140301,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309932,
+        "num": 309932,
+        "word": "奥组委宣布取消铁人三项游泳训练",
+        "onboard_time": 1722153983,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137595,
+        "num": 301602,
+        "word": "从0的突破到00后的突破",
+        "onboard_time": 1722140481,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295088,
+        "num": 295088,
+        "word": "江旻憓 港版林志玲",
+        "onboard_time": 1722150379,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285921,
+        "num": 285921,
+        "word": "湖南衡阳山体滑坡",
+        "onboard_time": 1722145882,
+        "rank": 36,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 276141,
+        "num": 276141,
+        "word": "巴黎奥运官方暂未回应开幕式争议",
+        "onboard_time": 1722144922,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274770,
+        "num": 274770,
+        "word": "三十天速成世界冠军",
+        "onboard_time": 1722149962,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268760,
+        "num": 268760,
+        "word": "唐朝诡事录热度破万",
+        "onboard_time": 1722143963,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249562,
+        "num": 249562,
+        "word": "贾玲 这一刻真的好为她骄傲",
+        "onboard_time": 1722147502,
+        "rank": 40,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 249425,
+        "num": 249425,
+        "word": "柳智敏缺席aespa演唱会",
+        "onboard_time": 1722154582,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 249321,
+        "num": 249321,
+        "word": "湖南衡阳山体滑坡约20人被困",
+        "onboard_time": 1722136583,
+        "rank": 42,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 243035,
+        "num": 243035,
+        "word": "韩国游泳男选手搬离宿舍去住酒店了",
+        "onboard_time": 1722137181,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214214,
+        "num": 214214,
+        "word": "全红婵追拍陈艺文昌雅妮",
+        "onboard_time": 1722151821,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211801,
+        "num": 211801,
+        "word": "巴黎今天将产生13枚金牌",
+        "onboard_time": 1722155061,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200007,
+        "num": 200007,
+        "word": "中国射击第2金",
+        "onboard_time": 1722154582,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185705,
+        "num": 185705,
+        "word": "存款利率进入1%时代",
+        "onboard_time": 1722145402,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 183703,
+        "num": 183703,
+        "word": "奥运开幕式 冒犯基督教",
+        "onboard_time": 1722149540,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182141,
+        "num": 182141,
+        "word": "玫瑰哥",
+        "onboard_time": 1722155662,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#持续缩小城乡区域发展差距#"
+    }
+  }
+}
