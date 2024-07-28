@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1722155701405,
+  "endTime": 1722158484752,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1331,6 +1331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 6075738,
+      "num": 6075738,
+      "word": "王楚钦vs汪洋",
+      "onboard_time": 1722156920,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 6021789,
       "num": 6021789,
       "word": "汪苏泷又好听了",
@@ -1995,6 +2003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 4105571,
+      "num": 4105571,
+      "word": "孙颖莎说吵死了",
+      "onboard_time": 1722157161,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 4070023,
       "num": 4070023,
       "word": "茶百道声明",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1707480766,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 3635616,
-      "num": 3635616,
-      "word": "许凯报警",
-      "onboard_time": 1708437219,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 3633631,
-      "num": 3633631,
-      "word": "6人奸淫不满14周岁幼女被判刑",
-      "onboard_time": 1704680789,
-      "rank": 30,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
