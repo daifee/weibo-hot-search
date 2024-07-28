@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1722177276457,
+  "endTime": 1722179988256,
   "band_list": [
     {
       "raw_hot": 16577668,
@@ -136,6 +136,14 @@
       "word": "中国队混合团体10米气步枪金牌",
       "onboard_time": 1722072453,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 11105050,
+      "num": 11105050,
+      "word": "巴黎奥组委为开幕式道歉",
+      "onboard_time": 1722174810,
+      "rank": 1,
       "category": "体育"
     },
     {
@@ -299,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 5767599,
+      "num": 5767599,
+      "word": "王楚钦孙颖莎vs林昀儒陈思羽",
+      "onboard_time": 1722177203,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 5759054,
       "num": 2398292,
       "word": "刘涛悼念郑佩佩",
@@ -409,14 +425,6 @@
       "onboard_time": 1721641343,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 4599515,
-      "num": 4599515,
-      "word": "巴黎奥组委为开幕式道歉",
-      "onboard_time": 1722174810,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 4230542,
@@ -1289,6 +1297,14 @@
       "onboard_time": 1719814039,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2136958,
+      "num": 2136958,
+      "word": "朝鲜混双有点东西",
+      "onboard_time": 1722178293,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 2133352,
@@ -4883,6 +4899,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1134780,
+      "num": 1134780,
+      "word": "苏醒来看莎头比赛",
+      "onboard_time": 1722177743,
+      "rank": 5,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 1132361,
       "num": 1132361,
       "word": "撤档风吹到了电视剧圈",
@@ -7299,6 +7323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 900459,
+      "num": 900459,
+      "word": "乒乓球混双",
+      "onboard_time": 1722176723,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 899698,
       "num": 481423,
       "word": "为什么很多人微信所在地冰岛",
@@ -7441,6 +7473,14 @@
       "onboard_time": 1721632940,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 888458,
+      "num": 888458,
+      "word": "王源陆虎祝赵英俊生日快乐",
+      "onboard_time": 1722177803,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 888452,
@@ -11003,6 +11043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 690390,
+      "num": 690390,
+      "word": "朝鲜混双晋级四强",
+      "onboard_time": 1722178764,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 690357,
       "num": 690357,
       "word": "杭州热到全国第一",
@@ -11041,6 +11089,14 @@
       "onboard_time": 1720692378,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 688164,
+      "num": 688164,
+      "word": "射箭女团决赛中韩大战",
+      "onboard_time": 1722179422,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 687974,
@@ -11241,14 +11297,6 @@
       "onboard_time": 1721719280,
       "rank": 10,
       "category": "财经"
-    },
-    {
-      "raw_hot": 680001,
-      "num": 680001,
-      "word": "乒乓球混双",
-      "onboard_time": 1722176723,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 679897,
@@ -19971,6 +20019,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 440372,
+      "num": 440372,
+      "word": "莎头组合一日双赛",
+      "onboard_time": 1722159443,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 440293,
       "num": 440293,
       "word": "女子为减肥吃20多天营养棒进了医院",
@@ -21113,14 +21169,6 @@
       "onboard_time": 1721110637,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 420193,
-      "num": 420193,
-      "word": "王楚钦孙颖莎vs林昀儒陈思羽",
-      "onboard_time": 1722177203,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 420126,
@@ -24107,6 +24155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 364791,
+      "num": 364791,
+      "word": "射箭女团中国进决赛",
+      "onboard_time": 1722178764,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 364645,
       "num": 259491,
       "word": "空腹吃这些食物会得胃结石",
@@ -24809,6 +24865,14 @@
       "onboard_time": 1721606240,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 353245,
+      "num": 353245,
+      "word": "福原爱谈日本混双爆冷出局",
+      "onboard_time": 1722179665,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 353215,
@@ -27043,6 +27107,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 321404,
+      "num": 321404,
+      "word": "为什么不上韩旭",
+      "onboard_time": 1722179605,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 321004,
       "num": 321004,
       "word": "荷兰vs英格兰",
@@ -27121,6 +27193,14 @@
       "onboard_time": 1721182878,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 319541,
+      "num": 319541,
+      "word": "泫雅舞台态度",
+      "onboard_time": 1722177322,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 319516,
@@ -28771,6 +28851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 296707,
+      "num": 296707,
+      "word": "十二星座一周运势",
+      "onboard_time": 1722179183,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 296655,
       "num": 255175,
       "word": "俞敏洪感谢董宇辉",
@@ -29971,6 +30059,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 284718,
+      "num": 284718,
+      "word": "华天的马受惊",
+      "onboard_time": 1722179902,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 284575,
       "num": 284575,
       "word": "浙江省委省政府电贺黄雨婷勇夺首金",
@@ -30235,6 +30331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 281443,
+      "num": 281443,
+      "word": "李荣浩杨丞琳演唱会情侣麦克风",
+      "onboard_time": 1722178162,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 281254,
       "num": 281254,
       "word": "直播显示医生未带除颤仪进场",
@@ -30329,6 +30433,14 @@
       "onboard_time": 1720703658,
       "rank": 25,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 280167,
+      "num": 280167,
+      "word": "国乒这回不会痛失本名了吧",
+      "onboard_time": 1722178583,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 280156,
@@ -30889,6 +31001,14 @@
       "onboard_time": 1720688897,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 274434,
+      "num": 274434,
+      "word": "宁泽涛好久不见",
+      "onboard_time": 1722179064,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 274278,
@@ -33457,14 +33577,6 @@
       "onboard_time": 1721825240,
       "rank": 44,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 247803,
-      "num": 247803,
-      "word": "莎头组合一日双赛",
-      "onboard_time": 1722159443,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 247755,
@@ -40809,6 +40921,14 @@
       "onboard_time": 1720966460,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204388,
+      "num": 841827,
+      "word": "湖南湘潭县涓水一处堤段出现决口",
+      "onboard_time": 1722178223,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204369,
@@ -67819,6 +67939,14 @@
       "category": "动漫,演出"
     },
     {
+      "raw_hot": 109775,
+      "num": 694065,
+      "word": "郎平被一碗白象中国面硬控",
+      "onboard_time": 1722175464,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109770,
       "num": 109770,
       "word": "2024全球emoji失宠榜单",
@@ -73547,14 +73675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 67739,
-      "num": 683676,
-      "word": "郎平被一碗白象中国面硬控",
-      "onboard_time": 1722175464,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 67692,
       "num": 89129,
       "word": "于正回复于正的生活我的梦",
@@ -74972,7 +75092,7 @@
     },
     {
       "raw_hot": 58105,
-      "num": 746634,
+      "num": 805244,
       "word": "雷军说SU7和苏炳添都姓苏",
       "onboard_time": 1722175464,
       "rank": 32,
@@ -75243,6 +75363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56397,
+      "num": 852631,
+      "word": "塞纳河畔的风是最炫民族风",
+      "onboard_time": 1722177142,
+      "rank": 48,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 56290,
       "num": 426368,
       "word": "4年前的考古圈团宠要入职敦煌了",
@@ -75433,14 +75561,6 @@
       "onboard_time": 1721703739,
       "rank": 15,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 55075,
-      "num": 322756,
-      "word": "塞纳河畔的风是最炫民族风",
-      "onboard_time": 1722177142,
-      "rank": 48,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 55038,
