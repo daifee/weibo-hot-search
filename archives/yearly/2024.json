@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1722263801499,
+  "endTime": 1722266510292,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -17,6 +17,14 @@
       "onboard_time": 1710208890,
       "rank": 40,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 19712879,
+      "num": 19712879,
+      "word": "中国香港vs朝鲜",
+      "onboard_time": 1722262824,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 18909527,
@@ -513,6 +521,14 @@
       "onboard_time": 1704939148,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 9766535,
+      "num": 9766535,
+      "word": "王楚钦孙颖莎vs林钟勋申裕斌",
+      "onboard_time": 1722264085,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 9658561,
@@ -1747,6 +1763,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 4945974,
+      "num": 4945974,
+      "word": "乒乓球混双半决赛",
+      "onboard_time": 1722262345,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 4887908,
       "num": 4887908,
       "word": "高考",
@@ -2051,6 +2075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 4200704,
+      "num": 4200704,
+      "word": "朝鲜混双进决赛了",
+      "onboard_time": 1722265956,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 4193971,
       "num": 4193971,
       "word": "教资",
@@ -2219,14 +2251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3944448,
-      "num": 3944448,
-      "word": "乒乓球混双半决赛",
-      "onboard_time": 1722262345,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 3943333,
       "num": 1032513,
       "word": "黄子韬 我们公开吧",
@@ -2377,30 +2401,6 @@
       "onboard_time": 1705581811,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3791381,
-      "num": 2788902,
-      "word": "网传宗馥莉辞职",
-      "onboard_time": 1721272937,
-      "rank": 5,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 3771891,
-      "num": 3771891,
-      "word": "乙卷没了",
-      "onboard_time": 1717733304,
-      "rank": 4,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 3765386,
-      "num": 453902,
-      "word": "歌手 音乐竞技搞煽情",
-      "onboard_time": 1722001344,
-      "rank": 10,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
