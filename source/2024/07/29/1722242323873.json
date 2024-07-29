@@ -1,0 +1,410 @@
+{
+  "runTime": 1722242323873,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11450297,
+        "num": 11450297,
+        "word": "女子10米气步枪决赛",
+        "onboard_time": 1722238342,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3953664,
+        "num": 3953664,
+        "word": "黄雨婷银牌",
+        "onboard_time": 1722240508,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76946,
+        "num": 3075661,
+        "word": "比赢更珍贵的是渴望去赢",
+        "onboard_time": 1722238641,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2794613,
+        "num": 2794613,
+        "word": "苏醒道歉",
+        "onboard_time": 1722237201,
+        "rank": 3,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 2091320,
+        "num": 2091320,
+        "word": "黄雨婷10.9满环",
+        "onboard_time": 1722239301,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1619227,
+        "num": 1619227,
+        "word": "霍启刚有好好打扮 我不会出轨",
+        "onboard_time": 1722227726,
+        "rank": 5,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 1122632,
+        "num": 1122632,
+        "word": "莎头赢了后 中国队全体起立",
+        "onboard_time": 1722238461,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1055663,
+        "num": 1055663,
+        "word": "阿条姐表情淡淡的手稳稳的",
+        "onboard_time": 1722241345,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 875411,
+        "num": 875411,
+        "word": "跳水名将郭晶晶和她的先生",
+        "onboard_time": 1722220821,
+        "rank": 8,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 253483,
+        "num": 807610,
+        "word": "672分考生放弃名校选带编入学",
+        "onboard_time": 1722220342,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1641591,
+        "num": 807406,
+        "word": "杨倩奥运纪录",
+        "onboard_time": 1722241226,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1282051,
+        "num": 803238,
+        "word": "韩国国旗又挂错了",
+        "onboard_time": 1722222982,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 794870,
+        "num": 794870,
+        "word": "覃海洋张雨霏一天7次尿检",
+        "onboard_time": 1722234559,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 754382,
+        "num": 754382,
+        "word": "气步枪韩国选手表情",
+        "onboard_time": 1722240867,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 742702,
+        "num": 742702,
+        "word": "韩国一父亲性侵女儿15年致流产4次",
+        "onboard_time": 1722233721,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 676276,
+        "num": 676276,
+        "word": "韩国爱豆在巴黎奥运集体失声",
+        "onboard_time": 1722230182,
+        "rank": 15,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 649959,
+        "num": 649959,
+        "word": "羽毛球混双",
+        "onboard_time": 1722238100,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 603386,
+        "num": 603386,
+        "word": "看汪顺理解辛芷蕾的感受了",
+        "onboard_time": 1722239181,
+        "rank": 17,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 594072,
+        "num": 594072,
+        "word": "管泽元解说气步枪决赛",
+        "onboard_time": 1722240629,
+        "rank": 18,
+        "category": "电竞,体育"
+      },
+      {
+        "raw_hot": 508550,
+        "num": 508550,
+        "word": "韩国人找到了国旗被挂错的原因",
+        "onboard_time": 1722224003,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 505573,
+        "num": 505573,
+        "word": "找到张本智和吵的原因了",
+        "onboard_time": 1722233721,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 409949,
+        "num": 409949,
+        "word": "英国 破产",
+        "onboard_time": 1722225624,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 406849,
+        "num": 406849,
+        "word": "黄雨婷打平杨倩奥运纪录",
+        "onboard_time": 1722242005,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 406790,
+        "num": 406790,
+        "word": "东证期货女员工自曝劈腿一事已立案",
+        "onboard_time": 1722226046,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45647,
+        "num": 373837,
+        "word": "华为novaFlip来了",
+        "onboard_time": 1722241345,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 356050,
+        "num": 356050,
+        "word": "樊振东巴黎奥运首秀",
+        "onboard_time": 1722240987,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 345311,
+        "num": 345311,
+        "word": "韩国籍射箭教练的中国心",
+        "onboard_time": 1722236482,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341384,
+        "num": 341384,
+        "word": "男子年年体检都正常突然查出食管癌",
+        "onboard_time": 1722231862,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320331,
+        "num": 320331,
+        "word": "孙颖莎说王楚钦很会场上开导",
+        "onboard_time": 1722238521,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 314452,
+        "num": 314452,
+        "word": "韩国国旗被错标成中国国旗",
+        "onboard_time": 1722226286,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301518,
+        "num": 301518,
+        "word": "胡歌 仙剑一最难复制的是眼神",
+        "onboard_time": 1722241524,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282019,
+        "num": 282019,
+        "word": "我拒绝了小姑子的女儿来我家",
+        "onboard_time": 1722226465,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 268773,
+        "num": 268773,
+        "word": "陈小春应采儿真的把Jasper养的很好",
+        "onboard_time": 1722232401,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268606,
+        "num": 268606,
+        "word": "女教师被举报长期吃空饷",
+        "onboard_time": 1722238941,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264776,
+        "num": 264776,
+        "word": "韩国16岁选手夺金",
+        "onboard_time": 1722242183,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263227,
+        "num": 263227,
+        "word": "肖战从刘宇宁的全世界路过",
+        "onboard_time": 1722241584,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262746,
+        "num": 262746,
+        "word": "王楚钦演技",
+        "onboard_time": 1722217580,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258875,
+        "num": 258875,
+        "word": "气步枪决赛好卷",
+        "onboard_time": 1722240629,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256291,
+        "num": 256291,
+        "word": "黄雨婷的暑假好充实",
+        "onboard_time": 1722241884,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250225,
+        "num": 250225,
+        "word": "全红婵念自己的名字",
+        "onboard_time": 1722232460,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247043,
+        "num": 247043,
+        "word": "东证期货和女员工报警",
+        "onboard_time": 1722237322,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242898,
+        "num": 242898,
+        "word": "王楚钦孙颖莎vs林昀儒陈思羽",
+        "onboard_time": 1722177203,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237782,
+        "num": 237782,
+        "word": "莎头组合进半决赛",
+        "onboard_time": 1722183032,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235011,
+        "num": 235011,
+        "word": "黄雨婷和韩国选手争夺太激烈了",
+        "onboard_time": 1722241884,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230603,
+        "num": 230603,
+        "word": "全红婵 这孩子特别特别好",
+        "onboard_time": 1722231921,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230232,
+        "num": 230232,
+        "word": "李微微被查",
+        "onboard_time": 1722239062,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 225996,
+        "num": 225996,
+        "word": "孙颖莎把乒乓球打出3D感",
+        "onboard_time": 1722240629,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225880,
+        "num": 225880,
+        "word": "孙千黑长直",
+        "onboard_time": 1722238999,
+        "rank": 47,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 222244,
+        "num": 222244,
+        "word": "SEVENTEEN签售延期",
+        "onboard_time": 1722241764,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 219247,
+        "num": 219247,
+        "word": "凤凰组合小组赛2胜1负",
+        "onboard_time": 1722241524,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同东帝汶总统奥尔塔会谈#"
+    }
+  }
+}
