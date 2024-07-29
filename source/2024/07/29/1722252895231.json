@@ -1,0 +1,410 @@
+{
+  "runTime": 1722252895231,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4675110,
+        "num": 5179202,
+        "word": "盛李豪又夺一金",
+        "onboard_time": 1722249512,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4235765,
+        "num": 4235765,
+        "word": "男子10米气步枪决赛",
+        "onboard_time": 1722246563,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10871,
+        "num": 3008508,
+        "word": "比赢更珍贵的是渴望去赢",
+        "onboard_time": 1722238641,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2800249,
+        "num": 2800249,
+        "word": "曾强奸12岁女孩奥运选手首秀遭嘘",
+        "onboard_time": 1722248843,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2181510,
+        "num": 2181510,
+        "word": "中国队男双10米台金牌",
+        "onboard_time": 1722247644,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2095137,
+        "num": 2095137,
+        "word": "老师没给黄雨婷布置暑假作业",
+        "onboard_time": 1722247644,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1986131,
+        "num": 1986131,
+        "word": "盛李豪破奥运纪录",
+        "onboard_time": 1722249512,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1403823,
+        "num": 1403823,
+        "word": "盛李豪没带耳塞",
+        "onboard_time": 1722249631,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1279743,
+        "num": 1279743,
+        "word": "樊振东耗时24分钟晋级",
+        "onboard_time": 1722250526,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1055784,
+        "num": 1055784,
+        "word": "陈梦vs洛赫莱比",
+        "onboard_time": 1722250945,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 311840,
+        "num": 1046519,
+        "word": "干饭哥才是爽文男主吧",
+        "onboard_time": 1722252623,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1202498,
+        "num": 1046057,
+        "word": "黄子韬高调示爱徐艺洋",
+        "onboard_time": 1722250468,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1045454,
+        "num": 1045454,
+        "word": "黄雨婷想去看十个勤天演唱会",
+        "onboard_time": 1722249988,
+        "rank": 12,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 935460,
+        "num": 935460,
+        "word": "盛李豪2个10.9环",
+        "onboard_time": 1722248784,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213379,
+        "num": 877088,
+        "word": "00后用淘宝300块滑板参赛奥运",
+        "onboard_time": 1722250825,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 822390,
+        "num": 822390,
+        "word": "对黄雨婷是高中生有了实感",
+        "onboard_time": 1722247644,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 809704,
+        "num": 809704,
+        "word": "唐朝诡事录断更",
+        "onboard_time": 1722250348,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27565,
+        "num": 781273,
+        "word": "宝诗龙Quatre探展指南",
+        "onboard_time": 1722249330,
+        "rank": 17,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 767909,
+        "num": 767909,
+        "word": "黄雨婷银牌",
+        "onboard_time": 1722240508,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 735964,
+        "num": 735964,
+        "word": "霍启刚有好好打扮 我不会出轨",
+        "onboard_time": 1722227726,
+        "rank": 19,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 697349,
+        "num": 697349,
+        "word": "盛李豪这一枪和靶心重合了",
+        "onboard_time": 1722250286,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 648348,
+        "num": 648348,
+        "word": "况盛律师声明",
+        "onboard_time": 1722250108,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 638197,
+        "num": 638197,
+        "word": "樊振东vs扎穆登科",
+        "onboard_time": 1722246981,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 608917,
+        "num": 608917,
+        "word": "荷兰队泳裤",
+        "onboard_time": 1722245481,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 599600,
+        "num": 599600,
+        "word": "覃海洋张雨霏一天7次尿检",
+        "onboard_time": 1722234559,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 574571,
+        "num": 574571,
+        "word": "苏醒道歉",
+        "onboard_time": 1722237201,
+        "rank": 25,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 572830,
+        "num": 572830,
+        "word": "光靠干饭就拿两块金牌",
+        "onboard_time": 1722251904,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 563320,
+        "num": 563320,
+        "word": "郭晶晶考裁判证 给中国队争个公平",
+        "onboard_time": 1722243505,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 528924,
+        "num": 528924,
+        "word": "中国第5金",
+        "onboard_time": 1722251004,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 525924,
+        "num": 525924,
+        "word": "韩国国旗又挂错了",
+        "onboard_time": 1722222982,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 480727,
+        "num": 480727,
+        "word": "女子10米气步枪决赛",
+        "onboard_time": 1722238342,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 448004,
+        "num": 448004,
+        "word": "泰国老人去世十几只小狗吃主人遗体",
+        "onboard_time": 1722245481,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154023,
+        "num": 447770,
+        "word": "为何越来越多大学生毕业后读职校",
+        "onboard_time": 1722250825,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447606,
+        "num": 447606,
+        "word": "练俊杰喜欢迪丽热巴",
+        "onboard_time": 1722252804,
+        "rank": 33,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 427538,
+        "num": 427538,
+        "word": "张若昀 你要告发是吧",
+        "onboard_time": 1722247585,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 414659,
+        "num": 414659,
+        "word": "干饭哥2金收官",
+        "onboard_time": 1722250048,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 393941,
+        "num": 393941,
+        "word": "杨倩奥运纪录",
+        "onboard_time": 1722241226,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 388120,
+        "num": 388120,
+        "word": "况盛夫妇公司已经营异常",
+        "onboard_time": 1722252322,
+        "rank": 37,
+        "category": "综艺,财经"
+      },
+      {
+        "raw_hot": 386406,
+        "num": 386406,
+        "word": "跳水男子双人10米台决赛",
+        "onboard_time": 1722243692,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 383904,
+        "num": 383904,
+        "word": "巴黎奥运赛程",
+        "onboard_time": 1722252082,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 368911,
+        "num": 368911,
+        "word": "阿条姐领奖",
+        "onboard_time": 1722247041,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 368150,
+        "num": 368150,
+        "word": "陈若琳冠军教练",
+        "onboard_time": 1722249631,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 357034,
+        "num": 357034,
+        "word": "泫雅跳过金晓钟名字的歌词",
+        "onboard_time": 1722249330,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 348373,
+        "num": 348373,
+        "word": "加拿大跳水选手好帅",
+        "onboard_time": 1722249144,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 338817,
+        "num": 338817,
+        "word": "樊振东瘦了",
+        "onboard_time": 1722250167,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 328987,
+        "num": 328987,
+        "word": "陈梦4比0洛赫莱比",
+        "onboard_time": 1722252862,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 326872,
+        "num": 326872,
+        "word": "戴利还在跳水",
+        "onboard_time": 1722245962,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 325267,
+        "num": 325267,
+        "word": "陈梦晋级32强",
+        "onboard_time": 1722252862,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323397,
+        "num": 323397,
+        "word": "小盛 张家港挺你",
+        "onboard_time": 1722252564,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308361,
+        "num": 308361,
+        "word": "气步枪节奏鼓掌",
+        "onboard_time": 1722252144,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同东帝汶总统奥尔塔会谈#"
+    }
+  }
+}
