@@ -1,6 +1,6 @@
 {
   "startTime": 1722270352158,
-  "endTime": 1722277602762,
+  "endTime": 1722278358121,
   "band_list": [
     {
       "raw_hot": 26081799,
@@ -67,11 +67,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 4831772,
-      "num": 4831772,
+      "raw_hot": 5167545,
+      "num": 5167545,
       "word": "苏炜德稳住",
       "onboard_time": 1722275775,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 4694328,
+      "num": 4694328,
+      "word": "苏炜德两次掉杠",
+      "onboard_time": 1722277396,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -91,27 +99,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2852475,
-      "num": 2852475,
-      "word": "中国女排巴黎首战名单",
-      "onboard_time": 1722265347,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2633037,
-      "num": 2633037,
+      "raw_hot": 2888061,
+      "num": 2888061,
       "word": "肖若腾胳膊出血了",
       "onboard_time": 1722275955,
       "rank": 4,
       "category": "体育"
     },
     {
-      "raw_hot": 2613666,
-      "num": 2613666,
-      "word": "苏炜德两次掉杠",
-      "onboard_time": 1722277396,
-      "rank": 5,
+      "raw_hot": 2852475,
+      "num": 2852475,
+      "word": "中国女排巴黎首战名单",
+      "onboard_time": 1722265347,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -199,6 +199,14 @@
       "num": 1292679,
       "word": "韩国队黄牌",
       "onboard_time": 1722269429,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1217154,
+      "num": 1217154,
+      "word": "陈滢 毒奶",
+      "onboard_time": 1722276739,
       "rank": 25,
       "category": "体育"
     },
@@ -299,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 644432,
+      "num": 644432,
+      "word": "心疼张博恒",
+      "onboard_time": 1722277874,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 629914,
       "num": 629914,
       "word": "刘国栋教练",
@@ -328,14 +344,6 @@
       "word": "刘诗雯 混双观众席",
       "onboard_time": 1722269606,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 529434,
-      "num": 529434,
-      "word": "陈滢 毒奶",
-      "onboard_time": 1722276739,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -411,20 +419,20 @@
       "category": "演出,体育"
     },
     {
+      "raw_hot": 421386,
+      "num": 421386,
+      "word": "跳马失误",
+      "onboard_time": 1722276376,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 417336,
       "num": 1426417,
       "word": "况盛公开和马杨聊天记录",
       "onboard_time": 1722254304,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 406246,
-      "num": 406246,
-      "word": "跳马失误",
-      "onboard_time": 1722276376,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 403894,
@@ -448,6 +456,14 @@
       "word": "樊振东vs扎穆登科",
       "onboard_time": 1722246981,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 375292,
+      "num": 375292,
+      "word": "肖若腾哭了",
+      "onboard_time": 1722277995,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -475,6 +491,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 359264,
+      "num": 359264,
+      "word": "体操解说",
+      "onboard_time": 1722276197,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 331857,
+      "num": 331857,
+      "word": "杨威解说",
+      "onboard_time": 1722277635,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 330973,
       "num": 330973,
       "word": "单杠",
@@ -497,14 +529,6 @@
       "onboard_time": 1722250348,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 305281,
-      "num": 305281,
-      "word": "体操解说",
-      "onboard_time": 1722276197,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 303626,
@@ -563,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 266261,
+      "num": 266261,
+      "word": "孙颖莎单打",
+      "onboard_time": 1722276556,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 263725,
       "num": 263725,
       "word": "惠若琪解说",
@@ -584,14 +616,6 @@
       "word": "日本体操",
       "onboard_time": 1722275595,
       "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 248050,
-      "num": 248050,
-      "word": "孙颖莎单打",
-      "onboard_time": 1722276556,
-      "rank": 41,
       "category": "体育"
     },
     {
@@ -627,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225279,
+      "num": 225279,
+      "word": "王楚钦失误",
+      "onboard_time": 1722278294,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183087,
       "num": 260900,
       "word": "十个勤天演唱会诚邀黄雨婷",
@@ -652,7 +684,7 @@
     },
     {
       "raw_hot": 96642,
-      "num": 407481,
+      "num": 436847,
       "word": "土耳其总统当众轻扇男孩一巴掌",
       "onboard_time": 1722275475,
       "rank": 32,
@@ -660,7 +692,7 @@
     },
     {
       "raw_hot": 96324,
-      "num": 4503184,
+      "num": 4850698,
       "word": "中国跳水奥运金牌总数已超美国",
       "onboard_time": 1722255684,
       "rank": 2,
@@ -676,7 +708,7 @@
     },
     {
       "raw_hot": 57585,
-      "num": 207978,
+      "num": 221456,
       "word": "郑佩佩女儿再发文",
       "onboard_time": 1722258444,
       "rank": 48,
@@ -686,6 +718,9 @@
   "hotgov_list": [
     {
       "word": "#习近平对退役军人工作作出重要指示#"
+    },
+    {
+      "word": "#习近平会见意大利总理梅洛尼#"
     }
   ]
 }

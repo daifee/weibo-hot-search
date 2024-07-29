@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1722277602762,
+  "endTime": 1722278358121,
   "band_list": [
     {
       "raw_hot": 26081799,
@@ -1747,6 +1747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 5167545,
+      "num": 5167545,
+      "word": "苏炜德稳住",
+      "onboard_time": 1722275775,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 5162269,
       "num": 5162269,
       "word": "赵丽颖拍林更新",
@@ -1851,14 +1859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 4831772,
-      "num": 4831772,
-      "word": "苏炜德稳住",
-      "onboard_time": 1722275775,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 4820066,
       "num": 877275,
       "word": "09 出轨",
@@ -1921,6 +1921,14 @@
       "onboard_time": 1710290554,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4694328,
+      "num": 4694328,
+      "word": "苏炜德两次掉杠",
+      "onboard_time": 1722277396,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 4693372,
@@ -2392,14 +2400,6 @@
       "word": "种地吧回应加人",
       "onboard_time": 1721467338,
       "rank": 1,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 3884126,
-      "num": 3884126,
-      "word": "微博之夜",
-      "onboard_time": 1704178173,
-      "rank": 46,
       "category": "综艺"
     }
   ],

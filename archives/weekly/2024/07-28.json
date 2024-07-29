@@ -1,6 +1,6 @@
 {
   "startTime": 1722097426384,
-  "endTime": 1722277602762,
+  "endTime": 1722278358121,
   "band_list": [
     {
       "raw_hot": 26081799,
@@ -235,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 5167545,
+      "num": 5167545,
+      "word": "苏炜德稳住",
+      "onboard_time": 1722275775,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 4945974,
       "num": 4945974,
       "word": "乒乓球混双半决赛",
@@ -243,19 +251,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 4831772,
-      "num": 4831772,
-      "word": "苏炜德稳住",
-      "onboard_time": 1722275775,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 4783387,
       "num": 2549814,
       "word": "女篮解说 打球化妆",
       "onboard_time": 1722170601,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 4694328,
+      "num": 4694328,
+      "word": "苏炜德两次掉杠",
+      "onboard_time": 1722277396,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -379,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2888061,
+      "num": 2888061,
+      "word": "肖若腾胳膊出血了",
+      "onboard_time": 1722275955,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2852475,
       "num": 2852475,
       "word": "中国女排巴黎首战名单",
@@ -424,22 +440,6 @@
       "word": "雨霏别哭",
       "onboard_time": 1722195972,
       "rank": 3,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2633037,
-      "num": 2633037,
-      "word": "肖若腾胳膊出血了",
-      "onboard_time": 1722275955,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2613666,
-      "num": 2613666,
-      "word": "苏炜德两次掉杠",
-      "onboard_time": 1722277396,
-      "rank": 5,
       "category": "体育"
     },
     {
@@ -1161,6 +1161,14 @@
       "onboard_time": 1722136283,
       "rank": 30,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 1217154,
+      "num": 1217154,
+      "word": "陈滢 毒奶",
+      "onboard_time": 1722276739,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 1213024,
@@ -2011,6 +2019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 644432,
+      "num": 644432,
+      "word": "心疼张博恒",
+      "onboard_time": 1722277874,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 644258,
       "num": 644258,
       "word": "中国快递小哥参赛亲测巴黎不需空调",
@@ -2400,14 +2416,6 @@
       "word": "还我妈生旗",
       "onboard_time": 1722223223,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 529434,
-      "num": 529434,
-      "word": "陈滢 毒奶",
-      "onboard_time": 1722276739,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -2923,6 +2931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 421386,
+      "num": 421386,
+      "word": "跳马失误",
+      "onboard_time": 1722276376,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 421205,
       "num": 421205,
       "word": "中国香港代表团首枚金牌",
@@ -2992,14 +3008,6 @@
       "word": "黄雨婷打平杨倩奥运纪录",
       "onboard_time": 1722242005,
       "rank": 22,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 406246,
-      "num": 406246,
-      "word": "跳马失误",
-      "onboard_time": 1722276376,
-      "rank": 35,
       "category": "体育"
     },
     {
@@ -3219,6 +3227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 375292,
+      "num": 375292,
+      "word": "肖若腾哭了",
+      "onboard_time": 1722277995,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 374441,
       "num": 374441,
       "word": "华天0罚分",
@@ -3323,6 +3339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 359264,
+      "num": 359264,
+      "word": "体操解说",
+      "onboard_time": 1722276197,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 358959,
       "num": 358959,
       "word": "德约科维奇淘汰纳达尔",
@@ -3420,7 +3444,7 @@
     },
     {
       "raw_hot": 350896,
-      "num": 4503184,
+      "num": 4850698,
       "word": "中国跳水奥运金牌总数已超美国",
       "onboard_time": 1722255684,
       "rank": 43,
@@ -3608,6 +3632,14 @@
       "word": "孙颖莎最佳场外应援CoCo",
       "onboard_time": 1722213143,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 331857,
+      "num": 331857,
+      "word": "杨威解说",
+      "onboard_time": 1722277635,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -3944,14 +3976,6 @@
       "word": "期待潘展乐单项",
       "onboard_time": 1722111071,
       "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 305281,
-      "num": 305281,
-      "word": "体操解说",
-      "onboard_time": 1722276197,
-      "rank": 38,
       "category": "体育"
     },
     {
@@ -4451,6 +4475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 266261,
+      "num": 266261,
+      "word": "孙颖莎单打",
+      "onboard_time": 1722276556,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 265881,
       "num": 265881,
       "word": "唐朝诡事录造型师回应",
@@ -4737,14 +4769,6 @@
       "onboard_time": 1722140911,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 248050,
-      "num": 248050,
-      "word": "孙颖莎单打",
-      "onboard_time": 1722276556,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 246940,
@@ -6284,7 +6308,7 @@
     },
     {
       "raw_hot": 96642,
-      "num": 407481,
+      "num": 436847,
       "word": "土耳其总统当众轻扇男孩一巴掌",
       "onboard_time": 1722275475,
       "rank": 32,
