@@ -1,6 +1,6 @@
 {
   "startTime": 1722097426384,
-  "endTime": 1722224237599,
+  "endTime": 1722227020178,
   "band_list": [
     {
       "raw_hot": 15610430,
@@ -43,8 +43,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 8507611,
-      "num": 8507611,
+      "raw_hot": 9114786,
+      "num": 9114786,
       "word": "韩国国旗又挂错了",
       "onboard_time": 1722222982,
       "rank": 0,
@@ -56,6 +56,14 @@
       "word": "莎头组合进半决赛",
       "onboard_time": 1722183032,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 7682577,
+      "num": 7682577,
+      "word": "韩国人找到了国旗被挂错的原因",
+      "onboard_time": 1722224003,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -169,6 +177,14 @@
       "onboard_time": 1722180808,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3024020,
+      "num": 3024020,
+      "word": "英国 破产",
+      "onboard_time": 1722225624,
+      "rank": 3,
+      "category": "国外时政"
     },
     {
       "raw_hot": 2981484,
@@ -763,6 +779,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 1115407,
+      "num": 1115407,
+      "word": "陈飞宇道歉速度",
+      "onboard_time": 1722222742,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1107841,
       "num": 938969,
       "word": "虞书欣不用公筷被审判",
@@ -840,6 +864,14 @@
       "word": "莎头组合奥运会首秀",
       "onboard_time": 1722093627,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1006911,
+      "num": 1006911,
+      "word": "韩国国旗被错标成中国国旗",
+      "onboard_time": 1722226286,
+      "rank": 6,
       "category": "体育"
     },
     {
@@ -1051,20 +1083,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 808047,
+      "num": 808047,
+      "word": "丈夫称妻子在KTV消费近两百万想要回",
+      "onboard_time": 1722221482,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 797520,
       "num": 797520,
       "word": "小孩姐第一次参加奥运就创造历史",
       "onboard_time": 1722187456,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 792918,
-      "num": 792918,
-      "word": "陈飞宇道歉速度",
-      "onboard_time": 1722222742,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 786466,
@@ -1155,14 +1187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 684011,
-      "num": 684011,
-      "word": "丈夫称妻子在KTV消费近两百万想要回",
-      "onboard_time": 1722221482,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 678004,
       "num": 678004,
       "word": "华天的马受惊",
@@ -1249,6 +1273,14 @@
       "onboard_time": 1722137122,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 623921,
+      "num": 623921,
+      "word": "高敏说游泳队赛前训练出了问题",
+      "onboard_time": 1722221902,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 621665,
@@ -1491,6 +1523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 530889,
+      "num": 530889,
+      "word": "还我妈生旗",
+      "onboard_time": 1722223223,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 528575,
       "num": 528575,
       "word": "奥运会开幕式法国人自己都受不了",
@@ -1587,6 +1627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 489116,
+      "num": 489116,
+      "word": "美国选手三次邀请张雨霏合影",
+      "onboard_time": 1722221360,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 488492,
       "num": 488492,
       "word": "阿根廷选手出场时显示中国国旗",
@@ -1633,6 +1681,14 @@
       "onboard_time": 1722147502,
       "rank": 35,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 473069,
+      "num": 473069,
+      "word": "中国射箭女团摘银教练落泪",
+      "onboard_time": 1722222082,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 472050,
@@ -1689,14 +1745,6 @@
       "onboard_time": 1722142341,
       "rank": 26,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 446483,
-      "num": 446483,
-      "word": "高敏说游泳队赛前训练出了问题",
-      "onboard_time": 1722221902,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 446227,
@@ -1867,30 +1915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 406954,
-      "num": 406954,
-      "word": "美国选手三次邀请张雨霏合影",
-      "onboard_time": 1722221360,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 405008,
-      "num": 405008,
-      "word": "还我妈生旗",
-      "onboard_time": 1722223223,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 404926,
-      "num": 404926,
-      "word": "中国射箭女团摘银教练落泪",
-      "onboard_time": 1722222082,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 404680,
       "num": 404680,
       "word": "陈雨菲vs李怡逢",
@@ -1921,6 +1945,14 @@
       "onboard_time": 1722220583,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 394105,
+      "num": 394105,
+      "word": "覃海洋加油",
+      "onboard_time": 1722226105,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 390904,
@@ -2065,6 +2097,14 @@
       "onboard_time": 1722176843,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 354748,
+      "num": 354748,
+      "word": "东证期货1女踏多男涉多家基金员工",
+      "onboard_time": 1722224785,
+      "rank": 27,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 354599,
@@ -2283,18 +2323,18 @@
       "category": "情感"
     },
     {
-      "raw_hot": 322239,
-      "num": 322239,
-      "word": "韩国人找到了国旗被挂错的原因",
-      "onboard_time": 1722224003,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 321404,
       "num": 321404,
       "word": "为什么不上韩旭",
       "onboard_time": 1722179605,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 320605,
+      "num": 320605,
+      "word": "巴黎奥运中国军团奖牌时刻",
+      "onboard_time": 1722226526,
       "rank": 35,
       "category": "体育"
     },
@@ -2355,6 +2395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 313029,
+      "num": 313029,
+      "word": "天津离巴黎就差一个奥运会",
+      "onboard_time": 1722221360,
+      "rank": 47,
+      "category": "体育,幽默"
+    },
+    {
       "raw_hot": 312914,
       "num": 752320,
       "word": "湖南四新堤决口",
@@ -2369,6 +2417,14 @@
       "onboard_time": 1722165501,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 311205,
+      "num": 311205,
+      "word": "SEVENTEEN北京",
+      "onboard_time": 1722224844,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 310925,
@@ -2473,6 +2529,14 @@
       "onboard_time": 1722109152,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 298085,
+      "num": 298085,
+      "word": "我拒绝了小姑子的女儿来我家",
+      "onboard_time": 1722226465,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 296956,
@@ -2675,14 +2739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 272599,
-      "num": 272599,
-      "word": "天津离巴黎就差一个奥运会",
-      "onboard_time": 1722221360,
-      "rank": 47,
-      "category": "体育,幽默"
-    },
-    {
       "raw_hot": 272076,
       "num": 272076,
       "word": "东京出界的脚绊倒了巴黎的桥本大辉",
@@ -2803,6 +2859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 260368,
+      "num": 260368,
+      "word": "东证期货女员工自曝劈腿一事已立案",
+      "onboard_time": 1722226046,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260357,
       "num": 260357,
       "word": "唐朝诡事录热度",
@@ -2867,6 +2931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 254654,
+      "num": 254654,
+      "word": "张艺谋首部监制网剧预告",
+      "onboard_time": 1722226705,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 253539,
       "num": 253539,
       "word": "93年5岁的马龙脸还没球拍大",
@@ -2927,6 +2999,14 @@
       "num": 246283,
       "word": "郑钦文奥运首秀",
       "onboard_time": 1722172402,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 246230,
+      "num": 258136,
+      "word": "奥运第一个乐子梗来了",
+      "onboard_time": 1722224423,
       "rank": 46,
       "category": "体育"
     },
@@ -3995,6 +4075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83666,
+      "num": 344893,
+      "word": "异人之下",
+      "onboard_time": 1722225684,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 82345,
       "num": 336566,
       "word": "中国一夺冠美团就免单",
@@ -4163,6 +4251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59800,
+      "num": 612543,
+      "word": "谷爱凌参加中国之夜",
+      "onboard_time": 1722224123,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59712,
       "num": 616540,
       "word": "这届奥运冠军的历史都是高清的",
@@ -4225,6 +4321,14 @@
       "onboard_time": 1722145708,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53227,
+      "num": 801819,
+      "word": "我国用无人机为灾区提供手机信号",
+      "onboard_time": 1722225624,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52272,
@@ -4315,6 +4419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40023,
+      "num": 5285824,
+      "word": "这是一代代中国奥运健儿的回答",
+      "onboard_time": 1722226346,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39499,
       "num": 39499,
       "word": "王源郑州巡演嘉宾是陆虎",
@@ -4337,6 +4449,14 @@
       "onboard_time": 1722223823,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 38340,
+      "num": 349216,
+      "word": "沈月发了好多喜欢给桃花坞表白",
+      "onboard_time": 1722226945,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 36556,
@@ -4457,14 +4577,6 @@
       "onboard_time": 1722197712,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9135,
-      "num": 209913,
-      "word": "谷爱凌参加中国之夜",
-      "onboard_time": 1722224123,
-      "rank": 49,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
