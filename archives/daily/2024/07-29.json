@@ -1,6 +1,6 @@
 {
   "startTime": 1722183872314,
-  "endTime": 1722237570272,
+  "endTime": 1722238484435,
   "band_list": [
     {
       "raw_hot": 13356940,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 1587028,
-      "num": 413439,
+      "num": 551305,
       "word": "男子年年体检都正常突然查出食管癌",
       "onboard_time": 1722231862,
       "rank": 21,
@@ -275,6 +275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1242216,
+      "num": 714437,
+      "word": "苏醒道歉",
+      "onboard_time": 1722237201,
+      "rank": 39,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 1240360,
       "num": 1240360,
       "word": "姚明 不要犯规",
@@ -320,6 +328,14 @@
       "word": "崔宸曦晋级决赛",
       "onboard_time": 1722173181,
       "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1146365,
+      "num": 1146365,
+      "word": "找到张本智和吵的原因了",
+      "onboard_time": 1722233721,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -395,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 903812,
+      "num": 903812,
+      "word": "韩国一父亲性侵女儿15年致流产4次",
+      "onboard_time": 1722233721,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 888003,
       "num": 888003,
       "word": "莎头组合大心脏",
@@ -412,7 +436,7 @@
     },
     {
       "raw_hot": 858006,
-      "num": 412300,
+      "num": 497989,
       "word": "我拒绝了小姑子的女儿来我家",
       "onboard_time": 1722226465,
       "rank": 40,
@@ -459,19 +483,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 788429,
-      "num": 788429,
-      "word": "找到张本智和吵的原因了",
-      "onboard_time": 1722233721,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 780077,
       "num": 780077,
       "word": "华天遭争议判罚排名从第3滑落至32",
       "onboard_time": 1722231440,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 769686,
+      "num": 769686,
+      "word": "全红婵 这孩子特别特别好",
+      "onboard_time": 1722231921,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -512,6 +536,22 @@
       "word": "华天的马受惊",
       "onboard_time": 1722179902,
       "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 645670,
+      "num": 645670,
+      "word": "女子10米气步枪决赛",
+      "onboard_time": 1722238342,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 618483,
+      "num": 618483,
+      "word": "羽毛球混双",
+      "onboard_time": 1722238100,
+      "rank": 17,
       "category": "体育"
     },
     {
@@ -569,14 +609,6 @@
       "onboard_time": 1722181766,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 561759,
-      "num": 561759,
-      "word": "全红婵 这孩子特别特别好",
-      "onboard_time": 1722231921,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 559874,
@@ -641,6 +673,14 @@
       "onboard_time": 1722188415,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 512487,
+      "num": 512487,
+      "word": "东证期货和女员工报警",
+      "onboard_time": 1722237322,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 506954,
@@ -721,14 +761,6 @@
       "onboard_time": 1722153744,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 461887,
-      "num": 461887,
-      "word": "韩国一父亲性侵女儿15年致流产4次",
-      "onboard_time": 1722233721,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 457627,
@@ -1267,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 259983,
+      "num": 259983,
+      "word": "韩国籍射箭教练的中国心",
+      "onboard_time": 1722236482,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 258867,
       "num": 258867,
       "word": "大学生只比小学生大6岁",
@@ -1451,6 +1491,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 216765,
+      "num": 216765,
+      "word": "湖南湘潭华中村堤段决口",
+      "onboard_time": 1722237081,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215618,
       "num": 315327,
       "word": "王传君发文感谢桃花坞",
@@ -1515,12 +1563,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 204987,
-      "num": 204987,
-      "word": "苏醒道歉",
-      "onboard_time": 1722237201,
-      "rank": 39,
-      "category": "艺人,体育"
+      "raw_hot": 203974,
+      "num": 203974,
+      "word": "姚安娜网友劝学",
+      "onboard_time": 1722237921,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 203836,
@@ -1571,28 +1619,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201982,
-      "num": 201982,
-      "word": "东证期货和女员工报警",
-      "onboard_time": 1722237322,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 201218,
       "num": 201218,
       "word": "王俊凯代言骆驼",
       "onboard_time": 1722217520,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 199757,
-      "num": 199757,
-      "word": "韩国籍射箭教练的中国心",
-      "onboard_time": 1722236482,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 198269,
@@ -1627,6 +1659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194871,
+      "num": 194871,
+      "word": "上海的cosplay已经nextlevel了",
+      "onboard_time": 1722237201,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 194494,
       "num": 194494,
       "word": "乒乓球",
@@ -1651,14 +1691,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 185267,
-      "num": 185267,
-      "word": "湖南湘潭华中村堤段决口",
-      "onboard_time": 1722237081,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184744,
       "num": 144428,
       "word": "张雨霏第二枚铜牌",
@@ -1667,12 +1699,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 180907,
-      "num": 180907,
-      "word": "上海的cosplay已经nextlevel了",
-      "onboard_time": 1722237201,
-      "rank": 46,
-      "category": "动漫"
+      "raw_hot": 183043,
+      "num": 183043,
+      "word": "莎头赢了后 中国队全体起立",
+      "onboard_time": 1722238461,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 178288,
@@ -1681,6 +1713,14 @@
       "onboard_time": 1722236361,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 177913,
+      "num": 177913,
+      "word": "贵州茅台跌穿1400元",
+      "onboard_time": 1722237741,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 177387,
@@ -1699,6 +1739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172256,
+      "num": 172256,
+      "word": "在南方上桌的米饭是大家的",
+      "onboard_time": 1722236901,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 168726,
       "num": 168726,
       "word": "你永远可以相信莎头",
@@ -1713,6 +1761,14 @@
       "onboard_time": 1722186676,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167781,
+      "num": 167781,
+      "word": "郭晶晶真正的大女主",
+      "onboard_time": 1722237860,
+      "rank": 49,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 167594,
@@ -1795,6 +1851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125693,
+      "num": 716980,
+      "word": "湖南湘潭华中村发生决口长30余米",
+      "onboard_time": 1722237021,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124724,
       "num": 124724,
       "word": "巴黎偶遇郭晶晶霍启刚霍启山",
@@ -1855,14 +1919,6 @@
       "num": 801819,
       "word": "我国用无人机为灾区提供手机信号",
       "onboard_time": 1722225624,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 101231,
-      "num": 635173,
-      "word": "湖南湘潭华中村发生决口长30余米",
-      "onboard_time": 1722237021,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -1987,6 +2043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 62002,
+      "num": 647944,
+      "word": "小镇做题家躲进读博的学历崇拜中",
+      "onboard_time": 1722237021,
+      "rank": 14,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 57413,
       "num": 1277329,
       "word": "从北京到巴黎为和平与团结努力",
@@ -2067,6 +2131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 38767,
+      "num": 1198524,
+      "word": "紧急下达5亿元支持台风等应急恢复",
+      "onboard_time": 1722238461,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38633,
       "num": 339472,
       "word": "哈里斯参选首周募款2亿美元",
@@ -2089,6 +2161,14 @@
       "onboard_time": 1722171862,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30450,
+      "num": 584537,
+      "word": "宝诗龙Quatre怎么读",
+      "onboard_time": 1722236721,
+      "rank": 19,
+      "category": "时尚"
     },
     {
       "raw_hot": 30242,
@@ -2115,14 +2195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25745,
-      "num": 510578,
-      "word": "小镇做题家躲进读博的学历崇拜中",
-      "onboard_time": 1722237021,
-      "rank": 14,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 22577,
       "num": 198253,
       "word": "一人一个CRUSH故事",
@@ -2139,12 +2211,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19073,
-      "num": 416529,
-      "word": "宝诗龙Quatre怎么读",
-      "onboard_time": 1722236721,
-      "rank": 19,
-      "category": "时尚"
+      "raw_hot": 18823,
+      "num": 286778,
+      "word": "韩国嫌弃奥运食堂空运泡菜到巴黎",
+      "onboard_time": 1722238220,
+      "rank": 29,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 17166,
