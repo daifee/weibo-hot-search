@@ -1,6 +1,6 @@
 {
   "startTime": 1722183872314,
-  "endTime": 1722235268981,
+  "endTime": 1722237570272,
   "band_list": [
     {
       "raw_hot": 13356940,
@@ -195,6 +195,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 1587028,
+      "num": 413439,
+      "word": "男子年年体检都正常突然查出食管癌",
+      "onboard_time": 1722231862,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1585164,
       "num": 1585164,
       "word": "女篮解说 打球化妆",
@@ -208,6 +216,14 @@
       "word": "杨毅回应女篮解说言论",
       "onboard_time": 1722181527,
       "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1528921,
+      "num": 1528921,
+      "word": "覃海洋张雨霏一天7次尿检",
+      "onboard_time": 1722234559,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -396,7 +412,7 @@
     },
     {
       "raw_hot": 858006,
-      "num": 392399,
+      "num": 412300,
       "word": "我拒绝了小姑子的女儿来我家",
       "onboard_time": 1722226465,
       "rank": 40,
@@ -443,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 788429,
+      "num": 788429,
+      "word": "找到张本智和吵的原因了",
+      "onboard_time": 1722233721,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 780077,
       "num": 780077,
       "word": "华天遭争议判罚排名从第3滑落至32",
@@ -456,6 +480,14 @@
       "word": "莎头",
       "onboard_time": 1722181527,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 730377,
+      "num": 730377,
+      "word": "全红婵念自己的名字",
+      "onboard_time": 1722232460,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -539,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 561759,
+      "num": 561759,
+      "word": "全红婵 这孩子特别特别好",
+      "onboard_time": 1722231921,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 559874,
       "num": 559874,
       "word": "巴黎奥运中国军团奖牌时刻",
@@ -553,14 +593,6 @@
       "onboard_time": 1722196391,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 552955,
-      "num": 362201,
-      "word": "男子年年体检都正常突然查出食管癌",
-      "onboard_time": 1722231862,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 544752,
@@ -691,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 461887,
+      "num": 461887,
+      "word": "韩国一父亲性侵女儿15年致流产4次",
+      "onboard_time": 1722233721,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 457627,
       "num": 457627,
       "word": "王源陆虎祝赵英俊生日快乐",
@@ -721,22 +761,6 @@
       "onboard_time": 1722187576,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 418225,
-      "num": 418225,
-      "word": "覃海洋张雨霏一天7次尿检",
-      "onboard_time": 1722234559,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 413473,
-      "num": 413473,
-      "word": "全红婵念自己的名字",
-      "onboard_time": 1722232460,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 408925,
@@ -1003,12 +1027,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 325284,
+      "num": 325284,
+      "word": "德龄与慈禧",
+      "onboard_time": 1722233362,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 324148,
       "num": 333739,
       "word": "全球唯一大熊猫三胞胎10岁生日",
       "onboard_time": 1722178042,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 322567,
+      "num": 322567,
+      "word": "陈小春应采儿真的把Jasper养的很好",
+      "onboard_time": 1722232401,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 320043,
@@ -1057,14 +1097,6 @@
       "onboard_time": 1722216081,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 312055,
-      "num": 312055,
-      "word": "全红婵 这孩子特别特别好",
-      "onboard_time": 1722231921,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 311987,
@@ -1155,14 +1187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 292783,
-      "num": 292783,
-      "word": "德龄与慈禧",
-      "onboard_time": 1722233362,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
       "raw_hot": 292373,
       "num": 292373,
       "word": "未定事件簿",
@@ -1224,14 +1248,6 @@
       "word": "美国男篮狂砍110分",
       "onboard_time": 1722208216,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 264019,
-      "num": 264019,
-      "word": "找到张本智和吵的原因了",
-      "onboard_time": 1722233721,
-      "rank": 35,
       "category": "体育"
     },
     {
@@ -1379,6 +1395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226423,
+      "num": 226423,
+      "word": "教练称射箭决赛韩国观众声音太大",
+      "onboard_time": 1722233601,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 224794,
       "num": 224794,
       "word": "妈妈不理解但是主打一个尊重",
@@ -1451,6 +1475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211962,
+      "num": 211962,
+      "word": "任嘉伦主演的7部古装剧",
+      "onboard_time": 1722235879,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208905,
       "num": 208905,
       "word": "你认识韩国国旗吗",
@@ -1481,6 +1513,14 @@
       "onboard_time": 1722234261,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204987,
+      "num": 204987,
+      "word": "苏醒道歉",
+      "onboard_time": 1722237201,
+      "rank": 39,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 203836,
@@ -1531,12 +1571,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201982,
+      "num": 201982,
+      "word": "东证期货和女员工报警",
+      "onboard_time": 1722237322,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201218,
       "num": 201218,
       "word": "王俊凯代言骆驼",
       "onboard_time": 1722217520,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199757,
+      "num": 199757,
+      "word": "韩国籍射箭教练的中国心",
+      "onboard_time": 1722236482,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 198269,
@@ -1595,6 +1651,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 185267,
+      "num": 185267,
+      "word": "湖南湘潭华中村堤段决口",
+      "onboard_time": 1722237081,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184744,
       "num": 144428,
       "word": "张雨霏第二枚铜牌",
@@ -1603,12 +1667,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 179639,
-      "num": 179639,
-      "word": "教练称射箭决赛韩国观众声音太大",
-      "onboard_time": 1722233601,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 180907,
+      "num": 180907,
+      "word": "上海的cosplay已经nextlevel了",
+      "onboard_time": 1722237201,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 178288,
+      "num": 178288,
+      "word": "女儿换掉了个性签名",
+      "onboard_time": 1722236361,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 177387,
@@ -1640,6 +1712,14 @@
       "word": "咪咕直播奥运每一刻",
       "onboard_time": 1722186676,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 167594,
+      "num": 167594,
+      "word": "郭艾伦投诉中通快运医疗器材错寄",
+      "onboard_time": 1722237441,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -1775,6 +1855,14 @@
       "num": 801819,
       "word": "我国用无人机为灾区提供手机信号",
       "onboard_time": 1722225624,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101231,
+      "num": 635173,
+      "word": "湖南湘潭华中村发生决口长30余米",
+      "onboard_time": 1722237021,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -1915,14 +2003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54188,
-      "num": 182160,
-      "word": "韩国一父亲性侵女儿15年致流产4次",
-      "onboard_time": 1722233721,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 49519,
       "num": 914956,
       "word": "村民谈决堤后夜晚涨水逃生经历",
@@ -2035,6 +2115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25745,
+      "num": 510578,
+      "word": "小镇做题家躲进读博的学历崇拜中",
+      "onboard_time": 1722237021,
+      "rank": 14,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 22577,
       "num": 198253,
       "word": "一人一个CRUSH故事",
@@ -2049,6 +2137,14 @@
       "onboard_time": 1722233541,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19073,
+      "num": 416529,
+      "word": "宝诗龙Quatre怎么读",
+      "onboard_time": 1722236721,
+      "rank": 19,
+      "category": "时尚"
     },
     {
       "raw_hot": 17166,
@@ -2100,6 +2196,9 @@
     },
     {
       "word": "#历史文化遗产怎样全面保护总书记这样说#"
+    },
+    {
+      "word": "#习近平对退役军人工作作出重要指示#"
     }
   ]
 }
