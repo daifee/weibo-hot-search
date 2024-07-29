@@ -1,6 +1,6 @@
 {
   "startTime": 1722270352158,
-  "endTime": 1722284463117,
+  "endTime": 1722285293621,
   "band_list": [
     {
       "raw_hot": 26081799,
@@ -771,6 +771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140987,
+      "num": 140987,
+      "word": "何诗蓓摘铜",
+      "onboard_time": 1722284292,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135958,
       "num": 135958,
       "word": "张博恒好全能",
@@ -795,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106300,
+      "num": 106300,
+      "word": "徐嘉余奥运第3银",
+      "onboard_time": 1722283814,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96642,
       "num": 673149,
       "word": "土耳其总统当众轻扇男孩一巴掌",
@@ -811,18 +827,10 @@
       "category": "体育"
     },
     {
-      "raw_hot": 94722,
-      "num": 94722,
-      "word": "何诗蓓摘铜",
-      "onboard_time": 1722284292,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 90078,
-      "num": 90078,
-      "word": "徐嘉余奥运第3银",
-      "onboard_time": 1722283814,
+      "raw_hot": 90882,
+      "num": 90882,
+      "word": "杨浚瑄200自第五",
+      "onboard_time": 1722284652,
       "rank": 44,
       "category": "体育"
     },
