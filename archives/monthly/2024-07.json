@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1722230441638,
+  "endTime": 1722231415628,
   "band_list": [
     {
       "raw_hot": 16577668,
@@ -611,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3508970,
+      "num": 3508970,
+      "word": "霍启刚有好好打扮 我不会出轨",
+      "onboard_time": 1722227726,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3456601,
       "num": 3456601,
       "word": "中国队亮相",
@@ -625,14 +633,6 @@
       "onboard_time": 1720515739,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3447469,
-      "num": 3447469,
-      "word": "霍启刚有好好打扮 我不会出轨",
-      "onboard_time": 1722227726,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 3430710,
@@ -7515,6 +7515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 910526,
+      "num": 910526,
+      "word": "韩国爱豆在巴黎奥运集体失声",
+      "onboard_time": 1722230182,
+      "rank": 30,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 910434,
       "num": 578627,
       "word": "空空日记",
@@ -8595,6 +8603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 838507,
+      "num": 392399,
+      "word": "我拒绝了小姑子的女儿来我家",
+      "onboard_time": 1722226465,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 837738,
       "num": 837738,
       "word": "只要胆子大老婆直接牵回家",
@@ -8985,14 +9001,6 @@
       "onboard_time": 1721206219,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 815691,
-      "num": 392399,
-      "word": "我拒绝了小姑子的女儿来我家",
-      "onboard_time": 1722226465,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 815035,
@@ -24443,6 +24451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 371646,
+      "num": 371646,
+      "word": "邓为去医院看病",
+      "onboard_time": 1722230243,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 371202,
       "num": 233751,
       "word": "西梅是被列入医嘱的通便食物",
@@ -25105,6 +25121,14 @@
       "onboard_time": 1721102058,
       "rank": 34,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 358336,
+      "num": 358336,
+      "word": "牛骏峰 雨霏你就是我心里的冠军",
+      "onboard_time": 1722230370,
+      "rank": 41,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 358122,
@@ -29147,14 +29171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 303700,
-      "num": 303700,
-      "word": "韩国爱豆在巴黎奥运集体失声",
-      "onboard_time": 1722230182,
-      "rank": 30,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 303678,
       "num": 303678,
       "word": "严浩翔 耍帅吗我超会",
@@ -29233,14 +29249,6 @@
       "onboard_time": 1722081022,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 303060,
-      "num": 303060,
-      "word": "邓为去医院看病",
-      "onboard_time": 1722230243,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 302934,
@@ -33123,6 +33131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260326,
+      "num": 260326,
+      "word": "宁泽涛 中国队加油",
+      "onboard_time": 1722230487,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 260300,
       "num": 190270,
       "word": "菲律宾华人称当地绑匪有产业链",
@@ -34163,14 +34179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 250612,
-      "num": 250612,
-      "word": "牛骏峰 雨霏你就是我心里的冠军",
-      "onboard_time": 1722230370,
-      "rank": 41,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 250442,
       "num": 250442,
       "word": "日乒教练表情",
@@ -34849,6 +34857,14 @@
       "onboard_time": 1721355505,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 245019,
+      "num": 245019,
+      "word": "俩外国人在法国用中文聊天",
+      "onboard_time": 1722222441,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 244982,
@@ -36041,14 +36057,6 @@
       "onboard_time": 1721651603,
       "rank": 34,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 235719,
-      "num": 235719,
-      "word": "俩外国人在法国用中文聊天",
-      "onboard_time": 1722222441,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 235699,
@@ -40723,6 +40731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 208905,
+      "num": 208905,
+      "word": "你认识韩国国旗吗",
+      "onboard_time": 1722231322,
+      "rank": 43,
+      "category": "科学科普,体育"
+    },
+    {
       "raw_hot": 208892,
       "num": 208892,
       "word": "Capper直播",
@@ -42163,6 +42179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203836,
+      "num": 203836,
+      "word": "怎敌她千娇百媚杀青照",
+      "onboard_time": 1722230721,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203830,
       "num": 203830,
       "word": "为什么用猪油炒菜会那么香",
@@ -42337,6 +42361,14 @@
       "onboard_time": 1722061159,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203328,
+      "num": 203328,
+      "word": "檀健次工作室",
+      "onboard_time": 1722230661,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 203284,
@@ -43449,6 +43481,14 @@
       "onboard_time": 1721039238,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 200059,
+      "num": 200059,
+      "word": "一个月交两次房租合理吗",
+      "onboard_time": 1722230002,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 200048,
@@ -72939,6 +72979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85155,
+      "num": 611407,
+      "word": "头部券商付费实习2万起",
+      "onboard_time": 1722229224,
+      "rank": 9,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 85058,
       "num": 256702,
       "word": "普通人也能跑进奥运会了",
@@ -79043,6 +79091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42054,
+      "num": 601692,
+      "word": "活期存款利率普遍降至0.15%",
+      "onboard_time": 1722231022,
+      "rank": 9,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 42007,
       "num": 431632,
       "word": "庆祝中国首金蒙牛送出500金",
@@ -79161,14 +79217,6 @@
       "onboard_time": 1720641131,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 40899,
-      "num": 611407,
-      "word": "头部券商付费实习2万起",
-      "onboard_time": 1722229224,
-      "rank": 9,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 40824,
@@ -80113,6 +80161,14 @@
       "onboard_time": 1720111395,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 34796,
+      "num": 4092232,
+      "word": "为梦想拼搏的奥运瞬间",
+      "onboard_time": 1722229945,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 34718,
@@ -81281,6 +81337,14 @@
       "onboard_time": 1722081621,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 27510,
+      "num": 222261,
+      "word": "贾玲嘉奖廖智",
+      "onboard_time": 1722231022,
+      "rank": 39,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 27474,
@@ -83395,14 +83459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 15397,
-      "num": 4092232,
-      "word": "为梦想拼搏的奥运瞬间",
-      "onboard_time": 1722229945,
-      "rank": 2,
-      "category": "体育"
-    },
-    {
       "raw_hot": 15297,
       "num": 207369,
       "word": "河南暴雨千名官兵持续抢险救援中",
@@ -83657,6 +83713,14 @@
       "onboard_time": 1720067898,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 13230,
+      "num": 378507,
+      "word": "檀健次长相思宣传VCR",
+      "onboard_time": 1722230721,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 13174,
