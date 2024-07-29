@@ -1,6 +1,6 @@
 {
   "startTime": 1722183872314,
-  "endTime": 1722234500907,
+  "endTime": 1722235268981,
   "band_list": [
     {
       "raw_hot": 13356940,
@@ -35,8 +35,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 3508970,
-      "num": 3508970,
+      "raw_hot": 3559274,
+      "num": 3559274,
       "word": "霍启刚有好好打扮 我不会出轨",
       "onboard_time": 1722227726,
       "rank": 22,
@@ -187,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1608093,
+      "num": 1608093,
+      "word": "韩国爱豆在巴黎奥运集体失声",
+      "onboard_time": 1722230182,
+      "rank": 30,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 1585164,
       "num": 1585164,
       "word": "女篮解说 打球化妆",
@@ -209,14 +217,6 @@
       "onboard_time": 1722220342,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1502080,
-      "num": 1502080,
-      "word": "韩国爱豆在巴黎奥运集体失声",
-      "onboard_time": 1722230182,
-      "rank": 30,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 1413492,
@@ -387,12 +387,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 870970,
-      "num": 870970,
+      "raw_hot": 885882,
+      "num": 885882,
       "word": "东证期货女员工自曝劈腿一事已立案",
       "onboard_time": 1722226046,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 858006,
+      "num": 392399,
+      "word": "我拒绝了小姑子的女儿来我家",
+      "onboard_time": 1722226465,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 844246,
@@ -401,14 +409,6 @@
       "onboard_time": 1722221482,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 838507,
-      "num": 392399,
-      "word": "我拒绝了小姑子的女儿来我家",
-      "onboard_time": 1722226465,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 834927,
@@ -443,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 780077,
+      "num": 780077,
+      "word": "华天遭争议判罚排名从第3滑落至32",
+      "onboard_time": 1722231440,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 744797,
       "num": 744797,
       "word": "莎头",
@@ -472,14 +480,6 @@
       "word": "华天的马受惊",
       "onboard_time": 1722179902,
       "rank": 22,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 630437,
-      "num": 630437,
-      "word": "华天遭争议判罚排名从第3滑落至32",
-      "onboard_time": 1722231440,
-      "rank": 9,
       "category": "体育"
     },
     {
@@ -553,6 +553,14 @@
       "onboard_time": 1722196391,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 552955,
+      "num": 362201,
+      "word": "男子年年体检都正常突然查出食管癌",
+      "onboard_time": 1722231862,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 544752,
@@ -699,8 +707,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 435213,
-      "num": 435213,
+      "raw_hot": 441578,
+      "num": 441578,
       "word": "牛骏峰 雨霏你就是我心里的冠军",
       "onboard_time": 1722230370,
       "rank": 41,
@@ -713,6 +721,22 @@
       "onboard_time": 1722187576,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 418225,
+      "num": 418225,
+      "word": "覃海洋张雨霏一天7次尿检",
+      "onboard_time": 1722234559,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 413473,
+      "num": 413473,
+      "word": "全红婵念自己的名字",
+      "onboard_time": 1722232460,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 408925,
@@ -843,20 +867,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 355070,
+      "num": 355070,
+      "word": "张艺兴挖了个兵马俑手办",
+      "onboard_time": 1722231502,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 351772,
       "num": 351772,
       "word": "本周狗屎运最旺的星座",
       "onboard_time": 1722213143,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 350279,
-      "num": 313889,
-      "word": "男子年年体检都正常突然查出食管癌",
-      "onboard_time": 1722231862,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 348515,
@@ -1019,14 +1043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 313252,
-      "num": 313252,
-      "word": "张艺兴挖了个兵马俑手办",
-      "onboard_time": 1722231502,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 313029,
       "num": 313029,
       "word": "天津离巴黎就差一个奥运会",
@@ -1041,6 +1057,14 @@
       "onboard_time": 1722216081,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312055,
+      "num": 312055,
+      "word": "全红婵 这孩子特别特别好",
+      "onboard_time": 1722231921,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 311987,
@@ -1131,14 +1155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 292820,
-      "num": 292820,
-      "word": "全红婵念自己的名字",
-      "onboard_time": 1722232460,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 292783,
       "num": 292783,
       "word": "德龄与慈禧",
@@ -1153,6 +1169,22 @@
       "onboard_time": 1722227125,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 285724,
+      "num": 285724,
+      "word": "庞博建议放半个月奥运假",
+      "onboard_time": 1722232520,
+      "rank": 29,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 283647,
+      "num": 283647,
+      "word": "王玉雯爆料张新成高中没人追",
+      "onboard_time": 1722233663,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 277396,
@@ -1195,6 +1227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 264019,
+      "num": 264019,
+      "word": "找到张本智和吵的原因了",
+      "onboard_time": 1722233721,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 260521,
       "num": 260521,
       "word": "奥运会",
@@ -1209,14 +1249,6 @@
       "onboard_time": 1722230487,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 259362,
-      "num": 259362,
-      "word": "王玉雯爆料张新成高中没人追",
-      "onboard_time": 1722233663,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 258867,
@@ -1251,12 +1283,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 252488,
-      "num": 252488,
-      "word": "庞博建议放半个月奥运假",
-      "onboard_time": 1722232520,
-      "rank": 29,
-      "category": "艺人,体育"
+      "raw_hot": 252779,
+      "num": 252779,
+      "word": "上海航空被海口美兰机场回复打脸",
+      "onboard_time": 1722232881,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251966,
@@ -1272,14 +1304,6 @@
       "word": "奥运第一个乐子梗来了",
       "onboard_time": 1722224423,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 245929,
-      "num": 245929,
-      "word": "全红婵 这孩子特别特别好",
-      "onboard_time": 1722231921,
-      "rank": 31,
       "category": "体育"
     },
     {
@@ -1379,20 +1403,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 217577,
-      "num": 217577,
-      "word": "上海航空被海口美兰机场回复打脸",
-      "onboard_time": 1722232881,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 217559,
       "num": 226553,
       "word": "湖南湘潭决口3832人安全转移",
       "onboard_time": 1722215541,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217091,
+      "num": 217091,
+      "word": "谁家动画有15首片尾曲",
+      "onboard_time": 1722234139,
+      "rank": 38,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 216831,
@@ -1403,19 +1427,27 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 215618,
+      "num": 315327,
+      "word": "王传君发文感谢桃花坞",
+      "onboard_time": 1722233362,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 215344,
+      "num": 215344,
+      "word": "一个月交两次房租合理吗",
+      "onboard_time": 1722230002,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 212965,
       "num": 212965,
       "word": "覃海洋说尽力冲击200蛙金牌",
       "onboard_time": 1722210863,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 211000,
-      "num": 211000,
-      "word": "找到张本智和吵的原因了",
-      "onboard_time": 1722233721,
-      "rank": 35,
       "category": "体育"
     },
     {
@@ -1435,20 +1467,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208575,
+      "num": 208575,
+      "word": "施罗德基金回应",
+      "onboard_time": 1722235041,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 208511,
       "num": 208511,
       "word": "射箭",
       "onboard_time": 1722234261,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 204749,
-      "num": 204749,
-      "word": "谁家动画有15首片尾曲",
-      "onboard_time": 1722234139,
-      "rank": 38,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 203836,
@@ -1507,14 +1539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200059,
-      "num": 200059,
-      "word": "一个月交两次房租合理吗",
-      "onboard_time": 1722230002,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 198269,
       "num": 198269,
       "word": "刘诗诗出发巴黎",
@@ -1531,6 +1555,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 195677,
+      "num": 195677,
+      "word": "齐齐哈尔体育馆坍塌多个责任方被罚",
+      "onboard_time": 1722234081,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195059,
       "num": 195059,
       "word": "程玉洁带刘耀文小卡去奥运会",
@@ -1545,14 +1577,6 @@
       "onboard_time": 1722216442,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 191150,
-      "num": 191150,
-      "word": "齐齐哈尔体育馆坍塌多个责任方被罚",
-      "onboard_time": 1722234081,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189953,
@@ -1731,6 +1755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105587,
+      "num": 362503,
+      "word": "密室大逃脱",
+      "onboard_time": 1722235101,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105274,
       "num": 105274,
       "word": "张雨霏说奥运压力比想象大",
@@ -1755,6 +1787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97254,
+      "num": 429359,
+      "word": "贾玲嘉奖廖智",
+      "onboard_time": 1722231022,
+      "rank": 39,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 95073,
       "num": 95073,
       "word": "游泳赛程",
@@ -1777,14 +1817,6 @@
       "onboard_time": 1722229224,
       "rank": 9,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 83793,
-      "num": 385248,
-      "word": "贾玲嘉奖廖智",
-      "onboard_time": 1722231022,
-      "rank": 39,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 83666,
@@ -1891,14 +1923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53146,
-      "num": 315327,
-      "word": "王传君发文感谢桃花坞",
-      "onboard_time": 1722233362,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 49519,
       "num": 914956,
       "word": "村民谈决堤后夜晚涨水逃生经历",
@@ -1947,6 +1971,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 41199,
+      "num": 4092232,
+      "word": "为梦想拼搏的奥运瞬间",
+      "onboard_time": 1722229945,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39499,
       "num": 39499,
       "word": "王源郑州巡演嘉宾是陆虎",
@@ -1963,12 +1995,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 34796,
-      "num": 4092232,
-      "word": "为梦想拼搏的奥运瞬间",
-      "onboard_time": 1722229945,
-      "rank": 2,
-      "category": "体育"
+      "raw_hot": 32694,
+      "num": 274506,
+      "word": "英国被曝有200亿英镑财政漏洞",
+      "onboard_time": 1722235041,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30637,
@@ -2011,6 +2043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 21884,
+      "num": 206301,
+      "word": "夏天的公园太好拍了",
+      "onboard_time": 1722233541,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17166,
       "num": 281534,
       "word": "妈妈执意要和079号战机合影",
@@ -2019,12 +2059,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16091,
-      "num": 179916,
-      "word": "夏天的公园太好拍了",
-      "onboard_time": 1722233541,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 16050,
+      "num": 216144,
+      "word": "南颜用最甜的脸说最毒的话",
+      "onboard_time": 1722233300,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 13230,
