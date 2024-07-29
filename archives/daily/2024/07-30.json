@@ -1,6 +1,6 @@
 {
   "startTime": 1722270352158,
-  "endTime": 1722292709918,
+  "endTime": 1722295163026,
   "band_list": [
     {
       "raw_hot": 26081799,
@@ -147,6 +147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2034470,
+      "num": 855707,
+      "word": "陈一冰 半场开香槟",
+      "onboard_time": 1722279373,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1801017,
       "num": 1801017,
       "word": "肖若腾哭了",
@@ -219,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1219223,
+      "num": 1219223,
+      "word": "孙颖莎说最后时刻打到忘我",
+      "onboard_time": 1722291853,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1217154,
       "num": 1217154,
       "word": "陈滢 毒奶",
@@ -240,14 +256,6 @@
       "word": "邹敬园双杠16.000分",
       "onboard_time": 1722275416,
       "rank": 16,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 991570,
-      "num": 855707,
-      "word": "陈一冰 半场开香槟",
-      "onboard_time": 1722279373,
-      "rank": 12,
       "category": "体育"
     },
     {
@@ -299,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 829097,
+      "num": 829097,
+      "word": "中国女排 科目三",
+      "onboard_time": 1722275775,
+      "rank": 21,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 827528,
       "num": 827528,
       "word": "莎头",
@@ -329,14 +345,6 @@
       "onboard_time": 1722264746,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 696165,
-      "num": 696165,
-      "word": "中国女排 科目三",
-      "onboard_time": 1722275775,
-      "rank": 21,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 668251,
@@ -387,12 +395,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 511467,
+      "num": 511467,
+      "word": "中国香港击剑再夺金",
+      "onboard_time": 1722286452,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 507285,
       "num": 2251869,
       "word": "况盛爆料葛沛豪说三喜烫头没家教",
       "onboard_time": 1722263784,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 489700,
+      "num": 489700,
+      "word": "李小鹏 观众席",
+      "onboard_time": 1722278415,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 466147,
@@ -483,14 +507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 415114,
-      "num": 415114,
-      "word": "李小鹏 观众席",
-      "onboard_time": 1722278415,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 403894,
       "num": 870906,
       "word": "黄子韬高调示爱徐艺洋",
@@ -547,11 +563,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 351532,
-      "num": 351532,
-      "word": "中国香港击剑再夺金",
-      "onboard_time": 1722286452,
-      "rank": 5,
+      "raw_hot": 336564,
+      "num": 336564,
+      "word": "陈一冰发声",
+      "onboard_time": 1722293116,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -561,6 +577,14 @@
       "onboard_time": 1722276798,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 318812,
+      "num": 750921,
+      "word": "土耳其总统当众轻扇男孩一巴掌",
+      "onboard_time": 1722275475,
+      "rank": 32,
+      "category": "国外时政"
     },
     {
       "raw_hot": 314669,
@@ -635,6 +659,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 274423,
+      "num": 274423,
+      "word": "孙颖莎单打",
+      "onboard_time": 1722276556,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 274107,
+      "num": 274106,
+      "word": "刘国梁好忙",
+      "onboard_time": 1722292574,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 268784,
       "num": 231666,
       "word": "朝鲜乒乓 神秘之师",
@@ -649,14 +689,6 @@
       "onboard_time": 1722268286,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 266261,
-      "num": 266261,
-      "word": "孙颖莎单打",
-      "onboard_time": 1722276556,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 263725,
@@ -699,8 +731,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234243,
+      "num": 234243,
+      "word": "中国女排送卫冕冠军首败",
+      "onboard_time": 1722275356,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 231427,
-      "num": 369846,
+      "num": 540834,
       "word": "贵州29岁抗癌网红大飞去世",
       "onboard_time": 1722257421,
       "rank": 45,
@@ -721,6 +761,14 @@
       "onboard_time": 1722276437,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187963,
+      "num": 706259,
+      "word": "北京暴雨",
+      "onboard_time": 1722294918,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185842,
@@ -747,14 +795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168676,
-      "num": 673149,
-      "word": "土耳其总统当众轻扇男孩一巴掌",
-      "onboard_time": 1722275475,
-      "rank": 32,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 165696,
       "num": 321973,
       "word": "夏思齐 签售",
@@ -763,11 +803,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 151100,
-      "num": 151100,
-      "word": "中国女排送卫冕冠军首败",
-      "onboard_time": 1722275356,
-      "rank": 38,
+      "raw_hot": 165246,
+      "num": 209840,
+      "word": "莎头最后一球全场沸腾",
+      "onboard_time": 1722294258,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -800,6 +840,14 @@
       "word": "张家朗卫冕",
       "onboard_time": 1722286452,
       "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 143202,
+      "num": 209789,
+      "word": "中国女排",
+      "onboard_time": 1722278773,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -851,14 +899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 115808,
-      "num": 115808,
-      "word": "孙颖莎说最后时刻打到忘我",
-      "onboard_time": 1722291853,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 106300,
       "num": 106300,
       "word": "徐嘉余奥运第3银",
@@ -867,20 +907,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 103740,
-      "num": 103740,
-      "word": "中国女排",
-      "onboard_time": 1722278773,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 96324,
+      "raw_hot": 102152,
       "num": 4850698,
       "word": "中国跳水奥运金牌总数已超美国",
       "onboard_time": 1722255684,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97799,
+      "num": 274107,
+      "word": "郑佩佩女儿再发文",
+      "onboard_time": 1722258444,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 90882,
@@ -889,6 +929,22 @@
       "onboard_time": 1722284652,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80131,
+      "num": 209762,
+      "word": "檀健次 我就是在排练厅开始长大的",
+      "onboard_time": 1722291492,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 73820,
+      "num": 209726,
+      "word": "刘宇宁很荣幸和陈丽君合作",
+      "onboard_time": 1722283331,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 67391,
@@ -907,28 +963,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 57585,
-      "num": 221456,
-      "word": "郑佩佩女儿再发文",
-      "onboard_time": 1722258444,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 56205,
       "num": 56205,
       "word": "张博恒感谢大家支持体操队",
       "onboard_time": 1722288732,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 42865,
-      "num": 88786,
-      "word": "刘宇宁很荣幸和陈丽君合作",
-      "onboard_time": 1722283331,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 35000,
@@ -947,12 +987,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 30332,
-      "num": 83061,
-      "word": "檀健次 我就是在排练厅开始长大的",
-      "onboard_time": 1722291492,
-      "rank": 48,
-      "category": "作品衍生"
+      "raw_hot": 25845,
+      "num": 779066,
+      "word": "大熊猫过生日创2项世界纪录",
+      "onboard_time": 1722292816,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23840,
