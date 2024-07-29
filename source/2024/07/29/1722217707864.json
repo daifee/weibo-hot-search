@@ -1,0 +1,410 @@
+{
+  "runTime": 1722217707864,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2521640,
+        "num": 2521640,
+        "word": "法国人天天两眼一睁就是惹韩国人生气",
+        "onboard_time": 1722188114,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2286408,
+        "num": 2286408,
+        "word": "为什么覃海洋后半程游崩了",
+        "onboard_time": 1722216081,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25192,
+        "num": 1889405,
+        "word": "奥运会上的中国队太燃了",
+        "onboard_time": 1722171862,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1711633,
+        "num": 1711633,
+        "word": "雨霏别哭",
+        "onboard_time": 1722195972,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1513181,
+        "num": 1513181,
+        "word": "奥运已经有选手开始回国了",
+        "onboard_time": 1722211463,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1054949,
+        "num": 1054949,
+        "word": "王楚钦孙颖莎vs林昀儒陈思羽",
+        "onboard_time": 1722177203,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 924240,
+        "num": 924240,
+        "word": "姚明 不要犯规",
+        "onboard_time": 1722185178,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 908965,
+        "num": 908965,
+        "word": "湖南8个村子因暴雨失联",
+        "onboard_time": 1722211342,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 834927,
+        "num": 834927,
+        "word": "郭晶晶裁判长好飒",
+        "onboard_time": 1722182063,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206015,
+        "num": 752320,
+        "word": "湖南四新堤决口",
+        "onboard_time": 1722216081,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 953393,
+        "num": 750755,
+        "word": "苏醒说乒乓球是毫无悬念的比赛",
+        "onboard_time": 1722191415,
+        "rank": 10,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 711920,
+        "num": 711920,
+        "word": "面对世界第一他真的尽力了",
+        "onboard_time": 1722208216,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 613229,
+        "num": 613229,
+        "word": "巴黎奥组委为开幕式争议节目道歉",
+        "onboard_time": 1722174810,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 559821,
+        "num": 559821,
+        "word": "莎头组合进半决赛",
+        "onboard_time": 1722183032,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30242,
+        "num": 550289,
+        "word": "航拍湘潭四新堤决堤现巨大缺口",
+        "onboard_time": 1722216620,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544869,
+        "num": 544869,
+        "word": "小孩姐第一次参加奥运就创造历史",
+        "onboard_time": 1722187456,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 538934,
+        "num": 538934,
+        "word": "石宇奇",
+        "onboard_time": 1722214881,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 526482,
+        "num": 526482,
+        "word": "台风格美强势影响郴州",
+        "onboard_time": 1722211642,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524270,
+        "num": 524270,
+        "word": "王楚钦 记者老师明白我意思了吧",
+        "onboard_time": 1722217280,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 445181,
+        "num": 445181,
+        "word": "男子100米蛙泳决赛",
+        "onboard_time": 1722195491,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 590991,
+        "num": 443379,
+        "word": "开放式厕所真是一点都不见外",
+        "onboard_time": 1722213922,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 428331,
+        "num": 428331,
+        "word": "张雨霏说奥运冠军需要天时地利人和",
+        "onboard_time": 1722209720,
+        "rank": 21,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 381427,
+        "num": 381427,
+        "word": "阿根廷选手出场时显示中国国旗",
+        "onboard_time": 1722208216,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 335761,
+        "num": 335761,
+        "word": "女篮解说 打球化妆",
+        "onboard_time": 1722170601,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333454,
+        "num": 333454,
+        "word": "孙颖莎最佳场外应援CoCo",
+        "onboard_time": 1722213143,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327149,
+        "num": 327149,
+        "word": "湖南湘潭县涓水一处堤段出现决口",
+        "onboard_time": 1722178223,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327033,
+        "num": 327033,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1722213143,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 319288,
+        "num": 319288,
+        "word": "覃海洋100蛙第7",
+        "onboard_time": 1722197113,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310214,
+        "num": 310214,
+        "word": "十年前王安宇就安利过田曦薇了",
+        "onboard_time": 1722215421,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302762,
+        "num": 302762,
+        "word": "一觉醒来中国队暂列金牌榜第6",
+        "onboard_time": 1722216442,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291013,
+        "num": 291013,
+        "word": "朝鲜混双有点东西",
+        "onboard_time": 1722178293,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281325,
+        "num": 281325,
+        "word": "未成年人抽卡近乎疯狂",
+        "onboard_time": 1722181766,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280717,
+        "num": 280717,
+        "word": "掉头发其实就2个原因",
+        "onboard_time": 1722211523,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 309095,
+        "num": 280092,
+        "word": "田曦薇重新定义带资进组",
+        "onboard_time": 1722211820,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279423,
+        "num": 279423,
+        "word": "福原爱谈日本混双爆冷出局",
+        "onboard_time": 1722179665,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269747,
+        "num": 269747,
+        "word": "杨毅回应女篮解说言论",
+        "onboard_time": 1722181527,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251268,
+        "num": 251268,
+        "word": "女子100米蝶泳决赛",
+        "onboard_time": 1722192433,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249793,
+        "num": 249793,
+        "word": "奖牌榜",
+        "onboard_time": 1722214642,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242036,
+        "num": 242036,
+        "word": "邓稼先仅用23个月就获博士学位",
+        "onboard_time": 1722215720,
+        "rank": 38,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 233253,
+        "num": 233253,
+        "word": "许昕点评莎头比赛",
+        "onboard_time": 1722185776,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227939,
+        "num": 227939,
+        "word": "三伏天5件事你以为养生其实在养病",
+        "onboard_time": 1722214463,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 226863,
+        "num": 226863,
+        "word": "中国女排首秀迎战美国队",
+        "onboard_time": 1722216142,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213179,
+        "num": 213179,
+        "word": "王楚钦演技",
+        "onboard_time": 1722217580,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203831,
+        "num": 203831,
+        "word": "还以为是外国人在举中国国旗",
+        "onboard_time": 1722216142,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201218,
+        "num": 201218,
+        "word": "王俊凯代言骆驼",
+        "onboard_time": 1722217520,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197097,
+        "num": 197097,
+        "word": "苏醒来看莎头比赛",
+        "onboard_time": 1722177743,
+        "rank": 45,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 194494,
+        "num": 194494,
+        "word": "乒乓球",
+        "onboard_time": 1722216442,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193882,
+        "num": 193882,
+        "word": "东证期货",
+        "onboard_time": 1722217401,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 191975,
+        "num": 191975,
+        "word": "张雨霏100蝶铜牌",
+        "onboard_time": 1722192854,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191323,
+        "num": 191323,
+        "word": "徐嘉余太快了",
+        "onboard_time": 1722196391,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂全会决定中的这些名词#"
+    }
+  }
+}

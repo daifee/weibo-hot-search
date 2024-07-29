@@ -1,6 +1,6 @@
 {
   "startTime": 1722183872314,
-  "endTime": 1722216346243,
+  "endTime": 1722217707864,
   "band_list": [
     {
       "raw_hot": 13356940,
@@ -56,6 +56,14 @@
       "word": "巴黎奥组委为开幕式争议节目道歉",
       "onboard_time": 1722174810,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2286408,
+      "num": 2286408,
+      "word": "为什么覃海洋后半程游崩了",
+      "onboard_time": 1722216081,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -259,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 834927,
+      "num": 834927,
+      "word": "郭晶晶裁判长好飒",
+      "onboard_time": 1722182063,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 810314,
       "num": 810314,
       "word": "面对世界第一他真的尽力了",
@@ -275,27 +291,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 783648,
-      "num": 783648,
-      "word": "为什么覃海洋后半程游崩了",
-      "onboard_time": 1722216081,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 744797,
       "num": 744797,
       "word": "莎头",
       "onboard_time": 1722181527,
       "rank": 20,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 736456,
-      "num": 736456,
-      "word": "郭晶晶裁判长好飒",
-      "onboard_time": 1722182063,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -339,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 590991,
+      "num": 443379,
+      "word": "开放式厕所真是一点都不见外",
+      "onboard_time": 1722213922,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 589256,
       "num": 589256,
       "word": "库里防约老师",
@@ -371,6 +379,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 538934,
+      "num": 538934,
+      "word": "石宇奇",
+      "onboard_time": 1722214881,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 526482,
+      "num": 526482,
+      "word": "台风格美强势影响郴州",
+      "onboard_time": 1722211642,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 524771,
       "num": 524771,
       "word": "奥运会游泳",
@@ -379,12 +403,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 522948,
-      "num": 522948,
-      "word": "台风格美强势影响郴州",
-      "onboard_time": 1722211642,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 524270,
+      "num": 524270,
+      "word": "王楚钦 记者老师明白我意思了吧",
+      "onboard_time": 1722217280,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 522829,
@@ -480,22 +504,6 @@
       "word": "女子体操",
       "onboard_time": 1722192014,
       "rank": 20,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 383347,
-      "num": 383347,
-      "word": "开放式厕所真是一点都不见外",
-      "onboard_time": 1722213922,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 382106,
-      "num": 382106,
-      "word": "石宇奇",
-      "onboard_time": 1722214881,
-      "rank": 22,
       "category": "体育"
     },
     {
@@ -611,6 +619,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 333454,
+      "num": 333454,
+      "word": "孙颖莎最佳场外应援CoCo",
+      "onboard_time": 1722213143,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 330638,
       "num": 330638,
       "word": "徐嘉余小组第1晋级决赛",
@@ -625,6 +641,14 @@
       "onboard_time": 1722211820,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 327149,
+      "num": 327149,
+      "word": "湖南湘潭县涓水一处堤段出现决口",
+      "onboard_time": 1722178223,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 327087,
@@ -676,7 +700,7 @@
     },
     {
       "raw_hot": 312914,
-      "num": 712723,
+      "num": 752320,
       "word": "湖南四新堤决口",
       "onboard_time": 1722216081,
       "rank": 12,
@@ -691,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 310214,
+      "num": 310214,
+      "word": "十年前王安宇就安利过田曦薇了",
+      "onboard_time": 1722215421,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 310139,
       "num": 310139,
       "word": "詹杜库今晚合体",
@@ -699,20 +731,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 308962,
-      "num": 308962,
-      "word": "孙颖莎最佳场外应援CoCo",
-      "onboard_time": 1722213143,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 296568,
-      "num": 296568,
-      "word": "湖南湘潭县涓水一处堤段出现决口",
-      "onboard_time": 1722178223,
+      "raw_hot": 302762,
+      "num": 302762,
+      "word": "一觉醒来中国队暂列金牌榜第6",
+      "onboard_time": 1722216442,
       "rank": 29,
-      "category": "社会新闻"
+      "category": "体育"
     },
     {
       "raw_hot": 265145,
@@ -731,20 +755,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 256819,
-      "num": 256819,
-      "word": "十年前王安宇就安利过田曦薇了",
-      "onboard_time": 1722215421,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 254665,
       "num": 254665,
       "word": "奖牌榜",
       "onboard_time": 1722192973,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 242036,
+      "num": 294937,
+      "word": "邓稼先仅用23个月就获博士学位",
+      "onboard_time": 1722215720,
+      "rank": 30,
+      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 239750,
@@ -771,12 +795,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 225749,
-      "num": 294937,
-      "word": "邓稼先仅用23个月就获博士学位",
-      "onboard_time": 1722215720,
-      "rank": 30,
-      "category": "社会新闻,科学科普"
+      "raw_hot": 226863,
+      "num": 226863,
+      "word": "中国女排首秀迎战美国队",
+      "onboard_time": 1722216142,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 224794,
@@ -795,19 +819,19 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 213179,
+      "num": 213179,
+      "word": "王楚钦演技",
+      "onboard_time": 1722217580,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212965,
       "num": 212965,
       "word": "覃海洋说尽力冲击200蛙金牌",
       "onboard_time": 1722210863,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 209894,
-      "num": 209894,
-      "word": "中国女排首秀迎战美国队",
-      "onboard_time": 1722216142,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -835,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201218,
+      "num": 201218,
+      "word": "王俊凯代言骆驼",
+      "onboard_time": 1722217520,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198269,
       "num": 198269,
       "word": "刘诗诗出发巴黎",
@@ -849,6 +881,22 @@
       "onboard_time": 1722186976,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194494,
+      "num": 194494,
+      "word": "乒乓球",
+      "onboard_time": 1722216442,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 193882,
+      "num": 193882,
+      "word": "东证期货",
+      "onboard_time": 1722217401,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 184744,
@@ -1136,6 +1184,14 @@
       "word": "奥运会上的中国队太燃了",
       "onboard_time": 1722171862,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30242,
+      "num": 550289,
+      "word": "航拍湘潭四新堤决堤现巨大缺口",
+      "onboard_time": 1722216620,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
