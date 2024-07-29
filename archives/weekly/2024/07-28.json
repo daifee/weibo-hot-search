@@ -1,6 +1,6 @@
 {
   "startTime": 1722097426384,
-  "endTime": 1722249546567,
+  "endTime": 1722251809723,
   "band_list": [
     {
       "raw_hot": 15610430,
@@ -115,6 +115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 6416687,
+      "num": 6416687,
+      "word": "男子10米气步枪决赛",
+      "onboard_time": 1722246563,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 5908085,
       "num": 5908085,
       "word": "黄雨婷银牌",
@@ -123,19 +131,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 5591244,
+      "num": 6228327,
+      "word": "盛李豪又夺一金",
+      "onboard_time": 1722249512,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 5332605,
       "num": 5332605,
       "word": "孙颖莎说吵死了",
       "onboard_time": 1722157161,
       "rank": 3,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 5302681,
-      "num": 5302681,
-      "word": "男子10米气步枪决赛",
-      "onboard_time": 1722246563,
-      "rank": 4,
       "category": "体育"
     },
     {
@@ -267,6 +275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2833940,
+      "num": 2833940,
+      "word": "盛李豪破奥运纪录",
+      "onboard_time": 1722249512,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2826525,
       "num": 2826525,
       "word": "黄雨婷10.9满环",
@@ -347,6 +363,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2320023,
+      "num": 2320023,
+      "word": "曾强奸12岁女孩奥运选手首秀遭嘘",
+      "onboard_time": 1722248843,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2299081,
+      "num": 2299081,
+      "word": "老师没给黄雨婷布置暑假作业",
+      "onboard_time": 1722247644,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2286408,
       "num": 2286408,
       "word": "为什么覃海洋后半程游崩了",
@@ -392,14 +424,6 @@
       "word": "莎头已看呆",
       "onboard_time": 1722097230,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2054581,
-      "num": 1038586,
-      "word": "曾强奸12岁女孩奥运选手首秀遭嘘",
-      "onboard_time": 1722248843,
-      "rank": 10,
       "category": "体育"
     },
     {
@@ -521,14 +545,6 @@
       "onboard_time": 1722230182,
       "rank": 30,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 1607905,
-      "num": 1607905,
-      "word": "盛李豪又夺一金",
-      "onboard_time": 1722249512,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 1587028,
@@ -712,6 +728,22 @@
       "word": "孙颖莎王楚钦晋级8强",
       "onboard_time": 1722093627,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1343188,
+      "num": 1343188,
+      "word": "樊振东耗时24分钟晋级",
+      "onboard_time": 1722250526,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1341017,
+      "num": 1341017,
+      "word": "盛李豪没带耳塞",
+      "onboard_time": 1722249631,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -1051,12 +1083,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1015670,
+      "num": 1015670,
+      "word": "对黄雨婷是高中生有了实感",
+      "onboard_time": 1722247644,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1000640,
       "num": 1000640,
       "word": "拜尔斯好牛",
       "onboard_time": 1722162081,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 993617,
+      "num": 993617,
+      "word": "黄子韬高调示爱徐艺洋",
+      "onboard_time": 1722250468,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 991457,
@@ -1131,14 +1179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 913162,
-      "num": 913162,
-      "word": "对黄雨婷是高中生有了实感",
-      "onboard_time": 1722247644,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 905814,
       "num": 905814,
       "word": "被央视女主持人射箭惊艳到了",
@@ -1208,6 +1248,22 @@
       "word": "孙颖莎的对手是一只小蜜蜂",
       "onboard_time": 1722242845,
       "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 871448,
+      "num": 871448,
+      "word": "唐朝诡事录断更",
+      "onboard_time": 1722250348,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 869228,
+      "num": 869228,
+      "word": "中国第5金",
+      "onboard_time": 1722251004,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -1411,6 +1467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 727644,
+      "num": 727644,
+      "word": "黄雨婷想去看十个勤天演唱会",
+      "onboard_time": 1722249988,
+      "rank": 23,
+      "category": "演出,体育"
+    },
+    {
       "raw_hot": 725749,
       "num": 606178,
       "word": "拜尔斯跳马跳了男子动作",
@@ -1457,6 +1521,14 @@
       "onboard_time": 1722221902,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 688274,
+      "num": 688274,
+      "word": "况盛律师声明",
+      "onboard_time": 1722250108,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 686056,
@@ -1571,6 +1643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 624732,
+      "num": 624732,
+      "word": "干饭哥2金收官",
+      "onboard_time": 1722250048,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 621665,
       "num": 621665,
       "word": "湖南衡阳山体滑坡",
@@ -1601,6 +1681,14 @@
       "onboard_time": 1722125358,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 613946,
+      "num": 613946,
+      "word": "盛李豪这一枪和靶心重合了",
+      "onboard_time": 1722250286,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 609474,
@@ -1656,14 +1744,6 @@
       "word": "奥运会限定版莎头",
       "onboard_time": 1722182246,
       "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 591824,
-      "num": 591824,
-      "word": "盛李豪破奥运纪录",
-      "onboard_time": 1722249512,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -1883,14 +1963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 525328,
-      "num": 1005127,
-      "word": "老师没给黄雨婷布置暑假作业",
-      "onboard_time": 1722247644,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 523705,
       "num": 523705,
       "word": "奥运五环旗挂反了",
@@ -1928,6 +2000,14 @@
       "word": "日本混双",
       "onboard_time": 1722094411,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 507022,
+      "num": 507022,
+      "word": "陈梦vs洛赫莱比",
+      "onboard_time": 1722250945,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -2155,6 +2235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 440954,
+      "num": 440954,
+      "word": "加拿大跳水选手好帅",
+      "onboard_time": 1722249144,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 439441,
       "num": 439441,
       "word": "孙杨回应奥运纪录仍未被打破",
@@ -2299,6 +2387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 406889,
+      "num": 406889,
+      "word": "阿条姐领奖",
+      "onboard_time": 1722247041,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 406849,
       "num": 406849,
       "word": "黄雨婷打平杨倩奥运纪录",
@@ -2339,12 +2435,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 396434,
+      "num": 396434,
+      "word": "泫雅跳过金晓钟名字的歌词",
+      "onboard_time": 1722249330,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 395397,
       "num": 395397,
       "word": "IVE演唱会意外全开麦",
       "onboard_time": 1722220583,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 394245,
+      "num": 394245,
+      "word": "陈若琳冠军教练",
+      "onboard_time": 1722249631,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 394105,
@@ -2467,20 +2579,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 373652,
+      "num": 373652,
+      "word": "张若昀 你要告发是吧",
+      "onboard_time": 1722247585,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 373573,
+      "num": 373573,
+      "word": "金牌榜",
+      "onboard_time": 1722250646,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 373348,
       "num": 373348,
       "word": "汪涵老婆杨乐乐晒带娃vlog",
       "onboard_time": 1722147265,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 372272,
-      "num": 372272,
-      "word": "阿条姐领奖",
-      "onboard_time": 1722247041,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 371646,
@@ -2521,6 +2641,14 @@
       "onboard_time": 1722176843,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 355834,
+      "num": 355834,
+      "word": "10米射击的视角",
+      "onboard_time": 1722248904,
+      "rank": 42,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 355070,
@@ -2827,6 +2955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 321990,
+      "num": 357145,
+      "word": "樊振东瘦了",
+      "onboard_time": 1722250167,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 321404,
       "num": 321404,
       "word": "为什么不上韩旭",
@@ -2899,6 +3035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 313097,
+      "num": 313097,
+      "word": "刘宇宁连续六年悼念已故粉丝",
+      "onboard_time": 1722247102,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 313029,
       "num": 313029,
       "word": "天津离巴黎就差一个奥运会",
@@ -2928,14 +3072,6 @@
       "word": "顶级运动员这该死的胜负欲",
       "onboard_time": 1722165501,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 311420,
-      "num": 311420,
-      "word": "加拿大跳水选手好帅",
-      "onboard_time": 1722249144,
-      "rank": 36,
       "category": "体育"
     },
     {
@@ -2987,14 +3123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 306018,
-      "num": 306018,
-      "word": "张若昀 你要告发是吧",
-      "onboard_time": 1722247585,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 305583,
       "num": 305583,
       "word": "期待潘展乐单项",
@@ -3041,14 +3169,6 @@
       "onboard_time": 1722067699,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 302420,
-      "num": 302420,
-      "word": "刘宇宁连续六年悼念已故粉丝",
-      "onboard_time": 1722247102,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 301032,
@@ -3619,14 +3739,6 @@
       "category": "社会新闻,科学科普"
     },
     {
-      "raw_hot": 255318,
-      "num": 255318,
-      "word": "10米射击的视角",
-      "onboard_time": 1722248904,
-      "rank": 42,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 254665,
       "num": 254665,
       "word": "奖牌榜",
@@ -3777,14 +3889,6 @@
       "onboard_time": 1722158241,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 240644,
-      "num": 240644,
-      "word": "泫雅跳过金晓钟名字的歌词",
-      "onboard_time": 1722249330,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 239888,
@@ -4827,6 +4931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151993,
+      "num": 934796,
+      "word": "00后用淘宝300块滑板参赛奥运",
+      "onboard_time": 1722250825,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151352,
       "num": 151352,
       "word": "羽毛球女双",
@@ -5275,6 +5387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75495,
+      "num": 1330240,
+      "word": "为何越来越多大学生毕业后读职校",
+      "onboard_time": 1722250825,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75302,
       "num": 184092,
       "word": "中国姑娘接力破亚洲纪录",
@@ -5667,6 +5787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32581,
+      "num": 869391,
+      "word": "宝诗龙Quatre探展指南",
+      "onboard_time": 1722249330,
+      "rank": 43,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 30637,
       "num": 2000318,
       "word": "奥运会上的中国队太燃了",
@@ -5713,6 +5841,14 @@
       "onboard_time": 1722228984,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 28555,
+      "num": 394625,
+      "word": "特朗普集会上再模仿拜登走下台",
+      "onboard_time": 1722251124,
+      "rank": 38,
+      "category": "国外时政"
     },
     {
       "raw_hot": 27707,
@@ -5785,14 +5921,6 @@
       "onboard_time": 1722117972,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 17215,
-      "num": 250929,
-      "word": "宝诗龙Quatre探展指南",
-      "onboard_time": 1722249330,
-      "rank": 43,
-      "category": "时尚"
     },
     {
       "raw_hot": 17166,
