@@ -1,0 +1,410 @@
+{
+  "runTime": 1722248541702,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4740169,
+        "num": 5980338,
+        "word": "中国队男双10米台金牌",
+        "onboard_time": 1722247644,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4451485,
+        "num": 4451485,
+        "word": "女子10米气步枪决赛",
+        "onboard_time": 1722238342,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25252,
+        "num": 3483695,
+        "word": "比赢更珍贵的是渴望去赢",
+        "onboard_time": 1722238641,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3122201,
+        "num": 3122201,
+        "word": "跳水男子双人10米台决赛",
+        "onboard_time": 1722243692,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1552492,
+        "num": 1552492,
+        "word": "男子10米气步枪决赛",
+        "onboard_time": 1722246563,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1204880,
+        "num": 1204880,
+        "word": "霍启刚有好好打扮 我不会出轨",
+        "onboard_time": 1722227726,
+        "rank": 5,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 1128600,
+        "num": 1128600,
+        "word": "杨倩奥运纪录",
+        "onboard_time": 1722241226,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1120806,
+        "num": 1120806,
+        "word": "樊振东vs扎穆登科",
+        "onboard_time": 1722246981,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1017427,
+        "num": 1017427,
+        "word": "张家齐解说好甜",
+        "onboard_time": 1722245423,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118040,
+        "num": 960743,
+        "word": "金价高涨金店却迎来关店潮",
+        "onboard_time": 1722247223,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1620487,
+        "num": 948996,
+        "word": "荷兰队泳裤",
+        "onboard_time": 1722245481,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1362177,
+        "num": 947173,
+        "word": "苏醒道歉",
+        "onboard_time": 1722237201,
+        "rank": 11,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 932685,
+        "num": 932685,
+        "word": "韩国国旗又挂错了",
+        "onboard_time": 1722222982,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 897837,
+        "num": 897837,
+        "word": "戴利还在跳水",
+        "onboard_time": 1722245962,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 791475,
+        "num": 791475,
+        "word": "孙颖莎的对手是一只小蜜蜂",
+        "onboard_time": 1722242845,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 709564,
+        "num": 709564,
+        "word": "对黄雨婷是高中生有了实感",
+        "onboard_time": 1722247644,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 629097,
+        "num": 629097,
+        "word": "郭晶晶考裁判证 给中国队争个公平",
+        "onboard_time": 1722243505,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 624367,
+        "num": 624367,
+        "word": "跳水名将郭晶晶和她的先生",
+        "onboard_time": 1722220821,
+        "rank": 17,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 575257,
+        "num": 575257,
+        "word": "黄雨婷银牌",
+        "onboard_time": 1722240508,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 547473,
+        "num": 547473,
+        "word": "赵露思全黑上衣叠穿",
+        "onboard_time": 1722244222,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 536761,
+        "num": 536761,
+        "word": "泰国老人去世十几只小狗吃主人遗体",
+        "onboard_time": 1722245481,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526623,
+        "num": 526623,
+        "word": "床上阴瑜伽做一次年轻一次",
+        "onboard_time": 1722244463,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 499442,
+        "num": 499442,
+        "word": "覃海洋张雨霏一天7次尿检",
+        "onboard_time": 1722234559,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 436040,
+        "num": 436040,
+        "word": "韩国爱豆在巴黎奥运集体失声",
+        "onboard_time": 1722230182,
+        "rank": 23,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 415843,
+        "num": 415843,
+        "word": "英国 破产",
+        "onboard_time": 1722225624,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 397551,
+        "num": 397551,
+        "word": "杨昊练俊杰动作慢放都一模一样",
+        "onboard_time": 1722247464,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 337549,
+        "num": 337549,
+        "word": "公职人员称不参与违规采购被边缘化",
+        "onboard_time": 1722239720,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328790,
+        "num": 328790,
+        "word": "樊振东巴黎奥运首秀",
+        "onboard_time": 1722240987,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 325968,
+        "num": 325968,
+        "word": "孙千回应走红毯穿运动鞋",
+        "onboard_time": 1722246622,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 313329,
+        "num": 313329,
+        "word": "韩国人找到了国旗被挂错的原因",
+        "onboard_time": 1722224003,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310371,
+        "num": 310371,
+        "word": "樊振东首秀赛前训练",
+        "onboard_time": 1722246143,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306018,
+        "num": 306018,
+        "word": "张若昀 你要告发是吧",
+        "onboard_time": 1722247585,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 302777,
+        "num": 302777,
+        "word": "阿条姐领奖",
+        "onboard_time": 1722247041,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290528,
+        "num": 290528,
+        "word": "胡歌 仙剑一最难复制的是眼神",
+        "onboard_time": 1722241524,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279515,
+        "num": 279515,
+        "word": "老师没给黄雨婷布置暑假作业",
+        "onboard_time": 1722247644,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259667,
+        "num": 259667,
+        "word": "莎头赢了后 中国队全体起立",
+        "onboard_time": 1722238461,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259225,
+        "num": 259225,
+        "word": "跳水梦之队好稳",
+        "onboard_time": 1722247894,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258141,
+        "num": 258141,
+        "word": "刘宇宁连续六年悼念已故粉丝",
+        "onboard_time": 1722247102,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238324,
+        "num": 238324,
+        "word": "武大靖随地大小躺",
+        "onboard_time": 1722247704,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51032,
+        "num": 238183,
+        "word": "奥运历史首金40年",
+        "onboard_time": 1722247223,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238042,
+        "num": 238042,
+        "word": "王楚钦认为半决赛依旧困难",
+        "onboard_time": 1722246922,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237111,
+        "num": 237111,
+        "word": "巴赫捏贾玲肌肉",
+        "onboard_time": 1722242544,
+        "rank": 41,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 237055,
+        "num": 237055,
+        "word": "中国队巴黎第4金",
+        "onboard_time": 1722248184,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225999,
+        "num": 225999,
+        "word": "气步枪韩国选手表情",
+        "onboard_time": 1722240867,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224395,
+        "num": 224395,
+        "word": "杨颖宋威龙新剧取得发行许可证",
+        "onboard_time": 1722244282,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211152,
+        "num": 211152,
+        "word": "肖战从刘宇宁的全世界路过",
+        "onboard_time": 1722241584,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201075,
+        "num": 201075,
+        "word": "边伯贤芭莎男士八月刊",
+        "onboard_time": 1722248422,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 196229,
+        "num": 196229,
+        "word": "张家齐解说10米跳台",
+        "onboard_time": 1722248303,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195487,
+        "num": 195487,
+        "word": "周杰伦 发单曲是为了躲发专辑",
+        "onboard_time": 1722243085,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188350,
+        "num": 188350,
+        "word": "他又来奥运会织毛衣了",
+        "onboard_time": 1722248064,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对退役军人工作作出重要指示#"
+    }
+  }
+}
