@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1722271251503,
+  "endTime": 1722273521538,
   "band_list": [
     {
       "raw_hot": 26081799,
@@ -235,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 9273880,
+      "num": 9273880,
+      "word": "中国女排战胜美国队",
+      "onboard_time": 1722272963,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 9270676,
       "num": 9270676,
       "word": "韩国国旗又挂错了",
@@ -288,6 +296,14 @@
       "word": "韩国人找到了国旗被挂错的原因",
       "onboard_time": 1722224003,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 7962979,
+      "num": 7962979,
+      "word": "中国女排vs美国女排",
+      "onboard_time": 1722264144,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -553,14 +569,6 @@
       "onboard_time": 1721641343,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 4490758,
-      "num": 4490758,
-      "word": "中国女排vs美国女排",
-      "onboard_time": 1722264144,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 4230542,
@@ -947,6 +955,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 2852475,
+      "num": 2852475,
+      "word": "中国女排巴黎首战名单",
+      "onboard_time": 1722265347,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2849067,
       "num": 901754,
       "word": "长沙撞人",
@@ -1328,6 +1344,14 @@
       "word": "法媒把韩国国旗搞错了",
       "onboard_time": 1722067400,
       "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2383734,
+      "num": 2383734,
+      "word": "女排一传",
+      "onboard_time": 1722272063,
+      "rank": 10,
       "category": "体育"
     },
     {
@@ -1761,6 +1785,14 @@
       "onboard_time": 1721568741,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2053792,
+      "num": 940984,
+      "word": "美国女排扳平比分",
+      "onboard_time": 1722272540,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 2040534,
@@ -2577,6 +2609,22 @@
       "onboard_time": 1721949796,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1698294,
+      "num": 1698294,
+      "word": "刘洋吊环15.500分",
+      "onboard_time": 1722272599,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1692675,
+      "num": 1692675,
+      "word": "桥本大辉鞍马失误",
+      "onboard_time": 1722271705,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 1690883,
@@ -5360,14 +5408,6 @@
       "word": "崔宸曦晋级决赛",
       "onboard_time": 1722173181,
       "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1172204,
-      "num": 1172204,
-      "word": "中国女排巴黎首战名单",
-      "onboard_time": 1722265347,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -10484,7 +10524,7 @@
     },
     {
       "raw_hot": 768429,
-      "num": 2252405,
+      "num": 2478870,
       "word": "夏有乔木雅望天堂",
       "onboard_time": 1722261623,
       "rank": 17,
@@ -15659,6 +15699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 566817,
+      "num": 566817,
+      "word": "朱婷",
+      "onboard_time": 1722269247,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 566790,
       "num": 566790,
       "word": "李玟逝世一周年",
@@ -20371,6 +20419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 458160,
+      "num": 458160,
+      "word": "中国体操女团暂列第3",
+      "onboard_time": 1722273142,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 457811,
       "num": 457811,
       "word": "福宝今天4岁了",
@@ -20665,6 +20721,14 @@
       "onboard_time": 1720062739,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 451899,
+      "num": 451899,
+      "word": "孙颖莎王楚钦的2017到2024",
+      "onboard_time": 1722270637,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 451876,
@@ -24051,14 +24115,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 395209,
-      "num": 395209,
-      "word": "孙颖莎王楚钦的2017到2024",
-      "onboard_time": 1722270637,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 395169,
       "num": 395169,
       "word": "成龙说郑佩佩是一代侠女",
@@ -24265,6 +24321,14 @@
       "onboard_time": 1721283558,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 391549,
+      "num": 391549,
+      "word": "张博恒",
+      "onboard_time": 1722271345,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 391527,
@@ -25363,6 +25427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 373847,
+      "num": 373847,
+      "word": "女排解说",
+      "onboard_time": 1722273261,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 373770,
       "num": 293409,
       "word": "香缇莫改词",
@@ -26033,14 +26105,6 @@
       "onboard_time": 1720430960,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 360588,
-      "num": 360588,
-      "word": "朱婷",
-      "onboard_time": 1722269247,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 360519,
@@ -33867,6 +33931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 266742,
+      "num": 1719641,
+      "word": "沈梦瑶成立个人工作室",
+      "onboard_time": 1722268286,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266686,
       "num": 226133,
       "word": "小S大女儿晒聚会照",
@@ -41537,14 +41609,6 @@
       "onboard_time": 1720497438,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 211966,
-      "num": 385889,
-      "word": "沈梦瑶成立个人工作室",
-      "onboard_time": 1722268286,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 211962,
@@ -77987,6 +78051,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 60389,
+      "num": 4460291,
+      "word": "龙虎山舰有多大一屏装不下",
+      "onboard_time": 1722269606,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 60175,
       "num": 260503,
       "word": "交警脱下雨衣裹住被困孩子抱进车内",
@@ -78057,14 +78129,6 @@
       "onboard_time": 1720361658,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 59777,
-      "num": 4460291,
-      "word": "龙虎山舰有多大一屏装不下",
-      "onboard_time": 1722269606,
-      "rank": 9,
-      "category": "军事"
     },
     {
       "raw_hot": 59712,
