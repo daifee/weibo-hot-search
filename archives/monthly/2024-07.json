@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1722291743934,
+  "endTime": 1722292709918,
   "band_list": [
     {
       "raw_hot": 26081799,
@@ -7171,6 +7171,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 991570,
+      "num": 855707,
+      "word": "陈一冰 半场开香槟",
+      "onboard_time": 1722279373,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 991457,
       "num": 991457,
       "word": "张雨霏100蝶铜牌",
@@ -9033,14 +9041,6 @@
       "onboard_time": 1721206759,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 855707,
-      "num": 855707,
-      "word": "陈一冰 半场开香槟",
-      "onboard_time": 1722279373,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 855553,
@@ -27003,6 +27003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 351532,
+      "num": 351532,
+      "word": "中国香港击剑再夺金",
+      "onboard_time": 1722286452,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 351349,
       "num": 223645,
       "word": "王俊凯说我们是一个team",
@@ -33761,14 +33769,6 @@
       "onboard_time": 1721981660,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 270627,
-      "num": 270627,
-      "word": "中国香港击剑再夺金",
-      "onboard_time": 1722286452,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 270597,
@@ -55123,6 +55123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168676,
+      "num": 673149,
+      "word": "土耳其总统当众轻扇男孩一巴掌",
+      "onboard_time": 1722275475,
+      "rank": 32,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 168672,
       "num": 168672,
       "word": "周深 没事哒",
@@ -60097,6 +60105,14 @@
       "onboard_time": 1720876459,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 151100,
+      "num": 151100,
+      "word": "中国女排送卫冕冠军首败",
+      "onboard_time": 1722275356,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 151090,
@@ -67867,14 +67883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123815,
-      "num": 673149,
-      "word": "土耳其总统当众轻扇男孩一巴掌",
-      "onboard_time": 1722275475,
-      "rank": 32,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 123799,
       "num": 123799,
       "word": "章若楠翟潇闻互关了",
@@ -69977,6 +69985,14 @@
       "onboard_time": 1720174099,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115808,
+      "num": 115808,
+      "word": "孙颖莎说最后时刻打到忘我",
+      "onboard_time": 1722291853,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 115797,
@@ -72675,6 +72691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 103740,
+      "num": 103740,
+      "word": "中国女排",
+      "onboard_time": 1722278773,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103728,
       "num": 219773,
       "word": "路虎途经卡点时冲撞执勤警车后逃逸",
@@ -72912,14 +72936,6 @@
       "word": "TEAMCHINA奥运赛程",
       "onboard_time": 1722073466,
       "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 102101,
-      "num": 102101,
-      "word": "中国女排送卫冕冠军首败",
-      "onboard_time": 1722275356,
-      "rank": 38,
       "category": "体育"
     },
     {
@@ -75016,14 +75032,6 @@
       "word": "克罗斯结束球员生涯",
       "onboard_time": 1720209731,
       "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 87426,
-      "num": 87426,
-      "word": "中国女排",
-      "onboard_time": 1722278773,
-      "rank": 39,
       "category": "体育"
     },
     {
@@ -81235,6 +81243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42865,
+      "num": 88786,
+      "word": "刘宇宁很荣幸和陈丽君合作",
+      "onboard_time": 1722283331,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 42818,
       "num": 325267,
       "word": "重庆数百个小区业主要求降物业费",
@@ -81785,14 +81801,6 @@
       "onboard_time": 1720504938,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39469,
-      "num": 88786,
-      "word": "刘宇宁很荣幸和陈丽君合作",
-      "onboard_time": 1722283331,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 39223,
@@ -83176,6 +83184,14 @@
       "word": "与众不同的王霏霏",
       "onboard_time": 1721988438,
       "rank": 27,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 30332,
+      "num": 83061,
+      "word": "檀健次 我就是在排练厅开始长大的",
+      "onboard_time": 1722291492,
+      "rank": 48,
       "category": "作品衍生"
     },
     {
