@@ -1,0 +1,410 @@
+{
+  "runTime": 1722296176857,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2192622,
+        "num": 2192622,
+        "word": "中国体操男团摘银",
+        "onboard_time": 1722276798,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1832192,
+        "num": 1832192,
+        "word": "孙颖莎说最后时刻打到忘我",
+        "onboard_time": 1722291853,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119358,
+        "num": 1137433,
+        "word": "中国跳水奥运金牌总数已超美国",
+        "onboard_time": 1722255684,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1125238,
+        "num": 1125238,
+        "word": "肖若腾胳膊出血了",
+        "onboard_time": 1722275955,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1054589,
+        "num": 1054589,
+        "word": "朝鲜混双进决赛了",
+        "onboard_time": 1722265956,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 956564,
+        "num": 956564,
+        "word": "中国女排 科目三",
+        "onboard_time": 1722275775,
+        "rank": 5,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 507698,
+        "num": 507698,
+        "word": "北京暴雨",
+        "onboard_time": 1722294918,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427196,
+        "num": 507480,
+        "word": "唐艺昕第一次看张若昀新片一直哭",
+        "onboard_time": 1722264746,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 335279,
+        "num": 507384,
+        "word": "夏有乔木雅望天堂",
+        "onboard_time": 1722261623,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293168,
+        "num": 507082,
+        "word": "唐朝诡事录断更",
+        "onboard_time": 1722250348,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2555923,
+        "num": 506654,
+        "word": "苏炜德两次掉杠",
+        "onboard_time": 1722277396,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2032566,
+        "num": 506209,
+        "word": "陈一冰 半场开香槟",
+        "onboard_time": 1722279373,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 440363,
+        "num": 506135,
+        "word": "土耳其总统当众轻扇男孩一巴掌",
+        "onboard_time": 1722275475,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 217890,
+        "num": 505626,
+        "word": "贵州29岁抗癌网红大飞去世",
+        "onboard_time": 1722257421,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 196294,
+        "num": 505462,
+        "word": "况盛爆料葛沛豪说三喜烫头没家教",
+        "onboard_time": 1722263784,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39328,
+        "num": 505027,
+        "word": "大熊猫过生日创2项世界纪录",
+        "onboard_time": 1722292816,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 749693,
+        "num": 504824,
+        "word": "中国女排战胜美国队",
+        "onboard_time": 1722272963,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 704288,
+        "num": 504506,
+        "word": "徐嘉余100米仰泳摘银",
+        "onboard_time": 1722281772,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 681102,
+        "num": 504229,
+        "word": "曾强奸12岁女孩奥运选手首秀遭嘘",
+        "onboard_time": 1722248843,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190007,
+        "num": 504019,
+        "word": "唐朝诡事录",
+        "onboard_time": 1722275416,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 593289,
+        "num": 503510,
+        "word": "苏炜德赛后道歉",
+        "onboard_time": 1722295640,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 560951,
+        "num": 503135,
+        "word": "莎头晋级混双决赛",
+        "onboard_time": 1722270287,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 555431,
+        "num": 502876,
+        "word": "李小鹏 观众席",
+        "onboard_time": 1722278415,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 529018,
+        "num": 502599,
+        "word": "中国香港击剑再夺金",
+        "onboard_time": 1722286452,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173316,
+        "num": 502423,
+        "word": "十个勤天邀请黄雨婷参加演唱会",
+        "onboard_time": 1722264986,
+        "rank": 24,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 502190,
+        "num": 502190,
+        "word": "肖若腾哭了",
+        "onboard_time": 1722277995,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 489688,
+        "num": 489688,
+        "word": "中国女排vs美国女排",
+        "onboard_time": 1722264144,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 425041,
+        "num": 425041,
+        "word": "莎头战胜韩国队",
+        "onboard_time": 1722270345,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159358,
+        "num": 423808,
+        "word": "黄子韬高调示爱徐艺洋",
+        "onboard_time": 1722250468,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27716,
+        "num": 423180,
+        "word": "四川凉山万人点燃火把夜",
+        "onboard_time": 1722296119,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 487495,
+        "num": 423157,
+        "word": "刘国梁好忙",
+        "onboard_time": 1722292574,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 423093,
+        "num": 423093,
+        "word": "苏炜德稳住",
+        "onboard_time": 1722275775,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 410699,
+        "num": 410699,
+        "word": "陈一冰发声",
+        "onboard_time": 1722293116,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158847,
+        "num": 353677,
+        "word": "况盛公开和马杨聊天记录",
+        "onboard_time": 1722254304,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128787,
+        "num": 309412,
+        "word": "郑佩佩女儿再发文",
+        "onboard_time": 1722258444,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303226,
+        "num": 303226,
+        "word": "刘洋吊环15.500分",
+        "onboard_time": 1722272599,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260293,
+        "num": 260293,
+        "word": "唐钱婷100米蛙泳银牌",
+        "onboard_time": 1722282493,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252232,
+        "num": 252232,
+        "word": "杨威谈苏炜德失误",
+        "onboard_time": 1722295460,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242885,
+        "num": 242885,
+        "word": "王楚钦 暗示这么明显应该懂吧",
+        "onboard_time": 1722295823,
+        "rank": 38,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 119949,
+        "num": 241528,
+        "word": "谁家男主拿的是司藤剧本",
+        "onboard_time": 1722294559,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119097,
+        "num": 241230,
+        "word": "郎朗说朝鲜确实挺猛的",
+        "onboard_time": 1722268347,
+        "rank": 40,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 241127,
+        "num": 241127,
+        "word": "莎头最后一球全场沸腾",
+        "onboard_time": 1722294258,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220919,
+        "num": 220919,
+        "word": "孙颖莎单打",
+        "onboard_time": 1722276556,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208886,
+        "num": 208886,
+        "word": "体操男团决赛",
+        "onboard_time": 1722268230,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204251,
+        "num": 204251,
+        "word": "朱婷",
+        "onboard_time": 1722269247,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193524,
+        "num": 204213,
+        "word": "中国女排送卫冕冠军首败",
+        "onboard_time": 1722275356,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192314,
+        "num": 204153,
+        "word": "中国女排巴黎首战名单",
+        "onboard_time": 1722265347,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112540,
+        "num": 204105,
+        "word": "黄雨婷想去看十个勤天演唱会",
+        "onboard_time": 1722249988,
+        "rank": 47,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 111924,
+        "num": 204085,
+        "word": "苏醒道歉",
+        "onboard_time": 1722237201,
+        "rank": 48,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 92272,
+        "num": 204018,
+        "word": "檀健次 我就是在排练厅开始长大的",
+        "onboard_time": 1722291492,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对退役军人工作作出重要指示#"
+    }
+  }
+}
