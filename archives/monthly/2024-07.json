@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1722238484435,
+  "endTime": 1722241549220,
   "band_list": [
     {
       "raw_hot": 16577668,
@@ -25,6 +25,14 @@
       "onboard_time": 1721347639,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 14715864,
+      "num": 14715864,
+      "word": "女子10米气步枪决赛",
+      "onboard_time": 1722238342,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 13754550,
@@ -337,6 +345,14 @@
       "onboard_time": 1720792880,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 5908085,
+      "num": 5908085,
+      "word": "黄雨婷银牌",
+      "onboard_time": 1722240508,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 5810500,
@@ -755,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3054313,
+      "num": 3054313,
+      "word": "苏醒道歉",
+      "onboard_time": 1722237201,
+      "rank": 39,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 3033972,
       "num": 3033972,
       "word": "王楚钦 接发球",
@@ -848,6 +872,14 @@
       "word": "孙一文首轮淘汰",
       "onboard_time": 1722075803,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2826525,
+      "num": 2826525,
+      "word": "黄雨婷10.9满环",
+      "onboard_time": 1722239301,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -4435,14 +4467,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1242216,
-      "num": 714437,
-      "word": "苏醒道歉",
-      "onboard_time": 1722237201,
-      "rank": 39,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 1241703,
       "num": 804297,
       "word": "沈腾老婆胖了好多",
@@ -4696,6 +4720,14 @@
       "word": "孙颖莎晋级32强",
       "onboard_time": 1722156082,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1200838,
+      "num": 1200838,
+      "word": "莎头赢了后 中国队全体起立",
+      "onboard_time": 1722238461,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -8803,6 +8835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 829519,
+      "num": 829519,
+      "word": "阿条姐表情淡淡的手稳稳的",
+      "onboard_time": 1722241345,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 829123,
       "num": 829123,
       "word": "奥运会游泳",
@@ -9313,6 +9353,14 @@
       "onboard_time": 1720341198,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 801327,
+      "num": 801327,
+      "word": "羽毛球混双",
+      "onboard_time": 1722238100,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 801274,
@@ -12563,14 +12611,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 645670,
-      "num": 645670,
-      "word": "女子10米气步枪决赛",
-      "onboard_time": 1722238342,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 645630,
       "num": 645630,
       "word": "世界之外 抄袭",
@@ -13297,14 +13337,6 @@
       "onboard_time": 1721803099,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 618483,
-      "num": 618483,
-      "word": "羽毛球混双",
-      "onboard_time": 1722238100,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 618121,
@@ -14065,6 +14097,14 @@
       "onboard_time": 1721971459,
       "rank": 23,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 594261,
+      "num": 594261,
+      "word": "看汪顺理解辛芷蕾的感受了",
+      "onboard_time": 1722239181,
+      "rank": 17,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 593786,
@@ -19707,6 +19747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 456522,
+      "num": 456522,
+      "word": "管泽元解说气步枪决赛",
+      "onboard_time": 1722240629,
+      "rank": 20,
+      "category": "体育,电竞"
+    },
+    {
       "raw_hot": 456518,
       "num": 456518,
       "word": "鞠婧祎内娱首位女星超话钻3",
@@ -23451,6 +23499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 391551,
+      "num": 391551,
+      "word": "气步枪韩国选手表情",
+      "onboard_time": 1722240867,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 391527,
       "num": 237206,
       "word": "谭维维晋级陈楚生高兴的蹦起来了",
@@ -23849,6 +23905,14 @@
       "onboard_time": 1721303598,
       "rank": 14,
       "category": "动漫,网红"
+    },
+    {
+      "raw_hot": 383853,
+      "num": 383853,
+      "word": "杨倩奥运纪录",
+      "onboard_time": 1722241226,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 383792,
@@ -26195,6 +26259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 347316,
+      "num": 347316,
+      "word": "孙颖莎说王楚钦很会场上开导",
+      "onboard_time": 1722238521,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 347306,
       "num": 347306,
       "word": "拜登退选演讲",
@@ -26563,6 +26635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 340813,
+      "num": 340813,
+      "word": "樊振东巴黎奥运首秀",
+      "onboard_time": 1722240987,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 340618,
       "num": 340618,
       "word": "植物大战僵尸杂交版作者初中毕业",
@@ -26801,6 +26881,14 @@
       "onboard_time": 1721369902,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 336990,
+      "num": 336990,
+      "word": "气步枪决赛好卷",
+      "onboard_time": 1722240629,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 336872,
@@ -27657,6 +27745,14 @@
       "onboard_time": 1722129800,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 325311,
+      "num": 325311,
+      "word": "韩国籍射箭教练的中国心",
+      "onboard_time": 1722236482,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 325284,
@@ -30473,6 +30569,14 @@
       "onboard_time": 1720784238,
       "rank": 29,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 290012,
+      "num": 290012,
+      "word": "冯彦哲黄东萍vs杜颐沩陈堂杰",
+      "onboard_time": 1722241524,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 290003,
@@ -33315,14 +33419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 259983,
-      "num": 259983,
-      "word": "韩国籍射箭教练的中国心",
-      "onboard_time": 1722236482,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 259921,
       "num": 259921,
       "word": "Yamy段奥娟去看了杨超越话剧",
@@ -33369,6 +33465,14 @@
       "onboard_time": 1719889878,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 259594,
+      "num": 259594,
+      "word": "凤凰组合小组赛2胜1负",
+      "onboard_time": 1722241524,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 259295,
@@ -34065,6 +34169,14 @@
       "onboard_time": 1721622562,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 253260,
+      "num": 253260,
+      "word": "女教师被举报长期吃空饷",
+      "onboard_time": 1722238941,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253249,
@@ -34841,6 +34953,14 @@
       "onboard_time": 1721662523,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 246940,
+      "num": 246940,
+      "word": "李微微被查",
+      "onboard_time": 1722239062,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 246903,
@@ -38563,6 +38683,14 @@
       "category": "游戏,动漫"
     },
     {
+      "raw_hot": 220098,
+      "num": 220098,
+      "word": "孙千黑长直",
+      "onboard_time": 1722238999,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 220034,
       "num": 220034,
       "word": "一句警察叔叔我好饿小孩哥成功蹭到了",
@@ -40105,6 +40233,14 @@
       "onboard_time": 1721108838,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 212403,
+      "num": 212403,
+      "word": "孙颖莎把乒乓球打出3D感",
+      "onboard_time": 1722240629,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 212337,
@@ -42075,6 +42211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204806,
+      "num": 204806,
+      "word": "姚安娜网友劝学",
+      "onboard_time": 1722237921,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204784,
       "num": 204784,
       "word": "陈昊宇发新歌",
@@ -42361,14 +42505,6 @@
       "onboard_time": 1721199198,
       "rank": 26,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 203974,
-      "num": 203974,
-      "word": "姚安娜网友劝学",
-      "onboard_time": 1722237921,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 203930,
@@ -44097,6 +44233,14 @@
       "onboard_time": 1720607059,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 198877,
+      "num": 198877,
+      "word": "胡歌 仙剑一最难复制的是眼神",
+      "onboard_time": 1722241524,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 198843,
@@ -46513,6 +46657,14 @@
       "onboard_time": 1721894961,
       "rank": 30,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 191854,
+      "num": 191854,
+      "word": "文俊辉因签售取消道歉",
+      "onboard_time": 1722241404,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 191790,
@@ -49257,14 +49409,6 @@
       "onboard_time": 1721134638,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 183043,
-      "num": 183043,
-      "word": "莎头赢了后 中国队全体起立",
-      "onboard_time": 1722238461,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 183038,
@@ -74283,6 +74427,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 76193,
+      "num": 3343909,
+      "word": "比赢更珍贵的是渴望去赢",
+      "onboard_time": 1722238641,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76189,
       "num": 76189,
       "word": "广州海珠一新能源车发生自燃",
@@ -77411,6 +77563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 53744,
+      "num": 844994,
+      "word": "法拍律师眼中的断供潮",
+      "onboard_time": 1722240022,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53662,
       "num": 312913,
       "word": "掌管反差萌的神",
@@ -78625,6 +78785,14 @@
       "onboard_time": 1720963640,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46356,
+      "num": 762015,
+      "word": "英国对以色列的支持或将逆转",
+      "onboard_time": 1722240022,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 46327,
@@ -83489,6 +83657,14 @@
       "onboard_time": 1720892594,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17502,
+      "num": 207028,
+      "word": "华为novaFlip来了",
+      "onboard_time": 1722241345,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 17443,
