@@ -1,6 +1,6 @@
 {
   "startTime": 1722183872314,
-  "endTime": 1722217707864,
+  "endTime": 1722220811552,
   "band_list": [
     {
       "raw_hot": 13356940,
@@ -99,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1912371,
+      "num": 1912371,
+      "word": "王楚钦 记者老师明白我意思了吧",
+      "onboard_time": 1722217280,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1856191,
       "num": 1856191,
       "word": "田志希爆冷出局",
@@ -120,6 +128,14 @@
       "word": "男子100米蛙泳决赛",
       "onboard_time": 1722195491,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1708264,
+      "num": 1708264,
+      "word": "一觉醒来中国队暂列金牌榜第6",
+      "onboard_time": 1722216442,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -147,11 +163,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1376896,
+      "num": 751331,
+      "word": "开放式厕所真是一点都不见外",
+      "onboard_time": 1722213922,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1372060,
       "num": 1372060,
       "word": "女子100米蝶泳决赛",
       "onboard_time": 1722192433,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1355558,
+      "num": 1355558,
+      "word": "王楚钦演技",
+      "onboard_time": 1722217580,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -193,6 +225,14 @@
       "onboard_time": 1722211342,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1187313,
+      "num": 1187313,
+      "word": "相柳角色号注销账号",
+      "onboard_time": 1722218240,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 1172522,
@@ -275,6 +315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 826906,
+      "num": 740747,
+      "word": "LadyGaga订婚了",
+      "onboard_time": 1722218659,
+      "rank": 11,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 810314,
       "num": 810314,
       "word": "面对世界第一他真的尽力了",
@@ -305,6 +353,14 @@
       "onboard_time": 1722176723,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 707694,
+      "num": 707694,
+      "word": "东京下雨 淋湿巴黎",
+      "onboard_time": 1722219981,
+      "rank": 12,
+      "category": "体育,音乐"
     },
     {
       "raw_hot": 678004,
@@ -339,14 +395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 590991,
-      "num": 443379,
-      "word": "开放式厕所真是一点都不见外",
-      "onboard_time": 1722213922,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 589256,
       "num": 589256,
       "word": "库里防约老师",
@@ -379,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 544752,
+      "num": 544752,
+      "word": "盛李豪黄雨婷个人赛再冲金",
+      "onboard_time": 1722218301,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 538934,
       "num": 538934,
       "word": "石宇奇",
@@ -400,14 +456,6 @@
       "word": "奥运会游泳",
       "onboard_time": 1722191353,
       "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 524270,
-      "num": 524270,
-      "word": "王楚钦 记者老师明白我意思了吧",
-      "onboard_time": 1722217280,
-      "rank": 18,
       "category": "体育"
     },
     {
@@ -619,6 +667,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 336649,
+      "num": 336649,
+      "word": "3名以色列运动员收到死亡威胁",
+      "onboard_time": 1722219079,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 333454,
       "num": 333454,
       "word": "孙颖莎最佳场外应援CoCo",
@@ -673,6 +729,14 @@
       "onboard_time": 1722200951,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 324962,
+      "num": 324962,
+      "word": "672分考生放弃名校选带编入学",
+      "onboard_time": 1722220342,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 324148,
@@ -731,12 +795,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 302762,
-      "num": 302762,
-      "word": "一觉醒来中国队暂列金牌榜第6",
-      "onboard_time": 1722216442,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 267982,
+      "num": 267982,
+      "word": "东证期货",
+      "onboard_time": 1722217401,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 265145,
@@ -755,20 +819,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 256105,
+      "num": 327122,
+      "word": "邓稼先仅用23个月就获博士学位",
+      "onboard_time": 1722215720,
+      "rank": 30,
+      "category": "社会新闻,科学科普"
+    },
+    {
       "raw_hot": 254665,
       "num": 254665,
       "word": "奖牌榜",
       "onboard_time": 1722192973,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 242036,
-      "num": 294937,
-      "word": "邓稼先仅用23个月就获博士学位",
-      "onboard_time": 1722215720,
-      "rank": 30,
-      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 239750,
@@ -795,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227319,
+      "num": 227319,
+      "word": "两弹元勋邓稼先逝世38周年",
+      "onboard_time": 1722220401,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226863,
       "num": 226863,
       "word": "中国女排首秀迎战美国队",
@@ -819,12 +891,12 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 213179,
-      "num": 213179,
-      "word": "王楚钦演技",
-      "onboard_time": 1722217580,
-      "rank": 42,
-      "category": "体育"
+      "raw_hot": 214583,
+      "num": 214583,
+      "word": "IVE演唱会意外全开麦",
+      "onboard_time": 1722220583,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 212965,
@@ -835,8 +907,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206028,
+      "num": 206028,
+      "word": "孟子义 因为不明说被朋友伤害多次",
+      "onboard_time": 1722220520,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205571,
-      "num": 205571,
+      "num": 226553,
       "word": "湖南湘潭决口3832人安全转移",
       "onboard_time": 1722215541,
       "rank": 45,
@@ -859,12 +939,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202183,
+      "num": 202183,
+      "word": "奥运会开幕式",
+      "onboard_time": 1722218541,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201218,
       "num": 201218,
       "word": "王俊凯代言骆驼",
       "onboard_time": 1722217520,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199047,
+      "num": 199047,
+      "word": "覃海洋的消失和张雨霏的眼泪让人心疼",
+      "onboard_time": 1722219620,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 198269,
@@ -891,12 +987,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193882,
-      "num": 193882,
-      "word": "东证期货",
-      "onboard_time": 1722217401,
+      "raw_hot": 189953,
+      "num": 189953,
+      "word": "法国菜终于被英国人嘲笑了",
+      "onboard_time": 1722218781,
       "rank": 47,
-      "category": "财经"
+      "category": "体育,美食"
     },
     {
       "raw_hot": 184744,
@@ -1161,6 +1257,14 @@
       "onboard_time": 1722195851,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43550,
+      "num": 475752,
+      "word": "张雨霏和宝藏国货一起上场",
+      "onboard_time": 1722218301,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 42454,
