@@ -1,6 +1,6 @@
 {
   "startTime": 1722183872314,
-  "endTime": 1722244956144,
+  "endTime": 1722245684710,
   "band_list": [
     {
       "raw_hot": 14715864,
@@ -147,6 +147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2231112,
+      "num": 2231112,
+      "word": "跳水男子双人10米台决赛",
+      "onboard_time": 1722243692,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2206063,
       "num": 2206063,
       "word": "朝鲜混双有点东西",
@@ -256,14 +264,6 @@
       "word": "杨毅回应女篮解说言论",
       "onboard_time": 1722181527,
       "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1561707,
-      "num": 1561707,
-      "word": "跳水男子双人10米台决赛",
-      "onboard_time": 1722243692,
-      "rank": 3,
       "category": "体育"
     },
     {
@@ -499,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 885662,
+      "num": 885662,
+      "word": "孙颖莎的对手是一只小蜜蜂",
+      "onboard_time": 1722242845,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 858006,
       "num": 497989,
       "word": "我拒绝了小姑子的女儿来我家",
@@ -563,6 +571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 769793,
+      "num": 769793,
+      "word": "郭晶晶考裁判证 给中国队争个公平",
+      "onboard_time": 1722243505,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 769686,
       "num": 769686,
       "word": "全红婵 这孩子特别特别好",
@@ -611,12 +627,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 636867,
-      "num": 526136,
-      "word": "孙颖莎的对手是一只小蜜蜂",
-      "onboard_time": 1722242845,
-      "rank": 13,
-      "category": "体育"
+      "raw_hot": 639898,
+      "num": 335405,
+      "word": "床上阴瑜伽做一次年轻一次",
+      "onboard_time": 1722244463,
+      "rank": 30,
+      "category": "运动健身"
     },
     {
       "raw_hot": 603386,
@@ -663,14 +679,6 @@
       "num": 590992,
       "word": "王楚钦",
       "onboard_time": 1722184940,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 589827,
-      "num": 589827,
-      "word": "郭晶晶考裁判证 给中国队争个公平",
-      "onboard_time": 1722243505,
       "rank": 8,
       "category": "体育"
     },
@@ -844,7 +852,7 @@
     },
     {
       "raw_hot": 463928,
-      "num": 463928,
+      "num": 692428,
       "word": "公职人员称不参与违规采购被边缘化",
       "onboard_time": 1722239720,
       "rank": 17,
@@ -937,6 +945,14 @@
       "onboard_time": 1722192014,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 383613,
+      "num": 383613,
+      "word": "赵露思全黑上衣叠穿",
+      "onboard_time": 1722244222,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 381267,
@@ -1171,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 328493,
+      "num": 328493,
+      "word": "巴赫捏贾玲肌肉",
+      "onboard_time": 1722242544,
+      "rank": 24,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 327149,
       "num": 327149,
       "word": "湖南湘潭县涓水一处堤段出现决口",
@@ -1209,14 +1233,6 @@
       "onboard_time": 1722233362,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 324933,
-      "num": 324933,
-      "word": "巴赫捏贾玲肌肉",
-      "onboard_time": 1722242544,
-      "rank": 24,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 324148,
@@ -1363,14 +1379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 297983,
-      "num": 286309,
-      "word": "床上阴瑜伽做一次年轻一次",
-      "onboard_time": 1722244463,
-      "rank": 30,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 296956,
       "num": 296956,
       "word": "宋茜挂脖吊带抹胸",
@@ -1419,6 +1427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 282398,
+      "num": 282398,
+      "word": "张家齐解说好甜",
+      "onboard_time": 1722245423,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 281128,
       "num": 281128,
       "word": "年轻人把奥运热度晒到了背上",
@@ -1451,6 +1467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 275158,
+      "num": 275158,
+      "word": "杨颖宋威龙新剧取得发行许可证",
+      "onboard_time": 1722244282,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 268606,
       "num": 268606,
       "word": "女教师被举报长期吃空饷",
@@ -1475,20 +1499,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 265546,
-      "num": 265546,
-      "word": "赵露思全黑上衣叠穿",
-      "onboard_time": 1722244222,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 265145,
       "num": 265145,
       "word": "美国男篮狂砍110分",
       "onboard_time": 1722208216,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 264895,
+      "num": 264895,
+      "word": "芭莎也嗑十万年的姐弟cp",
+      "onboard_time": 1722244582,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 264776,
@@ -1577,14 +1601,6 @@
       "onboard_time": 1722220401,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248616,
-      "num": 248616,
-      "word": "杨颖宋威龙新剧取得发行许可证",
-      "onboard_time": 1722244282,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 246940,
@@ -1747,6 +1763,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 220193,
+      "num": 220193,
+      "word": "荷兰队泳裤",
+      "onboard_time": 1722245481,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217559,
       "num": 226553,
       "word": "湖南湘潭决口3832人安全转移",
@@ -1803,14 +1827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 212827,
-      "num": 212827,
-      "word": "芭莎也嗑十万年的姐弟cp",
-      "onboard_time": 1722244582,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 211962,
       "num": 211962,
       "word": "任嘉伦主演的7部古装剧",
@@ -1849,6 +1865,22 @@
       "onboard_time": 1722234261,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208082,
+      "num": 208082,
+      "word": "孙颖莎王楚钦顶峰相见",
+      "onboard_time": 1722242964,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 206575,
+      "num": 206575,
+      "word": "张艺谋每逢奥运就搞大事",
+      "onboard_time": 1722244522,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 204806,
@@ -1931,6 +1963,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 197485,
+      "num": 197485,
+      "word": "黄雨婷大心脏",
+      "onboard_time": 1722245661,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195677,
       "num": 195677,
       "word": "齐齐哈尔体育馆坍塌多个责任方被罚",
@@ -1985,14 +2025,6 @@
       "onboard_time": 1722241404,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 191075,
-      "num": 191075,
-      "word": "孙颖莎王楚钦顶峰相见",
-      "onboard_time": 1722242964,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 189953,
@@ -2097,6 +2129,14 @@
       "onboard_time": 1722185299,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151193,
+      "num": 588482,
+      "word": "年轻人为养生晒完背又开始吊脖子",
+      "onboard_time": 1722243622,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 147258,
@@ -2251,6 +2291,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 96791,
+      "num": 582415,
+      "word": "华为novaFlip来了",
+      "onboard_time": 1722241345,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 95073,
       "num": 95073,
       "word": "游泳赛程",
@@ -2289,22 +2337,6 @@
       "onboard_time": 1722174084,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 83230,
-      "num": 588482,
-      "word": "年轻人为养生晒完背又开始吊脖子",
-      "onboard_time": 1722243622,
-      "rank": 9,
-      "category": "社会新闻,健康医疗"
-    },
-    {
-      "raw_hot": 83041,
-      "num": 534006,
-      "word": "华为novaFlip来了",
-      "onboard_time": 1722241345,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 76946,
@@ -2568,6 +2600,14 @@
       "word": "妈妈执意要和079号战机合影",
       "onboard_time": 1722203772,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16881,
+      "num": 274166,
+      "word": "泰国老人去世十几只小狗吃主人遗体",
+      "onboard_time": 1722245481,
+      "rank": 29,
       "category": "社会新闻"
     },
     {

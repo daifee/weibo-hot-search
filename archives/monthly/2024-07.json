@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1722244956144,
+  "endTime": 1722245684710,
   "band_list": [
     {
       "raw_hot": 16577668,
@@ -1305,6 +1305,14 @@
       "onboard_time": 1721518755,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2231112,
+      "num": 2231112,
+      "word": "跳水男子双人10米台决赛",
+      "onboard_time": 1722243692,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 2221414,
@@ -2865,14 +2873,6 @@
       "onboard_time": 1721389699,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1561707,
-      "num": 1561707,
-      "word": "跳水男子双人10米台决赛",
-      "onboard_time": 1722243692,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 1559616,
@@ -7963,6 +7963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 885662,
+      "num": 885662,
+      "word": "孙颖莎的对手是一只小蜜蜂",
+      "onboard_time": 1722242845,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 884874,
       "num": 884874,
       "word": "四川雅安暴雨山洪致30余人失联",
@@ -10024,6 +10032,14 @@
       "word": "射击看紧张了",
       "onboard_time": 1722071841,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 769793,
+      "num": 769793,
+      "word": "郭晶晶考裁判证 给中国队争个公平",
+      "onboard_time": 1722243505,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -12787,6 +12803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 639898,
+      "num": 335405,
+      "word": "床上阴瑜伽做一次年轻一次",
+      "onboard_time": 1722244463,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 639333,
       "num": 247847,
       "word": "女子1米6体重50斤仍在减肥",
@@ -12857,14 +12881,6 @@
       "onboard_time": 1720761496,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 636867,
-      "num": 526136,
-      "word": "孙颖莎的对手是一只小蜜蜂",
-      "onboard_time": 1722242845,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 636777,
@@ -14305,14 +14321,6 @@
       "onboard_time": 1721026458,
       "rank": 23,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 589827,
-      "num": 589827,
-      "word": "郭晶晶考裁判证 给中国队争个公平",
-      "onboard_time": 1722243505,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 589703,
@@ -19404,7 +19412,7 @@
     },
     {
       "raw_hot": 463928,
-      "num": 463928,
+      "num": 692428,
       "word": "公职人员称不参与违规采购被边缘化",
       "onboard_time": 1722239720,
       "rank": 17,
@@ -23979,6 +23987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 383613,
+      "num": 383613,
+      "word": "赵露思全黑上衣叠穿",
+      "onboard_time": 1722244222,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 383529,
       "num": 383529,
       "word": "杨紫 生命树",
@@ -27547,6 +27563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 328493,
+      "num": 328493,
+      "word": "巴赫捏贾玲肌肉",
+      "onboard_time": 1722242544,
+      "rank": 24,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 328299,
       "num": 328299,
       "word": "TES对战G2",
@@ -27833,14 +27857,6 @@
       "onboard_time": 1721718321,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 324933,
-      "num": 324933,
-      "word": "巴赫捏贾玲肌肉",
-      "onboard_time": 1722242544,
-      "rank": 24,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 324928,
@@ -29947,14 +29963,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 297983,
-      "num": 286309,
-      "word": "床上阴瑜伽做一次年轻一次",
-      "onboard_time": 1722244463,
-      "rank": 30,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 297873,
       "num": 239399,
       "word": "被裁员了拿了12万补偿金",
@@ -31491,6 +31499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 282398,
+      "num": 282398,
+      "word": "张家齐解说好甜",
+      "onboard_time": 1722245423,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 282225,
       "num": 674839,
       "word": "范丞丞说听恶评是成长必经",
@@ -32145,6 +32161,14 @@
       "onboard_time": 1721550678,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 275158,
+      "num": 275158,
+      "word": "杨颖宋威龙新剧取得发行许可证",
+      "onboard_time": 1722244282,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 275140,
@@ -32979,14 +33003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 265546,
-      "num": 265546,
-      "word": "赵露思全黑上衣叠穿",
-      "onboard_time": 1722244222,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 265514,
       "num": 265514,
       "word": "张卫健还演过这么抽象的电视剧",
@@ -33025,6 +33041,14 @@
       "onboard_time": 1719979940,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 264895,
+      "num": 264895,
+      "word": "芭莎也嗑十万年的姐弟cp",
+      "onboard_time": 1722244582,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 264886,
@@ -34833,14 +34857,6 @@
       "onboard_time": 1722009321,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 248616,
-      "num": 248616,
-      "word": "杨颖宋威龙新剧取得发行许可证",
-      "onboard_time": 1722244282,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 248561,
@@ -38819,6 +38835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 220193,
+      "num": 220193,
+      "word": "荷兰队泳裤",
+      "onboard_time": 1722245481,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220186,
       "num": 192933,
       "word": "为什么人人都哭穷却人人都在旅游",
@@ -40331,14 +40355,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 212827,
-      "num": 212827,
-      "word": "芭莎也嗑十万年的姐弟cp",
-      "onboard_time": 1722244582,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 212778,
       "num": 212778,
       "word": "奥运红毯仪式超绝松弛感",
@@ -41419,6 +41435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208082,
+      "num": 208082,
+      "word": "孙颖莎王楚钦顶峰相见",
+      "onboard_time": 1722242964,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208060,
       "num": 208060,
       "word": "默杀 一惊一乍的",
@@ -41761,6 +41785,14 @@
       "onboard_time": 1721981120,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 206575,
+      "num": 206575,
+      "word": "张艺谋每逢奥运就搞大事",
+      "onboard_time": 1722244522,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 206535,
@@ -44955,6 +44987,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197485,
+      "num": 197485,
+      "word": "黄雨婷大心脏",
+      "onboard_time": 1722245661,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197465,
       "num": 197465,
       "word": "KPL夏季赛第二轮赛程",
@@ -47153,14 +47193,6 @@
       "onboard_time": 1720101258,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 191075,
-      "num": 191075,
-      "word": "孙颖莎王楚钦顶峰相见",
-      "onboard_time": 1722242964,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 191059,
@@ -58625,6 +58657,14 @@
       "onboard_time": 1720253478,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151193,
+      "num": 588482,
+      "word": "年轻人为养生晒完背又开始吊脖子",
+      "onboard_time": 1722243622,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 151137,
@@ -72067,6 +72107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 96791,
+      "num": 582415,
+      "word": "华为novaFlip来了",
+      "onboard_time": 1722241345,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 96786,
       "num": 373583,
       "word": "为什么260万用户都选比亚迪宋",
@@ -73835,28 +73883,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 83230,
-      "num": 588482,
-      "word": "年轻人为养生晒完背又开始吊脖子",
-      "onboard_time": 1722243622,
-      "rank": 9,
-      "category": "社会新闻,健康医疗"
-    },
-    {
       "raw_hot": 83068,
       "num": 83068,
       "word": "唐朝诡事录意难平",
       "onboard_time": 1721687052,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 83041,
-      "num": 534006,
-      "word": "华为novaFlip来了",
-      "onboard_time": 1722241345,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 82918,
@@ -83889,6 +83921,14 @@
       "onboard_time": 1721583014,
       "rank": 14,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 16881,
+      "num": 274166,
+      "word": "泰国老人去世十几只小狗吃主人遗体",
+      "onboard_time": 1722245481,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16856,
