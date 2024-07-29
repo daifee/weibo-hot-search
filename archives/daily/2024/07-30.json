@@ -1,6 +1,6 @@
 {
   "startTime": 1722270352158,
-  "endTime": 1722281762467,
+  "endTime": 1722284463117,
   "band_list": [
     {
       "raw_hot": 26081799,
@@ -203,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1297852,
+      "num": 1297852,
+      "word": "徐嘉余100米仰泳摘银",
+      "onboard_time": 1722281772,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1292679,
       "num": 1292679,
       "word": "韩国队黄牌",
@@ -368,6 +376,14 @@
       "word": "刘诗雯 混双观众席",
       "onboard_time": 1722269606,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 527349,
+      "num": 527349,
+      "word": "唐钱婷100米蛙泳银牌",
+      "onboard_time": 1722282493,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -563,6 +579,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 301684,
+      "num": 301684,
+      "word": "游泳",
+      "onboard_time": 1722279974,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 291539,
       "num": 291539,
       "word": "朱婷回来了",
@@ -600,14 +624,6 @@
       "word": "孙炜",
       "onboard_time": 1722279494,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 275709,
-      "num": 275709,
-      "word": "游泳",
-      "onboard_time": 1722279974,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -699,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185842,
+      "num": 185842,
+      "word": "切孔也太帅了",
+      "onboard_time": 1722283814,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183087,
       "num": 260900,
       "word": "十个勤天演唱会诚邀黄雨婷",
@@ -713,6 +737,14 @@
       "onboard_time": 1722260484,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 150719,
+      "num": 150719,
+      "word": "游泳多点冲金",
+      "onboard_time": 1722281532,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 149528,
@@ -747,8 +779,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 110863,
-      "num": 110863,
+      "raw_hot": 130245,
+      "num": 130245,
+      "word": "林超攀",
+      "onboard_time": 1722283271,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 122371,
+      "num": 122371,
       "word": "苏炜德替补",
       "onboard_time": 1722281713,
       "rank": 42,
@@ -771,6 +811,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94722,
+      "num": 94722,
+      "word": "何诗蓓摘铜",
+      "onboard_time": 1722284292,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 90078,
+      "num": 90078,
+      "word": "徐嘉余奥运第3银",
+      "onboard_time": 1722283814,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60389,
       "num": 4460291,
       "word": "龙虎山舰有多大一屏装不下",
@@ -785,6 +841,22 @@
       "onboard_time": 1722258444,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 29469,
+      "num": 88786,
+      "word": "刘宇宁很荣幸和陈丽君合作",
+      "onboard_time": 1722283331,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 24381,
+      "num": 87805,
+      "word": "电影正当夏",
+      "onboard_time": 1722273321,
+      "rank": 49,
+      "category": "电影"
     }
   ],
   "hotgov_list": [
