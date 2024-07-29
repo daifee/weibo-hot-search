@@ -1,0 +1,410 @@
+{
+  "runTime": 1722288056885,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 581425,
+        "num": 581425,
+        "word": "苏炜德两次掉杠",
+        "onboard_time": 1722277396,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 461834,
+        "num": 461834,
+        "word": "中国体操男团摘银",
+        "onboard_time": 1722276798,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27668,
+        "num": 414385,
+        "word": "中国跳水奥运金牌总数已超美国",
+        "onboard_time": 1722255684,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 392521,
+        "num": 392521,
+        "word": "王楚钦孙颖莎vs林钟勋申裕斌",
+        "onboard_time": 1722264085,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298809,
+        "num": 298809,
+        "word": "徐嘉余100米仰泳摘银",
+        "onboard_time": 1722281772,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236543,
+        "num": 236543,
+        "word": "中国香港击剑再夺金",
+        "onboard_time": 1722286452,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180175,
+        "num": 180175,
+        "word": "阳江地震",
+        "onboard_time": 1722286392,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74460,
+        "num": 180171,
+        "word": "唐朝诡事录断更",
+        "onboard_time": 1722250348,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58707,
+        "num": 180167,
+        "word": "唐艺昕第一次看张若昀新片一直哭",
+        "onboard_time": 1722264746,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 6596,
+        "num": 180161,
+        "word": "龙虎山舰有多大一屏装不下",
+        "onboard_time": 1722269606,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 483171,
+        "num": 180152,
+        "word": "陈一冰 半场开香槟",
+        "onboard_time": 1722279373,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305332,
+        "num": 180144,
+        "word": "苏炜德稳住",
+        "onboard_time": 1722275775,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70916,
+        "num": 180136,
+        "word": "土耳其总统当众轻扇男孩一巴掌",
+        "onboard_time": 1722275475,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 53887,
+        "num": 180126,
+        "word": "唐朝诡事录",
+        "onboard_time": 1722275416,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50046,
+        "num": 180118,
+        "word": "夏有乔木雅望天堂",
+        "onboard_time": 1722261623,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222337,
+        "num": 180111,
+        "word": "肖若腾哭了",
+        "onboard_time": 1722277995,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189977,
+        "num": 180109,
+        "word": "肖若腾胳膊出血了",
+        "onboard_time": 1722275955,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180104,
+        "num": 180104,
+        "word": "李小鹏 观众席",
+        "onboard_time": 1722278415,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163131,
+        "num": 163131,
+        "word": "朝鲜混双进决赛了",
+        "onboard_time": 1722265956,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49504,
+        "num": 162279,
+        "word": "郎朗说朝鲜确实挺猛的",
+        "onboard_time": 1722268347,
+        "rank": 19,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 161992,
+        "num": 161992,
+        "word": "中国女排战胜美国队",
+        "onboard_time": 1722272963,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158105,
+        "num": 158105,
+        "word": "莎头晋级混双决赛",
+        "onboard_time": 1722270287,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144646,
+        "num": 144646,
+        "word": "张家朗卫冕",
+        "onboard_time": 1722286452,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141088,
+        "num": 141088,
+        "word": "唐钱婷100米蛙泳银牌",
+        "onboard_time": 1722282493,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41865,
+        "num": 133465,
+        "word": "黄子韬高调示爱徐艺洋",
+        "onboard_time": 1722250468,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131072,
+        "num": 131072,
+        "word": "莎头战胜韩国队",
+        "onboard_time": 1722270345,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129706,
+        "num": 129706,
+        "word": "中国女排 科目三",
+        "onboard_time": 1722275775,
+        "rank": 26,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 35217,
+        "num": 125292,
+        "word": "况盛公开和马杨聊天记录",
+        "onboard_time": 1722254304,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35000,
+        "num": 124797,
+        "word": "保山地震",
+        "onboard_time": 1722285912,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32354,
+        "num": 124771,
+        "word": "苏醒道歉",
+        "onboard_time": 1722237201,
+        "rank": 29,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 124754,
+        "num": 124754,
+        "word": "奥运会羽毛球",
+        "onboard_time": 1722281353,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116220,
+        "num": 116220,
+        "word": "王昶什么时候上场",
+        "onboard_time": 1722285432,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30458,
+        "num": 104720,
+        "word": "郑佩佩女儿再发文",
+        "onboard_time": 1722258444,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29561,
+        "num": 101063,
+        "word": "况盛爆料葛沛豪说三喜烫头没家教",
+        "onboard_time": 1722263784,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29527,
+        "num": 100731,
+        "word": "十个勤天邀请黄雨婷参加演唱会",
+        "onboard_time": 1722264986,
+        "rank": 34,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 100650,
+        "num": 100650,
+        "word": "中国女排vs美国女排",
+        "onboard_time": 1722264144,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94133,
+        "num": 94133,
+        "word": "心疼张博恒",
+        "onboard_time": 1722277874,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92171,
+        "num": 92171,
+        "word": "苏炜德替补",
+        "onboard_time": 1722281713,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87054,
+        "num": 87054,
+        "word": "张博恒",
+        "onboard_time": 1722271345,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80375,
+        "num": 80375,
+        "word": "何诗蓓摘铜",
+        "onboard_time": 1722284292,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75608,
+        "num": 75608,
+        "word": "杨威解说",
+        "onboard_time": 1722277635,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67391,
+        "num": 67391,
+        "word": "张家朗晋级8强",
+        "onboard_time": 1722285972,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66877,
+        "num": 66877,
+        "word": "林超攀",
+        "onboard_time": 1722283271,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65780,
+        "num": 65780,
+        "word": "切孔也太帅了",
+        "onboard_time": 1722283814,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65130,
+        "num": 65130,
+        "word": "体操男团决赛",
+        "onboard_time": 1722268230,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27655,
+        "num": 65048,
+        "word": "电影正当夏",
+        "onboard_time": 1722273321,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27772,
+        "num": 64808,
+        "word": "贵州29岁抗癌网红大飞去世",
+        "onboard_time": 1722257421,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 27745,
+        "num": 64525,
+        "word": "儿子一觉醒来变得水灵灵了",
+        "onboard_time": 1722263305,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27506,
+        "num": 64072,
+        "word": "黄雨婷想去看十个勤天演唱会",
+        "onboard_time": 1722249988,
+        "rank": 48,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 23218,
+        "num": 63811,
+        "word": "马杨告况盛",
+        "onboard_time": 1722266851,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见意大利总理梅洛尼#"
+    }
+  }
+}
