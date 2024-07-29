@@ -1,0 +1,410 @@
+{
+  "runTime": 1722227859099,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9270676,
+        "num": 9270676,
+        "word": "韩国国旗又挂错了",
+        "onboard_time": 1722222982,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7975656,
+        "num": 7975656,
+        "word": "韩国人找到了国旗被挂错的原因",
+        "onboard_time": 1722224003,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68494,
+        "num": 3632241,
+        "word": "这是一代代中国奥运健儿的回答",
+        "onboard_time": 1722226346,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3211979,
+        "num": 3211979,
+        "word": "英国 破产",
+        "onboard_time": 1722225624,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 2198895,
+        "num": 2198895,
+        "word": "跳水名将郭晶晶和她的先生",
+        "onboard_time": 1722220821,
+        "rank": 4,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 1656661,
+        "num": 1656661,
+        "word": "韩国国旗被错标成中国国旗",
+        "onboard_time": 1722226286,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1069065,
+        "num": 1069065,
+        "word": "陈飞宇道歉速度",
+        "onboard_time": 1722222742,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 844246,
+        "num": 844246,
+        "word": "丈夫称妻子在KTV消费近两百万想要回",
+        "onboard_time": 1722221482,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 808674,
+        "num": 808674,
+        "word": "东京下雨 淋湿巴黎",
+        "onboard_time": 1722219981,
+        "rank": 8,
+        "category": "体育,音乐"
+      },
+      {
+        "raw_hot": 75103,
+        "num": 782013,
+        "word": "一张卡牌评级后卖到21万元",
+        "onboard_time": 1722227426,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 775191,
+        "num": 775191,
+        "word": "672分考生放弃名校选带编入学",
+        "onboard_time": 1722220342,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 774925,
+        "num": 774925,
+        "word": "为什么覃海洋后半程游崩了",
+        "onboard_time": 1722216081,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 693047,
+        "num": 693047,
+        "word": "高敏说游泳队赛前训练出了问题",
+        "onboard_time": 1722221902,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 678796,
+        "num": 678796,
+        "word": "相柳角色号注销账号",
+        "onboard_time": 1722218240,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 651912,
+        "num": 651912,
+        "word": "莎头组合进半决赛",
+        "onboard_time": 1722183032,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73415,
+        "num": 642018,
+        "word": "谷爱凌参加中国之夜",
+        "onboard_time": 1722224123,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 640791,
+        "num": 640791,
+        "word": "王楚钦 记者老师明白我意思了吧",
+        "onboard_time": 1722217280,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 567863,
+        "num": 567863,
+        "word": "王楚钦孙颖莎vs林昀儒陈思羽",
+        "onboard_time": 1722177203,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 559874,
+        "num": 559874,
+        "word": "巴黎奥运中国军团奖牌时刻",
+        "onboard_time": 1722226526,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63639,
+        "num": 548984,
+        "word": "沈月发了好多喜欢给桃花坞表白",
+        "onboard_time": 1722226945,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 540682,
+        "num": 540682,
+        "word": "一觉醒来中国队暂列金牌榜第6",
+        "onboard_time": 1722216442,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 527697,
+        "num": 527697,
+        "word": "巴黎奥组委为开幕式争议节目道歉",
+        "onboard_time": 1722174810,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 515427,
+        "num": 515427,
+        "word": "霍启刚有好好打扮 我不会出轨",
+        "onboard_time": 1722227726,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 502958,
+        "num": 502958,
+        "word": "王楚钦演技",
+        "onboard_time": 1722217580,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 486465,
+        "num": 486465,
+        "word": "美国选手三次邀请张雨霏合影",
+        "onboard_time": 1722221360,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 461347,
+        "num": 461347,
+        "word": "法国人天天两眼一睁就是惹韩国人生气",
+        "onboard_time": 1722188114,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 458250,
+        "num": 458250,
+        "word": "卡塔尔王室在法国被偷走11个爱马仕",
+        "onboard_time": 1722222323,
+        "rank": 26,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 451701,
+        "num": 451701,
+        "word": "中国射箭女团摘银教练落泪",
+        "onboard_time": 1722222082,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 433428,
+        "num": 433428,
+        "word": "还我妈生旗",
+        "onboard_time": 1722223223,
+        "rank": 28,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 408925,
+        "num": 408925,
+        "word": "东证期货1女踏多男涉多家基金员工",
+        "onboard_time": 1722224785,
+        "rank": 29,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 497751,
+        "num": 392399,
+        "word": "我拒绝了小姑子的女儿来我家",
+        "onboard_time": 1722226465,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 375307,
+        "num": 375307,
+        "word": "邱淑贞一家三口巴黎看奥运",
+        "onboard_time": 1722223102,
+        "rank": 31,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 347369,
+        "num": 347369,
+        "word": "覃海洋加油",
+        "onboard_time": 1722226105,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 342533,
+        "num": 342533,
+        "word": "张凌赫新剧",
+        "onboard_time": 1722221843,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333465,
+        "num": 333465,
+        "word": "苏醒说乒乓球是毫无悬念的比赛",
+        "onboard_time": 1722191415,
+        "rank": 34,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 332565,
+        "num": 332565,
+        "word": "雨霏别哭",
+        "onboard_time": 1722195972,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327818,
+        "num": 327818,
+        "word": "易烊千玺又染金发了",
+        "onboard_time": 1722227664,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318301,
+        "num": 318301,
+        "word": "李宇春 奥运预言",
+        "onboard_time": 1722222323,
+        "rank": 37,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 311987,
+        "num": 311987,
+        "word": "奥运会赛程",
+        "onboard_time": 1722227664,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308715,
+        "num": 308715,
+        "word": "东证期货女员工自曝劈腿一事已立案",
+        "onboard_time": 1722226046,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305396,
+        "num": 305396,
+        "word": "LadyGaga订婚了",
+        "onboard_time": 1722218659,
+        "rank": 40,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 300219,
+        "num": 300219,
+        "word": "张艺谋首部监制网剧预告",
+        "onboard_time": 1722226705,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299927,
+        "num": 299927,
+        "word": "中国游泳队是否遭受不公平对待",
+        "onboard_time": 1722227185,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298016,
+        "num": 298016,
+        "word": "奥运已经有选手开始回国了",
+        "onboard_time": 1722211463,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296056,
+        "num": 296056,
+        "word": "男子100米蛙泳决赛",
+        "onboard_time": 1722195491,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292373,
+        "num": 292373,
+        "word": "未定事件簿",
+        "onboard_time": 1722227125,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102867,
+        "num": 283248,
+        "word": "我国用无人机为灾区提供手机信号",
+        "onboard_time": 1722225624,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278996,
+        "num": 278996,
+        "word": "天津离巴黎就差一个奥运会",
+        "onboard_time": 1722221360,
+        "rank": 47,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 278417,
+        "num": 278417,
+        "word": "SEVENTEEN北京",
+        "onboard_time": 1722224844,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 258867,
+        "num": 258867,
+        "word": "大学生只比小学生大6岁",
+        "onboard_time": 1722227664,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#历史文化遗产怎样全面保护总书记这样说#"
+    }
+  }
+}

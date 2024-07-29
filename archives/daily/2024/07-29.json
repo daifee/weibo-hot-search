@@ -1,6 +1,6 @@
 {
   "startTime": 1722183872314,
-  "endTime": 1722227020178,
+  "endTime": 1722227859099,
   "band_list": [
     {
       "raw_hot": 13356940,
@@ -11,8 +11,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 9114786,
-      "num": 9114786,
+      "raw_hot": 9270676,
+      "num": 9270676,
       "word": "韩国国旗又挂错了",
       "onboard_time": 1722222982,
       "rank": 0,
@@ -27,12 +27,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 7682577,
-      "num": 7682577,
+      "raw_hot": 7975656,
+      "num": 7975656,
       "word": "韩国人找到了国旗被挂错的原因",
       "onboard_time": 1722224003,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3211979,
+      "num": 3211979,
+      "word": "英国 破产",
+      "onboard_time": 1722225624,
+      "rank": 3,
+      "category": "国外时政"
     },
     {
       "raw_hot": 3033972,
@@ -41,14 +49,6 @@
       "onboard_time": 1722180808,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 3024020,
-      "num": 3024020,
-      "word": "英国 破产",
-      "onboard_time": 1722225624,
-      "rank": 3,
-      "category": "国外时政"
     },
     {
       "raw_hot": 2981484,
@@ -168,6 +168,14 @@
       "word": "男子100米蛙泳决赛",
       "onboard_time": 1722195491,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1656661,
+      "num": 1656661,
+      "word": "韩国国旗被错标成中国国旗",
+      "onboard_time": 1722226286,
+      "rank": 6,
       "category": "体育"
     },
     {
@@ -331,14 +339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1006911,
-      "num": 1006911,
-      "word": "韩国国旗被错标成中国国旗",
-      "onboard_time": 1722226286,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 991457,
       "num": 991457,
       "word": "张雨霏100蝶铜牌",
@@ -371,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 844246,
+      "num": 844246,
+      "word": "丈夫称妻子在KTV消费近两百万想要回",
+      "onboard_time": 1722221482,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 834927,
       "num": 834927,
       "word": "郭晶晶裁判长好飒",
@@ -393,14 +401,6 @@
       "onboard_time": 1722208216,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 808047,
-      "num": 808047,
-      "word": "丈夫称妻子在KTV消费近两百万想要回",
-      "onboard_time": 1722221482,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 797520,
@@ -427,19 +427,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 693047,
+      "num": 693047,
+      "word": "高敏说游泳队赛前训练出了问题",
+      "onboard_time": 1722221902,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 678004,
       "num": 678004,
       "word": "华天的马受惊",
       "onboard_time": 1722179902,
       "rank": 22,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 623921,
-      "num": 623921,
-      "word": "高敏说游泳队赛前训练出了问题",
-      "onboard_time": 1722221902,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -499,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 559874,
+      "num": 559874,
+      "word": "巴黎奥运中国军团奖牌时刻",
+      "onboard_time": 1722226526,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 553608,
       "num": 553608,
       "word": "徐嘉余太快了",
@@ -555,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 515427,
+      "num": 515427,
+      "word": "霍启刚有好好打扮 我不会出轨",
+      "onboard_time": 1722227726,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 506954,
       "num": 419460,
       "word": "詹姆斯扣篮",
@@ -569,6 +585,14 @@
       "onboard_time": 1722182853,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 497751,
+      "num": 392399,
+      "word": "我拒绝了小姑子的女儿来我家",
+      "onboard_time": 1722226465,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 491661,
@@ -649,6 +673,14 @@
       "onboard_time": 1722187576,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408925,
+      "num": 408925,
+      "word": "东证期货1女踏多男涉多家基金员工",
+      "onboard_time": 1722224785,
+      "rank": 27,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 395397,
@@ -763,14 +795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 354748,
-      "num": 354748,
-      "word": "东证期货1女踏多男涉多家基金员工",
-      "onboard_time": 1722224785,
-      "rank": 27,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 351772,
       "num": 351772,
       "word": "本周狗屎运最旺的星座",
@@ -851,6 +875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 327818,
+      "num": 327818,
+      "word": "易烊千玺又染金发了",
+      "onboard_time": 1722227664,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 327149,
       "num": 327149,
       "word": "湖南湘潭县涓水一处堤段出现决口",
@@ -891,14 +923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 320605,
-      "num": 320605,
-      "word": "巴黎奥运中国军团奖牌时刻",
-      "onboard_time": 1722226526,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 320043,
       "num": 320043,
       "word": "男子400米混合泳决赛",
@@ -907,8 +931,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 317473,
-      "num": 317473,
+      "raw_hot": 318301,
+      "num": 318301,
       "word": "李宇春 奥运预言",
       "onboard_time": 1722222323,
       "rank": 31,
@@ -937,6 +961,14 @@
       "onboard_time": 1722216081,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 311987,
+      "num": 311987,
+      "word": "奥运会赛程",
+      "onboard_time": 1722227664,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 311205,
@@ -971,6 +1003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 308715,
+      "num": 308715,
+      "word": "东证期货女员工自曝劈腿一事已立案",
+      "onboard_time": 1722226046,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 303732,
       "num": 303732,
       "word": "宁泽涛说泳池深浅对比赛影响不大",
@@ -979,12 +1019,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 298085,
-      "num": 298085,
-      "word": "我拒绝了小姑子的女儿来我家",
-      "onboard_time": 1722226465,
-      "rank": 40,
-      "category": "情感"
+      "raw_hot": 300219,
+      "num": 300219,
+      "word": "张艺谋首部监制网剧预告",
+      "onboard_time": 1722226705,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 299927,
+      "num": 299927,
+      "word": "中国游泳队是否遭受不公平对待",
+      "onboard_time": 1722227185,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 296956,
@@ -1001,6 +1049,14 @@
       "onboard_time": 1722220940,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 292373,
+      "num": 292373,
+      "word": "未定事件簿",
+      "onboard_time": 1722227125,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 277396,
@@ -1035,12 +1091,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 260368,
-      "num": 260368,
-      "word": "东证期货女员工自曝劈腿一事已立案",
-      "onboard_time": 1722226046,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 258867,
+      "num": 258867,
+      "word": "大学生只比小学生大6岁",
+      "onboard_time": 1722227664,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 256105,
@@ -1057,14 +1113,6 @@
       "onboard_time": 1722192973,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 254654,
-      "num": 254654,
-      "word": "张艺谋首部监制网剧预告",
-      "onboard_time": 1722226705,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 251966,
@@ -1419,6 +1467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102867,
+      "num": 801819,
+      "word": "我国用无人机为灾区提供手机信号",
+      "onboard_time": 1722225624,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97808,
       "num": 97808,
       "word": "马尔尚400混破奥运纪录夺金",
@@ -1467,11 +1523,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75103,
+      "num": 782013,
+      "word": "一张卡牌评级后卖到21万元",
+      "onboard_time": 1722227426,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74233,
       "num": 74233,
       "word": "杜兰特23分",
       "onboard_time": 1722190634,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 73415,
+      "num": 642018,
+      "word": "谷爱凌参加中国之夜",
+      "onboard_time": 1722224123,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -1491,6 +1563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68494,
+      "num": 5285824,
+      "word": "这是一代代中国奥运健儿的回答",
+      "onboard_time": 1722226346,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68046,
       "num": 529410,
       "word": "高考生带录取通知书去公安局报喜",
@@ -1499,12 +1579,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 59800,
-      "num": 612543,
-      "word": "谷爱凌参加中国之夜",
-      "onboard_time": 1722224123,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 63639,
+      "num": 548984,
+      "word": "沈月发了好多喜欢给桃花坞表白",
+      "onboard_time": 1722226945,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 57413,
@@ -1521,14 +1601,6 @@
       "onboard_time": 1722197172,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 53227,
-      "num": 801819,
-      "word": "我国用无人机为灾区提供手机信号",
-      "onboard_time": 1722225624,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49519,
@@ -1571,14 +1643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 40023,
-      "num": 5285824,
-      "word": "这是一代代中国奥运健儿的回答",
-      "onboard_time": 1722226346,
-      "rank": 2,
-      "category": "体育"
-    },
-    {
       "raw_hot": 39499,
       "num": 39499,
       "word": "王源郑州巡演嘉宾是陆虎",
@@ -1593,14 +1657,6 @@
       "onboard_time": 1722223823,
       "rank": 29,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 38340,
-      "num": 349216,
-      "word": "沈月发了好多喜欢给桃花坞表白",
-      "onboard_time": 1722226945,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 30637,
@@ -1665,6 +1721,9 @@
     },
     {
       "word": "#读懂全会决定中的这些名词#"
+    },
+    {
+      "word": "#历史文化遗产怎样全面保护总书记这样说#"
     }
   ]
 }
