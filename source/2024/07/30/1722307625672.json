@@ -1,0 +1,410 @@
+{
+  "runTime": 1722307625672,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1795265,
+        "num": 1795265,
+        "word": "孙颖莎离大满贯只差1枚奥运女单金牌",
+        "onboard_time": 1722304221,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1686170,
+        "num": 1686170,
+        "word": "肖若腾说接受不了这个结果",
+        "onboard_time": 1722298945,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98592,
+        "num": 1591032,
+        "word": "中国跳水奥运金牌总数已超美国",
+        "onboard_time": 1722255684,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1561504,
+        "num": 1561504,
+        "word": "王楚钦 暗示这么明显应该懂吧",
+        "onboard_time": 1722295823,
+        "rank": 3,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 7540027,
+        "num": 1542956,
+        "word": "苏炜德赛后道歉",
+        "onboard_time": 1722295640,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1121208,
+        "num": 1121208,
+        "word": "中国体操男团摘银",
+        "onboard_time": 1722276798,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1111121,
+        "num": 1111121,
+        "word": "张博恒快碎了",
+        "onboard_time": 1722299605,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1029528,
+        "num": 1029528,
+        "word": "刘诗诗穿新中式看击剑",
+        "onboard_time": 1722300684,
+        "rank": 7,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 509654,
+        "num": 915462,
+        "word": "黄子韬说要挽回下形象",
+        "onboard_time": 1722300684,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67719,
+        "num": 914241,
+        "word": "25岁视障女孩为盲人制作学习资料",
+        "onboard_time": 1722306682,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1218328,
+        "num": 914049,
+        "word": "苏炜德两次掉杠",
+        "onboard_time": 1722277396,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 913662,
+        "num": 913662,
+        "word": "北京暴雨",
+        "onboard_time": 1722294918,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482782,
+        "num": 482782,
+        "word": "iPhone通话录音会事先通知",
+        "onboard_time": 1722302063,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 456470,
+        "num": 456470,
+        "word": "韩国奥运冠军和女爱豆比赛深蹲",
+        "onboard_time": 1722304282,
+        "rank": 13,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 421658,
+        "num": 421658,
+        "word": "陈思诚还能拍出爆款吗",
+        "onboard_time": 1722301224,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 992157,
+        "num": 421081,
+        "word": "李小鹏谈苏炜德两次掉杠",
+        "onboard_time": 1722304702,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 693338,
+        "num": 418141,
+        "word": "朱婷说这是我最后一届奥运会",
+        "onboard_time": 1722297984,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 692271,
+        "num": 416505,
+        "word": "莎头晋级混双决赛",
+        "onboard_time": 1722270287,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317161,
+        "num": 415065,
+        "word": "唐朝诡事录恢复连更",
+        "onboard_time": 1722301403,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313757,
+        "num": 414104,
+        "word": "十个勤天合体送黄雨婷演唱会票",
+        "onboard_time": 1722306862,
+        "rank": 19,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 641298,
+        "num": 412129,
+        "word": "莎头战胜韩国队",
+        "onboard_time": 1722270345,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 626789,
+        "num": 409391,
+        "word": "陈一冰 半场开香槟",
+        "onboard_time": 1722279373,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 586604,
+        "num": 408696,
+        "word": "赛后队友纷纷安慰苏炜德",
+        "onboard_time": 1722298105,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 584006,
+        "num": 405922,
+        "word": "苏炜德稳住",
+        "onboard_time": 1722275775,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 583545,
+        "num": 404335,
+        "word": "孙颖莎一直在鼓励安慰王楚钦",
+        "onboard_time": 1722298044,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 468645,
+        "num": 403614,
+        "word": "肖若腾胳膊出血了",
+        "onboard_time": 1722275955,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 445557,
+        "num": 401951,
+        "word": "中国女排战胜美国队",
+        "onboard_time": 1722272963,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256552,
+        "num": 399735,
+        "word": "刘诗诗巴黎状态",
+        "onboard_time": 1722305060,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198587,
+        "num": 397294,
+        "word": "欧阳娜娜新剧松死感",
+        "onboard_time": 1722307342,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195188,
+        "num": 395526,
+        "word": "唐艺昕第一次看张若昀新片一直哭",
+        "onboard_time": 1722264746,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 394966,
+        "num": 394966,
+        "word": "国乒全队沸腾了",
+        "onboard_time": 1722301464,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 329546,
+        "num": 329546,
+        "word": "特朗普称巴黎奥运会开幕式是耻辱",
+        "onboard_time": 1722306382,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 55119,
+        "num": 328517,
+        "word": "张博恒新锐力量新鲜上场",
+        "onboard_time": 1722306741,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204319,
+        "num": 325974,
+        "word": "北京暴雨这班是非上不可吗",
+        "onboard_time": 1722305362,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193346,
+        "num": 325018,
+        "word": "唐朝诡事录",
+        "onboard_time": 1722275416,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 387529,
+        "num": 322311,
+        "word": "孙颖莎说最后时刻打到忘我",
+        "onboard_time": 1722291853,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376336,
+        "num": 321120,
+        "word": "陈若琳拥抱郭晶晶",
+        "onboard_time": 1722305901,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 350690,
+        "num": 319391,
+        "word": "申裕斌的偶像是王楚钦",
+        "onboard_time": 1722306560,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 343533,
+        "num": 316631,
+        "word": "孙颖莎首次亮相世界杯便一战成名",
+        "onboard_time": 1722304642,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315722,
+        "num": 315722,
+        "word": "徐嘉余100米仰泳摘银",
+        "onboard_time": 1722281772,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307334,
+        "num": 307334,
+        "word": "朝鲜混双进决赛了",
+        "onboard_time": 1722265956,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301954,
+        "num": 301954,
+        "word": "杨威谈苏炜德失误",
+        "onboard_time": 1722295460,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281498,
+        "num": 281498,
+        "word": "中国女排 科目三",
+        "onboard_time": 1722275775,
+        "rank": 42,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 273833,
+        "num": 273833,
+        "word": "中国5金5银2铜暂列奖牌榜第三",
+        "onboard_time": 1722306622,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192324,
+        "num": 192324,
+        "word": "第一次看到女团遇鬼是这个反应",
+        "onboard_time": 1722307402,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192055,
+        "num": 192055,
+        "word": "多地大暴雨来袭",
+        "onboard_time": 1722300323,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188376,
+        "num": 188376,
+        "word": "什么职业下这么大雨还去上班",
+        "onboard_time": 1722305721,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178181,
+        "num": 178181,
+        "word": "10余省份有大到暴雨",
+        "onboard_time": 1722302721,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176589,
+        "num": 176589,
+        "word": "湖南资兴强降雨已致4死3失踪",
+        "onboard_time": 1722304282,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175315,
+        "num": 175315,
+        "word": "杨紫粉色无袖连衣裙",
+        "onboard_time": 1722306741,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对退役军人工作作出重要指示#"
+    }
+  }
+}
