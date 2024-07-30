@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1722377805480,
+  "endTime": 1722378857359,
   "band_list": [
     {
       "raw_hot": 26081799,
@@ -5475,6 +5475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1233416,
+      "num": 1233416,
+      "word": "体操女团 跳马",
+      "onboard_time": 1722363554,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1231819,
       "num": 1231819,
       "word": "英雄联盟手游取消赵露思置顶",
@@ -9681,14 +9689,6 @@
       "onboard_time": 1721278160,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 860467,
-      "num": 860467,
-      "word": "体操女团 跳马",
-      "onboard_time": 1722363554,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 859720,
@@ -31371,6 +31371,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 315731,
+      "num": 315731,
+      "word": "程菲",
+      "onboard_time": 1722370812,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 315630,
       "num": 286274,
       "word": "张杰这次像牵女儿了",
@@ -32057,14 +32065,6 @@
       "onboard_time": 1721190501,
       "rank": 19,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 307550,
-      "num": 307550,
-      "word": "程菲",
-      "onboard_time": 1722370812,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 307510,
@@ -36321,6 +36321,14 @@
       "onboard_time": 1721808080,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264175,
+      "num": 230401,
+      "word": "莎莎感谢大头",
+      "onboard_time": 1722368594,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 264138,
@@ -42444,7 +42452,7 @@
     },
     {
       "raw_hot": 220222,
-      "num": 475930,
+      "num": 488927,
       "word": "谢娜说莎头夺冠太不容易",
       "onboard_time": 1722360796,
       "rank": 48,
@@ -55963,14 +55971,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 174747,
-      "num": 174747,
-      "word": "莎莎感谢大头",
-      "onboard_time": 1722368594,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 174745,
       "num": 174745,
       "word": "首批300余人抵达洞庭湖溃口展开救援",
@@ -62827,6 +62827,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 150770,
+      "num": 226410,
+      "word": "妈妈镜头下的肖战",
+      "onboard_time": 1722377183,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 150759,
       "num": 147575,
       "word": "小鬼把大小姐宠在怀里",
@@ -65161,6 +65169,14 @@
       "onboard_time": 1719994938,
       "rank": 40,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 142377,
+      "num": 112123,
+      "word": "朝鲜教练是巴黎世乒赛混双冠军",
+      "onboard_time": 1722376815,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 142228,
@@ -76435,14 +76451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 96639,
-      "num": 196948,
-      "word": "妈妈镜头下的肖战",
-      "onboard_time": 1722377183,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 96604,
       "num": 96604,
       "word": "凯格尔运动",
@@ -77515,6 +77523,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 89953,
+      "num": 89953,
+      "word": "潘展乐 超人",
+      "onboard_time": 1722374413,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89943,
       "num": 4802785,
       "word": "中国队首金升国旗奏国歌现场",
@@ -77577,6 +77593,14 @@
       "onboard_time": 1720709120,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89244,
+      "num": 112167,
+      "word": "况盛爱女儿人设",
+      "onboard_time": 1722377293,
+      "rank": 44,
+      "category": "网红"
     },
     {
       "raw_hot": 89124,
@@ -78716,7 +78740,7 @@
     },
     {
       "raw_hot": 78706,
-      "num": 65285,
+      "num": 73698,
       "word": "覃海洋说自己想的太多",
       "onboard_time": 1722374472,
       "rank": 31,
@@ -79065,14 +79089,6 @@
       "onboard_time": 1721567180,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 75945,
-      "num": 64760,
-      "word": "潘展乐 超人",
-      "onboard_time": 1722374413,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 75940,
@@ -80875,14 +80891,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 63159,
-      "num": 63159,
-      "word": "朝鲜教练是巴黎世乒赛混双冠军",
-      "onboard_time": 1722376815,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 63149,
       "num": 372735,
       "word": "接力哄娃的8位外卖员每人获奖500",
@@ -82235,6 +82243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55090,
+      "num": 223486,
+      "word": "杨旭文 你们敢说我不敢念啊",
+      "onboard_time": 1722367934,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 55088,
       "num": 656336,
       "word": "E起CityDrive",
@@ -82289,6 +82305,14 @@
       "onboard_time": 1720432339,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54332,
+      "num": 73648,
+      "word": "王楚钦采访名场面又来了",
+      "onboard_time": 1722378495,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 54305,
@@ -82953,14 +82977,6 @@
       "onboard_time": 1720147038,
       "rank": 9,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 50059,
-      "num": 174754,
-      "word": "杨旭文 你们敢说我不敢念啊",
-      "onboard_time": 1722367934,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 50019,
@@ -83795,6 +83811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45279,
+      "num": 485015,
+      "word": "北京全市降雨量已达暴雨",
+      "onboard_time": 1722372971,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45253,
       "num": 217547,
       "word": "西南医院多学科专家救治870克超早产儿",
@@ -84033,14 +84057,6 @@
       "onboard_time": 1721666779,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43743,
-      "num": 63020,
-      "word": "况盛爱女儿人设",
-      "onboard_time": 1722377293,
-      "rank": 44,
-      "category": "网红"
     },
     {
       "raw_hot": 43653,
@@ -84665,14 +84681,6 @@
       "onboard_time": 1719913999,
       "rank": 9,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 40320,
-      "num": 313725,
-      "word": "北京全市降雨量已达暴雨",
-      "onboard_time": 1722372971,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40304,
