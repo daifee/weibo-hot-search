@@ -1,6 +1,6 @@
 {
   "startTime": 1722270352158,
-  "endTime": 1722320865357,
+  "endTime": 1722321647108,
   "band_list": [
     {
       "raw_hot": 26081799,
@@ -147,6 +147,14 @@
       "category": "体育,幽默"
     },
     {
+      "raw_hot": 2520648,
+      "num": 2520648,
+      "word": "朝鲜混双组合不接受采访",
+      "onboard_time": 1722317723,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2383734,
       "num": 2383734,
       "word": "女排一传",
@@ -163,19 +171,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2351168,
+      "num": 2351168,
+      "word": "谢瑜 一枪击破家徒四壁",
+      "onboard_time": 1722317063,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2323444,
       "num": 2090951,
       "word": "王曼昱出现了",
       "onboard_time": 1722268586,
       "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2223045,
-      "num": 2223045,
-      "word": "朝鲜混双组合不接受采访",
-      "onboard_time": 1722317723,
-      "rank": 46,
       "category": "体育"
     },
     {
@@ -200,14 +208,6 @@
       "word": "苏炜德被临时递补进入团队",
       "onboard_time": 1722313165,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2085602,
-      "num": 2085602,
-      "word": "谢瑜 一枪击破家徒四壁",
-      "onboard_time": 1722317063,
-      "rank": 36,
       "category": "体育"
     },
     {
@@ -523,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 815466,
+      "num": 815466,
+      "word": "女子故意漏扫码同伴提醒还被打手",
+      "onboard_time": 1722310703,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 772921,
       "num": 772921,
       "word": "莎头组合进半决赛",
@@ -537,6 +545,14 @@
       "onboard_time": 1722306862,
       "rank": 27,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 757444,
+      "num": 757444,
+      "word": "王楚钦提醒孙颖莎和裁判握手",
+      "onboard_time": 1722316343,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 738976,
@@ -603,14 +619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 633631,
-      "num": 633631,
-      "word": "女子故意漏扫码同伴提醒还被打手",
-      "onboard_time": 1722310703,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 629914,
       "num": 629914,
       "word": "刘国栋教练",
@@ -627,8 +635,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 605201,
-      "num": 605201,
+      "raw_hot": 611573,
+      "num": 611573,
       "word": "金晨说不认识Henry",
       "onboard_time": 1722317302,
       "rank": 37,
@@ -641,14 +649,6 @@
       "onboard_time": 1722308781,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 586850,
-      "num": 467134,
-      "word": "王楚钦提醒孙颖莎和裁判握手",
-      "onboard_time": 1722316343,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 586734,
@@ -720,6 +720,14 @@
       "word": "刘国梁好忙",
       "onboard_time": 1722292574,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 485193,
+      "num": 485193,
+      "word": "汪顺 光膀子背着双肩包",
+      "onboard_time": 1722320302,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -803,6 +811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 445650,
+      "num": 445650,
+      "word": "谢瑜",
+      "onboard_time": 1722319041,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 444982,
       "num": 2478870,
       "word": "夏有乔木雅望天堂",
@@ -841,6 +857,14 @@
       "onboard_time": 1722300323,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 425398,
+      "num": 425398,
+      "word": "金希澈自曝一般恋爱时长2到3周",
+      "onboard_time": 1722320362,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 423447,
@@ -905,14 +929,6 @@
       "onboard_time": 1722301403,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 405241,
-      "num": 405241,
-      "word": "谢瑜",
-      "onboard_time": 1722319041,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 403894,
@@ -1027,14 +1043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 367808,
-      "num": 367808,
-      "word": "金希澈自曝一般恋爱时长2到3周",
-      "onboard_time": 1722320362,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 359702,
       "num": 233508,
       "word": "干饭哥也有网名羞耻症",
@@ -1107,6 +1115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 322160,
+      "num": 322160,
+      "word": "李梦是天选李清照吧",
+      "onboard_time": 1722318621,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 314669,
       "num": 729903,
       "word": "BLACKPINK世界巡演电影海报",
@@ -1120,6 +1136,14 @@
       "word": "黄雨婷解释阿条本条名字由来",
       "onboard_time": 1722302244,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 312474,
+      "num": 312474,
+      "word": "孙颖莎称决赛将非常艰苦",
+      "onboard_time": 1722320183,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -1137,14 +1161,6 @@
       "onboard_time": 1722237201,
       "rank": 34,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 302636,
-      "num": 302636,
-      "word": "李梦是天选李清照吧",
-      "onboard_time": 1722318621,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 301684,
@@ -1179,12 +1195,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 294646,
+      "num": 294646,
+      "word": "王楚钦 顶配大学生的存在",
+      "onboard_time": 1722319401,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 293816,
       "num": 293816,
       "word": "邹敬园赛后落泪太渴望金牌了",
       "onboard_time": 1722316103,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 291758,
+      "num": 467252,
+      "word": "高伟光开创老不死赛道",
+      "onboard_time": 1722320002,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 291539,
@@ -1211,6 +1243,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 288637,
+      "num": 288637,
+      "word": "倪夏莲拿世界冠军时刘国梁才7岁",
+      "onboard_time": 1722317482,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 288607,
       "num": 261794,
       "word": "儿子一觉醒来变得水灵灵了",
@@ -1225,14 +1265,6 @@
       "onboard_time": 1722317183,
       "rank": 41,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 285667,
-      "num": 285667,
-      "word": "倪夏莲拿世界冠军时刘国梁才7岁",
-      "onboard_time": 1722317482,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 285006,
@@ -1323,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263584,
+      "num": 263584,
+      "word": "孙杨说泳池深浅对比赛影响很大",
+      "onboard_time": 1722321261,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 261655,
       "num": 261655,
       "word": "日本体操",
@@ -1369,6 +1409,14 @@
       "onboard_time": 1722298884,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251779,
+      "num": 251779,
+      "word": "孙颖莎暗号手势算是看明白了",
+      "onboard_time": 1722321441,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 250615,
@@ -1507,10 +1555,10 @@
       "category": "体育"
     },
     {
-      "raw_hot": 227097,
-      "num": 227097,
-      "word": "孙颖莎称决赛将非常艰苦",
-      "onboard_time": 1722320183,
+      "raw_hot": 222392,
+      "num": 222392,
+      "word": "谢瑜 偏偏你最争气",
+      "onboard_time": 1722321501,
       "rank": 44,
       "category": "体育"
     },
@@ -1521,22 +1569,6 @@
       "onboard_time": 1722319342,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 217996,
-      "num": 217996,
-      "word": "王楚钦 顶配大学生的存在",
-      "onboard_time": 1722319401,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 214818,
-      "num": 214818,
-      "word": "汪顺 光膀子背着双肩包",
-      "onboard_time": 1722320302,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 211104,
@@ -1563,12 +1595,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203790,
+      "num": 203790,
+      "word": "许昕孙颖莎的采访看一次笑一次",
+      "onboard_time": 1722320963,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202562,
       "num": 202562,
       "word": "贾玲 我们要爱我们的懦弱",
       "onboard_time": 1722309981,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199359,
+      "num": 199359,
+      "word": "广东小伙中1头活牛以为是诈骗",
+      "onboard_time": 1722321621,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195903,
@@ -1739,6 +1787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134159,
+      "num": 888391,
+      "word": "中国科技震撼巴黎",
+      "onboard_time": 1722315983,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133780,
       "num": 985500,
       "word": "北京中午雨势间歇傍晚再加强",
@@ -1752,14 +1808,6 @@
       "word": "林超攀",
       "onboard_time": 1722283271,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 129418,
-      "num": 888391,
-      "word": "中国科技震撼巴黎",
-      "onboard_time": 1722315983,
-      "rank": 29,
       "category": "体育"
     },
     {
@@ -1777,14 +1825,6 @@
       "onboard_time": 1722281713,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114814,
-      "num": 467252,
-      "word": "高伟光开创老不死赛道",
-      "onboard_time": 1722320002,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 106300,
@@ -1948,7 +1988,7 @@
     },
     {
       "raw_hot": 38183,
-      "num": 2095080,
+      "num": 2382417,
       "word": "暴雨内涝自救避险指南",
       "onboard_time": 1722305120,
       "rank": 2,
@@ -1969,6 +2009,14 @@
       "onboard_time": 1722273321,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 29514,
+      "num": 459411,
+      "word": "董思成新剧演百岁疯批医生",
+      "onboard_time": 1722321323,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 27716,

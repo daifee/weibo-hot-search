@@ -1,6 +1,6 @@
 {
   "startTime": 1722097426384,
-  "endTime": 1722320865357,
+  "endTime": 1722321647108,
   "band_list": [
     {
       "raw_hot": 26081799,
@@ -491,6 +491,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 2520648,
+      "num": 2520648,
+      "word": "朝鲜混双组合不接受采访",
+      "onboard_time": 1722317723,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2499364,
       "num": 2499364,
       "word": "中国第3金",
@@ -547,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2351168,
+      "num": 2351168,
+      "word": "谢瑜 一枪击破家徒四壁",
+      "onboard_time": 1722317063,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2341687,
       "num": 2341687,
       "word": "跳水名将郭晶晶和她的先生",
@@ -592,14 +608,6 @@
       "word": "樊振东vs扎穆登科",
       "onboard_time": 1722246981,
       "rank": 7,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2223045,
-      "num": 2223045,
-      "word": "朝鲜混双组合不接受采访",
-      "onboard_time": 1722317723,
-      "rank": 46,
       "category": "体育"
     },
     {
@@ -656,14 +664,6 @@
       "word": "莎头已看呆",
       "onboard_time": 1722097230,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2085602,
-      "num": 2085602,
-      "word": "谢瑜 一枪击破家徒四壁",
-      "onboard_time": 1722317063,
-      "rank": 36,
       "category": "体育"
     },
     {
@@ -2003,6 +2003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 815466,
+      "num": 815466,
+      "word": "女子故意漏扫码同伴提醒还被打手",
+      "onboard_time": 1722310703,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 811934,
       "num": 1385257,
       "word": "贵州29岁抗癌网红大飞去世",
@@ -2073,6 +2081,14 @@
       "onboard_time": 1722306862,
       "rank": 27,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 757444,
+      "num": 757444,
+      "word": "王楚钦提醒孙颖莎和裁判握手",
+      "onboard_time": 1722316343,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 751444,
@@ -2323,14 +2339,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 633631,
-      "num": 633631,
-      "word": "女子故意漏扫码同伴提醒还被打手",
-      "onboard_time": 1722310703,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 632800,
       "num": 632800,
       "word": "严屹宽老婆遇水果刺客",
@@ -2427,20 +2435,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 611573,
+      "num": 611573,
+      "word": "金晨说不认识Henry",
+      "onboard_time": 1722317302,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 609474,
       "num": 609474,
       "word": "女子体操资格赛",
       "onboard_time": 1722161480,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 605201,
-      "num": 605201,
-      "word": "金晨说不认识Henry",
-      "onboard_time": 1722317302,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 605036,
@@ -2521,14 +2529,6 @@
       "onboard_time": 1722308781,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 586850,
-      "num": 467134,
-      "word": "王楚钦提醒孙颖莎和裁判握手",
-      "onboard_time": 1722316343,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 586266,
@@ -2955,6 +2955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 485193,
+      "num": 485193,
+      "word": "汪顺 光膀子背着双肩包",
+      "onboard_time": 1722320302,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 484791,
       "num": 460093,
       "word": "中国女篮下一场对阵塞尔维亚",
@@ -3163,6 +3171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 445650,
+      "num": 445650,
+      "word": "谢瑜",
+      "onboard_time": 1722319041,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 444314,
       "num": 444314,
       "word": "中国射箭女团很棒了",
@@ -3339,6 +3355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 425398,
+      "num": 425398,
+      "word": "金希澈自曝一般恋爱时长2到3周",
+      "onboard_time": 1722320362,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 424947,
       "num": 424947,
       "word": "干饭哥 淡人",
@@ -3472,14 +3496,6 @@
       "word": "黄雨婷打平杨倩奥运纪录",
       "onboard_time": 1722242005,
       "rank": 22,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 405241,
-      "num": 405241,
-      "word": "谢瑜",
-      "onboard_time": 1722319041,
-      "rank": 23,
       "category": "体育"
     },
     {
@@ -3841,14 +3857,6 @@
       "onboard_time": 1722266788,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 367808,
-      "num": 367808,
-      "word": "金希澈自曝一般恋爱时长2到3周",
-      "onboard_time": 1722320362,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 365318,
@@ -4371,6 +4379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 322160,
+      "num": 322160,
+      "word": "李梦是天选李清照吧",
+      "onboard_time": 1722318621,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 321404,
       "num": 321404,
       "word": "为什么不上韩旭",
@@ -4480,6 +4496,14 @@
       "word": "黄雨婷解释阿条本条名字由来",
       "onboard_time": 1722302244,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 312474,
+      "num": 312474,
+      "word": "孙颖莎称决赛将非常艰苦",
+      "onboard_time": 1722320183,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -4611,14 +4635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 302636,
-      "num": 302636,
-      "word": "李梦是天选李清照吧",
-      "onboard_time": 1722318621,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 302251,
       "num": 302251,
       "word": "巴赫称中国科技给奥运会提供巨大支持",
@@ -4739,6 +4755,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 294646,
+      "num": 294646,
+      "word": "王楚钦 顶配大学生的存在",
+      "onboard_time": 1722319401,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 293816,
       "num": 293816,
       "word": "邹敬园赛后落泪太渴望金牌了",
@@ -4777,6 +4801,14 @@
       "onboard_time": 1722180441,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 291758,
+      "num": 467252,
+      "word": "高伟光开创老不死赛道",
+      "onboard_time": 1722320002,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 291539,
@@ -4841,6 +4873,14 @@
       "onboard_time": 1722315923,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 288637,
+      "num": 288637,
+      "word": "倪夏莲拿世界冠军时刘国梁才7岁",
+      "onboard_time": 1722317482,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 288287,
@@ -4912,14 +4952,6 @@
       "word": "玫瑰哥",
       "onboard_time": 1722155662,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 285667,
-      "num": 285667,
-      "word": "倪夏莲拿世界冠军时刘国梁才7岁",
-      "onboard_time": 1722317482,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -5251,6 +5283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 263584,
+      "num": 263584,
+      "word": "孙杨说泳池深浅对比赛影响很大",
+      "onboard_time": 1722321261,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 263264,
       "num": 263264,
       "word": "王楚钦绕场一周再退场",
@@ -5489,6 +5529,14 @@
       "onboard_time": 1722220401,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251779,
+      "num": 251779,
+      "word": "孙颖莎暗号手势算是看明白了",
+      "onboard_time": 1722321441,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 250615,
@@ -5891,14 +5939,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 227097,
-      "num": 227097,
-      "word": "孙颖莎称决赛将非常艰苦",
-      "onboard_time": 1722320183,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 226863,
       "num": 226863,
       "word": "中国女排首秀迎战美国队",
@@ -5955,6 +5995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222392,
+      "num": 222392,
+      "word": "谢瑜 偏偏你最争气",
+      "onboard_time": 1722321501,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222244,
       "num": 222244,
       "word": "SEVENTEEN签售延期",
@@ -6008,14 +6056,6 @@
       "word": "潘展乐第一棒破奥运纪录",
       "onboard_time": 1722111972,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 217996,
-      "num": 217996,
-      "word": "王楚钦 顶配大学生的存在",
-      "onboard_time": 1722319401,
-      "rank": 46,
       "category": "体育"
     },
     {
@@ -6089,14 +6129,6 @@
       "onboard_time": 1722128780,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 214818,
-      "num": 214818,
-      "word": "汪顺 光膀子背着双肩包",
-      "onboard_time": 1722320302,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 214214,
@@ -6315,6 +6347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203790,
+      "num": 203790,
+      "word": "许昕孙颖莎的采访看一次笑一次",
+      "onboard_time": 1722320963,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203727,
       "num": 203727,
       "word": "中国射击第2金",
@@ -6417,6 +6457,14 @@
       "onboard_time": 1722134482,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199359,
+      "num": 199359,
+      "word": "广东小伙中1头活牛以为是诈骗",
+      "onboard_time": 1722321621,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199030,
@@ -7139,6 +7187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134159,
+      "num": 888391,
+      "word": "中国科技震撼巴黎",
+      "onboard_time": 1722315983,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133780,
       "num": 985500,
       "word": "北京中午雨势间歇傍晚再加强",
@@ -7160,14 +7216,6 @@
       "word": "林超攀",
       "onboard_time": 1722283271,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 129418,
-      "num": 888391,
-      "word": "中国科技震撼巴黎",
-      "onboard_time": 1722315983,
-      "rank": 29,
       "category": "体育"
     },
     {
@@ -7281,14 +7329,6 @@
       "onboard_time": 1722193872,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114814,
-      "num": 467252,
-      "word": "高伟光开创老不死赛道",
-      "onboard_time": 1722320002,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 114581,
@@ -8092,7 +8132,7 @@
     },
     {
       "raw_hot": 38183,
-      "num": 2095080,
+      "num": 2382417,
       "word": "暴雨内涝自救避险指南",
       "onboard_time": 1722305120,
       "rank": 2,
@@ -8177,6 +8217,14 @@
       "onboard_time": 1722172224,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29514,
+      "num": 459411,
+      "word": "董思成新剧演百岁疯批医生",
+      "onboard_time": 1722321323,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 29368,
