@@ -1,6 +1,6 @@
 {
   "startTime": 1722097426384,
-  "endTime": 1722335913421,
+  "endTime": 1722338275707,
   "band_list": [
     {
       "raw_hot": 26081799,
@@ -483,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2552662,
+      "num": 2552662,
+      "word": "李小双说是教练组的问题别怪运动员",
+      "onboard_time": 1722327382,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2537263,
       "num": 2537263,
       "word": "杨倩奥运纪录",
@@ -632,6 +640,14 @@
       "word": "朝鲜混双有点东西",
       "onboard_time": 1722178293,
       "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2197236,
+      "num": 2197236,
+      "word": "体操男团丢金都是苏炜德之过吗",
+      "onboard_time": 1722333502,
+      "rank": 20,
       "category": "体育"
     },
     {
@@ -1475,6 +1491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1197792,
+      "num": 1197792,
+      "word": "李小双说1996年的失误已背负28年",
+      "onboard_time": 1722334223,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1188025,
       "num": 1188025,
       "word": "湖南8个村子因暴雨失联",
@@ -1560,14 +1584,6 @@
       "word": "找到张本智和吵的原因了",
       "onboard_time": 1722233721,
       "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1135563,
-      "num": 1135563,
-      "word": "体操男团丢金都是苏炜德之过吗",
-      "onboard_time": 1722333502,
-      "rank": 20,
       "category": "体育"
     },
     {
@@ -1736,6 +1752,14 @@
       "word": "拜尔斯好牛",
       "onboard_time": 1722162081,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 995893,
+      "num": 995893,
+      "word": "王楚钦再次痛失本名",
+      "onboard_time": 1722335482,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -2163,14 +2187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 797796,
-      "num": 456430,
-      "word": "李小双说1996年的失误已背负28年",
-      "onboard_time": 1722334223,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 797520,
       "num": 797520,
       "word": "小孩姐第一次参加奥运就创造历史",
@@ -2347,6 +2363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 694087,
+      "num": 538295,
+      "word": "郑乃馨否认与Bright分手",
+      "onboard_time": 1722337042,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 693047,
       "num": 693047,
       "word": "高敏说游泳队赛前训练出了问题",
@@ -2499,12 +2523,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 637334,
+      "num": 637334,
+      "word": "林心如被霍建华越过亲女儿",
+      "onboard_time": 1722337162,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 632800,
       "num": 632800,
       "word": "严屹宽老婆遇水果刺客",
       "onboard_time": 1722147323,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 631356,
+      "num": 1015161,
+      "word": "巴黎偶遇穿马面裙的王冰冰",
+      "onboard_time": 1722334883,
+      "rank": 49,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 629914,
@@ -3179,6 +3219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 482844,
+      "num": 482844,
+      "word": "乒乓球混双铜牌赛",
+      "onboard_time": 1722337881,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 482782,
       "num": 776755,
       "word": "iPhone通话录音会事先通知",
@@ -3340,7 +3388,7 @@
     },
     {
       "raw_hot": 454378,
-      "num": 904276,
+      "num": 1007873,
       "word": "夏之光提到迪丽热巴鞠了四次躬",
       "onboard_time": 1722333923,
       "rank": 8,
@@ -3744,6 +3792,14 @@
       "word": "陈雨菲vs李怡逢",
       "onboard_time": 1722172761,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 404418,
+      "num": 404418,
+      "word": "被孙颖莎没理王楚钦的这一幕逗笑了",
+      "onboard_time": 1722335783,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -4675,6 +4731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 320572,
+      "num": 320572,
+      "word": "外卖小哥雨中接3单全白干崩溃大哭",
+      "onboard_time": 1722337642,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320043,
       "num": 320043,
       "word": "男子400米混合泳决赛",
@@ -4753,14 +4817,6 @@
       "onboard_time": 1722261023,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 314950,
-      "num": 456378,
-      "word": "巴黎偶遇穿马面裙的王冰冰",
-      "onboard_time": 1722334883,
-      "rank": 49,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 314168,
@@ -4960,6 +5016,14 @@
       "word": "孙颖莎王楚钦同框图",
       "onboard_time": 1722262465,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 301396,
+      "num": 301396,
+      "word": "盛李豪 第一次觉得中文这么难懂",
+      "onboard_time": 1722337642,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -5323,6 +5387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 281404,
+      "num": 281404,
+      "word": "倪夏莲陪练 朝鲜女选手打法",
+      "onboard_time": 1722338122,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 281128,
       "num": 281128,
       "word": "年轻人把奥运热度晒到了背上",
@@ -5467,12 +5539,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 272324,
+      "num": 272324,
+      "word": "孙颖莎谈应对神秘之师朝鲜队",
+      "onboard_time": 1722336323,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 272076,
       "num": 272076,
       "word": "东京出界的脚绊倒了巴黎的桥本大辉",
       "onboard_time": 1722169462,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 271736,
+      "num": 474442,
+      "word": "张远 为爱冲动一次被念叨一辈子",
+      "onboard_time": 1722336023,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 271014,
@@ -5753,6 +5841,14 @@
       "onboard_time": 1722233000,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 257935,
+      "num": 257935,
+      "word": "倪夏莲回应给莎头当陪练",
+      "onboard_time": 1722338122,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 257351,
@@ -6067,6 +6163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 240798,
+      "num": 240798,
+      "word": "李冰洁第六晋级",
+      "onboard_time": 1722337761,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 240759,
       "num": 325974,
       "word": "北京暴雨这班是非上不可吗",
@@ -6112,6 +6216,14 @@
       "word": "朱婷回应中国女排开门红",
       "onboard_time": 1722302843,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 239080,
+      "num": 239080,
+      "word": "15岁小将学冲浪前甚至没见过海",
+      "onboard_time": 1722338002,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -6299,14 +6411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 229860,
-      "num": 229860,
-      "word": "王楚钦再次痛失本名",
-      "onboard_time": 1722335482,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 229164,
       "num": 229164,
       "word": "体操太可惜了",
@@ -6427,6 +6531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221878,
+      "num": 474423,
+      "word": "知否小蝶和唐诡青溪谁更惨",
+      "onboard_time": 1722335063,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221617,
       "num": 269589,
       "word": "蒋敦豪第一站试听会上线",
@@ -6441,6 +6553,14 @@
       "onboard_time": 1722322761,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221413,
+      "num": 237880,
+      "word": "工作人员承认周鸿祎被夹是车辆问题",
+      "onboard_time": 1722337942,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 221058,
@@ -6473,14 +6593,6 @@
       "onboard_time": 1722330262,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 219623,
-      "num": 217729,
-      "word": "被孙颖莎没理王楚钦的这一幕逗笑了",
-      "onboard_time": 1722335783,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 218647,
@@ -6641,6 +6753,14 @@
       "onboard_time": 1722067159,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209536,
+      "num": 473786,
+      "word": "刘诗诗生图",
+      "onboard_time": 1722337583,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 209234,
@@ -7027,14 +7147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 194952,
-      "num": 456050,
-      "word": "知否小蝶和唐诡青溪谁更惨",
-      "onboard_time": 1722335063,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 194871,
       "num": 194871,
       "word": "上海的cosplay已经nextlevel了",
@@ -7105,6 +7217,14 @@
       "onboard_time": 1722154642,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191268,
+      "num": 237214,
+      "word": "赵丽颖百花奖VCR",
+      "onboard_time": 1722338063,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 191206,
@@ -7924,7 +8044,7 @@
     },
     {
       "raw_hot": 101923,
-      "num": 1480602,
+      "num": 1697110,
       "word": "奥运赛场上拼搏过就是英雄",
       "onboard_time": 1722332663,
       "rank": 2,
@@ -7993,6 +8113,14 @@
       "onboard_time": 1722291492,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 92152,
+      "num": 997381,
+      "word": "暑假带娃去旅游是没苦硬吃吗",
+      "onboard_time": 1722337222,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92109,
@@ -8105,6 +8233,14 @@
       "onboard_time": 1722114912,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81203,
+      "num": 923245,
+      "word": "王冰冰教会外国人说中文",
+      "onboard_time": 1722335063,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 81042,
@@ -8283,14 +8419,6 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 67773,
-      "num": 242654,
-      "word": "王冰冰教会外国人说中文",
-      "onboard_time": 1722335063,
-      "rank": 39,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 67678,
       "num": 67678,
       "word": "刘国梁看莎头首秀好松弛",
@@ -8372,7 +8500,7 @@
     },
     {
       "raw_hot": 61271,
-      "num": 227831,
+      "num": 475551,
       "word": "极氪高管质疑懂车帝",
       "onboard_time": 1722335542,
       "rank": 43,
@@ -8984,6 +9112,14 @@
       "word": "邮递员为女儿送清华录取通知书",
       "onboard_time": 1722197712,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8269,
+      "num": 1004226,
+      "word": "北京发布洪水蓝色预警",
+      "onboard_time": 1722338183,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
