@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1722359863011,
+  "endTime": 1722360879372,
   "band_list": [
     {
       "raw_hot": 26081799,
@@ -2104,6 +2104,14 @@
       "word": "美国女排扳平比分",
       "onboard_time": 1722272540,
       "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2051868,
+      "num": 2051868,
+      "word": "平衡木 吓人",
+      "onboard_time": 1722359359,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -5267,6 +5275,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 1256428,
+      "num": 1256428,
+      "word": "QQ糖分手",
+      "onboard_time": 1722357622,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1255147,
       "num": 355184,
       "word": "左耳痒了1年居然是因为一根管子",
@@ -5345,14 +5361,6 @@
       "onboard_time": 1722126139,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1245171,
-      "num": 1245171,
-      "word": "QQ糖分手",
-      "onboard_time": 1722357622,
-      "rank": 46,
-      "category": "网红"
     },
     {
       "raw_hot": 1244668,
@@ -7859,6 +7867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 985905,
+      "num": 985905,
+      "word": "拜尔斯太强了",
+      "onboard_time": 1722358219,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 984889,
       "num": 984889,
       "word": "严禁给退休回乡干部职工分宅基地建房",
@@ -10353,14 +10369,6 @@
       "onboard_time": 1721269937,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 818410,
-      "num": 818410,
-      "word": "拜尔斯太强了",
-      "onboard_time": 1722358219,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 817934,
@@ -16795,6 +16803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 566680,
+      "num": 566680,
+      "word": "法国男篮vs日本男篮",
+      "onboard_time": 1722358160,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 566665,
       "num": 1088253,
       "word": "苹果回应iPhone鬼手现象",
@@ -22347,6 +22363,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 446761,
+      "num": 446761,
+      "word": "河村勇辉 宫城寿",
+      "onboard_time": 1722359957,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 446692,
       "num": 408641,
       "word": "沈阳铁西",
@@ -23515,14 +23539,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 430457,
-      "num": 430457,
-      "word": "平衡木 吓人",
-      "onboard_time": 1722359359,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 430339,
       "num": 430339,
       "word": "网购11元衣服仅退款后赔偿800元",
@@ -24217,14 +24233,6 @@
       "onboard_time": 1719834558,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 417696,
-      "num": 417696,
-      "word": "法国男篮vs日本男篮",
-      "onboard_time": 1722358160,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 417670,
@@ -27505,6 +27513,14 @@
       "onboard_time": 1720316237,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 364476,
+      "num": 364476,
+      "word": "体操的妹妹们好棒",
+      "onboard_time": 1722359299,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 364214,
@@ -33401,6 +33417,14 @@
       "onboard_time": 1722273798,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 291517,
+      "num": 1077188,
+      "word": "章昊没回归就是在备战奥运",
+      "onboard_time": 1722358639,
+      "rank": 18,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 291510,
@@ -40699,6 +40723,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 230587,
+      "num": 204887,
+      "word": "日本男篮惜败法国男篮",
+      "onboard_time": 1722360676,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 230560,
       "num": 230560,
       "word": "密逃6解读恐惧与未知",
@@ -41987,14 +42019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 222101,
-      "num": 193797,
-      "word": "体操的妹妹们好棒",
-      "onboard_time": 1722359299,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 221972,
       "num": 221972,
       "word": "登陆日空降",
@@ -42145,14 +42169,6 @@
       "onboard_time": 1721709620,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 221491,
-      "num": 532896,
-      "word": "章昊没回归就是在备战奥运",
-      "onboard_time": 1722358639,
-      "rank": 18,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 221463,
@@ -69940,7 +69956,7 @@
     },
     {
       "raw_hot": 125201,
-      "num": 192683,
+      "num": 310929,
       "word": "杨旭文说唐诡第三季今年开拍",
       "onboard_time": 1722358699,
       "rank": 46,
@@ -73233,6 +73249,14 @@
       "onboard_time": 1719920418,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112610,
+      "num": 313593,
+      "word": "娜扎 你这不搞事情吗",
+      "onboard_time": 1722358759,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 112549,
@@ -77049,6 +77073,14 @@
       "onboard_time": 1720877660,
       "rank": 49,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 91680,
+      "num": 186323,
+      "word": "谢娜说莎头夺冠太不容易",
+      "onboard_time": 1722360796,
+      "rank": 48,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 91501,

@@ -1,6 +1,6 @@
 {
   "startTime": 1722097426384,
-  "endTime": 1722359863011,
+  "endTime": 1722360879372,
   "band_list": [
     {
       "raw_hot": 26081799,
@@ -883,6 +883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2051868,
+      "num": 2051868,
+      "word": "平衡木 吓人",
+      "onboard_time": 1722359359,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2040991,
       "num": 2040991,
       "word": "齐迎多向飞碟银牌",
@@ -1611,6 +1619,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 1256428,
+      "num": 1256428,
+      "word": "QQ糖分手",
+      "onboard_time": 1722357622,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1247495,
       "num": 1247495,
       "word": "许昕点评莎头比赛",
@@ -1625,14 +1641,6 @@
       "onboard_time": 1722126139,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1245171,
-      "num": 1245171,
-      "word": "QQ糖分手",
-      "onboard_time": 1722357622,
-      "rank": 46,
-      "category": "网红"
     },
     {
       "raw_hot": 1240803,
@@ -2107,6 +2115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 985905,
+      "num": 985905,
+      "word": "拜尔斯太强了",
+      "onboard_time": 1722358219,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 965671,
       "num": 734543,
       "word": "中国队冲击体操男团金牌",
@@ -2504,14 +2520,6 @@
       "word": "王楚钦孙颖莎采访",
       "onboard_time": 1722273620,
       "rank": 22,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 818410,
-      "num": 818410,
-      "word": "拜尔斯太强了",
-      "onboard_time": 1722358219,
-      "rank": 11,
       "category": "体育"
     },
     {
@@ -3307,6 +3315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 566680,
+      "num": 566680,
+      "word": "法国男篮vs日本男篮",
+      "onboard_time": 1722358160,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 566163,
       "num": 566163,
       "word": "莎头组合一日双赛",
@@ -3963,6 +3979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 446761,
+      "num": 446761,
+      "word": "河村勇辉 宫城寿",
+      "onboard_time": 1722359957,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 446227,
       "num": 446227,
       "word": "湖南衡阳山体滑坡15人遇难",
@@ -4139,14 +4163,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 430457,
-      "num": 430457,
-      "word": "平衡木 吓人",
-      "onboard_time": 1722359359,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 430441,
       "num": 430441,
       "word": "张本智和早田希娜开局被打6比0",
@@ -4265,14 +4281,6 @@
       "onboard_time": 1722323362,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 417696,
-      "num": 417696,
-      "word": "法国男篮vs日本男篮",
-      "onboard_time": 1722358160,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 414256,
@@ -4841,6 +4849,14 @@
       "onboard_time": 1722178223,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 364476,
+      "num": 364476,
+      "word": "体操的妹妹们好棒",
+      "onboard_time": 1722359299,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 362377,
@@ -5945,6 +5961,14 @@
       "onboard_time": 1722273798,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 291517,
+      "num": 1077188,
+      "word": "章昊没回归就是在备战奥运",
+      "onboard_time": 1722358639,
+      "rank": 18,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 291279,
@@ -7195,11 +7219,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 231157,
+      "num": 532234,
+      "word": "宇露君沾",
+      "onboard_time": 1722358940,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 230681,
       "num": 230681,
       "word": "马佳 巴黎已经变得干净又安全",
       "onboard_time": 1722138683,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 230587,
+      "num": 204887,
+      "word": "日本男篮惜败法国男篮",
+      "onboard_time": 1722360676,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -7347,14 +7387,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 222101,
-      "num": 193797,
-      "word": "体操的妹妹们好棒",
-      "onboard_time": 1722359299,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 221933,
       "num": 221933,
       "word": "奥组委向韩国道歉后又闹幺蛾子",
@@ -7385,14 +7417,6 @@
       "onboard_time": 1722322761,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 221491,
-      "num": 532896,
-      "word": "章昊没回归就是在备战奥运",
-      "onboard_time": 1722358639,
-      "rank": 18,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 221058,
@@ -7689,6 +7713,14 @@
       "onboard_time": 1722244522,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206465,
+      "num": 206465,
+      "word": "日本地震",
+      "onboard_time": 1722359957,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206366,
@@ -8161,14 +8193,6 @@
       "onboard_time": 1722283814,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 185508,
-      "num": 532234,
-      "word": "宇露君沾",
-      "onboard_time": 1722358940,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 185425,
@@ -8836,7 +8860,7 @@
     },
     {
       "raw_hot": 125201,
-      "num": 192683,
+      "num": 310929,
       "word": "杨旭文说唐诡第三季今年开拍",
       "onboard_time": 1722358699,
       "rank": 46,
@@ -8929,6 +8953,14 @@
       "onboard_time": 1722189016,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112610,
+      "num": 313593,
+      "word": "娜扎 你这不搞事情吗",
+      "onboard_time": 1722358759,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 112384,
@@ -9081,6 +9113,14 @@
       "onboard_time": 1722306682,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91680,
+      "num": 186323,
+      "word": "谢娜说莎头夺冠太不容易",
+      "onboard_time": 1722360796,
+      "rank": 48,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 91032,
