@@ -1,6 +1,6 @@
 {
   "startTime": 1722270352158,
-  "endTime": 1722345742377,
+  "endTime": 1722346451499,
   "band_list": [
     {
       "raw_hot": 26081799,
@@ -11,8 +11,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 23766029,
-      "num": 23766029,
+      "raw_hot": 25457152,
+      "num": 25457152,
       "word": "王楚钦孙颖莎vs李正植金琴英",
       "onboard_time": 1722340824,
       "rank": 1,
@@ -83,11 +83,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 7008510,
+      "num": 7008510,
+      "word": "莎头组合夺金",
+      "onboard_time": 1722344015,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 6921144,
       "num": 6921144,
       "word": "乒乓球直播 卡",
       "onboard_time": 1722267986,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 6577435,
+      "num": 6577435,
+      "word": "乒乓球混双决赛",
+      "onboard_time": 1722340824,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -123,14 +139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 4844833,
-      "num": 4844833,
-      "word": "乒乓球混双决赛",
-      "onboard_time": 1722340824,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 4694328,
       "num": 4694328,
       "word": "苏炜德两次掉杠",
@@ -147,11 +155,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 3531765,
-      "num": 3531765,
+      "raw_hot": 4165864,
+      "num": 4165864,
       "word": "王楚钦拧拉的神",
       "onboard_time": 1722344674,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3464193,
+      "num": 3464193,
+      "word": "中国队黄牌",
+      "onboard_time": 1722345511,
+      "rank": 15,
       "category": "体育"
     },
     {
@@ -451,14 +467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1455747,
-      "num": 1455747,
-      "word": "中国队黄牌",
-      "onboard_time": 1722345511,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1447233,
       "num": 1447233,
       "word": "孙颖莎一直在鼓励安慰王楚钦",
@@ -611,6 +619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1147417,
+      "num": 1147417,
+      "word": "刘国正解说",
+      "onboard_time": 1722345272,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1142818,
       "num": 1142818,
       "word": "王楚钦失误",
@@ -644,11 +660,19 @@
     },
     {
       "raw_hot": 1056597,
-      "num": 2500822,
+      "num": 3377641,
       "word": "林心如被霍建华越过亲女儿",
       "onboard_time": 1722337162,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1027295,
+      "num": 1027295,
+      "word": "肖战指导表情",
+      "onboard_time": 1722345391,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 1002420,
@@ -827,19 +851,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 784122,
+      "num": 784122,
+      "word": "混双 紧张",
+      "onboard_time": 1722345451,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 776454,
+      "num": 776454,
+      "word": "马龙紧握双手",
+      "onboard_time": 1722345992,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 772921,
       "num": 772921,
       "word": "莎头组合进半决赛",
       "onboard_time": 1722183032,
       "rank": 21,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 769976,
-      "num": 769976,
-      "word": "刘国正解说",
-      "onboard_time": 1722345272,
-      "rank": 26,
       "category": "体育"
     },
     {
@@ -899,14 +931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 720696,
-      "num": 720696,
-      "word": "肖战指导表情",
-      "onboard_time": 1722345391,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 694087,
       "num": 608698,
       "word": "郑乃馨否认与Bright分手",
@@ -920,6 +944,14 @@
       "word": "曾强奸12岁女孩奥运选手首秀遭嘘",
       "onboard_time": 1722248843,
       "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 671795,
+      "num": 671795,
+      "word": "混双收视率破8",
+      "onboard_time": 1722345872,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -948,7 +980,7 @@
     },
     {
       "raw_hot": 652856,
-      "num": 281272,
+      "num": 508088,
       "word": "德国游泳女将质疑张雨霏",
       "onboard_time": 1722343708,
       "rank": 39,
@@ -1028,7 +1060,7 @@
     },
     {
       "raw_hot": 607253,
-      "num": 2354921,
+      "num": 2875619,
       "word": "十个勤天同时关注黄雨婷了",
       "onboard_time": 1722341004,
       "rank": 8,
@@ -1081,14 +1113,6 @@
       "onboard_time": 1722314006,
       "rank": 29,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 562112,
-      "num": 279679,
-      "word": "混双 紧张",
-      "onboard_time": 1722345451,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 555431,
@@ -1244,7 +1268,7 @@
     },
     {
       "raw_hot": 472754,
-      "num": 1038306,
+      "num": 1488553,
       "word": "李明接替方星海任证监会副主席",
       "onboard_time": 1722341845,
       "rank": 14,
@@ -1340,7 +1364,7 @@
     },
     {
       "raw_hot": 444381,
-      "num": 444381,
+      "num": 683294,
       "word": "何浩楠机场",
       "onboard_time": 1722344367,
       "rank": 32,
@@ -1371,6 +1395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 432099,
+      "num": 1456263,
+      "word": "英已婚女狱警与囚犯在牢房发生关系",
+      "onboard_time": 1722344968,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 431702,
       "num": 431702,
       "word": "夜玫瑰的曲",
@@ -1385,6 +1417,14 @@
       "onboard_time": 1722300323,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424451,
+      "num": 424451,
+      "word": "纳瓦罗vs郑钦文",
+      "onboard_time": 1722341364,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 423447,
@@ -1643,20 +1683,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 370799,
+      "num": 370799,
+      "word": "奥运会",
+      "onboard_time": 1722345090,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 370167,
       "num": 296491,
       "word": "游泳预赛",
       "onboard_time": 1722330862,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 365030,
-      "num": 1456263,
-      "word": "英已婚女狱警与囚犯在牢房发生关系",
-      "onboard_time": 1722344968,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 359702,
@@ -1756,7 +1796,7 @@
     },
     {
       "raw_hot": 331212,
-      "num": 756507,
+      "num": 794766,
       "word": "况盛发声",
       "onboard_time": 1722341905,
       "rank": 27,
@@ -2187,14 +2227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 255619,
-      "num": 228493,
-      "word": "纳瓦罗vs郑钦文",
-      "onboard_time": 1722341364,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 252908,
       "num": 252908,
       "word": "湖南为何成为暴雨中心",
@@ -2523,14 +2555,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 204423,
-      "num": 250892,
-      "word": "奥运会",
-      "onboard_time": 1722345090,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 204254,
       "num": 943277,
       "word": "披荆斩棘公演唱什么",
@@ -2659,6 +2683,14 @@
       "category": "演出,体育"
     },
     {
+      "raw_hot": 181645,
+      "num": 791493,
+      "word": "宋亚轩刘耀文新歌合唱",
+      "onboard_time": 1722344851,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 180175,
       "num": 316343,
       "word": "阳江地震",
@@ -2668,7 +2700,7 @@
     },
     {
       "raw_hot": 179211,
-      "num": 206536,
+      "num": 673947,
       "word": "大理一登山客失联9天8夜后获救",
       "onboard_time": 1722340824,
       "rank": 48,
@@ -2803,14 +2835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143160,
-      "num": 752518,
-      "word": "宋亚轩刘耀文新歌合唱",
-      "onboard_time": 1722344851,
-      "rank": 28,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 142250,
       "num": 142250,
       "word": "奥运会羽毛球",
@@ -2883,6 +2907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108391,
+      "num": 1293332,
+      "word": "球迷整齐划一有序为莎头加油",
+      "onboard_time": 1722342987,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106300,
       "num": 106300,
       "word": "徐嘉余奥运第3银",
@@ -2904,6 +2936,14 @@
       "word": "奥运赛场上拼搏过就是英雄",
       "onboard_time": 1722332663,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95690,
+      "num": 2143924,
+      "word": "酒店菜品投庆大霉素案应挖根彻查",
+      "onboard_time": 1722344489,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2976,14 +3016,6 @@
       "word": "张家朗晋级8强",
       "onboard_time": 1722285972,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 65409,
-      "num": 1289056,
-      "word": "球迷整齐划一有序为莎头加油",
-      "onboard_time": 1722342987,
-      "rank": 45,
       "category": "体育"
     },
     {
@@ -3073,14 +3105,6 @@
       "onboard_time": 1722306741,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 53182,
-      "num": 2143924,
-      "word": "酒店菜品投庆大霉素案应挖根彻查",
-      "onboard_time": 1722344489,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52888,
