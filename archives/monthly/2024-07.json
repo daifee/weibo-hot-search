@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1722346451499,
+  "endTime": 1722349115279,
   "band_list": [
     {
       "raw_hot": 26081799,
@@ -17,6 +17,14 @@
       "onboard_time": 1722340824,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23318876,
+      "num": 23529259,
+      "word": "孙颖莎王楚钦混双金牌",
+      "onboard_time": 1722344015,
+      "rank": 0,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 19712879,
@@ -81,6 +89,14 @@
       "onboard_time": 1722087681,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13600788,
+      "num": 13600788,
+      "word": "莎头圆满巴黎",
+      "onboard_time": 1722346760,
+      "rank": 1,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 13593460,
@@ -331,6 +347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 8056365,
+      "num": 8056365,
+      "word": "王楚钦拧拉的神",
+      "onboard_time": 1722344674,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 7989519,
       "num": 7989519,
       "word": "海来阿木 好听",
@@ -377,6 +401,14 @@
       "onboard_time": 1722164481,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7457975,
+      "num": 7457975,
+      "word": "王楚钦球拍",
+      "onboard_time": 1722347796,
+      "rank": 4,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 7379450,
@@ -449,6 +481,14 @@
       "onboard_time": 1720190242,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 6528742,
+      "num": 6528742,
+      "word": "中国队黄牌",
+      "onboard_time": 1722345511,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 6508436,
@@ -675,14 +715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 4165864,
-      "num": 4165864,
-      "word": "王楚钦拧拉的神",
-      "onboard_time": 1722344674,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 4126542,
       "num": 4753085,
       "word": "阮富仲去世",
@@ -843,14 +875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 3464193,
-      "num": 3464193,
-      "word": "中国队黄牌",
-      "onboard_time": 1722345511,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 3456601,
       "num": 3456601,
       "word": "中国队亮相",
@@ -865,6 +889,14 @@
       "onboard_time": 1720515739,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3438371,
+      "num": 3438371,
+      "word": "王楚钦说举报",
+      "onboard_time": 1722347920,
+      "rank": 10,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 3430710,
@@ -913,6 +945,14 @@
       "onboard_time": 1721658745,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3306652,
+      "num": 3306652,
+      "word": "孙颖莎正手太强了",
+      "onboard_time": 1722344552,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 3295019,
@@ -1289,6 +1329,14 @@
       "onboard_time": 1720920801,
       "rank": 36,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 2569502,
+      "num": 2569502,
+      "word": "混双收视率破8",
+      "onboard_time": 1722345872,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 2562023,
@@ -1811,6 +1859,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 2171590,
+      "num": 2171590,
+      "word": "许昕祝贺莎头",
+      "onboard_time": 1722347683,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2168225,
       "num": 1263186,
       "word": "张翰 想你了佩佩姐",
@@ -2219,6 +2275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1906424,
+      "num": 1906424,
+      "word": "肖战指导表情",
+      "onboard_time": 1722345391,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1903807,
       "num": 1903807,
       "word": "郭晶晶 跳水裁判长",
@@ -2304,6 +2368,14 @@
       "word": "盛李豪 你有两个杆菌",
       "onboard_time": 1722265046,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1874146,
+      "num": 1874146,
+      "word": "莎头拥抱庆祝",
+      "onboard_time": 1722348523,
+      "rank": 17,
       "category": "体育"
     },
     {
@@ -2875,6 +2947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1702648,
+      "num": 1702648,
+      "word": "乒乓球混双颁奖",
+      "onboard_time": 1722348523,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1698294,
       "num": 1698294,
       "word": "刘洋吊环15.500分",
@@ -3139,6 +3219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1611745,
+      "num": 1611745,
+      "word": "马龙紧握双手",
+      "onboard_time": 1722345992,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1608703,
       "num": 1608703,
       "word": "女子4次漏扫码被刑拘",
@@ -3395,6 +3483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1563922,
+      "num": 1563922,
+      "word": "林钟勋不用服兵役了",
+      "onboard_time": 1722342691,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1563302,
       "num": 1563302,
       "word": "台风格美预计今天下午到傍晚登陆福建",
@@ -3480,14 +3576,6 @@
       "word": "陈梦vs伯格斯特隆",
       "onboard_time": 1722325522,
       "rank": 5,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1542121,
-      "num": 1542121,
-      "word": "林钟勋不用服兵役了",
-      "onboard_time": 1722342691,
-      "rank": 20,
       "category": "体育"
     },
     {
@@ -4291,14 +4379,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1387534,
-      "num": 1387534,
-      "word": "孙颖莎正手太强了",
-      "onboard_time": 1722344552,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1387197,
       "num": 1387197,
       "word": "papi被高管好友吐槽不求上进",
@@ -4929,6 +5009,14 @@
       "onboard_time": 1722269429,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1292236,
+      "num": 1456263,
+      "word": "英已婚女狱警与囚犯在牢房发生关系",
+      "onboard_time": 1722344968,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1291766,
@@ -5665,6 +5753,14 @@
       "onboard_time": 1722218240,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1187105,
+      "num": 1187105,
+      "word": "刘诗雯又来看混双了",
+      "onboard_time": 1722345634,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 1187056,
@@ -6876,7 +6972,7 @@
     },
     {
       "raw_hot": 1056597,
-      "num": 3377641,
+      "num": 3852728,
       "word": "林心如被霍建华越过亲女儿",
       "onboard_time": 1722337162,
       "rank": 18,
@@ -7225,14 +7321,6 @@
       "onboard_time": 1721884760,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1027295,
-      "num": 1027295,
-      "word": "肖战指导表情",
-      "onboard_time": 1722345391,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 1026994,
@@ -9715,6 +9803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 845067,
+      "num": 845067,
+      "word": "刘国梁颁奖",
+      "onboard_time": 1722348523,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 844972,
       "num": 406470,
       "word": "丁程鑫受伤",
@@ -10961,14 +11057,6 @@
       "onboard_time": 1719888740,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 776454,
-      "num": 776454,
-      "word": "马龙紧握双手",
-      "onboard_time": 1722345992,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 775856,
@@ -13195,14 +13283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 671795,
-      "num": 671795,
-      "word": "混双收视率破8",
-      "onboard_time": 1722345872,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 671554,
       "num": 344535,
       "word": "四川电子税务局",
@@ -13691,6 +13771,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 654460,
+      "num": 3550698,
+      "word": "刘诗诗妮可基德曼同框",
+      "onboard_time": 1722341426,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 654341,
       "num": 654341,
       "word": "苹果用户换机周期变长",
@@ -13732,7 +13820,7 @@
     },
     {
       "raw_hot": 652856,
-      "num": 508088,
+      "num": 596414,
       "word": "德国游泳女将质疑张雨霏",
       "onboard_time": 1722343708,
       "rank": 39,
@@ -17035,6 +17123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 554570,
+      "num": 554570,
+      "word": "乒乓观众席怎么有人一直在指挥啊",
+      "onboard_time": 1722348111,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 554282,
       "num": 554282,
       "word": "全红婵最强拉拉队",
@@ -17712,6 +17808,14 @@
       "word": "国羽小将获胜后仰天告慰张志杰",
       "onboard_time": 1719811340,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 539788,
+      "num": 539788,
+      "word": "郑钦文晋级奥运会八强",
+      "onboard_time": 1722346710,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -20779,6 +20883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 470710,
+      "num": 470710,
+      "word": "混双首金",
+      "onboard_time": 1722348223,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 470544,
       "num": 316886,
       "word": "乌尔善找的冯宝宝有真功夫",
@@ -23003,6 +23115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 433466,
+      "num": 433466,
+      "word": "早六晚十",
+      "onboard_time": 1722348344,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 433411,
       "num": 433411,
       "word": "22岁的王琳好像油画里走出来的",
@@ -23097,14 +23217,6 @@
       "onboard_time": 1721814380,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 432099,
-      "num": 1456263,
-      "word": "英已婚女狱警与囚犯在牢房发生关系",
-      "onboard_time": 1722344968,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 432079,
@@ -24073,14 +24185,6 @@
       "onboard_time": 1721920281,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 414540,
-      "num": 2298645,
-      "word": "刘诗诗妮可基德曼同框",
-      "onboard_time": 1722341426,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 414389,
@@ -30611,6 +30715,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 320210,
+      "num": 1293332,
+      "word": "球迷整齐划一有序为莎头加油",
+      "onboard_time": 1722342987,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 320043,
       "num": 320043,
       "word": "男子400米混合泳决赛",
@@ -34883,6 +34995,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 274206,
+      "num": 780539,
+      "word": "王鹤棣hi6回归黑发",
+      "onboard_time": 1722347337,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 274056,
       "num": 173247,
       "word": "李若彤悼念郑佩佩",
@@ -34991,6 +35111,14 @@
       "num": 273228,
       "word": "官方回应萝卜快跑碰撞事故",
       "onboard_time": 1720595117,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273118,
+      "num": 3474607,
+      "word": "万年县常务副县长回应16岁参加工作",
+      "onboard_time": 1722342629,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -37313,14 +37441,6 @@
       "onboard_time": 1721208559,
       "rank": 43,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 251389,
-      "num": 1188001,
-      "word": "万年县常务副县长回应16岁参加工作",
-      "onboard_time": 1722342629,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 251375,
@@ -42713,6 +42833,14 @@
       "onboard_time": 1721280559,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215827,
+      "num": 779487,
+      "word": "吴尊一家现场观战莎头决赛",
+      "onboard_time": 1722347796,
+      "rank": 28,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 215800,
@@ -53353,6 +53481,14 @@
       "onboard_time": 1720599258,
       "rank": 36,
       "category": "网红"
+    },
+    {
+      "raw_hot": 181108,
+      "num": 301089,
+      "word": "邓为白T中裤",
+      "onboard_time": 1722347858,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 181106,
@@ -73713,14 +73849,6 @@
       "onboard_time": 1720594398,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 108391,
-      "num": 1293332,
-      "word": "球迷整齐划一有序为莎头加油",
-      "onboard_time": 1722342987,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 108361,
