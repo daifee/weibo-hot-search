@@ -1,6 +1,6 @@
 {
   "startTime": 1722356761759,
-  "endTime": 1722375330498,
+  "endTime": 1722377805480,
   "band_list": [
     {
       "raw_hot": 8963687,
@@ -131,6 +131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 860467,
+      "num": 860467,
+      "word": "体操女团 跳马",
+      "onboard_time": 1722363554,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 771663,
       "num": 771663,
       "word": "郑钦文退出奥运混双",
@@ -200,14 +208,6 @@
       "word": "李小双说是教练组的问题别怪运动员",
       "onboard_time": 1722327382,
       "rank": 21,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 594822,
-      "num": 594822,
-      "word": "体操女团 跳马",
-      "onboard_time": 1722363554,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -419,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 307550,
+      "num": 307550,
+      "word": "程菲",
+      "onboard_time": 1722370812,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 299444,
       "num": 299444,
       "word": "这一刻体育无国界了",
@@ -587,20 +595,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174747,
+      "num": 174747,
+      "word": "莎莎感谢大头",
+      "onboard_time": 1722368594,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170912,
       "num": 314154,
       "word": "白蛇",
       "onboard_time": 1722353370,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 169082,
-      "num": 169082,
-      "word": "程菲",
-      "onboard_time": 1722370812,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 167172,
@@ -691,14 +699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 120634,
-      "num": 120634,
-      "word": "莎莎感谢大头",
-      "onboard_time": 1722368594,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 116086,
       "num": 116086,
       "word": "何可欣解说",
@@ -721,6 +721,14 @@
       "onboard_time": 1722369492,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96639,
+      "num": 196948,
+      "word": "妈妈镜头下的肖战",
+      "onboard_time": 1722377183,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 95005,
@@ -755,6 +763,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 78706,
+      "num": 65285,
+      "word": "覃海洋说自己想的太多",
+      "onboard_time": 1722374472,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 75945,
+      "num": 64760,
+      "word": "潘展乐 超人",
+      "onboard_time": 1722374413,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75911,
       "num": 136327,
       "word": "下次手机放兜里记得锁屏",
@@ -771,20 +795,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65090,
-      "num": 65090,
-      "word": "覃海洋说自己想的太多",
-      "onboard_time": 1722374472,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 63505,
       "num": 384017,
       "word": "摄影获奖作品遭多人质疑为AI合成",
       "onboard_time": 1722367393,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63159,
+      "num": 63159,
+      "word": "朝鲜教练是巴黎世乒赛混双冠军",
+      "onboard_time": 1722376815,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 58595,
@@ -820,7 +844,7 @@
     },
     {
       "raw_hot": 50059,
-      "num": 163552,
+      "num": 174754,
       "word": "杨旭文 你们敢说我不敢念啊",
       "onboard_time": 1722367934,
       "rank": 48,
@@ -843,12 +867,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 46400,
+      "num": 65975,
+      "word": "黑田勇树离婚",
+      "onboard_time": 1722374351,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 43743,
+      "num": 63020,
+      "word": "况盛爱女儿人设",
+      "onboard_time": 1722377293,
+      "rank": 44,
+      "category": "网红"
+    },
+    {
       "raw_hot": 43545,
       "num": 162165,
       "word": "卡卡公会赛",
       "onboard_time": 1722370692,
       "rank": 48,
       "category": "网红"
+    },
+    {
+      "raw_hot": 40320,
+      "num": 313725,
+      "word": "北京全市降雨量已达暴雨",
+      "onboard_time": 1722372971,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39525,
@@ -859,20 +907,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30772,
-      "num": 41207,
-      "word": "黑田勇树离婚",
-      "onboard_time": 1722374351,
+      "raw_hot": 30522,
+      "num": 62814,
+      "word": "肖战边界大片质感",
+      "onboard_time": 1722375913,
       "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 21907,
-      "num": 236152,
-      "word": "北京全市降雨量已达暴雨",
-      "onboard_time": 1722372971,
-      "rank": 9,
-      "category": "社会新闻"
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
