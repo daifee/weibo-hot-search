@@ -1,0 +1,410 @@
+{
+  "runTime": 1722320865357,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3009438,
+        "num": 3009438,
+        "word": "王楚钦 你们放过我们",
+        "onboard_time": 1722309021,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2223045,
+        "num": 2223045,
+        "word": "朝鲜混双组合不接受采访",
+        "onboard_time": 1722317723,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29068,
+        "num": 2095080,
+        "word": "暴雨内涝自救避险指南",
+        "onboard_time": 1722305120,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2085602,
+        "num": 2085602,
+        "word": "谢瑜 一枪击破家徒四壁",
+        "onboard_time": 1722317063,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1811372,
+        "num": 1811372,
+        "word": "苏炜德被临时递补进入团队",
+        "onboard_time": 1722313165,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 927585,
+        "num": 927585,
+        "word": "中国体操男团摘银",
+        "onboard_time": 1722276798,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 922547,
+        "num": 922547,
+        "word": "杭州夫妻旅游11天回来发现别墅失火",
+        "onboard_time": 1722312326,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 915166,
+        "num": 915166,
+        "word": "王灿确诊肠易激综合症",
+        "onboard_time": 1722316343,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 706679,
+        "num": 912165,
+        "word": "迪丽热巴恭喜练俊杰夺冠",
+        "onboard_time": 1722314844,
+        "rank": 8,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 59210,
+        "num": 899601,
+        "word": "众多商家遭职业羊毛党勒索",
+        "onboard_time": 1722319221,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129418,
+        "num": 888391,
+        "word": "中国科技震撼巴黎",
+        "onboard_time": 1722315983,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1080691,
+        "num": 875271,
+        "word": "苏炜德赛后道歉",
+        "onboard_time": 1722295640,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 866793,
+        "num": 866793,
+        "word": "北京暴雨",
+        "onboard_time": 1722294918,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 723316,
+        "num": 723316,
+        "word": "莎莎都要走了王楚钦还在燃",
+        "onboard_time": 1722309442,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 671144,
+        "num": 671144,
+        "word": "韩国rapper为完成粉丝公约坠楼身亡",
+        "onboard_time": 1722317543,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 633631,
+        "num": 633631,
+        "word": "女子故意漏扫码同伴提醒还被打手",
+        "onboard_time": 1722310703,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605201,
+        "num": 605201,
+        "word": "金晨说不认识Henry",
+        "onboard_time": 1722317302,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 487630,
+        "num": 487630,
+        "word": "Hani未婚夫承认病患死亡事故",
+        "onboard_time": 1722316164,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 623007,
+        "num": 477153,
+        "word": "六年级小侄女朋友圈屏蔽了全家",
+        "onboard_time": 1722312686,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114814,
+        "num": 467252,
+        "word": "高伟光开创老不死赛道",
+        "onboard_time": 1722320002,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 586850,
+        "num": 467134,
+        "word": "王楚钦提醒孙颖莎和裁判握手",
+        "onboard_time": 1722316343,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 466615,
+        "num": 466615,
+        "word": "苏炜德两次掉杠",
+        "onboard_time": 1722277396,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 466013,
+        "num": 466013,
+        "word": "刘诗诗奥运证件照",
+        "onboard_time": 1722309501,
+        "rank": 22,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 405241,
+        "num": 405241,
+        "word": "谢瑜",
+        "onboard_time": 1722319041,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 390993,
+        "num": 390993,
+        "word": "员工举报酒店给酒席偷放止泻药",
+        "onboard_time": 1722310824,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376903,
+        "num": 376903,
+        "word": "莎头晋级混双决赛",
+        "onboard_time": 1722270287,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373569,
+        "num": 373569,
+        "word": "张若昀唐艺昕结婚多年仍是热恋期",
+        "onboard_time": 1722308962,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 367808,
+        "num": 367808,
+        "word": "金希澈自曝一般恋爱时长2到3周",
+        "onboard_time": 1722320362,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366713,
+        "num": 366713,
+        "word": "莎头战胜韩国队",
+        "onboard_time": 1722270345,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17987,
+        "num": 365507,
+        "word": "法兰西院士痛斥巴黎奥运会开幕式",
+        "onboard_time": 1722320423,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365359,
+        "num": 365359,
+        "word": "向佐为中国游泳队鸣不平",
+        "onboard_time": 1722314006,
+        "rank": 30,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 343154,
+        "num": 343154,
+        "word": "赛后队友纷纷安慰苏炜德",
+        "onboard_time": 1722298105,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 329249,
+        "num": 329249,
+        "word": "苏炜德稳住",
+        "onboard_time": 1722275775,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315391,
+        "num": 315391,
+        "word": "今晚看莎头决赛不用熬夜",
+        "onboard_time": 1722315025,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 314781,
+        "num": 314781,
+        "word": "法国一天一个让韩国破防的小技巧",
+        "onboard_time": 1722309382,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305029,
+        "num": 305029,
+        "word": "李小鹏谈苏炜德两次掉杠",
+        "onboard_time": 1722304702,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302636,
+        "num": 302636,
+        "word": "李梦是天选李清照吧",
+        "onboard_time": 1722318621,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285667,
+        "num": 285667,
+        "word": "倪夏莲拿世界冠军时刘国梁才7岁",
+        "onboard_time": 1722317482,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269518,
+        "num": 269518,
+        "word": "吴磊 炸毛欧美男高",
+        "onboard_time": 1722314425,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262727,
+        "num": 262727,
+        "word": "朱丹周一围的婚纱图是女儿画的",
+        "onboard_time": 1722317183,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 259745,
+        "num": 259745,
+        "word": "马龙没把话说死就一切皆有可能",
+        "onboard_time": 1722314306,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258178,
+        "num": 258178,
+        "word": "体操小将张怡涵获全场掌声伴奏",
+        "onboard_time": 1722312626,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245143,
+        "num": 245143,
+        "word": "坐等今晚八点半",
+        "onboard_time": 1722320661,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236845,
+        "num": 236845,
+        "word": "官方辟谣江西举报县委书记女干部死亡",
+        "onboard_time": 1722315443,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227097,
+        "num": 227097,
+        "word": "孙颖莎称决赛将非常艰苦",
+        "onboard_time": 1722320183,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218647,
+        "num": 218647,
+        "word": "朱志鑫在线征集微博头像",
+        "onboard_time": 1722319342,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217996,
+        "num": 217996,
+        "word": "王楚钦 顶配大学生的存在",
+        "onboard_time": 1722319401,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216495,
+        "num": 216495,
+        "word": "邹敬园赛后落泪太渴望金牌了",
+        "onboard_time": 1722316103,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214818,
+        "num": 214818,
+        "word": "汪顺 光膀子背着双肩包",
+        "onboard_time": 1722320302,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208070,
+        "num": 208070,
+        "word": "王楚钦 暗示这么明显应该懂吧",
+        "onboard_time": 1722295823,
+        "rank": 49,
+        "category": "体育,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂全会决定中的这些名词#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1722270352158,
-  "endTime": 1722317805378,
+  "endTime": 1722320865357,
   "band_list": [
     {
       "raw_hot": 26081799,
@@ -171,6 +171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2223045,
+      "num": 2223045,
+      "word": "朝鲜混双组合不接受采访",
+      "onboard_time": 1722317723,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2187299,
       "num": 2187299,
       "word": "张本智和说观众太吵了",
@@ -192,6 +200,14 @@
       "word": "苏炜德被临时递补进入团队",
       "onboard_time": 1722313165,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2085602,
+      "num": 2085602,
+      "word": "谢瑜 一枪击破家徒四壁",
+      "onboard_time": 1722317063,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -427,12 +443,20 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 911356,
-      "num": 911356,
+      "raw_hot": 922547,
+      "num": 922547,
       "word": "杭州夫妻旅游11天回来发现别墅失火",
       "onboard_time": 1722312326,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 915166,
+      "num": 915166,
+      "word": "王灿确诊肠易激综合症",
+      "onboard_time": 1722316343,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 909949,
@@ -539,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 671144,
+      "num": 671144,
+      "word": "韩国rapper为完成粉丝公约坠楼身亡",
+      "onboard_time": 1722317543,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 668251,
       "num": 668251,
       "word": "朱婷",
@@ -571,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 633631,
+      "num": 633631,
+      "word": "女子故意漏扫码同伴提醒还被打手",
+      "onboard_time": 1722310703,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 629914,
       "num": 629914,
       "word": "刘国栋教练",
@@ -587,12 +627,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 605201,
+      "num": 605201,
+      "word": "金晨说不认识Henry",
+      "onboard_time": 1722317302,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 587501,
       "num": 273645,
       "word": "男子偷女鞋蹲楼道狂舔40分钟",
       "onboard_time": 1722308781,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 586850,
+      "num": 467134,
+      "word": "王楚钦提醒孙颖莎和裁判握手",
+      "onboard_time": 1722316343,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 586734,
@@ -617,14 +673,6 @@
       "onboard_time": 1722278415,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 551376,
-      "num": 551376,
-      "word": "王灿确诊肠易激综合症",
-      "onboard_time": 1722316343,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 540046,
@@ -779,14 +827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 436121,
-      "num": 436121,
-      "word": "王楚钦提醒孙颖莎和裁判握手",
-      "onboard_time": 1722316343,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 433570,
       "num": 433570,
       "word": "女排 紧张",
@@ -867,19 +907,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 405241,
+      "num": 405241,
+      "word": "谢瑜",
+      "onboard_time": 1722319041,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 403894,
       "num": 870906,
       "word": "黄子韬高调示爱徐艺洋",
       "onboard_time": 1722250468,
       "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 403225,
-      "num": 403225,
-      "word": "韩国rapper为完成粉丝公约坠楼身亡",
-      "onboard_time": 1722317543,
-      "rank": 28,
       "category": "艺人"
     },
     {
@@ -920,6 +960,14 @@
       "word": "官方辟谣江西举报县委书记女干部死亡",
       "onboard_time": 1722315443,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 390993,
+      "num": 390993,
+      "word": "员工举报酒店给酒席偷放止泻药",
+      "onboard_time": 1722310824,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -979,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 367808,
+      "num": 367808,
+      "word": "金希澈自曝一般恋爱时长2到3周",
+      "onboard_time": 1722320362,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 359702,
       "num": 233508,
       "word": "干饭哥也有网名羞耻症",
@@ -993,14 +1049,6 @@
       "onboard_time": 1722276197,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 353571,
-      "num": 353571,
-      "word": "员工举报酒店给酒席偷放止泻药",
-      "onboard_time": 1722310824,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 350690,
@@ -1083,28 +1131,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 311768,
-      "num": 311768,
-      "word": "谢瑜 一枪击破家徒四壁",
-      "onboard_time": 1722317063,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 309678,
-      "num": 309678,
-      "word": "金晨说不认识Henry",
-      "onboard_time": 1722317302,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 303626,
       "num": 1851439,
       "word": "苏醒道歉",
       "onboard_time": 1722237201,
       "rank": 34,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 302636,
+      "num": 302636,
+      "word": "李梦是天选李清照吧",
+      "onboard_time": 1722318621,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 301684,
@@ -1185,6 +1225,14 @@
       "onboard_time": 1722317183,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 285667,
+      "num": 285667,
+      "word": "倪夏莲拿世界冠军时刘国梁才7岁",
+      "onboard_time": 1722317482,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 285006,
@@ -1275,27 +1323,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 262033,
-      "num": 262033,
-      "word": "朝鲜混双组合不接受采访",
-      "onboard_time": 1722317723,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 261655,
       "num": 261655,
       "word": "日本体操",
       "onboard_time": 1722275595,
       "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 259028,
-      "num": 259028,
-      "word": "倪夏莲拿世界冠军时刘国梁才7岁",
-      "onboard_time": 1722317482,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -1344,6 +1376,14 @@
       "word": "原来练乒乓球的基本功是做深蹲",
       "onboard_time": 1722300684,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 245143,
+      "num": 245143,
+      "word": "坐等今晚八点半",
+      "onboard_time": 1722320661,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -1464,6 +1504,38 @@
       "word": "王媛媛拦网",
       "onboard_time": 1722276437,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 227097,
+      "num": 227097,
+      "word": "孙颖莎称决赛将非常艰苦",
+      "onboard_time": 1722320183,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 218647,
+      "num": 218647,
+      "word": "朱志鑫在线征集微博头像",
+      "onboard_time": 1722319342,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 217996,
+      "num": 217996,
+      "word": "王楚钦 顶配大学生的存在",
+      "onboard_time": 1722319401,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 214818,
+      "num": 214818,
+      "word": "汪顺 光膀子背着双肩包",
+      "onboard_time": 1722320302,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -1683,6 +1755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129418,
+      "num": 888391,
+      "word": "中国科技震撼巴黎",
+      "onboard_time": 1722315983,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128787,
       "num": 309412,
       "word": "郑佩佩女儿再发文",
@@ -1697,6 +1777,14 @@
       "onboard_time": 1722281713,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114814,
+      "num": 467252,
+      "word": "高伟光开创老不死赛道",
+      "onboard_time": 1722320002,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 106300,
@@ -1755,14 +1843,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 74739,
-      "num": 655463,
-      "word": "中国科技震撼巴黎",
-      "onboard_time": 1722315983,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 73820,
       "num": 209726,
       "word": "刘宇宁很荣幸和陈丽君合作",
@@ -1793,6 +1873,14 @@
       "onboard_time": 1722269606,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 59210,
+      "num": 899601,
+      "word": "众多商家遭职业羊毛党勒索",
+      "onboard_time": 1722319221,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 59005,
@@ -1860,7 +1948,7 @@
     },
     {
       "raw_hot": 38183,
-      "num": 1998048,
+      "num": 2095080,
       "word": "暴雨内涝自救避险指南",
       "onboard_time": 1722305120,
       "rank": 2,
@@ -1897,6 +1985,14 @@
       "onboard_time": 1722291313,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 17987,
+      "num": 365507,
+      "word": "法兰西院士痛斥巴黎奥运会开幕式",
+      "onboard_time": 1722320423,
+      "rank": 29,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
