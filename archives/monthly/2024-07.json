@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1722302650284,
+  "endTime": 1722303942429,
   "band_list": [
     {
       "raw_hot": 26081799,
@@ -4683,6 +4683,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 1288410,
+      "num": 1288410,
+      "word": "北京暴雨",
+      "onboard_time": 1720764678,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1286988,
       "num": 1286988,
       "word": "工资卡限额调整惹争议",
@@ -4819,12 +4827,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1257099,
-      "num": 1257099,
-      "word": "北京暴雨",
-      "onboard_time": 1720764678,
-      "rank": 5,
-      "category": "社会新闻"
+      "raw_hot": 1257405,
+      "num": 1257405,
+      "word": "刘诗诗穿新中式看击剑",
+      "onboard_time": 1722300684,
+      "rank": 6,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 1255147,
@@ -4865,14 +4873,6 @@
       "onboard_time": 1721708421,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1249709,
-      "num": 1249709,
-      "word": "刘诗诗穿新中式看击剑",
-      "onboard_time": 1722300684,
-      "rank": 6,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 1249589,
@@ -6339,6 +6339,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1072832,
+      "num": 878573,
+      "word": "朱婷说这是我最后一届奥运会",
+      "onboard_time": 1722297984,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1072632,
       "num": 1072632,
       "word": "金价",
@@ -6736,14 +6744,6 @@
       "word": "孙颖莎说和王楚钦搭档是缘分",
       "onboard_time": 1722086003,
       "rank": 27,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1038709,
-      "num": 878573,
-      "word": "朱婷说这是我最后一届奥运会",
-      "onboard_time": 1722297984,
-      "rank": 16,
       "category": "体育"
     },
     {
@@ -13187,6 +13187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 652785,
+      "num": 1027793,
+      "word": "黄子韬说要挽回下形象",
+      "onboard_time": 1722300684,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 652601,
       "num": 590052,
       "word": "特朗普遇刺照拍摄者是普利策奖得主",
@@ -13425,6 +13433,14 @@
       "onboard_time": 1721379741,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 641403,
+      "num": 590210,
+      "word": "赛后队友纷纷安慰苏炜德",
+      "onboard_time": 1722298105,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 641397,
@@ -13963,6 +13979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 623059,
+      "num": 564238,
+      "word": "张博恒快碎了",
+      "onboard_time": 1722299605,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 622996,
       "num": 622996,
       "word": "杨倩祝贺黄雨婷盛李豪夺金",
@@ -14081,14 +14105,6 @@
       "onboard_time": 1720847537,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 619464,
-      "num": 1027793,
-      "word": "黄子韬说要挽回下形象",
-      "onboard_time": 1722300684,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 619175,
@@ -15040,14 +15056,6 @@
       "word": "全红婵说自己头发油到可以炒菜了",
       "onboard_time": 1721693902,
       "rank": 26,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 590210,
-      "num": 590210,
-      "word": "赛后队友纷纷安慰苏炜德",
-      "onboard_time": 1722298105,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -16057,14 +16065,6 @@
       "onboard_time": 1721746402,
       "rank": 7,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 564238,
-      "num": 564238,
-      "word": "张博恒快碎了",
-      "onboard_time": 1722299605,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 564103,
@@ -22547,6 +22547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 427369,
+      "num": 925385,
+      "word": "多地大暴雨来袭",
+      "onboard_time": 1722300323,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 427363,
       "num": 427363,
       "word": "小米获独立造车资质",
@@ -23651,6 +23659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 407213,
+      "num": 755362,
+      "word": "唐朝诡事录恢复连更",
+      "onboard_time": 1722301403,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 407103,
       "num": 407103,
       "word": "做完近视手术后还可能再近视",
@@ -23912,6 +23928,14 @@
       "word": "阿根廷vs厄瓜多尔",
       "onboard_time": 1720143316,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 401561,
+      "num": 290727,
+      "word": "徐嘉余回应夺银",
+      "onboard_time": 1722303922,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -24324,7 +24348,7 @@
     },
     {
       "raw_hot": 396443,
-      "num": 252216,
+      "num": 290101,
       "word": "奥运会上最准的一枪出现了",
       "onboard_time": 1722296661,
       "rank": 37,
@@ -25473,6 +25497,14 @@
       "onboard_time": 1720351578,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376007,
+      "num": 290386,
+      "word": "一睁眼发现中国队新添3枚银牌",
+      "onboard_time": 1722302902,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 375950,
@@ -27649,14 +27681,6 @@
       "onboard_time": 1719983958,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 344871,
-      "num": 755362,
-      "word": "唐朝诡事录恢复连更",
-      "onboard_time": 1722301403,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 344822,
@@ -30035,6 +30059,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 312082,
+      "num": 312082,
+      "word": "iPhone通话录音会事先通知",
+      "onboard_time": 1722302063,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 312013,
       "num": 312013,
       "word": "涂山璟角色热度破1亿",
@@ -32059,6 +32091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 289855,
+      "num": 289855,
+      "word": "黄雨婷解释阿条本条名字由来",
+      "onboard_time": 1722302244,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 289848,
       "num": 289848,
       "word": "查理苏生日卡",
@@ -32833,6 +32873,14 @@
       "onboard_time": 1721789779,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282945,
+      "num": 353743,
+      "word": "陈思诚还能拍出爆款吗",
+      "onboard_time": 1722301224,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 282812,
@@ -34121,14 +34169,6 @@
       "onboard_time": 1722238941,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268568,
-      "num": 268568,
-      "word": "陈思诚还能拍出爆款吗",
-      "onboard_time": 1722301224,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 268402,
@@ -35803,14 +35843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 252981,
-      "num": 250664,
-      "word": "黄雨婷解释阿条本条名字由来",
-      "onboard_time": 1722302244,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 252908,
       "num": 252908,
       "word": "湖南为何成为暴雨中心",
@@ -37331,6 +37363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240549,
+      "num": 240549,
+      "word": "国乒全队沸腾了",
+      "onboard_time": 1722301464,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 240493,
       "num": 240493,
       "word": "第五人格心跳特辑",
@@ -37377,6 +37417,14 @@
       "onboard_time": 1720932205,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 240078,
+      "num": 240078,
+      "word": "老外的北京旅行模拟器好city啊",
+      "onboard_time": 1722303501,
+      "rank": 44,
+      "category": "旅游"
     },
     {
       "raw_hot": 240077,
@@ -37553,6 +37601,14 @@
       "onboard_time": 1721694560,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 239154,
+      "num": 239154,
+      "word": "朱婷回应中国女排开门红",
+      "onboard_time": 1722302843,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 239090,
@@ -38809,14 +38865,6 @@
       "onboard_time": 1721533699,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 230501,
-      "num": 230501,
-      "word": "iPhone通话录音会事先通知",
-      "onboard_time": 1722302063,
-      "rank": 46,
-      "category": "数码"
     },
     {
       "raw_hot": 230461,
@@ -42984,14 +43032,6 @@
       "word": "加沙小兔子衣服女童惊恐睁大眼睛",
       "onboard_time": 1721352203,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208167,
-      "num": 925385,
-      "word": "多地大暴雨来袭",
-      "onboard_time": 1722300323,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -69235,6 +69275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 119813,
+      "num": 507805,
+      "word": "10余省份有大到暴雨",
+      "onboard_time": 1722302721,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119771,
       "num": 119771,
       "word": "广式早茶为何在北方不火",
@@ -79761,6 +79809,14 @@
       "onboard_time": 1719925218,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 52888,
+      "num": 401410,
+      "word": "北京今天局地降雨量将超100毫米",
+      "onboard_time": 1722303321,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52812,

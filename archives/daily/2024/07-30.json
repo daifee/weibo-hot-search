@@ -1,6 +1,6 @@
 {
   "startTime": 1722270352158,
-  "endTime": 1722302650284,
+  "endTime": 1722303942429,
   "band_list": [
     {
       "raw_hot": 26081799,
@@ -267,8 +267,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1249709,
-      "num": 1249709,
+      "raw_hot": 1288410,
+      "num": 1288410,
+      "word": "北京暴雨",
+      "onboard_time": 1722294918,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1257405,
+      "num": 1257405,
       "word": "刘诗诗穿新中式看击剑",
       "onboard_time": 1722300684,
       "rank": 6,
@@ -291,20 +299,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1038709,
+      "raw_hot": 1072832,
       "num": 878573,
       "word": "朱婷说这是我最后一届奥运会",
       "onboard_time": 1722297984,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1034406,
-      "num": 1034406,
-      "word": "北京暴雨",
-      "onboard_time": 1722294918,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1002420,
@@ -427,6 +427,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 652785,
+      "num": 1027793,
+      "word": "黄子韬说要挽回下形象",
+      "onboard_time": 1722300684,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 641403,
+      "num": 590210,
+      "word": "赛后队友纷纷安慰苏炜德",
+      "onboard_time": 1722298105,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 629914,
       "num": 629914,
       "word": "刘国栋教练",
@@ -435,19 +451,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 619464,
-      "num": 1027793,
-      "word": "黄子韬说要挽回下形象",
-      "onboard_time": 1722300684,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 590210,
-      "num": 590210,
-      "word": "赛后队友纷纷安慰苏炜德",
-      "onboard_time": 1722298105,
-      "rank": 30,
+      "raw_hot": 623059,
+      "num": 564238,
+      "word": "张博恒快碎了",
+      "onboard_time": 1722299605,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -456,14 +464,6 @@
       "word": "刘雨辰欧烜屹vs丹麦组合",
       "onboard_time": 1722261384,
       "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 564238,
-      "num": 564238,
-      "word": "张博恒快碎了",
-      "onboard_time": 1722299605,
-      "rank": 31,
       "category": "体育"
     },
     {
@@ -587,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 427369,
+      "num": 925385,
+      "word": "多地大暴雨来袭",
+      "onboard_time": 1722300323,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 423447,
       "num": 2193318,
       "word": "黄雨婷想去看十个勤天演唱会",
@@ -619,12 +627,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 407213,
+      "num": 755362,
+      "word": "唐朝诡事录恢复连更",
+      "onboard_time": 1722301403,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 403894,
       "num": 870906,
       "word": "黄子韬高调示爱徐艺洋",
       "onboard_time": 1722250468,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 401561,
+      "num": 290727,
+      "word": "徐嘉余回应夺银",
+      "onboard_time": 1722303922,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 398458,
@@ -636,7 +660,7 @@
     },
     {
       "raw_hot": 396443,
-      "num": 252216,
+      "num": 290101,
       "word": "奥运会上最准的一枪出现了",
       "onboard_time": 1722296661,
       "rank": 37,
@@ -656,6 +680,14 @@
       "word": "樊振东vs扎穆登科",
       "onboard_time": 1722246981,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 376007,
+      "num": 290386,
+      "word": "一睁眼发现中国队新添3枚银牌",
+      "onboard_time": 1722302902,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -691,14 +723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 344871,
-      "num": 755362,
-      "word": "唐朝诡事录恢复连更",
-      "onboard_time": 1722301403,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 330973,
       "num": 330973,
       "word": "单杠",
@@ -713,6 +737,14 @@
       "onboard_time": 1722266370,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 312082,
+      "num": 312082,
+      "word": "iPhone通话录音会事先通知",
+      "onboard_time": 1722302063,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 303626,
@@ -763,6 +795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 289855,
+      "num": 289855,
+      "word": "黄雨婷解释阿条本条名字由来",
+      "onboard_time": 1722302244,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 288607,
       "num": 261794,
       "word": "儿子一觉醒来变得水灵灵了",
@@ -787,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 282945,
+      "num": 353743,
+      "word": "陈思诚还能拍出爆款吗",
+      "onboard_time": 1722301224,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 281538,
       "num": 593647,
       "word": "王彦霖开幕式淋雨发低烧",
@@ -809,14 +857,6 @@
       "onboard_time": 1722267567,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 268568,
-      "num": 268568,
-      "word": "陈思诚还能拍出爆款吗",
-      "onboard_time": 1722301224,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 266742,
@@ -848,14 +888,6 @@
       "word": "日本体操",
       "onboard_time": 1722275595,
       "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 252981,
-      "num": 250664,
-      "word": "黄雨婷解释阿条本条名字由来",
-      "onboard_time": 1722302244,
-      "rank": 43,
       "category": "体育"
     },
     {
@@ -891,6 +923,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 240549,
+      "num": 240549,
+      "word": "国乒全队沸腾了",
+      "onboard_time": 1722301464,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 240078,
+      "num": 240078,
+      "word": "老外的北京旅行模拟器好city啊",
+      "onboard_time": 1722303501,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 239154,
+      "num": 239154,
+      "word": "朱婷回应中国女排开门红",
+      "onboard_time": 1722302843,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234243,
       "num": 234243,
       "word": "中国女排送卫冕冠军首败",
@@ -915,14 +971,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 230501,
-      "num": 230501,
-      "word": "iPhone通话录音会事先通知",
-      "onboard_time": 1722302063,
-      "rank": 46,
-      "category": "数码"
-    },
-    {
       "raw_hot": 229164,
       "num": 229164,
       "word": "体操太可惜了",
@@ -945,14 +993,6 @@
       "onboard_time": 1722294559,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 208167,
-      "num": 925385,
-      "word": "多地大暴雨来袭",
-      "onboard_time": 1722300323,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189473,
@@ -1099,6 +1139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119813,
+      "num": 507805,
+      "word": "10余省份有大到暴雨",
+      "onboard_time": 1722302721,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106300,
       "num": 106300,
       "word": "徐嘉余奥运第3银",
@@ -1161,6 +1209,14 @@
       "onboard_time": 1722288732,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52888,
+      "num": 401410,
+      "word": "北京今天局地降雨量将超100毫米",
+      "onboard_time": 1722303321,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39328,

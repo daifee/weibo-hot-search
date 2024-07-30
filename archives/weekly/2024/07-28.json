@@ -1,6 +1,6 @@
 {
   "startTime": 1722097426384,
-  "endTime": 1722302650284,
+  "endTime": 1722303942429,
   "band_list": [
     {
       "raw_hot": 26081799,
@@ -1131,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1288410,
+      "num": 1288410,
+      "word": "北京暴雨",
+      "onboard_time": 1722294918,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1286356,
       "num": 1286356,
       "word": "巴黎奥运 韩国人破防",
@@ -1155,8 +1163,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1249709,
-      "num": 1249709,
+      "raw_hot": 1257405,
+      "num": 1257405,
       "word": "刘诗诗穿新中式看击剑",
       "onboard_time": 1722300684,
       "rank": 6,
@@ -1419,6 +1427,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 1072832,
+      "num": 878573,
+      "word": "朱婷说这是我最后一届奥运会",
+      "onboard_time": 1722297984,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1060224,
       "num": 1060224,
       "word": "马龙观赛莎头",
@@ -1467,28 +1483,12 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 1038709,
-      "num": 878573,
-      "word": "朱婷说这是我最后一届奥运会",
-      "onboard_time": 1722297984,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1037734,
       "num": 1037734,
       "word": "女篮 紧张",
       "onboard_time": 1722173842,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1034406,
-      "num": 1034406,
-      "word": "北京暴雨",
-      "onboard_time": 1722294918,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1026994,
@@ -2107,6 +2107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 652785,
+      "num": 1027793,
+      "word": "黄子韬说要挽回下形象",
+      "onboard_time": 1722300684,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 651107,
       "num": 651107,
       "word": "陈思诚 我没有模仿任何人",
@@ -2136,6 +2144,14 @@
       "word": "射击比赛真的刺激",
       "onboard_time": 1722153439,
       "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 641403,
+      "num": 590210,
+      "word": "赛后队友纷纷安慰苏炜德",
+      "onboard_time": 1722298105,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -2187,6 +2203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 623059,
+      "num": 564238,
+      "word": "张博恒快碎了",
+      "onboard_time": 1722299605,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 621665,
       "num": 621665,
       "word": "湖南衡阳山体滑坡",
@@ -2209,14 +2233,6 @@
       "onboard_time": 1722090923,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 619464,
-      "num": 1027793,
-      "word": "黄子韬说要挽回下形象",
-      "onboard_time": 1722300684,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 617309,
@@ -2312,14 +2328,6 @@
       "word": "王楚钦",
       "onboard_time": 1722184940,
       "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 590210,
-      "num": 590210,
-      "word": "赛后队友纷纷安慰苏炜德",
-      "onboard_time": 1722298105,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -2432,14 +2440,6 @@
       "word": "中国女篮半场领先西班牙4分",
       "onboard_time": 1722169889,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 564238,
-      "num": 564238,
-      "word": "张博恒快碎了",
-      "onboard_time": 1722299605,
-      "rank": 31,
       "category": "体育"
     },
     {
@@ -3083,6 +3083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 427369,
+      "num": 925385,
+      "word": "多地大暴雨来袭",
+      "onboard_time": 1722300323,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424947,
       "num": 424947,
       "word": "干饭哥 淡人",
@@ -3171,6 +3179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 407213,
+      "num": 755362,
+      "word": "唐朝诡事录恢复连更",
+      "onboard_time": 1722301403,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 406889,
       "num": 406889,
       "word": "阿条姐领奖",
@@ -3192,6 +3208,14 @@
       "word": "陈雨菲vs李怡逢",
       "onboard_time": 1722172761,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 401561,
+      "num": 290727,
+      "word": "徐嘉余回应夺银",
+      "onboard_time": 1722303922,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -3220,7 +3244,7 @@
     },
     {
       "raw_hot": 396443,
-      "num": 252216,
+      "num": 290101,
       "word": "奥运会上最准的一枪出现了",
       "onboard_time": 1722296661,
       "rank": 37,
@@ -3392,6 +3416,14 @@
       "word": "陈雨浓自曝已经订婚",
       "onboard_time": 1722134242,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 376007,
+      "num": 290386,
+      "word": "一睁眼发现中国队新添3枚银牌",
+      "onboard_time": 1722302902,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -3649,14 +3681,6 @@
       "onboard_time": 1722236482,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 344871,
-      "num": 755362,
-      "word": "唐朝诡事录恢复连更",
-      "onboard_time": 1722301403,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 342888,
@@ -4075,6 +4099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312082,
+      "num": 312082,
+      "word": "iPhone通话录音会事先通知",
+      "onboard_time": 1722302063,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 311987,
       "num": 311987,
       "word": "奥运会赛程",
@@ -4387,6 +4419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 289855,
+      "num": 289855,
+      "word": "黄雨婷解释阿条本条名字由来",
+      "onboard_time": 1722302244,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 289845,
       "num": 289845,
       "word": "李诗沣奥运首胜",
@@ -4481,6 +4521,14 @@
       "onboard_time": 1722233663,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 282945,
+      "num": 353743,
+      "word": "陈思诚还能拍出爆款吗",
+      "onboard_time": 1722301224,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 281538,
@@ -4657,14 +4705,6 @@
       "onboard_time": 1722238941,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268568,
-      "num": 268568,
-      "word": "陈思诚还能拍出爆款吗",
-      "onboard_time": 1722301224,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 268381,
@@ -4947,14 +4987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 252981,
-      "num": 250664,
-      "word": "黄雨婷解释阿条本条名字由来",
-      "onboard_time": 1722302244,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 252908,
       "num": 252908,
       "word": "湖南为何成为暴雨中心",
@@ -5123,6 +5155,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 240549,
+      "num": 240549,
+      "word": "国乒全队沸腾了",
+      "onboard_time": 1722301464,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 240078,
+      "num": 240078,
+      "word": "老外的北京旅行模拟器好city啊",
+      "onboard_time": 1722303501,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 239888,
       "num": 782013,
       "word": "一张卡牌评级后卖到21万元",
@@ -5145,6 +5193,14 @@
       "onboard_time": 1722146119,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 239154,
+      "num": 239154,
+      "word": "朱婷回应中国女排开门红",
+      "onboard_time": 1722302843,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 238324,
@@ -5281,14 +5337,6 @@
       "onboard_time": 1722138683,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 230501,
-      "num": 230501,
-      "word": "iPhone通话录音会事先通知",
-      "onboard_time": 1722302063,
-      "rank": 46,
-      "category": "数码"
     },
     {
       "raw_hot": 230228,
@@ -5601,14 +5649,6 @@
       "onboard_time": 1722234261,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 208167,
-      "num": 925385,
-      "word": "多地大暴雨来袭",
-      "onboard_time": 1722300323,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208082,
@@ -6579,6 +6619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119813,
+      "num": 507805,
+      "word": "10余省份有大到暴雨",
+      "onboard_time": 1722302721,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118946,
       "num": 698493,
       "word": "盛李豪赛后回应微博名",
@@ -7152,6 +7200,14 @@
       "word": "法拍律师眼中的断供潮",
       "onboard_time": 1722240022,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52888,
+      "num": 401410,
+      "word": "北京今天局地降雨量将超100毫米",
+      "onboard_time": 1722303321,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
