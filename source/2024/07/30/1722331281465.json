@@ -1,0 +1,410 @@
+{
+  "runTime": 1722331281465,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6034266,
+        "num": 6034266,
+        "word": "李小双怒斥中国体操教练组",
+        "onboard_time": 1722327382,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2025719,
+        "num": 2025719,
+        "word": "陈梦翡翠项链",
+        "onboard_time": 1722327561,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40309,
+        "num": 1516604,
+        "word": "8月这批新规将施行",
+        "onboard_time": 1722315265,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1504891,
+        "num": 1504891,
+        "word": "孙颖莎暗号手势算是看明白了",
+        "onboard_time": 1722321441,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1399673,
+        "num": 1399673,
+        "word": "王楚钦 你们放过我们",
+        "onboard_time": 1722309021,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1336828,
+        "num": 1336828,
+        "word": "陈梦晋级女单16强",
+        "onboard_time": 1722329723,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 990953,
+        "num": 990953,
+        "word": "埃及击剑选手已怀孕7个月",
+        "onboard_time": 1722323662,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 549276,
+        "num": 988411,
+        "word": "檀健次用九年前截图评论摄影师",
+        "onboard_time": 1722325281,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 426361,
+        "num": 948415,
+        "word": "专家不理解吴昕想去养老院的想法",
+        "onboard_time": 1722321922,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169181,
+        "num": 938034,
+        "word": "整治形式主义为基层减负若干规定",
+        "onboard_time": 1722330262,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1537397,
+        "num": 900596,
+        "word": "况盛前女友",
+        "onboard_time": 1722328281,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 892840,
+        "num": 892840,
+        "word": "陈梦vs伯格斯特隆",
+        "onboard_time": 1722325522,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 837384,
+        "num": 837384,
+        "word": "朝鲜混双组合不接受采访",
+        "onboard_time": 1722317723,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 751341,
+        "num": 751341,
+        "word": "北京暴雨",
+        "onboard_time": 1722294918,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519314,
+        "num": 519314,
+        "word": "中通快运就寄错医疗器械道歉",
+        "onboard_time": 1722326061,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 773221,
+        "num": 519056,
+        "word": "苏炜德赛后道歉",
+        "onboard_time": 1722295640,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 752747,
+        "num": 516072,
+        "word": "削球手",
+        "onboard_time": 1722327683,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 597179,
+        "num": 510543,
+        "word": "苏炜德被临时递补进入团队",
+        "onboard_time": 1722313165,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 326811,
+        "num": 507905,
+        "word": "迪丽热巴恭喜练俊杰夺冠",
+        "onboard_time": 1722314844,
+        "rank": 18,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 259069,
+        "num": 507104,
+        "word": "胡歌拍了四年繁花没去过黄河路",
+        "onboard_time": 1722323362,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 905402,
+        "num": 503925,
+        "word": "孙颖莎把自己的资料填的好详细",
+        "onboard_time": 1722328162,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 825920,
+        "num": 500408,
+        "word": "全红婵跳水时现场有多安静",
+        "onboard_time": 1722328342,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 498037,
+        "num": 498037,
+        "word": "谢瑜 一枪击破家徒四壁",
+        "onboard_time": 1722317063,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 456354,
+        "num": 456354,
+        "word": "孙颖莎的手掌全是厚厚的茧",
+        "onboard_time": 1722329183,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 447034,
+        "num": 447034,
+        "word": "中国体操男团摘银",
+        "onboard_time": 1722276798,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 436937,
+        "num": 436937,
+        "word": "孙杨说泳池深浅对比赛影响很大",
+        "onboard_time": 1722321261,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 429891,
+        "num": 429891,
+        "word": "小马宝莉卡 16万一张",
+        "onboard_time": 1722330262,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399270,
+        "num": 399270,
+        "word": "好man喔 他不嫌勒诶",
+        "onboard_time": 1722324562,
+        "rank": 27,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 237690,
+        "num": 389201,
+        "word": "韩国rapper为完成粉丝公约坠楼身亡",
+        "onboard_time": 1722317543,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187417,
+        "num": 387143,
+        "word": "王灿确诊肠易激综合症",
+        "onboard_time": 1722316343,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385381,
+        "num": 385381,
+        "word": "孙杨说今年一定会重登赛场",
+        "onboard_time": 1722327083,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 379060,
+        "num": 379060,
+        "word": "宁泽涛和孙杨到底听谁的",
+        "onboard_time": 1722330862,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 344660,
+        "num": 344660,
+        "word": "独居女孩遭陌生男十多次趴门偷听",
+        "onboard_time": 1722324261,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273455,
+        "num": 273455,
+        "word": "杭州夫妻旅游11天回来发现别墅失火",
+        "onboard_time": 1722312326,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256064,
+        "num": 256064,
+        "word": "NCT总选",
+        "onboard_time": 1722328222,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370167,
+        "num": 254373,
+        "word": "游泳预赛",
+        "onboard_time": 1722330862,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 335525,
+        "num": 249630,
+        "word": "巴黎奥运会开幕式蓝精灵致歉",
+        "onboard_time": 1722329602,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243845,
+        "num": 243845,
+        "word": "金希澈自曝一般恋爱时长2到3周",
+        "onboard_time": 1722320362,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242308,
+        "num": 242308,
+        "word": "人民网评不以金牌论成败",
+        "onboard_time": 1722324681,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217614,
+        "num": 217614,
+        "word": "夜玫瑰的曲",
+        "onboard_time": 1722323000,
+        "rank": 39,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 209271,
+        "num": 209271,
+        "word": "徐嘉余大笑说让你们失望了",
+        "onboard_time": 1722322163,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200462,
+        "num": 200462,
+        "word": "女子故意漏扫码同伴提醒还被打手",
+        "onboard_time": 1722310703,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199335,
+        "num": 199335,
+        "word": "王楚钦提醒孙颖莎和裁判握手",
+        "onboard_time": 1722316343,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175321,
+        "num": 195986,
+        "word": "钟楚曦宋洋二搭 前夫哥不饿了",
+        "onboard_time": 1722329483,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195896,
+        "num": 195896,
+        "word": "莎头战胜韩国队",
+        "onboard_time": 1722270345,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195653,
+        "num": 195653,
+        "word": "拼多多旗下平台Temu惹怒卖家",
+        "onboard_time": 1722329845,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 194939,
+        "num": 194939,
+        "word": "朝鲜混双教练",
+        "onboard_time": 1722327803,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194796,
+        "num": 194796,
+        "word": "小马宝莉卡成了小学生的社交货币",
+        "onboard_time": 1722326421,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192785,
+        "num": 192785,
+        "word": "全网都在等今晚的神仙大战",
+        "onboard_time": 1722330803,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163455,
+        "num": 191302,
+        "word": "百花奖恭喜张艺兴",
+        "onboard_time": 1722325702,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂全会决定中的这些名词#"
+    }
+  }
+}

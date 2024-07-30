@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1722328619402,
+  "endTime": 1722331281465,
   "band_list": [
     {
       "raw_hot": 26081799,
@@ -440,6 +440,14 @@
       "word": "莎头战胜韩国队",
       "onboard_time": 1722270345,
       "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 6034266,
+      "num": 6034266,
+      "word": "李小双怒斥中国体操教练组",
+      "onboard_time": 1722327382,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -1947,6 +1955,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 2025719,
+      "num": 2025719,
+      "word": "陈梦翡翠项链",
+      "onboard_time": 1722327561,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2007729,
       "num": 2007729,
       "word": "蜜雪冰城1元冰杯惹怒两拨打工人",
@@ -3395,6 +3411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1537397,
+      "num": 900596,
+      "word": "况盛前女友",
+      "onboard_time": 1722328281,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1534296,
       "num": 361922,
       "word": "越来越多男性用阳伞",
@@ -4481,6 +4505,14 @@
       "onboard_time": 1721795661,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1336828,
+      "num": 1336828,
+      "word": "陈梦晋级女单16强",
+      "onboard_time": 1722329723,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 1332163,
@@ -8443,6 +8475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 905402,
+      "num": 503925,
+      "word": "孙颖莎把自己的资料填的好详细",
+      "onboard_time": 1722328162,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 905104,
       "num": 364271,
       "word": "金秀贤 偷偷藏不住",
@@ -9769,6 +9809,14 @@
       "onboard_time": 1722310703,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 825920,
+      "num": 500408,
+      "word": "全红婵跳水时现场有多安静",
+      "onboard_time": 1722328342,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 825863,
@@ -11137,6 +11185,14 @@
       "onboard_time": 1721723241,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 752747,
+      "num": 516072,
+      "word": "削球手",
+      "onboard_time": 1722327683,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 751751,
@@ -14587,14 +14643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 610179,
-      "num": 437840,
-      "word": "削球手",
-      "onboard_time": 1722327683,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 610142,
       "num": 331569,
       "word": "缉毒卧底连续偶遇警察同事",
@@ -15417,14 +15465,6 @@
       "onboard_time": 1719984498,
       "rank": 43,
       "category": "科学科普,健康医疗"
-    },
-    {
-      "raw_hot": 587921,
-      "num": 405872,
-      "word": "李小双怒斥中国体操教练组",
-      "onboard_time": 1722327382,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 587745,
@@ -16923,6 +16963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 549276,
+      "num": 988411,
+      "word": "檀健次用九年前截图评论摄影师",
+      "onboard_time": 1722325281,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 549259,
       "num": 323447,
       "word": "自助餐为什么不受欢迎了",
@@ -18065,6 +18113,14 @@
       "onboard_time": 1720192279,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 519314,
+      "num": 876317,
+      "word": "中通快运就寄错医疗器械道歉",
+      "onboard_time": 1722326061,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 519304,
@@ -21043,6 +21099,14 @@
       "category": "作品衍生,体育"
     },
     {
+      "raw_hot": 456354,
+      "num": 456354,
+      "word": "孙颖莎的手掌全是厚厚的茧",
+      "onboard_time": 1722329183,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 456267,
       "num": 456267,
       "word": "LPR",
@@ -21545,14 +21609,6 @@
       "onboard_time": 1720662618,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 448119,
-      "num": 901224,
-      "word": "檀健次用九年前截图评论摄影师",
-      "onboard_time": 1722325281,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 448050,
@@ -22817,6 +22873,14 @@
       "onboard_time": 1720580239,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 429891,
+      "num": 429891,
+      "word": "小马宝莉卡 16万一张",
+      "onboard_time": 1722330262,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 429754,
@@ -24579,6 +24643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 399270,
+      "num": 399270,
+      "word": "好man喔 他不嫌勒诶",
+      "onboard_time": 1722324562,
+      "rank": 40,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 399207,
       "num": 399207,
       "word": "中国队 松弛感",
@@ -25403,6 +25475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 385381,
+      "num": 385381,
+      "word": "孙杨说今年一定会重登赛场",
+      "onboard_time": 1722327083,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 385376,
       "num": 361872,
       "word": "郑好好才11岁",
@@ -25745,6 +25825,14 @@
       "onboard_time": 1720277778,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 379060,
+      "num": 379060,
+      "word": "宁泽涛和孙杨到底听谁的",
+      "onboard_time": 1722330862,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 378869,
@@ -27435,14 +27523,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 353206,
-      "num": 353206,
-      "word": "况盛前女友",
-      "onboard_time": 1722328281,
-      "rank": 25,
-      "category": "网红"
-    },
-    {
       "raw_hot": 353186,
       "num": 353186,
       "word": "奥运会 入场穿插表演",
@@ -28787,6 +28867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 335525,
+      "num": 249630,
+      "word": "巴黎奥运会开幕式蓝精灵致歉",
+      "onboard_time": 1722329602,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 335514,
       "num": 335514,
       "word": "刘亦菲又在当GAI溜子",
@@ -30081,14 +30169,6 @@
       "onboard_time": 1721113698,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 319790,
-      "num": 319790,
-      "word": "陈梦翡翠项链",
-      "onboard_time": 1722327561,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 319784,
@@ -35491,14 +35571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 261499,
-      "num": 261499,
-      "word": "孙杨说今年一定会重登赛场",
-      "onboard_time": 1722327083,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 261475,
       "num": 261475,
       "word": "黄宣心中的歌手前三名",
@@ -36083,6 +36155,14 @@
       "category": "社会新闻,科学科普"
     },
     {
+      "raw_hot": 256064,
+      "num": 256064,
+      "word": "NCT总选",
+      "onboard_time": 1722328222,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256031,
       "num": 256031,
       "word": "县城文学是怎么火爆全网的",
@@ -36217,14 +36297,6 @@
       "onboard_time": 1721446099,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 254462,
-      "num": 254462,
-      "word": "好man喔 他不嫌勒诶",
-      "onboard_time": 1722324562,
-      "rank": 40,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 254434,
@@ -36513,14 +36585,6 @@
       "onboard_time": 1721603536,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 252929,
-      "num": 876317,
-      "word": "中通快运就寄错医疗器械道歉",
-      "onboard_time": 1722326061,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 252908,
@@ -40315,14 +40379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225916,
-      "num": 225916,
-      "word": "全红婵跳水时现场有多安静",
-      "onboard_time": 1722328342,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 225909,
       "num": 225909,
       "word": "没想到能再看一次灌篮高手",
@@ -41209,14 +41265,6 @@
       "onboard_time": 1721642722,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 220122,
-      "num": 220122,
-      "word": "孙颖莎把自己的资料填的好详细",
-      "onboard_time": 1722328162,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 220111,
@@ -45331,14 +45379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203242,
-      "num": 203242,
-      "word": "NCT总选",
-      "onboard_time": 1722328222,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 203234,
       "num": 203234,
       "word": "蔡依林uglybeauty演唱会",
@@ -48099,6 +48139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 195653,
+      "num": 195653,
+      "word": "拼多多旗下平台Temu惹怒卖家",
+      "onboard_time": 1722329845,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 195648,
       "num": 195648,
       "word": "被喜欢的人选择激动哭",
@@ -48281,6 +48329,14 @@
       "onboard_time": 1720614618,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194796,
+      "num": 1021158,
+      "word": "小马宝莉卡成了小学生的社交货币",
+      "onboard_time": 1722326421,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194791,
@@ -49041,6 +49097,14 @@
       "onboard_time": 1721359295,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192785,
+      "num": 192785,
+      "word": "全网都在等今晚的神仙大战",
+      "onboard_time": 1722330803,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 192735,
@@ -50881,14 +50945,6 @@
       "onboard_time": 1721544440,
       "rank": 35,
       "category": "教育"
-    },
-    {
-      "raw_hot": 187758,
-      "num": 1021158,
-      "word": "小马宝莉卡成了小学生的社交货币",
-      "onboard_time": 1722326421,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187741,
@@ -54323,6 +54379,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 175321,
+      "num": 195986,
+      "word": "钟楚曦宋洋二搭 前夫哥不饿了",
+      "onboard_time": 1722329483,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 175315,
       "num": 175315,
       "word": "杨紫粉色无袖连衣裙",
@@ -56121,6 +56185,14 @@
       "onboard_time": 1721123960,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 169181,
+      "num": 938034,
+      "word": "整治形式主义为基层减负若干规定",
+      "onboard_time": 1722330262,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 169179,
@@ -82921,6 +82993,14 @@
       "onboard_time": 1719913999,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 40309,
+      "num": 1516604,
+      "word": "8月这批新规将施行",
+      "onboard_time": 1722315265,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40304,
