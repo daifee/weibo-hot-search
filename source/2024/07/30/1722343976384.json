@@ -1,0 +1,410 @@
+{
+  "runTime": 1722343976384,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 20286484,
+        "num": 20286484,
+        "word": "王楚钦孙颖莎vs李正植金琴英",
+        "onboard_time": 1722340824,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13792680,
+        "num": 13792680,
+        "word": "乒乓球混双铜牌赛",
+        "onboard_time": 1722337881,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3308552,
+        "num": 3308552,
+        "word": "乒乓球混双决赛",
+        "onboard_time": 1722340824,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2250886,
+        "num": 2250886,
+        "word": "王楚钦 你们放过我们",
+        "onboard_time": 1722309021,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2012443,
+        "num": 2012443,
+        "word": "倪夏莲陪练 朝鲜女选手打法",
+        "onboard_time": 1722338122,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1427653,
+        "num": 1427653,
+        "word": "林钟勋不用服兵役了",
+        "onboard_time": 1722342691,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 750221,
+        "num": 750221,
+        "word": "林心如被霍建华越过亲女儿",
+        "onboard_time": 1722337162,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 595856,
+        "num": 595856,
+        "word": "十个勤天同时关注黄雨婷了",
+        "onboard_time": 1722341004,
+        "rank": 7,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 426807,
+        "num": 426807,
+        "word": "李明接替方星海任证监会副主席",
+        "onboard_time": 1722341845,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 154761,
+        "num": 426605,
+        "word": "万年县常务副县长回应16岁参加工作",
+        "onboard_time": 1722342629,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1406643,
+        "num": 426437,
+        "word": "奥运直播",
+        "onboard_time": 1722343225,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1285141,
+        "num": 426218,
+        "word": "邓亚萍来了",
+        "onboard_time": 1722343347,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1117206,
+        "num": 426166,
+        "word": "李小双说是教练组的问题别怪运动员",
+        "onboard_time": 1722327382,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 814940,
+        "num": 425960,
+        "word": "何浩楠爷爷去世",
+        "onboard_time": 1722340705,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 499831,
+        "num": 425630,
+        "word": "唐朝诡事录 吻戏",
+        "onboard_time": 1722338843,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1089493,
+        "num": 425369,
+        "word": "韩国混双好猛",
+        "onboard_time": 1722342272,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1046723,
+        "num": 425218,
+        "word": "王楚钦再次痛失本名",
+        "onboard_time": 1722335482,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63465,
+        "num": 424991,
+        "word": "球迷整齐划一有序为莎头加油",
+        "onboard_time": 1722342987,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376626,
+        "num": 424832,
+        "word": "刘诗诗妮可基德曼同框",
+        "onboard_time": 1722341426,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358513,
+        "num": 424564,
+        "word": "况盛前女友",
+        "onboard_time": 1722328281,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 918228,
+        "num": 424500,
+        "word": "中国香港队乒乓混双第4",
+        "onboard_time": 1722342509,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 710799,
+        "num": 424254,
+        "word": "体操男团丢金都是苏炜德之过吗",
+        "onboard_time": 1722333502,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 694570,
+        "num": 424090,
+        "word": "覃海洋状态",
+        "onboard_time": 1722338962,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194420,
+        "num": 423757,
+        "word": "巴黎偶遇穿马面裙的王冰冰",
+        "onboard_time": 1722334883,
+        "rank": 23,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 195404,
+        "num": 423570,
+        "word": "刘诗诗观看沙滩排球比赛",
+        "onboard_time": 1722340523,
+        "rank": 24,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 648186,
+        "num": 423453,
+        "word": "朝鲜混双组合不接受采访",
+        "onboard_time": 1722317723,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307288,
+        "num": 423199,
+        "word": "况盛发声",
+        "onboard_time": 1722341905,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 452479,
+        "num": 423057,
+        "word": "陈一冰谈苏炜德失误",
+        "onboard_time": 1722338782,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176644,
+        "num": 422720,
+        "word": "夏之光提到迪丽热巴鞠了四次躬",
+        "onboard_time": 1722333923,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163320,
+        "num": 422672,
+        "word": "张若昀 你选嬛嬛我选瓜六",
+        "onboard_time": 1722331403,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 422489,
+        "num": 422489,
+        "word": "倪夏莲61岁正是闯的年纪",
+        "onboard_time": 1722337402,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 400714,
+        "num": 400714,
+        "word": "郭晶晶霍启刚现场观看混双",
+        "onboard_time": 1722343407,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 397466,
+        "num": 397466,
+        "word": "郭晶晶出场一分钟同款白衬衫被搜爆",
+        "onboard_time": 1722343827,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320611,
+        "num": 320611,
+        "word": "外卖小哥雨中接3单全白干崩溃大哭",
+        "onboard_time": 1722337642,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253856,
+        "num": 253856,
+        "word": "小马宝莉卡 16万一张",
+        "onboard_time": 1722330262,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383489,
+        "num": 250462,
+        "word": "陈梦vs伯格斯特隆",
+        "onboard_time": 1722325522,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 371136,
+        "num": 249174,
+        "word": "体操男团痛失金牌并非一人之责",
+        "onboard_time": 1722341244,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 366512,
+        "num": 244754,
+        "word": "埃及击剑选手已怀孕7个月",
+        "onboard_time": 1722323662,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 360788,
+        "num": 241144,
+        "word": "覃海洋200蛙惊险晋级",
+        "onboard_time": 1722339384,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 346373,
+        "num": 236294,
+        "word": "德国游泳女将质疑张雨霏",
+        "onboard_time": 1722343708,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 340547,
+        "num": 233905,
+        "word": "中国队男子4X200自接晋级决赛",
+        "onboard_time": 1722340344,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 340077,
+        "num": 232427,
+        "word": "全红婵一双拖鞋走天下",
+        "onboard_time": 1722342928,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229025,
+        "num": 229025,
+        "word": "中国驻沙特大使探班梦之队",
+        "onboard_time": 1722343047,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 255619,
+        "num": 228493,
+        "word": "纳瓦罗vs郑钦文",
+        "onboard_time": 1722341364,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220197,
+        "num": 220197,
+        "word": "郑乃馨否认与Bright分手",
+        "onboard_time": 1722337042,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207170,
+        "num": 207170,
+        "word": "工作人员承认周鸿祎被夹是车辆问题",
+        "onboard_time": 1722337942,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 191919,
+        "num": 207099,
+        "word": "江西万年副县长回应16岁参加工作",
+        "onboard_time": 1722342210,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181967,
+        "num": 206884,
+        "word": "北京暴雨",
+        "onboard_time": 1722294918,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179211,
+        "num": 206536,
+        "word": "大理一登山客失联9天8夜后获救",
+        "onboard_time": 1722340824,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177598,
+        "num": 206278,
+        "word": "因为一张小卡被骚扰了一年",
+        "onboard_time": 1722343467,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央召开党外人士座谈会#"
+    }
+  }
+}
