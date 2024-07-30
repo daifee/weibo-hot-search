@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1722350058943,
+  "endTime": 1722352903697,
   "band_list": [
     {
       "raw_hot": 26081799,
@@ -43,6 +43,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 15862366,
+      "num": 15862366,
+      "word": "王楚钦球拍",
+      "onboard_time": 1722347796,
+      "rank": 4,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 15753726,
       "num": 15753726,
       "word": "乒乓球混双铜牌赛",
@@ -73,6 +81,14 @@
       "onboard_time": 1722238342,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 14085360,
+      "num": 14085360,
+      "word": "王楚钦回应球拍被摄影师踩断",
+      "onboard_time": 1722351033,
+      "rank": 1,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 13754550,
@@ -307,6 +323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 9085578,
+      "num": 9301026,
+      "word": "孙颖莎哭了",
+      "onboard_time": 1722350016,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 8956068,
       "num": 8956068,
       "word": "巴黎奥运开幕式",
@@ -337,6 +361,14 @@
       "onboard_time": 1722183032,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 8261409,
+      "num": 8261409,
+      "word": "王楚钦说举报",
+      "onboard_time": 1722347920,
+      "rank": 10,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 8083529,
@@ -401,14 +433,6 @@
       "onboard_time": 1722164481,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 7457975,
-      "num": 7457975,
-      "word": "王楚钦球拍",
-      "onboard_time": 1722347796,
-      "rank": 4,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 7379450,
@@ -481,6 +505,14 @@
       "onboard_time": 1720190242,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 6535288,
+      "num": 6535288,
+      "word": "莎头拥抱庆祝",
+      "onboard_time": 1722348523,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 6528742,
@@ -891,14 +923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3438371,
-      "num": 3438371,
-      "word": "王楚钦说举报",
-      "onboard_time": 1722347920,
-      "rank": 10,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 3430710,
       "num": 3430710,
       "word": "巴黎奥运会赞助商跑路",
@@ -1233,14 +1257,6 @@
       "onboard_time": 1721992878,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2734870,
-      "num": 2734870,
-      "word": "莎头拥抱庆祝",
-      "onboard_time": 1722348523,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 2714899,
@@ -2072,6 +2088,14 @@
       "word": "美国女排扳平比分",
       "onboard_time": 1722272540,
       "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2040991,
+      "num": 2040991,
+      "word": "齐迎多向飞碟银牌",
+      "onboard_time": 1722349905,
+      "rank": 17,
       "category": "体育"
     },
     {
@@ -3331,6 +3355,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 1589542,
+      "num": 1589542,
+      "word": "刘国梁颁奖",
+      "onboard_time": 1722348523,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1589081,
       "num": 512076,
       "word": "林生斌",
@@ -3395,20 +3427,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1574795,
+      "num": 1574795,
+      "word": "朝鲜韩国选手互动",
+      "onboard_time": 1722350554,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1574786,
       "num": 874598,
       "word": "入职了情趣用品公司不敢告诉妈妈",
       "onboard_time": 1720616418,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1574452,
-      "num": 1574452,
-      "word": "刘国梁颁奖",
-      "onboard_time": 1722348523,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 1573607,
@@ -4731,14 +4763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1336845,
-      "num": 1336845,
-      "word": "齐迎多向飞碟银牌",
-      "onboard_time": 1722349905,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1336828,
       "num": 1336828,
       "word": "陈梦晋级女单16强",
@@ -5545,6 +5569,14 @@
       "onboard_time": 1719974237,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1213873,
+      "num": 1903380,
+      "word": "张杰发博祝贺莎头夺冠",
+      "onboard_time": 1722351574,
+      "rank": 7,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 1213024,
@@ -6929,6 +6961,14 @@
       "onboard_time": 1721690297,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1061666,
+      "num": 965820,
+      "word": "孙颖莎最萌的脸打最狠的球",
+      "onboard_time": 1722352176,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 1060224,
@@ -12067,6 +12107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 727283,
+      "num": 727283,
+      "word": "乒乓观众席怎么有人一直在指挥啊",
+      "onboard_time": 1722348111,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 726749,
       "num": 449060,
       "word": "一个27岁的研究生轻轻的碎了",
@@ -16227,6 +16275,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 578935,
+      "num": 578935,
+      "word": "朝鲜教练",
+      "onboard_time": 1722350078,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 578832,
       "num": 578832,
       "word": "短短5秒却救了2个家庭",
@@ -17145,14 +17201,6 @@
       "onboard_time": 1721360424,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 554570,
-      "num": 554570,
-      "word": "乒乓观众席怎么有人一直在指挥啊",
-      "onboard_time": 1722348111,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 554282,
@@ -25435,6 +25483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395667,
+      "num": 395667,
+      "word": "莎头采访",
+      "onboard_time": 1722099262,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 395593,
       "num": 395593,
       "word": "鬼灭之刃",
@@ -30107,14 +30163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 327722,
-      "num": 327722,
-      "word": "莎头采访",
-      "onboard_time": 1722099262,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 327704,
       "num": 327704,
       "word": "福宝带火韩国赴四川旅游",
@@ -31891,6 +31939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 305379,
+      "num": 305379,
+      "word": "WTT",
+      "onboard_time": 1720360399,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 305363,
       "num": 305363,
       "word": "导演说白敬亭聪明幽默经验丰富",
@@ -32347,6 +32403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 299811,
+      "num": 1194768,
+      "word": "王鹤棣hi6回归黑发",
+      "onboard_time": 1722347337,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 299791,
       "num": 264934,
       "word": "大哥远年内开播近200场",
@@ -32561,14 +32625,6 @@
       "onboard_time": 1720168759,
       "rank": 23,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 297881,
-      "num": 297881,
-      "word": "孙颖莎哭了",
-      "onboard_time": 1722350016,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 297873,
@@ -34907,6 +34963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 275473,
+      "num": 994461,
+      "word": "吴尊一家现场观战莎头决赛",
+      "onboard_time": 1722347796,
+      "rank": 28,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 275347,
       "num": 240151,
       "word": "这居然是张新成",
@@ -35025,14 +35089,6 @@
       "onboard_time": 1720522159,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 274206,
-      "num": 1194768,
-      "word": "王鹤棣hi6回归黑发",
-      "onboard_time": 1722347337,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 274056,
@@ -42873,14 +42929,6 @@
       "onboard_time": 1721280559,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 215827,
-      "num": 779487,
-      "word": "吴尊一家现场观战莎头决赛",
-      "onboard_time": 1722347796,
-      "rank": 28,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 215800,
@@ -57979,14 +58027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166233,
-      "num": 166233,
-      "word": "WTT",
-      "onboard_time": 1720360399,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 166197,
       "num": 166197,
       "word": "AG零封白鲨",
@@ -59016,6 +59056,14 @@
       "word": "种地吧称没人会拆散十个勤天",
       "onboard_time": 1721468899,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 162621,
+      "num": 305085,
+      "word": "汪苏泷素龙",
+      "onboard_time": 1722351994,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -62755,6 +62803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 149151,
+      "num": 299564,
+      "word": "在北京地铁站偶遇张杰",
+      "onboard_time": 1722352831,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 149136,
       "num": 139895,
       "word": "迪丽热巴拍摄vlog",
@@ -66449,6 +66505,14 @@
       "onboard_time": 1721109917,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136302,
+      "num": 298527,
+      "word": "檀健次冬天是春天的伏笔",
+      "onboard_time": 1722352115,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 136236,
