@@ -1,6 +1,6 @@
 {
   "startTime": 1722270352158,
-  "endTime": 1722313411780,
+  "endTime": 1722314264115,
   "band_list": [
     {
       "raw_hot": 26081799,
@@ -251,19 +251,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1557429,
+      "num": 1557429,
+      "word": "女子故意漏扫码同伴提醒打手制止",
+      "onboard_time": 1722310703,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1555981,
+      "num": 1555981,
+      "word": "莎莎都要走了王楚钦还在燃",
+      "onboard_time": 1722309442,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1447233,
       "num": 1447233,
       "word": "孙颖莎一直在鼓励安慰王楚钦",
       "onboard_time": 1722298044,
       "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1375141,
-      "num": 1375141,
-      "word": "莎莎都要走了王楚钦还在燃",
-      "onboard_time": 1722309442,
-      "rank": 36,
       "category": "体育"
     },
     {
@@ -347,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1107866,
+      "num": 1107866,
+      "word": "刘诗诗奥运证件照",
+      "onboard_time": 1722309501,
+      "rank": 18,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 1072832,
       "num": 878573,
       "word": "朱婷说这是我最后一届奥运会",
@@ -355,28 +371,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1004041,
-      "num": 1004041,
-      "word": "刘诗诗奥运证件照",
-      "onboard_time": 1722309501,
-      "rank": 18,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 1002420,
       "num": 1002420,
       "word": "邹敬园双杠16.000分",
       "onboard_time": 1722275416,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 971119,
-      "num": 971119,
-      "word": "女子故意漏扫码同伴提醒打手制止",
-      "onboard_time": 1722310703,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 965671,
@@ -499,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 704418,
+      "num": 704418,
+      "word": "六年级小侄女朋友圈屏蔽了全家",
+      "onboard_time": 1722312686,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 681102,
       "num": 619189,
       "word": "曾强奸12岁女孩奥运选手首秀遭嘘",
@@ -563,14 +571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 571827,
-      "num": 441440,
-      "word": "六年级小侄女朋友圈屏蔽了全家",
-      "onboard_time": 1722312686,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 555431,
       "num": 502876,
       "word": "李小鹏 观众席",
@@ -603,12 +603,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 513664,
+      "num": 513664,
+      "word": "杭州夫妻旅游11天回来发现别墅失火",
+      "onboard_time": 1722312326,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 507285,
       "num": 2251869,
       "word": "况盛爆料葛沛豪说三喜烫头没家教",
       "onboard_time": 1722263784,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 494746,
+      "num": 494746,
+      "word": "解密朝鲜混双组合神秘打法",
+      "onboard_time": 1722310282,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 487495,
@@ -707,14 +723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 441257,
-      "num": 441257,
-      "word": "解密朝鲜混双组合神秘打法",
-      "onboard_time": 1722310282,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 440363,
       "num": 953025,
       "word": "土耳其总统当众轻扇男孩一巴掌",
@@ -777,14 +785,6 @@
       "onboard_time": 1722254304,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 412105,
-      "num": 412105,
-      "word": "杭州夫妻旅游11天回来发现别墅失火",
-      "onboard_time": 1722312326,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 410699,
@@ -939,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 333853,
+      "num": 967033,
+      "word": "火锅集体打价格战我却不爱吃了",
+      "onboard_time": 1722312025,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330973,
       "num": 330973,
       "word": "单杠",
@@ -1067,6 +1075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 278169,
+      "num": 278169,
+      "word": "苏炜德被临时递补进入团队",
+      "onboard_time": 1722313165,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 274423,
       "num": 274423,
       "word": "孙颖莎单打",
@@ -1097,6 +1113,14 @@
       "onboard_time": 1722274036,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 263672,
+      "num": 495026,
+      "word": "向佐为中国游泳队鸣不平",
+      "onboard_time": 1722314006,
+      "rank": 29,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 263641,
@@ -1139,12 +1163,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 253488,
-      "num": 967033,
-      "word": "火锅集体打价格战我却不爱吃了",
-      "onboard_time": 1722312025,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 253910,
+      "num": 253910,
+      "word": "体操小将张怡涵获全场掌声伴奏",
+      "onboard_time": 1722312626,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 252908,
@@ -1176,6 +1200,14 @@
       "word": "王楚钦哭了",
       "onboard_time": 1722275297,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 242277,
+      "num": 242277,
+      "word": "中国游泳队10天内接受兴奋剂检测近200次",
+      "onboard_time": 1722311062,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -1217,14 +1249,6 @@
       "onboard_time": 1722312206,
       "rank": 45,
       "category": "军事"
-    },
-    {
-      "raw_hot": 236594,
-      "num": 236594,
-      "word": "体操小将张怡涵获全场掌声伴奏",
-      "onboard_time": 1722312626,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 235293,
@@ -1483,6 +1507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133780,
+      "num": 985500,
+      "word": "北京中午雨势间歇傍晚再加强",
+      "onboard_time": 1722311844,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130245,
       "num": 130245,
       "word": "林超攀",
@@ -1523,6 +1555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94048,
+      "num": 1022181,
+      "word": "易烊千玺接电话仪式感",
+      "onboard_time": 1722310703,
+      "rank": 10,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 92272,
       "num": 209762,
       "word": "檀健次 我就是在排练厅开始长大的",
@@ -1547,14 +1587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 85701,
-      "num": 985500,
-      "word": "北京中午雨势间歇傍晚再加强",
-      "onboard_time": 1722311844,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73820,
       "num": 209726,
       "word": "刘宇宁很荣幸和陈丽君合作",
@@ -1571,12 +1603,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 62882,
-      "num": 984031,
-      "word": "易烊千玺接电话仪式感",
-      "onboard_time": 1722310703,
-      "rank": 10,
-      "category": "艺人,数码"
+      "raw_hot": 62119,
+      "num": 682624,
+      "word": "谁给钟楚曦想的独眼造型",
+      "onboard_time": 1722307643,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 60389,
@@ -1593,6 +1625,14 @@
       "onboard_time": 1722307822,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57084,
+      "num": 282069,
+      "word": "法餐原来可以这么接地气",
+      "onboard_time": 1722312025,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 56205,
@@ -1619,12 +1659,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42926,
-      "num": 282069,
-      "word": "法餐原来可以这么接地气",
-      "onboard_time": 1722312025,
-      "rank": 39,
-      "category": "美食"
+      "raw_hot": 52283,
+      "num": 1064715,
+      "word": "北京暴雨积水没过汽车底盘",
+      "onboard_time": 1722313945,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39328,
