@@ -1,0 +1,410 @@
+{
+  "runTime": 1722364760254,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2187458,
+        "num": 2187458,
+        "word": "体操女团决赛",
+        "onboard_time": 1722356842,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1233797,
+        "num": 1233797,
+        "word": "平衡木 吓人",
+        "onboard_time": 1722359359,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19494,
+        "num": 1108357,
+        "word": "点亮网络文明之光",
+        "onboard_time": 1722342748,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1048403,
+        "num": 1048403,
+        "word": "王楚钦回应球拍被摄影师踩断",
+        "onboard_time": 1722351033,
+        "rank": 3,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 884734,
+        "num": 884734,
+        "word": "体操的妹妹们好棒",
+        "onboard_time": 1722359299,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 737498,
+        "num": 737498,
+        "word": "王楚钦说举报",
+        "onboard_time": 1722347920,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 735334,
+        "num": 735334,
+        "word": "孙颖莎王楚钦混双金牌",
+        "onboard_time": 1722344015,
+        "rank": 6,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 583038,
+        "num": 702325,
+        "word": "QQ糖分手",
+        "onboard_time": 1722357622,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 217991,
+        "num": 695392,
+        "word": "章昊没回归就是在备战奥运",
+        "onboard_time": 1722358639,
+        "rank": 8,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 39241,
+        "num": 695001,
+        "word": "万年县常务副县长回应16岁参加工作",
+        "onboard_time": 1722342629,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 694947,
+        "num": 694947,
+        "word": "拜尔斯太强了",
+        "onboard_time": 1722358219,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 557819,
+        "num": 557819,
+        "word": "郑钦文退出奥运混双",
+        "onboard_time": 1722355466,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 546647,
+        "num": 546647,
+        "word": "莎头拥抱庆祝",
+        "onboard_time": 1722348523,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 503759,
+        "num": 503759,
+        "word": "小枣 这镜头切过去我真哭了",
+        "onboard_time": 1722354028,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213590,
+        "num": 475930,
+        "word": "谢娜说莎头夺冠太不容易",
+        "onboard_time": 1722360796,
+        "rank": 14,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 457152,
+        "num": 457152,
+        "word": "孙颖莎哭了",
+        "onboard_time": 1722350016,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 422312,
+        "num": 422312,
+        "word": "体操女团 跳马",
+        "onboard_time": 1722363554,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150252,
+        "num": 405088,
+        "word": "宇露君沾",
+        "onboard_time": 1722358940,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130543,
+        "num": 404599,
+        "word": "娜扎 你这不搞事情吗",
+        "onboard_time": 1722358759,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91881,
+        "num": 404460,
+        "word": "王亚飞给鞠婧祎画的眼妆",
+        "onboard_time": 1722354329,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 404380,
+        "num": 404380,
+        "word": "周雅琴掉木",
+        "onboard_time": 1722361816,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 400518,
+        "num": 400518,
+        "word": "中国体操女团第6",
+        "onboard_time": 1722364454,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273108,
+        "num": 273108,
+        "word": "张怡宁",
+        "onboard_time": 1722355166,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233586,
+        "num": 233586,
+        "word": "罗欢平衡木",
+        "onboard_time": 1722362716,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221006,
+        "num": 221006,
+        "word": "体操男团丢金都是苏炜德之过吗",
+        "onboard_time": 1722333502,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220617,
+        "num": 220617,
+        "word": "河村勇辉 宫城寿",
+        "onboard_time": 1722359957,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214066,
+        "num": 214066,
+        "word": "混双发布会",
+        "onboard_time": 1722358340,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205793,
+        "num": 205793,
+        "word": "欧钰珊哭了",
+        "onboard_time": 1722363974,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147565,
+        "num": 205418,
+        "word": "英已婚女狱警与囚犯在牢房发生关系",
+        "onboard_time": 1722344968,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89104,
+        "num": 205399,
+        "word": "杨旭文说唐诡第三季今年开拍",
+        "onboard_time": 1722358699,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205397,
+        "num": 205397,
+        "word": "跳马难度",
+        "onboard_time": 1722364153,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199906,
+        "num": 199906,
+        "word": "自由操",
+        "onboard_time": 1722363554,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196980,
+        "num": 196980,
+        "word": "mini特别棒",
+        "onboard_time": 1722363974,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96984,
+        "num": 196526,
+        "word": "日本地震",
+        "onboard_time": 1722359957,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80308,
+        "num": 196523,
+        "word": "易烊千玺网站",
+        "onboard_time": 1722355585,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196520,
+        "num": 196520,
+        "word": "李小双说是教练组的问题别怪运动员",
+        "onboard_time": 1722327382,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176694,
+        "num": 176694,
+        "word": "张怡涵真可爱",
+        "onboard_time": 1722361696,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175998,
+        "num": 175998,
+        "word": "孙颖莎正手太强了",
+        "onboard_time": 1722344552,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168957,
+        "num": 168957,
+        "word": "朝鲜韩国选手互动",
+        "onboard_time": 1722350554,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158968,
+        "num": 158968,
+        "word": "中国女子重剑队无缘奥运决赛",
+        "onboard_time": 1722357921,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154103,
+        "num": 154103,
+        "word": "刘国梁成全场最幸福的人",
+        "onboard_time": 1722362057,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151071,
+        "num": 151071,
+        "word": "邱祺缘很稳",
+        "onboard_time": 1722364514,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54361,
+        "num": 148838,
+        "word": "张杰发博祝贺莎头夺冠",
+        "onboard_time": 1722351574,
+        "rank": 42,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 147465,
+        "num": 147465,
+        "word": "羽毛球小组赛",
+        "onboard_time": 1722364153,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139685,
+        "num": 139685,
+        "word": "法国男篮vs日本男篮",
+        "onboard_time": 1722358160,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79560,
+        "num": 138310,
+        "word": "王楚钦球拍",
+        "onboard_time": 1722347796,
+        "rank": 45,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 77512,
+        "num": 136806,
+        "word": "北京暴雨",
+        "onboard_time": 1722294918,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75911,
+        "num": 136327,
+        "word": "下次手机放兜里记得锁屏",
+        "onboard_time": 1722361215,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60728,
+        "num": 133656,
+        "word": "况盛前女友",
+        "onboard_time": 1722328281,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 48932,
+        "num": 132269,
+        "word": "白蛇浮生直播",
+        "onboard_time": 1722364454,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央召开党外人士座谈会#"
+    }
+  }
+}
