@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/30 13:20:51
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/30 13:36:45
 </p>
 </blockquote>
 <p>
@@ -1311,6 +1311,12 @@ TFBOYS发文支持王源（热度：2183586）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%9C%E5%BE%B7%E8%A2%AB%E4%B8%B4%E6%97%B6%E9%80%92%E8%A1%A5%E8%BF%9B%E5%85%A5%E5%9B%A2%E9%98%9F%23" target="weibo">
+苏炜德被临时递补进入团队（热度：2145581）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%A4%A7%E5%A5%B3%E5%8D%9A%E5%A3%AB%E4%B8%BE%E6%8A%A5%E5%AF%BC%E5%B8%88%E4%B8%BA%E5%AD%A6%E7%A7%91%E5%B8%A6%E5%A4%B4%E4%BA%BA%23" target="weibo">
 人大女博士举报导师为学科带头人（热度：2133352）
 </a>
@@ -1919,12 +1925,6 @@ TES（热度：1771255）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B0%E5%B7%9E%E5%88%BA%E6%BF%80%E6%80%A7%E5%BC%82%E5%91%B3%E6%9D%A5%E6%BA%90%E6%9F%A5%E6%B8%85%23" target="weibo">
 兰州刺激性异味来源查清（热度：1751552）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%9C%E5%BE%B7%E8%A2%AB%E4%B8%B4%E6%97%B6%E9%80%92%E8%A1%A5%E8%BF%9B%E5%85%A5%E5%9B%A2%E9%98%9F%23" target="weibo">
-苏炜德被临时递补进入团队（热度：1748841）
 </a>
 </li>
 
