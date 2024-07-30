@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1722370741455,
+  "endTime": 1722371665147,
   "band_list": [
     {
       "raw_hot": 26081799,
@@ -8417,6 +8417,14 @@
       "onboard_time": 1721734819,
       "rank": 1,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 940652,
+      "num": 940652,
+      "word": "覃海洋无缘决赛",
+      "onboard_time": 1722370632,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 938813,
@@ -47475,14 +47483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201040,
-      "num": 201040,
-      "word": "覃海洋无缘决赛",
-      "onboard_time": 1722370632,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 200962,
       "num": 200962,
       "word": "为什么超市收银员不能坐着上班",
@@ -60651,6 +60651,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 158322,
+      "num": 158322,
+      "word": "董志豪小组第二",
+      "onboard_time": 1722370452,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158307,
       "num": 158307,
       "word": "法国 一个P值点满的国家",
@@ -71411,6 +71419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120634,
+      "num": 120634,
+      "word": "莎莎感谢大头",
+      "onboard_time": 1722368594,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120630,
       "num": 120630,
       "word": "陈炳帆C位出道",
@@ -73081,14 +73097,6 @@
       "onboard_time": 1721139140,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 113926,
-      "num": 113926,
-      "word": "董志豪小组第二",
-      "onboard_time": 1722370452,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 113851,
@@ -76033,14 +76041,6 @@
       "onboard_time": 1720608379,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 99226,
-      "num": 99226,
-      "word": "莎莎感谢大头",
-      "onboard_time": 1722368594,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 99191,
@@ -79323,6 +79323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 73974,
+      "num": 73974,
+      "word": "程菲",
+      "onboard_time": 1722370812,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73864,
       "num": 73864,
       "word": "ChinaJoy",
@@ -81699,6 +81707,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 57758,
+      "num": 46802,
+      "word": "邱祺缘回应高低杠失误",
+      "onboard_time": 1722370692,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57757,
       "num": 569153,
       "word": "伊利为中国健儿加油",
@@ -82603,14 +82619,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 52065,
-      "num": 46802,
-      "word": "邱祺缘回应高低杠失误",
-      "onboard_time": 1722370692,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 52011,
       "num": 233289,
       "word": "11岁小孩姐复刻雪山蛋糕目标厨师职高",
@@ -82908,7 +82916,7 @@
     },
     {
       "raw_hot": 50059,
-      "num": 121308,
+      "num": 163552,
       "word": "杨旭文 你们敢说我不敢念啊",
       "onboard_time": 1722367934,
       "rank": 48,
@@ -83993,6 +84001,14 @@
       "onboard_time": 1722218301,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 43545,
+      "num": 162165,
+      "word": "卡卡公会赛",
+      "onboard_time": 1722370692,
+      "rank": 48,
+      "category": "网红"
     },
     {
       "raw_hot": 43526,
@@ -86641,14 +86657,6 @@
       "onboard_time": 1720413859,
       "rank": 21,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 27837,
-      "num": 46500,
-      "word": "卡卡公会赛",
-      "onboard_time": 1722370692,
-      "rank": 48,
-      "category": "网红"
     },
     {
       "raw_hot": 27809,
