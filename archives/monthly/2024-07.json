@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1722327853203,
+  "endTime": 1722328619402,
   "band_list": [
     {
       "raw_hot": 26081799,
@@ -1739,6 +1739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2154393,
+      "num": 2154393,
+      "word": "法国爱中国实锤了",
+      "onboard_time": 1722323721,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2153029,
       "num": 2153029,
       "word": "罪犯得知儿子高考697分喜极而泣",
@@ -2376,14 +2384,6 @@
       "word": "医生称张志杰恶性心律失常可能性很大",
       "onboard_time": 1719804917,
       "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1817572,
-      "num": 1817572,
-      "word": "法国爱中国实锤了",
-      "onboard_time": 1722323721,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -3371,6 +3371,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 1542585,
+      "num": 1542585,
+      "word": "陈梦vs伯格斯特隆",
+      "onboard_time": 1722325522,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1540559,
       "num": 1540559,
       "word": "三中全会决定60条",
@@ -3681,14 +3689,6 @@
       "onboard_time": 1719890117,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1481275,
-      "num": 1481275,
-      "word": "陈梦vs伯格斯特隆",
-      "onboard_time": 1722325522,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 1480230,
@@ -14587,6 +14587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 610179,
+      "num": 437840,
+      "word": "削球手",
+      "onboard_time": 1722327683,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 610142,
       "num": 331569,
       "word": "缉毒卧底连续偶遇警察同事",
@@ -15409,6 +15417,14 @@
       "onboard_time": 1719984498,
       "rank": 43,
       "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 587921,
+      "num": 405872,
+      "word": "李小双怒斥中国体操教练组",
+      "onboard_time": 1722327382,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 587745,
@@ -16793,6 +16809,14 @@
       "onboard_time": 1720483758,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 552649,
+      "num": 1032048,
+      "word": "专家不理解吴昕想去养老院的想法",
+      "onboard_time": 1722321922,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 552565,
@@ -19795,14 +19819,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 482761,
-      "num": 1032048,
-      "word": "专家不理解吴昕想去养老院的想法",
-      "onboard_time": 1722321922,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 482492,
       "num": 277043,
       "word": "张凌赫素人时期照片",
@@ -21529,6 +21545,14 @@
       "onboard_time": 1720662618,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 448119,
+      "num": 901224,
+      "word": "檀健次用九年前截图评论摄影师",
+      "onboard_time": 1722325281,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 448050,
@@ -23427,6 +23451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 418329,
+      "num": 1022125,
+      "word": "胡歌拍了四年繁花没去过黄河路",
+      "onboard_time": 1722323362,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 418325,
       "num": 418325,
       "word": "警钟长鸣吾辈自强",
@@ -23833,14 +23865,6 @@
       "onboard_time": 1722106273,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 409943,
-      "num": 1022125,
-      "word": "胡歌拍了四年繁花没去过黄河路",
-      "onboard_time": 1722323362,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 409929,
@@ -25267,6 +25291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 386882,
+      "num": 386882,
+      "word": "独居女孩遭陌生男十多次趴门偷听",
+      "onboard_time": 1722324261,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386683,
       "num": 307245,
       "word": "赵露思素颜与好友聚餐",
@@ -25953,14 +25985,6 @@
       "onboard_time": 1721915000,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 375678,
-      "num": 375678,
-      "word": "独居女孩遭陌生男十多次趴门偷听",
-      "onboard_time": 1722324261,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 375599,
@@ -27409,6 +27433,14 @@
       "onboard_time": 1720710560,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 353206,
+      "num": 353206,
+      "word": "况盛前女友",
+      "onboard_time": 1722328281,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 353186,
@@ -29931,14 +29963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 321952,
-      "num": 321952,
-      "word": "削球手",
-      "onboard_time": 1722327683,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 321728,
       "num": 321728,
       "word": "枪响后特朗普与安保贴身对话公开",
@@ -30057,6 +30081,14 @@
       "onboard_time": 1721113698,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 319790,
+      "num": 319790,
+      "word": "陈梦翡翠项链",
+      "onboard_time": 1722327561,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 319784,
@@ -32443,14 +32475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 291366,
-      "num": 460531,
-      "word": "檀健次用九年前截图评论摄影师",
-      "onboard_time": 1722325281,
-      "rank": 18,
-      "category": "演出"
-    },
-    {
       "raw_hot": 291279,
       "num": 619244,
       "word": "刘耀文提名百花奖最佳新人",
@@ -32905,14 +32929,6 @@
       "onboard_time": 1720308193,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 287622,
-      "num": 287622,
-      "word": "陈梦翡翠项链",
-      "onboard_time": 1722327561,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 287465,
@@ -34940,7 +34956,7 @@
     },
     {
       "raw_hot": 266620,
-      "num": 322057,
+      "num": 336801,
       "word": "百花奖恭喜张艺兴",
       "onboard_time": 1722325702,
       "rank": 27,
@@ -35473,6 +35489,14 @@
       "onboard_time": 1721461338,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 261499,
+      "num": 261499,
+      "word": "孙杨说今年一定会重登赛场",
+      "onboard_time": 1722327083,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 261475,
@@ -36163,14 +36187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 254798,
-      "num": 254798,
-      "word": "李小双怒斥中国体操教练组",
-      "onboard_time": 1722327382,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 254690,
       "num": 441718,
       "word": "立即关闭柞水垮塌桥梁上游所有水库",
@@ -36500,7 +36516,7 @@
     },
     {
       "raw_hot": 252929,
-      "num": 252929,
+      "num": 876317,
       "word": "中通快运就寄错医疗器械道歉",
       "onboard_time": 1722326061,
       "rank": 41,
@@ -36849,14 +36865,6 @@
       "onboard_time": 1721011517,
       "rank": 9,
       "category": "社会新闻,国内时政"
-    },
-    {
-      "raw_hot": 249792,
-      "num": 249792,
-      "word": "孙杨说今年一定会重登赛场",
-      "onboard_time": 1722327083,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 249788,
@@ -40307,6 +40315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225916,
+      "num": 225916,
+      "word": "全红婵跳水时现场有多安静",
+      "onboard_time": 1722328342,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225909,
       "num": 225909,
       "word": "没想到能再看一次灌篮高手",
@@ -40633,6 +40649,14 @@
       "onboard_time": 1720946902,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 223678,
+      "num": 223678,
+      "word": "朝鲜混双教练",
+      "onboard_time": 1722327803,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 223650,
@@ -41185,6 +41209,14 @@
       "onboard_time": 1721642722,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220122,
+      "num": 220122,
+      "word": "孙颖莎把自己的资料填的好详细",
+      "onboard_time": 1722328162,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 220111,
@@ -45299,6 +45331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203242,
+      "num": 203242,
+      "word": "NCT总选",
+      "onboard_time": 1722328222,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203234,
       "num": 203234,
       "word": "蔡依林uglybeauty演唱会",
@@ -45793,14 +45833,6 @@
       "onboard_time": 1722130222,
       "rank": 41,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 202066,
-      "num": 202066,
-      "word": "朝鲜混双教练",
-      "onboard_time": 1722327803,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 202042,
@@ -50849,6 +50881,14 @@
       "onboard_time": 1721544440,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 187758,
+      "num": 1021158,
+      "word": "小马宝莉卡成了小学生的社交货币",
+      "onboard_time": 1722326421,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187741,
@@ -75041,14 +75081,6 @@
       "onboard_time": 1720714756,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 95915,
-      "num": 1021158,
-      "word": "小马宝莉卡成了小学生的社交货币",
-      "onboard_time": 1722326421,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95895,
