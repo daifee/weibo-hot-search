@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1722378857359,
+  "endTime": 1722381434019,
   "band_list": [
     {
       "raw_hot": 26081799,
@@ -1489,6 +1489,14 @@
       "onboard_time": 1721375481,
       "rank": 10,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 2461259,
+      "num": 2461259,
+      "word": "体操女团 跳马",
+      "onboard_time": 1722363554,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 2459296,
@@ -5475,14 +5483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1233416,
-      "num": 1233416,
-      "word": "体操女团 跳马",
-      "onboard_time": 1722363554,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1231819,
       "num": 1231819,
       "word": "英雄联盟手游取消赵露思置顶",
@@ -7307,6 +7307,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1037802,
+      "num": 1037802,
+      "word": "覃海洋无缘决赛",
+      "onboard_time": 1722370632,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1037734,
       "num": 1037734,
       "word": "女篮 紧张",
@@ -7841,6 +7849,14 @@
       "onboard_time": 1720875018,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 988149,
+      "num": 988149,
+      "word": "中国体操女团第6",
+      "onboard_time": 1722364454,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 988089,
@@ -8425,14 +8441,6 @@
       "onboard_time": 1721734819,
       "rank": 1,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 940652,
-      "num": 940652,
-      "word": "覃海洋无缘决赛",
-      "onboard_time": 1722370632,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 938813,
@@ -14147,6 +14155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 646195,
+      "num": 646195,
+      "word": "朝鲜教练是巴黎世乒赛混双冠军",
+      "onboard_time": 1722376815,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 646059,
       "num": 278609,
       "word": "英国30岁女教师性侵2名男生怀胎生子",
@@ -18771,14 +18787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 518760,
-      "num": 518760,
-      "word": "中国体操女团第6",
-      "onboard_time": 1722364454,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 518558,
       "num": 518558,
       "word": "警方通报西安交大毕业生李某某事件",
@@ -21945,6 +21953,14 @@
       "onboard_time": 1721213237,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 454458,
+      "num": 371481,
+      "word": "莎莎感谢大头",
+      "onboard_time": 1722368594,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 454378,
@@ -28299,6 +28315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 353453,
+      "num": 941065,
+      "word": "妈妈镜头下的肖战",
+      "onboard_time": 1722377183,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 353431,
       "num": 353431,
       "word": "爸爸第一次抱孩子偷感好重",
@@ -29305,6 +29329,14 @@
       "onboard_time": 1720098559,
       "rank": 24,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 341756,
+      "num": 341756,
+      "word": "中国队男子4x200米自由泳接力第4",
+      "onboard_time": 1722371892,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 341413,
@@ -34995,6 +35027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 277969,
+      "num": 488927,
+      "word": "谢娜说莎头夺冠太不容易",
+      "onboard_time": 1722360796,
+      "rank": 48,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 277963,
       "num": 277963,
       "word": "银行开始对个人按揭贷款较真",
@@ -36321,14 +36361,6 @@
       "onboard_time": 1721808080,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 264175,
-      "num": 230401,
-      "word": "莎莎感谢大头",
-      "onboard_time": 1722368594,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 264138,
@@ -38489,14 +38521,6 @@
       "onboard_time": 1721015539,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 246319,
-      "num": 246319,
-      "word": "中国队男子4x200米自由泳接力第4",
-      "onboard_time": 1722371892,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 246283,
@@ -41803,6 +41827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224404,
+      "num": 224404,
+      "word": "况盛爱女儿人设",
+      "onboard_time": 1722377293,
+      "rank": 44,
+      "category": "网红"
+    },
+    {
       "raw_hot": 224383,
       "num": 224383,
       "word": "2岁女童被生父和女友虐待致死",
@@ -42449,14 +42481,6 @@
       "onboard_time": 1721631560,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 220222,
-      "num": 488927,
-      "word": "谢娜说莎头夺冠太不容易",
-      "onboard_time": 1722360796,
-      "rank": 48,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 220186,
@@ -58459,6 +58483,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 165788,
+      "num": 118837,
+      "word": "王楚钦采访名场面又来了",
+      "onboard_time": 1722378495,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165779,
       "num": 165779,
       "word": "九命相柳 相柳下线",
@@ -62827,14 +62859,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 150770,
-      "num": 226410,
-      "word": "妈妈镜头下的肖战",
-      "onboard_time": 1722377183,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 150759,
       "num": 147575,
       "word": "小鬼把大小姐宠在怀里",
@@ -65169,14 +65193,6 @@
       "onboard_time": 1719994938,
       "rank": 40,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 142377,
-      "num": 112123,
-      "word": "朝鲜教练是巴黎世乒赛混双冠军",
-      "onboard_time": 1722376815,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 142228,
@@ -69483,6 +69499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 127750,
+      "num": 405977,
+      "word": "杨旭文说唐诡第三季今年开拍",
+      "onboard_time": 1722358699,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127718,
       "num": 117265,
       "word": "刘耀文LV推广图",
@@ -70145,14 +70169,6 @@
       "onboard_time": 1720182379,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 125201,
-      "num": 310929,
-      "word": "杨旭文说唐诡第三季今年开拍",
-      "onboard_time": 1722358699,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 125165,
@@ -72497,6 +72513,14 @@
       "onboard_time": 1720882939,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116713,
+      "num": 384615,
+      "word": "杨旭文 你们敢说我不敢念啊",
+      "onboard_time": 1722367934,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 116680,
@@ -76923,6 +76947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 94496,
+      "num": 94496,
+      "word": "潘展乐 超人",
+      "onboard_time": 1722374413,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94402,
       "num": 635368,
       "word": "辛爽需要我时打给我",
@@ -77523,14 +77555,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 89953,
-      "num": 89953,
-      "word": "潘展乐 超人",
-      "onboard_time": 1722374413,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 89943,
       "num": 4802785,
       "word": "中国队首金升国旗奏国歌现场",
@@ -77593,14 +77617,6 @@
       "onboard_time": 1720709120,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 89244,
-      "num": 112167,
-      "word": "况盛爱女儿人设",
-      "onboard_time": 1722377293,
-      "rank": 44,
-      "category": "网红"
     },
     {
       "raw_hot": 89124,
@@ -77721,6 +77737,14 @@
       "onboard_time": 1720865717,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 88302,
+      "num": 88302,
+      "word": "莎头夺金61岁奶奶有一份功劳",
+      "onboard_time": 1722380236,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 88115,
@@ -78017,6 +78041,14 @@
       "onboard_time": 1720930525,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85443,
+      "num": 85443,
+      "word": "孙颖莎蹲下让刘国梁入镜",
+      "onboard_time": 1722381379,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 85252,
@@ -81083,6 +81115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61605,
+      "num": 80749,
+      "word": "原来男女老少真的可以形容一个人",
+      "onboard_time": 1722378435,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 61590,
       "num": 61590,
       "word": "奥运新手头头表示非常兴奋",
@@ -82243,14 +82283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55090,
-      "num": 223486,
-      "word": "杨旭文 你们敢说我不敢念啊",
-      "onboard_time": 1722367934,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 55088,
       "num": 656336,
       "word": "E起CityDrive",
@@ -82305,14 +82337,6 @@
       "onboard_time": 1720432339,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 54332,
-      "num": 73648,
-      "word": "王楚钦采访名场面又来了",
-      "onboard_time": 1722378495,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 54305,
@@ -83812,7 +83836,7 @@
     },
     {
       "raw_hot": 45279,
-      "num": 485015,
+      "num": 940525,
       "word": "北京全市降雨量已达暴雨",
       "onboard_time": 1722372971,
       "rank": 9,

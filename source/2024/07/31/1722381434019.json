@@ -1,0 +1,410 @@
+{
+  "runTime": 1722381434019,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2707855,
+        "num": 2707855,
+        "word": "王楚钦回应球拍被摄影师踩断",
+        "onboard_time": 1722351033,
+        "rank": 0,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 2461259,
+        "num": 2461259,
+        "word": "体操女团 跳马",
+        "onboard_time": 1722363554,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33582,
+        "num": 1812752,
+        "word": "点亮网络文明之光",
+        "onboard_time": 1722342748,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1518778,
+        "num": 1518778,
+        "word": "孙颖莎哭了",
+        "onboard_time": 1722350016,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1037802,
+        "num": 1037802,
+        "word": "覃海洋无缘决赛",
+        "onboard_time": 1722370632,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1024054,
+        "num": 1024054,
+        "word": "王楚钦说举报",
+        "onboard_time": 1722347920,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 988149,
+        "num": 988149,
+        "word": "中国体操女团第6",
+        "onboard_time": 1722364454,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 539175,
+        "num": 953135,
+        "word": "QQ糖分手",
+        "onboard_time": 1722357622,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 353453,
+        "num": 941065,
+        "word": "妈妈镜头下的肖战",
+        "onboard_time": 1722377183,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 36518,
+        "num": 940525,
+        "word": "北京全市降雨量已达暴雨",
+        "onboard_time": 1722372971,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 940163,
+        "num": 940163,
+        "word": "平衡木 吓人",
+        "onboard_time": 1722359359,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 893782,
+        "num": 893782,
+        "word": "英已婚女狱警与囚犯在牢房发生关系",
+        "onboard_time": 1722344968,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 745987,
+        "num": 745987,
+        "word": "郑钦文退出奥运混双",
+        "onboard_time": 1722355466,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 646195,
+        "num": 646195,
+        "word": "朝鲜教练是巴黎世乒赛混双冠军",
+        "onboard_time": 1722376815,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 433654,
+        "num": 433654,
+        "word": "孙颖莎王楚钦混双金牌",
+        "onboard_time": 1722344015,
+        "rank": 14,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 512875,
+        "num": 429905,
+        "word": "体操女团决赛",
+        "onboard_time": 1722356842,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277969,
+        "num": 413419,
+        "word": "谢娜说莎头夺冠太不容易",
+        "onboard_time": 1722360796,
+        "rank": 16,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 127750,
+        "num": 405977,
+        "word": "杨旭文说唐诡第三季今年开拍",
+        "onboard_time": 1722358699,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116713,
+        "num": 384615,
+        "word": "杨旭文 你们敢说我不敢念啊",
+        "onboard_time": 1722367934,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111653,
+        "num": 375780,
+        "word": "宇露君沾",
+        "onboard_time": 1722358940,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 454458,
+        "num": 371481,
+        "word": "莎莎感谢大头",
+        "onboard_time": 1722368594,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 438235,
+        "num": 349539,
+        "word": "小枣 这镜头切过去我真哭了",
+        "onboard_time": 1722354028,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 347496,
+        "num": 347496,
+        "word": "莎头拥抱庆祝",
+        "onboard_time": 1722348523,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341756,
+        "num": 341756,
+        "word": "中国队男子4x200米自由泳接力第4",
+        "onboard_time": 1722371892,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315698,
+        "num": 315698,
+        "word": "程菲",
+        "onboard_time": 1722370812,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 294878,
+        "num": 294878,
+        "word": "张怡宁",
+        "onboard_time": 1722355166,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230659,
+        "num": 230659,
+        "word": "法国男篮vs日本男篮",
+        "onboard_time": 1722358160,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224404,
+        "num": 224404,
+        "word": "况盛爱女儿人设",
+        "onboard_time": 1722377293,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 100296,
+        "num": 217743,
+        "word": "林心如被霍建华越过亲女儿",
+        "onboard_time": 1722337162,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90813,
+        "num": 216023,
+        "word": "娜扎 你这不搞事情吗",
+        "onboard_time": 1722358759,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215084,
+        "num": 215084,
+        "word": "潘展乐半决赛第一",
+        "onboard_time": 1722365352,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210116,
+        "num": 210116,
+        "word": "拜尔斯太强了",
+        "onboard_time": 1722358219,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209596,
+        "num": 209596,
+        "word": "朝鲜韩国选手互动",
+        "onboard_time": 1722350554,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179511,
+        "num": 179511,
+        "word": "覃海洋状态",
+        "onboard_time": 1722371352,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121297,
+        "num": 121297,
+        "word": "王楚钦球拍",
+        "onboard_time": 1722347796,
+        "rank": 34,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 165788,
+        "num": 118837,
+        "word": "王楚钦采访名场面又来了",
+        "onboard_time": 1722378495,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157303,
+        "num": 116804,
+        "word": "孙颖莎正手太强了",
+        "onboard_time": 1722344552,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127712,
+        "num": 115477,
+        "word": "李小双说是教练组的问题别怪运动员",
+        "onboard_time": 1722327382,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110182,
+        "num": 110182,
+        "word": "羽毛球小组赛",
+        "onboard_time": 1722364153,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100045,
+        "num": 100045,
+        "word": "北京暴雨",
+        "onboard_time": 1722294918,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98036,
+        "num": 98036,
+        "word": "河村勇辉 宫城寿",
+        "onboard_time": 1722359957,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95128,
+        "num": 95128,
+        "word": "邱祺缘很稳",
+        "onboard_time": 1722364514,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94496,
+        "num": 94496,
+        "word": "潘展乐 超人",
+        "onboard_time": 1722374413,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88302,
+        "num": 88302,
+        "word": "莎头夺金61岁奶奶有一份功劳",
+        "onboard_time": 1722380236,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85443,
+        "num": 85443,
+        "word": "孙颖莎蹲下让刘国梁入镜",
+        "onboard_time": 1722381379,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85139,
+        "num": 85139,
+        "word": "周雅琴掉木",
+        "onboard_time": 1722361816,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84560,
+        "num": 84560,
+        "word": "况盛前女友",
+        "onboard_time": 1722328281,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 80969,
+        "num": 80969,
+        "word": "易烊千玺网站",
+        "onboard_time": 1722355585,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73346,
+        "num": 80822,
+        "word": "王亚飞给鞠婧祎画的眼妆",
+        "onboard_time": 1722354329,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 61605,
+        "num": 80749,
+        "word": "原来男女老少真的可以形容一个人",
+        "onboard_time": 1722378435,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央召开党外人士座谈会#"
+    }
+  }
+}

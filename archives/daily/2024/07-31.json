@@ -1,6 +1,6 @@
 {
   "startTime": 1722356761759,
-  "endTime": 1722378857359,
+  "endTime": 1722381434019,
   "band_list": [
     {
       "raw_hot": 8963687,
@@ -40,6 +40,14 @@
       "word": "体操女团决赛",
       "onboard_time": 1722356842,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2461259,
+      "num": 2461259,
+      "word": "体操女团 跳马",
+      "onboard_time": 1722363554,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -91,19 +99,27 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1233416,
-      "num": 1233416,
-      "word": "体操女团 跳马",
-      "onboard_time": 1722363554,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1157400,
       "num": 1157400,
       "word": "朝鲜混双组合不接受采访",
       "onboard_time": 1722317723,
       "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1037802,
+      "num": 1037802,
+      "word": "覃海洋无缘决赛",
+      "onboard_time": 1722370632,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 988149,
+      "num": 988149,
+      "word": "中国体操女团第6",
+      "onboard_time": 1722364454,
+      "rank": 21,
       "category": "体育"
     },
     {
@@ -123,12 +139,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 940652,
-      "num": 940652,
-      "word": "覃海洋无缘决赛",
-      "onboard_time": 1722370632,
-      "rank": 10,
-      "category": "体育"
+      "raw_hot": 893782,
+      "num": 893782,
+      "word": "英已婚女狱警与囚犯在牢房发生关系",
+      "onboard_time": 1722344968,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 889425,
@@ -195,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 646195,
+      "num": 646195,
+      "word": "朝鲜教练是巴黎世乒赛混双冠军",
+      "onboard_time": 1722376815,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 631678,
       "num": 631678,
       "word": "霍启山好帅",
@@ -243,22 +267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 518760,
-      "num": 518760,
-      "word": "中国体操女团第6",
-      "onboard_time": 1722364454,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 514179,
-      "num": 750028,
-      "word": "英已婚女狱警与囚犯在牢房发生关系",
-      "onboard_time": 1722344968,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 511838,
       "num": 511838,
       "word": "许昕祝贺莎头",
@@ -288,6 +296,14 @@
       "word": "乒乓观众席怎么有人一直在指挥啊",
       "onboard_time": 1722348111,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 454458,
+      "num": 371481,
+      "word": "莎莎感谢大头",
+      "onboard_time": 1722368594,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -387,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 353453,
+      "num": 941065,
+      "word": "妈妈镜头下的肖战",
+      "onboard_time": 1722377183,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 349146,
       "num": 349146,
       "word": "王楚钦说拿着副板依旧可以很好地打比赛",
@@ -408,6 +432,14 @@
       "word": "孙颖莎教韩林拍照",
       "onboard_time": 1722355765,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 341756,
+      "num": 341756,
+      "word": "中国队男子4x200米自由泳接力第4",
+      "onboard_time": 1722371892,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -443,6 +475,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 277969,
+      "num": 488927,
+      "word": "谢娜说莎头夺冠太不容易",
+      "onboard_time": 1722360796,
+      "rank": 48,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 271303,
       "num": 632433,
       "word": "牛骏峰在乒乓球混双决赛现场",
@@ -467,28 +507,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 264175,
-      "num": 230401,
-      "word": "莎莎感谢大头",
-      "onboard_time": 1722368594,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 251344,
       "num": 388441,
       "word": "何浩楠爷爷去世",
       "onboard_time": 1722340705,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 246319,
-      "num": 246319,
-      "word": "中国队男子4x200米自由泳接力第4",
-      "onboard_time": 1722371892,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 241035,
@@ -539,12 +563,12 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 220222,
-      "num": 488927,
-      "word": "谢娜说莎头夺冠太不容易",
-      "onboard_time": 1722360796,
-      "rank": 48,
-      "category": "艺人,体育"
+      "raw_hot": 224404,
+      "num": 224404,
+      "word": "况盛爱女儿人设",
+      "onboard_time": 1722377293,
+      "rank": 44,
+      "category": "网红"
     },
     {
       "raw_hot": 213024,
@@ -619,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165788,
+      "num": 118837,
+      "word": "王楚钦采访名场面又来了",
+      "onboard_time": 1722378495,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161706,
       "num": 154103,
       "word": "刘国梁成全场最幸福的人",
@@ -667,14 +699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150770,
-      "num": 226410,
-      "word": "妈妈镜头下的肖战",
-      "onboard_time": 1722377183,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 148975,
       "num": 310261,
       "word": "唐朝诡事录 吻戏",
@@ -699,19 +723,19 @@
       "category": "网红"
     },
     {
-      "raw_hot": 142377,
-      "num": 112123,
-      "word": "朝鲜教练是巴黎世乒赛混双冠军",
-      "onboard_time": 1722376815,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 125201,
-      "num": 310929,
+      "raw_hot": 127750,
+      "num": 405977,
       "word": "杨旭文说唐诡第三季今年开拍",
       "onboard_time": 1722358699,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 116713,
+      "num": 384615,
+      "word": "杨旭文 你们敢说我不敢念啊",
+      "onboard_time": 1722367934,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -739,6 +763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100045,
+      "num": 158810,
+      "word": "北京暴雨",
+      "onboard_time": 1722294918,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95005,
       "num": 95005,
       "word": "拜尔斯 女王",
@@ -747,20 +779,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 89953,
-      "num": 89953,
+      "raw_hot": 94496,
+      "num": 94496,
       "word": "潘展乐 超人",
       "onboard_time": 1722374413,
       "rank": 37,
       "category": "体育"
     },
     {
-      "raw_hot": 89244,
-      "num": 112167,
-      "word": "况盛爱女儿人设",
-      "onboard_time": 1722377293,
-      "rank": 44,
-      "category": "网红"
+      "raw_hot": 88302,
+      "num": 88302,
+      "word": "莎头夺金61岁奶奶有一份功劳",
+      "onboard_time": 1722380236,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 88076,
@@ -771,12 +803,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 84614,
-      "num": 158810,
-      "word": "北京暴雨",
-      "onboard_time": 1722294918,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 85443,
+      "num": 85443,
+      "word": "孙颖莎蹲下让刘国梁入镜",
+      "onboard_time": 1722381379,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 81568,
@@ -819,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61605,
+      "num": 80749,
+      "word": "原来男女老少真的可以形容一个人",
+      "onboard_time": 1722378435,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 58595,
       "num": 47110,
       "word": "杨浚瑄晋级决赛",
@@ -851,22 +891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55090,
-      "num": 223486,
-      "word": "杨旭文 你们敢说我不敢念啊",
-      "onboard_time": 1722367934,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 54332,
-      "num": 73648,
-      "word": "王楚钦采访名场面又来了",
-      "onboard_time": 1722378495,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 49090,
       "num": 49090,
       "word": "覃海洋 后程",
@@ -892,7 +916,7 @@
     },
     {
       "raw_hot": 45279,
-      "num": 485015,
+      "num": 940525,
       "word": "北京全市降雨量已达暴雨",
       "onboard_time": 1722372971,
       "rank": 9,
