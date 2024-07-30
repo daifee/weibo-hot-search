@@ -1,6 +1,6 @@
 {
   "startTime": 1722356761759,
-  "endTime": 1722367016563,
+  "endTime": 1722368165966,
   "band_list": [
     {
       "raw_hot": 8963687,
@@ -651,27 +651,35 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 88076,
-      "num": 70194,
-      "word": "中国女子重剑团体第4",
-      "onboard_time": 1722366012,
-      "rank": 38,
+      "raw_hot": 116086,
+      "num": 116086,
+      "word": "何可欣解说",
+      "onboard_time": 1722366192,
+      "rank": 41,
       "category": "体育"
     },
     {
-      "raw_hot": 87584,
-      "num": 70027,
+      "raw_hot": 101218,
+      "num": 101217,
+      "word": "盛李豪父亲回应干饭哥昵称",
+      "onboard_time": 1722367633,
+      "rank": 30,
+      "category": "体育,综艺"
+    },
+    {
+      "raw_hot": 95005,
+      "num": 95005,
       "word": "拜尔斯 女王",
       "onboard_time": 1722366132,
       "rank": 40,
       "category": "体育"
     },
     {
-      "raw_hot": 86763,
-      "num": 69917,
-      "word": "何可欣解说",
-      "onboard_time": 1722366192,
-      "rank": 41,
+      "raw_hot": 88076,
+      "num": 70194,
+      "word": "中国女子重剑团体第4",
+      "onboard_time": 1722366012,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -720,6 +728,22 @@
       "word": "点亮网络文明之光",
       "onboard_time": 1722342748,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27579,
+      "num": 53882,
+      "word": "杨旭文 你们敢说我不敢念啊",
+      "onboard_time": 1722367934,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 16682,
+      "num": 384017,
+      "word": "摄影获奖作品遭多人质疑为AI合成",
+      "onboard_time": 1722367393,
+      "rank": 9,
       "category": "社会新闻"
     }
   ],
