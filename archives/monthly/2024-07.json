@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1722357658520,
+  "endTime": 1722359863011,
   "band_list": [
     {
       "raw_hot": 26081799,
@@ -1088,6 +1088,14 @@
       "word": "朝鲜混双组合不接受采访",
       "onboard_time": 1722317723,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3002200,
+      "num": 3002200,
+      "word": "体操女团决赛",
+      "onboard_time": 1722356842,
+      "rank": 10,
       "category": "体育"
     },
     {
@@ -4787,6 +4795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1329935,
+      "num": 1329935,
+      "word": "小枣 这镜头切过去我真哭了",
+      "onboard_time": 1722354028,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1328362,
       "num": 464405,
       "word": "一喝水就想尿和多喝水却没尿哪个不好",
@@ -5329,6 +5345,14 @@
       "onboard_time": 1722126139,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1245171,
+      "num": 1245171,
+      "word": "QQ糖分手",
+      "onboard_time": 1722357622,
+      "rank": 46,
+      "category": "网红"
     },
     {
       "raw_hot": 1244668,
@@ -7064,14 +7088,6 @@
       "word": "阿条姐表情淡淡的手稳稳的",
       "onboard_time": 1722241345,
       "rank": 11,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1054820,
-      "num": 1054820,
-      "word": "体操女团决赛",
-      "onboard_time": 1722356842,
-      "rank": 10,
       "category": "体育"
     },
     {
@@ -10339,6 +10355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 818410,
+      "num": 818410,
+      "word": "拜尔斯太强了",
+      "onboard_time": 1722358219,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 817934,
       "num": 692340,
       "word": "人鱼 没开机",
@@ -11689,6 +11713,14 @@
       "onboard_time": 1720950741,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 749827,
+      "num": 749827,
+      "word": "张怡宁",
+      "onboard_time": 1722355166,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 749168,
@@ -13401,14 +13433,6 @@
       "onboard_time": 1721911219,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 671314,
-      "num": 671314,
-      "word": "小枣 这镜头切过去我真哭了",
-      "onboard_time": 1722354028,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 671144,
@@ -19827,6 +19851,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 494915,
+      "num": 494915,
+      "word": "混双发布会",
+      "onboard_time": 1722358340,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 494746,
       "num": 494746,
       "word": "解密朝鲜混双组合神秘打法",
@@ -23483,6 +23515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 430457,
+      "num": 430457,
+      "word": "平衡木 吓人",
+      "onboard_time": 1722359359,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 430339,
       "num": 430339,
       "word": "网购11元衣服仅退款后赔偿800元",
@@ -24177,6 +24217,14 @@
       "onboard_time": 1719834558,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 417696,
+      "num": 417696,
+      "word": "法国男篮vs日本男篮",
+      "onboard_time": 1722358160,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 417670,
@@ -25969,14 +26017,6 @@
       "onboard_time": 1722252322,
       "rank": 37,
       "category": "综艺,财经"
-    },
-    {
-      "raw_hot": 387970,
-      "num": 387970,
-      "word": "张怡宁",
-      "onboard_time": 1722355166,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 387778,
@@ -30860,7 +30900,7 @@
     },
     {
       "raw_hot": 321726,
-      "num": 321726,
+      "num": 532234,
       "word": "宇露君沾",
       "onboard_time": 1721705421,
       "rank": 38,
@@ -39619,6 +39659,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 237589,
+      "num": 194414,
+      "word": "王楚钦球拍被踩坏现场",
+      "onboard_time": 1722358820,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 237527,
       "num": 237527,
       "word": "炉甘石洗剂比花露水更安全吗",
@@ -41939,6 +41987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222101,
+      "num": 193797,
+      "word": "体操的妹妹们好棒",
+      "onboard_time": 1722359299,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221972,
       "num": 221972,
       "word": "登陆日空降",
@@ -42089,6 +42145,14 @@
       "onboard_time": 1721709620,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221491,
+      "num": 532896,
+      "word": "章昊没回归就是在备战奥运",
+      "onboard_time": 1722358639,
+      "rank": 18,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 221463,
@@ -58675,14 +58739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 164468,
-      "num": 259365,
-      "word": "QQ糖分手",
-      "onboard_time": 1722357622,
-      "rank": 46,
-      "category": "网红"
-    },
-    {
       "raw_hot": 164462,
       "num": 164462,
       "word": "格局加入RNG",
@@ -69883,6 +69939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125201,
+      "num": 192683,
+      "word": "杨旭文说唐诡第三季今年开拍",
+      "onboard_time": 1722358699,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125165,
       "num": 125165,
       "word": "张馨予买地毯砍价",
@@ -78091,6 +78155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81568,
+      "num": 1992817,
+      "word": "自恋型人格伴侣为什么让人窒息",
+      "onboard_time": 1722355525,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 81253,
       "num": 81253,
       "word": "开幕式女骑手",
@@ -80009,14 +80081,6 @@
       "onboard_time": 1721794881,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66845,
-      "num": 1992817,
-      "word": "自恋型人格伴侣为什么让人窒息",
-      "onboard_time": 1722355525,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 66797,
