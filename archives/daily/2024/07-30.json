@@ -1,6 +1,6 @@
 {
   "startTime": 1722270352158,
-  "endTime": 1722314264115,
+  "endTime": 1722316851084,
   "band_list": [
     {
       "raw_hot": 26081799,
@@ -179,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2183416,
+      "num": 2183416,
+      "word": "女子故意漏扫码同伴提醒打手制止",
+      "onboard_time": 1722310703,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2053792,
       "num": 940984,
       "word": "美国女排扳平比分",
@@ -208,6 +216,14 @@
       "word": "肖若腾哭了",
       "onboard_time": 1722277995,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1748841,
+      "num": 1748841,
+      "word": "苏炜德被临时递补进入团队",
+      "onboard_time": 1722313165,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -249,14 +265,6 @@
       "onboard_time": 1722304702,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1557429,
-      "num": 1557429,
-      "word": "女子故意漏扫码同伴提醒打手制止",
-      "onboard_time": 1722310703,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1555981,
@@ -347,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1160608,
+      "num": 816104,
+      "word": "六年级小侄女朋友圈屏蔽了全家",
+      "onboard_time": 1722312686,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1142818,
       "num": 1142818,
       "word": "王楚钦失误",
@@ -401,6 +417,14 @@
       "onboard_time": 1722275775,
       "rank": 21,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 943203,
+      "num": 943203,
+      "word": "迪丽热巴恭喜练俊杰夺冠",
+      "onboard_time": 1722314844,
+      "rank": 6,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 909949,
@@ -467,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 807507,
+      "num": 807507,
+      "word": "杭州夫妻旅游11天回来发现别墅失火",
+      "onboard_time": 1722312326,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 772921,
       "num": 772921,
       "word": "莎头组合进半决赛",
@@ -497,14 +529,6 @@
       "onboard_time": 1722309382,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 704418,
-      "num": 704418,
-      "word": "六年级小侄女朋友圈屏蔽了全家",
-      "onboard_time": 1722312686,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 681102,
@@ -603,12 +627,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 513664,
-      "num": 513664,
-      "word": "杭州夫妻旅游11天回来发现别墅失火",
-      "onboard_time": 1722312326,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 513610,
+      "num": 664510,
+      "word": "向佐为中国游泳队鸣不平",
+      "onboard_time": 1722314006,
+      "rank": 29,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 512645,
+      "num": 659139,
+      "word": "Hani未婚夫承认病患死亡事故",
+      "onboard_time": 1722316164,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 507285,
@@ -763,6 +795,14 @@
       "category": "演出,体育"
     },
     {
+      "raw_hot": 422825,
+      "num": 422825,
+      "word": "今晚看莎头决赛不用熬夜",
+      "onboard_time": 1722315025,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 421658,
       "num": 538025,
       "word": "陈思诚还能拍出爆款吗",
@@ -851,6 +891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 395692,
+      "num": 395692,
+      "word": "官方辟谣江西举报县委书记女干部死亡",
+      "onboard_time": 1722315443,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386354,
       "num": 386354,
       "word": "陈若琳拥抱郭晶晶",
@@ -873,6 +921,14 @@
       "onboard_time": 1722246981,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 376327,
+      "num": 402024,
+      "word": "吴磊 炸毛欧美男高",
+      "onboard_time": 1722314425,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 376007,
@@ -931,11 +987,43 @@
       "category": "体育"
     },
     {
+      "raw_hot": 344656,
+      "num": 344656,
+      "word": "星穹铁道云璃PV",
+      "onboard_time": 1722316463,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 344505,
+      "num": 355191,
+      "word": "王灿确诊肠易激综合症",
+      "onboard_time": 1722316343,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 343533,
       "num": 336087,
       "word": "孙颖莎首次亮相世界杯便一战成名",
       "onboard_time": 1722304642,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 343437,
+      "num": 343437,
+      "word": "中国游泳队10天内接受兴奋剂检测近200次",
+      "onboard_time": 1722311062,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 340925,
+      "num": 340925,
+      "word": "王楚钦提醒孙颖莎和裁判握手",
+      "onboard_time": 1722316343,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -952,6 +1040,14 @@
       "word": "单杠",
       "onboard_time": 1722276798,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 325069,
+      "num": 325069,
+      "word": "体操小将张怡涵获全场掌声伴奏",
+      "onboard_time": 1722312626,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -1035,6 +1131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 288739,
+      "num": 288739,
+      "word": "4万本金玩出400万交易额",
+      "onboard_time": 1722315923,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 288607,
       "num": 261794,
       "word": "儿子一觉醒来变得水灵灵了",
@@ -1075,11 +1179,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 278169,
-      "num": 278169,
-      "word": "苏炜德被临时递补进入团队",
-      "onboard_time": 1722313165,
-      "rank": 38,
+      "raw_hot": 276628,
+      "num": 276628,
+      "word": "肖战指导给的情绪价值谁懂啊",
+      "onboard_time": 1722315745,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -1099,6 +1203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 268085,
+      "num": 268085,
+      "word": "邹敬园赛后落泪太渴望金牌了",
+      "onboard_time": 1722316103,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 266742,
       "num": 1719641,
       "word": "沈梦瑶成立个人工作室",
@@ -1115,14 +1227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 263672,
-      "num": 495026,
-      "word": "向佐为中国游泳队鸣不平",
-      "onboard_time": 1722314006,
-      "rank": 29,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 263641,
       "num": 1537468,
       "word": "被健身房套路85万无力还贷想跳楼",
@@ -1136,6 +1240,22 @@
       "word": "日本体操",
       "onboard_time": 1722275595,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 258451,
+      "num": 258451,
+      "word": "郎平和朱婷隔空飞吻",
+      "onboard_time": 1722315025,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 258429,
+      "num": 265073,
+      "word": "马龙没把话说死就一切皆有可能",
+      "onboard_time": 1722314306,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -1161,14 +1281,6 @@
       "onboard_time": 1722305060,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 253910,
-      "num": 253910,
-      "word": "体操小将张怡涵获全场掌声伴奏",
-      "onboard_time": 1722312626,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 252908,
@@ -1200,14 +1312,6 @@
       "word": "王楚钦哭了",
       "onboard_time": 1722275297,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 242277,
-      "num": 242277,
-      "word": "中国游泳队10天内接受兴奋剂检测近200次",
-      "onboard_time": 1722311062,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -1587,6 +1691,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81891,
+      "num": 823683,
+      "word": "我对普通朋友vs我对好朋友",
+      "onboard_time": 1722315625,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74739,
+      "num": 397722,
+      "word": "中国科技震撼巴黎",
+      "onboard_time": 1722315983,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73820,
       "num": 209726,
       "word": "刘宇宁很荣幸和陈丽君合作",
@@ -1675,11 +1795,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38671,
+      "num": 533668,
+      "word": "因为人生好难所以祝你幸福",
+      "onboard_time": 1722316764,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 37816,
+      "num": 375112,
+      "word": "张若昀 你是来让这个世界变好的",
+      "onboard_time": 1722314904,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 35000,
       "num": 124797,
       "word": "保山地震",
       "onboard_time": 1722285912,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33016,
+      "num": 1807927,
+      "word": "暴雨内涝自救避险指南",
+      "onboard_time": 1722305120,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1716,6 +1860,9 @@
     },
     {
       "word": "#读懂全会决定中的这些名词#"
+    },
+    {
+      "word": "#总书记对关心关爱退役军人强调五个好#"
     }
   ]
 }
