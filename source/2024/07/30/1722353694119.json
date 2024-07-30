@@ -1,0 +1,410 @@
+{
+  "runTime": 1722353694119,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 13654451,
+        "num": 13654451,
+        "word": "王楚钦球拍",
+        "onboard_time": 1722347796,
+        "rank": 0,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 12811920,
+        "num": 12811920,
+        "word": "王楚钦回应球拍被摄影师踩断",
+        "onboard_time": 1722351033,
+        "rank": 1,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 8876871,
+        "num": 10126871,
+        "word": "孙颖莎哭了",
+        "onboard_time": 1722350016,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7982882,
+        "num": 7982882,
+        "word": "孙颖莎王楚钦混双金牌",
+        "onboard_time": 1722344015,
+        "rank": 3,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 7404856,
+        "num": 7404856,
+        "word": "王楚钦说举报",
+        "onboard_time": 1722347920,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5968727,
+        "num": 5968727,
+        "word": "莎头拥抱庆祝",
+        "onboard_time": 1722348523,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2361632,
+        "num": 2361632,
+        "word": "朝鲜韩国选手互动",
+        "onboard_time": 1722350554,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1084804,
+        "num": 2010943,
+        "word": "张杰发博祝贺莎头夺冠",
+        "onboard_time": 1722351574,
+        "rank": 7,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 477105,
+        "num": 1824558,
+        "word": "林心如被霍建华越过亲女儿",
+        "onboard_time": 1722337162,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192484,
+        "num": 1803530,
+        "word": "万年县常务副县长回应16岁参加工作",
+        "onboard_time": 1722342629,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1789420,
+        "num": 1789420,
+        "word": "齐迎多向飞碟银牌",
+        "onboard_time": 1722349905,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1784089,
+        "num": 1784089,
+        "word": "朝鲜混双组合不接受采访",
+        "onboard_time": 1722317723,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1368219,
+        "num": 1368219,
+        "word": "刘国梁颁奖",
+        "onboard_time": 1722348523,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1296166,
+        "num": 1296166,
+        "word": "孙颖莎正手太强了",
+        "onboard_time": 1722344552,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 646019,
+        "num": 1211150,
+        "word": "英已婚女狱警与囚犯在牢房发生关系",
+        "onboard_time": 1722344968,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1184106,
+        "num": 1184106,
+        "word": "孙颖莎最萌的脸打最狠的球",
+        "onboard_time": 1722352176,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1095774,
+        "num": 1095774,
+        "word": "林钟勋不用服兵役了",
+        "onboard_time": 1722342691,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 895123,
+        "num": 895123,
+        "word": "李小双说是教练组的问题别怪运动员",
+        "onboard_time": 1722327382,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288587,
+        "num": 814560,
+        "word": "王鹤棣hi6回归黑发",
+        "onboard_time": 1722347337,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270055,
+        "num": 796716,
+        "word": "刘诗诗妮可基德曼同框",
+        "onboard_time": 1722341426,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 790993,
+        "num": 790993,
+        "word": "许昕祝贺莎头",
+        "onboard_time": 1722347683,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 740508,
+        "num": 740508,
+        "word": "羽毛球男双",
+        "onboard_time": 1722349717,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 680618,
+        "num": 680618,
+        "word": "马龙紧握双手",
+        "onboard_time": 1722345992,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 677239,
+        "num": 677239,
+        "word": "乒乓观众席怎么有人一直在指挥啊",
+        "onboard_time": 1722348111,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 334168,
+        "num": 669677,
+        "word": "易烊千玺音频",
+        "onboard_time": 1722353310,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247629,
+        "num": 665394,
+        "word": "吴尊一家现场观战莎头决赛",
+        "onboard_time": 1722347796,
+        "rank": 25,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 664884,
+        "num": 664884,
+        "word": "混双收视率破8",
+        "onboard_time": 1722345872,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 628964,
+        "num": 628964,
+        "word": "马龙在观众席看莎头决赛",
+        "onboard_time": 1722344015,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 615903,
+        "num": 615903,
+        "word": "刘诗雯又来看混双了",
+        "onboard_time": 1722345634,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286289,
+        "num": 574896,
+        "word": "何浩楠爷爷去世",
+        "onboard_time": 1722340705,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 574042,
+        "num": 574042,
+        "word": "莎头圆满巴黎",
+        "onboard_time": 1722346760,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 559108,
+        "num": 559108,
+        "word": "霍启山好帅",
+        "onboard_time": 1722343590,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253435,
+        "num": 526776,
+        "word": "唐朝诡事录 吻戏",
+        "onboard_time": 1722338843,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200348,
+        "num": 521529,
+        "word": "白蛇",
+        "onboard_time": 1722353370,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184353,
+        "num": 520489,
+        "word": "北京暴雨",
+        "onboard_time": 1722294918,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520136,
+        "num": 520136,
+        "word": "朝鲜教练",
+        "onboard_time": 1722350078,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 507533,
+        "num": 507533,
+        "word": "肖战指导表情",
+        "onboard_time": 1722345391,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 443938,
+        "num": 443938,
+        "word": "全场大合唱国歌",
+        "onboard_time": 1722349478,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174454,
+        "num": 368515,
+        "word": "十个勤天同时关注黄雨婷了",
+        "onboard_time": 1722341004,
+        "rank": 38,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 353607,
+        "num": 353607,
+        "word": "倪夏莲陪练 朝鲜女选手打法",
+        "onboard_time": 1722338122,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 348752,
+        "num": 348752,
+        "word": "孙颖莎合照太萌了",
+        "onboard_time": 1722353132,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 344780,
+        "num": 344780,
+        "word": "孙颖莎已读乱回",
+        "onboard_time": 1722353370,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 335553,
+        "num": 335553,
+        "word": "王昶超话",
+        "onboard_time": 1722352892,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 335175,
+        "num": 335175,
+        "word": "德国游泳女将质疑张雨霏",
+        "onboard_time": 1722343708,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 334449,
+        "num": 334449,
+        "word": "体操男团丢金都是苏炜德之过吗",
+        "onboard_time": 1722333502,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 332581,
+        "num": 332581,
+        "word": "王楚钦孙颖莎与肖战拥抱",
+        "onboard_time": 1722353429,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182986,
+        "num": 328755,
+        "word": "况盛前女友",
+        "onboard_time": 1722328281,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 182943,
+        "num": 324327,
+        "word": "何浩楠机场",
+        "onboard_time": 1722344367,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165339,
+        "num": 321102,
+        "word": "画皮",
+        "onboard_time": 1722353504,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151556,
+        "num": 314995,
+        "word": "李明接替方星海任证监会副主席",
+        "onboard_time": 1722341845,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移实现全年经济社会发展目标#"
+    }
+  }
+}
