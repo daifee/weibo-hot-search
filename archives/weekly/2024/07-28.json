@@ -1,6 +1,6 @@
 {
   "startTime": 1722097426384,
-  "endTime": 1722371665147,
+  "endTime": 1722374349117,
   "band_list": [
     {
       "raw_hot": 26081799,
@@ -6915,6 +6915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246319,
+      "num": 246319,
+      "word": "中国队男子4x200米自由泳接力第4",
+      "onboard_time": 1722371892,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246283,
       "num": 246283,
       "word": "郑钦文奥运首秀",
@@ -8843,6 +8851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143679,
+      "num": 83150,
+      "word": "程菲",
+      "onboard_time": 1722370812,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143202,
       "num": 209789,
       "word": "中国女排",
@@ -9515,14 +9531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 73974,
-      "num": 73974,
-      "word": "程菲",
-      "onboard_time": 1722370812,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 73820,
       "num": 209726,
       "word": "刘宇宁很荣幸和陈丽君合作",
@@ -9819,6 +9827,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 56854,
+      "num": 56854,
+      "word": "中国游泳队",
+      "onboard_time": 1722340463,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56205,
       "num": 56205,
       "word": "张博恒感谢大家支持体操队",
@@ -9873,14 +9889,6 @@
       "onboard_time": 1722240022,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 53645,
-      "num": 45956,
-      "word": "中国游泳队",
-      "onboard_time": 1722340463,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 52888,
@@ -9953,6 +9961,14 @@
       "onboard_time": 1722324442,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 49090,
+      "num": 49090,
+      "word": "覃海洋 后程",
+      "onboard_time": 1722372672,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 48955,
@@ -10399,6 +10415,14 @@
       "num": 278735,
       "word": "邮递员为女儿送清华录取通知书",
       "onboard_time": 1722197712,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10183,
+      "num": 206706,
+      "word": "北京全市降雨量已达暴雨",
+      "onboard_time": 1722372971,
       "rank": 9,
       "category": "社会新闻"
     },

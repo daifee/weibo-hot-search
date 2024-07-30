@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1722371665147,
+  "endTime": 1722374349117,
   "band_list": [
     {
       "raw_hot": 26081799,
@@ -38475,6 +38475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246319,
+      "num": 246319,
+      "word": "中国队男子4x200米自由泳接力第4",
+      "onboard_time": 1722371892,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246283,
       "num": 246283,
       "word": "郑钦文奥运首秀",
@@ -64723,6 +64731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143679,
+      "num": 83150,
+      "word": "程菲",
+      "onboard_time": 1722370812,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143677,
       "num": 143677,
       "word": "周雨彤正在恶补英语中",
@@ -79323,14 +79339,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 73974,
-      "num": 73974,
-      "word": "程菲",
-      "onboard_time": 1722370812,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 73864,
       "num": 73864,
       "word": "ChinaJoy",
@@ -83137,6 +83145,14 @@
       "onboard_time": 1720702339,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 49090,
+      "num": 49090,
+      "word": "覃海洋 后程",
+      "onboard_time": 1722372672,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 49056,
@@ -89537,6 +89553,14 @@
       "onboard_time": 1720346418,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 10183,
+      "num": 206706,
+      "word": "北京全市降雨量已达暴雨",
+      "onboard_time": 1722372971,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10168,

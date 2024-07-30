@@ -1,6 +1,6 @@
 {
   "startTime": 1722356761759,
-  "endTime": 1722371665147,
+  "endTime": 1722374349117,
   "band_list": [
     {
       "raw_hot": 8963687,
@@ -467,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246319,
+      "num": 246319,
+      "word": "中国队男子4x200米自由泳接力第4",
+      "onboard_time": 1722371892,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 241035,
       "num": 631688,
       "word": "林心如被霍建华越过亲女儿",
@@ -659,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143679,
+      "num": 83150,
+      "word": "程菲",
+      "onboard_time": 1722370812,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143137,
       "num": 308508,
       "word": "况盛前女友",
@@ -723,20 +739,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84614,
+      "num": 158810,
+      "word": "北京暴雨",
+      "onboard_time": 1722294918,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81568,
       "num": 1992817,
       "word": "自恋型人格伴侣为什么让人窒息",
       "onboard_time": 1722355525,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 78462,
-      "num": 158810,
-      "word": "北京暴雨",
-      "onboard_time": 1722294918,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 75911,
@@ -752,14 +768,6 @@
       "word": "心疼体操队妹妹们",
       "onboard_time": 1722366792,
       "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 73974,
-      "num": 73974,
-      "word": "程菲",
-      "onboard_time": 1722370812,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -787,19 +795,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56854,
+      "num": 56854,
+      "word": "中国游泳队",
+      "onboard_time": 1722340463,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55744,
       "num": 47095,
       "word": "何诗蓓小组第一",
       "onboard_time": 1722369972,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 53645,
-      "num": 45956,
-      "word": "中国游泳队",
-      "onboard_time": 1722340463,
-      "rank": 40,
       "category": "体育"
     },
     {
@@ -809,6 +817,14 @@
       "onboard_time": 1722367934,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 49090,
+      "num": 49090,
+      "word": "覃海洋 后程",
+      "onboard_time": 1722372672,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 48932,
@@ -832,6 +848,14 @@
       "word": "点亮网络文明之光",
       "onboard_time": 1722342748,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10183,
+      "num": 206706,
+      "word": "北京全市降雨量已达暴雨",
+      "onboard_time": 1722372971,
+      "rank": 9,
       "category": "社会新闻"
     }
   ],
