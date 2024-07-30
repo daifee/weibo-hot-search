@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1722364760254,
+  "endTime": 1722367016563,
   "band_list": [
     {
       "raw_hot": 26081799,
@@ -12931,6 +12931,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 694574,
+      "num": 694574,
+      "word": "潘展乐半决赛第一",
+      "onboard_time": 1722365352,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 694087,
       "num": 608698,
       "word": "郑乃馨否认与Bright分手",
@@ -15729,6 +15737,14 @@
       "onboard_time": 1721097377,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 594822,
+      "num": 594822,
+      "word": "体操女团 跳马",
+      "onboard_time": 1722363554,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 594787,
@@ -18745,6 +18761,14 @@
       "onboard_time": 1721104819,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 518760,
+      "num": 518760,
+      "word": "中国体操女团第6",
+      "onboard_time": 1722364454,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 518558,
@@ -23971,14 +23995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 422312,
-      "num": 422312,
-      "word": "体操女团 跳马",
-      "onboard_time": 1722363554,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 422276,
       "num": 422276,
       "word": "杨紫穿秀禾",
@@ -25280,14 +25296,6 @@
       "word": "盛李豪 第一次觉得中文这么难懂",
       "onboard_time": 1722337642,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 400518,
-      "num": 400518,
-      "word": "中国体操女团第6",
-      "onboard_time": 1722364454,
-      "rank": 21,
       "category": "体育"
     },
     {
@@ -35977,6 +35985,14 @@
       "onboard_time": 1719966379,
       "rank": 24,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 267147,
+      "num": 267147,
+      "word": "潘展乐晋级决赛",
+      "onboard_time": 1722365593,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 267137,
@@ -77619,6 +77635,14 @@
       "category": "社会新闻,社会正能量"
     },
     {
+      "raw_hot": 88076,
+      "num": 70194,
+      "word": "中国女子重剑团体第4",
+      "onboard_time": 1722366012,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87968,
       "num": 87968,
       "word": "科斯塔连扑三点",
@@ -77683,6 +77707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87584,
+      "num": 70027,
+      "word": "拜尔斯 女王",
+      "onboard_time": 1722366132,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87514,
       "num": 793260,
       "word": "塔吉克斯坦小伙会做20多道中国菜",
@@ -77737,6 +77769,14 @@
       "onboard_time": 1721369422,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86763,
+      "num": 69917,
+      "word": "何可欣解说",
+      "onboard_time": 1722366192,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 86738,
@@ -79129,6 +79169,14 @@
       "onboard_time": 1721808500,
       "rank": 21,
       "category": "数码"
+    },
+    {
+      "raw_hot": 74874,
+      "num": 69417,
+      "word": "心疼体操队妹妹们",
+      "onboard_time": 1722366792,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 74848,

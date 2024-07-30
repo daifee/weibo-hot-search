@@ -1,6 +1,6 @@
 {
   "startTime": 1722356761759,
-  "endTime": 1722364760254,
+  "endTime": 1722367016563,
   "band_list": [
     {
       "raw_hot": 8963687,
@@ -155,6 +155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 694574,
+      "num": 694574,
+      "word": "潘展乐半决赛第一",
+      "onboard_time": 1722365352,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 686594,
       "num": 686594,
       "word": "孙颖莎最萌的脸打最狠的球",
@@ -187,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 594822,
+      "num": 594822,
+      "word": "体操女团 跳马",
+      "onboard_time": 1722363554,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 594712,
       "num": 594712,
       "word": "林钟勋不用服兵役了",
@@ -216,6 +232,14 @@
       "word": "法国男篮vs日本男篮",
       "onboard_time": 1722358160,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 518760,
+      "num": 518760,
+      "word": "中国体操女团第6",
+      "onboard_time": 1722364454,
+      "rank": 21,
       "category": "体育"
     },
     {
@@ -275,27 +299,11 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 422312,
-      "num": 422312,
-      "word": "体操女团 跳马",
-      "onboard_time": 1722363554,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 404380,
       "num": 404380,
       "word": "周雅琴掉木",
       "onboard_time": 1722361816,
       "rank": 20,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 400518,
-      "num": 400518,
-      "word": "中国体操女团第6",
-      "onboard_time": 1722364454,
-      "rank": 21,
       "category": "体育"
     },
     {
@@ -425,6 +433,14 @@
       "onboard_time": 1722355585,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 267147,
+      "num": 267147,
+      "word": "潘展乐晋级决赛",
+      "onboard_time": 1722365593,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 251344,
@@ -635,6 +651,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88076,
+      "num": 70194,
+      "word": "中国女子重剑团体第4",
+      "onboard_time": 1722366012,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 87584,
+      "num": 70027,
+      "word": "拜尔斯 女王",
+      "onboard_time": 1722366132,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 86763,
+      "num": 69917,
+      "word": "何可欣解说",
+      "onboard_time": 1722366192,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81568,
       "num": 1992817,
       "word": "自恋型人格伴侣为什么让人窒息",
@@ -657,6 +697,14 @@
       "onboard_time": 1722361215,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 74874,
+      "num": 69417,
+      "word": "心疼体操队妹妹们",
+      "onboard_time": 1722366792,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 48932,
