@@ -1,0 +1,410 @@
+{
+  "runTime": 1722332095479,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8491491,
+        "num": 8491491,
+        "word": "李小双怒斥中国体操教练组",
+        "onboard_time": 1722327382,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1805119,
+        "num": 1805119,
+        "word": "陈梦翡翠项链",
+        "onboard_time": 1722327561,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14607,
+        "num": 1511648,
+        "word": "雨天出行一定要注意的小事",
+        "onboard_time": 1722331703,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1269702,
+        "num": 1269702,
+        "word": "王楚钦 你们放过我们",
+        "onboard_time": 1722309021,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1224408,
+        "num": 1224408,
+        "word": "孙颖莎把自己的资料填的好详细",
+        "onboard_time": 1722328162,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1179407,
+        "num": 1179407,
+        "word": "孙颖莎暗号手势算是看明白了",
+        "onboard_time": 1722321441,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 981041,
+        "num": 981041,
+        "word": "陈梦晋级女单16强",
+        "onboard_time": 1722329723,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 417187,
+        "num": 973911,
+        "word": "檀健次用九年前截图评论摄影师",
+        "onboard_time": 1722325281,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 328454,
+        "num": 940247,
+        "word": "专家不理解吴昕想去养老院的想法",
+        "onboard_time": 1722321922,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205868,
+        "num": 919149,
+        "word": "整治形式主义为基层减负若干规定",
+        "onboard_time": 1722330262,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1287271,
+        "num": 873397,
+        "word": "况盛前女友",
+        "onboard_time": 1722328281,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 859472,
+        "num": 859472,
+        "word": "埃及击剑选手已怀孕7个月",
+        "onboard_time": 1722323662,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 807997,
+        "num": 807997,
+        "word": "全红婵跳水时现场有多安静",
+        "onboard_time": 1722328342,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 624588,
+        "num": 624588,
+        "word": "北京暴雨",
+        "onboard_time": 1722294918,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22337,
+        "num": 620301,
+        "word": "大连一城管P图遮掩垃圾被处分",
+        "onboard_time": 1722331823,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 726178,
+        "num": 612772,
+        "word": "朝鲜混双组合不接受采访",
+        "onboard_time": 1722317723,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 714985,
+        "num": 608285,
+        "word": "苏炜德赛后道歉",
+        "onboard_time": 1722295640,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275134,
+        "num": 601260,
+        "word": "迪丽热巴恭喜练俊杰夺冠",
+        "onboard_time": 1722314844,
+        "rank": 17,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 248632,
+        "num": 592625,
+        "word": "韩国rapper为完成粉丝公约坠楼身亡",
+        "onboard_time": 1722317543,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235326,
+        "num": 588407,
+        "word": "张若昀 你选嬛嬛我选瓜六",
+        "onboard_time": 1722331403,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 585609,
+        "num": 585609,
+        "word": "牛广盛弃权",
+        "onboard_time": 1722331523,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 580913,
+        "num": 580913,
+        "word": "小马宝莉卡 16万一张",
+        "onboard_time": 1722330262,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540712,
+        "num": 540712,
+        "word": "陈梦vs伯格斯特隆",
+        "onboard_time": 1722325522,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 529964,
+        "num": 529964,
+        "word": "苏炜德被临时递补进入团队",
+        "onboard_time": 1722313165,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 516023,
+        "num": 516023,
+        "word": "削球手",
+        "onboard_time": 1722327683,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 507267,
+        "num": 507267,
+        "word": "孙颖莎的手掌全是厚厚的茧",
+        "onboard_time": 1722329183,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 444350,
+        "num": 444350,
+        "word": "中国体操男团摘银",
+        "onboard_time": 1722276798,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 425415,
+        "num": 425415,
+        "word": "谢瑜 一枪击破家徒四壁",
+        "onboard_time": 1722317063,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181384,
+        "num": 423299,
+        "word": "胡歌拍了四年繁花没去过黄河路",
+        "onboard_time": 1722323362,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143432,
+        "num": 422079,
+        "word": "王灿确诊肠易激综合症",
+        "onboard_time": 1722316343,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421386,
+        "num": 421386,
+        "word": "中通快运就寄错医疗器械道歉",
+        "onboard_time": 1722326061,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393669,
+        "num": 393669,
+        "word": "宁泽涛和孙杨到底听谁的",
+        "onboard_time": 1722330862,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341836,
+        "num": 341836,
+        "word": "孙杨说泳池深浅对比赛影响很大",
+        "onboard_time": 1722321261,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 314887,
+        "num": 314887,
+        "word": "孙杨说今年一定会重登赛场",
+        "onboard_time": 1722327083,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282491,
+        "num": 282491,
+        "word": "中共中央召开党外人士座谈会",
+        "onboard_time": 1722331585,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 70694,
+        "num": 281425,
+        "word": "8月这批新规将施行",
+        "onboard_time": 1722315265,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301182,
+        "num": 281347,
+        "word": "游泳预赛",
+        "onboard_time": 1722330862,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280955,
+        "num": 280955,
+        "word": "好man喔 他不嫌勒诶",
+        "onboard_time": 1722324562,
+        "rank": 37,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 276676,
+        "num": 276676,
+        "word": "巴黎奥运会开幕式蓝精灵致歉",
+        "onboard_time": 1722329602,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268092,
+        "num": 268092,
+        "word": "公孙离新皮肤",
+        "onboard_time": 1722331763,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 255943,
+        "num": 255943,
+        "word": "独居女孩遭陌生男十多次趴门偷听",
+        "onboard_time": 1722324261,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220157,
+        "num": 220157,
+        "word": "陈梦稳稳的",
+        "onboard_time": 1722331163,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217038,
+        "num": 217038,
+        "word": "拼多多旗下平台Temu惹怒卖家",
+        "onboard_time": 1722329845,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 204706,
+        "num": 204706,
+        "word": "NCT总选",
+        "onboard_time": 1722328222,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194021,
+        "num": 194021,
+        "word": "徐嘉余大笑说让你们失望了",
+        "onboard_time": 1722322163,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192657,
+        "num": 192657,
+        "word": "杭州夫妻旅游11天回来发现别墅失火",
+        "onboard_time": 1722312326,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185847,
+        "num": 185847,
+        "word": "莎头战胜韩国队",
+        "onboard_time": 1722270345,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185571,
+        "num": 185571,
+        "word": "夜玫瑰的曲",
+        "onboard_time": 1722323000,
+        "rank": 47,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 185462,
+        "num": 185462,
+        "word": "金希澈自曝一般恋爱时长2到3周",
+        "onboard_time": 1722320362,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140266,
+        "num": 177825,
+        "word": "百花奖恭喜张艺兴",
+        "onboard_time": 1722325702,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对关心关爱退役军人强调五个好#"
+    }
+  }
+}
