@@ -1,6 +1,6 @@
 {
   "startTime": 1722356761759,
-  "endTime": 1722389330956,
+  "endTime": 1722391082931,
   "band_list": [
     {
       "raw_hot": 8963687,
@@ -16,6 +16,14 @@
       "word": "王楚钦说举报",
       "onboard_time": 1722347920,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 6433078,
+      "num": 6433078,
+      "word": "视频回放王楚钦球拍被踩断始末",
+      "onboard_time": 1722388283,
+      "rank": 13,
       "category": "体育"
     },
     {
@@ -99,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2015686,
+      "num": 2015686,
+      "word": "孙颖莎 就这么水灵灵地说出来了",
+      "onboard_time": 1722385044,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1989926,
       "num": 1989926,
       "word": "朝鲜韩国选手互动",
@@ -128,14 +144,6 @@
       "word": "莎莎感谢大头",
       "onboard_time": 1722368594,
       "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1427472,
-      "num": 1427472,
-      "word": "孙颖莎 就这么水灵灵地说出来了",
-      "onboard_time": 1722385044,
-      "rank": 12,
       "category": "体育"
     },
     {
@@ -179,19 +187,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1130920,
+      "num": 861941,
+      "word": "王楚钦的球拍上有个脚印",
+      "onboard_time": 1722390981,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1093001,
       "num": 897419,
       "word": "08体操女团",
       "onboard_time": 1722384144,
       "rank": 16,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1076679,
-      "num": 1076679,
-      "word": "视频回放王楚钦球拍被踩断始末",
-      "onboard_time": 1722388283,
-      "rank": 13,
       "category": "体育"
     },
     {
@@ -235,6 +243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 927315,
+      "num": 927315,
+      "word": "上海一餐饮店查出65条活蛇",
+      "onboard_time": 1722385284,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 889425,
       "num": 889425,
       "word": "体操的妹妹们好棒",
@@ -275,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 718554,
+      "num": 718554,
+      "word": "况盛清空微博",
+      "onboard_time": 1722390621,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 711228,
       "num": 711228,
       "word": "中朝韩3国运动员自拍",
@@ -305,6 +329,14 @@
       "onboard_time": 1722344552,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 644935,
+      "num": 644935,
+      "word": "况盛爱女儿人设",
+      "onboard_time": 1722377293,
+      "rank": 44,
+      "category": "网红"
     },
     {
       "raw_hot": 631678,
@@ -339,14 +371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 581139,
-      "num": 581139,
-      "word": "上海一餐饮店查出65条活蛇",
-      "onboard_time": 1722385284,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 579107,
       "num": 579107,
       "word": "王楚钦孙颖莎互相说感谢",
@@ -371,12 +395,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 535695,
-      "num": 535695,
-      "word": "况盛爱女儿人设",
-      "onboard_time": 1722377293,
-      "rank": 44,
-      "category": "网红"
+      "raw_hot": 540722,
+      "num": 933419,
+      "word": "王楚然灰色吊带",
+      "onboard_time": 1722389483,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 511838,
@@ -443,20 +467,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 433620,
+      "num": 433620,
+      "word": "美国4岁女童吃汉堡王吃出人血",
+      "onboard_time": 1722386784,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 428850,
       "num": 941065,
       "word": "妈妈镜头下的肖战",
       "onboard_time": 1722377183,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 426829,
-      "num": 426829,
-      "word": "美国4岁女童吃汉堡王吃出人血",
-      "onboard_time": 1722386784,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 404380,
@@ -513,6 +537,14 @@
       "onboard_time": 1722354807,
       "rank": 17,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 373292,
+      "num": 373292,
+      "word": "肖战教练向裁判抗议",
+      "onboard_time": 1722388943,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 368896,
@@ -683,14 +715,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 275138,
-      "num": 275138,
-      "word": "肖战教练向裁判抗议",
-      "onboard_time": 1722388943,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 272749,
       "num": 272749,
       "word": "莎头这枚金牌含金量有多高",
@@ -720,6 +744,14 @@
       "word": "潘展乐晋级决赛",
       "onboard_time": 1722365593,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 253088,
+      "num": 253088,
+      "word": "一觉醒来中国队创造3个首次",
+      "onboard_time": 1722390142,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -779,6 +811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227084,
+      "num": 227084,
+      "word": "覃海洋回应无缘决赛",
+      "onboard_time": 1722390801,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 226996,
       "num": 584436,
       "word": "谢娜为莎头组合加油",
@@ -793,6 +833,14 @@
       "onboard_time": 1722358759,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213169,
+      "num": 213169,
+      "word": "韩林抱的是他的退伍证",
+      "onboard_time": 1722391041,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 213024,
@@ -881,6 +929,14 @@
       "onboard_time": 1722353370,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 167844,
+      "num": 509362,
+      "word": "好6团聚餐全员到齐合影",
+      "onboard_time": 1722390502,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 167172,
@@ -1164,7 +1220,7 @@
     },
     {
       "raw_hot": 33031,
-      "num": 1435146,
+      "num": 2159573,
       "word": "暴雨天气9个安全提醒",
       "onboard_time": 1722342987,
       "rank": 2,
