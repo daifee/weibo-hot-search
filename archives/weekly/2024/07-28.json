@@ -1,6 +1,6 @@
 {
   "startTime": 1722097426384,
-  "endTime": 1722464326491,
+  "endTime": 1722465350670,
   "band_list": [
     {
       "raw_hot": 33113456,
@@ -1603,6 +1603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1831322,
+      "num": 1831322,
+      "word": "孙颖莎连追6分",
+      "onboard_time": 1722453914,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1825107,
       "num": 1825107,
       "word": "男子射箭中国队无缘决赛",
@@ -2224,14 +2232,6 @@
       "word": "张博恒吊环14.600分",
       "onboard_time": 1722444805,
       "rank": 16,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1360600,
-      "num": 1360600,
-      "word": "孙颖莎连追6分",
-      "onboard_time": 1722453914,
-      "rank": 20,
       "category": "体育"
     },
     {
@@ -3403,6 +3403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 903041,
+      "num": 903041,
+      "word": "张雨霏发烧",
+      "onboard_time": 1722456373,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 902259,
       "num": 902259,
       "word": "中国女排2比0美国女排",
@@ -3603,6 +3611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 836584,
+      "num": 836584,
+      "word": "潘展乐 比孙杨快就够了",
+      "onboard_time": 1722462133,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 834927,
       "num": 834927,
       "word": "郭晶晶裁判长好飒",
@@ -3680,6 +3696,14 @@
       "word": "王楚钦孙颖莎采访",
       "onboard_time": 1722273620,
       "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 816492,
+      "num": 816492,
+      "word": "樊振东火速进8强",
+      "onboard_time": 1722458834,
+      "rank": 15,
       "category": "体育"
     },
     {
@@ -4059,14 +4083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 707910,
-      "num": 707910,
-      "word": "张雨霏发烧",
-      "onboard_time": 1722456373,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 706727,
       "num": 2807198,
       "word": "演唱会实名购票入场前发现已被顶替",
@@ -4112,14 +4128,6 @@
       "word": "高敏说游泳队赛前训练出了问题",
       "onboard_time": 1722221902,
       "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 690105,
-      "num": 690105,
-      "word": "樊振东火速进8强",
-      "onboard_time": 1722458834,
-      "rank": 15,
       "category": "体育"
     },
     {
@@ -4265,14 +4273,6 @@
       "onboard_time": 1722127518,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 650727,
-      "num": 212385,
-      "word": "潘展乐 比孙杨快就够了",
-      "onboard_time": 1722462133,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 649254,
@@ -4700,7 +4700,7 @@
     },
     {
       "raw_hot": 576309,
-      "num": 212309,
+      "num": 268738,
       "word": "游泳解说 咆哮",
       "onboard_time": 1722461412,
       "rank": 23,
@@ -10651,6 +10651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191824,
+      "num": 166176,
+      "word": "查尔莫斯",
+      "onboard_time": 1722464055,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191601,
       "num": 191601,
       "word": "中国射击队再夺一金",
@@ -10801,6 +10809,14 @@
       "onboard_time": 1722344851,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 181550,
+      "num": 140087,
+      "word": "张本智和进8强",
+      "onboard_time": 1722462673,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 181108,
@@ -11121,14 +11137,6 @@
       "onboard_time": 1722137841,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 166176,
-      "num": 166176,
-      "word": "查尔莫斯",
-      "onboard_time": 1722464055,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 165339,
@@ -11456,14 +11464,6 @@
       "word": "原来跳水比赛的哨是郭晶晶按的",
       "onboard_time": 1722118933,
       "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 140087,
-      "num": 140087,
-      "word": "张本智和进8强",
-      "onboard_time": 1722462673,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -12412,7 +12412,7 @@
     },
     {
       "raw_hot": 68200,
-      "num": 792076,
+      "num": 884828,
       "word": "谢谢人民子弟兵给的安全感",
       "onboard_time": 1722451993,
       "rank": 9,
@@ -12465,6 +12465,14 @@
       "onboard_time": 1722254963,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66402,
+      "num": 211618,
+      "word": "短短60秒比我一天干的事儿都多",
+      "onboard_time": 1722460633,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 66209,
@@ -12723,6 +12731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54816,
+      "num": 137112,
+      "word": "杨紫高定花裙",
+      "onboard_time": 1722462613,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 53744,
       "num": 844994,
       "word": "法拍律师眼中的断供潮",
@@ -12849,14 +12865,6 @@
       "onboard_time": 1722240022,
       "rank": 14,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 46330,
-      "num": 211618,
-      "word": "短短60秒比我一天干的事儿都多",
-      "onboard_time": 1722460633,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 46266,
@@ -13049,14 +13057,6 @@
       "onboard_time": 1722155543,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36175,
-      "num": 137112,
-      "word": "杨紫高定花裙",
-      "onboard_time": 1722462613,
-      "rank": 46,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 35477,
