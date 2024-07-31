@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1722400550409,
+  "endTime": 1722403135900,
   "band_list": [
     {
       "raw_hot": 26081799,
@@ -2251,6 +2251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 4248660,
+      "num": 4248660,
+      "word": "哈马斯回应哈尼亚遭袭身亡",
+      "onboard_time": 1722398002,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 4235540,
       "num": 3188775,
       "word": "梅西杭州行取消",
@@ -2355,6 +2363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 4126564,
+      "num": 4126564,
+      "word": "白宫回应哈尼亚被杀",
+      "onboard_time": 1722401003,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 4126542,
       "num": 4753085,
       "word": "阮富仲去世",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1707483361,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 4061856,
-      "num": 4061856,
-      "word": "四六级成绩 小牌大耍",
-      "onboard_time": 1708481196,
-      "rank": 0,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 4051983,
-      "num": 4051983,
-      "word": "过年 吵架",
-      "onboard_time": 1707624989,
-      "rank": 33,
-      "category": "情感"
     }
   ],
   "hotgov_list": [
