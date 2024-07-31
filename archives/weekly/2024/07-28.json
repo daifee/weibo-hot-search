@@ -1,6 +1,6 @@
 {
   "startTime": 1722097426384,
-  "endTime": 1722432139797,
+  "endTime": 1722432850398,
   "band_list": [
     {
       "raw_hot": 33113456,
@@ -792,6 +792,14 @@
       "word": "肖若腾胳膊出血了",
       "onboard_time": 1722275955,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2870047,
+      "num": 2870047,
+      "word": "中国女篮不敌塞尔维亚女篮",
+      "onboard_time": 1722432387,
+      "rank": 1,
       "category": "体育"
     },
     {
@@ -1643,6 +1651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1574305,
+      "num": 1574305,
+      "word": "全红婵罕见的炸鱼名场面",
+      "onboard_time": 1722428125,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1570003,
       "num": 1570003,
       "word": "杨毅回应女篮解说言论",
@@ -1928,14 +1944,6 @@
       "word": "韩国游泳男选手搬离宿舍去住酒店了",
       "onboard_time": 1722137181,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1396187,
-      "num": 1396187,
-      "word": "全红婵罕见的炸鱼名场面",
-      "onboard_time": 1722428125,
-      "rank": 38,
       "category": "体育"
     },
     {
@@ -2459,6 +2467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1179093,
+      "num": 1179093,
+      "word": "我还要准备下一场比赛",
+      "onboard_time": 1722431064,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1172522,
       "num": 1172522,
       "word": "崔宸曦晋级决赛",
@@ -2547,6 +2563,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 1131159,
+      "num": 1131159,
+      "word": "全红婵你就这么亲陈芋汐了",
+      "onboard_time": 1722430466,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1126167,
       "num": 1126167,
       "word": "孙佳琪摔了",
@@ -2611,6 +2635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1087668,
+      "num": 2388116,
+      "word": "披荆斩棘4官宣定档",
+      "onboard_time": 1722431245,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1087340,
       "num": 1087340,
       "word": "孙颖莎4比0倪夏莲",
@@ -2632,14 +2664,6 @@
       "word": "朱婷说这是我最后一届奥运会",
       "onboard_time": 1722297984,
       "rank": 16,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1065416,
-      "num": 1065416,
-      "word": "我还要准备下一场比赛",
-      "onboard_time": 1722431064,
-      "rank": 27,
       "category": "体育"
     },
     {
@@ -2728,6 +2752,14 @@
       "word": "女篮 紧张",
       "onboard_time": 1722173842,
       "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1028347,
+      "num": 991101,
+      "word": "李梦失误",
+      "onboard_time": 1722431607,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -3147,14 +3179,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 863587,
-      "num": 2388116,
-      "word": "披荆斩棘4官宣定档",
-      "onboard_time": 1722431245,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 861578,
       "num": 776776,
       "word": "疑似张雨绮新恋情",
@@ -3507,14 +3531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 745294,
-      "num": 745294,
-      "word": "全红婵你就这么亲陈芋汐了",
-      "onboard_time": 1722430466,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 738731,
       "num": 738731,
       "word": "法国一天一个让韩国破防的小技巧",
@@ -3659,6 +3675,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 703475,
+      "num": 1930916,
+      "word": "夏克立被曝婚内骚扰保姆",
+      "onboard_time": 1722431667,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 697033,
       "num": 973464,
       "word": "郑佩佩女儿再发文",
@@ -3769,6 +3793,14 @@
       "onboard_time": 1722131602,
       "rank": 11,
       "category": "网红,音乐"
+    },
+    {
+      "raw_hot": 664515,
+      "num": 664515,
+      "word": "樊振东说要专注于自己",
+      "onboard_time": 1722431064,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 662363,
@@ -3883,11 +3915,19 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 638427,
-      "num": 638427,
+      "raw_hot": 638706,
+      "num": 638706,
       "word": "王皓指导",
       "onboard_time": 1722428545,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 637670,
+      "num": 637670,
+      "word": "女篮今晚是复仇战也是生死战",
+      "onboard_time": 1722428067,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -3969,14 +4009,6 @@
       "onboard_time": 1722316164,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 623692,
-      "num": 623692,
-      "word": "女篮今晚是复仇战也是生死战",
-      "onboard_time": 1722428067,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 621938,
@@ -4081,14 +4113,6 @@
       "onboard_time": 1722239181,
       "rank": 17,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 602994,
-      "num": 602994,
-      "word": "樊振东说要专注于自己",
-      "onboard_time": 1722431064,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 600186,
@@ -4635,6 +4659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 517186,
+      "num": 1387847,
+      "word": "Jennie秀智一起去看试映会",
+      "onboard_time": 1722432325,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 517169,
       "num": 517169,
       "word": "杨力维犯规",
@@ -4643,16 +4675,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 513508,
-      "num": 513508,
-      "word": "李梦失误",
-      "onboard_time": 1722431607,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 513264,
-      "num": 513264,
+      "num": 590697,
       "word": "郑钦文vs科贝尔",
       "onboard_time": 1722430947,
       "rank": 43,
@@ -5091,14 +5115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 459690,
-      "num": 1930916,
-      "word": "夏克立被曝婚内骚扰保姆",
-      "onboard_time": 1722431667,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 458160,
       "num": 458160,
       "word": "中国体操女团暂列第3",
@@ -5204,7 +5220,7 @@
     },
     {
       "raw_hot": 446118,
-      "num": 446118,
+      "num": 659180,
       "word": "女子刷视频自学针灸治病致人死亡",
       "onboard_time": 1722427224,
       "rank": 46,
@@ -5968,6 +5984,14 @@
       "word": "巴黎奥运赛程",
       "onboard_time": 1722252082,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 382506,
+      "num": 2354973,
+      "word": "王思雨说小组赛中已没退路",
+      "onboard_time": 1722427767,
+      "rank": 12,
       "category": "体育"
     },
     {
@@ -7219,6 +7243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303605,
+      "num": 1004248,
+      "word": "朱志鑫换微博头像",
+      "onboard_time": 1722429925,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 303078,
       "num": 303078,
       "word": "阿条姐 干饭哥",
@@ -7944,14 +7976,6 @@
       "word": "张博恒好稳",
       "onboard_time": 1722095493,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 269428,
-      "num": 2354973,
-      "word": "王思雨说小组赛中已没退路",
-      "onboard_time": 1722427767,
-      "rank": 12,
       "category": "体育"
     },
     {
@@ -8913,14 +8937,6 @@
       "onboard_time": 1722360676,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 230356,
-      "num": 732743,
-      "word": "朱志鑫换微博头像",
-      "onboard_time": 1722429925,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 230338,
@@ -10419,6 +10435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 164686,
+      "num": 2382418,
+      "word": "8500元的LV短袖T恤水洗后串色",
+      "onboard_time": 1722430826,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162621,
       "num": 305085,
       "word": "汪苏泷素龙",
@@ -10827,6 +10851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125209,
+      "num": 2218917,
+      "word": "冰杯的性价比高在哪",
+      "onboard_time": 1722430826,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124495,
       "num": 939013,
       "word": "新疆发现罕见白色棕熊",
@@ -10921,14 +10953,6 @@
       "onboard_time": 1722247223,
       "rank": 9,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 116273,
-      "num": 2382418,
-      "word": "8500元的LV短袖T恤水洗后串色",
-      "onboard_time": 1722430826,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116086,
@@ -11307,6 +11331,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 83923,
+      "num": 1042437,
+      "word": "韩旭状态",
+      "onboard_time": 1722430765,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83666,
       "num": 344893,
       "word": "异人之下",
@@ -11499,14 +11531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 72527,
-      "num": 1034932,
-      "word": "韩旭状态",
-      "onboard_time": 1722430765,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 70694,
       "num": 1516604,
       "word": "8月这批新规将施行",
@@ -11617,14 +11641,6 @@
       "onboard_time": 1722110052,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 65365,
-      "num": 2218917,
-      "word": "冰杯的性价比高在哪",
-      "onboard_time": 1722430826,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64807,
@@ -11881,6 +11897,14 @@
       "onboard_time": 1722247223,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52585,
+      "num": 5297637,
+      "word": "文化中国行看高平古建有多美",
+      "onboard_time": 1722430765,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52283,
@@ -12289,14 +12313,6 @@
       "onboard_time": 1722251124,
       "rank": 38,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 28026,
-      "num": 5297637,
-      "word": "文化中国行看高平古建有多美",
-      "onboard_time": 1722430765,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27716,
