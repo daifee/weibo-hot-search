@@ -1,0 +1,410 @@
+{
+  "runTime": 1722404061145,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6721812,
+        "num": 6721812,
+        "word": "哈马斯领导人哈尼亚遇袭身亡",
+        "onboard_time": 1722395483,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 3748701,
+        "num": 3748701,
+        "word": "哈马斯回应哈尼亚遭袭身亡",
+        "onboard_time": 1722398002,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 10097,
+        "num": 3588479,
+        "word": "暴雨天气9个安全提醒",
+        "onboard_time": 1722342987,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3512104,
+        "num": 3512104,
+        "word": "哈马斯领导人凌晨在住所内被暗杀",
+        "onboard_time": 1722397164,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1853192,
+        "num": 1853192,
+        "word": "应采儿神预言况盛",
+        "onboard_time": 1722401183,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1488671,
+        "num": 1488671,
+        "word": "莎莎感谢大头",
+        "onboard_time": 1722368594,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 904934,
+        "num": 904934,
+        "word": "歌手官宣巅峰之夜阵容",
+        "onboard_time": 1722401963,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 789610,
+        "num": 789610,
+        "word": "台湾解说赞孙颖莎是定心丸",
+        "onboard_time": 1722400345,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1231466,
+        "num": 780963,
+        "word": "况盛 三三",
+        "onboard_time": 1722387143,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3289215,
+        "num": 774173,
+        "word": "以色列回应哈马斯领导人遇袭身亡",
+        "onboard_time": 1722402503,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 3477788,
+        "num": 765728,
+        "word": "白宫回应哈尼亚被杀",
+        "onboard_time": 1722401003,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 3073013,
+        "num": 758985,
+        "word": "以军拒绝评论哈尼亚被杀",
+        "onboard_time": 1722400764,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 2202922,
+        "num": 753519,
+        "word": "视频回放王楚钦球拍被踩断始末",
+        "onboard_time": 1722388283,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1200070,
+        "num": 744265,
+        "word": "乒乓记者称王楚钦要过心理关",
+        "onboard_time": 1722393081,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1033525,
+        "num": 735651,
+        "word": "王楚钦的球拍上有个脚印",
+        "onboard_time": 1722390981,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 954935,
+        "num": 725233,
+        "word": "况盛清空微博",
+        "onboard_time": 1722390621,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 816754,
+        "num": 713309,
+        "word": "王楚钦说举报",
+        "onboard_time": 1722347920,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 709262,
+        "num": 709262,
+        "word": "意大利就输给中国香港提抗议",
+        "onboard_time": 1722393742,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 620465,
+        "num": 620465,
+        "word": "孙颖莎 就这么水灵灵地说出来了",
+        "onboard_time": 1722385044,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70104,
+        "num": 617445,
+        "word": "胡先煦蹦迪直拍",
+        "onboard_time": 1722403519,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 614905,
+        "num": 614905,
+        "word": "周五请假了工位变成这样了",
+        "onboard_time": 1722385945,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 560102,
+        "num": 560102,
+        "word": "阚清子与未婚夫前后走机场",
+        "onboard_time": 1722401903,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 515423,
+        "num": 515423,
+        "word": "王楚钦采访名场面又来了",
+        "onboard_time": 1722378495,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 479774,
+        "num": 479774,
+        "word": "莎头拥抱庆祝",
+        "onboard_time": 1722348523,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 447789,
+        "num": 447789,
+        "word": "38岁女子放弃北漂住进养老院",
+        "onboard_time": 1722402204,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443507,
+        "num": 443507,
+        "word": "QQ糖分手",
+        "onboard_time": 1722357622,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 431162,
+        "num": 431162,
+        "word": "哈尼亚多个儿孙在以袭击中丧生",
+        "onboard_time": 1722397825,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 426625,
+        "num": 426625,
+        "word": "孙颖莎指挥中朝韩选手合影好暖",
+        "onboard_time": 1722392063,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268687,
+        "num": 426302,
+        "word": "henry想加金晨微信",
+        "onboard_time": 1722401544,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205711,
+        "num": 426202,
+        "word": "密室大逃脱",
+        "onboard_time": 1722403222,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 426107,
+        "num": 426107,
+        "word": "08体操女团",
+        "onboard_time": 1722384144,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 389949,
+        "num": 389949,
+        "word": "哈马斯领导人多名家人已被炸死",
+        "onboard_time": 1722399686,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 383551,
+        "num": 383551,
+        "word": "莎头 谁说了算",
+        "onboard_time": 1722396923,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 370596,
+        "num": 370596,
+        "word": "王楚钦回应球拍被摄影师踩断",
+        "onboard_time": 1722351033,
+        "rank": 33,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 364844,
+        "num": 364844,
+        "word": "孙颖莎王楚钦混双金牌",
+        "onboard_time": 1722344015,
+        "rank": 34,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 364123,
+        "num": 364123,
+        "word": "王楚钦为啥叫大头啊",
+        "onboard_time": 1722396983,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 319897,
+        "num": 319897,
+        "word": "疑似张雨绮新恋情",
+        "onboard_time": 1722399025,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317964,
+        "num": 317964,
+        "word": "全红婵陈芋汐水花消失术将登场",
+        "onboard_time": 1722385823,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316160,
+        "num": 316160,
+        "word": "苏州举报局长当事人再发声",
+        "onboard_time": 1722392902,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295511,
+        "num": 295511,
+        "word": "老师回应谢瑜父亲没集体观赛",
+        "onboard_time": 1722399387,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291301,
+        "num": 291301,
+        "word": "七月最后一天",
+        "onboard_time": 1722392483,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286556,
+        "num": 286556,
+        "word": "QQ糖 笑老师",
+        "onboard_time": 1722381498,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 277806,
+        "num": 277806,
+        "word": "未定事件簿 荷美尔",
+        "onboard_time": 1722403163,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 277522,
+        "num": 277522,
+        "word": "陈芋汐谈携手全红婵冲金",
+        "onboard_time": 1722403341,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275651,
+        "num": 275651,
+        "word": "哈马斯领导人为何出现在伊朗",
+        "onboard_time": 1722397464,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 260532,
+        "num": 260532,
+        "word": "世界情侣吵架锦标赛",
+        "onboard_time": 1722403943,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 250153,
+        "num": 250153,
+        "word": "美国4岁女童吃汉堡王吃出人血",
+        "onboard_time": 1722386784,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248375,
+        "num": 248375,
+        "word": "哈马斯称哈尼亚遭以色列袭击身亡",
+        "onboard_time": 1722397885,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 232930,
+        "num": 232930,
+        "word": "施小琳当选四川省省长",
+        "onboard_time": 1722403882,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 224853,
+        "num": 224853,
+        "word": "孙颖莎哭了",
+        "onboard_time": 1722350016,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#谱写强军事业新篇章#"
+    }
+  }
+}
