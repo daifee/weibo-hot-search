@@ -1,6 +1,6 @@
 {
   "startTime": 1722356761759,
-  "endTime": 1722393275834,
+  "endTime": 1722396060031,
   "band_list": [
     {
       "raw_hot": 9447661,
@@ -91,6 +91,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2352046,
+      "num": 2352046,
+      "word": "哈马斯领导人哈尼亚遇袭身亡",
+      "onboard_time": 1722395483,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 2061176,
       "num": 2061176,
       "word": "王楚钦球拍",
@@ -147,19 +155,27 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1557060,
-      "num": 1412612,
+      "raw_hot": 1656613,
+      "num": 1656613,
       "word": "况盛 三三",
       "onboard_time": 1722387143,
       "rank": 13,
       "category": "综艺"
     },
     {
-      "raw_hot": 1483624,
-      "num": 1483624,
+      "raw_hot": 1605686,
+      "num": 1605686,
       "word": "莎莎感谢大头",
       "onboard_time": 1722368594,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1494696,
+      "num": 1494696,
+      "word": "意大利就输给中国香港提抗议",
+      "onboard_time": 1722393742,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -187,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1305997,
+      "num": 933213,
+      "word": "况盛修改英文昵称",
+      "onboard_time": 1722392842,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1256428,
       "num": 1421450,
       "word": "QQ糖分手",
@@ -201,14 +225,6 @@
       "onboard_time": 1722317723,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1121220,
-      "num": 843117,
-      "word": "况盛修改英文昵称",
-      "onboard_time": 1722392842,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 1093001,
@@ -251,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 966259,
+      "num": 746545,
+      "word": "况盛爱女儿人设",
+      "onboard_time": 1722377293,
+      "rank": 44,
+      "category": "网红"
+    },
+    {
       "raw_hot": 940720,
       "num": 940720,
       "word": "朝鲜教练",
@@ -267,19 +291,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 892547,
-      "num": 746545,
-      "word": "况盛爱女儿人设",
-      "onboard_time": 1722377293,
-      "rank": 44,
-      "category": "网红"
-    },
-    {
       "raw_hot": 889425,
       "num": 889425,
       "word": "体操的妹妹们好棒",
       "onboard_time": 1722359299,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 853385,
+      "num": 853385,
+      "word": "孙颖莎指挥中朝韩选手合影好暖",
+      "onboard_time": 1722392063,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -339,14 +363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 678344,
-      "num": 678344,
-      "word": "孙颖莎指挥中朝韩选手合影好暖",
-      "onboard_time": 1722392063,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 652146,
       "num": 652146,
       "word": "孙颖莎正手太强了",
@@ -387,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 581449,
+      "num": 581449,
+      "word": "乒乓记者称王楚钦要过心理关",
+      "onboard_time": 1722393081,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 579107,
       "num": 579107,
       "word": "王楚钦孙颖莎互相说感谢",
@@ -417,6 +441,14 @@
       "onboard_time": 1722389483,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 519590,
+      "num": 519590,
+      "word": "朝鲜韩国选手击掌不握手",
+      "onboard_time": 1722391101,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 511838,
@@ -451,6 +483,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 488789,
+      "num": 488789,
+      "word": "肖战教练向裁判抗议",
+      "onboard_time": 1722388943,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 486792,
       "num": 1419699,
       "word": "吴尊说中国乒乓太牛了",
@@ -483,12 +523,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 446015,
-      "num": 446015,
-      "word": "肖战教练向裁判抗议",
-      "onboard_time": 1722388943,
-      "rank": 45,
-      "category": "体育"
+      "raw_hot": 443420,
+      "num": 443420,
+      "word": "美国4岁女童吃汉堡王吃出人血",
+      "onboard_time": 1722386784,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 434866,
@@ -499,14 +539,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 433620,
-      "num": 433620,
-      "word": "美国4岁女童吃汉堡王吃出人血",
-      "onboard_time": 1722386784,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 428850,
       "num": 941065,
       "word": "妈妈镜头下的肖战",
@@ -515,12 +547,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 412187,
-      "num": 412187,
-      "word": "朝鲜韩国选手击掌不握手",
-      "onboard_time": 1722391101,
-      "rank": 33,
-      "category": "体育"
+      "raw_hot": 424645,
+      "num": 424645,
+      "word": "苏州举报局长当事人再发声",
+      "onboard_time": 1722392902,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 404380,
@@ -561,6 +593,14 @@
       "onboard_time": 1722356486,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 388463,
+      "num": 852099,
+      "word": "七月最后一天",
+      "onboard_time": 1722392483,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 387804,
@@ -747,14 +787,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 274050,
-      "num": 274050,
-      "word": "乒乓记者称王楚钦要过心理关",
-      "onboard_time": 1722393081,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 272749,
       "num": 272749,
       "word": "莎头这枚金牌含金量有多高",
@@ -787,12 +819,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 256855,
-      "num": 256855,
-      "word": "苏州举报局长当事人再发声",
-      "onboard_time": 1722392902,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 260475,
+      "num": 260475,
+      "word": "村支书称谢瑜家人有稳定收入",
+      "onboard_time": 1722392363,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 253088,
@@ -801,6 +833,14 @@
       "onboard_time": 1722390142,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 251475,
+      "num": 251475,
+      "word": "上海一餐饮店查出65条蛇及蛇类冻品",
+      "onboard_time": 1722393322,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251344,
@@ -819,14 +859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 240819,
-      "num": 852099,
-      "word": "七月最后一天",
-      "onboard_time": 1722392483,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 237589,
       "num": 194414,
       "word": "王楚钦球拍被踩坏现场",
@@ -840,14 +872,6 @@
       "word": "莎头",
       "onboard_time": 1722387444,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 235021,
-      "num": 235021,
-      "word": "村支书称谢瑜家人有稳定收入",
-      "onboard_time": 1722392363,
-      "rank": 45,
       "category": "体育"
     },
     {
@@ -891,12 +915,44 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 225013,
+      "num": 225013,
+      "word": "莎莎提醒大头向观众挥手",
+      "onboard_time": 1722392242,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 221070,
+      "num": 221070,
+      "word": "郭晶晶的内核到底有多稳",
+      "onboard_time": 1722395903,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 218740,
+      "num": 218740,
+      "word": "王昶太帅了",
+      "onboard_time": 1722393982,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217727,
       "num": 217727,
       "word": "文班亚马防河村勇辉",
       "onboard_time": 1722391942,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217195,
+      "num": 714971,
+      "word": "蔡徐坤新歌Remedy预告海报",
+      "onboard_time": 1722393322,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 217095,
@@ -921,6 +977,22 @@
       "onboard_time": 1722386304,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212040,
+      "num": 212040,
+      "word": "东京的雨在巴黎停了",
+      "onboard_time": 1722395963,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 211250,
+      "num": 443968,
+      "word": "苏无名一怒之下怒了一下",
+      "onboard_time": 1722393561,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 206465,
@@ -960,14 +1032,6 @@
       "word": "姆巴佩开创留学生就业新方向",
       "onboard_time": 1722393022,
       "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 203751,
-      "num": 203751,
-      "word": "莎莎提醒大头向观众挥手",
-      "onboard_time": 1722392242,
-      "rank": 49,
       "category": "体育"
     },
     {
@@ -1011,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175803,
+      "num": 509362,
+      "word": "好6团聚餐全员到齐合影",
+      "onboard_time": 1722390502,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173217,
       "num": 199293,
       "word": "莎头夺金61岁奶奶有一份功劳",
@@ -1025,14 +1097,6 @@
       "onboard_time": 1722353370,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 168432,
-      "num": 509362,
-      "word": "好6团聚餐全员到齐合影",
-      "onboard_time": 1722390502,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 167172,
@@ -1265,6 +1329,14 @@
       "onboard_time": 1722369972,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 50998,
+      "num": 933371,
+      "word": "达人直播3万服务费只卖出2单",
+      "onboard_time": 1722395423,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 49090,
