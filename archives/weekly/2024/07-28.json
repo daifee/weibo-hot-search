@@ -1,6 +1,6 @@
 {
   "startTime": 1722097426384,
-  "endTime": 1722411349879,
+  "endTime": 1722414175788,
   "band_list": [
     {
       "raw_hot": 26081799,
@@ -112,6 +112,14 @@
       "word": "巴黎奥组委为开幕式道歉",
       "onboard_time": 1722174810,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 10399133,
+      "num": 10399133,
+      "word": "王楚钦vs莫雷加德",
+      "onboard_time": 1722412882,
+      "rank": 0,
       "category": "体育"
     },
     {
@@ -1059,6 +1067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1990279,
+      "num": 1990279,
+      "word": "莎莎感谢大头",
+      "onboard_time": 1722368594,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1974501,
       "num": 1276568,
       "word": "张雨绮都有俩孩子了",
@@ -1088,14 +1104,6 @@
       "word": "乒乓球混双颁奖",
       "onboard_time": 1722348523,
       "rank": 18,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1925895,
-      "num": 1925895,
-      "word": "莎莎感谢大头",
-      "onboard_time": 1722368594,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -1987,6 +1995,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 1213126,
+      "num": 1213126,
+      "word": "莎头把金牌给队医戴",
+      "onboard_time": 1722409823,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1213024,
       "num": 1213024,
       "word": "乒乓球混双",
@@ -2433,6 +2449,14 @@
       "onboard_time": 1722358219,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 972681,
+      "num": 1237814,
+      "word": "G社选用刘诗诗照片做封面",
+      "onboard_time": 1722412582,
+      "rank": 7,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 966259,
@@ -2891,6 +2915,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 810485,
+      "num": 1234690,
+      "word": "况盛",
+      "onboard_time": 1722412222,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 810314,
       "num": 810314,
       "word": "面对世界第一他真的尽力了",
@@ -3241,6 +3273,14 @@
       "onboard_time": 1722317543,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 670951,
+      "num": 670951,
+      "word": "莎莎喊韩林欧巴",
+      "onboard_time": 1722413362,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 668706,
@@ -3731,14 +3771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 568636,
-      "num": 568636,
-      "word": "莎头把金牌给队医戴",
-      "onboard_time": 1722409823,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 566680,
       "num": 566680,
       "word": "法国男篮vs日本男篮",
@@ -3915,6 +3947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 539303,
+      "num": 539303,
+      "word": "奥运会铁人三项",
+      "onboard_time": 1722408382,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 538934,
       "num": 538934,
       "word": "石宇奇",
@@ -3992,6 +4032,14 @@
       "word": "孙颖莎女单首秀",
       "onboard_time": 1722150920,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 523963,
+      "num": 523963,
+      "word": "铁人三项 一摔摔一片",
+      "onboard_time": 1722411082,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -4315,6 +4363,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 477303,
+      "num": 477303,
+      "word": "孙颖莎提醒王楚钦戴耳机",
+      "onboard_time": 1722411263,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 475840,
       "num": 475840,
       "word": "贾玲 这一刻真的好为她骄傲",
@@ -4355,12 +4411,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 472542,
+      "num": 472542,
+      "word": "干饭哥阿条姐回国",
+      "onboard_time": 1722412342,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 472050,
       "num": 472050,
       "word": "泳池好浅",
       "onboard_time": 1722197472,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 471644,
+      "num": 471644,
+      "word": "外交部回应哈马斯领导人遭袭身亡",
+      "onboard_time": 1722412823,
+      "rank": 40,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 471238,
+      "num": 471238,
+      "word": "爸爸糖标价7元一盒结账发现是7元一个",
+      "onboard_time": 1722413784,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 471035,
@@ -4753,14 +4833,6 @@
       "onboard_time": 1722187576,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 429322,
-      "num": 429322,
-      "word": "奥运会铁人三项",
-      "onboard_time": 1722408382,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 428850,
@@ -5691,6 +5763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 348869,
+      "num": 348869,
+      "word": "你个小宝",
+      "onboard_time": 1722411142,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 348515,
       "num": 292127,
       "word": "林昀儒",
@@ -5848,6 +5928,14 @@
       "word": "盛李豪15岁差点赢国家队选手",
       "onboard_time": 1722254364,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 339789,
+      "num": 339789,
+      "word": "谢瑜采访",
+      "onboard_time": 1722414026,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -6051,14 +6139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 330010,
-      "num": 330010,
-      "word": "孙颖莎提醒王楚钦戴耳机",
-      "onboard_time": 1722411263,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 329772,
       "num": 329772,
       "word": "泫雅舞台态度",
@@ -6097,6 +6177,14 @@
       "onboard_time": 1722242544,
       "rank": 24,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 328344,
+      "num": 612449,
+      "word": "时代少年团 选座",
+      "onboard_time": 1722411202,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 326761,
@@ -6265,6 +6353,14 @@
       "onboard_time": 1722128120,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 316733,
+      "num": 891603,
+      "word": "空军多架运20送新飞行学员报到",
+      "onboard_time": 1722408382,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 316360,
@@ -6507,14 +6603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 303247,
-      "num": 303247,
-      "word": "你个小宝",
-      "onboard_time": 1722411142,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 303078,
       "num": 303078,
       "word": "阿条姐 干饭哥",
@@ -6713,14 +6801,6 @@
       "onboard_time": 1722171502,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 292387,
-      "num": 471529,
-      "word": "时代少年团 选座",
-      "onboard_time": 1722411202,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 292373,
@@ -7399,14 +7479,6 @@
       "num": 263264,
       "word": "王楚钦绕场一周再退场",
       "onboard_time": 1722164661,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 262525,
-      "num": 262525,
-      "word": "铁人三项 一摔摔一片",
-      "onboard_time": 1722411082,
       "rank": 48,
       "category": "体育"
     },
@@ -9747,14 +9819,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 151285,
-      "num": 891603,
-      "word": "空军多架运20送新飞行学员报到",
-      "onboard_time": 1722408382,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151193,
       "num": 588482,
       "word": "年轻人为养生晒完背又开始吊脖子",
@@ -10379,6 +10443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 92439,
+      "num": 1230735,
+      "word": "90后选择住进月租一千五养老院",
+      "onboard_time": 1722412823,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92272,
       "num": 209762,
       "word": "檀健次 我就是在排练厅开始长大的",
@@ -10665,6 +10737,14 @@
       "onboard_time": 1722283331,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 73416,
+      "num": 1913156,
+      "word": "中国军人最耀眼的存在",
+      "onboard_time": 1722410962,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73415,
@@ -11339,6 +11419,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 33129,
+      "num": 845247,
+      "word": "金牌日送你一只猫",
+      "onboard_time": 1722411501,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33031,
       "num": 4154808,
       "word": "暴雨天气9个安全提醒",
@@ -11401,6 +11489,14 @@
       "onboard_time": 1722216620,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30125,
+      "num": 1218523,
+      "word": "考虑将推进消费税征收环节后移",
+      "onboard_time": 1722412823,
+      "rank": 14,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 30054,
@@ -11513,14 +11609,6 @@
       "onboard_time": 1722104954,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 23383,
-      "num": 1586939,
-      "word": "中国军人最耀眼的存在",
-      "onboard_time": 1722410962,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22577,
@@ -11705,6 +11793,9 @@
     },
     {
       "word": "#努力建设强大稳固的现代边海空防#"
+    },
+    {
+      "word": "#中共中央政治局第十六次集体学习#"
     }
   ]
 }
