@@ -1,6 +1,6 @@
 {
   "startTime": 1722356761759,
-  "endTime": 1722439314059,
+  "endTime": 1722440134196,
   "band_list": [
     {
       "raw_hot": 33113456,
@@ -75,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 9904985,
+      "num": 9904985,
+      "word": "陈梦vs伊尔兰德",
+      "onboard_time": 1722432987,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 9447661,
       "num": 9447661,
       "word": "视频回放王楚钦球拍被踩断始末",
@@ -99,14 +107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 7890844,
-      "num": 7890844,
-      "word": "陈梦vs伊尔兰德",
-      "onboard_time": 1722432987,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 7670923,
       "num": 7670923,
       "word": "樊振东进16强",
@@ -127,6 +127,14 @@
       "num": 7473907,
       "word": "王楚钦说举报",
       "onboard_time": 1722347920,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 5927626,
+      "num": 5927626,
+      "word": "郑钦文晋级奥运四强",
+      "onboard_time": 1722439468,
       "rank": 1,
       "category": "体育"
     },
@@ -209,6 +217,14 @@
       "onboard_time": 1722397164,
       "rank": 1,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 3888935,
+      "num": 3888935,
+      "word": "郑钦文vs科贝尔",
+      "onboard_time": 1722430947,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 3756764,
@@ -403,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2338657,
+      "num": 889734,
+      "word": "郑钦文回应纳瓦罗diss",
+      "onboard_time": 1722438988,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2254962,
       "num": 2254962,
       "word": "全红婵你就这么亲陈芋汐了",
@@ -489,6 +513,14 @@
       "onboard_time": 1722401183,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2027134,
+      "num": 2164923,
+      "word": "花少团去奥运现场为陈梦加油",
+      "onboard_time": 1722438271,
+      "rank": 6,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 2015686,
@@ -579,14 +611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1705518,
-      "num": 909338,
-      "word": "郑钦文vs科贝尔",
-      "onboard_time": 1722430947,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1689400,
       "num": 3406827,
       "word": "十个勤天 鹿晗光荣之路",
@@ -641,14 +665,6 @@
       "onboard_time": 1722393081,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1559504,
-      "num": 2164923,
-      "word": "花少团去奥运现场为陈梦加油",
-      "onboard_time": 1722438271,
-      "rank": 6,
-      "category": "综艺,体育"
     },
     {
       "raw_hot": 1558213,
@@ -843,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1145571,
+      "num": 450728,
+      "word": "郑钦文破发",
+      "onboard_time": 1722439409,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1138573,
       "num": 2899908,
       "word": "时代少年团演唱会官宣",
@@ -865,6 +889,14 @@
       "onboard_time": 1722429088,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1094250,
+      "num": 1094250,
+      "word": "荣梓杉田嘉瑞 观众席",
+      "onboard_time": 1722438868,
+      "rank": 18,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 1093001,
@@ -931,14 +963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 998333,
-      "num": 889734,
-      "word": "郑钦文回应纳瓦罗diss",
-      "onboard_time": 1722438988,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 988149,
       "num": 988149,
       "word": "中国体操女团第6",
@@ -977,6 +1001,14 @@
       "onboard_time": 1722377293,
       "rank": 44,
       "category": "网红"
+    },
+    {
+      "raw_hot": 961908,
+      "num": 884424,
+      "word": "全妹赖在谷爱凌怀里说你好漂亮",
+      "onboard_time": 1722437669,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 957724,
@@ -1024,14 +1056,6 @@
       "word": "体操的妹妹们好棒",
       "onboard_time": 1722359299,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 884424,
-      "num": 884424,
-      "word": "全妹赖在谷爱凌怀里说你好漂亮",
-      "onboard_time": 1722437669,
-      "rank": 36,
       "category": "体育"
     },
     {
@@ -1216,6 +1240,14 @@
       "word": "18岁姑娘首登奥运就夺冠",
       "onboard_time": 1722428966,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 677788,
+      "num": 445701,
+      "word": "网球",
+      "onboard_time": 1722439827,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -1465,14 +1497,6 @@
       "onboard_time": 1722391041,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 504574,
-      "num": 912843,
-      "word": "荣梓杉田嘉瑞 观众席",
-      "onboard_time": 1722438868,
-      "rank": 18,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 502220,
@@ -2107,6 +2131,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 278217,
+      "num": 669523,
+      "word": "金龟子 做一个普通人就很了不起了",
+      "onboard_time": 1722437848,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 277806,
       "num": 277806,
       "word": "未定事件簿 荷美尔",
@@ -2273,14 +2305,6 @@
       "onboard_time": 1722387444,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 235123,
-      "num": 669523,
-      "word": "金龟子 做一个普通人就很了不起了",
-      "onboard_time": 1722437848,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 235018,
@@ -2491,6 +2515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205017,
+      "num": 661675,
+      "word": "女人哪个阶段都正当时",
+      "onboard_time": 1722439286,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 204801,
       "num": 732588,
       "word": "小夫妻",
@@ -2505,14 +2537,6 @@
       "onboard_time": 1722393022,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 203906,
-      "num": 661675,
-      "word": "女人哪个阶段都正当时",
-      "onboard_time": 1722439286,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 203305,
@@ -2561,6 +2585,14 @@
       "onboard_time": 1722363974,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190178,
+      "num": 442270,
+      "word": "一条plog告别7月",
+      "onboard_time": 1722439527,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 179747,
@@ -3099,6 +3131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41160,
+      "num": 1250967,
+      "word": "布林肯称美对哈尼亚被杀不知情没参与",
+      "onboard_time": 1722438631,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 39525,
       "num": 4269297,
       "word": "点亮网络文明之光",
@@ -3169,14 +3209,6 @@
       "onboard_time": 1722407301,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 20103,
-      "num": 1250967,
-      "word": "布林肯称美对哈尼亚被杀不知情没参与",
-      "onboard_time": 1722438631,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 14542,
