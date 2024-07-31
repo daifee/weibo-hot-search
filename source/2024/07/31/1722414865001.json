@@ -1,0 +1,410 @@
+{
+  "runTime": 1722414865001,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 13108000,
+        "num": 13108000,
+        "word": "王楚钦vs莫雷加德",
+        "onboard_time": 1722412882,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4215198,
+        "num": 4215198,
+        "word": "王楚钦副拍",
+        "onboard_time": 1722414266,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67908,
+        "num": 2291943,
+        "word": "中国军人最耀眼的存在",
+        "onboard_time": 1722410962,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1876401,
+        "num": 1876401,
+        "word": "莎莎感谢大头",
+        "onboard_time": 1722368594,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1558213,
+        "num": 1558213,
+        "word": "王楚钦扳回一局",
+        "onboard_time": 1722414745,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1497224,
+        "num": 1497224,
+        "word": "咪咕解说员和女友通话忘关麦",
+        "onboard_time": 1722404721,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 828704,
+        "num": 1496472,
+        "word": "G社选用刘诗诗照片做封面",
+        "onboard_time": 1722412582,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 634053,
+        "num": 1475144,
+        "word": "况盛",
+        "onboard_time": 1722412222,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299548,
+        "num": 1456716,
+        "word": "外交部回应哈马斯领导人遭袭身亡",
+        "onboard_time": 1722412823,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1221287,
+        "num": 1444034,
+        "word": "哈马斯回应哈尼亚遭袭身亡",
+        "onboard_time": 1722398002,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1442213,
+        "num": 1442213,
+        "word": "哈马斯领导人凌晨在住所内被暗杀",
+        "onboard_time": 1722397164,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1855222,
+        "num": 1429341,
+        "word": "三三未婚先孕",
+        "onboard_time": 1722408442,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1842587,
+        "num": 1383521,
+        "word": "王楚钦的球拍上有个脚印",
+        "onboard_time": 1722390981,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1685800,
+        "num": 1339156,
+        "word": "视频回放王楚钦球拍被踩断始末",
+        "onboard_time": 1722388283,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1526314,
+        "num": 1285927,
+        "word": "王楚钦说举报",
+        "onboard_time": 1722347920,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1272545,
+        "num": 1272545,
+        "word": "刚好拍到王楚钦发现自己球拍断了",
+        "onboard_time": 1722405923,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 946298,
+        "num": 1196509,
+        "word": "长沙8死5伤撞人案调查",
+        "onboard_time": 1722407903,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1153779,
+        "num": 1153779,
+        "word": "莎头把金牌给队医戴",
+        "onboard_time": 1722409823,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33311,
+        "num": 1142311,
+        "word": "金牌日送你一只猫",
+        "onboard_time": 1722411501,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282090,
+        "num": 1135409,
+        "word": "TF二三四代一起官宣",
+        "onboard_time": 1722409644,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1131612,
+        "num": 1131612,
+        "word": "伊朗外交部回应哈尼亚被杀",
+        "onboard_time": 1722407301,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1059250,
+        "num": 1059250,
+        "word": "莎莎喊韩林欧巴",
+        "onboard_time": 1722413362,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 955146,
+        "num": 955146,
+        "word": "六边形球拍",
+        "onboard_time": 1722414384,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1035766,
+        "num": 916902,
+        "word": "外媒称哈尼亚死于导弹袭击",
+        "onboard_time": 1722407841,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 837625,
+        "num": 837625,
+        "word": "张雨绮都有俩孩子了",
+        "onboard_time": 1722404240,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 723240,
+        "num": 723240,
+        "word": "王楚钦采访名场面又来了",
+        "onboard_time": 1722378495,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1012741,
+        "num": 708963,
+        "word": "以色列回应哈马斯领导人遇袭身亡",
+        "onboard_time": 1722402503,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 591179,
+        "num": 591179,
+        "word": "孙颖莎王楚钦混双金牌",
+        "onboard_time": 1722344015,
+        "rank": 27,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 263427,
+        "num": 587725,
+        "word": "时代少年团演唱会官宣",
+        "onboard_time": 1722406942,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 257755,
+        "num": 572416,
+        "word": "时代少年团 选座",
+        "onboard_time": 1722411202,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152818,
+        "num": 567461,
+        "word": "90后选择住进月租一千五养老院",
+        "onboard_time": 1722412823,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 989270,
+        "num": 552730,
+        "word": "胡塞武装回应哈尼亚被杀",
+        "onboard_time": 1722404121,
+        "rank": 31,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 550187,
+        "num": 550187,
+        "word": "孙颖莎积分断层世界第一",
+        "onboard_time": 1722404841,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 540877,
+        "num": 540877,
+        "word": "王楚钦回应球拍被摄影师踩断",
+        "onboard_time": 1722351033,
+        "rank": 33,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 987186,
+        "num": 534379,
+        "word": "白宫回应哈尼亚被杀",
+        "onboard_time": 1722401003,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 526201,
+        "num": 526201,
+        "word": "爸爸糖标价7元一盒结账发现是7元一个",
+        "onboard_time": 1722413784,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43398,
+        "num": 512902,
+        "word": "考虑将推进消费税征收环节后移",
+        "onboard_time": 1722412823,
+        "rank": 36,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 981292,
+        "num": 512807,
+        "word": "以军拒绝评论哈尼亚被杀",
+        "onboard_time": 1722400764,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 511074,
+        "num": 511074,
+        "word": "况盛 三三",
+        "onboard_time": 1722387143,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 502220,
+        "num": 502220,
+        "word": "干饭哥阿条姐回国",
+        "onboard_time": 1722412342,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 913026,
+        "num": 492450,
+        "word": "哈马斯领导人哈尼亚遇袭身亡",
+        "onboard_time": 1722395483,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 453624,
+        "num": 453624,
+        "word": "莎头拥抱庆祝",
+        "onboard_time": 1722348523,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 412780,
+        "num": 412780,
+        "word": "莎头夺冠是刘国梁最好的医美",
+        "onboard_time": 1722412222,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 404134,
+        "num": 404134,
+        "word": "孙颖莎提醒王楚钦戴耳机",
+        "onboard_time": 1722411263,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 403721,
+        "num": 403721,
+        "word": "铁人三项 一摔摔一片",
+        "onboard_time": 1722411082,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 384407,
+        "num": 384407,
+        "word": "考了世界第一颁奖的是班主任",
+        "onboard_time": 1722409582,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 371235,
+        "num": 371235,
+        "word": "张雨绮新男友是篮球运动员",
+        "onboard_time": 1722406282,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366177,
+        "num": 366177,
+        "word": "奥运会铁人三项",
+        "onboard_time": 1722408382,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 358534,
+        "num": 358534,
+        "word": "谢瑜谈及父亲哭了",
+        "onboard_time": 1722408743,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 348171,
+        "num": 348171,
+        "word": "谢瑜采访",
+        "onboard_time": 1722414026,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局第十六次集体学习#"
+    }
+  }
+}
