@@ -1,6 +1,6 @@
 {
   "startTime": 1722356761759,
-  "endTime": 1722424597876,
+  "endTime": 1722425683772,
   "band_list": [
     {
       "raw_hot": 33113456,
@@ -91,6 +91,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 7670923,
+      "num": 7670923,
+      "word": "樊振东进16强",
+      "onboard_time": 1722422612,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 7568117,
       "num": 7568117,
       "word": "女子双人十米台决赛",
@@ -104,14 +112,6 @@
       "word": "王楚钦说举报",
       "onboard_time": 1722347920,
       "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 6397522,
-      "num": 6397522,
-      "word": "樊振东进16强",
-      "onboard_time": 1722422612,
-      "rank": 3,
       "category": "体育"
     },
     {
@@ -240,6 +240,14 @@
       "word": "全红婵陈芋汐断层领先",
       "onboard_time": 1722418844,
       "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2685830,
+      "num": 2685830,
+      "word": "王楚钦这一课真的太痛了",
+      "onboard_time": 1722424048,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -419,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1689400,
+      "num": 3406827,
+      "word": "十个勤天 鹿晗光荣之路",
+      "onboard_time": 1722423689,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1686005,
       "num": 898573,
       "word": "周五请假了工位变成这样了",
@@ -523,14 +539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1384036,
-      "num": 1384036,
-      "word": "王楚钦这一课真的太痛了",
-      "onboard_time": 1722424048,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1372517,
       "num": 1372517,
       "word": "朝鲜教练是巴黎世乒赛混双冠军",
@@ -595,14 +603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1259962,
-      "num": 3406827,
-      "word": "十个勤天 鹿晗光荣之路",
-      "onboard_time": 1722423689,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1256428,
       "num": 1421450,
       "word": "QQ糖分手",
@@ -624,6 +624,14 @@
       "word": "莎头把金牌给队医戴",
       "onboard_time": 1722409823,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1168922,
+      "num": 1168922,
+      "word": "朝鲜跳水 黑马",
+      "onboard_time": 1722421833,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -691,11 +699,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 999266,
-      "num": 999266,
-      "word": "朝鲜跳水 黑马",
-      "onboard_time": 1722421833,
-      "rank": 45,
+      "raw_hot": 1020832,
+      "num": 1020832,
+      "word": "林高远回国了",
+      "onboard_time": 1722424168,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -867,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 735311,
+      "num": 735311,
+      "word": "孙颖莎采访",
+      "onboard_time": 1722422972,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 727639,
       "num": 492128,
       "word": "哈马斯领导人多名家人已被炸死",
@@ -915,19 +931,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 669622,
-      "num": 630967,
-      "word": "孙颖莎采访",
-      "onboard_time": 1722422972,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 652146,
       "num": 652146,
       "word": "孙颖莎正手太强了",
       "onboard_time": 1722344552,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 634027,
+      "num": 634027,
+      "word": "表演球",
+      "onboard_time": 1722425006,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -952,14 +968,6 @@
       "word": "李小双说是教练组的问题别怪运动员",
       "onboard_time": 1722327382,
       "rank": 21,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 617963,
-      "num": 617963,
-      "word": "林高远回国了",
-      "onboard_time": 1722424168,
-      "rank": 36,
       "category": "体育"
     },
     {
@@ -2019,6 +2027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205578,
+      "num": 1127804,
+      "word": "广东发生重大刑案嫌疑人被抓获",
+      "onboard_time": 1722425484,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205397,
       "num": 205397,
       "word": "跳马难度",
@@ -2283,6 +2299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101591,
+      "num": 1774109,
+      "word": "红白蓝是今年最法式的配色",
+      "onboard_time": 1722421115,
+      "rank": 16,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 100485,
       "num": 100485,
       "word": "吴卿风无缘决赛",
@@ -2321,14 +2345,6 @@
       "onboard_time": 1722386424,
       "rank": 9,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 90121,
-      "num": 1774109,
-      "word": "红白蓝是今年最法式的配色",
-      "onboard_time": 1722421115,
-      "rank": 16,
-      "category": "时尚"
     },
     {
       "raw_hot": 88468,
@@ -2435,6 +2451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 68360,
+      "num": 3306867,
+      "word": "部分餐饮从业人员图方便买假健康证",
+      "onboard_time": 1722423629,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63505,
       "num": 384017,
       "word": "摄影获奖作品遭多人质疑为AI合成",
@@ -2483,7 +2507,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54390,
+      "raw_hot": 55561,
       "num": 2016643,
       "word": "在巴黎绽放东方力量",
       "onboard_time": 1722420282,
@@ -2601,14 +2625,6 @@
       "onboard_time": 1722404301,
       "rank": 29,
       "category": "体育,时尚"
-    },
-    {
-      "raw_hot": 26966,
-      "num": 3306867,
-      "word": "部分餐饮从业人员图方便买假健康证",
-      "onboard_time": 1722423629,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26461,
