@@ -1,6 +1,6 @@
 {
   "startTime": 1722356761759,
-  "endTime": 1722406994647,
+  "endTime": 1722407665882,
   "band_list": [
     {
       "raw_hot": 13651908,
@@ -67,6 +67,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 3558982,
+      "num": 3558982,
+      "word": "咪咕解说员和女友通话忘关麦",
+      "onboard_time": 1722404721,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3289215,
       "num": 1063605,
       "word": "以色列回应哈马斯领导人遇袭身亡",
@@ -80,14 +88,6 @@
       "word": "王楚钦采访名场面又来了",
       "onboard_time": 1722378495,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 3284464,
-      "num": 3284464,
-      "word": "咪咕解说员和女友通话忘关麦",
-      "onboard_time": 1722404721,
-      "rank": 0,
       "category": "体育"
     },
     {
@@ -203,20 +203,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1974501,
+      "num": 1055239,
+      "word": "张雨绮都有俩孩子了",
+      "onboard_time": 1722404240,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1925895,
       "num": 1925895,
       "word": "莎莎感谢大头",
       "onboard_time": 1722368594,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1910213,
-      "num": 1055239,
-      "word": "张雨绮都有俩孩子了",
-      "onboard_time": 1722404240,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 1891771,
@@ -243,20 +243,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1664174,
+      "num": 1664174,
+      "word": "孙颖莎积分断层世界第一",
+      "onboard_time": 1722404841,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1656613,
       "num": 1656613,
       "word": "况盛 三三",
       "onboard_time": 1722387143,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1629877,
-      "num": 1629877,
-      "word": "孙颖莎积分断层世界第一",
-      "onboard_time": 1722404841,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 1593642,
@@ -323,6 +323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1138573,
+      "num": 1138573,
+      "word": "时代少年团演唱会官宣",
+      "onboard_time": 1722406942,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1093001,
       "num": 897419,
       "word": "08体操女团",
@@ -337,6 +345,14 @@
       "onboard_time": 1722397464,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1046643,
+      "num": 933114,
+      "word": "38岁女子放弃北漂住进养老院",
+      "onboard_time": 1722402204,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1037802,
@@ -393,14 +409,6 @@
       "onboard_time": 1722350078,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 933114,
-      "num": 933114,
-      "word": "38岁女子放弃北漂住进养老院",
-      "onboard_time": 1722402204,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 927315,
@@ -528,6 +536,14 @@
       "word": "李小双说是教练组的问题别怪运动员",
       "onboard_time": 1722327382,
       "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 620167,
+      "num": 434862,
+      "word": "刚好拍到王楚钦发现自己球拍断了",
+      "onboard_time": 1722405923,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -659,6 +675,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 478873,
+      "num": 956898,
+      "word": "月亮姐姐的本名到底叫什么",
+      "onboard_time": 1722405982,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 475295,
       "num": 475295,
       "word": "全红婵陈芋汐水花消失术将登场",
@@ -675,12 +699,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 466341,
-      "num": 434862,
-      "word": "刚好拍到王楚钦发现自己球拍断了",
-      "onboard_time": 1722405923,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 466395,
+      "num": 466395,
+      "word": "TF三代登陆时刻演唱会",
+      "onboard_time": 1722406823,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 462981,
@@ -689,14 +713,6 @@
       "onboard_time": 1722386784,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 460195,
-      "num": 956898,
-      "word": "月亮姐姐的本名到底叫什么",
-      "onboard_time": 1722405982,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 457552,
@@ -745,14 +761,6 @@
       "onboard_time": 1722354329,
       "rank": 8,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 434063,
-      "num": 434063,
-      "word": "时代少年团演唱会官宣",
-      "onboard_time": 1722406942,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 428850,
@@ -851,14 +859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 385220,
-      "num": 445367,
-      "word": "TF三代登陆时刻演唱会",
-      "onboard_time": 1722406823,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
       "raw_hot": 377163,
       "num": 638262,
       "word": "李冰冰看莎头也紧张",
@@ -881,6 +881,14 @@
       "onboard_time": 1722356542,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 360922,
+      "num": 360922,
+      "word": "张雨绮新男友是篮球运动员",
+      "onboard_time": 1722406282,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 355958,
@@ -987,6 +995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 322905,
+      "num": 322905,
+      "word": "伊朗外交部回应哈尼亚被杀",
+      "onboard_time": 1722407301,
+      "rank": 38,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 322762,
       "num": 322762,
       "word": "王楚钦球拍在行李箱里",
@@ -1019,12 +1035,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 307944,
-      "num": 307944,
-      "word": "张雨绮新男友是篮球运动员",
-      "onboard_time": 1722406282,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 308559,
+      "num": 308559,
+      "word": "刘诗诗巴黎奥运三套造型",
+      "onboard_time": 1722405802,
+      "rank": 44,
+      "category": "作品衍生,体育"
     },
     {
       "raw_hot": 299444,
@@ -1057,14 +1073,6 @@
       "onboard_time": 1722360796,
       "rank": 48,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 280991,
-      "num": 280991,
-      "word": "刘诗诗巴黎奥运三套造型",
-      "onboard_time": 1722405802,
-      "rank": 44,
-      "category": "作品衍生,体育"
     },
     {
       "raw_hot": 277806,
@@ -1193,6 +1201,14 @@
       "onboard_time": 1722358820,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 236964,
+      "num": 236964,
+      "word": "虞书欣两套高定",
+      "onboard_time": 1722407061,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 236319,
@@ -1563,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122512,
+      "num": 1159235,
+      "word": "把酸奶做成泻药真的健康吗",
+      "onboard_time": 1722405622,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
+    },
+    {
       "raw_hot": 120711,
       "num": 403228,
       "word": "宋宁峰给李宛妲跳晚安姑奶奶",
@@ -1625,6 +1649,14 @@
       "onboard_time": 1722369492,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100164,
+      "num": 420394,
+      "word": "湖南卫视你好星期六上班直播",
+      "onboard_time": 1722407602,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 98453,
@@ -1721,14 +1753,6 @@
       "onboard_time": 1722397765,
       "rank": 17,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 71426,
-      "num": 1159235,
-      "word": "把酸奶做成泻药真的健康吗",
-      "onboard_time": 1722405622,
-      "rank": 9,
-      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 70104,
@@ -1873,6 +1897,22 @@
       "onboard_time": 1722386004,
       "rank": 15,
       "category": "体育,美食"
+    },
+    {
+      "raw_hot": 24476,
+      "num": 498975,
+      "word": "谭松韵纪星",
+      "onboard_time": 1722407301,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 14542,
+      "num": 782211,
+      "word": "哈马斯领导人遇刺将带来哪些影响",
+      "onboard_time": 1722407421,
+      "rank": 14,
+      "category": "国外时政"
     }
   ],
   "hotgov_list": [

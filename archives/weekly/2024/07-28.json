@@ -1,6 +1,6 @@
 {
   "startTime": 1722097426384,
-  "endTime": 1722406994647,
+  "endTime": 1722407665882,
   "band_list": [
     {
       "raw_hot": 26081799,
@@ -499,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3558982,
+      "num": 3558982,
+      "word": "咪咕解说员和女友通话忘关麦",
+      "onboard_time": 1722404721,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3551609,
       "num": 3551609,
       "word": "男子10米气手枪决赛",
@@ -536,14 +544,6 @@
       "word": "王楚钦采访名场面又来了",
       "onboard_time": 1722378495,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 3284464,
-      "num": 3284464,
-      "word": "咪咕解说员和女友通话忘关麦",
-      "onboard_time": 1722404721,
-      "rank": 0,
       "category": "体育"
     },
     {
@@ -1051,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1974501,
+      "num": 1055239,
+      "word": "张雨绮都有俩孩子了",
+      "onboard_time": 1722404240,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1969411,
       "num": 1969411,
       "word": "奥运已经有选手开始回国了",
@@ -1089,14 +1097,6 @@
       "onboard_time": 1722217280,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1910213,
-      "num": 1055239,
-      "word": "张雨绮都有俩孩子了",
-      "onboard_time": 1722404240,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 1906424,
@@ -1283,6 +1283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1664174,
+      "num": 1664174,
+      "word": "孙颖莎积分断层世界第一",
+      "onboard_time": 1722404841,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1656661,
       "num": 1656661,
       "word": "韩国国旗被错标成中国国旗",
@@ -1304,14 +1312,6 @@
       "word": "埃及击剑选手已怀孕7个月",
       "onboard_time": 1722323662,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1629877,
-      "num": 1629877,
-      "word": "孙颖莎积分断层世界第一",
-      "onboard_time": 1722404841,
-      "rank": 5,
       "category": "体育"
     },
     {
@@ -2131,6 +2131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1138573,
+      "num": 1138573,
+      "word": "时代少年团演唱会官宣",
+      "onboard_time": 1722406942,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1134780,
       "num": 1134780,
       "word": "苏醒来看莎头比赛",
@@ -2257,6 +2265,14 @@
       "onboard_time": 1722397464,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1046643,
+      "num": 933114,
+      "word": "38岁女子放弃北漂住进养老院",
+      "onboard_time": 1722402204,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1045454,
@@ -2465,14 +2481,6 @@
       "onboard_time": 1722164481,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 933114,
-      "num": 933114,
-      "word": "38岁女子放弃北漂住进养老院",
-      "onboard_time": 1722402204,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 927926,
@@ -3403,6 +3411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 620167,
+      "num": 434862,
+      "word": "刚好拍到王楚钦发现自己球拍断了",
+      "onboard_time": 1722405923,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 620013,
       "num": 620013,
       "word": "相柳角色号清空微博",
@@ -4187,6 +4203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 478873,
+      "num": 956898,
+      "word": "月亮姐姐的本名到底叫什么",
+      "onboard_time": 1722405982,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 478542,
       "num": 478542,
       "word": "香缇莫凡希亚官宣歌手后首个演唱会",
@@ -4283,12 +4307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 466341,
-      "num": 434862,
-      "word": "刚好拍到王楚钦发现自己球拍断了",
-      "onboard_time": 1722405923,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 466395,
+      "num": 466395,
+      "word": "TF三代登陆时刻演唱会",
+      "onboard_time": 1722406823,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 464811,
@@ -4345,14 +4369,6 @@
       "onboard_time": 1722265408,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 460195,
-      "num": 956898,
-      "word": "月亮姐姐的本名到底叫什么",
-      "onboard_time": 1722405982,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 458160,
@@ -4585,14 +4601,6 @@
       "onboard_time": 1722354329,
       "rank": 8,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 434063,
-      "num": 434063,
-      "word": "时代少年团演唱会官宣",
-      "onboard_time": 1722406942,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 433570,
@@ -5195,14 +5203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 385220,
-      "num": 445367,
-      "word": "TF三代登陆时刻演唱会",
-      "onboard_time": 1722406823,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
       "raw_hot": 383904,
       "num": 383904,
       "word": "巴黎奥运赛程",
@@ -5417,6 +5417,14 @@
       "onboard_time": 1722094535,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 360922,
+      "num": 360922,
+      "word": "张雨绮新男友是篮球运动员",
+      "onboard_time": 1722406282,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 359782,
@@ -6067,6 +6075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 322905,
+      "num": 322905,
+      "word": "伊朗外交部回应哈尼亚被杀",
+      "onboard_time": 1722407301,
+      "rank": 38,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 322762,
       "num": 322762,
       "word": "王楚钦球拍在行李箱里",
@@ -6299,20 +6315,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 308559,
+      "num": 308559,
+      "word": "刘诗诗巴黎奥运三套造型",
+      "onboard_time": 1722405802,
+      "rank": 44,
+      "category": "作品衍生,体育"
+    },
+    {
       "raw_hot": 308361,
       "num": 308361,
       "word": "气步枪节奏鼓掌",
       "onboard_time": 1722252144,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 307944,
-      "num": 307944,
-      "word": "张雨绮新男友是篮球运动员",
-      "onboard_time": 1722406282,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 307510,
@@ -6849,14 +6865,6 @@
       "onboard_time": 1722244282,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 280991,
-      "num": 280991,
-      "word": "刘诗诗巴黎奥运三套造型",
-      "onboard_time": 1722405802,
-      "rank": 44,
-      "category": "作品衍生,体育"
     },
     {
       "raw_hot": 280926,
@@ -7865,6 +7873,14 @@
       "onboard_time": 1722334523,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 236964,
+      "num": 236964,
+      "word": "虞书欣两套高定",
+      "onboard_time": 1722407061,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 236823,
@@ -9923,6 +9939,14 @@
       "category": "互联网,体育"
     },
     {
+      "raw_hot": 122512,
+      "num": 1159235,
+      "word": "把酸奶做成泻药真的健康吗",
+      "onboard_time": 1722405622,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
+    },
+    {
       "raw_hot": 122371,
       "num": 122371,
       "word": "苏炜德替补",
@@ -10113,6 +10137,14 @@
       "onboard_time": 1722369492,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100164,
+      "num": 420394,
+      "word": "湖南卫视你好星期六上班直播",
+      "onboard_time": 1722407602,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 98453,
@@ -10505,14 +10537,6 @@
       "onboard_time": 1722143542,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 71426,
-      "num": 1159235,
-      "word": "把酸奶做成泻药真的健康吗",
-      "onboard_time": 1722405622,
-      "rank": 9,
-      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 70694,
@@ -11291,6 +11315,14 @@
       "category": "体育,美食"
     },
     {
+      "raw_hot": 24476,
+      "num": 498975,
+      "word": "谭松韵纪星",
+      "onboard_time": 1722407301,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23840,
       "num": 74196,
       "word": "我们的歌",
@@ -11393,6 +11425,14 @@
       "onboard_time": 1722331703,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14542,
+      "num": 782211,
+      "word": "哈马斯领导人遇刺将带来哪些影响",
+      "onboard_time": 1722407421,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 13528,
