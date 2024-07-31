@@ -1,0 +1,410 @@
+{
+  "runTime": 1722461676255,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3444379,
+        "num": 3444379,
+        "word": "潘展乐100自由泳金牌",
+        "onboard_time": 1722458893,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2156944,
+        "num": 2156944,
+        "word": "潘展乐说美国人有点看不起我们",
+        "onboard_time": 1722459673,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2312,
+        "num": 1689111,
+        "word": "有子弟兵在就有满满安全感",
+        "onboard_time": 1722430044,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1450583,
+        "num": 1450583,
+        "word": "潘展乐破世界纪录",
+        "onboard_time": 1722459013,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1044176,
+        "num": 1044176,
+        "word": "潘展乐 世界飞鱼",
+        "onboard_time": 1722459733,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 883146,
+        "num": 883146,
+        "word": "潘展乐 扬眉吐气",
+        "onboard_time": 1722459673,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 687257,
+        "num": 687257,
+        "word": "孙颖莎连追6分",
+        "onboard_time": 1722453914,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130964,
+        "num": 443282,
+        "word": "花少团去奥运现场为陈梦加油",
+        "onboard_time": 1722438271,
+        "rank": 7,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 47772,
+        "num": 333903,
+        "word": "刘诗诗全球首穿",
+        "onboard_time": 1722440724,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 269177,
+        "num": 269177,
+        "word": "八一建军节",
+        "onboard_time": 1722444146,
+        "rank": 9,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 1048314,
+        "num": 242813,
+        "word": "王楚钦爆冷出局",
+        "onboard_time": 1722416335,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 548332,
+        "num": 215929,
+        "word": "樊振东火速进8强",
+        "onboard_time": 1722458834,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179255,
+        "num": 179255,
+        "word": "一人一句向人民子弟兵致敬",
+        "onboard_time": 1722446720,
+        "rank": 12,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 100374,
+        "num": 179198,
+        "word": "文旅局回应女子在景区被闺蜜按在水里",
+        "onboard_time": 1722440545,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53958,
+        "num": 179129,
+        "word": "女子刷视频自学针灸治病致人死亡",
+        "onboard_time": 1722427224,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484005,
+        "num": 179080,
+        "word": "樊振东vs贾哈",
+        "onboard_time": 1722456373,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 435874,
+        "num": 178980,
+        "word": "张雨霏发烧",
+        "onboard_time": 1722456373,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 427704,
+        "num": 178902,
+        "word": "王楚钦回应爆冷出局",
+        "onboard_time": 1722417703,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 426101,
+        "num": 178799,
+        "word": "体操男子个人全能决赛",
+        "onboard_time": 1722440246,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42866,
+        "num": 178716,
+        "word": "到底是谁教亚当这么拍视频的",
+        "onboard_time": 1722451815,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 386034,
+        "num": 178651,
+        "word": "张本智和吵死了",
+        "onboard_time": 1722456073,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 363788,
+        "num": 178581,
+        "word": "体操 日本申诉",
+        "onboard_time": 1722447439,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339938,
+        "num": 178432,
+        "word": "张博恒全能银牌",
+        "onboard_time": 1722449791,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287907,
+        "num": 178419,
+        "word": "游泳解说 咆哮",
+        "onboard_time": 1722461412,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40692,
+        "num": 178296,
+        "word": "夏克立被曝婚内骚扰保姆",
+        "onboard_time": 1722431667,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276869,
+        "num": 178251,
+        "word": "潘展乐赛后采访",
+        "onboard_time": 1722459854,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29443,
+        "num": 178116,
+        "word": "荣梓杉田嘉瑞 观众席",
+        "onboard_time": 1722438868,
+        "rank": 26,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 29059,
+        "num": 178022,
+        "word": "况盛背着前女友上传视频",
+        "onboard_time": 1722448638,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27438,
+        "num": 177944,
+        "word": "尤长靖杀回选秀了",
+        "onboard_time": 1722433707,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27228,
+        "num": 177898,
+        "word": "演唱会实名购票入场前发现已被顶替",
+        "onboard_time": 1722427224,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 242843,
+        "num": 177849,
+        "word": "肖若腾全能铜牌",
+        "onboard_time": 1722449907,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225578,
+        "num": 177739,
+        "word": "孙颖莎光速进8强",
+        "onboard_time": 1722455294,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185198,
+        "num": 177675,
+        "word": "叶诗文200蛙进决赛",
+        "onboard_time": 1722458414,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40349,
+        "num": 177586,
+        "word": "英国破产",
+        "onboard_time": 1722447923,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 36123,
+        "num": 177518,
+        "word": "谢谢人民子弟兵给的安全感",
+        "onboard_time": 1722451993,
+        "rank": 34,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 177436,
+        "num": 177436,
+        "word": "潘展乐",
+        "onboard_time": 1722459613,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170057,
+        "num": 170057,
+        "word": "杨威杨云你们当裁判",
+        "onboard_time": 1722457692,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169553,
+        "num": 169553,
+        "word": "樊振东进16强",
+        "onboard_time": 1722422612,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151218,
+        "num": 151218,
+        "word": "中国游泳队巴黎首金",
+        "onboard_time": 1722459793,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149117,
+        "num": 149117,
+        "word": "体操裁判 日本",
+        "onboard_time": 1722451756,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146478,
+        "num": 146478,
+        "word": "孙颖莎vs阿库拉",
+        "onboard_time": 1722451516,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146240,
+        "num": 146240,
+        "word": "潘展乐状态",
+        "onboard_time": 1722460333,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142674,
+        "num": 142674,
+        "word": "孙颖莎隔壁是本子吗",
+        "onboard_time": 1722455355,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124287,
+        "num": 124287,
+        "word": "张博恒分数 低",
+        "onboard_time": 1722450857,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109224,
+        "num": 109224,
+        "word": "王欣瑜张之臻晋级四强",
+        "onboard_time": 1722458773,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117730,
+        "num": 107801,
+        "word": "王楚钦谈失利原因",
+        "onboard_time": 1722427345,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33267,
+        "num": 106324,
+        "word": "十个勤天 鹿晗光荣之路",
+        "onboard_time": 1722423689,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 32926,
+        "num": 104745,
+        "word": "八月对我好一点",
+        "onboard_time": 1722436408,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31473,
+        "num": 102805,
+        "word": "三三未婚先孕",
+        "onboard_time": 1722408442,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29749,
+        "num": 101207,
+        "word": "杨旭文去打架吧跳舞我自有人选",
+        "onboard_time": 1722456313,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平回信勉励强军精武红四连全体官兵#"
+    }
+  }
+}
