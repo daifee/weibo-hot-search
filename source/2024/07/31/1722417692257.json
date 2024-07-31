@@ -1,0 +1,410 @@
+{
+  "runTime": 1722417692257,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 33113456,
+        "num": 33113456,
+        "word": "王楚钦爆冷出局",
+        "onboard_time": 1722416335,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26583752,
+        "num": 26583752,
+        "word": "王楚钦副拍",
+        "onboard_time": 1722414266,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13044875,
+        "num": 13044875,
+        "word": "王楚钦vs莫雷加德",
+        "onboard_time": 1722412882,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8168470,
+        "num": 8168470,
+        "word": "孙颖莎vs倪夏莲",
+        "onboard_time": 1722416570,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5061411,
+        "num": 5061411,
+        "word": "女子双人十米台决赛",
+        "onboard_time": 1722415407,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4012324,
+        "num": 4012324,
+        "word": "六边形球拍",
+        "onboard_time": 1722414384,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1102542,
+        "num": 3895813,
+        "word": "哈马斯领导人凌晨在住所内被暗杀",
+        "onboard_time": 1722397164,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 604381,
+        "num": 3696136,
+        "word": "G社选用刘诗诗照片做封面",
+        "onboard_time": 1722412582,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 474146,
+        "num": 3503868,
+        "word": "况盛 三三",
+        "onboard_time": 1722387143,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174306,
+        "num": 3356236,
+        "word": "东莞一楼盘买一套赠一套",
+        "onboard_time": 1722416393,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 8125364,
+        "num": 3083190,
+        "word": "王楚钦的球拍上有个脚印",
+        "onboard_time": 1722390981,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6859660,
+        "num": 2885453,
+        "word": "视频回放王楚钦球拍被踩断始末",
+        "onboard_time": 1722388283,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2753247,
+        "num": 2753247,
+        "word": "孙颖莎王楚钦混双金牌",
+        "onboard_time": 1722344015,
+        "rank": 12,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1811093,
+        "num": 2741007,
+        "word": "王楚钦回应球拍被摄影师踩断",
+        "onboard_time": 1722351033,
+        "rank": 13,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1474843,
+        "num": 2734817,
+        "word": "三三未婚先孕",
+        "onboard_time": 1722408442,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 6390990,
+        "num": 2734285,
+        "word": "王楚钦说举报",
+        "onboard_time": 1722347920,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2731821,
+        "num": 2731821,
+        "word": "王楚钦采访名场面又来了",
+        "onboard_time": 1722378495,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2569368,
+        "num": 2569368,
+        "word": "男单给我上呼吸机",
+        "onboard_time": 1722416219,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 365475,
+        "num": 2563736,
+        "word": "况盛",
+        "onboard_time": 1722412222,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311346,
+        "num": 2562857,
+        "word": "时代少年团演唱会官宣",
+        "onboard_time": 1722406942,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 2562076,
+        "num": 2562076,
+        "word": "王楚钦稳住",
+        "onboard_time": 1722416071,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2093253,
+        "num": 2093253,
+        "word": "全红婵陈芋汐首秀",
+        "onboard_time": 1722415525,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1975054,
+        "num": 1975054,
+        "word": "莎头拥抱庆祝",
+        "onboard_time": 1722348523,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1654534,
+        "num": 1654534,
+        "word": "莫雷加德黄牌",
+        "onboard_time": 1722416570,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1470139,
+        "num": 1470139,
+        "word": "莎莎感谢大头",
+        "onboard_time": 1722368594,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1418081,
+        "num": 1418081,
+        "word": "孙颖莎指挥中朝韩选手合影好暖",
+        "onboard_time": 1722392063,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1261501,
+        "num": 1261501,
+        "word": "莎莎喊韩林欧巴",
+        "onboard_time": 1722413362,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74341,
+        "num": 1059294,
+        "word": "如何用鸿蒙解锁居家健身新玩法",
+        "onboard_time": 1722416010,
+        "rank": 27,
+        "category": "运动健身,数码"
+      },
+      {
+        "raw_hot": 910789,
+        "num": 910789,
+        "word": "张雨绮都有俩孩子了",
+        "onboard_time": 1722404240,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212968,
+        "num": 879407,
+        "word": "TF二三四代一起官宣",
+        "onboard_time": 1722409644,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1051275,
+        "num": 879381,
+        "word": "乒乓球男单",
+        "onboard_time": 1722417522,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 877881,
+        "num": 877881,
+        "word": "刚好拍到王楚钦发现自己球拍断了",
+        "onboard_time": 1722405923,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 841462,
+        "num": 841462,
+        "word": "哈马斯回应哈尼亚遭袭身亡",
+        "onboard_time": 1722398002,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 490285,
+        "num": 820920,
+        "word": "爸爸糖标价7元一盒结账发现是7元一个",
+        "onboard_time": 1722413784,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291895,
+        "num": 815707,
+        "word": "长沙8死5伤撞人案调查",
+        "onboard_time": 1722407903,
+        "rank": 34,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 813057,
+        "num": 813057,
+        "word": "伊朗外交部回应哈尼亚被杀",
+        "onboard_time": 1722407301,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 755927,
+        "num": 805210,
+        "word": "王楚钦马龙同款摸脸杀",
+        "onboard_time": 1722416454,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 690694,
+        "num": 800480,
+        "word": "陈芋汐全红婵复制粘贴",
+        "onboard_time": 1722417582,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 800129,
+        "num": 800129,
+        "word": "外媒称哈尼亚死于导弹袭击",
+        "onboard_time": 1722407841,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 568896,
+        "num": 776681,
+        "word": "咪咕解说员和女友通话忘关麦",
+        "onboard_time": 1722404721,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197535,
+        "num": 769019,
+        "word": "时代少年团 选座",
+        "onboard_time": 1722411202,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 763755,
+        "num": 763755,
+        "word": "胡塞武装回应哈尼亚被杀",
+        "onboard_time": 1722404121,
+        "rank": 41,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 363865,
+        "num": 743387,
+        "word": "肖指导关键暂停",
+        "onboard_time": 1722416512,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341748,
+        "num": 738072,
+        "word": "奥运会直播",
+        "onboard_time": 1722416867,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 736196,
+        "num": 736196,
+        "word": "以色列回应哈马斯领导人遇袭身亡",
+        "onboard_time": 1722402503,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 324318,
+        "num": 727284,
+        "word": "干饭哥阿条姐回国",
+        "onboard_time": 1722412342,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289848,
+        "num": 726803,
+        "word": "张雨绮新男友是篮球运动员",
+        "onboard_time": 1722406282,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 726553,
+        "num": 726553,
+        "word": "白宫回应哈尼亚被杀",
+        "onboard_time": 1722401003,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 280895,
+        "num": 703298,
+        "word": "孙颖莎积分断层世界第一",
+        "onboard_time": 1722404841,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261486,
+        "num": 687827,
+        "word": "韩林 免死金牌",
+        "onboard_time": 1722417341,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力建设强大稳固的现代边海空防#"
+    }
+  }
+}
