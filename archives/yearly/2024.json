@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1722396060031,
+  "endTime": 1722396930994,
   "band_list": [
     {
       "raw_hot": 26081799,
@@ -1283,6 +1283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 7398080,
+      "num": 7398080,
+      "word": "哈马斯领导人哈尼亚遇袭身亡",
+      "onboard_time": 1722395483,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 7379450,
       "num": 7379450,
       "word": "香缇莫淘汰",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1707624989,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 4051630,
-      "num": 699999,
-      "word": "SM承认柳智敏恋情",
-      "onboard_time": 1709008057,
-      "rank": 11,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
