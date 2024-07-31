@@ -1,6 +1,6 @@
 {
   "startTime": 1722097426384,
-  "endTime": 1722458104232,
+  "endTime": 1722460801620,
   "band_list": [
     {
       "raw_hot": 33113456,
@@ -595,6 +595,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 4201477,
+      "num": 4201477,
+      "word": "潘展乐100自由泳金牌",
+      "onboard_time": 1722458893,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 4200704,
       "num": 4200704,
       "word": "朝鲜混双进决赛了",
@@ -1083,6 +1091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2418965,
+      "num": 2418965,
+      "word": "潘展乐说美国人有点看不起我们",
+      "onboard_time": 1722459673,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2417435,
       "num": 2417435,
       "word": "女篮就差一分",
@@ -1112,6 +1128,14 @@
       "word": "中国女篮半场落后塞尔维亚6分",
       "onboard_time": 1722429206,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2387678,
+      "num": 2387678,
+      "word": "潘展乐破世界纪录",
+      "onboard_time": 1722459013,
+      "rank": 3,
       "category": "体育"
     },
     {
@@ -2763,6 +2787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1162316,
+      "num": 1162316,
+      "word": "潘展乐 世界飞鱼",
+      "onboard_time": 1722459733,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1160608,
       "num": 816104,
       "word": "六年级小侄女朋友圈屏蔽了全家",
@@ -3209,6 +3241,14 @@
       "onboard_time": 1722275775,
       "rank": 21,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 955489,
+      "num": 955489,
+      "word": "潘展乐 扬眉吐气",
+      "onboard_time": 1722459673,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 947990,
@@ -4635,6 +4675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 576195,
+      "num": 234355,
+      "word": "潘展乐",
+      "onboard_time": 1722459613,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 573268,
       "num": 573268,
       "word": "王思雨状态",
@@ -4737,6 +4785,14 @@
       "onboard_time": 1722384803,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 562437,
+      "num": 241210,
+      "word": "樊振东火速进8强",
+      "onboard_time": 1722458834,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 559874,
@@ -5132,7 +5188,7 @@
     },
     {
       "raw_hot": 500336,
-      "num": 202512,
+      "num": 233099,
       "word": "张本智和吵死了",
       "onboard_time": 1722456073,
       "rank": 22,
@@ -5216,6 +5272,14 @@
       "word": "解密朝鲜混双组合神秘打法",
       "onboard_time": 1722310282,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 491773,
+      "num": 239697,
+      "word": "张雨霏发烧",
+      "onboard_time": 1722456373,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -6139,6 +6203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 402048,
+      "num": 231342,
+      "word": "潘展乐赛后采访",
+      "onboard_time": 1722459854,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 401561,
       "num": 290727,
       "word": "徐嘉余回应夺银",
@@ -6593,14 +6665,6 @@
       "onboard_time": 1722147265,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 372501,
-      "num": 198411,
-      "word": "张雨霏发烧",
-      "onboard_time": 1722456373,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 372282,
@@ -9627,6 +9691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223678,
+      "num": 223678,
+      "word": "叶诗文200蛙进决赛",
+      "onboard_time": 1722458414,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223368,
       "num": 223368,
       "word": "冯彦哲黄东萍vs许永凯陈薇涵",
@@ -10323,6 +10395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200603,
+      "num": 200603,
+      "word": "杨威杨云你们当裁判",
+      "onboard_time": 1722457692,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200348,
       "num": 521529,
       "word": "白蛇",
@@ -10377,6 +10457,14 @@
       "onboard_time": 1722149962,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 198887,
+      "num": 198887,
+      "word": "中国游泳队巴黎首金",
+      "onboard_time": 1722459793,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 198269,
@@ -11035,6 +11123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163417,
+      "num": 163417,
+      "word": "潘展乐状态",
+      "onboard_time": 1722460333,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162621,
       "num": 305085,
       "word": "汪苏泷素龙",
@@ -11443,14 +11539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130265,
-      "num": 130265,
-      "word": "杨威杨云你们当裁判",
-      "onboard_time": 1722457692,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 130245,
       "num": 130245,
       "word": "林超攀",
@@ -11777,6 +11865,14 @@
       "onboard_time": 1722407602,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98891,
+      "num": 145716,
+      "word": "雅思组合进4强",
+      "onboard_time": 1722459073,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 98453,
@@ -13075,20 +13171,20 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 27518,
+      "num": 140314,
+      "word": "杨旭文去打架吧跳舞我自有人选",
+      "onboard_time": 1722456313,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 27516,
       "num": 309757,
       "word": "干饭哥最想吃红烧肉",
       "onboard_time": 1722259224,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 27414,
-      "num": 106883,
-      "word": "杨旭文去打架吧跳舞我自有人选",
-      "onboard_time": 1722456313,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 27125,

@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1722458104232,
+  "endTime": 1722460801620,
   "band_list": [
     {
       "raw_hot": 15653750,
@@ -59,6 +59,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 4201477,
+      "num": 4201477,
+      "word": "潘展乐100自由泳金牌",
+      "onboard_time": 1722458893,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3892416,
       "num": 3892416,
       "word": "张博恒自由操13.233分",
@@ -96,6 +104,22 @@
       "word": "马琳 暂停",
       "onboard_time": 1722442044,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2418965,
+      "num": 2418965,
+      "word": "潘展乐说美国人有点看不起我们",
+      "onboard_time": 1722459673,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2387678,
+      "num": 2387678,
+      "word": "潘展乐破世界纪录",
+      "onboard_time": 1722459013,
+      "rank": 3,
       "category": "体育"
     },
     {
@@ -203,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1162316,
+      "num": 1162316,
+      "word": "潘展乐 世界飞鱼",
+      "onboard_time": 1722459733,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1046064,
       "num": 1156002,
       "word": "八一建军节",
@@ -233,6 +265,14 @@
       "onboard_time": 1722435507,
       "rank": 17,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 955489,
+      "num": 955489,
+      "word": "潘展乐 扬眉吐气",
+      "onboard_time": 1722459673,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 942378,
@@ -379,6 +419,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 576195,
+      "num": 234355,
+      "word": "潘展乐",
+      "onboard_time": 1722459613,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 562437,
+      "num": 241210,
+      "word": "樊振东火速进8强",
+      "onboard_time": 1722458834,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 507531,
       "num": 379296,
       "word": "孙颖莎王楚钦混双金牌",
@@ -388,7 +444,7 @@
     },
     {
       "raw_hot": 500336,
-      "num": 202512,
+      "num": 233099,
       "word": "张本智和吵死了",
       "onboard_time": 1722456073,
       "rank": 22,
@@ -400,6 +456,14 @@
       "word": "张博恒失误",
       "onboard_time": 1722443906,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 491773,
+      "num": 239697,
+      "word": "张雨霏发烧",
+      "onboard_time": 1722456373,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -475,19 +539,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 402048,
+      "num": 231342,
+      "word": "潘展乐赛后采访",
+      "onboard_time": 1722459854,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 401827,
       "num": 274118,
       "word": "郑钦文vs科贝尔",
       "onboard_time": 1722430947,
       "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 372501,
-      "num": 198411,
-      "word": "张雨霏发烧",
-      "onboard_time": 1722456373,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -611,6 +675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 223678,
+      "num": 223678,
+      "word": "叶诗文200蛙进决赛",
+      "onboard_time": 1722458414,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220864,
       "num": 570581,
       "word": "披荆斩棘4官宣定档",
@@ -651,6 +723,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200603,
+      "num": 200603,
+      "word": "杨威杨云你们当裁判",
+      "onboard_time": 1722457692,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 198887,
+      "num": 198887,
+      "word": "中国游泳队巴黎首金",
+      "onboard_time": 1722459793,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191391,
       "num": 191391,
       "word": "陈雨菲进8强",
@@ -680,6 +768,22 @@
       "word": "孙颖莎逆转",
       "onboard_time": 1722455234,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 163417,
+      "num": 163417,
+      "word": "潘展乐状态",
+      "onboard_time": 1722460333,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 160500,
+      "num": 160500,
+      "word": "潘展乐惊险晋级",
+      "onboard_time": 1722333445,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -713,14 +817,6 @@
       "onboard_time": 1722444264,
       "rank": 35,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 130265,
-      "num": 130265,
-      "word": "杨威杨云你们当裁判",
-      "onboard_time": 1722457692,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 124500,
@@ -760,6 +856,14 @@
       "word": "李冰洁第5",
       "onboard_time": 1722457633,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 98891,
+      "num": 145716,
+      "word": "雅思组合进4强",
+      "onboard_time": 1722459073,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -811,8 +915,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 27414,
-      "num": 106883,
+      "raw_hot": 27518,
+      "num": 140314,
       "word": "杨旭文去打架吧跳舞我自有人选",
       "onboard_time": 1722456313,
       "rank": 47,
@@ -838,6 +942,9 @@
   "hotgov_list": [
     {
       "word": "#习近平回信勉励强军精武红四连全体官兵#"
+    },
+    {
+      "word": "#开创国防和军队现代化新局面#"
     }
   ]
 }
