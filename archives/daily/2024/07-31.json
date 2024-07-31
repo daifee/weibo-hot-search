@@ -1,6 +1,6 @@
 {
   "startTime": 1722356761759,
-  "endTime": 1722418531851,
+  "endTime": 1722421022978,
   "band_list": [
     {
       "raw_hot": 33113456,
@@ -11,19 +11,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28943593,
+      "num": 28943593,
+      "word": "王楚钦回应爆冷出局",
+      "onboard_time": 1722417703,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26583752,
       "num": 26583752,
       "word": "王楚钦副拍",
       "onboard_time": 1722414266,
       "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 19950617,
-      "num": 19950617,
-      "word": "王楚钦回应爆冷出局",
-      "onboard_time": 1722417703,
-      "rank": 2,
       "category": "体育"
     },
     {
@@ -47,6 +47,22 @@
       "num": 11261440,
       "word": "孙颖莎vs倪夏莲",
       "onboard_time": 1722416570,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 10499211,
+      "num": 11749211,
+      "word": "全红婵陈芋汐金牌",
+      "onboard_time": 1722419323,
+      "rank": 2,
+      "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 10210722,
+      "num": 10210722,
+      "word": "樊振东vs黄镇廷",
+      "onboard_time": 1722419562,
       "rank": 3,
       "category": "体育"
     },
@@ -75,6 +91,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 7568117,
+      "num": 7568117,
+      "word": "女子双人十米台决赛",
+      "onboard_time": 1722415407,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 7473907,
       "num": 7473907,
       "word": "王楚钦说举报",
@@ -83,11 +107,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 7030388,
-      "num": 7030388,
-      "word": "女子双人十米台决赛",
-      "onboard_time": 1722415407,
-      "rank": 4,
+      "raw_hot": 4643306,
+      "num": 5786613,
+      "word": "孙颖莎进16强",
+      "onboard_time": 1722418725,
+      "rank": 7,
+      "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 4596785,
+      "num": 4596785,
+      "word": "马龙 男单名额",
+      "onboard_time": 1722417763,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -179,19 +211,19 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 3089420,
-      "num": 3089420,
-      "word": "马龙 男单名额",
-      "onboard_time": 1722417763,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 3002200,
       "num": 3002200,
       "word": "体操女团决赛",
       "onboard_time": 1722356842,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2726615,
+      "num": 2726615,
+      "word": "全红婵陈芋汐断层领先",
+      "onboard_time": 1722418844,
+      "rank": 12,
       "category": "体育"
     },
     {
@@ -259,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2142229,
+      "num": 2142229,
+      "word": "徐嘉余弃权",
+      "onboard_time": 1722418604,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2064381,
       "num": 1255110,
       "word": "胡塞武装回应哈尼亚被杀",
@@ -304,6 +344,14 @@
       "word": "孙颖莎 就这么水灵灵地说出来了",
       "onboard_time": 1722385044,
       "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2011332,
+      "num": 2011332,
+      "word": "张家齐跳水解说",
+      "onboard_time": 1722418362,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -467,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1314640,
+      "num": 1314640,
+      "word": "水花消失术",
+      "onboard_time": 1722418362,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1305997,
       "num": 1111035,
       "word": "况盛修改英文昵称",
@@ -507,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1208458,
+      "num": 1208458,
+      "word": "倪夏莲 中国人都是一条心",
+      "onboard_time": 1722418243,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1157400,
       "num": 1157400,
       "word": "朝鲜混双组合不接受采访",
@@ -528,6 +592,14 @@
       "word": "08体操女团",
       "onboard_time": 1722384144,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1087340,
+      "num": 1087340,
+      "word": "孙颖莎4比0倪夏莲",
+      "onboard_time": 1722420113,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -561,14 +633,6 @@
       "onboard_time": 1722344968,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1025825,
-      "num": 1025825,
-      "word": "水花消失术",
-      "onboard_time": 1722418362,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 988149,
@@ -616,6 +680,14 @@
       "word": "朝鲜教练",
       "onboard_time": 1722350078,
       "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 929011,
+      "num": 929011,
+      "word": "乒乓球世界排名",
+      "onboard_time": 1722418002,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -731,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 700334,
+      "num": 700334,
+      "word": "叶诗文200蛙晋级半决赛",
+      "onboard_time": 1722419139,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 694574,
       "num": 694574,
       "word": "潘展乐半决赛第一",
@@ -752,6 +832,14 @@
       "word": "孙颖莎正手太强了",
       "onboard_time": 1722344552,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 632458,
+      "num": 632458,
+      "word": "张本智和晋级16强",
+      "onboard_time": 1722420515,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -800,14 +888,6 @@
       "word": "刘国梁颁奖",
       "onboard_time": 1722348523,
       "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 582619,
-      "num": 582619,
-      "word": "张家齐跳水解说",
-      "onboard_time": 1722418362,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -904,6 +984,14 @@
       "word": "朝鲜韩国选手击掌不握手",
       "onboard_time": 1722391101,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 515523,
+      "num": 515523,
+      "word": "全红婵 丑鱼拖鞋",
+      "onboard_time": 1722420815,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -1115,14 +1203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 406989,
-      "num": 406989,
-      "word": "乒乓球世界排名",
-      "onboard_time": 1722418002,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 404380,
       "num": 404380,
       "word": "周雅琴掉木",
@@ -1200,6 +1280,14 @@
       "word": "孙颖莎合照太萌了",
       "onboard_time": 1722353132,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 382258,
+      "num": 382258,
+      "word": "倪夏莲格局",
+      "onboard_time": 1722419383,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -1995,6 +2083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125609,
+      "num": 4601130,
+      "word": "骑手地图小程序用脏话标记顾客",
+      "onboard_time": 1722420044,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123145,
       "num": 2151350,
       "word": "我国外贸首次突破21万亿元",
@@ -2289,6 +2385,14 @@
       "onboard_time": 1722374351,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 45890,
+      "num": 503229,
+      "word": "在巴黎绽放东方力量",
+      "onboard_time": 1722420282,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 45279,
