@@ -1,6 +1,6 @@
 {
   "startTime": 1722097426384,
-  "endTime": 1722432850398,
+  "endTime": 1722435460729,
   "band_list": [
     {
       "raw_hot": 33113456,
@@ -659,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3502713,
+      "num": 3502713,
+      "word": "陈梦vs伊尔兰德",
+      "onboard_time": 1722432987,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3430710,
       "num": 3430710,
       "word": "巴黎奥运会赞助商跑路",
@@ -944,6 +952,14 @@
       "word": "中国第3金",
       "onboard_time": 1722154043,
       "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2493929,
+      "num": 2493929,
+      "word": "全红婵罕见的炸鱼名场面",
+      "onboard_time": 1722428125,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -1235,6 +1251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2041979,
+      "num": 2041979,
+      "word": "李梦失误",
+      "onboard_time": 1722431607,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2040991,
       "num": 2040991,
       "word": "齐迎多向飞碟银牌",
@@ -1320,6 +1344,14 @@
       "word": "奥运已经有选手开始回国了",
       "onboard_time": 1722211463,
       "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1965455,
+      "num": 1965455,
+      "word": "全红婵你就这么亲陈芋汐了",
+      "onboard_time": 1722430466,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -1648,14 +1680,6 @@
       "word": "中国女篮三分绝了",
       "onboard_time": 1722171382,
       "rank": 6,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1574305,
-      "num": 1574305,
-      "word": "全红婵罕见的炸鱼名场面",
-      "onboard_time": 1722428125,
-      "rank": 38,
       "category": "体育"
     },
     {
@@ -2555,20 +2579,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1136436,
+      "num": 1930916,
+      "word": "夏克立被曝婚内骚扰保姆",
+      "onboard_time": 1722431667,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1134780,
       "num": 1134780,
       "word": "苏醒来看莎头比赛",
       "onboard_time": 1722177743,
       "rank": 5,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 1131159,
-      "num": 1131159,
-      "word": "全红婵你就这么亲陈芋汐了",
-      "onboard_time": 1722430466,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 1126167,
@@ -2755,14 +2779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1028347,
-      "num": 991101,
-      "word": "李梦失误",
-      "onboard_time": 1722431607,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1026994,
       "num": 1026994,
       "word": "真没人告诉射击队改网名",
@@ -2865,6 +2881,14 @@
       "onboard_time": 1722412582,
       "rank": 7,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 969892,
+      "num": 1965862,
+      "word": "尤长靖杀回选秀了",
+      "onboard_time": 1722433707,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 966259,
@@ -3072,6 +3096,14 @@
       "word": "戴利还在跳水",
       "onboard_time": 1722245962,
       "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 892601,
+      "num": 402989,
+      "word": "全红婵亲郭晶晶拍自己的手机",
+      "onboard_time": 1722434787,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -3675,14 +3707,6 @@
       "category": "演出,社会新闻"
     },
     {
-      "raw_hot": 703475,
-      "num": 1930916,
-      "word": "夏克立被曝婚内骚扰保姆",
-      "onboard_time": 1722431667,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 697033,
       "num": 973464,
       "word": "郑佩佩女儿再发文",
@@ -3961,6 +3985,14 @@
       "onboard_time": 1722334883,
       "rank": 49,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 631261,
+      "num": 590697,
+      "word": "郑钦文vs科贝尔",
+      "onboard_time": 1722430947,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 629914,
@@ -4675,14 +4707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 513264,
-      "num": 590697,
-      "word": "郑钦文vs科贝尔",
-      "onboard_time": 1722430947,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 512487,
       "num": 512487,
       "word": "东证期货和女员工报警",
@@ -4968,6 +4992,14 @@
       "word": "全红婵陈芋汐水花消失术将登场",
       "onboard_time": 1722385823,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 474646,
+      "num": 397797,
+      "word": "刘国正说王楚钦心态出了问题",
+      "onboard_time": 1722435387,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -6931,6 +6963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 321561,
+      "num": 405722,
+      "word": "徐良是披荆斩棘4主题曲制作人",
+      "onboard_time": 1722435089,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 321404,
       "num": 321404,
       "word": "为什么不上韩旭",
@@ -7889,6 +7929,14 @@
       "onboard_time": 1722314306,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 273571,
+      "num": 398584,
+      "word": "小S问Lily林志玲烟戒了吗",
+      "onboard_time": 1722435207,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 273118,
@@ -8979,6 +9027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227539,
+      "num": 396906,
+      "word": "唐诡樱桃上大分",
+      "onboard_time": 1722434126,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227518,
       "num": 227518,
       "word": "游泳解说不速之客",
@@ -9241,6 +9297,14 @@
       "onboard_time": 1722234139,
       "rank": 38,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 216868,
+      "num": 395153,
+      "word": "阴阳师更新",
+      "onboard_time": 1722433827,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 216831,
@@ -10811,6 +10875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 132793,
+      "num": 1042437,
+      "word": "韩旭状态",
+      "onboard_time": 1722430765,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130245,
       "num": 130245,
       "word": "林超攀",
@@ -11331,14 +11403,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 83923,
-      "num": 1042437,
-      "word": "韩旭状态",
-      "onboard_time": 1722430765,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 83666,
       "num": 344893,
       "word": "异人之下",
@@ -11563,12 +11627,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 69743,
+      "num": 5297637,
+      "word": "文化中国行看高平古建有多美",
+      "onboard_time": 1722430765,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69680,
       "num": 69680,
       "word": "詹姆斯21分",
       "onboard_time": 1722190693,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69265,
+      "num": 1319229,
+      "word": "爷孙3人遭邻居开车冲撞致2死",
+      "onboard_time": 1722435207,
+      "rank": 18,
+      "category": "社会负面"
     },
     {
       "raw_hot": 69089,
@@ -11648,6 +11728,14 @@
       "word": "谷爱凌和新朋友灵龙",
       "onboard_time": 1722162623,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 64206,
+      "num": 404685,
+      "word": "李梦我们需要你",
+      "onboard_time": 1722434006,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -11899,14 +11987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 52585,
-      "num": 5297637,
-      "word": "文化中国行看高平古建有多美",
-      "onboard_time": 1722430765,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 52283,
       "num": 1064715,
       "word": "北京暴雨积水没过汽车底盘",
@@ -12024,6 +12104,14 @@
       "word": "北京全市降雨量已达暴雨",
       "onboard_time": 1722372971,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44790,
+      "num": 1649975,
+      "word": "有中介曾帮三无人员从银行骗贷600万",
+      "onboard_time": 1722434427,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

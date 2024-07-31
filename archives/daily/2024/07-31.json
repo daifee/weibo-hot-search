@@ -1,6 +1,6 @@
 {
   "startTime": 1722356761759,
-  "endTime": 1722432850398,
+  "endTime": 1722435460729,
   "band_list": [
     {
       "raw_hot": 33113456,
@@ -219,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3502713,
+      "num": 3502713,
+      "word": "陈梦vs伊尔兰德",
+      "onboard_time": 1722432987,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3289215,
       "num": 1222623,
       "word": "以色列回应哈马斯领导人遇袭身亡",
@@ -323,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2493929,
+      "num": 2493929,
+      "word": "全红婵罕见的炸鱼名场面",
+      "onboard_time": 1722428125,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2479072,
       "num": 2479072,
       "word": "全红婵陈芋汐首秀",
@@ -411,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2041979,
+      "num": 2041979,
+      "word": "李梦失误",
+      "onboard_time": 1722431607,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2037179,
       "num": 1424419,
       "word": "孙颖莎演我看到熟人穿正装",
@@ -465,6 +489,14 @@
       "onboard_time": 1722404240,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1965455,
+      "num": 1965455,
+      "word": "全红婵你就这么亲陈芋汐了",
+      "onboard_time": 1722430466,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 1891771,
@@ -544,14 +576,6 @@
       "word": "乒乓记者称王楚钦要过心理关",
       "onboard_time": 1722393081,
       "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1574305,
-      "num": 1574305,
-      "word": "全红婵罕见的炸鱼名场面",
-      "onboard_time": 1722428125,
-      "rank": 38,
       "category": "体育"
     },
     {
@@ -747,12 +771,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 1131159,
-      "num": 1131159,
-      "word": "全红婵你就这么亲陈芋汐了",
-      "onboard_time": 1722430466,
-      "rank": 35,
-      "category": "体育"
+      "raw_hot": 1136436,
+      "num": 1930916,
+      "word": "夏克立被曝婚内骚扰保姆",
+      "onboard_time": 1722431667,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 1126167,
@@ -811,14 +835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1028347,
-      "num": 991101,
-      "word": "李梦失误",
-      "onboard_time": 1722431607,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1026984,
       "num": 893782,
       "word": "英已婚女狱警与囚犯在牢房发生关系",
@@ -859,6 +875,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 969892,
+      "num": 1965862,
+      "word": "尤长靖杀回选秀了",
+      "onboard_time": 1722433707,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 966259,
       "num": 746545,
       "word": "况盛爱女儿人设",
@@ -897,6 +921,14 @@
       "onboard_time": 1722385284,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 892601,
+      "num": 402989,
+      "word": "全红婵亲郭晶晶拍自己的手机",
+      "onboard_time": 1722434787,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 889425,
@@ -1067,14 +1099,6 @@
       "category": "演出,社会新闻"
     },
     {
-      "raw_hot": 703475,
-      "num": 1930916,
-      "word": "夏克立被曝婚内骚扰保姆",
-      "onboard_time": 1722431667,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 694574,
       "num": 694574,
       "word": "潘展乐半决赛第一",
@@ -1152,6 +1176,14 @@
       "word": "霍启山好帅",
       "onboard_time": 1722343590,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 631261,
+      "num": 590697,
+      "word": "郑钦文vs科贝尔",
+      "onboard_time": 1722430947,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -1323,14 +1355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 513264,
-      "num": 590697,
-      "word": "郑钦文vs科贝尔",
-      "onboard_time": 1722430947,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 511838,
       "num": 511838,
       "word": "许昕祝贺莎头",
@@ -1416,6 +1440,14 @@
       "word": "全红婵陈芋汐水花消失术将登场",
       "onboard_time": 1722385823,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 474646,
+      "num": 397797,
+      "word": "刘国正说王楚钦心态出了问题",
+      "onboard_time": 1722435387,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -1851,6 +1883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 321561,
+      "num": 405722,
+      "word": "徐良是披荆斩棘4主题曲制作人",
+      "onboard_time": 1722435089,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 316733,
       "num": 891603,
       "word": "空军多架运20送新飞行学员报到",
@@ -1969,6 +2009,14 @@
       "onboard_time": 1722398485,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 273571,
+      "num": 398584,
+      "word": "小S问Lily林志玲烟戒了吗",
+      "onboard_time": 1722435207,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 272749,
@@ -2163,6 +2211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227539,
+      "num": 396906,
+      "word": "唐诡樱桃上大分",
+      "onboard_time": 1722434126,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227084,
       "num": 227084,
       "word": "覃海洋回应无缘决赛",
@@ -2233,6 +2289,14 @@
       "onboard_time": 1722358759,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 216868,
+      "num": 395153,
+      "word": "阴阳师更新",
+      "onboard_time": 1722433827,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 216682,
@@ -2523,6 +2587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132793,
+      "num": 1042437,
+      "word": "韩旭状态",
+      "onboard_time": 1722430765,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125209,
       "num": 2218917,
       "word": "冰杯的性价比高在哪",
@@ -2691,14 +2763,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 83923,
-      "num": 1042437,
-      "word": "韩旭状态",
-      "onboard_time": 1722430765,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 81568,
       "num": 1992817,
       "word": "自恋型人格伴侣为什么让人窒息",
@@ -2763,12 +2827,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 69743,
+      "num": 5297637,
+      "word": "文化中国行看高平古建有多美",
+      "onboard_time": 1722430765,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69265,
+      "num": 1319229,
+      "word": "爷孙3人遭邻居开车冲撞致2死",
+      "onboard_time": 1722435207,
+      "rank": 18,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 68360,
       "num": 3306867,
       "word": "部分餐饮从业人员图方便买假健康证",
       "onboard_time": 1722423629,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64206,
+      "num": 404685,
+      "word": "李梦我们需要你",
+      "onboard_time": 1722434006,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 63505,
@@ -2827,14 +2915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 52585,
-      "num": 5297637,
-      "word": "文化中国行看高平古建有多美",
-      "onboard_time": 1722430765,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 49090,
       "num": 49090,
       "word": "覃海洋 后程",
@@ -2872,6 +2952,14 @@
       "word": "北京全市降雨量已达暴雨",
       "onboard_time": 1722372971,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44790,
+      "num": 1649975,
+      "word": "有中介曾帮三无人员从银行骗贷600万",
+      "onboard_time": 1722434427,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
