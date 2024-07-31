@@ -1,6 +1,6 @@
 {
   "startTime": 1722356761759,
-  "endTime": 1722430396651,
+  "endTime": 1722432139797,
   "band_list": [
     {
       "raw_hot": 33113456,
@@ -259,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2974775,
+      "num": 2974775,
+      "word": "中国女篮vs塞尔维亚女篮",
+      "onboard_time": 1722425725,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2726615,
       "num": 2726615,
       "word": "全红婵陈芋汐断层领先",
@@ -323,6 +331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2404948,
+      "num": 2404948,
+      "word": "中国女篮半场落后塞尔维亚6分",
+      "onboard_time": 1722429206,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2372293,
       "num": 2372293,
       "word": "莎头拥抱庆祝",
@@ -339,11 +355,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2184658,
+      "num": 2184658,
+      "word": "水谷隼谈王楚钦球拍折断",
+      "onboard_time": 1722427104,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2142229,
       "num": 2142229,
       "word": "徐嘉余弃权",
       "onboard_time": 1722418604,
       "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2095310,
+      "num": 2095310,
+      "word": "张怡宁副拍",
+      "onboard_time": 1722428847,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -427,14 +459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1912524,
-      "num": 1912524,
-      "word": "水谷隼谈王楚钦球拍折断",
-      "onboard_time": 1722427104,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1891771,
       "num": 1434979,
       "word": "韩网评中朝韩选手合照",
@@ -456,14 +480,6 @@
       "word": "意大利就输给中国香港提抗议",
       "onboard_time": 1722393742,
       "rank": 5,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1791468,
-      "num": 1791468,
-      "word": "张怡宁副拍",
-      "onboard_time": 1722428847,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -512,14 +528,6 @@
       "word": "莫雷加德黄牌",
       "onboard_time": 1722416570,
       "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1615938,
-      "num": 1615938,
-      "word": "中国女篮vs塞尔维亚女篮",
-      "onboard_time": 1722425725,
-      "rank": 20,
       "category": "体育"
     },
     {
@@ -595,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1396187,
+      "num": 1396187,
+      "word": "全红婵罕见的炸鱼名场面",
+      "onboard_time": 1722428125,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1372517,
       "num": 1372517,
       "word": "朝鲜教练是巴黎世乒赛混双冠军",
@@ -649,14 +665,6 @@
       "onboard_time": 1722392842,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1288808,
-      "num": 1288808,
-      "word": "中国女篮半场落后塞尔维亚6分",
-      "onboard_time": 1722429206,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 1264086,
@@ -723,8 +731,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 1120874,
-      "num": 1120874,
+      "raw_hot": 1126167,
+      "num": 1126167,
       "word": "孙佳琪摔了",
       "onboard_time": 1722429088,
       "rank": 36,
@@ -744,6 +752,14 @@
       "word": "孙颖莎4比0倪夏莲",
       "onboard_time": 1722420113,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1065416,
+      "num": 1065416,
+      "word": "我还要准备下一场比赛",
+      "onboard_time": 1722431064,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -859,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 863587,
+      "num": 2388116,
+      "word": "披荆斩棘4官宣定档",
+      "onboard_time": 1722431245,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 861578,
       "num": 776776,
       "word": "疑似张雨绮新恋情",
@@ -889,6 +913,14 @@
       "onboard_time": 1722412222,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 809173,
+      "num": 809173,
+      "word": "羽毛球男双",
+      "onboard_time": 1722430106,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 808308,
@@ -963,19 +995,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 745294,
+      "num": 745294,
+      "word": "全红婵你就这么亲陈芋汐了",
+      "onboard_time": 1722430466,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 735311,
       "num": 735311,
       "word": "孙颖莎采访",
       "onboard_time": 1722422972,
       "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 732529,
-      "num": 732529,
-      "word": "羽毛球男双",
-      "onboard_time": 1722430106,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -1003,20 +1035,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 722103,
-      "num": 722103,
-      "word": "全红婵罕见的炸鱼名场面",
-      "onboard_time": 1722428125,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 711228,
       "num": 711228,
       "word": "中朝韩3国运动员自拍",
       "onboard_time": 1722353729,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 706727,
+      "num": 2807198,
+      "word": "演唱会实名购票入场前发现已被顶替",
+      "onboard_time": 1722427224,
+      "rank": 19,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 694574,
@@ -1048,6 +1080,14 @@
       "word": "孙颖莎正手太强了",
       "onboard_time": 1722344552,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 638427,
+      "num": 638427,
+      "word": "王皓指导",
+      "onboard_time": 1722428545,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -1083,11 +1123,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 623692,
+      "num": 623692,
+      "word": "女篮今晚是复仇战也是生死战",
+      "onboard_time": 1722428067,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 621518,
       "num": 621518,
       "word": "李小双说是教练组的问题别怪运动员",
       "onboard_time": 1722327382,
       "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 618754,
+      "num": 1934839,
+      "word": "黄一鸣说还会嫁人",
+      "onboard_time": 1722430706,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 602994,
+      "num": 602994,
+      "word": "樊振东说要专注于自己",
+      "onboard_time": 1722431064,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -1147,14 +1211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 559871,
-      "num": 559871,
-      "word": "女篮今晚是复仇战也是生死战",
-      "onboard_time": 1722428067,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 556317,
       "num": 556317,
       "word": "考了世界第一颁奖的是班主任",
@@ -1185,14 +1241,6 @@
       "onboard_time": 1722408382,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 531166,
-      "num": 2807198,
-      "word": "演唱会实名购票入场前发现已被顶替",
-      "onboard_time": 1722427224,
-      "rank": 19,
-      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 528070,
@@ -1240,6 +1288,22 @@
       "word": "朝鲜韩国选手击掌不握手",
       "onboard_time": 1722391101,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 513508,
+      "num": 513508,
+      "word": "李梦失误",
+      "onboard_time": 1722431607,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 513264,
+      "num": 513264,
+      "word": "郑钦文vs科贝尔",
+      "onboard_time": 1722430947,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -1377,6 +1441,14 @@
       "onboard_time": 1722386784,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 459690,
+      "num": 1930916,
+      "word": "夏克立被曝婚内骚扰保姆",
+      "onboard_time": 1722431667,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 457552,
@@ -1891,6 +1963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269428,
+      "num": 2354973,
+      "word": "王思雨说小组赛中已没退路",
+      "onboard_time": 1722427767,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 268687,
       "num": 426302,
       "word": "henry想加金晨微信",
@@ -2059,6 +2139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230356,
+      "num": 732743,
+      "word": "朱志鑫换微博头像",
+      "onboard_time": 1722429925,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227084,
       "num": 227084,
       "word": "覃海洋回应无缘决赛",
@@ -2185,14 +2273,6 @@
       "onboard_time": 1722391582,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206145,
-      "num": 732743,
-      "word": "朱志鑫换微博头像",
-      "onboard_time": 1722429925,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 205793,
@@ -2443,20 +2523,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 120567,
-      "num": 1921901,
-      "word": "王思雨说小组赛中已没退路",
-      "onboard_time": 1722427767,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 120565,
       "num": 340974,
       "word": "乌尔善回应异人之下改编",
       "onboard_time": 1722405081,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 116273,
+      "num": 2382418,
+      "word": "8500元的LV短袖T恤水洗后串色",
+      "onboard_time": 1722430826,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116086,
@@ -2643,6 +2723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72527,
+      "num": 1034932,
+      "word": "韩旭状态",
+      "onboard_time": 1722430765,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70104,
       "num": 617445,
       "word": "胡先煦蹦迪直拍",
@@ -2656,6 +2744,14 @@
       "word": "部分餐饮从业人员图方便买假健康证",
       "onboard_time": 1722423629,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65365,
+      "num": 2218917,
+      "word": "冰杯的性价比高在哪",
+      "onboard_time": 1722430826,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2819,6 +2915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 28026,
+      "num": 5297637,
+      "word": "文化中国行看高平古建有多美",
+      "onboard_time": 1722430765,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27686,
       "num": 435093,
       "word": "第一双颜值运动跑鞋怎么选",
@@ -2888,6 +2992,9 @@
     },
     {
       "word": "#习近平回信勉励强军精武红四连全体官兵#"
+    },
+    {
+      "word": "#开创国防和军队现代化新局面#"
     }
   ]
 }
