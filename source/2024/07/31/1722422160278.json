@@ -1,0 +1,410 @@
+{
+  "runTime": 1722422160278,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 28111329,
+        "num": 28111329,
+        "word": "王楚钦回应爆冷出局",
+        "onboard_time": 1722417703,
+        "rank": 0,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 12583675,
+        "num": 12583675,
+        "word": "王楚钦爆冷出局",
+        "onboard_time": 1722416335,
+        "rank": 1,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 11563419,
+        "num": 12406798,
+        "word": "全红婵陈芋汐金牌",
+        "onboard_time": 1722419323,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 10591579,
+        "num": 10591579,
+        "word": "樊振东vs黄镇廷",
+        "onboard_time": 1722419562,
+        "rank": 3,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 6879901,
+        "num": 6879901,
+        "word": "王楚钦副拍",
+        "onboard_time": 1722414266,
+        "rank": 4,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 4180957,
+        "num": 4861915,
+        "word": "孙颖莎进16强",
+        "onboard_time": 1722418725,
+        "rank": 5,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 4105194,
+        "num": 4105194,
+        "word": "女子双人十米台决赛",
+        "onboard_time": 1722415407,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4075896,
+        "num": 4075896,
+        "word": "孙颖莎vs倪夏莲",
+        "onboard_time": 1722416570,
+        "rank": 7,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 3489939,
+        "num": 3489939,
+        "word": "王楚钦vs莫雷加德",
+        "onboard_time": 1722412882,
+        "rank": 8,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 462545,
+        "num": 2801260,
+        "word": "G社选用刘诗诗照片做封面",
+        "onboard_time": 1722412582,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 4201566,
+        "num": 2723858,
+        "word": "马龙 男单名额",
+        "onboard_time": 1722417763,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2295616,
+        "num": 2295616,
+        "word": "王楚钦的球拍上有个脚印",
+        "onboard_time": 1722390981,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2090260,
+        "num": 2090260,
+        "word": "全红婵陈芋汐断层领先",
+        "onboard_time": 1722418844,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1928026,
+        "num": 1928026,
+        "word": "视频回放王楚钦球拍被踩断始末",
+        "onboard_time": 1722388283,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1812680,
+        "num": 1812680,
+        "word": "张家齐跳水解说",
+        "onboard_time": 1722418362,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1661484,
+        "num": 1661484,
+        "word": "王楚钦看着拍子摇头",
+        "onboard_time": 1722417703,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33403,
+        "num": 1559235,
+        "word": "红白蓝是今年最法式的配色",
+        "onboard_time": 1722421115,
+        "rank": 16,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 1522685,
+        "num": 1522685,
+        "word": "徐嘉余弃权",
+        "onboard_time": 1722418604,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1428440,
+        "num": 1428440,
+        "word": "中国跳水40年50金",
+        "onboard_time": 1722421054,
+        "rank": 18,
+        "category": "体育,运动健身"
+      },
+      {
+        "raw_hot": 236768,
+        "num": 1377769,
+        "word": "况盛",
+        "onboard_time": 1722412222,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123553,
+        "num": 1353682,
+        "word": "长沙8死5伤撞人案调查",
+        "onboard_time": 1722407903,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 32838,
+        "num": 1341872,
+        "word": "在巴黎绽放东方力量",
+        "onboard_time": 1722420282,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1330738,
+        "num": 1330738,
+        "word": "倪夏莲 中国人都是一条心",
+        "onboard_time": 1722418243,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1120510,
+        "num": 1120510,
+        "word": "水花消失术",
+        "onboard_time": 1722418362,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1036062,
+        "num": 1036062,
+        "word": "陈芋汐全红婵复制粘贴",
+        "onboard_time": 1722417582,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1033178,
+        "num": 1033178,
+        "word": "孙颖莎4比0倪夏莲",
+        "onboard_time": 1722420113,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1002590,
+        "num": 1002590,
+        "word": "三三未婚先孕",
+        "onboard_time": 1722408442,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 875792,
+        "num": 875792,
+        "word": "全红婵陈芋汐首秀",
+        "onboard_time": 1722415525,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221604,
+        "num": 846763,
+        "word": "时代少年团演唱会官宣",
+        "onboard_time": 1722406942,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177380,
+        "num": 829602,
+        "word": "时代少年团 选座",
+        "onboard_time": 1722411202,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 827028,
+        "num": 827028,
+        "word": "孙颖莎王楚钦混双金牌",
+        "onboard_time": 1722344015,
+        "rank": 30,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 799294,
+        "num": 799294,
+        "word": "乒乓球世界排名",
+        "onboard_time": 1722418002,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 773356,
+        "num": 773356,
+        "word": "张本智和晋级16强",
+        "onboard_time": 1722420515,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 761657,
+        "num": 761657,
+        "word": "叶诗文200蛙晋级半决赛",
+        "onboard_time": 1722419139,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 757681,
+        "num": 757681,
+        "word": "孙颖莎倪阿姨赛后拥抱",
+        "onboard_time": 1722421236,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 747338,
+        "num": 747338,
+        "word": "张雨绮都有俩孩子了",
+        "onboard_time": 1722404240,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 673395,
+        "num": 673395,
+        "word": "全红婵 丑鱼拖鞋",
+        "onboard_time": 1722420815,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 627147,
+        "num": 627147,
+        "word": "莫雷加德说想来中国打球",
+        "onboard_time": 1722421474,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 600156,
+        "num": 600156,
+        "word": "哈马斯领导人凌晨在住所内被暗杀",
+        "onboard_time": 1722397164,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 577970,
+        "num": 577970,
+        "word": "莎头拥抱庆祝",
+        "onboard_time": 1722348523,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 531031,
+        "num": 531031,
+        "word": "王楚钦说举报",
+        "onboard_time": 1722347920,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 497940,
+        "num": 497940,
+        "word": "外媒称哈尼亚死于导弹袭击",
+        "onboard_time": 1722407841,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 358307,
+        "num": 486473,
+        "word": "骑手地图小程序用脏话标记顾客",
+        "onboard_time": 1722420044,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479027,
+        "num": 479027,
+        "word": "乒乓球男单",
+        "onboard_time": 1722417522,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 496947,
+        "num": 478267,
+        "word": "伊朗外交部回应哈尼亚被杀",
+        "onboard_time": 1722407301,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 477030,
+        "num": 477030,
+        "word": "朝鲜跳水 黑马",
+        "onboard_time": 1722421833,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 472353,
+        "num": 472353,
+        "word": "王楚钦换球拍不是输球的理由",
+        "onboard_time": 1722421891,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 487393,
+        "num": 464865,
+        "word": "哈马斯回应哈尼亚遭袭身亡",
+        "onboard_time": 1722398002,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 455927,
+        "num": 455927,
+        "word": "男单给我上呼吸机",
+        "onboard_time": 1722416219,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 429316,
+        "num": 429316,
+        "word": "王楚钦采访名场面又来了",
+        "onboard_time": 1722378495,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局第十六次集体学习#"
+    }
+  }
+}
