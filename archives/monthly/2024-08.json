@@ -1,10 +1,10 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1722447394484,
+  "endTime": 1722450347858,
   "band_list": [
     {
-      "raw_hot": 10274001,
-      "num": 10274001,
+      "raw_hot": 15653750,
+      "num": 15653750,
       "word": "体操男子个人全能决赛",
       "onboard_time": 1722440246,
       "rank": 0,
@@ -12,10 +12,18 @@
     },
     {
       "raw_hot": 9679793,
-      "num": 1144433,
+      "num": 2099629,
       "word": "王楚钦爆冷出局",
       "onboard_time": 1722416335,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 6556479,
+      "num": 6556479,
+      "word": "张博恒全能银牌",
+      "onboard_time": 1722449791,
+      "rank": 1,
       "category": "体育"
     },
     {
@@ -27,11 +35,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 5696484,
+      "num": 5696484,
+      "word": "体操排名",
+      "onboard_time": 1722448280,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 5289234,
-      "num": 2536633,
+      "num": 2724481,
       "word": "王楚钦回应爆冷出局",
       "onboard_time": 1722417703,
       "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 4648820,
+      "num": 2143347,
+      "word": "陈滢 桥本",
+      "onboard_time": 1722446781,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -40,6 +64,14 @@
       "word": "张博恒自由操13.233分",
       "onboard_time": 1722442165,
       "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3742381,
+      "num": 3742381,
+      "word": "体操 日本申诉",
+      "onboard_time": 1722447439,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -56,6 +88,14 @@
       "word": "马琳 暂停",
       "onboard_time": 1722442044,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2474798,
+      "num": 2474798,
+      "word": "肖若腾全能铜牌",
+      "onboard_time": 1722449907,
+      "rank": 6,
       "category": "体育"
     },
     {
@@ -99,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1363564,
+      "num": 1198021,
+      "word": "张博恒吊环14.600分",
+      "onboard_time": 1722444805,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1350237,
       "num": 588123,
       "word": "王楚钦谈失利原因",
@@ -123,11 +171,27 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1198021,
-      "num": 1198021,
-      "word": "张博恒吊环14.600分",
-      "onboard_time": 1722444805,
-      "rank": 16,
+      "raw_hot": 1046064,
+      "num": 1156002,
+      "word": "八一建军节",
+      "onboard_time": 1722444146,
+      "rank": 46,
+      "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 996019,
+      "num": 996019,
+      "word": "体操直播",
+      "onboard_time": 1722441506,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 972392,
+      "num": 972392,
+      "word": "心疼张博恒",
+      "onboard_time": 1722445103,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -155,8 +219,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 924778,
+      "num": 924778,
+      "word": "肖若腾跳马14.833分",
+      "onboard_time": 1722446063,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 923418,
-      "num": 1189920,
+      "num": 2425597,
       "word": "花少团去奥运现场为陈梦加油",
       "onboard_time": 1722438271,
       "rank": 7,
@@ -168,14 +240,6 @@
       "word": "王楚钦vs莫雷加德",
       "onboard_time": 1722412882,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 844575,
-      "num": 844575,
-      "word": "肖若腾跳马14.833分",
-      "onboard_time": 1722446063,
-      "rank": 31,
       "category": "体育"
     },
     {
@@ -211,19 +275,19 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 712636,
+      "num": 712636,
+      "word": "乌克兰双杠分数",
+      "onboard_time": 1722448280,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 697693,
       "num": 578260,
       "word": "王楚钦",
       "onboard_time": 1722443186,
       "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 685764,
-      "num": 582995,
-      "word": "体操直播",
-      "onboard_time": 1722441506,
-      "rank": 32,
       "category": "体育"
     },
     {
@@ -243,16 +307,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 591895,
-      "num": 591895,
-      "word": "陈滢 桥本",
-      "onboard_time": 1722446781,
-      "rank": 25,
+      "raw_hot": 587141,
+      "num": 587141,
+      "word": "肖若腾北京家中已预留奖牌位",
+      "onboard_time": 1722447739,
+      "rank": 26,
       "category": "体育"
     },
     {
       "raw_hot": 580203,
-      "num": 1176454,
+      "num": 2303652,
       "word": "刘诗诗全球首穿",
       "onboard_time": 1722440724,
       "rank": 11,
@@ -291,19 +355,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 455923,
+      "num": 455923,
+      "word": "杨威解说体操",
+      "onboard_time": 1722448220,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 441389,
+      "num": 2254344,
+      "word": "一人一句向人民子弟兵致敬",
+      "onboard_time": 1722446720,
+      "rank": 14,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 437308,
       "num": 426708,
       "word": "马龙 男单名额",
       "onboard_time": 1722417763,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 416852,
-      "num": 416852,
-      "word": "心疼张博恒",
-      "onboard_time": 1722445103,
-      "rank": 40,
       "category": "体育"
     },
     {
@@ -355,6 +427,22 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 335334,
+      "num": 335334,
+      "word": "茶茶好棒",
+      "onboard_time": 1722450024,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 306525,
+      "num": 306525,
+      "word": "冈慎之助",
+      "onboard_time": 1722450261,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 304712,
       "num": 304712,
       "word": "陈梦女单进8强",
@@ -364,7 +452,7 @@
     },
     {
       "raw_hot": 293512,
-      "num": 768852,
+      "num": 1040029,
       "word": "演唱会实名购票入场前发现已被顶替",
       "onboard_time": 1722427224,
       "rank": 14,
@@ -377,6 +465,14 @@
       "onboard_time": 1722427224,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288876,
+      "num": 288876,
+      "word": "单杠",
+      "onboard_time": 1722448698,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 286790,
@@ -401,6 +497,14 @@
       "onboard_time": 1722408442,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250360,
+      "num": 1045970,
+      "word": "英国破产",
+      "onboard_time": 1722447923,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 223774,
@@ -443,28 +547,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 195009,
-      "num": 1089645,
-      "word": "一人一句向人民子弟兵致敬",
-      "onboard_time": 1722446720,
-      "rank": 14,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 188333,
       "num": 274043,
       "word": "广东发生重大刑案嫌疑人被抓获",
       "onboard_time": 1722425484,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 185926,
-      "num": 1156002,
-      "word": "八一建军节",
-      "onboard_time": 1722444146,
-      "rank": 46,
-      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 182904,
@@ -515,6 +603,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88236,
+      "num": 569496,
+      "word": "况盛背着前女友上传视频",
+      "onboard_time": 1722448638,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 67826,
+      "num": 279105,
+      "word": "谢谢你们守护大好河山万家灯火",
+      "onboard_time": 1722449479,
+      "rank": 47,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 28392,
       "num": 437826,
       "word": "每一场双向奔赴都是爱的传递",
@@ -524,7 +628,7 @@
     },
     {
       "raw_hot": 24629,
-      "num": 2003080,
+      "num": 5833225,
       "word": "有子弟兵在就有满满安全感",
       "onboard_time": 1722430044,
       "rank": 2,
