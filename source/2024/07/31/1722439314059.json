@@ -1,0 +1,410 @@
+{
+  "runTime": 1722439314059,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7890844,
+        "num": 7890844,
+        "word": "陈梦vs伊尔兰德",
+        "onboard_time": 1722432987,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4032679,
+        "num": 4032679,
+        "word": "全红婵亲郭晶晶拍自己的手机",
+        "onboard_time": 1722434787,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34327,
+        "num": 3237052,
+        "word": "文化中国行看高平古建有多美",
+        "onboard_time": 1722430765,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2771251,
+        "num": 2771251,
+        "word": "全红婵罕见的炸鱼名场面",
+        "onboard_time": 1722428125,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2610233,
+        "num": 2610233,
+        "word": "陈梦女单进8强",
+        "onboard_time": 1722438330,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7715137,
+        "num": 2423943,
+        "word": "王楚钦回应爆冷出局",
+        "onboard_time": 1722417703,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1559504,
+        "num": 2164923,
+        "word": "花少团去奥运现场为陈梦加油",
+        "onboard_time": 1722438271,
+        "rank": 6,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 697172,
+        "num": 2107993,
+        "word": "演唱会实名购票入场前发现已被顶替",
+        "onboard_time": 1722427224,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 2104127,
+        "num": 2104127,
+        "word": "黄子韬也是翻身了",
+        "onboard_time": 1722435507,
+        "rank": 8,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 20103,
+        "num": 1250967,
+        "word": "布林肯称美对哈尼亚被杀不知情没参与",
+        "onboard_time": 1722438631,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 13663126,
+        "num": 1239599,
+        "word": "王楚钦爆冷出局",
+        "onboard_time": 1722416335,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 923993,
+        "num": 923993,
+        "word": "爷孙3人遭邻居开车冲撞致2死",
+        "onboard_time": 1722435207,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 626852,
+        "num": 923336,
+        "word": "尤长靖杀回选秀了",
+        "onboard_time": 1722433707,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4093251,
+        "num": 921498,
+        "word": "刘国正说王楚钦心态出了问题",
+        "onboard_time": 1722435387,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 513666,
+        "num": 919708,
+        "word": "女子刷视频自学针灸治病致人死亡",
+        "onboard_time": 1722427224,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1967275,
+        "num": 918183,
+        "word": "陈梦4比1伊尔兰德",
+        "onboard_time": 1722438631,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2049141,
+        "num": 916373,
+        "word": "王楚钦这一课真的太痛了",
+        "onboard_time": 1722424048,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1734692,
+        "num": 914157,
+        "word": "奥恰洛夫 可惜",
+        "onboard_time": 1722436047,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 504574,
+        "num": 912843,
+        "word": "荣梓杉田嘉瑞 观众席",
+        "onboard_time": 1722438868,
+        "rank": 18,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 463079,
+        "num": 911283,
+        "word": "披荆斩棘4官宣定档",
+        "onboard_time": 1722431245,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1705518,
+        "num": 909338,
+        "word": "郑钦文vs科贝尔",
+        "onboard_time": 1722430947,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1670084,
+        "num": 907871,
+        "word": "奥恰洛夫止步16强",
+        "onboard_time": 1722437909,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1529480,
+        "num": 906184,
+        "word": "樊振东进16强",
+        "onboard_time": 1722422612,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1458466,
+        "num": 904254,
+        "word": "王楚钦谈失利原因",
+        "onboard_time": 1722427345,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 490048,
+        "num": 903976,
+        "word": "夏克立被曝婚内骚扰保姆",
+        "onboard_time": 1722431667,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1235993,
+        "num": 901897,
+        "word": "朝鲜选手让三追四大逆转",
+        "onboard_time": 1722435687,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1369829,
+        "num": 899439,
+        "word": "王楚钦vs莫雷加德",
+        "onboard_time": 1722412882,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 415055,
+        "num": 898043,
+        "word": "韩国人说中国人会分身术",
+        "onboard_time": 1722434307,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 414535,
+        "num": 896704,
+        "word": "三三未婚先孕",
+        "onboard_time": 1722408442,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1261083,
+        "num": 895240,
+        "word": "王楚钦副拍",
+        "onboard_time": 1722414266,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1235230,
+        "num": 892899,
+        "word": "邓雅文自由式小轮车金牌",
+        "onboard_time": 1722427467,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1137830,
+        "num": 891616,
+        "word": "全红婵你就这么亲陈芋汐了",
+        "onboard_time": 1722430466,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 998333,
+        "num": 889734,
+        "word": "郑钦文回应纳瓦罗diss",
+        "onboard_time": 1722438988,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 380086,
+        "num": 887767,
+        "word": "小S问Lily林志玲烟戒了吗",
+        "onboard_time": 1722435207,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284796,
+        "num": 886607,
+        "word": "广东发生重大刑案嫌疑人被抓获",
+        "onboard_time": 1722425484,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 950638,
+        "num": 885360,
+        "word": "我还要准备下一场比赛",
+        "onboard_time": 1722431064,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 884424,
+        "num": 884424,
+        "word": "全妹赖在谷爱凌怀里说你好漂亮",
+        "onboard_time": 1722437669,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 854938,
+        "num": 854938,
+        "word": "水谷隼谈王楚钦球拍折断",
+        "onboard_time": 1722427104,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 797703,
+        "num": 797703,
+        "word": "孙颖莎进16强",
+        "onboard_time": 1722418725,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 786510,
+        "num": 786510,
+        "word": "马龙 男单名额",
+        "onboard_time": 1722417763,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281866,
+        "num": 783639,
+        "word": "十个勤天 鹿晗光荣之路",
+        "onboard_time": 1722423689,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 782814,
+        "num": 782814,
+        "word": "全红婵狂亲金牌",
+        "onboard_time": 1722422674,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 705745,
+        "num": 705745,
+        "word": "张怡宁副拍",
+        "onboard_time": 1722428847,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 687948,
+        "num": 687948,
+        "word": "全红婵陈芋汐金牌",
+        "onboard_time": 1722419323,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281834,
+        "num": 685717,
+        "word": "张雨绮都有俩孩子了",
+        "onboard_time": 1722404240,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261239,
+        "num": 679457,
+        "word": "Jennie秀智一起去看试映会",
+        "onboard_time": 1722432325,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235123,
+        "num": 669523,
+        "word": "金龟子 做一个普通人就很了不起了",
+        "onboard_time": 1722437848,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203906,
+        "num": 661675,
+        "word": "女人哪个阶段都正当时",
+        "onboard_time": 1722439286,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195222,
+        "num": 661104,
+        "word": "唐诡樱桃上大分",
+        "onboard_time": 1722434126,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185591,
+        "num": 648606,
+        "word": "黄一鸣说还会嫁人",
+        "onboard_time": 1722430706,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#开创国防和军队现代化新局面#"
+    }
+  }
+}
