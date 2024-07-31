@@ -1,6 +1,6 @@
 {
   "startTime": 1722097426384,
-  "endTime": 1722382561352,
+  "endTime": 1722388220590,
   "band_list": [
     {
       "raw_hot": 26081799,
@@ -619,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2619425,
+      "num": 1367273,
+      "word": "孙颖莎蹲下让刘国梁入镜",
+      "onboard_time": 1722381379,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2569502,
       "num": 2569502,
       "word": "混双收视率破8",
@@ -795,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2206188,
+      "num": 2206188,
+      "word": "王楚钦采访名场面又来了",
+      "onboard_time": 1722378495,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2206063,
       "num": 2206063,
       "word": "朝鲜混双有点东西",
@@ -915,6 +931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2037179,
+      "num": 1361097,
+      "word": "孙颖莎演我看到熟人穿正装",
+      "onboard_time": 1722382461,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2034470,
       "num": 902283,
       "word": "陈一冰 半场开香槟",
@@ -975,6 +999,14 @@
       "num": 1896195,
       "word": "女子10米气手枪决赛",
       "onboard_time": 1722160641,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1891771,
+      "num": 1380759,
+      "word": "韩网评中朝韩选手合照",
+      "onboard_time": 1722385823,
       "rank": 3,
       "category": "体育"
     },
@@ -1371,6 +1403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1420323,
+      "num": 1420323,
+      "word": "莎莎感谢大头",
+      "onboard_time": 1722368594,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1415008,
       "num": 1415008,
       "word": "潘展乐惊险晋级",
@@ -1417,6 +1457,14 @@
       "onboard_time": 1722213922,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1372517,
+      "num": 1372517,
+      "word": "朝鲜教练是巴黎世乒赛混双冠军",
+      "onboard_time": 1722376815,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 1372307,
@@ -1531,6 +1579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1312349,
+      "num": 1312349,
+      "word": "孙颖莎 就这么水灵灵地说出来了",
+      "onboard_time": 1722385044,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1311334,
       "num": 4472136,
       "word": "唐艺昕第一次看张若昀新片一直哭",
@@ -1628,7 +1684,7 @@
     },
     {
       "raw_hot": 1256428,
-      "num": 1256428,
+      "num": 1350602,
       "word": "QQ糖分手",
       "onboard_time": 1722357622,
       "rank": 46,
@@ -1643,19 +1699,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1245932,
+      "num": 868071,
+      "word": "周五请假了工位变成这样了",
+      "onboard_time": 1722385945,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1245867,
       "num": 1245867,
       "word": "张雨霏说场馆不适合中国宝宝体质",
       "onboard_time": 1722126139,
       "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1241957,
-      "num": 838752,
-      "word": "朝鲜教练是巴黎世乒赛混双冠军",
-      "onboard_time": 1722376815,
-      "rank": 40,
       "category": "体育"
     },
     {
@@ -1971,6 +2027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1093001,
+      "num": 892340,
+      "word": "08体操女团",
+      "onboard_time": 1722384144,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1089493,
       "num": 800673,
       "word": "韩国混双好猛",
@@ -2155,6 +2219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 970002,
+      "num": 970002,
+      "word": "况盛 三三",
+      "onboard_time": 1722387143,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 965671,
       "num": 734543,
       "word": "中国队冲击体操男团金牌",
@@ -2249,14 +2321,6 @@
       "onboard_time": 1722312326,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 920035,
-      "num": 920035,
-      "word": "莎莎感谢大头",
-      "onboard_time": 1722368594,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 919099,
@@ -2585,6 +2649,14 @@
       "onboard_time": 1722208216,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 808308,
+      "num": 808308,
+      "word": "QQ糖 笑老师",
+      "onboard_time": 1722381498,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 801327,
@@ -3403,12 +3475,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 563069,
+      "num": 563069,
+      "word": "上海地铁2号线",
+      "onboard_time": 1722384803,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 559874,
       "num": 559874,
       "word": "巴黎奥运中国军团奖牌时刻",
       "onboard_time": 1722226526,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 558853,
+      "num": 558853,
+      "word": "上海一餐饮店查出65条活蛇",
+      "onboard_time": 1722385284,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 555431,
@@ -3795,6 +3883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 486792,
+      "num": 1340361,
+      "word": "吴尊说中国乒乓太牛了",
+      "onboard_time": 1722383724,
+      "rank": 8,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 484791,
       "num": 460093,
       "word": "中国女篮下一场对阵塞尔维亚",
@@ -4027,6 +4123,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 449554,
+      "num": 449554,
+      "word": "全红婵陈芋汐水花消失术将登场",
+      "onboard_time": 1722385823,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 447753,
       "num": 447753,
       "word": "樊振东巴黎奥运首秀",
@@ -4155,14 +4259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 435219,
-      "num": 435219,
-      "word": "QQ糖 笑老师",
-      "onboard_time": 1722381498,
-      "rank": 21,
-      "category": "网红"
-    },
-    {
       "raw_hot": 434866,
       "num": 2004571,
       "word": "王亚飞给鞠婧祎画的眼妆",
@@ -4280,6 +4376,14 @@
       "word": "多地大暴雨来袭",
       "onboard_time": 1722300323,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 426829,
+      "num": 426829,
+      "word": "美国4岁女童吃汉堡王吃出人血",
+      "onboard_time": 1722386784,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -4553,6 +4657,14 @@
       "onboard_time": 1722315443,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 395678,
+      "num": 395678,
+      "word": "混双决赛前邓亚萍为啥敲三下木棍",
+      "onboard_time": 1722385404,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 395667,
@@ -5067,6 +5179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 351252,
+      "num": 351252,
+      "word": "日本男篮 灌篮高手",
+      "onboard_time": 1722383663,
+      "rank": 38,
+      "category": "体育,动漫"
+    },
+    {
       "raw_hot": 351232,
       "num": 351232,
       "word": "日本夺冠大热出局后拒绝握手",
@@ -5379,12 +5499,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 332938,
+      "num": 881908,
+      "word": "杨旭文 你们敢说我不敢念啊",
+      "onboard_time": 1722367934,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 332869,
+      "num": 332869,
+      "word": "乒乓球比赛有用副板的先例吗",
+      "onboard_time": 1722383001,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 332581,
       "num": 332581,
       "word": "王楚钦孙颖莎与肖战拥抱",
       "onboard_time": 1722353429,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 331752,
+      "num": 331752,
+      "word": "盛李豪父亲回应干饭哥昵称",
+      "onboard_time": 1722367633,
+      "rank": 30,
+      "category": "体育,综艺"
     },
     {
       "raw_hot": 331212,
@@ -5659,14 +5803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 313997,
-      "num": 313997,
-      "word": "孙颖莎蹲下让刘国梁入镜",
-      "onboard_time": 1722381379,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 313029,
       "num": 313029,
       "word": "天津离巴黎就差一个奥运会",
@@ -5688,6 +5824,14 @@
       "word": "黄雨婷解释阿条本条名字由来",
       "onboard_time": 1722302244,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 312626,
+      "num": 312626,
+      "word": "覃海洋说与泳池深浅无关",
+      "onboard_time": 1722383363,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -6228,7 +6372,7 @@
     },
     {
       "raw_hot": 284262,
-      "num": 488927,
+      "num": 563978,
       "word": "谢娜说莎头夺冠太不容易",
       "onboard_time": 1722360796,
       "rank": 48,
@@ -6971,6 +7115,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 248314,
+      "num": 248314,
+      "word": "金星疑现生命迹象",
+      "onboard_time": 1722388164,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247977,
+      "num": 247977,
+      "word": "孙颖莎打出神仙球国乒全体起立",
+      "onboard_time": 1722387744,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246940,
       "num": 246940,
       "word": "李微微被查",
@@ -7144,6 +7304,14 @@
       "word": "覃海洋说后50米游得很乱",
       "onboard_time": 1722208216,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 239406,
+      "num": 239406,
+      "word": "愿王楚钦用福拍圆梦巴黎",
+      "onboard_time": 1722388104,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -7859,6 +8027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206397,
+      "num": 874958,
+      "word": "娜扎 你这不搞事情吗",
+      "onboard_time": 1722358759,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206366,
       "num": 206366,
       "word": "李昊献唱四海重明OST",
@@ -8067,6 +8243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 200234,
+      "num": 563356,
+      "word": "陈昊宇陈丽君乘船亮相白蛇首映",
+      "onboard_time": 1722385463,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 199906,
       "num": 199906,
       "word": "自由操",
@@ -8080,14 +8264,6 @@
       "word": "黄雨婷还在读高二",
       "onboard_time": 1722134482,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 199387,
-      "num": 199387,
-      "word": "王楚钦采访名场面又来了",
-      "onboard_time": 1722378495,
-      "rank": 46,
       "category": "体育"
     },
     {
@@ -8731,14 +8907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 159621,
-      "num": 199257,
-      "word": "盛李豪父亲回应干饭哥昵称",
-      "onboard_time": 1722367633,
-      "rank": 30,
-      "category": "体育,综艺"
-    },
-    {
       "raw_hot": 158968,
       "num": 158968,
       "word": "中国女子重剑队无缘奥运决赛",
@@ -8785,14 +8953,6 @@
       "onboard_time": 1722250825,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153103,
-      "num": 404599,
-      "word": "娜扎 你这不搞事情吗",
-      "onboard_time": 1722358759,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 152474,
@@ -8897,14 +9057,6 @@
       "onboard_time": 1722204373,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 145821,
-      "num": 477347,
-      "word": "杨旭文 你们敢说我不敢念啊",
-      "onboard_time": 1722367934,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 145230,
@@ -9017,14 +9169,6 @@
       "onboard_time": 1722352115,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 136126,
-      "num": 199117,
-      "word": "孙颖莎演我看到熟人穿正装",
-      "onboard_time": 1722382461,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 135958,
@@ -9385,6 +9529,14 @@
       "onboard_time": 1722310703,
       "rank": 10,
       "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 93038,
+      "num": 1336271,
+      "word": "福宝吹笛子式吃竹子",
+      "onboard_time": 1722386424,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 92272,
@@ -10403,6 +10555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 26461,
+      "num": 899513,
+      "word": "伊利为莎头真走心",
+      "onboard_time": 1722386004,
+      "rank": 15,
+      "category": "体育,美食"
+    },
+    {
       "raw_hot": 23840,
       "num": 74196,
       "word": "我们的歌",
@@ -10417,6 +10577,14 @@
       "onboard_time": 1722104954,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23580,
+      "num": 3817712,
+      "word": "暴雨天气9个安全提醒",
+      "onboard_time": 1722342987,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22577,
@@ -10513,14 +10681,6 @@
       "onboard_time": 1722322821,
       "rank": 14,
       "category": "财经"
-    },
-    {
-      "raw_hot": 13432,
-      "num": 3817712,
-      "word": "暴雨天气9个安全提醒",
-      "onboard_time": 1722342987,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13230,
