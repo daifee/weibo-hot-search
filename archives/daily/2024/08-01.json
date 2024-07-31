@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1722465350670,
+  "endTime": 1722467956390,
   "band_list": [
     {
       "raw_hot": 15653750,
@@ -16,6 +16,14 @@
       "word": "王楚钦爆冷出局",
       "onboard_time": 1722416335,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 7530801,
+      "num": 7530801,
+      "word": "潘展乐100自由泳金牌",
+      "onboard_time": 1722458893,
+      "rank": 0,
       "category": "体育"
     },
     {
@@ -59,14 +67,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 4201477,
-      "num": 4201477,
-      "word": "潘展乐100自由泳金牌",
-      "onboard_time": 1722458893,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
       "raw_hot": 3892416,
       "num": 3892416,
       "word": "张博恒自由操13.233分",
@@ -80,6 +80,14 @@
       "word": "体操 日本申诉",
       "onboard_time": 1722447439,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3449779,
+      "num": 3449779,
+      "word": "孙颖莎连追6分",
+      "onboard_time": 1722453914,
+      "rank": 20,
       "category": "体育"
     },
     {
@@ -99,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2563238,
+      "num": 2563238,
+      "word": "潘展乐说美国人有点看不起我们",
+      "onboard_time": 1722459673,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2516806,
       "num": 1137705,
       "word": "马琳 暂停",
@@ -107,27 +123,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2418965,
-      "num": 2418965,
-      "word": "潘展乐说美国人有点看不起我们",
-      "onboard_time": 1722459673,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 2387678,
       "num": 2387678,
       "word": "潘展乐破世界纪录",
       "onboard_time": 1722459013,
       "rank": 3,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1831322,
-      "num": 1831322,
-      "word": "孙颖莎连追6分",
-      "onboard_time": 1722453914,
-      "rank": 20,
       "category": "体育"
     },
     {
@@ -160,6 +160,14 @@
       "word": "刘国正说王楚钦心态出了问题",
       "onboard_time": 1722435387,
       "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1640737,
+      "num": 1640737,
+      "word": "张雨霏发烧",
+      "onboard_time": 1722456373,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -203,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1346844,
+      "num": 1346844,
+      "word": "潘展乐 比孙杨快就够了",
+      "onboard_time": 1722462133,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1337043,
       "num": 1084151,
       "word": "王楚钦这一课真的太痛了",
@@ -227,6 +243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1221767,
+      "num": 816492,
+      "word": "樊振东火速进8强",
+      "onboard_time": 1722458834,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1162316,
       "num": 1162316,
       "word": "潘展乐 世界飞鱼",
@@ -236,7 +260,7 @@
     },
     {
       "raw_hot": 1046064,
-      "num": 1156002,
+      "num": 1356592,
       "word": "八一建军节",
       "onboard_time": 1722444146,
       "rank": 46,
@@ -315,30 +339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 903041,
-      "num": 903041,
-      "word": "张雨霏发烧",
-      "onboard_time": 1722456373,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 836584,
-      "num": 836584,
-      "word": "潘展乐 比孙杨快就够了",
-      "onboard_time": 1722462133,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 816492,
-      "num": 816492,
-      "word": "樊振东火速进8强",
-      "onboard_time": 1722458834,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 790488,
       "num": 585044,
       "word": "邓雅文是肖战粉丝",
@@ -368,6 +368,14 @@
       "word": "世界第一 世界唯一",
       "onboard_time": 1722440965,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 744908,
+      "num": 568320,
+      "word": "游泳解说 咆哮",
+      "onboard_time": 1722461412,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -403,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 670578,
+      "num": 1124798,
+      "word": "文旅局回应女子在景区被闺蜜按在水里",
+      "onboard_time": 1722440545,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 666917,
       "num": 565133,
       "word": "全红婵罕见的炸鱼名场面",
@@ -417,14 +433,6 @@
       "onboard_time": 1722447739,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 595366,
-      "num": 1124798,
-      "word": "文旅局回应女子在景区被闺蜜按在水里",
-      "onboard_time": 1722440545,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 587464,
@@ -443,19 +451,19 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 576309,
-      "num": 268738,
-      "word": "游泳解说 咆哮",
-      "onboard_time": 1722461412,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 576195,
       "num": 234355,
       "word": "潘展乐",
       "onboard_time": 1722459613,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 551707,
+      "num": 551707,
+      "word": "查尔莫斯",
+      "onboard_time": 1722464055,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -468,7 +476,7 @@
     },
     {
       "raw_hot": 500336,
-      "num": 233099,
+      "num": 334427,
       "word": "张本智和吵死了",
       "onboard_time": 1722456073,
       "rank": 22,
@@ -571,11 +579,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 393987,
+      "num": 393987,
+      "word": "杨威杨云你们当裁判",
+      "onboard_time": 1722457692,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 368351,
       "num": 368351,
       "word": "美国女排vs塞尔维亚女排",
       "onboard_time": 1722445944,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 366507,
+      "num": 366507,
+      "word": "潘展乐19岁拿大满贯",
+      "onboard_time": 1722466037,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -739,27 +763,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200603,
-      "num": 200603,
-      "word": "杨威杨云你们当裁判",
-      "onboard_time": 1722457692,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 198887,
       "num": 198887,
       "word": "中国游泳队巴黎首金",
       "onboard_time": 1722459793,
       "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 191824,
-      "num": 166176,
-      "word": "查尔莫斯",
-      "onboard_time": 1722464055,
-      "rank": 38,
       "category": "体育"
     },
     {
@@ -780,7 +788,7 @@
     },
     {
       "raw_hot": 182904,
-      "num": 318548,
+      "num": 412792,
       "word": "夏克立被曝婚内骚扰保姆",
       "onboard_time": 1722431667,
       "rank": 47,
@@ -843,6 +851,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148791,
+      "num": 627111,
+      "word": "况盛背着前女友上传视频",
+      "onboard_time": 1722448638,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 143324,
+      "num": 408669,
+      "word": "中国军人站在那里就是安心",
+      "onboard_time": 1722467600,
+      "rank": 33,
+      "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 139538,
+      "num": 612437,
+      "word": "杨紫高定花裙",
+      "onboard_time": 1722462613,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 139398,
       "num": 420247,
       "word": "伊朗最高领袖称将为哈尼亚复仇",
@@ -867,12 +899,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 109617,
-      "num": 573789,
-      "word": "况盛背着前女友上传视频",
-      "onboard_time": 1722448638,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 115054,
+      "num": 487989,
+      "word": "短短60秒比我一天干的事儿都多",
+      "onboard_time": 1722460633,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 109224,
@@ -923,12 +955,12 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 66402,
-      "num": 211618,
-      "word": "短短60秒比我一天干的事儿都多",
-      "onboard_time": 1722460633,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 66103,
+      "num": 300575,
+      "word": "头一次见恋综告白是告白所有人",
+      "onboard_time": 1722466941,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 62798,
@@ -939,12 +971,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 54816,
-      "num": 137112,
-      "word": "杨紫高定花裙",
-      "onboard_time": 1722462613,
-      "rank": 46,
-      "category": "作品衍生,时尚"
+      "raw_hot": 54782,
+      "num": 299011,
+      "word": "杨旭文去打架吧跳舞我自有人选",
+      "onboard_time": 1722456313,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 42403,
@@ -961,14 +993,6 @@
       "onboard_time": 1722453973,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 35129,
-      "num": 140314,
-      "word": "杨旭文去打架吧跳舞我自有人选",
-      "onboard_time": 1722456313,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 28392,

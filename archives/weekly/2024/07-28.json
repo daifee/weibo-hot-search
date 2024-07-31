@@ -1,6 +1,6 @@
 {
   "startTime": 1722097426384,
-  "endTime": 1722465350670,
+  "endTime": 1722467956390,
   "band_list": [
     {
       "raw_hot": 33113456,
@@ -347,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 7530801,
+      "num": 7530801,
+      "word": "潘展乐100自由泳金牌",
+      "onboard_time": 1722458893,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 7487333,
       "num": 7487333,
       "word": "中国女篮vs西班牙女篮",
@@ -595,14 +603,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 4201477,
-      "num": 4201477,
-      "word": "潘展乐100自由泳金牌",
-      "onboard_time": 1722458893,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
       "raw_hot": 4200704,
       "num": 4200704,
       "word": "朝鲜混双进决赛了",
@@ -752,6 +752,14 @@
       "word": "男子10米气手枪决赛",
       "onboard_time": 1722151999,
       "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3449779,
+      "num": 3449779,
+      "word": "孙颖莎连追6分",
+      "onboard_time": 1722453914,
+      "rank": 20,
       "category": "体育"
     },
     {
@@ -1003,6 +1011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2563238,
+      "num": 2563238,
+      "word": "潘展乐说美国人有点看不起我们",
+      "onboard_time": 1722459673,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2562076,
       "num": 2562076,
       "word": "王楚钦稳住",
@@ -1088,14 +1104,6 @@
       "word": "体操女团 跳马",
       "onboard_time": 1722363554,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2418965,
-      "num": 2418965,
-      "word": "潘展乐说美国人有点看不起我们",
-      "onboard_time": 1722459673,
-      "rank": 1,
       "category": "体育"
     },
     {
@@ -1603,14 +1611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1831322,
-      "num": 1831322,
-      "word": "孙颖莎连追6分",
-      "onboard_time": 1722453914,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1825107,
       "num": 1825107,
       "word": "男子射箭中国队无缘决赛",
@@ -1824,6 +1824,14 @@
       "word": "莫雷加德黄牌",
       "onboard_time": 1722416570,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1640737,
+      "num": 1640737,
+      "word": "张雨霏发烧",
+      "onboard_time": 1722456373,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -2267,6 +2275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1346844,
+      "num": 1346844,
+      "word": "潘展乐 比孙杨快就够了",
+      "onboard_time": 1722462133,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1345496,
       "num": 1345496,
       "word": "王昶 这LV的凳子啊",
@@ -2608,6 +2624,14 @@
       "word": "张博恒快碎了",
       "onboard_time": 1722299605,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1221767,
+      "num": 816492,
+      "word": "樊振东火速进8强",
+      "onboard_time": 1722458834,
+      "rank": 15,
       "category": "体育"
     },
     {
@@ -3028,7 +3052,7 @@
     },
     {
       "raw_hot": 1046064,
-      "num": 1156002,
+      "num": 1356592,
       "word": "八一建军节",
       "onboard_time": 1722444146,
       "rank": 46,
@@ -3403,14 +3427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 903041,
-      "num": 903041,
-      "word": "张雨霏发烧",
-      "onboard_time": 1722456373,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 902259,
       "num": 902259,
       "word": "中国女排2比0美国女排",
@@ -3611,14 +3627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 836584,
-      "num": 836584,
-      "word": "潘展乐 比孙杨快就够了",
-      "onboard_time": 1722462133,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 834927,
       "num": 834927,
       "word": "郭晶晶裁判长好飒",
@@ -3696,14 +3704,6 @@
       "word": "王楚钦孙颖莎采访",
       "onboard_time": 1722273620,
       "rank": 22,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 816492,
-      "num": 816492,
-      "word": "樊振东火速进8强",
-      "onboard_time": 1722458834,
-      "rank": 15,
       "category": "体育"
     },
     {
@@ -3936,6 +3936,14 @@
       "word": "牛广盛弃权",
       "onboard_time": 1722331523,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 744908,
+      "num": 568320,
+      "word": "游泳解说 咆哮",
+      "onboard_time": 1722461412,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -4193,6 +4201,14 @@
       "onboard_time": 1722317543,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 670578,
+      "num": 1124798,
+      "word": "文旅局回应女子在景区被闺蜜按在水里",
+      "onboard_time": 1722440545,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 668706,
@@ -4579,14 +4595,6 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 595366,
-      "num": 1124798,
-      "word": "文旅局回应女子在景区被闺蜜按在水里",
-      "onboard_time": 1722440545,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 594072,
       "num": 594072,
       "word": "管泽元解说气步枪决赛",
@@ -4696,14 +4704,6 @@
       "word": "王楚钦孙颖莎互相说感谢",
       "onboard_time": 1722354329,
       "rank": 26,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 576309,
-      "num": 268738,
-      "word": "游泳解说 咆哮",
-      "onboard_time": 1722461412,
-      "rank": 23,
       "category": "体育"
     },
     {
@@ -4857,6 +4857,14 @@
       "onboard_time": 1722321922,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 551707,
+      "num": 551707,
+      "word": "查尔莫斯",
+      "onboard_time": 1722464055,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 549276,
@@ -5212,7 +5220,7 @@
     },
     {
       "raw_hot": 500336,
-      "num": 233099,
+      "num": 334427,
       "word": "张本智和吵死了",
       "onboard_time": 1722456073,
       "rank": 22,
@@ -6379,6 +6387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 393987,
+      "num": 393987,
+      "word": "杨威杨云你们当裁判",
+      "onboard_time": 1722457692,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 392189,
       "num": 416790,
       "word": "孙颖莎启蒙教练独家爆料",
@@ -6744,6 +6760,14 @@
       "word": "起来练球",
       "onboard_time": 1722356542,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 366507,
+      "num": 366507,
+      "word": "潘展乐19岁拿大满贯",
+      "onboard_time": 1722466037,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -10411,14 +10435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200603,
-      "num": 200603,
-      "word": "杨威杨云你们当裁判",
-      "onboard_time": 1722457692,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 200348,
       "num": 521529,
       "word": "白蛇",
@@ -10649,14 +10665,6 @@
       "onboard_time": 1722241404,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 191824,
-      "num": 166176,
-      "word": "查尔莫斯",
-      "onboard_time": 1722464055,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 191601,
@@ -11355,6 +11363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148791,
+      "num": 627111,
+      "word": "况盛背着前女友上传视频",
+      "onboard_time": 1722448638,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147465,
       "num": 198850,
       "word": "羽毛球小组赛",
@@ -11419,6 +11435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143324,
+      "num": 408669,
+      "word": "中国军人站在那里就是安心",
+      "onboard_time": 1722467600,
+      "rank": 33,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 143202,
       "num": 209789,
       "word": "中国女排",
@@ -11473,6 +11497,14 @@
       "onboard_time": 1722165080,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139538,
+      "num": 612437,
+      "word": "杨紫高定花裙",
+      "onboard_time": 1722462613,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 139398,
@@ -11747,6 +11779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115054,
+      "num": 487989,
+      "word": "短短60秒比我一天干的事儿都多",
+      "onboard_time": 1722460633,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114581,
       "num": 114581,
       "word": "张雨霏56秒15晋级决赛",
@@ -11793,14 +11833,6 @@
       "onboard_time": 1722105913,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 109617,
-      "num": 573789,
-      "word": "况盛背着前女友上传视频",
-      "onboard_time": 1722448638,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 109224,
@@ -12467,20 +12499,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 66402,
-      "num": 211618,
-      "word": "短短60秒比我一天干的事儿都多",
-      "onboard_time": 1722460633,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 66209,
       "num": 66209,
       "word": "覃海洋100蛙冲金",
       "onboard_time": 1722110052,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66103,
+      "num": 300575,
+      "word": "头一次见恋综告白是告白所有人",
+      "onboard_time": 1722466941,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 64807,
@@ -12731,12 +12763,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54816,
-      "num": 137112,
-      "word": "杨紫高定花裙",
-      "onboard_time": 1722462613,
-      "rank": 46,
-      "category": "作品衍生,时尚"
+      "raw_hot": 54782,
+      "num": 299011,
+      "word": "杨旭文去打架吧跳舞我自有人选",
+      "onboard_time": 1722456313,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 53744,
@@ -13065,14 +13097,6 @@
       "onboard_time": 1722321742,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 35129,
-      "num": 140314,
-      "word": "杨旭文去打架吧跳舞我自有人选",
-      "onboard_time": 1722456313,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 35000,
