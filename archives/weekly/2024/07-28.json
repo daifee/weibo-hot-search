@@ -1,6 +1,6 @@
 {
   "startTime": 1722097426384,
-  "endTime": 1722468960869,
+  "endTime": 1722476250327,
   "band_list": [
     {
       "raw_hot": 33113456,
@@ -328,6 +328,14 @@
       "word": "中国女排vs美国女排",
       "onboard_time": 1722264144,
       "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 7936783,
+      "num": 7936783,
+      "word": "潘展乐和查尔莫斯打招呼遭无视",
+      "onboard_time": 1722468744,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -1115,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2417172,
+      "num": 2417172,
+      "word": "潘展乐 比孙杨快就够了",
+      "onboard_time": 1722462133,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2410154,
       "num": 2410154,
       "word": "全红婵像迪士尼门口卖假货的",
@@ -1531,6 +1547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1944162,
+      "num": 1654033,
+      "word": "张怡宁说用备用板像是用假肢打球",
+      "onboard_time": 1722468264,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1931010,
       "num": 1931010,
       "word": "乒乓球混双颁奖",
@@ -1747,6 +1771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1692722,
+      "num": 1692722,
+      "word": "黄子韬终于有实绩了",
+      "onboard_time": 1722469646,
+      "rank": 7,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 1692675,
       "num": 1692675,
       "word": "桥本大辉鞍马失误",
@@ -1785,6 +1817,14 @@
       "onboard_time": 1722456373,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1676996,
+      "num": 1676996,
+      "word": "八一建军节",
+      "onboard_time": 1722444146,
+      "rank": 46,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 1672178,
@@ -2115,14 +2155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1436455,
-      "num": 1436455,
-      "word": "潘展乐 比孙杨快就够了",
-      "onboard_time": 1722462133,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1436243,
       "num": 1436243,
       "word": "男子射箭中国队晋级半决赛",
@@ -2320,6 +2352,14 @@
       "word": "张博恒",
       "onboard_time": 1722271345,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1336988,
+      "num": 564544,
+      "word": "潘展乐回应预赛垫底",
+      "onboard_time": 1722470005,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -3051,14 +3091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1046064,
-      "num": 1356592,
-      "word": "八一建军节",
-      "onboard_time": 1722444146,
-      "rank": 46,
-      "category": "社会新闻,军事"
-    },
-    {
       "raw_hot": 1045454,
       "num": 2193318,
       "word": "黄雨婷想去看十个勤天演唱会",
@@ -3275,12 +3307,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 950010,
+      "num": 523169,
+      "word": "对手相信潘展乐是清白的",
+      "onboard_time": 1722475107,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 947990,
       "num": 823946,
       "word": "法媒把韩国国旗认成百事",
       "onboard_time": 1722142581,
       "rank": 30,
       "category": "体育,国外时政"
+    },
+    {
+      "raw_hot": 943382,
+      "num": 517164,
+      "word": "潘展乐 这能说吗",
+      "onboard_time": 1722474208,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 943203,
@@ -3409,6 +3457,14 @@
       "onboard_time": 1722316343,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 906528,
+      "num": 496778,
+      "word": "张博恒说我也想赢",
+      "onboard_time": 1722472169,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 905814,
@@ -4019,6 +4075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 727061,
+      "num": 471217,
+      "word": "浙A孙杨 浙B汪顺 浙C潘展乐",
+      "onboard_time": 1722475945,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 725749,
       "num": 606178,
       "word": "拜尔斯跳马跳了男子动作",
@@ -4065,6 +4129,14 @@
       "onboard_time": 1722167541,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 718088,
+      "num": 466335,
+      "word": "樊振东将对阵张本智和",
+      "onboard_time": 1722473488,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 714148,
@@ -4363,6 +4435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 637842,
+      "num": 1677005,
+      "word": "辅警隐瞒精神病史杀害妻子被判死缓",
+      "onboard_time": 1722473547,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 637670,
       "num": 637670,
       "word": "女篮今晚是复仇战也是生死战",
@@ -4401,6 +4481,14 @@
       "onboard_time": 1722334883,
       "rank": 49,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 630016,
+      "num": 324339,
+      "word": "李艾说王楚钦输球就是因为球拍",
+      "onboard_time": 1722475045,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 629914,
@@ -4713,6 +4801,14 @@
       "onboard_time": 1722354329,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 577684,
+      "num": 577684,
+      "word": "在韩剧里听到了中文",
+      "onboard_time": 1722472467,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 576195,
@@ -5515,14 +5611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 471678,
-      "num": 471678,
-      "word": "潘展乐和查尔莫斯打招呼遭无视",
-      "onboard_time": 1722468744,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 471644,
       "num": 1456716,
       "word": "外交部回应哈马斯领导人遭袭身亡",
@@ -6289,6 +6377,14 @@
       "onboard_time": 1722301464,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 401061,
+      "num": 401061,
+      "word": "年纪到了被高中同学盯上了",
+      "onboard_time": 1722469586,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 400714,
@@ -7395,6 +7491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 329580,
+      "num": 329580,
+      "word": "广东肇庆女童攀岩坠亡",
+      "onboard_time": 1722469044,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328987,
       "num": 328987,
       "word": "陈梦4比0洛赫莱比",
@@ -7667,6 +7771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 313375,
+      "num": 551032,
+      "word": "鱿鱼游戏2定档",
+      "onboard_time": 1722473129,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 313029,
       "num": 313029,
       "word": "天津离巴黎就差一个奥运会",
@@ -7873,6 +7985,14 @@
       "onboard_time": 1722067699,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 302571,
+      "num": 302571,
+      "word": "温州网红交警子颜离职",
+      "onboard_time": 1722472587,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302251,
@@ -10843,6 +10963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183543,
+      "num": 572995,
+      "word": "头一次见恋综告白是告白所有人",
+      "onboard_time": 1722466941,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181645,
       "num": 791493,
       "word": "宋亚轩刘耀文新歌合唱",
@@ -11067,6 +11195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173589,
+      "num": 816132,
+      "word": "潘展乐中国游泳真大腿",
+      "onboard_time": 1722471807,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173437,
       "num": 173437,
       "word": "孙颖莎逆转",
@@ -11195,6 +11331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163507,
+      "num": 298992,
+      "word": "哈马斯一领导人披露哈尼亚遇袭细节",
+      "onboard_time": 1722474505,
+      "rank": 46,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 163417,
       "num": 163417,
       "word": "潘展乐状态",
@@ -11225,6 +11369,14 @@
       "onboard_time": 1722150440,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 161723,
+      "num": 343248,
+      "word": "八月文案",
+      "onboard_time": 1722468923,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 161706,
@@ -11299,12 +11451,12 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 154911,
-      "num": 572995,
-      "word": "头一次见恋综告白是告白所有人",
-      "onboard_time": 1722466941,
-      "rank": 47,
-      "category": "综艺"
+      "raw_hot": 154433,
+      "num": 293174,
+      "word": "英雄联盟维护",
+      "onboard_time": 1722476125,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 154023,
@@ -11673,14 +11825,6 @@
       "onboard_time": 1722261623,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 126674,
-      "num": 343248,
-      "word": "八月文案",
-      "onboard_time": 1722468923,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 125693,
