@@ -1,0 +1,410 @@
+{
+  "runTime": 1722516799273,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12187157,
+        "num": 12187157,
+        "word": "郑钦文晋级奥运会决赛",
+        "onboard_time": 1722513872,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3142382,
+        "num": 3142382,
+        "word": "梁王组合进四强",
+        "onboard_time": 1722513934,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12559,
+        "num": 2668066,
+        "word": "致敬中国人民解放军建军97周年",
+        "onboard_time": 1722499222,
+        "rank": 2,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 2445736,
+        "num": 2445736,
+        "word": "郑钦文体力",
+        "onboard_time": 1722512606,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2226269,
+        "num": 2226269,
+        "word": "美国教练说中国人练100米自由泳没前途",
+        "onboard_time": 1722507745,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2062765,
+        "num": 2062765,
+        "word": "郑钦文vs斯瓦泰克",
+        "onboard_time": 1722506844,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 511690,
+        "num": 1952118,
+        "word": "惠英红喊全红婵红姐",
+        "onboard_time": 1722506485,
+        "rank": 6,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 440557,
+        "num": 1910145,
+        "word": "歌手巅峰之夜歌单",
+        "onboard_time": 1722516267,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140499,
+        "num": 1905645,
+        "word": "苏州工业园区陷串标疑云",
+        "onboard_time": 1722511465,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1904018,
+        "num": 1904018,
+        "word": "李娜纪录",
+        "onboard_time": 1722515666,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5725725,
+        "num": 1885471,
+        "word": "中国第10金",
+        "onboard_time": 1722501628,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1865910,
+        "num": 1865910,
+        "word": "郑钦文创造了历史",
+        "onboard_time": 1722514352,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1853647,
+        "num": 1853647,
+        "word": "乒乓球女单",
+        "onboard_time": 1722513934,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1322516,
+        "num": 1322516,
+        "word": "50米步枪独守大唐魂",
+        "onboard_time": 1722512785,
+        "rank": 13,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 981761,
+        "num": 1318747,
+        "word": "剑网3恭喜刘宇坤夺金",
+        "onboard_time": 1722514830,
+        "rank": 14,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 1767818,
+        "num": 1285709,
+        "word": "梁王组合vs印尼组合",
+        "onboard_time": 1722511046,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1552702,
+        "num": 1269233,
+        "word": "王昶露腹肌",
+        "onboard_time": 1722514888,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310984,
+        "num": 1265041,
+        "word": "唐诡黄梦莹身份",
+        "onboard_time": 1722509124,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289684,
+        "num": 1241820,
+        "word": "成都偶遇李金铭",
+        "onboard_time": 1722512666,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277430,
+        "num": 1213035,
+        "word": "于正 他们不是情侣是姐弟",
+        "onboard_time": 1722497124,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 927183,
+        "num": 1201800,
+        "word": "天策府有奥运冠军",
+        "onboard_time": 1722513025,
+        "rank": 20,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 1697780,
+        "num": 1178409,
+        "word": "黄子韬喜欢我你无需自卑",
+        "onboard_time": 1722508045,
+        "rank": 21,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 1337789,
+        "num": 1171182,
+        "word": "王皓 起来练球",
+        "onboard_time": 1722507564,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1156558,
+        "num": 1156558,
+        "word": "梁王 丝滑拜年",
+        "onboard_time": 1722515128,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1146027,
+        "num": 1146027,
+        "word": "王楚钦爆冷出局",
+        "onboard_time": 1722416335,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1145622,
+        "num": 1145622,
+        "word": "申裕斌vs平野美宇",
+        "onboard_time": 1722509124,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1065635,
+        "num": 1065635,
+        "word": "张之臻王欣瑜冲击混双决赛",
+        "onboard_time": 1722516267,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 999803,
+        "num": 999803,
+        "word": "潘展乐 19岁正是爱告状的年纪",
+        "onboard_time": 1722504269,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243073,
+        "num": 828910,
+        "word": "易烊千玺粉丝睡前cctv5醒来cctv7",
+        "onboard_time": 1722508646,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193540,
+        "num": 820649,
+        "word": "芒果给尤长靖写的文案",
+        "onboard_time": 1722512365,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 819120,
+        "num": 819120,
+        "word": "刘宇坤 天策jjc33",
+        "onboard_time": 1722513325,
+        "rank": 30,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 1642099,
+        "num": 814603,
+        "word": "王楚钦球拍被踩事件正在调查",
+        "onboard_time": 1722485967,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 790174,
+        "num": 790174,
+        "word": "王昶梁伟铿 辣椒求雨",
+        "onboard_time": 1722511707,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 740806,
+        "num": 740806,
+        "word": "梁王又在诶哦",
+        "onboard_time": 1722513629,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 661326,
+        "num": 739152,
+        "word": "有的天策在巴陵 有的天策在巴黎",
+        "onboard_time": 1722514054,
+        "rank": 34,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 737649,
+        "num": 737649,
+        "word": "张博恒一天没吃东西只吃了止痛药",
+        "onboard_time": 1722508406,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 704993,
+        "num": 704993,
+        "word": "张本智和去法国后都变松弛了",
+        "onboard_time": 1722514292,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 684236,
+        "num": 684236,
+        "word": "陈梦vs波尔卡诺娃",
+        "onboard_time": 1722499283,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 660872,
+        "num": 660872,
+        "word": "全红婵家人婉拒他人送钱送房",
+        "onboard_time": 1722506426,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 619863,
+        "num": 619863,
+        "word": "陈梦打了个11比0",
+        "onboard_time": 1722501327,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 608227,
+        "num": 608227,
+        "word": "刘宇坤50米步枪三姿金牌",
+        "onboard_time": 1722500787,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 597212,
+        "num": 597212,
+        "word": "马龙预言",
+        "onboard_time": 1722507384,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 555553,
+        "num": 555553,
+        "word": "杨家玉 套圈",
+        "onboard_time": 1722502346,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 551394,
+        "num": 551394,
+        "word": "中国第11金",
+        "onboard_time": 1722504149,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 514605,
+        "num": 514605,
+        "word": "申裕斌吃吃喝喝",
+        "onboard_time": 1722511224,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 409840,
+        "num": 409840,
+        "word": "烟草局招体育特长生需说清必要性",
+        "onboard_time": 1722506305,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335672,
+        "num": 409830,
+        "word": "女子腰痛拖了4天差点丢掉性命",
+        "onboard_time": 1722515428,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310904,
+        "num": 409443,
+        "word": "鹿晗与发小出门吃饭",
+        "onboard_time": 1722508646,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300068,
+        "num": 409066,
+        "word": "湖南资兴暴雨30人遇难35人失踪",
+        "onboard_time": 1722510444,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168356,
+        "num": 408670,
+        "word": "罗夏恩离开SM",
+        "onboard_time": 1722508466,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设强大稳固的现代边海空防#"
+    }
+  }
+}
