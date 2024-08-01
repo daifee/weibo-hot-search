@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1722554421073,
+  "endTime": 1722555289403,
   "band_list": [
     {
       "raw_hot": 37515871,
@@ -131,6 +131,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 7242675,
+      "num": 7242675,
+      "word": "张本智和发文",
+      "onboard_time": 1722538755,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 6593846,
+      "num": 3414919,
+      "word": "王楚钦给樊振东竖大拇指",
+      "onboard_time": 1722542892,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 6556479,
       "num": 6556479,
       "word": "张博恒全能银牌",
@@ -147,11 +163,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 6497199,
-      "num": 3414919,
-      "word": "王楚钦给樊振东竖大拇指",
-      "onboard_time": 1722542892,
-      "rank": 22,
+      "raw_hot": 6478670,
+      "num": 6478670,
+      "word": "樊振东下一把得来个十环",
+      "onboard_time": 1722534018,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -171,14 +187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 6028477,
-      "num": 6028477,
-      "word": "张本智和发文",
-      "onboard_time": 1722538755,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 5934260,
       "num": 3065083,
       "word": "樊振东回应王楚钦出局",
@@ -192,14 +200,6 @@
       "word": "陈梦vs伊尔兰德",
       "onboard_time": 1722432987,
       "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 5846325,
-      "num": 5846325,
-      "word": "樊振东下一把得来个十环",
-      "onboard_time": 1722534018,
-      "rank": 8,
       "category": "体育"
     },
     {
@@ -635,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2268970,
+      "num": 2002405,
+      "word": "樊振东眼神",
+      "onboard_time": 1722553461,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2252981,
       "num": 2252981,
       "word": "浙A孙杨 浙B汪顺 浙C潘展乐",
@@ -879,14 +887,6 @@
       "num": 602358,
       "word": "郑钦文追平李娜奥运会最好成绩",
       "onboard_time": 1722440246,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1491473,
-      "num": 411649,
-      "word": "樊振东眼神",
-      "onboard_time": 1722553461,
       "rank": 15,
       "category": "体育"
     },
@@ -1147,8 +1147,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1133635,
-      "num": 391009,
+      "raw_hot": 1137595,
+      "num": 398430,
       "word": "张雨霏病刚好又遇上生理期",
       "onboard_time": 1722540313,
       "rank": 36,
@@ -1156,7 +1156,7 @@
     },
     {
       "raw_hot": 1113661,
-      "num": 387915,
+      "num": 389348,
       "word": "举头望明月 低头思故乡",
       "onboard_time": 1722550874,
       "rank": 24,
@@ -1971,6 +1971,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 512256,
+      "num": 361925,
+      "word": "许昕还是太全面了",
+      "onboard_time": 1722553942,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 507531,
       "num": 379296,
       "word": "孙颖莎王楚钦混双金牌",
@@ -2419,6 +2427,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 376369,
+      "num": 2373327,
+      "word": "中国女排进奥运8强",
+      "onboard_time": 1722553520,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 373365,
       "num": 382361,
       "word": "哈尼亚身亡后以总理首次发声",
@@ -2515,6 +2531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 335543,
+      "num": 335543,
+      "word": "张本智和几乎百分百发挥了自己的实力",
+      "onboard_time": 1722552859,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 334220,
       "num": 334220,
       "word": "公孙离离恨烟水墨皮肤",
@@ -2529,14 +2553,6 @@
       "onboard_time": 1722522388,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 333041,
-      "num": 333041,
-      "word": "许昕还是太全面了",
-      "onboard_time": 1722553942,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 331181,
@@ -2641,6 +2657,14 @@
       "onboard_time": 1722493103,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 306304,
+      "num": 2031100,
+      "word": "蔡徐坤 格莱美",
+      "onboard_time": 1722554664,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 304712,
@@ -3179,6 +3203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175556,
+      "num": 421340,
+      "word": "赵露思和爸爸车上自拍",
+      "onboard_time": 1722554182,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174932,
       "num": 203640,
       "word": "时代少年团更新七月行程图",
@@ -3201,6 +3233,14 @@
       "onboard_time": 1722481045,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 166048,
+      "num": 413497,
+      "word": "宋木子自曝和纪凌尘是竞品",
+      "onboard_time": 1722552378,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 163417,
@@ -3235,19 +3275,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 160819,
+      "num": 482503,
+      "word": "蔡徐坤生日新歌Remedy",
+      "onboard_time": 1722542892,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 160500,
       "num": 160500,
       "word": "潘展乐惊险晋级",
       "onboard_time": 1722333445,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 159385,
-      "num": 2373327,
-      "word": "中国女排进奥运8强",
-      "onboard_time": 1722553520,
-      "rank": 8,
       "category": "体育"
     },
     {
@@ -3321,14 +3361,6 @@
       "onboard_time": 1722444264,
       "rank": 35,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 139098,
-      "num": 482503,
-      "word": "蔡徐坤生日新歌Remedy",
-      "onboard_time": 1722542892,
-      "rank": 13,
-      "category": "音乐"
     },
     {
       "raw_hot": 138993,
@@ -3427,14 +3459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99875,
-      "num": 405557,
-      "word": "宋木子自曝和纪凌尘是竞品",
-      "onboard_time": 1722552378,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 98891,
       "num": 145716,
       "word": "雅思组合进4强",
@@ -3473,14 +3497,6 @@
       "onboard_time": 1722506844,
       "rank": 26,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 89349,
-      "num": 382052,
-      "word": "赵露思和爸爸车上自拍",
-      "onboard_time": 1722554182,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 83706,
@@ -3531,20 +3547,20 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 64722,
+      "num": 570715,
+      "word": "刘诗诗给妮可基德曼送刺绣团扇",
+      "onboard_time": 1722539053,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 62798,
       "num": 292795,
       "word": "到底是谁教亚当这么拍视频的",
       "onboard_time": 1722451815,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 57863,
-      "num": 570715,
-      "word": "刘诗诗给妮可基德曼送刺绣团扇",
-      "onboard_time": 1722539053,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 54934,

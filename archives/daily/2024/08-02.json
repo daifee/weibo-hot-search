@@ -1,6 +1,6 @@
 {
   "startTime": 1722529527252,
-  "endTime": 1722554421073,
+  "endTime": 1722555289403,
   "band_list": [
     {
       "raw_hot": 37515871,
@@ -51,6 +51,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 7242675,
+      "num": 7242675,
+      "word": "张本智和发文",
+      "onboard_time": 1722538755,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 6593846,
+      "num": 3414919,
+      "word": "王楚钦给樊振东竖大拇指",
+      "onboard_time": 1722542892,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 6530460,
       "num": 6530460,
       "word": "张本智和中文交流",
@@ -59,11 +75,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 6497199,
-      "num": 3414919,
-      "word": "王楚钦给樊振东竖大拇指",
-      "onboard_time": 1722542892,
-      "rank": 22,
+      "raw_hot": 6478670,
+      "num": 6478670,
+      "word": "樊振东下一把得来个十环",
+      "onboard_time": 1722534018,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -72,22 +88,6 @@
       "word": "张本智和 擦网",
       "onboard_time": 1722528643,
       "rank": 6,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 6028477,
-      "num": 6028477,
-      "word": "张本智和发文",
-      "onboard_time": 1722538755,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 5846325,
-      "num": 5846325,
-      "word": "樊振东下一把得来个十环",
-      "onboard_time": 1722534018,
-      "rank": 8,
       "category": "体育"
     },
     {
@@ -203,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2268970,
+      "num": 2002405,
+      "word": "樊振东眼神",
+      "onboard_time": 1722553461,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2249835,
       "num": 3526476,
       "word": "孙颖莎进4强",
@@ -275,14 +283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1491473,
-      "num": 411649,
-      "word": "樊振东眼神",
-      "onboard_time": 1722553461,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1474861,
       "num": 612142,
       "word": "张雨霏本届已获3枚奖牌",
@@ -315,6 +315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1137595,
+      "num": 398430,
+      "word": "张雨霏病刚好又遇上生理期",
+      "onboard_time": 1722540313,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1137137,
       "num": 1137137,
       "word": "陈梦vs波尔卡诺娃",
@@ -323,16 +331,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1133635,
-      "num": 391009,
-      "word": "张雨霏病刚好又遇上生理期",
-      "onboard_time": 1722540313,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1113661,
-      "num": 387915,
+      "num": 389348,
       "word": "举头望明月 低头思故乡",
       "onboard_time": 1722550874,
       "rank": 24,
@@ -547,6 +547,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 512256,
+      "num": 361925,
+      "word": "许昕还是太全面了",
+      "onboard_time": 1722553942,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 488326,
       "num": 488326,
       "word": "王楚钦现身训练场",
@@ -635,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 376369,
+      "num": 2373327,
+      "word": "中国女排进奥运8强",
+      "onboard_time": 1722553520,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 365697,
       "num": 365697,
       "word": "龙队换衣大法",
@@ -667,11 +683,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 333041,
-      "num": 333041,
-      "word": "许昕还是太全面了",
-      "onboard_time": 1722553942,
-      "rank": 39,
+      "raw_hot": 335543,
+      "num": 335543,
+      "word": "张本智和几乎百分百发挥了自己的实力",
+      "onboard_time": 1722552859,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -689,6 +705,14 @@
       "onboard_time": 1722540673,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 306304,
+      "num": 2031100,
+      "word": "蔡徐坤 格莱美",
+      "onboard_time": 1722554664,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 302859,
@@ -803,11 +827,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175556,
+      "num": 421340,
+      "word": "赵露思和爸爸车上自拍",
+      "onboard_time": 1722554182,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166631,
       "num": 1686634,
       "word": "你好种地少年",
       "onboard_time": 1722522388,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 166048,
+      "num": 413497,
+      "word": "宋木子自曝和纪凌尘是竞品",
+      "onboard_time": 1722552378,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -827,15 +867,7 @@
       "category": "教育"
     },
     {
-      "raw_hot": 159385,
-      "num": 2373327,
-      "word": "中国女排进奥运8强",
-      "onboard_time": 1722553520,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 139098,
+      "raw_hot": 160819,
       "num": 482503,
       "word": "蔡徐坤生日新歌Remedy",
       "onboard_time": 1722542892,
@@ -867,14 +899,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 99875,
-      "num": 405557,
-      "word": "宋木子自曝和纪凌尘是竞品",
-      "onboard_time": 1722552378,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 92719,
       "num": 944871,
       "word": "严浩翔无袖白T",
@@ -883,15 +907,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 89349,
-      "num": 382052,
-      "word": "赵露思和爸爸车上自拍",
-      "onboard_time": 1722554182,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 57863,
+      "raw_hot": 64722,
       "num": 570715,
       "word": "刘诗诗给妮可基德曼送刺绣团扇",
       "onboard_time": 1722539053,
@@ -915,7 +931,7 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 25262,
+      "raw_hot": 28002,
       "num": 4029258,
       "word": "两极穿越龙江行",
       "onboard_time": 1722518485,

@@ -1,6 +1,6 @@
 {
   "startTime": 1722097426384,
-  "endTime": 1722554421073,
+  "endTime": 1722555289403,
   "band_list": [
     {
       "raw_hot": 37515871,
@@ -475,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 7242675,
+      "num": 7242675,
+      "word": "张本智和发文",
+      "onboard_time": 1722538755,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 7008510,
       "num": 7008510,
       "word": "莎头组合夺金",
@@ -496,6 +504,14 @@
       "word": "中国队男双10米台金牌",
       "onboard_time": 1722247644,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 6593846,
+      "num": 3414919,
+      "word": "王楚钦给樊振东竖大拇指",
+      "onboard_time": 1722542892,
+      "rank": 22,
       "category": "体育"
     },
     {
@@ -547,11 +563,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 6497199,
-      "num": 3414919,
-      "word": "王楚钦给樊振东竖大拇指",
-      "onboard_time": 1722542892,
-      "rank": 22,
+      "raw_hot": 6478670,
+      "num": 6478670,
+      "word": "樊振东下一把得来个十环",
+      "onboard_time": 1722534018,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -587,14 +603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 6028477,
-      "num": 6028477,
-      "word": "张本智和发文",
-      "onboard_time": 1722538755,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 5934260,
       "num": 3065083,
       "word": "樊振东回应王楚钦出局",
@@ -616,14 +624,6 @@
       "word": "黄雨婷银牌",
       "onboard_time": 1722240508,
       "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 5846325,
-      "num": 5846325,
-      "word": "樊振东下一把得来个十环",
-      "onboard_time": 1722534018,
-      "rank": 8,
       "category": "体育"
     },
     {
@@ -1747,6 +1747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2268970,
+      "num": 2002405,
+      "word": "樊振东眼神",
+      "onboard_time": 1722553461,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2254962,
       "num": 2254962,
       "word": "全红婵你就这么亲陈芋汐了",
@@ -2719,14 +2727,6 @@
       "num": 602358,
       "word": "郑钦文追平李娜奥运会最好成绩",
       "onboard_time": 1722440246,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1491473,
-      "num": 411649,
-      "word": "樊振东眼神",
-      "onboard_time": 1722553461,
       "rank": 15,
       "category": "体育"
     },
@@ -3755,6 +3755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1137595,
+      "num": 398430,
+      "word": "张雨霏病刚好又遇上生理期",
+      "onboard_time": 1722540313,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1136436,
       "num": 1950527,
       "word": "夏克立被曝婚内骚扰保姆",
@@ -3769,14 +3777,6 @@
       "onboard_time": 1722177743,
       "rank": 5,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 1133635,
-      "num": 391009,
-      "word": "张雨霏病刚好又遇上生理期",
-      "onboard_time": 1722540313,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 1126167,
@@ -3796,7 +3796,7 @@
     },
     {
       "raw_hot": 1113661,
-      "num": 387915,
+      "num": 389348,
       "word": "举头望明月 低头思故乡",
       "onboard_time": 1722550874,
       "rank": 24,
@@ -6651,6 +6651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 512256,
+      "num": 361925,
+      "word": "许昕还是太全面了",
+      "onboard_time": 1722553942,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 511197,
       "num": 511197,
       "word": "韩林抱的是他的退伍证",
@@ -8435,6 +8443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 376369,
+      "num": 2373327,
+      "word": "中国女排进奥运8强",
+      "onboard_time": 1722553520,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 376327,
       "num": 402024,
       "word": "吴磊 炸毛欧美男高",
@@ -9107,6 +9123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 335543,
+      "num": 335543,
+      "word": "张本智和几乎百分百发挥了自己的实力",
+      "onboard_time": 1722552859,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 335525,
       "num": 276676,
       "word": "巴黎奥运会开幕式蓝精灵致歉",
@@ -9176,14 +9200,6 @@
       "word": "孙颖莎最佳场外应援CoCo",
       "onboard_time": 1722213143,
       "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 333041,
-      "num": 333041,
-      "word": "许昕还是太全面了",
-      "onboard_time": 1722553942,
-      "rank": 39,
       "category": "体育"
     },
     {
@@ -9777,6 +9793,14 @@
       "onboard_time": 1722133103,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306304,
+      "num": 2031100,
+      "word": "蔡徐坤 格莱美",
+      "onboard_time": 1722554664,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 305583,
@@ -13331,6 +13355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175556,
+      "num": 421340,
+      "word": "赵露思和爸爸车上自拍",
+      "onboard_time": 1722554182,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175393,
       "num": 175393,
       "word": "A股",
@@ -13507,6 +13539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166048,
+      "num": 413497,
+      "word": "宋木子自曝和纪凌尘是竞品",
+      "onboard_time": 1722552378,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165339,
       "num": 321102,
       "word": "画皮",
@@ -13579,19 +13619,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160819,
+      "num": 482503,
+      "word": "蔡徐坤生日新歌Remedy",
+      "onboard_time": 1722542892,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 160714,
       "num": 160714,
       "word": "巴黎奥运会司机迷路",
       "onboard_time": 1722151100,
       "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 159385,
-      "num": 2373327,
-      "word": "中国女排进奥运8强",
-      "onboard_time": 1722553520,
-      "rank": 8,
       "category": "体育"
     },
     {
@@ -13921,14 +13961,6 @@
       "onboard_time": 1722444264,
       "rank": 35,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 139098,
-      "num": 482503,
-      "word": "蔡徐坤生日新歌Remedy",
-      "onboard_time": 1722542892,
-      "rank": 13,
-      "category": "音乐"
     },
     {
       "raw_hot": 138993,
@@ -14403,14 +14435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 99875,
-      "num": 405557,
-      "word": "宋木子自曝和纪凌尘是竞品",
-      "onboard_time": 1722552378,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 98891,
       "num": 145716,
       "word": "雅思组合进4强",
@@ -14585,14 +14609,6 @@
       "onboard_time": 1722255023,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 89349,
-      "num": 382052,
-      "word": "赵露思和爸爸车上自拍",
-      "onboard_time": 1722554182,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 88468,
@@ -15059,6 +15075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64722,
+      "num": 570715,
+      "word": "刘诗诗给妮可基德曼送刺绣团扇",
+      "onboard_time": 1722539053,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 64206,
       "num": 1205522,
       "word": "李梦我们需要你",
@@ -15201,14 +15225,6 @@
       "onboard_time": 1722316764,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 57863,
-      "num": 570715,
-      "word": "刘诗诗给妮可基德曼送刺绣团扇",
-      "onboard_time": 1722539053,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 57758,
