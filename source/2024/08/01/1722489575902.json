@@ -1,0 +1,410 @@
+{
+  "runTime": 1722489575902,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6273477,
+        "num": 6273477,
+        "word": "银牌就不掏出来了吧",
+        "onboard_time": 1722477863,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1902841,
+        "num": 1902841,
+        "word": "潘展乐拒绝在国旗上签名",
+        "onboard_time": 1722479905,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30358,
+        "num": 1538692,
+        "word": "解放军建军97周年",
+        "onboard_time": 1722472048,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5372624,
+        "num": 1537373,
+        "word": "王楚钦球拍被踩事件正在调查",
+        "onboard_time": 1722485967,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1476913,
+        "num": 1476913,
+        "word": "黄子韬终于有实绩了",
+        "onboard_time": 1722469646,
+        "rank": 4,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 1383544,
+        "num": 1383544,
+        "word": "潘展乐说50次药检没一次阳性",
+        "onboard_time": 1722485607,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1355722,
+        "num": 1355722,
+        "word": "潘展乐金牌痛床",
+        "onboard_time": 1722481406,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1326790,
+        "num": 1326790,
+        "word": "潘展乐100自由泳金牌",
+        "onboard_time": 1722458893,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1227605,
+        "num": 1227605,
+        "word": "披哥4官宣李佳琦",
+        "onboard_time": 1722486086,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36289,
+        "num": 1045392,
+        "word": "酒店菜品加抗生素止泻案几大疑问",
+        "onboard_time": 1722488546,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3707613,
+        "num": 1020883,
+        "word": "樊振东回应王楚钦出局",
+        "onboard_time": 1722484106,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 920499,
+        "num": 920499,
+        "word": "比黄子韬官宣恋情水花还大",
+        "onboard_time": 1722482126,
+        "rank": 11,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 153490,
+        "num": 661859,
+        "word": "潘展乐夺金让国人沸腾了",
+        "onboard_time": 1722485307,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 644875,
+        "num": 644875,
+        "word": "伊朗下令直接打击以色列",
+        "onboard_time": 1722482126,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 523080,
+        "num": 523080,
+        "word": "八一建军节",
+        "onboard_time": 1722444146,
+        "rank": 14,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 515997,
+        "num": 515997,
+        "word": "花少团晒奥运现场照",
+        "onboard_time": 1722477445,
+        "rank": 15,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 478208,
+        "num": 515190,
+        "word": "披荆斩棘4全阵容官宣",
+        "onboard_time": 1722487765,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359127,
+        "num": 514469,
+        "word": "刘诗诗潘展乐同框合照",
+        "onboard_time": 1722478164,
+        "rank": 17,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 1247489,
+        "num": 513851,
+        "word": "王楚钦爆冷出局",
+        "onboard_time": 1722416335,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26159,
+        "num": 512766,
+        "word": "陈若琳给井胧打call",
+        "onboard_time": 1722488606,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 974448,
+        "num": 511971,
+        "word": "宁泽涛称潘展乐是难得少有的天赋型选手",
+        "onboard_time": 1722484706,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1083344,
+        "num": 510609,
+        "word": "王楚钦回应爆冷出局",
+        "onboard_time": 1722417703,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 761708,
+        "num": 510037,
+        "word": "全红婵说黄子韬又搞笑又帅",
+        "onboard_time": 1722471627,
+        "rank": 22,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 701916,
+        "num": 509439,
+        "word": "潘展乐凭什么打破世界纪录夺得冠军",
+        "onboard_time": 1722482426,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 651874,
+        "num": 508122,
+        "word": "汪顺巴黎奥运首秀",
+        "onboard_time": 1722479186,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 599801,
+        "num": 507774,
+        "word": "潘展乐破世界纪录",
+        "onboard_time": 1722459013,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28623,
+        "num": 506338,
+        "word": "马自达重新定义高价值燃油SUV",
+        "onboard_time": 1722487466,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 267300,
+        "num": 505941,
+        "word": "老费我呀再也不是一个人啦",
+        "onboard_time": 1722483805,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234085,
+        "num": 504623,
+        "word": "邓紫棋官宣鸟巢四连开",
+        "onboard_time": 1722488245,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 203155,
+        "num": 503427,
+        "word": "TFBOYS转发易烊千玺新歌",
+        "onboard_time": 1722486868,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 549527,
+        "num": 502933,
+        "word": "樊振东细节见人品",
+        "onboard_time": 1722484407,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 502418,
+        "num": 502418,
+        "word": "有选手游完塞纳河吐了",
+        "onboard_time": 1722477505,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 494516,
+        "num": 494516,
+        "word": "孙颖莎vs阿库拉",
+        "onboard_time": 1722451516,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 476393,
+        "num": 476393,
+        "word": "李艾说王楚钦输球就是因为球拍",
+        "onboard_time": 1722475045,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 460398,
+        "num": 460398,
+        "word": "超雄胎儿能不能生",
+        "onboard_time": 1722486629,
+        "rank": 34,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 408644,
+        "num": 408644,
+        "word": "潘展乐尝试拆金牌",
+        "onboard_time": 1722477683,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 460472,
+        "num": 408200,
+        "word": "张怡宁说用备用板像是用假肢打球",
+        "onboard_time": 1722468264,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 407086,
+        "num": 407086,
+        "word": "央视解说张博恒失误听哭了",
+        "onboard_time": 1722485128,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 378561,
+        "num": 378561,
+        "word": "哈马斯一领导人披露哈尼亚遇袭细节",
+        "onboard_time": 1722474505,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 359510,
+        "num": 359510,
+        "word": "孙颖莎光速进8强",
+        "onboard_time": 1722455294,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356825,
+        "num": 356825,
+        "word": "体操男子个人全能决赛",
+        "onboard_time": 1722440246,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355589,
+        "num": 355589,
+        "word": "潘展乐 扬眉吐气",
+        "onboard_time": 1722459673,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352349,
+        "num": 352349,
+        "word": "咆哮女解说是谁",
+        "onboard_time": 1722478405,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 338787,
+        "num": 338787,
+        "word": "谢谢你们守护大好河山万家灯火",
+        "onboard_time": 1722481465,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296589,
+        "num": 296589,
+        "word": "女子20元拔罐除湿拔出黑紫色",
+        "onboard_time": 1722481165,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287850,
+        "num": 287850,
+        "word": "樊振东vs贾哈",
+        "onboard_time": 1722456373,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260158,
+        "num": 260158,
+        "word": "张博恒全能银牌",
+        "onboard_time": 1722449791,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259414,
+        "num": 259414,
+        "word": "樊振东将对阵张本智和",
+        "onboard_time": 1722473488,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245184,
+        "num": 245184,
+        "word": "伊朗考虑两个方案打击以色列",
+        "onboard_time": 1722488486,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 170210,
+        "num": 244829,
+        "word": "韩国拍的福宝电影定档",
+        "onboard_time": 1722480264,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设强大稳固的现代边海空防#"
+    }
+  }
+}
