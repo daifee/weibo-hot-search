@@ -1,0 +1,410 @@
+{
+  "runTime": 1722525677474,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 19924192,
+        "num": 19924192,
+        "word": "樊振东vs张本智和",
+        "onboard_time": 1722522570,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13021035,
+        "num": 13021035,
+        "word": "孙颖莎vs郑怡静",
+        "onboard_time": 1722520408,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6764866,
+        "num": 6764866,
+        "word": "奥组委调查王楚钦球拍被踩事件",
+        "onboard_time": 1722523890,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3389544,
+        "num": 3389544,
+        "word": "孙颖莎进4强",
+        "onboard_time": 1722524740,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2850717,
+        "num": 2850717,
+        "word": "中国香港选手哭诉衣服被扯烂致退赛",
+        "onboard_time": 1722524251,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2308190,
+        "num": 2308190,
+        "word": "王楚钦现身训练场",
+        "onboard_time": 1722522750,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1055379,
+        "num": 2285015,
+        "word": "徐梦洁发博祝贺郑钦文",
+        "onboard_time": 1722523890,
+        "rank": 6,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 2268946,
+        "num": 2268946,
+        "word": "张之臻王欣瑜闯入混双决赛",
+        "onboard_time": 1722520707,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 703931,
+        "num": 703931,
+        "word": "梁洁 娜扎攻击性还是蛮强的",
+        "onboard_time": 1722521189,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84334,
+        "num": 694024,
+        "word": "记者调查线上秒开处方药乱象",
+        "onboard_time": 1722524441,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5075939,
+        "num": 693831,
+        "word": "中国第10金",
+        "onboard_time": 1722501628,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1748044,
+        "num": 692937,
+        "word": "郑钦文晋级奥运会决赛",
+        "onboard_time": 1722513872,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 689763,
+        "num": 689763,
+        "word": "医院回应2名科室主任因女护士打架",
+        "onboard_time": 1722520827,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502755,
+        "num": 502755,
+        "word": "50米步枪独守大唐魂",
+        "onboard_time": 1722512785,
+        "rank": 13,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 497202,
+        "num": 497202,
+        "word": "村支书一线抗洪3岁女儿被冲走遇难",
+        "onboard_time": 1722520288,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1302826,
+        "num": 495574,
+        "word": "陈梦进4强",
+        "onboard_time": 1722501808,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 422369,
+        "num": 492259,
+        "word": "裴喜君的威胁是女性间共情",
+        "onboard_time": 1722524527,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 392727,
+        "num": 490148,
+        "word": "赵露思OL风",
+        "onboard_time": 1722519085,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333619,
+        "num": 485935,
+        "word": "你好种地少年",
+        "onboard_time": 1722522388,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288699,
+        "num": 482017,
+        "word": "歌手巅峰之夜歌单",
+        "onboard_time": 1722516267,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1271665,
+        "num": 481045,
+        "word": "梁王组合vs印尼组合",
+        "onboard_time": 1722511046,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1206033,
+        "num": 477435,
+        "word": "林昀儒vsF勒布伦",
+        "onboard_time": 1722518725,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1161823,
+        "num": 473930,
+        "word": "孙颖莎稳稳的很安心",
+        "onboard_time": 1722525036,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1109441,
+        "num": 472580,
+        "word": "陈玘解说",
+        "onboard_time": 1722524563,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1024745,
+        "num": 469162,
+        "word": "王昶露腹肌",
+        "onboard_time": 1722514888,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1002352,
+        "num": 465680,
+        "word": "陈梦vs波尔卡诺娃",
+        "onboard_time": 1722499283,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 986959,
+        "num": 461299,
+        "word": "陈梦打了个11比0",
+        "onboard_time": 1722501327,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 935729,
+        "num": 457783,
+        "word": "梁王组合进四强",
+        "onboard_time": 1722513934,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 902312,
+        "num": 457485,
+        "word": "王楚钦回应爆冷出局",
+        "onboard_time": 1722417703,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 809502,
+        "num": 452335,
+        "word": "黄子韬喜欢我你无需自卑",
+        "onboard_time": 1722508045,
+        "rank": 29,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 44538,
+        "num": 449459,
+        "word": "两极穿越龙江行",
+        "onboard_time": 1722518485,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1523322,
+        "num": 445650,
+        "word": "王楚钦球拍被踩事件正在调查",
+        "onboard_time": 1722485967,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 817881,
+        "num": 443253,
+        "word": "张本智和去法国后都变松弛了",
+        "onboard_time": 1722514292,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 442348,
+        "num": 442348,
+        "word": "女子为穿婚纱好看42天怒减47斤",
+        "onboard_time": 1722523890,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408183,
+        "num": 408183,
+        "word": "剑网3恭喜刘宇坤夺金",
+        "onboard_time": 1722514830,
+        "rank": 34,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 781260,
+        "num": 407668,
+        "word": "郑钦文碰到没素质的当场回怼",
+        "onboard_time": 1722524191,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 699326,
+        "num": 402551,
+        "word": "美国教练说中国人练100米自由泳没前途",
+        "onboard_time": 1722507745,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 659651,
+        "num": 401723,
+        "word": "樊振东今晚争男单四强",
+        "onboard_time": 1722520707,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 619354,
+        "num": 396541,
+        "word": "李诗沣无缘奥运8强",
+        "onboard_time": 1722523287,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 594666,
+        "num": 392587,
+        "word": "孙颖莎王楚钦拿下百万票房",
+        "onboard_time": 1722523829,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244325,
+        "num": 390619,
+        "word": "郑钦文说相信就是力量",
+        "onboard_time": 1722523649,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 560489,
+        "num": 387886,
+        "word": "今晚属于中国网球",
+        "onboard_time": 1722522148,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 547857,
+        "num": 385999,
+        "word": "潘展乐 19岁正是爱告状的年纪",
+        "onboard_time": 1722504269,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 511193,
+        "num": 381103,
+        "word": "郑钦文 关关难过关关过",
+        "onboard_time": 1722517347,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 466567,
+        "num": 377049,
+        "word": "四大满贯发文恭喜郑钦文",
+        "onboard_time": 1722525577,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 432823,
+        "num": 374979,
+        "word": "郑钦文体力",
+        "onboard_time": 1722512606,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373728,
+        "num": 373728,
+        "word": "刘宇坤 天策jjc33",
+        "onboard_time": 1722513325,
+        "rank": 46,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 295887,
+        "num": 295887,
+        "word": "天策府有奥运冠军",
+        "onboard_time": 1722513025,
+        "rank": 47,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 287864,
+        "num": 287864,
+        "word": "有的天策在巴陵 有的天策在巴黎",
+        "onboard_time": 1722514054,
+        "rank": 48,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 196230,
+        "num": 287209,
+        "word": "惠英红喊全红婵红姐",
+        "onboard_time": 1722506485,
+        "rank": 49,
+        "category": "艺人,体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设现代边海空防装备科技含量满满#"
+    }
+  }
+}
