@@ -1,6 +1,6 @@
 {
   "startTime": 1722529527252,
-  "endTime": 1722533669698,
+  "endTime": 1722536785389,
   "band_list": [
     {
       "raw_hot": 37515871,
@@ -123,11 +123,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3061657,
+      "num": 3061657,
+      "word": "樊振东 我没想过输",
+      "onboard_time": 1722534018,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2677629,
       "num": 2677629,
       "word": "给小胖来十个手抓饼",
       "onboard_time": 1722530554,
       "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2584780,
+      "num": 2584780,
+      "word": "王皓哭了",
+      "onboard_time": 1722531683,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -195,19 +211,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1554869,
+      "num": 1554869,
+      "word": "樊振东下一把得来个十环",
+      "onboard_time": 1722534018,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1507902,
       "num": 1507902,
       "word": "陈梦进4强",
       "onboard_time": 1722501808,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1464297,
-      "num": 1464297,
-      "word": "王皓哭了",
-      "onboard_time": 1722531683,
-      "rank": 23,
       "category": "体育"
     },
     {
@@ -299,6 +315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 705078,
+      "num": 705078,
+      "word": "邱祺缘掉杠",
+      "onboard_time": 1722532221,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 704350,
       "num": 4900711,
       "word": "女子为穿婚纱好看42天怒减47斤",
@@ -312,14 +336,6 @@
       "word": "樊振东今晚争男单四强",
       "onboard_time": 1722520707,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 665466,
-      "num": 665466,
-      "word": "邱祺缘掉杠",
-      "onboard_time": 1722532221,
-      "rank": 33,
       "category": "体育"
     },
     {
@@ -416,6 +432,14 @@
       "word": "王欣瑜险些订机票回国",
       "onboard_time": 1722527022,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 420036,
+      "num": 420036,
+      "word": "何冰娇晋级奥运八强",
+      "onboard_time": 1722534199,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -531,8 +555,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151424,
-      "num": 352572,
+      "raw_hot": 162710,
+      "num": 914196,
       "word": "库里来看体操了",
       "onboard_time": 1722533598,
       "rank": 47,
@@ -563,7 +587,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 9984,
+      "raw_hot": 14120,
       "num": 3984658,
       "word": "两极穿越龙江行",
       "onboard_time": 1722518485,
