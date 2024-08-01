@@ -1,0 +1,410 @@
+{
+  "runTime": 1722477196599,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7401258,
+        "num": 7401258,
+        "word": "潘展乐100自由泳金牌",
+        "onboard_time": 1722458893,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7226286,
+        "num": 7226286,
+        "word": "潘展乐和查尔莫斯打招呼遭无视",
+        "onboard_time": 1722468744,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19891,
+        "num": 3587075,
+        "word": "有子弟兵在就有满满安全感",
+        "onboard_time": 1722430044,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 2420018,
+        "num": 2420018,
+        "word": "潘展乐 比孙杨快就够了",
+        "onboard_time": 1722462133,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1737743,
+        "num": 1737743,
+        "word": "孙颖莎连追6分",
+        "onboard_time": 1722453914,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1975431,
+        "num": 1737021,
+        "word": "王楚钦回应爆冷出局",
+        "onboard_time": 1722417703,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1729900,
+        "num": 1729900,
+        "word": "浙A孙杨 浙B汪顺 浙C潘展乐",
+        "onboard_time": 1722475945,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1565819,
+        "num": 1565819,
+        "word": "黄子韬终于有实绩了",
+        "onboard_time": 1722469646,
+        "rank": 7,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 1531974,
+        "num": 1531974,
+        "word": "八一建军节",
+        "onboard_time": 1722444146,
+        "rank": 8,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 599443,
+        "num": 1524122,
+        "word": "在韩剧里听到了中文",
+        "onboard_time": 1722472467,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1775043,
+        "num": 1444592,
+        "word": "王楚钦爆冷出局",
+        "onboard_time": 1722416335,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1613953,
+        "num": 1374462,
+        "word": "张博恒全能银牌",
+        "onboard_time": 1722449791,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191028,
+        "num": 1297864,
+        "word": "解放军建军97周年",
+        "onboard_time": 1722472048,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1539376,
+        "num": 1252561,
+        "word": "张怡宁说用备用板像是用假肢打球",
+        "onboard_time": 1722468264,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1230324,
+        "num": 1230324,
+        "word": "辅警隐瞒精神病史杀害妻子被判死缓",
+        "onboard_time": 1722473547,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1024121,
+        "num": 1024121,
+        "word": "潘展乐回应预赛垫底",
+        "onboard_time": 1722470005,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 576442,
+        "num": 1024012,
+        "word": "花少团去奥运现场为陈梦加油",
+        "onboard_time": 1722438271,
+        "rank": 16,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 318830,
+        "num": 1014492,
+        "word": "鱿鱼游戏2定档",
+        "onboard_time": 1722473129,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264989,
+        "num": 998559,
+        "word": "刘诗诗全球首穿",
+        "onboard_time": 1722440724,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 145563,
+        "num": 989496,
+        "word": "与辉同行员工已有约200人",
+        "onboard_time": 1722468443,
+        "rank": 19,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 986729,
+        "num": 986729,
+        "word": "李艾说王楚钦输球就是因为球拍",
+        "onboard_time": 1722475045,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 932507,
+        "num": 932507,
+        "word": "对手相信潘展乐是清白的",
+        "onboard_time": 1722475107,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 822737,
+        "num": 822737,
+        "word": "黄子韬也是翻身了",
+        "onboard_time": 1722435507,
+        "rank": 22,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 775813,
+        "num": 775813,
+        "word": "体操男子个人全能决赛",
+        "onboard_time": 1722440246,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 542454,
+        "num": 760536,
+        "word": "文旅局回应女子在景区被闺蜜按在水里",
+        "onboard_time": 1722440545,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 757748,
+        "num": 757748,
+        "word": "张博恒说我也想赢",
+        "onboard_time": 1722472169,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180144,
+        "num": 754050,
+        "word": "潘展乐中国游泳真大腿",
+        "onboard_time": 1722471807,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158063,
+        "num": 747024,
+        "word": "头一次见恋综告白是告白所有人",
+        "onboard_time": 1722466941,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135435,
+        "num": 736443,
+        "word": "况盛背着前女友上传视频",
+        "onboard_time": 1722448638,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124507,
+        "num": 722480,
+        "word": "荣梓杉田嘉瑞 观众席",
+        "onboard_time": 1722438868,
+        "rank": 29,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 716131,
+        "num": 716131,
+        "word": "樊振东将对阵张本智和",
+        "onboard_time": 1722473488,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 642846,
+        "num": 642846,
+        "word": "潘展乐说美国人有点看不起我们",
+        "onboard_time": 1722459673,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 636362,
+        "num": 636362,
+        "word": "潘展乐破世界纪录",
+        "onboard_time": 1722459013,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 589825,
+        "num": 589825,
+        "word": "潘展乐 这能说吗",
+        "onboard_time": 1722474208,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 424634,
+        "num": 424634,
+        "word": "广东肇庆女童攀岩坠亡",
+        "onboard_time": 1722469044,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572344,
+        "num": 424006,
+        "word": "樊振东火速进8强",
+        "onboard_time": 1722458834,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 527359,
+        "num": 422857,
+        "word": "潘展乐 世界飞鱼",
+        "onboard_time": 1722459733,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 485621,
+        "num": 422612,
+        "word": "肖若腾全能铜牌",
+        "onboard_time": 1722449907,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 483962,
+        "num": 421083,
+        "word": "张雨霏发烧",
+        "onboard_time": 1722456373,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 445330,
+        "num": 420770,
+        "word": "樊振东vs贾哈",
+        "onboard_time": 1722456373,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 428513,
+        "num": 419195,
+        "word": "倪夏莲说大头太倒霉了",
+        "onboard_time": 1722476244,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 419112,
+        "num": 419112,
+        "word": "孙颖莎光速进8强",
+        "onboard_time": 1722455294,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 402856,
+        "num": 402856,
+        "word": "孙颖莎vs阿库拉",
+        "onboard_time": 1722451516,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373248,
+        "num": 373248,
+        "word": "王楚钦谈失利原因",
+        "onboard_time": 1722427345,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 338201,
+        "num": 338201,
+        "word": "年纪到了被高中同学盯上了",
+        "onboard_time": 1722469586,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 300479,
+        "num": 300479,
+        "word": "温州网红交警子颜离职",
+        "onboard_time": 1722472587,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238591,
+        "num": 238591,
+        "word": "哈马斯一领导人披露哈尼亚遇袭细节",
+        "onboard_time": 1722474505,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 228570,
+        "num": 228570,
+        "word": "咱家这些家伙事儿自带安全感",
+        "onboard_time": 1722476666,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212513,
+        "num": 228534,
+        "word": "一人一句向人民子弟兵致敬",
+        "onboard_time": 1722446720,
+        "rank": 48,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 172173,
+        "num": 228419,
+        "word": "八月对我好一点",
+        "onboard_time": 1722436408,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平回信勉励强军精武红四连全体官兵#"
+    }
+  }
+}
