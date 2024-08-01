@@ -1,0 +1,410 @@
+{
+  "runTime": 1722512113760,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3903543,
+        "num": 3903543,
+        "word": "杨家玉 套圈",
+        "onboard_time": 1722502346,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3676952,
+        "num": 3676952,
+        "word": "梁王组合vs印尼组合",
+        "onboard_time": 1722511046,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33057,
+        "num": 3644057,
+        "word": "致敬中国人民解放军建军97周年",
+        "onboard_time": 1722499222,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 3613942,
+        "num": 3613942,
+        "word": "申裕斌vs平野美宇",
+        "onboard_time": 1722509124,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3441333,
+        "num": 3441333,
+        "word": "黄子韬喜欢我你无需自卑",
+        "onboard_time": 1722508045,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3137272,
+        "num": 3137272,
+        "word": "美国教练说中国人练100米自由泳没前途",
+        "onboard_time": 1722507745,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2042611,
+        "num": 2042611,
+        "word": "王皓 起来练球",
+        "onboard_time": 1722507564,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 713477,
+        "num": 2035959,
+        "word": "惠英红喊全红婵红姐",
+        "onboard_time": 1722506485,
+        "rank": 7,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 497386,
+        "num": 2018121,
+        "word": "全红婵正是喜欢黄毛的年纪",
+        "onboard_time": 1722491305,
+        "rank": 8,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 391637,
+        "num": 2012580,
+        "word": "湖南资兴暴雨30人遇难35人失踪",
+        "onboard_time": 1722510444,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6490646,
+        "num": 1989385,
+        "word": "中国第10金",
+        "onboard_time": 1722501628,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1987658,
+        "num": 1987658,
+        "word": "马龙预言",
+        "onboard_time": 1722507384,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1445512,
+        "num": 1445512,
+        "word": "郑钦文vs斯瓦泰克",
+        "onboard_time": 1722506844,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90158,
+        "num": 976287,
+        "word": "老外眼中的中国新能源是什么样",
+        "onboard_time": 1722506844,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 581689,
+        "num": 581689,
+        "word": "韩国一片烤五花肉26元惹众怒",
+        "onboard_time": 1722501386,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267810,
+        "num": 579238,
+        "word": "烟草局招体育特长生需说清必要性",
+        "onboard_time": 1722506305,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1392328,
+        "num": 578677,
+        "word": "全红婵家人婉拒他人送钱送房",
+        "onboard_time": 1722506426,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1365644,
+        "num": 574369,
+        "word": "王楚钦球拍被踩事件正在调查",
+        "onboard_time": 1722485967,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292148,
+        "num": 569989,
+        "word": "罗夏恩离开SM",
+        "onboard_time": 1722508466,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256818,
+        "num": 567150,
+        "word": "唐诡黄梦莹身份",
+        "onboard_time": 1722509124,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1242585,
+        "num": 565933,
+        "word": "张博恒一天没吃东西只吃了止痛药",
+        "onboard_time": 1722508406,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1072803,
+        "num": 562548,
+        "word": "羽毛球男双",
+        "onboard_time": 1722511105,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1019032,
+        "num": 558367,
+        "word": "陈梦打了个11比0",
+        "onboard_time": 1722501327,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 839064,
+        "num": 557558,
+        "word": "刘宇坤50米步枪三姿金牌",
+        "onboard_time": 1722500787,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 784931,
+        "num": 554235,
+        "word": "潘展乐 19岁正是爱告状的年纪",
+        "onboard_time": 1722504269,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 778449,
+        "num": 549991,
+        "word": "陈梦vs波尔卡诺娃",
+        "onboard_time": 1722499283,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 695770,
+        "num": 548537,
+        "word": "汪顺200混晋级半决赛",
+        "onboard_time": 1722507145,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317001,
+        "num": 544207,
+        "word": "易烊千玺粉丝睡前cctv5醒来cctv7",
+        "onboard_time": 1722508646,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249413,
+        "num": 541600,
+        "word": "于正 他们不是情侣是姐弟",
+        "onboard_time": 1722497124,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172640,
+        "num": 537181,
+        "word": "申留真出面道歉",
+        "onboard_time": 1722504149,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 679613,
+        "num": 536461,
+        "word": "王楚钦爆冷出局",
+        "onboard_time": 1722416335,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 518395,
+        "num": 533093,
+        "word": "贵州烟草局回应招聘专业为体育相关",
+        "onboard_time": 1722502827,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606885,
+        "num": 530077,
+        "word": "网球女单半决赛",
+        "onboard_time": 1722509666,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 444998,
+        "num": 528225,
+        "word": "黄子韬终于有实绩了",
+        "onboard_time": 1722469646,
+        "rank": 33,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 431175,
+        "num": 522538,
+        "word": "鹿晗与发小出门吃饭",
+        "onboard_time": 1722508646,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 522311,
+        "num": 522311,
+        "word": "圣坛组合进四强",
+        "onboard_time": 1722503665,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 519694,
+        "num": 519694,
+        "word": "陈梦进4强",
+        "onboard_time": 1722501808,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 515843,
+        "num": 515843,
+        "word": "申裕斌吃吃喝喝",
+        "onboard_time": 1722511224,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 496177,
+        "num": 496177,
+        "word": "一生要盖肚脐的中国人",
+        "onboard_time": 1722503545,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 489777,
+        "num": 489777,
+        "word": "郎平谈爆冷原因",
+        "onboard_time": 1722510625,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 477556,
+        "num": 477556,
+        "word": "男子50米步枪三姿决赛",
+        "onboard_time": 1722499044,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 430861,
+        "num": 430861,
+        "word": "潘展乐脱粉回踩查尔莫斯",
+        "onboard_time": 1722493883,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 422125,
+        "num": 422125,
+        "word": "刘宇坤接吻哥",
+        "onboard_time": 1722506665,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 395780,
+        "num": 395780,
+        "word": "郑钦文迎战头号种子波兰名将",
+        "onboard_time": 1722510985,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356504,
+        "num": 356504,
+        "word": "王楚钦回应爆冷出局",
+        "onboard_time": 1722417703,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 346729,
+        "num": 346729,
+        "word": "储殷为王楚钦发声",
+        "onboard_time": 1722512066,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184102,
+        "num": 345746,
+        "word": "哈尼亚身亡后以总理首次发声",
+        "onboard_time": 1722494663,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 175936,
+        "num": 342049,
+        "word": "中方坚决反对并强烈谴责对哈尼亚的暗杀",
+        "onboard_time": 1722489564,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 175079,
+        "num": 338989,
+        "word": "苏州工业园区陷串标疑云",
+        "onboard_time": 1722511465,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159259,
+        "num": 338300,
+        "word": "邬家楷喜欢全红婵",
+        "onboard_time": 1722501448,
+        "rank": 49,
+        "category": "电影,体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设强大稳固的现代边海空防#"
+    }
+  }
+}
