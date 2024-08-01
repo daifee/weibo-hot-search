@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1722497709033,
+  "endTime": 1722500718588,
   "band_list": [
     {
       "raw_hot": 15653750,
@@ -211,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2087095,
+      "num": 2087095,
+      "word": "陈梦vs波尔卡诺娃",
+      "onboard_time": 1722499283,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1976427,
       "num": 1976427,
       "word": "黄子韬终于有实绩了",
@@ -283,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1743828,
+      "num": 1743828,
+      "word": "男子50米步枪三姿决赛",
+      "onboard_time": 1722499044,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1678821,
       "num": 1678821,
       "word": "张雨霏发烧",
@@ -320,6 +336,14 @@
       "word": "汪顺巴黎奥运首秀",
       "onboard_time": 1722479186,
       "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1569795,
+      "num": 1569795,
+      "word": "最孤独的奥运冠军",
+      "onboard_time": 1722494063,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -387,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1336950,
+      "num": 1336950,
+      "word": "阿条姐竟然是近视",
+      "onboard_time": 1722497124,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1331632,
       "num": 1331632,
       "word": "孙颖莎vs阿库拉",
@@ -436,7 +468,7 @@
     },
     {
       "raw_hot": 1208082,
-      "num": 1208082,
+      "num": 1451589,
       "word": "全红婵正是喜欢黄毛的年纪",
       "onboard_time": 1722491305,
       "rank": 6,
@@ -539,14 +571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 934765,
-      "num": 642033,
-      "word": "最孤独的奥运冠军",
-      "onboard_time": 1722494063,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 924778,
       "num": 924778,
       "word": "肖若腾跳马14.833分",
@@ -609,6 +633,14 @@
       "onboard_time": 1722441385,
       "rank": 25,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 783888,
+      "num": 783888,
+      "word": "一家三口均被确诊精神疾病",
+      "onboard_time": 1722495743,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 777622,
@@ -700,11 +732,19 @@
     },
     {
       "raw_hot": 722680,
-      "num": 722680,
+      "num": 740405,
       "word": "徐峥说潘展乐夺冠含金量太高了",
       "onboard_time": 1722492622,
       "rank": 18,
       "category": "电影,体育"
+    },
+    {
+      "raw_hot": 717519,
+      "num": 717519,
+      "word": "朝鲜混双组合正效力重庆职业队",
+      "onboard_time": 1722495984,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 712636,
@@ -739,19 +779,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 651282,
+      "num": 1356879,
+      "word": "于正 他们不是情侣是姐弟",
+      "onboard_time": 1722497124,
+      "rank": 26,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 621506,
       "num": 621506,
       "word": "樊振东细节见人品",
       "onboard_time": 1722484407,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 613235,
-      "num": 531911,
-      "word": "朝鲜混双组合正效力重庆职业队",
-      "onboard_time": 1722495984,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -795,19 +835,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 589152,
-      "num": 589152,
-      "word": "一家三口均被确诊精神疾病",
-      "onboard_time": 1722495743,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 587464,
       "num": 545940,
       "word": "杨威解说体操",
       "onboard_time": 1722448220,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 582446,
+      "num": 582446,
+      "word": "樊振东就这么水灵灵地吃上了",
+      "onboard_time": 1722497365,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -841,6 +881,14 @@
       "onboard_time": 1722472048,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 528664,
+      "num": 528664,
+      "word": "孙颖莎是教练团的笑容开关",
+      "onboard_time": 1722498503,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 521844,
@@ -1051,6 +1099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 405751,
+      "num": 405751,
+      "word": "樊振东除了打球就是吃",
+      "onboard_time": 1722498024,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 405095,
       "num": 274127,
       "word": "全红婵陈芋汐金牌",
@@ -1083,20 +1139,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 400233,
+      "num": 400233,
+      "word": "张俊竞走第10",
+      "onboard_time": 1722497723,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 387662,
       "num": 568074,
       "word": "吉林省一副市长在抗洪时牺牲",
       "onboard_time": 1722479545,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 387479,
-      "num": 387479,
-      "word": "阿条姐竟然是近视",
-      "onboard_time": 1722497124,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 383215,
@@ -1116,17 +1172,33 @@
     },
     {
       "raw_hot": 372614,
-      "num": 529884,
+      "num": 727947,
       "word": "纪凌尘烧39度拍完戏立马倒下",
       "onboard_time": 1722496402,
       "rank": 28,
       "category": "综艺"
     },
     {
+      "raw_hot": 371615,
+      "num": 371615,
+      "word": "孙颖莎签名照连教练都拿不到",
+      "onboard_time": 1722499764,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 368351,
       "num": 368351,
       "word": "美国女排vs塞尔维亚女排",
       "onboard_time": 1722445944,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 362814,
+      "num": 362814,
+      "word": "被韩国人看我们国家跳水的反应笑晕",
+      "onboard_time": 1722496944,
       "rank": 42,
       "category": "体育"
     },
@@ -1161,14 +1233,6 @@
       "onboard_time": 1722494663,
       "rank": 24,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 335983,
-      "num": 389332,
-      "word": "于正 他们不是情侣是姐弟",
-      "onboard_time": 1722497124,
-      "rank": 26,
-      "category": "剧集,艺人"
     },
     {
       "raw_hot": 331181,
@@ -1275,6 +1339,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 288010,
+      "num": 274088,
+      "word": "凡晨组合晋级半决赛",
+      "onboard_time": 1722498984,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 287474,
       "num": 287474,
       "word": "张雨霏200蝶预赛第1晋级",
@@ -1299,12 +1371,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 274701,
+      "num": 274701,
+      "word": "公孙离皮肤",
+      "onboard_time": 1722500063,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 274319,
       "num": 581673,
       "word": "八月对我好一点",
       "onboard_time": 1722436408,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 273983,
+      "num": 273983,
+      "word": "潘展乐说金牌对我意义不太大",
+      "onboard_time": 1722500184,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 270177,
+      "num": 270177,
+      "word": "刘圣书谭宁vs白荷娜李绍希",
+      "onboard_time": 1722499523,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 270100,
@@ -1329,6 +1425,14 @@
       "onboard_time": 1722408442,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 264118,
+      "num": 264118,
+      "word": "双手插兜是没法成功的",
+      "onboard_time": 1722500125,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 262212,
@@ -1360,22 +1464,6 @@
       "word": "冲这点王楚钦一定会东山再起",
       "onboard_time": 1722496282,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 242912,
-      "num": 242912,
-      "word": "被韩国人看我们国家跳水的反应笑晕",
-      "onboard_time": 1722496944,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 238266,
-      "num": 238266,
-      "word": "樊振东就这么水灵灵地吃上了",
-      "onboard_time": 1722497365,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -1424,6 +1512,14 @@
       "word": "咱家这些家伙事儿自带安全感",
       "onboard_time": 1722476666,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225803,
+      "num": 643036,
+      "word": "骑共享单车比坐地铁还贵",
+      "onboard_time": 1722496822,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1521,6 +1617,14 @@
       "onboard_time": 1722459793,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197024,
+      "num": 215643,
+      "word": "庄盛哲于雯成了",
+      "onboard_time": 1722500184,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 194049,
@@ -1707,6 +1811,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 127447,
+      "num": 775250,
+      "word": "女子深夜遭酒店房东猥亵",
+      "onboard_time": 1722499222,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124500,
       "num": 124500,
       "word": "全红婵跑过去亲郭晶晶真的很甜",
@@ -1771,6 +1883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104429,
+      "num": 1344076,
+      "word": "伊朗的报复或在周末来临",
+      "onboard_time": 1722499222,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 98891,
       "num": 145716,
       "word": "雅思组合进4强",
@@ -1819,20 +1939,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 74591,
-      "num": 643036,
-      "word": "骑共享单车比坐地铁还贵",
-      "onboard_time": 1722496822,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 68200,
       "num": 884828,
       "word": "谢谢人民子弟兵给的安全感",
       "onboard_time": 1722451993,
       "rank": 9,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 64411,
+      "num": 2518798,
+      "word": "致敬中国人民解放军建军97周年",
+      "onboard_time": 1722499222,
+      "rank": 2,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 62798,
@@ -1852,7 +1972,7 @@
     },
     {
       "raw_hot": 50189,
-      "num": 298280,
+      "num": 542498,
       "word": "享界S9车位到车位智驾实测",
       "onboard_time": 1722497244,
       "rank": 37,
@@ -1897,6 +2017,14 @@
       "onboard_time": 1722446122,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 26430,
+      "num": 271189,
+      "word": "祝汪顺一帆风顺",
+      "onboard_time": 1722500548,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 26159,

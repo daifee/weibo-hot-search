@@ -1,0 +1,410 @@
+{
+  "runTime": 1722500718588,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7090200,
+        "num": 7090200,
+        "word": "王楚钦球拍被踩事件正在调查",
+        "onboard_time": 1722485967,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2972251,
+        "num": 2972251,
+        "word": "潘展乐脱粉回踩查尔莫斯",
+        "onboard_time": 1722493883,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64411,
+        "num": 2518798,
+        "word": "致敬中国人民解放军建军97周年",
+        "onboard_time": 1722499222,
+        "rank": 2,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 2091440,
+        "num": 2091440,
+        "word": "踩坏王楚钦球拍者将面临什么",
+        "onboard_time": 1722494723,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2087095,
+        "num": 2087095,
+        "word": "陈梦vs波尔卡诺娃",
+        "onboard_time": 1722499283,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1743828,
+        "num": 1743828,
+        "word": "男子50米步枪三姿决赛",
+        "onboard_time": 1722499044,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1569795,
+        "num": 1569795,
+        "word": "最孤独的奥运冠军",
+        "onboard_time": 1722494063,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 742076,
+        "num": 1451589,
+        "word": "全红婵正是喜欢黄毛的年纪",
+        "onboard_time": 1722491305,
+        "rank": 7,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 651282,
+        "num": 1356879,
+        "word": "于正 他们不是情侣是姐弟",
+        "onboard_time": 1722497124,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104429,
+        "num": 1344076,
+        "word": "伊朗的报复或在周末来临",
+        "onboard_time": 1722499222,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1336950,
+        "num": 1336950,
+        "word": "阿条姐竟然是近视",
+        "onboard_time": 1722497124,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1094981,
+        "num": 1094981,
+        "word": "吴艳妮出征巴黎奥运会",
+        "onboard_time": 1722493944,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 783888,
+        "num": 783888,
+        "word": "一家三口均被确诊精神疾病",
+        "onboard_time": 1722495743,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483142,
+        "num": 776911,
+        "word": "黄子韬终于有实绩了",
+        "onboard_time": 1722469646,
+        "rank": 13,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 127447,
+        "num": 775250,
+        "word": "女子深夜遭酒店房东猥亵",
+        "onboard_time": 1722499222,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1075038,
+        "num": 762355,
+        "word": "王楚钦爆冷出局",
+        "onboard_time": 1722416335,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1012525,
+        "num": 752445,
+        "word": "樊振东回应王楚钦出局",
+        "onboard_time": 1722484106,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 468088,
+        "num": 748813,
+        "word": "披哥4官宣李佳琦",
+        "onboard_time": 1722486086,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 427841,
+        "num": 740405,
+        "word": "徐峥说潘展乐夺冠含金量太高了",
+        "onboard_time": 1722492622,
+        "rank": 18,
+        "category": "电影,体育"
+      },
+      {
+        "raw_hot": 304952,
+        "num": 727947,
+        "word": "纪凌尘烧39度拍完戏立马倒下",
+        "onboard_time": 1722496402,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 871495,
+        "num": 719683,
+        "word": "王楚钦回应爆冷出局",
+        "onboard_time": 1722417703,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 717519,
+        "num": 717519,
+        "word": "朝鲜混双组合正效力重庆职业队",
+        "onboard_time": 1722495984,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 629436,
+        "num": 629436,
+        "word": "土耳其是派了个杀手吗",
+        "onboard_time": 1722491725,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 582446,
+        "num": 582446,
+        "word": "樊振东就这么水灵灵地吃上了",
+        "onboard_time": 1722497365,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30642,
+        "num": 542498,
+        "word": "享界S9车位到车位智驾实测",
+        "onboard_time": 1722497244,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 528664,
+        "num": 528664,
+        "word": "孙颖莎是教练团的笑容开关",
+        "onboard_time": 1722498503,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 465387,
+        "num": 465387,
+        "word": "银牌就不掏出来了吧",
+        "onboard_time": 1722477863,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 405751,
+        "num": 405751,
+        "word": "樊振东除了打球就是吃",
+        "onboard_time": 1722498024,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 400233,
+        "num": 400233,
+        "word": "张俊竞走第10",
+        "onboard_time": 1722497723,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221515,
+        "num": 373370,
+        "word": "披荆斩棘4全阵容官宣",
+        "onboard_time": 1722487765,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371615,
+        "num": 371615,
+        "word": "孙颖莎签名照连教练都拿不到",
+        "onboard_time": 1722499764,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 362814,
+        "num": 362814,
+        "word": "被韩国人看我们国家跳水的反应笑晕",
+        "onboard_time": 1722496944,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 329775,
+        "num": 329775,
+        "word": "谢谢你们守护大好河山万家灯火",
+        "onboard_time": 1722481465,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327409,
+        "num": 327409,
+        "word": "中方坚决反对并强烈谴责对哈尼亚的暗杀",
+        "onboard_time": 1722489564,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 274701,
+        "num": 274701,
+        "word": "公孙离皮肤",
+        "onboard_time": 1722500063,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 351797,
+        "num": 274641,
+        "word": "省队教练回应谢瑜打完奥运要回省队",
+        "onboard_time": 1722493702,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 325139,
+        "num": 274535,
+        "word": "潘展乐100自由泳金牌",
+        "onboard_time": 1722458893,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320357,
+        "num": 274310,
+        "word": "竞走比我跑还快",
+        "onboard_time": 1722494603,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292768,
+        "num": 274231,
+        "word": "男子20公里竞走决赛",
+        "onboard_time": 1722492923,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288010,
+        "num": 274088,
+        "word": "凡晨组合晋级半决赛",
+        "onboard_time": 1722498984,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273983,
+        "num": 273983,
+        "word": "潘展乐说金牌对我意义不太大",
+        "onboard_time": 1722500184,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26430,
+        "num": 271189,
+        "word": "祝汪顺一帆风顺",
+        "onboard_time": 1722500548,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270177,
+        "num": 270177,
+        "word": "刘圣书谭宁vs白荷娜李绍希",
+        "onboard_time": 1722499523,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264118,
+        "num": 264118,
+        "word": "双手插兜是没法成功的",
+        "onboard_time": 1722500125,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246817,
+        "num": 246817,
+        "word": "比黄子韬官宣恋情水花还大",
+        "onboard_time": 1722482126,
+        "rank": 44,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 241731,
+        "num": 241731,
+        "word": "哈尼亚身亡后以总理首次发声",
+        "onboard_time": 1722494663,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 232913,
+        "num": 232913,
+        "word": "李艾说王楚钦输球就是因为球拍",
+        "onboard_time": 1722475045,
+        "rank": 46,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 225803,
+        "num": 225803,
+        "word": "骑共享单车比坐地铁还贵",
+        "onboard_time": 1722496822,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197024,
+        "num": 215643,
+        "word": "庄盛哲于雯成了",
+        "onboard_time": 1722500184,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212662,
+        "num": 212662,
+        "word": "八一建军节",
+        "onboard_time": 1722444146,
+        "rank": 49,
+        "category": "社会新闻,军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设强大稳固的现代边海空防#"
+    }
+  }
+}
