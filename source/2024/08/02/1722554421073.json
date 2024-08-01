@@ -1,0 +1,410 @@
+{
+  "runTime": 1722554421073,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6028477,
+        "num": 6028477,
+        "word": "张本智和发文",
+        "onboard_time": 1722538755,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5846325,
+        "num": 5846325,
+        "word": "樊振东下一把得来个十环",
+        "onboard_time": 1722534018,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25262,
+        "num": 4029258,
+        "word": "两极穿越龙江行",
+        "onboard_time": 1722518485,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3054883,
+        "num": 3054883,
+        "word": "樊振东说整场都非常坚定",
+        "onboard_time": 1722547392,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2968715,
+        "num": 2968715,
+        "word": "王皓哭了",
+        "onboard_time": 1722531683,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2445971,
+        "num": 2445971,
+        "word": "梁伟铿偶遇樊振东",
+        "onboard_time": 1722542112,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229185,
+        "num": 2437636,
+        "word": "周子瑜solo出道",
+        "onboard_time": 1722529071,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157758,
+        "num": 2383378,
+        "word": "海苔咪前男友",
+        "onboard_time": 1722527261,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 159385,
+        "num": 2373327,
+        "word": "中国女排进奥运8强",
+        "onboard_time": 1722553520,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1762899,
+        "num": 2339542,
+        "word": "奥组委调查王楚钦球拍被踩事件",
+        "onboard_time": 1722523890,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2309869,
+        "num": 2309869,
+        "word": "樊振东赛后采访",
+        "onboard_time": 1722532339,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2276999,
+        "num": 2276999,
+        "word": "马龙眼眶红了",
+        "onboard_time": 1722539354,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 416768,
+        "num": 416768,
+        "word": "女子为穿婚纱好看42天怒减47斤",
+        "onboard_time": 1722523890,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211499,
+        "num": 416641,
+        "word": "全红婵回应为什么喜欢黄子韬",
+        "onboard_time": 1722526544,
+        "rank": 13,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 139098,
+        "num": 413538,
+        "word": "蔡徐坤生日新歌Remedy",
+        "onboard_time": 1722542892,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1491473,
+        "num": 411649,
+        "word": "樊振东眼神",
+        "onboard_time": 1722553461,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1474861,
+        "num": 409370,
+        "word": "张雨霏本届已获3枚奖牌",
+        "onboard_time": 1722538755,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129302,
+        "num": 407263,
+        "word": "梁洁 娜扎攻击性还是蛮强的",
+        "onboard_time": 1722521189,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99875,
+        "num": 405557,
+        "word": "宋木子自曝和纪凌尘是竞品",
+        "onboard_time": 1722552378,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96487,
+        "num": 402588,
+        "word": "歌手巅峰之夜歌单",
+        "onboard_time": 1722516267,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 6497199,
+        "num": 401614,
+        "word": "王楚钦给樊振东竖大拇指",
+        "onboard_time": 1722542892,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1430933,
+        "num": 399610,
+        "word": "失利后的张本智和",
+        "onboard_time": 1722539292,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1255630,
+        "num": 396742,
+        "word": "孙颖莎将对阵早田希娜",
+        "onboard_time": 1722540493,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1219679,
+        "num": 395550,
+        "word": "樊振东vs张本智和",
+        "onboard_time": 1722522570,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1162071,
+        "num": 392355,
+        "word": "中国女排3比0法国女排",
+        "onboard_time": 1722545171,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1133635,
+        "num": 391009,
+        "word": "张雨霏病刚好又遇上生理期",
+        "onboard_time": 1722540313,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1113661,
+        "num": 387915,
+        "word": "举头望明月 低头思故乡",
+        "onboard_time": 1722550874,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 834444,
+        "num": 386876,
+        "word": "樊振东晋级单打4强",
+        "onboard_time": 1722527558,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90995,
+        "num": 384308,
+        "word": "裴喜君的威胁是女性间共情",
+        "onboard_time": 1722524527,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89349,
+        "num": 382052,
+        "word": "赵露思和爸爸车上自拍",
+        "onboard_time": 1722554182,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 783463,
+        "num": 380334,
+        "word": "樊振东状态",
+        "onboard_time": 1722525947,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 736633,
+        "num": 379024,
+        "word": "体操女子个人全能决赛",
+        "onboard_time": 1722529681,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224032,
+        "num": 377350,
+        "word": "黄子韬喜欢我你无需自卑",
+        "onboard_time": 1722508045,
+        "rank": 32,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 103336,
+        "num": 374951,
+        "word": "有的天策在巴陵 有的天策在巴黎",
+        "onboard_time": 1722514054,
+        "rank": 33,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 102017,
+        "num": 371684,
+        "word": "剑网3恭喜刘宇坤夺金",
+        "onboard_time": 1722514830,
+        "rank": 34,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 691127,
+        "num": 370579,
+        "word": "中国第10金",
+        "onboard_time": 1722501628,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 457408,
+        "num": 367623,
+        "word": "汪顺进200米个人混合泳决赛",
+        "onboard_time": 1722543014,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 419509,
+        "num": 366276,
+        "word": "王皓表情",
+        "onboard_time": 1722528943,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 365193,
+        "num": 365193,
+        "word": "中国香港选手哭诉衣服被扯烂致退赛",
+        "onboard_time": 1722524251,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333041,
+        "num": 333041,
+        "word": "许昕还是太全面了",
+        "onboard_time": 1722553942,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327301,
+        "num": 327301,
+        "word": "张本智和说还没有资格拿到奥运奖牌",
+        "onboard_time": 1722539413,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316722,
+        "num": 316722,
+        "word": "孙颖莎vs郑怡静",
+        "onboard_time": 1722520408,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315237,
+        "num": 315237,
+        "word": "雅思组合进决赛了",
+        "onboard_time": 1722540673,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303694,
+        "num": 303694,
+        "word": "张雨霏奥运200米蝶泳摘铜",
+        "onboard_time": 1722537794,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100920,
+        "num": 298620,
+        "word": "刘宇坤 天策jjc33",
+        "onboard_time": 1722513325,
+        "rank": 44,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 84581,
+        "num": 298097,
+        "word": "中方向德方提出严正交涉",
+        "onboard_time": 1722529279,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 77821,
+        "num": 288193,
+        "word": "天策府有奥运冠军",
+        "onboard_time": 1722513025,
+        "rank": 46,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 74254,
+        "num": 283242,
+        "word": "50米步枪独守大唐魂",
+        "onboard_time": 1722512785,
+        "rank": 47,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 57863,
+        "num": 278549,
+        "word": "刘诗诗给妮可基德曼送刺绣团扇",
+        "onboard_time": 1722539053,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54723,
+        "num": 276271,
+        "word": "已经被叽咔叽咔咔叽咔洗脑了",
+        "onboard_time": 1722540133,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设现代边海空防装备科技含量满满#"
+    }
+  }
+}
