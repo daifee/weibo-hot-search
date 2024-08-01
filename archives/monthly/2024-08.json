@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1722501508871,
+  "endTime": 1722504035816,
   "band_list": [
     {
       "raw_hot": 15653750,
@@ -51,6 +51,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 8035938,
+      "num": 8785892,
+      "word": "刘宇坤50米步枪三姿金牌",
+      "onboard_time": 1722500787,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 6556479,
       "num": 6556479,
       "word": "张博恒全能银牌",
@@ -91,11 +99,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 5069024,
-      "num": 6319024,
-      "word": "刘宇坤50米步枪三姿金牌",
-      "onboard_time": 1722500787,
-      "rank": 1,
+      "raw_hot": 4757864,
+      "num": 4757864,
+      "word": "杨家玉 套圈",
+      "onboard_time": 1722502346,
+      "rank": 3,
       "category": "体育"
     },
     {
@@ -147,6 +155,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3725069,
+      "num": 3725069,
+      "word": "陈梦打了个11比0",
+      "onboard_time": 1722501327,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3598273,
+      "num": 3598273,
+      "word": "中国第10金",
+      "onboard_time": 1722501628,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3450599,
       "num": 3450599,
       "word": "孙颖莎连追6分",
@@ -171,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2951714,
+      "num": 2951714,
+      "word": "杨家玉遥遥领先",
+      "onboard_time": 1722502108,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2847642,
       "num": 2847642,
       "word": "踩坏王楚钦球拍者将面临什么",
@@ -187,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2731157,
+      "num": 792210,
+      "word": "女子20公里竞走",
+      "onboard_time": 1722501747,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2563238,
       "num": 2563238,
       "word": "潘展乐说美国人有点看不起我们",
@@ -200,6 +240,14 @@
       "word": "马琳 暂停",
       "onboard_time": 1722442044,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2480199,
+      "num": 479627,
+      "word": "陈梦进4强",
+      "onboard_time": 1722501808,
+      "rank": 15,
       "category": "体育"
     },
     {
@@ -232,6 +280,14 @@
       "word": "浙A孙杨 浙B汪顺 浙C潘展乐",
       "onboard_time": 1722475945,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2047498,
+      "num": 479312,
+      "word": "一生要盖肚脐的中国人",
+      "onboard_time": 1722503545,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -451,6 +507,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1286162,
+      "num": 473883,
+      "word": "张俊竞走第10",
+      "onboard_time": 1722497723,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1277012,
+      "num": 526676,
+      "word": "竞走比我跑还快",
+      "onboard_time": 1722494603,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1230324,
       "num": 1677005,
       "word": "辅警隐瞒精神病史杀害妻子被判死缓",
@@ -499,6 +571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1174293,
+      "num": 521844,
+      "word": "男子20公里竞走决赛",
+      "onboard_time": 1722492923,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1162316,
       "num": 1162316,
       "word": "潘展乐 世界飞鱼",
@@ -521,6 +601,14 @@
       "onboard_time": 1722435507,
       "rank": 17,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 1125737,
+      "num": 471568,
+      "word": "陈梦光速下班",
+      "onboard_time": 1722502108,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 1000081,
@@ -667,6 +755,14 @@
       "category": "剧集,艺人"
     },
     {
+      "raw_hot": 791969,
+      "num": 791969,
+      "word": "韩国一片烤五花肉26元惹众怒",
+      "onboard_time": 1722501386,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 790488,
       "num": 585044,
       "word": "邓雅文是肖战粉丝",
@@ -755,14 +851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 737665,
-      "num": 737665,
-      "word": "陈梦打了个11比0",
-      "onboard_time": 1722501327,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 737416,
       "num": 537568,
       "word": "省队教练回应谢瑜打完奥运要回省队",
@@ -827,27 +915,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 662990,
-      "num": 400233,
-      "word": "张俊竞走第10",
-      "onboard_time": 1722497723,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 621506,
       "num": 621506,
       "word": "樊振东细节见人品",
       "onboard_time": 1722484407,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 612937,
-      "num": 526676,
-      "word": "竞走比我跑还快",
-      "onboard_time": 1722494603,
-      "rank": 20,
       "category": "体育"
     },
     {
@@ -923,19 +995,19 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 549505,
+      "num": 317436,
+      "word": "杨家玉女子20公里竞走金牌",
+      "onboard_time": 1722503968,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 546446,
       "num": 371615,
       "word": "孙颖莎签名照连教练都拿不到",
       "onboard_time": 1722499764,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 521844,
-      "num": 521844,
-      "word": "男子20公里竞走决赛",
-      "onboard_time": 1722492923,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -1227,11 +1299,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 378626,
+      "num": 476907,
+      "word": "邬家楷喜欢全红婵",
+      "onboard_time": 1722501448,
+      "rank": 49,
+      "category": "电影,体育"
+    },
+    {
       "raw_hot": 378561,
       "num": 1162803,
       "word": "哈马斯一领导人披露哈尼亚遇袭细节",
       "onboard_time": 1722474505,
       "rank": 46,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 373365,
+      "num": 382361,
+      "word": "哈尼亚身亡后以总理首次发声",
+      "onboard_time": 1722494663,
+      "rank": 24,
       "category": "国外时政"
     },
     {
@@ -1283,28 +1371,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 336757,
-      "num": 382361,
-      "word": "哈尼亚身亡后以总理首次发声",
-      "onboard_time": 1722494663,
-      "rank": 24,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 332356,
-      "num": 332356,
-      "word": "韩国一片烤五花肉26元惹众怒",
-      "onboard_time": 1722501386,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 331181,
       "num": 876242,
       "word": "老费我呀再也不是一个人啦",
       "onboard_time": 1722483805,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 326771,
+      "num": 326771,
+      "word": "日本首相隔着防弹面板接受采访",
+      "onboard_time": 1722498624,
+      "rank": 33,
+      "category": "国外时政"
     },
     {
       "raw_hot": 322009,
@@ -1331,6 +1411,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 316639,
+      "num": 316639,
+      "word": "以色列总理称毁灭性打击伊朗代理人",
+      "onboard_time": 1722501147,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 308858,
+      "num": 468920,
+      "word": "娜扎感恩遇见胡歌刘诗诗",
+      "onboard_time": 1722501087,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 307721,
+      "num": 775250,
+      "word": "女子深夜遭酒店房东猥亵",
+      "onboard_time": 1722499222,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 307498,
       "num": 307498,
       "word": "方力申 有效采访",
@@ -1352,14 +1456,6 @@
       "word": "温州网红交警子颜离职",
       "onboard_time": 1722472587,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 298425,
-      "num": 775250,
-      "word": "女子深夜遭酒店房东猥亵",
-      "onboard_time": 1722499222,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1435,20 +1531,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 283595,
+      "num": 283595,
+      "word": "公孙离离恨烟水墨皮肤",
+      "onboard_time": 1722503845,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 282842,
       "num": 282842,
       "word": "张雨霏200蝶小组第一",
       "onboard_time": 1722453074,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 277958,
-      "num": 277958,
-      "word": "以色列总理称毁灭性打击伊朗代理人",
-      "onboard_time": 1722501147,
-      "rank": 48,
-      "category": "国外时政"
     },
     {
       "raw_hot": 274319,
@@ -1483,14 +1579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 266275,
-      "num": 277469,
-      "word": "邬家楷喜欢全红婵",
-      "onboard_time": 1722501448,
-      "rank": 49,
-      "category": "电影,体育"
-    },
-    {
       "raw_hot": 266109,
       "num": 595404,
       "word": "三三未婚先孕",
@@ -1513,14 +1601,6 @@
       "onboard_time": 1722494184,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 253269,
-      "num": 310979,
-      "word": "娜扎感恩遇见胡歌刘诗诗",
-      "onboard_time": 1722501087,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 250360,
@@ -1723,6 +1803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190762,
+      "num": 1344076,
+      "word": "伊朗的报复或在周末来临",
+      "onboard_time": 1722499222,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 188333,
       "num": 274043,
       "word": "广东发生重大刑案嫌疑人被抓获",
@@ -1843,6 +1931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157372,
+      "num": 792319,
+      "word": "贵州烟草局回应招聘专业为体育相关",
+      "onboard_time": 1722502827,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156093,
       "num": 563733,
       "word": "谢兴阳 看奥运的正确打开方式",
@@ -1868,7 +1964,7 @@
     },
     {
       "raw_hot": 143324,
-      "num": 408669,
+      "num": 5192909,
       "word": "中国军人站在那里就是安心",
       "onboard_time": 1722467600,
       "rank": 33,
@@ -1955,14 +2051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104429,
-      "num": 1344076,
-      "word": "伊朗的报复或在周末来临",
-      "onboard_time": 1722499222,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 98891,
       "num": 145716,
       "word": "雅思组合进4强",
@@ -2019,6 +2107,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 69278,
+      "num": 467543,
+      "word": "我们为何要为没有奖牌的中国女橄欢呼",
+      "onboard_time": 1722503907,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68200,
       "num": 884828,
       "word": "谢谢人民子弟兵给的安全感",
@@ -2073,6 +2169,14 @@
       "onboard_time": 1722452534,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 40828,
+      "num": 326087,
+      "word": "盘点历届奥运元老",
+      "onboard_time": 1722503187,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 37315,
