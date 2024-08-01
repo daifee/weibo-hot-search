@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1722482571999,
+  "endTime": 1722483409380,
   "band_list": [
     {
       "raw_hot": 15653750,
@@ -107,19 +107,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3381214,
+      "num": 3381214,
+      "word": "潘展乐拒绝在国旗上签名",
+      "onboard_time": 1722479905,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3192027,
       "num": 3192027,
       "word": "郑钦文晋级奥运四强",
       "onboard_time": 1722439468,
       "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 3173396,
-      "num": 3173396,
-      "word": "潘展乐拒绝在国旗上签名",
-      "onboard_time": 1722479905,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -185,6 +185,14 @@
       "onboard_time": 1722468264,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1817539,
+      "num": 1183907,
+      "word": "比黄子韬官宣恋情水花还大",
+      "onboard_time": 1722482126,
+      "rank": 11,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 1796446,
@@ -331,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1222585,
+      "num": 1222585,
+      "word": "孙颖莎实力好恐怖啊",
+      "onboard_time": 1722478164,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1221767,
       "num": 816492,
       "word": "樊振东火速进8强",
@@ -347,14 +363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1177465,
-      "num": 1177465,
-      "word": "比黄子韬官宣恋情水花还大",
-      "onboard_time": 1722482126,
-      "rank": 11,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 1162316,
       "num": 1162316,
       "word": "潘展乐 世界飞鱼",
@@ -368,14 +376,6 @@
       "word": "樊振东vs贾哈",
       "onboard_time": 1722456373,
       "rank": 10,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 997131,
-      "num": 997131,
-      "word": "孙颖莎实力好恐怖啊",
-      "onboard_time": 1722478164,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -468,11 +468,27 @@
     },
     {
       "raw_hot": 899713,
-      "num": 1190161,
+      "num": 1216968,
       "word": "刘诗诗潘展乐同框合照",
       "onboard_time": 1722478164,
       "rank": 8,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 869066,
+      "num": 869066,
+      "word": "咆哮女解说是谁",
+      "onboard_time": 1722478405,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 841437,
+      "num": 841437,
+      "word": "潘展乐凭什么打破世界纪录夺得冠军",
+      "onboard_time": 1722482426,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 790488,
@@ -571,27 +587,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 679406,
+      "num": 679406,
+      "word": "谢谢你们守护大好河山万家灯火",
+      "onboard_time": 1722449479,
+      "rank": 47,
+      "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 677574,
+      "num": 677574,
+      "word": "全红婵说黄子韬又搞笑又帅",
+      "onboard_time": 1722471627,
+      "rank": 42,
+      "category": "体育,综艺"
+    },
+    {
       "raw_hot": 666917,
       "num": 565133,
       "word": "全红婵罕见的炸鱼名场面",
       "onboard_time": 1722428125,
       "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 666495,
-      "num": 500521,
-      "word": "潘展乐凭什么打破世界纪录夺得冠军",
-      "onboard_time": 1722482426,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 653637,
-      "num": 653637,
-      "word": "咆哮女解说是谁",
-      "onboard_time": 1722478405,
-      "rank": 26,
       "category": "体育"
     },
     {
@@ -609,14 +625,6 @@
       "onboard_time": 1722464055,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 604219,
-      "num": 604219,
-      "word": "全红婵说黄子韬又搞笑又帅",
-      "onboard_time": 1722471627,
-      "rank": 42,
-      "category": "体育,综艺"
     },
     {
       "raw_hot": 600742,
@@ -659,8 +667,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 560657,
+      "num": 560657,
+      "word": "王楚钦球拍",
+      "onboard_time": 1722481886,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 552807,
-      "num": 1297864,
+      "num": 2022806,
       "word": "解放军建军97周年",
       "onboard_time": 1722472048,
       "rank": 12,
@@ -739,8 +755,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 441340,
-      "num": 441340,
+      "raw_hot": 452352,
+      "num": 1007743,
+      "word": "韩国拍的福宝电影定档",
+      "onboard_time": 1722480264,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 450324,
+      "num": 450324,
       "word": "有选手游完塞纳河吐了",
       "onboard_time": 1722477505,
       "rank": 39,
@@ -753,6 +777,14 @@
       "onboard_time": 1722466580,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 439745,
+      "num": 439745,
+      "word": "四川地震",
+      "onboard_time": 1722482965,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 439347,
@@ -768,14 +800,6 @@
       "word": "马龙 男单名额",
       "onboard_time": 1722417763,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 435663,
-      "num": 425366,
-      "word": "王楚钦球拍",
-      "onboard_time": 1722481886,
-      "rank": 36,
       "category": "体育"
     },
     {
@@ -809,14 +833,6 @@
       "onboard_time": 1722478645,
       "rank": 34,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 410654,
-      "num": 1007743,
-      "word": "韩国拍的福宝电影定档",
-      "onboard_time": 1722480264,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 405095,
@@ -875,14 +891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 373852,
-      "num": 373852,
-      "word": "谢谢你们守护大好河山万家灯火",
-      "onboard_time": 1722449479,
-      "rank": 47,
-      "category": "社会新闻,军事"
-    },
-    {
       "raw_hot": 368351,
       "num": 368351,
       "word": "美国女排vs塞尔维亚女排",
@@ -923,12 +931,28 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 325047,
+      "num": 1206554,
+      "word": "伊朗下令直接打击以色列",
+      "onboard_time": 1722482126,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 318830,
       "num": 1014492,
       "word": "鱿鱼游戏2定档",
       "onboard_time": 1722473129,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 317919,
+      "num": 317919,
+      "word": "张雨霏决战女子200米蝶泳",
+      "onboard_time": 1722483385,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 304712,
@@ -1283,14 +1307,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 133191,
-      "num": 1181568,
-      "word": "伊朗下令直接打击以色列",
-      "onboard_time": 1722482126,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 124500,
       "num": 124500,
       "word": "全红婵跑过去亲郭晶晶真的很甜",
@@ -1355,6 +1371,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91544,
+      "num": 1007909,
+      "word": "要啥店子自己开",
+      "onboard_time": 1722481345,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 80726,
+      "num": 463153,
+      "word": "中国军人用行动诠释忠诚",
+      "onboard_time": 1722482905,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80022,
+      "num": 1008510,
+      "word": "暗杀或给巴以冲突带来颠覆性影响",
+      "onboard_time": 1722481886,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 68200,
       "num": 884828,
       "word": "谢谢人民子弟兵给的安全感",
@@ -1371,28 +1411,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 62229,
-      "num": 1007909,
-      "word": "要啥店子自己开",
-      "onboard_time": 1722481345,
-      "rank": 17,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 54782,
       "num": 299011,
       "word": "杨旭文去打架吧跳舞我自有人选",
       "onboard_time": 1722456313,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 44826,
-      "num": 1008510,
-      "word": "暗杀或给巴以冲突带来颠覆性影响",
-      "onboard_time": 1722481886,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 42403,
@@ -1449,6 +1473,9 @@
     },
     {
       "word": "#开创国防和军队现代化新局面#"
+    },
+    {
+      "word": "#建设强大稳固的现代边海空防#"
     }
   ]
 }
