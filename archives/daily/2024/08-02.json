@@ -1,6 +1,6 @@
 {
   "startTime": 1722529527252,
-  "endTime": 1722548084099,
+  "endTime": 1722550732238,
   "band_list": [
     {
       "raw_hot": 37515871,
@@ -131,6 +131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2767045,
+      "num": 2767045,
+      "word": "张本智和发文",
+      "onboard_time": 1722538755,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2677629,
       "num": 2677629,
       "word": "给小胖来十个手抓饼",
@@ -147,6 +155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2479209,
+      "num": 2479209,
+      "word": "王楚钦给樊振东竖大拇指",
+      "onboard_time": 1722542892,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2344910,
       "num": 2344910,
       "word": "林昀儒vsF勒布伦",
@@ -160,14 +176,6 @@
       "word": "孙颖莎进4强",
       "onboard_time": 1722524740,
       "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2161342,
-      "num": 2161342,
-      "word": "张本智和发文",
-      "onboard_time": 1722538755,
-      "rank": 12,
       "category": "体育"
     },
     {
@@ -243,10 +251,10 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1235455,
-      "num": 1235455,
-      "word": "王楚钦给樊振东竖大拇指",
-      "onboard_time": 1722542892,
+      "raw_hot": 1426966,
+      "num": 1426966,
+      "word": "樊振东说整场都非常坚定",
+      "onboard_time": 1722547392,
       "rank": 22,
       "category": "体育"
     },
@@ -307,6 +315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 985880,
+      "num": 985880,
+      "word": "马龙眼眶红了",
+      "onboard_time": 1722539354,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 944039,
       "num": 5884354,
       "word": "海苔咪前男友",
@@ -339,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 860883,
+      "num": 860883,
+      "word": "失利后的张本智和",
+      "onboard_time": 1722539292,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 860172,
       "num": 860172,
       "word": "樊振东湿透的球衣",
@@ -347,15 +371,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 802797,
-      "num": 802797,
-      "word": "马龙眼眶红了",
-      "onboard_time": 1722539354,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 759959,
+      "raw_hot": 832173,
       "num": 603756,
       "word": "梁伟铿偶遇樊振东",
       "onboard_time": 1722542112,
@@ -451,11 +467,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 605452,
-      "num": 605452,
-      "word": "失利后的张本智和",
-      "onboard_time": 1722539292,
-      "rank": 24,
+      "raw_hot": 587607,
+      "num": 483566,
+      "word": "孙颖莎将对阵早田希娜",
+      "onboard_time": 1722540493,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -491,6 +507,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 514366,
+      "num": 304427,
+      "word": "张雨霏病刚好又遇上生理期",
+      "onboard_time": 1722540313,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 514188,
+      "num": 470547,
+      "word": "中国女排3比0法国女排",
+      "onboard_time": 1722545171,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 513038,
       "num": 3789884,
       "word": "全红婵回应为什么喜欢黄子韬",
@@ -504,14 +536,6 @@
       "word": "王楚钦现身训练场",
       "onboard_time": 1722522750,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 483578,
-      "num": 483566,
-      "word": "孙颖莎将对阵早田希娜",
-      "onboard_time": 1722540493,
-      "rank": 40,
       "category": "体育"
     },
     {
@@ -536,14 +560,6 @@
       "word": "潘展乐 赢了不装等于没赢",
       "onboard_time": 1722525758,
       "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 470547,
-      "num": 470547,
-      "word": "中国女排3比0法国女排",
-      "onboard_time": 1722545171,
-      "rank": 15,
       "category": "体育"
     },
     {
@@ -643,28 +659,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 304427,
-      "num": 304427,
-      "word": "张雨霏病刚好又遇上生理期",
-      "onboard_time": 1722540313,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 302859,
       "num": 1150485,
       "word": "剑网3恭喜刘宇坤夺金",
       "onboard_time": 1722514830,
       "rank": 47,
       "category": "游戏,体育"
-    },
-    {
-      "raw_hot": 287802,
-      "num": 287802,
-      "word": "樊振东说整场都非常坚定",
-      "onboard_time": 1722547392,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 275425,
@@ -795,6 +795,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 154730,
+      "num": 135224,
+      "word": "中国女排排名小组第一",
+      "onboard_time": 1722545412,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133708,
       "num": 488287,
       "word": "有的天策在巴陵 有的天策在巴黎",
@@ -803,28 +811,20 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 122647,
-      "num": 1429212,
-      "word": "老公带三娃变老嫂子样样通",
-      "onboard_time": 1722528643,
-      "rank": 29,
-      "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 112838,
-      "num": 112838,
+      "raw_hot": 127714,
+      "num": 127714,
       "word": "张雨霏奥运奖牌超过孙杨",
       "onboard_time": 1722544693,
       "rank": 40,
       "category": "体育"
     },
     {
-      "raw_hot": 111023,
-      "num": 111023,
-      "word": "中国女排排名小组第一",
-      "onboard_time": 1722545412,
-      "rank": 41,
-      "category": "体育"
+      "raw_hot": 122647,
+      "num": 1429212,
+      "word": "老公带三娃变老嫂子样样通",
+      "onboard_time": 1722528643,
+      "rank": 29,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 92719,
@@ -843,20 +843,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 56551,
+      "num": 570715,
+      "word": "刘诗诗给妮可基德曼送刺绣团扇",
+      "onboard_time": 1722539053,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54347,
       "num": 189219,
       "word": "守护甜心",
       "onboard_time": 1722537314,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 38930,
-      "num": 570715,
-      "word": "刘诗诗给妮可基德曼送刺绣团扇",
-      "onboard_time": 1722539053,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 29896,
@@ -867,7 +867,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 15238,
+      "raw_hot": 15313,
       "num": 3984658,
       "word": "两极穿越龙江行",
       "onboard_time": 1722518485,
