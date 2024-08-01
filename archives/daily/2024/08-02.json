@@ -1,6 +1,6 @@
 {
   "startTime": 1722529527252,
-  "endTime": 1722543709851,
+  "endTime": 1722544592758,
   "band_list": [
     {
       "raw_hot": 37515871,
@@ -347,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 759959,
+      "num": 574582,
+      "word": "梁伟铿偶遇樊振东",
+      "onboard_time": 1722542112,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 705078,
       "num": 705078,
       "word": "邱祺缘掉杠",
@@ -411,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 623794,
+      "num": 623794,
+      "word": "王楚钦给樊振东竖大拇指",
+      "onboard_time": 1722542892,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 622219,
       "num": 622219,
       "word": "泰勒斯威夫特超话大咖",
@@ -427,19 +443,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 607267,
+      "num": 1451132,
+      "word": "中国女排vs法国女排",
+      "onboard_time": 1722538933,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 605452,
       "num": 605452,
       "word": "失利后的张本智和",
       "onboard_time": 1722539292,
       "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 588665,
-      "num": 488201,
-      "word": "梁伟铿偶遇樊振东",
-      "onboard_time": 1722542112,
-      "rank": 10,
       "category": "体育"
     },
     {
@@ -483,19 +499,19 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 493871,
-      "num": 1451132,
-      "word": "中国女排vs法国女排",
-      "onboard_time": 1722538933,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 488326,
       "num": 488326,
       "word": "王楚钦现身训练场",
       "onboard_time": 1722522750,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 483578,
+      "num": 483566,
+      "word": "孙颖莎将对阵早田希娜",
+      "onboard_time": 1722540493,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -523,14 +539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 469751,
-      "num": 483566,
-      "word": "孙颖莎将对阵早田希娜",
-      "onboard_time": 1722540493,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 464109,
       "num": 464109,
       "word": "王欣瑜险些订机票回国",
@@ -547,11 +555,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 449327,
-      "num": 449327,
-      "word": "王楚钦给樊振东竖大拇指",
-      "onboard_time": 1722542892,
-      "rank": 22,
+      "raw_hot": 432890,
+      "num": 478853,
+      "word": "汪顺进200米个人混合泳决赛",
+      "onboard_time": 1722543014,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -560,14 +568,6 @@
       "word": "何冰娇晋级奥运八强",
       "onboard_time": 1722534199,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 419473,
-      "num": 478853,
-      "word": "汪顺进200米个人混合泳决赛",
-      "onboard_time": 1722543014,
-      "rank": 18,
       "category": "体育"
     },
     {
@@ -585,6 +585,14 @@
       "onboard_time": 1722520827,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 390241,
+      "num": 236662,
+      "word": "中国女排锁定八强",
+      "onboard_time": 1722544152,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 365697,
@@ -691,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237056,
+      "num": 237056,
+      "word": "中国女排2比0法国女排",
+      "onboard_time": 1722542712,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229461,
       "num": 509492,
       "word": "天策府有奥运冠军",
@@ -707,16 +723,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 221687,
-      "num": 221687,
-      "word": "中国女排2比0法国女排",
-      "onboard_time": 1722542712,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 215237,
-      "num": 215237,
+      "num": 374512,
       "word": "中国女排1比0法国女排",
       "onboard_time": 1722541272,
       "rank": 38,
@@ -728,6 +736,14 @@
       "word": "张雨霏说身体右边都是麻掉的",
       "onboard_time": 1722540313,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 208806,
+      "num": 658862,
+      "word": "中国女子4×200自由泳接力铜牌",
+      "onboard_time": 1722543792,
+      "rank": 4,
       "category": "体育"
     },
     {
