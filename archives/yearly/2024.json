@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1722525677474,
+  "endTime": 1722526492474,
   "band_list": [
     {
       "raw_hot": 33113456,
@@ -8,6 +8,14 @@
       "word": "王楚钦爆冷出局",
       "onboard_time": 1722416335,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 29138610,
+      "num": 29138610,
+      "word": "樊振东vs张本智和",
+      "onboard_time": 1711774997,
+      "rank": 13,
       "category": "体育"
     },
     {
@@ -65,14 +73,6 @@
       "onboard_time": 1710208890,
       "rank": 40,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 19924192,
-      "num": 19924192,
-      "word": "樊振东vs张本智和",
-      "onboard_time": 1711774997,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 19712879,
@@ -1075,6 +1075,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 8457782,
+      "num": 8457782,
+      "word": "奥组委调查王楚钦球拍被踩事件",
+      "onboard_time": 1722523890,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 8425767,
       "num": 8425767,
       "word": "国考查成绩 打不开网站",
@@ -1635,14 +1643,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 6764866,
-      "num": 6764866,
-      "word": "奥组委调查王楚钦球拍被踩事件",
-      "onboard_time": 1722523890,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 6718022,
       "num": 7968022,
       "word": "华春莹任外交部副部长",
@@ -1969,6 +1969,14 @@
       "onboard_time": 1705161821,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 5661749,
+      "num": 5661749,
+      "word": "樊振东状态",
+      "onboard_time": 1722525947,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 5594824,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1721641343,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 4596785,
-      "num": 4596785,
-      "word": "马龙 男单名额",
-      "onboard_time": 1722417763,
-      "rank": 18,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
