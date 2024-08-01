@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1722496721536,
+  "endTime": 1722497709033,
   "band_list": [
     {
       "raw_hot": 15653750,
@@ -99,8 +99,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 4085815,
-      "num": 4085815,
+      "raw_hot": 4491224,
+      "num": 4491224,
       "word": "潘展乐脱粉回踩查尔莫斯",
       "onboard_time": 1722493883,
       "rank": 7,
@@ -147,19 +147,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2847642,
+      "num": 2847642,
+      "word": "踩坏王楚钦球拍者将面临什么",
+      "onboard_time": 1722494723,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2842461,
       "num": 2842461,
       "word": "肖若腾全能铜牌",
       "onboard_time": 1722449907,
       "rank": 6,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2563675,
-      "num": 2563675,
-      "word": "踩坏王楚钦球拍者将面临什么",
-      "onboard_time": 1722494723,
-      "rank": 3,
       "category": "体育"
     },
     {
@@ -259,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1786869,
+      "num": 1786869,
+      "word": "吴艳妮出征巴黎奥运会",
+      "onboard_time": 1722493944,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1782156,
       "num": 1782156,
       "word": "肖若腾好稳",
@@ -272,14 +280,6 @@
       "word": "桥本大辉又掉马了",
       "onboard_time": 1722443246,
       "rank": 16,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1760129,
-      "num": 1760129,
-      "word": "吴艳妮出征巴黎奥运会",
-      "onboard_time": 1722493944,
-      "rank": 31,
       "category": "体育"
     },
     {
@@ -540,7 +540,7 @@
     },
     {
       "raw_hot": 934765,
-      "num": 489121,
+      "num": 642033,
       "word": "最孤独的奥运冠军",
       "onboard_time": 1722494063,
       "rank": 30,
@@ -675,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 737416,
+      "num": 537568,
+      "word": "省队教练回应谢瑜打完奥运要回省队",
+      "onboard_time": 1722493702,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 736820,
       "num": 1106464,
       "word": "荣梓杉田嘉瑞 观众席",
@@ -731,19 +739,27 @@
       "category": "体育"
     },
     {
-      "raw_hot": 642915,
-      "num": 483467,
-      "word": "省队教练回应谢瑜打完奥运要回省队",
-      "onboard_time": 1722493702,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 621506,
       "num": 621506,
       "word": "樊振东细节见人品",
       "onboard_time": 1722484407,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 613235,
+      "num": 531911,
+      "word": "朝鲜混双组合正效力重庆职业队",
+      "onboard_time": 1722495984,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 612937,
+      "num": 526676,
+      "word": "竞走比我跑还快",
+      "onboard_time": 1722494603,
+      "rank": 20,
       "category": "体育"
     },
     {
@@ -777,6 +793,14 @@
       "onboard_time": 1722472467,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 589152,
+      "num": 589152,
+      "word": "一家三口均被确诊精神疾病",
+      "onboard_time": 1722495743,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 587464,
@@ -819,6 +843,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 521844,
+      "num": 521844,
+      "word": "男子20公里竞走决赛",
+      "onboard_time": 1722492923,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 521584,
       "num": 1007499,
       "word": "花少团晒奥运现场照",
@@ -848,14 +880,6 @@
       "word": "潘展乐说金牌献给伟大祖国",
       "onboard_time": 1722468744,
       "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 502094,
-      "num": 480058,
-      "word": "竞走比我跑还快",
-      "onboard_time": 1722494603,
-      "rank": 20,
       "category": "体育"
     },
     {
@@ -1067,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 387479,
+      "num": 387479,
+      "word": "阿条姐竟然是近视",
+      "onboard_time": 1722497124,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 383215,
       "num": 383215,
       "word": "潘展乐19岁拿大满贯",
@@ -1083,12 +1115,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 373669,
-      "num": 373669,
-      "word": "朝鲜混双组合正效力重庆职业队",
-      "onboard_time": 1722495984,
-      "rank": 25,
-      "category": "体育"
+      "raw_hot": 372614,
+      "num": 529884,
+      "word": "纪凌尘烧39度拍完戏立马倒下",
+      "onboard_time": 1722496402,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 368351,
@@ -1123,20 +1155,20 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 343729,
-      "num": 343729,
-      "word": "男子20公里竞走决赛",
-      "onboard_time": 1722492923,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 336757,
+      "num": 382361,
+      "word": "哈尼亚身亡后以总理首次发声",
+      "onboard_time": 1722494663,
+      "rank": 24,
+      "category": "国外时政"
     },
     {
-      "raw_hot": 333009,
-      "num": 476840,
-      "word": "一家三口均被确诊精神疾病",
-      "onboard_time": 1722495743,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 335983,
+      "num": 389332,
+      "word": "于正 他们不是情侣是姐弟",
+      "onboard_time": 1722497124,
+      "rank": 26,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 331181,
@@ -1169,14 +1201,6 @@
       "onboard_time": 1722483385,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 311209,
-      "num": 382361,
-      "word": "哈尼亚身亡后以总理首次发声",
-      "onboard_time": 1722494663,
-      "rank": 24,
-      "category": "国外时政"
     },
     {
       "raw_hot": 307498,
@@ -1284,7 +1308,7 @@
     },
     {
       "raw_hot": 270100,
-      "num": 363251,
+      "num": 387989,
       "word": "孤舟定档",
       "onboard_time": 1722493462,
       "rank": 28,
@@ -1315,14 +1339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 251894,
-      "num": 361844,
-      "word": "纪凌尘烧39度拍完戏立马倒下",
-      "onboard_time": 1722496402,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 250360,
       "num": 1045970,
       "word": "英国破产",
@@ -1344,6 +1360,22 @@
       "word": "冲这点王楚钦一定会东山再起",
       "onboard_time": 1722496282,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 242912,
+      "num": 242912,
+      "word": "被韩国人看我们国家跳水的反应笑晕",
+      "onboard_time": 1722496944,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 238266,
+      "num": 238266,
+      "word": "樊振东就这么水灵灵地吃上了",
+      "onboard_time": 1722497365,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -1433,6 +1465,14 @@
       "onboard_time": 1722440905,
       "rank": 29,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 208207,
+      "num": 490527,
+      "word": "今夏最开心的是摆脱不穿内衣的羞耻",
+      "onboard_time": 1722495624,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207968,
@@ -1755,16 +1795,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 81871,
-      "num": 490527,
-      "word": "今夏最开心的是摆脱不穿内衣的羞耻",
-      "onboard_time": 1722495624,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 80726,
-      "num": 463153,
+      "num": 3493129,
       "word": "中国军人用行动诠释忠诚",
       "onboard_time": 1722482905,
       "rank": 35,
@@ -1784,6 +1816,14 @@
       "word": "村支书违规批宅基地被处分仍建房",
       "onboard_time": 1722484826,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74591,
+      "num": 643036,
+      "word": "骑共享单车比坐地铁还贵",
+      "onboard_time": 1722496822,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1809,6 +1849,14 @@
       "onboard_time": 1722456313,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 50189,
+      "num": 298280,
+      "word": "享界S9车位到车位智驾实测",
+      "onboard_time": 1722497244,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 42403,
@@ -1857,6 +1905,14 @@
       "onboard_time": 1722488606,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 22598,
+      "num": 387759,
+      "word": "BBC前主播承认购买儿童不雅照指控",
+      "onboard_time": 1722497184,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21498,
