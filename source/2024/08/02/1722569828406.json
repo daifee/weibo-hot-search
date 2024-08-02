@@ -1,0 +1,410 @@
+{
+  "runTime": 1722569828406,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6268361,
+        "num": 6268361,
+        "word": "樊振东下一把得来个十环",
+        "onboard_time": 1722534018,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3957724,
+        "num": 3957724,
+        "word": "许昕回应王楚钦爆冷出局",
+        "onboard_time": 1722564202,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173853,
+        "num": 2601344,
+        "word": "创历史破纪录的后生可畏更可爱",
+        "onboard_time": 1722567983,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1687404,
+        "num": 1687404,
+        "word": "失利后的张本智和",
+        "onboard_time": 1722539292,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1656608,
+        "num": 1656608,
+        "word": "樊振东眼神",
+        "onboard_time": 1722553461,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1379507,
+        "num": 1379507,
+        "word": "张本智和是twice粉丝",
+        "onboard_time": 1722567922,
+        "rank": 5,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 1049906,
+        "num": 1049906,
+        "word": "百花奖提名名单",
+        "onboard_time": 1722568584,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 733640,
+        "num": 733640,
+        "word": "蔡徐坤 格莱美",
+        "onboard_time": 1722554664,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 77834,
+        "num": 726462,
+        "word": "拜登称将帮助以色列应对伊朗威胁",
+        "onboard_time": 1722568823,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 123999,
+        "num": 704756,
+        "word": "湖南郴州台风受灾救灾情况发布会",
+        "onboard_time": 1722568342,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3807393,
+        "num": 680207,
+        "word": "奥组委调查王楚钦球拍被踩事件",
+        "onboard_time": 1722523890,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1183114,
+        "num": 644485,
+        "word": "梁伟铿偶遇樊振东",
+        "onboard_time": 1722542112,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1179027,
+        "num": 626009,
+        "word": "张本智和发文",
+        "onboard_time": 1722538755,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 606347,
+        "num": 606347,
+        "word": "中国第10金",
+        "onboard_time": 1722501628,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 589549,
+        "num": 589549,
+        "word": "贵州烟草局称招体育特长生依法依规",
+        "onboard_time": 1722566962,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 966298,
+        "num": 585733,
+        "word": "乒乓男单四强仅一位亚洲选手",
+        "onboard_time": 1722566543,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 870493,
+        "num": 581929,
+        "word": "马龙眼眶红了",
+        "onboard_time": 1722539354,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 848139,
+        "num": 577812,
+        "word": "樊振东vs张本智和",
+        "onboard_time": 1722522570,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 348210,
+        "num": 571806,
+        "word": "唐诡西行含渣量",
+        "onboard_time": 1722566724,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300050,
+        "num": 566656,
+        "word": "张云龙 演员当下没有话语权",
+        "onboard_time": 1722566182,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1816298,
+        "num": 561159,
+        "word": "王楚钦给樊振东竖大拇指",
+        "onboard_time": 1722542892,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 833326,
+        "num": 552023,
+        "word": "樊振东赛后采访",
+        "onboard_time": 1722532339,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 816652,
+        "num": 549779,
+        "word": "张雨霏回怼外国记者",
+        "onboard_time": 1722555684,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 804794,
+        "num": 541396,
+        "word": "樊振东半决赛对阵F勒布伦",
+        "onboard_time": 1722531743,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268766,
+        "num": 536425,
+        "word": "霉粉大战once",
+        "onboard_time": 1722569542,
+        "rank": 24,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 690084,
+        "num": 532829,
+        "word": "樊振东说整场都非常坚定",
+        "onboard_time": 1722547392,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232352,
+        "num": 527551,
+        "word": "杨幂黑色无袖T",
+        "onboard_time": 1722564623,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 217145,
+        "num": 518554,
+        "word": "百花奖最佳新人提名名单来啦",
+        "onboard_time": 1722566902,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199762,
+        "num": 512991,
+        "word": "度华年庆功宴",
+        "onboard_time": 1722568403,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206141,
+        "num": 508571,
+        "word": "美国女子杀害3岁盲人儿子藏尸冰箱",
+        "onboard_time": 1722569783,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 676377,
+        "num": 505804,
+        "word": "举头望明月 低头思故乡",
+        "onboard_time": 1722550874,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 673397,
+        "num": 499591,
+        "word": "孙颖莎打出3D球",
+        "onboard_time": 1722566303,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 659714,
+        "num": 489954,
+        "word": "张本智和甚至能看懂这个视频",
+        "onboard_time": 1722568463,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 632793,
+        "num": 487788,
+        "word": "霸王茶姬抽奖",
+        "onboard_time": 1722568463,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 353718,
+        "num": 480360,
+        "word": "冷静期杀妻男子家属想用8万元换谅解",
+        "onboard_time": 1722561563,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611329,
+        "num": 476216,
+        "word": "樊振东晋级单打4强",
+        "onboard_time": 1722527558,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 598256,
+        "num": 471777,
+        "word": "樊振东状态",
+        "onboard_time": 1722525947,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 467723,
+        "num": 467723,
+        "word": "孙颖莎将对阵早田希娜",
+        "onboard_time": 1722540493,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 326521,
+        "num": 418779,
+        "word": "教育具有滞后性",
+        "onboard_time": 1722561504,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 382547,
+        "num": 382547,
+        "word": "体操女子个人全能决赛",
+        "onboard_time": 1722529681,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 375660,
+        "num": 375660,
+        "word": "张雨霏病刚好又遇上生理期",
+        "onboard_time": 1722540313,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320507,
+        "num": 320507,
+        "word": "乒乓球赛程",
+        "onboard_time": 1722569183,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 319240,
+        "num": 319240,
+        "word": "八月狗屎运最旺的星座",
+        "onboard_time": 1722567622,
+        "rank": 42,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 310785,
+        "num": 310785,
+        "word": "南京银行人均月薪4.66万元",
+        "onboard_time": 1722566003,
+        "rank": 43,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 296568,
+        "num": 296568,
+        "word": "中国女留学生被威胁到泰国自拍被绑",
+        "onboard_time": 1722564262,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29062,
+        "num": 292689,
+        "word": "雅思组合巴黎逐梦",
+        "onboard_time": 1722569542,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289523,
+        "num": 289523,
+        "word": "iPhone16发布时间曝光",
+        "onboard_time": 1722564924,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 278692,
+        "num": 278692,
+        "word": "朱志鑫方声明",
+        "onboard_time": 1722569724,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183861,
+        "num": 274617,
+        "word": "赵露思和爸爸车上自拍",
+        "onboard_time": 1722554182,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272193,
+        "num": 272193,
+        "word": "体操",
+        "onboard_time": 1722568705,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航强军向复兴#"
+    }
+  }
+}
