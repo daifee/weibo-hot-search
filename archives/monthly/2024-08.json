@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1722630090335,
+  "endTime": 1722630886380,
   "band_list": [
     {
       "raw_hot": 37515871,
@@ -3803,6 +3803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 408937,
+      "num": 408937,
+      "word": "张之臻王欣瑜 失误",
+      "onboard_time": 1722629232,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 407476,
       "num": 303806,
       "word": "陈梦反超了",
@@ -4451,14 +4459,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 312068,
-      "num": 285311,
-      "word": "张之臻王欣瑜 失误",
-      "onboard_time": 1722629232,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 311848,
       "num": 515071,
       "word": "阿如那 饿很久了",
@@ -4707,6 +4707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 290608,
+      "num": 290608,
+      "word": "张之臻王欣瑜0比1落后",
+      "onboard_time": 1722629472,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 289969,
       "num": 534454,
       "word": "奎八",
@@ -4772,7 +4780,7 @@
     },
     {
       "raw_hot": 286719,
-      "num": 286719,
+      "num": 337765,
       "word": "叶诗文无缘200混决赛",
       "onboard_time": 1722628453,
       "rank": 8,
@@ -4785,14 +4793,6 @@
       "onboard_time": 1722590127,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 284530,
-      "num": 284530,
-      "word": "张之臻王欣瑜0比1落后",
-      "onboard_time": 1722629472,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 284218,
@@ -5121,6 +5121,14 @@
       "onboard_time": 1722478884,
       "rank": 47,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 244419,
+      "num": 232577,
+      "word": "张之臻王欣瑜 享受比赛",
+      "onboard_time": 1722630013,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 244325,
@@ -5563,6 +5571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 191787,
+      "num": 191787,
+      "word": "汪顺可能比完了自己最后一场200混",
+      "onboard_time": 1722629892,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191391,
       "num": 191391,
       "word": "陈雨菲进8强",
@@ -5651,6 +5667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181618,
+      "num": 333382,
+      "word": "余依婷进200米混合泳决赛",
+      "onboard_time": 1722628453,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181550,
       "num": 140087,
       "word": "张本智和进8强",
@@ -5673,14 +5697,6 @@
       "onboard_time": 1722575244,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 177884,
-      "num": 177884,
-      "word": "汪顺可能比完了自己最后一场200混",
-      "onboard_time": 1722629892,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 176804,
@@ -5712,14 +5728,6 @@
       "word": "孙颖莎逆转",
       "onboard_time": 1722455234,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 172585,
-      "num": 286561,
-      "word": "余依婷进200米混合泳决赛",
-      "onboard_time": 1722628453,
-      "rank": 9,
       "category": "体育"
     },
     {
@@ -5865,14 +5873,6 @@
       "onboard_time": 1722467600,
       "rank": 33,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 143277,
-      "num": 143277,
-      "word": "张之臻王欣瑜 享受比赛",
-      "onboard_time": 1722630013,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 140661,
@@ -6633,6 +6633,14 @@
       "onboard_time": 1722497184,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21678,
+      "num": 99435,
+      "word": "张杰鸟巢明天开唱",
+      "onboard_time": 1722627132,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 21498,
