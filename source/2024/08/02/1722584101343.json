@@ -1,0 +1,410 @@
+{
+  "runTime": 1722584101343,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3324972,
+        "num": 3324972,
+        "word": "对方支付500万但没说是奥运会",
+        "onboard_time": 1722579983,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3067227,
+        "num": 3067227,
+        "word": "潘展乐让澳洲教练恼羞成怒",
+        "onboard_time": 1722580943,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11478,
+        "num": 1727019,
+        "word": "我国成功发射卫星互联网高轨卫星",
+        "onboard_time": 1722526777,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1425244,
+        "num": 1425244,
+        "word": "张本智和说樊振东拿金牌对他是安慰",
+        "onboard_time": 1722570863,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1284967,
+        "num": 1284967,
+        "word": "樊振东27岁正是拿大满贯的年纪",
+        "onboard_time": 1722581183,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 998724,
+        "num": 998724,
+        "word": "莎头 国乒首对混双大满贯",
+        "onboard_time": 1722575244,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 993314,
+        "num": 993314,
+        "word": "孙颖莎说不能让比赛往2比1发展",
+        "onboard_time": 1722571943,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 760175,
+        "num": 760175,
+        "word": "孟子义转发",
+        "onboard_time": 1722573503,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 687131,
+        "num": 687131,
+        "word": "阿如那 尴尬",
+        "onboard_time": 1722578784,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28290,
+        "num": 678942,
+        "word": "驾驶员被要求报800一小时陪驾课程",
+        "onboard_time": 1722583823,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1664113,
+        "num": 636483,
+        "word": "奥组委调查王楚钦球拍被踩事件",
+        "onboard_time": 1722523890,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1090415,
+        "num": 622931,
+        "word": "Kimi14岁身高",
+        "onboard_time": 1722578544,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 856063,
+        "num": 581016,
+        "word": "樊振东下一把得来个十环",
+        "onboard_time": 1722534018,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 572751,
+        "num": 572751,
+        "word": "杜海涛 我做梦都想回芒果录节目",
+        "onboard_time": 1722581482,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 477784,
+        "num": 477784,
+        "word": "哈里斯误称自己是美国总统",
+        "onboard_time": 1722576682,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 809366,
+        "num": 476997,
+        "word": "陈梦vs申裕斌",
+        "onboard_time": 1722583045,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 805622,
+        "num": 476297,
+        "word": "凡尘组合vs乐蒂组合",
+        "onboard_time": 1722580163,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 372258,
+        "num": 476063,
+        "word": "徐海乔 我可是刘亦菲的前夫哥",
+        "onboard_time": 1722578303,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315689,
+        "num": 474825,
+        "word": "林志玲老公 披哥",
+        "onboard_time": 1722574582,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311954,
+        "num": 473780,
+        "word": "孟子义工作室称是工作人员失误",
+        "onboard_time": 1722578662,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 987092,
+        "num": 473161,
+        "word": "男子得热射病吐血成植物人住进ICU",
+        "onboard_time": 1722577704,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 743800,
+        "num": 472657,
+        "word": "王楚钦给樊振东竖大拇指",
+        "onboard_time": 1722542892,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 593776,
+        "num": 471473,
+        "word": "张本智和甚至能看懂这个视频",
+        "onboard_time": 1722568463,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 581900,
+        "num": 470847,
+        "word": "樊振东比赛收视率",
+        "onboard_time": 1722570863,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53922,
+        "num": 470130,
+        "word": "易烊千玺穿越沙漠",
+        "onboard_time": 1722578963,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 502256,
+        "num": 468955,
+        "word": "福原爱谈主副拍差距有多大",
+        "onboard_time": 1722581963,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303401,
+        "num": 468654,
+        "word": "石凯 替父斩棘",
+        "onboard_time": 1722583823,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300167,
+        "num": 467704,
+        "word": "孟子义方包场致歉",
+        "onboard_time": 1722582082,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26022,
+        "num": 466725,
+        "word": "华人女生顶替身份成菲律宾市长",
+        "onboard_time": 1722583523,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40255,
+        "num": 465655,
+        "word": "专业泳衣比普通泳衣专业在哪",
+        "onboard_time": 1722582324,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 465453,
+        "num": 465453,
+        "word": "国乒梯队建设",
+        "onboard_time": 1722578603,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 456469,
+        "num": 456469,
+        "word": "梁王教练好损",
+        "onboard_time": 1722574224,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 442538,
+        "num": 442538,
+        "word": "官方通报山东一养殖场发现炭疽病例",
+        "onboard_time": 1722577889,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437546,
+        "num": 437546,
+        "word": "王昶秒换球拍",
+        "onboard_time": 1722582804,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 408868,
+        "num": 408868,
+        "word": "运动员尿检时需要当面尿",
+        "onboard_time": 1722569963,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 386992,
+        "num": 386992,
+        "word": "香蕉拜年 辣椒求雨 番茄打拳",
+        "onboard_time": 1722582384,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201887,
+        "num": 380801,
+        "word": "倒卖高校参观票成了黑色产业链",
+        "onboard_time": 1722582023,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375516,
+        "num": 375516,
+        "word": "王楚钦笑了",
+        "onboard_time": 1722570143,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 367028,
+        "num": 367028,
+        "word": "粉丝让王楚钦签名在爱马仕上",
+        "onboard_time": 1722570684,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 342929,
+        "num": 342929,
+        "word": "许昕回应王楚钦爆冷出局",
+        "onboard_time": 1722564202,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 334778,
+        "num": 334778,
+        "word": "山东回应疑发现畜间炭疽阳性",
+        "onboard_time": 1722576863,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283266,
+        "num": 283266,
+        "word": "by2腰身比",
+        "onboard_time": 1722583523,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 309743,
+        "num": 283128,
+        "word": "许昕看孙颖莎vs许昕看樊振东",
+        "onboard_time": 1722576682,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279753,
+        "num": 279753,
+        "word": "00后男孩从贵州山村走向最高领奖台",
+        "onboard_time": 1722581963,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151014,
+        "num": 273563,
+        "word": "清华学子提供串标证据链是否真实",
+        "onboard_time": 1722582023,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270901,
+        "num": 270901,
+        "word": "原来孙颖莎大学还没有毕业",
+        "onboard_time": 1722583282,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262817,
+        "num": 262817,
+        "word": "权志龙 演唱会",
+        "onboard_time": 1722583703,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 248425,
+        "num": 248425,
+        "word": "原神",
+        "onboard_time": 1722584002,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 248294,
+        "num": 248294,
+        "word": "举头望明月 低头思故乡",
+        "onboard_time": 1722550874,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54113,
+        "num": 246631,
+        "word": "雷军现身纽北",
+        "onboard_time": 1722579923,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航强军向复兴#"
+    }
+  }
+}
