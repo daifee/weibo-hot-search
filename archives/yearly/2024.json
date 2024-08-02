@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1722609384112,
+  "endTime": 1722612089360,
   "band_list": [
     {
       "raw_hot": 37515871,
@@ -1675,6 +1675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 7078115,
+      "num": 7078115,
+      "word": "雅思组合vs金银组合",
+      "onboard_time": 1722607228,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 7018945,
       "num": 8268945,
       "word": "苟仲文涉嫌严重违纪违法",
@@ -1912,6 +1920,14 @@
       "word": "国乒女团六连冠",
       "onboard_time": 1708786004,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 6164139,
+      "num": 6876042,
+      "word": "雅思组合混双奥运金牌",
+      "onboard_time": 1722610593,
+      "rank": 2,
       "category": "体育"
     },
     {
@@ -2385,22 +2401,6 @@
       "onboard_time": 1717715355,
       "rank": 0,
       "category": "教育"
-    },
-    {
-      "raw_hot": 4878022,
-      "num": 4878022,
-      "word": "金星复婚",
-      "onboard_time": 1712814498,
-      "rank": 0,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 4849154,
-      "num": 4849154,
-      "word": "张本智和早田希娜开局被打6比0",
-      "onboard_time": 1722092843,
-      "rank": 4,
-      "category": "体育"
     }
   ],
   "hotgov_list": [

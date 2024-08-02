@@ -1,0 +1,410 @@
+{
+  "runTime": 1722612089360,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7613796,
+        "num": 7613796,
+        "word": "小莫打疯了",
+        "onboard_time": 1722603987,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7078115,
+        "num": 7078115,
+        "word": "雅思组合vs金银组合",
+        "onboard_time": 1722607228,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6164139,
+        "num": 6876042,
+        "word": "雅思组合混双奥运金牌",
+        "onboard_time": 1722610593,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3718518,
+        "num": 3937037,
+        "word": "中国第13金",
+        "onboard_time": 1722610776,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2559893,
+        "num": 2559893,
+        "word": "日本媒体给樊振东起了新外号",
+        "onboard_time": 1722604166,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2329811,
+        "num": 2329811,
+        "word": "雅思组合把球拍扔给观众",
+        "onboard_time": 1722611667,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 995540,
+        "num": 2022665,
+        "word": "徐海乔 你们俩怎么还蛐蛐我",
+        "onboard_time": 1722608067,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 636338,
+        "num": 1884398,
+        "word": "张杰看大屏上的谢娜",
+        "onboard_time": 1722610593,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1775455,
+        "num": 1775455,
+        "word": "许昕 请问这两张图哪一个更有杀伤力",
+        "onboard_time": 1722598044,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64463,
+        "num": 1751553,
+        "word": "免缴社保协议书没有法律效力",
+        "onboard_time": 1722610833,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1912974,
+        "num": 1750341,
+        "word": "樊振东小莫 小时候我还抱过你",
+        "onboard_time": 1722609387,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1743430,
+        "num": 1743430,
+        "word": "早田希娜哭了",
+        "onboard_time": 1722602071,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 577999,
+        "num": 1682683,
+        "word": "烟草局再回应招聘体育特长生",
+        "onboard_time": 1722601815,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398048,
+        "num": 1643268,
+        "word": "歌手巅峰之夜",
+        "onboard_time": 1722597806,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188918,
+        "num": 1631781,
+        "word": "张艺兴要和潘生一起去百花奖",
+        "onboard_time": 1722610530,
+        "rank": 14,
+        "category": "电影,演出"
+      },
+      {
+        "raw_hot": 1628689,
+        "num": 1628689,
+        "word": "羽毛球混双决赛",
+        "onboard_time": 1722606928,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1625052,
+        "num": 1625052,
+        "word": "梁王组合晋级决赛",
+        "onboard_time": 1722594272,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1492388,
+        "num": 1492388,
+        "word": "黄雅琼 发球的神",
+        "onboard_time": 1722610776,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1434794,
+        "num": 1434794,
+        "word": "郑思维杀球好猛",
+        "onboard_time": 1722610776,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 365379,
+        "num": 1377959,
+        "word": "那英下班",
+        "onboard_time": 1722609625,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1355741,
+        "num": 1355741,
+        "word": "黄雅琼哭了",
+        "onboard_time": 1722611667,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1161481,
+        "num": 1161481,
+        "word": "国乒锁定女单金银牌",
+        "onboard_time": 1722600942,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1116879,
+        "num": 1116879,
+        "word": "樊振东莫雷加德争金",
+        "onboard_time": 1722606928,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1106491,
+        "num": 1106491,
+        "word": "莫雷加德进决赛",
+        "onboard_time": 1722606390,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352827,
+        "num": 1103627,
+        "word": "张杰鸟巢开场四条龙",
+        "onboard_time": 1722608966,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 376787,
+        "num": 1102395,
+        "word": "辛芷蕾 蕾的眼睛就是尺",
+        "onboard_time": 1722609986,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1102022,
+        "num": 1102022,
+        "word": "孙颖莎晋级决赛",
+        "onboard_time": 1722600942,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1019254,
+        "num": 1019254,
+        "word": "伊藤美诚发球",
+        "onboard_time": 1722610225,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 548511,
+        "num": 926520,
+        "word": "陕西桥梁垮塌已确认38人遇难",
+        "onboard_time": 1722601715,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354218,
+        "num": 902359,
+        "word": "烟草局招聘体育特长生需要更多解释",
+        "onboard_time": 1722609625,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 883910,
+        "num": 883910,
+        "word": "梁王组合vs谢苏组合",
+        "onboard_time": 1722587426,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 799260,
+        "num": 799260,
+        "word": "樊振东光速进决赛",
+        "onboard_time": 1722591397,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353109,
+        "num": 786045,
+        "word": "尤长靖说我也是外国人",
+        "onboard_time": 1722594452,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325833,
+        "num": 779035,
+        "word": "孟子义聊天记录",
+        "onboard_time": 1722584964,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 275172,
+        "num": 773845,
+        "word": "裸聊1分钟被敲诈2万元",
+        "onboard_time": 1722603627,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 773194,
+        "num": 773194,
+        "word": "孙颖莎 拧拉的神",
+        "onboard_time": 1722600267,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 762668,
+        "num": 762668,
+        "word": "陈梦赢球后第一件事",
+        "onboard_time": 1722601899,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 729745,
+        "num": 729745,
+        "word": "潘展乐从第7追到了第2",
+        "onboard_time": 1722595466,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 670742,
+        "num": 670742,
+        "word": "孙颖莎关心早田伤势",
+        "onboard_time": 1722602429,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269682,
+        "num": 666012,
+        "word": "陈楚生把0713厚米团唱哭了",
+        "onboard_time": 1722609327,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 665957,
+        "num": 665957,
+        "word": "孙颖莎vs早田希娜",
+        "onboard_time": 1722597145,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 663559,
+        "num": 663559,
+        "word": "潘展乐怒追七仙女",
+        "onboard_time": 1722598107,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 642410,
+        "num": 642410,
+        "word": "孙杨夸潘展乐",
+        "onboard_time": 1722609625,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 606026,
+        "num": 606026,
+        "word": "王昶拍过跑男宣传片",
+        "onboard_time": 1722612029,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 599560,
+        "num": 599560,
+        "word": "许昕解说",
+        "onboard_time": 1722601774,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 503656,
+        "num": 503656,
+        "word": "王皓脸色",
+        "onboard_time": 1722597745,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 472872,
+        "num": 472872,
+        "word": "胡兵现场观战孙颖莎",
+        "onboard_time": 1722599608,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235653,
+        "num": 447743,
+        "word": "齐豫嗓音",
+        "onboard_time": 1722610530,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201464,
+        "num": 432898,
+        "word": "刘昊然从水灵灵到干巴巴",
+        "onboard_time": 1722599006,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193069,
+        "num": 429838,
+        "word": "蔡徐坤生日新歌remedy",
+        "onboard_time": 1722611667,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#深层次改革推动高水平开放#"
+    }
+  }
+}
