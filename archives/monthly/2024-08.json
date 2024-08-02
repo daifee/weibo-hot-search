@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1722584101343,
+  "endTime": 1722587070881,
   "band_list": [
     {
       "raw_hot": 37515871,
@@ -363,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3642751,
+      "num": 3642751,
+      "word": "陈梦vs申裕斌",
+      "onboard_time": 1722583045,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3613942,
       "num": 3613942,
       "word": "申裕斌vs平野美宇",
@@ -443,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3269325,
+      "num": 3269325,
+      "word": "潘展乐让澳洲教练恼羞成怒",
+      "onboard_time": 1722580943,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3260078,
       "num": 3260078,
       "word": "孟子义转发",
@@ -488,14 +504,6 @@
       "word": "男单 紧张",
       "onboard_time": 1722526716,
       "rank": 20,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 3067227,
-      "num": 3067227,
-      "word": "潘展乐让澳洲教练恼羞成怒",
-      "onboard_time": 1722580943,
-      "rank": 35,
       "category": "体育"
     },
     {
@@ -691,6 +699,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2302106,
+      "num": 2302106,
+      "word": "原来孙颖莎大学还没有毕业",
+      "onboard_time": 1722583282,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2287774,
+      "num": 2287774,
+      "word": "孟子义聊天记录",
+      "onboard_time": 1722584964,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2276999,
       "num": 2276999,
       "word": "马龙眼眶红了",
@@ -800,6 +824,14 @@
       "word": "潘展乐金牌痛床",
       "onboard_time": 1722481406,
       "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1871338,
+      "num": 1871338,
+      "word": "王昶秒换球拍",
+      "onboard_time": 1722582804,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -939,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1562089,
+      "num": 1562089,
+      "word": "樊振东27岁正是拿大满贯的年纪",
+      "onboard_time": 1722581183,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1557860,
       "num": 1557860,
       "word": "乒乓男单四强仅一位亚洲选手",
@@ -956,7 +996,7 @@
     },
     {
       "raw_hot": 1541456,
-      "num": 813505,
+      "num": 836082,
       "word": "Kimi14岁身高",
       "onboard_time": 1722578544,
       "rank": 11,
@@ -1128,14 +1168,6 @@
       "word": "张俊竞走第10",
       "onboard_time": 1722497723,
       "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1284967,
-      "num": 1284967,
-      "word": "樊振东27岁正是拿大满贯的年纪",
-      "onboard_time": 1722581183,
-      "rank": 15,
       "category": "体育"
     },
     {
@@ -1395,6 +1427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1021560,
+      "num": 1021560,
+      "word": "凡尘组合晋级决赛",
+      "onboard_time": 1722585265,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 996019,
       "num": 996019,
       "word": "体操直播",
@@ -1651,11 +1691,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 809366,
-      "num": 476997,
-      "word": "陈梦vs申裕斌",
-      "onboard_time": 1722583045,
-      "rank": 45,
+      "raw_hot": 817664,
+      "num": 817664,
+      "word": "女子50米步枪三姿决赛",
+      "onboard_time": 1722585924,
+      "rank": 15,
       "category": "体育"
     },
     {
@@ -1672,6 +1712,14 @@
       "word": "凡尘组合vs乐蒂组合",
       "onboard_time": 1722580163,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 802421,
+      "num": 802421,
+      "word": "贾一凡坐地连打三球",
+      "onboard_time": 1722584845,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -2180,7 +2228,7 @@
     },
     {
       "raw_hot": 572751,
-      "num": 730568,
+      "num": 826450,
       "word": "杜海涛 我做梦都想回芒果录节目",
       "onboard_time": 1722581482,
       "rank": 17,
@@ -2291,6 +2339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 521914,
+      "num": 521914,
+      "word": "圣坛组合vs山羊组合",
+      "onboard_time": 1722584363,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 521584,
       "num": 1007499,
       "word": "花少团晒奥运现场照",
@@ -2305,6 +2361,14 @@
       "onboard_time": 1722537974,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 515743,
+      "num": 733107,
+      "word": "杨幂 腹肌",
+      "onboard_time": 1722584423,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 514615,
@@ -2473,6 +2537,14 @@
       "onboard_time": 1722457692,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 470669,
+      "num": 732753,
+      "word": "石凯 替父斩棘",
+      "onboard_time": 1722583823,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 469192,
@@ -2656,14 +2728,6 @@
       "word": "杨家玉大满贯",
       "onboard_time": 1722505646,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 437546,
-      "num": 437546,
-      "word": "王昶秒换球拍",
-      "onboard_time": 1722582804,
-      "rank": 41,
       "category": "体育"
     },
     {
@@ -2947,6 +3011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 360206,
+      "num": 732720,
+      "word": "by2腰身比",
+      "onboard_time": 1722583523,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 358967,
       "num": 1138856,
       "word": "仙剑四有效播放量破8亿",
@@ -2963,6 +3035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 357906,
+      "num": 357906,
+      "word": "乒乓没有应该原来是回旋镖",
+      "onboard_time": 1722584784,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 352296,
       "num": 352296,
       "word": "八月狗屎运最旺的星座",
@@ -2976,6 +3056,14 @@
       "word": "潘展乐仅用2年达成纪录全满贯",
       "onboard_time": 1722480864,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 349234,
+      "num": 349234,
+      "word": "孙颖莎小时候萌照",
+      "onboard_time": 1722586047,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -3025,6 +3113,14 @@
       "onboard_time": 1722500063,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 340950,
+      "num": 340950,
+      "word": "潘展乐拿下大满贯还不到20岁",
+      "onboard_time": 1722586104,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 339836,
@@ -3187,6 +3283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 320479,
+      "num": 517618,
+      "word": "鞠婧祎高定",
+      "onboard_time": 1722585204,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 320323,
       "num": 696792,
       "word": "罗夏恩离开SM",
@@ -3243,6 +3347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 311848,
+      "num": 515071,
+      "word": "阿如那 饿很久了",
+      "onboard_time": 1722586764,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 311111,
       "num": 311111,
       "word": "恋与制作人男妖精",
@@ -3289,14 +3401,6 @@
       "onboard_time": 1722559705,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 303401,
-      "num": 468654,
-      "word": "石凯 替父斩棘",
-      "onboard_time": 1722583823,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 302571,
@@ -3369,6 +3473,14 @@
       "onboard_time": 1722578303,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 293640,
+      "num": 293640,
+      "word": "双腿是人体自带的血糖仪",
+      "onboard_time": 1722586047,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 293512,
@@ -3451,20 +3563,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284218,
+      "num": 284218,
+      "word": "孙颖莎陈梦出战女单半决赛",
+      "onboard_time": 1722585744,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283609,
       "num": 283609,
       "word": "闪耀暖暖深海花筵",
       "onboard_time": 1722582203,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 283266,
-      "num": 283266,
-      "word": "by2腰身比",
-      "onboard_time": 1722583523,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 282842,
@@ -3555,14 +3667,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 270901,
-      "num": 270901,
-      "word": "原来孙颖莎大学还没有毕业",
-      "onboard_time": 1722583282,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 270100,
       "num": 387989,
       "word": "孤舟定档",
@@ -3619,6 +3723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263222,
+      "num": 263222,
+      "word": "张本智和希望樊振东下一场打得更好",
+      "onboard_time": 1722583224,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 262817,
       "num": 262817,
       "word": "权志龙 演唱会",
@@ -3633,6 +3745,14 @@
       "onboard_time": 1722494184,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 261168,
+      "num": 261168,
+      "word": "王鹤润说我弟很有名",
+      "onboard_time": 1722586164,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 258082,
@@ -3707,6 +3827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 239033,
+      "num": 239033,
+      "word": "潘展乐的金牌含金量有多高",
+      "onboard_time": 1722586224,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 238053,
       "num": 361668,
       "word": "蓝盈莹 天才都是被夸出来的",
@@ -3769,6 +3897,14 @@
       "onboard_time": 1722476666,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228383,
+      "num": 236937,
+      "word": "白敬亭为张若昀新片打call",
+      "onboard_time": 1722587007,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 227690,
@@ -4219,6 +4355,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 155545,
+      "num": 2556089,
+      "word": "小孩哥小孩姐闪耀巴黎奥运",
+      "onboard_time": 1722585504,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154433,
       "num": 293174,
       "word": "英雄联盟维护",
@@ -4257,6 +4401,14 @@
       "onboard_time": 1722503907,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140030,
+      "num": 1024716,
+      "word": "6旬老人5个QQ好友4个是骗子",
+      "onboard_time": 1722585625,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139538,
@@ -4385,6 +4537,14 @@
       "onboard_time": 1722458773,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108631,
+      "num": 820694,
+      "word": "人民币兑美元升破7.2",
+      "onboard_time": 1722585625,
+      "rank": 14,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 107443,
@@ -4787,6 +4947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26754,
+      "num": 512381,
+      "word": "波音在印招聘工程师是在华近20倍",
+      "onboard_time": 1722586825,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26159,
       "num": 512766,
       "word": "陈若琳给井胧打call",
@@ -4888,6 +5056,9 @@
     },
     {
       "word": "#祖国的强军事业你们是希望#"
+    },
+    {
+      "word": "#人民军队以不可阻挡步伐迈向世界一流#"
     }
   ]
 }

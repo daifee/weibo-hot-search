@@ -1,0 +1,410 @@
+{
+  "runTime": 1722587070881,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3642751,
+        "num": 3642751,
+        "word": "陈梦vs申裕斌",
+        "onboard_time": 1722583045,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3269325,
+        "num": 3269325,
+        "word": "潘展乐让澳洲教练恼羞成怒",
+        "onboard_time": 1722580943,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155545,
+        "num": 2556089,
+        "word": "小孩哥小孩姐闪耀巴黎奥运",
+        "onboard_time": 1722585504,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2302106,
+        "num": 2302106,
+        "word": "原来孙颖莎大学还没有毕业",
+        "onboard_time": 1722583282,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2287774,
+        "num": 2287774,
+        "word": "孟子义聊天记录",
+        "onboard_time": 1722584964,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 2105321,
+        "num": 2105321,
+        "word": "对方支付500万但没说是奥运会",
+        "onboard_time": 1722579983,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1871338,
+        "num": 1871338,
+        "word": "王昶秒换球拍",
+        "onboard_time": 1722582804,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1562089,
+        "num": 1562089,
+        "word": "樊振东27岁正是拿大满贯的年纪",
+        "onboard_time": 1722581183,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1047194,
+        "num": 1047194,
+        "word": "孟子义转发",
+        "onboard_time": 1722573503,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140030,
+        "num": 1024716,
+        "word": "6旬老人5个QQ好友4个是骗子",
+        "onboard_time": 1722585625,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1021560,
+        "num": 1021560,
+        "word": "凡尘组合晋级决赛",
+        "onboard_time": 1722585265,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 960155,
+        "num": 960155,
+        "word": "奥组委调查王楚钦球拍被踩事件",
+        "onboard_time": 1722523890,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 668014,
+        "num": 836082,
+        "word": "Kimi14岁身高",
+        "onboard_time": 1722578544,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 560282,
+        "num": 826450,
+        "word": "杜海涛 我做梦都想回芒果录节目",
+        "onboard_time": 1722581482,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108631,
+        "num": 820694,
+        "word": "人民币兑美元升破7.2",
+        "onboard_time": 1722585625,
+        "rank": 14,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 817664,
+        "num": 817664,
+        "word": "女子50米步枪三姿决赛",
+        "onboard_time": 1722585924,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 802421,
+        "num": 802421,
+        "word": "贾一凡坐地连打三球",
+        "onboard_time": 1722584845,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 515743,
+        "num": 733107,
+        "word": "杨幂 腹肌",
+        "onboard_time": 1722584423,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 470669,
+        "num": 732753,
+        "word": "石凯 替父斩棘",
+        "onboard_time": 1722583823,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360206,
+        "num": 732720,
+        "word": "by2腰身比",
+        "onboard_time": 1722583523,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 732698,
+        "num": 732698,
+        "word": "王楚钦给樊振东竖大拇指",
+        "onboard_time": 1722542892,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 718424,
+        "num": 718424,
+        "word": "樊振东下一把得来个十环",
+        "onboard_time": 1722534018,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 702826,
+        "num": 702826,
+        "word": "男子得热射病吐血成植物人住进ICU",
+        "onboard_time": 1722577704,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652130,
+        "num": 652130,
+        "word": "张本智和说樊振东拿金牌对他是安慰",
+        "onboard_time": 1722570863,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 593772,
+        "num": 593772,
+        "word": "凡尘组合vs乐蒂组合",
+        "onboard_time": 1722580163,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 521914,
+        "num": 521914,
+        "word": "圣坛组合vs山羊组合",
+        "onboard_time": 1722584363,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 325759,
+        "num": 519117,
+        "word": "阿如那 尴尬",
+        "onboard_time": 1722578784,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320479,
+        "num": 517618,
+        "word": "鞠婧祎高定",
+        "onboard_time": 1722585204,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 311848,
+        "num": 515071,
+        "word": "阿如那 饿很久了",
+        "onboard_time": 1722586764,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26754,
+        "num": 512381,
+        "word": "波音在印招聘工程师是在华近20倍",
+        "onboard_time": 1722586825,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510352,
+        "num": 510352,
+        "word": "梁王教练好损",
+        "onboard_time": 1722574224,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 477802,
+        "num": 477802,
+        "word": "孙颖莎说不能让比赛往2比1发展",
+        "onboard_time": 1722571943,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 458745,
+        "num": 458745,
+        "word": "福原爱谈主副拍差距有多大",
+        "onboard_time": 1722581963,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 357906,
+        "num": 357906,
+        "word": "乒乓没有应该原来是回旋镖",
+        "onboard_time": 1722584784,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 349234,
+        "num": 349234,
+        "word": "孙颖莎小时候萌照",
+        "onboard_time": 1722586047,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 348058,
+        "num": 348058,
+        "word": "樊振东比赛收视率",
+        "onboard_time": 1722570863,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 340950,
+        "num": 340950,
+        "word": "潘展乐拿下大满贯还不到20岁",
+        "onboard_time": 1722586104,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318457,
+        "num": 318457,
+        "word": "香蕉拜年 辣椒求雨 番茄打拳",
+        "onboard_time": 1722582384,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303175,
+        "num": 303175,
+        "word": "国乒梯队建设",
+        "onboard_time": 1722578603,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293640,
+        "num": 293640,
+        "word": "双腿是人体自带的血糖仪",
+        "onboard_time": 1722586047,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 284218,
+        "num": 284218,
+        "word": "孙颖莎陈梦出战女单半决赛",
+        "onboard_time": 1722585744,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269530,
+        "num": 269530,
+        "word": "王楚钦笑了",
+        "onboard_time": 1722570143,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263222,
+        "num": 263222,
+        "word": "张本智和希望樊振东下一场打得更好",
+        "onboard_time": 1722583224,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263215,
+        "num": 263215,
+        "word": "许昕看孙颖莎vs许昕看樊振东",
+        "onboard_time": 1722576682,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261168,
+        "num": 261168,
+        "word": "王鹤润说我弟很有名",
+        "onboard_time": 1722586164,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247453,
+        "num": 247453,
+        "word": "官方通报山东一养殖场发现炭疽病例",
+        "onboard_time": 1722577889,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245685,
+        "num": 245685,
+        "word": "莎头 国乒首对混双大满贯",
+        "onboard_time": 1722575244,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244294,
+        "num": 244294,
+        "word": "山东回应疑发现畜间炭疽阳性",
+        "onboard_time": 1722576863,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239033,
+        "num": 239033,
+        "word": "潘展乐的金牌含金量有多高",
+        "onboard_time": 1722586224,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228383,
+        "num": 236937,
+        "word": "白敬亭为张若昀新片打call",
+        "onboard_time": 1722587007,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队以不可阻挡步伐迈向世界一流#"
+    }
+  }
+}
