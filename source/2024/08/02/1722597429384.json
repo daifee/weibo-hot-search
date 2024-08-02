@@ -1,0 +1,410 @@
+{
+  "runTime": 1722597429384,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6019908,
+        "num": 6019908,
+        "word": "梁王组合vs谢苏组合",
+        "onboard_time": 1722587426,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3928711,
+        "num": 3928711,
+        "word": "樊振东光速进决赛",
+        "onboard_time": 1722591397,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37347,
+        "num": 3179923,
+        "word": "空中出租车跨长江首飞成功",
+        "onboard_time": 1722585265,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3059778,
+        "num": 3059778,
+        "word": "樊振东赛后紧抱球拍",
+        "onboard_time": 1722591456,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2814525,
+        "num": 2814525,
+        "word": "潘展乐从第7追到了第2",
+        "onboard_time": 1722595466,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2458372,
+        "num": 2458372,
+        "word": "美国跳水炸鱼",
+        "onboard_time": 1722592769,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1056194,
+        "num": 2339822,
+        "word": "尤长靖说我也是外国人",
+        "onboard_time": 1722594452,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 955566,
+        "num": 2249818,
+        "word": "孟子义聊天记录",
+        "onboard_time": 1722584964,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184329,
+        "num": 2186145,
+        "word": "举报人回应苏州违规采购干部被调查",
+        "onboard_time": 1722596064,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1619319,
+        "num": 2025201,
+        "word": "梁王组合晋级决赛",
+        "onboard_time": 1722594272,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1941250,
+        "num": 1941250,
+        "word": "肖指导看台安慰王楚钦",
+        "onboard_time": 1722594086,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1746693,
+        "num": 1746693,
+        "word": "王宗源龙道一3米板金牌",
+        "onboard_time": 1722593192,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1028751,
+        "num": 1028751,
+        "word": "苏州通报清华毕业生举报局长贪腐",
+        "onboard_time": 1722592052,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 636380,
+        "num": 1021168,
+        "word": "你疯了吧 我的妈呀",
+        "onboard_time": 1722589827,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 605885,
+        "num": 1005088,
+        "word": "苏州被举报违规采购干部被立案调查",
+        "onboard_time": 1722592529,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1724569,
+        "num": 1001532,
+        "word": "我是泰勒斯威夫特 我为樊振东加油",
+        "onboard_time": 1722595826,
+        "rank": 15,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 1701320,
+        "num": 982727,
+        "word": "4x100米混合泳接力中国队晋级决赛",
+        "onboard_time": 1722595644,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1685203,
+        "num": 974173,
+        "word": "孙颖莎vs早田希娜",
+        "onboard_time": 1722597145,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1597749,
+        "num": 961611,
+        "word": "樊振东vsF勒布伦",
+        "onboard_time": 1722588026,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286846,
+        "num": 940098,
+        "word": "魏大勋父亲退出多家魏大勋关联公司",
+        "onboard_time": 1722596724,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53993,
+        "num": 927660,
+        "word": "易烊千玺沙漠大片",
+        "onboard_time": 1722593369,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 923126,
+        "num": 923126,
+        "word": "王昶又偷后场",
+        "onboard_time": 1722591208,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 916035,
+        "num": 916035,
+        "word": "男子双人三米板决赛",
+        "onboard_time": 1722588988,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 800745,
+        "num": 800745,
+        "word": "陈梦vs申裕斌",
+        "onboard_time": 1722583045,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 743981,
+        "num": 743981,
+        "word": "中国队最后一跳太牛了",
+        "onboard_time": 1722593490,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 711499,
+        "num": 711499,
+        "word": "梁王教练好损",
+        "onboard_time": 1722574224,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 700191,
+        "num": 700191,
+        "word": "樊振东做C罗安静庆祝动作",
+        "onboard_time": 1722594748,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353223,
+        "num": 672211,
+        "word": "孟子义转发",
+        "onboard_time": 1722573503,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 250171,
+        "num": 654467,
+        "word": "杜海涛 我做梦都想回芒果录节目",
+        "onboard_time": 1722581482,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242695,
+        "num": 649848,
+        "word": "陈昊宇陈丽君 时尚芭莎",
+        "onboard_time": 1722593008,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 648775,
+        "num": 648775,
+        "word": "陈梦进女单决赛",
+        "onboard_time": 1722588511,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 646927,
+        "num": 646927,
+        "word": "中国第12金",
+        "onboard_time": 1722593251,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 336026,
+        "num": 336026,
+        "word": "Kimi14岁身高",
+        "onboard_time": 1722578544,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327458,
+        "num": 327458,
+        "word": "国企设计院中标731万项目以220万外包",
+        "onboard_time": 1722587246,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274426,
+        "num": 326996,
+        "word": "苹果威胁拒绝更新微信抖音",
+        "onboard_time": 1722592828,
+        "rank": 34,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 628535,
+        "num": 325472,
+        "word": "个人赛一局不失孙颖莎太强了",
+        "onboard_time": 1722592529,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 624741,
+        "num": 323858,
+        "word": "国羽锁定女双金牌",
+        "onboard_time": 1722589468,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 590042,
+        "num": 323047,
+        "word": "女子蹦床",
+        "onboard_time": 1722596665,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 544707,
+        "num": 320833,
+        "word": "蹦床解说",
+        "onboard_time": 1722596305,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212414,
+        "num": 319622,
+        "word": "男主连身衣服都得求男二要",
+        "onboard_time": 1722593549,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266294,
+        "num": 319013,
+        "word": "泡泡玛特 光夜",
+        "onboard_time": 1722594928,
+        "rank": 40,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 514204,
+        "num": 317381,
+        "word": "潘展乐让澳洲教练恼羞成怒",
+        "onboard_time": 1722580943,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 440411,
+        "num": 316334,
+        "word": "原来孙颖莎大学还没有毕业",
+        "onboard_time": 1722583282,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 439601,
+        "num": 314257,
+        "word": "申裕斌 物理降温",
+        "onboard_time": 1722588206,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 426870,
+        "num": 312977,
+        "word": "奥组委调查王楚钦球拍被踩事件",
+        "onboard_time": 1722523890,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 383738,
+        "num": 311530,
+        "word": "跳水也紧张了",
+        "onboard_time": 1722593310,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376987,
+        "num": 310356,
+        "word": "勒布伦 月岛萤",
+        "onboard_time": 1722591934,
+        "rank": 46,
+        "category": "体育,动漫"
+      },
+      {
+        "raw_hot": 234795,
+        "num": 309310,
+        "word": "山东5人被诊断为皮肤炭疽已隔离",
+        "onboard_time": 1722584724,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193339,
+        "num": 308025,
+        "word": "张杰在75米延伸台骑车",
+        "onboard_time": 1722597205,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192419,
+        "num": 306730,
+        "word": "白敬亭为张若昀新片打call",
+        "onboard_time": 1722587007,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂全会决定中的这些名词#"
+    }
+  }
+}
