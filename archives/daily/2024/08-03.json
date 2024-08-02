@@ -1,6 +1,6 @@
 {
   "startTime": 1722615950508,
-  "endTime": 1722615950508,
+  "endTime": 1722616898601,
   "band_list": [
     {
       "raw_hot": 11552083,
@@ -51,8 +51,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1696608,
+      "num": 1696608,
+      "word": "田亮带着儿子女儿在巴黎铁塔下卖货",
+      "onboard_time": 1722613114,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1431407,
-      "num": 846500,
+      "num": 1378317,
       "word": "黄雅琼 这个夏天圆满的不能再圆满",
       "onboard_time": 1722615325,
       "rank": 10,
@@ -68,19 +76,19 @@
     },
     {
       "raw_hot": 1386752,
-      "num": 753632,
+      "num": 1267535,
       "word": "王昶拍过跑男宣传片",
       "onboard_time": 1722612029,
       "rank": 15,
       "category": "体育"
     },
     {
-      "raw_hot": 1281445,
-      "num": 1281445,
-      "word": "田亮带着儿子女儿在巴黎铁塔下卖货",
-      "onboard_time": 1722613114,
-      "rank": 6,
-      "category": "艺人"
+      "raw_hot": 1306956,
+      "num": 1306956,
+      "word": "深圳发生车祸致2死5伤",
+      "onboard_time": 1722614487,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1240892,
@@ -91,11 +99,27 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1085735,
+      "raw_hot": 1231173,
+      "num": 740755,
+      "word": "许昕说决赛对孙颖莎陈梦都很关键",
+      "onboard_time": 1722613887,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1203439,
       "num": 747942,
       "word": "黄雅琼回应被求婚",
       "onboard_time": 1722614907,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1073461,
+      "num": 745177,
+      "word": "伊藤美诚发球",
+      "onboard_time": 1722610225,
+      "rank": 22,
       "category": "体育"
     },
     {
@@ -107,35 +131,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1044327,
-      "num": 1044327,
-      "word": "深圳发生车祸致2死5伤",
-      "onboard_time": 1722614487,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 990186,
-      "num": 745177,
-      "word": "伊藤美诚发球",
-      "onboard_time": 1722610225,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 959676,
       "num": 743211,
       "word": "中国第13金",
       "onboard_time": 1722610776,
       "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 812814,
-      "num": 740755,
-      "word": "许昕说决赛对孙颖莎陈梦都很关键",
-      "onboard_time": 1722613887,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -171,6 +171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 711759,
+      "num": 633910,
+      "word": "雅思组合实现大满贯",
+      "onboard_time": 1722615089,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 694269,
       "num": 694269,
       "word": "樊振东光速进决赛",
@@ -195,14 +203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 633910,
-      "num": 633910,
-      "word": "雅思组合实现大满贯",
-      "onboard_time": 1722615089,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 622956,
       "num": 622956,
       "word": "黄雅琼哭了",
@@ -211,8 +211,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 561067,
+      "num": 561067,
+      "word": "全队只有雅思组合不知道求婚环节",
+      "onboard_time": 1722616284,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 541690,
-      "num": 986055,
+      "num": 1274377,
       "word": "张杰看大屏上的谢娜",
       "onboard_time": 1722610593,
       "rank": 8,
@@ -299,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 358061,
+      "num": 358061,
+      "word": "莫雷加德进决赛",
+      "onboard_time": 1722606390,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 305773,
       "num": 641415,
       "word": "陕西桥梁垮塌已确认38人遇难",
@@ -348,7 +364,7 @@
     },
     {
       "raw_hot": 195181,
-      "num": 427948,
+      "num": 1270342,
       "word": "外交部回应以色列空袭贝鲁特南郊",
       "onboard_time": 1722612696,
       "rank": 45,
@@ -371,7 +387,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133485,
+      "raw_hot": 182290,
       "num": 966959,
       "word": "裸聊1分钟被敲诈2万元",
       "onboard_time": 1722603627,
@@ -379,7 +395,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128113,
+      "raw_hot": 135941,
+      "num": 340693,
+      "word": "张子墨自拍",
+      "onboard_time": 1722616821,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 134064,
       "num": 413363,
       "word": "张艺兴要和潘生一起去百花奖",
       "onboard_time": 1722610530,
@@ -395,7 +419,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 65031,
+      "raw_hot": 75277,
       "num": 742800,
       "word": "90年代的服装审美至今扛打",
       "onboard_time": 1722612219,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1722616898601,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8630499,
+        "num": 8630499,
+        "word": "黄雅琼被求婚了",
+        "onboard_time": 1722612219,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3590171,
+        "num": 3590171,
+        "word": "求婚成功也有战报",
+        "onboard_time": 1722613648,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3499990,
+        "num": 3499990,
+        "word": "莫雷加德微博头像",
+        "onboard_time": 1722614727,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3152103,
+        "num": 3152103,
+        "word": "黄雅琼今晚1金1钻",
+        "onboard_time": 1722612994,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1696608,
+        "num": 1696608,
+        "word": "田亮带着儿子女儿在巴黎铁塔下卖货",
+        "onboard_time": 1722613114,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1378317,
+        "num": 1378317,
+        "word": "黄雅琼 这个夏天圆满的不能再圆满",
+        "onboard_time": 1722615325,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1362964,
+        "num": 1362964,
+        "word": "雅思组合混双奥运金牌",
+        "onboard_time": 1722610593,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1306956,
+        "num": 1306956,
+        "word": "深圳发生车祸致2死5伤",
+        "onboard_time": 1722614487,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443894,
+        "num": 1274377,
+        "word": "张杰看大屏上的谢娜",
+        "onboard_time": 1722610593,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148699,
+        "num": 1270342,
+        "word": "外交部回应以色列空袭贝鲁特南郊",
+        "onboard_time": 1722612696,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1267535,
+        "num": 1267535,
+        "word": "王昶拍过跑男宣传片",
+        "onboard_time": 1722612029,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1261811,
+        "num": 1261811,
+        "word": "雅思组合把球拍扔给观众",
+        "onboard_time": 1722611667,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 674605,
+        "num": 674605,
+        "word": "许昕 请问这两张图哪一个更有杀伤力",
+        "onboard_time": 1722598044,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 346512,
+        "num": 673110,
+        "word": "徐海乔 你们俩怎么还蛐蛐我",
+        "onboard_time": 1722608067,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343808,
+        "num": 668612,
+        "word": "烟草局再回应招聘体育特长生",
+        "onboard_time": 1722601815,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1231173,
+        "num": 665265,
+        "word": "许昕说决赛对孙颖莎陈梦都很关键",
+        "onboard_time": 1722613887,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1203439,
+        "num": 661416,
+        "word": "黄雅琼回应被求婚",
+        "onboard_time": 1722614907,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315056,
+        "num": 658863,
+        "word": "虞书欣说绷不住了",
+        "onboard_time": 1722612455,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203079,
+        "num": 654409,
+        "word": "歌手巅峰之夜",
+        "onboard_time": 1722597806,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190395,
+        "num": 653816,
+        "word": "辛芷蕾 蕾的眼睛就是尺",
+        "onboard_time": 1722609986,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1177879,
+        "num": 647300,
+        "word": "王昶壁纸",
+        "onboard_time": 1722612696,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1073461,
+        "num": 644416,
+        "word": "伊藤美诚发球",
+        "onboard_time": 1722610225,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 790809,
+        "num": 642118,
+        "word": "小莫打疯了",
+        "onboard_time": 1722603987,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 745021,
+        "num": 639874,
+        "word": "中国第13金",
+        "onboard_time": 1722610776,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 711759,
+        "num": 633782,
+        "word": "雅思组合实现大满贯",
+        "onboard_time": 1722615089,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 703236,
+        "num": 631259,
+        "word": "梁王组合晋级决赛",
+        "onboard_time": 1722594272,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 698444,
+        "num": 629703,
+        "word": "雅思组合vs金银组合",
+        "onboard_time": 1722607228,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 695495,
+        "num": 623556,
+        "word": "孙颖莎晋级决赛",
+        "onboard_time": 1722600942,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246627,
+        "num": 619899,
+        "word": "孟子义聊天记录",
+        "onboard_time": 1722584964,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183783,
+        "num": 617422,
+        "word": "张杰鸟巢开场四条龙",
+        "onboard_time": 1722608966,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 616260,
+        "num": 616260,
+        "word": "日本媒体给樊振东起了新外号",
+        "onboard_time": 1722604166,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262545,
+        "num": 609299,
+        "word": "陕西桥梁垮塌已确认38人遇难",
+        "onboard_time": 1722601715,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605520,
+        "num": 605520,
+        "word": "樊振东光速进决赛",
+        "onboard_time": 1722591397,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186963,
+        "num": 567658,
+        "word": "尤长靖说我也是外国人",
+        "onboard_time": 1722594452,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182290,
+        "num": 562289,
+        "word": "裸聊1分钟被敲诈2万元",
+        "onboard_time": 1722603627,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561067,
+        "num": 561067,
+        "word": "全队只有雅思组合不知道求婚环节",
+        "onboard_time": 1722616284,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 490027,
+        "num": 490027,
+        "word": "梁王组合vs谢苏组合",
+        "onboard_time": 1722587426,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 450930,
+        "num": 450930,
+        "word": "樊振东小莫 小时候我还抱过你",
+        "onboard_time": 1722609387,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 419823,
+        "num": 419823,
+        "word": "孙颖莎 拧拉的神",
+        "onboard_time": 1722600267,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 407049,
+        "num": 407049,
+        "word": "孙颖莎关心早田伤势",
+        "onboard_time": 1722602429,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75277,
+        "num": 404968,
+        "word": "90年代的服装审美至今扛打",
+        "onboard_time": 1722612219,
+        "rank": 40,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 402947,
+        "num": 402947,
+        "word": "黄雅琼 发球的神",
+        "onboard_time": 1722610776,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 393667,
+        "num": 393667,
+        "word": "国乒锁定女单金银牌",
+        "onboard_time": 1722600942,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 389269,
+        "num": 389269,
+        "word": "黄雅琼哭了",
+        "onboard_time": 1722611667,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 358061,
+        "num": 358061,
+        "word": "莫雷加德进决赛",
+        "onboard_time": 1722606390,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 344522,
+        "num": 344522,
+        "word": "樊振东莫雷加德争金",
+        "onboard_time": 1722606928,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156607,
+        "num": 343825,
+        "word": "陈楚生把0713厚米团唱哭了",
+        "onboard_time": 1722609327,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154618,
+        "num": 342671,
+        "word": "那英下班",
+        "onboard_time": 1722609625,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135941,
+        "num": 340693,
+        "word": "张子墨自拍",
+        "onboard_time": 1722616821,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134064,
+        "num": 339356,
+        "word": "张艺兴要和潘生一起去百花奖",
+        "onboard_time": 1722610530,
+        "rank": 49,
+        "category": "演出,电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#深层次改革推动高水平开放#"
+    }
+  }
+}
