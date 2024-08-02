@@ -1,6 +1,6 @@
 {
   "startTime": 1722529527252,
-  "endTime": 1722603146672,
+  "endTime": 1722604929515,
   "band_list": [
     {
       "raw_hot": 37515871,
@@ -267,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3580323,
+      "num": 3580323,
+      "word": "孙颖莎关心早田伤势",
+      "onboard_time": 1722602429,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3452521,
       "num": 3452521,
       "word": "王皓表情",
@@ -443,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2417014,
+      "num": 2417014,
+      "word": "莫雷加德vs雨果",
+      "onboard_time": 1722602727,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2352054,
       "num": 2352054,
       "word": "樊振东眼神",
@@ -563,14 +579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1985669,
-      "num": 1667469,
-      "word": "孙颖莎关心早田伤势",
-      "onboard_time": 1722602429,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1908591,
       "num": 1908591,
       "word": "张雨霏奥运200米蝶泳摘铜",
@@ -643,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1681893,
+      "num": 1681893,
+      "word": "早田希娜哭了",
+      "onboard_time": 1722602071,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1659212,
       "num": 1659212,
       "word": "冷静点 俩活爹",
@@ -704,6 +720,14 @@
       "word": "陈梦进4强",
       "onboard_time": 1722501808,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1479181,
+      "num": 1225509,
+      "word": "陈梦赢球后第一件事",
+      "onboard_time": 1722601899,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -779,14 +803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1305945,
-      "num": 1305945,
-      "word": "早田希娜哭了",
-      "onboard_time": 1722602071,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1304206,
       "num": 1304206,
       "word": "圣坛组合vs山羊组合",
@@ -816,22 +832,6 @@
       "word": "韩国选手拼到呕吐",
       "onboard_time": 1722587666,
       "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1225509,
-      "num": 1225509,
-      "word": "陈梦赢球后第一件事",
-      "onboard_time": 1722601899,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1222938,
-      "num": 1222938,
-      "word": "莫雷加德vs雨果",
-      "onboard_time": 1722602727,
-      "rank": 37,
       "category": "体育"
     },
     {
@@ -939,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1058989,
+      "num": 541704,
+      "word": "小莫打疯了",
+      "onboard_time": 1722603987,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1056194,
       "num": 4683453,
       "word": "尤长靖说我也是外国人",
@@ -961,6 +969,14 @@
       "onboard_time": 1722568584,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1027215,
+      "num": 4211599,
+      "word": "陕西桥梁垮塌已确认38人遇难",
+      "onboard_time": 1722601715,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1023143,
@@ -1163,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 725048,
+      "num": 537891,
+      "word": "日本媒体给樊振东起了新外号",
+      "onboard_time": 1722604166,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 705078,
       "num": 705078,
       "word": "邱祺缘掉杠",
@@ -1347,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 587349,
+      "num": 536320,
+      "word": "樊振东说决赛丢掉杂念释放自己",
+      "onboard_time": 1722603927,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 572751,
       "num": 1432037,
       "word": "杜海涛 我做梦都想回芒果录节目",
@@ -1363,12 +1395,28 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 557663,
+      "num": 535520,
+      "word": "孙颖莎连胜5场一局未失",
+      "onboard_time": 1722604226,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 555397,
       "num": 555397,
       "word": "张本智和黄牌",
       "onboard_time": 1722529566,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 550215,
+      "num": 4203817,
+      "word": "烟草局再回应招聘体育特长生",
+      "onboard_time": 1722601815,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 545227,
@@ -1497,6 +1545,14 @@
       "onboard_time": 1722583823,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 479318,
+      "num": 542897,
+      "word": "谁家剧没播就放10分钟预告啊",
+      "onboard_time": 1722603207,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 478372,
@@ -1673,6 +1729,14 @@
       "onboard_time": 1722559406,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 410045,
+      "num": 548281,
+      "word": "黄绮珊太牛了",
+      "onboard_time": 1722603927,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 399049,
@@ -1947,14 +2011,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 325415,
-      "num": 4211599,
-      "word": "陕西桥梁垮塌已确认38人遇难",
-      "onboard_time": 1722601715,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 325036,
       "num": 467704,
       "word": "孟子义方包场致歉",
@@ -2017,6 +2073,22 @@
       "onboard_time": 1722566003,
       "rank": 48,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 305815,
+      "num": 3324134,
+      "word": "张杰在75米延伸台骑车",
+      "onboard_time": 1722597205,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 304879,
+      "num": 765468,
+      "word": "唐诡2 反杀",
+      "onboard_time": 1722602668,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 303948,
@@ -2108,7 +2180,7 @@
     },
     {
       "raw_hot": 295324,
-      "num": 2844013,
+      "num": 4573444,
       "word": "小孩哥小孩姐闪耀巴黎奥运",
       "onboard_time": 1722585504,
       "rank": 2,
@@ -2147,6 +2219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 289969,
+      "num": 534454,
+      "word": "奎八",
+      "onboard_time": 1722603207,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 287856,
       "num": 504535,
       "word": "官方通报清华毕业生举报局长贪腐",
@@ -2171,6 +2251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284297,
+      "num": 534209,
+      "word": "唐诡西行大结局",
+      "onboard_time": 1722604407,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 284218,
       "num": 284218,
       "word": "孙颖莎陈梦出战女单半决赛",
@@ -2193,14 +2281,6 @@
       "onboard_time": 1722590307,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 279812,
-      "num": 3324134,
-      "word": "张杰在75米延伸台骑车",
-      "onboard_time": 1722597205,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 279753,
@@ -2233,14 +2313,6 @@
       "onboard_time": 1722582082,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 276098,
-      "num": 4203817,
-      "word": "烟草局再回应招聘体育特长生",
-      "onboard_time": 1722601815,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 275425,
@@ -2443,14 +2515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 225918,
-      "num": 765468,
-      "word": "唐诡2 反杀",
-      "onboard_time": 1722602668,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 224657,
       "num": 224657,
       "word": "董宇辉郎平呼吁不要唯金牌论",
@@ -2643,6 +2707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134634,
+      "num": 1770837,
+      "word": "裸聊1分钟被敲诈2万元",
+      "onboard_time": 1722603627,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133708,
       "num": 488287,
       "word": "有的天策在巴陵 有的天策在巴黎",
@@ -2699,6 +2771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110635,
+      "num": 1718725,
+      "word": "陕西柞水公路桥垮塌仍有24人失联",
+      "onboard_time": 1722603627,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105389,
       "num": 718633,
       "word": "给每个cp粉一个家",
@@ -2745,6 +2825,14 @@
       "onboard_time": 1722572544,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 68045,
+      "num": 550193,
+      "word": "汪顺又帅又能打",
+      "onboard_time": 1722603747,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 62684,
@@ -2809,6 +2897,14 @@
       "onboard_time": 1722540133,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 54437,
+      "num": 540660,
+      "word": "梅耶马斯克杭州走秀",
+      "onboard_time": 1722603927,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 54347,

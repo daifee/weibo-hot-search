@@ -1,0 +1,410 @@
+{
+  "runTime": 1722604929515,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7353564,
+        "num": 7353564,
+        "word": "国乒锁定女单金银牌",
+        "onboard_time": 1722600942,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6088552,
+        "num": 6088552,
+        "word": "孙颖莎vs早田希娜",
+        "onboard_time": 1722597145,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23722,
+        "num": 4573444,
+        "word": "小孩哥小孩姐闪耀巴黎奥运",
+        "onboard_time": 1722585504,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3580323,
+        "num": 3580323,
+        "word": "孙颖莎关心早田伤势",
+        "onboard_time": 1722602429,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2417014,
+        "num": 2417014,
+        "word": "莫雷加德vs雨果",
+        "onboard_time": 1722602727,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1862332,
+        "num": 1862332,
+        "word": "孙颖莎晋级决赛",
+        "onboard_time": 1722600942,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 770548,
+        "num": 1830670,
+        "word": "尤长靖说我也是外国人",
+        "onboard_time": 1722594452,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 514554,
+        "num": 1817043,
+        "word": "歌手巅峰之夜",
+        "onboard_time": 1722597806,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134634,
+        "num": 1770837,
+        "word": "裸聊1分钟被敲诈2万元",
+        "onboard_time": 1722603627,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110635,
+        "num": 1718725,
+        "word": "陕西柞水公路桥垮塌仍有24人失联",
+        "onboard_time": 1722603627,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1681893,
+        "num": 1681893,
+        "word": "早田希娜哭了",
+        "onboard_time": 1722602071,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1652289,
+        "num": 1652289,
+        "word": "蹦床女子单人决赛",
+        "onboard_time": 1722600207,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1350870,
+        "num": 1350870,
+        "word": "许昕 请问这两张图哪一个更有杀伤力",
+        "onboard_time": 1722598044,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1027215,
+        "num": 1027215,
+        "word": "陕西桥梁垮塌已确认38人遇难",
+        "onboard_time": 1722601715,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550215,
+        "num": 550215,
+        "word": "烟草局再回应招聘体育特长生",
+        "onboard_time": 1722601815,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68045,
+        "num": 550193,
+        "word": "汪顺又帅又能打",
+        "onboard_time": 1722603747,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 420819,
+        "num": 549550,
+        "word": "胡兵举孙颖莎手幅",
+        "onboard_time": 1722602189,
+        "rank": 16,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 410877,
+        "num": 549074,
+        "word": "刘昊然从水灵灵到干巴巴",
+        "onboard_time": 1722599006,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 410045,
+        "num": 548281,
+        "word": "黄绮珊太牛了",
+        "onboard_time": 1722603927,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305815,
+        "num": 547976,
+        "word": "张杰在75米延伸台骑车",
+        "onboard_time": 1722597205,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1524618,
+        "num": 547456,
+        "word": "王皓脸色",
+        "onboard_time": 1722597745,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1507008,
+        "num": 546767,
+        "word": "樊振东光速进决赛",
+        "onboard_time": 1722591397,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1489370,
+        "num": 546396,
+        "word": "孙颖莎 拧拉的神",
+        "onboard_time": 1722600267,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1479181,
+        "num": 545420,
+        "word": "陈梦赢球后第一件事",
+        "onboard_time": 1722601899,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1478045,
+        "num": 545324,
+        "word": "朱雪莹胡译乘无缘奖牌",
+        "onboard_time": 1722602548,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1326344,
+        "num": 544328,
+        "word": "潘展乐从第7追到了第2",
+        "onboard_time": 1722595466,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1172578,
+        "num": 544041,
+        "word": "梁王组合晋级决赛",
+        "onboard_time": 1722594272,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1087841,
+        "num": 543578,
+        "word": "朱雪莹哭了",
+        "onboard_time": 1722602368,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 479318,
+        "num": 542897,
+        "word": "谁家剧没播就放10分钟预告啊",
+        "onboard_time": 1722603207,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304879,
+        "num": 542353,
+        "word": "唐诡2 反杀",
+        "onboard_time": 1722602668,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1058989,
+        "num": 541704,
+        "word": "小莫打疯了",
+        "onboard_time": 1722603987,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 987013,
+        "num": 541261,
+        "word": "冷静点 俩活爹",
+        "onboard_time": 1722599486,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54437,
+        "num": 540660,
+        "word": "梅耶马斯克杭州走秀",
+        "onboard_time": 1722603927,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 942249,
+        "num": 540436,
+        "word": "梁王组合vs谢苏组合",
+        "onboard_time": 1722587426,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 878129,
+        "num": 539563,
+        "word": "樊振东vsF勒布伦",
+        "onboard_time": 1722588026,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 817230,
+        "num": 539060,
+        "word": "朱雪莹出场就是王炸",
+        "onboard_time": 1722597985,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 776868,
+        "num": 538614,
+        "word": "樊振东赛后紧抱球拍",
+        "onboard_time": 1722591456,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 725048,
+        "num": 537891,
+        "word": "日本媒体给樊振东起了新外号",
+        "onboard_time": 1722604166,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 724756,
+        "num": 537468,
+        "word": "潘展乐怒追七仙女",
+        "onboard_time": 1722598107,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 616629,
+        "num": 537013,
+        "word": "我是泰勒斯威夫特 我为樊振东加油",
+        "onboard_time": 1722595826,
+        "rank": 39,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 587349,
+        "num": 536320,
+        "word": "樊振东说决赛丢掉杂念释放自己",
+        "onboard_time": 1722603927,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 566041,
+        "num": 536083,
+        "word": "陈梦进女单决赛",
+        "onboard_time": 1722588511,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 557663,
+        "num": 535520,
+        "word": "孙颖莎连胜5场一局未失",
+        "onboard_time": 1722604226,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 535114,
+        "num": 535114,
+        "word": "胡兵现场观战孙颖莎",
+        "onboard_time": 1722599608,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 529707,
+        "num": 534923,
+        "word": "苏州通报清华毕业生举报局长贪腐",
+        "onboard_time": 1722592052,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427914,
+        "num": 534881,
+        "word": "孟子义聊天记录",
+        "onboard_time": 1722584964,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 289969,
+        "num": 534454,
+        "word": "奎八",
+        "onboard_time": 1722603207,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284297,
+        "num": 534209,
+        "word": "唐诡西行大结局",
+        "onboard_time": 1722604407,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221632,
+        "num": 534059,
+        "word": "白色橄榄树",
+        "onboard_time": 1722601656,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199643,
+        "num": 533906,
+        "word": "清华学子称祝某被停职很激动",
+        "onboard_time": 1722596665,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队以不可阻挡步伐迈向世界一流#"
+    }
+  }
+}
