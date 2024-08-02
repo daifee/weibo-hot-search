@@ -1,6 +1,6 @@
 {
   "startTime": 1722529527252,
-  "endTime": 1722587930562,
+  "endTime": 1722590531010,
   "band_list": [
     {
       "raw_hot": 37515871,
@@ -43,6 +43,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 12248499,
+      "num": 12248499,
+      "word": "陈梦vs申裕斌",
+      "onboard_time": 1722583045,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 10527980,
       "num": 10527980,
       "word": "樊振东下一把得来个十环",
@@ -56,6 +64,14 @@
       "word": "中国第10金",
       "onboard_time": 1722501628,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 7855063,
+      "num": 7855063,
+      "word": "樊振东vsF勒布伦",
+      "onboard_time": 1722588026,
+      "rank": 1,
       "category": "体育"
     },
     {
@@ -88,14 +104,6 @@
       "word": "张本智和 擦网",
       "onboard_time": 1722528643,
       "rank": 6,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 5482815,
-      "num": 5482815,
-      "word": "陈梦vs申裕斌",
-      "onboard_time": 1722583045,
-      "rank": 45,
       "category": "体育"
     },
     {
@@ -139,6 +147,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3774892,
+      "num": 3774892,
+      "word": "申裕斌 物理降温",
+      "onboard_time": 1722588206,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3527199,
+      "num": 3527199,
+      "word": "国羽锁定女双金牌",
+      "onboard_time": 1722589468,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3452521,
       "num": 3452521,
       "word": "王皓表情",
@@ -177,6 +201,14 @@
       "onboard_time": 1722573503,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 3074073,
+      "num": 3074073,
+      "word": "梁王组合vs谢苏组合",
+      "onboard_time": 1722587426,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 3067416,
@@ -299,6 +331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2150337,
+      "num": 2150337,
+      "word": "陈梦进女单决赛",
+      "onboard_time": 1722588511,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2107902,
       "num": 2107902,
       "word": "王楚钦回应爆冷出局",
@@ -412,7 +452,7 @@
     },
     {
       "raw_hot": 1541456,
-      "num": 1033100,
+      "num": 1505991,
       "word": "Kimi14岁身高",
       "onboard_time": 1722578544,
       "rank": 11,
@@ -475,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1304206,
+      "num": 1304206,
+      "word": "圣坛组合vs山羊组合",
+      "onboard_time": 1722584363,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1295814,
       "num": 1248941,
       "word": "张本智和甚至能看懂这个视频",
@@ -488,6 +536,14 @@
       "word": "孙颖莎将对阵早田希娜",
       "onboard_time": 1722540493,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1255200,
+      "num": 1255200,
+      "word": "韩国选手拼到呕吐",
+      "onboard_time": 1722587666,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -547,11 +603,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1099909,
-      "num": 424805,
-      "word": "梁王组合vs谢苏组合",
-      "onboard_time": 1722587426,
-      "rank": 30,
+      "raw_hot": 1100305,
+      "num": 1100305,
+      "word": "陈梦太牛了",
+      "onboard_time": 1722588930,
+      "rank": 21,
       "category": "体育"
     },
     {
@@ -560,6 +616,14 @@
       "word": "拜尔斯高低杠失误",
       "onboard_time": 1722532818,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1095914,
+      "num": 1095914,
+      "word": "凡尘组合晋级决赛",
+      "onboard_time": 1722585265,
+      "rank": 10,
       "category": "体育"
     },
     {
@@ -603,14 +667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1022266,
-      "num": 1022266,
-      "word": "凡尘组合晋级决赛",
-      "onboard_time": 1722585265,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 994256,
       "num": 994256,
       "word": "奥运会直播",
@@ -620,7 +676,7 @@
     },
     {
       "raw_hot": 987092,
-      "num": 726649,
+      "num": 821907,
       "word": "男子得热射病吐血成植物人住进ICU",
       "onboard_time": 1722577704,
       "rank": 27,
@@ -739,11 +795,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 757717,
-      "num": 757717,
-      "word": "圣坛组合vs山羊组合",
-      "onboard_time": 1722584363,
-      "rank": 25,
+      "raw_hot": 756952,
+      "num": 756952,
+      "word": "比赛太多看不过来了",
+      "onboard_time": 1722590428,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -835,6 +891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 646279,
+      "num": 646279,
+      "word": "志田千阳好美",
+      "onboard_time": 1722588387,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 639332,
       "num": 1167681,
       "word": "黄子韬喜欢我你无需自卑",
@@ -848,6 +912,14 @@
       "word": "张本智和好吵",
       "onboard_time": 1722530515,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 635979,
+      "num": 635979,
+      "word": "男子双人三米板决赛",
+      "onboard_time": 1722588988,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -900,7 +972,7 @@
     },
     {
       "raw_hot": 572751,
-      "num": 1026103,
+      "num": 1432037,
       "word": "杜海涛 我做梦都想回芒果录节目",
       "onboard_time": 1722581482,
       "rank": 17,
@@ -956,7 +1028,7 @@
     },
     {
       "raw_hot": 515743,
-      "num": 748949,
+      "num": 1557775,
       "word": "杨幂 腹肌",
       "onboard_time": 1722584423,
       "rank": 17,
@@ -1012,7 +1084,7 @@
     },
     {
       "raw_hot": 479958,
-      "num": 1023950,
+      "num": 1114656,
       "word": "石凯 替父斩棘",
       "onboard_time": 1722583823,
       "rank": 26,
@@ -1179,6 +1251,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 391713,
+      "num": 1395725,
+      "word": "你疯了吧 我的妈呀",
+      "onboard_time": 1722589827,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 390241,
       "num": 236662,
       "word": "中国女排锁定八强",
@@ -1192,6 +1272,14 @@
       "word": "香蕉拜年 辣椒求雨 番茄打拳",
       "onboard_time": 1722582384,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 380713,
+      "num": 380713,
+      "word": "申裕斌好可爱",
+      "onboard_time": 1722589887,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -1219,19 +1307,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 368933,
-      "num": 292792,
-      "word": "韩国选手拼到呕吐",
-      "onboard_time": 1722587666,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 365697,
       "num": 365697,
       "word": "龙队换衣大法",
       "onboard_time": 1722533598,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 360555,
+      "num": 360555,
+      "word": "福原爱说张怡宁让球演技差",
+      "onboard_time": 1722587605,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -1395,6 +1483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 325592,
+      "num": 1349017,
+      "word": "彩虹六号过审",
+      "onboard_time": 1722589527,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 325036,
       "num": 467704,
       "word": "孟子义方包场致歉",
@@ -1420,11 +1516,19 @@
     },
     {
       "raw_hot": 320479,
-      "num": 517618,
+      "num": 957893,
       "word": "鞠婧祎高定",
       "onboard_time": 1722585204,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 318110,
+      "num": 1255631,
+      "word": "国企设计院中标731万项目以220万外包",
+      "onboard_time": 1722587246,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 315237,
@@ -1492,7 +1596,7 @@
     },
     {
       "raw_hot": 299710,
-      "num": 740276,
+      "num": 913031,
       "word": "白敬亭为张若昀新片打call",
       "onboard_time": 1722587007,
       "rank": 49,
@@ -1555,14 +1659,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 293184,
-      "num": 293184,
-      "word": "国企设计院中标731万项目以220万外包",
-      "onboard_time": 1722587246,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 292919,
       "num": 292919,
       "word": "光与夜之恋",
@@ -1579,16 +1675,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 289455,
-      "num": 289455,
-      "word": "福原爱说张怡宁让球演技差",
-      "onboard_time": 1722587605,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 287486,
-      "num": 526209,
+      "num": 992299,
       "word": "王鹤润说我弟很有名",
       "onboard_time": 1722586164,
       "rank": 44,
@@ -1608,6 +1696,14 @@
       "word": "闪耀暖暖深海花筵",
       "onboard_time": 1722582203,
       "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 281493,
+      "num": 415464,
+      "word": "2024年第四批进口网络游戏版号",
+      "onboard_time": 1722590307,
+      "rank": 42,
       "category": "游戏"
     },
     {
@@ -1649,6 +1745,14 @@
       "onboard_time": 1722578303,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 273552,
+      "num": 2844013,
+      "word": "小孩哥小孩姐闪耀巴黎奥运",
+      "onboard_time": 1722585504,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272873,
@@ -1827,6 +1931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215997,
+      "num": 344381,
+      "word": "尤长靖减不下肥的原因",
+      "onboard_time": 1722590127,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215237,
       "num": 374512,
       "word": "中国女排1比0法国女排",
@@ -1937,14 +2049,6 @@
       "onboard_time": 1722574702,
       "rank": 48,
       "category": "剧集,体育"
-    },
-    {
-      "raw_hot": 181765,
-      "num": 2844013,
-      "word": "小孩哥小孩姐闪耀巴黎奥运",
-      "onboard_time": 1722585504,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 178766,
@@ -2065,6 +2169,14 @@
       "onboard_time": 1722576322,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99460,
+      "num": 851946,
+      "word": "山东5人被诊断为皮肤炭疽已隔离",
+      "onboard_time": 1722584724,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92719,
@@ -2257,6 +2369,14 @@
       "onboard_time": 1722578844,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 29356,
+      "num": 944105,
+      "word": "什么鞋最适合刷街",
+      "onboard_time": 1722588026,
+      "rank": 27,
+      "category": "时尚"
     },
     {
       "raw_hot": 28290,
