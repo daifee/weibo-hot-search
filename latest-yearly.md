@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/08/02 17:22:11
+本榜单时间：2024/01/01 00:21:05 ~ 2024/08/02 17:34:24
 </p>
 </blockquote>
 <p>
@@ -377,6 +377,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E8%B7%B3%E6%B0%B4%E5%A5%B3%E5%8F%8C3%E7%B1%B3%E6%9D%BF%E9%87%91%E7%89%8C%23" target="weibo">
 中国队跳水女双3米板金牌（热度：11976288）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9CvsF%E5%8B%92%E5%B8%83%E4%BC%A6%23" target="weibo">
+樊振东vsF勒布伦（热度：11770033）
 </a>
 </li>
 
@@ -1025,12 +1031,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%BF%97%E6%9D%B0%E5%8E%BB%E4%B8%96%23" target="weibo">
 张志杰去世（热度：7901681）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9CvsF%E5%8B%92%E5%B8%83%E4%BC%A6%23" target="weibo">
-樊振东vsF勒布伦（热度：7855063）
 </a>
 </li>
 
