@@ -1,6 +1,6 @@
 {
   "startTime": 1722097426384,
-  "endTime": 1722555289403,
+  "endTime": 1722561821919,
   "band_list": [
     {
       "raw_hot": 37515871,
@@ -256,6 +256,14 @@
       "word": "樊振东vs黄镇廷",
       "onboard_time": 1722419562,
       "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 10527980,
+      "num": 10527980,
+      "word": "樊振东下一把得来个十环",
+      "onboard_time": 1722534018,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -560,14 +568,6 @@
       "word": "中国队黄牌",
       "onboard_time": 1722345511,
       "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 6478670,
-      "num": 6478670,
-      "word": "樊振东下一把得来个十环",
-      "onboard_time": 1722534018,
-      "rank": 8,
       "category": "体育"
     },
     {
@@ -1659,6 +1659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2352054,
+      "num": 2352054,
+      "word": "樊振东眼神",
+      "onboard_time": 1722553461,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2351572,
       "num": 2351572,
       "word": "樊振东回应被分到死亡半区",
@@ -1744,14 +1752,6 @@
       "word": "马龙眼眶红了",
       "onboard_time": 1722539354,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2268970,
-      "num": 2002405,
-      "word": "樊振东眼神",
-      "onboard_time": 1722553461,
-      "rank": 15,
       "category": "体育"
     },
     {
@@ -3627,6 +3627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1170160,
+      "num": 475361,
+      "word": "张雨霏回怼外国记者",
+      "onboard_time": 1722555684,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1168922,
       "num": 1168922,
       "word": "朝鲜跳水 黑马",
@@ -3641,6 +3649,14 @@
       "onboard_time": 1722133703,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1163466,
+      "num": 2031100,
+      "word": "蔡徐坤 格莱美",
+      "onboard_time": 1722554664,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 1162740,
@@ -3756,7 +3772,7 @@
     },
     {
       "raw_hot": 1137595,
-      "num": 398430,
+      "num": 453844,
       "word": "张雨霏病刚好又遇上生理期",
       "onboard_time": 1722540313,
       "rank": 36,
@@ -3796,7 +3812,7 @@
     },
     {
       "raw_hot": 1113661,
-      "num": 389348,
+      "num": 461550,
       "word": "举头望明月 低头思故乡",
       "onboard_time": 1722550874,
       "rank": 24,
@@ -4571,6 +4587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 875173,
+      "num": 455753,
+      "word": "许昕还是太全面了",
+      "onboard_time": 1722553942,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 875054,
       "num": 875054,
       "word": "马振昭柔道女子78公斤级铜牌",
@@ -5113,6 +5137,14 @@
       "onboard_time": 1722440545,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 739221,
+      "num": 442546,
+      "word": "孙颖莎冲3金",
+      "onboard_time": 1722558988,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 738731,
@@ -6419,6 +6451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 536651,
+      "num": 430907,
+      "word": "张本智和落泪",
+      "onboard_time": 1722557966,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 535087,
       "num": 535087,
       "word": "中国队男子4X200自接晋级决赛",
@@ -6649,14 +6689,6 @@
       "onboard_time": 1722237322,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 512256,
-      "num": 361925,
-      "word": "许昕还是太全面了",
-      "onboard_time": 1722553942,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 511197,
@@ -7393,6 +7425,14 @@
       "onboard_time": 1722167662,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 445843,
+      "num": 1475897,
+      "word": "赵露思和爸爸车上自拍",
+      "onboard_time": 1722554182,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 445650,
@@ -8651,6 +8691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 358967,
+      "num": 480460,
+      "word": "仙剑四有效播放量破8亿",
+      "onboard_time": 1722560004,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 358959,
       "num": 358959,
       "word": "德约科维奇淘汰纳达尔",
@@ -8889,6 +8937,14 @@
       "onboard_time": 1722316463,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 344079,
+      "num": 344079,
+      "word": "水灵灵的00后开始扛事了",
+      "onboard_time": 1722560724,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 343848,
@@ -9795,14 +9851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 306304,
-      "num": 2031100,
-      "word": "蔡徐坤 格莱美",
-      "onboard_time": 1722554664,
-      "rank": 7,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 305583,
       "num": 305583,
       "word": "期待潘展乐单项",
@@ -9824,6 +9872,14 @@
       "word": "羽毛球女双",
       "onboard_time": 1722102017,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 303948,
+      "num": 303948,
+      "word": "这居然是日本国歌",
+      "onboard_time": 1722559705,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -10596,7 +10652,7 @@
     },
     {
       "raw_hot": 273604,
-      "num": 1942313,
+      "num": 2803042,
       "word": "中国军人排面看一次震撼一次",
       "onboard_time": 1722517705,
       "rank": 10,
@@ -10841,6 +10897,14 @@
       "onboard_time": 1722242183,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 264570,
+      "num": 1462774,
+      "word": "烂尾楼可以退房退款背后",
+      "onboard_time": 1722559406,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 264186,
@@ -11787,6 +11851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228972,
+      "num": 471465,
+      "word": "景甜蓝色襦裙",
+      "onboard_time": 1722557187,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 228570,
       "num": 228570,
       "word": "咱家这些家伙事儿自带安全感",
@@ -11985,6 +12057,22 @@
       "onboard_time": 1722337583,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223041,
+      "num": 436795,
+      "word": "冷静期杀妻男子家属想用8万元换谅解",
+      "onboard_time": 1722561563,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222798,
+      "num": 434897,
+      "word": "140多岁的组合救了一人",
+      "onboard_time": 1722559645,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222244,
@@ -12995,12 +13083,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191604,
+      "num": 482503,
+      "word": "蔡徐坤生日新歌Remedy",
+      "onboard_time": 1722542892,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 191601,
       "num": 191601,
       "word": "中国射击队再夺一金",
       "onboard_time": 1722154642,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191544,
+      "num": 447682,
+      "word": "朱一龙打乒乓球",
+      "onboard_time": 1722560845,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 191391,
@@ -13219,6 +13323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179868,
+      "num": 303887,
+      "word": "教育具有滞后性",
+      "onboard_time": 1722561504,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179747,
       "num": 1293844,
       "word": "种植9颗牙花费20万元",
@@ -13353,14 +13465,6 @@
       "onboard_time": 1722390502,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 175556,
-      "num": 421340,
-      "word": "赵露思和爸爸车上自拍",
-      "onboard_time": 1722554182,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 175393,
@@ -13617,14 +13721,6 @@
       "onboard_time": 1722362057,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160819,
-      "num": 482503,
-      "word": "蔡徐坤生日新歌Remedy",
-      "onboard_time": 1722542892,
-      "rank": 13,
-      "category": "音乐"
     },
     {
       "raw_hot": 160714,
@@ -14059,6 +14155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 133015,
+      "num": 570715,
+      "word": "刘诗诗给妮可基德曼送刺绣团扇",
+      "onboard_time": 1722539053,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132793,
       "num": 1042437,
       "word": "韩旭状态",
@@ -14081,6 +14185,14 @@
       "onboard_time": 1722193155,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128374,
+      "num": 303599,
+      "word": "钎城 输出",
+      "onboard_time": 1722558566,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 127714,
@@ -15073,14 +15185,6 @@
       "onboard_time": 1722162623,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 64722,
-      "num": 570715,
-      "word": "刘诗诗给妮可基德曼送刺绣团扇",
-      "onboard_time": 1722539053,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 64206,
