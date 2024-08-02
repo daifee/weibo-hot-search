@@ -1,0 +1,410 @@
+{
+  "runTime": 1722627356834,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2047075,
+        "num": 2047075,
+        "word": "石宇奇道歉",
+        "onboard_time": 1722624492,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1794492,
+        "num": 1794492,
+        "word": "汪顺200米混合泳铜牌",
+        "onboard_time": 1722625034,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 910737,
+        "num": 910737,
+        "word": "林丹 起来练球",
+        "onboard_time": 1722624133,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 622847,
+        "num": 622847,
+        "word": "张之臻王欣瑜冲击金牌",
+        "onboard_time": 1722618320,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 311216,
+        "num": 502737,
+        "word": "王梓赛男子蹦床银牌",
+        "onboard_time": 1722623595,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 497976,
+        "num": 497976,
+        "word": "国羽无缘男单奖牌",
+        "onboard_time": 1722622334,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284266,
+        "num": 284266,
+        "word": "田亮带着儿子女儿在巴黎铁塔下卖货",
+        "onboard_time": 1722613114,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54369,
+        "num": 197069,
+        "word": "张杰看大屏上的谢娜",
+        "onboard_time": 1722610593,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17981,
+        "num": 191606,
+        "word": "外交部回应以色列空袭贝鲁特南郊",
+        "onboard_time": 1722612696,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 190724,
+        "num": 190724,
+        "word": "许昕 请问这两张图哪一个更有杀伤力",
+        "onboard_time": 1722598044,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 473622,
+        "num": 190633,
+        "word": "石宇奇止步8强",
+        "onboard_time": 1722621138,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 455818,
+        "num": 190172,
+        "word": "石宇奇说没打好很难受",
+        "onboard_time": 1722623414,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140845,
+        "num": 189829,
+        "word": "新疆地震",
+        "onboard_time": 1722623534,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90301,
+        "num": 189608,
+        "word": "烟草局再回应招聘体育特长生",
+        "onboard_time": 1722601815,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84494,
+        "num": 189257,
+        "word": "泡泡玛特 光与夜之恋",
+        "onboard_time": 1722617480,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 424111,
+        "num": 189019,
+        "word": "石宇奇状态",
+        "onboard_time": 1722620236,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51905,
+        "num": 188617,
+        "word": "苏醒亲了王栎鑫",
+        "onboard_time": 1722621076,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49392,
+        "num": 188345,
+        "word": "歌手巅峰之夜",
+        "onboard_time": 1722597806,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44505,
+        "num": 187987,
+        "word": "徐海乔 你们俩怎么还蛐蛐我",
+        "onboard_time": 1722608067,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40733,
+        "num": 187651,
+        "word": "唐诡西行花甲葬六十入坟",
+        "onboard_time": 1722617359,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 366198,
+        "num": 187372,
+        "word": "石宇奇0比2昆拉武特",
+        "onboard_time": 1722621497,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 363344,
+        "num": 187068,
+        "word": "马尔尚四金四破纪录",
+        "onboard_time": 1722625934,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356073,
+        "num": 186670,
+        "word": "石宇奇说为奥运付出了很多",
+        "onboard_time": 1722623774,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 324781,
+        "num": 186517,
+        "word": "蹦床好危险",
+        "onboard_time": 1722620416,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308882,
+        "num": 186184,
+        "word": "石宇奇 手感",
+        "onboard_time": 1722621677,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292641,
+        "num": 185640,
+        "word": "石宇奇遗憾没能为中国队拿奖牌",
+        "onboard_time": 1722625992,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260550,
+        "num": 185557,
+        "word": "黄雅琼被求婚了",
+        "onboard_time": 1722612219,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252337,
+        "num": 185163,
+        "word": "石宇奇vs昆拉武特",
+        "onboard_time": 1722617001,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47517,
+        "num": 184781,
+        "word": "张子墨自拍",
+        "onboard_time": 1722616821,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40276,
+        "num": 184387,
+        "word": "唐诡西行大结局",
+        "onboard_time": 1722604407,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236663,
+        "num": 184230,
+        "word": "马尔尚 脸红",
+        "onboard_time": 1722626593,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222731,
+        "num": 183967,
+        "word": "马尔尚杀疯了",
+        "onboard_time": 1722626113,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200577,
+        "num": 183668,
+        "word": "许昕说决赛对孙颖莎陈梦都很关键",
+        "onboard_time": 1722613887,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131984,
+        "num": 183356,
+        "word": "深圳发生车祸致2死5伤",
+        "onboard_time": 1722614487,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57408,
+        "num": 182923,
+        "word": "孟子义聊天记录",
+        "onboard_time": 1722584964,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182752,
+        "num": 182752,
+        "word": "严浪宇男子蹦床铜牌",
+        "onboard_time": 1722623595,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199034,
+        "num": 180705,
+        "word": "德约哭了",
+        "onboard_time": 1722626593,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197624,
+        "num": 180605,
+        "word": "德约科维奇晋级决赛",
+        "onboard_time": 1722626293,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175768,
+        "num": 175768,
+        "word": "钟宇峰解说好温柔",
+        "onboard_time": 1722623414,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170348,
+        "num": 170348,
+        "word": "雅思组合混双奥运金牌",
+        "onboard_time": 1722610593,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160072,
+        "num": 160072,
+        "word": "德约科维奇晋级奥运四强",
+        "onboard_time": 1722626113,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158651,
+        "num": 158651,
+        "word": "莫雷加德微博头像",
+        "onboard_time": 1722614727,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155537,
+        "num": 155537,
+        "word": "彭旭玮200仰第6",
+        "onboard_time": 1722625333,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147152,
+        "num": 147152,
+        "word": "孙颖莎晋级决赛",
+        "onboard_time": 1722600942,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142104,
+        "num": 142104,
+        "word": "全队只有雅思组合不知道求婚环节",
+        "onboard_time": 1722616284,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39205,
+        "num": 141878,
+        "word": "尤长靖说我也是外国人",
+        "onboard_time": 1722594452,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30084,
+        "num": 140953,
+        "word": "张艺兴要和潘生一起去百花奖",
+        "onboard_time": 1722610530,
+        "rank": 46,
+        "category": "演出,电影"
+      },
+      {
+        "raw_hot": 28640,
+        "num": 140376,
+        "word": "虞书欣说绷不住了",
+        "onboard_time": 1722612455,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28163,
+        "num": 139403,
+        "word": "冰雪谣直播间吵成一锅粥了",
+        "onboard_time": 1722626712,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24329,
+        "num": 138208,
+        "word": "从21世纪安全撤离上映",
+        "onboard_time": 1722625814,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#深层次改革推动高水平开放#"
+    }
+  }
+}
