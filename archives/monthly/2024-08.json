@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1722566287723,
+  "endTime": 1722566853044,
   "band_list": [
     {
       "raw_hot": 37515871,
@@ -259,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 4290026,
+      "num": 4290026,
+      "word": "许昕回应王楚钦爆冷出局",
+      "onboard_time": 1722564202,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 4113387,
       "num": 4113387,
       "word": "陈梦vs波尔卡诺娃",
@@ -280,14 +288,6 @@
       "word": "樊振东赛后采访",
       "onboard_time": 1722532339,
       "rank": 22,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 3928598,
-      "num": 3928598,
-      "word": "许昕回应王楚钦爆冷出局",
-      "onboard_time": 1722564202,
-      "rank": 1,
       "category": "体育"
     },
     {
@@ -1100,7 +1100,7 @@
     },
     {
       "raw_hot": 1170160,
-      "num": 1633622,
+      "num": 1668360,
       "word": "张雨霏回怼外国记者",
       "onboard_time": 1722555684,
       "rank": 16,
@@ -1748,7 +1748,7 @@
     },
     {
       "raw_hot": 666604,
-      "num": 1083609,
+      "num": 1188578,
       "word": "冷静期杀妻男子家属想用8万元换谅解",
       "onboard_time": 1722561563,
       "rank": 33,
@@ -2260,7 +2260,7 @@
     },
     {
       "raw_hot": 449210,
-      "num": 1711811,
+      "num": 1735287,
       "word": "赵露思和爸爸车上自拍",
       "onboard_time": 1722554182,
       "rank": 29,
@@ -2548,7 +2548,7 @@
     },
     {
       "raw_hot": 358967,
-      "num": 987850,
+      "num": 1138856,
       "word": "仙剑四有效播放量破8亿",
       "onboard_time": 1722560004,
       "rank": 14,
@@ -2675,6 +2675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 333547,
+      "num": 333547,
+      "word": "iPhone16发布时间曝光",
+      "onboard_time": 1722564924,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 331181,
       "num": 876242,
       "word": "老费我呀再也不是一个人啦",
@@ -2692,7 +2700,7 @@
     },
     {
       "raw_hot": 323460,
-      "num": 1579317,
+      "num": 1608679,
       "word": "00后小伙凌晨跳桥勇救落水女子",
       "onboard_time": 1722564682,
       "rank": 9,
@@ -2713,14 +2721,6 @@
       "onboard_time": 1722495082,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 321504,
-      "num": 321504,
-      "word": "iPhone16发布时间曝光",
-      "onboard_time": 1722564924,
-      "rank": 44,
-      "category": "数码"
     },
     {
       "raw_hot": 320323,
@@ -2835,6 +2835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 295453,
+      "num": 312146,
+      "word": "男子离婚冷静期街头杀妻案二审",
+      "onboard_time": 1722566303,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293512,
       "num": 1040029,
       "word": "演唱会实名购票入场前发现已被顶替",
@@ -2908,7 +2916,7 @@
     },
     {
       "raw_hot": 275813,
-      "num": 275813,
+      "num": 311088,
       "word": "南京银行人均月薪4.66万元",
       "onboard_time": 1722566003,
       "rank": 48,
@@ -3243,6 +3251,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205865,
+      "num": 359644,
+      "word": "唐诡西行含渣量",
+      "onboard_time": 1722566724,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 205111,
+      "num": 1134952,
+      "word": "蔡徐坤生日新歌Remedy",
+      "onboard_time": 1722542892,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 204970,
+      "num": 1120700,
+      "word": "张云龙 演员当下没有话语权",
+      "onboard_time": 1722566182,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203900,
       "num": 579035,
       "word": "韩国人说中国人会分身术",
@@ -3283,16 +3315,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196643,
-      "num": 961054,
-      "word": "蔡徐坤生日新歌Remedy",
-      "onboard_time": 1722542892,
-      "rank": 13,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 194553,
-      "num": 883221,
+      "num": 962397,
       "word": "朱一龙打乒乓球",
       "onboard_time": 1722560845,
       "rank": 28,
@@ -3339,6 +3363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187978,
+      "num": 928548,
+      "word": "尤长靖居然30了",
+      "onboard_time": 1722561923,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185886,
       "num": 897519,
       "word": "魏哲鸣人夫感",
@@ -3369,14 +3401,6 @@
       "onboard_time": 1722462673,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 181211,
-      "num": 828584,
-      "word": "尤长靖居然30了",
-      "onboard_time": 1722561923,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 180144,
@@ -3432,14 +3456,6 @@
       "word": "宋木子自曝和纪凌尘是竞品",
       "onboard_time": 1722552378,
       "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 164830,
-      "num": 400950,
-      "word": "张云龙 演员当下没有话语权",
-      "onboard_time": 1722566182,
-      "rank": 39,
       "category": "综艺"
     },
     {
@@ -3659,6 +3675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106958,
+      "num": 1102146,
+      "word": "谢谢杨思琪让世界看到中国的冲浪",
+      "onboard_time": 1722566724,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104661,
       "num": 104661,
       "word": "李冰洁第5",
@@ -3827,20 +3851,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 44089,
+      "num": 1489102,
+      "word": "这才是中国人的cheers",
+      "onboard_time": 1722564325,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42403,
       "num": 192993,
       "word": "檀健次Hi6背了个红葫芦",
       "onboard_time": 1722452534,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 38072,
-      "num": 1062143,
-      "word": "这才是中国人的cheers",
-      "onboard_time": 1722564325,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 37315,
@@ -3875,20 +3899,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 31202,
+      "num": 1519274,
+      "word": "易烊千玺见证沙漠奇迹",
+      "onboard_time": 1722564325,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28392,
       "num": 2184418,
       "word": "每一场双向奔赴都是爱的传递",
       "onboard_time": 1722446122,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 27985,
-      "num": 1483633,
-      "word": "易烊千玺见证沙漠奇迹",
-      "onboard_time": 1722564325,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 26159,
