@@ -1,0 +1,410 @@
+{
+  "runTime": 1722587930562,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5482815,
+        "num": 5482815,
+        "word": "陈梦vs申裕斌",
+        "onboard_time": 1722583045,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2870954,
+        "num": 2870954,
+        "word": "原来孙颖莎大学还没有毕业",
+        "onboard_time": 1722583282,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181765,
+        "num": 2844013,
+        "word": "小孩哥小孩姐闪耀巴黎奥运",
+        "onboard_time": 1722585504,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2820841,
+        "num": 2820841,
+        "word": "潘展乐让澳洲教练恼羞成怒",
+        "onboard_time": 1722580943,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2327058,
+        "num": 2327058,
+        "word": "孟子义聊天记录",
+        "onboard_time": 1722584964,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 2093797,
+        "num": 2093797,
+        "word": "王昶秒换球拍",
+        "onboard_time": 1722582804,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2030492,
+        "num": 2030492,
+        "word": "女子50米步枪三姿决赛",
+        "onboard_time": 1722585924,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1859308,
+        "num": 1859308,
+        "word": "对方支付500万但没说是奥运会",
+        "onboard_time": 1722579983,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1016245,
+        "num": 1412794,
+        "word": "孟子义转发",
+        "onboard_time": 1722573503,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187333,
+        "num": 1310505,
+        "word": "官方通报山东一养殖场发现炭疽病例",
+        "onboard_time": 1722577889,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1303418,
+        "num": 1303418,
+        "word": "樊振东27岁正是拿大满贯的年纪",
+        "onboard_time": 1722581183,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1092789,
+        "num": 1092789,
+        "word": "奥组委调查王楚钦球拍被踩事件",
+        "onboard_time": 1722523890,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 612972,
+        "num": 1033100,
+        "word": "Kimi14岁身高",
+        "onboard_time": 1722578544,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 530926,
+        "num": 1026103,
+        "word": "杜海涛 我做梦都想回芒果录节目",
+        "onboard_time": 1722581482,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 479958,
+        "num": 1023950,
+        "word": "石凯 替父斩棘",
+        "onboard_time": 1722583823,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1022266,
+        "num": 1022266,
+        "word": "凡尘组合晋级决赛",
+        "onboard_time": 1722585265,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 812213,
+        "num": 812213,
+        "word": "樊振东下一把得来个十环",
+        "onboard_time": 1722534018,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 757717,
+        "num": 757717,
+        "word": "圣坛组合vs山羊组合",
+        "onboard_time": 1722584363,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 471103,
+        "num": 748949,
+        "word": "杨幂 腹肌",
+        "onboard_time": 1722584423,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 299710,
+        "num": 740276,
+        "word": "白敬亭为张若昀新片打call",
+        "onboard_time": 1722587007,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 924510,
+        "num": 726649,
+        "word": "男子得热射病吐血成植物人住进ICU",
+        "onboard_time": 1722577704,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 818328,
+        "num": 709892,
+        "word": "王楚钦给樊振东竖大拇指",
+        "onboard_time": 1722542892,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 706627,
+        "num": 706627,
+        "word": "贾一凡坐地连打三球",
+        "onboard_time": 1722584845,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 704003,
+        "num": 704003,
+        "word": "张本智和说樊振东拿金牌对他是安慰",
+        "onboard_time": 1722570863,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 640418,
+        "num": 640418,
+        "word": "梁王教练好损",
+        "onboard_time": 1722574224,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 539772,
+        "num": 539772,
+        "word": "张琼月50米步枪三姿铜牌",
+        "onboard_time": 1722587306,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 532865,
+        "num": 532865,
+        "word": "凡尘组合vs乐蒂组合",
+        "onboard_time": 1722580163,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287486,
+        "num": 526209,
+        "word": "王鹤润说我弟很有名",
+        "onboard_time": 1722586164,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268889,
+        "num": 492652,
+        "word": "阿如那 尴尬",
+        "onboard_time": 1722578784,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268615,
+        "num": 453475,
+        "word": "鞠婧祎高定",
+        "onboard_time": 1722585204,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1099909,
+        "num": 424805,
+        "word": "梁王组合vs谢苏组合",
+        "onboard_time": 1722587426,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 421756,
+        "num": 421756,
+        "word": "福原爱谈主副拍差距有多大",
+        "onboard_time": 1722581963,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 378617,
+        "num": 378617,
+        "word": "乒乓没有应该原来是回旋镖",
+        "onboard_time": 1722584784,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299502,
+        "num": 299502,
+        "word": "6旬老人5个QQ好友4个是骗子",
+        "onboard_time": 1722585625,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293184,
+        "num": 293184,
+        "word": "国企设计院中标731万项目以220万外包",
+        "onboard_time": 1722587246,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368933,
+        "num": 292792,
+        "word": "韩国选手拼到呕吐",
+        "onboard_time": 1722587666,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 344287,
+        "num": 292343,
+        "word": "樊振东比赛收视率",
+        "onboard_time": 1722570863,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 337256,
+        "num": 291982,
+        "word": "孙颖莎说不能让比赛往2比1发展",
+        "onboard_time": 1722571943,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 335358,
+        "num": 291512,
+        "word": "潘展乐拿下大满贯还不到20岁",
+        "onboard_time": 1722586104,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327993,
+        "num": 291170,
+        "word": "香蕉拜年 辣椒求雨 番茄打拳",
+        "onboard_time": 1722582384,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327058,
+        "num": 290391,
+        "word": "国乒梯队建设",
+        "onboard_time": 1722578603,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 314436,
+        "num": 290013,
+        "word": "王楚钦笑了",
+        "onboard_time": 1722570143,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309982,
+        "num": 289563,
+        "word": "孙颖莎小时候萌照",
+        "onboard_time": 1722586047,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289455,
+        "num": 289455,
+        "word": "福原爱说张怡宁让球演技差",
+        "onboard_time": 1722587605,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272873,
+        "num": 272873,
+        "word": "张琼月的枪上全是HelloKitty",
+        "onboard_time": 1722587785,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262026,
+        "num": 262026,
+        "word": "双腿是人体自带的血糖仪",
+        "onboard_time": 1722586047,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 255567,
+        "num": 261742,
+        "word": "阿如那 饿很久了",
+        "onboard_time": 1722586764,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245289,
+        "num": 260368,
+        "word": "by2腰身比",
+        "onboard_time": 1722583523,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 218178,
+        "num": 258032,
+        "word": "马翔宇称清华的不上路是对我的褒奖",
+        "onboard_time": 1722587546,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206023,
+        "num": 256728,
+        "word": "人民币兑美元升破7.2",
+        "onboard_time": 1722585625,
+        "rank": 49,
+        "category": "社会新闻,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂全会决定中的这些名词#"
+    }
+  }
+}
