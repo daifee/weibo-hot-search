@@ -1,6 +1,6 @@
 {
   "startTime": 1722615950508,
-  "endTime": 1722638158943,
+  "endTime": 1722640745310,
   "band_list": [
     {
       "raw_hot": 11552083,
@@ -51,11 +51,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2662404,
+      "num": 2662404,
+      "word": "汪顺 没有遗憾了",
+      "onboard_time": 1722635893,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2342102,
       "num": 2342102,
       "word": "汪顺200米混合泳铜牌",
       "onboard_time": 1722625034,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2085106,
+      "num": 2085106,
+      "word": "菲尔普斯被潘展乐震惊",
+      "onboard_time": 1722636012,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -96,6 +112,14 @@
       "word": "全队只有雅思组合不知道求婚环节",
       "onboard_time": 1722616284,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1748664,
+      "num": 1748664,
+      "word": "马尔尚无视汪顺教练握手",
+      "onboard_time": 1722638415,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -187,19 +211,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1104076,
+      "num": 1104076,
+      "word": "林丹 起来练球",
+      "onboard_time": 1722624133,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1079547,
       "num": 1079547,
       "word": "蹦床男子单人决赛",
       "onboard_time": 1722618857,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1073649,
-      "num": 1073649,
-      "word": "汪顺 没有遗憾了",
-      "onboard_time": 1722635893,
-      "rank": 11,
       "category": "体育"
     },
     {
@@ -219,14 +243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 963081,
-      "num": 665458,
-      "word": "菲尔普斯被潘展乐震惊",
-      "onboard_time": 1722636012,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 959676,
       "num": 743211,
       "word": "中国第13金",
@@ -235,19 +251,27 @@
       "category": "体育"
     },
     {
-      "raw_hot": 910737,
-      "num": 910737,
-      "word": "林丹 起来练球",
-      "onboard_time": 1722624133,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 897759,
-      "num": 897759,
+      "raw_hot": 936792,
+      "num": 936792,
       "word": "王欣瑜张之臻混双银牌",
       "onboard_time": 1722632292,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 924046,
+      "num": 924046,
+      "word": "汪顺与马克龙握手",
+      "onboard_time": 1722639797,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 899186,
+      "num": 899186,
+      "word": "刘雨辰 香蕉拜年旁边那个人",
+      "onboard_time": 1722635352,
+      "rank": 10,
       "category": "体育"
     },
     {
@@ -264,6 +288,22 @@
       "word": "蹦床好危险",
       "onboard_time": 1722620416,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 869288,
+      "num": 869288,
+      "word": "国家队把全红婵养成了社交悍匪",
+      "onboard_time": 1722637153,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 839069,
+      "num": 839069,
+      "word": "马尔尚 脸红",
+      "onboard_time": 1722626593,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -284,7 +324,7 @@
     },
     {
       "raw_hot": 757202,
-      "num": 869829,
+      "num": 1153117,
       "word": "许昕 请问这两张图哪一个更有杀伤力",
       "onboard_time": 1722598044,
       "rank": 12,
@@ -371,27 +411,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 614864,
-      "num": 614864,
-      "word": "刘雨辰 香蕉拜年旁边那个人",
-      "onboard_time": 1722635352,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 604170,
       "num": 604170,
       "word": "王梓赛严浪宇晋级男子蹦床决赛",
       "onboard_time": 1722621497,
       "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 596468,
-      "num": 596468,
-      "word": "马尔尚 脸红",
-      "onboard_time": 1722626593,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -516,7 +540,7 @@
     },
     {
       "raw_hot": 415873,
-      "num": 855698,
+      "num": 930376,
       "word": "烟草局再回应招聘体育特长生",
       "onboard_time": 1722601815,
       "rank": 14,
@@ -555,19 +579,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 394899,
+      "num": 394899,
+      "word": "马尔尚四金四破纪录",
+      "onboard_time": 1722625934,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 392858,
       "num": 392858,
       "word": "钟宇峰解说好温柔",
       "onboard_time": 1722623414,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 363344,
-      "num": 312469,
-      "word": "马尔尚四金四破纪录",
-      "onboard_time": 1722625934,
-      "rank": 39,
       "category": "体育"
     },
     {
@@ -579,12 +603,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 316852,
-      "num": 209822,
+      "raw_hot": 334347,
+      "num": 334347,
       "word": "石宇奇遗憾没能为中国队拿奖牌",
       "onboard_time": 1722625992,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 315837,
+      "num": 1195468,
+      "word": "张杰和跳跳俏俏在鸟巢同台唱歌",
+      "onboard_time": 1722638594,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 310887,
@@ -811,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189788,
+      "num": 1111595,
+      "word": "上海迪士尼回应演职人员中暑",
+      "onboard_time": 1722636855,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187351,
       "num": 418938,
       "word": "陈楚生把0713厚米团唱哭了",
@@ -851,14 +891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168712,
-      "num": 168712,
-      "word": "国家队把全红婵养成了社交悍匪",
-      "onboard_time": 1722637153,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 164950,
       "num": 164950,
       "word": "叶诗文小组第四",
@@ -892,7 +924,7 @@
     },
     {
       "raw_hot": 134064,
-      "num": 413363,
+      "num": 841568,
       "word": "张艺兴要和潘生一起去百花奖",
       "onboard_time": 1722610530,
       "rank": 48,
@@ -905,6 +937,22 @@
       "onboard_time": 1722615266,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 116848,
+      "num": 924569,
+      "word": "唐诡西行花甲葬六十入坟",
+      "onboard_time": 1722617359,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 106608,
+      "num": 395253,
+      "word": "苏有朋不愧是高考全省第五",
+      "onboard_time": 1722634513,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 96979,
@@ -931,14 +979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 83419,
-      "num": 841643,
-      "word": "唐诡西行花甲葬六十入坟",
-      "onboard_time": 1722617359,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 75277,
       "num": 742800,
       "word": "90年代的服装审美至今扛打",
@@ -955,11 +995,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 67799,
-      "num": 237002,
-      "word": "苏有朋不愧是高考全省第五",
-      "onboard_time": 1722634513,
-      "rank": 49,
+      "raw_hot": 59563,
+      "num": 257675,
+      "word": "娇妹嘉文分手",
+      "onboard_time": 1722640699,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 58772,
+      "num": 253366,
+      "word": "杨迪 好好说话我不是江疏影",
+      "onboard_time": 1722640039,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -987,12 +1035,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 34660,
-      "num": 672562,
-      "word": "上海迪士尼回应演职人员中暑",
-      "onboard_time": 1722636855,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 37854,
+      "num": 1884943,
+      "word": "网友给奥运冠军画头像",
+      "onboard_time": 1722608426,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 28163,
@@ -1001,14 +1049,6 @@
       "onboard_time": 1722626712,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 24723,
-      "num": 850823,
-      "word": "网友给奥运冠军画头像",
-      "onboard_time": 1722608426,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 24329,
