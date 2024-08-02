@@ -1,0 +1,410 @@
+{
+  "runTime": 1722602240327,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 15865175,
+        "num": 15865175,
+        "word": "孙颖莎vs早田希娜",
+        "onboard_time": 1722597145,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8639532,
+        "num": 8639532,
+        "word": "国乒锁定女单金银牌",
+        "onboard_time": 1722600942,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5806901,
+        "num": 5806901,
+        "word": "孙颖莎晋级决赛",
+        "onboard_time": 1722600942,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5196967,
+        "num": 5196967,
+        "word": "蹦床女子单人决赛",
+        "onboard_time": 1722600207,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 951169,
+        "num": 4683453,
+        "word": "尤长靖说我也是外国人",
+        "onboard_time": 1722594452,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 869720,
+        "num": 4601442,
+        "word": "歌手巅峰之夜",
+        "onboard_time": 1722597806,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4537277,
+        "num": 4537277,
+        "word": "孙颖莎 拧拉的神",
+        "onboard_time": 1722600267,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68947,
+        "num": 4211599,
+        "word": "陕西桥梁垮塌已确认38人遇难",
+        "onboard_time": 1722601715,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57809,
+        "num": 4203817,
+        "word": "烟草局再回应招聘体育特长生",
+        "onboard_time": 1722601815,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52930,
+        "num": 4203761,
+        "word": "证监会深圳监管局原局长陈小澎被查",
+        "onboard_time": 1722600568,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4203736,
+        "num": 4203736,
+        "word": "朱雪莹出场就是王炸",
+        "onboard_time": 1722597985,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3806113,
+        "num": 3806113,
+        "word": "潘展乐从第7追到了第2",
+        "onboard_time": 1722595466,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3691570,
+        "num": 3691570,
+        "word": "朱雪莹胡译乘晋级蹦床决赛",
+        "onboard_time": 1722599067,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1717339,
+        "num": 3677401,
+        "word": "许昕 请问这两张图哪一个更有杀伤力",
+        "onboard_time": 1722598044,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 44480,
+        "num": 3566043,
+        "word": "萝卜招聘的危害有哪些",
+        "onboard_time": 1722601815,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50851,
+        "num": 3524010,
+        "word": "雷军做正式冲击纽北动员",
+        "onboard_time": 1722600088,
+        "rank": 15,
+        "category": "汽车,社会新闻"
+      },
+      {
+        "raw_hot": 599425,
+        "num": 3440597,
+        "word": "刘昊然从水灵灵到干巴巴",
+        "onboard_time": 1722599006,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 290846,
+        "num": 3378941,
+        "word": "魏大勋父亲退出多家魏大勋关联公司",
+        "onboard_time": 1722596724,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279812,
+        "num": 3324134,
+        "word": "张杰在75米延伸台骑车",
+        "onboard_time": 1722597205,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 3303059,
+        "num": 3303059,
+        "word": "女子蹦床",
+        "onboard_time": 1722596665,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3124485,
+        "num": 3124485,
+        "word": "王皓脸色",
+        "onboard_time": 1722597745,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2875486,
+        "num": 2875486,
+        "word": "樊振东赛后紧抱球拍",
+        "onboard_time": 1722591456,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2651621,
+        "num": 2651621,
+        "word": "胡兵现场观战孙颖莎",
+        "onboard_time": 1722599608,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2450577,
+        "num": 2450577,
+        "word": "樊振东光速进决赛",
+        "onboard_time": 1722591397,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252880,
+        "num": 2270741,
+        "word": "时代少年团 特权码",
+        "onboard_time": 1722597505,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 2165731,
+        "num": 2165731,
+        "word": "潘展乐怒追七仙女",
+        "onboard_time": 1722598107,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1930465,
+        "num": 1930465,
+        "word": "肖指导看台安慰王楚钦",
+        "onboard_time": 1722594086,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1825456,
+        "num": 1825456,
+        "word": "我是泰勒斯威夫特 我为樊振东加油",
+        "onboard_time": 1722595826,
+        "rank": 27,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 571335,
+        "num": 1678620,
+        "word": "才知道陈伟霆差点顺走全红婵",
+        "onboard_time": 1722601181,
+        "rank": 28,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 1659212,
+        "num": 1659212,
+        "word": "冷静点 俩活爹",
+        "onboard_time": 1722599486,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1617266,
+        "num": 1617266,
+        "word": "孙颖莎好稳",
+        "onboard_time": 1722599907,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1615790,
+        "num": 1615790,
+        "word": "陈梦进女单决赛",
+        "onboard_time": 1722588511,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1453093,
+        "num": 1453093,
+        "word": "蹦床解说",
+        "onboard_time": 1722596305,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1340541,
+        "num": 1340541,
+        "word": "樊振东vsF勒布伦",
+        "onboard_time": 1722588026,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 642446,
+        "num": 1269129,
+        "word": "孟子义聊天记录",
+        "onboard_time": 1722584964,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1210480,
+        "num": 1210480,
+        "word": "梁王组合vs谢苏组合",
+        "onboard_time": 1722587426,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1196890,
+        "num": 1196890,
+        "word": "梁王组合晋级决赛",
+        "onboard_time": 1722594272,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1069426,
+        "num": 1069426,
+        "word": "4x100米混合泳接力中国队晋级决赛",
+        "onboard_time": 1722595644,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1054133,
+        "num": 1054133,
+        "word": "陈梦vs申裕斌",
+        "onboard_time": 1722583045,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 616510,
+        "num": 792710,
+        "word": "苏州通报清华毕业生举报局长贪腐",
+        "onboard_time": 1722592052,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 733108,
+        "num": 733108,
+        "word": "陈梦赢球后第一件事",
+        "onboard_time": 1722601899,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 718814,
+        "num": 718814,
+        "word": "美国跳水炸鱼",
+        "onboard_time": 1722592769,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 712267,
+        "num": 712267,
+        "word": "早田希娜哭了",
+        "onboard_time": 1722602071,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 695126,
+        "num": 695126,
+        "word": "王宗源龙道一3米板金牌",
+        "onboard_time": 1722593192,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 690752,
+        "num": 690752,
+        "word": "许昕解说",
+        "onboard_time": 1722601774,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 496851,
+        "num": 496851,
+        "word": "陕西公路桥梁垮塌已致38人遇难",
+        "onboard_time": 1722601656,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365960,
+        "num": 496000,
+        "word": "清华学子称祝某被停职很激动",
+        "onboard_time": 1722596665,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277460,
+        "num": 494471,
+        "word": "你疯了吧 我的妈呀",
+        "onboard_time": 1722589827,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211856,
+        "num": 491883,
+        "word": "孟子义转发",
+        "onboard_time": 1722573503,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209404,
+        "num": 490997,
+        "word": "胡兵举孙颖莎手幅",
+        "onboard_time": 1722602189,
+        "rank": 49,
+        "category": "艺人,体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队以不可阻挡步伐迈向世界一流#"
+    }
+  }
+}
