@@ -1,6 +1,6 @@
 {
   "startTime": 1722529527252,
-  "endTime": 1722591264014,
+  "endTime": 1722594079603,
   "band_list": [
     {
       "raw_hot": 37515871,
@@ -75,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 7539304,
+      "num": 8302067,
+      "word": "樊振东光速进决赛",
+      "onboard_time": 1722591397,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 7242675,
       "num": 7242675,
       "word": "张本智和发文",
@@ -99,11 +107,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 6369045,
+      "num": 6369045,
+      "word": "梁王组合vs谢苏组合",
+      "onboard_time": 1722587426,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 6134960,
       "num": 6134960,
       "word": "张本智和 擦网",
       "onboard_time": 1722528643,
       "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 6046078,
+      "num": 6046078,
+      "word": "男子双人三米板决赛",
+      "onboard_time": 1722588988,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -155,14 +179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 3692999,
-      "num": 3692999,
-      "word": "梁王组合vs谢苏组合",
-      "onboard_time": 1722587426,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 3618986,
       "num": 3618986,
       "word": "国羽锁定女双金牌",
@@ -184,6 +200,14 @@
       "word": "樊振东半决赛对阵F勒布伦",
       "onboard_time": 1722531743,
       "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3436126,
+      "num": 3436126,
+      "word": "王宗源龙道一3米板金牌",
+      "onboard_time": 1722593192,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -275,6 +299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2513591,
+      "num": 608159,
+      "word": "中国第12金",
+      "onboard_time": 1722593251,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2449055,
       "num": 2449055,
       "word": "张本智和说樊振东拿金牌对他是安慰",
@@ -331,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2157265,
+      "num": 471053,
+      "word": "樊振东赛后紧抱球拍",
+      "onboard_time": 1722591456,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2150337,
       "num": 2150337,
       "word": "陈梦进女单决赛",
@@ -379,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1985377,
+      "num": 292779,
+      "word": "美国跳水炸鱼",
+      "onboard_time": 1722592769,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1908591,
       "num": 1908591,
       "word": "张雨霏奥运200米蝶泳摘铜",
@@ -400,6 +448,14 @@
       "word": "失利后的张本智和",
       "onboard_time": 1722539292,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1727674,
+      "num": 302715,
+      "word": "王昶又偷后场",
+      "onboard_time": 1722591208,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -507,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1334336,
+      "num": 292130,
+      "word": "中国队最后一跳太牛了",
+      "onboard_time": 1722593490,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1309139,
       "num": 1309139,
       "word": "林志玲老公 披哥",
@@ -569,6 +633,14 @@
       "onboard_time": 1722545171,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1155509,
+      "num": 1395725,
+      "word": "你疯了吧 我的妈呀",
+      "onboard_time": 1722589827,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1137595,
@@ -683,6 +755,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 973339,
+      "num": 289928,
+      "word": "跳水也紧张了",
+      "onboard_time": 1722593310,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 972458,
+      "num": 289626,
+      "word": "勒布伦 月岛萤",
+      "onboard_time": 1722591934,
+      "rank": 32,
+      "category": "体育,动漫"
+    },
+    {
       "raw_hot": 947753,
       "num": 1310505,
       "word": "官方通报山东一养殖场发现炭疽病例",
@@ -713,6 +801,22 @@
       "onboard_time": 1722529071,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 908702,
+      "num": 779133,
+      "word": "凡尘组合vs乐蒂组合",
+      "onboard_time": 1722580163,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 907828,
+      "num": 907828,
+      "word": "苏州通报清华毕业生举报局长贪腐",
+      "onboard_time": 1722592052,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 907194,
@@ -755,35 +859,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 859002,
-      "num": 1395725,
-      "word": "你疯了吧 我的妈呀",
-      "onboard_time": 1722589827,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 811943,
-      "num": 635979,
-      "word": "男子双人三米板决赛",
-      "onboard_time": 1722588988,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 806766,
       "num": 661529,
       "word": "孙颖莎打出3D球",
       "onboard_time": 1722566303,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 805622,
-      "num": 779133,
-      "word": "凡尘组合vs乐蒂组合",
-      "onboard_time": 1722580163,
-      "rank": 36,
       "category": "体育"
     },
     {
@@ -955,20 +1035,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 624341,
+      "num": 1255631,
+      "word": "国企设计院中标731万项目以220万外包",
+      "onboard_time": 1722587246,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 622219,
       "num": 622219,
       "word": "泰勒斯威夫特超话大咖",
       "onboard_time": 1722532578,
       "rank": 41,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 610777,
-      "num": 1255631,
-      "word": "国企设计院中标731万项目以220万外包",
-      "onboard_time": 1722587246,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 607267,
@@ -993,6 +1073,14 @@
       "onboard_time": 1722581482,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 566296,
+      "num": 287774,
+      "word": "个人赛一局不失孙颖莎太强了",
+      "onboard_time": 1722592529,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 555397,
@@ -1033,6 +1121,14 @@
       "onboard_time": 1722530142,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 520816,
+      "num": 851946,
+      "word": "山东5人被诊断为皮肤炭疽已隔离",
+      "onboard_time": 1722584724,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 519936,
@@ -1201,6 +1297,22 @@
       "onboard_time": 1722564262,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 451244,
+      "num": 286781,
+      "word": "樊振东争夺男单金牌",
+      "onboard_time": 1722593909,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 450994,
+      "num": 286578,
+      "word": "梁王打球观众把国旗收回去了",
+      "onboard_time": 1722592888,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 449210,
@@ -1587,14 +1699,6 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 302715,
-      "num": 302715,
-      "word": "王昶又偷后场",
-      "onboard_time": 1722591208,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 300392,
       "num": 300392,
       "word": "恋与深空半透明侵占",
@@ -1683,6 +1787,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 292998,
+      "num": 292998,
+      "word": "陈昊宇陈丽君 时尚芭莎",
+      "onboard_time": 1722593008,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 292919,
       "num": 292919,
       "word": "光与夜之恋",
@@ -1699,11 +1811,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 287856,
+      "num": 287856,
+      "word": "官方通报清华毕业生举报局长贪腐",
+      "onboard_time": 1722591694,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 287486,
       "num": 992299,
       "word": "王鹤润说我弟很有名",
       "onboard_time": 1722586164,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 286098,
+      "num": 402341,
+      "word": "尤长靖减不下肥的原因",
+      "onboard_time": 1722590127,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -1851,6 +1979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 262466,
+      "num": 286002,
+      "word": "苹果威胁拒绝更新微信抖音",
+      "onboard_time": 1722592828,
+      "rank": 46,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 254962,
       "num": 2655838,
       "word": "创历史破纪录的后生可畏更可爱",
@@ -1923,14 +2059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 228390,
-      "num": 402341,
-      "word": "尤长靖减不下肥的原因",
-      "onboard_time": 1722590127,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 224657,
       "num": 224657,
       "word": "董宇辉郎平呼吁不要唯金牌论",
@@ -1948,7 +2076,7 @@
     },
     {
       "raw_hot": 218178,
-      "num": 258032,
+      "num": 285256,
       "word": "马翔宇称清华的不上路是对我的褒奖",
       "onboard_time": 1722587546,
       "rank": 48,
@@ -2011,6 +2139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202306,
+      "num": 285473,
+      "word": "男主连身衣服都得求男二要",
+      "onboard_time": 1722593549,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201887,
       "num": 779188,
       "word": "倒卖高校参观票成了黑色产业链",
@@ -2025,6 +2161,14 @@
       "onboard_time": 1722568403,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198284,
+      "num": 292720,
+      "word": "苏州被举报违规采购干部被立案调查",
+      "onboard_time": 1722592529,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196141,
@@ -2177,14 +2321,6 @@
       "onboard_time": 1722566724,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105715,
-      "num": 851946,
-      "word": "山东5人被诊断为皮肤炭疽已隔离",
-      "onboard_time": 1722584724,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105389,
@@ -2377,6 +2513,14 @@
       "onboard_time": 1722588026,
       "rank": 27,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 33504,
+      "num": 290580,
+      "word": "易烊千玺沙漠大片",
+      "onboard_time": 1722593369,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 29856,
