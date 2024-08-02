@@ -1,0 +1,410 @@
+{
+  "runTime": 1722580970880,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2134564,
+        "num": 2134564,
+        "word": "张本智和说樊振东拿金牌对他是安慰",
+        "onboard_time": 1722570863,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1747353,
+        "num": 1747353,
+        "word": "孟子义转发",
+        "onboard_time": 1722573503,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162781,
+        "num": 1625600,
+        "word": "创历史破纪录的后生可畏更可爱",
+        "onboard_time": 1722567983,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1550544,
+        "num": 1550544,
+        "word": "莎头 国乒首对混双大满贯",
+        "onboard_time": 1722575244,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1527153,
+        "num": 1527153,
+        "word": "孙颖莎说不能让比赛往2比1发展",
+        "onboard_time": 1722571943,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1105622,
+        "num": 1105622,
+        "word": "樊振东下一把得来个十环",
+        "onboard_time": 1722534018,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 947753,
+        "num": 947753,
+        "word": "官方通报山东一养殖场发现炭疽病例",
+        "onboard_time": 1722577889,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 877066,
+        "num": 877066,
+        "word": "阿如那 尴尬",
+        "onboard_time": 1722578784,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 869299,
+        "num": 869299,
+        "word": "樊振东比赛收视率",
+        "onboard_time": 1722570863,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154348,
+        "num": 868322,
+        "word": "哈里斯误称自己是美国总统",
+        "onboard_time": 1722576682,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1800347,
+        "num": 826695,
+        "word": "奥组委调查王楚钦球拍被踩事件",
+        "onboard_time": 1722523890,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1389328,
+        "num": 813505,
+        "word": "Kimi14岁身高",
+        "onboard_time": 1722578544,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32096,
+        "num": 777754,
+        "word": "易烊千玺穿越沙漠",
+        "onboard_time": 1722578963,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 773097,
+        "num": 773097,
+        "word": "梁王教练好损",
+        "onboard_time": 1722574224,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 674409,
+        "num": 674409,
+        "word": "徐海乔 我可是刘亦菲的前夫哥",
+        "onboard_time": 1722578303,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 660240,
+        "num": 660240,
+        "word": "林志玲老公 披哥",
+        "onboard_time": 1722574582,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 648346,
+        "num": 648346,
+        "word": "张本智和甚至能看懂这个视频",
+        "onboard_time": 1722568463,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 614520,
+        "num": 614520,
+        "word": "运动员尿检时需要当面尿",
+        "onboard_time": 1722569963,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 593730,
+        "num": 593730,
+        "word": "许昕回应王楚钦爆冷出局",
+        "onboard_time": 1722564202,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33610,
+        "num": 579325,
+        "word": "度华年",
+        "onboard_time": 1722579263,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 808127,
+        "num": 575446,
+        "word": "王楚钦给樊振东竖大拇指",
+        "onboard_time": 1722542892,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41134,
+        "num": 572437,
+        "word": "大咖都在忙着集猫卡",
+        "onboard_time": 1722577644,
+        "rank": 21,
+        "category": "互联网,体育"
+      },
+      {
+        "raw_hot": 571281,
+        "num": 571281,
+        "word": "粉丝让王楚钦签名在爱马仕上",
+        "onboard_time": 1722570684,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 536338,
+        "num": 536338,
+        "word": "对方支付500万但没说是奥运会",
+        "onboard_time": 1722579983,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 502986,
+        "num": 502986,
+        "word": "孟子义工作室称是工作人员失误",
+        "onboard_time": 1722578662,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 476110,
+        "num": 476110,
+        "word": "山东回应疑发现畜间炭疽阳性",
+        "onboard_time": 1722576863,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465671,
+        "num": 465671,
+        "word": "男子得热射病吐血成植物人住进ICU",
+        "onboard_time": 1722577704,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341313,
+        "num": 430210,
+        "word": "吴磊奥运会到处撞脸",
+        "onboard_time": 1722574523,
+        "rank": 27,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 335078,
+        "num": 425166,
+        "word": "张纪中侵犯前妻隐私权被强执2.5万",
+        "onboard_time": 1722580462,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29856,
+        "num": 424587,
+        "word": "哈马斯领导人遇袭身亡让停火遥遥无期",
+        "onboard_time": 1722580943,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424300,
+        "num": 424300,
+        "word": "王楚钦笑了",
+        "onboard_time": 1722570143,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 382925,
+        "num": 382925,
+        "word": "许昕看孙颖莎vs许昕看樊振东",
+        "onboard_time": 1722576682,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 366328,
+        "num": 366328,
+        "word": "国乒梯队建设",
+        "onboard_time": 1722578603,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333178,
+        "num": 333178,
+        "word": "樊振东半决赛对战东道主选手",
+        "onboard_time": 1722576502,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 332547,
+        "num": 332547,
+        "word": "巴基斯坦将对中国公民免签",
+        "onboard_time": 1722579683,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 330255,
+        "num": 330255,
+        "word": "潘展乐让澳洲教练恼羞成怒",
+        "onboard_time": 1722580943,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306145,
+        "num": 306145,
+        "word": "凡尘组合vs乐蒂组合",
+        "onboard_time": 1722580163,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295183,
+        "num": 295183,
+        "word": "某幻更新了",
+        "onboard_time": 1722578303,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 292899,
+        "num": 292899,
+        "word": "举头望明月 低头思故乡",
+        "onboard_time": 1722550874,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291922,
+        "num": 291922,
+        "word": "中国网球临时摇人进决赛",
+        "onboard_time": 1722571645,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30866,
+        "num": 287579,
+        "word": "雷军现身纽北",
+        "onboard_time": 1722579923,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 24927,
+        "num": 286234,
+        "word": "至少60枚火箭弹飞向以色列北部",
+        "onboard_time": 1722580283,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285423,
+        "num": 285423,
+        "word": "女运动员化妆参赛到底冒犯了谁",
+        "onboard_time": 1722573323,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281078,
+        "num": 281078,
+        "word": "张晚意从背德赛道到缺德赛道",
+        "onboard_time": 1722575062,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273955,
+        "num": 273955,
+        "word": "国乒队真是谁带就像谁",
+        "onboard_time": 1722578303,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273370,
+        "num": 273370,
+        "word": "樊振东vs张本智和",
+        "onboard_time": 1722522570,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258576,
+        "num": 258576,
+        "word": "潘展乐的腹肌是交错的",
+        "onboard_time": 1722577163,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253599,
+        "num": 253599,
+        "word": "张雨霏说每逢大赛必碰生理期",
+        "onboard_time": 1722571045,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238996,
+        "num": 238996,
+        "word": "樊振东晋级单打4强",
+        "onboard_time": 1722527558,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235506,
+        "num": 235506,
+        "word": "樊振东状态",
+        "onboard_time": 1722525947,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航强军向复兴#"
+    }
+  }
+}
