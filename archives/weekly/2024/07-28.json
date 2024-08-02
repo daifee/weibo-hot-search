@@ -1,6 +1,6 @@
 {
   "startTime": 1722097426384,
-  "endTime": 1722561821919,
+  "endTime": 1722563125988,
   "band_list": [
     {
       "raw_hot": 37515871,
@@ -4819,6 +4819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 813131,
+      "num": 442546,
+      "word": "孙颖莎冲3金",
+      "onboard_time": 1722558988,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 811934,
       "num": 1385257,
       "word": "贵州29岁抗癌网红大飞去世",
@@ -5137,14 +5145,6 @@
       "onboard_time": 1722440545,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 739221,
-      "num": 442546,
-      "word": "孙颖莎冲3金",
-      "onboard_time": 1722558988,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 738731,
@@ -7403,6 +7403,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 449210,
+      "num": 1475897,
+      "word": "赵露思和爸爸车上自拍",
+      "onboard_time": 1722554182,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 447753,
       "num": 447753,
       "word": "樊振东巴黎奥运首秀",
@@ -7425,14 +7433,6 @@
       "onboard_time": 1722167662,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 445843,
-      "num": 1475897,
-      "word": "赵露思和爸爸车上自拍",
-      "onboard_time": 1722554182,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 445650,
@@ -7769,6 +7769,14 @@
       "onboard_time": 1722341364,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 424140,
+      "num": 436795,
+      "word": "冷静期杀妻男子家属想用8万元换谅解",
+      "onboard_time": 1722561563,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 422825,
@@ -9419,6 +9427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 325397,
+      "num": 1462774,
+      "word": "烂尾楼可以退房退款背后",
+      "onboard_time": 1722559406,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 325284,
       "num": 325284,
       "word": "德龄与慈禧",
@@ -10136,6 +10152,14 @@
       "word": "孙颖莎26分钟下班",
       "onboard_time": 1722157643,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 292851,
+      "num": 292851,
+      "word": "18岁冠军姑娘被网友夸害羞了",
+      "onboard_time": 1722562703,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -10899,14 +10923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 264570,
-      "num": 1462774,
-      "word": "烂尾楼可以退房退款背后",
-      "onboard_time": 1722559406,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 264186,
       "num": 3402794,
       "word": "中方向德方提出严正交涉",
@@ -10945,6 +10961,14 @@
       "onboard_time": 1722095974,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 263848,
+      "num": 434897,
+      "word": "140多岁的组合救了一人",
+      "onboard_time": 1722559645,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263725,
@@ -11659,6 +11683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 235372,
+      "num": 392066,
+      "word": "教育具有滞后性",
+      "onboard_time": 1722561504,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 235293,
       "num": 235293,
       "word": "国乒是把奥运当竞速赛了吗",
@@ -12057,22 +12089,6 @@
       "onboard_time": 1722337583,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 223041,
-      "num": 436795,
-      "word": "冷静期杀妻男子家属想用8万元换谅解",
-      "onboard_time": 1722561563,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 222798,
-      "num": 434897,
-      "word": "140多岁的组合救了一人",
-      "onboard_time": 1722559645,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 222244,
@@ -13011,6 +13027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194553,
+      "num": 447682,
+      "word": "朱一龙打乒乓球",
+      "onboard_time": 1722560845,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194494,
       "num": 194494,
       "word": "乒乓球",
@@ -13097,14 +13121,6 @@
       "onboard_time": 1722154642,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 191544,
-      "num": 447682,
-      "word": "朱一龙打乒乓球",
-      "onboard_time": 1722560845,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 191391,
@@ -13283,6 +13299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181211,
+      "num": 397869,
+      "word": "尤长靖居然30了",
+      "onboard_time": 1722561923,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181108,
       "num": 301089,
       "word": "邓为白T中裤",
@@ -13321,14 +13345,6 @@
       "onboard_time": 1722471807,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 179868,
-      "num": 303887,
-      "word": "教育具有滞后性",
-      "onboard_time": 1722561504,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 179747,
@@ -13465,6 +13481,14 @@
       "onboard_time": 1722390502,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175755,
+      "num": 289945,
+      "word": "北京奥运背包走红厂家缝纫机踩冒烟",
+      "onboard_time": 1722562523,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175393,

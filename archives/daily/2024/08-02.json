@@ -1,6 +1,6 @@
 {
   "startTime": 1722529527252,
-  "endTime": 1722561821919,
+  "endTime": 1722563125988,
   "band_list": [
     {
       "raw_hot": 37515871,
@@ -451,7 +451,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 739221,
+      "raw_hot": 813131,
       "num": 442546,
       "word": "孙颖莎冲3金",
       "onboard_time": 1722558988,
@@ -643,12 +643,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 445843,
+      "raw_hot": 449210,
       "num": 1475897,
       "word": "赵露思和爸爸车上自拍",
       "onboard_time": 1722554182,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 424140,
+      "num": 436795,
+      "word": "冷静期杀妻男子家属想用8万元换谅解",
+      "onboard_time": 1722561563,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 420036,
@@ -755,6 +763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 325397,
+      "num": 1462774,
+      "word": "烂尾楼可以退房退款背后",
+      "onboard_time": 1722559406,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315237,
       "num": 315237,
       "word": "雅思组合进决赛了",
@@ -777,6 +793,14 @@
       "onboard_time": 1722514830,
       "rank": 47,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 292851,
+      "num": 292851,
+      "word": "18岁冠军姑娘被网友夸害羞了",
+      "onboard_time": 1722562703,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 275425,
@@ -803,20 +827,20 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 264570,
-      "num": 1462774,
-      "word": "烂尾楼可以退房退款背后",
-      "onboard_time": 1722559406,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 264186,
       "num": 3402794,
       "word": "中方向德方提出严正交涉",
       "onboard_time": 1722529279,
       "rank": 19,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 263848,
+      "num": 434897,
+      "word": "140多岁的组合救了一人",
+      "onboard_time": 1722559645,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253561,
@@ -835,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235372,
+      "num": 392066,
+      "word": "教育具有滞后性",
+      "onboard_time": 1722561504,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 229461,
       "num": 509492,
       "word": "天策府有奥运冠军",
@@ -849,22 +881,6 @@
       "onboard_time": 1722557187,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 223041,
-      "num": 436795,
-      "word": "冷静期杀妻男子家属想用8万元换谅解",
-      "onboard_time": 1722561563,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 222798,
-      "num": 434897,
-      "word": "140多岁的组合救了一人",
-      "onboard_time": 1722559645,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 221779,
@@ -907,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194553,
+      "num": 447682,
+      "word": "朱一龙打乒乓球",
+      "onboard_time": 1722560845,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194093,
       "num": 194093,
       "word": "欧钰珊失误",
@@ -923,20 +947,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 191544,
-      "num": 447682,
-      "word": "朱一龙打乒乓球",
-      "onboard_time": 1722560845,
+      "raw_hot": 181211,
+      "num": 397869,
+      "word": "尤长靖居然30了",
+      "onboard_time": 1722561923,
       "rank": 28,
-      "category": "电影"
+      "category": "综艺"
     },
     {
-      "raw_hot": 179868,
-      "num": 303887,
-      "word": "教育具有滞后性",
-      "onboard_time": 1722561504,
-      "rank": 45,
-      "category": "情感"
+      "raw_hot": 175755,
+      "num": 289945,
+      "word": "北京奥运背包走红厂家缝纫机踩冒烟",
+      "onboard_time": 1722562523,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166631,
@@ -1035,7 +1059,7 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 28299,
+      "raw_hot": 50662,
       "num": 2803042,
       "word": "中国军人排面看一次震撼一次",
       "onboard_time": 1722517705,
