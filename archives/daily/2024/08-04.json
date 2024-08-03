@@ -1,6 +1,6 @@
 {
   "startTime": 1722702313981,
-  "endTime": 1722706514149,
+  "endTime": 1722709563034,
   "band_list": [
     {
       "raw_hot": 30093650,
@@ -99,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2805403,
+      "num": 2805403,
+      "word": "郑钦文赛后采访",
+      "onboard_time": 1722705801,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2595679,
       "num": 2595679,
       "word": "黄晓明祝贺陈梦",
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 2438793,
-      "num": 547298,
+      "num": 1061631,
       "word": "郑钦文咬金牌",
       "onboard_time": 1722705203,
       "rank": 10,
@@ -147,8 +155,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1870904,
-      "num": 1870904,
+      "raw_hot": 1998553,
+      "num": 1998553,
       "word": "陈梦美甲",
       "onboard_time": 1722702219,
       "rank": 47,
@@ -156,18 +164,10 @@
     },
     {
       "raw_hot": 1859307,
-      "num": 800534,
+      "num": 1038512,
       "word": "孙颖莎vs陈梦",
       "onboard_time": 1722686787,
       "rank": 20,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1771959,
-      "num": 548566,
-      "word": "郑钦文赛后采访",
-      "onboard_time": 1722705801,
-      "rank": 10,
       "category": "体育"
     },
     {
@@ -395,6 +395,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 337927,
+      "num": 337927,
+      "word": "章若楠男粉",
+      "onboard_time": 1722706041,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 333301,
       "num": 783419,
       "word": "费沁源排名",
@@ -428,7 +436,7 @@
     },
     {
       "raw_hot": 283771,
-      "num": 789889,
+      "num": 1039063,
       "word": "请帮我告诉他你现在是第一名",
       "onboard_time": 1722702647,
       "rank": 29,
@@ -459,6 +467,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253255,
+      "num": 253255,
+      "word": "收视率破10",
+      "onboard_time": 1722707119,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 251428,
+      "num": 251428,
+      "word": "山东亲友团为陈梦加油",
+      "onboard_time": 1722701786,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 214234,
+      "num": 184201,
+      "word": "孙颖莎说有遗憾也能接受",
+      "onboard_time": 1722708377,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213148,
       "num": 770108,
       "word": "檀健次王玉雯上演替身文学",
@@ -483,12 +515,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189428,
+      "num": 182625,
+      "word": "4位姑娘高喊中国女双第1",
+      "onboard_time": 1722708917,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187611,
       "num": 517944,
       "word": "刘亦菲光速帮徐海乔录应援视频",
       "onboard_time": 1722691593,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186931,
+      "num": 180517,
+      "word": "陈梦赛后采访",
+      "onboard_time": 1722709336,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 173162,
@@ -513,14 +561,6 @@
       "onboard_time": 1722690628,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 168045,
-      "num": 246878,
-      "word": "章若楠男粉",
-      "onboard_time": 1722706041,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 154571,
@@ -579,6 +619,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67058,
+      "num": 181175,
+      "word": "时代少年团梦",
+      "onboard_time": 1722708677,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 62872,
+      "num": 180315,
+      "word": "张艺兴演唱会",
+      "onboard_time": 1722709276,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 60966,
       "num": 1488832,
       "word": "郑钦文创造了历史",
@@ -587,7 +643,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 11840,
+      "raw_hot": 13408,
       "num": 2845801,
       "word": "骏马奔腾",
       "onboard_time": 1722670522,
