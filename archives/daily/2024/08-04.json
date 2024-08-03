@@ -1,6 +1,6 @@
 {
   "startTime": 1722702313981,
-  "endTime": 1722713673534,
+  "endTime": 1722716372197,
   "band_list": [
     {
       "raw_hot": 30093650,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 890144,
-      "num": 435560,
+      "num": 533096,
       "word": "黄晓明发红包祝贺表妹陈梦夺金",
       "onboard_time": 1722710596,
       "rank": 12,
@@ -363,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 505002,
+      "num": 505002,
+      "word": "男女4x100混接中国队名单",
+      "onboard_time": 1722712694,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 491143,
       "num": 491143,
       "word": "孙颖莎赛前训练好认真",
@@ -376,6 +384,22 @@
       "word": "陈梦孙颖莎包揽冠亚军",
       "onboard_time": 1722700226,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 485539,
+      "num": 485539,
+      "word": "弗雷泽退赛",
+      "onboard_time": 1722710235,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 484307,
+      "num": 508161,
+      "word": "中国队男女4×100米混接力银牌",
+      "onboard_time": 1722715994,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -393,14 +417,6 @@
       "onboard_time": 1722677122,
       "rank": 18,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 447209,
-      "num": 159227,
-      "word": "弗雷泽退赛",
-      "onboard_time": 1722710235,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 415945,
@@ -441,6 +457,14 @@
       "onboard_time": 1722701666,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 327713,
+      "num": 139918,
+      "word": "许昕直播",
+      "onboard_time": 1722713894,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 325600,
@@ -512,6 +536,14 @@
       "word": "山东亲友团为陈梦加油",
       "onboard_time": 1722701786,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 249505,
+      "num": 139357,
+      "word": "余依婷200米混合泳第四",
+      "onboard_time": 1722712934,
+      "rank": 17,
       "category": "体育"
     },
     {
@@ -643,6 +675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 153134,
+      "num": 136938,
+      "word": "张雨霏吴卿风50自晋级半决赛",
+      "onboard_time": 1722679462,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139562,
       "num": 326387,
       "word": "今夕赫夕",
@@ -657,14 +697,6 @@
       "onboard_time": 1722689495,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 133884,
-      "num": 133884,
-      "word": "余依婷200米混合泳第四",
-      "onboard_time": 1722712934,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 129105,
@@ -707,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101448,
+      "num": 101448,
+      "word": "阿尔弗雷德加冕女飞人",
+      "onboard_time": 1722714073,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67058,
       "num": 181175,
       "word": "时代少年团梦",
@@ -737,6 +777,14 @@
       "onboard_time": 1722702647,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52987,
+      "num": 137296,
+      "word": "贾冰居然做了腋下管理",
+      "onboard_time": 1722714673,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 19849,
