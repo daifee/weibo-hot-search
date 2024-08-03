@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1722695724618,
+  "endTime": 1722698443634,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -251,11 +251,35 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 8152411,
+      "num": 8152411,
+      "word": "郑钦文vs维基奇",
+      "onboard_time": 1722690931,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 8035938,
       "num": 8785892,
       "word": "刘宇坤50米步枪三姿金牌",
       "onboard_time": 1722500787,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 7824345,
+      "num": 2189374,
+      "word": "陈梦哭了",
+      "onboard_time": 1722695807,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 7648897,
+      "num": 1983960,
+      "word": "陈梦孙颖莎拥抱",
+      "onboard_time": 1722697057,
+      "rank": 7,
       "category": "体育"
     },
     {
@@ -336,14 +360,6 @@
       "word": "张本智和 擦网",
       "onboard_time": 1722528643,
       "rank": 6,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 6079273,
-      "num": 6079273,
-      "word": "郑钦文vs维基奇",
-      "onboard_time": 1722690931,
-      "rank": 9,
       "category": "体育"
     },
     {
@@ -1035,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2727661,
+      "num": 1051111,
+      "word": "凡尘组合vs圣坛组合",
+      "onboard_time": 1722694647,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2677629,
       "num": 2677629,
       "word": "给小胖来十个手抓饼",
@@ -1128,6 +1152,14 @@
       "word": "陈梦进4强",
       "onboard_time": 1722501808,
       "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2475830,
+      "num": 2475830,
+      "word": "凡尘组合超级大满贯",
+      "onboard_time": 1722698014,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -1312,6 +1344,14 @@
       "word": "马龙眼眶红了",
       "onboard_time": 1722539354,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2275835,
+      "num": 803488,
+      "word": "张博恒自由操第8",
+      "onboard_time": 1722695691,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -1691,6 +1731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1742396,
+      "num": 802397,
+      "word": "女单解说",
+      "onboard_time": 1722696282,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1736776,
       "num": 1286059,
       "word": "海棠",
@@ -1729,6 +1777,22 @@
       "onboard_time": 1722613114,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1693356,
+      "num": 798691,
+      "word": "陈梦 我和莎莎没有失败者",
+      "onboard_time": 1722697594,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1687885,
+      "num": 1687885,
+      "word": "豆瓣崩了",
+      "onboard_time": 1722696519,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 1678821,
@@ -2051,6 +2115,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 1377194,
+      "num": 1377194,
+      "word": "海棠读者",
+      "onboard_time": 1722685767,
+      "rank": 13,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 1370748,
       "num": 1370748,
       "word": "谢震业仅差0.001秒晋级",
@@ -2073,6 +2145,14 @@
       "onboard_time": 1722685106,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1354551,
+      "num": 795960,
+      "word": "女单乒乓球颁奖",
+      "onboard_time": 1722696940,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 1351857,
@@ -2344,6 +2424,14 @@
       "word": "孙颖莎赛前训练好认真",
       "onboard_time": 1722688652,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1208388,
+      "num": 789874,
+      "word": "陈梦心态",
+      "onboard_time": 1722695340,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -2651,14 +2739,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 1051111,
-      "num": 1051111,
-      "word": "凡尘组合vs圣坛组合",
-      "onboard_time": 1722694647,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1050917,
       "num": 1517976,
       "word": "刘宇坤 天策jjc33",
@@ -2713,14 +2793,6 @@
       "onboard_time": 1722601656,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1019170,
-      "num": 1019170,
-      "word": "海棠读者",
-      "onboard_time": 1722685767,
-      "rank": 13,
-      "category": "读书作家"
     },
     {
       "raw_hot": 996019,
@@ -2891,6 +2963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 949820,
+      "num": 781047,
+      "word": "孙颖莎黄牌",
+      "onboard_time": 1722694367,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 947753,
       "num": 1310505,
       "word": "官方通报山东一养殖场发现炭疽病例",
@@ -2984,6 +3064,14 @@
       "word": "申裕斌头顶的冰袋越打越大",
       "onboard_time": 1722667102,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 916079,
+      "num": 779021,
+      "word": "网球规则",
+      "onboard_time": 1722698315,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -3280,6 +3368,14 @@
       "word": "樊振东将对阵张本智和",
       "onboard_time": 1722473488,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 777072,
+      "num": 777072,
+      "word": "国羽包揽金银牌",
+      "onboard_time": 1722698315,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -3947,14 +4043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 606017,
-      "num": 387528,
-      "word": "孙颖莎黄牌",
-      "onboard_time": 1722694367,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 605885,
       "num": 1404127,
       "word": "苏州被举报违规采购干部被立案调查",
@@ -4056,14 +4144,6 @@
       "word": "潘展乐",
       "onboard_time": 1722459613,
       "rank": 20,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 575596,
-      "num": 342474,
-      "word": "张博恒自由操第8",
-      "onboard_time": 1722695691,
-      "rank": 39,
       "category": "体育"
     },
     {
@@ -4232,14 +4312,6 @@
       "word": "雨果4比1勒布伦",
       "onboard_time": 1722530142,
       "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 527359,
-      "num": 337781,
-      "word": "陈梦心态",
-      "onboard_time": 1722695340,
-      "rank": 41,
       "category": "体育"
     },
     {
@@ -4675,6 +4747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 456601,
+      "num": 456601,
+      "word": "刘雨辰求婚的唯一受害者出现了",
+      "onboard_time": 1722697774,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 456451,
       "num": 740098,
       "word": "教育具有滞后性",
@@ -4769,6 +4849,14 @@
       "onboard_time": 1722603927,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 441682,
+      "num": 441682,
+      "word": "中国第14金",
+      "onboard_time": 1722696342,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 441304,
@@ -5556,7 +5644,7 @@
     },
     {
       "raw_hot": 343612,
-      "num": 519693,
+      "num": 794405,
       "word": "唐诡啊唐诡 没有鬼全是情",
       "onboard_time": 1722682943,
       "rank": 27,
@@ -6132,7 +6220,7 @@
     },
     {
       "raw_hot": 294785,
-      "num": 356855,
+      "num": 440906,
       "word": "云间 海棠",
       "onboard_time": 1722684266,
       "rank": 45,
@@ -6145,6 +6233,14 @@
       "onboard_time": 1722684146,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 294651,
+      "num": 786550,
+      "word": "庆怜穿了湖南省服",
+      "onboard_time": 1722696163,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 294154,
@@ -6715,6 +6811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 255781,
+      "num": 814441,
+      "word": "郑钦文破发维基奇",
+      "onboard_time": 1722697355,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 254962,
       "num": 2655838,
       "word": "创历史破纪录的后生可畏更可爱",
@@ -6836,7 +6940,7 @@
     },
     {
       "raw_hot": 237480,
-      "num": 413882,
+      "num": 791659,
       "word": "张杰带着燕归巢归巢了",
       "onboard_time": 1722692621,
       "rank": 39,
@@ -7867,6 +7971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 169069,
+      "num": 421045,
+      "word": "张泽禹对镜自拍",
+      "onboard_time": 1722698315,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166048,
       "num": 413497,
       "word": "宋木子自曝和纪凌尘是竞品",
@@ -8531,6 +8643,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 66294,
+      "num": 813751,
+      "word": "安全是最大的吉利",
+      "onboard_time": 1722693999,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 66035,
       "num": 609903,
       "word": "现炒菜食堂如何征服年轻人",
@@ -8609,14 +8729,6 @@
       "onboard_time": 1722600088,
       "rank": 15,
       "category": "汽车,社会新闻"
-    },
-    {
-      "raw_hot": 59403,
-      "num": 541788,
-      "word": "安全是最大的吉利",
-      "onboard_time": 1722693999,
-      "rank": 16,
-      "category": "汽车"
     },
     {
       "raw_hot": 58098,
