@@ -1,6 +1,6 @@
 {
   "startTime": 1722702313981,
-  "endTime": 1722703156626,
+  "endTime": 1722705428041,
   "band_list": [
     {
       "raw_hot": 30093650,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 9337678,
-      "num": 2112863,
+      "num": 3429274,
       "word": "中国网球首枚奥运女单金牌",
       "onboard_time": 1722702939,
       "rank": 7,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 4521261,
-      "num": 816687,
+      "num": 4072012,
       "word": "维基奇摔拍子",
       "onboard_time": 1722702286,
       "rank": 26,
@@ -107,6 +107,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 2438793,
+      "num": 547298,
+      "word": "郑钦文咬金牌",
+      "onboard_time": 1722705203,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2378882,
       "num": 806954,
       "word": "郑钦文接发神了",
@@ -120,6 +128,14 @@
       "word": "马尔尚道歉了",
       "onboard_time": 1722698734,
       "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2130525,
+      "num": 528020,
+      "word": "孙颖莎又指导拍照了",
+      "onboard_time": 1722701246,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -171,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1097928,
+      "num": 447772,
+      "word": "陈梦美甲",
+      "onboard_time": 1722702219,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1065826,
       "num": 778040,
       "word": "陈梦 我和莎莎没有失败者",
@@ -195,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 937334,
+      "num": 768466,
+      "word": "谷爱凌删了给马尔尚的所有ins评论",
+      "onboard_time": 1722683184,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 872444,
       "num": 814766,
       "word": "郑钦文ace",
@@ -209,14 +241,6 @@
       "onboard_time": 1722685767,
       "rank": 12,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 768466,
-      "num": 768466,
-      "word": "谷爱凌删了给马尔尚的所有ins评论",
-      "onboard_time": 1722683184,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 766635,
@@ -243,11 +267,35 @@
       "category": "演出"
     },
     {
+      "raw_hot": 674476,
+      "num": 332778,
+      "word": "郑钦文颁奖仪式",
+      "onboard_time": 1722704666,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 661099,
       "num": 1540975,
       "word": "刘圣书谭宁羽毛球女双银牌",
       "onboard_time": 1722699568,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 652297,
+      "num": 332654,
+      "word": "郑钦文滑步救球",
+      "onboard_time": 1722703954,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 646518,
+      "num": 332380,
+      "word": "接网球管理中心事业运",
+      "onboard_time": 1722705023,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -267,20 +315,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 528020,
-      "num": 528020,
-      "word": "孙颖莎又指导拍照了",
-      "onboard_time": 1722701246,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 525263,
       "num": 820234,
       "word": "宋雨琦辣成这样",
       "onboard_time": 1722700105,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 518739,
+      "num": 329996,
+      "word": "维基奇红温",
+      "onboard_time": 1722704369,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 491143,
@@ -299,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 462563,
+      "num": 328056,
+      "word": "亚洲人首夺奥运会网球单打金牌",
+      "onboard_time": 1722704248,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 454426,
       "num": 817760,
       "word": "海棠",
@@ -307,12 +363,12 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 447772,
-      "num": 447772,
-      "word": "陈梦美甲",
-      "onboard_time": 1722702219,
-      "rank": 47,
-      "category": "体育"
+      "raw_hot": 415945,
+      "num": 415945,
+      "word": "武汉江滩灯光秀为郑钦文加油",
+      "onboard_time": 1722704369,
+      "rank": 12,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 402520,
@@ -331,7 +387,7 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 317372,
+      "raw_hot": 333301,
       "num": 783419,
       "word": "费沁源排名",
       "onboard_time": 1722701666,
@@ -339,12 +395,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 272810,
+      "raw_hot": 325600,
+      "num": 524330,
+      "word": "SNH48总选 袁一琦第一",
+      "onboard_time": 1722702467,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 308556,
       "num": 2389998,
       "word": "23斤多冰毒竟被编进地毯里",
       "onboard_time": 1722702219,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274610,
+      "num": 789889,
+      "word": "请帮我告诉他你现在是第一名",
+      "onboard_time": 1722702647,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 266855,
@@ -379,12 +451,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190728,
-      "num": 789889,
-      "word": "请帮我告诉他你现在是第一名",
-      "onboard_time": 1722702647,
-      "rank": 29,
-      "category": "综艺"
+      "raw_hot": 198960,
+      "num": 331648,
+      "word": "SNH48总选王奕第二",
+      "onboard_time": 1722704607,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 187611,
@@ -393,6 +465,22 @@
       "onboard_time": 1722691593,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173162,
+      "num": 327142,
+      "word": "许嵩星座书上首唱",
+      "onboard_time": 1722703709,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 170408,
+      "num": 326812,
+      "word": "吴千语施伯雄欢迎晚宴",
+      "onboard_time": 1722704248,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 168765,
@@ -409,14 +497,6 @@
       "onboard_time": 1722700945,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 137931,
-      "num": 524330,
-      "word": "SNH48总选 袁一琦第一",
-      "onboard_time": 1722702467,
-      "rank": 46,
-      "category": "演出"
     },
     {
       "raw_hot": 136380,
@@ -449,6 +529,22 @@
       "onboard_time": 1722689011,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108003,
+      "num": 326387,
+      "word": "今夕赫夕",
+      "onboard_time": 1722705144,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 104218,
+      "num": 344658,
+      "word": "中国第16金",
+      "onboard_time": 1722704427,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 60966,

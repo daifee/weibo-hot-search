@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1722703156626,
+  "endTime": 1722705428041,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 9337678,
-      "num": 2112863,
+      "num": 3429274,
       "word": "中国网球首枚奥运女单金牌",
       "onboard_time": 1722702939,
       "rank": 7,
@@ -564,7 +564,7 @@
     },
     {
       "raw_hot": 4521261,
-      "num": 816687,
+      "num": 4072012,
       "word": "维基奇摔拍子",
       "onboard_time": 1722702286,
       "rank": 26,
@@ -1267,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2438793,
+      "num": 547298,
+      "word": "郑钦文咬金牌",
+      "onboard_time": 1722705203,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2420018,
       "num": 2420018,
       "word": "潘展乐 比孙杨快就够了",
@@ -1496,6 +1504,14 @@
       "word": "张本智和去法国后都变松弛了",
       "onboard_time": 1722514292,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2130525,
+      "num": 528020,
+      "word": "孙颖莎又指导拍照了",
+      "onboard_time": 1722701246,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -2779,6 +2795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1097928,
+      "num": 447772,
+      "word": "陈梦美甲",
+      "onboard_time": 1722702219,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1095914,
       "num": 1095914,
       "word": "凡尘组合晋级决赛",
@@ -3955,6 +3979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 674476,
+      "num": 332778,
+      "word": "郑钦文颁奖仪式",
+      "onboard_time": 1722704666,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 674409,
       "num": 720643,
       "word": "徐海乔 我可是刘亦菲的前夫哥",
@@ -4051,11 +4083,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 652297,
+      "num": 332654,
+      "word": "郑钦文滑步救球",
+      "onboard_time": 1722703954,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 647558,
       "num": 647558,
       "word": "拜尔斯比困了",
       "onboard_time": 1722536894,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 646518,
+      "num": 332380,
+      "word": "接网球管理中心事业运",
+      "onboard_time": 1722705023,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -4451,14 +4499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 528020,
-      "num": 528020,
-      "word": "孙颖莎又指导拍照了",
-      "onboard_time": 1722701246,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 527562,
       "num": 527562,
       "word": "雨果4比1勒布伦",
@@ -4512,6 +4552,14 @@
       "word": "张雨霏病着夺铜牌",
       "onboard_time": 1722537974,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 518739,
+      "num": 329996,
+      "word": "维基奇红温",
+      "onboard_time": 1722704369,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -4867,6 +4915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 462563,
+      "num": 328056,
+      "word": "亚洲人首夺奥运会网球单打金牌",
+      "onboard_time": 1722704248,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 461799,
       "num": 322635,
       "word": "宋茜观战乒乓球",
@@ -5001,14 +5057,6 @@
       "onboard_time": 1722554182,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 447772,
-      "num": 447772,
-      "word": "陈梦美甲",
-      "onboard_time": 1722702219,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 442322,
@@ -5233,6 +5281,14 @@
       "onboard_time": 1722566724,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 415945,
+      "num": 415945,
+      "word": "武汉江滩灯光秀为郑钦文加油",
+      "onboard_time": 1722704369,
+      "rank": 12,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 415776,
@@ -5947,6 +6003,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 333301,
+      "num": 783419,
+      "word": "费沁源排名",
+      "onboard_time": 1722701666,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 333178,
       "num": 333178,
       "word": "樊振东半决赛对战东道主选手",
@@ -6009,6 +6073,14 @@
       "onboard_time": 1722542414,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 325600,
+      "num": 524330,
+      "word": "SNH48总选 袁一琦第一",
+      "onboard_time": 1722702467,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 325592,
@@ -6099,14 +6171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 317372,
-      "num": 783419,
-      "word": "费沁源排名",
-      "onboard_time": 1722701666,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
       "raw_hot": 316639,
       "num": 316639,
       "word": "以色列总理称毁灭性打击伊朗代理人",
@@ -6193,6 +6257,14 @@
       "onboard_time": 1722501087,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 308556,
+      "num": 2389998,
+      "word": "23斤多冰毒竟被编进地毯里",
+      "onboard_time": 1722702219,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 308245,
@@ -6723,6 +6795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 274610,
+      "num": 789889,
+      "word": "请帮我告诉他你现在是第一名",
+      "onboard_time": 1722702647,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 274426,
       "num": 506845,
       "word": "苹果威胁拒绝更新微信抖音",
@@ -6777,14 +6857,6 @@
       "onboard_time": 1722587785,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 272810,
-      "num": 2389998,
-      "word": "23斤多冰毒竟被编进地毯里",
-      "onboard_time": 1722702219,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 272623,
@@ -7763,6 +7835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198960,
+      "num": 331648,
+      "word": "SNH48总选王奕第二",
+      "onboard_time": 1722704607,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198887,
       "num": 198887,
       "word": "中国游泳队巴黎首金",
@@ -7945,14 +8025,6 @@
       "onboard_time": 1722499222,
       "rank": 9,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 190728,
-      "num": 789889,
-      "word": "请帮我告诉他你现在是第一名",
-      "onboard_time": 1722702647,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 190452,
@@ -8187,12 +8259,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173162,
+      "num": 327142,
+      "word": "许嵩星座书上首唱",
+      "onboard_time": 1722703709,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 171014,
       "num": 171014,
       "word": "德约科维奇晋级奥运四强",
       "onboard_time": 1722626113,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170408,
+      "num": 326812,
+      "word": "吴千语施伯雄欢迎晚宴",
+      "onboard_time": 1722704248,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 170226,
@@ -8427,14 +8515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137931,
-      "num": 524330,
-      "word": "SNH48总选 袁一琦第一",
-      "onboard_time": 1722702467,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
       "raw_hot": 137292,
       "num": 1942426,
       "word": "重庆一公司被指向学校配送变质猪肉",
@@ -8627,6 +8707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108003,
+      "num": 326387,
+      "word": "今夕赫夕",
+      "onboard_time": 1722705144,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107654,
       "num": 433099,
       "word": "甘孜一高速隧道垮塌人员已救出",
@@ -8680,6 +8768,14 @@
       "word": "李冰洁第5",
       "onboard_time": 1722457633,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 104218,
+      "num": 344658,
+      "word": "中国第16金",
+      "onboard_time": 1722704427,
+      "rank": 14,
       "category": "体育"
     },
     {
