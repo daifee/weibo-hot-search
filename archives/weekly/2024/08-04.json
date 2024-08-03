@@ -1,6 +1,6 @@
 {
   "startTime": 1722702313981,
-  "endTime": 1722716372197,
+  "endTime": 1722717324014,
   "band_list": [
     {
       "raw_hot": 30093650,
@@ -192,6 +192,14 @@
       "word": "陈梦哭了",
       "onboard_time": 1722695807,
       "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1244531,
+      "num": 1244531,
+      "word": "中国队男女4×100米混接力银牌",
+      "onboard_time": 1722715994,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -395,14 +403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 484307,
-      "num": 508161,
-      "word": "中国队男女4×100米混接力银牌",
-      "onboard_time": 1722715994,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 466699,
       "num": 328056,
       "word": "亚洲人首夺奥运会网球单打金牌",
@@ -435,6 +435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 361431,
+      "num": 361431,
+      "word": "许昕直播",
+      "onboard_time": 1722713894,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 351173,
       "num": 808046,
       "word": "苏醒恭喜陈梦夺冠",
@@ -457,14 +465,6 @@
       "onboard_time": 1722701666,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 327713,
-      "num": 139918,
-      "word": "许昕直播",
-      "onboard_time": 1722713894,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 325600,
@@ -584,6 +584,14 @@
       "word": "孙颖莎祝贺陈梦",
       "onboard_time": 1722709096,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 202817,
+      "num": 125825,
+      "word": "中国队创男女混接亚洲纪录",
+      "onboard_time": 1722716471,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -707,6 +715,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 116899,
+      "num": 116899,
+      "word": "蛙王回来了",
+      "onboard_time": 1722717252,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112570,
       "num": 695456,
       "word": "女子借住友人家盗窃后发朋友圈显摆",
@@ -747,12 +763,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96800,
+      "num": 96800,
+      "word": "潘展乐20岁了",
+      "onboard_time": 1722715332,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67058,
       "num": 181175,
       "word": "时代少年团梦",
       "onboard_time": 1722708677,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 64395,
+      "num": 137296,
+      "word": "贾冰居然做了腋下管理",
+      "onboard_time": 1722714673,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 63434,
@@ -777,14 +809,6 @@
       "onboard_time": 1722702647,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 52987,
-      "num": 137296,
-      "word": "贾冰居然做了腋下管理",
-      "onboard_time": 1722714673,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 19849,
