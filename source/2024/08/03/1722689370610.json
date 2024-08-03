@@ -1,0 +1,410 @@
+{
+  "runTime": 1722689370610,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 18048640,
+        "num": 18048640,
+        "word": "早田希娜vs申裕斌",
+        "onboard_time": 1722685165,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7464368,
+        "num": 7464368,
+        "word": "孙颖莎vs陈梦",
+        "onboard_time": 1722686787,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3516637,
+        "num": 3516637,
+        "word": "申裕斌 用魔法打败魔法",
+        "onboard_time": 1722686787,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3366350,
+        "num": 3366350,
+        "word": "谷爱凌删了给马尔尚的所有ins评论",
+        "onboard_time": 1722683184,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3015370,
+        "num": 3015370,
+        "word": "小申喊疯了",
+        "onboard_time": 1722686187,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2647349,
+        "num": 2647349,
+        "word": "孙杨回应潘展乐说比孙杨快就够了",
+        "onboard_time": 1722685165,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1305098,
+        "num": 1305098,
+        "word": "郑中基退圈",
+        "onboard_time": 1722685106,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1011453,
+        "num": 1011453,
+        "word": "海棠",
+        "onboard_time": 1722677122,
+        "rank": 7,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 777721,
+        "num": 997142,
+        "word": "赌王三房四房子女聚会",
+        "onboard_time": 1722686007,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69896,
+        "num": 990948,
+        "word": "辅警尿检阳性发现肉夹馍加了罂粟壳",
+        "onboard_time": 1722689011,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2629414,
+        "num": 969654,
+        "word": "张怡宁丁宁观赛",
+        "onboard_time": 1722688109,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2448602,
+        "num": 961444,
+        "word": "陈梦王曼昱对练",
+        "onboard_time": 1722687209,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47623,
+        "num": 940344,
+        "word": "网红洗头店批量性闭店",
+        "onboard_time": 1722688652,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113702,
+        "num": 936119,
+        "word": "霸王茶姬为QueenWen举杯",
+        "onboard_time": 1722686667,
+        "rank": 13,
+        "category": "体育,美食"
+      },
+      {
+        "raw_hot": 36835,
+        "num": 914139,
+        "word": "李雪琴喊88VIP刷火箭上太空",
+        "onboard_time": 1722686427,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 538533,
+        "num": 910303,
+        "word": "胡一天录中餐厅手机两天不用充电",
+        "onboard_time": 1722684926,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2301065,
+        "num": 892043,
+        "word": "申裕斌的球拍上贴着马龙",
+        "onboard_time": 1722684326,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 455735,
+        "num": 870878,
+        "word": "黄雅琼想看周深演唱会",
+        "onboard_time": 1722685526,
+        "rank": 17,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 868277,
+        "num": 868277,
+        "word": "谢震业仅差0.001秒晋级",
+        "onboard_time": 1722683664,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38106,
+        "num": 859628,
+        "word": "围观周冠宇3分钟波比跳挑战",
+        "onboard_time": 1722686909,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 782166,
+        "num": 856379,
+        "word": "郑钦文冲金加油",
+        "onboard_time": 1722678502,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 854493,
+        "num": 854493,
+        "word": "海棠读者",
+        "onboard_time": 1722685767,
+        "rank": 21,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 798915,
+        "num": 798915,
+        "word": "早田希娜 擦网",
+        "onboard_time": 1722687868,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 776087,
+        "num": 776087,
+        "word": "汪顺连牙都是双开门",
+        "onboard_time": 1722684206,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 762747,
+        "num": 762747,
+        "word": "中国女篮大胜",
+        "onboard_time": 1722682224,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 738816,
+        "num": 738816,
+        "word": "网球女单决赛",
+        "onboard_time": 1722686427,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 366647,
+        "num": 736750,
+        "word": "时代少年团直播",
+        "onboard_time": 1722685405,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290585,
+        "num": 726599,
+        "word": "魏哲鸣晋江评论区",
+        "onboard_time": 1722687209,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275221,
+        "num": 721294,
+        "word": "张予曦腰臀比例",
+        "onboard_time": 1722688350,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 37624,
+        "num": 711595,
+        "word": "骏马奔腾",
+        "onboard_time": 1722670522,
+        "rank": 29,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 708615,
+        "num": 708615,
+        "word": "刘诗雯为铜牌赛开场",
+        "onboard_time": 1722686067,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 683476,
+        "num": 683476,
+        "word": "张怡宁丁宁解说孙颖莎陈梦争冠",
+        "onboard_time": 1722686609,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 634602,
+        "num": 634602,
+        "word": "陈雨菲vs何冰娇",
+        "onboard_time": 1722679702,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 602111,
+        "num": 602111,
+        "word": "国乒锁定女单金牌",
+        "onboard_time": 1722672321,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 297217,
+        "num": 297217,
+        "word": "女子借住友人家盗窃后发朋友圈显摆",
+        "onboard_time": 1722684986,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592959,
+        "num": 297127,
+        "word": "马尔尚无视握手",
+        "onboard_time": 1722686368,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 550688,
+        "num": 296887,
+        "word": "羽毛球女单 手心手背都是肉",
+        "onboard_time": 1722681802,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 511779,
+        "num": 296617,
+        "word": "张怡宁说孙颖莎非常淡定从容",
+        "onboard_time": 1722688830,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 496383,
+        "num": 296297,
+        "word": "覃海洋状态回来了",
+        "onboard_time": 1722683364,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 447346,
+        "num": 295958,
+        "word": "孙颖莎陈梦金牌赛",
+        "onboard_time": 1722674720,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 427983,
+        "num": 295860,
+        "word": "奥委会回应会否增加对中国游泳队检测",
+        "onboard_time": 1722683004,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 423145,
+        "num": 295557,
+        "word": "美国游泳队 脸红",
+        "onboard_time": 1722675922,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 403360,
+        "num": 295185,
+        "word": "中国女篮波多黎各女篮冲突",
+        "onboard_time": 1722680783,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 391215,
+        "num": 294867,
+        "word": "孙颖莎赛前训练好认真",
+        "onboard_time": 1722688652,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 294785,
+        "num": 294785,
+        "word": "云间 海棠",
+        "onboard_time": 1722684266,
+        "rank": 44,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 255928,
+        "num": 255928,
+        "word": "唐诡啊唐诡 没有鬼全是情",
+        "onboard_time": 1722682943,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245818,
+        "num": 245818,
+        "word": "高叶百花奖哭了",
+        "onboard_time": 1722677963,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 235542,
+        "num": 235542,
+        "word": "赵丽颖工作室晒百花奖提名证书奖杯",
+        "onboard_time": 1722682883,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 230865,
+        "num": 230865,
+        "word": "金晨 北舞严选",
+        "onboard_time": 1722688590,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228645,
+        "num": 228645,
+        "word": "Faker连续用头撞墙",
+        "onboard_time": 1722673105,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向新任越共中央总书记苏林致贺电#"
+    }
+  }
+}
