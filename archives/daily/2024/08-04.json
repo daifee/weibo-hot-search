@@ -1,6 +1,6 @@
 {
   "startTime": 1722702313981,
-  "endTime": 1722727264211,
+  "endTime": 1722728166257,
   "band_list": [
     {
       "raw_hot": 30093650,
@@ -187,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1545898,
+      "num": 1545898,
+      "word": "陈梦 我和莎莎没有失败者",
+      "onboard_time": 1722697594,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1530414,
       "num": 1218435,
       "word": "凡尘组合金牌",
@@ -211,16 +219,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1424105,
-      "num": 1424105,
-      "word": "陈梦 我和莎莎没有失败者",
-      "onboard_time": 1722697594,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1391589,
-      "num": 773315,
+      "num": 1295019,
       "word": "四大满贯祝贺郑钦文夺冠",
       "onboard_time": 1722720973,
       "rank": 30,
@@ -233,6 +233,14 @@
       "onboard_time": 1722715994,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1217630,
+      "num": 1217630,
+      "word": "陈梦说黄晓明每天都在鼓励我",
+      "onboard_time": 1722723555,
+      "rank": 8,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 1210480,
@@ -249,14 +257,6 @@
       "onboard_time": 1722700347,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1099004,
-      "num": 1099004,
-      "word": "陈梦说黄晓明每天都在鼓励我",
-      "onboard_time": 1722723555,
-      "rank": 8,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 1020025,
@@ -475,6 +475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 386549,
+      "num": 386549,
+      "word": "孙颖莎上一秒凶巴巴下一秒笑哈哈",
+      "onboard_time": 1722722833,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 364950,
       "num": 364950,
       "word": "郑钦文前教练",
@@ -491,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 358964,
+      "num": 358964,
+      "word": "哪些品牌押中了郑钦文",
+      "onboard_time": 1722726437,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 351173,
       "num": 808046,
       "word": "苏醒恭喜陈梦夺冠",
@@ -499,8 +515,16 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 339973,
+      "num": 692549,
+      "word": "黄晓明曾回应蹭表妹陈梦热度",
+      "onboard_time": 1722726498,
+      "rank": 23,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 337927,
-      "num": 337927,
+      "num": 381075,
       "word": "章若楠男粉",
       "onboard_time": 1722706041,
       "rank": 34,
@@ -515,20 +539,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 332370,
+      "num": 332370,
+      "word": "陈梦说不知这是不是自己最后一届奥运",
+      "onboard_time": 1722723794,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 325600,
       "num": 524330,
       "word": "SNH48总选 袁一琦第一",
       "onboard_time": 1722702467,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 317216,
-      "num": 317216,
-      "word": "哪些品牌押中了郑钦文",
-      "onboard_time": 1722726437,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 308556,
@@ -539,11 +563,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 306120,
-      "num": 306120,
-      "word": "孙颖莎上一秒凶巴巴下一秒笑哈哈",
-      "onboard_time": 1722722833,
-      "rank": 43,
+      "raw_hot": 307567,
+      "num": 307567,
+      "word": "孙颖莎 不白来都不白来",
+      "onboard_time": 1722718992,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -568,14 +592,6 @@
       "word": "蛙王回来了",
       "onboard_time": 1722717252,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 284466,
-      "num": 284466,
-      "word": "陈梦说不知这是不是自己最后一届奥运",
-      "onboard_time": 1722723794,
-      "rank": 38,
       "category": "体育"
     },
     {
@@ -635,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219842,
+      "num": 219842,
+      "word": "孙杨回应潘展乐说比孙杨快就够了",
+      "onboard_time": 1722685165,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213148,
       "num": 770108,
       "word": "檀健次王玉雯上演替身文学",
@@ -683,14 +707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202123,
-      "num": 202123,
-      "word": "孙颖莎 不白来都不白来",
-      "onboard_time": 1722718992,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 198960,
       "num": 331648,
       "word": "SNH48总选王奕第二",
@@ -728,6 +744,14 @@
       "word": "张雨霏吴卿风50自进决赛",
       "onboard_time": 1722711673,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 177335,
+      "num": 177335,
+      "word": "邓亚萍战术解析女单决赛",
+      "onboard_time": 1722726379,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -779,27 +803,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150072,
-      "num": 150072,
-      "word": "孙杨回应潘展乐说比孙杨快就够了",
-      "onboard_time": 1722685165,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 141420,
       "num": 141420,
       "word": "郑钦文对爸爸说终于光宗耀祖了",
       "onboard_time": 1722721873,
       "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 139682,
-      "num": 139682,
-      "word": "邓亚萍战术解析女单决赛",
-      "onboard_time": 1722726379,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -811,20 +819,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137083,
+      "num": 137083,
+      "word": "张雨霏回应成奥运奖牌最多运动员",
+      "onboard_time": 1722727700,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136380,
       "num": 516490,
       "word": "张杰演唱会",
       "onboard_time": 1722689495,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 130750,
-      "num": 438183,
-      "word": "黄晓明曾回应蹭表妹陈梦热度",
-      "onboard_time": 1722726498,
-      "rank": 23,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 129105,
@@ -923,20 +931,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 62016,
+      "num": 135641,
+      "word": "2024LPL夏季赛",
+      "onboard_time": 1722727159,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 60966,
       "num": 1488832,
       "word": "郑钦文创造了历史",
       "onboard_time": 1722702647,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 46800,
-      "num": 133315,
-      "word": "2024LPL夏季赛",
-      "onboard_time": 1722727159,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 19849,
