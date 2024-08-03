@@ -1,0 +1,410 @@
+{
+  "runTime": 1722676930653,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1972812,
+        "num": 1972812,
+        "word": "原来这才是刘雨辰求婚的花",
+        "onboard_time": 1722672143,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1592929,
+        "num": 1592929,
+        "word": "中国奖牌榜真多了一颗钻",
+        "onboard_time": 1722659363,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46256,
+        "num": 1289301,
+        "word": "骏马奔腾",
+        "onboard_time": 1722670522,
+        "rank": 2,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 1260810,
+        "num": 1260810,
+        "word": "Faker连续用头撞墙",
+        "onboard_time": 1722673105,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1163465,
+        "num": 1163465,
+        "word": "奥运会裁判因一张合影被除名",
+        "onboard_time": 1722669983,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 954733,
+        "num": 954733,
+        "word": "傅园慧回应汪顺30岁被叫老将",
+        "onboard_time": 1722670401,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 726683,
+        "num": 726683,
+        "word": "张译张颂文百花奖同框",
+        "onboard_time": 1722672862,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 722408,
+        "num": 722408,
+        "word": "张元英吐舌头被吐槽",
+        "onboard_time": 1722667162,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 678685,
+        "num": 678685,
+        "word": "公开质疑潘展乐的教练二次发文",
+        "onboard_time": 1722666621,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83629,
+        "num": 667313,
+        "word": "伊朗或将使用合法自卫权惩罚以色列",
+        "onboard_time": 1722674845,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 665784,
+        "num": 665784,
+        "word": "刘国梁让孙颖莎转过来拍照",
+        "onboard_time": 1722659842,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 657709,
+        "num": 657709,
+        "word": "李佳琦初舞台",
+        "onboard_time": 1722663322,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 650133,
+        "num": 650133,
+        "word": "刘雨辰求婚后被教练调侃钻石这么小",
+        "onboard_time": 1722665421,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 646333,
+        "num": 646333,
+        "word": "孙颖莎陈梦金牌赛",
+        "onboard_time": 1722674720,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36332,
+        "num": 609903,
+        "word": "现炒菜食堂如何征服年轻人",
+        "onboard_time": 1722675622,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603976,
+        "num": 603976,
+        "word": "孙颖莎与陈梦近期交手16次胜11次",
+        "onboard_time": 1722670941,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 566925,
+        "num": 566925,
+        "word": "夏思齐去了enhypen签售",
+        "onboard_time": 1722672321,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 558241,
+        "num": 558241,
+        "word": "中国女篮生死战",
+        "onboard_time": 1722676041,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 380136,
+        "num": 555602,
+        "word": "尤长靖有8首百万收藏歌曲",
+        "onboard_time": 1722670822,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 315041,
+        "num": 554935,
+        "word": "百花奖提名者表彰大会",
+        "onboard_time": 1722676342,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 554651,
+        "num": 554651,
+        "word": "中国女篮vs波多黎各女篮",
+        "onboard_time": 1722674241,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 550745,
+        "num": 550745,
+        "word": "申裕斌头顶的冰袋越打越大",
+        "onboard_time": 1722667102,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 530731,
+        "num": 530731,
+        "word": "马龙被左撇子误伤的一生",
+        "onboard_time": 1722673763,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 503969,
+        "num": 503969,
+        "word": "唐钱婷的泳衣在国外火了",
+        "onboard_time": 1722666441,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 486901,
+        "num": 486901,
+        "word": "樊振东赛前静坐放空反差感拉满",
+        "onboard_time": 1722668362,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 434495,
+        "num": 434495,
+        "word": "国乒锁定女单金牌",
+        "onboard_time": 1722672321,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 414218,
+        "num": 414218,
+        "word": "谢瑜老家房屋连夜翻新",
+        "onboard_time": 1722676221,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263298,
+        "num": 412911,
+        "word": "王皓 男乒王祖贤",
+        "onboard_time": 1722669142,
+        "rank": 27,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 247210,
+        "num": 412620,
+        "word": "小夫妻 学历不代表人品",
+        "onboard_time": 1722664581,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242378,
+        "num": 412585,
+        "word": "章若楠沈阳见面会",
+        "onboard_time": 1722674903,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412580,
+        "num": 412580,
+        "word": "谢震业巴黎奥运百米首秀",
+        "onboard_time": 1722673823,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 377365,
+        "num": 377365,
+        "word": "王楚钦团赛前调整状态",
+        "onboard_time": 1722664642,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 343557,
+        "num": 343557,
+        "word": "陈玘说带女队员只能生闷气",
+        "onboard_time": 1722668543,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249617,
+        "num": 249617,
+        "word": "网红奶茶们跑步进入9块9时代",
+        "onboard_time": 1722672984,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257166,
+        "num": 249032,
+        "word": "SNH48总选",
+        "onboard_time": 1722675321,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 315342,
+        "num": 245163,
+        "word": "孙颖莎陈梦角逐乒乓女单冠军",
+        "onboard_time": 1722671181,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270570,
+        "num": 243531,
+        "word": "张之臻孩子取名张奥运",
+        "onboard_time": 1722663622,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264382,
+        "num": 241787,
+        "word": "孙颖莎回忆刚到国家队的感受",
+        "onboard_time": 1722671303,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263543,
+        "num": 239744,
+        "word": "美国游泳队 脸红",
+        "onboard_time": 1722675922,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253802,
+        "num": 237080,
+        "word": "射击女子25米手枪决赛",
+        "onboard_time": 1722671063,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235046,
+        "num": 235046,
+        "word": "美国博主怒斥外媒质疑潘展乐成绩",
+        "onboard_time": 1722674602,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31576,
+        "num": 234959,
+        "word": "武大靖观赛叫樊振东东哥",
+        "onboard_time": 1722674062,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234941,
+        "num": 234941,
+        "word": "浙D谢震业",
+        "onboard_time": 1722675922,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232197,
+        "num": 232197,
+        "word": "谁懂这块个人名义金牌的含金量",
+        "onboard_time": 1722675743,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222878,
+        "num": 222878,
+        "word": "丢失一年的猫突然带着孩子回来了",
+        "onboard_time": 1722672682,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201848,
+        "num": 201848,
+        "word": "刘耀文百花奖生图",
+        "onboard_time": 1722672143,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195667,
+        "num": 195667,
+        "word": "阿如那圈粉",
+        "onboard_time": 1722672682,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195248,
+        "num": 195248,
+        "word": "日本偶遇胡歌一家三口",
+        "onboard_time": 1722659781,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192850,
+        "num": 195210,
+        "word": "GEN战胜T1",
+        "onboard_time": 1722675441,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 189089,
+        "num": 195181,
+        "word": "林俊杰演唱会",
+        "onboard_time": 1722676893,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向新任越共中央总书记苏林致贺电#"
+    }
+  }
+}
