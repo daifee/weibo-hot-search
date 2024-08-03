@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1722689370610,
+  "endTime": 1722691205925,
   "band_list": [
     {
       "raw_hot": 37515871,
@@ -40,6 +40,14 @@
       "word": "王楚钦副拍",
       "onboard_time": 1722414266,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 26082614,
+      "num": 26082614,
+      "word": "孙颖莎vs陈梦",
+      "onboard_time": 1715428878,
+      "rank": 6,
       "category": "体育"
     },
     {
@@ -1603,14 +1611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7464368,
-      "num": 7464368,
-      "word": "孙颖莎vs陈梦",
-      "onboard_time": 1715428878,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 7442935,
       "num": 7442935,
       "word": "赖冠霖 退圈",
@@ -2147,6 +2147,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 5712288,
+      "num": 795220,
+      "word": "内战没教练",
+      "onboard_time": 1722690814,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 5696484,
       "num": 5696484,
       "word": "体操排名",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1711630402,
       "rank": 1,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 5071256,
-      "num": 5071256,
-      "word": "上海文旅局回应五月天假唱风波调查",
-      "onboard_time": 1715421260,
-      "rank": 0,
-      "category": "演出"
     }
   ],
   "hotgov_list": [
