@@ -1,0 +1,410 @@
+{
+  "runTime": 1722659000129,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2296294,
+        "num": 2296294,
+        "word": "日本奥委会就选手遭网暴发严厉警告",
+        "onboard_time": 1722653722,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1583197,
+        "num": 1583197,
+        "word": "马龙中途换拍训练",
+        "onboard_time": 1722648562,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104213,
+        "num": 1486080,
+        "word": "奥运赛场闪闪发光的中国00后",
+        "onboard_time": 1722654921,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1470589,
+        "num": 1470589,
+        "word": "张本智和 体面",
+        "onboard_time": 1722645503,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 953229,
+        "num": 953229,
+        "word": "国际奥委会回应有关中国游泳队杂音",
+        "onboard_time": 1722647903,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 873283,
+        "num": 873283,
+        "word": "恋与深空洗澡卡2.0",
+        "onboard_time": 1722655582,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 796576,
+        "num": 796576,
+        "word": "樊振东示意关掉闪光灯",
+        "onboard_time": 1722646584,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 730219,
+        "num": 766260,
+        "word": "田亮 别说还挺像",
+        "onboard_time": 1722647783,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 499839,
+        "num": 761996,
+        "word": "田亮带着儿子女儿在巴黎铁塔下卖货",
+        "onboard_time": 1722613114,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122236,
+        "num": 761556,
+        "word": "18岁高中生每天暴走3万步找文物",
+        "onboard_time": 1722657683,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 761438,
+        "num": 761438,
+        "word": "韩国人演我看到黄雅琼求婚现场",
+        "onboard_time": 1722651562,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 627369,
+        "num": 627369,
+        "word": "男子裸聊后转账6次实在没钱才报警",
+        "onboard_time": 1722640937,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610307,
+        "num": 610307,
+        "word": "孙杨猜汪顺女装照",
+        "onboard_time": 1722654921,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 592328,
+        "num": 592328,
+        "word": "刘雨辰 香蕉拜年旁边那个人",
+        "onboard_time": 1722635352,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 470536,
+        "num": 582271,
+        "word": "张本智和被认成时代峰峻练习生",
+        "onboard_time": 1722657862,
+        "rank": 14,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 578403,
+        "num": 578403,
+        "word": "石宇奇道歉",
+        "onboard_time": 1722624492,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 570783,
+        "num": 570783,
+        "word": "求婚成功也有战报",
+        "onboard_time": 1722613648,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 407249,
+        "num": 570714,
+        "word": "金鹰奖开始投票",
+        "onboard_time": 1722657683,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 377016,
+        "num": 569587,
+        "word": "王俊凯恭喜黄雅琼圆梦巴黎",
+        "onboard_time": 1722651623,
+        "rank": 18,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 347971,
+        "num": 569104,
+        "word": "申裕斌是金泰亨粉丝",
+        "onboard_time": 1722652822,
+        "rank": 19,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 62687,
+        "num": 567717,
+        "word": "苏有朋一个电话硬控全场",
+        "onboard_time": 1722654687,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1574064,
+        "num": 567339,
+        "word": "月嫂到期后女主人久久缓不过劲",
+        "onboard_time": 1722654742,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566717,
+        "num": 566717,
+        "word": "汪顺与马克龙握手",
+        "onboard_time": 1722639797,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1292720,
+        "num": 566475,
+        "word": "2女孩捡到1.3万元金手镯当玩具扔水沟",
+        "onboard_time": 1722653003,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131381,
+        "num": 566100,
+        "word": "任嘉伦郑恺篮球默契满分",
+        "onboard_time": 1722658882,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 565968,
+        "num": 565968,
+        "word": "倪夏莲说我的心颜色没变",
+        "onboard_time": 1722656602,
+        "rank": 25,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 536265,
+        "num": 536265,
+        "word": "国羽无缘男单奖牌",
+        "onboard_time": 1722622334,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 455226,
+        "num": 455226,
+        "word": "汪顺 没有遗憾了",
+        "onboard_time": 1722635893,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 423384,
+        "num": 423384,
+        "word": "他们克制地吻 我放肆地叫",
+        "onboard_time": 1722657142,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263110,
+        "num": 418208,
+        "word": "姚政求婚Tina差点没来",
+        "onboard_time": 1722656361,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 437194,
+        "num": 418145,
+        "word": "黄雅琼被求婚了",
+        "onboard_time": 1722612219,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 417987,
+        "num": 417987,
+        "word": "雅思组合混双奥运金牌",
+        "onboard_time": 1722610593,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 411521,
+        "num": 411521,
+        "word": "被孙颖莎迷倒了",
+        "onboard_time": 1722654742,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355194,
+        "num": 355194,
+        "word": "石宇奇状态",
+        "onboard_time": 1722620236,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 350942,
+        "num": 350942,
+        "word": "黄雅琼 这个夏天圆满的不能再圆满",
+        "onboard_time": 1722615325,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333800,
+        "num": 333800,
+        "word": "恋与深空",
+        "onboard_time": 1722655703,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 313861,
+        "num": 313861,
+        "word": "黄雅琼今晚1金1钻",
+        "onboard_time": 1722612994,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304681,
+        "num": 304681,
+        "word": "霸王茶姬口令",
+        "onboard_time": 1722654863,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 302785,
+        "num": 302785,
+        "word": "石宇奇遗憾没能为中国队拿奖牌",
+        "onboard_time": 1722625992,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290108,
+        "num": 290108,
+        "word": "能看出来勒布伦对樊振东感情很复杂",
+        "onboard_time": 1722657082,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285334,
+        "num": 285334,
+        "word": "石宇奇止步8强",
+        "onboard_time": 1722621138,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270046,
+        "num": 270046,
+        "word": "斯瓦泰克称输给郑钦文后哭了6小时",
+        "onboard_time": 1722658703,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260326,
+        "num": 260326,
+        "word": "菲尔普斯被潘展乐震惊",
+        "onboard_time": 1722636012,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251570,
+        "num": 251570,
+        "word": "甘孜一高速隧道垮塌有车掉坠",
+        "onboard_time": 1722647242,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250075,
+        "num": 250075,
+        "word": "马尔尚无视汪顺教练握手",
+        "onboard_time": 1722638415,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30985,
+        "num": 246828,
+        "word": "奇瑞车手上演教科书级操控",
+        "onboard_time": 1722658761,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 244309,
+        "num": 244309,
+        "word": "汪顺200米混合泳铜牌",
+        "onboard_time": 1722625034,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243610,
+        "num": 243610,
+        "word": "石宇奇0比2昆拉武特",
+        "onboard_time": 1722621497,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236358,
+        "num": 236358,
+        "word": "张之臻王欣瑜好可惜",
+        "onboard_time": 1722632471,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231204,
+        "num": 231204,
+        "word": "查尔莫斯关注潘展乐",
+        "onboard_time": 1722658942,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂全会决定中的这些名词#"
+    }
+  }
+}
