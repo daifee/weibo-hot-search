@@ -1,0 +1,410 @@
+{
+  "runTime": 1722719929098,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 976707,
+        "num": 976707,
+        "word": "中国队男女4×100米混接力银牌",
+        "onboard_time": 1722715994,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 467053,
+        "num": 467053,
+        "word": "黄晓明发红包祝贺表妹陈梦夺金",
+        "onboard_time": 1722710596,
+        "rank": 1,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 5156,
+        "num": 462837,
+        "word": "骏马奔腾",
+        "onboard_time": 1722670522,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461053,
+        "num": 461053,
+        "word": "陈梦卫冕冠军",
+        "onboard_time": 1722694581,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 372641,
+        "num": 372641,
+        "word": "郑钦文赛后采访",
+        "onboard_time": 1722705801,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 359571,
+        "num": 359571,
+        "word": "郑钦文金牌",
+        "onboard_time": 1722702286,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 347142,
+        "num": 347142,
+        "word": "陈梦 我和莎莎没有失败者",
+        "onboard_time": 1722697594,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292948,
+        "num": 292948,
+        "word": "蛙王回来了",
+        "onboard_time": 1722717252,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85856,
+        "num": 287196,
+        "word": "黄晓明祝贺陈梦",
+        "onboard_time": 1722695224,
+        "rank": 8,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 12154,
+        "num": 284957,
+        "word": "23斤多冰毒竟被编进地毯里",
+        "onboard_time": 1722702219,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283486,
+        "num": 283486,
+        "word": "孙颖莎vs陈梦",
+        "onboard_time": 1722686787,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280823,
+        "num": 280823,
+        "word": "许昕直播",
+        "onboard_time": 1722713894,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91795,
+        "num": 91795,
+        "word": "海棠读者",
+        "onboard_time": 1722685767,
+        "rank": 12,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 54334,
+        "num": 91770,
+        "word": "请帮我告诉他你现在是第一名",
+        "onboard_time": 1722702647,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52095,
+        "num": 91636,
+        "word": "吴尊奥运前就预言郑钦文能拿牌",
+        "onboard_time": 1722704427,
+        "rank": 14,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 242181,
+        "num": 91544,
+        "word": "马尔尚道歉了",
+        "onboard_time": 1722698734,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240524,
+        "num": 91478,
+        "word": "维基奇摔拍子",
+        "onboard_time": 1722702286,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233133,
+        "num": 91400,
+        "word": "孙颖莎说有遗憾也能接受",
+        "onboard_time": 1722708377,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49039,
+        "num": 91297,
+        "word": "SNH48总选 袁一琦第一",
+        "onboard_time": 1722702467,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 42462,
+        "num": 91202,
+        "word": "王源李现去了张杰演唱会",
+        "onboard_time": 1722698432,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 231246,
+        "num": 91187,
+        "word": "陈梦美甲",
+        "onboard_time": 1722702219,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221535,
+        "num": 91111,
+        "word": "孙颖莎银牌",
+        "onboard_time": 1722694926,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197379,
+        "num": 90958,
+        "word": "郑钦文咬金牌",
+        "onboard_time": 1722705203,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188918,
+        "num": 90890,
+        "word": "弗雷泽退赛",
+        "onboard_time": 1722710235,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180167,
+        "num": 90850,
+        "word": "谷爱凌删了给马尔尚的所有ins评论",
+        "onboard_time": 1722683184,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48477,
+        "num": 90694,
+        "word": "海棠",
+        "onboard_time": 1722677122,
+        "rank": 25,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 138625,
+        "num": 90668,
+        "word": "孙颖莎又指导拍照了",
+        "onboard_time": 1722701246,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129612,
+        "num": 90546,
+        "word": "郑钦文vs维基奇",
+        "onboard_time": 1722690931,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38214,
+        "num": 90503,
+        "word": "许嵩星座书上首唱",
+        "onboard_time": 1722703709,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35234,
+        "num": 90409,
+        "word": "郑中基退圈",
+        "onboard_time": 1722685106,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119396,
+        "num": 90275,
+        "word": "陈梦孙颖莎拥抱",
+        "onboard_time": 1722697057,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116176,
+        "num": 90220,
+        "word": "郑钦文隔空喊话喜爱网球的孩子",
+        "onboard_time": 1722713353,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79684,
+        "num": 90139,
+        "word": "贾冰居然做了腋下管理",
+        "onboard_time": 1722714673,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39702,
+        "num": 90029,
+        "word": "武汉江滩灯光秀为郑钦文加油",
+        "onboard_time": 1722704369,
+        "rank": 33,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 37807,
+        "num": 89970,
+        "word": "辅警尿检阳性发现肉夹馍加了罂粟壳",
+        "onboard_time": 1722689011,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114685,
+        "num": 89912,
+        "word": "中国网球首枚奥运女单金牌",
+        "onboard_time": 1722702939,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113745,
+        "num": 89807,
+        "word": "郑钦文好牛",
+        "onboard_time": 1722698492,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94916,
+        "num": 89676,
+        "word": "中国队创男女混接亚洲纪录",
+        "onboard_time": 1722716471,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89664,
+        "num": 89664,
+        "word": "张雨霏第8枚奥运奖牌",
+        "onboard_time": 1722719772,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36134,
+        "num": 84294,
+        "word": "章若楠男粉",
+        "onboard_time": 1722706041,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83763,
+        "num": 83763,
+        "word": "覃海洋首枚奖牌",
+        "onboard_time": 1722718093,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83599,
+        "num": 83599,
+        "word": "张雨霏小组第二",
+        "onboard_time": 1722711134,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81293,
+        "num": 81293,
+        "word": "郑钦文放国旗的方式",
+        "onboard_time": 1722710896,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80387,
+        "num": 80387,
+        "word": "余依婷200米混合泳第四",
+        "onboard_time": 1722712934,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72661,
+        "num": 72661,
+        "word": "张雨霏吴卿风50自进决赛",
+        "onboard_time": 1722711673,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71269,
+        "num": 71269,
+        "word": "山东亲友团为陈梦加油",
+        "onboard_time": 1722701786,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34350,
+        "num": 70717,
+        "word": "吴千语施伯雄欢迎晚宴",
+        "onboard_time": 1722704248,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32942,
+        "num": 69400,
+        "word": "SNH48总选王奕第二",
+        "onboard_time": 1722704607,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31897,
+        "num": 67566,
+        "word": "云间 海棠",
+        "onboard_time": 1722684266,
+        "rank": 48,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 29713,
+        "num": 66770,
+        "word": "宋雨琦辣成这样",
+        "onboard_time": 1722700105,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#要坚持和发展我国基本经济制度#"
+    }
+  }
+}
