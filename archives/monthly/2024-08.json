@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1722724490170,
+  "endTime": 1722727264211,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -1364,7 +1364,7 @@
     },
     {
       "raw_hot": 2351101,
-      "num": 898384,
+      "num": 1424105,
       "word": "陈梦 我和莎莎没有失败者",
       "onboard_time": 1722697594,
       "rank": 24,
@@ -1609,6 +1609,14 @@
       "onboard_time": 1722665421,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2014013,
+      "num": 2014013,
+      "word": "黄晓明发红包祝贺表妹陈梦夺金",
+      "onboard_time": 1722710596,
+      "rank": 12,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 2008981,
@@ -1896,6 +1904,14 @@
       "word": "最孤独的奥运冠军",
       "onboard_time": 1722494063,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1703024,
+      "num": 795023,
+      "word": "郑钦文说对不起张之臻",
+      "onboard_time": 1722721873,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -2241,6 +2257,14 @@
       "onboard_time": 1722592052,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1391589,
+      "num": 773315,
+      "word": "四大满贯祝贺郑钦文夺冠",
+      "onboard_time": 1722720973,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 1379507,
@@ -2739,14 +2763,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 1153625,
-      "num": 1153625,
-      "word": "黄晓明发红包祝贺表妹陈梦夺金",
-      "onboard_time": 1722710596,
-      "rank": 12,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 1145283,
       "num": 4690817,
       "word": "袁一琦蝉联第一",
@@ -2833,6 +2849,14 @@
       "onboard_time": 1722532818,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1099004,
+      "num": 1099004,
+      "word": "陈梦说黄晓明每天都在鼓励我",
+      "onboard_time": 1722723555,
+      "rank": 8,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 1095914,
@@ -3304,14 +3328,6 @@
       "word": "张之臻王欣瑜冲击金牌",
       "onboard_time": 1722618320,
       "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 882260,
-      "num": 482551,
-      "word": "郑钦文说对不起张之臻",
-      "onboard_time": 1722721873,
-      "rank": 31,
       "category": "体育"
     },
     {
@@ -3979,14 +3995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 686639,
-      "num": 480158,
-      "word": "四大满贯祝贺郑钦文夺冠",
-      "onboard_time": 1722720973,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 683476,
       "num": 683476,
       "word": "张怡宁丁宁解说孙颖莎陈梦争冠",
@@ -4241,6 +4249,14 @@
       "onboard_time": 1722646403,
       "rank": 13,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 614961,
+      "num": 614961,
+      "word": "郑钦文 经济舱",
+      "onboard_time": 1722723494,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 609580,
@@ -4616,6 +4632,14 @@
       "word": "维基奇红温",
       "onboard_time": 1722704369,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 518324,
+      "num": 518324,
+      "word": "郑钦文隔空喊话喜爱网球的孩子",
+      "onboard_time": 1722713353,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -5779,14 +5803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 369672,
-      "num": 493452,
-      "word": "陈梦说黄晓明每天都在鼓励我",
-      "onboard_time": 1722723555,
-      "rank": 8,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 368351,
       "num": 368351,
       "word": "美国女排vs塞尔维亚女排",
@@ -5825,6 +5841,14 @@
       "onboard_time": 1722609625,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 364950,
+      "num": 364950,
+      "word": "郑钦文前教练",
+      "onboard_time": 1722724155,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 361431,
@@ -6267,6 +6291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 317216,
+      "num": 317216,
+      "word": "哪些品牌押中了郑钦文",
+      "onboard_time": 1722726437,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 316639,
       "num": 316639,
       "word": "以色列总理称毁灭性打击伊朗代理人",
@@ -6379,12 +6411,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 306120,
+      "num": 306120,
+      "word": "孙颖莎上一秒凶巴巴下一秒笑哈哈",
+      "onboard_time": 1722722833,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 305815,
       "num": 3324134,
       "word": "张杰在75米延伸台骑车",
       "onboard_time": 1722597205,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 305142,
+      "num": 305142,
+      "word": "覃海洋首枚奖牌",
+      "onboard_time": 1722718093,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 305125,
@@ -6809,6 +6857,14 @@
       "onboard_time": 1722672143,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 284466,
+      "num": 284466,
+      "word": "陈梦说不知这是不是自己最后一届奥运",
+      "onboard_time": 1722723794,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 284218,
@@ -7659,14 +7715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 218386,
-      "num": 218386,
-      "word": "郑钦文隔空喊话喜爱网球的孩子",
-      "onboard_time": 1722713353,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 218265,
       "num": 616974,
       "word": "TXT官娃",
@@ -7984,6 +8032,14 @@
       "word": "汪顺书写了属于自己的传奇",
       "onboard_time": 1722668841,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 202123,
+      "num": 202123,
+      "word": "孙颖莎 不白来都不白来",
+      "onboard_time": 1722718992,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -8499,14 +8555,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 169199,
-      "num": 169199,
-      "word": "孙颖莎上一秒凶巴巴下一秒笑哈哈",
-      "onboard_time": 1722722833,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 168532,
       "num": 159450,
       "word": "Queen Wen",
@@ -8643,14 +8691,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 153761,
-      "num": 153761,
-      "word": "覃海洋首枚奖牌",
-      "onboard_time": 1722718093,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 153134,
       "num": 136938,
       "word": "张雨霏吴卿风50自晋级半决赛",
@@ -8731,6 +8771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139682,
+      "num": 139682,
+      "word": "邓亚萍战术解析女单决赛",
+      "onboard_time": 1722726379,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139562,
       "num": 326387,
       "word": "今夕赫夕",
@@ -8779,14 +8827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136240,
-      "num": 136240,
-      "word": "郑钦文 经济舱",
-      "onboard_time": 1722723494,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 135941,
       "num": 419343,
       "word": "张子墨自拍",
@@ -8817,6 +8857,14 @@
       "onboard_time": 1722658882,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130750,
+      "num": 438183,
+      "word": "黄晓明曾回应蹭表妹陈梦热度",
+      "onboard_time": 1722726498,
+      "rank": 23,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 128374,
@@ -8969,14 +9017,6 @@
       "onboard_time": 1722644960,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 108366,
-      "num": 108366,
-      "word": "孙颖莎 不白来都不白来",
-      "onboard_time": 1722718992,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 107654,
@@ -9180,7 +9220,7 @@
     },
     {
       "raw_hot": 85521,
-      "num": 137296,
+      "num": 137847,
       "word": "贾冰居然做了腋下管理",
       "onboard_time": 1722714673,
       "rank": 33,
@@ -9587,6 +9627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 46800,
+      "num": 133315,
+      "word": "2024LPL夏季赛",
+      "onboard_time": 1722727159,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 45834,
       "num": 667288,
       "word": "村民回忆康定发生山洪泥石流",
@@ -9940,7 +9988,7 @@
     },
     {
       "raw_hot": 19849,
-      "num": 618114,
+      "num": 799367,
       "word": "要坚持和发展我国基本经济制度",
       "onboard_time": 1722711975,
       "rank": 9,
