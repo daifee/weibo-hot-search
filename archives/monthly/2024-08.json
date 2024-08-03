@@ -1,21 +1,21 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1722694753282,
+  "endTime": 1722695724618,
   "band_list": [
+    {
+      "raw_hot": 37697626,
+      "num": 37697626,
+      "word": "孙颖莎vs陈梦",
+      "onboard_time": 1722686787,
+      "rank": 3,
+      "category": "体育"
+    },
     {
       "raw_hot": 37515871,
       "num": 37515871,
       "word": "樊振东vs张本智和",
       "onboard_time": 1722522570,
       "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 33592917,
-      "num": 33592917,
-      "word": "孙颖莎vs陈梦",
-      "onboard_time": 1722686787,
-      "rank": 3,
       "category": "体育"
     },
     {
@@ -27,11 +27,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 27460627,
-      "num": 27460627,
+      "raw_hot": 28194509,
+      "num": 28194509,
       "word": "内战没教练",
       "onboard_time": 1722690814,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 26885766,
+      "num": 28135766,
+      "word": "陈梦卫冕冠军",
+      "onboard_time": 1722694581,
+      "rank": 2,
       "category": "体育"
     },
     {
@@ -56,6 +64,14 @@
       "word": "早田希娜vs申裕斌",
       "onboard_time": 1722685165,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 16655010,
+      "num": 16655010,
+      "word": "孙颖莎银牌",
+      "onboard_time": 1722694926,
+      "rank": 3,
       "category": "体育"
     },
     {
@@ -187,14 +203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 9765432,
-      "num": 9765432,
-      "word": "陈梦卫冕冠军",
-      "onboard_time": 1722694581,
-      "rank": 2,
-      "category": "体育"
-    },
-    {
       "raw_hot": 9679793,
       "num": 2099629,
       "word": "王楚钦爆冷出局",
@@ -233,6 +241,14 @@
       "onboard_time": 1722468744,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 8426613,
+      "num": 8426613,
+      "word": "黄晓明祝贺陈梦",
+      "onboard_time": 1722695224,
+      "rank": 4,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 8035938,
@@ -323,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 6079273,
+      "num": 6079273,
+      "word": "郑钦文vs维基奇",
+      "onboard_time": 1722690931,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 6046078,
       "num": 6046078,
       "word": "男子双人三米板决赛",
@@ -376,6 +400,14 @@
       "word": "黄雅琼哭了",
       "onboard_time": 1722611667,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 5477459,
+      "num": 2829745,
+      "word": "张怡宁丁宁观赛",
+      "onboard_time": 1722688109,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -523,14 +555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 4033513,
-      "num": 4033513,
-      "word": "郑钦文vs维基奇",
-      "onboard_time": 1722690931,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 4018266,
       "num": 4018266,
       "word": "梁王组合晋级决赛",
@@ -664,6 +688,14 @@
       "word": "郑钦文vs斯瓦泰克",
       "onboard_time": 1722506844,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3659130,
+      "num": 3805988,
+      "word": "郑钦文冲金加油",
+      "onboard_time": 1722678502,
+      "rank": 20,
       "category": "体育"
     },
     {
@@ -843,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3134665,
+      "num": 1879079,
+      "word": "男子自由操决赛",
+      "onboard_time": 1722692675,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3128729,
       "num": 3128729,
       "word": "中国香港选手哭诉衣服被扯烂致退赛",
@@ -971,14 +1011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2829745,
-      "num": 2829745,
-      "word": "张怡宁丁宁观赛",
-      "onboard_time": 1722688109,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 2760219,
       "num": 2760219,
       "word": "莫雷加德vs雨果",
@@ -1080,6 +1112,14 @@
       "word": "中国第12金",
       "onboard_time": 1722593251,
       "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2492394,
+      "num": 813418,
+      "word": "网球女单决赛",
+      "onboard_time": 1722686427,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -1243,6 +1283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 2319516,
+      "num": 389290,
+      "word": "陈梦晋级巴黎奥运会女单决赛",
+      "onboard_time": 1722695579,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2301065,
       "num": 1012827,
       "word": "申裕斌的球拍上贴着马龙",
@@ -1304,6 +1352,14 @@
       "word": "陈梦进女单决赛",
       "onboard_time": 1722588511,
       "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2149718,
+      "num": 789903,
+      "word": "邓亚萍陈玘解说",
+      "onboard_time": 1722689495,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -1512,14 +1568,6 @@
       "word": "潘展乐金牌痛床",
       "onboard_time": 1722481406,
       "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1879079,
-      "num": 1879079,
-      "word": "男子自由操决赛",
-      "onboard_time": 1722692675,
-      "rank": 5,
       "category": "体育"
     },
     {
@@ -1752,14 +1800,6 @@
       "word": "孙颖莎好稳",
       "onboard_time": 1722599907,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1610421,
-      "num": 3805988,
-      "word": "郑钦文冲金加油",
-      "onboard_time": 1722678502,
-      "rank": 20,
       "category": "体育"
     },
     {
@@ -2176,14 +2216,6 @@
       "word": "张俊竞走第10",
       "onboard_time": 1722497723,
       "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1281399,
-      "num": 813418,
-      "word": "网球女单决赛",
-      "onboard_time": 1722686427,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -2619,6 +2651,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 1051111,
+      "num": 1051111,
+      "word": "凡尘组合vs圣坛组合",
+      "onboard_time": 1722694647,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1050917,
       "num": 1517976,
       "word": "刘宇坤 天策jjc33",
@@ -2675,12 +2715,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1019122,
-      "num": 789903,
-      "word": "邓亚萍陈玘解说",
-      "onboard_time": 1722689495,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 1019170,
+      "num": 1019170,
+      "word": "海棠读者",
+      "onboard_time": 1722685767,
+      "rank": 13,
+      "category": "读书作家"
     },
     {
       "raw_hot": 996019,
@@ -2947,20 +2987,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 918129,
-      "num": 918129,
-      "word": "海棠读者",
-      "onboard_time": 1722685767,
-      "rank": 13,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 915786,
       "num": 915786,
       "word": "王昶梁伟铿 辣椒求雨",
       "onboard_time": 1722511707,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 915728,
+      "num": 915728,
+      "word": "刘亦菲光速帮徐海乔录应援视频",
+      "onboard_time": 1722691593,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 912686,
@@ -3147,6 +3187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 798956,
+      "num": 518078,
+      "word": "孙颖莎陈梦 强强对决",
+      "onboard_time": 1722693771,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 798915,
       "num": 798915,
       "word": "早田希娜 擦网",
@@ -3249,6 +3297,14 @@
       "onboard_time": 1722572245,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 771541,
+      "num": 397829,
+      "word": "孙颖莎和陈梦谁的赢面大",
+      "onboard_time": 1722680061,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 771497,
@@ -3627,14 +3683,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 688916,
-      "num": 856350,
-      "word": "刘亦菲光速帮徐海乔录应援视频",
-      "onboard_time": 1722691593,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 687211,
       "num": 554363,
       "word": "樊振东说决赛丢掉杂念释放自己",
@@ -3680,14 +3728,6 @@
       "word": "陈梦樊振东孙颖莎都在今晚半决赛",
       "onboard_time": 1722565162,
       "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 674488,
-      "num": 518078,
-      "word": "孙颖莎陈梦 强强对决",
-      "onboard_time": 1722693771,
-      "rank": 31,
       "category": "体育"
     },
     {
@@ -3907,6 +3947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 606017,
+      "num": 387528,
+      "word": "孙颖莎黄牌",
+      "onboard_time": 1722694367,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 605885,
       "num": 1404127,
       "word": "苏州被举报违规采购干部被立案调查",
@@ -4008,6 +4056,14 @@
       "word": "潘展乐",
       "onboard_time": 1722459613,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 575596,
+      "num": 342474,
+      "word": "张博恒自由操第8",
+      "onboard_time": 1722695691,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -4123,14 +4179,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 543017,
-      "num": 397829,
-      "word": "孙颖莎和陈梦谁的赢面大",
-      "onboard_time": 1722680061,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 539772,
       "num": 539772,
       "word": "张琼月50米步枪三姿铜牌",
@@ -4184,6 +4232,14 @@
       "word": "雨果4比1勒布伦",
       "onboard_time": 1722530142,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 527359,
+      "num": 337781,
+      "word": "陈梦心态",
+      "onboard_time": 1722695340,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -4465,6 +4521,14 @@
       "onboard_time": 1722576863,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 475394,
+      "num": 335589,
+      "word": "孙颖莎陈梦比分追好紧",
+      "onboard_time": 1722695691,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 474626,
@@ -5139,14 +5203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 387528,
-      "num": 387528,
-      "word": "孙颖莎黄牌",
-      "onboard_time": 1722694367,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 387418,
       "num": 387418,
       "word": "张怡宁丁宁现场为孙颖莎陈梦加油",
@@ -5188,7 +5244,7 @@
     },
     {
       "raw_hot": 384957,
-      "num": 518827,
+      "num": 1032755,
       "word": "女子借住友人家盗窃后发朋友圈显摆",
       "onboard_time": 1722684986,
       "rank": 33,
@@ -5401,14 +5457,6 @@
       "onboard_time": 1722576082,
       "rank": 13,
       "category": "演出"
-    },
-    {
-      "raw_hot": 356371,
-      "num": 356371,
-      "word": "凡尘组合vs圣坛组合",
-      "onboard_time": 1722694647,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 354218,
@@ -6787,6 +6835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237480,
+      "num": 413882,
+      "word": "张杰带着燕归巢归巢了",
+      "onboard_time": 1722692621,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 237056,
       "num": 237056,
       "word": "中国女排2比0法国女排",
@@ -7105,14 +7161,6 @@
       "onboard_time": 1722666561,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 217473,
-      "num": 413882,
-      "word": "张杰带着燕归巢归巢了",
-      "onboard_time": 1722692621,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 215335,
@@ -7955,6 +8003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145478,
+      "num": 325779,
+      "word": "于适百花奖憋笑",
+      "onboard_time": 1722695399,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 144377,
       "num": 761974,
       "word": "应急管理厅工作组赴雅康高速现场",
@@ -8427,6 +8483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77098,
+      "num": 854139,
+      "word": "数字藏品是如何被用于诈骗的",
+      "onboard_time": 1722693639,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75277,
       "num": 742800,
       "word": "90年代的服装审美至今扛打",
@@ -8548,7 +8612,7 @@
     },
     {
       "raw_hot": 59403,
-      "num": 520010,
+      "num": 541788,
       "word": "安全是最大的吉利",
       "onboard_time": 1722693999,
       "rank": 16,
@@ -9016,14 +9080,6 @@
       "word": "波音在印招聘工程师是在华近20倍",
       "onboard_time": 1722586825,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26635,
-      "num": 854139,
-      "word": "数字藏品是如何被用于诈骗的",
-      "onboard_time": 1722693639,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
