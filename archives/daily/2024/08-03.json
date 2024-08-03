@@ -1,6 +1,6 @@
 {
   "startTime": 1722615950508,
-  "endTime": 1722698443634,
+  "endTime": 1722699279441,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -51,20 +51,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 10634642,
+      "num": 10634642,
+      "word": "郑钦文vs维基奇",
+      "onboard_time": 1722690931,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 8426613,
       "num": 8426613,
       "word": "黄晓明祝贺陈梦",
       "onboard_time": 1722695224,
       "rank": 4,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 8152411,
-      "num": 8152411,
-      "word": "郑钦文vs维基奇",
-      "onboard_time": 1722690931,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 7824345,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 7648897,
-      "num": 1983960,
+      "num": 6339620,
       "word": "陈梦孙颖莎拥抱",
       "onboard_time": 1722697057,
       "rank": 7,
@@ -128,6 +128,22 @@
       "word": "求婚成功也有战报",
       "onboard_time": 1722613648,
       "rank": 2,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 4671776,
+      "num": 1708260,
+      "word": "郑钦文好牛",
+      "onboard_time": 1722698492,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 4240463,
+      "num": 4240463,
+      "word": "凡尘组合超级大满贯",
+      "onboard_time": 1722698014,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -185,6 +201,14 @@
       "onboard_time": 1722620236,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3146145,
+      "num": 3146145,
+      "word": "吴尊观战郑钦文",
+      "onboard_time": 1722698914,
+      "rank": 6,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 3134665,
@@ -267,14 +291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2475830,
-      "num": 2475830,
-      "word": "凡尘组合超级大满贯",
-      "onboard_time": 1722698014,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 2466472,
       "num": 2466472,
       "word": "陈梦扳平比分",
@@ -312,6 +328,14 @@
       "word": "杨舒予为什么不上场",
       "onboard_time": 1722677782,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2351101,
+      "num": 798691,
+      "word": "陈梦 我和莎莎没有失败者",
+      "onboard_time": 1722697594,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -411,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1993822,
+      "num": 783256,
+      "word": "国羽包揽金银牌",
+      "onboard_time": 1722698315,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1983356,
       "num": 1983356,
       "word": "原来这才是刘雨辰求婚的花",
@@ -505,14 +537,6 @@
       "onboard_time": 1722613114,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1693356,
-      "num": 798691,
-      "word": "陈梦 我和莎莎没有失败者",
-      "onboard_time": 1722697594,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 1687885,
@@ -651,6 +675,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 1374739,
+      "num": 776522,
+      "word": "马尔尚道歉了",
+      "onboard_time": 1722698734,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1370748,
       "num": 1370748,
       "word": "谢震业仅差0.001秒晋级",
@@ -713,6 +745,14 @@
       "onboard_time": 1722659781,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1284411,
+      "num": 1477659,
+      "word": "凡尘组合金牌",
+      "onboard_time": 1722698853,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 1280748,
@@ -1131,14 +1171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 777072,
-      "num": 777072,
-      "word": "国羽包揽金银牌",
-      "onboard_time": 1722698315,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 771541,
       "num": 397829,
       "word": "孙颖莎和陈梦谁的赢面大",
@@ -1417,6 +1449,14 @@
       "onboard_time": 1722684926,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 574277,
+      "num": 574277,
+      "word": "孙颖莎陈梦再现巅峰对决",
+      "onboard_time": 1722699151,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 565968,
@@ -1811,6 +1851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 391631,
+      "num": 767650,
+      "word": "王源李现去了张杰演唱会",
+      "onboard_time": 1722698432,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 388068,
       "num": 618704,
       "word": "尤长靖有8首百万收藏歌曲",
@@ -1844,7 +1892,7 @@
     },
     {
       "raw_hot": 384957,
-      "num": 1032755,
+      "num": 1709399,
       "word": "女子借住友人家盗窃后发朋友圈显摆",
       "onboard_time": 1722684986,
       "rank": 33,
@@ -2049,6 +2097,14 @@
       "onboard_time": 1722650182,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299868,
+      "num": 764838,
+      "word": "苏醒恭喜陈梦夺冠",
+      "onboard_time": 1722699030,
+      "rank": 28,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 299045,
@@ -2532,7 +2588,7 @@
     },
     {
       "raw_hot": 218905,
-      "num": 518532,
+      "num": 522580,
       "word": "李艺彤晒与卢昱晓合照",
       "onboard_time": 1722693336,
       "rank": 28,
@@ -2713,6 +2769,14 @@
       "onboard_time": 1722609986,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 202638,
+      "num": 745585,
+      "word": "张泽禹对镜自拍",
+      "onboard_time": 1722698315,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 202194,
@@ -3003,12 +3067,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169069,
-      "num": 421045,
-      "word": "张泽禹对镜自拍",
-      "onboard_time": 1722698315,
-      "rank": 48,
-      "category": "艺人"
+      "raw_hot": 168276,
+      "num": 528500,
+      "word": "杨迪谈最想感谢的人是谢娜",
+      "onboard_time": 1722698014,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 164950,
@@ -3209,6 +3273,14 @@
       "onboard_time": 1722672204,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101543,
+      "num": 804321,
+      "word": "郑钦文ace",
+      "onboard_time": 1722698610,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 98596,
