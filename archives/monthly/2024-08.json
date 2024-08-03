@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1722652585156,
+  "endTime": 1722653166538,
   "band_list": [
     {
       "raw_hot": 37515871,
@@ -2283,6 +2283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 966244,
+      "num": 966244,
+      "word": "国际奥委会回应有关中国游泳队杂音",
+      "onboard_time": 1722647903,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 965566,
       "num": 634030,
       "word": "网球混双",
@@ -2795,6 +2803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 723669,
+      "num": 728850,
+      "word": "王俊凯恭喜黄雅琼圆梦巴黎",
+      "onboard_time": 1722651623,
+      "rank": 14,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 722680,
       "num": 1771121,
       "word": "徐峥说潘展乐夺冠含金量太高了",
@@ -3011,6 +3027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 662667,
+      "num": 459173,
+      "word": "韩国人演我看到黄雅琼求婚现场",
+      "onboard_time": 1722651562,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 661179,
       "num": 427098,
       "word": "申裕斌4比3平野美宇",
@@ -3048,14 +3072,6 @@
       "word": "志田千阳好美",
       "onboard_time": 1722588387,
       "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 639637,
-      "num": 639637,
-      "word": "国际奥委会回应有关中国游泳队杂音",
-      "onboard_time": 1722647903,
-      "rank": 43,
       "category": "体育"
     },
     {
@@ -3288,14 +3304,6 @@
       "word": "孙颖莎连胜5场一局未失",
       "onboard_time": 1722604226,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 556105,
-      "num": 459173,
-      "word": "韩国人演我看到黄雅琼求婚现场",
-      "onboard_time": 1722651562,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -3843,14 +3851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 445589,
-      "num": 728850,
-      "word": "王俊凯恭喜黄雅琼圆梦巴黎",
-      "onboard_time": 1722651623,
-      "rank": 14,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 442322,
       "num": 297750,
       "word": "上错花轿嫁对郎组合",
@@ -3985,6 +3985,14 @@
       "onboard_time": 1722524527,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 420236,
+      "num": 576579,
+      "word": "剧烈运动跳掉肾结石能有多疼",
+      "onboard_time": 1722649883,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 420036,
@@ -4353,14 +4361,6 @@
       "onboard_time": 1722609625,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 364604,
-      "num": 576579,
-      "word": "剧烈运动跳掉肾结石能有多疼",
-      "onboard_time": 1722649883,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 360206,
@@ -4816,6 +4816,14 @@
       "word": "温州网红交警子颜离职",
       "onboard_time": 1722472587,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301691,
+      "num": 479179,
+      "word": "原来丫丫是千禧龙猫",
+      "onboard_time": 1722650182,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -5579,14 +5587,6 @@
       "category": "国外时政,军事"
     },
     {
-      "raw_hot": 220911,
-      "num": 479179,
-      "word": "原来丫丫是千禧龙猫",
-      "onboard_time": 1722650182,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 220864,
       "num": 570581,
       "word": "披荆斩棘4官宣定档",
@@ -5979,6 +5979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182215,
+      "num": 300613,
+      "word": "医生建议三伏天晒背暴汗应补充电解质",
+      "onboard_time": 1722649461,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 181618,
       "num": 333382,
       "word": "余依婷进200米混合泳决赛",
@@ -5995,6 +6003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181527,
+      "num": 425101,
+      "word": "申裕斌是金泰亨粉丝",
+      "onboard_time": 1722652822,
+      "rank": 26,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 180144,
       "num": 816132,
       "word": "潘展乐中国游泳真大腿",
@@ -6003,20 +6019,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179214,
+      "num": 474630,
+      "word": "enhypen青岛机场",
+      "onboard_time": 1722651261,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 178766,
       "num": 195714,
       "word": "十天之后回到现实",
       "onboard_time": 1722575244,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 177466,
-      "num": 474630,
-      "word": "enhypen青岛机场",
-      "onboard_time": 1722651261,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 176804,
@@ -6107,6 +6123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161748,
+      "num": 300463,
+      "word": "2女孩捡到1.3万元金手镯当玩具扔水沟",
+      "onboard_time": 1722653003,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161723,
       "num": 343248,
       "word": "八月文案",
@@ -6161,6 +6185,14 @@
       "onboard_time": 1722603627,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154867,
+      "num": 423050,
+      "word": "魏大勋嘴动打码",
+      "onboard_time": 1722652943,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 154433,
@@ -6427,6 +6459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107654,
+      "num": 433099,
+      "word": "甘孜一高速隧道垮塌人员已救出",
+      "onboard_time": 1722652943,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107443,
       "num": 313753,
       "word": "张雨绮都有俩孩子了",
@@ -6481,6 +6521,14 @@
       "onboard_time": 1722649403,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 94586,
+      "num": 432024,
+      "word": "鲍春来发博复盘石宇奇表现",
+      "onboard_time": 1722652643,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 93525,
@@ -6875,6 +6923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 39000,
+      "num": 421820,
+      "word": "设计一场浪漫邂逅",
+      "onboard_time": 1722652162,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37394,
       "num": 746199,
       "word": "刘昊然吴彦祖百花奖同框",
@@ -6985,14 +7041,6 @@
       "onboard_time": 1722626712,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 27517,
-      "num": 361371,
-      "word": "设计一场浪漫邂逅",
-      "onboard_time": 1722652162,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26754,
