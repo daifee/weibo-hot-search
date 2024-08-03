@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1722681372968,
+  "endTime": 1722683808740,
   "band_list": [
     {
       "raw_hot": 37515871,
@@ -320,6 +320,14 @@
       "word": "体操排名",
       "onboard_time": 1722448280,
       "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 5661360,
+      "num": 5661360,
+      "word": "中国女篮大胜",
+      "onboard_time": 1722682224,
+      "rank": 0,
       "category": "体育"
     },
     {
@@ -891,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2737271,
+      "num": 2737271,
+      "word": "中国女篮波多黎各女篮冲突",
+      "onboard_time": 1722680783,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2732829,
       "num": 724865,
       "word": "王楚钦笑了",
@@ -1267,6 +1283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2001769,
+      "num": 2001769,
+      "word": "陈雨菲vs何冰娇",
+      "onboard_time": 1722679702,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1996916,
       "num": 684786,
       "word": "中国队田径首金",
@@ -1435,6 +1459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1789541,
+      "num": 1789541,
+      "word": "羽毛球女单 手心手背都是肉",
+      "onboard_time": 1722681802,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1788185,
       "num": 1788185,
       "word": "阿条姐竟然是近视",
@@ -1484,7 +1516,7 @@
     },
     {
       "raw_hot": 1736776,
-      "num": 1148387,
+      "num": 1286059,
       "word": "海棠",
       "onboard_time": 1722677122,
       "rank": 33,
@@ -1592,6 +1624,14 @@
       "word": "孙颖莎好稳",
       "onboard_time": 1722599907,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1610421,
+      "num": 1610421,
+      "word": "郑钦文冲金加油",
+      "onboard_time": 1722678502,
+      "rank": 20,
       "category": "体育"
     },
     {
@@ -1803,6 +1843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1430402,
+      "num": 1430402,
+      "word": "谢震业小组排名第4",
+      "onboard_time": 1722680963,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1425264,
       "num": 1425264,
       "word": "石宇奇vs昆拉武特",
@@ -1912,6 +1960,14 @@
       "word": "中国反兴奋剂中心声明",
       "onboard_time": 1722441925,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1309666,
+      "num": 1309666,
+      "word": "何冰娇晋级四强",
+      "onboard_time": 1722682883,
+      "rank": 11,
       "category": "体育"
     },
     {
@@ -2099,6 +2155,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 1207557,
+      "num": 624665,
+      "word": "李梦一打四太强了",
+      "onboard_time": 1722679103,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1204993,
       "num": 1138458,
       "word": "潘展乐尝试拆金牌",
@@ -2115,19 +2179,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1192646,
-      "num": 1192646,
-      "word": "陈雨菲vs何冰娇",
-      "onboard_time": 1722679702,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1188453,
       "num": 1188453,
       "word": "许昕吃瓜中韩两国教练激动相拥",
       "onboard_time": 1722662662,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1183714,
+      "num": 410184,
+      "word": "谷爱凌删了给马尔尚的所有ins评论",
+      "onboard_time": 1722683184,
+      "rank": 20,
       "category": "体育"
     },
     {
@@ -2137,14 +2201,6 @@
       "onboard_time": 1722513025,
       "rank": 13,
       "category": "游戏,体育"
-    },
-    {
-      "raw_hot": 1181609,
-      "num": 1181609,
-      "word": "郑钦文冲金加油",
-      "onboard_time": 1722678502,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 1179191,
@@ -2443,6 +2499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 994674,
+      "num": 408915,
+      "word": "女篮裁判",
+      "onboard_time": 1722681862,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 994256,
       "num": 994256,
       "word": "奥运会直播",
@@ -2484,7 +2548,7 @@
     },
     {
       "raw_hot": 982125,
-      "num": 1179248,
+      "num": 1623381,
       "word": "张元英吐舌头被吐槽",
       "onboard_time": 1722667162,
       "rank": 33,
@@ -2827,27 +2891,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 854385,
-      "num": 542156,
-      "word": "中国女篮波多黎各女篮冲突",
-      "onboard_time": 1722680783,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 844792,
       "num": 606017,
       "word": "谢震业巴黎奥运百米首秀",
       "onboard_time": 1722673823,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 844283,
-      "num": 521594,
-      "word": "谢震业小组排名第4",
-      "onboard_time": 1722680963,
-      "rank": 22,
       "category": "体育"
     },
     {
@@ -2923,14 +2971,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 786969,
-      "num": 624665,
-      "word": "李梦一打四太强了",
-      "onboard_time": 1722679103,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 783888,
       "num": 1806736,
       "word": "一家三口均被确诊精神疾病",
@@ -2976,6 +3016,14 @@
       "word": "张之臻孩子取名张奥运",
       "onboard_time": 1722663622,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 770230,
+      "num": 673862,
+      "word": "中国女篮vs波多黎各女篮",
+      "onboard_time": 1722674241,
+      "rank": 20,
       "category": "体育"
     },
     {
@@ -3387,14 +3435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 673862,
-      "num": 673862,
-      "word": "中国女篮vs波多黎各女篮",
-      "onboard_time": 1722674241,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 666917,
       "num": 565133,
       "word": "全红婵罕见的炸鱼名场面",
@@ -3460,7 +3500,7 @@
     },
     {
       "raw_hot": 653404,
-      "num": 1208646,
+      "num": 1650673,
       "word": "高叶百花奖哭了",
       "onboard_time": 1722677963,
       "rank": 7,
@@ -3472,6 +3512,14 @@
       "word": "拜尔斯比困了",
       "onboard_time": 1722536894,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 647252,
+      "num": 401352,
+      "word": "覃海洋状态回来了",
+      "onboard_time": 1722683364,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -3923,6 +3971,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 510057,
+      "num": 399622,
+      "word": "陈雨菲",
+      "onboard_time": 1722683423,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 509421,
       "num": 509421,
       "word": "许昕看孙颖莎vs许昕看樊振东",
@@ -4009,6 +4065,14 @@
       "onboard_time": 1722520288,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 495488,
+      "num": 399012,
+      "word": "奥委会回应会否增加对中国游泳队检测",
+      "onboard_time": 1722683004,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 494928,
@@ -4105,6 +4169,14 @@
       "onboard_time": 1722575062,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 476943,
+      "num": 397829,
+      "word": "孙颖莎和陈梦谁的赢面大",
+      "onboard_time": 1722680061,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 476110,
@@ -4321,6 +4393,14 @@
       "onboard_time": 1722554182,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 446616,
+      "num": 396575,
+      "word": "谢震业仅差0.001秒晋级",
+      "onboard_time": 1722683664,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 442322,
@@ -4656,6 +4736,14 @@
       "word": "蹦床观赏性好高",
       "onboard_time": 1722598044,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 396276,
+      "num": 396276,
+      "word": "中国女篮下三分雨",
+      "onboard_time": 1722682104,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -5227,6 +5315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 326651,
+      "num": 412531,
+      "word": "左邓",
+      "onboard_time": 1722681322,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 325592,
       "num": 1349017,
       "word": "彩虹六号过审",
@@ -5473,6 +5569,14 @@
       "onboard_time": 1722472587,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302552,
+      "num": 411217,
+      "word": "赵丽颖工作室晒百花奖提名证书奖杯",
+      "onboard_time": 1722682883,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 301691,
@@ -5737,6 +5841,14 @@
       "onboard_time": 1722640039,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 286794,
+      "num": 404874,
+      "word": "唐诡啊唐诡 没有鬼全是情",
+      "onboard_time": 1722682943,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 286790,
@@ -6115,14 +6227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 261790,
-      "num": 261790,
-      "word": "孙颖莎和陈梦谁的赢面大",
-      "onboard_time": 1722680061,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 258082,
       "num": 1905645,
       "word": "苏州工业园区陷串标疑云",
@@ -6329,6 +6433,14 @@
       "onboard_time": 1722658942,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 230425,
+      "num": 400496,
+      "word": "女生宿舍一般不会老是聊男生",
+      "onboard_time": 1722677721,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 229577,
@@ -6587,6 +6699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 214345,
+      "num": 403347,
+      "word": "你好星期六甜度已经是nextlevel了",
+      "onboard_time": 1722681743,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213480,
       "num": 584032,
       "word": "林依轮没去巴黎的原因",
@@ -6617,14 +6737,6 @@
       "onboard_time": 1722665183,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 211161,
-      "num": 278360,
-      "word": "女生宿舍一般不会老是聊男生",
-      "onboard_time": 1722677721,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 211088,
@@ -6715,6 +6827,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 204987,
+      "num": 315323,
+      "word": "披荆斩棘",
+      "onboard_time": 1722682763,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204606,
       "num": 197580,
       "word": "迪丽热巴公诉入围金鹰奖",
@@ -6748,7 +6868,7 @@
     },
     {
       "raw_hot": 203801,
-      "num": 203801,
+      "num": 314320,
       "word": "百花奖",
       "onboard_time": 1722677242,
       "rank": 46,
@@ -7203,14 +7323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171071,
-      "num": 242958,
-      "word": "左邓",
-      "onboard_time": 1722681322,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 171014,
       "num": 171014,
       "word": "德约科维奇晋级奥运四强",
@@ -7556,7 +7668,7 @@
     },
     {
       "raw_hot": 114788,
-      "num": 667313,
+      "num": 1469574,
       "word": "伊朗或将使用合法自卫权惩罚以色列",
       "onboard_time": 1722674845,
       "rank": 9,
@@ -8060,7 +8172,7 @@
     },
     {
       "raw_hot": 51901,
-      "num": 1683957,
+      "num": 2387871,
       "word": "骏马奔腾",
       "onboard_time": 1722670522,
       "rank": 2,
