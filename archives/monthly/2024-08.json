@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1722699279441,
+  "endTime": 1722702313981,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -64,6 +64,14 @@
       "word": "早田希娜vs申裕斌",
       "onboard_time": 1722685165,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 17461120,
+      "num": 17461120,
+      "word": "郑钦文vs维基奇",
+      "onboard_time": 1722690931,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -187,14 +195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 10634642,
-      "num": 10634642,
-      "word": "郑钦文vs维基奇",
-      "onboard_time": 1722690931,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 10527980,
       "num": 10527980,
       "word": "樊振东下一把得来个十环",
@@ -299,11 +299,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 7304262,
+      "num": 7304262,
+      "word": "吴尊观战郑钦文",
+      "onboard_time": 1722698914,
+      "rank": 6,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 7242675,
       "num": 7242675,
       "word": "张本智和发文",
       "onboard_time": 1722538755,
       "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 7156057,
+      "num": 7156057,
+      "word": "郑钦文好牛",
+      "onboard_time": 1722698492,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -491,11 +507,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 4671776,
-      "num": 1708260,
-      "word": "郑钦文好牛",
-      "onboard_time": 1722698492,
-      "rank": 8,
+      "raw_hot": 4734262,
+      "num": 4734262,
+      "word": "郑钦文赢下首盘",
+      "onboard_time": 1722699269,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -552,6 +568,14 @@
       "word": "朱雪莹出场就是王炸",
       "onboard_time": 1722597985,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 4143429,
+      "num": 4143429,
+      "word": "郑钦文冲金加油",
+      "onboard_time": 1722678502,
+      "rank": 20,
       "category": "体育"
     },
     {
@@ -691,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3691875,
+      "num": 1051003,
+      "word": "孙颖莎采访呢",
+      "onboard_time": 1722700347,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3691570,
       "num": 3691570,
       "word": "朱雪莹胡译乘晋级蹦床决赛",
@@ -720,14 +752,6 @@
       "word": "郑钦文vs斯瓦泰克",
       "onboard_time": 1722506844,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 3659130,
-      "num": 3805988,
-      "word": "郑钦文冲金加油",
-      "onboard_time": 1722678502,
-      "rank": 20,
       "category": "体育"
     },
     {
@@ -897,14 +921,6 @@
       "onboard_time": 1722620236,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 3146145,
-      "num": 3146145,
-      "word": "吴尊观战郑钦文",
-      "onboard_time": 1722698914,
-      "rank": 6,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 3137272,
@@ -1763,6 +1779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1754038,
+      "num": 1754038,
+      "word": "郑钦文金牌",
+      "onboard_time": 1722702286,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1742396,
       "num": 802397,
       "word": "女单解说",
@@ -2099,6 +2123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1430469,
+      "num": 776522,
+      "word": "马尔尚道歉了",
+      "onboard_time": 1722698734,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1430402,
       "num": 1430402,
       "word": "谢震业小组排名第4",
@@ -2145,14 +2177,6 @@
       "onboard_time": 1722685767,
       "rank": 13,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 1374739,
-      "num": 776522,
-      "word": "马尔尚道歉了",
-      "onboard_time": 1722698734,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 1370748,
@@ -2979,6 +3003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 954156,
+      "num": 715869,
+      "word": "陈梦成女单奥运夺金年龄最大选手",
+      "onboard_time": 1722700347,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 952864,
       "num": 952864,
       "word": "有的天策在巴陵 有的天策在巴黎",
@@ -3080,6 +3112,14 @@
       "word": "国乒锁定女单金牌",
       "onboard_time": 1722672321,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 925571,
+      "num": 711311,
+      "word": "维基奇摔拍子",
+      "onboard_time": 1722702286,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -3219,6 +3259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 872432,
+      "num": 700914,
+      "word": "郑钦文接发神了",
+      "onboard_time": 1722701066,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 870148,
       "num": 870148,
       "word": "蹦床好危险",
@@ -3267,6 +3315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 848172,
+      "num": 704650,
+      "word": "凡尘组合互戴戒指",
+      "onboard_time": 1722700945,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 844792,
       "num": 606017,
       "word": "谢震业巴黎奥运百米首秀",
@@ -3288,6 +3344,14 @@
       "word": "马尔尚 脸红",
       "onboard_time": 1722626593,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 830095,
+      "num": 697413,
+      "word": "孙颖莎 发烧",
+      "onboard_time": 1722702286,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -4131,6 +4195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 591382,
+      "num": 591382,
+      "word": "孙颖莎说期待洛杉矶冲金",
+      "onboard_time": 1722701605,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 589637,
       "num": 1243427,
       "word": "胡一天录中餐厅手机两天不用充电",
@@ -4467,6 +4539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 506457,
+      "num": 804321,
+      "word": "郑钦文ace",
+      "onboard_time": 1722698610,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 502418,
       "num": 502418,
       "word": "有选手游完塞纳河吐了",
@@ -4536,6 +4616,14 @@
       "word": "张博恒失误",
       "onboard_time": 1722443906,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 490725,
+      "num": 490725,
+      "word": "陈梦孙颖莎包揽冠亚军",
+      "onboard_time": 1722700226,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -4747,6 +4835,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 460596,
+      "num": 767650,
+      "word": "王源李现去了张杰演唱会",
+      "onboard_time": 1722698432,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 460459,
       "num": 353818,
       "word": "郑钦文回应纳瓦罗diss",
@@ -4873,6 +4969,14 @@
       "onboard_time": 1722554182,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 447772,
+      "num": 447772,
+      "word": "陈梦美甲",
+      "onboard_time": 1722702219,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 442322,
@@ -5171,6 +5275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 404519,
+      "num": 1427825,
+      "word": "刘圣书谭宁羽毛球女双银牌",
+      "onboard_time": 1722699568,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 403840,
       "num": 1103627,
       "word": "张杰鸟巢开场四条龙",
@@ -5299,14 +5411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 391631,
-      "num": 767650,
-      "word": "王源李现去了张杰演唱会",
-      "onboard_time": 1722698432,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
       "raw_hot": 390241,
       "num": 236662,
       "word": "中国女排锁定八强",
@@ -5321,6 +5425,14 @@
       "onboard_time": 1722512666,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 389520,
+      "num": 725925,
+      "word": "宋雨琦辣成这样",
+      "onboard_time": 1722700105,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 388068,
@@ -5705,6 +5817,14 @@
       "onboard_time": 1722500063,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 341331,
+      "num": 764838,
+      "word": "苏醒恭喜陈梦夺冠",
+      "onboard_time": 1722699030,
+      "rank": 28,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 340950,
@@ -6155,14 +6275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 299868,
-      "num": 764838,
-      "word": "苏醒恭喜陈梦夺冠",
-      "onboard_time": 1722699030,
-      "rank": 28,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 299710,
       "num": 1324564,
       "word": "白敬亭为张若昀新片打call",
@@ -6515,6 +6627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 281850,
+      "num": 709621,
+      "word": "费沁源排名",
+      "onboard_time": 1722701666,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 281493,
       "num": 415464,
       "word": "2024年第四批进口网络游戏版号",
@@ -6713,6 +6833,14 @@
       "onboard_time": 1722593549,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 266855,
+      "num": 606434,
+      "word": "中国第15金",
+      "onboard_time": 1722701545,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 266408,
@@ -7377,6 +7505,14 @@
       "onboard_time": 1722673763,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213148,
+      "num": 705380,
+      "word": "檀健次王玉雯上演替身文学",
+      "onboard_time": 1722700887,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 212187,
@@ -8147,6 +8283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154571,
+      "num": 399402,
+      "word": "王俊凯百花奖提名证书",
+      "onboard_time": 1722700945,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 154433,
       "num": 293174,
       "word": "英雄联盟维护",
@@ -8515,14 +8659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 101543,
-      "num": 804321,
-      "word": "郑钦文ace",
-      "onboard_time": 1722698610,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 98891,
       "num": 145716,
       "word": "雅思组合进4强",
@@ -8607,6 +8743,14 @@
       "num": 324664,
       "word": "四川消防268人65车赶赴甘孜救援",
       "onboard_time": 1722666321,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84971,
+      "num": 712692,
+      "word": "23斤多冰毒竟被编进地毯里",
+      "onboard_time": 1722702219,
       "rank": 25,
       "category": "社会新闻"
     },
