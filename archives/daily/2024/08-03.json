@@ -1,6 +1,6 @@
 {
   "startTime": 1722615950508,
-  "endTime": 1722676930653,
+  "endTime": 1722677683939,
   "band_list": [
     {
       "raw_hot": 11552083,
@@ -147,8 +147,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1972812,
-      "num": 1972812,
+      "raw_hot": 1983356,
+      "num": 1983356,
       "word": "原来这才是刘雨辰求婚的花",
       "onboard_time": 1722672143,
       "rank": 20,
@@ -507,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 942030,
+      "num": 942030,
+      "word": "孙颖莎陈梦金牌赛",
+      "onboard_time": 1722674720,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 936792,
       "num": 936792,
       "word": "王欣瑜张之臻混双银牌",
@@ -563,6 +571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 812636,
+      "num": 812636,
+      "word": "马龙被左撇子误伤的一生",
+      "onboard_time": 1722673763,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 811618,
       "num": 811618,
       "word": "张馨予何捷海边拍照",
@@ -603,6 +619,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 756794,
+      "num": 756794,
+      "word": "孙颖莎与陈梦近期交手16次胜11次",
+      "onboard_time": 1722670941,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 753966,
+      "num": 753966,
+      "word": "中国女篮生死战",
+      "onboard_time": 1722676041,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 747627,
       "num": 747627,
       "word": "欧美游泳运动员赛后集体发紫",
@@ -636,7 +668,7 @@
     },
     {
       "raw_hot": 726683,
-      "num": 726683,
+      "num": 772396,
       "word": "张译张颂文百花奖同框",
       "onboard_time": 1722672862,
       "rank": 45,
@@ -755,14 +787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 646333,
-      "num": 646333,
-      "word": "孙颖莎陈梦金牌赛",
-      "onboard_time": 1722674720,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 642046,
       "num": 642046,
       "word": "樊振东小莫 小时候我还抱过你",
@@ -779,11 +803,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 623389,
+      "num": 623389,
+      "word": "谢瑜老家房屋连夜翻新",
+      "onboard_time": 1722676221,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 622956,
       "num": 622956,
       "word": "黄雅琼哭了",
       "onboard_time": 1722611667,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 618416,
+      "num": 618416,
+      "word": "国乒锁定女单金牌",
+      "onboard_time": 1722672321,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -803,11 +843,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 603976,
-      "num": 603976,
-      "word": "孙颖莎与陈梦近期交手16次胜11次",
-      "onboard_time": 1722670941,
-      "rank": 23,
+      "raw_hot": 571135,
+      "num": 571135,
+      "word": "中国女篮vs波多黎各女篮",
+      "onboard_time": 1722674241,
+      "rank": 20,
       "category": "体育"
     },
     {
@@ -825,22 +865,6 @@
       "onboard_time": 1722665840,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 558241,
-      "num": 558241,
-      "word": "中国女篮生死战",
-      "onboard_time": 1722676041,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 554651,
-      "num": 554651,
-      "word": "中国女篮vs波多黎各女篮",
-      "onboard_time": 1722674241,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 541690,
@@ -872,14 +896,6 @@
       "word": "张之臻王欣瑜好可惜",
       "onboard_time": 1722632471,
       "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 530731,
-      "num": 530731,
-      "word": "马龙被左撇子误伤的一生",
-      "onboard_time": 1722673763,
-      "rank": 40,
       "category": "体育"
     },
     {
@@ -1011,12 +1027,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 434495,
-      "num": 434495,
-      "word": "国乒锁定女单金牌",
-      "onboard_time": 1722672321,
-      "rank": 43,
-      "category": "体育"
+      "raw_hot": 434399,
+      "num": 619138,
+      "word": "百花奖提名者表彰大会",
+      "onboard_time": 1722676342,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 429733,
@@ -1083,14 +1099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 414218,
-      "num": 414218,
-      "word": "谢瑜老家房屋连夜翻新",
-      "onboard_time": 1722676221,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 412580,
       "num": 412580,
       "word": "谢震业巴黎奥运百米首秀",
@@ -1148,7 +1156,7 @@
     },
     {
       "raw_hot": 388068,
-      "num": 569347,
+      "num": 618704,
       "word": "尤长靖有8首百万收藏歌曲",
       "onboard_time": 1722670822,
       "rank": 19,
@@ -1203,12 +1211,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 339107,
+      "num": 339107,
+      "word": "日本女排淘汰",
+      "onboard_time": 1722677302,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 335359,
       "num": 328109,
       "word": "郑思维儿子是队宠",
       "onboard_time": 1722661402,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 333186,
+      "num": 333186,
+      "word": "美国游泳队 脸红",
+      "onboard_time": 1722675922,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 333086,
+      "num": 333086,
+      "word": "海棠",
+      "onboard_time": 1722677122,
+      "rank": 33,
+      "category": "读书作家"
     },
     {
       "raw_hot": 330569,
@@ -1219,20 +1251,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 315342,
+      "raw_hot": 315992,
       "num": 245163,
       "word": "孙颖莎陈梦角逐乒乓女单冠军",
       "onboard_time": 1722671181,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 315041,
-      "num": 554935,
-      "word": "百花奖提名者表彰大会",
-      "onboard_time": 1722676342,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 313869,
@@ -1403,6 +1427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 270379,
+      "num": 221185,
+      "word": "全红婵陈芋汐场边热身跳出针式入水",
+      "onboard_time": 1722677602,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 265021,
       "num": 295952,
       "word": "郭碧婷吐槽向佐",
@@ -1411,12 +1443,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 263543,
-      "num": 239744,
-      "word": "美国游泳队 脸红",
-      "onboard_time": 1722675922,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 263841,
+      "num": 412585,
+      "word": "章若楠沈阳见面会",
+      "onboard_time": 1722674903,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 263110,
@@ -1435,12 +1467,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262690,
+      "num": 235046,
+      "word": "美国博主怒斥外媒质疑潘展乐成绩",
+      "onboard_time": 1722674602,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 262250,
       "num": 702475,
       "word": "雅康高速隧间桥垮塌5人失联1人获救",
       "onboard_time": 1722659542,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259802,
+      "num": 232197,
+      "word": "谁懂这块个人名义金牌的含金量",
+      "onboard_time": 1722675743,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 257166,
@@ -1483,14 +1531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 242378,
-      "num": 412585,
-      "word": "章若楠沈阳见面会",
-      "onboard_time": 1722674903,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 241935,
       "num": 241935,
       "word": "中国男子蹦床1银1铜",
@@ -1507,27 +1547,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 235046,
-      "num": 235046,
-      "word": "美国博主怒斥外媒质疑潘展乐成绩",
-      "onboard_time": 1722674602,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 234941,
       "num": 234941,
       "word": "浙D谢震业",
       "onboard_time": 1722675922,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 232197,
-      "num": 232197,
-      "word": "谁懂这块个人名义金牌的含金量",
-      "onboard_time": 1722675743,
-      "rank": 43,
       "category": "体育"
     },
     {
@@ -1691,6 +1715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 213162,
+      "num": 213162,
+      "word": "黄雅琼家今年三喜临门",
+      "onboard_time": 1722673763,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212187,
       "num": 212187,
       "word": "梁伟铿妈妈太紧张儿子比赛一场没看",
@@ -1763,6 +1795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203801,
+      "num": 203801,
+      "word": "百花奖",
+      "onboard_time": 1722677242,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 203243,
       "num": 203243,
       "word": "奥运奖牌榜",
@@ -1785,6 +1825,22 @@
       "onboard_time": 1722668841,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201979,
+      "num": 201979,
+      "word": "林俊杰演唱会",
+      "onboard_time": 1722676893,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 201942,
+      "num": 201942,
+      "word": "白蛇浮生",
+      "onboard_time": 1722677242,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 198825,
@@ -1899,14 +1955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 189089,
-      "num": 195181,
-      "word": "林俊杰演唱会",
-      "onboard_time": 1722676893,
-      "rank": 49,
-      "category": "演出"
-    },
-    {
       "raw_hot": 188576,
       "num": 188576,
       "word": "潘展乐有效入镜波波维奇采访",
@@ -2001,6 +2049,14 @@
       "onboard_time": 1722628453,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178673,
+      "num": 623438,
+      "word": "女干部被围猎7年贪392万后辞职",
+      "onboard_time": 1722677492,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178490,
@@ -2131,6 +2187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114788,
+      "num": 667313,
+      "word": "伊朗或将使用合法自卫权惩罚以色列",
+      "onboard_time": 1722674845,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 112469,
       "num": 853211,
       "word": "苏醒亲了王栎鑫",
@@ -2235,14 +2299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 83629,
-      "num": 667313,
-      "word": "伊朗或将使用合法自卫权惩罚以色列",
-      "onboard_time": 1722674845,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 75277,
       "num": 742800,
       "word": "90年代的服装审美至今扛打",
@@ -2257,6 +2313,14 @@
       "onboard_time": 1722617599,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 66035,
+      "num": 609903,
+      "word": "现炒菜食堂如何征服年轻人",
+      "onboard_time": 1722675622,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65710,
@@ -2299,7 +2363,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51845,
+      "raw_hot": 51901,
       "num": 1652910,
       "word": "骏马奔腾",
       "onboard_time": 1722670522,
@@ -2347,6 +2411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40216,
+      "num": 234959,
+      "word": "武大靖观赛叫樊振东东哥",
+      "onboard_time": 1722674062,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39329,
       "num": 1945609,
       "word": "网友给奥运冠军画头像",
@@ -2371,28 +2443,12 @@
       "category": "体育,情感"
     },
     {
-      "raw_hot": 36332,
-      "num": 609903,
-      "word": "现炒菜食堂如何征服年轻人",
-      "onboard_time": 1722675622,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 35454,
       "num": 232239,
       "word": "西班牙给蚊子做绝育",
       "onboard_time": 1722668781,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31576,
-      "num": 234959,
-      "word": "武大靖观赛叫樊振东东哥",
-      "onboard_time": 1722674062,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 31512,
