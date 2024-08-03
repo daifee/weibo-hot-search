@@ -1,0 +1,410 @@
+{
+  "runTime": 1722670477552,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2619030,
+        "num": 2619030,
+        "word": "中国奖牌榜真多了一颗钻",
+        "onboard_time": 1722659363,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2024408,
+        "num": 2024408,
+        "word": "刘雨辰求婚后被教练调侃钻石这么小",
+        "onboard_time": 1722665421,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17460,
+        "num": 1969709,
+        "word": "奥运赛场闪闪发光的中国00后",
+        "onboard_time": 1722654921,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1925865,
+        "num": 1925865,
+        "word": "公开质疑潘展乐的教练二次发文",
+        "onboard_time": 1722666621,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1275685,
+        "num": 1275685,
+        "word": "王楚钦团赛前调整状态",
+        "onboard_time": 1722664642,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 982125,
+        "num": 982125,
+        "word": "张元英吐舌头被吐槽",
+        "onboard_time": 1722667162,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 918307,
+        "num": 918307,
+        "word": "申裕斌头顶的冰袋越打越大",
+        "onboard_time": 1722667102,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 878777,
+        "num": 878777,
+        "word": "李佳琦初舞台",
+        "onboard_time": 1722663322,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 636093,
+        "num": 636093,
+        "word": "许昕吃瓜中韩两国教练激动相拥",
+        "onboard_time": 1722662662,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 496621,
+        "num": 496621,
+        "word": "小夫妻 学历不代表人品",
+        "onboard_time": 1722664581,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 988338,
+        "num": 494349,
+        "word": "陈玘说带女队员只能生闷气",
+        "onboard_time": 1722668543,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 671480,
+        "num": 483460,
+        "word": "唐钱婷的泳衣在国外火了",
+        "onboard_time": 1722666441,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 406063,
+        "num": 471996,
+        "word": "日本偶遇胡歌一家三口",
+        "onboard_time": 1722659781,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381049,
+        "num": 464668,
+        "word": "王皓 男乒王祖贤",
+        "onboard_time": 1722669142,
+        "rank": 13,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 330932,
+        "num": 455351,
+        "word": "张馨予何捷海边拍照",
+        "onboard_time": 1722661223,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 633731,
+        "num": 448926,
+        "word": "刘国梁让孙颖莎转过来拍照",
+        "onboard_time": 1722659842,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40963,
+        "num": 438004,
+        "word": "中国女篮全力出击",
+        "onboard_time": 1722667041,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 430022,
+        "num": 430022,
+        "word": "全世界都知道梁王爱偷后场了",
+        "onboard_time": 1722660441,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 426018,
+        "num": 426018,
+        "word": "马龙中途换拍训练",
+        "onboard_time": 1722648562,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 297664,
+        "num": 406313,
+        "word": "阿如那 假哭",
+        "onboard_time": 1722669562,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45834,
+        "num": 391997,
+        "word": "村民回忆康定发生山洪泥石流",
+        "onboard_time": 1722668661,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566925,
+        "num": 391896,
+        "word": "没人告诉我苏炳添要来跑马拉松啊",
+        "onboard_time": 1722666381,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 390644,
+        "num": 390644,
+        "word": "张之臻孩子取名张奥运",
+        "onboard_time": 1722663622,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 345064,
+        "num": 345064,
+        "word": "孙颖莎7天涨粉121万",
+        "onboard_time": 1722661943,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141429,
+        "num": 332953,
+        "word": "雅康高速隧间桥垮塌起了很大灰尘",
+        "onboard_time": 1722670343,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330740,
+        "num": 330740,
+        "word": "月嫂到期后女主人久久缓不过劲",
+        "onboard_time": 1722654742,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296490,
+        "num": 296490,
+        "word": "樊振东赛前静坐放空反差感拉满",
+        "onboard_time": 1722668362,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265021,
+        "num": 295952,
+        "word": "郭碧婷吐槽向佐",
+        "onboard_time": 1722669261,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247636,
+        "num": 290694,
+        "word": "默杀原型",
+        "onboard_time": 1722665601,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13631,
+        "num": 287438,
+        "word": "拜登儿子非法持枪案将宣判",
+        "onboard_time": 1722669921,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105105,
+        "num": 285000,
+        "word": "张亮走秀硬控了我30秒",
+        "onboard_time": 1722666861,
+        "rank": 30,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 282515,
+        "num": 282515,
+        "word": "张本智和 体面",
+        "onboard_time": 1722645503,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274685,
+        "num": 274685,
+        "word": "恋与深空洗澡卡2.0",
+        "onboard_time": 1722655582,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 268143,
+        "num": 268143,
+        "word": "孙杨猜汪顺女装照",
+        "onboard_time": 1722654921,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259948,
+        "num": 259948,
+        "word": "怪不得梁王不听教练说话",
+        "onboard_time": 1722667583,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241669,
+        "num": 241669,
+        "word": "斯瓦泰克称输给郑钦文后哭了6小时",
+        "onboard_time": 1722658703,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219979,
+        "num": 219979,
+        "word": "安洗莹vs山口茜",
+        "onboard_time": 1722668781,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218515,
+        "num": 218515,
+        "word": "浙江人再忍8天",
+        "onboard_time": 1722663021,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214957,
+        "num": 214957,
+        "word": "萧敬腾来上海 上海下雨",
+        "onboard_time": 1722669022,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 212858,
+        "num": 212858,
+        "word": "奥运会裁判因一张合影被除名",
+        "onboard_time": 1722669983,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205701,
+        "num": 205701,
+        "word": "金鹰奖片单",
+        "onboard_time": 1722665122,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197685,
+        "num": 197685,
+        "word": "央视日媒镜头下的志田千阳",
+        "onboard_time": 1722669022,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193318,
+        "num": 193318,
+        "word": "山洪泥石流致康定2人遇难12人失联",
+        "onboard_time": 1722660621,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191880,
+        "num": 191880,
+        "word": "赵丽颖金鹰奖入围三部作品",
+        "onboard_time": 1722666561,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191409,
+        "num": 191409,
+        "word": "时代少年团抢票",
+        "onboard_time": 1722665840,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183155,
+        "num": 183155,
+        "word": "傅园慧回应汪顺30岁被叫老将",
+        "onboard_time": 1722670401,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182133,
+        "num": 182133,
+        "word": "奥运会解说员好幽默",
+        "onboard_time": 1722670223,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180716,
+        "num": 180716,
+        "word": "辛芷蕾用信封帮小演员挡裙子",
+        "onboard_time": 1722666861,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178490,
+        "num": 178490,
+        "word": "小夫妻",
+        "onboard_time": 1722670401,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31512,
+        "num": 175392,
+        "word": "江南布衣大秀有什么看点",
+        "onboard_time": 1722667642,
+        "rank": 49,
+        "category": "时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂全会决定中的这些名词#"
+    }
+  }
+}

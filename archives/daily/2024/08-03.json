@@ -1,6 +1,6 @@
 {
   "startTime": 1722615950508,
-  "endTime": 1722669434696,
+  "endTime": 1722670477552,
   "band_list": [
     {
       "raw_hot": 11552083,
@@ -139,11 +139,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1961059,
-      "num": 1961059,
+      "raw_hot": 2024408,
+      "num": 2024408,
       "word": "刘雨辰求婚后被教练调侃钻石这么小",
       "onboard_time": 1722665421,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1925865,
+      "num": 1925865,
+      "word": "公开质疑潘展乐的教练二次发文",
+      "onboard_time": 1722666621,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -193,14 +201,6 @@
       "onboard_time": 1722613114,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1681194,
-      "num": 1681194,
-      "word": "公开质疑潘展乐的教练二次发文",
-      "onboard_time": 1722666621,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 1677905,
@@ -419,6 +419,22 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 988338,
+      "num": 494349,
+      "word": "陈玘说带女队员只能生闷气",
+      "onboard_time": 1722668543,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 982125,
+      "num": 982125,
+      "word": "张元英吐舌头被吐槽",
+      "onboard_time": 1722667162,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 967449,
       "num": 967449,
       "word": "刘雨辰 香蕉拜年旁边那个人",
@@ -459,12 +475,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 898775,
-      "num": 898775,
-      "word": "张元英吐舌头被吐槽",
-      "onboard_time": 1722667162,
-      "rank": 33,
-      "category": "演出"
+      "raw_hot": 918307,
+      "num": 918307,
+      "word": "申裕斌头顶的冰袋越打越大",
+      "onboard_time": 1722667102,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 897195,
@@ -643,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 671480,
+      "num": 604617,
+      "word": "唐钱婷的泳衣在国外火了",
+      "onboard_time": 1722666441,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 659066,
       "num": 659066,
       "word": "金鹰奖开始投票",
@@ -675,14 +699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 639887,
-      "num": 639887,
-      "word": "申裕斌头顶的冰袋越打越大",
-      "onboard_time": 1722667102,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 622956,
       "num": 622956,
       "word": "黄雅琼哭了",
@@ -699,19 +715,19 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 604617,
-      "num": 604617,
-      "word": "唐钱婷的泳衣在国外火了",
-      "onboard_time": 1722666441,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 604170,
       "num": 604170,
       "word": "王梓赛严浪宇晋级男子蹦床决赛",
       "onboard_time": 1722621497,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 566925,
+      "num": 391896,
+      "word": "没人告诉我苏炳添要来跑马拉松啊",
+      "onboard_time": 1722666381,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -840,14 +856,6 @@
       "word": "国乒锁定女单金银牌",
       "onboard_time": 1722600942,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 470942,
-      "num": 280683,
-      "word": "陈玘说带女队员只能生闷气",
-      "onboard_time": 1722668543,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -1011,12 +1019,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 379437,
-      "num": 379437,
-      "word": "没人告诉我苏炳添要来跑马拉松啊",
-      "onboard_time": 1722666381,
-      "rank": 43,
-      "category": "体育"
+      "raw_hot": 381049,
+      "num": 464668,
+      "word": "王皓 男乒王祖贤",
+      "onboard_time": 1722669142,
+      "rank": 36,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 371650,
@@ -1097,6 +1105,22 @@
       "onboard_time": 1722665601,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 297664,
+      "num": 406313,
+      "word": "阿如那 假哭",
+      "onboard_time": 1722669562,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 296490,
+      "num": 296490,
+      "word": "樊振东赛前静坐放空反差感拉满",
+      "onboard_time": 1722668362,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 296345,
@@ -1203,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 265021,
+      "num": 295952,
+      "word": "郭碧婷吐槽向佐",
+      "onboard_time": 1722669261,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263110,
       "num": 418208,
       "word": "姚政求婚Tina差点没来",
@@ -1225,6 +1257,14 @@
       "onboard_time": 1722659542,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259948,
+      "num": 259948,
+      "word": "怪不得梁王不听教练说话",
+      "onboard_time": 1722667583,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 253980,
@@ -1339,6 +1379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 219979,
+      "num": 219979,
+      "word": "安洗莹vs山口茜",
+      "onboard_time": 1722668781,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219263,
       "num": 219263,
       "word": "李克勤梁龙唱跳无价之姐",
@@ -1387,20 +1435,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 213356,
-      "num": 213356,
-      "word": "樊振东赛前静坐放空反差感拉满",
-      "onboard_time": 1722668362,
-      "rank": 35,
-      "category": "体育"
+      "raw_hot": 214957,
+      "num": 214957,
+      "word": "萧敬腾来上海 上海下雨",
+      "onboard_time": 1722669022,
+      "rank": 41,
+      "category": "演出"
     },
     {
-      "raw_hot": 212871,
-      "num": 212871,
-      "word": "王皓 男乒王祖贤",
-      "onboard_time": 1722669142,
-      "rank": 36,
-      "category": "艺人,体育"
+      "raw_hot": 212858,
+      "num": 212858,
+      "word": "奥运会裁判因一张合影被除名",
+      "onboard_time": 1722669983,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 212187,
@@ -1491,6 +1539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197685,
+      "num": 197685,
+      "word": "央视日媒镜头下的志田千阳",
+      "onboard_time": 1722669022,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197624,
       "num": 180605,
       "word": "德约科维奇晋级决赛",
@@ -1529,14 +1585,6 @@
       "onboard_time": 1722665542,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192883,
-      "num": 192883,
-      "word": "萧敬腾来上海 上海下雨",
-      "onboard_time": 1722669022,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 191925,
@@ -1627,12 +1675,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 184570,
-      "num": 184570,
-      "word": "郭碧婷吐槽向佐",
-      "onboard_time": 1722669261,
-      "rank": 48,
-      "category": "综艺"
+      "raw_hot": 183155,
+      "num": 183155,
+      "word": "傅园慧回应汪顺30岁被叫老将",
+      "onboard_time": 1722670401,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 182424,
@@ -1659,11 +1707,11 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 182127,
-      "num": 182127,
-      "word": "央视日媒镜头下的志田千阳",
-      "onboard_time": 1722669022,
-      "rank": 49,
+      "raw_hot": 182133,
+      "num": 182133,
+      "word": "奥运会解说员好幽默",
+      "onboard_time": 1722670223,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -1673,6 +1721,14 @@
       "onboard_time": 1722628453,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178490,
+      "num": 178490,
+      "word": "小夫妻",
+      "onboard_time": 1722670401,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 171014,
@@ -1720,6 +1776,14 @@
       "word": "应急管理厅工作组赴雅康高速现场",
       "onboard_time": 1722662603,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141429,
+      "num": 332953,
+      "word": "雅康高速隧间桥垮塌起了很大灰尘",
+      "onboard_time": 1722670343,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1835,8 +1899,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105105,
+      "num": 285000,
+      "word": "张亮走秀硬控了我30秒",
+      "onboard_time": 1722666861,
+      "rank": 31,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 104213,
-      "num": 1755254,
+      "num": 1969709,
       "word": "奥运赛场闪闪发光的中国00后",
       "onboard_time": 1722654921,
       "rank": 2,
@@ -1881,14 +1953,6 @@
       "onboard_time": 1722666321,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 79086,
-      "num": 280066,
-      "word": "张亮走秀硬控了我30秒",
-      "onboard_time": 1722666861,
-      "rank": 31,
-      "category": "时尚"
     },
     {
       "raw_hot": 75277,
@@ -1963,12 +2027,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 45834,
+      "num": 667288,
+      "word": "村民回忆康定发生山洪泥石流",
+      "onboard_time": 1722668661,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43857,
       "num": 197219,
       "word": "那英生命之河应景奥运会",
       "onboard_time": 1722623174,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 40963,
+      "num": 438004,
+      "word": "中国女篮全力出击",
+      "onboard_time": 1722667041,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 39329,
@@ -1987,14 +2067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38704,
-      "num": 431659,
-      "word": "中国女篮全力出击",
-      "onboard_time": 1722667041,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 38355,
       "num": 510968,
       "word": "全世界见证求婚",
@@ -2011,12 +2083,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33647,
-      "num": 667288,
-      "word": "村民回忆康定发生山洪泥石流",
-      "onboard_time": 1722668661,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 31512,
+      "num": 191175,
+      "word": "江南布衣大秀有什么看点",
+      "onboard_time": 1722667642,
+      "rank": 44,
+      "category": "时尚"
     },
     {
       "raw_hot": 30985,
@@ -2043,14 +2115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25280,
-      "num": 191175,
-      "word": "江南布衣大秀有什么看点",
-      "onboard_time": 1722667642,
-      "rank": 44,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 24329,
       "num": 138208,
       "word": "从21世纪安全撤离上映",
@@ -2073,6 +2137,14 @@
       "onboard_time": 1722627132,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 13631,
+      "num": 287438,
+      "word": "拜登儿子非法持枪案将宣判",
+      "onboard_time": 1722669921,
+      "rank": 29,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
