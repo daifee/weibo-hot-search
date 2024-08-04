@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1722728166257,
+  "endTime": 1722736310547,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -715,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3786540,
+      "num": 3786540,
+      "word": "孙颖莎 不白来都不白来",
+      "onboard_time": 1722718992,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3782354,
       "num": 3782354,
       "word": "男单要上呼吸机了",
@@ -1419,6 +1427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2318047,
+      "num": 2318047,
+      "word": "黄晓明发红包祝贺表妹陈梦夺金",
+      "onboard_time": 1722710596,
+      "rank": 12,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 2301065,
       "num": 1012827,
       "word": "申裕斌的球拍上贴着马龙",
@@ -1609,14 +1625,6 @@
       "onboard_time": 1722665421,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2014013,
-      "num": 2014013,
-      "word": "黄晓明发红包祝贺表妹陈梦夺金",
-      "onboard_time": 1722710596,
-      "rank": 12,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 2008981,
@@ -1811,6 +1819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1796089,
+      "num": 1796089,
+      "word": "七位女生为中国拿下了3金2银5枚奖牌",
+      "onboard_time": 1722731122,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1790262,
       "num": 1628689,
       "word": "羽毛球混双决赛",
@@ -1908,7 +1924,7 @@
     },
     {
       "raw_hot": 1703024,
-      "num": 795023,
+      "num": 1570606,
       "word": "郑钦文说对不起张之臻",
       "onboard_time": 1722721873,
       "rank": 31,
@@ -2259,6 +2275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1415524,
+      "num": 1217630,
+      "word": "陈梦说黄晓明每天都在鼓励我",
+      "onboard_time": 1722723555,
+      "rank": 8,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 1391589,
       "num": 1295019,
       "word": "四大满贯祝贺郑钦文夺冠",
@@ -2577,14 +2601,6 @@
       "onboard_time": 1722458834,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1217630,
-      "num": 1217630,
-      "word": "陈梦说黄晓明每天都在鼓励我",
-      "onboard_time": 1722723555,
-      "rank": 8,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 1213434,
@@ -2955,6 +2971,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 1042406,
+      "num": 1042406,
+      "word": "哪些品牌押中了郑钦文",
+      "onboard_time": 1722726437,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1034813,
       "num": 519185,
       "word": "郑钦文退赛成全了5个人",
@@ -3243,6 +3267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 931868,
+      "num": 931868,
+      "word": "别让饭圈文化侵蚀中国乒乓",
+      "onboard_time": 1722735443,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 924778,
       "num": 924778,
       "word": "肖若腾跳马14.833分",
@@ -3467,6 +3499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 805946,
+      "num": 1214983,
+      "word": "李佳琦否认整容",
+      "onboard_time": 1722730643,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 802421,
       "num": 802421,
       "word": "贾一凡坐地连打三球",
@@ -3585,6 +3625,14 @@
       "onboard_time": 1722572245,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 774316,
+      "num": 774316,
+      "word": "郑钦文 NIKE",
+      "onboard_time": 1722734004,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 771541,
@@ -3995,6 +4043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 687032,
+      "num": 687032,
+      "word": "樊振东乒乓球男单冲金",
+      "onboard_time": 1722732804,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 683476,
       "num": 683476,
       "word": "张怡宁丁宁解说孙颖莎陈梦争冠",
@@ -4128,6 +4184,14 @@
       "word": "汪顺可能比完了自己最后一场200混",
       "onboard_time": 1722629892,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 654908,
+      "num": 654908,
+      "word": "郑钦文世界排名",
+      "onboard_time": 1722732985,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -4547,6 +4611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 536765,
+      "num": 934150,
+      "word": "尤长靖在披哥瘦了36斤",
+      "onboard_time": 1722733225,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 536651,
       "num": 430907,
       "word": "张本智和落泪",
@@ -4568,6 +4640,14 @@
       "word": "张之臻王欣瑜好可惜",
       "onboard_time": 1722632471,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 529177,
+      "num": 235335,
+      "word": "樊振东今晚决赛加油",
+      "onboard_time": 1722732864,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -4849,6 +4929,14 @@
       "onboard_time": 1722623595,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 484819,
+      "num": 932227,
+      "word": "黄晓明曾回应蹭表妹陈梦热度",
+      "onboard_time": 1722726498,
+      "rank": 23,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 482781,
@@ -5315,6 +5403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 423828,
+      "num": 234463,
+      "word": "郑钦文国内3任教练均执教过李娜",
+      "onboard_time": 1722732985,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 423384,
       "num": 458994,
       "word": "他们克制地吻 我放肆地叫",
@@ -5329,6 +5425,14 @@
       "onboard_time": 1722625992,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 422999,
+      "num": 233360,
+      "word": "潘展乐是陈奕迅周杰伦双担",
+      "onboard_time": 1722729022,
+      "rank": 39,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 422369,
@@ -5707,6 +5811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 379286,
+      "num": 233081,
+      "word": "孙颖莎希望团体赛争夺冠军",
+      "onboard_time": 1722732504,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 378626,
       "num": 743649,
       "word": "邬家楷喜欢全红婵",
@@ -5891,14 +6003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 358964,
-      "num": 358964,
-      "word": "哪些品牌押中了郑钦文",
-      "onboard_time": 1722726437,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 358246,
       "num": 1287289,
       "word": "XG上海开票",
@@ -6033,14 +6137,6 @@
       "onboard_time": 1722586104,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 339973,
-      "num": 692549,
-      "word": "黄晓明曾回应蹭表妹陈梦热度",
-      "onboard_time": 1722726498,
-      "rank": 23,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 339836,
@@ -6315,6 +6411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 318749,
+      "num": 231111,
+      "word": "郑钦文每年欧洲训练费要300万",
+      "onboard_time": 1722733164,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 317919,
       "num": 317919,
       "word": "张雨霏决战女子200米蝶泳",
@@ -6427,14 +6531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 307567,
-      "num": 307567,
-      "word": "孙颖莎 不白来都不白来",
-      "onboard_time": 1722718992,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 307498,
       "num": 307498,
       "word": "方力申 有效采访",
@@ -6465,6 +6561,14 @@
       "onboard_time": 1722604407,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 305103,
+      "num": 229900,
+      "word": "刘璇问为什么叫张博恒茶茶",
+      "onboard_time": 1722727760,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 304879,
@@ -6747,6 +6851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 291710,
+      "num": 229391,
+      "word": "梁王组合决赛",
+      "onboard_time": 1722735923,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 290894,
       "num": 420028,
       "word": "喜欢你5十个人成了三对",
@@ -6881,6 +6993,14 @@
       "onboard_time": 1722672143,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 285737,
+      "num": 696198,
+      "word": "周深回复黄雅琼",
+      "onboard_time": 1722728302,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 284218,
@@ -7520,6 +7640,14 @@
       "word": "张博恒奥运会前一天要扎40根针",
       "onboard_time": 1722494363,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 229184,
+      "num": 229184,
+      "word": "陈梦为何能顶住压力战胜孙颖莎夺冠",
+      "onboard_time": 1722736282,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -8483,6 +8611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178579,
+      "num": 656035,
+      "word": "Jasper模仿陈小春臭脸",
+      "onboard_time": 1722729682,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178490,
       "num": 178490,
       "word": "小夫妻",
@@ -8512,6 +8648,14 @@
       "word": "苏醒小号个性签名我秃了",
       "onboard_time": 1722684625,
       "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 176515,
+      "num": 655396,
+      "word": "董力迟到一个月的道歉",
+      "onboard_time": 1722735984,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -8595,12 +8739,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165486,
+      "num": 237543,
+      "word": "胡先煦成都叫观众不要走",
+      "onboard_time": 1722732504,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 164950,
       "num": 164950,
       "word": "叶诗文小组第四",
       "onboard_time": 1722628032,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164326,
+      "num": 236392,
+      "word": "贾冰居然做了腋下管理",
+      "onboard_time": 1722714673,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 163417,
@@ -8665,6 +8825,14 @@
       "onboard_time": 1722664102,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157321,
+      "num": 233743,
+      "word": "张艺兴出发百花奖",
+      "onboard_time": 1722735624,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 156277,
@@ -8737,6 +8905,14 @@
       "onboard_time": 1722441985,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148268,
+      "num": 223176,
+      "word": "奥运会上最优雅的项目",
+      "onboard_time": 1722730344,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 145478,
@@ -8857,6 +9033,14 @@
       "onboard_time": 1722652522,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 133609,
+      "num": 1214174,
+      "word": "加沙一学校遭袭包括儿童至少17死",
+      "onboard_time": 1722734784,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 133015,
@@ -9225,14 +9409,6 @@
       "onboard_time": 1722666321,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85521,
-      "num": 137847,
-      "word": "贾冰居然做了腋下管理",
-      "onboard_time": 1722714673,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 83706,
