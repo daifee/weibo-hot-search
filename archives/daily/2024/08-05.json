@@ -1,6 +1,6 @@
 {
   "startTime": 1722788553409,
-  "endTime": 1722798981363,
+  "endTime": 1722800090689,
   "band_list": [
     {
       "raw_hot": 16751358,
@@ -251,6 +251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1102457,
+      "num": 1102457,
+      "word": "美国队 脸紫",
+      "onboard_time": 1722797714,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1065668,
       "num": 1065668,
       "word": "樊振东惊呆外国选手的神仙救球",
@@ -304,14 +312,6 @@
       "word": "樊振东回复皇马",
       "onboard_time": 1722790821,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 707246,
-      "num": 707246,
-      "word": "美国队 脸紫",
-      "onboard_time": 1722797714,
-      "rank": 5,
       "category": "体育"
     },
     {
@@ -371,6 +371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 493799,
+      "num": 477053,
+      "word": "潘展乐搓手等金牌",
+      "onboard_time": 1722797414,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 489324,
       "num": 489324,
       "word": "覃海洋蛙王回归",
@@ -392,14 +400,6 @@
       "word": "朱婷的手",
       "onboard_time": 1722791122,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 469342,
-      "num": 469342,
-      "word": "潘展乐搓手等金牌",
-      "onboard_time": 1722797414,
-      "rank": 17,
       "category": "体育"
     },
     {
@@ -563,6 +563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 291144,
+      "num": 291144,
+      "word": "冠军是我们的 不满意的应该是别人",
+      "onboard_time": 1722797775,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 278409,
       "num": 1147477,
       "word": "杨恩又代朱一龙领奖",
@@ -579,20 +587,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 267444,
+      "num": 267444,
+      "word": "孙佳俊临危受命",
+      "onboard_time": 1722798493,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 259362,
       "num": 1941075,
       "word": "高叶差2票",
       "onboard_time": 1722776070,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 241782,
-      "num": 241782,
-      "word": "冠军是我们的 不满意的应该是别人",
-      "onboard_time": 1722797775,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 228001,
@@ -641,14 +649,6 @@
       "onboard_time": 1722789202,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 202676,
-      "num": 202676,
-      "word": "孙佳俊临危受命",
-      "onboard_time": 1722798493,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 200925,
@@ -715,6 +715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 143004,
+      "num": 143004,
+      "word": "张雨霏 劳模",
+      "onboard_time": 1722799033,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138684,
       "num": 390500,
       "word": "朱一龙百花奖最佳男主角",
@@ -763,12 +771,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46399,
+      "num": 286659,
+      "word": "郎朗恭喜中国游泳队",
+      "onboard_time": 1722799033,
+      "rank": 28,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 39689,
       "num": 195307,
       "word": "周深唱解密现场太顶了",
       "onboard_time": 1722798313,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 26811,
+      "num": 142703,
+      "word": "EWC电竞世界杯",
+      "onboard_time": 1722792862,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 6906,
