@@ -1,6 +1,6 @@
 {
   "startTime": 1722702313981,
-  "endTime": 1722778457912,
+  "endTime": 1722781161005,
   "band_list": [
     {
       "raw_hot": 35169209,
@@ -91,11 +91,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 9191912,
+      "num": 10160430,
+      "word": "刘洋金牌",
+      "onboard_time": 1722778563,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 7993558,
       "num": 7993558,
       "word": "孙颖莎退场后第一时间摘下银牌",
       "onboard_time": 1722740965,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 7901278,
+      "num": 7901278,
+      "word": "王皓亲樊振东",
+      "onboard_time": 1722779084,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -195,6 +211,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 4404949,
+      "num": 4404949,
+      "word": "樊振东领奖",
+      "onboard_time": 1722780217,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 4387690,
+      "num": 4387690,
+      "word": "羽毛球男双",
+      "onboard_time": 1722779925,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 4373342,
       "num": 931868,
       "word": "别让饭圈文化侵蚀中国乒乓",
@@ -243,11 +275,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3510904,
+      "num": 3510904,
+      "word": "邹敬园银牌",
+      "onboard_time": 1722778910,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3358883,
       "num": 3358883,
       "word": "陈梦最近3年只赢过两次孙颖莎",
       "onboard_time": 1722768445,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3279494,
+      "num": 2898286,
+      "word": "女子高低杠",
+      "onboard_time": 1722780162,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -264,6 +312,14 @@
       "word": "马林退赛",
       "onboard_time": 1722760165,
       "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3052164,
+      "num": 3052164,
+      "word": "王皓跳起来了",
+      "onboard_time": 1722776971,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -323,19 +379,35 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 2569446,
+      "num": 2569446,
+      "word": "樊振东姆巴佩庆祝动作",
+      "onboard_time": 1722779575,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2516893,
+      "num": 2516893,
+      "word": "许昕直播",
+      "onboard_time": 1722713894,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2498399,
+      "num": 2498399,
+      "word": "中国包揽男子吊环金银牌",
+      "onboard_time": 1722778910,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2495262,
       "num": 1778710,
       "word": "陈梦东京夺冠后一度低迷",
       "onboard_time": 1722740965,
       "rank": 5,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2487355,
-      "num": 2487355,
-      "word": "王皓跳起来了",
-      "onboard_time": 1722776971,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -531,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1718351,
+      "num": 1718351,
+      "word": "国乒男队全到了",
+      "onboard_time": 1722779865,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1703349,
       "num": 1703349,
       "word": "王皓和樊振东进行多球训练",
@@ -547,11 +627,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1630176,
-      "num": 1630176,
-      "word": "许昕直播",
-      "onboard_time": 1722713894,
-      "rank": 15,
+      "raw_hot": 1660554,
+      "num": 1660554,
+      "word": "安洗莹进奥运决赛",
+      "onboard_time": 1722757583,
+      "rank": 21,
       "category": "体育"
     },
     {
@@ -584,6 +664,14 @@
       "word": "凡尘组合金牌",
       "onboard_time": 1722698853,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1510523,
+      "num": 1510523,
+      "word": "梁王",
+      "onboard_time": 1722780217,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -675,6 +763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1377638,
+      "num": 3271200,
+      "word": "贾玲 意难平",
+      "onboard_time": 1722778861,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1366396,
       "num": 5526471,
       "word": "朱一龙百花奖最佳男主角",
@@ -697,6 +793,14 @@
       "onboard_time": 1722742224,
       "rank": 5,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1331154,
+      "num": 3076267,
+      "word": "杨恩又代朱一龙领奖",
+      "onboard_time": 1722777771,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 1327151,
@@ -777,14 +881,6 @@
       "onboard_time": 1722754222,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1184130,
-      "num": 1115127,
-      "word": "安洗莹进奥运决赛",
-      "onboard_time": 1722757583,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 1182620,
@@ -923,6 +1019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 891991,
+      "num": 891991,
+      "word": "王楚钦马龙观战樊振东决赛",
+      "onboard_time": 1722776791,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 872444,
       "num": 814766,
       "word": "郑钦文ace",
@@ -952,6 +1056,14 @@
       "word": "江旻憓宣布结束全职击剑运动员生涯",
       "onboard_time": 1722738443,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 852297,
+      "num": 852297,
+      "word": "张怡涵掉杠",
+      "onboard_time": 1722781057,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -993,14 +1105,6 @@
       "onboard_time": 1722730643,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 774371,
-      "num": 774371,
-      "word": "王楚钦马龙观战樊振东决赛",
-      "onboard_time": 1722776791,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 771151,
@@ -1099,11 +1203,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 674584,
+      "num": 879267,
+      "word": "德约科维奇vs阿尔卡拉斯",
+      "onboard_time": 1722762684,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 674476,
       "num": 332778,
       "word": "郑钦文颁奖仪式",
       "onboard_time": 1722704666,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 667713,
+      "num": 667713,
+      "word": "樊振东都瘦了",
+      "onboard_time": 1722777031,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -1136,14 +1256,6 @@
       "word": "教练我们还需要跳吗",
       "onboard_time": 1722752244,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 621876,
-      "num": 879267,
-      "word": "德约科维奇vs阿尔卡拉斯",
-      "onboard_time": 1722762684,
-      "rank": 9,
       "category": "体育"
     },
     {
@@ -1403,14 +1515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 439942,
-      "num": 439942,
-      "word": "樊振东都瘦了",
-      "onboard_time": 1722777031,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 427786,
       "num": 427786,
       "word": "四川男子办完离婚头也不回离开",
@@ -1491,6 +1595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 406347,
+      "num": 1150045,
+      "word": "男子睡醒后身下床变成6楼外平台",
+      "onboard_time": 1722776190,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 406035,
       "num": 406035,
       "word": "95后银行职员请假参加巴黎奥运",
@@ -1500,7 +1612,7 @@
     },
     {
       "raw_hot": 405130,
-      "num": 445190,
+      "num": 667314,
       "word": "张杰新中式马面裙",
       "onboard_time": 1722773607,
       "rank": 26,
@@ -1561,14 +1673,6 @@
       "onboard_time": 1722766944,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 387862,
-      "num": 890535,
-      "word": "杨恩又代朱一龙领奖",
-      "onboard_time": 1722777771,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 386549,
@@ -1729,6 +1833,14 @@
       "onboard_time": 1722706041,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 335776,
+      "num": 928640,
+      "word": "赵丽颖首次获得百花奖",
+      "onboard_time": 1722780577,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 333698,
@@ -2091,14 +2203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 256079,
-      "num": 434902,
-      "word": "男子睡醒后身下床变成6楼外平台",
-      "onboard_time": 1722776190,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 253261,
       "num": 253261,
       "word": "巴黎90后说龙是Loong不是Dragon",
@@ -2440,6 +2544,14 @@
       "word": "郑钦文教科书般的夺冠发言",
       "onboard_time": 1722755183,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 187945,
+      "num": 3061209,
+      "word": "中国第18金",
+      "onboard_time": 1722780042,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -2875,6 +2987,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 89704,
+      "num": 4413197,
+      "word": "熊猫幼崽逃跑被妈妈一路拖回家",
+      "onboard_time": 1722780101,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 89289,
       "num": 2388113,
       "word": "中国健儿顽强拼搏实现一个个突破",
@@ -3097,6 +3217,14 @@
       "onboard_time": 1722771089,
       "rank": 42,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 7724,
+      "num": 666466,
+      "word": "张颂文魏大勋嗑瓜子聊天",
+      "onboard_time": 1722781057,
+      "rank": 49,
+      "category": "电影"
     }
   ],
   "hotgov_list": [
