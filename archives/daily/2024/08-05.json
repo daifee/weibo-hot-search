@@ -1,6 +1,6 @@
 {
   "startTime": 1722788553409,
-  "endTime": 1722789457968,
+  "endTime": 1722791805925,
   "band_list": [
     {
       "raw_hot": 13301501,
@@ -43,6 +43,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 5560452,
+      "num": 5560452,
+      "word": "张雨霏50自铜牌",
+      "onboard_time": 1722789622,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 4729938,
       "num": 4729938,
       "word": "羽毛球裁判",
@@ -56,6 +64,14 @@
       "word": "王昶发球",
       "onboard_time": 1722786648,
       "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3548131,
+      "num": 3548131,
+      "word": "中国女排三连胜",
+      "onboard_time": 1722791243,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -83,12 +99,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2908958,
+      "num": 3590811,
+      "word": "中国女排VS塞尔维亚女排",
+      "onboard_time": 1722783934,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2723935,
       "num": 2723935,
       "word": "樊振东放了一首霉霉的歌",
       "onboard_time": 1722785437,
       "rank": 18,
       "category": "体育,音乐"
+    },
+    {
+      "raw_hot": 2584518,
+      "num": 2584518,
+      "word": "女排裁判",
+      "onboard_time": 1722791184,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 2482272,
@@ -115,11 +147,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1901366,
+      "num": 1901366,
+      "word": "林丹 起床考证",
+      "onboard_time": 1722789022,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1788248,
       "num": 1788248,
       "word": "德约科维奇金牌",
       "onboard_time": 1722784174,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1777587,
+      "num": 1777587,
+      "word": "中国女排反超",
+      "onboard_time": 1722788904,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -131,10 +179,18 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1737411,
-      "num": 2175586,
-      "word": "中国女排VS塞尔维亚女排",
-      "onboard_time": 1722783934,
+      "raw_hot": 1401160,
+      "num": 1401160,
+      "word": "中国女排小组第1晋级",
+      "onboard_time": 1722791779,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1246043,
+      "num": 1246043,
+      "word": "孙杨世界纪录被打破",
+      "onboard_time": 1722791184,
       "rank": 25,
       "category": "体育"
     },
@@ -155,11 +211,27 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1024225,
-      "num": 1024225,
-      "word": "中国女排反超",
+      "raw_hot": 977351,
+      "num": 977351,
+      "word": "张继科直播",
       "onboard_time": 1722788904,
-      "rank": 30,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 859281,
+      "num": 859281,
+      "word": "还得是朱婷",
+      "onboard_time": 1722788845,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 859182,
+      "num": 859182,
+      "word": "游泳收官之夜",
+      "onboard_time": 1722789742,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -176,14 +248,6 @@
       "word": "梁王组合决赛",
       "onboard_time": 1722735923,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 669435,
-      "num": 669435,
-      "word": "还得是朱婷",
-      "onboard_time": 1722788845,
-      "rank": 35,
       "category": "体育"
     },
     {
@@ -211,14 +275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 624896,
-      "num": 624896,
-      "word": "林丹 起床考证",
-      "onboard_time": 1722789022,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 604908,
       "num": 3957653,
       "word": "王俊凯3票易烊千玺2票",
@@ -243,11 +299,27 @@
       "category": "体育"
     },
     {
-      "raw_hot": 435406,
-      "num": 435406,
-      "word": "张继科直播",
-      "onboard_time": 1722788904,
-      "rank": 40,
+      "raw_hot": 488458,
+      "num": 488458,
+      "word": "朱婷的手",
+      "onboard_time": 1722791122,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 447712,
+      "num": 447712,
+      "word": "樊振东回复皇马",
+      "onboard_time": 1722790821,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 430661,
+      "num": 4685798,
+      "word": "朱婷手腕",
+      "onboard_time": 1722788008,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -260,7 +332,7 @@
     },
     {
       "raw_hot": 417453,
-      "num": 3136587,
+      "num": 3359817,
       "word": "宁静身材",
       "onboard_time": 1722773546,
       "rank": 24,
@@ -283,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 408964,
+      "num": 408964,
+      "word": "张雨霏获9枚奥运奖牌",
+      "onboard_time": 1722791184,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 380342,
       "num": 5010261,
       "word": "大半个娱乐圈都去了张杰演唱会",
@@ -299,11 +379,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 357590,
-      "num": 4685798,
-      "word": "朱婷手腕",
-      "onboard_time": 1722788008,
-      "rank": 9,
+      "raw_hot": 369769,
+      "num": 369769,
+      "word": "王昶梁伟铿第一次上奥运就是亚军",
+      "onboard_time": 1722789563,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -355,6 +435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 272807,
+      "num": 3218504,
+      "word": "五冠教练Gemini",
+      "onboard_time": 1722789502,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 259362,
       "num": 1773694,
       "word": "高叶差2票",
@@ -364,7 +452,7 @@
     },
     {
       "raw_hot": 228001,
-      "num": 750755,
+      "num": 932641,
       "word": "Alan开团未央",
       "onboard_time": 1722785251,
       "rank": 34,
@@ -380,7 +468,7 @@
     },
     {
       "raw_hot": 216116,
-      "num": 690802,
+      "num": 859184,
       "word": "张艺兴7票",
       "onboard_time": 1722786216,
       "rank": 39,
@@ -388,7 +476,7 @@
     },
     {
       "raw_hot": 208624,
-      "num": 409912,
+      "num": 1772903,
       "word": "赵丽颖 85花主流奖",
       "onboard_time": 1722775652,
       "rank": 44,
@@ -396,7 +484,7 @@
     },
     {
       "raw_hot": 206398,
-      "num": 346922,
+      "num": 369329,
       "word": "一诺电竞世界杯FMVP",
       "onboard_time": 1722789202,
       "rank": 45,
@@ -420,7 +508,7 @@
     },
     {
       "raw_hot": 165965,
-      "num": 300206,
+      "num": 859215,
       "word": "梦之队EWC夺冠",
       "onboard_time": 1722789383,
       "rank": 48,
@@ -459,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132910,
+      "num": 368453,
+      "word": "王鹤棣素颜打篮球饭拍",
+      "onboard_time": 1722790580,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 72931,
       "num": 5866175,
       "word": "这10个奥运表情令人动容",
@@ -470,6 +566,9 @@
   "hotgov_list": [
     {
       "word": "#加大保障力度切实改善民生#"
+    },
+    {
+      "word": "#习近平总书记始终心系体育事业发展#"
     }
   ]
 }

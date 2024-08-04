@@ -1,6 +1,6 @@
 {
   "startTime": 1722702313981,
-  "endTime": 1722789457968,
+  "endTime": 1722791805925,
   "band_list": [
     {
       "raw_hot": 35169209,
@@ -187,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 5560452,
+      "num": 5560452,
+      "word": "张雨霏50自铜牌",
+      "onboard_time": 1722789622,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 5338444,
       "num": 5338444,
       "word": "我需要速效救心丸",
@@ -331,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3548131,
+      "num": 3548131,
+      "word": "中国女排三连胜",
+      "onboard_time": 1722791243,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3510904,
       "num": 3510904,
       "word": "邹敬园银牌",
@@ -392,6 +408,14 @@
       "word": "马林 李雪芮",
       "onboard_time": 1722761305,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2908958,
+      "num": 3802850,
+      "word": "中国女排VS塞尔维亚女排",
+      "onboard_time": 1722783934,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -457,6 +481,14 @@
       "onboard_time": 1722695224,
       "rank": 6,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 2584518,
+      "num": 2584518,
+      "word": "女排裁判",
+      "onboard_time": 1722791184,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 2570384,
@@ -643,6 +675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1901366,
+      "num": 1901366,
+      "word": "林丹 起床考证",
+      "onboard_time": 1722789022,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1899824,
       "num": 5623728,
       "word": "百花奖获奖名单",
@@ -656,14 +696,6 @@
       "word": "马尔尚因不住奥运村错过药检",
       "onboard_time": 1722744144,
       "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1876702,
-      "num": 3802850,
-      "word": "中国女排VS塞尔维亚女排",
-      "onboard_time": 1722783934,
-      "rank": 9,
       "category": "体育"
     },
     {
@@ -688,6 +720,14 @@
       "word": "七位女生为中国拿下了3金2银5枚奖牌",
       "onboard_time": 1722731122,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1777587,
+      "num": 1777587,
+      "word": "中国女排反超",
+      "onboard_time": 1722788904,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -875,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1401160,
+      "num": 1401160,
+      "word": "中国女排小组第1晋级",
+      "onboard_time": 1722791779,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1396157,
       "num": 1396157,
       "word": "张怡涵掉杠",
@@ -984,6 +1032,14 @@
       "word": "何冰娇失误",
       "onboard_time": 1722759442,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1246043,
+      "num": 1246043,
+      "word": "孙杨世界纪录被打破",
+      "onboard_time": 1722791184,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -1099,14 +1155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1024225,
-      "num": 1024225,
-      "word": "中国女排反超",
-      "onboard_time": 1722788904,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1021599,
       "num": 968658,
       "word": "潘展乐关注了质疑自己的澳洲教练",
@@ -1152,6 +1200,14 @@
       "word": "凡尘组合超级大满贯",
       "onboard_time": 1722698014,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 977351,
+      "num": 977351,
+      "word": "张继科直播",
+      "onboard_time": 1722788904,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -1225,6 +1281,22 @@
       "onboard_time": 1722776070,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 859281,
+      "num": 859281,
+      "word": "还得是朱婷",
+      "onboard_time": 1722788845,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 859182,
+      "num": 859182,
+      "word": "游泳收官之夜",
+      "onboard_time": 1722789742,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 854420,
@@ -1379,14 +1451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 669435,
-      "num": 669435,
-      "word": "还得是朱婷",
-      "onboard_time": 1722788845,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 667713,
       "num": 667713,
       "word": "樊振东都瘦了",
@@ -1451,14 +1515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 624896,
-      "num": 624896,
-      "word": "林丹 起床考证",
-      "onboard_time": 1722789022,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 620664,
       "num": 620664,
       "word": "国羽包揽金银牌",
@@ -1468,7 +1524,7 @@
     },
     {
       "raw_hot": 617186,
-      "num": 3136587,
+      "num": 3359817,
       "word": "宁静身材",
       "onboard_time": 1722773546,
       "rank": 22,
@@ -1635,6 +1691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 488458,
+      "num": 488458,
+      "word": "朱婷的手",
+      "onboard_time": 1722791122,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 485539,
       "num": 485539,
       "word": "弗雷泽退赛",
@@ -1723,6 +1787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 447712,
+      "num": 447712,
+      "word": "樊振东回复皇马",
+      "onboard_time": 1722790821,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 446068,
       "num": 719159,
       "word": "黄晓明 好脾气",
@@ -1731,11 +1803,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 435406,
-      "num": 435406,
-      "word": "张继科直播",
-      "onboard_time": 1722788904,
-      "rank": 40,
+      "raw_hot": 430661,
+      "num": 4685798,
+      "word": "朱婷手腕",
+      "onboard_time": 1722788008,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -1808,6 +1880,14 @@
       "word": "王皓樊振东 谁能不老泪纵横",
       "onboard_time": 1722787768,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 408964,
+      "num": 408964,
+      "word": "张雨霏获9枚奥运奖牌",
+      "onboard_time": 1722791184,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -2003,6 +2083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 369769,
+      "num": 369769,
+      "word": "王昶梁伟铿第一次上奥运就是亚军",
+      "onboard_time": 1722789563,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 366951,
       "num": 1024275,
       "word": "上半年结婚登记数同比减少49.8万对",
@@ -2024,14 +2112,6 @@
       "word": "110米栏奥运纪录还是刘翔的",
       "onboard_time": 1722767966,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 357590,
-      "num": 4685798,
-      "word": "朱婷手腕",
-      "onboard_time": 1722788008,
-      "rank": 9,
       "category": "体育"
     },
     {
@@ -2379,6 +2459,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 272807,
+      "num": 3218504,
+      "word": "五冠教练Gemini",
+      "onboard_time": 1722789502,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 270888,
       "num": 968372,
       "word": "白鹿在应援旗面前这么水灵灵吊起来了",
@@ -2588,7 +2676,7 @@
     },
     {
       "raw_hot": 236108,
-      "num": 750755,
+      "num": 932641,
       "word": "Alan开团未央",
       "onboard_time": 1722785251,
       "rank": 46,
@@ -2676,7 +2764,7 @@
     },
     {
       "raw_hot": 216116,
-      "num": 690802,
+      "num": 859184,
       "word": "张艺兴7票",
       "onboard_time": 1722786216,
       "rank": 39,
@@ -2756,7 +2844,7 @@
     },
     {
       "raw_hot": 206398,
-      "num": 346922,
+      "num": 369329,
       "word": "一诺电竞世界杯FMVP",
       "onboard_time": 1722789202,
       "rank": 45,
@@ -3020,7 +3108,7 @@
     },
     {
       "raw_hot": 165965,
-      "num": 300206,
+      "num": 859215,
       "word": "梦之队EWC夺冠",
       "onboard_time": 1722789383,
       "rank": 48,
@@ -3201,6 +3289,14 @@
       "onboard_time": 1722689495,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 132910,
+      "num": 368453,
+      "word": "王鹤棣素颜打篮球饭拍",
+      "onboard_time": 1722790580,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 131546,
