@@ -1,0 +1,410 @@
+{
+  "runTime": 1722775780145,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 23487882,
+        "num": 23487882,
+        "word": "樊振东vs莫雷加德",
+        "onboard_time": 1722772886,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4939904,
+        "num": 4939904,
+        "word": "赵丽颖百花奖最佳女配角",
+        "onboard_time": 1722774269,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 746316,
+        "num": 3471338,
+        "word": "人民网评最好的应援是喝彩而不是拉踩",
+        "onboard_time": 1722759023,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3139219,
+        "num": 3139219,
+        "word": "雨果vsF勒布伦",
+        "onboard_time": 1722771626,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2269601,
+        "num": 2269601,
+        "word": "羽毛球女单铜牌比赛取消",
+        "onboard_time": 1722770483,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1500112,
+        "num": 1500112,
+        "word": "百花奖获奖名单",
+        "onboard_time": 1722773247,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1402206,
+        "num": 1402206,
+        "word": "莫雷加德赢下首局",
+        "onboard_time": 1722775473,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1333984,
+        "num": 1333984,
+        "word": "郑钦文夺冠后亚季军拒绝中国媒体采访",
+        "onboard_time": 1722768204,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1261402,
+        "num": 1261402,
+        "word": "黄晓明正在打字庆祝陈梦夺冠",
+        "onboard_time": 1722772947,
+        "rank": 8,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 207309,
+        "num": 1078185,
+        "word": "索马里一酒店遭袭已致37死247伤",
+        "onboard_time": 1722773787,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1304217,
+        "num": 1056060,
+        "word": "樊振东和王楚钦的神同步瞬间",
+        "onboard_time": 1722769104,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 992106,
+        "num": 992106,
+        "word": "汪峰女友森林北晒日常生活vlog",
+        "onboard_time": 1722773728,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 743753,
+        "num": 743753,
+        "word": "张本智和 当翻译战绩可查",
+        "onboard_time": 1722766524,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 711666,
+        "num": 711666,
+        "word": "中国拳击女队已锁定4枚奖牌",
+        "onboard_time": 1722771505,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 653200,
+        "num": 653200,
+        "word": "朱一龙百花奖最佳男主角",
+        "onboard_time": 1722775412,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 617186,
+        "num": 617186,
+        "word": "宁静身材",
+        "onboard_time": 1722773546,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 609552,
+        "num": 609552,
+        "word": "许昕劝粉丝学习孙颖莎大格局",
+        "onboard_time": 1722761125,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 565689,
+        "num": 565689,
+        "word": "凡希亚中式妆造",
+        "onboard_time": 1722770184,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 561945,
+        "num": 561945,
+        "word": "偶遇金世佳一家三口逛街",
+        "onboard_time": 1722774088,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465898,
+        "num": 465898,
+        "word": "关晓彤绿色燕尾高定",
+        "onboard_time": 1722766585,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 452871,
+        "num": 452871,
+        "word": "樊振东与莫雷加德交手3次3胜0负",
+        "onboard_time": 1722762623,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 414224,
+        "num": 414224,
+        "word": "于适 最佳新人",
+        "onboard_time": 1722774926,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 405136,
+        "num": 405136,
+        "word": "樊振东今晚决赛加油",
+        "onboard_time": 1722732864,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 405130,
+        "num": 405130,
+        "word": "张杰新中式马面裙",
+        "onboard_time": 1722773607,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 397204,
+        "num": 397204,
+        "word": "贾一凡问樊振东体重到底多少",
+        "onboard_time": 1722770184,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 386027,
+        "num": 386027,
+        "word": "F勒布伦铜牌",
+        "onboard_time": 1722774148,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 378559,
+        "num": 378559,
+        "word": "马林退赛",
+        "onboard_time": 1722760165,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376268,
+        "num": 376268,
+        "word": "百花奖男明星生图",
+        "onboard_time": 1722771746,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 366581,
+        "num": 366581,
+        "word": "110米栏徐卓一晋级半决赛",
+        "onboard_time": 1722766823,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 346504,
+        "num": 346504,
+        "word": "德约科维奇vs阿尔卡拉斯",
+        "onboard_time": 1722769645,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1481252,
+        "num": 345707,
+        "word": "百花奖颁奖礼内场",
+        "onboard_time": 1722775171,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 983435,
+        "num": 345000,
+        "word": "伊利道歉",
+        "onboard_time": 1722763104,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 343351,
+        "num": 343351,
+        "word": "赵丽颖 85花主流奖",
+        "onboard_time": 1722775652,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 326034,
+        "num": 326034,
+        "word": "瑞典国王 大半夜把我叫来啥事啊",
+        "onboard_time": 1722774571,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 322807,
+        "num": 322807,
+        "word": "郑钦文多年没喝过一次饮料",
+        "onboard_time": 1722754822,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 319571,
+        "num": 319571,
+        "word": "95后银行职员请假参加巴黎奥运",
+        "onboard_time": 1722768565,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296369,
+        "num": 296369,
+        "word": "郭碧婷回应向佐65岁去流浪",
+        "onboard_time": 1722764664,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294840,
+        "num": 294840,
+        "word": "中国女篮出线形势",
+        "onboard_time": 1722771926,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277102,
+        "num": 277102,
+        "word": "孙杨解释潘展乐没上接力决赛的原因",
+        "onboard_time": 1722752244,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265411,
+        "num": 265411,
+        "word": "陈梦卫冕冠军",
+        "onboard_time": 1722694581,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255800,
+        "num": 255800,
+        "word": "法国女排vs美国女排",
+        "onboard_time": 1722772526,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249048,
+        "num": 249048,
+        "word": "西班牙羽联主席喊话给马林铜牌",
+        "onboard_time": 1722774449,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238373,
+        "num": 238373,
+        "word": "白敬亭张凌赫情头",
+        "onboard_time": 1722774749,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238293,
+        "num": 238293,
+        "word": "百花奖红毯",
+        "onboard_time": 1722765324,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 236255,
+        "num": 236255,
+        "word": "戴斯文的眼镜跨最猛的栏",
+        "onboard_time": 1722775652,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229659,
+        "num": 229659,
+        "word": "马林 李雪芮",
+        "onboard_time": 1722761305,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223209,
+        "num": 223209,
+        "word": "何冰娇在混采区哭了",
+        "onboard_time": 1722765983,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218417,
+        "num": 218417,
+        "word": "四川男子办完离婚头也不回离开",
+        "onboard_time": 1722765085,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214609,
+        "num": 214609,
+        "word": "李雪健百花奖最佳男配角",
+        "onboard_time": 1722774687,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 213991,
+        "num": 213991,
+        "word": "110米栏奥运纪录还是刘翔的",
+        "onboard_time": 1722767966,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记始终心系体育事业发展#"
+    }
+  }
+}
