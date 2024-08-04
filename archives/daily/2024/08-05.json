@@ -1,6 +1,6 @@
 {
   "startTime": 1722788553409,
-  "endTime": 1722810938348,
+  "endTime": 1722813669908,
   "band_list": [
     {
       "raw_hot": 16751358,
@@ -387,6 +387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 511249,
+      "num": 486207,
+      "word": "潘展乐小声说咱低调点",
+      "onboard_time": 1722812359,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 489324,
       "num": 489324,
       "word": "覃海洋蛙王回归",
@@ -635,6 +643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 221072,
+      "num": 221072,
+      "word": "中国女排将对阵土耳其女排",
+      "onboard_time": 1722810856,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217903,
       "num": 776841,
       "word": "赵丽颖没来百花奖",
@@ -691,8 +707,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177669,
+      "num": 177669,
+      "word": "巴西女排vs波兰女排",
+      "onboard_time": 1722805571,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170559,
-      "num": 402406,
+      "num": 488112,
       "word": "陈丽君 浮生一白",
       "onboard_time": 1722776012,
       "rank": 45,
@@ -795,11 +819,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 122373,
-      "num": 122373,
-      "word": "中国女排将对阵土耳其女排",
-      "onboard_time": 1722810856,
-      "rank": 41,
+      "raw_hot": 117782,
+      "num": 117782,
+      "word": "中国队第19金",
+      "onboard_time": 1722813561,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -808,6 +832,22 @@
       "word": "澳大利亚女篮vs法国女篮",
       "onboard_time": 1722804852,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100937,
+      "num": 100937,
+      "word": "潘展乐说夺冠因为有祖国撑腰",
+      "onboard_time": 1722812780,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 94929,
+      "num": 94929,
+      "word": "潘展乐孙佳俊十指相扣",
+      "onboard_time": 1722813441,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -827,12 +867,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 76819,
-      "num": 76819,
-      "word": "巴西女排vs波兰女排",
-      "onboard_time": 1722805571,
-      "rank": 43,
-      "category": "体育"
+      "raw_hot": 88469,
+      "num": 156525,
+      "word": "周深回应奥运冠军黄雅琼听自己的歌",
+      "onboard_time": 1722812780,
+      "rank": 33,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 72931,
@@ -844,7 +884,7 @@
     },
     {
       "raw_hot": 70954,
-      "num": 270329,
+      "num": 484660,
       "word": "四川地震",
       "onboard_time": 1722802511,
       "rank": 32,
@@ -867,12 +907,28 @@
       "category": "电影,体育"
     },
     {
+      "raw_hot": 48728,
+      "num": 487337,
+      "word": "三伏天晒背族占领公园",
+      "onboard_time": 1722807493,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47382,
       "num": 222462,
       "word": "他是哥哥找了一百年的弟弟",
       "onboard_time": 1722808573,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 46764,
+      "num": 146939,
+      "word": "无畏会继续努力",
+      "onboard_time": 1722813561,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 46493,
@@ -883,6 +939,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 40992,
+      "num": 205034,
+      "word": "人生松弛感挑战",
+      "onboard_time": 1722810555,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 39689,
       "num": 195307,
       "word": "周深唱解密现场太顶了",
@@ -891,23 +955,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 35148,
-      "num": 452125,
-      "word": "三伏天晒背族占领公园",
-      "onboard_time": 1722807493,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35105,
-      "num": 114583,
-      "word": "人生松弛感挑战",
-      "onboard_time": 1722810555,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 26811,
+      "raw_hot": 32102,
       "num": 142703,
       "word": "EWC电竞世界杯",
       "onboard_time": 1722792862,
