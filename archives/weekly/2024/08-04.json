@@ -1,6 +1,6 @@
 {
   "startTime": 1722702313981,
-  "endTime": 1722784815813,
+  "endTime": 1722785682473,
   "band_list": [
     {
       "raw_hot": 35169209,
@@ -187,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 5063291,
+      "num": 5063291,
+      "word": "德约科维奇金牌",
+      "onboard_time": 1722784174,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 4939904,
       "num": 5979802,
       "word": "赵丽颖百花奖最佳女配角",
@@ -216,14 +224,6 @@
       "word": "伊利道歉",
       "onboard_time": 1722763104,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 4656205,
-      "num": 4656205,
-      "word": "德约科维奇金牌",
-      "onboard_time": 1722784174,
-      "rank": 8,
       "category": "体育"
     },
     {
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 2412127,
-      "num": 2412127,
+      "num": 2759259,
       "word": "德约科维奇金满贯",
       "onboard_time": 1722784472,
       "rank": 18,
@@ -600,6 +600,14 @@
       "word": "马尔尚因不住奥运村错过药检",
       "onboard_time": 1722744144,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1876702,
+      "num": 3802850,
+      "word": "中国女排VS塞尔维亚女排",
+      "onboard_time": 1722783934,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -995,19 +1003,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1114689,
-      "num": 3802850,
-      "word": "中国女排VS塞尔维亚女排",
-      "onboard_time": 1722783934,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1110992,
       "num": 785469,
       "word": "陈梦成女单奥运夺金年龄最大选手",
       "onboard_time": 1722700347,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1110614,
+      "num": 1110614,
+      "word": "梁王组合扳平",
+      "onboard_time": 1722785014,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -1225,6 +1233,14 @@
       "onboard_time": 1722770184,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 726839,
+      "num": 726839,
+      "word": "樊振东放了一首霉霉的歌",
+      "onboard_time": 1722785437,
+      "rank": 33,
+      "category": "体育,音乐"
     },
     {
       "raw_hot": 720401,
@@ -1571,6 +1587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 460312,
+      "num": 2747628,
+      "word": "伊能静女儿追星成功宋雨琦",
+      "onboard_time": 1722783934,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 456122,
       "num": 5729081,
       "word": "索马里一酒店遭袭已致37死247伤",
@@ -1651,12 +1675,28 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 414981,
+      "num": 414981,
+      "word": "王皓振臂怒吼",
+      "onboard_time": 1722782917,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 414224,
       "num": 650192,
       "word": "于适 最佳新人",
       "onboard_time": 1722774926,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 408957,
+      "num": 408957,
+      "word": "王皓微博",
+      "onboard_time": 1722785131,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 408286,
@@ -1819,6 +1859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 373522,
+      "num": 2137549,
+      "word": "张杰 泪如雨下",
+      "onboard_time": 1722783996,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 372380,
       "num": 838254,
       "word": "曾黎转型作家",
@@ -1851,12 +1899,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 363055,
-      "num": 1011140,
-      "word": "张杰 泪如雨下",
-      "onboard_time": 1722783996,
-      "rank": 29,
-      "category": "演出"
+      "raw_hot": 363457,
+      "num": 807887,
+      "word": "阿黛尔暂停演唱会观看女子百米决赛",
+      "onboard_time": 1722784952,
+      "rank": 28,
+      "category": "演出,体育"
     },
     {
       "raw_hot": 359424,
@@ -1939,20 +1987,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 338122,
+      "num": 780078,
+      "word": "大半个娱乐圈都去了张杰演唱会",
+      "onboard_time": 1722782678,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 337927,
       "num": 381075,
       "word": "章若楠男粉",
       "onboard_time": 1722706041,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 336843,
-      "num": 577169,
-      "word": "伊能静女儿追星成功宋雨琦",
-      "onboard_time": 1722783934,
-      "rank": 38,
-      "category": "演出"
     },
     {
       "raw_hot": 335776,
@@ -2187,14 +2235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 283742,
-      "num": 283742,
-      "word": "大半个娱乐圈都去了张杰演唱会",
-      "onboard_time": 1722782678,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
       "raw_hot": 280675,
       "num": 238356,
       "word": "郭焱称赞孙颖莎格局大",
@@ -2363,6 +2403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 250025,
+      "num": 3527787,
+      "word": "樊振东天选安踏代言人",
+      "onboard_time": 1722782197,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 249505,
       "num": 139357,
       "word": "余依婷200米混合泳第四",
@@ -2425,6 +2473,14 @@
       "onboard_time": 1722775652,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 236108,
+      "num": 357090,
+      "word": "Alan开团未央",
+      "onboard_time": 1722785251,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 229184,
@@ -2657,14 +2713,6 @@
       "onboard_time": 1722755063,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190378,
-      "num": 3527787,
-      "word": "樊振东天选安踏代言人",
-      "onboard_time": 1722782197,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 190223,
@@ -3324,7 +3372,7 @@
     },
     {
       "raw_hot": 38573,
-      "num": 1782161,
+      "num": 1994952,
       "word": "安踏太神了",
       "onboard_time": 1722782197,
       "rank": 20,
