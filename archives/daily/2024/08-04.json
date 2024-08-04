@@ -1,7 +1,23 @@
 {
   "startTime": 1722702313981,
-  "endTime": 1722777675842,
+  "endTime": 1722778457912,
   "band_list": [
+    {
+      "raw_hot": 35169209,
+      "num": 35169209,
+      "word": "樊振东vs莫雷加德",
+      "onboard_time": 1722772886,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 32002243,
+      "num": 33252243,
+      "word": "樊振东男单金牌",
+      "onboard_time": 1722777711,
+      "rank": 1,
+      "category": "体育"
+    },
     {
       "raw_hot": 30093650,
       "num": 30093650,
@@ -11,11 +27,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 26140486,
-      "num": 26140486,
-      "word": "樊振东vs莫雷加德",
-      "onboard_time": 1722772886,
-      "rank": 0,
+      "raw_hot": 23355572,
+      "num": 24605572,
+      "word": "樊振东大满贯",
+      "onboard_time": 1722777842,
+      "rank": 2,
       "category": "体育"
     },
     {
@@ -43,11 +59,27 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 10564029,
+      "num": 5679922,
+      "word": "王楚钦出局 不算爆冷",
+      "onboard_time": 1722776791,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 10083700,
       "num": 10083700,
       "word": "陈梦卫冕冠军",
       "onboard_time": 1722694581,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 9545976,
+      "num": 9545976,
+      "word": "樊振东反超比分",
+      "onboard_time": 1722776674,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -75,6 +107,38 @@
       "category": "体育"
     },
     {
+      "raw_hot": 6914341,
+      "num": 6914341,
+      "word": "从莫雷加德身上下来",
+      "onboard_time": 1722776430,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 6268183,
+      "num": 6268183,
+      "word": "小莫有点实力",
+      "onboard_time": 1722776556,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 5913411,
+      "num": 5913411,
+      "word": "樊振东赛点局",
+      "onboard_time": 1722777338,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 5338444,
+      "num": 5338444,
+      "word": "我需要速效救心丸",
+      "onboard_time": 1722776490,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 5202577,
       "num": 1174187,
       "word": "孙颖莎采访呢",
@@ -84,7 +148,7 @@
     },
     {
       "raw_hot": 4939904,
-      "num": 4939904,
+      "num": 5855084,
       "word": "赵丽颖百花奖最佳女配角",
       "onboard_time": 1722774269,
       "rank": 3,
@@ -112,14 +176,6 @@
       "word": "伊利道歉",
       "onboard_time": 1722763104,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 4658190,
-      "num": 4658190,
-      "word": "樊振东赛点局",
-      "onboard_time": 1722777338,
-      "rank": 1,
       "category": "体育"
     },
     {
@@ -187,27 +243,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 3725413,
-      "num": 3725413,
-      "word": "从莫雷加德身上下来",
-      "onboard_time": 1722776430,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 3358883,
       "num": 3358883,
       "word": "陈梦最近3年只赢过两次孙颖莎",
       "onboard_time": 1722768445,
       "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 3234362,
-      "num": 3234362,
-      "word": "樊振东反超比分",
-      "onboard_time": 1722776674,
-      "rank": 4,
       "category": "体育"
     },
     {
@@ -227,14 +267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 3120721,
-      "num": 3120721,
-      "word": "小莫有点实力",
-      "onboard_time": 1722776556,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 3000834,
       "num": 3000834,
       "word": "马林 李雪芮",
@@ -251,14 +283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2847586,
-      "num": 1307043,
-      "word": "王楚钦出局 不算爆冷",
-      "onboard_time": 1722776791,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 2805403,
       "num": 2805403,
       "word": "郑钦文赛后采访",
@@ -272,6 +296,14 @@
       "word": "孙杨解释潘展乐没上接力决赛的原因",
       "onboard_time": 1722752244,
       "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2702276,
+      "num": 2702276,
+      "word": "莫雷加德赢下首局",
+      "onboard_time": 1722775473,
+      "rank": 6,
       "category": "体育"
     },
     {
@@ -296,6 +328,14 @@
       "word": "陈梦东京夺冠后一度低迷",
       "onboard_time": 1722740965,
       "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2487355,
+      "num": 2487355,
+      "word": "王皓跳起来了",
+      "onboard_time": 1722776971,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -371,22 +411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2115084,
-      "num": 1402206,
-      "word": "莫雷加德赢下首局",
-      "onboard_time": 1722775473,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2087568,
-      "num": 907155,
-      "word": "我需要速效救心丸",
-      "onboard_time": 1722776490,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 2053883,
       "num": 2053883,
       "word": "网球女单决赛裁判也是个狠人",
@@ -417,6 +441,30 @@
       "onboard_time": 1722702219,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1995648,
+      "num": 1995648,
+      "word": "瑞典国王来了吗",
+      "onboard_time": 1722776311,
+      "rank": 21,
+      "category": "体育,国外时政"
+    },
+    {
+      "raw_hot": 1964052,
+      "num": 5782058,
+      "word": "马丽百花奖最佳女主角",
+      "onboard_time": 1722776971,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1899824,
+      "num": 5623728,
+      "word": "百花奖获奖名单",
+      "onboard_time": 1722773247,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 1880139,
@@ -475,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1724715,
+      "num": 4031956,
+      "word": "人民网评最好的应援是喝彩而不是拉踩",
+      "onboard_time": 1722759023,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1703349,
       "num": 1703349,
       "word": "王皓和樊振东进行多球训练",
@@ -491,20 +547,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1630176,
+      "num": 1630176,
+      "word": "许昕直播",
+      "onboard_time": 1722713894,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1619566,
       "num": 1619566,
       "word": "陈梦翡翠项链寓意巴黎圆满",
       "onboard_time": 1722750623,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1561159,
-      "num": 1561159,
-      "word": "百花奖获奖名单",
-      "onboard_time": 1722773247,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 1545898,
@@ -540,7 +596,7 @@
     },
     {
       "raw_hot": 1481252,
-      "num": 913148,
+      "num": 5473811,
       "word": "百花奖颁奖礼内场",
       "onboard_time": 1722775171,
       "rank": 30,
@@ -611,8 +667,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1385911,
+      "num": 1385911,
+      "word": "樊振东今晚决赛加油",
+      "onboard_time": 1722732864,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1366396,
-      "num": 1366396,
+      "num": 5526471,
       "word": "朱一龙百花奖最佳男主角",
       "onboard_time": 1722775412,
       "rank": 14,
@@ -644,19 +708,19 @@
     },
     {
       "raw_hot": 1314296,
-      "num": 869936,
+      "num": 908327,
       "word": "樊振东vs莫雷加德直播",
       "onboard_time": 1722775896,
       "rank": 20,
       "category": "体育"
     },
     {
-      "raw_hot": 1304217,
-      "num": 1304217,
-      "word": "马丽百花奖最佳女主角",
-      "onboard_time": 1722776971,
-      "rank": 12,
-      "category": "电影"
+      "raw_hot": 1310601,
+      "num": 1310601,
+      "word": "莫雷加德六边形球拍",
+      "onboard_time": 1722776252,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 1292515,
@@ -716,7 +780,7 @@
     },
     {
       "raw_hot": 1184130,
-      "num": 953792,
+      "num": 1115127,
       "word": "安洗莹进奥运决赛",
       "onboard_time": 1722757583,
       "rank": 21,
@@ -804,7 +868,7 @@
     },
     {
       "raw_hot": 992106,
-      "num": 992106,
+      "num": 1326211,
       "word": "汪峰女友森林北晒日常生活vlog",
       "onboard_time": 1722773728,
       "rank": 13,
@@ -843,14 +907,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 929342,
-      "num": 884437,
-      "word": "莫雷加德六边形球拍",
-      "onboard_time": 1722776252,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 923409,
       "num": 923409,
       "word": "郭碧婷回应向佐65岁去流浪",
@@ -883,12 +939,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 868419,
-      "num": 868419,
-      "word": "瑞典国王来了吗",
-      "onboard_time": 1722776311,
-      "rank": 21,
-      "category": "体育,国外时政"
+      "raw_hot": 870269,
+      "num": 5360855,
+      "word": "高叶差2票",
+      "onboard_time": 1722776070,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 854420,
@@ -899,11 +955,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 833743,
-      "num": 882453,
-      "word": "高叶差2票",
-      "onboard_time": 1722776070,
-      "rank": 19,
+      "raw_hot": 842907,
+      "num": 1938137,
+      "word": "赵丽颖 85花主流奖",
+      "onboard_time": 1722775652,
+      "rank": 32,
       "category": "电影"
     },
     {
@@ -939,12 +995,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 783348,
-      "num": 783348,
-      "word": "赵丽颖 85花主流奖",
-      "onboard_time": 1722775652,
-      "rank": 32,
-      "category": "电影"
+      "raw_hot": 774371,
+      "num": 774371,
+      "word": "王楚钦马龙观战樊振东决赛",
+      "onboard_time": 1722776791,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 771151,
@@ -977,22 +1033,6 @@
       "onboard_time": 1722770184,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 746316,
-      "num": 4031956,
-      "word": "人民网评最好的应援是喝彩而不是拉踩",
-      "onboard_time": 1722759023,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 737130,
-      "num": 737130,
-      "word": "王皓跳起来了",
-      "onboard_time": 1722776971,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 720401,
@@ -1052,7 +1092,7 @@
     },
     {
       "raw_hot": 676191,
-      "num": 710955,
+      "num": 887954,
       "word": "关晓彤绿色燕尾高定",
       "onboard_time": 1722766585,
       "rank": 43,
@@ -1099,6 +1139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 621876,
+      "num": 879267,
+      "word": "德约科维奇vs阿尔卡拉斯",
+      "onboard_time": 1722762684,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 620664,
       "num": 620664,
       "word": "国羽包揽金银牌",
@@ -1107,16 +1155,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 618505,
-      "num": 618505,
-      "word": "樊振东今晚决赛加油",
-      "onboard_time": 1722732864,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 617186,
-      "num": 617186,
+      "num": 1175835,
       "word": "宁静身材",
       "onboard_time": 1722773546,
       "rank": 22,
@@ -1180,7 +1220,7 @@
     },
     {
       "raw_hot": 561945,
-      "num": 561945,
+      "num": 1119563,
       "word": "偶遇金世佳一家三口逛街",
       "onboard_time": 1722774088,
       "rank": 19,
@@ -1307,20 +1347,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 472375,
+      "num": 1129034,
+      "word": "章若楠被推",
+      "onboard_time": 1722775838,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 466699,
       "num": 328056,
       "word": "亚洲人首夺奥运会网球单打金牌",
       "onboard_time": 1722704248,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 465890,
-      "num": 465890,
-      "word": "章若楠被推",
-      "onboard_time": 1722775838,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 465624,
@@ -1331,12 +1371,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 458655,
-      "num": 458655,
-      "word": "王楚钦马龙观战樊振东决赛",
-      "onboard_time": 1722776791,
-      "rank": 37,
-      "category": "体育"
+      "raw_hot": 456122,
+      "num": 5729081,
+      "word": "索马里一酒店遭袭已致37死247伤",
+      "onboard_time": 1722773787,
+      "rank": 45,
+      "category": "国外时政"
     },
     {
       "raw_hot": 454426,
@@ -1387,14 +1427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 424019,
-      "num": 879267,
-      "word": "德约科维奇vs阿尔卡拉斯",
-      "onboard_time": 1722762684,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 423828,
       "num": 234463,
       "word": "郑钦文国内3任教练均执教过李娜",
@@ -1428,7 +1460,7 @@
     },
     {
       "raw_hot": 414224,
-      "num": 465683,
+      "num": 650192,
       "word": "于适 最佳新人",
       "onboard_time": 1722774926,
       "rank": 21,
@@ -1468,7 +1500,7 @@
     },
     {
       "raw_hot": 405130,
-      "num": 405130,
+      "num": 445190,
       "word": "张杰新中式马面裙",
       "onboard_time": 1722773607,
       "rank": 26,
@@ -1529,6 +1561,14 @@
       "onboard_time": 1722766944,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 387862,
+      "num": 890535,
+      "word": "杨恩又代朱一龙领奖",
+      "onboard_time": 1722777771,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 386549,
@@ -1600,14 +1640,6 @@
       "word": "郑钦文前教练",
       "onboard_time": 1722724155,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 362254,
-      "num": 362254,
-      "word": "许昕直播",
-      "onboard_time": 1722713894,
-      "rank": 15,
       "category": "体育"
     },
     {
@@ -1923,14 +1955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 282789,
-      "num": 1308096,
-      "word": "索马里一酒店遭袭已致37死247伤",
-      "onboard_time": 1722773787,
-      "rank": 45,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 280675,
       "num": 238356,
       "word": "郭焱称赞孙颖莎格局大",
@@ -2068,7 +2092,7 @@
     },
     {
       "raw_hot": 256079,
-      "num": 353173,
+      "num": 434902,
       "word": "男子睡醒后身下床变成6楼外平台",
       "onboard_time": 1722776190,
       "rank": 47,
@@ -2537,6 +2561,14 @@
       "onboard_time": 1722703709,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 172370,
+      "num": 430710,
+      "word": "陈丽君 浮生一白",
+      "onboard_time": 1722776012,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 170408,
