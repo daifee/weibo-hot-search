@@ -1,6 +1,6 @@
 {
   "startTime": 1722702313981,
-  "endTime": 1722749657599,
+  "endTime": 1722752785213,
   "band_list": [
     {
       "raw_hot": 30093650,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 4928482,
-      "num": 823908,
+      "num": 870486,
       "word": "黄晓明朋友圈",
       "onboard_time": 1722743964,
       "rank": 10,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 2309137,
-      "num": 588285,
+      "num": 776895,
       "word": "黄晓明 亚飞",
       "onboard_time": 1722744803,
       "rank": 18,
@@ -267,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1703349,
+      "num": 1703349,
+      "word": "王皓和樊振东进行多球训练",
+      "onboard_time": 1722748463,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1703024,
       "num": 1570606,
       "word": "郑钦文说对不起张之臻",
@@ -275,11 +283,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1566968,
+      "num": 1566968,
+      "word": "但你为什么让他赢呢",
+      "onboard_time": 1722747681,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1545898,
       "num": 1545898,
       "word": "陈梦 我和莎莎没有失败者",
       "onboard_time": 1722697594,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1530614,
+      "num": 1530614,
+      "word": "王昶 我想挑战女双",
+      "onboard_time": 1722747923,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -411,19 +435,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 937879,
+      "num": 937879,
+      "word": "任嘉伦陈梦曾是队友",
+      "onboard_time": 1722750443,
+      "rank": 6,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 937334,
       "num": 768466,
       "word": "谷爱凌删了给马尔尚的所有ins评论",
       "onboard_time": 1722683184,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 937005,
-      "num": 937005,
-      "word": "王昶 我想挑战女双",
-      "onboard_time": 1722747923,
-      "rank": 27,
       "category": "体育"
     },
     {
@@ -440,6 +464,14 @@
       "word": "郑钦文ace",
       "onboard_time": 1722698610,
       "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 870471,
+      "num": 870471,
+      "word": "陈梦翡翠项链寓意巴黎圆满",
+      "onboard_time": 1722750623,
+      "rank": 11,
       "category": "体育"
     },
     {
@@ -579,11 +611,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 568046,
-      "num": 568046,
-      "word": "王皓和樊振东进行多球训练",
-      "onboard_time": 1722748463,
-      "rank": 39,
+      "raw_hot": 564779,
+      "num": 564779,
+      "word": "孙杨解释潘展乐没上接力决赛的原因",
+      "onboard_time": 1722752244,
+      "rank": 22,
       "category": "体育"
     },
     {
@@ -603,16 +635,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 552240,
-      "num": 552240,
-      "word": "但你为什么让他赢呢",
-      "onboard_time": 1722747681,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 549145,
-      "num": 610930,
+      "num": 796845,
       "word": "曹骏沉香长大这么野的吗",
       "onboard_time": 1722748044,
       "rank": 14,
@@ -624,6 +648,14 @@
       "word": "女单乒乓球颁奖",
       "onboard_time": 1722696940,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 525571,
+      "num": 525571,
+      "word": "孙颖莎说梦想还差一步会继续努力",
+      "onboard_time": 1722747744,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -715,6 +747,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 428046,
+      "num": 428046,
+      "word": "潘展乐关注了质疑自己的澳洲教练",
+      "onboard_time": 1722751223,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 427785,
       "num": 427785,
       "word": "梁王组合决赛",
@@ -737,14 +777,6 @@
       "onboard_time": 1722729022,
       "rank": 39,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 419006,
-      "num": 419006,
-      "word": "孙颖莎说梦想还差一步会继续努力",
-      "onboard_time": 1722747744,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 415945,
@@ -811,6 +843,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 386294,
+      "num": 906774,
+      "word": "李闽轩删除艺考事件道歉视频",
+      "onboard_time": 1722751823,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 380781,
+      "num": 847533,
+      "word": "李钟硕两年半没拍戏",
+      "onboard_time": 1722749723,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 379286,
       "num": 233081,
       "word": "孙颖莎希望团体赛争夺冠军",
@@ -843,6 +891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 357406,
+      "num": 742135,
+      "word": "她多无助才用叛逆保护自己",
+      "onboard_time": 1722751163,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 351173,
       "num": 808046,
       "word": "苏醒恭喜陈梦夺冠",
@@ -857,6 +913,14 @@
       "onboard_time": 1722737423,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 341908,
+      "num": 341908,
+      "word": "潘展乐的解压方式是放羊",
+      "onboard_time": 1722750022,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 338302,
@@ -987,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 293723,
+      "num": 239608,
+      "word": "韩乔生说情感上希望孙颖莎夺冠",
+      "onboard_time": 1722752483,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 293604,
       "num": 293604,
       "word": "马尔尚就无视汪顺教练握手道歉",
@@ -1027,7 +1099,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 283809,
+      "raw_hot": 284127,
       "num": 603402,
       "word": "张韶涵热成了水光肌芭比",
       "onboard_time": 1722739343,
@@ -1099,6 +1171,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 258760,
+      "num": 927056,
+      "word": "叶诗文发文告别巴黎奥运会",
+      "onboard_time": 1722751404,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 256416,
+      "num": 420860,
+      "word": "偶遇张柏芝带小儿子外出",
+      "onboard_time": 1722750443,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253255,
       "num": 253255,
       "word": "收视率破10",
@@ -1123,6 +1211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 239887,
+      "num": 593779,
+      "word": "美防长突然撕毁协议",
+      "onboard_time": 1722747982,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 237178,
       "num": 586581,
       "word": "徐锦江儿子录综艺落水受伤",
@@ -1137,6 +1233,14 @@
       "onboard_time": 1722741263,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 233796,
+      "num": 233796,
+      "word": "教练我们还需要跳吗",
+      "onboard_time": 1722752244,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 229184,
@@ -1155,12 +1259,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223916,
+      "num": 223916,
+      "word": "陈思诚 猫和老鼠",
+      "onboard_time": 1722751643,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 219842,
       "num": 219842,
       "word": "孙杨回应潘展乐说比孙杨快就够了",
       "onboard_time": 1722685165,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219399,
+      "num": 219399,
+      "word": "阿Sa不知道黄子韬官宣",
+      "onboard_time": 1722752422,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 219124,
@@ -1177,6 +1297,14 @@
       "onboard_time": 1722700887,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210874,
+      "num": 832520,
+      "word": "郑钦文去年收入720万美元",
+      "onboard_time": 1722751404,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 208778,
@@ -1227,20 +1355,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 204612,
-      "num": 593779,
-      "word": "美防长突然撕毁协议",
-      "onboard_time": 1722747982,
-      "rank": 48,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 202817,
       "num": 125825,
       "word": "中国队创男女混接亚洲纪录",
       "onboard_time": 1722716471,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199145,
+      "num": 409158,
+      "word": "一家餐厅只卖一道菜开了100多年",
+      "onboard_time": 1722749122,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 198960,
@@ -1345,14 +1473,6 @@
       "onboard_time": 1722703709,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 172110,
-      "num": 409158,
-      "word": "一家餐厅只卖一道菜开了100多年",
-      "onboard_time": 1722749122,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 170408,
@@ -1483,6 +1603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 131546,
+      "num": 571643,
+      "word": "荷兰队生吃美国队",
+      "onboard_time": 1722751404,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129105,
       "num": 510247,
       "word": "云间 海棠",
@@ -1547,6 +1675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93868,
+      "num": 632960,
+      "word": "最适合抓娃娃的保姆在小夫妻里",
+      "onboard_time": 1722747862,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93830,
       "num": 93830,
       "word": "张雨霏第8枚奥运奖牌",
@@ -1603,6 +1739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70234,
+      "num": 220528,
+      "word": "柳舟记晋江要素齐全",
+      "onboard_time": 1722749662,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 67058,
       "num": 181175,
       "word": "时代少年团梦",
@@ -1651,6 +1795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58079,
+      "num": 239830,
+      "word": "电影从21世纪安全撤离",
+      "onboard_time": 1722752662,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 44467,
       "num": 1796696,
       "word": "沉浸式来一场古代运河市镇的citywalk",
@@ -1673,6 +1825,14 @@
       "onboard_time": 1722749484,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 31290,
+      "num": 903673,
+      "word": "近六成受访者建议严厉打击宰客行为",
+      "onboard_time": 1722751223,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19849,
