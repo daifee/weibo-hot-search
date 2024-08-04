@@ -1,6 +1,6 @@
 {
   "startTime": 1722702313981,
-  "endTime": 1722755885031,
+  "endTime": 1722756876121,
   "band_list": [
     {
       "raw_hot": 30093650,
@@ -283,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1747343,
+      "num": 1747343,
+      "word": "郑钦文去年收入720万美元",
+      "onboard_time": 1722751404,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1703349,
       "num": 1703349,
       "word": "王皓和樊振东进行多球训练",
@@ -304,14 +312,6 @@
       "word": "陈梦翡翠项链寓意巴黎圆满",
       "onboard_time": 1722750623,
       "rank": 11,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1604188,
-      "num": 1604188,
-      "word": "郑钦文去年收入720万美元",
-      "onboard_time": 1722751404,
-      "rank": 13,
       "category": "体育"
     },
     {
@@ -427,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1156869,
+      "num": 361084,
+      "word": "女子每天1小时动感单车致横纹肌溶解",
+      "onboard_time": 1722752181,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1110992,
       "num": 785469,
       "word": "陈梦成女单奥运夺金年龄最大选手",
@@ -444,7 +452,7 @@
     },
     {
       "raw_hot": 1021599,
-      "num": 625424,
+      "num": 968658,
       "word": "潘展乐关注了质疑自己的澳洲教练",
       "onboard_time": 1722751223,
       "rank": 28,
@@ -481,14 +489,6 @@
       "onboard_time": 1722683184,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 936636,
-      "num": 361084,
-      "word": "女子每天1小时动感单车致横纹肌溶解",
-      "onboard_time": 1722752181,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 919019,
@@ -537,6 +537,14 @@
       "onboard_time": 1722730643,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 798332,
+      "num": 352673,
+      "word": "男子摸女子臀部被狂追千米擒住",
+      "onboard_time": 1722754222,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 766635,
@@ -611,19 +619,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 650787,
+      "num": 636306,
+      "word": "梁王组合决赛",
+      "onboard_time": 1722735923,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 638253,
       "num": 528026,
       "word": "教练我们还需要跳吗",
       "onboard_time": 1722752244,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 621659,
-      "num": 636306,
-      "word": "梁王组合决赛",
-      "onboard_time": 1722735923,
-      "rank": 46,
       "category": "体育"
     },
     {
@@ -673,14 +681,6 @@
       "onboard_time": 1722748763,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 569075,
-      "num": 352673,
-      "word": "男子摸女子臀部被狂追千米擒住",
-      "onboard_time": 1722754222,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 564249,
@@ -795,6 +795,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 480749,
+      "num": 294539,
+      "word": "陈梦这局比赛成为了我的人生教案",
+      "onboard_time": 1722755662,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 466699,
       "num": 328056,
       "word": "亚洲人首夺奥运会网球单打金牌",
@@ -859,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 404710,
+      "num": 404710,
+      "word": "杭州下雨",
+      "onboard_time": 1722753923,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 403215,
       "num": 403215,
       "word": "陈梦夺冠青岛市委市政府发贺电",
@@ -889,14 +905,6 @@
       "onboard_time": 1722722833,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 382793,
-      "num": 382793,
-      "word": "杭州下雨",
-      "onboard_time": 1722753923,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 380781,
@@ -952,6 +960,14 @@
       "word": "孙丞潇切了100人份的冬瓜",
       "onboard_time": 1722737423,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 342349,
+      "num": 417286,
+      "word": "阿Sa不知道黄子韬官宣",
+      "onboard_time": 1722752422,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -1027,14 +1043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 318816,
-      "num": 417286,
-      "word": "阿Sa不知道黄子韬官宣",
-      "onboard_time": 1722752422,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 318749,
       "num": 231111,
       "word": "郑钦文每年欧洲训练费要300万",
@@ -1081,6 +1089,14 @@
       "onboard_time": 1722727760,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 304621,
+      "num": 350946,
+      "word": "陈思诚 猫和老鼠",
+      "onboard_time": 1722751643,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 302218,
@@ -1203,6 +1219,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 275514,
+      "num": 275514,
+      "word": "梁王组合迎来决战",
+      "onboard_time": 1722754103,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 266855,
       "num": 771325,
       "word": "中国第15金",
@@ -1216,6 +1240,14 @@
       "word": "我的眼睛就是尺",
       "onboard_time": 1722745643,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 262172,
+      "num": 262172,
+      "word": "马凡舒给张雨霏潘展乐汪顺送祝福",
+      "onboard_time": 1722756683,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -1243,14 +1275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 256981,
-      "num": 256981,
-      "word": "梁王组合迎来决战",
-      "onboard_time": 1722754103,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 256416,
       "num": 420860,
       "word": "偶遇张柏芝带小儿子外出",
@@ -1259,12 +1283,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 255576,
-      "num": 255576,
-      "word": "陈梦这局比赛成为了我的人生教案",
-      "onboard_time": 1722755662,
-      "rank": 43,
-      "category": "体育"
+      "raw_hot": 254366,
+      "num": 310615,
+      "word": "黄子韬被路人贴脸开大",
+      "onboard_time": 1722755722,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 253255,
@@ -1323,27 +1347,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 226464,
-      "num": 310615,
-      "word": "黄子韬被路人贴脸开大",
-      "onboard_time": 1722755722,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 225157,
-      "num": 350946,
-      "word": "陈思诚 猫和老鼠",
-      "onboard_time": 1722751643,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 224968,
       "num": 224968,
       "word": "成为郑钦文采访粉",
       "onboard_time": 1722745643,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 224036,
+      "num": 224036,
+      "word": "岂容饭圈暴力搅浑乒坛",
+      "onboard_time": 1722756683,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -1369,6 +1385,14 @@
       "onboard_time": 1722700887,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212215,
+      "num": 212215,
+      "word": "300余个账号拉踩引战恶意攻击被禁言",
+      "onboard_time": 1722756622,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 208778,
@@ -1411,11 +1435,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205620,
+      "num": 205620,
+      "word": "郑钦文多年没喝过一次饮料",
+      "onboard_time": 1722754822,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204674,
       "num": 161648,
       "word": "孙颖莎祝贺陈梦",
       "onboard_time": 1722709096,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 203680,
+      "num": 203680,
+      "word": "意大利女排vs土耳其女排",
+      "onboard_time": 1722756443,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -1472,6 +1512,14 @@
       "word": "4位姑娘高喊中国女双第1",
       "onboard_time": 1722708917,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 188282,
+      "num": 718949,
+      "word": "郑钦文教科书般的夺冠发言",
+      "onboard_time": 1722755183,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -1603,6 +1651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 160493,
+      "num": 710715,
+      "word": "儿慈会回应河南负责人要求患儿母亲陪睡",
+      "onboard_time": 1722754822,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157321,
       "num": 473044,
       "word": "张艺兴出发百花奖",
@@ -1649,6 +1705,14 @@
       "onboard_time": 1722738623,
       "rank": 8,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 144826,
+      "num": 370937,
+      "word": "郑钦文 有点得意",
+      "onboard_time": 1722755183,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 141420,
@@ -1763,14 +1827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99238,
-      "num": 710715,
-      "word": "儿慈会回应河南负责人要求患儿母亲陪睡",
-      "onboard_time": 1722754822,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 96800,
       "num": 96800,
       "word": "潘展乐20岁了",
@@ -1809,6 +1865,14 @@
       "onboard_time": 1722748164,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85906,
+      "num": 381933,
+      "word": "孙杨期待覃海洋决赛保持好状态",
+      "onboard_time": 1722755183,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 79512,
@@ -1899,30 +1963,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 56928,
-      "num": 370937,
-      "word": "郑钦文 有点得意",
-      "onboard_time": 1722755183,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 53504,
-      "num": 718949,
-      "word": "郑钦文教科书般的夺冠发言",
-      "onboard_time": 1722755183,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 51750,
-      "num": 381933,
-      "word": "孙杨期待覃海洋决赛保持好状态",
-      "onboard_time": 1722755183,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 44467,
       "num": 1796696,
       "word": "沉浸式来一场古代运河市镇的citywalk",
@@ -1937,6 +1977,14 @@
       "onboard_time": 1722744384,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40156,
+      "num": 292438,
+      "word": "特朗普称哈里斯是最糟糕副总统",
+      "onboard_time": 1722756382,
+      "rank": 26,
+      "category": "国外时政"
     },
     {
       "raw_hot": 36987,
