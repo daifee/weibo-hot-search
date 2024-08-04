@@ -1,0 +1,410 @@
+{
+  "runTime": 1722795894378,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7301115,
+        "num": 7301115,
+        "word": "中国队男子4×100混接金牌",
+        "onboard_time": 1722792145,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5334552,
+        "num": 5334552,
+        "word": "潘展乐惊天逆转",
+        "onboard_time": 1722792563,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27354,
+        "num": 3085701,
+        "word": "这10个奥运表情令人动容",
+        "onboard_time": 1722781652,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2009045,
+        "num": 2009045,
+        "word": "中国队女子4×100米混接铜牌",
+        "onboard_time": 1722793582,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1961685,
+        "num": 1961685,
+        "word": "潘展乐真的神了",
+        "onboard_time": 1722793642,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1904784,
+        "num": 1904784,
+        "word": "孙杨世界纪录被打破",
+        "onboard_time": 1722791184,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254728,
+        "num": 1868319,
+        "word": "阿黛尔暂停演唱会观看女子百米决赛",
+        "onboard_time": 1722784952,
+        "rank": 6,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 123949,
+        "num": 1622561,
+        "word": "五冠教练Gemini",
+        "onboard_time": 1722789502,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122945,
+        "num": 1460781,
+        "word": "宁静身材",
+        "onboard_time": 1722773546,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107463,
+        "num": 1370547,
+        "word": "赵丽颖百花奖最佳女配角",
+        "onboard_time": 1722774269,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1200473,
+        "num": 1200473,
+        "word": "祝潘展乐生日快乐",
+        "onboard_time": 1722792205,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1080341,
+        "num": 1080341,
+        "word": "张继科",
+        "onboard_time": 1722782135,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157896,
+        "num": 935335,
+        "word": "王俊凯3票易烊千玺2票",
+        "onboard_time": 1722781306,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114057,
+        "num": 879215,
+        "word": "李闽轩的微博简介",
+        "onboard_time": 1722794838,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 103049,
+        "num": 851164,
+        "word": "高叶差2票",
+        "onboard_time": 1722776070,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 834514,
+        "num": 834514,
+        "word": "张雨霏50自铜牌",
+        "onboard_time": 1722789622,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 810983,
+        "num": 810983,
+        "word": "王昶梁伟铿银牌",
+        "onboard_time": 1722786481,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 777731,
+        "num": 777731,
+        "word": "潘展乐采访",
+        "onboard_time": 1722794119,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102955,
+        "num": 765801,
+        "word": "大半个娱乐圈都去了张杰演唱会",
+        "onboard_time": 1722782678,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 87098,
+        "num": 760957,
+        "word": "百花奖颁奖礼内场",
+        "onboard_time": 1722775171,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19330,
+        "num": 757746,
+        "word": "索马里一酒店遭袭已致37死247伤",
+        "onboard_time": 1722773787,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 757591,
+        "num": 757591,
+        "word": "樊振东男单金牌",
+        "onboard_time": 1722777711,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 680581,
+        "num": 680581,
+        "word": "樊振东大满贯",
+        "onboard_time": 1722777842,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 661187,
+        "num": 661187,
+        "word": "樊振东vs莫雷加德",
+        "onboard_time": 1722772886,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 625011,
+        "num": 625011,
+        "word": "中国女排三连胜",
+        "onboard_time": 1722791243,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6906,
+        "num": 602198,
+        "word": "熊猫幼崽逃跑被妈妈一路拖回家",
+        "onboard_time": 1722780101,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 586919,
+        "num": 586919,
+        "word": "游泳收官之夜",
+        "onboard_time": 1722789742,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 485281,
+        "num": 485281,
+        "word": "徐嘉余赢了墨霏",
+        "onboard_time": 1722795076,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71604,
+        "num": 468938,
+        "word": "杨恩又代朱一龙领奖",
+        "onboard_time": 1722777771,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 69668,
+        "num": 465164,
+        "word": "赵丽颖 85花主流奖",
+        "onboard_time": 1722775652,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 463772,
+        "num": 463772,
+        "word": "樊振东回复皇马",
+        "onboard_time": 1722790821,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 413096,
+        "num": 413096,
+        "word": "德约科维奇哭到手指发抖",
+        "onboard_time": 1722792082,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 408676,
+        "num": 408676,
+        "word": "羽毛球男双颁奖",
+        "onboard_time": 1722787410,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88335,
+        "num": 407512,
+        "word": "一诺电竞世界杯FMVP",
+        "onboard_time": 1722789202,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 84234,
+        "num": 407081,
+        "word": "Alan开团未央",
+        "onboard_time": 1722785251,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 406853,
+        "num": 406853,
+        "word": "覃海洋蛙王回归",
+        "onboard_time": 1722795617,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 401218,
+        "num": 401218,
+        "word": "张雨霏所有单项都有奖牌",
+        "onboard_time": 1722794718,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 395749,
+        "num": 395749,
+        "word": "张继科直播",
+        "onboard_time": 1722788904,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 387408,
+        "num": 387408,
+        "word": "羽毛球男双",
+        "onboard_time": 1722779925,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 383785,
+        "num": 383785,
+        "word": "王昶发球",
+        "onboard_time": 1722786648,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 380425,
+        "num": 380425,
+        "word": "中国打破美国队超过40年金牌垄断",
+        "onboard_time": 1722795437,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 363248,
+        "num": 363248,
+        "word": "女排裁判",
+        "onboard_time": 1722791184,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356086,
+        "num": 356086,
+        "word": "樊振东领奖",
+        "onboard_time": 1722780217,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352884,
+        "num": 352884,
+        "word": "羽毛球裁判",
+        "onboard_time": 1722787296,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 348934,
+        "num": 352420,
+        "word": "张雨霏获9枚奥运奖牌",
+        "onboard_time": 1722791184,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352341,
+        "num": 352341,
+        "word": "中国女排小组第1晋级",
+        "onboard_time": 1722791779,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352018,
+        "num": 352018,
+        "word": "樊振东放了一首霉霉的歌",
+        "onboard_time": 1722785437,
+        "rank": 46,
+        "category": "体育,音乐"
+      },
+      {
+        "raw_hot": 81024,
+        "num": 319013,
+        "word": "伊能静女儿追星成功宋雨琦",
+        "onboard_time": 1722783934,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 61353,
+        "num": 318937,
+        "word": "贾玲 意难平",
+        "onboard_time": 1722778861,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 59301,
+        "num": 318935,
+        "word": "百花奖获奖名单",
+        "onboard_time": 1722773247,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#加大保障力度切实改善民生#"
+    }
+  }
+}
