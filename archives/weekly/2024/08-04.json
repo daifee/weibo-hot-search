@@ -1,6 +1,6 @@
 {
   "startTime": 1722702313981,
-  "endTime": 1722788553409,
+  "endTime": 1722789457968,
   "band_list": [
     {
       "raw_hot": 35169209,
@@ -163,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 6438691,
+      "num": 4527358,
+      "word": "张继科",
+      "onboard_time": 1722782135,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 6268183,
       "num": 6268183,
       "word": "小莫有点实力",
@@ -176,14 +184,6 @@
       "word": "樊振东赛点局",
       "onboard_time": 1722777338,
       "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 5393637,
-      "num": 4527358,
-      "word": "张继科",
-      "onboard_time": 1722782135,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -352,6 +352,14 @@
       "word": "女子高低杠",
       "onboard_time": 1722780162,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3207150,
+      "num": 3207150,
+      "word": "羽毛球男双颁奖",
+      "onboard_time": 1722787410,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -584,14 +592,6 @@
       "word": "李洋王齐麟",
       "onboard_time": 1722786432,
       "rank": 22,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2090787,
-      "num": 2090787,
-      "word": "羽毛球男双颁奖",
-      "onboard_time": 1722787410,
-      "rank": 23,
       "category": "体育"
     },
     {
@@ -1067,6 +1067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1107702,
+      "num": 1107702,
+      "word": "中国女排扳平塞尔维亚",
+      "onboard_time": 1722787888,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1076369,
       "num": 1076369,
       "word": "今年上半年结婚登记数再创新低",
@@ -1088,6 +1096,14 @@
       "word": "哪些品牌押中了郑钦文",
       "onboard_time": 1722726437,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1024225,
+      "num": 1024225,
+      "word": "中国女排反超",
+      "onboard_time": 1722788904,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -1291,14 +1307,6 @@
       "category": "演出,体育"
     },
     {
-      "raw_hot": 745060,
-      "num": 745060,
-      "word": "中国女排扳平塞尔维亚",
-      "onboard_time": 1722787888,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 720401,
       "num": 720401,
       "word": "网球女单决赛",
@@ -1371,6 +1379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 669435,
+      "num": 669435,
+      "word": "还得是朱婷",
+      "onboard_time": 1722788845,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 667713,
       "num": 667713,
       "word": "樊振东都瘦了",
@@ -1379,11 +1395,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 666417,
+      "num": 666417,
+      "word": "许昕祝贺樊振东获男单金牌",
+      "onboard_time": 1722787351,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 661099,
       "num": 1540975,
       "word": "刘圣书谭宁羽毛球女双银牌",
       "onboard_time": 1722699568,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 655851,
+      "num": 655851,
+      "word": "王皓微博",
+      "onboard_time": 1722785131,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -1403,11 +1435,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 639249,
+      "num": 639249,
+      "word": "樊振东领奖央视解说词",
+      "onboard_time": 1722788425,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 638253,
       "num": 528026,
       "word": "教练我们还需要跳吗",
       "onboard_time": 1722752244,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 624896,
+      "num": 624896,
+      "word": "林丹 起床考证",
+      "onboard_time": 1722789022,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -1420,7 +1468,7 @@
     },
     {
       "raw_hot": 617186,
-      "num": 1927675,
+      "num": 3136587,
       "word": "宁静身材",
       "onboard_time": 1722773546,
       "rank": 22,
@@ -1555,14 +1603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 496735,
-      "num": 496735,
-      "word": "樊振东领奖央视解说词",
-      "onboard_time": 1722788425,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 492200,
       "num": 922547,
       "word": "百花奖明星造型",
@@ -1675,14 +1715,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 451901,
-      "num": 451901,
-      "word": "王皓微博",
-      "onboard_time": 1722785131,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 450869,
       "num": 450869,
       "word": "陈梦体面",
@@ -1697,6 +1729,14 @@
       "onboard_time": 1722767183,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 435406,
+      "num": 435406,
+      "word": "张继科直播",
+      "onboard_time": 1722788904,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 427786,
@@ -1984,6 +2024,14 @@
       "word": "110米栏奥运纪录还是刘翔的",
       "onboard_time": 1722767966,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 357590,
+      "num": 4685798,
+      "word": "朱婷手腕",
+      "onboard_time": 1722788008,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -2627,6 +2675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 216116,
+      "num": 690802,
+      "word": "张艺兴7票",
+      "onboard_time": 1722786216,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 214609,
       "num": 224358,
       "word": "李雪健百花奖最佳男配角",
@@ -2683,14 +2739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 207383,
-      "num": 463568,
-      "word": "张艺兴7票",
-      "onboard_time": 1722786216,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 207287,
       "num": 148123,
       "word": "郑钦文放国旗的方式",
@@ -2705,6 +2753,14 @@
       "onboard_time": 1722686007,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206398,
+      "num": 346922,
+      "word": "一诺电竞世界杯FMVP",
+      "onboard_time": 1722789202,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 204674,
@@ -2961,6 +3017,14 @@
       "onboard_time": 1722707239,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165965,
+      "num": 300206,
+      "word": "梦之队EWC夺冠",
+      "onboard_time": 1722789383,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 165486,
@@ -3331,6 +3395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72931,
+      "num": 5891900,
+      "word": "这10个奥运表情令人动容",
+      "onboard_time": 1722781652,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70234,
       "num": 220528,
       "word": "柳舟记晋江要素齐全",
@@ -3427,14 +3499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 49675,
-      "num": 4685798,
-      "word": "朱婷手腕",
-      "onboard_time": 1722788008,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 44467,
       "num": 3180213,
       "word": "沉浸式来一场古代运河市镇的citywalk",
@@ -3448,14 +3512,6 @@
       "word": "郑钦文 对赢下比赛有强烈的饥渴感",
       "onboard_time": 1722744384,
       "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 39134,
-      "num": 5891900,
-      "word": "这10个奥运表情令人动容",
-      "onboard_time": 1722781652,
-      "rank": 7,
       "category": "体育"
     },
     {
