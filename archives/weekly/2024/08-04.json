@@ -1,6 +1,6 @@
 {
   "startTime": 1722702313981,
-  "endTime": 1722763297078,
+  "endTime": 1722764071117,
   "band_list": [
     {
       "raw_hot": 30093650,
@@ -267,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2247663,
+      "num": 605605,
+      "word": "许昕劝粉丝学习孙颖莎大格局",
+      "onboard_time": 1722761125,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2053883,
       "num": 2053883,
       "word": "网球女单决赛裁判也是个狠人",
@@ -363,14 +371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1587060,
-      "num": 605605,
-      "word": "许昕劝粉丝学习孙颖莎大格局",
-      "onboard_time": 1722761125,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1545898,
       "num": 1545898,
       "word": "陈梦 我和莎莎没有失败者",
@@ -427,6 +427,22 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 1413098,
+      "num": 1413098,
+      "word": "陈梦夺冠92岁的姥姥热泪盈眶",
+      "onboard_time": 1722759623,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1408714,
+      "num": 1408714,
+      "word": "伊利道歉",
+      "onboard_time": 1722763104,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1391589,
       "num": 1295019,
       "word": "四大满贯祝贺郑钦文夺冠",
@@ -456,14 +472,6 @@
       "word": "何冰娇晋级决赛",
       "onboard_time": 1722760225,
       "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1301786,
-      "num": 1301786,
-      "word": "陈梦夺冠92岁的姥姥热泪盈眶",
-      "onboard_time": 1722759623,
-      "rank": 39,
       "category": "体育"
     },
     {
@@ -603,6 +611,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 947900,
+      "num": 601837,
+      "word": "陈梦爸爸心疼女儿到哽咽",
+      "onboard_time": 1722761366,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 937334,
       "num": 768466,
       "word": "谷爱凌删了给马尔尚的所有ins评论",
@@ -673,14 +689,6 @@
       "onboard_time": 1722730643,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 768721,
-      "num": 601837,
-      "word": "陈梦爸爸心疼女儿到哽咽",
-      "onboard_time": 1722761366,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 766635,
@@ -891,14 +899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 512381,
-      "num": 393270,
-      "word": "伊利道歉",
-      "onboard_time": 1722763104,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 505002,
       "num": 505002,
       "word": "男女4x100混接中国队名单",
@@ -979,6 +979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 427507,
+      "num": 418734,
+      "word": "马林曾说李雪芮诈伤",
+      "onboard_time": 1722762865,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 423828,
       "num": 234463,
       "word": "郑钦文国内3任教练均执教过李娜",
@@ -1001,6 +1009,14 @@
       "onboard_time": 1722704369,
       "rank": 12,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 408881,
+      "num": 408881,
+      "word": "樊振东巴黎不管结果如何我还是我",
+      "onboard_time": 1722762264,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 408286,
@@ -1091,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 379088,
+      "num": 608011,
+      "word": "百花奖明星造型",
+      "onboard_time": 1722761185,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 372380,
       "num": 838254,
       "word": "曾黎转型作家",
@@ -1131,6 +1155,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 351044,
+      "num": 351044,
+      "word": "梁王组合迎来决战",
+      "onboard_time": 1722754103,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 350847,
       "num": 969978,
       "word": "儿慈会回应河南负责人要求患儿母亲陪睡",
@@ -1139,19 +1171,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 350797,
-      "num": 350797,
-      "word": "梁王组合迎来决战",
-      "onboard_time": 1722754103,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 348595,
-      "num": 348595,
-      "word": "樊振东巴黎不管结果如何我还是我",
-      "onboard_time": 1722762264,
-      "rank": 36,
+      "raw_hot": 345438,
+      "num": 345438,
+      "word": "郑钦文多年没喝过一次饮料",
+      "onboard_time": 1722754822,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -1195,14 +1219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 337652,
-      "num": 337652,
-      "word": "马林曾说李雪芮诈伤",
-      "onboard_time": 1722762865,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 333301,
       "num": 783419,
       "word": "费沁源排名",
@@ -1235,14 +1251,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 324910,
-      "num": 608011,
-      "word": "百花奖明星造型",
-      "onboard_time": 1722761185,
-      "rank": 12,
-      "category": "电影"
-    },
-    {
       "raw_hot": 321734,
       "num": 321734,
       "word": "Queenwen的时代来了",
@@ -1256,14 +1264,6 @@
       "word": "韩乔生说情感上希望孙颖莎夺冠",
       "onboard_time": 1722752483,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 319556,
-      "num": 319556,
-      "word": "郑钦文多年没喝过一次饮料",
-      "onboard_time": 1722754822,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -1483,11 +1483,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 264561,
+      "num": 418905,
+      "word": "众筹给王安宇买眼镜",
+      "onboard_time": 1722762145,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262172,
       "num": 262172,
       "word": "马凡舒给张雨霏潘展乐汪顺送祝福",
       "onboard_time": 1722756683,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 260262,
+      "num": 260262,
+      "word": "林孝埈谈观看巴黎奥运会比赛",
+      "onboard_time": 1722763943,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -1528,6 +1544,14 @@
       "word": "收视率破10",
       "onboard_time": 1722707119,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 252615,
+      "num": 252615,
+      "word": "郑钦文一口气带火四件同款",
+      "onboard_time": 1722764005,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -1585,6 +1609,14 @@
       "onboard_time": 1722745643,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 223645,
+      "num": 284081,
+      "word": "暑假的泰山已被e人占领",
+      "onboard_time": 1722763943,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 221410,
@@ -1691,14 +1723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205591,
-      "num": 408228,
-      "word": "众筹给王安宇买眼镜",
-      "onboard_time": 1722762145,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 204674,
       "num": 161648,
       "word": "孙颖莎祝贺陈梦",
@@ -1771,6 +1795,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193015,
+      "num": 250019,
+      "word": "估分满分 查分0分",
+      "onboard_time": 1722763943,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 190223,
+      "num": 284148,
+      "word": "TF三代直播造型征集",
+      "onboard_time": 1722763223,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 189428,
       "num": 182625,
       "word": "4位姑娘高喊中国女双第1",
@@ -1827,12 +1867,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 181584,
-      "num": 283403,
-      "word": "TF三代直播造型征集",
-      "onboard_time": 1722763223,
-      "rank": 44,
-      "category": "作品衍生"
+      "raw_hot": 184321,
+      "num": 246400,
+      "word": "刘耀文百花奖格子西装造型",
+      "onboard_time": 1722764005,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 181274,
@@ -1857,6 +1897,14 @@
       "onboard_time": 1722726379,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174691,
+      "num": 278839,
+      "word": "张杰紫色长袍",
+      "onboard_time": 1722762924,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 174334,
@@ -1987,14 +2035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142463,
-      "num": 278839,
-      "word": "张杰紫色长袍",
-      "onboard_time": 1722762924,
-      "rank": 48,
-      "category": "演出"
-    },
-    {
       "raw_hot": 141420,
       "num": 141420,
       "word": "郑钦文对爸爸说终于光宗耀祖了",
@@ -2067,20 +2107,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119533,
+      "num": 606486,
+      "word": "原来抓了一只招财猫",
+      "onboard_time": 1722762024,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112570,
       "num": 695456,
       "word": "女子借住友人家盗窃后发朋友圈显摆",
       "onboard_time": 1722684986,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112364,
-      "num": 606486,
-      "word": "原来抓了一只招财猫",
-      "onboard_time": 1722762024,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 109900,
@@ -2171,6 +2211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81128,
+      "num": 879267,
+      "word": "德约科维奇vs阿尔卡拉斯",
+      "onboard_time": 1722762684,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79512,
       "num": 368984,
       "word": "吴尊 3年前我就看好郑钦文",
@@ -2185,6 +2233,14 @@
       "onboard_time": 1722740422,
       "rank": 14,
       "category": "军事"
+    },
+    {
+      "raw_hot": 76840,
+      "num": 2067479,
+      "word": "中国健儿顽强拼搏实现一个个突破",
+      "onboard_time": 1722762024,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 73200,
@@ -2259,15 +2315,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 56892,
-      "num": 2067479,
-      "word": "中国健儿顽强拼搏实现一个个突破",
-      "onboard_time": 1722762024,
-      "rank": 2,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 44813,
+      "raw_hot": 56143,
       "num": 913563,
       "word": "尔滨从冬天火到了夏天",
       "onboard_time": 1722758242,
@@ -2296,14 +2344,6 @@
       "word": "中国00后已夺11金",
       "onboard_time": 1722753143,
       "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 35806,
-      "num": 879267,
-      "word": "德约科维奇vs阿尔卡拉斯",
-      "onboard_time": 1722762684,
-      "rank": 9,
       "category": "体育"
     },
     {
