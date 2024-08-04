@@ -1,0 +1,410 @@
+{
+  "runTime": 1722746386915,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1819793,
+        "num": 1819793,
+        "word": "陈梦卫冕冠军",
+        "onboard_time": 1722694581,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1067715,
+        "num": 1067715,
+        "word": "网球女单决赛裁判也是个狠人",
+        "onboard_time": 1722736583,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44467,
+        "num": 1039449,
+        "word": "沉浸式来一场古代运河市镇的citywalk",
+        "onboard_time": 1722742344,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2471024,
+        "num": 1035530,
+        "word": "陈梦东京夺冠后一度低迷",
+        "onboard_time": 1722740965,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1014640,
+        "num": 1014640,
+        "word": "马尔尚因不住奥运村错过药检",
+        "onboard_time": 1722744144,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 794137,
+        "num": 794137,
+        "word": "郑钦文一年有360天吃鸡胸肉西蓝花",
+        "onboard_time": 1722738862,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 609634,
+        "num": 609634,
+        "word": "郑钦文金牌",
+        "onboard_time": 1722702286,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 529614,
+        "num": 529614,
+        "word": "尤长靖在披哥瘦了36斤",
+        "onboard_time": 1722733225,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292937,
+        "num": 528526,
+        "word": "恩静长篇to签被打假",
+        "onboard_time": 1722744444,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 56116,
+        "num": 516026,
+        "word": "中考体测临近家长热衷买跑鞋提分",
+        "onboard_time": 1722745943,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4797426,
+        "num": 507109,
+        "word": "黄晓明朋友圈",
+        "onboard_time": 1722743964,
+        "rank": 10,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 1292515,
+        "num": 497905,
+        "word": "中国女双包揽冠亚之后当场吵架",
+        "onboard_time": 1722741023,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1045146,
+        "num": 494666,
+        "word": "邓亚萍曾谈国乒饭圈文化",
+        "onboard_time": 1722739464,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 486721,
+        "num": 486721,
+        "word": "霸王茶姬口令",
+        "onboard_time": 1722742224,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 407931,
+        "num": 407931,
+        "word": "律师谈货拉拉司机拒绝运尸体遭投诉",
+        "onboard_time": 1722741203,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271546,
+        "num": 407145,
+        "word": "董力迟到一个月的道歉",
+        "onboard_time": 1722735984,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181274,
+        "num": 406022,
+        "word": "张元英低音",
+        "onboard_time": 1722745703,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180787,
+        "num": 403779,
+        "word": "中文已经满足不了许嵩了",
+        "onboard_time": 1722742883,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 2309137,
+        "num": 402504,
+        "word": "黄晓明 亚飞",
+        "onboard_time": 1722744803,
+        "rank": 18,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 91472,
+        "num": 401911,
+        "word": "抓娃娃",
+        "onboard_time": 1722744323,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 4155528,
+        "num": 400161,
+        "word": "孙颖莎退场后第一时间摘下银牌",
+        "onboard_time": 1722740965,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 608068,
+        "num": 398585,
+        "word": "孙颖莎银牌",
+        "onboard_time": 1722694926,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 553724,
+        "num": 397754,
+        "word": "樊振东今晚决赛加油",
+        "onboard_time": 1722732864,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 732603,
+        "num": 395327,
+        "word": "黄晓明发红包祝贺表妹陈梦夺金",
+        "onboard_time": 1722710596,
+        "rank": 23,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 481659,
+        "num": 394264,
+        "word": "粗腿宽肩才是女生的基本盘和靠山",
+        "onboard_time": 1722744022,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 422424,
+        "num": 392880,
+        "word": "小胖冲击大满贯",
+        "onboard_time": 1722744744,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 416754,
+        "num": 391119,
+        "word": "郑钦文赛后采访",
+        "onboard_time": 1722705801,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196344,
+        "num": 390314,
+        "word": "张韶涵热成了水光肌芭比",
+        "onboard_time": 1722739343,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170255,
+        "num": 388857,
+        "word": "唐朝诡事录之西行收官",
+        "onboard_time": 1722741263,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167073,
+        "num": 386336,
+        "word": "孙丞潇切了100人份的冬瓜",
+        "onboard_time": 1722737423,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1247795,
+        "num": 385022,
+        "word": "孙颖莎 不知道能不能打到洛杉矶",
+        "onboard_time": 1722737423,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 384823,
+        "num": 384823,
+        "word": "中国网球首枚奥运女单金牌",
+        "onboard_time": 1722702939,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 380550,
+        "num": 380550,
+        "word": "陈梦夺冠青岛市委市政府发贺电",
+        "onboard_time": 1722743244,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 374688,
+        "num": 374688,
+        "word": "陈梦孙颖莎拥抱",
+        "onboard_time": 1722697057,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373801,
+        "num": 373801,
+        "word": "郑钦文 NIKE",
+        "onboard_time": 1722734004,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353299,
+        "num": 353299,
+        "word": "郑钦文咬金牌",
+        "onboard_time": 1722705203,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 346844,
+        "num": 346844,
+        "word": "郑钦文好牛",
+        "onboard_time": 1722698492,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 345449,
+        "num": 345449,
+        "word": "陈清晨说了四句一句都播不了",
+        "onboard_time": 1722741023,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 344237,
+        "num": 344237,
+        "word": "张雨霏辣评中国游泳队现状",
+        "onboard_time": 1722745164,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339784,
+        "num": 339784,
+        "word": "四大满贯祝贺郑钦文夺冠",
+        "onboard_time": 1722720973,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306546,
+        "num": 306546,
+        "word": "孙颖莎说老天让我再去积累沉淀",
+        "onboard_time": 1722738743,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301644,
+        "num": 301644,
+        "word": "樊振东乒乓球男单冲金",
+        "onboard_time": 1722732804,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299029,
+        "num": 299029,
+        "word": "光与夜之恋大漠归墟",
+        "onboard_time": 1722746184,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 297821,
+        "num": 297821,
+        "word": "中国队男女4×100米混接力银牌",
+        "onboard_time": 1722715994,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295756,
+        "num": 295756,
+        "word": "邯郸两医生过度用呼吸机致患者死亡",
+        "onboard_time": 1722742224,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264763,
+        "num": 264763,
+        "word": "我的眼睛就是尺",
+        "onboard_time": 1722745643,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263026,
+        "num": 263026,
+        "word": "郑钦文向爸爸妈妈炫耀金牌",
+        "onboard_time": 1722745523,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259583,
+        "num": 259583,
+        "word": "潘展乐是陈奕迅周杰伦双担",
+        "onboard_time": 1722729022,
+        "rank": 47,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 224968,
+        "num": 224968,
+        "word": "成为郑钦文采访粉",
+        "onboard_time": 1722745643,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209092,
+        "num": 209092,
+        "word": "恋与深空非遗绣球联动",
+        "onboard_time": 1722743964,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#要坚持和发展我国基本经济制度#"
+    }
+  }
+}
