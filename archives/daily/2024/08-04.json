@@ -1,6 +1,6 @@
 {
   "startTime": 1722702313981,
-  "endTime": 1722766777404,
+  "endTime": 1722767762672,
   "band_list": [
     {
       "raw_hot": 30093650,
@@ -179,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2885055,
+      "num": 2885055,
+      "word": "陈梦爸爸心疼女儿到哽咽",
+      "onboard_time": 1722761366,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2805403,
       "num": 2805403,
       "word": "郑钦文赛后采访",
@@ -232,14 +240,6 @@
       "word": "郑钦文接发神了",
       "onboard_time": 1722701066,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2378516,
-      "num": 2378516,
-      "word": "陈梦爸爸心疼女儿到哽咽",
-      "onboard_time": 1722761366,
-      "rank": 20,
       "category": "体育"
     },
     {
@@ -419,19 +419,19 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 1446783,
+      "num": 1446783,
+      "word": "樊振东巴黎不管结果如何我还是我",
+      "onboard_time": 1722762264,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1442833,
       "num": 161092,
       "word": "潘展乐无缘男女混接决赛",
       "onboard_time": 1722710056,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1441754,
-      "num": 1441754,
-      "word": "樊振东巴黎不管结果如何我还是我",
-      "onboard_time": 1722762264,
-      "rank": 36,
       "category": "体育"
     },
     {
@@ -723,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 721417,
+      "num": 721417,
+      "word": "110米栏徐卓一晋级半决赛",
+      "onboard_time": 1722766823,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 720401,
       "num": 720401,
       "word": "网球女单决赛",
@@ -731,11 +739,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 715456,
+      "num": 715456,
+      "word": "樊振东与莫雷加德交手3次3胜0负",
+      "onboard_time": 1722762623,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 707194,
       "num": 332380,
       "word": "接网球管理中心事业运",
       "onboard_time": 1722705023,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 696456,
+      "num": 555564,
+      "word": "郑钦文多年没喝过一次饮料",
+      "onboard_time": 1722754822,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -851,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 567409,
+      "num": 567409,
+      "word": "日本女篮vs比利时女篮",
+      "onboard_time": 1722765924,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 564249,
       "num": 564249,
       "word": "孙颖莎说有遗憾也能接受",
@@ -881,6 +913,22 @@
       "onboard_time": 1722696940,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 534239,
+      "num": 514434,
+      "word": "何冰娇在混采区哭了",
+      "onboard_time": 1722765983,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 531127,
+      "num": 531127,
+      "word": "估分满分 查分0分",
+      "onboard_time": 1722763943,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 525571,
@@ -921,14 +969,6 @@
       "onboard_time": 1722712694,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 495051,
-      "num": 495051,
-      "word": "估分满分 查分0分",
-      "onboard_time": 1722763943,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 492200,
@@ -995,14 +1035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 464275,
-      "num": 464275,
-      "word": "郑钦文多年没喝过一次饮料",
-      "onboard_time": 1722754822,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 454426,
       "num": 817760,
       "word": "海棠",
@@ -1019,12 +1051,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 448238,
-      "num": 448238,
-      "word": "樊振东与莫雷加德交手3次3胜0负",
-      "onboard_time": 1722762623,
-      "rank": 23,
-      "category": "体育"
+      "raw_hot": 446068,
+      "num": 719159,
+      "word": "黄晓明 好脾气",
+      "onboard_time": 1722767183,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 427507,
@@ -1099,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 403190,
+      "num": 403190,
+      "word": "四川男子办完离婚头也不回离开",
+      "onboard_time": 1722765085,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 402520,
       "num": 792870,
       "word": "豆瓣崩了",
@@ -1155,6 +1195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 371498,
+      "num": 371498,
+      "word": "郑钦文一口气带火四件同款",
+      "onboard_time": 1722764005,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 366951,
       "num": 1024275,
       "word": "上半年结婚登记数同比减少49.8万对",
@@ -1176,14 +1224,6 @@
       "word": "许昕直播",
       "onboard_time": 1722713894,
       "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 353590,
-      "num": 353590,
-      "word": "日本女篮vs比利时女篮",
-      "onboard_time": 1722765924,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -1251,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 334849,
+      "num": 717905,
+      "word": "百花奖红毯",
+      "onboard_time": 1722765324,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 333301,
       "num": 783419,
       "word": "费沁源排名",
@@ -1299,14 +1347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 319772,
-      "num": 319771,
-      "word": "何冰娇在混采区哭了",
-      "onboard_time": 1722765983,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 318749,
       "num": 231111,
       "word": "郑钦文每年欧洲训练费要300万",
@@ -1315,27 +1355,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 318681,
-      "num": 318681,
-      "word": "郑钦文一口气带火四件同款",
-      "onboard_time": 1722764005,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 316422,
       "num": 1110339,
       "word": "邯郸两医生过度用呼吸机致患者死亡",
       "onboard_time": 1722742224,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 315239,
-      "num": 342563,
-      "word": "四川男子办完离婚头也不回离开",
-      "onboard_time": 1722765085,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -1515,6 +1539,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 273347,
+      "num": 273347,
+      "word": "张本智和 当翻译战绩可查",
+      "onboard_time": 1722766524,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 270888,
       "num": 968372,
       "word": "白鹿在应援旗面前这么水灵灵吊起来了",
@@ -1563,14 +1595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 262034,
-      "num": 262034,
-      "word": "张本智和 当翻译战绩可查",
-      "onboard_time": 1722766524,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 260262,
       "num": 260262,
       "word": "林孝埈谈观看巴黎奥运会比赛",
@@ -1601,14 +1625,6 @@
       "onboard_time": 1722745464,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 258657,
-      "num": 652340,
-      "word": "百花奖红毯",
-      "onboard_time": 1722765324,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 256416,
@@ -1643,6 +1659,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 242829,
+      "num": 319772,
+      "word": "韩女团成员演出过程中晕倒",
+      "onboard_time": 1722766644,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 241601,
+      "num": 437887,
+      "word": "关晓彤绿色燕尾高定",
+      "onboard_time": 1722766585,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 239887,
       "num": 593779,
       "word": "美防长突然撕毁协议",
@@ -1667,11 +1699,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233438,
+      "num": 233438,
+      "word": "王昶梁伟铿 余淮周末",
+      "onboard_time": 1722767664,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229184,
       "num": 229184,
       "word": "陈梦为何能顶住压力战胜孙颖莎夺冠",
       "onboard_time": 1722736282,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 225206,
+      "num": 225206,
+      "word": "中国羽毛球队为啥总是出情侣",
+      "onboard_time": 1722767484,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -1720,6 +1768,14 @@
       "word": "陆虎把尼格买提写哭了",
       "onboard_time": 1722748403,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 218495,
+      "num": 218495,
+      "word": "张新成王玉雯是怎么忍住不笑的",
+      "onboard_time": 1722766944,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -1793,14 +1849,6 @@
       "onboard_time": 1722686007,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204961,
-      "num": 319772,
-      "word": "韩女团成员演出过程中晕倒",
-      "onboard_time": 1722766644,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 204674,
@@ -1883,6 +1931,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 190125,
+      "num": 254150,
+      "word": "养殖虾都是吃抗生素和激素长大的吗",
+      "onboard_time": 1722766164,
+      "rank": 47,
+      "category": "美食,科学科普"
+    },
+    {
       "raw_hot": 189428,
       "num": 182625,
       "word": "4位姑娘高喊中国女双第1",
@@ -1944,14 +2000,6 @@
       "word": "刘耀文百花奖格子西装造型",
       "onboard_time": 1722764005,
       "rank": 48,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 181769,
-      "num": 255380,
-      "word": "关晓彤绿色燕尾高定",
-      "onboard_time": 1722766585,
-      "rank": 43,
       "category": "电影"
     },
     {
@@ -2073,14 +2121,6 @@
       "onboard_time": 1722735624,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 156292,
-      "num": 254150,
-      "word": "养殖虾都是吃抗生素和激素长大的吗",
-      "onboard_time": 1722766164,
-      "rank": 47,
-      "category": "美食,科学科普"
     },
     {
       "raw_hot": 154571,
@@ -2291,6 +2331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92828,
+      "num": 720351,
+      "word": "王嘉男张溟鲲晋级跳远决赛",
+      "onboard_time": 1722767545,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91472,
       "num": 401911,
       "word": "抓娃娃",
@@ -2436,7 +2484,7 @@
     },
     {
       "raw_hot": 52708,
-      "num": 301189,
+      "num": 717014,
       "word": "郎平张伟丽打卡白象高汤面馆",
       "onboard_time": 1722766282,
       "rank": 37,
