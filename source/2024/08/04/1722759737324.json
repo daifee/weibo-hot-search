@@ -1,0 +1,410 @@
+{
+  "runTime": 1722759737324,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1698283,
+        "num": 1698283,
+        "word": "孙杨解释潘展乐没上接力决赛的原因",
+        "onboard_time": 1722752244,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1564490,
+        "num": 1564490,
+        "word": "郑钦文去年收入720万美元",
+        "onboard_time": 1722751404,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7603,
+        "num": 1501803,
+        "word": "沉浸式来一场古代运河市镇的citywalk",
+        "onboard_time": 1722742344,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1474558,
+        "num": 1474558,
+        "word": "何冰娇vs马林",
+        "onboard_time": 1722757222,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1141415,
+        "num": 1141415,
+        "word": "陈梦东京夺冠后一度低迷",
+        "onboard_time": 1722740965,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 882967,
+        "num": 882967,
+        "word": "陈梦翡翠项链寓意巴黎圆满",
+        "onboard_time": 1722750623,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 756935,
+        "num": 756935,
+        "word": "任嘉伦陈梦曾是队友",
+        "onboard_time": 1722750443,
+        "rank": 6,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 519377,
+        "num": 744110,
+        "word": "她多无助才用叛逆保护自己",
+        "onboard_time": 1722751163,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 336317,
+        "num": 741456,
+        "word": "上半年结婚登记数同比减少49.8万对",
+        "onboard_time": 1722758483,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 588976,
+        "num": 718567,
+        "word": "何冰娇状态",
+        "onboard_time": 1722759323,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2277088,
+        "num": 705185,
+        "word": "陈梦这局比赛成为了我的人生教案",
+        "onboard_time": 1722755662,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 864048,
+        "num": 691761,
+        "word": "陈梦卫冕冠军",
+        "onboard_time": 1722694581,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1966021,
+        "num": 677100,
+        "word": "黄晓明朋友圈",
+        "onboard_time": 1722743964,
+        "rank": 12,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 1226433,
+        "num": 658763,
+        "word": "岂容饭圈暴力搅浑乒坛",
+        "onboard_time": 1722756683,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 654162,
+        "num": 654162,
+        "word": "今年上半年结婚登记数再创新低",
+        "onboard_time": 1722756023,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 811384,
+        "num": 652922,
+        "word": "梁王组合决赛",
+        "onboard_time": 1722735923,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 765628,
+        "num": 649363,
+        "word": "潘展乐关注了质疑自己的澳洲教练",
+        "onboard_time": 1722751223,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 390689,
+        "num": 644613,
+        "word": "华晨宇粉丝画出二维码购票",
+        "onboard_time": 1722757882,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 274220,
+        "num": 641879,
+        "word": "陈思诚 猫和老鼠",
+        "onboard_time": 1722751643,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 214016,
+        "num": 640413,
+        "word": "李钟硕两年半没拍戏",
+        "onboard_time": 1722749723,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1207809,
+        "num": 633995,
+        "word": "男子摸女子臀部被狂追千米擒住",
+        "onboard_time": 1722754222,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 673160,
+        "num": 630731,
+        "word": "安洗莹进奥运决赛",
+        "onboard_time": 1722757583,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 660091,
+        "num": 628373,
+        "word": "孙颖莎退场后第一时间摘下银牌",
+        "onboard_time": 1722740965,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206802,
+        "num": 625990,
+        "word": "阿Sa不知道黄子韬官宣",
+        "onboard_time": 1722752422,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 623801,
+        "num": 623801,
+        "word": "何冰娇失误",
+        "onboard_time": 1722759442,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 610364,
+        "num": 610364,
+        "word": "女子每天1小时动感单车致横纹肌溶解",
+        "onboard_time": 1722752181,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490688,
+        "num": 490688,
+        "word": "黄晓明 亚飞",
+        "onboard_time": 1722744803,
+        "rank": 26,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 292788,
+        "num": 434696,
+        "word": "黄子韬被路人贴脸开大",
+        "onboard_time": 1722755722,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 387577,
+        "num": 387577,
+        "word": "300余个账号拉踩引战恶意攻击被禁言",
+        "onboard_time": 1722756622,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197297,
+        "num": 372286,
+        "word": "杨紫金鹰奖入围四部作品",
+        "onboard_time": 1722759023,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 370410,
+        "num": 370410,
+        "word": "孙颖莎 不知道能不能打到洛杉矶",
+        "onboard_time": 1722737423,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 351035,
+        "num": 351035,
+        "word": "安洗莹vs玛丽斯卡",
+        "onboard_time": 1722757403,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 350847,
+        "num": 350847,
+        "word": "儿慈会回应河南负责人要求患儿母亲陪睡",
+        "onboard_time": 1722754822,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350797,
+        "num": 350797,
+        "word": "梁王组合迎来决战",
+        "onboard_time": 1722754103,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 348571,
+        "num": 348571,
+        "word": "张之臻还原郑钦文退出混双细节",
+        "onboard_time": 1722758304,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 343334,
+        "num": 343334,
+        "word": "王皓和樊振东进行多球训练",
+        "onboard_time": 1722748463,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 332391,
+        "num": 332391,
+        "word": "杭州下雨",
+        "onboard_time": 1722753923,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311310,
+        "num": 311310,
+        "word": "但你为什么让他赢呢",
+        "onboard_time": 1722747681,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271192,
+        "num": 271192,
+        "word": "王昶 我想挑战女双",
+        "onboard_time": 1722747923,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264323,
+        "num": 264323,
+        "word": "陈梦夺冠92岁的姥姥热泪盈眶",
+        "onboard_time": 1722759623,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246985,
+        "num": 246985,
+        "word": "郑钦文多年没喝过一次饮料",
+        "onboard_time": 1722754822,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240097,
+        "num": 240097,
+        "word": "飞机2小时和高铁7小时你更愿意坐哪个",
+        "onboard_time": 1722752244,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 236398,
+        "num": 236398,
+        "word": "樊振东今晚决赛加油",
+        "onboard_time": 1722732864,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235383,
+        "num": 235383,
+        "word": "邓亚萍曾谈国乒饭圈文化",
+        "onboard_time": 1722739464,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221253,
+        "num": 221253,
+        "word": "中国女双包揽冠亚之后当场吵架",
+        "onboard_time": 1722741023,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219304,
+        "num": 219304,
+        "word": "意大利女排vs土耳其女排",
+        "onboard_time": 1722756443,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214559,
+        "num": 214559,
+        "word": "人民网评最好的应援是喝彩而不是拉踩",
+        "onboard_time": 1722759023,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212830,
+        "num": 212830,
+        "word": "金九银十吻上这些运动员好吗",
+        "onboard_time": 1722758183,
+        "rank": 47,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 201229,
+        "num": 201229,
+        "word": "特朗普称哈里斯是最糟糕副总统",
+        "onboard_time": 1722756382,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 198744,
+        "num": 198744,
+        "word": "南昌上完大学吃辣成大神级",
+        "onboard_time": 1722758423,
+        "rank": 49,
+        "category": "美食,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#充分激发全体人民的积极性主动性创造性#"
+    }
+  }
+}
