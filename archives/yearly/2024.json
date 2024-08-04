@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1722760589452,
+  "endTime": 1722763297078,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -1523,6 +1523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 7817643,
+      "num": 7817643,
+      "word": "马林受伤",
+      "onboard_time": 1722759863,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 7808511,
       "num": 7808511,
       "word": "白鹿 公主白梦妍",
@@ -2392,14 +2400,6 @@
       "word": "张本智和早田希娜vs李正植金琴英",
       "onboard_time": 1722093927,
       "rank": 3,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 5347883,
-      "num": 5347883,
-      "word": "中国首金",
-      "onboard_time": 1722072809,
-      "rank": 23,
       "category": "体育"
     }
   ],
