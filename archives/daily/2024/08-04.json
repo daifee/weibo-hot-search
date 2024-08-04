@@ -1,6 +1,6 @@
 {
   "startTime": 1722702313981,
-  "endTime": 1722741713204,
+  "endTime": 1722742566133,
   "band_list": [
     {
       "raw_hot": 30093650,
@@ -51,19 +51,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 7993558,
+      "num": 7993558,
+      "word": "孙颖莎退场后第一时间摘下银牌",
+      "onboard_time": 1722740965,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 5202577,
       "num": 1174187,
       "word": "孙颖莎采访呢",
       "onboard_time": 1722700347,
       "rank": 11,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 4880465,
-      "num": 4880465,
-      "word": "孙颖莎退场后第一时间摘下银牌",
-      "onboard_time": 1722740965,
-      "rank": 0,
       "category": "体育"
     },
     {
@@ -235,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1778710,
+      "num": 1778710,
+      "word": "陈梦东京夺冠后一度低迷",
+      "onboard_time": 1722740965,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1703024,
       "num": 1570606,
       "word": "郑钦文说对不起张之臻",
@@ -288,6 +296,22 @@
       "word": "四大满贯祝贺郑钦文夺冠",
       "onboard_time": 1722720973,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1347906,
+      "num": 1347906,
+      "word": "霸王茶姬口令",
+      "onboard_time": 1722742224,
+      "rank": 5,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 1256022,
+      "num": 921968,
+      "word": "中国女双包揽冠亚之后当场吵架",
+      "onboard_time": 1722741023,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -347,14 +371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 899851,
-      "num": 899851,
-      "word": "陈梦东京夺冠后一度低迷",
-      "onboard_time": 1722740965,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 872444,
       "num": 814766,
       "word": "郑钦文ace",
@@ -385,14 +401,6 @@
       "onboard_time": 1722730643,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 793649,
-      "num": 793649,
-      "word": "中国女双包揽冠亚之后当场吵架",
-      "onboard_time": 1722741023,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 766635,
@@ -492,7 +500,7 @@
     },
     {
       "raw_hot": 536765,
-      "num": 934150,
+      "num": 1208853,
       "word": "尤长靖在披哥瘦了36斤",
       "onboard_time": 1722733225,
       "rank": 13,
@@ -564,7 +572,7 @@
     },
     {
       "raw_hot": 488806,
-      "num": 851588,
+      "num": 1044462,
       "word": "董力迟到一个月的道歉",
       "onboard_time": 1722735984,
       "rank": 29,
@@ -576,6 +584,14 @@
       "word": "弗雷泽退赛",
       "onboard_time": 1722710235,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 485027,
+      "num": 811234,
+      "word": "邓亚萍曾谈国乒饭圈文化",
+      "onboard_time": 1722739464,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -659,14 +675,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 396694,
-      "num": 811234,
-      "word": "邓亚萍曾谈国乒饭圈文化",
-      "onboard_time": 1722739464,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 386549,
       "num": 386549,
       "word": "孙颖莎上一秒凶巴巴下一秒笑哈哈",
@@ -713,6 +721,14 @@
       "onboard_time": 1722699030,
       "rank": 19,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 349856,
+      "num": 349856,
+      "word": "陈清晨说了四句一句都播不了",
+      "onboard_time": 1722741023,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 342647,
@@ -787,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 306943,
+      "num": 306943,
+      "word": "郑钦文回应QueenWen称号",
+      "onboard_time": 1722742404,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 305142,
       "num": 305142,
       "word": "覃海洋首枚奖牌",
@@ -827,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 292475,
+      "num": 292475,
+      "word": "QueenWen",
+      "onboard_time": 1722742464,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 285737,
       "num": 696198,
       "word": "周深回复黄雅琼",
@@ -859,20 +891,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 277554,
+      "num": 558645,
+      "word": "张韶涵热成了水光肌芭比",
+      "onboard_time": 1722739343,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 266855,
       "num": 771325,
       "word": "中国第15金",
       "onboard_time": 1722701545,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 261605,
-      "num": 558645,
-      "word": "张韶涵热成了水光肌芭比",
-      "onboard_time": 1722739343,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 259512,
@@ -905,6 +937,14 @@
       "onboard_time": 1722712934,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 237078,
+      "num": 815944,
+      "word": "唐朝诡事录之西行收官",
+      "onboard_time": 1722741263,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 229184,
@@ -979,20 +1019,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202169,
-      "num": 815944,
-      "word": "唐朝诡事录之西行收官",
-      "onboard_time": 1722741263,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 198960,
       "num": 331648,
       "word": "SNH48总选王奕第二",
       "onboard_time": 1722704607,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195356,
+      "num": 334980,
+      "word": "火锅为什么便宜了",
+      "onboard_time": 1722740904,
+      "rank": 45,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 189428,
@@ -1075,14 +1115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167451,
-      "num": 334980,
-      "word": "火锅为什么便宜了",
-      "onboard_time": 1722740904,
-      "rank": 45,
-      "category": "美食,财经"
-    },
-    {
       "raw_hot": 165486,
       "num": 237543,
       "word": "胡先煦成都叫观众不要走",
@@ -1100,7 +1132,7 @@
     },
     {
       "raw_hot": 157321,
-      "num": 321109,
+      "num": 473044,
       "word": "张艺兴出发百花奖",
       "onboard_time": 1722735624,
       "rank": 38,
@@ -1145,6 +1177,14 @@
       "onboard_time": 1722738623,
       "rank": 8,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 144869,
+      "num": 675911,
+      "word": "律师谈货拉拉司机拒绝运尸体遭投诉",
+      "onboard_time": 1722741203,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141420,
@@ -1243,6 +1283,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88792,
+      "num": 844791,
+      "word": "康定山洪泥石流致4人遇难23人失联",
+      "onboard_time": 1722740422,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77187,
+      "num": 828070,
+      "word": "乌称击中俄S400防空系统和潜艇",
+      "onboard_time": 1722740422,
+      "rank": 14,
+      "category": "军事"
+    },
+    {
       "raw_hot": 67058,
       "num": 181175,
       "word": "时代少年团梦",
@@ -1283,20 +1339,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 51486,
-      "num": 844791,
-      "word": "康定山洪泥石流致4人遇难23人失联",
-      "onboard_time": 1722740422,
-      "rank": 9,
+      "raw_hot": 41644,
+      "num": 1110339,
+      "word": "邯郸两医生过度用呼吸机致患者死亡",
+      "onboard_time": 1722742224,
+      "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48209,
-      "num": 828070,
-      "word": "乌称击中俄S400防空系统和潜艇",
-      "onboard_time": 1722740422,
-      "rank": 14,
-      "category": "军事"
     },
     {
       "raw_hot": 19849,
@@ -1311,6 +1359,14 @@
       "num": 2845801,
       "word": "骏马奔腾",
       "onboard_time": 1722670522,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12021,
+      "num": 1796696,
+      "word": "沉浸式来一场古代运河市镇的citywalk",
+      "onboard_time": 1722742344,
       "rank": 2,
       "category": "社会新闻"
     }

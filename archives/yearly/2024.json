@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1722741713204,
+  "endTime": 1722742566133,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -1435,6 +1435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 7993558,
+      "num": 7993558,
+      "word": "孙颖莎退场后第一时间摘下银牌",
+      "onboard_time": 1722740965,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 7989519,
       "num": 7989519,
       "word": "海来阿木 好听",
@@ -2392,14 +2400,6 @@
       "word": "中国首金",
       "onboard_time": 1722072809,
       "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 5347676,
-      "num": 5347676,
-      "word": "泰国vs新加坡",
-      "onboard_time": 1718108599,
-      "rank": 8,
       "category": "体育"
     }
   ],
