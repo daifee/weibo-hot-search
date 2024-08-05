@@ -1,6 +1,6 @@
 {
   "startTime": 1722875081704,
-  "endTime": 1722885543138,
+  "endTime": 1722886518362,
   "band_list": [
     {
       "raw_hot": 5783219,
@@ -227,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 369911,
+      "num": 369911,
+      "word": "女子铁饼决赛",
+      "onboard_time": 1722883932,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 362703,
       "num": 965366,
       "word": "原来这就是唇语的绝对语感",
@@ -256,14 +264,6 @@
       "word": "张博恒不愿展示铜牌",
       "onboard_time": 1722879616,
       "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 304949,
-      "num": 304949,
-      "word": "女子铁饼决赛",
-      "onboard_time": 1722883932,
-      "rank": 4,
       "category": "体育"
     },
     {
@@ -339,8 +339,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 228236,
-      "num": 228236,
+      "raw_hot": 237579,
+      "num": 237579,
       "word": "撑竿跳帅哥",
       "onboard_time": 1722882793,
       "rank": 30,
@@ -411,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188828,
+      "num": 188828,
+      "word": "中国花游团体技术自选第一",
+      "onboard_time": 1722883454,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186063,
       "num": 167292,
       "word": "张军说国羽表现刚刚及格",
@@ -435,11 +443,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 170998,
-      "num": 104258,
-      "word": "中国花游团体技术自选第一",
-      "onboard_time": 1722883454,
-      "rank": 17,
+      "raw_hot": 170331,
+      "num": 105222,
+      "word": "冯彬66米33",
+      "onboard_time": 1722884711,
+      "rank": 22,
       "category": "体育"
     },
     {
@@ -473,6 +481,22 @@
       "onboard_time": 1722880935,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151697,
+      "num": 101858,
+      "word": "安洗莹炮轰韩国羽协",
+      "onboard_time": 1722884172,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 150835,
+      "num": 97782,
+      "word": "中国花游队遥遥领先",
+      "onboard_time": 1722885373,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 150455,
@@ -521,22 +545,6 @@
       "onboard_time": 1722855268,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 126387,
-      "num": 103319,
-      "word": "冯彬66米33",
-      "onboard_time": 1722884711,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 126061,
-      "num": 101858,
-      "word": "安洗莹炮轰韩国羽协",
-      "onboard_time": 1722884172,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 125870,
@@ -619,19 +627,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 83135,
-      "num": 83135,
-      "word": "中国花游队遥遥领先",
-      "onboard_time": 1722885373,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 81673,
       "num": 81673,
       "word": "贾一凡恭喜樊振东",
       "onboard_time": 1722879375,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 76910,
+      "num": 76910,
+      "word": "黄博凯第七",
+      "onboard_time": 1722886032,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -643,8 +651,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 67887,
-      "num": 67887,
+      "raw_hot": 72163,
+      "num": 72163,
       "word": "杜普兰蒂斯好帅",
       "onboard_time": 1722884652,
       "rank": 39,
@@ -664,6 +672,22 @@
       "word": "张博恒单杠13.966分",
       "onboard_time": 1722882312,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 54059,
+      "num": 54059,
+      "word": "冯彬好牛",
+      "onboard_time": 1722885973,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 48362,
+      "num": 48362,
+      "word": "王昶让刘雨辰给他留个伴郎位置",
+      "onboard_time": 1722885552,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -691,12 +715,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26791,
+      "raw_hot": 28364,
       "num": 464024,
       "word": "2024电影票房破300亿",
       "onboard_time": 1722866368,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24718,
+      "num": 45704,
+      "word": "等你的回答练习室",
+      "onboard_time": 1722886272,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 22648,
