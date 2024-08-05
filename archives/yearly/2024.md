@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/08/05 07:34:42
+本榜单时间：2024/01/01 00:21:05 ~ 2024/08/05 09:25:57
 </p>
 </blockquote>
 <p>
@@ -575,6 +575,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%A5%A5%E7%BB%84%E5%A7%94%E4%B8%BA%E5%BC%80%E5%B9%95%E5%BC%8F%E9%81%93%E6%AD%89%23" target="weibo">
 巴黎奥组委为开幕式道歉（热度：11105050）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BD%98%E5%B1%95%E4%B9%90%E6%83%8A%E5%A4%A9%E9%80%86%E8%BD%AC%23" target="weibo">
+潘展乐惊天逆转（热度：11025894）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%8D%E5%8E%BB%E7%A7%A6%E5%88%9A%E5%90%8C%E5%BF%97%E4%B8%AD%E5%A4%AE%E5%A7%94%E5%91%98%E4%BC%9A%E5%A7%94%E5%91%98%E8%81%8C%E5%8A%A1%23" target="weibo">
 免去秦刚同志中央委员会委员职务（热度：5737660）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%93%E6%93%8D%E6%8E%92%E5%90%8D%23" target="weibo">
-体操排名（热度：5696484）
 </a>
 </li>
 
