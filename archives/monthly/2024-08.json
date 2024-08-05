@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1722846346682,
+  "endTime": 1722847135098,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -1019,6 +1019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3698919,
+      "num": 3698919,
+      "word": "李政道逝世",
+      "onboard_time": 1722845610,
+      "rank": 4,
+      "category": "社会新闻,科学科普"
+    },
+    {
       "raw_hot": 3691570,
       "num": 3691570,
       "word": "朱雪莹胡译乘晋级蹦床决赛",
@@ -1472,6 +1480,14 @@
       "word": "原来孙颖莎大学还没有毕业",
       "onboard_time": 1722583282,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2870393,
+      "num": 2870393,
+      "word": "李越宏25米手枪速射金牌",
+      "onboard_time": 1722845430,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -2155,14 +2171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2056069,
-      "num": 2056069,
-      "word": "李政道逝世",
-      "onboard_time": 1722845610,
-      "rank": 4,
-      "category": "社会新闻,科学科普"
-    },
-    {
       "raw_hot": 2053883,
       "num": 2053883,
       "word": "网球女单决赛裁判也是个狠人",
@@ -2224,14 +2232,6 @@
       "word": "刘雨辰求婚后被教练调侃钻石这么小",
       "onboard_time": 1722665421,
       "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2011562,
-      "num": 2011562,
-      "word": "李越宏25米手枪速射金牌",
-      "onboard_time": 1722845430,
-      "rank": 5,
       "category": "体育"
     },
     {
@@ -3179,6 +3179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1409869,
+      "num": 1409869,
+      "word": "女子10米台跳水预赛",
+      "onboard_time": 1722844705,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1396157,
       "num": 1396157,
       "word": "张怡涵掉杠",
@@ -3720,14 +3728,6 @@
       "word": "黄雅琼回应被求婚",
       "onboard_time": 1722614907,
       "rank": 20,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1197215,
-      "num": 1197215,
-      "word": "女子10米台跳水预赛",
-      "onboard_time": 1722844705,
-      "rank": 11,
       "category": "体育"
     },
     {
@@ -6067,6 +6067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 575256,
+      "num": 575256,
+      "word": "张雨霏希望暂时告别游泳",
+      "onboard_time": 1722843203,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 574277,
       "num": 574277,
       "word": "孙颖莎陈梦再现巅峰对决",
@@ -6081,6 +6089,14 @@
       "onboard_time": 1722581482,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 571903,
+      "num": 571903,
+      "word": "中国射击第5金",
+      "onboard_time": 1722845670,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 571335,
@@ -6145,6 +6161,14 @@
       "onboard_time": 1722774088,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 561308,
+      "num": 561308,
+      "word": "爷爷说好多女孩私下追潘展乐",
+      "onboard_time": 1722843684,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 560657,
@@ -6275,27 +6299,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 536732,
-      "num": 536732,
-      "word": "爷爷说好多女孩私下追潘展乐",
-      "onboard_time": 1722843684,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 536651,
       "num": 430907,
       "word": "张本智和落泪",
       "onboard_time": 1722557966,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 534825,
-      "num": 534825,
-      "word": "张雨霏希望暂时告别游泳",
-      "onboard_time": 1722843203,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -6681,6 +6689,14 @@
       "onboard_time": 1722632172,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 486577,
+      "num": 596333,
+      "word": "关晓彤说潘展乐是飞人",
+      "onboard_time": 1722846508,
+      "rank": 14,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 485539,
@@ -7235,14 +7251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 433196,
-      "num": 433196,
-      "word": "中国射击第5金",
-      "onboard_time": 1722845670,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 431175,
       "num": 522538,
       "word": "鹿晗与发小出门吃饭",
@@ -7256,6 +7264,14 @@
       "word": "朱婷手腕",
       "onboard_time": 1722788008,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 428405,
+      "num": 428405,
+      "word": "探营杭州神枪手基地",
+      "onboard_time": 1722846567,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -7712,6 +7728,14 @@
       "word": "蹦床观赏性好高",
       "onboard_time": 1722598044,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 397781,
+      "num": 397781,
+      "word": "中国第20金",
+      "onboard_time": 1722846029,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -8267,6 +8291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356485,
+      "num": 320521,
+      "word": "外媒说潘展乐中国飞鱼让世界臣服",
+      "onboard_time": 1722842784,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 354731,
       "num": 354731,
       "word": "瑞典国王 大半夜把我叫来啥事啊",
@@ -8281,6 +8313,14 @@
       "onboard_time": 1722609625,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353233,
+      "num": 215254,
+      "word": "李越宏五枪全中",
+      "onboard_time": 1722846806,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 352296,
@@ -8393,14 +8433,6 @@
       "onboard_time": 1722765324,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 346857,
-      "num": 320521,
-      "word": "外媒说潘展乐中国飞鱼让世界臣服",
-      "onboard_time": 1722842784,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 346375,
@@ -9715,14 +9747,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 281455,
-      "num": 201684,
-      "word": "中国第20金",
-      "onboard_time": 1722846029,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 281326,
       "num": 281326,
       "word": "孙杨说在潘展乐身上看到了自己的影子",
@@ -10899,6 +10923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219676,
+      "num": 500961,
+      "word": "TF三代成团人数小于等于8",
+      "onboard_time": 1722847047,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 219304,
       "num": 219304,
       "word": "意大利女排vs土耳其女排",
@@ -10993,6 +11025,14 @@
       "onboard_time": 1722666561,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217379,
+      "num": 217379,
+      "word": "医考帮崩了",
+      "onboard_time": 1722846927,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 216116,
@@ -11137,6 +11177,14 @@
       "onboard_time": 1722829102,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 209620,
+      "num": 209620,
+      "word": "四川康定山洪泥石流9人遇难18人失联",
+      "onboard_time": 1722846268,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208806,
@@ -11291,6 +11339,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 205351,
+      "num": 1750750,
+      "word": "一年花掉50万中产们卷起天价一对一",
+      "onboard_time": 1722844827,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205111,
       "num": 1134952,
       "word": "蔡徐坤生日新歌Remedy",
@@ -11393,6 +11449,14 @@
       "onboard_time": 1722716471,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202677,
+      "num": 212557,
+      "word": "你也会觉得我命好",
+      "onboard_time": 1722845970,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 202638,
@@ -11745,6 +11809,14 @@
       "onboard_time": 1722499222,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 190458,
+      "num": 190458,
+      "word": "品牌官博把张艺兴打成孙艺兴",
+      "onboard_time": 1722846687,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 190452,
@@ -12187,14 +12259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171714,
-      "num": 171714,
-      "word": "四川康定山洪泥石流9人遇难18人失联",
-      "onboard_time": 1722846268,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171014,
       "num": 171014,
       "word": "德约科维奇晋级奥运四强",
@@ -12249,14 +12313,6 @@
       "onboard_time": 1722698014,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 168107,
-      "num": 168107,
-      "word": "你也会觉得我命好",
-      "onboard_time": 1722845970,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 166048,
@@ -12899,14 +12955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115874,
-      "num": 1750750,
-      "word": "一年花掉50万中产们卷起天价一对一",
-      "onboard_time": 1722844827,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115099,
       "num": 338996,
       "word": "八月",
@@ -13092,7 +13140,7 @@
     },
     {
       "raw_hot": 102828,
-      "num": 2639218,
+      "num": 2965883,
       "word": "原来北京中轴线也亮相过奥运会",
       "onboard_time": 1722826222,
       "rank": 2,
@@ -13347,6 +13395,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 79924,
+      "num": 655699,
+      "word": "vivo凭啥成为手机影像届卷王",
+      "onboard_time": 1722842183,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 79512,
       "num": 368984,
       "word": "吴尊 3年前我就看好郑钦文",
@@ -13465,14 +13521,6 @@
       "onboard_time": 1722842723,
       "rank": 29,
       "category": "财经"
-    },
-    {
-      "raw_hot": 71774,
-      "num": 655699,
-      "word": "vivo凭啥成为手机影像届卷王",
-      "onboard_time": 1722842183,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 70234,
@@ -14088,6 +14136,14 @@
       "word": "设计一场浪漫邂逅",
       "onboard_time": 1722652162,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38950,
+      "num": 1396432,
+      "word": "李政道为天才打开一扇门",
+      "onboard_time": 1722846687,
+      "rank": 9,
       "category": "社会新闻"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1722847135098,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 13402380,
+        "num": 13402380,
+        "word": "乐乐爸乐乐妈",
+        "onboard_time": 1722838223,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3698919,
+        "num": 3698919,
+        "word": "李政道逝世",
+        "onboard_time": 1722845610,
+        "rank": 1,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 63207,
+        "num": 2965883,
+        "word": "原来北京中轴线也亮相过奥运会",
+        "onboard_time": 1722826222,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2881825,
+        "num": 2881825,
+        "word": "孙杨 老婆孩子在巴黎",
+        "onboard_time": 1722843563,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2870393,
+        "num": 2870393,
+        "word": "李越宏25米手枪速射金牌",
+        "onboard_time": 1722845430,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1409869,
+        "num": 1409869,
+        "word": "女子10米台跳水预赛",
+        "onboard_time": 1722844705,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1407942,
+        "num": 1407942,
+        "word": "男子25米手枪速射决赛",
+        "onboard_time": 1722843385,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1065038,
+        "num": 1398179,
+        "word": "百花奖最佳男主36位弃票",
+        "onboard_time": 1722841343,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 530940,
+        "num": 1397089,
+        "word": "安妮海瑟薇鞠婧祎穿了同款",
+        "onboard_time": 1722839302,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 38950,
+        "num": 1396432,
+        "word": "李政道为天才打开一扇门",
+        "onboard_time": 1722846687,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1396211,
+        "num": 1396211,
+        "word": "潘展乐又又又来告状了",
+        "onboard_time": 1722834204,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1190726,
+        "num": 1190726,
+        "word": "乐乐爸没有否认",
+        "onboard_time": 1722841103,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 748629,
+        "num": 748629,
+        "word": "他才17岁能藏住什么事",
+        "onboard_time": 1722839783,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 597516,
+        "num": 597516,
+        "word": "曾鸣教授一上网发现天塌了",
+        "onboard_time": 1722839723,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 486577,
+        "num": 596333,
+        "word": "关晓彤说潘展乐是飞人",
+        "onboard_time": 1722846508,
+        "rank": 14,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 688077,
+        "num": 592476,
+        "word": "孙杨是不是真的是疯子啊",
+        "onboard_time": 1722830064,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 657332,
+        "num": 591664,
+        "word": "潘展乐卡点520发博",
+        "onboard_time": 1722838403,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 325501,
+        "num": 587515,
+        "word": "张雨霏覃海洋跳了张艺兴的歌",
+        "onboard_time": 1722834264,
+        "rank": 17,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 320640,
+        "num": 584814,
+        "word": "杨笠 想升职还是得跳槽",
+        "onboard_time": 1722843984,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310871,
+        "num": 581124,
+        "word": "秦岚终于宣上自己的剧了",
+        "onboard_time": 1722841643,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 464326,
+        "num": 580608,
+        "word": "李政道",
+        "onboard_time": 1722844405,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602274,
+        "num": 577345,
+        "word": "全红婵以为不用上学才去的跳水",
+        "onboard_time": 1722833545,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 575256,
+        "num": 575256,
+        "word": "张雨霏希望暂时告别游泳",
+        "onboard_time": 1722843203,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 571903,
+        "num": 571903,
+        "word": "中国射击第5金",
+        "onboard_time": 1722845670,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 561308,
+        "num": 561308,
+        "word": "爷爷说好多女孩私下追潘展乐",
+        "onboard_time": 1722843684,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 510200,
+        "num": 510200,
+        "word": "潘展乐 我就说直说有用吧",
+        "onboard_time": 1722834204,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254365,
+        "num": 509926,
+        "word": "黄子韬把向佐都整无语了",
+        "onboard_time": 1722841043,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79924,
+        "num": 506576,
+        "word": "vivo凭啥成为手机影像届卷王",
+        "onboard_time": 1722842183,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 226178,
+        "num": 501900,
+        "word": "杨幂生万物一滴泪镜头",
+        "onboard_time": 1722843144,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219676,
+        "num": 500961,
+        "word": "TF三代成团人数小于等于8",
+        "onboard_time": 1722847047,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 498149,
+        "num": 498149,
+        "word": "樊振东夺冠后乒乓球卖疯了",
+        "onboard_time": 1722837442,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 466959,
+        "num": 466959,
+        "word": "徐嘉余办走读",
+        "onboard_time": 1722843085,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 428405,
+        "num": 428405,
+        "word": "探营杭州神枪手基地",
+        "onboard_time": 1722846567,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 397781,
+        "num": 397781,
+        "word": "中国第20金",
+        "onboard_time": 1722846029,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217379,
+        "num": 217379,
+        "word": "医考帮崩了",
+        "onboard_time": 1722846927,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 359565,
+        "num": 217146,
+        "word": "日媒解说的就像自家赢了金牌",
+        "onboard_time": 1722841823,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 359229,
+        "num": 216717,
+        "word": "国乒女团首次登场",
+        "onboard_time": 1722827783,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356485,
+        "num": 215673,
+        "word": "外媒说潘展乐中国飞鱼让世界臣服",
+        "onboard_time": 1722842784,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353233,
+        "num": 215254,
+        "word": "李越宏五枪全中",
+        "onboard_time": 1722846806,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 349238,
+        "num": 214491,
+        "word": "马尔尚向中国教练解释并互赠礼物",
+        "onboard_time": 1722844105,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341997,
+        "num": 213586,
+        "word": "潘展乐惊天逆转",
+        "onboard_time": 1722792563,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330628,
+        "num": 213073,
+        "word": "美国队所有人都找潘展乐握手",
+        "onboard_time": 1722832766,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202677,
+        "num": 212557,
+        "word": "你也会觉得我命好",
+        "onboard_time": 1722845970,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193168,
+        "num": 212188,
+        "word": "载有25名中国公民大巴在意大利发生车祸",
+        "onboard_time": 1722837203,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315822,
+        "num": 210915,
+        "word": "潘展乐瞥了眼美国队说这怎么说啊",
+        "onboard_time": 1722829463,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 294079,
+        "num": 210498,
+        "word": "王鑫杰25米手枪速射铜牌",
+        "onboard_time": 1722845670,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281148,
+        "num": 209852,
+        "word": "中国队男子4×100混接金牌",
+        "onboard_time": 1722792145,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209620,
+        "num": 209620,
+        "word": "四川康定山洪泥石流9人遇难18人失联",
+        "onboard_time": 1722846268,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205351,
+        "num": 205351,
+        "word": "一年花掉50万中产们卷起天价一对一",
+        "onboard_time": 1722844827,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190458,
+        "num": 190458,
+        "word": "品牌官博把张艺兴打成孙艺兴",
+        "onboard_time": 1722846687,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革为人民#"
+    }
+  }
+}
