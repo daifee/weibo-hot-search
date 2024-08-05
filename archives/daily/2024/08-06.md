@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/08/06 00:24:41 ~ 2024/08/06 04:20:58
+本榜单时间：2024/08/06 00:24:41 ~ 2024/08/06 04:35:14
 </p>
 </blockquote>
 <p>
@@ -315,6 +315,12 @@ TFBOYS出道十一周年（热度：5783219）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%99%AE%E5%85%B0%E8%92%82%E6%96%AF%E6%89%93%E7%A0%B4%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%23" target="weibo">
+杜普兰蒂斯打破世界纪录（热度：209032）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%BD%E6%AF%9B%E7%90%83%E7%94%B7%E5%8D%95%E5%86%B3%E8%B5%9B%23" target="weibo">
 羽毛球男单决赛（热度：208388）
 </a>
@@ -341,6 +347,12 @@ UNIQ祝王一博生日快乐（热度：193575）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%86%9B%E8%AF%B4%E5%9B%BD%E7%BE%BD%E8%A1%A8%E7%8E%B0%E5%88%9A%E5%88%9A%E5%8F%8A%E6%A0%BC%23" target="weibo">
 张军说国羽表现刚刚及格（热度：186063）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%99%AE%E5%85%B0%E8%92%82%E6%96%AF%E5%A5%BD%E5%B8%85%23" target="weibo">
+杜普兰蒂斯好帅（热度：183948）
 </a>
 </li>
 
@@ -495,12 +507,6 @@ UNIQ祝王一博生日快乐（热度：193575）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%99%AE%E5%85%B0%E8%92%82%E6%96%AF%E5%A5%BD%E5%B8%85%23" target="weibo">
-杜普兰蒂斯好帅（热度：80796）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%8D%9A%E5%87%AF%E7%AC%AC%E4%B8%83%23" target="weibo">
 黄博凯第七（热度：76910）
 </a>
@@ -533,6 +539,12 @@ UNIQ祝王一博生日快乐（热度：193575）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%B6%E8%AE%A9%E5%88%98%E9%9B%A8%E8%BE%B0%E7%BB%99%E4%BB%96%E7%95%99%E4%B8%AA%E4%BC%B4%E9%83%8E%E4%BD%8D%E7%BD%AE%23" target="weibo">
 王昶让刘雨辰给他留个伴郎位置（热度：48362）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%B9%E5%88%A9%E5%9B%BD%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B%23" target="weibo">
+曹利国晋级决赛（热度：47601）
 </a>
 </li>
 
@@ -580,7 +592,7 @@ UNIQ祝王一博生日快乐（热度：193575）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AE%B4%E6%89%93%E5%A6%BB%E5%AD%90%E8%87%B4%E6%AD%BB%E6%A1%88%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%23" target="weibo">
-男子殴打妻子致死案最新进展（热度：20387）
+男子殴打妻子致死案最新进展（热度：22124）
 </a>
 </li>
 
