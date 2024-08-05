@@ -1,0 +1,410 @@
+{
+  "runTime": 1722829036849,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6024803,
+        "num": 6024803,
+        "word": "潘展乐惊天逆转",
+        "onboard_time": 1722792563,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2901774,
+        "num": 2901774,
+        "word": "对方教练 正常她不会赢",
+        "onboard_time": 1722824182,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17104,
+        "num": 1843324,
+        "word": "这10个奥运表情令人动容",
+        "onboard_time": 1722781652,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1327348,
+        "num": 1327348,
+        "word": "谷爱凌和潘展乐握手",
+        "onboard_time": 1722824302,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1175926,
+        "num": 1175926,
+        "word": "中国队男子4×100混接金牌",
+        "onboard_time": 1722792145,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1154192,
+        "num": 1154192,
+        "word": "美国队 脸紫",
+        "onboard_time": 1722797714,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 667839,
+        "num": 667839,
+        "word": "专家称2023年出现补偿性结婚潮",
+        "onboard_time": 1722823043,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594824,
+        "num": 594824,
+        "word": "吴千语施伯雄婚礼现场照",
+        "onboard_time": 1722824363,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 546097,
+        "num": 546097,
+        "word": "尤长靖减肥36斤前后对比",
+        "onboard_time": 1722817348,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 538622,
+        "num": 538622,
+        "word": "男子欲取现20万还没出银行就被抓",
+        "onboard_time": 1722825142,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1477615,
+        "num": 523826,
+        "word": "张继科祝贺樊振东",
+        "onboard_time": 1722816806,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1058299,
+        "num": 515131,
+        "word": "王皓挺举80kg",
+        "onboard_time": 1722814823,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 505758,
+        "num": 505758,
+        "word": "第一次见男女主边亲边恨",
+        "onboard_time": 1722825861,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 446727,
+        "num": 446727,
+        "word": "TFBOYS十年之约演唱会live专辑",
+        "onboard_time": 1722826342,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 420569,
+        "num": 420569,
+        "word": "35岁正是藏不住肉的年纪",
+        "onboard_time": 1722825142,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 957886,
+        "num": 418777,
+        "word": "孙杨世界纪录被打破",
+        "onboard_time": 1722791184,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 930093,
+        "num": 417036,
+        "word": "为什么说潘展乐是孙杨汪顺的孩子",
+        "onboard_time": 1722827543,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 692799,
+        "num": 413618,
+        "word": "王昶梁伟铿银牌",
+        "onboard_time": 1722786481,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 681667,
+        "num": 411212,
+        "word": "许昕调侃王皓抱不动樊振东",
+        "onboard_time": 1722827663,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 410771,
+        "num": 410771,
+        "word": "王一博到了肖战拍陈情令的年纪",
+        "onboard_time": 1722826042,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 605810,
+        "num": 407650,
+        "word": "全红婵和陈芋汐将上演神仙打架",
+        "onboard_time": 1722819805,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 566956,
+        "num": 387734,
+        "word": "樊振东男单金牌",
+        "onboard_time": 1722777711,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 557308,
+        "num": 365645,
+        "word": "还王昶妈生微笑唇",
+        "onboard_time": 1722827003,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 535270,
+        "num": 336092,
+        "word": "樊振东大满贯",
+        "onboard_time": 1722777842,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165419,
+        "num": 325208,
+        "word": "民警和女友Citywalk抓了个嫌疑人",
+        "onboard_time": 1722827721,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520179,
+        "num": 307728,
+        "word": "樊振东说我尽力了",
+        "onboard_time": 1722827423,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 510782,
+        "num": 275266,
+        "word": "潘展乐真的神了",
+        "onboard_time": 1722793642,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268245,
+        "num": 268245,
+        "word": "王一博人生中第27个夏天",
+        "onboard_time": 1722814342,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260784,
+        "num": 260784,
+        "word": "两个情绪稳定的人是怎么吵架的",
+        "onboard_time": 1722819564,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226869,
+        "num": 226869,
+        "word": "裴珍映退团",
+        "onboard_time": 1722824723,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309497,
+        "num": 222150,
+        "word": "爸爸说解决了小猫掉毛的问题",
+        "onboard_time": 1722822323,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 508472,
+        "num": 219971,
+        "word": "国乒女团首次登场",
+        "onboard_time": 1722827783,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 460578,
+        "num": 217540,
+        "word": "潘展乐提醒队友国旗别掉地上",
+        "onboard_time": 1722816206,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211843,
+        "num": 211843,
+        "word": "剑网3",
+        "onboard_time": 1722825262,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 206819,
+        "num": 206819,
+        "word": "生万物杀青",
+        "onboard_time": 1722828262,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 422827,
+        "num": 206796,
+        "word": "日本女乒全员说中文",
+        "onboard_time": 1722828023,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 387108,
+        "num": 206783,
+        "word": "日本教练叫樊振东超级巨星",
+        "onboard_time": 1722823464,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 374726,
+        "num": 206743,
+        "word": "祝潘展乐生日快乐",
+        "onboard_time": 1722792205,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373962,
+        "num": 206681,
+        "word": "原来乒乓球决赛还有串场表演",
+        "onboard_time": 1722825323,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206676,
+        "num": 206676,
+        "word": "马丽说确实没想到哭成这样",
+        "onboard_time": 1722796456,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200756,
+        "num": 205486,
+        "word": "中国女排VS塞尔维亚女排",
+        "onboard_time": 1722783934,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 354072,
+        "num": 204863,
+        "word": "樊振东vs莫雷加德",
+        "onboard_time": 1722772886,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339602,
+        "num": 203137,
+        "word": "菲尔普斯",
+        "onboard_time": 1722813020,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 336268,
+        "num": 200740,
+        "word": "陈梦妈妈说只要中国拿到冠军就高兴",
+        "onboard_time": 1722827003,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305361,
+        "num": 200574,
+        "word": "韩国人说潘展乐是鱼",
+        "onboard_time": 1722828623,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290614,
+        "num": 198067,
+        "word": "羽毛球男双",
+        "onboard_time": 1722779925,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197547,
+        "num": 197547,
+        "word": "电梯被人按住千万不要出去",
+        "onboard_time": 1722817167,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111929,
+        "num": 197330,
+        "word": "美媒曝伊朗最早在周一袭击以色列",
+        "onboard_time": 1722826822,
+        "rank": 47,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 180019,
+        "num": 197128,
+        "word": "鞠婧祎封面杂志预售",
+        "onboard_time": 1722827363,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 169257,
+        "num": 196933,
+        "word": "司机滥用远光灯致人死亡承担半责",
+        "onboard_time": 1722828742,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记始终心系体育事业发展#"
+    }
+  }
+}

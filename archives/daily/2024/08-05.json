@@ -1,6 +1,6 @@
 {
   "startTime": 1722788553409,
-  "endTime": 1722828154046,
+  "endTime": 1722829036849,
   "band_list": [
     {
       "raw_hot": 16751358,
@@ -355,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 930093,
+      "num": 442994,
+      "word": "为什么说潘展乐是孙杨汪顺的孩子",
+      "onboard_time": 1722827543,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 883697,
       "num": 883697,
       "word": "潘展乐采访",
@@ -424,6 +432,14 @@
       "word": "潘展乐搓手等金牌",
       "onboard_time": 1722797414,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 681667,
+      "num": 411212,
+      "word": "许昕调侃王皓抱不动樊振东",
+      "onboard_time": 1722827663,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -499,20 +515,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 557308,
+      "num": 439352,
+      "word": "还王昶妈生微笑唇",
+      "onboard_time": 1722827003,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 543992,
       "num": 5328608,
       "word": "赵丽颖百花奖最佳女配角",
       "onboard_time": 1722774269,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 523936,
-      "num": 442994,
-      "word": "为什么说潘展乐是孙杨汪顺的孩子",
-      "onboard_time": 1722827543,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 522408,
@@ -528,6 +544,14 @@
       "word": "潘展乐不装了摊牌了",
       "onboard_time": 1722816027,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 520179,
+      "num": 383781,
+      "word": "樊振东说我尽力了",
+      "onboard_time": 1722827423,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -553,6 +577,22 @@
       "onboard_time": 1722812359,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 508472,
+      "num": 324094,
+      "word": "国乒女团首次登场",
+      "onboard_time": 1722827783,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 505758,
+      "num": 505758,
+      "word": "第一次见男女主边亲边恨",
+      "onboard_time": 1722825861,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 493324,
@@ -611,28 +651,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 457179,
-      "num": 457179,
-      "word": "第一次见男女主边亲边恨",
-      "onboard_time": 1722825861,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 439352,
-      "num": 439352,
-      "word": "还王昶妈生微笑唇",
-      "onboard_time": 1722827003,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 430661,
       "num": 4685798,
       "word": "朱婷手腕",
       "onboard_time": 1722788008,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 422827,
+      "num": 311497,
+      "word": "日本女乒全员说中文",
+      "onboard_time": 1722828023,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 420569,
+      "num": 521023,
+      "word": "35岁正是藏不住肉的年纪",
+      "onboard_time": 1722825142,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 420138,
@@ -715,14 +755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 383781,
-      "num": 383781,
-      "word": "樊振东说我尽力了",
-      "onboard_time": 1722827423,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 380342,
       "num": 5010261,
       "word": "大半个娱乐圈都去了张杰演唱会",
@@ -779,22 +811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 368249,
-      "num": 521023,
-      "word": "35岁正是藏不住肉的年纪",
-      "onboard_time": 1722825142,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 354737,
-      "num": 354737,
-      "word": "许昕调侃王皓抱不动樊振东",
-      "onboard_time": 1722827663,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 349712,
       "num": 349712,
       "word": "许昕直播",
@@ -843,11 +859,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 324094,
-      "num": 324094,
-      "word": "国乒女团首次登场",
-      "onboard_time": 1722827783,
-      "rank": 41,
+      "raw_hot": 336268,
+      "num": 200740,
+      "word": "陈梦妈妈说只要中国拿到冠军就高兴",
+      "onboard_time": 1722827003,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -857,14 +873,6 @@
       "onboard_time": 1722818786,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 311497,
-      "num": 311497,
-      "word": "日本女乒全员说中文",
-      "onboard_time": 1722828023,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 308903,
@@ -889,6 +897,14 @@
       "onboard_time": 1722775171,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 305361,
+      "num": 200574,
+      "word": "韩国人说潘展乐是鱼",
+      "onboard_time": 1722828623,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 297166,
@@ -1043,6 +1059,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 206819,
+      "num": 206819,
+      "word": "生万物杀青",
+      "onboard_time": 1722828262,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206398,
       "num": 1011690,
       "word": "一诺电竞世界杯FMVP",
@@ -1124,7 +1148,7 @@
     },
     {
       "raw_hot": 175391,
-      "num": 209523,
+      "num": 325208,
       "word": "民警和女友Citywalk抓了个嫌疑人",
       "onboard_time": 1722827721,
       "rank": 49,
@@ -1153,6 +1177,14 @@
       "onboard_time": 1722812780,
       "rank": 33,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 169257,
+      "num": 196933,
+      "word": "司机滥用远光灯致人死亡承担半责",
+      "onboard_time": 1722828742,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169194,
@@ -1291,6 +1323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111929,
+      "num": 617704,
+      "word": "美媒曝伊朗最早在周一袭击以色列",
+      "onboard_time": 1722826822,
+      "rank": 9,
+      "category": "国外时政,军事"
+    },
+    {
       "raw_hot": 108339,
       "num": 108339,
       "word": "澳大利亚女篮vs法国女篮",
@@ -1369,14 +1409,6 @@
       "onboard_time": 1722813320,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 59252,
-      "num": 617704,
-      "word": "美媒曝伊朗最早在周一袭击以色列",
-      "onboard_time": 1722826822,
-      "rank": 9,
-      "category": "国外时政,军事"
     },
     {
       "raw_hot": 52097,
