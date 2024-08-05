@@ -1,6 +1,6 @@
 {
   "startTime": 1722788553409,
-  "endTime": 1722825588849,
+  "endTime": 1722826187863,
   "band_list": [
     {
       "raw_hot": 16751358,
@@ -275,6 +275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1628498,
+      "num": 1628498,
+      "word": "对方教练 正常她不会赢",
+      "onboard_time": 1722824182,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1364641,
       "num": 1364641,
       "word": "祝潘展乐生日快乐",
@@ -331,19 +339,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 975870,
+      "num": 750270,
+      "word": "谷爱凌和潘展乐握手",
+      "onboard_time": 1722824302,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 963616,
       "num": 963616,
       "word": "樊振东夺冠 福原爱跳舞庆祝",
       "onboard_time": 1722816927,
       "rank": 27,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 905840,
-      "num": 753428,
-      "word": "对方教练 正常她不会赢",
-      "onboard_time": 1722824182,
-      "rank": 15,
       "category": "体育"
     },
     {
@@ -363,8 +371,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 758061,
-      "num": 758061,
+      "raw_hot": 782421,
+      "num": 782421,
       "word": "专家称2023年出现补偿性结婚潮",
       "onboard_time": 1722823043,
       "rank": 6,
@@ -459,14 +467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 614170,
-      "num": 614170,
-      "word": "谷爱凌和潘展乐握手",
-      "onboard_time": 1722824302,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 604908,
       "num": 3957653,
       "word": "王俊凯3票易烊千玺2票",
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 547580,
-      "num": 755732,
+      "num": 776497,
       "word": "吴千语施伯雄婚礼现场照",
       "onboard_time": 1722824363,
       "rank": 11,
@@ -619,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 410548,
+      "num": 614188,
+      "word": "爸爸说解决了小猫掉毛的问题",
+      "onboard_time": 1722822323,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 410150,
       "num": 410150,
       "word": "王皓樊振东 谁能不老泪纵横",
@@ -649,14 +657,6 @@
       "onboard_time": 1722795437,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 384454,
-      "num": 614188,
-      "word": "爸爸说解决了小猫掉毛的问题",
-      "onboard_time": 1722822323,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 380342,
@@ -723,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 346375,
+      "num": 769107,
+      "word": "裴珍映退团",
+      "onboard_time": 1722824723,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 346314,
       "num": 3781012,
       "word": "贾玲 意难平",
@@ -739,7 +747,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 333494,
+      "raw_hot": 340138,
       "num": 1359491,
       "word": "王一博人生中第27个夏天",
       "onboard_time": 1722814342,
@@ -763,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 308903,
+      "num": 370999,
+      "word": "剑网3",
+      "onboard_time": 1722825262,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 307671,
       "num": 307671,
       "word": "徐嘉余圆梦巴黎",
@@ -779,12 +795,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 301333,
+      "num": 764140,
+      "word": "男子欲取现20万还没出银行就被抓",
+      "onboard_time": 1722825142,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297166,
       "num": 3218504,
       "word": "五冠教练Gemini",
       "onboard_time": 1722789502,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 279774,
+      "num": 279774,
+      "word": "啥都不行潘展乐",
+      "onboard_time": 1722826163,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 278409,
@@ -801,14 +833,6 @@
       "onboard_time": 1722783996,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 274517,
-      "num": 751427,
-      "word": "裴珍映退团",
-      "onboard_time": 1722824723,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 266200,
@@ -835,12 +859,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 233930,
-      "num": 756886,
-      "word": "男子欲取现20万还没出银行就被抓",
+      "raw_hot": 232146,
+      "num": 521023,
+      "word": "35岁正是藏不住肉的年纪",
       "onboard_time": 1722825142,
-      "rank": 9,
-      "category": "社会新闻"
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 228001,
@@ -857,14 +881,6 @@
       "onboard_time": 1722802511,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 223460,
-      "num": 370999,
-      "word": "剑网3",
-      "onboard_time": 1722825262,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 221769,
@@ -963,6 +979,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198143,
+      "num": 569154,
+      "word": "唐诡播完后卢凌风戒断反应",
+      "onboard_time": 1722825022,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 198000,
+      "num": 278900,
+      "word": "王一博到了肖战拍陈情令的年纪",
+      "onboard_time": 1722826042,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195717,
       "num": 195717,
       "word": "潘展乐游了45秒92",
@@ -971,19 +1003,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 194470,
-      "num": 569154,
-      "word": "唐诡播完后卢凌风戒断反应",
-      "onboard_time": 1722825022,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 187728,
-      "num": 364212,
-      "word": "35岁正是藏不住肉的年纪",
-      "onboard_time": 1722825142,
-      "rank": 39,
+      "raw_hot": 184375,
+      "num": 278147,
+      "word": "第一次见男女主边亲边恨",
+      "onboard_time": 1722825861,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -1073,6 +1097,14 @@
       "onboard_time": 1722824489,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158484,
+      "num": 276929,
+      "word": "跳进地理书的旅行3定档",
+      "onboard_time": 1722826163,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 156447,
@@ -1179,6 +1211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96364,
+      "num": 951611,
+      "word": "中国女排你行的",
+      "onboard_time": 1722820883,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94929,
       "num": 94929,
       "word": "潘展乐孙佳俊十指相扣",
@@ -1195,26 +1235,18 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 91444,
-      "num": 120813,
-      "word": "樊振东舅舅连说9个真的祝贺夺冠",
-      "onboard_time": 1722809773,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 89087,
-      "num": 754333,
+      "raw_hot": 92121,
+      "num": 758531,
       "word": "中国第19金",
       "onboard_time": 1722823223,
       "rank": 14,
       "category": "体育"
     },
     {
-      "raw_hot": 85140,
-      "num": 951611,
-      "word": "中国女排你行的",
-      "onboard_time": 1722820883,
+      "raw_hot": 91444,
+      "num": 120813,
+      "word": "樊振东舅舅连说9个真的祝贺夺冠",
+      "onboard_time": 1722809773,
       "rank": 45,
       "category": "体育"
     },
@@ -1297,6 +1329,14 @@
       "onboard_time": 1722792862,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 28632,
+      "num": 419599,
+      "word": "3儿童遇害英国多地爆发骚乱",
+      "onboard_time": 1722825923,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6906,

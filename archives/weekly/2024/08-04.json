@@ -1,6 +1,6 @@
 {
   "startTime": 1722702313981,
-  "endTime": 1722825588849,
+  "endTime": 1722826187863,
   "band_list": [
     {
       "raw_hot": 35169209,
@@ -891,6 +891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1628498,
+      "num": 1628498,
+      "word": "对方教练 正常她不会赢",
+      "onboard_time": 1722824182,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1619566,
       "num": 1619566,
       "word": "陈梦翡翠项链寓意巴黎圆满",
@@ -1323,6 +1331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 975870,
+      "num": 750270,
+      "word": "谷爱凌和潘展乐握手",
+      "onboard_time": 1722824302,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 963616,
       "num": 963616,
       "word": "樊振东夺冠 福原爱跳舞庆祝",
@@ -1368,14 +1384,6 @@
       "word": "小胖冲击大满贯",
       "onboard_time": 1722744744,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 905840,
-      "num": 753428,
-      "word": "对方教练 正常她不会赢",
-      "onboard_time": 1722824182,
-      "rank": 15,
       "category": "体育"
     },
     {
@@ -1467,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 782421,
+      "num": 782421,
+      "word": "专家称2023年出现补偿性结婚潮",
+      "onboard_time": 1722823043,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 771151,
       "num": 711666,
       "word": "中国拳击女队已锁定4枚奖牌",
@@ -1489,14 +1505,6 @@
       "onboard_time": 1722759983,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 758061,
-      "num": 758061,
-      "word": "专家称2023年出现补偿性结婚潮",
-      "onboard_time": 1722823043,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 755445,
@@ -1731,14 +1739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 614170,
-      "num": 614170,
-      "word": "谷爱凌和潘展乐握手",
-      "onboard_time": 1722824302,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 611937,
       "num": 611937,
       "word": "张雨霏辣评中国游泳队现状",
@@ -1812,7 +1812,7 @@
     },
     {
       "raw_hot": 547580,
-      "num": 755732,
+      "num": 776497,
       "word": "吴千语施伯雄婚礼现场照",
       "onboard_time": 1722824363,
       "rank": 11,
@@ -2147,6 +2147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 410548,
+      "num": 614188,
+      "word": "爸爸说解决了小猫掉毛的问题",
+      "onboard_time": 1722822323,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 410150,
       "num": 410150,
       "word": "王皓樊振东 谁能不老泪纵横",
@@ -2323,14 +2331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 384454,
-      "num": 614188,
-      "word": "爸爸说解决了小猫掉毛的问题",
-      "onboard_time": 1722822323,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 380781,
       "num": 847533,
       "word": "李钟硕两年半没拍戏",
@@ -2475,6 +2475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 346375,
+      "num": 769107,
+      "word": "裴珍映退团",
+      "onboard_time": 1722824723,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 342647,
       "num": 608317,
       "word": "孙丞潇切了100人份的冬瓜",
@@ -2497,6 +2505,14 @@
       "onboard_time": 1722750022,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 340138,
+      "num": 1359491,
+      "word": "王一博人生中第27个夏天",
+      "onboard_time": 1722814342,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 338302,
@@ -2529,14 +2545,6 @@
       "onboard_time": 1722772526,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 333494,
-      "num": 1359491,
-      "word": "王一博人生中第27个夏天",
-      "onboard_time": 1722814342,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 333301,
@@ -2627,6 +2635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 308903,
+      "num": 370999,
+      "word": "剑网3",
+      "onboard_time": 1722825262,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 308556,
       "num": 2389998,
       "word": "23斤多冰毒竟被编进地毯里",
@@ -2681,6 +2697,14 @@
       "onboard_time": 1722734784,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 301333,
+      "num": 764140,
+      "word": "男子欲取现20万还没出银行就被抓",
+      "onboard_time": 1722825142,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 299029,
@@ -2795,6 +2819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 279774,
+      "num": 279774,
+      "word": "啥都不行潘展乐",
+      "onboard_time": 1722826163,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 279092,
       "num": 279092,
       "word": "以闪亮之名美人鱼",
@@ -2817,14 +2849,6 @@
       "onboard_time": 1722750203,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 274517,
-      "num": 751427,
-      "word": "裴珍映退团",
-      "onboard_time": 1722824723,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 270888,
@@ -3059,12 +3083,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 233930,
-      "num": 756886,
-      "word": "男子欲取现20万还没出银行就被抓",
+      "raw_hot": 232146,
+      "num": 521023,
+      "word": "35岁正是藏不住肉的年纪",
       "onboard_time": 1722825142,
-      "rank": 9,
-      "category": "社会新闻"
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 229184,
@@ -3113,14 +3137,6 @@
       "onboard_time": 1722763943,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 223460,
-      "num": 370999,
-      "word": "剑网3",
-      "onboard_time": 1722825262,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 221769,
@@ -3363,6 +3379,22 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 198143,
+      "num": 569154,
+      "word": "唐诡播完后卢凌风戒断反应",
+      "onboard_time": 1722825022,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 198000,
+      "num": 278900,
+      "word": "王一博到了肖战拍陈情令的年纪",
+      "onboard_time": 1722826042,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196708,
       "num": 196708,
       "word": "2024PEL秋季赛大名单",
@@ -3395,14 +3427,6 @@
       "category": "美食,财经"
     },
     {
-      "raw_hot": 194470,
-      "num": 569154,
-      "word": "唐诡播完后卢凌风戒断反应",
-      "onboard_time": 1722825022,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 194412,
       "num": 194412,
       "word": "杭州打雷",
@@ -3433,14 +3457,6 @@
       "onboard_time": 1722755183,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 187728,
-      "num": 364212,
-      "word": "35岁正是藏不住肉的年纪",
-      "onboard_time": 1722825142,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 187611,
@@ -3481,6 +3497,14 @@
       "onboard_time": 1722742883,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 184375,
+      "num": 278147,
+      "word": "第一次见男女主边亲边恨",
+      "onboard_time": 1722825861,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 184321,
@@ -3697,6 +3721,14 @@
       "onboard_time": 1722824489,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158484,
+      "num": 276929,
+      "word": "跳进地理书的旅行3定档",
+      "onboard_time": 1722826163,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 157321,
@@ -4003,6 +4035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96364,
+      "num": 951611,
+      "word": "中国女排你行的",
+      "onboard_time": 1722820883,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94929,
       "num": 94929,
       "word": "潘展乐孙佳俊十指相扣",
@@ -4033,6 +4073,14 @@
       "onboard_time": 1722792145,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 92121,
+      "num": 758531,
+      "word": "中国第19金",
+      "onboard_time": 1722823223,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 91907,
@@ -4067,14 +4115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 89087,
-      "num": 754333,
-      "word": "中国第19金",
-      "onboard_time": 1722823223,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 88792,
       "num": 844791,
       "word": "康定山洪泥石流致4人遇难23人失联",
@@ -4096,14 +4136,6 @@
       "word": "孙杨期待覃海洋决赛保持好状态",
       "onboard_time": 1722755183,
       "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 85140,
-      "num": 951611,
-      "word": "中国女排你行的",
-      "onboard_time": 1722820883,
-      "rank": 45,
       "category": "体育"
     },
     {
@@ -4377,6 +4409,14 @@
       "onboard_time": 1722755843,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 28632,
+      "num": 419599,
+      "word": "3儿童遇害英国多地爆发骚乱",
+      "onboard_time": 1722825923,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19849,
