@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1722883207001,
+  "endTime": 1722885543138,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -10035,6 +10035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 304949,
+      "num": 304949,
+      "word": "女子铁饼决赛",
+      "onboard_time": 1722883932,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 304879,
       "num": 1245756,
       "word": "唐诡2 反杀",
@@ -11771,6 +11779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228236,
+      "num": 228236,
+      "word": "撑竿跳帅哥",
+      "onboard_time": 1722882793,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 228001,
       "num": 228001,
       "word": "张之臻发球好牛",
@@ -13379,6 +13395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179583,
+      "num": 104328,
+      "word": "花样游泳 好看",
+      "onboard_time": 1722883093,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178766,
       "num": 195714,
       "word": "十天之后回到现实",
@@ -13560,6 +13584,14 @@
       "word": "德约科维奇晋级奥运四强",
       "onboard_time": 1722626113,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 170998,
+      "num": 104258,
+      "word": "中国花游团体技术自选第一",
+      "onboard_time": 1722883454,
+      "rank": 17,
       "category": "体育"
     },
     {
@@ -14307,6 +14339,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 126387,
+      "num": 103319,
+      "word": "冯彬66米33",
+      "onboard_time": 1722884711,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 126061,
+      "num": 101858,
+      "word": "安洗莹炮轰韩国羽协",
+      "onboard_time": 1722884172,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126053,
       "num": 126053,
       "word": "百米飞人大战",
@@ -14416,14 +14464,6 @@
       "word": "法国男排vs德国男排",
       "onboard_time": 1722878420,
       "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 115412,
-      "num": 101249,
-      "word": "撑竿跳帅哥",
-      "onboard_time": 1722882793,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -14603,6 +14643,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 104881,
+      "num": 213166,
+      "word": "儿慈会要求陪睡才捐款的录音是假的",
+      "onboard_time": 1722880635,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104661,
       "num": 104661,
       "word": "李冰洁第5",
@@ -14664,14 +14712,6 @@
       "word": "国乒女团开门红",
       "onboard_time": 1722868471,
       "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 101249,
-      "num": 101248,
-      "word": "花样游泳 好看",
-      "onboard_time": 1722883093,
-      "rank": 31,
       "category": "体育"
     },
     {
@@ -14915,6 +14955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83135,
+      "num": 83135,
+      "word": "中国花游队遥遥领先",
+      "onboard_time": 1722885373,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81673,
       "num": 81673,
       "word": "贾一凡恭喜樊振东",
@@ -15121,6 +15169,14 @@
       "onboard_time": 1722451993,
       "rank": 9,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 67887,
+      "num": 67887,
+      "word": "杜普兰蒂斯好帅",
+      "onboard_time": 1722884652,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 67058,
@@ -15683,6 +15739,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 42718,
+      "num": 102494,
+      "word": "千金府",
+      "onboard_time": 1722883032,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
       "raw_hot": 42508,
       "num": 782616,
       "word": "羽毛球女单决赛好焦灼",
@@ -15713,14 +15777,6 @@
       "onboard_time": 1722576921,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 41452,
-      "num": 213166,
-      "word": "儿慈会要求陪睡才捐款的录音是假的",
-      "onboard_time": 1722880635,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41134,
@@ -15857,14 +15913,6 @@
       "onboard_time": 1722453973,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 36989,
-      "num": 65248,
-      "word": "千金府",
-      "onboard_time": 1722883032,
-      "rank": 47,
-      "category": "网红"
     },
     {
       "raw_hot": 36987,
@@ -16091,6 +16139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 26791,
+      "num": 464024,
+      "word": "2024电影票房破300亿",
+      "onboard_time": 1722866368,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26756,
       "num": 924974,
       "word": "低价团拒收年轻人",
@@ -16216,14 +16272,6 @@
       "word": "韩裔女子在美遭性侵后被捅40多刀",
       "onboard_time": 1722480324,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16310,
-      "num": 464024,
-      "word": "2024电影票房破300亿",
-      "onboard_time": 1722866368,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

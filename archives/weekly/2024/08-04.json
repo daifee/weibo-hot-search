@@ -1,6 +1,6 @@
 {
   "startTime": 1722702313981,
-  "endTime": 1722883207001,
+  "endTime": 1722885543138,
   "band_list": [
     {
       "raw_hot": 35169209,
@@ -4171,6 +4171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 304949,
+      "num": 304949,
+      "word": "女子铁饼决赛",
+      "onboard_time": 1722883932,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 304621,
       "num": 993302,
       "word": "陈思诚 猫和老鼠",
@@ -4896,6 +4904,14 @@
       "word": "陈梦为何能顶住压力战胜孙颖莎夺冠",
       "onboard_time": 1722736282,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 228236,
+      "num": 228236,
+      "word": "撑竿跳帅哥",
+      "onboard_time": 1722882793,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -5691,6 +5707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179583,
+      "num": 104328,
+      "word": "花样游泳 好看",
+      "onboard_time": 1722883093,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178579,
       "num": 656035,
       "word": "Jasper模仿陈小春臭脸",
@@ -5809,6 +5833,14 @@
       "onboard_time": 1722853225,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 170998,
+      "num": 104258,
+      "word": "中国花游团体技术自选第一",
+      "onboard_time": 1722883454,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 170408,
@@ -6291,6 +6323,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126387,
+      "num": 103319,
+      "word": "冯彬66米33",
+      "onboard_time": 1722884711,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 126061,
+      "num": 101858,
+      "word": "安洗莹炮轰韩国羽协",
+      "onboard_time": 1722884172,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126053,
       "num": 126053,
       "word": "百米飞人大战",
@@ -6344,14 +6392,6 @@
       "word": "法国男排vs德国男排",
       "onboard_time": 1722878420,
       "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 115412,
-      "num": 101249,
-      "word": "撑竿跳帅哥",
-      "onboard_time": 1722882793,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -6427,6 +6467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104881,
+      "num": 213166,
+      "word": "儿慈会要求陪睡才捐款的录音是假的",
+      "onboard_time": 1722880635,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104218,
       "num": 344658,
       "word": "中国第16金",
@@ -6464,14 +6512,6 @@
       "word": "国乒女团开门红",
       "onboard_time": 1722868471,
       "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 101249,
-      "num": 101248,
-      "word": "花样游泳 好看",
-      "onboard_time": 1722883093,
-      "rank": 31,
       "category": "体育"
     },
     {
@@ -6619,6 +6659,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 83135,
+      "num": 83135,
+      "word": "中国花游队遥遥领先",
+      "onboard_time": 1722885373,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81673,
       "num": 81673,
       "word": "贾一凡恭喜樊振东",
@@ -6729,6 +6777,14 @@
       "onboard_time": 1722749662,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 67887,
+      "num": 67887,
+      "word": "杜普兰蒂斯好帅",
+      "onboard_time": 1722884652,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 67058,
@@ -6995,6 +7051,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 42718,
+      "num": 102494,
+      "word": "千金府",
+      "onboard_time": 1722883032,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
       "raw_hot": 42508,
       "num": 782616,
       "word": "羽毛球女单决赛好焦灼",
@@ -7009,14 +7073,6 @@
       "onboard_time": 1722744384,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 41452,
-      "num": 213166,
-      "word": "儿慈会要求陪睡才捐款的录音是假的",
-      "onboard_time": 1722880635,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40992,
@@ -7065,14 +7121,6 @@
       "onboard_time": 1722849084,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36989,
-      "num": 65248,
-      "word": "千金府",
-      "onboard_time": 1722883032,
-      "rank": 47,
-      "category": "网红"
     },
     {
       "raw_hot": 36987,
@@ -7171,6 +7219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26791,
+      "num": 464024,
+      "word": "2024电影票房破300亿",
+      "onboard_time": 1722866368,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22648,
       "num": 631691,
       "word": "李政道曾为长城捐款",
@@ -7185,14 +7241,6 @@
       "onboard_time": 1722711975,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 16310,
-      "num": 464024,
-      "word": "2024电影票房破300亿",
-      "onboard_time": 1722866368,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13408,
