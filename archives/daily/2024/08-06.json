@@ -1,6 +1,6 @@
 {
   "startTime": 1722875081704,
-  "endTime": 1722882456934,
+  "endTime": 1722883207001,
   "band_list": [
     {
       "raw_hot": 5783219,
@@ -123,6 +123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 680169,
+      "num": 402363,
+      "word": "教练去世徐嘉余独自训练8个月",
+      "onboard_time": 1722879915,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 637675,
       "num": 442603,
       "word": "全红婵陈芋汐 教科书",
@@ -147,14 +155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 570230,
-      "num": 402363,
-      "word": "教练去世徐嘉余独自训练8个月",
-      "onboard_time": 1722879915,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 452113,
       "num": 425802,
       "word": "韩国选手错失奥运奖牌仰面哭泣",
@@ -176,6 +176,14 @@
       "word": "潘展乐 现脱现签",
       "onboard_time": 1722866431,
       "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 418155,
+      "num": 418155,
+      "word": "花样游泳",
+      "onboard_time": 1722880696,
+      "rank": 15,
       "category": "体育"
     },
     {
@@ -307,14 +315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 259248,
-      "num": 127535,
-      "word": "花样游泳",
-      "onboard_time": 1722880696,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 250642,
       "num": 250642,
       "word": "全红婵半决赛第一",
@@ -435,12 +435,28 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 155980,
+      "num": 405802,
+      "word": "虐待2岁女童致死凶手无精神病",
+      "onboard_time": 1722880935,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150455,
       "num": 305089,
       "word": "广东一高速发生多车相撞事故",
       "onboard_time": 1722870867,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147646,
+      "num": 116095,
+      "word": "黄博凯5米80创PB",
+      "onboard_time": 1722881773,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 143927,
@@ -499,19 +515,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116095,
-      "num": 116095,
-      "word": "黄博凯5米80创PB",
-      "onboard_time": 1722881773,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 116025,
       "num": 116025,
       "word": "法国男排vs德国男排",
       "onboard_time": 1722878420,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 115412,
+      "num": 101249,
+      "word": "撑竿跳帅哥",
+      "onboard_time": 1722882793,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -539,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101249,
+      "num": 101248,
+      "word": "花样游泳 好看",
+      "onboard_time": 1722883093,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97085,
       "num": 126486,
       "word": "像素画室",
@@ -563,14 +587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77985,
-      "num": 405802,
-      "word": "虐待2岁女童致死凶手无精神病",
-      "onboard_time": 1722880935,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 72745,
       "num": 938294,
       "word": "国产HPV疫苗降价至一杯奶茶钱",
@@ -587,12 +603,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 64480,
+      "raw_hot": 65607,
       "num": 75633,
       "word": "张博恒单杠13.966分",
       "onboard_time": 1722882312,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41452,
+      "num": 213166,
+      "word": "儿慈会要求陪睡才捐款的录音是假的",
+      "onboard_time": 1722880635,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38671,
@@ -603,12 +627,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 37397,
-      "num": 75456,
-      "word": "儿慈会要求陪睡才捐款的录音是假的",
-      "onboard_time": 1722880635,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 36989,
+      "num": 65248,
+      "word": "千金府",
+      "onboard_time": 1722883032,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 29400,
@@ -624,6 +648,14 @@
       "word": "李政道曾为长城捐款",
       "onboard_time": 1722877458,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16310,
+      "num": 464024,
+      "word": "2024电影票房破300亿",
+      "onboard_time": 1722866368,
+      "rank": 2,
       "category": "社会新闻"
     }
   ],
