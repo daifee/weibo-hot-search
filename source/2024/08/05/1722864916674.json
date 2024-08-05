@@ -1,0 +1,410 @@
+{
+  "runTime": 1722864916674,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7552955,
+        "num": 7885379,
+        "word": "张博恒体操男子单杠铜牌",
+        "onboard_time": 1722860911,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4513558,
+        "num": 4513558,
+        "word": "苏炜德失误",
+        "onboard_time": 1722861330,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16280,
+        "num": 4086628,
+        "word": "神十八乘组在空间站里都忙些啥",
+        "onboard_time": 1722843563,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3882392,
+        "num": 3882392,
+        "word": "国乒女团vs埃及",
+        "onboard_time": 1722862587,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2840229,
+        "num": 2840229,
+        "word": "孙颖莎一单",
+        "onboard_time": 1722863485,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2240588,
+        "num": 2240588,
+        "word": "5.8难度的金牌",
+        "onboard_time": 1722860609,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 836621,
+        "num": 836621,
+        "word": "山东省属事业单位收回事业编制",
+        "onboard_time": 1722855863,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592854,
+        "num": 822037,
+        "word": "倪夏莲回应张学友模仿自己名场面",
+        "onboard_time": 1722859764,
+        "rank": 7,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 58401,
+        "num": 808732,
+        "word": "陈梦王曼昱3比0埃及组合",
+        "onboard_time": 1722864509,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221900,
+        "num": 788050,
+        "word": "张杰回复奥运健儿点歌",
+        "onboard_time": 1722858625,
+        "rank": 9,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 269538,
+        "num": 774168,
+        "word": "离岸人民币升破7.1元关口",
+        "onboard_time": 1722859764,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 171536,
+        "num": 751905,
+        "word": "女子速度攀岩比赛攀岩表坏了",
+        "onboard_time": 1722864268,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189320,
+        "num": 724225,
+        "word": "中国队混合团体双向飞碟铜牌",
+        "onboard_time": 1722864087,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307067,
+        "num": 703347,
+        "word": "国乒女团首战",
+        "onboard_time": 1722863728,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 698644,
+        "num": 698644,
+        "word": "美国偶遇黄子韬徐艺洋一家",
+        "onboard_time": 1722853767,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2145197,
+        "num": 698296,
+        "word": "平衡木 掉木",
+        "onboard_time": 1722855863,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1892476,
+        "num": 697144,
+        "word": "刘璇要哭了",
+        "onboard_time": 1722862646,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214720,
+        "num": 696077,
+        "word": "鞠婧祎新杂志销量",
+        "onboard_time": 1722854066,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190943,
+        "num": 695648,
+        "word": "白鹿曾舜晞祝对方杀青快乐",
+        "onboard_time": 1722864327,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190090,
+        "num": 694376,
+        "word": "SJM回归",
+        "onboard_time": 1722858863,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 539682,
+        "num": 693733,
+        "word": "女子10米跳台半决赛",
+        "onboard_time": 1722863306,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1761927,
+        "num": 692252,
+        "word": "体操男子单杠决赛",
+        "onboard_time": 1722856703,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1435071,
+        "num": 691193,
+        "word": "韩国选手错失奥运奖牌仰面哭泣",
+        "onboard_time": 1722860609,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1379974,
+        "num": 689936,
+        "word": "拜尔斯掉木",
+        "onboard_time": 1722856823,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1193721,
+        "num": 689088,
+        "word": "张博恒没站稳",
+        "onboard_time": 1722860430,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1103084,
+        "num": 688108,
+        "word": "军书十二卷 卷卷有茶名",
+        "onboard_time": 1722855268,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 439717,
+        "num": 687154,
+        "word": "国产HPV疫苗降价至一杯奶茶钱",
+        "onboard_time": 1722851064,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229199,
+        "num": 686233,
+        "word": "央视游泳比赛也有潘展乐同款逆袭",
+        "onboard_time": 1722861927,
+        "rank": 27,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 1100927,
+        "num": 685256,
+        "word": "女子自由体操决赛",
+        "onboard_time": 1722861031,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26563,
+        "num": 684818,
+        "word": "3分钟的秀教会我100种穿搭",
+        "onboard_time": 1722863247,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 849698,
+        "num": 683314,
+        "word": "潘展乐回应乐乐家族",
+        "onboard_time": 1722863126,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 794123,
+        "num": 682897,
+        "word": "陈丽君回应周深粉丝",
+        "onboard_time": 1722862706,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 681949,
+        "num": 681949,
+        "word": "樊振东回应贾一凡",
+        "onboard_time": 1722856763,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 660455,
+        "num": 660455,
+        "word": "何冰娇带西班牙徽章上领奖台",
+        "onboard_time": 1722858863,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152333,
+        "num": 644069,
+        "word": "浙江是中国游泳的定海神针",
+        "onboard_time": 1722862827,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638470,
+        "num": 638470,
+        "word": "壮壮妈好稳",
+        "onboard_time": 1722862047,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 606093,
+        "num": 606093,
+        "word": "中新网连麦潘展乐",
+        "onboard_time": 1722863485,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 520197,
+        "num": 520197,
+        "word": "潘展乐又又又来告状了",
+        "onboard_time": 1722834204,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279527,
+        "num": 493504,
+        "word": "李政道逝世",
+        "onboard_time": 1722845610,
+        "rank": 38,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 485505,
+        "num": 485505,
+        "word": "周雅琴银牌",
+        "onboard_time": 1722857367,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165459,
+        "num": 483875,
+        "word": "黄子弘凡小学的愿望实现了",
+        "onboard_time": 1722862587,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 483508,
+        "num": 483508,
+        "word": "女子10米台跳水预赛",
+        "onboard_time": 1722844705,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 382347,
+        "num": 382347,
+        "word": "心疼茶茶",
+        "onboard_time": 1722862347,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263485,
+        "num": 381990,
+        "word": "女子入职5个月后因怀孕10天没到岗",
+        "onboard_time": 1722855268,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250755,
+        "num": 380728,
+        "word": "有影院拒绝播映逆行人生",
+        "onboard_time": 1722853466,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198051,
+        "num": 380141,
+        "word": "华为发布会",
+        "onboard_time": 1722860248,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 169413,
+        "num": 379493,
+        "word": "王一博工作室发庆生视频",
+        "onboard_time": 1722860310,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155412,
+        "num": 378579,
+        "word": "易烊千玺A甜反差",
+        "onboard_time": 1722864629,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144360,
+        "num": 376841,
+        "word": "指甲油瓶底可以提前试色",
+        "onboard_time": 1722863907,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 11174,
+        "num": 376804,
+        "word": "Get多角度拍照的出片秘诀",
+        "onboard_time": 1722864868,
+        "rank": 49,
+        "category": "休闲"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革为人民#"
+    }
+  }
+}
