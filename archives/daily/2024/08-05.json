@@ -1,6 +1,6 @@
 {
   "startTime": 1722788553409,
-  "endTime": 1722867480764,
+  "endTime": 1722868618378,
   "band_list": [
     {
       "raw_hot": 16751358,
@@ -27,19 +27,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 13033333,
+      "num": 13033333,
+      "word": "孙颖莎一单",
+      "onboard_time": 1722863485,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 12126778,
       "num": 12126778,
       "word": "王昶梁伟铿决赛",
       "onboard_time": 1722781893,
       "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 11736455,
-      "num": 11736455,
-      "word": "孙颖莎一单",
-      "onboard_time": 1722863485,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -243,6 +243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3066436,
+      "num": 3066436,
+      "word": "孙颖莎胳膊",
+      "onboard_time": 1722866669,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3066272,
       "num": 3066272,
       "word": "对方教练 正常她不会赢",
@@ -305,6 +313,14 @@
       "onboard_time": 1722785437,
       "rank": 18,
       "category": "体育,音乐"
+    },
+    {
+      "raw_hot": 2666426,
+      "num": 2666426,
+      "word": "苏炜德再次道歉",
+      "onboard_time": 1722865768,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 2584518,
@@ -547,14 +563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1751372,
-      "num": 1751372,
-      "word": "苏炜德再次道歉",
-      "onboard_time": 1722865768,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1709242,
       "num": 689936,
       "word": "拜尔斯掉木",
@@ -587,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1494076,
+      "num": 683314,
+      "word": "潘展乐回应乐乐家族",
+      "onboard_time": 1722863126,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1489690,
       "num": 1489690,
       "word": "莫雷加德心态崩了",
@@ -611,14 +627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1448673,
-      "num": 683314,
-      "word": "潘展乐回应乐乐家族",
-      "onboard_time": 1722863126,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1443249,
       "num": 1443249,
       "word": "潘展乐 我就说直说有用吧",
@@ -632,6 +640,14 @@
       "word": "樊振东回应贾一凡",
       "onboard_time": 1722856763,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1411947,
+      "num": 917962,
+      "word": "女子10米跳台半决赛",
+      "onboard_time": 1722863306,
+      "rank": 13,
       "category": "体育"
     },
     {
@@ -667,11 +683,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1239891,
-      "num": 917962,
-      "word": "女子10米跳台半决赛",
-      "onboard_time": 1722863306,
-      "rank": 13,
+      "raw_hot": 1298667,
+      "num": 495138,
+      "word": "王曼昱巴黎奥运首秀",
+      "onboard_time": 1722866188,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1251970,
+      "num": 484401,
+      "word": "王曼昱反手",
+      "onboard_time": 1722866969,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -747,19 +771,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1064555,
-      "num": 495138,
-      "word": "王曼昱巴黎奥运首秀",
-      "onboard_time": 1722866188,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1054384,
       "num": 745628,
       "word": "潘展乐卡点520发博",
       "onboard_time": 1722838403,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1051013,
+      "num": 808732,
+      "word": "陈梦王曼昱3比0埃及组合",
+      "onboard_time": 1722864509,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -795,6 +819,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1011923,
+      "num": 489281,
+      "word": "郑钦文回应父亲卖房给她打网球",
+      "onboard_time": 1722865950,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 998738,
+      "num": 475905,
+      "word": "孙颖莎状态",
+      "onboard_time": 1722867870,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 994025,
       "num": 994025,
       "word": "美国偶遇黄子韬徐艺洋一家",
@@ -808,14 +848,6 @@
       "word": "张继科直播",
       "onboard_time": 1722788904,
       "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 974087,
-      "num": 808732,
-      "word": "陈梦王曼昱3比0埃及组合",
-      "onboard_time": 1722864509,
-      "rank": 8,
       "category": "体育"
     },
     {
@@ -841,14 +873,6 @@
       "onboard_time": 1722839783,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 949683,
-      "num": 491075,
-      "word": "孙颖莎胳膊",
-      "onboard_time": 1722866669,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 948530,
@@ -880,6 +904,14 @@
       "word": "国羽巴黎2金3银收官",
       "onboard_time": 1722852804,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 894733,
+      "num": 471448,
+      "word": "孙颖莎3比1梅谢芙",
+      "onboard_time": 1722867033,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -915,12 +947,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 813519,
+      "num": 468058,
+      "word": "潘展乐 神的孩子在采访",
+      "onboard_time": 1722868591,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 794123,
       "num": 1487484,
       "word": "陈丽君回应周深粉丝",
       "onboard_time": 1722862706,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 790470,
+      "num": 483667,
+      "word": "潘展乐 现脱现签",
+      "onboard_time": 1722866431,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 786216,
@@ -1059,14 +1107,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 684825,
-      "num": 489281,
-      "word": "郑钦文回应父亲卖房给她打网球",
-      "onboard_time": 1722865950,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 681667,
       "num": 411212,
       "word": "许昕调侃王皓抱不动樊振东",
@@ -1187,14 +1227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 590598,
-      "num": 483667,
-      "word": "潘展乐 现脱现签",
-      "onboard_time": 1722866431,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 582334,
       "num": 439352,
       "word": "还王昶妈生微笑唇",
@@ -1216,14 +1248,6 @@
       "word": "全红婵陈芋汐携手晋级半决赛",
       "onboard_time": 1722853345,
       "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 574910,
-      "num": 481372,
-      "word": "王曼昱反手",
-      "onboard_time": 1722866969,
-      "rank": 32,
       "category": "体育"
     },
     {
@@ -1320,6 +1344,14 @@
       "word": "日本教练叫樊振东超级巨星",
       "onboard_time": 1722823464,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 519112,
+      "num": 464452,
+      "word": "奥运会难为埃及电视台了",
+      "onboard_time": 1722859885,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -1435,6 +1467,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 462075,
+      "num": 462075,
+      "word": "中国选手周娅菲需要重赛多爬一次",
+      "onboard_time": 1722867870,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 461894,
+      "num": 1639777,
+      "word": "原来这就是唇语的绝对语感",
+      "onboard_time": 1722865230,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 458799,
       "num": 458799,
       "word": "樊振东已经在NextLevel",
@@ -1456,6 +1504,14 @@
       "word": "真的有点怜爱张博恒",
       "onboard_time": 1722860911,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 453804,
+      "num": 453804,
+      "word": "羽毛球男单决赛",
+      "onboard_time": 1722867631,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -1523,19 +1579,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 425139,
+      "num": 425139,
+      "word": "王曼昱首秀状态",
+      "onboard_time": 1722868471,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 420138,
       "num": 420138,
       "word": "樊振东姆巴佩庆祝动作",
       "onboard_time": 1722779575,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 419414,
-      "num": 419414,
-      "word": "孙颖莎3比1梅谢芙",
-      "onboard_time": 1722867033,
-      "rank": 37,
       "category": "体育"
     },
     {
@@ -1664,14 +1720,6 @@
       "word": "原来乒乓球决赛还有串场表演",
       "onboard_time": 1722825323,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 391468,
-      "num": 373747,
-      "word": "奥运会难为埃及电视台了",
-      "onboard_time": 1722859885,
-      "rank": 42,
       "category": "体育"
     },
     {
@@ -1875,14 +1923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 347865,
-      "num": 508607,
-      "word": "原来这就是唇语的绝对语感",
-      "onboard_time": 1722865230,
-      "rank": 8,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 346375,
       "num": 769107,
       "word": "裴珍映退团",
@@ -1947,6 +1987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 335594,
+      "num": 504938,
+      "word": "麦迪娜一家三口新疆vlog",
+      "onboard_time": 1722867089,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 330944,
       "num": 301560,
       "word": "韩国人说潘展乐是鱼",
@@ -2004,7 +2052,7 @@
     },
     {
       "raw_hot": 314423,
-      "num": 501345,
+      "num": 504802,
       "word": "美股",
       "onboard_time": 1722865890,
       "rank": 14,
@@ -2363,14 +2411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 246971,
-      "num": 498281,
-      "word": "麦迪娜一家三口新疆vlog",
-      "onboard_time": 1722867089,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 246153,
       "num": 246153,
       "word": "孙杨说想重回赛场",
@@ -2675,6 +2715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202182,
+      "num": 486298,
+      "word": "吴宣仪周也谢可寅合照",
+      "onboard_time": 1722868050,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201512,
       "num": 286023,
       "word": "青环怕不是个恋综",
@@ -2755,6 +2803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195279,
+      "num": 480613,
+      "word": "檀健次粉丝视角",
+      "onboard_time": 1722867990,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 193399,
       "num": 275649,
       "word": "OMG淘汰",
@@ -2776,6 +2832,22 @@
       "word": "日韩股市怎么了",
       "onboard_time": 1722842843,
       "rank": 49,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 191965,
+      "num": 478955,
+      "word": "张泽禹登陆计划MV零镜头",
+      "onboard_time": 1722867510,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 190880,
+      "num": 483726,
+      "word": "纳斯达克",
+      "onboard_time": 1722867631,
+      "rank": 26,
       "category": "财经"
     },
     {
@@ -2844,7 +2916,7 @@
     },
     {
       "raw_hot": 181957,
-      "num": 363980,
+      "num": 1287545,
       "word": "伊朗对以打击或8月5日开始",
       "onboard_time": 1722853105,
       "rank": 46,
@@ -3075,12 +3147,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 147136,
+      "num": 408947,
+      "word": "美股七巨头股价暴跌",
+      "onboard_time": 1722867749,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 146269,
       "num": 393692,
       "word": "马丽百花奖最佳女主角",
       "onboard_time": 1722776971,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 145828,
+      "num": 402482,
+      "word": "王源直拍全场大合唱",
+      "onboard_time": 1722868529,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 143405,
@@ -3192,6 +3280,22 @@
       "word": "原来北京中轴线也亮相过奥运会",
       "onboard_time": 1722826222,
       "rank": 2,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 101468,
+      "num": 507546,
+      "word": "飞行学院毕业生转行开面包车",
+      "onboard_time": 1722866431,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101280,
+      "num": 677872,
+      "word": "国乒女团开门红",
+      "onboard_time": 1722868471,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -3355,14 +3459,6 @@
       "category": "电影,体育"
     },
     {
-      "raw_hot": 50000,
-      "num": 507546,
-      "word": "飞行学院毕业生转行开面包车",
-      "onboard_time": 1722866431,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 48915,
       "num": 457947,
       "word": "看樊振东比赛的标配",
@@ -3412,7 +3508,7 @@
     },
     {
       "raw_hot": 45121,
-      "num": 486810,
+      "num": 501522,
       "word": "跨界还是华为会玩",
       "onboard_time": 1722866551,
       "rank": 27,
@@ -3531,6 +3627,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 31535,
+      "num": 499488,
+      "word": "Get多角度拍照的出片秘诀",
+      "onboard_time": 1722864868,
+      "rank": 49,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 30320,
       "num": 350705,
       "word": "樊振东大满贯手绘",
@@ -3547,20 +3651,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27366,
-      "num": 499488,
-      "word": "Get多角度拍照的出片秘诀",
-      "onboard_time": 1722864868,
-      "rank": 49,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 6906,
       "num": 1045226,
       "word": "熊猫幼崽逃跑被妈妈一路拖回家",
       "onboard_time": 1722780101,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 6200,
+      "num": 502368,
+      "word": "国乒女团首秀光速下班",
+      "onboard_time": 1722868529,
+      "rank": 14,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
