@@ -1,6 +1,6 @@
 {
   "startTime": 1722875081704,
-  "endTime": 1722897379325,
+  "endTime": 1722900080944,
   "band_list": [
     {
       "raw_hot": 5783219,
@@ -27,6 +27,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2408140,
+      "num": 2408140,
+      "word": "教练去世徐嘉余独自训练8个月",
+      "onboard_time": 1722879915,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2219827,
       "num": 2219827,
       "word": "潘展乐 神的孩子在采访",
@@ -43,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1916995,
+      "num": 1916995,
+      "word": "郑钦文无缘闭幕式旗手",
+      "onboard_time": 1722878835,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1598206,
       "num": 1598206,
       "word": "全红婵陈芋汐10米台晋级决赛",
@@ -51,27 +67,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1218006,
-      "num": 1218006,
-      "word": "郑钦文无缘闭幕式旗手",
-      "onboard_time": 1722878835,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1151213,
       "num": 1151213,
       "word": "张博恒回应被送错场馆",
       "onboard_time": 1722871405,
       "rank": 6,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1130241,
-      "num": 1130241,
-      "word": "教练去世徐嘉余独自训练8个月",
-      "onboard_time": 1722879915,
-      "rank": 10,
       "category": "体育"
     },
     {
@@ -96,6 +96,14 @@
       "word": "苏炜德再次道歉",
       "onboard_time": 1722865768,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 914380,
+      "num": 332154,
+      "word": "安洗莹炮轰韩国羽协",
+      "onboard_time": 1722884172,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -155,14 +163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 475713,
-      "num": 148509,
-      "word": "安洗莹炮轰韩国羽协",
-      "onboard_time": 1722884172,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 452113,
       "num": 425802,
       "word": "韩国选手错失奥运奖牌仰面哭泣",
@@ -177,6 +177,14 @@
       "onboard_time": 1722872005,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 436576,
+      "num": 436576,
+      "word": "中国花游队遥遥领先",
+      "onboard_time": 1722885373,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 419298,
@@ -291,6 +299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 304683,
+      "num": 237579,
+      "word": "撑竿跳帅哥",
+      "onboard_time": 1722882793,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 304445,
       "num": 304445,
       "word": "孙颖莎3比1梅谢芙",
@@ -339,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 263118,
+      "num": 263118,
+      "word": "杨志刚在看唐诡3的剧本了",
+      "onboard_time": 1722877997,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 259542,
       "num": 259542,
       "word": "中国选手周娅菲需要重赛多爬一次",
@@ -360,14 +384,6 @@
       "word": "撑竿跳",
       "onboard_time": 1722878536,
       "rank": 16,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 237579,
-      "num": 237579,
-      "word": "撑竿跳帅哥",
-      "onboard_time": 1722882793,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -411,11 +427,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 221006,
-      "num": 221006,
-      "word": "中国花游队遥遥领先",
-      "onboard_time": 1722885373,
-      "rank": 36,
+      "raw_hot": 214647,
+      "num": 123509,
+      "word": "全红婵比赛前一天在拆乌龟盲盒",
+      "onboard_time": 1722894671,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -435,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197347,
+      "num": 122482,
+      "word": "外国人都看不下去了",
+      "onboard_time": 1722895581,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193575,
       "num": 308605,
       "word": "UNIQ祝王一博生日快乐",
@@ -448,6 +472,14 @@
       "word": "中国花游团体技术自选第一",
       "onboard_time": 1722883454,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 187810,
+      "num": 114941,
+      "word": "冯彬带伤夺银",
+      "onboard_time": 1722899839,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -481,6 +513,14 @@
       "onboard_time": 1722860430,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173300,
+      "num": 173300,
+      "word": "伊朗",
+      "onboard_time": 1722876919,
+      "rank": 33,
+      "category": "国外时政"
     },
     {
       "raw_hot": 170331,
@@ -539,14 +579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143927,
-      "num": 143927,
-      "word": "伊朗",
-      "onboard_time": 1722876919,
-      "rank": 33,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 134265,
       "num": 304547,
       "word": "李政道逝世",
@@ -587,12 +619,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 120984,
-      "num": 173427,
-      "word": "杨志刚在看唐诡3的剧本了",
-      "onboard_time": 1722877997,
-      "rank": 45,
-      "category": "剧集"
+      "raw_hot": 123892,
+      "num": 112836,
+      "word": "孙颖莎说团体第一场发挥正常",
+      "onboard_time": 1722899839,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 121625,
+      "num": 213166,
+      "word": "儿慈会要求陪睡才捐款的录音是假的",
+      "onboard_time": 1722880635,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120672,
@@ -611,11 +651,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 110116,
-      "num": 110116,
-      "word": "全红婵比赛前一天在拆乌龟盲盒",
-      "onboard_time": 1722894671,
-      "rank": 35,
+      "raw_hot": 114865,
+      "num": 112811,
+      "word": "射击运动员又水灵灵地被艾特了",
+      "onboard_time": 1722899839,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -635,14 +675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 104881,
-      "num": 213166,
-      "word": "儿慈会要求陪睡才捐款的录音是假的",
-      "onboard_time": 1722880635,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97085,
       "num": 126486,
       "word": "像素画室",
@@ -659,8 +691,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82147,
-      "num": 82147,
+      "raw_hot": 82200,
+      "num": 112759,
       "word": "潘展乐这能说吗2.0",
       "onboard_time": 1722893232,
       "rank": 30,
@@ -681,6 +713,14 @@
       "onboard_time": 1722886032,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75802,
+      "num": 112730,
+      "word": "男子殴打妻子致死案最新进展",
+      "onboard_time": 1722888671,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72854,
@@ -715,19 +755,27 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55564,
-      "num": 61339,
-      "word": "外国人都看不下去了",
-      "onboard_time": 1722895581,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 61613,
+      "num": 794518,
+      "word": "2024电影票房破300亿",
+      "onboard_time": 1722866368,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 52667,
-      "num": 65707,
-      "word": "男子殴打妻子致死案最新进展",
-      "onboard_time": 1722888671,
+      "raw_hot": 57410,
+      "num": 112696,
+      "word": "苹果创近两年最大单日跌幅",
+      "onboard_time": 1722899968,
       "rank": 49,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 49127,
+      "num": 341909,
+      "word": "男子买42万黄金寄出警察冲上门劝阻",
+      "onboard_time": 1722896233,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -771,14 +819,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 33299,
-      "num": 596690,
-      "word": "2024电影票房破300亿",
-      "onboard_time": 1722866368,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 32122,
       "num": 37148,
       "word": "家里有8只羊在等潘展乐",
@@ -808,14 +848,6 @@
       "word": "李政道曾为长城捐款",
       "onboard_time": 1722877458,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17804,
-      "num": 149012,
-      "word": "男子买42万黄金寄出警察冲上门劝阻",
-      "onboard_time": 1722896233,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
