@@ -1,6 +1,6 @@
 {
   "startTime": 1722875081704,
-  "endTime": 1722890114014,
+  "endTime": 1722892883035,
   "band_list": [
     {
       "raw_hot": 5783219,
@@ -227,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 370479,
+      "num": 370479,
+      "word": "杜普兰蒂斯打破世界纪录",
+      "onboard_time": 1722889631,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 369911,
       "num": 369911,
       "word": "女子铁饼决赛",
@@ -400,14 +408,6 @@
       "word": "奥运会难为埃及电视台了",
       "onboard_time": 1722859885,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 209032,
-      "num": 209032,
-      "word": "杜普兰蒂斯打破世界纪录",
-      "onboard_time": 1722889631,
-      "rank": 4,
       "category": "体育"
     },
     {
@@ -739,6 +739,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 32122,
+      "num": 37148,
+      "word": "家里有8只羊在等潘展乐",
+      "onboard_time": 1722892813,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 31773,
+      "num": 44616,
+      "word": "男子殴打妻子致死案最新进展",
+      "onboard_time": 1722888671,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29400,
       "num": 3541466,
       "word": "用中国色打开锦绣山河",
@@ -771,12 +787,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22124,
-      "num": 43379,
-      "word": "男子殴打妻子致死案最新进展",
-      "onboard_time": 1722888671,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 16314,
+      "num": 45513,
+      "word": "店主暖心关怀获中暑外卖小哥赠水感恩",
+      "onboard_time": 1722892212,
+      "rank": 29,
+      "category": "社会正能量"
     }
   ],
   "hotgov_list": [

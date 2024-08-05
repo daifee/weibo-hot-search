@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1722890114014,
+  "endTime": 1722892883035,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -8955,6 +8955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 370479,
+      "num": 370479,
+      "word": "杜普兰蒂斯打破世界纪录",
+      "onboard_time": 1722889631,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 370327,
       "num": 370327,
       "word": "张雨霏哭着说死也要死在泳池",
@@ -12337,14 +12345,6 @@
       "onboard_time": 1722849745,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 209032,
-      "num": 209032,
-      "word": "杜普兰蒂斯打破世界纪录",
-      "onboard_time": 1722889631,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 208806,
@@ -16083,12 +16083,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 32122,
+      "num": 37148,
+      "word": "家里有8只羊在等潘展乐",
+      "onboard_time": 1722892813,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32102,
       "num": 142703,
       "word": "EWC电竞世界杯",
       "onboard_time": 1722792862,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 31773,
+      "num": 44616,
+      "word": "男子殴打妻子致死案最新进展",
+      "onboard_time": 1722888671,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31562,
@@ -16291,14 +16307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22124,
-      "num": 43379,
-      "word": "男子殴打妻子致死案最新进展",
-      "onboard_time": 1722888671,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 21678,
       "num": 111242,
       "word": "张杰鸟巢明天开唱",
@@ -16345,6 +16353,14 @@
       "onboard_time": 1722480324,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16314,
+      "num": 45513,
+      "word": "店主暖心关怀获中暑外卖小哥赠水感恩",
+      "onboard_time": 1722892212,
+      "rank": 29,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 16068,
