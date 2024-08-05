@@ -1,0 +1,410 @@
+{
+  "runTime": 1722878391211,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1760442,
+        "num": 1760442,
+        "word": "TFBOYS出道十一周年",
+        "onboard_time": 1722874701,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2176423,
+        "num": 1742589,
+        "word": "马琳 暂停",
+        "onboard_time": 1722868649,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9679,
+        "num": 1551186,
+        "word": "用中国色打开锦绣山河",
+        "onboard_time": 1722866730,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1389964,
+        "num": 1389964,
+        "word": "王俊凯王源易烊千玺庆祝11周年",
+        "onboard_time": 1722875182,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1257561,
+        "num": 1257561,
+        "word": "孙颖莎一单",
+        "onboard_time": 1722863485,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1096925,
+        "num": 1096925,
+        "word": "潘展乐 神的孩子在采访",
+        "onboard_time": 1722868591,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1072485,
+        "num": 1072485,
+        "word": "张博恒采访要碎了",
+        "onboard_time": 1722874701,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1013853,
+        "num": 1013853,
+        "word": "乒乓球男团",
+        "onboard_time": 1722872244,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 661764,
+        "num": 661764,
+        "word": "全红婵陈芋汐10米台晋级决赛",
+        "onboard_time": 1722869129,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19463,
+        "num": 631691,
+        "word": "李政道曾为长城捐款",
+        "onboard_time": 1722877458,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605284,
+        "num": 605284,
+        "word": "阿泰 鹿小鸣",
+        "onboard_time": 1722875600,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 569555,
+        "num": 569555,
+        "word": "苏炜德再次道歉",
+        "onboard_time": 1722865768,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 561732,
+        "num": 561732,
+        "word": "张博恒回应被送错场馆",
+        "onboard_time": 1722871405,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282878,
+        "num": 282878,
+        "word": "西安闪电",
+        "onboard_time": 1722872005,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282343,
+        "num": 282343,
+        "word": "郭靖宇说唐诡第三季有10个故事",
+        "onboard_time": 1722875062,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 472940,
+        "num": 280599,
+        "word": "潘展乐孙杨没有微信",
+        "onboard_time": 1722874522,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 428433,
+        "num": 280260,
+        "word": "郑钦文回应父亲卖房给她打网球",
+        "onboard_time": 1722865950,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 344096,
+        "num": 278025,
+        "word": "韩国选手错失奥运奖牌仰面哭泣",
+        "onboard_time": 1722860609,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142031,
+        "num": 276295,
+        "word": "原来这就是唇语的绝对语感",
+        "onboard_time": 1722865230,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106947,
+        "num": 273951,
+        "word": "张杰出道二十周年",
+        "onboard_time": 1722877099,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334569,
+        "num": 271146,
+        "word": "孙颖莎胳膊",
+        "onboard_time": 1722866669,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289460,
+        "num": 269441,
+        "word": "王冰冰采访潘展乐",
+        "onboard_time": 1722869430,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269171,
+        "num": 269171,
+        "word": "孙颖莎3比1梅谢芙",
+        "onboard_time": 1722867033,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249738,
+        "num": 249738,
+        "word": "潘展乐回应乐乐家族",
+        "onboard_time": 1722863126,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210577,
+        "num": 210577,
+        "word": "潘展乐 没想到老外比我还差",
+        "onboard_time": 1722869788,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187793,
+        "num": 187793,
+        "word": "安赛龙卫冕奥运金牌",
+        "onboard_time": 1722872483,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178186,
+        "num": 178186,
+        "word": "全红婵陈芋汐 教科书",
+        "onboard_time": 1722871227,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119230,
+        "num": 172419,
+        "word": "易烊千玺主持晚会",
+        "onboard_time": 1722869728,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99216,
+        "num": 172240,
+        "word": "王源雾中顶胯",
+        "onboard_time": 1722870266,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98247,
+        "num": 172180,
+        "word": "白敬亭拍难哄有些紧张",
+        "onboard_time": 1722873383,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172148,
+        "num": 172148,
+        "word": "张博恒体操男子单杠铜牌",
+        "onboard_time": 1722860911,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167755,
+        "num": 167755,
+        "word": "郑钦文说喜爱的歌手是邓紫棋",
+        "onboard_time": 1722876379,
+        "rank": 31,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 158132,
+        "num": 158132,
+        "word": "美国偶遇黄子韬徐艺洋一家",
+        "onboard_time": 1722853767,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140557,
+        "num": 140557,
+        "word": "伊朗",
+        "onboard_time": 1722876919,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 89828,
+        "num": 140294,
+        "word": "私藏浪漫",
+        "onboard_time": 1722872543,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165108,
+        "num": 139939,
+        "word": "张雨霏 不说再见我们会再见",
+        "onboard_time": 1722877099,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159591,
+        "num": 139732,
+        "word": "潘展乐评价奥运村食物",
+        "onboard_time": 1722870266,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144209,
+        "num": 139302,
+        "word": "王曼昱反手",
+        "onboard_time": 1722866969,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142414,
+        "num": 139003,
+        "word": "张军说国羽表现刚刚及格",
+        "onboard_time": 1722877338,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140836,
+        "num": 138434,
+        "word": "孙颖莎状态",
+        "onboard_time": 1722867870,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138226,
+        "num": 138226,
+        "word": "中国选手周娅菲需要重赛多爬一次",
+        "onboard_time": 1722867870,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133471,
+        "num": 133471,
+        "word": "苏炜德失误",
+        "onboard_time": 1722861330,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130873,
+        "num": 130873,
+        "word": "潘展乐 现脱现签",
+        "onboard_time": 1722866431,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120672,
+        "num": 130333,
+        "word": "攀岩比赛重赛",
+        "onboard_time": 1722872244,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111031,
+        "num": 128492,
+        "word": "5.8难度的金牌",
+        "onboard_time": 1722860609,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83799,
+        "num": 127595,
+        "word": "杨志刚在看唐诡3的剧本了",
+        "onboard_time": 1722877997,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83021,
+        "num": 126471,
+        "word": "广东一高速发生多车相撞事故",
+        "onboard_time": 1722870867,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80912,
+        "num": 125020,
+        "word": "鞠婧祎新杂志销量",
+        "onboard_time": 1722854066,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 72745,
+        "num": 124042,
+        "word": "国产HPV疫苗降价至一杯奶茶钱",
+        "onboard_time": 1722851064,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68890,
+        "num": 123369,
+        "word": "UNIQ祝王一博生日快乐",
+        "onboard_time": 1722870028,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#关键词看改革#"
+    }
+  }
+}
