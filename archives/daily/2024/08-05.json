@@ -1,6 +1,6 @@
 {
   "startTime": 1722788553409,
-  "endTime": 1722836261795,
+  "endTime": 1722839329371,
   "band_list": [
     {
       "raw_hot": 16751358,
@@ -139,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3013534,
+      "num": 3013534,
+      "word": "潘展乐又又又来告状了",
+      "onboard_time": 1722834204,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2945913,
       "num": 2945913,
       "word": "樊振东男单金牌",
@@ -152,14 +160,6 @@
       "word": "中国女排VS塞尔维亚女排",
       "onboard_time": 1722783934,
       "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2841297,
-      "num": 2841297,
-      "word": "潘展乐又又又来告状了",
-      "onboard_time": 1722834204,
-      "rank": 4,
       "category": "体育"
     },
     {
@@ -216,6 +216,14 @@
       "word": "美国队 脸紫",
       "onboard_time": 1722797714,
       "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2155492,
+      "num": 2155492,
+      "word": "全红婵以为不用上学才去的跳水",
+      "onboard_time": 1722833545,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -315,6 +323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1489690,
+      "num": 1489690,
+      "word": "莫雷加德心态崩了",
+      "onboard_time": 1722835644,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1458466,
       "num": 1458466,
       "word": "国乒女团首次登场",
@@ -328,6 +344,14 @@
       "word": "美国队所有人都找潘展乐握手",
       "onboard_time": 1722832766,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1443249,
+      "num": 1443249,
+      "word": "潘展乐 我就说直说有用吧",
+      "onboard_time": 1722834204,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -384,14 +408,6 @@
       "word": "孙佳俊说金牌有瑕疵啊",
       "onboard_time": 1722813919,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1015410,
-      "num": 478702,
-      "word": "潘展乐 我就说直说有用吧",
-      "onboard_time": 1722834204,
-      "rank": 23,
       "category": "体育"
     },
     {
@@ -555,6 +571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 650149,
+      "num": 343400,
+      "word": "潘展乐卡点520发博",
+      "onboard_time": 1722838403,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 639249,
       "num": 639249,
       "word": "樊振东领奖央视解说词",
@@ -627,14 +651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 557974,
-      "num": 391368,
-      "word": "全红婵以为不用上学才去的跳水",
-      "onboard_time": 1722833545,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 543992,
       "num": 5328608,
       "word": "赵丽颖百花奖最佳女配角",
@@ -649,6 +665,14 @@
       "onboard_time": 1722836184,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 532096,
+      "num": 339650,
+      "word": "樊振东夺冠后乒乓球卖疯了",
+      "onboard_time": 1722837442,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 522408,
@@ -672,6 +696,14 @@
       "word": "日本教练叫樊振东超级巨星",
       "onboard_time": 1722823464,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 518070,
+      "num": 339384,
+      "word": "张雨霏称也许会找个男朋友",
+      "onboard_time": 1722837385,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -745,6 +777,14 @@
       "onboard_time": 1722817167,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 475422,
+      "num": 337979,
+      "word": "乐乐爸乐乐妈",
+      "onboard_time": 1722838223,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 464417,
@@ -916,11 +956,19 @@
     },
     {
       "raw_hot": 360716,
-      "num": 333245,
+      "num": 334318,
       "word": "徐卓一 戴斯文的眼镜跨最猛的栏",
       "onboard_time": 1722834984,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 357737,
+      "num": 357737,
+      "word": "A股",
+      "onboard_time": 1722838703,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 351258,
@@ -963,6 +1011,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 345367,
+      "num": 334579,
+      "word": "谢震业疑退出200米强项",
+      "onboard_time": 1722833904,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 344367,
+      "num": 489329,
+      "word": "英国多地发生骚乱唐宁街被扔燃烧瓶",
+      "onboard_time": 1722829224,
+      "rank": 38,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 341328,
       "num": 2578731,
       "word": "伊能静女儿追星成功宋雨琦",
@@ -979,11 +1043,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 332518,
+      "num": 332517,
+      "word": "徐嘉余4战奥运收下第1块金牌",
+      "onboard_time": 1722836602,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 330944,
       "num": 301560,
       "word": "韩国人说潘展乐是鱼",
       "onboard_time": 1722828623,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 319209,
+      "num": 319209,
+      "word": "潘展乐拿两只小象亲亲",
+      "onboard_time": 1722836242,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -1001,14 +1081,6 @@
       "onboard_time": 1722818786,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 311906,
-      "num": 246523,
-      "word": "莫雷加德心态崩了",
-      "onboard_time": 1722835644,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 308903,
@@ -1059,8 +1131,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 294272,
+      "num": 294272,
+      "word": "安妮海瑟薇鞠婧祎穿了同款",
+      "onboard_time": 1722839302,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 294210,
-      "num": 333672,
+      "num": 335763,
       "word": "男夹子夺妻子左肩又被捅刀子",
       "onboard_time": 1722832286,
       "rank": 27,
@@ -1083,14 +1163,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 281604,
-      "num": 244770,
-      "word": "谢震业疑退出200米强项",
-      "onboard_time": 1722833904,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 279774,
       "num": 279774,
       "word": "啥都不行潘展乐",
@@ -1107,12 +1179,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 276807,
-      "num": 244496,
-      "word": "潘展乐拿两只小象亲亲",
-      "onboard_time": 1722836242,
-      "rank": 45,
+      "raw_hot": 276857,
+      "num": 276857,
+      "word": "王皓 当打之年",
+      "onboard_time": 1722838762,
+      "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 276843,
+      "num": 276843,
+      "word": "载有25名中国公民大巴在意大利发生车祸",
+      "onboard_time": 1722837203,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 275070,
@@ -1156,11 +1236,19 @@
     },
     {
       "raw_hot": 265777,
-      "num": 265777,
+      "num": 332518,
       "word": "王一博生日评论区",
       "onboard_time": 1722836242,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 259438,
+      "num": 259438,
+      "word": "孙杨说在潘展乐身上看到了自己的影子",
+      "onboard_time": 1722837322,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 259362,
@@ -1171,6 +1259,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 258263,
+      "num": 258263,
+      "word": "文创经济爆火博物馆7天补货5次",
+      "onboard_time": 1722838523,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258031,
+      "num": 258031,
+      "word": "当年吃全红婵火腿肠的不是樊振东",
+      "onboard_time": 1722838703,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 248242,
       "num": 302044,
       "word": "跳地3官宣全是包袱",
@@ -1179,12 +1283,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 246080,
-      "num": 489329,
-      "word": "英国多地发生骚乱唐宁街被扔燃烧瓶",
-      "onboard_time": 1722829224,
-      "rank": 38,
-      "category": "国外时政"
+      "raw_hot": 245134,
+      "num": 245134,
+      "word": "日经指数",
+      "onboard_time": 1722837261,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 228001,
@@ -1275,6 +1379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 208765,
+      "num": 414296,
+      "word": "文韬 离别只是生活中的一个小插曲",
+      "onboard_time": 1722835464,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208624,
       "num": 1772903,
       "word": "赵丽颖 85花主流奖",
@@ -1321,14 +1433,6 @@
       "onboard_time": 1722834683,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204794,
-      "num": 414296,
-      "word": "文韬 离别只是生活中的一个小插曲",
-      "onboard_time": 1722835464,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 201512,
@@ -1659,6 +1763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93037,
+      "num": 450972,
+      "word": "有外卖骑手称从没见过高温津贴",
+      "onboard_time": 1722837623,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92626,
       "num": 343798,
       "word": "梦之队电竞世界杯全胜",
@@ -1731,6 +1843,14 @@
       "category": "电影,体育"
     },
     {
+      "raw_hot": 51681,
+      "num": 332557,
+      "word": "smart的大五座你买么",
+      "onboard_time": 1722838762,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 48728,
       "num": 487337,
       "word": "三伏天晒背族占领公园",
@@ -1753,6 +1873,14 @@
       "onboard_time": 1722799033,
       "rank": 28,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 44492,
+      "num": 338797,
+      "word": "陈丽君伞下起舞",
+      "onboard_time": 1722836784,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 40992,
@@ -1779,6 +1907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35852,
+      "num": 335144,
+      "word": "虞书欣别再搞抽象了",
+      "onboard_time": 1722839004,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 32102,
       "num": 142703,
       "word": "EWC电竞世界杯",
@@ -1795,6 +1931,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28132,
+      "num": 2195021,
+      "word": "川藏青藏公路建成通车70周年",
+      "onboard_time": 1722838463,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19210,
+      "num": 240110,
+      "word": "中国用实力赢得尊重",
+      "onboard_time": 1722839302,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 11403,
+      "num": 282953,
+      "word": "樊振东大满贯手绘",
+      "onboard_time": 1722838643,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 6906,
       "num": 1045226,
       "word": "熊猫幼崽逃跑被妈妈一路拖回家",
@@ -1809,6 +1969,9 @@
     },
     {
       "word": "#习近平总书记始终心系体育事业发展#"
+    },
+    {
+      "word": "#改革为人民#"
     }
   ]
 }
