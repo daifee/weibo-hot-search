@@ -1,6 +1,6 @@
 {
   "startTime": 1722702313981,
-  "endTime": 1722857695089,
+  "endTime": 1722861529536,
   "band_list": [
     {
       "raw_hot": 35169209,
@@ -139,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 9464911,
+      "num": 9464911,
+      "word": "体操男子单杠决赛",
+      "onboard_time": 1722856703,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 9337678,
       "num": 3429274,
       "word": "中国网球首枚奥运女单金牌",
@@ -184,6 +192,14 @@
       "word": "马林受伤",
       "onboard_time": 1722759863,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 7558613,
+      "num": 7558613,
+      "word": "平衡木 掉木",
+      "onboard_time": 1722855863,
+      "rank": 11,
       "category": "体育"
     },
     {
@@ -235,11 +251,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 5643474,
+      "num": 5643474,
+      "word": "张博恒没站稳",
+      "onboard_time": 1722860430,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 5338444,
       "num": 5338444,
       "word": "我需要速效救心丸",
       "onboard_time": 1722776490,
       "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 5279672,
+      "num": 5279672,
+      "word": "张博恒体操男子单杠铜牌",
+      "onboard_time": 1722860911,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -483,14 +515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 3111868,
-      "num": 3111868,
-      "word": "平衡木 掉木",
-      "onboard_time": 1722855863,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 3107271,
       "num": 3107271,
       "word": "孙杨 老婆孩子在巴黎",
@@ -552,6 +576,14 @@
       "word": "李越宏25米手枪速射金牌",
       "onboard_time": 1722845430,
       "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2858078,
+      "num": 2858078,
+      "word": "军书十二卷 卷卷有茶名",
+      "onboard_time": 1722855268,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -712,6 +744,14 @@
       "word": "潘展乐瞥了眼美国队说这怎么说啊",
       "onboard_time": 1722829463,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2387714,
+      "num": 554577,
+      "word": "张博恒单杠",
+      "onboard_time": 1722856523,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -1243,6 +1283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1430837,
+      "num": 504788,
+      "word": "樊振东回应贾一凡",
+      "onboard_time": 1722856763,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1415524,
       "num": 1217630,
       "word": "陈梦说黄晓明每天都在鼓励我",
@@ -1363,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1307614,
+      "num": 503904,
+      "word": "张博恒 水逆",
+      "onboard_time": 1722858564,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1301273,
       "num": 1301273,
       "word": "王昶苦笑",
@@ -1403,6 +1459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1226165,
+      "num": 503703,
+      "word": "中国游泳队夺金英国蛙王破大防",
+      "onboard_time": 1722854664,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1221785,
       "num": 1221785,
       "word": "樊振东夺冠后乒乓球卖疯了",
@@ -1425,6 +1489,14 @@
       "onboard_time": 1722739464,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1212330,
+      "num": 1212330,
+      "word": "山东省属事业单位收回事业编制",
+      "onboard_time": 1722855863,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1210480,
@@ -1465,6 +1537,14 @@
       "onboard_time": 1722752181,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1133544,
+      "num": 503268,
+      "word": "何冰娇带西班牙徽章上领奖台",
+      "onboard_time": 1722858863,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 1132588,
@@ -1691,6 +1771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 927777,
+      "num": 603699,
+      "word": "周雅琴 琴后",
+      "onboard_time": 1722857184,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 923409,
       "num": 923409,
       "word": "郭碧婷回应向佐65岁去流浪",
@@ -1803,6 +1891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 822739,
+      "num": 500661,
+      "word": "5.8难度的金牌",
+      "onboard_time": 1722860609,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 822602,
       "num": 822602,
       "word": "海棠读者",
@@ -1817,14 +1913,6 @@
       "onboard_time": 1722730643,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 799600,
-      "num": 603699,
-      "word": "周雅琴 琴后",
-      "onboard_time": 1722857184,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 786072,
@@ -1864,6 +1952,14 @@
       "word": "孙颖莎说期待洛杉矶冲金",
       "onboard_time": 1722701605,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 764708,
+      "num": 500263,
+      "word": "韩国选手错失奥运奖牌仰面哭泣",
+      "onboard_time": 1722860609,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -1923,6 +2019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 728899,
+      "num": 499831,
+      "word": "苏炜德失误",
+      "onboard_time": 1722861330,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 722696,
       "num": 722696,
       "word": "潘展乐搓手等金牌",
@@ -1976,6 +2080,14 @@
       "word": "何冰娇在混采区哭了",
       "onboard_time": 1722765983,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 697448,
+      "num": 499143,
+      "word": "乐乐妈好温柔",
+      "onboard_time": 1722854427,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -2339,14 +2451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 544368,
-      "num": 544368,
-      "word": "体操男子单杠决赛",
-      "onboard_time": 1722856703,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 540394,
       "num": 2053716,
       "word": "关晓彤说潘展乐是飞人",
@@ -2435,14 +2539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 517229,
-      "num": 517229,
-      "word": "军书十二卷 卷卷有茶名",
-      "onboard_time": 1722855268,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 515427,
       "num": 222567,
       "word": "徐嘉余回复潘展乐",
@@ -2459,6 +2555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 507048,
+      "num": 507048,
+      "word": "倪夏莲回应张学友模仿自己名场面",
+      "onboard_time": 1722859764,
+      "rank": 13,
+      "category": "演出,体育"
+    },
+    {
       "raw_hot": 505002,
       "num": 505002,
       "word": "男女4x100混接中国队名单",
@@ -2472,14 +2576,6 @@
       "word": "不是奥数吗谁给我干奥运来了",
       "onboard_time": 1722854844,
       "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 496861,
-      "num": 496861,
-      "word": "中国游泳队夺金英国蛙王破大防",
-      "onboard_time": 1722854664,
-      "rank": 26,
       "category": "体育"
     },
     {
@@ -2675,12 +2771,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 455319,
-      "num": 952959,
-      "word": "山东省属事业单位收回事业编制",
-      "onboard_time": 1722855863,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 455054,
+      "num": 455054,
+      "word": "张博恒背影",
+      "onboard_time": 1722855683,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 454643,
+      "num": 454643,
+      "word": "真的有点怜爱张博恒",
+      "onboard_time": 1722860911,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 454426,
@@ -2803,14 +2907,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 422033,
-      "num": 422033,
-      "word": "乐乐妈好温柔",
-      "onboard_time": 1722854427,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 421999,
       "num": 421999,
       "word": "加拿大女篮vs尼日利亚女篮",
@@ -2848,6 +2944,14 @@
       "word": "德约科维奇哭到手指发抖",
       "onboard_time": 1722792082,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 411983,
+      "num": 411983,
+      "word": "平衡木冠军",
+      "onboard_time": 1722861447,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -3411,6 +3515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 335936,
+      "num": 394405,
+      "word": "女子入职5个月后因怀孕10天没到岗",
+      "onboard_time": 1722855268,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 335776,
       "num": 928640,
       "word": "赵丽颖首次获得百花奖",
@@ -3560,22 +3672,6 @@
       "word": "李越宏夺冠后哭了",
       "onboard_time": 1722848007,
       "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 311349,
-      "num": 311349,
-      "word": "樊振东回应贾一凡",
-      "onboard_time": 1722856763,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 309975,
-      "num": 309975,
-      "word": "张博恒单杠",
-      "onboard_time": 1722856523,
-      "rank": 38,
       "category": "体育"
     },
     {
@@ -3923,6 +4019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 270915,
+      "num": 506552,
+      "word": "SJM回归",
+      "onboard_time": 1722858863,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 270888,
       "num": 968372,
       "word": "白鹿在应援旗面前这么水灵灵吊起来了",
@@ -4009,6 +4113,14 @@
       "onboard_time": 1722762145,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 263984,
+      "num": 505680,
+      "word": "张杰回复奥运健儿点歌",
+      "onboard_time": 1722858625,
+      "rank": 17,
+      "category": "音乐,体育"
     },
     {
       "raw_hot": 263082,
@@ -4139,19 +4251,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 251826,
+      "num": 506751,
+      "word": "女子自由体操决赛",
+      "onboard_time": 1722861031,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251428,
       "num": 251428,
       "word": "山东亲友团为陈梦加油",
       "onboard_time": 1722701786,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 251196,
-      "num": 251196,
-      "word": "张博恒背影",
-      "onboard_time": 1722855683,
-      "rank": 43,
       "category": "体育"
     },
     {
@@ -4347,6 +4459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 222092,
+      "num": 390727,
+      "word": "华为发布会",
+      "onboard_time": 1722860248,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 221769,
       "num": 1161775,
       "word": "一张图证明中国男子混接金牌含金量",
@@ -4433,6 +4553,14 @@
       "onboard_time": 1722786216,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 215925,
+      "num": 505136,
+      "word": "于正白鹿曾舜晞合影",
+      "onboard_time": 1722860853,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 215209,
@@ -4739,14 +4867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197861,
-      "num": 302459,
-      "word": "女子入职5个月后因怀孕10天没到岗",
-      "onboard_time": 1722855268,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197486,
       "num": 243829,
       "word": "李泽锋人夫感上来渣夫感下去了",
@@ -4907,6 +5027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 184746,
+      "num": 389796,
+      "word": "射频美容仪从5000跌到900元",
+      "onboard_time": 1722861330,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 184684,
       "num": 584025,
       "word": "中文已经满足不了许嵩了",
@@ -4996,7 +5124,7 @@
     },
     {
       "raw_hot": 174950,
-      "num": 301930,
+      "num": 502942,
       "word": "李政道1994年当选为中科院外籍院士",
       "onboard_time": 1722857184,
       "rank": 46,
@@ -5067,6 +5195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171763,
+      "num": 385610,
+      "word": "文咏珊参加百花奖错过吴千语婚礼",
+      "onboard_time": 1722853225,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 170408,
       "num": 326812,
       "word": "吴千语施伯雄欢迎晚宴",
@@ -5105,6 +5241,14 @@
       "onboard_time": 1722707239,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166424,
+      "num": 383581,
+      "word": "王一博工作室发庆生视频",
+      "onboard_time": 1722860310,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 165965,
@@ -5209,6 +5353,14 @@
       "onboard_time": 1722770904,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 154736,
+      "num": 502325,
+      "word": "离岸人民币升破7.1元关口",
+      "onboard_time": 1722859764,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 154571,
@@ -5393,14 +5545,6 @@
       "onboard_time": 1722689495,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 135089,
-      "num": 286132,
-      "word": "文咏珊参加百花奖错过吴千语婚礼",
-      "onboard_time": 1722853225,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 132910,
@@ -5852,7 +5996,7 @@
     },
     {
       "raw_hot": 58689,
-      "num": 4661700,
+      "num": 5935212,
       "word": "跟着微短剧去旅行第三批发布",
       "onboard_time": 1722848784,
       "rank": 2,
@@ -5921,6 +6065,14 @@
       "onboard_time": 1722800713,
       "rank": 34,
       "category": "电影,体育"
+    },
+    {
+      "raw_hot": 48915,
+      "num": 457947,
+      "word": "看樊振东比赛的标配",
+      "onboard_time": 1722858745,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 48728,
