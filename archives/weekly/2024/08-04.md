@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/08/04 00:25:13 ~ 2024/08/06 05:21:23
+本榜单时间：2024/08/04 00:25:13 ~ 2024/08/06 05:34:42
 </p>
 </blockquote>
 <p>
@@ -5379,6 +5379,12 @@ smart的大五座你买么（热度：57868）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AE%B4%E6%89%93%E5%A6%BB%E5%AD%90%E8%87%B4%E6%AD%BB%E6%A1%88%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%23" target="weibo">
+男子殴打妻子致死案最新进展（热度：38797）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E5%AE%A2%E5%8E%85%E7%8B%82%E6%AC%A2%E5%B7%A1%E6%BC%94%23" target="weibo">
 王源客厅狂欢巡演（热度：38671）
 </a>
@@ -5441,12 +5447,6 @@ smart的大五座你买么（热度：57868）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23EWC%E7%94%B5%E7%AB%9E%E4%B8%96%E7%95%8C%E6%9D%AF%23" target="weibo">
 EWC电竞世界杯（热度：32102）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AE%B4%E6%89%93%E5%A6%BB%E5%AD%90%E8%87%B4%E6%AD%BB%E6%A1%88%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%23" target="weibo">
-男子殴打妻子致死案最新进展（热度：31773）
 </a>
 </li>
 
