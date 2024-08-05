@@ -1,6 +1,6 @@
 {
   "startTime": 1722788553409,
-  "endTime": 1722854299090,
+  "endTime": 1722856683808,
   "band_list": [
     {
       "raw_hot": 16751358,
@@ -51,6 +51,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 7193149,
+      "num": 7193149,
+      "word": "体操男子双杠决赛",
+      "onboard_time": 1722852804,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 6971060,
       "num": 6971060,
       "word": "王皓亲樊振东",
@@ -75,14 +83,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 6065921,
-      "num": 6065921,
-      "word": "体操男子双杠决赛",
-      "onboard_time": 1722852804,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 6000923,
       "num": 6000923,
       "word": "张雨霏50自铜牌",
@@ -104,6 +104,14 @@
       "word": "孙杨世界纪录被打破",
       "onboard_time": 1722791184,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3763423,
+      "num": 3763423,
+      "word": "体操女子平衡木决赛",
+      "onboard_time": 1722855085,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -451,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1518438,
+      "num": 1518438,
+      "word": "周雅琴平衡木14.100分",
+      "onboard_time": 1722855744,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1489690,
       "num": 1489690,
       "word": "莫雷加德心态崩了",
@@ -523,6 +539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1173797,
+      "num": 1173797,
+      "word": "平衡木 掉木",
+      "onboard_time": 1722855863,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1107702,
       "num": 1107702,
       "word": "中国女排扳平塞尔维亚",
@@ -579,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 994025,
+      "num": 994025,
+      "word": "美国偶遇黄子韬徐艺洋一家",
+      "onboard_time": 1722853767,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 985106,
       "num": 985106,
       "word": "张继科直播",
@@ -593,6 +625,14 @@
       "onboard_time": 1722816927,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 962545,
+      "num": 1452866,
+      "word": "有影院拒绝播映逆行人生",
+      "onboard_time": 1722853466,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 951287,
@@ -620,7 +660,7 @@
     },
     {
       "raw_hot": 900121,
-      "num": 483104,
+      "num": 489696,
       "word": "国羽巴黎2金3银收官",
       "onboard_time": 1722852804,
       "rank": 26,
@@ -859,6 +899,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 598650,
+      "num": 598650,
+      "word": "全红婵不给对手一丝机会",
+      "onboard_time": 1722851306,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 596338,
+      "num": 1429730,
+      "word": "国产HPV疫苗降价至一杯奶茶钱",
+      "onboard_time": 1722851064,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 594607,
       "num": 594607,
       "word": "35岁正是藏不住肉的年纪",
@@ -872,14 +928,6 @@
       "word": "还王昶妈生微笑唇",
       "onboard_time": 1722827003,
       "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 580796,
-      "num": 492593,
-      "word": "全红婵不给对手一丝机会",
-      "onboard_time": 1722851306,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -971,14 +1019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 526192,
-      "num": 526192,
-      "word": "有影院拒绝播映逆行人生",
-      "onboard_time": 1722853466,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
       "raw_hot": 522408,
       "num": 522408,
       "word": "TFBOYS十年之约演唱会live专辑",
@@ -1003,6 +1043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 517229,
+      "num": 517229,
+      "word": "军书十二卷 卷卷有茶名",
+      "onboard_time": 1722855268,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 515427,
       "num": 222567,
       "word": "徐嘉余回复潘展乐",
@@ -1016,6 +1064,22 @@
       "word": "潘展乐小声说咱低调点",
       "onboard_time": 1722812359,
       "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 497816,
+      "num": 497816,
+      "word": "不是奥数吗谁给我干奥运来了",
+      "onboard_time": 1722854844,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 496861,
+      "num": 496861,
+      "word": "中国游泳队夺金英国蛙王破大防",
+      "onboard_time": 1722854664,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -1065,14 +1129,6 @@
       "onboard_time": 1722791122,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 487848,
-      "num": 966632,
-      "word": "国产HPV疫苗降价至一杯奶茶钱",
-      "onboard_time": 1722851064,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 479726,
@@ -1175,6 +1231,14 @@
       "num": 428405,
       "word": "探营杭州神枪手基地",
       "onboard_time": 1722846567,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 422033,
+      "num": 422033,
+      "word": "乐乐妈好温柔",
+      "onboard_time": 1722854427,
       "rank": 32,
       "category": "体育"
     },
@@ -1289,14 +1353,6 @@
       "onboard_time": 1722795437,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 393229,
-      "num": 487564,
-      "word": "美国偶遇黄子韬徐艺洋一家",
-      "onboard_time": 1722853767,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 393082,
@@ -1432,6 +1488,14 @@
       "word": "张雨霏得牌率高达100%",
       "onboard_time": 1722831446,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 350884,
+      "num": 350884,
+      "word": "郑钦文 时髦",
+      "onboard_time": 1722855564,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -1595,6 +1659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 309975,
+      "num": 309975,
+      "word": "张博恒单杠",
+      "onboard_time": 1722856523,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 308903,
       "num": 370999,
       "word": "剑网3",
@@ -1755,6 +1827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 272394,
+      "num": 952959,
+      "word": "山东省属事业单位收回事业编制",
+      "onboard_time": 1722855863,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271769,
       "num": 806275,
       "word": "TF三代成团人数小于等于8",
@@ -1851,12 +1931,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 254239,
+      "num": 880664,
+      "word": "鞠婧祎新杂志销量",
+      "onboard_time": 1722854066,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 253256,
-      "num": 482435,
+      "num": 770721,
       "word": "凤凰传奇 根本抢不到",
       "onboard_time": 1722851965,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 251196,
+      "num": 251196,
+      "word": "张博恒背影",
+      "onboard_time": 1722855683,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 248242,
@@ -1931,14 +2027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 224593,
-      "num": 477592,
-      "word": "鞠婧祎新杂志销量",
-      "onboard_time": 1722854066,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 221769,
       "num": 1161775,
       "word": "一张图证明中国男子混接金牌含金量",
@@ -2003,6 +2091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214449,
+      "num": 346205,
+      "word": "南京冰雹",
+      "onboard_time": 1722854485,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211859,
       "num": 338256,
       "word": "吉克隽逸衣服像婴儿的连体衣",
@@ -2051,6 +2147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208757,
+      "num": 321680,
+      "word": "中国第21金",
+      "onboard_time": 1722856043,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208624,
       "num": 1772903,
       "word": "赵丽颖 85花主流奖",
@@ -2060,7 +2164,7 @@
     },
     {
       "raw_hot": 208207,
-      "num": 404888,
+      "num": 489830,
       "word": "吴奇隆说自己除了老花没什么弱点",
       "onboard_time": 1722853887,
       "rank": 39,
@@ -2113,6 +2217,14 @@
       "onboard_time": 1722837623,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205997,
+      "num": 492268,
+      "word": "时代少年团自驾游vlog",
+      "onboard_time": 1722854785,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 205351,
@@ -2363,11 +2475,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157275,
+      "num": 205062,
+      "word": "女子入职5个月后因怀孕10天没到岗",
+      "onboard_time": 1722855268,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156447,
       "num": 327856,
       "word": "我爸喝多后捡回一只猫",
       "onboard_time": 1722818847,
       "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 156327,
+      "num": 204900,
+      "word": "高温改变了我",
+      "onboard_time": 1722856283,
+      "rank": 46,
       "category": "幽默"
     },
     {
@@ -2384,6 +2512,14 @@
       "word": "他是哥哥找了一百年的弟弟",
       "onboard_time": 1722808573,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 152774,
+      "num": 204774,
+      "word": "魏哲鸣被男粉叫老公的反应",
+      "onboard_time": 1722856583,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -2595,6 +2731,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 78237,
+      "num": 840284,
+      "word": "孙颖莎王楚钦少年无惧岁月长",
+      "onboard_time": 1722855324,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77692,
       "num": 441927,
       "word": "中国用实力赢得尊重",
@@ -2652,7 +2796,7 @@
     },
     {
       "raw_hot": 58689,
-      "num": 3357210,
+      "num": 4661700,
       "word": "跟着微短剧去旅行第三批发布",
       "onboard_time": 1722848784,
       "rank": 2,
