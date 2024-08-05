@@ -1,0 +1,410 @@
+{
+  "runTime": 1722843292040,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4729944,
+        "num": 4729944,
+        "word": "乐乐爸乐乐妈",
+        "onboard_time": 1722838223,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2361491,
+        "num": 2361491,
+        "word": "潘展乐又又又来告状了",
+        "onboard_time": 1722834204,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102828,
+        "num": 1923150,
+        "word": "原来北京中轴线也亮相过奥运会",
+        "onboard_time": 1722826222,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1802197,
+        "num": 1802197,
+        "word": "乐乐爸没有否认",
+        "onboard_time": 1722841103,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1499213,
+        "num": 1499213,
+        "word": "孙杨是不是真的是疯子啊",
+        "onboard_time": 1722830064,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1304557,
+        "num": 1304557,
+        "word": "全红婵以为不用上学才去的跳水",
+        "onboard_time": 1722833545,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 951287,
+        "num": 951287,
+        "word": "他才17岁能藏住什么事",
+        "onboard_time": 1722839783,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 921046,
+        "num": 921046,
+        "word": "安妮海瑟薇鞠婧祎穿了同款",
+        "onboard_time": 1722839302,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 669058,
+        "num": 669058,
+        "word": "百花奖最佳男主36位弃票",
+        "onboard_time": 1722841343,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 781246,
+        "num": 668036,
+        "word": "载有25名中国公民大巴在意大利发生车祸",
+        "onboard_time": 1722837203,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1140905,
+        "num": 666265,
+        "word": "樊振东夺冠后乒乓球卖疯了",
+        "onboard_time": 1722837442,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1054384,
+        "num": 665551,
+        "word": "潘展乐卡点520发博",
+        "onboard_time": 1722838403,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 664421,
+        "num": 664421,
+        "word": "曾鸣教授一上网发现天塌了",
+        "onboard_time": 1722839723,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 493739,
+        "num": 658854,
+        "word": "张雨霏覃海洋跳了张艺兴的歌",
+        "onboard_time": 1722834264,
+        "rank": 13,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 436256,
+        "num": 654269,
+        "word": "秦岚终于宣上自己的剧了",
+        "onboard_time": 1722841643,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1023765,
+        "num": 654203,
+        "word": "潘展乐 我就说直说有用吧",
+        "onboard_time": 1722834204,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 653918,
+        "num": 653918,
+        "word": "莫雷加德心态崩了",
+        "onboard_time": 1722835644,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 531810,
+        "num": 531810,
+        "word": "国乒女团首次登场",
+        "onboard_time": 1722827783,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 365260,
+        "num": 495774,
+        "word": "林允的腿不用P",
+        "onboard_time": 1722839004,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283499,
+        "num": 474444,
+        "word": "王一博到了肖战拍陈情令的年纪",
+        "onboard_time": 1722826042,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 470137,
+        "num": 470137,
+        "word": "潘展乐瞥了眼美国队说这怎么说啊",
+        "onboard_time": 1722829463,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 443656,
+        "num": 443656,
+        "word": "美国队所有人都找潘展乐握手",
+        "onboard_time": 1722832766,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57868,
+        "num": 421558,
+        "word": "smart的大五座你买么",
+        "onboard_time": 1722838762,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 416146,
+        "num": 416146,
+        "word": "潘展乐惊天逆转",
+        "onboard_time": 1722792563,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 412141,
+        "num": 412141,
+        "word": "中国队男子4×100混接金牌",
+        "onboard_time": 1722792145,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 392232,
+        "num": 392232,
+        "word": "当年吃全红婵火腿肠的不是樊振东",
+        "onboard_time": 1722838703,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278957,
+        "num": 389652,
+        "word": "黄子韬把向佐都整无语了",
+        "onboard_time": 1722841043,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60862,
+        "num": 387666,
+        "word": "vivo凭啥成为手机影像届卷王",
+        "onboard_time": 1722842183,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 256053,
+        "num": 384667,
+        "word": "185的刘昊然120的容金珍",
+        "onboard_time": 1722841583,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 72048,
+        "num": 383119,
+        "word": "日韩股市同日熔断",
+        "onboard_time": 1722842723,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 77692,
+        "num": 378596,
+        "word": "中国用实力赢得尊重",
+        "onboard_time": 1722839302,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 377469,
+        "num": 377469,
+        "word": "日媒解说的就像自家赢了金牌",
+        "onboard_time": 1722841823,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355873,
+        "num": 355873,
+        "word": "王皓挺举80kg",
+        "onboard_time": 1722814823,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320671,
+        "num": 320671,
+        "word": "潘展乐接力45秒92能算作世界纪录吗",
+        "onboard_time": 1722840804,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255169,
+        "num": 320587,
+        "word": "杨幂生万物一滴泪镜头",
+        "onboard_time": 1722843144,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132731,
+        "num": 320546,
+        "word": "司机滥用远光灯致人死亡承担半责",
+        "onboard_time": 1722828742,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320521,
+        "num": 320521,
+        "word": "外媒说潘展乐中国飞鱼让世界臣服",
+        "onboard_time": 1722842784,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 314361,
+        "num": 314361,
+        "word": "为什么日股美股都崩了",
+        "onboard_time": 1722839962,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 299286,
+        "num": 299286,
+        "word": "张雨霏称也许会找个男朋友",
+        "onboard_time": 1722837385,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 297174,
+        "num": 297174,
+        "word": "孙杨回应纪录被打破",
+        "onboard_time": 1722839903,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295055,
+        "num": 295055,
+        "word": "徐嘉余办走读",
+        "onboard_time": 1722843085,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198259,
+        "num": 291138,
+        "word": "偶运会沈小婷短跑第一",
+        "onboard_time": 1722834984,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288348,
+        "num": 288348,
+        "word": "A股今天表现是全球最好的",
+        "onboard_time": 1722840924,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 281109,
+        "num": 281109,
+        "word": "王皓 当打之年",
+        "onboard_time": 1722838762,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273692,
+        "num": 273692,
+        "word": "张雨霏希望暂时告别游泳",
+        "onboard_time": 1722843203,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265798,
+        "num": 265798,
+        "word": "孙杨听到乐乐爸乐乐妈的反应",
+        "onboard_time": 1722841162,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265540,
+        "num": 265540,
+        "word": "潘展乐ISTJ",
+        "onboard_time": 1722842544,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246153,
+        "num": 246153,
+        "word": "孙杨说想重回赛场",
+        "onboard_time": 1722842304,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243928,
+        "num": 243928,
+        "word": "ogg之家",
+        "onboard_time": 1722842004,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193025,
+        "num": 241034,
+        "word": "日韩股市怎么了",
+        "onboard_time": 1722842843,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革为人民#"
+    }
+  }
+}
