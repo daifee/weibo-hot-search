@@ -1,0 +1,410 @@
+{
+  "runTime": 1722850515580,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9283193,
+        "num": 9283193,
+        "word": "乐乐爸乐乐妈",
+        "onboard_time": 1722838223,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2538074,
+        "num": 2538074,
+        "word": "孙杨 老婆孩子在巴黎",
+        "onboard_time": 1722843563,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43367,
+        "num": 2347016,
+        "word": "跟着微短剧去旅行第三批发布",
+        "onboard_time": 1722848784,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2301291,
+        "num": 2301291,
+        "word": "李政道逝世",
+        "onboard_time": 1722845610,
+        "rank": 3,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 2102593,
+        "num": 2102593,
+        "word": "安洗莹vs何冰娇",
+        "onboard_time": 1722847406,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2057361,
+        "num": 2057361,
+        "word": "羽毛球女单决赛",
+        "onboard_time": 1722848007,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 781854,
+        "num": 2054183,
+        "word": "张艺兴回应覃海洋张雨霏",
+        "onboard_time": 1722848845,
+        "rank": 6,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 540394,
+        "num": 2053716,
+        "word": "关晓彤说潘展乐是飞人",
+        "onboard_time": 1722846508,
+        "rank": 7,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 2053682,
+        "num": 2053682,
+        "word": "女子10米台跳水预赛",
+        "onboard_time": 1722844705,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 402926,
+        "num": 1265271,
+        "word": "李政道曾与杨振宁同获诺贝尔奖",
+        "onboard_time": 1722848366,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 984937,
+        "num": 984937,
+        "word": "潘展乐又又又来告状了",
+        "onboard_time": 1722834204,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 976348,
+        "num": 976348,
+        "word": "李越宏25米手枪速射金牌",
+        "onboard_time": 1722845430,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 902149,
+        "num": 902149,
+        "word": "张博恒被送错场馆",
+        "onboard_time": 1722849745,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37879,
+        "num": 849703,
+        "word": "李政道曾将中国学生送往世界一流学堂",
+        "onboard_time": 1722849084,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450142,
+        "num": 842605,
+        "word": "安妮海瑟薇鞠婧祎穿了同款",
+        "onboard_time": 1722839302,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 842470,
+        "num": 842470,
+        "word": "张雨霏希望暂时告别游泳",
+        "onboard_time": 1722843203,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306183,
+        "num": 837993,
+        "word": "杨笠 想升职还是得跳槽",
+        "onboard_time": 1722843984,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282118,
+        "num": 746527,
+        "word": "金泳勋射箭成绩",
+        "onboard_time": 1722843563,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271769,
+        "num": 726375,
+        "word": "TF三代成团人数小于等于8",
+        "onboard_time": 1722847047,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 42508,
+        "num": 645972,
+        "word": "羽毛球女单决赛好焦灼",
+        "onboard_time": 1722849504,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 620524,
+        "num": 620524,
+        "word": "潘展乐卡点520发博",
+        "onboard_time": 1722838403,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 545755,
+        "num": 545755,
+        "word": "爷爷说好多女孩私下追潘展乐",
+        "onboard_time": 1722843684,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127185,
+        "num": 515335,
+        "word": "奥运场上的肚脐贴亮了",
+        "onboard_time": 1722847347,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 496104,
+        "num": 496104,
+        "word": "全红婵以为不用上学才去的跳水",
+        "onboard_time": 1722833545,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 374162,
+        "num": 374162,
+        "word": "潘展乐 我就说直说有用吧",
+        "onboard_time": 1722834204,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 368895,
+        "num": 368895,
+        "word": "乐乐爸没有否认",
+        "onboard_time": 1722841103,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 347661,
+        "num": 347661,
+        "word": "孙杨是不是真的是疯子啊",
+        "onboard_time": 1722830064,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 314266,
+        "num": 314266,
+        "word": "李越宏夺冠后哭了",
+        "onboard_time": 1722848007,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211859,
+        "num": 301547,
+        "word": "吉克隽逸衣服像婴儿的连体衣",
+        "onboard_time": 1722847287,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 203986,
+        "num": 294635,
+        "word": "你也会觉得我命好",
+        "onboard_time": 1722845970,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291032,
+        "num": 291032,
+        "word": "樊振东夺冠后乒乓球卖疯了",
+        "onboard_time": 1722837442,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282162,
+        "num": 282162,
+        "word": "潘展乐被叫潘队的原因",
+        "onboard_time": 1722848724,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278328,
+        "num": 278328,
+        "word": "曾鸣教授一上网发现天塌了",
+        "onboard_time": 1722839723,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 238111,
+        "num": 238111,
+        "word": "李政道始终心系祖国的科学教育事业",
+        "onboard_time": 1722850104,
+        "rank": 33,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 151922,
+        "num": 238103,
+        "word": "四川康定山洪泥石流9人遇难18人失联",
+        "onboard_time": 1722846268,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277572,
+        "num": 237827,
+        "word": "李越宏五枪全中",
+        "onboard_time": 1722846806,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268912,
+        "num": 237636,
+        "word": "孙佳俊晒金牌微瑕不出",
+        "onboard_time": 1722849804,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178781,
+        "num": 237347,
+        "word": "张雨霏覃海洋跳了张艺兴的歌",
+        "onboard_time": 1722834264,
+        "rank": 37,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 267570,
+        "num": 237290,
+        "word": "国乒女团首次登场",
+        "onboard_time": 1722827783,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194852,
+        "num": 237136,
+        "word": "杨幂运动辣妹风",
+        "onboard_time": 1722850284,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 266975,
+        "num": 236777,
+        "word": "潘展乐惊天逆转",
+        "onboard_time": 1722792563,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256350,
+        "num": 236563,
+        "word": "徐嘉余办走读",
+        "onboard_time": 1722843085,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236558,
+        "num": 236558,
+        "word": "美国田径百米冠军称自己患有多种疾病",
+        "onboard_time": 1722849385,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194405,
+        "num": 232084,
+        "word": "林允的腿不用P",
+        "onboard_time": 1722839004,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229313,
+        "num": 229313,
+        "word": "外媒说潘展乐中国飞鱼让世界臣服",
+        "onboard_time": 1722842784,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226928,
+        "num": 226928,
+        "word": "射击队梯队建设",
+        "onboard_time": 1722849924,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209413,
+        "num": 209413,
+        "word": "狐妖小红娘全新番外",
+        "onboard_time": 1722849745,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203186,
+        "num": 203186,
+        "word": "李政道",
+        "onboard_time": 1722844405,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168306,
+        "num": 168306,
+        "word": "医考帮崩了",
+        "onboard_time": 1722846927,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 162709,
+        "num": 162709,
+        "word": "鞠婧祎杂志",
+        "onboard_time": 1722829583,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革为人民#"
+    }
+  }
+}
