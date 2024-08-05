@@ -1,6 +1,6 @@
 {
   "startTime": 1722702313981,
-  "endTime": 1722829036849,
+  "endTime": 1722831849521,
   "band_list": [
     {
       "raw_hot": 35169209,
@@ -675,6 +675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2197075,
+      "num": 2197075,
+      "word": "孙杨是不是真的是疯子啊",
+      "onboard_time": 1722830064,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2152601,
       "num": 2152601,
       "word": "李洋王齐麟",
@@ -888,6 +896,14 @@
       "word": "郑钦文说对不起张之臻",
       "onboard_time": 1722721873,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1688201,
+      "num": 1688201,
+      "word": "潘展乐瞥了眼美国队说这怎么说啊",
+      "onboard_time": 1722829463,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -1307,6 +1323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 994214,
+      "num": 396782,
+      "word": "国乒女团首次登场",
+      "onboard_time": 1722827783,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 992809,
       "num": 3957653,
       "word": "王俊凯3票易烊千玺2票",
@@ -1507,6 +1531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 764854,
+      "num": 341950,
+      "word": "日本女乒全员说中文",
+      "onboard_time": 1722828023,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 759413,
       "num": 759413,
       "word": "何冰娇输掉首局",
@@ -1699,6 +1731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 647418,
+      "num": 647418,
+      "word": "第一次见男女主边亲边恨",
+      "onboard_time": 1722825861,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 639249,
       "num": 639249,
       "word": "樊振东领奖央视解说词",
@@ -1779,6 +1819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 594607,
+      "num": 594607,
+      "word": "35岁正是藏不住肉的年纪",
+      "onboard_time": 1722825142,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 593691,
       "num": 593691,
       "word": "超级大满贯",
@@ -1793,6 +1841,14 @@
       "onboard_time": 1722757882,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 582334,
+      "num": 439352,
+      "word": "还王昶妈生微笑唇",
+      "onboard_time": 1722827003,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 580342,
@@ -1835,14 +1891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 557308,
-      "num": 439352,
-      "word": "还王昶妈生微笑唇",
-      "onboard_time": 1722827003,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 549145,
       "num": 796845,
       "word": "曹骏沉香长大这么野的吗",
@@ -1857,6 +1905,14 @@
       "onboard_time": 1722696940,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 530729,
+      "num": 530729,
+      "word": "王一博到了肖战拍陈情令的年纪",
+      "onboard_time": 1722826042,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 525571,
@@ -1939,22 +1995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 508472,
-      "num": 324094,
-      "word": "国乒女团首次登场",
-      "onboard_time": 1722827783,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 505758,
-      "num": 505758,
-      "word": "第一次见男女主边亲边恨",
-      "onboard_time": 1722825861,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 505002,
       "num": 505002,
       "word": "男女4x100混接中国队名单",
@@ -2033,14 +2073,6 @@
       "onboard_time": 1722710235,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 484839,
-      "num": 484839,
-      "word": "王一博到了肖战拍陈情令的年纪",
-      "onboard_time": 1722826042,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 484819,
@@ -2179,28 +2211,12 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 422827,
-      "num": 311497,
-      "word": "日本女乒全员说中文",
-      "onboard_time": 1722828023,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 421999,
       "num": 421999,
       "word": "加拿大女篮vs尼日利亚女篮",
       "onboard_time": 1722770005,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 420569,
-      "num": 521023,
-      "word": "35岁正是藏不住肉的年纪",
-      "onboard_time": 1722825142,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 415945,
@@ -2636,7 +2652,7 @@
     },
     {
       "raw_hot": 336268,
-      "num": 200740,
+      "num": 300502,
       "word": "陈梦妈妈说只要中国拿到冠军就高兴",
       "onboard_time": 1722827003,
       "rank": 43,
@@ -2672,6 +2688,14 @@
       "word": "陈梦说不知这是不是自己最后一届奥运",
       "onboard_time": 1722723794,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 330944,
+      "num": 301560,
+      "word": "韩国人说潘展乐是鱼",
+      "onboard_time": 1722828623,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -2747,6 +2771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 308791,
+      "num": 300842,
+      "word": "孙杨潘展乐查重率",
+      "onboard_time": 1722831326,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 308556,
       "num": 2389998,
       "word": "23斤多冰毒竟被编进地毯里",
@@ -2768,14 +2800,6 @@
       "word": "郑钦文回应QueenWen称号",
       "onboard_time": 1722742404,
       "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 305361,
-      "num": 200574,
-      "word": "韩国人说潘展乐是鱼",
-      "onboard_time": 1722828623,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -2801,6 +2825,14 @@
       "onboard_time": 1722751643,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 303328,
+      "num": 325208,
+      "word": "民警和女友Citywalk抓了个嫌疑人",
+      "onboard_time": 1722827721,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302218,
@@ -2867,6 +2899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 292720,
+      "num": 341805,
+      "word": "俞灏明看张杰演唱会",
+      "onboard_time": 1722830603,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 292475,
       "num": 292475,
       "word": "QueenWen",
@@ -2889,6 +2929,14 @@
       "onboard_time": 1722728302,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 285271,
+      "num": 336264,
+      "word": "鞠婧祎杂志",
+      "onboard_time": 1722829583,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 284625,
@@ -2953,6 +3001,14 @@
       "onboard_time": 1722750203,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 272256,
+      "num": 272256,
+      "word": "张雨霏得牌率高达100%",
+      "onboard_time": 1722831446,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 270888,
@@ -3129,6 +3185,14 @@
       "onboard_time": 1722774449,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 248242,
+      "num": 302044,
+      "word": "跳地3官宣全是包袱",
+      "onboard_time": 1722829522,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 247158,
@@ -3355,6 +3419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209396,
+      "num": 270957,
+      "word": "易烊千玺工作室照片",
+      "onboard_time": 1722829102,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 208778,
       "num": 813499,
       "word": "杨旭文种田文男主",
@@ -3523,6 +3595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195413,
+      "num": 269360,
+      "word": "唐朝诡事录之长安繁盛之下海报",
+      "onboard_time": 1722831326,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195356,
       "num": 334980,
       "word": "火锅为什么便宜了",
@@ -3577,6 +3657,14 @@
       "onboard_time": 1722691593,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187085,
+      "num": 267727,
+      "word": "邢菲对秦海璐说太可怜了我们俩",
+      "onboard_time": 1722831747,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 186931,
@@ -3681,14 +3769,6 @@
       "onboard_time": 1722822143,
       "rank": 43,
       "category": "教育"
-    },
-    {
-      "raw_hot": 175391,
-      "num": 325208,
-      "word": "民警和女友Citywalk抓了个嫌疑人",
-      "onboard_time": 1722827721,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174691,
@@ -4147,6 +4227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103524,
+      "num": 593149,
+      "word": "伊朗议长称将给以美历史性教训",
+      "onboard_time": 1722830003,
+      "rank": 8,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 101448,
       "num": 101448,
       "word": "阿尔弗雷德加冕女飞人",
@@ -4337,6 +4425,14 @@
       "onboard_time": 1722708677,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 66912,
+      "num": 566214,
+      "word": "女高中生线上自习室连麦遇变态骚扰",
+      "onboard_time": 1722830423,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65380,
