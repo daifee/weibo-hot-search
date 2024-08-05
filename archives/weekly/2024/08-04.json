@@ -1,6 +1,6 @@
 {
   "startTime": 1722702313981,
-  "endTime": 1722862451928,
+  "endTime": 1722864204493,
   "band_list": [
     {
       "raw_hot": 35169209,
@@ -251,8 +251,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 5644844,
-      "num": 6106885,
+      "raw_hot": 5668471,
+      "num": 6501659,
       "word": "张博恒体操男子单杠铜牌",
       "onboard_time": 1722860911,
       "rank": 4,
@@ -305,6 +305,14 @@
       "onboard_time": 1722743964,
       "rank": 10,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 4900323,
+      "num": 4900323,
+      "word": "苏炜德失误",
+      "onboard_time": 1722861330,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 4734262,
@@ -392,6 +400,14 @@
       "word": "郑钦文冲金加油",
       "onboard_time": 1722678502,
       "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3898626,
+      "num": 3898626,
+      "word": "国乒女团vs埃及",
+      "onboard_time": 1722862587,
+      "rank": 3,
       "category": "体育"
     },
     {
@@ -696,6 +712,14 @@
       "word": "周雅琴银牌",
       "onboard_time": 1722857367,
       "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2520014,
+      "num": 1379533,
+      "word": "5.8难度的金牌",
+      "onboard_time": 1722860609,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -1187,11 +1211,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1498509,
-      "num": 1498509,
-      "word": "苏炜德失误",
-      "onboard_time": 1722861330,
-      "rank": 33,
+      "raw_hot": 1517546,
+      "num": 910281,
+      "word": "韩国选手错失奥运奖牌仰面哭泣",
+      "onboard_time": 1722860609,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -1292,7 +1316,7 @@
     },
     {
       "raw_hot": 1430837,
-      "num": 504788,
+      "num": 907118,
       "word": "樊振东回应贾一凡",
       "onboard_time": 1722856763,
       "rank": 42,
@@ -1336,14 +1360,6 @@
       "word": "樊振东今晚决赛加油",
       "onboard_time": 1722732864,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1379533,
-      "num": 1379533,
-      "word": "5.8难度的金牌",
-      "onboard_time": 1722860609,
-      "rank": 31,
       "category": "体育"
     },
     {
@@ -1556,7 +1572,7 @@
     },
     {
       "raw_hot": 1133544,
-      "num": 503268,
+      "num": 749533,
       "word": "何冰娇带西班牙徽章上领奖台",
       "onboard_time": 1722858863,
       "rank": 24,
@@ -1707,14 +1723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 985752,
-      "num": 500263,
-      "word": "韩国选手错失奥运奖牌仰面哭泣",
-      "onboard_time": 1722860609,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 985106,
       "num": 985106,
       "word": "张继科直播",
@@ -1768,6 +1776,14 @@
       "word": "莎莎帮邱贻可拍vlog素材",
       "onboard_time": 1722832766,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 947153,
+      "num": 1393711,
+      "word": "女子自由体操决赛",
+      "onboard_time": 1722861031,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -1835,6 +1851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 891747,
+      "num": 891747,
+      "word": "孙颖莎一单",
+      "onboard_time": 1722863485,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 883697,
       "num": 883697,
       "word": "潘展乐采访",
@@ -1873,6 +1897,14 @@
       "onboard_time": 1722776070,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 864535,
+      "num": 864535,
+      "word": "刘璇要哭了",
+      "onboard_time": 1722862646,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 859281,
@@ -1929,6 +1961,14 @@
       "onboard_time": 1722730643,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 786216,
+      "num": 786216,
+      "word": "壮壮妈好稳",
+      "onboard_time": 1722862047,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 786072,
@@ -2017,6 +2057,14 @@
       "onboard_time": 1722817348,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 734843,
+      "num": 734843,
+      "word": "中新网连麦潘展乐",
+      "onboard_time": 1722863485,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 732441,
@@ -2136,6 +2184,14 @@
       "word": "日本女篮vs比利时女篮",
       "onboard_time": 1722765924,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 677577,
+      "num": 302752,
+      "word": "潘展乐回应乐乐家族",
+      "onboard_time": 1722863126,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -2259,12 +2315,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 627039,
-      "num": 435681,
-      "word": "壮壮妈好稳",
-      "onboard_time": 1722862047,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 623667,
+      "num": 2934729,
+      "word": "倪夏莲回应张学友模仿自己名场面",
+      "onboard_time": 1722859764,
+      "rank": 13,
+      "category": "演出,体育"
     },
     {
       "raw_hot": 620664,
@@ -2355,14 +2411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 593627,
-      "num": 1479172,
-      "word": "倪夏莲回应张学友模仿自己名场面",
-      "onboard_time": 1722859764,
-      "rank": 13,
-      "category": "演出,体育"
-    },
-    {
       "raw_hot": 585598,
       "num": 1283406,
       "word": "华晨宇粉丝画出二维码购票",
@@ -2408,14 +2456,6 @@
       "word": "中国射击第5金",
       "onboard_time": 1722845670,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 569104,
-      "num": 1393711,
-      "word": "女子自由体操决赛",
-      "onboard_time": 1722861031,
-      "rank": 14,
       "category": "体育"
     },
     {
@@ -2505,6 +2545,14 @@
       "onboard_time": 1722696940,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 531508,
+      "num": 1487484,
+      "word": "陈丽君回应周深粉丝",
+      "onboard_time": 1722862706,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 525571,
@@ -3907,6 +3955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 286060,
+      "num": 850228,
+      "word": "央视游泳比赛也有潘展乐同款逆袭",
+      "onboard_time": 1722861927,
+      "rank": 28,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 285737,
       "num": 696198,
       "word": "周深回复黄雅琼",
@@ -3947,6 +4003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 283616,
+      "num": 917962,
+      "word": "女子10米跳台半决赛",
+      "onboard_time": 1722863306,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 282552,
       "num": 202485,
       "word": "张雨霏 女人中的女人",
@@ -3956,7 +4020,7 @@
     },
     {
       "raw_hot": 282501,
-      "num": 880664,
+      "num": 912744,
       "word": "鞠婧祎新杂志销量",
       "onboard_time": 1722854066,
       "rank": 34,
@@ -4024,6 +4088,14 @@
       "word": "中药材涨价堪比黄金",
       "onboard_time": 1722750203,
       "rank": 9,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 277030,
+      "num": 1438086,
+      "word": "离岸人民币升破7.1元关口",
+      "onboard_time": 1722859764,
+      "rank": 26,
       "category": "财经"
     },
     {
@@ -4148,7 +4220,7 @@
     },
     {
       "raw_hot": 263984,
-      "num": 505680,
+      "num": 913238,
       "word": "张杰回复奥运健儿点歌",
       "onboard_time": 1722858625,
       "rank": 17,
@@ -4385,14 +4457,6 @@
       "onboard_time": 1722774749,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 238144,
-      "num": 436902,
-      "word": "央视游泳比赛也有潘展乐同款逆袭",
-      "onboard_time": 1722861927,
-      "rank": 28,
-      "category": "综艺,体育"
     },
     {
       "raw_hot": 238111,
@@ -4899,20 +4963,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198029,
-      "num": 1438086,
-      "word": "离岸人民币升破7.1元关口",
-      "onboard_time": 1722859764,
-      "rank": 26,
-      "category": "财经"
-    },
-    {
       "raw_hot": 197486,
       "num": 243829,
       "word": "李泽锋人夫感上来渣夫感下去了",
       "onboard_time": 1722836063,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196965,
+      "num": 829794,
+      "word": "黄子弘凡小学的愿望实现了",
+      "onboard_time": 1722862587,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 196708,
@@ -4953,6 +5017,14 @@
       "onboard_time": 1722755063,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193399,
+      "num": 275649,
+      "word": "OMG淘汰",
+      "onboard_time": 1722863126,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 193025,
@@ -5289,6 +5361,14 @@
       "onboard_time": 1722860310,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166036,
+      "num": 275163,
+      "word": "白鹿杀青和粉丝合拍",
+      "onboard_time": 1722863066,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 165965,
@@ -5899,6 +5979,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 77120,
+      "num": 1316609,
+      "word": "浙江是中国游泳的定海神针",
+      "onboard_time": 1722862827,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76201,
       "num": 602758,
       "word": "美中央司令部司令抵达中东地区",
@@ -5913,6 +6001,14 @@
       "onboard_time": 1722781057,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 73332,
+      "num": 2449449,
+      "word": "国乒女团首战",
+      "onboard_time": 1722863728,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 73200,
@@ -6004,7 +6100,7 @@
     },
     {
       "raw_hot": 62251,
-      "num": 1427211,
+      "num": 4263864,
       "word": "神十八乘组在空间站里都忙些啥",
       "onboard_time": 1722843563,
       "rank": 10,
@@ -6123,6 +6219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46852,
+      "num": 793337,
+      "word": "3分钟的秀教会我100种穿搭",
+      "onboard_time": 1722863247,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 46764,
       "num": 146939,
       "word": "无畏会继续努力",
@@ -6161,6 +6265,14 @@
       "onboard_time": 1722856882,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43327,
+      "num": 916431,
+      "word": "一人一句为国乒女团加油",
+      "onboard_time": 1722863006,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 42765,
@@ -6337,6 +6449,14 @@
       "onboard_time": 1722771089,
       "rank": 42,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 6540,
+      "num": 918607,
+      "word": "中国队混合团体双向飞碟铜牌",
+      "onboard_time": 1722864087,
+      "rank": 12,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
