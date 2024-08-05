@@ -1,6 +1,6 @@
 {
   "startTime": 1722788553409,
-  "endTime": 1722826187863,
+  "endTime": 1722828154046,
   "band_list": [
     {
       "raw_hot": 16751358,
@@ -123,6 +123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3066272,
+      "num": 3066272,
+      "word": "对方教练 正常她不会赢",
+      "onboard_time": 1722824182,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2945913,
       "num": 2945913,
       "word": "樊振东男单金牌",
@@ -227,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1853676,
+      "num": 1853676,
+      "word": "谷爱凌和潘展乐握手",
+      "onboard_time": 1722824302,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1788248,
       "num": 1788248,
       "word": "德约科维奇金牌",
@@ -272,14 +288,6 @@
       "word": "全红婵和陈芋汐将上演神仙打架",
       "onboard_time": 1722819805,
       "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1628498,
-      "num": 1628498,
-      "word": "对方教练 正常她不会赢",
-      "onboard_time": 1722824182,
-      "rank": 15,
       "category": "体育"
     },
     {
@@ -336,14 +344,6 @@
       "word": "张继科直播",
       "onboard_time": 1722788904,
       "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 975870,
-      "num": 750270,
-      "word": "谷爱凌和潘展乐握手",
-      "onboard_time": 1722824302,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -459,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 637636,
+      "num": 776497,
+      "word": "吴千语施伯雄婚礼现场照",
+      "onboard_time": 1722824363,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 636470,
       "num": 636470,
       "word": "徐嘉余赢了墨霏",
@@ -483,12 +491,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 547580,
-      "num": 776497,
-      "word": "吴千语施伯雄婚礼现场照",
-      "onboard_time": 1722824363,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 565696,
+      "num": 764140,
+      "word": "男子欲取现20万还没出银行就被抓",
+      "onboard_time": 1722825142,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 543992,
@@ -497,6 +505,22 @@
       "onboard_time": 1722774269,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 523936,
+      "num": 442994,
+      "word": "为什么说潘展乐是孙杨汪顺的孩子",
+      "onboard_time": 1722827543,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 522408,
+      "num": 522408,
+      "word": "TFBOYS十年之约演唱会live专辑",
+      "onboard_time": 1722826342,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 522172,
@@ -571,12 +595,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 484839,
+      "num": 484839,
+      "word": "王一博到了肖战拍陈情令的年纪",
+      "onboard_time": 1722826042,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 479726,
       "num": 669140,
       "word": "电梯被人按住千万不要出去",
       "onboard_time": 1722817167,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 457179,
+      "num": 457179,
+      "word": "第一次见男女主边亲边恨",
+      "onboard_time": 1722825861,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 439352,
+      "num": 439352,
+      "word": "还王昶妈生微笑唇",
+      "onboard_time": 1722827003,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 430661,
@@ -659,6 +707,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 392889,
+      "num": 392889,
+      "word": "原来乒乓球决赛还有串场表演",
+      "onboard_time": 1722825323,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 383781,
+      "num": 383781,
+      "word": "樊振东说我尽力了",
+      "onboard_time": 1722827423,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 380342,
       "num": 5010261,
       "word": "大半个娱乐圈都去了张杰演唱会",
@@ -691,6 +755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 376049,
+      "num": 376049,
+      "word": "潘展乐家的奖牌墙专门留空给奥运金牌",
+      "onboard_time": 1722826522,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 373416,
       "num": 4282119,
       "word": "百花奖获奖名单",
@@ -704,6 +776,22 @@
       "word": "王昶梁伟铿第一次上奥运就是亚军",
       "onboard_time": 1722789563,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 368249,
+      "num": 521023,
+      "word": "35岁正是藏不住肉的年纪",
+      "onboard_time": 1722825142,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 354737,
+      "num": 354737,
+      "word": "许昕调侃王皓抱不动樊振东",
+      "onboard_time": 1722827663,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -755,11 +843,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 331036,
-      "num": 331036,
-      "word": "原来乒乓球决赛还有串场表演",
-      "onboard_time": 1722825323,
-      "rank": 43,
+      "raw_hot": 324094,
+      "num": 324094,
+      "word": "国乒女团首次登场",
+      "onboard_time": 1722827783,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -769,6 +857,14 @@
       "onboard_time": 1722818786,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 311497,
+      "num": 311497,
+      "word": "日本女乒全员说中文",
+      "onboard_time": 1722828023,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 308903,
@@ -793,14 +889,6 @@
       "onboard_time": 1722775171,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 301333,
-      "num": 764140,
-      "word": "男子欲取现20万还没出银行就被抓",
-      "onboard_time": 1722825142,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 297166,
@@ -857,14 +945,6 @@
       "onboard_time": 1722776070,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 232146,
-      "num": 521023,
-      "word": "35岁正是藏不住肉的年纪",
-      "onboard_time": 1722825142,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 228001,
@@ -947,6 +1027,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 207472,
+      "num": 209540,
+      "word": "鞠婧祎封面杂志预售",
+      "onboard_time": 1722827363,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 207076,
       "num": 664453,
       "word": "范丞丞加入马丽高叶群聊",
@@ -987,14 +1075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198000,
-      "num": 278900,
-      "word": "王一博到了肖战拍陈情令的年纪",
-      "onboard_time": 1722826042,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 195717,
       "num": 195717,
       "word": "潘展乐游了45秒92",
@@ -1003,11 +1083,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184375,
-      "num": 278147,
-      "word": "第一次见男女主边亲边恨",
-      "onboard_time": 1722825861,
-      "rank": 47,
+      "raw_hot": 188795,
+      "num": 209524,
+      "word": "生万物",
+      "onboard_time": 1722827062,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -1041,6 +1121,14 @@
       "onboard_time": 1722822143,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 175391,
+      "num": 209523,
+      "word": "民警和女友Citywalk抓了个嫌疑人",
+      "onboard_time": 1722827721,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172710,
@@ -1251,6 +1339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84341,
+      "num": 429884,
+      "word": "内塔尼亚胡希望美国不要干涉以色列内政",
+      "onboard_time": 1722828023,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 72931,
       "num": 5866175,
       "word": "这10个奥运表情令人动容",
@@ -1273,6 +1369,14 @@
       "onboard_time": 1722813320,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 59252,
+      "num": 617704,
+      "word": "美媒曝伊朗最早在周一袭击以色列",
+      "onboard_time": 1722826822,
+      "rank": 9,
+      "category": "国外时政,军事"
     },
     {
       "raw_hot": 52097,
