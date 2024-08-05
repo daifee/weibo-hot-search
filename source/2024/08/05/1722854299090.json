@@ -1,0 +1,410 @@
+{
+  "runTime": 1722854299090,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8452751,
+        "num": 8452751,
+        "word": "张博恒被送错场馆",
+        "onboard_time": 1722849745,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7646780,
+        "num": 7646780,
+        "word": "乐乐爸乐乐妈",
+        "onboard_time": 1722838223,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6065921,
+        "num": 6065921,
+        "word": "体操男子双杠决赛",
+        "onboard_time": 1722852804,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2636749,
+        "num": 2636749,
+        "word": "何冰娇银牌",
+        "onboard_time": 1722851427,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1938267,
+        "num": 1938267,
+        "word": "张博恒双杠第4",
+        "onboard_time": 1722853827,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1860156,
+        "num": 1860156,
+        "word": "邹敬园卫冕体操男子双杠金牌",
+        "onboard_time": 1722853708,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1716624,
+        "num": 1716624,
+        "word": "张博恒邹敬园男子双杠冲金",
+        "onboard_time": 1722850824,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 526192,
+        "num": 526192,
+        "word": "有影院拒绝播映逆行人生",
+        "onboard_time": 1722853466,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 515957,
+        "num": 515957,
+        "word": "张艺兴回应覃海洋张雨霏",
+        "onboard_time": 1722848845,
+        "rank": 8,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 35128,
+        "num": 491704,
+        "word": "李政道先生的入学履历表",
+        "onboard_time": 1722853827,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 933683,
+        "num": 490769,
+        "word": "李政道逝世",
+        "onboard_time": 1722845610,
+        "rank": 10,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 2384586,
+        "num": 489845,
+        "word": "潘展乐有自己的韩国白月光",
+        "onboard_time": 1722851905,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 487848,
+        "num": 487848,
+        "word": "国产HPV疫苗降价至一杯奶茶钱",
+        "onboard_time": 1722851064,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393229,
+        "num": 487564,
+        "word": "美国偶遇黄子韬徐艺洋一家",
+        "onboard_time": 1722853767,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34194,
+        "num": 487219,
+        "word": "1分钟回顾李政道生平",
+        "onboard_time": 1722853827,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1072667,
+        "num": 486469,
+        "word": "安洗莹vs何冰娇",
+        "onboard_time": 1722847406,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 391736,
+        "num": 486249,
+        "word": "安妮海瑟薇鞠婧祎穿了同款",
+        "onboard_time": 1722839302,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 379323,
+        "num": 485668,
+        "word": "杨幂运动辣妹风",
+        "onboard_time": 1722850284,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 319983,
+        "num": 485137,
+        "word": "章昊射箭",
+        "onboard_time": 1722850524,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 55148,
+        "num": 484902,
+        "word": "周雅琴出战女子平衡木决赛",
+        "onboard_time": 1722853827,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1018508,
+        "num": 484060,
+        "word": "女子10米台跳水预赛",
+        "onboard_time": 1722844705,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1018500,
+        "num": 483694,
+        "word": "全红婵陈芋汐和其他选手有壁",
+        "onboard_time": 1722850945,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 900121,
+        "num": 483104,
+        "word": "国羽巴黎2金3银收官",
+        "onboard_time": 1722852804,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 786072,
+        "num": 482829,
+        "word": "张博恒双杠15.100分",
+        "onboard_time": 1722853526,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253256,
+        "num": 482435,
+        "word": "凤凰传奇 根本抢不到",
+        "onboard_time": 1722851965,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 57596,
+        "num": 481823,
+        "word": "跟着微短剧去旅行第三批发布",
+        "onboard_time": 1722848784,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 719774,
+        "num": 481499,
+        "word": "邹敬园双杠16.200分",
+        "onboard_time": 1722853648,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 696084,
+        "num": 481089,
+        "word": "潘展乐又又又来告状了",
+        "onboard_time": 1722834204,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248791,
+        "num": 480485,
+        "word": "关晓彤说潘展乐是飞人",
+        "onboard_time": 1722846508,
+        "rank": 28,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 237153,
+        "num": 480151,
+        "word": "潘玮柏自曝追星科比的社死事件",
+        "onboard_time": 1722851185,
+        "rank": 29,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 649523,
+        "num": 479484,
+        "word": "羽毛球女单决赛",
+        "onboard_time": 1722848007,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 663892,
+        "num": 478919,
+        "word": "潘展乐卡点520发博",
+        "onboard_time": 1722838403,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 598931,
+        "num": 478397,
+        "word": "谢震业回应200米退赛",
+        "onboard_time": 1722852145,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 580796,
+        "num": 478116,
+        "word": "全红婵不给对手一丝机会",
+        "onboard_time": 1722851306,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224593,
+        "num": 477592,
+        "word": "鞠婧祎新杂志销量",
+        "onboard_time": 1722854066,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 579204,
+        "num": 477044,
+        "word": "全红婵陈芋汐携手晋级半决赛",
+        "onboard_time": 1722853345,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 476844,
+        "num": 476844,
+        "word": "中国女曲晋级四强",
+        "onboard_time": 1722850584,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 474665,
+        "num": 474665,
+        "word": "全红婵以为不用上学才去的跳水",
+        "onboard_time": 1722833545,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 430397,
+        "num": 430397,
+        "word": "樊振东已经在NextLevel",
+        "onboard_time": 1722851004,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208207,
+        "num": 404888,
+        "word": "吴奇隆说自己除了老花没什么弱点",
+        "onboard_time": 1722853887,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403449,
+        "num": 403449,
+        "word": "邹敬园掌管双杠的神",
+        "onboard_time": 1722853648,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 402596,
+        "num": 402596,
+        "word": "梁伟铿问李克勤何时开北京演唱会",
+        "onboard_time": 1722851845,
+        "rank": 41,
+        "category": "体育,演出"
+      },
+      {
+        "raw_hot": 209587,
+        "num": 386260,
+        "word": "李政道曾与杨振宁同获诺贝尔奖",
+        "onboard_time": 1722848366,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386008,
+        "num": 386008,
+        "word": "田径场睡美人",
+        "onboard_time": 1722851185,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 383067,
+        "num": 383067,
+        "word": "孙佳俊晒金牌微瑕不出",
+        "onboard_time": 1722849804,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 365430,
+        "num": 365430,
+        "word": "张雨霏希望暂时告别游泳",
+        "onboard_time": 1722843203,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181957,
+        "num": 363980,
+        "word": "伊朗对以打击或8月5日开始",
+        "onboard_time": 1722853105,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 178423,
+        "num": 360194,
+        "word": "海关发布公众号小编的网感",
+        "onboard_time": 1722853105,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163487,
+        "num": 357420,
+        "word": "Faker诊断新冠",
+        "onboard_time": 1722850765,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160042,
+        "num": 353490,
+        "word": "杨笠 想升职还是得跳槽",
+        "onboard_time": 1722843984,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#画好强国建设民族复兴最大同心圆#"
+    }
+  }
+}
