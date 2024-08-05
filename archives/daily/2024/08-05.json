@@ -1,6 +1,6 @@
 {
   "startTime": 1722788553409,
-  "endTime": 1722831849521,
+  "endTime": 1722832668500,
   "band_list": [
     {
       "raw_hot": 16751358,
@@ -88,6 +88,14 @@
       "word": "王昶发球",
       "onboard_time": 1722786648,
       "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3603729,
+      "num": 3603729,
+      "word": "孙杨是不是真的是疯子啊",
+      "onboard_time": 1722830064,
+      "rank": 3,
       "category": "体育"
     },
     {
@@ -187,19 +195,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2398918,
+      "num": 2398918,
+      "word": "潘展乐瞥了眼美国队说这怎么说啊",
+      "onboard_time": 1722829463,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2293666,
       "num": 2293666,
       "word": "美国队 脸紫",
       "onboard_time": 1722797714,
       "rank": 5,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2197075,
-      "num": 2197075,
-      "word": "孙杨是不是真的是疯子啊",
-      "onboard_time": 1722830064,
-      "rank": 3,
       "category": "体育"
     },
     {
@@ -291,19 +299,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1688201,
-      "num": 1688201,
-      "word": "潘展乐瞥了眼美国队说这怎么说啊",
-      "onboard_time": 1722829463,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1656473,
       "num": 1656473,
       "word": "全红婵和陈芋汐将上演神仙打架",
       "onboard_time": 1722819805,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1365801,
+      "num": 1365801,
+      "word": "国乒女团首次登场",
+      "onboard_time": 1722827783,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -355,14 +363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 994214,
-      "num": 396782,
-      "word": "国乒女团首次登场",
-      "onboard_time": 1722827783,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 985106,
       "num": 985106,
       "word": "张继科直播",
@@ -376,6 +376,14 @@
       "word": "樊振东夺冠 福原爱跳舞庆祝",
       "onboard_time": 1722816927,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 960353,
+      "num": 359310,
+      "word": "日本女乒全员说中文",
+      "onboard_time": 1722828023,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -409,14 +417,6 @@
       "onboard_time": 1722823043,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 764854,
-      "num": 341950,
-      "word": "日本女乒全员说中文",
-      "onboard_time": 1722828023,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 753006,
@@ -467,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 699549,
+      "num": 699549,
+      "word": "第一次见男女主边亲边恨",
+      "onboard_time": 1722825861,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 681667,
       "num": 411212,
       "word": "许昕调侃王皓抱不动樊振东",
@@ -499,14 +507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 647418,
-      "num": 647418,
-      "word": "第一次见男女主边亲边恨",
-      "onboard_time": 1722825861,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 639249,
       "num": 639249,
       "word": "樊振东领奖央视解说词",
@@ -529,6 +529,14 @@
       "onboard_time": 1722795076,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 635617,
+      "num": 635617,
+      "word": "王一博到了肖战拍陈情令的年纪",
+      "onboard_time": 1722826042,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 604908,
@@ -571,20 +579,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 563902,
+      "num": 383781,
+      "word": "樊振东说我尽力了",
+      "onboard_time": 1722827423,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 543992,
       "num": 5328608,
       "word": "赵丽颖百花奖最佳女配角",
       "onboard_time": 1722774269,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 530729,
-      "num": 530729,
-      "word": "王一博到了肖战拍陈情令的年纪",
-      "onboard_time": 1722826042,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 522408,
@@ -600,14 +608,6 @@
       "word": "潘展乐不装了摊牌了",
       "onboard_time": 1722816027,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 520179,
-      "num": 383781,
-      "word": "樊振东说我尽力了",
-      "onboard_time": 1722827423,
-      "rank": 35,
       "category": "体育"
     },
     {
@@ -787,6 +787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 379447,
+      "num": 379447,
+      "word": "唐朝诡事录之长安繁盛之下海报",
+      "onboard_time": 1722831326,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 377476,
       "num": 377476,
       "word": "王皓振臂怒吼",
@@ -891,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 317858,
+      "num": 300842,
+      "word": "孙杨潘展乐查重率",
+      "onboard_time": 1722831326,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 316698,
       "num": 620037,
       "word": "人甚至没法共情小时候的自己",
@@ -905,14 +921,6 @@
       "onboard_time": 1722825262,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 308791,
-      "num": 300842,
-      "word": "孙杨潘展乐查重率",
-      "onboard_time": 1722831326,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 307671,
@@ -945,6 +953,14 @@
       "onboard_time": 1722789502,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 295166,
+      "num": 241884,
+      "word": "郑钦文把最初的梦想送给中国网球",
+      "onboard_time": 1722832406,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 292720,
@@ -987,12 +1003,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 272256,
+      "raw_hot": 274947,
+      "num": 240792,
+      "word": "谷爱凌回应被全红婵夸漂亮",
+      "onboard_time": 1722831986,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 273995,
       "num": 272256,
       "word": "张雨霏得牌率高达100%",
       "onboard_time": 1722831446,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 267471,
+      "num": 267471,
+      "word": "第五人格",
+      "onboard_time": 1722832226,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 266200,
@@ -1091,6 +1123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 215209,
+      "num": 267727,
+      "word": "邢菲对秦海璐说太可怜了我们俩",
+      "onboard_time": 1722831747,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210582,
       "num": 210582,
       "word": "潘展乐奥运双冠王",
@@ -1099,7 +1139,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 209396,
+      "raw_hot": 209766,
       "num": 270957,
       "word": "易烊千玺工作室照片",
       "onboard_time": 1722829102,
@@ -1179,27 +1219,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195413,
-      "num": 269360,
-      "word": "唐朝诡事录之长安繁盛之下海报",
-      "onboard_time": 1722831326,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 188795,
       "num": 209524,
       "word": "生万物",
       "onboard_time": 1722827062,
       "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 187085,
-      "num": 267727,
-      "word": "邢菲对秦海璐说太可怜了我们俩",
-      "onboard_time": 1722831747,
-      "rank": 47,
       "category": "剧集"
     },
     {
@@ -1241,6 +1265,14 @@
       "onboard_time": 1722822685,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 172018,
+      "num": 328482,
+      "word": "柳舟记当街做恨",
+      "onboard_time": 1722831865,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 170559,
@@ -1339,6 +1371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149665,
+      "num": 593149,
+      "word": "伊朗议长称将给以美历史性教训",
+      "onboard_time": 1722830003,
+      "rank": 8,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 146269,
       "num": 393692,
       "word": "马丽百花奖最佳女主角",
@@ -1395,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119992,
+      "num": 566214,
+      "word": "女高中生线上自习室连麦遇变态骚扰",
+      "onboard_time": 1722830423,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117782,
       "num": 117782,
       "word": "中国队第19金",
@@ -1417,14 +1465,6 @@
       "onboard_time": 1722804852,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 103524,
-      "num": 593149,
-      "word": "伊朗议长称将给以美历史性教训",
-      "onboard_time": 1722830003,
-      "rank": 8,
-      "category": "国外时政"
     },
     {
       "raw_hot": 96364,
@@ -1481,14 +1521,6 @@
       "onboard_time": 1722781652,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66912,
-      "num": 566214,
-      "word": "女高中生线上自习室连麦遇变态骚扰",
-      "onboard_time": 1722830423,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 65380,
