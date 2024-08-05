@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1722843292040,
+  "endTime": 1722846346682,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -256,6 +256,14 @@
       "word": "射击混合团体10米气步枪",
       "onboard_time": 1722059899,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 16181253,
+      "num": 16181253,
+      "word": "乐乐爸乐乐妈",
+      "onboard_time": 1722838223,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -2393,14 +2401,6 @@
       "onboard_time": 1707488019,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 5737660,
-      "num": 515305,
-      "word": "免去秦刚同志中央委员会委员职务",
-      "onboard_time": 1721292140,
-      "rank": 3,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [

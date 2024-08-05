@@ -1,6 +1,6 @@
 {
   "startTime": 1722788553409,
-  "endTime": 1722843292040,
+  "endTime": 1722846346682,
   "band_list": [
     {
       "raw_hot": 16751358,
@@ -8,6 +8,14 @@
       "word": "中国队男子4×100混接金牌",
       "onboard_time": 1722792145,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 16181253,
+      "num": 16181253,
+      "word": "乐乐爸乐乐妈",
+      "onboard_time": 1722838223,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -64,14 +72,6 @@
       "word": "张雨霏50自铜牌",
       "onboard_time": 1722789622,
       "rank": 0,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 4729944,
-      "num": 4729944,
-      "word": "乐乐爸乐乐妈",
-      "onboard_time": 1722838223,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -139,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3107271,
+      "num": 3107271,
+      "word": "孙杨 老婆孩子在巴黎",
+      "onboard_time": 1722843563,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3066272,
       "num": 3066272,
       "word": "对方教练 正常她不会赢",
@@ -184,6 +192,14 @@
       "word": "女排裁判",
       "onboard_time": 1722791184,
       "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2572981,
+      "num": 2572981,
+      "word": "男子25米手枪速射决赛",
+      "onboard_time": 1722843385,
+      "rank": 3,
       "category": "体育"
     },
     {
@@ -240,6 +256,22 @@
       "word": "李洋王齐麟",
       "onboard_time": 1722786432,
       "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2056069,
+      "num": 2056069,
+      "word": "李政道逝世",
+      "onboard_time": 1722845610,
+      "rank": 4,
+      "category": "社会新闻,科学科普"
+    },
+    {
+      "raw_hot": 2011562,
+      "num": 2011562,
+      "word": "李越宏25米手枪速射金牌",
+      "onboard_time": 1722845430,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -403,6 +435,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1213951,
+      "num": 1876215,
+      "word": "百花奖最佳男主36位弃票",
+      "onboard_time": 1722841343,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1197215,
+      "num": 1197215,
+      "word": "女子10米台跳水预赛",
+      "onboard_time": 1722844705,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1107702,
       "num": 1107702,
       "word": "中国女排扳平塞尔维亚",
@@ -436,7 +484,7 @@
     },
     {
       "raw_hot": 1027023,
-      "num": 1027023,
+      "num": 1780952,
       "word": "安妮海瑟薇鞠婧祎穿了同款",
       "onboard_time": 1722839302,
       "rank": 39,
@@ -523,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 757961,
+      "num": 757961,
+      "word": "李政道",
+      "onboard_time": 1722844405,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 753006,
       "num": 4141626,
       "word": "阿黛尔暂停演唱会观看女子百米决赛",
@@ -601,14 +657,6 @@
       "onboard_time": 1722827663,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 669058,
-      "num": 691707,
-      "word": "百花奖最佳男主36位弃票",
-      "onboard_time": 1722841343,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 666417,
@@ -747,6 +795,30 @@
       "category": "演出"
     },
     {
+      "raw_hot": 537305,
+      "num": 537305,
+      "word": "徐嘉余办走读",
+      "onboard_time": 1722843085,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 536732,
+      "num": 536732,
+      "word": "爷爷说好多女孩私下追潘展乐",
+      "onboard_time": 1722843684,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 534825,
+      "num": 534825,
+      "word": "张雨霏希望暂时告别游泳",
+      "onboard_time": 1722843203,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 522408,
       "num": 522408,
       "word": "TFBOYS十年之约演唱会live专辑",
@@ -843,6 +915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 475637,
+      "num": 475637,
+      "word": "日媒解说的就像自家赢了金牌",
+      "onboard_time": 1722841823,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 464417,
       "num": 464417,
       "word": "唐朝诡事录之长安繁盛之下海报",
@@ -889,6 +969,14 @@
       "onboard_time": 1722841643,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 433196,
+      "num": 433196,
+      "word": "中国射击第5金",
+      "onboard_time": 1722845670,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 430661,
@@ -952,6 +1040,14 @@
       "word": "张雨霏获9枚奥运奖牌",
       "onboard_time": 1722791184,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 405776,
+      "num": 405776,
+      "word": "马尔尚向中国教练解释并互赠礼物",
+      "onboard_time": 1722844105,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -1019,14 +1115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 377469,
-      "num": 377469,
-      "word": "日媒解说的就像自家赢了金牌",
-      "onboard_time": 1722841823,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 376646,
       "num": 376646,
       "word": "莱尔斯百米夺金",
@@ -1067,11 +1155,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 357920,
+      "num": 635726,
+      "word": "杨笠 想升职还是得跳槽",
+      "onboard_time": 1722843984,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 351258,
       "num": 333332,
       "word": "张雨霏得牌率高达100%",
       "onboard_time": 1722831446,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 350571,
+      "num": 226728,
+      "word": "王鑫杰25米手枪速射铜牌",
+      "onboard_time": 1722845670,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -1096,6 +1200,14 @@
       "word": "闫子贝出现了",
       "onboard_time": 1722797534,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 346857,
+      "num": 320521,
+      "word": "外媒说潘展乐中国飞鱼让世界臣服",
+      "onboard_time": 1722842784,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -1159,14 +1271,6 @@
       "num": 320671,
       "word": "潘展乐接力45秒92能算作世界纪录吗",
       "onboard_time": 1722840804,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 320521,
-      "num": 320521,
-      "word": "外媒说潘展乐中国飞鱼让世界臣服",
-      "onboard_time": 1722842784,
       "rank": 36,
       "category": "体育"
     },
@@ -1243,6 +1347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300910,
+      "num": 631681,
+      "word": "黄子韬把向佐都整无语了",
+      "onboard_time": 1722841043,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297174,
       "num": 297174,
       "word": "孙杨回应纪录被打破",
@@ -1264,14 +1376,6 @@
       "word": "郑钦文把最初的梦想送给中国网球",
       "onboard_time": 1722832406,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 295055,
-      "num": 295055,
-      "word": "徐嘉余办走读",
-      "onboard_time": 1722843085,
-      "rank": 40,
       "category": "体育"
     },
     {
@@ -1299,6 +1403,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 282552,
+      "num": 202485,
+      "word": "张雨霏 女人中的女人",
+      "onboard_time": 1722844524,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 281455,
+      "num": 201684,
+      "word": "中国第20金",
+      "onboard_time": 1722846029,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 281326,
       "num": 281326,
       "word": "孙杨说在潘展乐身上看到了自己的影子",
@@ -1313,14 +1433,6 @@
       "onboard_time": 1722826163,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 278957,
-      "num": 470334,
-      "word": "黄子韬把向佐都整无语了",
-      "onboard_time": 1722841043,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 278409,
@@ -1345,14 +1457,6 @@
       "onboard_time": 1722833725,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 273692,
-      "num": 273692,
-      "word": "张雨霏希望暂时告别游泳",
-      "onboard_time": 1722843203,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 267471,
@@ -1428,7 +1532,7 @@
     },
     {
       "raw_hot": 256053,
-      "num": 384667,
+      "num": 535021,
       "word": "185的刘昊然120的容金珍",
       "onboard_time": 1722841583,
       "rank": 44,
@@ -1436,7 +1540,7 @@
     },
     {
       "raw_hot": 255169,
-      "num": 320587,
+      "num": 535642,
       "word": "杨幂生万物一滴泪镜头",
       "onboard_time": 1722843144,
       "rank": 34,
@@ -1747,6 +1851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171714,
+      "num": 171714,
+      "word": "四川康定山洪泥石流9人遇难18人失联",
+      "onboard_time": 1722846268,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170559,
       "num": 488112,
       "word": "陈丽君 浮生一白",
@@ -1777,6 +1889,14 @@
       "onboard_time": 1722773787,
       "rank": 7,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 168107,
+      "num": 168107,
+      "word": "你也会觉得我命好",
+      "onboard_time": 1722845970,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 165965,
@@ -1931,6 +2051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115874,
+      "num": 1750750,
+      "word": "一年花掉50万中产们卷起天价一对一",
+      "onboard_time": 1722844827,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111929,
       "num": 617704,
       "word": "美媒曝伊朗最早在周一袭击以色列",
@@ -1948,7 +2076,7 @@
     },
     {
       "raw_hot": 102828,
-      "num": 1923150,
+      "num": 2639218,
       "word": "原来北京中轴线也亮相过奥运会",
       "onboard_time": 1722826222,
       "rank": 2,
@@ -2035,6 +2163,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 71774,
+      "num": 655699,
+      "word": "vivo凭啥成为手机影像届卷王",
+      "onboard_time": 1722842183,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 65380,
       "num": 174386,
       "word": "齐思钧又在披荆斩棘乘风破浪了",
@@ -2057,14 +2193,6 @@
       "onboard_time": 1722813320,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 60862,
-      "num": 387666,
-      "word": "vivo凭啥成为手机影像届卷王",
-      "onboard_time": 1722842183,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 57868,
