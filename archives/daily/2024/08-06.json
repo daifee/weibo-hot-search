@@ -1,6 +1,6 @@
 {
   "startTime": 1722875081704,
-  "endTime": 1722900080944,
+  "endTime": 1722900879563,
   "band_list": [
     {
       "raw_hot": 5783219,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 914380,
-      "num": 332154,
+      "num": 422111,
       "word": "安洗莹炮轰韩国羽协",
       "onboard_time": 1722884172,
       "rank": 30,
@@ -168,6 +168,14 @@
       "word": "韩国选手错失奥运奖牌仰面哭泣",
       "onboard_time": 1722860609,
       "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 449781,
+      "num": 449781,
+      "word": "冯彬铁饼银牌",
+      "onboard_time": 1722886992,
+      "rank": 0,
       "category": "体育"
     },
     {
@@ -259,14 +267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 363629,
-      "num": 363629,
-      "word": "冯彬铁饼银牌",
-      "onboard_time": 1722886992,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
       "raw_hot": 362703,
       "num": 965366,
       "word": "原来这就是唇语的绝对语感",
@@ -291,19 +291,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 319462,
+      "num": 319462,
+      "word": "撑竿跳帅哥",
+      "onboard_time": 1722882793,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 311757,
+      "num": 409110,
+      "word": "杨志刚在看唐诡3的剧本了",
+      "onboard_time": 1722877997,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 309399,
       "num": 309399,
       "word": "张博恒不愿展示铜牌",
       "onboard_time": 1722879616,
       "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 304683,
-      "num": 237579,
-      "word": "撑竿跳帅哥",
-      "onboard_time": 1722882793,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 282343,
-      "num": 290338,
+      "num": 389977,
       "word": "郭靖宇说唐诡第三季有10个故事",
       "onboard_time": 1722875062,
       "rank": 47,
@@ -355,12 +363,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 263118,
-      "num": 263118,
-      "word": "杨志刚在看唐诡3的剧本了",
-      "onboard_time": 1722877997,
-      "rank": 45,
-      "category": "剧集"
+      "raw_hot": 266075,
+      "num": 266075,
+      "word": "外国人都看不下去了",
+      "onboard_time": 1722895581,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 264621,
+      "num": 264621,
+      "word": "全红婵比赛前一天在拆乌龟盲盒",
+      "onboard_time": 1722894671,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 259542,
@@ -384,6 +400,14 @@
       "word": "撑竿跳",
       "onboard_time": 1722878536,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 246168,
+      "num": 246168,
+      "word": "孙颖莎说团体第一场发挥正常",
+      "onboard_time": 1722899839,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -427,14 +451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 214647,
-      "num": 123509,
-      "word": "全红婵比赛前一天在拆乌龟盲盒",
-      "onboard_time": 1722894671,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 208388,
       "num": 208388,
       "word": "羽毛球男单决赛",
@@ -444,18 +460,10 @@
     },
     {
       "raw_hot": 208025,
-      "num": 165926,
+      "num": 214814,
       "word": "张雨霏 不说再见我们会再见",
       "onboard_time": 1722877099,
       "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 197347,
-      "num": 122482,
-      "word": "外国人都看不下去了",
-      "onboard_time": 1722895581,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -476,7 +484,7 @@
     },
     {
       "raw_hot": 187810,
-      "num": 114941,
+      "num": 216267,
       "word": "冯彬带伤夺银",
       "onboard_time": 1722899839,
       "rank": 31,
@@ -499,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182353,
+      "num": 400891,
+      "word": "伊朗",
+      "onboard_time": 1722876919,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 179583,
       "num": 104328,
       "word": "花样游泳 好看",
@@ -513,14 +529,6 @@
       "onboard_time": 1722860430,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 173300,
-      "num": 173300,
-      "word": "伊朗",
-      "onboard_time": 1722876919,
-      "rank": 33,
-      "category": "国外时政"
     },
     {
       "raw_hot": 170331,
@@ -587,6 +595,22 @@
       "category": "社会新闻,科学科普"
     },
     {
+      "raw_hot": 133552,
+      "num": 215740,
+      "word": "射击运动员又水灵灵地被艾特了",
+      "onboard_time": 1722899839,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 132673,
+      "num": 215580,
+      "word": "潘展乐回应金牌痛床",
+      "onboard_time": 1722900147,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129409,
       "num": 346688,
       "word": "麦迪娜一家三口新疆vlog",
@@ -619,16 +643,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 123892,
-      "num": 112836,
-      "word": "孙颖莎说团体第一场发挥正常",
-      "onboard_time": 1722899839,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 121625,
-      "num": 213166,
+      "num": 216583,
       "word": "儿慈会要求陪睡才捐款的录音是假的",
       "onboard_time": 1722880635,
       "rank": 49,
@@ -651,14 +667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 114865,
-      "num": 112811,
-      "word": "射击运动员又水灵灵地被艾特了",
-      "onboard_time": 1722899839,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 106947,
       "num": 273951,
       "word": "张杰出道二十周年",
@@ -668,15 +676,23 @@
     },
     {
       "raw_hot": 105493,
-      "num": 157353,
+      "num": 217042,
       "word": "私藏浪漫",
       "onboard_time": 1722872543,
       "rank": 48,
       "category": "剧集"
     },
     {
+      "raw_hot": 104265,
+      "num": 214906,
+      "word": "潘展乐顶级痛床",
+      "onboard_time": 1722900748,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97085,
-      "num": 126486,
+      "num": 216925,
       "word": "像素画室",
       "onboard_time": 1722878776,
       "rank": 46,
@@ -691,12 +707,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85105,
+      "num": 214158,
+      "word": "苹果创近两年最大单日跌幅",
+      "onboard_time": 1722899968,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 82200,
       "num": 112759,
       "word": "潘展乐这能说吗2.0",
       "onboard_time": 1722893232,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81757,
+      "num": 214041,
+      "word": "男子殴打妻子致死案最新进展",
+      "onboard_time": 1722888671,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 81673,
@@ -713,14 +745,6 @@
       "onboard_time": 1722886032,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 75802,
-      "num": 112730,
-      "word": "男子殴打妻子致死案最新进展",
-      "onboard_time": 1722888671,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 72854,
@@ -755,24 +779,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 61613,
-      "num": 794518,
+      "raw_hot": 65018,
+      "num": 1037146,
       "word": "2024电影票房破300亿",
       "onboard_time": 1722866368,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 57410,
-      "num": 112696,
-      "word": "苹果创近两年最大单日跌幅",
-      "onboard_time": 1722899968,
-      "rank": 49,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 49127,
-      "num": 341909,
+      "raw_hot": 55350,
+      "num": 434073,
       "word": "男子买42万黄金寄出警察冲上门劝阻",
       "onboard_time": 1722896233,
       "rank": 24,
@@ -801,6 +817,14 @@
       "onboard_time": 1722886932,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42745,
+      "num": 213675,
+      "word": "杨紫上海休息日citywalk",
+      "onboard_time": 1722900567,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 42718,
