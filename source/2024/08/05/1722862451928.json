@@ -1,0 +1,410 @@
+{
+  "runTime": 1722862451928,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7374292,
+        "num": 7374292,
+        "word": "体操男子单杠决赛",
+        "onboard_time": 1722856703,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6173013,
+        "num": 6173013,
+        "word": "平衡木 掉木",
+        "onboard_time": 1722855863,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5644844,
+        "num": 6106885,
+        "word": "张博恒体操男子单杠铜牌",
+        "onboard_time": 1722860911,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4024304,
+        "num": 4024304,
+        "word": "张博恒没站稳",
+        "onboard_time": 1722860430,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2194448,
+        "num": 2194448,
+        "word": "军书十二卷 卷卷有茶名",
+        "onboard_time": 1722855268,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1498509,
+        "num": 1498509,
+        "word": "苏炜德失误",
+        "onboard_time": 1722861330,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 593627,
+        "num": 1479172,
+        "word": "倪夏莲回应张学友模仿自己名场面",
+        "onboard_time": 1722859764,
+        "rank": 6,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 232662,
+        "num": 1439377,
+        "word": "SJM回归",
+        "onboard_time": 1722858863,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 198029,
+        "num": 1438086,
+        "word": "离岸人民币升破7.1元关口",
+        "onboard_time": 1722859764,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 569104,
+        "num": 1393711,
+        "word": "女子自由体操决赛",
+        "onboard_time": 1722861031,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1379533,
+        "num": 1379533,
+        "word": "5.8难度的金牌",
+        "onboard_time": 1722860609,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1358552,
+        "num": 1358552,
+        "word": "张博恒被送错场馆",
+        "onboard_time": 1722849745,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 957479,
+        "num": 957479,
+        "word": "山东省属事业单位收回事业编制",
+        "onboard_time": 1722855863,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 772557,
+        "num": 772557,
+        "word": "美国偶遇黄子韬徐艺洋一家",
+        "onboard_time": 1722853767,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508996,
+        "num": 508996,
+        "word": "国产HPV疫苗降价至一杯奶茶钱",
+        "onboard_time": 1722851064,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1249976,
+        "num": 499058,
+        "word": "樊振东回应贾一凡",
+        "onboard_time": 1722856763,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1037500,
+        "num": 484970,
+        "word": "张博恒单杠",
+        "onboard_time": 1722856523,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259080,
+        "num": 478532,
+        "word": "张杰回复奥运健儿点歌",
+        "onboard_time": 1722858625,
+        "rank": 17,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 215661,
+        "num": 466074,
+        "word": "鞠婧祎新杂志销量",
+        "onboard_time": 1722854066,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207058,
+        "num": 455200,
+        "word": "于正白鹿曾舜晞合影",
+        "onboard_time": 1722860853,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 448027,
+        "num": 448027,
+        "word": "有影院拒绝播映逆行人生",
+        "onboard_time": 1722853466,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 998790,
+        "num": 446558,
+        "word": "何冰娇带西班牙徽章上领奖台",
+        "onboard_time": 1722858863,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 985752,
+        "num": 444239,
+        "word": "韩国选手错失奥运奖牌仰面哭泣",
+        "onboard_time": 1722860609,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 979938,
+        "num": 443394,
+        "word": "张博恒 水逆",
+        "onboard_time": 1722858564,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 961802,
+        "num": 440919,
+        "word": "周雅琴银牌",
+        "onboard_time": 1722857367,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171245,
+        "num": 439748,
+        "word": "杨幂运动辣妹风",
+        "onboard_time": 1722850284,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 437904,
+        "num": 437904,
+        "word": "李政道逝世",
+        "onboard_time": 1722845610,
+        "rank": 26,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 881901,
+        "num": 437529,
+        "word": "中国游泳队夺金英国蛙王破大防",
+        "onboard_time": 1722854664,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238144,
+        "num": 436902,
+        "word": "央视游泳比赛也有潘展乐同款逆袭",
+        "onboard_time": 1722861927,
+        "rank": 28,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 631129,
+        "num": 436334,
+        "word": "拜尔斯掉木",
+        "onboard_time": 1722856823,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 627039,
+        "num": 435681,
+        "word": "壮壮妈好稳",
+        "onboard_time": 1722862047,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 574615,
+        "num": 435079,
+        "word": "潘展乐又又又来告状了",
+        "onboard_time": 1722834204,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 547155,
+        "num": 434400,
+        "word": "张博恒双杠第4",
+        "onboard_time": 1722853827,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305933,
+        "num": 434280,
+        "word": "女子入职5个月后因怀孕10天没到岗",
+        "onboard_time": 1722855268,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259887,
+        "num": 433358,
+        "word": "华为发布会",
+        "onboard_time": 1722860248,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 167187,
+        "num": 433222,
+        "word": "魏哲鸣 我能成为你日久生情的crush吗",
+        "onboard_time": 1722857427,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 518762,
+        "num": 432233,
+        "word": "周雅琴 琴后",
+        "onboard_time": 1722857184,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 454655,
+        "num": 431887,
+        "word": "真的有点怜爱张博恒",
+        "onboard_time": 1722860911,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 431469,
+        "num": 431469,
+        "word": "潘展乐卡点520发博",
+        "onboard_time": 1722838403,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 421809,
+        "num": 421809,
+        "word": "张博恒背影",
+        "onboard_time": 1722855683,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 418992,
+        "num": 418992,
+        "word": "邹敬园卫冕体操男子双杠金牌",
+        "onboard_time": 1722853708,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100568,
+        "num": 377025,
+        "word": "李政道1994年当选为中科院外籍院士",
+        "onboard_time": 1722857184,
+        "rank": 41,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 362687,
+        "num": 362687,
+        "word": "史上最难看的平衡木决赛",
+        "onboard_time": 1722861806,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 349384,
+        "num": 349384,
+        "word": "平衡木冠军",
+        "onboard_time": 1722861447,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317727,
+        "num": 317727,
+        "word": "心疼茶茶",
+        "onboard_time": 1722862347,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203340,
+        "num": 316939,
+        "word": "魏哲鸣被男粉叫老公的反应",
+        "onboard_time": 1722856583,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146864,
+        "num": 314381,
+        "word": "文咏珊参加百花奖错过吴千语婚礼",
+        "onboard_time": 1722853225,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144991,
+        "num": 311152,
+        "word": "射频美容仪从5000跌到900元",
+        "onboard_time": 1722861330,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 139165,
+        "num": 310416,
+        "word": "王一博工作室发庆生视频",
+        "onboard_time": 1722860310,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42208,
+        "num": 307696,
+        "word": "看樊振东比赛的标配",
+        "onboard_time": 1722858745,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革为人民#"
+    }
+  }
+}
