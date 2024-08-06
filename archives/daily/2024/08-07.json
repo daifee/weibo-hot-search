@@ -1,6 +1,6 @@
 {
   "startTime": 1722961504263,
-  "endTime": 1722975548853,
+  "endTime": 1722976519700,
   "band_list": [
     {
       "raw_hot": 3693867,
@@ -579,6 +579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90954,
+      "num": 90954,
+      "word": "女子拳击",
+      "onboard_time": 1722973992,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89191,
       "num": 1474865,
       "word": "孟加拉国总统宣布解散国民议会",
@@ -603,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70068,
+      "num": 214266,
+      "word": "唐尚珺说很大概率读大学",
+      "onboard_time": 1722970812,
+      "rank": 22,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 62821,
       "num": 94556,
       "word": "巴黎奥运女子链球决赛",
@@ -619,28 +635,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 58237,
-      "num": 214266,
-      "word": "唐尚珺说很大概率读大学",
-      "onboard_time": 1722970812,
-      "rank": 22,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 57751,
       "num": 116399,
       "word": "官方认证鞠婧祎杂志销量",
       "onboard_time": 1722969793,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 53893,
-      "num": 53893,
-      "word": "女子拳击",
-      "onboard_time": 1722973992,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 51424,
@@ -652,7 +652,7 @@
     },
     {
       "raw_hot": 49249,
-      "num": 39744,
+      "num": 41549,
       "word": "男子跳远决赛",
       "onboard_time": 1722973332,
       "rank": 36,
@@ -667,20 +667,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 42366,
+      "num": 42366,
+      "word": "陈芋汐207C跳出89.10分",
+      "onboard_time": 1722975312,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 41119,
+      "num": 41119,
+      "word": "吴愉晋级拳击决赛",
+      "onboard_time": 1722976331,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39520,
       "num": 295268,
       "word": "当地检察院回应魏新河被批捕",
       "onboard_time": 1722966256,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38468,
-      "num": 38468,
-      "word": "陈芋汐207C跳出89.10分",
-      "onboard_time": 1722975312,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 35913,
