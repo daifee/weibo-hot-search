@@ -1,0 +1,410 @@
+{
+  "runTime": 1722918294922,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2198436,
+        "num": 2198436,
+        "word": "潘展乐说这段采访先别播",
+        "onboard_time": 1722905604,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2139932,
+        "num": 2139932,
+        "word": "孙颖莎世排第一9000分",
+        "onboard_time": 1722907942,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17056,
+        "num": 2007782,
+        "word": "2024电影票房破300亿",
+        "onboard_time": 1722866368,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1995292,
+        "num": 1995292,
+        "word": "王昶在台湾是真的火",
+        "onboard_time": 1722913823,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1737749,
+        "num": 1737749,
+        "word": "韩国选手 不用服兵役喽",
+        "onboard_time": 1722912743,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1539173,
+        "num": 1539173,
+        "word": "王曼昱把埃及选手打生气了",
+        "onboard_time": 1722910222,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1176937,
+        "num": 1176937,
+        "word": "男子强奸未遂监视居住时杀害19岁堂妹",
+        "onboard_time": 1722902661,
+        "rank": 6,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 594341,
+        "num": 1153476,
+        "word": "TFBOYS出道十一周年",
+        "onboard_time": 1722874701,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 541876,
+        "num": 1138582,
+        "word": "唐嫣改代表作",
+        "onboard_time": 1722910942,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132388,
+        "num": 1134970,
+        "word": "忍不住嫉妒好朋友让我痛恨自己",
+        "onboard_time": 1722916828,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1133580,
+        "num": 1133580,
+        "word": "一个节省习惯导致男子肾衰竭",
+        "onboard_time": 1722912802,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1105239,
+        "num": 1105239,
+        "word": "光遇复刻",
+        "onboard_time": 1722917906,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1012904,
+        "num": 1012904,
+        "word": "湖南航空空姐上班不再穿高跟鞋",
+        "onboard_time": 1722911361,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 884050,
+        "num": 884050,
+        "word": "央视曝光一口价黄金饰品套路多",
+        "onboard_time": 1722908602,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32498,
+        "num": 879870,
+        "word": "美联储会提前降息吗",
+        "onboard_time": 1722916828,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 474352,
+        "num": 840945,
+        "word": "种地吧第二季收官战报",
+        "onboard_time": 1722911542,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339593,
+        "num": 837483,
+        "word": "34岁的鹿晗好有少年感",
+        "onboard_time": 1722916584,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325121,
+        "num": 811413,
+        "word": "丁程鑫素颜开车",
+        "onboard_time": 1722916103,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 795518,
+        "num": 795518,
+        "word": "张本智和的含金量一下就起来了",
+        "onboard_time": 1722905845,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129403,
+        "num": 707682,
+        "word": "柳舟记鸳鸯浴",
+        "onboard_time": 1722918147,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 696864,
+        "num": 696864,
+        "word": "美国一奥运选手兴奋剂阳性",
+        "onboard_time": 1722916163,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 628342,
+        "num": 628342,
+        "word": "男子每天久坐超6小时查出肠癌",
+        "onboard_time": 1722901401,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584458,
+        "num": 584458,
+        "word": "潘展乐吐槽奥运村伙食太差了",
+        "onboard_time": 1722913221,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 554883,
+        "num": 554883,
+        "word": "色情擦边动漫及周边流向未成年人",
+        "onboard_time": 1722915262,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299805,
+        "num": 484506,
+        "word": "王俊凯王源易烊千玺庆祝11周年",
+        "onboard_time": 1722875182,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466727,
+        "num": 466727,
+        "word": "中国反兴奋剂中心斥USADA双重标准",
+        "onboard_time": 1722914662,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 425843,
+        "num": 425843,
+        "word": "陈芋汐吃牛角包采访",
+        "onboard_time": 1722914063,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 418873,
+        "num": 418873,
+        "word": "勒布伦 你怎么知道我拿了奥运铜牌",
+        "onboard_time": 1722915142,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260934,
+        "num": 413526,
+        "word": "张译给张艺谋介绍殷桃",
+        "onboard_time": 1722905063,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183386,
+        "num": 409866,
+        "word": "TFBOYS他们总有两个懂他的人",
+        "onboard_time": 1722914424,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 409801,
+        "num": 409801,
+        "word": "四川俩姐弟失踪17天后发现弟弟遗体",
+        "onboard_time": 1722902000,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394763,
+        "num": 394763,
+        "word": "张雨霏也有容貌身材焦虑",
+        "onboard_time": 1722917543,
+        "rank": 31,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 385469,
+        "num": 385469,
+        "word": "因为这是女单",
+        "onboard_time": 1722909922,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 359437,
+        "num": 359437,
+        "word": "中国女子拳击6人锁定5枚奖牌",
+        "onboard_time": 1722916704,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 347067,
+        "num": 347067,
+        "word": "马龙巴黎奥运首秀",
+        "onboard_time": 1722912081,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145696,
+        "num": 340738,
+        "word": "白蛇浮生里的中式美学已经nextlevel",
+        "onboard_time": 1722916884,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 336795,
+        "num": 336795,
+        "word": "潘展乐回应外公写给自己的诗",
+        "onboard_time": 1722914362,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 294466,
+        "num": 294466,
+        "word": "郑钦文樊振东互关",
+        "onboard_time": 1722913583,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289145,
+        "num": 289145,
+        "word": "哈里斯实力让特朗普措手不及",
+        "onboard_time": 1722915683,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 286603,
+        "num": 286603,
+        "word": "教练去世徐嘉余独自训练8个月",
+        "onboard_time": 1722879915,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269540,
+        "num": 269540,
+        "word": "张博恒很大一车面包人",
+        "onboard_time": 1722916463,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253838,
+        "num": 253838,
+        "word": "潘展乐 吃不到的生日蛋糕",
+        "onboard_time": 1722905664,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251604,
+        "num": 251604,
+        "word": "11岁滑板小孩姐迎来奥运首秀",
+        "onboard_time": 1722915743,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251556,
+        "num": 251556,
+        "word": "乒联世界排名更新王楚钦孙颖莎第1",
+        "onboard_time": 1722912982,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249958,
+        "num": 249958,
+        "word": "潘展乐头号粉丝",
+        "onboard_time": 1722913761,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247978,
+        "num": 247978,
+        "word": "永远可以相信中国姑娘",
+        "onboard_time": 1722917065,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242841,
+        "num": 242841,
+        "word": "黑神话悟空完成所有内容开发",
+        "onboard_time": 1722912261,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 219270,
+        "num": 219270,
+        "word": "雷军称倒霉的地方就是老跟苹果华为比",
+        "onboard_time": 1722910641,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 213031,
+        "num": 213031,
+        "word": "这3种人真的不适合午睡",
+        "onboard_time": 1722918086,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 212140,
+        "num": 212140,
+        "word": "张雨霏谈频繁尿检",
+        "onboard_time": 1722918025,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#关键词看改革#"
+    }
+  }
+}
