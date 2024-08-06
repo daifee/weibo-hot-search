@@ -1,6 +1,6 @@
 {
   "startTime": 1722875081704,
-  "endTime": 1722957748353,
+  "endTime": 1722958529078,
   "band_list": [
     {
       "raw_hot": 18732704,
@@ -524,7 +524,7 @@
     },
     {
       "raw_hot": 1370925,
-      "num": 1370925,
+      "num": 1725531,
       "word": "正新鸡排店员打包外卖订单留下几块",
       "onboard_time": 1722946224,
       "rank": 8,
@@ -699,19 +699,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1054836,
+      "num": 627299,
+      "word": "陈芋汐教练",
+      "onboard_time": 1722955173,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1049924,
       "num": 1049924,
       "word": "中国女排决胜局",
       "onboard_time": 1722936027,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1032609,
-      "num": 608001,
-      "word": "陈芋汐教练",
-      "onboard_time": 1722955173,
-      "rank": 21,
       "category": "体育"
     },
     {
@@ -916,7 +916,7 @@
     },
     {
       "raw_hot": 732052,
-      "num": 603328,
+      "num": 619077,
       "word": "陈芋汐的手指上都贴了膏药",
       "onboard_time": 1722955293,
       "rank": 27,
@@ -929,6 +929,14 @@
       "onboard_time": 1722953007,
       "rank": 17,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 713212,
+      "num": 620727,
+      "word": "马龙撤回一个握手",
+      "onboard_time": 1722954876,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 696139,
@@ -945,14 +953,6 @@
       "onboard_time": 1722947363,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 685215,
-      "num": 601409,
-      "word": "马龙撤回一个握手",
-      "onboard_time": 1722954876,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 662349,
@@ -1003,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 630451,
+      "num": 630451,
+      "word": "警方通报一网民诋毁奥运会运动员",
+      "onboard_time": 1722956070,
+      "rank": 14,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 625515,
       "num": 625515,
       "word": "男子三米板预赛",
@@ -1016,14 +1024,6 @@
       "word": "袁昊然",
       "onboard_time": 1722929306,
       "rank": 24,
-      "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 612328,
-      "num": 612328,
-      "word": "警方通报一网民诋毁奥运会运动员",
-      "onboard_time": 1722956070,
-      "rank": 14,
       "category": "社会新闻,体育"
     },
     {
@@ -1080,6 +1080,14 @@
       "word": "梁王组合再现挖呀挖呀挖",
       "onboard_time": 1722941724,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 580110,
+      "num": 580110,
+      "word": "潘展乐替查尔斯被网暴难过",
+      "onboard_time": 1722957266,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -1179,6 +1187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 525460,
+      "num": 525460,
+      "word": "全红婵弟弟",
+      "onboard_time": 1722957805,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 522995,
       "num": 522995,
       "word": "11岁郑好好巴黎奥运首秀",
@@ -1227,6 +1243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 508884,
+      "num": 508884,
+      "word": "陈芋汐在采访时哭了",
+      "onboard_time": 1722958286,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 506559,
       "num": 1876753,
       "word": "父亲醉酒欲摔1岁宝宝被制服",
@@ -1265,6 +1289,14 @@
       "onboard_time": 1722926125,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 493908,
+      "num": 493908,
+      "word": "张家齐 惋惜",
+      "onboard_time": 1722958286,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 492203,
@@ -1595,14 +1627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 396489,
-      "num": 396489,
-      "word": "潘展乐替查尔斯被网暴难过",
-      "onboard_time": 1722957266,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 387606,
       "num": 387606,
       "word": "裁判眼睛",
@@ -1739,20 +1763,20 @@
       "category": "演出,体育"
     },
     {
+      "raw_hot": 357810,
+      "num": 629510,
+      "word": "小李子大腿被水母蜇伤",
+      "onboard_time": 1722954876,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 357263,
       "num": 357263,
       "word": "水球",
       "onboard_time": 1722930447,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 350263,
-      "num": 610373,
-      "word": "小李子大腿被水母蜇伤",
-      "onboard_time": 1722954876,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 346522,
@@ -1796,7 +1820,7 @@
     },
     {
       "raw_hot": 337799,
-      "num": 609604,
+      "num": 624767,
       "word": "做朱旺旺的朋友有多幸福",
       "onboard_time": 1722954397,
       "rank": 45,
@@ -1804,7 +1828,7 @@
     },
     {
       "raw_hot": 335219,
-      "num": 602223,
+      "num": 625335,
       "word": "张碧晨发长文回应粉丝",
       "onboard_time": 1722954816,
       "rank": 47,
@@ -3131,6 +3155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 134521,
+      "num": 2505312,
+      "word": "职业女性必须穿高跟鞋是偏见歧视",
+      "onboard_time": 1722956429,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134265,
       "num": 304547,
       "word": "李政道逝世",
@@ -3307,6 +3339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98112,
+      "num": 630187,
+      "word": "被全红婵陈芋汐的率真圈粉了",
+      "onboard_time": 1722955891,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97085,
       "num": 216925,
       "word": "像素画室",
@@ -3419,20 +3459,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75420,
-      "num": 2505312,
-      "word": "职业女性必须穿高跟鞋是偏见歧视",
-      "onboard_time": 1722956429,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 75385,
       "num": 657745,
       "word": "88VIP又发大额消费券了",
       "onboard_time": 1722913221,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 74732,
+      "num": 2520882,
+      "word": "中国第22金",
+      "onboard_time": 1722954816,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 72854,
@@ -3467,14 +3507,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 67060,
-      "num": 609184,
-      "word": "被全红婵陈芋汐的率真圈粉了",
-      "onboard_time": 1722955891,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 66771,
       "num": 81196,
       "word": "张泽禹薄荷一样清新的练习室",
@@ -3488,14 +3520,6 @@
       "word": "张博恒单杠13.966分",
       "onboard_time": 1722882312,
       "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 64874,
-      "num": 2520882,
-      "word": "中国第22金",
-      "onboard_time": 1722954816,
-      "rank": 41,
       "category": "体育"
     },
     {
@@ -3537,6 +3561,14 @@
       "onboard_time": 1722930326,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 57792,
+      "num": 3543895,
+      "word": "我国发射千帆极轨01组卫星",
+      "onboard_time": 1722950785,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57338,
@@ -3800,14 +3832,6 @@
       "word": "李政道曾为长城捐款",
       "onboard_time": 1722877458,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17927,
-      "num": 3543895,
-      "word": "我国发射千帆极轨01组卫星",
-      "onboard_time": 1722950785,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
