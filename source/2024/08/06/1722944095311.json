@@ -1,0 +1,410 @@
+{
+  "runTime": 1722944095311,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4280109,
+        "num": 4280109,
+        "word": "陈紫函力挺戴向宇",
+        "onboard_time": 1722942923,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1807817,
+        "num": 1807817,
+        "word": "瑞典女记者被处理",
+        "onboard_time": 1722929845,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109964,
+        "num": 1502288,
+        "word": "中国反兴奋剂中心斥USADA双重标准",
+        "onboard_time": 1722914662,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2411915,
+        "num": 1469325,
+        "word": "戴向宇发无犯罪记录证明",
+        "onboard_time": 1722941124,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1339670,
+        "num": 1339670,
+        "word": "许昕说王楚钦状态回来了",
+        "onboard_time": 1722937649,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1201264,
+        "num": 1201264,
+        "word": "王楚钦3比0塔卡",
+        "onboard_time": 1722937768,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1659125,
+        "num": 1182860,
+        "word": "戴向宇发律师函",
+        "onboard_time": 1722938967,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1117260,
+        "num": 1117260,
+        "word": "这一球真脏啊",
+        "onboard_time": 1722927025,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16544,
+        "num": 966700,
+        "word": "全红婵师弟师妹发起一波萌萌哒加油",
+        "onboard_time": 1722943824,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 893860,
+        "num": 893860,
+        "word": "警方介入调查女子小区放生多盒蟑螂",
+        "onboard_time": 1722936632,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1144620,
+        "num": 893784,
+        "word": "王楚钦回应球拍事件",
+        "onboard_time": 1722941304,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85224,
+        "num": 890953,
+        "word": "享界S9价格",
+        "onboard_time": 1722939685,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 243622,
+        "num": 889431,
+        "word": "孟加拉国总统宣布解散国民议会",
+        "onboard_time": 1722943163,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1112318,
+        "num": 887154,
+        "word": "潘展乐告状 汪顺告白",
+        "onboard_time": 1722942324,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 704570,
+        "num": 885010,
+        "word": "张昊唯 我现在感觉到处都是录音机",
+        "onboard_time": 1722922586,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 906326,
+        "num": 882296,
+        "word": "印度教练看孙颖莎的表情",
+        "onboard_time": 1722939984,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 881624,
+        "num": 881624,
+        "word": "奥委会用全红婵动作和1912年对比",
+        "onboard_time": 1722939384,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 720907,
+        "num": 720907,
+        "word": "中国女排2比3土耳其",
+        "onboard_time": 1722936392,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 688427,
+        "num": 688427,
+        "word": "马龙王楚钦3比0印度组合",
+        "onboard_time": 1722933093,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 641677,
+        "num": 641677,
+        "word": "李纯公开与马頔恋情",
+        "onboard_time": 1722925105,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 676045,
+        "num": 641642,
+        "word": "朱婷告别奥运",
+        "onboard_time": 1722936392,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 641597,
+        "num": 641597,
+        "word": "樊振东在台上打马龙在台下挥拍",
+        "onboard_time": 1722942144,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 621926,
+        "num": 621926,
+        "word": "中国女排止步8强",
+        "onboard_time": 1722936271,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 614482,
+        "num": 614482,
+        "word": "张继科回应开课教乒乓",
+        "onboard_time": 1722932126,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 519904,
+        "num": 519904,
+        "word": "国家体育总局对袁某某开始调查",
+        "onboard_time": 1722928346,
+        "rank": 24,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 43876,
+        "num": 519142,
+        "word": "nova小折叠后置5000万悬停自拍",
+        "onboard_time": 1722941424,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 580516,
+        "num": 518063,
+        "word": "梁王组合再现挖呀挖呀挖",
+        "onboard_time": 1722941724,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 340567,
+        "num": 517167,
+        "word": "庆余年3",
+        "onboard_time": 1722927504,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252832,
+        "num": 515651,
+        "word": "赵露思妹妹头造型路透",
+        "onboard_time": 1722935908,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234804,
+        "num": 514447,
+        "word": "戴向宇方声明",
+        "onboard_time": 1722928346,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 535314,
+        "num": 513048,
+        "word": "中国女排vs土耳其女排",
+        "onboard_time": 1722926545,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 512089,
+        "num": 512089,
+        "word": "菲尔普斯称无端指责潘展乐是错误的",
+        "onboard_time": 1722941963,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 468114,
+        "num": 468114,
+        "word": "汪顺你怎么睡得着觉的",
+        "onboard_time": 1722941183,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373484,
+        "num": 431208,
+        "word": "张昊唯回应",
+        "onboard_time": 1722921148,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233531,
+        "num": 429375,
+        "word": "郑中基患抑郁症",
+        "onboard_time": 1722938546,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131172,
+        "num": 429047,
+        "word": "李政道遗愿与妻子合葬于苏州",
+        "onboard_time": 1722942024,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428863,
+        "num": 428863,
+        "word": "惠若琪哽咽",
+        "onboard_time": 1722937351,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 427697,
+        "num": 427697,
+        "word": "樊振东一单",
+        "onboard_time": 1722933927,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 423406,
+        "num": 423406,
+        "word": "李盈莹说自己可能没有下一届奥运了",
+        "onboard_time": 1722942024,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 422601,
+        "num": 422601,
+        "word": "中国女排哭了我的心碎了",
+        "onboard_time": 1722942324,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 371934,
+        "num": 371934,
+        "word": "为什么不上张常宁",
+        "onboard_time": 1722932368,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 360195,
+        "num": 360195,
+        "word": "法媒是这样报道王楚钦球拍事件的",
+        "onboard_time": 1722941424,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 324108,
+        "num": 324108,
+        "word": "心疼王媛媛",
+        "onboard_time": 1722939384,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276389,
+        "num": 276389,
+        "word": "马龙不止巴黎见",
+        "onboard_time": 1722939025,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275120,
+        "num": 275120,
+        "word": "秦伟搏晋级110米栏半决赛",
+        "onboard_time": 1722940344,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215027,
+        "num": 215027,
+        "word": "父亲醉酒欲摔1岁宝宝被制服",
+        "onboard_time": 1722933028,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206241,
+        "num": 206241,
+        "word": "余景天打歌初舞台",
+        "onboard_time": 1722943343,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195868,
+        "num": 195868,
+        "word": "师子寻翻牌",
+        "onboard_time": 1722940225,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169023,
+        "num": 195031,
+        "word": "过着一种很放纵的大人生活",
+        "onboard_time": 1722942982,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155295,
+        "num": 194635,
+        "word": "日本樱岛火山喷发烟柱高达3000米",
+        "onboard_time": 1722942504,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持以文塑旅以旅彰文#"
+    }
+  }
+}
