@@ -1,21 +1,21 @@
 {
   "startTime": 1722961504263,
-  "endTime": 1722961504263,
+  "endTime": 1722962413876,
   "band_list": [
     {
-      "raw_hot": 3305774,
-      "num": 3305774,
-      "word": "陈芋汐在采访时哭了",
-      "onboard_time": 1722958286,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 3017367,
-      "num": 3017367,
+      "raw_hot": 3693867,
+      "num": 3693867,
       "word": "陈芋汐 压分",
       "onboard_time": 1722959305,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3503824,
+      "num": 3503824,
+      "word": "陈芋汐在采访时哭了",
+      "onboard_time": 1722958286,
+      "rank": 0,
       "category": "体育"
     },
     {
@@ -51,6 +51,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 1508619,
+      "num": 1508619,
+      "word": "全红婵打破伏明霞纪录",
+      "onboard_time": 1722959544,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1396399,
       "num": 1396399,
       "word": "全红婵陈芋汐抱抱",
@@ -67,11 +75,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1317063,
-      "num": 1317063,
-      "word": "全红婵打破伏明霞纪录",
-      "onboard_time": 1722959544,
-      "rank": 12,
+      "raw_hot": 1297052,
+      "num": 1297052,
+      "word": "倪夏莲直播",
+      "onboard_time": 1722960625,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 896757,
-      "num": 220691,
+      "num": 231324,
       "word": "陈紫函 我老公终于红了",
       "onboard_time": 1722944604,
       "rank": 20,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 895545,
-      "num": 219510,
+      "num": 238635,
       "word": "全红婵回应失误",
       "onboard_time": 1722959004,
       "rank": 21,
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 888639,
-      "num": 218648,
+      "num": 229378,
       "word": "陈芋汐教练",
       "onboard_time": 1722955173,
       "rank": 22,
@@ -108,70 +116,22 @@
     },
     {
       "raw_hot": 868649,
-      "num": 216774,
+      "num": 224862,
       "word": "陈若琳教练",
       "onboard_time": 1722954101,
       "rank": 23,
       "category": "体育"
     },
     {
-      "raw_hot": 862514,
-      "num": 214651,
-      "word": "倪夏莲直播",
-      "onboard_time": 1722960625,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 836599,
-      "num": 213416,
+      "num": 223346,
       "word": "全红婵弟弟",
       "onboard_time": 1722957805,
       "rank": 25,
       "category": "体育"
     },
     {
-      "raw_hot": 779398,
-      "num": 211675,
-      "word": "林昀儒3比2张本智和",
-      "onboard_time": 1722955113,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 641526,
-      "num": 208380,
-      "word": "全红婵金牌",
-      "onboard_time": 1722953493,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 549974,
-      "num": 207988,
-      "word": "全红婵第一轮满分",
-      "onboard_time": 1722950248,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 526084,
-      "num": 207485,
-      "word": "张博恒也告上状了",
-      "onboard_time": 1722947724,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 508664,
-      "num": 207253,
-      "word": "陈芋汐银牌",
-      "onboard_time": 1722953687,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 493728,
+      "raw_hot": 783017,
       "num": 1771743,
       "word": "蔡徐坤开庭",
       "onboard_time": 1722960325,
@@ -179,8 +139,56 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 779398,
+      "num": 226003,
+      "word": "林昀儒3比2张本智和",
+      "onboard_time": 1722955113,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 650927,
+      "num": 227397,
+      "word": "全红婵金牌",
+      "onboard_time": 1722953493,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 549974,
+      "num": 223868,
+      "word": "全红婵第一轮满分",
+      "onboard_time": 1722950248,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 526084,
+      "num": 221957,
+      "word": "张博恒也告上状了",
+      "onboard_time": 1722947724,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 508664,
+      "num": 219598,
+      "word": "陈芋汐银牌",
+      "onboard_time": 1722953687,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 390383,
+      "num": 390383,
+      "word": "贺某某",
+      "onboard_time": 1722957027,
+      "rank": 13,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 383063,
-      "num": 206803,
+      "num": 213685,
       "word": "陈芋汐这一跳好牛啊",
       "onboard_time": 1722953070,
       "rank": 35,
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 377240,
-      "num": 206469,
+      "num": 214522,
       "word": "陈芋汐的手指上都贴了膏药",
       "onboard_time": 1722955293,
       "rank": 36,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 356419,
-      "num": 1429980,
+      "num": 1477126,
       "word": "张碧晨发长文回应粉丝",
       "onboard_time": 1722954816,
       "rank": 8,
@@ -204,23 +212,15 @@
     },
     {
       "raw_hot": 335480,
-      "num": 206195,
+      "num": 218439,
       "word": "樊振东是食堂固定刷新NPC吗",
       "onboard_time": 1722953925,
       "rank": 37,
       "category": "体育"
     },
     {
-      "raw_hot": 322229,
-      "num": 322229,
-      "word": "贺某某",
-      "onboard_time": 1722957027,
-      "rank": 13,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 320579,
-      "num": 205902,
+      "num": 210464,
       "word": "樊振东说今天失误有点多",
       "onboard_time": 1722947125,
       "rank": 38,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 298409,
-      "num": 205739,
+      "num": 210570,
       "word": "马龙王楚钦3比0印度组合",
       "onboard_time": 1722933093,
       "rank": 39,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 289953,
-      "num": 205289,
+      "num": 206970,
       "word": "陈芋汐金美莱比赞不告诉全红婵",
       "onboard_time": 1722956429,
       "rank": 40,
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 265221,
-      "num": 205173,
+      "num": 209248,
       "word": "王楚钦3比0塔卡",
       "onboard_time": 1722937768,
       "rank": 41,
@@ -276,15 +276,23 @@
     },
     {
       "raw_hot": 248575,
-      "num": 207784,
+      "num": 214934,
       "word": "正新鸡排店员打包外卖订单留下几块",
       "onboard_time": 1722946224,
       "rank": 31,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244112,
+      "num": 212849,
+      "word": "全红婵长大了也有压力了",
+      "onboard_time": 1722959905,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 242422,
-      "num": 204683,
+      "num": 208783,
       "word": "韩国人是怎么夸全红婵的",
       "onboard_time": 1722957566,
       "rank": 42,
@@ -315,8 +323,16 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 220731,
+      "num": 207593,
+      "word": "智昀",
+      "onboard_time": 1722962122,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209550,
-      "num": 204614,
+      "num": 211330,
       "word": "李纯公开与马頔恋情",
       "onboard_time": 1722925105,
       "rank": 43,
@@ -324,15 +340,23 @@
     },
     {
       "raw_hot": 208236,
-      "num": 208236,
+      "num": 220532,
       "word": "做朱旺旺的朋友有多幸福",
       "onboard_time": 1722954397,
       "rank": 29,
       "category": "综艺"
     },
     {
+      "raw_hot": 206853,
+      "num": 206853,
+      "word": "王昶回国要去看JonyJ和GALI演出",
+      "onboard_time": 1722952289,
+      "rank": 46,
+      "category": "体育,演出"
+    },
+    {
       "raw_hot": 204399,
-      "num": 204399,
+      "num": 216864,
       "word": "张杰鸟巢嘉宾凡希亚",
       "onboard_time": 1722947363,
       "rank": 44,
@@ -340,7 +364,7 @@
     },
     {
       "raw_hot": 200992,
-      "num": 200992,
+      "num": 212177,
       "word": "国家体育总局对袁某某开始调查",
       "onboard_time": 1722928346,
       "rank": 45,
@@ -353,6 +377,14 @@
       "onboard_time": 1722942923,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187066,
+      "num": 1410656,
+      "word": "职业女性必须穿高跟鞋是偏见歧视",
+      "onboard_time": 1722956429,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160008,
@@ -387,16 +419,16 @@
       "category": "综艺,体育"
     },
     {
-      "raw_hot": 100345,
-      "num": 1410656,
-      "word": "职业女性必须穿高跟鞋是偏见歧视",
-      "onboard_time": 1722956429,
+      "raw_hot": 89191,
+      "num": 1474865,
+      "word": "孟加拉国总统宣布解散国民议会",
+      "onboard_time": 1722943163,
       "rank": 9,
-      "category": "社会新闻"
+      "category": "国外时政"
     },
     {
       "raw_hot": 35819,
-      "num": 2869724,
+      "num": 2988434,
       "word": "我国发射千帆极轨01组卫星",
       "onboard_time": 1722950785,
       "rank": 2,
@@ -406,6 +438,9 @@
   "hotgov_list": [
     {
       "word": "#持续加强文化和自然遗产传承#"
+    },
+    {
+      "word": "#加强文化和自然遗产的整体性系统性保护#"
     }
   ]
 }
