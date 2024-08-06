@@ -1,6 +1,6 @@
 {
   "startTime": 1722875081704,
-  "endTime": 1722918294922,
+  "endTime": 1722919120219,
   "band_list": [
     {
       "raw_hot": 5783219,
@@ -227,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1053552,
+      "num": 1005682,
+      "word": "美国一奥运选手兴奋剂阳性",
+      "onboard_time": 1722916163,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 987440,
       "num": 987440,
       "word": "男子每天久坐超6小时查出肠癌",
@@ -299,11 +307,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 696864,
-      "num": 696864,
-      "word": "美国一奥运选手兴奋剂阳性",
-      "onboard_time": 1722916163,
-      "rank": 20,
+      "raw_hot": 676149,
+      "num": 676149,
+      "word": "王楚钦交替使用两副球拍训练",
+      "onboard_time": 1722919048,
+      "rank": 21,
       "category": "体育"
     },
     {
@@ -355,19 +363,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 592023,
+      "num": 592023,
+      "word": "潘展乐吐槽奥运村伙食太差了",
+      "onboard_time": 1722913221,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 587837,
       "num": 439957,
       "word": "安赛龙卫冕奥运金牌",
       "onboard_time": 1722872483,
       "rank": 20,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 584458,
-      "num": 584458,
-      "word": "潘展乐吐槽奥运村伙食太差了",
-      "onboard_time": 1722913221,
-      "rank": 32,
       "category": "体育"
     },
     {
@@ -395,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 534911,
+      "num": 534911,
+      "word": "张雨霏也有容貌身材焦虑",
+      "onboard_time": 1722917543,
+      "rank": 31,
+      "category": "体育,综艺"
+    },
+    {
       "raw_hot": 527949,
       "num": 641608,
       "word": "张译给张艺谋介绍殷桃",
@@ -408,6 +424,14 @@
       "word": "中国反兴奋剂中心斥USADA双重标准",
       "onboard_time": 1722914662,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 452866,
+      "num": 452866,
+      "word": "陈芋汐吃牛角包采访",
+      "onboard_time": 1722914063,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -428,7 +452,7 @@
     },
     {
       "raw_hot": 449262,
-      "num": 449262,
+      "num": 534605,
       "word": "请把张云龙焊死在姐弟恋赛道里",
       "onboard_time": 1722902603,
       "rank": 18,
@@ -456,14 +480,6 @@
       "word": "中国花游队遥遥领先",
       "onboard_time": 1722885373,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 425843,
-      "num": 425843,
-      "word": "陈芋汐吃牛角包采访",
-      "onboard_time": 1722914063,
-      "rank": 38,
       "category": "体育"
     },
     {
@@ -521,14 +537,6 @@
       "onboard_time": 1722867870,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 394763,
-      "num": 394763,
-      "word": "张雨霏也有容貌身材焦虑",
-      "onboard_time": 1722917543,
-      "rank": 31,
-      "category": "体育,综艺"
     },
     {
       "raw_hot": 386975,
@@ -603,8 +611,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 361359,
+      "num": 361359,
+      "word": "潘展乐回应外公写给自己的诗",
+      "onboard_time": 1722914362,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 359437,
-      "num": 359437,
+      "num": 1008335,
       "word": "中国女子拳击6人锁定5枚奖牌",
       "onboard_time": 1722916704,
       "rank": 33,
@@ -619,20 +635,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 340111,
+      "num": 811413,
+      "word": "丁程鑫素颜开车",
+      "onboard_time": 1722916103,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 339593,
       "num": 837483,
       "word": "34岁的鹿晗好有少年感",
       "onboard_time": 1722916584,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 336795,
-      "num": 336795,
-      "word": "潘展乐回应外公写给自己的诗",
-      "onboard_time": 1722914362,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 329535,
@@ -649,14 +665,6 @@
       "onboard_time": 1722912201,
       "rank": 35,
       "category": "财经"
-    },
-    {
-      "raw_hot": 325121,
-      "num": 811413,
-      "word": "丁程鑫素颜开车",
-      "onboard_time": 1722916103,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 324426,
@@ -699,6 +707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 312761,
+      "num": 312761,
+      "word": "张博恒给妈妈发信息说我太累了",
+      "onboard_time": 1722918689,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 311757,
       "num": 409110,
       "word": "杨志刚在看唐诡3的剧本了",
@@ -729,6 +745,14 @@
       "onboard_time": 1722867033,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 303551,
+      "num": 303551,
+      "word": "哈里斯实力让特朗普措手不及",
+      "onboard_time": 1722915683,
+      "rank": 38,
+      "category": "国外时政"
     },
     {
       "raw_hot": 293839,
@@ -763,16 +787,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 289145,
-      "num": 289145,
-      "word": "哈里斯实力让特朗普措手不及",
-      "onboard_time": 1722915683,
-      "rank": 38,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 284217,
-      "num": 409866,
+      "num": 453177,
       "word": "TFBOYS他们总有两个懂他的人",
       "onboard_time": 1722914424,
       "rank": 39,
@@ -867,6 +883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 259271,
+      "num": 259271,
+      "word": "潘展乐头号粉丝",
+      "onboard_time": 1722913761,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 256366,
       "num": 256366,
       "word": "日本对华海鲜出口断崖式下跌",
@@ -876,7 +900,7 @@
     },
     {
       "raw_hot": 251604,
-      "num": 251604,
+      "num": 746393,
       "word": "11岁滑板小孩姐迎来奥运首秀",
       "onboard_time": 1722915743,
       "rank": 42,
@@ -897,14 +921,6 @@
       "onboard_time": 1722914002,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 249958,
-      "num": 249958,
-      "word": "潘展乐头号粉丝",
-      "onboard_time": 1722913761,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 249423,
@@ -929,6 +945,14 @@
       "onboard_time": 1722917065,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 246206,
+      "num": 1134970,
+      "word": "忍不住嫉妒好朋友让我痛恨自己",
+      "onboard_time": 1722916828,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 245896,
@@ -977,6 +1001,14 @@
       "onboard_time": 1722909322,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 229758,
+      "num": 229758,
+      "word": "王昶壁纸",
+      "onboard_time": 1722918807,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 227634,
@@ -1355,6 +1387,14 @@
       "category": "社会新闻,科学科普"
     },
     {
+      "raw_hot": 134051,
+      "num": 707682,
+      "word": "柳舟记鸳鸯浴",
+      "onboard_time": 1722918147,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133552,
       "num": 215740,
       "word": "射击运动员又水灵灵地被艾特了",
@@ -1371,14 +1411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132388,
-      "num": 1134970,
-      "word": "忍不住嫉妒好朋友让我痛恨自己",
-      "onboard_time": 1722916828,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131043,
       "num": 998812,
       "word": "一企业开除员工称法律无所谓",
@@ -1393,14 +1425,6 @@
       "onboard_time": 1722867089,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 129403,
-      "num": 707682,
-      "word": "柳舟记鸳鸯浴",
-      "onboard_time": 1722918147,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 128693,
