@@ -1,6 +1,6 @@
 {
   "startTime": 1722875081704,
-  "endTime": 1722953938599,
+  "endTime": 1722955010024,
   "band_list": [
     {
       "raw_hot": 18732704,
@@ -8,6 +8,14 @@
       "word": "全红婵再现10101010101010",
       "onboard_time": 1722950366,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 11074502,
+      "num": 11074502,
+      "word": "全红婵陈芋汐抱抱",
+      "onboard_time": 1722953865,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -24,6 +32,14 @@
       "word": "中国女排vs土耳其女排",
       "onboard_time": 1722926545,
       "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 9651843,
+      "num": 10901843,
+      "word": "全红婵金牌",
+      "onboard_time": 1722953493,
+      "rank": 2,
       "category": "体育"
     },
     {
@@ -51,14 +67,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 6646285,
-      "num": 6646285,
-      "word": "全红婵金牌",
-      "onboard_time": 1722953493,
-      "rank": 2,
-      "category": "体育"
-    },
-    {
       "raw_hot": 6408214,
       "num": 6408214,
       "word": "张昊唯回应",
@@ -73,6 +81,14 @@
       "onboard_time": 1722874701,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 5567522,
+      "num": 5567522,
+      "word": "陈芋汐银牌",
+      "onboard_time": 1722953687,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 4972387,
@@ -299,6 +315,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 2150767,
+      "num": 1010514,
+      "word": "跳水解说",
+      "onboard_time": 1722951687,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2095891,
       "num": 2095891,
       "word": "四川俩姐弟失踪17天后发现弟弟遗体",
@@ -307,27 +331,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2073899,
-      "num": 2953743,
-      "word": "陈芋汐银牌",
-      "onboard_time": 1722953687,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 2006783,
       "num": 2006783,
       "word": "张本智和紧急撤回一个口误",
       "onboard_time": 1722920248,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2005266,
-      "num": 1009201,
-      "word": "跳水解说",
-      "onboard_time": 1722951687,
-      "rank": 15,
       "category": "体育"
     },
     {
@@ -355,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1862942,
+      "num": 998953,
+      "word": "全红婵失误",
+      "onboard_time": 1722953687,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1802058,
       "num": 2501061,
       "word": "戴向宇上线未回应",
@@ -376,6 +392,14 @@
       "word": "韩国选手 不用服兵役喽",
       "onboard_time": 1722912743,
       "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1631604,
+      "num": 995369,
+      "word": "陈芋汐这一跳好牛啊",
+      "onboard_time": 1722953070,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -440,6 +464,14 @@
       "word": "陈若琳包里塞着全红婵的乌龟",
       "onboard_time": 1722920310,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1538858,
+      "num": 991072,
+      "word": "陈若琳教练",
+      "onboard_time": 1722954101,
+      "rank": 20,
       "category": "体育"
     },
     {
@@ -544,6 +576,14 @@
       "word": "张博恒回应被送错场馆",
       "onboard_time": 1722871405,
       "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1150163,
+      "num": 988057,
+      "word": "全红婵哭了",
+      "onboard_time": 1722954336,
+      "rank": 21,
       "category": "体育"
     },
     {
@@ -667,19 +707,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 987170,
+      "num": 987170,
+      "word": "张本智和vs林昀儒",
+      "onboard_time": 1722953985,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 981380,
       "num": 981380,
       "word": "张博恒给妈妈发信息说我太累了",
       "onboard_time": 1722918689,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 978983,
-      "num": 978983,
-      "word": "全红婵陈芋汐抱抱",
-      "onboard_time": 1722953865,
-      "rank": 16,
       "category": "体育"
     },
     {
@@ -851,6 +891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 725373,
+      "num": 1276326,
+      "word": "奔跑吧邀请梁王",
+      "onboard_time": 1722953007,
+      "rank": 17,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 696139,
       "num": 696139,
       "word": "土耳其女排 4号",
@@ -880,14 +928,6 @@
       "word": "王楚钦蓝发带",
       "onboard_time": 1722935428,
       "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 652295,
-      "num": 652295,
-      "word": "陈芋汐这一跳好牛啊",
-      "onboard_time": 1722953070,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -1019,14 +1059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 557613,
-      "num": 931035,
-      "word": "奔跑吧邀请梁王",
-      "onboard_time": 1722953007,
-      "rank": 17,
-      "category": "综艺,体育"
-    },
-    {
       "raw_hot": 554883,
       "num": 554883,
       "word": "色情擦边动漫及周边流向未成年人",
@@ -1131,14 +1163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 508762,
-      "num": 475656,
-      "word": "全红婵失误",
-      "onboard_time": 1722953687,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 506559,
       "num": 1876753,
       "word": "父亲醉酒欲摔1岁宝宝被制服",
@@ -1153,6 +1177,14 @@
       "onboard_time": 1722941183,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 501580,
+      "num": 533735,
+      "word": "奔跑吧回应李晨邀请梁王",
+      "onboard_time": 1722953428,
+      "rank": 29,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 495160,
@@ -1228,7 +1260,7 @@
     },
     {
       "raw_hot": 467644,
-      "num": 921127,
+      "num": 1004924,
       "word": "惠若琪 我们爱你中国女排",
       "onboard_time": 1722946704,
       "rank": 39,
@@ -1240,6 +1272,30 @@
       "word": "中国反兴奋剂中心斥USADA双重标准",
       "onboard_time": 1722914662,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 461249,
+      "num": 461249,
+      "word": "马龙撤回一个握手",
+      "onboard_time": 1722954876,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 458987,
+      "num": 458987,
+      "word": "樊振东是食堂固定刷新NPC吗",
+      "onboard_time": 1722953925,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 457735,
+      "num": 2939921,
+      "word": "中国队第22金",
+      "onboard_time": 1722953493,
+      "rank": 7,
       "category": "体育"
     },
     {
@@ -1331,6 +1387,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 438286,
+      "num": 438286,
+      "word": "潘展乐的腹肌为什么不对称",
+      "onboard_time": 1722954936,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 436576,
       "num": 436576,
       "word": "中国花游队遥遥领先",
@@ -1368,6 +1432,14 @@
       "word": "马龙巴黎奥运首秀",
       "onboard_time": 1722912081,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 420330,
+      "num": 420330,
+      "word": "潘展乐说外国人爱白嫖pin",
+      "onboard_time": 1722954876,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -1644,7 +1716,7 @@
     },
     {
       "raw_hot": 332874,
-      "num": 332874,
+      "num": 802270,
       "word": "男子吃饭自带蚂蚁碰瓷餐厅700次",
       "onboard_time": 1722951506,
       "rank": 42,
@@ -1931,14 +2003,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 287706,
-      "num": 533735,
-      "word": "奔跑吧回应李晨邀请梁王",
-      "onboard_time": 1722953428,
-      "rank": 29,
-      "category": "综艺,体育"
-    },
-    {
       "raw_hot": 285380,
       "num": 285380,
       "word": "朱婷用拳扣球",
@@ -2020,7 +2084,7 @@
     },
     {
       "raw_hot": 275836,
-      "num": 889431,
+      "num": 1016310,
       "word": "孟加拉国总统宣布解散国民议会",
       "onboard_time": 1722943163,
       "rank": 12,
@@ -2515,6 +2579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206258,
+      "num": 419824,
+      "word": "做朱旺旺的朋友有多幸福",
+      "onboard_time": 1722954397,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206241,
       "num": 206241,
       "word": "余景天打歌初舞台",
@@ -2603,12 +2675,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199886,
+      "num": 419569,
+      "word": "小李子大腿被水母蜇伤",
+      "onboard_time": 1722954876,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199040,
       "num": 199040,
       "word": "樊振东启蒙教练评价樊振东",
       "onboard_time": 1722922406,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198786,
+      "num": 418981,
+      "word": "张碧晨发长文回应粉丝",
+      "onboard_time": 1722954816,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 198415,
@@ -2673,6 +2761,14 @@
       "onboard_time": 1722922527,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 193597,
+      "num": 418225,
+      "word": "虞书欣 内娱cp合照",
+      "onboard_time": 1722954936,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 193575,
@@ -2857,6 +2953,14 @@
       "onboard_time": 1722860430,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173224,
+      "num": 1018944,
+      "word": "哈里斯副手曾在中国任教",
+      "onboard_time": 1722952829,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 170331,
@@ -3147,20 +3251,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88827,
+      "num": 2746672,
+      "word": "美媒曝哈里斯选定明州州长为竞选搭档",
+      "onboard_time": 1722952829,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 87047,
       "num": 1948557,
       "word": "王宗源谢思埸晋级半决赛",
       "onboard_time": 1722939445,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 85585,
-      "num": 1018944,
-      "word": "哈里斯副手曾在中国任教",
-      "onboard_time": 1722952829,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 85224,
@@ -3371,20 +3475,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 53100,
-      "num": 2939921,
-      "word": "中国队第22金",
-      "onboard_time": 1722953493,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 52405,
       "num": 477624,
       "word": "鹿晗给粉丝试听新歌",
       "onboard_time": 1722922165,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 50838,
+      "num": 441446,
+      "word": "中国第22金",
+      "onboard_time": 1722954816,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 50205,
@@ -3489,14 +3593,6 @@
       "onboard_time": 1722926965,
       "rank": 28,
       "category": "数码"
-    },
-    {
-      "raw_hot": 40232,
-      "num": 2746672,
-      "word": "美媒曝哈里斯选定明州州长为竞选搭档",
-      "onboard_time": 1722952829,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 39536,
