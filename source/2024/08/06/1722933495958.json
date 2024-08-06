@@ -1,0 +1,410 @@
+{
+  "runTime": 1722933495958,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10116355,
+        "num": 10116355,
+        "word": "国家体育总局对袁某某开始调查",
+        "onboard_time": 1722928346,
+        "rank": 0,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 4972387,
+        "num": 4972387,
+        "word": "瑞典女记者被处理",
+        "onboard_time": 1722929845,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9306,
+        "num": 3991089,
+        "word": "40秒穿越40年致敬传承",
+        "onboard_time": 1722906623,
+        "rank": 2,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 3523015,
+        "num": 3523015,
+        "word": "中国女排vs土耳其女排",
+        "onboard_time": 1722926545,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3456545,
+        "num": 3456545,
+        "word": "国乒男团vs印度",
+        "onboard_time": 1722929666,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2875727,
+        "num": 2875727,
+        "word": "这一球真脏啊",
+        "onboard_time": 1722927025,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1962052,
+        "num": 1962052,
+        "word": "马龙王楚钦3比0印度组合",
+        "onboard_time": 1722933093,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1855687,
+        "num": 1917404,
+        "word": "李纯公开与马頔恋情",
+        "onboard_time": 1722925105,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1111986,
+        "num": 1892906,
+        "word": "戴向宇方声明",
+        "onboard_time": 1722928346,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61365,
+        "num": 1876753,
+        "word": "父亲醉酒欲摔1岁宝宝被制服",
+        "onboard_time": 1722933028,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1875269,
+        "num": 1875269,
+        "word": "张继科回应开课教乒乓",
+        "onboard_time": 1722932126,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1283199,
+        "num": 1283199,
+        "word": "赵立坚",
+        "onboard_time": 1722925766,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1187755,
+        "num": 1187755,
+        "word": "马龙樊振东王楚钦最新训练画面",
+        "onboard_time": 1722927747,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 727060,
+        "num": 727060,
+        "word": "张昊唯 我现在感觉到处都是录音机",
+        "onboard_time": 1722922586,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53543,
+        "num": 672114,
+        "word": "朱婷扮鬼脸",
+        "onboard_time": 1722932787,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1116405,
+        "num": 668525,
+        "word": "中国女排1比2土耳其女排",
+        "onboard_time": 1722933209,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58413,
+        "num": 663816,
+        "word": "nova小折叠鸿蒙性能丝滑流畅",
+        "onboard_time": 1722930326,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 662721,
+        "num": 662721,
+        "word": "戴向宇上线未回应",
+        "onboard_time": 1722925105,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480566,
+        "num": 644576,
+        "word": "庆余年3",
+        "onboard_time": 1722927504,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 422187,
+        "num": 628267,
+        "word": "张昊唯回应",
+        "onboard_time": 1722921148,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 695814,
+        "num": 628172,
+        "word": "孙颖莎陪练王添艺颜值火出圈",
+        "onboard_time": 1722923006,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 627809,
+        "num": 627809,
+        "word": "洗衣机用了2年没放过洗衣液",
+        "onboard_time": 1722923905,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590831,
+        "num": 590831,
+        "word": "土耳其女排 4号",
+        "onboard_time": 1722931108,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54827,
+        "num": 531697,
+        "word": "给马龙点个赞",
+        "onboard_time": 1722931168,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 530751,
+        "num": 530751,
+        "word": "大聪和臭丫头",
+        "onboard_time": 1722926606,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521445,
+        "num": 521445,
+        "word": "袁昊然",
+        "onboard_time": 1722929306,
+        "rank": 25,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 514151,
+        "num": 514151,
+        "word": "孙颖莎奥运已打52局",
+        "onboard_time": 1722930627,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 485524,
+        "num": 485524,
+        "word": "夏天余额仅剩一天",
+        "onboard_time": 1722926125,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274900,
+        "num": 477359,
+        "word": "田小娟回怼CUBE",
+        "onboard_time": 1722932546,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199534,
+        "num": 471831,
+        "word": "白蛇变巨蟒10秒硬控",
+        "onboard_time": 1722925525,
+        "rank": 29,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 470702,
+        "num": 470702,
+        "word": "体育总局回应下属单位一干部不当言论",
+        "onboard_time": 1722928226,
+        "rank": 30,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 439576,
+        "num": 439576,
+        "word": "陈若琳包里塞着全红婵的乌龟",
+        "onboard_time": 1722920310,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 394437,
+        "num": 394437,
+        "word": "张本智和紧急撤回一个口误",
+        "onboard_time": 1722920248,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195872,
+        "num": 393839,
+        "word": "邓紫棋邀请郑钦文看她演唱会",
+        "onboard_time": 1722926785,
+        "rank": 33,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 393600,
+        "num": 393600,
+        "word": "马龙巴黎奥运首秀",
+        "onboard_time": 1722912081,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 372456,
+        "num": 372456,
+        "word": "瓦尔加斯好猛",
+        "onboard_time": 1722932727,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 366435,
+        "num": 366435,
+        "word": "西班牙17岁跳水选手颜值火出圈",
+        "onboard_time": 1722928045,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 363819,
+        "num": 363819,
+        "word": "王楚钦交替使用两副球拍训练",
+        "onboard_time": 1722919048,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 357263,
+        "num": 357263,
+        "word": "水球",
+        "onboard_time": 1722930447,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 347013,
+        "num": 347013,
+        "word": "为什么不上张常宁",
+        "onboard_time": 1722932368,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306326,
+        "num": 306326,
+        "word": "乌克兰选手赛场睡觉醒来夺冠",
+        "onboard_time": 1722919710,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285380,
+        "num": 285380,
+        "word": "朱婷用拳扣球",
+        "onboard_time": 1722933151,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284513,
+        "num": 284513,
+        "word": "王皓说国乒男团每个人都要拧成一股绳",
+        "onboard_time": 1722930806,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279891,
+        "num": 279891,
+        "word": "女排比分",
+        "onboard_time": 1722930025,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196635,
+        "num": 269843,
+        "word": "男子三米板预赛",
+        "onboard_time": 1722930927,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119944,
+        "num": 269076,
+        "word": "部分高校非升即走异化为以走代管",
+        "onboard_time": 1722931228,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268560,
+        "num": 268560,
+        "word": "国家体育局回应袁某某言论",
+        "onboard_time": 1722928764,
+        "rank": 46,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 262741,
+        "num": 262741,
+        "word": "女排 紧张",
+        "onboard_time": 1722929966,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258023,
+        "num": 258023,
+        "word": "女子饭店门口躲雨撞破头索赔遭拒",
+        "onboard_time": 1722929426,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253640,
+        "num": 253640,
+        "word": "很多癌症都是因为节省",
+        "onboard_time": 1722926845,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻文化根魂#"
+    }
+  }
+}

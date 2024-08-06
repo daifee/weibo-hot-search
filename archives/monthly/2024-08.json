@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1722932683409,
+  "endTime": 1722933495958,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -771,6 +771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 4972387,
+      "num": 4972387,
+      "word": "瑞典女记者被处理",
+      "onboard_time": 1722929845,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 4939904,
       "num": 5979802,
       "word": "赵丽颖百花奖最佳女配角",
@@ -927,14 +935,6 @@
       "num": 4290026,
       "word": "许昕回应王楚钦爆冷出局",
       "onboard_time": 1722564202,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 4253623,
-      "num": 4253623,
-      "word": "瑞典女记者被处理",
-      "onboard_time": 1722929845,
       "rank": 1,
       "category": "体育"
     },
@@ -1259,6 +1259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3523015,
+      "num": 3523015,
+      "word": "中国女排vs土耳其女排",
+      "onboard_time": 1722926545,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3522450,
       "num": 3522450,
       "word": "赵立坚",
@@ -1288,6 +1296,14 @@
       "word": "邹敬园银牌",
       "onboard_time": 1722778910,
       "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3456545,
+      "num": 3456545,
+      "word": "国乒男团vs印度",
+      "onboard_time": 1722929666,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -2363,14 +2379,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 2194125,
-      "num": 2194125,
-      "word": "中国女排vs土耳其女排",
-      "onboard_time": 1722926545,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 2165731,
       "num": 2165731,
       "word": "潘展乐怒追七仙女",
@@ -2472,14 +2480,6 @@
       "word": "陈雨菲vs何冰娇",
       "onboard_time": 1722679702,
       "rank": 22,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2061944,
-      "num": 2061944,
-      "word": "国乒男团vs印度",
-      "onboard_time": 1722929666,
-      "rank": 49,
       "category": "体育"
     },
     {
@@ -2667,6 +2667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1962052,
+      "num": 1962052,
+      "word": "马龙王楚钦3比0印度组合",
+      "onboard_time": 1722933093,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1961685,
       "num": 1961685,
       "word": "潘展乐真的神了",
@@ -2808,6 +2816,14 @@
       "word": "马尔尚因不住奥运村错过药检",
       "onboard_time": 1722744144,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1875269,
+      "num": 1875269,
+      "word": "张继科回应开课教乒乓",
+      "onboard_time": 1722932126,
+      "rank": 15,
       "category": "体育"
     },
     {
@@ -3220,7 +3236,7 @@
     },
     {
       "raw_hot": 1623114,
-      "num": 1623114,
+      "num": 1892906,
       "word": "戴向宇方声明",
       "onboard_time": 1722928346,
       "rank": 17,
@@ -4315,6 +4331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1187755,
+      "num": 1187755,
+      "word": "马龙樊振东王楚钦最新训练画面",
+      "onboard_time": 1722927747,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1182620,
       "num": 932202,
       "word": "马林跪地痛哭",
@@ -4547,6 +4571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1116405,
+      "num": 668525,
+      "word": "中国女排1比2土耳其女排",
+      "onboard_time": 1722933209,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1113661,
       "num": 821531,
       "word": "举头望明月 低头思故乡",
@@ -4704,14 +4736,6 @@
       "word": "张博恒采访要碎了",
       "onboard_time": 1722874701,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1068087,
-      "num": 1068087,
-      "word": "马龙樊振东王楚钦最新训练画面",
-      "onboard_time": 1722927747,
-      "rank": 34,
       "category": "体育"
     },
     {
@@ -6731,14 +6755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 623690,
-      "num": 623690,
-      "word": "张继科回应开课教乒乓",
-      "onboard_time": 1722932126,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 623667,
       "num": 2934729,
       "word": "倪夏莲回应张学友模仿自己名场面",
@@ -6991,6 +7007,14 @@
       "num": 592023,
       "word": "潘展乐吐槽奥运村伙食太差了",
       "onboard_time": 1722913221,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 590831,
+      "num": 590831,
+      "word": "土耳其女排 4号",
+      "onboard_time": 1722931108,
       "rank": 32,
       "category": "体育"
     },
@@ -7555,6 +7579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 514151,
+      "num": 514151,
+      "word": "孙颖莎奥运已打52局",
+      "onboard_time": 1722930627,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 513038,
       "num": 3789884,
       "word": "全红婵回应为什么喜欢黄子韬",
@@ -7883,6 +7915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 480566,
+      "num": 647312,
+      "word": "庆余年3",
+      "onboard_time": 1722927504,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 479958,
       "num": 1114656,
       "word": "石凯 替父斩棘",
@@ -7897,14 +7937,6 @@
       "onboard_time": 1722817167,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 479603,
-      "num": 479603,
-      "word": "孙颖莎奥运已打52局",
-      "onboard_time": 1722930627,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 479318,
@@ -8016,6 +8048,14 @@
       "word": "杨威杨云你们当裁判",
       "onboard_time": 1722457692,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 470702,
+      "num": 470702,
+      "word": "体育总局回应下属单位一干部不当言论",
+      "onboard_time": 1722928226,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -8835,14 +8875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 409241,
-      "num": 409241,
-      "word": "体育总局回应下属单位一干部不当言论",
-      "onboard_time": 1722928226,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 408964,
       "num": 408964,
       "word": "张雨霏获9枚奥运奖牌",
@@ -9507,14 +9539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 375580,
-      "num": 647312,
-      "word": "庆余年3",
-      "onboard_time": 1722927504,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 375519,
       "num": 375519,
       "word": "中国体操队2金5银2铜收官",
@@ -9561,6 +9585,14 @@
       "onboard_time": 1722496402,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 372456,
+      "num": 372456,
+      "word": "瓦尔加斯好猛",
+      "onboard_time": 1722932727,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 372380,
@@ -9739,14 +9771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 360331,
-      "num": 360331,
-      "word": "土耳其女排 4号",
-      "onboard_time": 1722931108,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 360206,
       "num": 732720,
       "word": "by2腰身比",
@@ -9793,6 +9817,14 @@
       "onboard_time": 1722843984,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 357263,
+      "num": 357263,
+      "word": "水球",
+      "onboard_time": 1722930447,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 356485,
@@ -9961,6 +9993,14 @@
       "onboard_time": 1722765324,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 347013,
+      "num": 347013,
+      "word": "为什么不上张常宁",
+      "onboard_time": 1722932368,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 346375,
@@ -10233,14 +10273,6 @@
       "onboard_time": 1722522388,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 333552,
-      "num": 333552,
-      "word": "水球",
-      "onboard_time": 1722930447,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 333547,
@@ -11060,7 +11092,7 @@
     },
     {
       "raw_hot": 296155,
-      "num": 408466,
+      "num": 471831,
       "word": "白蛇变巨蟒10秒硬控",
       "onboard_time": 1722925525,
       "rank": 45,
@@ -11467,6 +11499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 285380,
+      "num": 285380,
+      "word": "朱婷用拳扣球",
+      "onboard_time": 1722933151,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 285271,
       "num": 336264,
       "word": "鞠婧祎杂志",
@@ -11481,6 +11521,14 @@
       "onboard_time": 1722736643,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284513,
+      "num": 284513,
+      "word": "王皓说国乒男团每个人都要拧成一股绳",
+      "onboard_time": 1722930806,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 284218,
@@ -11619,6 +11667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 279891,
+      "num": 279891,
+      "word": "女排比分",
+      "onboard_time": 1722930025,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 279774,
       "num": 279774,
       "word": "啥都不行潘展乐",
@@ -11707,14 +11763,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 276212,
-      "num": 276212,
-      "word": "女排比分",
-      "onboard_time": 1722930025,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 275425,
       "num": 3367154,
       "word": "G社 刘诗诗站姐",
@@ -11729,6 +11777,14 @@
       "onboard_time": 1722661643,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 274900,
+      "num": 477359,
+      "word": "田小娟回怼CUBE",
+      "onboard_time": 1722932546,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 274630,
@@ -12139,6 +12195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 262741,
+      "num": 262741,
+      "word": "女排 紧张",
+      "onboard_time": 1722929966,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 262690,
       "num": 235046,
       "word": "美国博主怒斥外媒质疑潘展乐成绩",
@@ -12523,14 +12587,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 247011,
-      "num": 312757,
-      "word": "田小娟回怼CUBE",
-      "onboard_time": 1722932546,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 246232,
       "num": 246232,
       "word": "雅思组合互戴奖牌",
@@ -12907,14 +12963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228375,
-      "num": 228375,
-      "word": "为什么不上张常宁",
-      "onboard_time": 1722932368,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 228001,
       "num": 228001,
       "word": "张之臻发球好牛",
@@ -13153,14 +13201,6 @@
       "onboard_time": 1722688289,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 220240,
-      "num": 220240,
-      "word": "王皓说国乒男团每个人都要拧成一股绳",
-      "onboard_time": 1722930806,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 219979,
@@ -14652,7 +14692,7 @@
     },
     {
       "raw_hot": 186323,
-      "num": 3723778,
+      "num": 3991089,
       "word": "40秒穿越40年致敬传承",
       "onboard_time": 1722906623,
       "rank": 47,
@@ -15939,6 +15979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119944,
+      "num": 1090903,
+      "word": "部分高校非升即走异化为以走代管",
+      "onboard_time": 1722931228,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119533,
       "num": 606486,
       "word": "原来抓了一只招财猫",
@@ -16739,14 +16787,6 @@
       "category": "国内时政,军事"
     },
     {
-      "raw_hot": 69255,
-      "num": 1090903,
-      "word": "部分高校非升即走异化为以走代管",
-      "onboard_time": 1722931228,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 69081,
       "num": 1746699,
       "word": "演唱会成行走的流量包",
@@ -16923,6 +16963,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 61365,
+      "num": 1876753,
+      "word": "父亲醉酒欲摔1岁宝宝被制服",
+      "onboard_time": 1722933028,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61223,
       "num": 1489102,
       "word": "这才是中国人的cheers",
@@ -16969,6 +17017,14 @@
       "onboard_time": 1722848784,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58413,
+      "num": 663816,
+      "word": "nova小折叠鸿蒙性能丝滑流畅",
+      "onboard_time": 1722930326,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 58098,
@@ -17048,6 +17104,14 @@
       "word": "祝汪顺一帆风顺",
       "onboard_time": 1722500548,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 54827,
+      "num": 531697,
+      "word": "给马龙点个赞",
+      "onboard_time": 1722931168,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -17131,6 +17195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53543,
+      "num": 672114,
+      "word": "朱婷扮鬼脸",
+      "onboard_time": 1722932787,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52930,
       "num": 4203761,
       "word": "证监会深圳监管局原局长陈小澎被查",
@@ -17209,14 +17281,6 @@
       "onboard_time": 1722497244,
       "rank": 37,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 49382,
-      "num": 603264,
-      "word": "nova小折叠鸿蒙性能丝滑流畅",
-      "onboard_time": 1722930326,
-      "rank": 17,
-      "category": "数码"
     },
     {
       "raw_hot": 49040,
@@ -17504,14 +17568,6 @@
       "word": "中国女篮全力出击",
       "onboard_time": 1722667041,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 40456,
-      "num": 421253,
-      "word": "给马龙点个赞",
-      "onboard_time": 1722931168,
-      "rank": 26,
       "category": "体育"
     },
     {
