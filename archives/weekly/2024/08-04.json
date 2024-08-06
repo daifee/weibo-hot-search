@@ -1,6 +1,6 @@
 {
   "startTime": 1722702313981,
-  "endTime": 1722958529078,
+  "endTime": 1722961504263,
   "band_list": [
     {
       "raw_hot": 35169209,
@@ -659,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3305774,
+      "num": 3305774,
+      "word": "陈芋汐在采访时哭了",
+      "onboard_time": 1722958286,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3279494,
       "num": 2898286,
       "word": "女子高低杠",
@@ -752,6 +760,14 @@
       "word": "王皓跳起来了",
       "onboard_time": 1722776971,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3017367,
+      "num": 3017367,
+      "word": "陈芋汐 压分",
+      "onboard_time": 1722959305,
+      "rank": 1,
       "category": "体育"
     },
     {
@@ -851,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2835377,
+      "num": 2835377,
+      "word": "全红婵失误",
+      "onboard_time": 1722953687,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2805403,
       "num": 2805403,
       "word": "郑钦文赛后采访",
@@ -928,6 +952,14 @@
       "word": "潘展乐说这段采访先别播",
       "onboard_time": 1722905604,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2629475,
+      "num": 2629475,
+      "word": "张家齐 惋惜",
+      "onboard_time": 1722958286,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -1168,14 +1200,6 @@
       "word": "孙颖莎又指导拍照了",
       "onboard_time": 1722701246,
       "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2281972,
-      "num": 2281972,
-      "word": "全红婵失误",
-      "onboard_time": 1722953687,
-      "rank": 34,
       "category": "体育"
     },
     {
@@ -1971,6 +1995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1361620,
+      "num": 1361620,
+      "word": "潘展乐替查尔斯被网暴难过",
+      "onboard_time": 1722957266,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1359013,
       "num": 1359013,
       "word": "郑钦文一年有360天吃鸡胸肉西蓝花",
@@ -2016,6 +2048,14 @@
       "word": "孙颖莎说对手的五环项链好看",
       "onboard_time": 1722900979,
       "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1317063,
+      "num": 1317063,
+      "word": "全红婵打破伏明霞纪录",
+      "onboard_time": 1722959544,
+      "rank": 12,
       "category": "体育"
     },
     {
@@ -2379,6 +2419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1086784,
+      "num": 620727,
+      "word": "马龙撤回一个握手",
+      "onboard_time": 1722954876,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1086303,
       "num": 1086303,
       "word": "鹿晗直播",
@@ -2731,6 +2779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 895545,
+      "num": 219510,
+      "word": "全红婵回应失误",
+      "onboard_time": 1722959004,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 894733,
       "num": 565198,
       "word": "孙颖莎3比1梅谢芙",
@@ -2795,6 +2851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 862514,
+      "num": 214651,
+      "word": "倪夏莲直播",
+      "onboard_time": 1722960625,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 861863,
       "num": 861863,
       "word": "国家体育局回应袁某某言论",
@@ -2848,6 +2912,14 @@
       "word": "张雨霏晒1银5铜告别巴黎奥运",
       "onboard_time": 1722906024,
       "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 836599,
+      "num": 525460,
+      "word": "全红婵弟弟",
+      "onboard_time": 1722957805,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -3088,14 +3160,6 @@
       "word": "邹敬园双杠16.200分",
       "onboard_time": 1722853648,
       "rank": 26,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 713212,
-      "num": 620727,
-      "word": "马龙撤回一个握手",
-      "onboard_time": 1722954876,
-      "rank": 38,
       "category": "体育"
     },
     {
@@ -3571,14 +3635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 580110,
-      "num": 580110,
-      "word": "潘展乐替查尔斯被网暴难过",
-      "onboard_time": 1722957266,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 579205,
       "num": 415614,
       "word": "张雨霏称也许会找个男朋友",
@@ -3811,14 +3867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 525460,
-      "num": 525460,
-      "word": "全红婵弟弟",
-      "onboard_time": 1722957805,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 525263,
       "num": 820234,
       "word": "宋雨琦辣成这样",
@@ -3939,14 +3987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 508884,
-      "num": 508884,
-      "word": "陈芋汐在采访时哭了",
-      "onboard_time": 1722958286,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 506559,
       "num": 1876753,
       "word": "父亲醉酒欲摔1岁宝宝被制服",
@@ -4019,12 +4059,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 493908,
-      "num": 493908,
-      "word": "张家齐 惋惜",
-      "onboard_time": 1722958286,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 493728,
+      "num": 1771743,
+      "word": "蔡徐坤开庭",
+      "onboard_time": 1722960325,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 493324,
@@ -5267,6 +5307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 356419,
+      "num": 1429980,
+      "word": "张碧晨发长文回应粉丝",
+      "onboard_time": 1722954816,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 355448,
       "num": 355448,
       "word": "欧钰珊自由体操第8",
@@ -5515,14 +5563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 335219,
-      "num": 625335,
-      "word": "张碧晨发长文回应粉丝",
-      "onboard_time": 1722954816,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 333698,
       "num": 333698,
       "word": "法国女排vs美国女排",
@@ -5625,6 +5665,14 @@
       "onboard_time": 1722912261,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 322229,
+      "num": 322229,
+      "word": "贺某某",
+      "onboard_time": 1722957027,
+      "rank": 49,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 321734,
@@ -6723,6 +6771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254442,
+      "num": 254442,
+      "word": "唐嫣吧唧痛耳",
+      "onboard_time": 1722959066,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254275,
       "num": 254275,
       "word": "很多癌症都是因为节省",
@@ -6945,6 +7001,14 @@
       "onboard_time": 1722940225,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242422,
+      "num": 204683,
+      "word": "韩国人是怎么夸全红婵的",
+      "onboard_time": 1722957566,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 241365,
@@ -7393,14 +7457,6 @@
       "onboard_time": 1722906805,
       "rank": 38,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 210763,
-      "num": 263049,
-      "word": "贺某某",
-      "onboard_time": 1722957027,
-      "rank": 49,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 210582,
@@ -8675,6 +8731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 155283,
+      "num": 630187,
+      "word": "被全红婵陈芋汐的率真圈粉了",
+      "onboard_time": 1722955891,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154928,
       "num": 237764,
       "word": "魏大勋百花奖红毯生图",
@@ -8865,6 +8929,14 @@
       "onboard_time": 1722721873,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141038,
+      "num": 187703,
+      "word": "张进 化妆技术",
+      "onboard_time": 1722960507,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 140703,
@@ -9232,14 +9304,6 @@
       "word": "国乒女团开门红",
       "onboard_time": 1722868471,
       "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 98112,
-      "num": 630187,
-      "word": "被全红婵陈芋汐的率真圈粉了",
-      "onboard_time": 1722955891,
-      "rank": 19,
       "category": "体育"
     },
     {
