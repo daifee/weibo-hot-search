@@ -1,0 +1,410 @@
+{
+  "runTime": 1722932683409,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10561457,
+        "num": 10561457,
+        "word": "国家体育总局对袁某某开始调查",
+        "onboard_time": 1722928346,
+        "rank": 0,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 4253623,
+        "num": 4253623,
+        "word": "瑞典女记者被处理",
+        "onboard_time": 1722929845,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13125,
+        "num": 3723778,
+        "word": "40秒穿越40年致敬传承",
+        "onboard_time": 1722906623,
+        "rank": 2,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 3288737,
+        "num": 3288737,
+        "word": "这一球真脏啊",
+        "onboard_time": 1722927025,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2194125,
+        "num": 2194125,
+        "word": "中国女排vs土耳其女排",
+        "onboard_time": 1722926545,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2061944,
+        "num": 2061944,
+        "word": "国乒男团vs印度",
+        "onboard_time": 1722929666,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2055746,
+        "num": 2055746,
+        "word": "李纯公开与马頔恋情",
+        "onboard_time": 1722925105,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1509330,
+        "num": 1509330,
+        "word": "赵立坚",
+        "onboard_time": 1722925766,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1378724,
+        "num": 1378724,
+        "word": "戴向宇方声明",
+        "onboard_time": 1722928346,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69255,
+        "num": 1090903,
+        "word": "部分高校非升即走异化为以走代管",
+        "onboard_time": 1722931228,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1068087,
+        "num": 1068087,
+        "word": "马龙樊振东王楚钦最新训练画面",
+        "onboard_time": 1722927747,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 807321,
+        "num": 807321,
+        "word": "孙颖莎陪练王添艺颜值火出圈",
+        "onboard_time": 1722923006,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 721136,
+        "num": 721136,
+        "word": "张昊唯 我现在感觉到处都是录音机",
+        "onboard_time": 1722922586,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 678046,
+        "num": 678046,
+        "word": "洗衣机用了2年没放过洗衣液",
+        "onboard_time": 1722923905,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 663807,
+        "num": 663807,
+        "word": "戴向宇上线未回应",
+        "onboard_time": 1722925105,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 623690,
+        "num": 623690,
+        "word": "张继科回应开课教乒乓",
+        "onboard_time": 1722932126,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 621388,
+        "num": 621388,
+        "word": "袁昊然",
+        "onboard_time": 1722929306,
+        "rank": 16,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 49382,
+        "num": 603264,
+        "word": "nova小折叠鸿蒙性能丝滑流畅",
+        "onboard_time": 1722930326,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 434365,
+        "num": 591426,
+        "word": "张昊唯回应",
+        "onboard_time": 1722921148,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375580,
+        "num": 590998,
+        "word": "庆余年3",
+        "onboard_time": 1722927504,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 590720,
+        "num": 590720,
+        "word": "大聪和臭丫头",
+        "onboard_time": 1722926606,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493977,
+        "num": 493977,
+        "word": "夏天余额仅剩一天",
+        "onboard_time": 1722926125,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479603,
+        "num": 479603,
+        "word": "孙颖莎奥运已打52局",
+        "onboard_time": 1722930627,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 474131,
+        "num": 474131,
+        "word": "张本智和紧急撤回一个口误",
+        "onboard_time": 1722920248,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 468304,
+        "num": 468304,
+        "word": "陈若琳包里塞着全红婵的乌龟",
+        "onboard_time": 1722920310,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 443526,
+        "num": 443526,
+        "word": "国家体育局回应袁某某言论",
+        "onboard_time": 1722928764,
+        "rank": 25,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 40456,
+        "num": 421253,
+        "word": "给马龙点个赞",
+        "onboard_time": 1722931168,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 409241,
+        "num": 409241,
+        "word": "体育总局回应下属单位一干部不当言论",
+        "onboard_time": 1722928226,
+        "rank": 27,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 239502,
+        "num": 408698,
+        "word": "邓紫棋邀请郑钦文看她演唱会",
+        "onboard_time": 1722926785,
+        "rank": 28,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 216471,
+        "num": 408466,
+        "word": "白蛇变巨蟒10秒硬控",
+        "onboard_time": 1722925525,
+        "rank": 29,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 408441,
+        "num": 408441,
+        "word": "西班牙17岁跳水选手颜值火出圈",
+        "onboard_time": 1722928045,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376381,
+        "num": 376381,
+        "word": "王楚钦交替使用两副球拍训练",
+        "onboard_time": 1722919048,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 360331,
+        "num": 360331,
+        "word": "土耳其女排 4号",
+        "onboard_time": 1722931108,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333552,
+        "num": 333552,
+        "word": "水球",
+        "onboard_time": 1722930447,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247011,
+        "num": 312757,
+        "word": "田小娟回怼CUBE",
+        "onboard_time": 1722932546,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35261,
+        "num": 307244,
+        "word": "韩国搞笑书法秀",
+        "onboard_time": 1722932066,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304252,
+        "num": 304252,
+        "word": "男子三米板预赛",
+        "onboard_time": 1722930927,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 332443,
+        "num": 302768,
+        "word": "乌克兰选手赛场睡觉醒来夺冠",
+        "onboard_time": 1722919710,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291328,
+        "num": 291328,
+        "word": "女子饭店门口躲雨撞破头索赔遭拒",
+        "onboard_time": 1722929426,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276881,
+        "num": 276881,
+        "word": "马龙巴黎奥运首秀",
+        "onboard_time": 1722912081,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276212,
+        "num": 276212,
+        "word": "女排比分",
+        "onboard_time": 1722930025,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272372,
+        "num": 272372,
+        "word": "科目二考试自动挡车辆竟然中途熄火",
+        "onboard_time": 1722921626,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254275,
+        "num": 254275,
+        "word": "很多癌症都是因为节省",
+        "onboard_time": 1722926845,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 249546,
+        "num": 249546,
+        "word": "王昶在台湾是真的火",
+        "onboard_time": 1722913823,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202588,
+        "num": 239647,
+        "word": "名侦探柯南新剧场版定档",
+        "onboard_time": 1722926606,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 230858,
+        "num": 230858,
+        "word": "原来过不了安检的东西都归工作人员",
+        "onboard_time": 1722928945,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228375,
+        "num": 228375,
+        "word": "为什么不上张常宁",
+        "onboard_time": 1722932368,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220240,
+        "num": 220240,
+        "word": "王皓说国乒男团每个人都要拧成一股绳",
+        "onboard_time": 1722930806,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216961,
+        "num": 216961,
+        "word": "拒绝动物表演 但动物非要表演",
+        "onboard_time": 1722925225,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210541,
+        "num": 210541,
+        "word": "韩素希剪头发了",
+        "onboard_time": 1722925105,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻文化根魂#"
+    }
+  }
+}

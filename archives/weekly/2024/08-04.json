@@ -1,6 +1,6 @@
 {
   "startTime": 1722702313981,
-  "endTime": 1722929702191,
+  "endTime": 1722932683409,
   "band_list": [
     {
       "raw_hot": 35169209,
@@ -128,6 +128,14 @@
       "word": "王楚钦出局 不算爆冷",
       "onboard_time": 1722776791,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 10561457,
+      "num": 10561457,
+      "word": "国家体育总局对袁某某开始调查",
+      "onboard_time": 1722928346,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -411,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 4253623,
+      "num": 4253623,
+      "word": "瑞典女记者被处理",
+      "onboard_time": 1722929845,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 4195337,
       "num": 4195337,
       "word": "体操女子平衡木决赛",
@@ -464,14 +480,6 @@
       "word": "孙颖莎 发烧",
       "onboard_time": 1722702286,
       "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 3789417,
-      "num": 3789417,
-      "word": "国家体育总局对袁某某开始调查",
-      "onboard_time": 1722928346,
-      "rank": 14,
       "category": "体育"
     },
     {
@@ -1019,6 +1027,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 2194125,
+      "num": 2194125,
+      "word": "中国女排vs土耳其女排",
+      "onboard_time": 1722926545,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2161066,
       "num": 2161066,
       "word": "全红婵以为不用上学才去的跳水",
@@ -1049,6 +1065,14 @@
       "onboard_time": 1722902000,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2061944,
+      "num": 2061944,
+      "word": "国乒男团vs印度",
+      "onboard_time": 1722929666,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 2057361,
@@ -1619,14 +1643,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 1414037,
-      "num": 1414037,
-      "word": "中国女排vs土耳其女排",
-      "onboard_time": 1722926545,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1413098,
       "num": 1413098,
       "word": "陈梦夺冠92岁的姥姥热泪盈眶",
@@ -2064,6 +2080,14 @@
       "word": "张博恒采访要碎了",
       "onboard_time": 1722874701,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1068087,
+      "num": 1068087,
+      "word": "马龙樊振东王楚钦最新训练画面",
+      "onboard_time": 1722927747,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -2875,12 +2899,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 623690,
+      "num": 623690,
+      "word": "张继科回应开课教乒乓",
+      "onboard_time": 1722932126,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 623667,
       "num": 2934729,
       "word": "倪夏莲回应张学友模仿自己名场面",
       "onboard_time": 1722859764,
       "rank": 13,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 621388,
+      "num": 621388,
+      "word": "袁昊然",
+      "onboard_time": 1722929306,
+      "rank": 24,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 620664,
@@ -3331,6 +3371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 493977,
+      "num": 493977,
+      "word": "夏天余额仅剩一天",
+      "onboard_time": 1722926125,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 493927,
       "num": 334469,
       "word": "谷爱凌回应被全红婵夸漂亮",
@@ -3361,14 +3409,6 @@
       "onboard_time": 1722688652,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 490924,
-      "num": 490924,
-      "word": "夏天余额仅剩一天",
-      "onboard_time": 1722926125,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 490725,
@@ -3449,6 +3489,14 @@
       "onboard_time": 1722817167,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 479603,
+      "num": 479603,
+      "word": "孙颖莎奥运已打52局",
+      "onboard_time": 1722930627,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 476844,
@@ -3835,11 +3883,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 409575,
-      "num": 409575,
-      "word": "马龙樊振东王楚钦最新训练画面",
-      "onboard_time": 1722927747,
-      "rank": 34,
+      "raw_hot": 409241,
+      "num": 409241,
+      "word": "体育总局回应下属单位一干部不当言论",
+      "onboard_time": 1722928226,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -3856,6 +3904,14 @@
       "word": "郑钦文樊振东互关",
       "onboard_time": 1722913583,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 408441,
+      "num": 408441,
+      "word": "西班牙17岁跳水选手颜值火出圈",
+      "onboard_time": 1722928045,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -4211,12 +4267,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 375961,
-      "num": 375961,
-      "word": "袁昊然",
-      "onboard_time": 1722929306,
-      "rank": 24,
-      "category": "社会新闻,体育"
+      "raw_hot": 375580,
+      "num": 647312,
+      "word": "庆余年3",
+      "onboard_time": 1722927504,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 375519,
@@ -4331,6 +4387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 360331,
+      "num": 360331,
+      "word": "土耳其女排 4号",
+      "onboard_time": 1722931108,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 359424,
       "num": 359424,
       "word": "110米栏奥运纪录还是刘翔的",
@@ -4340,7 +4404,7 @@
     },
     {
       "raw_hot": 358878,
-      "num": 358878,
+      "num": 408698,
       "word": "邓紫棋邀请郑钦文看她演唱会",
       "onboard_time": 1722926785,
       "rank": 26,
@@ -4361,14 +4425,6 @@
       "onboard_time": 1722842784,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 356262,
-      "num": 647312,
-      "word": "庆余年3",
-      "onboard_time": 1722927504,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 355448,
@@ -4592,6 +4648,14 @@
       "word": "法国女排vs美国女排",
       "onboard_time": 1722772526,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 333552,
+      "num": 333552,
+      "word": "水球",
+      "onboard_time": 1722930447,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -4915,6 +4979,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 304252,
+      "num": 304252,
+      "word": "男子三米板预赛",
+      "onboard_time": 1722930927,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 303551,
       "num": 303551,
       "word": "哈里斯实力让特朗普措手不及",
@@ -4963,14 +5035,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 297407,
-      "num": 297407,
-      "word": "体育总局回应下属单位一干部不当言论",
-      "onboard_time": 1722928226,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 297174,
       "num": 297174,
       "word": "孙杨回应纪录被打破",
@@ -4996,7 +5060,7 @@
     },
     {
       "raw_hot": 296155,
-      "num": 338943,
+      "num": 408466,
       "word": "白蛇变巨蟒10秒硬控",
       "onboard_time": 1722925525,
       "rank": 45,
@@ -5065,6 +5129,14 @@
       "onboard_time": 1722902063,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 291328,
+      "num": 1138112,
+      "word": "女子饭店门口躲雨撞破头索赔遭拒",
+      "onboard_time": 1722929426,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290137,
@@ -5289,6 +5361,14 @@
       "onboard_time": 1722859764,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 276212,
+      "num": 276212,
+      "word": "女排比分",
+      "onboard_time": 1722930025,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 274630,
@@ -5603,6 +5683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254275,
+      "num": 254275,
+      "word": "很多癌症都是因为节省",
+      "onboard_time": 1722926845,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 254031,
       "num": 3061209,
       "word": "中国第18金",
@@ -5739,6 +5827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 247011,
+      "num": 312757,
+      "word": "田小娟回怼CUBE",
+      "onboard_time": 1722932546,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 246206,
       "num": 1134970,
       "word": "忍不住嫉妒好朋友让我痛恨自己",
@@ -5777,14 +5873,6 @@
       "onboard_time": 1722919408,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 245493,
-      "num": 245493,
-      "word": "很多癌症都是因为节省",
-      "onboard_time": 1722926845,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 245482,
@@ -5840,14 +5928,6 @@
       "word": "中国第21金",
       "onboard_time": 1722856043,
       "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 239075,
-      "num": 239075,
-      "word": "西班牙17岁跳水选手颜值火出圈",
-      "onboard_time": 1722928045,
-      "rank": 39,
       "category": "体育"
     },
     {
@@ -5931,6 +6011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230858,
+      "num": 230858,
+      "word": "原来过不了安检的东西都归工作人员",
+      "onboard_time": 1722928945,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 229855,
       "num": 229855,
       "word": "平价奶茶正成为年轻人的新宠",
@@ -5952,6 +6040,14 @@
       "word": "陈梦为何能顶住压力战胜孙颖莎夺冠",
       "onboard_time": 1722736282,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 228375,
+      "num": 228375,
+      "word": "为什么不上张常宁",
+      "onboard_time": 1722932368,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -6057,6 +6153,14 @@
       "onboard_time": 1722819865,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220240,
+      "num": 220240,
+      "word": "王皓说国乒男团每个人都要拧成一股绳",
+      "onboard_time": 1722930806,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 219842,
@@ -6428,7 +6532,7 @@
     },
     {
       "raw_hot": 205369,
-      "num": 205369,
+      "num": 239647,
       "word": "名侦探柯南新剧场版定档",
       "onboard_time": 1722926606,
       "rank": 49,
@@ -6980,7 +7084,7 @@
     },
     {
       "raw_hot": 186323,
-      "num": 3623925,
+      "num": 3723778,
       "word": "40秒穿越40年致敬传承",
       "onboard_time": 1722906623,
       "rank": 47,
@@ -7000,14 +7104,6 @@
       "word": "张军说国羽表现刚刚及格",
       "onboard_time": 1722877338,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 184943,
-      "num": 184943,
-      "word": "国乒男团vs印度",
-      "onboard_time": 1722929666,
-      "rank": 49,
       "category": "体育"
     },
     {
@@ -8283,6 +8379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69255,
+      "num": 1090903,
+      "word": "部分高校非升即走异化为以走代管",
+      "onboard_time": 1722931228,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67058,
       "num": 181175,
       "word": "时代少年团梦",
@@ -8507,6 +8611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49382,
+      "num": 603264,
+      "word": "nova小折叠鸿蒙性能丝滑流畅",
+      "onboard_time": 1722930326,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 48915,
       "num": 457947,
       "word": "看樊振东比赛的标配",
@@ -8651,14 +8763,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 42637,
-      "num": 1138112,
-      "word": "女子饭店门口躲雨撞破头索赔遭拒",
-      "onboard_time": 1722929426,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 42634,
       "num": 1179197,
       "word": "以色列防长要求准备好快速转向进攻",
@@ -8697,6 +8801,14 @@
       "onboard_time": 1722810555,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 40456,
+      "num": 421253,
+      "word": "给马龙点个赞",
+      "onboard_time": 1722931168,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 40264,
@@ -8777,6 +8889,14 @@
       "onboard_time": 1722839004,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 35261,
+      "num": 307244,
+      "word": "韩国搞笑书法秀",
+      "onboard_time": 1722932066,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35128,
