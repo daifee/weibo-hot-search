@@ -1,6 +1,6 @@
 {
   "startTime": 1722875081704,
-  "endTime": 1722940749022,
+  "endTime": 1722943077438,
   "band_list": [
     {
       "raw_hot": 10561457,
@@ -137,6 +137,14 @@
       "onboard_time": 1722932126,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2853187,
+      "num": 1081808,
+      "word": "戴向宇发无犯罪记录证明",
+      "onboard_time": 1722941124,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2734068,
@@ -291,6 +299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1591541,
+      "num": 1591541,
+      "word": "许昕说王楚钦状态回来了",
+      "onboard_time": 1722937649,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1557879,
       "num": 1557879,
       "word": "孙颖莎陪练王添艺颜值火出圈",
@@ -315,6 +331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1524249,
+      "num": 1030253,
+      "word": "陈紫函力挺戴向宇",
+      "onboard_time": 1722942923,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1482722,
       "num": 2374683,
       "word": "张昊唯 我现在感觉到处都是录音机",
@@ -332,7 +356,7 @@
     },
     {
       "raw_hot": 1351194,
-      "num": 624196,
+      "num": 671619,
       "word": "惠若琪哽咽",
       "onboard_time": 1722937351,
       "rank": 17,
@@ -345,6 +369,14 @@
       "onboard_time": 1722900979,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1306409,
+      "num": 3358639,
+      "word": "警方介入调查女子小区放生多盒蟑螂",
+      "onboard_time": 1722936632,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1278207,
@@ -411,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1128141,
+      "num": 1128141,
+      "word": "印度教练看孙颖莎的表情",
+      "onboard_time": 1722939984,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1118747,
       "num": 1118747,
       "word": "中国游泳队已回国",
@@ -451,20 +491,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1088464,
+      "num": 1027089,
+      "word": "王楚钦回应球拍事件",
+      "onboard_time": 1722941304,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1086303,
       "num": 1086303,
       "word": "鹿晗直播",
       "onboard_time": 1722907701,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1077626,
-      "num": 642789,
-      "word": "许昕说王楚钦状态回来了",
-      "onboard_time": 1722937649,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 1072485,
@@ -555,14 +595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 876646,
-      "num": 3358639,
-      "word": "警方介入调查女子小区放生多盒蟑螂",
-      "onboard_time": 1722936632,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 861863,
       "num": 861863,
       "word": "国家体育局回应袁某某言论",
@@ -624,6 +656,14 @@
       "word": "王楚钦vs塔卡",
       "onboard_time": 1722937411,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 771215,
+      "num": 683327,
+      "word": "奥委会用全红婵动作和1912年对比",
+      "onboard_time": 1722939384,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -795,11 +835,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 539027,
-      "num": 539027,
-      "word": "奥委会用全红婵动作和1912年对比",
-      "onboard_time": 1722939384,
-      "rank": 45,
+      "raw_hot": 540362,
+      "num": 540362,
+      "word": "潘展乐告状 汪顺告白",
+      "onboard_time": 1722942324,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -851,14 +891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 515705,
-      "num": 515705,
-      "word": "印度教练看孙颖莎的表情",
-      "onboard_time": 1722939984,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 514151,
       "num": 514151,
       "word": "孙颖莎奥运已打52局",
@@ -873,6 +905,14 @@
       "onboard_time": 1722933028,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 503538,
+      "num": 503538,
+      "word": "汪顺你怎么睡得着觉的",
+      "onboard_time": 1722941183,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 495160,
@@ -979,11 +1019,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 444188,
+      "num": 444188,
+      "word": "樊振东在台上打马龙在台下挥拍",
+      "onboard_time": 1722942144,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 441811,
       "num": 441811,
       "word": "樊振东一段藏了11年的素材",
       "onboard_time": 1722904644,
       "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 438987,
+      "num": 438987,
+      "word": "李盈莹说自己可能没有下一届奥运了",
+      "onboard_time": 1722942024,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -1009,6 +1065,14 @@
       "onboard_time": 1722933748,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 421529,
+      "num": 421529,
+      "word": "菲尔普斯称无端指责潘展乐是错误的",
+      "onboard_time": 1722941963,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 421139,
@@ -1139,6 +1203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 377814,
+      "num": 377814,
+      "word": "梁王组合再现挖呀挖呀挖",
+      "onboard_time": 1722941724,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 377040,
       "num": 377040,
       "word": "射击队训练专门请人嗷嗷大叫",
@@ -1243,6 +1315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 342405,
+      "num": 1127441,
+      "word": "秦伟搏晋级110米栏半决赛",
+      "onboard_time": 1722940344,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 340111,
       "num": 811413,
       "word": "丁程鑫素颜开车",
@@ -1251,12 +1331,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 339837,
+      "num": 339837,
+      "word": "女排姑娘们哭了",
+      "onboard_time": 1722941124,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 337850,
+      "num": 337850,
+      "word": "法媒是这样报道王楚钦球拍事件的",
+      "onboard_time": 1722941424,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 329535,
       "num": 329535,
       "word": "雷军称倒霉的地方就是老跟苹果华为比",
       "onboard_time": 1722910641,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 329184,
+      "num": 329184,
+      "word": "中国女排哭了我的心碎了",
+      "onboard_time": 1722942324,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 328924,
@@ -1352,6 +1456,14 @@
       "word": "乒联世界排名更新王楚钦孙颖莎第1",
       "onboard_time": 1722912982,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 312371,
+      "num": 312371,
+      "word": "郎平时代",
+      "onboard_time": 1722941724,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -1651,14 +1763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 258292,
-      "num": 1127441,
-      "word": "秦伟搏晋级110米栏半决赛",
-      "onboard_time": 1722940344,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 256366,
       "num": 256366,
       "word": "日本对华海鲜出口断崖式下跌",
@@ -1889,6 +1993,14 @@
       "onboard_time": 1722861330,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 223486,
+      "num": 235317,
+      "word": "过着一种很放纵的大人生活",
+      "onboard_time": 1722942982,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 221716,
@@ -2627,6 +2739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77334,
+      "num": 548514,
+      "word": "日本樱岛火山喷发烟柱高达3000米",
+      "onboard_time": 1722942504,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76910,
       "num": 76910,
       "word": "黄博凯第七",
@@ -2641,6 +2761,14 @@
       "onboard_time": 1722913221,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 74931,
+      "num": 1099748,
+      "word": "李政道遗愿与妻子合葬于苏州",
+      "onboard_time": 1722942024,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72854,
@@ -2692,7 +2820,7 @@
     },
     {
       "raw_hot": 63367,
-      "num": 671578,
+      "num": 1063115,
       "word": "享界S9价格",
       "onboard_time": 1722939685,
       "rank": 49,
@@ -2888,6 +3016,14 @@
       "word": "原来降噪数值不一定越大越好",
       "onboard_time": 1722926965,
       "rank": 28,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 39807,
+      "num": 563306,
+      "word": "nova小折叠后置5000万悬停自拍",
+      "onboard_time": 1722941424,
+      "rank": 27,
       "category": "数码"
     },
     {
