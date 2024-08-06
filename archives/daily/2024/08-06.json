@@ -1,6 +1,6 @@
 {
   "startTime": 1722875081704,
-  "endTime": 1722947871758,
+  "endTime": 1722948791884,
   "band_list": [
     {
       "raw_hot": 10561457,
@@ -123,6 +123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3149326,
+      "num": 3149326,
+      "word": "王楚钦回应球拍事件",
+      "onboard_time": 1722941304,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3073263,
       "num": 3073263,
       "word": "孙颖莎一单",
@@ -161,14 +169,6 @@
       "onboard_time": 1722938967,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2728808,
-      "num": 2728808,
-      "word": "王楚钦回应球拍事件",
-      "onboard_time": 1722941304,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 2655457,
@@ -315,6 +315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1595759,
+      "num": 1327402,
+      "word": "陈紫函 我老公终于红了",
+      "onboard_time": 1722944604,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1591541,
       "num": 1591541,
       "word": "许昕说王楚钦状态回来了",
@@ -331,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1550559,
+      "num": 1550559,
+      "word": "马龙躲左撇子已经游刃有余",
+      "onboard_time": 1722944483,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1549096,
       "num": 1549096,
       "word": "美国一奥运选手兴奋剂阳性",
@@ -343,14 +359,6 @@
       "num": 1541003,
       "word": "陈若琳包里塞着全红婵的乌龟",
       "onboard_time": 1722920310,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1522261,
-      "num": 1522261,
-      "word": "马龙躲左撇子已经游刃有余",
-      "onboard_time": 1722944483,
       "rank": 4,
       "category": "体育"
     },
@@ -393,14 +401,6 @@
       "onboard_time": 1722937351,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1327402,
-      "num": 1327402,
-      "word": "陈紫函 我老公终于红了",
-      "onboard_time": 1722944604,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 1326356,
@@ -448,6 +448,14 @@
       "word": "马龙樊振东王楚钦最新训练画面",
       "onboard_time": 1722927747,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1162946,
+      "num": 862834,
+      "word": "樊振东说今天失误有点多",
+      "onboard_time": 1722947125,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -651,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 884585,
+      "num": 1147748,
+      "word": "正新鸡排店员打包外卖订单留下几块",
+      "onboard_time": 1722946224,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 881624,
       "num": 881624,
       "word": "奥委会用全红婵动作和1912年对比",
@@ -761,6 +777,14 @@
       "onboard_time": 1722935428,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 650934,
+      "num": 838935,
+      "word": "张杰鸟巢嘉宾凡希亚",
+      "onboard_time": 1722947363,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 644347,
@@ -875,14 +899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 574337,
-      "num": 574337,
-      "word": "樊振东说今天失误有点多",
-      "onboard_time": 1722947125,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 568596,
       "num": 940160,
       "word": "陈妍希一天只吃一顿饭",
@@ -915,11 +931,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 550017,
+      "num": 909523,
+      "word": "全红婵陈芋汐单人10米台决赛",
+      "onboard_time": 1722946585,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 538675,
       "num": 538675,
       "word": "心疼王媛媛",
       "onboard_time": 1722939384,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 537264,
+      "num": 527759,
+      "word": "中国三大球项目已全军覆没",
+      "onboard_time": 1722945024,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -937,14 +969,6 @@
       "onboard_time": 1722905063,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 527759,
-      "num": 527759,
-      "word": "中国三大球项目已全军覆没",
-      "onboard_time": 1722945024,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 527177,
@@ -1075,14 +1099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 455401,
-      "num": 1147748,
-      "word": "正新鸡排店员打包外卖订单留下几块",
-      "onboard_time": 1722946224,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 452866,
       "num": 452866,
       "word": "陈芋汐吃牛角包采访",
@@ -1132,7 +1148,7 @@
     },
     {
       "raw_hot": 441157,
-      "num": 281986,
+      "num": 377930,
       "word": "全红婵陈芋汐将上演巅峰对决",
       "onboard_time": 1722945624,
       "rank": 35,
@@ -1177,14 +1193,6 @@
       "onboard_time": 1722945086,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 423116,
-      "num": 272784,
-      "word": "全红婵陈芋汐单人10米台决赛",
-      "onboard_time": 1722946585,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 422601,
@@ -1275,6 +1283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 403255,
+      "num": 1054461,
+      "word": "女子10米跳台跳水决赛",
+      "onboard_time": 1722947485,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 400253,
       "num": 400253,
       "word": "韩素希剪头发了",
@@ -1328,6 +1344,14 @@
       "word": "射击队训练专门请人嗷嗷大叫",
       "onboard_time": 1722908482,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 376631,
+      "num": 906715,
+      "word": "张博恒也告上状了",
+      "onboard_time": 1722947724,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -1427,14 +1451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 351294,
-      "num": 1054461,
-      "word": "女子10米跳台跳水决赛",
-      "onboard_time": 1722947485,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 346522,
       "num": 346522,
       "word": "张博恒体操男子单杠铜牌",
@@ -1451,6 +1467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 340356,
+      "num": 385293,
+      "word": "惠若琪 我们爱你中国女排",
+      "onboard_time": 1722946704,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 340111,
       "num": 811413,
       "word": "丁程鑫素颜开车",
@@ -1465,14 +1489,6 @@
       "onboard_time": 1722941124,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 329912,
-      "num": 603187,
-      "word": "张杰鸟巢嘉宾凡希亚",
-      "onboard_time": 1722947363,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 329535,
@@ -1571,6 +1587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 313715,
+      "num": 313715,
+      "word": "朱婷是国际排坛MVP之王",
+      "onboard_time": 1722948685,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 313647,
       "num": 313647,
       "word": "乒联世界排名更新王楚钦孙颖莎第1",
@@ -1657,6 +1681,14 @@
       "onboard_time": 1722935727,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 301615,
+      "num": 383024,
+      "word": "猫 没礼貌",
+      "onboard_time": 1722947125,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 296155,
@@ -1803,6 +1835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 275836,
+      "num": 889431,
+      "word": "孟加拉国总统宣布解散国民议会",
+      "onboard_time": 1722943163,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 274900,
       "num": 477359,
       "word": "田小娟回怼CUBE",
@@ -1841,6 +1881,14 @@
       "onboard_time": 1722916463,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 267760,
+      "num": 267760,
+      "word": "李晨邀请梁王一起撕名牌",
+      "onboard_time": 1722945205,
+      "rank": 47,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 266075,
@@ -1931,28 +1979,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 250402,
-      "num": 889431,
-      "word": "孟加拉国总统宣布解散国民议会",
-      "onboard_time": 1722943163,
-      "rank": 12,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 250200,
       "num": 386313,
       "word": "威神V上海演唱会抢票",
       "onboard_time": 1722914002,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 249490,
-      "num": 249490,
-      "word": "猫 没礼貌",
-      "onboard_time": 1722947125,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 249423,
@@ -2041,14 +2073,6 @@
       "onboard_time": 1722940225,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 242089,
-      "num": 268521,
-      "word": "惠若琪 我们爱你中国女排",
-      "onboard_time": 1722946704,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 241365,
@@ -2153,14 +2177,6 @@
       "onboard_time": 1722942982,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 222017,
-      "num": 222017,
-      "word": "李晨邀请梁王一起撕名牌",
-      "onboard_time": 1722945205,
-      "rank": 47,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 221716,
@@ -2297,6 +2313,22 @@
       "onboard_time": 1722926606,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 205078,
+      "num": 267592,
+      "word": "一场中国朝鲜族婚宴",
+      "onboard_time": 1722947965,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 204567,
+      "num": 267268,
+      "word": "周深杭州抢票",
+      "onboard_time": 1722948024,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 203421,
@@ -2803,6 +2835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108589,
+      "num": 979776,
+      "word": "陆毅胡彦斌现场为全红婵陈芋汐加油",
+      "onboard_time": 1722947965,
+      "rank": 7,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 106947,
       "num": 273951,
       "word": "张杰出道二十周年",
@@ -2897,6 +2937,14 @@
       "onboard_time": 1722933988,
       "rank": 25,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 82420,
+      "num": 754703,
+      "word": "中国00后要强又真强",
+      "onboard_time": 1722947604,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 82200,
@@ -3179,14 +3227,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 42558,
-      "num": 264486,
-      "word": "中国00后要强又真强",
-      "onboard_time": 1722947604,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 41717,
       "num": 671241,
       "word": "英侠展国色",
@@ -3328,14 +3368,6 @@
       "word": "谢智宇无缘400米栏半决赛",
       "onboard_time": 1722940524,
       "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 13257,
-      "num": 906715,
-      "word": "张博恒也告上状了",
-      "onboard_time": 1722947724,
-      "rank": 14,
       "category": "体育"
     }
   ],
