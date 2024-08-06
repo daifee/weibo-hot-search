@@ -1,0 +1,410 @@
+{
+  "runTime": 1722925767942,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2696081,
+        "num": 2696081,
+        "word": "张昊唯回应",
+        "onboard_time": 1722921148,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2005152,
+        "num": 2005152,
+        "word": "张本智和紧急撤回一个口误",
+        "onboard_time": 1722920248,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30413,
+        "num": 1583918,
+        "word": "40秒穿越40年致敬传承",
+        "onboard_time": 1722906623,
+        "rank": 2,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 1541003,
+        "num": 1541003,
+        "word": "陈若琳包里塞着全红婵的乌龟",
+        "onboard_time": 1722920310,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1378112,
+        "num": 1378112,
+        "word": "孙颖莎陪练王添艺颜值火出圈",
+        "onboard_time": 1722923006,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1482722,
+        "num": 1376600,
+        "word": "张昊唯 我现在感觉到处都是录音机",
+        "onboard_time": 1722922586,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1291701,
+        "num": 1291701,
+        "word": "李纯公开与马頔恋情",
+        "onboard_time": 1722925105,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1278207,
+        "num": 1278207,
+        "word": "乌克兰选手赛场睡觉醒来夺冠",
+        "onboard_time": 1722919710,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42634,
+        "num": 1179197,
+        "word": "以色列防长要求准备好快速转向进攻",
+        "onboard_time": 1722924025,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 466359,
+        "num": 1148011,
+        "word": "科目二考试自动挡车辆竟然中途熄火",
+        "onboard_time": 1722921626,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1592198,
+        "num": 1143668,
+        "word": "戴向宇上线未回应",
+        "onboard_time": 1722925105,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1139140,
+        "num": 1139140,
+        "word": "徐卓一 705分学体育的马继业",
+        "onboard_time": 1722920488,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 846755,
+        "num": 846755,
+        "word": "张博恒给妈妈发信息说我太累了",
+        "onboard_time": 1722918689,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 783953,
+        "num": 783953,
+        "word": "美国一奥运选手兴奋剂阳性",
+        "onboard_time": 1722916163,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 662792,
+        "num": 662792,
+        "word": "王楚钦交替使用两副球拍训练",
+        "onboard_time": 1722919048,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 817967,
+        "num": 653312,
+        "word": "戴向宇从来不主动加人联系方式",
+        "onboard_time": 1722923664,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 637088,
+        "num": 637088,
+        "word": "洗衣机用了2年没放过洗衣液",
+        "onboard_time": 1722923905,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595092,
+        "num": 595092,
+        "word": "孙颖莎世排第一9000分",
+        "onboard_time": 1722907942,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 567203,
+        "num": 567203,
+        "word": "潘展乐说这段采访先别播",
+        "onboard_time": 1722905604,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34553,
+        "num": 525342,
+        "word": "电影异人之下主创来重庆了",
+        "onboard_time": 1722924565,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 519539,
+        "num": 519539,
+        "word": "王昶在台湾是真的火",
+        "onboard_time": 1722913823,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 469052,
+        "num": 469052,
+        "word": "这块金牌肯定是中国的",
+        "onboard_time": 1722919650,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 421649,
+        "num": 421649,
+        "word": "一个节省习惯导致男子肾衰竭",
+        "onboard_time": 1722912802,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370031,
+        "num": 370031,
+        "word": "韩素希剪头发了",
+        "onboard_time": 1722925105,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355952,
+        "num": 355952,
+        "word": "张本智和的含金量一下就起来了",
+        "onboard_time": 1722905845,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355243,
+        "num": 355243,
+        "word": "湖南航空空姐上班不再穿高跟鞋",
+        "onboard_time": 1722911361,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306845,
+        "num": 306845,
+        "word": "TFBOYS拍了西安行物料",
+        "onboard_time": 1722922046,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 306326,
+        "num": 306326,
+        "word": "陈妍希一天只吃一顿饭",
+        "onboard_time": 1722919890,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302929,
+        "num": 302929,
+        "word": "男子强奸未遂监视居住时杀害19岁堂妹",
+        "onboard_time": 1722902661,
+        "rank": 28,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 288260,
+        "num": 288260,
+        "word": "美体操名将拜尔斯晒与治疗犬合影",
+        "onboard_time": 1722920849,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 294617,
+        "num": 285088,
+        "word": "拒绝动物表演 但动物非要表演",
+        "onboard_time": 1722925225,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 271972,
+        "num": 271972,
+        "word": "月薪过万员工套现客户8000获刑",
+        "onboard_time": 1722919710,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256994,
+        "num": 256994,
+        "word": "张博恒哽咽称人生80%是心态",
+        "onboard_time": 1722924146,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251095,
+        "num": 251095,
+        "word": "湖北警方回应郑钦文到底是哪里人",
+        "onboard_time": 1722923066,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245982,
+        "num": 245982,
+        "word": "谢娜看求婚张杰看谢娜",
+        "onboard_time": 1722924625,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 245482,
+        "num": 245482,
+        "word": "男子干外卖偷外卖干快递偷快递",
+        "onboard_time": 1722922285,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236312,
+        "num": 236312,
+        "word": "李纯加盟我家那闺女",
+        "onboard_time": 1722924985,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233310,
+        "num": 233310,
+        "word": "TFBOYS出道十一周年",
+        "onboard_time": 1722874701,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 231594,
+        "num": 231594,
+        "word": "这4个时刻洗澡是要命澡",
+        "onboard_time": 1722922527,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 227642,
+        "num": 227642,
+        "word": "全场唯一进入赛场且有大肚腩的人",
+        "onboard_time": 1722924985,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219105,
+        "num": 219105,
+        "word": "王曼昱把埃及选手打生气了",
+        "onboard_time": 1722910222,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210026,
+        "num": 210026,
+        "word": "孙颖莎在困境中一次次站出来",
+        "onboard_time": 1722919769,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209264,
+        "num": 209264,
+        "word": "中国女子拳击6人锁定5枚奖牌",
+        "onboard_time": 1722916704,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31234,
+        "num": 200354,
+        "word": "澳大利亚男子被鳄鱼咬住拖走后失踪",
+        "onboard_time": 1722924926,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198639,
+        "num": 198639,
+        "word": "色情擦边动漫及周边流向未成年人",
+        "onboard_time": 1722915262,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189735,
+        "num": 189735,
+        "word": "白蛇变巨蟒10秒硬控",
+        "onboard_time": 1722925525,
+        "rank": 45,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 186328,
+        "num": 186328,
+        "word": "潘展乐 傲得我很爽",
+        "onboard_time": 1722922825,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180575,
+        "num": 180575,
+        "word": "种地吧第二季收官战报",
+        "onboard_time": 1722911542,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179287,
+        "num": 179287,
+        "word": "网球运动员进世界前100才能养活自己",
+        "onboard_time": 1722924985,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167760,
+        "num": 167760,
+        "word": "樊振东启蒙教练评价樊振东",
+        "onboard_time": 1722922406,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革为人民#"
+    }
+  }
+}
