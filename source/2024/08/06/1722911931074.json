@@ -1,0 +1,410 @@
+{
+  "runTime": 1722911931074,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2801153,
+        "num": 2801153,
+        "word": "孙颖莎世排第一9000分",
+        "onboard_time": 1722907942,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2655457,
+        "num": 2655457,
+        "word": "潘展乐说这段采访先别播",
+        "onboard_time": 1722905604,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19650,
+        "num": 1800298,
+        "word": "2024电影票房破300亿",
+        "onboard_time": 1722866368,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1774940,
+        "num": 1774940,
+        "word": "张本智和的含金量一下就起来了",
+        "onboard_time": 1722905845,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1745541,
+        "num": 1745541,
+        "word": "男子强奸未遂监视居住时杀害19岁堂妹",
+        "onboard_time": 1722902661,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1227447,
+        "num": 1227447,
+        "word": "央视曝光一口价黄金饰品套路多",
+        "onboard_time": 1722908602,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1170340,
+        "num": 1170340,
+        "word": "王曼昱把埃及选手打生气了",
+        "onboard_time": 1722910222,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1086303,
+        "num": 1086303,
+        "word": "鹿晗直播",
+        "onboard_time": 1722907701,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 749239,
+        "num": 1019490,
+        "word": "TFBOYS出道十一周年",
+        "onboard_time": 1722874701,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96674,
+        "num": 998812,
+        "word": "一企业开除员工称法律无所谓",
+        "onboard_time": 1722910822,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1113133,
+        "num": 993760,
+        "word": "樊振东世排第二5523分",
+        "onboard_time": 1722905304,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 987440,
+        "num": 987440,
+        "word": "男子每天久坐超6小时查出肠癌",
+        "onboard_time": 1722901401,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 840755,
+        "num": 840755,
+        "word": "张雨霏晒1银5铜告别巴黎奥运",
+        "onboard_time": 1722906024,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 805345,
+        "num": 805345,
+        "word": "四川俩姐弟失踪17天后发现弟弟遗体",
+        "onboard_time": 1722902000,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69175,
+        "num": 691867,
+        "word": "河南一公司通报总经理口出狂言",
+        "onboard_time": 1722910822,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 627475,
+        "num": 627475,
+        "word": "唐嫣改代表作",
+        "onboard_time": 1722910942,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 581329,
+        "num": 581329,
+        "word": "教练去世徐嘉余独自训练8个月",
+        "onboard_time": 1722879915,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 411578,
+        "num": 576430,
+        "word": "张译给张艺谋介绍殷桃",
+        "onboard_time": 1722905063,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 357422,
+        "num": 573011,
+        "word": "王俊凯王源易烊千玺庆祝11周年",
+        "onboard_time": 1722875182,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34866,
+        "num": 572150,
+        "word": "英侠展国色",
+        "onboard_time": 1722909743,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 571913,
+        "num": 571913,
+        "word": "郑钦文无缘闭幕式旗手",
+        "onboard_time": 1722878835,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 567316,
+        "num": 567316,
+        "word": "孙颖莎说对手的五环项链好看",
+        "onboard_time": 1722900979,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 517782,
+        "num": 517782,
+        "word": "被陈芋汐出场硬控",
+        "onboard_time": 1722903863,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 510142,
+        "num": 510142,
+        "word": "潘展乐 吃不到的生日蛋糕",
+        "onboard_time": 1722905664,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356664,
+        "num": 356664,
+        "word": "射击队训练专门请人嗷嗷大叫",
+        "onboard_time": 1722908482,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47887,
+        "num": 312301,
+        "word": "又一次被中国红感动",
+        "onboard_time": 1722907462,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307499,
+        "num": 307499,
+        "word": "中国游泳队已回国",
+        "onboard_time": 1722901460,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198792,
+        "num": 299802,
+        "word": "种地吧第二季收官战报",
+        "onboard_time": 1722911542,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182813,
+        "num": 294791,
+        "word": "请把张云龙焊死在姐弟恋赛道里",
+        "onboard_time": 1722902603,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174113,
+        "num": 292681,
+        "word": "杨志刚在看唐诡3的剧本了",
+        "onboard_time": 1722877997,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292437,
+        "num": 292437,
+        "word": "全红婵陈芋汐10米台晋级决赛",
+        "onboard_time": 1722869129,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283854,
+        "num": 283854,
+        "word": "张雨霏谈游泳队员名字都和水有关",
+        "onboard_time": 1722908482,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275257,
+        "num": 275257,
+        "word": "雷军称倒霉的地方就是老跟苹果华为比",
+        "onboard_time": 1722910641,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 211180,
+        "num": 275149,
+        "word": "鹿晗 微醺",
+        "onboard_time": 1722911782,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275126,
+        "num": 275126,
+        "word": "潘展乐学霸控分战术",
+        "onboard_time": 1722905963,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265738,
+        "num": 265738,
+        "word": "潘展乐每天两眼一睁就是告状",
+        "onboard_time": 1722907701,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249852,
+        "num": 249852,
+        "word": "日本对华海鲜出口断崖式下跌",
+        "onboard_time": 1722908902,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 243775,
+        "num": 243775,
+        "word": "狗狗走丢三年后被认出",
+        "onboard_time": 1722909383,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241286,
+        "num": 241286,
+        "word": "波波维奇 厌世脸天才",
+        "onboard_time": 1722904823,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240990,
+        "num": 240990,
+        "word": "孙颖莎说团体第一场发挥正常",
+        "onboard_time": 1722899839,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239405,
+        "num": 239405,
+        "word": "安洗莹炮轰韩国羽协",
+        "onboard_time": 1722884172,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229855,
+        "num": 229855,
+        "word": "平价奶茶正成为年轻人的新宠",
+        "onboard_time": 1722909322,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 219401,
+        "num": 219401,
+        "word": "因为这是女单",
+        "onboard_time": 1722909922,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211315,
+        "num": 211315,
+        "word": "潘展乐孙杨没有微信",
+        "onboard_time": 1722874522,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211239,
+        "num": 211239,
+        "word": "潘展乐 神的孩子在采访",
+        "onboard_time": 1722868591,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207434,
+        "num": 207434,
+        "word": "日本股市大涨超8%",
+        "onboard_time": 1722908482,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 206420,
+        "num": 206420,
+        "word": "韩国选手安洗莹称对国家队失望",
+        "onboard_time": 1722910641,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200152,
+        "num": 200152,
+        "word": "世界记住了张博恒",
+        "onboard_time": 1722911422,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131405,
+        "num": 197249,
+        "word": "何炅谢娜去张杰演唱会",
+        "onboard_time": 1722901760,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196012,
+        "num": 196012,
+        "word": "巴西乒乓女团有个独臂选手",
+        "onboard_time": 1722910583,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#关键词看改革#"
+    }
+  }
+}
