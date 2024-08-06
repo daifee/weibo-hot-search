@@ -1,6 +1,6 @@
 {
   "startTime": 1722961504263,
-  "endTime": 1722964790703,
+  "endTime": 1722965781911,
   "band_list": [
     {
       "raw_hot": 3693867,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 388302,
-      "num": 165835,
+      "num": 221392,
       "word": "王昶看自己14岁拍的跑男宣传片",
       "onboard_time": 1722960507,
       "rank": 21,
@@ -207,6 +207,14 @@
       "num": 214522,
       "word": "陈芋汐的手指上都贴了膏药",
       "onboard_time": 1722955293,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 374510,
+      "num": 223036,
+      "word": "曹利国摔跤决赛",
+      "onboard_time": 1722964337,
       "rank": 36,
       "category": "体育"
     },
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 280250,
-      "num": 212849,
+      "num": 220860,
       "word": "全红婵长大了也有压力了",
       "onboard_time": 1722959905,
       "rank": 37,
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 248575,
-      "num": 214934,
+      "num": 448104,
       "word": "正新鸡排店员打包外卖订单留下几块",
       "onboard_time": 1722946224,
       "rank": 31,
@@ -305,6 +313,14 @@
       "onboard_time": 1722957566,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 239320,
+      "num": 581734,
+      "word": "刘昊然说脸红了没事别紫了就行",
+      "onboard_time": 1722963200,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 235972,
@@ -339,28 +355,12 @@
       "category": "综艺,体育"
     },
     {
-      "raw_hot": 211316,
-      "num": 581734,
-      "word": "刘昊然说脸红了没事别紫了就行",
-      "onboard_time": 1722963200,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 209550,
       "num": 211330,
       "word": "李纯公开与马頔恋情",
       "onboard_time": 1722925105,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 209219,
-      "num": 123471,
-      "word": "曹利国摔跤决赛",
-      "onboard_time": 1722964337,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 208236,
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 204399,
-      "num": 216864,
+      "num": 222226,
       "word": "张杰鸟巢嘉宾凡希亚",
       "onboard_time": 1722947363,
       "rank": 44,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 202124,
-      "num": 202124,
+      "num": 223159,
       "word": "立秋",
       "onboard_time": 1722964337,
       "rank": 14,
@@ -419,8 +419,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168763,
-      "num": 122426,
+      "raw_hot": 175950,
+      "num": 175950,
       "word": "广州塔再次为全红婵亮灯打call",
       "onboard_time": 1722963499,
       "rank": 38,
@@ -428,7 +428,7 @@
     },
     {
       "raw_hot": 168339,
-      "num": 121839,
+      "num": 130009,
       "word": "陈芋汐也是天才少女",
       "onboard_time": 1722963918,
       "rank": 39,
@@ -451,12 +451,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142098,
+      "num": 142098,
+      "word": "奥运会摔跤",
+      "onboard_time": 1722965117,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141038,
-      "num": 187703,
+      "num": 222468,
       "word": "张进 化妆技术",
       "onboard_time": 1722960507,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135195,
+      "num": 222620,
+      "word": "岳丽娜 唐诡会拍100部",
+      "onboard_time": 1722964756,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 129870,
@@ -467,12 +483,20 @@
       "category": "综艺,体育"
     },
     {
-      "raw_hot": 89650,
-      "num": 115767,
-      "word": "岳丽娜 唐诡会拍100部",
-      "onboard_time": 1722964756,
-      "rank": 46,
-      "category": "剧集"
+      "raw_hot": 117239,
+      "num": 117239,
+      "word": "美国女排晋级四强",
+      "onboard_time": 1722965117,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 116864,
+      "num": 116864,
+      "word": "王楚钦回应球拍事件",
+      "onboard_time": 1722941304,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 89191,
@@ -481,6 +505,14 @@
       "onboard_time": 1722943163,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 59727,
+      "num": 109037,
+      "word": "戴向宇发律师函",
+      "onboard_time": 1722938967,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 48952,
