@@ -1,0 +1,410 @@
+{
+  "runTime": 1722936887148,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9833028,
+        "num": 9833028,
+        "word": "中国女排vs土耳其女排",
+        "onboard_time": 1722926545,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8809025,
+        "num": 9393375,
+        "word": "中国女排止步8强",
+        "onboard_time": 1722936271,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1412585,
+        "num": 4362547,
+        "word": "李纯公开与马頔恋情",
+        "onboard_time": 1722925105,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 722355,
+        "num": 4315707,
+        "word": "戴向宇方声明",
+        "onboard_time": 1722928346,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 4274063,
+        "num": 4274063,
+        "word": "中国女排2比3土耳其",
+        "onboard_time": 1722936392,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24573,
+        "num": 4113653,
+        "word": "国乒男团进八强",
+        "onboard_time": 1722936810,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95601,
+        "num": 4050461,
+        "word": "朱婷告别奥运",
+        "onboard_time": 1722936392,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8087798,
+        "num": 3746806,
+        "word": "马龙王楚钦3比0印度组合",
+        "onboard_time": 1722933093,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265619,
+        "num": 3587223,
+        "word": "上海野生动物园袋鼠打人",
+        "onboard_time": 1722934348,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134560,
+        "num": 3358639,
+        "word": "警方介入调查女子小区放生多盒蟑螂",
+        "onboard_time": 1722936632,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6063667,
+        "num": 3159975,
+        "word": "国家体育总局对袁某某开始调查",
+        "onboard_time": 1722928346,
+        "rank": 10,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 3111381,
+        "num": 3111381,
+        "word": "樊振东一单",
+        "onboard_time": 1722933927,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2758691,
+        "num": 2758691,
+        "word": "张继科回应开课教乒乓",
+        "onboard_time": 1722932126,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2572350,
+        "num": 2572350,
+        "word": "瑞典女记者被处理",
+        "onboard_time": 1722929845,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 673701,
+        "num": 2501061,
+        "word": "戴向宇上线未回应",
+        "onboard_time": 1722925105,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 604135,
+        "num": 2374683,
+        "word": "张昊唯 我现在感觉到处都是录音机",
+        "onboard_time": 1722922586,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37341,
+        "num": 2174900,
+        "word": "享界S9零气味健康座舱",
+        "onboard_time": 1722934648,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 55575,
+        "num": 2071900,
+        "word": "华为MatePadAir有AI更快了",
+        "onboard_time": 1722934407,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 578131,
+        "num": 1850589,
+        "word": "庆余年3",
+        "onboard_time": 1722927504,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 406705,
+        "num": 1575829,
+        "word": "赵露思妹妹头造型路透",
+        "onboard_time": 1722935908,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1573620,
+        "num": 1573620,
+        "word": "这一球真脏啊",
+        "onboard_time": 1722927025,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1304255,
+        "num": 1304255,
+        "word": "国乒男团vs印度",
+        "onboard_time": 1722929666,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1049924,
+        "num": 1049924,
+        "word": "中国女排决胜局",
+        "onboard_time": 1722936027,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 906214,
+        "num": 906214,
+        "word": "马龙 当打之年",
+        "onboard_time": 1722934227,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38615,
+        "num": 795424,
+        "word": "华为发布双层OLED云晰柔光屏平板",
+        "onboard_time": 1722935248,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 792636,
+        "num": 792636,
+        "word": "为什么不上张常宁",
+        "onboard_time": 1722932368,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26189,
+        "num": 713450,
+        "word": "中国反兴奋剂中心斥USADA双重标准",
+        "onboard_time": 1722914662,
+        "rank": 26,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 696139,
+        "num": 696139,
+        "word": "土耳其女排 4号",
+        "onboard_time": 1722931108,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 435506,
+        "num": 673750,
+        "word": "王冰冰为选邹市明拒绝任鲁豫",
+        "onboard_time": 1722933748,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348745,
+        "num": 666397,
+        "word": "张昊唯回应",
+        "onboard_time": 1722921148,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 662349,
+        "num": 662349,
+        "word": "樊振东3比1阿昌塔",
+        "onboard_time": 1722935428,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 655219,
+        "num": 655219,
+        "word": "王楚钦蓝发带",
+        "onboard_time": 1722935428,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72546,
+        "num": 622637,
+        "word": "坐公交环游世界的年轻人",
+        "onboard_time": 1722934829,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 621397,
+        "num": 621397,
+        "word": "赵立坚",
+        "onboard_time": 1722925766,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 599441,
+        "num": 599441,
+        "word": "马龙状态",
+        "onboard_time": 1722933868,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 538012,
+        "num": 538012,
+        "word": "女排裁判",
+        "onboard_time": 1722936750,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 506559,
+        "num": 506559,
+        "word": "父亲醉酒欲摔1岁宝宝被制服",
+        "onboard_time": 1722933028,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488437,
+        "num": 488437,
+        "word": "终于知道iPad该什么人用了",
+        "onboard_time": 1722934648,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 481507,
+        "num": 481507,
+        "word": "蔡斌 松弛",
+        "onboard_time": 1722935968,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 451458,
+        "num": 451458,
+        "word": "孙颖莎奥运已打52局",
+        "onboard_time": 1722930627,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 407165,
+        "num": 407165,
+        "word": "王楚钦拿两条毛巾擦汗",
+        "onboard_time": 1722936088,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353436,
+        "num": 353436,
+        "word": "洗衣机用了2年没放过洗衣液",
+        "onboard_time": 1722923905,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345241,
+        "num": 345241,
+        "word": "夏天余额仅剩一天",
+        "onboard_time": 1722926125,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339509,
+        "num": 339509,
+        "word": "孙颖莎陪练王添艺颜值火出圈",
+        "onboard_time": 1722923006,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 328282,
+        "num": 328282,
+        "word": "袁昊然",
+        "onboard_time": 1722929306,
+        "rank": 44,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 321187,
+        "num": 321187,
+        "word": "女排 紧张",
+        "onboard_time": 1722929966,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320085,
+        "num": 320085,
+        "word": "马龙40岁正是闯的年纪",
+        "onboard_time": 1722936208,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317833,
+        "num": 317833,
+        "word": "王楚钦搭档马龙",
+        "onboard_time": 1722936088,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233787,
+        "num": 314764,
+        "word": "田小娟回怼CUBE",
+        "onboard_time": 1722932546,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 314491,
+        "num": 314491,
+        "word": "女排比分",
+        "onboard_time": 1722930025,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持以文塑旅以旅彰文#"
+    }
+  }
+}
