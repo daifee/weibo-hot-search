@@ -1,0 +1,410 @@
+{
+  "runTime": 1722975548853,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 260844,
+        "num": 260844,
+        "word": "法国花游吓一跳",
+        "onboard_time": 1722968774,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207399,
+        "num": 207399,
+        "word": "赵杰链球铜牌",
+        "onboard_time": 1722971652,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8840,
+        "num": 187958,
+        "word": "我国秋粮面积稳中有增",
+        "onboard_time": 1722950969,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177668,
+        "num": 177668,
+        "word": "中国花游队两项都第一",
+        "onboard_time": 1722970992,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165932,
+        "num": 165932,
+        "word": "乒乓女单赛后网民发诋毁信息被刑拘",
+        "onboard_time": 1722955352,
+        "rank": 4,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 161393,
+        "num": 161393,
+        "word": "全红婵打破伏明霞纪录",
+        "onboard_time": 1722959544,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151077,
+        "num": 151077,
+        "word": "中国花游断层第一",
+        "onboard_time": 1722971472,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44702,
+        "num": 145749,
+        "word": "蔡徐坤开庭",
+        "onboard_time": 1722960325,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42603,
+        "num": 135741,
+        "word": "刘昊然说脸红了没事别紫了就行",
+        "onboard_time": 1722963200,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16443,
+        "num": 129380,
+        "word": "中坦参演部队中军帐内练指挥",
+        "onboard_time": 1722973632,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 196411,
+        "num": 122611,
+        "word": "全红婵大哥回应直播带货引争议",
+        "onboard_time": 1722968234,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120406,
+        "num": 120406,
+        "word": "全红婵陈芋汐抱抱",
+        "onboard_time": 1722953865,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96697,
+        "num": 96697,
+        "word": "全红婵金牌",
+        "onboard_time": 1722953493,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58753,
+        "num": 58753,
+        "word": "熊猫基地通报女子偷带宠物入园",
+        "onboard_time": 1722968953,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58237,
+        "num": 58237,
+        "word": "唐尚珺说很大概率读大学",
+        "onboard_time": 1722970812,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 91867,
+        "num": 58041,
+        "word": "全红婵再现10101010101010",
+        "onboard_time": 1722950366,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34701,
+        "num": 57915,
+        "word": "岳丽娜 唐诡会拍100部",
+        "onboard_time": 1722964756,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32055,
+        "num": 57797,
+        "word": "陆虎谈不参加披荆斩棘的原因",
+        "onboard_time": 1722955532,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30056,
+        "num": 57625,
+        "word": "唐嫣吧唧痛耳",
+        "onboard_time": 1722959066,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28984,
+        "num": 57318,
+        "word": "张进 化妆技术",
+        "onboard_time": 1722960507,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90202,
+        "num": 57073,
+        "word": "孟令哲摔跤铜牌",
+        "onboard_time": 1722969973,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214596,
+        "num": 56933,
+        "word": "陈芋汐在采访时哭了",
+        "onboard_time": 1722958286,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210947,
+        "num": 56760,
+        "word": "全红婵失误",
+        "onboard_time": 1722953687,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84355,
+        "num": 56562,
+        "word": "曹利国摔跤银牌",
+        "onboard_time": 1722967933,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77912,
+        "num": 56249,
+        "word": "全红婵第一轮满分",
+        "onboard_time": 1722950248,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73581,
+        "num": 56050,
+        "word": "陈紫函 我老公终于红了",
+        "onboard_time": 1722944604,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70033,
+        "num": 55863,
+        "word": "陈芋汐银牌",
+        "onboard_time": 1722953687,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68403,
+        "num": 55736,
+        "word": "王楚钦3比0塔卡",
+        "onboard_time": 1722937768,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62463,
+        "num": 55491,
+        "word": "全红婵不想学拿捏英语",
+        "onboard_time": 1722966734,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31256,
+        "num": 55273,
+        "word": "官方认证鞠婧祎杂志销量",
+        "onboard_time": 1722969793,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58636,
+        "num": 55099,
+        "word": "张家齐 惋惜",
+        "onboard_time": 1722958286,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54971,
+        "num": 54971,
+        "word": "赵杰女子链球决赛",
+        "onboard_time": 1722969793,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54732,
+        "num": 54732,
+        "word": "立秋",
+        "onboard_time": 1722964337,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 53893,
+        "num": 53893,
+        "word": "女子拳击",
+        "onboard_time": 1722973992,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40052,
+        "num": 40052,
+        "word": "贺某某",
+        "onboard_time": 1722957027,
+        "rank": 34,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 49729,
+        "num": 40005,
+        "word": "马龙王楚钦3比0印度组合",
+        "onboard_time": 1722933093,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49249,
+        "num": 39744,
+        "word": "男子跳远决赛",
+        "onboard_time": 1722973332,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49080,
+        "num": 39591,
+        "word": "花样游泳",
+        "onboard_time": 1722966375,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47115,
+        "num": 39458,
+        "word": "陈芋汐教练",
+        "onboard_time": 1722955173,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46238,
+        "num": 39335,
+        "word": "陈若琳教练",
+        "onboard_time": 1722954101,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42880,
+        "num": 39021,
+        "word": "奥运会摔跤",
+        "onboard_time": 1722965117,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40928,
+        "num": 38875,
+        "word": "巴黎奥运女子链球决赛",
+        "onboard_time": 1722969372,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40910,
+        "num": 38670,
+        "word": "张博恒也告上状了",
+        "onboard_time": 1722947724,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40802,
+        "num": 38640,
+        "word": "中国女排止步8强",
+        "onboard_time": 1722936271,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38468,
+        "num": 38468,
+        "word": "陈芋汐207C跳出89.10分",
+        "onboard_time": 1722975312,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33114,
+        "num": 33114,
+        "word": "国家体育总局对袁某某开始调查",
+        "onboard_time": 1722928346,
+        "rank": 45,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 31344,
+        "num": 33111,
+        "word": "李纯公开与马頔恋情",
+        "onboard_time": 1722925105,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30728,
+        "num": 33110,
+        "word": "警方通报一网民诋毁奥运会运动员",
+        "onboard_time": 1722956070,
+        "rank": 47,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 30598,
+        "num": 33107,
+        "word": "深圳八卦岭房价6年大涨大跌",
+        "onboard_time": 1722971233,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28555,
+        "num": 33105,
+        "word": "当地检察院回应魏新河被批捕",
+        "onboard_time": 1722966256,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#持续加强文化和自然遗产传承#"
+    }
+  }
+}

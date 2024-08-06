@@ -1,6 +1,6 @@
 {
   "startTime": 1722961504263,
-  "endTime": 1722972906528,
+  "endTime": 1722975548853,
   "band_list": [
     {
       "raw_hot": 3693867,
@@ -524,7 +524,7 @@
     },
     {
       "raw_hot": 154870,
-      "num": 118689,
+      "num": 151077,
       "word": "中国花游断层第一",
       "onboard_time": 1722971472,
       "rank": 28,
@@ -619,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58237,
+      "num": 214266,
+      "word": "唐尚珺说很大概率读大学",
+      "onboard_time": 1722970812,
+      "rank": 22,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 57751,
       "num": 116399,
       "word": "官方认证鞠婧祎杂志销量",
@@ -627,11 +635,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53893,
+      "num": 53893,
+      "word": "女子拳击",
+      "onboard_time": 1722973992,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51424,
       "num": 51424,
       "word": "中国女排止步8强",
       "onboard_time": 1722936271,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 49249,
+      "num": 39744,
+      "word": "男子跳远决赛",
+      "onboard_time": 1722973332,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -649,6 +673,14 @@
       "onboard_time": 1722966256,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38468,
+      "num": 38468,
+      "word": "陈芋汐207C跳出89.10分",
+      "onboard_time": 1722975312,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 35913,
@@ -675,20 +707,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 29863,
-      "num": 214266,
-      "word": "唐尚珺说很大概率读大学",
-      "onboard_time": 1722970812,
-      "rank": 22,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 17877,
+      "raw_hot": 30598,
       "num": 179019,
       "word": "深圳八卦岭房价6年大涨大跌",
       "onboard_time": 1722971233,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16443,
+      "num": 129380,
+      "word": "中坦参演部队中军帐内练指挥",
+      "onboard_time": 1722973632,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 8934,
