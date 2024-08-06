@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1722914554409,
+  "endTime": 1722915401966,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -3099,6 +3099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1635614,
+      "num": 1635614,
+      "word": "韩国选手 不用服兵役喽",
+      "onboard_time": 1722912743,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1632091,
       "num": 1632091,
       "word": "潘展乐凭什么打破世界纪录夺得冠军",
@@ -4363,6 +4371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1132414,
+      "num": 1132414,
+      "word": "湖南航空空姐上班不再穿高跟鞋",
+      "onboard_time": 1722911361,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1118747,
       "num": 1118747,
       "word": "中国游泳队已回国",
@@ -5340,7 +5356,7 @@
     },
     {
       "raw_hot": 845946,
-      "num": 845946,
+      "num": 1433150,
       "word": "唐嫣改代表作",
       "onboard_time": 1722910942,
       "rank": 15,
@@ -5963,6 +5979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 709969,
+      "num": 709969,
+      "word": "一个节省习惯导致男子肾衰竭",
+      "onboard_time": 1722912802,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 708334,
       "num": 696945,
       "word": "石宇奇说没打好很难受",
@@ -6073,14 +6097,6 @@
       "onboard_time": 1722834264,
       "rank": 7,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 693547,
-      "num": 693547,
-      "word": "湖南航空空姐上班不再穿高跟鞋",
-      "onboard_time": 1722911361,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 693405,
@@ -6307,14 +6323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 660484,
-      "num": 660484,
-      "word": "韩国选手 不用服兵役喽",
-      "onboard_time": 1722912743,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 659066,
       "num": 659066,
       "word": "金鹰奖开始投票",
@@ -6457,6 +6465,14 @@
       "onboard_time": 1722795076,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 634690,
+      "num": 634690,
+      "word": "种地吧第二季收官战报",
+      "onboard_time": 1722911542,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 632750,
@@ -6731,6 +6747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 593686,
+      "num": 593686,
+      "word": "因为这是女单",
+      "onboard_time": 1722909922,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 589637,
       "num": 1243427,
       "word": "胡一天录中餐厅手机两天不用充电",
@@ -6833,6 +6857,14 @@
       "onboard_time": 1722459613,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 574444,
+      "num": 574444,
+      "word": "鹿晗 微醺",
+      "onboard_time": 1722911782,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 574277,
@@ -6963,14 +6995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 554963,
-      "num": 556833,
-      "word": "种地吧第二季收官战报",
-      "onboard_time": 1722911542,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 552807,
       "num": 3554007,
       "word": "解放军建军97周年",
@@ -7099,28 +7123,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 535576,
-      "num": 535576,
-      "word": "鹿晗 微醺",
-      "onboard_time": 1722911782,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 534412,
       "num": 534412,
       "word": "奥运00后四帅",
       "onboard_time": 1722501147,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 534196,
-      "num": 534196,
-      "word": "一个节省习惯导致男子肾衰竭",
-      "onboard_time": 1722912802,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 532687,
@@ -7835,6 +7843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 457871,
+      "num": 457871,
+      "word": "王昶在台湾是真的火",
+      "onboard_time": 1722913823,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 457408,
       "num": 478853,
       "word": "汪顺进200米个人混合泳决赛",
@@ -7849,14 +7865,6 @@
       "onboard_time": 1722446720,
       "rank": 14,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 457168,
-      "num": 457168,
-      "word": "因为这是女单",
-      "onboard_time": 1722909922,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 456688,
@@ -8331,20 +8339,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 421139,
+      "num": 421139,
+      "word": "马龙巴黎奥运首秀",
+      "onboard_time": 1722912081,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 420236,
       "num": 576579,
       "word": "剧烈运动跳掉肾结石能有多疼",
       "onboard_time": 1722649883,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 420082,
-      "num": 420082,
-      "word": "马龙巴黎奥运首秀",
-      "onboard_time": 1722912081,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 420036,
@@ -8515,6 +8523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 408723,
+      "num": 408723,
+      "word": "郑钦文樊振东互关",
+      "onboard_time": 1722913583,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 408286,
       "num": 408286,
       "word": "孙颖莎说老天让我再去积累沉淀",
@@ -8529,6 +8545,14 @@
       "onboard_time": 1722741203,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 407907,
+      "num": 407907,
+      "word": "潘展乐吐槽奥运村伙食太差了",
+      "onboard_time": 1722913221,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 407748,
@@ -9363,6 +9387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 359009,
+      "num": 359009,
+      "word": "陈芋汐吃牛角包采访",
+      "onboard_time": 1722914063,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 358967,
       "num": 1138856,
       "word": "仙剑四有效播放量破8亿",
@@ -9924,7 +9956,7 @@
     },
     {
       "raw_hot": 328322,
-      "num": 328322,
+      "num": 570068,
       "word": "一口价金饰克重远低于实际",
       "onboard_time": 1722912201,
       "rank": 35,
@@ -9936,14 +9968,6 @@
       "word": "汪顺小组第三",
       "onboard_time": 1722542414,
       "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 326553,
-      "num": 326553,
-      "word": "潘展乐吐槽奥运村伙食太差了",
-      "onboard_time": 1722913221,
-      "rank": 32,
       "category": "体育"
     },
     {
@@ -10201,6 +10225,14 @@
       "onboard_time": 1722669562,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 313647,
+      "num": 313647,
+      "word": "乒联世界排名更新王楚钦孙颖莎第1",
+      "onboard_time": 1722912982,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 312862,
@@ -10939,20 +10971,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 286195,
+      "num": 286195,
+      "word": "潘展乐回应外公写给自己的诗",
+      "onboard_time": 1722914362,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 286098,
       "num": 1325730,
       "word": "尤长靖减不下肥的原因",
       "onboard_time": 1722590127,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 286073,
-      "num": 286073,
-      "word": "郑钦文樊振东互关",
-      "onboard_time": 1722913583,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 286060,
@@ -11001,6 +11033,14 @@
       "onboard_time": 1722585744,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 284217,
+      "num": 386374,
+      "word": "TFBOYS他们总有两个懂他的人",
+      "onboard_time": 1722914424,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 284127,
@@ -11099,14 +11139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 281016,
-      "num": 281016,
-      "word": "乒联世界排名更新王楚钦孙颖莎第1",
-      "onboard_time": 1722912982,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 280675,
       "num": 238356,
       "word": "郭焱称赞孙颖莎格局大",
@@ -11145,14 +11177,6 @@
       "onboard_time": 1722901760,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 279411,
-      "num": 279411,
-      "word": "陈芋汐吃牛角包采访",
-      "onboard_time": 1722914063,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 279092,
@@ -11539,6 +11563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264458,
+      "num": 264458,
+      "word": "郑钦文夺金后的第一个念头",
+      "onboard_time": 1722915022,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 264186,
       "num": 3402794,
       "word": "中方向德方提出严正交涉",
@@ -11584,14 +11616,6 @@
       "word": "张本智和希望樊振东下一场打得更好",
       "onboard_time": 1722583224,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 263133,
-      "num": 263133,
-      "word": "王昶在台湾是真的火",
-      "onboard_time": 1722913823,
-      "rank": 43,
       "category": "体育"
     },
     {
@@ -11723,6 +11747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258030,
+      "num": 258030,
+      "word": "色情擦边动漫及周边流向未成年人",
+      "onboard_time": 1722915262,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257166,
       "num": 249032,
       "word": "SNH48总选",
@@ -11785,6 +11817,14 @@
       "onboard_time": 1722843144,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 255138,
+      "num": 255138,
+      "word": "勒布伦 你怎么知道我拿了奥运铜牌",
+      "onboard_time": 1722915142,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 254962,
@@ -11883,6 +11923,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 250200,
+      "num": 386313,
+      "word": "威神V上海演唱会抢票",
+      "onboard_time": 1722914002,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 250025,
       "num": 3527787,
       "word": "樊振东天选安踏代言人",
@@ -11955,14 +12003,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 246272,
-      "num": 246272,
-      "word": "潘展乐回应外公写给自己的诗",
-      "onboard_time": 1722914362,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 246232,
       "num": 246232,
       "word": "雅思组合互戴奖牌",
@@ -11979,12 +12019,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245896,
+      "num": 245896,
+      "word": "游泳接力男队5个人4个狮子座",
+      "onboard_time": 1722914783,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 245134,
       "num": 245134,
       "word": "日经指数",
       "onboard_time": 1722837261,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 244742,
+      "num": 244742,
+      "word": "潘展乐头号粉丝",
+      "onboard_time": 1722913761,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 244527,
@@ -12001,14 +12057,6 @@
       "onboard_time": 1722523649,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 244302,
-      "num": 275873,
-      "word": "TFBOYS他们总有两个懂他的人",
-      "onboard_time": 1722914424,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 243724,
@@ -12040,6 +12088,14 @@
       "word": "中国男子蹦床1银1铜",
       "onboard_time": 1722623954,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 241365,
+      "num": 241365,
+      "word": "2024国际乒联第32周排名",
+      "onboard_time": 1722915383,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -12713,14 +12769,6 @@
       "onboard_time": 1722760347,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 213489,
-      "num": 330872,
-      "word": "威神V上海演唱会抢票",
-      "onboard_time": 1722914002,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 213480,
@@ -15379,6 +15427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102110,
+      "num": 695829,
+      "word": "进入名校的小镇青年如何走出自我低估",
+      "onboard_time": 1722913221,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101468,
       "num": 507546,
       "word": "飞行学院毕业生转行开面包车",
@@ -15715,6 +15771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78513,
+      "num": 1431063,
+      "word": "甘肃版聂树斌案",
+      "onboard_time": 1722915083,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78237,
       "num": 840284,
       "word": "孙颖莎王楚钦少年无惧岁月长",
@@ -15793,6 +15857,14 @@
       "onboard_time": 1722769944,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 75385,
+      "num": 657745,
+      "word": "88VIP又发大额消费券了",
+      "onboard_time": 1722913221,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 75277,
@@ -16291,14 +16363,6 @@
       "category": "电影,体育"
     },
     {
-      "raw_hot": 52087,
-      "num": 695829,
-      "word": "进入名校的小镇青年如何走出自我低估",
-      "onboard_time": 1722913221,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 51901,
       "num": 5674782,
       "word": "骏马奔腾",
@@ -16337,14 +16401,6 @@
       "onboard_time": 1722571224,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48929,
-      "num": 592811,
-      "word": "88VIP又发大额消费券了",
-      "onboard_time": 1722913221,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 48915,
@@ -16843,6 +16899,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 32050,
+      "num": 248798,
+      "word": "用保鲜膜拍照超出片",
+      "onboard_time": 1722913343,
+      "rank": 45,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 31562,
       "num": 506338,
       "word": "马自达重新定义高价值燃油SUV",
@@ -16889,14 +16953,6 @@
       "onboard_time": 1722838643,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 29981,
-      "num": 248798,
-      "word": "用保鲜膜拍照超出片",
-      "onboard_time": 1722913343,
-      "rank": 45,
-      "category": "休闲"
     },
     {
       "raw_hot": 29856,
