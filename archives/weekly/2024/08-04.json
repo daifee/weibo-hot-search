@@ -1,6 +1,6 @@
 {
   "startTime": 1722702313981,
-  "endTime": 1722925767942,
+  "endTime": 1722926531430,
   "band_list": [
     {
       "raw_hot": 35169209,
@@ -441,6 +441,14 @@
       "onboard_time": 1722862587,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3881049,
+      "num": 3881049,
+      "word": "李纯公开与马頔恋情",
+      "onboard_time": 1722925105,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 3824093,
@@ -1075,8 +1083,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2005152,
-      "num": 2005152,
+      "raw_hot": 2006783,
+      "num": 2006783,
       "word": "张本智和紧急撤回一个口误",
       "onboard_time": 1722920248,
       "rank": 30,
@@ -1225,6 +1233,14 @@
       "onboard_time": 1722841103,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1802058,
+      "num": 1143668,
+      "word": "戴向宇上线未回应",
+      "onboard_time": 1722925105,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1796089,
@@ -1379,12 +1395,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1592198,
-      "num": 1143668,
-      "word": "戴向宇上线未回应",
-      "onboard_time": 1722925105,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 1557879,
+      "num": 1557879,
+      "word": "孙颖莎陪练王添艺颜值火出圈",
+      "onboard_time": 1722923006,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1549096,
@@ -1611,14 +1627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1378112,
-      "num": 1378112,
-      "word": "孙颖莎陪练王添艺颜值火出圈",
-      "onboard_time": 1722923006,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1377638,
       "num": 5772398,
       "word": "贾玲 意难平",
@@ -1737,14 +1745,6 @@
       "onboard_time": 1722741023,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1291701,
-      "num": 1291701,
-      "word": "李纯公开与马頔恋情",
-      "onboard_time": 1722925105,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 1278207,
@@ -2025,6 +2025,14 @@
       "onboard_time": 1722766524,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1056311,
+      "num": 653312,
+      "word": "戴向宇从来不主动加人联系方式",
+      "onboard_time": 1722923664,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 1054384,
@@ -2387,6 +2395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 840318,
+      "num": 840318,
+      "word": "洗衣机用了2年没放过洗衣液",
+      "onboard_time": 1722923905,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 825947,
       "num": 1032840,
       "word": "她多无助才用叛逆保护自己",
@@ -2401,14 +2417,6 @@
       "onboard_time": 1722685767,
       "rank": 12,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 817967,
-      "num": 653312,
-      "word": "戴向宇从来不主动加人联系方式",
-      "onboard_time": 1722923664,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 805946,
@@ -2777,14 +2785,6 @@
       "onboard_time": 1722824363,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 637088,
-      "num": 637088,
-      "word": "洗衣机用了2年没放过洗衣液",
-      "onboard_time": 1722923905,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 636470,
@@ -3587,6 +3587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 443501,
+      "num": 443501,
+      "word": "赵立坚",
+      "onboard_time": 1722925766,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 441811,
       "num": 441811,
       "word": "樊振东一段藏了11年的素材",
@@ -3931,6 +3939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 400253,
+      "num": 400253,
+      "word": "韩素希剪头发了",
+      "onboard_time": 1722925105,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 397781,
       "num": 397781,
       "word": "中国第20金",
@@ -4177,14 +4193,6 @@
       "onboard_time": 1722889631,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 370031,
-      "num": 370031,
-      "word": "韩素希剪头发了",
-      "onboard_time": 1722925105,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 369911,
@@ -4555,6 +4563,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 324613,
+      "num": 324613,
+      "word": "拒绝动物表演 但动物非要表演",
+      "onboard_time": 1722925225,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 324426,
       "num": 324426,
       "word": "黑神话悟空完成所有内容开发",
@@ -4883,14 +4899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 294617,
-      "num": 285088,
-      "word": "拒绝动物表演 但动物非要表演",
-      "onboard_time": 1722925225,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 294210,
       "num": 441823,
       "word": "男夹子夺妻子左肩又被捅刀子",
@@ -4977,6 +4985,14 @@
       "onboard_time": 1722920849,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 288216,
+      "num": 288216,
+      "word": "世界之外",
+      "onboard_time": 1722925945,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 286841,
@@ -5411,6 +5427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 259049,
+      "num": 259049,
+      "word": "张博恒哽咽称人生80%是心态",
+      "onboard_time": 1722924146,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 258520,
       "num": 258520,
       "word": "ogg之家",
@@ -5425,14 +5449,6 @@
       "onboard_time": 1722838523,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 256994,
-      "num": 256994,
-      "word": "张博恒哽咽称人生80%是心态",
-      "onboard_time": 1722924146,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 256416,
@@ -5675,6 +5691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 242995,
+      "num": 242995,
+      "word": "白蛇变巨蟒10秒硬控",
+      "onboard_time": 1722925525,
+      "rank": 45,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 241365,
       "num": 241365,
       "word": "2024国际乒联第32周排名",
@@ -5771,20 +5795,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 235335,
+      "num": 235335,
+      "word": "这4个时刻洗澡是要命澡",
+      "onboard_time": 1722922527,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 231815,
       "num": 231815,
       "word": "张雨霏称奖牌太多太沉就不带纪念品了",
       "onboard_time": 1722906263,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 231594,
-      "num": 231594,
-      "word": "这4个时刻洗澡是要命澡",
-      "onboard_time": 1722922527,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 229855,
@@ -6475,6 +6499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197058,
+      "num": 187629,
+      "word": "TFBOYS还有饭",
+      "onboard_time": 1722926005,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196965,
       "num": 829794,
       "word": "黄子弘凡小学的愿望实现了",
@@ -6579,6 +6611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193638,
+      "num": 193638,
+      "word": "夏天余额仅剩一天",
+      "onboard_time": 1722926125,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193399,
       "num": 275649,
       "word": "OMG淘汰",
@@ -6611,6 +6651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191357,
+      "num": 191357,
+      "word": "王军霞说挺住了就是冠军",
+      "onboard_time": 1722926245,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190880,
       "num": 483726,
       "word": "纳斯达克",
@@ -6641,14 +6689,6 @@
       "onboard_time": 1722857427,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189735,
-      "num": 189735,
-      "word": "白蛇变巨蟒10秒硬控",
-      "onboard_time": 1722925525,
-      "rank": 45,
-      "category": "电影,动漫"
     },
     {
       "raw_hot": 189428,
@@ -6739,12 +6779,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187699,
+      "num": 187699,
+      "word": "SEVENTEEN新世巡",
+      "onboard_time": 1722926245,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 187611,
       "num": 517944,
       "word": "刘亦菲光速帮徐海乔录应援视频",
       "onboard_time": 1722691593,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187483,
+      "num": 187483,
+      "word": "一起为中国女排加油",
+      "onboard_time": 1722926426,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 186931,
@@ -6772,7 +6828,7 @@
     },
     {
       "raw_hot": 186323,
-      "num": 1583918,
+      "num": 1951175,
       "word": "40秒穿越40年致敬传承",
       "onboard_time": 1722906623,
       "rank": 47,
@@ -8379,6 +8435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43849,
+      "num": 448527,
+      "word": "纪昱恒你确定不是在going吗",
+      "onboard_time": 1722925825,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 43327,
       "num": 916431,
       "word": "一人一句为国乒女团加油",
@@ -8603,6 +8667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30693,
+      "num": 939656,
+      "word": "中国女排冲击四强",
+      "onboard_time": 1722902963,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30320,
       "num": 350705,
       "word": "樊振东大满贯手绘",
@@ -8707,6 +8779,9 @@
     },
     {
       "word": "#关键词看改革#"
+    },
+    {
+      "word": "#跟着总书记探寻文化根魂#"
     }
   ]
 }
