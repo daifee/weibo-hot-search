@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1722944095311,
+  "endTime": 1722947871758,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -1740,7 +1740,7 @@
     },
     {
       "raw_hot": 2853187,
-      "num": 1469325,
+      "num": 1531986,
       "word": "戴向宇发无犯罪记录证明",
       "onboard_time": 1722941124,
       "rank": 10,
@@ -1816,6 +1816,14 @@
       "word": "王楚钦笑了",
       "onboard_time": 1722570143,
       "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2728808,
+      "num": 2728808,
+      "word": "王楚钦回应球拍事件",
+      "onboard_time": 1722941304,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -3499,11 +3507,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1522261,
+      "num": 1522261,
+      "word": "马龙躲左撇子已经游刃有余",
+      "onboard_time": 1722944483,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1517546,
       "num": 910281,
       "word": "韩国选手错失奥运奖牌仰面哭泣",
       "onboard_time": 1722860609,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1494519,
+      "num": 1494519,
+      "word": "潘展乐告状 汪顺告白",
+      "onboard_time": 1722942324,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -3696,6 +3720,14 @@
       "word": "郑思维杀球好猛",
       "onboard_time": 1722610776,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1433958,
+      "num": 1433958,
+      "word": "樊振东在台上打马龙在台下挥拍",
+      "onboard_time": 1722942144,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -3961,6 +3993,14 @@
       "onboard_time": 1722777771,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1327402,
+      "num": 1327402,
+      "word": "陈紫函 我老公终于红了",
+      "onboard_time": 1722944604,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 1327151,
@@ -4595,14 +4635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1144620,
-      "num": 1027089,
-      "word": "王楚钦回应球拍事件",
-      "onboard_time": 1722941304,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1142221,
       "num": 865430,
       "word": "中国一夜新添1金2银2铜",
@@ -4688,14 +4720,6 @@
       "word": "举头望明月 低头思故乡",
       "onboard_time": 1722550874,
       "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1112318,
-      "num": 887154,
-      "word": "潘展乐告状 汪顺告白",
-      "onboard_time": 1722942324,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -5057,6 +5081,14 @@
       "onboard_time": 1722735923,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1008142,
+      "num": 1008142,
+      "word": "TFBOYS物料",
+      "onboard_time": 1722946404,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 996019,
@@ -5507,11 +5539,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 909228,
+      "num": 909228,
+      "word": "张博恒直播",
+      "onboard_time": 1722944664,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 908702,
       "num": 779133,
       "word": "凡尘组合vs乐蒂组合",
       "onboard_time": 1722580163,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 906688,
+      "num": 906688,
+      "word": "王昶梁伟铿直播",
+      "onboard_time": 1722945144,
+      "rank": 15,
       "category": "体育"
     },
     {
@@ -6104,6 +6152,14 @@
       "word": "孙颖莎与陈梦近期交手16次胜11次",
       "onboard_time": 1722670941,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 756420,
+      "num": 756420,
+      "word": "菲尔普斯称无端指责潘展乐是错误的",
+      "onboard_time": 1722941963,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -6835,14 +6891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 641597,
-      "num": 641597,
-      "word": "樊振东在台上打马龙在台下挥拍",
-      "onboard_time": 1722942144,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 639249,
       "num": 639249,
       "word": "樊振东领奖央视解说词",
@@ -7339,6 +7387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 574337,
+      "num": 574337,
+      "word": "樊振东说今天失误有点多",
+      "onboard_time": 1722947125,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 574277,
       "num": 574277,
       "word": "孙颖莎陈梦再现巅峰对决",
@@ -7659,6 +7715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 527759,
+      "num": 527759,
+      "word": "中国三大球项目已全军覆没",
+      "onboard_time": 1722945024,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 527562,
       "num": 527562,
       "word": "雨果4比1勒布伦",
@@ -7697,6 +7761,14 @@
       "onboard_time": 1722700105,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 522995,
+      "num": 522995,
+      "word": "11岁郑好好巴黎奥运首秀",
+      "onboard_time": 1722944244,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 522609,
@@ -7833,14 +7905,6 @@
       "onboard_time": 1722526544,
       "rank": 13,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 512089,
-      "num": 512089,
-      "word": "菲尔普斯称无端指责潘展乐是错误的",
-      "onboard_time": 1722941963,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 511995,
@@ -8347,6 +8411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 468520,
+      "num": 468520,
+      "word": "王楚钦回应晋级8强",
+      "onboard_time": 1722945925,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 466727,
       "num": 2623049,
       "word": "中国反兴奋剂中心斥USADA双重标准",
@@ -8529,6 +8601,14 @@
       "onboard_time": 1722685526,
       "rank": 17,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 455401,
+      "num": 1147748,
+      "word": "正新鸡排店员打包外卖订单留下几块",
+      "onboard_time": 1722946224,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 455054,
@@ -8739,6 +8819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 441157,
+      "num": 281986,
+      "word": "全红婵陈芋汐将上演巅峰对决",
+      "onboard_time": 1722945624,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 440440,
       "num": 440440,
       "word": "全红婵被问三米板练得如何懵了",
@@ -8891,6 +8979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 427418,
+      "num": 906887,
+      "word": "樱桃琥珀",
+      "onboard_time": 1722945086,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 426568,
       "num": 426568,
       "word": "冈慎之助",
@@ -8961,6 +9057,14 @@
       "onboard_time": 1722657142,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 423116,
+      "num": 272784,
+      "word": "全红婵陈芋汐单人10米台决赛",
+      "onboard_time": 1722946585,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 423073,
@@ -10243,6 +10347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 351294,
+      "num": 1054461,
+      "word": "女子10米跳台跳水决赛",
+      "onboard_time": 1722947485,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 351258,
       "num": 333332,
       "word": "张雨霏得牌率高达100%",
@@ -10721,6 +10833,14 @@
       "onboard_time": 1722744444,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 329912,
+      "num": 603187,
+      "word": "张杰鸟巢嘉宾凡希亚",
+      "onboard_time": 1722947363,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 329723,
@@ -11241,6 +11361,14 @@
       "onboard_time": 1722597205,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 305295,
+      "num": 252286,
+      "word": "马龙国宝级正手",
+      "onboard_time": 1722946163,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 305142,
@@ -12899,6 +13027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 250402,
+      "num": 889431,
+      "word": "孟加拉国总统宣布解散国民议会",
+      "onboard_time": 1722943163,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 250360,
       "num": 1045970,
       "word": "英国破产",
@@ -12937,6 +13073,14 @@
       "onboard_time": 1722712934,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 249490,
+      "num": 249490,
+      "word": "猫 没礼貌",
+      "onboard_time": 1722947125,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 249423,
@@ -13091,14 +13235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 243622,
-      "num": 889431,
-      "word": "孟加拉国总统宣布解散国民议会",
-      "onboard_time": 1722943163,
-      "rank": 12,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 243435,
       "num": 243435,
       "word": "冲这点王楚钦一定会东山再起",
@@ -13121,6 +13257,14 @@
       "onboard_time": 1722940225,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242089,
+      "num": 268521,
+      "word": "惠若琪 我们爱你中国女排",
+      "onboard_time": 1722946704,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 241935,
@@ -13577,6 +13721,14 @@
       "onboard_time": 1722662603,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 222017,
+      "num": 222017,
+      "word": "李晨邀请梁王一起撕名牌",
+      "onboard_time": 1722945205,
+      "rank": 47,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 221769,
@@ -18075,6 +18227,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 42558,
+      "num": 264486,
+      "word": "中国00后要强又真强",
+      "onboard_time": 1722947604,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42508,
       "num": 782616,
       "word": "羽毛球女单决赛好焦灼",
@@ -18729,6 +18889,14 @@
       "onboard_time": 1722669921,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13257,
+      "num": 906715,
+      "word": "张博恒也告上状了",
+      "onboard_time": 1722947724,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 12362,
