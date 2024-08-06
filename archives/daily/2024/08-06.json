@@ -1,6 +1,6 @@
 {
   "startTime": 1722875081704,
-  "endTime": 1722936887148,
+  "endTime": 1722939728154,
   "band_list": [
     {
       "raw_hot": 10561457,
@@ -179,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2357066,
+      "num": 2357066,
+      "word": "王楚钦3比0塔卡",
+      "onboard_time": 1722937768,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2219827,
       "num": 2219827,
       "word": "潘展乐 神的孩子在采访",
@@ -307,6 +315,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1480256,
+      "num": 4050461,
+      "word": "朱婷告别奥运",
+      "onboard_time": 1722936392,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1351194,
+      "num": 600157,
+      "word": "惠若琪哽咽",
+      "onboard_time": 1722937351,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1326356,
       "num": 1326356,
       "word": "孙颖莎说对手的五环项链好看",
@@ -379,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1124960,
+      "num": 1124960,
+      "word": "戴向宇发律师函",
+      "onboard_time": 1722938967,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1118747,
       "num": 1118747,
       "word": "中国游泳队已回国",
@@ -392,6 +424,14 @@
       "word": "中国女排1比2土耳其女排",
       "onboard_time": 1722933209,
       "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1109986,
+      "num": 792636,
+      "word": "为什么不上张常宁",
+      "onboard_time": 1722932368,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -443,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1015537,
+      "num": 566939,
+      "word": "许昕说王楚钦状态回来了",
+      "onboard_time": 1722937649,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 987440,
       "num": 987440,
       "word": "男子每天久坐超6小时查出肠癌",
@@ -456,6 +504,14 @@
       "word": "张博恒给妈妈发信息说我太累了",
       "onboard_time": 1722918689,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 977564,
+      "num": 563995,
+      "word": "女排裁判",
+      "onboard_time": 1722936750,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -547,11 +603,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 792636,
-      "num": 792636,
-      "word": "为什么不上张常宁",
-      "onboard_time": 1722932368,
-      "rank": 46,
+      "raw_hot": 801851,
+      "num": 539931,
+      "word": "张继科已成立个人工作室",
+      "onboard_time": 1722935068,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 781824,
+      "num": 533584,
+      "word": "王楚钦vs塔卡",
+      "onboard_time": 1722937411,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -592,6 +656,14 @@
       "word": "大聪和臭丫头",
       "onboard_time": 1722926606,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 642614,
+      "num": 3358639,
+      "word": "警方介入调查女子小区放生多盒蟑螂",
+      "onboard_time": 1722936632,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -707,18 +779,18 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 553299,
+      "num": 1575829,
+      "word": "赵露思妹妹头造型路透",
+      "onboard_time": 1722935908,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 550131,
       "num": 550131,
       "word": "孙颖莎说团体第一场发挥正常",
       "onboard_time": 1722899839,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 538012,
-      "num": 538012,
-      "word": "女排裁判",
-      "onboard_time": 1722936750,
       "rank": 35,
       "category": "体育"
     },
@@ -737,6 +809,22 @@
       "onboard_time": 1722905063,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 527177,
+      "num": 527177,
+      "word": "许昕又在摆阵",
+      "onboard_time": 1722937292,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 522609,
+      "num": 3587223,
+      "word": "上海野生动物园袋鼠打人",
+      "onboard_time": 1722934348,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 516698,
@@ -772,7 +860,7 @@
     },
     {
       "raw_hot": 493977,
-      "num": 493977,
+      "num": 2357603,
       "word": "夏天余额仅剩一天",
       "onboard_time": 1722926125,
       "rank": 41,
@@ -804,10 +892,18 @@
     },
     {
       "raw_hot": 466727,
-      "num": 713450,
+      "num": 2623049,
       "word": "中国反兴奋剂中心斥USADA双重标准",
       "onboard_time": 1722914662,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 456171,
+      "num": 4113653,
+      "word": "国乒男团进八强",
+      "onboard_time": 1722936810,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -867,6 +963,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 438201,
+      "num": 438201,
+      "word": "心疼王媛媛",
+      "onboard_time": 1722939384,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 436576,
       "num": 436576,
       "word": "中国花游队遥遥领先",
@@ -888,6 +992,14 @@
       "word": "马龙巴黎奥运首秀",
       "onboard_time": 1722912081,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 420168,
+      "num": 420168,
+      "word": "王楚钦拿两条毛巾擦汗",
+      "onboard_time": 1722936088,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -939,22 +1051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 407165,
-      "num": 407165,
-      "word": "王楚钦拿两条毛巾擦汗",
-      "onboard_time": 1722936088,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 406705,
-      "num": 1575829,
-      "word": "赵露思妹妹头造型路透",
-      "onboard_time": 1722935908,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 406174,
       "num": 356640,
       "word": "孙颖莎状态",
@@ -977,6 +1073,14 @@
       "onboard_time": 1722925105,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 387606,
+      "num": 387606,
+      "word": "裁判眼睛",
+      "onboard_time": 1722939505,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 386975,
@@ -1003,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 379799,
+      "num": 379799,
+      "word": "马龙不止巴黎见",
+      "onboard_time": 1722939025,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 377040,
       "num": 377040,
       "word": "射击队训练专门请人嗷嗷大叫",
@@ -1024,6 +1136,14 @@
       "word": "34岁的鹿晗好有少年感",
       "onboard_time": 1722916584,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 374742,
+      "num": 542822,
+      "word": "郑中基患抑郁症",
+      "onboard_time": 1722938546,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -1091,6 +1211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 350117,
+      "num": 350117,
+      "word": "奥委会用全红婵动作和1912年对比",
+      "onboard_time": 1722939384,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 346522,
       "num": 346522,
       "word": "张博恒体操男子单杠铜牌",
@@ -1152,14 +1280,6 @@
       "word": "潘展乐评价奥运村食物",
       "onboard_time": 1722870266,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 322263,
-      "num": 322263,
-      "word": "张继科已成立个人工作室",
-      "onboard_time": 1722935068,
-      "rank": 38,
       "category": "体育"
     },
     {
@@ -1345,14 +1465,6 @@
       "onboard_time": 1722925945,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 286987,
-      "num": 3587223,
-      "word": "上海野生动物园袋鼠打人",
-      "onboard_time": 1722934348,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 285380,
@@ -1633,6 +1745,14 @@
       "onboard_time": 1722922285,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244778,
+      "num": 349571,
+      "word": "享界S9",
+      "onboard_time": 1722938128,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 243315,
@@ -2227,14 +2347,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 134560,
-      "num": 3358639,
-      "word": "警方介入调查女子小区放生多盒蟑螂",
-      "onboard_time": 1722936632,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 134265,
       "num": 304547,
       "word": "李政道逝世",
@@ -2403,14 +2515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95601,
-      "num": 4050461,
-      "word": "朱婷告别奥运",
-      "onboard_time": 1722936392,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 94038,
       "num": 94038,
       "word": "勒布伦铜牌小品",
@@ -2515,6 +2619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70949,
+      "num": 795424,
+      "word": "华为发布双层OLED云晰柔光屏平板",
+      "onboard_time": 1722935248,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 66771,
       "num": 81196,
       "word": "张泽禹薄荷一样清新的练习室",
@@ -2563,6 +2675,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 57338,
+      "num": 613077,
+      "word": "享界S9有多安全",
+      "onboard_time": 1722936872,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 57330,
       "num": 320583,
       "word": "又一次被中国红感动",
@@ -2609,14 +2729,6 @@
       "onboard_time": 1722922165,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 51123,
-      "num": 795424,
-      "word": "华为发布双层OLED云晰柔光屏平板",
-      "onboard_time": 1722935248,
-      "rank": 24,
-      "category": "数码"
     },
     {
       "raw_hot": 48362,
@@ -2795,14 +2907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 24573,
-      "num": 4113653,
-      "word": "国乒男团进八强",
-      "onboard_time": 1722936810,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 22648,
       "num": 631691,
       "word": "李政道曾为长城捐款",
@@ -2811,12 +2915,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19102,
+      "num": 1948557,
+      "word": "王宗源谢思埸晋级半决赛",
+      "onboard_time": 1722939445,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 17591,
       "num": 95219,
       "word": "店主暖心关怀获中暑外卖小哥赠水感恩",
       "onboard_time": 1722892212,
       "rank": 29,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 14189,
+      "num": 340914,
+      "word": "享界S9价格",
+      "onboard_time": 1722939685,
+      "rank": 49,
+      "category": "汽车"
     }
   ],
   "hotgov_list": [
