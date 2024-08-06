@@ -1,0 +1,410 @@
+{
+  "runTime": 1722921589037,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6108578,
+        "num": 6108578,
+        "word": "张昊唯回应",
+        "onboard_time": 1722921148,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1613173,
+        "num": 1613173,
+        "word": "潘展乐说这段采访先别播",
+        "onboard_time": 1722905604,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13901,
+        "num": 1578458,
+        "word": "2024电影票房破300亿",
+        "onboard_time": 1722866368,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1549096,
+        "num": 1549096,
+        "word": "美国一奥运选手兴奋剂阳性",
+        "onboard_time": 1722916163,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1356423,
+        "num": 1356423,
+        "word": "陈若琳包里塞着全红婵的乌龟",
+        "onboard_time": 1722920310,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1212282,
+        "num": 1212282,
+        "word": "王昶在台湾是真的火",
+        "onboard_time": 1722913823,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1014141,
+        "num": 1014141,
+        "word": "孙颖莎世排第一9000分",
+        "onboard_time": 1722907942,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 955948,
+        "num": 955948,
+        "word": "王楚钦交替使用两副球拍训练",
+        "onboard_time": 1722919048,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 568596,
+        "num": 940160,
+        "word": "陈妍希一天只吃一顿饭",
+        "onboard_time": 1722919890,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82416,
+        "num": 932223,
+        "word": "哈里斯正式获民主党总统候选人提名",
+        "onboard_time": 1722920429,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 926293,
+        "num": 926293,
+        "word": "张博恒给妈妈发信息说我太累了",
+        "onboard_time": 1722918689,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 893655,
+        "num": 893655,
+        "word": "乌克兰选手赛场睡觉醒来夺冠",
+        "onboard_time": 1722919710,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 737573,
+        "num": 737573,
+        "word": "一个节省习惯导致男子肾衰竭",
+        "onboard_time": 1722912802,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 633882,
+        "num": 633882,
+        "word": "湖南航空空姐上班不再穿高跟鞋",
+        "onboard_time": 1722911361,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599066,
+        "num": 599066,
+        "word": "男子强奸未遂监视居住时杀害19岁堂妹",
+        "onboard_time": 1722902661,
+        "rank": 14,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 606659,
+        "num": 592772,
+        "word": "王曼昱把埃及选手打生气了",
+        "onboard_time": 1722910222,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 375087,
+        "num": 583481,
+        "word": "34岁的鹿晗好有少年感",
+        "onboard_time": 1722916584,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298121,
+        "num": 579267,
+        "word": "种地吧第二季收官战报",
+        "onboard_time": 1722911542,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 578466,
+        "num": 578466,
+        "word": "张本智和的含金量一下就起来了",
+        "onboard_time": 1722905845,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59050,
+        "num": 565847,
+        "word": "于正管曾舜晞叫宝宝",
+        "onboard_time": 1722920908,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 555581,
+        "num": 555581,
+        "word": "韩国选手 不用服兵役喽",
+        "onboard_time": 1722912743,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 546739,
+        "num": 546739,
+        "word": "徐卓一 705分学体育的马继业",
+        "onboard_time": 1722920488,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 516698,
+        "num": 516698,
+        "word": "孙颖莎借王曼昱T恤",
+        "onboard_time": 1722919769,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 495160,
+        "num": 495160,
+        "word": "这块金牌肯定是中国的",
+        "onboard_time": 1722919650,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 447508,
+        "num": 447508,
+        "word": "张雨霏也有容貌身材焦虑",
+        "onboard_time": 1722917543,
+        "rank": 24,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 410496,
+        "num": 410496,
+        "word": "TFBOYS出道十一周年",
+        "onboard_time": 1722874701,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 405522,
+        "num": 405522,
+        "word": "中国女子拳击6人锁定5枚奖牌",
+        "onboard_time": 1722916704,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267266,
+        "num": 380931,
+        "word": "唐嫣改代表作",
+        "onboard_time": 1722910942,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40931,
+        "num": 380711,
+        "word": "华为novaFlip搭载玄武水滴铰链",
+        "onboard_time": 1722919769,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 245597,
+        "num": 380565,
+        "word": "刘亦菲全国巡吃",
+        "onboard_time": 1722919408,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380530,
+        "num": 380530,
+        "word": "张本智和紧急撤回一个口误",
+        "onboard_time": 1722920248,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 364127,
+        "num": 364127,
+        "word": "色情擦边动漫及周边流向未成年人",
+        "onboard_time": 1722915262,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326922,
+        "num": 326922,
+        "word": "潘展乐吐槽奥运村伙食太差了",
+        "onboard_time": 1722913221,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284161,
+        "num": 284161,
+        "word": "陈芋汐吃牛角包采访",
+        "onboard_time": 1722914063,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281255,
+        "num": 281255,
+        "word": "孙颖莎在困境中一次次站出来",
+        "onboard_time": 1722919769,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279218,
+        "num": 279218,
+        "word": "央视曝光一口价黄金饰品套路多",
+        "onboard_time": 1722908602,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247826,
+        "num": 247826,
+        "word": "11岁滑板小孩姐迎来奥运首秀",
+        "onboard_time": 1722915743,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247664,
+        "num": 247664,
+        "word": "美体操名将拜尔斯晒与治疗犬合影",
+        "onboard_time": 1722920849,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246201,
+        "num": 246201,
+        "word": "四川俩姐弟失踪17天后发现弟弟遗体",
+        "onboard_time": 1722902000,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245825,
+        "num": 245825,
+        "word": "张博恒很大一车面包人",
+        "onboard_time": 1722916463,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230052,
+        "num": 230052,
+        "word": "潘展乐回应外公写给自己的诗",
+        "onboard_time": 1722914362,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227257,
+        "num": 227257,
+        "word": "郑钦文 MIUMIU",
+        "onboard_time": 1722921508,
+        "rank": 41,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 223162,
+        "num": 223162,
+        "word": "哈里斯实力让特朗普措手不及",
+        "onboard_time": 1722915683,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 222107,
+        "num": 222107,
+        "word": "中国反兴奋剂中心斥USADA双重标准",
+        "onboard_time": 1722914662,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218007,
+        "num": 218007,
+        "word": "张雨霏谈频繁尿检",
+        "onboard_time": 1722918025,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217272,
+        "num": 217272,
+        "word": "王俊凯王源易烊千玺庆祝11周年",
+        "onboard_time": 1722875182,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212351,
+        "num": 212351,
+        "word": "男子每天久坐超6小时查出肠癌",
+        "onboard_time": 1722901401,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211862,
+        "num": 211862,
+        "word": "勒布伦 你怎么知道我拿了奥运铜牌",
+        "onboard_time": 1722915142,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210658,
+        "num": 210658,
+        "word": "王昶壁纸",
+        "onboard_time": 1722918807,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209283,
+        "num": 209283,
+        "word": "马龙巴黎奥运首秀",
+        "onboard_time": 1722912081,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#关键词看改革#"
+    }
+  }
+}
