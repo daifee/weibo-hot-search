@@ -1,6 +1,6 @@
 {
   "startTime": 1722702313981,
-  "endTime": 1722969631982,
+  "endTime": 1722971763570,
   "band_list": [
     {
       "raw_hot": 35169209,
@@ -5355,6 +5355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 355447,
+      "num": 355447,
+      "word": "法国花游吓一跳",
+      "onboard_time": 1722968774,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 354731,
       "num": 354731,
       "word": "瑞典国王 大半夜把我叫来啥事啊",
@@ -6192,6 +6200,14 @@
       "word": "撑杆跳",
       "onboard_time": 1722878536,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 289153,
+      "num": 184757,
+      "word": "全红婵大哥回应直播带货引争议",
+      "onboard_time": 1722968234,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -7851,6 +7867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 200582,
+      "num": 184644,
+      "word": "中国花游队两项都第一",
+      "onboard_time": 1722970992,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200277,
       "num": 200277,
       "word": "HR最反感的六种简历",
@@ -8331,6 +8355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185001,
+      "num": 185001,
+      "word": "孟令哲摔跤铜牌",
+      "onboard_time": 1722969973,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184843,
       "num": 591512,
       "word": "日本樱岛火山喷发烟柱高达3000米",
@@ -8483,6 +8515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176208,
+      "num": 176208,
+      "word": "赵杰女子链球决赛",
+      "onboard_time": 1722969793,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176085,
       "num": 327646,
       "word": "河南特岗",
@@ -8593,14 +8633,6 @@
       "onboard_time": 1722853225,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 170734,
-      "num": 170734,
-      "word": "全红婵大哥回应直播带货引争议",
-      "onboard_time": 1722968234,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 170408,
@@ -8721,14 +8753,6 @@
       "onboard_time": 1722714673,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163415,
-      "num": 99209,
-      "word": "法国花游吓一跳",
-      "onboard_time": 1722968774,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 163204,
@@ -8932,7 +8956,7 @@
     },
     {
       "raw_hot": 149858,
-      "num": 125785,
+      "num": 146870,
       "word": "全红婵不想学拿捏英语",
       "onboard_time": 1722966734,
       "rank": 26,
@@ -9267,6 +9291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 118689,
+      "num": 118689,
+      "word": "中国花游断层第一",
+      "onboard_time": 1722971472,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117782,
       "num": 117782,
       "word": "中国队第19金",
@@ -9321,6 +9353,14 @@
       "onboard_time": 1722689011,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109454,
+      "num": 185827,
+      "word": "赵杰链球铜牌",
+      "onboard_time": 1722971652,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 108936,
@@ -9715,6 +9755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76814,
+      "num": 244005,
+      "word": "熊猫基地通报女子偷带宠物入园",
+      "onboard_time": 1722968953,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76201,
       "num": 602758,
       "word": "美中央司令部司令抵达中东地区",
@@ -9891,6 +9939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 62821,
+      "num": 94556,
+      "word": "巴黎奥运女子链球决赛",
+      "onboard_time": 1722969372,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62251,
       "num": 4263864,
       "word": "神十八乘组在空间站里都忙些啥",
@@ -9993,6 +10049,14 @@
       "onboard_time": 1722950785,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57751,
+      "num": 116399,
+      "word": "官方认证鞠婧祎杂志销量",
+      "onboard_time": 1722969793,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 57338,
@@ -10547,12 +10611,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28333,
-      "num": 94556,
-      "word": "巴黎奥运女子链球决赛",
-      "onboard_time": 1722969372,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 25456,
+      "num": 177277,
+      "word": "唐尚珺说很大概率读大学",
+      "onboard_time": 1722970812,
+      "rank": 22,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 24718,
@@ -10579,20 +10643,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 17877,
+      "num": 179019,
+      "word": "深圳八卦岭房价6年大涨大跌",
+      "onboard_time": 1722971233,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17591,
       "num": 95219,
       "word": "店主暖心关怀获中暑外卖小哥赠水感恩",
       "onboard_time": 1722892212,
       "rank": 29,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 17216,
-      "num": 244005,
-      "word": "熊猫基地通报女子偷带宠物入园",
-      "onboard_time": 1722968953,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16544,
@@ -10625,6 +10689,14 @@
       "onboard_time": 1722771089,
       "rank": 42,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 8934,
+      "num": 336946,
+      "word": "我国秋粮面积稳中有增",
+      "onboard_time": 1722950969,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6200,

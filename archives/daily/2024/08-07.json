@@ -1,6 +1,6 @@
 {
   "startTime": 1722961504263,
-  "endTime": 1722969631982,
+  "endTime": 1722971763570,
   "band_list": [
     {
       "raw_hot": 3693867,
@@ -235,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 355447,
+      "num": 355447,
+      "word": "法国花游吓一跳",
+      "onboard_time": 1722968774,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 335480,
       "num": 218439,
       "word": "樊振东是食堂固定刷新NPC吗",
@@ -251,8 +259,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 310957,
-      "num": 310957,
+      "raw_hot": 315801,
+      "num": 315801,
       "word": "花样游泳",
       "onboard_time": 1722966375,
       "rank": 5,
@@ -280,6 +288,14 @@
       "word": "陈芋汐金美莱比赞不告诉全红婵",
       "onboard_time": 1722956429,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 289153,
+      "num": 184757,
+      "word": "全红婵大哥回应直播带货引争议",
+      "onboard_time": 1722968234,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -419,6 +435,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 200582,
+      "num": 184644,
+      "word": "中国花游队两项都第一",
+      "onboard_time": 1722970992,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187711,
       "num": 187711,
       "word": "陈紫函力挺戴向宇",
@@ -433,6 +457,22 @@
       "onboard_time": 1722956429,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185001,
+      "num": 185001,
+      "word": "孟令哲摔跤铜牌",
+      "onboard_time": 1722969973,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 176208,
+      "num": 176208,
+      "word": "赵杰女子链球决赛",
+      "onboard_time": 1722969793,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 175950,
@@ -451,27 +491,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 170734,
-      "num": 170734,
-      "word": "全红婵大哥回应直播带货引争议",
-      "onboard_time": 1722968234,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 168339,
       "num": 130009,
       "word": "陈芋汐也是天才少女",
       "onboard_time": 1722963918,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 163415,
-      "num": 99209,
-      "word": "法国花游吓一跳",
-      "onboard_time": 1722968774,
-      "rank": 43,
       "category": "体育"
     },
     {
@@ -492,7 +516,7 @@
     },
     {
       "raw_hot": 149858,
-      "num": 125785,
+      "num": 146870,
       "word": "全红婵不想学拿捏英语",
       "onboard_time": 1722966734,
       "rank": 26,
@@ -523,6 +547,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 118689,
+      "num": 118689,
+      "word": "中国花游断层第一",
+      "onboard_time": 1722971472,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117239,
       "num": 117239,
       "word": "美国女排晋级四强",
@@ -536,6 +568,14 @@
       "word": "王楚钦回应球拍事件",
       "onboard_time": 1722941304,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 109454,
+      "num": 185827,
+      "word": "赵杰链球铜牌",
+      "onboard_time": 1722971652,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -555,11 +595,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76814,
+      "num": 244005,
+      "word": "熊猫基地通报女子偷带宠物入园",
+      "onboard_time": 1722968953,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62821,
+      "num": 94556,
+      "word": "巴黎奥运女子链球决赛",
+      "onboard_time": 1722969372,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59727,
       "num": 109037,
       "word": "戴向宇发律师函",
       "onboard_time": 1722938967,
       "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 57751,
+      "num": 116399,
+      "word": "官方认证鞠婧祎杂志销量",
+      "onboard_time": 1722969793,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -603,19 +667,27 @@
       "category": "演出"
     },
     {
-      "raw_hot": 28333,
-      "num": 94556,
-      "word": "巴黎奥运女子链球决赛",
-      "onboard_time": 1722969372,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 25456,
+      "num": 177277,
+      "word": "唐尚珺说很大概率读大学",
+      "onboard_time": 1722970812,
+      "rank": 22,
+      "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 17216,
-      "num": 244005,
-      "word": "熊猫基地通报女子偷带宠物入园",
-      "onboard_time": 1722968953,
-      "rank": 8,
+      "raw_hot": 17877,
+      "num": 179019,
+      "word": "深圳八卦岭房价6年大涨大跌",
+      "onboard_time": 1722971233,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8934,
+      "num": 336946,
+      "word": "我国秋粮面积稳中有增",
+      "onboard_time": 1722950969,
+      "rank": 2,
       "category": "社会新闻"
     }
   ],
