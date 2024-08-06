@@ -1,6 +1,6 @@
 {
   "startTime": 1722961504263,
-  "endTime": 1722983801844,
+  "endTime": 1722986426013,
   "band_list": [
     {
       "raw_hot": 3693867,
@@ -49,6 +49,14 @@
       "onboard_time": 1722955352,
       "rank": 6,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 1917940,
+      "num": 317800,
+      "word": "全红婵大哥回应直播带货引争议",
+      "onboard_time": 1722968234,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 1508619,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 888639,
-      "num": 229378,
+      "num": 266165,
       "word": "陈芋汐教练",
       "onboard_time": 1722955173,
       "rank": 22,
@@ -147,6 +155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 690384,
+      "num": 690384,
+      "word": "法国花游吓一跳",
+      "onboard_time": 1722968774,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 679847,
       "num": 679847,
       "word": "曹利国摔跤决赛",
@@ -160,14 +176,6 @@
       "word": "全红婵金牌",
       "onboard_time": 1722953493,
       "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 624971,
-      "num": 317800,
-      "word": "全红婵大哥回应直播带货引争议",
-      "onboard_time": 1722968234,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -211,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 392742,
+      "num": 392742,
+      "word": "中国花游断层第一",
+      "onboard_time": 1722971472,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 390383,
       "num": 390383,
       "word": "贺某某",
@@ -251,20 +267,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 355447,
-      "num": 355447,
-      "word": "法国花游吓一跳",
-      "onboard_time": 1722968774,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 335480,
       "num": 218439,
       "word": "樊振东是食堂固定刷新NPC吗",
       "onboard_time": 1722953925,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 325511,
+      "num": 325511,
+      "word": "立秋",
+      "onboard_time": 1722964337,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 320579,
@@ -411,14 +427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 210811,
-      "num": 223159,
-      "word": "立秋",
-      "onboard_time": 1722964337,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 209868,
       "num": 209868,
       "word": "中国花游队两项都第一",
@@ -483,6 +491,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185841,
+      "num": 145963,
+      "word": "全红婵安慰哥哥",
+      "onboard_time": 1722985638,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 185840,
+      "num": 185840,
+      "word": "邹敬园回应体操队内争议",
+      "onboard_time": 1722983954,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176208,
       "num": 176208,
       "word": "赵杰女子链球决赛",
@@ -523,19 +547,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 159544,
+      "num": 159544,
+      "word": "全红婵妹妹变化好大",
+      "onboard_time": 1722983174,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155283,
       "num": 209851,
       "word": "被全红婵陈芋汐的率真圈粉了",
       "onboard_time": 1722955891,
       "rank": 27,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 154870,
-      "num": 153894,
-      "word": "中国花游断层第一",
-      "onboard_time": 1722971472,
-      "rank": 28,
       "category": "体育"
     },
     {
@@ -547,6 +571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144010,
+      "num": 244005,
+      "word": "熊猫基地通报女子偷带宠物入园",
+      "onboard_time": 1722968953,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141038,
       "num": 222468,
       "word": "张进 化妆技术",
@@ -556,7 +588,7 @@
     },
     {
       "raw_hot": 135195,
-      "num": 222620,
+      "num": 314625,
       "word": "岳丽娜 唐诡会拍100部",
       "onboard_time": 1722964756,
       "rank": 46,
@@ -569,6 +601,14 @@
       "onboard_time": 1722953428,
       "rank": 49,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 125198,
+      "num": 125198,
+      "word": "美国男篮狂砍122分",
+      "onboard_time": 1722985035,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 122449,
@@ -593,6 +633,54 @@
       "onboard_time": 1722941304,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109921,
+      "num": 109921,
+      "word": "朝鲜跳水运动员",
+      "onboard_time": 1722984074,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 107813,
+      "num": 133222,
+      "word": "男孩海上潜水被数只护士鲨包围",
+      "onboard_time": 1722985819,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103448,
+      "num": 103448,
+      "word": "陈芋汐207C跳出89.10分",
+      "onboard_time": 1722975312,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 102988,
+      "num": 109978,
+      "word": "我的26岁女房客",
+      "onboard_time": 1722980050,
+      "rank": 49,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 102795,
+      "num": 102795,
+      "word": "樊振东邱祺缘欧钰珊合影",
+      "onboard_time": 1722985819,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100353,
+      "num": 100353,
+      "word": "迪迦奥特曼演员肉眼可见的变老了",
+      "onboard_time": 1722984796,
+      "rank": 44,
+      "category": "动漫,艺人"
     },
     {
       "raw_hot": 93502,
@@ -620,19 +708,19 @@
     },
     {
       "raw_hot": 87920,
-      "num": 90257,
+      "num": 145999,
       "word": "杜海涛第十五次放弃减肥",
       "onboard_time": 1722980351,
       "rank": 28,
       "category": "综艺"
     },
     {
-      "raw_hot": 85608,
-      "num": 244005,
-      "word": "熊猫基地通报女子偷带宠物入园",
-      "onboard_time": 1722968953,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 85746,
+      "num": 214266,
+      "word": "唐尚珺说很大概率读大学",
+      "onboard_time": 1722970812,
+      "rank": 22,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 85162,
@@ -643,12 +731,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 70068,
-      "num": 214266,
-      "word": "唐尚珺说很大概率读大学",
-      "onboard_time": 1722970812,
-      "rank": 22,
-      "category": "社会新闻,教育"
+      "raw_hot": 83646,
+      "num": 85743,
+      "word": "中国女排止步8强",
+      "onboard_time": 1722936271,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 76661,
+      "num": 85736,
+      "word": "爷爷准备了8只羊陪乐乐解压",
+      "onboard_time": 1722986300,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 68358,
@@ -675,14 +771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 60393,
-      "num": 51918,
-      "word": "陈芋汐207C跳出89.10分",
-      "onboard_time": 1722975312,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 59727,
       "num": 109037,
       "word": "戴向宇发律师函",
@@ -697,14 +785,6 @@
       "onboard_time": 1722969793,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 53439,
-      "num": 51424,
-      "word": "中国女排止步8强",
-      "onboard_time": 1722936271,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 49249,
@@ -723,16 +803,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 39705,
-      "num": 48474,
-      "word": "我的26岁女房客",
-      "onboard_time": 1722980050,
-      "rank": 49,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 39520,
-      "num": 295268,
+      "num": 296021,
       "word": "当地检察院回应魏新河被批捕",
       "onboard_time": 1722966256,
       "rank": 8,
@@ -788,7 +860,7 @@
     },
     {
       "raw_hot": 8934,
-      "num": 336946,
+      "num": 803246,
       "word": "我国秋粮面积稳中有增",
       "onboard_time": 1722950969,
       "rank": 2,
