@@ -1,6 +1,6 @@
 {
   "startTime": 1722702313981,
-  "endTime": 1722912491462,
+  "endTime": 1722914554409,
   "band_list": [
     {
       "raw_hot": 35169209,
@@ -811,6 +811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2484207,
+      "num": 2484207,
+      "word": "王曼昱把埃及选手打生气了",
+      "onboard_time": 1722910222,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2438793,
       "num": 1061631,
       "word": "郑钦文咬金牌",
@@ -1235,6 +1243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1752026,
+      "num": 1752026,
+      "word": "央视曝光一口价黄金饰品套路多",
+      "onboard_time": 1722908602,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1747343,
       "num": 1747343,
       "word": "郑钦文去年收入720万美元",
@@ -1288,22 +1304,6 @@
       "word": "郑钦文说对不起张之臻",
       "onboard_time": 1722721873,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1691697,
-      "num": 1691697,
-      "word": "央视曝光一口价黄金饰品套路多",
-      "onboard_time": 1722908602,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1669052,
-      "num": 1669052,
-      "word": "王曼昱把埃及选手打生气了",
-      "onboard_time": 1722910222,
-      "rank": 6,
       "category": "体育"
     },
     {
@@ -2219,6 +2219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 845946,
+      "num": 845946,
+      "word": "唐嫣改代表作",
+      "onboard_time": 1722910942,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 842907,
       "num": 1938137,
       "word": "赵丽颖 85花主流奖",
@@ -2355,14 +2363,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 753454,
-      "num": 753454,
-      "word": "唐嫣改代表作",
-      "onboard_time": 1722910942,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 753006,
       "num": 4141626,
       "word": "阿黛尔暂停演唱会观看女子百米决赛",
@@ -2483,6 +2483,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 693547,
+      "num": 693547,
+      "word": "湖南航空空姐上班不再穿高跟鞋",
+      "onboard_time": 1722911361,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 687032,
       "num": 687032,
       "word": "樊振东乒乓球男单冲金",
@@ -2563,6 +2571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 660484,
+      "num": 660484,
+      "word": "韩国选手 不用服兵役喽",
+      "onboard_time": 1722912743,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 655851,
       "num": 655851,
       "word": "王皓微博",
@@ -2600,6 +2616,14 @@
       "word": "樊振东领奖央视解说词",
       "onboard_time": 1722788425,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 638798,
+      "num": 638798,
+      "word": "潘展乐 吃不到的生日蛋糕",
+      "onboard_time": 1722905664,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -2875,6 +2899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 554963,
+      "num": 556833,
+      "word": "种地吧第二季收官战报",
+      "onboard_time": 1722911542,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 550131,
       "num": 550131,
       "word": "孙颖莎说团体第一场发挥正常",
@@ -2915,20 +2947,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 536207,
-      "num": 536207,
-      "word": "潘展乐 吃不到的生日蛋糕",
-      "onboard_time": 1722905664,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 535668,
       "num": 535668,
       "word": "女单乒乓球颁奖",
       "onboard_time": 1722696940,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 535576,
+      "num": 535576,
+      "word": "鹿晗 微醺",
+      "onboard_time": 1722911782,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 534196,
+      "num": 534196,
+      "word": "一个节省习惯导致男子肾衰竭",
+      "onboard_time": 1722912802,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 527949,
@@ -3227,6 +3267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 457168,
+      "num": 457168,
+      "word": "因为这是女单",
+      "onboard_time": 1722909922,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 456122,
       "num": 5729081,
       "word": "索马里一酒店遭袭已致37死247伤",
@@ -3424,6 +3472,14 @@
       "word": "加拿大女篮vs尼日利亚女篮",
       "onboard_time": 1722770005,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 420082,
+      "num": 420082,
+      "word": "马龙巴黎奥运首秀",
+      "onboard_time": 1722912081,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -4211,12 +4267,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 328287,
-      "num": 556833,
-      "word": "种地吧第二季收官战报",
-      "onboard_time": 1722911542,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 329535,
+      "num": 329535,
+      "word": "雷军称倒霉的地方就是老跟苹果华为比",
+      "onboard_time": 1722910641,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 328322,
+      "num": 328322,
+      "word": "一口价金饰克重远低于实际",
+      "onboard_time": 1722912201,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 326553,
+      "num": 326553,
+      "word": "潘展乐吐槽奥运村伙食太差了",
+      "onboard_time": 1722913221,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 325600,
@@ -4225,6 +4297,14 @@
       "onboard_time": 1722702467,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 324426,
+      "num": 324426,
+      "word": "黑神话悟空完成所有内容开发",
+      "onboard_time": 1722912261,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 321734,
@@ -4321,14 +4401,6 @@
       "onboard_time": 1722742224,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 316400,
-      "num": 316400,
-      "word": "雷军称倒霉的地方就是老跟苹果华为比",
-      "onboard_time": 1722910641,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 314423,
@@ -4457,22 +4529,6 @@
       "onboard_time": 1722751643,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 303885,
-      "num": 303885,
-      "word": "鹿晗 微醺",
-      "onboard_time": 1722911782,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 303331,
-      "num": 303331,
-      "word": "黑神话悟空完成所有内容开发",
-      "onboard_time": 1722912261,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 303328,
@@ -4635,6 +4691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 286073,
+      "num": 286073,
+      "word": "郑钦文樊振东互关",
+      "onboard_time": 1722913583,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 286060,
       "num": 850228,
       "word": "央视游泳比赛也有潘展乐同款逆袭",
@@ -4739,6 +4803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 281016,
+      "num": 281016,
+      "word": "乒联世界排名更新王楚钦孙颖莎第1",
+      "onboard_time": 1722912982,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 280675,
       "num": 238356,
       "word": "郭焱称赞孙颖莎格局大",
@@ -4761,6 +4833,14 @@
       "onboard_time": 1722901760,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 279411,
+      "num": 279411,
+      "word": "陈芋汐吃牛角包采访",
+      "onboard_time": 1722914063,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 279092,
@@ -4809,6 +4889,14 @@
       "onboard_time": 1722833725,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 272649,
+      "num": 272649,
+      "word": "插兜夺金的玫瑰哥曾经打得稀碎",
+      "onboard_time": 1722914121,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 271769,
@@ -4899,14 +4987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 265077,
-      "num": 265077,
-      "word": "一口价金饰克重远低于实际",
-      "onboard_time": 1722912201,
-      "rank": 35,
-      "category": "财经"
-    },
-    {
       "raw_hot": 264763,
       "num": 264763,
       "word": "我的眼睛就是尺",
@@ -4945,6 +5025,14 @@
       "onboard_time": 1722858625,
       "rank": 17,
       "category": "音乐,体育"
+    },
+    {
+      "raw_hot": 263133,
+      "num": 263133,
+      "word": "王昶在台湾是真的火",
+      "onboard_time": 1722913823,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 263082,
@@ -5155,12 +5243,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247995,
+      "num": 701780,
+      "word": "河南一公司通报总经理口出狂言",
+      "onboard_time": 1722910822,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247158,
       "num": 637648,
       "word": "鸣潮 守岸人",
       "onboard_time": 1722769165,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 246272,
+      "num": 246272,
+      "word": "潘展乐回应外公写给自己的诗",
+      "onboard_time": 1722914362,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 246153,
@@ -5171,20 +5275,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 245770,
-      "num": 245770,
-      "word": "因为这是女单",
-      "onboard_time": 1722909922,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 245134,
       "num": 245134,
       "word": "日经指数",
       "onboard_time": 1722837261,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 244302,
+      "num": 275873,
+      "word": "TFBOYS他们总有两个懂他的人",
+      "onboard_time": 1722914424,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 243315,
+      "num": 243315,
+      "word": "可爱且自知的孙颖莎",
+      "onboard_time": 1722913221,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 241251,
@@ -5281,14 +5393,6 @@
       "onboard_time": 1722909322,
       "rank": 41,
       "category": "美食"
-    },
-    {
-      "raw_hot": 229500,
-      "num": 229500,
-      "word": "湖南航空空姐上班不再穿高跟鞋",
-      "onboard_time": 1722911361,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 229184,
@@ -5419,14 +5523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 218287,
-      "num": 218287,
-      "word": "马龙巴黎奥运首秀",
-      "onboard_time": 1722912081,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 218032,
       "num": 820174,
       "word": "日本股市触发熔断",
@@ -5513,6 +5609,14 @@
       "onboard_time": 1722760347,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213489,
+      "num": 330872,
+      "word": "威神V上海演唱会抢票",
+      "onboard_time": 1722914002,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 213148,
@@ -5825,6 +5929,14 @@
       "onboard_time": 1722798733,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200599,
+      "num": 240383,
+      "word": "TFBOYS11年实绩",
+      "onboard_time": 1722914183,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 200152,
@@ -7099,14 +7211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100015,
-      "num": 701780,
-      "word": "河南一公司通报总经理口出狂言",
-      "onboard_time": 1722910822,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97085,
       "num": 216925,
       "word": "像素画室",
@@ -7603,12 +7707,28 @@
       "category": "电影,体育"
     },
     {
+      "raw_hot": 52087,
+      "num": 695829,
+      "word": "进入名校的小镇青年如何走出自我低估",
+      "onboard_time": 1722913221,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51805,
       "num": 3541466,
       "word": "用中国色打开锦绣山河",
       "onboard_time": 1722866730,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48929,
+      "num": 592811,
+      "word": "88VIP又发大额消费券了",
+      "onboard_time": 1722913221,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 48915,
@@ -7755,6 +7875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41717,
+      "num": 671241,
+      "word": "英侠展国色",
+      "onboard_time": 1722909743,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40992,
       "num": 205034,
       "word": "人生松弛感挑战",
@@ -7801,14 +7929,6 @@
       "onboard_time": 1722849084,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37422,
-      "num": 671241,
-      "word": "英侠展国色",
-      "onboard_time": 1722909743,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 36987,
@@ -7897,6 +8017,14 @@
       "onboard_time": 1722838643,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29981,
+      "num": 248798,
+      "word": "用保鲜膜拍照超出片",
+      "onboard_time": 1722913343,
+      "rank": 45,
+      "category": "休闲"
     },
     {
       "raw_hot": 28886,
