@@ -1,6 +1,6 @@
 {
   "startTime": 1722875081704,
-  "endTime": 1722911931074,
+  "endTime": 1722912491462,
   "band_list": [
     {
       "raw_hot": 5783219,
@@ -27,8 +27,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2801153,
-      "num": 2801153,
+      "raw_hot": 2937509,
+      "num": 2937509,
       "word": "孙颖莎世排第一9000分",
       "onboard_time": 1722907942,
       "rank": 16,
@@ -107,6 +107,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1691697,
+      "num": 1691697,
+      "word": "央视曝光一口价黄金饰品套路多",
+      "onboard_time": 1722908602,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1669052,
+      "num": 1669052,
+      "word": "王曼昱把埃及选手打生气了",
+      "onboard_time": 1722910222,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1598206,
       "num": 1598206,
       "word": "全红婵陈芋汐10米台晋级决赛",
@@ -123,26 +139,10 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1227447,
-      "num": 1227447,
-      "word": "央视曝光一口价黄金饰品套路多",
-      "onboard_time": 1722908602,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1214026,
       "num": 1214026,
       "word": "被陈芋汐出场硬控",
       "onboard_time": 1722903863,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1170340,
-      "num": 1170340,
-      "word": "王曼昱把埃及选手打生气了",
-      "onboard_time": 1722910222,
       "rank": 6,
       "category": "体育"
     },
@@ -251,20 +251,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 753454,
+      "num": 753454,
+      "word": "唐嫣改代表作",
+      "onboard_time": 1722910942,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 637675,
       "num": 442603,
       "word": "全红婵陈芋汐 教科书",
       "onboard_time": 1722871227,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 627475,
-      "num": 627475,
-      "word": "唐嫣改代表作",
-      "onboard_time": 1722910942,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 611962,
@@ -299,20 +299,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 536207,
+      "num": 536207,
+      "word": "潘展乐 吃不到的生日蛋糕",
+      "onboard_time": 1722905664,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 527949,
       "num": 641608,
       "word": "张译给张艺谋介绍殷桃",
       "onboard_time": 1722905063,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 510142,
-      "num": 510142,
-      "word": "潘展乐 吃不到的生日蛋糕",
-      "onboard_time": 1722905664,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 452113,
@@ -419,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 377040,
+      "num": 377040,
+      "word": "射击队训练专门请人嗷嗷大叫",
+      "onboard_time": 1722908482,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 375747,
       "num": 445456,
       "word": "美国偶遇黄子韬徐艺洋一家",
@@ -459,20 +467,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 356664,
-      "num": 356664,
-      "word": "射击队训练专门请人嗷嗷大叫",
-      "onboard_time": 1722908482,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 346522,
       "num": 346522,
       "word": "张博恒体操男子单杠铜牌",
       "onboard_time": 1722860911,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 328287,
+      "num": 556833,
+      "word": "种地吧第二季收官战报",
+      "onboard_time": 1722911542,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 324381,
@@ -499,12 +507,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 316400,
+      "num": 316400,
+      "word": "雷军称倒霉的地方就是老跟苹果华为比",
+      "onboard_time": 1722910641,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 311757,
       "num": 409110,
       "word": "杨志刚在看唐诡3的剧本了",
       "onboard_time": 1722877997,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 309459,
+      "num": 303364,
+      "word": "张雨霏谈游泳队员名字都和水有关",
+      "onboard_time": 1722908482,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 309399,
@@ -523,6 +547,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 303885,
+      "num": 303885,
+      "word": "鹿晗 微醺",
+      "onboard_time": 1722911782,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 303331,
+      "num": 303331,
+      "word": "黑神话悟空完成所有内容开发",
+      "onboard_time": 1722912261,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 293839,
       "num": 441686,
       "word": "王源雾中顶胯",
@@ -539,6 +579,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 290137,
+      "num": 290137,
+      "word": "狗狗走丢三年后被认出",
+      "onboard_time": 1722909383,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 289317,
       "num": 171919,
       "word": "撑杆跳",
@@ -547,11 +595,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 283854,
-      "num": 283854,
-      "word": "张雨霏谈游泳队员名字都和水有关",
-      "onboard_time": 1722908482,
-      "rank": 35,
+      "raw_hot": 283523,
+      "num": 283523,
+      "word": "潘展乐每天两眼一睁就是告状",
+      "onboard_time": 1722907701,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -579,14 +627,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 275257,
-      "num": 275257,
-      "word": "雷军称倒霉的地方就是老跟苹果华为比",
-      "onboard_time": 1722910641,
-      "rank": 32,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 271151,
       "num": 271151,
       "word": "5.8难度的金牌",
@@ -603,12 +643,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 265738,
-      "num": 265738,
-      "word": "潘展乐每天两眼一睁就是告状",
-      "onboard_time": 1722907701,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 265077,
+      "num": 265077,
+      "word": "一口价金饰克重远低于实际",
+      "onboard_time": 1722912201,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 264621,
@@ -627,20 +667,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 256366,
+      "num": 256366,
+      "word": "日本对华海鲜出口断崖式下跌",
+      "onboard_time": 1722908902,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 250642,
       "num": 250642,
       "word": "全红婵半决赛第一",
       "onboard_time": 1722871227,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 249852,
-      "num": 249852,
-      "word": "日本对华海鲜出口断崖式下跌",
-      "onboard_time": 1722908902,
-      "rank": 36,
-      "category": "国外时政"
     },
     {
       "raw_hot": 249423,
@@ -651,12 +691,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 243775,
-      "num": 243775,
-      "word": "狗狗走丢三年后被认出",
-      "onboard_time": 1722909383,
-      "rank": 37,
-      "category": "情感"
+      "raw_hot": 245770,
+      "num": 245770,
+      "word": "因为这是女单",
+      "onboard_time": 1722909922,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 236741,
@@ -681,6 +721,14 @@
       "onboard_time": 1722909322,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 229500,
+      "num": 229500,
+      "word": "湖南航空空姐上班不再穿高跟鞋",
+      "onboard_time": 1722911361,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227634,
@@ -723,11 +771,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 219401,
-      "num": 219401,
-      "word": "因为这是女单",
-      "onboard_time": 1722909922,
-      "rank": 42,
+      "raw_hot": 218287,
+      "num": 218287,
+      "word": "马龙巴黎奥运首秀",
+      "onboard_time": 1722912081,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -737,14 +785,6 @@
       "onboard_time": 1722902242,
       "rank": 34,
       "category": "美食"
-    },
-    {
-      "raw_hot": 211180,
-      "num": 275149,
-      "word": "鹿晗 微醺",
-      "onboard_time": 1722911782,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 211062,
@@ -787,6 +827,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 206772,
+      "num": 206772,
+      "word": "金毛再也不打暑假工了",
+      "onboard_time": 1722912081,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 206420,
       "num": 206420,
       "word": "韩国选手安洗莹称对国家队失望",
@@ -825,14 +873,6 @@
       "onboard_time": 1722911422,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 198792,
-      "num": 299802,
-      "word": "种地吧第二季收官战报",
-      "onboard_time": 1722911542,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 198415,
@@ -1059,6 +1099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131043,
+      "num": 998812,
+      "word": "一企业开除员工称法律无所谓",
+      "onboard_time": 1722910822,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129409,
       "num": 346688,
       "word": "麦迪娜一家三口新疆vlog",
@@ -1139,20 +1187,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100015,
+      "num": 701780,
+      "word": "河南一公司通报总经理口出狂言",
+      "onboard_time": 1722910822,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97085,
       "num": 216925,
       "word": "像素画室",
       "onboard_time": 1722878776,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 96674,
-      "num": 998812,
-      "word": "一企业开除员工称法律无所谓",
-      "onboard_time": 1722910822,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 94038,
@@ -1224,14 +1272,6 @@
       "word": "国产HPV疫苗降价至一杯奶茶钱",
       "onboard_time": 1722851064,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 69175,
-      "num": 691867,
-      "word": "河南一公司通报总经理口出狂言",
-      "onboard_time": 1722910822,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1323,8 +1363,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 34866,
-      "num": 572150,
+      "raw_hot": 37422,
+      "num": 671241,
       "word": "英侠展国色",
       "onboard_time": 1722909743,
       "rank": 19,
