@@ -1,0 +1,410 @@
+{
+  "runTime": 1722929702191,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3789417,
+        "num": 3789417,
+        "word": "国家体育总局对袁某某开始调查",
+        "onboard_time": 1722928346,
+        "rank": 0,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 3761419,
+        "num": 3761419,
+        "word": "这一球真脏啊",
+        "onboard_time": 1722927025,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29032,
+        "num": 3623925,
+        "word": "40秒穿越40年致敬传承",
+        "onboard_time": 1722906623,
+        "rank": 2,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 3576787,
+        "num": 3576787,
+        "word": "李纯公开与马頔恋情",
+        "onboard_time": 1722925105,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3522450,
+        "num": 3522450,
+        "word": "赵立坚",
+        "onboard_time": 1722925766,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1623114,
+        "num": 1623114,
+        "word": "戴向宇方声明",
+        "onboard_time": 1722928346,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1414037,
+        "num": 1414037,
+        "word": "中国女排vs土耳其女排",
+        "onboard_time": 1722926545,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1214251,
+        "num": 1214251,
+        "word": "孙颖莎陪练王添艺颜值火出圈",
+        "onboard_time": 1722923006,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1170826,
+        "num": 1170826,
+        "word": "张本智和紧急撤回一个口误",
+        "onboard_time": 1722920248,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42637,
+        "num": 1138112,
+        "word": "女子饭店门口躲雨撞破头索赔遭拒",
+        "onboard_time": 1722929426,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1291922,
+        "num": 1135298,
+        "word": "戴向宇上线未回应",
+        "onboard_time": 1722925105,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1108114,
+        "num": 1108114,
+        "word": "洗衣机用了2年没放过洗衣液",
+        "onboard_time": 1722923905,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 913734,
+        "num": 913734,
+        "word": "张昊唯 我现在感觉到处都是录音机",
+        "onboard_time": 1722922586,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 861863,
+        "num": 861863,
+        "word": "国家体育局回应袁某某言论",
+        "onboard_time": 1722928764,
+        "rank": 13,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 753674,
+        "num": 753674,
+        "word": "科目二考试自动挡车辆竟然中途熄火",
+        "onboard_time": 1722921626,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 753075,
+        "num": 753075,
+        "word": "王楚钦交替使用两副球拍训练",
+        "onboard_time": 1722919048,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 748128,
+        "num": 748128,
+        "word": "陈若琳包里塞着全红婵的乌龟",
+        "onboard_time": 1722920310,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 692688,
+        "num": 692688,
+        "word": "乌克兰选手赛场睡觉醒来夺冠",
+        "onboard_time": 1722919710,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 652686,
+        "num": 652686,
+        "word": "张昊唯回应",
+        "onboard_time": 1722921148,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356262,
+        "num": 647312,
+        "word": "庆余年3",
+        "onboard_time": 1722927504,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 644347,
+        "num": 644347,
+        "word": "大聪和臭丫头",
+        "onboard_time": 1722926606,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490924,
+        "num": 490924,
+        "word": "夏天余额仅剩一天",
+        "onboard_time": 1722926125,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409575,
+        "num": 409575,
+        "word": "马龙樊振东王楚钦最新训练画面",
+        "onboard_time": 1722927747,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 406778,
+        "num": 406778,
+        "word": "徐卓一 705分学体育的马继业",
+        "onboard_time": 1722920488,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 375961,
+        "num": 375961,
+        "word": "袁昊然",
+        "onboard_time": 1722929306,
+        "rank": 24,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 355793,
+        "num": 355793,
+        "word": "邓紫棋邀请郑钦文看她演唱会",
+        "onboard_time": 1722926785,
+        "rank": 25,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 40264,
+        "num": 355612,
+        "word": "原来降噪数值不一定越大越好",
+        "onboard_time": 1722926965,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 355612,
+        "num": 355611,
+        "word": "戴向宇从来不主动加人联系方式",
+        "onboard_time": 1722923664,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267742,
+        "num": 338943,
+        "word": "白蛇变巨蟒10秒硬控",
+        "onboard_time": 1722925525,
+        "rank": 28,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 39536,
+        "num": 331787,
+        "word": "特朗普被赠送印有遭枪击时刻照片的汽车",
+        "onboard_time": 1722929496,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330878,
+        "num": 330878,
+        "word": "王昶在台湾是真的火",
+        "onboard_time": 1722913823,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108936,
+        "num": 307763,
+        "word": "放高利贷1500万元年息高达2130%",
+        "onboard_time": 1722927624,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302722,
+        "num": 302722,
+        "word": "美国一奥运选手兴奋剂阳性",
+        "onboard_time": 1722916163,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 297407,
+        "num": 297407,
+        "word": "体育总局回应下属单位一干部不当言论",
+        "onboard_time": 1722928226,
+        "rank": 33,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 295098,
+        "num": 295098,
+        "word": "拒绝动物表演 但动物非要表演",
+        "onboard_time": 1722925225,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 291615,
+        "num": 291615,
+        "word": "潘展乐说这段采访先别播",
+        "onboard_time": 1722905604,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262099,
+        "num": 286020,
+        "word": "韩素希剪头发了",
+        "onboard_time": 1722925105,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283633,
+        "num": 283633,
+        "word": "一个节省习惯导致男子肾衰竭",
+        "onboard_time": 1722912802,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274963,
+        "num": 274963,
+        "word": "孙颖莎世排第一9000分",
+        "onboard_time": 1722907942,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250189,
+        "num": 250189,
+        "word": "华为新品发布会",
+        "onboard_time": 1722927864,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 245493,
+        "num": 245493,
+        "word": "很多癌症都是因为节省",
+        "onboard_time": 1722926845,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 239075,
+        "num": 239075,
+        "word": "西班牙17岁跳水选手颜值火出圈",
+        "onboard_time": 1722928045,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216088,
+        "num": 216088,
+        "word": "一诺和九尾合拍",
+        "onboard_time": 1722929545,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 215412,
+        "num": 215412,
+        "word": "一起为中国女排加油",
+        "onboard_time": 1722926426,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205369,
+        "num": 205369,
+        "word": "名侦探柯南新剧场版定档",
+        "onboard_time": 1722926606,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 60843,
+        "num": 199758,
+        "word": "中国队冷门项目今年为何频创佳绩",
+        "onboard_time": 1722927747,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194863,
+        "num": 194863,
+        "word": "这4个时刻洗澡是要命澡",
+        "onboard_time": 1722922527,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194366,
+        "num": 194366,
+        "word": "TFBOYS拍了西安行物料",
+        "onboard_time": 1722922046,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186542,
+        "num": 186542,
+        "word": "许仙退出窝囊赛道",
+        "onboard_time": 1722928945,
+        "rank": 48,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 184943,
+        "num": 184943,
+        "word": "国乒男团vs印度",
+        "onboard_time": 1722929666,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻文化根魂#"
+    }
+  }
+}

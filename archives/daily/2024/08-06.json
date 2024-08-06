@@ -1,6 +1,6 @@
 {
   "startTime": 1722875081704,
-  "endTime": 1722928778893,
+  "endTime": 1722929702191,
   "band_list": [
     {
       "raw_hot": 6408214,
@@ -35,8 +35,24 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 3465993,
-      "num": 3465993,
+      "raw_hot": 3789417,
+      "num": 3789417,
+      "word": "国家体育总局对袁某某开始调查",
+      "onboard_time": 1722928346,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3761419,
+      "num": 3761419,
+      "word": "这一球真脏啊",
+      "onboard_time": 1722927025,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3522450,
+      "num": 3522450,
       "word": "赵立坚",
       "onboard_time": 1722925766,
       "rank": 21,
@@ -115,14 +131,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 2166888,
-      "num": 2166888,
-      "word": "这一球真脏啊",
-      "onboard_time": 1722927025,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 2095891,
       "num": 2095891,
       "word": "四川俩姐弟失踪17天后发现弟弟遗体",
@@ -187,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1623114,
+      "num": 1623114,
+      "word": "戴向宇方声明",
+      "onboard_time": 1722928346,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1598206,
       "num": 1598206,
       "word": "全红婵陈芋汐10米台晋级决赛",
@@ -225,6 +241,14 @@
       "onboard_time": 1722922586,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1414037,
+      "num": 1414037,
+      "word": "中国女排vs土耳其女排",
+      "onboard_time": 1722926545,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 1326356,
@@ -339,14 +363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1018384,
-      "num": 1018384,
-      "word": "中国女排vs土耳其女排",
-      "onboard_time": 1722926545,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 987440,
       "num": 987440,
       "word": "男子每天久坐超6小时查出肠癌",
@@ -393,6 +409,14 @@
       "onboard_time": 1722869430,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 861863,
+      "num": 861863,
+      "word": "国家体育局回应袁某某言论",
+      "onboard_time": 1722928764,
+      "rank": 13,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 845946,
@@ -443,12 +467,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 746641,
-      "num": 746641,
-      "word": "国家体育总局对袁某某开始调查",
-      "onboard_time": 1722928346,
-      "rank": 14,
-      "category": "体育"
+      "raw_hot": 644347,
+      "num": 644347,
+      "word": "大聪和臭丫头",
+      "onboard_time": 1722926606,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 638798,
@@ -481,14 +505,6 @@
       "onboard_time": 1722902121,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 608812,
-      "num": 608812,
-      "word": "戴向宇方声明",
-      "onboard_time": 1722928346,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 605284,
@@ -547,14 +563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 552748,
-      "num": 552748,
-      "word": "大聪和臭丫头",
-      "onboard_time": 1722926606,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 550131,
       "num": 550131,
       "word": "孙颖莎说团体第一场发挥正常",
@@ -593,6 +601,14 @@
       "onboard_time": 1722919650,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 490924,
+      "num": 490924,
+      "word": "夏天余额仅剩一天",
+      "onboard_time": 1722926125,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 466727,
@@ -699,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 409575,
+      "num": 409575,
+      "word": "马龙樊振东王楚钦最新训练画面",
+      "onboard_time": 1722927747,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 409095,
       "num": 392613,
       "word": "潘展乐回应乐乐家族",
@@ -729,14 +753,6 @@
       "onboard_time": 1722916704,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 403525,
-      "num": 403525,
-      "word": "夏天余额仅剩一天",
-      "onboard_time": 1722926125,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 400253,
@@ -777,6 +793,14 @@
       "onboard_time": 1722908482,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 375961,
+      "num": 375961,
+      "word": "袁昊然",
+      "onboard_time": 1722929306,
+      "rank": 24,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 375747,
@@ -843,20 +867,20 @@
       "category": "演出,体育"
     },
     {
+      "raw_hot": 356262,
+      "num": 647312,
+      "word": "庆余年3",
+      "onboard_time": 1722927504,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 346522,
       "num": 346522,
       "word": "张博恒体操男子单杠铜牌",
       "onboard_time": 1722860911,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 340987,
-      "num": 340987,
-      "word": "庆余年3",
-      "onboard_time": 1722927504,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 340111,
@@ -987,8 +1011,16 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 297407,
+      "num": 297407,
+      "word": "体育总局回应下属单位一干部不当言论",
+      "onboard_time": 1722928226,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 296155,
-      "num": 296155,
+      "num": 338943,
       "word": "白蛇变巨蟒10秒硬控",
       "onboard_time": 1722925525,
       "rank": 45,
@@ -1083,28 +1115,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 279892,
-      "num": 279892,
-      "word": "马龙樊振东王楚钦最新训练画面",
-      "onboard_time": 1722927747,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 279738,
       "num": 444272,
       "word": "何炅谢娜去张杰演唱会",
       "onboard_time": 1722901760,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 274654,
-      "num": 274654,
-      "word": "体育总局回应下属单位一干部不当言论",
-      "onboard_time": 1722928226,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 272649,
@@ -1283,6 +1299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245493,
+      "num": 245493,
+      "word": "很多癌症都是因为节省",
+      "onboard_time": 1722926845,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 245482,
       "num": 868750,
       "word": "男子干外卖偷外卖干快递偷快递",
@@ -1307,12 +1331,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 238586,
-      "num": 238586,
-      "word": "很多癌症都是因为节省",
-      "onboard_time": 1722926845,
-      "rank": 37,
-      "category": "健康医疗"
+      "raw_hot": 239075,
+      "num": 239075,
+      "word": "西班牙17岁跳水选手颜值火出圈",
+      "onboard_time": 1722928045,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 236741,
@@ -1419,11 +1443,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 217414,
-      "num": 217414,
-      "word": "西班牙17岁跳水选手颜值火出圈",
-      "onboard_time": 1722928045,
-      "rank": 39,
+      "raw_hot": 216088,
+      "num": 216088,
+      "word": "一诺和九尾合拍",
+      "onboard_time": 1722929545,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 215412,
+      "num": 215412,
+      "word": "一起为中国女排加油",
+      "onboard_time": 1722926426,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -1433,14 +1465,6 @@
       "onboard_time": 1722902242,
       "rank": 34,
       "category": "美食"
-    },
-    {
-      "raw_hot": 214237,
-      "num": 214237,
-      "word": "一起为中国女排加油",
-      "onboard_time": 1722926426,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 213031,
@@ -1513,6 +1537,14 @@
       "onboard_time": 1722906862,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205369,
+      "num": 205369,
+      "word": "名侦探柯南新剧场版定档",
+      "onboard_time": 1722926606,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 203421,
@@ -1707,12 +1739,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 187643,
-      "num": 187643,
-      "word": "名侦探柯南新剧场版定档",
-      "onboard_time": 1722926606,
-      "rank": 49,
-      "category": "电影"
+      "raw_hot": 186542,
+      "num": 186542,
+      "word": "许仙退出窝囊赛道",
+      "onboard_time": 1722928945,
+      "rank": 48,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 186328,
@@ -1724,7 +1756,7 @@
     },
     {
       "raw_hot": 186323,
-      "num": 2215441,
+      "num": 3623925,
       "word": "40秒穿越40年致敬传承",
       "onboard_time": 1722906623,
       "rank": 47,
@@ -1736,6 +1768,14 @@
       "word": "张军说国羽表现刚刚及格",
       "onboard_time": 1722877338,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 184943,
+      "num": 184943,
+      "word": "国乒男团vs印度",
+      "onboard_time": 1722929666,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -1971,6 +2011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108936,
+      "num": 1169546,
+      "word": "放高利贷1500万元年息高达2130%",
+      "onboard_time": 1722927624,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106947,
       "num": 273951,
       "word": "张杰出道二十周年",
@@ -2115,12 +2163,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 61550,
-      "num": 1169546,
-      "word": "放高利贷1500万元年息高达2130%",
-      "onboard_time": 1722927624,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 60843,
+      "num": 554014,
+      "word": "中国队冷门项目今年为何频创佳绩",
+      "onboard_time": 1722927747,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 59496,
@@ -2161,14 +2209,6 @@
       "onboard_time": 1722922165,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 50200,
-      "num": 554014,
-      "word": "中国队冷门项目今年为何频创佳绩",
-      "onboard_time": 1722927747,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 48362,
@@ -2227,6 +2267,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 42637,
+      "num": 1138112,
+      "word": "女子饭店门口躲雨撞破头索赔遭拒",
+      "onboard_time": 1722929426,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42634,
       "num": 1179197,
       "word": "以色列防长要求准备好快速转向进攻",
@@ -2243,12 +2291,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 39709,
-      "num": 333954,
+      "raw_hot": 40264,
+      "num": 355612,
       "word": "原来降噪数值不一定越大越好",
       "onboard_time": 1722926965,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 39536,
+      "num": 331787,
+      "word": "特朗普被赠送印有遭枪击时刻照片的汽车",
+      "onboard_time": 1722929496,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 38671,
