@@ -1,6 +1,6 @@
 {
   "startTime": 1722875081704,
-  "endTime": 1722926531430,
+  "endTime": 1722928778893,
   "band_list": [
     {
       "raw_hot": 6408214,
@@ -27,12 +27,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 3881049,
-      "num": 3881049,
+      "raw_hot": 4044603,
+      "num": 4044603,
       "word": "李纯公开与马頔恋情",
       "onboard_time": 1722925105,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3465993,
+      "num": 3465993,
+      "word": "赵立坚",
+      "onboard_time": 1722925766,
+      "rank": 21,
+      "category": "国内时政"
     },
     {
       "raw_hot": 3073263,
@@ -107,6 +115,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 2166888,
+      "num": 2166888,
+      "word": "这一球真脏啊",
+      "onboard_time": 1722927025,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2095891,
       "num": 2095891,
       "word": "四川俩姐弟失踪17天后发现弟弟遗体",
@@ -148,7 +164,7 @@
     },
     {
       "raw_hot": 1802058,
-      "num": 1143668,
+      "num": 1557797,
       "word": "戴向宇上线未回应",
       "onboard_time": 1722925105,
       "rank": 10,
@@ -225,6 +241,14 @@
       "onboard_time": 1722919710,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1269065,
+      "num": 1269065,
+      "word": "洗衣机用了2年没放过洗衣液",
+      "onboard_time": 1722923905,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1214026,
@@ -315,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1018384,
+      "num": 1018384,
+      "word": "中国女排vs土耳其女排",
+      "onboard_time": 1722926545,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 987440,
       "num": 987440,
       "word": "男子每天久坐超6小时查出肠癌",
@@ -379,11 +411,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 840318,
-      "num": 840318,
-      "word": "洗衣机用了2年没放过洗衣液",
-      "onboard_time": 1722923905,
-      "rank": 16,
+      "raw_hot": 834683,
+      "num": 1148011,
+      "word": "科目二考试自动挡车辆竟然中途熄火",
+      "onboard_time": 1722921626,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -408,6 +440,14 @@
       "word": "潘展乐孙杨没有微信",
       "onboard_time": 1722874522,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 746641,
+      "num": 746641,
+      "word": "国家体育总局对袁某某开始调查",
+      "onboard_time": 1722928346,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -441,6 +481,14 @@
       "onboard_time": 1722902121,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 608812,
+      "num": 608812,
+      "word": "戴向宇方声明",
+      "onboard_time": 1722928346,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 605284,
@@ -499,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 552748,
+      "num": 552748,
+      "word": "大聪和臭丫头",
+      "onboard_time": 1722926606,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 550131,
       "num": 550131,
       "word": "孙颖莎说团体第一场发挥正常",
@@ -547,14 +603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 466359,
-      "num": 1148011,
-      "word": "科目二考试自动挡车辆竟然中途熄火",
-      "onboard_time": 1722921626,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 452866,
       "num": 452866,
       "word": "陈芋汐吃牛角包采访",
@@ -593,14 +641,6 @@
       "onboard_time": 1722872005,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 443501,
-      "num": 443501,
-      "word": "赵立坚",
-      "onboard_time": 1722925766,
-      "rank": 21,
-      "category": "国内时政"
     },
     {
       "raw_hot": 441811,
@@ -689,6 +729,14 @@
       "onboard_time": 1722916704,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 403525,
+      "num": 403525,
+      "word": "夏天余额仅剩一天",
+      "onboard_time": 1722926125,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 400253,
@@ -787,12 +835,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 358878,
+      "num": 358878,
+      "word": "邓紫棋邀请郑钦文看她演唱会",
+      "onboard_time": 1722926785,
+      "rank": 26,
+      "category": "演出,体育"
+    },
+    {
       "raw_hot": 346522,
       "num": 346522,
       "word": "张博恒体操男子单杠铜牌",
       "onboard_time": 1722860911,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 340987,
+      "num": 340987,
+      "word": "庆余年3",
+      "onboard_time": 1722927504,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 340111,
@@ -809,6 +873,14 @@
       "onboard_time": 1722910641,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 328924,
+      "num": 328924,
+      "word": "华为新品发布会",
+      "onboard_time": 1722927864,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 328322,
@@ -915,6 +987,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 296155,
+      "num": 296155,
+      "word": "白蛇变巨蟒10秒硬控",
+      "onboard_time": 1722925525,
+      "rank": 45,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 293839,
       "num": 441686,
       "word": "王源雾中顶胯",
@@ -1003,12 +1083,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 279892,
+      "num": 279892,
+      "word": "马龙樊振东王楚钦最新训练画面",
+      "onboard_time": 1722927747,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 279738,
       "num": 444272,
       "word": "何炅谢娜去张杰演唱会",
       "onboard_time": 1722901760,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 274654,
+      "num": 274654,
+      "word": "体育总局回应下属单位一干部不当言论",
+      "onboard_time": 1722928226,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 272649,
@@ -1203,20 +1299,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 242995,
-      "num": 242995,
-      "word": "白蛇变巨蟒10秒硬控",
-      "onboard_time": 1722925525,
-      "rank": 45,
-      "category": "电影,动漫"
-    },
-    {
       "raw_hot": 241365,
       "num": 241365,
       "word": "2024国际乒联第32周排名",
       "onboard_time": 1722915383,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 238586,
+      "num": 238586,
+      "word": "很多癌症都是因为节省",
+      "onboard_time": 1722926845,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 236741,
@@ -1323,12 +1419,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217414,
+      "num": 217414,
+      "word": "西班牙17岁跳水选手颜值火出圈",
+      "onboard_time": 1722928045,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 214383,
       "num": 255028,
       "word": "蛋糕圈已经卷成这样了吗",
       "onboard_time": 1722902242,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 214237,
+      "num": 214237,
+      "word": "一起为中国女排加油",
+      "onboard_time": 1722926426,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 213031,
@@ -1523,20 +1635,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 193638,
-      "num": 193638,
-      "word": "夏天余额仅剩一天",
-      "onboard_time": 1722926125,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 193575,
       "num": 308605,
       "word": "UNIQ祝王一博生日快乐",
       "onboard_time": 1722870028,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192430,
+      "num": 192430,
+      "word": "成都世运会吉祥物亮相",
+      "onboard_time": 1722927146,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 192178,
+      "num": 192178,
+      "word": "广州芳村又一金融茶暴雷",
+      "onboard_time": 1722928465,
+      "rank": 46,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 191357,
@@ -1587,12 +1707,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 187483,
-      "num": 187483,
-      "word": "一起为中国女排加油",
-      "onboard_time": 1722926426,
-      "rank": 46,
-      "category": "体育"
+      "raw_hot": 187643,
+      "num": 187643,
+      "word": "名侦探柯南新剧场版定档",
+      "onboard_time": 1722926606,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 186328,
@@ -1604,7 +1724,7 @@
     },
     {
       "raw_hot": 186323,
-      "num": 1951175,
+      "num": 2215441,
       "word": "40秒穿越40年致敬传承",
       "onboard_time": 1722906623,
       "rank": 47,
@@ -1995,6 +2115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61550,
+      "num": 1169546,
+      "word": "放高利贷1500万元年息高达2130%",
+      "onboard_time": 1722927624,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59496,
       "num": 1212565,
       "word": "这就是团队精神",
@@ -2033,6 +2161,14 @@
       "onboard_time": 1722922165,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 50200,
+      "num": 554014,
+      "word": "中国队冷门项目今年为何频创佳绩",
+      "onboard_time": 1722927747,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 48362,
@@ -2105,6 +2241,14 @@
       "onboard_time": 1722909743,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39709,
+      "num": 333954,
+      "word": "原来降噪数值不一定越大越好",
+      "onboard_time": 1722926965,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 38671,
