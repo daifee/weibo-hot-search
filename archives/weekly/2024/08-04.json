@@ -1,6 +1,6 @@
 {
   "startTime": 1722702313981,
-  "endTime": 1723040332676,
+  "endTime": 1723041424182,
   "band_list": [
     {
       "raw_hot": 35169209,
@@ -763,6 +763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3229038,
+      "num": 3229038,
+      "word": "吴艳妮复活赛又进死亡之组",
+      "onboard_time": 1723038565,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3207150,
       "num": 3207150,
       "word": "羽毛球男双颁奖",
@@ -1395,14 +1403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2246959,
-      "num": 2246959,
-      "word": "吴艳妮复活赛又进死亡之组",
-      "onboard_time": 1723038565,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
       "raw_hot": 2219342,
       "num": 2219342,
       "word": "赵立坚辟谣妻子治癌个人支付300元",
@@ -1448,6 +1448,14 @@
       "word": "张本智和看了都要偷偷保存的人生照片",
       "onboard_time": 1723007903,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2129359,
+      "num": 2129359,
+      "word": "谁说双打不好看 梦鱼含泪打破",
+      "onboard_time": 1723039587,
+      "rank": 15,
       "category": "体育"
     },
     {
@@ -1723,6 +1731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1831380,
+      "num": 1831380,
+      "word": "举重男子61公斤级决赛",
+      "onboard_time": 1723035204,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1807958,
       "num": 846997,
       "word": "郑钦文 NIKE",
@@ -1969,6 +1985,14 @@
       "onboard_time": 1723033402,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1618067,
+      "num": 1618067,
+      "word": "王楚钦感谢教练让他出战第三场",
+      "onboard_time": 1723038384,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 1604396,
@@ -2228,7 +2252,7 @@
     },
     {
       "raw_hot": 1458556,
-      "num": 1458556,
+      "num": 1518802,
       "word": "种地吧第三季原班人马",
       "onboard_time": 1723030223,
       "rank": 11,
@@ -2376,14 +2400,6 @@
       "word": "樊振东今晚决赛加油",
       "onboard_time": 1722732864,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1384559,
-      "num": 1384559,
-      "word": "谁说双打不好看 梦鱼含泪打破",
-      "onboard_time": 1723039587,
-      "rank": 15,
       "category": "体育"
     },
     {
@@ -2587,6 +2603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1273756,
+      "num": 1273756,
+      "word": "孙颖莎 追分的神",
+      "onboard_time": 1723039708,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1269065,
       "num": 1269065,
       "word": "洗衣机用了2年没放过洗衣液",
@@ -2731,6 +2755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1182758,
+      "num": 1182758,
+      "word": "昌雅妮第二跳失误",
+      "onboard_time": 1723038204,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1182620,
       "num": 932202,
       "word": "马林跪地痛哭",
@@ -2752,14 +2784,6 @@
       "word": "何冰娇状态",
       "onboard_time": 1722759323,
       "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1169916,
-      "num": 1169916,
-      "word": "昌雅妮第二跳失误",
-      "onboard_time": 1723038204,
-      "rank": 17,
       "category": "体育"
     },
     {
@@ -3075,6 +3099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1034990,
+      "num": 1034990,
+      "word": "王曼昱vs简彤娟",
+      "onboard_time": 1723040247,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1034167,
       "num": 1837768,
       "word": "光渊 上线",
@@ -3224,14 +3256,6 @@
       "word": "张继科直播",
       "onboard_time": 1722788904,
       "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 983452,
-      "num": 983452,
-      "word": "举重男子61公斤级决赛",
-      "onboard_time": 1723035204,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -3675,14 +3699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 828898,
-      "num": 828898,
-      "word": "王楚钦感谢教练让他出战第三场",
-      "onboard_time": 1723038384,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 825947,
       "num": 1032840,
       "word": "她多无助才用叛逆保护自己",
@@ -3859,6 +3875,14 @@
       "category": "演出,体育"
     },
     {
+      "raw_hot": 749388,
+      "num": 439865,
+      "word": "国乒女团进4强",
+      "onboard_time": 1723041148,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 742150,
       "num": 656185,
       "word": "真的被王昶笑崩溃了",
@@ -3955,11 +3979,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 717690,
-      "num": 717690,
-      "word": "孙颖莎 追分的神",
-      "onboard_time": 1723039708,
-      "rank": 26,
+      "raw_hot": 709931,
+      "num": 435927,
+      "word": "李发彬抓举135公斤",
+      "onboard_time": 1723041026,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -4124,7 +4148,7 @@
     },
     {
       "raw_hot": 671523,
-      "num": 726299,
+      "num": 1183911,
       "word": "好超前的剧把吸毒变丧尸拍出来了",
       "onboard_time": 1723032861,
       "rank": 34,
@@ -4411,6 +4435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 608957,
+      "num": 1491679,
+      "word": "国羽组团看张杰演唱会",
+      "onboard_time": 1723036288,
+      "rank": 19,
+      "category": "演出,体育"
+    },
+    {
       "raw_hot": 607607,
       "num": 906774,
       "word": "李闽轩删除艺考事件道歉视频",
@@ -4601,14 +4633,6 @@
       "onboard_time": 1722845670,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 569797,
-      "num": 1152266,
-      "word": "国羽组团看张杰演唱会",
-      "onboard_time": 1723036288,
-      "rank": 19,
-      "category": "演出,体育"
     },
     {
       "raw_hot": 569045,
@@ -5195,6 +5219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 486867,
+      "num": 294078,
+      "word": "鳗鱼好帅",
+      "onboard_time": 1723041026,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 485539,
       "num": 485539,
       "word": "弗雷泽退赛",
@@ -5275,20 +5307,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 474971,
+      "num": 864900,
+      "word": "徐锦江复出",
+      "onboard_time": 1723038626,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 474553,
       "num": 474553,
       "word": "樊振东是食堂固定刷新NPC吗",
       "onboard_time": 1722953925,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 473569,
-      "num": 532404,
-      "word": "徐锦江复出",
-      "onboard_time": 1723038626,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 472375,
@@ -5331,6 +5363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 467543,
+      "num": 456711,
+      "word": "女子单人三米板预赛",
+      "onboard_time": 1723035505,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 467140,
       "num": 467140,
       "word": "立秋文案",
@@ -5361,6 +5401,14 @@
       "onboard_time": 1722963200,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 465905,
+      "num": 532276,
+      "word": "张杰唱了运动员们点的歌",
+      "onboard_time": 1723038204,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 465624,
@@ -5416,14 +5464,6 @@
       "word": "中国队第22金",
       "onboard_time": 1722953493,
       "rank": 7,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 456711,
-      "num": 456711,
-      "word": "女子单人三米板预赛",
-      "onboard_time": 1723035505,
-      "rank": 35,
       "category": "体育"
     },
     {
@@ -5537,14 +5577,6 @@
       "onboard_time": 1722762865,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 449941,
-      "num": 532276,
-      "word": "张杰唱了运动员们点的歌",
-      "onboard_time": 1723038204,
-      "rank": 33,
-      "category": "音乐"
     },
     {
       "raw_hot": 449781,
@@ -6067,14 +6099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 404008,
-      "num": 404008,
-      "word": "王曼昱vs简彤娟",
-      "onboard_time": 1723040247,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 403449,
       "num": 403449,
       "word": "邹敬园掌管双杠的神",
@@ -6401,6 +6425,14 @@
       "onboard_time": 1722916584,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 374743,
+      "num": 1486462,
+      "word": "美国申诉夺铜后气炸罗马尼亚",
+      "onboard_time": 1723040606,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 374742,
@@ -7531,6 +7563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 303470,
+      "num": 292910,
+      "word": "刘亦菲彭冠英同框",
+      "onboard_time": 1723040486,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 303328,
       "num": 325208,
       "word": "民警和女友Citywalk抓了个嫌疑人",
@@ -7769,6 +7809,14 @@
       "onboard_time": 1722751404,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 286819,
+      "num": 286819,
+      "word": "杨幂蓝色衬衫搭黑裤",
+      "onboard_time": 1723039947,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 286474,
@@ -8635,14 +8683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 249615,
-      "num": 282907,
-      "word": "杨幂蓝色衬衫搭黑裤",
-      "onboard_time": 1723039947,
-      "rank": 48,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 249505,
       "num": 139357,
       "word": "余依婷200米混合泳第四",
@@ -9491,6 +9531,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 212986,
+      "num": 2180948,
+      "word": "巴黎奥运赛场上的中国突破",
+      "onboard_time": 1723037424,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212942,
       "num": 270952,
       "word": "娜扎 美人鱼女王",
@@ -10057,14 +10105,6 @@
       "onboard_time": 1722836063,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 197370,
-      "num": 2180948,
-      "word": "巴黎奥运赛场上的中国突破",
-      "onboard_time": 1723037424,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 197058,
@@ -11267,6 +11307,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 148753,
+      "num": 1586649,
+      "word": "员工吐槽老板违法吗",
+      "onboard_time": 1723039226,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148268,
       "num": 223176,
       "word": "奥运会上最优雅的项目",
@@ -11449,6 +11497,14 @@
       "onboard_time": 1722985819,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135053,
+      "num": 1496521,
+      "word": "官方通报小伙地铁内遭老人殴打",
+      "onboard_time": 1723041086,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134051,
@@ -12475,14 +12531,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 62138,
-      "num": 1586649,
-      "word": "员工吐槽老板违法吗",
-      "onboard_time": 1723039226,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 62016,
       "num": 135641,
       "word": "2024LPL夏季赛",
@@ -13385,6 +13433,14 @@
       "onboard_time": 1722771089,
       "rank": 42,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 11146,
+      "num": 293405,
+      "word": "肖战不愧是艺术生",
+      "onboard_time": 1723041266,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 8467,
