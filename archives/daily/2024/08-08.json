@@ -1,6 +1,6 @@
 {
   "startTime": 1723047937015,
-  "endTime": 1723048948829,
+  "endTime": 1723051238770,
   "band_list": [
     {
       "raw_hot": 3294635,
@@ -67,6 +67,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1027228,
+      "num": 1027228,
+      "word": "徐卓一秦伟搏110米栏半决赛",
+      "onboard_time": 1723048940,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 649572,
       "num": 649572,
       "word": "与金牌仅差0.08秒",
@@ -97,6 +105,14 @@
       "onboard_time": 1723043723,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 519027,
+      "num": 519027,
+      "word": "莎莎给自己做了条小裙子",
+      "onboard_time": 1723046362,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 509218,
@@ -137,6 +153,14 @@
       "onboard_time": 1723022844,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 469865,
+      "num": 469865,
+      "word": "以为宋小宝去举重了",
+      "onboard_time": 1723047200,
+      "rank": 14,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 465990,
@@ -184,14 +208,6 @@
       "word": "林钟勋说中国注册球员比韩国人还多",
       "onboard_time": 1723043545,
       "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 372672,
-      "num": 267389,
-      "word": "莎莎给自己做了条小裙子",
-      "onboard_time": 1723046362,
-      "rank": 43,
       "category": "体育"
     },
     {
@@ -249,6 +265,14 @@
       "onboard_time": 1723016842,
       "rank": 37,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 283985,
+      "num": 220379,
+      "word": "查尔莫斯转发潘展乐澄清视频",
+      "onboard_time": 1723048818,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 282278,
@@ -339,14 +363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 258203,
-      "num": 465677,
-      "word": "以为宋小宝去举重了",
-      "onboard_time": 1723047200,
-      "rank": 14,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 243445,
       "num": 243445,
       "word": "李雪琴带男友与朋友聚餐",
@@ -379,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199149,
+      "num": 434540,
+      "word": "中国女曲vs比利时女曲",
+      "onboard_time": 1723049839,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192626,
       "num": 192626,
       "word": "戴向宇回应张昊唯道歉",
@@ -387,11 +411,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190294,
-      "num": 190294,
-      "word": "查尔莫斯转发潘展乐澄清视频",
-      "onboard_time": 1723048818,
-      "rank": 44,
+      "raw_hot": 192185,
+      "num": 503009,
+      "word": "男子110米栏半决赛",
+      "onboard_time": 1723048281,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 187387,
+      "num": 187387,
+      "word": "徐卓一跨栏时眼镜为何不会掉",
+      "onboard_time": 1723050678,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -411,11 +443,35 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159516,
+      "num": 159516,
+      "word": "孙颖莎vs郑怡静",
+      "onboard_time": 1723038024,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 131778,
+      "num": 131778,
+      "word": "波兰男排vs美国男排",
+      "onboard_time": 1723049240,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118652,
       "num": 1422520,
       "word": "巴黎奥运赛场上的中国突破",
       "onboard_time": 1723037424,
       "rank": 2,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 116863,
+      "num": 116863,
+      "word": "孙颖莎3比0战胜郑怡静",
+      "onboard_time": 1723039526,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -427,12 +483,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 89263,
-      "num": 503009,
-      "word": "男子110米栏半决赛",
-      "onboard_time": 1723048281,
-      "rank": 9,
-      "category": "体育"
+      "raw_hot": 102623,
+      "num": 555031,
+      "word": "犯罪记录如何消除",
+      "onboard_time": 1723045882,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 63870,
@@ -443,10 +499,10 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34984,
-      "num": 555031,
-      "word": "犯罪记录如何消除",
-      "onboard_time": 1723045882,
+      "raw_hot": 23983,
+      "num": 467795,
+      "word": "英国大骚乱因为什么发生的",
+      "onboard_time": 1723050617,
       "rank": 8,
       "category": "社会新闻"
     }
