@@ -1,6 +1,6 @@
 {
   "startTime": 1722961504263,
-  "endTime": 1723016209333,
+  "endTime": 1723019099827,
   "band_list": [
     {
       "raw_hot": 4709061,
@@ -51,6 +51,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2760923,
+      "num": 2760923,
+      "word": "女子100米栏预赛",
+      "onboard_time": 1723018102,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2629475,
       "num": 2629475,
       "word": "张家齐 惋惜",
@@ -91,12 +99,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2283089,
+      "num": 2283089,
+      "word": "张本智和一觉醒来 天亮了",
+      "onboard_time": 1723013303,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2254190,
       "num": 2254190,
       "word": "乒乓女单赛后网民发诋毁信息被刑拘",
       "onboard_time": 1722955352,
       "rank": 6,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 2250979,
+      "num": 2250979,
+      "word": "吴艳妮奥运首秀进入死亡之组",
+      "onboard_time": 1723009402,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 2144782,
@@ -113,6 +137,14 @@
       "onboard_time": 1722999621,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2054698,
+      "num": 2054698,
+      "word": "国乒男团vs韩国",
+      "onboard_time": 1723015822,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 1994346,
@@ -136,14 +168,6 @@
       "word": "全红婵大哥回应直播带货引争议",
       "onboard_time": 1722968234,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1885546,
-      "num": 1885546,
-      "word": "吴艳妮奥运首秀进入死亡之组",
-      "onboard_time": 1723009402,
-      "rank": 3,
       "category": "体育"
     },
     {
@@ -331,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1010491,
+      "num": 1010491,
+      "word": "马龙王楚钦vs赵大成张禹珍",
+      "onboard_time": 1723018582,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 993992,
       "num": 993992,
       "word": "王皓小儿子喜欢王楚钦",
@@ -355,6 +387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 974528,
+      "num": 974528,
+      "word": "云南一村民遭气象炮弹砸中截肢",
+      "onboard_time": 1723014443,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 963985,
       "num": 445475,
       "word": "游泳队是人均扁平足吗",
@@ -377,6 +417,14 @@
       "onboard_time": 1722999621,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 934393,
+      "num": 934393,
+      "word": "游泳队在水下喝上了桶装水",
+      "onboard_time": 1723016842,
+      "rank": 11,
+      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 923379,
@@ -483,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 824478,
+      "num": 824478,
+      "word": "陈芋汐是启蒙教练从体操队抢到的",
+      "onboard_time": 1723012643,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 779398,
       "num": 226003,
       "word": "林昀儒3比2张本智和",
@@ -491,8 +547,24 @@
       "category": "体育"
     },
     {
+      "raw_hot": 775791,
+      "num": 976123,
+      "word": "吴艳妮小组第6",
+      "onboard_time": 1723019003,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 772314,
+      "num": 401753,
+      "word": "杨幂又听到张艺凡说啥了",
+      "onboard_time": 1723014623,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 732129,
-      "num": 732129,
+      "num": 745572,
       "word": "沈腾首部黑帮犯罪片定档",
       "onboard_time": 1723010241,
       "rank": 14,
@@ -507,11 +579,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 705578,
-      "num": 705578,
-      "word": "张本智和一觉醒来 天亮了",
-      "onboard_time": 1723013303,
-      "rank": 19,
+      "raw_hot": 699418,
+      "num": 699418,
+      "word": "梁王机场接机",
+      "onboard_time": 1723015343,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -520,6 +592,14 @@
       "word": "立秋不是真正的入秋",
       "onboard_time": 1722992124,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 682366,
+      "num": 804702,
+      "word": "医院通报疑护士出轨致丈夫自杀",
+      "onboard_time": 1723017563,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -587,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 549898,
+      "num": 549898,
+      "word": "汪顺水下科目三",
+      "onboard_time": 1723013183,
+      "rank": 22,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 549797,
       "num": 549797,
       "word": "曹利国摔跤银牌",
@@ -643,12 +731,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 469905,
-      "num": 469905,
-      "word": "云南一村民遭气象炮弹砸中截肢",
-      "onboard_time": 1723014443,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 468108,
+      "num": 468108,
+      "word": "樊振东 有自己的防晒方式",
+      "onboard_time": 1723015222,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 467140,
@@ -675,14 +763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 446070,
-      "num": 374678,
-      "word": "杨幂又听到张艺凡说啥了",
-      "onboard_time": 1723014623,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 443012,
       "num": 443012,
       "word": "BBC解说被全红婵夺冠五连跳惊呆",
@@ -696,14 +776,6 @@
       "word": "杨文璐拳击银牌",
       "onboard_time": 1722980592,
       "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 425886,
-      "num": 425886,
-      "word": "陈芋汐是启蒙教练从体操队抢到的",
-      "onboard_time": 1723012643,
-      "rank": 39,
       "category": "体育"
     },
     {
@@ -721,14 +793,6 @@
       "onboard_time": 1722999201,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 412912,
-      "num": 412912,
-      "word": "梁王机场接机",
-      "onboard_time": 1723015343,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 410340,
@@ -755,6 +819,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 388917,
+      "num": 388917,
+      "word": "乌克兰睡美人斥责中立运动员",
+      "onboard_time": 1723018522,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 387353,
       "num": 387353,
       "word": "陈芋汐比赛前还是生理期",
@@ -779,14 +851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 376711,
-      "num": 376711,
-      "word": "汪顺水下科目三",
-      "onboard_time": 1723013183,
-      "rank": 22,
-      "category": "体育,作品衍生"
-    },
-    {
       "raw_hot": 374641,
       "num": 533595,
       "word": "奥运历史首个单项五连冠",
@@ -809,14 +873,6 @@
       "onboard_time": 1723008622,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 371696,
-      "num": 371696,
-      "word": "樊振东 有自己的防晒方式",
-      "onboard_time": 1723015222,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 368693,
@@ -883,6 +939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 341531,
+      "num": 341531,
+      "word": "王昶回应粉丝接机",
+      "onboard_time": 1723016181,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 335480,
       "num": 218439,
       "word": "樊振东是食堂固定刷新NPC吗",
@@ -920,6 +984,14 @@
       "word": "樊振东说今天失误有点多",
       "onboard_time": 1722947125,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 316816,
+      "num": 316816,
+      "word": "张俊 罚时",
+      "onboard_time": 1723016242,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -969,6 +1041,14 @@
       "onboard_time": 1723012764,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 301976,
+      "num": 301976,
+      "word": "吴艳妮至少可亮相2次",
+      "onboard_time": 1723014262,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 300999,
@@ -1155,6 +1235,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 254209,
+      "num": 318501,
+      "word": "光渊 上线",
+      "onboard_time": 1723018881,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 251432,
+      "num": 841712,
+      "word": "老板称花几千万买房被停水电两三年",
+      "onboard_time": 1723015822,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248958,
       "num": 248958,
       "word": "查理苏崇山覆海",
@@ -1224,6 +1320,22 @@
       "word": "汪顺视角感受奥运村内生活",
       "onboard_time": 1722997100,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 237470,
+      "num": 425483,
+      "word": "朱一龙好瘦",
+      "onboard_time": 1723016962,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 237463,
+      "num": 237463,
+      "word": "全红婵夺冠后弟弟哭了",
+      "onboard_time": 1723016002,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -1307,6 +1419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226323,
+      "num": 226323,
+      "word": "体操队回国",
+      "onboard_time": 1723017021,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 226304,
       "num": 207011,
       "word": "戴向宇发无犯罪记录证明",
@@ -1331,6 +1451,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 222388,
+      "num": 222388,
+      "word": "现场观众看到樊振东夺冠什么反应",
+      "onboard_time": 1723016902,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222169,
       "num": 222169,
       "word": "宜昌市政府奖励孙佳俊60万元",
@@ -1345,6 +1473,14 @@
       "onboard_time": 1722953007,
       "rank": 19,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 220274,
+      "num": 220274,
+      "word": "中韩男乒大战级别堪称提前的决赛",
+      "onboard_time": 1723018222,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 218828,
@@ -1363,12 +1499,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 214299,
-      "num": 214299,
-      "word": "全红婵夺冠后弟弟哭了",
-      "onboard_time": 1723016002,
-      "rank": 43,
-      "category": "体育"
+      "raw_hot": 215230,
+      "num": 404722,
+      "word": "水果化石",
+      "onboard_time": 1723017921,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 214109,
@@ -1443,6 +1579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201707,
+      "num": 201707,
+      "word": "王昶旅游要把梁伟铿一起带着",
+      "onboard_time": 1723018824,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201442,
       "num": 201442,
       "word": "吴艳妮曾说想拿国旗在紫色跑道拍照",
@@ -1465,6 +1609,14 @@
       "onboard_time": 1723015283,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198101,
+      "num": 198101,
+      "word": "温如也",
+      "onboard_time": 1723018702,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 198089,
@@ -1497,22 +1649,6 @@
       "onboard_time": 1722964756,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 193027,
-      "num": 193027,
-      "word": "吴艳妮至少可亮相2次",
-      "onboard_time": 1723014262,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 190344,
-      "num": 190344,
-      "word": "王昶回应粉丝接机",
-      "onboard_time": 1723016181,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 190042,
@@ -1795,14 +1931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 138100,
-      "num": 689851,
-      "word": "国乒男团vs韩国",
-      "onboard_time": 1723015822,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 135160,
       "num": 135160,
       "word": "樊振东邱祺缘欧钰珊合影",
@@ -1987,6 +2115,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 76292,
+      "num": 1329862,
+      "word": "古诗词中的秋日之美",
+      "onboard_time": 1723001183,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75809,
       "num": 2133018,
       "word": "今天已经立秋了",
@@ -2048,14 +2184,6 @@
       "word": "媒体评山东省属事业单位转企业",
       "onboard_time": 1723014023,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61334,
-      "num": 841712,
-      "word": "老板称花几千万买房被停水电两三年",
-      "onboard_time": 1723015822,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -2171,6 +2299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35792,
+      "num": 719758,
+      "word": "两眼一睁又爱上伍鹏",
+      "onboard_time": 1723018824,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34705,
       "num": 80406,
       "word": "汪苏泷演唱会郑州二开",
@@ -2187,19 +2323,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 32303,
-      "num": 1329862,
-      "word": "古诗词中的秋日之美",
-      "onboard_time": 1723001183,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30598,
       "num": 179019,
       "word": "深圳八卦岭房价6年大涨大跌",
       "onboard_time": 1722971233,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28898,
+      "num": 197459,
+      "word": "颐莲的00后员工开始上班了吗",
+      "onboard_time": 1723016484,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2211,12 +2347,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25660,
+      "num": 2434988,
+      "word": "中国59项世界遗产全名单",
+      "onboard_time": 1723019003,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22867,
       "num": 277880,
       "word": "刘宇宁唱苦情歌马上想到薛之谦",
       "onboard_time": 1723012883,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21999,
+      "num": 317048,
+      "word": "魏建军为何再三警示行业",
+      "onboard_time": 1723018761,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 21342,
