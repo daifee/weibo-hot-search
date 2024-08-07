@@ -1,0 +1,410 @@
+{
+  "runTime": 1723027087194,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10045615,
+        "num": 10045615,
+        "word": "王昶梁伟铿都有女朋友",
+        "onboard_time": 1723022844,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8239116,
+        "num": 8239116,
+        "word": "王楚钦vs张禹珍",
+        "onboard_time": 1723022725,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51079,
+        "num": 3686748,
+        "word": "中国59项世界遗产全名单",
+        "onboard_time": 1723019003,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2541804,
+        "num": 2541804,
+        "word": "吴艳妮小组第6",
+        "onboard_time": 1723019003,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2253613,
+        "num": 2253613,
+        "word": "王昶 别想了",
+        "onboard_time": 1723023625,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2048157,
+        "num": 2048157,
+        "word": "赵立坚辟谣妻子治癌个人支付300元",
+        "onboard_time": 1723024345,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1367257,
+        "num": 1367257,
+        "word": "国乒男团进四强",
+        "onboard_time": 1723026564,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1119472,
+        "num": 1352472,
+        "word": "歌手李栋旭结婚",
+        "onboard_time": 1723024045,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 873866,
+        "num": 1348315,
+        "word": "光渊首更30集",
+        "onboard_time": 1723024525,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382667,
+        "num": 1348205,
+        "word": "警方打击涉体育领域饭圈违法犯罪",
+        "onboard_time": 1723025666,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1348173,
+        "num": 1348173,
+        "word": "国乒男团3比0韩国",
+        "onboard_time": 1723025127,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1257029,
+        "num": 1257029,
+        "word": "王楚钦状态",
+        "onboard_time": 1723019546,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1119704,
+        "num": 1119704,
+        "word": "王楚钦拧拉",
+        "onboard_time": 1723024829,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 591370,
+        "num": 1097137,
+        "word": "医院通报疑护士出轨致丈夫自杀",
+        "onboard_time": 1723017563,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537859,
+        "num": 1095842,
+        "word": "光渊 上线",
+        "onboard_time": 1723018881,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1095434,
+        "num": 1095434,
+        "word": "吴艳妮给自己首秀打0分",
+        "onboard_time": 1723022906,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65322,
+        "num": 970537,
+        "word": "霸王茶姬获国际体育记者协会认证",
+        "onboard_time": 1723025966,
+        "rank": 16,
+        "category": "体育,财经"
+      },
+      {
+        "raw_hot": 964085,
+        "num": 964085,
+        "word": "马龙打球 赏心悦目",
+        "onboard_time": 1723019665,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 346682,
+        "num": 877856,
+        "word": "你直接报迪丽热巴身份证得了",
+        "onboard_time": 1723007242,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268514,
+        "num": 866410,
+        "word": "鞠婧祎金九封面",
+        "onboard_time": 1723023204,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1257380,
+        "num": 865813,
+        "word": "王丽坤 办离婚",
+        "onboard_time": 1723012404,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 863849,
+        "num": 863849,
+        "word": "游泳队在水下喝上了桶装水",
+        "onboard_time": 1723016842,
+        "rank": 21,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 660840,
+        "num": 660840,
+        "word": "许昕说对战韩国队是王楚钦自证的机会",
+        "onboard_time": 1723022305,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 658197,
+        "num": 658197,
+        "word": "樊振东vs林钟勋",
+        "onboard_time": 1723020385,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 508260,
+        "num": 508260,
+        "word": "马龙王楚钦vs赵大成张禹珍",
+        "onboard_time": 1723018582,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 470345,
+        "num": 470345,
+        "word": "马龙正手",
+        "onboard_time": 1723020505,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 444770,
+        "num": 444770,
+        "word": "吴艳妮奥运首秀进入死亡之组",
+        "onboard_time": 1723009402,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214088,
+        "num": 434261,
+        "word": "樱桃琥珀玩梗改名",
+        "onboard_time": 1723020624,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207319,
+        "num": 433353,
+        "word": "刘亚仁父亲去世",
+        "onboard_time": 1723022003,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71866,
+        "num": 432893,
+        "word": "哈马斯新领导人曾在以色列监狱度过23年",
+        "onboard_time": 1723027042,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 432813,
+        "num": 432813,
+        "word": "瑞典选手夺金后和队友打起来了",
+        "onboard_time": 1723022123,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 429019,
+        "num": 429019,
+        "word": "王楚钦3比1张禹珍",
+        "onboard_time": 1723025905,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 426045,
+        "num": 426045,
+        "word": "云南一村民遭气象炮弹砸中截肢",
+        "onboard_time": 1723014443,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412223,
+        "num": 412223,
+        "word": "韩林跺脚",
+        "onboard_time": 1723021883,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 408379,
+        "num": 408379,
+        "word": "不敢笑张本智和",
+        "onboard_time": 1723024770,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 399573,
+        "num": 399573,
+        "word": "王丽坤 已婚",
+        "onboard_time": 1723011502,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374025,
+        "num": 374025,
+        "word": "王宗源谢思埸晋级决赛",
+        "onboard_time": 1723026145,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 366771,
+        "num": 366771,
+        "word": "林雨薇小组第7",
+        "onboard_time": 1723020923,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 364455,
+        "num": 364455,
+        "word": "是不是只有樊振东吃食堂",
+        "onboard_time": 1723019184,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 363901,
+        "num": 363901,
+        "word": "樊振东有一点点的火气",
+        "onboard_time": 1723026803,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 350698,
+        "num": 350698,
+        "word": "真的被王昶笑崩溃了",
+        "onboard_time": 1723026443,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 346251,
+        "num": 346251,
+        "word": "英国已逮捕378名骚乱参与者",
+        "onboard_time": 1723008502,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 326736,
+        "num": 326736,
+        "word": "国乒男团vs韩国",
+        "onboard_time": 1723015822,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310629,
+        "num": 310629,
+        "word": "这哪是录取通知书明明是通知刀",
+        "onboard_time": 1723021463,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 284386,
+        "num": 284386,
+        "word": "马龙歪头",
+        "onboard_time": 1723025308,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275683,
+        "num": 275683,
+        "word": "吴艳妮进入复活赛",
+        "onboard_time": 1723019184,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252085,
+        "num": 275589,
+        "word": "疑似王丽坤老公涉案被抓",
+        "onboard_time": 1723011562,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234605,
+        "num": 274925,
+        "word": "杨幂又听到张艺凡说啥了",
+        "onboard_time": 1723014623,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217472,
+        "num": 273682,
+        "word": "兰陵王花木兰星元皮肤",
+        "onboard_time": 1723026084,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205932,
+        "num": 273449,
+        "word": "薛之谦抢票",
+        "onboard_time": 1723026625,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻文化根魂#"
+    }
+  }
+}
