@@ -1,10 +1,10 @@
 {
   "startTime": 1723047937015,
-  "endTime": 1723072779870,
+  "endTime": 1723073700917,
   "band_list": [
     {
-      "raw_hot": 5097900,
-      "num": 5097900,
+      "raw_hot": 5992722,
+      "num": 5992722,
       "word": "张本智和崩溃",
       "onboard_time": 1723070475,
       "rank": 0,
@@ -115,6 +115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 825242,
+      "num": 672393,
+      "word": "男子办公室侮辱女同事被辞索赔47万",
+      "onboard_time": 1723070595,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 819661,
       "num": 819661,
       "word": "侯志慧举重金牌",
@@ -179,20 +187,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 592818,
+      "num": 653137,
+      "word": "疑因妻子出轨同事自缢死者父亲发声",
+      "onboard_time": 1723033402,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 587486,
       "num": 462360,
       "word": "国乒女团进4强",
       "onboard_time": 1723041148,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 581819,
-      "num": 653137,
-      "word": "疑因妻子出轨同事自缢死者父亲发声",
-      "onboard_time": 1723033402,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 576799,
@@ -211,6 +219,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 572888,
+      "num": 572888,
+      "word": "陈梦王曼昱3比0陈思羽简彤娟",
+      "onboard_time": 1723038085,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 556879,
+      "num": 555647,
+      "word": "查尔莫斯转发潘展乐澄清视频",
+      "onboard_time": 1723048818,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 509218,
       "num": 397463,
       "word": "张博恒骨折的小拇指还没恢复",
@@ -224,14 +248,6 @@
       "word": "韩网对王皓教练的介绍",
       "onboard_time": 1723044625,
       "rank": 21,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 503580,
-      "num": 451809,
-      "word": "查尔莫斯转发潘展乐澄清视频",
-      "onboard_time": 1723048818,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -273,14 +289,6 @@
       "onboard_time": 1723047200,
       "rank": 14,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 465933,
-      "num": 465933,
-      "word": "陈梦王曼昱3比0陈思羽简彤娟",
-      "onboard_time": 1723038085,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 463632,
@@ -339,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 380865,
+      "num": 690046,
+      "word": "黄子韬给全红婵加油",
+      "onboard_time": 1723073549,
+      "rank": 7,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 377343,
       "num": 377343,
       "word": "林钟勋说中国注册球员比韩国人还多",
@@ -363,6 +379,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 330473,
+      "num": 330473,
+      "word": "中国花游队感谢跳水队",
+      "onboard_time": 1723072578,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 328129,
+      "num": 943454,
+      "word": "张纪中夫妇回应混血儿身世",
+      "onboard_time": 1723033883,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 320596,
       "num": 320596,
       "word": "中国举重队巴黎首金",
@@ -385,14 +417,6 @@
       "onboard_time": 1723041627,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 313638,
-      "num": 644441,
-      "word": "男子办公室侮辱女同事被辞索赔47万",
-      "onboard_time": 1723070595,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 302596,
@@ -425,14 +449,6 @@
       "onboard_time": 1723016842,
       "rank": 37,
       "category": "体育,作品衍生"
-    },
-    {
-      "raw_hot": 294815,
-      "num": 943454,
-      "word": "张纪中夫妇回应混血儿身世",
-      "onboard_time": 1723033883,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 282278,
@@ -515,20 +531,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 244400,
+      "num": 638584,
+      "word": "宋小宝恭喜李发彬夺得金牌",
+      "onboard_time": 1723057632,
+      "rank": 48,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 243445,
       "num": 243445,
       "word": "李雪琴带男友与朋友聚餐",
       "onboard_time": 1723033883,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 229974,
-      "num": 186822,
-      "word": "中国花游队感谢跳水队",
-      "onboard_time": 1723072578,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 228387,
@@ -579,16 +595,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193871,
-      "num": 638584,
-      "word": "宋小宝恭喜李发彬夺得金牌",
-      "onboard_time": 1723057632,
-      "rank": 48,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 192626,
-      "num": 192626,
+      "num": 399569,
       "word": "戴向宇回应张昊唯道歉",
       "onboard_time": 1723048281,
       "rank": 43,
@@ -619,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175940,
+      "num": 175940,
+      "word": "孙颖莎vs郑怡静",
+      "onboard_time": 1723038024,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172823,
       "num": 181911,
       "word": "蓝盈莹晒与刘亦菲合照",
@@ -635,16 +651,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 159516,
-      "num": 159516,
-      "word": "孙颖莎vs郑怡静",
-      "onboard_time": 1723038024,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 137613,
-      "num": 103865,
+      "num": 120821,
       "word": "举重男子61公斤级决赛",
       "onboard_time": 1723035204,
       "rank": 32,
@@ -771,6 +779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 59938,
+      "num": 399359,
+      "word": "中国第24金",
+      "onboard_time": 1723073058,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59568,
       "num": 59568,
       "word": "中国女曲16年后再进奥运决赛",
@@ -840,6 +856,14 @@
       "word": "卫健委回应医院疑让患者至少消费七千",
       "onboard_time": 1723053014,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19374,
+      "num": 687950,
+      "word": "八旬老人为三代人剃头十多年不涨价",
+      "onboard_time": 1723072879,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
