@@ -1,0 +1,410 @@
+{
+  "runTime": 1722998386094,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1850134,
+        "num": 1850134,
+        "word": "陈若琳把全红婵养得是真好啊",
+        "onboard_time": 1722986779,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1705768,
+        "num": 1705768,
+        "word": "吴艳妮巴黎奥运首秀",
+        "onboard_time": 1722992964,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12378,
+        "num": 1400728,
+        "word": "我国秋粮面积稳中有增",
+        "onboard_time": 1722950969,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1257709,
+        "num": 1257709,
+        "word": "光与夜之恋七夕卡面",
+        "onboard_time": 1722997100,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1062630,
+        "num": 1062630,
+        "word": "明星终于明白追星的感觉了",
+        "onboard_time": 1722993143,
+        "rank": 4,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 969183,
+        "num": 969183,
+        "word": "马龙的眼袋比眼睛还大",
+        "onboard_time": 1722989124,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 964347,
+        "num": 964347,
+        "word": "全红婵夺金后第一条消息发给陈艺文",
+        "onboard_time": 1722988281,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 501965,
+        "num": 913611,
+        "word": "林俊杰邓紫棋回关潘展乐",
+        "onboard_time": 1722995000,
+        "rank": 7,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 900920,
+        "num": 900920,
+        "word": "全红婵否认是天才都是一遍遍练的",
+        "onboard_time": 1722992544,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195012,
+        "num": 814028,
+        "word": "国家安全部通报一起故意通风报信案",
+        "onboard_time": 1722997401,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1030282,
+        "num": 810851,
+        "word": "王皓 好了没我的大小姐",
+        "onboard_time": 1722997461,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 803458,
+        "num": 803458,
+        "word": "光与夜之恋神卡",
+        "onboard_time": 1722990563,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 637191,
+        "num": 637191,
+        "word": "全红婵说这届金牌没那么重了",
+        "onboard_time": 1722996381,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 566213,
+        "num": 566213,
+        "word": "乒乓女单赛后网民发诋毁信息被刑拘",
+        "onboard_time": 1722955352,
+        "rank": 13,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 139626,
+        "num": 552080,
+        "word": "波尔谢幕",
+        "onboard_time": 1722997641,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 588388,
+        "num": 551729,
+        "word": "王昶用了王一博原声",
+        "onboard_time": 1722992843,
+        "rank": 15,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 548226,
+        "num": 548226,
+        "word": "郭晶晶见证全红婵夺冠",
+        "onboard_time": 1722991703,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225853,
+        "num": 542943,
+        "word": "刘昊然说脸红了没事别紫了就行",
+        "onboard_time": 1722963200,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204963,
+        "num": 537666,
+        "word": "张昊唯张艺兴合作过",
+        "onboard_time": 1722990744,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164358,
+        "num": 526173,
+        "word": "苍兰诀开播两周年",
+        "onboard_time": 1722988581,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 708797,
+        "num": 513282,
+        "word": "一不小心把导师的女儿给电了",
+        "onboard_time": 1722994886,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 692366,
+        "num": 504522,
+        "word": "立秋不是真正的入秋",
+        "onboard_time": 1722992124,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504377,
+        "num": 504377,
+        "word": "全红婵安慰哥哥",
+        "onboard_time": 1722985638,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 425073,
+        "num": 425073,
+        "word": "全红婵打破伏明霞纪录",
+        "onboard_time": 1722959544,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 401690,
+        "num": 401690,
+        "word": "立秋",
+        "onboard_time": 1722964337,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 370434,
+        "num": 370434,
+        "word": "全红婵发布会戴奥运五环眼镜",
+        "onboard_time": 1722997160,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355542,
+        "num": 355542,
+        "word": "全红婵陈芋汐抱抱",
+        "onboard_time": 1722953865,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352164,
+        "num": 352164,
+        "word": "陈紫函 我老公终于红了",
+        "onboard_time": 1722944604,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350019,
+        "num": 350019,
+        "word": "赵露思玩双杠",
+        "onboard_time": 1722993443,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196164,
+        "num": 344496,
+        "word": "张杰看谢娜拍别人求婚的眼神",
+        "onboard_time": 1722991583,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 342306,
+        "num": 342306,
+        "word": "恋与深空进不去",
+        "onboard_time": 1722996502,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 332901,
+        "num": 332901,
+        "word": "全红婵大哥回应直播带货引争议",
+        "onboard_time": 1722968234,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306200,
+        "num": 306200,
+        "word": "法国花游吓一跳",
+        "onboard_time": 1722968774,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305546,
+        "num": 305546,
+        "word": "立秋文案",
+        "onboard_time": 1722986660,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298824,
+        "num": 298824,
+        "word": "举报人回应县领导冒名顶替自己上学",
+        "onboard_time": 1722988761,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298265,
+        "num": 298265,
+        "word": "文科危机真的来了吗",
+        "onboard_time": 1722997281,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297317,
+        "num": 297317,
+        "word": "美国选手的兴奋剂疑点不能不了了之",
+        "onboard_time": 1722995720,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 294733,
+        "num": 294733,
+        "word": "潘展乐让大家少关注自己一些",
+        "onboard_time": 1722994402,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284885,
+        "num": 284885,
+        "word": "恋与深空电话",
+        "onboard_time": 1722997641,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 283825,
+        "num": 283825,
+        "word": "恋与深空快开门",
+        "onboard_time": 1722987680,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 276556,
+        "num": 276556,
+        "word": "王昶看自己14岁拍的跑男宣传片",
+        "onboard_time": 1722960507,
+        "rank": 40,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 132969,
+        "num": 272874,
+        "word": "岳丽娜 唐诡会拍100部",
+        "onboard_time": 1722964756,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271662,
+        "num": 271662,
+        "word": "中国花游队距首枚奥运金牌一步之遥",
+        "onboard_time": 1722995121,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260612,
+        "num": 260612,
+        "word": "陈芋汐教练",
+        "onboard_time": 1722955173,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248958,
+        "num": 248958,
+        "word": "查理苏崇山覆海",
+        "onboard_time": 1722997641,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 238953,
+        "num": 238953,
+        "word": "塞尔维亚女排不敌意大利",
+        "onboard_time": 1722994402,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238045,
+        "num": 238045,
+        "word": "汪顺视角感受奥运村内生活",
+        "onboard_time": 1722997100,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231466,
+        "num": 231466,
+        "word": "吴艳妮读自己的名字",
+        "onboard_time": 1722993744,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229405,
+        "num": 229405,
+        "word": "王昶开始去追洛杉矶奥运会了",
+        "onboard_time": 1722998241,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227018,
+        "num": 227018,
+        "word": "吴艳妮同组对手实力",
+        "onboard_time": 1722996740,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#持续加强文化和自然遗产传承#"
+    }
+  }
+}
