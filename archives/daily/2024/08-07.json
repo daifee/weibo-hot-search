@@ -1,6 +1,6 @@
 {
   "startTime": 1722961504263,
-  "endTime": 1722987326677,
+  "endTime": 1722993920213,
   "band_list": [
     {
       "raw_hot": 3693867,
@@ -35,6 +35,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2440972,
+      "num": 2440972,
+      "word": "陈若琳把全红婵养得是真好啊",
+      "onboard_time": 1722986779,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2357653,
       "num": 2357653,
       "word": "全红婵再现10101010101010",
@@ -51,11 +59,27 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 1971031,
+      "num": 1971031,
+      "word": "马龙的眼袋比眼睛还大",
+      "onboard_time": 1722989124,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1922587,
-      "num": 351742,
+      "num": 656154,
       "word": "全红婵大哥回应直播带货引争议",
       "onboard_time": 1722968234,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1665742,
+      "num": 1665742,
+      "word": "全红婵夺金后第一条消息发给陈艺文",
+      "onboard_time": 1722988281,
+      "rank": 3,
       "category": "体育"
     },
     {
@@ -91,6 +115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1144925,
+      "num": 1144925,
+      "word": "举报人回应县领导冒名顶替自己上学",
+      "onboard_time": 1722988761,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1086784,
       "num": 291989,
       "word": "马龙撤回一个握手",
@@ -99,8 +131,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1026609,
+      "num": 1026609,
+      "word": "全红婵安慰哥哥",
+      "onboard_time": 1722985638,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 896757,
-      "num": 231324,
+      "num": 445787,
       "word": "陈紫函 我老公终于红了",
       "onboard_time": 1722944604,
       "rank": 20,
@@ -116,7 +156,7 @@
     },
     {
       "raw_hot": 888639,
-      "num": 266165,
+      "num": 445889,
       "word": "陈芋汐教练",
       "onboard_time": 1722955173,
       "rank": 22,
@@ -155,12 +195,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 806568,
+      "num": 640513,
+      "word": "郭晶晶见证全红婵夺冠",
+      "onboard_time": 1722991703,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 779398,
       "num": 226003,
       "word": "林昀儒3比2张本智和",
       "onboard_time": 1722955113,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 684225,
+      "num": 684225,
+      "word": "光与夜之恋神卡",
+      "onboard_time": 1722990563,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 679847,
@@ -172,10 +228,34 @@
     },
     {
       "raw_hot": 650927,
-      "num": 227397,
+      "num": 292173,
       "word": "全红婵金牌",
       "onboard_time": 1722953493,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 650801,
+      "num": 614311,
+      "word": "立秋不是真正的入秋",
+      "onboard_time": 1722992124,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 616625,
+      "num": 616625,
+      "word": "立秋",
+      "onboard_time": 1722964337,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 614107,
+      "num": 614107,
+      "word": "全红婵否认是天才都是一遍遍练的",
+      "onboard_time": 1722992544,
+      "rank": 22,
       "category": "体育"
     },
     {
@@ -195,16 +275,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 530296,
-      "num": 351147,
-      "word": "陈若琳把全红婵养得是真好啊",
-      "onboard_time": 1722986779,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 526084,
-      "num": 221957,
+      "num": 261870,
       "word": "张博恒也告上状了",
       "onboard_time": 1722947724,
       "rank": 32,
@@ -219,12 +291,44 @@
       "category": "体育"
     },
     {
-      "raw_hot": 474030,
-      "num": 474030,
+      "raw_hot": 498294,
+      "num": 498294,
       "word": "中国花游断层第一",
       "onboard_time": 1722971472,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 484159,
+      "num": 484159,
+      "word": "吴艳妮巴黎奥运首秀",
+      "onboard_time": 1722992964,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 468874,
+      "num": 468874,
+      "word": "王昶看自己14岁拍的跑男宣传片",
+      "onboard_time": 1722960507,
+      "rank": 21,
+      "category": "体育,综艺"
+    },
+    {
+      "raw_hot": 467140,
+      "num": 467140,
+      "word": "立秋文案",
+      "onboard_time": 1722986660,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 466395,
+      "num": 677137,
+      "word": "刘昊然说脸红了没事别紫了就行",
+      "onboard_time": 1722963200,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 438042,
@@ -243,22 +347,6 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 388302,
-      "num": 221392,
-      "word": "王昶看自己14岁拍的跑男宣传片",
-      "onboard_time": 1722960507,
-      "rank": 21,
-      "category": "体育,综艺"
-    },
-    {
-      "raw_hot": 387345,
-      "num": 221291,
-      "word": "全红婵安慰哥哥",
-      "onboard_time": 1722985638,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 383063,
       "num": 213685,
       "word": "陈芋汐这一跳好牛啊",
@@ -275,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 368693,
+      "num": 672544,
+      "word": "张昊唯张艺兴合作过",
+      "onboard_time": 1722990744,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 356419,
       "num": 1477126,
       "word": "张碧晨发长文回应粉丝",
@@ -283,12 +379,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 350618,
-      "num": 350618,
-      "word": "立秋",
-      "onboard_time": 1722964337,
-      "rank": 14,
-      "category": "情感"
+      "raw_hot": 349687,
+      "num": 455727,
+      "word": "张杰看谢娜拍别人求婚的眼神",
+      "onboard_time": 1722991583,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 342142,
+      "num": 342142,
+      "word": "王昶用了王一博原声",
+      "onboard_time": 1722992843,
+      "rank": 33,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 335480,
@@ -307,12 +411,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 319353,
+      "num": 616584,
+      "word": "明星终于明白追星的感觉了",
+      "onboard_time": 1722993143,
+      "rank": 15,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 315801,
       "num": 315801,
       "word": "花样游泳",
       "onboard_time": 1722966375,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 309965,
+      "num": 309965,
+      "word": "恋与深空快开门",
+      "onboard_time": 1722987680,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 298409,
@@ -387,12 +507,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 242462,
-      "num": 581734,
-      "word": "刘昊然说脸红了没事别紫了就行",
-      "onboard_time": 1722963200,
-      "rank": 8,
-      "category": "艺人"
+      "raw_hot": 243276,
+      "num": 243276,
+      "word": "詹姆斯眉骨缝了四针",
+      "onboard_time": 1722988581,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 242422,
@@ -404,7 +524,7 @@
     },
     {
       "raw_hot": 235972,
-      "num": 235972,
+      "num": 615037,
       "word": "陆虎谈不参加披荆斩棘的原因",
       "onboard_time": 1722955532,
       "rank": 18,
@@ -499,12 +619,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 201026,
-      "num": 201026,
-      "word": "立秋文案",
-      "onboard_time": 1722986660,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 204176,
+      "num": 204176,
+      "word": "浙江超市老板女儿巴黎奥运首战",
+      "onboard_time": 1722988581,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 198321,
+      "num": 198321,
+      "word": "吴艳妮读自己的名字",
+      "onboard_time": 1722993744,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 195540,
+      "num": 615558,
+      "word": "岳丽娜 唐诡会拍100部",
+      "onboard_time": 1722964756,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 187711,
@@ -529,6 +665,30 @@
       "onboard_time": 1722985035,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179430,
+      "num": 615223,
+      "word": "苍兰诀开播两周年",
+      "onboard_time": 1722988581,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 178678,
+      "num": 178678,
+      "word": "张博恒减肚子秘诀让人意想不到",
+      "onboard_time": 1722993264,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 177157,
+      "num": 177157,
+      "word": "手机跟了你真是值了",
+      "onboard_time": 1722993622,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 176208,
@@ -563,12 +723,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172817,
+      "num": 172817,
+      "word": "瑞典男团晋级四强",
+      "onboard_time": 1722992482,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168339,
       "num": 130009,
       "word": "陈芋汐也是天才少女",
       "onboard_time": 1722963918,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165750,
+      "num": 449168,
+      "word": "赵露思玩双杠",
+      "onboard_time": 1722993443,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 160008,
@@ -619,14 +795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 145116,
-      "num": 354236,
-      "word": "岳丽娜 唐诡会拍100部",
-      "onboard_time": 1722964756,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 142539,
       "num": 142539,
       "word": "迪迦奥特曼演员肉眼可见的变老了",
@@ -641,6 +809,14 @@
       "onboard_time": 1722960507,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139440,
+      "num": 173169,
+      "word": "蒲熠星文韬院内双门面",
+      "onboard_time": 1722987560,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 135160,
@@ -675,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118112,
+      "num": 628867,
+      "word": "大熊猫的胖jiojio也太灵活了",
+      "onboard_time": 1722990744,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117239,
       "num": 117239,
       "word": "美国女排晋级四强",
@@ -689,6 +873,14 @@
       "onboard_time": 1722941304,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104769,
+      "num": 197576,
+      "word": "8月7日8时9分迎来立秋",
+      "onboard_time": 1722991764,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103448,
@@ -827,6 +1019,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 41034,
+      "num": 616169,
+      "word": "那些让人泪目的奥运瞬间",
+      "onboard_time": 1722990744,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39520,
       "num": 353079,
       "word": "当地检察院回应魏新河被批捕",
@@ -883,6 +1083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26625,
+      "num": 614632,
+      "word": "我为中国体育打call",
+      "onboard_time": 1722991764,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 21342,
       "num": 352548,
       "word": "中国摔跤首枚奖牌",
@@ -891,8 +1099,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 8934,
-      "num": 803246,
+      "raw_hot": 14305,
+      "num": 1704075,
       "word": "我国秋粮面积稳中有增",
       "onboard_time": 1722950969,
       "rank": 2,
