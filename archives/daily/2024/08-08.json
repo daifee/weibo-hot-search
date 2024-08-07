@@ -1,6 +1,6 @@
 {
   "startTime": 1723047937015,
-  "endTime": 1723066489351,
+  "endTime": 1723069151877,
   "band_list": [
     {
       "raw_hot": 3294635,
@@ -16,6 +16,14 @@
       "word": "徐卓一秦伟搏110米栏半决赛",
       "onboard_time": 1723048940,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1604397,
+      "num": 1604397,
+      "word": "莫雷加德vs张本智和",
+      "onboard_time": 1723058293,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -80,14 +88,6 @@
       "word": "美国申诉夺铜后气炸罗马尼亚",
       "onboard_time": 1723040606,
       "rank": 6,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 974888,
-      "num": 974888,
-      "word": "莫雷加德vs张本智和",
-      "onboard_time": 1723058293,
-      "rank": 5,
       "category": "体育"
     },
     {
@@ -187,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 487810,
+      "num": 487810,
+      "word": "日本男团vs瑞典男团",
+      "onboard_time": 1723054514,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 487528,
       "num": 454007,
       "word": "亚当皮蒂取关所有中国选手",
@@ -235,6 +243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 457753,
+      "num": 233624,
+      "word": "张本智和2比3卡尔伯格",
+      "onboard_time": 1723067592,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 451245,
       "num": 451245,
       "word": "王曼昱太能护了",
@@ -256,6 +272,14 @@
       "word": "中国冲击花游历史首金",
       "onboard_time": 1723052655,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 438748,
+      "num": 261207,
+      "word": "花游解说都哽咽了",
+      "onboard_time": 1723057452,
+      "rank": 15,
       "category": "体育"
     },
     {
@@ -331,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 304049,
+      "num": 216879,
+      "word": "中国女曲比利时女曲冲突",
+      "onboard_time": 1723057572,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 302596,
       "num": 459064,
       "word": "戴向宇相信张昊唯不是有意的",
@@ -403,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 271440,
+      "num": 271440,
+      "word": "瑞典男团晋级决赛",
+      "onboard_time": 1723067471,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 271128,
       "num": 427608,
       "word": "陈丽君回复周深粉丝",
@@ -427,28 +467,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 262729,
-      "num": 178099,
-      "word": "中国女曲比利时女曲冲突",
-      "onboard_time": 1723057572,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 262065,
       "num": 394454,
       "word": "张纪中夫妇回应混血儿身世",
       "onboard_time": 1723033883,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 261909,
-      "num": 261207,
-      "word": "花游解说都哽咽了",
-      "onboard_time": 1723057452,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 261757,
@@ -491,14 +515,6 @@
       "category": "演出,体育"
     },
     {
-      "raw_hot": 219183,
-      "num": 119098,
-      "word": "日本男团vs瑞典男团",
-      "onboard_time": 1723054514,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 215107,
       "num": 225906,
       "word": "张昊唯 我会用一辈子去反省",
@@ -513,6 +529,14 @@
       "onboard_time": 1723032861,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212289,
+      "num": 212289,
+      "word": "中国第25金",
+      "onboard_time": 1723061052,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 204945,
@@ -603,19 +627,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127261,
+      "num": 223403,
+      "word": "宋小宝恭喜李发彬夺得金牌",
+      "onboard_time": 1723057632,
+      "rank": 48,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 121246,
       "num": 121246,
       "word": "孙颖莎3比0战胜郑怡静",
       "onboard_time": 1723039526,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 119408,
-      "num": 119408,
-      "word": "中国第25金",
-      "onboard_time": 1723061052,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -675,14 +699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82888,
-      "num": 177604,
-      "word": "宋小宝恭喜李发彬夺得金牌",
-      "onboard_time": 1723057632,
-      "rank": 48,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 72101,
       "num": 72101,
       "word": "马龙给穿了队服的外国小朋友签名",
@@ -704,6 +720,14 @@
       "word": "深圳安居拟收购商品房作保障房",
       "onboard_time": 1723046722,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62908,
+      "num": 62908,
+      "word": "霍启山从巴黎回港收到只熊猫",
+      "onboard_time": 1723068133,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -747,20 +771,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43472,
+      "num": 305852,
+      "word": "英国首相称采取一切行动平息骚乱",
+      "onboard_time": 1723052594,
+      "rank": 8,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 41921,
       "num": 41921,
       "word": "张博恒称上场前至少喷半瓶发胶",
       "onboard_time": 1723065672,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 34300,
-      "num": 305852,
-      "word": "英国首相称采取一切行动平息骚乱",
-      "onboard_time": 1723052594,
-      "rank": 8,
-      "category": "国外时政"
     },
     {
       "raw_hot": 23679,
