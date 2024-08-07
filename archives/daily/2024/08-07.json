@@ -1,6 +1,6 @@
 {
   "startTime": 1722961504263,
-  "endTime": 1723001805517,
+  "endTime": 1723004717590,
   "band_list": [
     {
       "raw_hot": 3858053,
@@ -56,6 +56,14 @@
       "word": "全红婵再现10101010101010",
       "onboard_time": 1722950366,
       "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2354103,
+      "num": 2354103,
+      "word": "全红婵呼吁粉丝跳前不要呐喊",
+      "onboard_time": 1722999562,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -267,12 +275,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 873680,
+      "num": 873680,
+      "word": "辛芷蕾需要一条瑜伽裤来装东西",
+      "onboard_time": 1723000222,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 868649,
       "num": 224862,
       "word": "陈若琳教练",
       "onboard_time": 1722954101,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 868049,
+      "num": 868049,
+      "word": "闵玧其涉嫌酒后骑电动滑板被调查",
+      "onboard_time": 1723002023,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 851674,
@@ -288,6 +312,22 @@
       "word": "全红婵弟弟",
       "onboard_time": 1722957805,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 815754,
+      "num": 815754,
+      "word": "潜水店为刷客致大量游客耳膜穿孔",
+      "onboard_time": 1722999621,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 786002,
+      "num": 645431,
+      "word": "刘国梁都得问奶奶借笔记",
+      "onboard_time": 1723002563,
+      "rank": 12,
       "category": "体育"
     },
     {
@@ -315,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 668043,
+      "num": 668043,
+      "word": "全红婵 这话问的谁不累呀",
+      "onboard_time": 1723002683,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 650927,
       "num": 292173,
       "word": "全红婵金牌",
@@ -337,14 +385,6 @@
       "onboard_time": 1722992843,
       "rank": 33,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 572512,
-      "num": 572512,
-      "word": "全红婵呼吁粉丝跳前不要呐喊",
-      "onboard_time": 1722999562,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 567075,
@@ -377,14 +417,6 @@
       "onboard_time": 1722967933,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 545295,
-      "num": 594367,
-      "word": "辛芷蕾需要一条瑜伽裤来装东西",
-      "onboard_time": 1723000222,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 526084,
@@ -424,6 +456,14 @@
       "word": "中国花游断层第一",
       "onboard_time": 1722971472,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 494798,
+      "num": 494798,
+      "word": "如果张本智和给潘展乐当翻译",
+      "onboard_time": 1723002503,
+      "rank": 15,
       "category": "体育"
     },
     {
@@ -467,6 +507,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 403647,
+      "num": 465332,
+      "word": "电影姥姥的外孙定档",
+      "onboard_time": 1722999201,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 401217,
+      "num": 401217,
+      "word": "奶奶偷将新生儿送养夫妻苦寻37年",
+      "onboard_time": 1723003163,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 400936,
       "num": 400936,
       "word": "全红婵发布会戴奥运五环眼镜",
@@ -500,7 +556,7 @@
     },
     {
       "raw_hot": 373795,
-      "num": 449168,
+      "num": 461783,
       "word": "赵露思玩双杠",
       "onboard_time": 1722993443,
       "rank": 29,
@@ -539,14 +595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 342859,
-      "num": 446459,
-      "word": "电影姥姥的外孙定档",
-      "onboard_time": 1722999201,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 342306,
       "num": 342306,
       "word": "恋与深空进不去",
@@ -569,14 +617,6 @@
       "onboard_time": 1722996740,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 328333,
-      "num": 679193,
-      "word": "潜水店为刷客致大量游客耳膜穿孔",
-      "onboard_time": 1722999621,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 320579,
@@ -603,6 +643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 302790,
+      "num": 438762,
+      "word": "玫瑰的故事举办庆功宴",
+      "onboard_time": 1723003282,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 298645,
       "num": 298645,
       "word": "全红婵为什么有很多小乌龟",
@@ -617,6 +665,14 @@
       "onboard_time": 1722933093,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 296476,
+      "num": 296476,
+      "word": "贴秋膘",
+      "onboard_time": 1723003582,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 294733,
@@ -635,6 +691,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 290132,
+      "num": 290132,
+      "word": "陕西一溶洞内发现大熊猫化石",
+      "onboard_time": 1723001722,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289953,
       "num": 206970,
       "word": "陈芋汐金美莱比赞不告诉全红婵",
@@ -649,6 +713,14 @@
       "onboard_time": 1722997641,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 283981,
+      "num": 437893,
+      "word": "闵玧其方回应被调查",
+      "onboard_time": 1723003403,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 280814,
@@ -681,6 +753,22 @@
       "onboard_time": 1722954876,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 272745,
+      "num": 533595,
+      "word": "奥运历史首个单项五连冠",
+      "onboard_time": 1723001303,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 271400,
+      "num": 369161,
+      "word": "任嘉伦一只鸡做出八个菜",
+      "onboard_time": 1723001902,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 265221,
@@ -739,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 239553,
+      "num": 239553,
+      "word": "同济大学 不愧是跳水双保险",
+      "onboard_time": 1723002023,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 238953,
       "num": 238953,
       "word": "塞尔维亚女排不敌意大利",
@@ -752,6 +848,14 @@
       "word": "汪顺视角感受奥运村内生活",
       "onboard_time": 1722997100,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 237791,
+      "num": 237791,
+      "word": "陈芋汐比赛前还是生理期",
+      "onboard_time": 1723003826,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -785,6 +889,22 @@
       "onboard_time": 1722962122,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 230381,
+      "num": 230381,
+      "word": "古茗口令",
+      "onboard_time": 1723004484,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 227571,
+      "num": 227571,
+      "word": "齐思钧一开口熟悉的跳地又回来了",
+      "onboard_time": 1723004424,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 227123,
@@ -875,14 +995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202604,
-      "num": 202604,
-      "word": "陕西一溶洞内发现大熊猫化石",
-      "onboard_time": 1723001722,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196577,
       "num": 231320,
       "word": "邹市明电话和车牌号都是2008",
@@ -897,14 +1009,6 @@
       "onboard_time": 1722964756,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 195022,
-      "num": 195022,
-      "word": "奥运历史首个单项五连冠",
-      "onboard_time": 1723001303,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 187735,
@@ -1107,6 +1211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135357,
+      "num": 438017,
+      "word": "庆功宴上的刘亦菲",
+      "onboard_time": 1723004603,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135160,
       "num": 135160,
       "word": "樊振东邱祺缘欧钰珊合影",
@@ -1129,6 +1241,14 @@
       "onboard_time": 1722986300,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126562,
+      "num": 665234,
+      "word": "上门维修背刺打工人",
+      "onboard_time": 1723003224,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122449,
@@ -1169,6 +1289,14 @@
       "onboard_time": 1723001484,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111102,
+      "num": 268389,
+      "word": "崔行舟 在家粘人醋精在外凶狠bking",
+      "onboard_time": 1723004543,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 104769,
@@ -1259,6 +1387,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 75809,
+      "num": 1364798,
+      "word": "今天已经立秋了",
+      "onboard_time": 1723002143,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68358,
       "num": 57857,
       "word": "杨文璐拳击决赛",
@@ -1321,6 +1457,14 @@
       "onboard_time": 1722952829,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 40157,
+      "num": 268413,
+      "word": "长城董事长谈汽车产业乱象",
+      "onboard_time": 1723003224,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 39520,
@@ -1420,6 +1564,9 @@
     },
     {
       "word": "#改革为人民#"
+    },
+    {
+      "word": "#跟着总书记探寻文化根魂#"
     }
   ]
 }
