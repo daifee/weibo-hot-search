@@ -1,6 +1,6 @@
 {
   "startTime": 1722961504263,
-  "endTime": 1722993920213,
+  "endTime": 1722995241461,
   "band_list": [
     {
       "raw_hot": 3693867,
@@ -139,6 +139,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 959761,
+      "num": 959761,
+      "word": "郭晶晶见证全红婵夺冠",
+      "onboard_time": 1722991703,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 905619,
+      "num": 905619,
+      "word": "光与夜之恋神卡",
+      "onboard_time": 1722990563,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 896757,
       "num": 445787,
       "word": "陈紫函 我老公终于红了",
@@ -152,6 +168,14 @@
       "word": "全红婵回应失误",
       "onboard_time": 1722959004,
       "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 893072,
+      "num": 906034,
+      "word": "吴艳妮巴黎奥运首秀",
+      "onboard_time": 1722992964,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -195,11 +219,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 806568,
-      "num": 640513,
-      "word": "郭晶晶见证全红婵夺冠",
-      "onboard_time": 1722991703,
-      "rank": 11,
+      "raw_hot": 801709,
+      "num": 801709,
+      "word": "全红婵否认是天才都是一遍遍练的",
+      "onboard_time": 1722992544,
+      "rank": 22,
       "category": "体育"
     },
     {
@@ -211,12 +235,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 684225,
-      "num": 684225,
-      "word": "光与夜之恋神卡",
-      "onboard_time": 1722990563,
-      "rank": 7,
-      "category": "游戏"
+      "raw_hot": 756802,
+      "num": 910878,
+      "word": "明星终于明白追星的感觉了",
+      "onboard_time": 1722993143,
+      "rank": 15,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 679847,
@@ -251,12 +275,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 614107,
-      "num": 614107,
-      "word": "全红婵否认是天才都是一遍遍练的",
-      "onboard_time": 1722992544,
-      "rank": 22,
-      "category": "体育"
+      "raw_hot": 567075,
+      "num": 567075,
+      "word": "王昶看自己14岁拍的跑男宣传片",
+      "onboard_time": 1722960507,
+      "rank": 21,
+      "category": "体育,综艺"
     },
     {
       "raw_hot": 549974,
@@ -273,6 +297,14 @@
       "onboard_time": 1722967933,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 542838,
+      "num": 542838,
+      "word": "王昶用了王一博原声",
+      "onboard_time": 1722992843,
+      "rank": 33,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 526084,
@@ -299,22 +331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 484159,
-      "num": 484159,
-      "word": "吴艳妮巴黎奥运首秀",
-      "onboard_time": 1722992964,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 468874,
-      "num": 468874,
-      "word": "王昶看自己14岁拍的跑男宣传片",
-      "onboard_time": 1722960507,
-      "rank": 21,
-      "category": "体育,综艺"
-    },
-    {
       "raw_hot": 467140,
       "num": 467140,
       "word": "立秋文案",
@@ -324,7 +340,7 @@
     },
     {
       "raw_hot": 466395,
-      "num": 677137,
+      "num": 909252,
       "word": "刘昊然说脸红了没事别紫了就行",
       "onboard_time": 1722963200,
       "rank": 8,
@@ -387,14 +403,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 342142,
-      "num": 342142,
-      "word": "王昶用了王一博原声",
-      "onboard_time": 1722992843,
-      "rank": 33,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 335480,
       "num": 218439,
       "word": "樊振东是食堂固定刷新NPC吗",
@@ -409,14 +417,6 @@
       "onboard_time": 1722947125,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 319353,
-      "num": 616584,
-      "word": "明星终于明白追星的感觉了",
-      "onboard_time": 1722993143,
-      "rank": 15,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 315801,
@@ -443,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 295308,
+      "num": 449168,
+      "word": "赵露思玩双杠",
+      "onboard_time": 1722993443,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 292314,
       "num": 292314,
       "word": "警方通报一网民诋毁奥运会运动员",
@@ -459,11 +467,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 284316,
+      "num": 284316,
+      "word": "一不小心把导师的女儿给电了",
+      "onboard_time": 1722994886,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 280250,
       "num": 220860,
       "word": "全红婵长大了也有压力了",
       "onboard_time": 1722959905,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 278800,
+      "num": 278800,
+      "word": "吴艳妮读自己的名字",
+      "onboard_time": 1722993744,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -515,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243013,
+      "num": 243013,
+      "word": "中国花游队距首枚奥运金牌一步之遥",
+      "onboard_time": 1722995121,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 242422,
       "num": 208783,
       "word": "韩国人是怎么夸全红婵的",
@@ -531,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234663,
+      "num": 234663,
+      "word": "还我妈生齐司礼",
+      "onboard_time": 1722994886,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 234343,
       "num": 203831,
       "word": "邹敬园回应体操队内争议",
@@ -544,6 +584,14 @@
       "word": "智昀",
       "onboard_time": 1722962122,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 227123,
+      "num": 227123,
+      "word": "瑞典男团晋级四强",
+      "onboard_time": 1722992482,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -627,14 +675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198321,
-      "num": 198321,
-      "word": "吴艳妮读自己的名字",
-      "onboard_time": 1722993744,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 195540,
       "num": 615558,
       "word": "岳丽娜 唐诡会拍100部",
@@ -643,12 +683,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192493,
+      "num": 403855,
+      "word": "林俊杰邓紫棋回关潘展乐",
+      "onboard_time": 1722995000,
+      "rank": 28,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 187711,
       "num": 187711,
       "word": "陈紫函力挺戴向宇",
       "onboard_time": 1722942923,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187589,
+      "num": 187589,
+      "word": "潘展乐让大家少关注自己一些",
+      "onboard_time": 1722994402,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 187066,
@@ -691,6 +747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 176708,
+      "num": 176708,
+      "word": "塞尔维亚女排不敌意大利",
+      "onboard_time": 1722994402,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176208,
       "num": 176208,
       "word": "赵杰女子链球决赛",
@@ -723,28 +787,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 172817,
-      "num": 172817,
-      "word": "瑞典男团晋级四强",
-      "onboard_time": 1722992482,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 168339,
       "num": 130009,
       "word": "陈芋汐也是天才少女",
       "onboard_time": 1722963918,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 165750,
-      "num": 449168,
-      "word": "赵露思玩双杠",
-      "onboard_time": 1722993443,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 160008,
@@ -876,7 +924,7 @@
     },
     {
       "raw_hot": 104769,
-      "num": 197576,
+      "num": 907298,
       "word": "8月7日8时9分迎来立秋",
       "onboard_time": 1722991764,
       "rank": 42,
@@ -1003,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52691,
+      "num": 623177,
+      "word": "那些让人泪目的奥运瞬间",
+      "onboard_time": 1722990744,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 49249,
       "num": 41549,
       "word": "男子跳远决赛",
@@ -1017,14 +1073,6 @@
       "onboard_time": 1722952829,
       "rank": 9,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 41034,
-      "num": 616169,
-      "word": "那些让人泪目的奥运瞬间",
-      "onboard_time": 1722990744,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 39520,
@@ -1083,7 +1131,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26625,
+      "raw_hot": 27491,
       "num": 614632,
       "word": "我为中国体育打call",
       "onboard_time": 1722991764,
