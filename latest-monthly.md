@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/08/01 00:24:58 ~ 2024/08/08 01:35:49
+本榜单时间：2024/08/01 00:24:58 ~ 2024/08/08 02:27:13
 </p>
 </blockquote>
 <p>
@@ -3981,6 +3981,12 @@ Faker连续用头撞墙（热度：1260810）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%8D%93%E4%B8%80%E6%AD%A2%E6%AD%A5%E5%8D%8A%E5%86%B3%E8%B5%9B%23" target="weibo">
+徐卓一止步半决赛（热度：1163733）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%20%E6%A0%BC%E8%8E%B1%E7%BE%8E%23" target="weibo">
 蔡徐坤 格莱美（热度：1163466）
 </a>
@@ -6005,12 +6011,6 @@ TFBOYS物料（热度：1008142）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A3%B8%E8%81%8A1%E5%88%86%E9%92%9F%E8%A2%AB%E6%95%B2%E8%AF%882%E4%B8%87%E5%85%83%23" target="weibo">
 裸聊1分钟被敲诈2万元（热度：664555）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E9%B8%A3%E6%95%99%E6%8E%88%E4%B8%80%E4%B8%8A%E7%BD%91%E5%8F%91%E7%8E%B0%E5%A4%A9%E5%A1%8C%E4%BA%86%23" target="weibo">
-曾鸣教授一上网发现天塌了（热度：664421）
 </a>
 </li>
 
