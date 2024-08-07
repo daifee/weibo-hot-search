@@ -1,0 +1,410 @@
+{
+  "runTime": 1723040332676,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2246959,
+        "num": 2246959,
+        "word": "吴艳妮复活赛又进死亡之组",
+        "onboard_time": 1723038565,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2155368,
+        "num": 2155368,
+        "word": "国乒女团vs中国台北",
+        "onboard_time": 1723034783,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197370,
+        "num": 2020414,
+        "word": "巴黎奥运赛场上的中国突破",
+        "onboard_time": 1723037424,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2011331,
+        "num": 2011331,
+        "word": "与金牌仅差0.08秒",
+        "onboard_time": 1723033044,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1726618,
+        "num": 1726618,
+        "word": "韩国乒乓球教练称每次遇中国队都输",
+        "onboard_time": 1723034783,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1608106,
+        "num": 1608106,
+        "word": "王楚钦被裁判问比分",
+        "onboard_time": 1723029142,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 988521,
+        "num": 1605467,
+        "word": "蓝盈莹晒与刘亦菲合照",
+        "onboard_time": 1723035564,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 753449,
+        "num": 1594918,
+        "word": "戴向宇相信张昊唯不是有意的",
+        "onboard_time": 1723034183,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 667837,
+        "num": 1593725,
+        "word": "王丽坤已婚和办离婚被同天知道",
+        "onboard_time": 1723029743,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62138,
+        "num": 1586649,
+        "word": "员工吐槽老板违法吗",
+        "onboard_time": 1723039226,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1580788,
+        "num": 1580788,
+        "word": "孙颖莎vs郑怡静",
+        "onboard_time": 1723038024,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1619043,
+        "num": 1580184,
+        "word": "疑因妻子出轨同事自缢死者父亲发声",
+        "onboard_time": 1723033402,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1579409,
+        "num": 1579409,
+        "word": "亚当皮蒂取关所有中国选手",
+        "onboard_time": 1723031663,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53703,
+        "num": 1459531,
+        "word": "余承东现身享界S9交付现场",
+        "onboard_time": 1723036886,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1452475,
+        "num": 1452475,
+        "word": "孙颖莎有效暂停",
+        "onboard_time": 1723038925,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1384559,
+        "num": 1384559,
+        "word": "谁说双打不好看 梦鱼含泪打破",
+        "onboard_time": 1723039587,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 666538,
+        "num": 1208149,
+        "word": "种地吧第三季原班人马",
+        "onboard_time": 1723030223,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1169916,
+        "num": 1169916,
+        "word": "昌雅妮第二跳失误",
+        "onboard_time": 1723038204,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 593320,
+        "num": 1157496,
+        "word": "李雪琴带男友与朋友聚餐",
+        "onboard_time": 1723033883,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 569797,
+        "num": 1152266,
+        "word": "国羽组团看张杰演唱会",
+        "onboard_time": 1723036288,
+        "rank": 19,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 1148946,
+        "num": 1148946,
+        "word": "马龙擦汗vs许昕擦汗",
+        "onboard_time": 1723032022,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 983452,
+        "num": 983452,
+        "word": "举重男子61公斤级决赛",
+        "onboard_time": 1723035204,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 970613,
+        "num": 970613,
+        "word": "王昶梁伟铿都有女朋友",
+        "onboard_time": 1723022844,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 831526,
+        "num": 831526,
+        "word": "陈梦王曼昱vs陈思羽简彤娟",
+        "onboard_time": 1723037064,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 828898,
+        "num": 828898,
+        "word": "王楚钦感谢教练让他出战第三场",
+        "onboard_time": 1723038384,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 781220,
+        "num": 781220,
+        "word": "樊振东有一点点的火气",
+        "onboard_time": 1723026803,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 717690,
+        "num": 717690,
+        "word": "孙颖莎 追分的神",
+        "onboard_time": 1723039708,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 562043,
+        "num": 562043,
+        "word": "好超前的剧把吸毒变丧尸拍出来了",
+        "onboard_time": 1723032861,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 543415,
+        "num": 543415,
+        "word": "闵玧其撒谎",
+        "onboard_time": 1723037424,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 533524,
+        "num": 533524,
+        "word": "张纪中夫妇回应混血儿身世",
+        "onboard_time": 1723033883,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 707028,
+        "num": 533247,
+        "word": "孙颖莎3比0战胜郑怡静",
+        "onboard_time": 1723039526,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 651815,
+        "num": 533075,
+        "word": "国乒男团进四强",
+        "onboard_time": 1723026564,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 473569,
+        "num": 532404,
+        "word": "徐锦江复出",
+        "onboard_time": 1723038626,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449941,
+        "num": 532276,
+        "word": "张杰唱了运动员们点的歌",
+        "onboard_time": 1723038204,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 398497,
+        "num": 531714,
+        "word": "刘亦菲晒庆功宴照片",
+        "onboard_time": 1723038085,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 581110,
+        "num": 531397,
+        "word": "孙颖莎一单",
+        "onboard_time": 1723038384,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 531067,
+        "num": 531067,
+        "word": "陈梦王曼昱3比0陈思羽简彤娟",
+        "onboard_time": 1723038085,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 478587,
+        "num": 478587,
+        "word": "游泳队在水下喝上了桶装水",
+        "onboard_time": 1723016842,
+        "rank": 37,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 456711,
+        "num": 456711,
+        "word": "女子单人三米板预赛",
+        "onboard_time": 1723035505,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 444296,
+        "num": 444296,
+        "word": "真的被王昶笑崩溃了",
+        "onboard_time": 1723026443,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 404008,
+        "num": 404008,
+        "word": "王曼昱vs简彤娟",
+        "onboard_time": 1723040247,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 402489,
+        "num": 402489,
+        "word": "王楚钦vs张禹珍",
+        "onboard_time": 1723022725,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 383127,
+        "num": 383127,
+        "word": "马龙打球 赏心悦目",
+        "onboard_time": 1723019665,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 381075,
+        "num": 381075,
+        "word": "王楚钦把对手打无奈了",
+        "onboard_time": 1723034484,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 374382,
+        "num": 374382,
+        "word": "00后武警为救人英勇牺牲",
+        "onboard_time": 1723035564,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330205,
+        "num": 330205,
+        "word": "王昶 别想了",
+        "onboard_time": 1723023625,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284978,
+        "num": 284978,
+        "word": "王丽坤 办离婚",
+        "onboard_time": 1723012404,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252324,
+        "num": 284574,
+        "word": "张昊唯 我会用一辈子去反省",
+        "onboard_time": 1723031003,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249615,
+        "num": 282907,
+        "word": "杨幂蓝色衬衫搭黑裤",
+        "onboard_time": 1723039947,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 239619,
+        "num": 280524,
+        "word": "泰国男子将炸弹放入熟睡妻子口中",
+        "onboard_time": 1723032983,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革为人民#"
+    }
+  }
+}
