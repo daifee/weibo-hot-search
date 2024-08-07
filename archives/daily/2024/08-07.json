@@ -1,6 +1,6 @@
 {
   "startTime": 1722961504263,
-  "endTime": 1723015135919,
+  "endTime": 1723016209333,
   "band_list": [
     {
       "raw_hot": 4709061,
@@ -8,6 +8,14 @@
       "word": "王丽坤 已婚",
       "onboard_time": 1723011502,
       "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 4253412,
+      "num": 4253412,
+      "word": "王丽坤 办离婚",
+      "onboard_time": 1723012404,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -33,14 +41,6 @@
       "onboard_time": 1722958286,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 3472046,
-      "num": 1152187,
-      "word": "王丽坤 办离婚",
-      "onboard_time": 1723012404,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 2835377,
@@ -331,6 +331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 993992,
+      "num": 993992,
+      "word": "王皓小儿子喜欢王楚钦",
+      "onboard_time": 1723012522,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 992947,
       "num": 992947,
       "word": "英国已逮捕378名骚乱参与者",
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 963985,
-      "num": 421447,
+      "num": 445475,
       "word": "游泳队是人均扁平足吗",
       "onboard_time": 1723007662,
       "rank": 40,
@@ -467,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 836453,
+      "num": 836453,
+      "word": "马拉松竞走混合接力决赛",
+      "onboard_time": 1723014921,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 779398,
       "num": 226003,
       "word": "林昀儒3比2张本智和",
@@ -491,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 705578,
+      "num": 705578,
+      "word": "张本智和一觉醒来 天亮了",
+      "onboard_time": 1723013303,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 692366,
       "num": 614311,
       "word": "立秋不是真正的入秋",
@@ -504,6 +528,14 @@
       "word": "曹利国摔跤决赛",
       "onboard_time": 1722964337,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 666163,
+      "num": 666163,
+      "word": "全红婵说不怕丢金牌后面有她撑着",
+      "onboard_time": 1723006462,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -571,14 +603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 525444,
-      "num": 525444,
-      "word": "全红婵说不怕丢金牌后面有她撑着",
-      "onboard_time": 1723006462,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 511916,
       "num": 876987,
       "word": "国家安全部通报一起故意通风报信案",
@@ -592,14 +616,6 @@
       "word": "陈芋汐银牌",
       "onboard_time": 1722953687,
       "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 503943,
-      "num": 503943,
-      "word": "王皓小儿子喜欢王楚钦",
-      "onboard_time": 1723012522,
-      "rank": 26,
       "category": "体育"
     },
     {
@@ -627,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 469905,
+      "num": 469905,
+      "word": "云南一村民遭气象炮弹砸中截肢",
+      "onboard_time": 1723014443,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 467140,
       "num": 467140,
       "word": "立秋文案",
@@ -651,6 +675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 446070,
+      "num": 374678,
+      "word": "杨幂又听到张艺凡说啥了",
+      "onboard_time": 1723014623,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 443012,
       "num": 443012,
       "word": "BBC解说被全红婵夺冠五连跳惊呆",
@@ -667,11 +699,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 422150,
-      "num": 422150,
-      "word": "张本智和一觉醒来 天亮了",
-      "onboard_time": 1723013303,
-      "rank": 19,
+      "raw_hot": 425886,
+      "num": 425886,
+      "word": "陈芋汐是启蒙教练从体操队抢到的",
+      "onboard_time": 1723012643,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -689,6 +721,14 @@
       "onboard_time": 1722999201,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 412912,
+      "num": 412912,
+      "word": "梁王机场接机",
+      "onboard_time": 1723015343,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 410340,
@@ -769,6 +809,14 @@
       "onboard_time": 1723008622,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 371696,
+      "num": 371696,
+      "word": "樊振东 有自己的防晒方式",
+      "onboard_time": 1723015222,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 368693,
@@ -883,20 +931,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 315758,
-      "num": 315758,
-      "word": "马拉松竞走混合接力决赛",
-      "onboard_time": 1723014921,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 313925,
-      "num": 313925,
-      "word": "陈芋汐是启蒙教练从体操队抢到的",
-      "onboard_time": 1723012643,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 312315,
+      "num": 382420,
+      "word": "娜扎拿下双奢代言",
+      "onboard_time": 1723015522,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 310248,
@@ -921,6 +961,14 @@
       "onboard_time": 1723001722,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309670,
+      "num": 309670,
+      "word": "高毒力超级细菌正在全球蔓延",
+      "onboard_time": 1723012764,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 300999,
@@ -987,6 +1035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 285009,
+      "num": 657934,
+      "word": "官方通报女子被镇干部车内殴打",
+      "onboard_time": 1723012463,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284885,
       "num": 284885,
       "word": "恋与深空电话",
@@ -1033,14 +1089,6 @@
       "onboard_time": 1722993744,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 277498,
-      "num": 277498,
-      "word": "云南一村民遭气象炮弹砸中截肢",
-      "onboard_time": 1723014443,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 276026,
@@ -1097,14 +1145,6 @@
       "onboard_time": 1722971652,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 259428,
-      "num": 259428,
-      "word": "高毒力超级细菌正在全球蔓延",
-      "onboard_time": 1723012764,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 254442,
@@ -1275,12 +1315,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226059,
+      "num": 226059,
+      "word": "一诺的合拍搭子",
+      "onboard_time": 1723016002,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 223617,
       "num": 223617,
       "word": "国家体育总局对袁某某开始调查",
       "onboard_time": 1722928346,
       "rank": 45,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 222169,
+      "num": 222169,
+      "word": "宜昌市政府奖励孙佳俊60万元",
+      "onboard_time": 1723015222,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 221928,
@@ -1307,12 +1363,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 215119,
-      "num": 313929,
-      "word": "杨幂又听到张艺凡说啥了",
-      "onboard_time": 1723014623,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 214299,
+      "num": 214299,
+      "word": "全红婵夺冠后弟弟哭了",
+      "onboard_time": 1723016002,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 214109,
@@ -1387,14 +1443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202720,
-      "num": 657934,
-      "word": "官方通报女子被镇干部车内殴打",
-      "onboard_time": 1723012463,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 201442,
       "num": 201442,
       "word": "吴艳妮曾说想拿国旗在紫色跑道拍照",
@@ -1408,6 +1456,14 @@
       "word": "国乒男团迎战韩国队",
       "onboard_time": 1723007602,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 200436,
+      "num": 200436,
+      "word": "王媛媛谈女排训练难度",
+      "onboard_time": 1723015283,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -1443,6 +1499,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193027,
+      "num": 193027,
+      "word": "吴艳妮至少可亮相2次",
+      "onboard_time": 1723014262,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 190344,
+      "num": 190344,
+      "word": "王昶回应粉丝接机",
+      "onboard_time": 1723016181,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 190042,
+      "num": 190042,
+      "word": "43岁波尔告别奥运赛场观众起立致敬",
+      "onboard_time": 1723016181,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187735,
       "num": 231828,
       "word": "中国国家霹雳舞队将出战巴黎",
@@ -1465,6 +1545,14 @@
       "onboard_time": 1722956429,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184989,
+      "num": 378508,
+      "word": "朱一龙首次回应金鸡百花双料影帝",
+      "onboard_time": 1723015764,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 182990,
@@ -1619,14 +1707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 165114,
-      "num": 165114,
-      "word": "吴艳妮至少可亮相2次",
-      "onboard_time": 1723014262,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 160008,
       "num": 187706,
       "word": "虞书欣 内娱cp合照",
@@ -1713,6 +1793,14 @@
       "onboard_time": 1722987560,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138100,
+      "num": 689851,
+      "word": "国乒男团vs韩国",
+      "onboard_time": 1723015822,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 135160,
@@ -1915,6 +2003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70278,
+      "num": 446172,
+      "word": "00后殷若宁首战奥运",
+      "onboard_time": 1723014984,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68358,
       "num": 57857,
       "word": "杨文璐拳击决赛",
@@ -1955,6 +2051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61334,
+      "num": 841712,
+      "word": "老板称花几千万买房被停水电两三年",
+      "onboard_time": 1723015822,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59727,
       "num": 109037,
       "word": "戴向宇发律师函",
@@ -1977,14 +2081,6 @@
       "onboard_time": 1722969793,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 57407,
-      "num": 179213,
-      "word": "00后殷若宁首战奥运",
-      "onboard_time": 1723014984,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 52691,
@@ -2025,6 +2121,14 @@
       "onboard_time": 1723003224,
       "rank": 39,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 41130,
+      "num": 839024,
+      "word": "英国大规模骚乱首相强硬警告",
+      "onboard_time": 1723015822,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39520,
@@ -2084,7 +2188,7 @@
     },
     {
       "raw_hot": 32303,
-      "num": 1302640,
+      "num": 1329862,
       "word": "古诗词中的秋日之美",
       "onboard_time": 1723001183,
       "rank": 2,

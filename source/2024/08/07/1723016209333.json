@@ -1,0 +1,410 @@
+{
+  "runTime": 1723016209333,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4253412,
+        "num": 4253412,
+        "word": "王丽坤 办离婚",
+        "onboard_time": 1723012404,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1614288,
+        "num": 1614288,
+        "word": "吴艳妮奥运首秀进入死亡之组",
+        "onboard_time": 1723009402,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25287,
+        "num": 1329862,
+        "word": "古诗词中的秋日之美",
+        "onboard_time": 1723001183,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1230147,
+        "num": 1230147,
+        "word": "张本智和看了都要偷偷保存的人生照片",
+        "onboard_time": 1723007903,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 993992,
+        "num": 993992,
+        "word": "王皓小儿子喜欢王楚钦",
+        "onboard_time": 1723012522,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2469161,
+        "num": 960864,
+        "word": "王丽坤 已婚",
+        "onboard_time": 1723011502,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 883759,
+        "num": 883759,
+        "word": "英国爆发13年来最大规模骚乱",
+        "onboard_time": 1723003826,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 847168,
+        "num": 847168,
+        "word": "英国已逮捕378名骚乱参与者",
+        "onboard_time": 1723008502,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 61334,
+        "num": 841712,
+        "word": "老板称花几千万买房被停水电两三年",
+        "onboard_time": 1723015822,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41130,
+        "num": 839024,
+        "word": "英国大规模骚乱首相强硬警告",
+        "onboard_time": 1723015822,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 836453,
+        "num": 836453,
+        "word": "马拉松竞走混合接力决赛",
+        "onboard_time": 1723014921,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 740408,
+        "num": 740408,
+        "word": "疑似王丽坤老公涉案被抓",
+        "onboard_time": 1723011562,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 705578,
+        "num": 705578,
+        "word": "张本智和一觉醒来 天亮了",
+        "onboard_time": 1723013303,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138100,
+        "num": 689851,
+        "word": "国乒男团vs韩国",
+        "onboard_time": 1723015822,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 681407,
+        "num": 681407,
+        "word": "沈腾首部黑帮犯罪片定档",
+        "onboard_time": 1723010241,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 666163,
+        "num": 666163,
+        "word": "全红婵说不怕丢金牌后面有她撑着",
+        "onboard_time": 1723006462,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 500301,
+        "num": 500301,
+        "word": "你直接报迪丽热巴身份证得了",
+        "onboard_time": 1723007242,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469905,
+        "num": 469905,
+        "word": "云南一村民遭气象炮弹砸中截肢",
+        "onboard_time": 1723014443,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455930,
+        "num": 455930,
+        "word": "全红婵呼吁粉丝跳前不要呐喊",
+        "onboard_time": 1722999562,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70278,
+        "num": 446172,
+        "word": "00后殷若宁首战奥运",
+        "onboard_time": 1723014984,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45674,
+        "num": 445505,
+        "word": "今天已经立秋了",
+        "onboard_time": 1723002143,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463982,
+        "num": 445475,
+        "word": "游泳队是人均扁平足吗",
+        "onboard_time": 1723007662,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 445416,
+        "num": 445416,
+        "word": "马龙回应不止巴黎见",
+        "onboard_time": 1723007183,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 425886,
+        "num": 425886,
+        "word": "陈芋汐是启蒙教练从体操队抢到的",
+        "onboard_time": 1723012643,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 416708,
+        "num": 416708,
+        "word": "王皓 好了没我的大小姐",
+        "onboard_time": 1722997461,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 412912,
+        "num": 412912,
+        "word": "梁王机场接机",
+        "onboard_time": 1723015343,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 386652,
+        "num": 386652,
+        "word": "文科危机真的来了吗",
+        "onboard_time": 1722997281,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328973,
+        "num": 383574,
+        "word": "庆功宴上的刘亦菲",
+        "onboard_time": 1723004603,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 312315,
+        "num": 382420,
+        "word": "娜扎拿下双奢代言",
+        "onboard_time": 1723015522,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184989,
+        "num": 378508,
+        "word": "朱一龙首次回应金鸡百花双料影帝",
+        "onboard_time": 1723015764,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 446070,
+        "num": 374678,
+        "word": "杨幂又听到张艺凡说啥了",
+        "onboard_time": 1723014623,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371696,
+        "num": 371696,
+        "word": "樊振东 有自己的防晒方式",
+        "onboard_time": 1723015222,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355578,
+        "num": 355578,
+        "word": "汪顺水下科目三",
+        "onboard_time": 1723013183,
+        "rank": 32,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 338828,
+        "num": 338828,
+        "word": "张兰说向太对媳妇好我对媳妇也不差",
+        "onboard_time": 1723010183,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338598,
+        "num": 338598,
+        "word": "妈妈揭秘全红婵为什么爱公仔",
+        "onboard_time": 1723011382,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 312038,
+        "num": 312038,
+        "word": "王昶在国羽里的定位是欠小孩",
+        "onboard_time": 1723011202,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309670,
+        "num": 309670,
+        "word": "高毒力超级细菌正在全球蔓延",
+        "onboard_time": 1723012764,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 285009,
+        "num": 285009,
+        "word": "官方通报女子被镇干部车内殴打",
+        "onboard_time": 1723012463,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271834,
+        "num": 271834,
+        "word": "珠海一居民楼倒塌致3死1伤",
+        "onboard_time": 1723008622,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241476,
+        "num": 241476,
+        "word": "陈若琳把全红婵养得是真好啊",
+        "onboard_time": 1722986779,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238222,
+        "num": 238222,
+        "word": "观众为全红婵陈芋汐下起娃娃雨",
+        "onboard_time": 1723008082,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226059,
+        "num": 226059,
+        "word": "一诺的合拍搭子",
+        "onboard_time": 1723016002,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 222169,
+        "num": 222169,
+        "word": "宜昌市政府奖励孙佳俊60万元",
+        "onboard_time": 1723015222,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214299,
+        "num": 214299,
+        "word": "全红婵夺冠后弟弟哭了",
+        "onboard_time": 1723016002,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200436,
+        "num": 200436,
+        "word": "王媛媛谈女排训练难度",
+        "onboard_time": 1723015283,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193027,
+        "num": 193027,
+        "word": "吴艳妮至少可亮相2次",
+        "onboard_time": 1723014262,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190344,
+        "num": 190344,
+        "word": "王昶回应粉丝接机",
+        "onboard_time": 1723016181,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190042,
+        "num": 190042,
+        "word": "43岁波尔告别奥运赛场观众起立致敬",
+        "onboard_time": 1723016181,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172105,
+        "num": 189430,
+        "word": "肖战支持百人援吉",
+        "onboard_time": 1723010662,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164913,
+        "num": 188101,
+        "word": "井胧 石凯看苍兰诀天天发朋友圈",
+        "onboard_time": 1723008202,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革为人民#"
+    }
+  }
+}
