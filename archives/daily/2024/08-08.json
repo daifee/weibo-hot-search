@@ -1,12 +1,20 @@
 {
   "startTime": 1723047937015,
-  "endTime": 1723051238770,
+  "endTime": 1723052149445,
   "band_list": [
     {
       "raw_hot": 3294635,
       "num": 3294635,
       "word": "李发彬举重金牌",
       "onboard_time": 1723044684,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1740344,
+      "num": 1740344,
+      "word": "徐卓一秦伟搏110米栏半决赛",
+      "onboard_time": 1723048940,
       "rank": 0,
       "category": "体育"
     },
@@ -67,11 +75,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1027228,
-      "num": 1027228,
-      "word": "徐卓一秦伟搏110米栏半决赛",
-      "onboard_time": 1723048940,
-      "rank": 0,
+      "raw_hot": 692553,
+      "num": 692553,
+      "word": "莎莎给自己做了条小裙子",
+      "onboard_time": 1723046362,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -99,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 577037,
+      "num": 577037,
+      "word": "徐卓一止步半决赛",
+      "onboard_time": 1723051936,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 576799,
       "num": 576799,
       "word": "女子称双汇火腿肠含像眼睛似的异物",
@@ -107,16 +123,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 519027,
-      "num": 519027,
-      "word": "莎莎给自己做了条小裙子",
-      "onboard_time": 1723046362,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 509218,
-      "num": 381287,
+      "num": 397463,
       "word": "张博恒骨折的小拇指还没恢复",
       "onboard_time": 1723046601,
       "rank": 31,
@@ -195,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 415378,
+      "num": 204147,
+      "word": "徐卓一跨栏时眼镜为何不会掉",
+      "onboard_time": 1723050678,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 390404,
       "num": 390404,
       "word": "跟樊振东打和服兵役有什么区别",
@@ -208,6 +224,22 @@
       "word": "林钟勋说中国注册球员比韩国人还多",
       "onboard_time": 1723043545,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 355622,
+      "num": 219247,
+      "word": "举重女子49公斤级决赛",
+      "onboard_time": 1723051516,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 347658,
+      "num": 220379,
+      "word": "查尔莫斯转发潘展乐澄清视频",
+      "onboard_time": 1723048818,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -265,14 +297,6 @@
       "onboard_time": 1723016842,
       "rank": 37,
       "category": "体育,作品衍生"
-    },
-    {
-      "raw_hot": 283985,
-      "num": 220379,
-      "word": "查尔莫斯转发潘展乐澄清视频",
-      "onboard_time": 1723048818,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 282278,
@@ -371,12 +395,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228387,
+      "num": 503009,
+      "word": "男子110米栏半决赛",
+      "onboard_time": 1723048281,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 226762,
       "num": 226762,
       "word": "张杰唱了运动员们点的歌",
       "onboard_time": 1723038204,
       "rank": 47,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 222482,
+      "num": 434540,
+      "word": "中国女曲vs比利时女曲",
+      "onboard_time": 1723049839,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 215107,
@@ -395,11 +435,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199149,
-      "num": 434540,
-      "word": "中国女曲vs比利时女曲",
-      "onboard_time": 1723049839,
-      "rank": 9,
+      "raw_hot": 202177,
+      "num": 202177,
+      "word": "秦伟搏无缘110米栏决赛",
+      "onboard_time": 1723051395,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -409,22 +449,6 @@
       "onboard_time": 1723048281,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 192185,
-      "num": 503009,
-      "word": "男子110米栏半决赛",
-      "onboard_time": 1723048281,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 187387,
-      "num": 187387,
-      "word": "徐卓一跨栏时眼镜为何不会掉",
-      "onboard_time": 1723050678,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 185926,
@@ -459,19 +483,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121246,
+      "num": 121246,
+      "word": "孙颖莎3比0战胜郑怡静",
+      "onboard_time": 1723039526,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118652,
       "num": 1422520,
       "word": "巴黎奥运赛场上的中国突破",
       "onboard_time": 1723037424,
       "rank": 2,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 116863,
-      "num": 116863,
-      "word": "孙颖莎3比0战胜郑怡静",
-      "onboard_time": 1723039526,
-      "rank": 42,
       "category": "体育"
     },
     {
@@ -499,11 +523,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23983,
+      "raw_hot": 52559,
       "num": 467795,
       "word": "英国大骚乱因为什么发生的",
       "onboard_time": 1723050617,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13202,
+      "num": 601144,
+      "word": "我国进出口规模再创新高",
+      "onboard_time": 1723037185,
+      "rank": 2,
       "category": "社会新闻"
     }
   ],
