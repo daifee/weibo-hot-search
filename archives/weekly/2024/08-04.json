@@ -1,6 +1,6 @@
 {
   "startTime": 1722702313981,
-  "endTime": 1723019861991,
+  "endTime": 1723022535124,
   "band_list": [
     {
       "raw_hot": 35169209,
@@ -227,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 8686398,
+      "num": 8686398,
+      "word": "吴艳妮小组第6",
+      "onboard_time": 1723019003,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 8621505,
       "num": 9871505,
       "word": "全红婵第一轮满分",
@@ -299,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 6479217,
+      "num": 6479217,
+      "word": "樊振东vs林钟勋",
+      "onboard_time": 1723020385,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 6438691,
       "num": 4527358,
       "word": "张继科",
@@ -345,14 +361,6 @@
       "onboard_time": 1722874701,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 5678363,
-      "num": 5678363,
-      "word": "吴艳妮小组第6",
-      "onboard_time": 1723019003,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 5643474,
@@ -1443,6 +1451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2029416,
+      "num": 2029416,
+      "word": "王楚钦状态",
+      "onboard_time": 1723019546,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2019164,
       "num": 803610,
       "word": "陈梦孙颖莎拥抱",
@@ -1779,6 +1795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1670426,
+      "num": 1670426,
+      "word": "林雨薇小组第7",
+      "onboard_time": 1723020923,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1665742,
       "num": 1665742,
       "word": "全红婵夺金后第一条消息发给陈艺文",
@@ -1841,6 +1865,14 @@
       "onboard_time": 1722781306,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1599766,
+      "num": 1599766,
+      "word": "游泳队在水下喝上了桶装水",
+      "onboard_time": 1723016842,
+      "rank": 11,
+      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 1598206,
@@ -2249,14 +2281,6 @@
       "onboard_time": 1722738862,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1356313,
-      "num": 1356313,
-      "word": "游泳队在水下喝上了桶装水",
-      "onboard_time": 1723016842,
-      "rank": 11,
-      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 1351194,
@@ -3003,6 +3027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 962867,
+      "num": 962867,
+      "word": "马龙打球 赏心悦目",
+      "onboard_time": 1723019665,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 962545,
       "num": 1452866,
       "word": "有影院拒绝播映逆行人生",
@@ -3024,6 +3056,14 @@
       "word": "郭晶晶见证全红婵夺冠",
       "onboard_time": 1722991703,
       "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 956935,
+      "num": 459832,
+      "word": "林雨薇进入复活赛",
+      "onboard_time": 1723020923,
+      "rank": 20,
       "category": "体育"
     },
     {
@@ -3056,6 +3096,14 @@
       "word": "潜水店为刷客致大量游客耳膜穿孔",
       "onboard_time": 1722999621,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 940491,
+      "num": 940491,
+      "word": "医院通报疑护士出轨致丈夫自杀",
+      "onboard_time": 1723017563,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -3113,14 +3161,6 @@
       "onboard_time": 1722744744,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 916392,
-      "num": 916392,
-      "word": "医院通报疑护士出轨致丈夫自杀",
-      "onboard_time": 1723017563,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 914380,
@@ -3923,14 +3963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 633325,
-      "num": 493828,
-      "word": "王楚钦状态",
-      "onboard_time": 1723019546,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 630451,
       "num": 630451,
       "word": "警方通报一网民诋毁奥运会运动员",
@@ -4283,14 +4315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 556642,
-      "num": 487640,
-      "word": "马龙打球 赏心悦目",
-      "onboard_time": 1723019665,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 554883,
       "num": 554883,
       "word": "色情擦边动漫及周边流向未成年人",
@@ -4401,6 +4425,14 @@
       "onboard_time": 1722917543,
       "rank": 31,
       "category": "体育,综艺"
+    },
+    {
+      "raw_hot": 531023,
+      "num": 453915,
+      "word": "韩林跺脚",
+      "onboard_time": 1723021883,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 527949,
@@ -5019,6 +5051,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 451613,
+      "num": 451613,
+      "word": "乌克兰睡美人斥责中立运动员",
+      "onboard_time": 1723018522,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 451582,
       "num": 727009,
       "word": "古偶终于把事业脑还给女角色",
@@ -5099,6 +5139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 445725,
+      "num": 445725,
+      "word": "马龙正手",
+      "onboard_time": 1723020505,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 443012,
       "num": 443012,
       "word": "BBC解说被全红婵夺冠五连跳惊呆",
@@ -5169,14 +5217,6 @@
       "onboard_time": 1722841643,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 435742,
-      "num": 435742,
-      "word": "乌克兰睡美人斥责中立运动员",
-      "onboard_time": 1723018522,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 435506,
@@ -6355,12 +6395,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 335413,
+      "num": 463919,
+      "word": "刘亚仁父亲去世",
+      "onboard_time": 1723022003,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 335348,
       "num": 335348,
       "word": "吴艳妮同组对手实力",
       "onboard_time": 1722996740,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 334269,
+      "num": 334269,
+      "word": "是不是只有樊振东吃食堂",
+      "onboard_time": 1723019184,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 334249,
+      "num": 462316,
+      "word": "樱桃琥珀玩梗改名",
+      "onboard_time": 1723020624,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 334231,
@@ -6963,6 +7027,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 295622,
+      "num": 461813,
+      "word": "水果化石",
+      "onboard_time": 1723017921,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 295166,
       "num": 241884,
       "word": "郑钦文把最初的梦想送给中国网球",
@@ -7049,6 +7121,14 @@
       "onboard_time": 1722929426,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291249,
+      "num": 291249,
+      "word": "这哪是录取通知书明明是通知刀",
+      "onboard_time": 1723021463,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 290137,
@@ -7475,14 +7555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 270470,
-      "num": 455662,
-      "word": "水果化石",
-      "onboard_time": 1723017921,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 269646,
       "num": 269646,
       "word": "徐嘉余顺利到家",
@@ -7625,6 +7697,14 @@
       "onboard_time": 1722955532,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 263692,
+      "num": 263692,
+      "word": "吴艳妮妈妈穿旗袍加油",
+      "onboard_time": 1723020804,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 263082,
@@ -8123,6 +8203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 238156,
+      "num": 238156,
+      "word": "瑞典选手夺金后和队友打起来了",
+      "onboard_time": 1723022123,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 238111,
       "num": 631399,
       "word": "李政道始终心系祖国的科学教育事业",
@@ -8225,6 +8313,14 @@
       "onboard_time": 1722922527,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 234903,
+      "num": 234903,
+      "word": "樊振东把林钟勋打坐地上了",
+      "onboard_time": 1723022365,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 234663,
@@ -8579,6 +8675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216423,
+      "num": 216423,
+      "word": "谁发明的秋天第一杯奶茶",
+      "onboard_time": 1723019783,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 216116,
       "num": 859184,
       "word": "张艺兴7票",
@@ -8593,6 +8697,14 @@
       "onboard_time": 1722929545,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 216059,
+      "num": 216059,
+      "word": "许昕说对战韩国队是王楚钦自证的机会",
+      "onboard_time": 1723022305,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 215925,
@@ -8617,14 +8729,6 @@
       "onboard_time": 1722831747,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 214926,
-      "num": 214926,
-      "word": "谁发明的秋天第一杯奶茶",
-      "onboard_time": 1723019783,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 214609,
@@ -8705,6 +8809,14 @@
       "onboard_time": 1722906805,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 210671,
+      "num": 235212,
+      "word": "马龙王楚钦3比0赵大成张禹珍",
+      "onboard_time": 1723020445,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 210582,
@@ -11699,6 +11811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56698,
+      "num": 1056185,
+      "word": "问题混凝土流入市政工程和文保单位",
+      "onboard_time": 1723021224,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56143,
       "num": 913563,
       "word": "尔滨从冬天火到了夏天",
@@ -11937,6 +12057,14 @@
       "onboard_time": 1722742344,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44253,
+      "num": 529222,
+      "word": "魏建军为何再三警示行业",
+      "onboard_time": 1723018761,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 44031,
@@ -12329,14 +12457,6 @@
       "onboard_time": 1722991764,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 25833,
-      "num": 529222,
-      "word": "魏建军为何再三警示行业",
-      "onboard_time": 1723018761,
-      "rank": 34,
-      "category": "汽车"
     },
     {
       "raw_hot": 25660,
