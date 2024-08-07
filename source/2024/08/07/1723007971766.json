@@ -1,0 +1,410 @@
+{
+  "runTime": 1723007971766,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1717681,
+        "num": 1717681,
+        "word": "全红婵呼吁粉丝跳前不要呐喊",
+        "onboard_time": 1722999562,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1584814,
+        "num": 1584814,
+        "word": "如果张本智和给潘展乐当翻译",
+        "onboard_time": 1723002503,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51649,
+        "num": 1539049,
+        "word": "今天已经立秋了",
+        "onboard_time": 1723002143,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1513421,
+        "num": 1513421,
+        "word": "奶奶偷将新生儿送养夫妻苦寻37年",
+        "onboard_time": 1723003163,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1871525,
+        "num": 1443948,
+        "word": "全红婵 这话问的谁不累呀",
+        "onboard_time": 1723002683,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1156404,
+        "num": 1156404,
+        "word": "刘国梁都得问奶奶借笔记",
+        "onboard_time": 1723002563,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1088884,
+        "num": 1088884,
+        "word": "全红婵说这届金牌没那么重了",
+        "onboard_time": 1722996381,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 923379,
+        "num": 1088655,
+        "word": "庆功宴上的刘亦菲",
+        "onboard_time": 1723004603,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 626893,
+        "num": 1083582,
+        "word": "明星终于明白追星的感觉了",
+        "onboard_time": 1722993143,
+        "rank": 8,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 44407,
+        "num": 1076643,
+        "word": "特朗普称将接受马斯克采访",
+        "onboard_time": 1723006824,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1597353,
+        "num": 1072760,
+        "word": "王皓 好了没我的大小姐",
+        "onboard_time": 1722997461,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1072251,
+        "num": 1072251,
+        "word": "17岁正是整顿采访界的年纪",
+        "onboard_time": 1723004903,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 947961,
+        "num": 947961,
+        "word": "文科危机真的来了吗",
+        "onboard_time": 1722997281,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 706152,
+        "num": 706152,
+        "word": "英国爆发13年来最大规模骚乱",
+        "onboard_time": 1723003826,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 57892,
+        "num": 606586,
+        "word": "马拉松竞走混合接力奥运首秀",
+        "onboard_time": 1723006644,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 600579,
+        "num": 600579,
+        "word": "你直接报迪丽热巴身份证得了",
+        "onboard_time": 1723007242,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402598,
+        "num": 594107,
+        "word": "辛芷蕾需要一条瑜伽裤来装东西",
+        "onboard_time": 1723000222,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 397165,
+        "num": 587145,
+        "word": "闵玧其涉嫌酒后骑电动滑板被调查",
+        "onboard_time": 1723002023,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 773605,
+        "num": 583369,
+        "word": "马龙回应不止巴黎见",
+        "onboard_time": 1723007183,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222265,
+        "num": 572008,
+        "word": "古偶终于把事业脑还给女角色",
+        "onboard_time": 1723007723,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1092929,
+        "num": 558721,
+        "word": "陈紫函戴向宇结婚9年了还没有孩子",
+        "onboard_time": 1722999621,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 639853,
+        "num": 550712,
+        "word": "陈若琳把全红婵养得是真好啊",
+        "onboard_time": 1722986779,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 549193,
+        "num": 549193,
+        "word": "潜水店为刷客致大量游客耳膜穿孔",
+        "onboard_time": 1722999621,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459525,
+        "num": 459525,
+        "word": "孙颖莎亲签小卡已被炒至上万元",
+        "onboard_time": 1723006703,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 437388,
+        "num": 437388,
+        "word": "BBC解说被全红婵夺冠五连跳惊呆",
+        "onboard_time": 1723004724,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303993,
+        "num": 426105,
+        "word": "闵玧其发长文道歉",
+        "onboard_time": 1723007064,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424620,
+        "num": 424620,
+        "word": "吴艳妮巴黎奥运首秀",
+        "onboard_time": 1722992964,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 417192,
+        "num": 417192,
+        "word": "全红婵说不怕丢金牌后面有她撑着",
+        "onboard_time": 1723006462,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258128,
+        "num": 388519,
+        "word": "赵露思玩双杠",
+        "onboard_time": 1722993443,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 253935,
+        "num": 387909,
+        "word": "任嘉伦一只鸡做出八个菜",
+        "onboard_time": 1723001902,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 490018,
+        "num": 387635,
+        "word": "张本智和看了都要偷偷保存的人生照片",
+        "onboard_time": 1723007903,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 387353,
+        "num": 387353,
+        "word": "陈芋汐比赛前还是生理期",
+        "onboard_time": 1723003826,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 314819,
+        "num": 314819,
+        "word": "奥运历史首个单项五连冠",
+        "onboard_time": 1723001303,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 300999,
+        "num": 300999,
+        "word": "准大学生旅游在酒店被砍伤",
+        "onboard_time": 1723005024,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289440,
+        "num": 289440,
+        "word": "一不小心把导师的女儿给电了",
+        "onboard_time": 1722994886,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 286959,
+        "num": 286959,
+        "word": "光与夜之恋七夕卡面",
+        "onboard_time": 1722997100,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 273009,
+        "num": 273009,
+        "word": "陕西一溶洞内发现大熊猫化石",
+        "onboard_time": 1723001722,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264089,
+        "num": 264089,
+        "word": "1人故意泄露致国安侦办受影响被拘",
+        "onboard_time": 1723001484,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1719669,
+        "num": 259993,
+        "word": "全红婵 我不想知道",
+        "onboard_time": 1723005445,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254286,
+        "num": 254286,
+        "word": "全红婵哥哥果蔬店已成立近3年",
+        "onboard_time": 1722999562,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252974,
+        "num": 252974,
+        "word": "游泳队是人均扁平足吗",
+        "onboard_time": 1723007662,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243435,
+        "num": 243435,
+        "word": "电影姥姥的外孙定档",
+        "onboard_time": 1722999201,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 242352,
+        "num": 242352,
+        "word": "全红婵否认是天才都是一遍遍练的",
+        "onboard_time": 1722992544,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92765,
+        "num": 241460,
+        "word": "孟子义第一个给曾舜晞新剧打call",
+        "onboard_time": 1723007004,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139608,
+        "num": 241205,
+        "word": "奈何船妃实在貌美",
+        "onboard_time": 1723007723,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241108,
+        "num": 241108,
+        "word": "全红婵夺金后第一条消息发给陈艺文",
+        "onboard_time": 1722988281,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240694,
+        "num": 240694,
+        "word": "王昶用了王一博原声",
+        "onboard_time": 1722992843,
+        "rank": 46,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 236660,
+        "num": 236660,
+        "word": "玫瑰的故事举办庆功宴",
+        "onboard_time": 1723003282,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235339,
+        "num": 235339,
+        "word": "中丸雄一与女大学生酒店密会",
+        "onboard_time": 1723005684,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26938,
+        "num": 228253,
+        "word": "全网都在找乒乓猫",
+        "onboard_time": 1723007903,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革为人民#"
+    }
+  }
+}
