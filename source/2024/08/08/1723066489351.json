@@ -1,0 +1,410 @@
+{
+  "runTime": 1723066489351,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 974888,
+        "num": 974888,
+        "word": "莫雷加德vs张本智和",
+        "onboard_time": 1723058293,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191912,
+        "num": 191912,
+        "word": "查尔莫斯转发潘展乐澄清视频",
+        "onboard_time": 1723048818,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2251,
+        "num": 188227,
+        "word": "我国进出口规模再创新高",
+        "onboard_time": 1723037185,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187640,
+        "num": 187640,
+        "word": "侯志慧举重金牌",
+        "onboard_time": 1723060033,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148717,
+        "num": 148717,
+        "word": "戴向宇的工作全部叫停",
+        "onboard_time": 1723042585,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145018,
+        "num": 145018,
+        "word": "陈梦王曼昱3比0陈思羽简彤娟",
+        "onboard_time": 1723038085,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134394,
+        "num": 134394,
+        "word": "张本智和3比1莫雷加德",
+        "onboard_time": 1723059313,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113319,
+        "num": 122450,
+        "word": "以为宋小宝去举重了",
+        "onboard_time": 1723047200,
+        "rank": 7,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 120558,
+        "num": 120558,
+        "word": "徐卓一止步半决赛",
+        "onboard_time": 1723051936,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34300,
+        "num": 120516,
+        "word": "英国首相称采取一切行动平息骚乱",
+        "onboard_time": 1723052594,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 261909,
+        "num": 120209,
+        "word": "花游解说都哽咽了",
+        "onboard_time": 1723057452,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206535,
+        "num": 119922,
+        "word": "中国女曲比利时女曲冲突",
+        "onboard_time": 1723057572,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151160,
+        "num": 119753,
+        "word": "疑因妻子出轨同事自缢死者父亲发声",
+        "onboard_time": 1723033402,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119624,
+        "num": 119624,
+        "word": "中国花游奥运首金",
+        "onboard_time": 1723052655,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82888,
+        "num": 119501,
+        "word": "宋小宝恭喜李发彬夺得金牌",
+        "onboard_time": 1723057632,
+        "rank": 14,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 119408,
+        "num": 119408,
+        "word": "中国第25金",
+        "onboard_time": 1723061052,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119098,
+        "num": 119098,
+        "word": "日本男团vs瑞典男团",
+        "onboard_time": 1723054514,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63541,
+        "num": 110006,
+        "word": "BLACKPINK直播",
+        "onboard_time": 1723044503,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58792,
+        "num": 109118,
+        "word": "张纪中夫妇回应混血儿身世",
+        "onboard_time": 1723033883,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45958,
+        "num": 108895,
+        "word": "王丽坤已婚和办离婚被同天知道",
+        "onboard_time": 1723029743,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108812,
+        "num": 108812,
+        "word": "国乒女团进4强",
+        "onboard_time": 1723041148,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93149,
+        "num": 93149,
+        "word": "郭清跆拳道银牌",
+        "onboard_time": 1723059973,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92976,
+        "num": 92976,
+        "word": "美国申诉夺铜后气炸罗马尼亚",
+        "onboard_time": 1723040606,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78499,
+        "num": 78499,
+        "word": "孙颖莎vs郑怡静",
+        "onboard_time": 1723038024,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75284,
+        "num": 75284,
+        "word": "王楚钦感谢教练让他出战第三场",
+        "onboard_time": 1723038384,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66617,
+        "num": 66617,
+        "word": "李发彬举重金牌",
+        "onboard_time": 1723044684,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65834,
+        "num": 65834,
+        "word": "中国女曲晋级决赛",
+        "onboard_time": 1723056433,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43637,
+        "num": 65700,
+        "word": "戴向宇相信张昊唯不是有意的",
+        "onboard_time": 1723034183,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41804,
+        "num": 65191,
+        "word": "戴向宇回应张昊唯道歉",
+        "onboard_time": 1723048281,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38078,
+        "num": 64181,
+        "word": "陈丽君回复周深粉丝",
+        "onboard_time": 1723044985,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 72036,
+        "num": 63946,
+        "word": "李发彬不想退役了",
+        "onboard_time": 1723060512,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63364,
+        "num": 63364,
+        "word": "吴艳妮复活赛又进死亡之组",
+        "onboard_time": 1723038565,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46448,
+        "num": 46448,
+        "word": "英国大骚乱因为什么发生的",
+        "onboard_time": 1723050617,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42047,
+        "num": 42047,
+        "word": "中国在外国人眼中是这样的",
+        "onboard_time": 1723055713,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35914,
+        "num": 42036,
+        "word": "李雪琴带男友与朋友聚餐",
+        "onboard_time": 1723033883,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60639,
+        "num": 42028,
+        "word": "中国女曲被绝平",
+        "onboard_time": 1723055774,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57923,
+        "num": 42021,
+        "word": "举重女子49公斤级决赛",
+        "onboard_time": 1723051516,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55796,
+        "num": 41999,
+        "word": "吕小军举重鞋",
+        "onboard_time": 1723045463,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54744,
+        "num": 41986,
+        "word": "王楚钦vs张禹珍",
+        "onboard_time": 1723022725,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53481,
+        "num": 41978,
+        "word": "冯紫琪女子摔跤铜牌",
+        "onboard_time": 1723060633,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54075,
+        "num": 41967,
+        "word": "孙颖莎3比0战胜郑怡静",
+        "onboard_time": 1723039526,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52866,
+        "num": 41948,
+        "word": "郭清跆拳道冲金",
+        "onboard_time": 1723059192,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52415,
+        "num": 41942,
+        "word": "中国女曲vs比利时女曲",
+        "onboard_time": 1723049839,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48838,
+        "num": 41925,
+        "word": "侯志慧挺举110公斤成功",
+        "onboard_time": 1723059373,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41921,
+        "num": 41921,
+        "word": "张博恒称上场前至少喷半瓶发胶",
+        "onboard_time": 1723065672,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34928,
+        "num": 41883,
+        "word": "张昊唯 我会用一辈子去反省",
+        "onboard_time": 1723031003,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32667,
+        "num": 41865,
+        "word": "好超前的剧把吸毒变丧尸拍出来了",
+        "onboard_time": 1723032861,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32641,
+        "num": 41833,
+        "word": "张极Vlog",
+        "onboard_time": 1723048100,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31686,
+        "num": 41800,
+        "word": "12306回应火车餐车不消费不能坐",
+        "onboard_time": 1723042945,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31375,
+        "num": 41741,
+        "word": "女子称双汇火腿肠含像眼睛似的异物",
+        "onboard_time": 1723043723,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻文化根魂#"
+    }
+  }
+}
