@@ -1,0 +1,410 @@
+{
+  "runTime": 1723055990147,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 872109,
+        "num": 872109,
+        "word": "徐卓一止步半决赛",
+        "onboard_time": 1723051936,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 511607,
+        "num": 511607,
+        "word": "举重女子49公斤级决赛",
+        "onboard_time": 1723051516,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16040,
+        "num": 462208,
+        "word": "我国进出口规模再创新高",
+        "onboard_time": 1723037185,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445087,
+        "num": 445087,
+        "word": "中国冲击花游历史首金",
+        "onboard_time": 1723052655,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 431812,
+        "num": 431812,
+        "word": "查尔莫斯转发潘展乐澄清视频",
+        "onboard_time": 1723048818,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298747,
+        "num": 298747,
+        "word": "戴向宇的工作全部叫停",
+        "onboard_time": 1723042585,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246775,
+        "num": 246775,
+        "word": "以为宋小宝去举重了",
+        "onboard_time": 1723047200,
+        "rank": 6,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 222811,
+        "num": 222811,
+        "word": "吴艳妮复活赛又进死亡之组",
+        "onboard_time": 1723038565,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218872,
+        "num": 218872,
+        "word": "中国女曲vs比利时女曲",
+        "onboard_time": 1723049839,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23679,
+        "num": 215214,
+        "word": "哈马斯新领导人曾放话让以色列暗杀自己",
+        "onboard_time": 1723052835,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 215130,
+        "num": 215130,
+        "word": "国乒女团进4强",
+        "onboard_time": 1723041148,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209834,
+        "num": 209834,
+        "word": "徐卓一跨栏时眼镜为何不会掉",
+        "onboard_time": 1723050678,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204945,
+        "num": 204945,
+        "word": "英国大骚乱因为什么发生的",
+        "onboard_time": 1723050617,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189982,
+        "num": 189982,
+        "word": "徐卓一秦伟搏110米栏半决赛",
+        "onboard_time": 1723048940,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158033,
+        "num": 189378,
+        "word": "BLACKPINK直播",
+        "onboard_time": 1723044503,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189249,
+        "num": 189249,
+        "word": "潘展乐告状行为开始人传人",
+        "onboard_time": 1723046543,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186127,
+        "num": 186127,
+        "word": "李发彬举重金牌",
+        "onboard_time": 1723044684,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92600,
+        "num": 156810,
+        "word": "陈丽君回复周深粉丝",
+        "onboard_time": 1723044985,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 86443,
+        "num": 154201,
+        "word": "张昊唯 我会用一辈子去反省",
+        "onboard_time": 1723031003,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84333,
+        "num": 152657,
+        "word": "戴向宇相信张昊唯不是有意的",
+        "onboard_time": 1723034183,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151621,
+        "num": 151621,
+        "word": "孙颖莎vs郑怡静",
+        "onboard_time": 1723038024,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147910,
+        "num": 147910,
+        "word": "张博恒骨折的小拇指还没恢复",
+        "onboard_time": 1723046601,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145328,
+        "num": 145328,
+        "word": "陈梦王曼昱3比0陈思羽简彤娟",
+        "onboard_time": 1723038085,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129470,
+        "num": 129470,
+        "word": "中国女曲被绝平",
+        "onboard_time": 1723055774,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124215,
+        "num": 124215,
+        "word": "女子称双汇火腿肠含像眼睛似的异物",
+        "onboard_time": 1723043723,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114274,
+        "num": 114274,
+        "word": "王楚钦感谢教练让他出战第三场",
+        "onboard_time": 1723038384,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113322,
+        "num": 113322,
+        "word": "吕小军举重鞋",
+        "onboard_time": 1723045463,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83750,
+        "num": 107218,
+        "word": "种地吧第三季原班人马",
+        "onboard_time": 1723030223,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80973,
+        "num": 105315,
+        "word": "张纪中夫妇回应混血儿身世",
+        "onboard_time": 1723033883,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68469,
+        "num": 104326,
+        "word": "戴向宇回应张昊唯道歉",
+        "onboard_time": 1723048281,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104007,
+        "num": 104007,
+        "word": "美国申诉夺铜后气炸罗马尼亚",
+        "onboard_time": 1723040606,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43534,
+        "num": 100796,
+        "word": "花游队BGM",
+        "onboard_time": 1723054753,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97676,
+        "num": 97676,
+        "word": "举重男子61公斤级决赛",
+        "onboard_time": 1723035204,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96327,
+        "num": 96327,
+        "word": "王楚钦vs张禹珍",
+        "onboard_time": 1723022725,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91148,
+        "num": 95337,
+        "word": "疑因妻子出轨同事自缢死者父亲发声",
+        "onboard_time": 1723033402,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94630,
+        "num": 94630,
+        "word": "王昶梁伟铿都有女朋友",
+        "onboard_time": 1723022844,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93586,
+        "num": 93586,
+        "word": "孙颖莎3比0战胜郑怡静",
+        "onboard_time": 1723039526,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89610,
+        "num": 89610,
+        "word": "秦伟搏无缘110米栏决赛",
+        "onboard_time": 1723051395,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89428,
+        "num": 89428,
+        "word": "覃海洋好帅",
+        "onboard_time": 1723042526,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82956,
+        "num": 88065,
+        "word": "国乒男团进四强",
+        "onboard_time": 1723026564,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87829,
+        "num": 87829,
+        "word": "12306回应火车餐车不消费不能坐",
+        "onboard_time": 1723042945,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82054,
+        "num": 82054,
+        "word": "日本男团vs瑞典男团",
+        "onboard_time": 1723054514,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79891,
+        "num": 79891,
+        "word": "亚当皮蒂取关所有中国选手",
+        "onboard_time": 1723031663,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71406,
+        "num": 71406,
+        "word": "马龙给穿了队服的外国小朋友签名",
+        "onboard_time": 1723051575,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64980,
+        "num": 64980,
+        "word": "好超前的剧把吸毒变丧尸拍出来了",
+        "onboard_time": 1723032861,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22285,
+        "num": 62871,
+        "word": "哈马斯新领导人是强硬派",
+        "onboard_time": 1723052655,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 61960,
+        "num": 61960,
+        "word": "波兰男排vs美国男排",
+        "onboard_time": 1723049240,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60669,
+        "num": 60669,
+        "word": "王丽坤已婚和办离婚被同天知道",
+        "onboard_time": 1723029743,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59515,
+        "num": 59515,
+        "word": "李雪琴带男友与朋友聚餐",
+        "onboard_time": 1723033883,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57408,
+        "num": 59513,
+        "word": "BLACKPINK合体庆祝出道8周年",
+        "onboard_time": 1723044443,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻文化根魂#"
+    }
+  }
+}
