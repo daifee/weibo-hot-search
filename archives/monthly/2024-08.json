@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1723055990147,
+  "endTime": 1723058234286,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -8155,6 +8155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 640328,
+      "num": 640328,
+      "word": "举重女子49公斤级决赛",
+      "onboard_time": 1723051516,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 639249,
       "num": 639249,
       "word": "樊振东领奖央视解说词",
@@ -8217,6 +8225,14 @@
       "onboard_time": 1722911542,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 633870,
+      "num": 633870,
+      "word": "中国花游奥运首金",
+      "onboard_time": 1723052655,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 632750,
@@ -8747,6 +8763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 574362,
+      "num": 574362,
+      "word": "中国女曲晋级决赛",
+      "onboard_time": 1723056433,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 574277,
       "num": 574277,
       "word": "孙颖莎陈梦再现巅峰对决",
@@ -9025,14 +9049,6 @@
       "onboard_time": 1723037424,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 542399,
-      "num": 542399,
-      "word": "举重女子49公斤级决赛",
-      "onboard_time": 1723051516,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 540394,
@@ -10160,6 +10176,14 @@
       "word": "王欣瑜险些订机票回国",
       "onboard_time": 1722527022,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 463632,
+      "num": 129470,
+      "word": "中国女曲被绝平",
+      "onboard_time": 1723055774,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -13291,6 +13315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315994,
+      "num": 434540,
+      "word": "中国女曲vs比利时女曲",
+      "onboard_time": 1723049839,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 315992,
       "num": 245163,
       "word": "孙颖莎陈梦角逐乒乓女单冠军",
@@ -16291,6 +16323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227699,
+      "num": 93390,
+      "word": "中国女曲比利时女曲冲突",
+      "onboard_time": 1723057572,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 227690,
       "num": 227690,
       "word": "梦之队EWC首场揭幕战",
@@ -16504,14 +16544,6 @@
       "word": "马尔尚杀疯了",
       "onboard_time": 1722626113,
       "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 222482,
-      "num": 434540,
-      "word": "中国女曲vs比利时女曲",
-      "onboard_time": 1723049839,
-      "rank": 9,
       "category": "体育"
     },
     {
@@ -18491,6 +18523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183270,
+      "num": 102816,
+      "word": "花游解说都哽咽了",
+      "onboard_time": 1723057452,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183263,
       "num": 195957,
       "word": "你是我的荣耀奥运期间热度",
@@ -19243,6 +19283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 157415,
+      "num": 102501,
+      "word": "日本男团vs瑞典男团",
+      "onboard_time": 1723054514,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157386,
       "num": 281005,
       "word": "亲历者还原雅康高速隧间桥垮塌瞬间",
@@ -19875,14 +19923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129470,
-      "num": 129470,
-      "word": "中国女曲被绝平",
-      "onboard_time": 1723055774,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 128374,
       "num": 303599,
       "word": "钎城 输出",
@@ -20321,6 +20361,14 @@
       "onboard_time": 1723021224,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104805,
+      "num": 207971,
+      "word": "花游队BGM",
+      "onboard_time": 1723054753,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 104769,
@@ -20803,14 +20851,6 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 83168,
-      "num": 83168,
-      "word": "日本男团vs瑞典男团",
-      "onboard_time": 1723054514,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 82477,
       "num": 94424,
       "word": "6名野生动物保护官集体入驻微博",
@@ -21131,6 +21171,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 69353,
+      "num": 69353,
+      "word": "中国女曲半场1比0比利时",
+      "onboard_time": 1723056073,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69081,
       "num": 1746699,
       "word": "演唱会成行走的流量包",
@@ -21417,6 +21465,14 @@
       "onboard_time": 1722848784,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58689,
+      "num": 89318,
+      "word": "中国在外国人眼中是这样的",
+      "onboard_time": 1723055713,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 58413,
@@ -21835,6 +21891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48117,
+      "num": 54566,
+      "word": "宋小宝恭喜李发彬夺得金牌",
+      "onboard_time": 1723057632,
+      "rank": 48,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 47730,
       "num": 283738,
       "word": "长城董事长谈汽车产业乱象",
@@ -22001,14 +22065,6 @@
       "onboard_time": 1722925825,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 43534,
-      "num": 207971,
-      "word": "花游队BGM",
-      "onboard_time": 1723054753,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 43327,
@@ -22748,7 +22804,7 @@
     },
     {
       "raw_hot": 22285,
-      "num": 62871,
+      "num": 122373,
       "word": "哈马斯新领导人是强硬派",
       "onboard_time": 1723052655,
       "rank": 45,
