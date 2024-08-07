@@ -1,6 +1,6 @@
 {
   "startTime": 1722961504263,
-  "endTime": 1723027087194,
+  "endTime": 1723029416105,
   "band_list": [
     {
       "raw_hot": 10807671,
@@ -315,6 +315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1578878,
+      "num": 1578878,
+      "word": "邓丽娟银牌",
+      "onboard_time": 1723028783,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1540946,
       "num": 947961,
       "word": "文科危机真的来了吗",
@@ -587,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 918779,
+      "num": 1348205,
+      "word": "警方打击涉体育领域饭圈违法犯罪",
+      "onboard_time": 1723025666,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 905619,
       "num": 905619,
       "word": "光与夜之恋神卡",
@@ -683,10 +699,26 @@
       "category": "体育"
     },
     {
+      "raw_hot": 834870,
+      "num": 1237395,
+      "word": "邓丽娟晋级女子速度攀岩决赛",
+      "onboard_time": 1723028301,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 824478,
       "num": 824478,
       "word": "陈芋汐是启蒙教练从体操队抢到的",
       "onboard_time": 1723012643,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 799865,
+      "num": 799865,
+      "word": "樊振东有一点点的火气",
+      "onboard_time": 1723026803,
       "rank": 39,
       "category": "体育"
     },
@@ -739,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 682439,
+      "num": 682439,
+      "word": "女子速度攀岩",
+      "onboard_time": 1723027823,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 679847,
       "num": 679847,
       "word": "曹利国摔跤决赛",
@@ -760,6 +800,14 @@
       "word": "许昕说对战韩国队是王楚钦自证的机会",
       "onboard_time": 1723022305,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 656185,
+      "num": 656185,
+      "word": "真的被王昶笑崩溃了",
+      "onboard_time": 1723026443,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -947,6 +995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 443848,
+      "num": 443848,
+      "word": "马龙歪头",
+      "onboard_time": 1723025308,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 443012,
       "num": 443012,
       "word": "BBC解说被全红婵夺冠五连跳惊呆",
@@ -1067,14 +1123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 382667,
-      "num": 1348205,
-      "word": "警方打击涉体育领域饭圈违法犯罪",
-      "onboard_time": 1723025666,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 377240,
       "num": 214522,
       "word": "陈芋汐的手指上都贴了膏药",
@@ -1131,11 +1179,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 363901,
-      "num": 363901,
-      "word": "樊振东有一点点的火气",
-      "onboard_time": 1723026803,
-      "rank": 39,
+      "raw_hot": 364508,
+      "num": 364508,
+      "word": "马尔尚无视粉丝再次道歉",
+      "onboard_time": 1723028003,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -1177,14 +1225,6 @@
       "onboard_time": 1723007064,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 350698,
-      "num": 350698,
-      "word": "真的被王昶笑崩溃了",
-      "onboard_time": 1723026443,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 350435,
@@ -1232,14 +1272,6 @@
       "word": "王昶回应粉丝接机",
       "onboard_time": 1723016181,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 336469,
-      "num": 336469,
-      "word": "马龙歪头",
-      "onboard_time": 1723025308,
-      "rank": 43,
       "category": "体育"
     },
     {
@@ -1345,6 +1377,14 @@
       "onboard_time": 1723012764,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 303358,
+      "num": 765241,
+      "word": "时代少年团票价",
+      "onboard_time": 1723028063,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 300999,
@@ -1515,6 +1555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270911,
+      "num": 1257875,
+      "word": "4名中国公民在尼泊尔坠机遇难",
+      "onboard_time": 1723027462,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268514,
       "num": 866410,
       "word": "鞠婧祎金九封面",
@@ -1547,6 +1595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 262505,
+      "num": 262505,
+      "word": "TE晋级冠军赛八强",
+      "onboard_time": 1723029203,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 259774,
       "num": 259774,
       "word": "赵杰链球铜牌",
@@ -1555,12 +1611,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 255466,
+      "num": 740737,
+      "word": "李木戈还我妈生he",
+      "onboard_time": 1723028184,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254442,
       "num": 254442,
       "word": "唐嫣吧唧痛耳",
       "onboard_time": 1722959066,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 252117,
+      "num": 252117,
+      "word": "郭焱称王楚钦球拍争议已经翻篇了",
+      "onboard_time": 1723028902,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 251775,
+      "num": 251775,
+      "word": "王楚钦被裁判问比分",
+      "onboard_time": 1723029142,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 251432,
@@ -1665,6 +1745,14 @@
       "onboard_time": 1722997100,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 237743,
+      "num": 371998,
+      "word": "迪丽热巴清爽白T",
+      "onboard_time": 1723027703,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 237470,
@@ -1883,6 +1971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212942,
+      "num": 270952,
+      "word": "娜扎 美人鱼女王",
+      "onboard_time": 1723029263,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210671,
       "num": 235212,
       "word": "马龙王楚钦3比0赵大成张禹珍",
@@ -1961,6 +2057,14 @@
       "onboard_time": 1722988581,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203570,
+      "num": 262867,
+      "word": "闵玧其骑车监控",
+      "onboard_time": 1723028842,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 201707,
@@ -2331,6 +2435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124013,
+      "num": 970537,
+      "word": "霸王茶姬获国际体育记者协会认证",
+      "onboard_time": 1723025966,
+      "rank": 49,
+      "category": "体育,财经"
+    },
+    {
       "raw_hot": 123682,
       "num": 364024,
       "word": "陈丽君带网友勇闯越剧赛道",
@@ -2555,12 +2667,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65322,
-      "num": 970537,
-      "word": "霸王茶姬获国际体育记者协会认证",
-      "onboard_time": 1723025966,
-      "rank": 49,
-      "category": "体育,财经"
+      "raw_hot": 67177,
+      "num": 5230415,
+      "word": "中国59项世界遗产全名单",
+      "onboard_time": 1723019003,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 63754,
@@ -2632,14 +2744,6 @@
       "word": "英国女记者直播时车胎被抗议者扎破",
       "onboard_time": 1723012222,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51079,
-      "num": 5230415,
-      "word": "中国59项世界遗产全名单",
-      "onboard_time": 1723019003,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
