@@ -1,6 +1,6 @@
 {
   "startTime": 1722961504263,
-  "endTime": 1722998386094,
+  "endTime": 1722998963022,
   "band_list": [
     {
       "raw_hot": 3693867,
@@ -40,6 +40,14 @@
       "word": "陈若琳把全红婵养得是真好啊",
       "onboard_time": 1722986779,
       "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2418243,
+      "num": 2418243,
+      "word": "王皓 好了没我的大小姐",
+      "onboard_time": 1722997461,
+      "rank": 10,
       "category": "体育"
     },
     {
@@ -155,14 +163,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 1030282,
-      "num": 810851,
-      "word": "王皓 好了没我的大小姐",
-      "onboard_time": 1722997461,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1026609,
       "num": 1026609,
       "word": "全红婵安慰哥哥",
@@ -171,11 +171,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 976908,
+      "num": 513282,
+      "word": "一不小心把导师的女儿给电了",
+      "onboard_time": 1722994886,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 959761,
       "num": 959761,
       "word": "郭晶晶见证全红婵夺冠",
       "onboard_time": 1722991703,
       "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 919578,
+      "num": 919578,
+      "word": "全红婵说这届金牌没那么重了",
+      "onboard_time": 1722996381,
+      "rank": 12,
       "category": "体育"
     },
     {
@@ -259,14 +275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 708797,
-      "num": 513282,
-      "word": "一不小心把导师的女儿给电了",
-      "onboard_time": 1722994886,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 692366,
       "num": 614311,
       "word": "立秋不是真正的入秋",
@@ -291,14 +299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 637191,
-      "num": 637191,
-      "word": "全红婵说这届金牌没那么重了",
-      "onboard_time": 1722996381,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 616625,
       "num": 616625,
       "word": "立秋",
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 588388,
-      "num": 551729,
+      "num": 566297,
       "word": "王昶用了王一博原声",
       "onboard_time": 1722992843,
       "rank": 33,
@@ -321,6 +321,14 @@
       "onboard_time": 1722960507,
       "rank": 21,
       "category": "体育,综艺"
+    },
+    {
+      "raw_hot": 561638,
+      "num": 915765,
+      "word": "林俊杰邓紫棋回关潘展乐",
+      "onboard_time": 1722995000,
+      "rank": 28,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 549974,
@@ -355,14 +363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 501965,
-      "num": 913611,
-      "word": "林俊杰邓紫棋回关潘展乐",
-      "onboard_time": 1722995000,
-      "rank": 28,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 498294,
       "num": 498294,
       "word": "中国花游断层第一",
@@ -395,6 +395,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 403769,
+      "num": 403769,
+      "word": "文科危机真的来了吗",
+      "onboard_time": 1722997281,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400936,
+      "num": 400936,
+      "word": "全红婵发布会戴奥运五环眼镜",
+      "onboard_time": 1722997160,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 395395,
+      "num": 395395,
+      "word": "美国选手的兴奋剂疑点不能不了了之",
+      "onboard_time": 1722995720,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 390383,
       "num": 390383,
       "word": "贺某某",
@@ -419,14 +443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 370434,
-      "num": 370434,
-      "word": "全红婵发布会戴奥运五环眼镜",
-      "onboard_time": 1722997160,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 368693,
       "num": 672544,
       "word": "张昊唯张艺兴合作过",
@@ -443,7 +459,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 350019,
+      "raw_hot": 354670,
       "num": 449168,
       "word": "赵露思玩双杠",
       "onboard_time": 1722993443,
@@ -457,6 +473,14 @@
       "onboard_time": 1722991583,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 345642,
+      "num": 345642,
+      "word": "莎头拿下百万票房",
+      "onboard_time": 1722998601,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 342306,
@@ -504,22 +528,6 @@
       "word": "马龙王楚钦3比0印度组合",
       "onboard_time": 1722933093,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 298265,
-      "num": 298265,
-      "word": "文科危机真的来了吗",
-      "onboard_time": 1722997281,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 297317,
-      "num": 297317,
-      "word": "美国选手的兴奋剂疑点不能不了了之",
-      "onboard_time": 1722995720,
-      "rank": 36,
       "category": "体育"
     },
     {
@@ -595,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 260190,
+      "num": 260190,
+      "word": "吴艳妮同组对手实力",
+      "onboard_time": 1722996740,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 259774,
       "num": 259774,
       "word": "赵杰链球铜牌",
@@ -609,6 +625,14 @@
       "onboard_time": 1722959066,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 252018,
+      "num": 252018,
+      "word": "王昶开始去追洛杉矶奥运会了",
+      "onboard_time": 1722998241,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 248958,
@@ -652,7 +676,7 @@
     },
     {
       "raw_hot": 238045,
-      "num": 238045,
+      "num": 569539,
       "word": "汪顺视角感受奥运村内生活",
       "onboard_time": 1722997100,
       "rank": 46,
@@ -691,26 +715,10 @@
       "category": "体育"
     },
     {
-      "raw_hot": 229405,
-      "num": 229405,
-      "word": "王昶开始去追洛杉矶奥运会了",
-      "onboard_time": 1722998241,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 227123,
       "num": 227123,
       "word": "瑞典男团晋级四强",
       "onboard_time": 1722992482,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 227018,
-      "num": 227018,
-      "word": "吴艳妮同组对手实力",
-      "onboard_time": 1722996740,
       "rank": 49,
       "category": "体育"
     },
@@ -804,7 +812,7 @@
     },
     {
       "raw_hot": 195012,
-      "num": 814028,
+      "num": 876987,
       "word": "国家安全部通报一起故意通风报信案",
       "onboard_time": 1722997401,
       "rank": 9,
@@ -907,6 +915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 158544,
+      "num": 552080,
+      "word": "波尔谢幕",
+      "onboard_time": 1722997641,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156457,
       "num": 179503,
       "word": "男孩海上潜水被数只护士鲨包围",
@@ -961,14 +977,6 @@
       "onboard_time": 1722960507,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 139626,
-      "num": 552080,
-      "word": "波尔谢幕",
-      "onboard_time": 1722997641,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 139440,
