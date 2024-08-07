@@ -1,0 +1,410 @@
+{
+  "runTime": 1723034318698,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2866522,
+        "num": 2866522,
+        "word": "王楚钦被裁判问比分",
+        "onboard_time": 1723029142,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1533842,
+        "num": 1533842,
+        "word": "王昶梁伟铿都有女朋友",
+        "onboard_time": 1723022844,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27824,
+        "num": 1490759,
+        "word": "中国59项世界遗产全名单",
+        "onboard_time": 1723019003,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1458556,
+        "num": 1458556,
+        "word": "种地吧第三季原班人马",
+        "onboard_time": 1723030223,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1443316,
+        "num": 1443316,
+        "word": "王楚钦vs张禹珍",
+        "onboard_time": 1723022725,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1250290,
+        "num": 1250290,
+        "word": "张昊唯向戴向宇道歉",
+        "onboard_time": 1723030463,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1231919,
+        "num": 1231919,
+        "word": "樊振东有一点点的火气",
+        "onboard_time": 1723026803,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 857886,
+        "num": 857886,
+        "word": "王丽坤已婚和办离婚被同天知道",
+        "onboard_time": 1723029743,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32701,
+        "num": 856231,
+        "word": "李发彬侯志慧冲击举重金牌",
+        "onboard_time": 1723033703,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211104,
+        "num": 841195,
+        "word": "江苏多地婚姻登记处本周六正常上班",
+        "onboard_time": 1723031603,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2346193,
+        "num": 831089,
+        "word": "吴艳妮预赛遇生理期",
+        "onboard_time": 1723029443,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30711,
+        "num": 827977,
+        "word": "为中国力量喝彩",
+        "onboard_time": 1723031122,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 820669,
+        "num": 820669,
+        "word": "游泳队在水下喝上了桶装水",
+        "onboard_time": 1723016842,
+        "rank": 12,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 719566,
+        "num": 719566,
+        "word": "警方打击涉体育领域饭圈违法犯罪",
+        "onboard_time": 1723025666,
+        "rank": 13,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 63343,
+        "num": 715403,
+        "word": "淘宝回应将发射火箭上天",
+        "onboard_time": 1723032022,
+        "rank": 14,
+        "category": "互联网,科学科普"
+      },
+      {
+        "raw_hot": 752230,
+        "num": 713796,
+        "word": "王楚钦拧拉",
+        "onboard_time": 1723024829,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 711672,
+        "num": 711672,
+        "word": "国乒男团进四强",
+        "onboard_time": 1723026564,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 539208,
+        "num": 693742,
+        "word": "张昊唯 我会用一辈子去反省",
+        "onboard_time": 1723031003,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474533,
+        "num": 683380,
+        "word": "歌手李栋旭结婚",
+        "onboard_time": 1723024045,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392230,
+        "num": 643476,
+        "word": "闵玧其骑车监控",
+        "onboard_time": 1723028842,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 734601,
+        "num": 626410,
+        "word": "王丽坤 办离婚",
+        "onboard_time": 1723012404,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 612057,
+        "num": 612057,
+        "word": "真的被王昶笑崩溃了",
+        "onboard_time": 1723026443,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 598637,
+        "num": 598637,
+        "word": "王昶 别想了",
+        "onboard_time": 1723023625,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 526068,
+        "num": 526068,
+        "word": "亚当皮蒂取关所有中国选手",
+        "onboard_time": 1723031663,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 500980,
+        "num": 500980,
+        "word": "马龙打球 赏心悦目",
+        "onboard_time": 1723019665,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 478475,
+        "num": 478475,
+        "word": "马龙擦汗vs许昕擦汗",
+        "onboard_time": 1723032022,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 444242,
+        "num": 444242,
+        "word": "邓丽娟银牌",
+        "onboard_time": 1723028783,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 421076,
+        "num": 421076,
+        "word": "马龙王楚钦vs赵大成张禹珍",
+        "onboard_time": 1723018582,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 334130,
+        "num": 393858,
+        "word": "张纪中夫妇回应混血儿身世",
+        "onboard_time": 1723033883,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307186,
+        "num": 393104,
+        "word": "光渊首更30集",
+        "onboard_time": 1723024525,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 392717,
+        "num": 392717,
+        "word": "查尔莫斯晒潘展乐泳帽",
+        "onboard_time": 1723030343,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 369528,
+        "num": 369528,
+        "word": "马龙指导上线",
+        "onboard_time": 1723029082,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 369294,
+        "num": 369294,
+        "word": "与金牌仅差0.08秒",
+        "onboard_time": 1723033044,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 366652,
+        "num": 366652,
+        "word": "戴向宇相信张昊唯不是有意的",
+        "onboard_time": 1723034183,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303216,
+        "num": 313150,
+        "word": "好超前的剧把吸毒变丧尸拍出来了",
+        "onboard_time": 1723032861,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307587,
+        "num": 307587,
+        "word": "王楚钦状态",
+        "onboard_time": 1723019546,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306856,
+        "num": 306856,
+        "word": "吴艳妮小组第6",
+        "onboard_time": 1723019003,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 297511,
+        "num": 297511,
+        "word": "马尔尚无视粉丝再次道歉",
+        "onboard_time": 1723028003,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284174,
+        "num": 284174,
+        "word": "泰国男子将炸弹放入熟睡妻子口中",
+        "onboard_time": 1723032983,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284114,
+        "num": 284114,
+        "word": "樊振东vs林钟勋",
+        "onboard_time": 1723020385,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283380,
+        "num": 283380,
+        "word": "外国小孩哥狂吼马龙iloveyou",
+        "onboard_time": 1723033103,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273704,
+        "num": 273704,
+        "word": "李雪琴带男友与朋友聚餐",
+        "onboard_time": 1723033883,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272653,
+        "num": 272653,
+        "word": "潘展乐两眼一睁就是尿检",
+        "onboard_time": 1723031003,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268576,
+        "num": 268576,
+        "word": "医院通报疑护士出轨致丈夫自杀",
+        "onboard_time": 1723017563,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268000,
+        "num": 268000,
+        "word": "马龙歪头",
+        "onboard_time": 1723025308,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258980,
+        "num": 258980,
+        "word": "疑因妻子出轨同事自缢死者父亲发声",
+        "onboard_time": 1723033402,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254315,
+        "num": 254315,
+        "word": "种地吧第三季开始筹备",
+        "onboard_time": 1723030042,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234117,
+        "num": 234117,
+        "word": "林俊杰抢票",
+        "onboard_time": 1723030942,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 219778,
+        "num": 219778,
+        "word": "光渊 上线",
+        "onboard_time": 1723018881,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111749,
+        "num": 212778,
+        "word": "上海又诞生国内单价最贵地王",
+        "onboard_time": 1723032022,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革为人民#"
+    }
+  }
+}
