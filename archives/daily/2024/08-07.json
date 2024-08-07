@@ -1,6 +1,6 @@
 {
   "startTime": 1722961504263,
-  "endTime": 1723004717590,
+  "endTime": 1723005527385,
   "band_list": [
     {
       "raw_hot": 3858053,
@@ -43,6 +43,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2536257,
+      "num": 2536257,
+      "word": "全红婵呼吁粉丝跳前不要呐喊",
+      "onboard_time": 1722999562,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2440972,
       "num": 2440972,
       "word": "陈若琳把全红婵养得是真好啊",
@@ -56,14 +64,6 @@
       "word": "全红婵再现10101010101010",
       "onboard_time": 1722950366,
       "rank": 5,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2354103,
-      "num": 2354103,
-      "word": "全红婵呼吁粉丝跳前不要呐喊",
-      "onboard_time": 1722999562,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -120,6 +120,14 @@
       "word": "全红婵夺金后第一条消息发给陈艺文",
       "onboard_time": 1722988281,
       "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1638264,
+      "num": 694041,
+      "word": "刘国梁都得问奶奶借笔记",
+      "onboard_time": 1723002563,
+      "rank": 12,
       "category": "体育"
     },
     {
@@ -187,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1131024,
+      "num": 1131024,
+      "word": "全红婵 这话问的谁不累呀",
+      "onboard_time": 1723002683,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1086784,
       "num": 291989,
       "word": "马龙撤回一个握手",
@@ -225,6 +241,14 @@
       "onboard_time": 1722991703,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 942533,
+      "num": 942533,
+      "word": "潜水店为刷客致大量游客耳膜穿孔",
+      "onboard_time": 1722999621,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 905619,
@@ -315,27 +339,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 815754,
-      "num": 815754,
-      "word": "潜水店为刷客致大量游客耳膜穿孔",
-      "onboard_time": 1722999621,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 786002,
-      "num": 645431,
-      "word": "刘国梁都得问奶奶借笔记",
-      "onboard_time": 1723002563,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 779398,
       "num": 226003,
       "word": "林昀儒3比2张本智和",
       "onboard_time": 1722955113,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 745108,
+      "num": 745108,
+      "word": "如果张本智和给潘展乐当翻译",
+      "onboard_time": 1723002503,
+      "rank": 15,
       "category": "体育"
     },
     {
@@ -355,20 +371,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 668043,
-      "num": 668043,
-      "word": "全红婵 这话问的谁不累呀",
-      "onboard_time": 1723002683,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 650927,
       "num": 292173,
       "word": "全红婵金牌",
       "onboard_time": 1722953493,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 628119,
+      "num": 628119,
+      "word": "全红婵 我不想知道",
+      "onboard_time": 1723005445,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 618342,
+      "num": 618342,
+      "word": "奶奶偷将新生儿送养夫妻苦寻37年",
+      "onboard_time": 1723003163,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 616625,
@@ -459,14 +483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 494798,
-      "num": 494798,
-      "word": "如果张本智和给潘展乐当翻译",
-      "onboard_time": 1723002503,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 467140,
       "num": 467140,
       "word": "立秋文案",
@@ -499,28 +515,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 410340,
-      "num": 410340,
-      "word": "全红婵哥哥果蔬店已成立近3年",
-      "onboard_time": 1722999562,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 403647,
-      "num": 465332,
+      "raw_hot": 414705,
+      "num": 553141,
       "word": "电影姥姥的外孙定档",
       "onboard_time": 1722999201,
       "rank": 17,
       "category": "电影"
     },
     {
-      "raw_hot": 401217,
-      "num": 401217,
-      "word": "奶奶偷将新生儿送养夫妻苦寻37年",
-      "onboard_time": 1723003163,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 410340,
+      "num": 410340,
+      "word": "全红婵哥哥果蔬店已成立近3年",
+      "onboard_time": 1722999562,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 400936,
@@ -555,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 374641,
+      "num": 533595,
+      "word": "奥运历史首个单项五连冠",
+      "onboard_time": 1723001303,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 373795,
       "num": 461783,
       "word": "赵露思玩双杠",
@@ -563,12 +579,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 371226,
+      "num": 343635,
+      "word": "17岁正是整顿采访界的年纪",
+      "onboard_time": 1723004903,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 368693,
       "num": 672544,
       "word": "张昊唯张艺兴合作过",
       "onboard_time": 1722990744,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 363016,
+      "num": 537298,
+      "word": "玫瑰的故事举办庆功宴",
+      "onboard_time": 1723003282,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 356419,
@@ -627,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 316062,
+      "num": 438017,
+      "word": "庆功宴上的刘亦菲",
+      "onboard_time": 1723004603,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 315801,
       "num": 315801,
       "word": "花样游泳",
@@ -643,12 +683,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 302790,
-      "num": 438762,
-      "word": "玫瑰的故事举办庆功宴",
-      "onboard_time": 1723003282,
-      "rank": 23,
-      "category": "剧集"
+      "raw_hot": 309773,
+      "num": 309773,
+      "word": "陕西一溶洞内发现大熊猫化石",
+      "onboard_time": 1723001722,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 298645,
@@ -691,19 +731,27 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 290132,
-      "num": 290132,
-      "word": "陕西一溶洞内发现大熊猫化石",
-      "onboard_time": 1723001722,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 289953,
       "num": 206970,
       "word": "陈芋汐金美莱比赞不告诉全红婵",
       "onboard_time": 1722956429,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 286572,
+      "num": 286572,
+      "word": "陈芋汐比赛前还是生理期",
+      "onboard_time": 1723003826,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 285042,
+      "num": 285042,
+      "word": "BBC解说被全红婵夺冠五连跳惊呆",
+      "onboard_time": 1723004724,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -721,6 +769,14 @@
       "onboard_time": 1723003403,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 283342,
+      "num": 283342,
+      "word": "萧逸绝迹重生",
+      "onboard_time": 1723005384,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 280814,
@@ -755,15 +811,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 272745,
-      "num": 533595,
-      "word": "奥运历史首个单项五连冠",
-      "onboard_time": 1723001303,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 271400,
+      "raw_hot": 272229,
       "num": 369161,
       "word": "任嘉伦一只鸡做出八个菜",
       "onboard_time": 1723001902,
@@ -793,6 +841,14 @@
       "onboard_time": 1722959066,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 249213,
+      "num": 249213,
+      "word": "英国爆发13年来最大规模骚乱",
+      "onboard_time": 1723003826,
+      "rank": 46,
+      "category": "国外时政"
     },
     {
       "raw_hot": 248958,
@@ -851,11 +907,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 237791,
-      "num": 237791,
-      "word": "陈芋汐比赛前还是生理期",
-      "onboard_time": 1723003826,
-      "rank": 45,
+      "raw_hot": 237067,
+      "num": 237067,
+      "word": "第一次见不嘻嘻的王昶",
+      "onboard_time": 1723002263,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -897,6 +953,14 @@
       "onboard_time": 1723004484,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 227655,
+      "num": 665234,
+      "word": "上门维修背刺打工人",
+      "onboard_time": 1723003224,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227571,
@@ -1211,14 +1275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135357,
-      "num": 438017,
-      "word": "庆功宴上的刘亦菲",
-      "onboard_time": 1723004603,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 135160,
       "num": 135160,
       "word": "樊振东邱祺缘欧钰珊合影",
@@ -1241,14 +1297,6 @@
       "onboard_time": 1722986300,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126562,
-      "num": 665234,
-      "word": "上门维修背刺打工人",
-      "onboard_time": 1723003224,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122449,
@@ -1411,6 +1459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65710,
+      "num": 718599,
+      "word": "准大学生旅游在酒店被砍伤",
+      "onboard_time": 1723005024,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62821,
       "num": 94556,
       "word": "巴黎奥运女子链球决赛",
@@ -1459,8 +1515,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 40157,
-      "num": 268413,
+      "raw_hot": 47730,
+      "num": 283738,
       "word": "长城董事长谈汽车产业乱象",
       "onboard_time": 1723003224,
       "rank": 39,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1723005527385,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2536257,
+        "num": 2536257,
+        "word": "全红婵呼吁粉丝跳前不要呐喊",
+        "onboard_time": 1722999562,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1684088,
+        "num": 1684088,
+        "word": "全红婵说这届金牌没那么重了",
+        "onboard_time": 1722996381,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72849,
+        "num": 1326933,
+        "word": "今天已经立秋了",
+        "onboard_time": 1723002143,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1131024,
+        "num": 1131024,
+        "word": "全红婵 这话问的谁不累呀",
+        "onboard_time": 1723002683,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 958615,
+        "num": 958615,
+        "word": "陈若琳把全红婵养得是真好啊",
+        "onboard_time": 1722986779,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 942533,
+        "num": 942533,
+        "word": "潜水店为刷客致大量游客耳膜穿孔",
+        "onboard_time": 1722999621,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 833433,
+        "num": 833433,
+        "word": "明星终于明白追星的感觉了",
+        "onboard_time": 1722993143,
+        "rank": 6,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 745108,
+        "num": 745108,
+        "word": "如果张本智和给潘展乐当翻译",
+        "onboard_time": 1723002503,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 726814,
+        "num": 726814,
+        "word": "闵玧其涉嫌酒后骑电动滑板被调查",
+        "onboard_time": 1723002023,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65710,
+        "num": 718599,
+        "word": "准大学生旅游在酒店被砍伤",
+        "onboard_time": 1723005024,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2677993,
+        "num": 701956,
+        "word": "王皓 好了没我的大小姐",
+        "onboard_time": 1722997461,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1638264,
+        "num": 694041,
+        "word": "刘国梁都得问奶奶借笔记",
+        "onboard_time": 1723002563,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1139023,
+        "num": 678662,
+        "word": "文科危机真的来了吗",
+        "onboard_time": 1722997281,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 666481,
+        "num": 666481,
+        "word": "辛芷蕾需要一条瑜伽裤来装东西",
+        "onboard_time": 1723000222,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 628119,
+        "num": 628119,
+        "word": "全红婵 我不想知道",
+        "onboard_time": 1723005445,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 618342,
+        "num": 618342,
+        "word": "奶奶偷将新生儿送养夫妻苦寻37年",
+        "onboard_time": 1723003163,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414705,
+        "num": 553141,
+        "word": "电影姥姥的外孙定档",
+        "onboard_time": 1722999201,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 363016,
+        "num": 537298,
+        "word": "玫瑰的故事举办庆功宴",
+        "onboard_time": 1723003282,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 536347,
+        "num": 536347,
+        "word": "吴艳妮巴黎奥运首秀",
+        "onboard_time": 1722992964,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316062,
+        "num": 434463,
+        "word": "庆功宴上的刘亦菲",
+        "onboard_time": 1723004603,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1518275,
+        "num": 428583,
+        "word": "陈紫函戴向宇结婚9年了还没有孩子",
+        "onboard_time": 1722999621,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418797,
+        "num": 418797,
+        "word": "一不小心把导师的女儿给电了",
+        "onboard_time": 1722994886,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 403644,
+        "num": 403644,
+        "word": "马龙的眼袋比眼睛还大",
+        "onboard_time": 1722989124,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 402721,
+        "num": 402721,
+        "word": "光与夜之恋七夕卡面",
+        "onboard_time": 1722997100,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 398251,
+        "num": 398251,
+        "word": "国家安全部通报一起故意通风报信案",
+        "onboard_time": 1722997401,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397827,
+        "num": 397827,
+        "word": "全红婵哥哥果蔬店已成立近3年",
+        "onboard_time": 1722999562,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 374641,
+        "num": 374641,
+        "word": "奥运历史首个单项五连冠",
+        "onboard_time": 1723001303,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 370054,
+        "num": 370054,
+        "word": "全红婵否认是天才都是一遍遍练的",
+        "onboard_time": 1722992544,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327915,
+        "num": 352245,
+        "word": "赵露思玩双杠",
+        "onboard_time": 1722993443,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 272229,
+        "num": 345166,
+        "word": "任嘉伦一只鸡做出八个菜",
+        "onboard_time": 1723001902,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371226,
+        "num": 343635,
+        "word": "17岁正是整顿采访界的年纪",
+        "onboard_time": 1723004903,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341866,
+        "num": 341866,
+        "word": "全红婵夺金后第一条消息发给陈艺文",
+        "onboard_time": 1722988281,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339066,
+        "num": 339066,
+        "word": "美国选手的兴奋剂疑点不能不了了之",
+        "onboard_time": 1722995720,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223658,
+        "num": 322212,
+        "word": "闵玧其方回应被调查",
+        "onboard_time": 1723003403,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309773,
+        "num": 309773,
+        "word": "陕西一溶洞内发现大熊猫化石",
+        "onboard_time": 1723001722,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294554,
+        "num": 294554,
+        "word": "光与夜之恋神卡",
+        "onboard_time": 1722990563,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 290558,
+        "num": 290558,
+        "word": "王昶用了王一博原声",
+        "onboard_time": 1722992843,
+        "rank": 36,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 286572,
+        "num": 286572,
+        "word": "陈芋汐比赛前还是生理期",
+        "onboard_time": 1723003826,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285042,
+        "num": 285042,
+        "word": "BBC解说被全红婵夺冠五连跳惊呆",
+        "onboard_time": 1723004724,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47730,
+        "num": 283738,
+        "word": "长城董事长谈汽车产业乱象",
+        "onboard_time": 1723003224,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 283342,
+        "num": 283342,
+        "word": "萧逸绝迹重生",
+        "onboard_time": 1723005384,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 279539,
+        "num": 279539,
+        "word": "全红婵陈芋汐抱抱",
+        "onboard_time": 1722953865,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279381,
+        "num": 279381,
+        "word": "立秋不是真正的入秋",
+        "onboard_time": 1722992124,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268993,
+        "num": 268993,
+        "word": "贴秋膘",
+        "onboard_time": 1723003582,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 263106,
+        "num": 263106,
+        "word": "吴艳妮同组对手实力",
+        "onboard_time": 1722996740,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252458,
+        "num": 252458,
+        "word": "王昶看自己14岁拍的跑男宣传片",
+        "onboard_time": 1722960507,
+        "rank": 45,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 249213,
+        "num": 249213,
+        "word": "英国爆发13年来最大规模骚乱",
+        "onboard_time": 1723003826,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 237067,
+        "num": 237067,
+        "word": "第一次见不嘻嘻的王昶",
+        "onboard_time": 1723002263,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236453,
+        "num": 236453,
+        "word": "同济大学 不愧是跳水双保险",
+        "onboard_time": 1723002023,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227655,
+        "num": 227655,
+        "word": "上门维修背刺打工人",
+        "onboard_time": 1723003224,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革为人民#"
+    }
+  }
+}
