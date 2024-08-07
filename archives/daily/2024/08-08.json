@@ -1,21 +1,29 @@
 {
   "startTime": 1723047937015,
-  "endTime": 1723070190660,
+  "endTime": 1723072779870,
   "band_list": [
+    {
+      "raw_hot": 5097900,
+      "num": 5097900,
+      "word": "张本智和崩溃",
+      "onboard_time": 1723070475,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3813158,
+      "num": 3813158,
+      "word": "莫雷加德vs张本智和",
+      "onboard_time": 1723058293,
+      "rank": 5,
+      "category": "体育"
+    },
     {
       "raw_hot": 3294635,
       "num": 3294635,
       "word": "李发彬举重金牌",
       "onboard_time": 1723044684,
       "rank": 0,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1934961,
-      "num": 1934961,
-      "word": "莫雷加德vs张本智和",
-      "onboard_time": 1723058293,
-      "rank": 5,
       "category": "体育"
     },
     {
@@ -33,6 +41,14 @@
       "onboard_time": 1723042585,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1443288,
+      "num": 1443288,
+      "word": "花游解说都哽咽了",
+      "onboard_time": 1723057452,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 1406940,
@@ -91,8 +107,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 896889,
-      "num": 896889,
+      "raw_hot": 1026219,
+      "num": 1026219,
       "word": "张本智和2比3卡尔伯格",
       "onboard_time": 1723067592,
       "rank": 10,
@@ -115,6 +131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 680382,
+      "num": 680382,
+      "word": "瑞典男团晋级决赛",
+      "onboard_time": 1723067471,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 649572,
       "num": 649572,
       "word": "与金牌仅差0.08秒",
@@ -131,8 +155,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 638438,
+      "num": 638438,
+      "word": "中国女曲比利时女曲冲突",
+      "onboard_time": 1723057572,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 633870,
-      "num": 633870,
+      "num": 1172697,
       "word": "中国花游奥运首金",
       "onboard_time": 1723052655,
       "rank": 1,
@@ -147,20 +179,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 596582,
-      "num": 326974,
-      "word": "花游解说都哽咽了",
-      "onboard_time": 1723057452,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 587486,
       "num": 462360,
       "word": "国乒女团进4强",
       "onboard_time": 1723041148,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 581819,
+      "num": 653137,
+      "word": "疑因妻子出轨同事自缢死者父亲发声",
+      "onboard_time": 1723033402,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 576799,
@@ -172,18 +204,10 @@
     },
     {
       "raw_hot": 574362,
-      "num": 574362,
+      "num": 913010,
       "word": "中国女曲晋级决赛",
       "onboard_time": 1723056433,
       "rank": 3,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 562879,
-      "num": 562879,
-      "word": "瑞典男团晋级决赛",
-      "onboard_time": 1723067471,
-      "rank": 4,
       "category": "体育"
     },
     {
@@ -204,7 +228,7 @@
     },
     {
       "raw_hot": 503580,
-      "num": 431812,
+      "num": 451809,
       "word": "查尔莫斯转发潘展乐澄清视频",
       "onboard_time": 1723048818,
       "rank": 44,
@@ -244,19 +268,19 @@
     },
     {
       "raw_hot": 469865,
-      "num": 469865,
+      "num": 961312,
       "word": "以为宋小宝去举重了",
       "onboard_time": 1723047200,
       "rank": 14,
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 465990,
-      "num": 465990,
-      "word": "疑因妻子出轨同事自缢死者父亲发声",
-      "onboard_time": 1723033402,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 465933,
+      "num": 465933,
+      "word": "陈梦王曼昱3比0陈思羽简彤娟",
+      "onboard_time": 1723038085,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 463632,
@@ -304,14 +328,6 @@
       "word": "徐卓一跨栏时眼镜为何不会掉",
       "onboard_time": 1723050678,
       "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 403107,
-      "num": 323973,
-      "word": "中国女曲比利时女曲冲突",
-      "onboard_time": 1723057572,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -371,8 +387,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 313638,
+      "num": 644441,
+      "word": "男子办公室侮辱女同事被辞索赔47万",
+      "onboard_time": 1723070595,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302596,
-      "num": 459064,
+      "num": 471467,
       "word": "戴向宇相信张昊唯不是有意的",
       "onboard_time": 1723034183,
       "rank": 18,
@@ -401,6 +425,14 @@
       "onboard_time": 1723016842,
       "rank": 37,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 294815,
+      "num": 943454,
+      "word": "张纪中夫妇回应混血儿身世",
+      "onboard_time": 1723033883,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 282278,
@@ -459,28 +491,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 267448,
-      "num": 267448,
+      "raw_hot": 270168,
+      "num": 270168,
       "word": "中国第25金",
       "onboard_time": 1723061052,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 266053,
-      "num": 266053,
-      "word": "陈梦王曼昱3比0陈思羽简彤娟",
-      "onboard_time": 1723038085,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 262065,
-      "num": 394454,
-      "word": "张纪中夫妇回应混血儿身世",
-      "onboard_time": 1723033883,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 261757,
@@ -505,6 +521,14 @@
       "onboard_time": 1723033883,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229974,
+      "num": 186822,
+      "word": "中国花游队感谢跳水队",
+      "onboard_time": 1723072578,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 228387,
@@ -555,12 +579,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193871,
+      "num": 638584,
+      "word": "宋小宝恭喜李发彬夺得金牌",
+      "onboard_time": 1723057632,
+      "rank": 48,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 192626,
       "num": 192626,
       "word": "戴向宇回应张昊唯道歉",
       "onboard_time": 1723048281,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186724,
+      "num": 240480,
+      "word": "霍启山从巴黎回港收到只熊猫",
+      "onboard_time": 1723068133,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185926,
@@ -604,19 +644,11 @@
     },
     {
       "raw_hot": 137613,
-      "num": 102468,
+      "num": 103865,
       "word": "举重男子61公斤级决赛",
       "onboard_time": 1723035204,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132835,
-      "num": 313101,
-      "word": "宋小宝恭喜李发彬夺得金牌",
-      "onboard_time": 1723057632,
-      "rank": 48,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 132666,
@@ -659,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117538,
+      "num": 117538,
+      "word": "旗手冯雨获得金牌",
+      "onboard_time": 1723072578,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115136,
       "num": 456095,
       "word": "中国第23金",
@@ -688,14 +728,6 @@
       "word": "犯罪记录如何消除",
       "onboard_time": 1723045882,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 96599,
-      "num": 240480,
-      "word": "霍启山从巴黎回港收到只熊猫",
-      "onboard_time": 1723068133,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -812,7 +844,7 @@
     },
     {
       "raw_hot": 17239,
-      "num": 646475,
+      "num": 2209898,
       "word": "我国进出口规模再创新高",
       "onboard_time": 1723037185,
       "rank": 2,
