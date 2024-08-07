@@ -1,0 +1,410 @@
+{
+  "runTime": 1723048948829,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2200445,
+        "num": 2200445,
+        "word": "李发彬举重金牌",
+        "onboard_time": 1723044684,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1259566,
+        "num": 1259566,
+        "word": "戴向宇的工作全部叫停",
+        "onboard_time": 1723042585,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95450,
+        "num": 1180995,
+        "word": "巴黎奥运赛场上的中国突破",
+        "onboard_time": 1723037424,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1180143,
+        "num": 1180143,
+        "word": "潘展乐告状行为开始人传人",
+        "onboard_time": 1723046543,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1082612,
+        "num": 1082612,
+        "word": "BLACKPINK直播",
+        "onboard_time": 1723044503,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 950924,
+        "num": 950924,
+        "word": "王楚钦感谢教练让他出战第三场",
+        "onboard_time": 1723038384,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 906134,
+        "num": 906134,
+        "word": "吴艳妮复活赛又进死亡之组",
+        "onboard_time": 1723038565,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 560427,
+        "num": 560427,
+        "word": "女子称双汇火腿肠含像眼睛似的异物",
+        "onboard_time": 1723043723,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34984,
+        "num": 555031,
+        "word": "犯罪记录如何消除",
+        "onboard_time": 1723045882,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89263,
+        "num": 503009,
+        "word": "男子110米栏半决赛",
+        "onboard_time": 1723048281,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1153112,
+        "num": 442493,
+        "word": "吕小军举重鞋",
+        "onboard_time": 1723045463,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 788818,
+        "num": 399586,
+        "word": "美国申诉夺铜后气炸罗马尼亚",
+        "onboard_time": 1723040606,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 379573,
+        "num": 379573,
+        "word": "12306回应火车餐车不消费不能坐",
+        "onboard_time": 1723042945,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369047,
+        "num": 369047,
+        "word": "疑因妻子出轨同事自缢死者父亲发声",
+        "onboard_time": 1723033402,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272048,
+        "num": 272048,
+        "word": "官方通报小伙地铁内遭老人殴打",
+        "onboard_time": 1723041086,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599132,
+        "num": 271259,
+        "word": "与金牌仅差0.08秒",
+        "onboard_time": 1723033044,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262606,
+        "num": 262606,
+        "word": "BLACKPINK合体庆祝出道8周年",
+        "onboard_time": 1723044443,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260960,
+        "num": 260960,
+        "word": "陈丽君回复周深粉丝",
+        "onboard_time": 1723044985,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 258203,
+        "num": 258203,
+        "word": "以为宋小宝去举重了",
+        "onboard_time": 1723047200,
+        "rank": 18,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 245190,
+        "num": 245190,
+        "word": "王丽坤已婚和办离婚被同天知道",
+        "onboard_time": 1723029743,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115136,
+        "num": 244633,
+        "word": "中国第23金",
+        "onboard_time": 1723045284,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 505792,
+        "num": 243484,
+        "word": "覃海洋好帅",
+        "onboard_time": 1723042526,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 509218,
+        "num": 242874,
+        "word": "张博恒骨折的小拇指还没恢复",
+        "onboard_time": 1723046601,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 436259,
+        "num": 241639,
+        "word": "亚当皮蒂取关所有中国选手",
+        "onboard_time": 1723031663,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 435870,
+        "num": 240773,
+        "word": "国乒女团进4强",
+        "onboard_time": 1723041148,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 402958,
+        "num": 240138,
+        "word": "王昶梁伟铿都有女朋友",
+        "onboard_time": 1723022844,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239316,
+        "num": 239316,
+        "word": "戴向宇相信张昊唯不是有意的",
+        "onboard_time": 1723034183,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229761,
+        "num": 229761,
+        "word": "张纪中夫妇回应混血儿身世",
+        "onboard_time": 1723033883,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220646,
+        "num": 229743,
+        "word": "李雪琴带男友与朋友聚餐",
+        "onboard_time": 1723033883,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372672,
+        "num": 229608,
+        "word": "莎莎给自己做了条小裙子",
+        "onboard_time": 1723046362,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356523,
+        "num": 229417,
+        "word": "林钟勋说中国注册球员比韩国人还多",
+        "onboard_time": 1723043545,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 331707,
+        "num": 229287,
+        "word": "跟樊振东打和服兵役有什么区别",
+        "onboard_time": 1723043963,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 319491,
+        "num": 229112,
+        "word": "韩网对王皓教练的介绍",
+        "onboard_time": 1723044625,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290455,
+        "num": 229065,
+        "word": "王曼昱太能护了",
+        "onboard_time": 1723041508,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284490,
+        "num": 228961,
+        "word": "国乒男团进四强",
+        "onboard_time": 1723026564,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228848,
+        "num": 228848,
+        "word": "张博恒回应军书十二卷卷卷有其名",
+        "onboard_time": 1723044263,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221137,
+        "num": 221137,
+        "word": "游泳队在水下喝上了桶装水",
+        "onboard_time": 1723016842,
+        "rank": 36,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 220606,
+        "num": 220606,
+        "word": "种地吧第三季原班人马",
+        "onboard_time": 1723030223,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216841,
+        "num": 216841,
+        "word": "马龙压根儿没想这问题",
+        "onboard_time": 1723044748,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202768,
+        "num": 202768,
+        "word": "孙颖莎 追分的神",
+        "onboard_time": 1723039708,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200602,
+        "num": 200602,
+        "word": "李发彬第一次挺举失败",
+        "onboard_time": 1723047859,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63870,
+        "num": 198585,
+        "word": "深圳安居拟收购商品房作保障房",
+        "onboard_time": 1723046722,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196928,
+        "num": 196928,
+        "word": "谭松韵海边红裙",
+        "onboard_time": 1723045405,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192626,
+        "num": 192626,
+        "word": "戴向宇回应张昊唯道歉",
+        "onboard_time": 1723048281,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190294,
+        "num": 190294,
+        "word": "查尔莫斯转发潘展乐澄清视频",
+        "onboard_time": 1723048818,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189678,
+        "num": 189678,
+        "word": "陈梦王曼昱3比0陈思羽简彤娟",
+        "onboard_time": 1723038085,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185926,
+        "num": 185926,
+        "word": "王楚钦vs张禹珍",
+        "onboard_time": 1723022725,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184039,
+        "num": 184039,
+        "word": "张杰唱了运动员们点的歌",
+        "onboard_time": 1723038204,
+        "rank": 47,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 186608,
+        "num": 183541,
+        "word": "张昊唯 我会用一辈子去反省",
+        "onboard_time": 1723031003,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172823,
+        "num": 181911,
+        "word": "蓝盈莹晒与刘亦菲合照",
+        "onboard_time": 1723035564,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻文化根魂#"
+    }
+  }
+}

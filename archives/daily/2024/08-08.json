@@ -1,6 +1,6 @@
 {
   "startTime": 1723047937015,
-  "endTime": 1723047937015,
+  "endTime": 1723048948829,
   "band_list": [
     {
       "raw_hot": 3294635,
@@ -43,6 +43,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1180143,
+      "num": 1180143,
+      "word": "潘展乐告状行为开始人传人",
+      "onboard_time": 1723046543,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1136587,
       "num": 1136587,
       "word": "吴艳妮复活赛又进死亡之组",
@@ -75,14 +83,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 612583,
-      "num": 464155,
-      "word": "潘展乐告状行为开始人传人",
-      "onboard_time": 1723046543,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 587486,
       "num": 462360,
       "word": "国乒女团进4强",
@@ -97,6 +97,14 @@
       "onboard_time": 1723043723,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 509218,
+      "num": 381287,
+      "word": "张博恒骨折的小拇指还没恢复",
+      "onboard_time": 1723046601,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 507071,
@@ -171,19 +179,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 381287,
-      "num": 381287,
-      "word": "张博恒骨折的小拇指还没恢复",
-      "onboard_time": 1723046601,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 377343,
       "num": 377343,
       "word": "林钟勋说中国注册球员比韩国人还多",
       "onboard_time": 1723043545,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 372672,
+      "num": 267389,
+      "word": "莎莎给自己做了条小裙子",
+      "onboard_time": 1723046362,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -299,14 +307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 267389,
-      "num": 267389,
-      "word": "莎莎给自己做了条小裙子",
-      "onboard_time": 1723046362,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 266053,
       "num": 266053,
       "word": "陈梦王曼昱3比0陈思羽简彤娟",
@@ -337,6 +337,14 @@
       "onboard_time": 1723047859,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 258203,
+      "num": 465677,
+      "word": "以为宋小宝去举重了",
+      "onboard_time": 1723047200,
+      "rank": 14,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 243445,
@@ -371,12 +379,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142019,
-      "num": 465677,
-      "word": "以为宋小宝去举重了",
-      "onboard_time": 1723047200,
-      "rank": 14,
-      "category": "艺人,体育"
+      "raw_hot": 192626,
+      "num": 192626,
+      "word": "戴向宇回应张昊唯道歉",
+      "onboard_time": 1723048281,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 190294,
+      "num": 190294,
+      "word": "查尔莫斯转发潘展乐澄清视频",
+      "onboard_time": 1723048818,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 185926,
+      "num": 185926,
+      "word": "王楚钦vs张禹珍",
+      "onboard_time": 1723022725,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 172823,
+      "num": 181911,
+      "word": "蓝盈莹晒与刘亦菲合照",
+      "onboard_time": 1723035564,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 118652,
@@ -387,7 +419,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 81546,
+      "raw_hot": 115136,
       "num": 456095,
       "word": "中国第23金",
       "onboard_time": 1723045284,
@@ -395,17 +427,36 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35116,
+      "raw_hot": 89263,
+      "num": 503009,
+      "word": "男子110米栏半决赛",
+      "onboard_time": 1723048281,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 63870,
       "num": 522875,
       "word": "深圳安居拟收购商品房作保障房",
       "onboard_time": 1723046722,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34984,
+      "num": 555031,
+      "word": "犯罪记录如何消除",
+      "onboard_time": 1723045882,
+      "rank": 8,
       "category": "社会新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#改革为人民#"
+    },
+    {
+      "word": "#跟着总书记探寻文化根魂#"
     }
   ]
 }
