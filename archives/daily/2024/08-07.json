@@ -1,6 +1,6 @@
 {
   "startTime": 1722961504263,
-  "endTime": 1723029416105,
+  "endTime": 1723030492111,
   "band_list": [
     {
       "raw_hot": 10807671,
@@ -259,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1696740,
+      "num": 1696740,
+      "word": "邓丽娟银牌",
+      "onboard_time": 1723028783,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1670426,
       "num": 1670426,
       "word": "林雨薇小组第7",
@@ -315,14 +323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1578878,
-      "num": 1578878,
-      "word": "邓丽娟银牌",
-      "onboard_time": 1723028783,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1540946,
       "num": 947961,
       "word": "文科危机真的来了吗",
@@ -376,6 +376,14 @@
       "word": "全红婵陈芋汐抱抱",
       "onboard_time": 1722953865,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1372652,
+      "num": 1372652,
+      "word": "樊振东有一点点的火气",
+      "onboard_time": 1723026803,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -715,14 +723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 799865,
-      "num": 799865,
-      "word": "樊振东有一点点的火气",
-      "onboard_time": 1723026803,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 779398,
       "num": 226003,
       "word": "林昀儒3比2张本智和",
@@ -737,6 +737,14 @@
       "onboard_time": 1723014623,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 742150,
+      "num": 656185,
+      "word": "真的被王昶笑崩溃了",
+      "onboard_time": 1723026443,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 732129,
@@ -787,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 676516,
+      "num": 676516,
+      "word": "种地吧第三季原班人马",
+      "onboard_time": 1723030223,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 666163,
       "num": 666163,
       "word": "全红婵说不怕丢金牌后面有她撑着",
@@ -800,14 +816,6 @@
       "word": "许昕说对战韩国队是王楚钦自证的机会",
       "onboard_time": 1723022305,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 656185,
-      "num": 656185,
-      "word": "真的被王昶笑崩溃了",
-      "onboard_time": 1723026443,
-      "rank": 40,
       "category": "体育"
     },
     {
@@ -843,12 +851,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 596765,
+      "num": 596765,
+      "word": "种地吧第三季开始筹备",
+      "onboard_time": 1723030042,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 588388,
       "num": 566297,
       "word": "王昶用了王一博原声",
       "onboard_time": 1722992843,
       "rank": 33,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 567839,
+      "num": 567839,
+      "word": "吴艳妮预赛遇生理期",
+      "onboard_time": 1723029443,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 567075,
@@ -888,6 +912,14 @@
       "word": "曹利国摔跤银牌",
       "onboard_time": 1722967933,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 538531,
+      "num": 538531,
+      "word": "马龙歪头",
+      "onboard_time": 1723025308,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -979,6 +1011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 451971,
+      "num": 581432,
+      "word": "闵玧其骑车监控",
+      "onboard_time": 1723028842,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 451613,
       "num": 451613,
       "word": "乌克兰睡美人斥责中立运动员",
@@ -993,14 +1033,6 @@
       "onboard_time": 1723007723,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 443848,
-      "num": 443848,
-      "word": "马龙歪头",
-      "onboard_time": 1723025308,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 443012,
@@ -1073,6 +1105,14 @@
       "onboard_time": 1722999201,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 414594,
+      "num": 573278,
+      "word": "王丽坤已婚和办离婚被同天知道",
+      "onboard_time": 1723029743,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 410340,
@@ -1243,6 +1283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 347099,
+      "num": 347099,
+      "word": "王楚钦被裁判问比分",
+      "onboard_time": 1723029142,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 345167,
       "num": 345167,
       "word": "妈妈揭秘全红婵为什么爱公仔",
@@ -1315,6 +1363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 321168,
+      "num": 765241,
+      "word": "时代少年团票价",
+      "onboard_time": 1723028063,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 320579,
       "num": 210464,
       "word": "樊振东说今天失误有点多",
@@ -1379,12 +1435,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 303358,
-      "num": 765241,
-      "word": "时代少年团票价",
-      "onboard_time": 1723028063,
-      "rank": 18,
-      "category": "演出"
+      "raw_hot": 302225,
+      "num": 302225,
+      "word": "张昊唯向戴向宇道歉",
+      "onboard_time": 1723030463,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 300999,
@@ -1507,6 +1563,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 280434,
+      "num": 280434,
+      "word": "郭焱称王楚钦球拍争议已经翻篇了",
+      "onboard_time": 1723028902,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 280250,
       "num": 220860,
       "word": "全红婵长大了也有压力了",
@@ -1521,6 +1585,14 @@
       "onboard_time": 1722993744,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 276038,
+      "num": 1257875,
+      "word": "4名中国公民在尼泊尔坠机遇难",
+      "onboard_time": 1723027462,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 276026,
@@ -1553,14 +1625,6 @@
       "onboard_time": 1723001902,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 270911,
-      "num": 1257875,
-      "word": "4名中国公民在尼泊尔坠机遇难",
-      "onboard_time": 1723027462,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 268514,
@@ -1625,22 +1689,6 @@
       "onboard_time": 1722959066,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 252117,
-      "num": 252117,
-      "word": "郭焱称王楚钦球拍争议已经翻篇了",
-      "onboard_time": 1723028902,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 251775,
-      "num": 251775,
-      "word": "王楚钦被裁判问比分",
-      "onboard_time": 1723029142,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 251432,
@@ -1955,6 +2003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216521,
+      "num": 216521,
+      "word": "马龙指导上线",
+      "onboard_time": 1723029082,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216423,
       "num": 216423,
       "word": "谁发明的秋天第一杯奶茶",
@@ -2011,6 +2067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208868,
+      "num": 208868,
+      "word": "查尔莫斯晒潘展乐泳帽",
+      "onboard_time": 1723030343,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208437,
       "num": 636179,
       "word": "奈何船妃实在貌美",
@@ -2057,14 +2121,6 @@
       "onboard_time": 1722988581,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 203570,
-      "num": 262867,
-      "word": "闵玧其骑车监控",
-      "onboard_time": 1723028842,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 201707,
@@ -2371,6 +2427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150244,
+      "num": 970537,
+      "word": "霸王茶姬获国际体育记者协会认证",
+      "onboard_time": 1723025966,
+      "rank": 49,
+      "category": "体育,财经"
+    },
+    {
       "raw_hot": 150237,
       "num": 244005,
       "word": "熊猫基地通报女子偷带宠物入园",
@@ -2433,14 +2497,6 @@
       "onboard_time": 1722986300,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124013,
-      "num": 970537,
-      "word": "霸王茶姬获国际体育记者协会认证",
-      "onboard_time": 1723025966,
-      "rank": 49,
-      "category": "体育,财经"
     },
     {
       "raw_hot": 123682,
@@ -2529,6 +2585,14 @@
       "onboard_time": 1722980050,
       "rank": 49,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 95233,
+      "num": 586538,
+      "word": "我国发现超1000亿立方米天然气田",
+      "onboard_time": 1723030162,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94499,
