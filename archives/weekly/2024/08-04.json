@@ -1,6 +1,6 @@
 {
   "startTime": 1722702313981,
-  "endTime": 1723007971766,
+  "endTime": 1723008970491,
   "band_list": [
     {
       "raw_hot": 35169209,
@@ -1699,6 +1699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1677772,
+      "num": 1677772,
+      "word": "英国爆发13年来最大规模骚乱",
+      "onboard_time": 1723003826,
+      "rank": 46,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1665742,
       "num": 1665742,
       "word": "全红婵夺金后第一条消息发给陈艺文",
@@ -2227,6 +2235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1303694,
+      "num": 1303694,
+      "word": "马龙回应不止巴黎见",
+      "onboard_time": 1723007183,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1301273,
       "num": 1301273,
       "word": "王昶苦笑",
@@ -2273,6 +2289,14 @@
       "onboard_time": 1722923905,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1265658,
+      "num": 1265658,
+      "word": "17岁正是整顿采访界的年纪",
+      "onboard_time": 1723004903,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 1261402,
@@ -2603,20 +2627,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1072251,
-      "num": 1072251,
-      "word": "17岁正是整顿采访界的年纪",
-      "onboard_time": 1723004903,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1065508,
       "num": 769406,
       "word": "张本智和 当翻译战绩可查",
       "onboard_time": 1722766524,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1063333,
+      "num": 1063333,
+      "word": "你直接报迪丽热巴身份证得了",
+      "onboard_time": 1723007242,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1062630,
@@ -3275,14 +3299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 773605,
-      "num": 583369,
-      "word": "马龙回应不止巴黎见",
-      "onboard_time": 1723007183,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 771151,
       "num": 711666,
       "word": "中国拳击女队已锁定4枚奖牌",
@@ -3403,6 +3419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 722131,
+      "num": 722131,
+      "word": "孙颖莎亲签小卡已被炒至上万元",
+      "onboard_time": 1723006703,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 720401,
       "num": 720401,
       "word": "网球女单决赛",
@@ -3425,14 +3449,6 @@
       "onboard_time": 1722705023,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 706152,
-      "num": 706152,
-      "word": "英国爆发13年来最大规模骚乱",
-      "onboard_time": 1723003826,
-      "rank": 46,
-      "category": "国外时政"
     },
     {
       "raw_hot": 705349,
@@ -3819,14 +3835,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 600579,
-      "num": 600579,
-      "word": "你直接报迪丽热巴身份证得了",
-      "onboard_time": 1723007242,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 599441,
       "num": 599441,
       "word": "马龙状态",
@@ -3913,6 +3921,14 @@
       "onboard_time": 1722757882,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 585022,
+      "num": 585022,
+      "word": "张本智和看了都要偷偷保存的人生照片",
+      "onboard_time": 1723007903,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 582334,
@@ -4459,14 +4475,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 490018,
-      "num": 387635,
-      "word": "张本智和看了都要偷偷保存的人生照片",
-      "onboard_time": 1723007903,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 489436,
       "num": 489436,
       "word": "全红婵第三跳",
@@ -4691,14 +4699,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 459525,
-      "num": 459525,
-      "word": "孙颖莎亲签小卡已被炒至上万元",
-      "onboard_time": 1723006703,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 458799,
       "num": 458799,
       "word": "樊振东已经在NextLevel",
@@ -4779,6 +4779,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 451582,
+      "num": 727009,
+      "word": "古偶终于把事业脑还给女角色",
+      "onboard_time": 1723007723,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 451411,
       "num": 508577,
       "word": "偶运会沈小婷短跑第一",
@@ -4851,6 +4859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 443012,
+      "num": 443012,
+      "word": "BBC解说被全红婵夺冠五连跳惊呆",
+      "onboard_time": 1723004724,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 441811,
       "num": 441811,
       "word": "樊振东一段藏了11年的素材",
@@ -4896,14 +4912,6 @@
       "word": "杨文璐拳击银牌",
       "onboard_time": 1722980592,
       "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 437388,
-      "num": 437388,
-      "word": "BBC解说被全红婵夺冠五连跳惊呆",
-      "onboard_time": 1723004724,
-      "rank": 38,
       "category": "体育"
     },
     {
@@ -5643,6 +5651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 371008,
+      "num": 269767,
+      "word": "游泳队是人均扁平足吗",
+      "onboard_time": 1723007662,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 370479,
       "num": 370479,
       "word": "杜普兰蒂斯打破世界纪录",
@@ -5801,6 +5817,14 @@
       "onboard_time": 1722867150,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 355069,
+      "num": 722514,
+      "word": "闵玧其发长文道歉",
+      "onboard_time": 1723007064,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 354731,
@@ -6515,14 +6539,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 303993,
-      "num": 426105,
-      "word": "闵玧其发长文道歉",
-      "onboard_time": 1723007064,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 303551,
       "num": 303551,
       "word": "哈里斯实力让特朗普措手不及",
@@ -6705,6 +6721,14 @@
       "onboard_time": 1722902063,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 291997,
+      "num": 291997,
+      "word": "英国已逮捕378名骚乱参与者",
+      "onboard_time": 1723008502,
+      "rank": 26,
+      "category": "国外时政"
     },
     {
       "raw_hot": 291328,
@@ -7459,12 +7483,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 252974,
-      "num": 252974,
-      "word": "游泳队是人均扁平足吗",
-      "onboard_time": 1723007662,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 251825,
+      "num": 277421,
+      "word": "井胧 石凯看苍兰诀天天发朋友圈",
+      "onboard_time": 1723008202,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 251604,
@@ -7843,6 +7867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231657,
+      "num": 231657,
+      "word": "郭晶晶究竟有多喜欢全红婵",
+      "onboard_time": 1723008743,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 230858,
       "num": 230858,
       "word": "原来过不了安检的东西都归工作人员",
@@ -7888,6 +7920,14 @@
       "word": "陈梦为何能顶住压力战胜孙颖莎夺冠",
       "onboard_time": 1722736282,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 228383,
+      "num": 228383,
+      "word": "观众为全红婵陈芋汐下起娃娃雨",
+      "onboard_time": 1723008082,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -8001,14 +8041,6 @@
       "onboard_time": 1722942982,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 222265,
-      "num": 572008,
-      "word": "古偶终于把事业脑还给女角色",
-      "onboard_time": 1723007723,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 221769,
@@ -8185,6 +8217,14 @@
       "onboard_time": 1722760347,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213439,
+      "num": 213439,
+      "word": "果然世界冠军上班也一脸班味",
+      "onboard_time": 1723008802,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 213148,
@@ -8547,6 +8587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201442,
+      "num": 201442,
+      "word": "吴艳妮曾说想拿国旗在紫色跑道拍照",
+      "onboard_time": 1723008142,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201338,
       "num": 201793,
       "word": "现在国外的中国超市都这样了么",
@@ -8561,6 +8609,14 @@
       "onboard_time": 1722756382,
       "rank": 26,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 201058,
+      "num": 201058,
+      "word": "国乒男团迎战韩国队",
+      "onboard_time": 1723007602,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 200925,
@@ -8656,6 +8712,14 @@
       "word": "唐诡播完后卢凌风戒断反应",
       "onboard_time": 1722825022,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 198089,
+      "num": 198089,
+      "word": "冰雪谣",
+      "onboard_time": 1723008563,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -9916,7 +9980,7 @@
     },
     {
       "raw_hot": 139608,
-      "num": 241205,
+      "num": 636179,
       "word": "奈何船妃实在貌美",
       "onboard_time": 1723007723,
       "rank": 44,
@@ -10201,6 +10265,14 @@
       "onboard_time": 1722826822,
       "rank": 9,
       "category": "国外时政,军事"
+    },
+    {
+      "raw_hot": 111414,
+      "num": 734223,
+      "word": "孙佳俊解释冲刺阶段没换气",
+      "onboard_time": 1723007963,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 111102,
@@ -10505,6 +10577,14 @@
       "onboard_time": 1722762024,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88926,
+      "num": 852009,
+      "word": "珠海一居民楼倒塌致3死1伤",
+      "onboard_time": 1723008622,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88827,
@@ -10859,6 +10939,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 63754,
+      "num": 1076643,
+      "word": "特朗普称将接受马斯克采访",
+      "onboard_time": 1723006824,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 63434,
       "num": 126977,
       "word": "杨冰怡排名",
@@ -11067,6 +11155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53928,
+      "num": 280810,
+      "word": "全网都在找乒乓猫",
+      "onboard_time": 1723007903,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53543,
       "num": 672114,
       "word": "朱婷扮鬼脸",
@@ -11249,14 +11345,6 @@
       "onboard_time": 1722742344,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44407,
-      "num": 1076643,
-      "word": "特朗普称将接受马斯克采访",
-      "onboard_time": 1723006824,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 44031,
@@ -11632,14 +11720,6 @@
       "word": "我为中国体育打call",
       "onboard_time": 1722991764,
       "rank": 20,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 26938,
-      "num": 228253,
-      "word": "全网都在找乒乓猫",
-      "onboard_time": 1723007903,
-      "rank": 49,
       "category": "体育"
     },
     {

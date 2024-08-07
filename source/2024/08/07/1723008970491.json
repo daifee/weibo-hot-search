@@ -1,0 +1,410 @@
+{
+  "runTime": 1723008970491,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1677772,
+        "num": 1677772,
+        "word": "英国爆发13年来最大规模骚乱",
+        "onboard_time": 1723003826,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1415949,
+        "num": 1415949,
+        "word": "全红婵呼吁粉丝跳前不要呐喊",
+        "onboard_time": 1722999562,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37729,
+        "num": 1339570,
+        "word": "今天已经立秋了",
+        "onboard_time": 1723002143,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1323780,
+        "num": 1323780,
+        "word": "如果张本智和给潘展乐当翻译",
+        "onboard_time": 1723002503,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1303694,
+        "num": 1303694,
+        "word": "马龙回应不止巴黎见",
+        "onboard_time": 1723007183,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1265658,
+        "num": 1265658,
+        "word": "17岁正是整顿采访界的年纪",
+        "onboard_time": 1723004903,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1233231,
+        "num": 1233231,
+        "word": "奶奶偷将新生儿送养夫妻苦寻37年",
+        "onboard_time": 1723003163,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1063333,
+        "num": 1063333,
+        "word": "你直接报迪丽热巴身份证得了",
+        "onboard_time": 1723007242,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 906905,
+        "num": 906905,
+        "word": "庆功宴上的刘亦菲",
+        "onboard_time": 1723004603,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88926,
+        "num": 852009,
+        "word": "珠海一居民楼倒塌致3死1伤",
+        "onboard_time": 1723008622,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1333647,
+        "num": 851272,
+        "word": "王皓 好了没我的大小姐",
+        "onboard_time": 1722997461,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 828152,
+        "num": 828152,
+        "word": "刘国梁都得问奶奶借笔记",
+        "onboard_time": 1723002563,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 822404,
+        "num": 822404,
+        "word": "全红婵说这届金牌没那么重了",
+        "onboard_time": 1722996381,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 736080,
+        "num": 736080,
+        "word": "文科危机真的来了吗",
+        "onboard_time": 1722997281,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111414,
+        "num": 734223,
+        "word": "孙佳俊解释冲刺阶段没换气",
+        "onboard_time": 1723007963,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 477498,
+        "num": 731672,
+        "word": "明星终于明白追星的感觉了",
+        "onboard_time": 1722993143,
+        "rank": 15,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 451582,
+        "num": 727009,
+        "word": "古偶终于把事业脑还给女角色",
+        "onboard_time": 1723007723,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355069,
+        "num": 722514,
+        "word": "闵玧其发长文道歉",
+        "onboard_time": 1723007064,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 722131,
+        "num": 722131,
+        "word": "孙颖莎亲签小卡已被炒至上万元",
+        "onboard_time": 1723006703,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131140,
+        "num": 636179,
+        "word": "奈何船妃实在貌美",
+        "onboard_time": 1723007723,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 585022,
+        "num": 585022,
+        "word": "张本智和看了都要偷偷保存的人生照片",
+        "onboard_time": 1723007903,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 492889,
+        "num": 492889,
+        "word": "陈若琳把全红婵养得是真好啊",
+        "onboard_time": 1722986779,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 443012,
+        "num": 443012,
+        "word": "BBC解说被全红婵夺冠五连跳惊呆",
+        "onboard_time": 1723004724,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 405478,
+        "num": 405478,
+        "word": "全红婵说不怕丢金牌后面有她撑着",
+        "onboard_time": 1723006462,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 370222,
+        "num": 370222,
+        "word": "潜水店为刷客致大量游客耳膜穿孔",
+        "onboard_time": 1722999621,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318462,
+        "num": 318462,
+        "word": "辛芷蕾需要一条瑜伽裤来装东西",
+        "onboard_time": 1723000222,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 291997,
+        "num": 291997,
+        "word": "英国已逮捕378名骚乱参与者",
+        "onboard_time": 1723008502,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 257555,
+        "num": 287053,
+        "word": "闵玧其涉嫌酒后骑电动滑板被调查",
+        "onboard_time": 1723002023,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53928,
+        "num": 280810,
+        "word": "全网都在找乒乓猫",
+        "onboard_time": 1723007903,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251825,
+        "num": 277421,
+        "word": "井胧 石凯看苍兰诀天天发朋友圈",
+        "onboard_time": 1723008202,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371008,
+        "num": 269767,
+        "word": "游泳队是人均扁平足吗",
+        "onboard_time": 1723007662,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 342443,
+        "num": 265781,
+        "word": "陈芋汐比赛前还是生理期",
+        "onboard_time": 1723003826,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327581,
+        "num": 260772,
+        "word": "吴艳妮巴黎奥运首秀",
+        "onboard_time": 1722992964,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258019,
+        "num": 258019,
+        "word": "光与夜之恋七夕卡面",
+        "onboard_time": 1722997100,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 241210,
+        "num": 241210,
+        "word": "奥运历史首个单项五连冠",
+        "onboard_time": 1723001303,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240552,
+        "num": 240552,
+        "word": "陕西一溶洞内发现大熊猫化石",
+        "onboard_time": 1723001722,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234742,
+        "num": 234742,
+        "word": "一不小心把导师的女儿给电了",
+        "onboard_time": 1722994886,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 231657,
+        "num": 231657,
+        "word": "郭晶晶究竟有多喜欢全红婵",
+        "onboard_time": 1723008743,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228383,
+        "num": 228383,
+        "word": "观众为全红婵陈芋汐下起娃娃雨",
+        "onboard_time": 1723008082,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 896092,
+        "num": 227666,
+        "word": "陈紫函戴向宇结婚9年了还没有孩子",
+        "onboard_time": 1722999621,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223758,
+        "num": 223758,
+        "word": "赵露思玩双杠",
+        "onboard_time": 1722993443,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 223453,
+        "num": 223453,
+        "word": "准大学生旅游在酒店被砍伤",
+        "onboard_time": 1723005024,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63754,
+        "num": 222777,
+        "word": "特朗普称将接受马斯克采访",
+        "onboard_time": 1723006824,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 222584,
+        "num": 222584,
+        "word": "全红婵否认是天才都是一遍遍练的",
+        "onboard_time": 1722992544,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213439,
+        "num": 213439,
+        "word": "果然世界冠军上班也一脸班味",
+        "onboard_time": 1723008802,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212758,
+        "num": 212758,
+        "word": "全红婵哥哥果蔬店已成立近3年",
+        "onboard_time": 1722999562,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201442,
+        "num": 201442,
+        "word": "吴艳妮曾说想拿国旗在紫色跑道拍照",
+        "onboard_time": 1723008142,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201058,
+        "num": 201058,
+        "word": "国乒男团迎战韩国队",
+        "onboard_time": 1723007602,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198089,
+        "num": 198089,
+        "word": "冰雪谣",
+        "onboard_time": 1723008563,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197691,
+        "num": 197691,
+        "word": "王昶用了王一博原声",
+        "onboard_time": 1722992843,
+        "rank": 49,
+        "category": "体育,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻文化根魂#"
+    }
+  }
+}
