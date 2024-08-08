@@ -1,0 +1,410 @@
+{
+  "runTime": 1723149297909,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 320157,
+        "num": 320157,
+        "word": "石智勇无缘领奖台",
+        "onboard_time": 1723146792,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211683,
+        "num": 211683,
+        "word": "举重男子73公斤级",
+        "onboard_time": 1723137616,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13744,
+        "num": 186451,
+        "word": "何以中国一檐千年",
+        "onboard_time": 1723121724,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177654,
+        "num": 177654,
+        "word": "美国男篮vs塞尔维亚男篮",
+        "onboard_time": 1723142352,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155548,
+        "num": 155548,
+        "word": "全红婵 许昕不就这样拍照的吗",
+        "onboard_time": 1723137557,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144944,
+        "num": 144944,
+        "word": "石智勇 可惜",
+        "onboard_time": 1723147272,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77429,
+        "num": 141461,
+        "word": "没有观察室的恋综",
+        "onboard_time": 1723136057,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71906,
+        "num": 139048,
+        "word": "于正 P你个头",
+        "onboard_time": 1723131683,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139046,
+        "num": 139046,
+        "word": "张本智和 甄嬛",
+        "onboard_time": 1723129706,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19288,
+        "num": 113937,
+        "word": "杭州萧山发布楼市新政",
+        "onboard_time": 1723130846,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200088,
+        "num": 113462,
+        "word": "女子要买18万黄金店长果断报警",
+        "onboard_time": 1723140253,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111734,
+        "num": 111734,
+        "word": "男孩把头埋进超市黄豆里玩妈妈全买下",
+        "onboard_time": 1723145772,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93381,
+        "num": 93381,
+        "word": "罗诗芳摘金",
+        "onboard_time": 1723129889,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83154,
+        "num": 83154,
+        "word": "体操队比完赛一看手机天塌了",
+        "onboard_time": 1723139894,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81142,
+        "num": 81142,
+        "word": "武汉18岁失联男生已找到尸体",
+        "onboard_time": 1723116623,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80044,
+        "num": 80044,
+        "word": "国乒男团进决赛",
+        "onboard_time": 1723111051,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73980,
+        "num": 73980,
+        "word": "解说口误",
+        "onboard_time": 1723129644,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33253,
+        "num": 73013,
+        "word": "于和伟 睡七个小时怎么了",
+        "onboard_time": 1723114044,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28879,
+        "num": 72234,
+        "word": "张雨绮穿了Lolita",
+        "onboard_time": 1723147813,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 28428,
+        "num": 69490,
+        "word": "于正回应白鹿被骂",
+        "onboard_time": 1723141933,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78075,
+        "num": 67983,
+        "word": "石智勇开把抓举163挺举193",
+        "onboard_time": 1723147213,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67647,
+        "num": 67647,
+        "word": "樊振东 收视率打法",
+        "onboard_time": 1723109667,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60652,
+        "num": 60652,
+        "word": "石智勇 挺举开把",
+        "onboard_time": 1723147032,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59940,
+        "num": 59940,
+        "word": "佩佩退役",
+        "onboard_time": 1723133302,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37271,
+        "num": 59817,
+        "word": "当事人回应学位证被顺丰损毁已赔8千",
+        "onboard_time": 1723133481,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59783,
+        "num": 59783,
+        "word": "樊振东采访时牵着马龙的袖口",
+        "onboard_time": 1723122324,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58083,
+        "num": 58083,
+        "word": "马来西亚6名学生致同学死亡后被绞刑",
+        "onboard_time": 1723115663,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28125,
+        "num": 57319,
+        "word": "黄多多编耳机保护绳",
+        "onboard_time": 1723126048,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26158,
+        "num": 57196,
+        "word": "何炅沈梦辰后台拥抱",
+        "onboard_time": 1723135459,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24618,
+        "num": 57167,
+        "word": "严屹宽古装 赏心悦目",
+        "onboard_time": 1723132761,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57163,
+        "num": 57163,
+        "word": "孙颖莎vs李恩惠",
+        "onboard_time": 1723123822,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55884,
+        "num": 55884,
+        "word": "日本女团vs德国女团",
+        "onboard_time": 1723148712,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54705,
+        "num": 54705,
+        "word": "美国男篮半场落后11分",
+        "onboard_time": 1723147213,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54556,
+        "num": 54556,
+        "word": "还我妈生龙",
+        "onboard_time": 1723111647,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53290,
+        "num": 53290,
+        "word": "王楚钦vsA勒布伦",
+        "onboard_time": 1723109007,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52955,
+        "num": 52955,
+        "word": "陈梦王曼昱vs田志希申裕斌",
+        "onboard_time": 1723121904,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51446,
+        "num": 51446,
+        "word": "张本智和 强迫症",
+        "onboard_time": 1723107687,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51183,
+        "num": 51183,
+        "word": "汪顺 发腮受益者",
+        "onboard_time": 1723131444,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49223,
+        "num": 49223,
+        "word": "张博恒 我是茶茶",
+        "onboard_time": 1723122143,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46802,
+        "num": 46802,
+        "word": "艺术体操好美",
+        "onboard_time": 1723117884,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46354,
+        "num": 46354,
+        "word": "吴艳妮心疼教练为自己比赛推迟手术",
+        "onboard_time": 1723130846,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45275,
+        "num": 45275,
+        "word": "遇害18岁男生家属称凶手是以前邻居",
+        "onboard_time": 1723122805,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43945,
+        "num": 43945,
+        "word": "日本女团进决赛",
+        "onboard_time": 1723149013,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43696,
+        "num": 43696,
+        "word": "罗永浩",
+        "onboard_time": 1723131623,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 40972,
+        "num": 40972,
+        "word": "马龙王楚钦vs高茨A勒布伦",
+        "onboard_time": 1723103606,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40232,
+        "num": 40232,
+        "word": "全红婵也听霉霉的歌",
+        "onboard_time": 1723140314,
+        "rank": 45,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 39910,
+        "num": 39910,
+        "word": "摔跤女子自由式53公斤级铜牌赛",
+        "onboard_time": 1723137975,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35018,
+        "num": 38288,
+        "word": "全国超1亿人经常参与这个大项目",
+        "onboard_time": 1723138695,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34184,
+        "num": 38128,
+        "word": "纪凌尘积极备战奥运会自由泳项目",
+        "onboard_time": 1723109847,
+        "rank": 48,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 23833,
+        "num": 38104,
+        "word": "周杰伦回复张之臻",
+        "onboard_time": 1723128806,
+        "rank": 49,
+        "category": "艺人,体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动全民健身和全民健康深度融合#"
+    }
+  }
+}

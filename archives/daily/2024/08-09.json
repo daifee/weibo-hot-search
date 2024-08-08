@@ -1,6 +1,6 @@
 {
   "startTime": 1723134321258,
-  "endTime": 1723148520059,
+  "endTime": 1723149297909,
   "band_list": [
     {
       "raw_hot": 2097926,
@@ -235,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 320157,
+      "num": 320157,
+      "word": "石智勇无缘领奖台",
+      "onboard_time": 1723146792,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 309338,
       "num": 309338,
       "word": "佩佩退役",
@@ -248,14 +256,6 @@
       "word": "艺术体操好美",
       "onboard_time": 1723117884,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 289450,
-      "num": 289450,
-      "word": "石智勇无缘领奖台",
-      "onboard_time": 1723146792,
-      "rank": 1,
       "category": "体育"
     },
     {
@@ -419,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177654,
+      "num": 177654,
+      "word": "美国男篮vs塞尔维亚男篮",
+      "onboard_time": 1723142352,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175169,
       "num": 355891,
       "word": "易烊千玺 内向的人更细致",
@@ -433,14 +441,6 @@
       "onboard_time": 1723119083,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 165371,
-      "num": 173144,
-      "word": "美国男篮vs塞尔维亚男篮",
-      "onboard_time": 1723142352,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 162887,
@@ -531,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111734,
+      "num": 111734,
+      "word": "男孩把头埋进超市黄豆里玩妈妈全买下",
+      "onboard_time": 1723145772,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98186,
       "num": 92721,
       "word": "全红婵也听霉霉的歌",
@@ -571,12 +579,20 @@
       "category": "科学科普,体育"
     },
     {
-      "raw_hot": 78433,
-      "num": 78433,
-      "word": "男孩把头埋进超市黄豆里玩妈妈全买下",
-      "onboard_time": 1723145772,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 55884,
+      "num": 55884,
+      "word": "日本女团vs德国女团",
+      "onboard_time": 1723148712,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 54705,
+      "num": 54705,
+      "word": "美国男篮半场落后11分",
+      "onboard_time": 1723147213,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 54349,
@@ -611,11 +627,11 @@
       "category": "综艺,体育"
     },
     {
-      "raw_hot": 44927,
-      "num": 54281,
-      "word": "美国男篮半场落后11分",
-      "onboard_time": 1723147213,
-      "rank": 35,
+      "raw_hot": 43945,
+      "num": 43945,
+      "word": "日本女团进决赛",
+      "onboard_time": 1723149013,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -643,8 +659,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22619,
-      "num": 37993,
+      "raw_hot": 28879,
+      "num": 72234,
       "word": "张雨绮穿了Lolita",
       "onboard_time": 1723147813,
       "rank": 49,
