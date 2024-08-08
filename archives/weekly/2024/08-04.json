@@ -1,6 +1,6 @@
 {
   "startTime": 1722702313981,
-  "endTime": 1723144573820,
+  "endTime": 1723145714167,
   "band_list": [
     {
       "raw_hot": 35169209,
@@ -14699,6 +14699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134661,
+      "num": 105498,
+      "word": "体操队比完赛一看手机天塌了",
+      "onboard_time": 1723139894,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134051,
       "num": 707682,
       "word": "柳舟记鸳鸯浴",
@@ -14785,14 +14793,6 @@
       "onboard_time": 1722684266,
       "rank": 49,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 128662,
-      "num": 99639,
-      "word": "体操队比完赛一看手机天塌了",
-      "onboard_time": 1723139894,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 128093,
@@ -15304,6 +15304,14 @@
       "word": "张雨霏第8枚奥运奖牌",
       "onboard_time": 1722719772,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 93747,
+      "num": 173144,
+      "word": "美国男篮vs塞尔维亚男篮",
+      "onboard_time": 1723142352,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -15859,14 +15867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 67174,
-      "num": 173144,
-      "word": "美国男篮vs塞尔维亚男篮",
-      "onboard_time": 1723142352,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 67058,
       "num": 181175,
       "word": "时代少年团梦",
@@ -16225,6 +16225,14 @@
       "onboard_time": 1723118783,
       "rank": 13,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 54349,
+      "num": 54349,
+      "word": "梁育帅跆拳道摘铜",
+      "onboard_time": 1723142472,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 53543,
@@ -16803,6 +16811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33887,
+      "num": 122728,
+      "word": "詹某某涉嫌诈骗案开庭",
+      "onboard_time": 1723143253,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33482,
       "num": 1668186,
       "word": "区块链骗局围猎中老年人",
@@ -17051,6 +17067,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 21751,
+      "num": 103626,
+      "word": "库里4记三分",
+      "onboard_time": 1723144992,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 21652,
       "num": 247949,
       "word": "卫健委回应医院疑让患者至少消费七千",
@@ -17121,14 +17145,6 @@
       "onboard_time": 1722943824,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 15317,
-      "num": 122728,
-      "word": "詹某某涉嫌诈骗案开庭",
-      "onboard_time": 1723143253,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 14305,
@@ -17217,6 +17233,14 @@
       "onboard_time": 1722933807,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7148,
+      "num": 108209,
+      "word": "骆宗诗跆拳道第4",
+      "onboard_time": 1723145471,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 6200,

@@ -1,6 +1,6 @@
 {
   "startTime": 1723134321258,
-  "endTime": 1723144573820,
+  "endTime": 1723145714167,
   "band_list": [
     {
       "raw_hot": 2097926,
@@ -467,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134661,
+      "num": 105498,
+      "word": "体操队比完赛一看手机天塌了",
+      "onboard_time": 1723139894,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133190,
       "num": 196841,
       "word": "阿娇锁骨 千金感",
@@ -481,14 +489,6 @@
       "onboard_time": 1723114044,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 128662,
-      "num": 99639,
-      "word": "体操队比完赛一看手机天塌了",
-      "onboard_time": 1723139894,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 124592,
@@ -515,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93747,
+      "num": 173144,
+      "word": "美国男篮vs塞尔维亚男篮",
+      "onboard_time": 1723142352,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93683,
       "num": 93683,
       "word": "全国超1亿人经常参与这个大项目",
@@ -531,11 +539,11 @@
       "category": "科学科普,体育"
     },
     {
-      "raw_hot": 67174,
-      "num": 173144,
-      "word": "美国男篮vs塞尔维亚男篮",
-      "onboard_time": 1723142352,
-      "rank": 9,
+      "raw_hot": 54349,
+      "num": 54349,
+      "word": "梁育帅跆拳道摘铜",
+      "onboard_time": 1723142472,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -571,12 +579,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 15317,
+      "raw_hot": 33887,
       "num": 122728,
       "word": "詹某某涉嫌诈骗案开庭",
       "onboard_time": 1723143253,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21751,
+      "num": 103626,
+      "word": "库里4记三分",
+      "onboard_time": 1723144992,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 12913,
@@ -593,6 +609,14 @@
       "onboard_time": 1723137975,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 7148,
+      "num": 108209,
+      "word": "骆宗诗跆拳道第4",
+      "onboard_time": 1723145471,
+      "rank": 9,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
