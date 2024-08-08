@@ -1,0 +1,410 @@
+{
+  "runTime": 1723094397327,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2163012,
+        "num": 2163012,
+        "word": "张本智和崩溃",
+        "onboard_time": 1723070475,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1898935,
+        "num": 1898935,
+        "word": "硕士毕业学位证被顺丰撕毁",
+        "onboard_time": 1723087103,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30544,
+        "num": 1741585,
+        "word": "文化中国行打卡中国的世界遗产",
+        "onboard_time": 1723092691,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1590704,
+        "num": 1590704,
+        "word": "中国反兴奋剂中心最新发声",
+        "onboard_time": 1723086025,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1442025,
+        "num": 1442025,
+        "word": "汪顺跳水 牛蛙下锅",
+        "onboard_time": 1723089266,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1190022,
+        "num": 1190022,
+        "word": "印度选手体重超100克被取消资格",
+        "onboard_time": 1723086804,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 787890,
+        "num": 1178362,
+        "word": "温太医自曝曾夜会甄嬛",
+        "onboard_time": 1723088962,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 731673,
+        "num": 1160906,
+        "word": "樱桃琥珀官宣",
+        "onboard_time": 1723083921,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296136,
+        "num": 1141084,
+        "word": "罗永浩回应被指五宗罪",
+        "onboard_time": 1723092024,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95268,
+        "num": 1140246,
+        "word": "一科室10年12次留置针软管遗留",
+        "onboard_time": 1723093283,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1124049,
+        "num": 1124049,
+        "word": "马龙提醒王楚钦不顺的时候别上头",
+        "onboard_time": 1723081221,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1012456,
+        "num": 1012456,
+        "word": "首都机场已有数百粉丝被拘留罚款",
+        "onboard_time": 1723085123,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86108,
+        "num": 1009792,
+        "word": "刘亦菲新中式大片",
+        "onboard_time": 1723089924,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1008877,
+        "num": 1008877,
+        "word": "王楚钦24岁正是爱看热闹的年纪",
+        "onboard_time": 1723088843,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 751308,
+        "num": 751308,
+        "word": "马龙回应能否多打几届奥运",
+        "onboard_time": 1723090402,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 693000,
+        "num": 693000,
+        "word": "拜登称若特朗普败选恐无法和平交接",
+        "onboard_time": 1723092563,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 628267,
+        "num": 628267,
+        "word": "孙颖莎复盘笑了",
+        "onboard_time": 1723086743,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 496565,
+        "num": 496565,
+        "word": "火树 音乐节",
+        "onboard_time": 1723093403,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 430377,
+        "num": 430377,
+        "word": "朴彩英是唯一和成员都见面的人",
+        "onboard_time": 1723085723,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308780,
+        "num": 428926,
+        "word": "张凌赫 你蛐蛐我",
+        "onboard_time": 1723090402,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2164850,
+        "num": 415803,
+        "word": "女子便秘20多年差点撑爆肚子",
+        "onboard_time": 1723085123,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598702,
+        "num": 408379,
+        "word": "张本智和铜牌战不想拼也没力气了",
+        "onboard_time": 1723076243,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 455419,
+        "num": 393587,
+        "word": "张本智和说如果死能好受点宁愿去死",
+        "onboard_time": 1723078104,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 391807,
+        "num": 391807,
+        "word": "莫雷加德vs张本智和",
+        "onboard_time": 1723058293,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107635,
+        "num": 390984,
+        "word": "你喜欢我 我才是纪昱恒",
+        "onboard_time": 1723094303,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 390433,
+        "num": 390433,
+        "word": "看跳水比赛最担心的事发生了",
+        "onboard_time": 1723093342,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 362196,
+        "num": 362196,
+        "word": "水谷隼鼓励张本智和",
+        "onboard_time": 1723086203,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 322749,
+        "num": 322749,
+        "word": "疑陪睡换捐款母亲隐身不想家人受伤害",
+        "onboard_time": 1723092563,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180194,
+        "num": 312628,
+        "word": "朱一龙刚放下警惕又被套路了",
+        "onboard_time": 1723093043,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 275209,
+        "num": 312430,
+        "word": "谁家男主碰个肩就红温",
+        "onboard_time": 1723091603,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353868,
+        "num": 312342,
+        "word": "许昕说马龙是最努力的天才",
+        "onboard_time": 1723093643,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 312251,
+        "num": 312251,
+        "word": "戴向宇的工作全部叫停",
+        "onboard_time": 1723042585,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302135,
+        "num": 302135,
+        "word": "公园晒背管不管怎么管",
+        "onboard_time": 1723091425,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274176,
+        "num": 274176,
+        "word": "密室大逃脱 绿屏",
+        "onboard_time": 1723091364,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300634,
+        "num": 267824,
+        "word": "志愿者爆料莫雷加德赛前没热身",
+        "onboard_time": 1723083321,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261344,
+        "num": 261344,
+        "word": "国乒女团进4强",
+        "onboard_time": 1723041148,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252158,
+        "num": 252158,
+        "word": "张本智和一晚上白干",
+        "onboard_time": 1723077684,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244888,
+        "num": 244888,
+        "word": "巴黎警察被中国游戏周边硬控30S",
+        "onboard_time": 1723094242,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 244114,
+        "num": 244114,
+        "word": "韩志旼崔政勋恋爱",
+        "onboard_time": 1723087043,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230999,
+        "num": 230999,
+        "word": "高分考生挤进二本和大专",
+        "onboard_time": 1723086025,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219545,
+        "num": 219545,
+        "word": "郭晶晶为跳水男子3米跳板半决赛开赛",
+        "onboard_time": 1723080085,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211784,
+        "num": 211784,
+        "word": "漫画版莎头",
+        "onboard_time": 1723091903,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211116,
+        "num": 211116,
+        "word": "泰勒演唱会因袭击威胁被取消",
+        "onboard_time": 1723093403,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210761,
+        "num": 210761,
+        "word": "田小娟疑似不与cube续约",
+        "onboard_time": 1723085844,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210589,
+        "num": 210589,
+        "word": "水谷隼说马龙是团体赛的突破口",
+        "onboard_time": 1723094242,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205673,
+        "num": 205673,
+        "word": "王俊凯嘻嘻 周正不嘻嘻",
+        "onboard_time": 1723093822,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202073,
+        "num": 202073,
+        "word": "头次见乌龟送主人出门上班",
+        "onboard_time": 1723090764,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201347,
+        "num": 201347,
+        "word": "齐司礼画师",
+        "onboard_time": 1723088184,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200760,
+        "num": 200760,
+        "word": "国乒男团女团迎半决赛",
+        "onboard_time": 1723092323,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192566,
+        "num": 192566,
+        "word": "杜丽生完孩子回归赛场有多难",
+        "onboard_time": 1723087882,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#在改革中持续增进民生福祉#"
+    }
+  }
+}

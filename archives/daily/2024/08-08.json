@@ -1,6 +1,6 @@
 {
   "startTime": 1723047937015,
-  "endTime": 1723091957947,
+  "endTime": 1723094397327,
   "band_list": [
     {
       "raw_hot": 8577600,
@@ -92,11 +92,19 @@
     },
     {
       "raw_hot": 1613324,
-      "num": 871071,
+      "num": 1012456,
       "word": "首都机场已有数百粉丝被拘留罚款",
       "onboard_time": 1723085123,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1590704,
+      "num": 1590704,
+      "word": "中国反兴奋剂中心最新发声",
+      "onboard_time": 1723086025,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 1544701,
@@ -123,6 +131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1442025,
+      "num": 1442025,
+      "word": "汪顺跳水 牛蛙下锅",
+      "onboard_time": 1723089266,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1437051,
       "num": 1437051,
       "word": "张本智和铜牌战不想拼也没力气了",
@@ -137,22 +153,6 @@
       "onboard_time": 1723044503,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1374937,
-      "num": 1374937,
-      "word": "中国反兴奋剂中心最新发声",
-      "onboard_time": 1723086025,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1332826,
-      "num": 1332826,
-      "word": "汪顺跳水 牛蛙下锅",
-      "onboard_time": 1723089266,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 1261330,
@@ -259,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1008877,
+      "num": 1008877,
+      "word": "王楚钦24岁正是爱看热闹的年纪",
+      "onboard_time": 1723088843,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 876679,
       "num": 876679,
       "word": "瑞典国王来看小莫比赛了",
@@ -299,12 +307,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 787890,
+      "num": 1178362,
+      "word": "温太医自曝曾夜会甄嬛",
+      "onboard_time": 1723088962,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 751308,
+      "num": 751308,
+      "word": "马龙回应能否多打几届奥运",
+      "onboard_time": 1723090402,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 704159,
       "num": 621983,
       "word": "樱桃琥珀",
       "onboard_time": 1723080142,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 693000,
+      "num": 693000,
+      "word": "拜登称若特朗普败选恐无法和平交接",
+      "onboard_time": 1723092563,
+      "rank": 15,
+      "category": "国外时政"
     },
     {
       "raw_hot": 692553,
@@ -369,14 +401,6 @@
       "onboard_time": 1723042526,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 600917,
-      "num": 600917,
-      "word": "温太医自曝曾夜会甄嬛",
-      "onboard_time": 1723088962,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 593786,
@@ -491,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 496565,
+      "num": 496565,
+      "word": "火树 音乐节",
+      "onboard_time": 1723093403,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 487810,
       "num": 487810,
       "word": "日本男团vs瑞典男团",
@@ -537,14 +569,6 @@
       "onboard_time": 1723047200,
       "rank": 14,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 465355,
-      "num": 465355,
-      "word": "王楚钦24岁正是爱看热闹的年纪",
-      "onboard_time": 1723088843,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 463632,
@@ -635,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 390433,
+      "num": 390433,
+      "word": "看跳水比赛最担心的事发生了",
+      "onboard_time": 1723093342,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 390404,
       "num": 390404,
       "word": "跟樊振东打和服兵役有什么区别",
@@ -659,11 +691,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 372959,
-      "num": 372959,
-      "word": "马龙回应能否多打几届奥运",
-      "onboard_time": 1723090402,
-      "rank": 40,
+      "raw_hot": 353868,
+      "num": 312342,
+      "word": "许昕说马龙是最努力的天才",
+      "onboard_time": 1723093643,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -705,6 +737,14 @@
       "onboard_time": 1723033883,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 322749,
+      "num": 322749,
+      "word": "疑陪睡换捐款母亲隐身不想家人受伤害",
+      "onboard_time": 1723092563,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 320596,
@@ -755,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 308780,
+      "num": 486086,
+      "word": "张凌赫 你蛐蛐我",
+      "onboard_time": 1723090402,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 304766,
       "num": 638584,
       "word": "宋小宝恭喜李发彬夺得金牌",
@@ -771,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 302135,
+      "num": 916418,
+      "word": "公园晒背管不管怎么管",
+      "onboard_time": 1723091425,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300550,
       "num": 300550,
       "word": "麻六记客服回应酸辣粉中吃到苍蝇",
@@ -785,6 +841,14 @@
       "onboard_time": 1723029743,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 296136,
+      "num": 1141084,
+      "word": "罗永浩回应被指五宗罪",
+      "onboard_time": 1723092024,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 295395,
@@ -859,20 +923,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275209,
+      "num": 469161,
+      "word": "谁家男主碰个肩就红温",
+      "onboard_time": 1723091603,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 274176,
+      "num": 274176,
+      "word": "密室大逃脱 绿屏",
+      "onboard_time": 1723091364,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 273834,
       "num": 273834,
       "word": "昌雅妮第二跳失误",
       "onboard_time": 1723038204,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 273437,
-      "num": 486086,
-      "word": "张凌赫 你蛐蛐我",
-      "onboard_time": 1723090402,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 271128,
@@ -953,6 +1025,14 @@
       "onboard_time": 1723075223,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 244888,
+      "num": 244888,
+      "word": "巴黎警察被中国游戏周边硬控30S",
+      "onboard_time": 1723094242,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 243445,
@@ -1091,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211784,
+      "num": 211784,
+      "word": "漫画版莎头",
+      "onboard_time": 1723091903,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211519,
       "num": 211519,
       "word": "花游队用腿摆出甲骨文",
@@ -1105,6 +1193,22 @@
       "onboard_time": 1723089144,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211116,
+      "num": 211116,
+      "word": "泰勒演唱会因袭击威胁被取消",
+      "onboard_time": 1723093403,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 210589,
+      "num": 210589,
+      "word": "水谷隼说马龙是团体赛的突破口",
+      "onboard_time": 1723094242,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 210001,
@@ -1131,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205673,
+      "num": 205673,
+      "word": "王俊凯嘻嘻 周正不嘻嘻",
+      "onboard_time": 1723093822,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 204945,
       "num": 467795,
       "word": "英国大骚乱因为什么发生的",
@@ -1147,14 +1259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202949,
-      "num": 202949,
-      "word": "漫画版莎头",
-      "onboard_time": 1723091903,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 202177,
       "num": 202177,
       "word": "秦伟搏无缘110米栏决赛",
@@ -1163,12 +1267,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201394,
-      "num": 201394,
-      "word": "密室大逃脱 绿屏",
-      "onboard_time": 1723091364,
-      "rank": 47,
-      "category": "综艺"
+      "raw_hot": 202073,
+      "num": 202073,
+      "word": "头次见乌龟送主人出门上班",
+      "onboard_time": 1723090764,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 200760,
+      "num": 200760,
+      "word": "国乒男团女团迎半决赛",
+      "onboard_time": 1723092323,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 200644,
@@ -1265,6 +1377,14 @@
       "onboard_time": 1723022725,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180194,
+      "num": 312628,
+      "word": "朱一龙刚放下警惕又被套路了",
+      "onboard_time": 1723093043,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 178781,
@@ -1387,20 +1507,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112721,
-      "num": 469161,
-      "word": "谁家男主碰个肩就红温",
-      "onboard_time": 1723091603,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 107907,
       "num": 100871,
       "word": "李发彬不想退役了",
       "onboard_time": 1723060512,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107635,
+      "num": 390984,
+      "word": "你喜欢我 我才是纪昱恒",
+      "onboard_time": 1723094303,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 106321,
@@ -1427,6 +1547,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95268,
+      "num": 1140246,
+      "word": "一科室10年12次留置针软管遗留",
+      "onboard_time": 1723093283,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86108,
+      "num": 1009792,
+      "word": "刘亦菲新中式大片",
+      "onboard_time": 1723089924,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 83650,
       "num": 93186,
       "word": "冯紫琪女子摔跤铜牌",
@@ -1451,14 +1587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 63911,
-      "num": 783518,
-      "word": "刘亦菲新中式大片",
-      "onboard_time": 1723089924,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 63870,
       "num": 522875,
       "word": "深圳安居拟收购商品房作保障房",
@@ -1473,14 +1601,6 @@
       "onboard_time": 1723055713,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 60307,
-      "num": 916418,
-      "word": "公园晒背管不管怎么管",
-      "onboard_time": 1723091425,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 59938,
@@ -1555,6 +1675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30544,
+      "num": 1741585,
+      "word": "文化中国行打卡中国的世界遗产",
+      "onboard_time": 1723092691,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26693,
       "num": 355547,
       "word": "英国警方已拘留428人",
@@ -1609,6 +1737,9 @@
     },
     {
       "word": "#跟着总书记探寻文化根魂#"
+    },
+    {
+      "word": "#在改革中持续增进民生福祉#"
     }
   ]
 }
