@@ -1,6 +1,6 @@
 {
   "startTime": 1723134321258,
-  "endTime": 1723151961804,
+  "endTime": 1723152894181,
   "band_list": [
     {
       "raw_hot": 2097926,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 351820,
-      "num": 170523,
+      "num": 219470,
       "word": "女子要买18万黄金店长果断报警",
       "onboard_time": 1723140253,
       "rank": 13,
@@ -283,19 +283,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 274694,
+      "num": 274694,
+      "word": "日本女团进决赛",
+      "onboard_time": 1723149013,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 264174,
       "num": 264174,
       "word": "美国男篮晋级奥运决赛",
       "onboard_time": 1723150332,
       "rank": 3,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 257344,
-      "num": 257344,
-      "word": "日本女团进决赛",
-      "onboard_time": 1723149013,
-      "rank": 42,
       "category": "体育"
     },
     {
@@ -315,6 +315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 241110,
+      "num": 241110,
+      "word": "常园拳击金牌",
+      "onboard_time": 1723152132,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234173,
       "num": 204340,
       "word": "马龙王楚钦vs高茨A勒布伦",
@@ -329,6 +337,14 @@
       "onboard_time": 1723136057,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223424,
+      "num": 223424,
+      "word": "男孩把头埋进超市黄豆里玩妈妈全买下",
+      "onboard_time": 1723145772,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223130,
@@ -348,7 +364,7 @@
     },
     {
       "raw_hot": 222419,
-      "num": 222419,
+      "num": 223511,
       "word": "杭州萧山发布楼市新政",
       "onboard_time": 1723130846,
       "rank": 33,
@@ -411,14 +427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197007,
-      "num": 144501,
-      "word": "男孩把头埋进超市黄豆里玩妈妈全买下",
-      "onboard_time": 1723145772,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186843,
       "num": 81326,
       "word": "石智勇开把抓举163挺举193",
@@ -467,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169645,
+      "num": 169645,
+      "word": "常园冲击中国女子拳击首金",
+      "onboard_time": 1723152132,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162887,
       "num": 162887,
       "word": "摔跤女子自由式53公斤级铜牌赛",
@@ -499,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141877,
+      "num": 141877,
+      "word": "拳击女子54公斤级决赛",
+      "onboard_time": 1723150091,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138427,
       "num": 198758,
       "word": "泡泡玛特光夜联名",
@@ -515,20 +539,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137186,
+      "num": 137186,
+      "word": "体操队比完赛一看手机天塌了",
+      "onboard_time": 1723139894,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135736,
       "num": 299729,
       "word": "严屹宽古装 赏心悦目",
       "onboard_time": 1723132761,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134661,
-      "num": 105498,
-      "word": "体操队比完赛一看手机天塌了",
-      "onboard_time": 1723139894,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 133190,
@@ -548,7 +572,7 @@
     },
     {
       "raw_hot": 128391,
-      "num": 70327,
+      "num": 95640,
       "word": "库里36分",
       "onboard_time": 1723150991,
       "rank": 20,
@@ -587,14 +611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 93214,
-      "num": 93214,
-      "word": "拳击女子54公斤级决赛",
-      "onboard_time": 1723150091,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 90487,
       "num": 90487,
       "word": "石智勇 挺举开把",
@@ -609,6 +625,30 @@
       "onboard_time": 1723125084,
       "rank": 47,
       "category": "科学科普,体育"
+    },
+    {
+      "raw_hot": 86708,
+      "num": 86708,
+      "word": "詹姆斯三双",
+      "onboard_time": 1723152792,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 76493,
+      "num": 76493,
+      "word": "中国女子拳击奥运历史首金",
+      "onboard_time": 1723152792,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 68694,
+      "num": 68694,
+      "word": "常园创造历史",
+      "onboard_time": 1723152613,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 63876,
@@ -651,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52161,
+      "num": 223425,
+      "word": "意大利女排3比0土耳其女排",
+      "onboard_time": 1723151651,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48703,
       "num": 138955,
       "word": "于正回应白鹿被骂",
@@ -683,6 +731,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 40170,
+      "num": 135982,
+      "word": "张雨绮穿了Lolita",
+      "onboard_time": 1723147813,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 39643,
       "num": 39643,
       "word": "今晚眼睛好忙",
@@ -699,28 +755,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 37368,
-      "num": 81608,
-      "word": "张雨绮穿了Lolita",
-      "onboard_time": 1723147813,
-      "rank": 49,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 33887,
       "num": 122728,
       "word": "詹某某涉嫌诈骗案开庭",
       "onboard_time": 1723143253,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33081,
-      "num": 144823,
-      "word": "意大利女排3比0土耳其女排",
-      "onboard_time": 1723151651,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 21751,
