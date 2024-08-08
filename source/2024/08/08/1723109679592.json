@@ -1,0 +1,410 @@
+{
+  "runTime": 1723109679592,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4091959,
+        "num": 4091959,
+        "word": "吴艳妮无缘半决赛",
+        "onboard_time": 1723107448,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9565126,
+        "num": 3998389,
+        "word": "张继科 教练被换打击巨大",
+        "onboard_time": 1723104624,
+        "rank": 1,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 61312,
+        "num": 3688395,
+        "word": "赛场上这些拥抱情绪价值拉满了",
+        "onboard_time": 1723083142,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8860578,
+        "num": 3683664,
+        "word": "景甜取关了张继科",
+        "onboard_time": 1723108286,
+        "rank": 3,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 3650417,
+        "num": 3650417,
+        "word": "樊振东vsF勒布伦",
+        "onboard_time": 1723106127,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2569709,
+        "num": 2569709,
+        "word": "吴艳妮创中国奥运女子百米栏新纪录",
+        "onboard_time": 1723103785,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2370435,
+        "num": 2370435,
+        "word": "王楚钦vsA勒布伦",
+        "onboard_time": 1723109007,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1966278,
+        "num": 1966278,
+        "word": "国药曾使用买尸制作植入材料公司产品",
+        "onboard_time": 1723107387,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530932,
+        "num": 1911127,
+        "word": "王丽坤老公 贾青",
+        "onboard_time": 1723098922,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32816,
+        "num": 1891545,
+        "word": "室内甲醛检测乱象调查",
+        "onboard_time": 1723109426,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2323934,
+        "num": 1883267,
+        "word": "马龙王楚钦vs高茨A勒布伦",
+        "onboard_time": 1723103606,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1872460,
+        "num": 1872460,
+        "word": "樊振东再胜F勒布伦",
+        "onboard_time": 1723109068,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1816534,
+        "num": 1816534,
+        "word": "小布怎么还扇自己",
+        "onboard_time": 1723108767,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1259623,
+        "num": 1259623,
+        "word": "海南一飞机坠落当地已前往现场",
+        "onboard_time": 1723102764,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115885,
+        "num": 1233091,
+        "word": "WADA揭批美对违禁运动员操作内幕",
+        "onboard_time": 1723107927,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1222328,
+        "num": 1222328,
+        "word": "女子100米栏复活赛",
+        "onboard_time": 1723105947,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 496661,
+        "num": 1212421,
+        "word": "陈都灵一打开电视天塌了",
+        "onboard_time": 1723097002,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 409641,
+        "num": 1200747,
+        "word": "贾青 不要老把女孩子当谈资",
+        "onboard_time": 1723104925,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249547,
+        "num": 1189245,
+        "word": "唐艺昕带女儿出门逛街",
+        "onboard_time": 1723096882,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248911,
+        "num": 1177795,
+        "word": "柳舟记定档",
+        "onboard_time": 1723109306,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 802180,
+        "num": 1165469,
+        "word": "顺丰回应硕士毕业学位证被撕毁",
+        "onboard_time": 1723106665,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1159507,
+        "num": 1159507,
+        "word": "王楚钦负责冲马龙负责稳",
+        "onboard_time": 1723107626,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1128821,
+        "num": 1128821,
+        "word": "马龙王楚钦3比0高茨A勒布伦",
+        "onboard_time": 1723106247,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 981159,
+        "num": 981159,
+        "word": "昌雅妮失误",
+        "onboard_time": 1723106546,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43944,
+        "num": 806389,
+        "word": "享界S9明星车主后援团",
+        "onboard_time": 1723105345,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 775764,
+        "num": 775764,
+        "word": "张本智和 强迫症",
+        "onboard_time": 1723107687,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 759240,
+        "num": 759240,
+        "word": "国乒男团vs法国",
+        "onboard_time": 1723102825,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 755183,
+        "num": 755183,
+        "word": "日本九州岛附近发生7.1级地震",
+        "onboard_time": 1723104864,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227494,
+        "num": 699150,
+        "word": "王丽坤前夫曾给赵韩樱子转钱",
+        "onboard_time": 1723102286,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18231,
+        "num": 679205,
+        "word": "白宫称加沙停火协议已接近达成",
+        "onboard_time": 1723102645,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 668622,
+        "num": 668622,
+        "word": "龙头暴力美学",
+        "onboard_time": 1723107266,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 666516,
+        "num": 666516,
+        "word": "许昕解说",
+        "onboard_time": 1723106725,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 579731,
+        "num": 579731,
+        "word": "女子便秘20多年差点撑爆肚子",
+        "onboard_time": 1723085123,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446145,
+        "num": 446145,
+        "word": "张博恒小拇指",
+        "onboard_time": 1723105225,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203565,
+        "num": 435405,
+        "word": "电影她的小梨涡撤档",
+        "onboard_time": 1723099101,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 434184,
+        "num": 434184,
+        "word": "林雨薇复活赛小组第6",
+        "onboard_time": 1723107567,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 431239,
+        "num": 431239,
+        "word": "东道主更吵了",
+        "onboard_time": 1723106487,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 423700,
+        "num": 423700,
+        "word": "林雨薇无缘半决赛",
+        "onboard_time": 1723107507,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 403410,
+        "num": 403410,
+        "word": "罗永浩回应被指五宗罪",
+        "onboard_time": 1723092024,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393624,
+        "num": 393624,
+        "word": "法国人的小喇叭",
+        "onboard_time": 1723106965,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46048,
+        "num": 393561,
+        "word": "章子怡眼神有戏",
+        "onboard_time": 1723104565,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393545,
+        "num": 393545,
+        "word": "巩立姣宋佳媛晋级决赛",
+        "onboard_time": 1723109306,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 384166,
+        "num": 384166,
+        "word": "王皓情绪价值给得太到位了",
+        "onboard_time": 1723107205,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 382258,
+        "num": 382258,
+        "word": "女子单人三米板半决赛",
+        "onboard_time": 1723105225,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 351108,
+        "num": 351108,
+        "word": "王楚钦发接发贴脸开大",
+        "onboard_time": 1723106904,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 337599,
+        "num": 337599,
+        "word": "全红婵给许昕发许昕搓头",
+        "onboard_time": 1723107025,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 328191,
+        "num": 328191,
+        "word": "全红婵的目标是五块奥运金牌",
+        "onboard_time": 1723102225,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318251,
+        "num": 318251,
+        "word": "水谷隼说马龙是团体赛的突破口",
+        "onboard_time": 1723094242,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293167,
+        "num": 293167,
+        "word": "全红婵对小乌龟脱敏了",
+        "onboard_time": 1723108047,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277310,
+        "num": 277310,
+        "word": "近八成女性被伴侣鼾声吵到睡不着",
+        "onboard_time": 1723104024,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}

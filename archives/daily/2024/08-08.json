@@ -1,6 +1,6 @@
 {
   "startTime": 1723047937015,
-  "endTime": 1723108889407,
+  "endTime": 1723109679592,
   "band_list": [
     {
       "raw_hot": 10038050,
@@ -11,15 +11,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 8577600,
-      "num": 8577600,
-      "word": "张本智和崩溃",
-      "onboard_time": 1723070475,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 7727456,
+      "raw_hot": 9565126,
       "num": 7727456,
       "word": "张继科 教练被换打击巨大",
       "onboard_time": 1723104624,
@@ -27,12 +19,20 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 4731773,
-      "num": 3470067,
+      "raw_hot": 8860578,
+      "num": 3683664,
       "word": "景甜取关了张继科",
       "onboard_time": 1723108286,
       "rank": 3,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 8577600,
+      "num": 8577600,
+      "word": "张本智和崩溃",
+      "onboard_time": 1723070475,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 4480966,
@@ -75,19 +75,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3650417,
+      "num": 3650417,
+      "word": "樊振东vsF勒布伦",
+      "onboard_time": 1723106127,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3294635,
       "num": 3294635,
       "word": "李发彬举重金牌",
       "onboard_time": 1723044684,
       "rank": 0,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 3188081,
-      "num": 3188081,
-      "word": "樊振东vsF勒布伦",
-      "onboard_time": 1723106127,
-      "rank": 14,
       "category": "体育"
     },
     {
@@ -120,6 +120,14 @@
       "word": "张继科回复网友",
       "onboard_time": 1723099342,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2370435,
+      "num": 2370435,
+      "word": "王楚钦vsA勒布伦",
+      "onboard_time": 1723109007,
+      "rank": 6,
       "category": "体育"
     },
     {
@@ -171,12 +179,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1966278,
+      "num": 1966278,
+      "word": "国药曾使用买尸制作植入材料公司产品",
+      "onboard_time": 1723107387,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1872460,
+      "num": 1872460,
+      "word": "樊振东再胜F勒布伦",
+      "onboard_time": 1723109068,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1820737,
       "num": 1820737,
       "word": "曝王丽坤老公诈骗9亿购房款",
       "onboard_time": 1723097783,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1816534,
+      "num": 1816534,
+      "word": "小布怎么还扇自己",
+      "onboard_time": 1723108767,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 1793600,
@@ -371,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1159507,
+      "num": 1159507,
+      "word": "王楚钦负责冲马龙负责稳",
+      "onboard_time": 1723107626,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1159409,
       "num": 1487405,
       "word": "殡仪馆被指以每具900元贩卖尸体",
@@ -400,14 +440,6 @@
       "word": "男子模仿水花消失术致头部流血",
       "onboard_time": 1723074080,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1090426,
-      "num": 1090426,
-      "word": "国药曾使用买尸制作植入材料公司产品",
-      "onboard_time": 1723107387,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -459,8 +491,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 944990,
-      "num": 590715,
+      "raw_hot": 981159,
+      "num": 981159,
       "word": "昌雅妮失误",
       "onboard_time": 1723106546,
       "rank": 19,
@@ -523,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 802180,
+      "num": 1165469,
+      "word": "顺丰回应硕士毕业学位证被撕毁",
+      "onboard_time": 1723106665,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 800074,
       "num": 800074,
       "word": "她的眼角和国旗都是红色的",
@@ -545,6 +585,14 @@
       "onboard_time": 1723096402,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 775764,
+      "num": 775764,
+      "word": "张本智和 强迫症",
+      "onboard_time": 1723107687,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 742441,
@@ -584,6 +632,22 @@
       "word": "瑞典男团晋级决赛",
       "onboard_time": 1723067471,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 668622,
+      "num": 668622,
+      "word": "龙头暴力美学",
+      "onboard_time": 1723107266,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 666516,
+      "num": 666516,
+      "word": "许昕解说",
+      "onboard_time": 1723106725,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -651,14 +715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 630246,
-      "num": 581862,
-      "word": "王楚钦负责冲马龙负责稳",
-      "onboard_time": 1723107626,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 617930,
       "num": 508014,
       "word": "覃海洋好帅",
@@ -675,16 +731,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 604630,
-      "num": 604630,
-      "word": "顺丰回应硕士毕业学位证被撕毁",
-      "onboard_time": 1723106665,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 595644,
-      "num": 697666,
+      "num": 1200747,
       "word": "贾青 不要老把女孩子当谈资",
       "onboard_time": 1723104925,
       "rank": 15,
@@ -755,14 +803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 564925,
-      "num": 564925,
-      "word": "龙头暴力美学",
-      "onboard_time": 1723107266,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 558841,
       "num": 929075,
       "word": "李庚希失恋都没这么难过",
@@ -783,22 +823,6 @@
       "num": 473595,
       "word": "中国花游队感谢跳水队",
       "onboard_time": 1723072578,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 547395,
-      "num": 547395,
-      "word": "张本智和 强迫症",
-      "onboard_time": 1723107687,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 532537,
-      "num": 532537,
-      "word": "许昕解说",
-      "onboard_time": 1723106725,
       "rank": 30,
       "category": "体育"
     },
@@ -980,11 +1004,19 @@
     },
     {
       "raw_hot": 438618,
-      "num": 596811,
+      "num": 1189245,
       "word": "唐艺昕带女儿出门逛街",
       "onboard_time": 1723096882,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 434184,
+      "num": 434184,
+      "word": "林雨薇复活赛小组第6",
+      "onboard_time": 1723107567,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 428030,
@@ -1027,14 +1059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 410450,
-      "num": 410450,
-      "word": "林雨薇复活赛小组第6",
-      "onboard_time": 1723107567,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 407126,
       "num": 407126,
       "word": "张本智和一晚上白干",
@@ -1057,6 +1081,22 @@
       "onboard_time": 1723085844,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 393624,
+      "num": 393624,
+      "word": "法国人的小喇叭",
+      "onboard_time": 1723106965,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 393545,
+      "num": 393545,
+      "word": "巩立姣宋佳媛晋级决赛",
+      "onboard_time": 1723109306,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 390562,
@@ -1091,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 384166,
+      "num": 384166,
+      "word": "王皓情绪价值给得太到位了",
+      "onboard_time": 1723107205,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 377343,
       "num": 377343,
       "word": "林钟勋说中国注册球员比韩国人还多",
@@ -1107,14 +1155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 369620,
-      "num": 369620,
-      "word": "法国人的小喇叭",
-      "onboard_time": 1723106965,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 356564,
       "num": 356564,
       "word": "许昕说马龙是最努力的天才",
@@ -1124,11 +1164,19 @@
     },
     {
       "raw_hot": 354650,
-      "num": 532845,
+      "num": 699150,
       "word": "王丽坤前夫曾给赵韩樱子转钱",
       "onboard_time": 1723102286,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 351108,
+      "num": 351108,
+      "word": "王楚钦发接发贴脸开大",
+      "onboard_time": 1723106904,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 349460,
@@ -1163,14 +1211,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 341382,
-      "num": 341382,
-      "word": "小布怎么还扇自己",
-      "onboard_time": 1723108767,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 339873,
       "num": 339873,
       "word": "郭清跆拳道银牌",
@@ -1179,19 +1219,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 337599,
+      "num": 337599,
+      "word": "全红婵给许昕发许昕搓头",
+      "onboard_time": 1723107025,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 337078,
       "num": 446303,
       "word": "国乒男团进四强",
       "onboard_time": 1723026564,
       "rank": 26,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 336364,
-      "num": 336364,
-      "word": "王皓情绪价值给得太到位了",
-      "onboard_time": 1723107205,
-      "rank": 41,
       "category": "体育"
     },
     {
@@ -1339,14 +1379,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 299182,
-      "num": 299182,
-      "word": "王楚钦发接发贴脸开大",
-      "onboard_time": 1723106904,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 298476,
       "num": 457539,
       "word": "王丽坤已婚和办离婚被同天知道",
@@ -1472,14 +1504,6 @@
       "word": "昌雅妮陈艺文晋级半决赛",
       "onboard_time": 1723043065,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 276816,
-      "num": 276816,
-      "word": "全红婵给许昕发许昕搓头",
-      "onboard_time": 1723107025,
-      "rank": 49,
       "category": "体育"
     },
     {
@@ -1619,6 +1643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248911,
+      "num": 1177795,
+      "word": "柳舟记定档",
+      "onboard_time": 1723109306,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 244015,
       "num": 244015,
       "word": "陈芋汐真情告白教练",
@@ -1652,7 +1684,7 @@
     },
     {
       "raw_hot": 233554,
-      "num": 3516607,
+      "num": 3688395,
       "word": "赛场上这些拥抱情绪价值拉满了",
       "onboard_time": 1723083142,
       "rank": 39,
@@ -2275,6 +2307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115885,
+      "num": 1977631,
+      "word": "WADA揭批美对违禁运动员操作内幕",
+      "onboard_time": 1723107927,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115136,
       "num": 456095,
       "word": "中国第23金",
@@ -2388,7 +2428,7 @@
     },
     {
       "raw_hot": 60772,
-      "num": 569587,
+      "num": 806389,
       "word": "享界S9明星车主后援团",
       "onboard_time": 1723105345,
       "rank": 47,
@@ -2409,14 +2449,6 @@
       "onboard_time": 1723073058,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 59823,
-      "num": 1977631,
-      "word": "WADA揭批美对违禁运动员操作内幕",
-      "onboard_time": 1723107927,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 59568,
@@ -2515,6 +2547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32816,
+      "num": 1891545,
+      "word": "室内甲醛检测乱象调查",
+      "onboard_time": 1723109426,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31343,
       "num": 537884,
       "word": "殷若宁只想成为自己",
@@ -2540,7 +2580,7 @@
     },
     {
       "raw_hot": 25568,
-      "num": 543039,
+      "num": 679205,
       "word": "白宫称加沙停火协议已接近达成",
       "onboard_time": 1723102645,
       "rank": 29,
@@ -2642,6 +2682,9 @@
     },
     {
       "word": "#习近平推动全民健身的故事#"
+    },
+    {
+      "word": "#文脉华章#"
     }
   ]
 }
