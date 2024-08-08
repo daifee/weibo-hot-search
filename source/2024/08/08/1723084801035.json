@@ -1,0 +1,410 @@
+{
+  "runTime": 1723084801035,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6240768,
+        "num": 6240768,
+        "word": "张本智和崩溃",
+        "onboard_time": 1723070475,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1780453,
+        "num": 1780453,
+        "word": "赵露思回应变漂亮了",
+        "onboard_time": 1723082302,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12092,
+        "num": 1137222,
+        "word": "我国进出口规模再创新高",
+        "onboard_time": 1723037185,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2105574,
+        "num": 1119484,
+        "word": "马龙提醒王楚钦不顺的时候别上头",
+        "onboard_time": 1723081221,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 863171,
+        "num": 863171,
+        "word": "樱桃琥珀官宣",
+        "onboard_time": 1723083921,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 631204,
+        "num": 631204,
+        "word": "外媒公开以军士兵性侵巴男囚监控",
+        "onboard_time": 1723074261,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 704159,
+        "num": 621983,
+        "word": "樱桃琥珀",
+        "onboard_time": 1723080142,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97158,
+        "num": 604215,
+        "word": "中国反兴奋剂中心提出奈顿案件疑点",
+        "onboard_time": 1723083502,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 601341,
+        "num": 601341,
+        "word": "花游解说都哽咽了",
+        "onboard_time": 1723057452,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 551492,
+        "num": 582067,
+        "word": "郭晶晶为跳水男子3米跳板半决赛开赛",
+        "onboard_time": 1723080085,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1544701,
+        "num": 581725,
+        "word": "张本智和说如果死能好受点宁愿去死",
+        "onboard_time": 1723078104,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57358,
+        "num": 581277,
+        "word": "一颗乒乓球连闯15关征战巴黎",
+        "onboard_time": 1723082782,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 581111,
+        "num": 581111,
+        "word": "汪顺 多希望是中间那一块",
+        "onboard_time": 1723080571,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 550668,
+        "num": 550668,
+        "word": "她的眼角和国旗都是红色的",
+        "onboard_time": 1723078943,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 521715,
+        "num": 521715,
+        "word": "男子模仿水花消失术致头部流血",
+        "onboard_time": 1723074080,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508865,
+        "num": 508865,
+        "word": "黑神话悟空最终预告片",
+        "onboard_time": 1723083081,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 309889,
+        "num": 508706,
+        "word": "赵今麦张凌赫比耶海报",
+        "onboard_time": 1723084402,
+        "rank": 16,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 57886,
+        "num": 508517,
+        "word": "华为新笔记本到底有多强",
+        "onboard_time": 1723082662,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 286917,
+        "num": 508292,
+        "word": "以为宋小宝去举重了",
+        "onboard_time": 1723047200,
+        "rank": 18,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 202473,
+        "num": 508265,
+        "word": "宋小宝恭喜李发彬夺得金牌",
+        "onboard_time": 1723057632,
+        "rank": 19,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 1274939,
+        "num": 508043,
+        "word": "张本智和铜牌战不想拼也没力气了",
+        "onboard_time": 1723076243,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 720815,
+        "num": 507775,
+        "word": "莫雷加德vs张本智和",
+        "onboard_time": 1723058293,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 507666,
+        "num": 507666,
+        "word": "戴向宇的工作全部叫停",
+        "onboard_time": 1723042585,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426076,
+        "num": 426076,
+        "word": "陈梦王曼昱3比0陈思羽简彤娟",
+        "onboard_time": 1723038085,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 407126,
+        "num": 407126,
+        "word": "张本智和一晚上白干",
+        "onboard_time": 1723077684,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 396933,
+        "num": 396933,
+        "word": "工作三年通勤包的变化",
+        "onboard_time": 1723081221,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 349589,
+        "num": 349589,
+        "word": "男子办公室侮辱女同事被辞索赔47万",
+        "onboard_time": 1723070595,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321842,
+        "num": 321842,
+        "word": "中国花游队感谢跳水队",
+        "onboard_time": 1723072578,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191737,
+        "num": 320224,
+        "word": "李发彬回应宋小宝",
+        "onboard_time": 1723078643,
+        "rank": 28,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 176227,
+        "num": 319839,
+        "word": "车莉上班哄自己下班哄老公",
+        "onboard_time": 1723080630,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319838,
+        "num": 319838,
+        "word": "国乒女团进4强",
+        "onboard_time": 1723041148,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317860,
+        "num": 317860,
+        "word": "王昶和阿条姐原来是老乡",
+        "onboard_time": 1723081641,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302887,
+        "num": 302887,
+        "word": "樊振东也太听话了吧",
+        "onboard_time": 1723084281,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283160,
+        "num": 283160,
+        "word": "侯志慧举重金牌",
+        "onboard_time": 1723060033,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272810,
+        "num": 272810,
+        "word": "志愿者爆料莫雷加德赛前没热身",
+        "onboard_time": 1723083321,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174270,
+        "num": 264744,
+        "word": "戴向宇回应张昊唯道歉",
+        "onboard_time": 1723048281,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263214,
+        "num": 263214,
+        "word": "瑞典国王来看小莫比赛了",
+        "onboard_time": 1723076843,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258436,
+        "num": 258436,
+        "word": "徐卓一止步半决赛",
+        "onboard_time": 1723051936,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246792,
+        "num": 246792,
+        "word": "查尔莫斯转发潘展乐澄清视频",
+        "onboard_time": 1723048818,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233554,
+        "num": 233554,
+        "word": "赛场上这些拥抱情绪价值拉满了",
+        "onboard_time": 1723083142,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229009,
+        "num": 229009,
+        "word": "吴艳妮复活赛又进死亡之组",
+        "onboard_time": 1723038565,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225574,
+        "num": 225574,
+        "word": "赌石骗子直播套路曝光",
+        "onboard_time": 1723081522,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195514,
+        "num": 195514,
+        "word": "社工成绩",
+        "onboard_time": 1723083562,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 194048,
+        "num": 194048,
+        "word": "孙颖莎围观法国球迷做人浪",
+        "onboard_time": 1723074441,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181664,
+        "num": 181664,
+        "word": "美国运动员 哮喘病",
+        "onboard_time": 1723074681,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180794,
+        "num": 180794,
+        "word": "中国女曲比利时女曲冲突",
+        "onboard_time": 1723057572,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178874,
+        "num": 178874,
+        "word": "今夕赫夕",
+        "onboard_time": 1723084762,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177116,
+        "num": 177116,
+        "word": "全红婵陈芋汐给彼此的留言",
+        "onboard_time": 1723077684,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175660,
+        "num": 175660,
+        "word": "李发彬举重金牌",
+        "onboard_time": 1723044684,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175517,
+        "num": 175517,
+        "word": "澳大利亚运动员为购买毒品道歉",
+        "onboard_time": 1723083261,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革为人民#"
+    }
+  }
+}
