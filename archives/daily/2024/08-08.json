@@ -1,10 +1,10 @@
 {
   "startTime": 1723047937015,
-  "endTime": 1723073700917,
+  "endTime": 1723080308319,
   "band_list": [
     {
-      "raw_hot": 5992722,
-      "num": 5992722,
+      "raw_hot": 8577600,
+      "num": 8577600,
       "word": "张本智和崩溃",
       "onboard_time": 1723070475,
       "rank": 0,
@@ -43,8 +43,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1443288,
-      "num": 1443288,
+      "raw_hot": 1495627,
+      "num": 1495627,
       "word": "花游解说都哽咽了",
       "onboard_time": 1723057452,
       "rank": 15,
@@ -57,6 +57,14 @@
       "onboard_time": 1723044503,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1261330,
+      "num": 1261330,
+      "word": "黄子韬给全红婵加油",
+      "onboard_time": 1723073549,
+      "rank": 7,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 1246282,
@@ -99,6 +107,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1131106,
+      "num": 1131106,
+      "word": "男子模仿水花消失术致头部流血",
+      "onboard_time": 1723074080,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1081182,
+      "num": 1081182,
+      "word": "外媒公开以军士兵性侵巴男囚监控",
+      "onboard_time": 1723074261,
+      "rank": 6,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1080652,
       "num": 1080652,
       "word": "美国申诉夺铜后气炸罗马尼亚",
@@ -107,10 +131,34 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1041605,
+      "num": 1041605,
+      "word": "陈梦王曼昱3比0陈思羽简彤娟",
+      "onboard_time": 1723038085,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1026219,
       "num": 1026219,
       "word": "张本智和2比3卡尔伯格",
       "onboard_time": 1723067592,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 988121,
+      "num": 988121,
+      "word": "张本智和说如果死能好受点宁愿去死",
+      "onboard_time": 1723078104,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 876679,
+      "num": 876679,
+      "word": "瑞典国王来看小莫比赛了",
+      "onboard_time": 1723076843,
       "rank": 10,
       "category": "体育"
     },
@@ -128,6 +176,14 @@
       "word": "侯志慧举重金牌",
       "onboard_time": 1723060033,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 697954,
+      "num": 697954,
+      "word": "张本智和铜牌战不想拼也没力气了",
+      "onboard_time": 1723076243,
+      "rank": 11,
       "category": "体育"
     },
     {
@@ -219,19 +275,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 572888,
-      "num": 572888,
-      "word": "陈梦王曼昱3比0陈思羽简彤娟",
-      "onboard_time": 1723038085,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 556879,
       "num": 555647,
       "word": "查尔莫斯转发潘展乐澄清视频",
       "onboard_time": 1723048818,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 548937,
+      "num": 376682,
+      "word": "中国花游队感谢跳水队",
+      "onboard_time": 1723072578,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -283,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 472415,
+      "num": 361691,
+      "word": "孙颖莎围观法国球迷做人浪",
+      "onboard_time": 1723074441,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 469865,
       "num": 961312,
       "word": "以为宋小宝去举重了",
@@ -303,6 +367,14 @@
       "num": 451245,
       "word": "王曼昱太能护了",
       "onboard_time": 1723041508,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 447199,
+      "num": 359323,
+      "word": "美国运动员 哮喘病",
+      "onboard_time": 1723074681,
       "rank": 24,
       "category": "体育"
     },
@@ -347,19 +419,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 380865,
-      "num": 690046,
-      "word": "黄子韬给全红婵加油",
-      "onboard_time": 1723073549,
-      "rank": 7,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 377343,
       "num": 377343,
       "word": "林钟勋说中国注册球员比韩国人还多",
       "onboard_time": 1723043545,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 349460,
+      "num": 349460,
+      "word": "张本智和谈争铜",
+      "onboard_time": 1723075223,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -376,14 +448,6 @@
       "word": "国乒男团进四强",
       "onboard_time": 1723026564,
       "rank": 26,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 330473,
-      "num": 330473,
-      "word": "中国花游队感谢跳水队",
-      "onboard_time": 1723072578,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -419,6 +483,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 313771,
+      "num": 313771,
+      "word": "全红婵陈芋汐给彼此的留言",
+      "onboard_time": 1723077684,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 304766,
+      "num": 638584,
+      "word": "宋小宝恭喜李发彬夺得金牌",
+      "onboard_time": 1723057632,
+      "rank": 48,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 302596,
       "num": 471467,
       "word": "戴向宇相信张昊唯不是有意的",
@@ -451,6 +531,22 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 286076,
+      "num": 286076,
+      "word": "张本智和一晚上白干",
+      "onboard_time": 1723077684,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 283982,
+      "num": 283982,
+      "word": "一觉醒来中国队再夺3金2银1铜",
+      "onboard_time": 1723076964,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 282278,
       "num": 282278,
       "word": "张博恒回应军书十二卷卷卷有其名",
@@ -481,6 +577,14 @@
       "onboard_time": 1723043065,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 275893,
+      "num": 366558,
+      "word": "刘亦菲彭冠英同框",
+      "onboard_time": 1723040486,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 273834,
@@ -531,12 +635,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 244400,
-      "num": 638584,
-      "word": "宋小宝恭喜李发彬夺得金牌",
-      "onboard_time": 1723057632,
-      "rank": 48,
+      "raw_hot": 260116,
+      "num": 364923,
+      "word": "李发彬回应宋小宝",
+      "onboard_time": 1723078643,
+      "rank": 19,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 250823,
+      "num": 250823,
+      "word": "因为秋天的第一杯奶茶和男友吵架",
+      "onboard_time": 1723075223,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 243445,
@@ -545,6 +657,22 @@
       "onboard_time": 1723033883,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 236153,
+      "num": 236153,
+      "word": "跳水梦之队冲奥运第6金",
+      "onboard_time": 1723080022,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 231918,
+      "num": 231918,
+      "word": "张本智和曾说要带3枚奖牌回日本",
+      "onboard_time": 1723078704,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 228387,
@@ -561,6 +689,46 @@
       "onboard_time": 1723038204,
       "rank": 47,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 225887,
+      "num": 225887,
+      "word": "法国女选手赛后向男友求婚",
+      "onboard_time": 1723080142,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 225406,
+      "num": 225406,
+      "word": "乒乓球没有应该",
+      "onboard_time": 1723074863,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 224756,
+      "num": 399569,
+      "word": "戴向宇回应张昊唯道歉",
+      "onboard_time": 1723048281,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 223577,
+      "num": 223577,
+      "word": "男子三米板中国队双保险冲金",
+      "onboard_time": 1723077263,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 223411,
+      "num": 223411,
+      "word": "她的眼角和国旗都是红色的",
+      "onboard_time": 1723078943,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 215107,
@@ -595,12 +763,36 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192626,
-      "num": 399569,
-      "word": "戴向宇回应张昊唯道歉",
-      "onboard_time": 1723048281,
-      "rank": 43,
+      "raw_hot": 193561,
+      "num": 220156,
+      "word": "魏大勋听到粉丝喊老公的反应",
+      "onboard_time": 1723076545,
+      "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192348,
+      "num": 289268,
+      "word": "侯志慧挺举打破奥运纪录",
+      "onboard_time": 1723078403,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 191972,
+      "num": 219741,
+      "word": "樱桃琥珀",
+      "onboard_time": 1723080142,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 191864,
+      "num": 353086,
+      "word": "中国世界遗产做成一个旅行心愿单",
+      "onboard_time": 1723079482,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186724,
@@ -651,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162055,
+      "num": 362387,
+      "word": "有人疯狂炒茶1个月买了台宾利",
+      "onboard_time": 1723078344,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137613,
       "num": 120821,
       "word": "举重男子61公斤级决赛",
@@ -680,6 +880,14 @@
       "word": "孙颖莎3比0战胜郑怡静",
       "onboard_time": 1723039526,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 120806,
+      "num": 439635,
+      "word": "刘翔跨过的不止是10个栏",
+      "onboard_time": 1723075882,
+      "rank": 13,
       "category": "体育"
     },
     {

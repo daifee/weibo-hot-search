@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1723073700917,
+  "endTime": 1723080308319,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -1459,6 +1459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 8577600,
+      "num": 8577600,
+      "word": "张本智和崩溃",
+      "onboard_time": 1723070475,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 8556563,
       "num": 9599188,
       "word": "广西北海地震",
@@ -2392,14 +2400,6 @@
       "word": "杨家玉女子20公里竞走金牌",
       "onboard_time": 1722503968,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 6134960,
-      "num": 6134960,
-      "word": "张本智和 擦网",
-      "onboard_time": 1722528643,
-      "rank": 6,
       "category": "体育"
     }
   ],
