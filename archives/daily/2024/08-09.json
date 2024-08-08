@@ -1,6 +1,6 @@
 {
   "startTime": 1723134321258,
-  "endTime": 1723142462508,
+  "endTime": 1723144573820,
   "band_list": [
     {
       "raw_hot": 2097926,
@@ -203,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 351820,
+      "num": 170523,
+      "word": "女子要买18万黄金店长果断报警",
+      "onboard_time": 1723140253,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 336836,
       "num": 336836,
       "word": "孙杨 我的泳裤也没有干过",
@@ -227,19 +235,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 308058,
+      "num": 308058,
+      "word": "举重男子73公斤级",
+      "onboard_time": 1723137616,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 299047,
       "num": 299047,
       "word": "艺术体操好美",
       "onboard_time": 1723117884,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 291201,
-      "num": 291201,
-      "word": "举重男子73公斤级",
-      "onboard_time": 1723137616,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -257,14 +265,6 @@
       "onboard_time": 1723111647,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 275582,
-      "num": 170523,
-      "word": "女子要买18万黄金店长果断报警",
-      "onboard_time": 1723140253,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 256575,
@@ -483,7 +483,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126385,
+      "raw_hot": 128662,
       "num": 99639,
       "word": "体操队比完赛一看手机天塌了",
       "onboard_time": 1723139894,
@@ -531,6 +531,14 @@
       "category": "科学科普,体育"
     },
     {
+      "raw_hot": 67174,
+      "num": 173144,
+      "word": "美国男篮vs塞尔维亚男篮",
+      "onboard_time": 1723142352,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48703,
       "num": 138955,
       "word": "于正回应白鹿被骂",
@@ -555,20 +563,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36802,
+      "num": 118884,
+      "word": "庞倩玉摔跤铜牌",
+      "onboard_time": 1723144092,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 15317,
+      "num": 122728,
+      "word": "詹某某涉嫌诈骗案开庭",
+      "onboard_time": 1723143253,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12913,
+      "num": 108924,
+      "word": "詹姆斯眉骨贴纱布",
+      "onboard_time": 1723144032,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 12548,
       "num": 387874,
       "word": "安徽一县奖励优秀高考生每人5万",
       "onboard_time": 1723137975,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 6133,
-      "num": 173144,
-      "word": "美国男篮vs塞尔维亚男篮",
-      "onboard_time": 1723142352,
-      "rank": 9,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
