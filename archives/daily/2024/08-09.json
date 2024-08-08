@@ -1,6 +1,6 @@
 {
   "startTime": 1723134321258,
-  "endTime": 1723141666317,
+  "endTime": 1723142462508,
   "band_list": [
     {
       "raw_hot": 2097926,
@@ -235,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 291201,
+      "num": 291201,
+      "word": "举重男子73公斤级",
+      "onboard_time": 1723137616,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 280412,
       "num": 211832,
       "word": "孙颖莎vs李恩惠",
@@ -251,12 +259,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 268144,
-      "num": 268144,
-      "word": "举重男子73公斤级",
-      "onboard_time": 1723137616,
-      "rank": 25,
-      "category": "体育"
+      "raw_hot": 275582,
+      "num": 170523,
+      "word": "女子要买18万黄金店长果断报警",
+      "onboard_time": 1723140253,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 256575,
@@ -403,14 +411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165821,
-      "num": 165821,
-      "word": "女子要买18万黄金店长果断报警",
-      "onboard_time": 1723140253,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162887,
       "num": 162887,
       "word": "摔跤女子自由式53公斤级铜牌赛",
@@ -483,20 +483,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126385,
+      "num": 99639,
+      "word": "体操队比完赛一看手机天塌了",
+      "onboard_time": 1723139894,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124592,
       "num": 561708,
       "word": "女子被卡喉她1分钟连抱28次解救",
       "onboard_time": 1723132702,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 99639,
-      "num": 99639,
-      "word": "体操队比完赛一看手机天塌了",
-      "onboard_time": 1723139894,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 98186,
@@ -507,8 +507,16 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 92722,
-      "num": 92722,
+      "raw_hot": 97743,
+      "num": 97743,
+      "word": "梁育帅晋级铜牌赛",
+      "onboard_time": 1723142173,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 93683,
+      "num": 93683,
       "word": "全国超1亿人经常参与这个大项目",
       "onboard_time": 1723138695,
       "rank": 33,
@@ -521,6 +529,14 @@
       "onboard_time": 1723125084,
       "rank": 47,
       "category": "科学科普,体育"
+    },
+    {
+      "raw_hot": 48703,
+      "num": 138955,
+      "word": "于正回应白鹿被骂",
+      "onboard_time": 1723141933,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 46348,
@@ -545,6 +561,14 @@
       "onboard_time": 1723137975,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 6133,
+      "num": 173144,
+      "word": "美国男篮vs塞尔维亚男篮",
+      "onboard_time": 1723142352,
+      "rank": 9,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
