@@ -1,6 +1,6 @@
 {
   "startTime": 1723134321258,
-  "endTime": 1723137525803,
+  "endTime": 1723138691032,
   "band_list": [
     {
       "raw_hot": 2097926,
@@ -187,6 +187,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 366834,
+      "num": 366834,
+      "word": "全红婵 许昕不就这样拍照的吗",
+      "onboard_time": 1723137557,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 354582,
       "num": 354582,
       "word": "吴艳妮创中国奥运女子百米栏新纪录",
@@ -267,12 +275,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227479,
+      "num": 391057,
+      "word": "没有观察室的恋综",
+      "onboard_time": 1723136057,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223130,
       "num": 499002,
       "word": "恩利那可是朱一龙为你加油啊",
       "onboard_time": 1723129706,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 223071,
+      "num": 476644,
+      "word": "53岁合肥男子在安哥拉遇害",
+      "onboard_time": 1723136418,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222419,
@@ -339,12 +363,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183647,
-      "num": 373188,
-      "word": "没有观察室的恋综",
-      "onboard_time": 1723136057,
-      "rank": 16,
-      "category": "综艺"
+      "raw_hot": 199580,
+      "num": 199580,
+      "word": "举重男子73公斤级",
+      "onboard_time": 1723137616,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 182170,
@@ -379,6 +403,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162887,
+      "num": 162887,
+      "word": "摔跤女子自由式53公斤级铜牌赛",
+      "onboard_time": 1723137975,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 160325,
+      "num": 160325,
+      "word": "王子露晋级全能决赛",
+      "onboard_time": 1723136658,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157100,
       "num": 354643,
       "word": "刘昊然回应跟王宝强学数学",
@@ -387,11 +427,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 156237,
-      "num": 156237,
-      "word": "王子露晋级全能决赛",
-      "onboard_time": 1723136658,
-      "rank": 41,
+      "raw_hot": 150767,
+      "num": 453231,
+      "word": "王子露创造中国艺术体操历史",
+      "onboard_time": 1723136957,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -443,14 +483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 95513,
-      "num": 453231,
-      "word": "王子露创造中国艺术体操历史",
-      "onboard_time": 1723136957,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 89706,
       "num": 147165,
       "word": "神十八乘组在太空为奥运健儿加油",
@@ -459,20 +491,20 @@
       "category": "科学科普,体育"
     },
     {
-      "raw_hot": 39965,
-      "num": 476644,
-      "word": "53岁合肥男子在安哥拉遇害",
-      "onboard_time": 1723136418,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 37573,
       "num": 1470770,
       "word": "何以中国一檐千年",
       "onboard_time": 1723121724,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12548,
+      "num": 387874,
+      "word": "安徽一县奖励优秀高考生每人5万",
+      "onboard_time": 1723137975,
+      "rank": 9,
+      "category": "教育"
     }
   ],
   "hotgov_list": [
