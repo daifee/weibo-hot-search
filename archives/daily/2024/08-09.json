@@ -1,6 +1,6 @@
 {
   "startTime": 1723134321258,
-  "endTime": 1723135235437,
+  "endTime": 1723137525803,
   "band_list": [
     {
       "raw_hot": 2097926,
@@ -83,6 +83,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 602737,
+      "num": 670359,
+      "word": "当事人回应学位证被顺丰损毁已赔8千",
+      "onboard_time": 1723133481,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 598401,
+      "num": 437603,
+      "word": "王皓 没事哒",
+      "onboard_time": 1723132222,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 578421,
       "num": 541282,
       "word": "马来西亚6名学生致同学死亡后被绞刑",
@@ -128,14 +144,6 @@
       "word": "张博恒 我是茶茶",
       "onboard_time": 1723122143,
       "rank": 21,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 437603,
-      "num": 437603,
-      "word": "王皓 没事哒",
-      "onboard_time": 1723132222,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -307,8 +315,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 209859,
-      "num": 173628,
+      "raw_hot": 212825,
+      "num": 212825,
       "word": "王楚钦感谢刘国梁肖战赛后开导",
       "onboard_time": 1723134501,
       "rank": 41,
@@ -323,12 +331,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199339,
-      "num": 170319,
+      "raw_hot": 199859,
+      "num": 199859,
       "word": "美国女排3比2巴西女排",
       "onboard_time": 1723134740,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183647,
+      "num": 373188,
+      "word": "没有观察室的恋综",
+      "onboard_time": 1723136057,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 182170,
@@ -371,12 +387,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 156237,
+      "num": 156237,
+      "word": "王子露晋级全能决赛",
+      "onboard_time": 1723136658,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138427,
       "num": 198758,
       "word": "泡泡玛特光夜联名",
       "onboard_time": 1723127669,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 137882,
+      "num": 351338,
+      "word": "何炅沈梦辰后台拥抱",
+      "onboard_time": 1723135459,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 135736,
@@ -411,11 +443,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52301,
-      "num": 670359,
-      "word": "当事人回应学位证被顺丰损毁已赔8千",
-      "onboard_time": 1723133481,
+      "raw_hot": 95513,
+      "num": 453231,
+      "word": "王子露创造中国艺术体操历史",
+      "onboard_time": 1723136957,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 89706,
+      "num": 147165,
+      "word": "神十八乘组在太空为奥运健儿加油",
+      "onboard_time": 1723125084,
+      "rank": 47,
+      "category": "科学科普,体育"
+    },
+    {
+      "raw_hot": 39965,
+      "num": 476644,
+      "word": "53岁合肥男子在安哥拉遇害",
+      "onboard_time": 1723136418,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
