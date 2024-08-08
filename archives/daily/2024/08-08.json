@@ -1,6 +1,6 @@
 {
   "startTime": 1723047937015,
-  "endTime": 1723084801035,
+  "endTime": 1723085383737,
   "band_list": [
     {
       "raw_hot": 8577600,
@@ -28,15 +28,15 @@
     },
     {
       "raw_hot": 2105574,
-      "num": 1119484,
+      "num": 1345059,
       "word": "马龙提醒王楚钦不顺的时候别上头",
       "onboard_time": 1723081221,
       "rank": 38,
       "category": "体育"
     },
     {
-      "raw_hot": 1780453,
-      "num": 1780453,
+      "raw_hot": 1885532,
+      "num": 1885532,
       "word": "赵露思回应变漂亮了",
       "onboard_time": 1723082302,
       "rank": 1,
@@ -115,6 +115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1230827,
+      "num": 1230827,
+      "word": "樱桃琥珀官宣",
+      "onboard_time": 1723083921,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1180143,
       "num": 1180143,
       "word": "潘展乐告状行为开始人传人",
@@ -185,14 +193,6 @@
       "onboard_time": 1723076843,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 863171,
-      "num": 863171,
-      "word": "樱桃琥珀官宣",
-      "onboard_time": 1723083921,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 825242,
@@ -275,6 +275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 593786,
+      "num": 593786,
+      "word": "汪顺 多希望是中间那一块",
+      "onboard_time": 1723080571,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 592818,
       "num": 653137,
       "word": "疑因妻子出轨同事自缢死者父亲发声",
@@ -288,14 +296,6 @@
       "word": "国乒女团进4强",
       "onboard_time": 1723041148,
       "rank": 16,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 581111,
-      "num": 581111,
-      "word": "汪顺 多希望是中间那一块",
-      "onboard_time": 1723080571,
-      "rank": 32,
       "category": "体育"
     },
     {
@@ -315,19 +315,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 568246,
+      "num": 582067,
+      "word": "郭晶晶为跳水男子3米跳板半决赛开赛",
+      "onboard_time": 1723080085,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 556879,
       "num": 555647,
       "word": "查尔莫斯转发潘展乐澄清视频",
       "onboard_time": 1723048818,
       "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 551492,
-      "num": 582067,
-      "word": "郭晶晶为跳水男子3米跳板半决赛开赛",
-      "onboard_time": 1723080085,
-      "rank": 16,
       "category": "体育"
     },
     {
@@ -467,11 +467,35 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 421555,
+      "num": 396933,
+      "word": "工作三年通勤包的变化",
+      "onboard_time": 1723081221,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 419993,
+      "num": 508706,
+      "word": "赵今麦张凌赫比耶海报",
+      "onboard_time": 1723084402,
+      "rank": 16,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 415378,
       "num": 209834,
       "word": "徐卓一跨栏时眼镜为何不会掉",
       "onboard_time": 1723050678,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 411266,
+      "num": 411266,
+      "word": "志愿者爆料莫雷加德赛前没热身",
+      "onboard_time": 1723083321,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -483,20 +507,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 396933,
-      "num": 396933,
-      "word": "工作三年通勤包的变化",
-      "onboard_time": 1723081221,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 390404,
       "num": 390404,
       "word": "跟樊振东打和服兵役有什么区别",
       "onboard_time": 1723043963,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 383641,
+      "num": 366041,
+      "word": "樊振东也太听话了吧",
+      "onboard_time": 1723084281,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 377919,
+      "num": 377919,
+      "word": "BLACKPINK说很久没有四个人见面了",
+      "onboard_time": 1723084882,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 377343,
@@ -579,28 +611,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 309889,
-      "num": 508706,
-      "word": "赵今麦张凌赫比耶海报",
-      "onboard_time": 1723084402,
-      "rank": 16,
-      "category": "剧集,艺人"
-    },
-    {
       "raw_hot": 304766,
       "num": 638584,
       "word": "宋小宝恭喜李发彬夺得金牌",
       "onboard_time": 1723057632,
       "rank": 48,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 302887,
-      "num": 302887,
-      "word": "樊振东也太听话了吧",
-      "onboard_time": 1723084281,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 302596,
@@ -675,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 278406,
+      "num": 278406,
+      "word": "女子便秘20多年差点撑爆肚子",
+      "onboard_time": 1723085123,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277147,
       "num": 277147,
       "word": "昌雅妮陈艺文晋级半决赛",
@@ -699,20 +723,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 272810,
-      "num": 272810,
-      "word": "志愿者爆料莫雷加德赛前没热身",
-      "onboard_time": 1723083321,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 271128,
       "num": 427608,
       "word": "陈丽君回复周深粉丝",
       "onboard_time": 1723044985,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 270348,
+      "num": 270348,
+      "word": "赌石骗子直播套路曝光",
+      "onboard_time": 1723081522,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270300,
@@ -827,14 +851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 225574,
-      "num": 225574,
-      "word": "赌石骗子直播套路曝光",
-      "onboard_time": 1723081522,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 225406,
       "num": 225406,
       "word": "乒乓球没有应该",
@@ -849,6 +865,14 @@
       "onboard_time": 1723048281,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224135,
+      "num": 224135,
+      "word": "首都机场已有数百粉丝被拘留罚款",
+      "onboard_time": 1723085123,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223577,
@@ -915,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197142,
+      "num": 363040,
+      "word": "今夕赫夕",
+      "onboard_time": 1723084762,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195514,
       "num": 195514,
       "word": "社工成绩",
@@ -971,14 +1003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178874,
-      "num": 178874,
-      "word": "今夕赫夕",
-      "onboard_time": 1723084762,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 178781,
       "num": 178781,
       "word": "侯志慧挺举110公斤成功",
@@ -1009,6 +1033,14 @@
       "onboard_time": 1723035564,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169779,
+      "num": 604215,
+      "word": "中国反兴奋剂中心提出奈顿案件疑点",
+      "onboard_time": 1723083502,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169593,
@@ -1115,19 +1147,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 97158,
-      "num": 604215,
-      "word": "中国反兴奋剂中心提出奈顿案件疑点",
-      "onboard_time": 1723083502,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 83650,
       "num": 93186,
       "word": "冯紫琪女子摔跤铜牌",
       "onboard_time": 1723060633,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 81380,
+      "num": 581277,
+      "word": "一颗乒乓球连闯15关征战巴黎",
+      "onboard_time": 1723082782,
+      "rank": 11,
       "category": "体育"
     },
     {
@@ -1137,6 +1169,14 @@
       "onboard_time": 1723056073,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64871,
+      "num": 508517,
+      "word": "华为新笔记本到底有多强",
+      "onboard_time": 1723082662,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 63870,
@@ -1179,22 +1219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 57886,
-      "num": 508517,
-      "word": "华为新笔记本到底有多强",
-      "onboard_time": 1723082662,
-      "rank": 17,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 57358,
-      "num": 581277,
-      "word": "一颗乒乓球连闯15关征战巴黎",
-      "onboard_time": 1723082782,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 46931,
       "num": 64521,
       "word": "十个勤天",
@@ -1225,6 +1249,14 @@
       "onboard_time": 1723065672,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30645,
+      "num": 355942,
+      "word": "英国部署4000防暴警察应对抗议",
+      "onboard_time": 1723085242,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23679,
