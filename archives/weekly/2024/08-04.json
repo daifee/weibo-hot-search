@@ -1,6 +1,6 @@
 {
   "startTime": 1722702313981,
-  "endTime": 1723155545480,
+  "endTime": 1723156612114,
   "band_list": [
     {
       "raw_hot": 35169209,
@@ -4475,6 +4475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 866505,
+      "num": 866505,
+      "word": "常园拳击金牌",
+      "onboard_time": 1723152132,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 861863,
       "num": 861863,
       "word": "国家体育局回应袁某某言论",
@@ -4592,14 +4600,6 @@
       "word": "陈梦王曼昱vs陈思羽简彤娟",
       "onboard_time": 1723037064,
       "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 826342,
-      "num": 826342,
-      "word": "常园拳击金牌",
-      "onboard_time": 1723152132,
-      "rank": 3,
       "category": "体育"
     },
     {
@@ -5097,6 +5097,14 @@
       "onboard_time": 1722992124,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 690240,
+      "num": 690240,
+      "word": "日本女团进决赛",
+      "onboard_time": 1723149013,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 688219,
@@ -6339,6 +6347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 512835,
+      "num": 245193,
+      "word": "女子要买18万黄金店长果断报警",
+      "onboard_time": 1723140253,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 511916,
       "num": 876987,
       "word": "国家安全部通报一起故意通风报信案",
@@ -6385,14 +6401,6 @@
       "onboard_time": 1723083081,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 507429,
-      "num": 507429,
-      "word": "日本女团进决赛",
-      "onboard_time": 1723149013,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 507071,
@@ -6755,6 +6763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 476983,
+      "num": 227384,
+      "word": "男孩把头埋进超市黄豆里玩妈妈全买下",
+      "onboard_time": 1723145772,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 476844,
       "num": 476844,
       "word": "中国女曲晋级四强",
@@ -6952,6 +6968,14 @@
       "word": "吴艳妮至少可亮相2次",
       "onboard_time": 1723014262,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 458309,
+      "num": 458309,
+      "word": "石智勇无缘领奖台",
+      "onboard_time": 1723146792,
+      "rank": 1,
       "category": "体育"
     },
     {
@@ -8515,14 +8539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 355289,
-      "num": 219470,
-      "word": "女子要买18万黄金店长果断报警",
-      "onboard_time": 1723140253,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 355069,
       "num": 722514,
       "word": "闵玧其发长文道歉",
@@ -8736,14 +8752,6 @@
       "word": "伊利辟谣员工女乒决赛做侮辱性手势",
       "onboard_time": 1722950907,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 342851,
-      "num": 342851,
-      "word": "石智勇无缘领奖台",
-      "onboard_time": 1723146792,
-      "rank": 1,
       "category": "体育"
     },
     {
@@ -9057,14 +9065,6 @@
       "onboard_time": 1722949824,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 327189,
-      "num": 223424,
-      "word": "男孩把头埋进超市黄豆里玩妈妈全买下",
-      "onboard_time": 1723145772,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 326989,
@@ -10272,6 +10272,14 @@
       "word": "郭焱说王楚钦一定没问题",
       "onboard_time": 1722934586,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 281772,
+      "num": 281772,
+      "word": "石智勇 可惜",
+      "onboard_time": 1723147272,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -12339,6 +12347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211175,
+      "num": 211175,
+      "word": "中国第29金",
+      "onboard_time": 1723153452,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211116,
       "num": 211116,
       "word": "泰勒演唱会因袭击威胁被取消",
@@ -12713,14 +12729,6 @@
       "onboard_time": 1723050617,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 204930,
-      "num": 204930,
-      "word": "石智勇 可惜",
-      "onboard_time": 1723147272,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 204861,
@@ -13304,6 +13312,14 @@
       "word": "成都世运会吉祥物亮相",
       "onboard_time": 1722927146,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 192382,
+      "num": 192382,
+      "word": "中国女子拳击奥运历史首金",
+      "onboard_time": 1723152792,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -14403,14 +14419,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 155406,
-      "num": 155406,
-      "word": "中国第29金",
-      "onboard_time": 1723153452,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 155283,
       "num": 630187,
       "word": "被全红婵陈芋汐的率真圈粉了",
@@ -14617,6 +14625,14 @@
       "onboard_time": 1722780101,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146519,
+      "num": 223425,
+      "word": "意大利女排3比0土耳其女排",
+      "onboard_time": 1723151651,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 145828,
@@ -14884,7 +14900,7 @@
     },
     {
       "raw_hot": 128391,
-      "num": 95640,
+      "num": 100916,
       "word": "库里36分",
       "onboard_time": 1723150991,
       "rank": 20,
@@ -14897,14 +14913,6 @@
       "onboard_time": 1722747862,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128050,
-      "num": 128050,
-      "word": "中国女子拳击奥运历史首金",
-      "onboard_time": 1723152792,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 127185,
@@ -15099,14 +15107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113192,
-      "num": 223425,
-      "word": "意大利女排3比0土耳其女排",
-      "onboard_time": 1723151651,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 112570,
       "num": 695456,
       "word": "女子借住友人家盗窃后发朋友圈显摆",
@@ -15241,6 +15241,14 @@
       "onboard_time": 1722991764,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104569,
+      "num": 104569,
+      "word": "石智勇可能将退役",
+      "onboard_time": 1723155013,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 104265,
@@ -15420,7 +15428,7 @@
     },
     {
       "raw_hot": 93683,
-      "num": 192065,
+      "num": 281136,
       "word": "全国超1亿人经常参与这个大项目",
       "onboard_time": 1723138695,
       "rank": 33,
@@ -15811,6 +15819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76059,
+      "num": 76059,
+      "word": "李倩晋级决赛",
+      "onboard_time": 1723149432,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75809,
       "num": 2133018,
       "word": "今天已经立秋了",
@@ -15915,14 +15931,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 71741,
-      "num": 71741,
-      "word": "李倩晋级决赛",
-      "onboard_time": 1723149432,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 71561,
       "num": 3559524,
       "word": "何以中国一檐千年",
@@ -15992,6 +16000,14 @@
       "word": "张本智和怎么又开始弄裤子了",
       "onboard_time": 1722976511,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 67489,
+      "num": 67489,
+      "word": "常园跪地亲吻拳台",
+      "onboard_time": 1723153152,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -16115,14 +16131,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 62183,
-      "num": 62183,
-      "word": "石智勇可能将退役",
-      "onboard_time": 1723155013,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 62016,
       "num": 135641,
       "word": "2024LPL夏季赛",
@@ -16192,14 +16200,6 @@
       "word": "中国第24金",
       "onboard_time": 1723073058,
       "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 59712,
-      "num": 59712,
-      "word": "常园跪地亲吻拳台",
-      "onboard_time": 1723153152,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -16404,7 +16404,7 @@
     },
     {
       "raw_hot": 54349,
-      "num": 54349,
+      "num": 261501,
       "word": "梁育帅跆拳道摘铜",
       "onboard_time": 1723142472,
       "rank": 41,
@@ -16707,6 +16707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43724,
+      "num": 193898,
+      "word": "火星营地里的王一博",
+      "onboard_time": 1723153931,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 43472,
       "num": 305852,
       "word": "英国首相称采取一切行动平息骚乱",
@@ -16771,6 +16779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42462,
+      "num": 193690,
+      "word": "张雨绮穿了Lolita",
+      "onboard_time": 1723147813,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 42143,
       "num": 589703,
       "word": "郑钦文 对赢下比赛有强烈的饥渴感",
@@ -16817,14 +16833,6 @@
       "onboard_time": 1722926965,
       "rank": 28,
       "category": "数码"
-    },
-    {
-      "raw_hot": 40170,
-      "num": 135982,
-      "word": "张雨绮穿了Lolita",
-      "onboard_time": 1723147813,
-      "rank": 49,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 39689,
@@ -17025,14 +17033,6 @@
       "onboard_time": 1723024829,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33331,
-      "num": 83634,
-      "word": "火星营地里的王一博",
-      "onboard_time": 1723153931,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 32958,
