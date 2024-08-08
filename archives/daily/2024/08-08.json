@@ -1,10 +1,10 @@
 {
   "startTime": 1723047937015,
-  "endTime": 1723112458983,
+  "endTime": 1723113473720,
   "band_list": [
     {
-      "raw_hot": 10853316,
-      "num": 10853316,
+      "raw_hot": 11791478,
+      "num": 11791478,
       "word": "王楚钦vsA勒布伦",
       "onboard_time": 1723109007,
       "rank": 6,
@@ -99,8 +99,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 3374150,
-      "num": 3374150,
+      "raw_hot": 3636971,
+      "num": 3636971,
       "word": "樊振东 收视率打法",
       "onboard_time": 1723109667,
       "rank": 2,
@@ -136,6 +136,14 @@
       "word": "水谷隼说马龙是团体赛的突破口",
       "onboard_time": 1723094242,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2592469,
+      "num": 2592469,
+      "word": "马龙演我看赛点",
+      "onboard_time": 1723110628,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -219,14 +227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1859629,
-      "num": 1859629,
-      "word": "马龙演我看赛点",
-      "onboard_time": 1723110628,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1820737,
       "num": 1820737,
       "word": "曝王丽坤老公诈骗9亿购房款",
@@ -275,11 +275,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1712270,
+      "num": 1712270,
+      "word": "中国队4x100米接力小组第1",
+      "onboard_time": 1723110988,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1709532,
       "num": 1709532,
       "word": "志愿者爆料莫雷加德赛前没热身",
       "onboard_time": 1723083321,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1656520,
+      "num": 1656520,
+      "word": "还我妈生龙",
+      "onboard_time": 1723111647,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -344,14 +360,6 @@
       "word": "花游解说都哽咽了",
       "onboard_time": 1723057452,
       "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1483849,
-      "num": 1483849,
-      "word": "中国队4x100米接力小组第1",
-      "onboard_time": 1723110988,
-      "rank": 5,
       "category": "体育"
     },
     {
@@ -427,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1206740,
+      "num": 799594,
+      "word": "大布 擦边擦网",
+      "onboard_time": 1723111232,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1180143,
       "num": 1180143,
       "word": "潘展乐告状行为开始人传人",
@@ -481,14 +497,6 @@
       "onboard_time": 1723074080,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1088506,
-      "num": 799594,
-      "word": "大布 擦边擦网",
-      "onboard_time": 1723111232,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 1081182,
@@ -547,14 +555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 943811,
-      "num": 797877,
-      "word": "还我妈生龙",
-      "onboard_time": 1723111647,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 920402,
       "num": 920402,
       "word": "火树 音乐节",
@@ -563,20 +563,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 913707,
+      "num": 797674,
+      "word": "张本智和 强迫症",
+      "onboard_time": 1723107687,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 898520,
       "num": 1712912,
       "word": "陈都灵一打开电视天塌了",
       "onboard_time": 1723097002,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 896222,
-      "num": 797674,
-      "word": "张本智和 强迫症",
-      "onboard_time": 1723107687,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 882289,
@@ -667,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 760975,
+      "num": 1349323,
+      "word": "纪凌尘积极备战奥运会自由泳项目",
+      "onboard_time": 1723109847,
+      "rank": 7,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 742441,
       "num": 1075638,
       "word": "不少年轻人放弃医保参保",
@@ -689,14 +697,6 @@
       "onboard_time": 1723080142,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 693112,
-      "num": 1349323,
-      "word": "纪凌尘积极备战奥运会自由泳项目",
-      "onboard_time": 1723109847,
-      "rank": 7,
-      "category": "综艺,体育"
     },
     {
       "raw_hot": 692553,
@@ -729,6 +729,14 @@
       "onboard_time": 1723067471,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 675816,
+      "num": 803708,
+      "word": "戚薇倒V婚纱",
+      "onboard_time": 1723110628,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 668622,
@@ -827,6 +835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 599662,
+      "num": 599662,
+      "word": "王楚钦发球好牛",
+      "onboard_time": 1723111647,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 595644,
       "num": 1200747,
       "word": "贾青 不要老把女孩子当谈资",
@@ -856,14 +872,6 @@
       "word": "韩志旼崔政勋恋爱",
       "onboard_time": 1723087043,
       "rank": 47,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 588234,
-      "num": 803708,
-      "word": "戚薇倒V婚纱",
-      "onboard_time": 1723110628,
-      "rank": 14,
       "category": "艺人"
     },
     {
@@ -971,12 +979,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 501732,
-      "num": 407598,
-      "word": "王楚钦发球好牛",
-      "onboard_time": 1723111647,
-      "rank": 36,
-      "category": "体育"
+      "raw_hot": 501469,
+      "num": 799604,
+      "word": "以军性虐待巴勒斯坦囚犯视频被曝光",
+      "onboard_time": 1723105465,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 500429,
@@ -1033,14 +1041,6 @@
       "onboard_time": 1723022844,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 474065,
-      "num": 799604,
-      "word": "以军性虐待巴勒斯坦囚犯视频被曝光",
-      "onboard_time": 1723105465,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 472415,
@@ -1155,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 420333,
+      "num": 420333,
+      "word": "张博恒 IMCC",
+      "onboard_time": 1723112365,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 419993,
       "num": 508706,
       "word": "赵今麦张凌赫比耶海报",
@@ -1193,6 +1201,14 @@
       "onboard_time": 1723097542,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 403781,
+      "num": 802224,
+      "word": "方时赫和两美女出街",
+      "onboard_time": 1723111111,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 403466,
@@ -1275,14 +1291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 358948,
-      "num": 358948,
-      "word": "张博恒 IMCC",
-      "onboard_time": 1723112365,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 356564,
       "num": 356564,
       "word": "许昕说马龙是最努力的天才",
@@ -1355,14 +1363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 337582,
-      "num": 802224,
-      "word": "方时赫和两美女出街",
-      "onboard_time": 1723111111,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 337078,
       "num": 446303,
       "word": "国乒男团进四强",
@@ -1379,11 +1379,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334135,
+      "num": 334135,
+      "word": "王楚钦11比1",
+      "onboard_time": 1723112724,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 333813,
       "num": 333813,
       "word": "马龙樊振东鼓励王楚钦",
       "onboard_time": 1723112186,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 332407,
+      "num": 332407,
+      "word": "曲棍球回放",
+      "onboard_time": 1723113443,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -1409,6 +1425,14 @@
       "onboard_time": 1723101201,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 323594,
+      "num": 323594,
+      "word": "陈艺文半决赛第一",
+      "onboard_time": 1723113097,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 320596,
@@ -1835,6 +1859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 233353,
+      "num": 795823,
+      "word": "朱一龙性感得我不敢认",
+      "onboard_time": 1723110386,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 231918,
       "num": 231918,
       "word": "张本智和曾说要带3枚奖牌回日本",
@@ -1937,14 +1969,6 @@
       "onboard_time": 1723048281,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 224409,
-      "num": 795823,
-      "word": "朱一龙性感得我不敢认",
-      "onboard_time": 1723110386,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 223577,
@@ -2139,6 +2163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200191,
+      "num": 332123,
+      "word": "虞书欣打游戏越努力越搞笑",
+      "onboard_time": 1723112424,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199141,
       "num": 207611,
       "word": "杨幂以粉丝名义做公益",
@@ -2169,14 +2201,6 @@
       "onboard_time": 1723098862,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 196035,
-      "num": 332123,
-      "word": "虞书欣打游戏越努力越搞笑",
-      "onboard_time": 1723112424,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 195514,
@@ -2291,12 +2315,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183173,
+      "num": 1349274,
+      "word": "189元问题蛋白粉多卖给大学生",
+      "onboard_time": 1723111232,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182611,
       "num": 182611,
       "word": "花样游泳BGM",
       "onboard_time": 1723095562,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181838,
+      "num": 313425,
+      "word": "警方通报天津男子持铁锤随意伤人",
+      "onboard_time": 1723113263,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181237,
@@ -2369,6 +2409,14 @@
       "onboard_time": 1723035564,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170693,
+      "num": 304447,
+      "word": "海南坠落飞机为无人机未造成伤亡",
+      "onboard_time": 1723102764,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169593,
@@ -2529,14 +2577,6 @@
       "onboard_time": 1723097723,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 93563,
-      "num": 1349274,
-      "word": "189元问题蛋白粉多卖给大学生",
-      "onboard_time": 1723111232,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87792,
@@ -2723,8 +2763,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 36206,
-      "num": 405880,
+      "raw_hot": 38001,
+      "num": 711163,
       "word": "魏大勋有自己的搭配思路",
       "onboard_time": 1723111825,
       "rank": 37,
@@ -2812,7 +2852,7 @@
     },
     {
       "raw_hot": 21325,
-      "num": 520790,
+      "num": 3958928,
       "word": "当奥运遇到全民健身日",
       "onboard_time": 1723105885,
       "rank": 27,

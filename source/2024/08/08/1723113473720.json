@@ -1,0 +1,410 @@
+{
+  "runTime": 1723113473720,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11791478,
+        "num": 11791478,
+        "word": "王楚钦vsA勒布伦",
+        "onboard_time": 1723109007,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4477774,
+        "num": 4477774,
+        "word": "景甜取关了张继科",
+        "onboard_time": 1723108286,
+        "rank": 1,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 16044,
+        "num": 3958928,
+        "word": "当奥运遇到全民健身日",
+        "onboard_time": 1723105885,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3636971,
+        "num": 3636971,
+        "word": "樊振东 收视率打法",
+        "onboard_time": 1723109667,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2592469,
+        "num": 2592469,
+        "word": "马龙演我看赛点",
+        "onboard_time": 1723110628,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1712270,
+        "num": 1712270,
+        "word": "中国队4x100米接力小组第1",
+        "onboard_time": 1723110988,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1656520,
+        "num": 1656520,
+        "word": "还我妈生龙",
+        "onboard_time": 1723111647,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 760975,
+        "num": 1102006,
+        "word": "纪凌尘积极备战奥运会自由泳项目",
+        "onboard_time": 1723109847,
+        "rank": 7,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 795520,
+        "num": 795520,
+        "word": "顺丰回应硕士毕业学位证被撕毁",
+        "onboard_time": 1723106665,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336025,
+        "num": 787689,
+        "word": "日本九州岛附近发生7.1级地震",
+        "onboard_time": 1723104864,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3678783,
+        "num": 765511,
+        "word": "王楚钦 钮祜禄高压锅",
+        "onboard_time": 1723110806,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1528806,
+        "num": 744697,
+        "word": "国乒男团进决赛",
+        "onboard_time": 1723111051,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38001,
+        "num": 711163,
+        "word": "魏大勋有自己的搭配思路",
+        "onboard_time": 1723111825,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1206740,
+        "num": 697811,
+        "word": "大布 擦边擦网",
+        "onboard_time": 1723111232,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 675816,
+        "num": 675816,
+        "word": "戚薇倒V婚纱",
+        "onboard_time": 1723110628,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1072403,
+        "num": 674782,
+        "word": "吴艳妮无缘半决赛",
+        "onboard_time": 1723107448,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 913906,
+        "num": 669039,
+        "word": "樊振东再胜F勒布伦",
+        "onboard_time": 1723109068,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 913707,
+        "num": 662476,
+        "word": "张本智和 强迫症",
+        "onboard_time": 1723107687,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 403781,
+        "num": 655835,
+        "word": "方时赫和两美女出街",
+        "onboard_time": 1723111111,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300822,
+        "num": 651641,
+        "word": "陈都灵一打开电视天塌了",
+        "onboard_time": 1723097002,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 501469,
+        "num": 642914,
+        "word": "以军性虐待巴勒斯坦囚犯视频被曝光",
+        "onboard_time": 1723105465,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 858385,
+        "num": 637476,
+        "word": "小布怎么还扇自己",
+        "onboard_time": 1723108767,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 735505,
+        "num": 630560,
+        "word": "马龙王楚钦vs高茨A勒布伦",
+        "onboard_time": 1723103606,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 629797,
+        "num": 629797,
+        "word": "吴艳妮创中国奥运女子百米栏新纪录",
+        "onboard_time": 1723103785,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 599662,
+        "num": 599662,
+        "word": "王楚钦发球好牛",
+        "onboard_time": 1723111647,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 544870,
+        "num": 544870,
+        "word": "陈艺文昌雅妮晋级决赛",
+        "onboard_time": 1723110507,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264781,
+        "num": 543854,
+        "word": "王丽坤老公 贾青",
+        "onboard_time": 1723098922,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234269,
+        "num": 535756,
+        "word": "柳舟记定档",
+        "onboard_time": 1723109306,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233353,
+        "num": 535139,
+        "word": "朱一龙性感得我不敢认",
+        "onboard_time": 1723110386,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 8213,
+        "num": 530823,
+        "word": "白宫称加沙停火协议已接近达成",
+        "onboard_time": 1723102645,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 526263,
+        "num": 526263,
+        "word": "中国男子4×100米接力进决赛",
+        "onboard_time": 1723110747,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 358806,
+        "num": 492670,
+        "word": "罗永浩回应被指五宗罪",
+        "onboard_time": 1723092024,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479495,
+        "num": 479495,
+        "word": "樊振东vsF勒布伦",
+        "onboard_time": 1723106127,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 474721,
+        "num": 474721,
+        "word": "王楚钦",
+        "onboard_time": 1723111766,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230029,
+        "num": 473864,
+        "word": "女子便秘20多年差点撑爆肚子",
+        "onboard_time": 1723085123,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473815,
+        "num": 473815,
+        "word": "田径男子4x100米接力",
+        "onboard_time": 1723110026,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 420333,
+        "num": 420333,
+        "word": "张博恒 IMCC",
+        "onboard_time": 1723112365,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 385096,
+        "num": 385096,
+        "word": "女子100米栏复活赛",
+        "onboard_time": 1723105947,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 364371,
+        "num": 364371,
+        "word": "昌雅妮失误",
+        "onboard_time": 1723106546,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355527,
+        "num": 355527,
+        "word": "许昕解说",
+        "onboard_time": 1723106725,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 337756,
+        "num": 337756,
+        "word": "龙头暴力美学",
+        "onboard_time": 1723107266,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 334135,
+        "num": 334135,
+        "word": "王楚钦11比1",
+        "onboard_time": 1723112724,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 332407,
+        "num": 332407,
+        "word": "曲棍球回放",
+        "onboard_time": 1723113443,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 325250,
+        "num": 325250,
+        "word": "东道主更吵了",
+        "onboard_time": 1723106487,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323594,
+        "num": 323594,
+        "word": "陈艺文半决赛第一",
+        "onboard_time": 1723113097,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200191,
+        "num": 322353,
+        "word": "虞书欣打游戏越努力越搞笑",
+        "onboard_time": 1723112424,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183173,
+        "num": 318938,
+        "word": "189元问题蛋白粉多卖给大学生",
+        "onboard_time": 1723111232,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181838,
+        "num": 313425,
+        "word": "警方通报天津男子持铁锤随意伤人",
+        "onboard_time": 1723113263,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181530,
+        "num": 309385,
+        "word": "贾青 不要老把女孩子当谈资",
+        "onboard_time": 1723104925,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170693,
+        "num": 304447,
+        "word": "海南坠落飞机为无人机未造成伤亡",
+        "onboard_time": 1723102764,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平推动全民健身的故事#"
+    }
+  }
+}
