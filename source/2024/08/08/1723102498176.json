@@ -1,0 +1,410 @@
+{
+  "runTime": 1723102498176,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10038050,
+        "num": 10038050,
+        "word": "张继科 我会让所有人知道来龙去脉",
+        "onboard_time": 1723099763,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1678472,
+        "num": 1678472,
+        "word": "水谷隼说马龙是团体赛的突破口",
+        "onboard_time": 1723094242,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15108,
+        "num": 1336781,
+        "word": "文化中国行打卡中国的世界遗产",
+        "onboard_time": 1723092691,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1804194,
+        "num": 1313166,
+        "word": "张继科回复网友",
+        "onboard_time": 1723099342,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1237998,
+        "num": 1237998,
+        "word": "75人疑盗窃倒卖数千具尸体制作植入材料",
+        "onboard_time": 1723100543,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1035803,
+        "num": 1035803,
+        "word": "王丽坤老公 贾青",
+        "onboard_time": 1723098922,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 927627,
+        "num": 927627,
+        "word": "看跳水比赛最担心的事发生了",
+        "onboard_time": 1723093342,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 891603,
+        "num": 891603,
+        "word": "陈都灵一打开电视天塌了",
+        "onboard_time": 1723097002,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1026383,
+        "num": 794582,
+        "word": "曝王丽坤老公诈骗9亿购房款",
+        "onboard_time": 1723097783,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246675,
+        "num": 721788,
+        "word": "官方回应数千具尸体疑被盗窃倒卖",
+        "onboard_time": 1723102163,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 657441,
+        "num": 657441,
+        "word": "疑陪睡换捐款母亲隐身不想家人受伤害",
+        "onboard_time": 1723092563,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603940,
+        "num": 603940,
+        "word": "菲尔普斯称对美国男泳非常失望",
+        "onboard_time": 1723099821,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 598860,
+        "num": 598860,
+        "word": "硕士毕业学位证被顺丰撕毁",
+        "onboard_time": 1723087103,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550610,
+        "num": 550610,
+        "word": "罗永浩回应被指五宗罪",
+        "onboard_time": 1723092024,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458027,
+        "num": 458027,
+        "word": "张本智和崩溃",
+        "onboard_time": 1723070475,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 450161,
+        "num": 450161,
+        "word": "马拉松游泳水好脏",
+        "onboard_time": 1723099821,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 413265,
+        "num": 413265,
+        "word": "电影她的小梨涡撤档",
+        "onboard_time": 1723099101,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 390562,
+        "num": 412750,
+        "word": "蔡康永宣布退休",
+        "onboard_time": 1723101201,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 384745,
+        "num": 411227,
+        "word": "邓超孙俪一家巴黎吃火锅",
+        "onboard_time": 1723096402,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24896,
+        "num": 409873,
+        "word": "殷若宁只想成为自己",
+        "onboard_time": 1723099222,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 970699,
+        "num": 408303,
+        "word": "女子便秘20多年差点撑爆肚子",
+        "onboard_time": 1723085123,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407440,
+        "num": 407440,
+        "word": "不少年轻人放弃医保参保",
+        "onboard_time": 1723095082,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407123,
+        "num": 407123,
+        "word": "印度扬言巴黎奥运要碾压中国",
+        "onboard_time": 1723097542,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 394006,
+        "num": 394006,
+        "word": "汪顺跳水 牛蛙下锅",
+        "onboard_time": 1723089266,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 362988,
+        "num": 362988,
+        "word": "母亲称19岁儿子被忽悠贷款隆胸",
+        "onboard_time": 1723097841,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354650,
+        "num": 354650,
+        "word": "王丽坤前夫曾给赵韩樱子转钱",
+        "onboard_time": 1723102286,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353920,
+        "num": 353920,
+        "word": "中国反兴奋剂中心最新发声",
+        "onboard_time": 1723086025,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 346702,
+        "num": 346702,
+        "word": "的地得小警察一觉醒来天塌了",
+        "onboard_time": 1723101503,
+        "rank": 27,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 324533,
+        "num": 324533,
+        "word": "陶虹曾是国家花样游泳运动员",
+        "onboard_time": 1723101201,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277455,
+        "num": 310175,
+        "word": "偶遇刘亦菲买花",
+        "onboard_time": 1723097182,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309157,
+        "num": 309157,
+        "word": "马龙提醒王楚钦不顺的时候别上头",
+        "onboard_time": 1723081221,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296545,
+        "num": 296545,
+        "word": "全红婵的目标是五块奥运金牌",
+        "onboard_time": 1723102225,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295347,
+        "num": 295347,
+        "word": "王楚钦24岁正是爱看热闹的年纪",
+        "onboard_time": 1723088843,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265541,
+        "num": 265541,
+        "word": "首都机场已有数百粉丝被拘留罚款",
+        "onboard_time": 1723085123,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263582,
+        "num": 263582,
+        "word": "唐艺昕带女儿出门逛街",
+        "onboard_time": 1723096882,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253647,
+        "num": 253647,
+        "word": "袁弘张歆艺儿子秀街舞翻车",
+        "onboard_time": 1723101443,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250642,
+        "num": 250642,
+        "word": "维生素价格一周飙涨256%",
+        "onboard_time": 1723101083,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149794,
+        "num": 243124,
+        "word": "掏出两代人积蓄买的房被泥石流淹没",
+        "onboard_time": 1723100422,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242037,
+        "num": 242037,
+        "word": "的地得",
+        "onboard_time": 1723102225,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 237014,
+        "num": 237014,
+        "word": "火树 音乐节",
+        "onboard_time": 1723093403,
+        "rank": 39,
+        "category": "演出,游戏"
+      },
+      {
+        "raw_hot": 229483,
+        "num": 229483,
+        "word": "央妈的夺金宣传片",
+        "onboard_time": 1723101924,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223241,
+        "num": 223241,
+        "word": "印度选手体重超100克被取消资格",
+        "onboard_time": 1723086804,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216821,
+        "num": 216821,
+        "word": "马龙回应能否多打几届奥运",
+        "onboard_time": 1723090402,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208856,
+        "num": 208856,
+        "word": "陆虎 结婚让两人更有面对世界的勇气",
+        "onboard_time": 1723102105,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208825,
+        "num": 208825,
+        "word": "奥运会又被韩国人发现了中国帅哥",
+        "onboard_time": 1723098142,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205520,
+        "num": 205520,
+        "word": "陈芋汐真情告白教练",
+        "onboard_time": 1723096402,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204262,
+        "num": 204262,
+        "word": "拜登称若特朗普败选恐无法和平交接",
+        "onboard_time": 1723092563,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 196829,
+        "num": 196829,
+        "word": "韩林王楚钦拥抱",
+        "onboard_time": 1723098862,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195377,
+        "num": 195377,
+        "word": "许昕说马龙是最努力的天才",
+        "onboard_time": 1723093643,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187147,
+        "num": 187147,
+        "word": "俄库尔斯克州进入紧急状态",
+        "onboard_time": 1723098262,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平谈文化和自然遗产保护传承利用#"
+    }
+  }
+}
