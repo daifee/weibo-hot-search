@@ -1,6 +1,6 @@
 {
   "startTime": 1723047937015,
-  "endTime": 1723115948434,
+  "endTime": 1723116897816,
   "band_list": [
     {
       "raw_hot": 11791478,
@@ -195,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2081144,
+      "num": 2081144,
+      "word": "还我妈生龙",
+      "onboard_time": 1723111647,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2026042,
       "num": 2026042,
       "word": "赵露思回应变漂亮了",
@@ -256,14 +264,6 @@
       "word": "国乒男团vs法国",
       "onboard_time": 1723102825,
       "rank": 5,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1784622,
-      "num": 1784622,
-      "word": "还我妈生龙",
-      "onboard_time": 1723111647,
-      "rank": 23,
       "category": "体育"
     },
     {
@@ -563,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 951900,
+      "num": 1165469,
+      "word": "顺丰回应硕士毕业学位证被撕毁",
+      "onboard_time": 1723106665,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 920402,
       "num": 920402,
       "word": "火树 音乐节",
@@ -571,20 +579,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 913707,
-      "num": 875279,
+      "raw_hot": 914814,
+      "num": 914814,
       "word": "张本智和 强迫症",
       "onboard_time": 1723107687,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 912607,
-      "num": 1165469,
-      "word": "顺丰回应硕士毕业学位证被撕毁",
-      "onboard_time": 1723106665,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 906060,
@@ -835,11 +835,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 629444,
+      "num": 810308,
+      "word": "以军性虐待巴勒斯坦囚犯视频被曝光",
+      "onboard_time": 1723105465,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 617930,
       "num": 508014,
       "word": "覃海洋好帅",
       "onboard_time": 1723042526,
       "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 609832,
+      "num": 599662,
+      "word": "王楚钦发球好牛",
+      "onboard_time": 1723111647,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -849,14 +865,6 @@
       "onboard_time": 1723103606,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 599662,
-      "num": 599662,
-      "word": "王楚钦发球好牛",
-      "onboard_time": 1723111647,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 595644,
@@ -931,12 +939,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 567247,
-      "num": 810308,
-      "word": "以军性虐待巴勒斯坦囚犯视频被曝光",
-      "onboard_time": 1723105465,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 562337,
+      "num": 471876,
+      "word": "张博恒 IMCC",
+      "onboard_time": 1723112365,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 558841,
@@ -1059,19 +1067,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 476417,
+      "num": 476417,
+      "word": "马来西亚6名学生致同学死亡后被绞刑",
+      "onboard_time": 1723115663,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 472415,
       "num": 393602,
       "word": "孙颖莎围观法国球迷做人浪",
       "onboard_time": 1723074441,
       "rank": 22,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 471876,
-      "num": 471876,
-      "word": "张博恒 IMCC",
-      "onboard_time": 1723112365,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -1235,6 +1243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 394536,
+      "num": 394536,
+      "word": "樊振东 猴打墙",
+      "onboard_time": 1723115422,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 393624,
       "num": 393624,
       "word": "法国人的小喇叭",
@@ -1307,8 +1323,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 365361,
-      "num": 365361,
+      "raw_hot": 366255,
+      "num": 366255,
       "word": "于和伟 睡七个小时怎么了",
       "onboard_time": 1723114044,
       "rank": 28,
@@ -1337,6 +1353,14 @@
       "onboard_time": 1723102286,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 352931,
+      "num": 352931,
+      "word": "石凯多次确认井胧生命体征",
+      "onboard_time": 1723115124,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 351108,
@@ -1387,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 338536,
+      "num": 338536,
+      "word": "樊振东有自己的开端",
+      "onboard_time": 1723116143,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 337599,
       "num": 337599,
       "word": "全红婵给许昕发许昕搓头",
@@ -1425,14 +1457,6 @@
       "onboard_time": 1723113443,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 332191,
-      "num": 332191,
-      "word": "马来西亚6名学生致同学死亡后被绞刑",
-      "onboard_time": 1723115663,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 329837,
@@ -1547,14 +1571,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 306787,
-      "num": 288076,
-      "word": "樊振东 猴打墙",
-      "onboard_time": 1723115422,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 306503,
       "num": 306503,
       "word": "全红婵对小乌龟脱敏了",
@@ -1603,6 +1619,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 298958,
+      "num": 313425,
+      "word": "警方通报天津男子持铁锤随意伤人",
+      "onboard_time": 1723113263,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298476,
       "num": 457539,
       "word": "王丽坤已婚和办离婚被同天知道",
@@ -1617,14 +1641,6 @@
       "onboard_time": 1723094242,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 295987,
-      "num": 313425,
-      "word": "警方通报天津男子持铁锤随意伤人",
-      "onboard_time": 1723113263,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 295395,
@@ -1713,6 +1729,14 @@
       "onboard_time": 1723044263,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 281806,
+      "num": 407813,
+      "word": "歌名没听过 一听调调全听过",
+      "onboard_time": 1723115243,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 280756,
@@ -1851,6 +1875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 257430,
+      "num": 399184,
+      "word": "幸好张杰走的是才艺赛道",
+      "onboard_time": 1723114164,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 257152,
       "num": 365195,
       "word": "柳智敏牛仔深V",
@@ -1859,19 +1891,19 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 256297,
-      "num": 256297,
-      "word": "石凯多次确认井胧生命体征",
-      "onboard_time": 1723115124,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 254450,
       "num": 254450,
       "word": "戴利给队友奖牌织了保护套",
       "onboard_time": 1723085002,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 253676,
+      "num": 253676,
+      "word": "五秒毛肚都没好",
+      "onboard_time": 1723116023,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -1907,14 +1939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 244065,
-      "num": 299970,
-      "word": "幸好张杰走的是才艺赛道",
-      "onboard_time": 1723114164,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 244015,
       "num": 244015,
       "word": "陈芋汐真情告白教练",
@@ -1929,6 +1953,22 @@
       "onboard_time": 1723033883,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 241028,
+      "num": 241028,
+      "word": "伍鹏就差0.02秒",
+      "onboard_time": 1723116383,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 237573,
+      "num": 237573,
+      "word": "小布17岁正是发疯的年纪",
+      "onboard_time": 1723116803,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 236822,
@@ -2051,6 +2091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225397,
+      "num": 887809,
+      "word": "法院回应1.3亿厂房被1.8万变卖",
+      "onboard_time": 1723114823,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224756,
       "num": 399569,
       "word": "戴向宇回应张昊唯道歉",
@@ -2065,14 +2113,6 @@
       "onboard_time": 1723077263,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 219914,
-      "num": 219914,
-      "word": "歌名没听过 一听调调全听过",
-      "onboard_time": 1723115243,
-      "rank": 48,
-      "category": "音乐"
     },
     {
       "raw_hot": 215107,
@@ -2523,6 +2563,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 167652,
+      "num": 916440,
+      "word": "武汉18岁失联男生已找到尸体",
+      "onboard_time": 1723116623,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149794,
       "num": 794356,
       "word": "掏出两代人积蓄买的房被泥石流淹没",
@@ -2619,14 +2667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 115491,
-      "num": 887809,
-      "word": "法院回应1.3亿厂房被1.8万变卖",
-      "onboard_time": 1723114823,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115136,
       "num": 456095,
       "word": "中国第23金",
@@ -2707,6 +2747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79863,
+      "num": 246504,
+      "word": "游泳队把带去巴黎的床垫又带回来了",
+      "onboard_time": 1723114644,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77074,
       "num": 1349273,
       "word": "呼吁加大对美运动员兴奋剂检查频率",
@@ -2715,7 +2763,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 70111,
+      "raw_hot": 77040,
       "num": 815113,
       "word": "魏大勋有自己的搭配思路",
       "onboard_time": 1723111825,
@@ -2835,6 +2883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 46646,
+      "num": 3958928,
+      "word": "当奥运遇到全民健身日",
+      "onboard_time": 1723105885,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 43472,
       "num": 305852,
       "word": "英国首相称采取一切行动平息骚乱",
@@ -2859,28 +2915,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 40639,
-      "num": 221739,
-      "word": "游泳队把带去巴黎的床垫又带回来了",
-      "onboard_time": 1723114644,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 39634,
       "num": 945799,
       "word": "罗永浩称想提供帮助但董宇辉没回复",
       "onboard_time": 1723095143,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 38530,
-      "num": 3958928,
-      "word": "当奥运遇到全民健身日",
-      "onboard_time": 1723105885,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 35975,
@@ -2979,20 +3019,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18780,
+      "num": 246345,
+      "word": "入秋的时候人会变得敏感吗",
+      "onboard_time": 1723115304,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 17239,
       "num": 2209898,
       "word": "我国进出口规模再创新高",
       "onboard_time": 1723037185,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14984,
-      "num": 221803,
-      "word": "入秋的时候人会变得敏感吗",
-      "onboard_time": 1723115304,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 12960,

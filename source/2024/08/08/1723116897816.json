@@ -1,0 +1,410 @@
+{
+  "runTime": 1723116897816,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6623462,
+        "num": 6623462,
+        "word": "王楚钦vsA勒布伦",
+        "onboard_time": 1723109007,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3014130,
+        "num": 3014130,
+        "word": "樊振东 收视率打法",
+        "onboard_time": 1723109667,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46646,
+        "num": 2821862,
+        "word": "当奥运遇到全民健身日",
+        "onboard_time": 1723105885,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2765684,
+        "num": 2765684,
+        "word": "伍鹏速度攀岩银牌",
+        "onboard_time": 1723115005,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2081144,
+        "num": 2081144,
+        "word": "还我妈生龙",
+        "onboard_time": 1723111647,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1754148,
+        "num": 1754148,
+        "word": "景甜取关了张继科",
+        "onboard_time": 1723108286,
+        "rank": 5,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 1633123,
+        "num": 1633123,
+        "word": "马龙演我看赛点",
+        "onboard_time": 1723110628,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 951900,
+        "num": 951900,
+        "word": "顺丰回应硕士毕业学位证被撕毁",
+        "onboard_time": 1723106665,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490209,
+        "num": 919859,
+        "word": "戚薇倒V婚纱",
+        "onboard_time": 1723110628,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167652,
+        "num": 916440,
+        "word": "武汉18岁失联男生已找到尸体",
+        "onboard_time": 1723116623,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 915623,
+        "num": 915623,
+        "word": "中国队4x100米接力小组第1",
+        "onboard_time": 1723110988,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 914814,
+        "num": 914814,
+        "word": "张本智和 强迫症",
+        "onboard_time": 1723107687,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 629444,
+        "num": 629444,
+        "word": "以军性虐待巴勒斯坦囚犯视频被曝光",
+        "onboard_time": 1723105465,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476417,
+        "num": 476417,
+        "word": "马来西亚6名学生致同学死亡后被绞刑",
+        "onboard_time": 1723115663,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440893,
+        "num": 440893,
+        "word": "日本九州岛附近发生7.1级地震",
+        "onboard_time": 1723104864,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 880206,
+        "num": 431605,
+        "word": "吴艳妮创中国奥运女子百米栏新纪录",
+        "onboard_time": 1723103785,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 684610,
+        "num": 431448,
+        "word": "小布怎么还扇自己",
+        "onboard_time": 1723108767,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 409555,
+        "num": 409555,
+        "word": "纪凌尘积极备战奥运会自由泳项目",
+        "onboard_time": 1723109847,
+        "rank": 17,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 317218,
+        "num": 409198,
+        "word": "朱一龙性感得我不敢认",
+        "onboard_time": 1723110386,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 281806,
+        "num": 407813,
+        "word": "歌名没听过 一听调调全听过",
+        "onboard_time": 1723115243,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 647907,
+        "num": 404714,
+        "word": "国乒男团进决赛",
+        "onboard_time": 1723111051,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 628355,
+        "num": 403397,
+        "word": "大布 擦边擦网",
+        "onboard_time": 1723111232,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 609832,
+        "num": 401906,
+        "word": "王楚钦发球好牛",
+        "onboard_time": 1723111647,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 562337,
+        "num": 399723,
+        "word": "张博恒 IMCC",
+        "onboard_time": 1723112365,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257430,
+        "num": 399184,
+        "word": "幸好张杰走的是才艺赛道",
+        "onboard_time": 1723114164,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 478397,
+        "num": 396401,
+        "word": "吴艳妮无缘半决赛",
+        "onboard_time": 1723107448,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 466604,
+        "num": 394945,
+        "word": "马龙王楚钦vs高茨A勒布伦",
+        "onboard_time": 1723103606,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 394536,
+        "num": 394536,
+        "word": "樊振东 猴打墙",
+        "onboard_time": 1723115422,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 366255,
+        "num": 366255,
+        "word": "于和伟 睡七个小时怎么了",
+        "onboard_time": 1723114044,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352931,
+        "num": 352931,
+        "word": "石凯多次确认井胧生命体征",
+        "onboard_time": 1723115124,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339050,
+        "num": 339050,
+        "word": "樊振东再胜F勒布伦",
+        "onboard_time": 1723109068,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77040,
+        "num": 338773,
+        "word": "魏大勋有自己的搭配思路",
+        "onboard_time": 1723111825,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338536,
+        "num": 338536,
+        "word": "樊振东有自己的开端",
+        "onboard_time": 1723116143,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321110,
+        "num": 321110,
+        "word": "王楚钦11比1",
+        "onboard_time": 1723112724,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298958,
+        "num": 298958,
+        "word": "警方通报天津男子持铁锤随意伤人",
+        "onboard_time": 1723113263,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247299,
+        "num": 295865,
+        "word": "方时赫和两美女出街",
+        "onboard_time": 1723111111,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294670,
+        "num": 294670,
+        "word": "东道主更吵了",
+        "onboard_time": 1723106487,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266512,
+        "num": 266512,
+        "word": "王楚钦3比1A勒布伦",
+        "onboard_time": 1723113564,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225397,
+        "num": 264700,
+        "word": "法院回应1.3亿厂房被1.8万变卖",
+        "onboard_time": 1723114823,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249064,
+        "num": 264610,
+        "word": "陈都灵一打开电视天塌了",
+        "onboard_time": 1723097002,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264526,
+        "num": 264526,
+        "word": "樊振东vsF勒布伦",
+        "onboard_time": 1723106127,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262761,
+        "num": 262761,
+        "word": "张博恒说奥运村很抽象",
+        "onboard_time": 1723115603,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253676,
+        "num": 253676,
+        "word": "五秒毛肚都没好",
+        "onboard_time": 1723116023,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79863,
+        "num": 246504,
+        "word": "游泳队把带去巴黎的床垫又带回来了",
+        "onboard_time": 1723114644,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18780,
+        "num": 246345,
+        "word": "入秋的时候人会变得敏感吗",
+        "onboard_time": 1723115304,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246191,
+        "num": 246191,
+        "word": "罗永浩回应被指五宗罪",
+        "onboard_time": 1723092024,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241842,
+        "num": 241842,
+        "word": "昌雅妮失误",
+        "onboard_time": 1723106546,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241028,
+        "num": 241028,
+        "word": "伍鹏就差0.02秒",
+        "onboard_time": 1723116383,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237573,
+        "num": 237573,
+        "word": "小布17岁正是发疯的年纪",
+        "onboard_time": 1723116803,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236630,
+        "num": 236630,
+        "word": "柳智敏牛仔深V",
+        "onboard_time": 1723114763,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平推动全民健身的故事#"
+    }
+  }
+}
