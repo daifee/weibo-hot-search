@@ -1,6 +1,6 @@
 {
   "startTime": 1723047937015,
-  "endTime": 1723094397327,
+  "endTime": 1723095409380,
   "band_list": [
     {
       "raw_hot": 8577600,
@@ -115,6 +115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1526589,
+      "num": 1526589,
+      "word": "拜登称若特朗普败选恐无法和平交接",
+      "onboard_time": 1723092563,
+      "rank": 15,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1517050,
       "num": 1517050,
       "word": "戴向宇的工作全部叫停",
@@ -184,6 +192,14 @@
       "word": "吕小军举重鞋",
       "onboard_time": 1723045463,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1223364,
+      "num": 1054949,
+      "word": "王楚钦24岁正是爱看热闹的年纪",
+      "onboard_time": 1723088843,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -259,12 +275,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1008877,
-      "num": 1008877,
-      "word": "王楚钦24岁正是爱看热闹的年纪",
-      "onboard_time": 1723088843,
-      "rank": 24,
+      "raw_hot": 1022567,
+      "num": 1022567,
+      "word": "马龙回应能否多打几届奥运",
+      "onboard_time": 1723090402,
+      "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 920402,
+      "num": 920402,
+      "word": "火树 音乐节",
+      "onboard_time": 1723093403,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 876679,
@@ -315,28 +339,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 751308,
-      "num": 751308,
-      "word": "马龙回应能否多打几届奥运",
-      "onboard_time": 1723090402,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 704159,
       "num": 621983,
       "word": "樱桃琥珀",
       "onboard_time": 1723080142,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 693000,
-      "num": 693000,
-      "word": "拜登称若特朗普败选恐无法和平交接",
-      "onboard_time": 1723092563,
-      "rank": 15,
-      "category": "国外时政"
     },
     {
       "raw_hot": 692553,
@@ -451,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 569113,
+      "num": 569113,
+      "word": "看跳水比赛最担心的事发生了",
+      "onboard_time": 1723093342,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 567250,
       "num": 567250,
       "word": "BLACKPINK说很久没有四个人见面了",
@@ -508,19 +524,11 @@
     },
     {
       "raw_hot": 500429,
-      "num": 500429,
+      "num": 939998,
       "word": "朴彩英是唯一和成员都见面的人",
       "onboard_time": 1723085723,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 496565,
-      "num": 496565,
-      "word": "火树 音乐节",
-      "onboard_time": 1723093403,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 487810,
@@ -544,6 +552,14 @@
       "word": "12306回应火车餐车不消费不能坐",
       "onboard_time": 1723042945,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 477741,
+      "num": 1141084,
+      "word": "罗永浩回应被指五宗罪",
+      "onboard_time": 1723092024,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -611,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 444338,
+      "num": 444338,
+      "word": "疑陪睡换捐款母亲隐身不想家人受伤害",
+      "onboard_time": 1723092563,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424076,
       "num": 460993,
       "word": "BLACKPINK合体庆祝出道8周年",
@@ -659,14 +683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 390433,
-      "num": 390433,
-      "word": "看跳水比赛最担心的事发生了",
-      "onboard_time": 1723093342,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 390404,
       "num": 390404,
       "word": "跟樊振东打和服兵役有什么区别",
@@ -691,8 +707,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 365389,
+      "num": 929075,
+      "word": "李庚希失恋都没这么难过",
+      "onboard_time": 1723094661,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 353868,
-      "num": 312342,
+      "num": 333935,
       "word": "许昕说马龙是最努力的天才",
       "onboard_time": 1723093643,
       "rank": 30,
@@ -737,14 +761,6 @@
       "onboard_time": 1723033883,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 322749,
-      "num": 322749,
-      "word": "疑陪睡换捐款母亲隐身不想家人受伤害",
-      "onboard_time": 1723092563,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 320596,
@@ -803,12 +819,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 308447,
+      "num": 308447,
+      "word": "水谷隼说马龙是团体赛的突破口",
+      "onboard_time": 1723094242,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 304766,
       "num": 638584,
       "word": "宋小宝恭喜李发彬夺得金牌",
       "onboard_time": 1723057632,
       "rank": 48,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 303296,
+      "num": 924007,
+      "word": "谁家男主碰个肩就红温",
+      "onboard_time": 1723091603,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 302596,
@@ -841,14 +873,6 @@
       "onboard_time": 1723029743,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 296136,
-      "num": 1141084,
-      "word": "罗永浩回应被指五宗罪",
-      "onboard_time": 1723092024,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 295395,
@@ -923,16 +947,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 275209,
-      "num": 469161,
-      "word": "谁家男主碰个肩就红温",
-      "onboard_time": 1723091603,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 274176,
-      "num": 274176,
+      "num": 335888,
       "word": "密室大逃脱 绿屏",
       "onboard_time": 1723091364,
       "rank": 47,
@@ -1091,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 229023,
+      "num": 229023,
+      "word": "时代少年团集卡",
+      "onboard_time": 1723095082,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228829,
       "num": 362387,
       "word": "有人疯狂炒茶1个月买了台宾利",
@@ -1120,6 +1144,14 @@
       "word": "法国女选手赛后向男友求婚",
       "onboard_time": 1723080142,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 225712,
+      "num": 225712,
+      "word": "原来乒乒乓乓有这么多版",
+      "onboard_time": 1723094903,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -1201,14 +1233,6 @@
       "onboard_time": 1723093403,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 210589,
-      "num": 210589,
-      "word": "水谷隼说马龙是团体赛的突破口",
-      "onboard_time": 1723094242,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 210001,
@@ -1323,6 +1347,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 194564,
+      "num": 194564,
+      "word": "时代少年团全新小卡",
+      "onboard_time": 1723095143,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193671,
       "num": 356894,
       "word": "车莉上班哄自己下班哄老公",
@@ -1379,6 +1411,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181237,
+      "num": 181237,
+      "word": "吴磊演葛优儿子",
+      "onboard_time": 1723094486,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 180935,
+      "num": 180935,
+      "word": "张雨绮腰身比",
+      "onboard_time": 1723095383,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 180194,
       "num": 312628,
       "word": "朱一龙刚放下警惕又被套路了",
@@ -1409,6 +1457,14 @@
       "onboard_time": 1723083261,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174341,
+      "num": 1140246,
+      "word": "一科室10年12次留置针软管遗留",
+      "onboard_time": 1723093283,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172823,
@@ -1475,6 +1531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119925,
+      "num": 917173,
+      "word": "你喜欢我 我才是纪昱恒",
+      "onboard_time": 1723094303,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119150,
       "num": 101043,
       "word": "举重队一夜2金",
@@ -1515,14 +1579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107635,
-      "num": 390984,
-      "word": "你喜欢我 我才是纪昱恒",
-      "onboard_time": 1723094303,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 106321,
       "num": 508517,
       "word": "华为新笔记本到底有多强",
@@ -1547,15 +1603,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 95268,
-      "num": 1140246,
-      "word": "一科室10年12次留置针软管遗留",
-      "onboard_time": 1723093283,
+      "raw_hot": 100423,
+      "num": 1075638,
+      "word": "不少年轻人放弃医保参保",
+      "onboard_time": 1723095082,
       "rank": 9,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 86108,
+      "raw_hot": 87792,
       "num": 1009792,
       "word": "刘亦菲新中式大片",
       "onboard_time": 1723089924,
@@ -1585,6 +1641,14 @@
       "onboard_time": 1723056073,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64673,
+      "num": 1095791,
+      "word": "罗永浩说自己是流量本量",
+      "onboard_time": 1723092743,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 63870,
@@ -1667,19 +1731,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39634,
+      "num": 945799,
+      "word": "罗永浩称想提供帮助但董宇辉没回复",
+      "onboard_time": 1723095143,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 35975,
+      "num": 1741585,
+      "word": "文化中国行打卡中国的世界遗产",
+      "onboard_time": 1723092691,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30645,
       "num": 355942,
       "word": "英国部署4000防暴警察应对抗议",
       "onboard_time": 1723085242,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30544,
-      "num": 1741585,
-      "word": "文化中国行打卡中国的世界遗产",
-      "onboard_time": 1723092691,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

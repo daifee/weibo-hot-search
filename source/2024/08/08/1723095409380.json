@@ -1,0 +1,410 @@
+{
+  "runTime": 1723095409380,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1879890,
+        "num": 1879890,
+        "word": "张本智和崩溃",
+        "onboard_time": 1723070475,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1650398,
+        "num": 1650398,
+        "word": "硕士毕业学位证被顺丰撕毁",
+        "onboard_time": 1723087103,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35975,
+        "num": 1553100,
+        "word": "文化中国行打卡中国的世界遗产",
+        "onboard_time": 1723092691,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1526589,
+        "num": 1526589,
+        "word": "拜登称若特朗普败选恐无法和平交接",
+        "onboard_time": 1723092563,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1182304,
+        "num": 1182304,
+        "word": "中国反兴奋剂中心最新发声",
+        "onboard_time": 1723086025,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1148189,
+        "num": 1148189,
+        "word": "汪顺跳水 牛蛙下锅",
+        "onboard_time": 1723089266,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 687389,
+        "num": 1131622,
+        "word": "温太医自曝曾夜会甄嬛",
+        "onboard_time": 1723088962,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 613614,
+        "num": 1117310,
+        "word": "樱桃琥珀官宣",
+        "onboard_time": 1723083921,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64673,
+        "num": 1095791,
+        "word": "罗永浩说自己是流量本量",
+        "onboard_time": 1723092743,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 100423,
+        "num": 1075638,
+        "word": "不少年轻人放弃医保参保",
+        "onboard_time": 1723095082,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1223364,
+        "num": 1054949,
+        "word": "王楚钦24岁正是爱看热闹的年纪",
+        "onboard_time": 1723088843,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1042167,
+        "num": 1042167,
+        "word": "马龙提醒王楚钦不顺的时候别上头",
+        "onboard_time": 1723081221,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1022567,
+        "num": 1022567,
+        "word": "马龙回应能否多打几届奥运",
+        "onboard_time": 1723090402,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 953124,
+        "num": 953124,
+        "word": "首都机场已有数百粉丝被拘留罚款",
+        "onboard_time": 1723085123,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39634,
+        "num": 945799,
+        "word": "罗永浩称想提供帮助但董宇辉没回复",
+        "onboard_time": 1723095143,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 399688,
+        "num": 939998,
+        "word": "朴彩英是唯一和成员都见面的人",
+        "onboard_time": 1723085723,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365389,
+        "num": 929075,
+        "word": "李庚希失恋都没这么难过",
+        "onboard_time": 1723094661,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303296,
+        "num": 924007,
+        "word": "谁家男主碰个肩就红温",
+        "onboard_time": 1723091603,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 920402,
+        "num": 920402,
+        "word": "火树 音乐节",
+        "onboard_time": 1723093403,
+        "rank": 18,
+        "category": "游戏,演出"
+      },
+      {
+        "raw_hot": 119925,
+        "num": 917173,
+        "word": "你喜欢我 我才是纪昱恒",
+        "onboard_time": 1723094303,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1867603,
+        "num": 916968,
+        "word": "女子便秘20多年差点撑爆肚子",
+        "onboard_time": 1723085123,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 914448,
+        "num": 914448,
+        "word": "印度选手体重超100克被取消资格",
+        "onboard_time": 1723086804,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 569113,
+        "num": 569113,
+        "word": "看跳水比赛最担心的事发生了",
+        "onboard_time": 1723093342,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 477741,
+        "num": 477741,
+        "word": "罗永浩回应被指五宗罪",
+        "onboard_time": 1723092024,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469604,
+        "num": 469604,
+        "word": "孙颖莎复盘笑了",
+        "onboard_time": 1723086743,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 459347,
+        "num": 459347,
+        "word": "张本智和铜牌战不想拼也没力气了",
+        "onboard_time": 1723076243,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 444338,
+        "num": 444338,
+        "word": "疑陪睡换捐款母亲隐身不想家人受伤害",
+        "onboard_time": 1723092563,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373240,
+        "num": 373240,
+        "word": "张本智和说如果死能好受点宁愿去死",
+        "onboard_time": 1723078104,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263744,
+        "num": 341856,
+        "word": "张凌赫 你蛐蛐我",
+        "onboard_time": 1723090402,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239702,
+        "num": 335888,
+        "word": "密室大逃脱 绿屏",
+        "onboard_time": 1723091364,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333935,
+        "num": 333935,
+        "word": "许昕说马龙是最努力的天才",
+        "onboard_time": 1723093643,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308447,
+        "num": 308447,
+        "word": "水谷隼说马龙是团体赛的突破口",
+        "onboard_time": 1723094242,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257887,
+        "num": 257887,
+        "word": "水谷隼鼓励张本智和",
+        "onboard_time": 1723086203,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253011,
+        "num": 253011,
+        "word": "公园晒背管不管怎么管",
+        "onboard_time": 1723091425,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247299,
+        "num": 247299,
+        "word": "戴向宇的工作全部叫停",
+        "onboard_time": 1723042585,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229023,
+        "num": 229023,
+        "word": "时代少年团集卡",
+        "onboard_time": 1723095082,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228242,
+        "num": 228242,
+        "word": "国乒女团进4强",
+        "onboard_time": 1723041148,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225712,
+        "num": 225712,
+        "word": "原来乒乒乓乓有这么多版",
+        "onboard_time": 1723094903,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220527,
+        "num": 220527,
+        "word": "志愿者爆料莫雷加德赛前没热身",
+        "onboard_time": 1723083321,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174341,
+        "num": 215726,
+        "word": "一科室10年12次留置针软管遗留",
+        "onboard_time": 1723093283,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214903,
+        "num": 214903,
+        "word": "张本智和一晚上白干",
+        "onboard_time": 1723077684,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87792,
+        "num": 212670,
+        "word": "刘亦菲新中式大片",
+        "onboard_time": 1723089924,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 210869,
+        "num": 210869,
+        "word": "漫画版莎头",
+        "onboard_time": 1723091903,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203946,
+        "num": 203946,
+        "word": "高分考生挤进二本和大专",
+        "onboard_time": 1723086025,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199068,
+        "num": 199068,
+        "word": "巴黎警察被中国游戏周边硬控30S",
+        "onboard_time": 1723094242,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194564,
+        "num": 194564,
+        "word": "时代少年团全新小卡",
+        "onboard_time": 1723095143,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194251,
+        "num": 194251,
+        "word": "韩志旼崔政勋恋爱",
+        "onboard_time": 1723087043,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181788,
+        "num": 181788,
+        "word": "国乒男团女团迎半决赛",
+        "onboard_time": 1723092323,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181237,
+        "num": 181237,
+        "word": "吴磊演葛优儿子",
+        "onboard_time": 1723094486,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180935,
+        "num": 180935,
+        "word": "张雨绮腰身比",
+        "onboard_time": 1723095383,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#在改革中持续增进民生福祉#"
+    }
+  }
+}
