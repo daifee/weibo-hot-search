@@ -1,6 +1,6 @@
 {
   "startTime": 1722702313981,
-  "endTime": 1723145714167,
+  "endTime": 1723148520059,
   "band_list": [
     {
       "raw_hot": 35169209,
@@ -8795,6 +8795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 339704,
+      "num": 339704,
+      "word": "举重男子73公斤级",
+      "onboard_time": 1723137616,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 338812,
       "num": 916465,
       "word": "中国第27金",
@@ -9515,14 +9523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 308058,
-      "num": 308058,
-      "word": "举重男子73公斤级",
-      "onboard_time": 1723137616,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 307671,
       "num": 307671,
       "word": "徐嘉余圆梦巴黎",
@@ -9937,6 +9937,14 @@
       "onboard_time": 1722909383,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 289450,
+      "num": 289450,
+      "word": "石智勇无缘领奖台",
+      "onboard_time": 1723146792,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 289432,
@@ -13491,6 +13499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186843,
+      "num": 81326,
+      "word": "石智勇开把抓举163挺举193",
+      "onboard_time": 1723147213,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186724,
       "num": 240480,
       "word": "霍启山从巴黎回港收到只熊猫",
@@ -13761,6 +13777,14 @@
       "onboard_time": 1722729682,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178468,
+      "num": 178468,
+      "word": "石智勇 可惜",
+      "onboard_time": 1723147272,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 178331,
@@ -14161,6 +14185,14 @@
       "onboard_time": 1722732504,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 165371,
+      "num": 173144,
+      "word": "美国男篮vs塞尔维亚男篮",
+      "onboard_time": 1723142352,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 164430,
@@ -15307,16 +15339,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 93747,
-      "num": 173144,
-      "word": "美国男篮vs塞尔维亚男篮",
-      "onboard_time": 1723142352,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 93683,
-      "num": 93683,
+      "num": 123268,
       "word": "全国超1亿人经常参与这个大项目",
       "onboard_time": 1723138695,
       "rank": 33,
@@ -15417,6 +15441,14 @@
       "onboard_time": 1722839483,
       "rank": 35,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 90487,
+      "num": 90487,
+      "word": "石智勇 挺举开把",
+      "onboard_time": 1723147032,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 89706,
@@ -15624,6 +15656,14 @@
       "word": "甘肃版聂树斌案",
       "onboard_time": 1722915083,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78433,
+      "num": 78433,
+      "word": "男孩把头埋进超市黄豆里玩妈妈全买下",
+      "onboard_time": 1723145772,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -16403,6 +16443,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 47177,
+      "num": 118884,
+      "word": "庞倩玉摔跤铜牌",
+      "onboard_time": 1723144092,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 46931,
       "num": 64521,
       "word": "十个勤天",
@@ -16473,6 +16521,14 @@
       "onboard_time": 1722919769,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 44927,
+      "num": 54281,
+      "word": "美国男篮半场落后11分",
+      "onboard_time": 1723147213,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 44492,
@@ -16635,6 +16691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 39643,
+      "num": 39643,
+      "word": "今晚眼睛好忙",
+      "onboard_time": 1723146192,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39634,
       "num": 945799,
       "word": "罗永浩称想提供帮助但董宇辉没回复",
@@ -16704,14 +16768,6 @@
       "word": "中国00后已夺11金",
       "onboard_time": 1722753143,
       "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 36802,
-      "num": 118884,
-      "word": "庞倩玉摔跤铜牌",
-      "onboard_time": 1723144092,
-      "rank": 9,
       "category": "体育"
     },
     {
@@ -17057,6 +17113,14 @@
       "onboard_time": 1722877458,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22619,
+      "num": 37993,
+      "word": "张雨绮穿了Lolita",
+      "onboard_time": 1723147813,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 22285,
