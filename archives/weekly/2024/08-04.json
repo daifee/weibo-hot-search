@@ -1,6 +1,6 @@
 {
   "startTime": 1722702313981,
-  "endTime": 1723127703252,
+  "endTime": 1723130521202,
   "band_list": [
     {
       "raw_hot": 35169209,
@@ -459,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 5305047,
+      "num": 6086763,
+      "word": "谢思埸跳水3米板金牌",
+      "onboard_time": 1723127190,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 5202577,
       "num": 1174187,
       "word": "孙颖莎采访呢",
@@ -787,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3643702,
+      "num": 3643702,
+      "word": "罗诗芳摘金",
+      "onboard_time": 1723129889,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3636971,
       "num": 3636971,
       "word": "樊振东 收视率打法",
@@ -931,19 +947,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3155376,
+      "num": 3155376,
+      "word": "解说口误",
+      "onboard_time": 1723129644,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3149326,
       "num": 3149326,
       "word": "王楚钦回应球拍事件",
       "onboard_time": 1722941304,
       "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 3148142,
-      "num": 3148142,
-      "word": "谢思埸跳水3米板金牌",
-      "onboard_time": 1723127190,
-      "rank": 3,
       "category": "体育"
     },
     {
@@ -1683,6 +1699,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 2179174,
+      "num": 2179174,
+      "word": "举重女子59公斤级决赛",
+      "onboard_time": 1723122205,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2161066,
       "num": 2161066,
       "word": "全红婵以为不用上学才去的跳水",
@@ -1800,6 +1824,14 @@
       "word": "女子10米台跳水预赛",
       "onboard_time": 1722844705,
       "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2032091,
+      "num": 2032091,
+      "word": "国乒女团火速进决赛",
+      "onboard_time": 1723127968,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -2376,6 +2408,14 @@
       "word": "全红婵和陈芋汐将上演神仙打架",
       "onboard_time": 1722819805,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1641657,
+      "num": 1641657,
+      "word": "马龙 我又不是教练",
+      "onboard_time": 1723126766,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -3004,7 +3044,7 @@
     },
     {
       "raw_hot": 1355327,
-      "num": 1570187,
+      "num": 2242773,
       "word": "以军性虐待巴勒斯坦囚犯视频被曝光",
       "onboard_time": 1723105465,
       "rank": 28,
@@ -3339,11 +3379,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1205738,
-      "num": 1205738,
-      "word": "举重女子59公斤级决赛",
-      "onboard_time": 1723122205,
-      "rank": 40,
+      "raw_hot": 1196731,
+      "num": 1196731,
+      "word": "罗诗芳抓举全成功",
+      "onboard_time": 1723126347,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -3400,6 +3440,14 @@
       "word": "何冰娇状态",
       "onboard_time": 1722759323,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1175735,
+      "num": 1175735,
+      "word": "罗诗芳好稳",
+      "onboard_time": 1723126227,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -3899,14 +3947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1006511,
-      "num": 1006511,
-      "word": "罗诗芳抓举全成功",
-      "onboard_time": 1723126347,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 994025,
       "num": 1258215,
       "word": "美国偶遇黄子韬徐艺洋一家",
@@ -3969,14 +4009,6 @@
       "onboard_time": 1723014443,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 985544,
-      "num": 985544,
-      "word": "罗诗芳好稳",
-      "onboard_time": 1723126227,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 985106,
@@ -4065,6 +4097,14 @@
       "onboard_time": 1723020923,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 956245,
+      "num": 2513447,
+      "word": "黄多多编耳机保护绳",
+      "onboard_time": 1723126048,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 955948,
@@ -4467,6 +4507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 838951,
+      "num": 838951,
+      "word": "樊振东王楚钦超绝躲采访得逞",
+      "onboard_time": 1723127608,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 836599,
       "num": 525460,
       "word": "全红婵弟弟",
@@ -4553,14 +4601,6 @@
       "onboard_time": 1723060033,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 814496,
-      "num": 1790345,
-      "word": "黄多多编耳机保护绳",
-      "onboard_time": 1723126048,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 805946,
@@ -5267,14 +5307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 641061,
-      "num": 641061,
-      "word": "马龙 我又不是教练",
-      "onboard_time": 1723126766,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 640328,
       "num": 640328,
       "word": "举重女子49公斤级决赛",
@@ -5376,6 +5408,14 @@
       "word": "当年吃全红婵火腿肠的不是樊振东",
       "onboard_time": 1722838703,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 629917,
+      "num": 629917,
+      "word": "张本智和 甄嬛",
+      "onboard_time": 1723129706,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -6115,6 +6155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 524389,
+      "num": 2344865,
+      "word": "李玉刚手举国旗",
+      "onboard_time": 1723128328,
+      "rank": 6,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 522995,
       "num": 522995,
       "word": "11岁郑好好巴黎奥运首秀",
@@ -6251,14 +6299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 511241,
-      "num": 511241,
-      "word": "樊振东王楚钦超绝躲采访得逞",
-      "onboard_time": 1723127608,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 510167,
       "num": 762116,
       "word": "张杰唱了运动员们点的歌",
@@ -6377,6 +6417,14 @@
       "onboard_time": 1722995720,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 499086,
+      "num": 1175836,
+      "word": "周杰伦回复张之臻",
+      "onboard_time": 1723128806,
+      "rank": 14,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 498294,
@@ -6672,6 +6720,14 @@
       "word": "樊振东是食堂固定刷新NPC吗",
       "onboard_time": 1722953925,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 473752,
+      "num": 473752,
+      "word": "乌克兰举重",
+      "onboard_time": 1723130126,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -7955,6 +8011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 381345,
+      "num": 381345,
+      "word": "主持人把孙颖莎逗乐了",
+      "onboard_time": 1723130067,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 380781,
       "num": 847533,
       "word": "李钟硕两年半没拍戏",
@@ -8664,6 +8728,14 @@
       "word": "女排姑娘们哭了",
       "onboard_time": 1722941124,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 338812,
+      "num": 916465,
+      "word": "中国第27金",
+      "onboard_time": 1723127729,
+      "rank": 21,
       "category": "体育"
     },
     {
@@ -10404,7 +10476,7 @@
     },
     {
       "raw_hot": 266161,
-      "num": 309835,
+      "num": 500677,
       "word": "泡泡玛特光夜联名",
       "onboard_time": 1723127669,
       "rank": 48,
@@ -11395,6 +11467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232429,
+      "num": 602471,
+      "word": "恩利那可是朱一龙为你加油啊",
+      "onboard_time": 1723129706,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 231963,
       "num": 207593,
       "word": "智昀",
@@ -11843,6 +11923,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 217737,
+      "num": 1719071,
+      "word": "16000元买电动沙发不能动",
+      "onboard_time": 1723127427,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217472,
       "num": 273682,
       "word": "兰陵王花木兰星元皮肤",
@@ -11977,6 +12065,14 @@
       "onboard_time": 1722700887,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213104,
+      "num": 599912,
+      "word": "阿娇锁骨 千金感",
+      "onboard_time": 1723129768,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 213031,
@@ -12713,6 +12809,14 @@
       "onboard_time": 1722905845,
       "rank": 42,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 198285,
+      "num": 447510,
+      "word": "易烊千玺 内向的人更细致",
+      "onboard_time": 1723130366,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 198143,
@@ -13985,6 +14089,14 @@
       "onboard_time": 1722856283,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 158030,
+      "num": 380169,
+      "word": "中国第28金",
+      "onboard_time": 1723130425,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 157321,
@@ -15436,7 +15548,7 @@
     },
     {
       "raw_hot": 71561,
-      "num": 3181931,
+      "num": 3559524,
       "word": "何以中国一檐千年",
       "onboard_time": 1723121724,
       "rank": 2,
@@ -16241,14 +16353,6 @@
       "onboard_time": 1722810555,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 40921,
-      "num": 1719071,
-      "word": "16000元买电动沙发不能动",
-      "onboard_time": 1723127427,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40264,
