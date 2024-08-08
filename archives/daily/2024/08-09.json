@@ -1,6 +1,6 @@
 {
   "startTime": 1723134321258,
-  "endTime": 1723138691032,
+  "endTime": 1723141666317,
   "band_list": [
     {
       "raw_hot": 2097926,
@@ -56,6 +56,14 @@
       "word": "樊振东王楚钦超绝躲采访得逞",
       "onboard_time": 1723127608,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1058865,
+      "num": 1058865,
+      "word": "全红婵 许昕不就这样拍照的吗",
+      "onboard_time": 1723137557,
+      "rank": 15,
       "category": "体育"
     },
     {
@@ -187,14 +195,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 366834,
-      "num": 366834,
-      "word": "全红婵 许昕不就这样拍照的吗",
-      "onboard_time": 1723137557,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 354582,
       "num": 354582,
       "word": "吴艳妮创中国奥运女子百米栏新纪录",
@@ -248,6 +248,14 @@
       "word": "还我妈生龙",
       "onboard_time": 1723111647,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 268144,
+      "num": 268144,
+      "word": "举重男子73公斤级",
+      "onboard_time": 1723137616,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -363,14 +371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199580,
-      "num": 199580,
-      "word": "举重男子73公斤级",
-      "onboard_time": 1723137616,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 182170,
       "num": 269188,
       "word": "中国第28金",
@@ -401,6 +401,14 @@
       "onboard_time": 1723119083,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165821,
+      "num": 165821,
+      "word": "女子要买18万黄金店长果断报警",
+      "onboard_time": 1723140253,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162887,
@@ -483,12 +491,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99639,
+      "num": 99639,
+      "word": "体操队比完赛一看手机天塌了",
+      "onboard_time": 1723139894,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 98186,
+      "num": 92721,
+      "word": "全红婵也听霉霉的歌",
+      "onboard_time": 1723140314,
+      "rank": 35,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 92722,
+      "num": 92722,
+      "word": "全国超1亿人经常参与这个大项目",
+      "onboard_time": 1723138695,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89706,
       "num": 147165,
       "word": "神十八乘组在太空为奥运健儿加油",
       "onboard_time": 1723125084,
       "rank": 47,
       "category": "科学科普,体育"
+    },
+    {
+      "raw_hot": 46348,
+      "num": 87070,
+      "word": "纪凌尘积极备战奥运会自由泳项目",
+      "onboard_time": 1723109847,
+      "rank": 47,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 37573,
