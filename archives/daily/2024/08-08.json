@@ -1,7 +1,15 @@
 {
   "startTime": 1723047937015,
-  "endTime": 1723109679592,
+  "endTime": 1723112458983,
   "band_list": [
+    {
+      "raw_hot": 10853316,
+      "num": 10853316,
+      "word": "王楚钦vsA勒布伦",
+      "onboard_time": 1723109007,
+      "rank": 6,
+      "category": "体育"
+    },
     {
       "raw_hot": 10038050,
       "num": 10038050,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 8860578,
-      "num": 3683664,
+      "num": 6165286,
       "word": "景甜取关了张继科",
       "onboard_time": 1723108286,
       "rank": 3,
@@ -32,6 +40,14 @@
       "word": "张本智和崩溃",
       "onboard_time": 1723070475,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 5937874,
+      "num": 1314064,
+      "word": "王楚钦 钮祜禄高压锅",
+      "onboard_time": 1723110806,
+      "rank": 11,
       "category": "体育"
     },
     {
@@ -83,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3374150,
+      "num": 3374150,
+      "word": "樊振东 收视率打法",
+      "onboard_time": 1723109667,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3294635,
       "num": 3294635,
       "word": "李发彬举重金牌",
@@ -115,19 +139,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2582629,
+      "num": 2582629,
+      "word": "国乒男团进决赛",
+      "onboard_time": 1723111051,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2504277,
       "num": 2504277,
       "word": "张继科回复网友",
       "onboard_time": 1723099342,
       "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2370435,
-      "num": 2370435,
-      "word": "王楚钦vsA勒布伦",
-      "onboard_time": 1723109007,
-      "rank": 6,
       "category": "体育"
     },
     {
@@ -192,6 +216,14 @@
       "word": "樊振东再胜F勒布伦",
       "onboard_time": 1723109068,
       "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1859629,
+      "num": 1859629,
+      "word": "马龙演我看赛点",
+      "onboard_time": 1723110628,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -312,6 +344,14 @@
       "word": "花游解说都哽咽了",
       "onboard_time": 1723057452,
       "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1483849,
+      "num": 1483849,
+      "word": "中国队4x100米接力小组第1",
+      "onboard_time": 1723110988,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -443,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1088506,
+      "num": 799594,
+      "word": "大布 擦边擦网",
+      "onboard_time": 1723111232,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1081182,
       "num": 1081182,
       "word": "外媒公开以军士兵性侵巴男囚监控",
@@ -499,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 943811,
+      "num": 797877,
+      "word": "还我妈生龙",
+      "onboard_time": 1723111647,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 920402,
       "num": 920402,
       "word": "火树 音乐节",
@@ -515,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 896222,
+      "num": 797674,
+      "word": "张本智和 强迫症",
+      "onboard_time": 1723107687,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 882289,
       "num": 882289,
       "word": "菲尔普斯称对美国男泳非常失望",
@@ -528,6 +592,14 @@
       "word": "瑞典国王来看小莫比赛了",
       "onboard_time": 1723076843,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 855976,
+      "num": 796535,
+      "word": "中国男子4×100米接力进决赛",
+      "onboard_time": 1723110747,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -555,7 +627,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 802180,
+      "raw_hot": 804056,
       "num": 1165469,
       "word": "顺丰回应硕士毕业学位证被撕毁",
       "onboard_time": 1723106665,
@@ -568,6 +640,14 @@
       "word": "她的眼角和国旗都是红色的",
       "onboard_time": 1723078943,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 793857,
+      "num": 793857,
+      "word": "田径男子4x100米接力",
+      "onboard_time": 1723110026,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -587,14 +667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 775764,
-      "num": 775764,
-      "word": "张本智和 强迫症",
-      "onboard_time": 1723107687,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 742441,
       "num": 1075638,
       "word": "不少年轻人放弃医保参保",
@@ -603,12 +675,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 720545,
+      "num": 720545,
+      "word": "王楚钦",
+      "onboard_time": 1723111766,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 704159,
       "num": 621983,
       "word": "樱桃琥珀",
       "onboard_time": 1723080142,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 693112,
+      "num": 1349323,
+      "word": "纪凌尘积极备战奥运会自由泳项目",
+      "onboard_time": 1723109847,
+      "rank": 7,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 692553,
@@ -624,6 +712,14 @@
       "word": "全红婵的目标是五块奥运金牌",
       "onboard_time": 1723102225,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 685145,
+      "num": 685145,
+      "word": "陈艺文昌雅妮晋级决赛",
+      "onboard_time": 1723110507,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -763,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 588234,
+      "num": 803708,
+      "word": "戚薇倒V婚纱",
+      "onboard_time": 1723110628,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 587486,
       "num": 462360,
       "word": "国乒女团进4强",
@@ -867,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 501732,
+      "num": 407598,
+      "word": "王楚钦发球好牛",
+      "onboard_time": 1723111647,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 500429,
       "num": 939998,
       "word": "朴彩英是唯一和成员都见面的人",
@@ -921,6 +1033,14 @@
       "onboard_time": 1723022844,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 474065,
+      "num": 799604,
+      "word": "以军性虐待巴勒斯坦囚犯视频被曝光",
+      "onboard_time": 1723105465,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 472415,
@@ -1155,6 +1275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 358948,
+      "num": 358948,
+      "word": "张博恒 IMCC",
+      "onboard_time": 1723112365,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 356564,
       "num": 356564,
       "word": "许昕说马龙是最努力的天才",
@@ -1227,6 +1355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 337582,
+      "num": 802224,
+      "word": "方时赫和两美女出街",
+      "onboard_time": 1723111111,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 337078,
       "num": 446303,
       "word": "国乒男团进四强",
@@ -1241,6 +1377,14 @@
       "onboard_time": 1723086025,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 333813,
+      "num": 333813,
+      "word": "马龙樊振东鼓励王楚钦",
+      "onboard_time": 1723112186,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 329837,
@@ -1795,6 +1939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224409,
+      "num": 795823,
+      "word": "朱一龙性感得我不敢认",
+      "onboard_time": 1723110386,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 223577,
       "num": 223577,
       "word": "男子三米板中国队双保险冲金",
@@ -2019,6 +2171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196035,
+      "num": 332123,
+      "word": "虞书欣打游戏越努力越搞笑",
+      "onboard_time": 1723112424,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195514,
       "num": 195514,
       "word": "社工成绩",
@@ -2081,6 +2241,22 @@
       "onboard_time": 1723078403,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191083,
+      "num": 331187,
+      "word": "迪丽热巴对接预告杀青",
+      "onboard_time": 1723111528,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 190770,
+      "num": 330292,
+      "word": "檀健次上海演唱会二开",
+      "onboard_time": 1723110628,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 188169,
@@ -2291,14 +2467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118404,
-      "num": 555802,
-      "word": "以军性虐待巴勒斯坦囚犯视频被曝光",
-      "onboard_time": 1723105465,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117538,
       "num": 117538,
       "word": "旗手冯雨获得金牌",
@@ -2363,6 +2531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 93563,
+      "num": 1349274,
+      "word": "189元问题蛋白粉多卖给大学生",
+      "onboard_time": 1723111232,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87792,
       "num": 1009792,
       "word": "刘亦菲新中式大片",
@@ -2391,6 +2567,14 @@
       "num": 832768,
       "word": "诉讼离婚困局",
       "onboard_time": 1723089624,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77074,
+      "num": 1349273,
+      "word": "呼吁加大对美运动员兴奋剂检查频率",
+      "onboard_time": 1723111232,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -2539,6 +2723,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 36206,
+      "num": 405880,
+      "word": "魏大勋有自己的搭配思路",
+      "onboard_time": 1723111825,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35975,
       "num": 2777527,
       "word": "文化中国行打卡中国的世界遗产",
@@ -2580,7 +2772,7 @@
     },
     {
       "raw_hot": 25568,
-      "num": 679205,
+      "num": 794235,
       "word": "白宫称加沙停火协议已接近达成",
       "onboard_time": 1723102645,
       "rank": 29,
@@ -2624,6 +2816,14 @@
       "word": "当奥运遇到全民健身日",
       "onboard_time": 1723105885,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 20103,
+      "num": 800255,
+      "word": "侯志慧的大心脏是怎样炼成的",
+      "onboard_time": 1723112065,
+      "rank": 19,
       "category": "体育"
     },
     {
