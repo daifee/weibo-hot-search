@@ -1,6 +1,6 @@
 {
   "startTime": 1723047937015,
-  "endTime": 1723098537198,
+  "endTime": 1723099302178,
   "band_list": [
     {
       "raw_hot": 8577600,
@@ -43,8 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2326869,
-      "num": 2326869,
+      "raw_hot": 2618957,
+      "num": 2618957,
       "word": "水谷隼说马龙是团体赛的突破口",
       "onboard_time": 1723094242,
       "rank": 44,
@@ -72,6 +72,14 @@
       "word": "赵露思回应变漂亮了",
       "onboard_time": 1723082302,
       "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1820737,
+      "num": 1820737,
+      "word": "曝王丽坤老公诈骗9亿购房款",
+      "onboard_time": 1723097783,
+      "rank": 4,
       "category": "艺人"
     },
     {
@@ -179,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1406593,
+      "num": 1406593,
+      "word": "看跳水比赛最担心的事发生了",
+      "onboard_time": 1723093342,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1261330,
       "num": 1261330,
       "word": "黄子韬给全红婵加油",
@@ -195,28 +211,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1256874,
-      "num": 1256874,
-      "word": "看跳水比赛最担心的事发生了",
-      "onboard_time": 1723093342,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1246282,
       "num": 1246282,
       "word": "王楚钦感谢教练让他出战第三场",
       "onboard_time": 1723038384,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1240863,
-      "num": 1240863,
-      "word": "曝王丽坤老公诈骗9亿购房款",
-      "onboard_time": 1723097783,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 1236513,
@@ -371,20 +371,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 783576,
+      "num": 869415,
+      "word": "邓超孙俪一家巴黎吃火锅",
+      "onboard_time": 1723096402,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 742441,
       "num": 1075638,
       "word": "不少年轻人放弃医保参保",
       "onboard_time": 1723095082,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 734229,
-      "num": 869415,
-      "word": "邓超孙俪一家巴黎吃火锅",
-      "onboard_time": 1723096402,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 704159,
@@ -409,6 +409,14 @@
       "onboard_time": 1723067471,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 673243,
+      "num": 673243,
+      "word": "陈都灵一打开电视天塌了",
+      "onboard_time": 1723097002,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 650367,
@@ -537,14 +545,6 @@
       "onboard_time": 1723072578,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 548670,
-      "num": 548670,
-      "word": "陈都灵一打开电视天塌了",
-      "onboard_time": 1723097002,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 513751,
@@ -763,11 +763,27 @@
       "category": "体育"
     },
     {
-      "raw_hot": 374577,
-      "num": 374577,
+      "raw_hot": 377210,
+      "num": 377210,
+      "word": "母亲称19岁儿子被忽悠贷款隆胸",
+      "onboard_time": 1723097841,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375087,
+      "num": 375087,
       "word": "偶遇刘亦菲买花",
       "onboard_time": 1723097182,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 365767,
+      "num": 294399,
+      "word": "王丽坤老公 贾青",
+      "onboard_time": 1723098922,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -923,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 297165,
+      "num": 297165,
+      "word": "巴黎警察被中国游戏周边硬控30S",
+      "onboard_time": 1723094242,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 295395,
       "num": 295395,
       "word": "孙颖莎 追分的神",
@@ -1051,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 264278,
+      "num": 264278,
+      "word": "印度扬言巴黎奥运要碾压中国",
+      "onboard_time": 1723097542,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 263451,
       "num": 263451,
       "word": "齐司礼画师",
@@ -1065,6 +1097,14 @@
       "onboard_time": 1723045405,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 260801,
+      "num": 260801,
+      "word": "奥运会又被韩国人发现了中国帅哥",
+      "onboard_time": 1723098142,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 260688,
@@ -1083,14 +1123,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 258396,
-      "num": 258396,
-      "word": "巴黎警察被中国游戏周边硬控30S",
-      "onboard_time": 1723094242,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 254450,
       "num": 254450,
       "word": "戴利给队友奖牌织了保护套",
@@ -1105,6 +1137,14 @@
       "onboard_time": 1723075223,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 244015,
+      "num": 244015,
+      "word": "陈芋汐真情告白教练",
+      "onboard_time": 1723096402,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 243445,
@@ -1147,14 +1187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 230329,
-      "num": 230329,
-      "word": "母亲称19岁儿子被忽悠贷款隆胸",
-      "onboard_time": 1723097841,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 230229,
       "num": 230229,
       "word": "医生建议久坐人群增加靠垫",
@@ -1177,6 +1209,14 @@
       "onboard_time": 1723095082,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228845,
+      "num": 817167,
+      "word": "交警上班时间在办公室打游戏",
+      "onboard_time": 1723096942,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228829,
@@ -1233,14 +1273,6 @@
       "onboard_time": 1723048281,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 224536,
-      "num": 224536,
-      "word": "陈芋汐真情告白教练",
-      "onboard_time": 1723096402,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 223577,
@@ -1321,6 +1353,14 @@
       "onboard_time": 1723079482,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208049,
+      "num": 208049,
+      "word": "俄库尔斯克州进入紧急状态",
+      "onboard_time": 1723098262,
+      "rank": 47,
+      "category": "国外时政"
     },
     {
       "raw_hot": 207713,
@@ -1475,12 +1515,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192438,
+      "num": 192438,
+      "word": "多名美违禁运动员未遭处罚",
+      "onboard_time": 1723096523,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192348,
       "num": 289268,
       "word": "侯志慧挺举打破奥运纪录",
       "onboard_time": 1723078403,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192118,
+      "num": 192118,
+      "word": "电影她的小梨涡撤档",
+      "onboard_time": 1723099101,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 188169,
@@ -1497,22 +1553,6 @@
       "onboard_time": 1723068133,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186602,
-      "num": 186602,
-      "word": "印度扬言巴黎奥运要碾压中国",
-      "onboard_time": 1723097542,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 186462,
-      "num": 186462,
-      "word": "奥运会又被韩国人发现了中国帅哥",
-      "onboard_time": 1723098142,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 185926,
@@ -1571,12 +1611,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178184,
-      "num": 178184,
-      "word": "俄库尔斯克州进入紧急状态",
-      "onboard_time": 1723098262,
-      "rank": 47,
-      "category": "国外时政"
+      "raw_hot": 176021,
+      "num": 176021,
+      "word": "韩林王楚钦拥抱",
+      "onboard_time": 1723098862,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 175940,
@@ -1627,20 +1667,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169169,
+      "num": 522710,
+      "word": "王铮亮扫楼下班去看张杰",
+      "onboard_time": 1723097961,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 149206,
       "num": 696873,
       "word": "一颗乒乓球连闯15关征战巴黎",
       "onboard_time": 1723082782,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144108,
-      "num": 522710,
-      "word": "王铮亮扫楼下班去看张杰",
-      "onboard_time": 1723097961,
-      "rank": 19,
-      "category": "音乐"
     },
     {
       "raw_hot": 137613,
@@ -1723,14 +1763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113378,
-      "num": 817167,
-      "word": "交警上班时间在办公室打游戏",
-      "onboard_time": 1723096942,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107907,
       "num": 100871,
       "word": "李发彬不想退役了",
@@ -1761,6 +1793,14 @@
       "onboard_time": 1723045882,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100509,
+      "num": 176174,
+      "word": "解密 如愿",
+      "onboard_time": 1723097723,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 87792,
@@ -1955,6 +1995,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14487,
+      "num": 171444,
+      "word": "殷若宁只想成为自己",
+      "onboard_time": 1723099222,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 12960,
+      "num": 525230,
+      "word": "哈利夫誓言用金牌回击争议",
+      "onboard_time": 1723098981,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 8805,
       "num": 281410,
       "word": "胡塞武装称袭击两艘美军驱逐舰",
@@ -1972,6 +2028,9 @@
     },
     {
       "word": "#在改革中持续增进民生福祉#"
+    },
+    {
+      "word": "#习近平谈文化和自然遗产保护传承利用#"
     }
   ]
 }

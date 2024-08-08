@@ -1,0 +1,410 @@
+{
+  "runTime": 1723099302178,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2618957,
+        "num": 2618957,
+        "word": "水谷隼说马龙是团体赛的突破口",
+        "onboard_time": 1723094242,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1820737,
+        "num": 1820737,
+        "word": "曝王丽坤老公诈骗9亿购房款",
+        "onboard_time": 1723097783,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23997,
+        "num": 1583535,
+        "word": "文化中国行打卡中国的世界遗产",
+        "onboard_time": 1723092691,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1514900,
+        "num": 1514900,
+        "word": "疑陪睡换捐款母亲隐身不想家人受伤害",
+        "onboard_time": 1723092563,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1406593,
+        "num": 1406593,
+        "word": "看跳水比赛最担心的事发生了",
+        "onboard_time": 1723093342,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 991303,
+        "num": 991303,
+        "word": "张本智和崩溃",
+        "onboard_time": 1723070475,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 905535,
+        "num": 905535,
+        "word": "硕士毕业学位证被顺丰撕毁",
+        "onboard_time": 1723087103,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 810252,
+        "num": 810252,
+        "word": "拜登称若特朗普败选恐无法和平交接",
+        "onboard_time": 1723092563,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 783576,
+        "num": 783576,
+        "word": "邓超孙俪一家巴黎吃火锅",
+        "onboard_time": 1723096402,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 724296,
+        "num": 724296,
+        "word": "不少年轻人放弃医保参保",
+        "onboard_time": 1723095082,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 685609,
+        "num": 685609,
+        "word": "王楚钦24岁正是爱看热闹的年纪",
+        "onboard_time": 1723088843,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 673243,
+        "num": 673243,
+        "word": "陈都灵一打开电视天塌了",
+        "onboard_time": 1723097002,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 582354,
+        "num": 582354,
+        "word": "中国反兴奋剂中心最新发声",
+        "onboard_time": 1723086025,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 532415,
+        "num": 532415,
+        "word": "首都机场已有数百粉丝被拘留罚款",
+        "onboard_time": 1723085123,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12960,
+        "num": 525230,
+        "word": "哈利夫誓言用金牌回击争议",
+        "onboard_time": 1723098981,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 483469,
+        "num": 523726,
+        "word": "李庚希失恋都没这么难过",
+        "onboard_time": 1723094661,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 477649,
+        "num": 523410,
+        "word": "火树 音乐节",
+        "onboard_time": 1723093403,
+        "rank": 16,
+        "category": "演出,游戏"
+      },
+      {
+        "raw_hot": 523109,
+        "num": 523109,
+        "word": "汪顺跳水 牛蛙下锅",
+        "onboard_time": 1723089266,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 391259,
+        "num": 440479,
+        "word": "罗永浩回应被指五宗罪",
+        "onboard_time": 1723092024,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169169,
+        "num": 439223,
+        "word": "王铮亮扫楼下班去看张杰",
+        "onboard_time": 1723097961,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1311705,
+        "num": 439219,
+        "word": "女子便秘20多年差点撑爆肚子",
+        "onboard_time": 1723085123,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439182,
+        "num": 439182,
+        "word": "马龙提醒王楚钦不顺的时候别上头",
+        "onboard_time": 1723081221,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 411347,
+        "num": 411347,
+        "word": "唐艺昕带女儿出门逛街",
+        "onboard_time": 1723096882,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377210,
+        "num": 377210,
+        "word": "母亲称19岁儿子被忽悠贷款隆胸",
+        "onboard_time": 1723097841,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375087,
+        "num": 375087,
+        "word": "偶遇刘亦菲买花",
+        "onboard_time": 1723097182,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371521,
+        "num": 371521,
+        "word": "马龙回应能否多打几届奥运",
+        "onboard_time": 1723090402,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 369911,
+        "num": 369911,
+        "word": "温太医自曝曾夜会甄嬛",
+        "onboard_time": 1723088962,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 350160,
+        "num": 350160,
+        "word": "许昕说马龙是最努力的天才",
+        "onboard_time": 1723093643,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 338077,
+        "num": 338077,
+        "word": "印度选手体重超100克被取消资格",
+        "onboard_time": 1723086804,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 297165,
+        "num": 297165,
+        "word": "巴黎警察被中国游戏周边硬控30S",
+        "onboard_time": 1723094242,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 365767,
+        "num": 294399,
+        "word": "王丽坤老公 贾青",
+        "onboard_time": 1723098922,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275550,
+        "num": 275550,
+        "word": "杨幂与大鹏夫妇聚餐",
+        "onboard_time": 1723096882,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264278,
+        "num": 264278,
+        "word": "印度扬言巴黎奥运要碾压中国",
+        "onboard_time": 1723097542,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260801,
+        "num": 260801,
+        "word": "奥运会又被韩国人发现了中国帅哥",
+        "onboard_time": 1723098142,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254824,
+        "num": 254824,
+        "word": "张本智和铜牌战不想拼也没力气了",
+        "onboard_time": 1723076243,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244015,
+        "num": 244015,
+        "word": "陈芋汐真情告白教练",
+        "onboard_time": 1723096402,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242301,
+        "num": 242301,
+        "word": "樱桃琥珀官宣",
+        "onboard_time": 1723083921,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228845,
+        "num": 228845,
+        "word": "交警上班时间在办公室打游戏",
+        "onboard_time": 1723096942,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208049,
+        "num": 208049,
+        "word": "俄库尔斯克州进入紧急状态",
+        "onboard_time": 1723098262,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 192438,
+        "num": 192438,
+        "word": "多名美违禁运动员未遭处罚",
+        "onboard_time": 1723096523,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192118,
+        "num": 192118,
+        "word": "电影她的小梨涡撤档",
+        "onboard_time": 1723099101,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187973,
+        "num": 187973,
+        "word": "朴彩英是唯一和成员都见面的人",
+        "onboard_time": 1723085723,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176695,
+        "num": 176695,
+        "word": "花泳开场连裁判都很嗨",
+        "onboard_time": 1723098503,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100509,
+        "num": 176174,
+        "word": "解密 如愿",
+        "onboard_time": 1723097723,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176021,
+        "num": 176021,
+        "word": "韩林王楚钦拥抱",
+        "onboard_time": 1723098862,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171620,
+        "num": 171620,
+        "word": "存款利率下降钱放哪里好",
+        "onboard_time": 1723096462,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 14487,
+        "num": 171444,
+        "word": "殷若宁只想成为自己",
+        "onboard_time": 1723099222,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171342,
+        "num": 171342,
+        "word": "谁家男主碰个肩就红温",
+        "onboard_time": 1723091603,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170493,
+        "num": 170493,
+        "word": "孙颖莎复盘笑了",
+        "onboard_time": 1723086743,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169670,
+        "num": 169670,
+        "word": "羡慕张博恒抱着的猫",
+        "onboard_time": 1723097121,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平谈文化和自然遗产保护传承利用#"
+    }
+  }
+}
