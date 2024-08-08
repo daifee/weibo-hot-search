@@ -1,0 +1,410 @@
+{
+  "runTime": 1723081634793,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7775479,
+        "num": 7775479,
+        "word": "张本智和崩溃",
+        "onboard_time": 1723070475,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1437051,
+        "num": 1437051,
+        "word": "张本智和铜牌战不想拼也没力气了",
+        "onboard_time": 1723076243,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13254,
+        "num": 1421847,
+        "word": "我国进出口规模再创新高",
+        "onboard_time": 1723037185,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1412630,
+        "num": 1412630,
+        "word": "花游解说都哽咽了",
+        "onboard_time": 1723057452,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1014861,
+        "num": 1014861,
+        "word": "黄子韬给全红婵加油",
+        "onboard_time": 1723073549,
+        "rank": 4,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 911775,
+        "num": 911775,
+        "word": "男子模仿水花消失术致头部流血",
+        "onboard_time": 1723074080,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 847570,
+        "num": 847570,
+        "word": "外媒公开以军士兵性侵巴男囚监控",
+        "onboard_time": 1723074261,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 429494,
+        "num": 824759,
+        "word": "以为宋小宝去举重了",
+        "onboard_time": 1723047200,
+        "rank": 7,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 822740,
+        "num": 822740,
+        "word": "陈梦王曼昱3比0陈思羽简彤娟",
+        "onboard_time": 1723038085,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209997,
+        "num": 624596,
+        "word": "中国世界遗产做成一个旅行心愿单",
+        "onboard_time": 1723079482,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 583287,
+        "num": 583287,
+        "word": "瑞典国王来看小莫比赛了",
+        "onboard_time": 1723076843,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 508727,
+        "num": 508727,
+        "word": "男子办公室侮辱女同事被辞索赔47万",
+        "onboard_time": 1723070595,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473595,
+        "num": 473595,
+        "word": "中国花游队感谢跳水队",
+        "onboard_time": 1723072578,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 393602,
+        "num": 393602,
+        "word": "孙颖莎围观法国球迷做人浪",
+        "onboard_time": 1723074441,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 383260,
+        "num": 383260,
+        "word": "美国运动员 哮喘病",
+        "onboard_time": 1723074681,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 375220,
+        "num": 375220,
+        "word": "徐卓一止步半决赛",
+        "onboard_time": 1723051936,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 374913,
+        "num": 374913,
+        "word": "郭晶晶为跳水男子3米跳板半决赛开赛",
+        "onboard_time": 1723080085,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270188,
+        "num": 374866,
+        "word": "樱桃琥珀",
+        "onboard_time": 1723080142,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266643,
+        "num": 374843,
+        "word": "宋小宝恭喜李发彬夺得金牌",
+        "onboard_time": 1723057632,
+        "rank": 18,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 260605,
+        "num": 374789,
+        "word": "李发彬回应宋小宝",
+        "onboard_time": 1723078643,
+        "rank": 19,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 1328593,
+        "num": 374689,
+        "word": "张本智和说如果死能好受点宁愿去死",
+        "onboard_time": 1723078104,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 763958,
+        "num": 374616,
+        "word": "戴向宇的工作全部叫停",
+        "onboard_time": 1723042585,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374610,
+        "num": 374610,
+        "word": "王楚钦感谢教练让他出战第三场",
+        "onboard_time": 1723038384,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1358879,
+        "num": 373545,
+        "word": "莫雷加德vs张本智和",
+        "onboard_time": 1723058293,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 383732,
+        "num": 371793,
+        "word": "张本智和一晚上白干",
+        "onboard_time": 1723077684,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 366264,
+        "num": 366264,
+        "word": "侯志慧举重金牌",
+        "onboard_time": 1723060033,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236472,
+        "num": 365193,
+        "word": "BLACKPINK直播",
+        "onboard_time": 1723044503,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208349,
+        "num": 360926,
+        "word": "刘亦菲彭冠英同框",
+        "onboard_time": 1723040486,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204687,
+        "num": 359150,
+        "word": "戴向宇回应张昊唯道歉",
+        "onboard_time": 1723048281,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193671,
+        "num": 356894,
+        "word": "车莉上班哄自己下班哄老公",
+        "onboard_time": 1723080630,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 354595,
+        "num": 354595,
+        "word": "查尔莫斯转发潘展乐澄清视频",
+        "onboard_time": 1723048818,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 346753,
+        "num": 346753,
+        "word": "女子称双汇火腿肠含像眼睛似的异物",
+        "onboard_time": 1723043723,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333197,
+        "num": 333197,
+        "word": "汪顺 多希望是中间那一块",
+        "onboard_time": 1723080571,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330196,
+        "num": 330196,
+        "word": "吴艳妮复活赛又进死亡之组",
+        "onboard_time": 1723038565,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306795,
+        "num": 306795,
+        "word": "国乒女团进4强",
+        "onboard_time": 1723041148,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 300550,
+        "num": 300550,
+        "word": "麻六记客服回应酸辣粉中吃到苍蝇",
+        "onboard_time": 1723077744,
+        "rank": 35,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 300322,
+        "num": 300322,
+        "word": "美国申诉夺铜后气炸罗马尼亚",
+        "onboard_time": 1723040606,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295557,
+        "num": 295557,
+        "word": "全红婵陈芋汐给彼此的留言",
+        "onboard_time": 1723077684,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 294567,
+        "num": 294567,
+        "word": "马龙提醒王楚钦不顺的时候别上头",
+        "onboard_time": 1723081221,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274582,
+        "num": 274582,
+        "word": "一觉醒来中国队再夺3金2银1铜",
+        "onboard_time": 1723076964,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237285,
+        "num": 237285,
+        "word": "中国女曲比利时女曲冲突",
+        "onboard_time": 1723057572,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228829,
+        "num": 228829,
+        "word": "有人疯狂炒茶1个月买了台宾利",
+        "onboard_time": 1723078344,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223623,
+        "num": 223623,
+        "word": "因为秋天的第一杯奶茶和男友吵架",
+        "onboard_time": 1723075223,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221952,
+        "num": 221952,
+        "word": "工作三年通勤包的变化",
+        "onboard_time": 1723081221,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213918,
+        "num": 213918,
+        "word": "张本智和谈争铜",
+        "onboard_time": 1723075223,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213596,
+        "num": 213596,
+        "word": "马龙给穿了队服的外国小朋友签名",
+        "onboard_time": 1723051575,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211519,
+        "num": 211519,
+        "word": "花游队用腿摆出甲骨文",
+        "onboard_time": 1723079422,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116250,
+        "num": 208508,
+        "word": "刘翔跨过的不止是10个栏",
+        "onboard_time": 1723075882,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188169,
+        "num": 208175,
+        "word": "赴山海预约人数破百万",
+        "onboard_time": 1723080811,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208138,
+        "num": 208138,
+        "word": "赌石骗子直播套路曝光",
+        "onboard_time": 1723081522,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革为人民#"
+    }
+  }
+}
