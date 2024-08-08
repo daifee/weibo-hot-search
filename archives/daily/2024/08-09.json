@@ -1,6 +1,6 @@
 {
   "startTime": 1723134321258,
-  "endTime": 1723159230108,
+  "endTime": 1723160094627,
   "band_list": [
     {
       "raw_hot": 2097926,
@@ -43,20 +43,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1476334,
+      "num": 1476334,
+      "word": "女子要买18万黄金店长果断报警",
+      "onboard_time": 1723140253,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1408595,
       "num": 1408595,
       "word": "吴艳妮心疼教练为自己比赛推迟手术",
       "onboard_time": 1723130846,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1288661,
-      "num": 1288661,
-      "word": "女子要买18万黄金店长果断报警",
-      "onboard_time": 1723140253,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1221390,
@@ -75,8 +75,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1147458,
-      "num": 455275,
+      "raw_hot": 1150713,
+      "num": 1150713,
       "word": "男孩把头埋进超市黄豆里玩妈妈全买下",
       "onboard_time": 1723145772,
       "rank": 22,
@@ -115,6 +115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 756351,
+      "num": 756351,
+      "word": "中国女子拳击奥运历史首金",
+      "onboard_time": 1723152792,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 715317,
       "num": 715317,
       "word": "于正 P你个头",
@@ -144,14 +152,6 @@
       "word": "王皓 没事哒",
       "onboard_time": 1723132222,
       "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 594611,
-      "num": 594611,
-      "word": "中国女子拳击奥运历史首金",
-      "onboard_time": 1723152792,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -203,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 463902,
+      "num": 463902,
+      "word": "遇害18岁男生家属称凶手是以前邻居",
+      "onboard_time": 1723122805,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 421422,
       "num": 421422,
       "word": "主持人把孙颖莎逗乐了",
@@ -243,6 +251,22 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 362896,
+      "num": 362896,
+      "word": "张本美和赛后哭了",
+      "onboard_time": 1723158738,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 357072,
+      "num": 357072,
+      "word": "美国男篮vs塞尔维亚男篮",
+      "onboard_time": 1723142352,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 354582,
       "num": 354582,
       "word": "吴艳妮创中国奥运女子百米栏新纪录",
@@ -259,14 +283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 337391,
-      "num": 337391,
-      "word": "遇害18岁男生家属称凶手是以前邻居",
-      "onboard_time": 1723122805,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 336836,
       "num": 336836,
       "word": "孙杨 我的泳裤也没有干过",
@@ -280,14 +296,6 @@
       "word": "张本智和 强迫症",
       "onboard_time": 1723107687,
       "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 322862,
-      "num": 322862,
-      "word": "美国男篮vs塞尔维亚男篮",
-      "onboard_time": 1723142352,
-      "rank": 9,
       "category": "体育"
     },
     {
@@ -315,6 +323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 291954,
+      "num": 685158,
+      "word": "没有观察室的恋综",
+      "onboard_time": 1723136057,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 290046,
       "num": 290046,
       "word": "中国第29金",
@@ -336,6 +352,14 @@
       "word": "还我妈生龙",
       "onboard_time": 1723111647,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 274183,
+      "num": 274183,
+      "word": "马龙 你要考研啊",
+      "onboard_time": 1723159940,
+      "rank": 22,
       "category": "体育"
     },
     {
@@ -363,14 +387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 253208,
-      "num": 459016,
-      "word": "没有观察室的恋综",
-      "onboard_time": 1723136057,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 234173,
       "num": 204340,
       "word": "马龙王楚钦vs高茨A勒布伦",
@@ -379,11 +395,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 225206,
-      "num": 171200,
-      "word": "张本美和赛后哭了",
-      "onboard_time": 1723158738,
-      "rank": 31,
+      "raw_hot": 228317,
+      "num": 197591,
+      "word": "石智勇说内收肌可能断了",
+      "onboard_time": 1723158678,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -483,6 +499,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180317,
+      "num": 347422,
+      "word": "贾青回应与王丽坤前夫谈过恋爱传闻",
+      "onboard_time": 1723158618,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 175675,
+      "num": 175675,
+      "word": "樊振东快成为勒布伦过不去的坎了",
+      "onboard_time": 1723159400,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175169,
       "num": 355891,
       "word": "易烊千玺 内向的人更细致",
@@ -515,14 +547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167733,
-      "num": 167733,
-      "word": "石智勇说内收肌可能断了",
-      "onboard_time": 1723158678,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 162887,
       "num": 162887,
       "word": "摔跤女子自由式53公斤级铜牌赛",
@@ -537,6 +561,14 @@
       "onboard_time": 1723136658,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159630,
+      "num": 341692,
+      "word": "于和伟 睡七个小时怎么了",
+      "onboard_time": 1723114044,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 157646,
@@ -595,20 +627,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136391,
+      "num": 281136,
+      "word": "全国超1亿人经常参与这个大项目",
+      "onboard_time": 1723138695,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135736,
       "num": 299729,
       "word": "严屹宽古装 赏心悦目",
       "onboard_time": 1723132761,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134339,
-      "num": 321985,
-      "word": "于和伟 睡七个小时怎么了",
-      "onboard_time": 1723114044,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 133190,
@@ -619,6 +651,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 128837,
+      "num": 128837,
+      "word": "花花为吃饭晃起了小jiojio",
+      "onboard_time": 1723159339,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 128391,
       "num": 115136,
       "word": "库里36分",
@@ -627,19 +667,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125483,
+      "num": 125483,
+      "word": "东北男友第一次到内蒙古女友家",
+      "onboard_time": 1723159578,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124592,
       "num": 561708,
       "word": "女子被卡喉她1分钟连抱28次解救",
       "onboard_time": 1723132702,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 116521,
-      "num": 281136,
-      "word": "全国超1亿人经常参与这个大项目",
-      "onboard_time": 1723138695,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -659,6 +699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94266,
+      "num": 335900,
+      "word": "火星营地里的王一博",
+      "onboard_time": 1723153931,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90487,
       "num": 90487,
       "word": "石智勇 挺举开把",
@@ -675,28 +723,12 @@
       "category": "科学科普,体育"
     },
     {
-      "raw_hot": 87979,
-      "num": 312270,
-      "word": "火星营地里的王一博",
-      "onboard_time": 1723153931,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 86708,
       "num": 109594,
       "word": "詹姆斯三双",
       "onboard_time": 1723152792,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 85171,
-      "num": 308427,
-      "word": "贾青回应与王丽坤前夫谈过恋爱传闻",
-      "onboard_time": 1723158618,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 77660,
@@ -713,6 +745,14 @@
       "onboard_time": 1723149432,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73568,
+      "num": 227421,
+      "word": "张雨绮穿了Lolita",
+      "onboard_time": 1723147813,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 71759,
@@ -737,14 +777,6 @@
       "onboard_time": 1723153152,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 60140,
-      "num": 193690,
-      "word": "张雨绮穿了Lolita",
-      "onboard_time": 1723147813,
-      "rank": 49,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 56982,
@@ -787,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 48285,
+      "num": 670258,
+      "word": "詹某某涉嫌诈骗案受害者等候庭审结果",
+      "onboard_time": 1723158977,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48004,
       "num": 48004,
       "word": "拳击女子75公斤级半决赛",
@@ -824,14 +864,6 @@
       "word": "詹某某涉嫌诈骗案开庭",
       "onboard_time": 1723143253,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30120,
-      "num": 311688,
-      "word": "詹某某涉嫌诈骗案受害者等候庭审结果",
-      "onboard_time": 1723158977,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
