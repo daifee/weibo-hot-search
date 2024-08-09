@@ -1,0 +1,410 @@
+{
+  "runTime": 1723198883687,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8596389,
+        "num": 8596389,
+        "word": "乒乓球男团铜牌赛",
+        "onboard_time": 1723190604,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2010626,
+        "num": 2010626,
+        "word": "张本智和输比赛后笑了",
+        "onboard_time": 1723196844,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167041,
+        "num": 1688438,
+        "word": "遏制体育饭圈乱象刻不容缓",
+        "onboard_time": 1723176982,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4202143,
+        "num": 1687093,
+        "word": "王丽坤老公承认嫖娼花费数百万元",
+        "onboard_time": 1723195105,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1652833,
+        "num": 1652833,
+        "word": "张本智和队友 菜",
+        "onboard_time": 1723192281,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1465484,
+        "num": 1465484,
+        "word": "特朗普称中俄不再尊重美国",
+        "onboard_time": 1723195042,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1237114,
+        "num": 1237114,
+        "word": "李雪琴在十天被孤立",
+        "onboard_time": 1723195042,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1128556,
+        "num": 1128556,
+        "word": "纸盒 小猴",
+        "onboard_time": 1723194623,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1883544,
+        "num": 1128460,
+        "word": "曝王丽坤老公与贾青亲密合照",
+        "onboard_time": 1723176502,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134090,
+        "num": 1101508,
+        "word": "美国宇航员可能要滞留太空8个月",
+        "onboard_time": 1723197625,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1094356,
+        "num": 1094356,
+        "word": "张本智和把男单金银铜打遍了",
+        "onboard_time": 1723194924,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 954152,
+        "num": 954152,
+        "word": "韩安冉要起诉妈妈",
+        "onboard_time": 1723181120,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 856148,
+        "num": 856148,
+        "word": "F勒布伦3比2战胜张本智和",
+        "onboard_time": 1723195585,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 738154,
+        "num": 738154,
+        "word": "杨昊失误",
+        "onboard_time": 1723194083,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 657053,
+        "num": 657053,
+        "word": "宁波港回应爆炸",
+        "onboard_time": 1723189044,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 670298,
+        "num": 637684,
+        "word": "日本男团vs法国男团",
+        "onboard_time": 1723189824,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 667843,
+        "num": 628061,
+        "word": "跑个keep奖牌给张本智和",
+        "onboard_time": 1723196185,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 606244,
+        "num": 606244,
+        "word": "男子滥用七天无理由半年退货手机77次",
+        "onboard_time": 1723193363,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467203,
+        "num": 588968,
+        "word": "他一下就亲到了我的上巴",
+        "onboard_time": 1723196484,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 367215,
+        "num": 586995,
+        "word": "赵奕欢泳装身材",
+        "onboard_time": 1723194862,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 586614,
+        "num": 586614,
+        "word": "石川中文采访吓孙颖莎一跳",
+        "onboard_time": 1723192341,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 507848,
+        "num": 507848,
+        "word": "理发师问潘展乐认不认识潘展乐",
+        "onboard_time": 1723193782,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 466593,
+        "num": 466593,
+        "word": "河南一地突发凶案致多人伤亡",
+        "onboard_time": 1723198045,
+        "rank": 22,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 18010,
+        "num": 446874,
+        "word": "姚琛淡人闯关就这么简单",
+        "onboard_time": 1723194382,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 446246,
+        "num": 446246,
+        "word": "樊振东 食堂NPC",
+        "onboard_time": 1723197145,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 423576,
+        "num": 423576,
+        "word": "王昶 从此不敢看观音",
+        "onboard_time": 1723186702,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 411560,
+        "num": 411560,
+        "word": "北京暴雨",
+        "onboard_time": 1723193002,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362509,
+        "num": 362509,
+        "word": "石川佳纯给马龙送pin",
+        "onboard_time": 1723185620,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333080,
+        "num": 333080,
+        "word": "秋风遗体正在送往老家",
+        "onboard_time": 1723178603,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 329328,
+        "num": 329328,
+        "word": "内娱艺人吵架挂脸名场面",
+        "onboard_time": 1723194083,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 414682,
+        "num": 329138,
+        "word": "王楚钦父母来京静候佳音",
+        "onboard_time": 1723198644,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 328841,
+        "num": 328841,
+        "word": "纸盒状态",
+        "onboard_time": 1723194443,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301474,
+        "num": 301474,
+        "word": "艺术体操 醉太平",
+        "onboard_time": 1723195288,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299912,
+        "num": 299912,
+        "word": "张本智和 被逆转的神",
+        "onboard_time": 1723197924,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285014,
+        "num": 285014,
+        "word": "男子单人十米台预赛",
+        "onboard_time": 1723189944,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282798,
+        "num": 282798,
+        "word": "美媒报道导致中国游泳队额外检测",
+        "onboard_time": 1723196065,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269022,
+        "num": 269022,
+        "word": "乐乐茶同框",
+        "onboard_time": 1723194504,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249603,
+        "num": 249603,
+        "word": "韩安冉妈妈并不觉得亏欠了韩安冉",
+        "onboard_time": 1723193062,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 246999,
+        "num": 246999,
+        "word": "江小白要求东方甄选道歉",
+        "onboard_time": 1723193722,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 236485,
+        "num": 236485,
+        "word": "于文文新歌上线7分钟被迫改名",
+        "onboard_time": 1723187241,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 233147,
+        "num": 233147,
+        "word": "詹浩礼",
+        "onboard_time": 1723198644,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7695,
+        "num": 232734,
+        "word": "咱妈能不能把乐乐哥手里的床垫留下",
+        "onboard_time": 1723198524,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232712,
+        "num": 232712,
+        "word": "小夫妻原型是傅首尔老刘吧",
+        "onboard_time": 1723189223,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29926,
+        "num": 225830,
+        "word": "林更新的七夕计划",
+        "onboard_time": 1723196605,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223999,
+        "num": 223999,
+        "word": "虞书欣再读小兰花旁白",
+        "onboard_time": 1723195766,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223053,
+        "num": 223053,
+        "word": "韩安冉被妈妈继父遗弃虐待",
+        "onboard_time": 1723186821,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 210596,
+        "num": 210596,
+        "word": "户上支棱起来了",
+        "onboard_time": 1723198223,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205142,
+        "num": 205142,
+        "word": "张继科线下教学暑假班名额已满",
+        "onboard_time": 1723198464,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203148,
+        "num": 203148,
+        "word": "浙江宁波舟山港一货轮集装箱爆炸",
+        "onboard_time": 1723188203,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172354,
+        "num": 200083,
+        "word": "孙颖莎的吊坠从进国家队戴到现在",
+        "onboard_time": 1723194982,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻文化根魂#"
+    }
+  }
+}
