@@ -1,0 +1,410 @@
+{
+  "runTime": 1723208006286,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1635079,
+        "num": 1635079,
+        "word": "乒乓球男团铜牌赛",
+        "onboard_time": 1723190604,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1628125,
+        "num": 1628125,
+        "word": "马龙王楚钦vs卡尔伯格卡尔森",
+        "onboard_time": 1723207583,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60404,
+        "num": 916105,
+        "word": "天宫空间站运动会也太会整活了",
+        "onboard_time": 1723207344,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 900858,
+        "num": 900858,
+        "word": "樊振东两眼一睁又要打小莫了",
+        "onboard_time": 1723199425,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 739791,
+        "num": 739791,
+        "word": "韩安冉是自己报名参加变形计",
+        "onboard_time": 1723203025,
+        "rank": 4,
+        "category": "综艺,网红"
+      },
+      {
+        "raw_hot": 737440,
+        "num": 737440,
+        "word": "曝王丽坤老公与贾青亲密合照",
+        "onboard_time": 1723176502,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 629236,
+        "num": 629236,
+        "word": "法国男团铜牌",
+        "onboard_time": 1723202308,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 627870,
+        "num": 627870,
+        "word": "韩安冉要起诉妈妈",
+        "onboard_time": 1723181120,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 618042,
+        "num": 618042,
+        "word": "张本智和0奖牌",
+        "onboard_time": 1723203145,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189216,
+        "num": 462627,
+        "word": "特朗普称中俄不再尊重美国",
+        "onboard_time": 1723195042,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 896561,
+        "num": 460462,
+        "word": "塞尔维亚运动员在水中离世",
+        "onboard_time": 1723202124,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 458215,
+        "num": 458215,
+        "word": "国乒男团vs瑞典",
+        "onboard_time": 1723206564,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 438948,
+        "num": 438948,
+        "word": "乒乓球决赛",
+        "onboard_time": 1723204882,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 332295,
+        "num": 332295,
+        "word": "北京暴雨",
+        "onboard_time": 1723193002,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270200,
+        "num": 270200,
+        "word": "李雪琴在十天被孤立",
+        "onboard_time": 1723195042,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 431983,
+        "num": 270170,
+        "word": "纸盒 小猴",
+        "onboard_time": 1723194623,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 389853,
+        "num": 269422,
+        "word": "王楚钦说盘串让自己内心平静",
+        "onboard_time": 1723207223,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 380788,
+        "num": 269151,
+        "word": "张本智和输比赛后笑了",
+        "onboard_time": 1723196844,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 348927,
+        "num": 268684,
+        "word": "张本智和 被逆转的神",
+        "onboard_time": 1723197924,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230251,
+        "num": 268248,
+        "word": "时代少年团新歌梦舞蹈版",
+        "onboard_time": 1723207583,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1008813,
+        "num": 267789,
+        "word": "王丽坤老公承认嫖娼花费数百万元",
+        "onboard_time": 1723195105,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491266,
+        "num": 267274,
+        "word": "王鹤润",
+        "onboard_time": 1723199245,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334245,
+        "num": 267039,
+        "word": "中新网连麦王昶梁伟铿",
+        "onboard_time": 1723203924,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290761,
+        "num": 266732,
+        "word": "理发师问潘展乐认不认识潘展乐",
+        "onboard_time": 1723193782,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234955,
+        "num": 266153,
+        "word": "许凯看张杰演唱会",
+        "onboard_time": 1723206024,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 225859,
+        "num": 265898,
+        "word": "王昶郑思维 告白羽球",
+        "onboard_time": 1723204763,
+        "rank": 25,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 265488,
+        "num": 265488,
+        "word": "张本智和把男单金银铜打遍了",
+        "onboard_time": 1723194924,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248126,
+        "num": 248126,
+        "word": "女子跳水三米板决赛",
+        "onboard_time": 1723207823,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237438,
+        "num": 237438,
+        "word": "太医说那是一个已经成了形的奖牌",
+        "onboard_time": 1723205003,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198570,
+        "num": 218594,
+        "word": "文韬白衬衫",
+        "onboard_time": 1723207223,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214283,
+        "num": 214283,
+        "word": "日本男团vs法国男团",
+        "onboard_time": 1723189824,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202159,
+        "num": 202159,
+        "word": "乒乓球男团铜牌赛 凌迟局",
+        "onboard_time": 1723202727,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201129,
+        "num": 201129,
+        "word": "石凯 黑铠甲",
+        "onboard_time": 1723207823,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196362,
+        "num": 196362,
+        "word": "用一只螃蟹做了六菜一汤",
+        "onboard_time": 1723207163,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 194202,
+        "num": 194202,
+        "word": "齐思钧红发",
+        "onboard_time": 1723206864,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190991,
+        "num": 190991,
+        "word": "河南一地突发凶案致多人伤亡",
+        "onboard_time": 1723198045,
+        "rank": 35,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 34001,
+        "num": 190438,
+        "word": "蔡依林的衣橱回来了",
+        "onboard_time": 1723205123,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190154,
+        "num": 190154,
+        "word": "美花游选手药检阳性却参加奥运获银牌",
+        "onboard_time": 1723206925,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187208,
+        "num": 187208,
+        "word": "小勒布伦18岁前拿到两枚奥运奖牌",
+        "onboard_time": 1723205904,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158226,
+        "num": 185226,
+        "word": "韩安冉",
+        "onboard_time": 1723202786,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 184894,
+        "num": 184894,
+        "word": "樊振东话最多的一集",
+        "onboard_time": 1723207763,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168305,
+        "num": 184746,
+        "word": "薛之谦哭了",
+        "onboard_time": 1723205423,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184739,
+        "num": 184739,
+        "word": "皮划艇",
+        "onboard_time": 1723204345,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36300,
+        "num": 184223,
+        "word": "什么车经得住这样撞啊",
+        "onboard_time": 1723207645,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 175978,
+        "num": 183771,
+        "word": "石川中文采访吓孙颖莎一跳",
+        "onboard_time": 1723192341,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183718,
+        "num": 183718,
+        "word": "纸盒状态",
+        "onboard_time": 1723194443,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180732,
+        "num": 180732,
+        "word": "乒乓界有自己的EXO",
+        "onboard_time": 1723207163,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179858,
+        "num": 179858,
+        "word": "王鹤润回应争议",
+        "onboard_time": 1723207763,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174998,
+        "num": 174998,
+        "word": "偶遇国乒男团食堂吃饭",
+        "onboard_time": 1723205063,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174141,
+        "num": 174141,
+        "word": "徐诗晓孙梦雅双人划艇金牌",
+        "onboard_time": 1723201225,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻文化根魂#"
+    }
+  }
+}
