@@ -1,6 +1,6 @@
 {
   "startTime": 1723134321258,
-  "endTime": 1723198883687,
+  "endTime": 1723199901424,
   "band_list": [
     {
       "raw_hot": 10985422,
@@ -57,6 +57,14 @@
       "onboard_time": 1723195042,
       "rank": 3,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 3017947,
+      "num": 3017947,
+      "word": "张本智和输比赛后笑了",
+      "onboard_time": 1723196844,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 2931941,
@@ -120,14 +128,6 @@
       "word": "罗诗芳摘金",
       "onboard_time": 1723129889,
       "rank": 0,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2010626,
-      "num": 2010626,
-      "word": "张本智和输比赛后笑了",
-      "onboard_time": 1723196844,
-      "rank": 1,
       "category": "体育"
     },
     {
@@ -571,6 +571,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 743076,
+      "num": 743076,
+      "word": "河南一地突发凶案致多人伤亡",
+      "onboard_time": 1723198045,
+      "rank": 22,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 737342,
+      "num": 737342,
+      "word": "王楚钦说自己场下生人勿近",
+      "onboard_time": 1723199483,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 726291,
       "num": 726291,
       "word": "张本智和要碎了",
@@ -691,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 598795,
+      "num": 598795,
+      "word": "理发师问潘展乐认不认识潘展乐",
+      "onboard_time": 1723193782,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 598401,
       "num": 437603,
       "word": "王皓 没事哒",
@@ -715,12 +739,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 568632,
+      "num": 568632,
+      "word": "张本智和 被逆转的神",
+      "onboard_time": 1723197924,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 563931,
       "num": 684806,
       "word": "黄多多编耳机保护绳",
       "onboard_time": 1723126048,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 543459,
+      "num": 543459,
+      "word": "樊振东 食堂NPC",
+      "onboard_time": 1723197145,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 534983,
@@ -760,14 +800,6 @@
       "word": "国乒女团火速进决赛",
       "onboard_time": 1723127968,
       "rank": 16,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 507848,
-      "num": 507848,
-      "word": "理发师问潘展乐认不认识潘展乐",
-      "onboard_time": 1723193782,
-      "rank": 21,
       "category": "体育"
     },
     {
@@ -827,14 +859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 466593,
-      "num": 466593,
-      "word": "河南一地突发凶案致多人伤亡",
-      "onboard_time": 1723198045,
-      "rank": 22,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 463902,
       "num": 463902,
       "word": "遇害18岁男生家属称凶手是以前邻居",
@@ -859,14 +883,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 446246,
-      "num": 446246,
-      "word": "樊振东 食堂NPC",
-      "onboard_time": 1723197145,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 441931,
       "num": 441930,
       "word": "男子单人十米台预赛",
@@ -889,6 +905,14 @@
       "onboard_time": 1723171642,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 431279,
+      "num": 431279,
+      "word": "王楚钦父母来京静候佳音",
+      "onboard_time": 1723198644,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 429499,
@@ -936,14 +960,6 @@
       "word": "刘翔 再看一次还是会眼红",
       "onboard_time": 1723173683,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 414682,
-      "num": 329138,
-      "word": "王楚钦父母来京静候佳音",
-      "onboard_time": 1723198644,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -1033,6 +1049,14 @@
       "onboard_time": 1723158678,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 371466,
+      "num": 498324,
+      "word": "王鹤润",
+      "onboard_time": 1723199245,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 367026,
@@ -1131,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 346863,
+      "num": 346863,
+      "word": "美媒报道导致中国游泳队额外检测",
+      "onboard_time": 1723196065,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 340706,
       "num": 340706,
       "word": "王楚钦 从不服输的小孩哥",
@@ -1227,6 +1259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 312212,
+      "num": 312212,
+      "word": "江小白要求东方甄选道歉",
+      "onboard_time": 1723193722,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 310028,
       "num": 310028,
       "word": "孙颖莎童年照太可爱了",
@@ -1307,14 +1347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 299912,
-      "num": 299912,
-      "word": "张本智和 被逆转的神",
-      "onboard_time": 1723197924,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 299448,
       "num": 299448,
       "word": "全红婵 我想要自由",
@@ -1355,6 +1387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291371,
+      "num": 1101508,
+      "word": "美国宇航员可能要滞留太空8个月",
+      "onboard_time": 1723197625,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 291184,
       "num": 564746,
       "word": "郭晶晶谈考国际泳联裁判",
@@ -1387,20 +1427,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 284461,
+      "num": 284461,
+      "word": "恋与深空",
+      "onboard_time": 1723199064,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 284016,
       "num": 284016,
       "word": "地球生命支持系统正接近全面崩溃",
       "onboard_time": 1723180821,
       "rank": 42,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 282798,
-      "num": 282798,
-      "word": "美媒报道导致中国游泳队额外检测",
-      "onboard_time": 1723196065,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 280412,
@@ -1571,12 +1611,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 246999,
-      "num": 246999,
-      "word": "江小白要求东方甄选道歉",
-      "onboard_time": 1723193722,
-      "rank": 38,
-      "category": "互联网"
+      "raw_hot": 243978,
+      "num": 243978,
+      "word": "詹浩礼",
+      "onboard_time": 1723198644,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 241062,
@@ -1633,14 +1673,6 @@
       "onboard_time": 1723179863,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 233147,
-      "num": 233147,
-      "word": "詹浩礼",
-      "onboard_time": 1723198644,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 228204,
@@ -1707,6 +1739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221216,
+      "num": 221216,
+      "word": "房山部分地区出现大暴雨",
+      "onboard_time": 1723199784,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220995,
       "num": 493447,
       "word": "李玉刚手举国旗",
@@ -1720,6 +1760,14 @@
       "word": "梁伟铿 猪猪侠",
       "onboard_time": 1723185502,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 220199,
+      "num": 220199,
+      "word": "樊振东两眼一睁又要打小莫了",
+      "onboard_time": 1723199425,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -1737,6 +1785,14 @@
       "onboard_time": 1723194023,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218329,
+      "num": 218329,
+      "word": "郑思维王昶自制告白气球MV",
+      "onboard_time": 1723199124,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 217561,
@@ -1792,6 +1848,14 @@
       "word": "王楚钦感谢刘国梁肖战赛后开导",
       "onboard_time": 1723134501,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 212396,
+      "num": 212396,
+      "word": "他们兄弟俩打球就这样不看对手",
+      "onboard_time": 1723198945,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -2131,6 +2195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184605,
+      "num": 571083,
+      "word": "曹缘杨昊进半决赛",
+      "onboard_time": 1723199064,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184297,
       "num": 184297,
       "word": "奥运冠军潘展乐现身上海理发店",
@@ -2369,14 +2441,6 @@
       "onboard_time": 1723132761,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134090,
-      "num": 1101508,
-      "word": "美国宇航员可能要滞留太空8个月",
-      "onboard_time": 1723197625,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 133190,
@@ -2763,7 +2827,7 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 29926,
+      "raw_hot": 31457,
       "num": 225830,
       "word": "林更新的七夕计划",
       "onboard_time": 1723196605,
@@ -2777,6 +2841,14 @@
       "onboard_time": 1723189824,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24348,
+      "num": 253910,
+      "word": "咱妈能不能把乐乐哥手里的床垫留下",
+      "onboard_time": 1723198524,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 23001,
@@ -2849,14 +2921,6 @@
       "onboard_time": 1723187783,
       "rank": 29,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 7695,
-      "num": 232734,
-      "word": "咱妈能不能把乐乐哥手里的床垫留下",
-      "onboard_time": 1723198524,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 7148,
