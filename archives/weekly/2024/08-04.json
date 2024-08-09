@@ -1,6 +1,6 @@
 {
   "startTime": 1722702313981,
-  "endTime": 1723195367412,
+  "endTime": 1723196116665,
   "band_list": [
     {
       "raw_hot": 35169209,
@@ -371,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 6774804,
+      "num": 6774804,
+      "word": "乒乓球男团铜牌赛",
+      "onboard_time": 1723190604,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 6684114,
       "num": 6684114,
       "word": "国乒女团vs中国台北",
@@ -520,14 +528,6 @@
       "word": "苏炜德失误",
       "onboard_time": 1722861330,
       "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 4879252,
-      "num": 4879252,
-      "word": "乒乓球男团铜牌赛",
-      "onboard_time": 1723190604,
-      "rank": 28,
       "category": "体育"
     },
     {
@@ -819,6 +819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3652402,
+      "num": 3652402,
+      "word": "张本智和队友 菜",
+      "onboard_time": 1723192281,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3650417,
       "num": 3650417,
       "word": "樊振东vsF勒布伦",
@@ -1003,19 +1011,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3130319,
+      "num": 3130319,
+      "word": "纸盒 小猴",
+      "onboard_time": 1723194623,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3107271,
       "num": 3107271,
       "word": "孙杨 老婆孩子在巴黎",
       "onboard_time": 1722843563,
       "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 3080272,
-      "num": 3080272,
-      "word": "张本智和队友 菜",
-      "onboard_time": 1723192281,
-      "rank": 8,
       "category": "体育"
     },
     {
@@ -1033,6 +1041,14 @@
       "onboard_time": 1722824182,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3056437,
+      "num": 3056437,
+      "word": "特朗普称中俄不再尊重美国",
+      "onboard_time": 1723195042,
+      "rank": 3,
+      "category": "国外时政"
     },
     {
       "raw_hot": 3052164,
@@ -1216,6 +1232,14 @@
       "word": "戴向宇发律师函",
       "onboard_time": 1722938967,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2731154,
+      "num": 2731154,
+      "word": "王丽坤老公承认嫖娼花费数百万元",
+      "onboard_time": 1723195105,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -1627,14 +1651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2353697,
-      "num": 2353697,
-      "word": "特朗普称中俄不再尊重美国",
-      "onboard_time": 1723195042,
-      "rank": 3,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 2338038,
       "num": 2846917,
       "word": "邱祺缘银牌",
@@ -1665,6 +1681,14 @@
       "onboard_time": 1722710596,
       "rank": 12,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 2309317,
+      "num": 2309317,
+      "word": "杨昊失误",
+      "onboard_time": 1723194083,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 2309137,
@@ -1704,14 +1728,6 @@
       "word": "孙颖莎又指导拍照了",
       "onboard_time": 1722701246,
       "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2286020,
-      "num": 2286020,
-      "word": "杨昊失误",
-      "onboard_time": 1723194083,
-      "rank": 4,
       "category": "体育"
     },
     {
@@ -2347,6 +2363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1778510,
+      "num": 1778510,
+      "word": "日本男团vs法国男团",
+      "onboard_time": 1723189824,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1777587,
       "num": 1777587,
       "word": "中国女排反超",
@@ -2451,14 +2475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1720410,
-      "num": 1720410,
-      "word": "日本男团vs法国男团",
-      "onboard_time": 1723189824,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1719669,
       "num": 628119,
       "word": "全红婵 我不想知道",
@@ -2496,14 +2512,6 @@
       "word": "拜尔斯掉木",
       "onboard_time": 1722856823,
       "rank": 16,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1707792,
-      "num": 1707792,
-      "word": "纸盒 小猴",
-      "onboard_time": 1723194623,
-      "rank": 10,
       "category": "体育"
     },
     {
@@ -3435,6 +3443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1281923,
+      "num": 1281923,
+      "word": "石川中文采访吓孙颖莎一跳",
+      "onboard_time": 1723192341,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1278207,
       "num": 1278207,
       "word": "乌克兰选手赛场睡觉醒来夺冠",
@@ -3656,14 +3672,6 @@
       "word": "大布 擦边擦网",
       "onboard_time": 1723111232,
       "rank": 21,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1205789,
-      "num": 1205789,
-      "word": "石川中文采访吓孙颖莎一跳",
-      "onboard_time": 1723192341,
-      "rank": 38,
       "category": "体育"
     },
     {
@@ -4209,6 +4217,14 @@
       "onboard_time": 1723018881,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1029122,
+      "num": 1029122,
+      "word": "F勒布伦3比2战胜张本智和",
+      "onboard_time": 1723195585,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 1027023,
@@ -5315,6 +5331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 741545,
+      "num": 741545,
+      "word": "李雪琴在十天被孤立",
+      "onboard_time": 1723195042,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 738680,
       "num": 738680,
       "word": "菲尔普斯",
@@ -5371,6 +5395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 726291,
+      "num": 726291,
+      "word": "张本智和要碎了",
+      "onboard_time": 1723193483,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 725373,
       "num": 2654945,
       "word": "奔跑吧邀请梁王",
@@ -5417,6 +5449,14 @@
       "onboard_time": 1722853648,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 716979,
+      "num": 716979,
+      "word": "男子滥用七天无理由半年退货手机77次",
+      "onboard_time": 1723193363,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 715317,
@@ -5747,6 +5787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 656446,
+      "num": 656446,
+      "word": "纸盒状态",
+      "onboard_time": 1723194443,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 656096,
       "num": 656096,
       "word": "小夫妻原型是傅首尔老刘吧",
@@ -5801,6 +5849,14 @@
       "onboard_time": 1722703954,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 652176,
+      "num": 652176,
+      "word": "北京暴雨",
+      "onboard_time": 1723193002,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 650367,
@@ -6139,6 +6195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 599816,
+      "num": 599816,
+      "word": "张本智和把男单金银铜打遍了",
+      "onboard_time": 1723194924,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 599441,
       "num": 599441,
       "word": "马龙状态",
@@ -6232,14 +6296,6 @@
       "word": "因为这是女单",
       "onboard_time": 1722909922,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 593348,
-      "num": 593348,
-      "word": "纸盒状态",
-      "onboard_time": 1723194443,
-      "rank": 17,
       "category": "体育"
     },
     {
@@ -6507,14 +6563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 560151,
-      "num": 560151,
-      "word": "男子滥用七天无理由半年退货手机77次",
-      "onboard_time": 1723193363,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 558841,
       "num": 929075,
       "word": "李庚希失恋都没这么难过",
@@ -6555,14 +6603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 552247,
-      "num": 552247,
-      "word": "张本智和要碎了",
-      "onboard_time": 1723193483,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 550131,
       "num": 550131,
       "word": "孙颖莎说团体第一场发挥正常",
@@ -6577,14 +6617,6 @@
       "onboard_time": 1723013183,
       "rank": 22,
       "category": "体育,作品衍生"
-    },
-    {
-      "raw_hot": 549843,
-      "num": 549843,
-      "word": "北京暴雨",
-      "onboard_time": 1723193002,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 549797,
@@ -7611,14 +7643,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 455384,
-      "num": 455384,
-      "word": "李雪琴在十天被孤立",
-      "onboard_time": 1723195042,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 455315,
       "num": 455315,
       "word": "东道主更吵了",
@@ -7801,14 +7825,6 @@
       "onboard_time": 1723052655,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 443428,
-      "num": 443428,
-      "word": "王丽坤老公承认嫖娼花费数百万元",
-      "onboard_time": 1723195105,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 443012,
@@ -8587,6 +8603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 397375,
+      "num": 397375,
+      "word": "赵奕欢泳装身材",
+      "onboard_time": 1723194862,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 397016,
       "num": 1287410,
       "word": "饭店员工将牛骨倒在下水道口冲洗",
@@ -9083,6 +9107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 367026,
+      "num": 367026,
+      "word": "杨昊",
+      "onboard_time": 1723193842,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 366951,
       "num": 1024275,
       "word": "上半年结婚登记数同比减少49.8万对",
@@ -9425,6 +9457,14 @@
       "onboard_time": 1722991583,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 349586,
+      "num": 349586,
+      "word": "乐乐茶同框",
+      "onboard_time": 1723194504,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 349460,
@@ -9915,6 +9955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 326631,
+      "num": 326631,
+      "word": "张本智和喊起来了",
+      "onboard_time": 1723195225,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 325600,
       "num": 524330,
       "word": "SNH48总选 袁一琦第一",
@@ -10112,6 +10160,14 @@
       "word": "波波维奇 厌世脸天才",
       "onboard_time": 1722904823,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 317033,
+      "num": 317033,
+      "word": "艺术体操 醉太平",
+      "onboard_time": 1723195288,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -10419,6 +10475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 307038,
+      "num": 307038,
+      "word": "虞书欣再读小兰花旁白",
+      "onboard_time": 1723195766,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 306943,
       "num": 306943,
       "word": "郑钦文回应QueenWen称号",
@@ -10467,27 +10531,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 305308,
-      "num": 305308,
-      "word": "赵奕欢泳装身材",
-      "onboard_time": 1723194862,
-      "rank": 40,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 305295,
       "num": 252286,
       "word": "马龙国宝级正手",
       "onboard_time": 1722946163,
       "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 305275,
-      "num": 305275,
-      "word": "杨昊",
-      "onboard_time": 1723193842,
-      "rank": 41,
       "category": "体育"
     },
     {
@@ -10651,11 +10699,11 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 299979,
-      "num": 299979,
-      "word": "张本智和喊起来了",
-      "onboard_time": 1723195225,
-      "rank": 42,
+      "raw_hot": 300217,
+      "num": 300217,
+      "word": "外国运动员告状被中国女将回击",
+      "onboard_time": 1723190843,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -10737,14 +10785,6 @@
       "onboard_time": 1723094242,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 296979,
-      "num": 296979,
-      "word": "乐乐茶同框",
-      "onboard_time": 1723194504,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 296534,
@@ -11595,14 +11635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 269391,
-      "num": 269391,
-      "word": "艺术体操 醉太平",
-      "onboard_time": 1723195288,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 268738,
       "num": 798519,
       "word": "因桥本甲状腺炎被拒2人起诉招聘单位",
@@ -11752,14 +11784,6 @@
       "word": "郑钦文夺金后的第一个念头",
       "onboard_time": 1722915022,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 264214,
-      "num": 264214,
-      "word": "外国运动员告状被中国女将回击",
-      "onboard_time": 1723190843,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -11985,6 +12009,14 @@
       "onboard_time": 1723114164,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 257156,
+      "num": 257156,
+      "word": "美媒报道导致中国游泳队额外检测",
+      "onboard_time": 1723196065,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 257152,
@@ -13273,6 +13305,14 @@
       "onboard_time": 1723129948,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 219606,
+      "num": 1707903,
+      "word": "天价月子中心为何贵却不赚钱",
+      "onboard_time": 1723194023,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219304,
@@ -16331,14 +16371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141632,
-      "num": 1707903,
-      "word": "天价月子中心为何贵却不赚钱",
-      "onboard_time": 1723194023,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141420,
       "num": 141420,
       "word": "郑钦文对爸爸说终于光宗耀祖了",
@@ -18635,6 +18667,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39257,
+      "num": 326637,
+      "word": "就算到太空中国人也要打乒乓球",
+      "onboard_time": 1723195647,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 39167,
+      "num": 293449,
+      "word": "暑期文博热持续升温",
+      "onboard_time": 1723195465,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 38950,
       "num": 1396432,
       "word": "李政道为天才打开一扇门",
@@ -18644,7 +18692,7 @@
     },
     {
       "raw_hot": 38732,
-      "num": 441931,
+      "num": 668088,
       "word": "姚琛淡人闯关就这么简单",
       "onboard_time": 1723194382,
       "rank": 30,
