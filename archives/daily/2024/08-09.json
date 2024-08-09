@@ -1,6 +1,6 @@
 {
   "startTime": 1723134321258,
-  "endTime": 1723168093867,
+  "endTime": 1723171210631,
   "band_list": [
     {
       "raw_hot": 2110880,
@@ -27,6 +27,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1767175,
+      "num": 1767175,
+      "word": "21岁少林武僧秋风去世",
+      "onboard_time": 1723169121,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1724502,
       "num": 593633,
       "word": "解说口误",
@@ -40,6 +48,22 @@
       "word": "马龙 我又不是教练",
       "onboard_time": 1723126766,
       "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1643774,
+      "num": 626647,
+      "word": "王楚钦孙颖莎11比1",
+      "onboard_time": 1723160602,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1620528,
+      "num": 1620528,
+      "word": "中国霹雳舞选手奥运首秀",
+      "onboard_time": 1723167141,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -147,8 +171,8 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 939669,
-      "num": 939669,
+      "raw_hot": 946394,
+      "num": 946394,
       "word": "一眼就能看出来孙杨是演的",
       "onboard_time": 1723163423,
       "rank": 11,
@@ -187,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 785682,
+      "num": 785682,
+      "word": "枭起青壤杀青官宣",
+      "onboard_time": 1723169904,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 756351,
       "num": 756351,
       "word": "中国女子拳击奥运历史首金",
@@ -219,12 +251,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 617318,
+      "num": 617318,
+      "word": "马龙带着嘻嘻哈哈接受采访",
+      "onboard_time": 1723167802,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 602737,
       "num": 670359,
       "word": "当事人回应学位证被顺丰损毁已赔8千",
       "onboard_time": 1723133481,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 599927,
+      "num": 599927,
+      "word": "柳岩首次回应母亲的打压式教育",
+      "onboard_time": 1723170091,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 598401,
@@ -307,14 +355,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 424997,
-      "num": 424997,
-      "word": "王楚钦孙颖莎11比1",
-      "onboard_time": 1723160602,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 421422,
       "num": 421422,
       "word": "主持人把孙颖莎逗乐了",
@@ -337,6 +377,14 @@
       "onboard_time": 1723131444,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 407514,
+      "num": 407514,
+      "word": "女子吃外卖腹痛发现后厨百只蟑螂",
+      "onboard_time": 1723169960,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 398974,
@@ -443,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 322314,
+      "num": 322314,
+      "word": "石智勇赛后已经无法正常走路",
+      "onboard_time": 1723170260,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 309338,
       "num": 309338,
       "word": "佩佩退役",
@@ -467,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 292429,
+      "num": 292429,
+      "word": "纸嫁衣7",
+      "onboard_time": 1723169061,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 291954,
       "num": 685158,
       "word": "没有观察室的恋综",
@@ -483,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 284673,
+      "num": 284673,
+      "word": "张本智和社媒发哭泣表情",
+      "onboard_time": 1723167501,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 280412,
       "num": 211832,
       "word": "孙颖莎vs李恩惠",
@@ -496,6 +568,14 @@
       "word": "还我妈生龙",
       "onboard_time": 1723111647,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 274507,
+      "num": 274507,
+      "word": "樊振东 拼东东式打法",
+      "onboard_time": 1723168582,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -555,6 +635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 223842,
+      "num": 255512,
+      "word": "港媒在林峯面前cue吴千语",
+      "onboard_time": 1723171040,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223130,
       "num": 499002,
       "word": "恩利那可是朱一龙为你加油啊",
@@ -569,6 +657,14 @@
       "onboard_time": 1723136418,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222471,
+      "num": 222471,
+      "word": "石智勇致歉",
+      "onboard_time": 1723170440,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 222419,
@@ -627,12 +723,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 205275,
-      "num": 205275,
-      "word": "马龙带着嘻嘻哈哈接受采访",
-      "onboard_time": 1723167802,
-      "rank": 36,
+      "raw_hot": 211984,
+      "num": 209544,
+      "word": "谢思埸奥运会后办婚礼",
+      "onboard_time": 1723168401,
+      "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211930,
+      "num": 211930,
+      "word": "以色列",
+      "onboard_time": 1723167322,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 204536,
@@ -640,14 +744,6 @@
       "word": "中国女曲与荷兰争金",
       "onboard_time": 1723166362,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 203675,
-      "num": 203675,
-      "word": "中国霹雳舞选手奥运首秀",
-      "onboard_time": 1723167141,
-      "rank": 38,
       "category": "体育"
     },
     {
@@ -663,14 +759,6 @@
       "num": 201154,
       "word": "罗诗芳比赛期间睡觉不忘盖肚子",
       "onboard_time": 1723166421,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 200907,
-      "num": 200907,
-      "word": "张本智和社媒发哭泣表情",
-      "onboard_time": 1723167501,
       "rank": 40,
       "category": "体育"
     },
@@ -699,11 +787,27 @@
       "category": "作品衍生,综艺"
     },
     {
+      "raw_hot": 193922,
+      "num": 193922,
+      "word": "孙颖莎童年照太可爱了",
+      "onboard_time": 1723171160,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191956,
       "num": 191956,
       "word": "马龙真的好像一个实习教练",
       "onboard_time": 1723162283,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 190819,
+      "num": 190819,
+      "word": "吴艳妮谈教练患病泪崩",
+      "onboard_time": 1723166182,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -739,6 +843,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178762,
+      "num": 629150,
+      "word": "以色列同意恢复加沙停火谈判",
+      "onboard_time": 1723168160,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 177281,
+      "num": 285995,
+      "word": "私藏浪漫好甜",
+      "onboard_time": 1723167201,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177127,
       "num": 177127,
       "word": "花花为吃饭晃起了小jiojio",
@@ -753,6 +873,14 @@
       "onboard_time": 1723130366,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 174764,
+      "num": 174764,
+      "word": "俄女棋手在棋盘涂水银毒晕对手",
+      "onboard_time": 1723170021,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173986,
@@ -851,14 +979,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 146068,
-      "num": 245046,
-      "word": "私藏浪漫好甜",
-      "onboard_time": 1723167201,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 141877,
       "num": 141877,
       "word": "拳击女子54公斤级决赛",
@@ -937,14 +1057,6 @@
       "onboard_time": 1723132702,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 119951,
-      "num": 176577,
-      "word": "以色列",
-      "onboard_time": 1723167322,
-      "rank": 49,
-      "category": "国外时政"
     },
     {
       "raw_hot": 98186,
@@ -1115,6 +1227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45325,
+      "num": 638763,
+      "word": "特朗普和哈里斯同意9月10日辩论",
+      "onboard_time": 1723170620,
+      "rank": 8,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 43986,
       "num": 1507659,
       "word": "何以中国一檐千年",
@@ -1155,6 +1275,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20916,
+      "num": 225587,
+      "word": "殷若宁挑战自己超越自己",
+      "onboard_time": 1723169542,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 15732,
+      "num": 1620921,
+      "word": "塞上江南写新篇",
+      "onboard_time": 1723121305,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12913,
       "num": 108924,
       "word": "詹姆斯眉骨贴纱布",
@@ -1176,6 +1312,14 @@
       "word": "骆宗诗跆拳道第4",
       "onboard_time": 1723145471,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 5947,
+      "num": 590740,
+      "word": "殷若宁单日排名第一",
+      "onboard_time": 1723171160,
+      "rank": 14,
       "category": "体育"
     }
   ],

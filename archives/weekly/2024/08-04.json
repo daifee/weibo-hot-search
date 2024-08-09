@@ -1,6 +1,6 @@
 {
   "startTime": 1722702313981,
-  "endTime": 1723168093867,
+  "endTime": 1723171210631,
   "band_list": [
     {
       "raw_hot": 35169209,
@@ -2219,6 +2219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1767175,
+      "num": 1767175,
+      "word": "21岁少林武僧秋风去世",
+      "onboard_time": 1723169121,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1765041,
       "num": 1765041,
       "word": "110米栏徐卓一晋级半决赛",
@@ -2435,6 +2443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1643774,
+      "num": 626647,
+      "word": "王楚钦孙颖莎11比1",
+      "onboard_time": 1723160602,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1638264,
       "num": 1156404,
       "word": "刘国梁都得问奶奶借笔记",
@@ -2457,6 +2473,14 @@
       "onboard_time": 1722928346,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1620528,
+      "num": 1620528,
+      "word": "中国霹雳舞选手奥运首秀",
+      "onboard_time": 1723167141,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 1619566,
@@ -4251,6 +4275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 946394,
+      "num": 946394,
+      "word": "一眼就能看出来孙杨是演的",
+      "onboard_time": 1723163423,
+      "rank": 11,
+      "category": "体育,剧集"
+    },
+    {
       "raw_hot": 942533,
       "num": 942533,
       "word": "潜水店为刷客致大量游客耳膜穿孔",
@@ -4273,14 +4305,6 @@
       "onboard_time": 1723125564,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 939669,
-      "num": 939669,
-      "word": "一眼就能看出来孙杨是演的",
-      "onboard_time": 1723163423,
-      "rank": 11,
-      "category": "体育,剧集"
     },
     {
       "raw_hot": 937334,
@@ -4833,6 +4857,14 @@
       "onboard_time": 1722853526,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 785682,
+      "num": 785682,
+      "word": "枭起青壤杀青官宣",
+      "onboard_time": 1723169904,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 783576,
@@ -5651,6 +5683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 617318,
+      "num": 617318,
+      "word": "马龙带着嘻嘻哈哈接受采访",
+      "onboard_time": 1723167802,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 617186,
       "num": 3359817,
       "word": "宁静身材",
@@ -5753,6 +5793,14 @@
       "onboard_time": 1723133481,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 599927,
+      "num": 599927,
+      "word": "柳岩首次回应母亲的打压式教育",
+      "onboard_time": 1723170091,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 599441,
@@ -7523,14 +7571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 424997,
-      "num": 424997,
-      "word": "王楚钦孙颖莎11比1",
-      "onboard_time": 1723160602,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 424076,
       "num": 566333,
       "word": "BLACKPINK合体庆祝出道8周年",
@@ -7809,6 +7849,14 @@
       "onboard_time": 1722869788,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 407514,
+      "num": 407514,
+      "word": "女子吃外卖腹痛发现后厨百只蟑螂",
+      "onboard_time": 1723169960,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 407258,
@@ -9299,6 +9347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 322314,
+      "num": 322314,
+      "word": "石智勇赛后已经无法正常走路",
+      "onboard_time": 1723170260,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 321734,
       "num": 321734,
       "word": "Queenwen的时代来了",
@@ -10115,6 +10171,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 292429,
+      "num": 292429,
+      "word": "纸嫁衣7",
+      "onboard_time": 1723169061,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 291954,
       "num": 685158,
       "word": "没有观察室的恋综",
@@ -10281,6 +10345,14 @@
       "onboard_time": 1722997641,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 284673,
+      "num": 284673,
+      "word": "张本智和社媒发哭泣表情",
+      "onboard_time": 1723167501,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 284625,
@@ -10625,6 +10697,14 @@
       "onboard_time": 1722856583,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 274507,
+      "num": 274507,
+      "word": "樊振东 拼东东式打法",
+      "onboard_time": 1723168582,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 274176,
@@ -12131,6 +12211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 223842,
+      "num": 255512,
+      "word": "港媒在林峯面前cue吴千语",
+      "onboard_time": 1723171040,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223645,
       "num": 284081,
       "word": "暑假的泰山已被e人占领",
@@ -12169,6 +12257,14 @@
       "onboard_time": 1723130604,
       "rank": 43,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 222471,
+      "num": 222471,
+      "word": "石智勇致歉",
+      "onboard_time": 1723170440,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 222419,
@@ -12507,12 +12603,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211984,
+      "num": 209544,
+      "word": "谢思埸奥运会后办婚礼",
+      "onboard_time": 1723168401,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211938,
       "num": 358220,
       "word": "佟丽娅生日会仪式感拉满",
       "onboard_time": 1723122624,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211930,
+      "num": 211930,
+      "word": "以色列",
+      "onboard_time": 1723167322,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 211859,
@@ -12915,14 +13027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 205275,
-      "num": 205275,
-      "word": "马龙带着嘻嘻哈哈接受采访",
-      "onboard_time": 1723167802,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 204945,
       "num": 467795,
       "word": "英国大骚乱因为什么发生的",
@@ -12984,14 +13088,6 @@
       "word": "美放行阳性存疑选手",
       "onboard_time": 1723091064,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 203675,
-      "num": 203675,
-      "word": "中国霹雳舞选手奥运首秀",
-      "onboard_time": 1723167141,
-      "rank": 38,
       "category": "体育"
     },
     {
@@ -13120,14 +13216,6 @@
       "word": "游泳颁奖",
       "onboard_time": 1722798733,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 200907,
-      "num": 200907,
-      "word": "张本智和社媒发哭泣表情",
-      "onboard_time": 1723167501,
-      "rank": 40,
       "category": "体育"
     },
     {
@@ -13483,6 +13571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193922,
+      "num": 193922,
+      "word": "孙颖莎童年照太可爱了",
+      "onboard_time": 1723171160,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193721,
       "num": 193721,
       "word": "XG成都演唱会抢票",
@@ -13617,6 +13713,14 @@
       "onboard_time": 1722867631,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 190819,
+      "num": 190819,
+      "word": "吴艳妮谈教练患病泪崩",
+      "onboard_time": 1723166182,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 190770,
@@ -14091,6 +14195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178762,
+      "num": 629150,
+      "word": "以色列同意恢复加沙停火谈判",
+      "onboard_time": 1723168160,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 178678,
       "num": 178678,
       "word": "张博恒减肚子秘诀让人意想不到",
@@ -14129,6 +14241,14 @@
       "onboard_time": 1722726379,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177281,
+      "num": 285995,
+      "word": "私藏浪漫好甜",
+      "onboard_time": 1723167201,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 177248,
@@ -14209,6 +14329,14 @@
       "onboard_time": 1722857184,
       "rank": 46,
       "category": "社会新闻,科学科普"
+    },
+    {
+      "raw_hot": 174764,
+      "num": 174764,
+      "word": "俄女棋手在棋盘涂水银毒晕对手",
+      "onboard_time": 1723170021,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174691,
@@ -14939,14 +15067,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 146068,
-      "num": 245046,
-      "word": "私藏浪漫好甜",
-      "onboard_time": 1723167201,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 145828,
       "num": 402482,
       "word": "王源直拍全场大合唱",
@@ -15337,14 +15457,6 @@
       "onboard_time": 1722830423,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 119951,
-      "num": 176577,
-      "word": "以色列",
-      "onboard_time": 1723167322,
-      "rank": 49,
-      "category": "国外时政"
     },
     {
       "raw_hot": 119944,
@@ -17019,6 +17131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45325,
+      "num": 638763,
+      "word": "特朗普和哈里斯同意9月10日辩论",
+      "onboard_time": 1723170620,
+      "rank": 8,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 45295,
       "num": 380711,
       "word": "华为novaFlip搭载玄武水滴铰链",
@@ -17644,7 +17764,7 @@
     },
     {
       "raw_hot": 21477,
-      "num": 282360,
+      "num": 1620921,
       "word": "塞上江南写新篇",
       "onboard_time": 1723121305,
       "rank": 36,
@@ -17656,6 +17776,14 @@
       "word": "中国摔跤首枚奖牌",
       "onboard_time": 1722987080,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 20916,
+      "num": 225587,
+      "word": "殷若宁挑战自己超越自己",
+      "onboard_time": 1723169542,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -17799,6 +17927,14 @@
       "num": 502368,
       "word": "国乒女团首秀光速下班",
       "onboard_time": 1722868529,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 5947,
+      "num": 590740,
+      "word": "殷若宁单日排名第一",
+      "onboard_time": 1723171160,
       "rank": 14,
       "category": "体育"
     }
