@@ -1,0 +1,410 @@
+{
+  "runTime": 1723224951402,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2031181,
+        "num": 2031181,
+        "word": "瑞典队摔拍子",
+        "onboard_time": 1723214921,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1745553,
+        "num": 1745553,
+        "word": "樊振东这个极限救球太牛了",
+        "onboard_time": 1723220187,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40116,
+        "num": 1580150,
+        "word": "天宫空间站运动会也太会整活了",
+        "onboard_time": 1723207344,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1527509,
+        "num": 1527509,
+        "word": "跳水三米板颁奖太可爱了",
+        "onboard_time": 1723220247,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 943820,
+        "num": 943820,
+        "word": "许昕还是你敢说",
+        "onboard_time": 1723219166,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 887328,
+        "num": 887328,
+        "word": "马龙说只要心怀热爱就永远是当打之年",
+        "onboard_time": 1723221801,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 430121,
+        "num": 430121,
+        "word": "娜扎 我在乎",
+        "onboard_time": 1723218756,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 810620,
+        "num": 429317,
+        "word": "马龙樊振东王楚钦金牌",
+        "onboard_time": 1723220723,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149296,
+        "num": 419038,
+        "word": "马龙中国奥运金牌榜第一位",
+        "onboard_time": 1723224078,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180095,
+        "num": 404270,
+        "word": "巴黎奥运女子铅球决赛",
+        "onboard_time": 1723223779,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 877442,
+        "num": 387278,
+        "word": "马龙奥运6冠王",
+        "onboard_time": 1723218285,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132957,
+        "num": 375985,
+        "word": "居民吐槽回家开门还得看广告",
+        "onboard_time": 1723223179,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375094,
+        "num": 375094,
+        "word": "七夕",
+        "onboard_time": 1723219949,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17607,
+        "num": 358970,
+        "word": "中国男子4×100接力决赛",
+        "onboard_time": 1723224617,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 358052,
+        "num": 358052,
+        "word": "网店挂错价格被疯抢价值2亿元产品",
+        "onboard_time": 1723208423,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1582617,
+        "num": 357108,
+        "word": "第一次觉得孙俪的表演痕迹重",
+        "onboard_time": 1723220603,
+        "rank": 15,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 757435,
+        "num": 356166,
+        "word": "国乒男团金牌",
+        "onboard_time": 1723217918,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 733913,
+        "num": 355473,
+        "word": "摆短",
+        "onboard_time": 1723211855,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169069,
+        "num": 354217,
+        "word": "曝赵露思和彭冠英将合作流鱼",
+        "onboard_time": 1723216836,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164616,
+        "num": 352913,
+        "word": "张杰一生有爱何惧风雨",
+        "onboard_time": 1723220425,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 647729,
+        "num": 352184,
+        "word": "小莫心态",
+        "onboard_time": 1723214921,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181591,
+        "num": 351152,
+        "word": "韩安冉是自己报名参加变形计",
+        "onboard_time": 1723203025,
+        "rank": 21,
+        "category": "综艺,网红"
+      },
+      {
+        "raw_hot": 574032,
+        "num": 349756,
+        "word": "王子露艺术体操全能第7",
+        "onboard_time": 1723218756,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 566951,
+        "num": 348522,
+        "word": "国乒男团vs瑞典",
+        "onboard_time": 1723206564,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 544229,
+        "num": 347769,
+        "word": "王楚钦vs卡尔森",
+        "onboard_time": 1723215332,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 520312,
+        "num": 346430,
+        "word": "王楚钦 拧拉的神",
+        "onboard_time": 1723210766,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 478871,
+        "num": 345735,
+        "word": "刘清漪首轮胜美国选手",
+        "onboard_time": 1723218108,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261206,
+        "num": 343548,
+        "word": "王丽坤老公承认嫖娼花费数百万元",
+        "onboard_time": 1723195105,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141816,
+        "num": 343352,
+        "word": "梁洁 你上过春晚吗",
+        "onboard_time": 1723218756,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135345,
+        "num": 342353,
+        "word": "景甜以为漏勺是勺子漏了",
+        "onboard_time": 1723221922,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 465903,
+        "num": 340763,
+        "word": "张继科祝贺马龙再次卫冕",
+        "onboard_time": 1723224498,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 452999,
+        "num": 339310,
+        "word": "啥质量过马龙正手",
+        "onboard_time": 1723211740,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156013,
+        "num": 338091,
+        "word": "李雪琴在十天被孤立",
+        "onboard_time": 1723195042,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130873,
+        "num": 337596,
+        "word": "韩安冉要起诉妈妈",
+        "onboard_time": 1723181120,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 107377,
+        "num": 336568,
+        "word": "松岛正平出道",
+        "onboard_time": 1723222821,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365844,
+        "num": 335266,
+        "word": "樊振东双杀莫雷加德",
+        "onboard_time": 1723215037,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 365301,
+        "num": 334586,
+        "word": "霹雳舞比赛好看",
+        "onboard_time": 1723214429,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333494,
+        "num": 333494,
+        "word": "樊振东vs莫雷加德",
+        "onboard_time": 1723212270,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 331519,
+        "num": 331519,
+        "word": "王楚钦说奥运会太漫长了",
+        "onboard_time": 1723224856,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 329586,
+        "num": 329586,
+        "word": "鞍山小马当打之年",
+        "onboard_time": 1723216469,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99003,
+        "num": 327463,
+        "word": "韩安冉",
+        "onboard_time": 1723202786,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 96007,
+        "num": 323170,
+        "word": "黄景瑜 爱心还给我",
+        "onboard_time": 1723220723,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106008,
+        "num": 320324,
+        "word": "中国第32金",
+        "onboard_time": 1723219345,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94192,
+        "num": 315095,
+        "word": "蔡依林上海演唱会",
+        "onboard_time": 1723221144,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86681,
+        "num": 311999,
+        "word": "闵玧其或将被判有期徒刑",
+        "onboard_time": 1723216350,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86259,
+        "num": 308831,
+        "word": "他一下就亲到了我的上巴",
+        "onboard_time": 1723196484,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85414,
+        "num": 307253,
+        "word": "薛之谦哭了",
+        "onboard_time": 1723205423,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85029,
+        "num": 300882,
+        "word": "9岁女孩被老师用尺子砸成重伤二级",
+        "onboard_time": 1723212032,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79876,
+        "num": 297184,
+        "word": "许凯看张杰演唱会",
+        "onboard_time": 1723206024,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 69700,
+        "num": 295668,
+        "word": "虞书欣蓝花高定裙",
+        "onboard_time": 1723224617,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻文化根魂#"
+    }
+  }
+}
