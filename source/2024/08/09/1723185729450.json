@@ -1,0 +1,410 @@
+{
+  "runTime": 1723185729450,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2727245,
+        "num": 2727245,
+        "word": "韩安冉要起诉妈妈",
+        "onboard_time": 1723181120,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1846292,
+        "num": 1846292,
+        "word": "校方回应研究生午休在工作室打游戏被重罚",
+        "onboard_time": 1723181120,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272700,
+        "num": 1705707,
+        "word": "遏制体育饭圈乱象刻不容缓",
+        "onboard_time": 1723176982,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1593235,
+        "num": 1593235,
+        "word": "秋风遗体正在送往老家",
+        "onboard_time": 1723178603,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 933162,
+        "num": 933162,
+        "word": "被撕毁硕士学位证无法补办",
+        "onboard_time": 1723175603,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 810790,
+        "num": 810790,
+        "word": "奥运会收视率",
+        "onboard_time": 1723179502,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 891341,
+        "num": 809995,
+        "word": "曝王丽坤老公与贾青亲密合照",
+        "onboard_time": 1723176502,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 652823,
+        "num": 807820,
+        "word": "乌军千人部队突然攻入俄领土",
+        "onboard_time": 1723175904,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 338610,
+        "num": 806400,
+        "word": "马拉松游泳10公里",
+        "onboard_time": 1723184542,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 745380,
+        "num": 804449,
+        "word": "女子留闺蜜在家住3天丢了60克金首饰",
+        "onboard_time": 1723178243,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 804069,
+        "num": 804069,
+        "word": "王楚钦打球把龙指导忙够呛",
+        "onboard_time": 1723177642,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 651457,
+        "num": 651457,
+        "word": "樊振东 毛巾掉毛不行咱换一条呢",
+        "onboard_time": 1723179382,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 630645,
+        "num": 630645,
+        "word": "21岁少林武僧秋风去世",
+        "onboard_time": 1723169121,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 594296,
+        "num": 594296,
+        "word": "奥运会被禁止的体操动作",
+        "onboard_time": 1723171823,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 530688,
+        "num": 530688,
+        "word": "怎么有男主刚结婚就守寡",
+        "onboard_time": 1723181243,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 520584,
+        "num": 520584,
+        "word": "偶遇王迅合影 跟我一样难看",
+        "onboard_time": 1723182741,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465303,
+        "num": 465303,
+        "word": "乘客付98元网约车司机只收到52元",
+        "onboard_time": 1723182920,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420717,
+        "num": 420717,
+        "word": "陈梦早期的短发照片",
+        "onboard_time": 1723172421,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 371935,
+        "num": 371935,
+        "word": "唐诡刚走江诡来了",
+        "onboard_time": 1723176923,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165117,
+        "num": 361459,
+        "word": "徐峥新片逆行人生口碑",
+        "onboard_time": 1723184241,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 774143,
+        "num": 361138,
+        "word": "为啥感觉月薪过万很普遍了",
+        "onboard_time": 1723172003,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 359183,
+        "num": 359183,
+        "word": "张雨霏巴黎带回的被子是江苏产的",
+        "onboard_time": 1723182021,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339527,
+        "num": 339527,
+        "word": "张本智和念自己名字好认真",
+        "onboard_time": 1723181961,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 331333,
+        "num": 331333,
+        "word": "谁来救救古茗员工",
+        "onboard_time": 1723184480,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 327299,
+        "num": 327299,
+        "word": "俄女棋手在棋盘涂水银毒晕对手",
+        "onboard_time": 1723170021,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299148,
+        "num": 299148,
+        "word": "美和哥 智和妹",
+        "onboard_time": 1723176142,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33030,
+        "num": 290631,
+        "word": "猫猫卡集结倒计时",
+        "onboard_time": 1723182021,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282316,
+        "num": 282316,
+        "word": "地球生命支持系统正接近全面崩溃",
+        "onboard_time": 1723180821,
+        "rank": 27,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 277847,
+        "num": 277847,
+        "word": "陈都灵我再救你一次",
+        "onboard_time": 1723180341,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261812,
+        "num": 261812,
+        "word": "石智勇赛后已经无法正常走路",
+        "onboard_time": 1723170260,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255000,
+        "num": 255000,
+        "word": "因桥本甲状腺炎被拒2人起诉招聘单位",
+        "onboard_time": 1723183221,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242394,
+        "num": 242394,
+        "word": "调查韩国总统夫人的反腐官员身亡",
+        "onboard_time": 1723172842,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 238581,
+        "num": 238581,
+        "word": "上海便利店癫成了我想要的样子",
+        "onboard_time": 1723182382,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 236396,
+        "num": 236396,
+        "word": "女子吃外卖腹痛发现后厨百只蟑螂",
+        "onboard_time": 1723169960,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231774,
+        "num": 231774,
+        "word": "F勒布伦新头像",
+        "onboard_time": 1723171460,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222641,
+        "num": 222641,
+        "word": "秋风",
+        "onboard_time": 1723184601,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 220327,
+        "num": 220327,
+        "word": "梁伟铿 猪猪侠",
+        "onboard_time": 1723185502,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218875,
+        "num": 218875,
+        "word": "美国家民主基金会是美政府的白手套",
+        "onboard_time": 1723181602,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 218650,
+        "num": 218650,
+        "word": "张晚意说王楚然发誓像金刚狼",
+        "onboard_time": 1723183881,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215272,
+        "num": 215272,
+        "word": "1.05亿观众见证樊振东夺冠",
+        "onboard_time": 1723185202,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212303,
+        "num": 212303,
+        "word": "尤长靖首谈偶练出道后消失了",
+        "onboard_time": 1723183460,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211485,
+        "num": 211485,
+        "word": "石川佳纯给马龙送pin",
+        "onboard_time": 1723185620,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208546,
+        "num": 208546,
+        "word": "高合申请破产",
+        "onboard_time": 1723178843,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 207200,
+        "num": 207200,
+        "word": "郭晶晶谈考国际泳联裁判",
+        "onboard_time": 1723183761,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201721,
+        "num": 201721,
+        "word": "让小狗反省 结果睡着了",
+        "onboard_time": 1723184840,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199625,
+        "num": 199625,
+        "word": "迪丽热巴腰身比",
+        "onboard_time": 1723172063,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198938,
+        "num": 198938,
+        "word": "女子要买18万黄金店长果断报警",
+        "onboard_time": 1723140253,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198338,
+        "num": 198338,
+        "word": "王楚钦孙颖莎11比1",
+        "onboard_time": 1723160602,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193887,
+        "num": 193887,
+        "word": "张云龙参加的是脑综还是种地吧",
+        "onboard_time": 1723185681,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184297,
+        "num": 184297,
+        "word": "奥运冠军潘展乐现身上海理发店",
+        "onboard_time": 1723185321,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革为人民#"
+    }
+  }
+}
