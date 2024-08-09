@@ -1,6 +1,6 @@
 {
   "startTime": 1722702313981,
-  "endTime": 1723231044089,
+  "endTime": 1723232113370,
   "band_list": [
     {
       "raw_hot": 35169209,
@@ -5987,6 +5987,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 723149,
+      "num": 723149,
+      "word": "中国女曲vs荷兰女曲",
+      "onboard_time": 1723227016,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 722696,
       "num": 722696,
       "word": "潘展乐搓手等金牌",
@@ -6913,14 +6921,6 @@
       "onboard_time": 1723104925,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 594842,
-      "num": 594842,
-      "word": "中国女曲vs荷兰女曲",
-      "onboard_time": 1723227016,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 594607,
@@ -15739,6 +15739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197153,
+      "num": 402476,
+      "word": "刘清漪霹雳舞铜牌",
+      "onboard_time": 1723231872,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197142,
       "num": 363040,
       "word": "今夕赫夕",
@@ -15857,6 +15865,14 @@
       "onboard_time": 1722766164,
       "rank": 47,
       "category": "美食,科学科普"
+    },
+    {
+      "raw_hot": 195777,
+      "num": 195777,
+      "word": "樊振东发霉霉的歌庆祝男团夺冠",
+      "onboard_time": 1723229653,
+      "rank": 42,
+      "category": "体育,音乐"
     },
     {
       "raw_hot": 195717,
@@ -17163,14 +17179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 166821,
-      "num": 166821,
-      "word": "樊振东发霉霉的歌庆祝男团夺冠",
-      "onboard_time": 1723229653,
-      "rank": 42,
-      "category": "体育,音乐"
-    },
-    {
       "raw_hot": 166036,
       "num": 275163,
       "word": "白鹿杀青和粉丝合拍",
@@ -17931,6 +17939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129847,
+      "num": 404544,
+      "word": "被霹雳舞battle帅到了",
+      "onboard_time": 1723231692,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129678,
       "num": 129678,
       "word": "爷爷准备了8只羊陪乐乐解压",
@@ -18665,6 +18681,14 @@
       "onboard_time": 1723125084,
       "rank": 14,
       "category": "科学科普,体育"
+    },
+    {
+      "raw_hot": 89301,
+      "num": 393394,
+      "word": "刘清漪出战铜牌赛",
+      "onboard_time": 1723231273,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 89289,
@@ -20331,6 +20355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35156,
+      "num": 393500,
+      "word": "王柳懿王芊懿技术自选排名第一",
+      "onboard_time": 1723231453,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35128,
       "num": 491704,
       "word": "李政道先生的入学履历表",
@@ -20393,6 +20425,14 @@
       "onboard_time": 1723024829,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33475,
+      "num": 136349,
+      "word": "肆意天气",
+      "onboard_time": 1723231692,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 32958,
