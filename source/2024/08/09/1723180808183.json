@@ -1,0 +1,410 @@
+{
+  "runTime": 1723180808183,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2016105,
+        "num": 2016105,
+        "word": "21岁少林武僧秋风去世",
+        "onboard_time": 1723169121,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1895881,
+        "num": 1895881,
+        "word": "被撕毁硕士学位证无法补办",
+        "onboard_time": 1723175603,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407375,
+        "num": 1779743,
+        "word": "遏制体育饭圈乱象刻不容缓",
+        "onboard_time": 1723176982,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1934683,
+        "num": 1740660,
+        "word": "曝王丽坤老公与贾青亲密合照",
+        "onboard_time": 1723176502,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1690769,
+        "num": 1690769,
+        "word": "奥运会被禁止的体操动作",
+        "onboard_time": 1723171823,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1195501,
+        "num": 1195501,
+        "word": "美和哥 智和妹",
+        "onboard_time": 1723176142,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1173894,
+        "num": 1173894,
+        "word": "秋风遗体正在送往老家",
+        "onboard_time": 1723178603,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 976494,
+        "num": 1119314,
+        "word": "乌军千人部队突然攻入俄领土",
+        "onboard_time": 1723175904,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 798124,
+        "num": 1107174,
+        "word": "唐诡刚走江诡来了",
+        "onboard_time": 1723176923,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71323,
+        "num": 1106364,
+        "word": "3000元的东南亚夏令营挤满中国孩子",
+        "onboard_time": 1723179622,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1106243,
+        "num": 1106243,
+        "word": "陈梦早期的短发照片",
+        "onboard_time": 1723172421,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 736173,
+        "num": 736173,
+        "word": "王楚钦孙颖莎11比1",
+        "onboard_time": 1723160602,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 696224,
+        "num": 696224,
+        "word": "俄女棋手在棋盘涂水银毒晕对手",
+        "onboard_time": 1723170021,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604606,
+        "num": 604606,
+        "word": "石智勇赛后已经无法正常走路",
+        "onboard_time": 1723170260,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69636,
+        "num": 602672,
+        "word": "常园 中国有女子拳击奥运冠军了",
+        "onboard_time": 1723180163,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 443252,
+        "num": 602100,
+        "word": "迪丽热巴腰身比",
+        "onboard_time": 1723172063,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352054,
+        "num": 598119,
+        "word": "伊能静庾澄庆同框祝福恩利初舞台",
+        "onboard_time": 1723164741,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 329657,
+        "num": 594883,
+        "word": "这居然是宋小宝",
+        "onboard_time": 1723171341,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 594700,
+        "num": 594700,
+        "word": "调查韩国总统夫人的反腐官员身亡",
+        "onboard_time": 1723172842,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 108814,
+        "num": 560600,
+        "word": "家昱户筱恋情局部曝光",
+        "onboard_time": 1723180222,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1339936,
+        "num": 560262,
+        "word": "为啥感觉月薪过万很普遍了",
+        "onboard_time": 1723172003,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 558099,
+        "num": 558099,
+        "word": "女子留闺蜜在家住3天丢了60克金首饰",
+        "onboard_time": 1723178243,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535789,
+        "num": 535789,
+        "word": "女子吃外卖腹痛发现后厨百只蟑螂",
+        "onboard_time": 1723169960,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505436,
+        "num": 505436,
+        "word": "女子要买18万黄金店长果断报警",
+        "onboard_time": 1723140253,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495544,
+        "num": 495544,
+        "word": "王楚钦打球把龙指导忙够呛",
+        "onboard_time": 1723177642,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62155,
+        "num": 495523,
+        "word": "致敬365天乒乒乓乓的日常",
+        "onboard_time": 1723179983,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306934,
+        "num": 494521,
+        "word": "陈都灵我再救你一次",
+        "onboard_time": 1723180341,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302874,
+        "num": 493212,
+        "word": "迪丽热巴皇冠公主裙",
+        "onboard_time": 1723179203,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 295428,
+        "num": 492503,
+        "word": "徐海乔年龄参与满40减20",
+        "onboard_time": 1723175904,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242500,
+        "num": 491658,
+        "word": "中国霹雳舞选手奥运首秀",
+        "onboard_time": 1723167141,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 491514,
+        "num": 491514,
+        "word": "F勒布伦新头像",
+        "onboard_time": 1723171460,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 440211,
+        "num": 440211,
+        "word": "年轻人也不想在垃圾袋上花钱了",
+        "onboard_time": 1723174882,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 406177,
+        "num": 406177,
+        "word": "高合申请破产",
+        "onboard_time": 1723178843,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 402730,
+        "num": 402730,
+        "word": "刘翔 再看一次还是会眼红",
+        "onboard_time": 1723173683,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 345917,
+        "num": 345917,
+        "word": "马龙带着嘻嘻哈哈接受采访",
+        "onboard_time": 1723167802,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330387,
+        "num": 330387,
+        "word": "孙颖莎奥运全勤",
+        "onboard_time": 1723176804,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293171,
+        "num": 293171,
+        "word": "古茗 盗墓笔记",
+        "onboard_time": 1723179563,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 40952,
+        "num": 265838,
+        "word": "终于等到刘亦菲直播了",
+        "onboard_time": 1723179922,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265575,
+        "num": 265575,
+        "word": "王鹤棣自曝经常红温",
+        "onboard_time": 1723178724,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287117,
+        "num": 265379,
+        "word": "王楚钦五步放球拍法",
+        "onboard_time": 1723178303,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265053,
+        "num": 265053,
+        "word": "郑钦文已注册QueenWen商标",
+        "onboard_time": 1723177403,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255428,
+        "num": 255428,
+        "word": "逆水寒手游剧情",
+        "onboard_time": 1723179863,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 254423,
+        "num": 254423,
+        "word": "迪丽热巴陈星旭下一站再相逢",
+        "onboard_time": 1723177101,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252965,
+        "num": 252965,
+        "word": "全红婵 我想要自由",
+        "onboard_time": 1723173502,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252698,
+        "num": 252698,
+        "word": "奥运没结束郑钦文又练起来了",
+        "onboard_time": 1723172601,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239763,
+        "num": 239763,
+        "word": "警方通报14岁女孩被人殴打后跳桥",
+        "onboard_time": 1723174103,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233505,
+        "num": 233505,
+        "word": "在国外一眼认出是中国人的车",
+        "onboard_time": 1723179863,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228204,
+        "num": 228204,
+        "word": "方力申一辈子活出我三辈子",
+        "onboard_time": 1723177703,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224447,
+        "num": 224447,
+        "word": "奥运会收视率",
+        "onboard_time": 1723179502,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221898,
+        "num": 221898,
+        "word": "神秘东方力量净化塞纳河",
+        "onboard_time": 1723179683,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革为人民#"
+    }
+  }
+}
