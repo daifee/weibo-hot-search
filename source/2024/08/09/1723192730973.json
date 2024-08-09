@@ -1,0 +1,410 @@
+{
+  "runTime": 1723192730973,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3842902,
+        "num": 3842902,
+        "word": "宁波港回应爆炸",
+        "onboard_time": 1723189044,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1418155,
+        "num": 1418155,
+        "word": "宁波海事局通报集装箱燃爆事故",
+        "onboard_time": 1723190723,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288170,
+        "num": 1398739,
+        "word": "遏制体育饭圈乱象刻不容缓",
+        "onboard_time": 1723176982,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1396912,
+        "num": 1396912,
+        "word": "日本男团vs法国男团",
+        "onboard_time": 1723189824,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1362870,
+        "num": 1362870,
+        "word": "石川佳纯给马龙送pin",
+        "onboard_time": 1723185620,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1184701,
+        "num": 1184701,
+        "word": "韩安冉被妈妈继父遗弃虐待",
+        "onboard_time": 1723186821,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1098101,
+        "num": 1098101,
+        "word": "王昶 从此不敢看观音",
+        "onboard_time": 1723186702,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1023455,
+        "num": 1023455,
+        "word": "韩安冉要起诉妈妈",
+        "onboard_time": 1723181120,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 290952,
+        "num": 955743,
+        "word": "张本智和队友 菜",
+        "onboard_time": 1723192281,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 577511,
+        "num": 921142,
+        "word": "浙江宁波舟山港一货轮集装箱爆炸",
+        "onboard_time": 1723188203,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7484389,
+        "num": 917642,
+        "word": "宁波爆炸",
+        "onboard_time": 1723185922,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 913744,
+        "num": 913744,
+        "word": "秋风遗体正在送往老家",
+        "onboard_time": 1723178603,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 799077,
+        "num": 799077,
+        "word": "吴艳妮发文告别奥运",
+        "onboard_time": 1723188382,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75519,
+        "num": 769797,
+        "word": "熊敦瀚回应澳洲对手吐槽被挠伤",
+        "onboard_time": 1723191803,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78015,
+        "num": 760351,
+        "word": "饿了么挺银牌铜牌选手发免单",
+        "onboard_time": 1723190424,
+        "rank": 14,
+        "category": "互联网,体育"
+      },
+      {
+        "raw_hot": 759567,
+        "num": 759567,
+        "word": "乒乓球男团铜牌赛",
+        "onboard_time": 1723190604,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 685863,
+        "num": 685863,
+        "word": "曝王丽坤老公与贾青亲密合照",
+        "onboard_time": 1723176502,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 656096,
+        "num": 656096,
+        "word": "小夫妻原型是傅首尔老刘吧",
+        "onboard_time": 1723189223,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 441874,
+        "num": 628672,
+        "word": "于文文新歌上线7分钟被迫改名",
+        "onboard_time": 1723187241,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 437628,
+        "num": 626552,
+        "word": "素人晒和赵露思合影",
+        "onboard_time": 1723187302,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 626104,
+        "num": 626104,
+        "word": "顾客称爱马仕橙沙发到家变棕色",
+        "onboard_time": 1723187421,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 574024,
+        "num": 574024,
+        "word": "校方回应研究生午休在工作室打游戏被重罚",
+        "onboard_time": 1723181120,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24680,
+        "num": 538045,
+        "word": "林更新的通话好搭子",
+        "onboard_time": 1723189824,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 527732,
+        "num": 527732,
+        "word": "为啥感觉月薪过万很普遍了",
+        "onboard_time": 1723172003,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 496216,
+        "num": 496216,
+        "word": "博主称薅运费险羊毛一天赚两三千",
+        "onboard_time": 1723188023,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443857,
+        "num": 443857,
+        "word": "师兄称武僧秋风系去浙江公益演出",
+        "onboard_time": 1723189403,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385446,
+        "num": 385446,
+        "word": "乘客付98元网约车司机只收到52元",
+        "onboard_time": 1723182920,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383606,
+        "num": 383606,
+        "word": "张博恒右手只能用4根手指握杠",
+        "onboard_time": 1723191085,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 360002,
+        "num": 360002,
+        "word": "印度想争夺2036年奥运主办权",
+        "onboard_time": 1723188744,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293448,
+        "num": 347838,
+        "word": "应采儿晒与陈小春亲吻照",
+        "onboard_time": 1723190904,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342846,
+        "num": 342846,
+        "word": "为什么虐女镜头令人不适且毫无意义",
+        "onboard_time": 1723186162,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 340706,
+        "num": 340706,
+        "word": "王楚钦 从不服输的小孩哥",
+        "onboard_time": 1723192402,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32832,
+        "num": 310897,
+        "word": "全新极氪009有多好开",
+        "onboard_time": 1723188984,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 293085,
+        "num": 293085,
+        "word": "21岁少林武僧秋风去世",
+        "onboard_time": 1723169121,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 271533,
+        "num": 271533,
+        "word": "男子单人十米台预赛",
+        "onboard_time": 1723189944,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35505,
+        "num": 270265,
+        "word": "能进博物馆的花有多好看",
+        "onboard_time": 1723192461,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 270173,
+        "num": 270173,
+        "word": "被撕毁硕士学位证无法补办",
+        "onboard_time": 1723175603,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255467,
+        "num": 255467,
+        "word": "Jennie穿了想见你校服",
+        "onboard_time": 1723188322,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 249779,
+        "num": 249779,
+        "word": "石川中文采访吓孙颖莎一跳",
+        "onboard_time": 1723192341,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249227,
+        "num": 249227,
+        "word": "宁波一货轮集装箱燃爆无人员伤亡",
+        "onboard_time": 1723191921,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247742,
+        "num": 247742,
+        "word": "纸嫁衣7上线",
+        "onboard_time": 1723191622,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 242897,
+        "num": 242897,
+        "word": "马龙退役后得留一本采访指南",
+        "onboard_time": 1723191981,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236636,
+        "num": 236636,
+        "word": "奥运会收视率",
+        "onboard_time": 1723179502,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232463,
+        "num": 232463,
+        "word": "樊振东 毛巾掉毛不行咱换一条呢",
+        "onboard_time": 1723179382,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215806,
+        "num": 215806,
+        "word": "巴黎奥运中国还有10余个项目可冲金",
+        "onboard_time": 1723191981,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212351,
+        "num": 212351,
+        "word": "奖牌掉漆",
+        "onboard_time": 1723192461,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209032,
+        "num": 209032,
+        "word": "羽坛王母梁梁",
+        "onboard_time": 1723192281,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208817,
+        "num": 208817,
+        "word": "女子留闺蜜在家住3天丢了60克金首饰",
+        "onboard_time": 1723178243,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203735,
+        "num": 203735,
+        "word": "外国运动员告状被中国女将回击",
+        "onboard_time": 1723190843,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196470,
+        "num": 196470,
+        "word": "民政部调查网传儿慈会相关问题",
+        "onboard_time": 1723187661,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻文化根魂#"
+    }
+  }
+}
