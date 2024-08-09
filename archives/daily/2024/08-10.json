@@ -1,6 +1,6 @@
 {
   "startTime": 1723220716442,
-  "endTime": 1723245586787,
+  "endTime": 1723246498280,
   "band_list": [
     {
       "raw_hot": 10626785,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 2412023,
-      "num": 395768,
+      "num": 2399188,
       "word": "马龙和王楚钦看樊振东追星的样子",
       "onboard_time": 1723232231,
       "rank": 10,
@@ -259,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 793343,
+      "num": 521902,
+      "word": "王楚钦单打只想不输外战",
+      "onboard_time": 1723234212,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 772883,
       "num": 697681,
       "word": "陈艺文跳水金牌",
@@ -273,14 +281,6 @@
       "onboard_time": 1723216290,
       "rank": 40,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 733575,
-      "num": 182423,
-      "word": "王楚钦单打只想不输外战",
-      "onboard_time": 1723234212,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 723149,
@@ -347,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 519600,
+      "num": 670777,
+      "word": "再考清华当事人未被任何学校录取",
+      "onboard_time": 1723225756,
+      "rank": 10,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 517710,
       "num": 517710,
       "word": "杨柳拳击银牌",
@@ -387,14 +395,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 408586,
-      "num": 670777,
-      "word": "再考清华当事人未被任何学校录取",
-      "onboard_time": 1723225756,
-      "rank": 10,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 397035,
       "num": 454855,
       "word": "巴黎奥运女子铅球决赛",
@@ -425,6 +425,14 @@
       "onboard_time": 1723216836,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 371106,
+      "num": 663076,
+      "word": "不是黄子韬你还真会跳水啊",
+      "onboard_time": 1723227016,
+      "rank": 24,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 368141,
@@ -467,20 +475,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 320258,
+      "num": 412034,
+      "word": "美方称对以色列财长言论感到震惊",
+      "onboard_time": 1723241594,
+      "rank": 46,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 311096,
       "num": 3360210,
       "word": "9岁女孩被老师用尺子砸成重伤二级",
       "onboard_time": 1723212032,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 295324,
-      "num": 663076,
-      "word": "不是黄子韬你还真会跳水啊",
-      "onboard_time": 1723227016,
-      "rank": 24,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 292076,
@@ -491,20 +499,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 285601,
+      "num": 177793,
+      "word": "10个教练没教会陈芋汐游泳",
+      "onboard_time": 1723243814,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 282056,
+      "num": 176234,
+      "word": "张本智和 贾宝玉出狱",
+      "onboard_time": 1723243814,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 276161,
       "num": 276161,
       "word": "中国男子4x100米接力第七",
       "onboard_time": 1723226536,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 273241,
-      "num": 412034,
-      "word": "美方称对以色列财长言论感到震惊",
-      "onboard_time": 1723241594,
-      "rank": 46,
-      "category": "国外时政"
     },
     {
       "raw_hot": 268488,
@@ -563,14 +579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 233340,
-      "num": 135515,
-      "word": "10个教练没教会陈芋汐游泳",
-      "onboard_time": 1723243814,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 231688,
       "num": 220330,
       "word": "樊振东打球全台无死角",
@@ -587,12 +595,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213010,
+      "num": 213010,
+      "word": "鹿晗直播",
+      "onboard_time": 1723245798,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205726,
       "num": 450861,
       "word": "松岛正平出道",
       "onboard_time": 1723222821,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203988,
+      "num": 157638,
+      "word": "跟马龙坐到了同一架飞机",
+      "onboard_time": 1723245859,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 202888,
@@ -633,6 +657,14 @@
       "onboard_time": 1723176502,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188835,
+      "num": 157508,
+      "word": "王楚钦半决赛时脚崴了",
+      "onboard_time": 1723246398,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 185774,
@@ -683,14 +715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 180135,
-      "num": 125671,
-      "word": "张本智和 贾宝玉出狱",
-      "onboard_time": 1723243814,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 178392,
       "num": 404544,
       "word": "被霹雳舞battle帅到了",
@@ -731,6 +755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157283,
+      "num": 157283,
+      "word": "王楚钦一上网天塌了",
+      "onboard_time": 1723246398,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149296,
       "num": 419038,
       "word": "马龙中国奥运金牌榜第一位",
@@ -755,6 +787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117032,
+      "num": 146709,
+      "word": "ATM存款未到账急用钱银行建议贷款",
+      "onboard_time": 1723246098,
+      "rank": 47,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 113416,
       "num": 718555,
       "word": "中国拳击一夜新添1金1银",
@@ -769,6 +809,14 @@
       "onboard_time": 1723229713,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101453,
+      "num": 180177,
+      "word": "小夫妻3人聊天4人尴尬",
+      "onboard_time": 1723244416,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 94156,
@@ -819,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75256,
+      "num": 145719,
+      "word": "梁洁 我感觉幸福离我很远",
+      "onboard_time": 1723244838,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 72428,
       "num": 174167,
       "word": "车祸后民警变身话痨抢回一条命",
@@ -833,14 +889,6 @@
       "onboard_time": 1723224617,
       "rank": 49,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 67322,
-      "num": 131289,
-      "word": "小夫妻3人聊天4人尴尬",
-      "onboard_time": 1723244416,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 65945,
@@ -865,6 +913,14 @@
       "onboard_time": 1723229354,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49775,
+      "num": 560824,
+      "word": "弟弟拉着姐姐到派出所报警被奖了",
+      "onboard_time": 1723242134,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46391,
@@ -923,28 +979,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30771,
+      "num": 1176992,
+      "word": "全国秋粮面积稳中有增",
+      "onboard_time": 1723207163,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30117,
       "num": 94704,
       "word": "中国女曲时隔16年再摘银牌",
       "onboard_time": 1723237332,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 28043,
-      "num": 162805,
-      "word": "弟弟拉着姐姐到派出所报警被奖了",
-      "onboard_time": 1723242134,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27604,
-      "num": 1051095,
-      "word": "全国秋粮面积稳中有增",
-      "onboard_time": 1723207163,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24570,
