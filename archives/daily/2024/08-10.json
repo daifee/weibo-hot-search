@@ -1,6 +1,6 @@
 {
   "startTime": 1723220716442,
-  "endTime": 1723228048821,
+  "endTime": 1723228812024,
   "band_list": [
     {
       "raw_hot": 10626785,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 1609651,
-      "num": 340763,
+      "num": 673777,
       "word": "张继科祝贺马龙再次卫冕",
       "onboard_time": 1723224498,
       "rank": 30,
@@ -195,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1088378,
+      "num": 1088378,
+      "word": "马龙谈退役计划",
+      "onboard_time": 1723226295,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1011951,
       "num": 702540,
       "word": "许昕复盘",
@@ -211,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 871349,
+      "num": 871349,
+      "word": "樊振东 有始有终",
+      "onboard_time": 1723228573,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 860412,
       "num": 860412,
       "word": "七夕",
@@ -224,14 +240,6 @@
       "word": "霹雳舞",
       "onboard_time": 1723214549,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 841592,
-      "num": 841592,
-      "word": "马龙谈退役计划",
-      "onboard_time": 1723226295,
-      "rank": 3,
       "category": "体育"
     },
     {
@@ -291,8 +299,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 484493,
+      "num": 484493,
+      "word": "中国女曲vs荷兰女曲",
+      "onboard_time": 1723227016,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 472034,
-      "num": 331519,
+      "num": 390112,
       "word": "王楚钦说奥运会太漫长了",
       "onboard_time": 1723224856,
       "rank": 38,
@@ -315,20 +331,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 392953,
-      "num": 392953,
-      "word": "中国女曲vs荷兰女曲",
-      "onboard_time": 1723227016,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 390890,
       "num": 839291,
       "word": "李雪琴在十天被孤立",
       "onboard_time": 1723195042,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 377663,
+      "num": 1831171,
+      "word": "巩立姣铅球决赛",
+      "onboard_time": 1723223299,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 375239,
@@ -363,16 +379,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 327004,
-      "num": 1831171,
-      "word": "巩立姣铅球决赛",
-      "onboard_time": 1723223299,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 325042,
-      "num": 185659,
+      "num": 234611,
       "word": "男子4x100米接力决赛",
       "onboard_time": 1723226295,
       "rank": 32,
@@ -387,20 +395,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 276161,
+      "num": 276161,
+      "word": "中国男子4x100米接力第七",
+      "onboard_time": 1723226536,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 268488,
       "num": 703786,
       "word": "闵玧其或将被判有期徒刑",
       "onboard_time": 1723216350,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 258401,
-      "num": 185630,
-      "word": "中国男子4x100米接力第七",
-      "onboard_time": 1723226536,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 248264,
@@ -452,7 +460,7 @@
     },
     {
       "raw_hot": 231688,
-      "num": 185617,
+      "num": 220330,
       "word": "樊振东打球全台无死角",
       "onboard_time": 1723227135,
       "rank": 40,
@@ -460,7 +468,7 @@
     },
     {
       "raw_hot": 224938,
-      "num": 224938,
+      "num": 670777,
       "word": "再考清华当事人未被任何学校录取",
       "onboard_time": 1723225756,
       "rank": 10,
@@ -547,6 +555,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 171772,
+      "num": 663076,
+      "word": "不是黄子韬你还真会跳水啊",
+      "onboard_time": 1723227016,
+      "rank": 24,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 170709,
       "num": 677315,
       "word": "杨洋吃瓜图",
@@ -556,7 +572,7 @@
     },
     {
       "raw_hot": 166933,
-      "num": 363352,
+      "num": 633677,
       "word": "景甜以为漏勺是勺子漏了",
       "onboard_time": 1723221922,
       "rank": 39,
@@ -571,16 +587,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133309,
-      "num": 185709,
-      "word": "不是黄子韬你还真会跳水啊",
-      "onboard_time": 1723227016,
-      "rank": 24,
-      "category": "艺人,体育"
+      "raw_hot": 97779,
+      "num": 678806,
+      "word": "刘清漪晋级四强",
+      "onboard_time": 1723228035,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 85962,
-      "num": 185773,
+      "num": 815499,
       "word": "中国女曲领先",
       "onboard_time": 1723227195,
       "rank": 13,
@@ -601,6 +617,14 @@
       "onboard_time": 1723224617,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 46391,
+      "num": 207282,
+      "word": "和喜欢的人宅在家",
+      "onboard_time": 1723228094,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 40649,
