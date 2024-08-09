@@ -1,0 +1,410 @@
+{
+  "runTime": 1723188901189,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5874352,
+        "num": 5874352,
+        "word": "宁波爆炸",
+        "onboard_time": 1723185922,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2448584,
+        "num": 2448584,
+        "word": "石川佳纯给马龙送pin",
+        "onboard_time": 1723185620,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274591,
+        "num": 1922986,
+        "word": "遏制体育饭圈乱象刻不容缓",
+        "onboard_time": 1723176982,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1846381,
+        "num": 1846381,
+        "word": "韩安冉要起诉妈妈",
+        "onboard_time": 1723181120,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1509159,
+        "num": 1509159,
+        "word": "韩安冉被妈妈继父遗弃虐待",
+        "onboard_time": 1723186821,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1297687,
+        "num": 1297687,
+        "word": "校方回应研究生午休在工作室打游戏被重罚",
+        "onboard_time": 1723181120,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 991833,
+        "num": 991833,
+        "word": "秋风遗体正在送往老家",
+        "onboard_time": 1723178603,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 916700,
+        "num": 916700,
+        "word": "王昶 从此不敢看观音",
+        "onboard_time": 1723186702,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 915371,
+        "num": 915371,
+        "word": "乘客付98元网约车司机只收到52元",
+        "onboard_time": 1723182920,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50191,
+        "num": 798544,
+        "word": "陕西志丹强降雨多车被冲走",
+        "onboard_time": 1723188622,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 785710,
+        "num": 785710,
+        "word": "樊振东 毛巾掉毛不行咱换一条呢",
+        "onboard_time": 1723179382,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 737211,
+        "num": 737211,
+        "word": "曝王丽坤老公与贾青亲密合照",
+        "onboard_time": 1723176502,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 606374,
+        "num": 606374,
+        "word": "于文文新歌上线7分钟被迫改名",
+        "onboard_time": 1723187241,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 472484,
+        "num": 472484,
+        "word": "女子留闺蜜在家住3天丢了60克金首饰",
+        "onboard_time": 1723178243,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12385,
+        "num": 466635,
+        "word": "吴艳妮说会向更高处攀登",
+        "onboard_time": 1723188744,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 466226,
+        "num": 466226,
+        "word": "21岁少林武僧秋风去世",
+        "onboard_time": 1723169121,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 41043,
+        "num": 460874,
+        "word": "刘亦菲直播的离谱心愿",
+        "onboard_time": 1723187241,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217713,
+        "num": 460481,
+        "word": "浙江宁波舟山港一货轮集装箱爆炸",
+        "onboard_time": 1723188203,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460096,
+        "num": 460096,
+        "word": "王楚钦打球把龙指导忙够呛",
+        "onboard_time": 1723177642,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 433244,
+        "num": 433244,
+        "word": "被撕毁硕士学位证无法补办",
+        "onboard_time": 1723175603,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638144,
+        "num": 430193,
+        "word": "为啥感觉月薪过万很普遍了",
+        "onboard_time": 1723172003,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 423651,
+        "num": 423651,
+        "word": "顾客称爱马仕橙沙发到家变棕色",
+        "onboard_time": 1723187421,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397150,
+        "num": 397150,
+        "word": "为什么虐女镜头令人不适且毫无意义",
+        "onboard_time": 1723186162,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 395487,
+        "num": 395487,
+        "word": "奥运会收视率",
+        "onboard_time": 1723179502,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 377329,
+        "num": 377329,
+        "word": "民政部调查网传儿慈会相关问题",
+        "onboard_time": 1723187661,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374840,
+        "num": 374840,
+        "word": "素人晒和赵露思合影",
+        "onboard_time": 1723187302,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330407,
+        "num": 330407,
+        "word": "偶遇王迅合影 跟我一样难看",
+        "onboard_time": 1723182741,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326633,
+        "num": 326633,
+        "word": "谁来救救古茗员工",
+        "onboard_time": 1723184480,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 322789,
+        "num": 322789,
+        "word": "乌军千人部队突然攻入俄领土",
+        "onboard_time": 1723175904,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 315728,
+        "num": 315728,
+        "word": "张雨霏巴黎带回的被子是江苏产的",
+        "onboard_time": 1723182021,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304868,
+        "num": 304868,
+        "word": "怎么有男主刚结婚就守寡",
+        "onboard_time": 1723181243,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301035,
+        "num": 301035,
+        "word": "吴艳妮发文告别奥运",
+        "onboard_time": 1723188382,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299153,
+        "num": 299153,
+        "word": "Jennie穿了想见你校服",
+        "onboard_time": 1723188322,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129474,
+        "num": 292910,
+        "word": "00后海归帮人带娃月入上万",
+        "onboard_time": 1723186821,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291184,
+        "num": 291184,
+        "word": "郭晶晶谈考国际泳联裁判",
+        "onboard_time": 1723183761,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278317,
+        "num": 278317,
+        "word": "奥运会被禁止的体操动作",
+        "onboard_time": 1723171823,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275160,
+        "num": 275160,
+        "word": "刘亦菲V领黑裙",
+        "onboard_time": 1723187002,
+        "rank": 36,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 268738,
+        "num": 268738,
+        "word": "因桥本甲状腺炎被拒2人起诉招聘单位",
+        "onboard_time": 1723183221,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263365,
+        "num": 263365,
+        "word": "唐诡刚走江诡来了",
+        "onboard_time": 1723176923,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250952,
+        "num": 250952,
+        "word": "博主称薅运费险羊毛一天赚两三千",
+        "onboard_time": 1723188023,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229913,
+        "num": 229913,
+        "word": "陈梦早期的短发照片",
+        "onboard_time": 1723172421,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224902,
+        "num": 224902,
+        "word": "秋风",
+        "onboard_time": 1723184601,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 216653,
+        "num": 216653,
+        "word": "被全红婵谢思埸的兄妹情感动了",
+        "onboard_time": 1723187362,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210675,
+        "num": 210675,
+        "word": "马拉松游泳10公里",
+        "onboard_time": 1723184542,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209974,
+        "num": 209974,
+        "word": "地球生命支持系统正接近全面崩溃",
+        "onboard_time": 1723180821,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 205696,
+        "num": 205696,
+        "word": "巴黎奥运奖牌质量遭质疑",
+        "onboard_time": 1723185321,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205494,
+        "num": 205494,
+        "word": "柯南对小兰夹子音",
+        "onboard_time": 1723188023,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 205117,
+        "num": 205117,
+        "word": "张博恒还有美和强张本智和只有惨",
+        "onboard_time": 1723188682,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195347,
+        "num": 195347,
+        "word": "印度想争夺2036年奥运主办权",
+        "onboard_time": 1723188744,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189105,
+        "num": 189105,
+        "word": "俄女棋手在棋盘涂水银毒晕对手",
+        "onboard_time": 1723170021,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革为人民#"
+    }
+  }
+}
