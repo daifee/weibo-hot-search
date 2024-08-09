@@ -1,0 +1,410 @@
+{
+  "runTime": 1723177457447,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2346464,
+        "num": 2346464,
+        "word": "21岁少林武僧秋风去世",
+        "onboard_time": 1723169121,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2144544,
+        "num": 2144544,
+        "word": "奥运会被禁止的体操动作",
+        "onboard_time": 1723171823,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61859,
+        "num": 1889392,
+        "word": "遏制体育饭圈乱象刻不容缓",
+        "onboard_time": 1723176982,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1648908,
+        "num": 1648908,
+        "word": "俄女棋手在棋盘涂水银毒晕对手",
+        "onboard_time": 1723170021,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1265678,
+        "num": 1265678,
+        "word": "石智勇赛后已经无法正常走路",
+        "onboard_time": 1723170260,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1153228,
+        "num": 1153228,
+        "word": "F勒布伦新头像",
+        "onboard_time": 1723171460,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1009137,
+        "num": 1138400,
+        "word": "唐诡刚走江诡来了",
+        "onboard_time": 1723176923,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 706212,
+        "num": 1136449,
+        "word": "迪丽热巴腰身比",
+        "onboard_time": 1723172063,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1134600,
+        "num": 1134600,
+        "word": "调查韩国总统夫人的反腐官员身亡",
+        "onboard_time": 1723172842,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 209195,
+        "num": 1106791,
+        "word": "乌军千人部队突然攻入俄领土",
+        "onboard_time": 1723175904,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1087748,
+        "num": 1087748,
+        "word": "王楚钦孙颖莎11比1",
+        "onboard_time": 1723160602,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1063055,
+        "num": 1063055,
+        "word": "陈梦早期的短发照片",
+        "onboard_time": 1723172421,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 937501,
+        "num": 937501,
+        "word": "女子吃外卖腹痛发现后厨百只蟑螂",
+        "onboard_time": 1723169960,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 675971,
+        "num": 675971,
+        "word": "这居然是宋小宝",
+        "onboard_time": 1723171341,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 674122,
+        "num": 674122,
+        "word": "女子要买18万黄金店长果断报警",
+        "onboard_time": 1723140253,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 660255,
+        "num": 660255,
+        "word": "曝王丽坤老公与贾青亲密合照",
+        "onboard_time": 1723176502,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 653792,
+        "num": 653792,
+        "word": "金子涵去拍短剧了",
+        "onboard_time": 1723175421,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 646152,
+        "num": 646152,
+        "word": "马龙带着嘻嘻哈哈接受采访",
+        "onboard_time": 1723167802,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 624524,
+        "num": 624524,
+        "word": "伊能静庾澄庆同框祝福恩利初舞台",
+        "onboard_time": 1723164741,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 436113,
+        "num": 436113,
+        "word": "被撕毁硕士学位证无法补办",
+        "onboard_time": 1723175603,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2231638,
+        "num": 432576,
+        "word": "为啥感觉月薪过万很普遍了",
+        "onboard_time": 1723172003,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 450462,
+        "num": 430747,
+        "word": "年轻人也不想在垃圾袋上花钱了",
+        "onboard_time": 1723174882,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 384519,
+        "num": 384519,
+        "word": "奥运没结束郑钦文又练起来了",
+        "onboard_time": 1723172601,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376842,
+        "num": 376842,
+        "word": "中国霹雳舞选手奥运首秀",
+        "onboard_time": 1723167141,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65633,
+        "num": 356781,
+        "word": "我们在黑夜中相拥 上头",
+        "onboard_time": 1723177344,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355695,
+        "num": 355695,
+        "word": "徐海乔年龄参与满40减20",
+        "onboard_time": 1723175904,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23001,
+        "num": 347187,
+        "word": "迪丽热巴发丝在发光",
+        "onboard_time": 1723174882,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148238,
+        "num": 345481,
+        "word": "为啥现在的古装剧一股现代味",
+        "onboard_time": 1723176082,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 344063,
+        "num": 344063,
+        "word": "一眼就能看出来孙杨是演的",
+        "onboard_time": 1723163423,
+        "rank": 28,
+        "category": "体育,剧集"
+      },
+      {
+        "raw_hot": 336193,
+        "num": 336193,
+        "word": "孙颖莎奥运全勤",
+        "onboard_time": 1723176804,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 441993,
+        "num": 336168,
+        "word": "美和哥 智和妹",
+        "onboard_time": 1723176142,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 336092,
+        "num": 336092,
+        "word": "柳岩首次回应母亲的打压式教育",
+        "onboard_time": 1723170091,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312688,
+        "num": 312688,
+        "word": "张本智和 甄嬛",
+        "onboard_time": 1723129706,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307603,
+        "num": 307603,
+        "word": "警方通报14岁女孩被人殴打后跳桥",
+        "onboard_time": 1723174103,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306582,
+        "num": 306582,
+        "word": "刘翔 再看一次还是会眼红",
+        "onboard_time": 1723173683,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288022,
+        "num": 288022,
+        "word": "肖战ELLE金九封面",
+        "onboard_time": 1723171642,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 287154,
+        "num": 287154,
+        "word": "樊振东是王皓的另一种圆梦",
+        "onboard_time": 1723172241,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19425,
+        "num": 277217,
+        "word": "杨绍辉梦想照进现实",
+        "onboard_time": 1723174882,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268799,
+        "num": 268799,
+        "word": "全红婵 我想要自由",
+        "onboard_time": 1723173502,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262639,
+        "num": 262639,
+        "word": "科长实名举报2名副局长背后",
+        "onboard_time": 1723172003,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254920,
+        "num": 254920,
+        "word": "孙颖莎童年照太可爱了",
+        "onboard_time": 1723171160,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250609,
+        "num": 250609,
+        "word": "迪丽热巴新剧超A黑长直",
+        "onboard_time": 1723175542,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241405,
+        "num": 241405,
+        "word": "全红婵 许昕不就这样拍照的吗",
+        "onboard_time": 1723137557,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241062,
+        "num": 241062,
+        "word": "乒乓检录 里里外外看个遍",
+        "onboard_time": 1723171040,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239150,
+        "num": 239150,
+        "word": "枭起青壤杀青官宣",
+        "onboard_time": 1723169904,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232453,
+        "num": 232453,
+        "word": "赵露思泰国地广C位",
+        "onboard_time": 1723173741,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211767,
+        "num": 211767,
+        "word": "TheShy回应张博恒",
+        "onboard_time": 1723177224,
+        "rank": 46,
+        "category": "电竞,体育"
+      },
+      {
+        "raw_hot": 48575,
+        "num": 210415,
+        "word": "中国奥运健儿2008和2024对比照",
+        "onboard_time": 1723176562,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209538,
+        "num": 209538,
+        "word": "艺术体操",
+        "onboard_time": 1723175362,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207914,
+        "num": 207914,
+        "word": "郑钦文已注册QueenWen商标",
+        "onboard_time": 1723177403,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革为人民#"
+    }
+  }
+}
