@@ -1,0 +1,410 @@
+{
+  "runTime": 1723203293197,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 13096456,
+        "num": 13096456,
+        "word": "乒乓球男团铜牌赛",
+        "onboard_time": 1723190604,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3174411,
+        "num": 3174411,
+        "word": "法国男团铜牌",
+        "onboard_time": 1723202308,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175574,
+        "num": 3017554,
+        "word": "遏制体育饭圈乱象刻不容缓",
+        "onboard_time": 1723176982,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2926449,
+        "num": 2926449,
+        "word": "张本智和输比赛后笑了",
+        "onboard_time": 1723196844,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1874591,
+        "num": 1874591,
+        "word": "樊振东两眼一睁又要打小莫了",
+        "onboard_time": 1723199425,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1624870,
+        "num": 1624870,
+        "word": "理发师问潘展乐认不认识潘展乐",
+        "onboard_time": 1723193782,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1562249,
+        "num": 1562249,
+        "word": "王鹤润",
+        "onboard_time": 1723199245,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1294175,
+        "num": 1294175,
+        "word": "曝王丽坤老公与贾青亲密合照",
+        "onboard_time": 1723176502,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1001806,
+        "num": 1001806,
+        "word": "特朗普称中俄不再尊重美国",
+        "onboard_time": 1723195042,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 888368,
+        "num": 888368,
+        "word": "李雪琴在十天被孤立",
+        "onboard_time": 1723195042,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1902311,
+        "num": 811636,
+        "word": "塞尔维亚运动员在水中离世",
+        "onboard_time": 1723202124,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 732483,
+        "num": 732483,
+        "word": "河南一地突发凶案致多人伤亡",
+        "onboard_time": 1723198045,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 2377261,
+        "num": 730558,
+        "word": "王丽坤老公承认嫖娼花费数百万元",
+        "onboard_time": 1723195105,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378500,
+        "num": 713328,
+        "word": "北京暴雨",
+        "onboard_time": 1723193002,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200841,
+        "num": 708832,
+        "word": "中国队晋级艺术体操全能决赛",
+        "onboard_time": 1723202428,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1518183,
+        "num": 694875,
+        "word": "徐诗晓孙梦雅双人划艇金牌",
+        "onboard_time": 1723201225,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1207113,
+        "num": 691703,
+        "word": "纸盒 小猴",
+        "onboard_time": 1723194623,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 443188,
+        "num": 677262,
+        "word": "韩安冉",
+        "onboard_time": 1723202786,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 411093,
+        "num": 670744,
+        "word": "于文文新歌上线7分钟被迫改名",
+        "onboard_time": 1723187241,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 342079,
+        "num": 659325,
+        "word": "张本智和0奖牌",
+        "onboard_time": 1723203145,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56879,
+        "num": 652701,
+        "word": "如鸢预约开启",
+        "onboard_time": 1723202185,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 644352,
+        "num": 644352,
+        "word": "日本地震",
+        "onboard_time": 1723201825,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1008108,
+        "num": 643710,
+        "word": "张本智和把西蒙高茨打劈叉了",
+        "onboard_time": 1723200566,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 977958,
+        "num": 642818,
+        "word": "樊振东 食堂NPC",
+        "onboard_time": 1723197145,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 789347,
+        "num": 642303,
+        "word": "张本智和把男单金银铜打遍了",
+        "onboard_time": 1723194924,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 754843,
+        "num": 641178,
+        "word": "日本男团vs法国男团",
+        "onboard_time": 1723189824,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 419681,
+        "num": 640184,
+        "word": "特朗普遭枪击现场警方执法记录仪视频公布",
+        "onboard_time": 1723202004,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 393441,
+        "num": 639302,
+        "word": "他一下就亲到了我的上巴",
+        "onboard_time": 1723196484,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308645,
+        "num": 638644,
+        "word": "流浪地球制片人竟然是07年快男",
+        "onboard_time": 1723200624,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275274,
+        "num": 637569,
+        "word": "南波万演唱会",
+        "onboard_time": 1723199724,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117059,
+        "num": 636435,
+        "word": "中国第30金",
+        "onboard_time": 1723201525,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 734358,
+        "num": 636337,
+        "word": "张本智和 被逆转的神",
+        "onboard_time": 1723197924,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 650862,
+        "num": 634714,
+        "word": "王楚钦说自己场下生人勿近",
+        "onboard_time": 1723199483,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 634575,
+        "num": 634575,
+        "word": "乒乓球男团铜牌赛 凌迟局",
+        "onboard_time": 1723202727,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 588208,
+        "num": 588208,
+        "word": "韩安冉要起诉妈妈",
+        "onboard_time": 1723181120,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 528259,
+        "num": 528259,
+        "word": "韩安冉是自己报名参加变形计",
+        "onboard_time": 1723203025,
+        "rank": 35,
+        "category": "综艺,网红"
+      },
+      {
+        "raw_hot": 64459,
+        "num": 475153,
+        "word": "中药餐饮只是一个噱头吗",
+        "onboard_time": 1723201225,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474314,
+        "num": 474314,
+        "word": "F勒布伦vs篠塚大登",
+        "onboard_time": 1723201046,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 430506,
+        "num": 430506,
+        "word": "张本智和队友 菜",
+        "onboard_time": 1723192281,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 410205,
+        "num": 410205,
+        "word": "F勒布伦3比2战胜张本智和",
+        "onboard_time": 1723195585,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376987,
+        "num": 376987,
+        "word": "石川中文采访吓孙颖莎一跳",
+        "onboard_time": 1723192341,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 357888,
+        "num": 357888,
+        "word": "宁波港回应爆炸",
+        "onboard_time": 1723189044,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346306,
+        "num": 346306,
+        "word": "男子滥用七天无理由半年退货手机77次",
+        "onboard_time": 1723193363,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324777,
+        "num": 324777,
+        "word": "乒乓球男团",
+        "onboard_time": 1723202547,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323221,
+        "num": 323221,
+        "word": "纸盒状态",
+        "onboard_time": 1723194443,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313892,
+        "num": 313892,
+        "word": "没人比户上更懂怎么折磨张本",
+        "onboard_time": 1723202247,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 300144,
+        "num": 300144,
+        "word": "王楚钦父母来京静候佳音",
+        "onboard_time": 1723198644,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257792,
+        "num": 257792,
+        "word": "美媒报道导致中国游泳队额外检测",
+        "onboard_time": 1723196065,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245748,
+        "num": 245748,
+        "word": "为什么男生总是收到剃须刀",
+        "onboard_time": 1723202847,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 54813,
+        "num": 238946,
+        "word": "咱妈能不能把乐乐哥手里的床垫留下",
+        "onboard_time": 1723198524,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革为人民#"
+    }
+  }
+}

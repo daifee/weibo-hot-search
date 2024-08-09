@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/08/09 19:17:55
+本榜单时间：2024/01/01 00:21:05 ~ 2024/08/09 19:34:53
 </p>
 </blockquote>
 <p>
@@ -365,6 +365,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E8%8E%AB%E9%9B%B7%E5%8A%A0%E5%BE%B7%23" target="weibo">
 王楚钦vs莫雷加德（热度：13108000）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%92%E4%B9%93%E7%90%83%E7%94%B7%E5%9B%A2%E9%93%9C%E7%89%8C%E8%B5%9B%23" target="weibo">
+乒乓球男团铜牌赛（热度：13096456）
 </a>
 </li>
 
@@ -917,12 +923,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A7%86%E9%A2%91%E5%9B%9E%E6%94%BE%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%90%83%E6%8B%8D%E8%A2%AB%E8%B8%A9%E6%96%AD%E5%A7%8B%E6%9C%AB%23" target="weibo">
 视频回放王楚钦球拍被踩断始末（热度：9447661）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%92%E4%B9%93%E7%90%83%E7%94%B7%E5%9B%A2%E9%93%9C%E7%89%8C%E8%B5%9B%23" target="weibo">
-乒乓球男团铜牌赛（热度：9400169）
 </a>
 </li>
 

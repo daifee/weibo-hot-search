@@ -1,7 +1,15 @@
 {
   "startTime": 1723134321258,
-  "endTime": 1723202275015,
+  "endTime": 1723203293197,
   "band_list": [
+    {
+      "raw_hot": 13096456,
+      "num": 13096456,
+      "word": "乒乓球男团铜牌赛",
+      "onboard_time": 1723190604,
+      "rank": 28,
+      "category": "体育"
+    },
     {
       "raw_hot": 10985422,
       "num": 5874352,
@@ -9,14 +17,6 @@
       "onboard_time": 1723185922,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9400169,
-      "num": 9400169,
-      "word": "乒乓球男团铜牌赛",
-      "onboard_time": 1723190604,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 4202143,
@@ -40,6 +40,14 @@
       "word": "张本智和队友 菜",
       "onboard_time": 1723192281,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3174411,
+      "num": 3174411,
+      "word": "法国男团铜牌",
+      "onboard_time": 1723202308,
+      "rank": 1,
       "category": "体育"
     },
     {
@@ -163,6 +171,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1902311,
+      "num": 925691,
+      "word": "塞尔维亚运动员在水中离世",
+      "onboard_time": 1723202124,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1874591,
+      "num": 1874591,
+      "word": "樊振东两眼一睁又要打小莫了",
+      "onboard_time": 1723199425,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1846292,
       "num": 1846292,
       "word": "校方回应研究生午休在工作室打游戏被重罚",
@@ -219,6 +243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1624870,
+      "num": 1624870,
+      "word": "理发师问潘展乐认不认识潘展乐",
+      "onboard_time": 1723193782,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1620528,
       "num": 1620528,
       "word": "中国霹雳舞选手奥运首秀",
@@ -235,20 +267,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1600365,
-      "num": 1600365,
-      "word": "理发师问潘展乐认不认识潘展乐",
-      "onboard_time": 1723193782,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1566055,
       "num": 937501,
       "word": "女子吃外卖腹痛发现后厨百只蟑螂",
       "onboard_time": 1723169960,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1562249,
+      "num": 1562249,
+      "word": "王鹤润",
+      "onboard_time": 1723199245,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1518183,
+      "num": 1031580,
+      "word": "徐诗晓孙梦雅双人划艇金牌",
+      "onboard_time": 1723201225,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 1510188,
@@ -273,14 +313,6 @@
       "onboard_time": 1723164741,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1439311,
-      "num": 1439311,
-      "word": "王鹤润",
-      "onboard_time": 1723199245,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 1418155,
@@ -435,27 +467,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1031580,
-      "num": 1031580,
-      "word": "徐诗晓孙梦雅双人划艇金牌",
-      "onboard_time": 1723201225,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1029122,
       "num": 1029122,
       "word": "F勒布伦3比2战胜张本智和",
       "onboard_time": 1723195585,
       "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1026529,
-      "num": 925691,
-      "word": "塞尔维亚运动员在水中离世",
-      "onboard_time": 1723202124,
-      "rank": 11,
       "category": "体育"
     },
     {
@@ -475,12 +491,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1008108,
+      "num": 724127,
+      "word": "张本智和把西蒙高茨打劈叉了",
+      "onboard_time": 1723200566,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 997935,
       "num": 1119314,
       "word": "乌军千人部队突然攻入俄领土",
       "onboard_time": 1723175904,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 977958,
+      "num": 745194,
+      "word": "樊振东 食堂NPC",
+      "onboard_time": 1723197145,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 955529,
@@ -497,14 +529,6 @@
       "onboard_time": 1723163423,
       "rank": 11,
       "category": "体育,剧集"
-    },
-    {
-      "raw_hot": 923791,
-      "num": 923791,
-      "word": "樊振东两眼一睁又要打小莫了",
-      "onboard_time": 1723199425,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 919271,
@@ -619,14 +643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 745194,
-      "num": 745194,
-      "word": "樊振东 食堂NPC",
-      "onboard_time": 1723197145,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 737342,
       "num": 737342,
       "word": "王楚钦说自己场下生人勿近",
@@ -635,19 +651,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 734358,
+      "num": 636337,
+      "word": "张本智和 被逆转的神",
+      "onboard_time": 1723197924,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 726291,
       "num": 726291,
       "word": "张本智和要碎了",
       "onboard_time": 1723193483,
       "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 724127,
-      "num": 724127,
-      "word": "张本智和把西蒙高茨打劈叉了",
-      "onboard_time": 1723200566,
-      "rank": 16,
       "category": "体育"
     },
     {
@@ -716,10 +732,18 @@
     },
     {
       "raw_hot": 652176,
-      "num": 652176,
+      "num": 713328,
       "word": "北京暴雨",
       "onboard_time": 1723193002,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 644352,
+      "num": 644352,
+      "word": "日本地震",
+      "onboard_time": 1723201825,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -728,6 +752,14 @@
       "word": "樊振东快成为勒布伦过不去的坎了",
       "onboard_time": 1723159400,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 634575,
+      "num": 634575,
+      "word": "乒乓球男团铜牌赛 凌迟局",
+      "onboard_time": 1723202727,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -795,14 +827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 568632,
-      "num": 568632,
-      "word": "张本智和 被逆转的神",
-      "onboard_time": 1723197924,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 563931,
       "num": 684806,
       "word": "黄多多编耳机保护绳",
@@ -833,6 +857,14 @@
       "onboard_time": 1723181243,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 528259,
+      "num": 528259,
+      "word": "韩安冉是自己报名参加变形计",
+      "onboard_time": 1723203025,
+      "rank": 35,
+      "category": "综艺,网红"
     },
     {
       "raw_hot": 520584,
@@ -875,14 +907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 495847,
-      "num": 495847,
-      "word": "日本地震",
-      "onboard_time": 1723201825,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 492124,
       "num": 492124,
       "word": "谢思埸跳水3米板金牌",
@@ -908,7 +932,7 @@
     },
     {
       "raw_hot": 467203,
-      "num": 588968,
+      "num": 639302,
       "word": "他一下就亲到了我的上巴",
       "onboard_time": 1723196484,
       "rank": 18,
@@ -937,6 +961,14 @@
       "onboard_time": 1723162162,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 443188,
+      "num": 677262,
+      "word": "韩安冉",
+      "onboard_time": 1723202786,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 441931,
@@ -1003,6 +1035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 419681,
+      "num": 640184,
+      "word": "特朗普遭枪击现场警方执法记录仪视频公布",
+      "onboard_time": 1723202004,
+      "rank": 37,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 418377,
       "num": 418377,
       "word": "樊振东 收视率打法",
@@ -1044,7 +1084,7 @@
     },
     {
       "raw_hot": 407375,
-      "num": 2591640,
+      "num": 3017554,
       "word": "遏制体育饭圈乱象刻不容缓",
       "onboard_time": 1723176982,
       "rank": 2,
@@ -1195,14 +1235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 353923,
-      "num": 353923,
-      "word": "特朗普遭枪击现场警方执法记录仪视频公布",
-      "onboard_time": 1723202004,
-      "rank": 37,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 349586,
       "num": 349586,
       "word": "乐乐茶同框",
@@ -1224,6 +1256,14 @@
       "word": "美媒报道导致中国游泳队额外检测",
       "onboard_time": 1723196065,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 342079,
+      "num": 659325,
+      "word": "张本智和0奖牌",
+      "onboard_time": 1723203145,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -1299,6 +1339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 324777,
+      "num": 324777,
+      "word": "乒乓球男团",
+      "onboard_time": 1723202547,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 323609,
       "num": 213789,
       "word": "张本智和 强迫症",
@@ -1312,6 +1360,14 @@
       "word": "艺术体操 醉太平",
       "onboard_time": 1723195288,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 313892,
+      "num": 313892,
+      "word": "没人比户上更懂怎么折磨张本",
+      "onboard_time": 1723202247,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -1345,6 +1401,14 @@
       "onboard_time": 1723133302,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 308645,
+      "num": 638644,
+      "word": "流浪地球制片人竟然是07年快男",
+      "onboard_time": 1723200624,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 307038,
@@ -1539,20 +1603,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 275274,
+      "num": 637569,
+      "word": "南波万演唱会",
+      "onboard_time": 1723199724,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 275160,
       "num": 275160,
       "word": "刘亦菲V领黑裙",
       "onboard_time": 1723187002,
       "rank": 33,
       "category": "作品衍生,艺人"
-    },
-    {
-      "raw_hot": 272806,
-      "num": 441022,
-      "word": "流浪地球制片人竟然是07年快男",
-      "onboard_time": 1723200624,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 270351,
@@ -1601,14 +1665,6 @@
       "onboard_time": 1723172003,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 260663,
-      "num": 350919,
-      "word": "南波万演唱会",
-      "onboard_time": 1723199724,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 256575,
@@ -1707,6 +1763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 245748,
+      "num": 245748,
+      "word": "为什么男生总是收到剃须刀",
+      "onboard_time": 1723202847,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 243978,
       "num": 243978,
       "word": "詹浩礼",
@@ -1737,14 +1801,6 @@
       "onboard_time": 1723182382,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 235940,
-      "num": 235940,
-      "word": "没人比户上更懂怎么折磨张本",
-      "onboard_time": 1723202247,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 235422,
@@ -2120,6 +2176,14 @@
       "word": "罗诗芳比赛期间睡觉不忘盖肚子",
       "onboard_time": 1723166421,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 200841,
+      "num": 708832,
+      "word": "中国队晋级艺术体操全能决赛",
+      "onboard_time": 1723202428,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -2500,7 +2564,7 @@
     },
     {
       "raw_hot": 138863,
-      "num": 416931,
+      "num": 636435,
       "word": "中国第30金",
       "onboard_time": 1723201525,
       "rank": 31,
@@ -2747,6 +2811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64459,
+      "num": 928104,
+      "word": "中药餐饮只是一个噱头吗",
+      "onboard_time": 1723201225,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61886,
       "num": 649432,
       "word": "警方通报男子疯狂踢踹多车后视镜",
@@ -2763,11 +2835,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56879,
+      "num": 652701,
+      "word": "如鸢预约开启",
+      "onboard_time": 1723202185,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 55884,
       "num": 55884,
       "word": "日本女团vs德国女团",
       "onboard_time": 1723148712,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 54813,
+      "num": 253910,
+      "word": "咱妈能不能把乐乐哥手里的床垫留下",
+      "onboard_time": 1723198524,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -2777,14 +2865,6 @@
       "onboard_time": 1723147213,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 54600,
-      "num": 246644,
-      "word": "如鸢预约开启",
-      "onboard_time": 1723202185,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 54349,
@@ -2848,14 +2928,6 @@
       "word": "庞倩玉摔跤铜牌",
       "onboard_time": 1723144092,
       "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 45599,
-      "num": 253910,
-      "word": "咱妈能不能把乐乐哥手里的床垫留下",
-      "onboard_time": 1723198524,
-      "rank": 41,
       "category": "体育"
     },
     {
@@ -2961,14 +3033,6 @@
       "onboard_time": 1723189824,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 27153,
-      "num": 928104,
-      "word": "中药餐饮只是一个噱头吗",
-      "onboard_time": 1723201225,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23001,
