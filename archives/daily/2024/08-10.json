@@ -1,6 +1,6 @@
 {
   "startTime": 1723220716442,
-  "endTime": 1723239291811,
+  "endTime": 1723242031017,
   "band_list": [
     {
       "raw_hot": 10626785,
@@ -211,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1030639,
+      "num": 242608,
+      "word": "马龙和王楚钦看樊振东追星的样子",
+      "onboard_time": 1723232231,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1011951,
       "num": 702540,
       "word": "许昕复盘",
@@ -283,14 +291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 620600,
-      "num": 242608,
-      "word": "马龙和王楚钦看樊振东追星的样子",
-      "onboard_time": 1723232231,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 603789,
       "num": 603789,
       "word": "吴愉拳击金牌",
@@ -337,6 +337,14 @@
       "onboard_time": 1723195105,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 508201,
+      "num": 508201,
+      "word": "杨柳拳击银牌",
+      "onboard_time": 1723238292,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 501482,
@@ -387,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 382331,
+      "num": 126437,
+      "word": "王楚钦单打只想不输外战",
+      "onboard_time": 1723234212,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 377663,
       "num": 1831171,
       "word": "巩立姣铅球决赛",
@@ -427,14 +443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 333640,
-      "num": 333640,
-      "word": "杨柳拳击银牌",
-      "onboard_time": 1723238292,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 325042,
       "num": 234611,
       "word": "男子4x100米接力决赛",
@@ -456,14 +464,6 @@
       "word": "刘清漪晋级四强",
       "onboard_time": 1723228035,
       "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 276817,
-      "num": 116805,
-      "word": "王楚钦单打只想不输外战",
-      "onboard_time": 1723234212,
-      "rank": 46,
       "category": "体育"
     },
     {
@@ -724,7 +724,7 @@
     },
     {
       "raw_hot": 127250,
-      "num": 78006,
+      "num": 102275,
       "word": "杨柳决赛对阵有性别争议拳手",
       "onboard_time": 1723238953,
       "rank": 30,
@@ -827,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37972,
+      "num": 272776,
+      "word": "神仙餐厅8年来吃饭不收一分钱",
+      "onboard_time": 1723237631,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35156,
       "num": 393500,
       "word": "王柳懿王芊懿技术自选排名第一",
@@ -851,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30866,
+      "num": 102084,
+      "word": "美方称对以色列财长言论感到震惊",
+      "onboard_time": 1723241594,
+      "rank": 46,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 30117,
       "num": 94704,
       "word": "中国女曲时隔16年再摘银牌",
@@ -867,12 +883,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 21444,
-      "num": 272776,
-      "word": "神仙餐厅8年来吃饭不收一分钱",
-      "onboard_time": 1723237631,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 24021,
+      "num": 125795,
+      "word": "车祸后民警变身话痨抢回一条命",
+      "onboard_time": 1723241773,
+      "rank": 17,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 22593,
+      "num": 129101,
+      "word": "吴愉对国旗敬礼",
+      "onboard_time": 1723241414,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 20076,
@@ -880,6 +904,14 @@
       "word": "浙江无人瓜摊12天销售额超万元",
       "onboard_time": 1723234392,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18328,
+      "num": 445685,
+      "word": "全国秋粮面积稳中有增",
+      "onboard_time": 1723207163,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -891,12 +923,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13697,
-      "num": 358119,
-      "word": "全国秋粮面积稳中有增",
-      "onboard_time": 1723207163,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 5885,
+      "num": 127386,
+      "word": "巩立姣说到练不动才退役",
+      "onboard_time": 1723241953,
+      "rank": 14,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
