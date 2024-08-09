@@ -1,7 +1,15 @@
 {
   "startTime": 1723134321258,
-  "endTime": 1723171210631,
+  "endTime": 1723171801498,
   "band_list": [
+    {
+      "raw_hot": 2319012,
+      "num": 2319012,
+      "word": "21岁少林武僧秋风去世",
+      "onboard_time": 1723169121,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2110880,
       "num": 2110880,
@@ -27,12 +35,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1767175,
-      "num": 1767175,
-      "word": "21岁少林武僧秋风去世",
-      "onboard_time": 1723169121,
-      "rank": 0,
-      "category": "社会新闻"
+      "raw_hot": 1803904,
+      "num": 747271,
+      "word": "王楚钦孙颖莎11比1",
+      "onboard_time": 1723160602,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 1724502,
@@ -48,14 +56,6 @@
       "word": "马龙 我又不是教练",
       "onboard_time": 1723126766,
       "rank": 11,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1643774,
-      "num": 626647,
-      "word": "王楚钦孙颖莎11比1",
-      "onboard_time": 1723160602,
-      "rank": 37,
       "category": "体育"
     },
     {
@@ -179,6 +179,14 @@
       "category": "体育,剧集"
     },
     {
+      "raw_hot": 886420,
+      "num": 886420,
+      "word": "马龙带着嘻嘻哈哈接受采访",
+      "onboard_time": 1723167802,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 866505,
       "num": 866505,
       "word": "常园拳击金牌",
@@ -209,6 +217,14 @@
       "onboard_time": 1723161861,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 814589,
+      "num": 814589,
+      "word": "柳岩首次回应母亲的打压式教育",
+      "onboard_time": 1723170091,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 785682,
@@ -251,28 +267,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 617318,
-      "num": 617318,
-      "word": "马龙带着嘻嘻哈哈接受采访",
-      "onboard_time": 1723167802,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 602737,
       "num": 670359,
       "word": "当事人回应学位证被顺丰损毁已赔8千",
       "onboard_time": 1723133481,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 599927,
-      "num": 599927,
-      "word": "柳岩首次回应母亲的打压式教育",
-      "onboard_time": 1723170091,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 598401,
@@ -307,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 526828,
+      "num": 526828,
+      "word": "女子吃外卖腹痛发现后厨百只蟑螂",
+      "onboard_time": 1723169960,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 508326,
       "num": 508326,
       "word": "国乒女团火速进决赛",
@@ -336,6 +344,14 @@
       "word": "张博恒 我是茶茶",
       "onboard_time": 1723122143,
       "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 467405,
+      "num": 467405,
+      "word": "石智勇赛后已经无法正常走路",
+      "onboard_time": 1723170260,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -377,14 +393,6 @@
       "onboard_time": 1723131444,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 407514,
-      "num": 407514,
-      "word": "女子吃外卖腹痛发现后厨百只蟑螂",
-      "onboard_time": 1723169960,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 398974,
@@ -483,6 +491,14 @@
       "category": "体育,综艺"
     },
     {
+      "raw_hot": 331379,
+      "num": 524276,
+      "word": "德云社",
+      "onboard_time": 1723171402,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 323609,
       "num": 213789,
       "word": "张本智和 强迫症",
@@ -491,11 +507,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 322314,
-      "num": 322314,
-      "word": "石智勇赛后已经无法正常走路",
-      "onboard_time": 1723170260,
-      "rank": 25,
+      "raw_hot": 312910,
+      "num": 312910,
+      "word": "樊振东 拼东东式打法",
+      "onboard_time": 1723168582,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -523,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 293984,
+      "num": 293984,
+      "word": "张本智和社媒发哭泣表情",
+      "onboard_time": 1723167501,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 292429,
       "num": 292429,
       "word": "纸嫁衣7",
@@ -547,14 +571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 284673,
-      "num": 284673,
-      "word": "张本智和社媒发哭泣表情",
-      "onboard_time": 1723167501,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 280412,
       "num": 211832,
       "word": "孙颖莎vs李恩惠",
@@ -563,19 +579,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 277887,
+      "num": 523293,
+      "word": "这居然是宋小宝",
+      "onboard_time": 1723171341,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277210,
       "num": 209585,
       "word": "还我妈生龙",
       "onboard_time": 1723111647,
       "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 274507,
-      "num": 274507,
-      "word": "樊振东 拼东东式打法",
-      "onboard_time": 1723168582,
-      "rank": 31,
       "category": "体育"
     },
     {
@@ -603,6 +619,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 250855,
+      "num": 295489,
+      "word": "港媒在林峯面前cue吴千语",
+      "onboard_time": 1723171040,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 247336,
+      "num": 247336,
+      "word": "俄女棋手在棋盘涂水银毒晕对手",
+      "onboard_time": 1723170021,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240206,
       "num": 240206,
       "word": "一睁眼中国队再夺4金2银2铜",
@@ -627,20 +659,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 229035,
+      "num": 229035,
+      "word": "F勒布伦新头像",
+      "onboard_time": 1723171460,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 227496,
+      "num": 227496,
+      "word": "张博恒谈TheShy",
+      "onboard_time": 1723171282,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 224033,
       "num": 224033,
       "word": "东北男友第一次到内蒙古女友家",
       "onboard_time": 1723159578,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 223842,
-      "num": 255512,
-      "word": "港媒在林峯面前cue吴千语",
-      "onboard_time": 1723171040,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 223130,
@@ -739,6 +779,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 210383,
+      "num": 210383,
+      "word": "肖战ELLE金九封面",
+      "onboard_time": 1723171642,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 204536,
       "num": 204536,
       "word": "中国女曲与荷兰争金",
@@ -835,6 +883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180986,
+      "num": 180986,
+      "word": "乒乓检录 里里外外看个遍",
+      "onboard_time": 1723171040,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180317,
       "num": 347422,
       "word": "贾青回应与王丽坤前夫谈过恋爱传闻",
@@ -844,7 +900,7 @@
     },
     {
       "raw_hot": 178762,
-      "num": 629150,
+      "num": 748435,
       "word": "以色列同意恢复加沙停火谈判",
       "onboard_time": 1723168160,
       "rank": 9,
@@ -873,14 +929,6 @@
       "onboard_time": 1723130366,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 174764,
-      "num": 174764,
-      "word": "俄女棋手在棋盘涂水银毒晕对手",
-      "onboard_time": 1723170021,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173986,
@@ -1195,6 +1243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49908,
+      "num": 777730,
+      "word": "特朗普和哈里斯同意9月10日辩论",
+      "onboard_time": 1723170620,
+      "rank": 8,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 48703,
       "num": 173070,
       "word": "于正回应白鹿被骂",
@@ -1227,14 +1283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 45325,
-      "num": 638763,
-      "word": "特朗普和哈里斯同意9月10日辩论",
-      "onboard_time": 1723170620,
-      "rank": 8,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 43986,
       "num": 1507659,
       "word": "何以中国一檐千年",
@@ -1259,12 +1307,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34111,
+      "num": 590740,
+      "word": "殷若宁单日排名第一",
+      "onboard_time": 1723171160,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33887,
       "num": 122728,
       "word": "詹某某涉嫌诈骗案开庭",
       "onboard_time": 1723143253,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22569,
+      "num": 225587,
+      "word": "殷若宁挑战自己超越自己",
+      "onboard_time": 1723169542,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 21751,
@@ -1275,15 +1339,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 20916,
-      "num": 225587,
-      "word": "殷若宁挑战自己超越自己",
-      "onboard_time": 1723169542,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 15732,
+      "raw_hot": 16212,
       "num": 1620921,
       "word": "塞上江南写新篇",
       "onboard_time": 1723121305,
@@ -1312,14 +1368,6 @@
       "word": "骆宗诗跆拳道第4",
       "onboard_time": 1723145471,
       "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 5947,
-      "num": 590740,
-      "word": "殷若宁单日排名第一",
-      "onboard_time": 1723171160,
-      "rank": 14,
       "category": "体育"
     }
   ],

@@ -1,0 +1,410 @@
+{
+  "runTime": 1723171801498,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2319012,
+        "num": 2319012,
+        "word": "21岁少林武僧秋风去世",
+        "onboard_time": 1723169121,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1586948,
+        "num": 1586948,
+        "word": "女子要买18万黄金店长果断报警",
+        "onboard_time": 1723140253,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16212,
+        "num": 1426504,
+        "word": "塞上江南写新篇",
+        "onboard_time": 1723121305,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1408187,
+        "num": 1408187,
+        "word": "中国霹雳舞选手奥运首秀",
+        "onboard_time": 1723167141,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 886420,
+        "num": 886420,
+        "word": "马龙带着嘻嘻哈哈接受采访",
+        "onboard_time": 1723167802,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 874650,
+        "num": 874650,
+        "word": "一眼就能看出来孙杨是演的",
+        "onboard_time": 1723163423,
+        "rank": 5,
+        "category": "体育,剧集"
+      },
+      {
+        "raw_hot": 845707,
+        "num": 845707,
+        "word": "伊能静庾澄庆同框祝福恩利初舞台",
+        "onboard_time": 1723164741,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 814589,
+        "num": 814589,
+        "word": "柳岩首次回应母亲的打压式教育",
+        "onboard_time": 1723170091,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49908,
+        "num": 777730,
+        "word": "特朗普和哈里斯同意9月10日辩论",
+        "onboard_time": 1723170620,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 121120,
+        "num": 748435,
+        "word": "以色列同意恢复加沙停火谈判",
+        "onboard_time": 1723168160,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1803904,
+        "num": 747271,
+        "word": "王楚钦孙颖莎11比1",
+        "onboard_time": 1723160602,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 742695,
+        "num": 742695,
+        "word": "枭起青壤杀青官宣",
+        "onboard_time": 1723169904,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 583713,
+        "num": 583713,
+        "word": "马龙 你要考研啊",
+        "onboard_time": 1723159940,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 555123,
+        "num": 555123,
+        "word": "全红婵 许昕不就这样拍照的吗",
+        "onboard_time": 1723137557,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34111,
+        "num": 541750,
+        "word": "殷若宁单日排名第一",
+        "onboard_time": 1723171160,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 538070,
+        "num": 538070,
+        "word": "美选手自称接吻致兴奋剂阳性获赦免",
+        "onboard_time": 1723123885,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 526828,
+        "num": 526828,
+        "word": "女子吃外卖腹痛发现后厨百只蟑螂",
+        "onboard_time": 1723169960,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331379,
+        "num": 524276,
+        "word": "德云社",
+        "onboard_time": 1723171402,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 277887,
+        "num": 523293,
+        "word": "这居然是宋小宝",
+        "onboard_time": 1723171341,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275912,
+        "num": 522729,
+        "word": "陈哲远 为了剧宣也是拼了",
+        "onboard_time": 1723165281,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 522705,
+        "num": 522705,
+        "word": "巴黎奥运这位裁判是中国军人",
+        "onboard_time": 1723163903,
+        "rank": 20,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 467405,
+        "num": 467405,
+        "word": "石智勇赛后已经无法正常走路",
+        "onboard_time": 1723170260,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 435777,
+        "num": 435777,
+        "word": "张本美和赛后哭了",
+        "onboard_time": 1723158738,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 427744,
+        "num": 427744,
+        "word": "男孩把头埋进超市黄豆里玩妈妈全买下",
+        "onboard_time": 1723145772,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376738,
+        "num": 376738,
+        "word": "花近300万请网红高迪带货商家质疑刷单",
+        "onboard_time": 1723161381,
+        "rank": 24,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 374393,
+        "num": 374393,
+        "word": "张本智和 甄嬛",
+        "onboard_time": 1723129706,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 312910,
+        "num": 312910,
+        "word": "樊振东 拼东东式打法",
+        "onboard_time": 1723168582,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250855,
+        "num": 295489,
+        "word": "港媒在林峯面前cue吴千语",
+        "onboard_time": 1723171040,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247193,
+        "num": 294545,
+        "word": "盛宇 PsyP",
+        "onboard_time": 1723162162,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 237255,
+        "num": 294037,
+        "word": "虞书欣出发苍兰诀活动",
+        "onboard_time": 1723164503,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293984,
+        "num": 293984,
+        "word": "张本智和社媒发哭泣表情",
+        "onboard_time": 1723167501,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286017,
+        "num": 286017,
+        "word": "石智勇无缘领奖台",
+        "onboard_time": 1723146792,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255527,
+        "num": 255527,
+        "word": "樊振东 先帮队友拿包的好孩子",
+        "onboard_time": 1723161683,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247336,
+        "num": 247336,
+        "word": "俄女棋手在棋盘涂水银毒晕对手",
+        "onboard_time": 1723170021,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236116,
+        "num": 236116,
+        "word": "纸嫁衣7",
+        "onboard_time": 1723169061,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 229035,
+        "num": 229035,
+        "word": "F勒布伦新头像",
+        "onboard_time": 1723171460,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227496,
+        "num": 227496,
+        "word": "张博恒谈TheShy",
+        "onboard_time": 1723171282,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 22569,
+        "num": 223577,
+        "word": "殷若宁挑战自己超越自己",
+        "onboard_time": 1723169542,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221945,
+        "num": 221945,
+        "word": "石智勇致歉",
+        "onboard_time": 1723170440,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221094,
+        "num": 221094,
+        "word": "罗诗芳在生理期夺冠",
+        "onboard_time": 1723164263,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220715,
+        "num": 220715,
+        "word": "美国使馆给游泳运动员的脸P图调色",
+        "onboard_time": 1723161861,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210383,
+        "num": 210383,
+        "word": "肖战ELLE金九封面",
+        "onboard_time": 1723171642,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 206885,
+        "num": 206885,
+        "word": "解说口误",
+        "onboard_time": 1723129644,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202029,
+        "num": 202029,
+        "word": "谢思埸奥运会后办婚礼",
+        "onboard_time": 1723168401,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199293,
+        "num": 199293,
+        "word": "中国女子拳击奥运历史首金",
+        "onboard_time": 1723152792,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198581,
+        "num": 198581,
+        "word": "一睁眼中国队再夺4金2银2铜",
+        "onboard_time": 1723165582,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198351,
+        "num": 198351,
+        "word": "以色列",
+        "onboard_time": 1723167322,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 193389,
+        "num": 193389,
+        "word": "于正 P你个头",
+        "onboard_time": 1723131683,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190212,
+        "num": 190212,
+        "word": "孙颖莎童年照太可爱了",
+        "onboard_time": 1723171160,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180986,
+        "num": 180986,
+        "word": "乒乓检录 里里外外看个遍",
+        "onboard_time": 1723171040,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#今天是全民健身日#"
+    }
+  }
+}
