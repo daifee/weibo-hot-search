@@ -1,7 +1,15 @@
 {
   "startTime": 1723134321258,
-  "endTime": 1723213148228,
+  "endTime": 1723214226040,
   "band_list": [
+    {
+      "raw_hot": 14970705,
+      "num": 14970705,
+      "word": "啥质量过马龙正手",
+      "onboard_time": 1723211740,
+      "rank": 0,
+      "category": "体育"
+    },
     {
       "raw_hot": 13096456,
       "num": 13096456,
@@ -19,19 +27,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7696046,
-      "num": 7696046,
-      "word": "啥质量过马龙正手",
-      "onboard_time": 1723211740,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 6035163,
-      "num": 6035163,
+      "raw_hot": 8305198,
+      "num": 8305198,
       "word": "国乒男团vs瑞典",
       "onboard_time": 1723206564,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 8033976,
+      "num": 8033976,
+      "word": "樊振东vs莫雷加德",
+      "onboard_time": 1723212270,
+      "rank": 3,
       "category": "体育"
     },
     {
@@ -43,11 +51,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 4824010,
-      "num": 4824010,
-      "word": "樊振东vs莫雷加德",
-      "onboard_time": 1723212270,
-      "rank": 3,
+      "raw_hot": 4591137,
+      "num": 5682274,
+      "word": "陈艺文跳水金牌",
+      "onboard_time": 1723212756,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 4271018,
+      "num": 4271018,
+      "word": "中国第31金",
+      "onboard_time": 1723213172,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -72,6 +88,14 @@
       "word": "张本智和队友 菜",
       "onboard_time": 1723192281,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3597284,
+      "num": 3597284,
+      "word": "马龙360度挥臂转圈",
+      "onboard_time": 1723212331,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -107,6 +131,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 3031727,
+      "num": 3031727,
+      "word": "樊振东 掌管收视率的神",
+      "onboard_time": 1723212871,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3017947,
       "num": 3017947,
       "word": "张本智和输比赛后笑了",
@@ -123,28 +155,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2884153,
-      "num": 2884153,
-      "word": "马龙360度挥臂转圈",
-      "onboard_time": 1723212331,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2851601,
-      "num": 2851601,
-      "word": "陈艺文跳水金牌",
-      "onboard_time": 1723212756,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 2849863,
       "num": 2849863,
       "word": "韩安冉要起诉妈妈",
       "onboard_time": 1723181120,
       "rank": 8,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2773804,
+      "num": 2773804,
+      "word": "樊振东 慢热",
+      "onboard_time": 1723213231,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 2636228,
@@ -211,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2152593,
+      "num": 2152593,
+      "word": "昌雅妮第一跳失误",
+      "onboard_time": 1723209809,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2110880,
       "num": 2110880,
       "word": "女子要买18万黄金店长果断报警",
@@ -224,14 +256,6 @@
       "word": "罗诗芳摘金",
       "onboard_time": 1723129889,
       "rank": 0,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2088124,
-      "num": 2088124,
-      "word": "昌雅妮第一跳失误",
-      "onboard_time": 1723209809,
-      "rank": 12,
       "category": "体育"
     },
     {
@@ -260,7 +284,7 @@
     },
     {
       "raw_hot": 1934683,
-      "num": 2581798,
+      "num": 3448814,
       "word": "曝王丽坤老公与贾青亲密合照",
       "onboard_time": 1723176502,
       "rank": 15,
@@ -331,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1733446,
+      "num": 1733446,
+      "word": "陈艺文大满贯",
+      "onboard_time": 1723213530,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1724502,
       "num": 593633,
       "word": "解说口误",
@@ -395,14 +427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1514790,
-      "num": 1514790,
-      "word": "樊振东 掌管收视率的神",
-      "onboard_time": 1723212871,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1510188,
       "num": 1510188,
       "word": "日本女团进决赛",
@@ -451,6 +475,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1404835,
+      "num": 1404835,
+      "word": "许昕解说",
+      "onboard_time": 1723210526,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1359018,
+      "num": 1359018,
+      "word": "马龙王楚钦3比2胜瑞典",
+      "onboard_time": 1723213470,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1336672,
       "num": 1336672,
       "word": "陈梦早期的短发照片",
@@ -467,11 +507,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1303785,
-      "num": 1303785,
-      "word": "许昕解说",
-      "onboard_time": 1723210526,
-      "rank": 25,
+      "raw_hot": 1321209,
+      "num": 1321209,
+      "word": "昌雅妮铜牌",
+      "onboard_time": 1723213172,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -659,6 +699,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 985549,
+      "num": 900386,
+      "word": "瑞典国王观战乒乓球男团决赛",
+      "onboard_time": 1723211740,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 977958,
       "num": 745194,
       "word": "樊振东 食堂NPC",
@@ -691,20 +739,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 915147,
+      "num": 763349,
+      "word": "陈艺文好稳",
+      "onboard_time": 1723212634,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 914952,
       "num": 914952,
       "word": "河南一地突发凶案致多人伤亡",
       "onboard_time": 1723198045,
       "rank": 22,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 900386,
-      "num": 900386,
-      "word": "瑞典国王观战乒乓球男团决赛",
-      "onboard_time": 1723211740,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 868444,
@@ -740,7 +788,7 @@
     },
     {
       "raw_hot": 845265,
-      "num": 2645120,
+      "num": 3519497,
       "word": "韩安冉是自己报名参加变形计",
       "onboard_time": 1723203025,
       "rank": 35,
@@ -819,14 +867,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 763349,
-      "num": 763349,
-      "word": "陈艺文好稳",
-      "onboard_time": 1723212634,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 756351,
       "num": 756351,
       "word": "中国女子拳击奥运历史首金",
@@ -860,7 +900,7 @@
     },
     {
       "raw_hot": 722679,
-      "num": 2637590,
+      "num": 3304829,
       "word": "许魏洲观战国乒男团决赛",
       "onboard_time": 1723210766,
       "rank": 8,
@@ -883,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 714793,
+      "num": 513732,
+      "word": "许昕还是太全面了",
+      "onboard_time": 1723212994,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 706642,
       "num": 706642,
       "word": "金子涵去拍短剧了",
@@ -900,7 +948,7 @@
     },
     {
       "raw_hot": 697467,
-      "num": 851824,
+      "num": 2118558,
       "word": "薛之谦 其实我也看出你有点不舍",
       "onboard_time": 1723209084,
       "rank": 18,
@@ -1051,6 +1099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 597611,
+      "num": 3293011,
+      "word": "女生腿上冒痘长成巨型火疖子",
+      "onboard_time": 1723206264,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 585876,
       "num": 921142,
       "word": "浙江宁波舟山港一货轮集装箱爆炸",
@@ -1113,6 +1169,14 @@
       "onboard_time": 1723182741,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 513938,
+      "num": 2636265,
+      "word": "9岁女孩被老师用尺子砸成重伤二级",
+      "onboard_time": 1723212032,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 508326,
@@ -1195,6 +1259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 460112,
+      "num": 460112,
+      "word": "昌雅妮哭了",
+      "onboard_time": 1723213889,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 459060,
       "num": 972715,
       "word": "盛宇 PsyP",
@@ -1240,14 +1312,6 @@
       "word": "王楚钦父母来京静候佳音",
       "onboard_time": 1723198644,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 430486,
-      "num": 430486,
-      "word": "许昕还是太全面了",
-      "onboard_time": 1723212994,
-      "rank": 40,
       "category": "体育"
     },
     {
@@ -1379,14 +1443,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 395054,
-      "num": 2212866,
-      "word": "女生腿上冒痘长成巨型火疖子",
-      "onboard_time": 1723206264,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 392825,
       "num": 537543,
       "word": "周杰伦回复张之臻",
@@ -1500,7 +1556,7 @@
     },
     {
       "raw_hot": 358756,
-      "num": 381036,
+      "num": 434103,
       "word": "林志玲为老公黑泽良平打call",
       "onboard_time": 1723209925,
       "rank": 28,
@@ -1657,6 +1713,14 @@
       "onboard_time": 1723107687,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 323469,
+      "num": 835827,
+      "word": "许凯看张杰演唱会",
+      "onboard_time": 1723206024,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 317033,
@@ -1963,12 +2027,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 268474,
-      "num": 835827,
-      "word": "许凯看张杰演唱会",
-      "onboard_time": 1723206024,
-      "rank": 27,
-      "category": "演出"
+      "raw_hot": 268019,
+      "num": 640913,
+      "word": "王鹤润回应争议",
+      "onboard_time": 1723207763,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 266631,
+      "num": 448993,
+      "word": "宋慧乔近期状态",
+      "onboard_time": 1723210526,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 265575,
@@ -2161,6 +2233,14 @@
       "onboard_time": 1723205003,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 236238,
+      "num": 430437,
+      "word": "杨洋吃瓜图",
+      "onboard_time": 1723213530,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 235422,
@@ -2457,14 +2537,6 @@
       "onboard_time": 1723184421,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206144,
-      "num": 640913,
-      "word": "王鹤润回应争议",
-      "onboard_time": 1723207763,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 205696,
@@ -2931,14 +3003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 173980,
-      "num": 2636265,
-      "word": "9岁女孩被老师用尺子砸成重伤二级",
-      "onboard_time": 1723212032,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 172780,
       "num": 409909,
       "word": "王玉雯 亡妻回忆录赛道",
@@ -3075,14 +3139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140029,
-      "num": 345115,
-      "word": "宋慧乔近期状态",
-      "onboard_time": 1723210526,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 139145,
       "num": 176884,
       "word": "海棠维护",
@@ -3163,6 +3219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126125,
+      "num": 1510861,
+      "word": "北京城区已达暴雨级别",
+      "onboard_time": 1723208483,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126058,
       "num": 126058,
       "word": "巴黎碎纸机",
@@ -3193,14 +3257,6 @@
       "onboard_time": 1723205182,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 112519,
-      "num": 120473,
-      "word": "北京城区已达暴雨级别",
-      "onboard_time": 1723208483,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108814,
@@ -3580,7 +3636,7 @@
     },
     {
       "raw_hot": 35972,
-      "num": 2615841,
+      "num": 3086926,
       "word": "这才是中国顶流",
       "onboard_time": 1723210526,
       "rank": 11,
