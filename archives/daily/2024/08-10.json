@@ -1,6 +1,6 @@
 {
   "startTime": 1723220716442,
-  "endTime": 1723242031017,
+  "endTime": 1723243030996,
   "band_list": [
     {
       "raw_hot": 10626785,
@@ -179,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1367309,
+      "num": 395768,
+      "word": "马龙和王楚钦看樊振东追星的样子",
+      "onboard_time": 1723232231,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1319684,
       "num": 839191,
       "word": "马龙樊振东王楚钦金牌",
@@ -208,14 +216,6 @@
       "word": "樊振东 有始有终",
       "onboard_time": 1723228573,
       "rank": 3,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1030639,
-      "num": 242608,
-      "word": "马龙和王楚钦看樊振东追星的样子",
-      "onboard_time": 1723232231,
-      "rank": 10,
       "category": "体育"
     },
     {
@@ -339,8 +339,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 508201,
-      "num": 508201,
+      "raw_hot": 517710,
+      "num": 517710,
       "word": "杨柳拳击银牌",
       "onboard_time": 1723238292,
       "rank": 8,
@@ -371,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 468945,
+      "num": 148997,
+      "word": "王楚钦单打只想不输外战",
+      "onboard_time": 1723234212,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 449906,
       "num": 848989,
       "word": "许魏洲观战国乒男团决赛",
@@ -393,14 +401,6 @@
       "onboard_time": 1723195042,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 382331,
-      "num": 126437,
-      "word": "王楚钦单打只想不输外战",
-      "onboard_time": 1723234212,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 377663,
@@ -531,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234936,
+      "num": 195777,
+      "word": "樊振东发霉霉的歌庆祝男团夺冠",
+      "onboard_time": 1723229653,
+      "rank": 42,
+      "category": "体育,音乐"
+    },
+    {
       "raw_hot": 231688,
       "num": 220330,
       "word": "樊振东打球全台无死角",
@@ -609,14 +617,6 @@
       "onboard_time": 1723176502,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 195777,
-      "num": 195777,
-      "word": "樊振东发霉霉的歌庆祝男团夺冠",
-      "onboard_time": 1723229653,
-      "rank": 42,
-      "category": "体育,音乐"
     },
     {
       "raw_hot": 185774,
@@ -787,6 +787,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 65945,
+      "num": 408215,
+      "word": "杨柳好样的",
+      "onboard_time": 1723242554,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 54544,
       "num": 122597,
       "word": "巩立姣说努力了就不后悔",
@@ -803,12 +811,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50052,
+      "num": 412034,
+      "word": "美方称对以色列财长言论感到震惊",
+      "onboard_time": 1723241594,
+      "rank": 46,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 46391,
       "num": 207282,
       "word": "和喜欢的人宅在家",
       "onboard_time": 1723228094,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 45268,
+      "num": 272776,
+      "word": "神仙餐厅8年来吃饭不收一分钱",
+      "onboard_time": 1723237631,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41107,
+      "num": 84896,
+      "word": "幼儿园老师吵架丢水杯砸破孩子头部",
+      "onboard_time": 1723234812,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41026,
+      "num": 125795,
+      "word": "车祸后民警变身话痨抢回一条命",
+      "onboard_time": 1723241773,
+      "rank": 17,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 40649,
@@ -819,27 +859,19 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 38786,
-      "num": 84896,
-      "word": "幼儿园老师吵架丢水杯砸破孩子头部",
-      "onboard_time": 1723234812,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37972,
-      "num": 272776,
-      "word": "神仙餐厅8年来吃饭不收一分钱",
-      "onboard_time": 1723237631,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 35156,
       "num": 393500,
       "word": "王柳懿王芊懿技术自选排名第一",
       "onboard_time": 1723231453,
       "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 33484,
+      "num": 402714,
+      "word": "巩立姣说到练不动才退役",
+      "onboard_time": 1723241953,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -859,14 +891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30866,
-      "num": 102084,
-      "word": "美方称对以色列财长言论感到震惊",
-      "onboard_time": 1723241594,
-      "rank": 46,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 30117,
       "num": 94704,
       "word": "中国女曲时隔16年再摘银牌",
@@ -883,20 +907,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 24021,
-      "num": 125795,
-      "word": "车祸后民警变身话痨抢回一条命",
-      "onboard_time": 1723241773,
-      "rank": 17,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 22593,
       "num": 129101,
       "word": "吴愉对国旗敬礼",
       "onboard_time": 1723241414,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21598,
+      "num": 529515,
+      "word": "全国秋粮面积稳中有增",
+      "onboard_time": 1723207163,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20076,
@@ -907,27 +931,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18328,
-      "num": 445685,
-      "word": "全国秋粮面积稳中有增",
-      "onboard_time": 1723207163,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 17607,
       "num": 358970,
       "word": "中国男子4×100接力决赛",
       "onboard_time": 1723224617,
       "rank": 13,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 5885,
-      "num": 127386,
-      "word": "巩立姣说到练不动才退役",
-      "onboard_time": 1723241953,
-      "rank": 14,
       "category": "体育"
     }
   ],
