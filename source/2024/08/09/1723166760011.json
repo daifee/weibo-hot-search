@@ -1,0 +1,410 @@
+{
+  "runTime": 1723166760011,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1783104,
+        "num": 1783104,
+        "word": "女子要买18万黄金店长果断报警",
+        "onboard_time": 1723140253,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1601007,
+        "num": 1601007,
+        "word": "马龙 你要考研啊",
+        "onboard_time": 1723159940,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43986,
+        "num": 1507659,
+        "word": "何以中国一檐千年",
+        "onboard_time": 1723121724,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1493008,
+        "num": 1493008,
+        "word": "伊能静庾澄庆同框祝福恩利初舞台",
+        "onboard_time": 1723164741,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1169409,
+        "num": 1169409,
+        "word": "美选手自称接吻致兴奋剂阳性获赦免",
+        "onboard_time": 1723123885,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1024953,
+        "num": 1024953,
+        "word": "张本美和赛后哭了",
+        "onboard_time": 1723158738,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1017332,
+        "num": 1017332,
+        "word": "巴黎奥运这位裁判是中国军人",
+        "onboard_time": 1723163903,
+        "rank": 6,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 997303,
+        "num": 997303,
+        "word": "全红婵 许昕不就这样拍照的吗",
+        "onboard_time": 1723137557,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 459060,
+        "num": 972715,
+        "word": "盛宇 PsyP",
+        "onboard_time": 1723162162,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 955529,
+        "num": 955529,
+        "word": "花近300万请网红高迪带货商家质疑刷单",
+        "onboard_time": 1723161381,
+        "rank": 9,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 894173,
+        "num": 894173,
+        "word": "男孩把头埋进超市黄豆里玩妈妈全买下",
+        "onboard_time": 1723145772,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 884535,
+        "num": 884535,
+        "word": "一眼就能看出来孙杨是演的",
+        "onboard_time": 1723163423,
+        "rank": 11,
+        "category": "体育,剧集"
+      },
+      {
+        "raw_hot": 851277,
+        "num": 851277,
+        "word": "樊振东 先帮队友拿包的好孩子",
+        "onboard_time": 1723161683,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 836899,
+        "num": 836899,
+        "word": "美国使馆给游泳运动员的脸P图调色",
+        "onboard_time": 1723161861,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 643570,
+        "num": 643570,
+        "word": "樊振东快成为勒布伦过不去的坎了",
+        "onboard_time": 1723159400,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 597982,
+        "num": 597982,
+        "word": "中国女子拳击奥运历史首金",
+        "onboard_time": 1723152792,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 379980,
+        "num": 590346,
+        "word": "虞书欣出发苍兰诀活动",
+        "onboard_time": 1723164503,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299059,
+        "num": 571923,
+        "word": "陈哲远 为了剧宣也是拼了",
+        "onboard_time": 1723165281,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234061,
+        "num": 557413,
+        "word": "于正 P你个头",
+        "onboard_time": 1723131683,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205391,
+        "num": 531450,
+        "word": "没有观察室的恋综",
+        "onboard_time": 1723136057,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 529600,
+        "num": 529600,
+        "word": "石智勇无缘领奖台",
+        "onboard_time": 1723146792,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 496785,
+        "num": 496785,
+        "word": "张本美和谈女团决赛对中国",
+        "onboard_time": 1723160181,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 470020,
+        "num": 470020,
+        "word": "张本智和 甄嬛",
+        "onboard_time": 1723129706,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 372681,
+        "num": 372681,
+        "word": "石智勇说内收肌可能断了",
+        "onboard_time": 1723158678,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 363633,
+        "num": 363633,
+        "word": "美国跳水运动员3米跳板预赛0分",
+        "onboard_time": 1723162343,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 350198,
+        "num": 350198,
+        "word": "罗诗芳在生理期夺冠",
+        "onboard_time": 1723164263,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 340434,
+        "num": 340434,
+        "word": "她是全军唯一跆拳道项目国际裁判员",
+        "onboard_time": 1723166602,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161679,
+        "num": 325935,
+        "word": "张凌赫蒋峤西定妆",
+        "onboard_time": 1723166122,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144398,
+        "num": 318873,
+        "word": "娜扎牛仔无袖长裙",
+        "onboard_time": 1723166362,
+        "rank": 28,
+        "category": "作品衍生,综艺"
+      },
+      {
+        "raw_hot": 144265,
+        "num": 315200,
+        "word": "黄多多编耳机保护绳",
+        "onboard_time": 1723126048,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314610,
+        "num": 314610,
+        "word": "日本女团进决赛",
+        "onboard_time": 1723149013,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293155,
+        "num": 293155,
+        "word": "解说口误",
+        "onboard_time": 1723129644,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283774,
+        "num": 283774,
+        "word": "遇害18岁男生家属称凶手是以前邻居",
+        "onboard_time": 1723122805,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241082,
+        "num": 241082,
+        "word": "樊振东采访时牵着马龙的袖口",
+        "onboard_time": 1723122324,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235422,
+        "num": 235422,
+        "word": "王皓夸赞王楚钦",
+        "onboard_time": 1723164263,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233736,
+        "num": 233736,
+        "word": "张博恒 我是茶茶",
+        "onboard_time": 1723122143,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224033,
+        "num": 224033,
+        "word": "东北男友第一次到内蒙古女友家",
+        "onboard_time": 1723159578,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221323,
+        "num": 221323,
+        "word": "王楚钦孙颖莎11比1",
+        "onboard_time": 1723160602,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216419,
+        "num": 216419,
+        "word": "杜兰特杀死比赛",
+        "onboard_time": 1723161202,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204536,
+        "num": 204536,
+        "word": "中国女曲与荷兰争金",
+        "onboard_time": 1723166362,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201154,
+        "num": 201154,
+        "word": "罗诗芳比赛期间睡觉不忘盖肚子",
+        "onboard_time": 1723166421,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198934,
+        "num": 198934,
+        "word": "一睁眼中国队再夺4金2银2铜",
+        "onboard_time": 1723165582,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192006,
+        "num": 192006,
+        "word": "石智勇 可惜",
+        "onboard_time": 1723147272,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191956,
+        "num": 191956,
+        "word": "马龙真的好像一个实习教练",
+        "onboard_time": 1723162283,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177127,
+        "num": 177127,
+        "word": "花花为吃饭晃起了小jiojio",
+        "onboard_time": 1723159339,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164587,
+        "num": 164587,
+        "word": "F勒布伦恭喜中国队",
+        "onboard_time": 1723160301,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162339,
+        "num": 162339,
+        "word": "王曼昱演我工作时的状态",
+        "onboard_time": 1723166362,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147827,
+        "num": 147827,
+        "word": "好喜欢这种可以发癫的工作",
+        "onboard_time": 1723166421,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141622,
+        "num": 147583,
+        "word": "马来西亚6名学生致同学死亡后被绞刑",
+        "onboard_time": 1723115663,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136363,
+        "num": 147290,
+        "word": "贾青回应与王丽坤前夫谈过恋爱传闻",
+        "onboard_time": 1723158618,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#今天是全民健身日#"
+    }
+  }
+}
