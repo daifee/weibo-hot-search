@@ -1,0 +1,410 @@
+{
+  "runTime": 1723209779517,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2976310,
+        "num": 2976310,
+        "word": "马龙王楚钦vs卡尔伯格卡尔森",
+        "onboard_time": 1723207583,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2183315,
+        "num": 2183315,
+        "word": "国乒男团vs瑞典",
+        "onboard_time": 1723206564,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180146,
+        "num": 1711618,
+        "word": "天宫空间站运动会也太会整活了",
+        "onboard_time": 1723207344,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1273344,
+        "num": 1273344,
+        "word": "乒乓球男团铜牌赛",
+        "onboard_time": 1723190604,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1027197,
+        "num": 1027197,
+        "word": "王昶偶遇马龙的反应",
+        "onboard_time": 1723208062,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 764791,
+        "num": 764791,
+        "word": "韩安冉是自己报名参加变形计",
+        "onboard_time": 1723203025,
+        "rank": 5,
+        "category": "综艺,网红"
+      },
+      {
+        "raw_hot": 758500,
+        "num": 758500,
+        "word": "韩安冉要起诉妈妈",
+        "onboard_time": 1723181120,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 731528,
+        "num": 731528,
+        "word": "女子跳水三米板决赛",
+        "onboard_time": 1723207823,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 717987,
+        "num": 717987,
+        "word": "曝王丽坤老公与贾青亲密合照",
+        "onboard_time": 1723176502,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307369,
+        "num": 669437,
+        "word": "网店挂错价格被疯抢价值2亿元产品",
+        "onboard_time": 1723208423,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643839,
+        "num": 643839,
+        "word": "乒乓球决赛",
+        "onboard_time": 1723204882,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32462,
+        "num": 382740,
+        "word": "什么车经得住这样撞啊",
+        "onboard_time": 1723207645,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 376616,
+        "num": 376616,
+        "word": "法国男团铜牌",
+        "onboard_time": 1723202308,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120866,
+        "num": 354610,
+        "word": "昌雅妮 失误",
+        "onboard_time": 1723209390,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66950,
+        "num": 348330,
+        "word": "俄库尔斯克州进入联邦级紧急状态",
+        "onboard_time": 1723208423,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 345288,
+        "num": 345288,
+        "word": "纸盒 小猴",
+        "onboard_time": 1723194623,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175792,
+        "num": 343740,
+        "word": "许凯看张杰演唱会",
+        "onboard_time": 1723206024,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154705,
+        "num": 339997,
+        "word": "时代少年团新歌梦舞蹈版",
+        "onboard_time": 1723207583,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128407,
+        "num": 336408,
+        "word": "薛之谦 其实我也看出你有点不舍",
+        "onboard_time": 1723209084,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37288,
+        "num": 332473,
+        "word": "梁伟铿樊振东梁靖崑三胖大闹巴黎",
+        "onboard_time": 1723209390,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 635909,
+        "num": 328744,
+        "word": "王丽坤老公承认嫖娼花费数百万元",
+        "onboard_time": 1723195105,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328346,
+        "num": 328346,
+        "word": "张本智和0奖牌",
+        "onboard_time": 1723203145,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323254,
+        "num": 323254,
+        "word": "张本智和 被逆转的神",
+        "onboard_time": 1723197924,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254923,
+        "num": 254923,
+        "word": "中新网连麦王昶梁伟铿",
+        "onboard_time": 1723203924,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219934,
+        "num": 219934,
+        "word": "张本智和把男单金银铜打遍了",
+        "onboard_time": 1723194924,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213650,
+        "num": 213650,
+        "word": "艺术体操配乐",
+        "onboard_time": 1723208665,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190411,
+        "num": 190411,
+        "word": "艺术体操决赛",
+        "onboard_time": 1723209145,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190404,
+        "num": 190404,
+        "word": "太医说那是一个已经成了形的奖牌",
+        "onboard_time": 1723205003,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121290,
+        "num": 189619,
+        "word": "王鹤润回应争议",
+        "onboard_time": 1723207763,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117139,
+        "num": 188805,
+        "word": "薛之谦哭了",
+        "onboard_time": 1723205423,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 234942,
+        "num": 186771,
+        "word": "什么时候看到马龙这张图能不笑",
+        "onboard_time": 1723208123,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214762,
+        "num": 186494,
+        "word": "王昶 赛前装瘸",
+        "onboard_time": 1723209328,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185540,
+        "num": 185540,
+        "word": "乒乓球男团铜牌赛 凌迟局",
+        "onboard_time": 1723202727,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183640,
+        "num": 183640,
+        "word": "北京暴雨",
+        "onboard_time": 1723193002,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119629,
+        "num": 181735,
+        "word": "何运晨巡演造型",
+        "onboard_time": 1723205182,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170916,
+        "num": 181727,
+        "word": "乒乓界有自己的EXO",
+        "onboard_time": 1723207163,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171610,
+        "num": 181722,
+        "word": "艺术体操",
+        "onboard_time": 1723208483,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181722,
+        "num": 181721,
+        "word": "男子单人十米台预赛",
+        "onboard_time": 1723189944,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179480,
+        "num": 179480,
+        "word": "日本男团vs法国男团",
+        "onboard_time": 1723189824,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111174,
+        "num": 169097,
+        "word": "石凯 黑铠甲",
+        "onboard_time": 1723207823,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167206,
+        "num": 167206,
+        "word": "特朗普称中俄不再尊重美国",
+        "onboard_time": 1723195042,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 150496,
+        "num": 150496,
+        "word": "乒乓球赛程",
+        "onboard_time": 1723209505,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148622,
+        "num": 148622,
+        "word": "巴基斯坦教练震惊得摘下了墨镜",
+        "onboard_time": 1723209084,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142648,
+        "num": 142648,
+        "word": "美花游选手药检阳性却参加奥运获银牌",
+        "onboard_time": 1723206925,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126058,
+        "num": 126058,
+        "word": "巴黎碎纸机",
+        "onboard_time": 1723208545,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120474,
+        "num": 120474,
+        "word": "北化工录取通知书 科技与狠活",
+        "onboard_time": 1723209390,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 112519,
+        "num": 120473,
+        "word": "北京城区已达暴雨级别",
+        "onboard_time": 1723208483,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109205,
+        "num": 120473,
+        "word": "用一只螃蟹做了六菜一汤",
+        "onboard_time": 1723207163,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 102565,
+        "num": 120472,
+        "word": "日本地震",
+        "onboard_time": 1723201825,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102214,
+        "num": 120471,
+        "word": "小狗被大狗吓到立马抱紧主人",
+        "onboard_time": 1723208423,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻文化根魂#"
+    }
+  }
+}
