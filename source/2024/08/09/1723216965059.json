@@ -1,0 +1,410 @@
+{
+  "runTime": 1723216965059,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 13630178,
+        "num": 13630178,
+        "word": "樊振东vs莫雷加德",
+        "onboard_time": 1723212270,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7278186,
+        "num": 7278186,
+        "word": "啥质量过马龙正手",
+        "onboard_time": 1723211740,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5846381,
+        "num": 7096381,
+        "word": "樊振东双杀莫雷加德",
+        "onboard_time": 1723215037,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5377003,
+        "num": 5377003,
+        "word": "国乒男团vs瑞典",
+        "onboard_time": 1723206564,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5135404,
+        "num": 5135404,
+        "word": "王楚钦vs卡尔森",
+        "onboard_time": 1723215332,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3610447,
+        "num": 3610447,
+        "word": "陈艺文跳水金牌",
+        "onboard_time": 1723212756,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 659267,
+        "num": 1759139,
+        "word": "韩安冉是自己报名参加变形计",
+        "onboard_time": 1723203025,
+        "rank": 6,
+        "category": "综艺,网红"
+      },
+      {
+        "raw_hot": 640466,
+        "num": 1528976,
+        "word": "许魏洲观战国乒男团决赛",
+        "onboard_time": 1723210766,
+        "rank": 7,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 92453,
+        "num": 1469030,
+        "word": "青岛地铁冲突前小伙曾言语滋扰他人",
+        "onboard_time": 1723216290,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1409939,
+        "num": 1464202,
+        "word": "王子露秦王破阵乐",
+        "onboard_time": 1723215871,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3433825,
+        "num": 1379395,
+        "word": "王楚钦 拧拉的神",
+        "onboard_time": 1723210766,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 786313,
+        "num": 786313,
+        "word": "女生腿上冒痘长成巨型火疖子",
+        "onboard_time": 1723206264,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606248,
+        "num": 786047,
+        "word": "9岁女孩被老师用尺子砸成重伤二级",
+        "onboard_time": 1723212032,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443639,
+        "num": 785312,
+        "word": "李雪琴在十天被孤立",
+        "onboard_time": 1723195042,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415343,
+        "num": 784655,
+        "word": "曝王丽坤老公与贾青亲密合照",
+        "onboard_time": 1723176502,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3204366,
+        "num": 784097,
+        "word": "瑞典队摔拍子",
+        "onboard_time": 1723214921,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2891388,
+        "num": 783632,
+        "word": "摆短",
+        "onboard_time": 1723211855,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2875359,
+        "num": 783011,
+        "word": "小莫心态",
+        "onboard_time": 1723214921,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2790458,
+        "num": 782814,
+        "word": "樊振东 掌管收视率的神",
+        "onboard_time": 1723212871,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 364316,
+        "num": 782218,
+        "word": "薛之谦 其实我也看出你有点不舍",
+        "onboard_time": 1723209084,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1828527,
+        "num": 781481,
+        "word": "樊振东再现姆巴佩动作庆祝",
+        "onboard_time": 1723215572,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1527920,
+        "num": 780784,
+        "word": "马龙360度挥臂转圈",
+        "onboard_time": 1723212331,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1233912,
+        "num": 780433,
+        "word": "樊振东衣服湿透了",
+        "onboard_time": 1723215332,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1155376,
+        "num": 779869,
+        "word": "陈艺文大满贯",
+        "onboard_time": 1723213530,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1028198,
+        "num": 778905,
+        "word": "王丽坤老公承认嫖娼花费数百万元",
+        "onboard_time": 1723195105,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1102177,
+        "num": 778291,
+        "word": "皇马 献祭",
+        "onboard_time": 1723216290,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1095747,
+        "num": 777661,
+        "word": "霹雳舞比赛好看",
+        "onboard_time": 1723214429,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 374781,
+        "num": 777037,
+        "word": "网店挂错价格被疯抢价值2亿元产品",
+        "onboard_time": 1723208423,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360652,
+        "num": 776499,
+        "word": "杨洋吃瓜图",
+        "onboard_time": 1723213530,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317916,
+        "num": 775882,
+        "word": "他一下就亲到了我的上巴",
+        "onboard_time": 1723196484,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1034756,
+        "num": 775552,
+        "word": "杨紫琼给陈艺文昌雅妮颁奖",
+        "onboard_time": 1723216290,
+        "rank": 30,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 1018062,
+        "num": 774950,
+        "word": "乒乓球男团铜牌赛",
+        "onboard_time": 1723190604,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 372167,
+        "num": 774328,
+        "word": "韩安冉要起诉妈妈",
+        "onboard_time": 1723181120,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 322942,
+        "num": 773592,
+        "word": "曝赵露思和彭冠英将合作流鱼",
+        "onboard_time": 1723216836,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301644,
+        "num": 773459,
+        "word": "闵玧其或将被判有期徒刑",
+        "onboard_time": 1723216350,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1002746,
+        "num": 772845,
+        "word": "樊振东 慢热",
+        "onboard_time": 1723213231,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 989042,
+        "num": 772177,
+        "word": "鞍山小马当打之年",
+        "onboard_time": 1723216469,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 960100,
+        "num": 771559,
+        "word": "王楚钦马龙拿下首盘",
+        "onboard_time": 1723211855,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 958562,
+        "num": 770925,
+        "word": "龙队熟练地蹲下",
+        "onboard_time": 1723210708,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 854004,
+        "num": 770060,
+        "word": "中国第31金",
+        "onboard_time": 1723213172,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290415,
+        "num": 769933,
+        "word": "林志玲为老公黑泽良平打call",
+        "onboard_time": 1723209925,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 769408,
+        "num": 769408,
+        "word": "霹雳舞",
+        "onboard_time": 1723214549,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 761594,
+        "num": 761594,
+        "word": "乒乓球决赛",
+        "onboard_time": 1723204882,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 625307,
+        "num": 625307,
+        "word": "许昕复盘",
+        "onboard_time": 1723216173,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 622167,
+        "num": 622167,
+        "word": "艺术体操",
+        "onboard_time": 1723208483,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 597441,
+        "num": 597441,
+        "word": "马龙王楚钦3比2胜瑞典",
+        "onboard_time": 1723213470,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295679,
+        "num": 588346,
+        "word": "北京城区已达暴雨级别",
+        "onboard_time": 1723208483,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266943,
+        "num": 569278,
+        "word": "许凯看张杰演唱会",
+        "onboard_time": 1723206024,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 254243,
+        "num": 550946,
+        "word": "宋慧乔近期状态",
+        "onboard_time": 1723210526,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242047,
+        "num": 533145,
+        "word": "韩安冉",
+        "onboard_time": 1723202786,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻文化根魂#"
+    }
+  }
+}

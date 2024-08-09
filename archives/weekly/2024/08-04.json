@@ -1,6 +1,6 @@
 {
   "startTime": 1722702313981,
-  "endTime": 1723214226040,
+  "endTime": 1723216965059,
   "band_list": [
     {
       "raw_hot": 35169209,
@@ -467,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 5846381,
+      "num": 7096381,
+      "word": "樊振东双杀莫雷加德",
+      "onboard_time": 1723215037,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 5783219,
       "num": 5783219,
       "word": "TFBOYS出道十一周年",
@@ -512,6 +520,14 @@
       "word": "孙颖莎采访呢",
       "onboard_time": 1722700347,
       "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 5135404,
+      "num": 5135404,
+      "word": "王楚钦vs卡尔森",
+      "onboard_time": 1723215332,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -963,6 +979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3433825,
+      "num": 1988718,
+      "word": "王楚钦 拧拉的神",
+      "onboard_time": 1723210766,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3358883,
       "num": 3358883,
       "word": "陈梦最近3年只赢过两次孙颖莎",
@@ -1016,6 +1040,14 @@
       "word": "羽毛球男双颁奖",
       "onboard_time": 1722787410,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3204366,
+      "num": 784097,
+      "word": "瑞典队摔拍子",
+      "onboard_time": 1723214921,
+      "rank": 15,
       "category": "体育"
     },
     {
@@ -1232,6 +1264,14 @@
       "word": "陈若琳教练",
       "onboard_time": 1722954101,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2875359,
+      "num": 783011,
+      "word": "小莫心态",
+      "onboard_time": 1723214921,
+      "rank": 17,
       "category": "体育"
     },
     {
@@ -2187,14 +2227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1988718,
-      "num": 1988718,
-      "word": "王楚钦 拧拉的神",
-      "onboard_time": 1723210766,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1986273,
       "num": 1986273,
       "word": "女子100米栏复活赛",
@@ -2440,6 +2472,14 @@
       "word": "举重男子61公斤级决赛",
       "onboard_time": 1723035204,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1828527,
+      "num": 781481,
+      "word": "樊振东再现姆巴佩动作庆祝",
+      "onboard_time": 1723215572,
+      "rank": 20,
       "category": "体育"
     },
     {
@@ -3355,6 +3395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1409939,
+      "num": 1464202,
+      "word": "王子露秦王破阵乐",
+      "onboard_time": 1723215871,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1408595,
       "num": 1408595,
       "word": "吴艳妮心疼教练为自己比赛推迟手术",
@@ -3800,6 +3848,14 @@
       "word": "吕小军举重鞋",
       "onboard_time": 1723045463,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1233912,
+      "num": 780433,
+      "word": "樊振东衣服湿透了",
+      "onboard_time": 1723215332,
+      "rank": 22,
       "category": "体育"
     },
     {
@@ -4251,11 +4307,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1102177,
+      "num": 778291,
+      "word": "皇马 献祭",
+      "onboard_time": 1723216290,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1100927,
       "num": 1393711,
       "word": "女子自由体操决赛",
       "onboard_time": 1722861031,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1095747,
+      "num": 777661,
+      "word": "霹雳舞比赛好看",
+      "onboard_time": 1723214429,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -4459,6 +4531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1034756,
+      "num": 775552,
+      "word": "杨紫琼给陈艺文昌雅妮颁奖",
+      "onboard_time": 1723216290,
+      "rank": 30,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 1034167,
       "num": 1837768,
       "word": "光渊 上线",
@@ -4641,6 +4721,14 @@
       "onboard_time": 1722773728,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 989042,
+      "num": 772177,
+      "word": "鞍山小马当打之年",
+      "onboard_time": 1723216469,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 987440,
@@ -5467,6 +5555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 786313,
+      "num": 3293011,
+      "word": "女生腿上冒痘长成巨型火疖子",
+      "onboard_time": 1723206264,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 786216,
       "num": 786216,
       "word": "壮壮妈好稳",
@@ -5560,6 +5656,14 @@
       "word": "中国拳击女队已锁定4枚奖牌",
       "onboard_time": 1722771505,
       "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 769408,
+      "num": 769408,
+      "word": "霹雳舞",
+      "onboard_time": 1723214549,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -6403,6 +6507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 625307,
+      "num": 625307,
+      "word": "许昕复盘",
+      "onboard_time": 1723216173,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 623833,
       "num": 623833,
       "word": "跳水梦之队包揽金银",
@@ -6579,6 +6691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 606248,
+      "num": 2636265,
+      "word": "9岁女孩被老师用尺子砸成重伤二级",
+      "onboard_time": 1723212032,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 605284,
       "num": 605284,
       "word": "阿泰 鹿小鸣",
@@ -6633,14 +6753,6 @@
       "onboard_time": 1723132222,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 597611,
-      "num": 3293011,
-      "word": "女生腿上冒痘长成巨型火疖子",
-      "onboard_time": 1723206264,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 597589,
@@ -7345,14 +7457,6 @@
       "onboard_time": 1722930627,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 513938,
-      "num": 2636265,
-      "word": "9岁女孩被老师用尺子砸成重伤二级",
-      "onboard_time": 1723212032,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 513751,
@@ -9723,6 +9827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 360652,
+      "num": 776499,
+      "word": "杨洋吃瓜图",
+      "onboard_time": 1723213530,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 360195,
       "num": 360195,
       "word": "法媒是这样报道王楚钦球拍事件的",
@@ -9772,7 +9884,7 @@
     },
     {
       "raw_hot": 358756,
-      "num": 434103,
+      "num": 769933,
       "word": "林志玲为老公黑泽良平打call",
       "onboard_time": 1723209925,
       "rank": 28,
@@ -10555,6 +10667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 322942,
+      "num": 773592,
+      "word": "曝赵露思和彭冠英将合作流鱼",
+      "onboard_time": 1723216836,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 321734,
       "num": 321734,
       "word": "Queenwen的时代来了",
@@ -11235,6 +11355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301644,
+      "num": 773459,
+      "word": "闵玧其或将被判有期徒刑",
+      "onboard_time": 1723216350,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 301051,
       "num": 301051,
       "word": "张晚意说王楚然发誓像金刚狼",
@@ -11393,6 +11521,14 @@
       "onboard_time": 1722925525,
       "rank": 45,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 295679,
+      "num": 1510861,
+      "word": "北京城区已达暴雨级别",
+      "onboard_time": 1723208483,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 295622,
@@ -12284,7 +12420,7 @@
     },
     {
       "raw_hot": 266631,
-      "num": 448993,
+      "num": 550946,
       "word": "宋慧乔近期状态",
       "onboard_time": 1723210526,
       "rank": 49,
@@ -13409,14 +13545,6 @@
       "onboard_time": 1722775652,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 236238,
-      "num": 430437,
-      "word": "杨洋吃瓜图",
-      "onboard_time": 1723213530,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 236153,
@@ -17515,14 +17643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126125,
-      "num": 1510861,
-      "word": "北京城区已达暴雨级别",
-      "onboard_time": 1723208483,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 126058,
       "num": 126058,
       "word": "巴黎碎纸机",
@@ -18113,6 +18233,14 @@
       "onboard_time": 1722792145,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 92453,
+      "num": 1469030,
+      "word": "青岛地铁冲突前小伙曾言语滋扰他人",
+      "onboard_time": 1723216290,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92121,
