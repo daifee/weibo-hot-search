@@ -1,6 +1,6 @@
 {
   "startTime": 1723220716442,
-  "endTime": 1723296061543,
+  "endTime": 1723296853411,
   "band_list": [
     {
       "raw_hot": 10626785,
@@ -8,6 +8,14 @@
       "word": "国乒男团金牌",
       "onboard_time": 1723217918,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 8832164,
+      "num": 8832164,
+      "word": "樊振东说未来不一定是乒乓球了",
+      "onboard_time": 1723290623,
+      "rank": 1,
       "category": "体育"
     },
     {
@@ -35,11 +43,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 5611173,
-      "num": 5611173,
-      "word": "樊振东说未来不一定是乒乓球了",
-      "onboard_time": 1723290623,
-      "rank": 1,
+      "raw_hot": 4648211,
+      "num": 4648211,
+      "word": "乒乓女团金牌赛",
+      "onboard_time": 1723294344,
+      "rank": 3,
       "category": "体育"
     },
     {
@@ -91,19 +99,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2971347,
-      "num": 2971347,
-      "word": "乒乓女团金牌赛",
-      "onboard_time": 1723294344,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 2948003,
       "num": 2948003,
       "word": "刘焕华举重金牌",
       "onboard_time": 1723290202,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2947744,
+      "num": 2947744,
+      "word": "陈梦王曼昱vs早田希娜张本美和",
+      "onboard_time": 1723295122,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -123,19 +131,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2639754,
+      "num": 2639754,
+      "word": "张怡宁说全部人都觉得樊振东打得好",
+      "onboard_time": 1723293741,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2412023,
       "num": 2399188,
       "word": "马龙和王楚钦看樊振东追星的样子",
       "onboard_time": 1723232231,
       "rank": 10,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2391897,
-      "num": 2391897,
-      "word": "张怡宁说全部人都觉得樊振东打得好",
-      "onboard_time": 1723293741,
-      "rank": 26,
       "category": "体育"
     },
     {
@@ -193,14 +201,6 @@
       "onboard_time": 1723219166,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2140332,
-      "num": 2140332,
-      "word": "陈梦王曼昱vs早田希娜张本美和",
-      "onboard_time": 1723295122,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 2126729,
@@ -299,19 +299,19 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 1718826,
+      "num": 1718826,
+      "word": "国乒女团vs日本女团",
+      "onboard_time": 1723286962,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1690540,
       "num": 1690540,
       "word": "樊振东 有始有终",
       "onboard_time": 1723228573,
       "rank": 3,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1682811,
-      "num": 1682811,
-      "word": "国乒女团vs日本女团",
-      "onboard_time": 1723286962,
-      "rank": 12,
       "category": "体育"
     },
     {
@@ -443,11 +443,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1283439,
+      "num": 1283439,
+      "word": "男子跳水10米台决赛",
+      "onboard_time": 1723293501,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1267518,
       "num": 933090,
       "word": "王楚钦 家庭氛围",
       "onboard_time": 1723246398,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1248309,
+      "num": 1248309,
+      "word": "艺术体操圈操中国36.950分",
+      "onboard_time": 1723294464,
+      "rank": 12,
       "category": "体育"
     },
     {
@@ -507,14 +523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1090231,
-      "num": 1090231,
-      "word": "艺术体操圈操中国36.950分",
-      "onboard_time": 1723294464,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1088378,
       "num": 1088378,
       "word": "马龙谈退役计划",
@@ -548,7 +556,7 @@
     },
     {
       "raw_hot": 1031127,
-      "num": 430831,
+      "num": 438139,
       "word": "小布学会了樊振东的庆祝方式",
       "onboard_time": 1723290323,
       "rank": 11,
@@ -593,14 +601,6 @@
       "onboard_time": 1723285640,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 900633,
-      "num": 900633,
-      "word": "男子跳水10米台决赛",
-      "onboard_time": 1723293501,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 882087,
@@ -803,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 655057,
+      "num": 438724,
+      "word": "张本美和叫声",
+      "onboard_time": 1723296205,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 653640,
       "num": 653640,
       "word": "王楚钦希望你能学会快乐",
@@ -899,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 552625,
+      "num": 1297780,
+      "word": "GAI一个电话真把王源叫来了",
+      "onboard_time": 1723294103,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 544959,
       "num": 859535,
       "word": "网店挂错价格被疯抢价值2亿元产品",
@@ -971,11 +987,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 512209,
+      "num": 437820,
+      "word": "马龙是张怡宁崇拜的运动员之一",
+      "onboard_time": 1723293803,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 506149,
       "num": 506149,
       "word": "杨昊第一跳76.80分",
       "onboard_time": 1723278921,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 505742,
+      "num": 466885,
+      "word": "艺术体操观赏性",
+      "onboard_time": 1723294582,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -1032,14 +1064,6 @@
       "word": "王楚钦说奥运会太漫长了",
       "onboard_time": 1723224856,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 466885,
-      "num": 466885,
-      "word": "艺术体操观赏性",
-      "onboard_time": 1723294582,
-      "rank": 26,
       "category": "体育"
     },
     {
@@ -1107,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 442719,
+      "num": 442719,
+      "word": "德天瀑布",
+      "onboard_time": 1723294103,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 431416,
       "num": 350347,
       "word": "孙颖莎 理想化的青年",
@@ -1139,27 +1171,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 420397,
-      "num": 1049889,
-      "word": "GAI一个电话真把王源叫来了",
-      "onboard_time": 1723294103,
-      "rank": 47,
-      "category": "演出"
-    },
-    {
       "raw_hot": 419909,
       "num": 419909,
       "word": "阿富汗女运动员因政治言论被取消资格",
       "onboard_time": 1723272441,
       "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 416611,
-      "num": 416611,
-      "word": "马龙是张怡宁崇拜的运动员之一",
-      "onboard_time": 1723293803,
-      "rank": 38,
       "category": "体育"
     },
     {
@@ -1195,6 +1211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 400827,
+      "num": 400827,
+      "word": "孙颖莎给邱贻可戴上金牌",
+      "onboard_time": 1723292722,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 397035,
       "num": 454855,
       "word": "巴黎奥运女子铅球决赛",
@@ -1225,6 +1249,14 @@
       "onboard_time": 1723278321,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 385910,
+      "num": 385910,
+      "word": "王昶真去看jonyj了",
+      "onboard_time": 1723296025,
+      "rank": 49,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 385709,
@@ -1281,14 +1313,6 @@
       "onboard_time": 1723291523,
       "rank": 18,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 363489,
-      "num": 363489,
-      "word": "德天瀑布",
-      "onboard_time": 1723294103,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 362099,
@@ -1363,18 +1387,42 @@
       "category": "体育"
     },
     {
+      "raw_hot": 347120,
+      "num": 347120,
+      "word": "中国队艺术体操暂列第一",
+      "onboard_time": 1723295423,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 346677,
-      "num": 419807,
+      "num": 437009,
       "word": "谢娜嗓子哑了",
       "onboard_time": 1723292841,
       "rank": 29,
       "category": "艺人"
     },
     {
+      "raw_hot": 346446,
+      "num": 346446,
+      "word": "张家齐解说跳水",
+      "onboard_time": 1723296686,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 344062,
       "num": 849906,
       "word": "梁洁 你上过春晚吗",
       "onboard_time": 1723218756,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 342159,
+      "num": 658324,
+      "word": "虞书欣生图",
+      "onboard_time": 1723292001,
       "rank": 28,
       "category": "综艺"
     },
@@ -1401,14 +1449,6 @@
       "onboard_time": 1723255521,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 334239,
-      "num": 658324,
-      "word": "虞书欣生图",
-      "onboard_time": 1723292001,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 330678,
@@ -1507,20 +1547,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 309778,
-      "num": 309778,
-      "word": "中国队艺术体操暂列第一",
-      "onboard_time": 1723295423,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 309181,
       "num": 309181,
       "word": "腾讯一口气官宣60部动漫",
       "onboard_time": 1723259963,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 304864,
+      "num": 304864,
+      "word": "孙颖莎vs平野美宇",
+      "onboard_time": 1723295303,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 304717,
@@ -1539,11 +1579,11 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 302662,
-      "num": 302662,
-      "word": "孙颖莎给邱贻可戴上金牌",
-      "onboard_time": 1723292722,
-      "rank": 41,
+      "raw_hot": 303100,
+      "num": 303100,
+      "word": "丁宁给王楚钦樊振东打9.9分",
+      "onboard_time": 1723296747,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -1713,14 +1753,6 @@
       "onboard_time": 1723293682,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 277152,
-      "num": 277152,
-      "word": "孙颖莎vs平野美宇",
-      "onboard_time": 1723295303,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 276161,
@@ -2153,14 +2185,6 @@
       "onboard_time": 1723294822,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 225529,
-      "num": 225529,
-      "word": "王昶真去看jonyj了",
-      "onboard_time": 1723296025,
-      "rank": 49,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 220581,
@@ -2611,6 +2635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190704,
+      "num": 442543,
+      "word": "曹缘第一跳96.90分",
+      "onboard_time": 1723296084,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189395,
       "num": 189395,
       "word": "TF三代高会投票",
@@ -2657,6 +2689,14 @@
       "onboard_time": 1723278079,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 185367,
+      "num": 203931,
+      "word": "王一博雨中撑伞转圈",
+      "onboard_time": 1723296144,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 185079,
@@ -2761,6 +2801,14 @@
       "onboard_time": 1723281559,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 172809,
+      "num": 202075,
+      "word": "小白 你还有遗憾吗",
+      "onboard_time": 1723296506,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 172233,
@@ -2971,6 +3019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112785,
+      "num": 1285469,
+      "word": "当代大学生正在拒绝谈恋爱",
+      "onboard_time": 1723295122,
+      "rank": 9,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 112425,
       "num": 544714,
       "word": "西班牙夺得奥运男足金牌",
@@ -3115,6 +3171,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 77491,
+      "num": 4107909,
+      "word": "七夕习俗中的诗意浪漫",
+      "onboard_time": 1723294943,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72428,
       "num": 174167,
       "word": "车祸后民警变身话痨抢回一条命",
@@ -3219,14 +3283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54424,
-      "num": 1224511,
-      "word": "当代大学生正在拒绝谈恋爱",
-      "onboard_time": 1723295122,
-      "rank": 9,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 53937,
       "num": 360242,
       "word": "闪现吴山居",
@@ -3249,14 +3305,6 @@
       "onboard_time": 1723269921,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 51719,
-      "num": 3028626,
-      "word": "七夕习俗中的诗意浪漫",
-      "onboard_time": 1723294943,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 51354,
@@ -3580,6 +3628,9 @@
     },
     {
       "word": "#文脉华章#"
+    },
+    {
+      "word": "#跟着总书记感受文化中国#"
     }
   ]
 }

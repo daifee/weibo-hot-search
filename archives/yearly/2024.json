@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1723296061543,
+  "endTime": 1723296853411,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -1427,6 +1427,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 8832164,
+      "num": 8832164,
+      "word": "樊振东说未来不一定是乒乓球了",
+      "onboard_time": 1723290623,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 8809025,
       "num": 9393375,
       "word": "中国女排止步8强",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1708752211,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 6470111,
-      "num": 6470111,
-      "word": "赵露思 谁说我是斑点狗",
-      "onboard_time": 1705133740,
-      "rank": 10,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
