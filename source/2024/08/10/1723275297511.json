@@ -1,0 +1,410 @@
+{
+  "runTime": 1723275297511,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1718740,
+        "num": 1718740,
+        "word": "小胖也是遇到心软的神了",
+        "onboard_time": 1723268181,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1532318,
+        "num": 1532318,
+        "word": "七夕消费暴跌年轻人不交爱情税了吗",
+        "onboard_time": 1723260863,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87496,
+        "num": 1230589,
+        "word": "古代人在七夕节也太会玩了",
+        "onboard_time": 1723262302,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1201037,
+        "num": 1201037,
+        "word": "马龙微笑着宣布将与奥运赛场告别",
+        "onboard_time": 1723256601,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1190549,
+        "num": 1190549,
+        "word": "给潘展乐剪头发的Tony爆单了",
+        "onboard_time": 1723268840,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 797762,
+        "num": 797762,
+        "word": "王鹤润直播道歉",
+        "onboard_time": 1723269139,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 473762,
+        "num": 473762,
+        "word": "巴西坠机一名乘客迟到被工作人员拦住",
+        "onboard_time": 1723260382,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149077,
+        "num": 467889,
+        "word": "中国两支梦之队期待包揽金牌",
+        "onboard_time": 1723272800,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 467648,
+        "num": 467648,
+        "word": "徐艺洋晒玫瑰花",
+        "onboard_time": 1723254743,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435435,
+        "num": 435435,
+        "word": "谁在大量购买空牛奶盒空笔芯",
+        "onboard_time": 1723273640,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1647844,
+        "num": 419031,
+        "word": "杨威回应网友让其去考裁判证",
+        "onboard_time": 1723271840,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1424651,
+        "num": 392974,
+        "word": "王楚钦父亲 他单项也可以",
+        "onboard_time": 1723268542,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 606582,
+        "num": 384796,
+        "word": "杨柳 就是金牌",
+        "onboard_time": 1723263322,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 358287,
+        "num": 358287,
+        "word": "叫顺风车送狗被卖给乘客",
+        "onboard_time": 1723273220,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64287,
+        "num": 357765,
+        "word": "跳水梦之队收官之战",
+        "onboard_time": 1723272920,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 357583,
+        "num": 357583,
+        "word": "虞书欣 专业团队",
+        "onboard_time": 1723259843,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12347,
+        "num": 356436,
+        "word": "乳液面膜是不是智商税",
+        "onboard_time": 1723272261,
+        "rank": 16,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 233795,
+        "num": 355967,
+        "word": "黄子韬视角的徐艺洋",
+        "onboard_time": 1723258402,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224433,
+        "num": 354427,
+        "word": "樊振东和泰勒斯威夫特的应援手幅",
+        "onboard_time": 1723259963,
+        "rank": 18,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 217153,
+        "num": 352984,
+        "word": "刘诗诗水灵灵的被张云龙召唤出来了",
+        "onboard_time": 1723263203,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 449405,
+        "num": 352129,
+        "word": "奥运高尔夫金牌赛",
+        "onboard_time": 1723272559,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 439214,
+        "num": 350582,
+        "word": "杨绍辉10公里领先",
+        "onboard_time": 1723272800,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 431416,
+        "num": 350347,
+        "word": "孙颖莎 理想化的青年",
+        "onboard_time": 1723272200,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 381581,
+        "num": 348815,
+        "word": "樊振东 有始有终",
+        "onboard_time": 1723228573,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34669,
+        "num": 347433,
+        "word": "敷尔佳新推出了乳液面膜",
+        "onboard_time": 1723273820,
+        "rank": 24,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 370590,
+        "num": 346803,
+        "word": "樊振东夺冠后球拍玩偶3天补货2次",
+        "onboard_time": 1723263864,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 345832,
+        "num": 345832,
+        "word": "张本智和 下次我打好了可能又要被说",
+        "onboard_time": 1723255220,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310960,
+        "num": 310960,
+        "word": "莫雷加德捏了樊振东的肩膀",
+        "onboard_time": 1723258882,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211621,
+        "num": 301891,
+        "word": "疯狂动物城2海报",
+        "onboard_time": 1723263322,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191405,
+        "num": 299250,
+        "word": "登陆计划",
+        "onboard_time": 1723274300,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297828,
+        "num": 297828,
+        "word": "林昀儒 怎么看演唱会分享一下",
+        "onboard_time": 1723273041,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283610,
+        "num": 283610,
+        "word": "何杰杨绍辉吴向东出战马拉松",
+        "onboard_time": 1723268662,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275357,
+        "num": 275357,
+        "word": "奥运冠军也玩恋与深空",
+        "onboard_time": 1723273280,
+        "rank": 32,
+        "category": "体育,游戏"
+      },
+      {
+        "raw_hot": 259347,
+        "num": 259347,
+        "word": "莫雷加德说很敬佩中国队",
+        "onboard_time": 1723263622,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26006,
+        "num": 254591,
+        "word": "敷尔佳诚心成毅",
+        "onboard_time": 1723273041,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254451,
+        "num": 254451,
+        "word": "刘国梁女儿目标是2028奥运会",
+        "onboard_time": 1723261404,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227403,
+        "num": 227403,
+        "word": "徐卓一现场看自己的狂飙混剪",
+        "onboard_time": 1723275260,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220470,
+        "num": 220470,
+        "word": "巴西空难客机约一分钟内骤降超5000米",
+        "onboard_time": 1723271959,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218512,
+        "num": 218512,
+        "word": "输给崔秀彬你无需自卑",
+        "onboard_time": 1723270641,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216169,
+        "num": 216169,
+        "word": "阿富汗女运动员因政治言论被取消资格",
+        "onboard_time": 1723272441,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198894,
+        "num": 198894,
+        "word": "马龙曾问水谷隼没赢过我是不是遗憾",
+        "onboard_time": 1723272680,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198687,
+        "num": 198687,
+        "word": "印度仍未收获首金",
+        "onboard_time": 1723270522,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190797,
+        "num": 190797,
+        "word": "杨乐乐为汪涵准备七夕礼物",
+        "onboard_time": 1723274600,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190671,
+        "num": 190671,
+        "word": "时代少年团演唱会抢票",
+        "onboard_time": 1723271180,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186058,
+        "num": 186058,
+        "word": "郭焱谈国乒女团决赛对阵日本队",
+        "onboard_time": 1723274060,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184664,
+        "num": 184664,
+        "word": "小胖双金小莫双银小布双铜",
+        "onboard_time": 1723262782,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173657,
+        "num": 173657,
+        "word": "樊振东腿部比赛视角",
+        "onboard_time": 1723267581,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172233,
+        "num": 172233,
+        "word": "负负得正上映",
+        "onboard_time": 1723254802,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168011,
+        "num": 168011,
+        "word": "孙红雷知道自己凶的是奥运冠军吗",
+        "onboard_time": 1723251502,
+        "rank": 48,
+        "category": "剧集,体育"
+      },
+      {
+        "raw_hot": 40561,
+        "num": 166564,
+        "word": "钮祜禄尔佳归来",
+        "onboard_time": 1723271660,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}
