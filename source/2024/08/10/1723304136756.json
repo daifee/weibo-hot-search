@@ -1,0 +1,410 @@
+{
+  "runTime": 1723304136756,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 23477677,
+        "num": 23477677,
+        "word": "乒乓女团金牌赛",
+        "onboard_time": 1723294344,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11181922,
+        "num": 11181922,
+        "word": "国乒女团金牌",
+        "onboard_time": 1723303593,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7843191,
+        "num": 7843191,
+        "word": "樊振东说未来不一定是乒乓球了",
+        "onboard_time": 1723290623,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4804725,
+        "num": 4804725,
+        "word": "孙颖莎冷静得可怕",
+        "onboard_time": 1723299749,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4356793,
+        "num": 4356793,
+        "word": "陈梦王曼昱vs早田希娜张本美和",
+        "onboard_time": 1723295122,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4153000,
+        "num": 4153000,
+        "word": "王曼昱太强了",
+        "onboard_time": 1723298615,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1624990,
+        "num": 4122326,
+        "word": "黄朔邓佳鑫",
+        "onboard_time": 1723303050,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 736337,
+        "num": 4122054,
+        "word": "王昶真去看jonyj了",
+        "onboard_time": 1723296025,
+        "rank": 7,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 4121881,
+        "num": 4121881,
+        "word": "国乒女团vs日本女团",
+        "onboard_time": 1723286962,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110229,
+        "num": 4013691,
+        "word": "中国世界第一纺织大国的地位视觉化了",
+        "onboard_time": 1723300837,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1104592,
+        "num": 3911660,
+        "word": "德天瀑布魔毯故障1名游客死亡",
+        "onboard_time": 1723294281,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 718381,
+        "num": 3704450,
+        "word": "中餐厅出现了樊振东",
+        "onboard_time": 1723287201,
+        "rank": 11,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 610568,
+        "num": 3461839,
+        "word": "一个卖篮球的女主播运球",
+        "onboard_time": 1723300657,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 567591,
+        "num": 3284492,
+        "word": "GAI一个电话真把王源叫来了",
+        "onboard_time": 1723294103,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 211319,
+        "num": 3110073,
+        "word": "孙杨 祝贺五朵金花创造历史",
+        "onboard_time": 1723303348,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5842243,
+        "num": 3063303,
+        "word": "孙颖莎陈梦 是对手更是队友",
+        "onboard_time": 1723300657,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2929690,
+        "num": 2929690,
+        "word": "中国队艺术体操集体全能金牌",
+        "onboard_time": 1723298498,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2820844,
+        "num": 2820844,
+        "word": "曹缘10米台金牌",
+        "onboard_time": 1723300173,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 345191,
+        "num": 2310453,
+        "word": "刘亦菲感谢惠英红吴彦姝陪过生日",
+        "onboard_time": 1723297287,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114654,
+        "num": 2299287,
+        "word": "乒乓女团奥运5连冠",
+        "onboard_time": 1723303962,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2298785,
+        "num": 2298785,
+        "word": "许昕做法啊",
+        "onboard_time": 1723298438,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2050991,
+        "num": 2050991,
+        "word": "孙颖莎拿下第2盘",
+        "onboard_time": 1723301195,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1718314,
+        "num": 1718314,
+        "word": "日本跳水巨大失误",
+        "onboard_time": 1723299689,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1569465,
+        "num": 1569465,
+        "word": "早没 梦鱼",
+        "onboard_time": 1723298793,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 395565,
+        "num": 1528424,
+        "word": "出生12天女婴被月嫂挠伤脚底",
+        "onboard_time": 1723297707,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1520543,
+        "num": 1520543,
+        "word": "孙颖莎vs平野美宇",
+        "onboard_time": 1723295303,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1357950,
+        "num": 1357950,
+        "word": "也没 莎神",
+        "onboard_time": 1723302628,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341470,
+        "num": 1287927,
+        "word": "吉克隽逸哭着跟观众道歉",
+        "onboard_time": 1723300537,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 337172,
+        "num": 1267167,
+        "word": "许魏洲观战国乒女团决赛",
+        "onboard_time": 1723299032,
+        "rank": 28,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 330675,
+        "num": 1264109,
+        "word": "你好星期六下期好6团户外团建",
+        "onboard_time": 1723301430,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1261659,
+        "num": 1261659,
+        "word": "中国跳水队包揽8枚金牌",
+        "onboard_time": 1723300352,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1013340,
+        "num": 1013340,
+        "word": "张怡宁说全部人都觉得樊振东打得好",
+        "onboard_time": 1723293741,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373995,
+        "num": 373995,
+        "word": "七夕文案",
+        "onboard_time": 1723290623,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 319415,
+        "num": 373885,
+        "word": "韩安冉妈妈回应被女儿起诉",
+        "onboard_time": 1723289660,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 316797,
+        "num": 373789,
+        "word": "李栋旭抽烟照",
+        "onboard_time": 1723290862,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1001516,
+        "num": 373557,
+        "word": "张本美和叫声",
+        "onboard_time": 1723296205,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 930588,
+        "num": 373497,
+        "word": "张本智和小作文",
+        "onboard_time": 1723283001,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 929765,
+        "num": 373275,
+        "word": "男子跳水10米台决赛",
+        "onboard_time": 1723293501,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 926240,
+        "num": 373096,
+        "word": "许昕说瑞典队真紧张假松弛",
+        "onboard_time": 1723303722,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 719382,
+        "num": 372947,
+        "word": "许昕直播",
+        "onboard_time": 1723302032,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 718759,
+        "num": 372768,
+        "word": "中国女人就是牛",
+        "onboard_time": 1723301314,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 715320,
+        "num": 372652,
+        "word": "张怡宁想给王楚钦打十分",
+        "onboard_time": 1723301677,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 701746,
+        "num": 372559,
+        "word": "中国首次包揽奥运跳水全部金牌",
+        "onboard_time": 1723302090,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 645905,
+        "num": 372300,
+        "word": "艺术体操团体全能金牌赛",
+        "onboard_time": 1723291283,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277093,
+        "num": 372222,
+        "word": "迪丽热巴出场和婚礼的有什么区别",
+        "onboard_time": 1723285640,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256955,
+        "num": 372005,
+        "word": "陆虎发糖",
+        "onboard_time": 1723303722,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211782,
+        "num": 371883,
+        "word": "谢娜嗓子哑了",
+        "onboard_time": 1723292841,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 209123,
+        "num": 371755,
+        "word": "GAI演唱会",
+        "onboard_time": 1723302930,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 206161,
+        "num": 371524,
+        "word": "蔡依林演唱会",
+        "onboard_time": 1723303843,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202170,
+        "num": 371365,
+        "word": "武僧秋风姐姐发声",
+        "onboard_time": 1723303783,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革为人民#"
+    }
+  }
+}
