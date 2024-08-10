@@ -1,6 +1,6 @@
 {
   "startTime": 1723307155481,
-  "endTime": 1723329355851,
+  "endTime": 1723332049541,
   "band_list": [
     {
       "raw_hot": 6347529,
@@ -83,6 +83,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1527205,
+      "num": 1527205,
+      "word": "中国第39金",
+      "onboard_time": 1723323912,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1495430,
       "num": 608591,
       "word": "库里 掌管三分的神",
@@ -104,6 +112,14 @@
       "word": "也没 莎神",
       "onboard_time": 1723302628,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1224292,
+      "num": 1224292,
+      "word": "石川佳纯见到马龙了",
+      "onboard_time": 1723311018,
+      "rank": 10,
       "category": "体育"
     },
     {
@@ -139,11 +155,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1055384,
-      "num": 1055384,
-      "word": "石川佳纯见到马龙了",
-      "onboard_time": 1723311018,
-      "rank": 10,
+      "raw_hot": 1054639,
+      "num": 1054639,
+      "word": "张本智和拿妹妹银牌拍照",
+      "onboard_time": 1723328713,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -211,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 827695,
+      "num": 827695,
+      "word": "王楚钦晒国乒合照告别奥运",
+      "onboard_time": 1723314315,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 802899,
       "num": 802899,
       "word": "中国首次包揽奥运跳水全部金牌",
@@ -243,14 +267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 761101,
-      "num": 761101,
-      "word": "中国第39金",
-      "onboard_time": 1723323912,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 726369,
       "num": 726369,
       "word": "张本智和小作文",
@@ -275,11 +291,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 656647,
-      "num": 520620,
-      "word": "王楚钦晒国乒合照告别奥运",
-      "onboard_time": 1723314315,
-      "rank": 31,
+      "raw_hot": 652828,
+      "num": 652828,
+      "word": "张本智和躲在角落里看妹妹比赛",
+      "onboard_time": 1723323132,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -347,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 498442,
+      "num": 498442,
+      "word": "美国男篮全队晚安",
+      "onboard_time": 1723325953,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 479704,
       "num": 479704,
       "word": "跳高加赛",
@@ -379,14 +403,6 @@
       "category": "综艺,体育"
     },
     {
-      "raw_hot": 447631,
-      "num": 436501,
-      "word": "张本智和躲在角落里看妹妹比赛",
-      "onboard_time": 1723323132,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 440454,
       "num": 1229840,
       "word": "王昶真去看jonyj了",
@@ -404,7 +420,7 @@
     },
     {
       "raw_hot": 432294,
-      "num": 432294,
+      "num": 719601,
       "word": "李倩拳击75公斤级金牌",
       "onboard_time": 1723323552,
       "rank": 0,
@@ -436,7 +452,7 @@
     },
     {
       "raw_hot": 339699,
-      "num": 339699,
+      "num": 705130,
       "word": "美国男篮奥运冠军",
       "onboard_time": 1723326132,
       "rank": 17,
@@ -467,14 +483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 317905,
-      "num": 317905,
-      "word": "美国男篮全队晚安",
-      "onboard_time": 1723325953,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 314967,
       "num": 428335,
       "word": "爸爸去世前的搜索记录",
@@ -488,6 +496,14 @@
       "word": "孙颖莎感谢身后支持她们的力量",
       "onboard_time": 1723311617,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 299129,
+      "num": 299129,
+      "word": "中国39金追平伦敦奥运",
+      "onboard_time": 1723330094,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -520,6 +536,14 @@
       "word": "男篮裁判",
       "onboard_time": 1723321931,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 286991,
+      "num": 286991,
+      "word": "孙颖莎大合照踮脚",
+      "onboard_time": 1723329494,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -619,8 +643,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204519,
+      "num": 673341,
+      "word": "詹姆斯当选奥运男篮MVP",
+      "onboard_time": 1723328293,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203789,
-      "num": 773670,
+      "num": 817269,
       "word": "杨紫爸妈在张杰演唱会过七夕",
       "onboard_time": 1723310898,
       "rank": 18,
@@ -683,11 +715,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 188162,
-      "num": 188162,
-      "word": "詹姆斯当选奥运男篮MVP",
-      "onboard_time": 1723328293,
-      "rank": 42,
+      "raw_hot": 189918,
+      "num": 189918,
+      "word": "全红婵家门口变成小吃一条街了",
+      "onboard_time": 1723330514,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -715,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161322,
+      "num": 161322,
+      "word": "偶遇樊振东看奥运男篮比赛",
+      "onboard_time": 1723331897,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150316,
       "num": 150316,
       "word": "王曼昱说比赛越激烈金牌越有价值",
@@ -728,14 +768,6 @@
       "word": "库里詹姆斯一起做晚安",
       "onboard_time": 1723325713,
       "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 145731,
-      "num": 145731,
-      "word": "张本智和拿妹妹银牌拍照",
-      "onboard_time": 1723328713,
-      "rank": 38,
       "category": "体育"
     },
     {
@@ -761,6 +793,14 @@
       "onboard_time": 1723293141,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 133613,
+      "num": 168941,
+      "word": "晚睡晚起睡够时长算熬夜吗",
+      "onboard_time": 1723320132,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 122214,
@@ -811,20 +851,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 96845,
+      "num": 300610,
+      "word": "刘浩存王安宇十指相扣七夕视频",
+      "onboard_time": 1723326552,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94254,
       "num": 499604,
       "word": "芒果的精神状态还是太超前了",
       "onboard_time": 1723312575,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 92166,
-      "num": 168941,
-      "word": "晚睡晚起睡够时长算熬夜吗",
-      "onboard_time": 1723320132,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 69208,
@@ -835,12 +875,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 52945,
-      "num": 181749,
-      "word": "刘浩存王安宇十指相扣七夕视频",
-      "onboard_time": 1723326552,
+      "raw_hot": 52759,
+      "num": 299506,
+      "word": "纪昱恒处处吻",
+      "onboard_time": 1723324271,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 48331,
+      "num": 158675,
+      "word": "三个人炸出了虞书欣所有cp",
+      "onboard_time": 1723327633,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 48171,
@@ -851,14 +899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 47586,
-      "num": 181469,
-      "word": "纪昱恒处处吻",
-      "onboard_time": 1723324271,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 46582,
       "num": 144180,
       "word": "华晨宇七夕七个惊喜",
@@ -867,8 +907,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 46373,
+      "num": 158053,
+      "word": "你的外卖员正在发疯",
+      "onboard_time": 1723330996,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 40973,
-      "num": 437997,
+      "num": 744864,
       "word": "网红太原老葛涉诈骗被立案侦查",
       "onboard_time": 1723322471,
       "rank": 9,
@@ -883,12 +931,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 37521,
-      "num": 103534,
-      "word": "三个人炸出了虞书欣所有cp",
-      "onboard_time": 1723327633,
-      "rank": 49,
-      "category": "作品衍生"
+      "raw_hot": 35173,
+      "num": 155064,
+      "word": "左航三公成绩第一",
+      "onboard_time": 1723312697,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 34788,
@@ -897,14 +945,6 @@
       "onboard_time": 1723297827,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 30149,
-      "num": 104414,
-      "word": "左航三公成绩第一",
-      "onboard_time": 1723312697,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 27608,
@@ -937,6 +977,9 @@
     },
     {
       "word": "#跟着总书记感受文化中国#"
+    },
+    {
+      "word": "#改革为人民#"
     }
   ]
 }
