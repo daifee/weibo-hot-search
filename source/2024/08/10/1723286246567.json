@@ -1,0 +1,410 @@
+{
+  "runTime": 1723286246567,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3957589,
+        "num": 3957589,
+        "word": "张本智和小作文",
+        "onboard_time": 1723283001,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1408578,
+        "num": 1408578,
+        "word": "韩国选手十米台炸鱼",
+        "onboard_time": 1723283001,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220623,
+        "num": 1327802,
+        "word": "美一边污蔑中国运动员一边包庇自己人",
+        "onboard_time": 1723280239,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1298680,
+        "num": 1298680,
+        "word": "姆巴佩关注樊振东",
+        "onboard_time": 1723281801,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1213194,
+        "num": 1213194,
+        "word": "七夕消费暴跌年轻人不交爱情税了吗",
+        "onboard_time": 1723260863,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1176453,
+        "num": 1176453,
+        "word": "韩国女团铜牌",
+        "onboard_time": 1723284560,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 552349,
+        "num": 552349,
+        "word": "迪丽热巴出场和婚礼的有什么区别",
+        "onboard_time": 1723285640,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423195,
+        "num": 545557,
+        "word": "迪丽热巴济南",
+        "onboard_time": 1723278562,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 647727,
+        "num": 531165,
+        "word": "谁在大量购买空牛奶盒空笔芯",
+        "onboard_time": 1723273640,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122253,
+        "num": 525832,
+        "word": "举重男子102公斤级决赛",
+        "onboard_time": 1723282579,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 964755,
+        "num": 506453,
+        "word": "李栋旭崔珉豪 观众席",
+        "onboard_time": 1723279461,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 506402,
+        "num": 506402,
+        "word": "叫顺风车送狗被卖给乘客",
+        "onboard_time": 1723273220,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386626,
+        "num": 506020,
+        "word": "陈紫函戴向宇七夕发糖",
+        "onboard_time": 1723275621,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274260,
+        "num": 503143,
+        "word": "王鹤润直播道歉",
+        "onboard_time": 1723269139,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24416,
+        "num": 500953,
+        "word": "刘焕华抓举开把178公斤成功",
+        "onboard_time": 1723285941,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 764608,
+        "num": 498497,
+        "word": "冠军来了",
+        "onboard_time": 1723283660,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 601791,
+        "num": 495059,
+        "word": "马龙微笑着宣布将与奥运赛场告别",
+        "onboard_time": 1723256601,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 589230,
+        "num": 492883,
+        "word": "国际拳协回应争议拳手战胜杨柳夺金",
+        "onboard_time": 1723283180,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260879,
+        "num": 489943,
+        "word": "负负得正",
+        "onboard_time": 1723277060,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 260551,
+        "num": 485654,
+        "word": "赵今麦张凌赫路透",
+        "onboard_time": 1723284740,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 511076,
+        "num": 485010,
+        "word": "小胖也是遇到心软的神了",
+        "onboard_time": 1723268181,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 483055,
+        "num": 483055,
+        "word": "曹缘杨昊进决赛",
+        "onboard_time": 1723284621,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 436915,
+        "num": 436915,
+        "word": "爷爷盯着我的房产证10分钟了",
+        "onboard_time": 1723282101,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23256,
+        "num": 429995,
+        "word": "敷尔佳活得像个成毅粉头",
+        "onboard_time": 1723284200,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64554,
+        "num": 428442,
+        "word": "林文君200米单人划艇晋级奖牌赛",
+        "onboard_time": 1723285101,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 428036,
+        "num": 428036,
+        "word": "王楚钦模仿孙颖莎打球有多形象",
+        "onboard_time": 1723275500,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 377985,
+        "num": 377985,
+        "word": "中国体坛最难被打破的个人纪录",
+        "onboard_time": 1723278321,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373195,
+        "num": 373195,
+        "word": "买房千万不要和亲戚买一起",
+        "onboard_time": 1723281740,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 370859,
+        "num": 370859,
+        "word": "举重",
+        "onboard_time": 1723285761,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 300818,
+        "num": 300818,
+        "word": "樊振东 有始有终",
+        "onboard_time": 1723228573,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293494,
+        "num": 293494,
+        "word": "基普乔格退赛",
+        "onboard_time": 1723281501,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283041,
+        "num": 283041,
+        "word": "给潘展乐剪头发的Tony爆单了",
+        "onboard_time": 1723268840,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260862,
+        "num": 260862,
+        "word": "奥运马拉松",
+        "onboard_time": 1723282159,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16638,
+        "num": 244723,
+        "word": "起猛了华莱士办婚礼了",
+        "onboard_time": 1723280660,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 233778,
+        "num": 233778,
+        "word": "英国国王首次就骚乱发声",
+        "onboard_time": 1723283421,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 248328,
+        "num": 233131,
+        "word": "杨昊第一跳76.80分",
+        "onboard_time": 1723278921,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237545,
+        "num": 233011,
+        "word": "保安偷偷找马龙签名",
+        "onboard_time": 1723284080,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233952,
+        "num": 232934,
+        "word": "小申好可爱",
+        "onboard_time": 1723284500,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227484,
+        "num": 227484,
+        "word": "虞书欣 专业团队",
+        "onboard_time": 1723259843,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204289,
+        "num": 224311,
+        "word": "马嘉祺坐姿",
+        "onboard_time": 1723280239,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224085,
+        "num": 224085,
+        "word": "杨威回应网友让其去考裁判证",
+        "onboard_time": 1723271840,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219930,
+        "num": 219930,
+        "word": "王楚钦希望你能学会快乐",
+        "onboard_time": 1723285460,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216517,
+        "num": 216517,
+        "word": "樊振东又追星成功了",
+        "onboard_time": 1723283961,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212599,
+        "num": 212599,
+        "word": "入职三个月送走了五个同事",
+        "onboard_time": 1723282340,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207998,
+        "num": 207998,
+        "word": "杨柳 就是金牌",
+        "onboard_time": 1723263322,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199774,
+        "num": 199774,
+        "word": "马龙期待王楚钦成就超级全满贯",
+        "onboard_time": 1723285460,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184476,
+        "num": 199679,
+        "word": "李佳琦帮符龙飞尤长靖拿下心仪选曲",
+        "onboard_time": 1723278740,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124813,
+        "num": 199601,
+        "word": "父母身上的缺点又出现在了我身上",
+        "onboard_time": 1723284022,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11953,
+        "num": 199501,
+        "word": "田亮叶一茜七夕广子有点多",
+        "onboard_time": 1723286180,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30478,
+        "num": 199356,
+        "word": "成毅粉丝用代言视频饭制司凤番外",
+        "onboard_time": 1723282401,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}
