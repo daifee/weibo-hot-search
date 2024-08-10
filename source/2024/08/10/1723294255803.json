@@ -1,0 +1,410 @@
+{
+  "runTime": 1723294255803,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3220200,
+        "num": 3220200,
+        "word": "樊振东说未来不一定是乒乓球了",
+        "onboard_time": 1723290623,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2076242,
+        "num": 2076242,
+        "word": "刘焕华举重金牌",
+        "onboard_time": 1723290202,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20434,
+        "num": 1109152,
+        "word": "巴黎奥运的温情瞬间",
+        "onboard_time": 1723279762,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1024092,
+        "num": 1024092,
+        "word": "莫雷加德回应绰号小莫",
+        "onboard_time": 1723292480,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1016287,
+        "num": 1016287,
+        "word": "艺术体操团体全能金牌赛",
+        "onboard_time": 1723291283,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 875946,
+        "num": 875946,
+        "word": "国乒女团vs日本女团",
+        "onboard_time": 1723286962,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 750967,
+        "num": 750967,
+        "word": "中餐厅出现了樊振东",
+        "onboard_time": 1723287201,
+        "rank": 6,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 748269,
+        "num": 748269,
+        "word": "韩安冉妈妈回应被女儿起诉",
+        "onboard_time": 1723289660,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 649772,
+        "num": 649772,
+        "word": "男子跳水10米台决赛",
+        "onboard_time": 1723293501,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 834192,
+        "num": 598622,
+        "word": "孙颖莎陈梦王曼昱女团决赛",
+        "onboard_time": 1723291943,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 503161,
+        "num": 503161,
+        "word": "黄子韬徐艺洋一家逛环球影城",
+        "onboard_time": 1723289001,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458806,
+        "num": 458806,
+        "word": "迪丽热巴出场和婚礼的有什么区别",
+        "onboard_time": 1723285640,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415106,
+        "num": 415106,
+        "word": "鹿晗直播怼黑粉",
+        "onboard_time": 1723287861,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364801,
+        "num": 364801,
+        "word": "中国网约车巴黎爆红一车难求",
+        "onboard_time": 1723291523,
+        "rank": 13,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 346677,
+        "num": 346677,
+        "word": "谢娜嗓子哑了",
+        "onboard_time": 1723292841,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164742,
+        "num": 346564,
+        "word": "南部战区回应菲军机非法闯入我黄岩岛空域",
+        "onboard_time": 1723293141,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1448867,
+        "num": 346271,
+        "word": "张本智和小作文",
+        "onboard_time": 1723283001,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 639196,
+        "num": 345774,
+        "word": "莎头组合跟教练合影",
+        "onboard_time": 1723289482,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53906,
+        "num": 345550,
+        "word": "横店二次元梗是真的多",
+        "onboard_time": 1723290446,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 590414,
+        "num": 345069,
+        "word": "小布学会了樊振东的庆祝方式",
+        "onboard_time": 1723290323,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 846254,
+        "num": 344861,
+        "word": "李栋旭抽烟照",
+        "onboard_time": 1723290862,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 572691,
+        "num": 344507,
+        "word": "买房千万不要和亲戚买一起",
+        "onboard_time": 1723281740,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185807,
+        "num": 344025,
+        "word": "美一边污蔑中国运动员一边包庇自己人",
+        "onboard_time": 1723280239,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 553243,
+        "num": 343851,
+        "word": "王楚钦希望你能学会快乐",
+        "onboard_time": 1723285460,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 469724,
+        "num": 343337,
+        "word": "徐嘉余 游泳队抽签决定谁升舱",
+        "onboard_time": 1723287141,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 461925,
+        "num": 343190,
+        "word": "七夕消费暴跌年轻人不交爱情税了吗",
+        "onboard_time": 1723260863,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442287,
+        "num": 342902,
+        "word": "张怡宁说全部人都觉得樊振东打得好",
+        "onboard_time": 1723293741,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 409999,
+        "num": 342514,
+        "word": "王楚钦爸爸回应球拍被踩事件",
+        "onboard_time": 1723291462,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302157,
+        "num": 341960,
+        "word": "刘亦菲买的花是送惠英红",
+        "onboard_time": 1723290081,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290906,
+        "num": 341709,
+        "word": "虞书欣生图",
+        "onboard_time": 1723292001,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406034,
+        "num": 341590,
+        "word": "李雯雯 举重",
+        "onboard_time": 1723292961,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341259,
+        "num": 341259,
+        "word": "七夕文案",
+        "onboard_time": 1723290623,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111127,
+        "num": 335254,
+        "word": "中国第34金",
+        "onboard_time": 1723291343,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 334515,
+        "num": 334515,
+        "word": "姆巴佩关注樊振东",
+        "onboard_time": 1723281801,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 324084,
+        "num": 324084,
+        "word": "中国体坛最难被打破的个人纪录",
+        "onboard_time": 1723278321,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304364,
+        "num": 304364,
+        "word": "申裕斌开通微博",
+        "onboard_time": 1723291880,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292187,
+        "num": 292187,
+        "word": "刘焕华夺冠后举起教练",
+        "onboard_time": 1723291823,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277868,
+        "num": 277868,
+        "word": "薛凯琪袁娅维真亲了",
+        "onboard_time": 1723293682,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274407,
+        "num": 274407,
+        "word": "马龙是张怡宁崇拜的运动员之一",
+        "onboard_time": 1723293803,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257482,
+        "num": 257482,
+        "word": "冠军来了",
+        "onboard_time": 1723283660,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255246,
+        "num": 255246,
+        "word": "F勒布伦回应比赛中喊樊振东",
+        "onboard_time": 1723289182,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234992,
+        "num": 234992,
+        "word": "孙颖莎给邱贻可戴上金牌",
+        "onboard_time": 1723292722,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234571,
+        "num": 234571,
+        "word": "巩立姣采访",
+        "onboard_time": 1723293923,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230200,
+        "num": 230200,
+        "word": "爷爷盯着我的房产证10分钟了",
+        "onboard_time": 1723282101,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227402,
+        "num": 227402,
+        "word": "奥运会",
+        "onboard_time": 1723293982,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219950,
+        "num": 219950,
+        "word": "小莫说中国现场观赛95%都是女孩",
+        "onboard_time": 1723294103,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219226,
+        "num": 219226,
+        "word": "王昶来成都过七夕了",
+        "onboard_time": 1723291402,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202388,
+        "num": 202388,
+        "word": "GAI一个电话真把王源叫来了",
+        "onboard_time": 1723294103,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198399,
+        "num": 198399,
+        "word": "谁在大量购买空牛奶盒空笔芯",
+        "onboard_time": 1723273640,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194663,
+        "num": 194663,
+        "word": "德天瀑布",
+        "onboard_time": 1723294103,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻文化根魂#"
+    }
+  }
+}
