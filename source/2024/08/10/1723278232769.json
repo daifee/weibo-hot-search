@@ -1,0 +1,410 @@
+{
+  "runTime": 1723278232769,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2350584,
+        "num": 2350584,
+        "word": "谁在大量购买空牛奶盒空笔芯",
+        "onboard_time": 1723273640,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1674632,
+        "num": 1674632,
+        "word": "叫顺风车送狗被卖给乘客",
+        "onboard_time": 1723273220,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75714,
+        "num": 1523379,
+        "word": "五问美国的反兴奋剂工作",
+        "onboard_time": 1723261762,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1449456,
+        "num": 1449456,
+        "word": "小胖也是遇到心软的神了",
+        "onboard_time": 1723268181,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1039472,
+        "num": 1039472,
+        "word": "七夕消费暴跌年轻人不交爱情税了吗",
+        "onboard_time": 1723260863,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 960445,
+        "num": 960445,
+        "word": "马龙微笑着宣布将与奥运赛场告别",
+        "onboard_time": 1723256601,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 893600,
+        "num": 893600,
+        "word": "给潘展乐剪头发的Tony爆单了",
+        "onboard_time": 1723268840,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 827659,
+        "num": 827659,
+        "word": "陈紫函戴向宇七夕发糖",
+        "onboard_time": 1723275621,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48138,
+        "num": 803288,
+        "word": "反复内耗可能是多动症在作祟",
+        "onboard_time": 1723276817,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616877,
+        "num": 784590,
+        "word": "王鹤润直播道歉",
+        "onboard_time": 1723269139,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1102429,
+        "num": 762183,
+        "word": "杨威回应网友让其去考裁判证",
+        "onboard_time": 1723271840,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 848049,
+        "num": 727387,
+        "word": "王楚钦父亲 他单项也可以",
+        "onboard_time": 1723268542,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 727322,
+        "num": 727322,
+        "word": "杨绍辉10公里领先",
+        "onboard_time": 1723272800,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7412,
+        "num": 711052,
+        "word": "敷尔佳新推出了乳液面膜",
+        "onboard_time": 1723273820,
+        "rank": 13,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 187204,
+        "num": 710860,
+        "word": "韩国女团vs德国女团",
+        "onboard_time": 1723276579,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 710859,
+        "num": 710859,
+        "word": "何杰杨绍辉吴向东出战马拉松",
+        "onboard_time": 1723268662,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 658873,
+        "num": 658873,
+        "word": "王楚钦模仿孙颖莎打球有多形象",
+        "onboard_time": 1723275500,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 358899,
+        "num": 610636,
+        "word": "杨乐乐为汪涵准备七夕礼物",
+        "onboard_time": 1723274600,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352168,
+        "num": 590027,
+        "word": "虞书欣 专业团队",
+        "onboard_time": 1723259843,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283601,
+        "num": 576895,
+        "word": "黄觉说肖战经常戴不同的耳机",
+        "onboard_time": 1723276699,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 570559,
+        "num": 570559,
+        "word": "林昀儒 怎么看演唱会分享一下",
+        "onboard_time": 1723273041,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123832,
+        "num": 427149,
+        "word": "迷彩婚纱照七夕上新",
+        "onboard_time": 1723276280,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418500,
+        "num": 418500,
+        "word": "杨柳 就是金牌",
+        "onboard_time": 1723263322,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 375575,
+        "num": 375575,
+        "word": "阿富汗女运动员因政治言论被取消资格",
+        "onboard_time": 1723272441,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 346367,
+        "num": 346367,
+        "word": "徐艺洋晒玫瑰花",
+        "onboard_time": 1723254743,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344893,
+        "num": 344893,
+        "word": "孙颖莎 理想化的青年",
+        "onboard_time": 1723272200,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120021,
+        "num": 344776,
+        "word": "男子跳水10米台半决赛",
+        "onboard_time": 1723275921,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257060,
+        "num": 343001,
+        "word": "负负得正",
+        "onboard_time": 1723277060,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 244252,
+        "num": 341570,
+        "word": "张雨霏抢不到周杰伦演唱会门票",
+        "onboard_time": 1723277541,
+        "rank": 28,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 206685,
+        "num": 339835,
+        "word": "TF三代演唱会通知",
+        "onboard_time": 1723277480,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 339384,
+        "num": 339384,
+        "word": "巴西坠机一名乘客迟到被工作人员拦住",
+        "onboard_time": 1723260382,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334968,
+        "num": 334968,
+        "word": "樊振东 有始有终",
+        "onboard_time": 1723228573,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 329365,
+        "num": 329365,
+        "word": "奥运田径男子马拉松决赛",
+        "onboard_time": 1723268122,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293714,
+        "num": 293714,
+        "word": "马龙曾问水谷隼没赢过我是不是遗憾",
+        "onboard_time": 1723272680,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252907,
+        "num": 252907,
+        "word": "张本智和 下次我打好了可能又要被说",
+        "onboard_time": 1723255220,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238057,
+        "num": 238057,
+        "word": "怎么能让身上一直香香的",
+        "onboard_time": 1723275440,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 237733,
+        "num": 237733,
+        "word": "基普乔格 马拉松",
+        "onboard_time": 1723277660,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231992,
+        "num": 231992,
+        "word": "巴西空难客机约一分钟内骤降超5000米",
+        "onboard_time": 1723271959,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231508,
+        "num": 231508,
+        "word": "原来胃是一层层破掉的",
+        "onboard_time": 1723277781,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 228922,
+        "num": 228922,
+        "word": "巴西坠机",
+        "onboard_time": 1723275740,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223110,
+        "num": 223110,
+        "word": "莫雷加德捏了樊振东的肩膀",
+        "onboard_time": 1723258882,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205191,
+        "num": 205191,
+        "word": "冰箱一开把空调电费都省了",
+        "onboard_time": 1723276100,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201882,
+        "num": 201882,
+        "word": "奥运高尔夫金牌赛",
+        "onboard_time": 1723272559,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199417,
+        "num": 199417,
+        "word": "奥运冠军也玩恋与深空",
+        "onboard_time": 1723273280,
+        "rank": 43,
+        "category": "体育,游戏"
+      },
+      {
+        "raw_hot": 19984,
+        "num": 182054,
+        "word": "什么时候你的面膜需要更换了",
+        "onboard_time": 1723276940,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 181838,
+        "num": 181838,
+        "word": "黄子韬视角的徐艺洋",
+        "onboard_time": 1723258402,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178475,
+        "num": 178475,
+        "word": "马龙说最后一舞是段完美经历",
+        "onboard_time": 1723278142,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176368,
+        "num": 176368,
+        "word": "谎言之躯开机",
+        "onboard_time": 1723278079,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173718,
+        "num": 173718,
+        "word": "开车不撸狗 撸狗不开车",
+        "onboard_time": 1723277600,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170663,
+        "num": 170663,
+        "word": "印度仍未收获首金",
+        "onboard_time": 1723270522,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#促进群众体育和竞技体育全面发展#"
+    }
+  }
+}
