@@ -1,6 +1,6 @@
 {
   "startTime": 1723220716442,
-  "endTime": 1723279017181,
+  "endTime": 1723281643369,
   "band_list": [
     {
       "raw_hot": 10626785,
@@ -224,6 +224,14 @@
       "word": "跳水三米板颁奖太可爱了",
       "onboard_time": 1723220247,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1756254,
+      "num": 1756254,
+      "word": "李栋旭崔珉豪 观众席",
+      "onboard_time": 1723279461,
+      "rank": 0,
       "category": "体育"
     },
     {
@@ -499,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 775285,
+      "num": 871797,
+      "word": "迪丽热巴济南",
+      "onboard_time": 1723278562,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 772883,
       "num": 697681,
       "word": "陈艺文跳水金牌",
@@ -691,6 +707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 506149,
+      "num": 506149,
+      "word": "杨昊第一跳76.80分",
+      "onboard_time": 1723278921,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 504483,
       "num": 332069,
       "word": "莫雷加德说很敬佩中国队",
@@ -729,6 +753,14 @@
       "onboard_time": 1723245798,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 464720,
+      "num": 901101,
+      "word": "男子跳水10米台半决赛",
+      "onboard_time": 1723275921,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 455315,
@@ -771,6 +803,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 435462,
+      "num": 435462,
+      "word": "中国体坛最难被打破的个人记录",
+      "onboard_time": 1723278321,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 431416,
       "num": 350347,
       "word": "孙颖莎 理想化的青年",
@@ -801,6 +841,14 @@
       "onboard_time": 1723247961,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419909,
+      "num": 419909,
+      "word": "阿富汗女运动员因政治言论被取消资格",
+      "onboard_time": 1723272441,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 407281,
@@ -864,14 +912,6 @@
       "word": "巩立姣铅球决赛",
       "onboard_time": 1723223299,
       "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 375575,
-      "num": 375575,
-      "word": "阿富汗女运动员因政治言论被取消资格",
-      "onboard_time": 1723272441,
-      "rank": 40,
       "category": "体育"
     },
     {
@@ -939,6 +979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 346343,
+      "num": 466062,
+      "word": "李佳琦帮符龙飞尤长靖拿下心仪选曲",
+      "onboard_time": 1723278740,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 344062,
       "num": 849906,
       "word": "梁洁 你上过春晚吗",
@@ -977,6 +1025,14 @@
       "onboard_time": 1723246098,
       "rank": 47,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 327328,
+      "num": 327328,
+      "word": "第一对七夕互关的cp",
+      "onboard_time": 1723280180,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 326424,
@@ -1049,6 +1105,14 @@
       "onboard_time": 1723254622,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 303590,
+      "num": 303590,
+      "word": "原来胃是一层层破掉的",
+      "onboard_time": 1723277781,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 300613,
@@ -1131,14 +1195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 279365,
-      "num": 390893,
-      "word": "迪丽热巴济南",
-      "onboard_time": 1723278562,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 276161,
       "num": 276161,
       "word": "中国男子4x100米接力第七",
@@ -1169,6 +1225,14 @@
       "onboard_time": 1723277541,
       "rank": 28,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 269818,
+      "num": 710860,
+      "word": "韩国女团vs德国女团",
+      "onboard_time": 1723276579,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 268488,
@@ -1203,14 +1267,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 255731,
-      "num": 255731,
-      "word": "原来胃是一层层破掉的",
-      "onboard_time": 1723277781,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 255710,
       "num": 255710,
       "word": "王楚钦以为可以逃过采访",
@@ -1224,6 +1280,14 @@
       "word": "因为他是一块铜牌",
       "onboard_time": 1723250302,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 255033,
+      "num": 255033,
+      "word": "邓亚萍说樊振东真的成熟了",
+      "onboard_time": 1723280660,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -1257,6 +1321,14 @@
       "onboard_time": 1723216290,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246545,
+      "num": 246545,
+      "word": "基普乔格退赛",
+      "onboard_time": 1723281501,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 246424,
@@ -1339,6 +1411,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 234497,
+      "num": 303758,
+      "word": "迪丽热巴安慕希",
+      "onboard_time": 1723278740,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 234154,
+      "num": 231593,
+      "word": "何杰排名67",
+      "onboard_time": 1723278801,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 233269,
+      "num": 233269,
+      "word": "马嘉祺坐姿",
+      "onboard_time": 1723280239,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 231992,
       "num": 231992,
       "word": "巴西空难客机约一分钟内骤降超5000米",
@@ -1352,14 +1448,6 @@
       "word": "樊振东打球全台无死角",
       "onboard_time": 1723227135,
       "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 231358,
-      "num": 710860,
-      "word": "韩国女团vs德国女团",
-      "onboard_time": 1723276579,
-      "rank": 14,
       "category": "体育"
     },
     {
@@ -1377,6 +1465,14 @@
       "onboard_time": 1723233792,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 229052,
+      "num": 229052,
+      "word": "开车不撸狗 撸狗不开车",
+      "onboard_time": 1723277600,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 228922,
@@ -1409,6 +1505,14 @@
       "onboard_time": 1723262423,
       "rank": 7,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 217968,
+      "num": 217968,
+      "word": "梁伟铿从没否认过自己是GGBond",
+      "onboard_time": 1723280961,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 216230,
@@ -1491,14 +1595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 208990,
-      "num": 208990,
-      "word": "迪丽热巴安慕希",
-      "onboard_time": 1723278740,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 206964,
       "num": 633677,
       "word": "景甜以为漏勺是勺子漏了",
@@ -1529,6 +1625,14 @@
       "onboard_time": 1723222821,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204948,
+      "num": 204948,
+      "word": "托拉马拉松金牌",
+      "onboard_time": 1723281620,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 204116,
@@ -1576,14 +1680,6 @@
       "word": "印度仍未收获首金",
       "onboard_time": 1723270522,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 200916,
-      "num": 200916,
-      "word": "何杰排名67",
-      "onboard_time": 1723278801,
-      "rank": 40,
       "category": "体育"
     },
     {
@@ -1659,14 +1755,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 197235,
-      "num": 901101,
-      "word": "男子跳水10米台半决赛",
-      "onboard_time": 1723275921,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 197131,
       "num": 679640,
       "word": "曝王丽坤老公与贾青亲密合照",
@@ -1739,14 +1827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192128,
-      "num": 192128,
-      "word": "开车不撸狗 撸狗不开车",
-      "onboard_time": 1723277600,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 191405,
       "num": 299250,
       "word": "登陆计划",
@@ -1763,6 +1843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189599,
+      "num": 1207117,
+      "word": "美一边污蔑中国运动员一边包庇自己人",
+      "onboard_time": 1723280239,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188835,
       "num": 157508,
       "word": "王楚钦半决赛时脚崴了",
@@ -1771,27 +1859,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 187562,
-      "num": 187562,
-      "word": "中国体坛最难被打破的个人记录",
-      "onboard_time": 1723278321,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 186166,
       "num": 1357553,
       "word": "是奥运战士也是妈妈的小哭包",
       "onboard_time": 1723252821,
       "rank": 7,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 185978,
-      "num": 185978,
-      "word": "杨昊第一跳76.80分",
-      "onboard_time": 1723278921,
-      "rank": 43,
       "category": "体育"
     },
     {
@@ -1897,6 +1969,14 @@
       "onboard_time": 1723221144,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 173184,
+      "num": 173184,
+      "word": "阳了的人又多了张文宏发声",
+      "onboard_time": 1723281559,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 172233,
@@ -2017,6 +2097,14 @@
       "onboard_time": 1723258822,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 133215,
+      "num": 180308,
+      "word": "男子十米台竞争好激烈",
+      "onboard_time": 1723279700,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 130991,
@@ -2323,6 +2411,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 48207,
+      "num": 771774,
+      "word": "起猛了华莱士办婚礼了",
+      "onboard_time": 1723280660,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 47409,
       "num": 181794,
       "word": "钮祜禄尔佳归来",
@@ -2345,6 +2441,14 @@
       "onboard_time": 1723237631,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43166,
+      "num": 761551,
+      "word": "王楠500米单人皮艇晋级奖牌赛",
+      "onboard_time": 1723281321,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 41345,
@@ -2483,11 +2587,35 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23066,
+      "num": 759005,
+      "word": "2024穿越火线嘉年华",
+      "onboard_time": 1723280421,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 22593,
       "num": 129101,
       "word": "吴愉对国旗敬礼",
       "onboard_time": 1723241414,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 21306,
+      "num": 826207,
+      "word": "开了青少年模式还是能进行游戏充值",
+      "onboard_time": 1723280421,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20636,
+      "num": 833838,
+      "word": "越反越兴奋成美反兴奋剂机构代名词",
+      "onboard_time": 1723280961,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -2507,20 +2635,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 18571,
+      "num": 289036,
+      "word": "敷尔佳乳液面膜更适合什么肌肤",
+      "onboard_time": 1723278981,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 17607,
       "num": 358970,
       "word": "中国男子4×100接力决赛",
       "onboard_time": 1723224617,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 7077,
-      "num": 177693,
-      "word": "敷尔佳乳液面膜更适合什么肌肤",
-      "onboard_time": 1723278981,
-      "rank": 49,
-      "category": "美妆"
     }
   ],
   "hotgov_list": [
