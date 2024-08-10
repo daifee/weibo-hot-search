@@ -1,6 +1,6 @@
 {
   "startTime": 1723220716442,
-  "endTime": 1723260314350,
+  "endTime": 1723261091683,
   "band_list": [
     {
       "raw_hot": 10626785,
@@ -27,8 +27,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 4354359,
-      "num": 5208719,
+      "raw_hot": 5498776,
+      "num": 6748776,
       "word": "马龙微笑着宣布将与奥运赛场告别",
       "onboard_time": 1723256601,
       "rank": 24,
@@ -235,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1474417,
+      "num": 1474417,
+      "word": "莫雷加德捏了樊振东的肩膀",
+      "onboard_time": 1723258882,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1459481,
       "num": 853472,
       "word": "刘清漪首轮胜美国选手",
@@ -307,11 +315,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 982952,
-      "num": 631493,
-      "word": "莫雷加德捏了樊振东的肩膀",
-      "onboard_time": 1723258882,
-      "rank": 10,
+      "raw_hot": 989282,
+      "num": 989282,
+      "word": "张本智和 下次我打好了可能又要被说",
+      "onboard_time": 1723255220,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 860412,
-      "num": 860412,
+      "num": 990867,
       "word": "七夕",
       "onboard_time": 1723219949,
       "rank": 12,
@@ -427,14 +435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 658264,
-      "num": 658264,
-      "word": "张本智和 下次我打好了可能又要被说",
-      "onboard_time": 1723255220,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 642107,
       "num": 583440,
       "word": "瑞典队服 优衣库",
@@ -443,8 +443,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 624960,
-      "num": 624960,
+      "raw_hot": 625627,
+      "num": 989850,
       "word": "黄子韬视角的徐艺洋",
       "onboard_time": 1723258402,
       "rank": 12,
@@ -619,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 395660,
+      "num": 989692,
+      "word": "虞书欣 专业团队",
+      "onboard_time": 1723259843,
+      "rank": 19,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 390890,
       "num": 839291,
       "word": "李雪琴在十天被孤立",
@@ -633,6 +641,14 @@
       "onboard_time": 1723255162,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 385564,
+      "num": 385564,
+      "word": "小胖不上场的时候是在梦游吗",
+      "onboard_time": 1723257381,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 377663,
@@ -672,14 +688,6 @@
       "word": "王楚钦给肖指导戴上金牌",
       "onboard_time": 1723247178,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 354396,
-      "num": 354396,
-      "word": "小胖不上场的时候是在梦游吗",
-      "onboard_time": 1723257381,
-      "rank": 42,
       "category": "体育"
     },
     {
@@ -763,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312066,
+      "num": 312066,
+      "word": "刘国梁拥抱瑞典男队主教练",
+      "onboard_time": 1723259122,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 311096,
       "num": 3360210,
       "word": "9岁女孩被老师用尺子砸成重伤二级",
@@ -787,12 +803,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 303051,
+      "num": 989510,
+      "word": "大家唱的都是我写的歌",
+      "onboard_time": 1723258102,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 292076,
       "num": 678806,
       "word": "刘清漪晋级四强",
       "onboard_time": 1723228035,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 290260,
+      "num": 290260,
+      "word": "七夕消费暴跌年轻人不交爱情税了吗",
+      "onboard_time": 1723260863,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290212,
@@ -811,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 283237,
+      "num": 283237,
+      "word": "特朗普所乘飞机出现故障后安全降落",
+      "onboard_time": 1723259062,
+      "rank": 42,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 282056,
       "num": 176234,
       "word": "张本智和 贾宝玉出狱",
@@ -827,20 +867,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 274429,
-      "num": 274429,
-      "word": "特朗普所乘飞机出现故障后安全降落",
-      "onboard_time": 1723259062,
-      "rank": 42,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 270793,
-      "num": 612340,
-      "word": "大家唱的都是我写的歌",
-      "onboard_time": 1723258102,
-      "rank": 18,
-      "category": "音乐"
+      "raw_hot": 275606,
+      "num": 275606,
+      "word": "汪小菲夫妇与关喆聚餐",
+      "onboard_time": 1723260322,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 268488,
@@ -849,14 +881,6 @@
       "onboard_time": 1723216350,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 261208,
-      "num": 261208,
-      "word": "刘国梁拥抱瑞典男队主教练",
-      "onboard_time": 1723259122,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 255691,
@@ -873,14 +897,6 @@
       "onboard_time": 1723257142,
       "rank": 44,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 251658,
-      "num": 610254,
-      "word": "虞书欣 专业团队",
-      "onboard_time": 1723259843,
-      "rank": 19,
-      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 248264,
@@ -915,12 +931,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 237706,
-      "num": 237706,
+      "raw_hot": 239696,
+      "num": 239696,
       "word": "瑞典教练说他们让刘国梁流了很多汗",
       "onboard_time": 1723259001,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 239156,
+      "num": 239156,
+      "word": "巴西坠机一名乘客迟到被工作人员拦住",
+      "onboard_time": 1723260382,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237689,
@@ -955,12 +979,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222582,
+      "num": 222582,
+      "word": "樊振东和泰勒斯威夫特的应援手幅",
+      "onboard_time": 1723259963,
+      "rank": 49,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 216230,
       "num": 384499,
       "word": "姜妍说让虞书欣和翟潇闻拍一部剧",
       "onboard_time": 1723257022,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209528,
+      "num": 225891,
+      "word": "你好星期六谁能登上公演舞台",
+      "onboard_time": 1723260502,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 209268,
+      "num": 268562,
+      "word": "刘诗诗七月初七竹业篇海报",
+      "onboard_time": 1723260322,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 209010,
@@ -987,6 +1035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204116,
+      "num": 222946,
+      "word": "任嘉伦你是真的饿了",
+      "onboard_time": 1723260263,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202888,
       "num": 202888,
       "word": "中国拳击第二金",
@@ -1003,12 +1059,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201772,
-      "num": 201772,
-      "word": "任嘉伦你是真的饿了",
-      "onboard_time": 1723260263,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 201736,
+      "num": 267794,
+      "word": "难哄",
+      "onboard_time": 1723260622,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 200914,
@@ -1204,7 +1260,7 @@
     },
     {
       "raw_hot": 135653,
-      "num": 621479,
+      "num": 990080,
       "word": "350万对情侣在小荷包里谈恋爱",
       "onboard_time": 1723258822,
       "rank": 14,
@@ -1315,12 +1371,28 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 70631,
+      "num": 990637,
+      "word": "一到七夕浪漫DNA就觉醒了",
+      "onboard_time": 1723260622,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 69700,
       "num": 295668,
       "word": "虞书欣蓝花高定裙",
       "onboard_time": 1723224617,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 66841,
+      "num": 990145,
+      "word": "刘清漪用霹雳舞征服世界",
+      "onboard_time": 1723259243,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 65945,
@@ -1332,7 +1404,7 @@
     },
     {
       "raw_hot": 61619,
-      "num": 636546,
+      "num": 990797,
       "word": "俄方在布良斯克等州实行反恐行动制度",
       "onboard_time": 1723260263,
       "rank": 9,
@@ -1344,14 +1416,6 @@
       "word": "中国拳击队已获2金2银",
       "onboard_time": 1723252821,
       "rank": 13,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 59512,
-      "num": 627288,
-      "word": "刘清漪用霹雳舞征服世界",
-      "onboard_time": 1723259243,
-      "rank": 11,
       "category": "体育"
     },
     {
@@ -1403,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41345,
+      "num": 990567,
+      "word": "建议七夕那天把微信步数关一下",
+      "onboard_time": 1723260622,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 40649,
       "num": 2921355,
       "word": "天宫空间站运动会也太会整活了",
@@ -1443,8 +1515,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31252,
-      "num": 619594,
+      "raw_hot": 31960,
+      "num": 989887,
       "word": "吴彦祖给你的七夕惊喜",
       "onboard_time": 1723258220,
       "rank": 15,
@@ -1464,6 +1536,22 @@
       "word": "中国女曲时隔16年再摘银牌",
       "onboard_time": 1723237332,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 26710,
+      "num": 990283,
+      "word": "俄称拦截数十架乌军无人机",
+      "onboard_time": 1723260263,
+      "rank": 13,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 24882,
+      "num": 990348,
+      "word": "巴黎奥运会官方",
+      "onboard_time": 1723260622,
+      "rank": 11,
       "category": "体育"
     },
     {
@@ -1497,14 +1585,6 @@
       "onboard_time": 1723224617,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 7214,
-      "num": 624896,
-      "word": "俄称拦截数十架乌军无人机",
-      "onboard_time": 1723260263,
-      "rank": 13,
-      "category": "军事"
     }
   ],
   "hotgov_list": [
