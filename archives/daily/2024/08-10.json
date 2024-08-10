@@ -1,6 +1,6 @@
 {
   "startTime": 1723220716442,
-  "endTime": 1723286246567,
+  "endTime": 1723288586768,
   "band_list": [
     {
       "raw_hot": 10626785,
@@ -243,6 +243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1744995,
+      "num": 1744995,
+      "word": "中餐厅出现了樊振东",
+      "onboard_time": 1723287201,
+      "rank": 0,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 1690540,
       "num": 1690540,
       "word": "樊振东 有始有终",
@@ -395,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1142573,
+      "num": 399035,
+      "word": "买房千万不要和亲戚买一起",
+      "onboard_time": 1723281740,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1135798,
       "num": 1135798,
       "word": "王楚钦模仿孙颖莎打球有多形象",
@@ -465,6 +481,14 @@
       "onboard_time": 1723263864,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 925477,
+      "num": 925477,
+      "word": "迪丽热巴出场和婚礼的有什么区别",
+      "onboard_time": 1723285640,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 882087,
@@ -603,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 717864,
+      "num": 436915,
+      "word": "爷爷盯着我的房产证10分钟了",
+      "onboard_time": 1723282101,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 705177,
       "num": 1405463,
       "word": "不是黄子韬你还真会跳水啊",
@@ -640,6 +672,14 @@
       "word": "瑞典队服 优衣库",
       "onboard_time": 1723252763,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 628339,
+      "num": 361302,
+      "word": "徐嘉余 游泳队抽签决定谁升舱",
+      "onboard_time": 1723287141,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -684,7 +724,7 @@
     },
     {
       "raw_hot": 589230,
-      "num": 492883,
+      "num": 580589,
       "word": "国际拳协回应争议拳手战胜杨柳夺金",
       "onboard_time": 1723283180,
       "rank": 22,
@@ -707,14 +747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 552349,
-      "num": 552349,
-      "word": "迪丽热巴出场和婚礼的有什么区别",
-      "onboard_time": 1723285640,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 544959,
       "num": 859535,
       "word": "网店挂错价格被疯抢价值2亿元产品",
@@ -729,6 +761,14 @@
       "onboard_time": 1723281501,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 539200,
+      "num": 539200,
+      "word": "上海大学说唱",
+      "onboard_time": 1723286420,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 529468,
@@ -777,6 +817,14 @@
       "onboard_time": 1723260622,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 511227,
+      "num": 511227,
+      "word": "国乒女团vs日本女团",
+      "onboard_time": 1723286962,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 506149,
@@ -891,14 +939,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 436915,
-      "num": 436915,
-      "word": "爷爷盯着我的房产证10分钟了",
-      "onboard_time": 1723282101,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 431416,
       "num": 350347,
       "word": "孙颖莎 理想化的青年",
@@ -936,6 +976,22 @@
       "word": "阿富汗女运动员因政治言论被取消资格",
       "onboard_time": 1723272441,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 417885,
+      "num": 402550,
+      "word": "举重",
+      "onboard_time": 1723285761,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 412989,
+      "num": 389321,
+      "word": "王楚钦希望你能学会快乐",
+      "onboard_time": 1723285460,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -1011,28 +1067,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 376988,
+      "num": 402186,
+      "word": "鹿晗直播怼黑粉",
+      "onboard_time": 1723287861,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 375239,
       "num": 846452,
       "word": "曝赵露思和彭冠英将合作流鱼",
       "onboard_time": 1723216836,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 373195,
-      "num": 373195,
-      "word": "买房千万不要和亲戚买一起",
-      "onboard_time": 1723281740,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 370859,
-      "num": 370859,
-      "word": "举重",
-      "onboard_time": 1723285761,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 368141,
@@ -1147,6 +1195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 326622,
+      "num": 326622,
+      "word": "马龙期待王楚钦成就超级全满贯",
+      "onboard_time": 1723285460,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 326424,
       "num": 1304486,
       "word": "巴赫最新回应美国兴奋剂问题",
@@ -1169,6 +1225,14 @@
       "onboard_time": 1723241594,
       "rank": 46,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 316748,
+      "num": 385810,
+      "word": "汪苏泷上了中学才知道自己的本名",
+      "onboard_time": 1723287020,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 314064,
@@ -1308,7 +1372,7 @@
     },
     {
       "raw_hot": 286369,
-      "num": 286369,
+      "num": 566094,
       "word": "英国国王首次就骚乱发声",
       "onboard_time": 1723283421,
       "rank": 34,
@@ -1345,6 +1409,14 @@
       "onboard_time": 1723243814,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 279060,
+      "num": 279060,
+      "word": "入职三个月送走了五个同事",
+      "onboard_time": 1723282340,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 276161,
@@ -1387,14 +1459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 269778,
-      "num": 269778,
-      "word": "入职三个月送走了五个同事",
-      "onboard_time": 1723282340,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 268488,
       "num": 703786,
       "word": "闵玧其或将被判有期徒刑",
@@ -1409,6 +1473,22 @@
       "onboard_time": 1723264942,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 266590,
+      "num": 525832,
+      "word": "举重男子102公斤级决赛",
+      "onboard_time": 1723282579,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 265789,
+      "num": 401599,
+      "word": "翟潇闻 中餐厅",
+      "onboard_time": 1723285941,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 265383,
@@ -1465,6 +1545,14 @@
       "onboard_time": 1723257142,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 252904,
+      "num": 252904,
+      "word": "刘焕华举重决赛",
+      "onboard_time": 1723287981,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 248651,
@@ -1715,14 +1803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 219930,
-      "num": 219930,
-      "word": "王楚钦希望你能学会快乐",
-      "onboard_time": 1723285460,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 219425,
       "num": 646196,
       "word": "俄战机向乌军阵地投下3吨级炸弹",
@@ -1769,6 +1849,14 @@
       "onboard_time": 1723283121,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215012,
+      "num": 215012,
+      "word": "线条小狗",
+      "onboard_time": 1723288162,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 214878,
@@ -1947,14 +2035,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 199774,
-      "num": 199774,
-      "word": "马龙期待王楚钦成就超级全满贯",
-      "onboard_time": 1723285460,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 199602,
       "num": 199602,
       "word": "肖战谈演员的表达",
@@ -2019,6 +2099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195647,
+      "num": 195647,
+      "word": "不负国家不负你是最浪漫的告白",
+      "onboard_time": 1723287501,
+      "rank": 40,
+      "category": "军事"
+    },
+    {
       "raw_hot": 195136,
       "num": 195136,
       "word": "巴黎奥运会中没有被看到的中国运动员",
@@ -2080,6 +2168,14 @@
       "word": "这鸡蛋灌饼难怪樊振东爱吃",
       "onboard_time": 1723267883,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 190803,
+      "num": 190803,
+      "word": "女团乒乓球",
+      "onboard_time": 1723287861,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -2147,6 +2243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183940,
+      "num": 183940,
+      "word": "央视七夕晚会",
+      "onboard_time": 1723288521,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183264,
       "num": 677586,
       "word": "部分网约车佣金比超50%",
@@ -2177,6 +2281,22 @@
       "onboard_time": 1723278862,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 180002,
+      "num": 180002,
+      "word": "福原爱谈国乒女团决赛对阵日本队",
+      "onboard_time": 1723287501,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 179555,
+      "num": 179555,
+      "word": "樊振东未来一定更好",
+      "onboard_time": 1723287740,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 178475,
@@ -2219,6 +2339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 172081,
+      "num": 404070,
+      "word": "刘焕华抓举186公斤成功",
+      "onboard_time": 1723287801,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170709,
       "num": 677315,
       "word": "杨洋吃瓜图",
@@ -2233,6 +2361,14 @@
       "onboard_time": 1723254381,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166092,
+      "num": 177584,
+      "word": "张博恒 爱读书的女人",
+      "onboard_time": 1723288101,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 162417,
@@ -2377,14 +2513,6 @@
       "onboard_time": 1723284022,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122253,
-      "num": 525832,
-      "word": "举重男子102公斤级决赛",
-      "onboard_time": 1723282579,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 120643,
@@ -2619,6 +2747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59946,
+      "num": 429995,
+      "word": "敷尔佳活得像个成毅粉头",
+      "onboard_time": 1723284200,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 56884,
       "num": 643090,
       "word": "美国结束对以军一营侵犯人权行为调查",
@@ -2737,6 +2873,14 @@
       "onboard_time": 1723207344,
       "rank": 2,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 39727,
+      "num": 381667,
+      "word": "田亮叶一茜七夕广子有点多",
+      "onboard_time": 1723286180,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 38658,
@@ -2891,14 +3035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 23256,
-      "num": 429995,
-      "word": "敷尔佳活得像个成毅粉头",
-      "onboard_time": 1723284200,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 22593,
       "num": 129101,
       "word": "吴愉对国旗敬礼",
@@ -2937,14 +3073,6 @@
       "onboard_time": 1723224617,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 11953,
-      "num": 199501,
-      "word": "田亮叶一茜七夕广子有点多",
-      "onboard_time": 1723286180,
-      "rank": 48,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
