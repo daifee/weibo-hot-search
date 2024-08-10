@@ -1,6 +1,6 @@
 {
   "startTime": 1723220716442,
-  "endTime": 1723263931118,
+  "endTime": 1723264828665,
   "band_list": [
     {
       "raw_hot": 10626785,
@@ -147,6 +147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1974173,
+      "num": 1974173,
+      "word": "刘国梁女儿目标是2028奥运会",
+      "onboard_time": 1723261404,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1943276,
       "num": 1943276,
       "word": "第一次觉得孙俪的表演痕迹重",
@@ -160,14 +168,6 @@
       "word": "莫雷加德捏了樊振东的肩膀",
       "onboard_time": 1723258882,
       "rank": 10,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1884909,
-      "num": 1884909,
-      "word": "刘国梁女儿目标是2028奥运会",
-      "onboard_time": 1723261404,
-      "rank": 3,
       "category": "体育"
     },
     {
@@ -419,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 734865,
+      "num": 734865,
+      "word": "七夕消费暴跌年轻人不交爱情税了吗",
+      "onboard_time": 1723260863,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 723149,
       "num": 723149,
       "word": "中国女曲vs荷兰女曲",
@@ -443,20 +451,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 657441,
+      "num": 657441,
+      "word": "杨柳 就是金牌",
+      "onboard_time": 1723263322,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 642107,
       "num": 583440,
       "word": "瑞典队服 优衣库",
       "onboard_time": 1723252763,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 640451,
-      "num": 640451,
-      "word": "七夕消费暴跌年轻人不交爱情税了吗",
-      "onboard_time": 1723260863,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 625627,
@@ -499,6 +507,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 557206,
+      "num": 557206,
+      "word": "疯狂动物城2海报",
+      "onboard_time": 1723263322,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 553457,
+      "num": 553457,
+      "word": "巴西坠机一名乘客迟到被工作人员拦住",
+      "onboard_time": 1723260382,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 544959,
       "num": 859535,
       "word": "网店挂错价格被疯抢价值2亿元产品",
@@ -539,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 516308,
+      "num": 989692,
+      "word": "虞书欣 专业团队",
+      "onboard_time": 1723259843,
+      "rank": 19,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 513761,
       "num": 513761,
       "word": "难哄",
@@ -561,22 +593,6 @@
       "onboard_time": 1723213470,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 484197,
-      "num": 989692,
-      "word": "虞书欣 专业团队",
-      "onboard_time": 1723259843,
-      "rank": 19,
-      "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 476949,
-      "num": 476949,
-      "word": "巴西坠机一名乘客迟到被工作人员拦住",
-      "onboard_time": 1723260382,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 472034,
@@ -643,14 +659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 407703,
-      "num": 393566,
-      "word": "疯狂动物城2海报",
-      "onboard_time": 1723263322,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 407281,
       "num": 407281,
       "word": "许昕已经发了4个祝贺了",
@@ -705,6 +713,14 @@
       "onboard_time": 1723257381,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 380376,
+      "num": 380376,
+      "word": "樊振东和泰勒斯威夫特的应援手幅",
+      "onboard_time": 1723259963,
+      "rank": 49,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 377663,
@@ -843,20 +859,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309876,
+      "num": 309876,
+      "word": "小胖双金小莫双银小布双铜",
+      "onboard_time": 1723262782,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 309181,
       "num": 309181,
       "word": "腾讯一口气官宣60部动漫",
       "onboard_time": 1723259963,
       "rank": 38,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 308458,
-      "num": 308458,
-      "word": "樊振东和泰勒斯威夫特的应援手幅",
-      "onboard_time": 1723259963,
-      "rank": 49,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 304717,
@@ -867,8 +883,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 296129,
-      "num": 296129,
+      "raw_hot": 299240,
+      "num": 299240,
       "word": "樊振东瞄上勒布伦的眼镜了",
       "onboard_time": 1723262064,
       "rank": 31,
@@ -881,6 +897,14 @@
       "onboard_time": 1723228035,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 291276,
+      "num": 291276,
+      "word": "刘诗诗水灵灵的被张云龙召唤出来了",
+      "onboard_time": 1723263203,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 290212,
@@ -905,14 +929,6 @@
       "onboard_time": 1723259062,
       "rank": 42,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 282800,
-      "num": 282800,
-      "word": "杨柳 就是金牌",
-      "onboard_time": 1723263322,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 282056,
@@ -947,11 +963,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 264347,
-      "num": 264347,
-      "word": "小胖双金小莫双银小布双铜",
-      "onboard_time": 1723262782,
-      "rank": 35,
+      "raw_hot": 265256,
+      "num": 265256,
+      "word": "莫雷加德伸出摔拍的手又撤了回来",
+      "onboard_time": 1723263088,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 257448,
+      "num": 257448,
+      "word": "樊振东夺冠后球拍玩偶3天补货2次",
+      "onboard_time": 1723263864,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -1067,14 +1091,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 210375,
-      "num": 210375,
-      "word": "莫雷加德伸出摔拍的手又撤了回来",
-      "onboard_time": 1723263088,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 209528,
       "num": 225891,
       "word": "你好星期六谁能登上公演舞台",
@@ -1099,28 +1115,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 208979,
-      "num": 208979,
-      "word": "刘诗诗水灵灵的被张云龙召唤出来了",
-      "onboard_time": 1723263203,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 208695,
-      "num": 208695,
-      "word": "樊振东夺冠后球拍玩偶3天补货2次",
-      "onboard_time": 1723263864,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 206964,
       "num": 633677,
       "word": "景甜以为漏勺是勺子漏了",
       "onboard_time": 1723221922,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206930,
+      "num": 206930,
+      "word": "莫雷加德说很敬佩中国队",
+      "onboard_time": 1723263622,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 205726,
@@ -1187,6 +1195,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 198420,
+      "num": 198420,
+      "word": "马龙训练完给王楚钦樊振东当陪练",
+      "onboard_time": 1723264642,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 197885,
+      "num": 646196,
+      "word": "俄战机向乌军阵地投下3吨级炸弹",
+      "onboard_time": 1723262423,
+      "rank": 7,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 197563,
       "num": 478892,
       "word": "黄景瑜 爱心还给我",
@@ -1217,6 +1241,30 @@
       "onboard_time": 1723258044,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195136,
+      "num": 195136,
+      "word": "巴黎奥运会中没有被看到的中国运动员",
+      "onboard_time": 1723264463,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 194219,
+      "num": 194219,
+      "word": "优酷七夕片单",
+      "onboard_time": 1723264642,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 192696,
+      "num": 192696,
+      "word": "有人在长沙街头有人在长沙接吻",
+      "onboard_time": 1723264762,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 192547,
@@ -1371,7 +1419,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 128381,
+      "raw_hot": 129568,
       "num": 1890650,
       "word": "古代人在七夕节也太会玩了",
       "onboard_time": 1723262302,
@@ -1427,14 +1475,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 94564,
-      "num": 646196,
-      "word": "俄战机向乌军阵地投下3吨级炸弹",
-      "onboard_time": 1723262423,
-      "rank": 7,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 94273,
       "num": 990145,
       "word": "刘清漪用霹雳舞征服世界",
@@ -1449,6 +1489,22 @@
       "onboard_time": 1723235173,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93664,
+      "num": 648530,
+      "word": "刘清漪小孩姐勇闯巴黎",
+      "onboard_time": 1723262603,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 91164,
+      "num": 512780,
+      "word": "第一批私藏浪漫的剧粉已经到民政局了",
+      "onboard_time": 1723264583,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 89301,
@@ -1491,12 +1547,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 73156,
-      "num": 517718,
-      "word": "刘清漪小孩姐勇闯巴黎",
-      "onboard_time": 1723262603,
-      "rank": 15,
-      "category": "体育"
+      "raw_hot": 78178,
+      "num": 571107,
+      "word": "饿了么七夕加码6万份免单",
+      "onboard_time": 1723262423,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 72428,
@@ -1523,6 +1579,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 66184,
+      "num": 479036,
+      "word": "林依轮披哥演出服是妻子亲手缝的",
+      "onboard_time": 1723263742,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 65945,
       "num": 408215,
       "word": "杨柳好样的",
@@ -1545,14 +1609,6 @@
       "onboard_time": 1723252821,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 58914,
-      "num": 537928,
-      "word": "饿了么七夕加码6万份免单",
-      "onboard_time": 1723262423,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 56884,
@@ -1627,12 +1683,12 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 40501,
-      "num": 479036,
-      "word": "林依轮披哥演出服是妻子亲手缝的",
-      "onboard_time": 1723263742,
-      "rank": 19,
-      "category": "综艺"
+      "raw_hot": 38658,
+      "num": 654369,
+      "word": "俄称在库尔斯克击退乌军",
+      "onboard_time": 1723264222,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 35156,
@@ -1691,6 +1747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28076,
+      "num": 645081,
+      "word": "白池花海映衬成毅亮丽肌肤",
+      "onboard_time": 1723262662,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 26710,
       "num": 990283,
       "word": "俄称拦截数十架乌军无人机",
@@ -1721,14 +1785,6 @@
       "onboard_time": 1723241414,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 20484,
-      "num": 455718,
-      "word": "白池花海映衬成毅亮丽肌肤",
-      "onboard_time": 1723262662,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 20076,

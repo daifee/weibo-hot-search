@@ -1,0 +1,410 @@
+{
+  "runTime": 1723264828665,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7526628,
+        "num": 7526628,
+        "word": "马龙微笑着宣布将与奥运赛场告别",
+        "onboard_time": 1723256601,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1974173,
+        "num": 1974173,
+        "word": "刘国梁女儿目标是2028奥运会",
+        "onboard_time": 1723261404,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129568,
+        "num": 1622872,
+        "word": "古代人在七夕节也太会玩了",
+        "onboard_time": 1723262302,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1484548,
+        "num": 1484548,
+        "word": "莫雷加德捏了樊振东的肩膀",
+        "onboard_time": 1723258882,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1095468,
+        "num": 1095468,
+        "word": "樊振东 有始有终",
+        "onboard_time": 1723228573,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 769232,
+        "num": 769232,
+        "word": "徐艺洋晒玫瑰花",
+        "onboard_time": 1723254743,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 734865,
+        "num": 734865,
+        "word": "七夕消费暴跌年轻人不交爱情税了吗",
+        "onboard_time": 1723260863,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 657441,
+        "num": 657441,
+        "word": "杨柳 就是金牌",
+        "onboard_time": 1723263322,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 586998,
+        "num": 655515,
+        "word": "孙红雷知道自己凶的是奥运冠军吗",
+        "onboard_time": 1723251502,
+        "rank": 8,
+        "category": "剧集,体育"
+      },
+      {
+        "raw_hot": 38658,
+        "num": 654369,
+        "word": "俄称在库尔斯克击退乌军",
+        "onboard_time": 1723264222,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1231342,
+        "num": 650970,
+        "word": "张本智和在中餐厅看男团决赛",
+        "onboard_time": 1723254502,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93664,
+        "num": 648530,
+        "word": "刘清漪小孩姐勇闯巴黎",
+        "onboard_time": 1723262603,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28076,
+        "num": 645081,
+        "word": "白池花海映衬成毅亮丽肌肤",
+        "onboard_time": 1723262662,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 643042,
+        "num": 643042,
+        "word": "水谷隼看完男团铜牌赛发文",
+        "onboard_time": 1723257442,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78178,
+        "num": 571107,
+        "word": "饿了么七夕加码6万份免单",
+        "onboard_time": 1723262423,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 557206,
+        "num": 557206,
+        "word": "疯狂动物城2海报",
+        "onboard_time": 1723263322,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 553457,
+        "num": 553457,
+        "word": "巴西坠机一名乘客迟到被工作人员拦住",
+        "onboard_time": 1723260382,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516308,
+        "num": 516308,
+        "word": "虞书欣 专业团队",
+        "onboard_time": 1723259843,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 541878,
+        "num": 516087,
+        "word": "樊振东双杀莫雷加德",
+        "onboard_time": 1723215037,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91164,
+        "num": 512780,
+        "word": "第一批私藏浪漫的剧粉已经到民政局了",
+        "onboard_time": 1723264583,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 512547,
+        "num": 512547,
+        "word": "难哄",
+        "onboard_time": 1723260622,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 474847,
+        "num": 474847,
+        "word": "黄子韬视角的徐艺洋",
+        "onboard_time": 1723258402,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438827,
+        "num": 438827,
+        "word": "张本智和 下次我打好了可能又要被说",
+        "onboard_time": 1723255220,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 380376,
+        "num": 380376,
+        "word": "樊振东和泰勒斯威夫特的应援手幅",
+        "onboard_time": 1723259963,
+        "rank": 23,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 365974,
+        "num": 365974,
+        "word": "赵丽颖蓝花露肩裙",
+        "onboard_time": 1723261942,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 342181,
+        "num": 342181,
+        "word": "七夕",
+        "onboard_time": 1723219949,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 331425,
+        "num": 331425,
+        "word": "大家唱的都是我写的歌",
+        "onboard_time": 1723258102,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 322935,
+        "num": 322935,
+        "word": "马龙奥运6冠王",
+        "onboard_time": 1723218285,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309876,
+        "num": 309876,
+        "word": "小胖双金小莫双银小布双铜",
+        "onboard_time": 1723262782,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306473,
+        "num": 306473,
+        "word": "马龙和王楚钦看樊振东追星的样子",
+        "onboard_time": 1723232231,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304157,
+        "num": 304157,
+        "word": "第一次觉得孙俪的表演痕迹重",
+        "onboard_time": 1723220603,
+        "rank": 30,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 300565,
+        "num": 300565,
+        "word": "马龙说自己肯定不适合当教练",
+        "onboard_time": 1723249701,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299240,
+        "num": 299240,
+        "word": "樊振东瞄上勒布伦的眼镜了",
+        "onboard_time": 1723262064,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292920,
+        "num": 292920,
+        "word": "鞍山小马当打之年",
+        "onboard_time": 1723216469,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291276,
+        "num": 291276,
+        "word": "刘诗诗水灵灵的被张云龙召唤出来了",
+        "onboard_time": 1723263203,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84362,
+        "num": 269849,
+        "word": "刘清漪用霹雳舞征服世界",
+        "onboard_time": 1723259243,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265256,
+        "num": 265256,
+        "word": "莫雷加德伸出摔拍的手又撤了回来",
+        "onboard_time": 1723263088,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262275,
+        "num": 262275,
+        "word": "马龙说巴黎是职业生涯最后一站",
+        "onboard_time": 1723248201,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257448,
+        "num": 257448,
+        "word": "樊振东夺冠后球拍玩偶3天补货2次",
+        "onboard_time": 1723263864,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227834,
+        "num": 227834,
+        "word": "刘国梁拥抱瑞典男队主教练",
+        "onboard_time": 1723259122,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209357,
+        "num": 209357,
+        "word": "王楚钦给肖指导戴上金牌",
+        "onboard_time": 1723247178,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66184,
+        "num": 207575,
+        "word": "林依轮披哥演出服是妻子亲手缝的",
+        "onboard_time": 1723263742,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206930,
+        "num": 206930,
+        "word": "莫雷加德说很敬佩中国队",
+        "onboard_time": 1723263622,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206209,
+        "num": 206209,
+        "word": "刘清漪霹雳舞铜牌",
+        "onboard_time": 1723231872,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203203,
+        "num": 203203,
+        "word": "特朗普所乘飞机出现故障后安全降落",
+        "onboard_time": 1723259062,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 198420,
+        "num": 198420,
+        "word": "马龙训练完给王楚钦樊振东当陪练",
+        "onboard_time": 1723264642,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197885,
+        "num": 197885,
+        "word": "俄战机向乌军阵地投下3吨级炸弹",
+        "onboard_time": 1723262423,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 195136,
+        "num": 195136,
+        "word": "巴黎奥运会中没有被看到的中国运动员",
+        "onboard_time": 1723264463,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194219,
+        "num": 194219,
+        "word": "优酷七夕片单",
+        "onboard_time": 1723264642,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192696,
+        "num": 192696,
+        "word": "有人在长沙街头有人在长沙接吻",
+        "onboard_time": 1723264762,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#促进群众体育和竞技体育全面发展#"
+    }
+  }
+}
