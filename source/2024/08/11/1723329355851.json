@@ -1,0 +1,410 @@
+{
+  "runTime": 1723329355851,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 775322,
+        "num": 775322,
+        "word": "石川佳纯见到马龙了",
+        "onboard_time": 1723311018,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 761101,
+        "num": 761101,
+        "word": "中国第39金",
+        "onboard_time": 1723323912,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16104,
+        "num": 742895,
+        "word": "北京中轴线漫步指南",
+        "onboard_time": 1723294763,
+        "rank": 2,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 733908,
+        "num": 733908,
+        "word": "库里连中四个三分",
+        "onboard_time": 1723324872,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 520620,
+        "num": 520620,
+        "word": "王楚钦晒国乒合照告别奥运",
+        "onboard_time": 1723314315,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 457139,
+        "num": 457139,
+        "word": "夺金点",
+        "onboard_time": 1723305504,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 439376,
+        "num": 439376,
+        "word": "库里 掌管三分的神",
+        "onboard_time": 1723325232,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165590,
+        "num": 438839,
+        "word": "小黄豆 张可乐",
+        "onboard_time": 1723309280,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 118084,
+        "num": 438208,
+        "word": "杨紫爸妈在张杰演唱会过七夕",
+        "onboard_time": 1723310898,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37459,
+        "num": 437997,
+        "word": "网红太原老葛涉诈骗被立案侦查",
+        "onboard_time": 1723322471,
+        "rank": 9,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 482065,
+        "num": 437281,
+        "word": "孙颖莎撤回了一个陈梦",
+        "onboard_time": 1723308741,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 447631,
+        "num": 436501,
+        "word": "张本智和躲在角落里看妹妹比赛",
+        "onboard_time": 1723323132,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146747,
+        "num": 435354,
+        "word": "德天瀑布魔毯故障1名游客死亡",
+        "onboard_time": 1723294281,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94402,
+        "num": 434628,
+        "word": "GAI一个电话真把王源叫来了",
+        "onboard_time": 1723294103,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 56466,
+        "num": 434173,
+        "word": "中餐厅出现了樊振东",
+        "onboard_time": 1723287201,
+        "rank": 14,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 433928,
+        "num": 433928,
+        "word": "国乒女团金牌",
+        "onboard_time": 1723303593,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 377095,
+        "num": 377095,
+        "word": "樊振东说未来不一定是乒乓球了",
+        "onboard_time": 1723290623,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339699,
+        "num": 339699,
+        "word": "美国男篮奥运冠军",
+        "onboard_time": 1723326132,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50872,
+        "num": 323202,
+        "word": "韩安冉妈妈回应被女儿起诉",
+        "onboard_time": 1723289660,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 47547,
+        "num": 318393,
+        "word": "迪丽热巴出场和婚礼的有什么区别",
+        "onboard_time": 1723285640,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317905,
+        "num": 317905,
+        "word": "美国男篮全队晚安",
+        "onboard_time": 1723325953,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298667,
+        "num": 298667,
+        "word": "中国金牌数追平东京奥运会",
+        "onboard_time": 1723318752,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270456,
+        "num": 270456,
+        "word": "中国双胞胎花游金牌",
+        "onboard_time": 1723317614,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221719,
+        "num": 221719,
+        "word": "乒乓女团奥运5连冠",
+        "onboard_time": 1723303962,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211271,
+        "num": 211271,
+        "word": "孙颖莎说我们三个人团结一心",
+        "onboard_time": 1723315155,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188162,
+        "num": 188162,
+        "word": "詹姆斯当选奥运男篮MVP",
+        "onboard_time": 1723328293,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182663,
+        "num": 182663,
+        "word": "国乒女团vs日本女团",
+        "onboard_time": 1723286962,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52945,
+        "num": 181749,
+        "word": "刘浩存王安宇十指相扣七夕视频",
+        "onboard_time": 1723326552,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47586,
+        "num": 181469,
+        "word": "纪昱恒处处吻",
+        "onboard_time": 1723324271,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36384,
+        "num": 181454,
+        "word": "黄朔邓佳鑫",
+        "onboard_time": 1723303050,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181441,
+        "num": 181441,
+        "word": "孙颖莎陈梦 是对手更是队友",
+        "onboard_time": 1723300657,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169475,
+        "num": 169475,
+        "word": "孙颖莎冷静得可怕",
+        "onboard_time": 1723299749,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103535,
+        "num": 169105,
+        "word": "出生12天女婴被月嫂挠伤脚底",
+        "onboard_time": 1723297707,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92166,
+        "num": 168941,
+        "word": "晚睡晚起睡够时长算熬夜吗",
+        "onboard_time": 1723320132,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 89789,
+        "num": 168932,
+        "word": "爸爸去世前的搜索记录",
+        "onboard_time": 1723309221,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168924,
+        "num": 168924,
+        "word": "这夜没白熬",
+        "onboard_time": 1723326433,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159658,
+        "num": 159658,
+        "word": "孙颖莎拿下第2盘",
+        "onboard_time": 1723301195,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159509,
+        "num": 159509,
+        "word": "李倩拳击75公斤级金牌",
+        "onboard_time": 1723323552,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145731,
+        "num": 145731,
+        "word": "张本智和拿妹妹银牌拍照",
+        "onboard_time": 1723328713,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141222,
+        "num": 141222,
+        "word": "陈梦说要大吃一顿",
+        "onboard_time": 1723317553,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120073,
+        "num": 120073,
+        "word": "库里詹姆斯一起做晚安",
+        "onboard_time": 1723325713,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114904,
+        "num": 114904,
+        "word": "孙颖莎vs平野美宇",
+        "onboard_time": 1723295303,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107932,
+        "num": 107932,
+        "word": "亚布塞莱隔扣詹姆斯",
+        "onboard_time": 1723320973,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105672,
+        "num": 105672,
+        "word": "詹杜库世界名画",
+        "onboard_time": 1723327032,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103775,
+        "num": 103775,
+        "word": "美国男篮vs法国男篮",
+        "onboard_time": 1723318873,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37521,
+        "num": 103534,
+        "word": "三个人炸出了虞书欣所有cp",
+        "onboard_time": 1723327633,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31574,
+        "num": 103349,
+        "word": "李栋旭抽烟照",
+        "onboard_time": 1723290862,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30620,
+        "num": 102766,
+        "word": "一个卖篮球的女主播运球",
+        "onboard_time": 1723300657,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 30149,
+        "num": 102690,
+        "word": "左航三公成绩第一",
+        "onboard_time": 1723312697,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30049,
+        "num": 102270,
+        "word": "AG十二冠王",
+        "onboard_time": 1723297827,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记感受文化中国#"
+    }
+  }
+}

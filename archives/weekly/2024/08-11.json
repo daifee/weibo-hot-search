@@ -1,6 +1,6 @@
 {
   "startTime": 1723307155481,
-  "endTime": 1723328333857,
+  "endTime": 1723329355851,
   "band_list": [
     {
       "raw_hot": 6347529,
@@ -243,6 +243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 761101,
+      "num": 761101,
+      "word": "中国第39金",
+      "onboard_time": 1723323912,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 726369,
       "num": 726369,
       "word": "张本智和小作文",
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 656647,
-      "num": 490033,
+      "num": 520620,
       "word": "王楚钦晒国乒合照告别奥运",
       "onboard_time": 1723314315,
       "rank": 31,
@@ -312,14 +320,6 @@
       "word": "中国双胞胎花游金牌",
       "onboard_time": 1723317614,
       "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 543932,
-      "num": 543932,
-      "word": "中国第39金",
-      "onboard_time": 1723323912,
-      "rank": 21,
       "category": "体育"
     },
     {
@@ -379,6 +379,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 447631,
+      "num": 436501,
+      "word": "张本智和躲在角落里看妹妹比赛",
+      "onboard_time": 1723323132,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 440454,
       "num": 1229840,
       "word": "王昶真去看jonyj了",
@@ -427,6 +435,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 339699,
+      "num": 339699,
+      "word": "美国男篮奥运冠军",
+      "onboard_time": 1723326132,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 329135,
       "num": 1031202,
       "word": "GAI一个电话真把王源叫来了",
@@ -451,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 317905,
+      "num": 317905,
+      "word": "美国男篮全队晚安",
+      "onboard_time": 1723325953,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 314967,
       "num": 428335,
       "word": "爸爸去世前的搜索记录",
@@ -467,11 +491,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 301109,
-      "num": 301109,
-      "word": "美国男篮奥运冠军",
-      "onboard_time": 1723326132,
-      "rank": 17,
+      "raw_hot": 298667,
+      "num": 298667,
+      "word": "中国金牌数追平东京奥运会",
+      "onboard_time": 1723318752,
+      "rank": 6,
       "category": "体育"
     },
     {
@@ -496,14 +520,6 @@
       "word": "男篮裁判",
       "onboard_time": 1723321931,
       "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 287952,
-      "num": 287952,
-      "word": "中国金牌数追平东京奥运会",
-      "onboard_time": 1723318752,
-      "rank": 6,
       "category": "体育"
     },
     {
@@ -651,14 +667,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 194925,
-      "num": 194925,
-      "word": "美国男篮全队晚安",
-      "onboard_time": 1723325953,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 191742,
       "num": 191742,
       "word": "中国第38金",
@@ -675,11 +683,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 184953,
-      "num": 184953,
-      "word": "张本智和躲在角落里看妹妹比赛",
-      "onboard_time": 1723323132,
-      "rank": 40,
+      "raw_hot": 188162,
+      "num": 188162,
+      "word": "詹姆斯当选奥运男篮MVP",
+      "onboard_time": 1723328293,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -699,8 +707,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154586,
-      "num": 154586,
+      "raw_hot": 168924,
+      "num": 168924,
       "word": "这夜没白熬",
       "onboard_time": 1723326433,
       "rank": 35,
@@ -720,6 +728,14 @@
       "word": "库里詹姆斯一起做晚安",
       "onboard_time": 1723325713,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 145731,
+      "num": 145731,
+      "word": "张本智和拿妹妹银牌拍照",
+      "onboard_time": 1723328713,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -779,11 +795,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 107279,
-      "num": 107279,
-      "word": "詹姆斯当选奥运男篮MVP",
-      "onboard_time": 1723328293,
-      "rank": 42,
+      "raw_hot": 105672,
+      "num": 353278,
+      "word": "詹杜库世界名画",
+      "onboard_time": 1723327032,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -803,8 +819,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 88514,
-      "num": 154737,
+      "raw_hot": 92166,
+      "num": 168941,
       "word": "晚睡晚起睡够时长算熬夜吗",
       "onboard_time": 1723320132,
       "rank": 31,
@@ -819,12 +835,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 69172,
-      "num": 353278,
-      "word": "詹杜库世界名画",
-      "onboard_time": 1723327032,
-      "rank": 8,
-      "category": "体育"
+      "raw_hot": 52945,
+      "num": 181749,
+      "word": "刘浩存王安宇十指相扣七夕视频",
+      "onboard_time": 1723326552,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 48171,
@@ -833,6 +849,14 @@
       "onboard_time": 1723317912,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 47586,
+      "num": 181469,
+      "word": "纪昱恒处处吻",
+      "onboard_time": 1723324271,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 46582,
@@ -844,7 +868,7 @@
     },
     {
       "raw_hot": 40973,
-      "num": 353139,
+      "num": 437997,
       "word": "网红太原老葛涉诈骗被立案侦查",
       "onboard_time": 1723322471,
       "rank": 9,
@@ -859,20 +883,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 37699,
-      "num": 161968,
-      "word": "纪昱恒处处吻",
-      "onboard_time": 1723324271,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 35563,
-      "num": 161745,
-      "word": "刘浩存王安宇十指相扣七夕视频",
-      "onboard_time": 1723326552,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 37521,
+      "num": 103534,
+      "word": "三个人炸出了虞书欣所有cp",
+      "onboard_time": 1723327633,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 34788,
@@ -881,6 +897,14 @@
       "onboard_time": 1723297827,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 30149,
+      "num": 104414,
+      "word": "左航三公成绩第一",
+      "onboard_time": 1723312697,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 27608,
@@ -905,22 +929,6 @@
       "onboard_time": 1723325052,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 26666,
-      "num": 104414,
-      "word": "左航三公成绩第一",
-      "onboard_time": 1723312697,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 24692,
-      "num": 103441,
-      "word": "三个人炸出了虞书欣所有cp",
-      "onboard_time": 1723327633,
-      "rank": 49,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
