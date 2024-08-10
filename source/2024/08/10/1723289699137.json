@@ -1,0 +1,410 @@
+{
+  "runTime": 1723289699137,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1721739,
+        "num": 1721739,
+        "word": "中餐厅出现了樊振东",
+        "onboard_time": 1723287201,
+        "rank": 0,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 998067,
+        "num": 998067,
+        "word": "姆巴佩关注樊振东",
+        "onboard_time": 1723281801,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196079,
+        "num": 873616,
+        "word": "美一边污蔑中国运动员一边包庇自己人",
+        "onboard_time": 1723280239,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1925047,
+        "num": 868007,
+        "word": "张本智和小作文",
+        "onboard_time": 1723283001,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 855926,
+        "num": 855926,
+        "word": "鹿晗直播怼黑粉",
+        "onboard_time": 1723287861,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 827694,
+        "num": 827694,
+        "word": "七夕消费暴跌年轻人不交爱情税了吗",
+        "onboard_time": 1723260863,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 773576,
+        "num": 773576,
+        "word": "迪丽热巴出场和婚礼的有什么区别",
+        "onboard_time": 1723285640,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 757143,
+        "num": 757143,
+        "word": "韩国女团铜牌",
+        "onboard_time": 1723284560,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 615524,
+        "num": 615524,
+        "word": "央视七夕晚会",
+        "onboard_time": 1723288521,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30601,
+        "num": 607238,
+        "word": "初二男生一天给主播打赏5万",
+        "onboard_time": 1723289421,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1191392,
+        "num": 603787,
+        "word": "徐嘉余 游泳队抽签决定谁升舱",
+        "onboard_time": 1723287141,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 600121,
+        "num": 600121,
+        "word": "王楚钦希望你能学会快乐",
+        "onboard_time": 1723285460,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 599552,
+        "num": 599552,
+        "word": "韩国选手十米台炸鱼",
+        "onboard_time": 1723283001,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 504661,
+        "num": 504661,
+        "word": "谁在大量购买空牛奶盒空笔芯",
+        "onboard_time": 1723273640,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485771,
+        "num": 485771,
+        "word": "马龙微笑着宣布将与奥运赛场告别",
+        "onboard_time": 1723256601,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 472526,
+        "num": 472526,
+        "word": "冠军来了",
+        "onboard_time": 1723283660,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 446082,
+        "num": 446082,
+        "word": "国际拳协回应争议拳手战胜杨柳夺金",
+        "onboard_time": 1723283180,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 443547,
+        "num": 443547,
+        "word": "举重",
+        "onboard_time": 1723285761,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 386063,
+        "num": 386063,
+        "word": "上海大学说唱",
+        "onboard_time": 1723286420,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 363140,
+        "num": 363140,
+        "word": "黄子韬徐艺洋一家逛环球影城",
+        "onboard_time": 1723289001,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 933354,
+        "num": 362772,
+        "word": "买房千万不要和亲戚买一起",
+        "onboard_time": 1723281740,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 506169,
+        "num": 362335,
+        "word": "爷爷盯着我的房产证10分钟了",
+        "onboard_time": 1723282101,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 375895,
+        "num": 362146,
+        "word": "马龙期待王楚钦成就超级全满贯",
+        "onboard_time": 1723285460,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 361129,
+        "num": 361129,
+        "word": "国乒女团vs日本女团",
+        "onboard_time": 1723286962,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 335804,
+        "num": 335804,
+        "word": "叫顺风车送狗被卖给乘客",
+        "onboard_time": 1723273220,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329421,
+        "num": 329421,
+        "word": "王楚钦模仿孙颖莎打球有多形象",
+        "onboard_time": 1723275500,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280932,
+        "num": 280932,
+        "word": "汪苏泷上了中学才知道自己的本名",
+        "onboard_time": 1723287020,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272043,
+        "num": 280224,
+        "word": "翟潇闻 中餐厅",
+        "onboard_time": 1723285941,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280200,
+        "num": 280200,
+        "word": "刘焕华举重决赛",
+        "onboard_time": 1723287981,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45391,
+        "num": 274300,
+        "word": "田亮叶一茜七夕广子有点多",
+        "onboard_time": 1723286180,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272247,
+        "num": 272247,
+        "word": "李栋旭崔珉豪 观众席",
+        "onboard_time": 1723279461,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264675,
+        "num": 264675,
+        "word": "莎头组合跟教练合影",
+        "onboard_time": 1723289482,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257679,
+        "num": 257679,
+        "word": "举重男子102公斤级决赛",
+        "onboard_time": 1723282579,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249323,
+        "num": 249323,
+        "word": "给潘展乐剪头发的Tony爆单了",
+        "onboard_time": 1723268840,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244095,
+        "num": 244095,
+        "word": "刘焕华抓举186公斤成功",
+        "onboard_time": 1723287801,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237375,
+        "num": 237375,
+        "word": "入职三个月送走了五个同事",
+        "onboard_time": 1723282340,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224927,
+        "num": 224927,
+        "word": "中国体坛最难被打破的个人纪录",
+        "onboard_time": 1723278321,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222791,
+        "num": 222791,
+        "word": "负负得正",
+        "onboard_time": 1723277060,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128962,
+        "num": 219349,
+        "word": "英国国王首次就骚乱发声",
+        "onboard_time": 1723283421,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 219334,
+        "num": 219334,
+        "word": "樊振东未来一定更好",
+        "onboard_time": 1723287740,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205224,
+        "num": 205224,
+        "word": "迪丽热巴济南",
+        "onboard_time": 1723278562,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203778,
+        "num": 203778,
+        "word": "道诡异仙动画化",
+        "onboard_time": 1723289360,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 198987,
+        "num": 198987,
+        "word": "英国奥运冠军拒绝药检仍参加奥运",
+        "onboard_time": 1723289601,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198196,
+        "num": 198196,
+        "word": "张杰七夕版演唱会浪漫开场",
+        "onboard_time": 1723288821,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195710,
+        "num": 195710,
+        "word": "韩安冉妈妈回应被女儿起诉",
+        "onboard_time": 1723289660,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 189395,
+        "num": 189395,
+        "word": "TF三代高会投票",
+        "onboard_time": 1723288701,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185335,
+        "num": 185335,
+        "word": "小申好可爱",
+        "onboard_time": 1723284500,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181954,
+        "num": 181954,
+        "word": "F勒布伦回应比赛中喊樊振东",
+        "onboard_time": 1723289182,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181263,
+        "num": 181263,
+        "word": "塞尔维亚男篮奥运铜牌",
+        "onboard_time": 1723288581,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175223,
+        "num": 175223,
+        "word": "王鹤润直播道歉",
+        "onboard_time": 1723269139,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}
