@@ -1,6 +1,6 @@
 {
   "startTime": 1723220716442,
-  "endTime": 1723254433626,
+  "endTime": 1723257532922,
   "band_list": [
     {
       "raw_hot": 10626785,
@@ -155,11 +155,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1797338,
+      "num": 1797338,
+      "word": "孙红雷知道自己凶的是奥运冠军吗",
+      "onboard_time": 1723251502,
+      "rank": 5,
+      "category": "剧集,体育"
+    },
+    {
       "raw_hot": 1759199,
       "num": 1759199,
       "word": "跳水三米板颁奖太可爱了",
       "onboard_time": 1723220247,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1745222,
+      "num": 1745222,
+      "word": "张本智和在中餐厅看男团决赛",
+      "onboard_time": 1723254502,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1690540,
+      "num": 1690540,
+      "word": "樊振东 有始有终",
+      "onboard_time": 1723228573,
+      "rank": 3,
       "category": "体育"
     },
     {
@@ -188,27 +212,11 @@
     },
     {
       "raw_hot": 1565699,
-      "num": 841216,
+      "num": 1017541,
       "word": "樊振东双杀莫雷加德",
       "onboard_time": 1723215037,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1540700,
-      "num": 1540700,
-      "word": "樊振东 有始有终",
-      "onboard_time": 1723228573,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1503080,
-      "num": 1503080,
-      "word": "孙红雷知道自己凶的是奥运冠军吗",
-      "onboard_time": 1723251502,
-      "rank": 5,
-      "category": "剧集,体育"
     },
     {
       "raw_hot": 1477814,
@@ -227,11 +235,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1433624,
+      "num": 1433624,
+      "word": "徐艺洋晒玫瑰花",
+      "onboard_time": 1723254743,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1319684,
       "num": 839191,
       "word": "马龙樊振东王楚钦金牌",
       "onboard_time": 1723220723,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1267518,
+      "num": 933090,
+      "word": "王楚钦 家庭氛围",
+      "onboard_time": 1723246398,
+      "rank": 10,
       "category": "体育"
     },
     {
@@ -427,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 523015,
+      "num": 935101,
+      "word": "詹某某涉嫌诈骗案庭审细节披露",
+      "onboard_time": 1723255101,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 520258,
       "num": 844031,
       "word": "王丽坤老公承认嫖娼花费数百万元",
@@ -539,6 +571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 404293,
+      "num": 404293,
+      "word": "马龙微笑着宣布将与奥运赛场告别",
+      "onboard_time": 1723256601,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 397035,
       "num": 454855,
       "word": "巴黎奥运女子铅球决赛",
@@ -553,6 +593,22 @@
       "onboard_time": 1723195042,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 387409,
+      "num": 387409,
+      "word": "夫人 王爷家很美但有点废腿",
+      "onboard_time": 1723255162,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 379211,
+      "num": 379211,
+      "word": "水谷隼看完男团铜牌赛发文",
+      "onboard_time": 1723257442,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 377663,
@@ -587,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 356702,
+      "num": 356702,
+      "word": "王楚钦给肖指导戴上金牌",
+      "onboard_time": 1723247178,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 350527,
       "num": 316396,
       "word": "樊振东发霉霉的歌庆祝男团夺冠",
@@ -601,6 +665,14 @@
       "onboard_time": 1723218756,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 334886,
+      "num": 334886,
+      "word": "乙女游戏只能卷尺度了吗",
+      "onboard_time": 1723255521,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 330678,
@@ -627,14 +699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 323613,
-      "num": 323613,
-      "word": "王楚钦给肖指导戴上金牌",
-      "onboard_time": 1723247178,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 320258,
       "num": 412034,
       "word": "美方称对以色列财长言论感到震惊",
@@ -643,12 +707,44 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 317359,
+      "num": 1304486,
+      "word": "巴赫最新回应美国兴奋剂问题",
+      "onboard_time": 1723255281,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 314064,
+      "num": 314064,
+      "word": "巴西空难误机乘客逃过一劫",
+      "onboard_time": 1723255220,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311096,
       "num": 3360210,
       "word": "9岁女孩被老师用尺子砸成重伤二级",
       "onboard_time": 1723212032,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304717,
+      "num": 304717,
+      "word": "美国队接力犯规被取消成绩",
+      "onboard_time": 1723254622,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 300515,
+      "num": 300515,
+      "word": "张本智和 下次我打好了可能又要被说",
+      "onboard_time": 1723255220,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 292076,
@@ -683,6 +779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 280132,
+      "num": 280132,
+      "word": "巴黎食堂 胖东来",
+      "onboard_time": 1723256543,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 276161,
       "num": 276161,
       "word": "中国男子4x100米接力第七",
@@ -699,12 +803,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 266062,
+      "num": 266062,
+      "word": "小胖不上场的时候是在梦游吗",
+      "onboard_time": 1723257381,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 255691,
       "num": 344969,
       "word": "因为他是一块铜牌",
       "onboard_time": 1723250302,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 253788,
+      "num": 253788,
+      "word": "饿了么免单",
+      "onboard_time": 1723257142,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 248264,
@@ -795,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201123,
+      "num": 383225,
+      "word": "你好星期六",
+      "onboard_time": 1723256962,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200914,
       "num": 1126901,
       "word": "巴西坠机遇难者名单中未发现中国乘客",
@@ -825,6 +953,14 @@
       "onboard_time": 1723206024,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 198097,
+      "num": 380956,
+      "word": "姜妍说让虞书欣和翟潇闻拍一部剧",
+      "onboard_time": 1723257022,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 197563,
@@ -1180,7 +1316,7 @@
     },
     {
       "raw_hot": 30771,
-      "num": 1696578,
+      "num": 1717301,
       "word": "全国秋粮面积稳中有增",
       "onboard_time": 1723207163,
       "rank": 2,
