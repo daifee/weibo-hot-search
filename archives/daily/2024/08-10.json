@@ -1,6 +1,6 @@
 {
   "startTime": 1723220716442,
-  "endTime": 1723253146840,
+  "endTime": 1723254433626,
   "band_list": [
     {
       "raw_hot": 10626785,
@@ -203,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1503080,
+      "num": 1503080,
+      "word": "孙红雷知道自己凶的是奥运冠军吗",
+      "onboard_time": 1723251502,
+      "rank": 5,
+      "category": "剧集,体育"
+    },
+    {
       "raw_hot": 1477814,
       "num": 842809,
       "word": "马龙360度挥臂转圈",
@@ -227,14 +235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1212771,
-      "num": 1455944,
-      "word": "孙红雷知道自己凶的是奥运冠军吗",
-      "onboard_time": 1723251502,
-      "rank": 5,
-      "category": "剧集,体育"
-    },
-    {
       "raw_hot": 1135311,
       "num": 840323,
       "word": "霹雳舞比赛好看",
@@ -251,19 +251,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1042604,
+      "num": 1042604,
+      "word": "马龙说自己肯定不适合当教练",
+      "onboard_time": 1723249701,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1011951,
       "num": 702540,
       "word": "许昕复盘",
       "onboard_time": 1723216173,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 937637,
-      "num": 937637,
-      "word": "马龙说自己肯定不适合当教练",
-      "onboard_time": 1723249701,
-      "rank": 10,
       "category": "体育"
     },
     {
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 871488,
-      "num": 461805,
+      "num": 604962,
       "word": "跟马龙坐到了同一架飞机",
       "onboard_time": 1723245859,
       "rank": 39,
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 735733,
-      "num": 529853,
+      "num": 570668,
       "word": "刘清漪霹雳舞铜牌",
       "onboard_time": 1723231872,
       "rank": 9,
@@ -364,7 +364,7 @@
     },
     {
       "raw_hot": 705177,
-      "num": 1357722,
+      "num": 1405463,
       "word": "不是黄子韬你还真会跳水啊",
       "onboard_time": 1723227016,
       "rank": 24,
@@ -377,6 +377,22 @@
       "onboard_time": 1723190604,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 642107,
+      "num": 583440,
+      "word": "瑞典队服 优衣库",
+      "onboard_time": 1723252763,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 622115,
+      "num": 622115,
+      "word": "陈奕迅看你拿冠军了",
+      "onboard_time": 1723250842,
+      "rank": 16,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 603789,
@@ -435,14 +451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 512627,
-      "num": 512627,
-      "word": "陈奕迅看你拿冠军了",
-      "onboard_time": 1723250842,
-      "rank": 16,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 501482,
       "num": 501482,
       "word": "拳击女子66公斤级决赛",
@@ -468,11 +476,35 @@
     },
     {
       "raw_hot": 466718,
-      "num": 466718,
+      "num": 597177,
       "word": "鹿晗直播",
       "onboard_time": 1723245798,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 455315,
+      "num": 455315,
+      "word": "张本智和只要我赢下来的话就没事了",
+      "onboard_time": 1723250064,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 455262,
+      "num": 600763,
+      "word": "颁奖嘉宾居然是杨紫琼",
+      "onboard_time": 1723251382,
+      "rank": 18,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 455142,
+      "num": 455142,
+      "word": "瑞典国王在观众席挠头",
+      "onboard_time": 1723251082,
+      "rank": 32,
+      "category": "国外时政,体育"
     },
     {
       "raw_hot": 449906,
@@ -481,14 +513,6 @@
       "onboard_time": 1723210766,
       "rank": 14,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 449846,
-      "num": 449846,
-      "word": "张本智和只要我赢下来的话就没事了",
-      "onboard_time": 1723250064,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 425150,
@@ -507,20 +531,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 420702,
-      "num": 420702,
-      "word": "瑞典国王在观众席挠头",
-      "onboard_time": 1723251082,
-      "rank": 32,
-      "category": "国外时政,体育"
-    },
-    {
-      "raw_hot": 410291,
-      "num": 465164,
-      "word": "颁奖嘉宾居然是杨紫琼",
-      "onboard_time": 1723251382,
-      "rank": 18,
-      "category": "艺人,体育"
+      "raw_hot": 407281,
+      "num": 407281,
+      "word": "许昕已经发了4个祝贺了",
+      "onboard_time": 1723252582,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 397035,
@@ -571,16 +587,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 360776,
-      "num": 360776,
-      "word": "瑞典队服 优衣库",
-      "onboard_time": 1723252763,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 350527,
-      "num": 195777,
+      "num": 316396,
       "word": "樊振东发霉霉的歌庆祝男团夺冠",
       "onboard_time": 1723229653,
       "rank": 42,
@@ -603,11 +611,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 329571,
+      "num": 1046617,
+      "word": "ATM存款未到账急用钱银行建议贷款",
+      "onboard_time": 1723246098,
+      "rank": 47,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 325042,
       "num": 234611,
       "word": "男子4x100米接力决赛",
       "onboard_time": 1723226295,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 323613,
+      "num": 323613,
+      "word": "王楚钦给肖指导戴上金牌",
+      "onboard_time": 1723247178,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -619,28 +643,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 312663,
-      "num": 312663,
-      "word": "ATM存款未到账急用钱银行建议贷款",
-      "onboard_time": 1723246098,
-      "rank": 47,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 311096,
       "num": 3360210,
       "word": "9岁女孩被老师用尺子砸成重伤二级",
       "onboard_time": 1723212032,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 305860,
-      "num": 305860,
-      "word": "许昕已经发了4个祝贺了",
-      "onboard_time": 1723252582,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 292076,
@@ -652,7 +660,7 @@
     },
     {
       "raw_hot": 290212,
-      "num": 290212,
+      "num": 364269,
       "word": "警方再通报小伙在地铁遭老人殴打",
       "onboard_time": 1723250963,
       "rank": 47,
@@ -763,6 +771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206964,
+      "num": 633677,
+      "word": "景甜以为漏勺是勺子漏了",
+      "onboard_time": 1723221922,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205726,
       "num": 450861,
       "word": "松岛正平出道",
@@ -777,6 +793,22 @@
       "onboard_time": 1723234631,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200914,
+      "num": 1126901,
+      "word": "巴西坠机遇难者名单中未发现中国乘客",
+      "onboard_time": 1723251682,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200351,
+      "num": 200351,
+      "word": "学校在通知书里寄的银行卡被我注销了",
+      "onboard_time": 1723251562,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 200163,
@@ -824,6 +856,14 @@
       "word": "王楚钦半决赛时脚崴了",
       "onboard_time": 1723246398,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 186166,
+      "num": 1357553,
+      "word": "是奥运战士也是妈妈的小哭包",
+      "onboard_time": 1723252821,
+      "rank": 7,
       "category": "体育"
     },
     {
@@ -899,12 +939,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 170513,
-      "num": 633677,
-      "word": "景甜以为漏勺是勺子漏了",
-      "onboard_time": 1723221922,
-      "rank": 39,
-      "category": "剧集"
+      "raw_hot": 166776,
+      "num": 166776,
+      "word": "巴西坠机全国哀悼3天",
+      "onboard_time": 1723254381,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157733,
@@ -939,27 +979,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135608,
-      "num": 1126901,
-      "word": "巴西坠机遇难者名单中未发现中国乘客",
-      "onboard_time": 1723251682,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 127250,
       "num": 102275,
       "word": "杨柳决赛对阵有性别争议拳手",
       "onboard_time": 1723238953,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 115370,
-      "num": 1357553,
-      "word": "是奥运战士也是妈妈的小哭包",
-      "onboard_time": 1723252821,
-      "rank": 7,
       "category": "体育"
     },
     {
@@ -1059,12 +1083,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60279,
+      "num": 634970,
+      "word": "中国拳击队已获2金2银",
+      "onboard_time": 1723252821,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 54544,
       "num": 122597,
       "word": "巩立姣说努力了就不后悔",
       "onboard_time": 1723236912,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51354,
+      "num": 1056921,
+      "word": "巴西失事客机黑匣子已找到",
+      "onboard_time": 1723253422,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50189,
@@ -1105,14 +1145,6 @@
       "onboard_time": 1723207344,
       "rank": 2,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 35310,
-      "num": 634970,
-      "word": "中国拳击队已获2金2银",
-      "onboard_time": 1723252821,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 35156,
