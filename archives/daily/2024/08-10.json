@@ -1,6 +1,6 @@
 {
   "startTime": 1723220716442,
-  "endTime": 1723289699137,
+  "endTime": 1723293359584,
   "band_list": [
     {
       "raw_hot": 10626785,
@@ -75,11 +75,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2948003,
+      "num": 2948003,
+      "word": "刘焕华举重金牌",
+      "onboard_time": 1723290202,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2798035,
       "num": 1032198,
       "word": "国乒男团vs瑞典",
       "onboard_time": 1723206564,
       "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2721957,
+      "num": 2721957,
+      "word": "樊振东说未来不一定是乒乓球了",
+      "onboard_time": 1723290623,
+      "rank": 1,
       "category": "体育"
     },
     {
@@ -459,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1031127,
+      "num": 430831,
+      "word": "小布学会了樊振东的庆祝方式",
+      "onboard_time": 1723290323,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1019558,
       "num": 1019558,
       "word": "王鹤润直播道歉",
@@ -499,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 912133,
+      "num": 912133,
+      "word": "国乒女团vs日本女团",
+      "onboard_time": 1723286962,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 882087,
       "num": 3360404,
       "word": "娜扎 我在乎",
@@ -521,6 +553,14 @@
       "onboard_time": 1723219949,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 858518,
+      "num": 276149,
+      "word": "李栋旭抽烟照",
+      "onboard_time": 1723290862,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 855926,
@@ -563,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 801509,
+      "num": 801509,
+      "word": "韩安冉妈妈回应被女儿起诉",
+      "onboard_time": 1723289660,
+      "rank": 44,
+      "category": "网红"
+    },
+    {
       "raw_hot": 797809,
       "num": 699347,
       "word": "皇马 献祭",
@@ -600,6 +648,14 @@
       "word": "陈艺文跳水金牌",
       "onboard_time": 1723212756,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 769631,
+      "num": 769631,
+      "word": "艺术体操团体全能金牌赛",
+      "onboard_time": 1723291283,
+      "rank": 6,
       "category": "体育"
     },
     {
@@ -683,11 +739,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 653640,
+      "num": 653640,
+      "word": "王楚钦希望你能学会快乐",
+      "onboard_time": 1723285460,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 642107,
       "num": 583440,
       "word": "瑞典队服 优衣库",
       "onboard_time": 1723252763,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 631086,
+      "num": 283946,
+      "word": "莎头组合跟教练合影",
+      "onboard_time": 1723289482,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -736,14 +808,6 @@
       "word": "中国女曲银牌",
       "onboard_time": 1723232593,
       "rank": 0,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 600121,
-      "num": 600121,
-      "word": "王楚钦希望你能学会快乐",
-      "onboard_time": 1723285460,
-      "rank": 41,
       "category": "体育"
     },
     {
@@ -835,20 +899,20 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 515688,
+      "num": 277504,
+      "word": "莫雷加德回应绰号小莫",
+      "onboard_time": 1723292480,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 513761,
       "num": 513761,
       "word": "难哄",
       "onboard_time": 1723260622,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 511227,
-      "num": 511227,
-      "word": "国乒女团vs日本女团",
-      "onboard_time": 1723286962,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 506149,
@@ -864,6 +928,14 @@
       "word": "莫雷加德说很敬佩中国队",
       "onboard_time": 1723263622,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 502263,
+      "num": 275519,
+      "word": "孙颖莎陈梦王曼昱女团决赛",
+      "onboard_time": 1723291943,
+      "rank": 22,
       "category": "体育"
     },
     {
@@ -1011,6 +1083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 416974,
+      "num": 416974,
+      "word": "黄子韬徐艺洋一家逛环球影城",
+      "onboard_time": 1723289001,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 407281,
       "num": 407281,
       "word": "许昕已经发了4个祝贺了",
@@ -1051,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 387137,
+      "num": 377985,
+      "word": "中国体坛最难被打破的个人纪录",
+      "onboard_time": 1723278321,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 385709,
       "num": 989510,
       "word": "大家唱的都是我写的歌",
@@ -1064,14 +1152,6 @@
       "word": "小胖不上场的时候是在梦游吗",
       "onboard_time": 1723257381,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 377985,
-      "num": 377985,
-      "word": "中国体坛最难被打破的个人纪录",
-      "onboard_time": 1723278321,
-      "rank": 26,
       "category": "体育"
     },
     {
@@ -1107,19 +1187,19 @@
       "category": "综艺,网红"
     },
     {
-      "raw_hot": 363140,
-      "num": 363140,
-      "word": "黄子韬徐艺洋一家逛环球影城",
-      "onboard_time": 1723289001,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 362099,
       "num": 362099,
       "word": "龙队熟练地蹲下",
       "onboard_time": 1723210708,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 361499,
+      "num": 271064,
+      "word": "申裕斌开通微博",
+      "onboard_time": 1723291880,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -1139,11 +1219,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 357485,
+      "num": 270087,
+      "word": "刘焕华夺冠后举起教练",
+      "onboard_time": 1723291823,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 356702,
       "num": 356702,
       "word": "王楚钦给肖指导戴上金牌",
       "onboard_time": 1723247178,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 354218,
+      "num": 269468,
+      "word": "王楚钦爸爸回应球拍被踩事件",
+      "onboard_time": 1723291462,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -1233,6 +1329,14 @@
       "onboard_time": 1723226295,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 321778,
+      "num": 321778,
+      "word": "七夕文案",
+      "onboard_time": 1723290623,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 320258,
@@ -1347,6 +1451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 295539,
+      "num": 269023,
+      "word": "李雯雯 举重",
+      "onboard_time": 1723292961,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 294899,
       "num": 294899,
       "word": "托拉马拉松金牌",
@@ -1368,6 +1480,14 @@
       "word": "刘清漪晋级四强",
       "onboard_time": 1723228035,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 291515,
+      "num": 268425,
+      "word": "F勒布伦回应比赛中喊樊振东",
+      "onboard_time": 1723289182,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -1401,6 +1521,14 @@
       "onboard_time": 1723243814,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 284996,
+      "num": 284996,
+      "word": "刘亦菲买的花是送惠英红",
+      "onboard_time": 1723290081,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 283601,
@@ -1441,6 +1569,14 @@
       "onboard_time": 1723282340,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 277542,
+      "num": 277542,
+      "word": "中国网约车巴黎爆红一车难求",
+      "onboard_time": 1723291523,
+      "rank": 18,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 276161,
@@ -1531,14 +1667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 264675,
-      "num": 264675,
-      "word": "莎头组合跟教练合影",
-      "onboard_time": 1723289482,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 260879,
       "num": 489943,
       "word": "负负得正",
@@ -1577,6 +1705,22 @@
       "onboard_time": 1723257142,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 251020,
+      "num": 272821,
+      "word": "虞书欣生图",
+      "onboard_time": 1723292001,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 249036,
+      "num": 249036,
+      "word": "孙颖莎给邱贻可戴上金牌",
+      "onboard_time": 1723292722,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 248651,
@@ -1641,6 +1785,14 @@
       "onboard_time": 1723269020,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 240040,
+      "num": 272405,
+      "word": "谢娜嗓子哑了",
+      "onboard_time": 1723292841,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 239730,
@@ -1748,7 +1900,7 @@
     },
     {
       "raw_hot": 233214,
-      "num": 1398529,
+      "num": 1589009,
       "word": "美一边污蔑中国运动员一边包庇自己人",
       "onboard_time": 1723280239,
       "rank": 2,
@@ -1835,6 +1987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220165,
+      "num": 220165,
+      "word": "刘焕华挺举228公斤被判失败",
+      "onboard_time": 1723293262,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219425,
       "num": 646196,
       "word": "俄战机向乌军阵地投下3吨级炸弹",
@@ -1856,6 +2016,14 @@
       "word": "梁伟铿从没否认过自己是GGBond",
       "onboard_time": 1723280961,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 217851,
+      "num": 217851,
+      "word": "王昶来成都过七夕了",
+      "onboard_time": 1723291402,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -2155,14 +2323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195710,
-      "num": 195710,
-      "word": "韩安冉妈妈回应被女儿起诉",
-      "onboard_time": 1723289660,
-      "rank": 44,
-      "category": "网红"
-    },
-    {
       "raw_hot": 195649,
       "num": 195649,
       "word": "泸定地震",
@@ -2185,6 +2345,14 @@
       "onboard_time": 1723264463,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195020,
+      "num": 214100,
+      "word": "小S二女儿vlog视角",
+      "onboard_time": 1723291643,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 194219,
@@ -2329,14 +2497,6 @@
       "onboard_time": 1723216049,
       "rank": 47,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 181954,
-      "num": 181954,
-      "word": "F勒布伦回应比赛中喊樊振东",
-      "onboard_time": 1723289182,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 181263,
@@ -2563,6 +2723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130573,
+      "num": 274089,
+      "word": "家长热衷于带孩子测骨龄有必要吗",
+      "onboard_time": 1723291223,
+      "rank": 25,
+      "category": "社会新闻,健康医疗"
+    },
+    {
       "raw_hot": 129568,
       "num": 1890650,
       "word": "古代人在七夕节也太会玩了",
@@ -2577,6 +2745,14 @@
       "onboard_time": 1723238953,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125868,
+      "num": 276656,
+      "word": "南部战区回应菲军机非法闯入我黄岩岛空域",
+      "onboard_time": 1723293141,
+      "rank": 20,
+      "category": "国外时政"
     },
     {
       "raw_hot": 124813,
@@ -2595,6 +2771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114359,
+      "num": 271595,
+      "word": "国乒力争包揽5金",
+      "onboard_time": 1723292063,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113416,
       "num": 718555,
       "word": "中国拳击一夜新添1金1银",
@@ -2608,6 +2792,14 @@
       "word": "西班牙夺得奥运男足金牌",
       "onboard_time": 1723229713,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 111851,
+      "num": 270668,
+      "word": "中国第34金",
+      "onboard_time": 1723291343,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -2881,6 +3073,14 @@
       "onboard_time": 1723242134,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48844,
+      "num": 277710,
+      "word": "横店二次元梗是真的多",
+      "onboard_time": 1723290446,
+      "rank": 16,
+      "category": "动漫"
     },
     {
       "raw_hot": 48818,
