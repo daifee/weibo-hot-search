@@ -1,0 +1,410 @@
+{
+  "runTime": 1723324776992,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 399241,
+        "num": 399241,
+        "word": "李倩拳击75公斤级金牌",
+        "onboard_time": 1723323552,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305488,
+        "num": 305488,
+        "word": "樊振东说未来不一定是乒乓球了",
+        "onboard_time": 1723290623,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12445,
+        "num": 293790,
+        "word": "北京中轴线漫步指南",
+        "onboard_time": 1723294763,
+        "rank": 2,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 286289,
+        "num": 286289,
+        "word": "石川佳纯见到马龙了",
+        "onboard_time": 1723311018,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261400,
+        "num": 261400,
+        "word": "国乒女团金牌",
+        "onboard_time": 1723303593,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229199,
+        "num": 229199,
+        "word": "美国男篮vs法国男篮",
+        "onboard_time": 1723318873,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219653,
+        "num": 219653,
+        "word": "中国双胞胎花游金牌",
+        "onboard_time": 1723317614,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93340,
+        "num": 216242,
+        "word": "小黄豆 张可乐",
+        "onboard_time": 1723309280,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 62166,
+        "num": 215425,
+        "word": "GAI一个电话真把王源叫来了",
+        "onboard_time": 1723294103,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22159,
+        "num": 215424,
+        "word": "网红太原老葛涉诈骗被立案侦查",
+        "onboard_time": 1723322471,
+        "rank": 9,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 215424,
+        "num": 215423,
+        "word": "拳击女子75公斤级决赛",
+        "onboard_time": 1723320312,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 371252,
+        "num": 215127,
+        "word": "孙颖莎撤回了一个陈梦",
+        "onboard_time": 1723308741,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265188,
+        "num": 215014,
+        "word": "孙颖莎说我们三个人团结一心",
+        "onboard_time": 1723315155,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92583,
+        "num": 214507,
+        "word": "德天瀑布魔毯故障1名游客死亡",
+        "onboard_time": 1723294281,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42250,
+        "num": 214101,
+        "word": "一个卖篮球的女主播运球",
+        "onboard_time": 1723300657,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 229537,
+        "num": 213792,
+        "word": "王楚钦晒国乒合照告别奥运",
+        "onboard_time": 1723314315,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38714,
+        "num": 213422,
+        "word": "芒果的精神状态还是太超前了",
+        "onboard_time": 1723312575,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 36859,
+        "num": 212985,
+        "word": "中餐厅出现了樊振东",
+        "onboard_time": 1723287201,
+        "rank": 17,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 32408,
+        "num": 212707,
+        "word": "韩安冉妈妈回应被女儿起诉",
+        "onboard_time": 1723289660,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 212375,
+        "num": 212375,
+        "word": "中国金牌数追平东京奥运会",
+        "onboard_time": 1723318752,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210112,
+        "num": 210112,
+        "word": "夺金点",
+        "onboard_time": 1723305504,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195168,
+        "num": 195168,
+        "word": "中国第39金",
+        "onboard_time": 1723323912,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192168,
+        "num": 192168,
+        "word": "男篮裁判",
+        "onboard_time": 1723321931,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169193,
+        "num": 169193,
+        "word": "亚布塞莱隔扣詹姆斯",
+        "onboard_time": 1723320973,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145123,
+        "num": 145123,
+        "word": "孙颖莎陈梦 是对手更是队友",
+        "onboard_time": 1723300657,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138560,
+        "num": 138560,
+        "word": "乒乓女团奥运5连冠",
+        "onboard_time": 1723303962,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137788,
+        "num": 137788,
+        "word": "孙颖莎冷静得可怕",
+        "onboard_time": 1723299749,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30148,
+        "num": 126848,
+        "word": "杨紫爸妈在张杰演唱会过七夕",
+        "onboard_time": 1723310898,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 27707,
+        "num": 126045,
+        "word": "周深七夕晚会",
+        "onboard_time": 1723317912,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26053,
+        "num": 125754,
+        "word": "纪昱恒处处吻",
+        "onboard_time": 1723324271,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125515,
+        "num": 125515,
+        "word": "国乒女团vs日本女团",
+        "onboard_time": 1723286962,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87055,
+        "num": 117866,
+        "word": "晚睡晚起睡够时长算熬夜吗",
+        "onboard_time": 1723320132,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116289,
+        "num": 116289,
+        "word": "陈梦说要大吃一顿",
+        "onboard_time": 1723317553,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55828,
+        "num": 115453,
+        "word": "爸爸去世前的搜索记录",
+        "onboard_time": 1723309221,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33742,
+        "num": 115421,
+        "word": "出生12天女婴被月嫂挠伤脚底",
+        "onboard_time": 1723297707,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115399,
+        "num": 115399,
+        "word": "孙颖莎拿下第2盘",
+        "onboard_time": 1723301195,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89845,
+        "num": 89845,
+        "word": "孙颖莎vs平野美宇",
+        "onboard_time": 1723295303,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88461,
+        "num": 88461,
+        "word": "跳高加赛",
+        "onboard_time": 1723317193,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87548,
+        "num": 87548,
+        "word": "马龙发文告别奥运",
+        "onboard_time": 1723306226,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24827,
+        "num": 82779,
+        "word": "迪丽热巴出场和婚礼的有什么区别",
+        "onboard_time": 1723285640,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80630,
+        "num": 80630,
+        "word": "张本智和躲在角落里看妹妹比赛",
+        "onboard_time": 1723323132,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72346,
+        "num": 72346,
+        "word": "陈梦王曼昱vs早田希娜张本美和",
+        "onboard_time": 1723295122,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67591,
+        "num": 67591,
+        "word": "王柳懿王芊懿猎豹太帅了",
+        "onboard_time": 1723319652,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66338,
+        "num": 66338,
+        "word": "花游双人自由自选",
+        "onboard_time": 1723310418,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65125,
+        "num": 65125,
+        "word": "奥运男篮决赛",
+        "onboard_time": 1723319713,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63287,
+        "num": 63287,
+        "word": "中国队艺术体操集体全能金牌",
+        "onboard_time": 1723298498,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25118,
+        "num": 62190,
+        "word": "左航三公成绩第一",
+        "onboard_time": 1723312697,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24595,
+        "num": 60106,
+        "word": "AG十二冠王",
+        "onboard_time": 1723297827,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 23756,
+        "num": 58727,
+        "word": "李栋旭抽烟照",
+        "onboard_time": 1723290862,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22304,
+        "num": 57313,
+        "word": "华晨宇七夕七个惊喜",
+        "onboard_time": 1723314675,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记感受文化中国#"
+    }
+  }
+}
