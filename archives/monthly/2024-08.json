@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1723282475098,
+  "endTime": 1723285293471,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -1345,6 +1345,14 @@
       "onboard_time": 1723085123,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4101236,
+      "num": 4101236,
+      "word": "张本智和小作文",
+      "onboard_time": 1723283001,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 4072322,
@@ -5251,6 +5259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1516336,
+      "num": 1516336,
+      "word": "中国体坛最难被打破的个人记录",
+      "onboard_time": 1723278321,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1513421,
       "num": 1513421,
       "word": "奶奶偷将新生儿送养夫妻苦寻37年",
@@ -5880,6 +5896,14 @@
       "word": "女单乒乓球颁奖",
       "onboard_time": 1722696940,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1352775,
+      "num": 1352775,
+      "word": "姆巴佩关注樊振东",
+      "onboard_time": 1723281801,
+      "rank": 22,
       "category": "体育"
     },
     {
@@ -6680,6 +6704,14 @@
       "word": "马林跪地痛哭",
       "onboard_time": 1722760464,
       "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1182229,
+      "num": 1182229,
+      "word": "韩国选手十米台炸鱼",
+      "onboard_time": 1723283001,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -8908,7 +8940,7 @@
     },
     {
       "raw_hot": 827659,
-      "num": 1007420,
+      "num": 1136374,
       "word": "陈紫函戴向宇七夕发糖",
       "onboard_time": 1723275621,
       "rank": 7,
@@ -9292,7 +9324,7 @@
     },
     {
       "raw_hot": 775285,
-      "num": 871797,
+      "num": 1177781,
       "word": "迪丽热巴济南",
       "onboard_time": 1723278562,
       "rank": 19,
@@ -10536,14 +10568,6 @@
       "word": "志田千阳好美",
       "onboard_time": 1722588387,
       "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 645425,
-      "num": 507235,
-      "word": "中国体坛最难被打破的个人记录",
-      "onboard_time": 1723278321,
-      "rank": 42,
       "category": "体育"
     },
     {
@@ -11955,6 +11979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 526480,
+      "num": 459256,
+      "word": "韩国女团铜牌",
+      "onboard_time": 1723284560,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 525571,
       "num": 525571,
       "word": "孙颖莎说梦想还差一步会继续努力",
@@ -12801,6 +12833,14 @@
       "onboard_time": 1722726498,
       "rank": 23,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 483848,
+      "num": 417147,
+      "word": "冠军来了",
+      "onboard_time": 1723283660,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 482781,
@@ -14131,14 +14171,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 423096,
-      "num": 423096,
-      "word": "姆巴佩关注樊振东",
-      "onboard_time": 1723281801,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 423073,
       "num": 423073,
       "word": "石宇奇遗憾没能为中国队拿奖牌",
@@ -14520,6 +14552,14 @@
       "word": "王皓樊振东 谁能不老泪纵横",
       "onboard_time": 1722787768,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 409452,
+      "num": 409452,
+      "word": "国际拳协回应争议拳手战胜杨柳夺金",
+      "onboard_time": 1723283180,
+      "rank": 22,
       "category": "体育"
     },
     {
@@ -14921,6 +14961,14 @@
       "onboard_time": 1723123223,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 397015,
+      "num": 1139667,
+      "word": "曹缘杨昊进决赛",
+      "onboard_time": 1723284621,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 396276,
@@ -15929,6 +15977,14 @@
       "onboard_time": 1723278740,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 359799,
+      "num": 359799,
+      "word": "爷爷盯着我的房产证10分钟了",
+      "onboard_time": 1723282101,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 359424,
@@ -17587,6 +17643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 312754,
+      "num": 312754,
+      "word": "韩国女团2比0德国女团",
+      "onboard_time": 1723282942,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 312371,
       "num": 312371,
       "word": "郎平时代",
@@ -17985,6 +18049,14 @@
       "onboard_time": 1722602668,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 304805,
+      "num": 304805,
+      "word": "买房千万不要和亲戚买一起",
+      "onboard_time": 1723281740,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 304766,
@@ -19001,6 +19073,14 @@
       "onboard_time": 1723022365,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 286369,
+      "num": 286369,
+      "word": "英国国王首次就骚乱发声",
+      "onboard_time": 1723283421,
+      "rank": 34,
+      "category": "国外时政"
     },
     {
       "raw_hot": 286098,
@@ -20444,7 +20524,7 @@
     },
     {
       "raw_hot": 257060,
-      "num": 343001,
+      "num": 436227,
       "word": "负负得正",
       "onboard_time": 1723012883,
       "rank": 48,
@@ -21033,6 +21113,14 @@
       "onboard_time": 1722922285,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245149,
+      "num": 245149,
+      "word": "樊振东又追星成功了",
+      "onboard_time": 1723283961,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 245134,
@@ -21628,7 +21716,7 @@
     },
     {
       "raw_hot": 233214,
-      "num": 1207117,
+      "num": 1398529,
       "word": "美一边污蔑中国运动员一边包庇自己人",
       "onboard_time": 1723280239,
       "rank": 2,
@@ -22395,6 +22483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220238,
+      "num": 220238,
+      "word": "保安偷偷找马龙签名",
+      "onboard_time": 1723284080,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219979,
       "num": 219979,
       "word": "安洗莹vs山口茜",
@@ -22673,6 +22769,14 @@
       "onboard_time": 1722860853,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215860,
+      "num": 215860,
+      "word": "曹缘第三跳75.60分",
+      "onboard_time": 1723283121,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 215806,
@@ -23425,6 +23529,14 @@
       "onboard_time": 1722673882,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 206541,
+      "num": 343735,
+      "word": "赵今麦张凌赫路透",
+      "onboard_time": 1723284740,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 206516,
@@ -24721,6 +24833,14 @@
       "onboard_time": 1722863126,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 193296,
+      "num": 193296,
+      "word": "小申好可爱",
+      "onboard_time": 1723284500,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 193274,
@@ -26417,6 +26537,14 @@
       "onboard_time": 1722533598,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 162417,
+      "num": 162417,
+      "word": "30秒看懂中国婚服演变",
+      "onboard_time": 1723283660,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162371,
@@ -29227,6 +29355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67357,
+      "num": 431037,
+      "word": "林文君200米单人划艇晋级奖牌赛",
+      "onboard_time": 1723285101,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67177,
       "num": 5230415,
       "word": "中国59项世界遗产全名单",
@@ -30040,6 +30176,14 @@
       "word": "巴西失事客机黑匣子已找到",
       "onboard_time": 1723253422,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50884,
+      "num": 1093477,
+      "word": "父母身上的缺点又出现在了我身上",
+      "onboard_time": 1723284022,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -31699,6 +31843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18903,
+      "num": 224637,
+      "word": "成毅粉丝用代言视频饭制司凤番外",
+      "onboard_time": 1723282401,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18780,
       "num": 246345,
       "word": "入秋的时候人会变得敏感吗",
@@ -31785,6 +31937,14 @@
       "onboard_time": 1723144032,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12863,
+      "num": 388201,
+      "word": "敷尔佳活得像个成毅粉头",
+      "onboard_time": 1723284200,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 12548,
@@ -31881,14 +32041,6 @@
       "onboard_time": 1722430765,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 4606,
-      "num": 224637,
-      "word": "成毅粉丝用代言视频饭制司凤番外",
-      "onboard_time": 1723282401,
-      "rank": 47,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
