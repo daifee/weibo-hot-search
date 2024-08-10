@@ -1,0 +1,410 @@
+{
+  "runTime": 1723268113431,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4574784,
+        "num": 4574784,
+        "word": "马龙微笑着宣布将与奥运赛场告别",
+        "onboard_time": 1723256601,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1969013,
+        "num": 1969013,
+        "word": "杨柳 就是金牌",
+        "onboard_time": 1723263322,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122158,
+        "num": 1313702,
+        "word": "古代人在七夕节也太会玩了",
+        "onboard_time": 1723262302,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1008390,
+        "num": 1008390,
+        "word": "莫雷加德捏了樊振东的肩膀",
+        "onboard_time": 1723258882,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1004765,
+        "num": 1004765,
+        "word": "刘国梁女儿目标是2028奥运会",
+        "onboard_time": 1723261404,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 983033,
+        "num": 983033,
+        "word": "樊振东 有始有终",
+        "onboard_time": 1723228573,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 791281,
+        "num": 791281,
+        "word": "七夕消费暴跌年轻人不交爱情税了吗",
+        "onboard_time": 1723260863,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 734411,
+        "num": 734411,
+        "word": "徐艺洋晒玫瑰花",
+        "onboard_time": 1723254743,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 704106,
+        "num": 704106,
+        "word": "疯狂动物城2海报",
+        "onboard_time": 1723263322,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 531382,
+        "num": 673888,
+        "word": "巴西坠机一名乘客迟到被工作人员拦住",
+        "onboard_time": 1723260382,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 663334,
+        "num": 663334,
+        "word": "小胖双金小莫双银小布双铜",
+        "onboard_time": 1723262782,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 654131,
+        "num": 654131,
+        "word": "张本智和在中餐厅看男团决赛",
+        "onboard_time": 1723254502,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 649606,
+        "num": 649606,
+        "word": "樊振东夺冠后球拍玩偶3天补货2次",
+        "onboard_time": 1723263864,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 526312,
+        "num": 526312,
+        "word": "孙红雷知道自己凶的是奥运冠军吗",
+        "onboard_time": 1723251502,
+        "rank": 13,
+        "category": "剧集,体育"
+      },
+      {
+        "raw_hot": 426614,
+        "num": 426614,
+        "word": "樊振东和泰勒斯威夫特的应援手幅",
+        "onboard_time": 1723259963,
+        "rank": 14,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 544534,
+        "num": 425839,
+        "word": "张本智和 下次我打好了可能又要被说",
+        "onboard_time": 1723255220,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 483696,
+        "num": 415739,
+        "word": "水谷隼看完男团铜牌赛发文",
+        "onboard_time": 1723257442,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 386467,
+        "num": 386467,
+        "word": "虞书欣 专业团队",
+        "onboard_time": 1723259843,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378885,
+        "num": 378885,
+        "word": "黄子韬视角的徐艺洋",
+        "onboard_time": 1723258402,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304703,
+        "num": 304703,
+        "word": "赵丽颖蓝花露肩裙",
+        "onboard_time": 1723261942,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 310558,
+        "num": 299785,
+        "word": "莫雷加德说很敬佩中国队",
+        "onboard_time": 1723263622,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91496,
+        "num": 292403,
+        "word": "你的面膜为什么总敷不出效果",
+        "onboard_time": 1723264942,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 288039,
+        "num": 288039,
+        "word": "刘诗诗水灵灵的被张云龙召唤出来了",
+        "onboard_time": 1723263203,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278925,
+        "num": 278925,
+        "word": "难哄",
+        "onboard_time": 1723260622,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220581,
+        "num": 262870,
+        "word": "姜妍晒虞书欣摄影照",
+        "onboard_time": 1723267103,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260692,
+        "num": 260692,
+        "word": "孙颖莎童年练球珍贵影像",
+        "onboard_time": 1723264942,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256459,
+        "num": 256459,
+        "word": "马龙说自己肯定不适合当教练",
+        "onboard_time": 1723249701,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248651,
+        "num": 248651,
+        "word": "原来樊振东还是在读本科生",
+        "onboard_time": 1723265722,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241040,
+        "num": 241040,
+        "word": "马龙奥运6冠王",
+        "onboard_time": 1723218285,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186206,
+        "num": 233506,
+        "word": "张学友不知道该讲国语还是粤语",
+        "onboard_time": 1723266442,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 248678,
+        "num": 233219,
+        "word": "樊振东腿部比赛视角",
+        "onboard_time": 1723267581,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232345,
+        "num": 232345,
+        "word": "第一次觉得孙俪的表演痕迹重",
+        "onboard_time": 1723220603,
+        "rank": 31,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 230965,
+        "num": 230965,
+        "word": "鞍山小马当打之年",
+        "onboard_time": 1723216469,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219425,
+        "num": 219425,
+        "word": "俄战机向乌军阵地投下3吨级炸弹",
+        "onboard_time": 1723262423,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 218343,
+        "num": 218343,
+        "word": "七夕",
+        "onboard_time": 1723219949,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 48818,
+        "num": 214283,
+        "word": "俄称乌军在库尔斯克行动由北约领导",
+        "onboard_time": 1723266021,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 213390,
+        "num": 213390,
+        "word": "心动的信号七夕团建",
+        "onboard_time": 1723266922,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206876,
+        "num": 206876,
+        "word": "李一桐拍醉酒戏时蜈蚣爬腿上",
+        "onboard_time": 1723265182,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53937,
+        "num": 206539,
+        "word": "闪现吴山居",
+        "onboard_time": 1723267641,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 206516,
+        "num": 206516,
+        "word": "王昶观赛被认出",
+        "onboard_time": 1723267281,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205964,
+        "num": 205964,
+        "word": "马龙和王楚钦看樊振东追星的样子",
+        "onboard_time": 1723232231,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201779,
+        "num": 201779,
+        "word": "我在马龙很想你",
+        "onboard_time": 1723266922,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198920,
+        "num": 198920,
+        "word": "藤萝为枝败诉",
+        "onboard_time": 1723262662,
+        "rank": 42,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 192178,
+        "num": 192178,
+        "word": "九部的检察官定档",
+        "onboard_time": 1723267821,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190955,
+        "num": 190955,
+        "word": "这鸡蛋灌饼难怪樊振东爱吃",
+        "onboard_time": 1723267883,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190470,
+        "num": 190470,
+        "word": "马龙说巴黎是职业生涯最后一站",
+        "onboard_time": 1723248201,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187855,
+        "num": 187855,
+        "word": "莫雷加德伸出摔拍的手又撤了回来",
+        "onboard_time": 1723263088,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179129,
+        "num": 179129,
+        "word": "虞书欣林一新剧一个敢坐一个敢滑",
+        "onboard_time": 1723266203,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169714,
+        "num": 169714,
+        "word": "马龙说决赛有两位大腿在很踏实",
+        "onboard_time": 1723266501,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158603,
+        "num": 158603,
+        "word": "七夕怎么过",
+        "onboard_time": 1723268062,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}
