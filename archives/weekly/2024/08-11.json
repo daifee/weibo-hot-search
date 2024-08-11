@@ -1,6 +1,6 @@
 {
   "startTime": 1723307155481,
-  "endTime": 1723404865709,
+  "endTime": 1723407625828,
   "band_list": [
     {
       "raw_hot": 25984443,
@@ -939,6 +939,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 746925,
+      "num": 746925,
+      "word": "看到孙颖莎了",
+      "onboard_time": 1723405813,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 746485,
       "num": 746485,
       "word": "孙颖莎谈假期安排",
@@ -1339,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 488350,
+      "num": 488350,
+      "word": "巴黎奥运闭幕式 无聊",
+      "onboard_time": 1723404312,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 482800,
       "num": 1088577,
       "word": "官方回应导游嘲讽游客穷就别出来",
@@ -1667,6 +1683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 377646,
+      "num": 377646,
+      "word": "闭幕式解说",
+      "onboard_time": 1723405092,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 377205,
       "num": 514043,
       "word": "李雯雯 夺金点",
@@ -1779,6 +1803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 346460,
+      "num": 346460,
+      "word": "中国国旗特写",
+      "onboard_time": 1723404672,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 345645,
       "num": 1005390,
       "word": "李丽被查",
@@ -1888,6 +1920,14 @@
       "word": "中国队冲击四十金",
       "onboard_time": 1723343842,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 321848,
+      "num": 321848,
+      "word": "中国队旗手入场",
+      "onboard_time": 1723405092,
+      "rank": 11,
       "category": "体育"
     },
     {
@@ -3187,6 +3227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177243,
+      "num": 121213,
+      "word": "奥运闭幕 怅然若失",
+      "onboard_time": 1723404792,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175054,
       "num": 194533,
       "word": "魏哲鸣看张杰演唱会",
@@ -3235,6 +3283,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 167829,
+      "num": 119257,
+      "word": "闭幕式 中国快递小哥镜头",
+      "onboard_time": 1723405872,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167052,
       "num": 165620,
       "word": "石智勇说感受到了网友的疼爱",
@@ -3281,6 +3337,14 @@
       "onboard_time": 1723359442,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 160764,
+      "num": 117861,
+      "word": "闭幕式开场",
+      "onboard_time": 1723405512,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 160288,
@@ -3475,6 +3539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116699,
+      "num": 116699,
+      "word": "闭幕式舞台是世界地图",
+      "onboard_time": 1723405992,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115379,
       "num": 288424,
       "word": "刘诗诗把笛子耍出长剑感",
@@ -3488,6 +3560,14 @@
       "word": "奥运男篮决赛",
       "onboard_time": 1723319713,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 113716,
+      "num": 113716,
+      "word": "央视解说cue张博恒",
+      "onboard_time": 1723406712,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -3539,12 +3619,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103488,
+      "num": 103488,
+      "word": "马尔尚熄灭奥运圣火",
+      "onboard_time": 1723404013,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102787,
       "num": 213575,
       "word": "涂筱柠 普通人的无力感",
       "onboard_time": 1723357221,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99682,
+      "num": 99682,
+      "word": "全场合唱香榭丽舍大道",
+      "onboard_time": 1723406592,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 99183,
@@ -3555,11 +3651,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 98033,
-      "num": 98033,
-      "word": "巴黎奥运闭幕式 无聊",
-      "onboard_time": 1723404312,
-      "rank": 20,
+      "raw_hot": 98136,
+      "num": 98136,
+      "word": "马尔尚 偷感",
+      "onboard_time": 1723405452,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -3571,14 +3667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 94870,
-      "num": 94870,
-      "word": "马尔尚熄灭奥运圣火",
-      "onboard_time": 1723404013,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 94759,
       "num": 1506145,
       "word": "东京超市限购瓶装水",
@@ -3587,12 +3675,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 92731,
+      "num": 92731,
+      "word": "我们是冠军",
+      "onboard_time": 1723406712,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88874,
       "num": 428533,
       "word": "魏哲鸣看吻戏有种公开处刑的感觉",
       "onboard_time": 1723348522,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88604,
+      "num": 88604,
+      "word": "闭幕式BGM",
+      "onboard_time": 1723406472,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 88413,
@@ -3619,6 +3723,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79907,
+      "num": 121611,
+      "word": "闭幕式好正常",
+      "onboard_time": 1723407312,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 79550,
+      "num": 79550,
+      "word": "女子马拉松在闭幕式上颁奖",
+      "onboard_time": 1723407432,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79387,
       "num": 171605,
       "word": "你的外卖员正在发疯",
@@ -3631,14 +3751,6 @@
       "num": 77595,
       "word": "孙颖莎说奥运之旅是财富",
       "onboard_time": 1723402753,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 75516,
-      "num": 75516,
-      "word": "奥运闭幕 怅然若失",
-      "onboard_time": 1723404792,
       "rank": 24,
       "category": "体育"
     },
@@ -3675,6 +3787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72220,
+      "num": 72220,
+      "word": "运动员的卡拉OK",
+      "onboard_time": 1723407132,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70411,
       "num": 328768,
       "word": "日本民众担忧发生特大地震抢购物资",
@@ -3699,14 +3819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65413,
-      "num": 65413,
-      "word": "中国国旗特写",
-      "onboard_time": 1723404672,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 64632,
       "num": 285677,
       "word": "国货的风到底吹到了欧洲",
@@ -3716,11 +3828,19 @@
     },
     {
       "raw_hot": 63193,
-      "num": 100883,
+      "num": 113332,
       "word": "2024华晨宇火星演唱会",
       "onboard_time": 1723400293,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 62956,
+      "num": 62956,
+      "word": "中国代表团闭幕式登场",
+      "onboard_time": 1723406413,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 62467,
@@ -3924,7 +4044,7 @@
     },
     {
       "raw_hot": 33946,
-      "num": 43884,
+      "num": 122189,
       "word": "任运杰好帅",
       "onboard_time": 1723401853,
       "rank": 48,
@@ -3972,7 +4092,7 @@
     },
     {
       "raw_hot": 15241,
-      "num": 127228,
+      "num": 347068,
       "word": "陕西北洛河发生1994年以来最大洪水",
       "onboard_time": 1723402812,
       "rank": 9,
