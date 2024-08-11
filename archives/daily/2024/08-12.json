@@ -1,6 +1,6 @@
 {
   "startTime": 1723393401015,
-  "endTime": 1723407625828,
+  "endTime": 1723408566266,
   "band_list": [
     {
       "raw_hot": 15817207,
@@ -211,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 443584,
+      "num": 443584,
+      "word": "闭幕式解说",
+      "onboard_time": 1723405092,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 429522,
       "num": 266841,
       "word": "国乒女团金牌",
@@ -283,11 +291,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 377646,
-      "num": 377646,
-      "word": "闭幕式解说",
+      "raw_hot": 370904,
+      "num": 370904,
+      "word": "闭幕式 中国快递小哥镜头",
+      "onboard_time": 1723405872,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 364222,
+      "num": 364222,
+      "word": "中国队旗手入场",
       "onboard_time": 1723405092,
-      "rank": 6,
+      "rank": 11,
       "category": "体育"
     },
     {
@@ -347,14 +363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 321848,
-      "num": 321848,
-      "word": "中国队旗手入场",
-      "onboard_time": 1723405092,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 313615,
       "num": 207490,
       "word": "石智勇 是金牌数量最多的运动员了",
@@ -403,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234963,
+      "num": 117881,
+      "word": "闭幕式开场",
+      "onboard_time": 1723405512,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220936,
       "num": 174782,
       "word": "以后提起巴黎奥运会就会浮现的画面",
@@ -419,12 +435,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 210780,
+      "num": 117875,
+      "word": "外星人寻找奥林匹克",
+      "onboard_time": 1723407852,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209233,
       "num": 501338,
       "word": "华晨宇 我没事放心吧",
       "onboard_time": 1723393821,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 207415,
+      "num": 117846,
+      "word": "闭幕式太抽象了",
+      "onboard_time": 1723408212,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 201886,
@@ -440,6 +472,14 @@
       "word": "中国健儿运动成绩和精神文明双丰收",
       "onboard_time": 1723393101,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 198395,
+      "num": 121213,
+      "word": "奥运闭幕 怅然若失",
+      "onboard_time": 1723404792,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -507,11 +547,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177243,
-      "num": 121213,
-      "word": "奥运闭幕 怅然若失",
-      "onboard_time": 1723404792,
-      "rank": 24,
+      "raw_hot": 177526,
+      "num": 117809,
+      "word": "央视解说cue张博恒",
+      "onboard_time": 1723406712,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -547,11 +587,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 167829,
-      "num": 119257,
-      "word": "闭幕式 中国快递小哥镜头",
-      "onboard_time": 1723405872,
-      "rank": 23,
+      "raw_hot": 167269,
+      "num": 117798,
+      "word": "女子马拉松在闭幕式上颁奖",
+      "onboard_time": 1723407432,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -563,14 +603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 160764,
-      "num": 117861,
-      "word": "闭幕式开场",
-      "onboard_time": 1723405512,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 160288,
       "num": 238707,
       "word": "刘端端被起哄登基庆余年DNA动了",
@@ -579,11 +611,35 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 141781,
+      "num": 117711,
+      "word": "金色旅行者 金色大蟑螂",
+      "onboard_time": 1723408152,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 141059,
+      "num": 117690,
+      "word": "我们是冠军",
+      "onboard_time": 1723406712,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137848,
       "num": 120553,
       "word": "我为中国队骄傲",
       "onboard_time": 1723395738,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 121239,
+      "num": 117680,
+      "word": "闭幕式舞台是世界地图",
+      "onboard_time": 1723405992,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -603,24 +659,32 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116699,
-      "num": 116699,
-      "word": "闭幕式舞台是世界地图",
-      "onboard_time": 1723405992,
-      "rank": 26,
+      "raw_hot": 117616,
+      "num": 117616,
+      "word": "全场合唱香榭丽舍大道",
+      "onboard_time": 1723406592,
+      "rank": 32,
       "category": "体育"
     },
     {
-      "raw_hot": 113716,
-      "num": 113716,
-      "word": "央视解说cue张博恒",
-      "onboard_time": 1723406712,
-      "rank": 27,
+      "raw_hot": 115686,
+      "num": 115686,
+      "word": "闭幕式BGM",
+      "onboard_time": 1723406472,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 106896,
+      "num": 106896,
+      "word": "闭幕式 齐天大圣从天而降",
+      "onboard_time": 1723408391,
+      "rank": 39,
       "category": "体育"
     },
     {
       "raw_hot": 105120,
-      "num": 261682,
+      "num": 370934,
       "word": "商家请太原老葛直播带货损失超千万",
       "onboard_time": 1723400953,
       "rank": 9,
@@ -635,14 +699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99682,
-      "num": 99682,
-      "word": "全场合唱香榭丽舍大道",
-      "onboard_time": 1723406592,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 98136,
       "num": 98136,
       "word": "马尔尚 偷感",
@@ -651,35 +707,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 92731,
-      "num": 92731,
-      "word": "我们是冠军",
-      "onboard_time": 1723406712,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 88604,
-      "num": 88604,
-      "word": "闭幕式BGM",
-      "onboard_time": 1723406472,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 79907,
       "num": 121611,
       "word": "闭幕式好正常",
       "onboard_time": 1723407312,
       "rank": 20,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 79550,
-      "num": 79550,
-      "word": "女子马拉松在闭幕式上颁奖",
-      "onboard_time": 1723407432,
-      "rank": 39,
       "category": "体育"
     },
     {
@@ -723,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70906,
+      "num": 98139,
+      "word": "奥运会戒断反应",
+      "onboard_time": 1723408511,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70411,
       "num": 328768,
       "word": "日本民众担忧发生特大地震抢购物资",
@@ -731,20 +771,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 63193,
-      "num": 113332,
-      "word": "2024华晨宇火星演唱会",
-      "onboard_time": 1723400293,
-      "rank": 29,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 62956,
-      "num": 62956,
+      "raw_hot": 68419,
+      "num": 68419,
       "word": "中国代表团闭幕式登场",
       "onboard_time": 1723406413,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63193,
+      "num": 117735,
+      "word": "2024华晨宇火星演唱会",
+      "onboard_time": 1723400293,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 59053,
