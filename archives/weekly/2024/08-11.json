@@ -1,6 +1,6 @@
 {
   "startTime": 1723307155481,
-  "endTime": 1723364587758,
+  "endTime": 1723365403239,
   "band_list": [
     {
       "raw_hot": 6347529,
@@ -171,6 +171,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 1552045,
+      "num": 672074,
+      "word": "王楚钦余霜互关",
+      "onboard_time": 1723363882,
+      "rank": 17,
+      "category": "体育,电竞"
+    },
+    {
       "raw_hot": 1545383,
       "num": 1469881,
       "word": "全红婵家门口变成小吃一条街了",
@@ -275,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1185115,
+      "num": 1185115,
+      "word": "才知道这个小女孩是陈芋汐",
+      "onboard_time": 1723362079,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1145070,
       "num": 1145070,
       "word": "国乒巴黎奥运会大合照",
@@ -320,6 +336,14 @@
       "word": "王曼昱太强了",
       "onboard_time": 1723298615,
       "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1059436,
+      "num": 1059436,
+      "word": "韩国将申办2036年夏季奥运会",
+      "onboard_time": 1723363821,
+      "rank": 20,
       "category": "体育"
     },
     {
@@ -400,14 +424,6 @@
       "word": "孙颖莎vs平野美宇",
       "onboard_time": 1723295303,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 888494,
-      "num": 888494,
-      "word": "才知道这个小女孩是陈芋汐",
-      "onboard_time": 1723362079,
-      "rank": 5,
       "category": "体育"
     },
     {
@@ -548,7 +564,7 @@
     },
     {
       "raw_hot": 636144,
-      "num": 636144,
+      "num": 1052753,
       "word": "王晶说周星驰钱重要过朋友",
       "onboard_time": 1723361060,
       "rank": 28,
@@ -568,6 +584,14 @@
       "word": "中国女人就是牛",
       "onboard_time": 1723301314,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 592381,
+      "num": 592381,
+      "word": "美国女子自由操铜牌可能无效",
+      "onboard_time": 1723363401,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -611,12 +635,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 516381,
-      "num": 516381,
-      "word": "王楚钦余霜互关",
-      "onboard_time": 1723363882,
-      "rank": 17,
-      "category": "体育,电竞"
+      "raw_hot": 528644,
+      "num": 528644,
+      "word": "孙颖莎谈假期安排",
+      "onboard_time": 1723363642,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 510404,
@@ -648,6 +672,14 @@
       "word": "美国男篮全队晚安",
       "onboard_time": 1723325953,
       "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 491796,
+      "num": 967086,
+      "word": "田径女子马拉松决赛",
+      "onboard_time": 1723353262,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -763,22 +795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 406579,
-      "num": 406579,
-      "word": "韩国将申办2036年夏季奥运会",
-      "onboard_time": 1723363821,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 398509,
-      "num": 967086,
-      "word": "田径女子马拉松决赛",
-      "onboard_time": 1723353262,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 398395,
       "num": 398395,
       "word": "国乒女团夺冠后采访",
@@ -883,6 +899,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 342335,
+      "num": 723218,
+      "word": "秋瓷炫怕胖吐司只吃一口",
+      "onboard_time": 1723362742,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 339699,
       "num": 705130,
       "word": "美国男篮奥运冠军",
@@ -947,14 +971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 324884,
-      "num": 324884,
-      "word": "美国女子自由操铜牌可能无效",
-      "onboard_time": 1723363401,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 324449,
       "num": 324449,
       "word": "马龙说希望下届奥运会樊振东依然在",
@@ -968,6 +984,14 @@
       "word": "中国队冲击四十金",
       "onboard_time": 1723343842,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 321949,
+      "num": 321949,
+      "word": "陈梦祝愿两位小妹妹实现梦想",
+      "onboard_time": 1723363761,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -1091,14 +1115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 291177,
-      "num": 554186,
-      "word": "秋瓷炫怕胖吐司只吃一口",
-      "onboard_time": 1723362742,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 290046,
       "num": 290046,
       "word": "男篮裁判",
@@ -1129,6 +1145,14 @@
       "onboard_time": 1723347202,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 281846,
+      "num": 711388,
+      "word": "应采儿泳装",
+      "onboard_time": 1723362742,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 279844,
@@ -1195,16 +1219,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 265243,
-      "num": 420576,
-      "word": "应采儿泳装",
-      "onboard_time": 1723362742,
-      "rank": 19,
+      "raw_hot": 263830,
+      "num": 366502,
+      "word": "韩瑜七夕与肖战地广合照",
+      "onboard_time": 1723365324,
+      "rank": 27,
       "category": "艺人"
     },
     {
       "raw_hot": 259406,
-      "num": 294151,
+      "num": 352388,
       "word": "张凌赫工作室维权",
       "onboard_time": 1723361241,
       "rank": 34,
@@ -1299,14 +1323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 243558,
-      "num": 243558,
-      "word": "孙颖莎谈假期安排",
-      "onboard_time": 1723363642,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 241984,
       "num": 903932,
       "word": "李栋旭抽烟照",
@@ -1315,8 +1331,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 233607,
-      "num": 233607,
+      "raw_hot": 237824,
+      "num": 237824,
       "word": "林高远 大家抗住了重重压力",
       "onboard_time": 1723363821,
       "rank": 38,
@@ -1595,12 +1611,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197369,
-      "num": 197369,
-      "word": "陈梦祝愿两位小妹妹实现梦想",
-      "onboard_time": 1723363761,
-      "rank": 45,
-      "category": "体育"
+      "raw_hot": 196874,
+      "num": 196874,
+      "word": "成都GG对战DOU5",
+      "onboard_time": 1723364302,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 195996,
@@ -1649,14 +1665,6 @@
       "onboard_time": 1723352840,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 190705,
-      "num": 190705,
-      "word": "成都GG对战DOU5",
-      "onboard_time": 1723364302,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 190210,
@@ -1843,6 +1851,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 157585,
+      "num": 157585,
+      "word": "花少还我侯明昊妈生白皮",
+      "onboard_time": 1723364660,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157315,
       "num": 157315,
       "word": "群演发文评价辛芷蕾",
@@ -1891,6 +1907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145366,
+      "num": 892366,
+      "word": "中国队还有哪些冲金点",
+      "onboard_time": 1723364660,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141509,
       "num": 141509,
       "word": "山东人个子高再次被实锤",
@@ -1929,6 +1953,14 @@
       "onboard_time": 1723293141,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 130716,
+      "num": 684721,
+      "word": "孙颖莎说与邱贻可一起奋斗很幸福",
+      "onboard_time": 1723364541,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 122214,
@@ -2027,6 +2059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85746,
+      "num": 900425,
+      "word": "举重选手李雯雯力争卫冕",
+      "onboard_time": 1723365263,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82391,
       "num": 1632628,
       "word": "电视指南回来啦",
@@ -2059,6 +2099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64632,
+      "num": 285677,
+      "word": "国货的风到底吹到了欧洲",
+      "onboard_time": 1723362021,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62435,
       "num": 272173,
       "word": "闭幕式旗手为何选择女子曲棍队长",
@@ -2072,14 +2120,6 @@
       "word": "致敬纯粹的热爱与专注",
       "onboard_time": 1723360042,
       "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 55076,
-      "num": 528847,
-      "word": "孙颖莎说与邱贻可一起奋斗很幸福",
-      "onboard_time": 1723364541,
-      "rank": 14,
       "category": "体育"
     },
     {
@@ -2099,12 +2139,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 51962,
-      "num": 251413,
-      "word": "国货的风到底吹到了欧洲",
-      "onboard_time": 1723362021,
-      "rank": 32,
-      "category": "体育"
+      "raw_hot": 51401,
+      "num": 607741,
+      "word": "玛雅方特等多家水乐园被曝水质脏差",
+      "onboard_time": 1723363582,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48171,
@@ -2121,6 +2161,14 @@
       "onboard_time": 1723314675,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 43170,
+      "num": 1559359,
+      "word": "300金长卷铺就体育强国路",
+      "onboard_time": 1723362622,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42619,
@@ -2179,14 +2227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 37113,
-      "num": 1559359,
-      "word": "300金长卷铺就体育强国路",
-      "onboard_time": 1723362622,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 34788,
       "num": 110386,
       "word": "AG十二冠王",
@@ -2203,12 +2243,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 33041,
-      "num": 564791,
-      "word": "玛雅方特等多家水乐园被曝水质脏差",
-      "onboard_time": 1723363582,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 31542,
+      "num": 531612,
+      "word": "成毅是什么行走的面膜模特吗",
+      "onboard_time": 1723362860,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 30830,
+      "num": 702835,
+      "word": "现代五项女子个人决赛",
+      "onboard_time": 1723364660,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 27608,
@@ -2217,14 +2265,6 @@
       "onboard_time": 1723315514,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 27364,
-      "num": 399818,
-      "word": "成毅是什么行走的面膜模特吗",
-      "onboard_time": 1723362860,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 26960,
@@ -2241,6 +2281,14 @@
       "onboard_time": 1723339882,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 15037,
+      "num": 737585,
+      "word": "33所学校营养餐均为同一供应商",
+      "onboard_time": 1723365324,
+      "rank": 9,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -2258,6 +2306,9 @@
     },
     {
       "word": "#党的二十届三中全会学习笔记#"
+    },
+    {
+      "word": "#习近平总书记高度重视统一战线工作#"
     }
   ]
 }
