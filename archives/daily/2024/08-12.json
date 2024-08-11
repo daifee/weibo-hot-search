@@ -1,6 +1,6 @@
 {
   "startTime": 1723393401015,
-  "endTime": 1723403811828,
+  "endTime": 1723404865709,
   "band_list": [
     {
       "raw_hot": 15817207,
@@ -35,6 +35,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1359501,
+      "num": 1359501,
+      "word": "巴黎奥运会闭幕式",
+      "onboard_time": 1723385368,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1258949,
       "num": 1258949,
       "word": "王楚钦飞机上签名球拍",
@@ -56,14 +64,6 @@
       "word": "中国奖牌榜第1美网友破防",
       "onboard_time": 1723375104,
       "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1015693,
-      "num": 1015693,
-      "word": "巴黎奥运会闭幕式",
-      "onboard_time": 1723385368,
-      "rank": 36,
       "category": "体育"
     },
     {
@@ -251,6 +251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 384411,
+      "num": 152295,
+      "word": "中国代表团已抵达法兰西体育场",
+      "onboard_time": 1723401973,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 381732,
       "num": 693029,
       "word": "在披哥看李佳琦直播",
@@ -264,14 +272,6 @@
       "word": "乒乓女团奥运5连冠",
       "onboard_time": 1723303962,
       "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 354982,
-      "num": 120480,
-      "word": "中国代表团已抵达法兰西体育场",
-      "onboard_time": 1723401973,
-      "rank": 10,
       "category": "体育"
     },
     {
@@ -547,6 +547,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98033,
+      "num": 98033,
+      "word": "巴黎奥运闭幕式 无聊",
+      "onboard_time": 1723404312,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 94870,
+      "num": 94870,
+      "word": "马尔尚熄灭奥运圣火",
+      "onboard_time": 1723404013,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79484,
       "num": 64290,
       "word": "樊振东说巴黎奥运有很多酸甜苦辣",
@@ -559,6 +575,14 @@
       "num": 77595,
       "word": "孙颖莎说奥运之旅是财富",
       "onboard_time": 1723402753,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 75516,
+      "num": 75516,
+      "word": "奥运闭幕 怅然若失",
+      "onboard_time": 1723404792,
       "rank": 24,
       "category": "体育"
     },
@@ -587,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65413,
+      "num": 65413,
+      "word": "中国国旗特写",
+      "onboard_time": 1723404672,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63193,
       "num": 100883,
       "word": "2024华晨宇火星演唱会",
@@ -603,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48951,
+      "num": 48951,
+      "word": "李发彬欧紫霞担任闭幕式中国旗手",
+      "onboard_time": 1723354581,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45660,
       "num": 57993,
       "word": "华晨宇说日出演唱会是一生回忆",
@@ -611,8 +651,16 @@
       "category": "演出"
     },
     {
-      "raw_hot": 31720,
-      "num": 43298,
+      "raw_hot": 44265,
+      "num": 44265,
+      "word": "奖牌榜",
+      "onboard_time": 1723392505,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 33946,
+      "num": 43884,
       "word": "任运杰好帅",
       "onboard_time": 1723401853,
       "rank": 48,
@@ -627,7 +675,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12175,
+      "raw_hot": 15241,
       "num": 127228,
       "word": "陕西北洛河发生1994年以来最大洪水",
       "onboard_time": 1723402812,

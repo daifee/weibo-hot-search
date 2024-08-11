@@ -1,6 +1,6 @@
 {
   "startTime": 1723307155481,
-  "endTime": 1723403811828,
+  "endTime": 1723404865709,
   "band_list": [
     {
       "raw_hot": 25984443,
@@ -499,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1359501,
+      "num": 1359501,
+      "word": "巴黎奥运会闭幕式",
+      "onboard_time": 1723385368,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1317063,
       "num": 1317063,
       "word": "女篮金牌赛",
@@ -664,14 +672,6 @@
       "word": "张怡宁说全部人都觉得樊振东打得好",
       "onboard_time": 1723293741,
       "rank": 16,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1015693,
-      "num": 1015693,
-      "word": "巴黎奥运会闭幕式",
-      "onboard_time": 1723385368,
-      "rank": 35,
       "category": "体育"
     },
     {
@@ -1619,6 +1619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 384411,
+      "num": 152295,
+      "word": "中国代表团已抵达法兰西体育场",
+      "onboard_time": 1723401973,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 381732,
       "num": 693029,
       "word": "在披哥看李佳琦直播",
@@ -1720,14 +1728,6 @@
       "word": "孙颖莎提议给刘国梁戴金牌",
       "onboard_time": 1723335500,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 354982,
-      "num": 120480,
-      "word": "中国代表团已抵达法兰西体育场",
-      "onboard_time": 1723401973,
-      "rank": 10,
       "category": "体育"
     },
     {
@@ -3555,12 +3555,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98033,
+      "num": 98033,
+      "word": "巴黎奥运闭幕式 无聊",
+      "onboard_time": 1723404312,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96725,
       "num": 662335,
       "word": "1.3亿厂房被1元钱拍卖1.8万成交",
       "onboard_time": 1723346421,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94870,
+      "num": 94870,
+      "word": "马尔尚熄灭奥运圣火",
+      "onboard_time": 1723404013,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 94759,
@@ -3619,6 +3635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75516,
+      "num": 75516,
+      "word": "奥运闭幕 怅然若失",
+      "onboard_time": 1723404792,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75029,
       "num": 97158,
       "word": "周深首次体育场两日连开",
@@ -3672,6 +3696,14 @@
       "word": "在巴黎见证中国力量",
       "onboard_time": 1723384766,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 65413,
+      "num": 65413,
+      "word": "中国国旗特写",
+      "onboard_time": 1723404672,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -3803,6 +3835,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 44265,
+      "num": 44265,
+      "word": "奖牌榜",
+      "onboard_time": 1723392505,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42872,
       "num": 418586,
       "word": "李雯雯太可爱了",
@@ -3883,20 +3923,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 33946,
+      "num": 43884,
+      "word": "任运杰好帅",
+      "onboard_time": 1723401853,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33225,
       "num": 166395,
       "word": "华晨宇合肥七夕演唱会",
       "onboard_time": 1723325052,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 31720,
-      "num": 43298,
-      "word": "任运杰好帅",
-      "onboard_time": 1723401853,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 27608,
@@ -3931,18 +3971,18 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 15037,
-      "num": 737585,
-      "word": "33所学校营养餐均为同一供应商",
-      "onboard_time": 1723365324,
+      "raw_hot": 15241,
+      "num": 127228,
+      "word": "陕西北洛河发生1994年以来最大洪水",
+      "onboard_time": 1723402812,
       "rank": 9,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12175,
-      "num": 127228,
-      "word": "陕西北洛河发生1994年以来最大洪水",
-      "onboard_time": 1723402812,
+      "raw_hot": 15037,
+      "num": 737585,
+      "word": "33所学校营养餐均为同一供应商",
+      "onboard_time": 1723365324,
       "rank": 9,
       "category": "社会新闻"
     }
