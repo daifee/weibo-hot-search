@@ -1,6 +1,6 @@
 {
   "startTime": 1723393401015,
-  "endTime": 1723396655470,
+  "endTime": 1723397695385,
   "band_list": [
     {
       "raw_hot": 15817207,
@@ -59,6 +59,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 981638,
+      "num": 458675,
+      "word": "孙颖莎巴黎街头吃冰淇淋",
+      "onboard_time": 1723394299,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 916556,
       "num": 916556,
       "word": "瑞幸向易烊千玺道歉",
@@ -72,14 +80,6 @@
       "word": "法国要是赢了",
       "onboard_time": 1723389573,
       "rank": 5,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 878032,
-      "num": 228562,
-      "word": "孙颖莎巴黎街头吃冰淇淋",
-      "onboard_time": 1723394299,
-      "rank": 45,
       "category": "体育"
     },
     {
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 518802,
-      "num": 264877,
+      "num": 395857,
       "word": "马龙说可以去洛杉矶做饭",
       "onboard_time": 1723390885,
       "rank": 24,
@@ -267,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 332424,
+      "num": 332424,
+      "word": "国羽除了梁伟铿都在看演唱会",
+      "onboard_time": 1723396337,
+      "rank": 26,
+      "category": "体育,演出"
+    },
+    {
       "raw_hot": 323237,
       "num": 323237,
       "word": "疑似李闽轩小号",
@@ -331,16 +339,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 210668,
-      "num": 136457,
-      "word": "国羽除了梁伟铿都在看演唱会",
-      "onboard_time": 1723396337,
-      "rank": 26,
-      "category": "体育,演出"
-    },
-    {
       "raw_hot": 209233,
-      "num": 209233,
+      "num": 501338,
       "word": "华晨宇 我没事放心吧",
       "onboard_time": 1723393821,
       "rank": 29,
@@ -384,6 +384,14 @@
       "word": "法国女篮差点完成任务",
       "onboard_time": 1723392861,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 194539,
+      "num": 194539,
+      "word": "中国代表团1破世界纪录",
+      "onboard_time": 1723395139,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -459,12 +467,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146997,
-      "num": 121926,
-      "word": "中国代表团1破世界纪录",
-      "onboard_time": 1723395139,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 160288,
+      "num": 197523,
+      "word": "刘端端被起哄登基庆余年DNA动了",
+      "onboard_time": 1723396216,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 137848,
@@ -475,12 +483,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124910,
-      "num": 124910,
-      "word": "刘端端被起哄登基庆余年DNA动了",
-      "onboard_time": 1723396216,
-      "rank": 33,
-      "category": "作品衍生"
+      "raw_hot": 134626,
+      "num": 103061,
+      "word": "潘展乐笑对澳大利亚教练质疑",
+      "onboard_time": 1723397475,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 118303,
@@ -488,6 +496,14 @@
       "word": "巴黎奥运会张雨霏奖牌数最多",
       "onboard_time": 1723396216,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 117941,
+      "num": 102489,
+      "word": "以后提起巴黎奥运会就会浮现的画面",
+      "onboard_time": 1723396695,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -499,15 +515,23 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75029,
+      "num": 97158,
+      "word": "周深首次体育场两日连开",
+      "onboard_time": 1723396995,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 71741,
-      "num": 221654,
+      "num": 335140,
       "word": "日本多地已设近百避难所",
       "onboard_time": 1723375164,
       "rank": 20,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16619,
+      "raw_hot": 17412,
       "num": 1861007,
       "word": "加快经济社会发展全面绿色转型",
       "onboard_time": 1723381347,
