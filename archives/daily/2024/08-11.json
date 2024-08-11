@@ -1,6 +1,6 @@
 {
   "startTime": 1723307155481,
-  "endTime": 1723383306534,
+  "endTime": 1723385968114,
   "band_list": [
     {
       "raw_hot": 10974299,
@@ -16,6 +16,14 @@
       "word": "李雯雯金牌",
       "onboard_time": 1723376495,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 8388216,
+      "num": 8388216,
+      "word": "美国女篮vs法国女篮",
+      "onboard_time": 1723380566,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -48,14 +56,6 @@
       "word": "樊振东说未来不一定是乒乓球了",
       "onboard_time": 1723290623,
       "rank": 3,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 4663132,
-      "num": 4663132,
-      "word": "美国女篮vs法国女篮",
-      "onboard_time": 1723380566,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -299,6 +299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1711779,
+      "num": 1711779,
+      "word": "举重队金牌都挂在了石智勇身上",
+      "onboard_time": 1723383147,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1681323,
       "num": 1681323,
       "word": "孙颖莎 没人给咱照咱自己照",
@@ -427,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1317063,
+      "num": 1317063,
+      "word": "女篮金牌赛",
+      "onboard_time": 1723381048,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1305404,
       "num": 1305404,
       "word": "武汉一女子频繁美甲感染HPV",
@@ -488,6 +504,22 @@
       "word": "才知道这个小女孩是陈芋汐",
       "onboard_time": 1723362079,
       "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1184022,
+      "num": 1501804,
+      "word": "黄子韬许愿和徐艺洋一生一世",
+      "onboard_time": 1723383626,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1156417,
+      "num": 1415403,
+      "word": "今晚都是法国女篮球迷",
+      "onboard_time": 1723384045,
+      "rank": 7,
       "category": "体育"
     },
     {
@@ -595,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 956796,
+      "num": 956796,
+      "word": "瑞幸致歉信",
+      "onboard_time": 1723383147,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 952544,
       "num": 952544,
       "word": "孙颖莎聊和王楚钦的混双金牌",
@@ -651,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 902118,
+      "num": 1436471,
+      "word": "张杰官宣世界巡演",
+      "onboard_time": 1723384225,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 894358,
       "num": 894358,
       "word": "孙颖莎vs平野美宇",
@@ -691,11 +739,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 840149,
-      "num": 840149,
-      "word": "女篮金牌赛",
-      "onboard_time": 1723381048,
-      "rank": 21,
+      "raw_hot": 834183,
+      "num": 834183,
+      "word": "中国40金27银24铜收官",
+      "onboard_time": 1723381167,
+      "rank": 22,
       "category": "体育"
     },
     {
@@ -704,6 +752,14 @@
       "word": "王楚钦晒国乒合照告别奥运",
       "onboard_time": 1723314315,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 804296,
+      "num": 804296,
+      "word": "马龙说退役不会搞仪式",
+      "onboard_time": 1723380266,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -875,19 +931,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 646707,
+      "num": 1813122,
+      "word": "美国仅剩最后一个夺金点",
+      "onboard_time": 1723383027,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 646062,
       "num": 646062,
       "word": "乒乓女团颁奖",
       "onboard_time": 1723306584,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 643741,
-      "num": 643741,
-      "word": "马龙说退役不会搞仪式",
-      "onboard_time": 1723380266,
-      "rank": 41,
       "category": "体育"
     },
     {
@@ -955,6 +1011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 585641,
+      "num": 585641,
+      "word": "李雯雯受伤",
+      "onboard_time": 1723383445,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 577099,
       "num": 577099,
       "word": "巴黎是樊振东的减肥营",
@@ -988,7 +1052,7 @@
     },
     {
       "raw_hot": 532034,
-      "num": 532034,
+      "num": 1372099,
       "word": "日本多地已设近百避难所",
       "onboard_time": 1723375164,
       "rank": 34,
@@ -1009,6 +1073,14 @@
       "onboard_time": 1723370843,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 527878,
+      "num": 840178,
+      "word": "塞尔维亚爆发大规模抗议活动",
+      "onboard_time": 1723384225,
+      "rank": 21,
+      "category": "国外时政"
     },
     {
       "raw_hot": 520986,
@@ -1049,6 +1121,14 @@
       "onboard_time": 1723325953,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 494834,
+      "num": 883327,
+      "word": "疑似李闽轩小号",
+      "onboard_time": 1723385307,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 491796,
@@ -1251,14 +1331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 409171,
-      "num": 409171,
-      "word": "举重队金牌都挂在了石智勇身上",
-      "onboard_time": 1723383147,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 402501,
       "num": 252020,
       "word": "孙颖莎说希望洛杉矶再相见",
@@ -1395,6 +1467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 359327,
+      "num": 359327,
+      "word": "巴黎奥运会闭幕式",
+      "onboard_time": 1723385368,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 354301,
       "num": 354301,
       "word": "奥运会 戒断反应",
@@ -1444,7 +1524,7 @@
     },
     {
       "raw_hot": 343637,
-      "num": 343637,
+      "num": 925567,
       "word": "中国境外奥运最佳",
       "onboard_time": 1723382246,
       "rank": 43,
@@ -1601,6 +1681,22 @@
       "onboard_time": 1723342343,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 307505,
+      "num": 307505,
+      "word": "马龙回应四十岁正是闯的年纪",
+      "onboard_time": 1723385547,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 304122,
+      "num": 519457,
+      "word": "张杰鸟巢战明星嘉宾",
+      "onboard_time": 1723385187,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 298667,
@@ -1883,6 +1979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 257162,
+      "num": 257162,
+      "word": "马龙为了比赛一直忍着没换pin",
+      "onboard_time": 1723383926,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 256158,
       "num": 794734,
       "word": "出生12天女婴被月嫂挠伤脚底",
@@ -1929,6 +2033,14 @@
       "onboard_time": 1723352126,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 252854,
+      "num": 941560,
+      "word": "美国和中国还差1金",
+      "onboard_time": 1723384467,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 250068,
@@ -2019,14 +2131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 233221,
-      "num": 233221,
-      "word": "瑞幸致歉信",
-      "onboard_time": 1723383147,
-      "rank": 45,
-      "category": "美食"
-    },
-    {
       "raw_hot": 232824,
       "num": 232824,
       "word": "美国女足奥运金牌",
@@ -2115,6 +2219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 218528,
+      "num": 218528,
+      "word": "AG战胜TTG",
+      "onboard_time": 1723384707,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 218526,
       "num": 218526,
       "word": "当妈妈知道手办的价格后",
@@ -2129,6 +2241,14 @@
       "onboard_time": 1723308681,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215867,
+      "num": 258103,
+      "word": "周深演唱会",
+      "onboard_time": 1723384707,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 215799,
@@ -2241,14 +2361,6 @@
       "onboard_time": 1723349841,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 208084,
-      "num": 1813122,
-      "word": "美国仅剩最后一个夺金点",
-      "onboard_time": 1723383027,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 207393,
@@ -2595,6 +2707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179528,
+      "num": 2081537,
+      "word": "一只流浪猫与24万元赔偿",
+      "onboard_time": 1723378466,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179092,
       "num": 315243,
       "word": "第一次见法味这么浓的剧",
@@ -2745,14 +2865,6 @@
       "onboard_time": 1723349602,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 152957,
-      "num": 2081537,
-      "word": "一只流浪猫与24万元赔偿",
-      "onboard_time": 1723378466,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 150705,
@@ -3019,6 +3131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65970,
+      "num": 855284,
+      "word": "在巴黎见证中国力量",
+      "onboard_time": 1723384766,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64632,
       "num": 285677,
       "word": "国货的风到底吹到了欧洲",
@@ -3067,6 +3187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58464,
+      "num": 3991997,
+      "word": "神十八乘组亲测太空中生物节律变化",
+      "onboard_time": 1723381707,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54273,
       "num": 763644,
       "word": "原来北京中轴线不是正南正北",
@@ -3099,6 +3227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47551,
+      "num": 1339674,
+      "word": "法国女篮追平",
+      "onboard_time": 1723385789,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 46582,
       "num": 144180,
       "word": "华晨宇七夕七个惊喜",
@@ -3121,14 +3257,6 @@
       "onboard_time": 1723361001,
       "rank": 37,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 42265,
-      "num": 3991997,
-      "word": "神十八乘组亲测太空中生物节律变化",
-      "onboard_time": 1723381707,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41717,
