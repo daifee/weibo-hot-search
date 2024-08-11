@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1723385968114,
+  "endTime": 1723387028413,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -304,6 +304,14 @@
       "word": "王皓亲樊振东",
       "onboard_time": 1722779084,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 11931022,
+      "num": 11931022,
+      "word": "美国女篮vs法国女篮",
+      "onboard_time": 1723380566,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -649,14 +657,6 @@
       "onboard_time": 1722695224,
       "rank": 4,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 8388216,
-      "num": 8388216,
-      "word": "美国女篮vs法国女篮",
-      "onboard_time": 1723380566,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 8305198,
@@ -7875,6 +7875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1118256,
+      "num": 1118256,
+      "word": "孙杨 全运会",
+      "onboard_time": 1723386026,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1116405,
       "num": 668525,
       "word": "中国女排1比2土耳其女排",
@@ -8177,6 +8185,14 @@
       "onboard_time": 1722993143,
       "rank": 15,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 1060232,
+      "num": 1060232,
+      "word": "瑞幸致歉信",
+      "onboard_time": 1723383147,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 1058865,
@@ -8905,14 +8921,6 @@
       "onboard_time": 1723020923,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 956796,
-      "num": 956796,
-      "word": "瑞幸致歉信",
-      "onboard_time": 1723383147,
-      "rank": 45,
-      "category": "美食"
     },
     {
       "raw_hot": 956245,
@@ -9659,6 +9667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 867280,
+      "num": 867280,
+      "word": "中国40金27银24铜收官",
+      "onboard_time": 1723381167,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 866505,
       "num": 866505,
       "word": "常园拳击金牌",
@@ -9913,14 +9929,6 @@
       "onboard_time": 1722921626,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 834183,
-      "num": 834183,
-      "word": "中国40金27银24铜收官",
-      "onboard_time": 1723381167,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 831526,
@@ -12571,6 +12579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 592476,
+      "num": 592476,
+      "word": "李雯雯受伤",
+      "onboard_time": 1723383445,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 592023,
       "num": 592023,
       "word": "潘展乐吐槽奥运村伙食太差了",
@@ -12657,14 +12673,6 @@
       "onboard_time": 1723188203,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 585641,
-      "num": 585641,
-      "word": "李雯雯受伤",
-      "onboard_time": 1723383445,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 585598,
@@ -14084,7 +14092,7 @@
     },
     {
       "raw_hot": 494834,
-      "num": 883327,
+      "num": 929218,
       "word": "疑似李闽轩小号",
       "onboard_time": 1723385307,
       "rank": 17,
@@ -14425,6 +14433,14 @@
       "onboard_time": 1722603207,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 479264,
+      "num": 479264,
+      "word": "巴黎奥运会闭幕式",
+      "onboard_time": 1723385368,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 479230,
@@ -17155,6 +17171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 380253,
+      "num": 1339674,
+      "word": "法国女篮追平",
+      "onboard_time": 1723385789,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 380228,
       "num": 380228,
       "word": "孙佳俊临危受命",
@@ -17409,6 +17433,14 @@
       "onboard_time": 1723035564,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 374237,
+      "num": 374237,
+      "word": "60秒盘点巴黎奥运会燃金时刻",
+      "onboard_time": 1723386627,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 374087,
@@ -17872,14 +17904,6 @@
       "word": "昌雅妮 失误",
       "onboard_time": 1723209390,
       "rank": 13,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 359327,
-      "num": 359327,
-      "word": "巴黎奥运会闭幕式",
-      "onboard_time": 1723385368,
-      "rank": 35,
       "category": "体育"
     },
     {
@@ -18500,7 +18524,7 @@
     },
     {
       "raw_hot": 343637,
-      "num": 925567,
+      "num": 967882,
       "word": "中国境外奥运最佳",
       "onboard_time": 1723382246,
       "rank": 43,
@@ -20760,6 +20784,14 @@
       "word": "托拉马拉松金牌",
       "onboard_time": 1723281620,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 294841,
+      "num": 294841,
+      "word": "马龙为了比赛一直忍着没换pin",
+      "onboard_time": 1723383926,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -23035,14 +23067,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 257162,
-      "num": 257162,
-      "word": "马龙为了比赛一直忍着没换pin",
-      "onboard_time": 1723383926,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 257152,
       "num": 365195,
       "word": "柳智敏牛仔深V",
@@ -24475,6 +24499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231594,
+      "num": 479379,
+      "word": "时代少年团二开",
+      "onboard_time": 1723386687,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 231204,
       "num": 231204,
       "word": "查尔莫斯关注潘展乐",
@@ -25612,7 +25644,7 @@
     },
     {
       "raw_hot": 215867,
-      "num": 258103,
+      "num": 283538,
       "word": "周深演唱会",
       "onboard_time": 1723384707,
       "rank": 46,
@@ -27771,6 +27803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195971,
+      "num": 195971,
+      "word": "专家称新冠上升与暑期人口流动有关",
+      "onboard_time": 1723386207,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195940,
       "num": 380331,
       "word": "养殖虾都是吃抗生素和激素长大的吗",
@@ -28539,6 +28579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188352,
+      "num": 972191,
+      "word": "马克龙观战女篮决赛",
+      "onboard_time": 1723386388,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188333,
       "num": 274043,
       "word": "广东发生重大刑案嫌疑人被抓获",
@@ -29057,6 +29105,14 @@
       "onboard_time": 1722820883,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 181769,
+      "num": 195739,
+      "word": "李承铉曾觉得尚雯婕不好惹",
+      "onboard_time": 1723386508,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 181721,
@@ -31057,6 +31113,14 @@
       "onboard_time": 1722899839,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133333,
+      "num": 1005390,
+      "word": "李丽被查",
+      "onboard_time": 1723386687,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133215,
@@ -33260,7 +33324,7 @@
     },
     {
       "raw_hot": 65970,
-      "num": 855284,
+      "num": 875572,
       "word": "在巴黎见证中国力量",
       "onboard_time": 1723384766,
       "rank": 20,
@@ -34355,14 +34419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 47551,
-      "num": 1339674,
-      "word": "法国女篮追平",
-      "onboard_time": 1723385789,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 47409,
       "num": 181794,
       "word": "钮祜禄尔佳归来",
@@ -34465,6 +34521,14 @@
       "onboard_time": 1723228094,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 46215,
+      "num": 1050963,
+      "word": "戒断拖延症我重获对生活的掌控",
+      "onboard_time": 1723386026,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46078,

@@ -1,7 +1,15 @@
 {
   "startTime": 1723307155481,
-  "endTime": 1723385968114,
+  "endTime": 1723387028413,
   "band_list": [
+    {
+      "raw_hot": 11931022,
+      "num": 11931022,
+      "word": "美国女篮vs法国女篮",
+      "onboard_time": 1723380566,
+      "rank": 24,
+      "category": "体育"
+    },
     {
       "raw_hot": 10974299,
       "num": 10974299,
@@ -16,14 +24,6 @@
       "word": "李雯雯金牌",
       "onboard_time": 1723376495,
       "rank": 0,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 8388216,
-      "num": 8388216,
-      "word": "美国女篮vs法国女篮",
-      "onboard_time": 1723380566,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -531,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1118256,
+      "num": 1118256,
+      "word": "孙杨 全运会",
+      "onboard_time": 1723386026,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1116135,
       "num": 1116135,
       "word": "张怡宁想给王楚钦打十分",
@@ -561,6 +569,14 @@
       "onboard_time": 1723336159,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1060232,
+      "num": 1060232,
+      "word": "瑞幸致歉信",
+      "onboard_time": 1723383147,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 1060013,
@@ -625,14 +641,6 @@
       "onboard_time": 1723372944,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 956796,
-      "num": 956796,
-      "word": "瑞幸致歉信",
-      "onboard_time": 1723383147,
-      "rank": 45,
-      "category": "美食"
     },
     {
       "raw_hot": 952544,
@@ -723,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 867280,
+      "num": 867280,
+      "word": "中国40金27银24铜收官",
+      "onboard_time": 1723381167,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 858578,
       "num": 531687,
       "word": "李雯雯把教练举高高",
@@ -736,14 +752,6 @@
       "word": "王楚钦 未来的路会好好规划下",
       "onboard_time": 1723358059,
       "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 834183,
-      "num": 834183,
-      "word": "中国40金27银24铜收官",
-      "onboard_time": 1723381167,
-      "rank": 22,
       "category": "体育"
     },
     {
@@ -1003,19 +1011,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 592476,
+      "num": 592476,
+      "word": "李雯雯受伤",
+      "onboard_time": 1723383445,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 591405,
       "num": 591405,
       "word": "王楚钦 始于巴黎不止巴黎",
       "onboard_time": 1723314194,
       "rank": 18,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 585641,
-      "num": 585641,
-      "word": "李雯雯受伤",
-      "onboard_time": 1723383445,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -1124,7 +1132,7 @@
     },
     {
       "raw_hot": 494834,
-      "num": 883327,
+      "num": 929218,
       "word": "疑似李闽轩小号",
       "onboard_time": 1723385307,
       "rank": 17,
@@ -1160,6 +1168,14 @@
       "word": "跳高加赛",
       "onboard_time": 1723317193,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 479264,
+      "num": 479264,
+      "word": "巴黎奥运会闭幕式",
+      "onboard_time": 1723385368,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -1387,6 +1403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 380253,
+      "num": 1339674,
+      "word": "法国女篮追平",
+      "onboard_time": 1723385789,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 378983,
       "num": 378983,
       "word": "孙颖莎 一切都是最好的",
@@ -1427,6 +1451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 374237,
+      "num": 374237,
+      "word": "60秒盘点巴黎奥运会燃金时刻",
+      "onboard_time": 1723386627,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 372915,
       "num": 372915,
       "word": "中国39金追平伦敦奥运",
@@ -1464,14 +1496,6 @@
       "word": "孙颖莎提议给刘国梁戴金牌",
       "onboard_time": 1723335500,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 359327,
-      "num": 359327,
-      "word": "巴黎奥运会闭幕式",
-      "onboard_time": 1723385368,
-      "rank": 35,
       "category": "体育"
     },
     {
@@ -1524,7 +1548,7 @@
     },
     {
       "raw_hot": 343637,
-      "num": 925567,
+      "num": 967882,
       "word": "中国境外奥运最佳",
       "onboard_time": 1723382246,
       "rank": 43,
@@ -1704,6 +1728,14 @@
       "word": "中国金牌数追平东京奥运会",
       "onboard_time": 1723318752,
       "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 294841,
+      "num": 294841,
+      "word": "马龙为了比赛一直忍着没换pin",
+      "onboard_time": 1723383926,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -1979,14 +2011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 257162,
-      "num": 257162,
-      "word": "马龙为了比赛一直忍着没换pin",
-      "onboard_time": 1723383926,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 256158,
       "num": 794734,
       "word": "出生12天女婴被月嫂挠伤脚底",
@@ -2147,6 +2171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 231594,
+      "num": 479379,
+      "word": "时代少年团二开",
+      "onboard_time": 1723386687,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 230697,
       "num": 230697,
       "word": "刘国梁说樊振东夺冠是关键转折点",
@@ -2244,7 +2276,7 @@
     },
     {
       "raw_hot": 215867,
-      "num": 258103,
+      "num": 283538,
       "word": "周深演唱会",
       "onboard_time": 1723384707,
       "rank": 46,
@@ -2547,6 +2579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 195971,
+      "num": 195971,
+      "word": "专家称新冠上升与暑期人口流动有关",
+      "onboard_time": 1723386207,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195775,
       "num": 520621,
       "word": "给曾舜晞提名最惨男主角",
@@ -2643,6 +2683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188352,
+      "num": 972191,
+      "word": "马克龙观战女篮决赛",
+      "onboard_time": 1723386388,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186656,
       "num": 186656,
       "word": "胡歌谈和大鱼海棠姜子牙导演合作",
@@ -2689,6 +2737,14 @@
       "onboard_time": 1723357041,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181769,
+      "num": 195739,
+      "word": "李承铉曾觉得尚雯婕不好惹",
+      "onboard_time": 1723386508,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 181721,
@@ -2947,6 +3003,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 133333,
+      "num": 1005390,
+      "word": "李丽被查",
+      "onboard_time": 1723386687,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130716,
       "num": 684721,
       "word": "孙颖莎说与邱贻可一起奋斗很幸福",
@@ -3132,7 +3196,7 @@
     },
     {
       "raw_hot": 65970,
-      "num": 855284,
+      "num": 875572,
       "word": "在巴黎见证中国力量",
       "onboard_time": 1723384766,
       "rank": 20,
@@ -3227,20 +3291,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 47551,
-      "num": 1339674,
-      "word": "法国女篮追平",
-      "onboard_time": 1723385789,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 46582,
       "num": 144180,
       "word": "华晨宇七夕七个惊喜",
       "onboard_time": 1723314675,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 46215,
+      "num": 1050963,
+      "word": "戒断拖延症我重获对生活的掌控",
+      "onboard_time": 1723386026,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42872,
