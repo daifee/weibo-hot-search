@@ -1,6 +1,6 @@
 {
   "startTime": 1723307155481,
-  "endTime": 1723346528812,
+  "endTime": 1723347375001,
   "band_list": [
     {
       "raw_hot": 6347529,
@@ -323,6 +323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 804040,
+      "num": 804040,
+      "word": "豆得儿官宣恋情",
+      "onboard_time": 1723346723,
+      "rank": 6,
+      "category": "网红"
+    },
+    {
       "raw_hot": 802899,
       "num": 802899,
       "word": "中国首次包揽奥运跳水全部金牌",
@@ -475,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 479230,
+      "num": 509182,
+      "word": "奥运会霹雳舞解说谈王一博学舞神速",
+      "onboard_time": 1723346002,
+      "rank": 19,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 473384,
       "num": 1641918,
       "word": "武僧秋风姐姐发声",
@@ -563,18 +579,18 @@
       "category": "体育"
     },
     {
-      "raw_hot": 393381,
-      "num": 393381,
-      "word": "孙颖莎大合照踮脚",
-      "onboard_time": 1723329494,
+      "raw_hot": 395588,
+      "num": 395588,
+      "word": "美跳高选手回应拒绝共享金牌",
+      "onboard_time": 1723342221,
       "rank": 35,
       "category": "体育"
     },
     {
-      "raw_hot": 387967,
-      "num": 387967,
-      "word": "美跳高选手回应拒绝共享金牌",
-      "onboard_time": 1723342221,
+      "raw_hot": 393381,
+      "num": 393381,
+      "word": "孙颖莎大合照踮脚",
+      "onboard_time": 1723329494,
       "rank": 35,
       "category": "体育"
     },
@@ -635,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 331025,
+      "num": 512796,
+      "word": "吴谨言在Twins演唱会过七夕",
+      "onboard_time": 1723344322,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 329135,
       "num": 1031202,
       "word": "GAI一个电话真把王源叫来了",
@@ -659,20 +683,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 327242,
-      "num": 512796,
-      "word": "吴谨言在Twins演唱会过七夕",
-      "onboard_time": 1723344322,
-      "rank": 18,
-      "category": "演出"
-    },
-    {
       "raw_hot": 327149,
       "num": 327149,
       "word": "秋风家人已委托律师跟进",
       "onboard_time": 1723335320,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 324449,
+      "num": 324449,
+      "word": "马龙说希望下届奥运会樊振东依然在",
+      "onboard_time": 1723342523,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 323185,
+      "num": 323185,
+      "word": "中国队冲击四十金",
+      "onboard_time": 1723343842,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 314967,
@@ -707,20 +739,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 305661,
-      "num": 305661,
-      "word": "马龙说希望下届奥运会樊振东依然在",
-      "onboard_time": 1723342523,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 298667,
       "num": 298667,
       "word": "中国金牌数追平东京奥运会",
       "onboard_time": 1723318752,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 292903,
+      "num": 473656,
+      "word": "花小龙王老师官宣",
+      "onboard_time": 1723345522,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 291254,
@@ -747,20 +779,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 289017,
-      "num": 289017,
-      "word": "中国队冲击四十金",
-      "onboard_time": 1723343842,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 284167,
       "num": 562312,
       "word": "海清身材管理",
       "onboard_time": 1723339763,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 283134,
+      "num": 283134,
+      "word": "我在孙颖莎很想你",
+      "onboard_time": 1723347202,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 277050,
@@ -779,6 +811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 268197,
+      "num": 268197,
+      "word": "孙颖莎颁奖仪式上又整活了",
+      "onboard_time": 1723344201,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 265396,
       "num": 243242,
       "word": "中国本届奥运会已有8位双金王",
@@ -787,20 +827,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 262779,
-      "num": 262779,
-      "word": "孙颖莎颁奖仪式上又整活了",
-      "onboard_time": 1723344201,
-      "rank": 43,
+      "raw_hot": 256598,
+      "num": 256598,
+      "word": "陈梦说孙颖莎是领奖动作总导演",
+      "onboard_time": 1723347202,
+      "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 259262,
-      "num": 509182,
-      "word": "奥运会霹雳舞解说谈王一博学舞神速",
-      "onboard_time": 1723346002,
-      "rank": 19,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 256158,
@@ -835,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 249970,
+      "num": 249970,
+      "word": "霹雳舞",
+      "onboard_time": 1723346723,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 244981,
       "num": 293287,
       "word": "晚睡晚起睡够时长算熬夜吗",
@@ -851,12 +891,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 244298,
-      "num": 414804,
-      "word": "花小龙王老师官宣",
-      "onboard_time": 1723345522,
-      "rank": 27,
-      "category": "网红"
+      "raw_hot": 244512,
+      "num": 244512,
+      "word": "王楚钦说马龙也很全面",
+      "onboard_time": 1723345942,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 244138,
@@ -891,11 +931,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 230138,
-      "num": 230138,
-      "word": "王楚钦说马龙也很全面",
-      "onboard_time": 1723345942,
-      "rank": 47,
+      "raw_hot": 229215,
+      "num": 229215,
+      "word": "奥运会霹雳舞",
+      "onboard_time": 1723346901,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -963,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213992,
+      "num": 324539,
+      "word": "原来这些明星也曾是国家运动员",
+      "onboard_time": 1723346303,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212289,
       "num": 673341,
       "word": "詹姆斯当选奥运男篮MVP",
@@ -1017,6 +1065,14 @@
       "onboard_time": 1723292841,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 195842,
+      "num": 404188,
+      "word": "美国决定不制裁以色列军队",
+      "onboard_time": 1723344681,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 195358,
@@ -1107,20 +1163,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 165068,
+      "num": 668261,
+      "word": "女生遇骗子被弟弟拉进派出所报警",
+      "onboard_time": 1723347021,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161298,
       "num": 852609,
       "word": "芒果的精神状态还是太超前了",
       "onboard_time": 1723312575,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 159819,
-      "num": 229986,
-      "word": "原来这些明星也曾是国家运动员",
-      "onboard_time": 1723346303,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 150316,
@@ -1227,20 +1283,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96725,
+      "num": 662335,
+      "word": "1.3亿厂房被1元钱拍卖1.8万成交",
+      "onboard_time": 1723346421,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88413,
       "num": 764935,
       "word": "暑期又有6个孩子溺水离世最小仅2岁",
       "onboard_time": 1723344622,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 82524,
-      "num": 404188,
-      "word": "美国决定不制裁以色列军队",
-      "onboard_time": 1723344681,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 79387,
@@ -1299,6 +1355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41122,
+      "num": 1256995,
+      "word": "以体育竞技燃动体育经济",
+      "onboard_time": 1723345461,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40973,
       "num": 744864,
       "word": "网红太原老葛涉诈骗被立案侦查",
@@ -1331,14 +1395,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 34394,
-      "num": 1256995,
-      "word": "以体育竞技燃动体育经济",
-      "onboard_time": 1723345461,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 33225,
       "num": 166395,
       "word": "华晨宇合肥七夕演唱会",
@@ -1369,14 +1425,6 @@
       "onboard_time": 1723339882,
       "rank": 29,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 6240,
-      "num": 515977,
-      "word": "1.3亿厂房被1元钱拍卖1.8万成交",
-      "onboard_time": 1723346421,
-      "rank": 14,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -1391,6 +1439,9 @@
     },
     {
       "word": "#找到最大公约数画出最大同心圆#"
+    },
+    {
+      "word": "#党的二十届三中全会学习笔记#"
     }
   ]
 }
