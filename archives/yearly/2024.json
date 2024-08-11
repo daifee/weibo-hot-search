@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1723390471937,
+  "endTime": 1723393401015,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -305,6 +305,14 @@
       "onboard_time": 1722347796,
       "rank": 4,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 15817207,
+      "num": 16157787,
+      "word": "中国金牌榜并列第一",
+      "onboard_time": 1723390055,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 15753726,
@@ -727,14 +735,6 @@
       "num": 11770033,
       "word": "樊振东vsF勒布伦",
       "onboard_time": 1722588026,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 11733138,
-      "num": 12983138,
-      "word": "中国金牌榜并列第一",
-      "onboard_time": 1723390055,
       "rank": 1,
       "category": "体育"
     },

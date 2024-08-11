@@ -1,6 +1,6 @@
 {
   "startTime": 1723307155481,
-  "endTime": 1723390471937,
+  "endTime": 1723393401015,
   "band_list": [
     {
       "raw_hot": 25984443,
@@ -11,8 +11,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 11733138,
-      "num": 12983138,
+      "raw_hot": 15817207,
+      "num": 16157787,
       "word": "中国金牌榜并列第一",
       "onboard_time": 1723390055,
       "rank": 1,
@@ -467,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1405129,
+      "num": 1405129,
+      "word": "中国赢得对美反兴奋剂斗争阶段性胜利",
+      "onboard_time": 1723391603,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1396984,
       "num": 762924,
       "word": "美国女排银牌",
@@ -569,6 +577,14 @@
       "onboard_time": 1723383626,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1150808,
+      "num": 551112,
+      "word": "王楚钦飞机上签名球拍",
+      "onboard_time": 1723389453,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 1145070,
@@ -1027,6 +1043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 639133,
+      "num": 639133,
+      "word": "发现日本网友真的很爱孙颖莎",
+      "onboard_time": 1723388426,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 636144,
       "num": 1229444,
       "word": "王晶说周星驰钱重要过朋友",
@@ -1139,14 +1163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 551112,
-      "num": 551112,
-      "word": "王楚钦飞机上签名球拍",
-      "onboard_time": 1723389453,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 541637,
       "num": 541637,
       "word": "来自东方的神秘力量",
@@ -1243,14 +1259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 497513,
-      "num": 276204,
-      "word": "发现日本网友真的很爱孙颖莎",
-      "onboard_time": 1723388426,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 491796,
       "num": 967086,
       "word": "田径女子马拉松决赛",
@@ -1297,6 +1305,14 @@
       "onboard_time": 1723303783,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 468696,
+      "num": 253441,
+      "word": "孙颖莎回应从开幕式打到闭幕式",
+      "onboard_time": 1723391723,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 466448,
@@ -1459,6 +1475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 425680,
+      "num": 266211,
+      "word": "威廉姆斯好帅",
+      "onboard_time": 1723391245,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 421162,
       "num": 1075821,
       "word": "租客因室友有猝死风险退租房东求助",
@@ -1467,11 +1491,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 416908,
+      "num": 264877,
+      "word": "马龙说可以去洛杉矶做饭",
+      "onboard_time": 1723390885,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 414469,
       "num": 368426,
       "word": "美国摔跤",
       "onboard_time": 1723379667,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 414370,
+      "num": 263413,
+      "word": "就差一分",
+      "onboard_time": 1723391305,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -1512,6 +1552,14 @@
       "word": "孙颖莎大合照踮脚",
       "onboard_time": 1723329494,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 390836,
+      "num": 260416,
+      "word": "原来奥运冠军是你女儿啊",
+      "onboard_time": 1723389389,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -1595,6 +1643,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 367487,
+      "num": 244873,
+      "word": "孙颖莎邱贻可散装英语勇闯法国",
+      "onboard_time": 1723393221,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 365803,
       "num": 330519,
       "word": "美国跳高",
@@ -1609,6 +1665,14 @@
       "onboard_time": 1723335500,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 360423,
+      "num": 693029,
+      "word": "在披哥看李佳琦直播",
+      "onboard_time": 1723391006,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 354301,
@@ -1947,6 +2011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 283625,
+      "num": 213927,
+      "word": "早田希娜说接下来四年会更加艰难",
+      "onboard_time": 1723391424,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283310,
       "num": 283310,
       "word": "陈梦谈决赛日本队排兵布阵",
@@ -2020,11 +2092,19 @@
     },
     {
       "raw_hot": 273099,
-      "num": 614251,
+      "num": 678167,
       "word": "日本大阪府部分水体严重污染",
       "onboard_time": 1723389389,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 270934,
+      "num": 270934,
+      "word": "钟辰乐直播",
+      "onboard_time": 1723391843,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 270883,
@@ -2200,6 +2280,14 @@
       "word": "美国和中国还差1金",
       "onboard_time": 1723384467,
       "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 251224,
+      "num": 207490,
+      "word": "石智勇 是金牌数量最多的运动员了",
+      "onboard_time": 1723388548,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -2635,6 +2723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201886,
+      "num": 201886,
+      "word": "致奥运会中国体育代表团的贺电",
+      "onboard_time": 1723392921,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201709,
       "num": 201709,
       "word": "晋江文检察官有脸了",
@@ -2656,6 +2752,14 @@
       "word": "90秒一镜到底重温中国队难忘瞬间",
       "onboard_time": 1723353440,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 200712,
+      "num": 200712,
+      "word": "中国健儿运动成绩和精神文明双丰收",
+      "onboard_time": 1723393101,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -2731,6 +2835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197139,
+      "num": 197139,
+      "word": "巴黎奥运会的女性纪念时刻",
+      "onboard_time": 1723393221,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196874,
       "num": 196874,
       "word": "成都GG对战DOU5",
@@ -2777,6 +2889,14 @@
       "onboard_time": 1723290623,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 194601,
+      "num": 194601,
+      "word": "法国女篮差点完成任务",
+      "onboard_time": 1723392861,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 193768,
@@ -2867,6 +2987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184867,
+      "num": 255634,
+      "word": "边伯贤9月6日回归",
+      "onboard_time": 1723392562,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 183077,
       "num": 394762,
       "word": "你好星期六下期好6团户外团建",
@@ -2945,6 +3073,14 @@
       "onboard_time": 1723345162,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175054,
+      "num": 194533,
+      "word": "魏哲鸣看张杰演唱会",
+      "onboard_time": 1723391245,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 171877,
@@ -3081,6 +3217,14 @@
       "onboard_time": 1723349602,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 153599,
+      "num": 194462,
+      "word": "瑞幸向易烊千玺道歉",
+      "onboard_time": 1723393281,
+      "rank": 49,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 150705,
