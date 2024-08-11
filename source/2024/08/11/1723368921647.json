@@ -1,0 +1,410 @@
+{
+  "runTime": 1723368921647,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2327259,
+        "num": 2327259,
+        "word": "韩国将申办2036年夏季奥运会",
+        "onboard_time": 1723363821,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1881585,
+        "num": 1881585,
+        "word": "女子备孕9年产下超早产儿双胞胎",
+        "onboard_time": 1723367724,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57486,
+        "num": 1570196,
+        "word": "300金长卷铺就体育强国路",
+        "onboard_time": 1723362622,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1403864,
+        "num": 1403864,
+        "word": "邱贻可感谢孙颖莎",
+        "onboard_time": 1723361241,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1112293,
+        "num": 1112293,
+        "word": "奶茶被顺走当事人称不接受道歉",
+        "onboard_time": 1723353861,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1048402,
+        "num": 1048402,
+        "word": "嘉文 出轨",
+        "onboard_time": 1723367421,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 945571,
+        "num": 945571,
+        "word": "刘国梁评论孙颖莎",
+        "onboard_time": 1723358842,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 625256,
+        "num": 932550,
+        "word": "易梦玲进组",
+        "onboard_time": 1723367663,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25455,
+        "num": 905309,
+        "word": "李雯雯冲击举重最后1金",
+        "onboard_time": 1723368683,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95801,
+        "num": 857081,
+        "word": "官方回应导游嘲讽游客穷就别出来",
+        "onboard_time": 1723367724,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1554779,
+        "num": 795121,
+        "word": "陈梦祝愿两位小妹妹实现梦想",
+        "onboard_time": 1723363761,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 785996,
+        "num": 785996,
+        "word": "美国女子自由操铜牌可能无效",
+        "onboard_time": 1723363401,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 680806,
+        "num": 680806,
+        "word": "武汉一女子频繁美甲感染HPV",
+        "onboard_time": 1723355061,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41238,
+        "num": 672561,
+        "word": "成毅睡颜杀",
+        "onboard_time": 1723366342,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 672267,
+        "num": 672267,
+        "word": "孙颖莎谈假期安排",
+        "onboard_time": 1723363642,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 672006,
+        "num": 672006,
+        "word": "才知道这个小女孩是陈芋汐",
+        "onboard_time": 1723362079,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281288,
+        "num": 658777,
+        "word": "女子举重81公斤以上级",
+        "onboard_time": 1723366283,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 446671,
+        "num": 614309,
+        "word": "王晶说周星驰钱重要过朋友",
+        "onboard_time": 1723361060,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373975,
+        "num": 569683,
+        "word": "秋瓷炫怕胖吐司只吃一口",
+        "onboard_time": 1723362742,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283996,
+        "num": 510662,
+        "word": "韩瑜七夕与肖战地广合照",
+        "onboard_time": 1723365324,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479592,
+        "num": 479592,
+        "word": "网球裙快成了打工人的新班服",
+        "onboard_time": 1723356801,
+        "rank": 20,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 468932,
+        "num": 468932,
+        "word": "李发彬欧紫霞担任闭幕式中国旗手",
+        "onboard_time": 1723354581,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 393040,
+        "num": 393040,
+        "word": "国乒回国",
+        "onboard_time": 1723368202,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 384331,
+        "num": 384331,
+        "word": "樊振东逗马龙",
+        "onboard_time": 1723354400,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 328092,
+        "num": 328092,
+        "word": "举重选手李雯雯力争卫冕",
+        "onboard_time": 1723365263,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 322007,
+        "num": 322007,
+        "word": "孙颖莎用pin哄张本美和",
+        "onboard_time": 1723339402,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316327,
+        "num": 316327,
+        "word": "孙颖莎聊和王楚钦的混双金牌",
+        "onboard_time": 1723368202,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261731,
+        "num": 261731,
+        "word": "全红婵说看谢哥比赛比自己跳都紧张",
+        "onboard_time": 1723365744,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245243,
+        "num": 259710,
+        "word": "王冰冰尼格买提被羊跨栏惊呆了",
+        "onboard_time": 1723366403,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208258,
+        "num": 258688,
+        "word": "段奥娟黑长直A感",
+        "onboard_time": 1723364961,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380307,
+        "num": 257368,
+        "word": "英国跳水名宿解读中国十米跳台技术",
+        "onboard_time": 1723367602,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248505,
+        "num": 253191,
+        "word": "马龙集pin光正面就有15个",
+        "onboard_time": 1723353382,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253083,
+        "num": 253083,
+        "word": "国乒女团金牌",
+        "onboard_time": 1723303593,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250068,
+        "num": 250068,
+        "word": "李发彬回应担任闭幕旗手",
+        "onboard_time": 1723366703,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216249,
+        "num": 249217,
+        "word": "魏大勋 祝xyy七夕快乐",
+        "onboard_time": 1723333518,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249173,
+        "num": 249173,
+        "word": "孙颖莎打球时观众席的阵容有多强大",
+        "onboard_time": 1723365923,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236122,
+        "num": 236122,
+        "word": "中国队还有哪些冲金点",
+        "onboard_time": 1723364660,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236019,
+        "num": 236019,
+        "word": "林高远 大家抗住了重重压力",
+        "onboard_time": 1723363821,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230004,
+        "num": 230004,
+        "word": "张本兄妹被困住的一生",
+        "onboard_time": 1723361482,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213969,
+        "num": 213969,
+        "word": "美国跳高",
+        "onboard_time": 1723367243,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199878,
+        "num": 199878,
+        "word": "田径女子马拉松决赛",
+        "onboard_time": 1723353262,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199874,
+        "num": 199874,
+        "word": "当妈妈知道手办的价格后",
+        "onboard_time": 1723361482,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197209,
+        "num": 197209,
+        "word": "哈桑女子马拉松金牌",
+        "onboard_time": 1723368383,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195167,
+        "num": 195167,
+        "word": "应采儿泳装",
+        "onboard_time": 1723362742,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189280,
+        "num": 189280,
+        "word": "唢呐就是国漫最强战歌吧",
+        "onboard_time": 1723367663,
+        "rank": 44,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 183361,
+        "num": 183361,
+        "word": "孙颖莎 感谢粉丝一直支持我",
+        "onboard_time": 1723367663,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174122,
+        "num": 174122,
+        "word": "减糖控糖重点是少吃这种糖",
+        "onboard_time": 1723368683,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 165897,
+        "num": 165897,
+        "word": "豆得儿官宣恋情",
+        "onboard_time": 1723346723,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 153721,
+        "num": 165715,
+        "word": "张凌赫工作室维权",
+        "onboard_time": 1723361241,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150398,
+        "num": 165567,
+        "word": "虞书欣 是你们那代的拍照姿势吗",
+        "onboard_time": 1723355420,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#找到最大公约数画出最大同心圆#"
+    }
+  }
+}

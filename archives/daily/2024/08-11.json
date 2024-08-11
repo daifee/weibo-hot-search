@@ -1,6 +1,6 @@
 {
   "startTime": 1723307155481,
-  "endTime": 1723368028215,
+  "endTime": 1723368921647,
   "band_list": [
     {
       "raw_hot": 6347529,
@@ -137,6 +137,14 @@
       "onboard_time": 1723339042,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1881585,
+      "num": 1881585,
+      "word": "女子备孕9年产下超早产儿双胞胎",
+      "onboard_time": 1723367724,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1809366,
@@ -355,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1048402,
+      "num": 1048402,
+      "word": "嘉文 出轨",
+      "onboard_time": 1723367421,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1030902,
       "num": 1030902,
       "word": "张怡宁说全部人都觉得樊振东打得好",
@@ -475,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 785996,
+      "num": 785996,
+      "word": "美国女子自由操铜牌可能无效",
+      "onboard_time": 1723363401,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 782263,
       "num": 782263,
       "word": "许昕做法啊",
@@ -504,14 +528,6 @@
       "word": "马龙集pin光正面就有15个",
       "onboard_time": 1723353382,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 761467,
-      "num": 761467,
-      "word": "美国女子自由操铜牌可能无效",
-      "onboard_time": 1723363401,
-      "rank": 27,
       "category": "体育"
     },
     {
@@ -593,6 +609,14 @@
       "onboard_time": 1723361060,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 625256,
+      "num": 932550,
+      "word": "易梦玲进组",
+      "onboard_time": 1723367663,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 602967,
@@ -755,22 +779,6 @@
       "category": "综艺,体育"
     },
     {
-      "raw_hot": 452602,
-      "num": 452602,
-      "word": "女子备孕9年产下超早产儿双胞胎",
-      "onboard_time": 1723367724,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 452583,
-      "num": 573230,
-      "word": "嘉文 出轨",
-      "onboard_time": 1723367421,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
       "raw_hot": 444324,
       "num": 444324,
       "word": "Uzi马拉松完赛",
@@ -843,6 +851,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 393040,
+      "num": 393040,
+      "word": "国乒回国",
+      "onboard_time": 1723368202,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 380307,
+      "num": 281277,
+      "word": "英国跳水名宿解读中国十米跳台技术",
+      "onboard_time": 1723367602,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 378983,
       "num": 378983,
       "word": "孙颖莎 一切都是最好的",
@@ -905,14 +929,6 @@
       "onboard_time": 1723335500,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 361579,
-      "num": 570143,
-      "word": "易梦玲进组",
-      "onboard_time": 1723367663,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 353977,
@@ -995,6 +1011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 328092,
+      "num": 900425,
+      "word": "举重选手李雯雯力争卫冕",
+      "onboard_time": 1723365263,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 327149,
       "num": 327149,
       "word": "秋风家人已委托律师跟进",
@@ -1032,6 +1056,14 @@
       "word": "早田给孙颖莎拨拉头发上的碎屑",
       "onboard_time": 1723348222,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 316327,
+      "num": 316327,
+      "word": "孙颖莎聊和王楚钦的混双金牌",
+      "onboard_time": 1723368202,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -1089,14 +1121,6 @@
       "onboard_time": 1723342343,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 301729,
-      "num": 281277,
-      "word": "英国跳水名宿解读中国十米跳台技术",
-      "onboard_time": 1723367602,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 298667,
@@ -1203,6 +1227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281288,
+      "num": 1217554,
+      "word": "女子举重81公斤以上级",
+      "onboard_time": 1723366283,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 280638,
       "num": 280638,
       "word": "张本兄妹被困住的一生",
@@ -1217,14 +1249,6 @@
       "onboard_time": 1723352126,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 278442,
-      "num": 900425,
-      "word": "举重选手李雯雯力争卫冕",
-      "onboard_time": 1723365263,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 277050,
@@ -1299,6 +1323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 261731,
+      "num": 261731,
+      "word": "全红婵说看谢哥比赛比自己跳都紧张",
+      "onboard_time": 1723365744,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 259406,
       "num": 352388,
       "word": "张凌赫工作室维权",
@@ -1355,6 +1387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 250068,
+      "num": 250068,
+      "word": "李发彬回应担任闭幕旗手",
+      "onboard_time": 1723366703,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 249970,
       "num": 249970,
       "word": "霹雳舞",
@@ -1403,14 +1443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 240790,
-      "num": 240790,
-      "word": "李发彬回应担任闭幕旗手",
-      "onboard_time": 1723366703,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 237824,
       "num": 237824,
       "word": "林高远 大家抗住了重重压力",
@@ -1425,14 +1457,6 @@
       "onboard_time": 1723364961,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 233382,
-      "num": 233382,
-      "word": "全红婵说看谢哥比赛比自己跳都紧张",
-      "onboard_time": 1723365744,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 232824,
@@ -1561,6 +1585,14 @@
       "onboard_time": 1723285640,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213969,
+      "num": 213969,
+      "word": "美国跳高",
+      "onboard_time": 1723367243,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 212670,
@@ -1707,6 +1739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197209,
+      "num": 197209,
+      "word": "哈桑女子马拉松金牌",
+      "onboard_time": 1723368383,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196874,
       "num": 196874,
       "word": "成都GG对战DOU5",
@@ -1753,14 +1793,6 @@
       "onboard_time": 1723367663,
       "rank": 42,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 192897,
-      "num": 192897,
-      "word": "美国跳高",
-      "onboard_time": 1723367243,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 191742,
@@ -1883,14 +1915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 180076,
-      "num": 1217554,
-      "word": "女子举重81公斤以上级",
-      "onboard_time": 1723366283,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 179092,
       "num": 315243,
       "word": "第一次见法味这么浓的剧",
@@ -1905,6 +1929,14 @@
       "onboard_time": 1723345162,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174122,
+      "num": 174122,
+      "word": "减糖控糖重点是少吃这种糖",
+      "onboard_time": 1723368683,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 171877,
@@ -2179,6 +2211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95801,
+      "num": 1088577,
+      "word": "官方回应导游嘲讽游客穷就别出来",
+      "onboard_time": 1723367724,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88874,
       "num": 428533,
       "word": "魏哲鸣看吻戏有种公开处刑的感觉",
@@ -2252,7 +2292,7 @@
     },
     {
       "raw_hot": 61580,
-      "num": 1567648,
+      "num": 1570196,
       "word": "300金长卷铺就体育强国路",
       "onboard_time": 1723362622,
       "rank": 2,
@@ -2307,14 +2347,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 43989,
-      "num": 1088577,
-      "word": "官方回应导游嘲讽游客穷就别出来",
-      "onboard_time": 1723367724,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 42619,
       "num": 238913,
       "word": "乳液面膜是懒人福音",
@@ -2337,6 +2369,14 @@
       "onboard_time": 1723332437,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41238,
+      "num": 672561,
+      "word": "成毅睡颜杀",
+      "onboard_time": 1723366342,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 41122,
@@ -2387,14 +2427,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 34654,
-      "num": 587413,
-      "word": "成毅睡颜杀",
-      "onboard_time": 1723366342,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 33225,
       "num": 166395,
       "word": "华晨宇合肥七夕演唱会",
@@ -2417,6 +2449,14 @@
       "onboard_time": 1723294763,
       "rank": 2,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 25455,
+      "num": 905309,
+      "word": "李雯雯冲击举重最后1金",
+      "onboard_time": 1723368683,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 15848,
