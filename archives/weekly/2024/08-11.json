@@ -1,6 +1,6 @@
 {
   "startTime": 1723307155481,
-  "endTime": 1723414790461,
+  "endTime": 1723415838841,
   "band_list": [
     {
       "raw_hot": 25984443,
@@ -147,19 +147,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2772722,
+      "num": 2772722,
+      "word": "孙颖莎闭幕式代表亚洲登场",
+      "onboard_time": 1723410973,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2665458,
       "num": 2665458,
       "word": "女子举重81公斤以上级",
       "onboard_time": 1723366283,
       "rank": 6,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2649135,
-      "num": 2649135,
-      "word": "孙颖莎闭幕式代表亚洲登场",
-      "onboard_time": 1723410973,
-      "rank": 15,
       "category": "体育"
     },
     {
@@ -307,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1895487,
+      "num": 1895487,
+      "word": "孙颖莎吹灭奥运圣火",
+      "onboard_time": 1723414334,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1809366,
       "num": 1809366,
       "word": "刘国梁评论孙颖莎",
@@ -448,6 +456,14 @@
       "word": "国乒女团vs日本女团",
       "onboard_time": 1723286962,
       "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1475201,
+      "num": 1475201,
+      "word": "洛杉矶12分钟",
+      "onboard_time": 1723413433,
+      "rank": 3,
       "category": "体育"
     },
     {
@@ -675,14 +691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1040677,
-      "num": 1040677,
-      "word": "洛杉矶12分钟",
-      "onboard_time": 1723413433,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1030902,
       "num": 1030902,
       "word": "张怡宁说全部人都觉得樊振东打得好",
@@ -795,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 929801,
+      "num": 929801,
+      "word": "孙颖莎去闭幕式好像春游一样",
+      "onboard_time": 1723399694,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 929015,
       "num": 929015,
       "word": "陈梦王曼昱vs早田希娜张本美和",
@@ -864,14 +880,6 @@
       "word": "中国40金27银24铜收官",
       "onboard_time": 1723381167,
       "rank": 22,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 859453,
-      "num": 859453,
-      "word": "孙颖莎去闭幕式好像春游一样",
-      "onboard_time": 1723399694,
-      "rank": 1,
       "category": "体育"
     },
     {
@@ -1049,6 +1057,14 @@
       "onboard_time": 1723349301,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 681808,
+      "num": 681808,
+      "word": "闭幕式 齐天大圣从天而降",
+      "onboard_time": 1723408391,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 675309,
@@ -1267,22 +1283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 535075,
-      "num": 535075,
-      "word": "孙颖莎吹灭奥运圣火",
-      "onboard_time": 1723414334,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 534472,
-      "num": 534471,
-      "word": "闭幕式 齐天大圣从天而降",
-      "onboard_time": 1723408391,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 532034,
       "num": 1372099,
       "word": "日本多地已设近百避难所",
@@ -1491,6 +1491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 452190,
+      "num": 452190,
+      "word": "中国队旗手入场",
+      "onboard_time": 1723405092,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 445226,
       "num": 259536,
       "word": "限定法国球迷",
@@ -1635,14 +1643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 412073,
-      "num": 412073,
-      "word": "中国队旗手入场",
-      "onboard_time": 1723405092,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 402501,
       "num": 252020,
       "word": "孙颖莎说希望洛杉矶再相见",
@@ -1656,6 +1656,14 @@
       "word": "国乒女团夺冠后采访",
       "onboard_time": 1723308920,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 398183,
+      "num": 370904,
+      "word": "闭幕式 中国快递小哥镜头",
+      "onboard_time": 1723405872,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -1747,20 +1755,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 377159,
+      "num": 161003,
+      "word": "汤姆克鲁斯登场",
+      "onboard_time": 1723412833,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 376997,
       "num": 476669,
       "word": "香港偶遇杨洋",
       "onboard_time": 1723352240,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 376481,
-      "num": 161003,
-      "word": "汤姆克鲁斯登场",
-      "onboard_time": 1723412833,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 374890,
@@ -1793,14 +1801,6 @@
       "onboard_time": 1723309280,
       "rank": 29,
       "category": "网红"
-    },
-    {
-      "raw_hot": 370904,
-      "num": 370904,
-      "word": "闭幕式 中国快递小哥镜头",
-      "onboard_time": 1723405872,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 365803,
@@ -2563,6 +2563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 233526,
+      "num": 140955,
+      "word": "巴黎奥运会闭幕",
+      "onboard_time": 1723414574,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 232824,
       "num": 232824,
       "word": "美国女足奥运金牌",
@@ -2828,11 +2836,19 @@
     },
     {
       "raw_hot": 209233,
-      "num": 534550,
+      "num": 703079,
       "word": "华晨宇 我没事放心吧",
       "onboard_time": 1723393821,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 208367,
+      "num": 208367,
+      "word": "小孩电竞世界杯夺冠",
+      "onboard_time": 1723410731,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 208096,
@@ -2929,14 +2945,6 @@
       "onboard_time": 1723392921,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 201764,
-      "num": 201764,
-      "word": "小孩电竞世界杯夺冠",
-      "onboard_time": 1723410731,
-      "rank": 12,
-      "category": "电竞"
     },
     {
       "raw_hot": 201709,
@@ -3137,6 +3145,14 @@
       "onboard_time": 1723367663,
       "rank": 42,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 192532,
+      "num": 140893,
+      "word": "圣火是吹灭的",
+      "onboard_time": 1723414754,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 191742,
@@ -3563,6 +3579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140810,
+      "num": 140810,
+      "word": "洛杉矶12分钟 沙滩音乐节",
+      "onboard_time": 1723414334,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140018,
       "num": 378015,
       "word": "华晨宇新歌怪诞心理学",
@@ -3609,14 +3633,6 @@
       "onboard_time": 1723369164,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 133016,
-      "num": 133016,
-      "word": "洛杉矶12分钟 沙滩音乐节",
-      "onboard_time": 1723414334,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 132414,
@@ -3715,14 +3731,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 110856,
-      "num": 110856,
-      "word": "巴黎奥运会闭幕",
-      "onboard_time": 1723414574,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 109347,
       "num": 109347,
       "word": "求婚最多的奥运会",
@@ -3787,6 +3795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103020,
+      "num": 103020,
+      "word": "阿汤哥骑摩托",
+      "onboard_time": 1723415113,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102787,
       "num": 213575,
       "word": "涂筱柠 普通人的无力感",
@@ -3817,14 +3833,6 @@
       "onboard_time": 1723346421,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95940,
-      "num": 95940,
-      "word": "圣火是吹灭的",
-      "onboard_time": 1723414754,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 94759,
@@ -3988,7 +3996,7 @@
     },
     {
       "raw_hot": 63193,
-      "num": 117735,
+      "num": 140911,
       "word": "2024华晨宇火星演唱会",
       "onboard_time": 1723400293,
       "rank": 29,
@@ -4227,8 +4235,8 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 20468,
-      "num": 1861007,
+      "raw_hot": 21973,
+      "num": 2000286,
       "word": "加快经济社会发展全面绿色转型",
       "onboard_time": 1723381347,
       "rank": 2,
@@ -4244,7 +4252,7 @@
     },
     {
       "raw_hot": 15241,
-      "num": 534472,
+      "num": 681844,
       "word": "陕西北洛河发生1994年以来最大洪水",
       "onboard_time": 1723402812,
       "rank": 9,
