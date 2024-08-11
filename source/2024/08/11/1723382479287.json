@@ -1,0 +1,410 @@
+{
+  "runTime": 1723382479287,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10974299,
+        "num": 10974299,
+        "word": "中国奖牌榜第1美网友破防",
+        "onboard_time": 1723375104,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3788747,
+        "num": 3788747,
+        "word": "美国女篮vs法国女篮",
+        "onboard_time": 1723380566,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36292,
+        "num": 3176605,
+        "word": "神十八乘组亲测太空中生物节律变化",
+        "onboard_time": 1723381707,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3155026,
+        "num": 3155026,
+        "word": "李雯雯金牌",
+        "onboard_time": 1723376495,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2394021,
+        "num": 2394021,
+        "word": "美国连摘两银",
+        "onboard_time": 1723380207,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2244279,
+        "num": 2244279,
+        "word": "塞尔维亚",
+        "onboard_time": 1723378406,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 2204090,
+        "num": 2204090,
+        "word": "中国金牌数创境外奥运新纪录",
+        "onboard_time": 1723380088,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 732372,
+        "num": 2185365,
+        "word": "黄雅琼真去看周深演唱会了",
+        "onboard_time": 1723379607,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 628977,
+        "num": 2148099,
+        "word": "虞书欣造型",
+        "onboard_time": 1723375707,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152957,
+        "num": 2081537,
+        "word": "一只流浪猫与24万元赔偿",
+        "onboard_time": 1723378466,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3032229,
+        "num": 2003313,
+        "word": "孙颖莎请大家理性看待输赢",
+        "onboard_time": 1723375644,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1995628,
+        "num": 1995628,
+        "word": "莎莎说大头永远是最好的搭档和朋友",
+        "onboard_time": 1723375644,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1949059,
+        "num": 1949059,
+        "word": "中国队40金27银24铜收官",
+        "onboard_time": 1723381167,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81565,
+        "num": 1937399,
+        "word": "2025款极氪新品来了",
+        "onboard_time": 1723379068,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 584425,
+        "num": 1924590,
+        "word": "女子备孕9年产下超早产儿双胞胎",
+        "onboard_time": 1723367724,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568449,
+        "num": 1888269,
+        "word": "潘玮柏 朋友们这照片不是真的",
+        "onboard_time": 1723376423,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 487421,
+        "num": 1862073,
+        "word": "魏晨去了张杰演唱会",
+        "onboard_time": 1723377569,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 423268,
+        "num": 1855253,
+        "word": "碧梨 奥运闭幕式",
+        "onboard_time": 1723377331,
+        "rank": 17,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 163129,
+        "num": 1813193,
+        "word": "中国第40金",
+        "onboard_time": 1723377751,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221400,
+        "num": 1806567,
+        "word": "撒贝宁王鸥综艺合体梦回明侦",
+        "onboard_time": 1723373783,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1790275,
+        "num": 1790275,
+        "word": "美国夺金点",
+        "onboard_time": 1723372282,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 840149,
+        "num": 840149,
+        "word": "女篮金牌赛",
+        "onboard_time": 1723381048,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 745647,
+        "num": 745647,
+        "word": "美国金牌",
+        "onboard_time": 1723379728,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 691709,
+        "num": 691709,
+        "word": "樊振东让马龙保管金牌",
+        "onboard_time": 1723377150,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 643741,
+        "num": 643741,
+        "word": "马龙说退役不会搞仪式",
+        "onboard_time": 1723380266,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32070,
+        "num": 639924,
+        "word": "致敬全力以赴的你",
+        "onboard_time": 1723379908,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 636189,
+        "num": 636189,
+        "word": "场地自行车",
+        "onboard_time": 1723375044,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 600302,
+        "num": 600302,
+        "word": "国乒女团金牌",
+        "onboard_time": 1723303593,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219402,
+        "num": 585426,
+        "word": "王安宇上花少后怀疑自己情绪不稳定",
+        "onboard_time": 1723382246,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216569,
+        "num": 576183,
+        "word": "陈梦和黄晓明就是彼此的万能公式",
+        "onboard_time": 1723371202,
+        "rank": 29,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 574765,
+        "num": 574765,
+        "word": "金牌榜",
+        "onboard_time": 1723377630,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 517913,
+        "num": 517913,
+        "word": "美国女排银牌",
+        "onboard_time": 1723379307,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 513094,
+        "num": 513094,
+        "word": "美国女排vs意大利女排",
+        "onboard_time": 1723376731,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 506502,
+        "num": 506502,
+        "word": "李雯雯喊下班了",
+        "onboard_time": 1723377569,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 499198,
+        "num": 499198,
+        "word": "乒乓女团奥运5连冠",
+        "onboard_time": 1723303962,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 495660,
+        "num": 495660,
+        "word": "中国姑娘跑出奥运会大众马拉松第1",
+        "onboard_time": 1723376550,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 454820,
+        "num": 454820,
+        "word": "嘉文 出轨",
+        "onboard_time": 1723367421,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 417123,
+        "num": 417123,
+        "word": "国乒不参加闭幕式",
+        "onboard_time": 1723369463,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 393849,
+        "num": 393849,
+        "word": "印度0金牌",
+        "onboard_time": 1723373603,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 368952,
+        "num": 368952,
+        "word": "王楚钦突然发现领奖服穿早了",
+        "onboard_time": 1723376608,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 367872,
+        "num": 367872,
+        "word": "女子疑拒将LV包放脚下致航班延误",
+        "onboard_time": 1723370843,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351792,
+        "num": 351792,
+        "word": "巴黎奥运会查出第4例兴奋剂阳性",
+        "onboard_time": 1723372462,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 347148,
+        "num": 347148,
+        "word": "广东新冠感染增加1万余病例",
+        "onboard_time": 1723376608,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343637,
+        "num": 343637,
+        "word": "中国境外奥运最佳",
+        "onboard_time": 1723382246,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292109,
+        "num": 292109,
+        "word": "日本摔跤绝杀美国",
+        "onboard_time": 1723382365,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258887,
+        "num": 258887,
+        "word": "日本多地已设近百避难所",
+        "onboard_time": 1723375164,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257223,
+        "num": 257223,
+        "word": "杭州姑娘养猫后身上发出铜钱印",
+        "onboard_time": 1723370364,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198834,
+        "num": 257094,
+        "word": "AG对战TTG",
+        "onboard_time": 1723381887,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 165375,
+        "num": 256891,
+        "word": "火朗正式退团",
+        "onboard_time": 1723371924,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198792,
+        "num": 256691,
+        "word": "EDG晋级冠军赛八强",
+        "onboard_time": 1723381828,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记感受文化中国#"
+    }
+  }
+}
