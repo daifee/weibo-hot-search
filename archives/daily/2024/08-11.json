@@ -1,6 +1,6 @@
 {
   "startTime": 1723307155481,
-  "endTime": 1723379770732,
+  "endTime": 1723380666728,
   "band_list": [
     {
       "raw_hot": 9791127,
@@ -11,8 +11,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 8254096,
+      "num": 8254096,
+      "word": "中国奖牌榜第1美网友破防",
+      "onboard_time": 1723375104,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 6391756,
-      "num": 597556,
+      "num": 1465415,
       "word": "孙颖莎请大家理性看待输赢",
       "onboard_time": 1723375644,
       "rank": 15,
@@ -43,14 +51,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 5802715,
-      "num": 5802715,
-      "word": "中国奖牌榜第1美网友破防",
-      "onboard_time": 1723375104,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 3062342,
       "num": 3062342,
       "word": "美国夺金点",
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 2919521,
-      "num": 597439,
+      "num": 882063,
       "word": "莎莎说大头永远是最好的搭档和朋友",
       "onboard_time": 1723375644,
       "rank": 25,
@@ -243,6 +243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1755284,
+      "num": 1755284,
+      "word": "场地自行车",
+      "onboard_time": 1723375044,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1720212,
       "num": 1720212,
       "word": "夺金点",
@@ -251,19 +259,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1715956,
-      "num": 1715956,
-      "word": "场地自行车",
-      "onboard_time": 1723375044,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1681323,
       "num": 1681323,
       "word": "孙颖莎 没人给咱照咱自己照",
       "onboard_time": 1723337242,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1637273,
+      "num": 1637273,
+      "word": "美国连摘两银",
+      "onboard_time": 1723380207,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -368,6 +376,22 @@
       "word": "邓亚萍 莎莎的战术对方研究得非常透",
       "onboard_time": 1723339042,
       "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1423959,
+      "num": 1423959,
+      "word": "中国金牌数创境外奥运新纪录",
+      "onboard_time": 1723380088,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1396984,
+      "num": 762924,
+      "word": "美国女排银牌",
+      "onboard_time": 1723379307,
+      "rank": 20,
       "category": "体育"
     },
     {
@@ -499,14 +523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1029378,
-      "num": 531715,
-      "word": "美国女排银牌",
-      "onboard_time": 1723379307,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1015574,
       "num": 536473,
       "word": "上海套内85平米的家",
@@ -539,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 972973,
+      "num": 744355,
+      "word": "金牌榜",
+      "onboard_time": 1723377630,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 965334,
       "num": 514583,
       "word": "李雯雯霸气示意安静",
@@ -564,7 +588,7 @@
     },
     {
       "raw_hot": 940679,
-      "num": 597763,
+      "num": 1513672,
       "word": "李雯雯喊下班了",
       "onboard_time": 1723377569,
       "rank": 8,
@@ -603,12 +627,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 899936,
+      "num": 704624,
+      "word": "美国女篮vs法国女篮",
+      "onboard_time": 1723380566,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 894358,
       "num": 894358,
       "word": "孙颖莎vs平野美宇",
       "onboard_time": 1723295303,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 883602,
+      "num": 883602,
+      "word": "塞尔维亚",
+      "onboard_time": 1723378406,
+      "rank": 38,
+      "category": "国外时政"
     },
     {
       "raw_hot": 876646,
@@ -648,14 +688,6 @@
       "word": "王楚钦晒国乒合照告别奥运",
       "onboard_time": 1723314315,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 805080,
-      "num": 531636,
-      "word": "金牌榜",
-      "onboard_time": 1723377630,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -716,7 +748,7 @@
     },
     {
       "raw_hot": 738966,
-      "num": 531502,
+      "num": 670944,
       "word": "樊振东让马龙保管金牌",
       "onboard_time": 1723377150,
       "rank": 31,
@@ -764,7 +796,7 @@
     },
     {
       "raw_hot": 686838,
-      "num": 686838,
+      "num": 1608608,
       "word": "虞书欣造型",
       "onboard_time": 1723375707,
       "rank": 19,
@@ -836,7 +868,7 @@
     },
     {
       "raw_hot": 617867,
-      "num": 531466,
+      "num": 595055,
       "word": "印度0金牌",
       "onboard_time": 1723373603,
       "rank": 47,
@@ -867,8 +899,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 597855,
-      "num": 597855,
+      "raw_hot": 599943,
+      "num": 1590899,
       "word": "魏晨去了张杰演唱会",
       "onboard_time": 1723377569,
       "rank": 7,
@@ -881,6 +913,14 @@
       "onboard_time": 1723314194,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 587753,
+      "num": 861091,
+      "word": "黄雅琼真去看周深演唱会了",
+      "onboard_time": 1723379607,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 577099,
@@ -924,7 +964,7 @@
     },
     {
       "raw_hot": 531827,
-      "num": 531827,
+      "num": 840277,
       "word": "潘玮柏 朋友们这照片不是真的",
       "onboard_time": 1723376423,
       "rank": 14,
@@ -939,20 +979,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 523461,
+      "num": 354589,
+      "word": "美国金牌",
+      "onboard_time": 1723379728,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 520986,
       "num": 520986,
       "word": "肯德基 恋与深空",
       "onboard_time": 1723373065,
       "rank": 13,
       "category": "游戏,美食"
-    },
-    {
-      "raw_hot": 511652,
-      "num": 511652,
-      "word": "塞尔维亚",
-      "onboard_time": 1723378406,
-      "rank": 38,
-      "category": "国外时政"
     },
     {
       "raw_hot": 510404,
@@ -977,14 +1017,6 @@
       "onboard_time": 1723303722,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 504931,
-      "num": 531602,
-      "word": "黄雅琼真去看周深演唱会了",
-      "onboard_time": 1723379607,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 498442,
@@ -1092,7 +1124,7 @@
     },
     {
       "raw_hot": 452656,
-      "num": 531743,
+      "num": 790050,
       "word": "撒贝宁王鸥综艺合体梦回明侦",
       "onboard_time": 1723373783,
       "rank": 19,
@@ -1164,11 +1196,19 @@
     },
     {
       "raw_hot": 430767,
-      "num": 531765,
+      "num": 806794,
       "word": "碧梨 奥运闭幕式",
       "onboard_time": 1723377331,
       "rank": 18,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 428687,
+      "num": 302514,
+      "word": "马龙说退役不会搞仪式",
+      "onboard_time": 1723380266,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 426387,
@@ -1185,6 +1225,14 @@
       "onboard_time": 1723339643,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 414469,
+      "num": 368426,
+      "word": "美国摔跤",
+      "onboard_time": 1723379667,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 402501,
@@ -1307,14 +1355,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 368426,
-      "num": 368426,
-      "word": "美国摔跤",
-      "onboard_time": 1723379667,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 365803,
       "num": 330519,
       "word": "美国跳高",
@@ -1328,14 +1368,6 @@
       "word": "孙颖莎提议给刘国梁戴金牌",
       "onboard_time": 1723335500,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 354589,
-      "num": 354589,
-      "word": "美国金牌",
-      "onboard_time": 1723379728,
-      "rank": 46,
       "category": "体育"
     },
     {
@@ -1772,7 +1804,7 @@
     },
     {
       "raw_hot": 264674,
-      "num": 531808,
+      "num": 884362,
       "word": "中国第40金",
       "onboard_time": 1723377751,
       "rank": 15,
@@ -1979,6 +2011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225126,
+      "num": 225126,
+      "word": "EDG对战PRX",
+      "onboard_time": 1723375465,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 222824,
       "num": 222824,
       "word": "世界上最矮的马有多矮",
@@ -2131,6 +2171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 205557,
+      "num": 205557,
+      "word": "张杰演唱会",
+      "onboard_time": 1723380626,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 205306,
       "num": 406738,
       "word": "TF家族四代公演",
@@ -2185,14 +2233,6 @@
       "onboard_time": 1723310120,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 201944,
-      "num": 201944,
-      "word": "EDG对战PRX",
-      "onboard_time": 1723375465,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 201709,
@@ -2724,7 +2764,7 @@
     },
     {
       "raw_hot": 106386,
-      "num": 531787,
+      "num": 893506,
       "word": "2025款极氪新品来了",
       "onboard_time": 1723379068,
       "rank": 16,
@@ -2769,6 +2809,14 @@
       "onboard_time": 1723346421,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94759,
+      "num": 1506145,
+      "word": "东京超市限购瓶装水",
+      "onboard_time": 1723379127,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 88874,
@@ -2819,6 +2867,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 74569,
+      "num": 3694508,
+      "word": "当文物撞脸表情包",
+      "onboard_time": 1723361961,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74041,
       "num": 367254,
       "word": "李雯雯纪录代名词",
@@ -2841,14 +2897,6 @@
       "onboard_time": 1723362021,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 63779,
-      "num": 3694508,
-      "word": "当文物撞脸表情包",
-      "onboard_time": 1723361961,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62467,
@@ -2880,6 +2928,14 @@
       "word": "致敬纯粹的热爱与专注",
       "onboard_time": 1723360042,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 59016,
+      "num": 605542,
+      "word": "致敬全力以赴的你",
+      "onboard_time": 1723379908,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -3009,14 +3065,6 @@
       "onboard_time": 1723325052,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 31433,
-      "num": 597735,
-      "word": "东京超市限购瓶装水",
-      "onboard_time": 1723379127,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 27608,
