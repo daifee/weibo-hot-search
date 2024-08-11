@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1723354514895,
+  "endTime": 1723357690193,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -3387,6 +3387,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 2307806,
+      "num": 2307806,
+      "word": "李发彬欧紫霞担任闭幕式中国旗手",
+      "onboard_time": 1723354581,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2301065,
       "num": 1012827,
       "word": "申裕斌的球拍上贴着马龙",
@@ -4777,6 +4785,14 @@
       "onboard_time": 1723213530,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1732744,
+      "num": 1732744,
+      "word": "奶茶被顺走当事人称不接受道歉",
+      "onboard_time": 1723353861,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1728097,
@@ -6795,6 +6811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1246638,
+      "num": 1246638,
+      "word": "樊振东逗马龙",
+      "onboard_time": 1723354400,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1244531,
       "num": 1244531,
       "word": "中国队男女4×100米混接力银牌",
@@ -8187,6 +8211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1015574,
+      "num": 414709,
+      "word": "上海套内85平米的家",
+      "onboard_time": 1723351700,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1013479,
       "num": 1013479,
       "word": "乌克兰举重",
@@ -8225,6 +8257,14 @@
       "onboard_time": 1723200566,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1006365,
+      "num": 1006365,
+      "word": "武汉一女子频繁美甲感染HPV",
+      "onboard_time": 1723355061,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 998018,
@@ -8497,14 +8537,6 @@
       "onboard_time": 1722520288,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 964886,
-      "num": 414709,
-      "word": "上海套内85平米的家",
-      "onboard_time": 1723351700,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 963985,
@@ -12379,6 +12411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 563160,
+      "num": 563160,
+      "word": "马龙集pin光正面就有15个",
+      "onboard_time": 1723353382,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 563057,
       "num": 563057,
       "word": "李发彬抓举成功",
@@ -13059,14 +13099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 514079,
-      "num": 450382,
-      "word": "樊振东逗马龙",
-      "onboard_time": 1723354400,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 513761,
       "num": 513761,
       "word": "难哄",
@@ -13545,6 +13577,14 @@
       "onboard_time": 1722819564,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 493186,
+      "num": 214776,
+      "word": "网球裙快成了打工人的新班服",
+      "onboard_time": 1723356801,
+      "rank": 21,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 492348,
@@ -18411,6 +18451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 325224,
+      "num": 212937,
+      "word": "孙颖莎堪称巴黎奥运乒乓队劳模",
+      "onboard_time": 1723355961,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 325162,
       "num": 325162,
       "word": "井胧 石凯看苍兰诀天天发朋友圈",
@@ -18649,14 +18697,6 @@
       "onboard_time": 1722839783,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 318908,
-      "num": 318908,
-      "word": "马龙集pin光正面就有15个",
-      "onboard_time": 1723353382,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 318867,
@@ -18923,6 +18963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 313500,
+      "num": 212428,
+      "word": "巴黎是樊振东的减肥营",
+      "onboard_time": 1723355301,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 313012,
       "num": 313012,
       "word": "樊振东 我是个要面子的人",
@@ -19040,6 +19088,14 @@
       "word": "郑思维 我们不知道他们都知道",
       "onboard_time": 1722619755,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 310831,
+      "num": 214841,
+      "word": "厦门女程序员奥运大众马拉松女子第一",
+      "onboard_time": 1723352961,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -20731,14 +20787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 282949,
-      "num": 282949,
-      "word": "奶茶被顺走当事人称不接受道歉",
-      "onboard_time": 1723353861,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 282842,
       "num": 282842,
       "word": "张雨霏200蝶小组第一",
@@ -22232,6 +22280,14 @@
       "word": "中国第18金",
       "onboard_time": 1722780042,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 253951,
+      "num": 211157,
+      "word": "孙颖莎说想成为前辈那样的大魔王",
+      "onboard_time": 1723355961,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -24035,6 +24091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222538,
+      "num": 213888,
+      "word": "姜思达巴黎奥运会奖牌",
+      "onboard_time": 1723356320,
+      "rank": 26,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 222471,
       "num": 222471,
       "word": "石智勇致歉",
@@ -24611,6 +24675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215013,
+      "num": 333984,
+      "word": "田径女子马拉松决赛",
+      "onboard_time": 1723353262,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215012,
       "num": 215012,
       "word": "线条小狗",
@@ -24633,14 +24705,6 @@
       "onboard_time": 1723262959,
       "rank": 43,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 214841,
-      "num": 214841,
-      "word": "厦门女程序员奥运大众马拉松女子第一",
-      "onboard_time": 1723352961,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 214609,
@@ -24681,6 +24745,14 @@
       "onboard_time": 1722969973,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213881,
+      "num": 213881,
+      "word": "虞书欣 是你们那代的拍照姿势吗",
+      "onboard_time": 1723355420,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 213838,
@@ -25667,6 +25739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203829,
+      "num": 436104,
+      "word": "洛杉矶8分钟变12分钟",
+      "onboard_time": 1723354342,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203807,
       "num": 203807,
       "word": "胡夏被尤长靖气到咆哮",
@@ -25881,6 +25961,14 @@
       "onboard_time": 1723184840,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 201709,
+      "num": 201709,
+      "word": "晋江文检察官有脸了",
+      "onboard_time": 1723354400,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 201707,
@@ -26539,6 +26627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195775,
+      "num": 520621,
+      "word": "给曾舜晞提名最惨男主角",
+      "onboard_time": 1723347562,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195753,
       "num": 195753,
       "word": "孙颖莎说东京奥运后有过艰难时光",
@@ -26697,14 +26793,6 @@
       "onboard_time": 1722536594,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 194059,
-      "num": 194059,
-      "word": "晋江文检察官有脸了",
-      "onboard_time": 1723354400,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 194049,
@@ -26897,6 +26985,14 @@
       "onboard_time": 1723267821,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191987,
+      "num": 191987,
+      "word": "王昶模仿梁伟铿生气",
+      "onboard_time": 1723356801,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 191965,
@@ -27305,14 +27401,6 @@
       "onboard_time": 1722899839,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 187790,
-      "num": 520621,
-      "word": "给曾舜晞提名最惨男主角",
-      "onboard_time": 1723347562,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 187788,
@@ -28819,6 +28907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159098,
+      "num": 170172,
+      "word": "王楚钦奥运会发球直接得分合辑",
+      "onboard_time": 1723357041,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158603,
       "num": 158603,
       "word": "七夕怎么过",
@@ -29073,6 +29169,14 @@
       "onboard_time": 1722862827,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151741,
+      "num": 168797,
+      "word": "王昶认为自己不算天才每场球都很拼",
+      "onboard_time": 1723357521,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 151535,
@@ -29739,6 +29843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129647,
+      "num": 597886,
+      "word": "想念福娃的风吹到了巴黎",
+      "onboard_time": 1723354640,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129568,
       "num": 1890650,
       "word": "古代人在七夕节也太会玩了",
@@ -29969,6 +30081,14 @@
       "onboard_time": 1723209390,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 120068,
+      "num": 214336,
+      "word": "听我的这两张脸就演双强",
+      "onboard_time": 1723356860,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 119992,
@@ -30537,6 +30657,14 @@
       "onboard_time": 1723097723,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 99856,
+      "num": 213575,
+      "word": "涂筱柠 普通人的无力感",
+      "onboard_time": 1723357221,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 99269,
@@ -32097,14 +32225,6 @@
       "onboard_time": 1722920908,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 59008,
-      "num": 436104,
-      "word": "洛杉矶8分钟变12分钟",
-      "onboard_time": 1723354342,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 58689,
@@ -34472,14 +34592,6 @@
       "word": "吴艳妮说会向更高处攀登",
       "onboard_time": 1723188744,
       "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 12374,
-      "num": 333984,
-      "word": "田径女子马拉松决赛",
-      "onboard_time": 1723353262,
-      "rank": 19,
       "category": "体育"
     },
     {
