@@ -1,6 +1,6 @@
 {
   "startTime": 1723307155481,
-  "endTime": 1723368921647,
+  "endTime": 1723371604664,
   "band_list": [
     {
       "raw_hot": 6347529,
@@ -107,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2335295,
+      "num": 1881585,
+      "word": "女子备孕9年产下超早产儿双胞胎",
+      "onboard_time": 1723367724,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2307806,
       "num": 2307806,
       "word": "李发彬欧紫霞担任闭幕式中国旗手",
@@ -131,20 +139,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2072806,
+      "num": 2072806,
+      "word": "国乒回国",
+      "onboard_time": 1723368202,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1972153,
       "num": 1972153,
       "word": "樊振东沉默的那一下马龙动容了",
       "onboard_time": 1723339042,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1881585,
-      "num": 1881585,
-      "word": "女子备孕9年产下超早产儿双胞胎",
-      "onboard_time": 1723367724,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1809366,
@@ -155,11 +163,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1809171,
+      "num": 1809171,
+      "word": "嘉文 出轨",
+      "onboard_time": 1723367421,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1720212,
       "num": 1720212,
       "word": "夺金点",
       "onboard_time": 1723305504,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1695686,
+      "num": 1695686,
+      "word": "女子举重81公斤以上级",
+      "onboard_time": 1723366283,
+      "rank": 6,
       "category": "体育"
     },
     {
@@ -363,14 +387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1048402,
-      "num": 1048402,
-      "word": "嘉文 出轨",
-      "onboard_time": 1723367421,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
       "raw_hot": 1030902,
       "num": 1030902,
       "word": "张怡宁说全部人都觉得樊振东打得好",
@@ -401,6 +417,14 @@
       "onboard_time": 1723333518,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 952544,
+      "num": 952544,
+      "word": "孙颖莎聊和王楚钦的混双金牌",
+      "onboard_time": 1723368202,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 943361,
@@ -612,11 +636,19 @@
     },
     {
       "raw_hot": 625256,
-      "num": 932550,
+      "num": 1202085,
       "word": "易梦玲进组",
       "onboard_time": 1723367663,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 612679,
+      "num": 339588,
+      "word": "国乒不参加闭幕式",
+      "onboard_time": 1723369463,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 602967,
@@ -739,6 +771,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 475219,
+      "num": 1114972,
+      "word": "李雯雯冲击举重最后1金",
+      "onboard_time": 1723368683,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 473384,
       "num": 1641918,
       "word": "武僧秋风姐姐发声",
@@ -835,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 397356,
+      "num": 900425,
+      "word": "举重选手李雯雯力争卫冕",
+      "onboard_time": 1723365263,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 397102,
       "num": 1164367,
       "word": "秋瓷炫怕胖吐司只吃一口",
@@ -851,16 +899,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 393040,
-      "num": 393040,
-      "word": "国乒回国",
-      "onboard_time": 1723368202,
-      "rank": 22,
-      "category": "体育"
+      "raw_hot": 389507,
+      "num": 389507,
+      "word": "李胜利就提及权志龙道歉",
+      "onboard_time": 1723370602,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 380307,
-      "num": 281277,
+      "num": 321747,
       "word": "英国跳水名宿解读中国十米跳台技术",
       "onboard_time": 1723367602,
       "rank": 30,
@@ -899,6 +947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 374890,
+      "num": 333488,
+      "word": "闭幕式脚本已经被修改数十次",
+      "onboard_time": 1723369402,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 372915,
       "num": 372915,
       "word": "中国39金追平伦敦奥运",
@@ -923,11 +979,35 @@
       "category": "网红"
     },
     {
+      "raw_hot": 365803,
+      "num": 330519,
+      "word": "美国跳高",
+      "onboard_time": 1723367243,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 364454,
       "num": 301267,
       "word": "孙颖莎提议给刘国梁戴金牌",
       "onboard_time": 1723335500,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 356287,
+      "num": 326475,
+      "word": "杭州姑娘养猫后身上发出铜钱印",
+      "onboard_time": 1723370364,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 354556,
+      "num": 322719,
+      "word": "澳大利亚霹雳舞0分",
+      "onboard_time": 1723370903,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -953,6 +1033,14 @@
       "onboard_time": 1723356320,
       "rank": 26,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 349093,
+      "num": 1088577,
+      "word": "官方回应导游嘲讽游客穷就别出来",
+      "onboard_time": 1723367724,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 339699,
@@ -1011,14 +1099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 328092,
-      "num": 900425,
-      "word": "举重选手李雯雯力争卫冕",
-      "onboard_time": 1723365263,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 327149,
       "num": 327149,
       "word": "秋风家人已委托律师跟进",
@@ -1056,14 +1136,6 @@
       "word": "早田给孙颖莎拨拉头发上的碎屑",
       "onboard_time": 1723348222,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 316327,
-      "num": 316327,
-      "word": "孙颖莎聊和王楚钦的混双金牌",
-      "onboard_time": 1723368202,
-      "rank": 26,
       "category": "体育"
     },
     {
@@ -1227,14 +1299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 281288,
-      "num": 1217554,
-      "word": "女子举重81公斤以上级",
-      "onboard_time": 1723366283,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 280638,
       "num": 280638,
       "word": "张本兄妹被困住的一生",
@@ -1291,6 +1355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 269136,
+      "num": 233477,
+      "word": "孙颖莎说非常感谢倪阿姨的陪练",
+      "onboard_time": 1723369524,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 268259,
       "num": 892366,
       "word": "中国队还有哪些冲金点",
@@ -1307,6 +1379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267581,
+      "num": 229408,
+      "word": "陈梦和黄晓明就是彼此的万能公式",
+      "onboard_time": 1723371202,
+      "rank": 38,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 267207,
       "num": 616167,
       "word": "广东6岁女孩从攀岩墙上坠落身亡",
@@ -1320,6 +1400,22 @@
       "word": "中国本届奥运会已有8位双金王",
       "onboard_time": 1723310300,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 264970,
+      "num": 264970,
+      "word": "国产大型无人运输机成功首飞",
+      "onboard_time": 1723365982,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 261974,
+      "num": 226355,
+      "word": "马龙真得好体贴呀",
+      "onboard_time": 1723371443,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -1443,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239796,
+      "num": 239796,
+      "word": "减糖控糖重点是少吃这种糖",
+      "onboard_time": 1723368683,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 237824,
       "num": 237824,
       "word": "林高远 大家抗住了重重压力",
@@ -1497,6 +1601,14 @@
       "onboard_time": 1723344681,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 226038,
+      "num": 226038,
+      "word": "汪顺一边采访一边采血",
+      "onboard_time": 1723371202,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 225914,
@@ -1587,11 +1699,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 213969,
-      "num": 213969,
-      "word": "美国跳高",
-      "onboard_time": 1723367243,
-      "rank": 43,
+      "raw_hot": 213674,
+      "num": 986798,
+      "word": "雯雯稳稳的",
+      "onboard_time": 1723370783,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -1891,14 +2003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 182236,
-      "num": 182236,
-      "word": "国产大型无人运输机成功首飞",
-      "onboard_time": 1723365982,
-      "rank": 47,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 181721,
       "num": 181721,
       "word": "马龙曾说想当中国乒乓的传奇",
@@ -1929,14 +2033,6 @@
       "onboard_time": 1723345162,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 174122,
-      "num": 174122,
-      "word": "减糖控糖重点是少吃这种糖",
-      "onboard_time": 1723368683,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 171877,
@@ -2043,6 +2139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 157044,
+      "num": 327729,
+      "word": "周深说自己是收获满满的空壳",
+      "onboard_time": 1723371023,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 155368,
       "num": 155368,
       "word": "陈梦讲青岛话像是一秒回家了",
@@ -2057,6 +2161,14 @@
       "onboard_time": 1723349602,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 153516,
+      "num": 153516,
+      "word": "阿根廷男子遭解雇后开飞机撞工厂",
+      "onboard_time": 1723371443,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150705,
@@ -2081,6 +2193,14 @@
       "onboard_time": 1723325713,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144674,
+      "num": 153508,
+      "word": "女子疑拒将LV包放脚下致航班延误",
+      "onboard_time": 1723370843,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141509,
@@ -2123,12 +2243,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 135272,
+      "num": 153482,
+      "word": "aespa韩版VOGUE金九预告",
+      "onboard_time": 1723369164,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 130716,
       "num": 684721,
       "word": "孙颖莎说与邱贻可一起奋斗很幸福",
       "onboard_time": 1723364541,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130535,
+      "num": 153432,
+      "word": "一生所爱原唱已经74岁了",
+      "onboard_time": 1723369524,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 122214,
@@ -2211,14 +2347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 95801,
-      "num": 1088577,
-      "word": "官方回应导游嘲讽游客穷就别出来",
-      "onboard_time": 1723367724,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 88874,
       "num": 428533,
       "word": "魏哲鸣看吻戏有种公开处刑的感觉",
@@ -2283,6 +2411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62467,
+      "num": 672561,
+      "word": "成毅睡颜杀",
+      "onboard_time": 1723366342,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 62435,
       "num": 272173,
       "word": "闭幕式旗手为何选择女子曲棍队长",
@@ -2292,7 +2428,7 @@
     },
     {
       "raw_hot": 61580,
-      "num": 1570196,
+      "num": 1701467,
       "word": "300金长卷铺就体育强国路",
       "onboard_time": 1723362622,
       "rank": 2,
@@ -2371,14 +2507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 41238,
-      "num": 672561,
-      "word": "成毅睡颜杀",
-      "onboard_time": 1723366342,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 41122,
       "num": 1256995,
       "word": "以体育竞技燃动体育经济",
@@ -2449,14 +2577,6 @@
       "onboard_time": 1723294763,
       "rank": 2,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 25455,
-      "num": 905309,
-      "word": "李雯雯冲击举重最后1金",
-      "onboard_time": 1723368683,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 15848,
