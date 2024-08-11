@@ -1,0 +1,410 @@
+{
+  "runTime": 1723344748209,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2613858,
+        "num": 2613858,
+        "word": "孙颖莎用pin哄张本美和",
+        "onboard_time": 1723339402,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1912265,
+        "num": 1912265,
+        "word": "樊振东沉默的那一下马龙动容了",
+        "onboard_time": 1723339042,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10113,
+        "num": 1264433,
+        "word": "北京中轴线漫步指南",
+        "onboard_time": 1723294763,
+        "rank": 2,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1174040,
+        "num": 1174040,
+        "word": "张本智和删简介",
+        "onboard_time": 1723342942,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 974686,
+        "num": 974686,
+        "word": "国乒女团金牌",
+        "onboard_time": 1723303593,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 961300,
+        "num": 961300,
+        "word": "孙颖莎 没人给咱照咱自己照",
+        "onboard_time": 1723337242,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 889801,
+        "num": 889801,
+        "word": "德天瀑布1死60伤事故目击者讲述",
+        "onboard_time": 1723337482,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 885830,
+        "num": 885830,
+        "word": "魏大勋 祝xyy七夕快乐",
+        "onboard_time": 1723333518,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 838548,
+        "num": 838548,
+        "word": "莫雷加德拍出了人生照片",
+        "onboard_time": 1723336159,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 562908,
+        "num": 735927,
+        "word": "许嵩说七夕是他第一次也是最后一次唱",
+        "onboard_time": 1723335860,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1362077,
+        "num": 713452,
+        "word": "邓亚萍 莎莎的战术对方研究得非常透",
+        "onboard_time": 1723339042,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 951365,
+        "num": 708124,
+        "word": "全红婵家门口变成小吃一条街了",
+        "onboard_time": 1723330514,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 658314,
+        "num": 658314,
+        "word": "Uzi巴黎全马",
+        "onboard_time": 1723340123,
+        "rank": 12,
+        "category": "电竞,体育"
+      },
+      {
+        "raw_hot": 653419,
+        "num": 653419,
+        "word": "德天瀑布魔毯故障1名游客死亡",
+        "onboard_time": 1723294281,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412127,
+        "num": 412127,
+        "word": "Uzi马拉松完赛",
+        "onboard_time": 1723343541,
+        "rank": 14,
+        "category": "电竞,体育"
+      },
+      {
+        "raw_hot": 787644,
+        "num": 412083,
+        "word": "樊振东说未来不一定是乒乓球了",
+        "onboard_time": 1723290623,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 687466,
+        "num": 411384,
+        "word": "乒乓女团奥运5连冠",
+        "onboard_time": 1723303962,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307786,
+        "num": 410596,
+        "word": "周深七夕发糖了",
+        "onboard_time": 1723342343,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218289,
+        "num": 410182,
+        "word": "吴谨言在Twins演唱会过七夕",
+        "onboard_time": 1723344322,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191336,
+        "num": 409407,
+        "word": "杨紫爸妈在张杰演唱会过七夕",
+        "onboard_time": 1723310898,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 54273,
+        "num": 408908,
+        "word": "原来北京中轴线不是正南正北",
+        "onboard_time": 1723339103,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581191,
+        "num": 408404,
+        "word": "张本智和拿妹妹银牌拍照",
+        "onboard_time": 1723328713,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 575114,
+        "num": 408121,
+        "word": "谷爱凌首个全马3小时24分36秒",
+        "onboard_time": 1723336159,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 530727,
+        "num": 407519,
+        "word": "石川佳纯见到马龙了",
+        "onboard_time": 1723311018,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56428,
+        "num": 406886,
+        "word": "暑期又有6个孩子溺水离世最小仅2岁",
+        "onboard_time": 1723344622,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524491,
+        "num": 406161,
+        "word": "孙颖莎陈梦 是对手更是队友",
+        "onboard_time": 1723300657,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 500266,
+        "num": 405648,
+        "word": "孙颖莎冷静得可怕",
+        "onboard_time": 1723299749,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 441030,
+        "num": 405369,
+        "word": "库里连中四个三分",
+        "onboard_time": 1723324872,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164016,
+        "num": 404722,
+        "word": "杨恩又问朱一龙奖杯收到了吗",
+        "onboard_time": 1723342942,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 82524,
+        "num": 404188,
+        "word": "美国决定不制裁以色列军队",
+        "onboard_time": 1723344681,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 413308,
+        "num": 403730,
+        "word": "中美夺金点分析",
+        "onboard_time": 1723338621,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 403250,
+        "num": 403250,
+        "word": "中国第39金",
+        "onboard_time": 1723323912,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 387967,
+        "num": 387967,
+        "word": "美跳高选手回应拒绝共享金牌",
+        "onboard_time": 1723342221,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 377695,
+        "num": 377695,
+        "word": "马龙刘诗雯同框",
+        "onboard_time": 1723338741,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134488,
+        "num": 376604,
+        "word": "三个人炸出了虞书欣所有cp",
+        "onboard_time": 1723327633,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 376414,
+        "num": 376414,
+        "word": "租客因室友有猝死风险退租房东求助",
+        "onboard_time": 1723339643,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356274,
+        "num": 356274,
+        "word": "中国双胞胎花游金牌",
+        "onboard_time": 1723317614,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355857,
+        "num": 355857,
+        "word": "孙颖莎撤回了一个陈梦",
+        "onboard_time": 1723308741,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 347593,
+        "num": 347593,
+        "word": "王楚钦晒国乒合照告别奥运",
+        "onboard_time": 1723314315,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116935,
+        "num": 282011,
+        "word": "广西万物皆可酸嘢",
+        "onboard_time": 1723343302,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278574,
+        "num": 278574,
+        "word": "马龙说希望下届奥运会樊振东依然在",
+        "onboard_time": 1723342523,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275623,
+        "num": 275623,
+        "word": "谁将担任中国代表团闭幕式旗手",
+        "onboard_time": 1723340543,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251794,
+        "num": 251794,
+        "word": "刘国梁夸赞樊振东支起球队信心",
+        "onboard_time": 1723341142,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237821,
+        "num": 237821,
+        "word": "孙颖莎颁奖仪式上又整活了",
+        "onboard_time": 1723344201,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234748,
+        "num": 234748,
+        "word": "中国队冲击四十金",
+        "onboard_time": 1723343842,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232796,
+        "num": 232796,
+        "word": "李倩哭着感谢自己没放弃",
+        "onboard_time": 1723342881,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230697,
+        "num": 230697,
+        "word": "刘国梁说樊振东夺冠是关键转折点",
+        "onboard_time": 1723343481,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226686,
+        "num": 226686,
+        "word": "秋风家人已委托律师跟进",
+        "onboard_time": 1723335320,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219628,
+        "num": 219628,
+        "word": "爸爸去世前的搜索记录",
+        "onboard_time": 1723309221,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124975,
+        "num": 213896,
+        "word": "芒果的精神状态还是太超前了",
+        "onboard_time": 1723312575,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1723307155481,
-  "endTime": 1723344137577,
+  "endTime": 1723344748209,
   "band_list": [
     {
       "raw_hot": 6347529,
@@ -179,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1174040,
+      "num": 1174040,
+      "word": "张本智和删简介",
+      "onboard_time": 1723342942,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1145070,
       "num": 1145070,
       "word": "国乒巴黎奥运会大合照",
@@ -312,14 +320,6 @@
       "word": "王楚钦晒国乒合照告别奥运",
       "onboard_time": 1723314315,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 823544,
-      "num": 743741,
-      "word": "张本智和删简介",
-      "onboard_time": 1723342942,
-      "rank": 12,
       "category": "体育"
     },
     {
@@ -547,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 412127,
+      "num": 412127,
+      "word": "Uzi马拉松完赛",
+      "onboard_time": 1723343541,
+      "rank": 33,
+      "category": "电竞,体育"
+    },
+    {
       "raw_hot": 398395,
       "num": 398395,
       "word": "国乒女团夺冠后采访",
@@ -560,6 +568,22 @@
       "word": "孙颖莎大合照踮脚",
       "onboard_time": 1723329494,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 387967,
+      "num": 387967,
+      "word": "美跳高选手回应拒绝共享金牌",
+      "onboard_time": 1723342221,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 377695,
+      "num": 377695,
+      "word": "马龙刘诗雯同框",
+      "onboard_time": 1723338741,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -587,14 +611,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 370111,
-      "num": 340303,
-      "word": "马龙刘诗雯同框",
-      "onboard_time": 1723338741,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 364454,
       "num": 301267,
       "word": "孙颖莎提议给刘国梁戴金牌",
@@ -616,14 +632,6 @@
       "word": "美国男篮奥运冠军",
       "onboard_time": 1723326132,
       "rank": 17,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 338780,
-      "num": 243164,
-      "word": "美跳高选手回应拒绝共享金牌",
-      "onboard_time": 1723342221,
-      "rank": 35,
       "category": "体育"
     },
     {
@@ -675,12 +683,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 303027,
-      "num": 303027,
-      "word": "Uzi马拉松完赛",
-      "onboard_time": 1723343541,
-      "rank": 33,
-      "category": "电竞,体育"
+      "raw_hot": 307786,
+      "num": 629723,
+      "word": "周深七夕发糖了",
+      "onboard_time": 1723342343,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 298667,
@@ -723,20 +731,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278574,
+      "num": 278574,
+      "word": "马龙说希望下届奥运会樊振东依然在",
+      "onboard_time": 1723342523,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 277488,
-      "num": 240502,
+      "num": 275623,
       "word": "谁将担任中国代表团闭幕式旗手",
       "onboard_time": 1723340543,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 269198,
-      "num": 629723,
-      "word": "周深七夕发糖了",
-      "onboard_time": 1723342343,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 265396,
@@ -772,7 +780,7 @@
     },
     {
       "raw_hot": 253523,
-      "num": 239576,
+      "num": 251794,
       "word": "刘国梁夸赞樊振东支起球队信心",
       "onboard_time": 1723341142,
       "rank": 42,
@@ -803,11 +811,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 239233,
-      "num": 239233,
-      "word": "马龙说希望下届奥运会樊振东依然在",
-      "onboard_time": 1723342523,
-      "rank": 40,
+      "raw_hot": 237821,
+      "num": 237821,
+      "word": "孙颖莎颁奖仪式上又整活了",
+      "onboard_time": 1723344201,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -827,11 +835,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 230060,
-      "num": 230060,
+      "raw_hot": 232796,
+      "num": 232796,
       "word": "李倩哭着感谢自己没放弃",
       "onboard_time": 1723342881,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 230697,
+      "num": 230697,
+      "word": "刘国梁说樊振东夺冠是关键转折点",
+      "onboard_time": 1723343481,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -851,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 218289,
+      "num": 410182,
+      "word": "吴谨言在Twins演唱会过七夕",
+      "onboard_time": 1723344322,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 215906,
       "num": 215906,
       "word": "孙颖莎回应首局逆转",
@@ -860,7 +884,7 @@
     },
     {
       "raw_hot": 215799,
-      "num": 215799,
+      "num": 282011,
       "word": "广西万物皆可酸嘢",
       "onboard_time": 1723343302,
       "rank": 46,
@@ -1147,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82524,
+      "num": 404188,
+      "word": "美国决定不制裁以色列军队",
+      "onboard_time": 1723344681,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 79387,
       "num": 171605,
       "word": "你的外卖员正在发疯",
@@ -1161,6 +1193,22 @@
       "onboard_time": 1723324812,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56428,
+      "num": 406886,
+      "word": "暑期又有6个孩子溺水离世最小仅2岁",
+      "onboard_time": 1723344622,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54273,
+      "num": 763644,
+      "word": "原来北京中轴线不是正南正北",
+      "onboard_time": 1723339103,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52759,
@@ -1185,14 +1233,6 @@
       "onboard_time": 1723314675,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 45757,
-      "num": 763644,
-      "word": "原来北京中轴线不是正南正北",
-      "onboard_time": 1723339103,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41474,
