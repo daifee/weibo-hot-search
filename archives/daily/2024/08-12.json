@@ -1,6 +1,6 @@
 {
   "startTime": 1723393401015,
-  "endTime": 1723394318247,
+  "endTime": 1723396655470,
   "band_list": [
     {
       "raw_hot": 15817207,
@@ -15,6 +15,14 @@
       "num": 3188139,
       "word": "美国女篮vs法国女篮",
       "onboard_time": 1723380566,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2804026,
+      "num": 2804026,
+      "word": "孙颖莎闭幕式有互动环节",
+      "onboard_time": 1723395917,
       "rank": 1,
       "category": "体育"
     },
@@ -35,6 +43,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1173906,
+      "num": 1173906,
+      "word": "孙颖莎邱贻可散装英语勇闯法国",
+      "onboard_time": 1723393221,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1017126,
       "num": 1017126,
       "word": "中国奖牌榜第1美网友破防",
@@ -43,11 +59,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 916556,
+      "num": 916556,
+      "word": "瑞幸向易烊千玺道歉",
+      "onboard_time": 1723393281,
+      "rank": 49,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 893350,
       "num": 893350,
       "word": "法国要是赢了",
       "onboard_time": 1723389573,
       "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 878032,
+      "num": 228562,
+      "word": "孙颖莎巴黎街头吃冰淇淋",
+      "onboard_time": 1723394299,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -64,14 +96,6 @@
       "word": "莎莎说大头永远是最好的搭档和朋友",
       "onboard_time": 1723375644,
       "rank": 10,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 645354,
-      "num": 314685,
-      "word": "孙颖莎邱贻可散装英语勇闯法国",
-      "onboard_time": 1723393221,
-      "rank": 32,
       "category": "体育"
     },
     {
@@ -123,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 518802,
+      "num": 264877,
+      "word": "马龙说可以去洛杉矶做饭",
+      "onboard_time": 1723390885,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 484941,
       "num": 328933,
       "word": "孙杨 全运会",
@@ -144,14 +176,6 @@
       "word": "威廉姆斯好帅",
       "onboard_time": 1723391245,
       "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 424418,
-      "num": 264877,
-      "word": "马龙说可以去洛杉矶做饭",
-      "onboard_time": 1723390885,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -267,14 +291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 282634,
-      "num": 282634,
-      "word": "瑞幸向易烊千玺道歉",
-      "onboard_time": 1723393281,
-      "rank": 49,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 279503,
       "num": 240539,
       "word": "女子备孕9年产下超早产儿双胞胎",
@@ -315,6 +331,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 210668,
+      "num": 136457,
+      "word": "国羽除了梁伟铿都在看演唱会",
+      "onboard_time": 1723396337,
+      "rank": 26,
+      "category": "体育,演出"
+    },
+    {
+      "raw_hot": 209233,
+      "num": 209233,
+      "word": "华晨宇 我没事放心吧",
+      "onboard_time": 1723393821,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 201886,
       "num": 201886,
       "word": "致奥运会中国体育代表团的贺电",
@@ -345,14 +377,6 @@
       "onboard_time": 1723393459,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 195122,
-      "num": 195122,
-      "word": "华晨宇 我没事放心吧",
-      "onboard_time": 1723393821,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 194601,
@@ -419,14 +443,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 171273,
-      "num": 171273,
-      "word": "孙颖莎巴黎街头吃冰淇淋",
-      "onboard_time": 1723394299,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 169268,
       "num": 194529,
       "word": "薛之谦 新歌常发但毫无水花",
@@ -443,11 +459,59 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146997,
+      "num": 121926,
+      "word": "中国代表团1破世界纪录",
+      "onboard_time": 1723395139,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 137848,
+      "num": 120553,
+      "word": "我为中国队骄傲",
+      "onboard_time": 1723395738,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 124910,
+      "num": 124910,
+      "word": "刘端端被起哄登基庆余年DNA动了",
+      "onboard_time": 1723396216,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 118303,
+      "num": 118303,
+      "word": "巴黎奥运会张雨霏奖牌数最多",
+      "onboard_time": 1723396216,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 117757,
+      "num": 117757,
+      "word": "李雯雯金牌",
+      "onboard_time": 1723376495,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71741,
       "num": 221654,
       "word": "日本多地已设近百避难所",
       "onboard_time": 1723375164,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16619,
+      "num": 1861007,
+      "word": "加快经济社会发展全面绿色转型",
+      "onboard_time": 1723381347,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

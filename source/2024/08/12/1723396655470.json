@@ -1,0 +1,410 @@
+{
+  "runTime": 1723396655470,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6668627,
+        "num": 6668627,
+        "word": "中国金牌榜并列第一",
+        "onboard_time": 1723390055,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2804026,
+        "num": 2804026,
+        "word": "孙颖莎闭幕式有互动环节",
+        "onboard_time": 1723395917,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16619,
+        "num": 1861007,
+        "word": "加快经济社会发展全面绿色转型",
+        "onboard_time": 1723381347,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1173906,
+        "num": 1173906,
+        "word": "孙颖莎邱贻可散装英语勇闯法国",
+        "onboard_time": 1723393221,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 916556,
+        "num": 916556,
+        "word": "瑞幸向易烊千玺道歉",
+        "onboard_time": 1723393281,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 798404,
+        "num": 798404,
+        "word": "中国赢得对美反兴奋剂斗争阶段性胜利",
+        "onboard_time": 1723391603,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 753860,
+        "num": 753860,
+        "word": "王楚钦飞机上签名球拍",
+        "onboard_time": 1723389453,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284350,
+        "num": 284350,
+        "word": "黄子韬许愿和徐艺洋一生一世",
+        "onboard_time": 1723383626,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240736,
+        "num": 240736,
+        "word": "在披哥看李佳琦直播",
+        "onboard_time": 1723391006,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 710325,
+        "num": 233249,
+        "word": "中国金牌数创境外奥运新纪录",
+        "onboard_time": 1723380088,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 878032,
+        "num": 228562,
+        "word": "孙颖莎巴黎街头吃冰淇淋",
+        "onboard_time": 1723394299,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 518802,
+        "num": 222141,
+        "word": "马龙说可以去洛杉矶做饭",
+        "onboard_time": 1723390885,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209233,
+        "num": 209233,
+        "word": "华晨宇 我没事放心吧",
+        "onboard_time": 1723393821,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191894,
+        "num": 191894,
+        "word": "瑞幸致歉信",
+        "onboard_time": 1723383147,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 188211,
+        "num": 188211,
+        "word": "虞书欣造型",
+        "onboard_time": 1723375707,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400778,
+        "num": 185050,
+        "word": "中国奖牌榜第1美网友破防",
+        "onboard_time": 1723375104,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 312126,
+        "num": 181763,
+        "word": "孙颖莎回应从开幕式打到闭幕式",
+        "onboard_time": 1723391723,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291549,
+        "num": 181093,
+        "word": "莎莎说大头永远是最好的搭档和朋友",
+        "onboard_time": 1723375644,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178028,
+        "num": 178028,
+        "word": "张杰官宣世界巡演",
+        "onboard_time": 1723384225,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150132,
+        "num": 150132,
+        "word": "钟辰乐直播",
+        "onboard_time": 1723391843,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276376,
+        "num": 148083,
+        "word": "孙杨 全运会",
+        "onboard_time": 1723386026,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261150,
+        "num": 147670,
+        "word": "国乒女团金牌",
+        "onboard_time": 1723303593,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241623,
+        "num": 143773,
+        "word": "向佐说香港又不是我的",
+        "onboard_time": 1723389028,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230269,
+        "num": 143363,
+        "word": "发现日本网友真的很爱孙颖莎",
+        "onboard_time": 1723388426,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218925,
+        "num": 140945,
+        "word": "60秒盘点巴黎奥运会燃金时刻",
+        "onboard_time": 1723386627,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217905,
+        "num": 139087,
+        "word": "巴黎奥运会闭幕式",
+        "onboard_time": 1723385368,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210668,
+        "num": 136457,
+        "word": "国羽除了梁伟铿都在看演唱会",
+        "onboard_time": 1723396337,
+        "rank": 26,
+        "category": "体育,演出"
+      },
+      {
+        "raw_hot": 208606,
+        "num": 134326,
+        "word": "乒乓女团奥运5连冠",
+        "onboard_time": 1723303962,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132777,
+        "num": 132777,
+        "word": "疑似李闽轩小号",
+        "onboard_time": 1723385307,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125082,
+        "num": 125082,
+        "word": "潘玮柏 朋友们这照片不是真的",
+        "onboard_time": 1723376423,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191666,
+        "num": 125006,
+        "word": "法国要是赢了",
+        "onboard_time": 1723389573,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187437,
+        "num": 124974,
+        "word": "美国女篮vs法国女篮",
+        "onboard_time": 1723380566,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126569,
+        "num": 124968,
+        "word": "女子备孕9年产下超早产儿双胞胎",
+        "onboard_time": 1723367724,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124910,
+        "num": 124910,
+        "word": "刘端端被起哄登基庆余年DNA动了",
+        "onboard_time": 1723396216,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124369,
+        "num": 124369,
+        "word": "广东新冠感染增加1万余病例",
+        "onboard_time": 1723376608,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181372,
+        "num": 123699,
+        "word": "早田希娜说接下来四年会更加艰难",
+        "onboard_time": 1723391424,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165536,
+        "num": 123088,
+        "word": "原来奥运冠军是你女儿啊",
+        "onboard_time": 1723389389,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156175,
+        "num": 122399,
+        "word": "石智勇 是金牌数量最多的运动员了",
+        "onboard_time": 1723388548,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146997,
+        "num": 121926,
+        "word": "中国代表团1破世界纪录",
+        "onboard_time": 1723395139,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140083,
+        "num": 120849,
+        "word": "威廉姆斯好帅",
+        "onboard_time": 1723391245,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137848,
+        "num": 120553,
+        "word": "我为中国队骄傲",
+        "onboard_time": 1723395738,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137412,
+        "num": 119358,
+        "word": "孙颖莎说陈梦值得她学习",
+        "onboard_time": 1723393042,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119114,
+        "num": 119114,
+        "word": "嘉文 出轨",
+        "onboard_time": 1723367421,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 118303,
+        "num": 118303,
+        "word": "巴黎奥运会张雨霏奖牌数最多",
+        "onboard_time": 1723396216,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117757,
+        "num": 117757,
+        "word": "李雯雯金牌",
+        "onboard_time": 1723376495,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108891,
+        "num": 108891,
+        "word": "就差一分",
+        "onboard_time": 1723391305,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99233,
+        "num": 99233,
+        "word": "日本大阪府部分水体严重污染",
+        "onboard_time": 1723389389,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 92027,
+        "num": 99207,
+        "word": "魏哲鸣看张杰演唱会",
+        "onboard_time": 1723391245,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 91842,
+        "num": 99147,
+        "word": "黄雅琼真去看周深演唱会了",
+        "onboard_time": 1723379607,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85758,
+        "num": 99125,
+        "word": "边伯贤9月6日回归",
+        "onboard_time": 1723392562,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记感受文化中国#"
+    }
+  }
+}
