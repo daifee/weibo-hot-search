@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/08/11 22:37:08
+本榜单时间：2024/01/01 00:21:05 ~ 2024/08/11 23:20:54
 </p>
 </blockquote>
 <p>
@@ -131,6 +131,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%A5%E7%BB%84%E5%A7%94%E8%B0%83%E6%9F%A5%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%90%83%E6%8B%8D%E8%A2%AB%E8%B8%A9%E4%BA%8B%E4%BB%B6%23" target="weibo">
 奥组委调查王楚钦球拍被踩事件（热度：20745811）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E7%AF%AEvs%E6%B3%95%E5%9B%BD%E5%A5%B3%E7%AF%AE%23" target="weibo">
+美国女篮vs法国女篮（热度：20325519）
 </a>
 </li>
 
@@ -539,12 +545,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E8%B7%B3%E6%B0%B4%E5%A5%B3%E5%8F%8C3%E7%B1%B3%E6%9D%BF%E9%87%91%E7%89%8C%23" target="weibo">
 中国队跳水女双3米板金牌（热度：11976288）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E7%AF%AEvs%E6%B3%95%E5%9B%BD%E5%A5%B3%E7%AF%AE%23" target="weibo">
-美国女篮vs法国女篮（热度：11931022）
 </a>
 </li>
 
