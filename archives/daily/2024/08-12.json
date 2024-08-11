@@ -1,6 +1,6 @@
 {
   "startTime": 1723393401015,
-  "endTime": 1723397695385,
+  "endTime": 1723400861806,
   "band_list": [
     {
       "raw_hot": 15817207,
@@ -99,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 651809,
+      "num": 651809,
+      "word": "孙颖莎去闭幕式好像春游一样",
+      "onboard_time": 1723399694,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 639133,
       "num": 639133,
       "word": "发现日本网友真的很爱孙颖莎",
@@ -136,6 +144,14 @@
       "word": "60秒盘点巴黎奥运会燃金时刻",
       "onboard_time": 1723386627,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 541744,
+      "num": 541744,
+      "word": "潘展乐笑对澳大利亚教练质疑",
+      "onboard_time": 1723397475,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -200,6 +216,14 @@
       "word": "马龙回应四十岁正是闯的年纪",
       "onboard_time": 1723385547,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 397075,
+      "num": 320624,
+      "word": "中国代表团出发去闭幕式了",
+      "onboard_time": 1723399814,
+      "rank": 11,
       "category": "体育"
     },
     {
@@ -451,6 +475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 174782,
+      "num": 174782,
+      "word": "以后提起巴黎奥运会就会浮现的画面",
+      "onboard_time": 1723396695,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169268,
       "num": 194529,
       "word": "薛之谦 新歌常发但毫无水花",
@@ -468,7 +500,7 @@
     },
     {
       "raw_hot": 160288,
-      "num": 197523,
+      "num": 217717,
       "word": "刘端端被起哄登基庆余年DNA动了",
       "onboard_time": 1723396216,
       "rank": 33,
@@ -483,27 +515,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 134626,
-      "num": 103061,
-      "word": "潘展乐笑对澳大利亚教练质疑",
-      "onboard_time": 1723397475,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 118303,
       "num": 118303,
       "word": "巴黎奥运会张雨霏奖牌数最多",
       "onboard_time": 1723396216,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 117941,
-      "num": 102489,
-      "word": "以后提起巴黎奥运会就会浮现的画面",
-      "onboard_time": 1723396695,
-      "rank": 39,
       "category": "体育"
     },
     {
@@ -529,6 +545,38 @@
       "onboard_time": 1723375164,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70411,
+      "num": 328768,
+      "word": "日本民众担忧发生特大地震抢购物资",
+      "onboard_time": 1723398375,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63193,
+      "num": 71495,
+      "word": "2024华晨宇火星演唱会",
+      "onboard_time": 1723400293,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 58659,
+      "num": 58659,
+      "word": "一人一句恭喜中国队",
+      "onboard_time": 1723400653,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 45660,
+      "num": 57993,
+      "word": "华晨宇说日出演唱会是一生回忆",
+      "onboard_time": 1723397475,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 17412,
