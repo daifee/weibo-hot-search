@@ -1,0 +1,410 @@
+{
+  "runTime": 1723350241589,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2132641,
+        "num": 2132641,
+        "word": "孙颖莎用pin哄张本美和",
+        "onboard_time": 1723339402,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1589358,
+        "num": 1589358,
+        "word": "豆得儿官宣恋情",
+        "onboard_time": 1723346723,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 82391,
+        "num": 1411155,
+        "word": "电视指南回来啦",
+        "onboard_time": 1723347442,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1398291,
+        "num": 1398291,
+        "word": "樊振东沉默的那一下马龙动容了",
+        "onboard_time": 1723339042,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1187185,
+        "num": 1187185,
+        "word": "陈梦说孙颖莎是领奖动作总导演",
+        "onboard_time": 1723347202,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 875914,
+        "num": 875914,
+        "word": "美跳高选手回应拒绝共享金牌",
+        "onboard_time": 1723342221,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 826133,
+        "num": 826133,
+        "word": "国乒女团金牌",
+        "onboard_time": 1723303593,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 810817,
+        "num": 810817,
+        "word": "魏大勋 祝xyy七夕快乐",
+        "onboard_time": 1723333518,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 806222,
+        "num": 806222,
+        "word": "樊振东说未来不一定是乒乓球了",
+        "onboard_time": 1723290623,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218781,
+        "num": 695438,
+        "word": "女生遇骗子被弟弟拉进派出所报警",
+        "onboard_time": 1723347021,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 923193,
+        "num": 688388,
+        "word": "张本智和删简介",
+        "onboard_time": 1723342942,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 622422,
+        "num": 622422,
+        "word": "谷爱凌首个全马3小时24分36秒",
+        "onboard_time": 1723336159,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 467876,
+        "num": 588053,
+        "word": "德天瀑布1死60伤事故目击者讲述",
+        "onboard_time": 1723337482,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380413,
+        "num": 587203,
+        "word": "奥运会霹雳舞解说谈王一博学舞神速",
+        "onboard_time": 1723346002,
+        "rank": 13,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 357160,
+        "num": 587042,
+        "word": "许嵩说七夕是他第一次也是最后一次唱",
+        "onboard_time": 1723335860,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 587037,
+        "num": 587037,
+        "word": "乒乓女团奥运5连冠",
+        "onboard_time": 1723303962,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 551503,
+        "num": 551503,
+        "word": "孙颖莎 没人给咱照咱自己照",
+        "onboard_time": 1723337242,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290840,
+        "num": 542215,
+        "word": "花小龙王老师官宣",
+        "onboard_time": 1723345522,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 534824,
+        "num": 534824,
+        "word": "邓亚萍 莎莎的战术对方研究得非常透",
+        "onboard_time": 1723339042,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163160,
+        "num": 520621,
+        "word": "给曾舜晞提名最惨男主角",
+        "onboard_time": 1723347562,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 510404,
+        "num": 510404,
+        "word": "原来这些明星也曾是国家运动员",
+        "onboard_time": 1723346303,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473080,
+        "num": 473080,
+        "word": "孙颖莎陈梦 是对手更是队友",
+        "onboard_time": 1723300657,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 410384,
+        "num": 410384,
+        "word": "全红婵家门口变成小吃一条街了",
+        "onboard_time": 1723330514,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 336474,
+        "num": 336474,
+        "word": "张本智和拿妹妹银牌拍照",
+        "onboard_time": 1723328713,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 336279,
+        "num": 336279,
+        "word": "库里连中四个三分",
+        "onboard_time": 1723324872,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 332816,
+        "num": 332816,
+        "word": "王楚钦说马龙也很全面",
+        "onboard_time": 1723345942,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 326358,
+        "num": 326358,
+        "word": "孙颖莎和埃菲尔铁塔合影",
+        "onboard_time": 1723348821,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323717,
+        "num": 323717,
+        "word": "中国队冲击四十金",
+        "onboard_time": 1723343842,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253313,
+        "num": 315280,
+        "word": "吴谨言在Twins演唱会过七夕",
+        "onboard_time": 1723344322,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179092,
+        "num": 315243,
+        "word": "第一次见法味这么浓的剧",
+        "onboard_time": 1723350022,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315242,
+        "num": 315242,
+        "word": "莫雷加德拍出了人生照片",
+        "onboard_time": 1723336159,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262921,
+        "num": 262921,
+        "word": "孙杨一句建议养成了汪顺的终身习惯",
+        "onboard_time": 1723349722,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253692,
+        "num": 253692,
+        "word": "孙铭阳 永远可以相信的中国乒乓球队",
+        "onboard_time": 1723347682,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226363,
+        "num": 226363,
+        "word": "美国决定不制裁以色列军队",
+        "onboard_time": 1723344681,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 222390,
+        "num": 222390,
+        "word": "德天瀑布魔毯故障1名游客死亡",
+        "onboard_time": 1723294281,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251211,
+        "num": 221855,
+        "word": "石川佳纯见到马龙了",
+        "onboard_time": 1723311018,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240302,
+        "num": 221819,
+        "word": "早田给孙颖莎拨拉头发上的碎屑",
+        "onboard_time": 1723348222,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229760,
+        "num": 221046,
+        "word": "马龙说希望下届奥运会樊振东依然在",
+        "onboard_time": 1723342523,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216838,
+        "num": 216838,
+        "word": "中国双胞胎花游金牌",
+        "onboard_time": 1723317614,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188966,
+        "num": 216634,
+        "word": "国漫版奥运会最强代表团",
+        "onboard_time": 1723349482,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 216627,
+        "num": 216627,
+        "word": "中美夺金点分析",
+        "onboard_time": 1723338621,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215737,
+        "num": 215737,
+        "word": "刘国梁说樊振东夺冠是关键转折点",
+        "onboard_time": 1723343481,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209387,
+        "num": 209387,
+        "word": "张本美和回应女团比赛输中国",
+        "onboard_time": 1723347145,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208096,
+        "num": 208096,
+        "word": "无期迷途礼盒",
+        "onboard_time": 1723349841,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200214,
+        "num": 200214,
+        "word": "我在孙颖莎很想你",
+        "onboard_time": 1723347202,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193272,
+        "num": 193272,
+        "word": "秋风家人已委托律师跟进",
+        "onboard_time": 1723335320,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188080,
+        "num": 188080,
+        "word": "库里 掌管三分的神",
+        "onboard_time": 1723325232,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168407,
+        "num": 168407,
+        "word": "龙族2有480分钟超长时长",
+        "onboard_time": 1723347682,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 159537,
+        "num": 159537,
+        "word": "豆得儿",
+        "onboard_time": 1723348821,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 153977,
+        "num": 153977,
+        "word": "世界上最牛的设计师是房东",
+        "onboard_time": 1723349602,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#党的二十届三中全会学习笔记#"
+    }
+  }
+}
