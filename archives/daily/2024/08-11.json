@@ -1,6 +1,6 @@
 {
   "startTime": 1723307155481,
-  "endTime": 1723382479287,
+  "endTime": 1723383306534,
   "band_list": [
     {
       "raw_hot": 10974299,
@@ -51,11 +51,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 3788747,
-      "num": 3788747,
+      "raw_hot": 4663132,
+      "num": 4663132,
       "word": "美国女篮vs法国女篮",
       "onboard_time": 1723380566,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3367449,
+      "num": 3367449,
+      "word": "中国队40金27银24铜收官",
+      "onboard_time": 1723381167,
+      "rank": 12,
       "category": "体育"
     },
     {
@@ -248,14 +256,6 @@
       "word": "巴黎奥运会查出第4例兴奋剂阳性",
       "onboard_time": 1723372462,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1949059,
-      "num": 1949059,
-      "word": "中国队40金27银24铜收官",
-      "onboard_time": 1723381167,
-      "rank": 12,
       "category": "体育"
     },
     {
@@ -755,6 +755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 772635,
+      "num": 2185365,
+      "word": "黄雅琼真去看周深演唱会了",
+      "onboard_time": 1723379607,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 746485,
       "num": 746485,
       "word": "孙颖莎谈假期安排",
@@ -772,7 +780,7 @@
     },
     {
       "raw_hot": 738966,
-      "num": 691709,
+      "num": 710587,
       "word": "樊振东让马龙保管金牌",
       "onboard_time": 1723377150,
       "rank": 31,
@@ -785,14 +793,6 @@
       "onboard_time": 1723340123,
       "rank": 44,
       "category": "电竞,体育"
-    },
-    {
-      "raw_hot": 732372,
-      "num": 2185365,
-      "word": "黄雅琼真去看周深演唱会了",
-      "onboard_time": 1723379607,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 726369,
@@ -1251,6 +1251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 409171,
+      "num": 409171,
+      "word": "举重队金牌都挂在了石智勇身上",
+      "onboard_time": 1723383147,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 402501,
       "num": 252020,
       "word": "孙颖莎说希望洛杉矶再相见",
@@ -1425,6 +1433,14 @@
       "onboard_time": 1723376608,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346522,
+      "num": 346522,
+      "word": "美国场地自行车金牌",
+      "onboard_time": 1723383147,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 343637,
@@ -1963,6 +1979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243686,
+      "num": 585426,
+      "word": "王安宇上花少后怀疑自己情绪不稳定",
+      "onboard_time": 1723382246,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 241984,
       "num": 903932,
       "word": "李栋旭抽烟照",
@@ -1995,12 +2019,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 233221,
+      "num": 233221,
+      "word": "瑞幸致歉信",
+      "onboard_time": 1723383147,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 232824,
       "num": 232824,
       "word": "美国女足奥运金牌",
       "onboard_time": 1723310719,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232023,
+      "num": 373920,
+      "word": "宋雨琦去了张杰演唱会",
+      "onboard_time": 1723382786,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 230697,
@@ -2075,14 +2115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 219402,
-      "num": 585426,
-      "word": "王安宇上花少后怀疑自己情绪不稳定",
-      "onboard_time": 1723382246,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 218526,
       "num": 218526,
       "word": "当妈妈知道手办的价格后",
@@ -2137,6 +2169,14 @@
       "onboard_time": 1723285640,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213659,
+      "num": 213659,
+      "word": "极氪001",
+      "onboard_time": 1723383027,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 213237,
@@ -2201,6 +2241,14 @@
       "onboard_time": 1723349841,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 208084,
+      "num": 1813122,
+      "word": "美国仅剩最后一个夺金点",
+      "onboard_time": 1723383027,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 207393,
@@ -2299,6 +2347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199941,
+      "num": 213656,
+      "word": "无畏契约",
+      "onboard_time": 1723382486,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 199299,
       "num": 199299,
       "word": "陈梦说要大吃一顿",
@@ -2313,6 +2369,14 @@
       "onboard_time": 1723358842,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199033,
+      "num": 213539,
+      "word": "EDG成功复仇PRX",
+      "onboard_time": 1723382246,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 198839,
@@ -3059,6 +3123,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 42265,
+      "num": 3991997,
+      "word": "神十八乘组亲测太空中生物节律变化",
+      "onboard_time": 1723381707,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41717,
       "num": 325103,
       "word": "李雯雯说站好最后一班岗",
@@ -3113,14 +3185,6 @@
       "onboard_time": 1723362860,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 36292,
-      "num": 3176605,
-      "word": "神十八乘组亲测太空中生物节律变化",
-      "onboard_time": 1723381707,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34788,
