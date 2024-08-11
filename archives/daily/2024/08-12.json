@@ -1,6 +1,6 @@
 {
   "startTime": 1723393401015,
-  "endTime": 1723418339384,
+  "endTime": 1723419394825,
   "band_list": [
     {
       "raw_hot": 15817207,
@@ -11,8 +11,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 5894826,
-      "num": 5894826,
+      "raw_hot": 7180477,
+      "num": 7180477,
       "word": "孙颖莎吹灭奥运圣火",
       "onboard_time": 1723414334,
       "rank": 6,
@@ -163,7 +163,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 686881,
+      "raw_hot": 741171,
       "num": 370904,
       "word": "闭幕式 中国快递小哥镜头",
       "onboard_time": 1723405872,
@@ -411,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 339348,
+      "num": 339348,
+      "word": "广东新冠感染增加1万余病例",
+      "onboard_time": 1723376608,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 337782,
       "num": 337782,
       "word": "虞书欣造型",
@@ -425,14 +433,6 @@
       "onboard_time": 1723385307,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 322525,
-      "num": 322525,
-      "word": "广东新冠感染增加1万余病例",
-      "onboard_time": 1723376608,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 313615,
@@ -492,7 +492,7 @@
     },
     {
       "raw_hot": 234963,
-      "num": 160686,
+      "num": 169143,
       "word": "闭幕式开场",
       "onboard_time": 1723405512,
       "rank": 24,
@@ -529,6 +529,14 @@
       "onboard_time": 1723389389,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 203257,
+      "num": 370934,
+      "word": "商家请太原老葛直播带货损失超千万",
+      "onboard_time": 1723400953,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201886,
@@ -683,14 +691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162055,
-      "num": 370934,
-      "word": "商家请太原老葛直播带货损失超千万",
-      "onboard_time": 1723400953,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 161241,
       "num": 194490,
       "word": "李丽被查",
@@ -705,6 +705,14 @@
       "onboard_time": 1723396216,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 157676,
+      "num": 157676,
+      "word": "瓦妮莎瘦了",
+      "onboard_time": 1723418420,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 154645,
@@ -779,6 +787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110715,
+      "num": 328768,
+      "word": "日本民众担忧发生特大地震抢购物资",
+      "onboard_time": 1723398375,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109347,
       "num": 109347,
       "word": "求婚最多的奥运会",
@@ -793,6 +809,14 @@
       "onboard_time": 1723408511,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106863,
+      "num": 106863,
+      "word": "2024PEL",
+      "onboard_time": 1723418901,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 103488,
@@ -827,20 +851,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 93126,
-      "num": 328768,
-      "word": "日本民众担忧发生特大地震抢购物资",
-      "onboard_time": 1723398375,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 88890,
+      "raw_hot": 93746,
       "num": 222579,
       "word": "一不小心给黄晓明拍出个世界名画",
       "onboard_time": 1723417157,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 88361,
+      "num": 107808,
+      "word": "于正第一次听张杰的个人演唱会",
+      "onboard_time": 1723417038,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 86648,
@@ -849,6 +873,14 @@
       "onboard_time": 1723406773,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85209,
+      "num": 106406,
+      "word": "邓紫棋直播",
+      "onboard_time": 1723418180,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 79907,
@@ -899,28 +931,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 68449,
-      "num": 93124,
-      "word": "邓紫棋直播",
-      "onboard_time": 1723418180,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 68419,
       "num": 68419,
       "word": "中国代表团闭幕式登场",
       "onboard_time": 1723406413,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 67971,
-      "num": 93124,
-      "word": "于正第一次听张杰的个人演唱会",
-      "onboard_time": 1723417038,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 67486,
@@ -971,7 +987,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35777,
+      "raw_hot": 39401,
       "num": 3652546,
       "word": "加快经济社会发展全面绿色转型",
       "onboard_time": 1723381347,
