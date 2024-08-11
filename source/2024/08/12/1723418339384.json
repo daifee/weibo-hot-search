@@ -1,0 +1,410 @@
+{
+  "runTime": 1723418339384,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5894826,
+        "num": 5894826,
+        "word": "孙颖莎吹灭奥运圣火",
+        "onboard_time": 1723414334,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4218590,
+        "num": 4218590,
+        "word": "中国金牌榜并列第一",
+        "onboard_time": 1723390055,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35777,
+        "num": 3652546,
+        "word": "加快经济社会发展全面绿色转型",
+        "onboard_time": 1723381347,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3511102,
+        "num": 3511102,
+        "word": "孙颖莎闭幕式代表亚洲登场",
+        "onboard_time": 1723410973,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1797951,
+        "num": 1797951,
+        "word": "洛杉矶12分钟",
+        "onboard_time": 1723413433,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1701764,
+        "num": 1701764,
+        "word": "孙颖莎去闭幕式好像春游一样",
+        "onboard_time": 1723399694,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1218189,
+        "num": 1218189,
+        "word": "闭幕式 齐天大圣从天而降",
+        "onboard_time": 1723408391,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234901,
+        "num": 1091790,
+        "word": "华晨宇 我没事放心吧",
+        "onboard_time": 1723393821,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195147,
+        "num": 1020281,
+        "word": "黄子韬许愿和徐艺洋一生一世",
+        "onboard_time": 1723383626,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10831,
+        "num": 1004039,
+        "word": "陕西北洛河发生1994年以来最大洪水",
+        "onboard_time": 1723402812,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1000331,
+        "num": 1000331,
+        "word": "巴黎奥运会闭幕式",
+        "onboard_time": 1723385368,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 899783,
+        "num": 899783,
+        "word": "中国队旗手入场",
+        "onboard_time": 1723405092,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356836,
+        "num": 356836,
+        "word": "小孩电竞世界杯夺冠",
+        "onboard_time": 1723410731,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 339206,
+        "num": 339206,
+        "word": "瑞幸向易烊千玺道歉",
+        "onboard_time": 1723393281,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 322525,
+        "num": 322525,
+        "word": "广东新冠感染增加1万余病例",
+        "onboard_time": 1723376608,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 796325,
+        "num": 321655,
+        "word": "巴黎奥运会闭幕",
+        "onboard_time": 1723414574,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122686,
+        "num": 320701,
+        "word": "虞书欣造型",
+        "onboard_time": 1723375707,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111587,
+        "num": 319443,
+        "word": "潘玮柏 朋友们这照片不是真的",
+        "onboard_time": 1723376423,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 96628,
+        "num": 318496,
+        "word": "张杰官宣世界巡演",
+        "onboard_time": 1723384225,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 84456,
+        "num": 318100,
+        "word": "魏哲鸣看张杰演唱会",
+        "onboard_time": 1723391245,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 686881,
+        "num": 316471,
+        "word": "闭幕式 中国快递小哥镜头",
+        "onboard_time": 1723405872,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 657288,
+        "num": 316051,
+        "word": "孙颖莎巴黎街头吃冰淇淋",
+        "onboard_time": 1723394299,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 568684,
+        "num": 314555,
+        "word": "中国代表团已抵达法兰西体育场",
+        "onboard_time": 1723401973,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 434113,
+        "num": 313178,
+        "word": "国羽除了梁伟铿都在看演唱会",
+        "onboard_time": 1723396337,
+        "rank": 23,
+        "category": "体育,演出"
+      },
+      {
+        "raw_hot": 383688,
+        "num": 312113,
+        "word": "闭幕式解说",
+        "onboard_time": 1723405092,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376569,
+        "num": 310780,
+        "word": "汤姆克鲁斯登场",
+        "onboard_time": 1723412833,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310671,
+        "num": 310671,
+        "word": "圣火是吹灭的",
+        "onboard_time": 1723414754,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299156,
+        "num": 299156,
+        "word": "看到孙颖莎了",
+        "onboard_time": 1723405813,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232772,
+        "num": 232772,
+        "word": "向佐说香港又不是我的",
+        "onboard_time": 1723389028,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88890,
+        "num": 222579,
+        "word": "一不小心给黄晓明拍出个世界名画",
+        "onboard_time": 1723417157,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262897,
+        "num": 222053,
+        "word": "潘展乐笑对澳大利亚教练质疑",
+        "onboard_time": 1723397475,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217811,
+        "num": 217811,
+        "word": "闭幕式爆改音乐节",
+        "onboard_time": 1723411272,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202905,
+        "num": 202905,
+        "word": "闭幕式太抽象了",
+        "onboard_time": 1723408212,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162055,
+        "num": 162055,
+        "word": "商家请太原老葛直播带货损失超千万",
+        "onboard_time": 1723400953,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101779,
+        "num": 160751,
+        "word": "嘉文 出轨",
+        "onboard_time": 1723367421,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 199932,
+        "num": 160686,
+        "word": "闭幕式开场",
+        "onboard_time": 1723405512,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163719,
+        "num": 160682,
+        "word": "洛杉矶12分钟 沙滩音乐节",
+        "onboard_time": 1723414334,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160595,
+        "num": 160595,
+        "word": "中国国旗特写",
+        "onboard_time": 1723404672,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156275,
+        "num": 156275,
+        "word": "碧梨现场",
+        "onboard_time": 1723413553,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150959,
+        "num": 150959,
+        "word": "奥运闭幕 怅然若失",
+        "onboard_time": 1723404792,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142019,
+        "num": 142019,
+        "word": "外星人寻找奥林匹克",
+        "onboard_time": 1723407852,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132168,
+        "num": 132168,
+        "word": "金色旅行者 金色大蟑螂",
+        "onboard_time": 1723408152,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120523,
+        "num": 120523,
+        "word": "国乒女团金牌",
+        "onboard_time": 1723303593,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101591,
+        "num": 101591,
+        "word": "阿汤哥骑摩托",
+        "onboard_time": 1723415113,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95619,
+        "num": 95619,
+        "word": "有运动员奥运奖牌已掉色",
+        "onboard_time": 1723417818,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93126,
+        "num": 93126,
+        "word": "日本民众担忧发生特大地震抢购物资",
+        "onboard_time": 1723398375,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87176,
+        "num": 93125,
+        "word": "女子备孕9年产下超早产儿双胞胎",
+        "onboard_time": 1723367724,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68449,
+        "num": 93124,
+        "word": "邓紫棋直播",
+        "onboard_time": 1723418180,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 67971,
+        "num": 93124,
+        "word": "于正第一次听张杰的个人演唱会",
+        "onboard_time": 1723417038,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 62200,
+        "num": 93122,
+        "word": "瑞幸致歉信",
+        "onboard_time": 1723383147,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记感受文化中国#"
+    }
+  }
+}

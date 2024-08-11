@@ -1,6 +1,6 @@
 {
   "startTime": 1723393401015,
-  "endTime": 1723415838841,
+  "endTime": 1723418339384,
   "band_list": [
     {
       "raw_hot": 15817207,
@@ -8,6 +8,22 @@
       "word": "中国金牌榜并列第一",
       "onboard_time": 1723390055,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 5894826,
+      "num": 5894826,
+      "word": "孙颖莎吹灭奥运圣火",
+      "onboard_time": 1723414334,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3511102,
+      "num": 3511102,
+      "word": "孙颖莎闭幕式代表亚洲登场",
+      "onboard_time": 1723410973,
+      "rank": 15,
       "category": "体育"
     },
     {
@@ -27,27 +43,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2772722,
-      "num": 2772722,
-      "word": "孙颖莎闭幕式代表亚洲登场",
-      "onboard_time": 1723410973,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1895487,
-      "num": 1895487,
-      "word": "孙颖莎吹灭奥运圣火",
-      "onboard_time": 1723414334,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1475201,
-      "num": 1475201,
+      "raw_hot": 1797951,
+      "num": 1797951,
       "word": "洛杉矶12分钟",
       "onboard_time": 1723413433,
       "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1701764,
+      "num": 1701764,
+      "word": "孙颖莎去闭幕式好像春游一样",
+      "onboard_time": 1723399694,
+      "rank": 1,
       "category": "体育"
     },
     {
@@ -75,6 +83,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1218189,
+      "num": 1218189,
+      "word": "闭幕式 齐天大圣从天而降",
+      "onboard_time": 1723408391,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1173906,
       "num": 1173906,
       "word": "孙颖莎邱贻可散装英语勇闯法国",
@@ -99,14 +115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 929801,
-      "num": 929801,
-      "word": "孙颖莎去闭幕式好像春游一样",
-      "onboard_time": 1723399694,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 916556,
       "num": 916556,
       "word": "瑞幸向易烊千玺道歉",
@@ -120,6 +128,14 @@
       "word": "看到孙颖莎了",
       "onboard_time": 1723405813,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 899783,
+      "num": 899783,
+      "word": "中国队旗手入场",
+      "onboard_time": 1723405092,
+      "rank": 11,
       "category": "体育"
     },
     {
@@ -139,11 +155,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 681808,
-      "num": 681808,
-      "word": "闭幕式 齐天大圣从天而降",
-      "onboard_time": 1723408391,
-      "rank": 39,
+      "raw_hot": 796325,
+      "num": 321655,
+      "word": "巴黎奥运会闭幕",
+      "onboard_time": 1723414574,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 686881,
+      "num": 370904,
+      "word": "闭幕式 中国快递小哥镜头",
+      "onboard_time": 1723405872,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -203,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 568684,
+      "num": 314555,
+      "word": "中国代表团已抵达法兰西体育场",
+      "onboard_time": 1723401973,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 555419,
       "num": 555419,
       "word": "潘展乐笑对澳大利亚教练质疑",
@@ -220,7 +252,7 @@
     },
     {
       "raw_hot": 521101,
-      "num": 746668,
+      "num": 1020281,
       "word": "黄子韬许愿和徐艺洋一生一世",
       "onboard_time": 1723383626,
       "rank": 7,
@@ -251,20 +283,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 452190,
-      "num": 452190,
-      "word": "中国队旗手入场",
-      "onboard_time": 1723405092,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 443584,
       "num": 443584,
       "word": "闭幕式解说",
       "onboard_time": 1723405092,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 434113,
+      "num": 332424,
+      "word": "国羽除了梁伟铿都在看演唱会",
+      "onboard_time": 1723396337,
+      "rank": 26,
+      "category": "体育,演出"
     },
     {
       "raw_hot": 429522,
@@ -307,14 +339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 398183,
-      "num": 370904,
-      "word": "闭幕式 中国快递小哥镜头",
-      "onboard_time": 1723405872,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 390836,
       "num": 260416,
       "word": "原来奥运冠军是你女儿啊",
@@ -331,14 +355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 384411,
-      "num": 160617,
-      "word": "中国代表团已抵达法兰西体育场",
-      "onboard_time": 1723401973,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 381732,
       "num": 693029,
       "word": "在披哥看李佳琦直播",
@@ -348,7 +364,7 @@
     },
     {
       "raw_hot": 377159,
-      "num": 161003,
+      "num": 310780,
       "word": "汤姆克鲁斯登场",
       "onboard_time": 1723412833,
       "rank": 21,
@@ -361,6 +377,14 @@
       "onboard_time": 1723303962,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 356836,
+      "num": 356836,
+      "word": "小孩电竞世界杯夺冠",
+      "onboard_time": 1723410731,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 354316,
@@ -395,14 +419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 332424,
-      "num": 332424,
-      "word": "国羽除了梁伟铿都在看演唱会",
-      "onboard_time": 1723396337,
-      "rank": 26,
-      "category": "体育,演出"
-    },
-    {
       "raw_hot": 323237,
       "num": 323237,
       "word": "疑似李闽轩小号",
@@ -411,11 +427,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 322525,
+      "num": 322525,
+      "word": "广东新冠感染增加1万余病例",
+      "onboard_time": 1723376608,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 313615,
       "num": 207490,
       "word": "石智勇 是金牌数量最多的运动员了",
       "onboard_time": 1723388548,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 310671,
+      "num": 310671,
+      "word": "圣火是吹灭的",
+      "onboard_time": 1723414754,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -444,23 +476,15 @@
     },
     {
       "raw_hot": 259414,
-      "num": 259414,
+      "num": 319443,
       "word": "潘玮柏 朋友们这照片不是真的",
       "onboard_time": 1723376423,
       "rank": 28,
       "category": "演出"
     },
     {
-      "raw_hot": 237659,
-      "num": 237659,
-      "word": "广东新冠感染增加1万余病例",
-      "onboard_time": 1723376608,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 236176,
-      "num": 158298,
+      "num": 217811,
       "word": "闭幕式爆改音乐节",
       "onboard_time": 1723411272,
       "rank": 32,
@@ -468,23 +492,23 @@
     },
     {
       "raw_hot": 234963,
-      "num": 156225,
+      "num": 160686,
       "word": "闭幕式开场",
       "onboard_time": 1723405512,
       "rank": 24,
       "category": "体育"
     },
     {
-      "raw_hot": 233526,
-      "num": 140955,
-      "word": "巴黎奥运会闭幕",
-      "onboard_time": 1723414574,
-      "rank": 43,
-      "category": "体育"
+      "raw_hot": 234901,
+      "num": 1091790,
+      "word": "华晨宇 我没事放心吧",
+      "onboard_time": 1723393821,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 231862,
-      "num": 139370,
+      "num": 142019,
       "word": "外星人寻找奥林匹克",
       "onboard_time": 1723407852,
       "rank": 22,
@@ -505,22 +529,6 @@
       "onboard_time": 1723389389,
       "rank": 9,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 209233,
-      "num": 703079,
-      "word": "华晨宇 我没事放心吧",
-      "onboard_time": 1723393821,
-      "rank": 29,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 208367,
-      "num": 208367,
-      "word": "小孩电竞世界杯夺冠",
-      "onboard_time": 1723410731,
-      "rank": 12,
-      "category": "电竞"
     },
     {
       "raw_hot": 201886,
@@ -579,16 +587,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192532,
-      "num": 140893,
-      "word": "圣火是吹灭的",
-      "onboard_time": 1723414754,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 190804,
-      "num": 153949,
+      "num": 156275,
       "word": "碧梨现场",
       "onboard_time": 1723413553,
       "rank": 30,
@@ -644,7 +644,7 @@
     },
     {
       "raw_hot": 175054,
-      "num": 194533,
+      "num": 318100,
       "word": "魏哲鸣看张杰演唱会",
       "onboard_time": 1723391245,
       "rank": 46,
@@ -675,6 +675,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163719,
+      "num": 160682,
+      "word": "洛杉矶12分钟 沙滩音乐节",
+      "onboard_time": 1723414334,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 162055,
+      "num": 370934,
+      "word": "商家请太原老葛直播带货损失超千万",
+      "onboard_time": 1723400953,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161241,
       "num": 194490,
       "word": "李丽被查",
@@ -692,7 +708,7 @@
     },
     {
       "raw_hot": 154645,
-      "num": 118247,
+      "num": 132168,
       "word": "金色旅行者 金色大蟑螂",
       "onboard_time": 1723408152,
       "rank": 30,
@@ -704,14 +720,6 @@
       "word": "我们是冠军",
       "onboard_time": 1723406712,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 140810,
-      "num": 140810,
-      "word": "洛杉矶12分钟 沙滩音乐节",
-      "onboard_time": 1723414334,
-      "rank": 38,
       "category": "体育"
     },
     {
@@ -787,14 +795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105120,
-      "num": 370934,
-      "word": "商家请太原老葛直播带货损失超千万",
-      "onboard_time": 1723400953,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 103488,
       "num": 103488,
       "word": "马尔尚熄灭奥运圣火",
@@ -817,6 +817,30 @@
       "onboard_time": 1723405452,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95619,
+      "num": 95619,
+      "word": "有运动员奥运奖牌已掉色",
+      "onboard_time": 1723417818,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 93126,
+      "num": 328768,
+      "word": "日本民众担忧发生特大地震抢购物资",
+      "onboard_time": 1723398375,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88890,
+      "num": 222579,
+      "word": "一不小心给黄晓明拍出个世界名画",
+      "onboard_time": 1723417157,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 86648,
@@ -875,12 +899,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 70411,
-      "num": 328768,
-      "word": "日本民众担忧发生特大地震抢购物资",
-      "onboard_time": 1723398375,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 68449,
+      "num": 93124,
+      "word": "邓紫棋直播",
+      "onboard_time": 1723418180,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 68419,
@@ -889,6 +913,14 @@
       "onboard_time": 1723406413,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67971,
+      "num": 93124,
+      "word": "于正第一次听张杰的个人演唱会",
+      "onboard_time": 1723417038,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 67486,
@@ -939,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35777,
+      "num": 3652546,
+      "word": "加快经济社会发展全面绿色转型",
+      "onboard_time": 1723381347,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33946,
       "num": 122189,
       "word": "任运杰好帅",
@@ -947,16 +987,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 21973,
-      "num": 2000286,
-      "word": "加快经济社会发展全面绿色转型",
-      "onboard_time": 1723381347,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 15241,
-      "num": 681844,
+      "num": 1004039,
       "word": "陕西北洛河发生1994年以来最大洪水",
       "onboard_time": 1723402812,
       "rank": 9,
