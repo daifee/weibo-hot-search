@@ -1,6 +1,6 @@
 {
   "startTime": 1723307155481,
-  "endTime": 1723344748209,
+  "endTime": 1723346528812,
   "band_list": [
     {
       "raw_hot": 6347529,
@@ -51,6 +51,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2443760,
+      "num": 1174040,
+      "word": "张本智和删简介",
+      "onboard_time": 1723342942,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2437180,
       "num": 2437180,
       "word": "库里连中四个三分",
@@ -83,8 +91,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1915165,
-      "num": 1915165,
+      "raw_hot": 1972153,
+      "num": 1972153,
       "word": "樊振东沉默的那一下马龙动容了",
       "onboard_time": 1723339042,
       "rank": 23,
@@ -179,14 +187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1174040,
-      "num": 1174040,
-      "word": "张本智和删简介",
-      "onboard_time": 1723342942,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1145070,
       "num": 1145070,
       "word": "国乒巴黎奥运会大合照",
@@ -251,7 +251,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 960580,
+      "raw_hot": 976909,
       "num": 1046054,
       "word": "魏大勋 祝xyy七夕快乐",
       "onboard_time": 1723333518,
@@ -507,6 +507,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 444324,
+      "num": 444324,
+      "word": "Uzi马拉松完赛",
+      "onboard_time": 1723343541,
+      "rank": 33,
+      "category": "电竞,体育"
+    },
+    {
       "raw_hot": 440454,
       "num": 1229840,
       "word": "王昶真去看jonyj了",
@@ -545,14 +553,6 @@
       "onboard_time": 1723339643,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 412127,
-      "num": 412127,
-      "word": "Uzi马拉松完赛",
-      "onboard_time": 1723343541,
-      "rank": 33,
-      "category": "电竞,体育"
     },
     {
       "raw_hot": 398395,
@@ -659,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 327242,
+      "num": 512796,
+      "word": "吴谨言在Twins演唱会过七夕",
+      "onboard_time": 1723344322,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 327149,
       "num": 327149,
       "word": "秋风家人已委托律师跟进",
@@ -683,12 +691,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 308842,
+      "num": 308842,
+      "word": "谁将担任中国代表团闭幕式旗手",
+      "onboard_time": 1723340543,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 307786,
       "num": 629723,
       "word": "周深七夕发糖了",
       "onboard_time": 1723342343,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 305661,
+      "num": 305661,
+      "word": "马龙说希望下届奥运会樊振东依然在",
+      "onboard_time": 1723342523,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 298667,
@@ -723,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 289017,
+      "num": 289017,
+      "word": "中国队冲击四十金",
+      "onboard_time": 1723343842,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 284167,
       "num": 562312,
       "word": "海清身材管理",
@@ -731,19 +763,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 278574,
-      "num": 278574,
-      "word": "马龙说希望下届奥运会樊振东依然在",
-      "onboard_time": 1723342523,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 277050,
+      "num": 511678,
+      "word": "GAI说郑思维辛苦你了",
+      "onboard_time": 1723344923,
+      "rank": 17,
+      "category": "演出"
     },
     {
-      "raw_hot": 277488,
-      "num": 275623,
-      "word": "谁将担任中国代表团闭幕式旗手",
-      "onboard_time": 1723340543,
-      "rank": 38,
+      "raw_hot": 269883,
+      "num": 269883,
+      "word": "被孙颖莎这一球惊艳到了",
+      "onboard_time": 1723345880,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -755,12 +787,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 262779,
+      "num": 262779,
+      "word": "孙颖莎颁奖仪式上又整活了",
+      "onboard_time": 1723344201,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 259262,
+      "num": 509182,
+      "word": "奥运会霹雳舞解说谈王一博学舞神速",
+      "onboard_time": 1723346002,
+      "rank": 19,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 256158,
       "num": 794734,
       "word": "出生12天女婴被月嫂挠伤脚底",
       "onboard_time": 1723297707,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255814,
+      "num": 255814,
+      "word": "刘国梁夸赞樊振东支起球队信心",
+      "onboard_time": 1723341142,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 254443,
@@ -776,14 +832,6 @@
       "word": "孙颖莎永远指挥拍照站位",
       "onboard_time": 1723310658,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 253523,
-      "num": 251794,
-      "word": "刘国梁夸赞樊振东支起球队信心",
-      "onboard_time": 1723341142,
-      "rank": 42,
       "category": "体育"
     },
     {
@@ -803,28 +851,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 244298,
+      "num": 414804,
+      "word": "花小龙王老师官宣",
+      "onboard_time": 1723345522,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 244138,
+      "num": 244138,
+      "word": "李倩哭着感谢自己没放弃",
+      "onboard_time": 1723342881,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 241984,
       "num": 903932,
       "word": "李栋旭抽烟照",
       "onboard_time": 1723290862,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 237821,
-      "num": 237821,
-      "word": "孙颖莎颁奖仪式上又整活了",
-      "onboard_time": 1723344201,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 237481,
-      "num": 237481,
-      "word": "中国队冲击四十金",
-      "onboard_time": 1723343842,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 232824,
@@ -835,19 +883,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 232796,
-      "num": 232796,
-      "word": "李倩哭着感谢自己没放弃",
-      "onboard_time": 1723342881,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 230697,
       "num": 230697,
       "word": "刘国梁说樊振东夺冠是关键转折点",
       "onboard_time": 1723343481,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 230138,
+      "num": 230138,
+      "word": "王楚钦说马龙也很全面",
+      "onboard_time": 1723345942,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -865,14 +913,6 @@
       "onboard_time": 1723320973,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 218289,
-      "num": 410182,
-      "word": "吴谨言在Twins演唱会过七夕",
-      "onboard_time": 1723344322,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 215906,
@@ -1043,6 +1083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 178101,
+      "num": 401923,
+      "word": "enhypen团站保育院销号",
+      "onboard_time": 1723345162,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168924,
       "num": 168924,
       "word": "这夜没白熬",
@@ -1051,7 +1099,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 165511,
+      "raw_hot": 165746,
       "num": 463593,
       "word": "杨恩又问朱一龙奖杯收到了吗",
       "onboard_time": 1723342942,
@@ -1065,6 +1113,14 @@
       "onboard_time": 1723312575,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 159819,
+      "num": 229986,
+      "word": "原来这些明星也曾是国家运动员",
+      "onboard_time": 1723346303,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 150316,
@@ -1171,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88413,
+      "num": 764935,
+      "word": "暑期又有6个孩子溺水离世最小仅2岁",
+      "onboard_time": 1723344622,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82524,
       "num": 404188,
       "word": "美国决定不制裁以色列军队",
@@ -1193,14 +1257,6 @@
       "onboard_time": 1723324812,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 56428,
-      "num": 406886,
-      "word": "暑期又有6个孩子溺水离世最小仅2岁",
-      "onboard_time": 1723344622,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 54273,
@@ -1275,6 +1331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 34394,
+      "num": 1256995,
+      "word": "以体育竞技燃动体育经济",
+      "onboard_time": 1723345461,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33225,
       "num": 166395,
       "word": "华晨宇合肥七夕演唱会",
@@ -1305,6 +1369,14 @@
       "onboard_time": 1723339882,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 6240,
+      "num": 515977,
+      "word": "1.3亿厂房被1元钱拍卖1.8万成交",
+      "onboard_time": 1723346421,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -1316,6 +1388,9 @@
     },
     {
       "word": "#改革为人民#"
+    },
+    {
+      "word": "#找到最大公约数画出最大同心圆#"
     }
   ]
 }
