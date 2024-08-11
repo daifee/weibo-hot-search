@@ -1,0 +1,410 @@
+{
+  "runTime": 1723360667763,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2493374,
+        "num": 2493374,
+        "word": "奶茶被顺走当事人称不接受道歉",
+        "onboard_time": 1723353861,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1363030,
+        "num": 1363030,
+        "word": "网球裙快成了打工人的新班服",
+        "onboard_time": 1723356801,
+        "rank": 1,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 44280,
+        "num": 1316392,
+        "word": "电视指南回来啦",
+        "onboard_time": 1723347442,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1305404,
+        "num": 1305404,
+        "word": "武汉一女子频繁美甲感染HPV",
+        "onboard_time": 1723355061,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1046338,
+        "num": 1046338,
+        "word": "李发彬欧紫霞担任闭幕式中国旗手",
+        "onboard_time": 1723354581,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 867180,
+        "num": 867180,
+        "word": "樊振东逗马龙",
+        "onboard_time": 1723354400,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 810720,
+        "num": 810720,
+        "word": "孙颖莎用pin哄张本美和",
+        "onboard_time": 1723339402,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 547326,
+        "num": 802282,
+        "word": "豆得儿官宣恋情",
+        "onboard_time": 1723346723,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 347669,
+        "num": 800015,
+        "word": "陆虎穿嘘嘘衣服录蘑菇屋",
+        "onboard_time": 1723357820,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70472,
+        "num": 785466,
+        "word": "毕业证丢了为何不能补办",
+        "onboard_time": 1723359802,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1361750,
+        "num": 782863,
+        "word": "刘国梁评论孙颖莎",
+        "onboard_time": 1723358842,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 775437,
+        "num": 775437,
+        "word": "马龙集pin光正面就有15个",
+        "onboard_time": 1723353382,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 583933,
+        "num": 583933,
+        "word": "国乒女团金牌",
+        "onboard_time": 1723303593,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 513654,
+        "num": 513654,
+        "word": "巴黎是樊振东的减肥营",
+        "onboard_time": 1723355301,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 351481,
+        "num": 461755,
+        "word": "姜思达巴黎奥运会奖牌",
+        "onboard_time": 1723356320,
+        "rank": 14,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 460507,
+        "num": 460507,
+        "word": "王楚钦 未来的路会好好规划下",
+        "onboard_time": 1723358059,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 414804,
+        "num": 414804,
+        "word": "陈梦说孙颖莎是领奖动作总导演",
+        "onboard_time": 1723347202,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308476,
+        "num": 409427,
+        "word": "虞书欣 是你们那代的拍照姿势吗",
+        "onboard_time": 1723355420,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205306,
+        "num": 406738,
+        "word": "TF家族四代公演",
+        "onboard_time": 1723358002,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 277894,
+        "num": 406167,
+        "word": "田径女子马拉松决赛",
+        "onboard_time": 1723353262,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 406130,
+        "num": 406130,
+        "word": "乒乓女团奥运5连冠",
+        "onboard_time": 1723303962,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 576084,
+        "num": 393414,
+        "word": "上海套内85平米的家",
+        "onboard_time": 1723351700,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 358040,
+        "num": 358040,
+        "word": "樊振东沉默的那一下马龙动容了",
+        "onboard_time": 1723339042,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59480,
+        "num": 327313,
+        "word": "致敬纯粹的热爱与专注",
+        "onboard_time": 1723360042,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 324950,
+        "num": 324950,
+        "word": "孙颖莎堪称巴黎奥运乒乓队劳模",
+        "onboard_time": 1723355961,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307461,
+        "num": 307461,
+        "word": "魏大勋 祝xyy七夕快乐",
+        "onboard_time": 1723333518,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263678,
+        "num": 263678,
+        "word": "张博恒煎熬的三十五分钟",
+        "onboard_time": 1723359141,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259701,
+        "num": 259701,
+        "word": "厦门女程序员奥运大众马拉松女子第一",
+        "onboard_time": 1723352961,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188503,
+        "num": 257482,
+        "word": "香港偶遇杨洋",
+        "onboard_time": 1723352240,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178845,
+        "num": 256340,
+        "word": "宋旻浩恋爱后近照",
+        "onboard_time": 1723352126,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256185,
+        "num": 256185,
+        "word": "广东6岁女孩从攀岩墙上坠落身亡",
+        "onboard_time": 1723357941,
+        "rank": 30,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 232372,
+        "num": 232372,
+        "word": "孙颖莎说想成为前辈那样的大魔王",
+        "onboard_time": 1723355961,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218981,
+        "num": 218981,
+        "word": "谷爱凌首个全马3小时24分36秒",
+        "onboard_time": 1723336159,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146247,
+        "num": 211741,
+        "word": "汪顺泳坛裴秀智",
+        "onboard_time": 1723352002,
+        "rank": 33,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 209588,
+        "num": 209588,
+        "word": "樊振东评价马龙六块金牌的成就",
+        "onboard_time": 1723358961,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208972,
+        "num": 208972,
+        "word": "全红婵家门口变成小吃一条街了",
+        "onboard_time": 1723330514,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206959,
+        "num": 206959,
+        "word": "孙颖莎 一切都是最好的",
+        "onboard_time": 1723351700,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177182,
+        "num": 177182,
+        "word": "孙颖莎陈梦 是对手更是队友",
+        "onboard_time": 1723300657,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176619,
+        "num": 176619,
+        "word": "大满贯后樊振东展现久违的松弛感",
+        "onboard_time": 1723358842,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161002,
+        "num": 172556,
+        "word": "毛不易全新专辑冒险精神",
+        "onboard_time": 1723359442,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171966,
+        "num": 171966,
+        "word": "浙江一幼儿园改造成养老院",
+        "onboard_time": 1723349301,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169859,
+        "num": 169859,
+        "word": "一到暑假就感觉特别对不起孩子",
+        "onboard_time": 1723359261,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169005,
+        "num": 169005,
+        "word": "美跳高选手回应拒绝共享金牌",
+        "onboard_time": 1723342221,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162493,
+        "num": 162493,
+        "word": "王楚钦奥运会发球直接得分合辑",
+        "onboard_time": 1723357041,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160419,
+        "num": 160419,
+        "word": "王昶认为自己不算天才每场球都很拼",
+        "onboard_time": 1723357521,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155368,
+        "num": 155368,
+        "word": "陈梦讲青岛话像是一秒回家了",
+        "onboard_time": 1723360641,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150705,
+        "num": 150705,
+        "word": "巴黎奥运会DJ用音乐劝架",
+        "onboard_time": 1723359380,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149417,
+        "num": 149417,
+        "word": "阿汤哥霉霉或将现身巴黎闭幕式",
+        "onboard_time": 1723360279,
+        "rank": 47,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 141509,
+        "num": 141509,
+        "word": "山东人个子高再次被实锤",
+        "onboard_time": 1723360582,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135801,
+        "num": 135801,
+        "word": "张杰开了7场演唱会谢娜却失声了",
+        "onboard_time": 1723360641,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#党的二十届三中全会学习笔记#"
+    }
+  }
+}

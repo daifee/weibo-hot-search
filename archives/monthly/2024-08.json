@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1723358437183,
+  "endTime": 1723360667763,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -2955,6 +2955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2493374,
+      "num": 2493374,
+      "word": "奶茶被顺走当事人称不接受道歉",
+      "onboard_time": 1723353861,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2492394,
       "num": 813418,
       "word": "网球女单决赛",
@@ -3857,14 +3865,6 @@
       "onboard_time": 1723301195,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2049098,
-      "num": 2049098,
-      "word": "奶茶被顺走当事人称不接受道歉",
-      "onboard_time": 1723353861,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2047075,
@@ -6219,11 +6219,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1363030,
+      "num": 1363030,
+      "word": "网球裙快成了打工人的新班服",
+      "onboard_time": 1723356801,
+      "rank": 21,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 1361929,
       "num": 204631,
       "word": "李宁龙服疑似下架",
       "onboard_time": 1723012823,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1361750,
+      "num": 782863,
+      "word": "刘国梁评论孙颖莎",
+      "onboard_time": 1723358842,
+      "rank": 10,
       "category": "体育"
     },
     {
@@ -6520,6 +6536,14 @@
       "word": "警方介入调查女子小区放生多盒蟑螂",
       "onboard_time": 1722936632,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1305404,
+      "num": 1305404,
+      "word": "武汉一女子频繁美甲感染HPV",
+      "onboard_time": 1723355061,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -7441,14 +7465,6 @@
       "onboard_time": 1722642261,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1141401,
-      "num": 1141401,
-      "word": "武汉一女子频繁美甲感染HPV",
-      "onboard_time": 1723355061,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1140857,
@@ -9987,6 +10003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 775437,
+      "num": 775437,
+      "word": "马龙集pin光正面就有15个",
+      "onboard_time": 1723353382,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 775285,
       "num": 1177781,
       "word": "迪丽热巴济南",
@@ -10673,14 +10697,6 @@
       "onboard_time": 1722523890,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 704316,
-      "num": 615575,
-      "word": "网球裙快成了打工人的新班服",
-      "onboard_time": 1723356801,
-      "rank": 21,
-      "category": "体育,时尚"
     },
     {
       "raw_hot": 704159,
@@ -11752,14 +11768,6 @@
       "word": "郑钦文 经济舱",
       "onboard_time": 1722723494,
       "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 613235,
-      "num": 613235,
-      "word": "马龙集pin光正面就有15个",
-      "onboard_time": 1723353382,
-      "rank": 38,
       "category": "体育"
     },
     {
@@ -13123,6 +13131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 513654,
+      "num": 513654,
+      "word": "巴黎是樊振东的减肥营",
+      "onboard_time": 1723355301,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 513038,
       "num": 3789884,
       "word": "全红婵回应为什么喜欢黄子韬",
@@ -14256,6 +14272,14 @@
       "word": "王宗源半决赛第一",
       "onboard_time": 1723127368,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 460507,
+      "num": 460507,
+      "word": "王楚钦 未来的路会好好规划下",
+      "onboard_time": 1723358059,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -17419,6 +17443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 351481,
+      "num": 475683,
+      "word": "姜思达巴黎奥运会奖牌",
+      "onboard_time": 1723356320,
+      "rank": 26,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 351472,
       "num": 1287927,
       "word": "吉克隽逸哭着跟观众道歉",
@@ -17595,12 +17627,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 347934,
-      "num": 347934,
-      "word": "巴黎是樊振东的减肥营",
-      "onboard_time": 1723355301,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 347669,
+      "num": 800015,
+      "word": "陆虎穿嘘嘘衣服录蘑菇屋",
+      "onboard_time": 1723357820,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 347512,
@@ -18460,7 +18492,7 @@
     },
     {
       "raw_hot": 325224,
-      "num": 303924,
+      "num": 324950,
       "word": "孙颖莎堪称巴黎奥运乒乓队劳模",
       "onboard_time": 1723355961,
       "rank": 30,
@@ -19273,6 +19305,14 @@
       "onboard_time": 1722702219,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 308476,
+      "num": 409427,
+      "word": "虞书欣 是你们那代的拍照姿势吗",
+      "onboard_time": 1723355420,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 308245,
@@ -21051,6 +21091,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 277894,
+      "num": 475105,
+      "word": "田径女子马拉松决赛",
+      "onboard_time": 1723353262,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 277868,
       "num": 277868,
       "word": "薛凯琪袁娅维真亲了",
@@ -21265,14 +21313,6 @@
       "onboard_time": 1722517705,
       "rank": 10,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 273555,
-      "num": 477443,
-      "word": "陆虎穿嘘嘘衣服录蘑菇屋",
-      "onboard_time": 1723357820,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 273039,
@@ -21715,14 +21755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 265234,
-      "num": 475105,
-      "word": "田径女子马拉松决赛",
-      "onboard_time": 1723353262,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 265053,
       "num": 265053,
       "word": "郑钦文已注册QueenWen商标",
@@ -21848,6 +21880,14 @@
       "word": "吴艳妮妈妈穿旗袍加油",
       "onboard_time": 1723020804,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 263678,
+      "num": 263678,
+      "word": "张博恒煎熬的三十五分钟",
+      "onboard_time": 1723359141,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -22161,6 +22201,14 @@
       "onboard_time": 1722908902,
       "rank": 36,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 256185,
+      "num": 616167,
+      "word": "广东6岁女孩从攀岩墙上坠落身亡",
+      "onboard_time": 1723357941,
+      "rank": 9,
+      "category": "社会负面"
     },
     {
       "raw_hot": 256053,
@@ -23787,14 +23835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 227635,
-      "num": 475683,
-      "word": "姜思达巴黎奥运会奖牌",
-      "onboard_time": 1723356320,
-      "rank": 26,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 227634,
       "num": 616461,
       "word": "翟潇闻摔倒",
@@ -24763,14 +24803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 213881,
-      "num": 213881,
-      "word": "虞书欣 是你们那代的拍照姿势吗",
-      "onboard_time": 1723355420,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 213838,
       "num": 213838,
       "word": "罗永浩",
@@ -24912,14 +24944,6 @@
       "word": "詹姆斯当选奥运男篮MVP",
       "onboard_time": 1723328293,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 212239,
-      "num": 212239,
-      "word": "王楚钦 未来的路会好好规划下",
-      "onboard_time": 1723358059,
-      "rank": 37,
       "category": "体育"
     },
     {
@@ -25145,6 +25169,14 @@
       "onboard_time": 1722846268,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209588,
+      "num": 209588,
+      "word": "樊振东评价马龙六块金牌的成就",
+      "onboard_time": 1723358961,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 209528,
@@ -25609,6 +25641,14 @@
       "onboard_time": 1722844827,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205306,
+      "num": 406738,
+      "word": "TF家族四代公演",
+      "onboard_time": 1723358002,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 205142,
@@ -26545,14 +26585,6 @@
       "onboard_time": 1722690030,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 196731,
-      "num": 196731,
-      "word": "TF家族四代公演",
-      "onboard_time": 1723358002,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 196708,
@@ -28211,6 +28243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176619,
+      "num": 176619,
+      "word": "大满贯后樊振东展现久违的松弛感",
+      "onboard_time": 1723358842,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176554,
       "num": 278352,
       "word": "苏醒小号个性签名我秃了",
@@ -28537,6 +28577,14 @@
       "onboard_time": 1722481045,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 169859,
+      "num": 169859,
+      "word": "一到暑假就感觉特别对不起孩子",
+      "onboard_time": 1723359261,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 169845,
@@ -28883,6 +28931,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 161002,
+      "num": 172556,
+      "word": "毛不易全新专辑冒险精神",
+      "onboard_time": 1723359442,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 160785,
       "num": 194235,
       "word": "第一眼真没看出来是个公交车",
@@ -29115,6 +29171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 155368,
+      "num": 155368,
+      "word": "陈梦讲青岛话像是一秒回家了",
+      "onboard_time": 1723360641,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155283,
       "num": 630187,
       "word": "被全红婵陈芋汐的率真圈粉了",
@@ -29243,6 +29307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150705,
+      "num": 150705,
+      "word": "巴黎奥运会DJ用音乐劝架",
+      "onboard_time": 1723359380,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150503,
       "num": 324536,
       "word": "文件传输助手或有泄密风险",
@@ -29321,6 +29393,14 @@
       "onboard_time": 1722830003,
       "rank": 8,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 149417,
+      "num": 149417,
+      "word": "阿汤哥霉霉或将现身巴黎闭幕式",
+      "onboard_time": 1723360279,
+      "rank": 47,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 149368,
@@ -29521,6 +29601,14 @@
       "onboard_time": 1723150091,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141509,
+      "num": 141509,
+      "word": "山东人个子高再次被实锤",
+      "onboard_time": 1723360582,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141420,
@@ -29729,6 +29817,14 @@
       "onboard_time": 1722616821,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135801,
+      "num": 135801,
+      "word": "张杰开了7场演唱会谢娜却失声了",
+      "onboard_time": 1723360641,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 135760,
@@ -31763,12 +31859,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 70315,
-      "num": 616167,
-      "word": "广东6岁女孩从攀岩墙上坠落身亡",
-      "onboard_time": 1723357941,
+      "raw_hot": 70472,
+      "num": 785466,
+      "word": "毕业证丢了为何不能补办",
+      "onboard_time": 1723359802,
       "rank": 9,
-      "category": "社会负面"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 70278,
@@ -32256,6 +32352,14 @@
       "word": "这就是团队精神",
       "onboard_time": 1722902732,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 59480,
+      "num": 327313,
+      "word": "致敬纯粹的热爱与专注",
+      "onboard_time": 1723360042,
+      "rank": 23,
       "category": "体育"
     },
     {
