@@ -1,6 +1,6 @@
 {
   "startTime": 1723393401015,
-  "endTime": 1723393401015,
+  "endTime": 1723394318247,
   "band_list": [
     {
       "raw_hot": 15817207,
@@ -19,16 +19,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1405129,
-      "num": 1405129,
+      "raw_hot": 1411313,
+      "num": 1411313,
       "word": "中国赢得对美反兴奋剂斗争阶段性胜利",
       "onboard_time": 1723391603,
       "rank": 3,
       "category": "体育"
     },
     {
-      "raw_hot": 1150808,
-      "num": 270657,
+      "raw_hot": 1258949,
+      "num": 1258949,
       "word": "王楚钦飞机上签名球拍",
       "onboard_time": 1723389453,
       "rank": 20,
@@ -67,6 +67,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 645354,
+      "num": 314685,
+      "word": "孙颖莎邱贻可散装英语勇闯法国",
+      "onboard_time": 1723393221,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 639133,
       "num": 639133,
       "word": "发现日本网友真的很爱孙颖莎",
@@ -89,6 +97,14 @@
       "onboard_time": 1723389028,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 601620,
+      "num": 312603,
+      "word": "孙颖莎回应从开幕式打到闭幕式",
+      "onboard_time": 1723391723,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 544698,
@@ -115,14 +131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 468696,
-      "num": 253441,
-      "word": "孙颖莎回应从开幕式打到闭幕式",
-      "onboard_time": 1723391723,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 429522,
       "num": 266841,
       "word": "国乒女团金牌",
@@ -139,12 +147,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 416908,
+      "raw_hot": 424418,
       "num": 264877,
       "word": "马龙说可以去洛杉矶做饭",
       "onboard_time": 1723390885,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 422307,
+      "num": 422307,
+      "word": "瑞幸致歉信",
+      "onboard_time": 1723383147,
+      "rank": 12,
+      "category": "美食"
     },
     {
       "raw_hot": 414370,
@@ -153,14 +169,6 @@
       "onboard_time": 1723391305,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 414345,
-      "num": 414345,
-      "word": "瑞幸致歉信",
-      "onboard_time": 1723383147,
-      "rank": 12,
-      "category": "美食"
     },
     {
       "raw_hot": 409290,
@@ -187,12 +195,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 367487,
-      "num": 244873,
-      "word": "孙颖莎邱贻可散装英语勇闯法国",
-      "onboard_time": 1723393221,
-      "rank": 32,
-      "category": "体育"
+      "raw_hot": 381732,
+      "num": 693029,
+      "word": "在披哥看李佳琦直播",
+      "onboard_time": 1723391006,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 363179,
@@ -201,14 +209,6 @@
       "onboard_time": 1723303962,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 360423,
-      "num": 693029,
-      "word": "在披哥看李佳琦直播",
-      "onboard_time": 1723391006,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 354316,
@@ -251,12 +251,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 313615,
+      "num": 207490,
+      "word": "石智勇 是金牌数量最多的运动员了",
+      "onboard_time": 1723388548,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283625,
       "num": 213927,
       "word": "早田希娜说接下来四年会更加艰难",
       "onboard_time": 1723391424,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 282634,
+      "num": 282634,
+      "word": "瑞幸向易烊千玺道歉",
+      "onboard_time": 1723393281,
+      "rank": 49,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 279503,
@@ -283,20 +299,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 251224,
-      "num": 207490,
-      "word": "石智勇 是金牌数量最多的运动员了",
-      "onboard_time": 1723388548,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 237659,
       "num": 237659,
       "word": "广东新冠感染增加1万余病例",
       "onboard_time": 1723376608,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213392,
+      "num": 678167,
+      "word": "日本大阪府部分水体严重污染",
+      "onboard_time": 1723389389,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 201886,
@@ -323,11 +339,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197111,
+      "num": 188507,
+      "word": "美国女篮 罚球",
+      "onboard_time": 1723393459,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 195122,
+      "num": 195122,
+      "word": "华晨宇 我没事放心吧",
+      "onboard_time": 1723393821,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 194601,
       "num": 194601,
       "word": "法国女篮差点完成任务",
       "onboard_time": 1723392861,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 188174,
+      "num": 188174,
+      "word": "你的巴黎奥运会总结",
+      "onboard_time": 1723393700,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -347,6 +387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 180833,
+      "num": 180833,
+      "word": "孙颖莎说陈梦值得她学习",
+      "onboard_time": 1723393042,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176727,
       "num": 194584,
       "word": "嘉文 出轨",
@@ -363,20 +411,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 175012,
+      "num": 175012,
+      "word": "人生松弛感挑战",
+      "onboard_time": 1723394059,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 171273,
+      "num": 171273,
+      "word": "孙颖莎巴黎街头吃冰淇淋",
+      "onboard_time": 1723394299,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169268,
       "num": 194529,
       "word": "薛之谦 新歌常发但毫无水花",
       "onboard_time": 1723389269,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165485,
-      "num": 678167,
-      "word": "日本大阪府部分水体严重污染",
-      "onboard_time": 1723389389,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 161241,
@@ -387,12 +443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153599,
-      "num": 194462,
-      "word": "瑞幸向易烊千玺道歉",
-      "onboard_time": 1723393281,
-      "rank": 49,
-      "category": "社会新闻,艺人"
+      "raw_hot": 71741,
+      "num": 221654,
+      "word": "日本多地已设近百避难所",
+      "onboard_time": 1723375164,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6892,
