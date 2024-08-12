@@ -1,6 +1,6 @@
 {
   "startTime": 1723307155481,
-  "endTime": 1723467331309,
+  "endTime": 1723469086794,
   "band_list": [
     {
       "raw_hot": 25984443,
@@ -545,6 +545,14 @@
       "onboard_time": 1723442962,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1573769,
+      "num": 1573769,
+      "word": "偶遇黄多多逛街",
+      "onboard_time": 1723466301,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 1560318,
@@ -1627,6 +1635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 632669,
+      "num": 632669,
+      "word": "高圆圆带女儿参加开学典礼",
+      "onboard_time": 1723465401,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 632668,
       "num": 1215025,
       "word": "石凯断层第一",
@@ -1673,14 +1689,6 @@
       "onboard_time": 1723376550,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 603946,
-      "num": 603946,
-      "word": "偶遇黄多多逛街",
-      "onboard_time": 1723466301,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 602967,
@@ -1827,6 +1835,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 547435,
+      "num": 547435,
+      "word": "早田希娜入驻微博",
+      "onboard_time": 1723466001,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 541637,
       "num": 541637,
       "word": "来自东方的神秘力量",
@@ -1865,22 +1881,6 @@
       "onboard_time": 1723384225,
       "rank": 21,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 526512,
-      "num": 469497,
-      "word": "早田希娜入驻微博",
-      "onboard_time": 1723466001,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 521841,
-      "num": 568916,
-      "word": "高圆圆带女儿参加开学典礼",
-      "onboard_time": 1723465401,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 520986,
@@ -2339,6 +2339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 419445,
+      "num": 419445,
+      "word": "全红婵家乡连夜修路建停车场",
+      "onboard_time": 1723467742,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 414469,
       "num": 368426,
       "word": "美国摔跤",
@@ -2353,6 +2361,14 @@
       "onboard_time": 1723391305,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 405151,
+      "num": 405151,
+      "word": "朱茵回应周星驰被说钱重要过朋友",
+      "onboard_time": 1723467441,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 402501,
@@ -2619,6 +2635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 359972,
+      "num": 359972,
+      "word": "胡塞武装称美英两军联合空袭也门",
+      "onboard_time": 1723467321,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 356836,
       "num": 356836,
       "word": "小孩电竞世界杯夺冠",
@@ -2665,6 +2689,14 @@
       "onboard_time": 1723356320,
       "rank": 26,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 349149,
+      "num": 291868,
+      "word": "孙颖莎说巴黎奥运回忆有悲有喜",
+      "onboard_time": 1723465701,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 347148,
@@ -2833,6 +2865,14 @@
       "onboard_time": 1723335320,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325872,
+      "num": 325872,
+      "word": "韩国偶遇李现逛街",
+      "onboard_time": 1723469000,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 325759,
@@ -3120,14 +3160,6 @@
       "word": "男篮裁判",
       "onboard_time": 1723321931,
       "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 288078,
-      "num": 288078,
-      "word": "孙颖莎说巴黎奥运回忆有悲有喜",
-      "onboard_time": 1723465701,
-      "rank": 35,
       "category": "体育"
     },
     {
@@ -3427,6 +3459,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 265752,
+      "num": 257619,
+      "word": "月薪2万吃不起的百果园利润大跌",
+      "onboard_time": 1723466001,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 265396,
       "num": 243242,
       "word": "中国本届奥运会已有8位双金王",
@@ -3681,14 +3721,6 @@
       "onboard_time": 1723342881,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 244067,
-      "num": 244067,
-      "word": "月薪2万吃不起的百果园利润大跌",
-      "onboard_time": 1723466001,
-      "rank": 40,
-      "category": "财经"
     },
     {
       "raw_hot": 243686,
@@ -4059,6 +4091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216589,
+      "num": 216589,
+      "word": "洛杉矶奥运会致敬科比",
+      "onboard_time": 1723465520,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215906,
       "num": 215906,
       "word": "孙颖莎回应首局逆转",
@@ -4203,14 +4243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209730,
-      "num": 209730,
-      "word": "洛杉矶奥运会致敬科比",
-      "onboard_time": 1723465520,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 209588,
       "num": 209588,
       "word": "樊振东评价马龙六块金牌的成就",
@@ -4225,6 +4257,14 @@
       "onboard_time": 1723347145,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209134,
+      "num": 209134,
+      "word": "英仙座流星雨",
+      "onboard_time": 1723465701,
+      "rank": 38,
+      "category": "自然"
     },
     {
       "raw_hot": 208697,
@@ -4723,6 +4763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191910,
+      "num": 191910,
+      "word": "张杰感谢所有朋友的支持和祝福",
+      "onboard_time": 1723468102,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 191742,
       "num": 191742,
       "word": "中国第38金",
@@ -4785,14 +4833,6 @@
       "onboard_time": 1723375164,
       "rank": 47,
       "category": "科学科普,美妆"
-    },
-    {
-      "raw_hot": 189349,
-      "num": 189349,
-      "word": "英仙座流星雨",
-      "onboard_time": 1723465701,
-      "rank": 38,
-      "category": "自然"
     },
     {
       "raw_hot": 189344,
@@ -4931,6 +4971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181784,
+      "num": 181784,
+      "word": "马龙被迫发言是从许昕走了以后",
+      "onboard_time": 1723464681,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181769,
       "num": 195739,
       "word": "李承铉曾觉得尚雯婕不好惹",
@@ -5019,6 +5067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177792,
+      "num": 177792,
+      "word": "深圳一喜茶门店拒招25岁以上员工",
+      "onboard_time": 1723466481,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177526,
       "num": 117809,
       "word": "央视解说cue张博恒",
@@ -5033,6 +5089,14 @@
       "onboard_time": 1723456762,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 176048,
+      "num": 176048,
+      "word": "勒布伦兄弟发文告别巴黎奥运",
+      "onboard_time": 1723468821,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 175590,
@@ -5059,14 +5123,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 173801,
-      "num": 173801,
-      "word": "马龙被迫发言是从许昕走了以后",
-      "onboard_time": 1723464681,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 171877,
       "num": 171877,
       "word": "马拉松颁奖为什么在闭幕式上举行",
@@ -5089,6 +5145,14 @@
       "onboard_time": 1723450820,
       "rank": 49,
       "category": "音乐,体育"
+    },
+    {
+      "raw_hot": 169197,
+      "num": 169197,
+      "word": "上海应急局回应市民买到救灾物资",
+      "onboard_time": 1723468881,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168924,
@@ -5137,14 +5201,6 @@
       "onboard_time": 1723407432,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 167241,
-      "num": 167241,
-      "word": "深圳一喜茶门店拒招25岁以上员工",
-      "onboard_time": 1723466481,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167052,
@@ -5299,6 +5355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 153240,
+      "num": 153240,
+      "word": "时代少年团榜单排名",
+      "onboard_time": 1723467502,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 150705,
       "num": 150705,
       "word": "巴黎奥运会DJ用音乐劝架",
@@ -5323,6 +5387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149654,
+      "num": 149654,
+      "word": "中国奥运健儿陆续返程",
+      "onboard_time": 1723468702,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149636,
       "num": 149636,
       "word": "一诺抖抖库存",
@@ -5332,7 +5404,7 @@
     },
     {
       "raw_hot": 147659,
-      "num": 147659,
+      "num": 556267,
       "word": "河南37岁遇害法官所住小区安保严格",
       "onboard_time": 1723467261,
       "rank": 49,
@@ -5385,6 +5457,14 @@
       "onboard_time": 1723306524,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 138200,
+      "num": 581775,
+      "word": "戴利宣布退役",
+      "onboard_time": 1723468280,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 137918,
@@ -5891,6 +5971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69582,
+      "num": 1292250,
+      "word": "中欧班列累计开行超1.1万列",
+      "onboard_time": 1723466840,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69208,
       "num": 69208,
       "word": "王楚钦首登奥运舞台斩获两金",
@@ -6067,6 +6155,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 48653,
+      "num": 590320,
+      "word": "Uzi巴黎全马挑战",
+      "onboard_time": 1723465942,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48171,
       "num": 353241,
       "word": "周深七夕晚会",
@@ -6227,14 +6323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35883,
-      "num": 590320,
-      "word": "Uzi巴黎全马挑战",
-      "onboard_time": 1723465942,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 34788,
       "num": 110386,
       "word": "AG十二冠王",
@@ -6289,14 +6377,6 @@
       "onboard_time": 1723294763,
       "rank": 2,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 25135,
-      "num": 1071266,
-      "word": "中欧班列累计开行超1.1万列",
-      "onboard_time": 1723466840,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15848,
