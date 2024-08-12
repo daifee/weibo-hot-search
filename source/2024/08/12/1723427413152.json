@@ -1,0 +1,410 @@
+{
+  "runTime": 1723427413152,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7180101,
+        "num": 7180101,
+        "word": "中国金牌榜并列第一",
+        "onboard_time": 1723390055,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6209153,
+        "num": 6209153,
+        "word": "孙颖莎吹灭奥运圣火",
+        "onboard_time": 1723414334,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32157,
+        "num": 3210822,
+        "word": "加快经济社会发展全面绿色转型",
+        "onboard_time": 1723381347,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1437915,
+        "num": 1437915,
+        "word": "孙颖莎闭幕式代表亚洲登场",
+        "onboard_time": 1723410973,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1350708,
+        "num": 1350708,
+        "word": "巴黎奥运会闭幕式",
+        "onboard_time": 1723385368,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1139506,
+        "num": 1139506,
+        "word": "王楚钦回国和爸妈拥抱",
+        "onboard_time": 1723419382,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 937517,
+        "num": 937517,
+        "word": "小莫拿两块银牌回国后的排面",
+        "onboard_time": 1723420163,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 486500,
+        "num": 854201,
+        "word": "鹿晗 打视频",
+        "onboard_time": 1723421903,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368868,
+        "num": 841829,
+        "word": "陈赫张子萱云南旅行vlog",
+        "onboard_time": 1723424722,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89640,
+        "num": 836582,
+        "word": "商家请太原老葛直播带货后惨遭倒闭",
+        "onboard_time": 1723427001,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 836162,
+        "num": 836162,
+        "word": "洛杉矶12分钟",
+        "onboard_time": 1723413433,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 721450,
+        "num": 721450,
+        "word": "婆婆完全可以去故宫上班了",
+        "onboard_time": 1723420221,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 583985,
+        "num": 583985,
+        "word": "马龙说最疯狂的事不能播",
+        "onboard_time": 1723419862,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 451146,
+        "num": 451146,
+        "word": "瑞幸向易烊千玺道歉",
+        "onboard_time": 1723393281,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 283090,
+        "num": 283090,
+        "word": "俄罗斯",
+        "onboard_time": 1723424423,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 571271,
+        "num": 282613,
+        "word": "闭幕式太抽象了",
+        "onboard_time": 1723408212,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 465102,
+        "num": 281661,
+        "word": "孙颖莎去闭幕式好像春游一样",
+        "onboard_time": 1723399694,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 394099,
+        "num": 281504,
+        "word": "库里家人和法国警察冲突",
+        "onboard_time": 1723421903,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216827,
+        "num": 280634,
+        "word": "黄子韬许愿和徐艺洋一生一世",
+        "onboard_time": 1723383626,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175212,
+        "num": 279525,
+        "word": "迪丽热巴代言立白",
+        "onboard_time": 1723419562,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 750866,
+        "num": 278761,
+        "word": "樊振东 真的心跳漏拍了",
+        "onboard_time": 1723425742,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 402159,
+        "num": 278714,
+        "word": "在出租屋听到隔壁女生一直在找猫",
+        "onboard_time": 1723420283,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 392799,
+        "num": 277989,
+        "word": "潘展乐笑对澳大利亚教练质疑",
+        "onboard_time": 1723397475,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 378733,
+        "num": 276959,
+        "word": "孙颖莎说和陈梦王曼昱心在一起",
+        "onboard_time": 1723422803,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 345073,
+        "num": 276337,
+        "word": "中国队旗手入场",
+        "onboard_time": 1723405092,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140147,
+        "num": 275602,
+        "word": "华晨宇 我没事放心吧",
+        "onboard_time": 1723393821,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 329993,
+        "num": 274805,
+        "word": "向佐说香港又不是我的",
+        "onboard_time": 1723389028,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310369,
+        "num": 273625,
+        "word": "国羽除了梁伟铿都在看演唱会",
+        "onboard_time": 1723396337,
+        "rank": 27,
+        "category": "体育,演出"
+      },
+      {
+        "raw_hot": 219041,
+        "num": 273115,
+        "word": "被称为是中国风的待播韩剧",
+        "onboard_time": 1723422505,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303458,
+        "num": 272762,
+        "word": "孙颖莎小小的后背有三只大手",
+        "onboard_time": 1723426221,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258024,
+        "num": 272088,
+        "word": "常州雷击造成一凉亭坍塌致6死10伤",
+        "onboard_time": 1723420163,
+        "rank": 30,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 286270,
+        "num": 270811,
+        "word": "孙颖莎巴黎街头吃冰淇淋",
+        "onboard_time": 1723394299,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270705,
+        "num": 270705,
+        "word": "闭幕式解说",
+        "onboard_time": 1723405092,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262118,
+        "num": 262118,
+        "word": "小孩电竞世界杯夺冠",
+        "onboard_time": 1723410731,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 237977,
+        "num": 237977,
+        "word": "孙颖莎和西蒙大布打招呼",
+        "onboard_time": 1723421784,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229324,
+        "num": 229324,
+        "word": "长期节食减肥带来的后果",
+        "onboard_time": 1723421124,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 222892,
+        "num": 222892,
+        "word": "孙颖莎邱贻可散装英语勇闯法国",
+        "onboard_time": 1723393221,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220073,
+        "num": 220073,
+        "word": "中国代表团已抵达法兰西体育场",
+        "onboard_time": 1723401973,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216597,
+        "num": 216597,
+        "word": "孙颖莎挥国旗",
+        "onboard_time": 1723425561,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211874,
+        "num": 211874,
+        "word": "闭幕式 中国快递小哥镜头",
+        "onboard_time": 1723405872,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201595,
+        "num": 201595,
+        "word": "高铁上行李箱被人拿错还回来是到付",
+        "onboard_time": 1723425742,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201290,
+        "num": 201290,
+        "word": "闭幕式开场",
+        "onboard_time": 1723405512,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108804,
+        "num": 198108,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1723422444,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195482,
+        "num": 195482,
+        "word": "孙颖莎说我全勤下班了",
+        "onboard_time": 1723427360,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191250,
+        "num": 191250,
+        "word": "再见巴黎你好洛杉矶",
+        "onboard_time": 1723427060,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186559,
+        "num": 186559,
+        "word": "海清七岁熬夜八岁喝咖啡",
+        "onboard_time": 1723427360,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186188,
+        "num": 186188,
+        "word": "孙颖莎小魔王的眼泪",
+        "onboard_time": 1723425561,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183260,
+        "num": 183260,
+        "word": "王楚钦飞机上签名球拍",
+        "onboard_time": 1723389453,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180833,
+        "num": 180833,
+        "word": "国乒女团金牌",
+        "onboard_time": 1723303593,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112577,
+        "num": 180774,
+        "word": "张杰官宣世界巡演",
+        "onboard_time": 1723384225,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记感受文化中国#"
+    }
+  }
+}
