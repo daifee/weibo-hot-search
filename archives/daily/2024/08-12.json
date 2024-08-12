@@ -1,6 +1,6 @@
 {
   "startTime": 1723393401015,
-  "endTime": 1723440033869,
+  "endTime": 1723441064398,
   "band_list": [
     {
       "raw_hot": 15817207,
@@ -51,6 +51,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2451002,
+      "num": 2451002,
+      "word": "吴艳妮说奥运成绩很尴尬",
+      "onboard_time": 1723437024,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2185941,
       "num": 1012650,
       "word": "王楚钦说球拍最多复原留个纪念",
@@ -59,19 +67,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2029537,
-      "num": 2029537,
+      "raw_hot": 2182416,
+      "num": 2182416,
       "word": "谷爱凌 马尔尚",
       "onboard_time": 1723437983,
       "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1964997,
-      "num": 1964997,
-      "word": "吴艳妮说奥运成绩很尴尬",
-      "onboard_time": 1723437024,
-      "rank": 36,
       "category": "体育"
     },
     {
@@ -105,6 +105,14 @@
       "onboard_time": 1723399694,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1480626,
+      "num": 1480626,
+      "word": "原731部队成员发文揭露侵华日军罪行",
+      "onboard_time": 1723435523,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1473463,
@@ -155,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1333556,
+      "num": 1333556,
+      "word": "陈赫给张子萱打码",
+      "onboard_time": 1723438282,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1271469,
       "num": 1271469,
       "word": "孙颖莎说我全勤下班了",
@@ -203,20 +219,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1058477,
+      "num": 1058477,
+      "word": "罗森崩了",
+      "onboard_time": 1723436063,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1052324,
       "num": 536806,
       "word": "跳槽被降工资了",
       "onboard_time": 1723428262,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1040508,
-      "num": 1040508,
-      "word": "原731部队成员发文揭露侵华日军罪行",
-      "onboard_time": 1723435523,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1027978,
@@ -241,14 +257,6 @@
       "onboard_time": 1723433542,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 995394,
-      "num": 995394,
-      "word": "陈赫给张子萱打码",
-      "onboard_time": 1723438282,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 981638,
@@ -321,6 +329,14 @@
       "onboard_time": 1723437924,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 826432,
+      "num": 820263,
+      "word": "会计转账495万6天后才发现被骗",
+      "onboard_time": 1723439004,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 822830,
@@ -417,14 +433,6 @@
       "onboard_time": 1723388247,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 620005,
-      "num": 620005,
-      "word": "罗森崩了",
-      "onboard_time": 1723436063,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 613903,
@@ -579,6 +587,14 @@
       "category": "体育,演出"
     },
     {
+      "raw_hot": 433711,
+      "num": 433711,
+      "word": "孙颖莎三年比赛只输了两局",
+      "onboard_time": 1723440684,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 429522,
       "num": 266841,
       "word": "国乒女团金牌",
@@ -731,14 +747,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 364601,
-      "num": 364601,
-      "word": "会计转账495万6天后才发现被骗",
-      "onboard_time": 1723439004,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 363179,
       "num": 232413,
       "word": "乒乓女团奥运5连冠",
@@ -803,6 +811,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 342407,
+      "num": 342407,
+      "word": "容易出汗的人排查一下这4种病",
+      "onboard_time": 1723437744,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 339348,
       "num": 339348,
       "word": "广东新冠感染增加1万余病例",
@@ -849,6 +865,14 @@
       "onboard_time": 1723432521,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 325104,
+      "num": 325104,
+      "word": "上海暴雨",
+      "onboard_time": 1723439340,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 323237,
@@ -907,20 +931,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 309454,
-      "num": 309454,
-      "word": "容易出汗的人排查一下这4种病",
-      "onboard_time": 1723437744,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 303879,
-      "num": 303879,
-      "word": "上海暴雨",
-      "onboard_time": 1723439340,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 308782,
+      "num": 342577,
+      "word": "朱一龙 酒吧唱歌",
+      "onboard_time": 1723440202,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 297983,
@@ -1059,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243160,
+      "num": 243160,
+      "word": "人类寿命或能延长至130岁",
+      "onboard_time": 1723440022,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 242476,
       "num": 242476,
       "word": "孙颖莎 小手办大能量",
@@ -1147,6 +1171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 227903,
+      "num": 227903,
+      "word": "潘展乐回应自己出名了",
+      "onboard_time": 1723440621,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222978,
       "num": 222978,
       "word": "王佳佳",
@@ -1203,6 +1235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207680,
+      "num": 207680,
+      "word": "美国兴奋剂丑闻6连问",
+      "onboard_time": 1723440684,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206308,
       "num": 206308,
       "word": "汪顺最中意的巴黎纪念品",
@@ -1257,6 +1297,14 @@
       "onboard_time": 1723393101,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199533,
+      "num": 199533,
+      "word": "官方通报法官依法办案惨遭杀害情况",
+      "onboard_time": 1723440321,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198395,
@@ -1684,7 +1732,7 @@
     },
     {
       "raw_hot": 91198,
-      "num": 1996280,
+      "num": 2195559,
       "word": "神十八乘组太空出差都在忙些啥",
       "onboard_time": 1723433604,
       "rank": 2,
@@ -1836,11 +1884,19 @@
     },
     {
       "raw_hot": 39888,
-      "num": 370303,
+      "num": 817808,
       "word": "热巴衣服香香的秘密",
       "onboard_time": 1723439243,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 39884,
+      "num": 415851,
+      "word": "在张杰演唱会看到了魏晨",
+      "onboard_time": 1723437862,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 39401,
@@ -1867,20 +1923,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 31948,
-      "num": 415851,
-      "word": "在张杰演唱会看到了魏晨",
-      "onboard_time": 1723437862,
-      "rank": 24,
-      "category": "演出"
-    },
-    {
       "raw_hot": 15241,
       "num": 1004039,
       "word": "陕西北洛河发生1994年以来最大洪水",
       "onboard_time": 1723402812,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12592,
+      "num": 342459,
+      "word": "景甜粉蓝晕染裙",
+      "onboard_time": 1723441042,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 6892,
