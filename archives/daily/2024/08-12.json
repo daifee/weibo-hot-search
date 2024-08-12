@@ -1,6 +1,6 @@
 {
   "startTime": 1723393401015,
-  "endTime": 1723469086794,
+  "endTime": 1723469767084,
   "band_list": [
     {
       "raw_hot": 15817207,
@@ -187,20 +187,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1665769,
+      "num": 1665769,
+      "word": "偶遇黄多多逛街",
+      "onboard_time": 1723466301,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1576827,
       "num": 1576827,
       "word": "山东郯城2人被弓箭射伤警车被射中",
       "onboard_time": 1723442962,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1573769,
-      "num": 1573769,
-      "word": "偶遇黄多多逛街",
-      "onboard_time": 1723466301,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 1534560,
@@ -643,20 +643,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 641259,
+      "num": 641259,
+      "word": "高圆圆带女儿参加开学典礼",
+      "onboard_time": 1723465401,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 639133,
       "num": 639133,
       "word": "发现日本网友真的很爱孙颖莎",
       "onboard_time": 1723388426,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 632669,
-      "num": 632669,
-      "word": "高圆圆带女儿参加开学典礼",
-      "onboard_time": 1723465401,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 632668,
@@ -739,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 572288,
+      "num": 572288,
+      "word": "全红婵家乡连夜修路建停车场",
+      "onboard_time": 1723467742,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 571605,
       "num": 571605,
       "word": "月亮姐姐暴哭",
@@ -801,6 +809,14 @@
       "onboard_time": 1723390885,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 501302,
+      "num": 501302,
+      "word": "朱茵回应周星驰被说钱重要过朋友",
+      "onboard_time": 1723467441,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 495855,
@@ -1003,14 +1019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 419445,
-      "num": 419445,
-      "word": "全红婵家乡连夜修路建停车场",
-      "onboard_time": 1723467742,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 414370,
       "num": 263413,
       "word": "就差一分",
@@ -1025,14 +1033,6 @@
       "onboard_time": 1723385547,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 405151,
-      "num": 405151,
-      "word": "朱茵回应周星驰被说钱重要过朋友",
-      "onboard_time": 1723467441,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 401520,
@@ -1097,6 +1097,14 @@
       "onboard_time": 1723435043,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 382620,
+      "num": 382620,
+      "word": "韩国偶遇李现逛街",
+      "onboard_time": 1723469000,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 381732,
@@ -1315,14 +1323,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 325872,
-      "num": 325872,
-      "word": "韩国偶遇李现逛街",
-      "onboard_time": 1723469000,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 325759,
       "num": 325759,
       "word": "孙颖莎往那一站跟个小手办似的",
@@ -1433,6 +1433,14 @@
       "onboard_time": 1723436242,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 292927,
+      "num": 292927,
+      "word": "月薪2万吃不起的百果园利润大跌",
+      "onboard_time": 1723466001,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 291181,
@@ -1571,14 +1579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 265752,
-      "num": 257619,
-      "word": "月薪2万吃不起的百果园利润大跌",
-      "onboard_time": 1723466001,
-      "rank": 40,
-      "category": "财经"
-    },
-    {
       "raw_hot": 265011,
       "num": 265011,
       "word": "新冠药概念股集体爆发",
@@ -1696,6 +1696,14 @@
       "word": "孙颖莎 小手办大能量",
       "onboard_time": 1723436904,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 239387,
+      "num": 600138,
+      "word": "戴利宣布退役",
+      "onboard_time": 1723468280,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -1843,6 +1851,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 224541,
+      "num": 224541,
+      "word": "洛杉矶奥运会致敬科比",
+      "onboard_time": 1723465520,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222961,
       "num": 222961,
       "word": "潘展乐 破框而出",
@@ -1867,19 +1883,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217558,
+      "num": 217558,
+      "word": "上海应急局回应市民买到救灾物资",
+      "onboard_time": 1723468881,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216597,
       "num": 216597,
       "word": "孙颖莎挥国旗",
       "onboard_time": 1723425561,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 216589,
-      "num": 216589,
-      "word": "洛杉矶奥运会致敬科比",
-      "onboard_time": 1723465520,
-      "rank": 41,
       "category": "体育"
     },
     {
@@ -1889,6 +1905,14 @@
       "onboard_time": 1723448901,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 214587,
+      "num": 214587,
+      "word": "英仙座流星雨",
+      "onboard_time": 1723465701,
+      "rank": 38,
+      "category": "自然"
     },
     {
       "raw_hot": 213623,
@@ -1915,6 +1939,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 211944,
+      "num": 211944,
+      "word": "深圳一喜茶门店拒招25岁以上员工",
+      "onboard_time": 1723466481,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210184,
       "num": 342319,
       "word": "你好星期六 路透",
@@ -1931,20 +1963,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209134,
-      "num": 209134,
-      "word": "英仙座流星雨",
-      "onboard_time": 1723465701,
-      "rank": 38,
-      "category": "自然"
-    },
-    {
       "raw_hot": 208697,
       "num": 452543,
       "word": "柳舟记",
       "onboard_time": 1723431744,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208504,
+      "num": 208504,
+      "word": "马龙被迫发言是从许昕走了以后",
+      "onboard_time": 1723464681,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 208318,
@@ -2235,6 +2267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188417,
+      "num": 556267,
+      "word": "河南37岁遇害法官所住小区安保严格",
+      "onboard_time": 1723467261,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188174,
       "num": 188174,
       "word": "你的巴黎奥运会总结",
@@ -2299,14 +2339,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 181784,
-      "num": 181784,
-      "word": "马龙被迫发言是从许昕走了以后",
-      "onboard_time": 1723464681,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 181175,
       "num": 181175,
       "word": "八乙女光结婚",
@@ -2345,14 +2377,6 @@
       "onboard_time": 1723446920,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 177792,
-      "num": 177792,
-      "word": "深圳一喜茶门店拒招25岁以上员工",
-      "onboard_time": 1723466481,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177526,
@@ -2435,14 +2459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 169197,
-      "num": 169197,
-      "word": "上海应急局回应市民买到救灾物资",
-      "onboard_time": 1723468881,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168427,
       "num": 168427,
       "word": "小猫句句有回应 就是不太孝顺",
@@ -2481,6 +2497,22 @@
       "onboard_time": 1723386687,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160964,
+      "num": 160964,
+      "word": "iPhone17或有更薄的Air版",
+      "onboard_time": 1723469601,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 160839,
+      "num": 160839,
+      "word": "网曝董宇辉爆火至今总薪酬约6亿元",
+      "onboard_time": 1723469361,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 160288,
@@ -2547,14 +2579,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 147659,
-      "num": 556267,
-      "word": "河南37岁遇害法官所住小区安保严格",
-      "onboard_time": 1723467261,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142579,
       "num": 469513,
       "word": "安踏这波奥运开挂了",
@@ -2571,19 +2595,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141404,
+      "num": 141404,
+      "word": "遇到野猪能躲多远躲多远",
+      "onboard_time": 1723468702,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 141059,
       "num": 117690,
       "word": "我们是冠军",
       "onboard_time": 1723406712,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 138200,
-      "num": 581775,
-      "word": "戴利宣布退役",
-      "onboard_time": 1723468280,
-      "rank": 8,
       "category": "体育"
     },
     {
@@ -2641,6 +2665,14 @@
       "onboard_time": 1723405992,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121024,
+      "num": 575306,
+      "word": "元奎",
+      "onboard_time": 1723469541,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 118303,
@@ -2827,6 +2859,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 80728,
+      "num": 1292250,
+      "word": "中欧班列累计开行超1.1万列",
+      "onboard_time": 1723466840,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79907,
       "num": 121611,
       "word": "闭幕式好正常",
@@ -2896,14 +2936,6 @@
       "word": "日本多地已设近百避难所",
       "onboard_time": 1723375164,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 69582,
-      "num": 1292250,
-      "word": "中欧班列累计开行超1.1万列",
-      "onboard_time": 1723466840,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2995,7 +3027,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 48653,
+      "raw_hot": 48835,
       "num": 590320,
       "word": "Uzi巴黎全马挑战",
       "onboard_time": 1723465942,
