@@ -1,6 +1,6 @@
 {
   "startTime": 1723307155481,
-  "endTime": 1723488081744,
+  "endTime": 1723490241452,
   "band_list": [
     {
       "raw_hot": 25984443,
@@ -6531,6 +6531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50312,
+      "num": 110207,
+      "word": "专家解读广东新冠新增1万余例",
+      "onboard_time": 1723487412,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49303,
       "num": 271127,
       "word": "首批问界新M7用户调研报告公布",
@@ -6739,6 +6747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30420,
+      "num": 34066,
+      "word": "白俄罗斯加强对乌方向军事部署",
+      "onboard_time": 1723488193,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 29211,
       "num": 516557,
       "word": "东海连夜开展报废汽车黑生意调查",
@@ -6771,12 +6787,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 18309,
-      "num": 110207,
-      "word": "专家解读广东新冠新增1万余例",
-      "onboard_time": 1723487412,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 17014,
+      "num": 56987,
+      "word": "交警穿过车流救回昏迷的哥",
+      "onboard_time": 1723489331,
+      "rank": 20,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 15848,
@@ -6817,6 +6833,14 @@
       "onboard_time": 1723441042,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 12134,
+      "num": 51095,
+      "word": "守护正义的人更需正义来守护",
+      "onboard_time": 1723489991,
+      "rank": 25,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

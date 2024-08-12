@@ -1,6 +1,6 @@
 {
   "startTime": 1723479939991,
-  "endTime": 1723488081744,
+  "endTime": 1723490241452,
   "band_list": [
     {
       "raw_hot": 1582187,
@@ -499,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50312,
+      "num": 110207,
+      "word": "专家解读广东新冠新增1万余例",
+      "onboard_time": 1723487412,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44129,
       "num": 44129,
       "word": "英雄联盟崩了",
@@ -523,12 +531,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18309,
-      "num": 110207,
-      "word": "专家解读广东新冠新增1万余例",
-      "onboard_time": 1723487412,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 30420,
+      "num": 34066,
+      "word": "白俄罗斯加强对乌方向军事部署",
+      "onboard_time": 1723488193,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 17014,
+      "num": 56987,
+      "word": "交警穿过车流救回昏迷的哥",
+      "onboard_time": 1723489331,
+      "rank": 20,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 15903,
@@ -544,6 +560,14 @@
       "word": "博士村干部任期结束村民含泪送别",
       "onboard_time": 1723485134,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12134,
+      "num": 51095,
+      "word": "守护正义的人更需正义来守护",
+      "onboard_time": 1723489991,
+      "rank": 25,
       "category": "社会新闻"
     }
   ],
