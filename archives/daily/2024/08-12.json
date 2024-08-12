@@ -1,6 +1,6 @@
 {
   "startTime": 1723393401015,
-  "endTime": 1723454556596,
+  "endTime": 1723455317824,
   "band_list": [
     {
       "raw_hot": 15817207,
@@ -91,6 +91,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1982607,
+      "num": 575046,
+      "word": "马龙说孙颖莎是乖萌萌",
+      "onboard_time": 1723453283,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1817945,
       "num": 1181863,
       "word": "朝鲜乒乓球队赛前发现球拍不合规定",
@@ -120,14 +128,6 @@
       "word": "孙颖莎去闭幕式好像春游一样",
       "onboard_time": 1723399694,
       "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1580599,
-      "num": 575046,
-      "word": "马龙说孙颖莎是乖萌萌",
-      "onboard_time": 1723453283,
-      "rank": 20,
       "category": "体育"
     },
     {
@@ -232,6 +232,14 @@
       "word": "闭幕式 齐天大圣从天而降",
       "onboard_time": 1723408391,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1210104,
+      "num": 1210104,
+      "word": "全红婵到底买了多少乌龟",
+      "onboard_time": 1723452865,
+      "rank": 15,
       "category": "体育"
     },
     {
@@ -507,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 639274,
+      "num": 639274,
+      "word": "男子3年身体无症状一次体检查出肺癌",
+      "onboard_time": 1723453050,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 639133,
       "num": 639133,
       "word": "发现日本网友真的很爱孙颖莎",
@@ -528,14 +544,6 @@
       "word": "闭幕式太抽象了",
       "onboard_time": 1723408212,
       "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 626506,
-      "num": 626506,
-      "word": "全红婵到底买了多少乌龟",
-      "onboard_time": 1723452865,
-      "rank": 15,
       "category": "体育"
     },
     {
@@ -577,6 +585,14 @@
       "onboard_time": 1723399814,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 582851,
+      "num": 750208,
+      "word": "王俊凯 好尴尬先插个兜",
+      "onboard_time": 1723451721,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 581622,
@@ -715,14 +731,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 434310,
-      "num": 434310,
-      "word": "男子3年身体无症状一次体检查出肺癌",
-      "onboard_time": 1723453050,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 434195,
       "num": 434195,
       "word": "孙颖莎要不怎么叫莎局呢",
@@ -777,14 +785,6 @@
       "onboard_time": 1723391245,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 423213,
-      "num": 617562,
-      "word": "王俊凯 好尴尬先插个兜",
-      "onboard_time": 1723451721,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 422653,
@@ -1115,6 +1115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 312308,
+      "num": 312308,
+      "word": "涉黄子佼案受害人最小仅11岁",
+      "onboard_time": 1723454600,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310671,
       "num": 310671,
       "word": "圣火是吹灭的",
@@ -1219,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273073,
+      "num": 273073,
+      "word": "朱一龙回应酒吧唱歌",
+      "onboard_time": 1723454539,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 270934,
       "num": 270934,
       "word": "钟辰乐直播",
@@ -1233,6 +1249,14 @@
       "onboard_time": 1723436362,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 268908,
+      "num": 268908,
+      "word": "佛山警方通报女子当街摔打女童",
+      "onboard_time": 1723454000,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265011,
@@ -1339,19 +1363,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 240219,
-      "num": 240219,
-      "word": "朱一龙回应酒吧唱歌",
-      "onboard_time": 1723454539,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 238971,
       "num": 235282,
       "word": "上海交大6金5银3铜",
       "onboard_time": 1723430483,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 236885,
+      "num": 236885,
+      "word": "巴黎奥运乒乓球赛副裁判长谈中国队",
+      "onboard_time": 1723453881,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -1481,14 +1505,6 @@
       "onboard_time": 1723448901,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 214270,
-      "num": 214270,
-      "word": "佛山警方通报女子当街摔打女童",
-      "onboard_time": 1723454000,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213392,
@@ -1739,14 +1755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190491,
-      "num": 190491,
-      "word": "巴黎奥运乒乓球赛副裁判长谈中国队",
-      "onboard_time": 1723453881,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 189344,
       "num": 189344,
       "word": "闭幕式前一男子徒手爬上埃菲尔铁塔",
@@ -1787,6 +1795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 185177,
+      "num": 185177,
+      "word": "莫拉塔离婚",
+      "onboard_time": 1723454721,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184867,
       "num": 255634,
       "word": "边伯贤9月6日回归",
@@ -1795,12 +1811,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 183921,
+      "num": 919430,
+      "word": "俄方在库尔斯克歼灭乌军一个车队",
+      "onboard_time": 1723449624,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 183535,
       "num": 212664,
       "word": "黄雅琼真去看周深演唱会了",
       "onboard_time": 1723379607,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 181555,
+      "num": 181555,
+      "word": "月亮姐姐暴哭",
+      "onboard_time": 1723455201,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 181175,
@@ -1865,6 +1897,14 @@
       "onboard_time": 1723394059,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 174707,
+      "num": 174707,
+      "word": "潘展乐不喜欢被太多人围着",
+      "onboard_time": 1723455021,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 170958,
@@ -1953,14 +1993,6 @@
       "onboard_time": 1723408152,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151778,
-      "num": 919430,
-      "word": "俄方在库尔斯克歼灭乌军一个车队",
-      "onboard_time": 1723449624,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 149636,
@@ -2259,6 +2291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 74472,
+      "num": 1421773,
+      "word": "全球最大漂浮式风电平台启航出海",
+      "onboard_time": 1723453881,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72220,
       "num": 72220,
       "word": "运动员的卡拉OK",
@@ -2307,6 +2347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58135,
+      "num": 812604,
+      "word": "如何看待教师拍短视频开直播",
+      "onboard_time": 1723454420,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56566,
       "num": 702325,
       "word": "周一综合征还能治好吗",
@@ -2315,20 +2363,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54538,
+      "num": 175260,
+      "word": "安踏这波奥运开挂了",
+      "onboard_time": 1723455141,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51714,
       "num": 473798,
       "word": "李雯雯 巴黎直接拿下",
       "onboard_time": 1723443322,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 51446,
-      "num": 812604,
-      "word": "如何看待教师拍短视频开直播",
-      "onboard_time": 1723454420,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49303,
@@ -2347,6 +2395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47697,
+      "num": 1414740,
+      "word": "这一大号充电宝保障我们用电更稳定",
+      "onboard_time": 1723453640,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45660,
       "num": 57993,
       "word": "华晨宇说日出演唱会是一生回忆",
@@ -2361,14 +2417,6 @@
       "onboard_time": 1723392505,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 43768,
-      "num": 1421773,
-      "word": "全球最大漂浮式风电平台启航出海",
-      "onboard_time": 1723453881,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41637,
@@ -2404,7 +2452,7 @@
     },
     {
       "raw_hot": 35696,
-      "num": 633462,
+      "num": 652832,
       "word": "运城女教师被杀案二十年后再调查",
       "onboard_time": 1723454420,
       "rank": 14,
