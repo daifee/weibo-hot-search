@@ -1,0 +1,410 @@
+{
+  "runTime": 1723451217237,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2689840,
+        "num": 2689840,
+        "word": "陈梦回应未来规划",
+        "onboard_time": 1723444821,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1990636,
+        "num": 1990636,
+        "word": "中国金牌榜并列第一",
+        "onboard_time": 1723390055,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56866,
+        "num": 1637865,
+        "word": "神十八乘组太空出差都在忙些啥",
+        "onboard_time": 1723433604,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1464451,
+        "num": 1464451,
+        "word": "会计转账495万6天后才发现被骗",
+        "onboard_time": 1723439004,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1252843,
+        "num": 1252843,
+        "word": "吴艳妮说奥运成绩很尴尬",
+        "onboard_time": 1723437024,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1170610,
+        "num": 1170610,
+        "word": "马龙回应看樊振东单打哭了",
+        "onboard_time": 1723445360,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1158469,
+        "num": 1158469,
+        "word": "王佳佳法官今年已审结271件案件",
+        "onboard_time": 1723445421,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1101811,
+        "num": 1101811,
+        "word": "霍思燕晒自家养的9只宠物狗",
+        "onboard_time": 1723449441,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 624720,
+        "num": 981280,
+        "word": "市场需要这么多演唱会吗",
+        "onboard_time": 1723442662,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 63855,
+        "num": 919430,
+        "word": "俄方在库尔斯克歼灭乌军一个车队",
+        "onboard_time": 1723449624,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 899804,
+        "num": 899804,
+        "word": "原731部队成员发文揭露侵华日军罪行",
+        "onboard_time": 1723435523,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 842853,
+        "num": 842853,
+        "word": "孙颖莎吹灭奥运圣火",
+        "onboard_time": 1723414334,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 700464,
+        "num": 700464,
+        "word": "山东郯城2人被弓箭射伤警车被射中",
+        "onboard_time": 1723442962,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629034,
+        "num": 629034,
+        "word": "罗森崩了",
+        "onboard_time": 1723436063,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184158,
+        "num": 622836,
+        "word": "被这波饿了么免单激励到了",
+        "onboard_time": 1723449624,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 617879,
+        "num": 617879,
+        "word": "谷爱凌 马尔尚",
+        "onboard_time": 1723437983,
+        "rank": 15,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 417608,
+        "num": 615453,
+        "word": "杜海涛沈梦辰在张杰演唱会亲了",
+        "onboard_time": 1723437263,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 405876,
+        "num": 604346,
+        "word": "石凯断层第一",
+        "onboard_time": 1723443022,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349778,
+        "num": 595736,
+        "word": "朱一龙 酒吧唱歌",
+        "onboard_time": 1723440202,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 282549,
+        "num": 592363,
+        "word": "新华社易烊千玺",
+        "onboard_time": 1723443383,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 585578,
+        "num": 585578,
+        "word": "羽毛球穿线师月入三四万",
+        "onboard_time": 1723441221,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568966,
+        "num": 568966,
+        "word": "陈梦说在伤病与质疑中挺过来了",
+        "onboard_time": 1723445481,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 445788,
+        "num": 445788,
+        "word": "女子徒步大雪山失联22天不幸遇难",
+        "onboard_time": 1723448005,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430769,
+        "num": 430769,
+        "word": "孙颖莎闭幕式代表亚洲登场",
+        "onboard_time": 1723410973,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 385736,
+        "num": 385736,
+        "word": "王自如被限制高消费",
+        "onboard_time": 1723448722,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 401469,
+        "num": 383755,
+        "word": "孙颖莎师徒一度承受巨大压力",
+        "onboard_time": 1723437744,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 351741,
+        "num": 351741,
+        "word": "高考生买9千8报考指导志愿被填错",
+        "onboard_time": 1723446680,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229291,
+        "num": 345557,
+        "word": "新疆偶遇张若昀唐艺昕",
+        "onboard_time": 1723437924,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210184,
+        "num": 342319,
+        "word": "你好星期六 路透",
+        "onboard_time": 1723447766,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205432,
+        "num": 340603,
+        "word": "谁家综艺官宣六个人一张脸",
+        "onboard_time": 1723437924,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339783,
+        "num": 339783,
+        "word": "王楚钦说球拍弯成C形了",
+        "onboard_time": 1723443743,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265011,
+        "num": 265011,
+        "word": "新冠药概念股集体爆发",
+        "onboard_time": 1723446800,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 247854,
+        "num": 247854,
+        "word": "王楚钦说球拍最多复原留个纪念",
+        "onboard_time": 1723431081,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233122,
+        "num": 233122,
+        "word": "全红婵晒满地玩具乌龟",
+        "onboard_time": 1723434442,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225515,
+        "num": 225515,
+        "word": "微信自动清理3天未读消息",
+        "onboard_time": 1723447586,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 224633,
+        "num": 224633,
+        "word": "伊朗副总统上任10天后辞职",
+        "onboard_time": 1723449087,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 220929,
+        "num": 220929,
+        "word": "00后女生兼职做伴娘两人打包价666",
+        "onboard_time": 1723438103,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213535,
+        "num": 213535,
+        "word": "小莫凌晨一点在食堂偶遇樊振东",
+        "onboard_time": 1723429283,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212812,
+        "num": 212812,
+        "word": "容易出汗的人排查一下这4种病",
+        "onboard_time": 1723437744,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 206830,
+        "num": 206830,
+        "word": "樊振东与熊猫的适配度",
+        "onboard_time": 1723448901,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206070,
+        "num": 206070,
+        "word": "扎波罗热核电站冷却塔内部烧毁",
+        "onboard_time": 1723447220,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 195581,
+        "num": 195581,
+        "word": "苏新皓 蚊子包",
+        "onboard_time": 1723448484,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190500,
+        "num": 190500,
+        "word": "乌军已深入俄境内30公里",
+        "onboard_time": 1723444220,
+        "rank": 42,
+        "category": "社会新闻,国外时政"
+      },
+      {
+        "raw_hot": 190051,
+        "num": 190051,
+        "word": "夫人 总裁他失控了",
+        "onboard_time": 1723437862,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187361,
+        "num": 187361,
+        "word": "A股两市成交额不足5000亿",
+        "onboard_time": 1723451061,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 183136,
+        "num": 183136,
+        "word": "新冠感染病例数抬头",
+        "onboard_time": 1723451001,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 181336,
+        "num": 181336,
+        "word": "王佳佳",
+        "onboard_time": 1723439122,
+        "rank": 46,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 174945,
+        "num": 174945,
+        "word": "新冠",
+        "onboard_time": 1723429343,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 168519,
+        "num": 168519,
+        "word": "巴黎奥运会闭幕式",
+        "onboard_time": 1723385368,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167842,
+        "num": 167842,
+        "word": "用王源歌声打开中国队40金全纪录",
+        "onboard_time": 1723450820,
+        "rank": 49,
+        "category": "音乐,体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快形成全面开放格局#"
+    }
+  }
+}
