@@ -1,6 +1,6 @@
 {
   "startTime": 1723393401015,
-  "endTime": 1723472454448,
+  "endTime": 1723473497369,
   "band_list": [
     {
       "raw_hot": 15817207,
@@ -107,8 +107,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2198499,
-      "num": 2198499,
+      "raw_hot": 2382453,
+      "num": 2382453,
       "word": "全红婵家乡连夜修路建停车场",
       "onboard_time": 1723467742,
       "rank": 17,
@@ -169,6 +169,14 @@
       "onboard_time": 1723437744,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1702381,
+      "num": 1702381,
+      "word": "上海应急局回应市民买到救灾物资",
+      "onboard_time": 1723468881,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1701764,
@@ -275,14 +283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1394038,
-      "num": 1394038,
-      "word": "上海应急局回应市民买到救灾物资",
-      "onboard_time": 1723468881,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1353040,
       "num": 1353040,
       "word": "中国的应援上了日本的热搜",
@@ -385,6 +385,14 @@
       "onboard_time": 1723436063,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1057747,
+      "num": 1057747,
+      "word": "普京称当务之急是将乌军赶出俄领土",
+      "onboard_time": 1723471882,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1052324,
@@ -571,6 +579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 821348,
+      "num": 821348,
+      "word": "戴利宣布退役",
+      "onboard_time": 1723468280,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 796325,
       "num": 321655,
       "word": "巴黎奥运会闭幕",
@@ -579,16 +595,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 790406,
-      "num": 790406,
-      "word": "戴利宣布退役",
-      "onboard_time": 1723468280,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 762726,
-      "num": 762726,
+      "raw_hot": 765998,
+      "num": 765998,
       "word": "清水英男抵达哈尔滨",
       "onboard_time": 1723464620,
       "rank": 11,
@@ -675,6 +683,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 649684,
+      "num": 649684,
+      "word": "秋风车祸前在车上直播画面传出",
+      "onboard_time": 1723471762,
+      "rank": 22,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 643445,
+      "num": 778433,
+      "word": "圈内人士回应元奎已去世",
+      "onboard_time": 1723471644,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 642832,
+      "num": 695749,
+      "word": "朱茵回应周星驰被说钱重要过朋友",
+      "onboard_time": 1723467441,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 641259,
       "num": 641259,
       "word": "高圆圆带女儿参加开学典礼",
@@ -705,6 +737,14 @@
       "onboard_time": 1723408212,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 626267,
+      "num": 626267,
+      "word": "上海市民买折叠床发现标注救灾物资",
+      "onboard_time": 1723470921,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 624720,
@@ -771,14 +811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 578087,
-      "num": 695749,
-      "word": "朱茵回应周星驰被说钱重要过朋友",
-      "onboard_time": 1723467441,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 571605,
       "num": 571605,
       "word": "月亮姐姐暴哭",
@@ -793,14 +825,6 @@
       "onboard_time": 1723401973,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 561465,
-      "num": 561465,
-      "word": "普京称当务之急是将乌军赶出俄领土",
-      "onboard_time": 1723471882,
-      "rank": 11,
-      "category": "国外时政"
     },
     {
       "raw_hot": 555419,
@@ -859,14 +883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 494989,
-      "num": 494989,
-      "word": "上海市民买折叠床发现标注救灾物资",
-      "onboard_time": 1723470921,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 488350,
       "num": 488350,
       "word": "巴黎奥运闭幕式 无聊",
@@ -892,7 +908,7 @@
     },
     {
       "raw_hot": 473322,
-      "num": 353490,
+      "num": 445226,
       "word": "孙颖莎说巴黎奥运回忆有悲有喜",
       "onboard_time": 1723465701,
       "rank": 35,
@@ -929,6 +945,14 @@
       "onboard_time": 1723440684,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 455434,
+      "num": 455434,
+      "word": "柳舟记 有点好看",
+      "onboard_time": 1723470562,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 448112,
@@ -1009,14 +1033,6 @@
       "onboard_time": 1723454600,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 429044,
-      "num": 350072,
-      "word": "秋风车祸前在车上直播画面传出",
-      "onboard_time": 1723471762,
-      "rank": 22,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 428041,
@@ -1129,14 +1145,6 @@
       "onboard_time": 1723388307,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 387230,
-      "num": 387230,
-      "word": "柳舟记 有点好看",
-      "onboard_time": 1723470562,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 385736,
@@ -1387,20 +1395,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 327239,
-      "num": 327239,
-      "word": "圈内人士回应元奎已去世",
-      "onboard_time": 1723471644,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 325759,
       "num": 325759,
       "word": "孙颖莎往那一站跟个小手办似的",
       "onboard_time": 1723432521,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 325324,
+      "num": 575306,
+      "word": "元奎",
+      "onboard_time": 1723469541,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 325104,
@@ -1443,6 +1451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 316434,
+      "num": 316434,
+      "word": "超级全满贯到目前为止只有三个人",
+      "onboard_time": 1723472902,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 313667,
       "num": 313667,
       "word": "恋与深空罗森",
@@ -1483,11 +1499,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 305431,
+      "num": 305431,
+      "word": "iPhone17或有更薄的Air版",
+      "onboard_time": 1723469601,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 305417,
       "num": 305417,
       "word": "国际奥委会新主席会是谁",
       "onboard_time": 1723460121,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 303087,
+      "num": 289653,
+      "word": "早田希娜和樊振东换pin",
+      "onboard_time": 1723472122,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -1595,6 +1627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 276737,
+      "num": 276737,
+      "word": "英仙座流星雨",
+      "onboard_time": 1723465701,
+      "rank": 38,
+      "category": "自然"
+    },
+    {
       "raw_hot": 274709,
       "num": 274709,
       "word": "扩列被要钱了",
@@ -1625,14 +1665,6 @@
       "onboard_time": 1723457421,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 270982,
-      "num": 270982,
-      "word": "iPhone17或有更薄的Air版",
-      "onboard_time": 1723469601,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 270934,
@@ -1755,14 +1787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 244160,
-      "num": 244160,
-      "word": "早田希娜和樊振东换pin",
-      "onboard_time": 1723472122,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 243305,
       "num": 243305,
       "word": "梁伟铿王昶双人封面",
@@ -1787,6 +1811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 240302,
+      "num": 240302,
+      "word": "小布发了团体前三名合照",
+      "onboard_time": 1723472422,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 238971,
       "num": 235282,
       "word": "上海交大6金5银3铜",
@@ -1808,6 +1840,14 @@
       "word": "马龙回应成合影打卡点",
       "onboard_time": 1723439601,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 236326,
+      "num": 236326,
+      "word": "跳水队的IP已经乱成一锅粥了",
+      "onboard_time": 1723473084,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -1841,14 +1881,6 @@
       "onboard_time": 1723393821,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 234611,
-      "num": 575306,
-      "word": "元奎",
-      "onboard_time": 1723469541,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 233671,
@@ -1947,14 +1979,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 223655,
-      "num": 223655,
-      "word": "英仙座流星雨",
-      "onboard_time": 1723465701,
-      "rank": 38,
-      "category": "自然"
-    },
-    {
       "raw_hot": 222961,
       "num": 222961,
       "word": "潘展乐 破框而出",
@@ -1977,6 +2001,14 @@
       "onboard_time": 1723396695,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216957,
+      "num": 216957,
+      "word": "女飞行员生育后重回职场有多难",
+      "onboard_time": 1723472843,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 216597,
@@ -2147,6 +2179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203526,
+      "num": 203526,
+      "word": "超级全满贯是什么",
+      "onboard_time": 1723473021,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203472,
       "num": 203472,
       "word": "马龙回应40岁正是要闯的年纪",
@@ -2203,6 +2243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199656,
+      "num": 199656,
+      "word": "每天约有1000人到全红婵老家打卡",
+      "onboard_time": 1723473265,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199533,
       "num": 199533,
       "word": "官方通报法官依法办案惨遭杀害情况",
@@ -2217,6 +2265,14 @@
       "onboard_time": 1723404792,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198353,
+      "num": 198353,
+      "word": "杨洋开机应援",
+      "onboard_time": 1723472662,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 198321,
@@ -2273,6 +2329,14 @@
       "onboard_time": 1723460961,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 195974,
+      "num": 195974,
+      "word": "勒布伦兄弟发文告别巴黎奥运",
+      "onboard_time": 1723468821,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 195581,
@@ -2369,14 +2433,6 @@
       "onboard_time": 1723451061,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 187174,
-      "num": 187174,
-      "word": "小布发了团体前三名合照",
-      "onboard_time": 1723472422,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 186188,
@@ -2489,14 +2545,6 @@
       "onboard_time": 1723367421,
       "rank": 45,
       "category": "网红"
-    },
-    {
-      "raw_hot": 176048,
-      "num": 176048,
-      "word": "勒布伦兄弟发文告别巴黎奥运",
-      "onboard_time": 1723468821,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 175590,
@@ -2809,6 +2857,14 @@
       "onboard_time": 1723433422,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 107010,
+      "num": 767215,
+      "word": "最高法慰问王佳佳法官家属",
+      "onboard_time": 1723472543,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106863,
@@ -3188,7 +3244,7 @@
     },
     {
       "raw_hot": 28646,
-      "num": 188257,
+      "num": 207441,
       "word": "打工人奥运会大赏",
       "onboard_time": 1723471942,
       "rank": 44,
