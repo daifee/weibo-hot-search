@@ -1,0 +1,410 @@
+{
+  "runTime": 1723476971777,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1798164,
+        "num": 1798164,
+        "word": "超级全满贯到目前为止只有三个人",
+        "onboard_time": 1723472902,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1462725,
+        "num": 1462725,
+        "word": "全红婵家乡连夜修路建停车场",
+        "onboard_time": 1723467742,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53366,
+        "num": 1434015,
+        "word": "中欧班列累计开行超1.1万列",
+        "onboard_time": 1723466840,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1410492,
+        "num": 1410492,
+        "word": "秋风车祸前在车上直播画面传出",
+        "onboard_time": 1723471762,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1100234,
+        "num": 1100234,
+        "word": "元奎去世",
+        "onboard_time": 1723469541,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 929527,
+        "num": 929527,
+        "word": "早田希娜和樊振东换pin",
+        "onboard_time": 1723472122,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 914068,
+        "num": 914068,
+        "word": "普京称当务之急是将乌军赶出俄领土",
+        "onboard_time": 1723471882,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 799784,
+        "num": 799784,
+        "word": "偶遇黄多多逛街",
+        "onboard_time": 1723466301,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 768704,
+        "num": 768704,
+        "word": "上海应急局回应市民买到救灾物资",
+        "onboard_time": 1723468881,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60683,
+        "num": 627002,
+        "word": "依法严惩杀害女法官凶手以昭正义",
+        "onboard_time": 1723475423,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 608457,
+        "num": 608457,
+        "word": "原731部队成员抵达哈尔滨忏悔道歉",
+        "onboard_time": 1723463421,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598158,
+        "num": 598158,
+        "word": "刘令姿给王楚然挡衣服",
+        "onboard_time": 1723473563,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 547291,
+        "num": 547291,
+        "word": "全红婵到底买了多少乌龟",
+        "onboard_time": 1723452865,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 533654,
+        "num": 533654,
+        "word": "上海市民买折叠床发现标注救灾物资",
+        "onboard_time": 1723470921,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513023,
+        "num": 513023,
+        "word": "圈内人士回应元奎已去世",
+        "onboard_time": 1723471644,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404533,
+        "num": 404533,
+        "word": "普京称乌袭库尔斯克为争取谈判筹码",
+        "onboard_time": 1723476740,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 372807,
+        "num": 372807,
+        "word": "清水英男抵达哈尔滨",
+        "onboard_time": 1723464620,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 345450,
+        "num": 345450,
+        "word": "女飞行员生育后重回职场有多难",
+        "onboard_time": 1723472843,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339988,
+        "num": 339988,
+        "word": "中国的应援上了日本的热搜",
+        "onboard_time": 1723457661,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286555,
+        "num": 326392,
+        "word": "柳舟记 有点好看",
+        "onboard_time": 1723470562,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1715442,
+        "num": 325962,
+        "word": "跳水队的IP已经乱成一锅粥了",
+        "onboard_time": 1723473084,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 325174,
+        "num": 325174,
+        "word": "中国金牌榜并列第一",
+        "onboard_time": 1723390055,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320806,
+        "num": 320806,
+        "word": "孙颖莎说巴黎奥运回忆有悲有喜",
+        "onboard_time": 1723465701,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298421,
+        "num": 298421,
+        "word": "陈梦陈若琳合影",
+        "onboard_time": 1723457482,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284445,
+        "num": 284445,
+        "word": "张雨霏和印度并列第71名",
+        "onboard_time": 1723456221,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272895,
+        "num": 272895,
+        "word": "王源去了周也推荐的火锅店",
+        "onboard_time": 1723474822,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 272681,
+        "num": 272681,
+        "word": "NIP战胜JDG",
+        "onboard_time": 1723474104,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 268353,
+        "num": 268353,
+        "word": "詹姆斯拒绝合影引热议",
+        "onboard_time": 1723472902,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218429,
+        "num": 256521,
+        "word": "朱茵回应周星驰被说钱重要过朋友",
+        "onboard_time": 1723467441,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164656,
+        "num": 253430,
+        "word": "周深机甲露背造型",
+        "onboard_time": 1723476203,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 253018,
+        "num": 253018,
+        "word": "戴利宣布退役",
+        "onboard_time": 1723468280,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249244,
+        "num": 249244,
+        "word": "樊振东 丈母娘天菜",
+        "onboard_time": 1723462521,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246247,
+        "num": 246247,
+        "word": "早田希娜入驻微博",
+        "onboard_time": 1723466001,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235116,
+        "num": 235116,
+        "word": "英仙座流星雨",
+        "onboard_time": 1723465701,
+        "rank": 33,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 235058,
+        "num": 235058,
+        "word": "爱上伍鹏",
+        "onboard_time": 1723475781,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213085,
+        "num": 213085,
+        "word": "早田希娜发文感谢樊振东",
+        "onboard_time": 1723473805,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210017,
+        "num": 210017,
+        "word": "会计转账495万6天后才发现被骗",
+        "onboard_time": 1723439004,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208417,
+        "num": 208417,
+        "word": "每天约有1000人到全红婵老家打卡",
+        "onboard_time": 1723473265,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206993,
+        "num": 206993,
+        "word": "最高法慰问王佳佳法官家属",
+        "onboard_time": 1723472543,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204987,
+        "num": 204987,
+        "word": "张博恒的奖牌挂满房间",
+        "onboard_time": 1723474944,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191022,
+        "num": 191022,
+        "word": "为什么有人喝咖啡睡不着有人却没事",
+        "onboard_time": 1723473742,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 178454,
+        "num": 178454,
+        "word": "许昕以为自己的自拍赛道很小众",
+        "onboard_time": 1723460721,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176042,
+        "num": 176042,
+        "word": "iPhone17或有更薄的Air版",
+        "onboard_time": 1723469601,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 170786,
+        "num": 170786,
+        "word": "孙颖莎闭幕式代表亚洲登场",
+        "onboard_time": 1723410973,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158815,
+        "num": 158815,
+        "word": "英雄联盟崩了",
+        "onboard_time": 1723471343,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158613,
+        "num": 158613,
+        "word": "为什么今年冰淇淋雪糕越来越便宜",
+        "onboard_time": 1723474104,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156272,
+        "num": 156272,
+        "word": "终于等来失忆不失智的女主",
+        "onboard_time": 1723476022,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156223,
+        "num": 156223,
+        "word": "易烊千玺 有没有可能害怕的是我",
+        "onboard_time": 1723458801,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149885,
+        "num": 149885,
+        "word": "马龙回应大头小胖采访划水",
+        "onboard_time": 1723459881,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139881,
+        "num": 148795,
+        "word": "高圆圆带女儿参加开学典礼",
+        "onboard_time": 1723465401,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#凝聚起富民兴村和城乡融合发展的强大力量#"
+    }
+  }
+}
