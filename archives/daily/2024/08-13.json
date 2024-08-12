@@ -1,6 +1,6 @@
 {
   "startTime": 1723479939991,
-  "endTime": 1723494078057,
+  "endTime": 1723494985849,
   "band_list": [
     {
       "raw_hot": 1582187,
@@ -323,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135195,
+      "num": 35443,
+      "word": "孙颖莎回关邱贻可早田希娜",
+      "onboard_time": 1723494013,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134672,
       "num": 134672,
       "word": "为什么今年冰淇淋雪糕越来越便宜",
@@ -425,14 +433,6 @@
       "onboard_time": 1723483275,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111452,
-      "num": 35443,
-      "word": "孙颖莎回关邱贻可早田希娜",
-      "onboard_time": 1723494013,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 109760,
@@ -555,12 +555,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 25694,
+      "raw_hot": 29319,
       "num": 29467,
       "word": "对友情祛魅了",
       "onboard_time": 1723492572,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 27141,
+      "num": 51322,
+      "word": "拜登自曝退选心声",
+      "onboard_time": 1723493772,
+      "rank": 22,
+      "category": "国外时政"
     },
     {
       "raw_hot": 24042,
@@ -569,14 +577,6 @@
       "onboard_time": 1723489991,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21289,
-      "num": 41156,
-      "word": "拜登自曝退选心声",
-      "onboard_time": 1723493772,
-      "rank": 22,
-      "category": "国外时政"
     },
     {
       "raw_hot": 17014,
@@ -595,7 +595,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13950,
+      "raw_hot": 14194,
       "num": 87702,
       "word": "博士村干部任期结束村民含泪送别",
       "onboard_time": 1723485134,
