@@ -1,6 +1,6 @@
 {
   "startTime": 1723307155481,
-  "endTime": 1723437490291,
+  "endTime": 1723440033869,
   "band_list": [
     {
       "raw_hot": 25984443,
@@ -299,11 +299,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2029537,
+      "num": 2029537,
+      "word": "谷爱凌 马尔尚",
+      "onboard_time": 1723437983,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1972153,
       "num": 1972153,
       "word": "樊振东沉默的那一下马龙动容了",
       "onboard_time": 1723339042,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1964997,
+      "num": 1964997,
+      "word": "吴艳妮说奥运成绩很尴尬",
+      "onboard_time": 1723437024,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -332,7 +348,7 @@
     },
     {
       "raw_hot": 1817945,
-      "num": 726444,
+      "num": 1181863,
       "word": "朝鲜乒乓球队赛前发现球拍不合规定",
       "onboard_time": 1723432881,
       "rank": 46,
@@ -376,6 +392,14 @@
       "word": "场地自行车",
       "onboard_time": 1723375044,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1730027,
+      "num": 1730027,
+      "word": "孙颖莎师徒一度承受巨大压力",
+      "onboard_time": 1723437744,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -795,6 +819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1040508,
+      "num": 1040508,
+      "word": "原731部队成员发文揭露侵华日军罪行",
+      "onboard_time": 1723435523,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1030902,
       "num": 1030902,
       "word": "张怡宁说全部人都觉得樊振东打得好",
@@ -811,12 +843,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1016428,
+      "num": 848987,
+      "word": "刘翔巅峰期手握10个亿代言",
+      "onboard_time": 1723433542,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1015574,
       "num": 536473,
       "word": "上海套内85平米的家",
       "onboard_time": 1723351700,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 995394,
+      "num": 995394,
+      "word": "陈赫给张子萱打码",
+      "onboard_time": 1723438282,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 984360,
@@ -907,6 +955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 934432,
+      "num": 934432,
+      "word": "杜海涛沈梦辰在张杰演唱会亲了",
+      "onboard_time": 1723437263,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 934240,
       "num": 934240,
       "word": "林希妤高尔夫铜牌",
@@ -971,14 +1027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 897417,
-      "num": 897417,
-      "word": "原731部队成员发文揭露侵华日军罪行",
-      "onboard_time": 1723435523,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 894358,
       "num": 894358,
       "word": "孙颖莎vs平野美宇",
@@ -1033,6 +1081,14 @@
       "onboard_time": 1723433181,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 839514,
+      "num": 839514,
+      "word": "新疆偶遇张若昀唐艺昕",
+      "onboard_time": 1723437924,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 827695,
@@ -1113,6 +1169,14 @@
       "onboard_time": 1723379607,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 751379,
+      "num": 751379,
+      "word": "谁家综艺官宣六个人一张脸",
+      "onboard_time": 1723437924,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 746485,
@@ -1339,6 +1403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 620005,
+      "num": 620005,
+      "word": "罗森崩了",
+      "onboard_time": 1723436063,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 617867,
       "num": 595055,
       "word": "印度0金牌",
@@ -1409,6 +1481,14 @@
       "onboard_time": 1723314194,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 581622,
+      "num": 715638,
+      "word": "终于有剧把空巢老人困境拍出来了",
+      "onboard_time": 1723435342,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 578164,
@@ -1539,14 +1619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 508605,
-      "num": 508605,
-      "word": "刘翔巅峰期手握10个亿代言",
-      "onboard_time": 1723433542,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 506062,
       "num": 421643,
       "word": "美国女篮已经32年没输球",
@@ -1577,14 +1649,6 @@
       "onboard_time": 1723325953,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 493766,
-      "num": 650723,
-      "word": "终于有剧把空巢老人困境拍出来了",
-      "onboard_time": 1723435342,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 491796,
@@ -1681,14 +1745,6 @@
       "onboard_time": 1723365263,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 464063,
-      "num": 464063,
-      "word": "罗森崩了",
-      "onboard_time": 1723436063,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 462758,
@@ -2131,11 +2187,27 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 364601,
+      "num": 364601,
+      "word": "会计转账495万6天后才发现被骗",
+      "onboard_time": 1723439004,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364454,
       "num": 301267,
       "word": "孙颖莎提议给刘国梁戴金牌",
       "onboard_time": 1723335500,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 360030,
+      "num": 360030,
+      "word": "洛杉矶奥运会或将增加这些项目",
+      "onboard_time": 1723438043,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -2145,6 +2217,14 @@
       "onboard_time": 1723410731,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 354338,
+      "num": 354338,
+      "word": "00后女生兼职做伴娘两人打包价666",
+      "onboard_time": 1723438103,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 354301,
@@ -2299,6 +2379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 328375,
+      "num": 384951,
+      "word": "夫人 总裁他失控了",
+      "onboard_time": 1723437862,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 327149,
       "num": 327149,
       "word": "秋风家人已委托律师跟进",
@@ -2371,6 +2459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 313667,
+      "num": 313667,
+      "word": "恋与深空罗森",
+      "onboard_time": 1723438223,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 313615,
       "num": 207490,
       "word": "石智勇 是金牌数量最多的运动员了",
@@ -2383,14 +2479,6 @@
       "num": 313007,
       "word": "马龙直播回应被左撇子暴击",
       "onboard_time": 1723429770,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 312879,
-      "num": 312879,
-      "word": "吴艳妮说奥运成绩很尴尬",
-      "onboard_time": 1723437024,
       "rank": 36,
       "category": "体育"
     },
@@ -2427,12 +2515,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 309359,
-      "num": 457153,
-      "word": "杜海涛沈梦辰在张杰演唱会亲了",
-      "onboard_time": 1723437263,
-      "rank": 26,
-      "category": "演出"
+      "raw_hot": 309454,
+      "num": 309454,
+      "word": "容易出汗的人排查一下这4种病",
+      "onboard_time": 1723437744,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 308842,
@@ -2465,6 +2553,14 @@
       "onboard_time": 1723385187,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 303879,
+      "num": 303879,
+      "word": "上海暴雨",
+      "onboard_time": 1723439340,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 298667,
@@ -2956,7 +3052,7 @@
     },
     {
       "raw_hot": 249091,
-      "num": 249091,
+      "num": 930628,
       "word": "外交部回应乌军进入俄罗斯领土",
       "onboard_time": 1723436003,
       "rank": 47,
@@ -3059,6 +3155,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 236626,
+      "num": 236626,
+      "word": "马龙回应成合影打卡点",
+      "onboard_time": 1723439601,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 236231,
+      "num": 236231,
+      "word": "法国领土竟然这么大",
+      "onboard_time": 1723438462,
+      "rank": 45,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 236176,
       "num": 217811,
       "word": "闭幕式爆改音乐节",
@@ -3147,6 +3259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 229502,
+      "num": 229502,
+      "word": "成都AG回归KPL五周年",
+      "onboard_time": 1723439543,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 229215,
       "num": 229215,
       "word": "奥运会霹雳舞",
@@ -3185,6 +3305,14 @@
       "onboard_time": 1723375465,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 222978,
+      "num": 222978,
+      "word": "王佳佳",
+      "onboard_time": 1723439122,
+      "rank": 49,
+      "category": "社会负面"
     },
     {
       "raw_hot": 222961,
@@ -3939,6 +4067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179648,
+      "num": 366276,
+      "word": "何浩楠晒后陡门的南瓜",
+      "onboard_time": 1723438585,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179528,
       "num": 2081537,
       "word": "一只流浪猫与24万元赔偿",
@@ -4572,7 +4708,7 @@
     },
     {
       "raw_hot": 91198,
-      "num": 1634584,
+      "num": 1996280,
       "word": "神十八乘组太空出差都在忙些啥",
       "onboard_time": 1723433604,
       "rank": 2,
@@ -4931,6 +5067,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 39888,
+      "num": 370303,
+      "word": "热巴衣服香香的秘密",
+      "onboard_time": 1723439243,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 39758,
       "num": 209941,
       "word": "时代少年团周边中转站",
@@ -4992,6 +5136,14 @@
       "word": "华晨宇合肥七夕演唱会",
       "onboard_time": 1723325052,
       "rank": 29,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 31948,
+      "num": 415851,
+      "word": "在张杰演唱会看到了魏晨",
+      "onboard_time": 1723437862,
+      "rank": 24,
       "category": "演出"
     },
     {
