@@ -1,0 +1,410 @@
+{
+  "runTime": 1723444131687,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3091129,
+        "num": 3091129,
+        "word": "会计转账495万6天后才发现被骗",
+        "onboard_time": 1723439004,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2080216,
+        "num": 2080216,
+        "word": "吴艳妮说奥运成绩很尴尬",
+        "onboard_time": 1723437024,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60569,
+        "num": 1895806,
+        "word": "神十八乘组太空出差都在忙些啥",
+        "onboard_time": 1723433604,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1758898,
+        "num": 1758898,
+        "word": "中国金牌榜并列第一",
+        "onboard_time": 1723390055,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1372018,
+        "num": 1372018,
+        "word": "谷爱凌 马尔尚",
+        "onboard_time": 1723437983,
+        "rank": 4,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 1024220,
+        "num": 1024220,
+        "word": "孙颖莎三年比赛只输了两局",
+        "onboard_time": 1723440684,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 985979,
+        "num": 985979,
+        "word": "林一和经纪人海边看落日",
+        "onboard_time": 1723442603,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 907322,
+        "num": 907322,
+        "word": "孙颖莎吹灭奥运圣火",
+        "onboard_time": 1723414334,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 659169,
+        "num": 801467,
+        "word": "杜海涛沈梦辰在张杰演唱会亲了",
+        "onboard_time": 1723437263,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 732308,
+        "num": 732308,
+        "word": "原731部队成员发文揭露侵华日军罪行",
+        "onboard_time": 1723435523,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1081732,
+        "num": 729919,
+        "word": "孙颖莎师徒一度承受巨大压力",
+        "onboard_time": 1723437744,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 719977,
+        "num": 719977,
+        "word": "罗森崩了",
+        "onboard_time": 1723436063,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 593313,
+        "num": 593313,
+        "word": "王楚钦说球拍最多复原留个纪念",
+        "onboard_time": 1723431081,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 553039,
+        "num": 553039,
+        "word": "谁家综艺官宣六个人一张脸",
+        "onboard_time": 1723437924,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 516684,
+        "num": 516684,
+        "word": "孙颖莎闭幕式代表亚洲登场",
+        "onboard_time": 1723410973,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 485757,
+        "num": 485757,
+        "word": "新疆偶遇张若昀唐艺昕",
+        "onboard_time": 1723437924,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75249,
+        "num": 482262,
+        "word": "热巴衣服香香的秘密",
+        "onboard_time": 1723439243,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 395814,
+        "num": 482030,
+        "word": "朱一龙 酒吧唱歌",
+        "onboard_time": 1723440202,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 481828,
+        "num": 481828,
+        "word": "王佳佳",
+        "onboard_time": 1723439122,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 51714,
+        "num": 473798,
+        "word": "李雯雯 巴黎直接拿下",
+        "onboard_time": 1723443322,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 467740,
+        "num": 467740,
+        "word": "小莫凌晨一点在食堂偶遇樊振东",
+        "onboard_time": 1723429283,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 432044,
+        "num": 432044,
+        "word": "美国兴奋剂丑闻6连问",
+        "onboard_time": 1723440684,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 422261,
+        "num": 422261,
+        "word": "刘翔巅峰期手握10个亿代言",
+        "onboard_time": 1723433542,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251191,
+        "num": 396068,
+        "word": "市场需要这么多演唱会吗",
+        "onboard_time": 1723442662,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 387999,
+        "num": 387999,
+        "word": "羽毛球穿线师月入三四万",
+        "onboard_time": 1723441221,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364377,
+        "num": 377690,
+        "word": "石凯断层第一",
+        "onboard_time": 1723443022,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72896,
+        "num": 372950,
+        "word": "蔡依林临场应变能力",
+        "onboard_time": 1723442301,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 302035,
+        "num": 370844,
+        "word": "刘亦菲将登VOGUE九月刊",
+        "onboard_time": 1723443503,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 369396,
+        "num": 369396,
+        "word": "00后女生兼职做伴娘两人打包价666",
+        "onboard_time": 1723438103,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31275,
+        "num": 339823,
+        "word": "奥运闭幕式前一男子爬埃菲尔铁塔被捕",
+        "onboard_time": 1723444040,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323249,
+        "num": 323249,
+        "word": "朝鲜乒乓球队赛前发现球拍不合规定",
+        "onboard_time": 1723432881,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318008,
+        "num": 318008,
+        "word": "山东郯城2人被弓箭射伤警车被射中",
+        "onboard_time": 1723442962,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298389,
+        "num": 298389,
+        "word": "夫人 总裁他失控了",
+        "onboard_time": 1723437862,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294584,
+        "num": 294584,
+        "word": "容易出汗的人排查一下这4种病",
+        "onboard_time": 1723437744,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 285908,
+        "num": 285908,
+        "word": "孙颖莎成奥运闭幕式打卡点",
+        "onboard_time": 1723441402,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273439,
+        "num": 273439,
+        "word": "上海暴雨",
+        "onboard_time": 1723439340,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270663,
+        "num": 270663,
+        "word": "王曼昱说每个人的成功方式都不一样",
+        "onboard_time": 1723441582,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269975,
+        "num": 269975,
+        "word": "马龙观战樊振东比赛流泪",
+        "onboard_time": 1723442902,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262856,
+        "num": 262856,
+        "word": "洛杉矶奥运会或将增加这些项目",
+        "onboard_time": 1723438043,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261159,
+        "num": 261159,
+        "word": "全红婵像刚拿了驾照的我",
+        "onboard_time": 1723428861,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254944,
+        "num": 254944,
+        "word": "巴黎奥运会闭幕式",
+        "onboard_time": 1723385368,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250066,
+        "num": 250066,
+        "word": "法国领土竟然这么大",
+        "onboard_time": 1723438462,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 30765,
+        "num": 239905,
+        "word": "泽连斯基承认乌方进攻俄方领土",
+        "onboard_time": 1723443383,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 230019,
+        "num": 230019,
+        "word": "新华社易烊千玺",
+        "onboard_time": 1723443383,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212312,
+        "num": 212312,
+        "word": "孙颖莎要不怎么叫莎局呢",
+        "onboard_time": 1723436965,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202404,
+        "num": 202404,
+        "word": "40岁女子遭职场性侵施暴者被判4年",
+        "onboard_time": 1723435043,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189477,
+        "num": 189477,
+        "word": "王楚钦说球拍弯成C形了",
+        "onboard_time": 1723443743,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188087,
+        "num": 188087,
+        "word": "全红婵晒满地玩具乌龟",
+        "onboard_time": 1723434442,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205203,
+        "num": 186189,
+        "word": "易烊千玺给大家看隐秘的自己",
+        "onboard_time": 1723443203,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174892,
+        "num": 174892,
+        "word": "终于有剧把空巢老人困境拍出来了",
+        "onboard_time": 1723435342,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快形成全面开放格局#"
+    }
+  }
+}

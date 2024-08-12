@@ -1,6 +1,6 @@
 {
   "startTime": 1723393401015,
-  "endTime": 1723441064398,
+  "endTime": 1723444131687,
   "band_list": [
     {
       "raw_hot": 15817207,
@@ -41,6 +41,14 @@
       "onboard_time": 1723380566,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3091129,
+      "num": 3091129,
+      "word": "会计转账495万6天后才发现被骗",
+      "onboard_time": 1723439004,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2804026,
@@ -243,6 +251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1024220,
+      "num": 1024220,
+      "word": "孙颖莎三年比赛只输了两局",
+      "onboard_time": 1723440684,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1017126,
       "num": 1017126,
       "word": "中国奖牌榜第1美网友破防",
@@ -257,6 +273,14 @@
       "onboard_time": 1723433542,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 985979,
+      "num": 985979,
+      "word": "林一和经纪人海边看落日",
+      "onboard_time": 1723442603,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 981638,
@@ -329,14 +353,6 @@
       "onboard_time": 1723437924,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 826432,
-      "num": 820263,
-      "word": "会计转账495万6天后才发现被骗",
-      "onboard_time": 1723439004,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 822830,
@@ -531,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 481828,
+      "num": 481828,
+      "word": "王佳佳",
+      "onboard_time": 1723439122,
+      "rank": 49,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 470819,
       "num": 750443,
       "word": "扎波罗热核电站遭乌袭击严重受损",
@@ -587,11 +611,11 @@
       "category": "体育,演出"
     },
     {
-      "raw_hot": 433711,
-      "num": 433711,
-      "word": "孙颖莎三年比赛只输了两局",
+      "raw_hot": 432044,
+      "num": 432044,
+      "word": "美国兴奋剂丑闻6连问",
       "onboard_time": 1723440684,
-      "rank": 22,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -683,6 +707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 395814,
+      "num": 482030,
+      "word": "朱一龙 酒吧唱歌",
+      "onboard_time": 1723440202,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 390836,
       "num": 260416,
       "word": "原来奥运冠军是你女儿啊",
@@ -697,6 +729,14 @@
       "onboard_time": 1723388307,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 387999,
+      "num": 387999,
+      "word": "羽毛球穿线师月入三四万",
+      "onboard_time": 1723441221,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 384329,
@@ -731,6 +771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 369396,
+      "num": 369396,
+      "word": "00后女生兼职做伴娘两人打包价666",
+      "onboard_time": 1723438103,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 368868,
       "num": 921826,
       "word": "陈赫张子萱云南旅行vlog",
@@ -745,6 +793,14 @@
       "onboard_time": 1723420163,
       "rank": 13,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 364377,
+      "num": 377690,
+      "word": "石凯断层第一",
+      "onboard_time": 1723443022,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 363179,
@@ -769,14 +825,6 @@
       "onboard_time": 1723410731,
       "rank": 12,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 354338,
-      "num": 354338,
-      "word": "00后女生兼职做伴娘两人打包价666",
-      "onboard_time": 1723438103,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 354316,
@@ -891,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 318008,
+      "num": 318008,
+      "word": "山东郯城2人被弓箭射伤警车被射中",
+      "onboard_time": 1723442962,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317837,
       "num": 468466,
       "word": "甄嬛传的风还是吹到了Kpop",
@@ -931,12 +987,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 308782,
-      "num": 342577,
-      "word": "朱一龙 酒吧唱歌",
-      "onboard_time": 1723440202,
-      "rank": 28,
-      "category": "电影"
+      "raw_hot": 302035,
+      "num": 370844,
+      "word": "刘亦菲将登VOGUE九月刊",
+      "onboard_time": 1723443503,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 297983,
@@ -945,6 +1001,14 @@
       "onboard_time": 1723436242,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 285908,
+      "num": 285908,
+      "word": "孙颖莎成奥运闭幕式打卡点",
+      "onboard_time": 1723441402,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 283625,
@@ -993,6 +1057,22 @@
       "onboard_time": 1723391843,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270663,
+      "num": 270663,
+      "word": "王曼昱说每个人的成功方式都不一样",
+      "onboard_time": 1723441582,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 269975,
+      "num": 269975,
+      "word": "马龙观战樊振东比赛流泪",
+      "onboard_time": 1723442902,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 269319,
@@ -1059,6 +1139,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 251191,
+      "num": 396068,
+      "word": "市场需要这么多演唱会吗",
+      "onboard_time": 1723442662,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 250066,
+      "num": 250066,
+      "word": "法国领土竟然这么大",
+      "onboard_time": 1723438462,
+      "rank": 45,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 249091,
       "num": 930628,
       "word": "外交部回应乌军进入俄罗斯领土",
@@ -1105,14 +1201,6 @@
       "onboard_time": 1723439601,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 236231,
-      "num": 236231,
-      "word": "法国领土竟然这么大",
-      "onboard_time": 1723438462,
-      "rank": 45,
-      "category": "科学科普"
     },
     {
       "raw_hot": 236176,
@@ -1163,6 +1251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230019,
+      "num": 230019,
+      "word": "新华社易烊千玺",
+      "onboard_time": 1723443383,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 229502,
       "num": 229502,
       "word": "成都AG回归KPL五周年",
@@ -1177,14 +1273,6 @@
       "onboard_time": 1723440621,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 222978,
-      "num": 222978,
-      "word": "王佳佳",
-      "onboard_time": 1723439122,
-      "rank": 49,
-      "category": "社会负面"
     },
     {
       "raw_hot": 222961,
@@ -1235,20 +1323,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207680,
-      "num": 207680,
-      "word": "美国兴奋剂丑闻6连问",
-      "onboard_time": 1723440684,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 206308,
       "num": 206308,
       "word": "汪顺最中意的巴黎纪念品",
       "onboard_time": 1723428981,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205203,
+      "num": 186189,
+      "word": "易烊千玺给大家看隐秘的自己",
+      "onboard_time": 1723443203,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 203257,
@@ -1360,6 +1448,14 @@
       "word": "碧梨现场",
       "onboard_time": 1723413553,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 189477,
+      "num": 189477,
+      "word": "王楚钦说球拍弯成C形了",
+      "onboard_time": 1723443743,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -1795,11 +1891,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75249,
+      "num": 817808,
+      "word": "热巴衣服香香的秘密",
+      "onboard_time": 1723439243,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 75029,
       "num": 97158,
       "word": "周深首次体育场两日连开",
       "onboard_time": 1723396995,
       "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 72896,
+      "num": 372950,
+      "word": "蔡依林临场应变能力",
+      "onboard_time": 1723442301,
+      "rank": 26,
       "category": "演出"
     },
     {
@@ -1859,6 +1971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51714,
+      "num": 473798,
+      "word": "李雯雯 巴黎直接拿下",
+      "onboard_time": 1723443322,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48951,
       "num": 48951,
       "word": "李发彬欧紫霞担任闭幕式中国旗手",
@@ -1881,14 +2001,6 @@
       "onboard_time": 1723392505,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 39888,
-      "num": 817808,
-      "word": "热巴衣服香香的秘密",
-      "onboard_time": 1723439243,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 39884,
@@ -1921,6 +2033,22 @@
       "onboard_time": 1723401853,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 31275,
+      "num": 339823,
+      "word": "奥运闭幕式前一男子爬埃菲尔铁塔被捕",
+      "onboard_time": 1723444040,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30765,
+      "num": 239905,
+      "word": "泽连斯基承认乌方进攻俄方领土",
+      "onboard_time": 1723443383,
+      "rank": 42,
+      "category": "国外时政"
     },
     {
       "raw_hot": 15241,
