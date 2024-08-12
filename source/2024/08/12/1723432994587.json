@@ -1,0 +1,410 @@
+{
+  "runTime": 1723432994587,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3819693,
+        "num": 3819693,
+        "word": "中国金牌榜并列第一",
+        "onboard_time": 1723390055,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2187338,
+        "num": 2187338,
+        "word": "孙颖莎吹灭奥运圣火",
+        "onboard_time": 1723414334,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8427,
+        "num": 1627578,
+        "word": "加快经济社会发展全面绿色转型",
+        "onboard_time": 1723381347,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1442402,
+        "num": 1442402,
+        "word": "小莫凌晨一点在食堂偶遇樊振东",
+        "onboard_time": 1723429283,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1165850,
+        "num": 1165850,
+        "word": "孙颖莎说我全勤下班了",
+        "onboard_time": 1723427360,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1012650,
+        "num": 1012650,
+        "word": "王楚钦说球拍最多复原留个纪念",
+        "onboard_time": 1723431081,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 850969,
+        "num": 850969,
+        "word": "巴黎奥运会闭幕式",
+        "onboard_time": 1723385368,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 593632,
+        "num": 847550,
+        "word": "海清七岁熬夜八岁喝咖啡",
+        "onboard_time": 1723427360,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344025,
+        "num": 833558,
+        "word": "宁艺卓舞台服装出现问题",
+        "onboard_time": 1723427480,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 75981,
+        "num": 823534,
+        "word": "央视曝光报废汽车黑产链",
+        "onboard_time": 1723431624,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1109740,
+        "num": 807264,
+        "word": "孙颖莎小小的后背有三只大手",
+        "onboard_time": 1723426221,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 805691,
+        "num": 805691,
+        "word": "全红婵像刚拿了驾照的我",
+        "onboard_time": 1723428861,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 653831,
+        "num": 653831,
+        "word": "新冠",
+        "onboard_time": 1723429343,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1033414,
+        "num": 628295,
+        "word": "孙颖莎闭幕式代表亚洲登场",
+        "onboard_time": 1723410973,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 458688,
+        "num": 458688,
+        "word": "瑞幸向易烊千玺道歉",
+        "onboard_time": 1723393281,
+        "rank": 14,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 815057,
+        "num": 458567,
+        "word": "谢瑜回应一枪打破家徒四壁",
+        "onboard_time": 1723429161,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 732049,
+        "num": 456567,
+        "word": "王楚钦回国和爸妈拥抱",
+        "onboard_time": 1723419382,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290515,
+        "num": 455139,
+        "word": "陈赫张子萱云南旅行vlog",
+        "onboard_time": 1723424722,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217228,
+        "num": 453729,
+        "word": "鹿晗 打视频",
+        "onboard_time": 1723421903,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208697,
+        "num": 452543,
+        "word": "柳舟记",
+        "onboard_time": 1723431744,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1052324,
+        "num": 450154,
+        "word": "跳槽被降工资了",
+        "onboard_time": 1723428262,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 751825,
+        "num": 448729,
+        "word": "樊振东 真的心跳漏拍了",
+        "onboard_time": 1723425742,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 448052,
+        "num": 448052,
+        "word": "王楚钦还是太许昕了",
+        "onboard_time": 1723431744,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 433562,
+        "num": 433562,
+        "word": "小莫拿两块银牌回国后的排面",
+        "onboard_time": 1723420163,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 400559,
+        "num": 400559,
+        "word": "闭幕式太抽象了",
+        "onboard_time": 1723408212,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167789,
+        "num": 374500,
+        "word": "迪丽热巴代言立白",
+        "onboard_time": 1723419562,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366848,
+        "num": 366848,
+        "word": "马龙网速好快",
+        "onboard_time": 1723430000,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187197,
+        "num": 325459,
+        "word": "锤娜丽莎八月穿上秋装了",
+        "onboard_time": 1723429523,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 319673,
+        "num": 319673,
+        "word": "美利坚众嗑国这些疑问不能不了了之",
+        "onboard_time": 1723430543,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158702,
+        "num": 289493,
+        "word": "国羽除了梁伟铿都在看演唱会",
+        "onboard_time": 1723396337,
+        "rank": 29,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 281823,
+        "num": 281823,
+        "word": "商家请太原老葛直播带货后惨遭倒闭",
+        "onboard_time": 1723427001,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270382,
+        "num": 270382,
+        "word": "洛杉矶12分钟",
+        "onboard_time": 1723413433,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267587,
+        "num": 267587,
+        "word": "马龙直播回应被左撇子暴击",
+        "onboard_time": 1723429770,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265543,
+        "num": 265543,
+        "word": "潘展乐笑对澳大利亚教练质疑",
+        "onboard_time": 1723397475,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226646,
+        "num": 226646,
+        "word": "扎波罗热核电站遭乌袭击严重受损",
+        "onboard_time": 1723432521,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 247797,
+        "num": 226229,
+        "word": "孙颖莎往那一站跟个小手办似的",
+        "onboard_time": 1723432521,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238971,
+        "num": 225334,
+        "word": "上海交大6金5银3铜",
+        "onboard_time": 1723430483,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230137,
+        "num": 225185,
+        "word": "潘展乐吐槽以前的自己",
+        "onboard_time": 1723428803,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223648,
+        "num": 223648,
+        "word": "孙颖莎巴黎街头吃冰淇淋",
+        "onboard_time": 1723394299,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218378,
+        "num": 218378,
+        "word": "孙颖莎最喜欢的明星是马龙",
+        "onboard_time": 1723432041,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142276,
+        "num": 209774,
+        "word": "柳舟记今日开播",
+        "onboard_time": 1723431445,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202672,
+        "num": 202672,
+        "word": "长期吹头发会影响发质吗",
+        "onboard_time": 1723431923,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 201919,
+        "num": 201919,
+        "word": "中国代表团已抵达法兰西体育场",
+        "onboard_time": 1723401973,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192138,
+        "num": 192138,
+        "word": "闭幕式解说",
+        "onboard_time": 1723405092,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190826,
+        "num": 190826,
+        "word": "在出租屋听到隔壁女生一直在找猫",
+        "onboard_time": 1723420283,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187353,
+        "num": 187353,
+        "word": "高铁上行李箱被人拿错还回来是到付",
+        "onboard_time": 1723425742,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187087,
+        "num": 187087,
+        "word": "朝鲜乒乓球队赛前发现球拍不合规定",
+        "onboard_time": 1723432881,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182775,
+        "num": 182775,
+        "word": "中国队旗手入场",
+        "onboard_time": 1723405092,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182248,
+        "num": 182248,
+        "word": "孙颖莎说和陈梦王曼昱心在一起",
+        "onboard_time": 1723422803,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180713,
+        "num": 180713,
+        "word": "谢娜这段给我笑得跪地上了",
+        "onboard_time": 1723432941,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快形成全面开放格局#"
+    }
+  }
+}
