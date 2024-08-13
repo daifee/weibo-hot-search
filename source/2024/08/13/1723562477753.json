@@ -1,0 +1,410 @@
+{
+  "runTime": 1723562477753,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1408720,
+        "num": 1408720,
+        "word": "陈梦早期的照片",
+        "onboard_time": 1723557322,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1034521,
+        "num": 1034521,
+        "word": "孙颖莎直播告状",
+        "onboard_time": 1723551442,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31313,
+        "num": 990024,
+        "word": "何以中国寻根辽宁",
+        "onboard_time": 1723554623,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 974618,
+        "num": 974618,
+        "word": "莎头",
+        "onboard_time": 1723559843,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 903134,
+        "num": 903134,
+        "word": "李依晓官宣恋情",
+        "onboard_time": 1723553182,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 819319,
+        "num": 819319,
+        "word": "王楚钦 我的乒乓生涯远没有结束",
+        "onboard_time": 1723554020,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 731832,
+        "num": 731832,
+        "word": "樊振东拽男时期真的帅",
+        "onboard_time": 1723556003,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 657187,
+        "num": 657187,
+        "word": "夏之光现场被求婚",
+        "onboard_time": 1723555221,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343455,
+        "num": 656091,
+        "word": "外交部回应原731成员指认731罪行",
+        "onboard_time": 1723554803,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104765,
+        "num": 651325,
+        "word": "悉尼一公寓发生命案2亚裔死亡",
+        "onboard_time": 1723561222,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69774,
+        "num": 644099,
+        "word": "极氪智能化站起来了",
+        "onboard_time": 1723557743,
+        "rank": 10,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 2383977,
+        "num": 641819,
+        "word": "小孩闹脾气躺马路中被汽车碾轧",
+        "onboard_time": 1723556542,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1752981,
+        "num": 636305,
+        "word": "骑行遭碾压男孩已身亡",
+        "onboard_time": 1723543222,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1312009,
+        "num": 631336,
+        "word": "陈梦父母公司已注册HOPEWANG商标",
+        "onboard_time": 1723554142,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1114921,
+        "num": 624595,
+        "word": "王楚钦再谈主拍断裂",
+        "onboard_time": 1723552042,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 813998,
+        "num": 620576,
+        "word": "司机亲友就男孩骑行遭汽车碾压发声",
+        "onboard_time": 1723551082,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619790,
+        "num": 619790,
+        "word": "朱一龙回应",
+        "onboard_time": 1723555343,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 341346,
+        "num": 604227,
+        "word": "娜扎与素人合影",
+        "onboard_time": 1723557983,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327203,
+        "num": 561033,
+        "word": "张晚意王楚然咬唇吻花絮",
+        "onboard_time": 1723561162,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300149,
+        "num": 551218,
+        "word": "肖战成毅鞠婧祎超话钻三",
+        "onboard_time": 1723558224,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 759423,
+        "num": 499747,
+        "word": "孙杨要求重新升一次国旗",
+        "onboard_time": 1723560982,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 631722,
+        "num": 469782,
+        "word": "王楚钦孙颖莎直播",
+        "onboard_time": 1723546521,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 463423,
+        "num": 463423,
+        "word": "保时捷与电动车碰撞后撞树起火车主死亡",
+        "onboard_time": 1723559663,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600231,
+        "num": 458227,
+        "word": "王楚钦说孙颖莎五年后还是童颜",
+        "onboard_time": 1723548860,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 451165,
+        "num": 451165,
+        "word": "大熊猫彤彤死亡",
+        "onboard_time": 1723544601,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491421,
+        "num": 447387,
+        "word": "孙颖莎回应小豆包外号",
+        "onboard_time": 1723560563,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373163,
+        "num": 373163,
+        "word": "全红婵父亲回应村内聚起小吃街",
+        "onboard_time": 1723558402,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243844,
+        "num": 369232,
+        "word": "朱一龙粉丝路演现场贴脸开大",
+        "onboard_time": 1723553182,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 228541,
+        "num": 365643,
+        "word": "卢昱晓暂别我家那闺女",
+        "onboard_time": 1723550122,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157838,
+        "num": 365553,
+        "word": "菲方军机两次侵闯黄岩岛邻近空域",
+        "onboard_time": 1723557203,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 365553,
+        "num": 365552,
+        "word": "孙颖莎主动擦地板",
+        "onboard_time": 1723555221,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 329119,
+        "num": 329119,
+        "word": "董卿 不过她自由了",
+        "onboard_time": 1723538842,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295610,
+        "num": 295610,
+        "word": "吃达美乐被烫成二度烧伤",
+        "onboard_time": 1723532061,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277370,
+        "num": 277370,
+        "word": "俄罗斯教练动作示范太美了",
+        "onboard_time": 1723559782,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276163,
+        "num": 276163,
+        "word": "资深骑手谈男童骑行摔倒遭碾压",
+        "onboard_time": 1723554981,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268644,
+        "num": 268644,
+        "word": "刘诗雯说王楚钦看着像刺头其实很乖",
+        "onboard_time": 1723556903,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265007,
+        "num": 265007,
+        "word": "情侣约定存钱开箱发现一半是练功券",
+        "onboard_time": 1723543281,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236910,
+        "num": 236910,
+        "word": "孙颖莎今晚两场直播",
+        "onboard_time": 1723538422,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221516,
+        "num": 221516,
+        "word": "樊振东收到过365公斤牛排奖励",
+        "onboard_time": 1723547422,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229943,
+        "num": 220859,
+        "word": "孙颖莎 东北口音",
+        "onboard_time": 1723560862,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219048,
+        "num": 219048,
+        "word": "孙颖莎说张本美和性格好",
+        "onboard_time": 1723558702,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217248,
+        "num": 217248,
+        "word": "极氪发布会",
+        "onboard_time": 1723548321,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 214107,
+        "num": 214107,
+        "word": "陈乔恩素颜",
+        "onboard_time": 1723547062,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207441,
+        "num": 207441,
+        "word": "小夫妻 一个孩子没了一个家散了",
+        "onboard_time": 1723542383,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201187,
+        "num": 201187,
+        "word": "张本智和 萨摩耶堂堂来袭",
+        "onboard_time": 1723561461,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198671,
+        "num": 198671,
+        "word": "cpgz开票时间",
+        "onboard_time": 1723561583,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 196048,
+        "num": 196048,
+        "word": "宋亚轩刘耀文翻唱窒息",
+        "onboard_time": 1723562302,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194452,
+        "num": 194452,
+        "word": "井胧新歌编曲人回应抄袭",
+        "onboard_time": 1723562362,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 191999,
+        "num": 191999,
+        "word": "朱志鑫 组一",
+        "onboard_time": 1723551801,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191875,
+        "num": 191875,
+        "word": "山东泰山遭误判",
+        "onboard_time": 1723561522,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民有所呼改革有所应#"
+    }
+  }
+}
