@@ -1,6 +1,6 @@
 {
   "startTime": 1723566286207,
-  "endTime": 1723566286207,
+  "endTime": 1723567340393,
   "band_list": [
     {
       "raw_hot": 1909253,
@@ -9,6 +9,14 @@
       "onboard_time": 1723560982,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1488622,
+      "num": 1488622,
+      "word": "俄罗斯",
+      "onboard_time": 1723563500,
+      "rank": 1,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1232511,
@@ -33,14 +41,6 @@
       "onboard_time": 1723556542,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 990836,
-      "num": 990836,
-      "word": "俄罗斯",
-      "onboard_time": 1723563500,
-      "rank": 1,
-      "category": "国外时政"
     },
     {
       "raw_hot": 823513,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 545833,
+      "num": 545833,
+      "word": "伊朗",
+      "onboard_time": 1723564041,
+      "rank": 21,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 533983,
       "num": 533983,
       "word": "司机亲友就男孩骑行遭汽车碾压发声",
@@ -123,20 +131,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 446894,
-      "num": 446894,
-      "word": "伊朗",
-      "onboard_time": 1723564041,
-      "rank": 21,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 385743,
-      "num": 385743,
+      "raw_hot": 423973,
+      "num": 423973,
       "word": "王楚钦 你真的很冒昧",
       "onboard_time": 1723560923,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 398209,
+      "num": 515131,
+      "word": "朱一龙回应",
+      "onboard_time": 1723555343,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 381367,
@@ -155,14 +163,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 365046,
-      "num": 515131,
-      "word": "朱一龙回应",
-      "onboard_time": 1723555343,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 352609,
       "num": 506910,
       "word": "夏之光现场被求婚",
@@ -177,6 +177,14 @@
       "onboard_time": 1723561461,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 333786,
+      "num": 554255,
+      "word": "广西德天瀑布景区事故责任人被控制",
+      "onboard_time": 1723563443,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 305819,
@@ -241,14 +249,6 @@
       "onboard_time": 1723563681,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 185094,
-      "num": 554255,
-      "word": "广西德天瀑布景区事故责任人被控制",
-      "onboard_time": 1723563443,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 184882,
@@ -364,7 +364,7 @@
     },
     {
       "raw_hot": 133968,
-      "num": 133968,
+      "num": 209064,
       "word": "广西通报德天瀑布景区事故原因",
       "onboard_time": 1723565240,
       "rank": 47,
@@ -387,8 +387,24 @@
       "category": "演出"
     },
     {
-      "raw_hot": 36189,
-      "num": 381959,
+      "raw_hot": 108549,
+      "num": 108549,
+      "word": "喜人奇妙夜",
+      "onboard_time": 1723567037,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 108407,
+      "num": 108407,
+      "word": "晴子",
+      "onboard_time": 1723567218,
+      "rank": 48,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 40763,
+      "num": 495889,
       "word": "警方回应悉尼一公寓2亚裔死亡",
       "onboard_time": 1723566140,
       "rank": 23,
@@ -396,7 +412,7 @@
     },
     {
       "raw_hot": 30440,
-      "num": 885944,
+      "num": 961849,
       "word": "何以中国寻根辽宁",
       "onboard_time": 1723554623,
       "rank": 2,
