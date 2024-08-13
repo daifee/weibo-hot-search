@@ -1,0 +1,410 @@
+{
+  "runTime": 1723520238974,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2363396,
+        "num": 2363396,
+        "word": "孙颖莎回国",
+        "onboard_time": 1723512260,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2195469,
+        "num": 2195469,
+        "word": "井胧 抄袭",
+        "onboard_time": 1723515860,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 86668,
+        "num": 1950163,
+        "word": "腾格里蓝成为新中式沙漠色号",
+        "onboard_time": 1723519291,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1752599,
+        "num": 1752599,
+        "word": "第一批巴黎奥运奖牌已经开始脱皮了",
+        "onboard_time": 1723511900,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1723796,
+        "num": 1723796,
+        "word": "张杰有3.7亿条消息",
+        "onboard_time": 1723513521,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1508159,
+        "num": 1508159,
+        "word": "张志杰母亲称儿子遗体仍在印尼",
+        "onboard_time": 1723518621,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1456338,
+        "num": 1456338,
+        "word": "潘展乐解散粉丝群",
+        "onboard_time": 1723518742,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1300465,
+        "num": 1300465,
+        "word": "清水英男揭露日军不打麻药活剥人皮",
+        "onboard_time": 1723517841,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1241435,
+        "num": 1241435,
+        "word": "副处级王家伟身份疑云",
+        "onboard_time": 1723514420,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366529,
+        "num": 1134644,
+        "word": "原731成员向谢罪与不战和平之碑忏悔",
+        "onboard_time": 1723519641,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24496,
+        "num": 1121547,
+        "word": "白岩松谈东方茶引领时代先锋",
+        "onboard_time": 1723518141,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1270169,
+        "num": 1118443,
+        "word": "男子腹痛三月以为是肿瘤结果是叉子",
+        "onboard_time": 1723511541,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1111617,
+        "num": 1111617,
+        "word": "女子辱骂诋毁运动员教练员被刑拘",
+        "onboard_time": 1723518501,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107165,
+        "num": 806228,
+        "word": "五菱星光S能耗成本堪比坐公交",
+        "onboard_time": 1723515500,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 784437,
+        "num": 784437,
+        "word": "原731成员在哈尔滨指认谢罪",
+        "onboard_time": 1723511900,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 700741,
+        "num": 700741,
+        "word": "00后北漂女生毕业一年张家口买房",
+        "onboard_time": 1723513701,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 639371,
+        "num": 699355,
+        "word": "东方小孙曾个人赠予董宇辉1500万",
+        "onboard_time": 1723516280,
+        "rank": 16,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 632644,
+        "num": 687256,
+        "word": "万茜爆料刘亦菲拍戏从来不拿手机",
+        "onboard_time": 1723518561,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 597264,
+        "num": 679417,
+        "word": "刺杀小说家2官宣开机",
+        "onboard_time": 1723517600,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 361422,
+        "num": 665840,
+        "word": "蔡徐坤ins",
+        "onboard_time": 1723513939,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 658661,
+        "num": 658661,
+        "word": "美国游泳队紫脸到底是什么",
+        "onboard_time": 1723507821,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 655096,
+        "num": 655096,
+        "word": "全红婵给爷爷打电话必有三连问",
+        "onboard_time": 1723519221,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 614080,
+        "num": 614080,
+        "word": "武功山景区夫妻俩漂流1死1伤",
+        "onboard_time": 1723509683,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562160,
+        "num": 562160,
+        "word": "网传父亲带娃骑行娃摔车遭小车碾压",
+        "onboard_time": 1723508243,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544238,
+        "num": 544238,
+        "word": "潘展乐 清醒",
+        "onboard_time": 1723504817,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 475824,
+        "num": 475824,
+        "word": "江浙沪人就是先天留学圣体",
+        "onboard_time": 1723516821,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 292483,
+        "num": 471512,
+        "word": "秋风所乘网约车司机朋友发声",
+        "onboard_time": 1723505968,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 272231,
+        "num": 468893,
+        "word": "元奎已于两年前离世",
+        "onboard_time": 1723505538,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 265801,
+        "num": 462816,
+        "word": "原来男人哭得梨花带雨是这样的",
+        "onboard_time": 1723508482,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29277,
+        "num": 456881,
+        "word": "美官员称长崎纪念仪式为庆典惹怒日本网民",
+        "onboard_time": 1723519881,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453036,
+        "num": 453036,
+        "word": "早田希娜加入五星红旗宇宙",
+        "onboard_time": 1723507101,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 427176,
+        "num": 427176,
+        "word": "全红婵母亲说不敢让女儿回家",
+        "onboard_time": 1723504456,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 424354,
+        "num": 424354,
+        "word": "美团回应杭州外卖员事件",
+        "onboard_time": 1723511900,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391364,
+        "num": 391364,
+        "word": "原731部队成员说标本里不乏婴儿",
+        "onboard_time": 1723518621,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329106,
+        "num": 329106,
+        "word": "发小酒后身亡同饮男子遭索赔62万",
+        "onboard_time": 1723516821,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321513,
+        "num": 321513,
+        "word": "终于知道奥运会的pin长啥样了",
+        "onboard_time": 1723507341,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317335,
+        "num": 317335,
+        "word": "一枪打直了国人弯了一辈子的腰",
+        "onboard_time": 1723518141,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310135,
+        "num": 310135,
+        "word": "孙颖莎回关邱贻可早田希娜",
+        "onboard_time": 1723494013,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280797,
+        "num": 280797,
+        "word": "孙海洋家办孙卓升学宴",
+        "onboard_time": 1723515020,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273917,
+        "num": 273917,
+        "word": "黑神话悟空性能测试工具",
+        "onboard_time": 1723518802,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 255839,
+        "num": 255839,
+        "word": "跳水队的IP已经乱成一锅粥了",
+        "onboard_time": 1723473084,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246412,
+        "num": 246412,
+        "word": "邱贻可终于有名分了",
+        "onboard_time": 1723512980,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246165,
+        "num": 246165,
+        "word": "全红婵家乡连夜修路建停车场",
+        "onboard_time": 1723467742,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245541,
+        "num": 245541,
+        "word": "闵玧其退团花环",
+        "onboard_time": 1723519522,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142383,
+        "num": 244715,
+        "word": "同场电影票价相差33元",
+        "onboard_time": 1723518021,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244545,
+        "num": 244545,
+        "word": "中国金牌榜并列第一",
+        "onboard_time": 1723390055,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231435,
+        "num": 231435,
+        "word": "奥运村1.4万张床垫将捐给法国军队",
+        "onboard_time": 1723515140,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221632,
+        "num": 221632,
+        "word": "普京称西方正假手乌克兰与俄作战",
+        "onboard_time": 1723505726,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 214347,
+        "num": 214347,
+        "word": "揭秘美国抹黑中国游泳队的主推手",
+        "onboard_time": 1723519823,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212977,
+        "num": 212977,
+        "word": "巴勒斯坦总统阿巴斯将与普京会晤",
+        "onboard_time": 1723507401,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习新语#"
+    }
+  }
+}
