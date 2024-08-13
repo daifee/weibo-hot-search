@@ -1,6 +1,6 @@
 {
   "startTime": 1723307155481,
-  "endTime": 1723523035752,
+  "endTime": 1723523875808,
   "band_list": [
     {
       "raw_hot": 25984443,
@@ -387,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2137844,
+      "num": 2137844,
+      "word": "全红婵给爷爷打电话必有三连问",
+      "onboard_time": 1723519221,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2119044,
       "num": 2119044,
       "word": "马龙发文告别奥运",
@@ -401,14 +409,6 @@
       "onboard_time": 1723518501,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2078211,
-      "num": 2078211,
-      "word": "全红婵给爷爷打电话必有三连问",
-      "onboard_time": 1723519221,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 2072806,
@@ -616,6 +616,14 @@
       "word": "偶遇黄多多逛街",
       "onboard_time": 1723466301,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1634974,
+      "num": 1185211,
+      "word": "宋伊人恋情",
+      "onboard_time": 1723522282,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -987,12 +995,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1235751,
-      "num": 1042507,
-      "word": "宋伊人恋情",
-      "onboard_time": 1723522282,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 1233892,
+      "num": 1233892,
+      "word": "小伙花十几万断骨增高致终身伤残",
+      "onboard_time": 1723521564,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1232861,
@@ -1507,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 851081,
+      "num": 1134644,
+      "word": "原731成员向谢罪与不战和平之碑忏悔",
+      "onboard_time": 1723519641,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 847202,
       "num": 847202,
       "word": "王楚钦 未来的路会好好规划下",
@@ -1563,6 +1579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 805099,
+      "num": 805099,
+      "word": "原731成员在哈尔滨指认谢罪",
+      "onboard_time": 1723511900,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 804296,
       "num": 804296,
       "word": "马龙说退役不会搞仪式",
@@ -1595,14 +1619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 784437,
-      "num": 784437,
-      "word": "原731成员在哈尔滨指认谢罪",
-      "onboard_time": 1723511900,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 782263,
       "num": 782263,
       "word": "许昕做法啊",
@@ -1633,14 +1649,6 @@
       "onboard_time": 1723353382,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 773653,
-      "num": 1134644,
-      "word": "原731成员向谢罪与不战和平之碑忏悔",
-      "onboard_time": 1723519641,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 772635,
@@ -1771,6 +1779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 715680,
+      "num": 715680,
+      "word": "万茜爆料刘亦菲拍戏从来不拿手机",
+      "onboard_time": 1723518561,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 702629,
       "num": 1239337,
       "word": "德天瀑布魔毯故障1名游客死亡",
@@ -1825,14 +1841,6 @@
       "onboard_time": 1723471644,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 683570,
-      "num": 687256,
-      "word": "万茜爆料刘亦菲拍戏从来不拿手机",
-      "onboard_time": 1723518561,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 679767,
@@ -2163,14 +2171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 573046,
-      "num": 573046,
-      "word": "小伙花十几万断骨增高致终身伤残",
-      "onboard_time": 1723521564,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 571605,
       "num": 571605,
       "word": "月亮姐姐暴哭",
@@ -2273,6 +2273,14 @@
       "onboard_time": 1723521321,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 528575,
+      "num": 509731,
+      "word": "全红婵哥哥说村里根本挤不进去",
+      "onboard_time": 1723521502,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 527878,
@@ -2635,6 +2643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 436320,
+      "num": 436320,
+      "word": "邓超就这么水灵灵地杀进来了",
+      "onboard_time": 1723521628,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 435401,
       "num": 415531,
       "word": "汪顺一边采访一边采血",
@@ -2771,6 +2787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 423475,
+      "num": 485875,
+      "word": "刘亦菲金九银十封面",
+      "onboard_time": 1723521983,
+      "rank": 27,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 422653,
       "num": 342946,
       "word": "孙颖莎和西蒙大布打招呼",
@@ -2867,6 +2891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 396818,
+      "num": 396818,
+      "word": "WTT澳门冠军赛2024",
+      "onboard_time": 1723523723,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 393730,
       "num": 531569,
       "word": "比伯的近况",
@@ -2953,14 +2985,6 @@
       "onboard_time": 1723469000,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 382323,
-      "num": 382323,
-      "word": "全红婵哥哥说村里根本挤不进去",
-      "onboard_time": 1723521502,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 381732,
@@ -3291,22 +3315,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 342111,
-      "num": 485875,
-      "word": "刘亦菲金九银十封面",
-      "onboard_time": 1723521983,
-      "rank": 27,
-      "category": "作品衍生,艺人"
-    },
-    {
-      "raw_hot": 340357,
-      "num": 340357,
-      "word": "邓超就这么水灵灵地杀进来了",
-      "onboard_time": 1723521628,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 339699,
       "num": 705130,
       "word": "美国男篮奥运冠军",
@@ -3377,6 +3385,14 @@
       "onboard_time": 1723509021,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329310,
+      "num": 329310,
+      "word": "俄库尔斯克州28处定居点被乌军控制",
+      "onboard_time": 1723520420,
+      "rank": 47,
+      "category": "国外时政"
     },
     {
       "raw_hot": 329135,
@@ -3579,6 +3595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 311155,
+      "num": 311155,
+      "word": "哪个省奥运冠军最多",
+      "onboard_time": 1723522343,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 310878,
       "num": 310878,
       "word": "张博恒煎熬的三十五分钟",
@@ -3707,6 +3731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 296240,
+      "num": 296240,
+      "word": "Jiejie和Viper韩国重聚",
+      "onboard_time": 1723522702,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 294841,
       "num": 294841,
       "word": "马龙为了比赛一直忍着没换pin",
@@ -3761,6 +3793,14 @@
       "onboard_time": 1723350802,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 291304,
+      "num": 291304,
+      "word": "骑行遭碾压孩子父亲曾回怼他人劝阻",
+      "onboard_time": 1723523362,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291254,
@@ -4145,14 +4185,6 @@
       "onboard_time": 1723357941,
       "rank": 9,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 265690,
-      "num": 265690,
-      "word": "哪个省奥运冠军最多",
-      "onboard_time": 1723522343,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 265396,
@@ -4555,6 +4587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 236115,
+      "num": 236115,
+      "word": "2024国际乒联第33周排名",
+      "onboard_time": 1723520241,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 235390,
       "num": 235390,
       "word": "陈若琳回复陈梦",
@@ -4720,6 +4760,14 @@
       "word": "潘展乐回应自己出名了",
       "onboard_time": 1723440621,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 226633,
+      "num": 226633,
+      "word": "全红婵陈芋汐陈艺文去撸猫啦",
+      "onboard_time": 1723523844,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -4945,14 +4993,6 @@
       "onboard_time": 1723317012,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 215072,
-      "num": 215072,
-      "word": "俄库尔斯克州28处定居点被乌军控制",
-      "onboard_time": 1723520420,
-      "rank": 47,
-      "category": "国外时政"
     },
     {
       "raw_hot": 214740,
@@ -6771,6 +6811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104422,
+      "num": 514493,
+      "word": "黄子弘凡风扇行为开始人传人",
+      "onboard_time": 1723523664,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103488,
       "num": 103488,
       "word": "马尔尚熄灭奥运圣火",
@@ -7033,6 +7081,14 @@
       "onboard_time": 1723453640,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 75367,
+      "num": 1185769,
+      "word": "白俄罗斯国防部称已处于战备状态",
+      "onboard_time": 1723522221,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 75249,
@@ -7315,12 +7371,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53043,
-      "num": 1071012,
-      "word": "白俄罗斯国防部称已处于战备状态",
-      "onboard_time": 1723522221,
-      "rank": 9,
-      "category": "国外时政"
+      "raw_hot": 52895,
+      "num": 245083,
+      "word": "朱一龙说了两遍我挺好的",
+      "onboard_time": 1723522762,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 52759,
@@ -7361,6 +7417,14 @@
       "onboard_time": 1723465942,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48235,
+      "num": 597143,
+      "word": "金晨新剧演武林别主",
+      "onboard_time": 1723521923,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 48171,
@@ -7433,6 +7497,14 @@
       "onboard_time": 1723375525,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42826,
+      "num": 371416,
+      "word": "赵小童晒饭",
+      "onboard_time": 1723523603,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 42619,
@@ -7523,14 +7595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 38476,
-      "num": 597143,
-      "word": "金晨新剧演武林别主",
-      "onboard_time": 1723521923,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 37915,
       "num": 531612,
       "word": "成毅是什么行走的面膜模特吗",
@@ -7553,6 +7617,14 @@
       "onboard_time": 1723425441,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35575,
+      "num": 516147,
+      "word": "闭幕了舒服多了",
+      "onboard_time": 1723522402,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 35252,
@@ -7657,14 +7729,6 @@
       "onboard_time": 1723294763,
       "rank": 2,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 25081,
-      "num": 488749,
-      "word": "闭幕了舒服多了",
-      "onboard_time": 1723522402,
-      "rank": 25,
-      "category": "汽车"
     },
     {
       "raw_hot": 24042,
