@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/08/01 00:24:58 ~ 2024/08/13 21:35:06
+本榜单时间：2024/08/01 00:24:58 ~ 2024/08/13 22:19:02
 </p>
 </blockquote>
 <p>
@@ -4137,6 +4137,12 @@ TFBOYS出道十一周年（热度：5783219）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E7%88%B6%E6%AF%8D%E5%85%AC%E5%8F%B8%E5%B7%B2%E6%B3%A8%E5%86%8CHOPEWANG%E5%95%86%E6%A0%87%23" target="weibo">
+陈梦父母公司已注册HOPEWANG商标（热度：1703044）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E8%AF%B4%E5%AF%B9%E4%B8%8D%E8%B5%B7%E5%BC%A0%E4%B9%8B%E8%87%BB%23" target="weibo">
 郑钦文说对不起张之臻（热度：1703024）
 </a>
@@ -4787,12 +4793,6 @@ Kimi14岁身高（热度：1541456）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%AF%B4%E8%8E%8E%E8%8E%8E%E6%B2%A1%E4%BB%A5%E5%89%8D%E7%88%B1%E7%AC%91%E4%BA%86%23" target="weibo">
 王曼昱说莎莎没以前爱笑了（热度：1506798）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E7%88%B6%E6%AF%8D%E5%85%AC%E5%8F%B8%E5%B7%B2%E6%B3%A8%E5%86%8CHOPEWANG%E5%95%86%E6%A0%87%23" target="weibo">
-陈梦父母公司已注册HOPEWANG商标（热度：1505363）
 </a>
 </li>
 
