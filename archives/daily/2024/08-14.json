@@ -1,6 +1,6 @@
 {
   "startTime": 1723566286207,
-  "endTime": 1723587531671,
+  "endTime": 1723588569515,
   "band_list": [
     {
       "raw_hot": 1909253,
@@ -467,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85853,
+      "num": 76588,
+      "word": "女孩挤地铁手机莫名消失崩溃大哭",
+      "onboard_time": 1723576512,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78815,
       "num": 78815,
       "word": "大人把2个娃塞后备箱还违章行驶",
@@ -475,11 +483,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 65609,
-      "num": 65609,
-      "word": "女孩挤地铁手机莫名消失崩溃大哭",
-      "onboard_time": 1723576512,
-      "rank": 49,
+      "raw_hot": 64691,
+      "num": 64691,
+      "word": "司机亲友称不知道事发路段不能通行",
+      "onboard_time": 1723579992,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -499,19 +507,19 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 58397,
-      "num": 58397,
-      "word": "司机亲友称不知道事发路段不能通行",
-      "onboard_time": 1723579992,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 45551,
       "num": 45551,
       "word": "男子打球后喝了口冰饮料心肌梗死",
       "onboard_time": 1723574892,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44526,
+      "num": 87544,
+      "word": "浙江又来两所新大学",
+      "onboard_time": 1723573453,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -531,12 +539,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 41613,
-      "num": 87544,
-      "word": "浙江又来两所新大学",
-      "onboard_time": 1723573453,
-      "rank": 16,
+      "raw_hot": 38625,
+      "num": 67666,
+      "word": "唐尚珺终于结束漫长的高中生活",
+      "onboard_time": 1723579151,
+      "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34666,
+      "num": 42236,
+      "word": "全红婵哥哥回应挤不进村",
+      "onboard_time": 1723588094,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 30440,
@@ -547,20 +563,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29107,
-      "num": 67666,
-      "word": "唐尚珺终于结束漫长的高中生活",
-      "onboard_time": 1723579151,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25696,
-      "num": 38484,
+      "raw_hot": 26005,
+      "num": 42249,
       "word": "凝聚起富民兴村和城乡融合发展的强大力量",
       "onboard_time": 1723579811,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 22899,
+      "num": 101692,
+      "word": "流动的中国更显发展活力",
+      "onboard_time": 1723577292,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14739,
@@ -568,14 +584,6 @@
       "word": "古人的臂甲刻着动物世界",
       "onboard_time": 1723554503,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12179,
-      "num": 101692,
-      "word": "流动的中国更显发展活力",
-      "onboard_time": 1723577292,
-      "rank": 9,
       "category": "社会新闻"
     }
   ],
