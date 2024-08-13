@@ -1,7 +1,15 @@
 {
   "startTime": 1723479939991,
-  "endTime": 1723523875808,
+  "endTime": 1723526430059,
   "band_list": [
+    {
+      "raw_hot": 2923784,
+      "num": 2923784,
+      "word": "小伙花十几万断骨增高致终身伤残",
+      "onboard_time": 1723521564,
+      "rank": 20,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2433386,
       "num": 2433386,
@@ -56,6 +64,14 @@
       "word": "男子腹痛三月以为是肿瘤结果是叉子",
       "onboard_time": 1723511541,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1968842,
+      "num": 1968842,
+      "word": "骑行遭碾压孩子父亲疑曾回怼他人劝阻",
+      "onboard_time": 1723523362,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -139,14 +155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1233892,
-      "num": 1233892,
-      "word": "小伙花十几万断骨增高致终身伤残",
-      "onboard_time": 1723521564,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1206223,
       "num": 1206223,
       "word": "终于知道奥运会的pin长啥样了",
@@ -169,6 +177,14 @@
       "onboard_time": 1723482017,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1180347,
+      "num": 1180347,
+      "word": "全红婵哥哥说村里根本挤不进去",
+      "onboard_time": 1723521502,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 937706,
@@ -227,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 785075,
+      "num": 785075,
+      "word": "WTT澳门冠军赛2024",
+      "onboard_time": 1723523723,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 770537,
       "num": 605287,
       "word": "秋风车祸前在车上直播画面传出",
@@ -244,11 +268,19 @@
     },
     {
       "raw_hot": 715680,
-      "num": 715680,
+      "num": 991419,
       "word": "万茜爆料刘亦菲拍戏从来不拿手机",
       "onboard_time": 1723518561,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 695714,
+      "num": 695714,
+      "word": "孙铭阳",
+      "onboard_time": 1723525283,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 679767,
@@ -323,6 +355,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 613784,
+      "num": 613784,
+      "word": "哪个省奥运冠军最多",
+      "onboard_time": 1723522343,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 553439,
       "num": 553439,
       "word": "普京称当务之急是将乌军赶出俄领土",
@@ -345,14 +385,6 @@
       "onboard_time": 1723521321,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 528575,
-      "num": 509731,
-      "word": "全红婵哥哥说村里根本挤不进去",
-      "onboard_time": 1723521502,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 516116,
@@ -411,20 +443,20 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 457906,
+      "num": 815799,
+      "word": "邓超就这么水灵灵地杀进来了",
+      "onboard_time": 1723521628,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 451551,
       "num": 441796,
       "word": "刘令姿给王楚然挡衣服",
       "onboard_time": 1723473563,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 436320,
-      "num": 436320,
-      "word": "邓超就这么水灵灵地杀进来了",
-      "onboard_time": 1723521628,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 423475,
@@ -435,20 +467,20 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 416450,
+      "num": 651793,
+      "word": "登陆计划",
+      "onboard_time": 1723521684,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 400938,
       "num": 400938,
       "word": "小红书",
       "onboard_time": 1723491792,
       "rank": 0,
       "category": "社会新闻,互联网"
-    },
-    {
-      "raw_hot": 396818,
-      "num": 396818,
-      "word": "WTT澳门冠军赛2024",
-      "onboard_time": 1723523723,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 392166,
@@ -499,6 +531,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 354385,
+      "num": 354385,
+      "word": "央视曝博物馆0元票被黄牛刷票倒卖",
+      "onboard_time": 1723524442,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350631,
+      "num": 350631,
+      "word": "全红婵陈芋汐陈艺文去撸猫啦",
+      "onboard_time": 1723523844,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 349607,
       "num": 349607,
       "word": "全红婵到底买了多少乌龟",
@@ -547,14 +595,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 324284,
-      "num": 324284,
-      "word": "登陆计划",
-      "onboard_time": 1723521684,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 317335,
       "num": 317335,
       "word": "一枪打直了国人弯了一辈子的腰",
@@ -571,12 +611,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 311155,
-      "num": 311155,
-      "word": "哪个省奥运冠军最多",
-      "onboard_time": 1723522343,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 303531,
+      "num": 303531,
+      "word": "阿勒泰的秋天",
+      "onboard_time": 1723523483,
+      "rank": 35,
+      "category": "旅游"
     },
     {
       "raw_hot": 302969,
@@ -587,11 +627,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 300602,
+      "num": 300602,
+      "word": "黑神话悟空优化",
+      "onboard_time": 1723523962,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 297658,
       "num": 297658,
       "word": "邱贻可终于有名分了",
       "onboard_time": 1723512980,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 296845,
+      "num": 296845,
+      "word": "WTT澳门冠军赛首批参赛名单公布",
+      "onboard_time": 1723524742,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -731,6 +787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238256,
+      "num": 238256,
+      "word": "早田希娜开通微博是樊振东建议的",
+      "onboard_time": 1723522583,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 236115,
       "num": 236115,
       "word": "2024国际乒联第33周排名",
@@ -745,6 +809,14 @@
       "onboard_time": 1723465701,
       "rank": 22,
       "category": "自然"
+    },
+    {
+      "raw_hot": 232875,
+      "num": 232875,
+      "word": "闪耀暖暖复刻",
+      "onboard_time": 1723526181,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 232629,
@@ -763,19 +835,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 229916,
+      "num": 229916,
+      "word": "女子花60万断骨增高落终身疾病",
+      "onboard_time": 1723526181,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228375,
       "num": 228375,
       "word": "奥运会后劲好大",
       "onboard_time": 1723515981,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 226633,
-      "num": 226633,
-      "word": "全红婵陈芋汐陈艺文去撸猫啦",
-      "onboard_time": 1723523844,
-      "rank": 49,
       "category": "体育"
     },
     {
@@ -793,14 +865,6 @@
       "onboard_time": 1723480398,
       "rank": 23,
       "category": "综艺,体育"
-    },
-    {
-      "raw_hot": 216500,
-      "num": 216500,
-      "word": "早田希娜开通微博是樊振东建议的",
-      "onboard_time": 1723522583,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 216202,
@@ -835,6 +899,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213224,
+      "num": 213224,
+      "word": "沈腾新片战损形象",
+      "onboard_time": 1723525642,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 210053,
+      "num": 210053,
+      "word": "井胧新歌疑似抄袭田柾国",
+      "onboard_time": 1723526122,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 208899,
       "num": 208899,
       "word": "披荆斩棘",
@@ -843,11 +923,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206767,
+      "num": 206767,
+      "word": "731",
+      "onboard_time": 1723525762,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206504,
       "num": 206504,
       "word": "张博恒的奖牌挂满房间",
       "onboard_time": 1723474944,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 205198,
+      "num": 205198,
+      "word": "冯彬带银牌回家全员喜剧人",
+      "onboard_time": 1723526361,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -1307,12 +1403,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72578,
+      "num": 857157,
+      "word": "闭幕了舒服多了",
+      "onboard_time": 1723522402,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 72163,
       "num": 95407,
       "word": "英仙座流星雨今晚量大管饱",
       "onboard_time": 1723483034,
       "rank": 48,
       "category": "自然"
+    },
+    {
+      "raw_hot": 68107,
+      "num": 932329,
+      "word": "特朗普计划重返遇刺地点",
+      "onboard_time": 1723525822,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 65149,
@@ -1379,8 +1491,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 48235,
-      "num": 597143,
+      "raw_hot": 52851,
+      "num": 902071,
       "word": "金晨新剧演武林别主",
       "onboard_time": 1723521923,
       "rank": 17,
@@ -1393,6 +1505,14 @@
       "onboard_time": 1723508181,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 46766,
+      "num": 795237,
+      "word": "王源的歌适配夏天和奥运",
+      "onboard_time": 1723525822,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 46340,
@@ -1427,20 +1547,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40696,
+      "num": 1165460,
+      "word": "网红河道涨水祖孙三人被冲走身亡",
+      "onboard_time": 1723525822,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37522,
       "num": 630544,
       "word": "马斯克称采访特朗普直播遇网络攻击",
       "onboard_time": 1723516220,
       "rank": 14,
       "category": "社会新闻,国外时政"
-    },
-    {
-      "raw_hot": 35575,
-      "num": 516147,
-      "word": "闭幕了舒服多了",
-      "onboard_time": 1723522402,
-      "rank": 25,
-      "category": "汽车"
     },
     {
       "raw_hot": 35252,

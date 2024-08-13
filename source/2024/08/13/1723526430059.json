@@ -1,0 +1,410 @@
+{
+  "runTime": 1723526430059,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2923784,
+        "num": 2923784,
+        "word": "小伙花十几万断骨增高致终身伤残",
+        "onboard_time": 1723521564,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1968842,
+        "num": 1968842,
+        "word": "骑行遭碾压孩子父亲疑曾回怼他人劝阻",
+        "onboard_time": 1723523362,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41957,
+        "num": 1644220,
+        "word": "腾格里蓝成为新中式沙漠色号",
+        "onboard_time": 1723519291,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1413174,
+        "num": 1413174,
+        "word": "全红婵给爷爷打电话必有三连问",
+        "onboard_time": 1723519221,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1386273,
+        "num": 1386273,
+        "word": "孙颖莎回国",
+        "onboard_time": 1723512260,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1319398,
+        "num": 1319398,
+        "word": "井胧 抄袭",
+        "onboard_time": 1723515860,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1267238,
+        "num": 1267238,
+        "word": "第一批巴黎奥运奖牌已经开始脱皮了",
+        "onboard_time": 1723511900,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1180347,
+        "num": 1180347,
+        "word": "全红婵哥哥说村里根本挤不进去",
+        "onboard_time": 1723521502,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1007228,
+        "num": 1167129,
+        "word": "张杰有3.7亿条消息",
+        "onboard_time": 1723513521,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 40696,
+        "num": 1165460,
+        "word": "网红河道涨水祖孙三人被冲走身亡",
+        "onboard_time": 1723525822,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1164248,
+        "num": 1164248,
+        "word": "宋伊人恋情",
+        "onboard_time": 1723522282,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1106527,
+        "num": 1106527,
+        "word": "清水英男揭露日军不打麻药活剥人皮",
+        "onboard_time": 1723517841,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 992848,
+        "num": 992848,
+        "word": "女子辱骂诋毁运动员教练员被刑拘",
+        "onboard_time": 1723518501,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571214,
+        "num": 991419,
+        "word": "万茜爆料刘亦菲拍戏从来不拿手机",
+        "onboard_time": 1723518561,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68107,
+        "num": 932329,
+        "word": "特朗普计划重返遇刺地点",
+        "onboard_time": 1723525822,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 52851,
+        "num": 902071,
+        "word": "金晨新剧演武林别主",
+        "onboard_time": 1723521923,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72578,
+        "num": 857157,
+        "word": "闭幕了舒服多了",
+        "onboard_time": 1723522402,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 457906,
+        "num": 815799,
+        "word": "邓超就这么水灵灵地杀进来了",
+        "onboard_time": 1723521628,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 805880,
+        "num": 805880,
+        "word": "原731成员向谢罪与不战和平之碑忏悔",
+        "onboard_time": 1723519641,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46766,
+        "num": 795237,
+        "word": "王源的歌适配夏天和奥运",
+        "onboard_time": 1723525822,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 785075,
+        "num": 785075,
+        "word": "WTT澳门冠军赛2024",
+        "onboard_time": 1723523723,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 743786,
+        "num": 743786,
+        "word": "原731成员在哈尔滨指认谢罪",
+        "onboard_time": 1723511900,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 724260,
+        "num": 724260,
+        "word": "潘展乐解散粉丝群",
+        "onboard_time": 1723518742,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 695714,
+        "num": 695714,
+        "word": "孙铭阳",
+        "onboard_time": 1723525283,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 416450,
+        "num": 651793,
+        "word": "登陆计划",
+        "onboard_time": 1723521684,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 613784,
+        "num": 613784,
+        "word": "哪个省奥运冠军最多",
+        "onboard_time": 1723522343,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 573377,
+        "num": 573377,
+        "word": "张志杰母亲称儿子遗体仍在印尼",
+        "onboard_time": 1723518621,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463642,
+        "num": 463642,
+        "word": "网传父亲带娃骑行娃摔车遭小车碾压",
+        "onboard_time": 1723508243,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350106,
+        "num": 390348,
+        "word": "刘亦菲金九银十封面",
+        "onboard_time": 1723521983,
+        "rank": 28,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 265613,
+        "num": 369395,
+        "word": "花少辛芷蕾手机里的视频终于看到了",
+        "onboard_time": 1723521321,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 361333,
+        "num": 361333,
+        "word": "潘展乐 清醒",
+        "onboard_time": 1723504817,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 354385,
+        "num": 354385,
+        "word": "央视曝博物馆0元票被黄牛刷票倒卖",
+        "onboard_time": 1723524442,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350631,
+        "num": 350631,
+        "word": "全红婵陈芋汐陈艺文去撸猫啦",
+        "onboard_time": 1723523844,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313909,
+        "num": 313909,
+        "word": "美团回应杭州外卖员事件",
+        "onboard_time": 1723511900,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240216,
+        "num": 305183,
+        "word": "东方小孙曾个人赠予董宇辉1500万",
+        "onboard_time": 1723516280,
+        "rank": 34,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 303531,
+        "num": 303531,
+        "word": "阿勒泰的秋天",
+        "onboard_time": 1723523483,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 300602,
+        "num": 300602,
+        "word": "黑神话悟空优化",
+        "onboard_time": 1723523962,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 297919,
+        "num": 297919,
+        "word": "美国游泳队紫脸到底是什么",
+        "onboard_time": 1723507821,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296845,
+        "num": 296845,
+        "word": "WTT澳门冠军赛首批参赛名单公布",
+        "onboard_time": 1723524742,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262656,
+        "num": 262656,
+        "word": "江浙沪人就是先天留学圣体",
+        "onboard_time": 1723516821,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244702,
+        "num": 244702,
+        "word": "俄库尔斯克州28处定居点被乌军控制",
+        "onboard_time": 1723520420,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 238256,
+        "num": 238256,
+        "word": "早田希娜开通微博是樊振东建议的",
+        "onboard_time": 1723522583,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232875,
+        "num": 232875,
+        "word": "闪耀暖暖复刻",
+        "onboard_time": 1723526181,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 229916,
+        "num": 229916,
+        "word": "女子花60万断骨增高落终身疾病",
+        "onboard_time": 1723526181,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228709,
+        "num": 228709,
+        "word": "发小酒后身亡同饮男子遭索赔62万",
+        "onboard_time": 1723516821,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219311,
+        "num": 219311,
+        "word": "中国金牌榜并列第一",
+        "onboard_time": 1723390055,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213224,
+        "num": 213224,
+        "word": "沈腾新片战损形象",
+        "onboard_time": 1723525642,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210053,
+        "num": 210053,
+        "word": "井胧新歌疑似抄袭田柾国",
+        "onboard_time": 1723526122,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 206767,
+        "num": 206767,
+        "word": "731",
+        "onboard_time": 1723525762,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205198,
+        "num": 205198,
+        "word": "冯彬带银牌回家全员喜剧人",
+        "onboard_time": 1723526361,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习新语#"
+    }
+  }
+}

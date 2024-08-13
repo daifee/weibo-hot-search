@@ -1,6 +1,6 @@
 {
   "startTime": 1723307155481,
-  "endTime": 1723523875808,
+  "endTime": 1723526430059,
   "band_list": [
     {
       "raw_hot": 25984443,
@@ -137,6 +137,14 @@
       "onboard_time": 1723339402,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2923784,
+      "num": 2923784,
+      "word": "小伙花十几万断骨增高致终身伤残",
+      "onboard_time": 1723521564,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2921992,
@@ -441,6 +449,14 @@
       "onboard_time": 1723339042,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1968842,
+      "num": 1968842,
+      "word": "骑行遭碾压孩子父亲疑曾回怼他人劝阻",
+      "onboard_time": 1723523362,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1960840,
@@ -995,14 +1011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1233892,
-      "num": 1233892,
-      "word": "小伙花十几万断骨增高致终身伤残",
-      "onboard_time": 1723521564,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1232861,
       "num": 615693,
       "word": "陈梦和黄晓明就是彼此的万能公式",
@@ -1057,6 +1065,14 @@
       "onboard_time": 1723482017,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1180347,
+      "num": 1180347,
+      "word": "全红婵哥哥说村里根本挤不进去",
+      "onboard_time": 1723521502,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 1173906,
@@ -1619,6 +1635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 785075,
+      "num": 785075,
+      "word": "WTT澳门冠军赛2024",
+      "onboard_time": 1723523723,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 782263,
       "num": 782263,
       "word": "许昕做法啊",
@@ -1780,7 +1804,7 @@
     },
     {
       "raw_hot": 715680,
-      "num": 715680,
+      "num": 991419,
       "word": "万茜爆料刘亦菲拍戏从来不拿手机",
       "onboard_time": 1723518561,
       "rank": 23,
@@ -1801,6 +1825,14 @@
       "onboard_time": 1723347021,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 695714,
+      "num": 695714,
+      "word": "孙铭阳",
+      "onboard_time": 1723525283,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 692716,
@@ -2059,6 +2091,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 613784,
+      "num": 613784,
+      "word": "哪个省奥运冠军最多",
+      "onboard_time": 1723522343,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 608092,
       "num": 531444,
       "word": "中国姑娘跑出奥运会大众马拉松第1",
@@ -2273,14 +2313,6 @@
       "onboard_time": 1723521321,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 528575,
-      "num": 509731,
-      "word": "全红婵哥哥说村里根本挤不进去",
-      "onboard_time": 1723521502,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 527878,
@@ -2547,6 +2579,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 457906,
+      "num": 815799,
+      "word": "邓超就这么水灵灵地杀进来了",
+      "onboard_time": 1723521628,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 456378,
       "num": 456378,
       "word": "美国兴奋剂丑闻6连问",
@@ -2641,14 +2681,6 @@
       "onboard_time": 1723318873,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 436320,
-      "num": 436320,
-      "word": "邓超就这么水灵灵地杀进来了",
-      "onboard_time": 1723521628,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 435401,
@@ -2819,6 +2851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 416450,
+      "num": 651793,
+      "word": "登陆计划",
+      "onboard_time": 1723521684,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 414469,
       "num": 368426,
       "word": "美国摔跤",
@@ -2889,14 +2929,6 @@
       "onboard_time": 1723362742,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 396818,
-      "num": 396818,
-      "word": "WTT澳门冠军赛2024",
-      "onboard_time": 1723523723,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 393730,
@@ -3203,6 +3235,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 354385,
+      "num": 354385,
+      "word": "央视曝博物馆0元票被黄牛刷票倒卖",
+      "onboard_time": 1723524442,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 354301,
       "num": 354301,
       "word": "奥运会 戒断反应",
@@ -3241,6 +3281,14 @@
       "onboard_time": 1723356320,
       "rank": 26,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 350631,
+      "num": 350631,
+      "word": "全红婵陈芋汐陈艺文去撸猫啦",
+      "onboard_time": 1723523844,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 347148,
@@ -3491,14 +3539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 324284,
-      "num": 324284,
-      "word": "登陆计划",
-      "onboard_time": 1723521684,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 323717,
       "num": 323717,
       "word": "中国队冲击四十金",
@@ -3595,14 +3635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 311155,
-      "num": 311155,
-      "word": "哪个省奥运冠军最多",
-      "onboard_time": 1723522343,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 310878,
       "num": 310878,
       "word": "张博恒煎熬的三十五分钟",
@@ -3683,6 +3715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 303531,
+      "num": 303531,
+      "word": "阿勒泰的秋天",
+      "onboard_time": 1723523483,
+      "rank": 35,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 302969,
       "num": 302969,
       "word": "乒乓球队开会",
@@ -3697,6 +3737,14 @@
       "onboard_time": 1723443503,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 300602,
+      "num": 300602,
+      "word": "黑神话悟空优化",
+      "onboard_time": 1723523962,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 298667,
@@ -3728,6 +3776,14 @@
       "word": "詹姆斯拒绝合影引热议",
       "onboard_time": 1723472902,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 296845,
+      "num": 296845,
+      "word": "WTT澳门冠军赛首批参赛名单公布",
+      "onboard_time": 1723524742,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -4555,6 +4611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238256,
+      "num": 238256,
+      "word": "早田希娜开通微博是樊振东建议的",
+      "onboard_time": 1723522583,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 237824,
       "num": 237824,
       "word": "林高远 大家抗住了重重压力",
@@ -4643,6 +4707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232875,
+      "num": 232875,
+      "word": "闪耀暖暖复刻",
+      "onboard_time": 1723526181,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 232824,
       "num": 232824,
       "word": "美国女足奥运金牌",
@@ -4715,6 +4787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 229916,
+      "num": 229916,
+      "word": "女子花60万断骨增高落终身疾病",
+      "onboard_time": 1723526181,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229502,
       "num": 229502,
       "word": "成都AG回归KPL五周年",
@@ -4760,14 +4840,6 @@
       "word": "潘展乐回应自己出名了",
       "onboard_time": 1723440621,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 226633,
-      "num": 226633,
-      "word": "全红婵陈芋汐陈艺文去撸猫啦",
-      "onboard_time": 1723523844,
-      "rank": 49,
       "category": "体育"
     },
     {
@@ -4923,14 +4995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 216500,
-      "num": 216500,
-      "word": "早田希娜开通微博是樊振东建议的",
-      "onboard_time": 1723522583,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 216202,
       "num": 216202,
       "word": "贝克汉姆关注樊振东",
@@ -5051,6 +5115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213224,
+      "num": 213224,
+      "word": "沈腾新片战损形象",
+      "onboard_time": 1723525642,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 212813,
       "num": 223285,
       "word": "宁艺卓登韩版VOGUE",
@@ -5113,6 +5185,14 @@
       "onboard_time": 1723447766,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210053,
+      "num": 210053,
+      "word": "井胧新歌疑似抄袭田柾国",
+      "onboard_time": 1723526122,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 209848,
@@ -5203,6 +5283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 206767,
+      "num": 206767,
+      "word": "731",
+      "onboard_time": 1723525762,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206504,
       "num": 206504,
       "word": "张博恒的奖牌挂满房间",
@@ -5289,6 +5377,14 @@
       "onboard_time": 1723443203,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 205198,
+      "num": 205198,
+      "word": "冯彬带银牌回家全员喜剧人",
+      "onboard_time": 1723526361,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 204936,
@@ -7155,6 +7251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72578,
+      "num": 857157,
+      "word": "闭幕了舒服多了",
+      "onboard_time": 1723522402,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 72220,
       "num": 72220,
       "word": "运动员的卡拉OK",
@@ -7185,6 +7289,14 @@
       "onboard_time": 1723406413,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68107,
+      "num": 932329,
+      "word": "特朗普计划重返遇刺地点",
+      "onboard_time": 1723525822,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 67778,
@@ -7379,6 +7491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 52851,
+      "num": 902071,
+      "word": "金晨新剧演武林别主",
+      "onboard_time": 1723521923,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 52759,
       "num": 299506,
       "word": "纪昱恒处处吻",
@@ -7419,14 +7539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 48235,
-      "num": 597143,
-      "word": "金晨新剧演武林别主",
-      "onboard_time": 1723521923,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 48171,
       "num": 353241,
       "word": "周深七夕晚会",
@@ -7441,6 +7553,14 @@
       "onboard_time": 1723508181,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 46766,
+      "num": 795237,
+      "word": "王源的歌适配夏天和奥运",
+      "onboard_time": 1723525822,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 46582,
@@ -7563,6 +7683,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 40696,
+      "num": 1165460,
+      "word": "网红河道涨水祖孙三人被冲走身亡",
+      "onboard_time": 1723525822,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39884,
       "num": 415851,
       "word": "在张杰演唱会看到了魏晨",
@@ -7617,14 +7745,6 @@
       "onboard_time": 1723425441,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 35575,
-      "num": 516147,
-      "word": "闭幕了舒服多了",
-      "onboard_time": 1723522402,
-      "rank": 25,
-      "category": "汽车"
     },
     {
       "raw_hot": 35252,
