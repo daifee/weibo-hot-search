@@ -1,6 +1,6 @@
 {
   "startTime": 1723566286207,
-  "endTime": 1723583981641,
+  "endTime": 1723584890401,
   "band_list": [
     {
       "raw_hot": 1909253,
@@ -499,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42839,
+      "num": 42839,
+      "word": "司机亲友称不知道事发路段不能通行",
+      "onboard_time": 1723579992,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42595,
       "num": 230796,
       "word": "日本军国主义细菌战不容否认抵赖",
@@ -507,36 +515,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 39039,
-      "num": 39039,
+      "raw_hot": 40423,
+      "num": 40423,
       "word": "女孩挤地铁手机莫名消失崩溃大哭",
       "onboard_time": 1723576512,
       "rank": 49,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38908,
-      "num": 38908,
-      "word": "司机亲友称不知道事发路段不能通行",
-      "onboard_time": 1723579992,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 36039,
+      "num": 36039,
+      "word": "北方人无法想象的生活方式",
+      "onboard_time": 1723578971,
+      "rank": 40,
+      "category": "幽默"
     },
     {
-      "raw_hot": 33148,
+      "raw_hot": 35374,
       "num": 87544,
       "word": "浙江又来两所新大学",
       "onboard_time": 1723573453,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31728,
-      "num": 31728,
-      "word": "北方人无法想象的生活方式",
-      "onboard_time": 1723578971,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 30440,

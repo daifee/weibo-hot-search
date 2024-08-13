@@ -1,6 +1,6 @@
 {
   "startTime": 1723307155481,
-  "endTime": 1723583981641,
+  "endTime": 1723584890401,
   "band_list": [
     {
       "raw_hot": 25984443,
@@ -9395,6 +9395,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 42839,
+      "num": 42839,
+      "word": "司机亲友称不知道事发路段不能通行",
+      "onboard_time": 1723579992,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42826,
       "num": 371416,
       "word": "赵小童晒饭",
@@ -9475,6 +9483,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 40423,
+      "num": 40423,
+      "word": "女孩挤地铁手机莫名消失崩溃大哭",
+      "onboard_time": 1723576512,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39884,
       "num": 415851,
       "word": "在张杰演唱会看到了魏晨",
@@ -9507,22 +9523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 39039,
-      "num": 39039,
-      "word": "女孩挤地铁手机莫名消失崩溃大哭",
-      "onboard_time": 1723576512,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38908,
-      "num": 38908,
-      "word": "司机亲友称不知道事发路段不能通行",
-      "onboard_time": 1723579992,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 37915,
       "num": 531612,
       "word": "成毅是什么行走的面膜模特吗",
@@ -9545,6 +9545,22 @@
       "onboard_time": 1723425441,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36039,
+      "num": 36039,
+      "word": "北方人无法想象的生活方式",
+      "onboard_time": 1723578971,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 35374,
+      "num": 87544,
+      "word": "浙江又来两所新大学",
+      "onboard_time": 1723573453,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35252,
@@ -9579,28 +9595,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 33148,
-      "num": 87544,
-      "word": "浙江又来两所新大学",
-      "onboard_time": 1723573453,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 32347,
       "num": 170974,
       "word": "日本一地发生多次爆炸",
       "onboard_time": 1723547121,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31728,
-      "num": 31728,
-      "word": "北方人无法想象的生活方式",
-      "onboard_time": 1723578971,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 31310,
