@@ -1,6 +1,6 @@
 {
   "startTime": 1723566286207,
-  "endTime": 1723588569515,
+  "endTime": 1723591185832,
   "band_list": [
     {
       "raw_hot": 1909253,
@@ -115,6 +115,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 545386,
+      "num": 545386,
+      "word": "晴子",
+      "onboard_time": 1723567218,
+      "rank": 48,
+      "category": "网红"
+    },
+    {
       "raw_hot": 533983,
       "num": 533983,
       "word": "司机亲友就男孩骑行遭汽车碾压发声",
@@ -129,6 +137,14 @@
       "onboard_time": 1723546521,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 491311,
+      "num": 160228,
+      "word": "骑行遭碾压男孩训练时速达37公里",
+      "onboard_time": 1723588634,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 423973,
@@ -163,14 +179,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 364113,
-      "num": 364113,
-      "word": "晴子",
-      "onboard_time": 1723567218,
-      "rank": 48,
-      "category": "网红"
-    },
-    {
       "raw_hot": 352609,
       "num": 506910,
       "word": "夏之光现场被求婚",
@@ -187,20 +195,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 343724,
+      "num": 343724,
+      "word": "疯子演给傻子看",
+      "onboard_time": 1723567518,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 333786,
       "num": 554255,
       "word": "广西德天瀑布景区事故责任人被控制",
       "onboard_time": 1723563443,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 317330,
-      "num": 317330,
-      "word": "疯子演给傻子看",
-      "onboard_time": 1723567518,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 305819,
@@ -224,6 +232,14 @@
       "word": "悉尼一公寓发生命案2亚裔死亡",
       "onboard_time": 1723561222,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270365,
+      "num": 184708,
+      "word": "资深骑手谈男童骑行摔倒遭碾压",
+      "onboard_time": 1723554981,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -259,6 +275,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208458,
+      "num": 155964,
+      "word": "全红婵哥哥回应挤不进村",
+      "onboard_time": 1723588094,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 198962,
+      "num": 198962,
+      "word": "刘宇宁录节目越录越害怕",
+      "onboard_time": 1723570694,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193467,
       "num": 193467,
       "word": "孙颖莎让王楚钦回应头大",
@@ -275,11 +307,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184708,
-      "num": 184708,
-      "word": "资深骑手谈男童骑行摔倒遭碾压",
-      "onboard_time": 1723554981,
-      "rank": 37,
+      "raw_hot": 184377,
+      "num": 153248,
+      "word": "女孩挤地铁手机莫名消失崩溃大哭",
+      "onboard_time": 1723576512,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -355,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143087,
+      "num": 281201,
+      "word": "环卫工追着洒水车作业司机已停职",
+      "onboard_time": 1723546401,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138697,
       "num": 293631,
       "word": "外交部回应原731成员指认731罪行",
@@ -404,11 +444,19 @@
     },
     {
       "raw_hot": 128207,
-      "num": 128207,
+      "num": 136268,
       "word": "我们在黑夜中相拥",
       "onboard_time": 1723570216,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124327,
+      "num": 136340,
+      "word": "李嘉欣许晋亨送儿子英国留学",
+      "onboard_time": 1723589115,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 122354,
@@ -419,12 +467,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 120506,
-      "num": 281201,
-      "word": "环卫工追着洒水车作业司机已停职",
-      "onboard_time": 1723546401,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 117707,
+      "num": 117707,
+      "word": "杨天真泳装身材",
+      "onboard_time": 1723549220,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 108549,
@@ -435,12 +483,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 106479,
-      "num": 94494,
-      "word": "刘宇宁录节目越录越害怕",
-      "onboard_time": 1723570694,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 108503,
+      "num": 108503,
+      "word": "司机亲友称不知道事发路段不能通行",
+      "onboard_time": 1723579992,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106051,
@@ -448,6 +496,14 @@
       "word": "警方回应悉尼一公寓2亚裔死亡",
       "onboard_time": 1723566140,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105370,
+      "num": 105370,
+      "word": "大人把2个娃塞后备箱还违章行驶",
+      "onboard_time": 1723573573,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -467,36 +523,44 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 85853,
-      "num": 76588,
-      "word": "女孩挤地铁手机莫名消失崩溃大哭",
-      "onboard_time": 1723576512,
-      "rank": 49,
+      "raw_hot": 84005,
+      "num": 84005,
+      "word": "男子打球后喝了口冰饮料心肌梗死",
+      "onboard_time": 1723574892,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 78815,
-      "num": 78815,
-      "word": "大人把2个娃塞后备箱还违章行驶",
-      "onboard_time": 1723573573,
-      "rank": 29,
+      "raw_hot": 81402,
+      "num": 81402,
+      "word": "唐尚珺终于结束漫长的高中生活",
+      "onboard_time": 1723579151,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 64691,
-      "num": 64691,
-      "word": "司机亲友称不知道事发路段不能通行",
-      "onboard_time": 1723579992,
-      "rank": 43,
+      "raw_hot": 78097,
+      "num": 78097,
+      "word": "北方人无法想象的生活方式",
+      "onboard_time": 1723578971,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 77673,
+      "num": 87544,
+      "word": "浙江又来两所新大学",
+      "onboard_time": 1723573453,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 63597,
-      "num": 63597,
-      "word": "杨天真泳装身材",
-      "onboard_time": 1723549220,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 74377,
+      "num": 74377,
+      "word": "晒快乐挑战",
+      "onboard_time": 1723590676,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 60086,
@@ -507,28 +571,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 45551,
-      "num": 45551,
-      "word": "男子打球后喝了口冰饮料心肌梗死",
-      "onboard_time": 1723574892,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44526,
-      "num": 87544,
-      "word": "浙江又来两所新大学",
-      "onboard_time": 1723573453,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44123,
-      "num": 44123,
-      "word": "北方人无法想象的生活方式",
-      "onboard_time": 1723578971,
-      "rank": 40,
-      "category": "幽默"
+      "raw_hot": 55381,
+      "num": 74264,
+      "word": "U19国足0比2伊朗U19",
+      "onboard_time": 1723590436,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 42595,
@@ -537,22 +585,6 @@
       "onboard_time": 1723569855,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38625,
-      "num": 67666,
-      "word": "唐尚珺终于结束漫长的高中生活",
-      "onboard_time": 1723579151,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34666,
-      "num": 42236,
-      "word": "全红婵哥哥回应挤不进村",
-      "onboard_time": 1723588094,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 30440,
@@ -572,7 +604,7 @@
     },
     {
       "raw_hot": 22899,
-      "num": 101692,
+      "num": 143282,
       "word": "流动的中国更显发展活力",
       "onboard_time": 1723577292,
       "rank": 9,
@@ -580,7 +612,7 @@
     },
     {
       "raw_hot": 14739,
-      "num": 374223,
+      "num": 549197,
       "word": "古人的臂甲刻着动物世界",
       "onboard_time": 1723554503,
       "rank": 2,
