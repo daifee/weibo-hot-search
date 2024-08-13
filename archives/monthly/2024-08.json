@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1723577692742,
+  "endTime": 1723580471655,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -41043,6 +41043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38740,
+      "num": 38740,
+      "word": "女孩挤地铁手机莫名消失崩溃大哭",
+      "onboard_time": 1723576512,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38732,
       "num": 668088,
       "word": "姚琛淡人闯关就这么简单",
@@ -41177,14 +41185,6 @@
       "onboard_time": 1722978192,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 36452,
-      "num": 36452,
-      "word": "女孩挤地铁手机莫名消失崩溃大哭",
-      "onboard_time": 1723576512,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36200,
@@ -41555,6 +41555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31939,
+      "num": 87544,
+      "word": "浙江又来两所新大学",
+      "onboard_time": 1723573453,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31562,
       "num": 506338,
       "word": "马自达重新定义高价值燃油SUV",
@@ -41827,20 +41835,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 28145,
-      "num": 87544,
-      "word": "浙江又来两所新大学",
-      "onboard_time": 1723573453,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 28076,
       "num": 645081,
       "word": "白池花海映衬成毅亮丽肌肤",
       "onboard_time": 1723262662,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 28056,
+      "num": 28056,
+      "word": "北方人无法想象的生活方式",
+      "onboard_time": 1723578971,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 27880,
@@ -41912,6 +41920,14 @@
       "word": "英国警方已拘留428人",
       "onboard_time": 1723087703,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26374,
+      "num": 26374,
+      "word": "司机亲友称不知道事发路段不能通行",
+      "onboard_time": 1723579992,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -42025,6 +42041,14 @@
       "onboard_time": 1723052835,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 23659,
+      "num": 67666,
+      "word": "唐尚珺终于结束漫长的高中生活",
+      "onboard_time": 1723579151,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23301,

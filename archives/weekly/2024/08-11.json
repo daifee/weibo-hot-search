@@ -1,6 +1,6 @@
 {
   "startTime": 1723307155481,
-  "endTime": 1723577692742,
+  "endTime": 1723580471655,
   "band_list": [
     {
       "raw_hot": 25984443,
@@ -9507,6 +9507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 38740,
+      "num": 38740,
+      "word": "女孩挤地铁手机莫名消失崩溃大哭",
+      "onboard_time": 1723576512,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37915,
       "num": 531612,
       "word": "成毅是什么行走的面膜模特吗",
@@ -9529,14 +9537,6 @@
       "onboard_time": 1723425441,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 36452,
-      "num": 36452,
-      "word": "女孩挤地铁手机莫名消失崩溃大哭",
-      "onboard_time": 1723576512,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35252,
@@ -9576,6 +9576,14 @@
       "word": "日本一地发生多次爆炸",
       "onboard_time": 1723547121,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31939,
+      "num": 87544,
+      "word": "浙江又来两所新大学",
+      "onboard_time": 1723573453,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -9643,12 +9651,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28145,
-      "num": 87544,
-      "word": "浙江又来两所新大学",
-      "onboard_time": 1723573453,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 28056,
+      "num": 28056,
+      "word": "北方人无法想象的生活方式",
+      "onboard_time": 1723578971,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 27608,
@@ -9665,6 +9673,14 @@
       "onboard_time": 1723294763,
       "rank": 2,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 26374,
+      "num": 26374,
+      "word": "司机亲友称不知道事发路段不能通行",
+      "onboard_time": 1723579992,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25736,
@@ -9688,6 +9704,14 @@
       "word": "交通规则不是摆设是孩子的生命线",
       "onboard_time": 1723537822,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23659,
+      "num": 67666,
+      "word": "唐尚珺终于结束漫长的高中生活",
+      "onboard_time": 1723579151,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
