@@ -1,0 +1,410 @@
+{
+  "runTime": 1723540987543,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1232133,
+        "num": 1232133,
+        "word": "世界羽联删除何冰娇女单排名",
+        "onboard_time": 1723532300,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1045282,
+        "num": 1045282,
+        "word": "超过十个国家抢申办2036奥运",
+        "onboard_time": 1723534041,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86001,
+        "num": 1005726,
+        "word": "全国铁路连续3天发送旅客破1600万人次",
+        "onboard_time": 1723537761,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2049095,
+        "num": 1003847,
+        "word": "董卿 不过她自由了",
+        "onboard_time": 1723538842,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1404479,
+        "num": 1000154,
+        "word": "骑行遭碾压孩子父亲疑曾回怼他人劝阻",
+        "onboard_time": 1723523362,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 995159,
+        "num": 995159,
+        "word": "张若昀抽烟偷感",
+        "onboard_time": 1723539023,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 951932,
+        "num": 951932,
+        "word": "吃达美乐被烫成二度烧伤",
+        "onboard_time": 1723532061,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 778233,
+        "num": 778233,
+        "word": "孙颖莎今晚两场直播",
+        "onboard_time": 1723538422,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48631,
+        "num": 759466,
+        "word": "超7成未成年人接触网游超2年",
+        "onboard_time": 1723539625,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317043,
+        "num": 740278,
+        "word": "警方回应父亲带娃骑行遭碾压",
+        "onboard_time": 1723537822,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3201085,
+        "num": 716723,
+        "word": "陈梦已开办乒乓球学校",
+        "onboard_time": 1723536022,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1128758,
+        "num": 688680,
+        "word": "知情人讲述小孩骑行被碾压更多细节",
+        "onboard_time": 1723536922,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130348,
+        "num": 661797,
+        "word": "糖尿病能预防吗",
+        "onboard_time": 1723536742,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 970856,
+        "num": 652314,
+        "word": "王楚钦打台球",
+        "onboard_time": 1723533561,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 638197,
+        "num": 638197,
+        "word": "登陆计划投票",
+        "onboard_time": 1723537461,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 616706,
+        "num": 616706,
+        "word": "黄多多瘦了好多",
+        "onboard_time": 1723527323,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 562458,
+        "num": 562458,
+        "word": "陶晶莹喊话JK罗琳道歉",
+        "onboard_time": 1723531701,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 546466,
+        "num": 546466,
+        "word": "朱旺旺回应过度制造焦虑",
+        "onboard_time": 1723537702,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 539654,
+        "num": 539654,
+        "word": "女子花60万断骨增高落终身疾病",
+        "onboard_time": 1723526181,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527501,
+        "num": 527501,
+        "word": "井胧工作室回应",
+        "onboard_time": 1723538481,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425316,
+        "num": 425316,
+        "word": "孙铭阳晒和孙颖莎合照",
+        "onboard_time": 1723536561,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 391182,
+        "num": 391182,
+        "word": "马龙每届奥运会送走一个队友",
+        "onboard_time": 1723539023,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355143,
+        "num": 355143,
+        "word": "清水英男揭露日军不打麻药活剥人皮",
+        "onboard_time": 1723517841,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354321,
+        "num": 354321,
+        "word": "小莫谈2028奥运夺金可能",
+        "onboard_time": 1723537942,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 445397,
+        "num": 354178,
+        "word": "井胧 抄袭",
+        "onboard_time": 1723515860,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 353890,
+        "num": 353890,
+        "word": "张本智和听懂中文后憋笑",
+        "onboard_time": 1723530861,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330053,
+        "num": 330053,
+        "word": "司机当跟屁虫白嫖停车费3200元",
+        "onboard_time": 1723538662,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329946,
+        "num": 329946,
+        "word": "原731成员向谢罪与不战和平之碑忏悔",
+        "onboard_time": 1723519641,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305492,
+        "num": 320584,
+        "word": "李纯首谈与马頔恋爱细节",
+        "onboard_time": 1723530022,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282458,
+        "num": 320379,
+        "word": "永夜长明定档",
+        "onboard_time": 1723540522,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320239,
+        "num": 320239,
+        "word": "全红婵玩的乌龟爆单了",
+        "onboard_time": 1723532001,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307424,
+        "num": 307424,
+        "word": "马龙 樊振东团体赛的压力和责任更重",
+        "onboard_time": 1723539506,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301984,
+        "num": 301984,
+        "word": "女生酒精过敏皮肤瞬间衰老",
+        "onboard_time": 1723534942,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301980,
+        "num": 301980,
+        "word": "孙颖莎回国",
+        "onboard_time": 1723512260,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293817,
+        "num": 293817,
+        "word": "WTT澳门冠军赛名单",
+        "onboard_time": 1723539383,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269757,
+        "num": 269757,
+        "word": "抓娃娃机内玩偶夹出几十只虫卵",
+        "onboard_time": 1723537225,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246001,
+        "num": 246001,
+        "word": "登陆计划",
+        "onboard_time": 1723521684,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244670,
+        "num": 244670,
+        "word": "张杰有3.7亿条消息",
+        "onboard_time": 1723513521,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 243576,
+        "num": 243576,
+        "word": "徐艺洋站姐",
+        "onboard_time": 1723529243,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234333,
+        "num": 234333,
+        "word": "黄雨婷比赛结束才敢做美甲",
+        "onboard_time": 1723526601,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231872,
+        "num": 231872,
+        "word": "刘彦春3年亏437亿收36亿管理费",
+        "onboard_time": 1723540582,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 229352,
+        "num": 229352,
+        "word": "爸爸喊王楚钦回家吃锅包肉",
+        "onboard_time": 1723538781,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227316,
+        "num": 227316,
+        "word": "A股两市全天成交额仅4773亿",
+        "onboard_time": 1723537761,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 225890,
+        "num": 225890,
+        "word": "何冰娇已提交退役申请",
+        "onboard_time": 1723532421,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221270,
+        "num": 221270,
+        "word": "王楚钦三世一",
+        "onboard_time": 1723528342,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220548,
+        "num": 220548,
+        "word": "吴磊直升机错位图",
+        "onboard_time": 1723540822,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 220345,
+        "num": 220345,
+        "word": "汽车客运站为啥越来越少了",
+        "onboard_time": 1723537942,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209137,
+        "num": 209137,
+        "word": "全红婵蝶泳水平救生员看到会救她",
+        "onboard_time": 1723535122,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207170,
+        "num": 207170,
+        "word": "小莫与樊振东交换比赛球衣",
+        "onboard_time": 1723530561,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205121,
+        "num": 205121,
+        "word": "陈建斌蒋勤勤小儿子侧脸照",
+        "onboard_time": 1723534343,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民有所呼改革有所应#"
+    }
+  }
+}
