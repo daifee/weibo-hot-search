@@ -1,6 +1,6 @@
 {
   "startTime": 1723307155481,
-  "endTime": 1723576647502,
+  "endTime": 1723577692742,
   "band_list": [
     {
       "raw_hot": 25984443,
@@ -9531,6 +9531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36452,
+      "num": 36452,
+      "word": "女孩挤地铁手机莫名消失崩溃大哭",
+      "onboard_time": 1723576512,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35252,
       "num": 362935,
       "word": "俄乌为扎波罗热核电站大火互相指责",
@@ -9608,14 +9616,6 @@
       "word": "美官员称长崎纪念仪式为庆典惹怒日本网民",
       "onboard_time": 1723519881,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29224,
-      "num": 32574,
-      "word": "女孩挤地铁手机莫名消失崩溃大哭",
-      "onboard_time": 1723576512,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -9761,6 +9761,14 @@
       "onboard_time": 1723441042,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 12179,
+      "num": 76730,
+      "word": "流动的中国更显发展活力",
+      "onboard_time": 1723577292,
+      "rank": 9,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
