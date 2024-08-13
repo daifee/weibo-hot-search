@@ -1,7 +1,15 @@
 {
   "startTime": 1723479939991,
-  "endTime": 1723537519414,
+  "endTime": 1723538332560,
   "band_list": [
+    {
+      "raw_hot": 3682624,
+      "num": 3682624,
+      "word": "陈梦已开办乒乓球学校",
+      "onboard_time": 1723536022,
+      "rank": 0,
+      "category": "体育"
+    },
     {
       "raw_hot": 3025180,
       "num": 3025180,
@@ -25,14 +33,6 @@
       "onboard_time": 1723521564,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2557267,
-      "num": 2557267,
-      "word": "陈梦已开办乒乓球学校",
-      "onboard_time": 1723536022,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 2433386,
@@ -363,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 806537,
+      "num": 806537,
+      "word": "登录计划投票",
+      "onboard_time": 1723537461,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 805099,
       "num": 805099,
       "word": "原731成员在哈尔滨指认谢罪",
@@ -393,6 +401,14 @@
       "onboard_time": 1723505538,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 731594,
+      "num": 731594,
+      "word": "超过十个国家抢申办2036奥运",
+      "onboard_time": 1723534041,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 715680,
@@ -523,14 +539,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 525977,
-      "num": 525977,
-      "word": "超过十个国家抢申办2036奥运",
-      "onboard_time": 1723534041,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 520387,
       "num": 520387,
       "word": "央视曝博物馆0元票被黄牛刷票倒卖",
@@ -545,6 +553,14 @@
       "onboard_time": 1723466301,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 493781,
+      "num": 493781,
+      "word": "孙铭阳晒和孙颖莎合照",
+      "onboard_time": 1723536561,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 491855,
@@ -723,19 +739,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 361127,
-      "num": 361127,
-      "word": "孙铭阳晒和孙颖莎合照",
-      "onboard_time": 1723536561,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 357503,
       "num": 357503,
       "word": "上海应急局回应市民买到救灾物资",
       "onboard_time": 1723468881,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 356705,
+      "num": 356705,
+      "word": "女生酒精过敏皮肤瞬间衰老",
+      "onboard_time": 1723534942,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -747,12 +763,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 352711,
-      "num": 352711,
-      "word": "登录计划投票",
-      "onboard_time": 1723537461,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 352439,
+      "num": 399099,
+      "word": "朱旺旺回应过度制造焦虑",
+      "onboard_time": 1723537702,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 350631,
@@ -825,14 +841,6 @@
       "onboard_time": 1723457661,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 327621,
-      "num": 327621,
-      "word": "女生酒精过敏皮肤瞬间衰老",
-      "onboard_time": 1723534942,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 327587,
@@ -1019,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 262551,
+      "num": 745249,
+      "word": "知情人讲述小孩骑行被碾压更多细节",
+      "onboard_time": 1723536922,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258740,
       "num": 258740,
       "word": "王源去了周也推荐的火锅店",
@@ -1043,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 255479,
+      "num": 255479,
+      "word": "小莫谈2028奥运夺金可能",
+      "onboard_time": 1723537942,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 254428,
       "num": 254428,
       "word": "外卖员烈日下开会领导却在阴凉处",
@@ -1057,6 +1081,22 @@
       "onboard_time": 1723476740,
       "rank": 28,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 250298,
+      "num": 250298,
+      "word": "A股两市全天成交额仅4773亿",
+      "onboard_time": 1723537761,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 249161,
+      "num": 249161,
+      "word": "抓娃娃机内玩偶夹出几十只虫卵",
+      "onboard_time": 1723537225,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248617,
@@ -1081,6 +1121,14 @@
       "onboard_time": 1723521083,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 244551,
+      "num": 244551,
+      "word": "骑友提醒儿童骑行应格外注意",
+      "onboard_time": 1723535122,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241321,
@@ -1155,12 +1203,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 229769,
+      "num": 229769,
+      "word": "何冰娇已退出国家队",
+      "onboard_time": 1723536801,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 228375,
       "num": 228375,
       "word": "奥运会后劲好大",
       "onboard_time": 1723515981,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226375,
+      "num": 880898,
+      "word": "小伙体验按摩被说有扁平疣付九千六",
+      "onboard_time": 1723536022,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226107,
@@ -1177,6 +1241,14 @@
       "onboard_time": 1723510822,
       "rank": 47,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 222420,
+      "num": 249590,
+      "word": "网友偶遇张杰打高尔夫",
+      "onboard_time": 1723538243,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 217869,
@@ -1291,14 +1363,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 204553,
-      "num": 204553,
-      "word": "何冰娇已退出国家队",
-      "onboard_time": 1723536801,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 203948,
       "num": 160818,
       "word": "马龙谈队友更迭",
@@ -1321,14 +1385,6 @@
       "onboard_time": 1723471644,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 200893,
-      "num": 200893,
-      "word": "抓娃娃机内玩偶夹出几十只虫卵",
-      "onboard_time": 1723537225,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199964,
@@ -1499,6 +1555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142935,
+      "num": 382914,
+      "word": "警方回应父亲带娃骑行遭碾压",
+      "onboard_time": 1723537822,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142447,
       "num": 142447,
       "word": "小布左右臂粗细对比",
@@ -1512,14 +1576,6 @@
       "word": "同场电影票价相差33元",
       "onboard_time": 1723518021,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139668,
-      "num": 880898,
-      "word": "小伙体验按摩被说有扁平疣付九千六",
-      "onboard_time": 1723536022,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -1553,14 +1609,6 @@
       "onboard_time": 1723458801,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 131025,
-      "num": 745249,
-      "word": "知情人讲述小孩骑行被碾压更多细节",
-      "onboard_time": 1723536922,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130053,
@@ -1755,6 +1803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101261,
+      "num": 763894,
+      "word": "糖尿病能预防吗",
+      "onboard_time": 1723536742,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 98298,
       "num": 210546,
       "word": "护士洗头洗一半顶泡沫去救人",
@@ -1875,14 +1931,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 66783,
-      "num": 284585,
-      "word": "糖尿病能预防吗",
-      "onboard_time": 1723536742,
-      "rank": 34,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 65149,
       "num": 76154,
       "word": "华晨宇小猫正步",
@@ -1905,6 +1953,14 @@
       "onboard_time": 1723526481,
       "rank": 9,
       "category": "社会新闻,国外时政"
+    },
+    {
+      "raw_hot": 62470,
+      "num": 768125,
+      "word": "孩子不满12周岁能骑车上路吗",
+      "onboard_time": 1723538122,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61981,
@@ -2035,6 +2091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 38362,
+      "num": 1752922,
+      "word": "全国铁路连续3天发送旅客破1600万人次",
+      "onboard_time": 1723537761,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37522,
       "num": 630544,
       "word": "马斯克称采访特朗普直播遇网络攻击",
@@ -2107,12 +2171,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24033,
+      "num": 742576,
+      "word": "交通规则不是摆设是孩子的生命线",
+      "onboard_time": 1723537822,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17014,
       "num": 78824,
       "word": "交警穿过车流救回昏迷的哥",
       "onboard_time": 1723489331,
       "rank": 20,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 15681,
+      "num": 768570,
+      "word": "汽车客运站为啥越来越少了",
+      "onboard_time": 1723537942,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14888,

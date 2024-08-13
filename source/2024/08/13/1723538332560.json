@@ -1,0 +1,410 @@
+{
+  "runTime": 1723538332560,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3682624,
+        "num": 3682624,
+        "word": "陈梦已开办乒乓球学校",
+        "onboard_time": 1723536022,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2054353,
+        "num": 2054353,
+        "word": "世界羽联删除何冰娇女单排名",
+        "onboard_time": 1723532300,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38362,
+        "num": 1752922,
+        "word": "全国铁路连续3天发送旅客破1600万人次",
+        "onboard_time": 1723537761,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1577526,
+        "num": 1577526,
+        "word": "吃达美乐被烫成二度烧伤",
+        "onboard_time": 1723532061,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1309575,
+        "num": 1309575,
+        "word": "骑行遭碾压孩子父亲疑曾回怼他人劝阻",
+        "onboard_time": 1723523362,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 821803,
+        "num": 821803,
+        "word": "黄多多瘦了好多",
+        "onboard_time": 1723527323,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 806537,
+        "num": 806537,
+        "word": "登录计划投票",
+        "onboard_time": 1723537461,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15681,
+        "num": 768570,
+        "word": "汽车客运站为啥越来越少了",
+        "onboard_time": 1723537942,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 768326,
+        "num": 768326,
+        "word": "女子花60万断骨增高落终身疾病",
+        "onboard_time": 1723526181,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62470,
+        "num": 768125,
+        "word": "孩子不满12周岁能骑车上路吗",
+        "onboard_time": 1723538122,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1261095,
+        "num": 767002,
+        "word": "王楚钦打台球",
+        "onboard_time": 1723533561,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 772756,
+        "num": 765525,
+        "word": "陶晶莹喊话JK罗琳道歉",
+        "onboard_time": 1723531701,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101261,
+        "num": 763894,
+        "word": "糖尿病能预防吗",
+        "onboard_time": 1723536742,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 763141,
+        "num": 763141,
+        "word": "张本智和听懂中文后憋笑",
+        "onboard_time": 1723530861,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24033,
+        "num": 742576,
+        "word": "交通规则不是摆设是孩子的生命线",
+        "onboard_time": 1723537822,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 731594,
+        "num": 731594,
+        "word": "超过十个国家抢申办2036奥运",
+        "onboard_time": 1723534041,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 548787,
+        "num": 548787,
+        "word": "井胧 抄袭",
+        "onboard_time": 1723515860,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 494307,
+        "num": 494307,
+        "word": "清水英男揭露日军不打麻药活剥人皮",
+        "onboard_time": 1723517841,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493781,
+        "num": 493781,
+        "word": "孙铭阳晒和孙颖莎合照",
+        "onboard_time": 1723536561,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 415092,
+        "num": 471089,
+        "word": "李纯首谈与马頔恋爱细节",
+        "onboard_time": 1723530022,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 463191,
+        "num": 463191,
+        "word": "何冰娇已提交退役申请",
+        "onboard_time": 1723532421,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 457127,
+        "num": 457127,
+        "word": "王楚钦三世一",
+        "onboard_time": 1723528342,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 452160,
+        "num": 452160,
+        "word": "原731成员向谢罪与不战和平之碑忏悔",
+        "onboard_time": 1723519641,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447828,
+        "num": 447828,
+        "word": "孙颖莎回国",
+        "onboard_time": 1723512260,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 415087,
+        "num": 415087,
+        "word": "徐艺洋站姐",
+        "onboard_time": 1723529243,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407517,
+        "num": 407517,
+        "word": "全红婵玩的乌龟爆单了",
+        "onboard_time": 1723532001,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 403757,
+        "num": 403757,
+        "word": "张杰有3.7亿条消息",
+        "onboard_time": 1723513521,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 352439,
+        "num": 399099,
+        "word": "朱旺旺回应过度制造焦虑",
+        "onboard_time": 1723537702,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339087,
+        "num": 395321,
+        "word": "陈建斌蒋勤勤小儿子侧脸照",
+        "onboard_time": 1723534343,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338534,
+        "num": 385546,
+        "word": "登陆计划",
+        "onboard_time": 1723521684,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142935,
+        "num": 382914,
+        "word": "警方回应父亲带娃骑行遭碾压",
+        "onboard_time": 1723537822,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379357,
+        "num": 379357,
+        "word": "黄雨婷比赛结束才敢做美甲",
+        "onboard_time": 1723526601,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356705,
+        "num": 356705,
+        "word": "女生酒精过敏皮肤瞬间衰老",
+        "onboard_time": 1723534942,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345900,
+        "num": 345900,
+        "word": "小莫与樊振东交换比赛球衣",
+        "onboard_time": 1723530561,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280048,
+        "num": 280048,
+        "word": "全红婵蝶泳水平救生员看到会救她",
+        "onboard_time": 1723535122,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271007,
+        "num": 271007,
+        "word": "唐尚珺决定去读大学",
+        "onboard_time": 1723528880,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262551,
+        "num": 262551,
+        "word": "知情人讲述小孩骑行被碾压更多细节",
+        "onboard_time": 1723536922,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255479,
+        "num": 255479,
+        "word": "小莫谈2028奥运夺金可能",
+        "onboard_time": 1723537942,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250298,
+        "num": 250298,
+        "word": "A股两市全天成交额仅4773亿",
+        "onboard_time": 1723537761,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 222420,
+        "num": 249590,
+        "word": "网友偶遇张杰打高尔夫",
+        "onboard_time": 1723538243,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249161,
+        "num": 249161,
+        "word": "抓娃娃机内玩偶夹出几十只虫卵",
+        "onboard_time": 1723537225,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244551,
+        "num": 244551,
+        "word": "骑友提醒儿童骑行应格外注意",
+        "onboard_time": 1723535122,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229832,
+        "num": 229832,
+        "word": "潘展乐解散粉丝群",
+        "onboard_time": 1723518742,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229769,
+        "num": 229769,
+        "word": "何冰娇已退出国家队",
+        "onboard_time": 1723536801,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228042,
+        "num": 228042,
+        "word": "王皓抱起樊振东都有手办了",
+        "onboard_time": 1723535781,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226586,
+        "num": 226586,
+        "word": "何冰娇 退役",
+        "onboard_time": 1723526841,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226375,
+        "num": 226375,
+        "word": "小伙体验按摩被说有扁平疣付九千六",
+        "onboard_time": 1723536022,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208234,
+        "num": 225915,
+        "word": "朱正廷 人在家中坐锅从天上来",
+        "onboard_time": 1723530022,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 225477,
+        "num": 225477,
+        "word": "731部队少年兵回忆孕妇被做成标本",
+        "onboard_time": 1723529122,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223257,
+        "num": 223257,
+        "word": "小伙花十几万断骨增高致终身伤残",
+        "onboard_time": 1723521564,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民有所呼改革有所应#"
+    }
+  }
+}
