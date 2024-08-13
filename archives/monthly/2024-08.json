@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1723570555157,
+  "endTime": 1723573641342,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -20195,6 +20195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 364113,
+      "num": 364113,
+      "word": "晴子",
+      "onboard_time": 1723567218,
+      "rank": 48,
+      "category": "网红"
+    },
+    {
       "raw_hot": 363633,
       "num": 363633,
       "word": "美国跳水运动员3米跳板预赛0分",
@@ -20833,14 +20841,6 @@
       "onboard_time": 1722864268,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 348357,
-      "num": 348357,
-      "word": "晴子",
-      "onboard_time": 1723567218,
-      "rank": 48,
-      "category": "网红"
     },
     {
       "raw_hot": 348318,
@@ -36787,6 +36787,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 116265,
+      "num": 94518,
+      "word": "我们在黑夜中相拥",
+      "onboard_time": 1723232832,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116025,
       "num": 116025,
       "word": "法国男排vs德国男排",
@@ -37395,6 +37403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101970,
+      "num": 101970,
+      "word": "解散粉丝群不失为一种流量清醒",
+      "onboard_time": 1723569376,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101468,
       "num": 507546,
       "word": "飞行学院毕业生转行开面包车",
@@ -37433,6 +37449,14 @@
       "onboard_time": 1722868471,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101233,
+      "num": 94494,
+      "word": "刘宇宁录节目越录越害怕",
+      "onboard_time": 1723570694,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 100509,
@@ -37827,14 +37851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 91716,
-      "num": 91716,
-      "word": "解散粉丝群不失为一种流量清醒",
-      "onboard_time": 1723569376,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 91544,
       "num": 1007909,
       "word": "要啥店子自己开",
@@ -37984,14 +38000,6 @@
       "word": "魏哲鸣看吻戏有种公开处刑的感觉",
       "onboard_time": 1723348522,
       "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 88843,
-      "num": 88843,
-      "word": "我们在黑夜中相拥",
-      "onboard_time": 1723232832,
-      "rank": 48,
       "category": "剧集"
     },
     {
@@ -39473,6 +39481,14 @@
       "onboard_time": 1723252821,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60086,
+      "num": 60086,
+      "word": "名侦探柯南",
+      "onboard_time": 1723571354,
+      "rank": 37,
+      "category": "动漫"
     },
     {
       "raw_hot": 59946,
@@ -41777,6 +41793,14 @@
       "onboard_time": 1722626712,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 28083,
+      "num": 70889,
+      "word": "大人把2个娃塞后备箱还违章行驶",
+      "onboard_time": 1723573573,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28076,
