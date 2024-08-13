@@ -1,7 +1,15 @@
 {
   "startTime": 1723479939991,
-  "endTime": 1723547910952,
+  "endTime": 1723548897869,
   "band_list": [
+    {
+      "raw_hot": 5030730,
+      "num": 5030730,
+      "word": "王楚钦孙颖莎直播",
+      "onboard_time": 1723546521,
+      "rank": 0,
+      "category": "体育"
+    },
     {
       "raw_hot": 4139750,
       "num": 1656118,
@@ -15,14 +23,6 @@
       "num": 3682624,
       "word": "陈梦已开办乒乓球学校",
       "onboard_time": 1723536022,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 3545135,
-      "num": 3545135,
-      "word": "王楚钦孙颖莎直播",
-      "onboard_time": 1723546521,
       "rank": 0,
       "category": "体育"
     },
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 1132435,
-      "num": 845558,
+      "num": 1073870,
       "word": "孙颖莎今晚两场直播",
       "onboard_time": 1723538422,
       "rank": 7,
@@ -435,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 918305,
+      "num": 456345,
+      "word": "情侣约定存钱开箱发现一半是练功券",
+      "onboard_time": 1723543281,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 912142,
       "num": 912142,
       "word": "武功山景区夫妻俩漂流1死1伤",
@@ -467,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 840414,
+      "num": 522677,
+      "word": "教练肖战给国乒刺头排序",
+      "onboard_time": 1723547422,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 821505,
       "num": 821505,
       "word": "秋风所乘网约车司机朋友发声",
@@ -481,14 +497,6 @@
       "onboard_time": 1723467742,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 813322,
-      "num": 436155,
-      "word": "情侣约定存钱开箱发现一半是练功券",
-      "onboard_time": 1723543281,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 806537,
@@ -755,6 +763,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 467916,
+      "num": 467916,
+      "word": "马龙晒五届奥运会证件",
+      "onboard_time": 1723547602,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 459875,
       "num": 459875,
       "word": "狗狗闻到肉味怕主人偷吃强撑不睡",
@@ -787,12 +803,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 443538,
+      "num": 465851,
+      "word": "陈乔恩素颜",
+      "onboard_time": 1723547062,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 441716,
       "num": 622981,
       "word": "朱正廷 人在家中坐锅从天上来",
       "onboard_time": 1723530022,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 433020,
+      "num": 267779,
+      "word": "陈浚铭 换票",
+      "onboard_time": 1723546221,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 424756,
@@ -835,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 402595,
+      "num": 402595,
+      "word": "孙颖莎谈闭幕式吹灭圣火",
+      "onboard_time": 1723547486,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 400938,
       "num": 400938,
       "word": "小红书",
@@ -859,12 +899,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 382531,
-      "num": 267779,
-      "word": "陈浚铭 换票",
-      "onboard_time": 1723546221,
-      "rank": 32,
-      "category": "演出"
+      "raw_hot": 383147,
+      "num": 662685,
+      "word": "律师称骑行碾压事件监护人严重失职",
+      "onboard_time": 1723543222,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 376956,
@@ -1043,14 +1083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 318143,
-      "num": 662685,
-      "word": "律师称骑行碾压事件监护人严重失职",
-      "onboard_time": 1723543222,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 317335,
       "num": 317335,
       "word": "一枪打直了国人弯了一辈子的腰",
@@ -1067,12 +1099,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 310818,
+      "num": 463160,
+      "word": "BTS韩国最大音源组关站",
+      "onboard_time": 1723547486,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 307424,
       "num": 307424,
       "word": "马龙 樊振东团体赛的压力和责任更重",
       "onboard_time": 1723539506,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 306635,
+      "num": 306635,
+      "word": "环卫工追着洒水车作业司机已停职",
+      "onboard_time": 1723546401,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 305457,
@@ -1113,14 +1161,6 @@
       "onboard_time": 1723523962,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 298130,
-      "num": 298130,
-      "word": "BTS韩国最大音源组关站",
-      "onboard_time": 1723547486,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 297658,
@@ -1187,19 +1227,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 286566,
+      "num": 543221,
+      "word": "男子无故挨打后反杀一人被判刑",
+      "onboard_time": 1723542984,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285032,
       "num": 285032,
       "word": "奥运村1.4万张床垫将捐给法国军队",
       "onboard_time": 1723515140,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 283742,
-      "num": 283742,
-      "word": "教练肖战给国乒刺头排序",
-      "onboard_time": 1723547422,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -1211,16 +1251,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 281585,
-      "num": 275515,
-      "word": "男子无故挨打后反杀一人被判刑",
-      "onboard_time": 1723542984,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 281523,
-      "num": 281523,
+      "num": 379760,
       "word": "赵丽颖两部剧被评为爆款神剧",
       "onboard_time": 1723545801,
       "rank": 26,
@@ -1275,14 +1307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 271047,
-      "num": 271047,
-      "word": "陈乔恩素颜",
-      "onboard_time": 1723547062,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 269757,
       "num": 269757,
       "word": "抓娃娃机内玩偶夹出几十只虫卵",
@@ -1305,22 +1329,6 @@
       "onboard_time": 1723532782,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 265903,
-      "num": 265903,
-      "word": "孙颖莎谈闭幕式吹灭圣火",
-      "onboard_time": 1723547486,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 259259,
-      "num": 259259,
-      "word": "环卫工追着洒水车作业司机已停职",
-      "onboard_time": 1723546401,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 258740,
@@ -1456,6 +1464,14 @@
       "word": "早田希娜开通微博是樊振东建议的",
       "onboard_time": 1723522583,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 236363,
+      "num": 236363,
+      "word": "孙颖莎在线教你健身",
+      "onboard_time": 1723547902,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -1595,6 +1611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219396,
+      "num": 219396,
+      "word": "王楚钦说孙颖莎五年后还是童颜",
+      "onboard_time": 1723548860,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218832,
       "num": 218832,
       "word": "汪顺游泳池真的有漂白粉",
@@ -1665,14 +1689,6 @@
       "onboard_time": 1723525642,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 213190,
-      "num": 213190,
-      "word": "马龙晒五届奥运会证件",
-      "onboard_time": 1723547602,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 210053,
@@ -1795,6 +1811,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 195638,
+      "num": 195638,
+      "word": "樊振东说喊多了嗓子哑了",
+      "onboard_time": 1723548201,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195164,
       "num": 195164,
       "word": "2024全国快递业务量突破1000亿件",
@@ -1835,6 +1859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189713,
+      "num": 189713,
+      "word": "极氪发布会",
+      "onboard_time": 1723548321,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 189477,
       "num": 189477,
       "word": "儿子发现老妈朋友圈只屏蔽了自己",
@@ -1851,12 +1883,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188059,
+      "num": 188059,
+      "word": "樊振东收到过365公斤牛排奖励",
+      "onboard_time": 1723547422,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187546,
       "num": 187546,
       "word": "苏新皓手写信",
       "onboard_time": 1723532900,
       "rank": 45,
       "category": "综艺,综艺"
+    },
+    {
+      "raw_hot": 182998,
+      "num": 182998,
+      "word": "谢思埸偶遇全红婵樊振东",
+      "onboard_time": 1723547842,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 181267,
@@ -1875,19 +1923,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180600,
+      "num": 180600,
+      "word": "撤离大陆的富士康为何又要回来了",
+      "onboard_time": 1723548021,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 176043,
       "num": 176043,
       "word": "潘展乐一定要拿下混接的原因",
       "onboard_time": 1723513160,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 175481,
-      "num": 175481,
-      "word": "樊振东收到过365公斤牛排奖励",
-      "onboard_time": 1723547422,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -1915,12 +1963,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171220,
-      "num": 171220,
-      "word": "谢思埸偶遇全红婵樊振东",
-      "onboard_time": 1723547842,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 169513,
+      "num": 370865,
+      "word": "凡人修仙传下证",
+      "onboard_time": 1723548560,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 169298,
@@ -2001,6 +2049,14 @@
       "onboard_time": 1723470562,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136599,
+      "num": 592530,
+      "word": "公立医生接私活做非法断骨增高手术",
+      "onboard_time": 1723546820,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134672,
@@ -2315,6 +2371,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 75217,
+      "num": 223869,
+      "word": "内娱有自己的打歌舞台",
+      "onboard_time": 1723548201,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 75142,
       "num": 75142,
       "word": "小红书崩了",
@@ -2369,14 +2433,6 @@
       "onboard_time": 1723482976,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 63728,
-      "num": 592530,
-      "word": "公立医生接私活做非法断骨增高手术",
-      "onboard_time": 1723546820,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62690,
@@ -2625,6 +2681,14 @@
       "onboard_time": 1723537822,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23301,
+      "num": 367932,
+      "word": "以色列北部城镇响起防空警报",
+      "onboard_time": 1723548321,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 19101,
