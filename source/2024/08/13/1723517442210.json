@@ -1,0 +1,410 @@
+{
+  "runTime": 1723517442210,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2285604,
+        "num": 2285604,
+        "word": "张杰有3.7亿条消息",
+        "onboard_time": 1723513521,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1430528,
+        "num": 1430528,
+        "word": "第一批巴黎奥运奖牌已经开始脱皮了",
+        "onboard_time": 1723511900,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20603,
+        "num": 1345831,
+        "word": "被中国人自己的治沙魔方狠狠震撼",
+        "onboard_time": 1723449501,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2065584,
+        "num": 1342026,
+        "word": "井胧 抄袭",
+        "onboard_time": 1723515860,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1337925,
+        "num": 1337925,
+        "word": "孙颖莎回国",
+        "onboard_time": 1723512260,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1178192,
+        "num": 1178192,
+        "word": "美国游泳队紫脸到底是什么",
+        "onboard_time": 1723507821,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 937706,
+        "num": 937706,
+        "word": "00后北漂女生毕业一年张家口买房",
+        "onboard_time": 1723513701,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 912142,
+        "num": 912142,
+        "word": "武功山景区夫妻俩漂流1死1伤",
+        "onboard_time": 1723509683,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 879474,
+        "num": 879474,
+        "word": "潘展乐 清醒",
+        "onboard_time": 1723504817,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60473,
+        "num": 697708,
+        "word": "马斯克采访特朗普都说了啥",
+        "onboard_time": 1723516220,
+        "rank": 9,
+        "category": "社会新闻,国外时政"
+      },
+      {
+        "raw_hot": 1966425,
+        "num": 680907,
+        "word": "男子腹痛三月以为是肿瘤结果是叉子",
+        "onboard_time": 1723511541,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643013,
+        "num": 643013,
+        "word": "全红婵母亲说不敢让女儿回家",
+        "onboard_time": 1723504456,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 637860,
+        "num": 637860,
+        "word": "早田希娜加入五星红旗宇宙",
+        "onboard_time": 1723507101,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 617028,
+        "num": 617028,
+        "word": "蔡徐坤ins",
+        "onboard_time": 1723513939,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37522,
+        "num": 595624,
+        "word": "马斯克称采访特朗普直播遇网络攻击",
+        "onboard_time": 1723516220,
+        "rank": 14,
+        "category": "社会新闻,国外时政"
+      },
+      {
+        "raw_hot": 56863,
+        "num": 592630,
+        "word": "五菱星光S能耗成本堪比坐公交",
+        "onboard_time": 1723515500,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 589896,
+        "num": 589896,
+        "word": "网传父亲带娃骑行娃摔车遭小车碾压",
+        "onboard_time": 1723508243,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400735,
+        "num": 583025,
+        "word": "单依纯三年后再次创飞薛之谦",
+        "onboard_time": 1723511001,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386799,
+        "num": 544560,
+        "word": "元奎已于两年前离世",
+        "onboard_time": 1723505538,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 371050,
+        "num": 529395,
+        "word": "东方小孙曾个人赠予董宇辉1500万",
+        "onboard_time": 1723516280,
+        "rank": 19,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 57743,
+        "num": 506101,
+        "word": "华为双层OLED屏幕到底强在哪",
+        "onboard_time": 1723513521,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 485657,
+        "num": 485657,
+        "word": "终于知道奥运会的pin长啥样了",
+        "onboard_time": 1723507341,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 437113,
+        "num": 437113,
+        "word": "副处级王家伟身份疑云",
+        "onboard_time": 1723514420,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429969,
+        "num": 429969,
+        "word": "全红婵家乡连夜修路建停车场",
+        "onboard_time": 1723467742,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 429365,
+        "num": 429365,
+        "word": "孙颖莎回关邱贻可早田希娜",
+        "onboard_time": 1723494013,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 391761,
+        "num": 391761,
+        "word": "跳水队的IP已经乱成一锅粥了",
+        "onboard_time": 1723473084,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352675,
+        "num": 386594,
+        "word": "原来男人哭得梨花带雨是这样的",
+        "onboard_time": 1723508482,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297436,
+        "num": 379070,
+        "word": "秋风所乘网约车司机朋友发声",
+        "onboard_time": 1723505968,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 206134,
+        "num": 372833,
+        "word": "我必须考大学的一生",
+        "onboard_time": 1723510581,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35252,
+        "num": 362935,
+        "word": "俄乌为扎波罗热核电站大火互相指责",
+        "onboard_time": 1723516882,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 359792,
+        "num": 359792,
+        "word": "孙海洋家办孙卓升学宴",
+        "onboard_time": 1723515020,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353894,
+        "num": 353894,
+        "word": "原731成员在哈尔滨指认谢罪",
+        "onboard_time": 1723511900,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293196,
+        "num": 293196,
+        "word": "美团回应杭州外卖员事件",
+        "onboard_time": 1723511900,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282520,
+        "num": 282520,
+        "word": "奥运村1.4万张床垫将捐给法国军队",
+        "onboard_time": 1723515140,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281572,
+        "num": 281572,
+        "word": "邱贻可终于有名分了",
+        "onboard_time": 1723512980,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279620,
+        "num": 279620,
+        "word": "美团向物业支付围栏维修费用",
+        "onboard_time": 1723515020,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 252198,
+        "num": 252198,
+        "word": "中国金牌榜并列第一",
+        "onboard_time": 1723390055,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242013,
+        "num": 242013,
+        "word": "普京称西方正假手乌克兰与俄作战",
+        "onboard_time": 1723505726,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 239588,
+        "num": 239588,
+        "word": "巴勒斯坦总统阿巴斯将与普京会晤",
+        "onboard_time": 1723507401,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 232629,
+        "num": 232629,
+        "word": "麻辣诱惑创始人为欠薪千万道歉",
+        "onboard_time": 1723515202,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228375,
+        "num": 228375,
+        "word": "奥运会后劲好大",
+        "onboard_time": 1723515981,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220264,
+        "num": 220264,
+        "word": "江浙沪人就是先天留学圣体",
+        "onboard_time": 1723516821,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211734,
+        "num": 211734,
+        "word": "加沙超1.6万儿童死亡",
+        "onboard_time": 1723507821,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 207013,
+        "num": 207013,
+        "word": "普京称当务之急是将乌军赶出俄领土",
+        "onboard_time": 1723471882,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 200286,
+        "num": 200286,
+        "word": "乌称控制俄约1000平方公里领土",
+        "onboard_time": 1723510822,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 189187,
+        "num": 189187,
+        "word": "专家回忆美运动员用大碗装兴奋剂",
+        "onboard_time": 1723514601,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188143,
+        "num": 188143,
+        "word": "奥运十大动容时刻",
+        "onboard_time": 1723517420,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156325,
+        "num": 187227,
+        "word": "董璇都演反派了",
+        "onboard_time": 1723511422,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187064,
+        "num": 187064,
+        "word": "狗狗闻到肉味怕主人偷吃强撑不睡",
+        "onboard_time": 1723504517,
+        "rank": 48,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 184702,
+        "num": 184702,
+        "word": "超级全满贯到目前为止只有三个人",
+        "onboard_time": 1723472902,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#凝聚起富民兴村和城乡融合发展的强大力量#"
+    }
+  }
+}
