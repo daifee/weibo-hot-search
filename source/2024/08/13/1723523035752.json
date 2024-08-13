@@ -1,0 +1,410 @@
+{
+  "runTime": 1723523035752,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2117156,
+        "num": 2117156,
+        "word": "女子辱骂诋毁运动员教练员被刑拘",
+        "onboard_time": 1723518501,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2078211,
+        "num": 2078211,
+        "word": "全红婵给爷爷打电话必有三连问",
+        "onboard_time": 1723519221,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71750,
+        "num": 1699118,
+        "word": "腾格里蓝成为新中式沙漠色号",
+        "onboard_time": 1723519291,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1533974,
+        "num": 1533974,
+        "word": "井胧 抄袭",
+        "onboard_time": 1723515860,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1514577,
+        "num": 1514577,
+        "word": "潘展乐解散粉丝群",
+        "onboard_time": 1723518742,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1489481,
+        "num": 1489481,
+        "word": "孙颖莎回国",
+        "onboard_time": 1723512260,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1432913,
+        "num": 1432913,
+        "word": "第一批巴黎奥运奖牌已经开始脱皮了",
+        "onboard_time": 1723511900,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1243129,
+        "num": 1243129,
+        "word": "张杰有3.7亿条消息",
+        "onboard_time": 1723513521,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1200721,
+        "num": 1200721,
+        "word": "清水英男揭露日军不打麻药活剥人皮",
+        "onboard_time": 1723517841,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53043,
+        "num": 1071012,
+        "word": "白俄罗斯国防部称已处于战备状态",
+        "onboard_time": 1723522221,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1235751,
+        "num": 1042507,
+        "word": "宋伊人恋情",
+        "onboard_time": 1723522282,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1011052,
+        "num": 1011052,
+        "word": "张志杰母亲称儿子遗体仍在印尼",
+        "onboard_time": 1723518621,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18021,
+        "num": 857847,
+        "word": "白岩松谈东方茶引领时代先锋",
+        "onboard_time": 1723518141,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 773653,
+        "num": 773653,
+        "word": "原731成员向谢罪与不战和平之碑忏悔",
+        "onboard_time": 1723519641,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 745906,
+        "num": 745906,
+        "word": "原731成员在哈尔滨指认谢罪",
+        "onboard_time": 1723511900,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683570,
+        "num": 683570,
+        "word": "万茜爆料刘亦菲拍戏从来不拿手机",
+        "onboard_time": 1723518561,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 530848,
+        "num": 616331,
+        "word": "花少辛芷蕾手机里的视频终于看到了",
+        "onboard_time": 1723521321,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38476,
+        "num": 597143,
+        "word": "金晨新剧演武林别主",
+        "onboard_time": 1723521923,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 474442,
+        "num": 595547,
+        "word": "东方小孙曾个人赠予董宇辉1500万",
+        "onboard_time": 1723516280,
+        "rank": 18,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 595135,
+        "num": 595135,
+        "word": "副处级王家伟身份疑云",
+        "onboard_time": 1723514420,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573046,
+        "num": 573046,
+        "word": "小伙花十几万断骨增高致终身伤残",
+        "onboard_time": 1723521564,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551413,
+        "num": 551413,
+        "word": "美国游泳队紫脸到底是什么",
+        "onboard_time": 1723507821,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61981,
+        "num": 516720,
+        "word": "负负得正 INFP",
+        "onboard_time": 1723522462,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 508854,
+        "num": 508854,
+        "word": "网传父亲带娃骑行娃摔车遭小车碾压",
+        "onboard_time": 1723508243,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499615,
+        "num": 499615,
+        "word": "武功山景区夫妻俩漂流1死1伤",
+        "onboard_time": 1723509683,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25081,
+        "num": 488749,
+        "word": "闭幕了舒服多了",
+        "onboard_time": 1723522402,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 372702,
+        "num": 486367,
+        "word": "刺杀小说家2官宣开机",
+        "onboard_time": 1723517600,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 342111,
+        "num": 485875,
+        "word": "刘亦菲金九银十封面",
+        "onboard_time": 1723521983,
+        "rank": 27,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 485595,
+        "num": 485595,
+        "word": "00后北漂女生毕业一年张家口买房",
+        "onboard_time": 1723513701,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46340,
+        "num": 435181,
+        "word": "哥哥们跳了纯妹妹",
+        "onboard_time": 1723522883,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 426419,
+        "num": 426419,
+        "word": "江浙沪人就是先天留学圣体",
+        "onboard_time": 1723516821,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 382323,
+        "num": 382323,
+        "word": "全红婵哥哥说村里根本挤不进去",
+        "onboard_time": 1723521502,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341412,
+        "num": 341412,
+        "word": "男子腹痛三月以为是肿瘤结果是叉子",
+        "onboard_time": 1723511541,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340357,
+        "num": 340357,
+        "word": "邓超就这么水灵灵地杀进来了",
+        "onboard_time": 1723521628,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 324284,
+        "num": 324284,
+        "word": "登陆计划",
+        "onboard_time": 1723521684,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323815,
+        "num": 323815,
+        "word": "美团回应杭州外卖员事件",
+        "onboard_time": 1723511900,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314962,
+        "num": 314962,
+        "word": "潘展乐 清醒",
+        "onboard_time": 1723504817,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301658,
+        "num": 301658,
+        "word": "发小酒后身亡同饮男子遭索赔62万",
+        "onboard_time": 1723516821,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269374,
+        "num": 269374,
+        "word": "孙颖莎回关邱贻可早田希娜",
+        "onboard_time": 1723494013,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265690,
+        "num": 265690,
+        "word": "哪个省奥运冠军最多",
+        "onboard_time": 1723522343,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256450,
+        "num": 256450,
+        "word": "早田希娜加入五星红旗宇宙",
+        "onboard_time": 1723507101,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245248,
+        "num": 245248,
+        "word": "王子奇卢昱晓新剧杀青",
+        "onboard_time": 1723521083,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242135,
+        "num": 242135,
+        "word": "中国金牌榜并列第一",
+        "onboard_time": 1723390055,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226985,
+        "num": 226985,
+        "word": "原731部队成员说标本里不乏婴儿",
+        "onboard_time": 1723518621,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218145,
+        "num": 218145,
+        "word": "全红婵母亲说不敢让女儿回家",
+        "onboard_time": 1723504456,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216500,
+        "num": 216500,
+        "word": "早田希娜开通微博是樊振东建议的",
+        "onboard_time": 1723522583,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215600,
+        "num": 215600,
+        "word": "艺术体操比赛时教练有多紧张",
+        "onboard_time": 1723520902,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215072,
+        "num": 215072,
+        "word": "俄库尔斯克州28处定居点被乌军控制",
+        "onboard_time": 1723520420,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 205871,
+        "num": 205871,
+        "word": "一枪打直了国人弯了一辈子的腰",
+        "onboard_time": 1723518141,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201565,
+        "num": 201565,
+        "word": "张志杰",
+        "onboard_time": 1723521803,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习新语#"
+    }
+  }
+}
