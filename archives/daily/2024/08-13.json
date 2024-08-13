@@ -1,6 +1,6 @@
 {
   "startTime": 1723479939991,
-  "endTime": 1723530545500,
+  "endTime": 1723531338517,
   "band_list": [
     {
       "raw_hot": 3025180,
@@ -81,6 +81,14 @@
       "onboard_time": 1723511900,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1713460,
+      "num": 1713460,
+      "word": "女子花60万断骨增高落终身疾病",
+      "onboard_time": 1723526181,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1634974,
@@ -171,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1216770,
+      "num": 1216770,
+      "word": "唐尚珺决定去读大学",
+      "onboard_time": 1723528880,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1206449,
       "num": 1206449,
       "word": "何冰娇 退役",
@@ -183,6 +199,14 @@
       "num": 1206223,
       "word": "终于知道奥运会的pin长啥样了",
       "onboard_time": 1723507341,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1198468,
+      "num": 1198468,
+      "word": "王楚钦三世一",
+      "onboard_time": 1723528342,
       "rank": 4,
       "category": "体育"
     },
@@ -211,22 +235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1031429,
-      "num": 1031429,
-      "word": "王楚钦三世一",
-      "onboard_time": 1723528342,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 946453,
-      "num": 1069423,
-      "word": "女子花60万断骨增高落终身疾病",
-      "onboard_time": 1723526181,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 937706,
       "num": 937706,
       "word": "00后北漂女生毕业一年张家口买房",
@@ -240,14 +248,6 @@
       "word": "武功山景区夫妻俩漂流1死1伤",
       "onboard_time": 1723509683,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 902353,
-      "num": 902353,
-      "word": "唐尚珺决定去读大学",
-      "onboard_time": 1723528880,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -331,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 704504,
+      "num": 704504,
+      "word": "徐艺洋站姐",
+      "onboard_time": 1723529243,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 691294,
       "num": 691294,
       "word": "哪个省奥运冠军最多",
@@ -363,20 +371,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 653309,
-      "num": 653309,
-      "word": "徐艺洋站姐",
-      "onboard_time": 1723529243,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 652085,
       "num": 652085,
       "word": "原来男人哭得梨花带雨是这样的",
       "onboard_time": 1723508482,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 640684,
+      "num": 640684,
+      "word": "小莫与樊振东交换比赛球衣",
+      "onboard_time": 1723530561,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 639371,
@@ -441,6 +449,14 @@
       "onboard_time": 1723521321,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 526063,
+      "num": 674071,
+      "word": "李纯首谈与马頔恋爱细节",
+      "onboard_time": 1723530022,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 520387,
@@ -539,6 +555,22 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 412492,
+      "num": 383966,
+      "word": "张本智和听懂中文后憋笑",
+      "onboard_time": 1723530861,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 409693,
+      "num": 409693,
+      "word": "朱正廷 人在家中坐锅从天上来",
+      "onboard_time": 1723530022,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 409144,
       "num": 1165460,
       "word": "网红河道涨水祖孙三人被冲走身亡",
@@ -611,20 +643,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 362490,
-      "num": 418520,
-      "word": "李纯首谈与马頔恋爱细节",
-      "onboard_time": 1723530022,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 357503,
       "num": 357503,
       "word": "上海应急局回应市民买到救灾物资",
       "onboard_time": 1723468881,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 354778,
+      "num": 410759,
+      "word": "黄子佼再不认罪",
+      "onboard_time": 1723530260,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 350631,
@@ -683,6 +715,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 320748,
+      "num": 320748,
+      "word": "记者暗访断骨增高非法行医黑产链",
+      "onboard_time": 1723530141,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317335,
       "num": 317335,
       "word": "一枪打直了国人弯了一辈子的腰",
@@ -697,6 +737,14 @@
       "onboard_time": 1723515020,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 304523,
+      "num": 304523,
+      "word": "731部队少年兵回忆孕妇被做成标本",
+      "onboard_time": 1723529122,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 303531,
@@ -811,14 +859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 274029,
-      "num": 410759,
-      "word": "黄子佼再不认罪",
-      "onboard_time": 1723530260,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 272265,
       "num": 471428,
       "word": "上海市民买折叠床发现标注救灾物资",
@@ -835,11 +875,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 260665,
-      "num": 260665,
-      "word": "731部队少年兵回忆孕妇被做成标本",
-      "onboard_time": 1723529122,
-      "rank": 37,
+      "raw_hot": 267078,
+      "num": 267078,
+      "word": "父亲带娃骑行遭碾压警方已介入",
+      "onboard_time": 1723530141,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1115,22 +1155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198070,
-      "num": 198070,
-      "word": "记者暗访断骨增高非法行医黑产链",
-      "onboard_time": 1723530141,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 195981,
-      "num": 195981,
-      "word": "朱正廷 人在家中坐锅从天上来",
-      "onboard_time": 1723530022,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 195164,
       "num": 195164,
       "word": "2024全国快递业务量突破1000亿件",
@@ -1147,20 +1171,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191783,
-      "num": 191783,
-      "word": "父亲带娃骑行遭碾压警方已介入",
-      "onboard_time": 1723530141,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191686,
       "num": 191686,
       "word": "专家回忆美运动员用大碗装兴奋剂",
       "onboard_time": 1723514601,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190182,
+      "num": 190182,
+      "word": "跨省异地就医如何直接报销",
+      "onboard_time": 1723529603,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189477,
+      "num": 189477,
+      "word": "儿子发现老妈朋友圈只屏蔽了自己",
+      "onboard_time": 1723531222,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 188143,
@@ -1185,14 +1217,6 @@
       "onboard_time": 1723513160,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 174133,
-      "num": 174133,
-      "word": "跨省异地就医如何直接报销",
-      "onboard_time": 1723529603,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173611,
@@ -1315,6 +1339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128017,
+      "num": 646090,
+      "word": "谁家夫人这么不好惹",
+      "onboard_time": 1723530622,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127341,
       "num": 127341,
       "word": "孙颖莎闭幕式代表亚洲登场",
@@ -1345,6 +1377,14 @@
       "onboard_time": 1723479199,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118028,
+      "num": 188151,
+      "word": "你们好好唱歌搞笑我另有人选",
+      "onboard_time": 1723530691,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 117141,
@@ -1457,6 +1497,14 @@
       "onboard_time": 1723497371,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105478,
+      "num": 916798,
+      "word": "奢侈品盯上了穷鬼生意",
+      "onboard_time": 1723530622,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104422,
@@ -1651,6 +1699,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 56146,
+      "num": 394043,
+      "word": "特朗普称若当选将关闭美国教育部",
+      "onboard_time": 1723530802,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 53434,
       "num": 96953,
       "word": "柳舟记",
@@ -1675,8 +1731,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 47783,
-      "num": 656483,
+      "raw_hot": 52006,
+      "num": 685600,
       "word": "巴黎不说再见",
       "onboard_time": 1723527082,
       "rank": 40,
