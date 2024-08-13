@@ -1,12 +1,28 @@
 {
   "startTime": 1723479939991,
-  "endTime": 1723545575028,
+  "endTime": 1723547910952,
   "band_list": [
+    {
+      "raw_hot": 4139750,
+      "num": 1656118,
+      "word": "骑行遭碾压男孩已身亡",
+      "onboard_time": 1723543222,
+      "rank": 8,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3682624,
       "num": 3682624,
       "word": "陈梦已开办乒乓球学校",
       "onboard_time": 1723536022,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3545135,
+      "num": 3545135,
+      "word": "王楚钦孙颖莎直播",
+      "onboard_time": 1723546521,
       "rank": 0,
       "category": "体育"
     },
@@ -67,6 +83,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 2187664,
+      "num": 2187664,
+      "word": "大熊猫彤彤死亡",
+      "onboard_time": 1723544601,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2137844,
       "num": 2137844,
       "word": "全红婵给爷爷打电话必有三连问",
@@ -100,7 +124,7 @@
     },
     {
       "raw_hot": 2043289,
-      "num": 684429,
+      "num": 1320918,
       "word": "黄一鸣每月花4000元打水光针",
       "onboard_time": 1723541302,
       "rank": 17,
@@ -137,14 +161,6 @@
       "onboard_time": 1723532421,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1656118,
-      "num": 1656118,
-      "word": "骑行遭碾压男孩已身亡",
-      "onboard_time": 1723543222,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1634974,
@@ -291,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1228142,
+      "num": 1228142,
+      "word": "孙颖莎越播越困",
+      "onboard_time": 1723544961,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1206449,
       "num": 1206449,
       "word": "何冰娇 退役",
@@ -344,6 +368,14 @@
       "word": "小莫与樊振东交换比赛球衣",
       "onboard_time": 1723530561,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1132435,
+      "num": 845558,
+      "word": "孙颖莎今晚两场直播",
+      "onboard_time": 1723538422,
+      "rank": 7,
       "category": "体育"
     },
     {
@@ -435,14 +467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 845558,
-      "num": 845558,
-      "word": "孙颖莎今晚两场直播",
-      "onboard_time": 1723538422,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 821505,
       "num": 821505,
       "word": "秋风所乘网约车司机朋友发声",
@@ -457,6 +481,14 @@
       "onboard_time": 1723467742,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 813322,
+      "num": 436155,
+      "word": "情侣约定存钱开箱发现一半是练功券",
+      "onboard_time": 1723543281,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 806537,
@@ -505,14 +537,6 @@
       "onboard_time": 1723518561,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 699216,
-      "num": 699216,
-      "word": "大熊猫彤彤死亡",
-      "onboard_time": 1723544601,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 691294,
@@ -617,14 +641,6 @@
       "onboard_time": 1723507821,
       "rank": 12,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 593419,
-      "num": 436155,
-      "word": "情侣约定存钱开箱发现一半是练功券",
-      "onboard_time": 1723543281,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 553439,
@@ -843,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 382531,
+      "num": 267779,
+      "word": "陈浚铭 换票",
+      "onboard_time": 1723546221,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 376956,
       "num": 376956,
       "word": "孙海洋家办孙卓升学宴",
@@ -939,14 +963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 347417,
-      "num": 347417,
-      "word": "孙颖莎越播越困",
-      "onboard_time": 1723544961,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 340491,
       "num": 340491,
       "word": "记者暗访断骨增高非法行医黑产链",
@@ -1027,6 +1043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 318143,
+      "num": 662685,
+      "word": "律师称骑行碾压事件监护人严重失职",
+      "onboard_time": 1723543222,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317335,
       "num": 317335,
       "word": "一枪打直了国人弯了一辈子的腰",
@@ -1089,6 +1113,14 @@
       "onboard_time": 1723523962,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 298130,
+      "num": 298130,
+      "word": "BTS韩国最大音源组关站",
+      "onboard_time": 1723547486,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 297658,
@@ -1163,12 +1195,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 283742,
+      "num": 283742,
+      "word": "教练肖战给国乒刺头排序",
+      "onboard_time": 1723547422,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 282325,
       "num": 282325,
       "word": "日本政府一直没有诚意向中国道歉",
       "onboard_time": 1723526420,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281585,
+      "num": 275515,
+      "word": "男子无故挨打后反杀一人被判刑",
+      "onboard_time": 1723542984,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281523,
+      "num": 281523,
+      "word": "赵丽颖两部剧被评为爆款神剧",
+      "onboard_time": 1723545801,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 278053,
@@ -1185,14 +1241,6 @@
       "onboard_time": 1723535781,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 275515,
-      "num": 275515,
-      "word": "男子无故挨打后反杀一人被判刑",
-      "onboard_time": 1723542984,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 274822,
@@ -1227,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 271047,
+      "num": 271047,
+      "word": "陈乔恩素颜",
+      "onboard_time": 1723547062,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269757,
       "num": 269757,
       "word": "抓娃娃机内玩偶夹出几十只虫卵",
@@ -1235,12 +1291,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267799,
+      "num": 267799,
+      "word": "黑神话优化",
+      "onboard_time": 1723545982,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 267368,
       "num": 267368,
       "word": "邱贻可做孙颖莎教练压力与动力并存",
       "onboard_time": 1723532782,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 265903,
+      "num": 265903,
+      "word": "孙颖莎谈闭幕式吹灭圣火",
+      "onboard_time": 1723547486,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 259259,
+      "num": 259259,
+      "word": "环卫工追着洒水车作业司机已停职",
+      "onboard_time": 1723546401,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258740,
@@ -1401,6 +1481,14 @@
       "onboard_time": 1723532240,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 235117,
+      "num": 235117,
+      "word": "前七个月人民币存款增加10.66万亿元",
+      "onboard_time": 1723545621,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 233823,
@@ -1579,6 +1667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 213190,
+      "num": 213190,
+      "word": "马龙晒五届奥运会证件",
+      "onboard_time": 1723547602,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210053,
       "num": 210053,
       "word": "井胧新歌疑似抄袭田柾国",
@@ -1648,6 +1744,14 @@
       "word": "马龙谈队友更迭",
       "onboard_time": 1723481417,
       "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 202793,
+      "num": 202793,
+      "word": "周雅琴一回家就帮家里干活",
+      "onboard_time": 1723544782,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -1779,6 +1883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175481,
+      "num": 175481,
+      "word": "樊振东收到过365公斤牛排奖励",
+      "onboard_time": 1723547422,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173611,
       "num": 173611,
       "word": "JDG一轮游",
@@ -1803,6 +1915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171220,
+      "num": 171220,
+      "word": "谢思埸偶遇全红婵樊振东",
+      "onboard_time": 1723547842,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169298,
       "num": 169298,
       "word": "NIP战胜JDG",
@@ -1817,14 +1937,6 @@
       "onboard_time": 1723507040,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 166928,
-      "num": 166928,
-      "word": "周雅琴一回家就帮家里干活",
-      "onboard_time": 1723544782,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 166610,
@@ -2259,6 +2371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 63728,
+      "num": 592530,
+      "word": "公立医生接私活做非法断骨增高手术",
+      "onboard_time": 1723546820,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62690,
       "num": 924849,
       "word": "特朗普建议美国修建更多高铁",
@@ -2337,14 +2457,6 @@
       "onboard_time": 1723521923,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 52214,
-      "num": 662685,
-      "word": "律师称骑行碾压事件监护人严重失职",
-      "onboard_time": 1723543222,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52006,
@@ -2435,6 +2547,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 32347,
+      "num": 170974,
+      "word": "日本一地发生多次爆炸",
+      "onboard_time": 1723547121,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31310,
       "num": 597717,
       "word": "等个红绿灯的功夫前20集白藏了",
@@ -2504,6 +2624,14 @@
       "word": "交通规则不是摆设是孩子的生命线",
       "onboard_time": 1723537822,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19101,
+      "num": 267830,
+      "word": "印度金融业离职率接近50%",
+      "onboard_time": 1723547722,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
