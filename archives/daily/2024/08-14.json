@@ -1,6 +1,6 @@
 {
   "startTime": 1723566286207,
-  "endTime": 1723569562932,
+  "endTime": 1723570555157,
   "band_list": [
     {
       "raw_hot": 1909253,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 348357,
+      "num": 348357,
+      "word": "晴子",
+      "onboard_time": 1723567218,
+      "rank": 48,
+      "category": "网红"
+    },
+    {
       "raw_hot": 345619,
       "num": 345619,
       "word": "张本智和 萨摩耶堂堂来袭",
@@ -187,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 317330,
+      "num": 317330,
+      "word": "疯子演给傻子看",
+      "onboard_time": 1723567518,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 305819,
       "num": 305819,
       "word": "樊振东拽男时期真的帅",
@@ -201,14 +217,6 @@
       "onboard_time": 1723551442,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 287842,
-      "num": 287842,
-      "word": "晴子",
-      "onboard_time": 1723567218,
-      "rank": 48,
-      "category": "网红"
     },
     {
       "raw_hot": 285685,
@@ -249,14 +257,6 @@
       "onboard_time": 1723538842,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 207166,
-      "num": 207166,
-      "word": "疯子演给傻子看",
-      "onboard_time": 1723567518,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 193467,
@@ -347,8 +347,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 144491,
-      "num": 144491,
+      "raw_hot": 145832,
+      "num": 145832,
       "word": "王鹤棣田曦薇合体",
       "onboard_time": 1723569495,
       "rank": 22,
@@ -411,6 +411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 120506,
+      "num": 281201,
+      "word": "环卫工追着洒水车作业司机已停职",
+      "onboard_time": 1723546401,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108549,
       "num": 108549,
       "word": "喜人奇妙夜",
@@ -427,20 +435,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 76488,
-      "num": 76488,
+      "raw_hot": 100165,
+      "num": 100165,
+      "word": "井胧解除和索尼音乐合作",
+      "onboard_time": 1723569735,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 91716,
+      "num": 91716,
       "word": "解散粉丝群不失为一种流量清醒",
       "onboard_time": 1723569376,
       "rank": 48,
       "category": "体育"
     },
     {
-      "raw_hot": 59145,
-      "num": 281201,
-      "word": "环卫工追着洒水车作业司机已停职",
-      "onboard_time": 1723546401,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 88843,
+      "num": 88843,
+      "word": "我们在黑夜中相拥",
+      "onboard_time": 1723570216,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 30440,
@@ -451,7 +467,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 11298,
+      "raw_hot": 26365,
+      "num": 230796,
+      "word": "日本军国主义细菌战不容否认抵赖",
+      "onboard_time": 1723569855,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14739,
       "num": 374223,
       "word": "古人的臂甲刻着动物世界",
       "onboard_time": 1723554503,
