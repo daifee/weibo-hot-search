@@ -1,6 +1,6 @@
 {
   "startTime": 1723566286207,
-  "endTime": 1723574449780,
+  "endTime": 1723576647502,
   "band_list": [
     {
       "raw_hot": 1909253,
@@ -467,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78815,
+      "num": 78815,
+      "word": "大人把2个娃塞后备箱还违章行驶",
+      "onboard_time": 1723573573,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63597,
       "num": 63597,
       "word": "杨天真泳装身材",
@@ -483,19 +491,19 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 45551,
+      "num": 45551,
+      "word": "男子打球后喝了口冰饮料心肌梗死",
+      "onboard_time": 1723574892,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42595,
       "num": 230796,
       "word": "日本军国主义细菌战不容否认抵赖",
       "onboard_time": 1723569855,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33539,
-      "num": 70889,
-      "word": "大人把2个娃塞后备箱还违章行驶",
-      "onboard_time": 1723573573,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -507,8 +515,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29224,
+      "num": 32574,
+      "word": "女孩挤地铁手机莫名消失崩溃大哭",
+      "onboard_time": 1723576512,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28145,
-      "num": 87300,
+      "num": 87544,
       "word": "浙江又来两所新大学",
       "onboard_time": 1723573453,
       "rank": 16,
