@@ -1,0 +1,410 @@
+{
+  "runTime": 1723645176057,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2432896,
+        "num": 2432896,
+        "word": "女孩遭教官强奸后跳楼父亲发声",
+        "onboard_time": 1723642821,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1797278,
+        "num": 1797278,
+        "word": "警方回应小孩闹脾气躺马路被车碾轧",
+        "onboard_time": 1723640059,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53566,
+        "num": 1206983,
+        "word": "何以中国行走河南",
+        "onboard_time": 1723641020,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 754987,
+        "num": 754987,
+        "word": "杨幂商务 华为",
+        "onboard_time": 1723644201,
+        "rank": 3,
+        "category": "作品衍生,数码"
+      },
+      {
+        "raw_hot": 705398,
+        "num": 705398,
+        "word": "男子结婚22年胖30斤无奈夹断婚戒",
+        "onboard_time": 1723638140,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 700086,
+        "num": 700086,
+        "word": "凯迪拉克 极氪",
+        "onboard_time": 1723642159,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 630922,
+        "num": 630922,
+        "word": "马嘉祺 天下",
+        "onboard_time": 1723634240,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 619408,
+        "num": 619408,
+        "word": "孙颖莎连续六七年在同一家店理发",
+        "onboard_time": 1723641560,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 431676,
+        "num": 616377,
+        "word": "乌军袭击俄罗斯4个军用机场",
+        "onboard_time": 1723643421,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 53281,
+        "num": 609231,
+        "word": "花近8万游北欧摔骨折旅行社不负责",
+        "onboard_time": 1723644021,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2574118,
+        "num": 604328,
+        "word": "孙颖莎樊振东取关早田希娜",
+        "onboard_time": 1723631420,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70651,
+        "num": 597810,
+        "word": "彝族火炬手太燃了",
+        "onboard_time": 1723640780,
+        "rank": 11,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1250383,
+        "num": 589894,
+        "word": "张博恒扫楼",
+        "onboard_time": 1723638140,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1125168,
+        "num": 589202,
+        "word": "黄一鸣自曝收到男网友求爱私信",
+        "onboard_time": 1723641919,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 624596,
+        "num": 582180,
+        "word": "印度一女实习医生在医院惨遭奸杀",
+        "onboard_time": 1723631241,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577756,
+        "num": 577756,
+        "word": "斓曦 生孩子是没有回头路的",
+        "onboard_time": 1723629689,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 573415,
+        "num": 573415,
+        "word": "警方通报少女训练营被强奸",
+        "onboard_time": 1723623681,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484841,
+        "num": 484841,
+        "word": "TFBOYS全员加速中最新花絮",
+        "onboard_time": 1723635981,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 482161,
+        "num": 482161,
+        "word": "黄嘉千夏克立离婚成功",
+        "onboard_time": 1723641560,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374435,
+        "num": 457680,
+        "word": "王源的体重只有50公斤",
+        "onboard_time": 1723629260,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1830105,
+        "num": 457029,
+        "word": "给父母转了很多钱却不舍得给我",
+        "onboard_time": 1723640780,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 451919,
+        "num": 451919,
+        "word": "产假没有绩效工资正常吗",
+        "onboard_time": 1723637539,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 423762,
+        "num": 423762,
+        "word": "先天力量圣体的小姑娘去学游泳了",
+        "onboard_time": 1723637359,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 355667,
+        "num": 355667,
+        "word": "环球影城同一天集齐四位奥运冠军",
+        "onboard_time": 1723633760,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 343241,
+        "num": 343241,
+        "word": "第一次看到用这个emoji的爱豆",
+        "onboard_time": 1723639100,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 298038,
+        "num": 342466,
+        "word": "孙志刚被控受贿8.13亿余元",
+        "onboard_time": 1723628662,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294583,
+        "num": 339645,
+        "word": "知道李纯为什么喜欢马頔了",
+        "onboard_time": 1723644621,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227747,
+        "num": 339296,
+        "word": "原生家庭是场雨他给全家打了伞",
+        "onboard_time": 1723642040,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215466,
+        "num": 337691,
+        "word": "甄嬛看了都得愣三秒的转场",
+        "onboard_time": 1723644383,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205595,
+        "num": 334856,
+        "word": "种地吧或需在内容与流量间作选择",
+        "onboard_time": 1723637961,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334097,
+        "num": 334097,
+        "word": "妈妈被宝宝压迫颈动脉窦突然晕厥",
+        "onboard_time": 1723640600,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331403,
+        "num": 331403,
+        "word": "理发店回应给孙颖莎头发剪太短",
+        "onboard_time": 1723641740,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306188,
+        "num": 306188,
+        "word": "印度确认申办2036年奥运会",
+        "onboard_time": 1723645162,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271780,
+        "num": 271780,
+        "word": "压垮婚姻的从来不是最后一根稻草",
+        "onboard_time": 1723641620,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268527,
+        "num": 268527,
+        "word": "被俘乌克兰士兵喊话泽连斯基",
+        "onboard_time": 1723644201,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 260799,
+        "num": 260799,
+        "word": "防晒衣卷入车轮致女子重重摔在路中",
+        "onboard_time": 1723634780,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249825,
+        "num": 249825,
+        "word": "中秋放假调休通知",
+        "onboard_time": 1723623500,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249544,
+        "num": 249544,
+        "word": "小莫说王楚钦英语比樊振东好",
+        "onboard_time": 1723644801,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247545,
+        "num": 247545,
+        "word": "WTT冠军赛澳门站参赛名单",
+        "onboard_time": 1723635740,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235380,
+        "num": 235380,
+        "word": "莫斯科交易所股票暂停交易",
+        "onboard_time": 1723644681,
+        "rank": 39,
+        "category": "国外时政,财经"
+      },
+      {
+        "raw_hot": 224851,
+        "num": 224851,
+        "word": "阳光玫瑰过气了吗",
+        "onboard_time": 1723627041,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 218977,
+        "num": 218977,
+        "word": "未定事件簿",
+        "onboard_time": 1723644981,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181432,
+        "num": 214652,
+        "word": "秦岚我的体制内女友",
+        "onboard_time": 1723643241,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213488,
+        "num": 213488,
+        "word": "王楚钦连续100周世排前十",
+        "onboard_time": 1723638861,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197409,
+        "num": 197409,
+        "word": "中国40枚金牌印度坐不住",
+        "onboard_time": 1723617803,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182082,
+        "num": 182082,
+        "word": "人一定要有热爱的东西",
+        "onboard_time": 1723645102,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180966,
+        "num": 180966,
+        "word": "多人蒙古国留学回国学位不被认证",
+        "onboard_time": 1723626022,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174368,
+        "num": 174368,
+        "word": "瓦基弗银行官宣袁心玥加盟",
+        "onboard_time": 1723643841,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174233,
+        "num": 174233,
+        "word": "柳舟记 被暧昧期撩到内火虚高",
+        "onboard_time": 1723645041,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173536,
+        "num": 173536,
+        "word": "55岁没生过孩子真的后悔吗",
+        "onboard_time": 1723645162,
+        "rank": 49,
+        "category": "母婴育儿"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平回信勉励湖北十堰丹江口库区的环保志愿者#"
+    }
+  }
+}
