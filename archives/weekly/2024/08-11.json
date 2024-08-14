@@ -1,6 +1,6 @@
 {
   "startTime": 1723307155481,
-  "endTime": 1723664098569,
+  "endTime": 1723666872301,
   "band_list": [
     {
       "raw_hot": 25984443,
@@ -11915,6 +11915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51163,
+      "num": 71153,
+      "word": "2男子用红墨水摆拍血腥视频被拘",
+      "onboard_time": 1723661651,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49303,
       "num": 271127,
       "word": "首批问界新M7用户调研报告公布",
@@ -11996,7 +12004,7 @@
     },
     {
       "raw_hot": 45854,
-      "num": 68529,
+      "num": 73181,
       "word": "唐朝诡事录之西行",
       "onboard_time": 1723661712,
       "rank": 19,
@@ -12009,6 +12017,14 @@
       "onboard_time": 1723397475,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 44835,
+      "num": 44835,
+      "word": "皇马vs亚特兰大",
+      "onboard_time": 1723665851,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 44780,
@@ -12283,6 +12299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31979,
+      "num": 31979,
+      "word": "海底捞回应有门店小零食收费",
+      "onboard_time": 1723663632,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31310,
       "num": 597717,
       "word": "等个红绿灯的功夫前20集白藏了",
@@ -12347,14 +12371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27845,
-      "num": 71153,
-      "word": "2男子用红墨水摆拍血腥视频被拘",
-      "onboard_time": 1723661651,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 27608,
       "num": 104990,
       "word": "华晨宇比了七个心",
@@ -12401,6 +12417,14 @@
       "onboard_time": 1723616661,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 24236,
+      "num": 25700,
+      "word": "刘令姿演技",
+      "onboard_time": 1723665492,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 24042,
@@ -12497,6 +12521,14 @@
       "onboard_time": 1723441042,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 10348,
+      "num": 72340,
+      "word": "走丢女孩用ATM机求救按钮求助",
+      "onboard_time": 1723665730,
+      "rank": 9,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
