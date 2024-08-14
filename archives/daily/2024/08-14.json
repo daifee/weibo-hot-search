@@ -1,6 +1,6 @@
 {
   "startTime": 1723566286207,
-  "endTime": 1723603183875,
+  "endTime": 1723603793540,
   "band_list": [
     {
       "raw_hot": 2791404,
@@ -9,6 +9,22 @@
       "onboard_time": 1723593679,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2207366,
+      "num": 2207366,
+      "word": "日本地震",
+      "onboard_time": 1723600939,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2201569,
+      "num": 2201569,
+      "word": "日本首相岸田文雄将辞职",
+      "onboard_time": 1723602079,
+      "rank": 0,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1935334,
@@ -27,28 +43,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1507665,
-      "num": 1507665,
-      "word": "日本首相岸田文雄将辞职",
-      "onboard_time": 1723602079,
-      "rank": 0,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 1488622,
       "num": 1488622,
       "word": "俄罗斯",
       "onboard_time": 1723563500,
       "rank": 1,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1422239,
-      "num": 1422239,
-      "word": "日本地震",
-      "onboard_time": 1723600939,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1355807,
@@ -73,6 +73,14 @@
       "onboard_time": 1723554142,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1230308,
+      "num": 1230308,
+      "word": "村里第一个空姐裸辞回家7年后蜕变",
+      "onboard_time": 1723599800,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1189125,
@@ -123,20 +131,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1032338,
-      "num": 1032338,
-      "word": "村里第一个空姐裸辞回家7年后蜕变",
-      "onboard_time": 1723599800,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1003763,
       "num": 610195,
       "word": "男房东浴室装摄像头偷窥女租客一年",
       "onboard_time": 1723595300,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 881021,
+      "num": 620224,
+      "word": "王楚钦回应和樊振东躲马龙身后傻乐",
+      "onboard_time": 1723601780,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 872346,
@@ -163,6 +171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 798933,
+      "num": 798933,
+      "word": "末伏",
+      "onboard_time": 1723598120,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 795754,
       "num": 540315,
       "word": "莎头",
@@ -185,14 +201,6 @@
       "onboard_time": 1723552042,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 685724,
-      "num": 685724,
-      "word": "末伏",
-      "onboard_time": 1723598120,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 638426,
@@ -283,20 +291,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 517058,
-      "num": 517058,
-      "word": "王楚钦回应和樊振东躲马龙身后傻乐",
-      "onboard_time": 1723601780,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 493745,
       "num": 493745,
       "word": "王楚钦孙颖莎直播",
       "onboard_time": 1723546521,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 475870,
+      "num": 475870,
+      "word": "5个洗头习惯让头发越来越少",
+      "onboard_time": 1723599140,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 441342,
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 433976,
-      "num": 788972,
+      "num": 789525,
       "word": "疯子演给傻子看",
       "onboard_time": 1723567518,
       "rank": 17,
@@ -321,14 +329,6 @@
       "onboard_time": 1723560923,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 398982,
-      "num": 398982,
-      "word": "5个洗头习惯让头发越来越少",
-      "onboard_time": 1723599140,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 398209,
@@ -379,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 344296,
+      "num": 767788,
+      "word": "阿如那 莽村的爱",
+      "onboard_time": 1723601599,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 333786,
       "num": 554255,
       "word": "广西德天瀑布景区事故责任人被控制",
@@ -387,8 +395,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 328363,
-      "num": 328363,
+      "raw_hot": 329940,
+      "num": 329940,
       "word": "今天末伏第一天",
       "onboard_time": 1723599739,
       "rank": 31,
@@ -419,12 +427,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 313470,
-      "num": 767788,
-      "word": "阿如那 莽村的爱",
-      "onboard_time": 1723601599,
-      "rank": 8,
-      "category": "综艺"
+      "raw_hot": 313993,
+      "num": 313993,
+      "word": "黑神话悟空泄露",
+      "onboard_time": 1723600039,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 305819,
@@ -460,19 +468,11 @@
     },
     {
       "raw_hot": 287887,
-      "num": 516967,
+      "num": 562214,
       "word": "刘令姿古装仪态",
       "onboard_time": 1723599380,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 276072,
-      "num": 276072,
-      "word": "黑神话悟空泄露",
-      "onboard_time": 1723600039,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 270132,
@@ -595,6 +595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 197464,
+      "num": 197464,
+      "word": "她们的伤痛不容忘却",
+      "onboard_time": 1723594401,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196557,
       "num": 196557,
       "word": "泽连斯基称乌方的谈判筹码正在增加",
@@ -603,20 +611,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 194445,
-      "num": 194445,
-      "word": "她们的伤痛不容忘却",
-      "onboard_time": 1723594401,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 193467,
       "num": 193467,
       "word": "孙颖莎让王楚钦回应头大",
       "onboard_time": 1723563681,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188043,
+      "num": 553833,
+      "word": "冰雪奇缘3定档",
+      "onboard_time": 1723600879,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 184882,
@@ -648,6 +656,14 @@
       "word": "全红婵父亲回应村内聚起小吃街",
       "onboard_time": 1723558402,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 179179,
+      "num": 179179,
+      "word": "王楚钦戴发带是为了挡汗水",
+      "onboard_time": 1723601599,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -723,14 +739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162244,
-      "num": 505111,
-      "word": "冰雪奇缘3定档",
-      "onboard_time": 1723600879,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 159846,
       "num": 159846,
       "word": "大人把2个娃塞后备箱还违章行驶",
@@ -755,11 +763,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156846,
-      "num": 156846,
-      "word": "王楚钦戴发带是为了挡汗水",
-      "onboard_time": 1723601599,
-      "rank": 40,
+      "raw_hot": 156180,
+      "num": 156180,
+      "word": "张本美和有想和哥哥组队",
+      "onboard_time": 1723602800,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -835,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145382,
+      "num": 145382,
+      "word": "一个人就有千军万马的气势",
+      "onboard_time": 1723602260,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143767,
       "num": 143767,
       "word": "樊振东大满贯",
@@ -843,12 +859,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140536,
-      "num": 332975,
+      "raw_hot": 142773,
+      "num": 527729,
       "word": "何与夏之光你俩有点暧昧了",
       "onboard_time": 1723601719,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140012,
+      "num": 522907,
+      "word": "刘学义说跟田嘉瑞夏之光玩是没苦硬吃",
+      "onboard_time": 1723600639,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 138697,
@@ -859,12 +883,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136606,
-      "num": 136606,
-      "word": "张本美和有想和哥哥组队",
-      "onboard_time": 1723602800,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 136911,
+      "num": 136911,
+      "word": "哪些症状表明你已经过度疲劳了",
+      "onboard_time": 1723603520,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 136184,
@@ -889,14 +913,6 @@
       "onboard_time": 1723558224,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 134639,
-      "num": 134639,
-      "word": "一个人就有千军万马的气势",
-      "onboard_time": 1723602260,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134194,
@@ -939,20 +955,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 126984,
-      "num": 126984,
-      "word": "刘学义说跟田嘉瑞夏之光玩是没苦硬吃",
-      "onboard_time": 1723600639,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 126421,
       "num": 126421,
       "word": "游客到全红婵家凤凰树打卡沾福气",
       "onboard_time": 1723602020,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124547,
+      "num": 124547,
+      "word": "中学生用军训学的心肺复苏救了个人",
+      "onboard_time": 1723603761,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122354,
@@ -1019,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75637,
+      "num": 732757,
+      "word": "骑手日跑14小时收入减半",
+      "onboard_time": 1723602620,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74377,
       "num": 74377,
       "word": "晒快乐挑战",
@@ -1051,8 +1075,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31032,
-      "num": 157324,
+      "raw_hot": 35518,
+      "num": 162614,
       "word": "烟台多了一个名字叫仙儿都",
       "onboard_time": 1723600820,
       "rank": 39,
@@ -1064,14 +1088,6 @@
       "word": "何以中国寻根辽宁",
       "onboard_time": 1723554623,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29891,
-      "num": 732757,
-      "word": "骑手日跑14小时收入减半",
-      "onboard_time": 1723602620,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1092,7 +1108,7 @@
     },
     {
       "raw_hot": 14739,
-      "num": 1272402,
+      "num": 1325420,
       "word": "古人的臂甲刻着动物世界",
       "onboard_time": 1723554503,
       "rank": 2,
