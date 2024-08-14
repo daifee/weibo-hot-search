@@ -1,6 +1,6 @@
 {
   "startTime": 1723566286207,
-  "endTime": 1723609442302,
+  "endTime": 1723610260653,
   "band_list": [
     {
       "raw_hot": 2791404,
@@ -91,6 +91,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1254298,
+      "num": 1254298,
+      "word": "暑期档票房 惨淡",
+      "onboard_time": 1723607902,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1232511,
       "num": 551673,
       "word": "陈梦父母公司已注册HOPEWANG商标",
@@ -161,14 +169,6 @@
       "onboard_time": 1723594220,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1007662,
-      "num": 1007662,
-      "word": "暑期档票房 惨淡",
-      "onboard_time": 1723607902,
-      "rank": 5,
-      "category": "电影"
     },
     {
       "raw_hot": 1003763,
@@ -251,6 +251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 681351,
+      "num": 681351,
+      "word": "赵丽颖以前的工作是我梦寐以求的",
+      "onboard_time": 1723608322,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 668221,
       "num": 668221,
       "word": "张杰把女儿扛在肩上",
@@ -297,6 +305,14 @@
       "onboard_time": 1723560563,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 572958,
+      "num": 702168,
+      "word": "有人宁可损失4万中断日本游飞回国",
+      "onboard_time": 1723605501,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 572277,
@@ -347,20 +363,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 502290,
-      "num": 502290,
-      "word": "赵丽颖以前的工作是我梦寐以求的",
-      "onboard_time": 1723608322,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 496808,
-      "num": 496808,
-      "word": "有人宁可损失4万中断日本游飞回国",
-      "onboard_time": 1723605501,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 508929,
+      "num": 414848,
+      "word": "室友考公要跟我报一个岗位",
+      "onboard_time": 1723608260,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 493745,
@@ -387,6 +395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 445947,
+      "num": 445947,
+      "word": "已经不再是以前的乒乓球了",
+      "onboard_time": 1723608260,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 441342,
       "num": 599164,
       "word": "巴基斯坦和阿富汗交火",
@@ -411,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 403923,
+      "num": 403923,
+      "word": "俄罗斯别尔哥罗德州宣布进入紧急状态",
+      "onboard_time": 1723608322,
+      "rank": 25,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 398209,
       "num": 598754,
       "word": "朱一龙回应",
@@ -419,12 +443,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 395732,
-      "num": 395732,
-      "word": "室友考公要跟我报一个岗位",
+      "raw_hot": 392214,
+      "num": 392214,
+      "word": "王一博狗啃发尾",
+      "onboard_time": 1723609222,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 383016,
+      "num": 383016,
+      "word": "男子被女友催债1.5万划15辆车泄愤",
       "onboard_time": 1723608260,
-      "rank": 21,
-      "category": "情感"
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 381367,
@@ -443,12 +475,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 356653,
-      "num": 356653,
-      "word": "已经不再是以前的乒乓球了",
-      "onboard_time": 1723608260,
-      "rank": 23,
+      "raw_hot": 363806,
+      "num": 363806,
+      "word": "孙颖莎回应指挥中朝韩选手合影",
+      "onboard_time": 1723608620,
+      "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 363477,
+      "num": 363477,
+      "word": "第一批奥运冠军已在家炒菜刷碗",
+      "onboard_time": 1723608620,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 356493,
+      "num": 356493,
+      "word": "谁懂那英这张图",
+      "onboard_time": 1723608981,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 352609,
@@ -483,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 339972,
+      "num": 339972,
+      "word": "网友曝海底捞小零食收费",
+      "onboard_time": 1723609761,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 338092,
       "num": 338092,
       "word": "QQ安全中心辟谣网传数据泄露",
@@ -515,14 +571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 327739,
-      "num": 327739,
-      "word": "俄罗斯别尔哥罗德州宣布进入紧急状态",
-      "onboard_time": 1723608322,
-      "rank": 25,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 324540,
       "num": 184708,
       "word": "资深骑手谈男童骑行摔倒遭碾压",
@@ -537,14 +585,6 @@
       "onboard_time": 1723592778,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 321549,
-      "num": 321549,
-      "word": "王一博狗啃发尾",
-      "onboard_time": 1723609222,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 317335,
@@ -569,6 +609,14 @@
       "onboard_time": 1723556003,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 300727,
+      "num": 300727,
+      "word": "原来高铁中间不能穿过去",
+      "onboard_time": 1723607663,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 298416,
@@ -603,14 +651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 284583,
-      "num": 284583,
-      "word": "男子被女友催债1.5万划15辆车泄愤",
-      "onboard_time": 1723608260,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 270132,
       "num": 270132,
       "word": "拿着两块银牌到处显摆的小莫",
@@ -627,16 +667,16 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 266111,
-      "num": 290494,
-      "word": "孙颖莎回应指挥中朝韩选手合影",
-      "onboard_time": 1723608620,
-      "rank": 28,
-      "category": "体育"
+      "raw_hot": 269430,
+      "num": 269430,
+      "word": "小学六年级缺一节课意味着什么",
+      "onboard_time": 1723604121,
+      "rank": 41,
+      "category": "情感"
     },
     {
-      "raw_hot": 259397,
-      "num": 259397,
+      "raw_hot": 265001,
+      "num": 265001,
       "word": "为什么左撇子更适合打乒乓",
       "onboard_time": 1723607241,
       "rank": 31,
@@ -651,14 +691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 255646,
-      "num": 255646,
-      "word": "原来高铁中间不能穿过去",
-      "onboard_time": 1723607663,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 254939,
       "num": 254939,
       "word": "日本南海海槽附近曾数次发生大地震",
@@ -667,11 +699,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 254382,
-      "num": 254382,
-      "word": "第一批奥运冠军已在家炒菜刷碗",
-      "onboard_time": 1723608620,
-      "rank": 36,
+      "raw_hot": 253990,
+      "num": 253990,
+      "word": "王楚钦一见到爸妈眼神立马变小朋友",
+      "onboard_time": 1723610001,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -723,12 +755,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 226484,
-      "num": 226484,
-      "word": "小学六年级缺一节课意味着什么",
-      "onboard_time": 1723604121,
+      "raw_hot": 229975,
+      "num": 229975,
+      "word": "王楚钦展示自己的pin",
+      "onboard_time": 1723610001,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 227553,
+      "num": 227553,
+      "word": "只有老师才知道这样会有多省事",
+      "onboard_time": 1723608022,
       "rank": 41,
-      "category": "情感"
+      "category": "教育"
     },
     {
       "raw_hot": 220575,
@@ -753,14 +793,6 @@
       "onboard_time": 1723597580,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 218778,
-      "num": 218778,
-      "word": "谁懂那英这张图",
-      "onboard_time": 1723608981,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 218648,
@@ -793,14 +825,6 @@
       "onboard_time": 1723602620,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 204158,
-      "num": 204158,
-      "word": "只有老师才知道这样会有多省事",
-      "onboard_time": 1723608022,
-      "rank": 41,
-      "category": "教育"
     },
     {
       "raw_hot": 202008,
@@ -867,12 +891,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191288,
+      "num": 191288,
+      "word": "落马女厅官姐弟3人全坐牢",
+      "onboard_time": 1723608801,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191279,
+      "num": 191279,
+      "word": "古偶界最会搞钱的女主",
+      "onboard_time": 1723609461,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188043,
       "num": 553833,
       "word": "冰雪奇缘3定档",
       "onboard_time": 1723600879,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 187297,
+      "num": 187297,
+      "word": "章昊韩振 海底捞",
+      "onboard_time": 1723609942,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 184882,
@@ -977,14 +1025,6 @@
       "onboard_time": 1723596081,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 167870,
-      "num": 167870,
-      "word": "落马女厅官姐弟3人全坐牢",
-      "onboard_time": 1723608801,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166360,
@@ -1187,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137990,
+      "num": 763760,
+      "word": "乌军控制库尔斯克居民点增至74个",
+      "onboard_time": 1723608022,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 136911,
       "num": 136911,
       "word": "哪些症状表明你已经过度疲劳了",
@@ -1315,6 +1363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101188,
+      "num": 414992,
+      "word": "宋亚轩还没唱就被袁娅维点赞了",
+      "onboard_time": 1723609822,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 93872,
       "num": 93872,
       "word": "唐尚珺终于结束漫长的高中生活",
@@ -1345,14 +1401,6 @@
       "onboard_time": 1723608260,
       "rank": 19,
       "category": "综艺,体育"
-    },
-    {
-      "raw_hot": 77117,
-      "num": 763760,
-      "word": "乌军控制库尔斯克居民点增至74个",
-      "onboard_time": 1723608022,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 74377,
@@ -1388,7 +1436,7 @@
     },
     {
       "raw_hot": 54149,
-      "num": 254834,
+      "num": 505045,
       "word": "如果汽车也有万向轮",
       "onboard_time": 1723608322,
       "rank": 34,
@@ -1404,7 +1452,7 @@
     },
     {
       "raw_hot": 47515,
-      "num": 286737,
+      "num": 358611,
       "word": "被青衣电到了",
       "onboard_time": 1723606521,
       "rank": 47,
