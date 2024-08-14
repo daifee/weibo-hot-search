@@ -1,0 +1,410 @@
+{
+  "runTime": 1723628124271,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3409759,
+        "num": 3409759,
+        "word": "中秋放假调休通知",
+        "onboard_time": 1723623500,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2416244,
+        "num": 2416244,
+        "word": "警方通报少女训练营被强奸",
+        "onboard_time": 1723623681,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52495,
+        "num": 1656051,
+        "word": "当暑期游遇到文旅热",
+        "onboard_time": 1723623319,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1313297,
+        "num": 1313297,
+        "word": "孙颖莎 环球影城",
+        "onboard_time": 1723620440,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1130480,
+        "num": 1130480,
+        "word": "徐艺洋秀恩爱黄子韬傻了",
+        "onboard_time": 1723625124,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1014457,
+        "num": 1014457,
+        "word": "中国40枚金牌印度坐不住",
+        "onboard_time": 1723617803,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 951835,
+        "num": 951835,
+        "word": "泰国总理被解职",
+        "onboard_time": 1723627041,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 879519,
+        "num": 879519,
+        "word": "加沙男子正办出生证明妻儿被炸死",
+        "onboard_time": 1723616061,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 502973,
+        "num": 737732,
+        "word": "贾玲胜诉",
+        "onboard_time": 1723613302,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34189,
+        "num": 693332,
+        "word": "谁将上台接替岸田文雄",
+        "onboard_time": 1723627820,
+        "rank": 9,
+        "category": "社会新闻,国外时政"
+      },
+      {
+        "raw_hot": 689314,
+        "num": 689314,
+        "word": "网友曝海底捞小零食收费",
+        "onboard_time": 1723609761,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 685369,
+        "num": 685369,
+        "word": "郑钦文的金牌已经回国了",
+        "onboard_time": 1723619061,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 639636,
+        "num": 639636,
+        "word": "第一批奥运冠军已在家炒菜刷碗",
+        "onboard_time": 1723608620,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 613991,
+        "num": 613991,
+        "word": "原来网球王子里演的都是真的",
+        "onboard_time": 1723623681,
+        "rank": 13,
+        "category": "体育,动漫"
+      },
+      {
+        "raw_hot": 571406,
+        "num": 571406,
+        "word": "陈梦晒巴黎开心瞬间",
+        "onboard_time": 1723626862,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 563506,
+        "num": 563506,
+        "word": "环球影城团建",
+        "onboard_time": 1723626199,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 344654,
+        "num": 562791,
+        "word": "徐艺洋亲黄子韬脸",
+        "onboard_time": 1723612290,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329678,
+        "num": 555583,
+        "word": "刘星分肉饼 周正分烤串",
+        "onboard_time": 1723626442,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 287855,
+        "num": 550624,
+        "word": "汪东城 内娱男菩萨",
+        "onboard_time": 1723612401,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 279696,
+        "num": 540879,
+        "word": "柳舟记 你俩亲嘴得哐哐作响吧",
+        "onboard_time": 1723623200,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 537963,
+        "num": 537963,
+        "word": "梁伟铿王昶双人封面",
+        "onboard_time": 1723622845,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 470796,
+        "num": 470796,
+        "word": "她为避嫌删好友却再没能加回",
+        "onboard_time": 1723623741,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413861,
+        "num": 413861,
+        "word": "日本巨大地震预警8月15日解除",
+        "onboard_time": 1723618042,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396867,
+        "num": 396867,
+        "word": "樊振东 国宝级别的可爱",
+        "onboard_time": 1723619721,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 357160,
+        "num": 357160,
+        "word": "多人蒙古国留学回国学位不被认证",
+        "onboard_time": 1723626022,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310683,
+        "num": 310683,
+        "word": "全红婵全家搬去偏僻果园住",
+        "onboard_time": 1723593679,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306362,
+        "num": 306362,
+        "word": "小莫跟女朋友约会都要带着银牌",
+        "onboard_time": 1723611142,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243664,
+        "num": 243664,
+        "word": "王楚钦一见到爸妈眼神立马变小朋友",
+        "onboard_time": 1723610001,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181584,
+        "num": 240946,
+        "word": "蔡徐坤时尚先生九月刊预告",
+        "onboard_time": 1723620622,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 181060,
+        "num": 239307,
+        "word": "理解虞书欣说的一眼一头的区别了",
+        "onboard_time": 1723619781,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 239262,
+        "num": 239262,
+        "word": "H腰对运动员有多重要",
+        "onboard_time": 1723624163,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 231160,
+        "num": 231160,
+        "word": "山东一县要求彩礼不超6万元",
+        "onboard_time": 1723625004,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220311,
+        "num": 220311,
+        "word": "傅园慧 居然问我会不会游泳",
+        "onboard_time": 1723611562,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218925,
+        "num": 218925,
+        "word": "查尔莫斯采访中提到潘展乐",
+        "onboard_time": 1723624520,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213685,
+        "num": 213685,
+        "word": "张翰油过没丑过",
+        "onboard_time": 1723603880,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212431,
+        "num": 212431,
+        "word": "闲鱼出现黑神话代写差评业务",
+        "onboard_time": 1723625723,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 211455,
+        "num": 211455,
+        "word": "瑞幸咖啡股价涨了20倍",
+        "onboard_time": 1723628002,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 198457,
+        "num": 198457,
+        "word": "猫咪化的要饭妆全被擦了",
+        "onboard_time": 1723627520,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195602,
+        "num": 195602,
+        "word": "室友考公要跟我报一个岗位",
+        "onboard_time": 1723608260,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191506,
+        "num": 191506,
+        "word": "轻断食第二天吃了25个鸡蛋",
+        "onboard_time": 1723619421,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190495,
+        "num": 190495,
+        "word": "泳队出去玩自带盒饭",
+        "onboard_time": 1723626264,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188689,
+        "num": 188689,
+        "word": "阳光玫瑰过气了吗",
+        "onboard_time": 1723627041,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 184352,
+        "num": 184352,
+        "word": "韩路 陈震",
+        "onboard_time": 1723613360,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 181346,
+        "num": 181346,
+        "word": "突然就学会了羽毛球发力",
+        "onboard_time": 1723627282,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 175528,
+        "num": 175528,
+        "word": "原731成员揭731部队的标本室惨绝人寰",
+        "onboard_time": 1723613542,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173817,
+        "num": 173817,
+        "word": "落落大方的性格真的很加分",
+        "onboard_time": 1723612761,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172824,
+        "num": 172824,
+        "word": "潘展乐老家办庆功宴",
+        "onboard_time": 1723616542,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168539,
+        "num": 168539,
+        "word": "极氪回应发新车",
+        "onboard_time": 1723626921,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 155254,
+        "num": 155254,
+        "word": "年轻人花500元和纸片人约会",
+        "onboard_time": 1723622423,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152079,
+        "num": 152079,
+        "word": "王鹤棣广东综艺路透",
+        "onboard_time": 1723627884,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习新语#"
+    }
+  }
+}
