@@ -1,0 +1,410 @@
+{
+  "runTime": 1723619941154,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2057288,
+        "num": 2057288,
+        "word": "加沙男子正办出生证明妻儿被炸死",
+        "onboard_time": 1723616061,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1076846,
+        "num": 1076846,
+        "word": "网友曝海底捞小零食收费",
+        "onboard_time": 1723609761,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 9407,
+        "num": 976829,
+        "word": "祖国大地丰收图景好壮丽",
+        "onboard_time": 1723605740,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 952514,
+        "num": 952514,
+        "word": "贾玲胜诉",
+        "onboard_time": 1723613302,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 937626,
+        "num": 937626,
+        "word": "第一批奥运冠军已在家炒菜刷碗",
+        "onboard_time": 1723608620,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 845012,
+        "num": 845012,
+        "word": "印媒关注中印奥运金牌差距",
+        "onboard_time": 1723615942,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 809451,
+        "num": 809451,
+        "word": "小莫跟女朋友约会都要带着银牌",
+        "onboard_time": 1723611142,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 625234,
+        "num": 625234,
+        "word": "徐艺洋亲黄子韬脸",
+        "onboard_time": 1723612290,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 572153,
+        "num": 572153,
+        "word": "王楚钦一见到爸妈眼神立马变小朋友",
+        "onboard_time": 1723610001,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51434,
+        "num": 531895,
+        "word": "一座睡城与虹桥机场的噪音纠葛",
+        "onboard_time": 1723618821,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521499,
+        "num": 521499,
+        "word": "傅园慧 居然问我会不会游泳",
+        "onboard_time": 1723611562,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 475376,
+        "num": 475376,
+        "word": "全红婵全家搬去偏僻果园住",
+        "onboard_time": 1723593679,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 474100,
+        "num": 474100,
+        "word": "汪东城 内娱男菩萨",
+        "onboard_time": 1723612401,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 82523,
+        "num": 473702,
+        "word": "来哈尔滨反向旅游有多爽",
+        "onboard_time": 1723616061,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 473514,
+        "num": 473514,
+        "word": "张翰油过没丑过",
+        "onboard_time": 1723603880,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 464471,
+        "num": 464471,
+        "word": "韩路 陈震",
+        "onboard_time": 1723613360,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 424900,
+        "num": 424900,
+        "word": "日本地震",
+        "onboard_time": 1723600939,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368769,
+        "num": 368769,
+        "word": "全红婵把丑鱼拖鞋给穿包浆了",
+        "onboard_time": 1723612761,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266574,
+        "num": 356694,
+        "word": "田曦薇回头那一下世界都亮了",
+        "onboard_time": 1723607722,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 248529,
+        "num": 354418,
+        "word": "陈晓妈妈陪伴陈晓工作",
+        "onboard_time": 1723612162,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 352364,
+        "num": 352364,
+        "word": "第一次见定档公开聊天记录的",
+        "onboard_time": 1723617623,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344889,
+        "num": 344889,
+        "word": "中国40枚金牌印度坐不住",
+        "onboard_time": 1723617803,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 335594,
+        "num": 335594,
+        "word": "男士35岁后生的孩子有啥风险",
+        "onboard_time": 1723610783,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 327873,
+        "num": 327873,
+        "word": "日本巨大地震预警8月15日解除",
+        "onboard_time": 1723618042,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317140,
+        "num": 317140,
+        "word": "潘展乐老家办庆功宴",
+        "onboard_time": 1723616542,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309587,
+        "num": 309587,
+        "word": "落落大方的性格真的很加分",
+        "onboard_time": 1723612761,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275722,
+        "num": 275722,
+        "word": "郑钦文的金牌已经回国了",
+        "onboard_time": 1723619061,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257592,
+        "num": 257592,
+        "word": "原731成员揭731部队的标本室惨绝人寰",
+        "onboard_time": 1723613542,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239126,
+        "num": 257095,
+        "word": "蔡少芬 我的生活不能围着孩子",
+        "onboard_time": 1723615762,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224955,
+        "num": 256879,
+        "word": "赵丽颖以前的工作是我梦寐以求的",
+        "onboard_time": 1723608322,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 256783,
+        "num": 256783,
+        "word": "女子买回15厘米多肉4年后变3米",
+        "onboard_time": 1723593980,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253163,
+        "num": 253163,
+        "word": "末伏",
+        "onboard_time": 1723598120,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249120,
+        "num": 249120,
+        "word": "室友考公要跟我报一个岗位",
+        "onboard_time": 1723608260,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215975,
+        "num": 215975,
+        "word": "环球影城偶遇汪顺孙佳俊",
+        "onboard_time": 1723617202,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213961,
+        "num": 213961,
+        "word": "专家称第一批商品房注定被拆掉",
+        "onboard_time": 1723615282,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213332,
+        "num": 213332,
+        "word": "王楚钦是有些小允子在身上的",
+        "onboard_time": 1723613062,
+        "rank": 35,
+        "category": "体育,剧集"
+      },
+      {
+        "raw_hot": 211790,
+        "num": 211790,
+        "word": "米卡 我臭吗这么多虫子追我",
+        "onboard_time": 1723617980,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208277,
+        "num": 208277,
+        "word": "樊振东 国宝级别的可爱",
+        "onboard_time": 1723619721,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205242,
+        "num": 205242,
+        "word": "偶遇孙颖莎直播前理发",
+        "onboard_time": 1723619120,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196379,
+        "num": 196379,
+        "word": "为什么年轻人旅游都选择小城躺游",
+        "onboard_time": 1723616241,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 190979,
+        "num": 190979,
+        "word": "晋江审核",
+        "onboard_time": 1723614800,
+        "rank": 40,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 183728,
+        "num": 188876,
+        "word": "把床撤掉就是一个正经厨房了",
+        "onboard_time": 1723616061,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187225,
+        "num": 187225,
+        "word": "男朋友坚持在婚礼上唱这首歌",
+        "onboard_time": 1723618639,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187150,
+        "num": 187150,
+        "word": "黄子韬回复鹿晗",
+        "onboard_time": 1723604121,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174435,
+        "num": 174435,
+        "word": "以前的杨幂好有灵气",
+        "onboard_time": 1723612640,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173544,
+        "num": 173544,
+        "word": "轻断食第二天吃了25个鸡蛋",
+        "onboard_time": 1723619421,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169055,
+        "num": 169055,
+        "word": "太湖湾音乐节阵容",
+        "onboard_time": 1723618639,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163481,
+        "num": 163481,
+        "word": "和刘亦菲合作能炫耀一辈子",
+        "onboard_time": 1723617261,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155140,
+        "num": 155140,
+        "word": "理解虞书欣说的一眼一头的区别了",
+        "onboard_time": 1723619781,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154701,
+        "num": 154701,
+        "word": "韩媒曝光闵玧其移动路线",
+        "onboard_time": 1723615100,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#为党交一大批肝胆相照的党外朋友#"
+    }
+  }
+}
