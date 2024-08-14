@@ -1,6 +1,6 @@
 {
   "startTime": 1723652882305,
-  "endTime": 1723655885320,
+  "endTime": 1723656882767,
   "band_list": [
     {
       "raw_hot": 2177879,
@@ -123,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356960,
+      "num": 356960,
+      "word": "全球新冠病毒感染率正激增",
+      "onboard_time": 1723651940,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 355682,
       "num": 275826,
       "word": "被孙颖莎抬手嘘帅到了",
@@ -155,14 +163,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 328884,
-      "num": 328884,
-      "word": "全球新冠病毒感染率正激增",
-      "onboard_time": 1723651940,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 315197,
       "num": 315197,
       "word": "澳10岁华裔女孩疑遭母亲割喉谋杀",
@@ -185,6 +185,14 @@
       "onboard_time": 1723641919,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 257431,
+      "num": 257431,
+      "word": "新冠",
+      "onboard_time": 1723654157,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225168,
@@ -211,20 +219,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 214346,
+      "num": 214346,
+      "word": "广东本轮新冠感染年轻人症状更明显",
+      "onboard_time": 1723655715,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210669,
       "num": 210669,
       "word": "第一次看到用这个emoji的爱豆",
       "onboard_time": 1723639100,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 203310,
-      "num": 203310,
-      "word": "新冠",
-      "onboard_time": 1723654157,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188892,
@@ -275,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155697,
+      "num": 155697,
+      "word": "快乐星球 还我妈生七国语言",
+      "onboard_time": 1723655715,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154185,
       "num": 154185,
       "word": "婚礼当天就提离婚的客人",
@@ -297,14 +313,6 @@
       "onboard_time": 1723641560,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140275,
-      "num": 140275,
-      "word": "广东本轮新冠感染年轻人症状更明显",
-      "onboard_time": 1723655715,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135576,
@@ -345,14 +353,6 @@
       "onboard_time": 1723651459,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 124607,
-      "num": 131398,
-      "word": "快乐星球 还我妈生七国语言",
-      "onboard_time": 1723655715,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 122205,
@@ -435,6 +435,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87979,
+      "num": 87979,
+      "word": "不能拜的日本神社",
+      "onboard_time": 1723656075,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86630,
+      "num": 112145,
+      "word": "景甜我的手就是尺",
+      "onboard_time": 1723655416,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 72265,
       "num": 72265,
       "word": "躺马路被车碾压小孩已就医",
@@ -443,12 +459,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 65631,
-      "num": 65631,
-      "word": "景甜我的手就是尺",
-      "onboard_time": 1723655416,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 70449,
+      "num": 70449,
+      "word": "1945年8月15日的报纸头条",
+      "onboard_time": 1723656254,
+      "rank": 39,
+      "category": "社会新闻,国外时政"
+    },
+    {
+      "raw_hot": 62213,
+      "num": 62213,
+      "word": "微博旅行家",
+      "onboard_time": 1723655954,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 8201,
