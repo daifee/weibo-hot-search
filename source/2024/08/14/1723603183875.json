@@ -1,0 +1,410 @@
+{
+  "runTime": 1723603183875,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1507665,
+        "num": 1507665,
+        "word": "日本首相岸田文雄将辞职",
+        "onboard_time": 1723602079,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1422239,
+        "num": 1422239,
+        "word": "日本地震",
+        "onboard_time": 1723600939,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7787,
+        "num": 1272402,
+        "word": "古人的臂甲刻着动物世界",
+        "onboard_time": 1723554503,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1152136,
+        "num": 1152136,
+        "word": "乌军在俄罗斯境内升起乌克兰国旗",
+        "onboard_time": 1723598899,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1032338,
+        "num": 1032338,
+        "word": "村里第一个空姐裸辞回家7年后蜕变",
+        "onboard_time": 1723599800,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 833704,
+        "num": 833704,
+        "word": "女子买回15厘米多肉4年后变3米",
+        "onboard_time": 1723593980,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 791441,
+        "num": 791441,
+        "word": "05后实习生是先天采购圣体吧",
+        "onboard_time": 1723597580,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342360,
+        "num": 788972,
+        "word": "疯子演给傻子看",
+        "onboard_time": 1723567518,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313470,
+        "num": 767788,
+        "word": "阿如那 莽村的爱",
+        "onboard_time": 1723601599,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29891,
+        "num": 732757,
+        "word": "骑手日跑14小时收入减半",
+        "onboard_time": 1723602620,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1715085,
+        "num": 716771,
+        "word": "全红婵全家搬去偏僻果园住",
+        "onboard_time": 1723593679,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 987016,
+        "num": 698071,
+        "word": "月薪4300一个月的存钱计划",
+        "onboard_time": 1723594642,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 685724,
+        "num": 685724,
+        "word": "末伏",
+        "onboard_time": 1723598120,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 646874,
+        "num": 646874,
+        "word": "日本男团回国没有鲜花",
+        "onboard_time": 1723595061,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 606808,
+        "num": 606808,
+        "word": "男房东浴室装摄像头偷窥女租客一年",
+        "onboard_time": 1723595300,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602635,
+        "num": 602635,
+        "word": "不让老娘拿金牌 你们也别想拿到",
+        "onboard_time": 1723594220,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 517058,
+        "num": 517058,
+        "word": "王楚钦回应和樊振东躲马龙身后傻乐",
+        "onboard_time": 1723601780,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287887,
+        "num": 516967,
+        "word": "刘令姿古装仪态",
+        "onboard_time": 1723599380,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162244,
+        "num": 505111,
+        "word": "冰雪奇缘3定档",
+        "onboard_time": 1723600879,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142810,
+        "num": 494465,
+        "word": "王鹤棣大奉打更人",
+        "onboard_time": 1723593679,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1189125,
+        "num": 479036,
+        "word": "小夫妻硬装花光20万靠亲戚赞助软装",
+        "onboard_time": 1723599557,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475349,
+        "num": 475349,
+        "word": "樊振东人还怪好嘞",
+        "onboard_time": 1723592539,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 398982,
+        "num": 398982,
+        "word": "5个洗头习惯让头发越来越少",
+        "onboard_time": 1723599140,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 395383,
+        "num": 395383,
+        "word": "打羽毛球一个月眼袋和法令纹都没了",
+        "onboard_time": 1723593322,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 140536,
+        "num": 332975,
+        "word": "何与夏之光你俩有点暧昧了",
+        "onboard_time": 1723601719,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328363,
+        "num": 328363,
+        "word": "今天末伏第一天",
+        "onboard_time": 1723599739,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322638,
+        "num": 322638,
+        "word": "超长40天伏天进入尾声",
+        "onboard_time": 1723592778,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276072,
+        "num": 276072,
+        "word": "黑神话悟空泄露",
+        "onboard_time": 1723600039,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 245333,
+        "num": 245333,
+        "word": "王楚钦再谈主拍断裂",
+        "onboard_time": 1723552042,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161600,
+        "num": 244125,
+        "word": "18年以前的跑男也太有排面了",
+        "onboard_time": 1723593560,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243913,
+        "num": 243913,
+        "word": "保时捷与电动车碰撞后撞树起火车主死亡",
+        "onboard_time": 1723559663,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236962,
+        "num": 236962,
+        "word": "骑行遭碾压男孩已身亡",
+        "onboard_time": 1723543222,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233980,
+        "num": 233980,
+        "word": "老人被洗脑送骗子75万元",
+        "onboard_time": 1723592539,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219482,
+        "num": 219482,
+        "word": "猫 这回你满意了",
+        "onboard_time": 1723597580,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194968,
+        "num": 194968,
+        "word": "孙杨要求重新升一次国旗",
+        "onboard_time": 1723560982,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194445,
+        "num": 194445,
+        "word": "她们的伤痛不容忘却",
+        "onboard_time": 1723594401,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182460,
+        "num": 182460,
+        "word": "打网球三个月身材的变化",
+        "onboard_time": 1723593980,
+        "rank": 36,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 174563,
+        "num": 174563,
+        "word": "英雄联盟女帝皮肤",
+        "onboard_time": 1723601960,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168801,
+        "num": 168801,
+        "word": "保持低体脂的6个小习惯",
+        "onboard_time": 1723592958,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 31032,
+        "num": 157324,
+        "word": "烟台多了一个名字叫仙儿都",
+        "onboard_time": 1723600820,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 156846,
+        "num": 156846,
+        "word": "王楚钦戴发带是为了挡汗水",
+        "onboard_time": 1723601599,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148640,
+        "num": 148640,
+        "word": "坚持存钱的人现在日子过得怎么样",
+        "onboard_time": 1723602739,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142669,
+        "num": 142669,
+        "word": "以为正常但其实睡眠不足的表现",
+        "onboard_time": 1723595300,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137203,
+        "num": 137203,
+        "word": "朱一龙回应",
+        "onboard_time": 1723555343,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136606,
+        "num": 136606,
+        "word": "张本美和有想和哥哥组队",
+        "onboard_time": 1723602800,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134639,
+        "num": 134639,
+        "word": "一个人就有千军万马的气势",
+        "onboard_time": 1723602260,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130822,
+        "num": 130822,
+        "word": "外卖员称超时被投诉最高罚200元",
+        "onboard_time": 1723597821,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126984,
+        "num": 126984,
+        "word": "刘学义说跟田嘉瑞夏之光玩是没苦硬吃",
+        "onboard_time": 1723600639,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126663,
+        "num": 126663,
+        "word": "邱指导看孙颖莎的眼神好宠溺",
+        "onboard_time": 1723596081,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126421,
+        "num": 126421,
+        "word": "游客到全红婵家凤凰树打卡沾福气",
+        "onboard_time": 1723602020,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民有所呼改革有所应#"
+    }
+  }
+}

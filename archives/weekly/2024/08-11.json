@@ -1,6 +1,6 @@
 {
   "startTime": 1723307155481,
-  "endTime": 1723600059749,
+  "endTime": 1723603183875,
   "band_list": [
     {
       "raw_hot": 25984443,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 2791404,
-      "num": 630541,
+      "num": 716771,
       "word": "全红婵全家搬去偏僻果园住",
       "onboard_time": 1723593679,
       "rank": 11,
@@ -923,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1507665,
+      "num": 1507665,
+      "word": "日本首相岸田文雄将辞职",
+      "onboard_time": 1723602079,
+      "rank": 0,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1506798,
       "num": 670012,
       "word": "王曼昱说莎莎没以前爱笑了",
@@ -1041,6 +1049,14 @@
       "onboard_time": 1723339042,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1422239,
+      "num": 1422239,
+      "word": "日本地震",
+      "onboard_time": 1723600939,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1420949,
@@ -1331,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1189125,
+      "num": 479036,
+      "word": "小夫妻硬装花光20万靠亲戚赞助软装",
+      "onboard_time": 1723599557,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1185115,
       "num": 1185115,
       "word": "才知道这个小女孩是陈芋汐",
@@ -1409,6 +1433,14 @@
       "onboard_time": 1723426221,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1152136,
+      "num": 1152136,
+      "word": "乌军在俄罗斯境内升起乌克兰国旗",
+      "onboard_time": 1723598899,
+      "rank": 15,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1149801,
@@ -1593,6 +1625,14 @@
       "onboard_time": 1723547422,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1032338,
+      "num": 1032338,
+      "word": "村里第一个空姐裸辞回家7年后蜕变",
+      "onboard_time": 1723599800,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1030902,
@@ -2123,6 +2163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 791441,
+      "num": 791441,
+      "word": "05后实习生是先天采购圣体吧",
+      "onboard_time": 1723597580,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 785996,
       "num": 785996,
       "word": "美国女子自由操铜牌可能无效",
@@ -2361,6 +2409,14 @@
       "onboard_time": 1723375707,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 685724,
+      "num": 685724,
+      "word": "末伏",
+      "onboard_time": 1723598120,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 684542,
@@ -2995,6 +3051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 517058,
+      "num": 517058,
+      "word": "王楚钦回应和樊振东躲马龙身后傻乐",
+      "onboard_time": 1723601780,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 515751,
       "num": 929218,
       "word": "疑似李闽轩小号",
@@ -3420,7 +3484,7 @@
     },
     {
       "raw_hot": 433976,
-      "num": 653995,
+      "num": 788972,
       "word": "疯子演给傻子看",
       "onboard_time": 1723567518,
       "rank": 17,
@@ -3689,6 +3753,14 @@
       "onboard_time": 1723491792,
       "rank": 0,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 398982,
+      "num": 398982,
+      "word": "5个洗头习惯让头发越来越少",
+      "onboard_time": 1723599140,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 398395,
@@ -3971,14 +4043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 372160,
-      "num": 372160,
-      "word": "乌军在俄罗斯境内升起乌克兰国旗",
-      "onboard_time": 1723598899,
-      "rank": 15,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 371895,
       "num": 991336,
       "word": "陆虎穿嘘嘘衣服录蘑菇屋",
@@ -4153,14 +4217,6 @@
       "onboard_time": 1723351402,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 352036,
-      "num": 352036,
-      "word": "05后实习生是先天采购圣体吧",
-      "onboard_time": 1723597580,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 351940,
@@ -4451,6 +4507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 328363,
+      "num": 328363,
+      "word": "今天末伏第一天",
+      "onboard_time": 1723599739,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327587,
       "num": 327587,
       "word": "巴勒斯坦总统阿巴斯将与普京会晤",
@@ -4529,6 +4593,14 @@
       "onboard_time": 1723343842,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 322638,
+      "num": 322638,
+      "word": "超长40天伏天进入尾声",
+      "onboard_time": 1723592778,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 321232,
@@ -4625,6 +4697,14 @@
       "onboard_time": 1723388548,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 313470,
+      "num": 767788,
+      "word": "阿如那 莽村的爱",
+      "onboard_time": 1723601599,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 313007,
@@ -5003,6 +5083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 287887,
+      "num": 516967,
+      "word": "刘令姿古装仪态",
+      "onboard_time": 1723599380,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 287287,
       "num": 735102,
       "word": "乌军已深入俄境内30公里",
@@ -5209,6 +5297,14 @@
       "onboard_time": 1723465701,
       "rank": 38,
       "category": "自然"
+    },
+    {
+      "raw_hot": 276072,
+      "num": 276072,
+      "word": "黑神话悟空泄露",
+      "onboard_time": 1723600039,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 275830,
@@ -5947,14 +6043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 236355,
-      "num": 371561,
-      "word": "小夫妻硬装花光20万靠亲戚赞助软装",
-      "onboard_time": 1723599557,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 236286,
       "num": 236286,
       "word": "最适合ISFJ人的工作出现了",
@@ -6169,14 +6257,6 @@
       "onboard_time": 1723346901,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 229076,
-      "num": 229076,
-      "word": "今天末伏第一天",
-      "onboard_time": 1723599739,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228717,
@@ -6417,6 +6497,14 @@
       "onboard_time": 1723389631,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219482,
+      "num": 219482,
+      "word": "猫 这回你满意了",
+      "onboard_time": 1723597580,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 218832,
@@ -6817,14 +6905,6 @@
       "onboard_time": 1723373964,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 207242,
-      "num": 385664,
-      "word": "末伏",
-      "onboard_time": 1723598120,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207190,
@@ -7459,6 +7539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 194445,
+      "num": 194445,
+      "word": "她们的伤痛不容忘却",
+      "onboard_time": 1723594401,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193929,
       "num": 193929,
       "word": "这种贵族水果很多人都没见过",
@@ -7699,14 +7787,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 185434,
-      "num": 368776,
-      "word": "刘令姿古装仪态",
-      "onboard_time": 1723599380,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 184867,
       "num": 184867,
       "word": "偶遇樊振东看奥运男篮比赛",
@@ -7721,14 +7801,6 @@
       "onboard_time": 1723392562,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 184091,
-      "num": 184091,
-      "word": "猫 这回你满意了",
-      "onboard_time": 1723597580,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 183921,
@@ -7817,14 +7889,6 @@
       "onboard_time": 1723367962,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 181268,
-      "num": 181268,
-      "word": "5个洗头习惯让头发越来越少",
-      "onboard_time": 1723599140,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 181228,
@@ -7955,20 +8019,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 174563,
+      "num": 174563,
+      "word": "英雄联盟女帝皮肤",
+      "onboard_time": 1723601960,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 173611,
       "num": 173611,
       "word": "JDG一轮游",
       "onboard_time": 1723505358,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 172417,
-      "num": 172417,
-      "word": "村里第一个空姐裸辞回家7年后蜕变",
-      "onboard_time": 1723599800,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 172077,
@@ -8155,6 +8219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162244,
+      "num": 505111,
+      "word": "冰雪奇缘3定档",
+      "onboard_time": 1723600879,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 161513,
       "num": 168797,
       "word": "王昶认为自己不算天才每场球都很拼",
@@ -8265,6 +8337,14 @@
       "onboard_time": 1723371023,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 156846,
+      "num": 156846,
+      "word": "王楚钦戴发带是为了挡汗水",
+      "onboard_time": 1723601599,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 156032,
@@ -8395,6 +8475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 148640,
+      "num": 148640,
+      "word": "坚持存钱的人现在日子过得怎么样",
+      "onboard_time": 1723602739,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147351,
       "num": 437402,
       "word": "一生所爱原唱已经74岁了",
@@ -8425,14 +8513,6 @@
       "onboard_time": 1723536742,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 144233,
-      "num": 144233,
-      "word": "黑神话悟空泄露",
-      "onboard_time": 1723600039,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 143767,
@@ -8499,6 +8579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140536,
+      "num": 332975,
+      "word": "何与夏之光你俩有点暧昧了",
+      "onboard_time": 1723601719,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140018,
       "num": 378015,
       "word": "华晨宇新歌怪诞心理学",
@@ -8539,6 +8627,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 136606,
+      "num": 136606,
+      "word": "张本美和有想和哥哥组队",
+      "onboard_time": 1723602800,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135457,
       "num": 980048,
       "word": "南部战区回应菲军机非法闯入我黄岩岛空域",
@@ -8553,6 +8649,14 @@
       "onboard_time": 1723369164,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 134639,
+      "num": 134639,
+      "word": "一个人就有千军万马的气势",
+      "onboard_time": 1723602260,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133968,
@@ -8611,11 +8715,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126984,
+      "num": 126984,
+      "word": "刘学义说跟田嘉瑞夏之光玩是没苦硬吃",
+      "onboard_time": 1723600639,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126899,
       "num": 457953,
       "word": "孙杨说全运会肯定会看到我",
       "onboard_time": 1723433422,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 126421,
+      "num": 126421,
+      "word": "游客到全红婵家凤凰树打卡沾福气",
+      "onboard_time": 1723602020,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -10011,6 +10131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31032,
+      "num": 157324,
+      "word": "烟台多了一个名字叫仙儿都",
+      "onboard_time": 1723600820,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 30607,
       "num": 30607,
       "word": "对友情祛魅了",
@@ -10025,6 +10153,14 @@
       "onboard_time": 1723488193,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 29891,
+      "num": 732757,
+      "word": "骑手日跑14小时收入减半",
+      "onboard_time": 1723602620,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29277,
@@ -10164,7 +10300,7 @@
     },
     {
       "raw_hot": 14739,
-      "num": 1168832,
+      "num": 1272402,
       "word": "古人的臂甲刻着动物世界",
       "onboard_time": 1723554503,
       "rank": 2,
