@@ -1,6 +1,6 @@
 {
   "startTime": 1723566286207,
-  "endTime": 1723619941154,
+  "endTime": 1723620917108,
   "band_list": [
     {
       "raw_hot": 2791404,
@@ -475,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 521928,
+      "num": 521928,
+      "word": "中国40枚金牌印度坐不住",
+      "onboard_time": 1723617803,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 493745,
       "num": 493745,
       "word": "王楚钦孙颖莎直播",
@@ -491,20 +499,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 489320,
+      "num": 489320,
+      "word": "汪东城 内娱男菩萨",
+      "onboard_time": 1723612401,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 474199,
       "num": 474199,
       "word": "田曦薇回头那一下世界都亮了",
       "onboard_time": 1723607722,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 474100,
-      "num": 474100,
-      "word": "汪东城 内娱男菩萨",
-      "onboard_time": 1723612401,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 466952,
@@ -521,6 +529,22 @@
       "onboard_time": 1723612162,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 448507,
+      "num": 448507,
+      "word": "郑钦文的金牌已经回国了",
+      "onboard_time": 1723619061,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 445616,
+      "num": 362516,
+      "word": "第一次见定档公开聊天记录的",
+      "onboard_time": 1723617623,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 441342,
@@ -579,6 +603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 392278,
+      "num": 358198,
+      "word": "潘展乐老家办庆功宴",
+      "onboard_time": 1723616542,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 392214,
       "num": 392214,
       "word": "王一博狗啃发尾",
@@ -635,19 +667,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 353106,
+      "num": 353106,
+      "word": "孙颖莎 环球影城",
+      "onboard_time": 1723620440,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 352609,
       "num": 506910,
       "word": "夏之光现场被求婚",
       "onboard_time": 1723555221,
       "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 352364,
-      "num": 352364,
-      "word": "第一次见定档公开聊天记录的",
-      "onboard_time": 1723617623,
-      "rank": 46,
       "category": "综艺"
     },
     {
@@ -664,14 +696,6 @@
       "word": "张本智和 萨摩耶堂堂来袭",
       "onboard_time": 1723561461,
       "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 344889,
-      "num": 344889,
-      "word": "中国40枚金牌印度坐不住",
-      "onboard_time": 1723617803,
-      "rank": 21,
       "category": "体育"
     },
     {
@@ -739,20 +763,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319396,
+      "num": 319396,
+      "word": "把床撤掉就是一个正经厨房了",
+      "onboard_time": 1723616061,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 317335,
       "num": 317335,
       "word": "18年以前的跑男也太有排面了",
       "onboard_time": 1723593560,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 317140,
-      "num": 317140,
-      "word": "潘展乐老家办庆功宴",
-      "onboard_time": 1723616542,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 313993,
@@ -827,11 +851,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 275722,
-      "num": 275722,
-      "word": "郑钦文的金牌已经回国了",
-      "onboard_time": 1723619061,
-      "rank": 26,
+      "raw_hot": 281310,
+      "num": 374175,
+      "word": "蔡少芬 我的生活不能围着孩子",
+      "onboard_time": 1723615762,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 270363,
+      "num": 270363,
+      "word": "偶遇孙颖莎直播前理发",
+      "onboard_time": 1723619120,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -865,6 +897,14 @@
       "onboard_time": 1723607241,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 262470,
+      "num": 262470,
+      "word": "第一视角带你体验舰艇生活",
+      "onboard_time": 1723620201,
+      "rank": 32,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 258507,
@@ -907,6 +947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 250438,
+      "num": 250438,
+      "word": "樊振东 国宝级别的可爱",
+      "onboard_time": 1723619721,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 249341,
       "num": 599034,
       "word": "王鹤棣大奉打更人",
@@ -921,6 +969,14 @@
       "onboard_time": 1723611921,
       "rank": 40,
       "category": "体育,电竞"
+    },
+    {
+      "raw_hot": 242848,
+      "num": 279512,
+      "word": "蔡徐坤时尚先生九月刊预告",
+      "onboard_time": 1723620622,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 240261,
@@ -939,19 +995,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 239126,
-      "num": 257095,
-      "word": "蔡少芬 我的生活不能围着孩子",
-      "onboard_time": 1723615762,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 235937,
       "num": 235937,
       "word": "王楚钦说孙颖莎五年后还是童颜",
       "onboard_time": 1723548860,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 235651,
+      "num": 235651,
+      "word": "环球影城偶遇汪顺孙佳俊",
+      "onboard_time": 1723617202,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -979,12 +1035,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226262,
+      "num": 226262,
+      "word": "为什么年轻人旅游都选择小城躺游",
+      "onboard_time": 1723616241,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 226157,
       "num": 226157,
       "word": "明日方舟",
       "onboard_time": 1723612941,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 222956,
+      "num": 222956,
+      "word": "男朋友坚持在婚礼上唱这首歌",
+      "onboard_time": 1723618639,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 220575,
@@ -1035,14 +1107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215975,
-      "num": 215975,
-      "word": "环球影城偶遇汪顺孙佳俊",
-      "onboard_time": 1723617202,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 215227,
       "num": 215227,
       "word": "董卿 不过她自由了",
@@ -1075,28 +1139,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211167,
+      "num": 211167,
+      "word": "轻断食第二天吃了25个鸡蛋",
+      "onboard_time": 1723619421,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 210637,
       "num": 732757,
       "word": "骑手日跑14小时收入减半",
       "onboard_time": 1723602620,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208277,
-      "num": 208277,
-      "word": "樊振东 国宝级别的可爱",
-      "onboard_time": 1723619721,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 205242,
-      "num": 205242,
-      "word": "偶遇孙颖莎直播前理发",
-      "onboard_time": 1723619120,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 203288,
@@ -1131,14 +1187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198259,
-      "num": 198259,
-      "word": "把床撤掉就是一个正经厨房了",
-      "onboard_time": 1723616061,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 197547,
       "num": 197547,
       "word": "变老的明显迹象是什么",
@@ -1161,14 +1209,6 @@
       "onboard_time": 1723595782,
       "rank": 39,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 196379,
-      "num": 196379,
-      "word": "为什么年轻人旅游都选择小城躺游",
-      "onboard_time": 1723616241,
-      "rank": 46,
-      "category": "旅游"
     },
     {
       "raw_hot": 196160,
@@ -1209,14 +1249,6 @@
       "onboard_time": 1723609942,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 187225,
-      "num": 187225,
-      "word": "男朋友坚持在婚礼上唱这首歌",
-      "onboard_time": 1723618639,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 184882,
@@ -1283,6 +1315,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 176823,
+      "num": 176823,
+      "word": "理解虞书欣说的一眼一头的区别了",
+      "onboard_time": 1723619781,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 176450,
       "num": 267502,
       "word": "李嘉欣许晋亨送儿子英国留学",
@@ -1313,14 +1353,6 @@
       "onboard_time": 1723601960,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 173544,
-      "num": 173544,
-      "word": "轻断食第二天吃了25个鸡蛋",
-      "onboard_time": 1723619421,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 172297,
@@ -1441,14 +1473,6 @@
       "onboard_time": 1723594521,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155140,
-      "num": 155140,
-      "word": "理解虞书欣说的一眼一头的区别了",
-      "onboard_time": 1723619781,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 154615,
@@ -1747,6 +1771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92980,
+      "num": 473702,
+      "word": "来哈尔滨反向旅游有多爽",
+      "onboard_time": 1723616061,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 91336,
       "num": 91336,
       "word": "北方人无法想象的生活方式",
@@ -1779,12 +1811,12 @@
       "category": "综艺,体育"
     },
     {
-      "raw_hot": 82523,
-      "num": 473702,
-      "word": "来哈尔滨反向旅游有多爽",
-      "onboard_time": 1723616061,
-      "rank": 31,
-      "category": "旅游"
+      "raw_hot": 80909,
+      "num": 531895,
+      "word": "一座睡城与虹桥机场的噪音纠葛",
+      "onboard_time": 1723618821,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74377,
@@ -1801,6 +1833,14 @@
       "onboard_time": 1723590436,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66969,
+      "num": 277477,
+      "word": "岸田文雄为何突然宣布辞职",
+      "onboard_time": 1723620622,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 63843,
@@ -1843,12 +1883,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51434,
-      "num": 531895,
-      "word": "一座睡城与虹桥机场的噪音纠葛",
-      "onboard_time": 1723618821,
+      "raw_hot": 53129,
+      "num": 538011,
+      "word": "岸田退选日本政坛地震",
+      "onboard_time": 1723620622,
       "rank": 9,
-      "category": "社会新闻"
+      "category": "国外时政"
     },
     {
       "raw_hot": 47515,
