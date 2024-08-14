@@ -1,6 +1,6 @@
 {
   "startTime": 1723652882305,
-  "endTime": 1723674017990,
+  "endTime": 1723675062782,
   "band_list": [
     {
       "raw_hot": 2177879,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291292,
+      "num": 109051,
+      "word": "不能拜的日本神社",
+      "onboard_time": 1723656075,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290974,
       "num": 290974,
       "word": "张博恒扫楼",
@@ -217,14 +225,6 @@
       "onboard_time": 1723635981,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 219117,
-      "num": 94506,
-      "word": "不能拜的日本神社",
-      "onboard_time": 1723656075,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217956,
@@ -267,6 +267,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 174198,
+      "num": 174198,
+      "word": "快乐星球 还我妈生七国语言",
+      "onboard_time": 1723655715,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172648,
       "num": 172648,
       "word": "55岁没生过孩子真的后悔吗",
@@ -275,18 +283,18 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 167260,
+      "num": 167260,
+      "word": "躺马路被车碾压小孩已就医",
+      "onboard_time": 1723649481,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164844,
       "num": 214170,
       "word": "张晚意也在关注莎头组合",
       "onboard_time": 1723648942,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 163292,
-      "num": 155697,
-      "word": "快乐星球 还我妈生七国语言",
-      "onboard_time": 1723655715,
       "rank": 29,
       "category": "剧集"
     },
@@ -321,14 +329,6 @@
       "onboard_time": 1723641560,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140363,
-      "num": 147572,
-      "word": "躺马路被车碾压小孩已就医",
-      "onboard_time": 1723649481,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135576,
@@ -451,11 +451,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 86630,
-      "num": 112145,
+      "raw_hot": 91656,
+      "num": 141460,
       "word": "景甜我的手就是尺",
       "onboard_time": 1723655416,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 82296,
+      "num": 131070,
+      "word": "唐朝诡事录之西行",
+      "onboard_time": 1723661712,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -483,14 +491,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 62459,
-      "num": 96887,
-      "word": "唐朝诡事录之西行",
-      "onboard_time": 1723661712,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 62213,
       "num": 62213,
       "word": "微博旅行家",
@@ -507,6 +507,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47199,
+      "num": 47199,
+      "word": "2女生嫌天太热结伴剃光头",
+      "onboard_time": 1723674013,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41092,
+      "num": 44312,
+      "word": "人生是旷野 她活出了自己的样子",
+      "onboard_time": 1723670051,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 37763,
       "num": 37763,
       "word": "海底捞回应有门店小零食收费",
@@ -515,7 +531,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36568,
+      "raw_hot": 36992,
       "num": 79329,
       "word": "男子捏造散布女法官被害案信息被行拘",
       "onboard_time": 1723669631,
@@ -537,14 +553,6 @@
       "onboard_time": 1723659673,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 31991,
-      "num": 36524,
-      "word": "人生是旷野 她活出了自己的样子",
-      "onboard_time": 1723670051,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 31281,
@@ -580,7 +588,7 @@
     },
     {
       "raw_hot": 15465,
-      "num": 95526,
+      "num": 141428,
       "word": "柳子戏演员松弛感绝了",
       "onboard_time": 1723672213,
       "rank": 9,
