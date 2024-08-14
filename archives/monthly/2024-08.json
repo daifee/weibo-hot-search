@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1723667691020,
+  "endTime": 1723670349562,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -41339,6 +41339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71041,
+      "num": 71041,
+      "word": "皇马vs亚特兰大",
+      "onboard_time": 1723665851,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70949,
       "num": 795424,
       "word": "华为发布双层OLED云晰柔光屏平板",
@@ -43187,14 +43195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 45319,
-      "num": 45319,
-      "word": "皇马vs亚特兰大",
-      "onboard_time": 1723665851,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 45295,
       "num": 380711,
       "word": "华为novaFlip搭载玄武水滴铰链",
@@ -44147,6 +44147,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 32927,
+      "num": 32927,
+      "word": "海底捞回应有门店小零食收费",
+      "onboard_time": 1723663632,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32832,
       "num": 310897,
       "word": "全新极氪009有多好开",
@@ -44201,14 +44209,6 @@
       "onboard_time": 1723031122,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 32384,
-      "num": 32384,
-      "word": "海底捞回应有门店小零食收费",
-      "onboard_time": 1723663632,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32347,
@@ -44747,6 +44747,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 23596,
+      "num": 24871,
+      "word": "俄乌局势",
+      "onboard_time": 1723669930,
+      "rank": 47,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 23301,
       "num": 367932,
       "word": "以色列北部城镇响起防空警报",
@@ -45080,6 +45088,14 @@
       "word": "博士村干部任期结束村民含泪送别",
       "onboard_time": 1723485134,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14144,
+      "num": 75514,
+      "word": "男子捏造散布女法官被害案信息被行拘",
+      "onboard_time": 1723669631,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
