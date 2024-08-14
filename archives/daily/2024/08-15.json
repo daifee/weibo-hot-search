@@ -1,6 +1,6 @@
 {
   "startTime": 1723652882305,
-  "endTime": 1723671328967,
+  "endTime": 1723674017990,
   "band_list": [
     {
       "raw_hot": 2177879,
@@ -219,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219117,
+      "num": 94506,
+      "word": "不能拜的日本神社",
+      "onboard_time": 1723656075,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217956,
       "num": 217956,
       "word": "被俘乌克兰士兵喊话泽连斯基",
@@ -257,14 +265,6 @@
       "onboard_time": 1723642159,
       "rank": 32,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 175787,
-      "num": 94506,
-      "word": "不能拜的日本神社",
-      "onboard_time": 1723656075,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 172648,
@@ -323,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140363,
+      "num": 147572,
+      "word": "躺马路被车碾压小孩已就医",
+      "onboard_time": 1723649481,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135576,
       "num": 147469,
       "word": "孙颖莎连续六七年在同一家店理发",
@@ -376,14 +384,6 @@
       "word": "印度一女实习医生在医院惨遭奸杀",
       "onboard_time": 1723631241,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117423,
-      "num": 147572,
-      "word": "躺马路被车碾压小孩已就医",
-      "onboard_time": 1723649481,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -475,6 +475,22 @@
       "category": "社会新闻,国外时政"
     },
     {
+      "raw_hot": 64284,
+      "num": 64284,
+      "word": "俄乌局势",
+      "onboard_time": 1723669930,
+      "rank": 47,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 62459,
+      "num": 96887,
+      "word": "唐朝诡事录之西行",
+      "onboard_time": 1723661712,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 62213,
       "num": 62213,
       "word": "微博旅行家",
@@ -491,20 +507,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45854,
-      "num": 73181,
-      "word": "唐朝诡事录之西行",
-      "onboard_time": 1723661712,
-      "rank": 19,
-      "category": "剧集"
+      "raw_hot": 37763,
+      "num": 37763,
+      "word": "海底捞回应有门店小零食收费",
+      "onboard_time": 1723663632,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 45754,
-      "num": 45754,
-      "word": "俄乌局势",
-      "onboard_time": 1723669930,
-      "rank": 47,
-      "category": "国外时政"
+      "raw_hot": 36568,
+      "num": 79329,
+      "word": "男子捏造散布女法官被害案信息被行拘",
+      "onboard_time": 1723669631,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35361,
@@ -523,12 +539,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 32927,
-      "num": 32927,
-      "word": "海底捞回应有门店小零食收费",
-      "onboard_time": 1723663632,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 31991,
+      "num": 36524,
+      "word": "人生是旷野 她活出了自己的样子",
+      "onboard_time": 1723670051,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 31281,
@@ -539,6 +555,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 28427,
+      "num": 36469,
+      "word": "刘宇宁南珩离十六",
+      "onboard_time": 1723672271,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 19661,
+      "num": 36514,
+      "word": "北京中轴线上的样式雷",
+      "onboard_time": 1723671551,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18117,
       "num": 44981,
       "word": "和叶试图卖萌被花花打断施法",
@@ -547,10 +579,10 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 16575,
-      "num": 79329,
-      "word": "男子捏造散布女法官被害案信息被行拘",
-      "onboard_time": 1723669631,
+      "raw_hot": 15465,
+      "num": 95526,
+      "word": "柳子戏演员松弛感绝了",
+      "onboard_time": 1723672213,
       "rank": 9,
       "category": "社会新闻"
     },
