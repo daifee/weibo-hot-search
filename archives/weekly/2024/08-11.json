@@ -1,6 +1,6 @@
 {
   "startTime": 1723307155481,
-  "endTime": 1723640041590,
+  "endTime": 1723641804576,
   "band_list": [
     {
       "raw_hot": 25984443,
@@ -91,7 +91,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 4344141,
+      "raw_hot": 4551504,
       "num": 617728,
       "word": "孙颖莎樊振东取关早田希娜",
       "onboard_time": 1723631420,
@@ -537,6 +537,14 @@
       "onboard_time": 1723518501,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2077435,
+      "num": 1153650,
+      "word": "张博恒扫楼",
+      "onboard_time": 1723638140,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 2072806,
@@ -1611,14 +1619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1153650,
-      "num": 1153650,
-      "word": "张博恒扫楼",
-      "onboard_time": 1723638140,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1152136,
       "num": 1152136,
       "word": "乌军在俄罗斯境内升起乌克兰国旗",
@@ -1713,6 +1713,14 @@
       "onboard_time": 1723539023,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1094310,
+      "num": 1175089,
+      "word": "马嘉祺 天下",
+      "onboard_time": 1723634240,
+      "rank": 0,
+      "category": "演出"
     },
     {
       "raw_hot": 1087072,
@@ -3035,6 +3043,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 623049,
+      "num": 345872,
+      "word": "产假没有绩效工资正常吗",
+      "onboard_time": 1723637539,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 617867,
       "num": 595055,
       "word": "印度0金牌",
@@ -3907,14 +3923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 441845,
-      "num": 345872,
-      "word": "产假没有绩效工资正常吗",
-      "onboard_time": 1723637539,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 441716,
       "num": 622981,
       "word": "朱正廷 人在家中坐锅从天上来",
@@ -4227,6 +4235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 404299,
+      "num": 375297,
+      "word": "先天力量圣体的小姑娘去学游泳了",
+      "onboard_time": 1723637359,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 403923,
       "num": 403923,
       "word": "俄罗斯别尔哥罗德州宣布进入紧急状态",
@@ -4377,6 +4393,14 @@
       "onboard_time": 1723472843,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 386496,
+      "num": 386496,
+      "word": "WTT冠军赛澳门站参赛名单",
+      "onboard_time": 1723635740,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 385736,
@@ -4553,6 +4577,14 @@
       "onboard_time": 1723454539,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 375127,
+      "num": 375127,
+      "word": "王楚钦连续100周世排前十",
+      "onboard_time": 1723638861,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 374890,
@@ -4896,14 +4928,6 @@
       "word": "中国境外奥运最佳",
       "onboard_time": 1723382246,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 343450,
-      "num": 343450,
-      "word": "WTT冠军赛澳门站参赛名单",
-      "onboard_time": 1723635740,
-      "rank": 21,
       "category": "体育"
     },
     {
@@ -5307,6 +5331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 314791,
+      "num": 347633,
+      "word": "种地吧或需在内容与流量间作选择",
+      "onboard_time": 1723637961,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 314322,
       "num": 314322,
       "word": "张本智和理发前vs理发后",
@@ -5449,14 +5481,6 @@
       "onboard_time": 1723539506,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 306200,
-      "num": 347633,
-      "word": "种地吧或需在内容与流量间作选择",
-      "onboard_time": 1723637961,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 306077,
@@ -5633,6 +5657,14 @@
       "onboard_time": 1723522702,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 295300,
+      "num": 295300,
+      "word": "警方回应小孩闹脾气躺马路被车碾轧",
+      "onboard_time": 1723640059,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294841,
@@ -6052,7 +6084,7 @@
     },
     {
       "raw_hot": 275017,
-      "num": 275017,
+      "num": 305936,
       "word": "迪丽热巴时尚芭莎9月刊",
       "onboard_time": 1723639880,
       "rank": 23,
@@ -6371,6 +6403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 264456,
+      "num": 264456,
+      "word": "给父母转了很多钱却不舍得给我",
+      "onboard_time": 1723640780,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 263830,
       "num": 263830,
       "word": "孙颖莎说张本美和性格好",
@@ -6553,14 +6593,6 @@
       "onboard_time": 1723422505,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 253819,
-      "num": 253819,
-      "word": "先天力量圣体的小姑娘去学游泳了",
-      "onboard_time": 1723637359,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 253758,
@@ -7339,6 +7371,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 223476,
+      "num": 223476,
+      "word": "CPI",
+      "onboard_time": 1723640240,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 223136,
       "num": 223136,
       "word": "孙颖莎回应领奖动作总导演",
@@ -7401,6 +7441,14 @@
       "onboard_time": 1723348642,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 221529,
+      "num": 221529,
+      "word": "黄嘉千夏克立离婚成功",
+      "onboard_time": 1723641560,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 220936,
@@ -8315,6 +8363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 199637,
+      "num": 199637,
+      "word": "妈妈被宝宝压迫颈动脉窦突然晕厥",
+      "onboard_time": 1723640600,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199533,
       "num": 199533,
       "word": "官方通报法官依法办案惨遭杀害情况",
@@ -8867,6 +8923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188256,
+      "num": 188256,
+      "word": "美国7月CPI重回2字头",
+      "onboard_time": 1723640900,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 188174,
       "num": 188174,
       "word": "你的巴黎奥运会总结",
@@ -9107,6 +9171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179933,
+      "num": 179933,
+      "word": "孙颖莎连续六七年在同一家店理发",
+      "onboard_time": 1723641560,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179773,
       "num": 179773,
       "word": "岸田文雄放弃自民党总裁选举",
@@ -9227,14 +9299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175179,
-      "num": 175179,
-      "word": "王楚钦连续100周世排前十",
-      "onboard_time": 1723638861,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 175054,
       "num": 318100,
       "word": "魏哲鸣看张杰演唱会",
@@ -9257,6 +9321,14 @@
       "onboard_time": 1723601960,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 174398,
+      "num": 174398,
+      "word": "压垮婚姻的从来不是最后一根稻草",
+      "onboard_time": 1723641620,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173611,
@@ -9305,6 +9377,14 @@
       "onboard_time": 1723352302,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171760,
+      "num": 171760,
+      "word": "T1对战KDF",
+      "onboard_time": 1723639280,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 170958,
@@ -9459,6 +9539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167204,
+      "num": 167204,
+      "word": "理发店回应给孙颖莎头发剪太短",
+      "onboard_time": 1723641740,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167052,
       "num": 165620,
       "word": "石智勇说感受到了网友的疼爱",
@@ -9481,6 +9569,14 @@
       "onboard_time": 1723605681,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165928,
+      "num": 165928,
+      "word": "第一次看到用这个emoji的爱豆",
+      "onboard_time": 1723639100,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 165746,
@@ -9691,14 +9787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 155288,
-      "num": 155288,
-      "word": "第一次看到用这个emoji的爱豆",
-      "onboard_time": 1723639100,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 154645,
       "num": 132168,
       "word": "金色旅行者 金色大蟑螂",
@@ -9761,14 +9849,6 @@
       "onboard_time": 1723467502,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 152552,
-      "num": 152552,
-      "word": "T1对战KDF",
-      "onboard_time": 1723639280,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 152079,
@@ -10955,6 +11035,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 70925,
+      "num": 229417,
+      "word": "彝族火炬手太燃了",
+      "onboard_time": 1723640780,
+      "rank": 28,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 70657,
       "num": 74264,
       "word": "U19国足0比2伊朗U19",
@@ -11281,6 +11369,14 @@
       "onboard_time": 1723606221,
       "rank": 9,
       "category": "社会新闻,国外时政"
+    },
+    {
+      "raw_hot": 54423,
+      "num": 385589,
+      "word": "岸田弃选后中日关系会有哪些新变数",
+      "onboard_time": 1723641020,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 54414,
@@ -11627,6 +11723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 39098,
+      "num": 302843,
+      "word": "何以中国行走河南",
+      "onboard_time": 1723641020,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37915,
       "num": 531612,
       "word": "成毅是什么行走的面膜模特吗",
@@ -11913,6 +12017,14 @@
       "onboard_time": 1723441042,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 8129,
+      "num": 462130,
+      "word": "数据看我国可再生能源发展新突破",
+      "onboard_time": 1723641620,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -11954,6 +12066,9 @@
     },
     {
       "word": "#为党交一大批肝胆相照的党外朋友#"
+    },
+    {
+      "word": "#习近平回信勉励湖北十堰丹江口库区的环保志愿者#"
     }
   ]
 }

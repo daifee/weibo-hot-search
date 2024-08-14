@@ -1,0 +1,410 @@
+{
+  "runTime": 1723641804576,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1094310,
+        "num": 1175089,
+        "word": "马嘉祺 天下",
+        "onboard_time": 1723634240,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 549003,
+        "num": 549003,
+        "word": "环球影城同一天集齐四位奥运冠军",
+        "onboard_time": 1723633760,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8129,
+        "num": 462130,
+        "word": "数据看我国可再生能源发展新突破",
+        "onboard_time": 1723641620,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1706213,
+        "num": 460206,
+        "word": "男子结婚22年胖30斤无奈夹断婚戒",
+        "onboard_time": 1723638140,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 682039,
+        "num": 459456,
+        "word": "斓曦 生孩子是没有回头路的",
+        "onboard_time": 1723629689,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 456742,
+        "num": 456742,
+        "word": "中秋放假调休通知",
+        "onboard_time": 1723623500,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536953,
+        "num": 454689,
+        "word": "王源的体重只有50公斤",
+        "onboard_time": 1723629260,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 427296,
+        "num": 427296,
+        "word": "孙志刚被控受贿8.13亿余元",
+        "onboard_time": 1723628662,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386496,
+        "num": 386496,
+        "word": "WTT冠军赛澳门站参赛名单",
+        "onboard_time": 1723635740,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54423,
+        "num": 385589,
+        "word": "岸田弃选后中日关系会有哪些新变数",
+        "onboard_time": 1723641020,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 4551504,
+        "num": 384022,
+        "word": "孙颖莎樊振东取关早田希娜",
+        "onboard_time": 1723631420,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2077435,
+        "num": 381957,
+        "word": "张博恒扫楼",
+        "onboard_time": 1723638140,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 654518,
+        "num": 381471,
+        "word": "印度一女实习医生在医院惨遭奸杀",
+        "onboard_time": 1723631241,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617733,
+        "num": 378645,
+        "word": "TFBOYS全员加速中最新花絮",
+        "onboard_time": 1723635981,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 567924,
+        "num": 377017,
+        "word": "警方通报少女训练营被强奸",
+        "onboard_time": 1723623681,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404299,
+        "num": 375297,
+        "word": "先天力量圣体的小姑娘去学游泳了",
+        "onboard_time": 1723637359,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 375127,
+        "num": 375127,
+        "word": "王楚钦连续100周世排前十",
+        "onboard_time": 1723638861,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 314791,
+        "num": 314791,
+        "word": "种地吧或需在内容与流量间作选择",
+        "onboard_time": 1723637961,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289241,
+        "num": 313169,
+        "word": "刘端端一出场秒变二皇子见面会",
+        "onboard_time": 1723636160,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239877,
+        "num": 305936,
+        "word": "迪丽热巴时尚芭莎9月刊",
+        "onboard_time": 1723639880,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 39098,
+        "num": 302843,
+        "word": "何以中国行走河南",
+        "onboard_time": 1723641020,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623049,
+        "num": 298746,
+        "word": "产假没有绩效工资正常吗",
+        "onboard_time": 1723637539,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 295300,
+        "num": 295300,
+        "word": "警方回应小孩闹脾气躺马路被车碾轧",
+        "onboard_time": 1723640059,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264456,
+        "num": 264456,
+        "word": "给父母转了很多钱却不舍得给我",
+        "onboard_time": 1723640780,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238408,
+        "num": 238408,
+        "word": "中国40枚金牌印度坐不住",
+        "onboard_time": 1723617803,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232011,
+        "num": 232011,
+        "word": "孙杨说明年肯定参加全运会",
+        "onboard_time": 1723634421,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230134,
+        "num": 230134,
+        "word": "樊振东是莫雷加德心软的神",
+        "onboard_time": 1723638861,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216110,
+        "num": 229433,
+        "word": "水蜜桃老师",
+        "onboard_time": 1723637060,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 70925,
+        "num": 229417,
+        "word": "彝族火炬手太燃了",
+        "onboard_time": 1723640780,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 204989,
+        "num": 229405,
+        "word": "王丽坤前夫詹浩礼诈骗始末",
+        "onboard_time": 1723638919,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229403,
+        "num": 229403,
+        "word": "多人蒙古国留学回国学位不被认证",
+        "onboard_time": 1723626022,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223476,
+        "num": 223476,
+        "word": "CPI",
+        "onboard_time": 1723640240,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 221541,
+        "num": 221541,
+        "word": "防晒衣卷入车轮致女子重重摔在路中",
+        "onboard_time": 1723634780,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221529,
+        "num": 221529,
+        "word": "黄嘉千夏克立离婚成功",
+        "onboard_time": 1723641560,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218461,
+        "num": 218461,
+        "word": "这鱼丑的有点吓人",
+        "onboard_time": 1723633879,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210529,
+        "num": 210529,
+        "word": "黄雨婷还没毕业就当上了知名校友",
+        "onboard_time": 1723628361,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199637,
+        "num": 199637,
+        "word": "妈妈被宝宝压迫颈动脉窦突然晕厥",
+        "onboard_time": 1723640600,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195342,
+        "num": 195342,
+        "word": "第一批奥运冠军已在家炒菜刷碗",
+        "onboard_time": 1723608620,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192368,
+        "num": 192368,
+        "word": "网友曝海底捞小零食收费",
+        "onboard_time": 1723609761,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 188256,
+        "num": 188256,
+        "word": "美国7月CPI重回2字头",
+        "onboard_time": 1723640900,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 185487,
+        "num": 185487,
+        "word": "阳光玫瑰过气了吗",
+        "onboard_time": 1723627041,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 181550,
+        "num": 181550,
+        "word": "王俊凯爆发戏感染导演",
+        "onboard_time": 1723638501,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179933,
+        "num": 179933,
+        "word": "孙颖莎连续六七年在同一家店理发",
+        "onboard_time": 1723641560,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175420,
+        "num": 175420,
+        "word": "孙颖莎 环球影城",
+        "onboard_time": 1723620440,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174398,
+        "num": 174398,
+        "word": "压垮婚姻的从来不是最后一根稻草",
+        "onboard_time": 1723641620,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171760,
+        "num": 171760,
+        "word": "T1对战KDF",
+        "onboard_time": 1723639280,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171410,
+        "num": 171410,
+        "word": "刘思鉴的耻辱柱",
+        "onboard_time": 1723639280,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171343,
+        "num": 171343,
+        "word": "泰国总理被解职",
+        "onboard_time": 1723627041,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 167204,
+        "num": 167204,
+        "word": "理发店回应给孙颖莎头发剪太短",
+        "onboard_time": 1723641740,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165928,
+        "num": 165928,
+        "word": "第一次看到用这个emoji的爱豆",
+        "onboard_time": 1723639100,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平回信勉励湖北十堰丹江口库区的环保志愿者#"
+    }
+  }
+}
