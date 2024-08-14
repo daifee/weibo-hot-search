@@ -1,0 +1,410 @@
+{
+  "runTime": 1723613814350,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1205731,
+        "num": 1205731,
+        "word": "第一批奥运冠军已在家炒菜刷碗",
+        "onboard_time": 1723608620,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1180302,
+        "num": 1180302,
+        "word": "暑期档票房 惨淡",
+        "onboard_time": 1723607902,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20180,
+        "num": 1178825,
+        "word": "祖国大地丰收图景好壮丽",
+        "onboard_time": 1723605740,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1178038,
+        "num": 1178038,
+        "word": "日本地震",
+        "onboard_time": 1723600939,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 978630,
+        "num": 978630,
+        "word": "网友曝海底捞小零食收费",
+        "onboard_time": 1723609761,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 858637,
+        "num": 858637,
+        "word": "小莫跟女朋友约会都要带着银牌",
+        "onboard_time": 1723611142,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 824441,
+        "num": 824441,
+        "word": "徐艺洋亲黄子韬脸",
+        "onboard_time": 1723612290,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 759163,
+        "num": 759163,
+        "word": "女子买回15厘米多肉4年后变3米",
+        "onboard_time": 1723593980,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478977,
+        "num": 756522,
+        "word": "王楚钦一见到爸妈眼神立马变小朋友",
+        "onboard_time": 1723610001,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 448172,
+        "num": 755712,
+        "word": "有人宁可损失4万中断日本游飞回国",
+        "onboard_time": 1723605501,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 755344,
+        "num": 755344,
+        "word": "张翰油过没丑过",
+        "onboard_time": 1723603880,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 713694,
+        "num": 713694,
+        "word": "全红婵全家搬去偏僻果园住",
+        "onboard_time": 1723593679,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 588390,
+        "num": 588390,
+        "word": "赵丽颖以前的工作是我梦寐以求的",
+        "onboard_time": 1723608322,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 466952,
+        "num": 466952,
+        "word": "以前的杨幂有种吸了精气的美",
+        "onboard_time": 1723612640,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 460819,
+        "num": 460819,
+        "word": "陈晓妈妈陪伴陈晓工作",
+        "onboard_time": 1723612162,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 444997,
+        "num": 444997,
+        "word": "贾玲胜诉",
+        "onboard_time": 1723613302,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444741,
+        "num": 444741,
+        "word": "已经不再是以前的乒乓球了",
+        "onboard_time": 1723608260,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 372538,
+        "num": 372538,
+        "word": "傅园慧 居然问我会不会游泳",
+        "onboard_time": 1723611562,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 357963,
+        "num": 357963,
+        "word": "只有老师才知道这样会有多省事",
+        "onboard_time": 1723608022,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 172297,
+        "num": 354565,
+        "word": "谁家古偶剧天天都有床戏",
+        "onboard_time": 1723612401,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 434424,
+        "num": 345337,
+        "word": "黄子韬回复鹿晗",
+        "onboard_time": 1723604121,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497698,
+        "num": 335702,
+        "word": "室友考公要跟我报一个岗位",
+        "onboard_time": 1723608260,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 423809,
+        "num": 333433,
+        "word": "田曦薇回头那一下世界都亮了",
+        "onboard_time": 1723607722,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 327141,
+        "num": 327141,
+        "word": "日本首相岸田文雄将辞职",
+        "onboard_time": 1723602079,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 326699,
+        "num": 326699,
+        "word": "全红婵把丑鱼拖鞋给穿包浆了",
+        "onboard_time": 1723612761,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316634,
+        "num": 316634,
+        "word": "男士35岁后生的孩子有啥风险",
+        "onboard_time": 1723610783,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 314577,
+        "num": 314577,
+        "word": "汪东城 内娱男菩萨",
+        "onboard_time": 1723612401,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 296534,
+        "num": 296534,
+        "word": "男子被女友催债1.5万划15辆车泄愤",
+        "onboard_time": 1723608260,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294495,
+        "num": 294495,
+        "word": "曝安以轩从未探视过陈荣炼",
+        "onboard_time": 1723605621,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291020,
+        "num": 291020,
+        "word": "男房东浴室装摄像头偷窥女租客一年",
+        "onboard_time": 1723595300,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287637,
+        "num": 287637,
+        "word": "王楚钦回应和樊振东躲马龙身后傻乐",
+        "onboard_time": 1723601780,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267425,
+        "num": 267425,
+        "word": "原来高铁中间不能穿过去",
+        "onboard_time": 1723607663,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 258507,
+        "num": 258507,
+        "word": "王楚钦是有些小允子在身上的",
+        "onboard_time": 1723613062,
+        "rank": 32,
+        "category": "体育,剧集"
+      },
+      {
+        "raw_hot": 257764,
+        "num": 257764,
+        "word": "末伏",
+        "onboard_time": 1723598120,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13652,
+        "num": 256799,
+        "word": "如果汽车也有万向轮",
+        "onboard_time": 1723608322,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 256181,
+        "num": 256181,
+        "word": "王一博狗啃发尾",
+        "onboard_time": 1723609222,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 255186,
+        "num": 255186,
+        "word": "孙颖莎回应指挥中朝韩选手合影",
+        "onboard_time": 1723608620,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253694,
+        "num": 253694,
+        "word": "月薪4300一个月的存钱计划",
+        "onboard_time": 1723594642,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 250677,
+        "num": 250677,
+        "word": "韩路 陈震",
+        "onboard_time": 1723613360,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 244035,
+        "num": 244035,
+        "word": "俄罗斯别尔哥罗德州宣布进入紧急状态",
+        "onboard_time": 1723608322,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 226157,
+        "num": 226157,
+        "word": "明日方舟",
+        "onboard_time": 1723612941,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 223977,
+        "num": 223977,
+        "word": "谁懂那英这张图",
+        "onboard_time": 1723608981,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219014,
+        "num": 219014,
+        "word": "原731成员揭731部队的标本室惨绝人寰",
+        "onboard_time": 1723613542,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167438,
+        "num": 214653,
+        "word": "水煮蛋有黑斑店家称是受精蛋",
+        "onboard_time": 1723611622,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213534,
+        "num": 213534,
+        "word": "落落大方的性格真的很加分",
+        "onboard_time": 1723612761,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208969,
+        "num": 208969,
+        "word": "落马女厅官姐弟3人全坐牢",
+        "onboard_time": 1723608801,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207778,
+        "num": 207778,
+        "word": "张杰把女儿扛在肩上",
+        "onboard_time": 1723604002,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118100,
+        "num": 206008,
+        "word": "一个县的教育反内卷实验",
+        "onboard_time": 1723611622,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 205991,
+        "num": 205991,
+        "word": "孙颖莎管泽元合影",
+        "onboard_time": 1723611921,
+        "rank": 48,
+        "category": "体育,电竞"
+      },
+      {
+        "raw_hot": 191744,
+        "num": 191744,
+        "word": "村里第一个空姐裸辞回家7年后蜕变",
+        "onboard_time": 1723599800,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#为党交一大批肝胆相照的党外朋友#"
+    }
+  }
+}
