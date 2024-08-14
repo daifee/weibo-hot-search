@@ -1,9 +1,9 @@
 {
   "startTime": 1723566286207,
-  "endTime": 1723639118635,
+  "endTime": 1723640041590,
   "band_list": [
     {
-      "raw_hot": 3794002,
+      "raw_hot": 4344141,
       "num": 617728,
       "word": "孙颖莎樊振东取关早田希娜",
       "onboard_time": 1723631420,
@@ -83,8 +83,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1605970,
-      "num": 1605970,
+      "raw_hot": 1868023,
+      "num": 1868023,
       "word": "男子结婚22年胖30斤无奈夹断婚戒",
       "onboard_time": 1723638140,
       "rank": 0,
@@ -265,6 +265,14 @@
       "onboard_time": 1723593980,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1153650,
+      "num": 1153650,
+      "word": "张博恒扫楼",
+      "onboard_time": 1723638140,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 1152136,
@@ -771,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 441845,
+      "num": 345872,
+      "word": "产假没有绩效工资正常吗",
+      "onboard_time": 1723637539,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 441342,
       "num": 599164,
       "word": "巴基斯坦和阿富汗交火",
@@ -899,27 +915,11 @@
       "category": "教育"
     },
     {
-      "raw_hot": 364040,
-      "num": 345872,
-      "word": "产假没有绩效工资正常吗",
-      "onboard_time": 1723637539,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 363806,
       "num": 363806,
       "word": "孙颖莎回应指挥中朝韩选手合影",
       "onboard_time": 1723608620,
       "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 359798,
-      "num": 359798,
-      "word": "张博恒扫楼",
-      "onboard_time": 1723638140,
-      "rank": 18,
       "category": "体育"
     },
     {
@@ -1027,20 +1027,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326042,
+      "num": 322830,
+      "word": "孙杨说明年肯定参加全运会",
+      "onboard_time": 1723634421,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 324540,
       "num": 184708,
       "word": "资深骑手谈男童骑行摔倒遭碾压",
       "onboard_time": 1723554981,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 322830,
-      "num": 322830,
-      "word": "孙杨说明年肯定参加全运会",
-      "onboard_time": 1723634421,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 322638,
@@ -1203,6 +1203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 275017,
+      "num": 275017,
+      "word": "迪丽热巴时尚芭莎9月刊",
+      "onboard_time": 1723639880,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 274415,
       "num": 274415,
       "word": "新冠感染再次抬头不用过分担忧",
@@ -1307,12 +1315,28 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 256845,
+      "num": 256845,
+      "word": "樊振东是莫雷加德心软的神",
+      "onboard_time": 1723638861,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 254939,
       "num": 254939,
       "word": "日本南海海槽附近曾数次发生大地震",
       "onboard_time": 1723604360,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253819,
+      "num": 253819,
+      "word": "先天力量圣体的小姑娘去学游泳了",
+      "onboard_time": 1723637359,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 252755,
@@ -1339,6 +1363,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 249917,
+      "num": 270491,
+      "word": "王丽坤前夫詹浩礼诈骗始末",
+      "onboard_time": 1723638919,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249341,
       "num": 599034,
       "word": "王鹤棣大奉打更人",
@@ -1353,6 +1385,14 @@
       "onboard_time": 1723611921,
       "rank": 40,
       "category": "体育,电竞"
+    },
+    {
+      "raw_hot": 244260,
+      "num": 244260,
+      "word": "这鱼丑的有点吓人",
+      "onboard_time": 1723633879,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 242848,
@@ -1385,14 +1425,6 @@
       "onboard_time": 1723626264,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 236799,
-      "num": 236799,
-      "word": "先天力量圣体的小姑娘去学游泳了",
-      "onboard_time": 1723637359,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 235937,
@@ -1531,6 +1563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216485,
+      "num": 253899,
+      "word": "刘思鉴的耻辱柱",
+      "onboard_time": 1723639280,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 215227,
       "num": 215227,
       "word": "董卿 不过她自由了",
@@ -1577,14 +1617,6 @@
       "onboard_time": 1723617980,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 211282,
-      "num": 211282,
-      "word": "这鱼丑的有点吓人",
-      "onboard_time": 1723633879,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 210637,
@@ -1683,6 +1715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194287,
+      "num": 194287,
+      "word": "安洗莹成为韩羽协老式不良习惯受害者",
+      "onboard_time": 1723637300,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194182,
       "num": 194182,
       "word": "漫画怦然心动回归",
@@ -1715,16 +1755,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 190271,
-      "num": 190271,
-      "word": "樊振东是莫雷加德心软的神",
-      "onboard_time": 1723638861,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 189778,
-      "num": 189778,
+      "raw_hot": 189985,
+      "num": 189985,
       "word": "cpp 难用",
       "onboard_time": 1723638979,
       "rank": 40,
@@ -1747,6 +1779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184884,
+      "num": 184884,
+      "word": "EDG晋级冠军赛六强",
+      "onboard_time": 1723639760,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 184882,
       "num": 184882,
       "word": "吃达美乐被烫成二度烧伤",
@@ -1761,14 +1801,6 @@
       "onboard_time": 1723631360,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181456,
-      "num": 270491,
-      "word": "王丽坤前夫詹浩礼诈骗始末",
-      "onboard_time": 1723638919,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 181346,
@@ -1835,14 +1867,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 178861,
-      "num": 178861,
-      "word": "安洗莹成为韩羽协老式不良习惯受害者",
-      "onboard_time": 1723637300,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 176450,
       "num": 267502,
       "word": "李嘉欣许晋亨送儿子英国留学",
@@ -1865,6 +1889,14 @@
       "onboard_time": 1723605261,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175179,
+      "num": 175179,
+      "word": "王楚钦连续100周世排前十",
+      "onboard_time": 1723638861,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 174844,
@@ -1913,14 +1945,6 @@
       "onboard_time": 1723629260,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 169366,
-      "num": 169366,
-      "word": "王楚钦连续100周世排前十",
-      "onboard_time": 1723638861,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 169055,
@@ -1987,12 +2011,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165281,
+      "num": 165281,
+      "word": "汪顺 看一眼这辈子都忘不掉的类型",
+      "onboard_time": 1723636820,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164993,
       "num": 650774,
       "word": "外卖员称超时被投诉最高罚200元",
       "onboard_time": 1723597821,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163703,
+      "num": 163703,
+      "word": "12星座的爱情运势指南",
+      "onboard_time": 1723636579,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 163446,
@@ -2105,6 +2145,14 @@
       "onboard_time": 1723593439,
       "rank": 47,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 152552,
+      "num": 152552,
+      "word": "T1对战KDF",
+      "onboard_time": 1723639280,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 152079,
@@ -2523,6 +2571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56250,
+      "num": 508602,
+      "word": "中方回应岸田文雄将辞职",
+      "onboard_time": 1723638440,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54559,
       "num": 890491,
       "word": "美方称没参与乌军袭击库尔斯克",
@@ -2579,6 +2635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41002,
+      "num": 1111342,
+      "word": "我国海上油田绿色开发技术获重大突破",
+      "onboard_time": 1723623080,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35518,
       "num": 162614,
       "word": "烟台多了一个名字叫仙儿都",
@@ -2595,27 +2659,11 @@
       "category": "社会新闻,国外时政"
     },
     {
-      "raw_hot": 30538,
-      "num": 1044798,
-      "word": "我国海上油田绿色开发技术获重大突破",
-      "onboard_time": 1723623080,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30440,
       "num": 961849,
       "word": "何以中国寻根辽宁",
       "onboard_time": 1723554623,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29023,
-      "num": 508602,
-      "word": "中方回应岸田文雄将辞职",
-      "onboard_time": 1723638440,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
