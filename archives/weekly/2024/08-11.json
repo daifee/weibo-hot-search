@@ -1,6 +1,6 @@
 {
   "startTime": 1723307155481,
-  "endTime": 1723605863072,
+  "endTime": 1723606689135,
   "band_list": [
     {
       "raw_hot": 25984443,
@@ -1131,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1375572,
+      "num": 1375572,
+      "word": "张翰油过没丑过",
+      "onboard_time": 1723603880,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1355807,
       "num": 616507,
       "word": "骑行遭碾压男孩训练时速达37公里",
@@ -1185,14 +1193,6 @@
       "onboard_time": 1723601780,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1325192,
-      "num": 1325192,
-      "word": "张翰油过没丑过",
-      "onboard_time": 1723603880,
-      "rank": 4,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1320690,
@@ -1304,6 +1304,14 @@
       "word": "王楚钦飞机上签名球拍",
       "onboard_time": 1723389453,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1255174,
+      "num": 1255174,
+      "word": "樊振东代言日默瓦",
+      "onboard_time": 1723605200,
+      "rank": 21,
       "category": "体育"
     },
     {
@@ -2025,6 +2033,14 @@
       "onboard_time": 1723593322,
       "rank": 20,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 867668,
+      "num": 867668,
+      "word": "曝安以轩从未探视过陈荣炼",
+      "onboard_time": 1723605621,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 867280,
@@ -3699,6 +3715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 418566,
+      "num": 418566,
+      "word": "奥运跳水10米台决赛收视率第一",
+      "onboard_time": 1723605020,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 414469,
       "num": 368426,
       "word": "美国摔跤",
@@ -3945,14 +3969,6 @@
       "onboard_time": 1723427001,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 379689,
-      "num": 379689,
-      "word": "樊振东代言日默瓦",
-      "onboard_time": 1723605200,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 378983,
@@ -4395,6 +4411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 338092,
+      "num": 338092,
+      "word": "QQ安全中心辟谣网传数据泄露",
+      "onboard_time": 1723605501,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 337039,
       "num": 374500,
       "word": "迪丽热巴代言立白",
@@ -4713,14 +4737,6 @@
       "onboard_time": 1723555102,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 314031,
-      "num": 480202,
-      "word": "曝安以轩从未探视过陈荣炼",
-      "onboard_time": 1723605621,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 313993,
@@ -5723,6 +5739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 254939,
+      "num": 254939,
+      "word": "日本南海海槽附近曾数次发生大地震",
+      "onboard_time": 1723604360,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254727,
       "num": 310575,
       "word": "长期节食减肥带来的后果",
@@ -5801,14 +5825,6 @@
       "onboard_time": 1723425742,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 251761,
-      "num": 251761,
-      "word": "奥运跳水10米台决赛收视率第一",
-      "onboard_time": 1723605020,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 250633,
@@ -5963,6 +5979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244480,
+      "num": 244480,
+      "word": "男子打1400公里顺风车到站逃单",
+      "onboard_time": 1723603880,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244138,
       "num": 244138,
       "word": "李倩哭着感谢自己没放弃",
@@ -6009,14 +6033,6 @@
       "onboard_time": 1723543644,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 242582,
-      "num": 242582,
-      "word": "男子打1400公里顺风车到站逃单",
-      "onboard_time": 1723603880,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 242476,
@@ -6161,14 +6177,6 @@
       "onboard_time": 1723405512,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 234923,
-      "num": 234923,
-      "word": "日本南海海槽附近曾数次发生大地震",
-      "onboard_time": 1723604360,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234901,
@@ -6449,6 +6457,14 @@
       "onboard_time": 1723559123,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 223072,
+      "num": 223072,
+      "word": "有人宁可损失4万中断日本游飞回国",
+      "onboard_time": 1723605501,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222961,
@@ -6803,6 +6819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 212775,
+      "num": 212775,
+      "word": "小学六年级缺一节课意味着什么",
+      "onboard_time": 1723604121,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 212670,
       "num": 597886,
       "word": "想念福娃的风吹到了巴黎",
@@ -7067,6 +7091,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 205663,
+      "num": 930608,
+      "word": "乌进攻俄本土会否触发俄朝互助条约",
+      "onboard_time": 1723604420,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 205557,
       "num": 205557,
       "word": "张杰演唱会",
@@ -7316,7 +7348,7 @@
     },
     {
       "raw_hot": 200566,
-      "num": 200566,
+      "num": 394647,
       "word": "鹿晗问黄子韬啥时候带他一起练",
       "onboard_time": 1723605801,
       "rank": 37,
@@ -7633,6 +7665,14 @@
       "onboard_time": 1723446201,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194182,
+      "num": 194182,
+      "word": "漫画怦然心动回归",
+      "onboard_time": 1723605980,
+      "rank": 38,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 193929,
@@ -8019,6 +8059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179773,
+      "num": 179773,
+      "word": "岸田文雄放弃自民党总裁选举",
+      "onboard_time": 1723606521,
+      "rank": 41,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 179648,
       "num": 366276,
       "word": "何浩楠晒后陡门的南瓜",
@@ -8083,14 +8131,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 177225,
-      "num": 177225,
-      "word": "小学六年级缺一节课意味着什么",
-      "onboard_time": 1723604121,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 176450,
       "num": 267502,
       "word": "李嘉欣许晋亨送儿子英国留学",
@@ -8113,6 +8153,14 @@
       "onboard_time": 1723454420,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175227,
+      "num": 247643,
+      "word": "这下真成王鹤棣的主场了",
+      "onboard_time": 1723605261,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 175054,
@@ -8145,6 +8193,14 @@
       "onboard_time": 1723505358,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 172279,
+      "num": 172279,
+      "word": "原神",
+      "onboard_time": 1723606580,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 172077,
@@ -8523,6 +8579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 152061,
+      "num": 184450,
+      "word": "檀健次官宣MK亚太区代言人",
+      "onboard_time": 1723606100,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151444,
       "num": 598336,
       "word": "黄朔 玩抽象",
@@ -8595,14 +8659,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 146498,
-      "num": 146498,
-      "word": "这下真成王鹤棣的主场了",
-      "onboard_time": 1723605261,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 146407,
       "num": 146407,
       "word": "奥运会最出圈的名场面是什么",
@@ -8643,12 +8699,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143738,
-      "num": 143738,
-      "word": "有人宁可损失4万中断日本游飞回国",
-      "onboard_time": 1723605501,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 143394,
+      "num": 143394,
+      "word": "奶茶10元以下时代来临了吗",
+      "onboard_time": 1723606042,
+      "rank": 49,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 142928,
@@ -8835,6 +8891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129184,
+      "num": 962005,
+      "word": "俄国防部发布库尔斯克作战视频",
+      "onboard_time": 1723604721,
+      "rank": 8,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 128207,
       "num": 136268,
       "word": "我们在黑夜中相拥",
@@ -8977,14 +9041,6 @@
       "onboard_time": 1723485193,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 116260,
-      "num": 930608,
-      "word": "乌进攻俄本土会否触发俄朝互助条约",
-      "onboard_time": 1723604420,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 115686,
@@ -9353,14 +9409,6 @@
       "onboard_time": 1723573453,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 89076,
-      "num": 962005,
-      "word": "俄国防部发布库尔斯克作战视频",
-      "onboard_time": 1723604721,
-      "rank": 8,
-      "category": "国外时政"
     },
     {
       "raw_hot": 88874,
@@ -9907,11 +9955,27 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 54559,
+      "num": 890491,
+      "word": "美方称没参与乌军袭击库尔斯克",
+      "onboard_time": 1723606221,
+      "rank": 9,
+      "category": "社会新闻,国外时政"
+    },
+    {
       "raw_hot": 54273,
       "num": 763644,
       "word": "原来北京中轴线不是正南正北",
       "onboard_time": 1723339103,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53682,
+      "num": 1465042,
+      "word": "祖国大地丰收图景好壮丽",
+      "onboard_time": 1723605740,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -10009,6 +10073,14 @@
       "onboard_time": 1723543222,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47515,
+      "num": 149752,
+      "word": "被青衣电到了",
+      "onboard_time": 1723606521,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 46766,
@@ -10465,14 +10537,6 @@
       "onboard_time": 1723441042,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 6401,
-      "num": 1419513,
-      "word": "祖国大地丰收图景好壮丽",
-      "onboard_time": 1723605740,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
