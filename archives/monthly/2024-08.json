@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1723660812816,
+  "endTime": 1723663137855,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -39179,6 +39179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117423,
+      "num": 385441,
+      "word": "躺马路被车碾压小孩已就医",
+      "onboard_time": 1723649481,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117375,
       "num": 315881,
       "word": "四海重明",
@@ -40609,14 +40617,6 @@
       "onboard_time": 1723617502,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 86245,
-      "num": 385441,
-      "word": "躺马路被车碾压小孩已就医",
-      "onboard_time": 1723649481,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 85962,
@@ -43579,6 +43579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 39791,
+      "num": 62990,
+      "word": "唐朝诡事录之西行",
+      "onboard_time": 1723661712,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 39758,
       "num": 209941,
       "word": "时代少年团周边中转站",
@@ -44505,6 +44513,14 @@
       "onboard_time": 1723189824,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 27845,
+      "num": 31915,
+      "word": "2男子用红墨水摆拍血腥视频被拘",
+      "onboard_time": 1723661651,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27608,
