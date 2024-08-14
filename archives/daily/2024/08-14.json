@@ -1,7 +1,15 @@
 {
   "startTime": 1723566286207,
-  "endTime": 1723624740473,
+  "endTime": 1723627303039,
   "band_list": [
+    {
+      "raw_hot": 2896631,
+      "num": 2896631,
+      "word": "中秋放假调休通知",
+      "onboard_time": 1723623500,
+      "rank": 20,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2791404,
       "num": 890176,
@@ -9,6 +17,14 @@
       "onboard_time": 1723593679,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2771234,
+      "num": 2771234,
+      "word": "警方通报少女训练营被强奸",
+      "onboard_time": 1723623681,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2207366,
@@ -103,14 +119,6 @@
       "num": 616507,
       "word": "骑行遭碾压男孩训练时速达37公里",
       "onboard_time": 1723588634,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1346248,
-      "num": 1346248,
-      "word": "警方通报少女训练营被强奸",
-      "onboard_time": 1723623681,
       "rank": 11,
       "category": "社会新闻"
     },
@@ -267,14 +275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 890096,
-      "num": 890096,
-      "word": "中秋放假调休通知",
-      "onboard_time": 1723623500,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 872346,
       "num": 598098,
       "word": "打羽毛球一个月眼袋和法令纹都没了",
@@ -313,6 +313,14 @@
       "onboard_time": 1723559663,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 819381,
+      "num": 888080,
+      "word": "徐艺洋秀恩爱黄子韬傻了",
+      "onboard_time": 1723625124,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 809360,
@@ -361,6 +369,14 @@
       "onboard_time": 1723552042,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 749275,
+      "num": 749275,
+      "word": "泰国总理被解职",
+      "onboard_time": 1723627041,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 682524,
@@ -459,6 +475,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 586978,
+      "num": 586978,
+      "word": "她为避嫌删好友却再没能加回",
+      "onboard_time": 1723623741,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 586484,
+      "num": 586484,
+      "word": "梁伟铿王昶双人封面",
+      "onboard_time": 1723622845,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 582431,
       "num": 755712,
       "word": "有人宁可损失4万中断日本游飞回国",
@@ -484,7 +516,7 @@
     },
     {
       "raw_hot": 565339,
-      "num": 375438,
+      "num": 474424,
       "word": "樊振东 国宝级别的可爱",
       "onboard_time": 1723619721,
       "rank": 37,
@@ -531,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 501928,
+      "num": 501928,
+      "word": "原来网球王子里演的都是真的",
+      "onboard_time": 1723623681,
+      "rank": 46,
+      "category": "体育,动漫"
+    },
+    {
       "raw_hot": 493745,
       "num": 493745,
       "word": "王楚钦孙颖莎直播",
@@ -548,7 +588,7 @@
     },
     {
       "raw_hot": 489320,
-      "num": 489320,
+      "num": 504481,
       "word": "汪东城 内娱男菩萨",
       "onboard_time": 1723612401,
       "rank": 44,
@@ -577,6 +617,14 @@
       "onboard_time": 1723612162,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 450176,
+      "num": 450176,
+      "word": "陈梦晒巴黎开心瞬间",
+      "onboard_time": 1723626862,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 445616,
@@ -643,14 +691,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 392601,
-      "num": 392601,
-      "word": "她为避嫌删好友却再没能加回",
-      "onboard_time": 1723623741,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 392278,
       "num": 358198,
       "word": "潘展乐老家办庆功宴",
@@ -665,6 +705,14 @@
       "onboard_time": 1723609222,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 384168,
+      "num": 384168,
+      "word": "环球影城团建",
+      "onboard_time": 1723626199,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 383016,
@@ -811,14 +859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 314057,
-      "num": 314057,
-      "word": "梁伟铿王昶双人封面",
-      "onboard_time": 1723622845,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 313993,
       "num": 313993,
       "word": "黑神话悟空泄露",
@@ -915,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 275859,
+      "num": 502967,
+      "word": "柳舟记 你俩亲嘴得哐哐作响吧",
+      "onboard_time": 1723623200,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 270363,
       "num": 270363,
       "word": "偶遇孙颖莎直播前理发",
@@ -961,6 +1009,14 @@
       "onboard_time": 1723607241,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 264890,
+      "num": 264890,
+      "word": "H腰对运动员有多重要",
+      "onboard_time": 1723624163,
+      "rank": 41,
+      "category": "运动健身"
     },
     {
       "raw_hot": 262470,
@@ -1011,6 +1067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 252053,
+      "num": 252053,
+      "word": "山东一县要求彩礼不超6万元",
+      "onboard_time": 1723625004,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249341,
       "num": 599034,
       "word": "王鹤棣大奉打更人",
@@ -1051,11 +1115,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238152,
+      "num": 238152,
+      "word": "泳队出去玩自带盒饭",
+      "onboard_time": 1723626264,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 235937,
       "num": 235937,
       "word": "王楚钦说孙颖莎五年后还是童颜",
       "onboard_time": 1723548860,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 233618,
+      "num": 233618,
+      "word": "查尔莫斯采访中提到潘展乐",
+      "onboard_time": 1723624520,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -1107,6 +1187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 223934,
+      "num": 267876,
+      "word": "刘星分肉饼 周正分烤串",
+      "onboard_time": 1723626442,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 220575,
       "num": 220575,
       "word": "以为正常但其实睡眠不足的表现",
@@ -1155,14 +1243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215556,
-      "num": 380225,
-      "word": "柳舟记 你俩亲嘴得哐哐作响吧",
-      "onboard_time": 1723623200,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 215227,
       "num": 215227,
       "word": "董卿 不过她自由了",
@@ -1203,12 +1283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203331,
-      "num": 203331,
-      "word": "原来网球王子里演的都是真的",
-      "onboard_time": 1723623681,
-      "rank": 46,
-      "category": "体育,动漫"
+      "raw_hot": 208572,
+      "num": 846684,
+      "word": "多人蒙古国留学回国学位不被认证",
+      "onboard_time": 1723626022,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203288,
@@ -1217,6 +1297,22 @@
       "onboard_time": 1723615100,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202578,
+      "num": 202578,
+      "word": "闲鱼出现黑神话代写差评业务",
+      "onboard_time": 1723625723,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 202261,
+      "num": 202261,
+      "word": "阳光玫瑰过气了吗",
+      "onboard_time": 1723627041,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 202008,
@@ -1299,6 +1395,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 193943,
+      "num": 265367,
+      "word": "时代少年团全员到达常州",
+      "onboard_time": 1723626082,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 193467,
       "num": 193467,
       "word": "孙颖莎让王楚钦回应头大",
@@ -1329,14 +1433,6 @@
       "onboard_time": 1723609942,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 186718,
-      "num": 186718,
-      "word": "H腰对运动员有多重要",
-      "onboard_time": 1723624163,
-      "rank": 41,
-      "category": "运动健身"
     },
     {
       "raw_hot": 184882,
@@ -1401,6 +1497,14 @@
       "onboard_time": 1723606042,
       "rank": 49,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 178957,
+      "num": 178957,
+      "word": "突然就学会了羽毛球发力",
+      "onboard_time": 1723627282,
+      "rank": 46,
+      "category": "运动健身"
     },
     {
       "raw_hot": 176450,
@@ -1475,11 +1579,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168587,
-      "num": 168587,
-      "word": "查尔莫斯采访中提到潘展乐",
-      "onboard_time": 1723624520,
-      "rank": 47,
+      "raw_hot": 167913,
+      "num": 167913,
+      "word": "环球影城偶遇孙颖莎陈清晨",
+      "onboard_time": 1723625781,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -1963,6 +2067,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 58873,
+      "num": 2022677,
+      "word": "当暑期游遇到文旅热",
+      "onboard_time": 1723623319,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54559,
       "num": 890491,
       "word": "美方称没参与乌军袭击库尔斯克",
@@ -1993,14 +2105,6 @@
       "onboard_time": 1723606521,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 44856,
-      "num": 1368313,
-      "word": "当暑期游遇到文旅热",
-      "onboard_time": 1723623319,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44780,
@@ -2041,6 +2145,14 @@
       "onboard_time": 1723579811,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 25188,
+      "num": 855546,
+      "word": "泰国总理赛塔被免职",
+      "onboard_time": 1723627222,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 25013,
