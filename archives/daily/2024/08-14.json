@@ -1,10 +1,10 @@
 {
   "startTime": 1723566286207,
-  "endTime": 1723603793540,
+  "endTime": 1723605863072,
   "band_list": [
     {
       "raw_hot": 2791404,
-      "num": 716771,
+      "num": 890176,
       "word": "全红婵全家搬去偏僻果园住",
       "onboard_time": 1723593679,
       "rank": 11,
@@ -67,6 +67,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1328991,
+      "num": 1328991,
+      "word": "王楚钦回应和樊振东躲马龙身后傻乐",
+      "onboard_time": 1723601780,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1325192,
+      "num": 1325192,
+      "word": "张翰油过没丑过",
+      "onboard_time": 1723603880,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1232511,
       "num": 551673,
       "word": "陈梦父母公司已注册HOPEWANG商标",
@@ -89,6 +105,14 @@
       "onboard_time": 1723599557,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1169337,
+      "num": 1169337,
+      "word": "黄子韬回复鹿晗",
+      "onboard_time": 1723604121,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 1162225,
@@ -137,14 +161,6 @@
       "onboard_time": 1723595300,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 881021,
-      "num": 620224,
-      "word": "王楚钦回应和樊振东躲马龙身后傻乐",
-      "onboard_time": 1723601780,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 872346,
@@ -201,6 +217,14 @@
       "onboard_time": 1723552042,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 668221,
+      "num": 668221,
+      "word": "张杰把女儿扛在肩上",
+      "onboard_time": 1723604002,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 638426,
@@ -299,7 +323,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 475870,
+      "raw_hot": 492342,
       "num": 475870,
       "word": "5个洗头习惯让头发越来越少",
       "onboard_time": 1723599140,
@@ -345,6 +369,14 @@
       "onboard_time": 1723544601,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379689,
+      "num": 379689,
+      "word": "樊振东代言日默瓦",
+      "onboard_time": 1723605200,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 370409,
@@ -427,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 314031,
+      "num": 480202,
+      "word": "曝安以轩从未探视过陈荣炼",
+      "onboard_time": 1723605621,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 313993,
       "num": 313993,
       "word": "黑神话悟空泄露",
@@ -491,12 +531,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 251761,
+      "num": 251761,
+      "word": "奥运跳水10米台决赛收视率第一",
+      "onboard_time": 1723605020,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 249341,
       "num": 599034,
       "word": "王鹤棣大奉打更人",
       "onboard_time": 1723593679,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242582,
+      "num": 242582,
+      "word": "男子打1400公里顺风车到站逃单",
+      "onboard_time": 1723603880,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 240261,
@@ -521,6 +577,14 @@
       "onboard_time": 1723548860,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 234923,
+      "num": 234923,
+      "word": "日本南海海槽附近曾数次发生大地震",
+      "onboard_time": 1723604360,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230764,
@@ -579,12 +643,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210637,
+      "num": 732757,
+      "word": "骑手日跑14小时收入减半",
+      "onboard_time": 1723602620,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202008,
+      "num": 202008,
+      "word": "张本美和有想和哥哥组队",
+      "onboard_time": 1723602800,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201468,
       "num": 598456,
       "word": "刘宇宁录节目越录越害怕",
       "onboard_time": 1723570694,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200566,
+      "num": 200566,
+      "word": "鹿晗问黄子韬啥时候带他一起练",
+      "onboard_time": 1723605801,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 197547,
@@ -651,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180035,
+      "num": 180035,
+      "word": "王楚钦戴发带是为了挡汗水",
+      "onboard_time": 1723601599,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179538,
       "num": 179538,
       "word": "全红婵父亲回应村内聚起小吃街",
@@ -659,12 +755,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 179179,
-      "num": 179179,
-      "word": "王楚钦戴发带是为了挡汗水",
-      "onboard_time": 1723601599,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 177225,
+      "num": 177225,
+      "word": "小学六年级缺一节课意味着什么",
+      "onboard_time": 1723604121,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 176450,
@@ -763,14 +859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156180,
-      "num": 156180,
-      "word": "张本美和有想和哥哥组队",
-      "onboard_time": 1723602800,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 154615,
       "num": 154615,
       "word": "娜扎与素人合影",
@@ -785,6 +873,14 @@
       "onboard_time": 1723595241,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154065,
+      "num": 253476,
+      "word": "年少不知魏哲鸣香",
+      "onboard_time": 1723604121,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 154032,
@@ -827,6 +923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 146498,
+      "num": 146498,
+      "word": "这下真成王鹤棣的主场了",
+      "onboard_time": 1723605261,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146407,
       "num": 146407,
       "word": "奥运会最出圈的名场面是什么",
@@ -857,6 +961,22 @@
       "onboard_time": 1723598601,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143738,
+      "num": 143738,
+      "word": "有人宁可损失4万中断日本游飞回国",
+      "onboard_time": 1723605501,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142928,
+      "num": 142928,
+      "word": "法院称将为王佳佳法官举行追悼会",
+      "onboard_time": 1723605681,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142773,
@@ -987,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116260,
+      "num": 930608,
+      "word": "乌进攻俄本土会否触发俄朝互助条约",
+      "onboard_time": 1723604420,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 108549,
       "num": 108549,
       "word": "喜人奇妙夜",
@@ -1035,12 +1163,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 75637,
-      "num": 732757,
-      "word": "骑手日跑14小时收入减半",
-      "onboard_time": 1723602620,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 89076,
+      "num": 962005,
+      "word": "俄国防部发布库尔斯克作战视频",
+      "onboard_time": 1723604721,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 74377,
@@ -1113,11 +1241,22 @@
       "onboard_time": 1723554503,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6401,
+      "num": 1419513,
+      "word": "祖国大地丰收图景好壮丽",
+      "onboard_time": 1723605740,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#人民有所呼改革有所应#"
+    },
+    {
+      "word": "#为党交一大批肝胆相照的党外朋友#"
     }
   ]
 }
