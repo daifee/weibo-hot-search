@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1723666872301,
+  "endTime": 1723667691020,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -43187,6 +43187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 45319,
+      "num": 45319,
+      "word": "皇马vs亚特兰大",
+      "onboard_time": 1723665851,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45295,
       "num": 380711,
       "word": "华为novaFlip搭载玄武水滴铰链",
@@ -43217,14 +43225,6 @@
       "onboard_time": 1722686847,
       "rank": 9,
       "category": "军事"
-    },
-    {
-      "raw_hot": 44835,
-      "num": 44835,
-      "word": "皇马vs亚特兰大",
-      "onboard_time": 1723665851,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 44780,
@@ -44203,6 +44203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32384,
+      "num": 32384,
+      "word": "海底捞回应有门店小零食收费",
+      "onboard_time": 1723663632,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32347,
       "num": 170974,
       "word": "日本一地发生多次爆炸",
@@ -44233,14 +44241,6 @@
       "onboard_time": 1722913343,
       "rank": 45,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 31979,
-      "num": 31979,
-      "word": "海底捞回应有门店小零食收费",
-      "onboard_time": 1723663632,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31960,
@@ -44433,6 +44433,14 @@
       "onboard_time": 1722580943,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29555,
+      "num": 44522,
+      "word": "刘令姿演技",
+      "onboard_time": 1723665492,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 29505,
@@ -44707,14 +44715,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 24236,
-      "num": 25700,
-      "word": "刘令姿演技",
-      "onboard_time": 1723665492,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 24042,
       "num": 51095,
       "word": "守护正义的人更需正义来守护",
@@ -44987,6 +44987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18117,
+      "num": 44981,
+      "word": "和叶试图卖萌被花花打断施法",
+      "onboard_time": 1723667591,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 17607,
       "num": 358970,
       "word": "中国男子4×100接力决赛",
@@ -45155,19 +45163,19 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 11563,
+      "num": 72340,
+      "word": "走丢女孩用ATM机求救按钮求助",
+      "onboard_time": 1723665730,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 11478,
       "num": 1815560,
       "word": "我国成功发射卫星互联网高轨卫星",
       "onboard_time": 1722526777,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10348,
-      "num": 72340,
-      "word": "走丢女孩用ATM机求救按钮求助",
-      "onboard_time": 1723665730,
-      "rank": 9,
       "category": "社会新闻"
     },
     {

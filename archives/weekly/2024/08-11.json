@@ -1,6 +1,6 @@
 {
   "startTime": 1723307155481,
-  "endTime": 1723666872301,
+  "endTime": 1723667691020,
   "band_list": [
     {
       "raw_hot": 25984443,
@@ -12019,8 +12019,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 44835,
-      "num": 44835,
+      "raw_hot": 45319,
+      "num": 45319,
       "word": "皇马vs亚特兰大",
       "onboard_time": 1723665851,
       "rank": 27,
@@ -12291,19 +12291,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 32384,
+      "num": 32384,
+      "word": "海底捞回应有门店小零食收费",
+      "onboard_time": 1723663632,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32347,
       "num": 170974,
       "word": "日本一地发生多次爆炸",
       "onboard_time": 1723547121,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31979,
-      "num": 31979,
-      "word": "海底捞回应有门店小零食收费",
-      "onboard_time": 1723663632,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -12337,6 +12337,14 @@
       "onboard_time": 1723488193,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 29555,
+      "num": 44522,
+      "word": "刘令姿演技",
+      "onboard_time": 1723665492,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 29277,
@@ -12419,14 +12427,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 24236,
-      "num": 25700,
-      "word": "刘令姿演技",
-      "onboard_time": 1723665492,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 24042,
       "num": 51095,
       "word": "守护正义的人更需正义来守护",
@@ -12465,6 +12465,14 @@
       "onboard_time": 1723547722,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18117,
+      "num": 44981,
+      "word": "和叶试图卖萌被花花打断施法",
+      "onboard_time": 1723667591,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 17014,
@@ -12523,7 +12531,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 10348,
+      "raw_hot": 11563,
       "num": 72340,
       "word": "走丢女孩用ATM机求救按钮求助",
       "onboard_time": 1723665730,
