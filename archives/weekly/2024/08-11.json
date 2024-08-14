@@ -1,6 +1,6 @@
 {
   "startTime": 1723307155481,
-  "endTime": 1723630898373,
+  "endTime": 1723631904433,
   "band_list": [
     {
       "raw_hot": 25984443,
@@ -891,6 +891,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1583584,
+      "num": 1509824,
+      "word": "斓曦 生孩子是没有回头路的",
+      "onboard_time": 1723629689,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1576827,
       "num": 1576827,
       "word": "山东郯城2人被弓箭射伤警车被射中",
@@ -961,14 +969,6 @@
       "onboard_time": 1723518742,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1509824,
-      "num": 1509824,
-      "word": "斓曦 生孩子是没有回头路的",
-      "onboard_time": 1723629689,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1508159,
@@ -1497,6 +1497,14 @@
       "onboard_time": 1723383626,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1182163,
+      "num": 1182163,
+      "word": "母亲回应女儿疑遭训练营教官侵犯",
+      "onboard_time": 1723628782,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1180726,
@@ -2067,6 +2075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 926735,
+      "num": 617728,
+      "word": "孙颖莎樊振东取关早田希娜",
+      "onboard_time": 1723631420,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 923283,
       "num": 923283,
       "word": "日本跳水巨大失误",
@@ -2235,6 +2251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 844383,
+      "num": 844383,
+      "word": "黄雨婷还没毕业就当上了知名校友",
+      "onboard_time": 1723628361,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 844164,
       "num": 955776,
       "word": "易烊千玺 有没有可能害怕的是我",
@@ -2345,14 +2369,6 @@
       "onboard_time": 1723302090,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 799551,
-      "num": 799551,
-      "word": "母亲回应女儿疑遭训练营教官侵犯",
-      "onboard_time": 1723628782,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 798933,
@@ -2569,6 +2585,14 @@
       "onboard_time": 1723471343,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 722939,
+      "num": 412176,
+      "word": "比亚迪销售骂顾客买个破车别和我犟",
+      "onboard_time": 1723628902,
+      "rank": 23,
+      "category": "汽车"
     },
     {
       "raw_hot": 721450,
@@ -3259,6 +3283,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 550543,
+      "num": 550543,
+      "word": "王源的体重只有50公斤",
+      "onboard_time": 1723629260,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 549858,
       "num": 913496,
       "word": "没认出来汪峰",
@@ -3401,14 +3433,6 @@
       "onboard_time": 1723385307,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 511341,
-      "num": 511341,
-      "word": "黄雨婷还没毕业就当上了知名校友",
-      "onboard_time": 1723628361,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 510404,
@@ -3987,14 +4011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 426783,
-      "num": 477025,
-      "word": "王源的体重只有50公斤",
-      "onboard_time": 1723629260,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 426387,
       "num": 426387,
       "word": "中国举重队5金收官",
@@ -4089,14 +4105,6 @@
       "onboard_time": 1723391305,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 412176,
-      "num": 412176,
-      "word": "比亚迪销售骂顾客买个破车别和我犟",
-      "onboard_time": 1723628902,
-      "rank": 23,
-      "category": "汽车"
     },
     {
       "raw_hot": 409290,
@@ -4723,6 +4731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 347525,
+      "num": 347525,
+      "word": "小布评价国乒队员",
+      "onboard_time": 1723629142,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 347148,
       "num": 347148,
       "word": "广东新冠感染增加1万余病例",
@@ -4889,6 +4905,14 @@
       "onboard_time": 1723551801,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 333540,
+      "num": 333540,
+      "word": "考上清北的学霸已老实",
+      "onboard_time": 1723628540,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 333181,
@@ -5073,14 +5097,6 @@
       "onboard_time": 1723439340,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 324507,
-      "num": 324507,
-      "word": "小布评价国乒队员",
-      "onboard_time": 1723629142,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 324449,
@@ -5289,14 +5305,6 @@
       "onboard_time": 1723619421,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 308679,
-      "num": 308679,
-      "word": "考上清北的学霸已老实",
-      "onboard_time": 1723628540,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 308476,
@@ -5915,6 +5923,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 274415,
+      "num": 274415,
+      "word": "新冠感染再次抬头不用过分担忧",
+      "onboard_time": 1723628121,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274164,
       "num": 274164,
       "word": "早田希娜发文感谢樊振东",
@@ -6009,6 +6025,14 @@
       "onboard_time": 1723366403,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 270294,
+      "num": 270294,
+      "word": "疑遭侵犯少女曾向生活老师求助无果",
+      "onboard_time": 1723628601,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270132,
@@ -6137,6 +6161,14 @@
       "onboard_time": 1723617202,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 265357,
+      "num": 759311,
+      "word": "长春一公园的救生圈是画上去的",
+      "onboard_time": 1723629621,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265062,
@@ -6315,6 +6347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255855,
+      "num": 255855,
+      "word": "印度一女实习医生在医院惨遭奸杀",
+      "onboard_time": 1723631241,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255814,
       "num": 255814,
       "word": "刘国梁夸赞樊振东支起球队信心",
@@ -6435,6 +6475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251268,
+      "num": 251268,
+      "word": "阳光玫瑰过气了吗",
+      "onboard_time": 1723627041,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 250633,
       "num": 250633,
       "word": "官方辟谣樊振东从小是留守儿童",
@@ -6537,14 +6585,6 @@
       "onboard_time": 1723457962,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 245916,
-      "num": 245916,
-      "word": "阳光玫瑰过气了吗",
-      "onboard_time": 1723627041,
-      "rank": 40,
-      "category": "美食"
     },
     {
       "raw_hot": 245888,
@@ -6955,6 +6995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 229681,
+      "num": 229681,
+      "word": "瑞幸咖啡股价涨了20倍",
+      "onboard_time": 1723628002,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 229502,
       "num": 229502,
       "word": "成都AG回归KPL五周年",
@@ -7009,22 +7057,6 @@
       "onboard_time": 1723440621,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 227588,
-      "num": 227588,
-      "word": "瑞幸咖啡股价涨了20倍",
-      "onboard_time": 1723628002,
-      "rank": 36,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 227088,
-      "num": 227088,
-      "word": "新冠感染再次抬头不用过分担忧",
-      "onboard_time": 1723628121,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227052,
@@ -7273,6 +7305,14 @@
       "onboard_time": 1723597580,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 219061,
+      "num": 219061,
+      "word": "腾讯第二季度营收1611.2亿",
+      "onboard_time": 1723629502,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 218832,
@@ -8499,14 +8539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191446,
-      "num": 191446,
-      "word": "腾讯第二季度营收1611.2亿",
-      "onboard_time": 1723629502,
-      "rank": 38,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 191250,
       "num": 191250,
       "word": "再见巴黎你好洛杉矶",
@@ -8593,14 +8625,6 @@
       "onboard_time": 1723430483,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 189211,
-      "num": 189211,
-      "word": "疑遭侵犯少女曾向生活老师求助无果",
-      "onboard_time": 1723628601,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189020,
@@ -8777,6 +8801,14 @@
       "onboard_time": 1723557203,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 182012,
+      "num": 182012,
+      "word": "她们还在等待道歉",
+      "onboard_time": 1723631360,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181769,
@@ -8993,6 +9025,14 @@
       "onboard_time": 1723505358,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 173337,
+      "num": 173337,
+      "word": "王楚钦早期照片",
+      "onboard_time": 1723630700,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 172297,
@@ -9257,14 +9297,6 @@
       "onboard_time": 1723574892,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 162302,
-      "num": 162302,
-      "word": "王楚钦早期照片",
-      "onboard_time": 1723630700,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 161513,
@@ -9863,14 +9895,6 @@
       "num": 732016,
       "word": "她是妈妈是老师也是我最好的朋友",
       "onboard_time": 1723373065,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122605,
-      "num": 759311,
-      "word": "长春一公园的救生圈是画上去的",
-      "onboard_time": 1723629621,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -10715,6 +10739,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 66910,
+      "num": 283852,
+      "word": "一场无差别刺杀何以引发全英骚乱",
+      "onboard_time": 1723631660,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 65970,
       "num": 875572,
       "word": "在巴黎见证中国力量",
@@ -10940,7 +10972,7 @@
     },
     {
       "raw_hot": 54414,
-      "num": 320655,
+      "num": 338806,
       "word": "极氪001自研智驾直播首测",
       "onboard_time": 1723630282,
       "rank": 26,
@@ -11116,7 +11148,7 @@
     },
     {
       "raw_hot": 44780,
-      "num": 264128,
+      "num": 624598,
       "word": "多家航司回应日本航班退改签政策",
       "onboard_time": 1723616542,
       "rank": 29,

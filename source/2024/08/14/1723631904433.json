@@ -1,0 +1,410 @@
+{
+  "runTime": 1723631904433,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1748016,
+        "num": 1748016,
+        "word": "中秋放假调休通知",
+        "onboard_time": 1723623500,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1182163,
+        "num": 1182163,
+        "word": "母亲回应女儿疑遭训练营教官侵犯",
+        "onboard_time": 1723628782,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28649,
+        "num": 1175813,
+        "word": "当暑期游遇到文旅热",
+        "onboard_time": 1723623319,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1583584,
+        "num": 1175392,
+        "word": "斓曦 生孩子是没有回头路的",
+        "onboard_time": 1723629689,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1173910,
+        "num": 1173910,
+        "word": "徐艺洋秀恩爱黄子韬傻了",
+        "onboard_time": 1723625124,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 969162,
+        "num": 969162,
+        "word": "多人蒙古国留学回国学位不被认证",
+        "onboard_time": 1723626022,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 909769,
+        "num": 909769,
+        "word": "环球影城团建",
+        "onboard_time": 1723626199,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 844383,
+        "num": 844383,
+        "word": "黄雨婷还没毕业就当上了知名校友",
+        "onboard_time": 1723628361,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 687013,
+        "num": 687013,
+        "word": "中国40枚金牌印度坐不住",
+        "onboard_time": 1723617803,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19309,
+        "num": 624598,
+        "word": "多家航司回应日本航班退改签政策",
+        "onboard_time": 1723616542,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 957375,
+        "num": 619590,
+        "word": "警方通报少女训练营被强奸",
+        "onboard_time": 1723623681,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 926735,
+        "num": 617728,
+        "word": "孙颖莎樊振东取关早田希娜",
+        "onboard_time": 1723631420,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 605315,
+        "num": 605315,
+        "word": "孙颖莎 环球影城",
+        "onboard_time": 1723620440,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 591471,
+        "num": 591471,
+        "word": "孙志刚被控受贿8.13亿余元",
+        "onboard_time": 1723628662,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575619,
+        "num": 575619,
+        "word": "加沙男子正办出生证明妻儿被炸死",
+        "onboard_time": 1723616061,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 550543,
+        "num": 550543,
+        "word": "王源的体重只有50公斤",
+        "onboard_time": 1723629260,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 529381,
+        "num": 529381,
+        "word": "网友曝海底捞小零食收费",
+        "onboard_time": 1723609761,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 378732,
+        "num": 433394,
+        "word": "刘星分肉饼 周正分烤串",
+        "onboard_time": 1723626442,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 266997,
+        "num": 413535,
+        "word": "贾玲胜诉",
+        "onboard_time": 1723613302,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173650,
+        "num": 408011,
+        "word": "汪东城 内娱男菩萨",
+        "onboard_time": 1723612401,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 405145,
+        "num": 405145,
+        "word": "陈梦晒巴黎开心瞬间",
+        "onboard_time": 1723626862,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 378962,
+        "num": 378962,
+        "word": "郑钦文的金牌已经回国了",
+        "onboard_time": 1723619061,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 360053,
+        "num": 360053,
+        "word": "原来网球王子里演的都是真的",
+        "onboard_time": 1723623681,
+        "rank": 22,
+        "category": "体育,动漫"
+      },
+      {
+        "raw_hot": 354984,
+        "num": 354984,
+        "word": "第一批奥运冠军已在家炒菜刷碗",
+        "onboard_time": 1723608620,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 347525,
+        "num": 347525,
+        "word": "小布评价国乒队员",
+        "onboard_time": 1723629142,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35226,
+        "num": 338806,
+        "word": "极氪001自研智驾直播首测",
+        "onboard_time": 1723630282,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 334933,
+        "num": 334933,
+        "word": "泰国总理被解职",
+        "onboard_time": 1723627041,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 333540,
+        "num": 333540,
+        "word": "考上清北的学霸已老实",
+        "onboard_time": 1723628540,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153500,
+        "num": 294463,
+        "word": "理解虞书欣说的一眼一头的区别了",
+        "onboard_time": 1723619781,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 66910,
+        "num": 283852,
+        "word": "一场无差别刺杀何以引发全英骚乱",
+        "onboard_time": 1723631660,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 274415,
+        "num": 274415,
+        "word": "新冠感染再次抬头不用过分担忧",
+        "onboard_time": 1723628121,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270294,
+        "num": 270294,
+        "word": "疑遭侵犯少女曾向生活老师求助无果",
+        "onboard_time": 1723628601,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120679,
+        "num": 265907,
+        "word": "黄子弘凡杂志",
+        "onboard_time": 1723630461,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 265357,
+        "num": 265357,
+        "word": "长春一公园的救生圈是画上去的",
+        "onboard_time": 1723629621,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255855,
+        "num": 255855,
+        "word": "印度一女实习医生在医院惨遭奸杀",
+        "onboard_time": 1723631241,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251268,
+        "num": 251268,
+        "word": "阳光玫瑰过气了吗",
+        "onboard_time": 1723627041,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 230657,
+        "num": 230657,
+        "word": "她为避嫌删好友却再没能加回",
+        "onboard_time": 1723623741,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229681,
+        "num": 229681,
+        "word": "瑞幸咖啡股价涨了20倍",
+        "onboard_time": 1723628002,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 219061,
+        "num": 219061,
+        "word": "腾讯第二季度营收1611.2亿",
+        "onboard_time": 1723629502,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 122100,
+        "num": 207307,
+        "word": "柳舟记 你俩亲嘴得哐哐作响吧",
+        "onboard_time": 1723623200,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 722939,
+        "num": 207189,
+        "word": "比亚迪销售骂顾客买个破车别和我犟",
+        "onboard_time": 1723628902,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 206622,
+        "num": 206622,
+        "word": "泳队出去玩自带盒饭",
+        "onboard_time": 1723626264,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182381,
+        "num": 182381,
+        "word": "梁伟铿王昶双人封面",
+        "onboard_time": 1723622845,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120785,
+        "num": 182162,
+        "word": "许嵩上海抢票",
+        "onboard_time": 1723629260,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182012,
+        "num": 182012,
+        "word": "她们还在等待道歉",
+        "onboard_time": 1723631360,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181188,
+        "num": 181188,
+        "word": "猫咪化的要饭妆全被擦了",
+        "onboard_time": 1723627520,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173337,
+        "num": 173337,
+        "word": "王楚钦早期照片",
+        "onboard_time": 1723630700,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163062,
+        "num": 163062,
+        "word": "山东一县要求彩礼不超6万元",
+        "onboard_time": 1723625004,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161903,
+        "num": 161903,
+        "word": "日本巨大地震预警8月15日解除",
+        "onboard_time": 1723618042,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151498,
+        "num": 151498,
+        "word": "极氪回应发新车",
+        "onboard_time": 1723626921,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#为党交一大批肝胆相照的党外朋友#"
+    }
+  }
+}
