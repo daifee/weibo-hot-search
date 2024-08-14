@@ -1,0 +1,410 @@
+{
+  "runTime": 1723635317531,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 986565,
+        "num": 1157850,
+        "word": "中秋放假调休通知",
+        "onboard_time": 1723623500,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 803146,
+        "num": 803146,
+        "word": "黄雨婷还没毕业就当上了知名校友",
+        "onboard_time": 1723628361,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12252,
+        "num": 757226,
+        "word": "当暑期游遇到文旅热",
+        "onboard_time": 1723623319,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1128953,
+        "num": 755695,
+        "word": "斓曦 生孩子是没有回头路的",
+        "onboard_time": 1723629689,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 745906,
+        "num": 745906,
+        "word": "徐艺洋秀恩爱黄子韬傻了",
+        "onboard_time": 1723625124,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 562820,
+        "num": 562820,
+        "word": "孙志刚被控受贿8.13亿余元",
+        "onboard_time": 1723628662,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 733396,
+        "num": 546282,
+        "word": "王源的体重只有50公斤",
+        "onboard_time": 1723629260,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 515616,
+        "num": 515616,
+        "word": "多人蒙古国留学回国学位不被认证",
+        "onboard_time": 1723626022,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474809,
+        "num": 474809,
+        "word": "中国40枚金牌印度坐不住",
+        "onboard_time": 1723617803,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 405589,
+        "num": 405589,
+        "word": "第一批奥运冠军已在家炒菜刷碗",
+        "onboard_time": 1723608620,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3666673,
+        "num": 405333,
+        "word": "孙颖莎樊振东取关早田希娜",
+        "onboard_time": 1723631420,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 839091,
+        "num": 401306,
+        "word": "印度一女实习医生在医院惨遭奸杀",
+        "onboard_time": 1723631241,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 780897,
+        "num": 397663,
+        "word": "母亲回应女儿疑遭训练营教官侵犯",
+        "onboard_time": 1723628782,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 726362,
+        "num": 395761,
+        "word": "疑遭侵犯少女曾向生活老师求助无果",
+        "onboard_time": 1723628601,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 668220,
+        "num": 391791,
+        "word": "小布评价国乒队员",
+        "onboard_time": 1723629142,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 644236,
+        "num": 390158,
+        "word": "警方通报少女训练营被强奸",
+        "onboard_time": 1723623681,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388322,
+        "num": 388322,
+        "word": "网友曝海底捞小零食收费",
+        "onboard_time": 1723609761,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 360613,
+        "num": 360613,
+        "word": "天下",
+        "onboard_time": 1723634240,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 338749,
+        "num": 338749,
+        "word": "考上清北的学霸已老实",
+        "onboard_time": 1723628540,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 264390,
+        "num": 338254,
+        "word": "刘星分肉饼 周正分烤串",
+        "onboard_time": 1723626442,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 338167,
+        "num": 338167,
+        "word": "王皓嘱托樊振东出门多带点零食",
+        "onboard_time": 1723631601,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313021,
+        "num": 313021,
+        "word": "长春一公园的救生圈是画上去的",
+        "onboard_time": 1723629621,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303985,
+        "num": 303985,
+        "word": "张碧晨看完中医就吃冰淇淋",
+        "onboard_time": 1723632261,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287723,
+        "num": 287723,
+        "word": "环球影城同一天集齐四位奥运冠军",
+        "onboard_time": 1723633760,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284378,
+        "num": 284378,
+        "word": "环球影城团建",
+        "onboard_time": 1723626199,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276263,
+        "num": 276263,
+        "word": "王楚钦早期照片",
+        "onboard_time": 1723630700,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262206,
+        "num": 262206,
+        "word": "孙颖莎 环球影城",
+        "onboard_time": 1723620440,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259370,
+        "num": 259370,
+        "word": "加沙男子正办出生证明妻儿被炸死",
+        "onboard_time": 1723616061,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 226633,
+        "num": 226633,
+        "word": "泰国总理被解职",
+        "onboard_time": 1723627041,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 58902,
+        "num": 218157,
+        "word": "操控舒适都想要过分吗",
+        "onboard_time": 1723633942,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 212616,
+        "num": 212616,
+        "word": "贾玲胜诉",
+        "onboard_time": 1723613302,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208017,
+        "num": 208017,
+        "word": "阳光玫瑰过气了吗",
+        "onboard_time": 1723627041,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 202069,
+        "num": 202069,
+        "word": "原来网球王子里演的都是真的",
+        "onboard_time": 1723623681,
+        "rank": 32,
+        "category": "体育,动漫"
+      },
+      {
+        "raw_hot": 193373,
+        "num": 193373,
+        "word": "陈梦晒巴黎开心瞬间",
+        "onboard_time": 1723626862,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190088,
+        "num": 190088,
+        "word": "瑞幸咖啡股价涨了20倍",
+        "onboard_time": 1723628002,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 180767,
+        "num": 180767,
+        "word": "网友称166元老鸭面吃到臭味异物",
+        "onboard_time": 1723633220,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180191,
+        "num": 180191,
+        "word": "她为避嫌删好友却再没能加回",
+        "onboard_time": 1723623741,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175441,
+        "num": 175441,
+        "word": "干饭哥阿条姐淡人也包出片",
+        "onboard_time": 1723632020,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170128,
+        "num": 170128,
+        "word": "这鱼丑的有点吓人",
+        "onboard_time": 1723633879,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166833,
+        "num": 166833,
+        "word": "日本巨大地震预警8月15日解除",
+        "onboard_time": 1723618042,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 746257,
+        "num": 166684,
+        "word": "比亚迪销售骂顾客买个破车别和我犟",
+        "onboard_time": 1723628902,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 165963,
+        "num": 165963,
+        "word": "防晒衣卷入车轮致女子重重摔在路中",
+        "onboard_time": 1723634780,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163644,
+        "num": 163644,
+        "word": "郑钦文的金牌已经回国了",
+        "onboard_time": 1723619061,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43361,
+        "num": 160915,
+        "word": "极氪001自研智驾直播首测",
+        "onboard_time": 1723630282,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 114138,
+        "num": 160422,
+        "word": "理解虞书欣说的一眼一头的区别了",
+        "onboard_time": 1723619781,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160384,
+        "num": 160384,
+        "word": "腾讯第二季度营收1611.2亿",
+        "onboard_time": 1723629502,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 157712,
+        "num": 157712,
+        "word": "男子闯红灯致骑行人摔倒被碾身亡",
+        "onboard_time": 1723632380,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155814,
+        "num": 155814,
+        "word": "新冠感染再次抬头不用过分担忧",
+        "onboard_time": 1723628121,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143408,
+        "num": 143408,
+        "word": "官方回应166元老鸭面现臭味异物",
+        "onboard_time": 1723635199,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138125,
+        "num": 138125,
+        "word": "警惕超长防晒衣成骑行杀手",
+        "onboard_time": 1723635080,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#为党交一大批肝胆相照的党外朋友#"
+    }
+  }
+}
