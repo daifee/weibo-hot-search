@@ -1,6 +1,6 @@
 {
   "startTime": 1723652882305,
-  "endTime": 1723670349562,
+  "endTime": 1723671328967,
   "band_list": [
     {
       "raw_hot": 2177879,
@@ -459,8 +459,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 71041,
-      "num": 71041,
+      "raw_hot": 71288,
+      "num": 71288,
       "word": "皇马vs亚特兰大",
       "onboard_time": 1723665851,
       "rank": 27,
@@ -499,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45754,
+      "num": 45754,
+      "word": "俄乌局势",
+      "onboard_time": 1723669930,
+      "rank": 47,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 35361,
       "num": 46103,
       "word": "如何确定一个人值不值得深交",
@@ -523,20 +531,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29555,
+      "raw_hot": 31281,
       "num": 44522,
       "word": "刘令姿演技",
       "onboard_time": 1723665492,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 23596,
-      "num": 24871,
-      "word": "俄乌局势",
-      "onboard_time": 1723669930,
-      "rank": 47,
-      "category": "国外时政"
     },
     {
       "raw_hot": 18117,
@@ -547,8 +547,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 14144,
-      "num": 75514,
+      "raw_hot": 16575,
+      "num": 79329,
       "word": "男子捏造散布女法官被害案信息被行拘",
       "onboard_time": 1723669631,
       "rank": 9,
