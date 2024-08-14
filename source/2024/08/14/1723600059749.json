@@ -1,0 +1,410 @@
+{
+  "runTime": 1723600059749,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1501844,
+        "num": 1501844,
+        "word": "月薪4300一个月的存钱计划",
+        "onboard_time": 1723594642,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1141210,
+        "num": 1141210,
+        "word": "日本男团回国没有鲜花",
+        "onboard_time": 1723595061,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10768,
+        "num": 1033479,
+        "word": "古人的臂甲刻着动物世界",
+        "onboard_time": 1723554503,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 957433,
+        "num": 957433,
+        "word": "女子买回15厘米多肉4年后变3米",
+        "onboard_time": 1723593980,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 939736,
+        "num": 939736,
+        "word": "不让老娘拿金牌 你们也别想拿到",
+        "onboard_time": 1723594220,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 611771,
+        "num": 611771,
+        "word": "陈梦换微博封面图",
+        "onboard_time": 1723599020,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 598866,
+        "num": 598866,
+        "word": "樊振东人还怪好嘞",
+        "onboard_time": 1723592539,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 478535,
+        "num": 478535,
+        "word": "保时捷与电动车碰撞后撞树起火车主死亡",
+        "onboard_time": 1723559663,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433037,
+        "num": 433037,
+        "word": "老人被洗脑送骗子75万元",
+        "onboard_time": 1723592539,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383382,
+        "num": 432246,
+        "word": "疯子演给傻子看",
+        "onboard_time": 1723567518,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2305943,
+        "num": 412384,
+        "word": "全红婵全家搬去偏僻果园住",
+        "onboard_time": 1723593679,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1003763,
+        "num": 397482,
+        "word": "男房东浴室装摄像头偷窥女租客一年",
+        "onboard_time": 1723595300,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180892,
+        "num": 385664,
+        "word": "末伏",
+        "onboard_time": 1723598120,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384773,
+        "num": 384773,
+        "word": "孙杨要求重新升一次国旗",
+        "onboard_time": 1723560982,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308477,
+        "num": 376947,
+        "word": "李依晓官宣恋情",
+        "onboard_time": 1723553182,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372160,
+        "num": 372160,
+        "word": "乌军在俄罗斯境内升起乌克兰国旗",
+        "onboard_time": 1723598899,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 236355,
+        "num": 371561,
+        "word": "小夫妻硬装花光20万靠亲戚赞助软装",
+        "onboard_time": 1723599557,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202613,
+        "num": 370907,
+        "word": "朱一龙回应",
+        "onboard_time": 1723555343,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199101,
+        "num": 369737,
+        "word": "王鹤棣大奉打更人",
+        "onboard_time": 1723593679,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185434,
+        "num": 368776,
+        "word": "刘令姿古装仪态",
+        "onboard_time": 1723599380,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 872346,
+        "num": 367803,
+        "word": "打羽毛球一个月眼袋和法令纹都没了",
+        "onboard_time": 1723593322,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 422349,
+        "num": 366753,
+        "word": "打网球三个月身材的变化",
+        "onboard_time": 1723593980,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 366747,
+        "num": 366747,
+        "word": "王楚钦再谈主拍断裂",
+        "onboard_time": 1723552042,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352036,
+        "num": 352036,
+        "word": "05后实习生是先天采购圣体吧",
+        "onboard_time": 1723597580,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337301,
+        "num": 337301,
+        "word": "巴基斯坦和阿富汗交火",
+        "onboard_time": 1723593499,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 251155,
+        "num": 251155,
+        "word": "骑行遭碾压男孩已身亡",
+        "onboard_time": 1723543222,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248467,
+        "num": 248467,
+        "word": "18年以前的跑男也太有排面了",
+        "onboard_time": 1723593560,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230764,
+        "num": 230764,
+        "word": "黑神话",
+        "onboard_time": 1723598183,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156663,
+        "num": 230664,
+        "word": "刘宇宁录节目越录越害怕",
+        "onboard_time": 1723570694,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151444,
+        "num": 230632,
+        "word": "黄朔 玩抽象",
+        "onboard_time": 1723595121,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230602,
+        "num": 230602,
+        "word": "俄乌局势新进展",
+        "onboard_time": 1723563500,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 229076,
+        "num": 229076,
+        "word": "今天末伏第一天",
+        "onboard_time": 1723599739,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217058,
+        "num": 217058,
+        "word": "保持低体脂的6个小习惯",
+        "onboard_time": 1723592958,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 212114,
+        "num": 212114,
+        "word": "王楚钦至今对亚运会发型耿耿于怀",
+        "onboard_time": 1723594160,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206657,
+        "num": 206657,
+        "word": "拿着两块银牌到处显摆的小莫",
+        "onboard_time": 1723592958,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164993,
+        "num": 197548,
+        "word": "外卖员称超时被投诉最高罚200元",
+        "onboard_time": 1723597821,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195771,
+        "num": 195771,
+        "word": "王楚钦 我的乒乓生涯远没有结束",
+        "onboard_time": 1723554020,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194914,
+        "num": 194914,
+        "word": "变老的明显迹象是什么",
+        "onboard_time": 1723593741,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194323,
+        "num": 194323,
+        "word": "以为正常但其实睡眠不足的表现",
+        "onboard_time": 1723595300,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 189474,
+        "num": 189474,
+        "word": "酒桌文化会被90后00后终结吗",
+        "onboard_time": 1723593439,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184091,
+        "num": 184091,
+        "word": "猫 这回你满意了",
+        "onboard_time": 1723597580,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181268,
+        "num": 181268,
+        "word": "5个洗头习惯让头发越来越少",
+        "onboard_time": 1723599140,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 172417,
+        "num": 172417,
+        "word": "村里第一个空姐裸辞回家7年后蜕变",
+        "onboard_time": 1723599800,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169029,
+        "num": 169029,
+        "word": "邱指导看孙颖莎的眼神好宠溺",
+        "onboard_time": 1723596081,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159846,
+        "num": 159846,
+        "word": "大人把2个娃塞后备箱还违章行驶",
+        "onboard_time": 1723573573,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158206,
+        "num": 158206,
+        "word": "韩国人吃的泡菜主要来自中国",
+        "onboard_time": 1723599440,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 155448,
+        "num": 155448,
+        "word": "全红婵哥哥回应挤不进村",
+        "onboard_time": 1723588094,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153678,
+        "num": 153678,
+        "word": "男子打球后喝了口冰饮料心肌梗死",
+        "onboard_time": 1723574892,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144233,
+        "num": 144233,
+        "word": "黑神话悟空泄露",
+        "onboard_time": 1723600039,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142218,
+        "num": 142218,
+        "word": "泽连斯基称乌方的谈判筹码正在增加",
+        "onboard_time": 1723595782,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民有所呼改革有所应#"
+    }
+  }
+}
