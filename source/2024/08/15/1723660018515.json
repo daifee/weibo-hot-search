@@ -1,0 +1,410 @@
+{
+  "runTime": 1723660018515,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 729961,
+        "num": 729961,
+        "word": "广东本轮新冠感染年轻人症状更明显",
+        "onboard_time": 1723655715,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435875,
+        "num": 435875,
+        "word": "全球新冠病毒感染率正激增",
+        "onboard_time": 1723651940,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2562,
+        "num": 354370,
+        "word": "何以中国行走河南",
+        "onboard_time": 1723641020,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276099,
+        "num": 276099,
+        "word": "让你长胖的5个睡前习惯",
+        "onboard_time": 1723651341,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 177048,
+        "num": 177048,
+        "word": "长荣桂冠酒店台籍经理剪掉五星红旗",
+        "onboard_time": 1723648702,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165693,
+        "num": 165693,
+        "word": "新冠",
+        "onboard_time": 1723654157,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120790,
+        "num": 165241,
+        "word": "日本无条件投降79周年",
+        "onboard_time": 1723651341,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117793,
+        "num": 159718,
+        "word": "齐思钧录制事故问杜海涛怎么办",
+        "onboard_time": 1723646784,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106634,
+        "num": 155772,
+        "word": "知道李纯为什么喜欢马頔了",
+        "onboard_time": 1723644621,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38279,
+        "num": 147572,
+        "word": "躺马路被车碾压小孩已就医",
+        "onboard_time": 1723649481,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509367,
+        "num": 145640,
+        "word": "女孩遭教官强奸后跳楼父亲发声",
+        "onboard_time": 1723642821,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381308,
+        "num": 140888,
+        "word": "孙颖莎樊振东取关早田希娜",
+        "onboard_time": 1723631420,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309155,
+        "num": 137100,
+        "word": "中美篮球赛爆发大规模冲突",
+        "onboard_time": 1723649360,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270559,
+        "num": 130564,
+        "word": "女子地铁上摸大爷身体吓跑同排乘客",
+        "onboard_time": 1723647561,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128179,
+        "num": 128179,
+        "word": "房价很低很宜居的小城市",
+        "onboard_time": 1723648342,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122480,
+        "num": 122480,
+        "word": "云南丽江3.0级地震",
+        "onboard_time": 1723648282,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107107,
+        "num": 107107,
+        "word": "警方回应小孩闹脾气躺马路被车碾轧",
+        "onboard_time": 1723640059,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60828,
+        "num": 104271,
+        "word": "张晚意也在关注莎头组合",
+        "onboard_time": 1723648942,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53235,
+        "num": 104021,
+        "word": "斓曦 生孩子是没有回头路的",
+        "onboard_time": 1723629689,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47780,
+        "num": 99934,
+        "word": "黄嘉千夏克立离婚成功",
+        "onboard_time": 1723641560,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163292,
+        "num": 96095,
+        "word": "快乐星球 还我妈生七国语言",
+        "onboard_time": 1723655715,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162517,
+        "num": 94506,
+        "word": "不能拜的日本神社",
+        "onboard_time": 1723656075,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92088,
+        "num": 92088,
+        "word": "乌军袭击俄罗斯4个军用机场",
+        "onboard_time": 1723643421,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 88547,
+        "num": 88547,
+        "word": "小莫说王楚钦英语比樊振东好",
+        "onboard_time": 1723644801,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83011,
+        "num": 83011,
+        "word": "被孙颖莎抬手嘘帅到了",
+        "onboard_time": 1723651640,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80745,
+        "num": 80745,
+        "word": "极氪已报警",
+        "onboard_time": 1723648521,
+        "rank": 25,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 78113,
+        "num": 78113,
+        "word": "张博恒扫楼",
+        "onboard_time": 1723638140,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71459,
+        "num": 71459,
+        "word": "澳10岁华裔女孩疑遭母亲割喉谋杀",
+        "onboard_time": 1723644321,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71012,
+        "num": 71012,
+        "word": "莫斯科",
+        "onboard_time": 1723645521,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 69471,
+        "num": 69471,
+        "word": "被俘乌克兰士兵喊话泽连斯基",
+        "onboard_time": 1723644201,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 64817,
+        "num": 64817,
+        "word": "韩国印度沙特欲角逐奥运主办权",
+        "onboard_time": 1723645162,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64620,
+        "num": 64620,
+        "word": "给父母转了很多钱却不舍得给我",
+        "onboard_time": 1723640780,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 63965,
+        "num": 63965,
+        "word": "1945年8月15日的报纸头条",
+        "onboard_time": 1723656254,
+        "rank": 32,
+        "category": "社会新闻,国外时政"
+      },
+      {
+        "raw_hot": 62249,
+        "num": 62249,
+        "word": "黄一鸣自曝收到男网友求爱私信",
+        "onboard_time": 1723641919,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40505,
+        "num": 62058,
+        "word": "种地吧或需在内容与流量间作选择",
+        "onboard_time": 1723637961,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61973,
+        "num": 61973,
+        "word": "警方通报少女训练营被强奸",
+        "onboard_time": 1723623681,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60778,
+        "num": 60778,
+        "word": "TFBOYS全员加速中最新花絮",
+        "onboard_time": 1723635981,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54527,
+        "num": 54527,
+        "word": "第一次看到用这个emoji的爱豆",
+        "onboard_time": 1723639100,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 50969,
+        "num": 50969,
+        "word": "女子持1万3存款提前退休",
+        "onboard_time": 1723646541,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47222,
+        "num": 47222,
+        "word": "马龙这个叫超绝什么感来着",
+        "onboard_time": 1723648891,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39468,
+        "num": 47072,
+        "word": "景甜我的手就是尺",
+        "onboard_time": 1723655416,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46946,
+        "num": 46946,
+        "word": "55岁没生过孩子真的后悔吗",
+        "onboard_time": 1723645162,
+        "rank": 41,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 46164,
+        "num": 46164,
+        "word": "凯迪拉克 极氪",
+        "onboard_time": 1723642159,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 42547,
+        "num": 46154,
+        "word": "印度一女实习医生在医院惨遭奸杀",
+        "onboard_time": 1723631241,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41530,
+        "num": 46141,
+        "word": "i人和e人的幸福清单",
+        "onboard_time": 1723650501,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 38898,
+        "num": 46131,
+        "word": "王源的体重只有50公斤",
+        "onboard_time": 1723629260,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37733,
+        "num": 46122,
+        "word": "杨幂新商务预热",
+        "onboard_time": 1723651459,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 35361,
+        "num": 46103,
+        "word": "如何确定一个人值不值得深交",
+        "onboard_time": 1723657633,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34800,
+        "num": 46088,
+        "word": "光与夜之恋",
+        "onboard_time": 1723659673,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 34719,
+        "num": 46074,
+        "word": "男子结婚22年胖30斤无奈夹断婚戒",
+        "onboard_time": 1723638140,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平回信勉励湖北十堰丹江口库区的环保志愿者#"
+    }
+  }
+}
