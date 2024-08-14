@@ -1,0 +1,410 @@
+{
+  "runTime": 1723612800899,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1432316,
+        "num": 1432316,
+        "word": "日本地震",
+        "onboard_time": 1723600939,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1224587,
+        "num": 1224587,
+        "word": "暑期档票房 惨淡",
+        "onboard_time": 1723607902,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25699,
+        "num": 1035779,
+        "word": "祖国大地丰收图景好壮丽",
+        "onboard_time": 1723605740,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 911049,
+        "num": 911049,
+        "word": "张翰油过没丑过",
+        "onboard_time": 1723603880,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 898422,
+        "num": 898422,
+        "word": "女子买回15厘米多肉4年后变3米",
+        "onboard_time": 1723593980,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 847092,
+        "num": 847092,
+        "word": "第一批奥运冠军已在家炒菜刷碗",
+        "onboard_time": 1723608620,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 620303,
+        "num": 620303,
+        "word": "网友曝海底捞小零食收费",
+        "onboard_time": 1723609761,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 582431,
+        "num": 582431,
+        "word": "有人宁可损失4万中断日本游飞回国",
+        "onboard_time": 1723605501,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461358,
+        "num": 579223,
+        "word": "日本首相岸田文雄将辞职",
+        "onboard_time": 1723602079,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 106542,
+        "num": 575852,
+        "word": "水煮蛋有黑斑店家称是受精蛋",
+        "onboard_time": 1723611622,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 871457,
+        "num": 573114,
+        "word": "全红婵全家搬去偏僻果园住",
+        "onboard_time": 1723593679,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 615442,
+        "num": 570844,
+        "word": "赵丽颖以前的工作是我梦寐以求的",
+        "onboard_time": 1723608322,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 567229,
+        "num": 567229,
+        "word": "已经不再是以前的乒乓球了",
+        "onboard_time": 1723608260,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 564864,
+        "num": 564864,
+        "word": "黄子韬回复鹿晗",
+        "onboard_time": 1723604121,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57917,
+        "num": 533269,
+        "word": "一个县的教育反内卷实验",
+        "onboard_time": 1723611622,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 17290,
+        "num": 530352,
+        "word": "如果汽车也有万向轮",
+        "onboard_time": 1723608322,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 530332,
+        "num": 530332,
+        "word": "小莫跟女朋友约会都要带着银牌",
+        "onboard_time": 1723611142,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 534708,
+        "num": 522011,
+        "word": "徐艺洋亲黄子韬脸",
+        "onboard_time": 1723612290,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474199,
+        "num": 474199,
+        "word": "田曦薇回头那一下世界都亮了",
+        "onboard_time": 1723607722,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196160,
+        "num": 444630,
+        "word": "古偶界最会搞钱的女主",
+        "onboard_time": 1723609461,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 593127,
+        "num": 444221,
+        "word": "室友考公要跟我报一个岗位",
+        "onboard_time": 1723608260,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 442104,
+        "num": 442104,
+        "word": "王楚钦一见到爸妈眼神立马变小朋友",
+        "onboard_time": 1723610001,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 420951,
+        "num": 420951,
+        "word": "曝安以轩从未探视过陈荣炼",
+        "onboard_time": 1723605621,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409029,
+        "num": 409029,
+        "word": "王楚钦回应和樊振东躲马龙身后傻乐",
+        "onboard_time": 1723601780,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 388840,
+        "num": 388840,
+        "word": "陈晓妈妈陪伴陈晓工作",
+        "onboard_time": 1723612162,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 382190,
+        "num": 382190,
+        "word": "男房东浴室装摄像头偷窥女租客一年",
+        "onboard_time": 1723595300,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367091,
+        "num": 367091,
+        "word": "只有老师才知道这样会有多省事",
+        "onboard_time": 1723608022,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 361389,
+        "num": 361389,
+        "word": "男士35岁后生的孩子有啥风险",
+        "onboard_time": 1723610783,
+        "rank": 27,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 341851,
+        "num": 341851,
+        "word": "男子被女友催债1.5万划15辆车泄愤",
+        "onboard_time": 1723608260,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339825,
+        "num": 339825,
+        "word": "月薪4300一个月的存钱计划",
+        "onboard_time": 1723594642,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 322177,
+        "num": 322177,
+        "word": "王一博狗啃发尾",
+        "onboard_time": 1723609222,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 292833,
+        "num": 292833,
+        "word": "俄罗斯别尔哥罗德州宣布进入紧急状态",
+        "onboard_time": 1723608322,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 285895,
+        "num": 285895,
+        "word": "原来高铁中间不能穿过去",
+        "onboard_time": 1723607663,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 276145,
+        "num": 276145,
+        "word": "奥运跳水10米台决赛收视率第一",
+        "onboard_time": 1723605020,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274114,
+        "num": 274114,
+        "word": "孙颖莎回应指挥中朝韩选手合影",
+        "onboard_time": 1723608620,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272210,
+        "num": 272210,
+        "word": "傅园慧 居然问我会不会游泳",
+        "onboard_time": 1723611562,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259156,
+        "num": 259156,
+        "word": "谁懂那英这张图",
+        "onboard_time": 1723608981,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255067,
+        "num": 255067,
+        "word": "村里第一个空姐裸辞回家7年后蜕变",
+        "onboard_time": 1723599800,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252755,
+        "num": 252755,
+        "word": "星穹铁道椒丘",
+        "onboard_time": 1723612041,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 249677,
+        "num": 249677,
+        "word": "末伏",
+        "onboard_time": 1723598120,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246583,
+        "num": 246583,
+        "word": "孙颖莎管泽元合影",
+        "onboard_time": 1723611921,
+        "rank": 40,
+        "category": "体育,电竞"
+      },
+      {
+        "raw_hot": 242648,
+        "num": 242648,
+        "word": "落落大方的性格真的很加分",
+        "onboard_time": 1723612761,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231225,
+        "num": 231225,
+        "word": "以前的杨幂有种吸了精气的美",
+        "onboard_time": 1723612640,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 229363,
+        "num": 229363,
+        "word": "张杰把女儿扛在肩上",
+        "onboard_time": 1723604002,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226053,
+        "num": 226053,
+        "word": "汪东城 内娱男菩萨",
+        "onboard_time": 1723612401,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 220058,
+        "num": 220058,
+        "word": "日本拟于15日结束大地震警惕期",
+        "onboard_time": 1723610842,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218770,
+        "num": 218770,
+        "word": "落马女厅官姐弟3人全坐牢",
+        "onboard_time": 1723608801,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214445,
+        "num": 214445,
+        "word": "全红婵把丑鱼拖鞋给穿包浆了",
+        "onboard_time": 1723612761,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213142,
+        "num": 213142,
+        "word": "5个洗头习惯让头发越来越少",
+        "onboard_time": 1723599140,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 167514,
+        "num": 208301,
+        "word": "谁家古偶剧天天都有床戏",
+        "onboard_time": 1723612401,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#为党交一大批肝胆相照的党外朋友#"
+    }
+  }
+}

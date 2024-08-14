@@ -1,6 +1,6 @@
 {
   "startTime": 1723566286207,
-  "endTime": 1723610260653,
+  "endTime": 1723612800899,
   "band_list": [
     {
       "raw_hot": 2791404,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 847092,
+      "num": 847092,
+      "word": "第一批奥运冠军已在家炒菜刷碗",
+      "onboard_time": 1723608620,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 823513,
       "num": 823513,
       "word": "保时捷与电动车碰撞后撞树起火车主死亡",
@@ -275,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 620303,
+      "num": 620303,
+      "word": "网友曝海底捞小零食收费",
+      "onboard_time": 1723609761,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 614892,
       "num": 614892,
       "word": "王楚钦 我的乒乓生涯远没有结束",
@@ -307,7 +323,15 @@
       "category": "体育"
     },
     {
-      "raw_hot": 572958,
+      "raw_hot": 593127,
+      "num": 444221,
+      "word": "室友考公要跟我报一个岗位",
+      "onboard_time": 1723608260,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 582431,
       "num": 702168,
       "word": "有人宁可损失4万中断日本游飞回国",
       "onboard_time": 1723605501,
@@ -321,6 +345,14 @@
       "onboard_time": 1723593980,
       "rank": 21,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 567229,
+      "num": 567229,
+      "word": "已经不再是以前的乒乓球了",
+      "onboard_time": 1723608260,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 560181,
@@ -355,6 +387,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 534708,
+      "num": 522011,
+      "word": "徐艺洋亲黄子韬脸",
+      "onboard_time": 1723612290,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 533983,
       "num": 533983,
       "word": "司机亲友就男孩骑行遭汽车碾压发声",
@@ -363,12 +403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 508929,
-      "num": 414848,
-      "word": "室友考公要跟我报一个岗位",
-      "onboard_time": 1723608260,
-      "rank": 21,
-      "category": "情感"
+      "raw_hot": 530332,
+      "num": 530332,
+      "word": "小莫跟女朋友约会都要带着银牌",
+      "onboard_time": 1723611142,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 493745,
@@ -387,19 +427,19 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 460363,
-      "num": 460363,
+      "raw_hot": 474199,
+      "num": 474199,
       "word": "田曦薇回头那一下世界都亮了",
       "onboard_time": 1723607722,
       "rank": 20,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 445947,
-      "num": 445947,
-      "word": "已经不再是以前的乒乓球了",
-      "onboard_time": 1723608260,
-      "rank": 23,
+      "raw_hot": 442104,
+      "num": 442104,
+      "word": "王楚钦一见到爸妈眼神立马变小朋友",
+      "onboard_time": 1723610001,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -451,6 +491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 388840,
+      "num": 388840,
+      "word": "陈晓妈妈陪伴陈晓工作",
+      "onboard_time": 1723612162,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 383016,
       "num": 383016,
       "word": "男子被女友催债1.5万划15辆车泄愤",
@@ -475,6 +523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 367091,
+      "num": 367091,
+      "word": "只有老师才知道这样会有多省事",
+      "onboard_time": 1723608022,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 363806,
       "num": 363806,
       "word": "孙颖莎回应指挥中朝韩选手合影",
@@ -483,12 +539,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 363477,
-      "num": 363477,
-      "word": "第一批奥运冠军已在家炒菜刷碗",
-      "onboard_time": 1723608620,
-      "rank": 36,
-      "category": "体育"
+      "raw_hot": 361389,
+      "num": 361389,
+      "word": "男士35岁后生的孩子有啥风险",
+      "onboard_time": 1723610783,
+      "rank": 27,
+      "category": "科学科普"
     },
     {
       "raw_hot": 356493,
@@ -529,14 +585,6 @@
       "onboard_time": 1723601599,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 339972,
-      "num": 339972,
-      "word": "网友曝海底捞小零食收费",
-      "onboard_time": 1723609761,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 338092,
@@ -651,6 +699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272210,
+      "num": 272210,
+      "word": "傅园慧 居然问我会不会游泳",
+      "onboard_time": 1723611562,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 270132,
       "num": 270132,
       "word": "拿着两块银牌到处显摆的小莫",
@@ -699,12 +755,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 253990,
-      "num": 253990,
-      "word": "王楚钦一见到爸妈眼神立马变小朋友",
-      "onboard_time": 1723610001,
-      "rank": 37,
-      "category": "体育"
+      "raw_hot": 252755,
+      "num": 252755,
+      "word": "星穹铁道椒丘",
+      "onboard_time": 1723612041,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 249341,
@@ -713,6 +769,22 @@
       "onboard_time": 1723593679,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 246583,
+      "num": 246583,
+      "word": "孙颖莎管泽元合影",
+      "onboard_time": 1723611921,
+      "rank": 40,
+      "category": "体育,电竞"
+    },
+    {
+      "raw_hot": 242648,
+      "num": 242648,
+      "word": "落落大方的性格真的很加分",
+      "onboard_time": 1723612761,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 240261,
@@ -747,6 +819,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 231225,
+      "num": 231225,
+      "word": "以前的杨幂有种吸了精气的美",
+      "onboard_time": 1723612640,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 230764,
       "num": 230764,
       "word": "黑神话",
@@ -763,12 +843,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 227553,
-      "num": 227553,
-      "word": "只有老师才知道这样会有多省事",
-      "onboard_time": 1723608022,
-      "rank": 41,
-      "category": "教育"
+      "raw_hot": 226053,
+      "num": 226053,
+      "word": "汪东城 内娱男菩萨",
+      "onboard_time": 1723612401,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 220575,
@@ -787,12 +867,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 220058,
+      "num": 220058,
+      "word": "日本拟于15日结束大地震警惕期",
+      "onboard_time": 1723610842,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219482,
       "num": 219482,
       "word": "猫 这回你满意了",
       "onboard_time": 1723597580,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 218770,
+      "num": 218770,
+      "word": "落马女厅官姐弟3人全坐牢",
+      "onboard_time": 1723608801,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218648,
@@ -809,6 +905,14 @@
       "onboard_time": 1723538842,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214445,
+      "num": 214445,
+      "word": "全红婵把丑鱼拖鞋给穿包浆了",
+      "onboard_time": 1723612761,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 212114,
@@ -875,6 +979,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 196160,
+      "num": 444630,
+      "word": "古偶界最会搞钱的女主",
+      "onboard_time": 1723609461,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194182,
       "num": 194182,
       "word": "漫画怦然心动回归",
@@ -889,22 +1001,6 @@
       "onboard_time": 1723563681,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 191288,
-      "num": 191288,
-      "word": "落马女厅官姐弟3人全坐牢",
-      "onboard_time": 1723608801,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191279,
-      "num": 191279,
-      "word": "古偶界最会搞钱的女主",
-      "onboard_time": 1723609461,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 188043,
@@ -1025,6 +1121,14 @@
       "onboard_time": 1723596081,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167514,
+      "num": 208301,
+      "word": "谁家古偶剧天天都有床戏",
+      "onboard_time": 1723612401,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 166360,
@@ -1347,6 +1451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106542,
+      "num": 575852,
+      "word": "水煮蛋有黑斑店家称是受精蛋",
+      "onboard_time": 1723611622,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106051,
       "num": 495889,
       "word": "警方回应悉尼一公寓2亚裔死亡",
@@ -1427,6 +1539,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 57917,
+      "num": 533269,
+      "word": "一个县的教育反内卷实验",
+      "onboard_time": 1723611622,
+      "rank": 14,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 54559,
       "num": 890491,
       "word": "美方称没参与乌军袭击库尔斯克",
@@ -1436,7 +1556,7 @@
     },
     {
       "raw_hot": 54149,
-      "num": 505045,
+      "num": 530352,
       "word": "如果汽车也有万向轮",
       "onboard_time": 1723608322,
       "rank": 34,
