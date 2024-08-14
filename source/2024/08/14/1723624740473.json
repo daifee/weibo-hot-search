@@ -1,0 +1,410 @@
+{
+  "runTime": 1723624740473,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2124685,
+        "num": 2124685,
+        "word": "孙颖莎 环球影城",
+        "onboard_time": 1723620440,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1415413,
+        "num": 1415413,
+        "word": "中国40枚金牌印度坐不住",
+        "onboard_time": 1723617803,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44856,
+        "num": 1368313,
+        "word": "当暑期游遇到文旅热",
+        "onboard_time": 1723623319,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1346248,
+        "num": 1346248,
+        "word": "警方通报少女训练营被强奸",
+        "onboard_time": 1723623681,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1253846,
+        "num": 1253846,
+        "word": "郑钦文的金牌已经回国了",
+        "onboard_time": 1723619061,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1090242,
+        "num": 1090242,
+        "word": "日本巨大地震预警8月15日解除",
+        "onboard_time": 1723618042,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1033491,
+        "num": 1033491,
+        "word": "加沙男子正办出生证明妻儿被炸死",
+        "onboard_time": 1723616061,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 644338,
+        "num": 912364,
+        "word": "贾玲胜诉",
+        "onboard_time": 1723613302,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497968,
+        "num": 895123,
+        "word": "徐艺洋亲黄子韬脸",
+        "onboard_time": 1723612290,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59422,
+        "num": 890917,
+        "word": "岸田文雄为何突然宣布辞职",
+        "onboard_time": 1723620622,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 890096,
+        "num": 890096,
+        "word": "中秋放假调休通知",
+        "onboard_time": 1723623500,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 846440,
+        "num": 846440,
+        "word": "网友曝海底捞小零食收费",
+        "onboard_time": 1723609761,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 573946,
+        "num": 573946,
+        "word": "第一批奥运冠军已在家炒菜刷碗",
+        "onboard_time": 1723608620,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 517481,
+        "num": 517481,
+        "word": "王楚钦一见到爸妈眼神立马变小朋友",
+        "onboard_time": 1723610001,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 435298,
+        "num": 435298,
+        "word": "汪东城 内娱男菩萨",
+        "onboard_time": 1723612401,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 426463,
+        "num": 426463,
+        "word": "小莫跟女朋友约会都要带着银牌",
+        "onboard_time": 1723611142,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 392601,
+        "num": 392601,
+        "word": "她为避嫌删好友却再没能加回",
+        "onboard_time": 1723623741,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302608,
+        "num": 390809,
+        "word": "理解虞书欣说的一眼一头的区别了",
+        "onboard_time": 1723619781,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 271572,
+        "num": 384894,
+        "word": "张翰油过没丑过",
+        "onboard_time": 1723603880,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 215556,
+        "num": 380225,
+        "word": "柳舟记 你俩亲嘴得哐哐作响吧",
+        "onboard_time": 1723623200,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 565339,
+        "num": 375438,
+        "word": "樊振东 国宝级别的可爱",
+        "onboard_time": 1723619721,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 371658,
+        "num": 371658,
+        "word": "傅园慧 居然问我会不会游泳",
+        "onboard_time": 1723611562,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 366736,
+        "num": 366736,
+        "word": "全红婵全家搬去偏僻果园住",
+        "onboard_time": 1723593679,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 314057,
+        "num": 314057,
+        "word": "梁伟铿王昶双人封面",
+        "onboard_time": 1723622845,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266682,
+        "num": 266682,
+        "word": "日本地震",
+        "onboard_time": 1723600939,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266439,
+        "num": 266439,
+        "word": "轻断食第二天吃了25个鸡蛋",
+        "onboard_time": 1723619421,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 256665,
+        "num": 256665,
+        "word": "潘展乐老家办庆功宴",
+        "onboard_time": 1723616542,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239302,
+        "num": 239302,
+        "word": "第一次见定档公开聊天记录的",
+        "onboard_time": 1723617623,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189099,
+        "num": 230622,
+        "word": "蔡徐坤时尚先生九月刊预告",
+        "onboard_time": 1723620622,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 188021,
+        "num": 228241,
+        "word": "蔡少芬 我的生活不能围着孩子",
+        "onboard_time": 1723615762,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228196,
+        "num": 228196,
+        "word": "韩路 陈震",
+        "onboard_time": 1723613360,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 218664,
+        "num": 218664,
+        "word": "室友考公要跟我报一个岗位",
+        "onboard_time": 1723608260,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218015,
+        "num": 218015,
+        "word": "环球影城偶遇汪顺孙佳俊",
+        "onboard_time": 1723617202,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204443,
+        "num": 204443,
+        "word": "原731成员揭731部队的标本室惨绝人寰",
+        "onboard_time": 1723613542,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203960,
+        "num": 203960,
+        "word": "把床撤掉就是一个正经厨房了",
+        "onboard_time": 1723616061,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203331,
+        "num": 203331,
+        "word": "原来网球王子里演的都是真的",
+        "onboard_time": 1723623681,
+        "rank": 35,
+        "category": "体育,动漫"
+      },
+      {
+        "raw_hot": 196061,
+        "num": 196061,
+        "word": "年轻人花500元和纸片人约会",
+        "onboard_time": 1723622423,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194302,
+        "num": 194302,
+        "word": "性别争议拳手起诉马斯克JK罗琳",
+        "onboard_time": 1723624520,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192654,
+        "num": 192654,
+        "word": "偶遇孙颖莎直播前理发",
+        "onboard_time": 1723619120,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187965,
+        "num": 187965,
+        "word": "男朋友坚持在婚礼上唱这首歌",
+        "onboard_time": 1723618639,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187042,
+        "num": 187042,
+        "word": "陈晓妈妈陪伴陈晓工作",
+        "onboard_time": 1723612162,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186718,
+        "num": 186718,
+        "word": "H腰对运动员有多重要",
+        "onboard_time": 1723624163,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 183579,
+        "num": 183579,
+        "word": "印媒关注中印奥运金牌差距",
+        "onboard_time": 1723615942,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181217,
+        "num": 181217,
+        "word": "落落大方的性格真的很加分",
+        "onboard_time": 1723612761,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170343,
+        "num": 170343,
+        "word": "末伏",
+        "onboard_time": 1723598120,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170068,
+        "num": 170068,
+        "word": "田曦薇回头那一下世界都亮了",
+        "onboard_time": 1723607722,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169782,
+        "num": 169782,
+        "word": "全红婵把丑鱼拖鞋给穿包浆了",
+        "onboard_time": 1723612761,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168587,
+        "num": 168587,
+        "word": "查尔莫斯采访中提到潘展乐",
+        "onboard_time": 1723624520,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162376,
+        "num": 162376,
+        "word": "石凯告状尤长靖三年才回关",
+        "onboard_time": 1723621521,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159501,
+        "num": 159501,
+        "word": "赵丽颖以前的工作是我梦寐以求的",
+        "onboard_time": 1723608322,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#为党交一大批肝胆相照的党外朋友#"
+    }
+  }
+}
