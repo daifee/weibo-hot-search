@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1723749367835,
+  "endTime": 1723750543224,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -46491,6 +46491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35162,
+      "num": 49452,
+      "word": "炎亚纶点赞辰亦儒曾之乔",
+      "onboard_time": 1723748651,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35156,
       "num": 393500,
       "word": "王柳懿王芊懿技术自选排名第一",
@@ -46505,14 +46513,6 @@
       "onboard_time": 1722853827,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35016,
-      "num": 45224,
-      "word": "炎亚纶点赞辰亦儒曾之乔",
-      "onboard_time": 1723748651,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 34915,
@@ -46625,6 +46625,14 @@
       "onboard_time": 1722430044,
       "rank": 2,
       "category": "军事"
+    },
+    {
+      "raw_hot": 33664,
+      "num": 84311,
+      "word": "外交部回应日方涉靖国神社错误行径",
+      "onboard_time": 1723747152,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 33610,
@@ -46875,14 +46883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30893,
-      "num": 84311,
-      "word": "外交部回应日方涉靖国神社错误行径",
-      "onboard_time": 1723747152,
-      "rank": 49,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 30771,
       "num": 1717301,
       "word": "全国秋粮面积稳中有增",
@@ -47017,6 +47017,14 @@
       "onboard_time": 1723456823,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29121,
+      "num": 33160,
+      "word": "火腿肠卖不动了吗",
+      "onboard_time": 1723749851,
+      "rank": 42,
+      "category": "社会议题"
     },
     {
       "raw_hot": 28886,
@@ -47209,6 +47217,14 @@
       "onboard_time": 1723102645,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 25327,
+      "num": 33155,
+      "word": "杭州地铁回应女子地铁上触摸大爷",
+      "onboard_time": 1723750271,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25188,
