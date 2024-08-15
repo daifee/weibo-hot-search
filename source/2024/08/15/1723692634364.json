@@ -1,0 +1,410 @@
+{
+  "runTime": 1723692634364,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2958745,
+        "num": 2958745,
+        "word": "结婚登记不再需要户口簿",
+        "onboard_time": 1723680139,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1679905,
+        "num": 1679905,
+        "word": "离婚冷静期",
+        "onboard_time": 1723683861,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45901,
+        "num": 1641215,
+        "word": "绘就美丽生态画卷",
+        "onboard_time": 1723691059,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1636085,
+        "num": 1636085,
+        "word": "张雨霏称有人想白拿pin自己当场拒绝",
+        "onboard_time": 1723688960,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1021660,
+        "num": 1021660,
+        "word": "长荣桂冠酒店台籍经理剪掉五星红旗",
+        "onboard_time": 1723648702,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 822957,
+        "num": 822957,
+        "word": "虞书欣 晓明哥我晒死了",
+        "onboard_time": 1723684401,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 770707,
+        "num": 770707,
+        "word": "日本无条件投降79周年",
+        "onboard_time": 1723651341,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 720992,
+        "num": 720992,
+        "word": "王鹤棣退出我的主场节目录制",
+        "onboard_time": 1723682543,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158118,
+        "num": 697653,
+        "word": "重大疾病不告知可以撤销婚姻",
+        "onboard_time": 1723691721,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605438,
+        "num": 685178,
+        "word": "长荣桂冠酒店",
+        "onboard_time": 1723678877,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 679446,
+        "num": 679446,
+        "word": "起底少女被侵犯的训练营",
+        "onboard_time": 1723687820,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643231,
+        "num": 643231,
+        "word": "上海大学cypher致歉",
+        "onboard_time": 1723686380,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 600342,
+        "num": 600342,
+        "word": "乌克兰表示无意永久占领俄罗斯领土",
+        "onboard_time": 1723684761,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 72894,
+        "num": 573411,
+        "word": "乌克兰籍嫌疑人涉嫌炸毁北溪管道",
+        "onboard_time": 1723690819,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 72156,
+        "num": 563402,
+        "word": "婚姻登记拟取消地域管辖限制",
+        "onboard_time": 1723691420,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560287,
+        "num": 560287,
+        "word": "30至44岁未婚女性比例大幅提高",
+        "onboard_time": 1723691841,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462256,
+        "num": 462256,
+        "word": "女子地铁上摸大爷身体吓跑同排乘客",
+        "onboard_time": 1723647561,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444003,
+        "num": 444003,
+        "word": "女主上高速 男主刚起步",
+        "onboard_time": 1723689560,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243165,
+        "num": 440026,
+        "word": "快乐星球 还我妈生七国语言",
+        "onboard_time": 1723655715,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237122,
+        "num": 434472,
+        "word": "上海大学cypher",
+        "onboard_time": 1723681041,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 3149714,
+        "num": 431198,
+        "word": "怀疑老公出轨拍下偷吃画面",
+        "onboard_time": 1723689379,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 588798,
+        "num": 426896,
+        "word": "博主连吃80个内蒙古烧麦",
+        "onboard_time": 1723687880,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 422418,
+        "num": 422418,
+        "word": "女孩遭教官强奸后跳楼父亲发声",
+        "onboard_time": 1723642821,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402716,
+        "num": 402716,
+        "word": "姿态羞辱otto",
+        "onboard_time": 1723691420,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 343178,
+        "num": 343178,
+        "word": "王楚钦微博粉丝破600万",
+        "onboard_time": 1723690520,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310929,
+        "num": 310929,
+        "word": "郑钦文成辛辛那提站独苗",
+        "onboard_time": 1723689861,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310077,
+        "num": 310077,
+        "word": "剑来开播",
+        "onboard_time": 1723688540,
+        "rank": 26,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 270194,
+        "num": 270194,
+        "word": "发现间谍行为马上拨打12339",
+        "onboard_time": 1723688300,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217254,
+        "num": 267647,
+        "word": "柳舟记第8集杀疯了",
+        "onboard_time": 1723684521,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42308,
+        "num": 267093,
+        "word": "俄称乌军主要目标是库尔斯克核电站",
+        "onboard_time": 1723692081,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 266627,
+        "num": 266627,
+        "word": "孙颖莎樊振东取关早田希娜",
+        "onboard_time": 1723631420,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262208,
+        "num": 262208,
+        "word": "让你长胖的5个睡前习惯",
+        "onboard_time": 1723651341,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 245559,
+        "num": 245559,
+        "word": "这段历史我们不能忘不敢忘",
+        "onboard_time": 1723685121,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 244221,
+        "num": 244221,
+        "word": "云南丽江3.0级地震",
+        "onboard_time": 1723648282,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239631,
+        "num": 239631,
+        "word": "离婚冷静期内任何一方可申请撤回",
+        "onboard_time": 1723691540,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233709,
+        "num": 233709,
+        "word": "躺马路被车碾压小孩已就医",
+        "onboard_time": 1723649481,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230254,
+        "num": 230254,
+        "word": "两位教练等待成绩的画面太可爱了",
+        "onboard_time": 1723690100,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171643,
+        "num": 227945,
+        "word": "前途无量定档",
+        "onboard_time": 1723690221,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200969,
+        "num": 226979,
+        "word": "耻辱柱 彩排",
+        "onboard_time": 1723692562,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175646,
+        "num": 226857,
+        "word": "演员吉娜罗兰兹去世",
+        "onboard_time": 1723692562,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226784,
+        "num": 226784,
+        "word": "今天是全国生态日",
+        "onboard_time": 1723682780,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216144,
+        "num": 216144,
+        "word": "小米SU7对撞测试博主道歉",
+        "onboard_time": 1723681401,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 207990,
+        "num": 207990,
+        "word": "离婚冷静期写入婚姻登记条例",
+        "onboard_time": 1723689620,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203776,
+        "num": 203776,
+        "word": "王昶回味梁伟铿的性格",
+        "onboard_time": 1723688779,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14181,
+        "num": 203740,
+        "word": "快乐会传染的出片秘诀",
+        "onboard_time": 1723691960,
+        "rank": 44,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 203723,
+        "num": 203723,
+        "word": "服装模特改行当陪诊师月入过万",
+        "onboard_time": 1723691901,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180812,
+        "num": 180812,
+        "word": "腾讯回应苹果税",
+        "onboard_time": 1723692320,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 175193,
+        "num": 175193,
+        "word": "张雨霏体能王",
+        "onboard_time": 1723691300,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174116,
+        "num": 174116,
+        "word": "亲历者口述日本投降那一天",
+        "onboard_time": 1723685181,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 173354,
+        "num": 173354,
+        "word": "苹果手机NFC芯片将开放",
+        "onboard_time": 1723685060,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对生态文明建设的殷殷嘱托#"
+    }
+  }
+}
