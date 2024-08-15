@@ -1,0 +1,410 @@
+{
+  "runTime": 1723688708625,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3235382,
+        "num": 3235382,
+        "word": "结婚登记不再需要户口簿",
+        "onboard_time": 1723680139,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2015928,
+        "num": 2015928,
+        "word": "上海大学",
+        "onboard_time": 1723681942,
+        "rank": 1,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 7524,
+        "num": 1933203,
+        "word": "何以中国行走河南",
+        "onboard_time": 1723641020,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1880589,
+        "num": 1880589,
+        "word": "离婚冷静期",
+        "onboard_time": 1723683861,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1302861,
+        "num": 1302861,
+        "word": "虞书欣 晓明哥我晒死了",
+        "onboard_time": 1723684401,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1180302,
+        "num": 1180302,
+        "word": "长荣桂冠酒店台籍经理剪掉五星红旗",
+        "onboard_time": 1723648702,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1140402,
+        "num": 1140402,
+        "word": "日本无条件投降79周年",
+        "onboard_time": 1723651341,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1073046,
+        "num": 1073046,
+        "word": "上海大学cypher致歉",
+        "onboard_time": 1723686380,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1006317,
+        "num": 1006317,
+        "word": "王鹤棣退出我的主场节目录制",
+        "onboard_time": 1723682543,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126645,
+        "num": 811528,
+        "word": "起底少女被侵犯的训练营",
+        "onboard_time": 1723687820,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 804439,
+        "num": 804439,
+        "word": "女子地铁上摸大爷身体吓跑同排乘客",
+        "onboard_time": 1723647561,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616112,
+        "num": 616112,
+        "word": "长荣桂冠酒店",
+        "onboard_time": 1723678877,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603661,
+        "num": 603661,
+        "word": "女孩遭教官强奸后跳楼父亲发声",
+        "onboard_time": 1723642821,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550774,
+        "num": 550774,
+        "word": "躺马路被车碾压小孩已就医",
+        "onboard_time": 1723649481,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490510,
+        "num": 490510,
+        "word": "广东本轮新冠感染年轻人症状更明显",
+        "onboard_time": 1723655715,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387380,
+        "num": 387380,
+        "word": "中美篮球赛爆发大规模冲突",
+        "onboard_time": 1723649360,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 363727,
+        "num": 363727,
+        "word": "王昶两眼一睁就是演",
+        "onboard_time": 1723680500,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 357101,
+        "num": 357101,
+        "word": "上海大学cypher",
+        "onboard_time": 1723681041,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 345522,
+        "num": 345522,
+        "word": "柳舟记第8集杀疯了",
+        "onboard_time": 1723684521,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333688,
+        "num": 344947,
+        "word": "快乐星球 还我妈生七国语言",
+        "onboard_time": 1723655715,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 489846,
+        "num": 344903,
+        "word": "让你长胖的5个睡前习惯",
+        "onboard_time": 1723651341,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 353851,
+        "num": 344829,
+        "word": "博主连吃80个内蒙古烧麦",
+        "onboard_time": 1723687880,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 344683,
+        "num": 344683,
+        "word": "孙颖莎樊振东取关早田希娜",
+        "onboard_time": 1723631420,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333787,
+        "num": 333787,
+        "word": "乌克兰表示无意永久占领俄罗斯领土",
+        "onboard_time": 1723684761,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 320314,
+        "num": 320314,
+        "word": "云南丽江3.0级地震",
+        "onboard_time": 1723648282,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285950,
+        "num": 285950,
+        "word": "小米SU7对撞测试博主道歉",
+        "onboard_time": 1723681401,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 281206,
+        "num": 281206,
+        "word": "苹果手机NFC芯片将开放",
+        "onboard_time": 1723685060,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 202761,
+        "num": 276961,
+        "word": "龚俊苏暮雨白衣路透",
+        "onboard_time": 1723688419,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176941,
+        "num": 271853,
+        "word": "王菲周杰伦林俊杰的制作人集齐了",
+        "onboard_time": 1723679478,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125909,
+        "num": 255174,
+        "word": "景甜我的手就是尺",
+        "onboard_time": 1723655416,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303672,
+        "num": 248446,
+        "word": "杨幂下单等提",
+        "onboard_time": 1723688479,
+        "rank": 30,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 244986,
+        "num": 244986,
+        "word": "亲历者口述日本投降那一天",
+        "onboard_time": 1723685181,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 243111,
+        "num": 243111,
+        "word": "加沙3个月婴儿因空袭成孤儿",
+        "onboard_time": 1723683741,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240556,
+        "num": 240556,
+        "word": "这段历史我们不能忘不敢忘",
+        "onboard_time": 1723685121,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 232091,
+        "num": 232091,
+        "word": "再坚持一个月就放假了",
+        "onboard_time": 1723683921,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223850,
+        "num": 223850,
+        "word": "大熊猫打水仗输了火速逃离现场",
+        "onboard_time": 1723681160,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223151,
+        "num": 223151,
+        "word": "不能拜的日本神社",
+        "onboard_time": 1723656075,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210603,
+        "num": 210603,
+        "word": "房价很低很宜居的小城市",
+        "onboard_time": 1723648342,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205026,
+        "num": 205026,
+        "word": "有个不太健康的习惯叫穷思竭虑",
+        "onboard_time": 1723682301,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202009,
+        "num": 202009,
+        "word": "深圳回应大梅沙海水粪超标",
+        "onboard_time": 1723683140,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195737,
+        "num": 195737,
+        "word": "今天是全国生态日",
+        "onboard_time": 1723682780,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195106,
+        "num": 195106,
+        "word": "洛杉矶最受欢迎的烧烤店",
+        "onboard_time": 1723686499,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 192514,
+        "num": 192514,
+        "word": "剑来开播",
+        "onboard_time": 1723688540,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 192249,
+        "num": 192249,
+        "word": "发现间谍行为马上拨打12339",
+        "onboard_time": 1723688300,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191750,
+        "num": 191750,
+        "word": "极氪已报警",
+        "onboard_time": 1723648521,
+        "rank": 44,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 187484,
+        "num": 187484,
+        "word": "印度一动保官员性侵女童和山羊",
+        "onboard_time": 1723678817,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185445,
+        "num": 185445,
+        "word": "全球新冠病毒感染率正激增",
+        "onboard_time": 1723651940,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182903,
+        "num": 182903,
+        "word": "昶式生活哲学",
+        "onboard_time": 1723687400,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171140,
+        "num": 171140,
+        "word": "给父母转了很多钱却不舍得给我",
+        "onboard_time": 1723640780,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169338,
+        "num": 169338,
+        "word": "女子持1万3存款提前退休",
+        "onboard_time": 1723646541,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平回信勉励湖北十堰丹江口库区的环保志愿者#"
+    }
+  }
+}
