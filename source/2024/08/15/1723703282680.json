@@ -1,0 +1,410 @@
+{
+  "runTime": 1723703282680,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1899473,
+        "num": 1899473,
+        "word": "曾之乔官宣怀孕",
+        "onboard_time": 1723699102,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1510515,
+        "num": 1510515,
+        "word": "结婚登记不再需要户口簿",
+        "onboard_time": 1723680139,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6844,
+        "num": 1438818,
+        "word": "绘就美丽生态画卷",
+        "onboard_time": 1723691059,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1431030,
+        "num": 1431030,
+        "word": "离婚冷静期",
+        "onboard_time": 1723683861,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1227992,
+        "num": 1227992,
+        "word": "狗头萝莉回应女子称自己好看不排队",
+        "onboard_time": 1723697782,
+        "rank": 4,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1210438,
+        "num": 1210438,
+        "word": "黄一鸣晒婚纱照",
+        "onboard_time": 1723696162,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1138100,
+        "num": 1138100,
+        "word": "离婚冷静期内任何一方可申请撤回",
+        "onboard_time": 1723691540,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 970637,
+        "num": 970637,
+        "word": "陈奕迅cue全红婵",
+        "onboard_time": 1723700062,
+        "rank": 7,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 948181,
+        "num": 948181,
+        "word": "林更新 拿个破手机录录录",
+        "onboard_time": 1723695261,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122804,
+        "num": 809053,
+        "word": "一个藏在文身里的网红想要洗白自己",
+        "onboard_time": 1723697423,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 753443,
+        "num": 753443,
+        "word": "结婚登记不需要户口簿方便了谁",
+        "onboard_time": 1723698382,
+        "rank": 10,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 684194,
+        "num": 684194,
+        "word": "乌军前总司令下令炸毁北溪管道",
+        "onboard_time": 1723700181,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 651540,
+        "num": 651540,
+        "word": "30至44岁未婚女性比例大幅提高",
+        "onboard_time": 1723691841,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 648261,
+        "num": 648261,
+        "word": "离婚冷静期届满30天不办理视为撤回",
+        "onboard_time": 1723701621,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593031,
+        "num": 593031,
+        "word": "孙茜没参加陶昕然婚礼遗憾了十年",
+        "onboard_time": 1723700901,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 530028,
+        "num": 530028,
+        "word": "全红婵真的通过努力让全家人好起来了",
+        "onboard_time": 1723698022,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 472033,
+        "num": 472033,
+        "word": "以色列代表离场前说我们国家最道德",
+        "onboard_time": 1723693821,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 450925,
+        "num": 450925,
+        "word": "长荣酒店官网订房区分中国和台湾",
+        "onboard_time": 1723692799,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382463,
+        "num": 382463,
+        "word": "日本无条件投降79周年",
+        "onboard_time": 1723651341,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 291917,
+        "num": 373406,
+        "word": "十个勤天回到了后陡门家",
+        "onboard_time": 1723702700,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1424255,
+        "num": 373357,
+        "word": "世界上最大的诈骗 中国人的朋友圈",
+        "onboard_time": 1723701800,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 929647,
+        "num": 373341,
+        "word": "怀疑老公出轨拍下偷吃画面",
+        "onboard_time": 1723689379,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 373300,
+        "num": 373300,
+        "word": "章若楠要更改粉丝名了",
+        "onboard_time": 1723702281,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367454,
+        "num": 367454,
+        "word": "耻辱柱 彩排",
+        "onboard_time": 1723692562,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 330520,
+        "num": 330520,
+        "word": "江小宴说刘亦菲发型显老",
+        "onboard_time": 1723695742,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317790,
+        "num": 317790,
+        "word": "王昶 我有点想他了",
+        "onboard_time": 1723693162,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 311239,
+        "num": 311239,
+        "word": "男子恋爱豪掷280万分手追回240万",
+        "onboard_time": 1723695022,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280004,
+        "num": 280004,
+        "word": "李敏镐G社生图",
+        "onboard_time": 1723698261,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 279615,
+        "num": 279615,
+        "word": "刘亦菲露腿拍广告",
+        "onboard_time": 1723702041,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52127,
+        "num": 276549,
+        "word": "俄称在库尔斯克击退乌军6轮进攻",
+        "onboard_time": 1723703181,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 275057,
+        "num": 275057,
+        "word": "个人住房贷款首套房标准放宽",
+        "onboard_time": 1723697782,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255589,
+        "num": 255589,
+        "word": "长荣桂冠酒店台籍经理剪掉五星红旗",
+        "onboard_time": 1723648702,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249235,
+        "num": 249235,
+        "word": "德国发布北溪管道爆炸案首张逮捕令",
+        "onboard_time": 1723698742,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 248687,
+        "num": 248687,
+        "word": "山东一执法人员称干垮一个企业太简单",
+        "onboard_time": 1723700303,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248212,
+        "num": 248212,
+        "word": "张雨霏称有人想白拿pin自己当场拒绝",
+        "onboard_time": 1723688960,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246555,
+        "num": 246555,
+        "word": "上海一斤黄瓜6.3元",
+        "onboard_time": 1723694780,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227689,
+        "num": 227689,
+        "word": "种地星球直播",
+        "onboard_time": 1723697782,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219555,
+        "num": 219555,
+        "word": "华为Mate60系列官宣降价",
+        "onboard_time": 1723698922,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 217925,
+        "num": 217925,
+        "word": "任运杰直播",
+        "onboard_time": 1723702460,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211919,
+        "num": 211919,
+        "word": "咱妈的洗猫手法太小众了",
+        "onboard_time": 1723692799,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202600,
+        "num": 202600,
+        "word": "Twins吴谨言 我的浪3白月光",
+        "onboard_time": 1723701201,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202238,
+        "num": 202238,
+        "word": "王鹤棣退出我的主场节目录制",
+        "onboard_time": 1723682543,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199242,
+        "num": 199242,
+        "word": "长荣桂冠酒店",
+        "onboard_time": 1723678877,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195031,
+        "num": 195031,
+        "word": "为什么越来越多人选择晚婚",
+        "onboard_time": 1723702760,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186087,
+        "num": 186087,
+        "word": "结婚登记或将取消地域限制",
+        "onboard_time": 1723683202,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183958,
+        "num": 183958,
+        "word": "跳进地理书的旅行",
+        "onboard_time": 1723702821,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183856,
+        "num": 183856,
+        "word": "600多分放弃985他们说不后悔",
+        "onboard_time": 1723695502,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177158,
+        "num": 177158,
+        "word": "生态日看自然",
+        "onboard_time": 1723694662,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174461,
+        "num": 174461,
+        "word": "JackeyLove解释头大原因",
+        "onboard_time": 1723702341,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 169933,
+        "num": 169933,
+        "word": "剑来开播",
+        "onboard_time": 1723688540,
+        "rank": 49,
+        "category": "动漫,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈生态文明#"
+    }
+  }
+}
