@@ -1,0 +1,410 @@
+{
+  "runTime": 1723753264664,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 267965,
+        "num": 267965,
+        "word": "美国要和中国比基建结果连非洲都没比过",
+        "onboard_time": 1723745772,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194089,
+        "num": 194089,
+        "word": "婚姻登记取消户口簿彰显婚姻自由",
+        "onboard_time": 1723724602,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2055,
+        "num": 142752,
+        "word": "何以中国行走河南",
+        "onboard_time": 1723641020,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105897,
+        "num": 105897,
+        "word": "律师谈离婚冷静期内任何一方可撤回",
+        "onboard_time": 1723743672,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79554,
+        "num": 79554,
+        "word": "俄一战略轰炸机坠毁",
+        "onboard_time": 1723736781,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 76029,
+        "num": 76029,
+        "word": "小火锅为什么不受欢迎了",
+        "onboard_time": 1723730841,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 70477,
+        "num": 70477,
+        "word": "全红婵你真牛啊真狠啊",
+        "onboard_time": 1723729341,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60978,
+        "num": 60978,
+        "word": "25岁女孩腹部抽脂永久丧失生育能力",
+        "onboard_time": 1723704260,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43932,
+        "num": 59619,
+        "word": "辰亦儒曾之乔睡觉都牵着手",
+        "onboard_time": 1723735400,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39635,
+        "num": 56670,
+        "word": "女主8集怀疑了男主8次假老公",
+        "onboard_time": 1723721660,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119673,
+        "num": 55729,
+        "word": "一家三口深夜在446人群互骂1小时",
+        "onboard_time": 1723721301,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90582,
+        "num": 52785,
+        "word": "总统实名羡慕中国高铁美国咋造不出来",
+        "onboard_time": 1723734681,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 52105,
+        "num": 52105,
+        "word": "未来婚姻状况或实现全国大数据联网",
+        "onboard_time": 1723744753,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61521,
+        "num": 51887,
+        "word": "杭州一女子因穿着暴露卖货被查",
+        "onboard_time": 1723729941,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51041,
+        "num": 51041,
+        "word": "全红婵陈艺文回到广东了",
+        "onboard_time": 1723745414,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48627,
+        "num": 48627,
+        "word": "女子入职3个月怀孕被扣7个月绩效金",
+        "onboard_time": 1723732641,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43155,
+        "num": 43155,
+        "word": "炎亚纶点赞辰亦儒曾之乔",
+        "onboard_time": 1723748651,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38562,
+        "num": 38562,
+        "word": "和SM有合约的艺人",
+        "onboard_time": 1723737740,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34708,
+        "num": 38557,
+        "word": "章若楠后援会回应改名",
+        "onboard_time": 1723740916,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30130,
+        "num": 38468,
+        "word": "大S妈妈说不认识张兰",
+        "onboard_time": 1723722860,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10498,
+        "num": 38409,
+        "word": "84岁大爷跨省考科二一把过",
+        "onboard_time": 1723753032,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40949,
+        "num": 38292,
+        "word": "35岁前为最佳生育年龄",
+        "onboard_time": 1723717941,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38269,
+        "num": 38269,
+        "word": "乌克兰在库尔斯克成立军事管制局",
+        "onboard_time": 1723735522,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 36368,
+        "num": 36368,
+        "word": "超市员工被质疑穿着暴露吸引生意",
+        "onboard_time": 1723714221,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35980,
+        "num": 35980,
+        "word": "孙颖莎陈清晨环球影城vlog",
+        "onboard_time": 1723713441,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35207,
+        "num": 35207,
+        "word": "火腿肠卖不动了吗",
+        "onboard_time": 1723749851,
+        "rank": 25,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 34892,
+        "num": 34892,
+        "word": "杭州地铁回应女子地铁上触摸大爷",
+        "onboard_time": 1723750271,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33875,
+        "num": 33875,
+        "word": "外交部回应日方涉靖国神社错误行径",
+        "onboard_time": 1723747152,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 29268,
+        "num": 32901,
+        "word": "国产剧拍到了容貌焦虑低龄化",
+        "onboard_time": 1723725621,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28396,
+        "num": 32398,
+        "word": "娜扎 丞磊你在轧戏啊",
+        "onboard_time": 1723725621,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18322,
+        "num": 32379,
+        "word": "两面三刀的砸锅者必将一凉到底",
+        "onboard_time": 1723752671,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32379,
+        "num": 32378,
+        "word": "俄军步兵攻入乌军据点俘虏乌士兵",
+        "onboard_time": 1723731261,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 32210,
+        "num": 32210,
+        "word": "AG 抽象",
+        "onboard_time": 1723730062,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 31769,
+        "num": 31769,
+        "word": "全红婵带火的玩具乌龟日销量超40万只",
+        "onboard_time": 1723729880,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31455,
+        "num": 31455,
+        "word": "八旬老人疑被养老院室友打死",
+        "onboard_time": 1723725261,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31356,
+        "num": 31356,
+        "word": "导致离婚的10大原因",
+        "onboard_time": 1723735940,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30357,
+        "num": 30357,
+        "word": "中央赠港大熊猫盈盈产下龙凤胎",
+        "onboard_time": 1723740616,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29683,
+        "num": 29683,
+        "word": "为什么年轻人不吃泡椒凤爪了",
+        "onboard_time": 1723720459,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 29578,
+        "num": 29578,
+        "word": "樊振东的球每秒飞19米转146圈",
+        "onboard_time": 1723728261,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25368,
+        "num": 29576,
+        "word": "林俊杰 抢票",
+        "onboard_time": 1723728081,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28170,
+        "num": 29570,
+        "word": "长荣桂冠酒店回应",
+        "onboard_time": 1723708041,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27734,
+        "num": 29565,
+        "word": "莫雷加德晒与樊振东合照",
+        "onboard_time": 1723729880,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27574,
+        "num": 29563,
+        "word": "女子吃凉皮后米酵菌酸中毒住进ICU",
+        "onboard_time": 1723726821,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27521,
+        "num": 29558,
+        "word": "日薪200招工给乌龟画眼睛嘴巴",
+        "onboard_time": 1723715122,
+        "rank": 43,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 27501,
+        "num": 29549,
+        "word": "情绪不稳定的人玩不了这游戏",
+        "onboard_time": 1723731861,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 25566,
+        "num": 29545,
+        "word": "医生说女生有小肚子很正常",
+        "onboard_time": 1723729762,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 24953,
+        "num": 29537,
+        "word": "zmjjkk 心像裤子那么紧",
+        "onboard_time": 1723721239,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24909,
+        "num": 29532,
+        "word": "孙茜 表演型人格",
+        "onboard_time": 1723710861,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24204,
+        "num": 29530,
+        "word": "婚姻登记不再收取费用",
+        "onboard_time": 1723752072,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24175,
+        "num": 29521,
+        "word": "编造五问陈梦者被行政处罚",
+        "onboard_time": 1723719920,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同巴西总统互致贺电#"
+    }
+  }
+}
