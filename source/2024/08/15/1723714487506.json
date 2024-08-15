@@ -1,0 +1,410 @@
+{
+  "runTime": 1723714487506,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3262315,
+        "num": 3262315,
+        "word": "台湾附近5.4级左右地震",
+        "onboard_time": 1723713381,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1744312,
+        "num": 1744312,
+        "word": "25岁女孩腹部抽脂永久丧失生育能力",
+        "onboard_time": 1723704260,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7283,
+        "num": 1470935,
+        "word": "何以中国行走河南",
+        "onboard_time": 1723641020,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1421310,
+        "num": 1421310,
+        "word": "离婚冷静期",
+        "onboard_time": 1723683861,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1349131,
+        "num": 1349131,
+        "word": "长荣桂冠酒店回应",
+        "onboard_time": 1723708041,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1291005,
+        "num": 1291005,
+        "word": "陈梦是第一个被家乡摇出来代言的吧",
+        "onboard_time": 1723711280,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1285078,
+        "num": 1285078,
+        "word": "孙茜 表演型人格",
+        "onboard_time": 1723710861,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 511127,
+        "num": 1280904,
+        "word": "黄一鸣晒婚纱照",
+        "onboard_time": 1723696162,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165309,
+        "num": 1279045,
+        "word": "婚检该强制吗",
+        "onboard_time": 1723713021,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1277957,
+        "num": 1277957,
+        "word": "结婚登记不再需要户口簿",
+        "onboard_time": 1723680139,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1249927,
+        "num": 1249927,
+        "word": "孙颖莎陈清晨环球影城vlog",
+        "onboard_time": 1723713441,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 571024,
+        "num": 1153556,
+        "word": "结婚登记不需要户口簿方便了谁",
+        "onboard_time": 1723698382,
+        "rank": 11,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 1119303,
+        "num": 1119303,
+        "word": "潘展乐入选巴黎奥运游泳TOP10",
+        "onboard_time": 1723711461,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 984240,
+        "num": 984240,
+        "word": "意一女子坠崖身亡男友拍下最后身影",
+        "onboard_time": 1723708939,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 772300,
+        "num": 772300,
+        "word": "樊振东 我太大一只了",
+        "onboard_time": 1723703420,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 763570,
+        "num": 763570,
+        "word": "长期人口性别比失衡婚姻效果开始显现",
+        "onboard_time": 1723705881,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630060,
+        "num": 630060,
+        "word": "日军曾给中国人喝毒药做实验",
+        "onboard_time": 1723707140,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 444894,
+        "num": 627596,
+        "word": "林更新 拿个破手机录录录",
+        "onboard_time": 1723695261,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323734,
+        "num": 613023,
+        "word": "曾之乔官宣怀孕",
+        "onboard_time": 1723699102,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305247,
+        "num": 590060,
+        "word": "任运杰直播",
+        "onboard_time": 1723702460,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 680292,
+        "num": 584643,
+        "word": "怀疑老公出轨拍下偷吃画面",
+        "onboard_time": 1723689379,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 571270,
+        "num": 571270,
+        "word": "福州震感",
+        "onboard_time": 1723713861,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496927,
+        "num": 496927,
+        "word": "iPhone5S真就是CCD平替",
+        "onboard_time": 1723703781,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 434806,
+        "num": 434806,
+        "word": "蕉下裁员",
+        "onboard_time": 1723709421,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 393388,
+        "num": 393388,
+        "word": "世界上最大的诈骗 中国人的朋友圈",
+        "onboard_time": 1723701800,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 319632,
+        "num": 319632,
+        "word": "离婚冷静期届满30天不办理视为撤回",
+        "onboard_time": 1723701621,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307011,
+        "num": 307011,
+        "word": "离婚冷静期内任何一方可申请撤回",
+        "onboard_time": 1723691540,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301704,
+        "num": 301704,
+        "word": "章若楠要更改粉丝名了",
+        "onboard_time": 1723702281,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291792,
+        "num": 299069,
+        "word": "陈奕迅cue全红婵",
+        "onboard_time": 1723700062,
+        "rank": 28,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 269260,
+        "num": 298037,
+        "word": "丞磊 我们好像有点暧昧了",
+        "onboard_time": 1723712664,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297448,
+        "num": 297448,
+        "word": "孙颖莎把主持人的词都说完了",
+        "onboard_time": 1723706659,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289521,
+        "num": 289521,
+        "word": "多平台已下架长荣桂冠酒店",
+        "onboard_time": 1723710322,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280717,
+        "num": 280717,
+        "word": "执法发现周大福足金耳饰非足金",
+        "onboard_time": 1723712422,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240554,
+        "num": 240554,
+        "word": "狗头萝莉回应女子称自己好看不排队",
+        "onboard_time": 1723697782,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 245155,
+        "num": 240092,
+        "word": "任运杰小号",
+        "onboard_time": 1723710680,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257593,
+        "num": 239775,
+        "word": "中国队的pin大家都想要",
+        "onboard_time": 1723712361,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237998,
+        "num": 237998,
+        "word": "2岁女童失踪7小时在深山中找到",
+        "onboard_time": 1723713982,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226149,
+        "num": 226149,
+        "word": "女童游泳被男教练偷拍配文好可爱",
+        "onboard_time": 1723704021,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209618,
+        "num": 209618,
+        "word": "日本巨大地震预警8月15日解除",
+        "onboard_time": 1723618042,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208367,
+        "num": 208367,
+        "word": "AI算出樊振东球速最快",
+        "onboard_time": 1723713743,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208351,
+        "num": 208351,
+        "word": "谁来救救张云龙",
+        "onboard_time": 1723708820,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205740,
+        "num": 205740,
+        "word": "3名幼童被家长罚跪闹市马路",
+        "onboard_time": 1723710439,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204122,
+        "num": 204122,
+        "word": "古人把纯天然空调玩明白了",
+        "onboard_time": 1723712783,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191366,
+        "num": 191366,
+        "word": "假结婚或将被纳入失信名单",
+        "onboard_time": 1723709120,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191202,
+        "num": 191202,
+        "word": "超市员工被质疑穿着暴露吸引生意",
+        "onboard_time": 1723714221,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175914,
+        "num": 175914,
+        "word": "全红婵父亲在家门口请游客吃月饼",
+        "onboard_time": 1723713622,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174763,
+        "num": 174763,
+        "word": "食物语陪伴版",
+        "onboard_time": 1723714402,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174487,
+        "num": 174487,
+        "word": "浙江27岁小伙创业收废品年入20万",
+        "onboard_time": 1723714342,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172367,
+        "num": 172367,
+        "word": "萧逸 帅的好过分",
+        "onboard_time": 1723714460,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169756,
+        "num": 169756,
+        "word": "长荣桂冠酒店台籍经理剪掉五星红旗",
+        "onboard_time": 1723648702,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#人不负青山 青山定不负人#"
+    }
+  }
+}

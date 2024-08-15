@@ -1,6 +1,6 @@
 {
   "startTime": 1723307155481,
-  "endTime": 1723713654543,
+  "endTime": 1723714487506,
   "band_list": [
     {
       "raw_hot": 25984443,
@@ -1619,6 +1619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1291005,
+      "num": 1291005,
+      "word": "陈梦是第一个被家乡摇出来代言的吧",
+      "onboard_time": 1723711280,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1284822,
       "num": 1284822,
       "word": "日本无条件投降79周年",
@@ -1696,6 +1704,14 @@
       "word": "郑钦文的金牌已经回国了",
       "onboard_time": 1723619061,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1249927,
+      "num": 1249927,
+      "word": "孙颖莎陈清晨环球影城vlog",
+      "onboard_time": 1723713441,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -1993,6 +2009,14 @@
       "onboard_time": 1723641919,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1119303,
+      "num": 1119303,
+      "word": "潘展乐入选巴黎奥运游泳TOP10",
+      "onboard_time": 1723711461,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 1116135,
@@ -2596,7 +2620,7 @@
     },
     {
       "raw_hot": 897756,
-      "num": 897756,
+      "num": 1153556,
       "word": "结婚登记不需要户口簿方便了谁",
       "onboard_time": 1723698382,
       "rank": 40,
@@ -2963,14 +2987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 775184,
-      "num": 775184,
-      "word": "潘展乐入选巴黎奥运游泳TOP10",
-      "onboard_time": 1723711461,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 772635,
       "num": 2185365,
       "word": "黄雅琼真去看周深演唱会了",
@@ -3009,14 +3025,6 @@
       "onboard_time": 1723437924,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 748903,
-      "num": 748903,
-      "word": "陈梦是第一个被家乡摇出来代言的吧",
-      "onboard_time": 1723711280,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 746485,
@@ -3731,14 +3739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 594449,
-      "num": 594449,
-      "word": "孙颖莎陈清晨环球影城vlog",
-      "onboard_time": 1723713441,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 593127,
       "num": 444221,
       "word": "室友考公要跟我报一个岗位",
@@ -3873,6 +3873,14 @@
       "onboard_time": 1723626862,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 571270,
+      "num": 571270,
+      "word": "福州震感",
+      "onboard_time": 1723713861,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 568684,
@@ -4436,7 +4444,7 @@
     },
     {
       "raw_hot": 464462,
-      "num": 546514,
+      "num": 590060,
       "word": "任运杰直播",
       "onboard_time": 1723702460,
       "rank": 38,
@@ -6915,6 +6923,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 280717,
+      "num": 1174510,
+      "word": "执法发现周大福足金耳饰非足金",
+      "onboard_time": 1723712422,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280638,
       "num": 280638,
       "word": "张本兄妹被困住的一生",
@@ -7259,6 +7275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269260,
+      "num": 298037,
+      "word": "丞磊 我们好像有点暧昧了",
+      "onboard_time": 1723712664,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 269136,
       "num": 233477,
       "word": "孙颖莎说非常感谢倪阿姨的陪练",
@@ -7497,6 +7521,14 @@
       "onboard_time": 1723538902,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257593,
+      "num": 239775,
+      "word": "中国队的pin大家都想要",
+      "onboard_time": 1723712361,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 257174,
@@ -7891,6 +7923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245155,
+      "num": 240506,
+      "word": "任运杰小号",
+      "onboard_time": 1723710680,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244981,
       "num": 293287,
       "word": "晚睡晚起睡够时长算熬夜吗",
@@ -8027,14 +8067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 240506,
-      "num": 240506,
-      "word": "任运杰小号",
-      "onboard_time": 1723710680,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 240302,
       "num": 240302,
       "word": "小布发了团体前三名合照",
@@ -8081,6 +8113,14 @@
       "onboard_time": 1723626264,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 237998,
+      "num": 237998,
+      "word": "2岁女童失踪7小时在深山中找到",
+      "onboard_time": 1723713982,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237824,
@@ -8891,14 +8931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 215516,
-      "num": 215516,
-      "word": "丞磊 我们好像有点暧昧了",
-      "onboard_time": 1723712664,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 215424,
       "num": 215423,
       "word": "拳击女子75公斤级决赛",
@@ -9251,6 +9283,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 208367,
+      "num": 208367,
+      "word": "AI算出樊振东球速最快",
+      "onboard_time": 1723713743,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208318,
       "num": 868552,
       "word": "平台暂停西溪世纪中心附近外卖服务",
@@ -9465,6 +9505,14 @@
       "onboard_time": 1723374925,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204122,
+      "num": 204122,
+      "word": "古人把纯天然空调玩明白了",
+      "onboard_time": 1723712783,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203956,
@@ -10139,14 +10187,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 193487,
-      "num": 193487,
-      "word": "中国队的pin大家都想要",
-      "onboard_time": 1723712361,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 193467,
       "num": 193467,
       "word": "孙颖莎让王楚钦回应头大",
@@ -10233,6 +10273,14 @@
       "onboard_time": 1723427060,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191202,
+      "num": 191202,
+      "word": "超市员工被质疑穿着暴露吸引生意",
+      "onboard_time": 1723714221,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191135,
@@ -10449,14 +10497,6 @@
       "onboard_time": 1723433663,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 185233,
-      "num": 185233,
-      "word": "古人把纯天然空调玩明白了",
-      "onboard_time": 1723712783,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 184884,
@@ -10803,6 +10843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175914,
+      "num": 175914,
+      "word": "全红婵父亲在家门口请游客吃月饼",
+      "onboard_time": 1723713622,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175610,
       "num": 175610,
       "word": "有一种通透感叫滇池朝霞",
@@ -10883,12 +10931,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 174763,
+      "num": 174763,
+      "word": "食物语陪伴版",
+      "onboard_time": 1723714402,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 174563,
       "num": 174563,
       "word": "英雄联盟女帝皮肤",
       "onboard_time": 1723601960,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 174487,
+      "num": 174487,
+      "word": "浙江27岁小伙创业收废品年入20万",
+      "onboard_time": 1723714342,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174461,
@@ -10913,6 +10977,14 @@
       "onboard_time": 1723505358,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 172367,
+      "num": 172367,
+      "word": "萧逸 帅的好过分",
+      "onboard_time": 1723714460,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 172297,
@@ -11041,14 +11113,6 @@
       "onboard_time": 1723596081,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168953,
-      "num": 1174510,
-      "word": "执法发现周大福足金耳饰非足金",
-      "onboard_time": 1723712422,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168924,
@@ -11187,19 +11251,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 165309,
+      "num": 1279045,
+      "word": "婚检该强制吗",
+      "onboard_time": 1723713021,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165281,
       "num": 165281,
       "word": "汪顺 看一眼这辈子都忘不掉的类型",
       "onboard_time": 1723636820,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 165164,
-      "num": 165164,
-      "word": "全红婵父亲在家门口请游客吃月饼",
-      "onboard_time": 1723713622,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -12889,14 +12953,6 @@
       "onboard_time": 1723375525,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 73927,
-      "num": 1176763,
-      "word": "婚检该强制吗",
-      "onboard_time": 1723713021,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73833,

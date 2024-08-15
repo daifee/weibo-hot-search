@@ -1,6 +1,6 @@
 {
   "startTime": 1723652882305,
-  "endTime": 1723713654543,
+  "endTime": 1723714487506,
   "band_list": [
     {
       "raw_hot": 6071048,
@@ -235,12 +235,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1291005,
+      "num": 1291005,
+      "word": "陈梦是第一个被家乡摇出来代言的吧",
+      "onboard_time": 1723711280,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1284822,
       "num": 1284822,
       "word": "日本无条件投降79周年",
       "onboard_time": 1723651341,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1249927,
+      "num": 1249927,
+      "word": "孙颖莎陈清晨环球影城vlog",
+      "onboard_time": 1723713441,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 1218283,
@@ -296,6 +312,14 @@
       "word": "韩国印度沙特欲角逐奥运主办权",
       "onboard_time": 1723645162,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1119303,
+      "num": 1119303,
+      "word": "潘展乐入选巴黎奥运游泳TOP10",
+      "onboard_time": 1723711461,
+      "rank": 15,
       "category": "体育"
     },
     {
@@ -364,7 +388,7 @@
     },
     {
       "raw_hot": 897756,
-      "num": 897756,
+      "num": 1153556,
       "word": "结婚登记不需要户口簿方便了谁",
       "onboard_time": 1723698382,
       "rank": 40,
@@ -393,22 +417,6 @@
       "onboard_time": 1723705881,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 775184,
-      "num": 775184,
-      "word": "潘展乐入选巴黎奥运游泳TOP10",
-      "onboard_time": 1723711461,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 748903,
-      "num": 748903,
-      "word": "陈梦是第一个被家乡摇出来代言的吧",
-      "onboard_time": 1723711280,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 728923,
@@ -475,20 +483,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 594449,
-      "num": 594449,
-      "word": "孙颖莎陈清晨环球影城vlog",
-      "onboard_time": 1723713441,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 593031,
       "num": 593031,
       "word": "孙茜没参加陶昕然婚礼遗憾了十年",
       "onboard_time": 1723700901,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 571270,
+      "num": 571270,
+      "word": "福州震感",
+      "onboard_time": 1723713861,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 559073,
@@ -588,7 +596,7 @@
     },
     {
       "raw_hot": 464462,
-      "num": 546514,
+      "num": 590060,
       "word": "任运杰直播",
       "onboard_time": 1723702460,
       "rank": 38,
@@ -907,6 +915,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 280717,
+      "num": 1174510,
+      "word": "执法发现周大福足金耳饰非足金",
+      "onboard_time": 1723712422,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279615,
       "num": 279615,
       "word": "刘亦菲露腿拍广告",
@@ -923,6 +939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 269260,
+      "num": 298037,
+      "word": "丞磊 我们好像有点暧昧了",
+      "onboard_time": 1723712664,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262525,
       "num": 389051,
       "word": "王菲周杰伦林俊杰的制作人集齐了",
@@ -937,6 +961,14 @@
       "onboard_time": 1723685121,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 257593,
+      "num": 239775,
+      "word": "中国队的pin大家都想要",
+      "onboard_time": 1723712361,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 257431,
@@ -1027,6 +1059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 245155,
+      "num": 240506,
+      "word": "任运杰小号",
+      "onboard_time": 1723710680,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244886,
       "num": 244886,
       "word": "离婚冷静期拟加入婚姻登记条例",
@@ -1051,20 +1091,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 240506,
-      "num": 240506,
-      "word": "任运杰小号",
-      "onboard_time": 1723710680,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 239664,
       "num": 370240,
       "word": "俄别尔哥罗德州进入联邦级紧急状态",
       "onboard_time": 1723709841,
       "rank": 28,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 237998,
+      "num": 237998,
+      "word": "2岁女童失踪7小时在深山中找到",
+      "onboard_time": 1723713982,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236366,
@@ -1171,14 +1211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215516,
-      "num": 215516,
-      "word": "丞磊 我们好像有点暧昧了",
-      "onboard_time": 1723712664,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 214598,
       "num": 214598,
       "word": "奥运刚开赛ChatGPT预测中国35金",
@@ -1243,6 +1275,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 208367,
+      "num": 208367,
+      "word": "AI算出樊振东球速最快",
+      "onboard_time": 1723713743,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207990,
       "num": 701300,
       "word": "离婚冷静期写入婚姻登记条例",
@@ -1257,6 +1297,14 @@
       "onboard_time": 1723699702,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204122,
+      "num": 204122,
+      "word": "古人把纯天然空调玩明白了",
+      "onboard_time": 1723712783,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203613,
@@ -1347,14 +1395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 193487,
-      "num": 193487,
-      "word": "中国队的pin大家都想要",
-      "onboard_time": 1723712361,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 193035,
       "num": 193035,
       "word": "刘耀文无法出席东方风云榜",
@@ -1369,6 +1409,14 @@
       "onboard_time": 1723710021,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191202,
+      "num": 191202,
+      "word": "超市员工被质疑穿着暴露吸引生意",
+      "onboard_time": 1723714221,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190195,
@@ -1401,14 +1449,6 @@
       "onboard_time": 1723695202,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 185233,
-      "num": 185233,
-      "word": "古人把纯天然空调玩明白了",
-      "onboard_time": 1723712783,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183958,
@@ -1475,6 +1515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 175914,
+      "num": 175914,
+      "word": "全红婵父亲在家门口请游客吃月饼",
+      "onboard_time": 1723713622,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175610,
       "num": 175610,
       "word": "有一种通透感叫滇池朝霞",
@@ -1507,6 +1555,22 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 174763,
+      "num": 174763,
+      "word": "食物语陪伴版",
+      "onboard_time": 1723714402,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 174487,
+      "num": 174487,
+      "word": "浙江27岁小伙创业收废品年入20万",
+      "onboard_time": 1723714342,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174461,
       "num": 174461,
       "word": "JackeyLove解释头大原因",
@@ -1523,6 +1587,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 172367,
+      "num": 172367,
+      "word": "萧逸 帅的好过分",
+      "onboard_time": 1723714460,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 169303,
       "num": 169303,
       "word": "你俩喜欢对方是因为自恋吗",
@@ -1531,20 +1603,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 168953,
-      "num": 1174510,
-      "word": "执法发现周大福足金耳饰非足金",
-      "onboard_time": 1723712422,
-      "rank": 9,
+      "raw_hot": 165309,
+      "num": 1279045,
+      "word": "婚检该强制吗",
+      "onboard_time": 1723713021,
+      "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165164,
-      "num": 165164,
-      "word": "全红婵父亲在家门口请游客吃月饼",
-      "onboard_time": 1723713622,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 164844,
@@ -1928,14 +1992,6 @@
       "word": "日媒曝岸田文雄向靖国神社供祭祀费",
       "onboard_time": 1723694421,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73927,
-      "num": 1176763,
-      "word": "婚检该强制吗",
-      "onboard_time": 1723713021,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
