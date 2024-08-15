@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/08/01 00:24:58 ~ 2024/08/15 23:35:25
+本榜单时间：2024/08/01 00:24:58 ~ 2024/08/16 00:25:22
 </p>
 </blockquote>
 <p>
@@ -5775,6 +5775,12 @@ BLACKPINK直播（热度：1406940）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%80%BB%E7%BB%9F%E5%AE%9E%E5%90%8D%E7%BE%A1%E6%85%95%E4%B8%AD%E5%9B%BD%E9%AB%98%E9%93%81%E7%BE%8E%E5%9B%BD%E5%92%8B%E9%80%A0%E4%B8%8D%E5%87%BA%E6%9D%A5%23" target="weibo">
+总统实名羡慕中国高铁美国咋造不出来（热度：1348112）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%8F%A3%E4%BB%A4%23" target="weibo">
 霸王茶姬口令（热度：1347906）
 </a>
@@ -6005,12 +6011,6 @@ BLACKPINK直播（热度：1406940）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E5%9B%9E%E5%BA%94%E4%B8%8D%E6%AD%A2%E5%B7%B4%E9%BB%8E%E8%A7%81%23" target="weibo">
 马龙回应不止巴黎见（热度：1303694）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%20%E6%99%93%E6%98%8E%E5%93%A5%E6%88%91%E6%99%92%E6%AD%BB%E4%BA%86%23" target="weibo">
-虞书欣 晓明哥我晒死了（热度：1302861）
 </a>
 </li>
 
