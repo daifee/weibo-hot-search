@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/08/01 00:24:58 ~ 2024/08/15 20:37:57
+本榜单时间：2024/08/01 00:24:58 ~ 2024/08/15 20:53:24
 </p>
 </blockquote>
 <p>
@@ -6293,6 +6293,12 @@ BLACKPINK直播（热度：1406940）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%BA%BA%E4%B8%8D%E8%B4%9F%E9%9D%92%E5%B1%B1%20%E9%9D%92%E5%B1%B1%E5%AE%9A%E4%B8%8D%E8%B4%9F%E4%BA%BA%23%23" target="weibo">
 #人不负青山 青山定不负人#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E5%B7%B4%E8%A5%BF%E6%80%BB%E7%BB%9F%E4%BA%92%E8%87%B4%E8%B4%BA%E7%94%B5%23%23" target="weibo">
+#习近平同巴西总统互致贺电#
 </a>
 </li>
 

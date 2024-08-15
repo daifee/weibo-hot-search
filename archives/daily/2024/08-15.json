@@ -1,6 +1,6 @@
 {
   "startTime": 1723652882305,
-  "endTime": 1723725477473,
+  "endTime": 1723726404852,
   "band_list": [
     {
       "raw_hot": 6071048,
@@ -299,6 +299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1217070,
+      "num": 1217070,
+      "word": "编造五问陈梦者被行政处罚",
+      "onboard_time": 1723719920,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1207802,
       "num": 432665,
       "word": "博主连吃80个内蒙古烧麦",
@@ -313,14 +321,6 @@
       "onboard_time": 1723701621,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1198886,
-      "num": 1198886,
-      "word": "编造五问陈梦者被行政处罚",
-      "onboard_time": 1723719920,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 1173639,
@@ -371,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1094916,
+      "num": 1094916,
+      "word": "女主8集怀疑了男主8次假老公",
+      "onboard_time": 1723721660,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1080500,
       "num": 1080500,
       "word": "让你长胖的5个睡前习惯",
@@ -403,14 +411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1034162,
-      "num": 1034162,
-      "word": "女主8集怀疑了男主8次假老公",
-      "onboard_time": 1723721660,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 970637,
       "num": 970637,
       "word": "陈奕迅cue全红婵",
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 961504,
-      "num": 330707,
+      "num": 347290,
       "word": "山东卫视你真不拿陈梦当外人",
       "onboard_time": 1723725081,
       "rank": 24,
@@ -579,6 +579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 634862,
+      "num": 568365,
+      "word": "海口龙凤胎分两次娩出",
+      "onboard_time": 1723723761,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 634512,
       "num": 634512,
       "word": "房价很低很宜居的小城市",
@@ -643,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 543833,
+      "num": 572218,
+      "word": "婚姻登记将全国通办不用再为爱奔波",
+      "onboard_time": 1723725141,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 536771,
       "num": 300223,
       "word": "不能拜的日本神社",
@@ -689,14 +705,6 @@
       "onboard_time": 1723702700,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 503060,
-      "num": 503060,
-      "word": "婚姻登记将全国通办不用再为爱奔波",
-      "onboard_time": 1723725141,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 479897,
@@ -747,14 +755,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 449580,
-      "num": 360949,
-      "word": "海口龙凤胎分两次娩出",
-      "onboard_time": 1723723761,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 446529,
       "num": 1212676,
       "word": "生态日看自然",
@@ -785,6 +785,22 @@
       "onboard_time": 1723648521,
       "rank": 20,
       "category": "社会新闻,汽车"
+    },
+    {
+      "raw_hot": 433380,
+      "num": 607690,
+      "word": "坐军舰去上学是啥体验",
+      "onboard_time": 1723724541,
+      "rank": 9,
+      "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 422865,
+      "num": 422865,
+      "word": "娜扎 丞磊你在轧戏啊",
+      "onboard_time": 1723725621,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 420793,
@@ -899,14 +915,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 361805,
-      "num": 607690,
-      "word": "坐军舰去上学是啥体验",
-      "onboard_time": 1723724541,
-      "rank": 9,
-      "category": "军事,社会新闻"
-    },
-    {
       "raw_hot": 360987,
       "num": 977493,
       "word": "金锣火腿肠未开封袋内有虫子蠕动",
@@ -971,12 +979,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 342649,
+      "num": 342649,
+      "word": "zmjjkk",
+      "onboard_time": 1723724541,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 342508,
       "num": 342508,
       "word": "黄奕发朋友圈帮大家避雷",
       "onboard_time": 1723720640,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 340712,
+      "num": 340712,
+      "word": "婚姻登记取消户口簿彰显婚姻自由",
+      "onboard_time": 1723724602,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 335697,
@@ -1027,6 +1051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 314905,
+      "num": 314905,
+      "word": "乌合麒麟鼓励遭校园暴力的绘画少女",
+      "onboard_time": 1723724062,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310929,
       "num": 310929,
       "word": "郑钦文成辛辛那提站独苗",
@@ -1067,8 +1099,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294613,
+      "num": 294613,
+      "word": "将婚姻的决定权交给本人合情合理",
+      "onboard_time": 1723723641,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292836,
-      "num": 292836,
+      "num": 338101,
       "word": "一女子网上辱骂体操运动员被罚",
       "onboard_time": 1723720820,
       "rank": 34,
@@ -1091,12 +1131,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 290954,
+      "num": 290954,
+      "word": "一家三口深夜在446人群互骂1小时",
+      "onboard_time": 1723721301,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290452,
       "num": 290452,
       "word": "苗苗带孩子接机郑恺",
       "onboard_time": 1723698143,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 289637,
+      "num": 289637,
+      "word": "狗狗有案底考不了警犬了",
+      "onboard_time": 1723724721,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 288869,
@@ -1121,14 +1177,6 @@
       "onboard_time": 1723644201,
       "rank": 28,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 287763,
-      "num": 287763,
-      "word": "zmjjkk",
-      "onboard_time": 1723724541,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 287275,
@@ -1203,12 +1251,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 261046,
-      "num": 261046,
-      "word": "一家三口深夜在446人群互骂1小时",
-      "onboard_time": 1723721301,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 260847,
+      "num": 260847,
+      "word": "千万别选这种颜色的泳衣",
+      "onboard_time": 1723724062,
+      "rank": 38,
+      "category": "科学科普"
     },
     {
       "raw_hot": 259870,
@@ -1307,14 +1355,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 248055,
-      "num": 248055,
-      "word": "婚姻登记取消户口簿彰显婚姻自由",
-      "onboard_time": 1723724602,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 245155,
       "num": 240506,
       "word": "任运杰小号",
@@ -1353,14 +1393,6 @@
       "onboard_time": 1723683741,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 240402,
-      "num": 240402,
-      "word": "千万别选这种颜色的泳衣",
-      "onboard_time": 1723724062,
-      "rank": 38,
-      "category": "科学科普"
     },
     {
       "raw_hot": 239664,
@@ -1483,14 +1515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 222016,
-      "num": 222016,
-      "word": "将婚姻的决定权交给本人合情合理",
-      "onboard_time": 1723723641,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 219551,
       "num": 219551,
       "word": "王昶回味梁伟铿的性格",
@@ -1561,14 +1585,6 @@
       "onboard_time": 1723713743,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 211717,
-      "num": 211717,
-      "word": "狗狗有案底考不了警犬了",
-      "onboard_time": 1723724721,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 211657,
@@ -1659,6 +1675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200447,
+      "num": 200447,
+      "word": "八旬老人疑被养老院室友打死",
+      "onboard_time": 1723725261,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200028,
       "num": 200028,
       "word": "梁王组合缺乏奥运经历但迎难而上",
@@ -1680,6 +1704,14 @@
       "word": "前途无量定档",
       "onboard_time": 1723690221,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 197289,
+      "num": 334237,
+      "word": "涂筱柠 因为被爱而疯狂长出血肉",
+      "onboard_time": 1723725738,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -1843,12 +1875,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180759,
+      "num": 180759,
+      "word": "王昶梁伟铿第一次单打",
+      "onboard_time": 1723725320,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179306,
       "num": 179306,
       "word": "鸣潮更新",
       "onboard_time": 1723696641,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 178610,
+      "num": 319916,
+      "word": "国产剧拍到了容貌焦虑低龄化",
+      "onboard_time": 1723725621,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 178368,
@@ -1873,14 +1921,6 @@
       "onboard_time": 1723709780,
       "rank": 42,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 175555,
-      "num": 175555,
-      "word": "八旬老人疑被养老院室友打死",
-      "onboard_time": 1723725261,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175474,
@@ -1955,12 +1995,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 167622,
-      "num": 167622,
-      "word": "王昶梁伟铿第一次单打",
-      "onboard_time": 1723725320,
+      "raw_hot": 167157,
+      "num": 167157,
+      "word": "张晚意扶腰带那一下",
+      "onboard_time": 1723726042,
       "rank": 46,
-      "category": "体育"
+      "category": "剧集"
     },
     {
       "raw_hot": 165952,
@@ -1976,6 +2016,14 @@
       "word": "张晚意也在关注莎头组合",
       "onboard_time": 1723648942,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 164199,
+      "num": 164199,
+      "word": "网剧少年白马醉春风",
+      "onboard_time": 1723725862,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -2025,14 +2073,6 @@
       "onboard_time": 1723678817,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161119,
-      "num": 161119,
-      "word": "乌合麒麟鼓励遭校园暴力的绘画少女",
-      "onboard_time": 1723724062,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160956,
@@ -2419,20 +2459,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71027,
+      "num": 547037,
+      "word": "Uzi只闯难关",
+      "onboard_time": 1723720999,
+      "rank": 28,
+      "category": "电竞,体育"
+    },
+    {
       "raw_hot": 70449,
       "num": 70449,
       "word": "1945年8月15日的报纸头条",
       "onboard_time": 1723656254,
       "rank": 39,
       "category": "社会新闻,国外时政"
-    },
-    {
-      "raw_hot": 67736,
-      "num": 547037,
-      "word": "Uzi只闯难关",
-      "onboard_time": 1723720999,
-      "rank": 28,
-      "category": "电竞,体育"
     },
     {
       "raw_hot": 67098,
@@ -2658,6 +2698,9 @@
     },
     {
       "word": "#人不负青山 青山定不负人#"
+    },
+    {
+      "word": "#习近平同巴西总统互致贺电#"
     }
   ]
 }
