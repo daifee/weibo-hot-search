@@ -1,6 +1,6 @@
 {
   "startTime": 1723739122020,
-  "endTime": 1723763875423,
+  "endTime": 1723764880505,
   "band_list": [
     {
       "raw_hot": 1348112,
@@ -43,7 +43,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 635373,
+      "raw_hot": 715123,
       "num": 245635,
       "word": "杭州一女子因穿着暴露卖货被查",
       "onboard_time": 1723729941,
@@ -75,8 +75,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 527979,
-      "num": 527979,
+      "raw_hot": 538882,
+      "num": 538882,
       "word": "女子入职3个月怀孕被扣7个月绩效金",
       "onboard_time": 1723732641,
       "rank": 6,
@@ -171,12 +171,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260822,
+      "num": 260822,
+      "word": "国产剧拍到了容貌焦虑低龄化",
+      "onboard_time": 1723725621,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255566,
       "num": 255566,
       "word": "孙颖莎陈清晨环球影城vlog",
       "onboard_time": 1723713441,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 243414,
+      "num": 243414,
+      "word": "律师谈离婚冷静期内任何一方可撤回",
+      "onboard_time": 1723743672,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237448,
@@ -195,11 +211,11 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 211703,
-      "num": 257416,
-      "word": "国产剧拍到了容貌焦虑低龄化",
-      "onboard_time": 1723725621,
-      "rank": 17,
+      "raw_hot": 216173,
+      "num": 216173,
+      "word": "娜扎对杨迪说我们结婚吧",
+      "onboard_time": 1723761494,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -225,14 +241,6 @@
       "onboard_time": 1723718600,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 194092,
-      "num": 194092,
-      "word": "律师谈离婚冷静期内任何一方可撤回",
-      "onboard_time": 1723743672,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 192607,
@@ -331,6 +339,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 140807,
+      "num": 134048,
+      "word": "突然发现千禧年的穿搭好野",
+      "onboard_time": 1723762634,
+      "rank": 33,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 136203,
       "num": 136203,
       "word": "黄一鸣晒婚纱照",
@@ -369,14 +385,6 @@
       "onboard_time": 1723732881,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 123859,
-      "num": 206535,
-      "word": "娜扎对杨迪说我们结婚吧",
-      "onboard_time": 1723761494,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 121433,
@@ -451,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99037,
+      "num": 99037,
+      "word": "杭州地铁回应女子地铁上触摸大爷",
+      "onboard_time": 1723750271,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97478,
       "num": 97478,
       "word": "完美世界石昊正是1打4的年纪",
@@ -467,28 +483,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 85853,
-      "num": 85853,
-      "word": "突然发现千禧年的穿搭好野",
-      "onboard_time": 1723762634,
-      "rank": 33,
-      "category": "时尚"
-    },
-    {
-      "raw_hot": 84085,
-      "num": 84085,
-      "word": "杭州地铁回应女子地铁上触摸大爷",
-      "onboard_time": 1723750271,
-      "rank": 49,
+      "raw_hot": 72217,
+      "num": 86001,
+      "word": "婚姻登记不再收取费用",
+      "onboard_time": 1723752072,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
       "raw_hot": 65425,
-      "num": 82108,
+      "num": 85987,
       "word": "未来婚姻状况或实现全国大数据联网",
       "onboard_time": 1723744753,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63719,
+      "num": 85997,
+      "word": "火腿肠卖不动了吗",
+      "onboard_time": 1723749851,
+      "rank": 42,
+      "category": "社会议题"
     },
     {
       "raw_hot": 62755,
@@ -499,20 +515,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 61477,
-      "num": 82133,
-      "word": "婚姻登记不再收取费用",
-      "onboard_time": 1723752072,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 59426,
-      "num": 82132,
-      "word": "火腿肠卖不动了吗",
-      "onboard_time": 1723749851,
-      "rank": 42,
-      "category": "社会议题"
+      "raw_hot": 59036,
+      "num": 85980,
+      "word": "炎亚纶点赞辰亦儒曾之乔",
+      "onboard_time": 1723748651,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 51964,
@@ -524,11 +532,19 @@
     },
     {
       "raw_hot": 51282,
-      "num": 82087,
+      "num": 85967,
       "word": "AG 抽象",
       "onboard_time": 1723730062,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 46895,
+      "num": 85976,
+      "word": "婚姻登记将全国通办不用再为爱奔波",
+      "onboard_time": 1723725141,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46355,
@@ -539,14 +555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45287,
-      "num": 82105,
-      "word": "炎亚纶点赞辰亦儒曾之乔",
-      "onboard_time": 1723748651,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 44442,
       "num": 115448,
       "word": "延时记录局部强降雨震撼画面",
@@ -555,12 +563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 44065,
-      "num": 82097,
-      "word": "婚姻登记将全国通办不用再为爱奔波",
-      "onboard_time": 1723725141,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 42323,
+      "num": 85964,
+      "word": "外交部回应日方涉靖国神社错误行径",
+      "onboard_time": 1723747152,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 39807,
@@ -569,14 +577,6 @@
       "onboard_time": 1723743373,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 38906,
-      "num": 84311,
-      "word": "外交部回应日方涉靖国神社错误行径",
-      "onboard_time": 1723747152,
-      "rank": 49,
-      "category": "国外时政"
     },
     {
       "raw_hot": 34759,
@@ -611,7 +611,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 4094,
+      "raw_hot": 4196,
       "num": 876989,
       "word": "何以中国行走河南",
       "onboard_time": 1723641020,
