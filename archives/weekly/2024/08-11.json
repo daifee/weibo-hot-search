@@ -1,6 +1,6 @@
 {
   "startTime": 1723307155481,
-  "endTime": 1723721764343,
+  "endTime": 1723725477473,
   "band_list": [
     {
       "raw_hot": 25984443,
@@ -1083,6 +1083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1628981,
+      "num": 1628981,
+      "word": "郑钦文生病",
+      "onboard_time": 1723720100,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1606801,
       "num": 1606801,
       "word": "美国女子自由体操铜牌被剥夺",
@@ -1827,6 +1835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1198886,
+      "num": 1198886,
+      "word": "编造五问陈梦者被行政处罚",
+      "onboard_time": 1723719920,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1190161,
       "num": 1190161,
       "word": "潘展乐 清醒",
@@ -2251,6 +2267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1034162,
+      "num": 1034162,
+      "word": "女主8集怀疑了男主8次假老公",
+      "onboard_time": 1723721660,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1030902,
       "num": 1030902,
       "word": "张怡宁说全部人都觉得樊振东打得好",
@@ -2305,14 +2329,6 @@
       "onboard_time": 1723351700,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1014259,
-      "num": 1014259,
-      "word": "编造五问陈梦者被行政处罚",
-      "onboard_time": 1723719920,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 1012682,
@@ -2449,6 +2465,14 @@
       "onboard_time": 1723645521,
       "rank": 39,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 961504,
+      "num": 330707,
+      "word": "山东卫视你真不拿陈梦当外人",
+      "onboard_time": 1723725081,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 959911,
@@ -2689,6 +2713,14 @@
       "onboard_time": 1723547422,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 882787,
+      "num": 529754,
+      "word": "恋与深空肯德基",
+      "onboard_time": 1723723101,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 876646,
@@ -3411,12 +3443,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 663391,
-      "num": 663391,
-      "word": "郑钦文生病",
-      "onboard_time": 1723720100,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 664583,
+      "num": 664583,
+      "word": "大S妈妈说不认识张兰",
+      "onboard_time": 1723722860,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 661394,
@@ -3529,6 +3561,14 @@
       "onboard_time": 1723467441,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 641865,
+      "num": 641865,
+      "word": "第一批奥运冠军已经开始教人化妆了",
+      "onboard_time": 1723718600,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 641259,
@@ -4283,6 +4323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 503060,
+      "num": 503060,
+      "word": "婚姻登记将全国通办不用再为爱奔波",
+      "onboard_time": 1723725141,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 498442,
       "num": 498442,
       "word": "美国男篮全队晚安",
@@ -4625,6 +4673,14 @@
       "onboard_time": 1723551981,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 449580,
+      "num": 360949,
+      "word": "海口龙凤胎分两次娩出",
+      "onboard_time": 1723723761,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 448112,
@@ -5179,14 +5235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 392853,
-      "num": 392853,
-      "word": "第一批奥运冠军已经开始教人化妆了",
-      "onboard_time": 1723718600,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 392278,
       "num": 358198,
       "word": "潘展乐老家办庆功宴",
@@ -5641,6 +5689,14 @@
       "onboard_time": 1723541182,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 361805,
+      "num": 607690,
+      "word": "坐军舰去上学是啥体验",
+      "onboard_time": 1723724541,
+      "rank": 9,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 360987,
@@ -6563,6 +6619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 305190,
+      "num": 305190,
+      "word": "为什么年轻人不吃泡椒凤爪了",
+      "onboard_time": 1723720459,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 304122,
       "num": 519457,
       "word": "张杰鸟巢战明星嘉宾",
@@ -6609,6 +6673,14 @@
       "onboard_time": 1723619781,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 302436,
+      "num": 368030,
+      "word": "郑合惠子啜妮新剧",
+      "onboard_time": 1723722320,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 302040,
@@ -6779,6 +6851,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 292836,
+      "num": 292836,
+      "word": "一女子网上辱骂体操运动员被罚",
+      "onboard_time": 1723720820,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292570,
       "num": 292570,
       "word": "黄子韬已经知道以后在家庭的地位了",
@@ -6913,6 +6993,14 @@
       "onboard_time": 1723599380,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 287763,
+      "num": 287763,
+      "word": "zmjjkk",
+      "onboard_time": 1723724541,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 287287,
@@ -7619,6 +7707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 261046,
+      "num": 261046,
+      "word": "一家三口深夜在446人群互骂1小时",
+      "onboard_time": 1723721301,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259870,
       "num": 259870,
       "word": "这段历史我们不能忘不敢忘",
@@ -8011,6 +8107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 248055,
+      "num": 248055,
+      "word": "婚姻登记取消户口簿彰显婚姻自由",
+      "onboard_time": 1723724602,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247489,
       "num": 247489,
       "word": "王楚钦谈双打被球打后背",
@@ -8227,6 +8331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240402,
+      "num": 240402,
+      "word": "千万别选这种颜色的泳衣",
+      "onboard_time": 1723724062,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 240302,
       "num": 240302,
       "word": "小布发了团体前三名合照",
@@ -8329,6 +8441,14 @@
       "onboard_time": 1723411272,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 236129,
+      "num": 298236,
+      "word": "严浩翔生日周边",
+      "onboard_time": 1723724481,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 236115,
@@ -8843,6 +8963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222016,
+      "num": 222016,
+      "word": "将婚姻的决定权交给本人合情合理",
+      "onboard_time": 1723723641,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221774,
       "num": 221774,
       "word": "广西米粉每一款都看得人好饿",
@@ -8857,14 +8985,6 @@
       "onboard_time": 1723348642,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 221575,
-      "num": 221575,
-      "word": "为什么年轻人不吃泡椒凤爪了",
-      "onboard_time": 1723720459,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 220936,
@@ -9361,6 +9481,14 @@
       "onboard_time": 1723617980,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211717,
+      "num": 211717,
+      "word": "狗狗有案底考不了警犬了",
+      "onboard_time": 1723724721,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 211657,
@@ -10699,20 +10827,20 @@
       "category": "动漫,艺人"
     },
     {
-      "raw_hot": 186429,
-      "num": 246078,
-      "word": "一女子网上辱骂体操运动员被罚",
-      "onboard_time": 1723720820,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186188,
       "num": 186188,
       "word": "孙颖莎小魔王的眼泪",
       "onboard_time": 1723425561,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185825,
+      "num": 367232,
+      "word": "魏哲鸣翻牌",
+      "onboard_time": 1723724962,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 185712,
@@ -11011,14 +11139,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 178429,
-      "num": 178429,
-      "word": "一家三口深夜在446人群互骂1小时",
-      "onboard_time": 1723721301,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178101,
       "num": 401923,
       "word": "enhypen团站保育院销号",
@@ -11088,6 +11208,14 @@
       "word": "运城女教师被杀案二十年后再调查",
       "onboard_time": 1723454420,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175555,
+      "num": 175555,
+      "word": "八旬老人疑被养老院室友打死",
+      "onboard_time": 1723725261,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -11347,14 +11475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168907,
-      "num": 222203,
-      "word": "女主8集怀疑了男主8次假老公",
-      "onboard_time": 1723721660,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 168851,
       "num": 168851,
       "word": "LGDNBW对战eStar",
@@ -11416,6 +11536,14 @@
       "word": "环球影城偶遇孙颖莎陈清晨",
       "onboard_time": 1723625781,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 167622,
+      "num": 167622,
+      "word": "王昶梁伟铿第一次单打",
+      "onboard_time": 1723725320,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -11625,6 +11753,14 @@
       "onboard_time": 1723312575,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 161119,
+      "num": 161119,
+      "word": "乌合麒麟鼓励遭校园暴力的绘画少女",
+      "onboard_time": 1723724062,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161002,
@@ -11985,6 +12121,14 @@
       "onboard_time": 1723684641,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 145541,
+      "num": 161104,
+      "word": "夫人脸没亲到嘴先出去了",
+      "onboard_time": 1723723280,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 145382,
@@ -13339,6 +13483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67736,
+      "num": 547037,
+      "word": "Uzi只闯难关",
+      "onboard_time": 1723720999,
+      "rank": 28,
+      "category": "电竞,体育"
+    },
+    {
       "raw_hot": 67486,
       "num": 67486,
       "word": "闭幕式收音",
@@ -13489,14 +13641,6 @@
       "onboard_time": 1723522462,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 61950,
-      "num": 296414,
-      "word": "Uzi只闯难关",
-      "onboard_time": 1723720999,
-      "rank": 28,
-      "category": "电竞,体育"
     },
     {
       "raw_hot": 61580,

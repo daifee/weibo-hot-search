@@ -1,6 +1,6 @@
 {
   "startTime": 1723652882305,
-  "endTime": 1723721764343,
+  "endTime": 1723725477473,
   "band_list": [
     {
       "raw_hot": 6071048,
@@ -179,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1628981,
+      "num": 1628981,
+      "word": "郑钦文生病",
+      "onboard_time": 1723720100,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1565021,
       "num": 1565021,
       "word": "耻辱柱 彩排",
@@ -307,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1198886,
+      "num": 1198886,
+      "word": "编造五问陈梦者被行政处罚",
+      "onboard_time": 1723719920,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1173639,
       "num": 1173639,
       "word": "云南丽江3.0级地震",
@@ -387,12 +403,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1014259,
-      "num": 1014259,
-      "word": "编造五问陈梦者被行政处罚",
-      "onboard_time": 1723719920,
-      "rank": 17,
-      "category": "体育"
+      "raw_hot": 1034162,
+      "num": 1034162,
+      "word": "女主8集怀疑了男主8次假老公",
+      "onboard_time": 1723721660,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 970637,
@@ -401,6 +417,14 @@
       "onboard_time": 1723700062,
       "rank": 19,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 961504,
+      "num": 330707,
+      "word": "山东卫视你真不拿陈梦当外人",
+      "onboard_time": 1723725081,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 959911,
@@ -441,6 +465,14 @@
       "onboard_time": 1723698382,
       "rank": 40,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 882787,
+      "num": 529754,
+      "word": "恋与深空肯德基",
+      "onboard_time": 1723723101,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 875348,
@@ -515,12 +547,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 663391,
-      "num": 663391,
-      "word": "郑钦文生病",
-      "onboard_time": 1723720100,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 664583,
+      "num": 664583,
+      "word": "大S妈妈说不认识张兰",
+      "onboard_time": 1723722860,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 659076,
@@ -537,6 +569,14 @@
       "onboard_time": 1723684761,
       "rank": 23,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 641865,
+      "num": 641865,
+      "word": "第一批奥运冠军已经开始教人化妆了",
+      "onboard_time": 1723718600,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 634512,
@@ -651,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 503060,
+      "num": 503060,
+      "word": "婚姻登记将全国通办不用再为爱奔波",
+      "onboard_time": 1723725141,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 479897,
       "num": 479897,
       "word": "杨舒予魏哲鸣约打篮球",
@@ -697,6 +745,14 @@
       "onboard_time": 1723709421,
       "rank": 33,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 449580,
+      "num": 360949,
+      "word": "海口龙凤胎分两次娩出",
+      "onboard_time": 1723723761,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 446529,
@@ -779,14 +835,6 @@
       "category": "游戏,美食"
     },
     {
-      "raw_hot": 392853,
-      "num": 392853,
-      "word": "第一批奥运冠军已经开始教人化妆了",
-      "onboard_time": 1723718600,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 389695,
       "num": 389695,
       "word": "全红婵父亲在家门口请游客吃月饼",
@@ -849,6 +897,14 @@
       "onboard_time": 1723681401,
       "rank": 23,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 361805,
+      "num": 607690,
+      "word": "坐军舰去上学是啥体验",
+      "onboard_time": 1723724541,
+      "rank": 9,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 360987,
@@ -979,6 +1035,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 305190,
+      "num": 305190,
+      "word": "为什么年轻人不吃泡椒凤爪了",
+      "onboard_time": 1723720459,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 302436,
+      "num": 368030,
+      "word": "郑合惠子啜妮新剧",
+      "onboard_time": 1723722320,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 301455,
       "num": 445968,
       "word": "丞磊 我们好像有点暧昧了",
@@ -992,6 +1064,14 @@
       "word": "执法发现周大福足金耳饰非足金",
       "onboard_time": 1723712422,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292836,
+      "num": 292836,
+      "word": "一女子网上辱骂体操运动员被罚",
+      "onboard_time": 1723720820,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1041,6 +1121,14 @@
       "onboard_time": 1723644201,
       "rank": 28,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 287763,
+      "num": 287763,
+      "word": "zmjjkk",
+      "onboard_time": 1723724541,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 287275,
@@ -1113,6 +1201,14 @@
       "onboard_time": 1723679478,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 261046,
+      "num": 261046,
+      "word": "一家三口深夜在446人群互骂1小时",
+      "onboard_time": 1723721301,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259870,
@@ -1211,6 +1307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 248055,
+      "num": 248055,
+      "word": "婚姻登记取消户口簿彰显婚姻自由",
+      "onboard_time": 1723724602,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245155,
       "num": 240506,
       "word": "任运杰小号",
@@ -1251,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240402,
+      "num": 240402,
+      "word": "千万别选这种颜色的泳衣",
+      "onboard_time": 1723724062,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 239664,
       "num": 370240,
       "word": "俄别尔哥罗德州进入联邦级紧急状态",
@@ -1265,6 +1377,14 @@
       "onboard_time": 1723691901,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236129,
+      "num": 298236,
+      "word": "严浩翔生日周边",
+      "onboard_time": 1723724481,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 235503,
@@ -1363,12 +1483,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 221575,
-      "num": 221575,
-      "word": "为什么年轻人不吃泡椒凤爪了",
-      "onboard_time": 1723720459,
-      "rank": 46,
-      "category": "美食"
+      "raw_hot": 222016,
+      "num": 222016,
+      "word": "将婚姻的决定权交给本人合情合理",
+      "onboard_time": 1723723641,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219551,
@@ -1441,6 +1561,14 @@
       "onboard_time": 1723713743,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211717,
+      "num": 211717,
+      "word": "狗狗有案底考不了警犬了",
+      "onboard_time": 1723724721,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 211657,
@@ -1667,12 +1795,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186429,
-      "num": 246078,
-      "word": "一女子网上辱骂体操运动员被罚",
-      "onboard_time": 1723720820,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 185825,
+      "num": 367232,
+      "word": "魏哲鸣翻牌",
+      "onboard_time": 1723724962,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 183958,
@@ -1723,14 +1851,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 178429,
-      "num": 178429,
-      "word": "一家三口深夜在446人群互骂1小时",
-      "onboard_time": 1723721301,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178368,
       "num": 178368,
       "word": "凯迪拉克 极氪",
@@ -1753,6 +1873,14 @@
       "onboard_time": 1723709780,
       "rank": 42,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 175555,
+      "num": 175555,
+      "word": "八旬老人疑被养老院室友打死",
+      "onboard_time": 1723725261,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175474,
@@ -1827,12 +1955,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 168907,
-      "num": 222203,
-      "word": "女主8集怀疑了男主8次假老公",
-      "onboard_time": 1723721660,
-      "rank": 39,
-      "category": "剧集"
+      "raw_hot": 167622,
+      "num": 167622,
+      "word": "王昶梁伟铿第一次单打",
+      "onboard_time": 1723725320,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 165952,
@@ -1897,6 +2025,14 @@
       "onboard_time": 1723678817,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161119,
+      "num": 161119,
+      "word": "乌合麒麟鼓励遭校园暴力的绘画少女",
+      "onboard_time": 1723724062,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160956,
@@ -1985,6 +2121,14 @@
       "onboard_time": 1723684641,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 145541,
+      "num": 161104,
+      "word": "夫人脸没亲到嘴先出去了",
+      "onboard_time": 1723723280,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 142010,
@@ -2283,6 +2427,14 @@
       "category": "社会新闻,国外时政"
     },
     {
+      "raw_hot": 67736,
+      "num": 547037,
+      "word": "Uzi只闯难关",
+      "onboard_time": 1723720999,
+      "rank": 28,
+      "category": "电竞,体育"
+    },
+    {
       "raw_hot": 67098,
       "num": 683460,
       "word": "硬控全红婵的乌龟对对碰火爆出圈",
@@ -2313,14 +2465,6 @@
       "onboard_time": 1723655954,
       "rank": 46,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 61950,
-      "num": 296414,
-      "word": "Uzi只闯难关",
-      "onboard_time": 1723720999,
-      "rank": 28,
-      "category": "电竞,体育"
     },
     {
       "raw_hot": 59995,

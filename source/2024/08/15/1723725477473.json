@@ -1,0 +1,410 @@
+{
+  "runTime": 1723725477473,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1628981,
+        "num": 1628981,
+        "word": "郑钦文生病",
+        "onboard_time": 1723720100,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1198886,
+        "num": 1198886,
+        "word": "编造五问陈梦者被行政处罚",
+        "onboard_time": 1723719920,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5781,
+        "num": 1116030,
+        "word": "何以中国行走河南",
+        "onboard_time": 1723641020,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1034162,
+        "num": 1034162,
+        "word": "女主8集怀疑了男主8次假老公",
+        "onboard_time": 1723721660,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 953171,
+        "num": 953171,
+        "word": "结婚登记不再需要户口簿",
+        "onboard_time": 1723680139,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 787211,
+        "num": 787211,
+        "word": "25岁女孩腹部抽脂永久丧失生育能力",
+        "onboard_time": 1723704260,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 696295,
+        "num": 696295,
+        "word": "日薪200招工给乌龟画眼睛嘴巴",
+        "onboard_time": 1723715122,
+        "rank": 6,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 664583,
+        "num": 664583,
+        "word": "大S妈妈说不认识张兰",
+        "onboard_time": 1723722860,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 641865,
+        "num": 641865,
+        "word": "第一批奥运冠军已经开始教人化妆了",
+        "onboard_time": 1723718600,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 361805,
+        "num": 607690,
+        "word": "坐军舰去上学是啥体验",
+        "onboard_time": 1723724541,
+        "rank": 9,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 582648,
+        "num": 582648,
+        "word": "离婚冷静期",
+        "onboard_time": 1723683861,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67736,
+        "num": 547037,
+        "word": "Uzi只闯难关",
+        "onboard_time": 1723720999,
+        "rank": 11,
+        "category": "电竞,体育"
+      },
+      {
+        "raw_hot": 539284,
+        "num": 539284,
+        "word": "孙颖莎陈清晨环球影城vlog",
+        "onboard_time": 1723713441,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 529846,
+        "num": 529846,
+        "word": "长荣桂冠酒店回应",
+        "onboard_time": 1723708041,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 882787,
+        "num": 529754,
+        "word": "恋与深空肯德基",
+        "onboard_time": 1723723101,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 526615,
+        "num": 526615,
+        "word": "陈梦是第一个被家乡摇出来代言的吧",
+        "onboard_time": 1723711280,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 503060,
+        "num": 503060,
+        "word": "婚姻登记将全国通办不用再为爱奔波",
+        "onboard_time": 1723725141,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406627,
+        "num": 406627,
+        "word": "孙茜 表演型人格",
+        "onboard_time": 1723710861,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302436,
+        "num": 368030,
+        "word": "郑合惠子啜妮新剧",
+        "onboard_time": 1723722320,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185825,
+        "num": 367232,
+        "word": "魏哲鸣翻牌",
+        "onboard_time": 1723724962,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1278580,
+        "num": 367152,
+        "word": "超市员工被质疑穿着暴露吸引生意",
+        "onboard_time": 1723714221,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366436,
+        "num": 366436,
+        "word": "男生搭飞机跨省上班9点准时打卡",
+        "onboard_time": 1723715660,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449580,
+        "num": 360949,
+        "word": "海口龙凤胎分两次娩出",
+        "onboard_time": 1723723761,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1111603,
+        "num": 341666,
+        "word": "35岁前为最佳生育年龄",
+        "onboard_time": 1723717941,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 961504,
+        "num": 330707,
+        "word": "山东卫视你真不拿陈梦当外人",
+        "onboard_time": 1723725081,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 504748,
+        "num": 319731,
+        "word": "zmjjkk 心像裤子那么紧",
+        "onboard_time": 1723721239,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 311368,
+        "num": 311368,
+        "word": "日军曾给中国人喝毒药做实验",
+        "onboard_time": 1723707140,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 305190,
+        "num": 305190,
+        "word": "为什么年轻人不吃泡椒凤爪了",
+        "onboard_time": 1723720459,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 236129,
+        "num": 298236,
+        "word": "严浩翔生日周边",
+        "onboard_time": 1723724481,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292836,
+        "num": 292836,
+        "word": "一女子网上辱骂体操运动员被罚",
+        "onboard_time": 1723720820,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287763,
+        "num": 287763,
+        "word": "zmjjkk",
+        "onboard_time": 1723724541,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 278022,
+        "num": 278022,
+        "word": "长期人口性别比失衡婚姻效果开始显现",
+        "onboard_time": 1723705881,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276804,
+        "num": 276804,
+        "word": "任运杰直播",
+        "onboard_time": 1723702460,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261046,
+        "num": 261046,
+        "word": "一家三口深夜在446人群互骂1小时",
+        "onboard_time": 1723721301,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155215,
+        "num": 253885,
+        "word": "杨舒予魏哲鸣约打篮球",
+        "onboard_time": 1723716020,
+        "rank": 34,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 248055,
+        "num": 248055,
+        "word": "婚姻登记取消户口簿彰显婚姻自由",
+        "onboard_time": 1723724602,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243569,
+        "num": 243569,
+        "word": "黄一鸣晒婚纱照",
+        "onboard_time": 1723696162,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243471,
+        "num": 243471,
+        "word": "这类食物一旦发黏千万别再吃",
+        "onboard_time": 1723717881,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 240402,
+        "num": 240402,
+        "word": "千万别选这种颜色的泳衣",
+        "onboard_time": 1723724062,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 235195,
+        "num": 235195,
+        "word": "结婚登记不需要户口簿方便了谁",
+        "onboard_time": 1723698382,
+        "rank": 39,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 222016,
+        "num": 222016,
+        "word": "将婚姻的决定权交给本人合情合理",
+        "onboard_time": 1723723641,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211717,
+        "num": 211717,
+        "word": "狗狗有案底考不了警犬了",
+        "onboard_time": 1723724721,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178772,
+        "num": 178772,
+        "word": "樊振东 我太大一只了",
+        "onboard_time": 1723703420,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175888,
+        "num": 175888,
+        "word": "王励勤在小胖低迷期力撑小胖",
+        "onboard_time": 1723717881,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175555,
+        "num": 175555,
+        "word": "八旬老人疑被养老院室友打死",
+        "onboard_time": 1723725261,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171156,
+        "num": 171156,
+        "word": "全红婵父亲在家门口请游客吃月饼",
+        "onboard_time": 1723713622,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167622,
+        "num": 167622,
+        "word": "王昶梁伟铿第一次单打",
+        "onboard_time": 1723725320,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167274,
+        "num": 167274,
+        "word": "2岁女童失踪7小时在深山中找到",
+        "onboard_time": 1723713982,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161119,
+        "num": 161119,
+        "word": "乌合麒麟鼓励遭校园暴力的绘画少女",
+        "onboard_time": 1723724062,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145541,
+        "num": 161104,
+        "word": "夫人脸没亲到嘴先出去了",
+        "onboard_time": 1723723280,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#人不负青山 青山定不负人#"
+    }
+  }
+}
