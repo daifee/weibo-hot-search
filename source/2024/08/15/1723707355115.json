@@ -1,0 +1,410 @@
+{
+  "runTime": 1723707355115,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3430175,
+        "num": 3430175,
+        "word": "25岁女孩腹部抽脂永久丧失生育能力",
+        "onboard_time": 1723704260,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1989116,
+        "num": 1989116,
+        "word": "樊振东 我太大一只了",
+        "onboard_time": 1723703420,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29904,
+        "num": 1608354,
+        "word": "传统中国色看大美生态",
+        "onboard_time": 1723690819,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1436588,
+        "num": 1436588,
+        "word": "离婚冷静期",
+        "onboard_time": 1723683861,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1192253,
+        "num": 1192253,
+        "word": "离婚冷静期届满30天不办理视为撤回",
+        "onboard_time": 1723701621,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1123040,
+        "num": 1123040,
+        "word": "结婚登记不再需要户口簿",
+        "onboard_time": 1723680139,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1078216,
+        "num": 1078216,
+        "word": "iPhone5S真就是CCD平替",
+        "onboard_time": 1723703781,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 940186,
+        "num": 940186,
+        "word": "黄一鸣晒婚纱照",
+        "onboard_time": 1723696162,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 933826,
+        "num": 933826,
+        "word": "曾之乔官宣怀孕",
+        "onboard_time": 1723699102,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19115,
+        "num": 887880,
+        "word": "市监局被指向涉传销企业要2100万罚金",
+        "onboard_time": 1723707020,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 847423,
+        "num": 847423,
+        "word": "女童游泳被男教练偷拍配文好可爱",
+        "onboard_time": 1723704021,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 702864,
+        "num": 702864,
+        "word": "结婚登记不需要户口簿方便了谁",
+        "onboard_time": 1723698382,
+        "rank": 11,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 647510,
+        "num": 647510,
+        "word": "章若楠要更改粉丝名了",
+        "onboard_time": 1723702281,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 643319,
+        "num": 643319,
+        "word": "离婚冷静期内任何一方可申请撤回",
+        "onboard_time": 1723691540,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 633098,
+        "num": 633098,
+        "word": "林更新 拿个破手机录录录",
+        "onboard_time": 1723695261,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 569866,
+        "num": 569866,
+        "word": "陈奕迅cue全红婵",
+        "onboard_time": 1723700062,
+        "rank": 15,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 542217,
+        "num": 542217,
+        "word": "狗头萝莉回应女子称自己好看不排队",
+        "onboard_time": 1723697782,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 464462,
+        "num": 464462,
+        "word": "任运杰直播",
+        "onboard_time": 1723702460,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443583,
+        "num": 443583,
+        "word": "乌军前总司令下令炸毁北溪管道",
+        "onboard_time": 1723700181,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 418552,
+        "num": 418552,
+        "word": "30至44岁未婚女性比例大幅提高",
+        "onboard_time": 1723691841,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 934412,
+        "num": 399958,
+        "word": "世界上最大的诈骗 中国人的朋友圈",
+        "onboard_time": 1723701800,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 740361,
+        "num": 386276,
+        "word": "怀疑老公出轨拍下偷吃画面",
+        "onboard_time": 1723689379,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 347973,
+        "num": 347973,
+        "word": "孙茜没参加陶昕然婚礼遗憾了十年",
+        "onboard_time": 1723700901,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303788,
+        "num": 303788,
+        "word": "长期人口性别比失衡婚姻效果开始显现",
+        "onboard_time": 1723705881,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286293,
+        "num": 286293,
+        "word": "徐峥回应被指消费苦难",
+        "onboard_time": 1723704620,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 42139,
+        "num": 277407,
+        "word": "蔚来全新品牌乐道首款车下线",
+        "onboard_time": 1723705522,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 276889,
+        "num": 276889,
+        "word": "孙颖莎把主持人的词都说完了",
+        "onboard_time": 1723706659,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251788,
+        "num": 251788,
+        "word": "刘亦菲露腿拍广告",
+        "onboard_time": 1723702041,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249613,
+        "num": 249613,
+        "word": "模仿黄宗泽大巴上跳舞",
+        "onboard_time": 1723704200,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 248202,
+        "num": 248202,
+        "word": "长荣酒店官网订房区分中国和台湾",
+        "onboard_time": 1723692799,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248904,
+        "num": 247798,
+        "word": "十个勤天回到了后陡门家",
+        "onboard_time": 1723702700,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245142,
+        "num": 245142,
+        "word": "耻辱柱 彩排",
+        "onboard_time": 1723692562,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 241268,
+        "num": 241268,
+        "word": "日本无条件投降79周年",
+        "onboard_time": 1723651341,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 240279,
+        "num": 240279,
+        "word": "金锣火腿肠未开封袋内有虫子蠕动",
+        "onboard_time": 1723705218,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228651,
+        "num": 228651,
+        "word": "为什么越来越多人选择晚婚",
+        "onboard_time": 1723702760,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223110,
+        "num": 223110,
+        "word": "日军曾给中国人喝毒药做实验",
+        "onboard_time": 1723707140,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 119621,
+        "num": 220849,
+        "word": "为什么一上网就被气得不行",
+        "onboard_time": 1723705218,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220828,
+        "num": 220828,
+        "word": "山东一执法人员称干垮一个企业太简单",
+        "onboard_time": 1723700303,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202408,
+        "num": 202408,
+        "word": "以色列代表离场前说我们国家最道德",
+        "onboard_time": 1723693821,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 193035,
+        "num": 193035,
+        "word": "刘耀文无法出席东方风云榜",
+        "onboard_time": 1723707320,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190827,
+        "num": 190827,
+        "word": "王昶 我有点想他了",
+        "onboard_time": 1723693162,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190422,
+        "num": 190422,
+        "word": "奥运刚开赛ChatGPT预测中国35金",
+        "onboard_time": 1723706061,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189343,
+        "num": 189343,
+        "word": "生态日看自然",
+        "onboard_time": 1723694662,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178008,
+        "num": 178008,
+        "word": "男子恋爱豪掷280万分手追回240万",
+        "onboard_time": 1723695022,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160964,
+        "num": 160964,
+        "word": "华为Mate60系列官宣降价",
+        "onboard_time": 1723698922,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 160341,
+        "num": 160341,
+        "word": "全红婵真的通过努力让全家人好起来了",
+        "onboard_time": 1723698022,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155996,
+        "num": 155996,
+        "word": "蔡少芬吃虫崩溃头痛喊剪秋",
+        "onboard_time": 1723705762,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155282,
+        "num": 155282,
+        "word": "你让山西菜弯了多年的腰断了",
+        "onboard_time": 1723705522,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152481,
+        "num": 152481,
+        "word": "上海一斤黄瓜6.3元",
+        "onboard_time": 1723694780,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152191,
+        "num": 152191,
+        "word": "德国发布北溪管道爆炸案首张逮捕令",
+        "onboard_time": 1723698742,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对生态文明建设的殷殷嘱托#"
+    }
+  }
+}
