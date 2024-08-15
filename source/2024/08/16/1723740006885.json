@@ -1,0 +1,410 @@
+{
+  "runTime": 1723740006885,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1102153,
+        "num": 1102153,
+        "word": "婚姻登记取消户口簿彰显婚姻自由",
+        "onboard_time": 1723724602,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1002258,
+        "num": 1002258,
+        "word": "全红婵你真牛啊真狠啊",
+        "onboard_time": 1723729341,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3570,
+        "num": 821905,
+        "word": "何以中国行走河南",
+        "onboard_time": 1723641020,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 649950,
+        "num": 649950,
+        "word": "情绪不稳定的人玩不了这游戏",
+        "onboard_time": 1723731861,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 529461,
+        "num": 529461,
+        "word": "小火锅为什么不受欢迎了",
+        "onboard_time": 1723730841,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 424510,
+        "num": 424510,
+        "word": "辰亦儒曾之乔睡觉都牵着手",
+        "onboard_time": 1723735400,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406627,
+        "num": 406627,
+        "word": "女子入职3个月怀孕被扣7个月绩效金",
+        "onboard_time": 1723732641,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313687,
+        "num": 313687,
+        "word": "导致离婚的10大原因",
+        "onboard_time": 1723735940,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 306506,
+        "num": 306506,
+        "word": "25岁女孩腹部抽脂永久丧失生育能力",
+        "onboard_time": 1723704260,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275897,
+        "num": 275897,
+        "word": "和SM有合约的艺人",
+        "onboard_time": 1723737740,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1168112,
+        "num": 267958,
+        "word": "总统实名羡慕中国高铁美国咋造不出来",
+        "onboard_time": 1723734681,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 480039,
+        "num": 267587,
+        "word": "一家三口深夜在446人群互骂1小时",
+        "onboard_time": 1723721301,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259582,
+        "num": 259582,
+        "word": "女主8集怀疑了男主8次假老公",
+        "onboard_time": 1723721660,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241302,
+        "num": 241302,
+        "word": "俄一战略轰炸机坠毁",
+        "onboard_time": 1723736781,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 230709,
+        "num": 230709,
+        "word": "全红婵带火的玩具乌龟日销量超40万只",
+        "onboard_time": 1723729880,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229705,
+        "num": 229705,
+        "word": "时代峰峻否认余宇涵恋爱",
+        "onboard_time": 1723734442,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212977,
+        "num": 212977,
+        "word": "孙颖莎陈清晨环球影城vlog",
+        "onboard_time": 1723713441,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182547,
+        "num": 182547,
+        "word": "莫雷加德晒与樊振东合照",
+        "onboard_time": 1723729880,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170738,
+        "num": 170738,
+        "word": "国产剧拍到了容貌焦虑低龄化",
+        "onboard_time": 1723725621,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163866,
+        "num": 163866,
+        "word": "娜扎 丞磊你在轧戏啊",
+        "onboard_time": 1723725621,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154651,
+        "num": 163163,
+        "word": "俄军步兵攻入乌军据点俘虏乌士兵",
+        "onboard_time": 1723731261,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 417897,
+        "num": 162150,
+        "word": "医生说女生有小肚子很正常",
+        "onboard_time": 1723729762,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 330550,
+        "num": 161870,
+        "word": "超市员工被质疑穿着暴露吸引生意",
+        "onboard_time": 1723714221,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249830,
+        "num": 161085,
+        "word": "35岁前为最佳生育年龄",
+        "onboard_time": 1723717941,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168742,
+        "num": 160380,
+        "word": "黄一鸣说不会再找对象",
+        "onboard_time": 1723737201,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157520,
+        "num": 159015,
+        "word": "大S妈妈说不认识张兰",
+        "onboard_time": 1723722860,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158648,
+        "num": 158648,
+        "word": "日薪200招工给乌龟画眼睛嘴巴",
+        "onboard_time": 1723715122,
+        "rank": 26,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 153014,
+        "num": 153014,
+        "word": "杭州一女子因穿着暴露卖货被查",
+        "onboard_time": 1723729941,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146320,
+        "num": 146320,
+        "word": "八旬老人疑被养老院室友打死",
+        "onboard_time": 1723725261,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137069,
+        "num": 144124,
+        "word": "林俊杰 抢票",
+        "onboard_time": 1723728081,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142821,
+        "num": 142821,
+        "word": "为什么年轻人不吃泡椒凤爪了",
+        "onboard_time": 1723720459,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 137459,
+        "num": 137459,
+        "word": "上海大学回应说唱社团暗讽农民工",
+        "onboard_time": 1723734622,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136883,
+        "num": 136883,
+        "word": "长荣桂冠酒店回应",
+        "onboard_time": 1723708041,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132606,
+        "num": 132606,
+        "word": "黄一鸣晒婚纱照",
+        "onboard_time": 1723696162,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132315,
+        "num": 132315,
+        "word": "女子吃凉皮后米酵菌酸中毒住进ICU",
+        "onboard_time": 1723726821,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130566,
+        "num": 130566,
+        "word": "河南省监狱管理局回应18岁考生上岸",
+        "onboard_time": 1723733122,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120595,
+        "num": 120595,
+        "word": "董宇辉说和俞敏洪挺好的",
+        "onboard_time": 1723736419,
+        "rank": 36,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 114009,
+        "num": 114009,
+        "word": "编造五问陈梦者被行政处罚",
+        "onboard_time": 1723719920,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112943,
+        "num": 112943,
+        "word": "任运杰直播",
+        "onboard_time": 1723702460,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112087,
+        "num": 112087,
+        "word": "zmjjkk 心像裤子那么紧",
+        "onboard_time": 1723721239,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111031,
+        "num": 111031,
+        "word": "第一批奥运冠军已经开始教人化妆了",
+        "onboard_time": 1723718600,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107746,
+        "num": 107746,
+        "word": "樊振东快问快答",
+        "onboard_time": 1723733962,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103632,
+        "num": 103632,
+        "word": "乌克兰在库尔斯克成立军事管制局",
+        "onboard_time": 1723735522,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 99123,
+        "num": 99123,
+        "word": "曾舜晞演了白鹿的男主角",
+        "onboard_time": 1723738878,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97478,
+        "num": 97478,
+        "word": "完美世界石昊正是1打4的年纪",
+        "onboard_time": 1723739358,
+        "rank": 44,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 93819,
+        "num": 93819,
+        "word": "孙茜 表演型人格",
+        "onboard_time": 1723710861,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92749,
+        "num": 92749,
+        "word": "猫猫 允许你亲吻我的左脚",
+        "onboard_time": 1723732881,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92731,
+        "num": 92731,
+        "word": "樊振东的球每秒飞19米转146圈",
+        "onboard_time": 1723728261,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92494,
+        "num": 92494,
+        "word": "张博恒晒腹肌照",
+        "onboard_time": 1723732821,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92110,
+        "num": 92110,
+        "word": "张晚意扶腰带那一下",
+        "onboard_time": 1723726042,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同巴西总统互致贺电#"
+    }
+  }
+}
