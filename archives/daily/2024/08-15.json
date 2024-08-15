@@ -1,6 +1,6 @@
 {
   "startTime": 1723652882305,
-  "endTime": 1723703282680,
+  "endTime": 1723704108855,
   "band_list": [
     {
       "raw_hot": 4508116,
@@ -131,20 +131,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1452832,
+      "num": 417777,
+      "word": "世界上最大的诈骗 中国人的朋友圈",
+      "onboard_time": 1723701800,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1447978,
       "num": 1447978,
       "word": "狗头萝莉回应女子称自己好看不排队",
       "onboard_time": 1723697782,
       "rank": 11,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1424255,
-      "num": 373357,
-      "word": "世界上最大的诈骗 中国人的朋友圈",
-      "onboard_time": 1723701800,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 1392677,
@@ -259,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1010758,
+      "num": 1010758,
+      "word": "离婚冷静期届满30天不办理视为撤回",
+      "onboard_time": 1723701621,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 970637,
       "num": 970637,
       "word": "陈奕迅cue全红婵",
@@ -283,8 +291,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 753443,
-      "num": 753443,
+      "raw_hot": 867017,
+      "num": 867017,
       "word": "结婚登记不需要户口簿方便了谁",
       "onboard_time": 1723698382,
       "rank": 40,
@@ -329,14 +337,6 @@
       "onboard_time": 1723684761,
       "rank": 23,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 648261,
-      "num": 648261,
-      "word": "离婚冷静期届满30天不办理视为撤回",
-      "onboard_time": 1723701621,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 634512,
@@ -419,6 +419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 508500,
+      "num": 508500,
+      "word": "十个勤天回到了后陡门家",
+      "onboard_time": 1723702700,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 484049,
       "num": 484049,
       "word": "云南丽江3.0级地震",
@@ -475,12 +483,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 434629,
+      "num": 434629,
+      "word": "iPhone5S真就是CCD平替",
+      "onboard_time": 1723703781,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 434392,
       "num": 297360,
       "word": "极氪已报警",
       "onboard_time": 1723648521,
       "rank": 20,
       "category": "社会新闻,汽车"
+    },
+    {
+      "raw_hot": 422896,
+      "num": 422896,
+      "word": "章若楠要更改粉丝名了",
+      "onboard_time": 1723702281,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 422146,
+      "num": 422146,
+      "word": "樊振东 我太大一只了",
+      "onboard_time": 1723703420,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 420793,
@@ -537,14 +569,6 @@
       "onboard_time": 1723644321,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 373300,
-      "num": 373300,
-      "word": "章若楠要更改粉丝名了",
-      "onboard_time": 1723702281,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 371588,
@@ -611,6 +635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 346225,
+      "num": 346225,
+      "word": "女童游泳被男教练偷拍配文好可爱",
+      "onboard_time": 1723704021,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 345522,
       "num": 433625,
       "word": "柳舟记第8集杀疯了",
@@ -635,6 +667,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 326327,
+      "num": 326327,
+      "word": "山东一执法人员称干垮一个企业太简单",
+      "onboard_time": 1723700303,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319776,
       "num": 319776,
       "word": "个人住房贷款首套房标准放宽",
@@ -651,12 +691,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 291917,
-      "num": 373406,
-      "word": "十个勤天回到了后陡门家",
-      "onboard_time": 1723702700,
-      "rank": 19,
-      "category": "综艺"
+      "raw_hot": 293994,
+      "num": 293994,
+      "word": "任运杰直播",
+      "onboard_time": 1723702460,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 291265,
@@ -827,14 +867,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 248687,
-      "num": 248687,
-      "word": "山东一执法人员称干垮一个企业太简单",
-      "onboard_time": 1723700303,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 244886,
       "num": 244886,
       "word": "离婚冷静期拟加入婚姻登记条例",
@@ -873,6 +905,14 @@
       "onboard_time": 1723697843,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 228376,
+      "num": 228376,
+      "word": "华为Mate60系列官宣降价",
+      "onboard_time": 1723698922,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 226868,
@@ -915,14 +955,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 223581,
-      "num": 223581,
-      "word": "华为Mate60系列官宣降价",
-      "onboard_time": 1723698922,
-      "rank": 48,
-      "category": "数码"
-    },
-    {
       "raw_hot": 222227,
       "num": 222227,
       "word": "TFBOYS全员加速中最新花絮",
@@ -937,14 +969,6 @@
       "onboard_time": 1723688779,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 217925,
-      "num": 217925,
-      "word": "任运杰直播",
-      "onboard_time": 1723702460,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 215906,
@@ -979,6 +1003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212524,
+      "num": 809053,
+      "word": "一个藏在文身里的网红想要洗白自己",
+      "onboard_time": 1723697423,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211657,
       "num": 354886,
       "word": "演员吉娜罗兰兹去世",
@@ -1004,7 +1036,7 @@
     },
     {
       "raw_hot": 206093,
-      "num": 206093,
+      "num": 220075,
       "word": "第一次见贴脚开大的男主",
       "onboard_time": 1723699702,
       "rank": 45,
@@ -1219,6 +1251,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 169303,
+      "num": 169303,
+      "word": "你俩喜欢对方是因为自恋吗",
+      "onboard_time": 1723703000,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164844,
       "num": 248985,
       "word": "张晚意也在关注莎头组合",
@@ -1345,14 +1385,6 @@
       "onboard_time": 1723651459,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 122804,
-      "num": 809053,
-      "word": "一个藏在文身里的网红想要洗白自己",
-      "onboard_time": 1723697423,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122205,
@@ -1508,7 +1540,7 @@
     },
     {
       "raw_hot": 89872,
-      "num": 290563,
+      "num": 417879,
       "word": "朱一龙金刚葫芦娃造型",
       "onboard_time": 1723699821,
       "rank": 31,
