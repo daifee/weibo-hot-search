@@ -1,6 +1,6 @@
 {
   "startTime": 1723825640005,
-  "endTime": 1723847805844,
+  "endTime": 1723850440159,
   "band_list": [
     {
       "raw_hot": 1628822,
@@ -43,8 +43,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 960977,
-      "num": 960977,
+      "raw_hot": 1011654,
+      "num": 1011654,
       "word": "陈梦说就是要赢给所有人看",
       "onboard_time": 1723817363,
       "rank": 3,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 294690,
+      "num": 128268,
+      "word": "西湖边的树冒黑烟是蚊子在交配",
+      "onboard_time": 1723847532,
+      "rank": 48,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 291658,
       "num": 291658,
       "word": "目前我国终身不婚人群仍是少数",
@@ -193,6 +201,22 @@
       "onboard_time": 1723821322,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 259221,
+      "num": 259221,
+      "word": "该不该远离总是倾诉负能量的朋友",
+      "onboard_time": 1723845252,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248684,
+      "num": 126662,
+      "word": "民政部回应设置离婚冷静期",
+      "onboard_time": 1723836552,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248205,
@@ -259,6 +283,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193574,
+      "num": 193574,
+      "word": "爱奇艺破万墙",
+      "onboard_time": 1723831873,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 193153,
+      "num": 193153,
+      "word": "解决天价彩礼等问题有了新思路",
+      "onboard_time": 1723824798,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184755,
       "num": 184755,
       "word": "离婚冷静期真的能降低离婚率吗",
@@ -283,35 +323,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160488,
-      "num": 66562,
-      "word": "民政部回应设置离婚冷静期",
-      "onboard_time": 1723836552,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159670,
       "num": 159670,
       "word": "为什么结婚不用户口簿触动人们神经",
       "onboard_time": 1723806020,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159264,
-      "num": 159264,
-      "word": "爱奇艺破万墙",
-      "onboard_time": 1723831873,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 158521,
-      "num": 158521,
-      "word": "解决天价彩礼等问题有了新思路",
-      "onboard_time": 1723824798,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -329,6 +345,14 @@
       "onboard_time": 1723821861,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 153268,
+      "num": 120892,
+      "word": "八月种花湖柳岸",
+      "onboard_time": 1723850354,
+      "rank": 24,
+      "category": "读书作家"
     },
     {
       "raw_hot": 149586,
@@ -427,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99355,
+      "num": 99355,
+      "word": "郑钦文比赛",
+      "onboard_time": 1723850296,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97502,
       "num": 126846,
       "word": "JDG晋级冒泡赛",
@@ -435,11 +467,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 70864,
-      "num": 118235,
-      "word": "该不该远离总是倾诉负能量的朋友",
-      "onboard_time": 1723845252,
-      "rank": 9,
+      "raw_hot": 74104,
+      "num": 74104,
+      "word": "外卖小哥从负债累累逆袭成全国最强",
+      "onboard_time": 1723836852,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -449,6 +481,14 @@
       "onboard_time": 1723820602,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 60653,
+      "num": 74098,
+      "word": "研究显示晚婚的人离婚风险更低",
+      "onboard_time": 1723830673,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57552,
@@ -467,16 +507,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 56255,
-      "num": 61010,
-      "word": "研究显示晚婚的人离婚风险更低",
-      "onboard_time": 1723830673,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 55295,
-      "num": 55295,
+      "num": 73952,
       "word": "大S早期谈对婚姻的看法",
       "onboard_time": 1723843512,
       "rank": 48,
@@ -489,6 +521,14 @@
       "onboard_time": 1723816703,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46804,
+      "num": 73964,
+      "word": "许凯撒娇说明是真害怕了",
+      "onboard_time": 1723849934,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 43183,
@@ -523,14 +563,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 35607,
-      "num": 46804,
-      "word": "外卖小哥从负债累累逆袭成全国最强",
-      "onboard_time": 1723836852,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 35573,
       "num": 50684,
       "word": "十天之后回到现实",
@@ -547,14 +579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32543,
-      "num": 40147,
-      "word": "西湖边的树冒黑烟是蚊子在交配",
-      "onboard_time": 1723847532,
-      "rank": 48,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 26659,
       "num": 32436,
       "word": "如何看待结婚不用户口簿",
@@ -568,6 +592,14 @@
       "word": "研学游别成了到此一游",
       "onboard_time": 1723838711,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24495,
+      "num": 183801,
+      "word": "多地建骑手友好社区",
+      "onboard_time": 1723847953,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
