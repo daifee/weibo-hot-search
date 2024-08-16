@@ -1,7 +1,15 @@
 {
   "startTime": 1723739122020,
-  "endTime": 1723776520708,
+  "endTime": 1723778756863,
   "band_list": [
+    {
+      "raw_hot": 8272440,
+      "num": 8272440,
+      "word": "范丞丞方回应",
+      "onboard_time": 1723778303,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 5438729,
       "num": 845772,
@@ -11,15 +19,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 3886096,
-      "num": 2193822,
-      "word": "结婚不要户口本或缓解天价彩礼现象",
-      "onboard_time": 1723767439,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3510089,
+      "raw_hot": 5102322,
       "num": 507310,
       "word": "范丞丞 周洁琼",
       "onboard_time": 1723776021,
@@ -27,8 +27,24 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2320203,
-      "num": 2320203,
+      "raw_hot": 3886096,
+      "num": 2205621,
+      "word": "结婚不要户口本或缓解天价彩礼现象",
+      "onboard_time": 1723767439,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3490129,
+      "num": 1161187,
+      "word": "周洁琼方否认与范丞丞恋情",
+      "onboard_time": 1723777342,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2597253,
+      "num": 2597253,
       "word": "长荣桂冠酒店道歉",
       "onboard_time": 1723774461,
       "rank": 0,
@@ -83,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1204144,
+      "num": 1204144,
+      "word": "陈梦分享海边美照",
+      "onboard_time": 1723775420,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1165991,
       "num": 1165991,
       "word": "加沙女孩用嘴去接卡车漏下的水滴解渴",
@@ -129,6 +153,14 @@
       "onboard_time": 1723774821,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 901102,
+      "num": 674408,
+      "word": "买超",
+      "onboard_time": 1723778062,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 877208,
@@ -219,14 +251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 568290,
-      "num": 465421,
-      "word": "陈梦分享海边美照",
-      "onboard_time": 1723775420,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 556243,
       "num": 556243,
       "word": "辰亦儒曾之乔睡觉都牵着手",
@@ -275,6 +299,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 398764,
+      "num": 398764,
+      "word": "骗子开发200款APP骗了8万人",
+      "onboard_time": 1723777162,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 393636,
       "num": 393636,
       "word": "多家名称涉长荣企业紧急声明",
@@ -291,6 +323,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 361089,
+      "num": 361089,
+      "word": "国乒封训备战记录",
+      "onboard_time": 1723777462,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 328867,
+      "num": 621895,
+      "word": "密逃 四个男人凑不出一个胆子",
+      "onboard_time": 1723775000,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 326832,
       "num": 301859,
       "word": "时代峰峻否认余宇涵恋爱",
@@ -305,6 +353,14 @@
       "onboard_time": 1723761494,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 314322,
+      "num": 314322,
+      "word": "女孩被老师砸破头骨后遗症明显",
+      "onboard_time": 1723776982,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 313687,
@@ -355,6 +411,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 289779,
+      "num": 289779,
+      "word": "结婚登记拟不需户口簿如何防骗婚",
+      "onboard_time": 1723772720,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288512,
+      "num": 288512,
+      "word": "竞走冠军杨家玉逛街老公直呼慢点",
+      "onboard_time": 1723776803,
+      "rank": 32,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 287837,
       "num": 287837,
       "word": "和SM有合约的艺人",
@@ -379,20 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 283264,
-      "num": 621895,
-      "word": "密逃 四个男人凑不出一个胆子",
-      "onboard_time": 1723775000,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 270315,
-      "num": 270315,
-      "word": "结婚登记拟不需户口簿如何防骗婚",
-      "onboard_time": 1723772720,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 277128,
+      "num": 455783,
+      "word": "迪丽热巴单肩黑裙",
+      "onboard_time": 1723777162,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 264166,
@@ -411,12 +475,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257248,
+      "num": 257248,
+      "word": "猴痘疫情已向非洲以外蔓延",
+      "onboard_time": 1723772840,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 255566,
       "num": 255566,
       "word": "孙颖莎陈清晨环球影城vlog",
       "onboard_time": 1723713441,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 254393,
+      "num": 254393,
+      "word": "过度延长产假或增加女性中断就业概率",
+      "onboard_time": 1723775842,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242263,
@@ -443,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238729,
+      "num": 238729,
+      "word": "史上最大规模中国游戏厂商亮相德国",
+      "onboard_time": 1723775301,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 237448,
       "num": 237448,
       "word": "章若楠后援会回应改名",
@@ -451,12 +539,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 228566,
-      "num": 228566,
-      "word": "猴痘疫情已向非洲以外蔓延",
-      "onboard_time": 1723772840,
-      "rank": 31,
-      "category": "健康医疗"
+      "raw_hot": 229067,
+      "num": 229067,
+      "word": "早上吃碳水可以保持一天的食欲",
+      "onboard_time": 1723775961,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 226712,
@@ -515,12 +603,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206773,
-      "num": 206773,
-      "word": "史上最大规模中国游戏厂商亮相德国",
-      "onboard_time": 1723775301,
-      "rank": 35,
-      "category": "游戏"
+      "raw_hot": 204864,
+      "num": 204864,
+      "word": "离婚冷静期是双刃剑",
+      "onboard_time": 1723778664,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203232,
@@ -529,6 +617,14 @@
       "onboard_time": 1723718600,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200846,
+      "num": 377439,
+      "word": "战至巅峰3官宣定档",
+      "onboard_time": 1723778122,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 200348,
@@ -553,6 +649,30 @@
       "onboard_time": 1723776444,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194570,
+      "num": 194570,
+      "word": "揭秘阳光私募12亿存款丢失涉事3公司",
+      "onboard_time": 1723773980,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 194533,
+      "num": 291122,
+      "word": "迪丽热巴古典油画妆",
+      "onboard_time": 1723778605,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 194272,
+      "num": 194272,
+      "word": "郑钦文比赛延期至明天",
+      "onboard_time": 1723776681,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 194259,
@@ -643,12 +763,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183850,
+      "num": 206273,
+      "word": "张晚意 我的目标是破3万",
+      "onboard_time": 1723776323,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182057,
       "num": 182057,
       "word": "发明韩语的不会是个广东人吧",
       "onboard_time": 1723771579,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 177332,
+      "num": 177332,
+      "word": "千万别让王嘉尔看到杜海涛这段",
+      "onboard_time": 1723777582,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 175865,
@@ -659,19 +795,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173799,
+      "num": 173799,
+      "word": "平次为基德挡刀",
+      "onboard_time": 1723777283,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 168470,
       "num": 168470,
       "word": "上海大学回应说唱社团暗讽农民工",
       "onboard_time": 1723734622,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165255,
-      "num": 165255,
-      "word": "过度延长产假或增加女性中断就业概率",
-      "onboard_time": 1723775842,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -723,14 +859,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 158643,
-      "num": 158643,
-      "word": "张晚意 我的目标是破3万",
-      "onboard_time": 1723776323,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 157994,
       "num": 157994,
       "word": "长荣桂冠酒店回应",
@@ -769,14 +897,6 @@
       "onboard_time": 1723772420,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 146587,
-      "num": 146587,
-      "word": "早上吃碳水可以保持一天的食欲",
-      "onboard_time": 1723775961,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 145769,
@@ -955,11 +1075,27 @@
       "category": "财经"
     },
     {
+      "raw_hot": 76988,
+      "num": 687633,
+      "word": "智障男子抢劫案改判无罪后续",
+      "onboard_time": 1723777222,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72217,
       "num": 86001,
       "word": "婚姻登记不再收取费用",
       "onboard_time": 1723752072,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65703,
+      "num": 644977,
+      "word": "文化中国行看见大美山河",
+      "onboard_time": 1723777582,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -1075,6 +1211,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 24994,
+      "num": 655184,
+      "word": "撒贝宁解锁硬核洗衣知识",
+      "onboard_time": 1723776982,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18322,
       "num": 32379,
       "word": "两面三刀的砸锅者必将一凉到底",
@@ -1097,11 +1241,22 @@
       "onboard_time": 1723641020,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2139,
+      "num": 2310094,
+      "word": "绘就美丽生态画卷",
+      "onboard_time": 1723691059,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#习近平同巴西总统互致贺电#"
+    },
+    {
+      "word": "#跟着总书记探寻文化根魂#"
     }
   ]
 }
