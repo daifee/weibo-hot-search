@@ -1,21 +1,21 @@
 {
   "startTime": 1723739122020,
-  "endTime": 1723779605776,
+  "endTime": 1723782228369,
   "band_list": [
+    {
+      "raw_hot": 10724841,
+      "num": 677381,
+      "word": "范丞丞 孙伊涵",
+      "onboard_time": 1723779443,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 10569460,
       "num": 10569460,
       "word": "范丞丞方回应",
       "onboard_time": 1723778303,
       "rank": 0,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 7557101,
-      "num": 677381,
-      "word": "范丞丞 孙伊涵",
-      "onboard_time": 1723779443,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -57,6 +57,14 @@
       "onboard_time": 1723774461,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2582874,
+      "num": 917655,
+      "word": "孙伊涵工作室否认恋情",
+      "onboard_time": 1723781665,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1896457,
@@ -139,6 +147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1063549,
+      "num": 651562,
+      "word": "皇权富贵真的be了",
+      "onboard_time": 1723779743,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1023500,
       "num": 1023500,
       "word": "台湾附近6.1级左右地震",
@@ -219,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 682875,
+      "num": 682875,
+      "word": "阿娇皇甫圣华手挽手",
+      "onboard_time": 1723780824,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 679189,
       "num": 679189,
       "word": "郑钦文比赛因雨暂停",
@@ -233,6 +257,14 @@
       "onboard_time": 1723767020,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 641375,
+      "num": 641375,
+      "word": "女孩被老师砸破头骨后遗症明显",
+      "onboard_time": 1723776982,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 634144,
@@ -267,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 536123,
+      "num": 691409,
+      "word": "骗子开发200款APP骗了8万人",
+      "onboard_time": 1723777162,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 527504,
       "num": 232743,
       "word": "医生说女生有小肚子很正常",
@@ -283,12 +323,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 468558,
-      "num": 691409,
-      "word": "骗子开发200款APP骗了8万人",
-      "onboard_time": 1723777162,
-      "rank": 23,
+      "raw_hot": 498362,
+      "num": 686823,
+      "word": "离婚冷静期是双刃剑",
+      "onboard_time": 1723778664,
+      "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 490767,
+      "num": 490767,
+      "word": "国乒封训备战记录",
+      "onboard_time": 1723777462,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 442424,
@@ -315,27 +363,11 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 395054,
-      "num": 395054,
-      "word": "国乒封训备战记录",
-      "onboard_time": 1723777462,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 393636,
       "num": 393636,
       "word": "多家名称涉长荣企业紧急声明",
       "onboard_time": 1723756751,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 387798,
-      "num": 387798,
-      "word": "女孩被老师砸破头骨后遗症明显",
-      "onboard_time": 1723776982,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -345,6 +377,30 @@
       "onboard_time": 1723704260,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375785,
+      "num": 375785,
+      "word": "天价彩礼背后的根本原因",
+      "onboard_time": 1723779023,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 370761,
+      "num": 370761,
+      "word": "女子到中医馆买十三香配料炖红烧肉",
+      "onboard_time": 1723779148,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 341646,
+      "num": 373582,
+      "word": "杨紫费加罗八月封面预告",
+      "onboard_time": 1723779624,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 328867,
@@ -395,12 +451,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 306241,
+      "num": 306241,
+      "word": "新浪娱乐乐华投票",
+      "onboard_time": 1723781965,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 304136,
       "num": 225245,
       "word": "35岁前为最佳生育年龄",
       "onboard_time": 1723717941,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301982,
+      "num": 301982,
+      "word": "印军练瑜伽照片意外暴露核导弹动向",
+      "onboard_time": 1723780466,
+      "rank": 26,
+      "category": "军事"
     },
     {
       "raw_hot": 301476,
@@ -443,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 289393,
+      "num": 289393,
+      "word": "黑神话悟空",
+      "onboard_time": 1723779863,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 288512,
       "num": 288512,
       "word": "竞走冠军杨家玉逛街老公直呼慢点",
@@ -457,6 +537,14 @@
       "onboard_time": 1723737740,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 285371,
+      "num": 285371,
+      "word": "原神",
+      "onboard_time": 1723781786,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 285037,
@@ -497,6 +585,14 @@
       "onboard_time": 1723725621,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 260698,
+      "num": 301498,
+      "word": "金泰亨田柾国起诉脱粉收容所",
+      "onboard_time": 1723782024,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 257248,
@@ -563,6 +659,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 226014,
+      "num": 226014,
+      "word": "胡彦斌想签刘宇",
+      "onboard_time": 1723779503,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224226,
       "num": 371332,
       "word": "贺峻霖疑似兔耳造型",
@@ -595,19 +699,19 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 219223,
-      "num": 219223,
-      "word": "女子到中医馆买十三香配料炖红烧肉",
-      "onboard_time": 1723779148,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 211629,
       "num": 211629,
       "word": "黄一鸣说不会再找对象",
       "onboard_time": 1723737201,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 209225,
+      "num": 209225,
+      "word": "皇权富贵",
+      "onboard_time": 1723779863,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -619,12 +723,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 204864,
-      "num": 686823,
-      "word": "离婚冷静期是双刃剑",
-      "onboard_time": 1723778664,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 207741,
+      "num": 207741,
+      "word": "归龙潮公测定档",
+      "onboard_time": 1723781665,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 203232,
@@ -651,6 +755,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198302,
+      "num": 463539,
+      "word": "张晚意 我的目标是破3万",
+      "onboard_time": 1723776323,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 197830,
+      "num": 197830,
+      "word": "电影重生",
+      "onboard_time": 1723781965,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 197683,
+      "num": 197683,
+      "word": "篡改同学高考志愿一女生被刑拘",
+      "onboard_time": 1723781484,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196752,
       "num": 196752,
       "word": "超20座巴勒斯坦墓地被以军轰炸挖掘",
@@ -664,14 +792,6 @@
       "word": "家庭把关婚姻本就干涉婚姻自由",
       "onboard_time": 1723776444,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196114,
-      "num": 196114,
-      "word": "天价彩礼背后的根本原因",
-      "onboard_time": 1723779023,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -785,14 +905,6 @@
       "onboard_time": 1723729880,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 183850,
-      "num": 463539,
-      "word": "张晚意 我的目标是破3万",
-      "onboard_time": 1723776323,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 182057,
@@ -913,14 +1025,6 @@
       "onboard_time": 1723728081,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 156820,
-      "num": 156820,
-      "word": "胡彦斌想签刘宇",
-      "onboard_time": 1723779503,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 155003,
@@ -1083,6 +1187,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102623,
+      "num": 205435,
+      "word": "加沙挖墓人工作量是之前60倍",
+      "onboard_time": 1723781425,
+      "rank": 46,
+      "category": "社会正能量,军事"
+    },
+    {
+      "raw_hot": 99626,
+      "num": 301734,
+      "word": "俄击落乌军3架无人机",
+      "onboard_time": 1723780105,
+      "rank": 27,
+      "category": "军事"
+    },
+    {
       "raw_hot": 99123,
       "num": 111441,
       "word": "曾舜晞演了白鹿的男主角",
@@ -1123,12 +1243,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 82084,
+      "num": 670463,
+      "word": "一心堂已退回医保基金1070余万元",
+      "onboard_time": 1723780824,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76988,
       "num": 687633,
       "word": "智障男子抢劫案改判无罪后续",
       "onboard_time": 1723777222,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76429,
+      "num": 327957,
+      "word": "纪昱恒再等十年就老实了",
+      "onboard_time": 1723782146,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 75485,
+      "num": 525224,
+      "word": "原神5.0版本直播",
+      "onboard_time": 1723781184,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 72217,
@@ -1275,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25479,
+      "num": 301285,
+      "word": "12亿协议存款为何不翼而飞",
+      "onboard_time": 1723781726,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 18322,
       "num": 32379,
       "word": "两面三刀的砸锅者必将一凉到底",
@@ -1283,7 +1435,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 10689,
+      "raw_hot": 16335,
       "num": 2002572,
       "word": "请君只看洛阳城",
       "onboard_time": 1723727420,
@@ -1321,6 +1473,9 @@
     },
     {
       "word": "#跟着总书记探寻文化根魂#"
+    },
+    {
+      "word": "#跟着总书记足迹看绿色转型新图景#"
     }
   ]
 }
