@@ -1,6 +1,6 @@
 {
   "startTime": 1723307155481,
-  "endTime": 1723803733751,
+  "endTime": 1723804720493,
   "band_list": [
     {
       "raw_hot": 25984443,
@@ -1929,6 +1929,14 @@
       "onboard_time": 1723349722,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1275509,
+      "num": 627682,
+      "word": "姚译添 内娱扫雷",
+      "onboard_time": 1723802539,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1273109,
@@ -3891,6 +3899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 679144,
+      "num": 679144,
+      "word": "刘光耀安吉离婚",
+      "onboard_time": 1723800982,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 678580,
       "num": 678580,
       "word": "孙志刚被控受贿8.13亿余元",
@@ -4227,14 +4243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 627682,
-      "num": 627682,
-      "word": "姚译添 内娱扫雷",
-      "onboard_time": 1723802539,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 627448,
       "num": 709841,
       "word": "刺杀小说家2官宣开机",
@@ -4480,14 +4488,6 @@
       "word": "男生搭飞机跨省上班9点准时打卡",
       "onboard_time": 1723715660,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 587506,
-      "num": 587506,
-      "word": "刘光耀安吉离婚",
-      "onboard_time": 1723800982,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -5395,6 +5395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 448564,
+      "num": 448564,
+      "word": "网传王自如已离职",
+      "onboard_time": 1723803200,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 448112,
       "num": 193616,
       "word": "李婵",
@@ -5929,6 +5937,14 @@
       "onboard_time": 1723443743,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 401259,
+      "num": 401259,
+      "word": "you swan he frog",
+      "onboard_time": 1723801402,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 400938,
@@ -7267,12 +7283,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 322954,
-      "num": 322954,
-      "word": "you swan he frog",
-      "onboard_time": 1723801402,
-      "rank": 21,
-      "category": "幽默"
+      "raw_hot": 322752,
+      "num": 322752,
+      "word": "陈伟霆 写完遗嘱后轻松了",
+      "onboard_time": 1723804041,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 322638,
@@ -7305,6 +7321,14 @@
       "onboard_time": 1723443383,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 320762,
+      "num": 320762,
+      "word": "女童走失用银行ATM成功自救",
+      "onboard_time": 1723801881,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319776,
@@ -8139,14 +8163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 286628,
-      "num": 286628,
-      "word": "女童走失用银行ATM成功自救",
-      "onboard_time": 1723801881,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 286566,
       "num": 543221,
       "word": "男子无故挨打后反杀一人被判刑",
@@ -8865,6 +8881,14 @@
       "onboard_time": 1723558702,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 262680,
+      "num": 729084,
+      "word": "一小时11次连续抛烟头引燃楼下车辆",
+      "onboard_time": 1723802420,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262544,
@@ -9945,14 +9969,6 @@
       "onboard_time": 1723515202,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232122,
-      "num": 232122,
-      "word": "网传王自如已离职",
-      "onboard_time": 1723803200,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 232023,
@@ -11403,6 +11419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204116,
+      "num": 204116,
+      "word": "结婚不用户口簿是否要告知父母",
+      "onboard_time": 1723801402,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203956,
       "num": 222145,
       "word": "私藏浪漫 暑期档的神秘之师",
@@ -12203,14 +12227,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 194225,
-      "num": 194225,
-      "word": "结婚不用户口簿是否要告知父母",
-      "onboard_time": 1723801402,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194206,
       "num": 728608,
       "word": "重大疾病不告知可以撤销婚姻",
@@ -12963,6 +12979,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 180308,
+      "num": 180308,
+      "word": "中国游泳队玩狼人杀像开奥运总结会",
+      "onboard_time": 1723800082,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180035,
       "num": 180035,
       "word": "王楚钦戴发带是为了挡汗水",
@@ -13243,6 +13267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173980,
+      "num": 173980,
+      "word": "重生",
+      "onboard_time": 1723804279,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 173799,
       "num": 173799,
       "word": "平次为基德挡刀",
@@ -13337,6 +13369,14 @@
       "onboard_time": 1723450820,
       "rank": 49,
       "category": "音乐,体育"
+    },
+    {
+      "raw_hot": 170039,
+      "num": 170039,
+      "word": "马龙你真的很不错",
+      "onboard_time": 1723803501,
+      "rank": 48,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 169934,
@@ -13707,14 +13747,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 161288,
-      "num": 161288,
-      "word": "中国游泳队玩狼人杀像开奥运总结会",
-      "onboard_time": 1723800082,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 161002,
       "num": 172556,
       "word": "毛不易全新专辑冒险精神",
@@ -13843,6 +13875,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 156757,
+      "num": 156757,
+      "word": "白鹿在帮朋友打歌赛道越来越卷",
+      "onboard_time": 1723803021,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 156700,
       "num": 156700,
       "word": "奥运会官网给马龙写的寄语",
@@ -13891,6 +13931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155377,
+      "num": 749073,
+      "word": "律师称户口簿和天价彩礼无因果关系",
+      "onboard_time": 1723802000,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155368,
       "num": 155368,
       "word": "陈梦讲青岛话像是一秒回家了",
@@ -13905,6 +13953,14 @@
       "onboard_time": 1723705522,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 155044,
+      "num": 155044,
+      "word": "内娱男爱豆谈恋爱绕不开的人",
+      "onboard_time": 1723804641,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 155003,
@@ -14139,14 +14195,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 146881,
-      "num": 150508,
-      "word": "白鹿在帮朋友打歌赛道越来越卷",
-      "onboard_time": 1723803021,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 146435,
       "num": 146435,
       "word": "恋与深空",
@@ -14161,14 +14209,6 @@
       "onboard_time": 1723598661,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 146076,
-      "num": 150333,
-      "word": "马龙你真的很不错",
-      "onboard_time": 1723803501,
-      "rank": 48,
-      "category": "综艺,体育"
     },
     {
       "raw_hot": 145832,
@@ -14225,6 +14265,14 @@
       "onboard_time": 1723785923,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143896,
+      "num": 151348,
+      "word": "梁洁 演员之间不要被太多东西束缚",
+      "onboard_time": 1723804700,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 143871,
@@ -14688,14 +14736,6 @@
       "word": "全国最大羽绒服市场反季爆卖",
       "onboard_time": 1723485193,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 116851,
-      "num": 729084,
-      "word": "一小时11次连续抛烟头引燃楼下车辆",
-      "onboard_time": 1723802420,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -15673,14 +15713,6 @@
       "onboard_time": 1723557743,
       "rank": 13,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 69244,
-      "num": 749073,
-      "word": "律师称户口簿和天价彩礼无因果关系",
-      "onboard_time": 1723802000,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 69208,
