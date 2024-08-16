@@ -1,6 +1,6 @@
 {
   "startTime": 1723739122020,
-  "endTime": 1723786578946,
+  "endTime": 1723789655071,
   "band_list": [
     {
       "raw_hot": 10724841,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 5934869,
-      "num": 642740,
+      "num": 793409,
       "word": "范丞丞 没否认",
       "onboard_time": 1723784244,
       "rank": 5,
@@ -64,6 +64,22 @@
       "word": "孙伊涵工作室否认恋情",
       "onboard_time": 1723781665,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3128074,
+      "num": 511914,
+      "word": "范丞丞前女友 822",
+      "onboard_time": 1723787722,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2981298,
+      "num": 509589,
+      "word": "zzoexxll 胡文煊前女友",
+      "onboard_time": 1723787603,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -163,6 +179,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1104783,
+      "num": 1104783,
+      "word": "迪士尼致游客死亡因玩过PS拒赔偿",
+      "onboard_time": 1723782266,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1082830,
+      "num": 506775,
+      "word": "zzoexxll帽子对上了",
+      "onboard_time": 1723788562,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1023500,
       "num": 1023500,
       "word": "台湾附近6.1级左右地震",
@@ -227,6 +259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 814868,
+      "num": 814868,
+      "word": "美或因兴奋剂丑闻无法办洛杉矶奥运会",
+      "onboard_time": 1723787722,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 775067,
       "num": 775067,
       "word": "女子入职3个月怀孕被扣7个月绩效金",
@@ -267,12 +307,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 643040,
-      "num": 643040,
-      "word": "迪士尼致游客死亡因玩过PS拒赔偿",
-      "onboard_time": 1723782266,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 654698,
+      "num": 368869,
+      "word": "妈妈哄半天回头天都塌了",
+      "onboard_time": 1723788382,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 641375,
@@ -289,6 +329,14 @@
       "onboard_time": 1723772720,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 631302,
+      "num": 631302,
+      "word": "张志杰遗体将在印尼火化",
+      "onboard_time": 1723785505,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 600299,
@@ -371,6 +419,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 514842,
+      "num": 514842,
+      "word": "杨紫裸背鱼骨辫",
+      "onboard_time": 1723786164,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 503144,
+      "num": 503673,
+      "word": "婚登草案征求意见9月11日截止",
+      "onboard_time": 1723784425,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 502615,
       "num": 716198,
       "word": "阳光私募12.52亿元存款丢失",
@@ -384,6 +448,22 @@
       "word": "离婚冷静期是双刃剑",
       "onboard_time": 1723778664,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 487812,
+      "num": 487812,
+      "word": "李雪琴在十天被气哭",
+      "onboard_time": 1723788142,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 459424,
+      "num": 459424,
+      "word": "大龄未婚比例上升意味着什么",
+      "onboard_time": 1723788323,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -467,12 +547,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 362420,
-      "num": 362420,
-      "word": "张志杰遗体将在印尼火化",
-      "onboard_time": 1723785505,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 363840,
+      "num": 363840,
+      "word": "瑞幸联名黑神话悟空",
+      "onboard_time": 1723787902,
+      "rank": 22,
+      "category": "游戏,美食"
     },
     {
       "raw_hot": 359737,
@@ -497,6 +577,14 @@
       "onboard_time": 1723785804,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 346215,
+      "num": 346215,
+      "word": "贝东丹当选泰国总理",
+      "onboard_time": 1723787244,
+      "rank": 24,
+      "category": "国外时政"
     },
     {
       "raw_hot": 341646,
@@ -627,14 +715,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 288649,
-      "num": 503673,
-      "word": "婚登草案征求意见9月11日截止",
-      "onboard_time": 1723784425,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 288512,
       "num": 288512,
       "word": "竞走冠军杨家玉逛街老公直呼慢点",
@@ -649,6 +729,14 @@
       "onboard_time": 1723737740,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 287445,
+      "num": 287445,
+      "word": "老人尼泊尔旅游发了条朋友圈话费1万6",
+      "onboard_time": 1723788681,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285037,
@@ -667,12 +755,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282515,
+      "num": 282515,
+      "word": "扎克伯格为妻子立像引热议",
+      "onboard_time": 1723787543,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 277128,
       "num": 481838,
       "word": "迪丽热巴单肩黑裙",
       "onboard_time": 1723777162,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 275304,
+      "num": 312534,
+      "word": "披荆斩棘4一公",
+      "onboard_time": 1723787483,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 264166,
@@ -731,12 +835,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246600,
+      "num": 246600,
+      "word": "负债200万商家花24万就能合规跑路",
+      "onboard_time": 1723788382,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246312,
+      "num": 447333,
+      "word": "前总理他信之女当选泰国总理",
+      "onboard_time": 1723786522,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 244081,
       "num": 244081,
       "word": "披荆斩棘4一公歌单",
       "onboard_time": 1723783165,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 242804,
+      "num": 242804,
+      "word": "原来瘦了以后口味会发生变化",
+      "onboard_time": 1723788442,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 242263,
@@ -779,20 +907,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 234110,
-      "num": 234110,
-      "word": "杨紫裸背鱼骨辫",
-      "onboard_time": 1723786164,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 229987,
       "num": 229987,
       "word": "单身和已婚哪种状态更幸福",
       "onboard_time": 1723785563,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 229905,
+      "num": 229905,
+      "word": "前女友闺蜜",
+      "onboard_time": 1723787182,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 226802,
@@ -832,6 +960,14 @@
       "word": "金珉奎腹肌",
       "onboard_time": 1723771760,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 223271,
+      "num": 223271,
+      "word": "买超简介还是张嘉倪老公",
+      "onboard_time": 1723788083,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -891,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208851,
+      "num": 208851,
+      "word": "原神四周年福利",
+      "onboard_time": 1723788022,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 207741,
       "num": 207741,
       "word": "归龙潮公测定档",
@@ -913,6 +1057,14 @@
       "onboard_time": 1723786403,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203304,
+      "num": 203304,
+      "word": "赵露思皮衣白裙",
+      "onboard_time": 1723786583,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 203232,
@@ -968,6 +1120,14 @@
       "word": "家庭把关婚姻本就干涉婚姻自由",
       "onboard_time": 1723776444,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195776,
+      "num": 195776,
+      "word": "当地回应银行董事长被人捅伤致死",
+      "onboard_time": 1723789523,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1075,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184741,
+      "num": 246455,
+      "word": "纪昱恒一对手表劝退两个情敌",
+      "onboard_time": 1723788262,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184286,
       "num": 184286,
       "word": "莫雷加德晒与樊振东合照",
@@ -1113,6 +1281,14 @@
       "onboard_time": 1723777283,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 171107,
+      "num": 368887,
+      "word": "我的婚姻可以失败婚礼不可以",
+      "onboard_time": 1723789523,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 169163,
@@ -1483,6 +1659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65982,
+      "num": 301200,
+      "word": "这还是原神吗",
+      "onboard_time": 1723787603,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 65703,
       "num": 644977,
       "word": "文化中国行看见大美山河",
@@ -1539,6 +1723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55052,
+      "num": 494035,
+      "word": "被忽视的消费者售后难题",
+      "onboard_time": 1723786403,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51964,
       "num": 70483,
       "word": "时代少年团彩排想见你",
@@ -1555,11 +1747,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 50130,
-      "num": 227176,
-      "word": "被忽视的消费者售后难题",
-      "onboard_time": 1723786403,
-      "rank": 42,
+      "raw_hot": 49302,
+      "num": 512979,
+      "word": "一名残疾人想要出门的权利",
+      "onboard_time": 1723788623,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1681,14 +1873,6 @@
       "onboard_time": 1723727420,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12965,
-      "num": 447333,
-      "word": "前总理他信之女当选泰国总理",
-      "onboard_time": 1723786522,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 10498,
