@@ -1,10 +1,26 @@
 {
   "startTime": 1723739122020,
-  "endTime": 1723764880505,
+  "endTime": 1723771494119,
   "band_list": [
     {
+      "raw_hot": 2193822,
+      "num": 2193822,
+      "word": "结婚不要户口本或缓解天价彩礼现象",
+      "onboard_time": 1723767439,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1402219,
+      "num": 1402219,
+      "word": "樊振东回复小莫",
+      "onboard_time": 1723767381,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1348112,
-      "num": 305538,
+      "num": 887947,
       "word": "总统实名羡慕中国高铁美国咋造不出来",
       "onboard_time": 1723734681,
       "rank": 10,
@@ -35,6 +51,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1023500,
+      "num": 1023500,
+      "word": "台湾附近6.1级左右地震",
+      "onboard_time": 1723765578,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 961650,
+      "num": 961650,
+      "word": "电影逆行人生陷巨大争议",
+      "onboard_time": 1723766659,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 939775,
+      "num": 742820,
+      "word": "范丞丞给女生整理头发",
+      "onboard_time": 1723769299,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 860982,
       "num": 860982,
       "word": "情绪不稳定的人玩不了这游戏",
@@ -43,12 +83,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 775067,
+      "num": 775067,
+      "word": "女子入职3个月怀孕被扣7个月绩效金",
+      "onboard_time": 1723732641,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 741846,
+      "num": 741846,
+      "word": "郑钦文vs弗雷希",
+      "onboard_time": 1723764976,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 715123,
       "num": 245635,
       "word": "杭州一女子因穿着暴露卖货被查",
       "onboard_time": 1723729941,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 670369,
+      "num": 751875,
+      "word": "梁洁 为什么让娜扎使劲不让我使劲",
+      "onboard_time": 1723767020,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 600299,
@@ -60,7 +124,7 @@
     },
     {
       "raw_hot": 589847,
-      "num": 303766,
+      "num": 401031,
       "word": "一家三口深夜在446人群互骂1小时",
       "onboard_time": 1723721301,
       "rank": 11,
@@ -75,20 +139,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 538882,
-      "num": 538882,
-      "word": "女子入职3个月怀孕被扣7个月绩效金",
-      "onboard_time": 1723732641,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 527504,
       "num": 232743,
       "word": "医生说女生有小肚子很正常",
       "onboard_time": 1723729762,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 442424,
+      "num": 442424,
+      "word": "鹿晗直播",
+      "onboard_time": 1723766541,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 403205,
@@ -123,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334354,
+      "num": 334354,
+      "word": "研究生女孩害怕被妈妈揍极限收高粱",
+      "onboard_time": 1723770020,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326832,
       "num": 301859,
       "word": "时代峰峻否认余宇涵恋爱",
@@ -131,12 +203,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317421,
+      "num": 317421,
+      "word": "娜扎对杨迪说我们结婚吧",
+      "onboard_time": 1723761494,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 313687,
       "num": 313687,
       "word": "导致离婚的10大原因",
       "onboard_time": 1723735940,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 310781,
+      "num": 310781,
+      "word": "阳光私募12.52亿元存款丢失",
+      "onboard_time": 1723768880,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 307607,
@@ -163,12 +251,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 295235,
+      "num": 295235,
+      "word": "好一张死气沉沉且有文化的脸",
+      "onboard_time": 1723770020,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 287837,
       "num": 287837,
       "word": "和SM有合约的艺人",
       "onboard_time": 1723737740,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 285037,
+      "num": 285037,
+      "word": "私募爆雷12.52亿元存款只剩8.6万元",
+      "onboard_time": 1723770739,
+      "rank": 22,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 283540,
+      "num": 283540,
+      "word": "福建厦门震感",
+      "onboard_time": 1723765880,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264166,
+      "num": 264166,
+      "word": "律师谈离婚冷静期内任何一方可撤回",
+      "onboard_time": 1723743672,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260822,
@@ -187,12 +307,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 243414,
-      "num": 243414,
-      "word": "律师谈离婚冷静期内任何一方可撤回",
-      "onboard_time": 1723743672,
-      "rank": 21,
+      "raw_hot": 242263,
+      "num": 242263,
+      "word": "官方通报老鸭面吃出异物",
+      "onboard_time": 1723766478,
+      "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239009,
+      "num": 239009,
+      "word": "安洗莹炮轰韩国羽协后缺席大赛",
+      "onboard_time": 1723769239,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 238024,
+      "num": 238024,
+      "word": "睡觉流口水是身体在暗示3大问题",
+      "onboard_time": 1723769723,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 237448,
@@ -203,20 +339,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224226,
+      "num": 312139,
+      "word": "贺峻霖疑似兔耳造型",
+      "onboard_time": 1723769723,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220239,
       "num": 220239,
       "word": "日薪200招工给乌龟画眼睛嘴巴",
       "onboard_time": 1723715122,
       "rank": 23,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 216173,
-      "num": 216173,
-      "word": "娜扎对杨迪说我们结婚吧",
-      "onboard_time": 1723761494,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 211629,
@@ -235,6 +371,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206118,
+      "num": 233059,
+      "word": "00后有自己的聊天方式",
+      "onboard_time": 1723769119,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 205214,
+      "num": 205214,
+      "word": "范丞丞和买超聚餐",
+      "onboard_time": 1723771160,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203232,
       "num": 203232,
       "word": "第一批奥运冠军已经开始教人化妆了",
@@ -243,12 +395,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194259,
+      "num": 194259,
+      "word": "阿姨把这辈子的高情商都用上了",
+      "onboard_time": 1723770020,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 193058,
+      "num": 193058,
+      "word": "突然发现千禧年的穿搭好野",
+      "onboard_time": 1723762634,
+      "rank": 33,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 192607,
       "num": 247702,
       "word": "大S妈妈说不认识张兰",
       "onboard_time": 1723722860,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192401,
+      "num": 192401,
+      "word": "广西多名光伏安装工人遭电击有伤亡",
+      "onboard_time": 1723767020,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187702,
+      "num": 187702,
+      "word": "巴黎奥运乒乓球比赛樊振东球速最快",
+      "onboard_time": 1723769961,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 187330,
@@ -275,6 +459,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175865,
+      "num": 230008,
+      "word": "宋亚轩 拍了点酷酷的照片",
+      "onboard_time": 1723769841,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 168689,
+      "num": 168689,
+      "word": "郑钦文比赛因雨暂停",
+      "onboard_time": 1723771340,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168470,
       "num": 168470,
       "word": "上海大学回应说唱社团暗讽农民工",
@@ -289,6 +489,14 @@
       "onboard_time": 1723726821,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164926,
+      "num": 164926,
+      "word": "食物语",
+      "onboard_time": 1723771340,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 162995,
@@ -331,6 +539,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157842,
+      "num": 157842,
+      "word": "户口簿退出婚登回应年轻人关切",
+      "onboard_time": 1723768761,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155003,
+      "num": 155003,
+      "word": "这辈子一定要活成这样",
+      "onboard_time": 1723769599,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 151426,
       "num": 151426,
       "word": "董宇辉说和俞敏洪挺好的",
@@ -339,12 +563,28 @@
       "category": "互联网,网红"
     },
     {
-      "raw_hot": 140807,
-      "num": 134048,
-      "word": "突然发现千禧年的穿搭好野",
-      "onboard_time": 1723762634,
-      "rank": 33,
-      "category": "时尚"
+      "raw_hot": 145769,
+      "num": 145769,
+      "word": "住酒店不要钱吃海鲜自助",
+      "onboard_time": 1723769299,
+      "rank": 42,
+      "category": "美食,旅游"
+    },
+    {
+      "raw_hot": 143871,
+      "num": 143871,
+      "word": "小猫也知道不说话的女人最可怕",
+      "onboard_time": 1723770500,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 140728,
+      "num": 140728,
+      "word": "警方回应民警被举报多次猥亵继女",
+      "onboard_time": 1723766541,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136203,
@@ -441,6 +681,14 @@
       "onboard_time": 1723728261,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109627,
+      "num": 140232,
+      "word": "刘耀文张真源卡点晒照为严浩翔庆生",
+      "onboard_time": 1723769539,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 105707,
@@ -611,8 +859,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 4196,
-      "num": 876989,
+      "raw_hot": 7785,
+      "num": 1212632,
       "word": "何以中国行走河南",
       "onboard_time": 1723641020,
       "rank": 2,
