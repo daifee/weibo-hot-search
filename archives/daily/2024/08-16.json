@@ -1,6 +1,6 @@
 {
   "startTime": 1723739122020,
-  "endTime": 1723790459060,
+  "endTime": 1723792765056,
   "band_list": [
     {
       "raw_hot": 10724841,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 5934869,
-      "num": 793409,
+      "num": 3472612,
       "word": "范丞丞 没否认",
       "onboard_time": 1723784244,
       "rank": 5,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 3128074,
-      "num": 513162,
+      "num": 589073,
       "word": "范丞丞前女友 822",
       "onboard_time": 1723787722,
       "rank": 10,
@@ -76,10 +76,18 @@
     },
     {
       "raw_hot": 2981298,
-      "num": 523486,
+      "num": 651297,
       "word": "zzoexxll 胡文煊前女友",
       "onboard_time": 1723787603,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2842625,
+      "num": 1597108,
+      "word": "蒋敦豪回应恋情",
+      "onboard_time": 1723790843,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -97,6 +105,22 @@
       "onboard_time": 1723778062,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1894272,
+      "num": 1894272,
+      "word": "美或因兴奋剂丑闻无法办洛杉矶奥运会",
+      "onboard_time": 1723787722,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1512151,
+      "num": 1512151,
+      "word": "大龄未婚比例上升意味着什么",
+      "onboard_time": 1723788323,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1468606,
@@ -179,14 +203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1136000,
-      "num": 1853174,
-      "word": "美或因兴奋剂丑闻无法办洛杉矶奥运会",
-      "onboard_time": 1723787722,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1104783,
       "num": 1104783,
       "word": "迪士尼致游客死亡因玩过PS拒赔偿",
@@ -209,6 +225,14 @@
       "onboard_time": 1723765578,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1004154,
+      "num": 885948,
+      "word": "我的婚姻可以失败婚礼不可以",
+      "onboard_time": 1723789523,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 985430,
@@ -307,16 +331,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 655325,
-      "num": 655325,
-      "word": "大龄未婚比例上升意味着什么",
-      "onboard_time": 1723788323,
-      "rank": 18,
+      "raw_hot": 664137,
+      "num": 664137,
+      "word": "邯郸银行董事长被54岁男子杀害",
+      "onboard_time": 1723790363,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
       "raw_hot": 654698,
-      "num": 379953,
+      "num": 405156,
       "word": "妈妈哄半天回头天都塌了",
       "onboard_time": 1723788382,
       "rank": 20,
@@ -345,6 +369,14 @@
       "onboard_time": 1723785505,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 618124,
+      "num": 618124,
+      "word": "当地回应银行董事长被人捅伤致死",
+      "onboard_time": 1723789523,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 600299,
@@ -443,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 507328,
+      "num": 507328,
+      "word": "王一博 低声些难道光彩吗",
+      "onboard_time": 1723791203,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 503144,
       "num": 503673,
       "word": "婚登草案征求意见9月11日截止",
@@ -465,6 +505,22 @@
       "onboard_time": 1723778664,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 482719,
+      "num": 482719,
+      "word": "老人尼泊尔旅游发了条朋友圈话费1万6",
+      "onboard_time": 1723788681,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 456123,
+      "num": 456123,
+      "word": "贺峻霖祝严浩翔继续做很酷的大人",
+      "onboard_time": 1723791741,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 443443,
@@ -571,20 +627,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 358313,
-      "num": 358313,
-      "word": "老人尼泊尔旅游发了条朋友圈话费1万6",
-      "onboard_time": 1723788681,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 355607,
       "num": 355607,
       "word": "原神前瞻",
       "onboard_time": 1723785804,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 349919,
+      "num": 349919,
+      "word": "原来瘦了以后口味会发生变化",
+      "onboard_time": 1723788442,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 346215,
@@ -619,12 +675,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 328330,
+      "num": 328330,
+      "word": "宋亚轩给严浩翔P了个皇冠",
+      "onboard_time": 1723792222,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 326832,
       "num": 301859,
       "word": "时代峰峻否认余宇涵恋爱",
       "onboard_time": 1723734442,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 322162,
+      "num": 322162,
+      "word": "邯郸银行",
+      "onboard_time": 1723791682,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 321624,
@@ -649,6 +721,14 @@
       "onboard_time": 1723735940,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 308355,
+      "num": 308355,
+      "word": "雄性求偶不展示生存能力只展示OOTD",
+      "onboard_time": 1723790001,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 307607,
@@ -683,6 +763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 300795,
+      "num": 300795,
+      "word": "周洁琼边界感",
+      "onboard_time": 1723791922,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 296996,
       "num": 296996,
       "word": "早上吃碳水可以保持一天的食欲",
@@ -705,14 +793,6 @@
       "onboard_time": 1723770020,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 291549,
-      "num": 291549,
-      "word": "原来瘦了以后口味会发生变化",
-      "onboard_time": 1723788442,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 290362,
@@ -771,20 +851,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 282374,
+      "num": 282374,
+      "word": "负债200万商家花24万就能合规跑路",
+      "onboard_time": 1723788382,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277128,
       "num": 481838,
       "word": "迪丽热巴单肩黑裙",
       "onboard_time": 1723777162,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 275507,
-      "num": 275507,
-      "word": "负债200万商家花24万就能合规跑路",
-      "onboard_time": 1723788382,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 275304,
@@ -817,14 +897,6 @@
       "onboard_time": 1723782024,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 258017,
-      "num": 379959,
-      "word": "我的婚姻可以失败婚礼不可以",
-      "onboard_time": 1723789523,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 257248,
@@ -915,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234188,
+      "num": 234188,
+      "word": "长荣桂冠酒店称不希望影响两岸关系",
+      "onboard_time": 1723790122,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229987,
       "num": 229987,
       "word": "单身和已婚哪种状态更幸福",
@@ -929,6 +1009,14 @@
       "onboard_time": 1723787182,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 226967,
+      "num": 226967,
+      "word": "请关心一下现在妈妈吧",
+      "onboard_time": 1723791741,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 226802,
@@ -961,14 +1049,6 @@
       "onboard_time": 1723789762,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 224457,
-      "num": 224457,
-      "word": "当地回应银行董事长被人捅伤致死",
-      "onboard_time": 1723789523,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 224226,
@@ -1059,14 +1139,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 208345,
-      "num": 208345,
-      "word": "邯郸银行董事长被54岁男子杀害",
-      "onboard_time": 1723790363,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 207741,
       "num": 207741,
       "word": "归龙潮公测定档",
@@ -1091,14 +1163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204967,
-      "num": 204967,
-      "word": "雄性求偶不展示生存能力只展示OOTD",
-      "onboard_time": 1723790001,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 203304,
       "num": 203304,
       "word": "赵露思皮衣白裙",
@@ -1113,14 +1177,6 @@
       "onboard_time": 1723718600,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 201817,
-      "num": 201817,
-      "word": "长荣桂冠酒店称不希望影响两岸关系",
-      "onboard_time": 1723790122,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200846,
@@ -1240,6 +1296,22 @@
       "word": "广西多名光伏安装工人遭电击有伤亡",
       "onboard_time": 1723767020,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191621,
+      "num": 191621,
+      "word": "张若昀回应庆余年3剧本筹备",
+      "onboard_time": 1723789283,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 191029,
+      "num": 191029,
+      "word": "专家称婚姻登记修改让离婚更难",
+      "onboard_time": 1723792103,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1417,6 +1489,22 @@
       "onboard_time": 1723728081,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 157700,
+      "num": 157700,
+      "word": "为人夫了不好见外女的",
+      "onboard_time": 1723792644,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 156020,
+      "num": 156020,
+      "word": "陈梦刚回家就来给山东文旅冲KPI了",
+      "onboard_time": 1723792700,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 155003,
@@ -1800,6 +1888,14 @@
       "word": "婚姻登记将全国通办不用再为爱奔波",
       "onboard_time": 1723725141,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46655,
+      "num": 651532,
+      "word": "山东省属事业单位全部转企系误读",
+      "onboard_time": 1723791622,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
