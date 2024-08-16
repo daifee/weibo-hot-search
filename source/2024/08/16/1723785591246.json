@@ -1,0 +1,410 @@
+{
+  "runTime": 1723785591246,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8070349,
+        "num": 8070349,
+        "word": "范丞丞方回应",
+        "onboard_time": 1723778303,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 892703,
+        "num": 892703,
+        "word": "陈梦分享海边美照",
+        "onboard_time": 1723775420,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6324,
+        "num": 535455,
+        "word": "请君只看洛阳城",
+        "onboard_time": 1723727420,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1760167,
+        "num": 534613,
+        "word": "结婚不要户口本或缓解天价彩礼现象",
+        "onboard_time": 1723767439,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532615,
+        "num": 532615,
+        "word": "天价彩礼背后的根本原因",
+        "onboard_time": 1723779023,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5934869,
+        "num": 524127,
+        "word": "范丞丞 没否认",
+        "onboard_time": 1723784244,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 558207,
+        "num": 515110,
+        "word": "张若昀选了唐艺昕",
+        "onboard_time": 1723784547,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412824,
+        "num": 506069,
+        "word": "骗子开发200款APP骗了8万人",
+        "onboard_time": 1723777162,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154074,
+        "num": 503673,
+        "word": "婚登草案征求意见9月11日截止",
+        "onboard_time": 1723784425,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52336,
+        "num": 490781,
+        "word": "离婚财产怎么分才算公平",
+        "onboard_time": 1723784425,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21102,
+        "num": 481277,
+        "word": "大众ID3广告",
+        "onboard_time": 1723783585,
+        "rank": 10,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1897224,
+        "num": 470298,
+        "word": "周洁琼方否认与范丞丞恋情",
+        "onboard_time": 1723777342,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 909367,
+        "num": 467447,
+        "word": "长荣桂冠酒店道歉",
+        "onboard_time": 1723774461,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542903,
+        "num": 451612,
+        "word": "阿娇皇甫圣华手挽手",
+        "onboard_time": 1723780824,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450129,
+        "num": 450129,
+        "word": "女孩被老师砸破头骨后遗症明显",
+        "onboard_time": 1723776982,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516402,
+        "num": 449468,
+        "word": "钱蓓婷 瞒着所有人成为妈妈的我",
+        "onboard_time": 1723782443,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1239684,
+        "num": 448608,
+        "word": "买超",
+        "onboard_time": 1723778062,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447185,
+        "num": 447185,
+        "word": "迪士尼致游客死亡因玩过PS拒赔偿",
+        "onboard_time": 1723782266,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431031,
+        "num": 431031,
+        "word": "婚姻登记取消户口簿彰显婚姻自由",
+        "onboard_time": 1723724602,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142574,
+        "num": 387873,
+        "word": "人民文娱评柳舟记",
+        "onboard_time": 1723784668,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 437441,
+        "num": 387848,
+        "word": "女子到中医馆买十三香配料炖红烧肉",
+        "onboard_time": 1723779148,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1120695,
+        "num": 387848,
+        "word": "孙伊涵工作室否认恋情",
+        "onboard_time": 1723781665,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387822,
+        "num": 387822,
+        "word": "结婚登记拟不需户口簿如何防骗婚",
+        "onboard_time": 1723772720,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366333,
+        "num": 366333,
+        "word": "凡晨组合是先天化妆圣体吧",
+        "onboard_time": 1723785444,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330906,
+        "num": 330906,
+        "word": "山西文旅还是太超前了",
+        "onboard_time": 1723784486,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 317210,
+        "num": 317210,
+        "word": "雷军 今天是小米手机13岁生日",
+        "onboard_time": 1723785444,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 858383,
+        "num": 316945,
+        "word": "皇权富贵真的be了",
+        "onboard_time": 1723779743,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316111,
+        "num": 316111,
+        "word": "印军练瑜伽照片意外暴露核导弹动向",
+        "onboard_time": 1723780466,
+        "rank": 27,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 299851,
+        "num": 299851,
+        "word": "乐华家族演唱会大合唱歌单",
+        "onboard_time": 1723781965,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 286224,
+        "num": 286224,
+        "word": "离婚冷静期是双刃剑",
+        "onboard_time": 1723778664,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358787,
+        "num": 285329,
+        "word": "男子监视居住期杀害堂妹一审死刑",
+        "onboard_time": 1723785206,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282040,
+        "num": 282040,
+        "word": "迪丽热巴芭莎金九预告发了",
+        "onboard_time": 1723774821,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 276772,
+        "num": 276772,
+        "word": "国乒封训备战记录",
+        "onboard_time": 1723777462,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272063,
+        "num": 272063,
+        "word": "35岁能实现6条就算人生赢家",
+        "onboard_time": 1723784964,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 254716,
+        "num": 254716,
+        "word": "苹果上长出的蘑菇竟然能吃",
+        "onboard_time": 1723783285,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 250369,
+        "num": 250369,
+        "word": "户口簿退出婚登回应年轻人关切",
+        "onboard_time": 1723768761,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28903,
+        "num": 244680,
+        "word": "比亚迪李云飞否认收购克莱斯勒",
+        "onboard_time": 1723784547,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 244081,
+        "num": 244081,
+        "word": "披荆斩棘4一公歌单",
+        "onboard_time": 1723783165,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242174,
+        "num": 242174,
+        "word": "张志杰遗体将在印尼火化",
+        "onboard_time": 1723785505,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228776,
+        "num": 228776,
+        "word": "篡改同学高考志愿一女生被刑拘",
+        "onboard_time": 1723781484,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228728,
+        "num": 228728,
+        "word": "樊振东回复小莫",
+        "onboard_time": 1723767381,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224964,
+        "num": 224964,
+        "word": "最近是捅了暗恋的窝吗",
+        "onboard_time": 1723782565,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212317,
+        "num": 212317,
+        "word": "过度延长产假或增加女性中断就业概率",
+        "onboard_time": 1723775842,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208915,
+        "num": 208915,
+        "word": "吴谨言 今天是许愿日",
+        "onboard_time": 1723785145,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207801,
+        "num": 207801,
+        "word": "丫丫大头快成正圆了",
+        "onboard_time": 1723772720,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207083,
+        "num": 207083,
+        "word": "樊振东为小莫赛前主动换球衣",
+        "onboard_time": 1723785444,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203032,
+        "num": 203032,
+        "word": "单身和已婚哪种状态更幸福",
+        "onboard_time": 1723785563,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199004,
+        "num": 199004,
+        "word": "原神",
+        "onboard_time": 1723781786,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198523,
+        "num": 198523,
+        "word": "杨紫费加罗八月封面预告",
+        "onboard_time": 1723779624,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 194166,
+        "num": 194166,
+        "word": "加沙女孩用嘴去接卡车漏下的水滴解渴",
+        "onboard_time": 1723772121,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻文化根魂#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1723739122020,
-  "endTime": 1723783062378,
+  "endTime": 1723785591246,
   "band_list": [
     {
       "raw_hot": 10724841,
@@ -16,6 +16,14 @@
       "word": "范丞丞方回应",
       "onboard_time": 1723778303,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 5934869,
+      "num": 524127,
+      "word": "范丞丞 没否认",
+      "onboard_time": 1723784244,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -299,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 558207,
+      "num": 515110,
+      "word": "张若昀选了唐艺昕",
+      "onboard_time": 1723784547,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 556243,
       "num": 556243,
       "word": "辰亦儒曾之乔睡觉都牵着手",
@@ -323,12 +339,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 532615,
+      "num": 532615,
+      "word": "天价彩礼背后的根本原因",
+      "onboard_time": 1723779023,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 527504,
       "num": 232743,
       "word": "医生说女生有小肚子很正常",
       "onboard_time": 1723729762,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 516402,
+      "num": 449468,
+      "word": "钱蓓婷 瞒着所有人成为妈妈的我",
+      "onboard_time": 1723782443,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 502615,
@@ -347,11 +379,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 448120,
-      "num": 448120,
-      "word": "天价彩礼背后的根本原因",
-      "onboard_time": 1723779023,
-      "rank": 39,
+      "raw_hot": 447185,
+      "num": 447185,
+      "word": "迪士尼致游客死亡因玩过PS拒赔偿",
+      "onboard_time": 1723782266,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -395,12 +427,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 387822,
+      "num": 387822,
+      "word": "结婚登记拟不需户口簿如何防骗婚",
+      "onboard_time": 1723772720,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 385113,
       "num": 385113,
       "word": "25岁女孩腹部抽脂永久丧失生育能力",
       "onboard_time": 1723704260,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 366333,
+      "num": 366333,
+      "word": "凡晨组合是先天化妆圣体吧",
+      "onboard_time": 1723785444,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 359737,
@@ -411,12 +459,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 358787,
+      "num": 285329,
+      "word": "男子监视居住期杀害堂妹一审死刑",
+      "onboard_time": 1723785206,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 341646,
       "num": 373582,
       "word": "杨紫费加罗八月封面预告",
       "onboard_time": 1723779624,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 330906,
+      "num": 330906,
+      "word": "山西文旅还是太超前了",
+      "onboard_time": 1723784486,
+      "rank": 24,
+      "category": "旅游"
     },
     {
       "raw_hot": 328867,
@@ -435,14 +499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 324851,
-      "num": 324851,
-      "word": "结婚登记拟不需户口簿如何防骗婚",
-      "onboard_time": 1723772720,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 321624,
       "num": 321624,
       "word": "过度延长产假或增加女性中断就业概率",
@@ -457,6 +513,14 @@
       "onboard_time": 1723761494,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 317210,
+      "num": 317210,
+      "word": "雷军 今天是小米手机13岁生日",
+      "onboard_time": 1723785444,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 313687,
@@ -579,6 +643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 272063,
+      "num": 272063,
+      "word": "35岁能实现6条就算人生赢家",
+      "onboard_time": 1723784964,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 264166,
       "num": 264166,
       "word": "律师谈离婚冷静期内任何一方可撤回",
@@ -603,14 +675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 257602,
-      "num": 257602,
-      "word": "钱蓓婷 瞒着所有人成为妈妈的我",
-      "onboard_time": 1723782443,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 257248,
       "num": 257248,
       "word": "猴痘疫情已向非洲以外蔓延",
@@ -627,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 254716,
+      "num": 254716,
+      "word": "苹果上长出的蘑菇竟然能吃",
+      "onboard_time": 1723783285,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 249290,
       "num": 249290,
       "word": "篡改同学高考志愿一女生被刑拘",
@@ -635,12 +707,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244081,
+      "num": 244081,
+      "word": "披荆斩棘4一公歌单",
+      "onboard_time": 1723783165,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242263,
       "num": 242263,
       "word": "官方通报老鸭面吃出异物",
       "onboard_time": 1723766478,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242174,
+      "num": 242174,
+      "word": "张志杰遗体将在印尼火化",
+      "onboard_time": 1723785505,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 241204,
@@ -755,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208915,
+      "num": 208915,
+      "word": "吴谨言 今天是许愿日",
+      "onboard_time": 1723785145,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207741,
       "num": 207741,
       "word": "归龙潮公测定档",
@@ -763,12 +859,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 207083,
+      "num": 207083,
+      "word": "樊振东为小莫赛前主动换球衣",
+      "onboard_time": 1723785444,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203232,
       "num": 203232,
       "word": "第一批奥运冠军已经开始教人化妆了",
       "onboard_time": 1723718600,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203032,
+      "num": 203032,
+      "word": "单身和已婚哪种状态更幸福",
+      "onboard_time": 1723785563,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 200846,
@@ -1059,6 +1171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 154074,
+      "num": 503673,
+      "word": "婚登草案征求意见9月11日截止",
+      "onboard_time": 1723784425,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151426,
       "num": 151426,
       "word": "董宇辉说和俞敏洪挺好的",
@@ -1089,6 +1209,14 @@
       "onboard_time": 1723770500,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 142574,
+      "num": 387873,
+      "word": "人民文娱评柳舟记",
+      "onboard_time": 1723784668,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 140728,
@@ -1363,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52336,
+      "num": 490781,
+      "word": "离婚财产怎么分才算公平",
+      "onboard_time": 1723784425,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51964,
       "num": 70483,
       "word": "时代少年团彩排想见你",
@@ -1451,12 +1587,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 28903,
+      "num": 244680,
+      "word": "比亚迪李云飞否认收购克莱斯勒",
+      "onboard_time": 1723784547,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 25757,
       "num": 655184,
       "word": "撒贝宁解锁硬核洗衣知识",
       "onboard_time": 1723776982,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21102,
+      "num": 481277,
+      "word": "大众ID3广告",
+      "onboard_time": 1723783585,
+      "rank": 10,
+      "category": "汽车"
     },
     {
       "raw_hot": 18322,
