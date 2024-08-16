@@ -1,0 +1,410 @@
+{
+  "runTime": 1723790459060,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1136000,
+        "num": 1853174,
+        "word": "美或因兴奋剂丑闻无法办洛杉矶奥运会",
+        "onboard_time": 1723787722,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5926570,
+        "num": 1586267,
+        "word": "范丞丞方回应",
+        "onboard_time": 1723778303,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 8729,
+        "num": 1250942,
+        "word": "请君只看洛阳城",
+        "onboard_time": 1723727420,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1119451,
+        "num": 1119451,
+        "word": "结婚不要户口本或缓解天价彩礼现象",
+        "onboard_time": 1723767439,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1075120,
+        "num": 1075120,
+        "word": "迪士尼致游客死亡因玩过PS拒赔偿",
+        "onboard_time": 1723782266,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655325,
+        "num": 655325,
+        "word": "大龄未婚比例上升意味着什么",
+        "onboard_time": 1723788323,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2513580,
+        "num": 634161,
+        "word": "范丞丞 没否认",
+        "onboard_time": 1723784244,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580280,
+        "num": 580280,
+        "word": "张志杰遗体将在印尼火化",
+        "onboard_time": 1723785505,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 543898,
+        "num": 543898,
+        "word": "李雪琴在十天被气哭",
+        "onboard_time": 1723788142,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 534525,
+        "num": 534525,
+        "word": "杨紫裸背鱼骨辫",
+        "onboard_time": 1723786164,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2552287,
+        "num": 523486,
+        "word": "zzoexxll 胡文煊前女友",
+        "onboard_time": 1723787603,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2803490,
+        "num": 513162,
+        "word": "范丞丞前女友 822",
+        "onboard_time": 1723787722,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 998853,
+        "num": 509904,
+        "word": "zzoexxll帽子对上了",
+        "onboard_time": 1723788562,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63668,
+        "num": 498469,
+        "word": "被忽视的消费者售后难题",
+        "onboard_time": 1723786403,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65608,
+        "num": 483080,
+        "word": "一名残疾人想要出门的权利",
+        "onboard_time": 1723788623,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477323,
+        "num": 477323,
+        "word": "陈梦分享海边美照",
+        "onboard_time": 1723775420,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 642957,
+        "num": 471709,
+        "word": "买超",
+        "onboard_time": 1723778062,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464936,
+        "num": 464936,
+        "word": "长荣桂冠酒店道歉",
+        "onboard_time": 1723774461,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398606,
+        "num": 398606,
+        "word": "婚登草案征求意见9月11日截止",
+        "onboard_time": 1723784425,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258017,
+        "num": 379959,
+        "word": "我的婚姻可以失败婚礼不可以",
+        "onboard_time": 1723789523,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 530005,
+        "num": 379953,
+        "word": "妈妈哄半天回头天都塌了",
+        "onboard_time": 1723788382,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 312796,
+        "num": 378214,
+        "word": "天价彩礼背后的根本原因",
+        "onboard_time": 1723779023,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376760,
+        "num": 376760,
+        "word": "瑞幸联名黑神话悟空",
+        "onboard_time": 1723787902,
+        "rank": 22,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 358313,
+        "num": 358313,
+        "word": "老人尼泊尔旅游发了条朋友圈话费1万6",
+        "onboard_time": 1723788681,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291549,
+        "num": 291549,
+        "word": "原来瘦了以后口味会发生变化",
+        "onboard_time": 1723788442,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 277836,
+        "num": 291435,
+        "word": "贝东丹当选泰国总理",
+        "onboard_time": 1723787244,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 61806,
+        "num": 291353,
+        "word": "这还是原神吗",
+        "onboard_time": 1723787603,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 236592,
+        "num": 291000,
+        "word": "披荆斩棘4一公",
+        "onboard_time": 1723787483,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224978,
+        "num": 290845,
+        "word": "陈哲远约梁洁单独吃饭",
+        "onboard_time": 1723789762,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221630,
+        "num": 290598,
+        "word": "阿娇皇甫圣华手挽手",
+        "onboard_time": 1723780824,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290581,
+        "num": 290581,
+        "word": "孙伊涵工作室否认恋情",
+        "onboard_time": 1723781665,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289459,
+        "num": 289459,
+        "word": "山西文旅还是太超前了",
+        "onboard_time": 1723784486,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 275507,
+        "num": 275507,
+        "word": "负债200万商家花24万就能合规跑路",
+        "onboard_time": 1723788382,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251285,
+        "num": 251285,
+        "word": "婚姻登记取消户口簿彰显婚姻自由",
+        "onboard_time": 1723724602,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246780,
+        "num": 246780,
+        "word": "雷军 今天是小米手机13岁生日",
+        "onboard_time": 1723785444,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 248496,
+        "num": 245335,
+        "word": "皇权富贵真的be了",
+        "onboard_time": 1723779743,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243585,
+        "num": 243585,
+        "word": "扎克伯格为妻子立像引热议",
+        "onboard_time": 1723787543,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 224457,
+        "num": 224457,
+        "word": "当地回应银行董事长被人捅伤致死",
+        "onboard_time": 1723789523,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216749,
+        "num": 216749,
+        "word": "钱蓓婷 瞒着所有人成为妈妈的我",
+        "onboard_time": 1723782443,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210520,
+        "num": 210520,
+        "word": "前女友闺蜜",
+        "onboard_time": 1723787182,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208345,
+        "num": 208345,
+        "word": "邯郸银行董事长被54岁男子杀害",
+        "onboard_time": 1723790363,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205666,
+        "num": 205666,
+        "word": "原神四周年福利",
+        "onboard_time": 1723788022,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204967,
+        "num": 204967,
+        "word": "雄性求偶不展示生存能力只展示OOTD",
+        "onboard_time": 1723790001,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204751,
+        "num": 204751,
+        "word": "张若昀选了唐艺昕",
+        "onboard_time": 1723784547,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199618,
+        "num": 204507,
+        "word": "陈楚生 没那么多人会在意你的对错",
+        "onboard_time": 1723790302,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204497,
+        "num": 204497,
+        "word": "前总理他信之女当选泰国总理",
+        "onboard_time": 1723786522,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 201817,
+        "num": 201817,
+        "word": "长荣桂冠酒店称不希望影响两岸关系",
+        "onboard_time": 1723790122,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200690,
+        "num": 200690,
+        "word": "赵露思皮衣白裙",
+        "onboard_time": 1723786583,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200295,
+        "num": 200295,
+        "word": "女孩被老师砸破头骨后遗症明显",
+        "onboard_time": 1723776982,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195294,
+        "num": 195294,
+        "word": "结婚登记拟不需户口簿如何防骗婚",
+        "onboard_time": 1723772720,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记足迹看绿色转型新图景#"
+    }
+  }
+}
