@@ -1,0 +1,410 @@
+{
+  "runTime": 1723826548199,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1516787,
+        "num": 1516787,
+        "word": "结婚自由离婚不自由还能说婚姻自由吗",
+        "onboard_time": 1723819883,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 934986,
+        "num": 934986,
+        "word": "LV推小乌龟挂件7400元一个",
+        "onboard_time": 1723815442,
+        "rank": 1,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 5013,
+        "num": 927301,
+        "word": "文化中国行看见大美山河",
+        "onboard_time": 1723777582,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 920307,
+        "num": 920307,
+        "word": "民政部解读结婚登记不需要户口簿",
+        "onboard_time": 1723821981,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 855026,
+        "num": 855026,
+        "word": "陈梦说就是要赢给所有人看",
+        "onboard_time": 1723817363,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 764834,
+        "num": 764834,
+        "word": "樊振东在奥运村天天拿两片披萨",
+        "onboard_time": 1723817842,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 686153,
+        "num": 686153,
+        "word": "41名事业单位人员被集体清退",
+        "onboard_time": 1723818860,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473218,
+        "num": 473218,
+        "word": "食物语",
+        "onboard_time": 1723825638,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 322889,
+        "num": 460706,
+        "word": "没有耻辱柱",
+        "onboard_time": 1723821262,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133842,
+        "num": 431010,
+        "word": "邓颖超主张一方坚持要离婚就可离",
+        "onboard_time": 1723816402,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1037319,
+        "num": 385918,
+        "word": "有远亲找全红婵妈妈借35万",
+        "onboard_time": 1723812918,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 973001,
+        "num": 364166,
+        "word": "范丞丞恋情瓜关系网总结",
+        "onboard_time": 1723808479,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350282,
+        "num": 350282,
+        "word": "婚姻登记处回应网友担忧被重婚",
+        "onboard_time": 1723794743,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326511,
+        "num": 326511,
+        "word": "别人冒用自己身份证领结婚证怎么办",
+        "onboard_time": 1723809620,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296864,
+        "num": 314246,
+        "word": "大量的徐志胜里混入一滴王鹤棣",
+        "onboard_time": 1723823960,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304654,
+        "num": 304654,
+        "word": "黑神话IGN10分",
+        "onboard_time": 1723817363,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 291314,
+        "num": 299769,
+        "word": "脱口秀大会",
+        "onboard_time": 1723821021,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296854,
+        "num": 296854,
+        "word": "范丞丞工作室 废话文学",
+        "onboard_time": 1723805300,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295778,
+        "num": 295778,
+        "word": "父亲马路罚跪3个孩子竟为逼妻现身",
+        "onboard_time": 1723814002,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229394,
+        "num": 246522,
+        "word": "向佐告别披荆斩棘",
+        "onboard_time": 1723806500,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379692,
+        "num": 246343,
+        "word": "张兰晒大S出轨证据",
+        "onboard_time": 1723801521,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243661,
+        "num": 243661,
+        "word": "zzoexxll街头采访理想型",
+        "onboard_time": 1723808240,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1089407,
+        "num": 242940,
+        "word": "范丞丞 没否认",
+        "onboard_time": 1723784244,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239995,
+        "num": 239995,
+        "word": "目前我国终身不婚人群仍是少数",
+        "onboard_time": 1723793781,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221161,
+        "num": 221161,
+        "word": "基普乔格关注孙颖莎",
+        "onboard_time": 1723821322,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211736,
+        "num": 211736,
+        "word": "孙杨回应美国游泳运动员脸紫",
+        "onboard_time": 1723810581,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194051,
+        "num": 194051,
+        "word": "黄宗泽再跳大巴舞",
+        "onboard_time": 1723814421,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176236,
+        "num": 186168,
+        "word": "关晓彤AI身材比例",
+        "onboard_time": 1723815741,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174664,
+        "num": 185536,
+        "word": "向佐气哭俩老头",
+        "onboard_time": 1723807220,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169111,
+        "num": 185305,
+        "word": "严浩翔生日直播",
+        "onboard_time": 1723823060,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185297,
+        "num": 185297,
+        "word": "女孩被老师打破头骨老师当庭翻供",
+        "onboard_time": 1723819102,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184755,
+        "num": 184755,
+        "word": "离婚冷静期真的能降低离婚率吗",
+        "onboard_time": 1723813220,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179498,
+        "num": 179498,
+        "word": "女子称住酒店被强奸警方未立案",
+        "onboard_time": 1723818622,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176151,
+        "num": 176151,
+        "word": "35岁单身女生独居的一天",
+        "onboard_time": 1723815381,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145185,
+        "num": 145185,
+        "word": "被彩带淹没的王一博",
+        "onboard_time": 1723822641,
+        "rank": 34,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 139255,
+        "num": 139255,
+        "word": "解决天价彩礼等问题有了新思路",
+        "onboard_time": 1723824798,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137487,
+        "num": 137487,
+        "word": "刘诗雯学马龙庆祝动作",
+        "onboard_time": 1723813642,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131083,
+        "num": 131083,
+        "word": "为什么结婚不用户口簿触动人们神经",
+        "onboard_time": 1723806020,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130143,
+        "num": 130143,
+        "word": "为什么年轻人不买奢侈品了",
+        "onboard_time": 1723820363,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130142,
+        "num": 130142,
+        "word": "酒店回应泄露女子房间密码致异性闯入",
+        "onboard_time": 1723821203,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129180,
+        "num": 129180,
+        "word": "蔡徐坤地广",
+        "onboard_time": 1723805602,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123371,
+        "num": 123371,
+        "word": "名侦探柯南 百万美元的五棱星",
+        "onboard_time": 1723821861,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122924,
+        "num": 122924,
+        "word": "郑钦文爸爸准备办网球培训机构",
+        "onboard_time": 1723824620,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121265,
+        "num": 121265,
+        "word": "陈哲远录密逃做噩梦",
+        "onboard_time": 1723823720,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120770,
+        "num": 120770,
+        "word": "奥运冠军回医院上班",
+        "onboard_time": 1723810821,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116794,
+        "num": 116794,
+        "word": "雅 给向佐打电话",
+        "onboard_time": 1723815622,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113904,
+        "num": 113904,
+        "word": "樊振东 单枪匹马却抵千军万马",
+        "onboard_time": 1723795762,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102299,
+        "num": 113881,
+        "word": "公园回应宝妈母婴室哺乳被强行开门",
+        "onboard_time": 1723816942,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94227,
+        "num": 113847,
+        "word": "一废旧航母在拆除改造时发生火灾",
+        "onboard_time": 1723817662,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89794,
+        "num": 113819,
+        "word": "陈梦说东京奥运会后三年很煎熬",
+        "onboard_time": 1723816281,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习新语#"
+    }
+  }
+}
