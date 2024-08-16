@@ -1,6 +1,6 @@
 {
   "startTime": 1723739122020,
-  "endTime": 1723807090474,
+  "endTime": 1723808116882,
   "band_list": [
     {
       "raw_hot": 10724841,
@@ -363,6 +363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 833224,
+      "num": 833224,
+      "word": "范丞丞工作室 废话文学",
+      "onboard_time": 1723805300,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 827084,
       "num": 827084,
       "word": "户口簿比身份证系统信息滞后",
@@ -393,14 +401,6 @@
       "onboard_time": 1723790122,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 782927,
-      "num": 498508,
-      "word": "范丞丞工作室 废话文学",
-      "onboard_time": 1723805300,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 778806,
@@ -563,12 +563,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 570539,
+      "num": 544381,
+      "word": "向佐告别披荆斩棘",
+      "onboard_time": 1723806500,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 562057,
       "num": 562057,
       "word": "国乒封训备战记录",
       "onboard_time": 1723777462,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 558626,
+      "num": 558626,
+      "word": "女童走失用银行ATM成功自救",
+      "onboard_time": 1723801881,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 558207,
@@ -585,14 +601,6 @@
       "onboard_time": 1723735400,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 545208,
-      "num": 545208,
-      "word": "女童走失用银行ATM成功自救",
-      "onboard_time": 1723801881,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 543898,
@@ -673,6 +681,14 @@
       "onboard_time": 1723778664,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 471279,
+      "num": 471279,
+      "word": "白鹿去了时代少年团演唱会",
+      "onboard_time": 1723807580,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 459697,
@@ -827,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357954,
+      "num": 357954,
+      "word": "河南监狱管理局不予录用18岁考生",
+      "onboard_time": 1723805780,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 355607,
       "num": 355607,
       "word": "原神前瞻",
@@ -883,14 +907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 327594,
-      "num": 327594,
-      "word": "河南监狱管理局不予录用18岁考生",
-      "onboard_time": 1723805780,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 326832,
       "num": 301859,
       "word": "时代峰峻否认余宇涵恋爱",
@@ -913,6 +929,14 @@
       "onboard_time": 1723775842,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318554,
+      "num": 318554,
+      "word": "向佐把林志玲老公惹哭了",
+      "onboard_time": 1723807099,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 317421,
@@ -1123,11 +1147,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 268194,
+      "num": 268194,
+      "word": "向佐气哭俩老头",
+      "onboard_time": 1723807220,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 267904,
       "num": 267904,
       "word": "教育年限延长促使初婚年龄越来越晚",
       "onboard_time": 1723793063,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264666,
+      "num": 264666,
+      "word": "美加州发现深海鱼尸体或与地震有关",
+      "onboard_time": 1723807280,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1219,14 +1259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 246593,
-      "num": 290710,
-      "word": "向佐告别披荆斩棘",
-      "onboard_time": 1723806500,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 246312,
       "num": 447333,
       "word": "前总理他信之女当选泰国总理",
@@ -1283,6 +1315,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236094,
+      "num": 236094,
+      "word": "邝玲玲回家",
+      "onboard_time": 1723806978,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 232303,
+      "num": 232303,
+      "word": "1个账号1个月参观7000次三星堆",
+      "onboard_time": 1723805780,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229987,
       "num": 229987,
       "word": "单身和已婚哪种状态更幸福",
@@ -1296,6 +1344,14 @@
       "word": "前女友闺蜜",
       "onboard_time": 1723787182,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 229758,
+      "num": 229758,
+      "word": "蔡徐坤地广",
+      "onboard_time": 1723805602,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -1377,6 +1433,14 @@
       "onboard_time": 1723715122,
       "rank": 23,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 219435,
+      "num": 479694,
+      "word": "为什么结婚不用户口簿触动人们神经",
+      "onboard_time": 1723806020,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215683,
@@ -1595,6 +1659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194893,
+      "num": 194893,
+      "word": "海贼王萨博 入野自由",
+      "onboard_time": 1723807759,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 194570,
       "num": 194570,
       "word": "揭秘阳光私募12亿存款丢失涉事3公司",
@@ -1691,14 +1763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191117,
-      "num": 191117,
-      "word": "蔡徐坤地广",
-      "onboard_time": 1723805602,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 190185,
       "num": 190185,
       "word": "巴黎残奥会中国运动员最大年龄48岁",
@@ -1713,6 +1777,14 @@
       "onboard_time": 1723794092,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 188701,
+      "num": 188701,
+      "word": "婆婆可能绑定了好命系统",
+      "onboard_time": 1723807099,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 188514,
@@ -1915,14 +1987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169278,
-      "num": 169278,
-      "word": "1个账号1个月参观7000次三星堆",
-      "onboard_time": 1723805780,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169163,
       "num": 337260,
       "word": "我们在黑夜中相拥",
@@ -2003,6 +2067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157909,
+      "num": 157909,
+      "word": "严浩翔回复生日祝福",
+      "onboard_time": 1723808059,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157848,
       "num": 165203,
       "word": "林俊杰 抢票",
@@ -2017,14 +2089,6 @@
       "onboard_time": 1723803021,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 156669,
-      "num": 156669,
-      "word": "邝玲玲回家",
-      "onboard_time": 1723806978,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 156020,
@@ -2073,6 +2137,14 @@
       "onboard_time": 1723801701,
       "rank": 45,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 150202,
+      "num": 150202,
+      "word": "格力电器暂未回应王自如离职传闻",
+      "onboard_time": 1723807880,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 148423,
@@ -2251,14 +2323,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 112921,
-      "num": 479694,
-      "word": "为什么结婚不用户口簿触动人们神经",
-      "onboard_time": 1723806020,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 111452,
       "num": 111452,
       "word": "樊振东的球每秒飞19米转146圈",
@@ -2353,6 +2417,14 @@
       "onboard_time": 1723774221,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 87834,
+      "num": 357096,
+      "word": "亡父赔偿金大伯代管八年后不还",
+      "onboard_time": 1723806020,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87620,
@@ -2523,14 +2595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 44072,
-      "num": 357096,
-      "word": "亡父赔偿金大伯代管八年后不还",
-      "onboard_time": 1723806020,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 43458,
       "num": 301285,
       "word": "12亿协议存款为何不翼而飞",
@@ -2571,12 +2635,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 38611,
+      "num": 499419,
+      "word": "刺杀银行董事长嫌疑人或为支行原行长",
+      "onboard_time": 1723807820,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34759,
       "num": 44738,
       "word": "女孩阴天骑白马身后闪现一道闪电",
       "onboard_time": 1723740976,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32786,
+      "num": 376162,
+      "word": "魏建军时隔6年重返长城汽车发布会",
+      "onboard_time": 1723804821,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 31634,
@@ -2600,14 +2680,6 @@
       "word": "比亚迪李云飞否认收购克莱斯勒",
       "onboard_time": 1723784547,
       "rank": 36,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 28895,
-      "num": 335682,
-      "word": "魏建军时隔6年重返长城汽车发布会",
-      "onboard_time": 1723804821,
-      "rank": 16,
       "category": "汽车"
     },
     {
