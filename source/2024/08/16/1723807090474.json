@@ -1,0 +1,410 @@
+{
+  "runTime": 1723807090474,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1459506,
+        "num": 1459506,
+        "word": "婚姻登记处回应网友担忧被重婚",
+        "onboard_time": 1723794743,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 867717,
+        "num": 867717,
+        "word": "目前我国终身不婚人群仍是少数",
+        "onboard_time": 1723793781,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26574,
+        "num": 645748,
+        "word": "塞上江南写新篇",
+        "onboard_time": 1723794862,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2718053,
+        "num": 638609,
+        "word": "范丞丞 没否认",
+        "onboard_time": 1723784244,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 618125,
+        "num": 618125,
+        "word": "you swan he frog",
+        "onboard_time": 1723801402,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 578636,
+        "num": 578636,
+        "word": "樊振东 单枪匹马却抵千军万马",
+        "onboard_time": 1723795762,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 545208,
+        "num": 545208,
+        "word": "女童走失用银行ATM成功自救",
+        "onboard_time": 1723801881,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508533,
+        "num": 508533,
+        "word": "全红婵带火小乌龟义乌老板疯狂赶工",
+        "onboard_time": 1723798222,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 782927,
+        "num": 498508,
+        "word": "范丞丞工作室 废话文学",
+        "onboard_time": 1723805300,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112921,
+        "num": 479694,
+        "word": "为什么结婚不用户口簿触动人们神经",
+        "onboard_time": 1723806020,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2584539,
+        "num": 468100,
+        "word": "张兰晒大S出轨证据",
+        "onboard_time": 1723801521,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 948851,
+        "num": 452548,
+        "word": "姚译添 内娱扫雷",
+        "onboard_time": 1723802539,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 628417,
+        "num": 441143,
+        "word": "zzoexxll 胡文煊前女友",
+        "onboard_time": 1723787603,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430122,
+        "num": 430122,
+        "word": "一小时11次连续抛烟头引燃楼下车辆",
+        "onboard_time": 1723802420,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44072,
+        "num": 357096,
+        "word": "亡父赔偿金大伯代管八年后不还",
+        "onboard_time": 1723806020,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344569,
+        "num": 344569,
+        "word": "蒋敦豪回应恋情",
+        "onboard_time": 1723790843,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28895,
+        "num": 335682,
+        "word": "魏建军时隔6年重返长城汽车发布会",
+        "onboard_time": 1723804821,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 327594,
+        "num": 327594,
+        "word": "河南监狱管理局不予录用18岁考生",
+        "onboard_time": 1723805780,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314457,
+        "num": 314457,
+        "word": "网传王自如已离职",
+        "onboard_time": 1723803200,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 309162,
+        "num": 309162,
+        "word": "老友记主演死亡当天被注射多次毒品",
+        "onboard_time": 1723793422,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1089638,
+        "num": 308405,
+        "word": "范丞丞方回应",
+        "onboard_time": 1723778303,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 872451,
+        "num": 305843,
+        "word": "陈伟霆 写完遗嘱后轻松了",
+        "onboard_time": 1723804041,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298045,
+        "num": 302382,
+        "word": "郑钦文神图",
+        "onboard_time": 1723803380,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 300254,
+        "num": 300254,
+        "word": "刘光耀安吉离婚",
+        "onboard_time": 1723800982,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246593,
+        "num": 290710,
+        "word": "向佐告别披荆斩棘",
+        "onboard_time": 1723806500,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246047,
+        "num": 290569,
+        "word": "王一博 低声些难道光彩吗",
+        "onboard_time": 1723791203,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290546,
+        "num": 290546,
+        "word": "户口簿比身份证系统信息滞后",
+        "onboard_time": 1723796002,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255942,
+        "num": 255942,
+        "word": "美国驻华大使馆回应给运动员P图",
+        "onboard_time": 1723805780,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255373,
+        "num": 255373,
+        "word": "当地回应银行董事长被人捅伤致死",
+        "onboard_time": 1723789523,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246620,
+        "num": 246620,
+        "word": "内娱男爱豆谈恋爱绕不开的人",
+        "onboard_time": 1723804641,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221783,
+        "num": 221783,
+        "word": "专家称婚姻登记修改让离婚更难",
+        "onboard_time": 1723792103,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212427,
+        "num": 212427,
+        "word": "美或因兴奋剂丑闻无法办洛杉矶奥运会",
+        "onboard_time": 1723787722,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197313,
+        "num": 197313,
+        "word": "cpgz抢票",
+        "onboard_time": 1723806079,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 192753,
+        "num": 192753,
+        "word": "160斤妻子孕晚期腰酸丈夫一把抱起",
+        "onboard_time": 1723793781,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191117,
+        "num": 191117,
+        "word": "蔡徐坤地广",
+        "onboard_time": 1723805602,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189019,
+        "num": 189019,
+        "word": "食物语陪伴版开服",
+        "onboard_time": 1723795103,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177922,
+        "num": 177922,
+        "word": "綦美合闺蜜",
+        "onboard_time": 1723795161,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177584,
+        "num": 177584,
+        "word": "披荆斩棘",
+        "onboard_time": 1723805900,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169278,
+        "num": 169278,
+        "word": "1个账号1个月参观7000次三星堆",
+        "onboard_time": 1723805780,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167921,
+        "num": 167921,
+        "word": "结婚不用户口簿是否要告知父母",
+        "onboard_time": 1723801402,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164458,
+        "num": 164458,
+        "word": "买超",
+        "onboard_time": 1723778062,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163251,
+        "num": 163251,
+        "word": "结婚不要户口本或缓解天价彩礼现象",
+        "onboard_time": 1723767439,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 706285,
+        "num": 160869,
+        "word": "时代少年团演唱会",
+        "onboard_time": 1723805421,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157753,
+        "num": 157753,
+        "word": "教育年限延长促使初婚年龄越来越晚",
+        "onboard_time": 1723793063,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156669,
+        "num": 156669,
+        "word": "邝玲玲回家",
+        "onboard_time": 1723806978,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155910,
+        "num": 155910,
+        "word": "向佐 打架跟我打",
+        "onboard_time": 1723806621,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151687,
+        "num": 151687,
+        "word": "又见美合",
+        "onboard_time": 1723793003,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146806,
+        "num": 146806,
+        "word": "梁洁 演员之间不要被太多东西束缚",
+        "onboard_time": 1723804700,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145614,
+        "num": 145614,
+        "word": "蒲熠星想见你",
+        "onboard_time": 1723806260,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141062,
+        "num": 141062,
+        "word": "宋亚轩给严浩翔P了个皇冠",
+        "onboard_time": 1723792222,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记感受文化中国#"
+    }
+  }
+}

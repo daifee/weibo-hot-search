@@ -1,6 +1,6 @@
 {
   "startTime": 1723739122020,
-  "endTime": 1723804720493,
+  "endTime": 1723807090474,
   "band_list": [
     {
       "raw_hot": 10724841,
@@ -331,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 872451,
+      "num": 322752,
+      "word": "陈伟霆 写完遗嘱后轻松了",
+      "onboard_time": 1723804041,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 867220,
       "num": 867220,
       "word": "阿娇皇甫圣华手挽手",
@@ -387,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 782927,
+      "num": 498508,
+      "word": "范丞丞工作室 废话文学",
+      "onboard_time": 1723805300,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 778806,
       "num": 778806,
       "word": "巴黎残奥会中国代表团成立",
@@ -417,6 +433,14 @@
       "onboard_time": 1723729941,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 706285,
+      "num": 160869,
+      "word": "时代少年团演唱会",
+      "onboard_time": 1723805421,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 697706,
@@ -515,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 618125,
+      "num": 618125,
+      "word": "you swan he frog",
+      "onboard_time": 1723801402,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 600299,
       "num": 600299,
       "word": "小火锅为什么不受欢迎了",
@@ -553,6 +585,14 @@
       "onboard_time": 1723735400,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 545208,
+      "num": 545208,
+      "word": "女童走失用银行ATM成功自救",
+      "onboard_time": 1723801881,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 543898,
@@ -667,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 430122,
+      "num": 729084,
+      "word": "一小时11次连续抛烟头引燃楼下车辆",
+      "onboard_time": 1723802420,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 411144,
       "num": 411144,
       "word": "黑龙江执法人员怒怼举报人",
@@ -689,14 +737,6 @@
       "onboard_time": 1723714221,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 401259,
-      "num": 401259,
-      "word": "you swan he frog",
-      "onboard_time": 1723801402,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 399931,
@@ -843,20 +883,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 327594,
+      "num": 327594,
+      "word": "河南监狱管理局不予录用18岁考生",
+      "onboard_time": 1723805780,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326832,
       "num": 301859,
       "word": "时代峰峻否认余宇涵恋爱",
       "onboard_time": 1723734442,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 322752,
-      "num": 322752,
-      "word": "陈伟霆 写完遗嘱后轻松了",
-      "onboard_time": 1723804041,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 322523,
@@ -872,14 +912,6 @@
       "word": "过度延长产假或增加女性中断就业概率",
       "onboard_time": 1723775842,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 320762,
-      "num": 320762,
-      "word": "女童走失用银行ATM成功自救",
-      "onboard_time": 1723801881,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -952,6 +984,14 @@
       "word": "潘展乐认真训练起码有10年的统治力",
       "onboard_time": 1723797261,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 298045,
+      "num": 302382,
+      "word": "郑钦文神图",
+      "onboard_time": 1723803380,
+      "rank": 22,
       "category": "体育"
     },
     {
@@ -1099,14 +1139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 262680,
-      "num": 729084,
-      "word": "一小时11次连续抛烟头引燃楼下车辆",
-      "onboard_time": 1723802420,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 261586,
       "num": 311321,
       "word": "乐华家族 起风了",
@@ -1147,6 +1179,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 255942,
+      "num": 255942,
+      "word": "美国驻华大使馆回应给运动员P图",
+      "onboard_time": 1723805780,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 255566,
       "num": 255566,
       "word": "孙颖莎陈清晨环球影城vlog",
@@ -1169,6 +1209,22 @@
       "onboard_time": 1723781484,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246620,
+      "num": 246620,
+      "word": "内娱男爱豆谈恋爱绕不开的人",
+      "onboard_time": 1723804641,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 246593,
+      "num": 290710,
+      "word": "向佐告别披荆斩棘",
+      "onboard_time": 1723806500,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 246312,
@@ -1507,6 +1563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 197313,
+      "num": 197313,
+      "word": "cpgz抢票",
+      "onboard_time": 1723806079,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 196752,
       "num": 196752,
       "word": "超20座巴勒斯坦墓地被以军轰炸挖掘",
@@ -1625,6 +1689,14 @@
       "onboard_time": 1723789283,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191117,
+      "num": 191117,
+      "word": "蔡徐坤地广",
+      "onboard_time": 1723805602,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 190185,
@@ -1755,6 +1827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177584,
+      "num": 177584,
+      "word": "披荆斩棘",
+      "onboard_time": 1723805900,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177332,
       "num": 177332,
       "word": "千万别让王嘉尔看到杜海涛这段",
@@ -1832,6 +1912,14 @@
       "word": "邯郸银行不良贷款率高于行业平均水平",
       "onboard_time": 1723797624,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169278,
+      "num": 169278,
+      "word": "1个账号1个月参观7000次三星堆",
+      "onboard_time": 1723805780,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1931,6 +2019,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 156669,
+      "num": 156669,
+      "word": "邝玲玲回家",
+      "onboard_time": 1723806978,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156020,
       "num": 156020,
       "word": "陈梦刚回家就来给山东文旅冲KPI了",
@@ -1939,20 +2035,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155910,
+      "num": 155910,
+      "word": "向佐 打架跟我打",
+      "onboard_time": 1723806621,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155377,
       "num": 749073,
       "word": "律师称户口簿和天价彩礼无因果关系",
       "onboard_time": 1723802000,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155044,
-      "num": 155044,
-      "word": "内娱男爱豆谈恋爱绕不开的人",
-      "onboard_time": 1723804641,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 155003,
@@ -2003,6 +2099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 146806,
+      "num": 151348,
+      "word": "梁洁 演员之间不要被太多东西束缚",
+      "onboard_time": 1723804700,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146435,
       "num": 146435,
       "word": "恋与深空",
@@ -2019,20 +2123,20 @@
       "category": "美食,旅游"
     },
     {
+      "raw_hot": 145614,
+      "num": 145614,
+      "word": "蒲熠星想见你",
+      "onboard_time": 1723806260,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143980,
       "num": 386770,
       "word": "私藏浪漫一边搞浪漫一边当牛马",
       "onboard_time": 1723785923,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 143896,
-      "num": 151348,
-      "word": "梁洁 演员之间不要被太多东西束缚",
-      "onboard_time": 1723804700,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 143871,
@@ -2145,6 +2249,14 @@
       "onboard_time": 1723735522,
       "rank": 45,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 112921,
+      "num": 479694,
+      "word": "为什么结婚不用户口簿触动人们神经",
+      "onboard_time": 1723806020,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111452,
@@ -2411,6 +2523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44072,
+      "num": 357096,
+      "word": "亡父赔偿金大伯代管八年后不还",
+      "onboard_time": 1723806020,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43458,
       "num": 301285,
       "word": "12亿协议存款为何不翼而飞",
@@ -2480,6 +2600,14 @@
       "word": "比亚迪李云飞否认收购克莱斯勒",
       "onboard_time": 1723784547,
       "rank": 36,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 28895,
+      "num": 335682,
+      "word": "魏建军时隔6年重返长城汽车发布会",
+      "onboard_time": 1723804821,
+      "rank": 16,
       "category": "汽车"
     },
     {
