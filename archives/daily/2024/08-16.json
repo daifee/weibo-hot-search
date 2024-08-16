@@ -1,6 +1,6 @@
 {
   "startTime": 1723739122020,
-  "endTime": 1723817915872,
+  "endTime": 1723818960389,
   "band_list": [
     {
       "raw_hot": 10724841,
@@ -139,8 +139,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 2289027,
-      "num": 2289027,
+      "raw_hot": 2337946,
+      "num": 2337946,
       "word": "LV推小乌龟挂件7400元一个",
       "onboard_time": 1723815442,
       "rank": 0,
@@ -177,6 +177,14 @@
       "onboard_time": 1723810821,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1678861,
+      "num": 1678861,
+      "word": "黑神话IGN10分",
+      "onboard_time": 1723817363,
+      "rank": 1,
+      "category": "游戏"
     },
     {
       "raw_hot": 1613270,
@@ -217,14 +225,6 @@
       "onboard_time": 1723767381,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1385557,
-      "num": 1385557,
-      "word": "黑神话IGN10分",
-      "onboard_time": 1723817363,
-      "rank": 1,
-      "category": "游戏"
     },
     {
       "raw_hot": 1356893,
@@ -339,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1080253,
+      "num": 1080253,
+      "word": "父亲马路罚跪3个孩子竟为逼妻现身",
+      "onboard_time": 1723814002,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1047607,
       "num": 1047607,
       "word": "河南监狱管理局不予录用18岁考生",
@@ -352,14 +360,6 @@
       "word": "为什么结婚不用户口簿触动人们神经",
       "onboard_time": 1723806020,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1031767,
-      "num": 1031767,
-      "word": "父亲马路罚跪3个孩子竟为逼妻现身",
-      "onboard_time": 1723814002,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -755,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 556187,
+      "num": 619989,
+      "word": "关晓彤AI身材比例",
+      "onboard_time": 1723815741,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 555225,
       "num": 555225,
       "word": "刘耀文 真空深V露背",
@@ -801,6 +809,14 @@
       "onboard_time": 1723779023,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 531756,
+      "num": 531756,
+      "word": "樊振东在奥运村天天拿两片披萨",
+      "onboard_time": 1723817842,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 527504,
@@ -907,12 +923,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 426020,
-      "num": 619989,
-      "word": "关晓彤AI身材比例",
-      "onboard_time": 1723815741,
-      "rank": 17,
-      "category": "作品衍生"
+      "raw_hot": 420169,
+      "num": 605932,
+      "word": "宋亚轩摇摇晃晃纯享版",
+      "onboard_time": 1723818322,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 412399,
@@ -1091,6 +1107,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 337728,
+      "num": 337728,
+      "word": "一废旧航母在拆除改造时发生火灾",
+      "onboard_time": 1723817662,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332319,
       "num": 332319,
       "word": "山西文旅还是太超前了",
@@ -1179,6 +1203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 312587,
+      "num": 312587,
+      "word": "陈梦说东京奥运会后三年很煎熬",
+      "onboard_time": 1723816281,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 308355,
       "num": 308355,
       "word": "雄性求偶不展示生存能力只展示OOTD",
@@ -1217,6 +1249,14 @@
       "onboard_time": 1723717941,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302502,
+      "num": 302502,
+      "word": "陈梦说就是要赢给所有人看",
+      "onboard_time": 1723817363,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 301476,
@@ -1499,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242882,
+      "num": 242882,
+      "word": "JDG晋级冒泡赛",
+      "onboard_time": 1723817783,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 242263,
       "num": 242263,
       "word": "官方通报老鸭面吃出异物",
@@ -1528,14 +1576,6 @@
       "word": "安洗莹炮轰韩国羽协后缺席大赛",
       "onboard_time": 1723769239,
       "rank": 26,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 238818,
-      "num": 238818,
-      "word": "陈梦说东京奥运会后三年很煎熬",
-      "onboard_time": 1723816281,
-      "rank": 33,
       "category": "体育"
     },
     {
@@ -1611,14 +1651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 229257,
-      "num": 229257,
-      "word": "陈梦说就是要赢给所有人看",
-      "onboard_time": 1723817363,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 226967,
       "num": 226967,
       "word": "请关心一下现在妈妈吧",
@@ -1652,7 +1684,7 @@
     },
     {
       "raw_hot": 225736,
-      "num": 225736,
+      "num": 303058,
       "word": "雅 给向佐打电话",
       "onboard_time": 1723815622,
       "rank": 36,
@@ -1763,12 +1795,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 210476,
-      "num": 210476,
-      "word": "樊振东在奥运村天天拿两片披萨",
-      "onboard_time": 1723817842,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 209633,
+      "num": 200700,
+      "word": "AL无缘冒泡赛",
+      "onboard_time": 1723817721,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 209225,
@@ -1891,6 +1923,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201225,
+      "num": 201225,
+      "word": "邓颖超主张一方坚持要离婚就可离",
+      "onboard_time": 1723816402,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201090,
+      "num": 201090,
+      "word": "想见你 前奏一响就哭了",
+      "onboard_time": 1723818382,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 200846,
       "num": 377439,
       "word": "战至巅峰3官宣定档",
@@ -1915,20 +1963,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199026,
+      "num": 259088,
+      "word": "江苏一废旧航母拆除时发生火灾",
+      "onboard_time": 1723815682,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199014,
+      "num": 199014,
+      "word": "WBG13淘汰吃鸡",
+      "onboard_time": 1723818561,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 198745,
       "num": 198745,
       "word": "为人夫了不好见外女的",
       "onboard_time": 1723792644,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 198350,
-      "num": 198350,
-      "word": "一废旧航母在拆除改造时发生火灾",
-      "onboard_time": 1723817662,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198302,
@@ -2083,14 +2139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191014,
-      "num": 191014,
-      "word": "江苏一废旧航母拆除时发生火灾",
-      "onboard_time": 1723815682,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190281,
       "num": 190281,
       "word": "中方要求菲方立即撤出有关船只",
@@ -2187,14 +2235,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 186252,
-      "num": 186252,
-      "word": "邓颖超主张一方坚持要离婚就可离",
-      "onboard_time": 1723816402,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186041,
       "num": 186041,
       "word": "八旬老人疑被养老院室友打死",
@@ -2209,6 +2249,14 @@
       "onboard_time": 1723817483,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 185410,
+      "num": 185410,
+      "word": "女子称住酒店被强奸警方未立案",
+      "onboard_time": 1723818622,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185153,
@@ -2251,14 +2299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 182122,
-      "num": 182122,
-      "word": "AL无缘冒泡赛",
-      "onboard_time": 1723817721,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 182057,
       "num": 182057,
       "word": "发明韩语的不会是个广东人吧",
@@ -2281,14 +2321,6 @@
       "onboard_time": 1723800082,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 177957,
-      "num": 177957,
-      "word": "JDG晋级冒泡赛",
-      "onboard_time": 1723817783,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 177584,
@@ -2403,6 +2435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166296,
+      "num": 166296,
+      "word": "TES晋级季后赛下一轮",
+      "onboard_time": 1723818622,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165072,
       "num": 165072,
       "word": "女子吃凉皮后米酵菌酸中毒住进ICU",
@@ -2416,6 +2456,14 @@
       "word": "河南省监狱管理局回应18岁考生上岸",
       "onboard_time": 1723733122,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162460,
+      "num": 162460,
+      "word": "41名事业单位人员被集体清退",
+      "onboard_time": 1723818860,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -2715,6 +2763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133202,
+      "num": 699270,
+      "word": "公园回应宝妈母婴室哺乳被强行开门",
+      "onboard_time": 1723816942,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131635,
       "num": 131635,
       "word": "i猫是e猫的玩具",
@@ -3011,11 +3067,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 58810,
-      "num": 699270,
-      "word": "公园回应宝妈母婴室哺乳被强行开门",
-      "onboard_time": 1723816942,
-      "rank": 8,
+      "raw_hot": 58848,
+      "num": 605117,
+      "word": "小孩攀岩教练竟在玩手机",
+      "onboard_time": 1723818681,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -3051,6 +3107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 48406,
+      "num": 161846,
+      "word": "林熙蕾贵气",
+      "onboard_time": 1723818924,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 46895,
       "num": 85976,
       "word": "婚姻登记将全国通办不用再为爱奔波",
@@ -3064,6 +3128,14 @@
       "word": "结婚登记不再需要户口簿",
       "onboard_time": 1723680139,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45145,
+      "num": 631743,
+      "word": "年轻人迷上了Cos委托",
+      "onboard_time": 1723817721,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -3120,14 +3192,6 @@
       "word": "刺杀银行董事长嫌疑人或为支行原行长",
       "onboard_time": 1723807820,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35903,
-      "num": 631743,
-      "word": "年轻人迷上了Cos委托",
-      "onboard_time": 1723817721,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
