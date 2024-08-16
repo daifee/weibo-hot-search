@@ -1,6 +1,6 @@
 {
   "startTime": 1723739122020,
-  "endTime": 1723775947287,
+  "endTime": 1723776520708,
   "band_list": [
     {
       "raw_hot": 5438729,
@@ -19,20 +19,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3510089,
+      "num": 507310,
+      "word": "范丞丞 周洁琼",
+      "onboard_time": 1723776021,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2320203,
+      "num": 2320203,
+      "word": "长荣桂冠酒店道歉",
+      "onboard_time": 1723774461,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1468606,
       "num": 650172,
       "word": "范丞丞和买超聚餐",
       "onboard_time": 1723771160,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1440917,
-      "num": 1440917,
-      "word": "长荣桂冠酒店道歉",
-      "onboard_time": 1723774461,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1429544,
@@ -75,20 +83,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1165991,
+      "num": 1165991,
+      "word": "加沙女孩用嘴去接卡车漏下的水滴解渴",
+      "onboard_time": 1723772121,
+      "rank": 26,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1142195,
       "num": 1142195,
       "word": "全红婵你真牛啊真狠啊",
       "onboard_time": 1723729341,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1103722,
-      "num": 1103722,
-      "word": "加沙女孩用嘴去接卡车漏下的水滴解渴",
-      "onboard_time": 1723772121,
-      "rank": 26,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1023500,
@@ -115,8 +123,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 886120,
-      "num": 886120,
+      "raw_hot": 943400,
+      "num": 943400,
       "word": "迪丽热巴芭莎金九预告发了",
       "onboard_time": 1723774821,
       "rank": 6,
@@ -187,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 634144,
+      "num": 634144,
+      "word": "丫丫大头快成正圆了",
+      "onboard_time": 1723772720,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 600299,
       "num": 600299,
       "word": "小火锅为什么不受欢迎了",
@@ -203,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 568290,
+      "num": 465421,
+      "word": "陈梦分享海边美照",
+      "onboard_time": 1723775420,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 556243,
       "num": 556243,
       "word": "辰亦儒曾之乔睡觉都牵着手",
@@ -217,14 +241,6 @@
       "onboard_time": 1723729762,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 526137,
-      "num": 526137,
-      "word": "丫丫大头快成正圆了",
-      "onboard_time": 1723772720,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 502615,
@@ -363,12 +379,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 277827,
-      "num": 277827,
-      "word": "陈梦分享海边美照",
-      "onboard_time": 1723775420,
-      "rank": 25,
-      "category": "体育"
+      "raw_hot": 283264,
+      "num": 621895,
+      "word": "密逃 四个男人凑不出一个胆子",
+      "onboard_time": 1723775000,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 270315,
+      "num": 270315,
+      "word": "结婚登记拟不需户口簿如何防骗婚",
+      "onboard_time": 1723772720,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 264166,
@@ -393,14 +417,6 @@
       "onboard_time": 1723713441,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 251438,
-      "num": 251438,
-      "word": "结婚登记拟不需户口簿如何防骗婚",
-      "onboard_time": 1723772720,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 242263,
@@ -435,36 +451,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 225554,
-      "num": 621895,
-      "word": "密逃 四个男人凑不出一个胆子",
-      "onboard_time": 1723775000,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 224903,
-      "num": 224903,
+      "raw_hot": 228566,
+      "num": 228566,
       "word": "猴痘疫情已向非洲以外蔓延",
       "onboard_time": 1723772840,
       "rank": 31,
       "category": "健康医疗"
     },
     {
+      "raw_hot": 226712,
+      "num": 600861,
+      "word": "杨幂Perfect杂志封面",
+      "onboard_time": 1723772659,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 224226,
-      "num": 312139,
+      "num": 371332,
       "word": "贺峻霖疑似兔耳造型",
       "onboard_time": 1723769723,
       "rank": 18,
       "category": "艺人"
     },
     {
-      "raw_hot": 223483,
-      "num": 600861,
-      "word": "杨幂Perfect杂志封面",
-      "onboard_time": 1723772659,
-      "rank": 34,
-      "category": "作品衍生,时尚"
+      "raw_hot": 223811,
+      "num": 570871,
+      "word": "金珉奎腹肌",
+      "onboard_time": 1723771760,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 222573,
@@ -483,14 +499,6 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 218272,
-      "num": 570871,
-      "word": "金珉奎腹肌",
-      "onboard_time": 1723771760,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 211629,
       "num": 211629,
       "word": "黄一鸣说不会再找对象",
@@ -507,12 +515,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206773,
+      "num": 206773,
+      "word": "史上最大规模中国游戏厂商亮相德国",
+      "onboard_time": 1723775301,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 203232,
       "num": 203232,
       "word": "第一批奥运冠军已经开始教人化妆了",
       "onboard_time": 1723718600,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200348,
+      "num": 200348,
+      "word": "多地开展不明原因肺炎疫情防控演练",
+      "onboard_time": 1723775420,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196752,
@@ -523,12 +547,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 196258,
-      "num": 196258,
-      "word": "史上最大规模中国游戏厂商亮相德国",
-      "onboard_time": 1723775301,
-      "rank": 35,
-      "category": "游戏"
+      "raw_hot": 196716,
+      "num": 196716,
+      "word": "家庭把关婚姻本就干涉婚姻自由",
+      "onboard_time": 1723776444,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194259,
@@ -571,8 +595,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188514,
+      "num": 188514,
+      "word": "于敏说国家需要一定全力以赴",
+      "onboard_time": 1723775541,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188177,
-      "num": 188177,
+      "num": 485326,
       "word": "邓紫棋生日海报",
       "onboard_time": 1723775722,
       "rank": 36,
@@ -625,14 +657,6 @@
       "onboard_time": 1723769841,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 169751,
-      "num": 169751,
-      "word": "多地开展不明原因肺炎疫情防控演练",
-      "onboard_time": 1723775420,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168470,
@@ -699,6 +723,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 158643,
+      "num": 158643,
+      "word": "张晚意 我的目标是破3万",
+      "onboard_time": 1723776323,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157994,
       "num": 157994,
       "word": "长荣桂冠酒店回应",
@@ -737,6 +769,14 @@
       "onboard_time": 1723772420,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 146587,
+      "num": 146587,
+      "word": "早上吃碳水可以保持一天的食欲",
+      "onboard_time": 1723775961,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 145769,
@@ -945,6 +985,14 @@
       "onboard_time": 1723741397,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 59751,
+      "num": 291412,
+      "word": "全球537人因猴痘死亡",
+      "onboard_time": 1723776202,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 59036,

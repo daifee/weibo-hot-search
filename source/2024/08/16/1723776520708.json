@@ -1,0 +1,410 @@
+{
+  "runTime": 1723776520708,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2320203,
+        "num": 2320203,
+        "word": "长荣桂冠酒店道歉",
+        "onboard_time": 1723774461,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1222511,
+        "num": 1222511,
+        "word": "研究生女孩害怕被妈妈揍极限收高粱",
+        "onboard_time": 1723770020,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6483,
+        "num": 1172881,
+        "word": "何以中国行走河南",
+        "onboard_time": 1723641020,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2837841,
+        "num": 1170505,
+        "word": "结婚不要户口本或缓解天价彩礼现象",
+        "onboard_time": 1723767439,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1165991,
+        "num": 1165991,
+        "word": "加沙女孩用嘴去接卡车漏下的水滴解渴",
+        "onboard_time": 1723772121,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 943400,
+        "num": 943400,
+        "word": "迪丽热巴芭莎金九预告发了",
+        "onboard_time": 1723774821,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 837695,
+        "num": 837695,
+        "word": "户口簿退出婚登回应年轻人关切",
+        "onboard_time": 1723768761,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 703348,
+        "num": 798200,
+        "word": "总统实名羡慕中国高铁美国咋造不出来",
+        "onboard_time": 1723734681,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 315915,
+        "num": 790683,
+        "word": "梁洁 为什么让娜扎使劲不让我使劲",
+        "onboard_time": 1723767020,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 788446,
+        "num": 788446,
+        "word": "婚姻登记取消户口簿彰显婚姻自由",
+        "onboard_time": 1723724602,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4098793,
+        "num": 762946,
+        "word": "疑似范丞丞恋情",
+        "onboard_time": 1723772479,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 691933,
+        "num": 691933,
+        "word": "樊振东回复小莫",
+        "onboard_time": 1723767381,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 634144,
+        "num": 634144,
+        "word": "丫丫大头快成正圆了",
+        "onboard_time": 1723772720,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604036,
+        "num": 604036,
+        "word": "郑钦文比赛因雨暂停",
+        "onboard_time": 1723771340,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 513141,
+        "num": 513141,
+        "word": "台湾附近6.1级左右地震",
+        "onboard_time": 1723765578,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3510089,
+        "num": 507310,
+        "word": "范丞丞 周洁琼",
+        "onboard_time": 1723776021,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283264,
+        "num": 506886,
+        "word": "密逃 四个男人凑不出一个胆子",
+        "onboard_time": 1723775000,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226712,
+        "num": 495592,
+        "word": "杨幂Perfect杂志封面",
+        "onboard_time": 1723772659,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 223811,
+        "num": 491087,
+        "word": "金珉奎腹肌",
+        "onboard_time": 1723771760,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177318,
+        "num": 485326,
+        "word": "邓紫棋生日海报",
+        "onboard_time": 1723775722,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1152443,
+        "num": 478639,
+        "word": "范丞丞和买超聚餐",
+        "onboard_time": 1723771160,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 776016,
+        "num": 473621,
+        "word": "瘦了30斤才敢说的大实话",
+        "onboard_time": 1723771641,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 568290,
+        "num": 465421,
+        "word": "陈梦分享海边美照",
+        "onboard_time": 1723775420,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 464210,
+        "num": 464210,
+        "word": "女子入职3个月怀孕被扣7个月绩效金",
+        "onboard_time": 1723732641,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439632,
+        "num": 439632,
+        "word": "电影逆行人生陷巨大争议",
+        "onboard_time": 1723766659,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 415689,
+        "num": 415689,
+        "word": "阳光私募12.52亿元存款丢失",
+        "onboard_time": 1723768880,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 169892,
+        "num": 388921,
+        "word": "00后有自己的聊天方式",
+        "onboard_time": 1723769119,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167784,
+        "num": 371332,
+        "word": "贺峻霖疑似兔耳造型",
+        "onboard_time": 1723769723,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158819,
+        "num": 307082,
+        "word": "鹿晗直播",
+        "onboard_time": 1723766541,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59751,
+        "num": 291412,
+        "word": "全球537人因猴痘死亡",
+        "onboard_time": 1723776202,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270315,
+        "num": 270315,
+        "word": "结婚登记拟不需户口簿如何防骗婚",
+        "onboard_time": 1723772720,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242512,
+        "num": 242512,
+        "word": "全红婵你真牛啊真狠啊",
+        "onboard_time": 1723729341,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228566,
+        "num": 228566,
+        "word": "猴痘疫情已向非洲以外蔓延",
+        "onboard_time": 1723772840,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 216972,
+        "num": 216972,
+        "word": "郑钦文vs弗雷希",
+        "onboard_time": 1723764976,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206773,
+        "num": 206773,
+        "word": "史上最大规模中国游戏厂商亮相德国",
+        "onboard_time": 1723775301,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200955,
+        "num": 200955,
+        "word": "食物语",
+        "onboard_time": 1723771340,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200348,
+        "num": 200348,
+        "word": "多地开展不明原因肺炎疫情防控演练",
+        "onboard_time": 1723775420,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196716,
+        "num": 196716,
+        "word": "家庭把关婚姻本就干涉婚姻自由",
+        "onboard_time": 1723776444,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191199,
+        "num": 191199,
+        "word": "于敏曾隐姓埋名28年",
+        "onboard_time": 1723771880,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190344,
+        "num": 190344,
+        "word": "超20座巴勒斯坦墓地被以军轰炸挖掘",
+        "onboard_time": 1723773141,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 188514,
+        "num": 188514,
+        "word": "于敏说国家需要一定全力以赴",
+        "onboard_time": 1723775541,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174868,
+        "num": 174868,
+        "word": "律师谈离婚冷静期内任何一方可撤回",
+        "onboard_time": 1723743672,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161980,
+        "num": 161980,
+        "word": "发明韩语的不会是个广东人吧",
+        "onboard_time": 1723771579,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158643,
+        "num": 158643,
+        "word": "张晚意 我的目标是破3万",
+        "onboard_time": 1723776323,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157770,
+        "num": 157770,
+        "word": "睡觉流口水是身体在暗示3大问题",
+        "onboard_time": 1723769723,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157482,
+        "num": 157482,
+        "word": "好一张死气沉沉且有文化的脸",
+        "onboard_time": 1723770020,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155500,
+        "num": 155500,
+        "word": "美国比基建没比过一非洲国家",
+        "onboard_time": 1723745772,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151613,
+        "num": 151613,
+        "word": "过度延长产假或增加女性中断就业概率",
+        "onboard_time": 1723775842,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147235,
+        "num": 147235,
+        "word": "福建厦门震感",
+        "onboard_time": 1723765880,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146587,
+        "num": 146587,
+        "word": "早上吃碳水可以保持一天的食欲",
+        "onboard_time": 1723775961,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同巴西总统互致贺电#"
+    }
+  }
+}
