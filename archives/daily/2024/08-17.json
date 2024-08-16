@@ -1,6 +1,6 @@
 {
   "startTime": 1723825640005,
-  "endTime": 1723832837086,
+  "endTime": 1723833598254,
   "band_list": [
     {
       "raw_hot": 1628822,
@@ -419,20 +419,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 84995,
+      "num": 103471,
+      "word": "爱奇艺破万墙",
+      "onboard_time": 1723831873,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 69720,
       "num": 97394,
       "word": "得得 十天之后回到现实",
       "onboard_time": 1723820602,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 60676,
-      "num": 75232,
-      "word": "爱奇艺破万墙",
-      "onboard_time": 1723831873,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 56921,
@@ -451,20 +451,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50689,
+      "num": 135516,
+      "word": "草案是指结婚离婚都不看户口簿",
+      "onboard_time": 1723816703,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43183,
+      "num": 60811,
+      "word": "喜人奇妙夜",
+      "onboard_time": 1723831155,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 41992,
       "num": 60837,
       "word": "张雨霏徐嘉余玩游戏像开会一样",
       "onboard_time": 1723823841,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 41005,
-      "num": 60811,
-      "word": "喜人奇妙夜",
-      "onboard_time": 1723831155,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 40452,
@@ -491,10 +499,18 @@
       "category": "演出"
     },
     {
-      "raw_hot": 32939,
-      "num": 135516,
-      "word": "草案是指结婚离婚都不看户口簿",
-      "onboard_time": 1723816703,
+      "raw_hot": 35573,
+      "num": 50684,
+      "word": "十天之后回到现实",
+      "onboard_time": 1723828216,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 13447,
+      "num": 117349,
+      "word": "高空抛烟头致火灾这些情形下刑罚升格",
+      "onboard_time": 1723833133,
       "rank": 9,
       "category": "社会新闻"
     },
