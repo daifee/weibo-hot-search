@@ -1,6 +1,6 @@
 {
   "startTime": 1723739122020,
-  "endTime": 1723811880260,
+  "endTime": 1723812774796,
   "band_list": [
     {
       "raw_hot": 10724841,
@@ -139,8 +139,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1599270,
-      "num": 412000,
+      "raw_hot": 1613270,
+      "num": 589364,
       "word": "范丞丞恋情瓜关系网总结",
       "onboard_time": 1723808479,
       "rank": 10,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 1174776,
-      "num": 411898,
+      "num": 576778,
       "word": "zzoexxll街头采访理想型",
       "onboard_time": 1723808240,
       "rank": 11,
@@ -337,6 +337,14 @@
       "onboard_time": 1723766659,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 956136,
+      "num": 536918,
+      "word": "奥运冠军回医院上班",
+      "onboard_time": 1723810821,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 943400,
@@ -459,6 +467,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 736927,
+      "num": 736927,
+      "word": "孙杨回应美国游泳运动员脸紫",
+      "onboard_time": 1723810581,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 716692,
+      "num": 716692,
+      "word": "向佐气哭俩老头",
+      "onboard_time": 1723807220,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 715123,
       "num": 245635,
       "word": "杭州一女子因穿着暴露卖货被查",
@@ -483,12 +507,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 704534,
-      "num": 475589,
-      "word": "向佐气哭俩老头",
-      "onboard_time": 1723807220,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 703327,
+      "num": 703327,
+      "word": "别人冒用自己身份证领结婚证怎么办",
+      "onboard_time": 1723809620,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 697706,
@@ -609,14 +633,6 @@
       "onboard_time": 1723721301,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 570305,
-      "num": 411877,
-      "word": "孙杨回应美国游泳运动员脸紫",
-      "onboard_time": 1723810581,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 562057,
@@ -748,7 +764,7 @@
     },
     {
       "raw_hot": 462916,
-      "num": 411742,
+      "num": 425831,
       "word": "向佐把林志玲老公惹哭了",
       "onboard_time": 1723807099,
       "rank": 18,
@@ -787,14 +803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 438508,
-      "num": 216008,
-      "word": "奥运冠军回医院上班",
-      "onboard_time": 1723810821,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 430122,
       "num": 729084,
       "word": "一小时11次连续抛烟头引燃楼下车辆",
@@ -804,7 +812,7 @@
     },
     {
       "raw_hot": 412399,
-      "num": 215624,
+      "num": 354514,
       "word": "QQ飞车S17",
       "onboard_time": 1723811661,
       "rank": 31,
@@ -980,7 +988,7 @@
     },
     {
       "raw_hot": 327843,
-      "num": 242142,
+      "num": 322495,
       "word": "婆婆可能绑定了好命系统",
       "onboard_time": 1723807099,
       "rank": 40,
@@ -1227,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265288,
+      "num": 265288,
+      "word": "张云彬车王",
+      "onboard_time": 1723811901,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 264166,
       "num": 264166,
       "word": "律师谈离婚冷静期内任何一方可撤回",
@@ -1257,14 +1273,6 @@
       "onboard_time": 1723782024,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 260489,
-      "num": 260489,
-      "word": "别人冒用自己身份证领结婚证怎么办",
-      "onboard_time": 1723809620,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 259256,
@@ -1388,7 +1396,7 @@
     },
     {
       "raw_hot": 236094,
-      "num": 236094,
+      "num": 352345,
       "word": "邝玲玲回家",
       "onboard_time": 1723806978,
       "rank": 44,
@@ -1473,6 +1481,14 @@
       "onboard_time": 1723769723,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224077,
+      "num": 224077,
+      "word": "她哭了却没有手擦眼泪",
+      "onboard_time": 1723810761,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 223811,
@@ -1683,6 +1699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199373,
+      "num": 199373,
+      "word": "难听",
+      "onboard_time": 1723812380,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 198745,
       "num": 198745,
       "word": "为人夫了不好见外女的",
@@ -1745,14 +1769,6 @@
       "onboard_time": 1723807759,
       "rank": 37,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 194816,
-      "num": 216113,
-      "word": "她哭了却没有手擦眼泪",
-      "onboard_time": 1723810761,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 194570,
@@ -1851,6 +1867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190281,
+      "num": 190281,
+      "word": "中方要求菲方立即撤出有关船只",
+      "onboard_time": 1723811300,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 190185,
       "num": 190185,
       "word": "巴黎残奥会中国运动员最大年龄48岁",
@@ -1947,12 +1971,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184336,
+      "num": 184336,
+      "word": "云南的晚霞是一幅绚丽油画",
+      "onboard_time": 1723812621,
+      "rank": 36,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 184286,
       "num": 184286,
       "word": "莫雷加德晒与樊振东合照",
       "onboard_time": 1723729880,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183939,
+      "num": 183939,
+      "word": "女子找兼职上当疯狂买黄金送骗子",
+      "onboard_time": 1723810639,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182057,
@@ -2003,6 +2043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176648,
+      "num": 176648,
+      "word": "中国国家队最新大长图",
+      "onboard_time": 1723812140,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176090,
       "num": 176090,
       "word": "贾一凡看汪苏泷演唱会vlog",
@@ -2049,6 +2097,14 @@
       "onboard_time": 1723800142,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171976,
+      "num": 171976,
+      "word": "碗盆 天下",
+      "onboard_time": 1723812501,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 170039,
@@ -2131,6 +2187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159781,
+      "num": 159781,
+      "word": "TT秋季赛二连鸡",
+      "onboard_time": 1723812621,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 159512,
       "num": 159512,
       "word": "转走阳光私募存款公司曾多次换照",
@@ -2145,6 +2209,14 @@
       "onboard_time": 1723708041,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157937,
+      "num": 157937,
+      "word": "整部剧凑不出一个正常家庭",
+      "onboard_time": 1723812320,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 157848,
@@ -2203,14 +2275,6 @@
       "category": "互联网,网红"
     },
     {
-      "raw_hot": 150872,
-      "num": 150872,
-      "word": "中方要求菲方立即撤出有关船只",
-      "onboard_time": 1723811300,
-      "rank": 40,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 150871,
       "num": 150871,
       "word": "陈昊宇陈丽君A感大片",
@@ -2249,6 +2313,14 @@
       "onboard_time": 1723772420,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 147490,
+      "num": 147490,
+      "word": "樊振东庆祝动作大赏",
+      "onboard_time": 1723810581,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 146806,
@@ -2315,6 +2387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142304,
+      "num": 142304,
+      "word": "蔬菜价格为何提前狂飙至过年价",
+      "onboard_time": 1723809620,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141327,
       "num": 141327,
       "word": "结婚不要户口本",
@@ -2323,27 +2403,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 141178,
-      "num": 141178,
-      "word": "女子找兼职上当疯狂买黄金送骗子",
-      "onboard_time": 1723810639,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140728,
       "num": 140728,
       "word": "警方回应民警被举报多次猥亵继女",
       "onboard_time": 1723766541,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140154,
-      "num": 140154,
-      "word": "蔬菜价格为何提前狂飙至过年价",
-      "onboard_time": 1723809620,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -2400,14 +2464,6 @@
       "word": "编造五问陈梦者被行政处罚",
       "onboard_time": 1723719920,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 126971,
-      "num": 126971,
-      "word": "樊振东庆祝动作大赏",
-      "onboard_time": 1723810581,
-      "rank": 49,
       "category": "体育"
     },
     {

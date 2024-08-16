@@ -1,0 +1,410 @@
+{
+  "runTime": 1723812774796,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1454265,
+        "num": 1454265,
+        "word": "婚姻登记处回应网友担忧被重婚",
+        "onboard_time": 1723794743,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 988536,
+        "num": 988536,
+        "word": "为什么结婚不用户口簿触动人们神经",
+        "onboard_time": 1723806020,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26753,
+        "num": 881939,
+        "word": "塞上江南写新篇",
+        "onboard_time": 1723794862,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 817864,
+        "num": 817864,
+        "word": "河南监狱管理局不予录用18岁考生",
+        "onboard_time": 1723805780,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 768917,
+        "num": 768917,
+        "word": "樊振东 单枪匹马却抵千军万马",
+        "onboard_time": 1723795762,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 736927,
+        "num": 736927,
+        "word": "孙杨回应美国游泳运动员脸紫",
+        "onboard_time": 1723810581,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 716692,
+        "num": 716692,
+        "word": "向佐气哭俩老头",
+        "onboard_time": 1723807220,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 703327,
+        "num": 703327,
+        "word": "别人冒用自己身份证领结婚证怎么办",
+        "onboard_time": 1723809620,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 646519,
+        "num": 646519,
+        "word": "向佐告别披荆斩棘",
+        "onboard_time": 1723806500,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413568,
+        "num": 645951,
+        "word": "目前我国终身不婚人群仍是少数",
+        "onboard_time": 1723793781,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1613270,
+        "num": 589364,
+        "word": "范丞丞恋情瓜关系网总结",
+        "onboard_time": 1723808479,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1127614,
+        "num": 576778,
+        "word": "zzoexxll街头采访理想型",
+        "onboard_time": 1723808240,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 956136,
+        "num": 536918,
+        "word": "奥运冠军回医院上班",
+        "onboard_time": 1723810821,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 525684,
+        "num": 525684,
+        "word": "美加州发现深海鱼尸体或与地震有关",
+        "onboard_time": 1723807280,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504647,
+        "num": 504647,
+        "word": "女童走失用银行ATM成功自救",
+        "onboard_time": 1723801881,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425831,
+        "num": 425831,
+        "word": "向佐把林志玲老公惹哭了",
+        "onboard_time": 1723807099,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400879,
+        "num": 400879,
+        "word": "姚译添 内娱扫雷",
+        "onboard_time": 1723802539,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354514,
+        "num": 354514,
+        "word": "QQ飞车S17",
+        "onboard_time": 1723811661,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 216927,
+        "num": 352345,
+        "word": "邝玲玲回家",
+        "onboard_time": 1723806978,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212303,
+        "num": 343015,
+        "word": "宋亚轩给严浩翔P了个皇冠",
+        "onboard_time": 1723792222,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2428164,
+        "num": 337068,
+        "word": "范丞丞 没否认",
+        "onboard_time": 1723784244,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1010066,
+        "num": 332542,
+        "word": "张兰晒大S出轨证据",
+        "onboard_time": 1723801521,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464486,
+        "num": 325398,
+        "word": "zzoexxll 胡文煊前女友",
+        "onboard_time": 1723787603,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322495,
+        "num": 322495,
+        "word": "婆婆可能绑定了好命系统",
+        "onboard_time": 1723807099,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265288,
+        "num": 265288,
+        "word": "张云彬车王",
+        "onboard_time": 1723811901,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 726915,
+        "num": 264984,
+        "word": "范丞丞方回应",
+        "onboard_time": 1723778303,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258649,
+        "num": 258649,
+        "word": "陈伟霆 写完遗嘱后轻松了",
+        "onboard_time": 1723804041,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247377,
+        "num": 247377,
+        "word": "全红婵带火小乌龟义乌老板疯狂赶工",
+        "onboard_time": 1723798222,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224077,
+        "num": 224077,
+        "word": "她哭了却没有手擦眼泪",
+        "onboard_time": 1723810761,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200256,
+        "num": 217378,
+        "word": "严浩翔回复生日祝福",
+        "onboard_time": 1723808059,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212440,
+        "num": 212440,
+        "word": "郑钦文父母已成立多家体育公司",
+        "onboard_time": 1723809080,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199373,
+        "num": 199373,
+        "word": "难听",
+        "onboard_time": 1723812380,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197532,
+        "num": 197532,
+        "word": "蒋敦豪回应恋情",
+        "onboard_time": 1723790843,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190281,
+        "num": 190281,
+        "word": "中方要求菲方立即撤出有关船只",
+        "onboard_time": 1723811300,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 186926,
+        "num": 186926,
+        "word": "一小时11次连续抛烟头引燃楼下车辆",
+        "onboard_time": 1723802420,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184590,
+        "num": 184590,
+        "word": "蔡徐坤地广",
+        "onboard_time": 1723805602,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184336,
+        "num": 184336,
+        "word": "云南的晚霞是一幅绚丽油画",
+        "onboard_time": 1723812621,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 183939,
+        "num": 183939,
+        "word": "女子找兼职上当疯狂买黄金送骗子",
+        "onboard_time": 1723810639,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176648,
+        "num": 176648,
+        "word": "中国国家队最新大长图",
+        "onboard_time": 1723812140,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171976,
+        "num": 171976,
+        "word": "碗盆 天下",
+        "onboard_time": 1723812501,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 164791,
+        "num": 164791,
+        "word": "小米手机13岁生日",
+        "onboard_time": 1723811060,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 163639,
+        "num": 163639,
+        "word": "王一博 低声些难道光彩吗",
+        "onboard_time": 1723791203,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159886,
+        "num": 159886,
+        "word": "1个账号1个月参观7000次三星堆",
+        "onboard_time": 1723805780,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159781,
+        "num": 159781,
+        "word": "TT秋季赛二连鸡",
+        "onboard_time": 1723812621,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157937,
+        "num": 157937,
+        "word": "整部剧凑不出一个正常家庭",
+        "onboard_time": 1723812320,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155642,
+        "num": 155642,
+        "word": "食物语陪伴版开服",
+        "onboard_time": 1723795103,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149908,
+        "num": 149908,
+        "word": "you swan he frog",
+        "onboard_time": 1723801402,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147490,
+        "num": 147490,
+        "word": "樊振东庆祝动作大赏",
+        "onboard_time": 1723810581,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146805,
+        "num": 146805,
+        "word": "美国驻华大使馆回应给运动员P图",
+        "onboard_time": 1723805780,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142304,
+        "num": 142304,
+        "word": "蔬菜价格为何提前狂飙至过年价",
+        "onboard_time": 1723809620,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记感受文化中国#"
+    }
+  }
+}
