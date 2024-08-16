@@ -1,6 +1,6 @@
 {
   "startTime": 1723739122020,
-  "endTime": 1723785591246,
+  "endTime": 1723786578946,
   "band_list": [
     {
       "raw_hot": 10724841,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 5934869,
-      "num": 524127,
+      "num": 642740,
       "word": "范丞丞 没否认",
       "onboard_time": 1723784244,
       "rank": 5,
@@ -267,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 643040,
+      "num": 643040,
+      "word": "迪士尼致游客死亡因玩过PS拒赔偿",
+      "onboard_time": 1723782266,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 641375,
       "num": 641375,
       "word": "女孩被老师砸破头骨后遗症明显",
@@ -379,14 +387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 447185,
-      "num": 447185,
-      "word": "迪士尼致游客死亡因玩过PS拒赔偿",
-      "onboard_time": 1723782266,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 443443,
       "num": 443443,
       "word": "女子到中医馆买十三香配料炖红烧肉",
@@ -401,6 +401,14 @@
       "onboard_time": 1723766541,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 409497,
+      "num": 409497,
+      "word": "原神",
+      "onboard_time": 1723781786,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 403205,
@@ -443,11 +451,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376879,
+      "num": 376879,
+      "word": "雷军 今天是小米手机13岁生日",
+      "onboard_time": 1723785444,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 366333,
       "num": 366333,
       "word": "凡晨组合是先天化妆圣体吧",
       "onboard_time": 1723785444,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 362420,
+      "num": 362420,
+      "word": "张志杰遗体将在印尼火化",
+      "onboard_time": 1723785505,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -467,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 355607,
+      "num": 355607,
+      "word": "原神前瞻",
+      "onboard_time": 1723785804,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 341646,
       "num": 373582,
       "word": "杨紫费加罗八月封面预告",
@@ -475,8 +507,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 330906,
-      "num": 330906,
+      "raw_hot": 332319,
+      "num": 332319,
       "word": "山西文旅还是太超前了",
       "onboard_time": 1723784486,
       "rank": 24,
@@ -513,14 +545,6 @@
       "onboard_time": 1723761494,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 317210,
-      "num": 317210,
-      "word": "雷军 今天是小米手机13岁生日",
-      "onboard_time": 1723785444,
-      "rank": 25,
-      "category": "数码"
     },
     {
       "raw_hot": 313687,
@@ -579,19 +603,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 295550,
-      "num": 295550,
-      "word": "原神",
-      "onboard_time": 1723781786,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 295235,
       "num": 295235,
       "word": "好一张死气沉沉且有文化的脸",
       "onboard_time": 1723770020,
       "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 290362,
+      "num": 290362,
+      "word": "35岁能实现6条就算人生赢家",
+      "onboard_time": 1723784964,
+      "rank": 33,
       "category": "情感"
     },
     {
@@ -601,6 +625,14 @@
       "onboard_time": 1723779863,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 288649,
+      "num": 503673,
+      "word": "婚登草案征求意见9月11日截止",
+      "onboard_time": 1723784425,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288512,
@@ -641,14 +673,6 @@
       "onboard_time": 1723777162,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 272063,
-      "num": 272063,
-      "word": "35岁能实现6条就算人生赢家",
-      "onboard_time": 1723784964,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 264166,
@@ -723,14 +747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 242174,
-      "num": 242174,
-      "word": "张志杰遗体将在印尼火化",
-      "onboard_time": 1723785505,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 241204,
       "num": 241204,
       "word": "睡觉流口水是身体在暗示3大问题",
@@ -761,6 +777,22 @@
       "onboard_time": 1723740916,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 234110,
+      "num": 234110,
+      "word": "杨紫裸背鱼骨辫",
+      "onboard_time": 1723786164,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 229987,
+      "num": 229987,
+      "word": "单身和已婚哪种状态更幸福",
+      "onboard_time": 1723785563,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 226802,
@@ -819,6 +851,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 214869,
+      "num": 787546,
+      "word": "乌军占领俄天然气重要过境节点",
+      "onboard_time": 1723782625,
+      "rank": 9,
+      "category": "社会新闻,国外时政"
+    },
+    {
       "raw_hot": 211629,
       "num": 211629,
       "word": "黄一鸣说不会再找对象",
@@ -867,20 +907,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205003,
+      "num": 205003,
+      "word": "双镜2 抬上来",
+      "onboard_time": 1723786403,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203232,
       "num": 203232,
       "word": "第一批奥运冠军已经开始教人化妆了",
       "onboard_time": 1723718600,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 203032,
-      "num": 203032,
-      "word": "单身和已婚哪种状态更幸福",
-      "onboard_time": 1723785563,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 200846,
@@ -1171,14 +1211,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 154074,
-      "num": 503673,
-      "word": "婚登草案征求意见9月11日截止",
-      "onboard_time": 1723784425,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151426,
       "num": 151426,
       "word": "董宇辉说和俞敏洪挺好的",
@@ -1201,6 +1233,14 @@
       "onboard_time": 1723769299,
       "rank": 42,
       "category": "美食,旅游"
+    },
+    {
+      "raw_hot": 143980,
+      "num": 386770,
+      "word": "私藏浪漫一边搞浪漫一边当牛马",
+      "onboard_time": 1723785923,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 143871,
@@ -1395,6 +1435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91096,
+      "num": 490781,
+      "word": "离婚财产怎么分才算公平",
+      "onboard_time": 1723784425,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88349,
       "num": 672775,
       "word": "阳光私募爆雷",
@@ -1491,14 +1539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52336,
-      "num": 490781,
-      "word": "离婚财产怎么分才算公平",
-      "onboard_time": 1723784425,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 51964,
       "num": 70483,
       "word": "时代少年团彩排想见你",
@@ -1507,20 +1547,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 51369,
-      "num": 787546,
-      "word": "乌军占领俄天然气重要过境节点",
-      "onboard_time": 1723782625,
-      "rank": 9,
-      "category": "社会新闻,国外时政"
-    },
-    {
       "raw_hot": 51282,
       "num": 85967,
       "word": "AG 抽象",
       "onboard_time": 1723730062,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 50130,
+      "num": 227176,
+      "word": "被忽视的消费者售后难题",
+      "onboard_time": 1723786403,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46895,
@@ -1563,6 +1603,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 40718,
+      "num": 428274,
+      "word": "成都一特训学校被曝殴打学生冒充民警",
+      "onboard_time": 1723785804,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39807,
       "num": 55686,
       "word": "黄明昊林一重现TroubleMaker",
@@ -1579,6 +1627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31634,
+      "num": 253925,
+      "word": "王俊凯眼神中是少年的生长痛",
+      "onboard_time": 1723786464,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 31018,
       "num": 43647,
       "word": "要像保护自己的眼睛一样保护生态环境",
@@ -1588,7 +1644,7 @@
     },
     {
       "raw_hot": 28903,
-      "num": 244680,
+      "num": 248855,
       "word": "比亚迪李云飞否认收购克莱斯勒",
       "onboard_time": 1723784547,
       "rank": 36,
@@ -1625,6 +1681,14 @@
       "onboard_time": 1723727420,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12965,
+      "num": 447333,
+      "word": "前总理他信之女当选泰国总理",
+      "onboard_time": 1723786522,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 10498,

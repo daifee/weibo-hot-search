@@ -1,0 +1,410 @@
+{
+  "runTime": 1723786578946,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7825057,
+        "num": 7825057,
+        "word": "范丞丞方回应",
+        "onboard_time": 1723778303,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 844487,
+        "num": 844487,
+        "word": "陈梦分享海边美照",
+        "onboard_time": 1723775420,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6460,
+        "num": 669335,
+        "word": "请君只看洛阳城",
+        "onboard_time": 1723727420,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1617499,
+        "num": 658136,
+        "word": "结婚不要户口本或缓解天价彩礼现象",
+        "onboard_time": 1723767439,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643040,
+        "num": 643040,
+        "word": "迪士尼致游客死亡因玩过PS拒赔偿",
+        "onboard_time": 1723782266,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4645857,
+        "num": 642740,
+        "word": "范丞丞 没否认",
+        "onboard_time": 1723784244,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 500283,
+        "num": 500283,
+        "word": "阿娇皇甫圣华手挽手",
+        "onboard_time": 1723780824,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484471,
+        "num": 484471,
+        "word": "天价彩礼背后的根本原因",
+        "onboard_time": 1723779023,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449355,
+        "num": 449355,
+        "word": "张若昀选了唐艺昕",
+        "onboard_time": 1723784547,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12965,
+        "num": 447333,
+        "word": "前总理他信之女当选泰国总理",
+        "onboard_time": 1723786522,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1671535,
+        "num": 446378,
+        "word": "周洁琼方否认与范丞丞恋情",
+        "onboard_time": 1723777342,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13694,
+        "num": 444830,
+        "word": "大众ID3广告",
+        "onboard_time": 1723783585,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 906062,
+        "num": 441561,
+        "word": "长荣桂冠酒店道歉",
+        "onboard_time": 1723774461,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440960,
+        "num": 440960,
+        "word": "钱蓓婷 瞒着所有人成为妈妈的我",
+        "onboard_time": 1723782443,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40718,
+        "num": 428274,
+        "word": "成都一特训学校被曝殴打学生冒充民警",
+        "onboard_time": 1723785804,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365583,
+        "num": 419867,
+        "word": "骗子开发200款APP骗了8万人",
+        "onboard_time": 1723777162,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1001056,
+        "num": 419455,
+        "word": "买超",
+        "onboard_time": 1723778062,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417927,
+        "num": 417927,
+        "word": "女孩被老师砸破头骨后遗症明显",
+        "onboard_time": 1723776982,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409497,
+        "num": 409497,
+        "word": "原神",
+        "onboard_time": 1723781786,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143980,
+        "num": 386770,
+        "word": "私藏浪漫一边搞浪漫一边当牛马",
+        "onboard_time": 1723785923,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 381520,
+        "num": 381520,
+        "word": "婚姻登记取消户口簿彰显婚姻自由",
+        "onboard_time": 1723724602,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 766738,
+        "num": 379411,
+        "word": "孙伊涵工作室否认恋情",
+        "onboard_time": 1723781665,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175744,
+        "num": 377877,
+        "word": "台湾附近6.1级左右地震",
+        "onboard_time": 1723765578,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376879,
+        "num": 376879,
+        "word": "雷军 今天是小米手机13岁生日",
+        "onboard_time": 1723785444,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 362420,
+        "num": 362420,
+        "word": "张志杰遗体将在印尼火化",
+        "onboard_time": 1723785505,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355607,
+        "num": 355607,
+        "word": "原神前瞻",
+        "onboard_time": 1723785804,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 695996,
+        "num": 353948,
+        "word": "皇权富贵真的be了",
+        "onboard_time": 1723779743,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346108,
+        "num": 346108,
+        "word": "女子到中医馆买十三香配料炖红烧肉",
+        "onboard_time": 1723779148,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 255166,
+        "num": 335116,
+        "word": "迪丽热巴芭莎金九预告发了",
+        "onboard_time": 1723774821,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 251855,
+        "num": 333595,
+        "word": "乐华家族演唱会大合唱歌单",
+        "onboard_time": 1723781965,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 332319,
+        "num": 332319,
+        "word": "山西文旅还是太超前了",
+        "onboard_time": 1723784486,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 316956,
+        "num": 316956,
+        "word": "结婚登记拟不需户口簿如何防骗婚",
+        "onboard_time": 1723772720,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290362,
+        "num": 290362,
+        "word": "35岁能实现6条就算人生赢家",
+        "onboard_time": 1723784964,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 288649,
+        "num": 288649,
+        "word": "婚登草案征求意见9月11日截止",
+        "onboard_time": 1723784425,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270921,
+        "num": 270921,
+        "word": "印军练瑜伽照片意外暴露核导弹动向",
+        "onboard_time": 1723780466,
+        "rank": 34,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 31634,
+        "num": 253925,
+        "word": "王俊凯眼神中是少年的生长痛",
+        "onboard_time": 1723786464,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27094,
+        "num": 248855,
+        "word": "比亚迪李云飞否认收购克莱斯勒",
+        "onboard_time": 1723784547,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 248474,
+        "num": 248474,
+        "word": "离婚冷静期是双刃剑",
+        "onboard_time": 1723778664,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234110,
+        "num": 234110,
+        "word": "杨紫裸背鱼骨辫",
+        "onboard_time": 1723786164,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 229987,
+        "num": 229987,
+        "word": "单身和已婚哪种状态更幸福",
+        "onboard_time": 1723785563,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227868,
+        "num": 227868,
+        "word": "披荆斩棘4一公歌单",
+        "onboard_time": 1723783165,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91096,
+        "num": 227191,
+        "word": "离婚财产怎么分才算公平",
+        "onboard_time": 1723784425,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50130,
+        "num": 227176,
+        "word": "被忽视的消费者售后难题",
+        "onboard_time": 1723786403,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227161,
+        "num": 227161,
+        "word": "凡晨组合是先天化妆圣体吧",
+        "onboard_time": 1723785444,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219213,
+        "num": 219213,
+        "word": "男子监视居住期杀害堂妹一审死刑",
+        "onboard_time": 1723785206,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218726,
+        "num": 218726,
+        "word": "最近是捅了暗恋的窝吗",
+        "onboard_time": 1723782565,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215079,
+        "num": 215079,
+        "word": "户口簿退出婚登回应年轻人关切",
+        "onboard_time": 1723768761,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214869,
+        "num": 214869,
+        "word": "乌军占领俄天然气重要过境节点",
+        "onboard_time": 1723782625,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 205003,
+        "num": 205003,
+        "word": "双镜2 抬上来",
+        "onboard_time": 1723786403,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200600,
+        "num": 200600,
+        "word": "国乒封训备战记录",
+        "onboard_time": 1723777462,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记足迹看绿色转型新图景#"
+    }
+  }
+}
