@@ -1,6 +1,6 @@
 {
   "startTime": 1723825640005,
-  "endTime": 1723850440159,
+  "endTime": 1723851317805,
   "band_list": [
     {
       "raw_hot": 1628822,
@@ -17,6 +17,14 @@
       "onboard_time": 1723784244,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1167541,
+      "num": 1167541,
+      "word": "陈梦说就是要赢给所有人看",
+      "onboard_time": 1723817363,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1156532,
@@ -41,14 +49,6 @@
       "onboard_time": 1723808479,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1011654,
-      "num": 1011654,
-      "word": "陈梦说就是要赢给所有人看",
-      "onboard_time": 1723817363,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 920307,
@@ -155,20 +155,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309777,
+      "num": 141177,
+      "word": "西湖边的树冒黑烟是蚊子在交配",
+      "onboard_time": 1723847532,
+      "rank": 48,
+      "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 303923,
+      "num": 303923,
+      "word": "该不该远离总是倾诉负能量的朋友",
+      "onboard_time": 1723845252,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296864,
       "num": 387870,
       "word": "大量的徐志胜里混入一滴王鹤棣",
       "onboard_time": 1723823960,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 294690,
-      "num": 128268,
-      "word": "西湖边的树冒黑烟是蚊子在交配",
-      "onboard_time": 1723847532,
-      "rank": 48,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 291658,
@@ -179,12 +187,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285618,
+      "num": 135998,
+      "word": "民政部回应设置离婚冷静期",
+      "onboard_time": 1723836552,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284823,
       "num": 284823,
       "word": "zzoexxll街头采访理想型",
       "onboard_time": 1723808240,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 284527,
+      "num": 284527,
+      "word": "郑钦文比赛",
+      "onboard_time": 1723850296,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 270035,
@@ -201,22 +225,6 @@
       "onboard_time": 1723821322,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 259221,
-      "num": 259221,
-      "word": "该不该远离总是倾诉负能量的朋友",
-      "onboard_time": 1723845252,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248684,
-      "num": 126662,
-      "word": "民政部回应设置离婚冷静期",
-      "onboard_time": 1723836552,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248205,
@@ -241,6 +249,22 @@
       "onboard_time": 1723819102,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225715,
+      "num": 259290,
+      "word": "解决天价彩礼等问题有了新思路",
+      "onboard_time": 1723824798,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218881,
+      "num": 282822,
+      "word": "爱奇艺破万墙",
+      "onboard_time": 1723831873,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 214737,
@@ -281,22 +305,6 @@
       "onboard_time": 1723807220,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193574,
-      "num": 193574,
-      "word": "爱奇艺破万墙",
-      "onboard_time": 1723831873,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 193153,
-      "num": 193153,
-      "word": "解决天价彩礼等问题有了新思路",
-      "onboard_time": 1723824798,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 184755,
@@ -379,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131129,
+      "num": 131129,
+      "word": "八一七稻米节",
+      "onboard_time": 1723850775,
+      "rank": 23,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 130143,
       "num": 130143,
       "word": "为什么年轻人不买奢侈品了",
@@ -411,7 +427,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 123002,
+      "raw_hot": 126085,
       "num": 127014,
       "word": "公园回应宝妈母婴室哺乳被强行开门",
       "onboard_time": 1723816942,
@@ -424,6 +440,14 @@
       "word": "一废旧航母在拆除改造时发生火灾",
       "onboard_time": 1723817662,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109407,
+      "num": 109407,
+      "word": "外卖小哥从负债累累逆袭成全国最强",
+      "onboard_time": 1723836852,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -451,14 +475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 99355,
-      "num": 99355,
-      "word": "郑钦文比赛",
-      "onboard_time": 1723850296,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 97502,
       "num": 126846,
       "word": "JDG晋级冒泡赛",
@@ -467,12 +483,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 74104,
-      "num": 74104,
-      "word": "外卖小哥从负债累累逆袭成全国最强",
-      "onboard_time": 1723836852,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 76307,
+      "num": 117368,
+      "word": "许凯撒娇说明是真害怕了",
+      "onboard_time": 1723849934,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 69720,
@@ -483,8 +499,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 60653,
-      "num": 74098,
+      "raw_hot": 62783,
+      "num": 80342,
       "word": "研究显示晚婚的人离婚风险更低",
       "onboard_time": 1723830673,
       "rank": 37,
@@ -492,7 +508,7 @@
     },
     {
       "raw_hot": 57552,
-      "num": 60837,
+      "num": 77748,
       "word": "张雨霏徐嘉余玩游戏像开会一样",
       "onboard_time": 1723823841,
       "rank": 43,
@@ -505,6 +521,14 @@
       "onboard_time": 1723829295,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 55410,
+      "num": 78865,
+      "word": "雅给向佐打电话这段",
+      "onboard_time": 1723849693,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 55295,
@@ -521,14 +545,6 @@
       "onboard_time": 1723816703,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46804,
-      "num": 73964,
-      "word": "许凯撒娇说明是真害怕了",
-      "onboard_time": 1723849934,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 43183,
