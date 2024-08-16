@@ -1,6 +1,6 @@
 {
   "startTime": 1723825640005,
-  "endTime": 1723828704646,
+  "endTime": 1723829711739,
   "band_list": [
     {
       "raw_hot": 1628822,
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 130142,
-      "num": 130142,
+      "num": 167857,
       "word": "酒店回应泄露女子房间密码致异性闯入",
       "onboard_time": 1723821203,
       "rank": 39,
@@ -403,20 +403,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100782,
+      "num": 116926,
+      "word": "雅性格圈粉",
+      "onboard_time": 1723826717,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97502,
       "num": 126846,
       "word": "JDG晋级冒泡赛",
       "onboard_time": 1723817783,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 81124,
-      "num": 97914,
-      "word": "雅性格圈粉",
-      "onboard_time": 1723826717,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 69720,
@@ -427,7 +427,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 8918,
+      "raw_hot": 56921,
+      "num": 84508,
+      "word": "狗狗去世前怕主人伤心悄悄躲进树林",
+      "onboard_time": 1723829295,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 10009,
       "num": 631613,
       "word": "遥感四十三号01组卫星发射成功",
       "onboard_time": 1723798583,
