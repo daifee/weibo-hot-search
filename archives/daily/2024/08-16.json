@@ -1,6 +1,6 @@
 {
   "startTime": 1723739122020,
-  "endTime": 1723814556975,
+  "endTime": 1723815265172,
   "band_list": [
     {
       "raw_hot": 10724841,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3092329,
+      "num": 2122733,
+      "word": "刘耀文 女伴舞",
+      "onboard_time": 1723813041,
+      "rank": 0,
+      "category": "演出"
+    },
+    {
       "raw_hot": 2981298,
       "num": 828325,
       "word": "zzoexxll 胡文煊前女友",
@@ -115,14 +123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2122733,
-      "num": 2122733,
-      "word": "刘耀文 女伴舞",
-      "onboard_time": 1723813041,
-      "rank": 0,
-      "category": "演出"
-    },
-    {
       "raw_hot": 2061148,
       "num": 2061148,
       "word": "婚姻登记处回应网友担忧被重婚",
@@ -147,8 +147,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1743736,
-      "num": 1743736,
+      "raw_hot": 1795722,
+      "num": 1795722,
       "word": "奥运冠军回医院上班",
       "onboard_time": 1723810821,
       "rank": 30,
@@ -161,6 +161,14 @@
       "onboard_time": 1723808479,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1604257,
+      "num": 608267,
+      "word": "难听",
+      "onboard_time": 1723812380,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 1512151,
@@ -217,14 +225,6 @@
       "onboard_time": 1723734681,
       "rank": 10,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1342339,
-      "num": 608267,
-      "word": "难听",
-      "onboard_time": 1723812380,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 1277544,
@@ -491,12 +491,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 767721,
+      "raw_hot": 768556,
       "num": 767721,
       "word": "马嘉祺 蜉蝣",
       "onboard_time": 1723813041,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 748145,
+      "num": 522933,
+      "word": "有远亲找全红婵妈妈借35万",
+      "onboard_time": 1723812918,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 741846,
@@ -651,6 +659,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 594391,
+      "num": 594391,
+      "word": "碗盆 天下",
+      "onboard_time": 1723812501,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 589847,
       "num": 401031,
       "word": "一家三口深夜在446人群互骂1小时",
@@ -689,6 +705,14 @@
       "onboard_time": 1723735400,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 555225,
+      "num": 555225,
+      "word": "刘耀文 真空深V露背",
+      "onboard_time": 1723813162,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 543898,
@@ -747,28 +771,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 521739,
-      "num": 521739,
-      "word": "刘耀文 真空深V露背",
-      "onboard_time": 1723813162,
-      "rank": 15,
-      "category": "演出"
-    },
-    {
       "raw_hot": 516402,
       "num": 449468,
       "word": "钱蓓婷 瞒着所有人成为妈妈的我",
       "onboard_time": 1723782443,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 505860,
-      "num": 505860,
-      "word": "碗盆 天下",
-      "onboard_time": 1723812501,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 503144,
@@ -915,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 382863,
+      "num": 382863,
+      "word": "刘诗雯学马龙庆祝动作",
+      "onboard_time": 1723813642,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 381367,
       "num": 375654,
       "word": "宋亚轩给严浩翔P了个皇冠",
@@ -963,20 +979,20 @@
       "category": "军事"
     },
     {
+      "raw_hot": 359116,
+      "num": 359116,
+      "word": "父亲马路罚跪3个孩子竟为逼妻现身",
+      "onboard_time": 1723814002,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 358787,
       "num": 285329,
       "word": "男子监视居住期杀害堂妹一审死刑",
       "onboard_time": 1723785206,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 356009,
-      "num": 356009,
-      "word": "有远亲找全红婵妈妈借35万",
-      "onboard_time": 1723812918,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 355607,
@@ -1411,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241965,
+      "num": 372594,
+      "word": "Natty成为NAME新歌制作人",
+      "onboard_time": 1723813041,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 241204,
       "num": 241204,
       "word": "睡觉流口水是身体在暗示3大问题",
@@ -1435,12 +1459,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 238423,
-      "num": 238423,
-      "word": "Natty成为NAME新歌制作人",
-      "onboard_time": 1723813041,
-      "rank": 29,
-      "category": "音乐"
+      "raw_hot": 237527,
+      "num": 275519,
+      "word": "黄宗泽再跳大巴舞",
+      "onboard_time": 1723814421,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 237448,
@@ -1457,14 +1481,6 @@
       "onboard_time": 1723806978,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 232808,
-      "num": 232808,
-      "word": "刘诗雯学马龙庆祝动作",
-      "onboard_time": 1723813642,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 232514,
@@ -1505,14 +1521,6 @@
       "onboard_time": 1723805602,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 228185,
-      "num": 228185,
-      "word": "父亲马路罚跪3个孩子竟为逼妻现身",
-      "onboard_time": 1723814002,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 226967,
@@ -1721,6 +1729,14 @@
       "onboard_time": 1723786403,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204964,
+      "num": 204964,
+      "word": "陈梦说国乒队友都是等比例长大",
+      "onboard_time": 1723814843,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 204116,
@@ -1947,6 +1963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190946,
+      "num": 190946,
+      "word": "柳舟记 结个婚活人微死",
+      "onboard_time": 1723814722,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190281,
       "num": 190281,
       "word": "中方要求菲方立即撤出有关船只",
@@ -2139,6 +2163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176299,
+      "num": 645489,
+      "word": "离婚冷静期真的能降低离婚率吗",
+      "onboard_time": 1723813220,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176090,
       "num": 176090,
       "word": "贾一凡看汪苏泷演唱会vlog",
@@ -2161,14 +2193,6 @@
       "onboard_time": 1723795222,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174510,
-      "num": 174510,
-      "word": "黄宗泽再跳大巴舞",
-      "onboard_time": 1723814421,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 173980,
@@ -2635,14 +2659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107240,
-      "num": 645489,
-      "word": "离婚冷静期真的能降低离婚率吗",
-      "onboard_time": 1723813220,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 105707,
       "num": 111452,
       "word": "孙茜 表演型人格",
@@ -3055,6 +3071,9 @@
     },
     {
       "word": "#跟着总书记感受文化中国#"
+    },
+    {
+      "word": "#学习新语#"
     }
   ]
 }

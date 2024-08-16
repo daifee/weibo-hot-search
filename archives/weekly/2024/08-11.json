@@ -1,6 +1,6 @@
 {
   "startTime": 1723307155481,
-  "endTime": 1723814556975,
+  "endTime": 1723815265172,
   "band_list": [
     {
       "raw_hot": 25984443,
@@ -273,6 +273,14 @@
       "onboard_time": 1723645162,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3092329,
+      "num": 2122733,
+      "word": "刘耀文 女伴舞",
+      "onboard_time": 1723813041,
+      "rank": 0,
+      "category": "演出"
     },
     {
       "raw_hot": 3091129,
@@ -739,14 +747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2122733,
-      "num": 2122733,
-      "word": "刘耀文 女伴舞",
-      "onboard_time": 1723813041,
-      "rank": 0,
-      "category": "演出"
-    },
-    {
       "raw_hot": 2119044,
       "num": 2119044,
       "word": "马龙发文告别奥运",
@@ -1067,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1795722,
+      "num": 1795722,
+      "word": "奥运冠军回医院上班",
+      "onboard_time": 1723810821,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1792152,
       "num": 904659,
       "word": "法国要是赢了",
@@ -1104,14 +1112,6 @@
       "word": "张雨霏称有人想白拿pin自己当场拒绝",
       "onboard_time": 1723688960,
       "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1743736,
-      "num": 1743736,
-      "word": "奥运冠军回医院上班",
-      "onboard_time": 1723810821,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -1297,6 +1297,14 @@
       "onboard_time": 1723363761,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1604257,
+      "num": 608267,
+      "word": "难听",
+      "onboard_time": 1723812380,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 1593937,
@@ -1777,14 +1785,6 @@
       "onboard_time": 1723734681,
       "rank": 45,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1342339,
-      "num": 608267,
-      "word": "难听",
-      "onboard_time": 1723812380,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 1337974,
@@ -3619,7 +3619,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 767721,
+      "raw_hot": 768556,
       "num": 767721,
       "word": "马嘉祺 蜉蝣",
       "onboard_time": 1723813041,
@@ -3680,6 +3680,14 @@
       "word": "全红婵带火的玩具乌龟日销量超40万只",
       "onboard_time": 1723729880,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 748145,
+      "num": 522933,
+      "word": "有远亲找全红婵妈妈借35万",
+      "onboard_time": 1723812918,
+      "rank": 22,
       "category": "体育"
     },
     {
@@ -4579,6 +4587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 594391,
+      "num": 594391,
+      "word": "碗盆 天下",
+      "onboard_time": 1723812501,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 593127,
       "num": 444221,
       "word": "室友考公要跟我报一个岗位",
@@ -4817,6 +4833,14 @@
       "onboard_time": 1723397475,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 555225,
+      "num": 555225,
+      "word": "刘耀文 真空深V露背",
+      "onboard_time": 1723813162,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 554090,
@@ -5059,14 +5083,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 521739,
-      "num": 521739,
-      "word": "刘耀文 真空深V露背",
-      "onboard_time": 1723813162,
-      "rank": 15,
-      "category": "演出"
-    },
-    {
       "raw_hot": 520986,
       "num": 520986,
       "word": "肯德基 恋与深空",
@@ -5161,14 +5177,6 @@
       "onboard_time": 1723310418,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 505860,
-      "num": 505860,
-      "word": "碗盆 天下",
-      "onboard_time": 1723812501,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 505337,
@@ -6323,6 +6331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 382863,
+      "num": 382863,
+      "word": "刘诗雯学马龙庆祝动作",
+      "onboard_time": 1723813642,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 382620,
       "num": 382620,
       "word": "韩国偶遇李现逛街",
@@ -6763,6 +6779,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 359116,
+      "num": 359116,
+      "word": "父亲马路罚跪3个孩子竟为逼妻现身",
+      "onboard_time": 1723814002,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 358787,
       "num": 285329,
       "word": "男子监视居住期杀害堂妹一审死刑",
@@ -6809,14 +6833,6 @@
       "onboard_time": 1723694780,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 356009,
-      "num": 356009,
-      "word": "有远亲找全红婵妈妈借35万",
-      "onboard_time": 1723812918,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 355682,
@@ -9883,6 +9899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241965,
+      "num": 372594,
+      "word": "Natty成为NAME新歌制作人",
+      "onboard_time": 1723813041,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 241583,
       "num": 241583,
       "word": "河南省监狱管理局回应18岁考生上岸",
@@ -9955,14 +9979,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 238423,
-      "num": 238423,
-      "word": "Natty成为NAME新歌制作人",
-      "onboard_time": 1723813041,
-      "rank": 29,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 238256,
       "num": 238256,
       "word": "早田希娜开通微博是樊振东建议的",
@@ -9985,6 +10001,14 @@
       "onboard_time": 1723363821,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 237527,
+      "num": 275519,
+      "word": "黄宗泽再跳大巴舞",
+      "onboard_time": 1723814421,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 237448,
@@ -10184,14 +10208,6 @@
       "word": "美国女足奥运金牌",
       "onboard_time": 1723310719,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 232808,
-      "num": 232808,
-      "word": "刘诗雯学马龙庆祝动作",
-      "onboard_time": 1723813642,
-      "rank": 32,
       "category": "体育"
     },
     {
@@ -10417,14 +10433,6 @@
       "onboard_time": 1723515981,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 228185,
-      "num": 228185,
-      "word": "父亲马路罚跪3个孩子竟为逼妻现身",
-      "onboard_time": 1723814002,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227960,
@@ -11683,6 +11691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204964,
+      "num": 204964,
+      "word": "陈梦说国乒队友都是等比例长大",
+      "onboard_time": 1723814843,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204936,
       "num": 204936,
       "word": "TheShy谈NIP战胜JDG",
@@ -12755,6 +12771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 190946,
+      "num": 190946,
+      "word": "柳舟记 结个婚活人微死",
+      "onboard_time": 1723814722,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190804,
       "num": 156275,
       "word": "碧梨现场",
@@ -13475,6 +13499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 176299,
+      "num": 645489,
+      "word": "离婚冷静期真的能降低离婚率吗",
+      "onboard_time": 1723813220,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176090,
       "num": 176090,
       "word": "贾一凡看汪苏泷演唱会vlog",
@@ -13601,14 +13633,6 @@
       "onboard_time": 1723601960,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 174510,
-      "num": 174510,
-      "word": "黄宗泽再跳大巴舞",
-      "onboard_time": 1723814421,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 174487,
@@ -15369,14 +15393,6 @@
       "onboard_time": 1723433422,
       "rank": 9,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 107240,
-      "num": 645489,
-      "word": "离婚冷静期真的能降低离婚率吗",
-      "onboard_time": 1723813220,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 107165,
