@@ -1,14 +1,30 @@
 {
   "startTime": 1723739122020,
-  "endTime": 1723771494119,
+  "endTime": 1723772813509,
   "band_list": [
     {
-      "raw_hot": 2193822,
+      "raw_hot": 5438729,
+      "num": 716198,
+      "word": "疑似范丞丞恋情",
+      "onboard_time": 1723772479,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3886096,
       "num": 2193822,
       "word": "结婚不要户口本或缓解天价彩礼现象",
       "onboard_time": 1723767439,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1468606,
+      "num": 523845,
+      "word": "范丞丞和买超聚餐",
+      "onboard_time": 1723771160,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 1402219,
@@ -20,7 +36,7 @@
     },
     {
       "raw_hot": 1348112,
-      "num": 887947,
+      "num": 1064505,
       "word": "总统实名羡慕中国高铁美国咋造不出来",
       "onboard_time": 1723734681,
       "rank": 10,
@@ -59,20 +75,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 985430,
+      "num": 742820,
+      "word": "范丞丞给女生整理头发",
+      "onboard_time": 1723769299,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 961650,
       "num": 961650,
       "word": "电影逆行人生陷巨大争议",
       "onboard_time": 1723766659,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 939775,
-      "num": 742820,
-      "word": "范丞丞给女生整理头发",
-      "onboard_time": 1723769299,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 860982,
@@ -88,6 +104,14 @@
       "word": "女子入职3个月怀孕被扣7个月绩效金",
       "onboard_time": 1723732641,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 761851,
+      "num": 761851,
+      "word": "研究生女孩害怕被妈妈揍极限收高粱",
+      "onboard_time": 1723770020,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -147,8 +171,24 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 502615,
+      "num": 716198,
+      "word": "阳光私募12.52亿元存款丢失",
+      "onboard_time": 1723768880,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 443069,
+      "num": 443069,
+      "word": "郑钦文比赛因雨暂停",
+      "onboard_time": 1723771340,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 442424,
-      "num": 442424,
+      "num": 499163,
       "word": "鹿晗直播",
       "onboard_time": 1723766541,
       "rank": 13,
@@ -187,14 +227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 334354,
-      "num": 334354,
-      "word": "研究生女孩害怕被妈妈揍极限收高粱",
-      "onboard_time": 1723770020,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 326832,
       "num": 301859,
       "word": "时代峰峻否认余宇涵恋爱",
@@ -204,7 +236,7 @@
     },
     {
       "raw_hot": 317421,
-      "num": 317421,
+      "num": 467710,
       "word": "娜扎对杨迪说我们结婚吧",
       "onboard_time": 1723761494,
       "rank": 16,
@@ -217,14 +249,6 @@
       "onboard_time": 1723735940,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 310781,
-      "num": 310781,
-      "word": "阳光私募12.52亿元存款丢失",
-      "onboard_time": 1723768880,
-      "rank": 20,
-      "category": "财经"
     },
     {
       "raw_hot": 307607,
@@ -249,6 +273,14 @@
       "onboard_time": 1723729880,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 295715,
+      "num": 509240,
+      "word": "00后有自己的聊天方式",
+      "onboard_time": 1723769119,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 295235,
@@ -276,11 +308,19 @@
     },
     {
       "raw_hot": 283540,
-      "num": 283540,
+      "num": 611417,
       "word": "福建厦门震感",
       "onboard_time": 1723765880,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282782,
+      "num": 282782,
+      "word": "瘦了30斤才敢说的大实话",
+      "onboard_time": 1723771641,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 264166,
@@ -307,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252535,
+      "num": 252535,
+      "word": "加沙女孩用嘴去接卡车漏下的水滴解渴",
+      "onboard_time": 1723772121,
+      "rank": 26,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 242263,
       "num": 242263,
       "word": "官方通报老鸭面吃出异物",
@@ -315,20 +363,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241204,
+      "num": 241204,
+      "word": "睡觉流口水是身体在暗示3大问题",
+      "onboard_time": 1723769723,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 239009,
       "num": 239009,
       "word": "安洗莹炮轰韩国羽协后缺席大赛",
       "onboard_time": 1723769239,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 238024,
-      "num": 238024,
-      "word": "睡觉流口水是身体在暗示3大问题",
-      "onboard_time": 1723769723,
-      "rank": 27,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 237448,
@@ -347,12 +395,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222573,
+      "num": 222573,
+      "word": "食物语",
+      "onboard_time": 1723771340,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 220239,
       "num": 220239,
       "word": "日薪200招工给乌龟画眼睛嘴巴",
       "onboard_time": 1723715122,
       "rank": 23,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 217993,
+      "num": 217993,
+      "word": "户口簿退出婚登回应年轻人关切",
+      "onboard_time": 1723768761,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211629,
@@ -371,20 +435,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206118,
-      "num": 233059,
-      "word": "00后有自己的聊天方式",
-      "onboard_time": 1723769119,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 205214,
-      "num": 205214,
-      "word": "范丞丞和买超聚餐",
-      "onboard_time": 1723771160,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 207554,
+      "num": 207554,
+      "word": "丫丫大头快成正圆了",
+      "onboard_time": 1723772720,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203232,
@@ -395,12 +451,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202003,
+      "num": 476851,
+      "word": "金珉奎腹肌",
+      "onboard_time": 1723771760,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194259,
       "num": 194259,
       "word": "阿姨把这辈子的高情商都用上了",
       "onboard_time": 1723770020,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 194193,
+      "num": 194193,
+      "word": "于敏曾隐姓埋名28年",
+      "onboard_time": 1723771880,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193058,
@@ -467,20 +539,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168689,
-      "num": 168689,
-      "word": "郑钦文比赛因雨暂停",
-      "onboard_time": 1723771340,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 168470,
       "num": 168470,
       "word": "上海大学回应说唱社团暗讽农民工",
       "onboard_time": 1723734622,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165234,
+      "num": 165234,
+      "word": "发明韩语的不会是个广东人吧",
+      "onboard_time": 1723771579,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 165072,
@@ -491,20 +563,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 164926,
-      "num": 164926,
-      "word": "食物语",
-      "onboard_time": 1723771340,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 162995,
       "num": 162995,
       "word": "河南省监狱管理局回应18岁考生上岸",
       "onboard_time": 1723733122,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162355,
+      "num": 218577,
+      "word": "杨幂Perfect杂志封面",
+      "onboard_time": 1723772659,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 161045,
@@ -539,11 +611,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 157842,
-      "num": 157842,
-      "word": "户口簿退出婚登回应年轻人关切",
-      "onboard_time": 1723768761,
-      "rank": 40,
+      "raw_hot": 156365,
+      "num": 245089,
+      "word": "结婚登记拟不需户口簿如何防骗婚",
+      "onboard_time": 1723772720,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -561,6 +633,14 @@
       "onboard_time": 1723736419,
       "rank": 36,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 147629,
+      "num": 147629,
+      "word": "普通人存钱门槛",
+      "onboard_time": 1723772420,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 145769,

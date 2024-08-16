@@ -1,0 +1,410 @@
+{
+  "runTime": 1723772813509,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1288647,
+        "num": 1288647,
+        "word": "樊振东回复小莫",
+        "onboard_time": 1723767381,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1064505,
+        "num": 1064505,
+        "word": "总统实名羡慕中国高铁美国咋造不出来",
+        "onboard_time": 1723734681,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 7774,
+        "num": 843026,
+        "word": "何以中国行走河南",
+        "onboard_time": 1723641020,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3886096,
+        "num": 836342,
+        "word": "结婚不要户口本或缓解天价彩礼现象",
+        "onboard_time": 1723767439,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 814784,
+        "num": 814784,
+        "word": "台湾附近6.1级左右地震",
+        "onboard_time": 1723765578,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 778274,
+        "num": 778274,
+        "word": "电影逆行人生陷巨大争议",
+        "onboard_time": 1723766659,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 761851,
+        "num": 761851,
+        "word": "研究生女孩害怕被妈妈揍极限收高粱",
+        "onboard_time": 1723770020,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 751097,
+        "num": 751097,
+        "word": "婚姻登记取消户口簿彰显婚姻自由",
+        "onboard_time": 1723724602,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579873,
+        "num": 716584,
+        "word": "梁洁 为什么让娜扎使劲不让我使劲",
+        "onboard_time": 1723767020,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 502615,
+        "num": 716198,
+        "word": "阳光私募12.52亿元存款丢失",
+        "onboard_time": 1723768880,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 5438729,
+        "num": 716198,
+        "word": "疑似范丞丞恋情",
+        "onboard_time": 1723772479,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 716100,
+        "num": 716100,
+        "word": "女子入职3个月怀孕被扣7个月绩效金",
+        "onboard_time": 1723732641,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210190,
+        "num": 611417,
+        "word": "福建厦门震感",
+        "onboard_time": 1723765880,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576894,
+        "num": 576894,
+        "word": "郑钦文vs弗雷希",
+        "onboard_time": 1723764976,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 534584,
+        "num": 534584,
+        "word": "全红婵你真牛啊真狠啊",
+        "onboard_time": 1723729341,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1468606,
+        "num": 523845,
+        "word": "范丞丞和买超聚餐",
+        "onboard_time": 1723771160,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295715,
+        "num": 509240,
+        "word": "00后有自己的聊天方式",
+        "onboard_time": 1723769119,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294003,
+        "num": 499163,
+        "word": "鹿晗直播",
+        "onboard_time": 1723766541,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202003,
+        "num": 476851,
+        "word": "金珉奎腹肌",
+        "onboard_time": 1723771760,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199354,
+        "num": 467710,
+        "word": "娜扎对杨迪说我们结婚吧",
+        "onboard_time": 1723761494,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 985430,
+        "num": 450425,
+        "word": "范丞丞给女生整理头发",
+        "onboard_time": 1723769299,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443069,
+        "num": 443069,
+        "word": "郑钦文比赛因雨暂停",
+        "onboard_time": 1723771340,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 334893,
+        "num": 334893,
+        "word": "美国要和中国比基建结果连非洲都没比过",
+        "onboard_time": 1723745772,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310421,
+        "num": 310421,
+        "word": "小火锅为什么不受欢迎了",
+        "onboard_time": 1723730841,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 282782,
+        "num": 282782,
+        "word": "瘦了30斤才敢说的大实话",
+        "onboard_time": 1723771641,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 279716,
+        "num": 279716,
+        "word": "一家三口深夜在446人群互骂1小时",
+        "onboard_time": 1723721301,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252535,
+        "num": 252535,
+        "word": "加沙女孩用嘴去接卡车漏下的水滴解渴",
+        "onboard_time": 1723772121,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 170891,
+        "num": 246089,
+        "word": "辰亦儒曾之乔睡觉都牵着手",
+        "onboard_time": 1723735400,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157561,
+        "num": 245170,
+        "word": "贺峻霖疑似兔耳造型",
+        "onboard_time": 1723769723,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156365,
+        "num": 245089,
+        "word": "结婚登记拟不需户口簿如何防骗婚",
+        "onboard_time": 1723772720,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245062,
+        "num": 245062,
+        "word": "律师谈离婚冷静期内任何一方可撤回",
+        "onboard_time": 1723743672,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241204,
+        "num": 241204,
+        "word": "睡觉流口水是身体在暗示3大问题",
+        "onboard_time": 1723769723,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 240620,
+        "num": 240620,
+        "word": "好一张死气沉沉且有文化的脸",
+        "onboard_time": 1723770020,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222573,
+        "num": 222573,
+        "word": "食物语",
+        "onboard_time": 1723771340,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162355,
+        "num": 218577,
+        "word": "杨幂Perfect杂志封面",
+        "onboard_time": 1723772659,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 217993,
+        "num": 217993,
+        "word": "户口簿退出婚登回应年轻人关切",
+        "onboard_time": 1723768761,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207554,
+        "num": 207554,
+        "word": "丫丫大头快成正圆了",
+        "onboard_time": 1723772720,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198718,
+        "num": 198718,
+        "word": "安洗莹炮轰韩国羽协后缺席大赛",
+        "onboard_time": 1723769239,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196742,
+        "num": 196742,
+        "word": "私募爆雷12.52亿元存款只剩8.6万元",
+        "onboard_time": 1723770739,
+        "rank": 38,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 198516,
+        "num": 195671,
+        "word": "医生说女生有小肚子很正常",
+        "onboard_time": 1723729762,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194193,
+        "num": 194193,
+        "word": "于敏曾隐姓埋名28年",
+        "onboard_time": 1723771880,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190617,
+        "num": 190617,
+        "word": "阿姨把这辈子的高情商都用上了",
+        "onboard_time": 1723770020,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139938,
+        "num": 182666,
+        "word": "宋亚轩 拍了点酷酷的照片",
+        "onboard_time": 1723769841,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182542,
+        "num": 182542,
+        "word": "官方通报老鸭面吃出异物",
+        "onboard_time": 1723766478,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172291,
+        "num": 172291,
+        "word": "突然发现千禧年的穿搭好野",
+        "onboard_time": 1723762634,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 172209,
+        "num": 172209,
+        "word": "广西多名光伏安装工人遭电击有伤亡",
+        "onboard_time": 1723767020,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165234,
+        "num": 165234,
+        "word": "发明韩语的不会是个广东人吧",
+        "onboard_time": 1723771579,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159702,
+        "num": 159702,
+        "word": "巴黎奥运乒乓球比赛樊振东球速最快",
+        "onboard_time": 1723769961,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152098,
+        "num": 152098,
+        "word": "25岁女孩腹部抽脂永久丧失生育能力",
+        "onboard_time": 1723704260,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147629,
+        "num": 147629,
+        "word": "普通人存钱门槛",
+        "onboard_time": 1723772420,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同巴西总统互致贺电#"
+    }
+  }
+}
