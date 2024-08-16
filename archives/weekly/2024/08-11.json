@@ -1,6 +1,6 @@
 {
   "startTime": 1723307155481,
-  "endTime": 1723782228369,
+  "endTime": 1723783062378,
   "band_list": [
     {
       "raw_hot": 25984443,
@@ -219,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3362816,
+      "num": 988050,
+      "word": "孙伊涵工作室否认恋情",
+      "onboard_time": 1723781665,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3236920,
       "num": 2018889,
       "word": "奥运冠军陈梦总奖金接近400万元",
@@ -417,14 +425,6 @@
       "onboard_time": 1723774461,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2582874,
-      "num": 917655,
-      "word": "孙伊涵工作室否认恋情",
-      "onboard_time": 1723781665,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 2556233,
@@ -892,7 +892,7 @@
     },
     {
       "raw_hot": 1896457,
-      "num": 674408,
+      "num": 684141,
       "word": "买超",
       "onboard_time": 1723778062,
       "rank": 10,
@@ -2107,6 +2107,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1165110,
+      "num": 651562,
+      "word": "皇权富贵真的be了",
+      "onboard_time": 1723779743,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1165001,
       "num": 1165001,
       "word": "环球影城团建",
@@ -2361,14 +2369,6 @@
       "onboard_time": 1723723761,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1063549,
-      "num": 651562,
-      "word": "皇权富贵真的be了",
-      "onboard_time": 1723779743,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1060232,
@@ -3027,6 +3027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 867220,
+      "num": 867220,
+      "word": "阿娇皇甫圣华手挽手",
+      "onboard_time": 1723780824,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 865164,
       "num": 865164,
       "word": "马龙回应大头小胖采访划水",
@@ -3665,14 +3673,6 @@
       "onboard_time": 1723700181,
       "rank": 35,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 682875,
-      "num": 682875,
-      "word": "阿娇皇甫圣华手挽手",
-      "onboard_time": 1723780824,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 682524,
@@ -4403,6 +4403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 562057,
+      "num": 562057,
+      "word": "国乒封训备战记录",
+      "onboard_time": 1723777462,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 560181,
       "num": 560181,
       "word": "黄子韬ins晒腹肌",
@@ -4548,11 +4556,19 @@
     },
     {
       "raw_hot": 536123,
-      "num": 691409,
+      "num": 818337,
       "word": "骗子开发200款APP骗了8万人",
       "onboard_time": 1723777162,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 534236,
+      "num": 534236,
+      "word": "乐华家族演唱会大合唱歌单",
+      "onboard_time": 1723781965,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 532034,
@@ -4784,14 +4800,6 @@
       "word": "田径女子马拉松决赛",
       "onboard_time": 1723353262,
       "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 490767,
-      "num": 490767,
-      "word": "国乒封训备战记录",
-      "onboard_time": 1723777462,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -5091,6 +5099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 448120,
+      "num": 448120,
+      "word": "天价彩礼背后的根本原因",
+      "onboard_time": 1723779023,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 448112,
       "num": 193616,
       "word": "李婵",
@@ -5161,6 +5177,14 @@
       "onboard_time": 1723405092,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 443443,
+      "num": 443443,
+      "word": "女子到中医馆买十三香配料炖红烧肉",
+      "onboard_time": 1723779148,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 442429,
@@ -5907,14 +5931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 375785,
-      "num": 375785,
-      "word": "天价彩礼背后的根本原因",
-      "onboard_time": 1723779023,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 375732,
       "num": 375732,
       "word": "莫雷加德 以后会多发微博",
@@ -6009,14 +6025,6 @@
       "onboard_time": 1723309280,
       "rank": 29,
       "category": "网红"
-    },
-    {
-      "raw_hot": 370761,
-      "num": 370761,
-      "word": "女子到中医馆买十三香配料炖红烧肉",
-      "onboard_time": 1723779148,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 370409,
@@ -6193,6 +6201,14 @@
       "onboard_time": 1723467321,
       "rank": 23,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 359737,
+      "num": 359737,
+      "word": "印军练瑜伽照片意外暴露核导弹动向",
+      "onboard_time": 1723780466,
+      "rank": 26,
+      "category": "军事"
     },
     {
       "raw_hot": 357333,
@@ -6819,6 +6835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324851,
+      "num": 324851,
+      "word": "结婚登记拟不需户口簿如何防骗婚",
+      "onboard_time": 1723772720,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324670,
       "num": 547078,
       "word": "张晚意扶腰带那一下",
@@ -7267,14 +7291,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 301982,
-      "num": 301982,
-      "word": "印军练瑜伽照片意外暴露核导弹动向",
-      "onboard_time": 1723780466,
-      "rank": 26,
-      "category": "军事"
-    },
-    {
       "raw_hot": 301455,
       "num": 445968,
       "word": "丞磊 我们好像有点暧昧了",
@@ -7393,6 +7409,14 @@
       "onboard_time": 1723769119,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 295550,
+      "num": 295550,
+      "word": "原神",
+      "onboard_time": 1723606580,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 295235,
@@ -7595,14 +7619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 289779,
-      "num": 289779,
-      "word": "结婚登记拟不需户口簿如何防骗婚",
-      "onboard_time": 1723772720,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 289637,
       "num": 289637,
       "word": "狗狗有案底考不了警犬了",
@@ -7737,14 +7753,6 @@
       "onboard_time": 1723549100,
       "rank": 39,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 285371,
-      "num": 285371,
-      "word": "原神",
-      "onboard_time": 1723606580,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 285037,
@@ -8491,6 +8499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 257602,
+      "num": 257602,
+      "word": "钱蓓婷 瞒着所有人成为妈妈的我",
+      "onboard_time": 1723782443,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 257248,
       "num": 257248,
       "word": "猴痘疫情已向非洲以外蔓延",
@@ -8809,6 +8825,14 @@
       "onboard_time": 1723593679,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 249290,
+      "num": 249290,
+      "word": "篡改同学高考志愿一女生被刑拘",
+      "onboard_time": 1723781484,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249235,
@@ -9593,6 +9617,14 @@
       "onboard_time": 1723692799,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 226802,
+      "num": 226802,
+      "word": "最近是捅了暗恋的窝吗",
+      "onboard_time": 1723782565,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 226784,
@@ -11161,14 +11193,6 @@
       "onboard_time": 1723781965,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 197683,
-      "num": 197683,
-      "word": "篡改同学高考志愿一女生被刑拘",
-      "onboard_time": 1723781484,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197547,
@@ -14003,6 +14027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103807,
+      "num": 565054,
+      "word": "原神5.0版本直播",
+      "onboard_time": 1723781184,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 103488,
       "num": 103488,
       "word": "马尔尚熄灭奥运圣火",
@@ -14315,6 +14347,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 87620,
+      "num": 445339,
+      "word": "纪昱恒再等十年就老实了",
+      "onboard_time": 1723782146,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87492,
       "num": 563402,
       "word": "婚姻登记拟取消地域管辖限制",
@@ -14507,28 +14547,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 76429,
-      "num": 327957,
-      "word": "纪昱恒再等十年就老实了",
-      "onboard_time": 1723782146,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 76318,
       "num": 597810,
       "word": "彝族火炬手太燃了",
       "onboard_time": 1723640780,
       "rank": 28,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 75485,
-      "num": 525224,
-      "word": "原神5.0版本直播",
-      "onboard_time": 1723781184,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 75367,
@@ -15243,6 +15267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51369,
+      "num": 787546,
+      "word": "乌军占领俄天然气重要过境节点",
+      "onboard_time": 1723782625,
+      "rank": 9,
+      "category": "社会新闻,国外时政"
+    },
+    {
       "raw_hot": 50046,
       "num": 287757,
       "word": "俄说乌军在库尔斯克已损失2300人",
@@ -15393,6 +15425,14 @@
       "onboard_time": 1723392505,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 43458,
+      "num": 301285,
+      "word": "12亿协议存款为何不翼而飞",
+      "onboard_time": 1723781726,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 42983,
@@ -15841,14 +15881,6 @@
       "onboard_time": 1723545021,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25479,
-      "num": 301285,
-      "word": "12亿协议存款为何不翼而飞",
-      "onboard_time": 1723781726,
-      "rank": 29,
-      "category": "财经"
     },
     {
       "raw_hot": 25188,

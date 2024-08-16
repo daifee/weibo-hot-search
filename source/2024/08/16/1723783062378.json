@@ -1,0 +1,410 @@
+{
+  "runTime": 1723783062378,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9471566,
+        "num": 9471566,
+        "word": "范丞丞方回应",
+        "onboard_time": 1723778303,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1032738,
+        "num": 1032738,
+        "word": "陈梦分享海边美照",
+        "onboard_time": 1723775420,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12193,
+        "num": 1002016,
+        "word": "请君只看洛阳城",
+        "onboard_time": 1723727420,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3362816,
+        "num": 988050,
+        "word": "孙伊涵工作室否认恋情",
+        "onboard_time": 1723781665,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1805330,
+        "num": 956333,
+        "word": "结婚不要户口本或缓解天价彩礼现象",
+        "onboard_time": 1723767439,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1470324,
+        "num": 930697,
+        "word": "长荣桂冠酒店道歉",
+        "onboard_time": 1723774461,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2997147,
+        "num": 897560,
+        "word": "周洁琼方否认与范丞丞恋情",
+        "onboard_time": 1723777342,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 867220,
+        "num": 867220,
+        "word": "阿娇皇甫圣华手挽手",
+        "onboard_time": 1723780824,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 530334,
+        "num": 818337,
+        "word": "骗子开发200款APP骗了8万人",
+        "onboard_time": 1723777162,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51369,
+        "num": 787546,
+        "word": "乌军占领俄天然气重要过境节点",
+        "onboard_time": 1723782625,
+        "rank": 9,
+        "category": "社会新闻,国外时政"
+      },
+      {
+        "raw_hot": 1860563,
+        "num": 684141,
+        "word": "买超",
+        "onboard_time": 1723778062,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1165110,
+        "num": 648584,
+        "word": "皇权富贵真的be了",
+        "onboard_time": 1723779743,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 611915,
+        "num": 611915,
+        "word": "女孩被老师砸破头骨后遗症明显",
+        "onboard_time": 1723776982,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568549,
+        "num": 568549,
+        "word": "婚姻登记取消户口簿彰显婚姻自由",
+        "onboard_time": 1723724602,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103807,
+        "num": 565054,
+        "word": "原神5.0版本直播",
+        "onboard_time": 1723781184,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 562057,
+        "num": 562057,
+        "word": "国乒封训备战记录",
+        "onboard_time": 1723777462,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 534236,
+        "num": 534236,
+        "word": "乐华家族演唱会大合唱歌单",
+        "onboard_time": 1723781965,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 465297,
+        "num": 465297,
+        "word": "离婚冷静期是双刃剑",
+        "onboard_time": 1723778664,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448120,
+        "num": 448120,
+        "word": "天价彩礼背后的根本原因",
+        "onboard_time": 1723779023,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87620,
+        "num": 445339,
+        "word": "纪昱恒再等十年就老实了",
+        "onboard_time": 1723782146,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 443443,
+        "num": 443443,
+        "word": "女子到中医馆买十三香配料炖红烧肉",
+        "onboard_time": 1723779148,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 377755,
+        "num": 377755,
+        "word": "迪丽热巴芭莎金九预告发了",
+        "onboard_time": 1723774821,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 359737,
+        "num": 359737,
+        "word": "印军练瑜伽照片意外暴露核导弹动向",
+        "onboard_time": 1723780466,
+        "rank": 22,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 324851,
+        "num": 324851,
+        "word": "结婚登记拟不需户口簿如何防骗婚",
+        "onboard_time": 1723772720,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314830,
+        "num": 314830,
+        "word": "户口簿退出婚登回应年轻人关切",
+        "onboard_time": 1723768761,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304493,
+        "num": 304493,
+        "word": "杨紫费加罗八月封面预告",
+        "onboard_time": 1723779624,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 295550,
+        "num": 295550,
+        "word": "原神",
+        "onboard_time": 1723781786,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 293105,
+        "num": 293105,
+        "word": "加沙女孩用嘴去接卡车漏下的水滴解渴",
+        "onboard_time": 1723772121,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 273634,
+        "num": 273634,
+        "word": "樊振东回复小莫",
+        "onboard_time": 1723767381,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273110,
+        "num": 273110,
+        "word": "黑神话悟空",
+        "onboard_time": 1723779863,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 271345,
+        "num": 271345,
+        "word": "丫丫大头快成正圆了",
+        "onboard_time": 1723772720,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262649,
+        "num": 262649,
+        "word": "过度延长产假或增加女性中断就业概率",
+        "onboard_time": 1723775842,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258993,
+        "num": 258993,
+        "word": "研究生女孩害怕被妈妈揍极限收高粱",
+        "onboard_time": 1723770020,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257602,
+        "num": 257602,
+        "word": "钱蓓婷 瞒着所有人成为妈妈的我",
+        "onboard_time": 1723782443,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243563,
+        "num": 251544,
+        "word": "金泰亨田柾国起诉脱粉收容所",
+        "onboard_time": 1723782024,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249290,
+        "num": 249290,
+        "word": "篡改同学高考志愿一女生被刑拘",
+        "onboard_time": 1723781484,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248552,
+        "num": 248552,
+        "word": "台湾附近6.1级左右地震",
+        "onboard_time": 1723765578,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229053,
+        "num": 229053,
+        "word": "早上吃碳水可以保持一天的食欲",
+        "onboard_time": 1723775961,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 228322,
+        "num": 228322,
+        "word": "竞走冠军杨家玉逛街老公直呼慢点",
+        "onboard_time": 1723776803,
+        "rank": 38,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 226802,
+        "num": 226802,
+        "word": "最近是捅了暗恋的窝吗",
+        "onboard_time": 1723782565,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217265,
+        "num": 217265,
+        "word": "总统实名羡慕中国高铁美国咋造不出来",
+        "onboard_time": 1723734681,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 205452,
+        "num": 205452,
+        "word": "胡彦斌想签刘宇",
+        "onboard_time": 1723779503,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194216,
+        "num": 194216,
+        "word": "皇权富贵",
+        "onboard_time": 1723779863,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189634,
+        "num": 189634,
+        "word": "瘦了30斤才敢说的大实话",
+        "onboard_time": 1723771641,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188594,
+        "num": 188594,
+        "word": "电影重生",
+        "onboard_time": 1723781965,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178793,
+        "num": 178793,
+        "word": "阳光私募12.52亿元存款丢失",
+        "onboard_time": 1723768880,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 166801,
+        "num": 166801,
+        "word": "归龙潮公测定档",
+        "onboard_time": 1723781665,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166273,
+        "num": 166273,
+        "word": "张晚意 我的目标是破3万",
+        "onboard_time": 1723776323,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43458,
+        "num": 161951,
+        "word": "12亿协议存款为何不翼而飞",
+        "onboard_time": 1723781726,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 161450,
+        "num": 161450,
+        "word": "食物语",
+        "onboard_time": 1723771340,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记足迹看绿色转型新图景#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1723739122020,
-  "endTime": 1723782228369,
+  "endTime": 1723783062378,
   "band_list": [
     {
       "raw_hot": 10724841,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3362816,
+      "num": 988050,
+      "word": "孙伊涵工作室否认恋情",
+      "onboard_time": 1723781665,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2597253,
       "num": 2597253,
       "word": "长荣桂冠酒店道歉",
@@ -59,16 +67,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2582874,
-      "num": 917655,
-      "word": "孙伊涵工作室否认恋情",
-      "onboard_time": 1723781665,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1896457,
-      "num": 674408,
+      "num": 684141,
       "word": "买超",
       "onboard_time": 1723778062,
       "rank": 10,
@@ -139,20 +139,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1165110,
+      "num": 651562,
+      "word": "皇权富贵真的be了",
+      "onboard_time": 1723779743,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1142195,
       "num": 1142195,
       "word": "全红婵你真牛啊真狠啊",
       "onboard_time": 1723729341,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1063549,
-      "num": 651562,
-      "word": "皇权富贵真的be了",
-      "onboard_time": 1723779743,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1023500,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 867220,
+      "num": 867220,
+      "word": "阿娇皇甫圣华手挽手",
+      "onboard_time": 1723780824,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 860982,
       "num": 860982,
       "word": "情绪不稳定的人玩不了这游戏",
@@ -233,14 +241,6 @@
       "onboard_time": 1723729941,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 682875,
-      "num": 682875,
-      "word": "阿娇皇甫圣华手挽手",
-      "onboard_time": 1723780824,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 679189,
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 562057,
+      "num": 562057,
+      "word": "国乒封训备战记录",
+      "onboard_time": 1723777462,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 556243,
       "num": 556243,
       "word": "辰亦儒曾之乔睡觉都牵着手",
@@ -300,11 +308,19 @@
     },
     {
       "raw_hot": 536123,
-      "num": 691409,
+      "num": 818337,
       "word": "骗子开发200款APP骗了8万人",
       "onboard_time": 1723777162,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 534236,
+      "num": 534236,
+      "word": "乐华家族演唱会大合唱歌单",
+      "onboard_time": 1723781965,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 527504,
@@ -331,12 +347,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 490767,
-      "num": 490767,
-      "word": "国乒封训备战记录",
-      "onboard_time": 1723777462,
-      "rank": 25,
-      "category": "体育"
+      "raw_hot": 448120,
+      "num": 448120,
+      "word": "天价彩礼背后的根本原因",
+      "onboard_time": 1723779023,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 443443,
+      "num": 443443,
+      "word": "女子到中医馆买十三香配料炖红烧肉",
+      "onboard_time": 1723779148,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 442424,
@@ -379,20 +403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 375785,
-      "num": 375785,
-      "word": "天价彩礼背后的根本原因",
-      "onboard_time": 1723779023,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 370761,
-      "num": 370761,
-      "word": "女子到中医馆买十三香配料炖红烧肉",
-      "onboard_time": 1723779148,
-      "rank": 37,
-      "category": "情感"
+      "raw_hot": 359737,
+      "num": 359737,
+      "word": "印军练瑜伽照片意外暴露核导弹动向",
+      "onboard_time": 1723780466,
+      "rank": 26,
+      "category": "军事"
     },
     {
       "raw_hot": 341646,
@@ -417,6 +433,14 @@
       "onboard_time": 1723734442,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 324851,
+      "num": 324851,
+      "word": "结婚登记拟不需户口簿如何防骗婚",
+      "onboard_time": 1723772720,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 321624,
@@ -467,14 +491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 301982,
-      "num": 301982,
-      "word": "印军练瑜伽照片意外暴露核导弹动向",
-      "onboard_time": 1723780466,
-      "rank": 26,
-      "category": "军事"
-    },
-    {
       "raw_hot": 301476,
       "num": 301476,
       "word": "全红婵带火的玩具乌龟日销量超40万只",
@@ -499,20 +515,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 295550,
+      "num": 295550,
+      "word": "原神",
+      "onboard_time": 1723781786,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 295235,
       "num": 295235,
       "word": "好一张死气沉沉且有文化的脸",
       "onboard_time": 1723770020,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 289779,
-      "num": 289779,
-      "word": "结婚登记拟不需户口簿如何防骗婚",
-      "onboard_time": 1723772720,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 289393,
@@ -537,14 +553,6 @@
       "onboard_time": 1723737740,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 285371,
-      "num": 285371,
-      "word": "原神",
-      "onboard_time": 1723781786,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 285037,
@@ -595,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 257602,
+      "num": 257602,
+      "word": "钱蓓婷 瞒着所有人成为妈妈的我",
+      "onboard_time": 1723782443,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 257248,
       "num": 257248,
       "word": "猴痘疫情已向非洲以外蔓延",
@@ -609,6 +625,14 @@
       "onboard_time": 1723713441,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 249290,
+      "num": 249290,
+      "word": "篡改同学高考志愿一女生被刑拘",
+      "onboard_time": 1723781484,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242263,
@@ -649,6 +673,14 @@
       "onboard_time": 1723740916,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 226802,
+      "num": 226802,
+      "word": "最近是捅了暗恋的窝吗",
+      "onboard_time": 1723782565,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 226712,
@@ -769,14 +801,6 @@
       "onboard_time": 1723781965,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 197683,
-      "num": 197683,
-      "word": "篡改同学高考志愿一女生被刑拘",
-      "onboard_time": 1723781484,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196752,
@@ -1187,6 +1211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103807,
+      "num": 565054,
+      "word": "原神5.0版本直播",
+      "onboard_time": 1723781184,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 102623,
       "num": 205435,
       "word": "加沙挖墓人工作量是之前60倍",
@@ -1243,6 +1275,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 87620,
+      "num": 445339,
+      "word": "纪昱恒再等十年就老实了",
+      "onboard_time": 1723782146,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 82084,
       "num": 670463,
       "word": "一心堂已退回医保基金1070余万元",
@@ -1257,22 +1297,6 @@
       "onboard_time": 1723777222,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 76429,
-      "num": 327957,
-      "word": "纪昱恒再等十年就老实了",
-      "onboard_time": 1723782146,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 75485,
-      "num": 525224,
-      "word": "原神5.0版本直播",
-      "onboard_time": 1723781184,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 72217,
@@ -1347,6 +1371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 51369,
+      "num": 787546,
+      "word": "乌军占领俄天然气重要过境节点",
+      "onboard_time": 1723782625,
+      "rank": 9,
+      "category": "社会新闻,国外时政"
+    },
+    {
       "raw_hot": 51282,
       "num": 85967,
       "word": "AG 抽象",
@@ -1377,6 +1409,14 @@
       "onboard_time": 1723755671,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43458,
+      "num": 301285,
+      "word": "12亿协议存款为何不翼而飞",
+      "onboard_time": 1723781726,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 42323,
@@ -1417,14 +1457,6 @@
       "onboard_time": 1723776982,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25479,
-      "num": 301285,
-      "word": "12亿协议存款为何不翼而飞",
-      "onboard_time": 1723781726,
-      "rank": 29,
-      "category": "财经"
     },
     {
       "raw_hot": 18322,
