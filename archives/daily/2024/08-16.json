@@ -1,6 +1,6 @@
 {
   "startTime": 1723739122020,
-  "endTime": 1723815265172,
+  "endTime": 1723817915872,
   "band_list": [
     {
       "raw_hot": 10724841,
@@ -115,12 +115,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2806189,
+      "num": 655043,
+      "word": "有远亲找全红婵妈妈借35万",
+      "onboard_time": 1723812918,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2597253,
       "num": 2597253,
       "word": "长荣桂冠酒店道歉",
       "onboard_time": 1723774461,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2362710,
+      "num": 654068,
+      "word": "难听",
+      "onboard_time": 1723812380,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 2289027,
+      "num": 2289027,
+      "word": "LV推小乌龟挂件7400元一个",
+      "onboard_time": 1723815442,
+      "rank": 0,
+      "category": "时尚"
     },
     {
       "raw_hot": 2061148,
@@ -156,19 +180,11 @@
     },
     {
       "raw_hot": 1613270,
-      "num": 615412,
+      "num": 644254,
       "word": "范丞丞恋情瓜关系网总结",
       "onboard_time": 1723808479,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1604257,
-      "num": 608267,
-      "word": "难听",
-      "onboard_time": 1723812380,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 1512151,
@@ -201,6 +217,14 @@
       "onboard_time": 1723767381,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1385557,
+      "num": 1385557,
+      "word": "黑神话IGN10分",
+      "onboard_time": 1723817363,
+      "rank": 1,
+      "category": "游戏"
     },
     {
       "raw_hot": 1356893,
@@ -328,6 +352,14 @@
       "word": "为什么结婚不用户口簿触动人们神经",
       "onboard_time": 1723806020,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1031767,
+      "num": 1031767,
+      "word": "父亲马路罚跪3个孩子竟为逼妻现身",
+      "onboard_time": 1723814002,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -475,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 788194,
+      "num": 788194,
+      "word": "宋亚轩偶像的黄昏",
+      "onboard_time": 1723816523,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 778806,
       "num": 778806,
       "word": "巴黎残奥会中国代表团成立",
@@ -499,11 +539,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 748145,
-      "num": 522933,
-      "word": "有远亲找全红婵妈妈借35万",
-      "onboard_time": 1723812918,
-      "rank": 22,
+      "raw_hot": 746840,
+      "num": 746840,
+      "word": "刘诗雯学马龙庆祝动作",
+      "onboard_time": 1723813642,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -593,6 +633,14 @@
       "onboard_time": 1723793422,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 660631,
+      "num": 660631,
+      "word": "张真源副温度solo",
+      "onboard_time": 1723816883,
+      "rank": 9,
+      "category": "演出"
     },
     {
       "raw_hot": 654698,
@@ -859,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 426020,
+      "num": 619989,
+      "word": "关晓彤AI身材比例",
+      "onboard_time": 1723815741,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 412399,
       "num": 354514,
       "word": "QQ飞车S17",
@@ -883,12 +939,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 405105,
+      "num": 405105,
+      "word": "35岁单身女生独居的一天",
+      "onboard_time": 1723815381,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 403205,
       "num": 227847,
       "word": "超市员工被质疑穿着暴露吸引生意",
       "onboard_time": 1723714221,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 401739,
+      "num": 555554,
+      "word": "黄宗泽再跳大巴舞",
+      "onboard_time": 1723814421,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 399931,
@@ -921,14 +993,6 @@
       "onboard_time": 1723704260,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 382863,
-      "num": 382863,
-      "word": "刘诗雯学马龙庆祝动作",
-      "onboard_time": 1723813642,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 381367,
@@ -977,14 +1041,6 @@
       "onboard_time": 1723780466,
       "rank": 26,
       "category": "军事"
-    },
-    {
-      "raw_hot": 359116,
-      "num": 359116,
-      "word": "父亲马路罚跪3个孩子竟为逼妻现身",
-      "onboard_time": 1723814002,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 358787,
@@ -1067,6 +1123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 326424,
+      "num": 645489,
+      "word": "离婚冷静期真的能降低离婚率吗",
+      "onboard_time": 1723813220,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 322523,
       "num": 322523,
       "word": "食物语陪伴版开服",
@@ -1088,6 +1152,14 @@
       "word": "郑钦文父母已成立多家体育公司",
       "onboard_time": 1723809080,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 318021,
+      "num": 318021,
+      "word": "陈梦说国乒队友都是等比例长大",
+      "onboard_time": 1723814843,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -1387,6 +1459,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 254268,
+      "num": 326564,
+      "word": "柳舟记 结个婚活人微死",
+      "onboard_time": 1723814722,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249290,
       "num": 249290,
       "word": "篡改同学高考志愿一女生被刑拘",
@@ -1451,20 +1531,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238818,
+      "num": 238818,
+      "word": "陈梦说东京奥运会后三年很煎熬",
+      "onboard_time": 1723816281,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 238729,
       "num": 238729,
       "word": "史上最大规模中国游戏厂商亮相德国",
       "onboard_time": 1723775301,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 237527,
-      "num": 275519,
-      "word": "黄宗泽再跳大巴舞",
-      "onboard_time": 1723814421,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 237448,
@@ -1481,6 +1561,14 @@
       "onboard_time": 1723806978,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 233346,
+      "num": 233346,
+      "word": "中餐厅",
+      "onboard_time": 1723817662,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 232514,
@@ -1523,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229257,
+      "num": 229257,
+      "word": "陈梦说就是要赢给所有人看",
+      "onboard_time": 1723817363,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 226967,
       "num": 226967,
       "word": "请关心一下现在妈妈吧",
@@ -1552,6 +1648,14 @@
       "word": "胡彦斌想签刘宇",
       "onboard_time": 1723779503,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 225736,
+      "num": 225736,
+      "word": "雅 给向佐打电话",
+      "onboard_time": 1723815622,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -1619,6 +1723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216296,
+      "num": 216296,
+      "word": "TES战胜AL",
+      "onboard_time": 1723817422,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 215683,
       "num": 267726,
       "word": "收票",
@@ -1649,6 +1761,14 @@
       "onboard_time": 1723737201,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210476,
+      "num": 210476,
+      "word": "樊振东在奥运村天天拿两片披萨",
+      "onboard_time": 1723817842,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 209225,
@@ -1731,14 +1851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204964,
-      "num": 204964,
-      "word": "陈梦说国乒队友都是等比例长大",
-      "onboard_time": 1723814843,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 204116,
       "num": 204116,
       "word": "结婚不用户口簿是否要告知父母",
@@ -1809,6 +1921,14 @@
       "onboard_time": 1723792644,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198350,
+      "num": 198350,
+      "word": "一废旧航母在拆除改造时发生火灾",
+      "onboard_time": 1723817662,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198302,
@@ -1963,12 +2083,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190946,
-      "num": 190946,
-      "word": "柳舟记 结个婚活人微死",
-      "onboard_time": 1723814722,
-      "rank": 37,
-      "category": "剧集"
+      "raw_hot": 191014,
+      "num": 191014,
+      "word": "江苏一废旧航母拆除时发生火灾",
+      "onboard_time": 1723815682,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190281,
@@ -1985,6 +2105,14 @@
       "onboard_time": 1723799541,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189750,
+      "num": 189750,
+      "word": "马嘉祺严浩翔 曾经我也想过一了百了",
+      "onboard_time": 1723817363,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 189569,
@@ -2059,12 +2187,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 186252,
+      "num": 186252,
+      "word": "邓颖超主张一方坚持要离婚就可离",
+      "onboard_time": 1723816402,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186041,
       "num": 186041,
       "word": "八旬老人疑被养老院室友打死",
       "onboard_time": 1723725261,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185431,
+      "num": 188432,
+      "word": "碗盆",
+      "onboard_time": 1723817483,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 185153,
@@ -2107,6 +2251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182122,
+      "num": 182122,
+      "word": "AL无缘冒泡赛",
+      "onboard_time": 1723817721,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 182057,
       "num": 182057,
       "word": "发明韩语的不会是个广东人吧",
@@ -2129,6 +2281,14 @@
       "onboard_time": 1723800082,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177957,
+      "num": 177957,
+      "word": "JDG晋级冒泡赛",
+      "onboard_time": 1723817783,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 177584,
@@ -2161,14 +2321,6 @@
       "onboard_time": 1723812140,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176299,
-      "num": 645489,
-      "word": "离婚冷静期真的能降低离婚率吗",
-      "onboard_time": 1723813220,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176090,
@@ -2796,7 +2948,7 @@
     },
     {
       "raw_hot": 65703,
-      "num": 1371951,
+      "num": 1376340,
       "word": "文化中国行看见大美山河",
       "onboard_time": 1723777582,
       "rank": 12,
@@ -2857,6 +3009,14 @@
       "onboard_time": 1723748651,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 58810,
+      "num": 699270,
+      "word": "公园回应宝妈母婴室哺乳被强行开门",
+      "onboard_time": 1723816942,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55197,
@@ -2960,6 +3120,14 @@
       "word": "刺杀银行董事长嫌疑人或为支行原行长",
       "onboard_time": 1723807820,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35903,
+      "num": 631743,
+      "word": "年轻人迷上了Cos委托",
+      "onboard_time": 1723817721,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
