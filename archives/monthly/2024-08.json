@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1723840488935,
+  "endTime": 1723843164969,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -50083,6 +50083,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26659,
+      "num": 29033,
+      "word": "如何看待结婚不用户口簿",
+      "onboard_time": 1723838773,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26332,
+      "num": 68117,
+      "word": "研学游别成了到此一游",
+      "onboard_time": 1723838711,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26159,
       "num": 512766,
       "word": "陈若琳给井胧打call",
@@ -50137,14 +50153,6 @@
       "onboard_time": 1723102645,
       "rank": 29,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 25464,
-      "num": 29033,
-      "word": "如何看待结婚不用户口簿",
-      "onboard_time": 1723838773,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25188,
@@ -50681,14 +50689,6 @@
       "onboard_time": 1723137975,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 12474,
-      "num": 68117,
-      "word": "研学游别成了到此一游",
-      "onboard_time": 1723838711,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12385,
