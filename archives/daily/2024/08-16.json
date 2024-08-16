@@ -1,10 +1,10 @@
 {
   "startTime": 1723739122020,
-  "endTime": 1723772813509,
+  "endTime": 1723775947287,
   "band_list": [
     {
       "raw_hot": 5438729,
-      "num": 716198,
+      "num": 845772,
       "word": "疑似范丞丞恋情",
       "onboard_time": 1723772479,
       "rank": 10,
@@ -20,11 +20,27 @@
     },
     {
       "raw_hot": 1468606,
-      "num": 523845,
+      "num": 650172,
       "word": "范丞丞和买超聚餐",
       "onboard_time": 1723771160,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1440917,
+      "num": 1440917,
+      "word": "长荣桂冠酒店道歉",
+      "onboard_time": 1723774461,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1429544,
+      "num": 1429544,
+      "word": "研究生女孩害怕被妈妈揍极限收高粱",
+      "onboard_time": 1723770020,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1402219,
@@ -67,6 +83,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1103722,
+      "num": 1103722,
+      "word": "加沙女孩用嘴去接卡车漏下的水滴解渴",
+      "onboard_time": 1723772121,
+      "rank": 26,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1023500,
       "num": 1023500,
       "word": "台湾附近6.1级左右地震",
@@ -91,6 +115,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 886120,
+      "num": 886120,
+      "word": "迪丽热巴芭莎金九预告发了",
+      "onboard_time": 1723774821,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 877208,
+      "num": 877208,
+      "word": "户口簿退出婚登回应年轻人关切",
+      "onboard_time": 1723768761,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 860982,
       "num": 860982,
       "word": "情绪不稳定的人玩不了这游戏",
@@ -99,19 +139,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 857103,
+      "num": 517084,
+      "word": "瘦了30斤才敢说的大实话",
+      "onboard_time": 1723771641,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 775067,
       "num": 775067,
       "word": "女子入职3个月怀孕被扣7个月绩效金",
       "onboard_time": 1723732641,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 761851,
-      "num": 761851,
-      "word": "研究生女孩害怕被妈妈揍极限收高粱",
-      "onboard_time": 1723770020,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -131,8 +171,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 679189,
+      "num": 679189,
+      "word": "郑钦文比赛因雨暂停",
+      "onboard_time": 1723771340,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 670369,
-      "num": 751875,
+      "num": 877675,
       "word": "梁洁 为什么让娜扎使劲不让我使劲",
       "onboard_time": 1723767020,
       "rank": 8,
@@ -171,20 +219,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 526137,
+      "num": 526137,
+      "word": "丫丫大头快成正圆了",
+      "onboard_time": 1723772720,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 502615,
       "num": 716198,
       "word": "阳光私募12.52亿元存款丢失",
       "onboard_time": 1723768880,
       "rank": 20,
       "category": "财经"
-    },
-    {
-      "raw_hot": 443069,
-      "num": 443069,
-      "word": "郑钦文比赛因雨暂停",
-      "onboard_time": 1723771340,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 442424,
@@ -276,7 +324,7 @@
     },
     {
       "raw_hot": 295715,
-      "num": 509240,
+      "num": 551340,
       "word": "00后有自己的聊天方式",
       "onboard_time": 1723769119,
       "rank": 28,
@@ -315,12 +363,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 282782,
-      "num": 282782,
-      "word": "瘦了30斤才敢说的大实话",
-      "onboard_time": 1723771641,
-      "rank": 24,
-      "category": "情感"
+      "raw_hot": 277827,
+      "num": 277827,
+      "word": "陈梦分享海边美照",
+      "onboard_time": 1723775420,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 264166,
@@ -347,12 +395,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 252535,
-      "num": 252535,
-      "word": "加沙女孩用嘴去接卡车漏下的水滴解渴",
-      "onboard_time": 1723772121,
-      "rank": 26,
-      "category": "国外时政"
+      "raw_hot": 251438,
+      "num": 251438,
+      "word": "结婚登记拟不需户口簿如何防骗婚",
+      "onboard_time": 1723772720,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242263,
@@ -387,12 +435,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225554,
+      "num": 621895,
+      "word": "密逃 四个男人凑不出一个胆子",
+      "onboard_time": 1723775000,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 224903,
+      "num": 224903,
+      "word": "猴痘疫情已向非洲以外蔓延",
+      "onboard_time": 1723772840,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 224226,
       "num": 312139,
       "word": "贺峻霖疑似兔耳造型",
       "onboard_time": 1723769723,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223483,
+      "num": 600861,
+      "word": "杨幂Perfect杂志封面",
+      "onboard_time": 1723772659,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 222573,
@@ -411,12 +483,12 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 217993,
-      "num": 217993,
-      "word": "户口簿退出婚登回应年轻人关切",
-      "onboard_time": 1723768761,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 218272,
+      "num": 570871,
+      "word": "金珉奎腹肌",
+      "onboard_time": 1723771760,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 211629,
@@ -435,14 +507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 207554,
-      "num": 207554,
-      "word": "丫丫大头快成正圆了",
-      "onboard_time": 1723772720,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203232,
       "num": 203232,
       "word": "第一批奥运冠军已经开始教人化妆了",
@@ -451,12 +515,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202003,
-      "num": 476851,
-      "word": "金珉奎腹肌",
-      "onboard_time": 1723771760,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 196752,
+      "num": 196752,
+      "word": "超20座巴勒斯坦墓地被以军轰炸挖掘",
+      "onboard_time": 1723773141,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 196258,
+      "num": 196258,
+      "word": "史上最大规模中国游戏厂商亮相德国",
+      "onboard_time": 1723775301,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 194259,
@@ -499,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188177,
+      "num": 188177,
+      "word": "邓紫棋生日海报",
+      "onboard_time": 1723775722,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187702,
       "num": 187702,
       "word": "巴黎奥运乒乓球比赛樊振东球速最快",
@@ -531,12 +611,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182057,
+      "num": 182057,
+      "word": "发明韩语的不会是个广东人吧",
+      "onboard_time": 1723771579,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 175865,
       "num": 230008,
       "word": "宋亚轩 拍了点酷酷的照片",
       "onboard_time": 1723769841,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169751,
+      "num": 169751,
+      "word": "多地开展不明原因肺炎疫情防控演练",
+      "onboard_time": 1723775420,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168470,
@@ -547,12 +643,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 165234,
-      "num": 165234,
-      "word": "发明韩语的不会是个广东人吧",
-      "onboard_time": 1723771579,
-      "rank": 46,
-      "category": "幽默"
+      "raw_hot": 165255,
+      "num": 165255,
+      "word": "过度延长产假或增加女性中断就业概率",
+      "onboard_time": 1723775842,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165072,
@@ -571,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162355,
-      "num": 218577,
-      "word": "杨幂Perfect杂志封面",
-      "onboard_time": 1723772659,
-      "rank": 34,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 161045,
       "num": 165110,
       "word": "俄军步兵攻入乌军据点俘虏乌士兵",
@@ -595,6 +683,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 160610,
+      "num": 160610,
+      "word": "美国比基建没比过一非洲国家",
+      "onboard_time": 1723745772,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159512,
+      "num": 159512,
+      "word": "转走阳光私募存款公司曾多次换照",
+      "onboard_time": 1723775060,
+      "rank": 47,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 157994,
       "num": 157994,
       "word": "长荣桂冠酒店回应",
@@ -609,14 +713,6 @@
       "onboard_time": 1723728081,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 156365,
-      "num": 245089,
-      "word": "结婚登记拟不需户口簿如何防骗婚",
-      "onboard_time": 1723772720,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155003,
@@ -809,6 +905,14 @@
       "onboard_time": 1723730422,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88349,
+      "num": 672775,
+      "word": "阳光私募爆雷",
+      "onboard_time": 1723774221,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 72217,
