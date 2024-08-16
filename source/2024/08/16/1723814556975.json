@@ -1,0 +1,410 @@
+{
+  "runTime": 1723814556975,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2122733,
+        "num": 2122733,
+        "word": "刘耀文 女伴舞",
+        "onboard_time": 1723813041,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1743736,
+        "num": 1743736,
+        "word": "奥运冠军回医院上班",
+        "onboard_time": 1723810821,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6526,
+        "num": 1371951,
+        "word": "文化中国行看见大美山河",
+        "onboard_time": 1723777582,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1356893,
+        "num": 1356893,
+        "word": "孙杨回应美国游泳运动员脸紫",
+        "onboard_time": 1723810581,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1223556,
+        "num": 1223556,
+        "word": "婚姻登记处回应网友担忧被重婚",
+        "onboard_time": 1723794743,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 969212,
+        "num": 969212,
+        "word": "别人冒用自己身份证领结婚证怎么办",
+        "onboard_time": 1723809620,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 767721,
+        "num": 767721,
+        "word": "马嘉祺 蜉蝣",
+        "onboard_time": 1723813041,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 734269,
+        "num": 734269,
+        "word": "为什么结婚不用户口簿触动人们神经",
+        "onboard_time": 1723806020,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 663309,
+        "num": 663309,
+        "word": "目前我国终身不婚人群仍是少数",
+        "onboard_time": 1723793781,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107240,
+        "num": 645489,
+        "word": "离婚冷静期真的能降低离婚率吗",
+        "onboard_time": 1723813220,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1572960,
+        "num": 615412,
+        "word": "范丞丞恋情瓜关系网总结",
+        "onboard_time": 1723808479,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1342339,
+        "num": 608267,
+        "word": "难听",
+        "onboard_time": 1723812380,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 838300,
+        "num": 578246,
+        "word": "zzoexxll街头采访理想型",
+        "onboard_time": 1723808240,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 557062,
+        "num": 557062,
+        "word": "河南监狱管理局不予录用18岁考生",
+        "onboard_time": 1723805780,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535574,
+        "num": 535574,
+        "word": "向佐气哭俩老头",
+        "onboard_time": 1723807220,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 521739,
+        "num": 521739,
+        "word": "刘耀文 真空深V露背",
+        "onboard_time": 1723813162,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 505860,
+        "num": 505860,
+        "word": "碗盆 天下",
+        "onboard_time": 1723812501,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 495284,
+        "num": 495284,
+        "word": "樊振东 单枪匹马却抵千军万马",
+        "onboard_time": 1723795762,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 406737,
+        "num": 406737,
+        "word": "美加州发现深海鱼尸体或与地震有关",
+        "onboard_time": 1723807280,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472545,
+        "num": 390356,
+        "word": "向佐告别披荆斩棘",
+        "onboard_time": 1723806500,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2384992,
+        "num": 378353,
+        "word": "范丞丞 没否认",
+        "onboard_time": 1723784244,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1010353,
+        "num": 370489,
+        "word": "张兰晒大S出轨证据",
+        "onboard_time": 1723801521,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356009,
+        "num": 356009,
+        "word": "有远亲找全红婵妈妈借35万",
+        "onboard_time": 1723812918,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 345852,
+        "num": 345852,
+        "word": "zzoexxll 胡文煊前女友",
+        "onboard_time": 1723787603,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319569,
+        "num": 319569,
+        "word": "郑钦文父母已成立多家体育公司",
+        "onboard_time": 1723809080,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 651628,
+        "num": 311319,
+        "word": "范丞丞方回应",
+        "onboard_time": 1723778303,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295035,
+        "num": 295035,
+        "word": "女童走失用银行ATM成功自救",
+        "onboard_time": 1723801881,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284432,
+        "num": 284432,
+        "word": "向佐把林志玲老公惹哭了",
+        "onboard_time": 1723807099,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276431,
+        "num": 276431,
+        "word": "婆婆可能绑定了好命系统",
+        "onboard_time": 1723807099,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238423,
+        "num": 238423,
+        "word": "Natty成为NAME新歌制作人",
+        "onboard_time": 1723813041,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 250048,
+        "num": 237931,
+        "word": "姚译添 内娱扫雷",
+        "onboard_time": 1723802539,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235166,
+        "num": 235166,
+        "word": "宋亚轩给严浩翔P了个皇冠",
+        "onboard_time": 1723792222,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232808,
+        "num": 232808,
+        "word": "刘诗雯学马龙庆祝动作",
+        "onboard_time": 1723813642,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232514,
+        "num": 232514,
+        "word": "女子找兼职上当疯狂买黄金送骗子",
+        "onboard_time": 1723810639,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228185,
+        "num": 228185,
+        "word": "父亲马路罚跪3个孩子竟为逼妻现身",
+        "onboard_time": 1723814002,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206321,
+        "num": 206321,
+        "word": "LGD主场日到底有谁在啊",
+        "onboard_time": 1723814241,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 198527,
+        "num": 198527,
+        "word": "全红婵带火小乌龟义乌老板疯狂赶工",
+        "onboard_time": 1723798222,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187552,
+        "num": 187552,
+        "word": "今天星期五",
+        "onboard_time": 1723813941,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184736,
+        "num": 184736,
+        "word": "柯南剧场版",
+        "onboard_time": 1723813282,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183014,
+        "num": 183014,
+        "word": "蔡徐坤地广",
+        "onboard_time": 1723805602,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181078,
+        "num": 181078,
+        "word": "她哭了却没有手擦眼泪",
+        "onboard_time": 1723810761,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176271,
+        "num": 176271,
+        "word": "邝玲玲回家",
+        "onboard_time": 1723806978,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175028,
+        "num": 175028,
+        "word": "一小时11次连续抛烟头引燃楼下车辆",
+        "onboard_time": 1723802420,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174510,
+        "num": 174510,
+        "word": "黄宗泽再跳大巴舞",
+        "onboard_time": 1723814421,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172484,
+        "num": 172484,
+        "word": "小米手机13岁生日",
+        "onboard_time": 1723811060,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 170700,
+        "num": 170700,
+        "word": "中方要求菲方立即撤出有关船只",
+        "onboard_time": 1723811300,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 169399,
+        "num": 169399,
+        "word": "QQ飞车S17",
+        "onboard_time": 1723811661,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163919,
+        "num": 163919,
+        "word": "1个账号1个月参观7000次三星堆",
+        "onboard_time": 1723805780,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162841,
+        "num": 162841,
+        "word": "中国国家队最新大长图",
+        "onboard_time": 1723812140,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155696,
+        "num": 155696,
+        "word": "食物语陪伴版开服",
+        "onboard_time": 1723795103,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻文化根魂#"
+    }
+  }
+}

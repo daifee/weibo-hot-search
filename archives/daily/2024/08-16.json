@@ -1,6 +1,6 @@
 {
   "startTime": 1723739122020,
-  "endTime": 1723812774796,
+  "endTime": 1723814556975,
   "band_list": [
     {
       "raw_hot": 10724841,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2122733,
+      "num": 2122733,
+      "word": "刘耀文 女伴舞",
+      "onboard_time": 1723813041,
+      "rank": 0,
+      "category": "演出"
+    },
+    {
       "raw_hot": 2061148,
       "num": 2061148,
       "word": "婚姻登记处回应网友担忧被重婚",
@@ -139,8 +147,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1743736,
+      "num": 1743736,
+      "word": "奥运冠军回医院上班",
+      "onboard_time": 1723810821,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1613270,
-      "num": 589364,
+      "num": 615412,
       "word": "范丞丞恋情瓜关系网总结",
       "onboard_time": 1723808479,
       "rank": 10,
@@ -179,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1356893,
+      "num": 1356893,
+      "word": "孙杨回应美国游泳运动员脸紫",
+      "onboard_time": 1723810581,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1354317,
       "num": 1354317,
       "word": "樊振东 单枪匹马却抵千军万马",
@@ -193,6 +217,14 @@
       "onboard_time": 1723734681,
       "rank": 10,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1342339,
+      "num": 608267,
+      "word": "难听",
+      "onboard_time": 1723812380,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 1277544,
@@ -228,7 +260,7 @@
     },
     {
       "raw_hot": 1174776,
-      "num": 576778,
+      "num": 578246,
       "word": "zzoexxll街头采访理想型",
       "onboard_time": 1723808240,
       "rank": 11,
@@ -331,20 +363,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 969212,
+      "num": 969212,
+      "word": "别人冒用自己身份证领结婚证怎么办",
+      "onboard_time": 1723809620,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 961650,
       "num": 961650,
       "word": "电影逆行人生陷巨大争议",
       "onboard_time": 1723766659,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 956136,
-      "num": 536918,
-      "word": "奥运冠军回医院上班",
-      "onboard_time": 1723810821,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 943400,
@@ -459,19 +491,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 767721,
+      "num": 767721,
+      "word": "马嘉祺 蜉蝣",
+      "onboard_time": 1723813041,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 741846,
       "num": 741846,
       "word": "郑钦文vs弗雷希",
       "onboard_time": 1723764976,
       "rank": 11,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 736927,
-      "num": 736927,
-      "word": "孙杨回应美国游泳运动员脸紫",
-      "onboard_time": 1723810581,
-      "rank": 12,
       "category": "体育"
     },
     {
@@ -505,14 +537,6 @@
       "onboard_time": 1723806500,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 703327,
-      "num": 703327,
-      "word": "别人冒用自己身份证领结婚证怎么办",
-      "onboard_time": 1723809620,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 697706,
@@ -723,12 +747,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 521739,
+      "num": 521739,
+      "word": "刘耀文 真空深V露背",
+      "onboard_time": 1723813162,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 516402,
       "num": 449468,
       "word": "钱蓓婷 瞒着所有人成为妈妈的我",
       "onboard_time": 1723782443,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 505860,
+      "num": 505860,
+      "word": "碗盆 天下",
+      "onboard_time": 1723812501,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 503144,
@@ -931,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356009,
+      "num": 356009,
+      "word": "有远亲找全红婵妈妈借35万",
+      "onboard_time": 1723812918,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 355607,
       "num": 355607,
       "word": "原神前瞻",
@@ -1017,6 +1065,14 @@
       "onboard_time": 1723775842,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 319569,
+      "num": 319569,
+      "word": "郑钦文父母已成立多家体育公司",
+      "onboard_time": 1723809080,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 317421,
@@ -1283,14 +1339,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 258255,
-      "num": 258255,
-      "word": "郑钦文父母已成立多家体育公司",
-      "onboard_time": 1723809080,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 257248,
       "num": 257248,
       "word": "猴痘疫情已向非洲以外蔓延",
@@ -1387,6 +1435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 238423,
+      "num": 238423,
+      "word": "Natty成为NAME新歌制作人",
+      "onboard_time": 1723813041,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 237448,
       "num": 237448,
       "word": "章若楠后援会回应改名",
@@ -1401,6 +1457,22 @@
       "onboard_time": 1723806978,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 232808,
+      "num": 232808,
+      "word": "刘诗雯学马龙庆祝动作",
+      "onboard_time": 1723813642,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 232514,
+      "num": 232514,
+      "word": "女子找兼职上当疯狂买黄金送骗子",
+      "onboard_time": 1723810639,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232303,
@@ -1433,6 +1505,14 @@
       "onboard_time": 1723805602,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228185,
+      "num": 228185,
+      "word": "父亲马路罚跪3个孩子竟为逼妻现身",
+      "onboard_time": 1723814002,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226967,
@@ -1619,6 +1699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206321,
+      "num": 206321,
+      "word": "LGD主场日到底有谁在啊",
+      "onboard_time": 1723814241,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 206104,
       "num": 206104,
       "word": "奥运健儿发文回忆巴黎奥运",
@@ -1697,14 +1785,6 @@
       "onboard_time": 1723790302,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199373,
-      "num": 199373,
-      "word": "难听",
-      "onboard_time": 1723812380,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 198745,
@@ -1923,6 +2003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187552,
+      "num": 187552,
+      "word": "今天星期五",
+      "onboard_time": 1723813941,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187342,
       "num": 187342,
       "word": "余宇涵恋爱争议原视频",
@@ -1971,6 +2059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184736,
+      "num": 184736,
+      "word": "柯南剧场版",
+      "onboard_time": 1723813282,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 184336,
       "num": 184336,
       "word": "云南的晚霞是一幅绚丽油画",
@@ -1985,14 +2081,6 @@
       "onboard_time": 1723729880,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 183939,
-      "num": 183939,
-      "word": "女子找兼职上当疯狂买黄金送骗子",
-      "onboard_time": 1723810639,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182057,
@@ -2075,6 +2163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174510,
+      "num": 174510,
+      "word": "黄宗泽再跳大巴舞",
+      "onboard_time": 1723814421,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173980,
       "num": 173980,
       "word": "重生",
@@ -2097,14 +2193,6 @@
       "onboard_time": 1723800142,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 171976,
-      "num": 171976,
-      "word": "碗盆 天下",
-      "onboard_time": 1723812501,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 170039,
@@ -2547,6 +2635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107240,
+      "num": 645489,
+      "word": "离婚冷静期真的能降低离婚率吗",
+      "onboard_time": 1723813220,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105707,
       "num": 111452,
       "word": "孙茜 表演型人格",
@@ -2684,7 +2780,7 @@
     },
     {
       "raw_hot": 65703,
-      "num": 644977,
+      "num": 1371951,
       "word": "文化中国行看见大美山河",
       "onboard_time": 1723777582,
       "rank": 12,
