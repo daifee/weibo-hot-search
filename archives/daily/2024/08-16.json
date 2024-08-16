@@ -1,6 +1,6 @@
 {
   "startTime": 1723739122020,
-  "endTime": 1723793728737,
+  "endTime": 1723796778749,
   "band_list": [
     {
       "raw_hot": 10724841,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 3128074,
-      "num": 663651,
+      "num": 807743,
       "word": "范丞丞前女友 822",
       "onboard_time": 1723787722,
       "rank": 10,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 2981298,
-      "num": 660851,
+      "num": 797011,
       "word": "zzoexxll 胡文煊前女友",
       "onboard_time": 1723787603,
       "rank": 11,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1271490,
+      "num": 1271490,
+      "word": "目前我国终身不婚人群仍是少数",
+      "onboard_time": 1723793781,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1269875,
       "num": 1269875,
       "word": "婚姻登记取消户口簿彰显婚姻自由",
@@ -201,6 +209,14 @@
       "onboard_time": 1723729341,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1127457,
+      "num": 1127457,
+      "word": "王一博 低声些难道光彩吗",
+      "onboard_time": 1723791203,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 1104783,
@@ -259,14 +275,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 914659,
-      "num": 914659,
-      "word": "王一博 低声些难道光彩吗",
-      "onboard_time": 1723791203,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 877208,
       "num": 877208,
       "word": "户口簿退出婚登回应年轻人关切",
@@ -299,11 +307,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 824265,
+      "num": 824265,
+      "word": "邯郸银行",
+      "onboard_time": 1723791682,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 819707,
       "num": 819707,
       "word": "邯郸银行董事长被54岁男子杀害",
       "onboard_time": 1723790363,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 795506,
+      "num": 795506,
+      "word": "长荣桂冠酒店称不希望影响两岸关系",
+      "onboard_time": 1723790122,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -361,6 +385,22 @@
       "onboard_time": 1723788382,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 650612,
+      "num": 650612,
+      "word": "专家称婚姻登记修改让离婚更难",
+      "onboard_time": 1723792103,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 642702,
+      "num": 642702,
+      "word": "又见美合",
+      "onboard_time": 1723793003,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 641375,
@@ -483,12 +523,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 520982,
+      "num": 520982,
+      "word": "160斤妻子孕晚期腰酸丈夫一把抱起",
+      "onboard_time": 1723793781,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 516402,
       "num": 449468,
       "word": "钱蓓婷 瞒着所有人成为妈妈的我",
       "onboard_time": 1723782443,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 509751,
+      "num": 509751,
+      "word": "樊振东 单枪匹马却抵千军万马",
+      "onboard_time": 1723795762,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 503144,
@@ -515,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 484624,
+      "num": 484624,
+      "word": "婚姻登记处回应网友担忧被重婚",
+      "onboard_time": 1723794743,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459697,
       "num": 459697,
       "word": "贺峻霖祝严浩翔继续做很酷的大人",
@@ -536,6 +600,14 @@
       "word": "鹿晗直播",
       "onboard_time": 1723766541,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 416327,
+      "num": 564141,
+      "word": "老友记主演死亡当天被注射多次毒品",
+      "onboard_time": 1723793422,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -568,14 +640,6 @@
       "word": "多家名称涉长荣企业紧急声明",
       "onboard_time": 1723756751,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 388562,
-      "num": 388562,
-      "word": "邯郸银行",
-      "onboard_time": 1723791682,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -617,6 +681,14 @@
       "onboard_time": 1723787902,
       "rank": 22,
       "category": "游戏,美食"
+    },
+    {
+      "raw_hot": 370722,
+      "num": 370722,
+      "word": "綦美合闺蜜",
+      "onboard_time": 1723795161,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 366333,
@@ -681,6 +753,14 @@
       "onboard_time": 1723779624,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 336244,
+      "num": 336244,
+      "word": "黑龙江执法人员怒怼举报人",
+      "onboard_time": 1723793661,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 332319,
@@ -753,6 +833,14 @@
       "onboard_time": 1723781965,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 306209,
+      "num": 306209,
+      "word": "两眼一睁就被樊振东甜晕",
+      "onboard_time": 1723793601,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 304136,
@@ -875,12 +963,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266573,
+      "num": 266573,
+      "word": "食物语陪伴版开服",
+      "onboard_time": 1723795103,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 264166,
       "num": 264166,
       "word": "律师谈离婚冷静期内任何一方可撤回",
       "onboard_time": 1723743672,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261586,
+      "num": 311321,
+      "word": "乐华家族 起风了",
+      "onboard_time": 1723793121,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 260822,
@@ -915,14 +1019,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 255635,
-      "num": 255635,
-      "word": "专家称婚姻登记修改让离婚更难",
-      "onboard_time": 1723792103,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 255566,
       "num": 255566,
       "word": "孙颖莎陈清晨环球影城vlog",
@@ -939,14 +1035,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 253803,
-      "num": 253803,
-      "word": "长荣桂冠酒店称不希望影响两岸关系",
-      "onboard_time": 1723790122,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 249290,
       "num": 249290,
       "word": "篡改同学高考志愿一女生被刑拘",
@@ -961,14 +1049,6 @@
       "onboard_time": 1723786522,
       "rank": 9,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 245344,
-      "num": 245344,
-      "word": "又见美合",
-      "onboard_time": 1723793003,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 244081,
@@ -1123,20 +1203,20 @@
       "category": "社会新闻,国外时政"
     },
     {
+      "raw_hot": 212203,
+      "num": 212203,
+      "word": "教育年限延长促使初婚年龄越来越晚",
+      "onboard_time": 1723793063,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211629,
       "num": 211629,
       "word": "黄一鸣说不会再找对象",
       "onboard_time": 1723737201,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 210861,
-      "num": 210861,
-      "word": "两眼一睁就被樊振东甜晕",
-      "onboard_time": 1723793601,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 209225,
@@ -1187,12 +1267,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 205308,
-      "num": 205308,
-      "word": "乐华家族 起风了",
-      "onboard_time": 1723793121,
-      "rank": 36,
-      "category": "演出"
+      "raw_hot": 206104,
+      "num": 206104,
+      "word": "奥运健儿发文回忆巴黎奥运",
+      "onboard_time": 1723796422,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 205003,
@@ -1201,14 +1281,6 @@
       "onboard_time": 1723786403,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 203523,
-      "num": 203523,
-      "word": "老友记主演死亡当天被注射多次毒品",
-      "onboard_time": 1723793422,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 203304,
@@ -1233,6 +1305,14 @@
       "onboard_time": 1723793363,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 200889,
+      "num": 200889,
+      "word": "鑫仔 脱口秀票数",
+      "onboard_time": 1723796182,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 200846,
@@ -1371,14 +1451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190494,
-      "num": 190494,
-      "word": "教育年限延长促使初婚年龄越来越晚",
-      "onboard_time": 1723793063,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188514,
       "num": 188514,
       "word": "于敏说国家需要一定全力以赴",
@@ -1403,12 +1475,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187432,
+      "num": 187432,
+      "word": "原神送五星了",
+      "onboard_time": 1723793302,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187330,
       "num": 237372,
       "word": "娜扎 丞磊你在轧戏啊",
       "onboard_time": 1723725621,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186287,
+      "num": 186287,
+      "word": "第五人格",
+      "onboard_time": 1723794264,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 186284,
+      "num": 186284,
+      "word": "户口簿比身份证系统信息滞后",
+      "onboard_time": 1723796002,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186041,
@@ -1473,14 +1569,6 @@
       "onboard_time": 1723777283,
       "rank": 48,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 170549,
-      "num": 170549,
-      "word": "黑龙江执法人员怒怼举报人",
-      "onboard_time": 1723793661,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169163,
@@ -1827,6 +1915,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 87744,
+      "num": 818164,
+      "word": "邯郸银行董事长今下午将送往殡仪馆",
+      "onboard_time": 1723795824,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87620,
       "num": 445339,
       "word": "纪昱恒再等十年就老实了",
@@ -1839,6 +1935,14 @@
       "num": 670463,
       "word": "一心堂已退回医保基金1070余万元",
       "onboard_time": 1723780824,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81081,
+      "num": 815582,
+      "word": "该不该劝晚年闹离婚的爸妈",
+      "onboard_time": 1723795222,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -1908,7 +2012,7 @@
     },
     {
       "raw_hot": 63668,
-      "num": 498469,
+      "num": 690596,
       "word": "被忽视的消费者售后难题",
       "onboard_time": 1723786403,
       "rank": 42,
@@ -1984,6 +2088,14 @@
       "word": "延时记录局部强降雨震撼画面",
       "onboard_time": 1723755671,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43599,
+      "num": 1251966,
+      "word": "塞上江南写新篇",
+      "onboard_time": 1723794862,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2116,6 +2228,9 @@
     },
     {
       "word": "#跟着总书记足迹看绿色转型新图景#"
+    },
+    {
+      "word": "#跟着总书记感受文化中国#"
     }
   ]
 }
