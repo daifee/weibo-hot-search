@@ -1,6 +1,6 @@
 {
   "startTime": 1723825640005,
-  "endTime": 1723879029760,
+  "endTime": 1723880073257,
   "band_list": [
     {
       "raw_hot": 5105065,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 965980,
+      "num": 965980,
+      "word": "入住千万精装房后业主每天抓虫子",
+      "onboard_time": 1723876339,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 965649,
       "num": 965649,
       "word": "张根硕自曝1年前患甲状腺癌",
@@ -323,14 +331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 639994,
-      "num": 639994,
-      "word": "入住千万精装房后业主每天抓虫子",
-      "onboard_time": 1723876339,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 629928,
       "num": 850989,
       "word": "蔡徐坤 AVIA",
@@ -379,6 +379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 497630,
+      "num": 497630,
+      "word": "陈梦姜妍看刘谦魔术表演",
+      "onboard_time": 1723874599,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 488222,
       "num": 276055,
       "word": "张兰晒大S出轨证据",
@@ -387,20 +395,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 479597,
-      "num": 479597,
-      "word": "陈梦姜妍看刘谦魔术表演",
-      "onboard_time": 1723874599,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 473218,
       "num": 473218,
       "word": "食物语",
       "onboard_time": 1723825638,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 462013,
+      "num": 462013,
+      "word": "鬼节",
+      "onboard_time": 1723878140,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 453610,
+      "num": 453610,
+      "word": "入秋第一部爽剧来了",
+      "onboard_time": 1723878620,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 447352,
+      "num": 447352,
+      "word": "付航脱口秀炸翻了",
+      "onboard_time": 1723875200,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 446503,
@@ -459,14 +483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 403341,
-      "num": 403341,
-      "word": "付航脱口秀炸翻了",
-      "onboard_time": 1723875200,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 402040,
       "num": 593935,
       "word": "李承铉官宣TF三代导师",
@@ -523,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 366202,
+      "num": 366202,
+      "word": "老板娘穿着清凉被围观后暂时关门",
+      "onboard_time": 1723876160,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 354582,
       "num": 354582,
       "word": "父亲马路罚跪3个孩子竟为逼妻现身",
@@ -537,14 +561,6 @@
       "onboard_time": 1723817363,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 348838,
-      "num": 348838,
-      "word": "老板娘穿着清凉被围观后暂时关门",
-      "onboard_time": 1723876160,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 340484,
@@ -579,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 325311,
+      "num": 325311,
+      "word": "樊振东任上海市青联常委",
+      "onboard_time": 1723878140,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 324506,
       "num": 324506,
       "word": "单身烫嘴",
@@ -609,6 +633,14 @@
       "onboard_time": 1723867040,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 318584,
+      "num": 318584,
+      "word": "披哥把李佳琦爆改成了王嘉尔",
+      "onboard_time": 1723879219,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 317809,
@@ -779,14 +811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 259812,
-      "num": 259812,
-      "word": "鬼节",
-      "onboard_time": 1723878140,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 257820,
       "num": 392306,
       "word": "雅好帅",
@@ -835,12 +859,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 241605,
-      "num": 241605,
-      "word": "樊振东任上海市青联常委",
-      "onboard_time": 1723878140,
-      "rank": 27,
-      "category": "体育"
+      "raw_hot": 244353,
+      "num": 244353,
+      "word": "郭麒麟新剧吃饭擦手惹祸",
+      "onboard_time": 1723876640,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 236799,
@@ -883,20 +907,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228494,
+      "num": 228494,
+      "word": "张若昀 呦呦呦呦",
+      "onboard_time": 1723879042,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227764,
       "num": 227764,
       "word": "恋与制作人白起 适合相爱",
       "onboard_time": 1723870039,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 226285,
-      "num": 235000,
-      "word": "郭麒麟新剧吃饭擦手惹祸",
-      "onboard_time": 1723876640,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 216216,
@@ -953,14 +977,6 @@
       "onboard_time": 1723873460,
       "rank": 37,
       "category": "美食"
-    },
-    {
-      "raw_hot": 207763,
-      "num": 207763,
-      "word": "入秋第一部爽剧来了",
-      "onboard_time": 1723878620,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 206493,
@@ -1083,12 +1099,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 190342,
+      "num": 190342,
+      "word": "一直以为爸爸接下班是很小众的事",
+      "onboard_time": 1723877061,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 188374,
       "num": 188374,
       "word": "宋亚轩这个转圈",
       "onboard_time": 1723870820,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 186800,
+      "num": 186800,
+      "word": "终于有剧把塞嘴的那块布吐出来了",
+      "onboard_time": 1723879700,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 185439,
@@ -1115,14 +1147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 182624,
-      "num": 182624,
-      "word": "一直以为爸爸接下班是很小众的事",
-      "onboard_time": 1723877061,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 180132,
       "num": 304686,
       "word": "被彩带淹没的王一博",
@@ -1137,6 +1161,14 @@
       "onboard_time": 1723875798,
       "rank": 44,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 178412,
+      "num": 751855,
+      "word": "汝州通报疾控中心工作人员遭清退",
+      "onboard_time": 1723877600,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177174,
@@ -1168,6 +1200,14 @@
       "word": "苹果长出的蘑菇栽培出苹果白参菌",
       "onboard_time": 1723857920,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167960,
+      "num": 167960,
+      "word": "官方通报41名事业单位人员被清退",
+      "onboard_time": 1723878200,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1217,14 +1257,6 @@
       "onboard_time": 1723810821,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160803,
-      "num": 160803,
-      "word": "官方通报41名事业单位人员被清退",
-      "onboard_time": 1723878200,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160512,
@@ -1411,12 +1443,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132128,
+      "num": 132128,
+      "word": "哪种饮料对牙齿危害最大",
+      "onboard_time": 1723879759,
+      "rank": 46,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 131129,
       "num": 131129,
       "word": "八一七稻米节",
       "onboard_time": 1723850775,
       "rank": 23,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 130788,
+      "num": 130788,
+      "word": "邱贻可拿捏散装英语",
+      "onboard_time": 1723879940,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 130709,
@@ -1441,6 +1489,14 @@
       "onboard_time": 1723821203,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129514,
+      "num": 129514,
+      "word": "三生三世婚礼有点意思",
+      "onboard_time": 1723880001,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 128486,
@@ -1539,11 +1595,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 96092,
-      "num": 751855,
-      "word": "汝州通报疾控中心工作人员遭清退",
-      "onboard_time": 1723877600,
-      "rank": 8,
+      "raw_hot": 95458,
+      "num": 513714,
+      "word": "婚姻登记不再需要户口簿你怎么看",
+      "onboard_time": 1723878620,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1736,14 +1792,6 @@
       "word": "高空抛烟头致火灾这些情形下刑罚升格",
       "onboard_time": 1723833133,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32582,
-      "num": 513714,
-      "word": "婚姻登记不再需要户口簿你怎么看",
-      "onboard_time": 1723878620,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
