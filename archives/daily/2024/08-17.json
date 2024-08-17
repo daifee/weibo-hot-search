@@ -1,6 +1,6 @@
 {
   "startTime": 1723825640005,
-  "endTime": 1723876741178,
+  "endTime": 1723879029760,
   "band_list": [
     {
       "raw_hot": 5105065,
@@ -23,6 +23,14 @@
       "num": 2412237,
       "word": "郑钦文无缘辛辛那提站8强",
       "onboard_time": 1723860198,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2144197,
+      "num": 2144197,
+      "word": "樊振东副主任",
+      "onboard_time": 1723876822,
       "rank": 0,
       "category": "体育"
     },
@@ -131,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1160323,
+      "num": 1160323,
+      "word": "潘玮柏因体重退出跳水体验",
+      "onboard_time": 1723875979,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1156532,
       "num": 385918,
       "word": "有远亲找全红婵妈妈借35万",
@@ -153,6 +169,14 @@
       "onboard_time": 1723808479,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1069073,
+      "num": 909946,
+      "word": "终于理解林志玲为什么嫁给黑泽良平了",
+      "onboard_time": 1723875979,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 1069023,
@@ -251,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 831726,
+      "num": 831726,
+      "word": "章若楠杀进虎扑女神前三了",
+      "onboard_time": 1723876879,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 809031,
       "num": 384866,
       "word": "新房未入住被陌生人住了4天",
@@ -289,6 +321,14 @@
       "onboard_time": 1723859359,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 639994,
+      "num": 639994,
+      "word": "入住千万精装房后业主每天抓虫子",
+      "onboard_time": 1723876339,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 629928,
@@ -419,19 +459,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 403341,
+      "num": 403341,
+      "word": "付航脱口秀炸翻了",
+      "onboard_time": 1723875200,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 402040,
       "num": 593935,
       "word": "李承铉官宣TF三代导师",
       "onboard_time": 1723868241,
       "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 399882,
-      "num": 399882,
-      "word": "终于理解林志玲为什么嫁给黑泽良平了",
-      "onboard_time": 1723875979,
-      "rank": 15,
       "category": "综艺"
     },
     {
@@ -499,20 +539,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 348838,
+      "num": 348838,
+      "word": "老板娘穿着清凉被围观后暂时关门",
+      "onboard_time": 1723876160,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 340484,
       "num": 340484,
       "word": "那咋了",
       "onboard_time": 1723871480,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 333649,
-      "num": 333649,
-      "word": "潘玮柏因体重退出跳水体验",
-      "onboard_time": 1723875979,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 333245,
@@ -563,19 +603,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 320803,
-      "num": 370835,
-      "word": "付航脱口秀炸翻了",
-      "onboard_time": 1723875200,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 320749,
       "num": 320749,
       "word": "全红婵6岁到17岁的变化",
       "onboard_time": 1723867040,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 317809,
+      "num": 317809,
+      "word": "WTT",
+      "onboard_time": 1723877300,
+      "rank": 21,
       "category": "体育"
     },
     {
@@ -739,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 259812,
+      "num": 259812,
+      "word": "鬼节",
+      "onboard_time": 1723878140,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257820,
       "num": 392306,
       "word": "雅好帅",
@@ -763,6 +811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 249563,
+      "num": 249563,
+      "word": "英国拿一枚奥运金牌成本高达1755万",
+      "onboard_time": 1723877180,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 248205,
       "num": 283890,
       "word": "向佐告别披荆斩棘",
@@ -777,6 +833,14 @@
       "onboard_time": 1723814421,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241605,
+      "num": 241605,
+      "word": "樊振东任上海市青联常委",
+      "onboard_time": 1723878140,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 236799,
@@ -827,6 +891,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 226285,
+      "num": 235000,
+      "word": "郭麒麟新剧吃饭擦手惹祸",
+      "onboard_time": 1723876640,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 216216,
+      "num": 233632,
+      "word": "负负得正 女性不再被选择",
+      "onboard_time": 1723877720,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 214737,
       "num": 214737,
       "word": "关晓彤AI身材比例",
@@ -875,6 +955,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 207763,
+      "num": 207763,
+      "word": "入秋第一部爽剧来了",
+      "onboard_time": 1723878620,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206493,
       "num": 218786,
       "word": "小白 标准蛇系美人",
@@ -889,6 +977,14 @@
       "onboard_time": 1723863559,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204140,
+      "num": 204140,
+      "word": "檀健次演唱会活动",
+      "onboard_time": 1723878441,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 203831,
@@ -1019,6 +1115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182624,
+      "num": 182624,
+      "word": "一直以为爸爸接下班是很小众的事",
+      "onboard_time": 1723877061,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 180132,
       "num": 304686,
       "word": "被彩带淹没的王一博",
@@ -1091,6 +1195,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 161495,
+      "num": 161495,
+      "word": "平次吃醋柯南吃瓜",
+      "onboard_time": 1723878082,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 161060,
       "num": 161060,
       "word": "美允许服用兴奋剂运动员参赛当线人",
@@ -1107,11 +1219,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160735,
-      "num": 160735,
-      "word": "老板娘穿着清凉被围观后暂时关门",
-      "onboard_time": 1723876160,
-      "rank": 45,
+      "raw_hot": 160803,
+      "num": 160803,
+      "word": "官方通报41名事业单位人员被清退",
+      "onboard_time": 1723878200,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1163,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155147,
+      "num": 265425,
+      "word": "胡一天 小DAY总",
+      "onboard_time": 1723876339,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154571,
       "num": 154571,
       "word": "名侦探柯南 百万美元的五棱星",
@@ -1209,14 +1329,6 @@
       "onboard_time": 1723863019,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 147736,
-      "num": 147736,
-      "word": "郭麒麟新剧吃饭擦手惹祸",
-      "onboard_time": 1723876640,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 147115,
@@ -1387,14 +1499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 110676,
-      "num": 265425,
-      "word": "胡一天 小DAY总",
-      "onboard_time": 1723876339,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 106806,
       "num": 126895,
       "word": "陈梦说东京奥运会后三年很煎熬",
@@ -1435,18 +1539,18 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96092,
+      "num": 751855,
+      "word": "汝州通报疾控中心工作人员遭清退",
+      "onboard_time": 1723877600,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93633,
       "num": 790119,
       "word": "结婚不再需要户口本意味着什么",
       "onboard_time": 1723871240,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 84407,
-      "num": 471919,
-      "word": "入住千万精装房后业主每天抓虫子",
-      "onboard_time": 1723876339,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -1632,6 +1736,14 @@
       "word": "高空抛烟头致火灾这些情形下刑罚升格",
       "onboard_time": 1723833133,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32582,
+      "num": 513714,
+      "word": "婚姻登记不再需要户口簿你怎么看",
+      "onboard_time": 1723878620,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
