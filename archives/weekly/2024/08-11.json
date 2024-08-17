@@ -1,6 +1,6 @@
 {
   "startTime": 1723307155481,
-  "endTime": 1723893407945,
+  "endTime": 1723894496787,
   "band_list": [
     {
       "raw_hot": 25984443,
@@ -827,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2097281,
+      "num": 2097281,
+      "word": "中奖2.2亿不交个税成历史",
+      "onboard_time": 1723887318,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2077435,
       "num": 1153650,
       "word": "张博恒扫楼",
@@ -937,14 +945,6 @@
       "onboard_time": 1723372462,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1956823,
-      "num": 1956823,
-      "word": "中奖2.2亿不交个税成历史",
-      "onboard_time": 1723887318,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1956027,
@@ -5555,6 +5555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 525837,
+      "num": 339533,
+      "word": "乌合麒麟 盗墓笔记新图",
+      "onboard_time": 1723892961,
+      "rank": 31,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 523636,
       "num": 385459,
       "word": "汪苏泷 雨神",
@@ -5625,6 +5633,14 @@
       "onboard_time": 1723385307,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 514847,
+      "num": 338794,
+      "word": "檀健次演唱会活动",
+      "onboard_time": 1723878441,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 513173,
@@ -6347,14 +6363,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 432943,
-      "num": 336194,
-      "word": "檀健次演唱会活动",
-      "onboard_time": 1723878441,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 432877,
       "num": 432877,
       "word": "家昱户筱领证被误会成离婚",
@@ -6593,6 +6601,14 @@
       "onboard_time": 1723422803,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 416168,
+      "num": 338328,
+      "word": "宋茜花少录制结束回国",
+      "onboard_time": 1723892479,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 415954,
@@ -8601,6 +8617,14 @@
       "onboard_time": 1723790001,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 308247,
+      "num": 275030,
+      "word": "李晨去了时代少年团演唱会",
+      "onboard_time": 1723893739,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 307786,
@@ -11147,14 +11171,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 235430,
-      "num": 235430,
-      "word": "宋茜花少录制结束回国",
-      "onboard_time": 1723892479,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 235390,
       "num": 235390,
       "word": "陈若琳回复陈梦",
@@ -11225,6 +11241,14 @@
       "onboard_time": 1723393821,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 234090,
+      "num": 234090,
+      "word": "穿着清凉老板娘已更改衣着风格",
+      "onboard_time": 1723889000,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233671,
@@ -11611,6 +11635,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 226456,
+      "num": 226456,
+      "word": "狗狗们的墓碑上都放了小木棍",
+      "onboard_time": 1723891099,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 226375,
       "num": 880898,
       "word": "小伙体验按摩被说有扁平疣付九千六",
@@ -11729,6 +11761,14 @@
       "onboard_time": 1723449087,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 224320,
+      "num": 224320,
+      "word": "长期佩戴这种眼镜会加重近视",
+      "onboard_time": 1723893800,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 224226,
@@ -12819,14 +12859,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 206048,
-      "num": 206048,
-      "word": "乌合麒麟 盗墓笔记新图",
-      "onboard_time": 1723892961,
-      "rank": 31,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 206033,
       "num": 245279,
       "word": "ENHYPEN Highway1009",
@@ -13057,6 +13089,14 @@
       "onboard_time": 1723615100,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203282,
+      "num": 203282,
+      "word": "817稻米节",
+      "onboard_time": 1723894159,
+      "rank": 30,
+      "category": "读书作家"
     },
     {
       "raw_hot": 203257,
@@ -13297,6 +13337,14 @@
       "onboard_time": 1723393101,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200618,
+      "num": 200618,
+      "word": "柯南",
+      "onboard_time": 1723893318,
+      "rank": 40,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 200566,
@@ -14603,14 +14651,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 183896,
-      "num": 183896,
-      "word": "狗狗们的墓碑上都放了小木棍",
-      "onboard_time": 1723891099,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 183742,
       "num": 183742,
       "word": "大布小布头像背景是五星红旗",
@@ -15483,6 +15523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 168097,
+      "num": 168097,
+      "word": "魏哲鸣唱爱在西元前",
+      "onboard_time": 1723893199,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167948,
       "num": 283038,
       "word": "平次表白",
@@ -15720,22 +15768,6 @@
       "word": "男子打球后喝了口冰饮料心肌梗死",
       "onboard_time": 1723574892,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 162598,
-      "num": 162598,
-      "word": "魏哲鸣唱爱在西元前",
-      "onboard_time": 1723893199,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 161543,
-      "num": 161543,
-      "word": "穿着清凉老板娘已更改衣着风格",
-      "onboard_time": 1723889000,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -15979,14 +16011,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 156905,
-      "num": 156905,
-      "word": "柯南",
-      "onboard_time": 1723893318,
-      "rank": 40,
-      "category": "电影,动漫"
-    },
-    {
       "raw_hot": 156757,
       "num": 156757,
       "word": "白鹿在帮朋友打歌赛道越来越卷",
@@ -16091,6 +16115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 154886,
+      "num": 154886,
+      "word": "奥运击剑冠军履新职",
+      "onboard_time": 1723891457,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154672,
       "num": 154672,
       "word": "为什么年轻人不买奢侈品了",
@@ -16179,6 +16211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 152425,
+      "num": 152425,
+      "word": "盗墓笔记 但是小团子版",
+      "onboard_time": 1723894100,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 152079,
       "num": 152079,
       "word": "王鹤棣广东综艺路透",
@@ -16203,14 +16243,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 151527,
-      "num": 151527,
-      "word": "奥运击剑冠军履新职",
-      "onboard_time": 1723891457,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 151444,
       "num": 598336,
       "word": "黄朔 玩抽象",
@@ -16225,6 +16257,14 @@
       "onboard_time": 1723736419,
       "rank": 36,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 150899,
+      "num": 150899,
+      "word": "为啥奥运结束樊振东他们依然这么火",
+      "onboard_time": 1723891157,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 150871,
@@ -16281,6 +16321,14 @@
       "onboard_time": 1723807880,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 150159,
+      "num": 150159,
+      "word": "双子座会在爱的过程中抗拒",
+      "onboard_time": 1723892719,
+      "rank": 44,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 149893,
@@ -16825,14 +16873,6 @@
       "onboard_time": 1723808301,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 136019,
-      "num": 136019,
-      "word": "为啥奥运结束樊振东他们依然这么火",
-      "onboard_time": 1723891157,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 135457,
@@ -18403,6 +18443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65908,
+      "num": 340336,
+      "word": "22岁小伙3次潜水救人",
+      "onboard_time": 1723893259,
+      "rank": 21,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 65703,
       "num": 1376340,
       "word": "文化中国行看见大美山河",
@@ -18905,14 +18953,6 @@
       "onboard_time": 1723703181,
       "rank": 29,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 52011,
-      "num": 259743,
-      "word": "22岁小伙3次潜水救人",
-      "onboard_time": 1723893259,
-      "rank": 21,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 52006,

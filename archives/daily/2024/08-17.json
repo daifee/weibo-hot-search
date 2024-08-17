@@ -1,6 +1,6 @@
 {
   "startTime": 1723825640005,
-  "endTime": 1723893407945,
+  "endTime": 1723894496787,
   "band_list": [
     {
       "raw_hot": 5105065,
@@ -43,20 +43,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2097281,
+      "num": 2097281,
+      "word": "中奖2.2亿不交个税成历史",
+      "onboard_time": 1723887318,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2023931,
       "num": 2023931,
       "word": "邓亚萍18岁儿子获乒乓球全国冠军",
       "onboard_time": 1723853358,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1956823,
-      "num": 1956823,
-      "word": "中奖2.2亿不交个税成历史",
-      "onboard_time": 1723887318,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1956027,
@@ -451,11 +451,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 525837,
+      "num": 339533,
+      "word": "乌合麒麟 盗墓笔记新图",
+      "onboard_time": 1723892961,
+      "rank": 31,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 523636,
       "num": 385459,
       "word": "汪苏泷 雨神",
       "onboard_time": 1723887619,
       "rank": 16,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 514847,
+      "num": 338794,
+      "word": "檀健次演唱会活动",
+      "onboard_time": 1723878441,
+      "rank": 33,
       "category": "演出"
     },
     {
@@ -539,14 +555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 432943,
-      "num": 336194,
-      "word": "檀健次演唱会活动",
-      "onboard_time": 1723878441,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 432877,
       "num": 432877,
       "word": "家昱户筱领证被误会成离婚",
@@ -561,6 +569,14 @@
       "onboard_time": 1723850296,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 416168,
+      "num": 338328,
+      "word": "宋茜花少录制结束回国",
+      "onboard_time": 1723892479,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 408451,
@@ -795,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308247,
+      "num": 275030,
+      "word": "李晨去了时代少年团演唱会",
+      "onboard_time": 1723893739,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 304573,
       "num": 304573,
       "word": "解决天价彩礼等问题有了新思路",
@@ -1027,12 +1051,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 235430,
-      "num": 235430,
-      "word": "宋茜花少录制结束回国",
-      "onboard_time": 1723892479,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 234090,
+      "num": 234090,
+      "word": "穿着清凉老板娘已更改衣着风格",
+      "onboard_time": 1723889000,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232542,
@@ -1081,6 +1105,22 @@
       "onboard_time": 1723870039,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 226456,
+      "num": 226456,
+      "word": "狗狗们的墓碑上都放了小木棍",
+      "onboard_time": 1723891099,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 224320,
+      "num": 224320,
+      "word": "长期佩戴这种眼镜会加重近视",
+      "onboard_time": 1723893800,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 221316,
@@ -1171,14 +1211,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 206048,
-      "num": 206048,
-      "word": "乌合麒麟 盗墓笔记新图",
-      "onboard_time": 1723892961,
-      "rank": 31,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 205752,
       "num": 205752,
       "word": "国际体育仲裁法庭宣布美国队申诉无效",
@@ -1209,6 +1241,14 @@
       "onboard_time": 1723887198,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 203282,
+      "num": 203282,
+      "word": "817稻米节",
+      "onboard_time": 1723894159,
+      "rank": 30,
+      "category": "读书作家"
     },
     {
       "raw_hot": 202919,
@@ -1257,6 +1297,14 @@
       "onboard_time": 1723823060,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200618,
+      "num": 200618,
+      "word": "柯南",
+      "onboard_time": 1723893318,
+      "rank": 40,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 200035,
@@ -1411,14 +1459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183896,
-      "num": 183896,
-      "word": "狗狗们的墓碑上都放了小木棍",
-      "onboard_time": 1723891099,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 182918,
       "num": 182918,
       "word": "严浩翔手机别下反诈APP",
@@ -1531,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168097,
+      "num": 168097,
+      "word": "魏哲鸣唱爱在西元前",
+      "onboard_time": 1723893199,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167948,
       "num": 283038,
       "word": "平次表白",
@@ -1561,22 +1609,6 @@
       "onboard_time": 1723883361,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 162598,
-      "num": 162598,
-      "word": "魏哲鸣唱爱在西元前",
-      "onboard_time": 1723893199,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 161543,
-      "num": 161543,
-      "word": "穿着清凉老板娘已更改衣着风格",
-      "onboard_time": 1723889000,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161495,
@@ -1659,14 +1691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156905,
-      "num": 156905,
-      "word": "柯南",
-      "onboard_time": 1723893318,
-      "rank": 40,
-      "category": "电影,动漫"
-    },
-    {
       "raw_hot": 156326,
       "num": 156326,
       "word": "刘诗雯学马龙庆祝动作",
@@ -1681,6 +1705,14 @@
       "onboard_time": 1723889599,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 154886,
+      "num": 154886,
+      "word": "奥运击剑冠军履新职",
+      "onboard_time": 1723891457,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 154571,
@@ -1707,11 +1739,19 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 151527,
-      "num": 151527,
-      "word": "奥运击剑冠军履新职",
-      "onboard_time": 1723891457,
-      "rank": 43,
+      "raw_hot": 152425,
+      "num": 152425,
+      "word": "盗墓笔记 但是小团子版",
+      "onboard_time": 1723894100,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 150899,
+      "num": 150899,
+      "word": "为啥奥运结束樊振东他们依然这么火",
+      "onboard_time": 1723891157,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -1721,6 +1761,14 @@
       "onboard_time": 1723876579,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150159,
+      "num": 150159,
+      "word": "双子座会在爱的过程中抗拒",
+      "onboard_time": 1723892719,
+      "rank": 44,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 149586,
@@ -1849,14 +1897,6 @@
       "onboard_time": 1723805602,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136019,
-      "num": 136019,
-      "word": "为啥奥运结束樊振东他们依然这么火",
-      "onboard_time": 1723891157,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 134606,
@@ -2115,6 +2155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 65908,
+      "num": 340336,
+      "word": "22岁小伙3次潜水救人",
+      "onboard_time": 1723893259,
+      "rank": 21,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 63475,
       "num": 181186,
       "word": "律师解读酒店泄露密码女子险被强奸",
@@ -2185,14 +2233,6 @@
       "onboard_time": 1723873759,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 52011,
-      "num": 259743,
-      "word": "22岁小伙3次潜水救人",
-      "onboard_time": 1723893259,
-      "rank": 21,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 50689,
