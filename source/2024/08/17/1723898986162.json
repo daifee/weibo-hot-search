@@ -1,0 +1,410 @@
+{
+  "runTime": 1723898986162,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1681572,
+        "num": 1681572,
+        "word": "严浩翔贺峻霖耻辱柱舞台",
+        "onboard_time": 1723898361,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1204202,
+        "num": 1204202,
+        "word": "PUBG崩了",
+        "onboard_time": 1723897580,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22246,
+        "num": 1101812,
+        "word": "中国问天之路越走越深远",
+        "onboard_time": 1723882999,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1435982,
+        "num": 1077740,
+        "word": "范丞丞恋情风波后首露面",
+        "onboard_time": 1723895060,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1034527,
+        "num": 1034527,
+        "word": "中奖2.2亿不交个税成历史",
+        "onboard_time": 1723887318,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 935948,
+        "num": 935948,
+        "word": "樊振东 偶像剧的既视感",
+        "onboard_time": 1723898420,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 620526,
+        "num": 620526,
+        "word": "乌合麒麟 盗墓笔记新图",
+        "onboard_time": 1723892961,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 619463,
+        "num": 619463,
+        "word": "马龙 电影里都演不出来的眼神",
+        "onboard_time": 1723882700,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 682688,
+        "num": 610457,
+        "word": "穿着清凉老板娘已更改衣着风格",
+        "onboard_time": 1723889000,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600419,
+        "num": 600419,
+        "word": "鬼节",
+        "onboard_time": 1723878140,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564737,
+        "num": 564737,
+        "word": "翔霖",
+        "onboard_time": 1723898540,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 546300,
+        "num": 546300,
+        "word": "王铮亮好惨的第一",
+        "onboard_time": 1723889418,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 409657,
+        "num": 409657,
+        "word": "范丞丞工作室告黑维权",
+        "onboard_time": 1723875439,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403227,
+        "num": 403227,
+        "word": "邝玲玲 下一站天后",
+        "onboard_time": 1723896320,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22759,
+        "num": 400059,
+        "word": "当代大学生的宿舍关系就像包办婚姻",
+        "onboard_time": 1723898481,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398295,
+        "num": 398295,
+        "word": "终于理解林志玲为什么嫁给黑泽良平了",
+        "onboard_time": 1723875979,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397041,
+        "num": 397041,
+        "word": "檀健次演唱会活动",
+        "onboard_time": 1723878441,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 389689,
+        "num": 389689,
+        "word": "丫丫已经判若两熊了",
+        "onboard_time": 1723872081,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 338341,
+        "num": 338341,
+        "word": "事业单位人员被集体清退当事人发声",
+        "onboard_time": 1723897580,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213394,
+        "num": 335391,
+        "word": "打1400公里顺风车逃单男子已被行拘",
+        "onboard_time": 1723897040,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1653623,
+        "num": 331816,
+        "word": "印尼74岁老太被蟒蛇吞下身亡",
+        "onboard_time": 1723893499,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 917463,
+        "num": 326786,
+        "word": "长期佩戴这种眼镜会加重近视",
+        "onboard_time": 1723893800,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 233896,
+        "num": 321994,
+        "word": "外媒分析乌克兰何以轻易攻入俄罗斯",
+        "onboard_time": 1723896561,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 320807,
+        "num": 320807,
+        "word": "打1400公里顺风车逃单乘客已付车费",
+        "onboard_time": 1723880659,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349863,
+        "num": 317633,
+        "word": "余宇涵泪崩",
+        "onboard_time": 1723896740,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 306720,
+        "num": 306720,
+        "word": "虞书欣正式被确诊为袁湘琴",
+        "onboard_time": 1723898240,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288482,
+        "num": 288482,
+        "word": "李晨去了时代少年团演唱会",
+        "onboard_time": 1723893739,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 268934,
+        "num": 268934,
+        "word": "樊振东任上海市青联常委",
+        "onboard_time": 1723878140,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247074,
+        "num": 247074,
+        "word": "萧敬腾演唱会遇上广州暴雨",
+        "onboard_time": 1723896979,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 232764,
+        "num": 232764,
+        "word": "BLG对战WBG",
+        "onboard_time": 1723895720,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 228525,
+        "num": 228525,
+        "word": "异形太吓人了",
+        "onboard_time": 1723865539,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199669,
+        "num": 199669,
+        "word": "章若楠杀进虎扑女神前三了",
+        "onboard_time": 1723876879,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195240,
+        "num": 195240,
+        "word": "刘耀文 壮壮妈发型",
+        "onboard_time": 1723892359,
+        "rank": 32,
+        "category": "演出,时尚"
+      },
+      {
+        "raw_hot": 194660,
+        "num": 194660,
+        "word": "宋茜花少录制结束回国",
+        "onboard_time": 1723892479,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177577,
+        "num": 177577,
+        "word": "WTT",
+        "onboard_time": 1723877300,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176849,
+        "num": 176849,
+        "word": "aespa东京巨蛋饭拍",
+        "onboard_time": 1723897880,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176450,
+        "num": 176450,
+        "word": "王皓用橘子占卜马龙比赛",
+        "onboard_time": 1723897941,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176091,
+        "num": 176091,
+        "word": "金价又新高了",
+        "onboard_time": 1723895180,
+        "rank": 37,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 168931,
+        "num": 168931,
+        "word": "入秋第一部爽剧来了",
+        "onboard_time": 1723878620,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168083,
+        "num": 168083,
+        "word": "汪苏泷 雨神",
+        "onboard_time": 1723887619,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 165363,
+        "num": 165363,
+        "word": "马龙微博粉丝破千万",
+        "onboard_time": 1723895000,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162317,
+        "num": 162317,
+        "word": "多家影院不建议带孩子看异形",
+        "onboard_time": 1723887859,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158716,
+        "num": 158716,
+        "word": "双子座会在爱的过程中抗拒",
+        "onboard_time": 1723892719,
+        "rank": 42,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 146770,
+        "num": 146770,
+        "word": "旅行的意义",
+        "onboard_time": 1723898420,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 146705,
+        "num": 146705,
+        "word": "柯南",
+        "onboard_time": 1723893318,
+        "rank": 44,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 141272,
+        "num": 141272,
+        "word": "乒协就近期饭圈乱象发声",
+        "onboard_time": 1723871000,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138277,
+        "num": 138277,
+        "word": "付航刘旸 既生瑜何生亮",
+        "onboard_time": 1723898540,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135604,
+        "num": 135604,
+        "word": "终于有剧把塞嘴的那块布吐出来了",
+        "onboard_time": 1723879700,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136227,
+        "num": 134787,
+        "word": "庞博 没关系会过去的",
+        "onboard_time": 1723887437,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132410,
+        "num": 132410,
+        "word": "美核武器政策将其企图暴露无遗",
+        "onboard_time": 1723898960,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻文化根魂#"
+    }
+  }
+}
