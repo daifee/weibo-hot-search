@@ -1,0 +1,410 @@
+{
+  "runTime": 1723875974465,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2110624,
+        "num": 2110624,
+        "word": "大熊猫福茹去世",
+        "onboard_time": 1723870880,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1465034,
+        "num": 1465034,
+        "word": "丫丫已经判若两熊了",
+        "onboard_time": 1723872081,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 7900,
+        "num": 1286724,
+        "word": "文脉华章",
+        "onboard_time": 1723866561,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1555654,
+        "num": 1276403,
+        "word": "被举报暴露杭州超市老板娘发声",
+        "onboard_time": 1723861220,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1219244,
+        "num": 1219244,
+        "word": "范丞丞工作室告黑维权",
+        "onboard_time": 1723875439,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1069023,
+        "num": 1069023,
+        "word": "高铁即将关门2岁娃突然跑下车",
+        "onboard_time": 1723868900,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 842621,
+        "num": 842621,
+        "word": "异形太吓人了",
+        "onboard_time": 1723865539,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 630652,
+        "num": 630652,
+        "word": "女子小区里晒背遭汽车碾轧",
+        "onboard_time": 1723865359,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598524,
+        "num": 598524,
+        "word": "清清道歉",
+        "onboard_time": 1723874479,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94882,
+        "num": 563890,
+        "word": "身骑白马的追风女孩太飒了",
+        "onboard_time": 1723875140,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2907592,
+        "num": 562161,
+        "word": "乒协就近期饭圈乱象发声",
+        "onboard_time": 1723871000,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 560425,
+        "num": 560425,
+        "word": "结婚自由离婚不自由还能说婚姻自由吗",
+        "onboard_time": 1723819883,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559209,
+        "num": 559209,
+        "word": "范丞丞zzoexxll蝴蝶纹身",
+        "onboard_time": 1723857138,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446397,
+        "num": 446397,
+        "word": "肖战李宁财报",
+        "onboard_time": 1723872800,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40757,
+        "num": 438493,
+        "word": "性格稳定的人不容易中风",
+        "onboard_time": 1723874840,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437815,
+        "num": 437815,
+        "word": "老板娘穿着清凉被围观附近商户发声",
+        "onboard_time": 1723867639,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416914,
+        "num": 416914,
+        "word": "陈梦姜妍看刘谦魔术表演",
+        "onboard_time": 1723874599,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 404294,
+        "num": 404294,
+        "word": "酒店竟用马桶刷蘸马桶水刷马桶",
+        "onboard_time": 1723852877,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398264,
+        "num": 398264,
+        "word": "向佐淘汰",
+        "onboard_time": 1723873640,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278952,
+        "num": 350236,
+        "word": "张根硕自曝1年前患甲状腺癌",
+        "onboard_time": 1723865539,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340484,
+        "num": 340484,
+        "word": "那咋了",
+        "onboard_time": 1723871480,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 331167,
+        "num": 331167,
+        "word": "樊振东 横空出世",
+        "onboard_time": 1723867098,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330508,
+        "num": 330508,
+        "word": "官方称设离婚冷静期是为减少冲动离婚",
+        "onboard_time": 1723861821,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317069,
+        "num": 317069,
+        "word": "学韩语的看到天都塌了",
+        "onboard_time": 1723868359,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 311702,
+        "num": 311702,
+        "word": "iPhone16ProMax或新增古铜色",
+        "onboard_time": 1723870700,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 35868,
+        "num": 311431,
+        "word": "海蓝之谜新品活动",
+        "onboard_time": 1723871060,
+        "rank": 25,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 259810,
+        "num": 310949,
+        "word": "林大厨被锁",
+        "onboard_time": 1723869921,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55084,
+        "num": 310685,
+        "word": "周震南歌词好会写",
+        "onboard_time": 1723873759,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200280,
+        "num": 310241,
+        "word": "付航脱口秀炸翻了",
+        "onboard_time": 1723875200,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310141,
+        "num": 310141,
+        "word": "女子直播间买珍珠一抠竟掉皮",
+        "onboard_time": 1723870280,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293490,
+        "num": 293490,
+        "word": "曝汪小菲朝餐厅店员发火",
+        "onboard_time": 1723869981,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283561,
+        "num": 283561,
+        "word": "教练说王昶梁伟铿输决赛的原因",
+        "onboard_time": 1723868241,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263111,
+        "num": 263111,
+        "word": "郑钦文无缘辛辛那提站8强",
+        "onboard_time": 1723860198,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223089,
+        "num": 223089,
+        "word": "邓亚萍18岁儿子获乒乓球全国冠军",
+        "onboard_time": 1723853358,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84315,
+        "num": 210376,
+        "word": "不管是谁请你从曾舜晞身上下来",
+        "onboard_time": 1723873939,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209806,
+        "num": 209806,
+        "word": "民政部回应设置离婚冷静期",
+        "onboard_time": 1723836552,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207987,
+        "num": 207987,
+        "word": "离婚冷静期和离婚自由不冲突",
+        "onboard_time": 1723863019,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207794,
+        "num": 207794,
+        "word": "去过福建的人嘴真严啊",
+        "onboard_time": 1723873460,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 202119,
+        "num": 202119,
+        "word": "奥运结束后空荡荡的巴黎",
+        "onboard_time": 1723860620,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200035,
+        "num": 200035,
+        "word": "符龙飞组为啥分这么低",
+        "onboard_time": 1723873159,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190196,
+        "num": 190196,
+        "word": "李承铉官宣TF三代导师",
+        "onboard_time": 1723868241,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187190,
+        "num": 187190,
+        "word": "宁桓宇从160斤瘦到有腹肌",
+        "onboard_time": 1723871719,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176252,
+        "num": 176252,
+        "word": "范丞丞恋情瓜关系网总结",
+        "onboard_time": 1723808479,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174184,
+        "num": 174184,
+        "word": "九部出现了多少种未成年问题",
+        "onboard_time": 1723865720,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168624,
+        "num": 168624,
+        "word": "妈妈二十年前的衣服也不过时",
+        "onboard_time": 1723875798,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 165579,
+        "num": 165579,
+        "word": "谁向往 谁买单",
+        "onboard_time": 1723871360,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164491,
+        "num": 164491,
+        "word": "李克勤 我眼光没这么差的",
+        "onboard_time": 1723875920,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161161,
+        "num": 161161,
+        "word": "蔡徐坤 AVIA",
+        "onboard_time": 1723856778,
+        "rank": 47,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 160415,
+        "num": 160415,
+        "word": "村干部回应谢瑜家夺金后一夜翻新",
+        "onboard_time": 1723867098,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158637,
+        "num": 158637,
+        "word": "看来工业大摸底还是没摸干净",
+        "onboard_time": 1723874180,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈生态文明#"
+    }
+  }
+}

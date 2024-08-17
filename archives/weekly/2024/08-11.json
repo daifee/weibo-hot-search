@@ -1,6 +1,6 @@
 {
   "startTime": 1723307155481,
-  "endTime": 1723872980532,
+  "endTime": 1723875974465,
   "band_list": [
     {
       "raw_hot": 25984443,
@@ -811,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2110624,
+      "num": 2110624,
+      "word": "大熊猫福茹去世",
+      "onboard_time": 1723870880,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2077435,
       "num": 1153650,
       "word": "张博恒扫楼",
@@ -1137,14 +1145,6 @@
       "onboard_time": 1723389573,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1791407,
-      "num": 1791407,
-      "word": "大熊猫福茹去世",
-      "onboard_time": 1723870880,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1755346,
@@ -1617,6 +1617,14 @@
       "onboard_time": 1723771160,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1465034,
+      "num": 1465034,
+      "word": "丫丫已经判若两熊了",
+      "onboard_time": 1723872081,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 1452832,
@@ -2187,6 +2195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1219244,
+      "num": 1219244,
+      "word": "范丞丞工作室告黑维权",
+      "onboard_time": 1723875439,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1218189,
       "num": 1218189,
       "word": "闭幕式 齐天大圣从天而降",
@@ -2673,6 +2689,14 @@
       "onboard_time": 1723336159,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1069023,
+      "num": 1069023,
+      "word": "高铁即将关门2岁娃突然跑下车",
+      "onboard_time": 1723868900,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1064381,
@@ -4171,14 +4195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 701517,
-      "num": 701517,
-      "word": "高铁即将关门2岁娃突然跑下车",
-      "onboard_time": 1723868900,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 701133,
       "num": 1170977,
       "word": "日军曾给中国人喝毒药做实验",
@@ -4193,14 +4209,6 @@
       "onboard_time": 1723642159,
       "rank": 34,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 698790,
-      "num": 698790,
-      "word": "丫丫已经判若两熊了",
-      "onboard_time": 1723872081,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 698432,
@@ -4873,6 +4881,14 @@
       "onboard_time": 1723399814,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 598524,
+      "num": 598524,
+      "word": "清清道歉",
+      "onboard_time": 1723874479,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 598158,
@@ -5979,6 +5995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 446397,
+      "num": 605066,
+      "word": "肖战李宁财报",
+      "onboard_time": 1723872800,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 445616,
       "num": 362516,
       "word": "第一次见定档公开聊天记录的",
@@ -6403,6 +6427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 416914,
+      "num": 416914,
+      "word": "陈梦姜妍看刘谦魔术表演",
+      "onboard_time": 1723874599,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 415954,
       "num": 415954,
       "word": "姿态羞辱otto",
@@ -6601,6 +6633,14 @@
       "onboard_time": 1723308920,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 398264,
+      "num": 398264,
+      "word": "向佐淘汰",
+      "onboard_time": 1723873640,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 397619,
@@ -7123,14 +7163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 365436,
-      "num": 605066,
-      "word": "肖战李宁财报",
-      "onboard_time": 1723872800,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 365362,
       "num": 365362,
       "word": "常州雷击造成一凉亭坍塌致6死10伤",
@@ -7571,6 +7603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 340484,
+      "num": 340484,
+      "word": "那咋了",
+      "onboard_time": 1723871480,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 339699,
       "num": 705130,
       "word": "美国男篮奥运冠军",
@@ -7971,14 +8011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 324340,
-      "num": 324340,
-      "word": "那咋了",
-      "onboard_time": 1723871480,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 323812,
       "num": 599888,
       "word": "异人之下2变更剧名",
@@ -8313,6 +8345,14 @@
       "onboard_time": 1723852998,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 310141,
+      "num": 310141,
+      "word": "女子直播间买珍珠一抠竟掉皮",
+      "onboard_time": 1723870280,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 309829,
@@ -10723,14 +10763,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 238503,
-      "num": 238503,
-      "word": "女子直播间买珍珠一抠竟掉皮",
-      "onboard_time": 1723870280,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 238256,
       "num": 238256,
       "word": "早田希娜开通微博是樊振东建议的",
@@ -12331,6 +12363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207794,
+      "num": 207794,
+      "word": "去过福建的人嘴真严啊",
+      "onboard_time": 1723873460,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 207741,
       "num": 207741,
       "word": "归龙潮公测定档",
@@ -12921,6 +12961,22 @@
       "onboard_time": 1723775420,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200280,
+      "num": 310241,
+      "word": "付航脱口秀炸翻了",
+      "onboard_time": 1723875200,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 200035,
+      "num": 200035,
+      "word": "符龙飞组为啥分这么低",
+      "onboard_time": 1723873159,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 200028,
@@ -14875,6 +14931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168624,
+      "num": 168624,
+      "word": "妈妈二十年前的衣服也不过时",
+      "onboard_time": 1723875798,
+      "rank": 44,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 168539,
       "num": 168539,
       "word": "极氪回应发新车",
@@ -15065,6 +15129,14 @@
       "onboard_time": 1723476203,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 164491,
+      "num": 164491,
+      "word": "李克勤 我眼光没这么差的",
+      "onboard_time": 1723875920,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 164265,
@@ -15273,6 +15345,14 @@
       "onboard_time": 1723425621,
       "rank": 47,
       "category": "军事"
+    },
+    {
+      "raw_hot": 158637,
+      "num": 158637,
+      "word": "看来工业大摸底还是没摸干净",
+      "onboard_time": 1723874180,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 158393,
@@ -16931,6 +17011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94882,
+      "num": 563890,
+      "word": "身骑白马的追风女孩太飒了",
+      "onboard_time": 1723875140,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94759,
       "num": 1506145,
       "word": "东京超市限购瓶装水",
@@ -17185,6 +17273,14 @@
       "onboard_time": 1723608260,
       "rank": 19,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 84315,
+      "num": 210376,
+      "word": "不管是谁请你从曾舜晞身上下来",
+      "onboard_time": 1723873939,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 84212,
@@ -18027,6 +18123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55084,
+      "num": 310685,
+      "word": "周震南歌词好会写",
+      "onboard_time": 1723873759,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 54559,
       "num": 890491,
       "word": "美方称没参与乌军袭击库尔斯克",
@@ -18489,6 +18593,14 @@
       "onboard_time": 1723322471,
       "rank": 9,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 40757,
+      "num": 438493,
+      "word": "性格稳定的人不容易中风",
+      "onboard_time": 1723874840,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40718,
