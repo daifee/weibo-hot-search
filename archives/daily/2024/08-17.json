@@ -1,6 +1,6 @@
 {
   "startTime": 1723825640005,
-  "endTime": 1723890106335,
+  "endTime": 1723891066926,
   "band_list": [
     {
       "raw_hot": 5105065,
@@ -219,6 +219,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1032168,
+      "num": 474423,
+      "word": "王铮亮好惨的第一",
+      "onboard_time": 1723889418,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 985565,
       "num": 985565,
       "word": "民政部回应设置离婚冷静期",
@@ -256,6 +264,14 @@
       "word": "民政部解读结婚登记不需要户口簿",
       "onboard_time": 1723821981,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 916977,
+      "num": 916977,
+      "word": "中奖2.2亿不交个税成历史",
+      "onboard_time": 1723887318,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -347,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 754873,
+      "num": 754873,
+      "word": "庞博 没关系会过去的",
+      "onboard_time": 1723887437,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 739102,
       "num": 739102,
       "word": "向佐要退赛差点被雅揍了",
@@ -379,28 +403,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 676268,
-      "num": 676268,
-      "word": "中奖2.2亿不交个税成历史",
-      "onboard_time": 1723887318,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 670148,
       "num": 670148,
       "word": "郑钦文说是时候忘记金牌了",
       "onboard_time": 1723884199,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 663876,
-      "num": 663876,
-      "word": "庞博 没关系会过去的",
-      "onboard_time": 1723887437,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 629928,
@@ -579,20 +587,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 385459,
+      "num": 385459,
+      "word": "汪苏泷 雨神",
+      "onboard_time": 1723887619,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 384411,
       "num": 384411,
       "word": "iPhone16ProMax或新增古铜色",
       "onboard_time": 1723870700,
       "rank": 32,
       "category": "数码"
-    },
-    {
-      "raw_hot": 381946,
-      "num": 381946,
-      "word": "汪苏泷 雨神",
-      "onboard_time": 1723887619,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 376488,
@@ -641,14 +649,6 @@
       "onboard_time": 1723871480,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 335204,
-      "num": 180137,
-      "word": "王铮亮好惨的第一",
-      "onboard_time": 1723889418,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 333245,
@@ -1027,6 +1027,30 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 221375,
+      "num": 221375,
+      "word": "多家影院不建议带孩子看异形",
+      "onboard_time": 1723887859,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 221316,
+      "num": 221316,
+      "word": "黑羽盗一没死",
+      "onboard_time": 1723887198,
+      "rank": 23,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 217052,
+      "num": 217052,
+      "word": "权威部门否认穿着清凉老板娘遭殴打",
+      "onboard_time": 1723888338,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216216,
       "num": 233632,
       "word": "负负得正 女性不再被选择",
@@ -1083,6 +1107,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 206556,
+      "num": 206556,
+      "word": "aespa东京巨蛋演唱会",
+      "onboard_time": 1723889899,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 206493,
       "num": 218786,
       "word": "小白 标准蛇系美人",
@@ -1097,14 +1129,6 @@
       "onboard_time": 1723863559,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 204929,
-      "num": 179605,
-      "word": "多家影院不建议带孩子看异形",
-      "onboard_time": 1723887859,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 204140,
@@ -1147,6 +1171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 202468,
+      "num": 202468,
+      "word": "檀健次演唱会到底有什么",
+      "onboard_time": 1723890018,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 201974,
       "num": 201974,
       "word": "马龙姚明你俩看起来有点熟啊",
@@ -1161,14 +1193,6 @@
       "onboard_time": 1723823060,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 201708,
-      "num": 201708,
-      "word": "黑羽盗一没死",
-      "onboard_time": 1723887198,
-      "rank": 23,
-      "category": "动漫"
     },
     {
       "raw_hot": 200035,
@@ -1307,14 +1331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184127,
-      "num": 178306,
-      "word": "aespa东京巨蛋演唱会",
-      "onboard_time": 1723889899,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 182918,
       "num": 182918,
       "word": "严浩翔手机别下反诈APP",
@@ -1361,6 +1377,14 @@
       "onboard_time": 1723877600,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177701,
+      "num": 177701,
+      "word": "好妹妹秦昊 多才多艺",
+      "onboard_time": 1723889779,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 177174,
@@ -1451,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161543,
+      "num": 161543,
+      "word": "穿着清凉老板娘已更改衣着风格",
+      "onboard_time": 1723889000,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161495,
       "num": 161495,
       "word": "平次吃醋柯南吃瓜",
@@ -1497,6 +1529,14 @@
       "onboard_time": 1723882820,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159452,
+      "num": 159452,
+      "word": "库尔斯克",
+      "onboard_time": 1723889479,
+      "rank": 39,
+      "category": "国外时政"
     },
     {
       "raw_hot": 159060,
@@ -1595,14 +1635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148904,
-      "num": 180986,
-      "word": "权威部门否认穿着清凉老板娘遭殴打",
-      "onboard_time": 1723888338,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147945,
       "num": 147945,
       "word": "二线奢侈品开启自降身价模式",
@@ -1675,20 +1707,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 142527,
+      "num": 142527,
+      "word": "登陆日",
+      "onboard_time": 1723890919,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 141783,
       "num": 141783,
       "word": "两栖装甲分队海上射击训练场面",
       "onboard_time": 1723856900,
       "rank": 39,
       "category": "军事"
-    },
-    {
-      "raw_hot": 140413,
-      "num": 140413,
-      "word": "穿着清凉老板娘已更改衣着风格",
-      "onboard_time": 1723889000,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140396,
@@ -1699,36 +1731,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 138798,
-      "num": 138798,
-      "word": "库尔斯克",
-      "onboard_time": 1723889479,
-      "rank": 39,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 137931,
       "num": 137931,
       "word": "蔡徐坤地广",
       "onboard_time": 1723805602,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136410,
-      "num": 136410,
-      "word": "檀健次演唱会到底有什么",
-      "onboard_time": 1723890018,
-      "rank": 43,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 135848,
-      "num": 135848,
-      "word": "好妹妹秦昊 多才多艺",
-      "onboard_time": 1723889779,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 134606,
