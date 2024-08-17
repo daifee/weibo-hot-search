@@ -1,7 +1,15 @@
 {
   "startTime": 1723825640005,
-  "endTime": 1723862807120,
+  "endTime": 1723864915717,
   "band_list": [
+    {
+      "raw_hot": 2755379,
+      "num": 2755379,
+      "word": "被举报暴露杭州超市老板娘发声",
+      "onboard_time": 1723861220,
+      "rank": 9,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2412237,
       "num": 2412237,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1315070,
-      "num": 613863,
+      "num": 850154,
       "word": "范丞丞zzoexxll蝴蝶纹身",
       "onboard_time": 1723857138,
       "rank": 17,
@@ -107,6 +115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 923800,
+      "num": 923800,
+      "word": "奥运结束后空荡荡的巴黎",
+      "onboard_time": 1723860620,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 920307,
       "num": 920307,
       "word": "民政部解读结婚登记不需要户口簿",
@@ -147,14 +163,6 @@
       "category": "时尚,幽默"
     },
     {
-      "raw_hot": 800313,
-      "num": 548120,
-      "word": "被举报暴露杭州超市老板娘发声",
-      "onboard_time": 1723861220,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 739102,
       "num": 739102,
       "word": "向佐要退赛差点被雅揍了",
@@ -164,23 +172,39 @@
     },
     {
       "raw_hot": 738304,
-      "num": 738304,
+      "num": 851056,
       "word": "张兰直播途中摔倒",
       "onboard_time": 1723859359,
       "rank": 7,
       "category": "艺人"
     },
     {
+      "raw_hot": 718046,
+      "num": 718046,
+      "word": "离婚冷静期和离婚自由不冲突",
+      "onboard_time": 1723863019,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 677174,
+      "num": 358318,
+      "word": "新房未入住被陌生人住了4天",
+      "onboard_time": 1723861519,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 629928,
-      "num": 629928,
+      "num": 850989,
       "word": "蔡徐坤 AVIA",
       "onboard_time": 1723856778,
       "rank": 15,
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 539218,
-      "num": 539218,
+      "raw_hot": 598913,
+      "num": 598913,
       "word": "女儿想玩蹦床妈妈当众怒骂你是疯了吗",
       "onboard_time": 1723860139,
       "rank": 15,
@@ -251,12 +275,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 391999,
-      "num": 391999,
-      "word": "奥运结束后空荡荡的巴黎",
-      "onboard_time": 1723860620,
-      "rank": 21,
-      "category": "体育"
+      "raw_hot": 368067,
+      "num": 368067,
+      "word": "官方称设离婚冷静期是为减少冲动离婚",
+      "onboard_time": 1723861821,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 367154,
@@ -337,6 +361,14 @@
       "onboard_time": 1723860501,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305034,
+      "num": 305034,
+      "word": "单身烫嘴",
+      "onboard_time": 1723861401,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 304573,
@@ -435,11 +467,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 254293,
-      "num": 254293,
-      "word": "新房未入住被陌生人住了4天",
-      "onboard_time": 1723861519,
-      "rank": 36,
+      "raw_hot": 253550,
+      "num": 253550,
+      "word": "民政部称离婚冷静期实施效果较好",
+      "onboard_time": 1723862421,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -555,22 +587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191780,
-      "num": 191780,
-      "word": "官方称设离婚冷静期是为减少冲动离婚",
-      "onboard_time": 1723861821,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190601,
-      "num": 190601,
-      "word": "单身烫嘴",
-      "onboard_time": 1723861401,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 184755,
       "num": 184755,
       "word": "离婚冷静期真的能降低离婚率吗",
@@ -587,12 +603,28 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 177174,
+      "num": 177174,
+      "word": "医考帮又崩了",
+      "onboard_time": 1723864580,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 170845,
       "num": 463684,
       "word": "苹果长出的蘑菇栽培出苹果白参菌",
       "onboard_time": 1723857920,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165996,
+      "num": 165996,
+      "word": "郑钦文12连胜被终结",
+      "onboard_time": 1723861041,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 164265,
@@ -627,14 +659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 159154,
-      "num": 159154,
-      "word": "郑钦文12连胜被终结",
-      "onboard_time": 1723861041,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 158393,
       "num": 158393,
       "word": "外卖小哥从负债累累逆袭成全国最强",
@@ -648,6 +672,14 @@
       "word": "刘诗雯学马龙庆祝动作",
       "onboard_time": 1723813642,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 155442,
+      "num": 155442,
+      "word": "国际体育仲裁法庭宣布美国队申诉无效",
+      "onboard_time": 1723863559,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -689,6 +721,14 @@
       "onboard_time": 1723854738,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147753,
+      "num": 220970,
+      "word": "JTBC为误报闵玧其监控道歉",
+      "onboard_time": 1723863019,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 147115,
@@ -747,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137918,
+      "num": 137918,
+      "word": "平次表白",
+      "onboard_time": 1723864280,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 134606,
       "num": 134606,
       "word": "郑钦文说金牌得主称号不会永远保持",
@@ -761,14 +809,6 @@
       "onboard_time": 1723858579,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 132736,
-      "num": 132736,
-      "word": "民政部称离婚冷静期实施效果较好",
-      "onboard_time": 1723862421,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131129,
@@ -800,6 +840,14 @@
       "word": "酒店回应泄露女子房间密码致异性闯入",
       "onboard_time": 1723821203,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128834,
+      "num": 128834,
+      "word": "南宁俩兄弟进工地玩耍不幸溺亡",
+      "onboard_time": 1723864759,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -891,6 +939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 87647,
+      "num": 258248,
+      "word": "女子旅游17万买玉市场价仅5万",
+      "onboard_time": 1723863079,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76307,
       "num": 117368,
       "word": "许凯撒娇说明是真害怕了",
@@ -955,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44137,
+      "num": 420891,
+      "word": "citywalk的风还是吹到了东山口",
+      "onboard_time": 1723860559,
+      "rank": 19,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 43183,
       "num": 60811,
       "word": "喜人奇妙夜",
@@ -969,14 +1033,6 @@
       "onboard_time": 1723832113,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 38726,
-      "num": 420891,
-      "word": "citywalk的风还是吹到了东山口",
-      "onboard_time": 1723860559,
-      "rank": 19,
-      "category": "旅游"
     },
     {
       "raw_hot": 37936,
@@ -1051,8 +1107,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13286,
+      "num": 129283,
+      "word": "没想到奶茶袋才是天选谷子",
+      "onboard_time": 1723864339,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 10009,
-      "num": 1233143,
+      "num": 1292684,
       "word": "遥感四十三号01组卫星发射成功",
       "onboard_time": 1723798583,
       "rank": 2,
