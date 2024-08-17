@@ -1,6 +1,6 @@
 {
   "startTime": 1723307155481,
-  "endTime": 1723904335469,
+  "endTime": 1723905310827,
   "band_list": [
     {
       "raw_hot": 25984443,
@@ -483,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2742507,
+      "num": 2742507,
+      "word": "严浩翔麦没关",
+      "onboard_time": 1723902200,
+      "rank": 0,
+      "category": "演出"
+    },
+    {
       "raw_hot": 2689840,
       "num": 2689840,
       "word": "陈梦回应未来规划",
@@ -648,6 +656,14 @@
       "word": "难听",
       "onboard_time": 1723812380,
       "rank": 31,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 2352361,
+      "num": 1165282,
+      "word": "太尴尬了",
+      "onboard_time": 1723902023,
+      "rank": 6,
       "category": "演出"
     },
     {
@@ -825,14 +841,6 @@
       "onboard_time": 1723870880,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2109402,
-      "num": 2109402,
-      "word": "严浩翔麦没关",
-      "onboard_time": 1723902200,
-      "rank": 0,
-      "category": "演出"
     },
     {
       "raw_hot": 2097281,
@@ -1115,8 +1123,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1848248,
-      "num": 1848248,
+      "raw_hot": 1859864,
+      "num": 1859864,
       "word": "离婚冷静期有2次反悔机会",
       "onboard_time": 1723899201,
       "rank": 9,
@@ -1401,14 +1409,6 @@
       "onboard_time": 1723691540,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1655514,
-      "num": 1043761,
-      "word": "太尴尬了",
-      "onboard_time": 1723902023,
-      "rank": 6,
-      "category": "演出"
     },
     {
       "raw_hot": 1647566,
@@ -2836,7 +2836,7 @@
     },
     {
       "raw_hot": 1075321,
-      "num": 619914,
+      "num": 737887,
       "word": "于正回应不给吴谨言开空调",
       "onboard_time": 1723901181,
       "rank": 17,
@@ -4163,6 +4163,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 753175,
+      "num": 753175,
+      "word": "网传女生在泳池内被男生轮流抱摔霸凌",
+      "onboard_time": 1723900702,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 751379,
       "num": 751379,
       "word": "谁家综艺官宣六个人一张脸",
@@ -4264,6 +4272,14 @@
       "word": "张兰直播途中摔倒",
       "onboard_time": 1723859359,
       "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 736133,
+      "num": 736133,
+      "word": "霍思燕养孔雀",
+      "onboard_time": 1723902683,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -5011,14 +5027,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 619882,
-      "num": 619882,
-      "word": "网传女生在泳池内被男生轮流抱摔霸凌",
-      "onboard_time": 1723900702,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 618125,
       "num": 618125,
       "word": "you swan he frog",
@@ -5411,14 +5419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 564763,
-      "num": 277411,
-      "word": "霍思燕养孔雀",
-      "onboard_time": 1723902683,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 564737,
       "num": 564737,
       "word": "翔霖",
@@ -5561,6 +5561,14 @@
       "onboard_time": 1723537702,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 546391,
+      "num": 329898,
+      "word": "桃李面包怎么卖不动了",
+      "onboard_time": 1723904004,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 545833,
@@ -6169,6 +6177,14 @@
       "onboard_time": 1723370602,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 465353,
+      "num": 465353,
+      "word": "樊振东 我可以的",
+      "onboard_time": 1723904722,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 465062,
@@ -6963,14 +6979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 401602,
-      "num": 260303,
-      "word": "桃李面包怎么卖不动了",
-      "onboard_time": 1723904004,
-      "rank": 26,
-      "category": "美食"
-    },
-    {
       "raw_hot": 401520,
       "num": 401520,
       "word": "王楚钦说球拍弯成C形了",
@@ -7572,7 +7580,7 @@
     },
     {
       "raw_hot": 364779,
-      "num": 253305,
+      "num": 328960,
       "word": "负负得正票房",
       "onboard_time": 1723901600,
       "rank": 41,
@@ -7665,6 +7673,14 @@
       "onboard_time": 1723467321,
       "rank": 23,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 359874,
+      "num": 329357,
+      "word": "文鑫",
+      "onboard_time": 1723904482,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 359737,
@@ -7817,6 +7833,14 @@
       "onboard_time": 1723446680,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351727,
+      "num": 329089,
+      "word": "付航 喜剧之王",
+      "onboard_time": 1723900823,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 351481,
@@ -8467,14 +8491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 323461,
-      "num": 247280,
-      "word": "付航 喜剧之王",
-      "onboard_time": 1723900823,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 322638,
       "num": 322638,
       "word": "超长40天伏天进入尾声",
@@ -8908,7 +8924,7 @@
     },
     {
       "raw_hot": 306512,
-      "num": 243236,
+      "num": 285997,
       "word": "檀健次点痣",
       "onboard_time": 1723902443,
       "rank": 31,
@@ -9016,6 +9032,14 @@
       "word": "该不该远离总是倾诉负能量的朋友",
       "onboard_time": 1723845252,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303555,
+      "num": 303555,
+      "word": "得知相恋7年女友重病男子取消婚约",
+      "onboard_time": 1723904664,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -9297,6 +9321,14 @@
       "onboard_time": 1723539383,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 293340,
+      "num": 293340,
+      "word": "雷军直播突发炸麦",
+      "onboard_time": 1723903943,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 293296,
@@ -10211,6 +10243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 266100,
+      "num": 420465,
+      "word": "四川一男子偷走村里的水泥路",
+      "onboard_time": 1723901422,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265396,
       "num": 243242,
       "word": "中国本届奥运会已有8位双金王",
@@ -10289,6 +10329,14 @@
       "onboard_time": 1723377751,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 264491,
+      "num": 264491,
+      "word": "坦然掌管开团的神",
+      "onboard_time": 1723904664,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 264467,
@@ -10953,6 +11001,14 @@
       "onboard_time": 1723553361,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 247391,
+      "num": 247391,
+      "word": "林俊杰李荣浩合唱曹操",
+      "onboard_time": 1723905142,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 247074,
@@ -11779,14 +11835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 229932,
-      "num": 420465,
-      "word": "四川一男子偷走村里的水泥路",
-      "onboard_time": 1723901422,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 229905,
       "num": 229905,
       "word": "前女友闺蜜",
@@ -11897,6 +11945,14 @@
       "onboard_time": 1723870039,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 227160,
+      "num": 227160,
+      "word": "洗发水你真的用对了吗",
+      "onboard_time": 1723905022,
+      "rank": 44,
+      "category": "美妆"
     },
     {
       "raw_hot": 227052,
@@ -12937,6 +12993,14 @@
       "onboard_time": 1723469361,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 208953,
+      "num": 208953,
+      "word": "eStar战胜WB",
+      "onboard_time": 1723905022,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 208915,
@@ -14707,14 +14771,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 188762,
-      "num": 188762,
-      "word": "雷军直播突发炸麦",
-      "onboard_time": 1723903943,
-      "rank": 45,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 188514,
       "num": 188514,
       "word": "于敏说国家需要一定全力以赴",
@@ -15433,6 +15489,14 @@
       "onboard_time": 1723812140,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176454,
+      "num": 739198,
+      "word": "41人考编上岸后被清退谁把招聘当儿戏",
+      "onboard_time": 1723903703,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176450,
@@ -19259,6 +19323,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 57662,
+      "num": 635110,
+      "word": "疾控41名事业编遭清退涉事主任被停职",
+      "onboard_time": 1723904722,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57552,
       "num": 77748,
       "word": "张雨霏徐嘉余玩游戏像开会一样",
@@ -19505,14 +19577,6 @@
       "onboard_time": 1723465942,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 48388,
-      "num": 619928,
-      "word": "41人考编上岸后被清退谁把招聘当儿戏",
-      "onboard_time": 1723903703,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 48171,
