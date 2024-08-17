@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1723919884444,
+  "endTime": 1723922255703,
   "band_list": [
     {
       "raw_hot": 2113689,
@@ -211,6 +211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 276844,
+      "num": 160527,
+      "word": "粉丝要求张大大澄清范丞丞恋情",
+      "onboard_time": 1723918454,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261430,
       "num": 306439,
       "word": "鬼节",
@@ -305,14 +313,6 @@
       "onboard_time": 1723908921,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 160527,
-      "num": 160527,
-      "word": "粉丝要求张大大澄清范丞丞恋情",
-      "onboard_time": 1723918454,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 157535,
