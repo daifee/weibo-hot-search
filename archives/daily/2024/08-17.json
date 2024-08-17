@@ -1,10 +1,10 @@
 {
   "startTime": 1723825640005,
-  "endTime": 1723872013212,
+  "endTime": 1723872980532,
   "band_list": [
     {
-      "raw_hot": 4621633,
-      "num": 699182,
+      "raw_hot": 5105065,
+      "num": 787870,
       "word": "乒协就近期饭圈乱象发声",
       "onboard_time": 1723871000,
       "rank": 10,
@@ -33,6 +33,14 @@
       "onboard_time": 1723853358,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1791407,
+      "num": 1791407,
+      "word": "大熊猫福茹去世",
+      "onboard_time": 1723870880,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1752062,
@@ -195,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 867496,
+      "num": 867496,
+      "word": "教练说王昶梁伟铿输决赛的原因",
+      "onboard_time": 1723868241,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 866221,
       "num": 866221,
       "word": "我妈1990年买的牛仔裤真的绝了",
@@ -219,19 +235,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 784697,
+      "num": 832877,
+      "word": "老板娘穿着清凉被围观附近商户发声",
+      "onboard_time": 1723867639,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 768481,
       "num": 768481,
       "word": "离婚冷静期和离婚自由不冲突",
       "onboard_time": 1723863019,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 755662,
-      "num": 832877,
-      "word": "老板娘穿着清凉被围观附近商户发声",
-      "onboard_time": 1723867639,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -251,28 +267,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 725628,
-      "num": 725628,
-      "word": "大熊猫福茹去世",
-      "onboard_time": 1723870880,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 698422,
-      "num": 698422,
-      "word": "教练说王昶梁伟铿输决赛的原因",
-      "onboard_time": 1723868241,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 661823,
-      "num": 661823,
+      "raw_hot": 701517,
+      "num": 701517,
       "word": "高铁即将关门2岁娃突然跑下车",
       "onboard_time": 1723868900,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 698790,
+      "num": 698790,
+      "word": "丫丫已经判若两熊了",
+      "onboard_time": 1723872081,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 629928,
@@ -380,7 +388,7 @@
     },
     {
       "raw_hot": 402040,
-      "num": 534800,
+      "num": 593935,
       "word": "李承铉官宣TF三代导师",
       "onboard_time": 1723868241,
       "rank": 29,
@@ -395,6 +403,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 386743,
+      "num": 640367,
+      "word": "林大厨被锁",
+      "onboard_time": 1723869921,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 384411,
+      "num": 384411,
+      "word": "iPhone16ProMax或新增古铜色",
+      "onboard_time": 1723870700,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 376488,
       "num": 414789,
       "word": "家长投诉影院",
@@ -403,20 +427,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 368134,
-      "num": 368134,
-      "word": "iPhone16ProMax或新增古铜色",
-      "onboard_time": 1723870700,
-      "rank": 32,
-      "category": "数码"
-    },
-    {
       "raw_hot": 367154,
       "num": 367154,
       "word": "别人冒用自己身份证领结婚证怎么办",
       "onboard_time": 1723809620,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 365436,
+      "num": 605066,
+      "word": "肖战李宁财报",
+      "onboard_time": 1723872800,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 354582,
@@ -467,12 +491,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 324174,
-      "num": 532862,
-      "word": "林大厨被锁",
-      "onboard_time": 1723869921,
-      "rank": 19,
-      "category": "综艺"
+      "raw_hot": 324340,
+      "num": 324340,
+      "word": "那咋了",
+      "onboard_time": 1723871480,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 321783,
@@ -603,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 283641,
+      "num": 411364,
+      "word": "谁向往 谁买单",
+      "onboard_time": 1723871360,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270035,
       "num": 270035,
       "word": "孙杨回应美国游泳运动员脸紫",
@@ -625,6 +657,14 @@
       "onboard_time": 1723854439,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 264168,
+      "num": 378379,
+      "word": "宁桓宇从160斤瘦到有腹肌",
+      "onboard_time": 1723871719,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 263621,
@@ -675,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 238503,
+      "num": 238503,
+      "word": "女子直播间买珍珠一抠竟掉皮",
+      "onboard_time": 1723870280,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236799,
       "num": 236799,
       "word": "男孩睡梦中被强制开机过生日",
@@ -707,28 +755,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 227764,
-      "num": 227764,
-      "word": "恋与制作人白起 适合相爱",
-      "onboard_time": 1723870039,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 226271,
-      "num": 226271,
+      "raw_hot": 230775,
+      "num": 230775,
       "word": "村干部回应谢瑜家夺金后一夜翻新",
       "onboard_time": 1723867098,
       "rank": 39,
       "category": "体育"
     },
     {
-      "raw_hot": 220663,
-      "num": 220663,
-      "word": "女子直播间买珍珠一抠竟掉皮",
-      "onboard_time": 1723870280,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 227764,
+      "num": 227764,
+      "word": "恋与制作人白起 适合相爱",
+      "onboard_time": 1723870039,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 214737,
@@ -747,14 +787,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 211540,
-      "num": 315645,
-      "word": "谁向往 谁买单",
-      "onboard_time": 1723871360,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 211395,
       "num": 199091,
       "word": "35岁单身女生独居的一天",
@@ -771,12 +803,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 209059,
-      "num": 209059,
-      "word": "宁桓宇从160斤瘦到有腹肌",
-      "onboard_time": 1723871719,
-      "rank": 42,
-      "category": "演出"
+      "raw_hot": 209824,
+      "num": 406710,
+      "word": "甄嬛传火到了韩国游戏圈",
+      "onboard_time": 1723871181,
+      "rank": 27,
+      "category": "游戏,剧集"
     },
     {
       "raw_hot": 206493,
@@ -811,6 +843,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 202640,
+      "num": 202640,
+      "word": "异形",
+      "onboard_time": 1723872081,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 201974,
       "num": 201974,
       "word": "马龙姚明你俩看起来有点熟啊",
@@ -825,14 +865,6 @@
       "onboard_time": 1723823060,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 199858,
-      "num": 199858,
-      "word": "那咋了",
-      "onboard_time": 1723871480,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 199604,
@@ -865,14 +897,6 @@
       "onboard_time": 1723807220,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194920,
-      "num": 406710,
-      "word": "甄嬛传火到了韩国游戏圈",
-      "onboard_time": 1723871181,
-      "rank": 27,
-      "category": "游戏,剧集"
     },
     {
       "raw_hot": 193536,
@@ -929,6 +953,14 @@
       "onboard_time": 1723867999,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 172396,
+      "num": 172396,
+      "word": "符龙飞组舞台好燃",
+      "onboard_time": 1723872920,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 170845,
@@ -1267,6 +1299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 93633,
+      "num": 790119,
+      "word": "结婚不再需要户口本意味着什么",
+      "onboard_time": 1723871240,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81892,
       "num": 772404,
       "word": "文咏珊睡美人",
@@ -1307,6 +1347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58045,
+      "num": 699261,
+      "word": "海蓝之谜新品活动",
+      "onboard_time": 1723871060,
+      "rank": 29,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 57552,
       "num": 77748,
       "word": "张雨霏徐嘉余玩游戏像开会一样",
@@ -1316,7 +1364,7 @@
     },
     {
       "raw_hot": 57160,
-      "num": 568492,
+      "num": 699833,
       "word": "居民楼里的黑医美手术致人死亡",
       "onboard_time": 1723871780,
       "rank": 14,
@@ -1345,14 +1393,6 @@
       "onboard_time": 1723843512,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 55134,
-      "num": 391783,
-      "word": "海蓝之谜新品活动",
-      "onboard_time": 1723871060,
-      "rank": 29,
-      "category": "美妆"
     },
     {
       "raw_hot": 50689,
@@ -1408,14 +1448,6 @@
       "word": "文脉华章",
       "onboard_time": 1723866561,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36745,
-      "num": 699321,
-      "word": "结婚不再需要户口本意味着什么",
-      "onboard_time": 1723871240,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
