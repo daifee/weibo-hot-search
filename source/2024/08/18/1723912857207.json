@@ -1,0 +1,410 @@
+{
+  "runTime": 1723912857207,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1840997,
+        "num": 1840997,
+        "word": "严浩翔麦没关",
+        "onboard_time": 1723902200,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1269313,
+        "num": 1269313,
+        "word": "特鲁索娃结婚",
+        "onboard_time": 1723909042,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9198,
+        "num": 1169162,
+        "word": "看塞罕坝荒漠沙地变千里松林",
+        "onboard_time": 1723900521,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1082987,
+        "num": 1082987,
+        "word": "太尴尬了",
+        "onboard_time": 1723902023,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 876344,
+        "num": 876344,
+        "word": "雷军直播突发炸麦",
+        "onboard_time": 1723903943,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 549614,
+        "num": 549614,
+        "word": "女子开宝马冲进早餐店致7伤",
+        "onboard_time": 1723908742,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579379,
+        "num": 548348,
+        "word": "金玟庭服装事故",
+        "onboard_time": 1723908682,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 563918,
+        "num": 547539,
+        "word": "刘耀文止咬器",
+        "onboard_time": 1723907063,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 546697,
+        "num": 546697,
+        "word": "河南洛阳一奶茶店店员与顾客互骂",
+        "onboard_time": 1723907063,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441105,
+        "num": 441105,
+        "word": "离婚冷静期有2次反悔机会",
+        "onboard_time": 1723899201,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500981,
+        "num": 440919,
+        "word": "异形吓坏8岁小孩家长投诉影城",
+        "onboard_time": 1723907242,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 437764,
+        "num": 437764,
+        "word": "檀健次演唱会",
+        "onboard_time": 1723900521,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 401827,
+        "num": 401827,
+        "word": "WTT 盲盒",
+        "onboard_time": 1723907963,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376936,
+        "num": 376936,
+        "word": "虞书欣正式被确诊为袁湘琴",
+        "onboard_time": 1723898240,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308561,
+        "num": 308561,
+        "word": "樊振东 我可以的",
+        "onboard_time": 1723904722,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292399,
+        "num": 292399,
+        "word": "于正回应不给吴谨言开空调",
+        "onboard_time": 1723901181,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278517,
+        "num": 278517,
+        "word": "中奖2.2亿不交个税成历史",
+        "onboard_time": 1723887318,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259981,
+        "num": 259981,
+        "word": "同一人1次中彩票超1万需缴20%税",
+        "onboard_time": 1723910301,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249116,
+        "num": 249116,
+        "word": "WTT门票",
+        "onboard_time": 1723899381,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212189,
+        "num": 249027,
+        "word": "鬼节",
+        "onboard_time": 1723878140,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558758,
+        "num": 247842,
+        "word": "才知道紫色原来这么特别",
+        "onboard_time": 1723907002,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 48708,
+        "num": 247041,
+        "word": "国防部回应美日所谓中国军事威胁",
+        "onboard_time": 1723903884,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 484387,
+        "num": 246517,
+        "word": "印尼74岁老太被蟒蛇吞下身亡",
+        "onboard_time": 1723893499,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348732,
+        "num": 245537,
+        "word": "桃李面包怎么卖不动了",
+        "onboard_time": 1723904004,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 282136,
+        "num": 245070,
+        "word": "范丞丞恋情风波后首露面",
+        "onboard_time": 1723895060,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276337,
+        "num": 243831,
+        "word": "宋亚轩破音",
+        "onboard_time": 1723905323,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 243686,
+        "num": 243686,
+        "word": "严浩翔 我不换裤子啦",
+        "onboard_time": 1723903103,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 226004,
+        "num": 226004,
+        "word": "41人考编上岸后被清退谁把招聘当儿戏",
+        "onboard_time": 1723903703,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221381,
+        "num": 221381,
+        "word": "马嘉祺破音",
+        "onboard_time": 1723901361,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 206962,
+        "num": 206962,
+        "word": "得知相恋7年女友重病男子取消婚约",
+        "onboard_time": 1723904664,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203734,
+        "num": 203734,
+        "word": "完年 和好吧",
+        "onboard_time": 1723905502,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195856,
+        "num": 195856,
+        "word": "打1400公里顺风车逃单男子已被行拘",
+        "onboard_time": 1723897040,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186896,
+        "num": 186896,
+        "word": "大张伟演唱会",
+        "onboard_time": 1723908442,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184300,
+        "num": 184300,
+        "word": "长期佩戴这种眼镜会加重近视",
+        "onboard_time": 1723893800,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 177203,
+        "num": 177203,
+        "word": "林俊杰李荣浩合唱曹操",
+        "onboard_time": 1723905142,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173807,
+        "num": 173807,
+        "word": "付航 喜剧之王",
+        "onboard_time": 1723900823,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163002,
+        "num": 163002,
+        "word": "檀健次唱了为顾昀写的歌",
+        "onboard_time": 1723908921,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138978,
+        "num": 138978,
+        "word": "负负得正票房",
+        "onboard_time": 1723901600,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137443,
+        "num": 137443,
+        "word": "终于理解林志玲为什么嫁给黑泽良平了",
+        "onboard_time": 1723875979,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136564,
+        "num": 136564,
+        "word": "韩女这么会穿还不是中国进的货",
+        "onboard_time": 1723899621,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133733,
+        "num": 133733,
+        "word": "丫丫已经判若两熊了",
+        "onboard_time": 1723872081,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131173,
+        "num": 131173,
+        "word": "卢昱晓 韩系妆造",
+        "onboard_time": 1723899142,
+        "rank": 41,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 121347,
+        "num": 121347,
+        "word": "霍思燕养孔雀",
+        "onboard_time": 1723902683,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41268,
+        "num": 120367,
+        "word": "手心咖啡店",
+        "onboard_time": 1723910480,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 119639,
+        "num": 119639,
+        "word": "警方辟谣10多名男子游泳池抱摔女子",
+        "onboard_time": 1723900702,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119017,
+        "num": 119017,
+        "word": "汪苏泷喊话郑州文旅",
+        "onboard_time": 1723908981,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118202,
+        "num": 118202,
+        "word": "檀健次演唱会活动",
+        "onboard_time": 1723878441,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115854,
+        "num": 115854,
+        "word": "疾控41名事业编遭清退涉事主任被停职",
+        "onboard_time": 1723904722,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107622,
+        "num": 115815,
+        "word": "严浩翔贺峻霖耻辱柱舞台",
+        "onboard_time": 1723898361,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99975,
+        "num": 115779,
+        "word": "范丞丞工作室告黑维权",
+        "onboard_time": 1723875439,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习新语#"
+    }
+  }
+}

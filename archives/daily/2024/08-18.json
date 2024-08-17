@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1723911979361,
+  "endTime": 1723912857207,
   "band_list": [
     {
       "raw_hot": 2113689,
@@ -19,20 +19,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1269313,
+      "num": 1269313,
+      "word": "特鲁索娃结婚",
+      "onboard_time": 1723909042,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1142396,
       "num": 1142396,
       "word": "雷军直播突发炸麦",
       "onboard_time": 1723903943,
       "rank": 1,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 1124560,
-      "num": 1124560,
-      "word": "特鲁索娃结婚",
-      "onboard_time": 1723909042,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 772968,
@@ -83,6 +83,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 549614,
+      "num": 549614,
+      "word": "女子开宝马冲进早餐店致7伤",
+      "onboard_time": 1723908742,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 500981,
+      "num": 444953,
+      "word": "异形吓坏8岁小孩家长投诉影城",
+      "onboard_time": 1723907242,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 484473,
       "num": 484473,
       "word": "WTT 盲盒",
@@ -113,14 +129,6 @@
       "onboard_time": 1723904004,
       "rank": 22,
       "category": "美食"
-    },
-    {
-      "raw_hot": 444953,
-      "num": 444953,
-      "word": "异形吓坏8岁小孩家长投诉影城",
-      "onboard_time": 1723907242,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 391794,
@@ -163,14 +171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 308540,
-      "num": 308540,
-      "word": "女子开宝马冲进早餐店致7伤",
-      "onboard_time": 1723908742,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 306880,
       "num": 292048,
       "word": "41人考编上岸后被清退谁把招聘当儿戏",
@@ -208,6 +208,14 @@
       "word": "鬼节",
       "onboard_time": 1723878140,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259981,
+      "num": 484556,
+      "word": "同一人1次中彩票超1万需缴20%税",
+      "onboard_time": 1723910301,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -283,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163002,
+      "num": 163002,
+      "word": "檀健次唱了为顾昀写的歌",
+      "onboard_time": 1723908921,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 157535,
       "num": 157535,
       "word": "终于理解林志玲为什么嫁给黑泽良平了",
@@ -323,14 +339,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 144029,
-      "num": 149881,
-      "word": "檀健次唱了为顾昀写的歌",
-      "onboard_time": 1723908921,
-      "rank": 42,
-      "category": "演出"
-    },
-    {
       "raw_hot": 142509,
       "num": 149862,
       "word": "霍思燕养孔雀",
@@ -345,14 +353,6 @@
       "onboard_time": 1723908981,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 137211,
-      "num": 484556,
-      "word": "同一人1次中彩票超1万需缴20%税",
-      "onboard_time": 1723910301,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126082,
@@ -387,7 +387,15 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 38371,
+      "raw_hot": 48708,
+      "num": 247041,
+      "word": "国防部回应美日所谓中国军事威胁",
+      "onboard_time": 1723903884,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 41268,
       "num": 149844,
       "word": "手心咖啡店",
       "onboard_time": 1723910480,
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 14052,
-      "num": 1125025,
+      "num": 1169162,
       "word": "看塞罕坝荒漠沙地变千里松林",
       "onboard_time": 1723900521,
       "rank": 2,
