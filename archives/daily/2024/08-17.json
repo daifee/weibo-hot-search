@@ -1,10 +1,10 @@
 {
   "startTime": 1723825640005,
-  "endTime": 1723864915717,
+  "endTime": 1723865734910,
   "band_list": [
     {
-      "raw_hot": 2755379,
-      "num": 2755379,
+      "raw_hot": 3015971,
+      "num": 3015971,
       "word": "被举报暴露杭州超市老板娘发声",
       "onboard_time": 1723861220,
       "rank": 9,
@@ -57,6 +57,14 @@
       "onboard_time": 1723784244,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1191569,
+      "num": 1191569,
+      "word": "奥运结束后空荡荡的巴黎",
+      "onboard_time": 1723860620,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 1167541,
@@ -115,14 +123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 923800,
-      "num": 923800,
-      "word": "奥运结束后空荡荡的巴黎",
-      "onboard_time": 1723860620,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 920307,
       "num": 920307,
       "word": "民政部解读结婚登记不需要户口簿",
@@ -163,6 +163,22 @@
       "category": "时尚,幽默"
     },
     {
+      "raw_hot": 809031,
+      "num": 358318,
+      "word": "新房未入住被陌生人住了4天",
+      "onboard_time": 1723861519,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 744370,
+      "num": 744370,
+      "word": "离婚冷静期和离婚自由不冲突",
+      "onboard_time": 1723863019,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 739102,
       "num": 739102,
       "word": "向佐要退赛差点被雅揍了",
@@ -177,22 +193,6 @@
       "onboard_time": 1723859359,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 718046,
-      "num": 718046,
-      "word": "离婚冷静期和离婚自由不冲突",
-      "onboard_time": 1723863019,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 677174,
-      "num": 358318,
-      "word": "新房未入住被陌生人住了4天",
-      "onboard_time": 1723861519,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 629928,
@@ -235,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 485927,
+      "num": 780817,
+      "word": "官方称设离婚冷静期是为减少冲动离婚",
+      "onboard_time": 1723861821,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 473218,
       "num": 473218,
       "word": "食物语",
@@ -273,14 +281,6 @@
       "onboard_time": 1723853897,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 368067,
-      "num": 368067,
-      "word": "官方称设离婚冷静期是为减少冲动离婚",
-      "onboard_time": 1723861821,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 367154,
@@ -331,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 324506,
+      "num": 324506,
+      "word": "单身烫嘴",
+      "onboard_time": 1723861401,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310368,
       "num": 310368,
       "word": "中国羽协回应张志杰遗体将火化",
@@ -363,14 +371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 305034,
-      "num": 305034,
-      "word": "单身烫嘴",
-      "onboard_time": 1723861401,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 304573,
       "num": 304573,
       "word": "解决天价彩礼等问题有了新思路",
@@ -385,6 +385,14 @@
       "onboard_time": 1723845252,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302906,
+      "num": 302906,
+      "word": "异形太吓人了",
+      "onboard_time": 1723865539,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 302143,
@@ -555,6 +563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 205752,
+      "num": 205752,
+      "word": "国际体育仲裁法庭宣布美国队申诉无效",
+      "onboard_time": 1723863559,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201974,
       "num": 201974,
       "word": "马龙姚明你俩看起来有点熟啊",
@@ -569,6 +585,14 @@
       "onboard_time": 1723823060,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201703,
+      "num": 201703,
+      "word": "8名慰安妇幸存者在国内起诉日本政府",
+      "onboard_time": 1723863861,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 198421,
@@ -595,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182743,
+      "num": 182743,
+      "word": "郑钦文12连胜被终结",
+      "onboard_time": 1723861041,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180132,
       "num": 304686,
       "word": "被彩带淹没的王一博",
@@ -611,6 +643,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 175050,
+      "num": 175050,
+      "word": "南宁俩兄弟进工地玩耍不幸溺亡",
+      "onboard_time": 1723864759,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174088,
+      "num": 176620,
+      "word": "张根硕自曝1年前患甲状腺癌",
+      "onboard_time": 1723865539,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170845,
       "num": 463684,
       "word": "苹果长出的蘑菇栽培出苹果白参菌",
@@ -619,12 +667,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 165996,
-      "num": 165996,
-      "word": "郑钦文12连胜被终结",
-      "onboard_time": 1723861041,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 167948,
+      "num": 201764,
+      "word": "平次表白",
+      "onboard_time": 1723864280,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 166519,
+      "num": 166519,
+      "word": "你好星期六户外团建清凉大片",
+      "onboard_time": 1723865658,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 164265,
@@ -659,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158910,
+      "num": 258248,
+      "word": "女子旅游17万买玉市场价仅5万",
+      "onboard_time": 1723863079,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158393,
       "num": 158393,
       "word": "外卖小哥从负债累累逆袭成全国最强",
@@ -667,19 +731,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156835,
+      "num": 156835,
+      "word": "黑神话悟空PS5实机演示",
+      "onboard_time": 1723865420,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 156326,
       "num": 156326,
       "word": "刘诗雯学马龙庆祝动作",
       "onboard_time": 1723813642,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 155442,
-      "num": 155442,
-      "word": "国际体育仲裁法庭宣布美国队申诉无效",
-      "onboard_time": 1723863559,
-      "rank": 38,
       "category": "体育"
     },
     {
@@ -771,6 +835,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 141193,
+      "num": 141193,
+      "word": "女子小区里晒背遭汽车碾轧",
+      "onboard_time": 1723865359,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140396,
       "num": 140396,
       "word": "爸爸每月送女儿一束花",
@@ -787,12 +859,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137918,
-      "num": 137918,
-      "word": "平次表白",
-      "onboard_time": 1723864280,
-      "rank": 42,
-      "category": "电影"
+      "raw_hot": 137745,
+      "num": 137745,
+      "word": "九部出现了多少种未成年问题",
+      "onboard_time": 1723865720,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 134606,
@@ -840,14 +912,6 @@
       "word": "酒店回应泄露女子房间密码致异性闯入",
       "onboard_time": 1723821203,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128834,
-      "num": 128834,
-      "word": "南宁俩兄弟进工地玩耍不幸溺亡",
-      "onboard_time": 1723864759,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -937,14 +1001,6 @@
       "onboard_time": 1723817783,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 87647,
-      "num": 258248,
-      "word": "女子旅游17万买玉市场价仅5万",
-      "onboard_time": 1723863079,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76307,
@@ -1099,20 +1155,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21567,
+      "num": 141980,
+      "word": "没想到奶茶袋才是天选谷子",
+      "onboard_time": 1723864339,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 14734,
       "num": 84139,
       "word": "500艘渔船千帆竞发大场面",
       "onboard_time": 1723834993,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13286,
-      "num": 129283,
-      "word": "没想到奶茶袋才是天选谷子",
-      "onboard_time": 1723864339,
-      "rank": 45,
-      "category": "动漫"
     },
     {
       "raw_hot": 10009,
