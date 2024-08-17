@@ -1,6 +1,6 @@
 {
   "startTime": 1723825640005,
-  "endTime": 1723894496787,
+  "endTime": 1723898091427,
   "band_list": [
     {
       "raw_hot": 5105065,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1745509,
+      "num": 278107,
+      "word": "印尼74岁老太被蟒蛇吞下身亡",
+      "onboard_time": 1723893499,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1678954,
       "num": 1678954,
       "word": "异形太吓人了",
@@ -104,6 +112,14 @@
       "word": "范丞丞工作室告黑维权",
       "onboard_time": 1723875439,
       "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1498060,
+      "num": 1498060,
+      "word": "范丞丞恋情风波后首露面",
+      "onboard_time": 1723895060,
+      "rank": 0,
       "category": "艺人"
     },
     {
@@ -209,6 +225,14 @@
       "onboard_time": 1723808479,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1087376,
+      "num": 269443,
+      "word": "长期佩戴这种眼镜会加重近视",
+      "onboard_time": 1723893800,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1069073,
@@ -347,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 800173,
+      "num": 440946,
+      "word": "PUBG崩了",
+      "onboard_time": 1723897580,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 784697,
       "num": 832877,
       "word": "老板娘穿着清凉被围观附近商户发声",
@@ -403,12 +435,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 700884,
+      "num": 700884,
+      "word": "穿着清凉老板娘已更改衣着风格",
+      "onboard_time": 1723889000,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 670148,
       "num": 670148,
       "word": "郑钦文说是时候忘记金牌了",
       "onboard_time": 1723884199,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 663786,
+      "num": 663786,
+      "word": "乌合麒麟 盗墓笔记新图",
+      "onboard_time": 1723892961,
+      "rank": 31,
+      "category": "动漫"
     },
     {
       "raw_hot": 629928,
@@ -451,14 +499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 525837,
-      "num": 339533,
-      "word": "乌合麒麟 盗墓笔记新图",
-      "onboard_time": 1723892961,
-      "rank": 31,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 523636,
       "num": 385459,
       "word": "汪苏泷 雨神",
@@ -468,7 +508,7 @@
     },
     {
       "raw_hot": 514847,
-      "num": 338794,
+      "num": 429244,
       "word": "檀健次演唱会活动",
       "onboard_time": 1723878441,
       "rank": 33,
@@ -771,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314211,
+      "num": 314211,
+      "word": "邝玲玲 下一站天后",
+      "onboard_time": 1723896320,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 310368,
       "num": 310368,
       "word": "中国羽协回应张志杰遗体将火化",
@@ -812,7 +860,7 @@
     },
     {
       "raw_hot": 308247,
-      "num": 275030,
+      "num": 285208,
       "word": "李晨去了时代少年团演唱会",
       "onboard_time": 1723893739,
       "rank": 23,
@@ -865,6 +913,14 @@
       "onboard_time": 1723823960,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 295610,
+      "num": 295610,
+      "word": "余宇涵泪崩",
+      "onboard_time": 1723896740,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 291658,
@@ -1019,6 +1075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247251,
+      "num": 247251,
+      "word": "外媒分析乌克兰何以轻易攻入俄罗斯",
+      "onboard_time": 1723896561,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 246689,
       "num": 279210,
       "word": "黄宗泽再跳大巴舞",
@@ -1049,14 +1113,6 @@
       "onboard_time": 1723859780,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 234090,
-      "num": 234090,
-      "word": "穿着清凉老板娘已更改衣着风格",
-      "onboard_time": 1723889000,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232542,
@@ -1115,14 +1171,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 224320,
-      "num": 224320,
-      "word": "长期佩戴这种眼镜会加重近视",
-      "onboard_time": 1723893800,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 221316,
       "num": 221316,
       "word": "黑羽盗一没死",
@@ -1160,6 +1208,14 @@
       "word": "宋亚轩刘耀文窒息舞台",
       "onboard_time": 1723858159,
       "rank": 18,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 212962,
+      "num": 212962,
+      "word": "萧敬腾演唱会遇上广州暴雨",
+      "onboard_time": 1723896979,
+      "rank": 29,
       "category": "演出"
     },
     {
@@ -1427,6 +1483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 188380,
+      "num": 188380,
+      "word": "金价又新高了",
+      "onboard_time": 1723895180,
+      "rank": 30,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 188374,
       "num": 188374,
       "word": "宋亚轩这个转圈",
@@ -1441,6 +1505,14 @@
       "onboard_time": 1723889119,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187000,
+      "num": 187000,
+      "word": "aespa东京巨蛋饭拍",
+      "onboard_time": 1723897880,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 185439,
@@ -1491,6 +1563,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 179128,
+      "num": 179128,
+      "word": "双子座会在爱的过程中抗拒",
+      "onboard_time": 1723892719,
+      "rank": 44,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 178513,
       "num": 178513,
       "word": "妈妈二十年前的衣服也不过时",
@@ -1521,6 +1601,14 @@
       "onboard_time": 1723864580,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 176683,
+      "num": 176683,
+      "word": "马龙微博粉丝破千万",
+      "onboard_time": 1723895000,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 175802,
@@ -1739,6 +1827,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 152976,
+      "num": 152976,
+      "word": "王铮亮要碎了",
+      "onboard_time": 1723896861,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152425,
       "num": 152425,
       "word": "盗墓笔记 但是小团子版",
@@ -1763,12 +1859,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150159,
-      "num": 150159,
-      "word": "双子座会在爱的过程中抗拒",
-      "onboard_time": 1723892719,
-      "rank": 44,
-      "category": "情感,网红"
+      "raw_hot": 149851,
+      "num": 441049,
+      "word": "打1400公里顺风车逃单男子已被行拘",
+      "onboard_time": 1723897040,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149586,
@@ -1825,6 +1921,14 @@
       "onboard_time": 1723882280,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 146055,
+      "num": 146055,
+      "word": "上海德比",
+      "onboard_time": 1723896801,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 145948,
@@ -1891,12 +1995,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 139094,
+      "num": 139094,
+      "word": "BLG对战WBG",
+      "onboard_time": 1723895720,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 137931,
       "num": 137931,
       "word": "蔡徐坤地广",
       "onboard_time": 1723805602,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137538,
+      "num": 137538,
+      "word": "事业单位人员被集体清退当事人发声",
+      "onboard_time": 1723897580,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134606,
@@ -1913,6 +2033,14 @@
       "onboard_time": 1723858579,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133170,
+      "num": 133170,
+      "word": "王皓用橘子占卜马龙比赛",
+      "onboard_time": 1723897941,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 132522,
@@ -1979,6 +2107,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 128204,
+      "num": 128204,
+      "word": "民警9年救起落水者13人",
+      "onboard_time": 1723895119,
+      "rank": 46,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 127580,
       "num": 127580,
       "word": "郑钦文爸爸准备办网球培训机构",
@@ -2001,6 +2137,14 @@
       "onboard_time": 1723815622,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126322,
+      "num": 126322,
+      "word": "执医",
+      "onboard_time": 1723896020,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 126156,
