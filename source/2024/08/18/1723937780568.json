@@ -1,0 +1,410 @@
+{
+  "runTime": 1723937780568,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 623140,
+        "num": 902219,
+        "word": "雷军直播突发炸麦",
+        "onboard_time": 1723903943,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 495471,
+        "num": 495471,
+        "word": "异形吓坏8岁小孩家长投诉影城",
+        "onboard_time": 1723907242,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 3724,
+        "num": 462196,
+        "word": "数据看高质量发展中的含绿量",
+        "onboard_time": 1723900280,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445269,
+        "num": 445269,
+        "word": "粉丝要求张大大澄清范丞丞恋情",
+        "onboard_time": 1723918454,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332401,
+        "num": 332401,
+        "word": "中元节",
+        "onboard_time": 1723936634,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241092,
+        "num": 241092,
+        "word": "特鲁索娃结婚",
+        "onboard_time": 1723909042,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 391991,
+        "num": 233473,
+        "word": "严浩翔麦没关",
+        "onboard_time": 1723902200,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 216965,
+        "num": 216965,
+        "word": "这下真的记住李泽锋了",
+        "onboard_time": 1723929851,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184342,
+        "num": 184342,
+        "word": "警方辟谣10多名男子游泳池抱摔女子",
+        "onboard_time": 1723900702,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89978,
+        "num": 180387,
+        "word": "不再出具户口簿方便异地办理婚姻登记",
+        "onboard_time": 1723915394,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178324,
+        "num": 178324,
+        "word": "于正回应不给吴谨言开空调",
+        "onboard_time": 1723901181,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204044,
+        "num": 177678,
+        "word": "严浩翔回应没关麦",
+        "onboard_time": 1723936875,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166422,
+        "num": 166422,
+        "word": "中奖2.2亿不交个税成历史",
+        "onboard_time": 1723887318,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144341,
+        "num": 144341,
+        "word": "虞书欣正式被确诊为袁湘琴",
+        "onboard_time": 1723898240,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130640,
+        "num": 130640,
+        "word": "檀健次演唱会",
+        "onboard_time": 1723900521,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122908,
+        "num": 122908,
+        "word": "女子开宝马冲进早餐店致7伤",
+        "onboard_time": 1723908742,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114610,
+        "num": 114610,
+        "word": "离婚冷静期有2次反悔机会",
+        "onboard_time": 1723899201,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114172,
+        "num": 114172,
+        "word": "WTT 盲盒",
+        "onboard_time": 1723907963,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89237,
+        "num": 89237,
+        "word": "打1400公里顺风车逃单男子已被行拘",
+        "onboard_time": 1723897040,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73825,
+        "num": 88743,
+        "word": "C罗无缘沙特首冠",
+        "onboard_time": 1723937414,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252147,
+        "num": 88594,
+        "word": "印尼74岁老太被蟒蛇吞下身亡",
+        "onboard_time": 1723893499,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242710,
+        "num": 87679,
+        "word": "桃李面包怎么卖不动了",
+        "onboard_time": 1723904004,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 215508,
+        "num": 87168,
+        "word": "41人考编上岸后被清退谁把招聘当儿戏",
+        "onboard_time": 1723903703,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134954,
+        "num": 86994,
+        "word": "才知道紫色原来这么特别",
+        "onboard_time": 1723907002,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 115372,
+        "num": 86612,
+        "word": "老人误操作电动车路人险被讹",
+        "onboard_time": 1723930632,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110485,
+        "num": 85639,
+        "word": "得知相恋7年女友重病男子取消婚约",
+        "onboard_time": 1723904664,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85568,
+        "num": 85568,
+        "word": "刘耀文止咬器",
+        "onboard_time": 1723907063,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 80157,
+        "num": 80157,
+        "word": "疾控41名事业编遭清退涉事主任被停职",
+        "onboard_time": 1723904722,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70148,
+        "num": 78462,
+        "word": "鬼节",
+        "onboard_time": 1723878140,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77753,
+        "num": 77753,
+        "word": "终于理解林志玲为什么嫁给黑泽良平了",
+        "onboard_time": 1723875979,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74850,
+        "num": 74850,
+        "word": "负负得正票房",
+        "onboard_time": 1723901600,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 73763,
+        "num": 73763,
+        "word": "韩女这么会穿还不是中国进的货",
+        "onboard_time": 1723899621,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 71561,
+        "num": 71561,
+        "word": "河南洛阳一奶茶店店员与顾客互骂",
+        "onboard_time": 1723907063,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73641,
+        "num": 71554,
+        "word": "范丞丞恋情风波后首露面",
+        "onboard_time": 1723895060,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71418,
+        "num": 71418,
+        "word": "马剪完刘海的一瞬间委屈了",
+        "onboard_time": 1723933752,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 71291,
+        "num": 71291,
+        "word": "霍思燕养孔雀",
+        "onboard_time": 1723902683,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68883,
+        "num": 68883,
+        "word": "利雅得胜利1比4利雅得新月",
+        "onboard_time": 1723937655,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66388,
+        "num": 66388,
+        "word": "晚10至11点睡对心血管最好",
+        "onboard_time": 1723910541,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 65397,
+        "num": 65397,
+        "word": "WTT门票",
+        "onboard_time": 1723899381,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64044,
+        "num": 64044,
+        "word": "付航 喜剧之王",
+        "onboard_time": 1723900823,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62801,
+        "num": 62801,
+        "word": "马嘉祺破音",
+        "onboard_time": 1723901361,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 59898,
+        "num": 62801,
+        "word": "樊振东 我可以的",
+        "onboard_time": 1723904722,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59139,
+        "num": 62799,
+        "word": "女子参观兵马俑抱孩子走进俑坑",
+        "onboard_time": 1723937414,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57428,
+        "num": 62799,
+        "word": "鞠婧祎印花挂脖吊带",
+        "onboard_time": 1723934953,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57242,
+        "num": 62797,
+        "word": "高需求小猫",
+        "onboard_time": 1723916355,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56881,
+        "num": 62796,
+        "word": "国防部回应美日所谓中国军事威胁",
+        "onboard_time": 1723903884,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 54761,
+        "num": 62796,
+        "word": "宋亚轩破音",
+        "onboard_time": 1723905323,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 49993,
+        "num": 62795,
+        "word": "太尴尬了",
+        "onboard_time": 1723902023,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 46722,
+        "num": 62794,
+        "word": "卢昱晓 韩系妆造",
+        "onboard_time": 1723899142,
+        "rank": 48,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 42919,
+        "num": 62793,
+        "word": "金玟庭服装事故",
+        "onboard_time": 1723908682,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习新语#"
+    }
+  }
+}
