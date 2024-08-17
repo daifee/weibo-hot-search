@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1723930569369,
+  "endTime": 1723933067303,
   "band_list": [
     {
       "raw_hot": 2113689,
@@ -451,6 +451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 46650,
+      "num": 46650,
+      "word": "这下真的记住李泽锋了",
+      "onboard_time": 1723929851,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 41268,
       "num": 149844,
       "word": "手心咖啡店",
@@ -467,12 +475,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20010,
-      "num": 27030,
-      "word": "这下真的记住李泽锋了",
-      "onboard_time": 1723929851,
-      "rank": 46,
-      "category": "综艺"
+      "raw_hot": 21844,
+      "num": 33164,
+      "word": "老人误操作电动车路人险被讹",
+      "onboard_time": 1723930632,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19810,
