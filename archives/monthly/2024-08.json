@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1723929480987,
+  "endTime": 1723930569369,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -53049,6 +53049,14 @@
       "onboard_time": 1723234392,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20010,
+      "num": 27030,
+      "word": "这下真的记住李泽锋了",
+      "onboard_time": 1723929851,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 19984,

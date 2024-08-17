@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1723929480987,
+  "endTime": 1723930569369,
   "band_list": [
     {
       "raw_hot": 2113689,
@@ -464,6 +464,14 @@
       "word": "周深蹦苗迪就很家乡味",
       "onboard_time": 1723922951,
       "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 20010,
+      "num": 27030,
+      "word": "这下真的记住李泽锋了",
+      "onboard_time": 1723929851,
+      "rank": 46,
       "category": "综艺"
     },
     {
