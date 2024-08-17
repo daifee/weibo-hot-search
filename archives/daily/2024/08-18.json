@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1723916082402,
+  "endTime": 1723919138148,
   "band_list": [
     {
       "raw_hot": 2113689,
@@ -184,6 +184,14 @@
       "word": "中奖2.2亿不交个税成历史",
       "onboard_time": 1723887318,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295107,
+      "num": 295107,
+      "word": "不再出具户口簿方便异地办理婚姻登记",
+      "onboard_time": 1723915394,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -411,6 +419,30 @@
       "category": "演出"
     },
     {
+      "raw_hot": 79304,
+      "num": 79304,
+      "word": "粉丝要求张大大澄清范丞丞恋情",
+      "onboard_time": 1723918454,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 69481,
+      "num": 69481,
+      "word": "高需求小猫",
+      "onboard_time": 1723916355,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 62750,
+      "num": 67085,
+      "word": "檀健次演唱会万人合唱",
+      "onboard_time": 1723917854,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 48708,
       "num": 247041,
       "word": "国防部回应美日所谓中国军事威胁",
@@ -427,12 +459,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 23290,
-      "num": 254720,
-      "word": "不再出具户口簿方便异地办理婚姻登记",
-      "onboard_time": 1723915394,
+      "raw_hot": 19810,
+      "num": 163959,
+      "word": "孙佳俊回家第一时间拥抱家人",
+      "onboard_time": 1723917254,
       "rank": 9,
-      "category": "社会新闻"
+      "category": "体育"
     },
     {
       "raw_hot": 14255,
