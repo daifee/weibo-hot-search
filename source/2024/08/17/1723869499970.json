@@ -1,0 +1,410 @@
+{
+  "runTime": 1723869499970,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2648092,
+        "num": 2648092,
+        "word": "被举报暴露杭州超市老板娘发声",
+        "onboard_time": 1723861220,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1678954,
+        "num": 1678954,
+        "word": "异形太吓人了",
+        "onboard_time": 1723865539,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 33456,
+        "num": 1444606,
+        "word": "文脉华章",
+        "onboard_time": 1723866561,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1283279,
+        "num": 1283279,
+        "word": "樊振东 横空出世",
+        "onboard_time": 1723867098,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1216583,
+        "num": 1216583,
+        "word": "女子小区里晒背遭汽车碾轧",
+        "onboard_time": 1723865359,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1149486,
+        "num": 1149486,
+        "word": "结婚自由离婚不自由还能说婚姻自由吗",
+        "onboard_time": 1723819883,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 965649,
+        "num": 965649,
+        "word": "张根硕自曝1年前患甲状腺癌",
+        "onboard_time": 1723865539,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 923047,
+        "num": 923047,
+        "word": "奥运结束后空荡荡的巴黎",
+        "onboard_time": 1723860620,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 833903,
+        "num": 833903,
+        "word": "郑钦文无缘辛辛那提站8强",
+        "onboard_time": 1723860198,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279865,
+        "num": 832877,
+        "word": "老板娘穿着清凉被围观附近商户发声",
+        "onboard_time": 1723867639,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1117498,
+        "num": 832752,
+        "word": "范丞丞zzoexxll蝴蝶纹身",
+        "onboard_time": 1723857138,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 832412,
+        "num": 832412,
+        "word": "官方称设离婚冷静期是为减少冲动离婚",
+        "onboard_time": 1723861821,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 708615,
+        "num": 708615,
+        "word": "酒店竟用马桶刷蘸马桶水刷马桶",
+        "onboard_time": 1723852877,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81892,
+        "num": 627791,
+        "word": "文咏珊睡美人",
+        "onboard_time": 1723865839,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 605087,
+        "num": 605087,
+        "word": "离婚冷静期和离婚自由不冲突",
+        "onboard_time": 1723863019,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587124,
+        "num": 587124,
+        "word": "民政部回应设置离婚冷静期",
+        "onboard_time": 1723836552,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545700,
+        "num": 545700,
+        "word": "九部出现了多少种未成年问题",
+        "onboard_time": 1723865720,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 535972,
+        "num": 535972,
+        "word": "邓亚萍18岁儿子获乒乓球全国冠军",
+        "onboard_time": 1723853358,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 432877,
+        "num": 432877,
+        "word": "家昱户筱领证被误会成离婚",
+        "onboard_time": 1723867881,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 402040,
+        "num": 402040,
+        "word": "李承铉官宣TF三代导师",
+        "onboard_time": 1723868241,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 472352,
+        "num": 400235,
+        "word": "教练说王昶梁伟铿输决赛的原因",
+        "onboard_time": 1723868241,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 368281,
+        "num": 368281,
+        "word": "家长投诉影院",
+        "onboard_time": 1723867159,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 351808,
+        "num": 351808,
+        "word": "新房未入住被陌生人住了4天",
+        "onboard_time": 1723861519,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338510,
+        "num": 338510,
+        "word": "蔡徐坤 AVIA",
+        "onboard_time": 1723856778,
+        "rank": 23,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 321783,
+        "num": 321783,
+        "word": "于正回应白鹿粉丝维权",
+        "onboard_time": 1723868840,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308671,
+        "num": 308671,
+        "word": "女儿想玩蹦床妈妈当众怒骂你是疯了吗",
+        "onboard_time": 1723860139,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296973,
+        "num": 296973,
+        "word": "南宁俩兄弟进工地玩耍不幸溺亡",
+        "onboard_time": 1723864759,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87878,
+        "num": 283038,
+        "word": "平次表白",
+        "onboard_time": 1723864280,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 278723,
+        "num": 278723,
+        "word": "8名慰安妇幸存者在国内起诉日本政府",
+        "onboard_time": 1723863861,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 254058,
+        "num": 254058,
+        "word": "张兰直播途中摔倒",
+        "onboard_time": 1723859359,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252763,
+        "num": 252763,
+        "word": "女子旅游17万买玉市场价仅5万",
+        "onboard_time": 1723863079,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251589,
+        "num": 251589,
+        "word": "全红婵6岁到17岁的变化",
+        "onboard_time": 1723867040,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244278,
+        "num": 244278,
+        "word": "公公来送菜知道门的密码选择门外等",
+        "onboard_time": 1723855279,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243560,
+        "num": 243560,
+        "word": "学韩语的看到天都塌了",
+        "onboard_time": 1723868359,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66938,
+        "num": 232581,
+        "word": "柳舟记",
+        "onboard_time": 1723867760,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232542,
+        "num": 232542,
+        "word": "看异形别带小孩",
+        "onboard_time": 1723867460,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 231109,
+        "num": 231109,
+        "word": "吃见手青为了看见去世10年的老伴",
+        "onboard_time": 1723868121,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207857,
+        "num": 207857,
+        "word": "民政部称离婚冷静期实施效果较好",
+        "onboard_time": 1723862421,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200588,
+        "num": 200588,
+        "word": "黑神话悟空PS5实机演示",
+        "onboard_time": 1723865420,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198706,
+        "num": 198706,
+        "word": "高铁即将关门2岁娃突然跑下车",
+        "onboard_time": 1723868900,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193288,
+        "num": 193288,
+        "word": "王濛说拿块金牌不是手拿把掐",
+        "onboard_time": 1723866861,
+        "rank": 40,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 189591,
+        "num": 189591,
+        "word": "花花掉地上后一脸不可置信",
+        "onboard_time": 1723856778,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180845,
+        "num": 180845,
+        "word": "严浩翔粉丝买的是一日约会票",
+        "onboard_time": 1723867881,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 178544,
+        "num": 178544,
+        "word": "网传某公职人员与女子不雅聊天记录",
+        "onboard_time": 1723860501,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177738,
+        "num": 177738,
+        "word": "我家猫在床底藏了179颗球",
+        "onboard_time": 1723857020,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177545,
+        "num": 177545,
+        "word": "刘光耀离婚",
+        "onboard_time": 1723853418,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 165650,
+        "num": 165650,
+        "word": "中国电信天价资费调查结果公布",
+        "onboard_time": 1723866498,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 160512,
+        "num": 160512,
+        "word": "高定诈骗忽悠瘸了多少聪明人",
+        "onboard_time": 1723866920,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146960,
+        "num": 146960,
+        "word": "菜价达近10年同期最高值",
+        "onboard_time": 1723866979,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145795,
+        "num": 145795,
+        "word": "梁龙组没有向佐可怎么活",
+        "onboard_time": 1723857738,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈生态文明#"
+    }
+  }
+}
