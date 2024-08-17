@@ -1,0 +1,410 @@
+{
+  "runTime": 1723859041587,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1767025,
+        "num": 1767025,
+        "word": "邓亚萍18岁儿子获乒乓球全国冠军",
+        "onboard_time": 1723853358,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 936243,
+        "num": 936243,
+        "word": "刘光耀离婚",
+        "onboard_time": 1723853418,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 8424,
+        "num": 900335,
+        "word": "遥感四十三号01组卫星发射成功",
+        "onboard_time": 1723798583,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1613553,
+        "num": 899483,
+        "word": "酒店竟用马桶刷蘸马桶水刷马桶",
+        "onboard_time": 1723852877,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 889651,
+        "num": 889651,
+        "word": "结婚自由离婚不自由还能说婚姻自由吗",
+        "onboard_time": 1723819883,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 852250,
+        "num": 852250,
+        "word": "质疑潘展乐成绩的西方人悄悄改口",
+        "onboard_time": 1723852697,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 629928,
+        "num": 629928,
+        "word": "蔡徐坤 AVIA",
+        "onboard_time": 1723856778,
+        "rank": 6,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 625664,
+        "num": 625664,
+        "word": "民政部回应设置离婚冷静期",
+        "onboard_time": 1723836552,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 618652,
+        "num": 618652,
+        "word": "LV推小乌龟挂件7400元一个",
+        "onboard_time": 1723815442,
+        "rank": 8,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 28337,
+        "num": 613948,
+        "word": "律师解读隐瞒重大疾病可撤销婚姻",
+        "onboard_time": 1723858159,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1169778,
+        "num": 613863,
+        "word": "范丞丞zzoexxll蝴蝶纹身",
+        "onboard_time": 1723857138,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 613530,
+        "num": 613530,
+        "word": "向佐要退赛差点被雅揍了",
+        "onboard_time": 1723852937,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 533006,
+        "num": 533006,
+        "word": "邓亚萍儿子喜欢王楚钦",
+        "onboard_time": 1723855158,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 526623,
+        "num": 526623,
+        "word": "我妈1990年买的牛仔裤真的绝了",
+        "onboard_time": 1723853238,
+        "rank": 13,
+        "category": "时尚,幽默"
+      },
+      {
+        "raw_hot": 60395,
+        "num": 463684,
+        "word": "苹果长出的蘑菇栽培出苹果白参菌",
+        "onboard_time": 1723857920,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408965,
+        "num": 408965,
+        "word": "郑钦文比赛",
+        "onboard_time": 1723850296,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 407750,
+        "num": 407750,
+        "word": "梁伟铿的脾气是真好",
+        "onboard_time": 1723853897,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 385918,
+        "num": 385918,
+        "word": "公公来送菜知道门的密码选择门外等",
+        "onboard_time": 1723855279,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208601,
+        "num": 368391,
+        "word": "宋亚轩刘耀文窒息舞台",
+        "onboard_time": 1723858159,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196749,
+        "num": 366932,
+        "word": "爱奇艺破万墙",
+        "onboard_time": 1723831873,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 365781,
+        "num": 365781,
+        "word": "范丞丞恋情瓜关系网总结",
+        "onboard_time": 1723808479,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319093,
+        "num": 319093,
+        "word": "花花掉地上后一脸不可置信",
+        "onboard_time": 1723856778,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 302143,
+        "num": 302143,
+        "word": "小米汽车",
+        "onboard_time": 1723857379,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 295006,
+        "num": 295006,
+        "word": "解决天价彩礼等问题有了新思路",
+        "onboard_time": 1723824798,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254638,
+        "num": 254638,
+        "word": "还了30万房贷有22万是利息",
+        "onboard_time": 1723854439,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 250738,
+        "num": 250738,
+        "word": "领导突然要我把头像换了",
+        "onboard_time": 1723852697,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248259,
+        "num": 248259,
+        "word": "中国羽协回应张志杰遗体将火化",
+        "onboard_time": 1723852998,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233542,
+        "num": 233542,
+        "word": "西湖边的树冒黑烟是蚊子在交配",
+        "onboard_time": 1723847532,
+        "rank": 27,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 206493,
+        "num": 218786,
+        "word": "小白 标准蛇系美人",
+        "onboard_time": 1723856538,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163959,
+        "num": 213991,
+        "word": "雅好帅",
+        "onboard_time": 1723857858,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210714,
+        "num": 210714,
+        "word": "郑钦文vs帕夫柳琴科娃",
+        "onboard_time": 1723856059,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206839,
+        "num": 206839,
+        "word": "41名事业单位人员被集体清退",
+        "onboard_time": 1723818860,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193142,
+        "num": 193142,
+        "word": "我家猫在床底藏了179颗球",
+        "onboard_time": 1723857020,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181876,
+        "num": 181876,
+        "word": "梁龙组没有向佐可怎么活",
+        "onboard_time": 1723857738,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167496,
+        "num": 167496,
+        "word": "别人冒用自己身份证领结婚证怎么办",
+        "onboard_time": 1723809620,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155561,
+        "num": 155561,
+        "word": "外卖小哥从负债累累逆袭成全国最强",
+        "onboard_time": 1723836852,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152539,
+        "num": 152539,
+        "word": "女孩被老师打破头骨老师当庭翻供",
+        "onboard_time": 1723819102,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149686,
+        "num": 149686,
+        "word": "绿牌特斯拉Cybertruck现身天津街头",
+        "onboard_time": 1723852758,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 145948,
+        "num": 145948,
+        "word": "国际人士批美国干扰中国游泳运动员",
+        "onboard_time": 1723858459,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145552,
+        "num": 145552,
+        "word": "zzoexxll街头采访理想型",
+        "onboard_time": 1723808240,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143466,
+        "num": 143466,
+        "word": "荷花把中式美学氛围拉满了",
+        "onboard_time": 1723858459,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 142789,
+        "num": 142789,
+        "word": "美允许服用兴奋剂运动员参赛当线人",
+        "onboard_time": 1723851495,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142474,
+        "num": 142474,
+        "word": "邓颖超主张一方坚持要离婚就可离",
+        "onboard_time": 1723816402,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140722,
+        "num": 140722,
+        "word": "郑钦文带病取胜",
+        "onboard_time": 1723851675,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130482,
+        "num": 138710,
+        "word": "被彩带淹没的王一博",
+        "onboard_time": 1723822641,
+        "rank": 44,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 137103,
+        "num": 137103,
+        "word": "父亲马路罚跪3个孩子竟为逼妻现身",
+        "onboard_time": 1723814002,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133998,
+        "num": 133998,
+        "word": "不要担心2小时后和8公里外的事",
+        "onboard_time": 1723858579,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133855,
+        "num": 133855,
+        "word": "樊振东在奥运村天天拿两片披萨",
+        "onboard_time": 1723817842,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131486,
+        "num": 131486,
+        "word": "张兰晒大S出轨证据",
+        "onboard_time": 1723801521,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126232,
+        "num": 126232,
+        "word": "郑钦文说金牌得主称号不会永远保持",
+        "onboard_time": 1723854619,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习新语#"
+    }
+  }
+}
