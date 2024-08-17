@@ -1,6 +1,6 @@
 {
   "startTime": 1723307155481,
-  "endTime": 1723905310827,
+  "endTime": 1723907972712,
   "band_list": [
     {
       "raw_hot": 25984443,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2982501,
+      "num": 2982501,
+      "word": "严浩翔麦没关",
+      "onboard_time": 1723902200,
+      "rank": 0,
+      "category": "演出"
+    },
+    {
       "raw_hot": 2981298,
       "num": 828325,
       "word": "zzoexxll 胡文煊前女友",
@@ -481,14 +489,6 @@
       "onboard_time": 1723623681,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2742507,
-      "num": 2742507,
-      "word": "严浩翔麦没关",
-      "onboard_time": 1723902200,
-      "rank": 0,
-      "category": "演出"
     },
     {
       "raw_hot": 2689840,
@@ -660,7 +660,7 @@
     },
     {
       "raw_hot": 2352361,
-      "num": 1165282,
+      "num": 1201413,
       "word": "太尴尬了",
       "onboard_time": 1723902023,
       "rank": 6,
@@ -2315,6 +2315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1227286,
+      "num": 1227286,
+      "word": "雷军直播突发炸麦",
+      "onboard_time": 1723903943,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1222085,
       "num": 1222085,
       "word": "虞书欣正式被确诊为袁湘琴",
@@ -2577,6 +2585,14 @@
       "onboard_time": 1723426221,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1159853,
+      "num": 329898,
+      "word": "桃李面包怎么卖不动了",
+      "onboard_time": 1723904004,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 1156393,
@@ -3113,6 +3129,14 @@
       "onboard_time": 1723595300,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 999605,
+      "num": 807685,
+      "word": "宋亚轩破音",
+      "onboard_time": 1723905323,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 995159,
@@ -3899,6 +3923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 813514,
+      "num": 813514,
+      "word": "警方辟谣10多名男子游泳池抱摔女子",
+      "onboard_time": 1723900702,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 809360,
       "num": 809360,
       "word": "樊振东人还怪好嘞",
@@ -4057,6 +4089,14 @@
       "onboard_time": 1723628902,
       "rank": 23,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 779654,
+      "num": 583279,
+      "word": "完年 和好吧",
+      "onboard_time": 1723905502,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 778806,
@@ -4603,6 +4643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 670685,
+      "num": 476907,
+      "word": "刘耀文止咬器",
+      "onboard_time": 1723907063,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 670627,
       "num": 847672,
       "word": "当地回应银行董事长被人捅伤致死",
@@ -4929,6 +4977,14 @@
       "onboard_time": 1723772720,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 633075,
+      "num": 633075,
+      "word": "樊振东 我可以的",
+      "onboard_time": 1723904722,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 632668,
@@ -5563,14 +5619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 546391,
-      "num": 329898,
-      "word": "桃李面包怎么卖不动了",
-      "onboard_time": 1723904004,
-      "rank": 26,
-      "category": "美食"
-    },
-    {
       "raw_hot": 545833,
       "num": 545833,
       "word": "伊朗",
@@ -5625,6 +5673,14 @@
       "onboard_time": 1723388730,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 541309,
+      "num": 739198,
+      "word": "41人考编上岸后被清退谁把招聘当儿戏",
+      "onboard_time": 1723903703,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 536771,
@@ -5987,6 +6043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 486632,
+      "num": 304765,
+      "word": "得知相恋7年女友重病男子取消婚约",
+      "onboard_time": 1723904664,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 486051,
       "num": 486051,
       "word": "美团回应杭州外卖员事件",
@@ -6177,14 +6241,6 @@
       "onboard_time": 1723370602,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 465353,
-      "num": 465353,
-      "word": "樊振东 我可以的",
-      "onboard_time": 1723904722,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 465062,
@@ -7161,6 +7217,14 @@
       "onboard_time": 1723869921,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 386625,
+      "num": 300520,
+      "word": "林俊杰李荣浩合唱曹操",
+      "onboard_time": 1723905142,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 385736,
@@ -8195,6 +8259,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 332229,
+      "num": 332229,
+      "word": "河南洛阳一奶茶店店员与顾客互骂",
+      "onboard_time": 1723907063,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 331631,
       "num": 331631,
       "word": "皮肤饥渴症",
@@ -9035,14 +9107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 303555,
-      "num": 303555,
-      "word": "得知相恋7年女友重病男子取消婚约",
-      "onboard_time": 1723904664,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 303531,
       "num": 303531,
       "word": "阿勒泰的秋天",
@@ -9321,14 +9385,6 @@
       "onboard_time": 1723539383,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 293340,
-      "num": 293340,
-      "word": "雷军直播突发炸麦",
-      "onboard_time": 1723903943,
-      "rank": 45,
-      "category": "汽车"
     },
     {
       "raw_hot": 293296,
@@ -9793,6 +9849,14 @@
       "onboard_time": 1723361482,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 280098,
+      "num": 280098,
+      "word": "何炅王鹤棣看演唱会的reaction",
+      "onboard_time": 1723907602,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 279844,
@@ -11003,14 +11067,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 247391,
-      "num": 247391,
-      "word": "林俊杰李荣浩合唱曹操",
-      "onboard_time": 1723905142,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 247074,
       "num": 247074,
       "word": "萧敬腾演唱会遇上广州暴雨",
@@ -11177,6 +11233,14 @@
       "onboard_time": 1723633879,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 244168,
+      "num": 244168,
+      "word": "才知道紫色原来这么特别",
+      "onboard_time": 1723907002,
+      "rank": 36,
+      "category": "科学科普"
     },
     {
       "raw_hot": 244138,
@@ -11827,6 +11891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 229966,
+      "num": 618516,
+      "word": "异形吓坏8岁小孩家长投诉影城",
+      "onboard_time": 1723907242,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229943,
       "num": 220859,
       "word": "孙颖莎 东北口音",
@@ -12315,6 +12387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 220452,
+      "num": 220452,
+      "word": "檀健次一首歌唱完15年的微博文案",
+      "onboard_time": 1723907721,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 220405,
       "num": 220405,
       "word": "酒桌文化会被90后00后终结吗",
@@ -12529,6 +12609,14 @@
       "onboard_time": 1723506918,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215989,
+      "num": 635110,
+      "word": "疾控41名事业编遭清退涉事主任被停职",
+      "onboard_time": 1723904722,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215906,
@@ -13321,6 +13409,14 @@
       "onboard_time": 1723526361,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205165,
+      "num": 205165,
+      "word": "盗墓笔记",
+      "onboard_time": 1723907362,
+      "rank": 43,
+      "category": "读书作家"
     },
     {
       "raw_hot": 205003,
@@ -14699,6 +14795,14 @@
       "category": "科学科普,美妆"
     },
     {
+      "raw_hot": 189790,
+      "num": 189790,
+      "word": "许嵩演唱会",
+      "onboard_time": 1723906942,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 189750,
       "num": 189750,
       "word": "马嘉祺严浩翔 曾经我也想过一了百了",
@@ -15489,14 +15593,6 @@
       "onboard_time": 1723812140,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176454,
-      "num": 739198,
-      "word": "41人考编上岸后被清退谁把招聘当儿戏",
-      "onboard_time": 1723903703,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176450,
@@ -19163,6 +19259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 61588,
+      "num": 527642,
+      "word": "疾控招聘作废事件当地正精简事业编",
+      "onboard_time": 1723906343,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61580,
       "num": 2014088,
       "word": "300金长卷铺就体育强国路",
@@ -19321,14 +19425,6 @@
       "onboard_time": 1723513521,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 57662,
-      "num": 635110,
-      "word": "疾控41名事业编遭清退涉事主任被停职",
-      "onboard_time": 1723904722,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 57552,
