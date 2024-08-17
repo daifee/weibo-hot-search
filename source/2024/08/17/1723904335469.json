@@ -1,0 +1,410 @@
+{
+  "runTime": 1723904335469,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2109402,
+        "num": 2109402,
+        "word": "严浩翔麦没关",
+        "onboard_time": 1723902200,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1848248,
+        "num": 1848248,
+        "word": "离婚冷静期有2次反悔机会",
+        "onboard_time": 1723899201,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91010,
+        "num": 1436222,
+        "word": "看塞罕坝荒漠沙地变千里松林",
+        "onboard_time": 1723900521,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1937464,
+        "num": 1393052,
+        "word": "马嘉祺破音",
+        "onboard_time": 1723901361,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1301195,
+        "num": 1301195,
+        "word": "樊振东 偶像剧的既视感",
+        "onboard_time": 1723898420,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1141505,
+        "num": 1141505,
+        "word": "WTT门票",
+        "onboard_time": 1723899381,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1655514,
+        "num": 1043761,
+        "word": "太尴尬了",
+        "onboard_time": 1723902023,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1213324,
+        "num": 877143,
+        "word": "虞书欣正式被确诊为袁湘琴",
+        "onboard_time": 1723898240,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 619928,
+        "num": 619928,
+        "word": "中奖2.2亿不交个税成历史",
+        "onboard_time": 1723887318,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48388,
+        "num": 619928,
+        "word": "41人考编上岸后被清退谁把招聘当儿戏",
+        "onboard_time": 1723903703,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1075321,
+        "num": 619914,
+        "word": "于正回应不给吴谨言开空调",
+        "onboard_time": 1723901181,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 921340,
+        "num": 619907,
+        "word": "檀健次演唱会",
+        "onboard_time": 1723900521,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 727620,
+        "num": 619894,
+        "word": "范丞丞恋情风波后首露面",
+        "onboard_time": 1723895060,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 635680,
+        "num": 619884,
+        "word": "严浩翔 我不换裤子啦",
+        "onboard_time": 1723903103,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 619882,
+        "num": 619882,
+        "word": "网传女生在泳池内被男生轮流抱摔霸凌",
+        "onboard_time": 1723900702,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586722,
+        "num": 586722,
+        "word": "鬼节",
+        "onboard_time": 1723878140,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347849,
+        "num": 347849,
+        "word": "打1400公里顺风车逃单男子已被行拘",
+        "onboard_time": 1723897040,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340463,
+        "num": 340463,
+        "word": "大理偶遇郭晶晶霍启刚一家",
+        "onboard_time": 1723900340,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330339,
+        "num": 330339,
+        "word": "光轮1932",
+        "onboard_time": 1723902683,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 282509,
+        "num": 282509,
+        "word": "丫丫已经判若两熊了",
+        "onboard_time": 1723872081,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 983490,
+        "num": 280248,
+        "word": "印尼74岁老太被蟒蛇吞下身亡",
+        "onboard_time": 1723893499,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564763,
+        "num": 277411,
+        "word": "霍思燕养孔雀",
+        "onboard_time": 1723902683,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 696957,
+        "num": 275378,
+        "word": "事业单位人员被集体清退当事人发声",
+        "onboard_time": 1723897580,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665962,
+        "num": 272076,
+        "word": "韩女这么会穿还不是中国进的货",
+        "onboard_time": 1723899621,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 472817,
+        "num": 268720,
+        "word": "卢昱晓 韩系妆造",
+        "onboard_time": 1723899142,
+        "rank": 24,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 424441,
+        "num": 264918,
+        "word": "长期佩戴这种眼镜会加重近视",
+        "onboard_time": 1723893800,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 401602,
+        "num": 260303,
+        "word": "桃李面包怎么卖不动了",
+        "onboard_time": 1723904004,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 394145,
+        "num": 258937,
+        "word": "严浩翔贺峻霖耻辱柱舞台",
+        "onboard_time": 1723898361,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 364779,
+        "num": 253305,
+        "word": "负负得正票房",
+        "onboard_time": 1723901600,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 326249,
+        "num": 251023,
+        "word": "时代少年团演唱会节目单",
+        "onboard_time": 1723899022,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 323461,
+        "num": 247280,
+        "word": "付航 喜剧之王",
+        "onboard_time": 1723900823,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306512,
+        "num": 243236,
+        "word": "檀健次点痣",
+        "onboard_time": 1723902443,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 282695,
+        "num": 240575,
+        "word": "终于理解林志玲为什么嫁给黑泽良平了",
+        "onboard_time": 1723875979,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239487,
+        "num": 239487,
+        "word": "马龙 电影里都演不出来的眼神",
+        "onboard_time": 1723882700,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283593,
+        "num": 238605,
+        "word": "时代少年团单人直拍排名",
+        "onboard_time": 1723900763,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 266856,
+        "num": 236543,
+        "word": "王铮亮好惨的第一",
+        "onboard_time": 1723889418,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276161,
+        "num": 236288,
+        "word": "檀健次演唱会活动",
+        "onboard_time": 1723878441,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 233800,
+        "num": 233800,
+        "word": "小孩说不敢想自己能夺冠",
+        "onboard_time": 1723904004,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 230433,
+        "num": 230433,
+        "word": "乌合麒麟 盗墓笔记新图",
+        "onboard_time": 1723892961,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 229932,
+        "num": 229932,
+        "word": "四川一男子偷走村里的水泥路",
+        "onboard_time": 1723901422,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254107,
+        "num": 229124,
+        "word": "范丞丞工作室告黑维权",
+        "onboard_time": 1723875439,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226080,
+        "num": 226080,
+        "word": "美核武器政策将其企图暴露无遗",
+        "onboard_time": 1723898960,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 215953,
+        "num": 215953,
+        "word": "全世界偶遇白鹿",
+        "onboard_time": 1723899681,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206609,
+        "num": 206609,
+        "word": "异形太吓人了",
+        "onboard_time": 1723865539,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203790,
+        "num": 203790,
+        "word": "马嘉祺宋亚轩张真源崇拜舞台",
+        "onboard_time": 1723903823,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188762,
+        "num": 188762,
+        "word": "雷军直播突发炸麦",
+        "onboard_time": 1723903943,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 187493,
+        "num": 187493,
+        "word": "樊振东任上海市青联常委",
+        "onboard_time": 1723878140,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185430,
+        "num": 185430,
+        "word": "戏影对视",
+        "onboard_time": 1723902323,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183086,
+        "num": 183086,
+        "word": "国防部回应美日所谓中国军事威胁",
+        "onboard_time": 1723903884,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 180446,
+        "num": 180446,
+        "word": "外媒分析乌克兰何以轻易攻入俄罗斯",
+        "onboard_time": 1723896561,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习新语#"
+    }
+  }
+}
