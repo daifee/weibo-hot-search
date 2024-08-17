@@ -1,6 +1,6 @@
 {
   "startTime": 1723825640005,
-  "endTime": 1723875974465,
+  "endTime": 1723876741178,
   "band_list": [
     {
       "raw_hot": 5105065,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1602540,
+      "num": 1602540,
+      "word": "范丞丞工作室告黑维权",
+      "onboard_time": 1723875439,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1465034,
       "num": 1465034,
       "word": "丫丫已经判若两熊了",
@@ -89,14 +97,6 @@
       "onboard_time": 1723867098,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1219244,
-      "num": 1219244,
-      "word": "范丞丞工作室告黑维权",
-      "onboard_time": 1723875439,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 1216583,
@@ -347,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 479597,
+      "num": 479597,
+      "word": "陈梦姜妍看刘谦魔术表演",
+      "onboard_time": 1723874599,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 473218,
       "num": 473218,
       "word": "食物语",
@@ -395,14 +403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 416914,
-      "num": 416914,
-      "word": "陈梦姜妍看刘谦魔术表演",
-      "onboard_time": 1723874599,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 408451,
       "num": 460706,
       "word": "没有耻辱柱",
@@ -424,6 +424,14 @@
       "word": "李承铉官宣TF三代导师",
       "onboard_time": 1723868241,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 399882,
+      "num": 399882,
+      "word": "终于理解林志玲为什么嫁给黑泽良平了",
+      "onboard_time": 1723875979,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -499,6 +507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 333649,
+      "num": 333649,
+      "word": "潘玮柏因体重退出跳水体验",
+      "onboard_time": 1723875979,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 333245,
       "num": 398531,
       "word": "脱口秀大会",
@@ -545,6 +561,14 @@
       "onboard_time": 1723863861,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 320803,
+      "num": 370835,
+      "word": "付航脱口秀炸翻了",
+      "onboard_time": 1723875200,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 320749,
@@ -907,14 +931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200280,
-      "num": 310241,
-      "word": "付航脱口秀炸翻了",
-      "onboard_time": 1723875200,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 200035,
       "num": 200035,
       "word": "符龙飞组为啥分这么低",
@@ -947,6 +963,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197482,
+      "num": 197482,
+      "word": "李克勤 我眼光没这么差的",
+      "onboard_time": 1723875920,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195180,
       "num": 208782,
       "word": "向佐气哭俩老头",
@@ -971,6 +995,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 185439,
+      "num": 563890,
+      "word": "身骑白马的追风女孩太飒了",
+      "onboard_time": 1723875140,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184755,
       "num": 184755,
       "word": "离婚冷静期真的能降低离婚率吗",
@@ -993,6 +1025,14 @@
       "onboard_time": 1723822641,
       "rank": 32,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 178513,
+      "num": 178513,
+      "word": "妈妈二十年前的衣服也不过时",
+      "onboard_time": 1723875798,
+      "rank": 44,
+      "category": "时尚"
     },
     {
       "raw_hot": 177174,
@@ -1027,14 +1067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168624,
-      "num": 168624,
-      "word": "妈妈二十年前的衣服也不过时",
-      "onboard_time": 1723875798,
-      "rank": 44,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 167948,
       "num": 283038,
       "word": "平次表白",
@@ -1048,14 +1080,6 @@
       "word": "你好星期六户外团建清凉大片",
       "onboard_time": 1723865658,
       "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 164491,
-      "num": 164491,
-      "word": "李克勤 我眼光没这么差的",
-      "onboard_time": 1723875920,
-      "rank": 46,
       "category": "综艺"
     },
     {
@@ -1081,6 +1105,14 @@
       "onboard_time": 1723810821,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160735,
+      "num": 160735,
+      "word": "老板娘穿着清凉被围观后暂时关门",
+      "onboard_time": 1723876160,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160512,
@@ -1177,6 +1209,14 @@
       "onboard_time": 1723863019,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147736,
+      "num": 147736,
+      "word": "郭麒麟新剧吃饭擦手惹祸",
+      "onboard_time": 1723876640,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 147115,
@@ -1347,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110676,
+      "num": 265425,
+      "word": "胡一天 小DAY总",
+      "onboard_time": 1723876339,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106806,
       "num": 126895,
       "word": "陈梦说东京奥运会后三年很煎熬",
@@ -1379,18 +1427,26 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 94882,
-      "num": 563890,
-      "word": "身骑白马的追风女孩太飒了",
-      "onboard_time": 1723875140,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 96576,
+      "num": 223392,
+      "word": "李泽锋晒合照告别披荆斩棘",
+      "onboard_time": 1723876520,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 93633,
       "num": 790119,
       "word": "结婚不再需要户口本意味着什么",
       "onboard_time": 1723871240,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84407,
+      "num": 471919,
+      "word": "入住千万精装房后业主每天抓虫子",
+      "onboard_time": 1723876339,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -1417,6 +1473,14 @@
       "onboard_time": 1723849934,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 71019,
+      "num": 438493,
+      "word": "性格稳定的人不容易中风",
+      "onboard_time": 1723874840,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69720,
@@ -1523,14 +1587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 40757,
-      "num": 438493,
-      "word": "性格稳定的人不容易中风",
-      "onboard_time": 1723874840,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 40452,
       "num": 60800,
       "word": "严浩翔鸡蛋涂鸦",
@@ -1617,6 +1673,14 @@
       "onboard_time": 1723864339,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 15075,
+      "num": 469970,
+      "word": "专家谈结婚登记拟不再要户口簿",
+      "onboard_time": 1723876579,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14734,
