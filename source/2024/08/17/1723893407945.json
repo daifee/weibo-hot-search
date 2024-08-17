@@ -1,0 +1,410 @@
+{
+  "runTime": 1723893407945,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1956823,
+        "num": 1956823,
+        "word": "中奖2.2亿不交个税成历史",
+        "onboard_time": 1723887318,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1306465,
+        "num": 1306465,
+        "word": "王铮亮好惨的第一",
+        "onboard_time": 1723889418,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14601,
+        "num": 1011263,
+        "word": "会唱歌的院子全阵容官宣",
+        "onboard_time": 1723864158,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 974490,
+        "num": 974490,
+        "word": "马龙 电影里都演不出来的眼神",
+        "onboard_time": 1723882700,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 566965,
+        "num": 566965,
+        "word": "打1400公里顺风车逃单乘客已付车费",
+        "onboard_time": 1723880659,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512893,
+        "num": 512893,
+        "word": "丫丫已经判若两熊了",
+        "onboard_time": 1723872081,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 575776,
+        "num": 492417,
+        "word": "范丞丞工作室告黑维权",
+        "onboard_time": 1723875439,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 537825,
+        "num": 457559,
+        "word": "庞博 没关系会过去的",
+        "onboard_time": 1723887437,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 388169,
+        "num": 388169,
+        "word": "高铁即将关门2岁娃突然跑下车",
+        "onboard_time": 1723868900,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346638,
+        "num": 346638,
+        "word": "郑钦文说是时候忘记金牌了",
+        "onboard_time": 1723884199,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 958567,
+        "num": 344960,
+        "word": "鬼节",
+        "onboard_time": 1723878140,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535913,
+        "num": 343386,
+        "word": "终于理解林志玲为什么嫁给黑泽良平了",
+        "onboard_time": 1723875979,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 523636,
+        "num": 340235,
+        "word": "汪苏泷 雨神",
+        "onboard_time": 1723887619,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 441274,
+        "num": 337184,
+        "word": "EDGM战胜TCG",
+        "onboard_time": 1723886300,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 432943,
+        "num": 336194,
+        "word": "檀健次演唱会活动",
+        "onboard_time": 1723878441,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 371436,
+        "num": 334223,
+        "word": "入秋第一部爽剧来了",
+        "onboard_time": 1723878620,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 358261,
+        "num": 330436,
+        "word": "乒协就近期饭圈乱象发声",
+        "onboard_time": 1723871000,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 329835,
+        "num": 329835,
+        "word": "樊振东任上海市青联常委",
+        "onboard_time": 1723878140,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290131,
+        "num": 290131,
+        "word": "入住千万精装房后业主每天抓虫子",
+        "onboard_time": 1723876339,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260669,
+        "num": 260669,
+        "word": "WTT",
+        "onboard_time": 1723877300,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 371331,
+        "num": 260039,
+        "word": "章若楠杀进虎扑女神前三了",
+        "onboard_time": 1723876879,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52011,
+        "num": 259743,
+        "word": "22岁小伙3次潜水救人",
+        "onboard_time": 1723893259,
+        "rank": 21,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 340639,
+        "num": 258643,
+        "word": "异形太吓人了",
+        "onboard_time": 1723865539,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 73434,
+        "num": 257987,
+        "word": "泰国前总理他信将提前获释",
+        "onboard_time": 1723887741,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 299449,
+        "num": 257034,
+        "word": "刘耀文 壮壮妈发型",
+        "onboard_time": 1723892359,
+        "rank": 24,
+        "category": "演出,时尚"
+      },
+      {
+        "raw_hot": 256530,
+        "num": 256530,
+        "word": "EDG对阵SEN",
+        "onboard_time": 1723891881,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 250304,
+        "num": 250304,
+        "word": "石凯二巡上海场",
+        "onboard_time": 1723892961,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 240282,
+        "num": 240282,
+        "word": "多家影院不建议带孩子看异形",
+        "onboard_time": 1723887859,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 235430,
+        "num": 235430,
+        "word": "宋茜花少录制结束回国",
+        "onboard_time": 1723892479,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231860,
+        "num": 231860,
+        "word": "李泽锋淘汰",
+        "onboard_time": 1723886060,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226852,
+        "num": 226852,
+        "word": "潘玮柏因体重退出跳水体验",
+        "onboard_time": 1723875979,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206048,
+        "num": 206048,
+        "word": "乌合麒麟 盗墓笔记新图",
+        "onboard_time": 1723892961,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 204491,
+        "num": 204491,
+        "word": "EDG锁定冠军赛前三",
+        "onboard_time": 1723892900,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 202472,
+        "num": 202472,
+        "word": "LGDNBW五连胜",
+        "onboard_time": 1723892961,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 197428,
+        "num": 197428,
+        "word": "檀健次和粉丝共创演唱会",
+        "onboard_time": 1723892420,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196784,
+        "num": 196784,
+        "word": "大熊猫福茹去世",
+        "onboard_time": 1723870880,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192640,
+        "num": 192640,
+        "word": "披荆斩棘赛制",
+        "onboard_time": 1723893139,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183896,
+        "num": 183896,
+        "word": "狗狗们的墓碑上都放了小木棍",
+        "onboard_time": 1723891099,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162598,
+        "num": 162598,
+        "word": "魏哲鸣唱爱在西元前",
+        "onboard_time": 1723893199,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159133,
+        "num": 159133,
+        "word": "aespa东京巨蛋演唱会",
+        "onboard_time": 1723889899,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156905,
+        "num": 156905,
+        "word": "柯南",
+        "onboard_time": 1723893318,
+        "rank": 40,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 156406,
+        "num": 156406,
+        "word": "穿着清凉老板娘已更改衣着风格",
+        "onboard_time": 1723889000,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156054,
+        "num": 156054,
+        "word": "哪种饮料对牙齿危害最大",
+        "onboard_time": 1723879759,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 151527,
+        "num": 151527,
+        "word": "奥运击剑冠军履新职",
+        "onboard_time": 1723891457,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149131,
+        "num": 149131,
+        "word": "毕业后年轻人开始了精致存钱",
+        "onboard_time": 1723887198,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148895,
+        "num": 148895,
+        "word": "终于有剧把塞嘴的那块布吐出来了",
+        "onboard_time": 1723879700,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146141,
+        "num": 146141,
+        "word": "黑羽盗一没死",
+        "onboard_time": 1723887198,
+        "rank": 46,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 145406,
+        "num": 145406,
+        "word": "异形",
+        "onboard_time": 1723872081,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144135,
+        "num": 144135,
+        "word": "周子瑜solo概念照",
+        "onboard_time": 1723891520,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136019,
+        "num": 136019,
+        "word": "为啥奥运结束樊振东他们依然这么火",
+        "onboard_time": 1723891157,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻文化根魂#"
+    }
+  }
+}

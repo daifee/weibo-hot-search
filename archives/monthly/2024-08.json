@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1723891066926,
+  "endTime": 1723893407945,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -4971,6 +4971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1956823,
+      "num": 1956823,
+      "word": "中奖2.2亿不交个税成历史",
+      "onboard_time": 1723887318,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1956027,
       "num": 1956027,
       "word": "马龙 电影里都演不出来的眼神",
@@ -8323,6 +8331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1306465,
+      "num": 1306465,
+      "word": "王铮亮好惨的第一",
+      "onboard_time": 1723889418,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1306409,
       "num": 3358639,
       "word": "警方介入调查女子小区放生多盒蟑螂",
@@ -10675,14 +10691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1032168,
-      "num": 474423,
-      "word": "王铮亮好惨的第一",
-      "onboard_time": 1723889418,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1031127,
       "num": 438139,
       "word": "小布学会了樊振东的庆祝方式",
@@ -11928,14 +11936,6 @@
       "word": "情侣约定存钱开箱发现一半是练功券",
       "onboard_time": 1723543281,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 916977,
-      "num": 916977,
-      "word": "中奖2.2亿不交个税成历史",
-      "onboard_time": 1723887318,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -17899,6 +17899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 523636,
+      "num": 385459,
+      "word": "汪苏泷 雨神",
+      "onboard_time": 1723887619,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 523321,
       "num": 523321,
       "word": "李敏镐G社生图",
@@ -20315,6 +20323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 441274,
+      "num": 337184,
+      "word": "EDGM战胜TCG",
+      "onboard_time": 1723886300,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 441157,
       "num": 377930,
       "word": "全红婵陈芋汐将上演巅峰对决",
@@ -20592,6 +20608,14 @@
       "word": "陈浚铭 换票",
       "onboard_time": 1723546221,
       "rank": 32,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 432943,
+      "num": 336194,
+      "word": "檀健次演唱会活动",
+      "onboard_time": 1723878441,
+      "rank": 33,
       "category": "演出"
     },
     {
@@ -22561,14 +22585,6 @@
       "onboard_time": 1723257381,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 385459,
-      "num": 385459,
-      "word": "汪苏泷 雨神",
-      "onboard_time": 1723887619,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 385231,
@@ -25435,6 +25451,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 329835,
+      "num": 329835,
+      "word": "樊振东任上海市青联常委",
+      "onboard_time": 1723878140,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 329723,
       "num": 329723,
       "word": "谁懂这块个人名义金牌的含金量",
@@ -25697,14 +25721,6 @@
       "onboard_time": 1723469541,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 325311,
-      "num": 325311,
-      "word": "樊振东任上海市青联常委",
-      "onboard_time": 1723878140,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 325227,
@@ -27561,6 +27577,14 @@
       "onboard_time": 1722585625,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299449,
+      "num": 257034,
+      "word": "刘耀文 壮壮妈发型",
+      "onboard_time": 1723892359,
+      "rank": 24,
+      "category": "演出,时尚"
     },
     {
       "raw_hot": 299448,
@@ -31267,6 +31291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 256530,
+      "num": 256530,
+      "word": "EDG对阵SEN",
+      "onboard_time": 1723891881,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 256416,
       "num": 420860,
       "word": "偶遇张柏芝带小儿子外出",
@@ -31849,6 +31881,14 @@
       "onboard_time": 1722447923,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 250304,
+      "num": 250304,
+      "word": "石凯二巡上海场",
+      "onboard_time": 1723892961,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 250298,
@@ -32715,6 +32755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 240282,
+      "num": 240282,
+      "word": "多家影院不建议带孩子看异形",
+      "onboard_time": 1723887859,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 240206,
       "num": 240206,
       "word": "一睁眼中国队再夺4金2银2铜",
@@ -33177,6 +33225,14 @@
       "onboard_time": 1723717941,
       "rank": 42,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 235430,
+      "num": 235430,
+      "word": "宋茜花少录制结束回国",
+      "onboard_time": 1723892479,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 235422,
@@ -34753,14 +34809,6 @@
       "onboard_time": 1722760464,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 221375,
-      "num": 221375,
-      "word": "多家影院不建议带孩子看异形",
-      "onboard_time": 1723887859,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 221319,
@@ -36899,6 +36947,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 206048,
+      "num": 206048,
+      "word": "乌合麒麟 盗墓笔记新图",
+      "onboard_time": 1723892961,
+      "rank": 31,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 206033,
       "num": 245279,
       "word": "ENHYPEN Highway1009",
@@ -37155,6 +37211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204491,
+      "num": 204491,
+      "word": "EDG锁定冠军赛前三",
+      "onboard_time": 1723892900,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 204477,
       "num": 204477,
       "word": "王一博早秋穿搭现身北京机场",
@@ -37193,14 +37257,6 @@
       "onboard_time": 1723173022,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 204140,
-      "num": 204140,
-      "word": "檀健次演唱会活动",
-      "onboard_time": 1723878441,
-      "rank": 33,
-      "category": "演出"
     },
     {
       "raw_hot": 204122,
@@ -37537,6 +37593,14 @@
       "onboard_time": 1723701201,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 202472,
+      "num": 202472,
+      "word": "LGDNBW五连胜",
+      "onboard_time": 1723892961,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 202468,
@@ -38523,6 +38587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197428,
+      "num": 197428,
+      "word": "檀健次和粉丝共创演唱会",
+      "onboard_time": 1723892420,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 197314,
       "num": 197314,
       "word": "黄雅琼第一副球拍是超市买的",
@@ -39409,6 +39481,14 @@
       "onboard_time": 1723264762,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192640,
+      "num": 192640,
+      "word": "披荆斩棘赛制",
+      "onboard_time": 1723893139,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 192589,
@@ -40705,6 +40785,14 @@
       "onboard_time": 1723449624,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 183896,
+      "num": 183896,
+      "word": "狗狗们的墓碑上都放了小木棍",
+      "onboard_time": 1723891099,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 183742,
@@ -42763,6 +42851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162598,
+      "num": 162598,
+      "word": "魏哲鸣唱爱在西元前",
+      "onboard_time": 1723893199,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162417,
       "num": 162417,
       "word": "30秒看懂中国婚服演变",
@@ -43035,14 +43131,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 159060,
-      "num": 159060,
-      "word": "EDGM战胜TCG",
-      "onboard_time": 1723886300,
-      "rank": 40,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 158637,
       "num": 158637,
       "word": "看来工业大摸底还是没摸干净",
@@ -43217,6 +43305,14 @@
       "onboard_time": 1723371023,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 156905,
+      "num": 156905,
+      "word": "柯南",
+      "onboard_time": 1723893318,
+      "rank": 40,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 156844,
@@ -43609,6 +43705,14 @@
       "onboard_time": 1722869788,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151527,
+      "num": 151527,
+      "word": "奥运击剑冠军履新职",
+      "onboard_time": 1723891457,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 151444,
@@ -44147,6 +44251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144135,
+      "num": 144135,
+      "word": "周子瑜solo概念照",
+      "onboard_time": 1723891520,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 143980,
       "num": 386770,
       "word": "私藏浪漫一边搞浪漫一边当牛马",
@@ -44649,6 +44761,14 @@
       "onboard_time": 1723138695,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136019,
+      "num": 136019,
+      "word": "为啥奥运结束樊振东他们依然这么火",
+      "onboard_time": 1723891157,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 135941,
@@ -45524,7 +45644,7 @@
     },
     {
       "raw_hot": 116803,
-      "num": 116803,
+      "num": 257987,
       "word": "泰国前总理他信将提前获释",
       "onboard_time": 1723887741,
       "rank": 49,
@@ -49545,6 +49665,14 @@
       "onboard_time": 1722800713,
       "rank": 34,
       "category": "电影,体育"
+    },
+    {
+      "raw_hot": 52011,
+      "num": 259743,
+      "word": "22岁小伙3次潜水救人",
+      "onboard_time": 1723893259,
+      "rank": 21,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 52006,
