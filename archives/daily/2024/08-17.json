@@ -1,6 +1,6 @@
 {
   "startTime": 1723825640005,
-  "endTime": 1723883016328,
+  "endTime": 1723883794071,
   "band_list": [
     {
       "raw_hot": 5105065,
@@ -163,6 +163,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 1109483,
+      "num": 550403,
+      "word": "鬼节",
+      "onboard_time": 1723878140,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1106528,
       "num": 422650,
       "word": "范丞丞恋情瓜关系网总结",
@@ -195,19 +203,19 @@
       "category": "网红"
     },
     {
-      "raw_hot": 995194,
-      "num": 550403,
-      "word": "鬼节",
-      "onboard_time": 1723878140,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 985565,
       "num": 985565,
       "word": "民政部回应设置离婚冷静期",
       "onboard_time": 1723836552,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 981992,
+      "num": 981992,
+      "word": "打1400公里顺风车逃单乘客已付车费",
+      "onboard_time": 1723880659,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -347,12 +355,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 710448,
+      "raw_hot": 722353,
+      "num": 523310,
+      "word": "终于有剧把塞嘴的那块布吐出来了",
+      "onboard_time": 1723879700,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 711388,
       "num": 581962,
       "word": "入秋第一部爽剧来了",
       "onboard_time": 1723878620,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 636568,
+      "num": 394033,
+      "word": "马龙 电影里都演不出来的眼神",
+      "onboard_time": 1723882700,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 629928,
@@ -361,14 +385,6 @@
       "onboard_time": 1723856778,
       "rank": 15,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 616858,
-      "num": 523310,
-      "word": "终于有剧把塞嘴的那块布吐出来了",
-      "onboard_time": 1723879700,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 598913,
@@ -401,14 +417,6 @@
       "onboard_time": 1723855158,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 523161,
-      "num": 523161,
-      "word": "打1400公里顺风车逃单乘客已付车费",
-      "onboard_time": 1723880659,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 509014,
@@ -553,14 +561,6 @@
       "onboard_time": 1723867159,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 376434,
-      "num": 198452,
-      "word": "马龙 电影里都演不出来的眼神",
-      "onboard_time": 1723882700,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 367154,
@@ -811,6 +811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 269335,
+      "num": 211229,
+      "word": "猫 我在睡觉",
+      "onboard_time": 1723880181,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 267276,
       "num": 267276,
       "word": "基普乔格关注孙颖莎",
@@ -841,6 +849,14 @@
       "onboard_time": 1723831873,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 260695,
+      "num": 210943,
+      "word": "三生三世婚礼有点意思",
+      "onboard_time": 1723880001,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 257820,
@@ -945,6 +961,14 @@
       "onboard_time": 1723867098,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 230359,
+      "num": 208515,
+      "word": "哪种饮料对牙齿危害最大",
+      "onboard_time": 1723879759,
+      "rank": 46,
+      "category": "科学科普"
     },
     {
       "raw_hot": 227764,
@@ -1091,14 +1115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 198976,
-      "num": 198976,
-      "word": "猫 我在睡觉",
-      "onboard_time": 1723880181,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 198421,
       "num": 336264,
       "word": "女子称住酒店被强奸警方未立案",
@@ -1137,14 +1153,6 @@
       "onboard_time": 1723866498,
       "rank": 41,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 192336,
-      "num": 192336,
-      "word": "三生三世婚礼有点意思",
-      "onboard_time": 1723880001,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 190342,
@@ -1219,12 +1227,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 173295,
-      "num": 173295,
-      "word": "哪种饮料对牙齿危害最大",
-      "onboard_time": 1723879759,
-      "rank": 46,
-      "category": "科学科普"
+      "raw_hot": 175802,
+      "num": 175802,
+      "word": "嗨放派3官宣定档",
+      "onboard_time": 1723880659,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 172784,
@@ -1240,14 +1248,6 @@
       "word": "符龙飞组舞台好燃",
       "onboard_time": 1723872920,
       "rank": 47,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 171533,
-      "num": 171533,
-      "word": "嗨放派3官宣定档",
-      "onboard_time": 1723880659,
-      "rank": 37,
       "category": "综艺"
     },
     {
@@ -1283,12 +1283,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165966,
+      "num": 165966,
+      "word": "胡一天浙商血脉觉醒",
+      "onboard_time": 1723883539,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164265,
       "num": 164265,
       "word": "绿牌特斯拉Cybertruck现身天津街头",
       "onboard_time": 1723852758,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 162845,
+      "num": 162845,
+      "word": "符龙飞跳完舞像卸了个妆",
+      "onboard_time": 1723883361,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 161495,
@@ -1315,6 +1331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160660,
+      "num": 160660,
+      "word": "王霏霏 二代团的实力包的",
+      "onboard_time": 1723883480,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160512,
       "num": 723277,
       "word": "高定诈骗忽悠瘸了多少聪明人",
@@ -1329,6 +1353,14 @@
       "onboard_time": 1723806020,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159647,
+      "num": 159647,
+      "word": "张晚意能接受的最大尺度 能播",
+      "onboard_time": 1723882820,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 158637,
@@ -1403,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149477,
+      "num": 149477,
+      "word": "陈梦看刘谦偶遇尼格买提",
+      "onboard_time": 1723882520,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147945,
       "num": 147945,
       "word": "二线奢侈品开启自降身价模式",
@@ -1424,14 +1464,6 @@
       "word": "郑钦文带病取胜",
       "onboard_time": 1723851675,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 147018,
-      "num": 147018,
-      "word": "陈梦看刘谦偶遇尼格买提",
-      "onboard_time": 1723882520,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -1473,14 +1505,6 @@
       "onboard_time": 1723858459,
       "rank": 40,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 143463,
-      "num": 143463,
-      "word": "张晚意能接受的最大尺度 能播",
-      "onboard_time": 1723882820,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 141783,
@@ -1851,12 +1875,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 34577,
+      "num": 888072,
+      "word": "中国问天之路越走越深远",
+      "onboard_time": 1723882999,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33121,
       "num": 117349,
       "word": "高空抛烟头致火灾这些情形下刑罚升格",
       "onboard_time": 1723833133,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28589,
+      "num": 938118,
+      "word": "会唱歌的院子全阵容官宣",
+      "onboard_time": 1723864158,
+      "rank": 2,
+      "category": "综艺"
     },
     {
       "raw_hot": 28337,
@@ -1919,14 +1959,6 @@
       "num": 1292684,
       "word": "遥感四十三号01组卫星发射成功",
       "onboard_time": 1723798583,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6192,
-      "num": 888072,
-      "word": "中国问天之路越走越深远",
-      "onboard_time": 1723882999,
       "rank": 2,
       "category": "社会新闻"
     },
