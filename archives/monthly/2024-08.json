@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1723922255703,
+  "endTime": 1723923298981,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -52697,6 +52697,14 @@
       "onboard_time": 1723838773,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26476,
+      "num": 39376,
+      "word": "周深蹦苗迪就很家乡味",
+      "onboard_time": 1723922951,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 26338,
