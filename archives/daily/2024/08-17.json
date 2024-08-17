@@ -1,6 +1,6 @@
 {
   "startTime": 1723825640005,
-  "endTime": 1723887282772,
+  "endTime": 1723890106335,
   "band_list": [
     {
       "raw_hot": 5105065,
@@ -379,6 +379,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 676268,
+      "num": 676268,
+      "word": "中奖2.2亿不交个税成历史",
+      "onboard_time": 1723887318,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 670148,
+      "num": 670148,
+      "word": "郑钦文说是时候忘记金牌了",
+      "onboard_time": 1723884199,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 663876,
+      "num": 663876,
+      "word": "庞博 没关系会过去的",
+      "onboard_time": 1723887437,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 629928,
       "num": 850989,
       "word": "蔡徐坤 AVIA",
@@ -449,6 +473,14 @@
       "onboard_time": 1723825638,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 458071,
+      "num": 458071,
+      "word": "李泽锋淘汰",
+      "onboard_time": 1723886060,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 447352,
@@ -555,6 +587,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 381946,
+      "num": 381946,
+      "word": "汪苏泷 雨神",
+      "onboard_time": 1723887619,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 376488,
       "num": 414789,
       "word": "家长投诉影院",
@@ -603,19 +643,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 335204,
+      "num": 180137,
+      "word": "王铮亮好惨的第一",
+      "onboard_time": 1723889418,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 333245,
       "num": 398531,
       "word": "脱口秀大会",
       "onboard_time": 1723821021,
       "rank": 8,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 332636,
-      "num": 332636,
-      "word": "李泽锋淘汰",
-      "onboard_time": 1723886060,
-      "rank": 29,
       "category": "综艺"
     },
     {
@@ -843,14 +883,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 264854,
-      "num": 264854,
-      "word": "郑钦文说是时候忘记金牌了",
-      "onboard_time": 1723884199,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 264168,
       "num": 378379,
       "word": "宁桓宇从160斤瘦到有腹肌",
@@ -1067,6 +1099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204929,
+      "num": 179605,
+      "word": "多家影院不建议带孩子看异形",
+      "onboard_time": 1723887859,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 204140,
       "num": 204140,
       "word": "檀健次演唱会活动",
@@ -1081,6 +1121,14 @@
       "onboard_time": 1723865420,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 203500,
+      "num": 201068,
+      "word": "毕业后年轻人开始了精致存钱",
+      "onboard_time": 1723887198,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 202919,
@@ -1121,14 +1169,6 @@
       "onboard_time": 1723887198,
       "rank": 23,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 201068,
-      "num": 201068,
-      "word": "毕业后年轻人开始了精致存钱",
-      "onboard_time": 1723887198,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 200035,
@@ -1188,7 +1228,7 @@
     },
     {
       "raw_hot": 195025,
-      "num": 195025,
+      "num": 513449,
       "word": "土耳其议会突发激烈斗殴",
       "onboard_time": 1723885882,
       "rank": 28,
@@ -1243,6 +1283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188289,
+      "num": 178551,
+      "word": "鞠婧祎后续商务",
+      "onboard_time": 1723889119,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185439,
       "num": 563890,
       "word": "身骑白马的追风女孩太飒了",
@@ -1257,6 +1305,14 @@
       "onboard_time": 1723813220,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184127,
+      "num": 178306,
+      "word": "aespa东京巨蛋演唱会",
+      "onboard_time": 1723889899,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 182918,
@@ -1329,6 +1385,14 @@
       "onboard_time": 1723867999,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 172647,
+      "num": 172647,
+      "word": "没有闲钱 全是忙钱",
+      "onboard_time": 1723887979,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 172396,
@@ -1475,6 +1539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155871,
+      "num": 155871,
+      "word": "时代少年团后台瞬间",
+      "onboard_time": 1723889599,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 154571,
       "num": 154571,
       "word": "名侦探柯南 百万美元的五棱星",
@@ -1521,6 +1593,14 @@
       "onboard_time": 1723882520,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148904,
+      "num": 180986,
+      "word": "权威部门否认穿着清凉老板娘遭殴打",
+      "onboard_time": 1723888338,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147945,
@@ -1603,6 +1683,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 140413,
+      "num": 140413,
+      "word": "穿着清凉老板娘已更改衣着风格",
+      "onboard_time": 1723889000,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140396,
       "num": 140396,
       "word": "爸爸每月送女儿一束花",
@@ -1611,12 +1699,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138798,
+      "num": 138798,
+      "word": "库尔斯克",
+      "onboard_time": 1723889479,
+      "rank": 39,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 137931,
       "num": 137931,
       "word": "蔡徐坤地广",
       "onboard_time": 1723805602,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136410,
+      "num": 136410,
+      "word": "檀健次演唱会到底有什么",
+      "onboard_time": 1723890018,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 135848,
+      "num": 135848,
+      "word": "好妹妹秦昊 多才多艺",
+      "onboard_time": 1723889779,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 134606,
@@ -1755,6 +1867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116803,
+      "num": 116803,
+      "word": "泰国前总理他信将提前获释",
+      "onboard_time": 1723887741,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 115781,
       "num": 126950,
       "word": "一废旧航母在拆除改造时发生火灾",
@@ -1865,6 +1985,14 @@
       "onboard_time": 1723867760,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 63475,
+      "num": 181186,
+      "word": "律师解读酒店泄露密码女子险被强奸",
+      "onboard_time": 1723888459,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62783,
