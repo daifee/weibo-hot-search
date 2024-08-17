@@ -1,6 +1,6 @@
 {
   "startTime": 1723825640005,
-  "endTime": 1723886389513,
+  "endTime": 1723887282772,
   "band_list": [
     {
       "raw_hot": 5105065,
@@ -51,8 +51,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1823675,
-      "num": 1823675,
+      "raw_hot": 1956027,
+      "num": 1956027,
       "word": "马龙 电影里都演不出来的眼神",
       "onboard_time": 1723882700,
       "rank": 30,
@@ -611,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 332636,
+      "num": 332636,
+      "word": "李泽锋淘汰",
+      "onboard_time": 1723886060,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 327566,
       "num": 357541,
       "word": "范丞丞工作室 废话文学",
@@ -833,6 +841,14 @@
       "onboard_time": 1723854439,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 264854,
+      "num": 264854,
+      "word": "郑钦文说是时候忘记金牌了",
+      "onboard_time": 1723884199,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 264168,
@@ -1099,6 +1115,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201708,
+      "num": 201708,
+      "word": "黑羽盗一没死",
+      "onboard_time": 1723887198,
+      "rank": 23,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 201068,
+      "num": 201068,
+      "word": "毕业后年轻人开始了精致存钱",
+      "onboard_time": 1723887198,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200035,
       "num": 200035,
       "word": "符龙飞组为啥分这么低",
@@ -1131,6 +1163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 198279,
+      "num": 198279,
+      "word": "王源南京演唱会",
+      "onboard_time": 1723886480,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 197482,
       "num": 197482,
       "word": "李克勤 我眼光没这么差的",
@@ -1147,6 +1187,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195025,
+      "num": 195025,
+      "word": "土耳其议会突发激烈斗殴",
+      "onboard_time": 1723885882,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 194596,
+      "num": 194596,
+      "word": "胡一天浙商血脉觉醒",
+      "onboard_time": 1723883539,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193536,
       "num": 193536,
       "word": "中国电信天价资费调查结果公布",
@@ -1155,20 +1211,28 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 192164,
-      "num": 180286,
-      "word": "胡一天浙商血脉觉醒",
-      "onboard_time": 1723883539,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 190342,
       "num": 190342,
       "word": "一直以为爸爸接下班是很小众的事",
       "onboard_time": 1723877061,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188943,
+      "num": 188943,
+      "word": "时代少年团成长影像",
+      "onboard_time": 1723886300,
+      "rank": 35,
+      "category": "艺人,演出"
+    },
+    {
+      "raw_hot": 188801,
+      "num": 188801,
+      "word": "姥姥的外孙",
+      "onboard_time": 1723886659,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 188374,
@@ -1187,14 +1251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 185432,
-      "num": 185432,
-      "word": "郑钦文说是时候忘记金牌了",
-      "onboard_time": 1723884199,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 184755,
       "num": 184755,
       "word": "离婚冷静期真的能降低离婚率吗",
@@ -1203,20 +1259,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182918,
+      "num": 182918,
+      "word": "严浩翔手机别下反诈APP",
+      "onboard_time": 1723886120,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 182852,
+      "num": 182852,
+      "word": "王霏霏 二代团的实力包的",
+      "onboard_time": 1723883480,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182743,
       "num": 182743,
       "word": "郑钦文12连胜被终结",
       "onboard_time": 1723861041,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 180962,
-      "num": 180962,
-      "word": "王霏霏 二代团的实力包的",
-      "onboard_time": 1723883480,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 180132,
@@ -1243,28 +1307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177985,
-      "num": 177985,
-      "word": "土耳其议会突发激烈斗殴",
-      "onboard_time": 1723885882,
-      "rank": 28,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 177174,
       "num": 177174,
       "word": "医考帮又崩了",
       "onboard_time": 1723864580,
       "rank": 35,
       "category": "教育"
-    },
-    {
-      "raw_hot": 176441,
-      "num": 176441,
-      "word": "李泽锋淘汰",
-      "onboard_time": 1723886060,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 175802,
@@ -1387,6 +1435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159060,
+      "num": 159060,
+      "word": "EDGM战胜TCG",
+      "onboard_time": 1723886300,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 158637,
       "num": 158637,
       "word": "看来工业大摸底还是没摸干净",
@@ -1443,14 +1499,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 152734,
-      "num": 152734,
-      "word": "时代少年团成长影像",
-      "onboard_time": 1723886300,
-      "rank": 35,
-      "category": "艺人,演出"
-    },
-    {
       "raw_hot": 150242,
       "num": 469970,
       "word": "专家谈结婚登记拟不再要户口簿",
@@ -1473,22 +1521,6 @@
       "onboard_time": 1723882520,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 149413,
-      "num": 149413,
-      "word": "严浩翔手机别下反诈APP",
-      "onboard_time": 1723886120,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 149071,
-      "num": 149071,
-      "word": "EDGM战胜TCG",
-      "onboard_time": 1723886300,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 147945,
@@ -1547,6 +1579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143672,
+      "num": 143672,
+      "word": "这样的班谁不想上",
+      "onboard_time": 1723884258,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 143466,
       "num": 143466,
       "word": "荷花把中式美学氛围拉满了",
@@ -1595,6 +1635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132522,
+      "num": 132522,
+      "word": "才知道原来牛仔裤拉链是有开关的",
+      "onboard_time": 1723884321,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 131129,
       "num": 131129,
       "word": "八一七稻米节",
@@ -1609,14 +1657,6 @@
       "onboard_time": 1723879940,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 130734,
-      "num": 130734,
-      "word": "这样的班谁不想上",
-      "onboard_time": 1723884258,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 130709,
@@ -1667,6 +1707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127112,
+      "num": 127112,
+      "word": "刘光耀 赘婿",
+      "onboard_time": 1723882221,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 127020,
       "num": 127020,
       "word": "雅 给向佐打电话",
@@ -1689,6 +1737,14 @@
       "onboard_time": 1723816942,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122448,
+      "num": 122448,
+      "word": "陈梦姜妍一起去看刘谦了",
+      "onboard_time": 1723885640,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 118098,

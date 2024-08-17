@@ -1,6 +1,6 @@
 {
   "startTime": 1723307155481,
-  "endTime": 1723886389513,
+  "endTime": 1723887282772,
   "band_list": [
     {
       "raw_hot": 25984443,
@@ -939,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1956027,
+      "num": 1956027,
+      "word": "马龙 电影里都演不出来的眼神",
+      "onboard_time": 1723882700,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1953233,
       "num": 1953233,
       "word": "第一批巴黎奥运奖牌已经开始脱皮了",
@@ -1097,14 +1105,6 @@
       "onboard_time": 1723640780,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1823675,
-      "num": 1823675,
-      "word": "马龙 电影里都演不出来的眼神",
-      "onboard_time": 1723882700,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 1817945,
@@ -7843,6 +7843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 332636,
+      "num": 332636,
+      "word": "李泽锋淘汰",
+      "onboard_time": 1723886060,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 332319,
       "num": 332319,
       "word": "山西文旅还是太超前了",
@@ -9889,6 +9897,14 @@
       "onboard_time": 1723624163,
       "rank": 41,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 264854,
+      "num": 264854,
+      "word": "郑钦文说是时候忘记金牌了",
+      "onboard_time": 1723884199,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 264781,
@@ -13067,6 +13083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201708,
+      "num": 201708,
+      "word": "黑羽盗一没死",
+      "onboard_time": 1723887198,
+      "rank": 23,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 201665,
       "num": 201665,
       "word": "央视秋晚严选中秋最佳赏月地",
@@ -13113,6 +13137,14 @@
       "onboard_time": 1723818382,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 201068,
+      "num": 201068,
+      "word": "毕业后年轻人开始了精致存钱",
+      "onboard_time": 1723887198,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 200863,
@@ -13361,6 +13393,14 @@
       "onboard_time": 1723776323,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198279,
+      "num": 198279,
+      "word": "王源南京演唱会",
+      "onboard_time": 1723886480,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 198133,
@@ -13627,6 +13667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195025,
+      "num": 195025,
+      "word": "土耳其议会突发激烈斗殴",
+      "onboard_time": 1723885882,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 194893,
       "num": 194893,
       "word": "海贼王萨博 入野自由",
@@ -13657,6 +13705,14 @@
       "onboard_time": 1723392861,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194596,
+      "num": 194596,
+      "word": "胡一天浙商血脉觉醒",
+      "onboard_time": 1723883539,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 194593,
@@ -13865,14 +13921,6 @@
       "onboard_time": 1723799181,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 192164,
-      "num": 180286,
-      "word": "胡一天浙商血脉觉醒",
-      "onboard_time": 1723883539,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 191911,
@@ -14123,6 +14171,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 188943,
+      "num": 188943,
+      "word": "时代少年团成长影像",
+      "onboard_time": 1723886300,
+      "rank": 35,
+      "category": "艺人,演出"
+    },
+    {
+      "raw_hot": 188801,
+      "num": 188801,
+      "word": "姥姥的外孙",
+      "onboard_time": 1723886659,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 188514,
       "num": 188514,
       "word": "于敏说国家需要一定全力以赴",
@@ -14307,14 +14371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 185432,
-      "num": 185432,
-      "word": "郑钦文说是时候忘记金牌了",
-      "onboard_time": 1723884199,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 185431,
       "num": 188432,
       "word": "碗盆",
@@ -14435,6 +14491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182918,
+      "num": 182918,
+      "word": "严浩翔手机别下反诈APP",
+      "onboard_time": 1723886120,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182903,
       "num": 182903,
       "word": "昶式生活哲学",
@@ -14449,6 +14513,14 @@
       "onboard_time": 1723327633,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 182852,
+      "num": 182852,
+      "word": "王霏霏 二代团的实力包的",
+      "onboard_time": 1723883480,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 182743,
@@ -14579,14 +14651,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 180962,
-      "num": 180962,
-      "word": "王霏霏 二代团的实力包的",
-      "onboard_time": 1723883480,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 180833,
       "num": 180833,
       "word": "孙颖莎说陈梦值得她学习",
@@ -14715,14 +14779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 177985,
-      "num": 177985,
-      "word": "土耳其议会突发激烈斗殴",
-      "onboard_time": 1723885882,
-      "rank": 28,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 177959,
       "num": 177959,
       "word": "国乒何时起收获大量粉丝型观众",
@@ -14785,14 +14841,6 @@
       "onboard_time": 1723589115,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 176441,
-      "num": 176441,
-      "word": "李泽锋淘汰",
-      "onboard_time": 1723886060,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 176326,
@@ -15635,6 +15683,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 159060,
+      "num": 159060,
+      "word": "EDGM战胜TCG",
+      "onboard_time": 1723886300,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 158637,
       "num": 158637,
       "word": "看来工业大摸底还是没摸干净",
@@ -15915,14 +15971,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 152734,
-      "num": 152734,
-      "word": "时代少年团成长影像",
-      "onboard_time": 1723886300,
-      "rank": 35,
-      "category": "艺人,演出"
-    },
-    {
       "raw_hot": 152079,
       "num": 152079,
       "word": "王鹤棣广东综艺路透",
@@ -16049,22 +16097,6 @@
       "onboard_time": 1723882520,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 149413,
-      "num": 149413,
-      "word": "严浩翔手机别下反诈APP",
-      "onboard_time": 1723886120,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 149071,
-      "num": 149071,
-      "word": "EDGM战胜TCG",
-      "onboard_time": 1723886300,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 148640,
@@ -16297,6 +16329,14 @@
       "onboard_time": 1723598601,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143672,
+      "num": 143672,
+      "word": "这样的班谁不想上",
+      "onboard_time": 1723884258,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 143466,
@@ -16603,6 +16643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132522,
+      "num": 132522,
+      "word": "才知道原来牛仔裤拉链是有开关的",
+      "onboard_time": 1723884321,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132414,
       "num": 95743,
       "word": "三体人入侵巴黎",
@@ -16649,14 +16697,6 @@
       "onboard_time": 1723569735,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 130734,
-      "num": 130734,
-      "word": "这样的班谁不想上",
-      "onboard_time": 1723884258,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 130716,
@@ -16721,6 +16761,14 @@
       "onboard_time": 1723824620,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127112,
+      "num": 127112,
+      "word": "刘光耀 赘婿",
+      "onboard_time": 1723882221,
+      "rank": 46,
+      "category": "网红"
     },
     {
       "raw_hot": 126899,
@@ -16825,6 +16873,14 @@
       "onboard_time": 1723647622,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122448,
+      "num": 122448,
+      "word": "陈梦姜妍一起去看刘谦了",
+      "onboard_time": 1723885640,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 122214,
