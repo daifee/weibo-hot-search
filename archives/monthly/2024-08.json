@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1724008562858,
+  "endTime": 1724009678931,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -18372,7 +18372,7 @@
     },
     {
       "raw_hot": 543420,
-      "num": 104847,
+      "num": 444837,
       "word": "全红婵说两届金牌都自己拿不是很开心",
       "onboard_time": 1724005512,
       "rank": 10,
@@ -47491,6 +47491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138472,
+      "num": 44473,
+      "word": "这几天失眠可能跟月亮有关",
+      "onboard_time": 1724006471,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 138277,
       "num": 138277,
       "word": "付航刘旸 既生瑜何生亮",
@@ -49361,14 +49369,6 @@
       "onboard_time": 1722975312,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 103293,
-      "num": 44473,
-      "word": "这几天失眠可能跟月亮有关",
-      "onboard_time": 1724006471,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 103178,
@@ -54947,20 +54947,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30677,
+      "num": 30677,
+      "word": "李佳琦直播",
+      "onboard_time": 1724007851,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 30645,
       "num": 355942,
       "word": "英国部署4000防暴警察应对抗议",
       "onboard_time": 1723085242,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30633,
-      "num": 30633,
-      "word": "李佳琦直播",
-      "onboard_time": 1724007851,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 30607,
@@ -55521,6 +55521,14 @@
       "onboard_time": 1723052655,
       "rank": 45,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 22016,
+      "num": 29230,
+      "word": "男子海边救人后说要谢就谢任贤齐",
+      "onboard_time": 1724009291,
+      "rank": 49,
+      "category": "社会正能量,艺人"
     },
     {
       "raw_hot": 21751,
