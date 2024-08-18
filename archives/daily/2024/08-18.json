@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1723994375747,
+  "endTime": 1723995363848,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -91,20 +91,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1616086,
+      "num": 1616086,
+      "word": "全红婵跳207C经常平摔进水里",
+      "onboard_time": 1723991360,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1577628,
       "num": 1577628,
       "word": "不直播的李佳琦们都去哪里捞金了",
       "onboard_time": 1723954340,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1495066,
-      "num": 1495066,
-      "word": "全红婵跳207C经常平摔进水里",
-      "onboard_time": 1723991360,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 1488477,
@@ -403,20 +403,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 846224,
+      "num": 846224,
+      "word": "3岁女童被虐致死生母放弃民事赔偿",
+      "onboard_time": 1723992921,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 837014,
       "num": 837014,
       "word": "理解林志玲 好奇郭碧婷",
       "onboard_time": 1723959199,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 832429,
-      "num": 832429,
-      "word": "3岁女童被虐致死生母放弃民事赔偿",
-      "onboard_time": 1723992921,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 818993,
@@ -441,6 +441,14 @@
       "onboard_time": 1723967839,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 789161,
+      "num": 789161,
+      "word": "时代少年团账号直播封禁",
+      "onboard_time": 1723993162,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 772968,
@@ -481,6 +489,14 @@
       "onboard_time": 1723907063,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 728000,
+      "num": 728000,
+      "word": "樊振东说其实有后怕",
+      "onboard_time": 1723992622,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 719190,
@@ -539,20 +555,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 622655,
+      "num": 408309,
+      "word": "李佳琦在自己直播间办了披哥1.5公",
+      "onboard_time": 1723992501,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 617460,
       "num": 478654,
       "word": "檀健次顶胯这一下",
       "onboard_time": 1723965319,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 615716,
-      "num": 615716,
-      "word": "樊振东说其实有后怕",
-      "onboard_time": 1723992622,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 608794,
@@ -576,14 +592,6 @@
       "word": "连线张大大女生向范丞丞和粉丝道歉",
       "onboard_time": 1723948577,
       "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 572031,
-      "num": 572031,
-      "word": "时代少年团账号直播封禁",
-      "onboard_time": 1723993162,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -697,14 +705,6 @@
       "onboard_time": 1723907963,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 480807,
-      "num": 367018,
-      "word": "李佳琦在自己直播间办了披哥1.5公",
-      "onboard_time": 1723992501,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 476649,
@@ -835,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 430781,
+      "num": 430781,
+      "word": "樊振东说亚军是财富",
+      "onboard_time": 1723993522,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 427557,
       "num": 427557,
       "word": "LNG对战TES",
@@ -859,19 +867,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 420955,
+      "num": 407696,
+      "word": "任敏对路人说不怕我的粉丝揍你吗",
+      "onboard_time": 1723991959,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 418843,
       "num": 418843,
       "word": "童禹坤生日会",
       "onboard_time": 1723978040,
       "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 410853,
-      "num": 363643,
-      "word": "任敏对路人说不怕我的粉丝揍你吗",
-      "onboard_time": 1723991959,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -929,6 +937,14 @@
       "onboard_time": 1723988539,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 383109,
+      "num": 383109,
+      "word": "癌细胞最怕你有这些习惯",
+      "onboard_time": 1723993223,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 377834,
@@ -1161,14 +1177,6 @@
       "onboard_time": 1723887318,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 306247,
-      "num": 306247,
-      "word": "樊振东说亚军是财富",
-      "onboard_time": 1723993522,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 300884,
@@ -1739,14 +1747,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 197263,
-      "num": 197263,
-      "word": "癌细胞最怕你有这些习惯",
-      "onboard_time": 1723993223,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 197200,
       "num": 265793,
       "word": "倪夏莲阿姨你为何如此快乐",
@@ -1913,6 +1913,22 @@
       "onboard_time": 1723990940,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173988,
+      "num": 173988,
+      "word": "游泳教练谈先天健身圣体女孩",
+      "onboard_time": 1723994900,
+      "rank": 37,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 173960,
+      "num": 488339,
+      "word": "全红婵说要确保金牌是中国的",
+      "onboard_time": 1723994002,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 172570,
@@ -2091,6 +2107,14 @@
       "category": "运动健身,体育"
     },
     {
+      "raw_hot": 160489,
+      "num": 160489,
+      "word": "全红婵说看我乐观但事情憋在心里",
+      "onboard_time": 1723994121,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158385,
       "num": 158385,
       "word": "王楚然手绘蛐蛐友友图",
@@ -2153,14 +2177,6 @@
       "onboard_time": 1723979480,
       "rank": 47,
       "category": "综艺,电竞"
-    },
-    {
-      "raw_hot": 155044,
-      "num": 155044,
-      "word": "全红婵说看我乐观但事情憋在心里",
-      "onboard_time": 1723994121,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 155006,
@@ -2283,6 +2299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148190,
+      "num": 148190,
+      "word": "樊振东说换球衣是想调整自己的节奏",
+      "onboard_time": 1723994301,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147780,
       "num": 187906,
       "word": "周深急了连自己都怼",
@@ -2299,6 +2323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 147201,
+      "num": 728009,
+      "word": "陈芋汐回应去读大学",
+      "onboard_time": 1723995201,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146622,
       "num": 146622,
       "word": "最低成本手机支架",
@@ -2313,14 +2345,6 @@
       "onboard_time": 1723939036,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 145915,
-      "num": 145915,
-      "word": "樊振东说换球衣是想调整自己的节奏",
-      "onboard_time": 1723994301,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 145054,
@@ -2611,6 +2635,14 @@
       "category": "体育,综艺"
     },
     {
+      "raw_hot": 118597,
+      "num": 619574,
+      "word": "女子参观兵马俑走进坑道背后",
+      "onboard_time": 1723993342,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118056,
       "num": 118056,
       "word": "王玉雯叫檀健次giegie",
@@ -2673,14 +2705,6 @@
       "onboard_time": 1723913777,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 95344,
-      "num": 488339,
-      "word": "全红婵说要确保金牌是中国的",
-      "onboard_time": 1723994002,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 89828,
@@ -2755,20 +2779,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 69223,
-      "num": 619574,
-      "word": "女子参观兵马俑走进坑道背后",
-      "onboard_time": 1723993342,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 68883,
       "num": 68883,
       "word": "利雅得胜利1比4利雅得新月",
       "onboard_time": 1723937655,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67797,
+      "num": 728056,
+      "word": "网商银行涉违法违规被罚735万元",
+      "onboard_time": 1723995081,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67328,
