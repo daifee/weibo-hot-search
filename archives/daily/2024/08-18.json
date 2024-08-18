@@ -1,7 +1,15 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1723955116025,
+  "endTime": 1723955900215,
   "band_list": [
+    {
+      "raw_hot": 3165797,
+      "num": 3165797,
+      "word": "大一新生陈芋汐",
+      "onboard_time": 1723951337,
+      "rank": 3,
+      "category": "体育"
+    },
     {
       "raw_hot": 3127339,
       "num": 3127339,
@@ -11,16 +19,16 @@
       "category": "美食"
     },
     {
-      "raw_hot": 2933633,
-      "num": 2933633,
-      "word": "大一新生陈芋汐",
-      "onboard_time": 1723951337,
+      "raw_hot": 2673925,
+      "num": 2673925,
+      "word": "李佩霞严重违纪违法被双开",
+      "onboard_time": 1723952537,
       "rank": 3,
-      "category": "体育"
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 2223698,
-      "num": 2223698,
+      "raw_hot": 2265353,
+      "num": 2265353,
       "word": "官方通报李佩霞案件",
       "onboard_time": 1723951278,
       "rank": 24,
@@ -33,14 +41,6 @@
       "onboard_time": 1723902200,
       "rank": 0,
       "category": "演出"
-    },
-    {
-      "raw_hot": 2059667,
-      "num": 2059667,
-      "word": "李佩霞严重违纪违法被双开",
-      "onboard_time": 1723952537,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1886676,
@@ -123,6 +123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1038790,
+      "num": 1038790,
+      "word": "神的银牌已工伤",
+      "onboard_time": 1723953739,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1015956,
       "num": 1015956,
       "word": "王楚钦收到奥沙利文的祝福",
@@ -187,14 +195,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 629588,
-      "num": 522585,
-      "word": "神的银牌已工伤",
-      "onboard_time": 1723953739,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 608794,
       "num": 608794,
       "word": "泰国国王正式批准佩通坦出任新任总理",
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 532278,
-      "num": 532278,
+      "num": 576271,
       "word": "奶茶重回10元以下",
       "onboard_time": 1723952598,
       "rank": 6,
@@ -273,6 +273,14 @@
       "onboard_time": 1723907963,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 476649,
+      "num": 644803,
+      "word": "明侦团建",
+      "onboard_time": 1723952598,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 469941,
@@ -323,6 +331,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 429192,
+      "num": 429192,
+      "word": "身高2米31的异形演员",
+      "onboard_time": 1723953739,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 426423,
       "num": 305465,
       "word": "41人考编上岸后被清退谁把招聘当儿戏",
@@ -339,20 +355,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 397921,
+      "num": 397921,
+      "word": "不直播的李佳琦们都去哪里捞金了",
+      "onboard_time": 1723954340,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 391794,
       "num": 391794,
       "word": "樊振东 我可以的",
       "onboard_time": 1723904722,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 387432,
-      "num": 528591,
-      "word": "明侦团建",
-      "onboard_time": 1723952598,
-      "rank": 8,
-      "category": "演出"
     },
     {
       "raw_hot": 387188,
@@ -371,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 377026,
+      "num": 395152,
+      "word": "肖战宜昌飞北京",
+      "onboard_time": 1723953979,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 376683,
       "num": 376683,
       "word": "宋亚轩破音",
@@ -385,6 +409,14 @@
       "onboard_time": 1723939335,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 367125,
+      "num": 367125,
+      "word": "李佩霞被双开毛奇被调查",
+      "onboard_time": 1723953078,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 353195,
@@ -403,12 +435,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 338420,
-      "num": 395152,
-      "word": "肖战宜昌飞北京",
-      "onboard_time": 1723953979,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 335501,
+      "num": 394495,
+      "word": "小鹿 结婚真的很伤感情",
+      "onboard_time": 1723953319,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 332401,
@@ -467,14 +499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 305802,
-      "num": 305802,
-      "word": "李佩霞被双开毛奇被调查",
-      "onboard_time": 1723953078,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 300884,
       "num": 300884,
       "word": "黑神话悟空容量",
@@ -483,20 +507,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 299954,
-      "num": 394495,
-      "word": "小鹿 结婚真的很伤感情",
-      "onboard_time": 1723953319,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 299665,
       "num": 299665,
       "word": "柳舟记 父母偏心可偏偏女儿最争气",
       "onboard_time": 1723945158,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 291233,
+      "num": 291233,
+      "word": "徐晔医生",
+      "onboard_time": 1723952959,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 289981,
@@ -571,14 +595,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 257793,
-      "num": 257793,
-      "word": "徐晔医生",
-      "onboard_time": 1723952959,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251758,
       "num": 251758,
       "word": "马嘉祺破音",
@@ -643,28 +659,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 214619,
-      "num": 214619,
-      "word": "不直播的李佳琦们都去哪里捞金了",
-      "onboard_time": 1723954340,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 214360,
       "num": 214360,
       "word": "林俊杰李荣浩合唱曹操",
       "onboard_time": 1723905142,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 213982,
-      "num": 261848,
-      "word": "身高2米31的异形演员",
-      "onboard_time": 1723953739,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 212604,
@@ -683,20 +683,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 209108,
+      "num": 209108,
+      "word": "倪夏莲说樊振东非常强大",
+      "onboard_time": 1723953859,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207287,
       "num": 207287,
       "word": "杭州一小区流浪猫身中10箭死亡",
       "onboard_time": 1723945758,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203852,
-      "num": 187071,
-      "word": "倪夏莲说樊振东非常强大",
-      "onboard_time": 1723953859,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 202384,
@@ -713,6 +713,14 @@
       "onboard_time": 1723940477,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 196496,
+      "num": 196496,
+      "word": "全糖奶茶有一半是00后点的",
+      "onboard_time": 1723952297,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 194924,
@@ -763,12 +771,52 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184309,
+      "num": 184309,
+      "word": "喜剧之王单口季 好笑",
+      "onboard_time": 1723951698,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 179719,
+      "num": 179719,
+      "word": "莎千",
+      "onboard_time": 1723955359,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 172860,
+      "num": 172860,
+      "word": "异形",
+      "onboard_time": 1723955779,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 172570,
       "num": 172570,
       "word": "UFC",
       "onboard_time": 1723948699,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166370,
+      "num": 166370,
+      "word": "业主将平板车停车位上做团购自提点",
+      "onboard_time": 1723951038,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165326,
+      "num": 165326,
+      "word": "夏克立回应与黄嘉千离婚成功",
+      "onboard_time": 1723955720,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 165255,
@@ -811,6 +859,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 161901,
+      "num": 186351,
+      "word": "异形 不是鬼片",
+      "onboard_time": 1723953739,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 157535,
       "num": 157535,
       "word": "终于理解林志玲为什么嫁给黑泽良平了",
@@ -819,20 +875,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156447,
+      "num": 156447,
+      "word": "倪夏莲阿姨你为何如此快乐",
+      "onboard_time": 1723953379,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156414,
       "num": 156414,
       "word": "卢昱晓 韩系妆造",
       "onboard_time": 1723899142,
       "rank": 38,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 155853,
-      "num": 155853,
-      "word": "喜剧之王单口季 好笑",
-      "onboard_time": 1723951698,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 155006,
@@ -851,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154476,
+      "num": 154476,
+      "word": "小莫晒与樊振东合照",
+      "onboard_time": 1723954280,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153794,
       "num": 153794,
       "word": "负负得正票房",
@@ -859,11 +923,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 152721,
+      "num": 152721,
+      "word": "12岁小学生韩信比肩同期苏炳添",
+      "onboard_time": 1723955119,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152604,
       "num": 152604,
       "word": "贺峻霖问棉花娃娃是谁的",
       "onboard_time": 1723946598,
       "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 152171,
+      "num": 154502,
+      "word": "檀健次演唱会黄色应援海",
+      "onboard_time": 1723954518,
+      "rank": 46,
       "category": "演出"
     },
     {
@@ -891,28 +971,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149282,
-      "num": 149282,
-      "word": "业主将平板车停车位上做团购自提点",
-      "onboard_time": 1723951038,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146538,
       "num": 146538,
       "word": "异形 科幻恐怖",
       "onboard_time": 1723939036,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 144300,
-      "num": 144300,
-      "word": "檀健次演唱会黄色应援海",
-      "onboard_time": 1723954518,
-      "rank": 46,
-      "category": "演出"
     },
     {
       "raw_hot": 144194,
@@ -963,14 +1027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139425,
-      "num": 139425,
-      "word": "小莫晒与樊振东合照",
-      "onboard_time": 1723954280,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 137785,
       "num": 137785,
       "word": "德国水上乐园的滑梯",
@@ -985,14 +1041,6 @@
       "onboard_time": 1723947079,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136745,
-      "num": 136745,
-      "word": "倪夏莲阿姨你为何如此快乐",
-      "onboard_time": 1723953379,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 134086,
@@ -1028,7 +1076,7 @@
     },
     {
       "raw_hot": 124394,
-      "num": 2071502,
+      "num": 2378153,
       "word": "2024电影暑期档票房破100亿",
       "onboard_time": 1723948819,
       "rank": 2,
@@ -1059,12 +1107,12 @@
       "category": "体育,综艺"
     },
     {
-      "raw_hot": 117703,
-      "num": 186351,
-      "word": "异形 不是鬼片",
-      "onboard_time": 1723953739,
-      "rank": 36,
-      "category": "电影"
+      "raw_hot": 112821,
+      "num": 278868,
+      "word": "早安叫尤长靖的频率",
+      "onboard_time": 1723954340,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 111103,
@@ -1107,20 +1155,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 94129,
-      "num": 278868,
-      "word": "早安叫尤长靖的频率",
-      "onboard_time": 1723954340,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 86924,
       "num": 101754,
       "word": "檀健次cos小蜜蜂",
       "onboard_time": 1723915275,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 74147,
+      "num": 526840,
+      "word": "学员称新巴蜀特训营中殴打是常态",
+      "onboard_time": 1723953679,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73825,
@@ -1193,14 +1241,6 @@
       "onboard_time": 1723910480,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 40454,
-      "num": 526840,
-      "word": "学员称新巴蜀特训营中殴打是常态",
-      "onboard_time": 1723953679,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37154,
