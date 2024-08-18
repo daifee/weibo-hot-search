@@ -1,0 +1,410 @@
+{
+  "runTime": 1723955116025,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2933633,
+        "num": 2933633,
+        "word": "大一新生陈芋汐",
+        "onboard_time": 1723951337,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2223698,
+        "num": 2223698,
+        "word": "官方通报李佩霞案件",
+        "onboard_time": 1723951278,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63036,
+        "num": 2071502,
+        "word": "2024电影暑期档票房破100亿",
+        "onboard_time": 1723948819,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2059667,
+        "num": 2059667,
+        "word": "李佩霞严重违纪违法被双开",
+        "onboard_time": 1723952537,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2052763,
+        "num": 2052763,
+        "word": "奶茶价格集体跳水",
+        "onboard_time": 1723947919,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 603327,
+        "num": 603327,
+        "word": "整容医生说亚洲脸安什么欧洲眼",
+        "onboard_time": 1723941979,
+        "rank": 5,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 532278,
+        "num": 532278,
+        "word": "奶茶重回10元以下",
+        "onboard_time": 1723952598,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 434285,
+        "num": 530972,
+        "word": "连线张大大女生向范丞丞和粉丝道歉",
+        "onboard_time": 1723948577,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387432,
+        "num": 528591,
+        "word": "明侦团建",
+        "onboard_time": 1723952598,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 40454,
+        "num": 526840,
+        "word": "学员称新巴蜀特训营中殴打是常态",
+        "onboard_time": 1723953679,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 668038,
+        "num": 523934,
+        "word": "台一幼师性侵多名女童被判28年监禁",
+        "onboard_time": 1723947258,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629588,
+        "num": 522585,
+        "word": "神的银牌已工伤",
+        "onboard_time": 1723953739,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 521335,
+        "num": 521335,
+        "word": "泰国国王正式批准佩通坦出任新任总理",
+        "onboard_time": 1723949118,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 57905,
+        "num": 467916,
+        "word": "异形提醒未成年观众谨慎选择观影",
+        "onboard_time": 1723953739,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26913,
+        "num": 465969,
+        "word": "实探被曝殴打学员的特训学校",
+        "onboard_time": 1723953679,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465411,
+        "num": 465411,
+        "word": "女子看到一女童跟闺女撞脸很崩溃",
+        "onboard_time": 1723945040,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459947,
+        "num": 459947,
+        "word": "突然就不害怕中元节了",
+        "onboard_time": 1723941076,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 338420,
+        "num": 395152,
+        "word": "肖战宜昌飞北京",
+        "onboard_time": 1723953979,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299954,
+        "num": 394495,
+        "word": "小鹿 结婚真的很伤感情",
+        "onboard_time": 1723953319,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224406,
+        "num": 394394,
+        "word": "顾漫骄阳似我",
+        "onboard_time": 1723940775,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 394380,
+        "num": 394380,
+        "word": "异形吓坏8岁小孩家长投诉影城",
+        "onboard_time": 1723907242,
+        "rank": 20,
+        "category": "社会新闻,电影"
+      },
+      {
+        "raw_hot": 386257,
+        "num": 386257,
+        "word": "33岁保安值夜班时猝死厕所",
+        "onboard_time": 1723944017,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352434,
+        "num": 352434,
+        "word": "王楚钦收到奥沙利文的祝福",
+        "onboard_time": 1723942938,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327040,
+        "num": 327040,
+        "word": "黑神话悟空 猜boss",
+        "onboard_time": 1723950078,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 305802,
+        "num": 305802,
+        "word": "李佩霞被双开毛奇被调查",
+        "onboard_time": 1723953078,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300884,
+        "num": 300884,
+        "word": "黑神话悟空容量",
+        "onboard_time": 1723954039,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94129,
+        "num": 278868,
+        "word": "早安叫尤长靖的频率",
+        "onboard_time": 1723954340,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213982,
+        "num": 261848,
+        "word": "身高2米31的异形演员",
+        "onboard_time": 1723953739,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205600,
+        "num": 259629,
+        "word": "严浩翔回应没关麦",
+        "onboard_time": 1723936875,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 258046,
+        "num": 258046,
+        "word": "159个国家将采用金砖国家新支付系统",
+        "onboard_time": 1723938917,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 257793,
+        "num": 257793,
+        "word": "徐晔医生",
+        "onboard_time": 1723952959,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214619,
+        "num": 214619,
+        "word": "不直播的李佳琦们都去哪里捞金了",
+        "onboard_time": 1723954340,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208389,
+        "num": 208389,
+        "word": "女子参观兵马俑抱孩子走进俑坑",
+        "onboard_time": 1723937414,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200861,
+        "num": 200861,
+        "word": "王源是真没把我们当外人",
+        "onboard_time": 1723947737,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75580,
+        "num": 187508,
+        "word": "张若昀是大张伟铁粉",
+        "onboard_time": 1723943840,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 203852,
+        "num": 187071,
+        "word": "倪夏莲说樊振东非常强大",
+        "onboard_time": 1723953859,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117703,
+        "num": 186351,
+        "word": "异形 不是鬼片",
+        "onboard_time": 1723953739,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186280,
+        "num": 186280,
+        "word": "汪顺 猪大肠等我",
+        "onboard_time": 1723951938,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176406,
+        "num": 176406,
+        "word": "朱一龙粉丝跑张大大直播间控诉片方",
+        "onboard_time": 1723939335,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165178,
+        "num": 165178,
+        "word": "李景亮不敌普拉特斯",
+        "onboard_time": 1723949298,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162078,
+        "num": 162078,
+        "word": "86年宝妈练瑜伽一年的变化",
+        "onboard_time": 1723952297,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 156012,
+        "num": 156012,
+        "word": "全球首批收到黑神话悟空实体版玩家",
+        "onboard_time": 1723947858,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155853,
+        "num": 155853,
+        "word": "喜剧之王单口季 好笑",
+        "onboard_time": 1723951698,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149679,
+        "num": 149679,
+        "word": "全红婵谢思埸游乐园玩大摆锤",
+        "onboard_time": 1723951879,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149282,
+        "num": 149282,
+        "word": "业主将平板车停车位上做团购自提点",
+        "onboard_time": 1723951038,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146132,
+        "num": 146132,
+        "word": "16岁的大猫凌晨去世了",
+        "onboard_time": 1723947798,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144300,
+        "num": 144300,
+        "word": "檀健次演唱会黄色应援海",
+        "onboard_time": 1723954518,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142613,
+        "num": 142613,
+        "word": "苏林抵达广州开启访华行程",
+        "onboard_time": 1723946418,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139425,
+        "num": 139425,
+        "word": "小莫晒与樊振东合照",
+        "onboard_time": 1723954280,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136745,
+        "num": 136745,
+        "word": "倪夏莲阿姨你为何如此快乐",
+        "onboard_time": 1723953379,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#守护好文化瑰宝和自然珍宝#"
+    }
+  }
+}

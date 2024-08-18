@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1723952134802,
+  "endTime": 1723955116025,
   "band_list": [
     {
       "raw_hot": 3127339,
@@ -11,12 +11,36 @@
       "category": "美食"
     },
     {
+      "raw_hot": 2933633,
+      "num": 2933633,
+      "word": "大一新生陈芋汐",
+      "onboard_time": 1723951337,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2223698,
+      "num": 2223698,
+      "word": "官方通报李佩霞案件",
+      "onboard_time": 1723951278,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2113689,
       "num": 2113689,
       "word": "严浩翔麦没关",
       "onboard_time": 1723902200,
       "rank": 0,
       "category": "演出"
+    },
+    {
+      "raw_hot": 2059667,
+      "num": 2059667,
+      "word": "李佩霞严重违纪违法被双开",
+      "onboard_time": 1723952537,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1886676,
@@ -75,14 +99,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1254980,
-      "num": 1254980,
-      "word": "官方通报李佩霞案件",
-      "onboard_time": 1723951278,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1142396,
       "num": 1142396,
       "word": "雷军直播突发炸麦",
@@ -97,14 +113,6 @@
       "onboard_time": 1723944017,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1074886,
-      "num": 1074886,
-      "word": "大一新生陈芋汐",
-      "onboard_time": 1723951337,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 1071190,
@@ -179,6 +187,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 629588,
+      "num": 522585,
+      "word": "神的银牌已工伤",
+      "onboard_time": 1723953739,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 608794,
       "num": 608794,
       "word": "泰国国王正式批准佩通坦出任新任总理",
@@ -233,6 +249,14 @@
       "onboard_time": 1723908742,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 532278,
+      "num": 532278,
+      "word": "奶茶重回10元以下",
+      "onboard_time": 1723952598,
+      "rank": 6,
+      "category": "美食"
     },
     {
       "raw_hot": 522378,
@@ -323,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 387432,
+      "num": 528591,
+      "word": "明侦团建",
+      "onboard_time": 1723952598,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 387188,
       "num": 387188,
       "word": "金智媛澳门",
@@ -369,6 +401,14 @@
       "onboard_time": 1723944078,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 338420,
+      "num": 395152,
+      "word": "肖战宜昌飞北京",
+      "onboard_time": 1723953979,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 332401,
@@ -425,6 +465,30 @@
       "onboard_time": 1723887318,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305802,
+      "num": 305802,
+      "word": "李佩霞被双开毛奇被调查",
+      "onboard_time": 1723953078,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300884,
+      "num": 300884,
+      "word": "黑神话悟空容量",
+      "onboard_time": 1723954039,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 299954,
+      "num": 394495,
+      "word": "小鹿 结婚真的很伤感情",
+      "onboard_time": 1723953319,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 299665,
@@ -507,6 +571,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 257793,
+      "num": 257793,
+      "word": "徐晔医生",
+      "onboard_time": 1723952959,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251758,
       "num": 251758,
       "word": "马嘉祺破音",
@@ -571,12 +643,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214619,
+      "num": 214619,
+      "word": "不直播的李佳琦们都去哪里捞金了",
+      "onboard_time": 1723954340,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214360,
       "num": 214360,
       "word": "林俊杰李荣浩合唱曹操",
       "onboard_time": 1723905142,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 213982,
+      "num": 261848,
+      "word": "身高2米31的异形演员",
+      "onboard_time": 1723953739,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 212604,
@@ -601,6 +689,14 @@
       "onboard_time": 1723945758,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203852,
+      "num": 187071,
+      "word": "倪夏莲说樊振东非常强大",
+      "onboard_time": 1723953859,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 202384,
@@ -651,6 +747,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 186280,
+      "num": 186280,
+      "word": "汪顺 猪大肠等我",
+      "onboard_time": 1723951938,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184342,
       "num": 184342,
       "word": "警方辟谣10多名男子游泳池抱摔女子",
@@ -699,6 +803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 162078,
+      "num": 162078,
+      "word": "86年宝妈练瑜伽一年的变化",
+      "onboard_time": 1723952297,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 157535,
       "num": 157535,
       "word": "终于理解林志玲为什么嫁给黑泽良平了",
@@ -713,6 +825,14 @@
       "onboard_time": 1723899142,
       "rank": 38,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 155853,
+      "num": 155853,
+      "word": "喜剧之王单口季 好笑",
+      "onboard_time": 1723951698,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 155006,
@@ -763,16 +883,16 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 149176,
-      "num": 149176,
-      "word": "喜剧之王单口季 好笑",
-      "onboard_time": 1723951698,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 149679,
+      "num": 149679,
+      "word": "全红婵谢思埸游乐园玩大摆锤",
+      "onboard_time": 1723951879,
+      "rank": 46,
+      "category": "体育"
     },
     {
-      "raw_hot": 146621,
-      "num": 146621,
+      "raw_hot": 149282,
+      "num": 149282,
       "word": "业主将平板车停车位上做团购自提点",
       "onboard_time": 1723951038,
       "rank": 49,
@@ -787,12 +907,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 144269,
-      "num": 144269,
-      "word": "汪顺 猪大肠等我",
-      "onboard_time": 1723951938,
-      "rank": 43,
-      "category": "体育"
+      "raw_hot": 144300,
+      "num": 144300,
+      "word": "檀健次演唱会黄色应援海",
+      "onboard_time": 1723954518,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 144194,
@@ -843,11 +963,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 140200,
-      "num": 140200,
-      "word": "全红婵谢思埸游乐园玩大摆锤",
-      "onboard_time": 1723951879,
-      "rank": 46,
+      "raw_hot": 139425,
+      "num": 139425,
+      "word": "小莫晒与樊振东合照",
+      "onboard_time": 1723954280,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -865,6 +985,14 @@
       "onboard_time": 1723947079,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136745,
+      "num": 136745,
+      "word": "倪夏莲阿姨你为何如此快乐",
+      "onboard_time": 1723953379,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 134086,
@@ -900,7 +1028,7 @@
     },
     {
       "raw_hot": 124394,
-      "num": 1076274,
+      "num": 2071502,
       "word": "2024电影暑期档票房破100亿",
       "onboard_time": 1723948819,
       "rank": 2,
@@ -929,6 +1057,14 @@
       "onboard_time": 1723941916,
       "rank": 42,
       "category": "体育,综艺"
+    },
+    {
+      "raw_hot": 117703,
+      "num": 186351,
+      "word": "异形 不是鬼片",
+      "onboard_time": 1723953739,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 111103,
@@ -969,6 +1105,14 @@
       "onboard_time": 1723913777,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 94129,
+      "num": 278868,
+      "word": "早安叫尤长靖的频率",
+      "onboard_time": 1723954340,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 86924,
@@ -1027,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57905,
+      "num": 467916,
+      "word": "异形提醒未成年观众谨慎选择观影",
+      "onboard_time": 1723953739,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 56881,
       "num": 247041,
       "word": "国防部回应美日所谓中国军事威胁",
@@ -1043,6 +1195,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 40454,
+      "num": 526840,
+      "word": "学员称新巴蜀特训营中殴打是常态",
+      "onboard_time": 1723953679,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37154,
       "num": 219879,
       "word": "时尚圈顶流齐聚华服夜宴",
@@ -1056,6 +1216,14 @@
       "word": "伦敦地标建筑萨默塞特宫发生火灾",
       "onboard_time": 1723950800,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26913,
+      "num": 465969,
+      "word": "实探被曝殴打学员的特训学校",
+      "onboard_time": 1723953679,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
