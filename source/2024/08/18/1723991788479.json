@@ -1,0 +1,410 @@
+{
+  "runTime": 1723991788479,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1488477,
+        "num": 1488477,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1723990282,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1419088,
+        "num": 1419088,
+        "word": "樊振东面对面专访",
+        "onboard_time": 1723990218,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60238,
+        "num": 1411556,
+        "word": "第2次青藏科考重要成果集中发布",
+        "onboard_time": 1723985660,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1407698,
+        "num": 1407698,
+        "word": "父母同时生病了独生子女该怎么办",
+        "onboard_time": 1723982480,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 973851,
+        "num": 973851,
+        "word": "2024首个超级月亮",
+        "onboard_time": 1723988480,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 881070,
+        "num": 881070,
+        "word": "中元节",
+        "onboard_time": 1723977259,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 875308,
+        "num": 875308,
+        "word": "孔笙肖战开机同框",
+        "onboard_time": 1723986440,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186621,
+        "num": 873462,
+        "word": "全红婵跳207C经常平摔进水里",
+        "onboard_time": 1723991360,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32978,
+        "num": 871843,
+        "word": "多国采取措施防范猴痘疫情蔓延",
+        "onboard_time": 1723991420,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 744943,
+        "num": 871814,
+        "word": "马来西亚女子被丈夫推下悬崖",
+        "onboard_time": 1723988361,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 871786,
+        "num": 871786,
+        "word": "快递公司寄丢毕业证只赔36元法院判了",
+        "onboard_time": 1723990101,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 852320,
+        "num": 852320,
+        "word": "江西一私人影院进行卖淫嫖娼活动",
+        "onboard_time": 1723978040,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658400,
+        "num": 658400,
+        "word": "疯狂小杨哥杭州办公总部出租",
+        "onboard_time": 1723976839,
+        "rank": 12,
+        "category": "互联网,幽默"
+      },
+      {
+        "raw_hot": 523877,
+        "num": 523877,
+        "word": "郭碧婷倒是清净了 我们遭殃了",
+        "onboard_time": 1723978758,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 423237,
+        "num": 519608,
+        "word": "樊振东回应退役传闻",
+        "onboard_time": 1723991360,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 519252,
+        "num": 519252,
+        "word": "韩国恋综嘉宾50多岁的状态",
+        "onboard_time": 1723977859,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 473741,
+        "num": 473741,
+        "word": "白宇 叔圈白菜",
+        "onboard_time": 1723986619,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 455108,
+        "num": 455108,
+        "word": "徐嘉余谈退役",
+        "onboard_time": 1723984279,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 418382,
+        "num": 418382,
+        "word": "男子离婚被驳回杀妻未遂被判6年",
+        "onboard_time": 1723975219,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417911,
+        "num": 417911,
+        "word": "异形 降智",
+        "onboard_time": 1723982179,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 411426,
+        "num": 411426,
+        "word": "张雨霏和家人打牌被贴纸条",
+        "onboard_time": 1723984220,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 407918,
+        "num": 407918,
+        "word": "猫妈妈把崽子叼到门口排成一排",
+        "onboard_time": 1723990700,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 396934,
+        "num": 396934,
+        "word": "王源演唱会嘉宾是单依纯",
+        "onboard_time": 1723977318,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 385004,
+        "num": 385004,
+        "word": "面对面",
+        "onboard_time": 1723988539,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 364541,
+        "num": 364541,
+        "word": "蔡依林演唱会",
+        "onboard_time": 1723987700,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 364257,
+        "num": 364257,
+        "word": "年入22亿的李佳琦还要披荆斩棘吗",
+        "onboard_time": 1723957880,
+        "rank": 25,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 350572,
+        "num": 350572,
+        "word": "周深只字不提唱分手后遗症",
+        "onboard_time": 1723990641,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340237,
+        "num": 340237,
+        "word": "全红婵说只是冠军而已",
+        "onboard_time": 1723990400,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303398,
+        "num": 303398,
+        "word": "有人为买LV巧克力先买包",
+        "onboard_time": 1723975697,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294135,
+        "num": 294135,
+        "word": "狂飙兄弟被爆出轨",
+        "onboard_time": 1723963280,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 254720,
+        "num": 254720,
+        "word": "奶茶价格集体跳水",
+        "onboard_time": 1723947919,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 253952,
+        "num": 253952,
+        "word": "长荣桂冠主厨称海外侨胞都不会接受",
+        "onboard_time": 1723990641,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245482,
+        "num": 245482,
+        "word": "原来醋和味精不能一起放",
+        "onboard_time": 1723987820,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241936,
+        "num": 241936,
+        "word": "于正解释新艺人名字",
+        "onboard_time": 1723989200,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239922,
+        "num": 239922,
+        "word": "张百乔向小雪求婚",
+        "onboard_time": 1723966459,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 234225,
+        "num": 234225,
+        "word": "中元节习俗",
+        "onboard_time": 1723989981,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202630,
+        "num": 202630,
+        "word": "薛之谦 爱的多的人总先掉眼泪",
+        "onboard_time": 1723991120,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200281,
+        "num": 200281,
+        "word": "张大大就直播争议道歉",
+        "onboard_time": 1723989440,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196650,
+        "num": 196650,
+        "word": "大一新生陈芋汐",
+        "onboard_time": 1723951337,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187423,
+        "num": 187423,
+        "word": "周深歌剧唱腔张力",
+        "onboard_time": 1723990820,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185353,
+        "num": 185353,
+        "word": "女子高速上没油竟当起人肉警示牌",
+        "onboard_time": 1723989620,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174410,
+        "num": 174410,
+        "word": "江苏盐城发生3.4级地震",
+        "onboard_time": 1723990940,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172201,
+        "num": 172201,
+        "word": "DRG对战AG",
+        "onboard_time": 1723988361,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171460,
+        "num": 171460,
+        "word": "TT秋季赛周冠军",
+        "onboard_time": 1723990520,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168656,
+        "num": 168656,
+        "word": "杨幂超话头像",
+        "onboard_time": 1723973121,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168000,
+        "num": 168000,
+        "word": "孕妈取快递脚被砸筋骨断裂硬缝8针",
+        "onboard_time": 1723972220,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163157,
+        "num": 163157,
+        "word": "苏州打飞的30分钟到浦东机场",
+        "onboard_time": 1723979180,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160736,
+        "num": 160736,
+        "word": "羽毛球为什么这么贵",
+        "onboard_time": 1723991060,
+        "rank": 47,
+        "category": "运动健身,体育"
+      },
+      {
+        "raw_hot": 155812,
+        "num": 155812,
+        "word": "黑羽快斗 绝世萌物",
+        "onboard_time": 1723991180,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 153544,
+        "num": 153544,
+        "word": "檀健次顶胯这一下",
+        "onboard_time": 1723965319,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻文化根魂#"
+    }
+  }
+}

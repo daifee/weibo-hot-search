@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1723990699204,
+  "endTime": 1723991788479,
   "band_list": [
     {
       "raw_hot": 3310174,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1488477,
+      "num": 1488477,
+      "word": "薛之谦演唱会",
+      "onboard_time": 1723990282,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1479181,
       "num": 1308306,
       "word": "泰国大学生被学长火烧体毛霸凌",
@@ -97,6 +105,14 @@
       "onboard_time": 1723936634,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1419088,
+      "num": 1419088,
+      "word": "樊振东面对面专访",
+      "onboard_time": 1723990218,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 1386179,
@@ -267,12 +283,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 963240,
-      "num": 963240,
-      "word": "薛之谦演唱会",
-      "onboard_time": 1723990282,
-      "rank": 4,
-      "category": "演出"
+      "raw_hot": 973851,
+      "num": 973851,
+      "word": "2024首个超级月亮",
+      "onboard_time": 1723988480,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 958776,
@@ -337,6 +353,14 @@
       "onboard_time": 1723984279,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 871786,
+      "num": 871786,
+      "word": "快递公司寄丢毕业证只赔36元法院判了",
+      "onboard_time": 1723990101,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 866076,
@@ -411,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 744943,
+      "num": 871814,
+      "word": "马来西亚女子被丈夫推下悬崖",
+      "onboard_time": 1723988361,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 730566,
       "num": 652044,
       "word": "刘耀文止咬器",
@@ -432,14 +464,6 @@
       "word": "有人为买LV巧克力先买包",
       "onboard_time": 1723975697,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 706369,
-      "num": 706369,
-      "word": "2024首个超级月亮",
-      "onboard_time": 1723988480,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -555,14 +579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 547345,
-      "num": 547345,
-      "word": "马来西亚女子被丈夫推下悬崖",
-      "onboard_time": 1723988361,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 541895,
       "num": 541895,
       "word": "店主不在城管将多筐水果扔上执法车",
@@ -649,6 +665,14 @@
       "onboard_time": 1723956259,
       "rank": 21,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 473741,
+      "num": 473741,
+      "word": "白宇 叔圈白菜",
+      "onboard_time": 1723986619,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 472984,
@@ -763,6 +787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 423237,
+      "num": 519608,
+      "word": "樊振东回应退役传闻",
+      "onboard_time": 1723991360,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 418843,
       "num": 418843,
       "word": "童禹坤生日会",
@@ -779,12 +811,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 409607,
-      "num": 409607,
-      "word": "白宇 叔圈白菜",
-      "onboard_time": 1723986619,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 407918,
+      "num": 407918,
+      "word": "猫妈妈把崽子叼到门口排成一排",
+      "onboard_time": 1723990700,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 406543,
@@ -817,6 +849,14 @@
       "onboard_time": 1723940477,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 385004,
+      "num": 385004,
+      "word": "面对面",
+      "onboard_time": 1723988539,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 377834,
@@ -883,14 +923,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 362168,
-      "num": 281854,
-      "word": "面对面",
-      "onboard_time": 1723988539,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 355110,
       "num": 512134,
       "word": "台湾海峡海上巡航执法行动",
@@ -907,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 350572,
+      "num": 350572,
+      "word": "周深只字不提唱分手后遗症",
+      "onboard_time": 1723990641,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 350541,
       "num": 460353,
       "word": "男童遭武术教练殴打致死案后续",
@@ -921,6 +961,14 @@
       "onboard_time": 1723964300,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 340237,
+      "num": 340237,
+      "word": "全红婵说只是冠军而已",
+      "onboard_time": 1723990400,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 339923,
@@ -1131,14 +1179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 274199,
-      "num": 274199,
-      "word": "樊振东面对面专访",
-      "onboard_time": 1723990218,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 273528,
       "num": 412068,
       "word": "王源是真没把我们当外人",
@@ -1243,6 +1283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253952,
+      "num": 253952,
+      "word": "长荣桂冠主厨称海外侨胞都不会接受",
+      "onboard_time": 1723990641,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251758,
       "num": 251758,
       "word": "马嘉祺破音",
@@ -1265,14 +1313,6 @@
       "onboard_time": 1723972580,
       "rank": 45,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 246596,
-      "num": 246596,
-      "word": "快递公司寄丢毕业证只赔36元法院判了",
-      "onboard_time": 1723990101,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 243838,
@@ -1321,6 +1361,14 @@
       "onboard_time": 1723950019,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 234225,
+      "num": 234225,
+      "word": "中元节习俗",
+      "onboard_time": 1723989981,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232933,
@@ -1555,6 +1603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202630,
+      "num": 202630,
+      "word": "薛之谦 爱的多的人总先掉眼泪",
+      "onboard_time": 1723991120,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 202384,
       "num": 202384,
       "word": "婚后女生管钱和男生管钱的区别",
@@ -1609,14 +1665,6 @@
       "onboard_time": 1723953379,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 195883,
-      "num": 195883,
-      "word": "长荣桂冠主厨称海外侨胞都不会接受",
-      "onboard_time": 1723990641,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194951,
@@ -1683,12 +1731,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 187423,
+      "num": 187423,
+      "word": "周深歌剧唱腔张力",
+      "onboard_time": 1723990820,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187155,
       "num": 208632,
       "word": "前途无量",
       "onboard_time": 1723984640,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186621,
+      "num": 873462,
+      "word": "全红婵跳207C经常平摔进水里",
+      "onboard_time": 1723991360,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 186410,
@@ -1705,6 +1769,14 @@
       "onboard_time": 1723951938,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185353,
+      "num": 609137,
+      "word": "女子高速上没油竟当起人肉警示牌",
+      "onboard_time": 1723989620,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184342,
@@ -1739,14 +1811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180327,
-      "num": 180327,
-      "word": "中元节习俗",
-      "onboard_time": 1723989981,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179680,
       "num": 179680,
       "word": "米卡 中文的肌肉记忆",
@@ -1763,12 +1827,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 174410,
+      "num": 174410,
+      "word": "江苏盐城发生3.4级地震",
+      "onboard_time": 1723990940,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172570,
       "num": 172570,
       "word": "UFC",
       "onboard_time": 1723948699,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172201,
+      "num": 172201,
+      "word": "DRG对战AG",
+      "onboard_time": 1723988361,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 171002,
@@ -1923,6 +2003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160736,
+      "num": 160736,
+      "word": "羽毛球为什么这么贵",
+      "onboard_time": 1723991060,
+      "rank": 47,
+      "category": "运动健身,体育"
+    },
+    {
       "raw_hot": 158385,
       "num": 158385,
       "word": "王楚然手绘蛐蛐友友图",
@@ -1969,6 +2057,14 @@
       "onboard_time": 1723976538,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 155812,
+      "num": 155812,
+      "word": "黑羽快斗 绝世萌物",
+      "onboard_time": 1723991180,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 155805,
@@ -2099,14 +2195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147933,
-      "num": 147933,
-      "word": "DRG对战AG",
-      "onboard_time": 1723988361,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 147780,
       "num": 187906,
       "word": "周深急了连自己都怼",
@@ -2145,14 +2233,6 @@
       "onboard_time": 1723977559,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 144696,
-      "num": 144696,
-      "word": "周深只字不提唱分手后遗症",
-      "onboard_time": 1723990641,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 144194,
@@ -2249,14 +2329,6 @@
       "onboard_time": 1723985479,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 139315,
-      "num": 139315,
-      "word": "全红婵说只是冠军而已",
-      "onboard_time": 1723990400,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 139119,
@@ -2531,14 +2603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 76924,
-      "num": 609137,
-      "word": "女子高速上没油竟当起人肉警示牌",
-      "onboard_time": 1723989620,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 75692,
       "num": 525120,
       "word": "律师解读41名事业单位人员被清退",
@@ -2604,7 +2668,7 @@
     },
     {
       "raw_hot": 66630,
-      "num": 1066264,
+      "num": 1411556,
       "word": "第2次青藏科考重要成果集中发布",
       "onboard_time": 1723985660,
       "rank": 2,
@@ -2720,6 +2784,14 @@
       "word": "伦敦地标建筑萨默塞特宫发生火灾",
       "onboard_time": 1723950800,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32978,
+      "num": 871843,
+      "word": "多国采取措施防范猴痘疫情蔓延",
+      "onboard_time": 1723991420,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
