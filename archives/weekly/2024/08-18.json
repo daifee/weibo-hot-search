@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1723969405941,
+  "endTime": 1723970173735,
   "band_list": [
     {
       "raw_hot": 3310174,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1308306,
+      "num": 1308306,
+      "word": "泰国大学生被学长火烧体毛霸凌",
+      "onboard_time": 1723967419,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1269313,
       "num": 1269313,
       "word": "特鲁索娃结婚",
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 1024731,
-      "num": 850374,
+      "num": 1010363,
       "word": "张百乔向小雪求婚",
       "onboard_time": 1723966459,
       "rank": 3,
@@ -307,20 +315,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 678058,
-      "num": 678058,
-      "word": "泰国大学生被学长火烧体毛霸凌",
-      "onboard_time": 1723967419,
-      "rank": 5,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 667458,
       "num": 304328,
       "word": "才知道紫色原来这么特别",
       "onboard_time": 1723907002,
       "rank": 20,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 662433,
+      "num": 443359,
+      "word": "女子称花3万整容眼球眼角被缝一起",
+      "onboard_time": 1723967839,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 629108,
@@ -331,7 +339,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 610101,
+      "raw_hot": 617460,
       "num": 454623,
       "word": "檀健次顶胯这一下",
       "onboard_time": 1723965319,
@@ -491,14 +499,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 443359,
-      "num": 443359,
-      "word": "女子称花3万整容眼球眼角被缝一起",
-      "onboard_time": 1723967839,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 438776,
       "num": 438776,
       "word": "作者爱不爱自己笔下的角色很明显",
@@ -588,7 +588,7 @@
     },
     {
       "raw_hot": 367125,
-      "num": 367125,
+      "num": 406037,
       "word": "李佩霞被双开毛奇被调查",
       "onboard_time": 1723953078,
       "rank": 24,
@@ -601,6 +601,14 @@
       "onboard_time": 1723955779,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 353478,
+      "num": 287795,
+      "word": "许嵩说断桥残雪是6岁写的歌",
+      "onboard_time": 1723969160,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 353195,
@@ -699,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 314358,
+      "num": 314358,
+      "word": "赵露思 密云拍戏",
+      "onboard_time": 1723968019,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 307015,
       "num": 359635,
       "word": "谁家音综请了100位音乐人打call啊",
@@ -787,20 +803,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279902,
+      "num": 279902,
+      "word": "女子家的沙发被邻居混凝土浇筑了",
+      "onboard_time": 1723968380,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276216,
+      "num": 276216,
+      "word": "女子黄山遇见挑山工就发100元",
+      "onboard_time": 1723966700,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273528,
       "num": 412068,
       "word": "王源是真没把我们当外人",
       "onboard_time": 1723947737,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 268851,
-      "num": 268851,
-      "word": "女子黄山遇见挑山工就发100元",
-      "onboard_time": 1723966700,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 266780,
@@ -857,14 +881,6 @@
       "onboard_time": 1723962438,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 258459,
-      "num": 258459,
-      "word": "赵露思 密云拍戏",
-      "onboard_time": 1723968019,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 254886,
@@ -947,6 +963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 231571,
+      "num": 231571,
+      "word": "一杯奶茶咖啡因抵3杯美式",
+      "onboard_time": 1723967900,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 225927,
       "num": 444643,
       "word": "刘光耀发长文对前妻提出九大质疑",
@@ -963,28 +987,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 219056,
-      "num": 219056,
-      "word": "一杯奶茶咖啡因抵3杯美式",
-      "onboard_time": 1723967900,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 216965,
       "num": 216965,
       "word": "这下真的记住李泽锋了",
       "onboard_time": 1723929851,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 216564,
-      "num": 216564,
-      "word": "女子家的沙发被邻居混凝土浇筑了",
-      "onboard_time": 1723968380,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216109,
@@ -1163,6 +1171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194951,
+      "num": 194951,
+      "word": "5800万单身数据或有误读",
+      "onboard_time": 1723966160,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194924,
       "num": 194924,
       "word": "付航 喜剧之王",
@@ -1251,20 +1267,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178768,
-      "num": 178768,
-      "word": "5800万单身数据或有误读",
-      "onboard_time": 1723966160,
-      "rank": 46,
+      "raw_hot": 173738,
+      "num": 173738,
+      "word": "医生的第六感准得阎王都服气",
+      "onboard_time": 1723967900,
+      "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 178377,
-      "num": 178377,
-      "word": "许嵩说断桥残雪是6岁写的歌",
-      "onboard_time": 1723969160,
-      "rank": 40,
-      "category": "演出"
     },
     {
       "raw_hot": 172570,
@@ -1305,6 +1313,14 @@
       "onboard_time": 1723899621,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 164942,
+      "num": 164942,
+      "word": "同济大学学生谈陈芋汐",
+      "onboard_time": 1723968919,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 164882,
@@ -1363,36 +1379,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 161059,
-      "num": 161059,
-      "word": "江苏泰州3.0级地震",
-      "onboard_time": 1723957159,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160027,
-      "num": 160027,
+      "raw_hot": 161351,
+      "num": 161351,
       "word": "海贼王路娜天下",
       "onboard_time": 1723967660,
       "rank": 43,
       "category": "动漫"
     },
     {
-      "raw_hot": 158677,
-      "num": 158677,
-      "word": "医生的第六感准得阎王都服气",
-      "onboard_time": 1723967900,
-      "rank": 44,
+      "raw_hot": 161059,
+      "num": 161059,
+      "word": "江苏泰州3.0级地震",
+      "onboard_time": 1723957159,
+      "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158412,
-      "num": 158412,
-      "word": "同济大学学生谈陈芋汐",
-      "onboard_time": 1723968919,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 157685,
@@ -1579,6 +1579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 137352,
+      "num": 137352,
+      "word": "奥运冠军回国后都去干嘛了",
+      "onboard_time": 1723969760,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137350,
       "num": 222888,
       "word": "爸爸掐点散步偶遇31岁女儿下班",
@@ -1593,6 +1601,14 @@
       "onboard_time": 1723910541,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 129481,
+      "num": 460263,
+      "word": "新一波猴痘疫情青少年死亡比例大幅上升",
+      "onboard_time": 1723968019,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126757,
@@ -1633,6 +1649,14 @@
       "onboard_time": 1723948819,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124232,
+      "num": 124232,
+      "word": "徐磊两眼一睁就是卖",
+      "onboard_time": 1723970059,
+      "rank": 48,
+      "category": "读书作家"
     },
     {
       "raw_hot": 123624,
@@ -1707,6 +1731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 91559,
+      "num": 395165,
+      "word": "男子称将共同财产给了前妻后遭驱赶",
+      "onboard_time": 1723968080,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89828,
       "num": 193731,
       "word": "佟丽娅说妈妈就是超人",
@@ -1721,14 +1753,6 @@
       "onboard_time": 1723915275,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 79338,
-      "num": 460263,
-      "word": "新一波猴痘疫情青少年死亡比例大幅上升",
-      "onboard_time": 1723968019,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 74147,
@@ -1784,14 +1808,6 @@
       "word": "被集体清退当事人称不是考生的责任",
       "onboard_time": 1723964420,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 67254,
-      "num": 395165,
-      "word": "男子称将共同财产给了前妻后遭驱赶",
-      "onboard_time": 1723968080,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1903,6 +1919,14 @@
       "num": 1169162,
       "word": "看塞罕坝荒漠沙地变千里松林",
       "onboard_time": 1723900521,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9515,
+      "num": 1040974,
+      "word": "了不起的供应链",
+      "onboard_time": 1723969999,
       "rank": 2,
       "category": "社会新闻"
     }
