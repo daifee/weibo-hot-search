@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1723984651686,
+  "endTime": 1723985514505,
   "band_list": [
     {
       "raw_hot": 3310174,
@@ -195,7 +195,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1039991,
+      "raw_hot": 1057528,
       "num": 496920,
       "word": "李佩霞被批五毒俱全",
       "onboard_time": 1723980440,
@@ -227,20 +227,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1004311,
+      "num": 1004311,
+      "word": "江西一私人影院进行卖淫嫖娼活动",
+      "onboard_time": 1723978040,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 983779,
       "num": 983779,
       "word": "戚薇问李承铉准备在战至巅峰离婚吗",
       "onboard_time": 1723961479,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 979762,
-      "num": 979762,
-      "word": "江西一私人影院进行卖淫嫖娼活动",
-      "onboard_time": 1723978040,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 979629,
@@ -339,8 +339,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 803338,
-      "num": 803338,
+      "raw_hot": 813277,
+      "num": 813277,
       "word": "郭碧婷倒是清净了 我们遭殃了",
       "onboard_time": 1723978758,
       "rank": 26,
@@ -523,6 +523,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 525984,
+      "num": 525984,
+      "word": "异形 降智",
+      "onboard_time": 1723982179,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 522378,
       "num": 522378,
       "word": "顾漫骄阳似我",
@@ -553,6 +561,14 @@
       "onboard_time": 1723976779,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 495876,
+      "num": 495876,
+      "word": "父母同时生病了独生子女该怎么办",
+      "onboard_time": 1723982480,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 488807,
@@ -643,6 +659,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 456472,
+      "num": 456472,
+      "word": "黄一鸣妈妈不愿意住新房子",
+      "onboard_time": 1723984099,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 453507,
       "num": 453507,
       "word": "全球首批收到黑神话悟空实体版玩家",
@@ -657,6 +681,22 @@
       "onboard_time": 1723941677,
       "rank": 24,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 430408,
+      "num": 430408,
+      "word": "徐嘉余谈退役",
+      "onboard_time": 1723984279,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 427557,
+      "num": 427557,
+      "word": "LNG对战TES",
+      "onboard_time": 1723978758,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 426423,
@@ -697,14 +737,6 @@
       "onboard_time": 1723974559,
       "rank": 41,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 402915,
-      "num": 402915,
-      "word": "异形 降智",
-      "onboard_time": 1723982179,
-      "rank": 12,
-      "category": "电影"
     },
     {
       "raw_hot": 397635,
@@ -947,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 296800,
+      "num": 472306,
+      "word": "苏州打飞的30分钟到浦东机场",
+      "onboard_time": 1723979180,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292239,
       "num": 292239,
       "word": "老友记主演被相识25年助理陷害身亡",
@@ -1043,14 +1083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 264523,
-      "num": 251682,
-      "word": "黄一鸣妈妈不愿意住新房子",
-      "onboard_time": 1723984099,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 263695,
       "num": 263695,
       "word": "18省区市将有大到暴雨",
@@ -1088,14 +1120,6 @@
       "word": "文旅局回应女子抱孩子进兵马俑坑",
       "onboard_time": 1723962438,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 257766,
-      "num": 429489,
-      "word": "苏州打飞的30分钟到浦东机场",
-      "onboard_time": 1723979180,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1163,28 +1187,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 242725,
-      "num": 242725,
-      "word": "父母同时生病了独生子女该怎么办",
-      "onboard_time": 1723982480,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241928,
       "num": 241928,
       "word": "问界M7新车开到海滩结果被淹",
       "onboard_time": 1723945459,
       "rank": 44,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 241474,
-      "num": 241474,
-      "word": "LNG对战TES",
-      "onboard_time": 1723978758,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 239938,
@@ -1257,6 +1265,14 @@
       "onboard_time": 1723974858,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219704,
+      "num": 219704,
+      "word": "付航游泳 水猴子",
+      "onboard_time": 1723984339,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 216965,
@@ -1547,6 +1563,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 187155,
+      "num": 208632,
+      "word": "前途无量",
+      "onboard_time": 1723984640,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186280,
       "num": 186280,
       "word": "汪顺 猪大肠等我",
@@ -1603,14 +1627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169117,
-      "num": 169117,
-      "word": "付航游泳 水猴子",
-      "onboard_time": 1723984339,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 168531,
       "num": 168531,
       "word": "付航 passion脱口秀",
@@ -1632,6 +1648,14 @@
       "word": "业主将平板车停车位上做团购自提点",
       "onboard_time": 1723951038,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166121,
+      "num": 450265,
+      "word": "安徽回应赵亮实名举报官商勾结",
+      "onboard_time": 1723982300,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -1700,7 +1724,7 @@
     },
     {
       "raw_hot": 161868,
-      "num": 161868,
+      "num": 880740,
       "word": "神十八乘组太空出差中的轻松时刻",
       "onboard_time": 1723958300,
       "rank": 47,
@@ -1785,14 +1809,6 @@
       "onboard_time": 1723949177,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154491,
-      "num": 154491,
-      "word": "徐嘉余谈退役",
-      "onboard_time": 1723984279,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 154476,
@@ -2115,6 +2131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 129268,
+      "num": 129268,
+      "word": "TES战胜LNG",
+      "onboard_time": 1723985479,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 128661,
       "num": 128661,
       "word": "檀健次演唱会大屏文案回忆杀",
@@ -2161,6 +2185,14 @@
       "onboard_time": 1723898361,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 125989,
+      "num": 125989,
+      "word": "贵阳必吃的9家店",
+      "onboard_time": 1723985420,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 124394,
@@ -2257,14 +2289,6 @@
       "onboard_time": 1723913777,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 96168,
-      "num": 450265,
-      "word": "安徽回应赵亮实名举报官商勾结",
-      "onboard_time": 1723982300,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 89828,
@@ -2395,6 +2419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49200,
+      "num": 208072,
+      "word": "乌称首都基辅遭俄导弹袭击",
+      "onboard_time": 1723984220,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 48920,
       "num": 143359,
       "word": "汝州遭清退人员需被妥善安置",
@@ -2417,14 +2449,6 @@
       "onboard_time": 1723910480,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 38947,
-      "num": 208072,
-      "word": "乌称首都基辅遭俄导弹袭击",
-      "onboard_time": 1723984220,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 38061,
