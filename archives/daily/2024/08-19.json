@@ -1,6 +1,6 @@
 {
   "startTime": 1723998199428,
-  "endTime": 1724012410026,
+  "endTime": 1724013300149,
   "band_list": [
     {
       "raw_hot": 5870597,
@@ -507,7 +507,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 25281,
+      "raw_hot": 26686,
+      "num": 26686,
+      "word": "金智秀韩剧新乌托邦",
+      "onboard_time": 1724010972,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 26622,
       "num": 29230,
       "word": "男子海边救人后说要谢就谢任贤齐",
       "onboard_time": 1724009291,
@@ -523,20 +531,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23318,
-      "num": 24886,
-      "word": "金智秀韩剧新乌托邦",
-      "onboard_time": 1724010972,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 20517,
-      "num": 24814,
+      "raw_hot": 22013,
+      "num": 25142,
       "word": "一图读懂如何防控猴痘",
       "onboard_time": 1724011811,
       "rank": 48,
       "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 20377,
+      "num": 25138,
+      "word": "如何看待毛坯人生与精装朋友圈",
+      "onboard_time": 1724012711,
+      "rank": 47,
+      "category": "社会议题"
     },
     {
       "raw_hot": 19674,
@@ -547,8 +555,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19408,
-      "num": 24800,
+      "raw_hot": 19539,
+      "num": 25137,
       "word": "苏林抵达北京",
       "onboard_time": 1723982300,
       "rank": 49,
