@@ -1,0 +1,410 @@
+{
+  "runTime": 1723984651686,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1435855,
+        "num": 1435855,
+        "word": "中元节",
+        "onboard_time": 1723977259,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 986256,
+        "num": 986256,
+        "word": "疯狂小杨哥杭州办公总部出租",
+        "onboard_time": 1723976839,
+        "rank": 1,
+        "category": "互联网,幽默"
+      },
+      {
+        "raw_hot": 47204,
+        "num": 981984,
+        "word": "了不起的供应链",
+        "onboard_time": 1723969999,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 979762,
+        "num": 979762,
+        "word": "江西一私人影院进行卖淫嫖娼活动",
+        "onboard_time": 1723978040,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 803338,
+        "num": 803338,
+        "word": "郭碧婷倒是清净了 我们遭殃了",
+        "onboard_time": 1723978758,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 800800,
+        "num": 800800,
+        "word": "韩国恋综嘉宾50多岁的状态",
+        "onboard_time": 1723977859,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 524356,
+        "num": 524356,
+        "word": "男子离婚被驳回杀妻未遂被判6年",
+        "onboard_time": 1723975219,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454354,
+        "num": 454354,
+        "word": "王源演唱会嘉宾是单依纯",
+        "onboard_time": 1723977318,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 96168,
+        "num": 450265,
+        "word": "安徽回应赵亮实名举报官商勾结",
+        "onboard_time": 1723982300,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257766,
+        "num": 429489,
+        "word": "苏州打飞的30分钟到浦东机场",
+        "onboard_time": 1723979180,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1039991,
+        "num": 418982,
+        "word": "李佩霞被批五毒俱全",
+        "onboard_time": 1723980440,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 734580,
+        "num": 404832,
+        "word": "狂飙兄弟被爆出轨",
+        "onboard_time": 1723963280,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 402915,
+        "num": 402915,
+        "word": "异形 降智",
+        "onboard_time": 1723982179,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 397635,
+        "num": 397635,
+        "word": "来自央音专业第一的血脉压制",
+        "onboard_time": 1723977739,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361294,
+        "num": 361294,
+        "word": "邱贻可出战村超联赛",
+        "onboard_time": 1723978879,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 322983,
+        "num": 322983,
+        "word": "奶茶价格集体跳水",
+        "onboard_time": 1723947919,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 281680,
+        "num": 281680,
+        "word": "张百乔向小雪求婚",
+        "onboard_time": 1723966459,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 269337,
+        "num": 269337,
+        "word": "杨幂超话头像",
+        "onboard_time": 1723973121,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267295,
+        "num": 267295,
+        "word": "檀健次顶胯这一下",
+        "onboard_time": 1723965319,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 257175,
+        "num": 257175,
+        "word": "本周桃花运最旺的星座",
+        "onboard_time": 1723974199,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 503822,
+        "num": 256908,
+        "word": "有人为买LV巧克力先买包",
+        "onboard_time": 1723975697,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446197,
+        "num": 255194,
+        "word": "孕妈取快递脚被砸筋骨断裂硬缝8针",
+        "onboard_time": 1723972220,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324129,
+        "num": 252759,
+        "word": "年入22亿的李佳琦还要披荆斩棘吗",
+        "onboard_time": 1723957880,
+        "rank": 22,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 264523,
+        "num": 251682,
+        "word": "黄一鸣妈妈不愿意住新房子",
+        "onboard_time": 1723984099,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250109,
+        "num": 250109,
+        "word": "时代少年团苏州",
+        "onboard_time": 1723976779,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248097,
+        "num": 248097,
+        "word": "西瓜价格大涨",
+        "onboard_time": 1723978999,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 242725,
+        "num": 242725,
+        "word": "父母同时生病了独生子女该怎么办",
+        "onboard_time": 1723982480,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242106,
+        "num": 242106,
+        "word": "黑神话",
+        "onboard_time": 1723979360,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 216689,
+        "num": 216689,
+        "word": "by2又来贡献双人写真模版了",
+        "onboard_time": 1723980919,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 38947,
+        "num": 208072,
+        "word": "乌称首都基辅遭俄导弹袭击",
+        "onboard_time": 1723984220,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 232982,
+        "num": 207511,
+        "word": "女子称花3万整容眼球眼角被缝一起",
+        "onboard_time": 1723967839,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206626,
+        "num": 206626,
+        "word": "张雨霏和家人打牌被贴纸条",
+        "onboard_time": 1723984220,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201971,
+        "num": 201971,
+        "word": "LNG对战TES",
+        "onboard_time": 1723978758,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 193436,
+        "num": 193436,
+        "word": "库尔斯克核电站城市上空发出巨大爆炸声",
+        "onboard_time": 1723974559,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 192143,
+        "num": 192143,
+        "word": "大一新生陈芋汐",
+        "onboard_time": 1723951337,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169117,
+        "num": 169117,
+        "word": "付航游泳 水猴子",
+        "onboard_time": 1723984339,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168788,
+        "num": 168788,
+        "word": "泰国大学生被学长火烧体毛霸凌",
+        "onboard_time": 1723967419,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 168617,
+        "num": 168617,
+        "word": "向佐自曝与郭碧婷从未吵过架",
+        "onboard_time": 1723963639,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164500,
+        "num": 164500,
+        "word": "看完不敢玩漂流这项运动了",
+        "onboard_time": 1723982179,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 160313,
+        "num": 160313,
+        "word": "许嵩说断桥残雪是6岁写的歌",
+        "onboard_time": 1723969160,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154491,
+        "num": 154491,
+        "word": "徐嘉余谈退役",
+        "onboard_time": 1723984279,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148986,
+        "num": 148986,
+        "word": "陈飞宇杀青直播做上饭了",
+        "onboard_time": 1723983381,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144715,
+        "num": 144715,
+        "word": "一只仅有18斤的小猫碎掉了",
+        "onboard_time": 1723964659,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143549,
+        "num": 143549,
+        "word": "苏州偶遇马嘉祺",
+        "onboard_time": 1723981641,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48920,
+        "num": 143359,
+        "word": "汝州遭清退人员需被妥善安置",
+        "onboard_time": 1723982420,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143346,
+        "num": 143346,
+        "word": "长期缺睡眠有哪些表现",
+        "onboard_time": 1723972580,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142598,
+        "num": 142598,
+        "word": "17岁寒门羽坛新星之死",
+        "onboard_time": 1723982240,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136127,
+        "num": 136127,
+        "word": "张大大问陈妍希在复活岛开心吗",
+        "onboard_time": 1723983318,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135159,
+        "num": 135159,
+        "word": "苏林抵达北京",
+        "onboard_time": 1723982300,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131330,
+        "num": 131330,
+        "word": "一高老师说傻子都淘汰去三高五高了",
+        "onboard_time": 1723974500,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#提高党的领导水平和长期执政能力#"
+    }
+  }
+}
