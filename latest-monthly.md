@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/08/01 00:24:58 ~ 2024/08/18 16:36:13
+本榜单时间：2024/08/01 00:24:58 ~ 2024/08/18 17:22:38
 </p>
 </blockquote>
 <p>
@@ -5517,6 +5517,12 @@ Kimi14岁身高（热度：1541456）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%AD%A6%E9%95%BF%E7%81%AB%E7%83%A7%E4%BD%93%E6%AF%9B%E9%9C%B8%E5%87%8C%23" target="weibo">
+泰国大学生被学长火烧体毛霸凌（热度：1479181）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E7%8E%8B%E7%BB%84%E5%90%88%E5%86%B3%E8%B5%9B%20cctv16%23" target="weibo">
 梁王组合决赛 cctv16（热度：1475729）
 </a>
@@ -6005,12 +6011,6 @@ BLACKPINK直播（热度：1406940）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%99%E6%BD%98%E5%B1%95%E4%B9%90%E5%89%AA%E5%A4%B4%E5%8F%91%E7%9A%84Tony%E7%88%86%E5%8D%95%E4%BA%86%23" target="weibo">
 给潘展乐剪头发的Tony爆单了（热度：1372391）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A3%E6%96%B0%E9%B8%A1%E6%8E%92%E5%BA%97%E5%91%98%E6%89%93%E5%8C%85%E5%A4%96%E5%8D%96%E8%AE%A2%E5%8D%95%E7%95%99%E4%B8%8B%E5%87%A0%E5%9D%97%23" target="weibo">
-正新鸡排店员打包外卖订单留下几块（热度：1370925）
 </a>
 </li>
 
