@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1723937780568,
+  "endTime": 1723944974736,
   "band_list": [
     {
       "raw_hot": 2113689,
@@ -11,12 +11,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1782691,
+      "num": 1782691,
+      "word": "整容医生说亚洲脸安什么欧洲眼",
+      "onboard_time": 1723941979,
+      "rank": 0,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 1334400,
       "num": 1124828,
       "word": "太尴尬了",
       "onboard_time": 1723902023,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1314568,
+      "num": 460151,
+      "word": "女子参观兵马俑抱孩子走进俑坑",
+      "onboard_time": 1723937414,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1269313,
@@ -27,6 +43,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1266169,
+      "num": 1266169,
+      "word": "159个国家将采用金砖国家新支付系统",
+      "onboard_time": 1723938917,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1142396,
       "num": 1142396,
       "word": "雷军直播突发炸麦",
@@ -35,12 +59,52 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1019286,
+      "num": 1019286,
+      "word": "突然就不害怕中元节了",
+      "onboard_time": 1723941076,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1015956,
+      "num": 1015956,
+      "word": "王楚钦收到奥沙利文的祝福",
+      "onboard_time": 1723942938,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 896647,
+      "num": 896647,
+      "word": "樊振东为林昀儒庆生都不忘给霉霉打歌",
+      "onboard_time": 1723940237,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 772968,
       "num": 653732,
       "word": "金玟庭服装事故",
       "onboard_time": 1723908682,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 757643,
+      "num": 757643,
+      "word": "异形吓坏8岁小孩家长投诉影城",
+      "onboard_time": 1723907242,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 751742,
+      "num": 751742,
+      "word": "长沙打碎女孩头骨老师称假动作失误",
+      "onboard_time": 1723939877,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 730566,
@@ -83,20 +147,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 552451,
+      "num": 459210,
+      "word": "郑钦文回应奥运金牌去向",
+      "onboard_time": 1723939817,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 549614,
       "num": 549614,
       "word": "女子开宝马冲进早餐店致7伤",
       "onboard_time": 1723908742,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 500981,
-      "num": 495471,
-      "word": "异形吓坏8岁小孩家长投诉影城",
-      "onboard_time": 1723907242,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 484473,
@@ -115,12 +179,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 464479,
+      "num": 464479,
+      "word": "粉丝要求张大大澄清范丞丞恋情",
+      "onboard_time": 1723918454,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 461796,
       "num": 461796,
       "word": "虞书欣正式被确诊为袁湘琴",
       "onboard_time": 1723898240,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 458205,
+      "num": 458205,
+      "word": "顾漫骄阳似我",
+      "onboard_time": 1723940775,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 457148,
@@ -131,20 +211,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 445269,
-      "num": 445269,
-      "word": "粉丝要求张大大澄清范丞丞恋情",
-      "onboard_time": 1723918454,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 391794,
       "num": 391794,
       "word": "樊振东 我可以的",
       "onboard_time": 1723904722,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 390245,
+      "num": 305465,
+      "word": "41人考编上岸后被清退谁把招聘当儿戏",
+      "onboard_time": 1723903703,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 376683,
@@ -155,12 +235,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 367687,
+      "num": 367687,
+      "word": "朱一龙粉丝跑张大大直播间控诉片方",
+      "onboard_time": 1723939335,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 353195,
       "num": 353195,
       "word": "WTT门票",
       "onboard_time": 1723899381,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 351372,
+      "num": 351372,
+      "word": "金智媛澳门",
+      "onboard_time": 1723940477,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 332401,
@@ -187,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 325134,
+      "num": 307305,
+      "word": "严浩翔回应没关麦",
+      "onboard_time": 1723936875,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 319844,
       "num": 319844,
       "word": "不再出具户口簿方便异地办理婚姻登记",
@@ -195,12 +299,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 306880,
-      "num": 292048,
-      "word": "41人考编上岸后被清退谁把招聘当儿戏",
-      "onboard_time": 1723903703,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 306878,
+      "num": 306878,
+      "word": "小米高管就直播炸麦致歉",
+      "onboard_time": 1723937776,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 306722,
@@ -227,6 +331,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 265150,
+      "num": 265150,
+      "word": "这个视角看孙颖莎打乒乓球好牛啊",
+      "onboard_time": 1723939455,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 263695,
+      "num": 263695,
+      "word": "18省区市将有大到暴雨",
+      "onboard_time": 1723941377,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261430,
       "num": 306439,
       "word": "鬼节",
@@ -241,6 +361,14 @@
       "onboard_time": 1723910301,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258777,
+      "num": 258777,
+      "word": "作者爱不爱自己笔下的角色很明显",
+      "onboard_time": 1723941677,
+      "rank": 24,
+      "category": "读书作家"
     },
     {
       "raw_hot": 251758,
@@ -275,6 +403,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 224896,
+      "num": 224896,
+      "word": "无能为力的年纪碰上了想要的房子",
+      "onboard_time": 1723942097,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 216965,
       "num": 216965,
       "word": "这下真的记住李泽锋了",
@@ -299,11 +435,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 204044,
-      "num": 177678,
-      "word": "严浩翔回应没关麦",
-      "onboard_time": 1723936875,
-      "rank": 11,
+      "raw_hot": 201044,
+      "num": 201044,
+      "word": "婚后女生管钱和男生管钱的区别",
+      "onboard_time": 1723940477,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 198616,
+      "num": 198616,
+      "word": "檀健次蒙娜丽莎湿身舞台",
+      "onboard_time": 1723940477,
+      "rank": 30,
       "category": "演出"
     },
     {
@@ -363,6 +507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 151042,
+      "num": 151042,
+      "word": "这下终于会看心电图了",
+      "onboard_time": 1723942338,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 150993,
       "num": 150993,
       "word": "疾控41名事业编遭清退涉事主任被停职",
@@ -377,6 +529,14 @@
       "onboard_time": 1723872081,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146538,
+      "num": 146538,
+      "word": "异形 科幻恐怖",
+      "onboard_time": 1723939036,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 142509,
@@ -403,6 +563,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 126807,
+      "num": 126807,
+      "word": "张若昀是大张伟铁粉",
+      "onboard_time": 1723943840,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 126082,
       "num": 149761,
       "word": "檀健次演唱会活动",
@@ -419,6 +587,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 123624,
+      "num": 123624,
+      "word": "老人误操作电动车路人险被讹",
+      "onboard_time": 1723930632,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122049,
       "num": 149736,
       "word": "范丞丞工作室告黑维权",
@@ -427,12 +603,60 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 115372,
-      "num": 86612,
-      "word": "老人误操作电动车路人险被讹",
-      "onboard_time": 1723930632,
-      "rank": 49,
+      "raw_hot": 116289,
+      "num": 116289,
+      "word": "曹缘评价全红婵陈芋汐",
+      "onboard_time": 1723941916,
+      "rank": 42,
+      "category": "体育,综艺"
+    },
+    {
+      "raw_hot": 113665,
+      "num": 113665,
+      "word": "电影虎狼之路改名浴火之路",
+      "onboard_time": 1723944798,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 111103,
+      "num": 111103,
+      "word": "看姥孙才知道自己是泪失禁体质",
+      "onboard_time": 1723944618,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 110273,
+      "num": 110273,
+      "word": "德国水上乐园的滑梯",
+      "onboard_time": 1723944680,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 108918,
+      "num": 108918,
+      "word": "追更马王堆汉墓原始考古现场",
+      "onboard_time": 1723944558,
+      "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108428,
+      "num": 108428,
+      "word": "网友拍证件照偶遇奥运冠军阿条姐",
+      "onboard_time": 1723944680,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 108222,
+      "num": 108222,
+      "word": "石凯巡演 捡彩带",
+      "onboard_time": 1723944858,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 106515,
@@ -457,6 +681,14 @@
       "onboard_time": 1723915275,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 79678,
+      "num": 378418,
+      "word": "33岁保安值夜班时猝死厕所",
+      "onboard_time": 1723944017,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73825,
@@ -507,11 +739,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 59139,
-      "num": 62799,
-      "word": "女子参观兵马俑抱孩子走进俑坑",
-      "onboard_time": 1723937414,
-      "rank": 42,
+      "raw_hot": 57346,
+      "num": 460353,
+      "word": "男童遭武术教练殴打致死案后续",
+      "onboard_time": 1723944078,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -548,7 +780,7 @@
     },
     {
       "raw_hot": 14255,
-      "num": 599952,
+      "num": 1032159,
       "word": "数据看高质量发展中的含绿量",
       "onboard_time": 1723900280,
       "rank": 2,
