@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724001389857,
+  "endTime": 1724002523373,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -1971,6 +1971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 170022,
+      "num": 112717,
+      "word": "情侣同居后更容易分手吗",
+      "onboard_time": 1723999157,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 169655,
       "num": 169655,
       "word": "北欧女高中生的周末",
@@ -2057,14 +2065,6 @@
       "onboard_time": 1723951458,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 163374,
-      "num": 101857,
-      "word": "情侣同居后更容易分手吗",
-      "onboard_time": 1723999157,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 163002,
@@ -2579,6 +2579,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 132285,
+      "num": 132285,
+      "word": "种地吧",
+      "onboard_time": 1723996700,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130908,
       "num": 130908,
       "word": "檀健次演唱会审美",
@@ -2785,14 +2793,6 @@
       "onboard_time": 1723915275,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 86391,
-      "num": 88927,
-      "word": "种地吧",
-      "onboard_time": 1723996700,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 77345,
@@ -3044,7 +3044,7 @@
     },
     {
       "raw_hot": 19674,
-      "num": 109978,
+      "num": 219032,
       "word": "一年多未见警犬还记得民警声音",
       "onboard_time": 1724001195,
       "rank": 17,

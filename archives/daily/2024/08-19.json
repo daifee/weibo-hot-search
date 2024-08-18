@@ -1,6 +1,6 @@
 {
   "startTime": 1723998199428,
-  "endTime": 1724001389857,
+  "endTime": 1724002523373,
   "band_list": [
     {
       "raw_hot": 5870597,
@@ -187,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170022,
+      "num": 112717,
+      "word": "情侣同居后更容易分手吗",
+      "onboard_time": 1723999157,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 169752,
       "num": 169752,
       "word": "疯狂小杨哥杭州办公总部出租",
@@ -235,14 +243,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 163374,
-      "num": 101857,
-      "word": "情侣同居后更容易分手吗",
-      "onboard_time": 1723999157,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 162796,
       "num": 521476,
       "word": "长荣桂冠主厨称海外侨胞都不会接受",
@@ -289,6 +289,14 @@
       "onboard_time": 1723957880,
       "rank": 35,
       "category": "社会新闻,综艺"
+    },
+    {
+      "raw_hot": 132285,
+      "num": 132285,
+      "word": "种地吧",
+      "onboard_time": 1723996700,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 127301,
@@ -411,12 +419,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 86391,
-      "num": 88927,
-      "word": "种地吧",
-      "onboard_time": 1723996700,
-      "rank": 46,
-      "category": "综艺"
+      "raw_hot": 79668,
+      "num": 79668,
+      "word": "狂飙兄弟被爆出轨",
+      "onboard_time": 1723963280,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 66231,
@@ -433,6 +441,22 @@
       "onboard_time": 1724000234,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 48342,
+      "num": 60129,
+      "word": "张大大就直播争议道歉",
+      "onboard_time": 1723989440,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 47593,
+      "num": 60128,
+      "word": "张百乔向小雪求婚",
+      "onboard_time": 1723966459,
+      "rank": 48,
+      "category": "网红"
     },
     {
       "raw_hot": 43181,
@@ -452,14 +476,14 @@
     },
     {
       "raw_hot": 19674,
-      "num": 109978,
+      "num": 219032,
       "word": "一年多未见警犬还记得民警声音",
       "onboard_time": 1724001195,
       "rank": 17,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2023,
+      "raw_hot": 2116,
       "num": 622335,
       "word": "神十八乘组太空出差中的轻松时刻",
       "onboard_time": 1723958300,
