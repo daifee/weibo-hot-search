@@ -1,6 +1,6 @@
 {
   "startTime": 1723998199428,
-  "endTime": 1724023278086,
+  "endTime": 1724024181956,
   "band_list": [
     {
       "raw_hot": 5870597,
@@ -35,20 +35,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 953826,
+      "num": 953826,
+      "word": "马来西亚女子被丈夫推下悬崖",
+      "onboard_time": 1723988361,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 885708,
       "num": 885708,
       "word": "李佳琦在自己直播间办了披哥1.5公",
       "onboard_time": 1723992501,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 843048,
-      "num": 843048,
-      "word": "马来西亚女子被丈夫推下悬崖",
-      "onboard_time": 1723988361,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 807866,
@@ -81,6 +81,22 @@
       "onboard_time": 1723993162,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 412462,
+      "num": 412462,
+      "word": "男子海边救人后说要谢就谢任贤齐",
+      "onboard_time": 1724009291,
+      "rank": 49,
+      "category": "社会正能量,艺人"
+    },
+    {
+      "raw_hot": 403445,
+      "num": 403445,
+      "word": "大爷为见亡妻吃见手青疑似编故事",
+      "onboard_time": 1724022616,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 403173,
@@ -123,14 +139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 325717,
-      "num": 325717,
-      "word": "男子海边救人后说要谢就谢任贤齐",
-      "onboard_time": 1724009291,
-      "rank": 49,
-      "category": "社会正能量,艺人"
-    },
-    {
       "raw_hot": 320216,
       "num": 290818,
       "word": "薛之谦演唱会",
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 285955,
-      "num": 170491,
+      "num": 215151,
       "word": "这几天失眠可能跟月亮有关",
       "onboard_time": 1724006471,
       "rank": 20,
@@ -163,12 +171,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267668,
+      "num": 163318,
+      "word": "这小狗跟亲生的有什么区别啊",
+      "onboard_time": 1724022376,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 240295,
       "num": 240295,
       "word": "父母同时生病了独生子女该怎么办",
       "onboard_time": 1723982480,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229684,
+      "num": 419216,
+      "word": "孔笙肖战开机同框",
+      "onboard_time": 1723986440,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 225552,
@@ -187,20 +211,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208521,
-      "num": 218148,
-      "word": "孔笙肖战开机同框",
-      "onboard_time": 1723986440,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 201199,
-      "num": 125375,
-      "word": "这小狗跟亲生的有什么区别啊",
-      "onboard_time": 1724022376,
-      "rank": 20,
-      "category": "情感"
+      "raw_hot": 215767,
+      "num": 215767,
+      "word": "疯狂小杨哥杭州办公总部出租",
+      "onboard_time": 1723976839,
+      "rank": 25,
+      "category": "互联网,幽默"
     },
     {
       "raw_hot": 190495,
@@ -211,20 +227,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188880,
+      "num": 163034,
+      "word": "男朋友不接受猫上床",
+      "onboard_time": 1724022795,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 182737,
       "num": 182737,
       "word": "韩国恋综嘉宾50多岁的状态",
       "onboard_time": 1723977859,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 178427,
-      "num": 178427,
-      "word": "疯狂小杨哥杭州办公总部出租",
-      "onboard_time": 1723976839,
-      "rank": 25,
-      "category": "互联网,幽默"
     },
     {
       "raw_hot": 170022,
@@ -252,7 +268,7 @@
     },
     {
       "raw_hot": 166922,
-      "num": 87965,
+      "num": 150118,
       "word": "中国海警对菲侵权船只依法依规实施管控措施",
       "onboard_time": 1724022256,
       "rank": 30,
@@ -265,6 +281,14 @@
       "onboard_time": 1723994301,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164793,
+      "num": 164793,
+      "word": "小区门口开殡葬店遭业主抵制",
+      "onboard_time": 1724022735,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164298,
@@ -307,14 +331,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 142517,
-      "num": 142517,
-      "word": "大爷为见亡妻吃见手青疑似编故事",
-      "onboard_time": 1724022616,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139858,
       "num": 139858,
       "word": "周深只字不提唱分手后遗症",
@@ -329,6 +345,14 @@
       "onboard_time": 1723978758,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 138824,
+      "num": 138824,
+      "word": "西湖边2米多高的黑烟是摇蚊柱",
+      "onboard_time": 1724021054,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133590,
@@ -364,7 +388,7 @@
     },
     {
       "raw_hot": 122626,
-      "num": 122626,
+      "num": 164330,
       "word": "于正解释新艺人名字",
       "onboard_time": 1723989200,
       "rank": 38,
@@ -395,14 +419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 112898,
-      "num": 112898,
-      "word": "男朋友不接受猫上床",
-      "onboard_time": 1724022795,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 112398,
       "num": 112398,
       "word": "白宇 叔圈白菜",
@@ -428,7 +444,7 @@
     },
     {
       "raw_hot": 106752,
-      "num": 106752,
+      "num": 126560,
       "word": "成毅再现经典握拳动作",
       "onboard_time": 1724022855,
       "rank": 24,
@@ -459,6 +475,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103829,
+      "num": 103829,
+      "word": "陈芋汐一天称十次体重",
+      "onboard_time": 1724023517,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 101739,
+      "num": 101739,
+      "word": "走钢丝坠落演员仍在救治中",
+      "onboard_time": 1724023816,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100567,
+      "num": 100567,
+      "word": "小狗真的筋疲力尽了",
+      "onboard_time": 1724022435,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99569,
       "num": 99569,
       "word": "徐嘉余谈退役",
@@ -483,20 +523,44 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 93571,
-      "num": 93571,
-      "word": "西湖边2米多高的黑烟是摇蚊柱",
-      "onboard_time": 1724021054,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 91882,
-      "num": 126219,
+      "num": 126537,
       "word": "金智秀韩剧新乌托邦",
       "onboard_time": 1724010972,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91133,
+      "num": 91133,
+      "word": "翻看了一下20岁孙杨的微博",
+      "onboard_time": 1724023035,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 86734,
+      "num": 86734,
+      "word": "樊振东 走过的每一步都算数",
+      "onboard_time": 1724023517,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 85223,
+      "num": 85223,
+      "word": "陈芋汐说遇到更强的全红婵是幸运",
+      "onboard_time": 1724022616,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 82386,
+      "num": 82386,
+      "word": "樊振东谈八进四",
+      "onboard_time": 1724023155,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 79668,
@@ -507,27 +571,27 @@
       "category": "网红"
     },
     {
-      "raw_hot": 79211,
-      "num": 79211,
-      "word": "小区门口开殡葬店遭业主抵制",
-      "onboard_time": 1724022735,
-      "rank": 32,
+      "raw_hot": 78028,
+      "num": 412702,
+      "word": "花花和叶睡起了上下铺",
+      "onboard_time": 1724023517,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 69694,
-      "num": 69694,
-      "word": "小狗真的筋疲力尽了",
-      "onboard_time": 1724022435,
-      "rank": 34,
-      "category": "幽默"
+      "raw_hot": 72807,
+      "num": 72807,
+      "word": "享受饥饿感是变瘦的开始",
+      "onboard_time": 1724022735,
+      "rank": 46,
+      "category": "运动健身"
     },
     {
-      "raw_hot": 68394,
-      "num": 68394,
-      "word": "翻看了一下20岁孙杨的微博",
-      "onboard_time": 1724023035,
-      "rank": 36,
+      "raw_hot": 71097,
+      "num": 71097,
+      "word": "切尔西0比2曼城",
+      "onboard_time": 1724023098,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -545,22 +609,6 @@
       "onboard_time": 1724012711,
       "rank": 47,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 60879,
-      "num": 60879,
-      "word": "樊振东谈八进四",
-      "onboard_time": 1724023155,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 59432,
-      "num": 59432,
-      "word": "陈芋汐说遇到更强的全红婵是幸运",
-      "onboard_time": 1724022616,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 55695,
@@ -699,8 +747,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 4330,
-      "num": 938623,
+      "raw_hot": 5007,
+      "num": 1043365,
       "word": "神十八乘组太空出差中的轻松时刻",
       "onboard_time": 1723958300,
       "rank": 2,
