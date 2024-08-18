@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1723965441260,
+  "endTime": 1723966465655,
   "band_list": [
     {
       "raw_hot": 3310174,
@@ -27,8 +27,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 2371079,
-      "num": 2371079,
+      "raw_hot": 2458655,
+      "num": 2458655,
       "word": "狂飙兄弟被爆出轨",
       "onboard_time": 1723963280,
       "rank": 0,
@@ -203,20 +203,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 929905,
+      "num": 811008,
+      "word": "向佐自曝与郭碧婷从未吵过架",
+      "onboard_time": 1723963639,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 896647,
       "num": 896647,
       "word": "樊振东为林昀儒庆生都不忘给霉霉打歌",
       "onboard_time": 1723940237,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 875620,
-      "num": 811008,
-      "word": "向佐自曝与郭碧婷从未吵过架",
-      "onboard_time": 1723963639,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 847776,
@@ -289,6 +289,14 @@
       "onboard_time": 1723907002,
       "rank": 20,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 632586,
+      "num": 469338,
+      "word": "世界乒联发马龙的庆祝动作",
+      "onboard_time": 1723964481,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 629108,
@@ -403,20 +411,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 472984,
+      "num": 472984,
+      "word": "聊缩力",
+      "onboard_time": 1723961359,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 469941,
       "num": 469941,
       "word": "檀健次演唱会",
       "onboard_time": 1723900521,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 468486,
-      "num": 468486,
-      "word": "聊缩力",
-      "onboard_time": 1723961359,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 464479,
@@ -571,6 +579,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 349452,
+      "num": 281111,
+      "word": "一只仅有18斤的小猫碎掉了",
+      "onboard_time": 1723964659,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 339923,
+      "num": 339923,
+      "word": "加沙小孩走在路上身后大楼突然被炸",
+      "onboard_time": 1723960580,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 335501,
       "num": 394495,
       "word": "小鹿 结婚真的很伤感情",
@@ -699,28 +723,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 281111,
-      "num": 281111,
-      "word": "一只仅有18斤的小猫碎掉了",
-      "onboard_time": 1723964659,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 280164,
       "num": 280164,
       "word": "爸爸随手扔4粒种子家被南瓜占领",
       "onboard_time": 1723957640,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 278696,
-      "num": 415388,
-      "word": "世界乒联发马龙的庆祝动作",
-      "onboard_time": 1723964481,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 273528,
@@ -737,6 +745,14 @@
       "onboard_time": 1723956859,
       "rank": 30,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 266401,
+      "num": 266401,
+      "word": "穿着清凉超市老板娘晒病历单",
+      "onboard_time": 1723964300,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265150,
@@ -763,20 +779,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260839,
+      "num": 260839,
+      "word": "檀健次顶胯这一下",
+      "onboard_time": 1723965319,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 259981,
       "num": 484556,
       "word": "同一人1次中彩票超1万需缴20%税",
       "onboard_time": 1723910301,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259049,
-      "num": 259049,
-      "word": "加沙小孩走在路上身后大楼突然被炸",
-      "onboard_time": 1723960580,
-      "rank": 33,
-      "category": "国外时政"
     },
     {
       "raw_hot": 258847,
@@ -787,12 +803,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 258708,
+      "num": 258708,
+      "word": "文旅局回应女子抱孩子进兵马俑坑",
+      "onboard_time": 1723962438,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254886,
       "num": 254886,
       "word": "张若昀帅 粉丝坏",
       "onboard_time": 1723957939,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254815,
+      "num": 254815,
+      "word": "王鹤棣 我没偷吃",
+      "onboard_time": 1723962619,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 251758,
@@ -851,28 +883,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 236668,
-      "num": 236668,
-      "word": "文旅局回应女子抱孩子进兵马俑坑",
-      "onboard_time": 1723962438,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235679,
       "num": 235679,
       "word": "黑神话悟空开启预载",
       "onboard_time": 1723950019,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 235230,
-      "num": 235230,
-      "word": "穿着清凉超市老板娘晒病历单",
-      "onboard_time": 1723964300,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 225927,
@@ -896,14 +912,6 @@
       "word": "这下真的记住李泽锋了",
       "onboard_time": 1723929851,
       "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 216896,
-      "num": 216896,
-      "word": "王鹤棣 我没偷吃",
-      "onboard_time": 1723962619,
-      "rank": 40,
       "category": "综艺"
     },
     {
@@ -1259,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157685,
+      "num": 157685,
+      "word": "七十多岁演人生的第一个女主",
+      "onboard_time": 1723964059,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 157535,
       "num": 157535,
       "word": "终于理解林志玲为什么嫁给黑泽良平了",
@@ -1305,14 +1321,6 @@
       "onboard_time": 1723901600,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 152917,
-      "num": 152917,
-      "word": "檀健次顶胯这一下",
-      "onboard_time": 1723965319,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 152604,
@@ -1387,14 +1395,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 143045,
-      "num": 143045,
-      "word": "七十多岁演人生的第一个女主",
-      "onboard_time": 1723964059,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 142509,
       "num": 149862,
       "word": "霍思燕养孔雀",
@@ -1432,6 +1432,14 @@
       "word": "神童上岸的反常公职招录必须查问明白",
       "onboard_time": 1723950019,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139111,
+      "num": 139111,
+      "word": "5800万单身数据或有误读",
+      "onboard_time": 1723966160,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1473,6 +1481,14 @@
       "onboard_time": 1723939154,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126729,
+      "num": 126729,
+      "word": "最适合李耕耘的衣服出现了",
+      "onboard_time": 1723965559,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 126082,
@@ -1611,6 +1627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 71486,
+      "num": 193695,
+      "word": "来华为门店i一会",
+      "onboard_time": 1723965319,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 69797,
       "num": 69797,
       "word": "高需求小猫",
@@ -1627,6 +1651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67328,
+      "num": 629454,
+      "word": "被集体清退当事人称不是考生的责任",
+      "onboard_time": 1723964420,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62750,
       "num": 67085,
       "word": "檀健次演唱会万人合唱",
@@ -1641,14 +1673,6 @@
       "onboard_time": 1723934953,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 59171,
-      "num": 143012,
-      "word": "来华为门店i一会",
-      "onboard_time": 1723965319,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 57905,
@@ -1689,14 +1713,6 @@
       "onboard_time": 1723950498,
       "rank": 29,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 37086,
-      "num": 629454,
-      "word": "被集体清退当事人称不是考生的责任",
-      "onboard_time": 1723964420,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33523,

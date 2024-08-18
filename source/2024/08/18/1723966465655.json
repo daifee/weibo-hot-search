@@ -1,0 +1,410 @@
+{
+  "runTime": 1723966465655,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2458655,
+        "num": 2458655,
+        "word": "狂飙兄弟被爆出轨",
+        "onboard_time": 1723963280,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 876143,
+        "num": 876143,
+        "word": "李佩霞严重违纪违法被双开",
+        "onboard_time": 1723952537,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27736,
+        "num": 807719,
+        "word": "万亩梯田尽染金黄丰景入画来",
+        "onboard_time": 1723948038,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 929905,
+        "num": 800350,
+        "word": "向佐自曝与郭碧婷从未吵过架",
+        "onboard_time": 1723963639,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 786037,
+        "num": 786037,
+        "word": "大一新生陈芋汐",
+        "onboard_time": 1723951337,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 719885,
+        "num": 719885,
+        "word": "奶茶价格集体跳水",
+        "onboard_time": 1723947919,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 765627,
+        "num": 713367,
+        "word": "狂飙兄弟回应曾做男模",
+        "onboard_time": 1723963578,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 567290,
+        "num": 567290,
+        "word": "张学良将军之子张闾琳逝世",
+        "onboard_time": 1723960039,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558821,
+        "num": 558821,
+        "word": "于正新签的女艺人",
+        "onboard_time": 1723958540,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 472984,
+        "num": 472984,
+        "word": "聊缩力",
+        "onboard_time": 1723961359,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 632586,
+        "num": 469338,
+        "word": "世界乒联发马龙的庆祝动作",
+        "onboard_time": 1723964481,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 541712,
+        "num": 463565,
+        "word": "阿兰德龙去世",
+        "onboard_time": 1723962859,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1585904,
+        "num": 459235,
+        "word": "年入22亿的李佳琦还要披荆斩棘吗",
+        "onboard_time": 1723957880,
+        "rank": 12,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 510108,
+        "num": 456387,
+        "word": "理解林志玲 好奇郭碧婷",
+        "onboard_time": 1723959199,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 506608,
+        "num": 447250,
+        "word": "官方通报李佩霞案件",
+        "onboard_time": 1723951278,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446909,
+        "num": 446909,
+        "word": "长荣桂冠酒店曝光者发声",
+        "onboard_time": 1723961658,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431264,
+        "num": 431264,
+        "word": "身高2米31的异形演员",
+        "onboard_time": 1723953739,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148348,
+        "num": 345725,
+        "word": "两弹一星功勋奖章获得者周光召逝世",
+        "onboard_time": 1723959440,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339923,
+        "num": 339923,
+        "word": "加沙小孩走在路上身后大楼突然被炸",
+        "onboard_time": 1723960580,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 266401,
+        "num": 266401,
+        "word": "穿着清凉超市老板娘晒病历单",
+        "onboard_time": 1723964300,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 692401,
+        "num": 266372,
+        "word": "戚薇问李承铉准备在战至巅峰离婚吗",
+        "onboard_time": 1723961479,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349452,
+        "num": 264665,
+        "word": "一只仅有18斤的小猫碎掉了",
+        "onboard_time": 1723964659,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 329688,
+        "num": 262792,
+        "word": "客服回应旺旺碎冰冰疑有粪便",
+        "onboard_time": 1723957518,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279973,
+        "num": 261585,
+        "word": "WiFi和WLAN究竟有啥区别",
+        "onboard_time": 1723956259,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 260839,
+        "num": 260839,
+        "word": "檀健次顶胯这一下",
+        "onboard_time": 1723965319,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 258708,
+        "num": 258708,
+        "word": "文旅局回应女子抱孩子进兵马俑坑",
+        "onboard_time": 1723962438,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257373,
+        "num": 257373,
+        "word": "女子看到一女童跟闺女撞脸很崩溃",
+        "onboard_time": 1723945040,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254815,
+        "num": 254815,
+        "word": "王鹤棣 我没偷吃",
+        "onboard_time": 1723962619,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199488,
+        "num": 199488,
+        "word": "高端水果降价潮来了",
+        "onboard_time": 1723960818,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195557,
+        "num": 195557,
+        "word": "异形",
+        "onboard_time": 1723955779,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 71486,
+        "num": 193695,
+        "word": "来华为门店i一会",
+        "onboard_time": 1723965319,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 67328,
+        "num": 192656,
+        "word": "被集体清退当事人称不是考生的责任",
+        "onboard_time": 1723964420,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192407,
+        "num": 192407,
+        "word": "陈芋汐到同济大学报到",
+        "onboard_time": 1723960098,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189654,
+        "num": 189654,
+        "word": "只给侯明昊一个人恋综本吗",
+        "onboard_time": 1723962978,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183544,
+        "num": 183544,
+        "word": "整容医生说亚洲脸安什么欧洲眼",
+        "onboard_time": 1723941979,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 170633,
+        "num": 170633,
+        "word": "小鹿 结婚真的很伤感情",
+        "onboard_time": 1723953319,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165793,
+        "num": 165793,
+        "word": "突然就不害怕中元节了",
+        "onboard_time": 1723941076,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161554,
+        "num": 161554,
+        "word": "14岁男孩骑摩托飞驰送2娃赶兴趣班",
+        "onboard_time": 1723959834,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161180,
+        "num": 161180,
+        "word": "神的银牌已工伤",
+        "onboard_time": 1723953739,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157685,
+        "num": 157685,
+        "word": "七十多岁演人生的第一个女主",
+        "onboard_time": 1723964059,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154121,
+        "num": 154121,
+        "word": "时代少年团战至巅峰下周预告",
+        "onboard_time": 1723962978,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153263,
+        "num": 153263,
+        "word": "孕期常接触塑料男宝自闭症风险高",
+        "onboard_time": 1723956859,
+        "rank": 41,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 148619,
+        "num": 148619,
+        "word": "大厂员工被裁后去草原放牧",
+        "onboard_time": 1723964179,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144049,
+        "num": 144049,
+        "word": "黑神话悟空 猜boss",
+        "onboard_time": 1723950078,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143985,
+        "num": 143985,
+        "word": "光与夜之恋婚谷复刻",
+        "onboard_time": 1723956019,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142574,
+        "num": 142574,
+        "word": "付航 passion脱口秀",
+        "onboard_time": 1723965019,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139111,
+        "num": 139111,
+        "word": "5800万单身数据或有误读",
+        "onboard_time": 1723966160,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126729,
+        "num": 126729,
+        "word": "最适合李耕耘的衣服出现了",
+        "onboard_time": 1723965559,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124525,
+        "num": 124525,
+        "word": "谁能把法海的电饭煲内胆扔了",
+        "onboard_time": 1723962498,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116691,
+        "num": 116691,
+        "word": "香港顶流男团歌曲惊现内地音综",
+        "onboard_time": 1723961179,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#守护好文化瑰宝和自然珍宝#"
+    }
+  }
+}
