@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1723944974736,
+  "endTime": 1723945925346,
   "band_list": [
     {
       "raw_hot": 2113689,
@@ -11,8 +11,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 1782691,
-      "num": 1782691,
+      "raw_hot": 1886676,
+      "num": 1886676,
       "word": "整容医生说亚洲脸安什么欧洲眼",
       "onboard_time": 1723941979,
       "rank": 0,
@@ -59,8 +59,8 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 1019286,
-      "num": 1019286,
+      "raw_hot": 1071190,
+      "num": 1071190,
       "word": "突然就不害怕中元节了",
       "onboard_time": 1723941076,
       "rank": 3,
@@ -75,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 898298,
+      "num": 416433,
+      "word": "女子看到一女童跟闺女撞脸很崩溃",
+      "onboard_time": 1723945040,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 896647,
       "num": 896647,
       "word": "樊振东为林昀儒庆生都不忘给霉霉打歌",
@@ -83,20 +91,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 847776,
+      "num": 847776,
+      "word": "异形吓坏8岁小孩家长投诉影城",
+      "onboard_time": 1723907242,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 772968,
       "num": 653732,
       "word": "金玟庭服装事故",
       "onboard_time": 1723908682,
       "rank": 6,
       "category": "演出"
-    },
-    {
-      "raw_hot": 757643,
-      "num": 757643,
-      "word": "异形吓坏8岁小孩家长投诉影城",
-      "onboard_time": 1723907242,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 751742,
@@ -163,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 522378,
+      "num": 522378,
+      "word": "顾漫骄阳似我",
+      "onboard_time": 1723940775,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 484473,
       "num": 484473,
       "word": "WTT 盲盒",
@@ -195,20 +211,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 458205,
-      "num": 458205,
-      "word": "顾漫骄阳似我",
-      "onboard_time": 1723940775,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 457148,
       "num": 298380,
       "word": "桃李面包怎么卖不动了",
       "onboard_time": 1723904004,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 426423,
+      "num": 305465,
+      "word": "41人考编上岸后被清退谁把招聘当儿戏",
+      "onboard_time": 1723903703,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 391794,
@@ -219,12 +235,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 390245,
-      "num": 305465,
-      "word": "41人考编上岸后被清退谁把招聘当儿戏",
-      "onboard_time": 1723903703,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 387188,
+      "num": 387188,
+      "word": "金智媛澳门",
+      "onboard_time": 1723940477,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 376683,
@@ -249,14 +265,6 @@
       "onboard_time": 1723899381,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 351372,
-      "num": 351372,
-      "word": "金智媛澳门",
-      "onboard_time": 1723940477,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 332401,
@@ -331,6 +339,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 271662,
+      "num": 242393,
+      "word": "无能为力的年纪碰上了想要的房子",
+      "onboard_time": 1723942097,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 265651,
+      "num": 265651,
+      "word": "作者爱不爱自己笔下的角色很明显",
+      "onboard_time": 1723941677,
+      "rank": 24,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 265150,
       "num": 265150,
       "word": "这个视角看孙颖莎打乒乓球好牛啊",
@@ -363,14 +387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 258777,
-      "num": 258777,
-      "word": "作者爱不爱自己笔下的角色很明显",
-      "onboard_time": 1723941677,
-      "rank": 24,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 251758,
       "num": 251758,
       "word": "马嘉祺破音",
@@ -395,20 +411,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226441,
+      "num": 226441,
+      "word": "柳舟记 父母偏心可偏偏女儿最争气",
+      "onboard_time": 1723945158,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225620,
       "num": 250206,
       "word": "长期佩戴这种眼镜会加重近视",
       "onboard_time": 1723893800,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 224896,
-      "num": 224896,
-      "word": "无能为力的年纪碰上了想要的房子",
-      "onboard_time": 1723942097,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 216965,
@@ -435,8 +451,16 @@
       "category": "演出"
     },
     {
-      "raw_hot": 201044,
-      "num": 201044,
+      "raw_hot": 212025,
+      "num": 378418,
+      "word": "33岁保安值夜班时猝死厕所",
+      "onboard_time": 1723944017,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202384,
+      "num": 202384,
       "word": "婚后女生管钱和男生管钱的区别",
       "onboard_time": 1723940477,
       "rank": 29,
@@ -457,6 +481,22 @@
       "onboard_time": 1723900823,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187765,
+      "num": 187765,
+      "word": "这下终于会看心电图了",
+      "onboard_time": 1723942338,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 185489,
+      "num": 460353,
+      "word": "男童遭武术教练殴打致死案后续",
+      "onboard_time": 1723944078,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184342,
@@ -483,6 +523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 162745,
+      "num": 162745,
+      "word": "电影虎狼之路改名浴火之路",
+      "onboard_time": 1723944798,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 157535,
       "num": 157535,
       "word": "终于理解林志玲为什么嫁给黑泽良平了",
@@ -505,14 +553,6 @@
       "onboard_time": 1723901600,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 151042,
-      "num": 151042,
-      "word": "这下终于会看心电图了",
-      "onboard_time": 1723942338,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 150993,
@@ -539,6 +579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 143103,
+      "num": 143103,
+      "word": "刘光耀发长文对前妻提出九大质疑",
+      "onboard_time": 1723945880,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142509,
       "num": 149862,
       "word": "霍思燕养孔雀",
@@ -555,6 +603,30 @@
       "category": "演出"
     },
     {
+      "raw_hot": 137785,
+      "num": 137785,
+      "word": "德国水上乐园的滑梯",
+      "onboard_time": 1723944680,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 136986,
+      "num": 136986,
+      "word": "张若昀是大张伟铁粉",
+      "onboard_time": 1723943840,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 136391,
+      "num": 136391,
+      "word": "杭州一小区流浪猫身中10箭死亡",
+      "onboard_time": 1723945758,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134086,
       "num": 134086,
       "word": "晚10至11点睡对心血管最好",
@@ -563,12 +635,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 126807,
-      "num": 126807,
-      "word": "张若昀是大张伟铁粉",
-      "onboard_time": 1723943840,
-      "rank": 38,
-      "category": "演出"
+      "raw_hot": 133985,
+      "num": 133985,
+      "word": "问界M7新车开到海滩结果被淹",
+      "onboard_time": 1723945459,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 126757,
+      "num": 126757,
+      "word": "茶艺表演失误时两名演员临场飙戏",
+      "onboard_time": 1723939154,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126082,
@@ -584,6 +664,14 @@
       "word": "严浩翔贺峻霖耻辱柱舞台",
       "onboard_time": 1723898361,
       "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 125914,
+      "num": 129710,
+      "word": "石凯巡演 捡彩带",
+      "onboard_time": 1723944858,
+      "rank": 49,
       "category": "演出"
     },
     {
@@ -603,20 +691,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116289,
-      "num": 116289,
+      "raw_hot": 119156,
+      "num": 119156,
       "word": "曹缘评价全红婵陈芋汐",
       "onboard_time": 1723941916,
       "rank": 42,
       "category": "体育,综艺"
-    },
-    {
-      "raw_hot": 113665,
-      "num": 113665,
-      "word": "电影虎狼之路改名浴火之路",
-      "onboard_time": 1723944798,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 111103,
@@ -625,14 +705,6 @@
       "onboard_time": 1723944618,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 110273,
-      "num": 110273,
-      "word": "德国水上乐园的滑梯",
-      "onboard_time": 1723944680,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 108918,
@@ -649,14 +721,6 @@
       "onboard_time": 1723944680,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 108222,
-      "num": 108222,
-      "word": "石凯巡演 捡彩带",
-      "onboard_time": 1723944858,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 106515,
@@ -681,14 +745,6 @@
       "onboard_time": 1723915275,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 79678,
-      "num": 378418,
-      "word": "33岁保安值夜班时猝死厕所",
-      "onboard_time": 1723944017,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73825,
@@ -737,14 +793,6 @@
       "onboard_time": 1723934953,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 57346,
-      "num": 460353,
-      "word": "男童遭武术教练殴打致死案后续",
-      "onboard_time": 1723944078,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 56881,
