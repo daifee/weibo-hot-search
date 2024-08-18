@@ -1,0 +1,410 @@
+{
+  "runTime": 1723979757460,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1100705,
+        "num": 1176112,
+        "word": "韩国恋综嘉宾50多岁的状态",
+        "onboard_time": 1723977859,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 866076,
+        "num": 866076,
+        "word": "本周桃花运最旺的星座",
+        "onboard_time": 1723974199,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 55371,
+        "num": 855338,
+        "word": "了不起的供应链",
+        "onboard_time": 1723969999,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 849897,
+        "num": 849897,
+        "word": "中元节",
+        "onboard_time": 1723977259,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 691577,
+        "num": 691577,
+        "word": "奶茶价格集体跳水",
+        "onboard_time": 1723947919,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 607307,
+        "num": 607307,
+        "word": "有人为买LV巧克力先买包",
+        "onboard_time": 1723975697,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541895,
+        "num": 541895,
+        "word": "店主不在城管将多筐水果扔上执法车",
+        "onboard_time": 1723973000,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509577,
+        "num": 509577,
+        "word": "时代少年团苏州",
+        "onboard_time": 1723976779,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456182,
+        "num": 456182,
+        "word": "男子离婚被驳回杀妻未遂被判6年",
+        "onboard_time": 1723975219,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356800,
+        "num": 446127,
+        "word": "库尔斯克核电站城市上空发出巨大爆炸声",
+        "onboard_time": 1723974559,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1093024,
+        "num": 445875,
+        "word": "狂飙兄弟被爆出轨",
+        "onboard_time": 1723963280,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 565682,
+        "num": 445366,
+        "word": "张百乔向小雪求婚",
+        "onboard_time": 1723966459,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 444284,
+        "num": 444284,
+        "word": "王源演唱会嘉宾是单依纯",
+        "onboard_time": 1723977318,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 418843,
+        "num": 418843,
+        "word": "童禹坤生日会",
+        "onboard_time": 1723978040,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403169,
+        "num": 403169,
+        "word": "向佐自曝与郭碧婷从未吵过架",
+        "onboard_time": 1723963639,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367873,
+        "num": 367873,
+        "word": "女子称花3万整容眼球眼角被缝一起",
+        "onboard_time": 1723967839,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343924,
+        "num": 343924,
+        "word": "杨幂超话头像",
+        "onboard_time": 1723973121,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304902,
+        "num": 304902,
+        "word": "大一新生陈芋汐",
+        "onboard_time": 1723951337,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292616,
+        "num": 292616,
+        "word": "檀健次顶胯这一下",
+        "onboard_time": 1723965319,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 271380,
+        "num": 271380,
+        "word": "邱贻可出战村超联赛",
+        "onboard_time": 1723978879,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 782852,
+        "num": 271207,
+        "word": "孕妈取快递脚被砸筋骨断裂硬缝8针",
+        "onboard_time": 1723972220,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637125,
+        "num": 269720,
+        "word": "疯狂小杨哥杭州办公总部出租",
+        "onboard_time": 1723976839,
+        "rank": 21,
+        "category": "互联网,幽默"
+      },
+      {
+        "raw_hot": 515313,
+        "num": 267817,
+        "word": "年入22亿的李佳琦还要披荆斩棘吗",
+        "onboard_time": 1723957880,
+        "rank": 22,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 346466,
+        "num": 266919,
+        "word": "江西一私人影院进行卖淫嫖娼活动",
+        "onboard_time": 1723978040,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332013,
+        "num": 265226,
+        "word": "泰国大学生被学长火烧体毛霸凌",
+        "onboard_time": 1723967419,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 282810,
+        "num": 263221,
+        "word": "一只仅有18斤的小猫碎掉了",
+        "onboard_time": 1723964659,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 263149,
+        "num": 263149,
+        "word": "郭碧婷倒是清净了 我们遭殃了",
+        "onboard_time": 1723978758,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 231296,
+        "num": 261672,
+        "word": "来自央音专业第一的血脉压制",
+        "onboard_time": 1723977739,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217527,
+        "num": 255164,
+        "word": "于正新签的女艺人",
+        "onboard_time": 1723958540,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209530,
+        "num": 248178,
+        "word": "一小坨面被师傅拉成1000多根面条",
+        "onboard_time": 1723979419,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 280403,
+        "num": 244340,
+        "word": "萨摩耶躲进洗衣机躲避挨打",
+        "onboard_time": 1723975818,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 241474,
+        "num": 241474,
+        "word": "LNG对战TES",
+        "onboard_time": 1723978758,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 232933,
+        "num": 232933,
+        "word": "樊振东说比赛落后时只会想怎么赢",
+        "onboard_time": 1723976239,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225850,
+        "num": 225850,
+        "word": "女子家的沙发被邻居混凝土浇筑了",
+        "onboard_time": 1723968380,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220274,
+        "num": 220274,
+        "word": "黑神话",
+        "onboard_time": 1723979360,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 213911,
+        "num": 213911,
+        "word": "一高老师说傻子都淘汰去三高五高了",
+        "onboard_time": 1723974500,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 205653,
+        "num": 205653,
+        "word": "许嵩说断桥残雪是6岁写的歌",
+        "onboard_time": 1723969160,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 205512,
+        "num": 205512,
+        "word": "台湾海峡海上巡航执法行动",
+        "onboard_time": 1723972340,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 201489,
+        "num": 201489,
+        "word": "身高2米31的异形演员",
+        "onboard_time": 1723953739,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183105,
+        "num": 183105,
+        "word": "西瓜价格大涨",
+        "onboard_time": 1723978999,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 172254,
+        "num": 172254,
+        "word": "郭敬明晒田嘉瑞燃霜为昼试妆照",
+        "onboard_time": 1723976658,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167560,
+        "num": 167560,
+        "word": "长期缺睡眠有哪些表现",
+        "onboard_time": 1723972580,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 167364,
+        "num": 167364,
+        "word": "异形",
+        "onboard_time": 1723955779,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163754,
+        "num": 163754,
+        "word": "德云社喊郭麒麟回家",
+        "onboard_time": 1723975818,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152727,
+        "num": 152727,
+        "word": "存款利率迈入1字头",
+        "onboard_time": 1723976178,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 152402,
+        "num": 152402,
+        "word": "医生的第六感准得阎王都服气",
+        "onboard_time": 1723967900,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151292,
+        "num": 151292,
+        "word": "阿兰德龙去世",
+        "onboard_time": 1723962859,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150677,
+        "num": 150677,
+        "word": "战至巅峰",
+        "onboard_time": 1723979480,
+        "rank": 47,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 146622,
+        "num": 146622,
+        "word": "最低成本手机支架",
+        "onboard_time": 1723979360,
+        "rank": 48,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 136053,
+        "num": 136053,
+        "word": "原神枫达杯",
+        "onboard_time": 1723979719,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#提高党的领导水平和长期执政能力#"
+    }
+  }
+}
