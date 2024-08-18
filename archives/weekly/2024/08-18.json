@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1723999179105,
+  "endTime": 1724001389857,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -2059,6 +2059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163374,
+      "num": 101857,
+      "word": "情侣同居后更容易分手吗",
+      "onboard_time": 1723999157,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163002,
       "num": 163002,
       "word": "檀健次唱了为顾昀写的歌",
@@ -2715,6 +2723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 109016,
+      "num": 101367,
+      "word": "半夜把讨厌的人全部设成了毕业删",
+      "onboard_time": 1724000055,
+      "rank": 23,
+      "category": "情感,体育"
+    },
+    {
       "raw_hot": 108918,
       "num": 108918,
       "word": "追更马王堆汉墓原始考古现场",
@@ -2777,14 +2793,6 @@
       "onboard_time": 1723996700,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 86061,
-      "num": 88924,
-      "word": "情侣同居后更容易分手吗",
-      "onboard_time": 1723999157,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 77345,
@@ -2867,6 +2875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66231,
+      "num": 66231,
+      "word": "张艺兴唱了晴天",
+      "onboard_time": 1723999577,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 62750,
       "num": 67085,
       "word": "檀健次演唱会万人合唱",
@@ -2913,6 +2929,14 @@
       "onboard_time": 1723971619,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54122,
+      "num": 65003,
+      "word": "檀健次 我们是正经的演唱会",
+      "onboard_time": 1724000234,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 50720,
@@ -3017,6 +3041,14 @@
       "onboard_time": 1723917254,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19674,
+      "num": 109978,
+      "word": "一年多未见警犬还记得民警声音",
+      "onboard_time": 1724001195,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14255,
