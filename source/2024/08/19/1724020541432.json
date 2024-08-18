@@ -1,0 +1,410 @@
+{
+  "runTime": 1724020541432,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 866339,
+        "num": 866339,
+        "word": "全红婵说两届金牌都自己拿不是很开心",
+        "onboard_time": 1724005512,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 510423,
+        "num": 510423,
+        "word": "樊振东回应退役传闻",
+        "onboard_time": 1723991360,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2243,
+        "num": 454027,
+        "word": "神十八乘组太空出差中的轻松时刻",
+        "onboard_time": 1723958300,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438506,
+        "num": 438506,
+        "word": "陈芋汐回应去读大学",
+        "onboard_time": 1723995201,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 367226,
+        "num": 367226,
+        "word": "马来西亚女子被丈夫推下悬崖",
+        "onboard_time": 1723988361,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213485,
+        "num": 213485,
+        "word": "快递公司寄丢毕业证只赔36元法院判了",
+        "onboard_time": 1723990101,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213451,
+        "num": 213451,
+        "word": "3岁女童被虐致死生母放弃民事赔偿",
+        "onboard_time": 1723992921,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164261,
+        "num": 164261,
+        "word": "男子海边救人后说要谢就谢任贤齐",
+        "onboard_time": 1724009291,
+        "rank": 7,
+        "category": "社会正能量,艺人"
+      },
+      {
+        "raw_hot": 124081,
+        "num": 124081,
+        "word": "李佳琦在自己直播间办了披哥1.5公",
+        "onboard_time": 1723992501,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99603,
+        "num": 116163,
+        "word": "孔笙肖战开机同框",
+        "onboard_time": 1723986440,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110704,
+        "num": 110704,
+        "word": "全红婵跳207C经常平摔进水里",
+        "onboard_time": 1723991360,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86738,
+        "num": 86738,
+        "word": "疯狂小杨哥杭州办公总部出租",
+        "onboard_time": 1723976839,
+        "rank": 11,
+        "category": "互联网,幽默"
+      },
+      {
+        "raw_hot": 83868,
+        "num": 83868,
+        "word": "樊振东低谷时看足球赛激励自己",
+        "onboard_time": 1723995560,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73707,
+        "num": 73707,
+        "word": "时代少年团账号直播封禁",
+        "onboard_time": 1723993162,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61116,
+        "num": 61116,
+        "word": "江西一私人影院进行卖淫嫖娼活动",
+        "onboard_time": 1723978040,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58961,
+        "num": 58961,
+        "word": "周深只字不提唱分手后遗症",
+        "onboard_time": 1723990641,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55467,
+        "num": 55467,
+        "word": "中元节",
+        "onboard_time": 1723977259,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54961,
+        "num": 54961,
+        "word": "金智秀韩剧新乌托邦",
+        "onboard_time": 1724010972,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52032,
+        "num": 52032,
+        "word": "父母同时生病了独生子女该怎么办",
+        "onboard_time": 1723982480,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51557,
+        "num": 51557,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1723990282,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158197,
+        "num": 49946,
+        "word": "这几天失眠可能跟月亮有关",
+        "onboard_time": 1724006471,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 67598,
+        "num": 49712,
+        "word": "癌细胞最怕你有这些习惯",
+        "onboard_time": 1723993223,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 47012,
+        "num": 47012,
+        "word": "三只羊回应杭州办公总部出租",
+        "onboard_time": 1724015771,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 46633,
+        "num": 46633,
+        "word": "樊振东说其实有后怕",
+        "onboard_time": 1723992622,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43758,
+        "num": 43758,
+        "word": "白宇 叔圈白菜",
+        "onboard_time": 1723986619,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43680,
+        "num": 43680,
+        "word": "郭碧婷倒是清净了 我们遭殃了",
+        "onboard_time": 1723978758,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 43239,
+        "num": 43239,
+        "word": "年入22亿的李佳琦还要披荆斩棘吗",
+        "onboard_time": 1723957880,
+        "rank": 26,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 42113,
+        "num": 42113,
+        "word": "面对面",
+        "onboard_time": 1723988539,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41139,
+        "num": 41139,
+        "word": "于正解释新艺人名字",
+        "onboard_time": 1723989200,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41128,
+        "num": 41128,
+        "word": "游泳教练谈先天健身圣体女孩",
+        "onboard_time": 1723994900,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 40288,
+        "num": 40288,
+        "word": "张大大就直播争议道歉",
+        "onboard_time": 1723989440,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39883,
+        "num": 39883,
+        "word": "情侣同居后更容易分手吗",
+        "onboard_time": 1723999157,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39497,
+        "num": 39497,
+        "word": "如何看待毛坯人生与精装朋友圈",
+        "onboard_time": 1724012711,
+        "rank": 32,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 37261,
+        "num": 37261,
+        "word": "韩国恋综嘉宾50多岁的状态",
+        "onboard_time": 1723977859,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36549,
+        "num": 36549,
+        "word": "妈妈朋友的儿子",
+        "onboard_time": 1723992322,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35379,
+        "num": 36545,
+        "word": "任敏对路人说不怕我的粉丝揍你吗",
+        "onboard_time": 1723991959,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34288,
+        "num": 36542,
+        "word": "半夜把讨厌的人全部设成了毕业删",
+        "onboard_time": 1724000055,
+        "rank": 36,
+        "category": "情感,体育"
+      },
+      {
+        "raw_hot": 34205,
+        "num": 36541,
+        "word": "樊振东面对面专访",
+        "onboard_time": 1723990218,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33924,
+        "num": 36536,
+        "word": "网商银行涉违法违规被罚735万元",
+        "onboard_time": 1723995081,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33592,
+        "num": 36533,
+        "word": "薛之谦 四巡万兽之王",
+        "onboard_time": 1723991781,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 32367,
+        "num": 36527,
+        "word": "长荣桂冠主厨称海外侨胞都不会接受",
+        "onboard_time": 1723990641,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32266,
+        "num": 36525,
+        "word": "李佳琦直播",
+        "onboard_time": 1724007851,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32051,
+        "num": 36520,
+        "word": "蔡依林演唱会",
+        "onboard_time": 1723987700,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31182,
+        "num": 36517,
+        "word": "樊振东说亚军是财富",
+        "onboard_time": 1723993522,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30934,
+        "num": 36510,
+        "word": "全红婵说要确保金牌是中国的",
+        "onboard_time": 1723994002,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30906,
+        "num": 36508,
+        "word": "种地吧",
+        "onboard_time": 1723996700,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30817,
+        "num": 36502,
+        "word": "你一般每天睡多长时间",
+        "onboard_time": 1723997720,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 30673,
+        "num": 36501,
+        "word": "审计曝医院招标量身定制涉1.22亿",
+        "onboard_time": 1724003112,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30404,
+        "num": 36494,
+        "word": "大张伟刘宇宁毛不易合唱花心",
+        "onboard_time": 1724019071,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28310,
+        "num": 36491,
+        "word": "狂飙兄弟被爆出轨",
+        "onboard_time": 1723963280,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻文化根魂#"
+    }
+  }
+}
