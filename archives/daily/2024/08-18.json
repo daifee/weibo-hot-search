@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1723962410633,
+  "endTime": 1723963187528,
   "band_list": [
     {
       "raw_hot": 3310174,
@@ -43,20 +43,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1938691,
+      "num": 1938691,
+      "word": "年入22亿的李佳琦还要披荆斩棘吗",
+      "onboard_time": 1723957880,
+      "rank": 22,
+      "category": "社会新闻,综艺"
+    },
+    {
       "raw_hot": 1886676,
       "num": 1886676,
       "word": "整容医生说亚洲脸安什么欧洲眼",
       "onboard_time": 1723941979,
       "rank": 0,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 1644316,
-      "num": 1644316,
-      "word": "年入22亿的李佳琦还要披荆斩棘吗",
-      "onboard_time": 1723957880,
-      "rank": 22,
-      "category": "社会新闻,综艺"
     },
     {
       "raw_hot": 1577628,
@@ -161,6 +161,14 @@
       "onboard_time": 1723942938,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 983779,
+      "num": 983779,
+      "word": "戚薇问李承铉准备在战至巅峰离婚吗",
+      "onboard_time": 1723961479,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 979629,
@@ -313,14 +321,6 @@
       "onboard_time": 1723908742,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 544038,
-      "num": 544038,
-      "word": "戚薇问李承铉准备在战至巅峰离婚吗",
-      "onboard_time": 1723961479,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 532278,
@@ -651,11 +651,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 287391,
+      "num": 287391,
+      "word": "阿兰德龙去世",
+      "onboard_time": 1723962859,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 280164,
       "num": 280164,
       "word": "爸爸随手扔4粒种子家被南瓜占领",
       "onboard_time": 1723957640,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275915,
+      "num": 275915,
+      "word": "长荣桂冠酒店曝光者发声",
+      "onboard_time": 1723961658,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -673,6 +689,14 @@
       "onboard_time": 1723956859,
       "rank": 30,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 266079,
+      "num": 266079,
+      "word": "聊缩力",
+      "onboard_time": 1723961359,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 265150,
@@ -835,28 +859,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 212458,
-      "num": 212458,
-      "word": "聊缩力",
-      "onboard_time": 1723961359,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 212286,
       "num": 222888,
       "word": "苏林抵达广州开启访华行程",
       "onboard_time": 1723946418,
       "rank": 31,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 211837,
-      "num": 211837,
-      "word": "长荣桂冠酒店曝光者发声",
-      "onboard_time": 1723961658,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209108,
@@ -891,12 +899,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205072,
+      "num": 205072,
+      "word": "时代少年团战至巅峰下周预告",
+      "onboard_time": 1723962978,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204645,
       "num": 204645,
       "word": "全糖奶茶有一半是00后点的",
       "onboard_time": 1723952297,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 204102,
+      "num": 204102,
+      "word": "谁能把法海的电饭煲内胆扔了",
+      "onboard_time": 1723962498,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 202384,
@@ -931,6 +955,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197855,
+      "num": 197855,
+      "word": "加沙小孩走在路上身后大楼突然被炸",
+      "onboard_time": 1723960580,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 197200,
       "num": 265793,
       "word": "倪夏莲阿姨你为何如此快乐",
@@ -945,14 +977,6 @@
       "onboard_time": 1723900823,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194236,
-      "num": 194236,
-      "word": "加沙小孩走在路上身后大楼突然被炸",
-      "onboard_time": 1723960580,
-      "rank": 33,
-      "category": "国外时政"
     },
     {
       "raw_hot": 194032,
@@ -971,12 +995,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193700,
+      "num": 193700,
+      "word": "14岁男孩骑摩托飞驰送2娃赶兴趣班",
+      "onboard_time": 1723959834,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192965,
       "num": 192965,
       "word": "16岁的大猫凌晨去世了",
       "onboard_time": 1723947798,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 192689,
+      "num": 192689,
+      "word": "陈芋汐到同济大学报到",
+      "onboard_time": 1723960098,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 191378,
@@ -995,12 +1035,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 186478,
-      "num": 186478,
-      "word": "陈芋汐到同济大学报到",
-      "onboard_time": 1723960098,
-      "rank": 35,
-      "category": "体育"
+      "raw_hot": 187626,
+      "num": 193786,
+      "word": "只给侯明昊一个人恋综本吗",
+      "onboard_time": 1723962978,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 186280,
@@ -1027,20 +1067,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181773,
+      "num": 372621,
+      "word": "高端水果降价潮来了",
+      "onboard_time": 1723960818,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181681,
+      "num": 220408,
+      "word": "香港顶流男团歌曲惊现内地音综",
+      "onboard_time": 1723961179,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 177221,
+      "num": 177221,
+      "word": "王鹤棣 我没偷吃",
+      "onboard_time": 1723962619,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172570,
       "num": 172570,
       "word": "UFC",
       "onboard_time": 1723948699,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 169621,
-      "num": 169621,
-      "word": "14岁男孩骑摩托飞驰送2娃赶兴趣班",
-      "onboard_time": 1723959834,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166370,
@@ -1083,14 +1139,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 162157,
-      "num": 212531,
-      "word": "香港顶流男团歌曲惊现内地音综",
-      "onboard_time": 1723961179,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 162078,
       "num": 162078,
       "word": "86年宝妈练瑜伽一年的变化",
@@ -1115,8 +1163,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 161331,
-      "num": 161331,
+      "raw_hot": 161819,
+      "num": 161819,
       "word": "想知道哪个男主能接住这群人飙戏",
       "onboard_time": 1723961958,
       "rank": 41,
@@ -1227,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147295,
+      "num": 147295,
+      "word": "檀健次 内娱高质量唱跳舞台",
+      "onboard_time": 1723960158,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 146538,
       "num": 146538,
       "word": "异形 科幻恐怖",
@@ -1243,12 +1299,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 143247,
-      "num": 143247,
-      "word": "檀健次 内娱高质量唱跳舞台",
-      "onboard_time": 1723960158,
-      "rank": 44,
-      "category": "演出"
+      "raw_hot": 143387,
+      "num": 143387,
+      "word": "文旅局回应女子抱孩子进兵马俑坑",
+      "onboard_time": 1723962438,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142509,
@@ -1427,12 +1483,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 92224,
-      "num": 372621,
-      "word": "高端水果降价潮来了",
-      "onboard_time": 1723960818,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 89828,
+      "num": 193731,
+      "word": "佟丽娅说妈妈就是超人",
+      "onboard_time": 1723963098,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 86924,
@@ -1564,7 +1620,7 @@
     },
     {
       "raw_hot": 25064,
-      "num": 926060,
+      "num": 1072798,
       "word": "万亩梯田尽染金黄丰景入画来",
       "onboard_time": 1723948038,
       "rank": 2,
