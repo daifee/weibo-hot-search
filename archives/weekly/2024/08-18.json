@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1723988076654,
+  "endTime": 1723990699204,
   "band_list": [
     {
       "raw_hot": 3310174,
@@ -67,6 +67,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 1720310,
+      "num": 1720310,
+      "word": "父母同时生病了独生子女该怎么办",
+      "onboard_time": 1723982480,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1577628,
       "num": 1577628,
       "word": "不直播的李佳琦们都去哪里捞金了",
@@ -113,14 +121,6 @@
       "onboard_time": 1723953739,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1362195,
-      "num": 1362195,
-      "word": "父母同时生病了独生子女该怎么办",
-      "onboard_time": 1723982480,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1334400,
@@ -243,6 +243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1010413,
+      "num": 1010413,
+      "word": "孔笙肖战开机同框",
+      "onboard_time": 1723986440,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 983779,
       "num": 983779,
       "word": "戚薇问李承铉准备在战至巅峰离婚吗",
@@ -257,6 +265,14 @@
       "onboard_time": 1723958540,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 963240,
+      "num": 963240,
+      "word": "薛之谦演唱会",
+      "onboard_time": 1723990282,
+      "rank": 4,
+      "category": "演出"
     },
     {
       "raw_hot": 958776,
@@ -347,14 +363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 829872,
-      "num": 829872,
-      "word": "孔笙肖战开机同框",
-      "onboard_time": 1723986440,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 818993,
       "num": 762652,
       "word": "狂飙兄弟回应曾做男模",
@@ -424,6 +432,14 @@
       "word": "有人为买LV巧克力先买包",
       "onboard_time": 1723975697,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 706369,
+      "num": 706369,
+      "word": "2024首个超级月亮",
+      "onboard_time": 1723988480,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -539,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 547345,
+      "num": 547345,
+      "word": "马来西亚女子被丈夫推下悬崖",
+      "onboard_time": 1723988361,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 541895,
       "num": 541895,
       "word": "店主不在城管将多筐水果扔上执法车",
@@ -635,6 +659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 472536,
+      "num": 472536,
+      "word": "张雨霏和家人打牌被贴纸条",
+      "onboard_time": 1723984220,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 469941,
       "num": 469941,
       "word": "檀健次演唱会",
@@ -657,6 +689,14 @@
       "onboard_time": 1723918454,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 463101,
+      "num": 463101,
+      "word": "蔡依林演唱会",
+      "onboard_time": 1723987700,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 461796,
@@ -737,6 +777,14 @@
       "onboard_time": 1723950078,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 409607,
+      "num": 409607,
+      "word": "白宇 叔圈白菜",
+      "onboard_time": 1723986619,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 406543,
@@ -833,6 +881,14 @@
       "onboard_time": 1723955779,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 362168,
+      "num": 281854,
+      "word": "面对面",
+      "onboard_time": 1723988539,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 355110,
@@ -1043,28 +1099,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 287001,
-      "num": 287001,
-      "word": "白宇 叔圈白菜",
-      "onboard_time": 1723986619,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 285414,
       "num": 285414,
       "word": "女子黄山遇见挑山工就发100元",
       "onboard_time": 1723966700,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284504,
-      "num": 284504,
-      "word": "张雨霏和家人打牌被贴纸条",
-      "onboard_time": 1723984220,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 280403,
@@ -1081,6 +1121,22 @@
       "onboard_time": 1723957640,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277732,
+      "num": 277732,
+      "word": "原来醋和味精不能一起放",
+      "onboard_time": 1723987820,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 274199,
+      "num": 274199,
+      "word": "樊振东面对面专访",
+      "onboard_time": 1723990218,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 273528,
@@ -1163,6 +1219,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 256271,
+      "num": 256271,
+      "word": "于正解释新艺人名字",
+      "onboard_time": 1723989200,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254886,
       "num": 254886,
       "word": "张若昀帅 粉丝坏",
@@ -1201,6 +1265,14 @@
       "onboard_time": 1723972580,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 246596,
+      "num": 246596,
+      "word": "快递公司寄丢毕业证只赔36元法院判了",
+      "onboard_time": 1723990101,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243838,
@@ -1419,6 +1491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207797,
+      "num": 207797,
+      "word": "张大大就直播争议道歉",
+      "onboard_time": 1723989440,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207287,
       "num": 207287,
       "word": "杭州一小区流浪猫身中10箭死亡",
@@ -1465,14 +1545,6 @@
       "onboard_time": 1723960818,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203924,
-      "num": 203924,
-      "word": "蔡依林演唱会",
-      "onboard_time": 1723987700,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 203568,
@@ -1537,6 +1609,14 @@
       "onboard_time": 1723953379,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195883,
+      "num": 195883,
+      "word": "长荣桂冠主厨称海外侨胞都不会接受",
+      "onboard_time": 1723990641,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194951,
@@ -1659,6 +1739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180327,
+      "num": 180327,
+      "word": "中元节习俗",
+      "onboard_time": 1723989981,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179680,
       "num": 179680,
       "word": "米卡 中文的肌肉记忆",
@@ -1667,12 +1755,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 178520,
+      "num": 178520,
+      "word": "TT秋季赛周冠军",
+      "onboard_time": 1723990520,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 172570,
       "num": 172570,
       "word": "UFC",
       "onboard_time": 1723948699,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171002,
+      "num": 171002,
+      "word": "得闲谨制",
+      "onboard_time": 1723989020,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 169655,
+      "num": 169655,
+      "word": "北欧女高中生的周末",
+      "onboard_time": 1723988179,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 169457,
@@ -1979,20 +2091,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149667,
-      "num": 149667,
-      "word": "原来醋和味精不能一起放",
-      "onboard_time": 1723987820,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 148986,
       "num": 148986,
       "word": "陈飞宇杀青直播做上饭了",
       "onboard_time": 1723983381,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147933,
+      "num": 147933,
+      "word": "DRG对战AG",
+      "onboard_time": 1723988361,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 147780,
@@ -2033,6 +2145,14 @@
       "onboard_time": 1723977559,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 144696,
+      "num": 144696,
+      "word": "周深只字不提唱分手后遗症",
+      "onboard_time": 1723990641,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 144194,
@@ -2129,6 +2249,14 @@
       "onboard_time": 1723985479,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 139315,
+      "num": 139315,
+      "word": "全红婵说只是冠军而已",
+      "onboard_time": 1723990400,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 139119,
@@ -2403,6 +2531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76924,
+      "num": 609137,
+      "word": "女子高速上没油竟当起人肉警示牌",
+      "onboard_time": 1723989620,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75692,
       "num": 525120,
       "word": "律师解读41名事业单位人员被清退",
@@ -2467,20 +2603,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66630,
+      "num": 1066264,
+      "word": "第2次青藏科考重要成果集中发布",
+      "onboard_time": 1723985660,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62750,
       "num": 67085,
       "word": "檀健次演唱会万人合唱",
       "onboard_time": 1723917854,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 62250,
-      "num": 1066264,
-      "word": "第2次青藏科考重要成果集中发布",
-      "onboard_time": 1723985660,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61016,

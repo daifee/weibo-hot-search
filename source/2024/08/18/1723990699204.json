@@ -1,0 +1,410 @@
+{
+  "runTime": 1723990699204,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1720310,
+        "num": 1720310,
+        "word": "父母同时生病了独生子女该怎么办",
+        "onboard_time": 1723982480,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1010413,
+        "num": 1010413,
+        "word": "孔笙肖战开机同框",
+        "onboard_time": 1723986440,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 66630,
+        "num": 991605,
+        "word": "第2次青藏科考重要成果集中发布",
+        "onboard_time": 1723985660,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 988597,
+        "num": 988597,
+        "word": "中元节",
+        "onboard_time": 1723977259,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 963240,
+        "num": 963240,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1723990282,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 789923,
+        "num": 789923,
+        "word": "江西一私人影院进行卖淫嫖娼活动",
+        "onboard_time": 1723978040,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 706369,
+        "num": 706369,
+        "word": "2024首个超级月亮",
+        "onboard_time": 1723988480,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625139,
+        "num": 625139,
+        "word": "疯狂小杨哥杭州办公总部出租",
+        "onboard_time": 1723976839,
+        "rank": 7,
+        "category": "互联网,幽默"
+      },
+      {
+        "raw_hot": 614060,
+        "num": 614060,
+        "word": "郭碧婷倒是清净了 我们遭殃了",
+        "onboard_time": 1723978758,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 76924,
+        "num": 609137,
+        "word": "女子高速上没油竟当起人肉警示牌",
+        "onboard_time": 1723989620,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606266,
+        "num": 606266,
+        "word": "徐嘉余谈退役",
+        "onboard_time": 1723984279,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 547345,
+        "num": 547345,
+        "word": "马来西亚女子被丈夫推下悬崖",
+        "onboard_time": 1723988361,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524858,
+        "num": 524858,
+        "word": "异形 降智",
+        "onboard_time": 1723982179,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 498367,
+        "num": 498367,
+        "word": "韩国恋综嘉宾50多岁的状态",
+        "onboard_time": 1723977859,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 472536,
+        "num": 472536,
+        "word": "张雨霏和家人打牌被贴纸条",
+        "onboard_time": 1723984220,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 463101,
+        "num": 463101,
+        "word": "蔡依林演唱会",
+        "onboard_time": 1723987700,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 452630,
+        "num": 452630,
+        "word": "王源演唱会嘉宾是单依纯",
+        "onboard_time": 1723977318,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 411912,
+        "num": 411912,
+        "word": "男子离婚被驳回杀妻未遂被判6年",
+        "onboard_time": 1723975219,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409607,
+        "num": 409607,
+        "word": "白宇 叔圈白菜",
+        "onboard_time": 1723986619,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346519,
+        "num": 346519,
+        "word": "奶茶价格集体跳水",
+        "onboard_time": 1723947919,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 382760,
+        "num": 333992,
+        "word": "年入22亿的李佳琦还要披荆斩棘吗",
+        "onboard_time": 1723957880,
+        "rank": 20,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 374616,
+        "num": 318345,
+        "word": "有人为买LV巧克力先买包",
+        "onboard_time": 1723975697,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363285,
+        "num": 303419,
+        "word": "狂飙兄弟被爆出轨",
+        "onboard_time": 1723963280,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 362168,
+        "num": 281854,
+        "word": "面对面",
+        "onboard_time": 1723988539,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277732,
+        "num": 277732,
+        "word": "原来醋和味精不能一起放",
+        "onboard_time": 1723987820,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274199,
+        "num": 274199,
+        "word": "樊振东面对面专访",
+        "onboard_time": 1723990218,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256271,
+        "num": 256271,
+        "word": "于正解释新艺人名字",
+        "onboard_time": 1723989200,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246596,
+        "num": 246596,
+        "word": "快递公司寄丢毕业证只赔36元法院判了",
+        "onboard_time": 1723990101,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225131,
+        "num": 225131,
+        "word": "张百乔向小雪求婚",
+        "onboard_time": 1723966459,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 222118,
+        "num": 222118,
+        "word": "苏州打飞的30分钟到浦东机场",
+        "onboard_time": 1723979180,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207797,
+        "num": 207797,
+        "word": "张大大就直播争议道歉",
+        "onboard_time": 1723989440,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197380,
+        "num": 197380,
+        "word": "大一新生陈芋汐",
+        "onboard_time": 1723951337,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195883,
+        "num": 195883,
+        "word": "长荣桂冠主厨称海外侨胞都不会接受",
+        "onboard_time": 1723990641,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184938,
+        "num": 184938,
+        "word": "孕妈取快递脚被砸筋骨断裂硬缝8针",
+        "onboard_time": 1723972220,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180327,
+        "num": 180327,
+        "word": "中元节习俗",
+        "onboard_time": 1723989981,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178520,
+        "num": 178520,
+        "word": "TT秋季赛周冠军",
+        "onboard_time": 1723990520,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 174415,
+        "num": 174415,
+        "word": "女子称花3万整容眼球眼角被缝一起",
+        "onboard_time": 1723967839,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172687,
+        "num": 172687,
+        "word": "檀健次顶胯这一下",
+        "onboard_time": 1723965319,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171686,
+        "num": 171686,
+        "word": "杨幂超话头像",
+        "onboard_time": 1723973121,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171002,
+        "num": 171002,
+        "word": "得闲谨制",
+        "onboard_time": 1723989020,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169655,
+        "num": 169655,
+        "word": "北欧女高中生的周末",
+        "onboard_time": 1723988179,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150613,
+        "num": 150613,
+        "word": "by2又来贡献双人写真模版了",
+        "onboard_time": 1723980919,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150439,
+        "num": 150439,
+        "word": "黑神话",
+        "onboard_time": 1723979360,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147933,
+        "num": 147933,
+        "word": "DRG对战AG",
+        "onboard_time": 1723988361,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144696,
+        "num": 144696,
+        "word": "周深只字不提唱分手后遗症",
+        "onboard_time": 1723990641,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142519,
+        "num": 142519,
+        "word": "看完不敢玩漂流这项运动了",
+        "onboard_time": 1723982179,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 142388,
+        "num": 142388,
+        "word": "王楚然手绘蛐蛐友友图",
+        "onboard_time": 1723987399,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139991,
+        "num": 139991,
+        "word": "邱贻可出战村超联赛",
+        "onboard_time": 1723978879,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139855,
+        "num": 139855,
+        "word": "长期缺睡眠有哪些表现",
+        "onboard_time": 1723972580,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139315,
+        "num": 139315,
+        "word": "全红婵说只是冠军而已",
+        "onboard_time": 1723990400,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻文化根魂#"
+    }
+  }
+}
