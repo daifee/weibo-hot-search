@@ -1,0 +1,410 @@
+{
+  "runTime": 1723976427422,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 833158,
+        "num": 1133305,
+        "word": "奶茶价格集体跳水",
+        "onboard_time": 1723947919,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 496742,
+        "num": 496742,
+        "word": "向佐自曝与郭碧婷从未吵过架",
+        "onboard_time": 1723963639,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18768,
+        "num": 462216,
+        "word": "了不起的供应链",
+        "onboard_time": 1723969999,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453661,
+        "num": 453661,
+        "word": "杨幂超话头像",
+        "onboard_time": 1723973121,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399871,
+        "num": 399871,
+        "word": "女子家的沙发被邻居混凝土浇筑了",
+        "onboard_time": 1723968380,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371835,
+        "num": 371835,
+        "word": "世界乒联发马龙的庆祝动作",
+        "onboard_time": 1723964481,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 312304,
+        "num": 312304,
+        "word": "大一新生陈芋汐",
+        "onboard_time": 1723951337,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303515,
+        "num": 303515,
+        "word": "台湾海峡海上巡航执法行动",
+        "onboard_time": 1723972340,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 264760,
+        "num": 264760,
+        "word": "于正新签的女艺人",
+        "onboard_time": 1723958540,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167561,
+        "num": 263271,
+        "word": "网购50多天后成功退货卖家称受伤",
+        "onboard_time": 1723974858,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1311282,
+        "num": 260544,
+        "word": "狂飙兄弟被爆出轨",
+        "onboard_time": 1723963280,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 895569,
+        "num": 257659,
+        "word": "奥运冠军回国后都去干嘛了",
+        "onboard_time": 1723969760,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 774486,
+        "num": 255217,
+        "word": "本周桃花运最旺的星座",
+        "onboard_time": 1723974199,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 700853,
+        "num": 249782,
+        "word": "张百乔向小雪求婚",
+        "onboard_time": 1723966459,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 97715,
+        "num": 247506,
+        "word": "男子离婚被驳回杀妻未遂被判6年",
+        "onboard_time": 1723975219,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386433,
+        "num": 243211,
+        "word": "女子称花3万整容眼球眼角被缝一起",
+        "onboard_time": 1723967839,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372086,
+        "num": 241884,
+        "word": "檀健次顶胯这一下",
+        "onboard_time": 1723965319,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 239586,
+        "num": 239586,
+        "word": "身高2米31的异形演员",
+        "onboard_time": 1723953739,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 236873,
+        "num": 236873,
+        "word": "店主不在城管将多筐水果扔上执法车",
+        "onboard_time": 1723973000,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204517,
+        "num": 236072,
+        "word": "阿兰德龙去世",
+        "onboard_time": 1723962859,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1263034,
+        "num": 233271,
+        "word": "孕妈取快递脚被砸筋骨断裂硬缝8针",
+        "onboard_time": 1723972220,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 736284,
+        "num": 230048,
+        "word": "泰国大学生被学长火烧体毛霸凌",
+        "onboard_time": 1723967419,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 548510,
+        "num": 228085,
+        "word": "年入22亿的李佳琦还要披荆斩棘吗",
+        "onboard_time": 1723957880,
+        "rank": 22,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 344358,
+        "num": 225094,
+        "word": "一只仅有18斤的小猫碎掉了",
+        "onboard_time": 1723964659,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 291888,
+        "num": 221409,
+        "word": "许嵩说断桥残雪是6岁写的歌",
+        "onboard_time": 1723969160,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 247807,
+        "num": 219864,
+        "word": "长期缺睡眠有哪些表现",
+        "onboard_time": 1723972580,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 217570,
+        "num": 217570,
+        "word": "有人为买LV巧克力先买包",
+        "onboard_time": 1723975697,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203752,
+        "num": 203752,
+        "word": "异形",
+        "onboard_time": 1723955779,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183661,
+        "num": 192262,
+        "word": "德云社喊郭麒麟回家",
+        "onboard_time": 1723975818,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166686,
+        "num": 189400,
+        "word": "赵露思 密云拍戏",
+        "onboard_time": 1723968019,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216645,
+        "num": 188876,
+        "word": "医生的第六感准得阎王都服气",
+        "onboard_time": 1723967900,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188351,
+        "num": 188351,
+        "word": "张学良将军之子张闾琳逝世",
+        "onboard_time": 1723960039,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171103,
+        "num": 171103,
+        "word": "两弹一星功勋奖章获得者周光召逝世",
+        "onboard_time": 1723959440,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161716,
+        "num": 161716,
+        "word": "一杯奶茶咖啡因抵3杯美式",
+        "onboard_time": 1723967900,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 154240,
+        "num": 154240,
+        "word": "老友记主演被相识25年助理陷害身亡",
+        "onboard_time": 1723967539,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151466,
+        "num": 151466,
+        "word": "萨摩耶躲进洗衣机躲避挨打",
+        "onboard_time": 1723975818,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150777,
+        "num": 150777,
+        "word": "存款利率迈入1字头",
+        "onboard_time": 1723976178,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 138450,
+        "num": 138450,
+        "word": "女子黄山遇见挑山工就发100元",
+        "onboard_time": 1723966700,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138026,
+        "num": 138026,
+        "word": "一高老师说傻子都淘汰去三高五高了",
+        "onboard_time": 1723974500,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136899,
+        "num": 136899,
+        "word": "特朗普频频自夸比哈里斯长得好看",
+        "onboard_time": 1723973898,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 325870,
+        "num": 136710,
+        "word": "李佩霞",
+        "onboard_time": 1723973840,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134400,
+        "num": 134400,
+        "word": "库尔斯克核电站城市上空发出巨大爆炸声",
+        "onboard_time": 1723974559,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 126344,
+        "num": 126344,
+        "word": "金晨黄色连衣裙",
+        "onboard_time": 1723976059,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 125314,
+        "num": 125314,
+        "word": "文旅局回应女子抱孩子进兵马俑坑",
+        "onboard_time": 1723962438,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121641,
+        "num": 121641,
+        "word": "米卡 中文的肌肉记忆",
+        "onboard_time": 1723976119,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118056,
+        "num": 118056,
+        "word": "王玉雯叫檀健次giegie",
+        "onboard_time": 1723973840,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117915,
+        "num": 117915,
+        "word": "狂飙兄弟回应曾做男模",
+        "onboard_time": 1723963578,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 117294,
+        "num": 117294,
+        "word": "樊振东说比赛落后时只会想怎么赢",
+        "onboard_time": 1723976239,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116636,
+        "num": 116636,
+        "word": "同济大学学生谈陈芋汐",
+        "onboard_time": 1723968919,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114916,
+        "num": 114916,
+        "word": "原来人害怕的时候头发真的会竖起来",
+        "onboard_time": 1723972220,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#守护好文化瑰宝和自然珍宝#"
+    }
+  }
+}
