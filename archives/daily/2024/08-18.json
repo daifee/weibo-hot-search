@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1723959357678,
+  "endTime": 1723962410633,
   "band_list": [
     {
       "raw_hot": 3310174,
@@ -49,6 +49,14 @@
       "onboard_time": 1723941979,
       "rank": 0,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 1644316,
+      "num": 1644316,
+      "word": "年入22亿的李佳琦还要披荆斩棘吗",
+      "onboard_time": 1723957880,
+      "rank": 22,
+      "category": "社会新闻,综艺"
     },
     {
       "raw_hot": 1577628,
@@ -155,12 +163,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1010262,
-      "num": 1010262,
-      "word": "年入22亿的李佳琦还要披荆斩棘吗",
-      "onboard_time": 1723957880,
-      "rank": 22,
-      "category": "社会新闻,综艺"
+      "raw_hot": 979629,
+      "num": 979629,
+      "word": "于正新签的女艺人",
+      "onboard_time": 1723958540,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 958776,
+      "num": 958776,
+      "word": "张学良将军之子张闾琳逝世",
+      "onboard_time": 1723960039,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 944919,
+      "num": 445177,
+      "word": "客服回应旺旺碎冰冰疑有粪便",
+      "onboard_time": 1723957518,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 896647,
@@ -177,6 +201,14 @@
       "onboard_time": 1723907242,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 837014,
+      "num": 837014,
+      "word": "理解林志玲 好奇郭碧婷",
+      "onboard_time": 1723959199,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 772968,
@@ -225,14 +257,6 @@
       "onboard_time": 1723907002,
       "rank": 20,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 620841,
-      "num": 682650,
-      "word": "于正新签的女艺人",
-      "onboard_time": 1723958540,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 608794,
@@ -291,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 544038,
+      "num": 544038,
+      "word": "戚薇问李承铉准备在战至巅峰离婚吗",
+      "onboard_time": 1723961479,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 532278,
       "num": 576271,
       "word": "奶茶重回10元以下",
@@ -321,6 +353,14 @@
       "onboard_time": 1723952598,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 473937,
+      "num": 358497,
+      "word": "WiFi和WLAN究竟有啥区别",
+      "onboard_time": 1723956259,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 469941,
@@ -361,14 +401,6 @@
       "onboard_time": 1723947858,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 445177,
-      "num": 445177,
-      "word": "客服回应旺旺碎冰冰疑有粪便",
-      "onboard_time": 1723957518,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 438776,
@@ -443,6 +475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 375623,
+      "num": 375623,
+      "word": "两弹一星功勋奖章获得者周光召逝世",
+      "onboard_time": 1723959440,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 367687,
       "num": 438419,
       "word": "朱一龙粉丝跑张大大直播间控诉片方",
@@ -457,14 +497,6 @@
       "onboard_time": 1723953078,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 365630,
-      "num": 358497,
-      "word": "WiFi和WLAN究竟有啥区别",
-      "onboard_time": 1723956259,
-      "rank": 21,
-      "category": "互联网"
     },
     {
       "raw_hot": 362416,
@@ -547,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 307015,
+      "num": 359635,
+      "word": "谁家音综请了100位音乐人打call啊",
+      "onboard_time": 1723957219,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306878,
       "num": 306878,
       "word": "小米高管就直播炸麦致歉",
@@ -609,14 +649,6 @@
       "onboard_time": 1723903103,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 288213,
-      "num": 359635,
-      "word": "谁家音综请了100位音乐人打call啊",
-      "onboard_time": 1723957219,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 280164,
@@ -771,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216109,
+      "num": 729155,
+      "word": "西安一物业撬门占用业主空置别墅",
+      "onboard_time": 1723957219,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214360,
       "num": 214360,
       "word": "林俊杰李荣浩合唱曹操",
@@ -795,12 +835,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 212458,
+      "num": 212458,
+      "word": "聊缩力",
+      "onboard_time": 1723961359,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 212286,
       "num": 222888,
       "word": "苏林抵达广州开启访华行程",
       "onboard_time": 1723946418,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 211837,
+      "num": 211837,
+      "word": "长荣桂冠酒店曝光者发声",
+      "onboard_time": 1723961658,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209108,
@@ -817,6 +873,14 @@
       "onboard_time": 1723955119,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208601,
+      "num": 213910,
+      "word": "win再否认与邝玲玲恋情",
+      "onboard_time": 1723959499,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 207287,
@@ -875,20 +939,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195588,
-      "num": 729155,
-      "word": "西安一物业撬门占用业主空置别墅",
-      "onboard_time": 1723957219,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194924,
       "num": 194924,
       "word": "付航 喜剧之王",
       "onboard_time": 1723900823,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194236,
+      "num": 194236,
+      "word": "加沙小孩走在路上身后大楼突然被炸",
+      "onboard_time": 1723960580,
+      "rank": 33,
+      "category": "国外时政"
     },
     {
       "raw_hot": 194032,
@@ -931,20 +995,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 186478,
+      "num": 186478,
+      "word": "陈芋汐到同济大学报到",
+      "onboard_time": 1723960098,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186280,
       "num": 186280,
       "word": "汪顺 猪大肠等我",
       "onboard_time": 1723951938,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 185211,
-      "num": 185211,
-      "word": "理解林志玲 好奇郭碧婷",
-      "onboard_time": 1723959199,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 184342,
@@ -969,6 +1033,14 @@
       "onboard_time": 1723948699,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169621,
+      "num": 169621,
+      "word": "14岁男孩骑摩托飞驰送2娃赶兴趣班",
+      "onboard_time": 1723959834,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166370,
@@ -1011,6 +1083,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 162157,
+      "num": 212531,
+      "word": "香港顶流男团歌曲惊现内地音综",
+      "onboard_time": 1723961179,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162078,
       "num": 162078,
       "word": "86年宝妈练瑜伽一年的变化",
@@ -1033,6 +1113,14 @@
       "onboard_time": 1723958300,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 161331,
+      "num": 161331,
+      "word": "想知道哪个男主能接住这群人飙戏",
+      "onboard_time": 1723961958,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 161059,
@@ -1131,6 +1219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147780,
+      "num": 187906,
+      "word": "周深急了连自己都怼",
+      "onboard_time": 1723961059,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146538,
       "num": 146538,
       "word": "异形 科幻恐怖",
@@ -1143,6 +1239,14 @@
       "num": 144194,
       "word": "严浩翔贺峻霖耻辱柱舞台特别定制造型",
       "onboard_time": 1723952058,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 143247,
+      "num": 143247,
+      "word": "檀健次 内娱高质量唱跳舞台",
+      "onboard_time": 1723960158,
       "rank": 44,
       "category": "演出"
     },
@@ -1184,6 +1288,14 @@
       "word": "神童上岸的反常公职招录必须查问明白",
       "onboard_time": 1723950019,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138955,
+      "num": 138955,
+      "word": "上海暴雨",
+      "onboard_time": 1723960580,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1315,6 +1427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 92224,
+      "num": 372621,
+      "word": "高端水果降价潮来了",
+      "onboard_time": 1723960818,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86924,
       "num": 101754,
       "word": "檀健次cos小蜜蜂",
@@ -1393,6 +1513,14 @@
       "onboard_time": 1723903884,
       "rank": 21,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 44552,
+      "num": 744519,
+      "word": "汝州遭清退人员讲述招聘经过",
+      "onboard_time": 1723960879,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41268,
