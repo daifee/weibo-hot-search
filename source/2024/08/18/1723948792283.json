@@ -1,0 +1,410 @@
+{
+  "runTime": 1723948792283,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1509063,
+        "num": 1509063,
+        "word": "整容医生说亚洲脸安什么欧洲眼",
+        "onboard_time": 1723941979,
+        "rank": 0,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1140882,
+        "num": 1140882,
+        "word": "33岁保安值夜班时猝死厕所",
+        "onboard_time": 1723944017,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25064,
+        "num": 926060,
+        "word": "万亩梯田尽染金黄丰景入画来",
+        "onboard_time": 1723948038,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 908504,
+        "num": 908504,
+        "word": "突然就不害怕中元节了",
+        "onboard_time": 1723941076,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 805786,
+        "num": 805786,
+        "word": "异形吓坏8岁小孩家长投诉影城",
+        "onboard_time": 1723907242,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 741212,
+        "num": 741212,
+        "word": "台一幼师性侵多名女童被判28年监禁",
+        "onboard_time": 1723947258,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677017,
+        "num": 677017,
+        "word": "159个国家将采用金砖国家新支付系统",
+        "onboard_time": 1723938917,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 654863,
+        "num": 654863,
+        "word": "王楚钦收到奥沙利文的祝福",
+        "onboard_time": 1723942938,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 508059,
+        "num": 508059,
+        "word": "顾漫骄阳似我",
+        "onboard_time": 1723940775,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150250,
+        "num": 444643,
+        "word": "刘光耀发长文对前妻提出九大质疑",
+        "onboard_time": 1723945880,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1343380,
+        "num": 442502,
+        "word": "女子看到一女童跟闺女撞脸很崩溃",
+        "onboard_time": 1723945040,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550900,
+        "num": 441082,
+        "word": "女子参观兵马俑抱孩子走进俑坑",
+        "onboard_time": 1723937414,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438776,
+        "num": 438776,
+        "word": "作者爱不爱自己笔下的角色很明显",
+        "onboard_time": 1723941677,
+        "rank": 12,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 350541,
+        "num": 350541,
+        "word": "男童遭武术教练殴打致死案后续",
+        "onboard_time": 1723944078,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333047,
+        "num": 333047,
+        "word": "李景亮vs普拉特斯",
+        "onboard_time": 1723946898,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305129,
+        "num": 305129,
+        "word": "奶茶价格集体跳水",
+        "onboard_time": 1723947919,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 303840,
+        "num": 303840,
+        "word": "严浩翔麦没关",
+        "onboard_time": 1723902200,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 294770,
+        "num": 294770,
+        "word": "朱一龙粉丝跑张大大直播间控诉片方",
+        "onboard_time": 1723939335,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 277117,
+        "num": 277117,
+        "word": "金智媛澳门",
+        "onboard_time": 1723940477,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264214,
+        "num": 264214,
+        "word": "柳舟记 父母偏心可偏偏女儿最争气",
+        "onboard_time": 1723945158,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316036,
+        "num": 263930,
+        "word": "41人考编上岸后被清退谁把招聘当儿戏",
+        "onboard_time": 1723903703,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288587,
+        "num": 263261,
+        "word": "无能为力的年纪碰上了想要的房子",
+        "onboard_time": 1723942097,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 273873,
+        "num": 263019,
+        "word": "郑钦文回应奥运金牌去向",
+        "onboard_time": 1723939817,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262471,
+        "num": 262471,
+        "word": "长沙打碎女孩头骨老师称假动作失误",
+        "onboard_time": 1723939877,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261873,
+        "num": 261873,
+        "word": "虞书欣正式被确诊为袁湘琴",
+        "onboard_time": 1723898240,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252503,
+        "num": 252503,
+        "word": "严浩翔回应没关麦",
+        "onboard_time": 1723936875,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 247134,
+        "num": 247134,
+        "word": "粉丝要求张大大澄清范丞丞恋情",
+        "onboard_time": 1723918454,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241928,
+        "num": 241928,
+        "word": "问界M7新车开到海滩结果被淹",
+        "onboard_time": 1723945459,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 220670,
+        "num": 220670,
+        "word": "全球首批收到黑神话悟空实体版玩家",
+        "onboard_time": 1723947858,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 207287,
+        "num": 207287,
+        "word": "杭州一小区流浪猫身中10箭死亡",
+        "onboard_time": 1723945758,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206926,
+        "num": 206926,
+        "word": "特鲁索娃结婚",
+        "onboard_time": 1723909042,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205568,
+        "num": 205568,
+        "word": "苏林抵达广州开启访华行程",
+        "onboard_time": 1723946418,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 469754,
+        "num": 202130,
+        "word": "樊振东为林昀儒庆生都不忘给霉霉打歌",
+        "onboard_time": 1723940237,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195393,
+        "num": 195393,
+        "word": "难哄的妈生漫画风回来了",
+        "onboard_time": 1723948098,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 194006,
+        "num": 194006,
+        "word": "张若昀是大张伟铁粉",
+        "onboard_time": 1723943840,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170692,
+        "num": 190725,
+        "word": "18省区市将有大到暴雨",
+        "onboard_time": 1723941377,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188949,
+        "num": 188949,
+        "word": "这下终于会看心电图了",
+        "onboard_time": 1723942338,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 176259,
+        "num": 176259,
+        "word": "才知道紫色原来这么特别",
+        "onboard_time": 1723907002,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 175002,
+        "num": 175002,
+        "word": "这个视角看孙颖莎打乒乓球好牛啊",
+        "onboard_time": 1723939455,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169911,
+        "num": 169911,
+        "word": "中元节",
+        "onboard_time": 1723936634,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166697,
+        "num": 166697,
+        "word": "婚后女生管钱和男生管钱的区别",
+        "onboard_time": 1723940477,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161765,
+        "num": 161765,
+        "word": "王源是真没把我们当外人",
+        "onboard_time": 1723947737,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155006,
+        "num": 155006,
+        "word": "13个少年抬走了1000多斤的船",
+        "onboard_time": 1723946298,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148957,
+        "num": 148957,
+        "word": "UFC",
+        "onboard_time": 1723948699,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148631,
+        "num": 148631,
+        "word": "连线张大大女生向范丞丞和粉丝道歉",
+        "onboard_time": 1723948577,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143404,
+        "num": 143404,
+        "word": "檀健次演唱会",
+        "onboard_time": 1723900521,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142111,
+        "num": 142111,
+        "word": "石凯巡演 捡彩带",
+        "onboard_time": 1723944858,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140929,
+        "num": 140929,
+        "word": "小米高管就直播炸麦致歉",
+        "onboard_time": 1723937776,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 137350,
+        "num": 137350,
+        "word": "爸爸掐点散步偶遇31岁女儿下班",
+        "onboard_time": 1723947079,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137841,
+        "num": 137008,
+        "word": "贺峻霖问棉花娃娃是谁的",
+        "onboard_time": 1723946598,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#守护好文化瑰宝和自然珍宝#"
+    }
+  }
+}
