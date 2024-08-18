@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1723966465655,
+  "endTime": 1723969405941,
   "band_list": [
     {
       "raw_hot": 3310174,
@@ -163,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1024731,
+      "num": 850374,
+      "word": "张百乔向小雪求婚",
+      "onboard_time": 1723966459,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1015956,
       "num": 1015956,
       "word": "王楚钦收到奥沙利文的祝福",
@@ -201,6 +209,22 @@
       "onboard_time": 1723957518,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 937353,
+      "num": 937353,
+      "word": "世界乒联发马龙的庆祝动作",
+      "onboard_time": 1723964481,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 932294,
+      "num": 346142,
+      "word": "一只仅有18斤的小猫碎掉了",
+      "onboard_time": 1723964659,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 929905,
@@ -283,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 678058,
+      "num": 678058,
+      "word": "泰国大学生被学长火烧体毛霸凌",
+      "onboard_time": 1723967419,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 667458,
       "num": 304328,
       "word": "才知道紫色原来这么特别",
@@ -291,20 +323,20 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 632586,
-      "num": 469338,
-      "word": "世界乒联发马龙的庆祝动作",
-      "onboard_time": 1723964481,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 629108,
       "num": 629108,
       "word": "阿兰德龙去世",
       "onboard_time": 1723962859,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 610101,
+      "num": 454623,
+      "word": "檀健次顶胯这一下",
+      "onboard_time": 1723965319,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 608794,
@@ -459,6 +491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 443359,
+      "num": 443359,
+      "word": "女子称花3万整容眼球眼角被缝一起",
+      "onboard_time": 1723967839,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438776,
       "num": 438776,
       "word": "作者爱不爱自己笔下的角色很明显",
@@ -579,12 +619,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 349452,
-      "num": 281111,
-      "word": "一只仅有18斤的小猫碎掉了",
-      "onboard_time": 1723964659,
-      "rank": 22,
-      "category": "幽默"
+      "raw_hot": 348675,
+      "num": 348675,
+      "word": "穿着清凉超市老板娘晒病历单",
+      "onboard_time": 1723964300,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 339923,
@@ -609,6 +649,14 @@
       "onboard_time": 1723936634,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331484,
+      "num": 331484,
+      "word": "KSG被RW零封",
+      "onboard_time": 1723967359,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 328974,
@@ -691,6 +739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 292239,
+      "num": 292239,
+      "word": "老友记主演被相识25年助理陷害身亡",
+      "onboard_time": 1723967539,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291233,
       "num": 291233,
       "word": "徐晔医生",
@@ -739,20 +795,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 268851,
+      "num": 268851,
+      "word": "女子黄山遇见挑山工就发100元",
+      "onboard_time": 1723966700,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266780,
       "num": 266780,
       "word": "孕期常接触塑料男宝自闭症风险高",
       "onboard_time": 1723956859,
       "rank": 30,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 266401,
-      "num": 266401,
-      "word": "穿着清凉超市老板娘晒病历单",
-      "onboard_time": 1723964300,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 265150,
@@ -779,14 +835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 260839,
-      "num": 260839,
-      "word": "檀健次顶胯这一下",
-      "onboard_time": 1723965319,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
       "raw_hot": 259981,
       "num": 484556,
       "word": "同一人1次中彩票超1万需缴20%税",
@@ -809,6 +857,14 @@
       "onboard_time": 1723962438,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258459,
+      "num": 258459,
+      "word": "赵露思 密云拍戏",
+      "onboard_time": 1723968019,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 254886,
@@ -907,12 +963,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 219056,
+      "num": 219056,
+      "word": "一杯奶茶咖啡因抵3杯美式",
+      "onboard_time": 1723967900,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 216965,
       "num": 216965,
       "word": "这下真的记住李泽锋了",
       "onboard_time": 1723929851,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 216564,
+      "num": 216564,
+      "word": "女子家的沙发被邻居混凝土浇筑了",
+      "onboard_time": 1723968380,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216109,
@@ -985,6 +1057,14 @@
       "onboard_time": 1723959499,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208492,
+      "num": 208492,
+      "word": "周震南和Fly是双胞胎吗",
+      "onboard_time": 1723967660,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 207287,
@@ -1171,6 +1251,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178768,
+      "num": 178768,
+      "word": "5800万单身数据或有误读",
+      "onboard_time": 1723966160,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178377,
+      "num": 178377,
+      "word": "许嵩说断桥残雪是6岁写的歌",
+      "onboard_time": 1723969160,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 172570,
       "num": 172570,
       "word": "UFC",
@@ -1185,6 +1281,14 @@
       "onboard_time": 1723965019,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167580,
+      "num": 167580,
+      "word": "内地奥运健儿8月底访港",
+      "onboard_time": 1723968200,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 166370,
@@ -1265,6 +1369,30 @@
       "onboard_time": 1723957159,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160027,
+      "num": 160027,
+      "word": "海贼王路娜天下",
+      "onboard_time": 1723967660,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 158677,
+      "num": 158677,
+      "word": "医生的第六感准得阎王都服气",
+      "onboard_time": 1723967900,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158412,
+      "num": 158412,
+      "word": "同济大学学生谈陈芋汐",
+      "onboard_time": 1723968919,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 157685,
@@ -1435,14 +1563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139111,
-      "num": 139111,
-      "word": "5800万单身数据或有误读",
-      "onboard_time": 1723966160,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 138955,
       "num": 138955,
       "word": "上海暴雨",
@@ -1603,6 +1723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 79338,
+      "num": 460263,
+      "word": "新一波猴痘疫情青少年死亡比例大幅上升",
+      "onboard_time": 1723968019,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74147,
       "num": 526840,
       "word": "学员称新巴蜀特训营中殴打是常态",
@@ -1628,7 +1756,7 @@
     },
     {
       "raw_hot": 71486,
-      "num": 193695,
+      "num": 373196,
       "word": "来华为门店i一会",
       "onboard_time": 1723965319,
       "rank": 49,
@@ -1656,6 +1784,14 @@
       "word": "被集体清退当事人称不是考生的责任",
       "onboard_time": 1723964420,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67254,
+      "num": 395165,
+      "word": "男子称将共同财产给了前妻后遭驱赶",
+      "onboard_time": 1723968080,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

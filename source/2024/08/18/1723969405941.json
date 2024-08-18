@@ -1,0 +1,410 @@
+{
+  "runTime": 1723969405941,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2040345,
+        "num": 2040345,
+        "word": "狂飙兄弟被爆出轨",
+        "onboard_time": 1723963280,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 937353,
+        "num": 937353,
+        "word": "世界乒联发马龙的庆祝动作",
+        "onboard_time": 1723964481,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18624,
+        "num": 854069,
+        "word": "万亩梯田尽染金黄丰景入画来",
+        "onboard_time": 1723948038,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1024731,
+        "num": 850374,
+        "word": "张百乔向小雪求婚",
+        "onboard_time": 1723966459,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 838022,
+        "num": 838022,
+        "word": "奶茶价格集体跳水",
+        "onboard_time": 1723947919,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 678058,
+        "num": 678058,
+        "word": "泰国大学生被学长火烧体毛霸凌",
+        "onboard_time": 1723967419,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 769368,
+        "num": 662648,
+        "word": "向佐自曝与郭碧婷从未吵过架",
+        "onboard_time": 1723963639,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 624414,
+        "num": 624414,
+        "word": "李佩霞严重违纪违法被双开",
+        "onboard_time": 1723952537,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602672,
+        "num": 602672,
+        "word": "大一新生陈芋汐",
+        "onboard_time": 1723951337,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79338,
+        "num": 460263,
+        "word": "新一波猴痘疫情青少年死亡比例大幅上升",
+        "onboard_time": 1723968019,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610101,
+        "num": 454623,
+        "word": "檀健次顶胯这一下",
+        "onboard_time": 1723965319,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 443359,
+        "num": 443359,
+        "word": "女子称花3万整容眼球眼角被缝一起",
+        "onboard_time": 1723967839,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428465,
+        "num": 428465,
+        "word": "于正新签的女艺人",
+        "onboard_time": 1723958540,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402097,
+        "num": 402097,
+        "word": "理解林志玲 好奇郭碧婷",
+        "onboard_time": 1723959199,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67254,
+        "num": 395165,
+        "word": "男子称将共同财产给了前妻后遭驱赶",
+        "onboard_time": 1723968080,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394076,
+        "num": 394076,
+        "word": "张学良将军之子张闾琳逝世",
+        "onboard_time": 1723960039,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49357,
+        "num": 373196,
+        "word": "来华为门店i一会",
+        "onboard_time": 1723965319,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 370561,
+        "num": 370561,
+        "word": "身高2米31的异形演员",
+        "onboard_time": 1723953739,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 358202,
+        "num": 358202,
+        "word": "官方通报李佩霞案件",
+        "onboard_time": 1723951278,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348675,
+        "num": 348675,
+        "word": "穿着清凉超市老板娘晒病历单",
+        "onboard_time": 1723964300,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1030710,
+        "num": 347001,
+        "word": "年入22亿的李佳琦还要披荆斩棘吗",
+        "onboard_time": 1723957880,
+        "rank": 20,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 932294,
+        "num": 346142,
+        "word": "一只仅有18斤的小猫碎掉了",
+        "onboard_time": 1723964659,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 344885,
+        "num": 344885,
+        "word": "阿兰德龙去世",
+        "onboard_time": 1723962859,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331484,
+        "num": 331484,
+        "word": "KSG被RW零封",
+        "onboard_time": 1723967359,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 292239,
+        "num": 292239,
+        "word": "老友记主演被相识25年助理陷害身亡",
+        "onboard_time": 1723967539,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268851,
+        "num": 268851,
+        "word": "女子黄山遇见挑山工就发100元",
+        "onboard_time": 1723966700,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258459,
+        "num": 258459,
+        "word": "赵露思 密云拍戏",
+        "onboard_time": 1723968019,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243081,
+        "num": 243081,
+        "word": "狂飙兄弟回应曾做男模",
+        "onboard_time": 1723963578,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 242206,
+        "num": 242206,
+        "word": "戚薇问李承铉准备在战至巅峰离婚吗",
+        "onboard_time": 1723961479,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220957,
+        "num": 220957,
+        "word": "客服回应旺旺碎冰冰疑有粪便",
+        "onboard_time": 1723957518,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219056,
+        "num": 219056,
+        "word": "一杯奶茶咖啡因抵3杯美式",
+        "onboard_time": 1723967900,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 216564,
+        "num": 216564,
+        "word": "女子家的沙发被邻居混凝土浇筑了",
+        "onboard_time": 1723968380,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208584,
+        "num": 208584,
+        "word": "长荣桂冠酒店曝光者发声",
+        "onboard_time": 1723961658,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208496,
+        "num": 208496,
+        "word": "文旅局回应女子抱孩子进兵马俑坑",
+        "onboard_time": 1723962438,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208492,
+        "num": 208492,
+        "word": "周震南和Fly是双胞胎吗",
+        "onboard_time": 1723967660,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192086,
+        "num": 192086,
+        "word": "异形",
+        "onboard_time": 1723955779,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181426,
+        "num": 181426,
+        "word": "李佩霞被双开毛奇被调查",
+        "onboard_time": 1723953078,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181249,
+        "num": 181249,
+        "word": "聊缩力",
+        "onboard_time": 1723961359,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178779,
+        "num": 178779,
+        "word": "王鹤棣 我没偷吃",
+        "onboard_time": 1723962619,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178768,
+        "num": 178768,
+        "word": "5800万单身数据或有误读",
+        "onboard_time": 1723966160,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178377,
+        "num": 178377,
+        "word": "许嵩说断桥残雪是6岁写的歌",
+        "onboard_time": 1723969160,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173981,
+        "num": 173981,
+        "word": "加沙小孩走在路上身后大楼突然被炸",
+        "onboard_time": 1723960580,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 167580,
+        "num": 167580,
+        "word": "内地奥运健儿8月底访港",
+        "onboard_time": 1723968200,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160027,
+        "num": 160027,
+        "word": "海贼王路娜天下",
+        "onboard_time": 1723967660,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 158677,
+        "num": 158677,
+        "word": "医生的第六感准得阎王都服气",
+        "onboard_time": 1723967900,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158412,
+        "num": 158412,
+        "word": "同济大学学生谈陈芋汐",
+        "onboard_time": 1723968919,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146997,
+        "num": 146997,
+        "word": "七十多岁演人生的第一个女主",
+        "onboard_time": 1723964059,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146256,
+        "num": 146256,
+        "word": "WiFi和WLAN究竟有啥区别",
+        "onboard_time": 1723956259,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 141877,
+        "num": 141877,
+        "word": "光与夜之恋婚谷复刻",
+        "onboard_time": 1723956019,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134789,
+        "num": 134789,
+        "word": "只给侯明昊一个人恋综本吗",
+        "onboard_time": 1723962978,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#守护好文化瑰宝和自然珍宝#"
+    }
+  }
+}
