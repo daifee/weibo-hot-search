@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724042266062,
+  "endTime": 1724044807150,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -65,6 +65,14 @@
       "onboard_time": 1723951278,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2226090,
+      "num": 2226090,
+      "word": "公司要上四休三降薪1千",
+      "onboard_time": 1724040262,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 2187744,
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 1705903,
-      "num": 732124,
+      "num": 868841,
       "word": "王阳明 我不比娘炮的动作",
       "onboard_time": 1724039181,
       "rank": 12,
@@ -339,12 +347,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1101968,
+      "num": 1101968,
+      "word": "离婚跟拍",
+      "onboard_time": 1724039242,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1071190,
       "num": 1071190,
       "word": "突然就不害怕中元节了",
       "onboard_time": 1723941076,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1069465,
+      "num": 1069465,
+      "word": "新版林黛玉",
+      "onboard_time": 1724040981,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 1057528,
@@ -779,6 +803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 642374,
+      "num": 642374,
+      "word": "孤注一掷重映定档",
+      "onboard_time": 1724043560,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 629793,
       "num": 629793,
       "word": "郑钦文参加中国体育代表团表彰大会",
@@ -795,14 +827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 627587,
-      "num": 512214,
-      "word": "公司要上四休三降薪1千",
-      "onboard_time": 1724040262,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 626146,
       "num": 626146,
       "word": "樊振东赛前和王皓确定了换衣策略",
@@ -817,6 +841,14 @@
       "onboard_time": 1723965319,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 615451,
+      "num": 615451,
+      "word": "四问41人考编上岸后被清退事件",
+      "onboard_time": 1724043621,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 608794,
@@ -873,14 +905,6 @@
       "onboard_time": 1723899201,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 552580,
-      "num": 552580,
-      "word": "新版林黛玉",
-      "onboard_time": 1724040981,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 552451,
@@ -992,6 +1016,14 @@
       "word": "王源演唱会嘉宾是单依纯",
       "onboard_time": 1723977318,
       "rank": 33,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 485330,
+      "num": 485330,
+      "word": "周杰伦演唱会抢票",
+      "onboard_time": 1724044700,
+      "rank": 20,
       "category": "演出"
     },
     {
@@ -1131,6 +1163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 455442,
+      "num": 455442,
+      "word": "刚同居女朋友不愿意AA制",
+      "onboard_time": 1724043443,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 453507,
       "num": 453507,
       "word": "全球首批收到黑神话悟空实体版玩家",
@@ -1187,6 +1227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 422655,
+      "num": 422655,
+      "word": "易烊千玺Golden Goose",
+      "onboard_time": 1724043380,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 418843,
       "num": 418843,
       "word": "童禹坤生日会",
@@ -1209,6 +1257,14 @@
       "onboard_time": 1723950078,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 408704,
+      "num": 408704,
+      "word": "悬疑文作者给自己写害怕了",
+      "onboard_time": 1724043982,
+      "rank": 24,
+      "category": "读书作家"
     },
     {
       "raw_hot": 407918,
@@ -1267,6 +1323,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 389043,
+      "num": 389043,
+      "word": "杜海涛跳舞 近期最油",
+      "onboard_time": 1724041942,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 387188,
       "num": 387188,
       "word": "金智媛澳门",
@@ -1281,14 +1345,6 @@
       "onboard_time": 1723988539,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 384463,
-      "num": 384463,
-      "word": "离婚跟拍",
-      "onboard_time": 1724039242,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 378467,
@@ -1611,20 +1667,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 300355,
+      "num": 300355,
+      "word": "抱脸虫",
+      "onboard_time": 1724041161,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 299665,
       "num": 299665,
       "word": "柳舟记 父母偏心可偏偏女儿最争气",
       "onboard_time": 1723945158,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 295948,
-      "num": 295948,
-      "word": "抱脸虫",
-      "onboard_time": 1724041161,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 292239,
@@ -1971,20 +2027,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 238247,
+      "num": 238247,
+      "word": "李乃文抽烟未遂",
+      "onboard_time": 1724041761,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237770,
       "num": 237770,
       "word": "陈芋汐到同济大学报到",
       "onboard_time": 1723960098,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 237492,
-      "num": 237492,
-      "word": "杜海涛跳舞 近期最油",
-      "onboard_time": 1724041942,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 235679,
@@ -2067,12 +2123,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 224821,
+      "num": 224821,
+      "word": "越南",
+      "onboard_time": 1724042301,
+      "rank": 42,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 224256,
       "num": 252490,
       "word": "医生的第六感准得阎王都服气",
       "onboard_time": 1723967900,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222167,
+      "num": 222167,
+      "word": "霍汶希否认阿娇皇甫圣华恋情",
+      "onboard_time": 1724044700,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 221693,
@@ -2251,14 +2323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 207239,
-      "num": 207239,
-      "word": "李乃文抽烟未遂",
-      "onboard_time": 1724041761,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 206549,
       "num": 206549,
       "word": "孙颖莎从开幕战斗到闭幕",
@@ -2363,6 +2427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201178,
+      "num": 201178,
+      "word": "新版红楼梦 一黛不如一黛",
+      "onboard_time": 1724044221,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 200753,
       "num": 200753,
       "word": "KPL梦之队要发新歌了",
@@ -2409,6 +2481,14 @@
       "onboard_time": 1723953379,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196225,
+      "num": 196225,
+      "word": "2024KPL夏季赛",
+      "onboard_time": 1724043741,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 194951,
@@ -2489,6 +2569,14 @@
       "onboard_time": 1723942338,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 188926,
+      "num": 375355,
+      "word": "红楼梦",
+      "onboard_time": 1724043982,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 188648,
@@ -2736,6 +2824,14 @@
       "word": "王阳明拒绝和粉丝比爱心",
       "onboard_time": 1724040981,
       "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 166609,
+      "num": 293646,
+      "word": "普罗米修斯",
+      "onboard_time": 1724042900,
+      "rank": 35,
       "category": "电影"
     },
     {
@@ -3355,6 +3451,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 133501,
+      "num": 676921,
+      "word": "1个人看病不再是十级孤独",
+      "onboard_time": 1724041581,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132285,
       "num": 132285,
       "word": "种地吧",
@@ -3448,6 +3552,14 @@
       "word": "老人误操作电动车路人险被讹",
       "onboard_time": 1723930632,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122343,
+      "num": 622650,
+      "word": "造假证给孩子办入学男子下跪求放过",
+      "onboard_time": 1724043681,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -3715,14 +3827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 74133,
-      "num": 297233,
-      "word": "1个人看病不再是十级孤独",
-      "onboard_time": 1724041581,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73825,
       "num": 88743,
       "word": "C罗无缘沙特首冠",
@@ -3867,6 +3971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55347,
+      "num": 496789,
+      "word": "余承东称全民智驾时代来了",
+      "onboard_time": 1724039780,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 54629,
       "num": 505189,
       "word": "来电科技创始人与合作伙伴失联",
@@ -3905,6 +4017,14 @@
       "onboard_time": 1724004793,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 50982,
+      "num": 723755,
+      "word": "学生校内踢球致残为何判学校不担责",
+      "onboard_time": 1724043621,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50720,
@@ -3953,14 +4073,6 @@
       "onboard_time": 1723960879,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43546,
-      "num": 496789,
-      "word": "余承东称全民智驾时代来了",
-      "onboard_time": 1724039780,
-      "rank": 23,
-      "category": "汽车"
     },
     {
       "raw_hot": 41268,
@@ -4049,6 +4161,14 @@
       "onboard_time": 1723922951,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26038,
+      "num": 726540,
+      "word": "人社局称41人被清退会有善后安排",
+      "onboard_time": 1724044580,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21952,
