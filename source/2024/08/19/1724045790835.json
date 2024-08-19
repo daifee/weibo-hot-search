@@ -1,0 +1,410 @@
+{
+  "runTime": 1724045790835,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2417325,
+        "num": 2417325,
+        "word": "公司要上四休三降薪1千",
+        "onboard_time": 1724040262,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1122815,
+        "num": 1122815,
+        "word": "离婚跟拍",
+        "onboard_time": 1724039242,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88356,
+        "num": 1041935,
+        "word": "2024最美医生发布",
+        "onboard_time": 1724040382,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1009481,
+        "num": 1009481,
+        "word": "新版林黛玉",
+        "onboard_time": 1724040981,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 998274,
+        "num": 998274,
+        "word": "孤注一掷重映定档",
+        "onboard_time": 1724043560,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 894313,
+        "num": 894313,
+        "word": "全红婵说到了发育关才知道芋汐的难",
+        "onboard_time": 1724031859,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 778061,
+        "num": 778061,
+        "word": "发了一条朋友圈搭上了20万元",
+        "onboard_time": 1724033718,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659057,
+        "num": 659057,
+        "word": "周杰伦演唱会抢票",
+        "onboard_time": 1724044700,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 84654,
+        "num": 658495,
+        "word": "人社局称41人被清退会有善后安排",
+        "onboard_time": 1724044580,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658455,
+        "num": 658455,
+        "word": "王阳明 我不比娘炮的动作",
+        "onboard_time": 1724039181,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 781122,
+        "num": 642994,
+        "word": "两个人买四寸蛋糕被老板挂朋友圈",
+        "onboard_time": 1724037019,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 608593,
+        "num": 608593,
+        "word": "悬疑文作者给自己写害怕了",
+        "onboard_time": 1724043982,
+        "rank": 11,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 181870,
+        "num": 577289,
+        "word": "1个人看病不再是十级孤独",
+        "onboard_time": 1724041581,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572615,
+        "num": 572615,
+        "word": "四问41人考编上岸后被清退事件",
+        "onboard_time": 1724043621,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570334,
+        "num": 570334,
+        "word": "孙颖莎谈女单夺银",
+        "onboard_time": 1724039119,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 503390,
+        "num": 503390,
+        "word": "为了不回信息在微信演了两年尸体",
+        "onboard_time": 1724030479,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 473335,
+        "num": 473335,
+        "word": "导演胡玫发文痛斥",
+        "onboard_time": 1724038819,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 420329,
+        "num": 453762,
+        "word": "女子称三万买的手机太卡第二天想退",
+        "onboard_time": 1724026999,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437432,
+        "num": 437432,
+        "word": "樊振东赛前和王皓确定了换衣策略",
+        "onboard_time": 1724037079,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 421737,
+        "num": 421737,
+        "word": "李乃文即日起更名于和伟",
+        "onboard_time": 1724036839,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 978619,
+        "num": 420600,
+        "word": "刚同居女朋友不愿意AA制",
+        "onboard_time": 1724043443,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 418582,
+        "num": 418582,
+        "word": "易烊千玺Golden Goose",
+        "onboard_time": 1724043380,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395394,
+        "num": 395394,
+        "word": "赵丽颖好帅",
+        "onboard_time": 1724037258,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392234,
+        "num": 392234,
+        "word": "霍汶希否认阿娇皇甫圣华恋情",
+        "onboard_time": 1724044700,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314114,
+        "num": 314114,
+        "word": "capper恋爱",
+        "onboard_time": 1724035638,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313973,
+        "num": 313973,
+        "word": "迪丽热巴 黄金时代",
+        "onboard_time": 1724035038,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 310800,
+        "num": 310800,
+        "word": "苏林访华",
+        "onboard_time": 1724036119,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 149266,
+        "num": 310040,
+        "word": "普罗米修斯",
+        "onboard_time": 1724042900,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 309996,
+        "num": 309996,
+        "word": "杜海涛跳舞 近期最油",
+        "onboard_time": 1724041942,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278780,
+        "num": 278780,
+        "word": "刘端端道歉速度赶不上得罪速度",
+        "onboard_time": 1724037861,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262427,
+        "num": 262427,
+        "word": "25岁的我为什么会有这种思想",
+        "onboard_time": 1724035458,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219537,
+        "num": 257916,
+        "word": "新版红楼梦 一黛不如一黛",
+        "onboard_time": 1724044221,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 255667,
+        "num": 255667,
+        "word": "抱脸虫",
+        "onboard_time": 1724041161,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 237773,
+        "num": 237773,
+        "word": "遭事业单位集体清退当事人再发声",
+        "onboard_time": 1724036000,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234443,
+        "num": 234443,
+        "word": "人社局回应41人事业编被集体清退",
+        "onboard_time": 1724045060,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231424,
+        "num": 231424,
+        "word": "iPhone16Pro四款配色",
+        "onboard_time": 1724027239,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 220712,
+        "num": 220712,
+        "word": "中方回应菲船只故意冲撞我海警舰艇",
+        "onboard_time": 1724026219,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 217037,
+        "num": 217037,
+        "word": "致敬医师节",
+        "onboard_time": 1724032038,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205236,
+        "num": 205236,
+        "word": "越南",
+        "onboard_time": 1724042301,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 172860,
+        "num": 199553,
+        "word": "造假证给孩子办入学男子下跪求放过",
+        "onboard_time": 1724043681,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195153,
+        "num": 195153,
+        "word": "郑钦文参加中国体育代表团表彰大会",
+        "onboard_time": 1724037741,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94301,
+        "num": 194202,
+        "word": "学生校内踢球致残为何判学校不担责",
+        "onboard_time": 1724043621,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194150,
+        "num": 194150,
+        "word": "男狐狸精请按这个标准卷",
+        "onboard_time": 1724028559,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193182,
+        "num": 193182,
+        "word": "张远录制披荆斩棘受伤",
+        "onboard_time": 1724036898,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193079,
+        "num": 193079,
+        "word": "肚子有条褐色竖线正常吗",
+        "onboard_time": 1724045360,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 192269,
+        "num": 192269,
+        "word": "蔡徐坤生日新歌",
+        "onboard_time": 1724038880,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182395,
+        "num": 182395,
+        "word": "爸爸忘拉手刹俩孩子随车冲进鱼塘",
+        "onboard_time": 1724045780,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171292,
+        "num": 171292,
+        "word": "李乃文抽烟未遂",
+        "onboard_time": 1724041761,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168502,
+        "num": 168502,
+        "word": "网友总结少年白马醉春风大扑七宗罪",
+        "onboard_time": 1724035879,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164710,
+        "num": 164710,
+        "word": "每天睡六小时和八小时的区别",
+        "onboard_time": 1724028500,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记深情寄语医务工作者#"
+    }
+  }
+}

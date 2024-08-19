@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724044807150,
+  "endTime": 1724045790835,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -59,20 +59,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2417325,
+      "num": 2417325,
+      "word": "公司要上四休三降薪1千",
+      "onboard_time": 1724040262,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2265353,
       "num": 2265353,
       "word": "官方通报李佩霞案件",
       "onboard_time": 1723951278,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2226090,
-      "num": 2226090,
-      "word": "公司要上四休三降薪1千",
-      "onboard_time": 1724040262,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 2187744,
@@ -339,20 +339,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1122815,
+      "num": 1122815,
+      "word": "离婚跟拍",
+      "onboard_time": 1724039242,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1110620,
       "num": 1110620,
       "word": "终于有剧一眼看出女扮男装了",
       "onboard_time": 1724025378,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1101968,
-      "num": 1101968,
-      "word": "离婚跟拍",
-      "onboard_time": 1724039242,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 1071190,
@@ -435,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 998274,
+      "num": 998274,
+      "word": "孤注一掷重映定档",
+      "onboard_time": 1724043560,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 984218,
       "num": 984218,
       "word": "薛之谦 四巡万兽之王",
@@ -457,6 +465,14 @@
       "onboard_time": 1723958540,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 978619,
+      "num": 455442,
+      "word": "刚同居女朋友不愿意AA制",
+      "onboard_time": 1724043443,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 973851,
@@ -787,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 659057,
+      "num": 659057,
+      "word": "周杰伦演唱会抢票",
+      "onboard_time": 1724044700,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 649010,
       "num": 649010,
       "word": "capper恋爱",
@@ -801,14 +825,6 @@
       "onboard_time": 1724035458,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 642374,
-      "num": 642374,
-      "word": "孤注一掷重映定档",
-      "onboard_time": 1724043560,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 629793,
@@ -857,6 +873,14 @@
       "onboard_time": 1723949118,
       "rank": 42,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 608593,
+      "num": 608593,
+      "word": "悬疑文作者给自己写害怕了",
+      "onboard_time": 1724043982,
+      "rank": 24,
+      "category": "读书作家"
     },
     {
       "raw_hot": 587504,
@@ -1019,14 +1043,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 485330,
-      "num": 485330,
-      "word": "周杰伦演唱会抢票",
-      "onboard_time": 1724044700,
-      "rank": 20,
-      "category": "演出"
-    },
-    {
       "raw_hot": 484473,
       "num": 484473,
       "word": "WTT 盲盒",
@@ -1163,14 +1179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 455442,
-      "num": 455442,
-      "word": "刚同居女朋友不愿意AA制",
-      "onboard_time": 1724043443,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 453507,
       "num": 453507,
       "word": "全球首批收到黑神话悟空实体版玩家",
@@ -1259,14 +1267,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 408704,
-      "num": 408704,
-      "word": "悬疑文作者给自己写害怕了",
-      "onboard_time": 1724043982,
-      "rank": 24,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 407918,
       "num": 407918,
       "word": "猫妈妈把崽子叼到门口排成一排",
@@ -1305,6 +1305,14 @@
       "onboard_time": 1723977739,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 392234,
+      "num": 392234,
+      "word": "霍汶希否认阿娇皇甫圣华恋情",
+      "onboard_time": 1724044700,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 391794,
@@ -2059,6 +2067,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 234443,
+      "num": 234443,
+      "word": "人社局回应41人事业编被集体清退",
+      "onboard_time": 1724045060,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234225,
       "num": 234225,
       "word": "中元节习俗",
@@ -2139,14 +2155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 222167,
-      "num": 222167,
-      "word": "霍汶希否认阿娇皇甫圣华恋情",
-      "onboard_time": 1724044700,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 221693,
       "num": 263271,
       "word": "网购50多天后成功退货卖家称受伤",
@@ -2161,6 +2169,14 @@
       "onboard_time": 1723984339,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 219537,
+      "num": 257916,
+      "word": "新版红楼梦 一黛不如一黛",
+      "onboard_time": 1724044221,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 218071,
@@ -2427,14 +2443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201178,
-      "num": 201178,
-      "word": "新版红楼梦 一黛不如一黛",
-      "onboard_time": 1724044221,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 200753,
       "num": 200753,
       "word": "KPL梦之队要发新歌了",
@@ -2529,6 +2537,14 @@
       "onboard_time": 1723943840,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 193079,
+      "num": 193079,
+      "word": "肚子有条褐色竖线正常吗",
+      "onboard_time": 1724045360,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 192965,
@@ -2659,6 +2675,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182395,
+      "num": 182395,
+      "word": "爸爸忘拉手刹俩孩子随车冲进鱼塘",
+      "onboard_time": 1724045780,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181870,
+      "num": 676921,
+      "word": "1个人看病不再是十级孤独",
+      "onboard_time": 1724041581,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181745,
       "num": 181745,
       "word": "五台山的狐狸要胖成球了",
@@ -2729,6 +2761,14 @@
       "onboard_time": 1723994002,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172860,
+      "num": 622650,
+      "word": "造假证给孩子办入学男子下跪求放过",
+      "onboard_time": 1724043681,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172570,
@@ -2828,7 +2868,7 @@
     },
     {
       "raw_hot": 166609,
-      "num": 293646,
+      "num": 310040,
       "word": "普罗米修斯",
       "onboard_time": 1724042900,
       "rank": 35,
@@ -3451,14 +3491,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 133501,
-      "num": 676921,
-      "word": "1个人看病不再是十级孤独",
-      "onboard_time": 1724041581,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132285,
       "num": 132285,
       "word": "种地吧",
@@ -3552,14 +3584,6 @@
       "word": "老人误操作电动车路人险被讹",
       "onboard_time": 1723930632,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122343,
-      "num": 622650,
-      "word": "造假证给孩子办入学男子下跪求放过",
-      "onboard_time": 1724043681,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -3715,6 +3739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94301,
+      "num": 723755,
+      "word": "学生校内踢球致残为何判学校不担责",
+      "onboard_time": 1724043621,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93680,
       "num": 99417,
       "word": "你一般每天睡多长时间",
@@ -3777,6 +3809,14 @@
       "onboard_time": 1724022616,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84654,
+      "num": 726540,
+      "word": "人社局称41人被清退会有善后安排",
+      "onboard_time": 1724044580,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82386,
@@ -4019,14 +4059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 50982,
-      "num": 723755,
-      "word": "学生校内踢球致残为何判学校不担责",
-      "onboard_time": 1724043621,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 50720,
       "num": 393461,
       "word": "我靠户外徒步清班味儿",
@@ -4161,14 +4193,6 @@
       "onboard_time": 1723922951,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 26038,
-      "num": 726540,
-      "word": "人社局称41人被清退会有善后安排",
-      "onboard_time": 1724044580,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21952,
