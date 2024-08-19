@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724030811550,
+  "endTime": 1724032149119,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -185,6 +185,14 @@
       "onboard_time": 1723902023,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1333021,
+      "num": 958702,
+      "word": "每天睡六小时和八小时的区别",
+      "onboard_time": 1724028500,
+      "rank": 7,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1314568,
@@ -377,14 +385,6 @@
       "onboard_time": 1723960039,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 958702,
-      "num": 958702,
-      "word": "每天睡六小时和八小时的区别",
-      "onboard_time": 1724028500,
-      "rank": 7,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 953826,
@@ -603,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 712258,
+      "num": 908498,
+      "word": "男狐狸精请按这个标准卷",
+      "onboard_time": 1724028559,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 698854,
       "num": 698854,
       "word": "河南洛阳一奶茶店店员与顾客互骂",
@@ -635,12 +643,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 639647,
-      "num": 908498,
-      "word": "男狐狸精请按这个标准卷",
-      "onboard_time": 1724028559,
-      "rank": 8,
-      "category": "剧集"
+      "raw_hot": 664426,
+      "num": 664426,
+      "word": "间谍利用大学生拍涉密科研基地照片",
+      "onboard_time": 1724027180,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 629108,
@@ -689,6 +697,14 @@
       "onboard_time": 1723893499,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 561147,
+      "num": 377186,
+      "word": "为了不回信息在微信演了两年尸体",
+      "onboard_time": 1724030479,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 556828,
@@ -769,14 +785,6 @@
       "onboard_time": 1723976779,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 507906,
-      "num": 507906,
-      "word": "间谍利用大学生拍涉密科研基地照片",
-      "onboard_time": 1724027180,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 488807,
@@ -860,7 +868,7 @@
     },
     {
       "raw_hot": 469828,
-      "num": 348779,
+      "num": 376765,
       "word": "男朋友不接受猫上床",
       "onboard_time": 1724022795,
       "rank": 23,
@@ -1083,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 378467,
+      "num": 378467,
+      "word": "现在学会计还香吗",
+      "onboard_time": 1724028500,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 377834,
       "num": 377834,
       "word": "李景亮vs普拉特斯",
@@ -1145,6 +1161,14 @@
       "onboard_time": 1723955779,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 362399,
+      "num": 362399,
+      "word": "足协原副主席李毓毅被判11年",
+      "onboard_time": 1724030479,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 359258,
@@ -1219,12 +1243,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 333221,
-      "num": 333221,
-      "word": "现在学会计还香吗",
-      "onboard_time": 1724028500,
-      "rank": 22,
-      "category": "教育"
+      "raw_hot": 332365,
+      "num": 418927,
+      "word": "杨幂的受众还是太全面了",
+      "onboard_time": 1724026999,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 331484,
@@ -1355,6 +1379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 296579,
+      "num": 296579,
+      "word": "因为给男朋友买衣服吵架了",
+      "onboard_time": 1724030479,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 292239,
       "num": 292239,
       "word": "老友记主演被相识25年助理陷害身亡",
@@ -1427,14 +1459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 283455,
-      "num": 418927,
-      "word": "杨幂的受众还是太全面了",
-      "onboard_time": 1724026999,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 281943,
       "num": 281943,
       "word": "薛之谦 爱的多的人总先掉眼泪",
@@ -1505,6 +1529,14 @@
       "onboard_time": 1723941377,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262970,
+      "num": 248501,
+      "word": "过期护发素不要扔",
+      "onboard_time": 1724030898,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 261430,
@@ -1587,6 +1619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253797,
+      "num": 253797,
+      "word": "第7个中国医师节",
+      "onboard_time": 1724027419,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253398,
       "num": 253398,
       "word": "95后女交警史杰执勤时被撞牺牲",
@@ -1601,14 +1641,6 @@
       "onboard_time": 1723901361,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 250675,
-      "num": 250675,
-      "word": "第7个中国医师节",
-      "onboard_time": 1724027419,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 250098,
@@ -1659,14 +1691,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 240462,
-      "num": 240462,
-      "word": "为了不回信息在微信演了两年尸体",
-      "onboard_time": 1724030479,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 239938,
       "num": 239938,
       "word": "尾巴互相交缠的两只猫咪",
@@ -1691,10 +1715,26 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 234543,
+      "num": 234543,
+      "word": "加沙一母亲和6个孩子被炸死",
+      "onboard_time": 1724031258,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 234225,
       "num": 234225,
       "word": "中元节习俗",
       "onboard_time": 1723989981,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233353,
+      "num": 233353,
+      "word": "致敬医师节",
+      "onboard_time": 1724032038,
       "rank": 34,
       "category": "社会新闻"
     },
@@ -1705,6 +1745,14 @@
       "onboard_time": 1723976239,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232439,
+      "num": 377552,
+      "word": "陈哲远很爱报备一男的",
+      "onboard_time": 1724030239,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 228603,
@@ -1739,14 +1787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223131,
-      "num": 223131,
-      "word": "足协原副主席李毓毅被判11年",
-      "onboard_time": 1724030479,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 221693,
       "num": 263271,
       "word": "网购50多天后成功退货卖家称受伤",
@@ -1761,6 +1801,14 @@
       "onboard_time": 1723984339,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217383,
+      "num": 217383,
+      "word": "全红婵回应天才少女",
+      "onboard_time": 1724030777,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 216965,
@@ -1915,6 +1963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204747,
+      "num": 204747,
+      "word": "全红婵说到了发育关才知道芋汐的难",
+      "onboard_time": 1724031859,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204645,
       "num": 204645,
       "word": "全糖奶茶有一半是00后点的",
@@ -2059,12 +2115,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189721,
-      "num": 189721,
-      "word": "因为给男朋友买衣服吵架了",
-      "onboard_time": 1724030479,
-      "rank": 38,
-      "category": "情感"
+      "raw_hot": 189530,
+      "num": 189530,
+      "word": "恋与深空",
+      "onboard_time": 1724031079,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 188949,
@@ -2283,14 +2339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 165958,
-      "num": 257753,
-      "word": "陈哲远很爱报备一男的",
-      "onboard_time": 1724030239,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 165544,
       "num": 165544,
       "word": "樊振东说换球衣是想调整自己的节奏",
@@ -2305,6 +2353,14 @@
       "onboard_time": 1723899621,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 165181,
+      "num": 165181,
+      "word": "医师节",
+      "onboard_time": 1724025259,
+      "rank": 43,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 164942,
@@ -2331,12 +2387,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 163667,
-      "num": 163667,
-      "word": "医师节",
-      "onboard_time": 1724025259,
-      "rank": 43,
-      "category": "社会新闻,健康医疗"
+      "raw_hot": 163041,
+      "num": 163041,
+      "word": "全红婵谈夺冠后拥抱陈芋汐",
+      "onboard_time": 1724031859,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 163002,
@@ -2505,14 +2561,6 @@
       "onboard_time": 1723979480,
       "rank": 47,
       "category": "综艺,电竞"
-    },
-    {
-      "raw_hot": 155188,
-      "num": 155188,
-      "word": "全红婵回应天才少女",
-      "onboard_time": 1724030777,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 155006,
@@ -3376,6 +3424,14 @@
       "word": "我靠户外徒步清班味儿",
       "onboard_time": 1723986259,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49582,
+      "num": 205171,
+      "word": "您守护世界我守护您",
+      "onboard_time": 1724031679,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
