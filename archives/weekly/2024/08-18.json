@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724024181956,
+  "endTime": 1724030811550,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -33,6 +33,14 @@
       "onboard_time": 1723947919,
       "rank": 15,
       "category": "美食"
+    },
+    {
+      "raw_hot": 2903140,
+      "num": 2903140,
+      "word": "女子称三万买的手机太卡第二天想退",
+      "onboard_time": 1724026999,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2458655,
@@ -251,6 +259,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1129424,
+      "num": 1129424,
+      "word": "iPhone16Pro四款配色",
+      "onboard_time": 1724027239,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 1110620,
+      "num": 1110620,
+      "word": "终于有剧一眼看出女扮男装了",
+      "onboard_time": 1724025378,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1071190,
       "num": 1071190,
       "word": "突然就不害怕中元节了",
@@ -299,6 +323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1015120,
+      "num": 1015120,
+      "word": "中方回应菲船只故意冲撞我海警舰艇",
+      "onboard_time": 1724026219,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1010413,
       "num": 1010413,
       "word": "孔笙肖战开机同框",
@@ -345,6 +377,14 @@
       "onboard_time": 1723960039,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 958702,
+      "num": 958702,
+      "word": "每天睡六小时和八小时的区别",
+      "onboard_time": 1724028500,
+      "rank": 7,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 953826,
@@ -409,6 +449,14 @@
       "onboard_time": 1723984279,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 889966,
+      "num": 889966,
+      "word": "瑞幸 黑神话悟空",
+      "onboard_time": 1724025259,
+      "rank": 10,
+      "category": "游戏,美食"
     },
     {
       "raw_hot": 885708,
@@ -499,12 +547,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 754987,
+      "num": 891610,
+      "word": "菲律宾",
+      "onboard_time": 1724024598,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 751742,
       "num": 751742,
       "word": "长沙打碎女孩头骨老师称假动作失误",
       "onboard_time": 1723939877,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 733856,
+      "num": 733856,
+      "word": "中国海警对菲侵权船只依法依规实施管控措施",
+      "onboard_time": 1724022256,
+      "rank": 30,
+      "category": "国内时政,社会新闻"
     },
     {
       "raw_hot": 730566,
@@ -569,6 +633,14 @@
       "onboard_time": 1723907002,
       "rank": 20,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 639647,
+      "num": 908498,
+      "word": "男狐狸精请按这个标准卷",
+      "onboard_time": 1724028559,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 629108,
@@ -699,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 507906,
+      "num": 507906,
+      "word": "间谍利用大学生拍涉密科研基地照片",
+      "onboard_time": 1724027180,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 488807,
       "num": 488807,
       "word": "长荣桂冠酒店曝光者发声",
@@ -721,6 +801,14 @@
       "onboard_time": 1723907963,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 481895,
+      "num": 481895,
+      "word": "任敏对路人说不怕我的粉丝揍你吗",
+      "onboard_time": 1723991959,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 476649,
@@ -771,6 +859,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 469828,
+      "num": 348779,
+      "word": "男朋友不接受猫上床",
+      "onboard_time": 1724022795,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 468132,
       "num": 468132,
       "word": "杨幂超话头像",
@@ -785,6 +881,14 @@
       "onboard_time": 1723918454,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 463284,
+      "num": 463284,
+      "word": "陈牧驰 从精神抖擞到精神涣散",
+      "onboard_time": 1724027060,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 463101,
@@ -881,14 +985,6 @@
       "onboard_time": 1723956019,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 420955,
-      "num": 407696,
-      "word": "任敏对路人说不怕我的粉丝揍你吗",
-      "onboard_time": 1723991959,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 418843,
@@ -1123,6 +1219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 333221,
+      "num": 333221,
+      "word": "现在学会计还香吗",
+      "onboard_time": 1724028500,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 331484,
       "num": 331484,
       "word": "KSG被RW零封",
@@ -1185,6 +1289,14 @@
       "onboard_time": 1723968019,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 313907,
+      "num": 313907,
+      "word": "碳水和睡眠的关系",
+      "onboard_time": 1724025259,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 313062,
@@ -1299,12 +1411,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 285771,
+      "num": 285771,
+      "word": "菲律宾恶意冲撞中方海警船",
+      "onboard_time": 1724028260,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 285414,
       "num": 285414,
       "word": "女子黄山遇见挑山工就发100元",
       "onboard_time": 1723966700,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283455,
+      "num": 418927,
+      "word": "杨幂的受众还是太全面了",
+      "onboard_time": 1724026999,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 281943,
@@ -1348,7 +1476,7 @@
     },
     {
       "raw_hot": 267668,
-      "num": 163318,
+      "num": 169270,
       "word": "这小狗跟亲生的有什么区别啊",
       "onboard_time": 1724022376,
       "rank": 20,
@@ -1427,8 +1555,16 @@
       "category": "美食"
     },
     {
+      "raw_hot": 257556,
+      "num": 257556,
+      "word": "小区门口开殡葬店遭业主抵制",
+      "onboard_time": 1724022735,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256271,
-      "num": 256271,
+      "num": 410547,
       "word": "于正解释新艺人名字",
       "onboard_time": 1723989200,
       "rank": 26,
@@ -1451,12 +1587,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253398,
+      "num": 253398,
+      "word": "95后女交警史杰执勤时被撞牺牲",
+      "onboard_time": 1724027900,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251758,
       "num": 251758,
       "word": "马嘉祺破音",
       "onboard_time": 1723901361,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 250675,
+      "num": 250675,
+      "word": "第7个中国医师节",
+      "onboard_time": 1724027419,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250098,
@@ -1491,12 +1643,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242777,
+      "num": 242777,
+      "word": "菲海警船故意冲撞我海警艇视频",
+      "onboard_time": 1724026339,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241928,
       "num": 241928,
       "word": "问界M7新车开到海滩结果被淹",
       "onboard_time": 1723945459,
       "rank": 44,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 240462,
+      "num": 240462,
+      "word": "为了不回信息在微信演了两年尸体",
+      "onboard_time": 1724030479,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 239938,
@@ -1569,6 +1737,14 @@
       "onboard_time": 1723967900,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223131,
+      "num": 223131,
+      "word": "足协原副主席李毓毅被判11年",
+      "onboard_time": 1724030479,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 221693,
@@ -1705,6 +1881,14 @@
       "onboard_time": 1723989440,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207794,
+      "num": 207794,
+      "word": "3个近期间谍案例公布",
+      "onboard_time": 1724027298,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207287,
@@ -1875,6 +2059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189721,
+      "num": 189721,
+      "word": "因为给男朋友买衣服吵架了",
+      "onboard_time": 1724030479,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 188949,
       "num": 188949,
       "word": "这下终于会看心电图了",
@@ -1883,20 +2075,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 188880,
-      "num": 163034,
-      "word": "男朋友不接受猫上床",
-      "onboard_time": 1724022795,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 188648,
       "num": 188648,
       "word": "牛马会给自己买咖啡",
       "onboard_time": 1723993342,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187900,
+      "num": 187900,
+      "word": "全红婵陈芋汐谈发育期",
+      "onboard_time": 1724028440,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 187423,
@@ -1953,6 +2145,14 @@
       "onboard_time": 1723961179,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180584,
+      "num": 180584,
+      "word": "黑神话悟空",
+      "onboard_time": 1724027480,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 180521,
@@ -2067,14 +2267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166922,
-      "num": 150118,
-      "word": "中国海警对菲侵权船只依法依规实施管控措施",
-      "onboard_time": 1724022256,
-      "rank": 30,
-      "category": "国内时政,社会新闻"
-    },
-    {
       "raw_hot": 166370,
       "num": 166370,
       "word": "业主将平板车停车位上做团购自提点",
@@ -2089,6 +2281,14 @@
       "onboard_time": 1723982300,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165958,
+      "num": 257753,
+      "word": "陈哲远很爱报备一男的",
+      "onboard_time": 1724030239,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 165544,
@@ -2123,12 +2323,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164793,
-      "num": 164793,
-      "word": "小区门口开殡葬店遭业主抵制",
-      "onboard_time": 1724022735,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 164388,
+      "num": 257629,
+      "word": "柳舟记 掉马",
+      "onboard_time": 1724029879,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 163667,
+      "num": 163667,
+      "word": "医师节",
+      "onboard_time": 1724025259,
+      "rank": 43,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 163002,
@@ -2164,7 +2372,7 @@
     },
     {
       "raw_hot": 161868,
-      "num": 1043365,
+      "num": 1269814,
       "word": "神十八乘组太空出差中的轻松时刻",
       "onboard_time": 1723958300,
       "rank": 47,
@@ -2179,12 +2387,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161398,
+      "num": 161398,
+      "word": "谢谢生命的守护者",
+      "onboard_time": 1724026219,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161351,
       "num": 161351,
       "word": "海贼王路娜天下",
       "onboard_time": 1723967660,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 161295,
+      "num": 161295,
+      "word": "樊振东更想成为场上的焦点",
+      "onboard_time": 1724025140,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 161059,
@@ -2281,6 +2505,14 @@
       "onboard_time": 1723979480,
       "rank": 47,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 155188,
+      "num": 155188,
+      "word": "全红婵回应天才少女",
+      "onboard_time": 1724030777,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 155006,
