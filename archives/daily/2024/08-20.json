@@ -1,6 +1,6 @@
 {
   "startTime": 1724084701164,
-  "endTime": 1724103311150,
+  "endTime": 1724106062240,
   "band_list": [
     {
       "raw_hot": 1218741,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 276409,
+      "num": 276409,
+      "word": "张昊唯 孝出强大",
+      "onboard_time": 1724096952,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254989,
       "num": 254989,
       "word": "男子腹泻一年肝脏脓肿竟因吃路边摊",
@@ -243,20 +251,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161696,
-      "num": 179274,
-      "word": "张昊唯 孝出强大",
-      "onboard_time": 1724096952,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 154116,
       "num": 175337,
       "word": "龙梅子演唱会",
       "onboard_time": 1724080641,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 151908,
+      "num": 151908,
+      "word": "蔬菜水果为什么突然变贵了",
+      "onboard_time": 1724093533,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148027,
@@ -419,14 +427,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 97748,
-      "num": 97748,
-      "word": "蔬菜水果为什么突然变贵了",
-      "onboard_time": 1724093533,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 86895,
       "num": 66896,
       "word": "经常熬夜5年后身体有什么变化",
@@ -457,6 +457,14 @@
       "onboard_time": 1724076322,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 52327,
+      "num": 52327,
+      "word": "孙女不会做饭给92岁姥姥点披萨咖啡",
+      "onboard_time": 1724089813,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47724,
@@ -491,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 38415,
+      "num": 38415,
+      "word": "华谊兄弟4天暴涨43%",
+      "onboard_time": 1724096171,
+      "rank": 32,
+      "category": "游戏,财经"
+    },
+    {
       "raw_hot": 38103,
       "num": 38103,
       "word": "A股",
@@ -499,20 +515,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 37768,
-      "num": 39515,
-      "word": "孙女不会做饭给92岁姥姥点披萨咖啡",
-      "onboard_time": 1724089813,
-      "rank": 39,
+      "raw_hot": 34820,
+      "num": 68292,
+      "word": "在离婚父母间来回拉扯二十年",
+      "onboard_time": 1724101571,
+      "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35436,
-      "num": 35436,
-      "word": "华谊兄弟4天暴涨43%",
-      "onboard_time": 1724096171,
-      "rank": 32,
-      "category": "游戏,财经"
     },
     {
       "raw_hot": 34574,
@@ -520,6 +528,30 @@
       "word": "应届生身份是否该取消了",
       "onboard_time": 1724091433,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33491,
+      "num": 33491,
+      "word": "中方致力于对话协商处理中菲涉海争议",
+      "onboard_time": 1724102471,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 32444,
+      "num": 32444,
+      "word": "陶勇说一天最多做过86台手术",
+      "onboard_time": 1724099470,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32160,
+      "num": 45622,
+      "word": "湖南博物院辟谣曲裾式素纱单衣被盗",
+      "onboard_time": 1724100910,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -531,15 +563,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28292,
-      "num": 28292,
-      "word": "陶勇说一天最多做过86台手术",
-      "onboard_time": 1724099470,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26283,
+      "raw_hot": 28585,
       "num": 53686,
       "word": "申请劳动仲裁会影响找工作吗",
       "onboard_time": 1724099051,
@@ -547,7 +571,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25507,
+      "raw_hot": 27467,
       "num": 80144,
       "word": "宁夏一化工车间发生爆炸",
       "onboard_time": 1724081660,
@@ -563,32 +587,8 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 21325,
-      "num": 45622,
-      "word": "湖南博物院辟谣曲裾式素纱单衣被盗",
-      "onboard_time": 1724100910,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19608,
-      "num": 22153,
-      "word": "中方致力于对话协商处理中菲涉海争议",
-      "onboard_time": 1724102471,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 16790,
-      "num": 47368,
-      "word": "在离婚父母间来回拉扯二十年",
-      "onboard_time": 1724101571,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16328,
-      "num": 228552,
+      "raw_hot": 16598,
+      "num": 236365,
       "word": "中国空间站舷窗大片再上新",
       "onboard_time": 1724074222,
       "rank": 2,
