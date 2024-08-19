@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1724056764514,
+  "endTime": 1724059332458,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -1707,6 +1707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 8404816,
+      "num": 8404816,
+      "word": "张昊唯 把小姐笼络起来",
+      "onboard_time": 1724055439,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 8387106,
       "num": 9637106,
       "word": "莎头组合进半决赛",
@@ -2291,6 +2299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 7105468,
+      "num": 6382552,
+      "word": "张昊唯称被一个团伙盯上",
+      "onboard_time": 1724057722,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 7067054,
       "num": 7067054,
       "word": "陈梦黄牌",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1716776658,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 6694788,
-      "num": 6694788,
-      "word": "杭州震感",
-      "onboard_time": 1712103392,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6684114,
-      "num": 6684114,
-      "word": "国乒女团vs中国台北",
-      "onboard_time": 1723034783,
-      "rank": 7,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
