@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724080933011,
+  "endTime": 1724081748089,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -579,8 +579,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1077012,
-      "num": 1077012,
+      "raw_hot": 1098229,
+      "num": 1098229,
       "word": "银行为什么出现离职潮",
       "onboard_time": 1724076441,
       "rank": 36,
@@ -1107,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 688811,
+      "num": 688811,
+      "word": "王俊凯 清华也是我小时候的梦想",
+      "onboard_time": 1724076441,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 671059,
       "num": 496541,
       "word": "陈梦坦言遭质疑后曾不想再上赛场",
@@ -1193,14 +1201,6 @@
       "onboard_time": 1724037079,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 618554,
-      "num": 618554,
-      "word": "王俊凯 清华也是我小时候的梦想",
-      "onboard_time": 1724076441,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 617460,
@@ -1651,6 +1651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 438806,
+      "num": 351887,
+      "word": "梁洁 分寸感",
+      "onboard_time": 1724080281,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 438776,
       "num": 438776,
       "word": "作者爱不爱自己笔下的角色很明显",
@@ -1891,6 +1899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 376249,
+      "num": 920188,
+      "word": "黑神话悟空预售超4亿",
+      "onboard_time": 1724072186,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 375623,
       "num": 375623,
       "word": "两弹一星功勋奖章获得者周光召逝世",
@@ -1931,14 +1947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 365155,
-      "num": 920188,
-      "word": "黑神话悟空预售超4亿",
-      "onboard_time": 1724072186,
-      "rank": 7,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 362640,
       "num": 362640,
       "word": "生活在小县城的人嘴真严",
@@ -1977,6 +1985,14 @@
       "onboard_time": 1723990641,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355590,
+      "num": 708405,
+      "word": "网易云音乐故障真相",
+      "onboard_time": 1724076082,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 355110,
@@ -2171,14 +2187,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 322476,
-      "num": 322476,
-      "word": "梁洁 分寸感",
-      "onboard_time": 1724080281,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 320674,
       "num": 320674,
       "word": "瑞幸补货",
@@ -2209,6 +2217,14 @@
       "onboard_time": 1723955720,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 316535,
+      "num": 316535,
+      "word": "张淼怡对林黛玉的角色理解",
+      "onboard_time": 1724079261,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 314358,
@@ -2473,14 +2489,6 @@
       "onboard_time": 1724056521,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 282204,
-      "num": 282204,
-      "word": "张淼怡对林黛玉的角色理解",
-      "onboard_time": 1724079261,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 281943,
@@ -2793,14 +2801,6 @@
       "onboard_time": 1724026339,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 242724,
-      "num": 708405,
-      "word": "网易云音乐故障真相",
-      "onboard_time": 1724076082,
-      "rank": 29,
-      "category": "互联网"
     },
     {
       "raw_hot": 241928,
@@ -3161,6 +3161,14 @@
       "onboard_time": 1724057664,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209663,
+      "num": 209663,
+      "word": "龙梅子演唱会",
+      "onboard_time": 1724080641,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 209530,
@@ -3795,6 +3803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180872,
+      "num": 180872,
+      "word": "与辉同行新疆场多款新疆产品卖断货",
+      "onboard_time": 1724080402,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 180584,
       "num": 180584,
       "word": "黑神话悟空",
@@ -4043,7 +4059,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 166617,
+      "raw_hot": 167051,
       "num": 416560,
       "word": "外国玩家为玩黑神话恶补西游记",
       "onboard_time": 1724077822,
@@ -4201,14 +4217,6 @@
       "onboard_time": 1723961958,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 161665,
-      "num": 161665,
-      "word": "与辉同行新疆场多款新疆产品卖断货",
-      "onboard_time": 1724080402,
-      "rank": 44,
-      "category": "互联网"
     },
     {
       "raw_hot": 161398,
@@ -4467,6 +4475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151983,
+      "num": 151983,
+      "word": "男子腹泻一年肝脏脓肿竟因吃路边摊",
+      "onboard_time": 1724081300,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151968,
       "num": 151968,
       "word": "贵州中元节",
@@ -4609,14 +4625,6 @@
       "onboard_time": 1723939036,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 146340,
-      "num": 146340,
-      "word": "龙梅子演唱会",
-      "onboard_time": 1724080641,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 146076,
@@ -5027,6 +5035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117442,
+      "num": 126197,
+      "word": "宁夏一化工车间发生爆炸",
+      "onboard_time": 1724081660,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116494,
       "num": 359187,
       "word": "密室大逃脱",
@@ -5081,6 +5097,14 @@
       "onboard_time": 1723944618,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 110826,
+      "num": 124641,
+      "word": "狗上班都肉眼可见的嘟嘟脸",
+      "onboard_time": 1724081541,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 109016,
@@ -5288,6 +5312,14 @@
       "word": "露营基地突发洪水多人被水流冲走",
       "onboard_time": 1724058083,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83170,
+      "num": 772832,
+      "word": "遭网课爆破离世教师女儿称5人已道歉",
+      "onboard_time": 1724080701,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -5761,14 +5793,6 @@
       "onboard_time": 1724047220,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 24852,
-      "num": 772832,
-      "word": "遭网课爆破离世教师女儿称5人已道歉",
-      "onboard_time": 1724080701,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21952,
