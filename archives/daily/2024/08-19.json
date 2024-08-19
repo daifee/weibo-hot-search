@@ -1,6 +1,6 @@
 {
   "startTime": 1723998199428,
-  "endTime": 1724041435413,
+  "endTime": 1724042266062,
   "band_list": [
     {
       "raw_hot": 5870597,
@@ -59,6 +59,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1705903,
+      "num": 732124,
+      "word": "王阳明 我不比娘炮的动作",
+      "onboard_time": 1724039181,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1352066,
       "num": 1352066,
       "word": "李乃文即日起更名于和伟",
@@ -107,14 +115,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1102154,
-      "num": 732124,
-      "word": "王阳明 我不比娘炮的动作",
-      "onboard_time": 1724039181,
-      "rank": 12,
-      "category": "电影"
-    },
-    {
       "raw_hot": 1025467,
       "num": 732278,
       "word": "迪丽热巴金九",
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 896371,
+      "num": 896371,
+      "word": "孙颖莎谈女单夺银",
+      "onboard_time": 1724039119,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 891750,
       "num": 891750,
       "word": "赵丽颖好帅",
@@ -163,20 +171,20 @@
       "category": "游戏,美食"
     },
     {
+      "raw_hot": 885786,
+      "num": 885786,
+      "word": "导演胡玫发文痛斥",
+      "onboard_time": 1724038819,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 885708,
       "num": 885708,
       "word": "李佳琦在自己直播间办了披哥1.5公",
       "onboard_time": 1723992501,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 857137,
-      "num": 857137,
-      "word": "导演胡玫发文痛斥",
-      "onboard_time": 1724038819,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 807866,
@@ -193,14 +201,6 @@
       "onboard_time": 1724036119,
       "rank": 6,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 771470,
-      "num": 771470,
-      "word": "孙颖莎谈女单夺银",
-      "onboard_time": 1724039119,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 754987,
@@ -225,6 +225,14 @@
       "onboard_time": 1724022256,
       "rank": 30,
       "category": "国内时政,社会新闻"
+    },
+    {
+      "raw_hot": 725831,
+      "num": 725831,
+      "word": "遭事业单位集体清退当事人再发声",
+      "onboard_time": 1724036000,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 717113,
@@ -275,6 +283,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 627587,
+      "num": 512214,
+      "word": "公司要上四休三降薪1千",
+      "onboard_time": 1724040262,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 626146,
+      "num": 626146,
+      "word": "樊振东赛前和王皓确定了换衣策略",
+      "onboard_time": 1724037079,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 587168,
       "num": 397519,
       "word": "因为给男朋友买衣服吵架了",
@@ -299,14 +323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 572114,
-      "num": 645629,
-      "word": "遭事业单位集体清退当事人再发声",
-      "onboard_time": 1724036000,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 566975,
       "num": 566975,
       "word": "张远录制披荆斩棘受伤",
@@ -315,12 +331,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 554025,
-      "num": 554025,
-      "word": "樊振东赛前和王皓确定了换衣策略",
-      "onboard_time": 1724037079,
-      "rank": 46,
-      "category": "体育"
+      "raw_hot": 552580,
+      "num": 552580,
+      "word": "新版林黛玉",
+      "onboard_time": 1724040981,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 538200,
@@ -331,20 +347,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 521004,
+      "num": 574203,
+      "word": "刘端端道歉速度赶不上得罪速度",
+      "onboard_time": 1724037861,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 504821,
       "num": 504821,
       "word": "网友总结少年白马醉春风大扑七宗罪",
       "onboard_time": 1724035879,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 487517,
-      "num": 574203,
-      "word": "刘端端道歉速度赶不上得罪速度",
-      "onboard_time": 1724037861,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 481895,
@@ -411,20 +427,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 384463,
+      "num": 384463,
+      "word": "离婚跟拍",
+      "onboard_time": 1724039242,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 378467,
       "num": 378467,
       "word": "现在学会计还香吗",
       "onboard_time": 1724028500,
       "rank": 22,
       "category": "教育"
-    },
-    {
-      "raw_hot": 368663,
-      "num": 368663,
-      "word": "离婚跟拍",
-      "onboard_time": 1724039242,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 368138,
@@ -523,12 +539,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 287553,
-      "num": 287553,
-      "word": "公司要上四休三降薪1千",
-      "onboard_time": 1724040262,
-      "rank": 38,
-      "category": "情感"
+      "raw_hot": 295948,
+      "num": 295948,
+      "word": "抱脸虫",
+      "onboard_time": 1724041161,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 285955,
@@ -577,14 +593,6 @@
       "onboard_time": 1724038880,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 273400,
-      "num": 273400,
-      "word": "新版林黛玉",
-      "onboard_time": 1724040981,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 267668,
@@ -643,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237492,
+      "num": 237492,
+      "word": "杜海涛跳舞 近期最油",
+      "onboard_time": 1724041942,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234543,
       "num": 234543,
       "word": "加沙一母亲和6个孩子被炸死",
@@ -689,14 +705,6 @@
       "onboard_time": 1723993522,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 219811,
-      "num": 219811,
-      "word": "抱脸虫",
-      "onboard_time": 1724041161,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 218071,
@@ -747,11 +755,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207239,
+      "num": 207239,
+      "word": "李乃文抽烟未遂",
+      "onboard_time": 1724041761,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206549,
       "num": 206549,
       "word": "孙颖莎从开幕战斗到闭幕",
       "onboard_time": 1724038581,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 204986,
+      "num": 204986,
+      "word": "倪夏莲谈孙颖莎兼三项",
+      "onboard_time": 1724041942,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -769,6 +793,14 @@
       "onboard_time": 1724037920,
       "rank": 39,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 203444,
+      "num": 203444,
+      "word": "真正的鬼节是周一",
+      "onboard_time": 1724041882,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 200643,
@@ -867,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170522,
+      "num": 735299,
+      "word": "33岁保安值夜班猝死家属发声",
+      "onboard_time": 1724040081,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170022,
       "num": 112717,
       "word": "情侣同居后更容易分手吗",
@@ -897,6 +937,14 @@
       "onboard_time": 1723995081,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167108,
+      "num": 424208,
+      "word": "王阳明拒绝和粉丝比爱心",
+      "onboard_time": 1724040981,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 165544,
@@ -1083,14 +1131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 113263,
-      "num": 339134,
-      "word": "王阳明拒绝和粉丝比爱心",
-      "onboard_time": 1724040981,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 112398,
       "num": 112398,
       "word": "白宇 叔圈白菜",
@@ -1163,14 +1203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 102743,
-      "num": 735299,
-      "word": "33岁保安值夜班猝死家属发声",
-      "onboard_time": 1724040081,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 101739,
       "num": 101739,
       "word": "走钢丝坠落演员仍在救治中",
@@ -1203,6 +1235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98206,
+      "num": 1163736,
+      "word": "2024最美医生发布",
+      "onboard_time": 1724040382,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93680,
       "num": 99417,
       "word": "你一般每天睡多长时间",
@@ -1225,14 +1265,6 @@
       "onboard_time": 1724023035,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 89874,
-      "num": 1143845,
-      "word": "2024最美医生发布",
-      "onboard_time": 1724040382,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 86734,
@@ -1288,6 +1320,14 @@
       "word": "花花和叶睡起了上下铺",
       "onboard_time": 1724023517,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74133,
+      "num": 297233,
+      "word": "1个人看病不再是十级孤独",
+      "onboard_time": 1724041581,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -1403,20 +1443,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 43546,
+      "num": 496789,
+      "word": "余承东称全民智驾时代来了",
+      "onboard_time": 1724039780,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 43181,
       "num": 995707,
       "word": "第2次青藏科考重要成果集中发布",
       "onboard_time": 1723985660,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37301,
-      "num": 496789,
-      "word": "余承东称全民智驾时代来了",
-      "onboard_time": 1724039780,
-      "rank": 23,
-      "category": "汽车"
     },
     {
       "raw_hot": 32266,
