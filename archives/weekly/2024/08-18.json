@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724038637643,
+  "endTime": 1724041435413,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -73,6 +73,14 @@
       "onboard_time": 1723990101,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2158119,
+      "num": 734293,
+      "word": "两个人买四寸蛋糕被老板挂朋友圈",
+      "onboard_time": 1724037019,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 2113689,
@@ -323,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1102154,
+      "num": 732124,
+      "word": "王阳明 我不比娘炮的动作",
+      "onboard_time": 1724039181,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1071190,
       "num": 1071190,
       "word": "突然就不害怕中元节了",
@@ -499,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 891750,
+      "num": 891750,
+      "word": "赵丽颖好帅",
+      "onboard_time": 1724037258,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 889966,
       "num": 889966,
       "word": "瑞幸 黑神话悟空",
@@ -521,6 +545,14 @@
       "onboard_time": 1723974199,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 857137,
+      "num": 857137,
+      "word": "导演胡玫发文痛斥",
+      "onboard_time": 1724038819,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 847776,
@@ -593,6 +625,14 @@
       "onboard_time": 1723908682,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 771470,
+      "num": 771470,
+      "word": "孙颖莎谈女单夺银",
+      "onboard_time": 1724039119,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 763666,
@@ -723,6 +763,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 645080,
+      "num": 645080,
+      "word": "25岁的我为什么会有这种思想",
+      "onboard_time": 1724035458,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 629793,
+      "num": 629793,
+      "word": "郑钦文参加中国体育代表团表彰大会",
+      "onboard_time": 1724037741,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 629108,
       "num": 629108,
       "word": "阿兰德龙去世",
@@ -745,22 +801,6 @@
       "onboard_time": 1723949118,
       "rank": 42,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 604253,
-      "num": 604253,
-      "word": "赵丽颖好帅",
-      "onboard_time": 1724037258,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 601549,
-      "num": 474803,
-      "word": "两个人买四寸蛋糕被老板挂朋友圈",
-      "onboard_time": 1724037019,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 587504,
@@ -787,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 572114,
+      "num": 645629,
+      "word": "遭事业单位集体清退当事人再发声",
+      "onboard_time": 1724036000,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 571683,
       "num": 301827,
       "word": "印尼74岁老太被蟒蛇吞下身亡",
@@ -809,6 +857,14 @@
       "onboard_time": 1723899201,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 554025,
+      "num": 554025,
+      "word": "樊振东赛前和王皓确定了换衣策略",
+      "onboard_time": 1724037079,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 552451,
@@ -905,6 +961,14 @@
       "onboard_time": 1723961658,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 487517,
+      "num": 574203,
+      "word": "刘端端道歉速度赶不上得罪速度",
+      "onboard_time": 1724037861,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 485635,
@@ -1251,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 368663,
+      "num": 368663,
+      "word": "离婚跟拍",
+      "onboard_time": 1724039242,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 368138,
       "num": 368138,
       "word": "富士康回应已婚女性不能组装iPhone",
@@ -1377,14 +1449,6 @@
       "onboard_time": 1723953319,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 335436,
-      "num": 645629,
-      "word": "遭事业单位集体清退当事人再发声",
-      "onboard_time": 1724036000,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 332365,
@@ -1523,14 +1587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 303119,
-      "num": 303119,
-      "word": "25岁的我为什么会有这种思想",
-      "onboard_time": 1724035458,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 300884,
       "num": 300884,
       "word": "黑神话悟空容量",
@@ -1545,14 +1601,6 @@
       "onboard_time": 1723945158,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 296684,
-      "num": 296684,
-      "word": "郑钦文参加中国体育代表团表彰大会",
-      "onboard_time": 1724037741,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 292239,
@@ -1601,6 +1649,14 @@
       "onboard_time": 1723903103,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 287553,
+      "num": 287553,
+      "word": "公司要上四休三降薪1千",
+      "onboard_time": 1724040262,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 285955,
@@ -1675,12 +1731,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 274557,
+      "num": 274557,
+      "word": "瑞幸回应黑神话悟空券核销不了",
+      "onboard_time": 1724038520,
+      "rank": 44,
+      "category": "游戏,美食"
+    },
+    {
+      "raw_hot": 274197,
+      "num": 274197,
+      "word": "蔡徐坤生日新歌",
+      "onboard_time": 1724038880,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 273528,
       "num": 412068,
       "word": "王源是真没把我们当外人",
       "onboard_time": 1723947737,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 273400,
+      "num": 273400,
+      "word": "新版林黛玉",
+      "onboard_time": 1724040981,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 267668,
@@ -1819,14 +1899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 251835,
-      "num": 251835,
-      "word": "樊振东赛前和王皓确定了换衣策略",
-      "onboard_time": 1724037079,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 251758,
       "num": 251758,
       "word": "马嘉祺破音",
@@ -1841,14 +1913,6 @@
       "onboard_time": 1723904664,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248677,
-      "num": 248677,
-      "word": "刘端端道歉速度赶不上得罪速度",
-      "onboard_time": 1724037861,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 247807,
@@ -2003,6 +2067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219811,
+      "num": 219811,
+      "word": "抱脸虫",
+      "onboard_time": 1724041161,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 219704,
       "num": 219704,
       "word": "付航游泳 水猴子",
@@ -2073,6 +2145,14 @@
       "onboard_time": 1723956980,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 212608,
+      "num": 212608,
+      "word": "英国将把极端厌女视为恐怖主义",
+      "onboard_time": 1724041343,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212604,
@@ -2163,6 +2243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206549,
+      "num": 206549,
+      "word": "孙颖莎从开幕战斗到闭幕",
+      "onboard_time": 1724038581,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205072,
       "num": 205072,
       "word": "时代少年团战至巅峰下周预告",
@@ -2203,6 +2291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203892,
+      "num": 203892,
+      "word": "当我脑抽买了45个龟儿子",
+      "onboard_time": 1724041401,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 203863,
       "num": 203863,
       "word": "鞠婧祎杂志",
@@ -2240,6 +2336,14 @@
       "word": "KPL梦之队要发新歌了",
       "onboard_time": 1723959139,
       "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 200643,
+      "num": 200643,
+      "word": "2024LPL",
+      "onboard_time": 1724039420,
+      "rank": 49,
       "category": "电竞"
     },
     {
@@ -2403,14 +2507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184720,
-      "num": 184720,
-      "word": "瑞幸回应黑神话悟空券核销不了",
-      "onboard_time": 1724038520,
-      "rank": 44,
-      "category": "游戏,美食"
-    },
-    {
       "raw_hot": 184628,
       "num": 184628,
       "word": "黑神话悟空倒计时1天",
@@ -2465,14 +2561,6 @@
       "onboard_time": 1724038221,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 180589,
-      "num": 180589,
-      "word": "孙颖莎从开幕战斗到闭幕",
-      "onboard_time": 1724038581,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 180584,
@@ -3347,12 +3435,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116494,
+      "num": 359187,
+      "word": "密室大逃脱",
+      "onboard_time": 1724040142,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115653,
       "num": 115653,
       "word": "王勉越努力越心酸",
       "onboard_time": 1723972941,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113263,
+      "num": 339134,
+      "word": "王阳明拒绝和粉丝比爱心",
+      "onboard_time": 1724040981,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 112821,
@@ -3411,6 +3515,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 105834,
+      "num": 727907,
+      "word": "小鹏MONA开起来像20万以上的车",
+      "onboard_time": 1724036839,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 103829,
       "num": 103829,
       "word": "陈芋汐一天称十次体重",
@@ -3425,6 +3537,14 @@
       "onboard_time": 1723913777,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 102743,
+      "num": 735299,
+      "word": "33岁保安值夜班猝死家属发声",
+      "onboard_time": 1724040081,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101739,
@@ -3467,6 +3587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89874,
+      "num": 1143845,
+      "word": "2024最美医生发布",
+      "onboard_time": 1724040382,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89828,
       "num": 193731,
       "word": "佟丽娅说妈妈就是超人",
@@ -3489,6 +3617,14 @@
       "onboard_time": 1724023517,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86154,
+      "num": 730994,
+      "word": "因星座与工作不符求职被拒",
+      "onboard_time": 1724040021,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85223,
@@ -3588,7 +3724,7 @@
     },
     {
       "raw_hot": 70928,
-      "num": 614099,
+      "num": 733426,
       "word": "为什么医生都爱沃尔沃",
       "onboard_time": 1724037680,
       "rank": 45,
@@ -3617,14 +3753,6 @@
       "onboard_time": 1723964420,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 67060,
-      "num": 561280,
-      "word": "小鹏MONA开起来像20万以上的车",
-      "onboard_time": 1724036839,
-      "rank": 33,
-      "category": "汽车"
     },
     {
       "raw_hot": 66630,
@@ -3723,6 +3851,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 52456,
+      "num": 729206,
+      "word": "饿了么联动魔兽世界发免单",
+      "onboard_time": 1724040021,
+      "rank": 14,
+      "category": "互联网,游戏"
+    },
+    {
       "raw_hot": 51489,
       "num": 51489,
       "word": "黄子弘凡男大唱情歌好深情",
@@ -3793,6 +3929,14 @@
       "onboard_time": 1723970480,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37301,
+      "num": 496789,
+      "word": "余承东称全民智驾时代来了",
+      "onboard_time": 1724039780,
+      "rank": 23,
+      "category": "汽车"
     },
     {
       "raw_hot": 37154,
