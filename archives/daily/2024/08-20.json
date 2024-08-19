@@ -1,6 +1,6 @@
 {
   "startTime": 1724084701164,
-  "endTime": 1724096177950,
+  "endTime": 1724098888673,
   "band_list": [
     {
       "raw_hot": 1218741,
@@ -339,6 +339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117463,
+      "num": 117463,
+      "word": "张昊唯 孝出强大",
+      "onboard_time": 1724096952,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114958,
       "num": 114958,
       "word": "陈艺文 终于见到孩子了",
@@ -427,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66871,
+      "num": 81521,
+      "word": "蔬菜水果为什么突然变贵了",
+      "onboard_time": 1724093533,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57648,
       "num": 110013,
       "word": "一起看今年首个超级月亮",
@@ -457,14 +473,6 @@
       "onboard_time": 1724088374,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 45277,
-      "num": 81521,
-      "word": "蔬菜水果为什么突然变贵了",
-      "onboard_time": 1724093533,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44300,
@@ -499,12 +507,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32919,
+      "num": 32919,
+      "word": "A股",
+      "onboard_time": 1724096412,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 30906,
       "num": 32656,
       "word": "56岁女子边打工边写作4年写20万字",
       "onboard_time": 1724088255,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28612,
+      "num": 28612,
+      "word": "华谊兄弟4天暴涨43%",
+      "onboard_time": 1724096171,
+      "rank": 32,
+      "category": "游戏,财经"
     },
     {
       "raw_hot": 25507,
@@ -515,7 +539,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16513,
+      "raw_hot": 21739,
       "num": 72376,
       "word": "身高不足1米村医携手妻子守护全村",
       "onboard_time": 1724095752,
