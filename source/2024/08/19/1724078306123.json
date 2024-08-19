@@ -1,0 +1,410 @@
+{
+  "runTime": 1724078306123,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2749018,
+        "num": 2749018,
+        "word": "女子迪士尼上厕所超时崩溃大哭",
+        "onboard_time": 1724075061,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2012756,
+        "num": 2012756,
+        "word": "女教师遭网课爆破后猝死一案已宣判",
+        "onboard_time": 1724071824,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64439,
+        "num": 1803800,
+        "word": "我国盾构水下掘进深度破世界纪录",
+        "onboard_time": 1724076262,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1760339,
+        "num": 1760339,
+        "word": "刘雨辰回应退出国家队",
+        "onboard_time": 1724074521,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1324443,
+        "num": 1324443,
+        "word": "张昊唯 把小姐笼络起来",
+        "onboard_time": 1724055439,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1176085,
+        "num": 1176085,
+        "word": "张昊唯报警",
+        "onboard_time": 1724062222,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1025949,
+        "num": 1025949,
+        "word": "网易云 没有删库没有跑路",
+        "onboard_time": 1724060422,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 984324,
+        "num": 984324,
+        "word": "全红婵说拿了金牌后也不是特别开心",
+        "onboard_time": 1724067861,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 437583,
+        "num": 900139,
+        "word": "印度出现水泥做的假大蒜",
+        "onboard_time": 1724061202,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289023,
+        "num": 878020,
+        "word": "银行为什么出现离职潮",
+        "onboard_time": 1724076441,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1853374,
+        "num": 876007,
+        "word": "印度2岁女童惨遭已婚男子强奸",
+        "onboard_time": 1724070200,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 871966,
+        "num": 871966,
+        "word": "普京突然出国",
+        "onboard_time": 1724069721,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 827685,
+        "num": 827685,
+        "word": "张昊唯称被一个团伙盯上",
+        "onboard_time": 1724057722,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 800785,
+        "num": 800785,
+        "word": "女子怀孕6个月在飞机厕所突然分娩",
+        "onboard_time": 1724064980,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113741,
+        "num": 708405,
+        "word": "网易云音乐故障真相",
+        "onboard_time": 1724076082,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 684095,
+        "num": 684095,
+        "word": "男爱豆签售上问女粉电话号码",
+        "onboard_time": 1724064443,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 678520,
+        "num": 678520,
+        "word": "银行人正在集体出走",
+        "onboard_time": 1724068821,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535214,
+        "num": 535214,
+        "word": "武艺 第一个吃榴莲的人到底怎么想的",
+        "onboard_time": 1724074641,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 478966,
+        "num": 478966,
+        "word": "海底捞回应顾客店内自制腐竹",
+        "onboard_time": 1724063900,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388599,
+        "num": 446069,
+        "word": "曾舜晞年纪上来了尺度下去了",
+        "onboard_time": 1724072061,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 428445,
+        "num": 428445,
+        "word": "孙杨回归",
+        "onboard_time": 1724066361,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 377399,
+        "num": 377399,
+        "word": "网易云音乐补偿7天会员",
+        "onboard_time": 1724061922,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 363244,
+        "num": 363244,
+        "word": "黑神话悟空预售超4亿",
+        "onboard_time": 1724072186,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 350502,
+        "num": 350502,
+        "word": "王楚钦看了都一愣",
+        "onboard_time": 1724068521,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 344578,
+        "num": 344578,
+        "word": "原来真有人命好的一塌糊涂",
+        "onboard_time": 1724076021,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 44039,
+        "num": 343782,
+        "word": "外国玩家为玩黑神话恶补西游记",
+        "onboard_time": 1724077822,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 329230,
+        "num": 342585,
+        "word": "詹雯婷翻唱阿桑一直很安静",
+        "onboard_time": 1724073560,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 312238,
+        "num": 340268,
+        "word": "王俊凯 清华也是我小时候的梦想",
+        "onboard_time": 1724076441,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 301789,
+        "num": 338237,
+        "word": "全红婵亮相刺猬首映礼",
+        "onboard_time": 1724078061,
+        "rank": 28,
+        "category": "电影,体育"
+      },
+      {
+        "raw_hot": 134116,
+        "num": 335474,
+        "word": "花花荡秋千用脸刹车",
+        "onboard_time": 1724076322,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 335101,
+        "num": 335101,
+        "word": "台风格美致湖南资兴50人遇难",
+        "onboard_time": 1724074760,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311779,
+        "num": 311779,
+        "word": "印度女博主揭露实习医生被奸杀细节",
+        "onboard_time": 1724060422,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257099,
+        "num": 257099,
+        "word": "江苏宿迁15万斤阳光玫瑰滞销",
+        "onboard_time": 1724064621,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249209,
+        "num": 249209,
+        "word": "泰国人妖骗73名日本人超500万",
+        "onboard_time": 1724062944,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246440,
+        "num": 246440,
+        "word": "enhypen舞台态度被审判",
+        "onboard_time": 1724077461,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 246124,
+        "num": 246124,
+        "word": "拇指西瓜卖80元一斤是智商税吗",
+        "onboard_time": 1724071160,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232436,
+        "num": 232436,
+        "word": "超级月亮",
+        "onboard_time": 1724066840,
+        "rank": 36,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 231800,
+        "num": 231800,
+        "word": "王俊凯我妈的文学是什么",
+        "onboard_time": 1724077344,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 223601,
+        "num": 223601,
+        "word": "黑神话要卖到300万份才能回本",
+        "onboard_time": 1724061443,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 219354,
+        "num": 219354,
+        "word": "男主什么都问了就忘了问性别",
+        "onboard_time": 1724071406,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216886,
+        "num": 216886,
+        "word": "孙颖莎微博粉丝破700万",
+        "onboard_time": 1724076621,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217461,
+        "num": 216229,
+        "word": "柳眠棠的声线都变了",
+        "onboard_time": 1724072304,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213759,
+        "num": 213759,
+        "word": "阴阳师",
+        "onboard_time": 1724078003,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106562,
+        "num": 212402,
+        "word": "劳动仲裁经历不能成为求职者的污点",
+        "onboard_time": 1724076082,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212196,
+        "num": 212196,
+        "word": "韩国漫画奥运游泳200米的排名",
+        "onboard_time": 1724072061,
+        "rank": 44,
+        "category": "体育,动漫"
+      },
+      {
+        "raw_hot": 200004,
+        "num": 200004,
+        "word": "贞观发文称女孩饿死在公寓确认真实",
+        "onboard_time": 1724075930,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197646,
+        "num": 197646,
+        "word": "套内28平米的复式loft小家",
+        "onboard_time": 1724077581,
+        "rank": 46,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 171386,
+        "num": 171386,
+        "word": "王楠送国乒奥运冠军金牌曝光",
+        "onboard_time": 1724060182,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166761,
+        "num": 166761,
+        "word": "jisoo泡泡",
+        "onboard_time": 1724075542,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159786,
+        "num": 159786,
+        "word": "柳舟记 史密斯夫妇",
+        "onboard_time": 1724072121,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同苏林共同出席合作文件签字仪式#"
+    }
+  }
+}
