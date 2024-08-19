@@ -1,0 +1,410 @@
+{
+  "runTime": 1724060135646,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8851692,
+        "num": 8851692,
+        "word": "张昊唯 把小姐笼络起来",
+        "onboard_time": 1724055439,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 4887928,
+        "num": 4887928,
+        "word": "网易云音乐崩了",
+        "onboard_time": 1724050040,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 67406,
+        "num": 2939852,
+        "word": "前7个月超1725万人次外国人来华",
+        "onboard_time": 1724052921,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6335393,
+        "num": 2086835,
+        "word": "张昊唯称被一个团伙盯上",
+        "onboard_time": 1724057722,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1064384,
+        "num": 1064384,
+        "word": "日本靖国神社石柱又被涂鸦",
+        "onboard_time": 1724054061,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 941854,
+        "num": 941854,
+        "word": "女子称一女童撞脸女儿要求亲子鉴定",
+        "onboard_time": 1724055021,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 813069,
+        "num": 813069,
+        "word": "网易云音乐称基础设施故障",
+        "onboard_time": 1724053520,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 667691,
+        "num": 667691,
+        "word": "NMIXX回归",
+        "onboard_time": 1724058622,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 664599,
+        "num": 664599,
+        "word": "男子18楼肉身撞窗测试质量",
+        "onboard_time": 1724053700,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568710,
+        "num": 568710,
+        "word": "上海一展会低俗涉黄手办吓坏家长",
+        "onboard_time": 1724049260,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3670970,
+        "num": 568369,
+        "word": "张昊唯甚至还想开青楼",
+        "onboard_time": 1724056342,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 548901,
+        "num": 548901,
+        "word": "黑神话证明男性购买力",
+        "onboard_time": 1724056943,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 518968,
+        "num": 518968,
+        "word": "钱多多",
+        "onboard_time": 1724058802,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447937,
+        "num": 447937,
+        "word": "马龙孙颖莎等国乒队员访港行程敲定",
+        "onboard_time": 1724059822,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 411389,
+        "num": 411389,
+        "word": "庆余年",
+        "onboard_time": 1724055622,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 360422,
+        "num": 360422,
+        "word": "网易云音乐",
+        "onboard_time": 1724056821,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 341450,
+        "num": 341450,
+        "word": "陌生男袒胸露肉亲小女孩妈妈报警",
+        "onboard_time": 1724051000,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316465,
+        "num": 316465,
+        "word": "爸爸忘拉手刹俩孩子随车冲进鱼塘",
+        "onboard_time": 1724045780,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314233,
+        "num": 314233,
+        "word": "两个人买四寸蛋糕被老板挂朋友圈",
+        "onboard_time": 1724037019,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 282657,
+        "num": 282657,
+        "word": "黑神话每小时开发成本至少1500万元",
+        "onboard_time": 1724056521,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 285617,
+        "num": 275886,
+        "word": "刚同居女朋友不愿意AA制",
+        "onboard_time": 1724043443,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 256687,
+        "num": 256687,
+        "word": "袜和祙是两个不同的字",
+        "onboard_time": 1724050400,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 255146,
+        "num": 255146,
+        "word": "公司要上四休三降薪1千",
+        "onboard_time": 1724040262,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231809,
+        "num": 231809,
+        "word": "外交部回应菲律宾侵闯仙宾礁",
+        "onboard_time": 1724054600,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226149,
+        "num": 226149,
+        "word": "结婚不用户口本我妈让我上交身份证",
+        "onboard_time": 1724053221,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211612,
+        "num": 211612,
+        "word": "浙大开学机器狗帮新生拿行李",
+        "onboard_time": 1724056281,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210320,
+        "num": 210320,
+        "word": "王俊凯给黄雅琼刘雨辰送祝福",
+        "onboard_time": 1724059763,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 208321,
+        "num": 208321,
+        "word": "怀疑了一圈就是没怀疑网易云",
+        "onboard_time": 1724053459,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 202130,
+        "num": 202130,
+        "word": "几年不见TFBOYS变化这么大",
+        "onboard_time": 1724047520,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192141,
+        "num": 199185,
+        "word": "异形 恶心",
+        "onboard_time": 1724046859,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198649,
+        "num": 198649,
+        "word": "网易云称故障与机房无关",
+        "onboard_time": 1724058561,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 194226,
+        "num": 194226,
+        "word": "生活在小县城的人嘴真严",
+        "onboard_time": 1724059223,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186987,
+        "num": 193998,
+        "word": "侧方停车真的那么难吗",
+        "onboard_time": 1724054660,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 193838,
+        "num": 193838,
+        "word": "警方回应网文称女子饿死在出租屋",
+        "onboard_time": 1724048303,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139254,
+        "num": 192577,
+        "word": "离婚后宠物跟爸还是跟妈",
+        "onboard_time": 1724053700,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191778,
+        "num": 191778,
+        "word": "菲律宾用无人机对中方进行间谍侦照",
+        "onboard_time": 1724056221,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185404,
+        "num": 185404,
+        "word": "赵丽颖好帅",
+        "onboard_time": 1724037258,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185403,
+        "num": 185403,
+        "word": "吴宣仪晒狐妖三代合照",
+        "onboard_time": 1724057664,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83273,
+        "num": 182561,
+        "word": "露营基地突发洪水多人被水流冲走",
+        "onboard_time": 1724058083,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181980,
+        "num": 181980,
+        "word": "印度女医生",
+        "onboard_time": 1724046799,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 176239,
+        "num": 176239,
+        "word": "杨旭文体重140斤都被抱起来了",
+        "onboard_time": 1724053400,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172551,
+        "num": 172551,
+        "word": "王俊凯出道十一年最大尺度",
+        "onboard_time": 1724052621,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170519,
+        "num": 170519,
+        "word": "黑神话刷新Steam预下载记录",
+        "onboard_time": 1724056582,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169936,
+        "num": 169936,
+        "word": "刊文账号回应外地女孩死在出租公寓",
+        "onboard_time": 1724057362,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169811,
+        "num": 169811,
+        "word": "蜀锦人家",
+        "onboard_time": 1724056821,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165397,
+        "num": 165397,
+        "word": "央视揭钓鱼赌博套路",
+        "onboard_time": 1724059703,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163908,
+        "num": 163908,
+        "word": "多家公司明日放假",
+        "onboard_time": 1724060062,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153787,
+        "num": 153787,
+        "word": "爱情有烟火",
+        "onboard_time": 1724059463,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150944,
+        "num": 150944,
+        "word": "全红婵说到了发育关才知道芋汐的难",
+        "onboard_time": 1724031859,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149555,
+        "num": 149555,
+        "word": "发了一条朋友圈搭上了20万元",
+        "onboard_time": 1724033718,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同苏林共同出席合作文件签字仪式#"
+    }
+  }
+}
