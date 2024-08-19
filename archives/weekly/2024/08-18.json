@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724049744462,
+  "endTime": 1724052037557,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -9,6 +9,22 @@
       "onboard_time": 1723991360,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 8201067,
+      "num": 8201067,
+      "word": "网易云音乐崩了",
+      "onboard_time": 1724050040,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 3676887,
+      "num": 3676887,
+      "word": "张昊唯被曝涉嫌税务问题",
+      "onboard_time": 1724049981,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 3310174,
@@ -33,6 +49,14 @@
       "onboard_time": 1723947919,
       "rank": 15,
       "category": "美食"
+    },
+    {
+      "raw_hot": 2946750,
+      "num": 717086,
+      "word": "张昊唯录音",
+      "onboard_time": 1724050341,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 2903140,
@@ -403,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1053541,
+      "num": 515369,
+      "word": "黄一鸣女儿会叫爸爸了",
+      "onboard_time": 1724049260,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1038790,
       "num": 1038790,
       "word": "神的银牌已工伤",
@@ -481,6 +513,14 @@
       "onboard_time": 1723961479,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 979900,
+      "num": 979900,
+      "word": "上海一展会低俗涉黄手办吓坏家长",
+      "onboard_time": 1724049260,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 979629,
@@ -1235,6 +1275,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 436746,
+      "num": 244052,
+      "word": "又是张昊唯",
+      "onboard_time": 1724051240,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 433209,
       "num": 433209,
       "word": "刘惜君金发",
@@ -1507,6 +1555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357040,
+      "num": 357040,
+      "word": "袜和祙是两个不同的字",
+      "onboard_time": 1724050400,
+      "rank": 21,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 355110,
       "num": 512134,
       "word": "台湾海峡海上巡航执法行动",
@@ -1553,14 +1609,6 @@
       "onboard_time": 1723995560,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 342787,
-      "num": 342787,
-      "word": "黄一鸣女儿会叫爸爸了",
-      "onboard_time": 1724049260,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 340765,
@@ -1633,14 +1681,6 @@
       "onboard_time": 1723936875,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 324174,
-      "num": 324174,
-      "word": "上海一展会低俗涉黄手办吓坏家长",
-      "onboard_time": 1724049260,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 320674,
@@ -1729,6 +1769,14 @@
       "onboard_time": 1724048662,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 307563,
+      "num": 307563,
+      "word": "陌生男袒胸露肉亲小女孩妈妈报警",
+      "onboard_time": 1724051000,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 307015,
@@ -1963,6 +2011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 263703,
+      "num": 686221,
+      "word": "警方回应网文称女子饿死在出租屋",
+      "onboard_time": 1724048303,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263695,
       "num": 263695,
       "word": "18省区市将有大到暴雨",
@@ -2080,6 +2136,14 @@
       "word": "得知相恋7年女友重病男子取消婚约",
       "onboard_time": 1723904664,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249089,
+      "num": 249089,
+      "word": "网文女孩饿死在出租屋被质疑不实",
+      "onboard_time": 1724049680,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -2249,6 +2313,14 @@
       "onboard_time": 1724042301,
       "rank": 42,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 224817,
+      "num": 645954,
+      "word": "一个四十多岁女性的20年相亲史",
+      "onboard_time": 1724049079,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224256,
@@ -2531,6 +2603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 202912,
+      "num": 202912,
+      "word": "徐卓一是王楚钦的采访粉",
+      "onboard_time": 1724051840,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202384,
       "num": 202384,
       "word": "婚后女生管钱和男生管钱的区别",
@@ -2601,6 +2681,14 @@
       "onboard_time": 1723953379,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196245,
+      "num": 196245,
+      "word": "鞠婧祎更新自拍",
+      "onboard_time": 1724051060,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 196225,
@@ -2681,14 +2769,6 @@
       "onboard_time": 1723986980,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189625,
-      "num": 686221,
-      "word": "警方回应网文称女子饿死在出租屋",
-      "onboard_time": 1724048303,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189530,
@@ -2867,14 +2947,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 175689,
-      "num": 175689,
-      "word": "网文女孩饿死在出租屋被质疑不实",
-      "onboard_time": 1724049680,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174410,
       "num": 174410,
       "word": "江苏盐城发生3.4级地震",
@@ -2907,12 +2979,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 172026,
+      "num": 172026,
+      "word": "30岁已经没有人联系我了",
+      "onboard_time": 1724051721,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 171002,
       "num": 171002,
       "word": "得闲谨制",
       "onboard_time": 1723989020,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 170597,
+      "num": 170597,
+      "word": "北大教授称要给400万医生体面收入",
+      "onboard_time": 1724051840,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170522,
@@ -2985,6 +3073,14 @@
       "onboard_time": 1724040981,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 166656,
+      "num": 166656,
+      "word": "电影失孤原型案二审",
+      "onboard_time": 1724051181,
+      "rank": 48,
+      "category": "社会新闻,电影"
     },
     {
       "raw_hot": 166370,
@@ -3225,6 +3321,14 @@
       "onboard_time": 1723979480,
       "rank": 47,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 155365,
+      "num": 155365,
+      "word": "当猫咪看到经常投喂它的路人时",
+      "onboard_time": 1724051780,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 155006,
@@ -3868,7 +3972,7 @@
     },
     {
       "raw_hot": 98206,
-      "num": 1231037,
+      "num": 2154341,
       "word": "2024最美医生发布",
       "onboard_time": 1724040382,
       "rank": 2,
@@ -3961,14 +4065,6 @@
       "onboard_time": 1724023155,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 78982,
-      "num": 645954,
-      "word": "一个四十多岁女性的20年相亲史",
-      "onboard_time": 1724049079,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 78696,
@@ -4065,6 +4161,14 @@
       "onboard_time": 1723916355,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 68940,
+      "num": 558981,
+      "word": "鬼秤称重显示可高出实际重量60%",
+      "onboard_time": 1724050819,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 68883,
@@ -4219,6 +4323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49896,
+      "num": 674614,
+      "word": "给医生多一份守护和理解",
+      "onboard_time": 1724047701,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49582,
       "num": 338057,
       "word": "您守护世界我守护您",
@@ -4265,14 +4377,6 @@
       "onboard_time": 1723910480,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 38391,
-      "num": 674614,
-      "word": "给医生多一份守护和理解",
-      "onboard_time": 1724047701,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38061,
@@ -4336,6 +4440,14 @@
       "word": "万亩梯田尽染金黄丰景入画来",
       "onboard_time": 1723948038,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27269,
+      "num": 480762,
+      "word": "多地捣毁改装销售鬼秤窝点",
+      "onboard_time": 1724050880,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -4445,6 +4557,9 @@
     },
     {
       "word": "#习近平同苏林会谈#"
+    },
+    {
+      "word": "#习近平为苏林举行欢迎仪式#"
     }
   ]
 }

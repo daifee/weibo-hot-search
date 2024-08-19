@@ -1,7 +1,15 @@
 {
   "startTime": 1723998199428,
-  "endTime": 1724049744462,
+  "endTime": 1724052037557,
   "band_list": [
+    {
+      "raw_hot": 8201067,
+      "num": 8201067,
+      "word": "网易云音乐崩了",
+      "onboard_time": 1724050040,
+      "rank": 0,
+      "category": "互联网"
+    },
     {
       "raw_hot": 5870597,
       "num": 5870597,
@@ -9,6 +17,22 @@
       "onboard_time": 1723991360,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3676887,
+      "num": 3676887,
+      "word": "张昊唯被曝涉嫌税务问题",
+      "onboard_time": 1724049981,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2946750,
+      "num": 717086,
+      "word": "张昊唯录音",
+      "onboard_time": 1724050341,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 2903140,
@@ -163,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1053541,
+      "num": 515369,
+      "word": "黄一鸣女儿会叫爸爸了",
+      "onboard_time": 1724049260,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1025467,
       "num": 732278,
       "word": "迪丽热巴金九",
@@ -185,6 +217,14 @@
       "onboard_time": 1724043560,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 979900,
+      "num": 979900,
+      "word": "上海一展会低俗涉黄手办吓坏家长",
+      "onboard_time": 1724049260,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 977315,
@@ -475,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 436746,
+      "num": 244052,
+      "word": "又是张昊唯",
+      "onboard_time": 1724051240,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 422655,
       "num": 422655,
       "word": "易烊千玺Golden Goose",
@@ -579,20 +627,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357040,
+      "num": 357040,
+      "word": "袜和祙是两个不同的字",
+      "onboard_time": 1724050400,
+      "rank": 21,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 347347,
       "num": 347347,
       "word": "樊振东低谷时看足球赛激励自己",
       "onboard_time": 1723995560,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 342787,
-      "num": 342787,
-      "word": "黄一鸣女儿会叫爸爸了",
-      "onboard_time": 1724049260,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 340765,
@@ -617,14 +665,6 @@
       "onboard_time": 1724026999,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 324174,
-      "num": 324174,
-      "word": "上海一展会低俗涉黄手办吓坏家长",
-      "onboard_time": 1724049260,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 320674,
@@ -681,6 +721,14 @@
       "onboard_time": 1724048662,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 307563,
+      "num": 307563,
+      "word": "陌生男袒胸露肉亲小女孩妈妈报警",
+      "onboard_time": 1724051000,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 304492,
@@ -771,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263703,
+      "num": 686221,
+      "word": "警方回应网文称女子饿死在出租屋",
+      "onboard_time": 1724048303,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257556,
       "num": 257556,
       "word": "小区门口开殡葬店遭业主抵制",
@@ -792,6 +848,14 @@
       "word": "95后女交警史杰执勤时被撞牺牲",
       "onboard_time": 1724027900,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249089,
+      "num": 249089,
+      "word": "网文女孩饿死在出租屋被质疑不实",
+      "onboard_time": 1724049680,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -891,6 +955,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 224817,
+      "num": 645954,
+      "word": "一个四十多岁女性的20年相亲史",
+      "onboard_time": 1724049079,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218071,
       "num": 218071,
       "word": "国羽大家庭 团魂",
@@ -987,6 +1059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 202912,
+      "num": 202912,
+      "word": "徐卓一是王楚钦的采访粉",
+      "onboard_time": 1724051840,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200643,
       "num": 200643,
       "word": "2024LPL",
@@ -1001,6 +1081,14 @@
       "onboard_time": 1724042900,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 196245,
+      "num": 196245,
+      "word": "鞠婧祎更新自拍",
+      "onboard_time": 1724051060,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 196225,
@@ -1033,14 +1121,6 @@
       "onboard_time": 1723990400,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 189625,
-      "num": 686221,
-      "word": "警方回应网文称女子饿死在出租屋",
-      "onboard_time": 1724048303,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189530,
@@ -1131,20 +1211,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 175689,
-      "num": 175689,
-      "word": "网文女孩饿死在出租屋被质疑不实",
-      "onboard_time": 1724049680,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174251,
       "num": 410547,
       "word": "于正解释新艺人名字",
       "onboard_time": 1723989200,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172026,
+      "num": 172026,
+      "word": "30岁已经没有人联系我了",
+      "onboard_time": 1724051721,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 170597,
+      "num": 170597,
+      "word": "北大教授称要给400万医生体面收入",
+      "onboard_time": 1724051840,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170522,
@@ -1193,6 +1281,14 @@
       "onboard_time": 1724040981,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 166656,
+      "num": 166656,
+      "word": "电影失孤原型案二审",
+      "onboard_time": 1724051181,
+      "rank": 48,
+      "category": "社会新闻,电影"
     },
     {
       "raw_hot": 165544,
@@ -1265,6 +1361,14 @@
       "onboard_time": 1724025140,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155365,
+      "num": 155365,
+      "word": "当猫咪看到经常投喂它的路人时",
+      "onboard_time": 1724051780,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 151968,
@@ -1508,7 +1612,7 @@
     },
     {
       "raw_hot": 98206,
-      "num": 1231037,
+      "num": 2154341,
       "word": "2024最美医生发布",
       "onboard_time": 1724040382,
       "rank": 2,
@@ -1595,14 +1699,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 78982,
-      "num": 645954,
-      "word": "一个四十多岁女性的20年相亲史",
-      "onboard_time": 1724049079,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 78696,
       "num": 761660,
       "word": "起底涉案资金过亿的社区书记",
@@ -1641,6 +1737,14 @@
       "onboard_time": 1724037680,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 68940,
+      "num": 558981,
+      "word": "鬼秤称重显示可高出实际重量60%",
+      "onboard_time": 1724050819,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66231,
@@ -1715,6 +1819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 49896,
+      "num": 674614,
+      "word": "给医生多一份守护和理解",
+      "onboard_time": 1724047701,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49582,
       "num": 338057,
       "word": "您守护世界我守护您",
@@ -1755,14 +1867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38391,
-      "num": 674614,
-      "word": "给医生多一份守护和理解",
-      "onboard_time": 1724047701,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 32967,
       "num": 295503,
       "word": "不下赛道怎么造好车",
@@ -1785,6 +1889,14 @@
       "onboard_time": 1724019071,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 27269,
+      "num": 480762,
+      "word": "多地捣毁改装销售鬼秤窝点",
+      "onboard_time": 1724050880,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27041,
@@ -1868,6 +1980,9 @@
     },
     {
       "word": "#习近平同苏林会谈#"
+    },
+    {
+      "word": "#习近平为苏林举行欢迎仪式#"
     }
   ]
 }
