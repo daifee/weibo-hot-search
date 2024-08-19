@@ -1,0 +1,410 @@
+{
+  "runTime": 1724038637643,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2134428,
+        "num": 2134428,
+        "word": "全红婵说到了发育关才知道芋汐的难",
+        "onboard_time": 1724031859,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1518789,
+        "num": 1518789,
+        "word": "发了一条朋友圈搭上了20万元",
+        "onboard_time": 1724033718,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8561,
+        "num": 1389054,
+        "word": "神十八乘组太空出差中的轻松时刻",
+        "onboard_time": 1723958300,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1352066,
+        "num": 1352066,
+        "word": "李乃文即日起更名于和伟",
+        "onboard_time": 1724036839,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1344086,
+        "num": 1344086,
+        "word": "为了不回信息在微信演了两年尸体",
+        "onboard_time": 1724030479,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 944340,
+        "num": 944340,
+        "word": "迪丽热巴 黄金时代",
+        "onboard_time": 1724035038,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 721634,
+        "num": 721634,
+        "word": "女子称三万买的手机太卡第二天想退",
+        "onboard_time": 1724026999,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 709442,
+        "num": 709442,
+        "word": "苏林访华",
+        "onboard_time": 1724036119,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 661968,
+        "num": 661968,
+        "word": "樊振东回应换衣服后逆转张本智和",
+        "onboard_time": 1724033179,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290951,
+        "num": 645629,
+        "word": "遭事业单位集体清退当事人再发声",
+        "onboard_time": 1724036000,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645337,
+        "num": 645337,
+        "word": "iPhone16Pro四款配色",
+        "onboard_time": 1724027239,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 70928,
+        "num": 614099,
+        "word": "为什么医生都爱沃尔沃",
+        "onboard_time": 1724037680,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 609160,
+        "num": 609160,
+        "word": "capper恋爱",
+        "onboard_time": 1724035638,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 604253,
+        "num": 604253,
+        "word": "赵丽颖好帅",
+        "onboard_time": 1724037258,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 566975,
+        "num": 566975,
+        "word": "张远录制披荆斩棘受伤",
+        "onboard_time": 1724036898,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46591,
+        "num": 561280,
+        "word": "小鹏MONA开起来像20万以上的车",
+        "onboard_time": 1724036839,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 560316,
+        "num": 560316,
+        "word": "终于有剧一眼看出女扮男装了",
+        "onboard_time": 1724025378,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 542084,
+        "num": 542084,
+        "word": "每天睡六小时和八小时的区别",
+        "onboard_time": 1724028500,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 489430,
+        "num": 489430,
+        "word": "男狐狸精请按这个标准卷",
+        "onboard_time": 1724028559,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 486416,
+        "num": 486416,
+        "word": "网友总结少年白马醉春风大扑七宗罪",
+        "onboard_time": 1724035879,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 601549,
+        "num": 474803,
+        "word": "两个人买四寸蛋糕被老板挂朋友圈",
+        "onboard_time": 1724037019,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 450877,
+        "num": 450877,
+        "word": "迪丽热巴杂志销量",
+        "onboard_time": 1724035760,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 449595,
+        "num": 449595,
+        "word": "樊振东回应退役传闻",
+        "onboard_time": 1723991360,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373239,
+        "num": 373239,
+        "word": "中方回应菲船只故意冲撞我海警舰艇",
+        "onboard_time": 1724026219,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 371127,
+        "num": 371127,
+        "word": "全红婵说两届金牌都自己拿不是很开心",
+        "onboard_time": 1724005512,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355975,
+        "num": 355975,
+        "word": "因为给男朋友买衣服吵架了",
+        "onboard_time": 1724030479,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 322313,
+        "num": 322313,
+        "word": "富士康回应已婚女性不能组装iPhone",
+        "onboard_time": 1724035818,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 316733,
+        "num": 316733,
+        "word": "人民网评汝州41人事业编被集体清退",
+        "onboard_time": 1724034619,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303119,
+        "num": 303119,
+        "word": "25岁的我为什么会有这种思想",
+        "onboard_time": 1724035458,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 296684,
+        "num": 296684,
+        "word": "郑钦文参加中国体育代表团表彰大会",
+        "onboard_time": 1724037741,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291735,
+        "num": 291735,
+        "word": "致敬医师节",
+        "onboard_time": 1724032038,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278684,
+        "num": 278684,
+        "word": "间谍利用大学生拍涉密科研基地照片",
+        "onboard_time": 1724027180,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267161,
+        "num": 267161,
+        "word": "肖战欧莱雅",
+        "onboard_time": 1724037141,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251835,
+        "num": 251835,
+        "word": "樊振东赛前和王皓确定了换衣策略",
+        "onboard_time": 1724037079,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248677,
+        "num": 248677,
+        "word": "刘端端道歉速度赶不上得罪速度",
+        "onboard_time": 1724037861,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240979,
+        "num": 240979,
+        "word": "劳动仲裁怎么成了求职污点",
+        "onboard_time": 1724032399,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226041,
+        "num": 226041,
+        "word": "郑钦文回国",
+        "onboard_time": 1724037800,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224227,
+        "num": 224227,
+        "word": "第7个中国医师节",
+        "onboard_time": 1724027419,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218071,
+        "num": 218071,
+        "word": "国羽大家庭 团魂",
+        "onboard_time": 1724036898,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203863,
+        "num": 203863,
+        "word": "鞠婧祎杂志",
+        "onboard_time": 1724037920,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 199014,
+        "num": 199014,
+        "word": "过期护发素不要扔",
+        "onboard_time": 1724030898,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 198462,
+        "num": 198462,
+        "word": "李佳琦在自己直播间办了披哥1.5公",
+        "onboard_time": 1723992501,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189619,
+        "num": 189619,
+        "word": "陈芋汐回应去读大学",
+        "onboard_time": 1723995201,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185685,
+        "num": 185685,
+        "word": "菲律宾",
+        "onboard_time": 1724024598,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 184720,
+        "num": 184720,
+        "word": "瑞幸回应黑神话悟空券核销不了",
+        "onboard_time": 1724038520,
+        "rank": 44,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 184628,
+        "num": 184628,
+        "word": "黑神话悟空倒计时1天",
+        "onboard_time": 1724038100,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183397,
+        "num": 183397,
+        "word": "陈芋汐说没有全红婵不会达到这么高的水平",
+        "onboard_time": 1724036779,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182869,
+        "num": 182869,
+        "word": "打开朋友圈发现大家都不用上班",
+        "onboard_time": 1724033237,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181350,
+        "num": 181350,
+        "word": "痣长在这3个位置增加癌变风险",
+        "onboard_time": 1724038221,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 180589,
+        "num": 180589,
+        "word": "孙颖莎从开幕战斗到闭幕",
+        "onboard_time": 1724038581,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记深情寄语医务工作者#"
+    }
+  }
+}

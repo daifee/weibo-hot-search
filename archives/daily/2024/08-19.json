@@ -1,6 +1,6 @@
 {
   "startTime": 1723998199428,
-  "endTime": 1724037769627,
+  "endTime": 1724038637643,
   "band_list": [
     {
       "raw_hot": 5870597,
@@ -49,6 +49,14 @@
       "onboard_time": 1724030479,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1352066,
+      "num": 1352066,
+      "word": "李乃文即日起更名于和伟",
+      "onboard_time": 1724036839,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1333021,
@@ -195,14 +203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 711235,
-      "num": 711235,
-      "word": "李乃文即日起更名于和伟",
-      "onboard_time": 1724036839,
-      "rank": 8,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 664426,
       "num": 664426,
       "word": "间谍利用大学生拍涉密科研基地照片",
@@ -217,6 +217,22 @@
       "onboard_time": 1724035638,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 604253,
+      "num": 604253,
+      "word": "赵丽颖好帅",
+      "onboard_time": 1724037258,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 601549,
+      "num": 474803,
+      "word": "两个人买四寸蛋糕被老板挂朋友圈",
+      "onboard_time": 1724037019,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 587168,
@@ -241,6 +257,14 @@
       "onboard_time": 1723993162,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 566975,
+      "num": 566975,
+      "word": "张远录制披荆斩棘受伤",
+      "onboard_time": 1724036898,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 538200,
@@ -289,14 +313,6 @@
       "onboard_time": 1724009291,
       "rank": 49,
       "category": "社会正能量,艺人"
-    },
-    {
-      "raw_hot": 410492,
-      "num": 410492,
-      "word": "张远录制披荆斩棘受伤",
-      "onboard_time": 1724036898,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 403445,
@@ -388,7 +404,7 @@
     },
     {
       "raw_hot": 335436,
-      "num": 335436,
+      "num": 645629,
       "word": "遭事业单位集体清退当事人再发声",
       "onboard_time": 1724036000,
       "rank": 24,
@@ -401,14 +417,6 @@
       "onboard_time": 1724026999,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 329504,
-      "num": 329504,
-      "word": "两个人买四寸蛋糕被老板挂朋友圈",
-      "onboard_time": 1724037019,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 320216,
@@ -451,6 +459,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303119,
+      "num": 303119,
+      "word": "25岁的我为什么会有这种思想",
+      "onboard_time": 1724035458,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 296684,
+      "num": 296684,
+      "word": "郑钦文参加中国体育代表团表彰大会",
+      "onboard_time": 1724037741,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 285955,
       "num": 215151,
       "word": "这几天失眠可能跟月亮有关",
@@ -483,20 +507,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 271167,
-      "num": 271167,
-      "word": "25岁的我为什么会有这种思想",
-      "onboard_time": 1724035458,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 267668,
       "num": 169270,
       "word": "这小狗跟亲生的有什么区别啊",
       "onboard_time": 1724022376,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 267161,
+      "num": 267161,
+      "word": "肖战欧莱雅",
+      "onboard_time": 1724037141,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 257556,
@@ -521,6 +545,22 @@
       "onboard_time": 1724027900,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251835,
+      "num": 251835,
+      "word": "樊振东赛前和王皓确定了换衣策略",
+      "onboard_time": 1724037079,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 248677,
+      "num": 248677,
+      "word": "刘端端道歉速度赶不上得罪速度",
+      "onboard_time": 1724037861,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 242777,
@@ -571,11 +611,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 226041,
+      "num": 226041,
+      "word": "郑钦文回国",
+      "onboard_time": 1724037800,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225552,
       "num": 225552,
       "word": "樊振东说亚军是财富",
       "onboard_time": 1723993522,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 218071,
+      "num": 218071,
+      "word": "国羽大家庭 团魂",
+      "onboard_time": 1724036898,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -595,28 +651,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215823,
-      "num": 215823,
-      "word": "赵丽颖好帅",
-      "onboard_time": 1724037258,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 215767,
       "num": 215767,
       "word": "疯狂小杨哥杭州办公总部出租",
       "onboard_time": 1723976839,
       "rank": 25,
       "category": "互联网,幽默"
-    },
-    {
-      "raw_hot": 207911,
-      "num": 207911,
-      "word": "国羽大家庭 团魂",
-      "onboard_time": 1724036898,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 207794,
@@ -627,12 +667,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 204332,
-      "num": 204332,
-      "word": "肖战欧莱雅",
-      "onboard_time": 1724037141,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 203863,
+      "num": 203863,
+      "word": "鞠婧祎杂志",
+      "onboard_time": 1724037920,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 194795,
@@ -667,6 +707,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184720,
+      "num": 184720,
+      "word": "瑞幸回应黑神话悟空券核销不了",
+      "onboard_time": 1724038520,
+      "rank": 44,
+      "category": "游戏,美食"
+    },
+    {
+      "raw_hot": 184628,
+      "num": 184628,
+      "word": "黑神话悟空倒计时1天",
+      "onboard_time": 1724038100,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 183397,
+      "num": 183397,
+      "word": "陈芋汐说没有全红婵不会达到这么高的水平",
+      "onboard_time": 1724036779,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182737,
       "num": 182737,
       "word": "韩国恋综嘉宾50多岁的状态",
@@ -683,28 +747,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181350,
+      "num": 181350,
+      "word": "痣长在这3个位置增加癌变风险",
+      "onboard_time": 1724038221,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 180589,
+      "num": 180589,
+      "word": "孙颖莎从开幕战斗到闭幕",
+      "onboard_time": 1724038581,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180584,
       "num": 180584,
       "word": "黑神话悟空",
       "onboard_time": 1724027480,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 179259,
-      "num": 179259,
-      "word": "陈芋汐说没有全红婵不会达到这么高的水平",
-      "onboard_time": 1724036779,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 178452,
-      "num": 178452,
-      "word": "樊振东赛前和王皓确定了换衣策略",
-      "onboard_time": 1724037079,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 174251,
@@ -736,14 +800,6 @@
       "word": "陈芋汐 有遗憾但不后悔",
       "onboard_time": 1724032158,
       "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 167681,
-      "num": 167681,
-      "word": "郑钦文参加中国体育代表团表彰大会",
-      "onboard_time": 1724037741,
-      "rank": 49,
       "category": "体育"
     },
     {
@@ -1115,8 +1171,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70928,
+      "num": 614099,
+      "word": "为什么医生都爱沃尔沃",
+      "onboard_time": 1724037680,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 67060,
-      "num": 217953,
+      "num": 561280,
       "word": "小鹏MONA开起来像20万以上的车",
       "onboard_time": 1724036839,
       "rank": 33,
@@ -1161,14 +1225,6 @@
       "onboard_time": 1724000234,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 52706,
-      "num": 178487,
-      "word": "为什么医生都爱沃尔沃",
-      "onboard_time": 1724037680,
-      "rank": 45,
-      "category": "汽车"
     },
     {
       "raw_hot": 51489,
@@ -1302,6 +1358,9 @@
   "hotgov_list": [
     {
       "word": "#跟着总书记探寻文化根魂#"
+    },
+    {
+      "word": "#总书记深情寄语医务工作者#"
     }
   ]
 }
