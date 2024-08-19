@@ -1,6 +1,6 @@
 {
   "startTime": 1724084701164,
-  "endTime": 1724107072646,
+  "endTime": 1724109687839,
   "band_list": [
     {
       "raw_hot": 1218741,
@@ -51,12 +51,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 659116,
+      "num": 659116,
+      "word": "张昊唯 孝出强大",
+      "onboard_time": 1724096952,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 609985,
       "num": 563547,
       "word": "张昊唯 戴向宇",
       "onboard_time": 1724082800,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 564334,
+      "num": 254989,
+      "word": "男子腹泻一年肝脏脓肿竟因吃路边摊",
+      "onboard_time": 1724081300,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 557350,
@@ -115,6 +131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 427236,
+      "num": 427236,
+      "word": "小海绵用Angelababy账号刷直播",
+      "onboard_time": 1724109616,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 398233,
       "num": 398233,
       "word": "女子怀孕6个月在飞机厕所突然分娩",
@@ -139,12 +163,12 @@
       "category": "互联网,音乐"
     },
     {
-      "raw_hot": 342095,
-      "num": 342095,
-      "word": "张昊唯 孝出强大",
-      "onboard_time": 1724096952,
-      "rank": 1,
-      "category": "艺人"
+      "raw_hot": 362075,
+      "num": 132489,
+      "word": "原来出门上班不关空调才省电",
+      "onboard_time": 1724108956,
+      "rank": 20,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 327439,
@@ -163,6 +187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 300319,
+      "num": 300319,
+      "word": "黑神话悟空",
+      "onboard_time": 1724108835,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 298840,
       "num": 298840,
       "word": "海底捞回应顾客店内自制腐竹",
@@ -179,11 +211,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 254989,
-      "num": 254989,
-      "word": "男子腹泻一年肝脏脓肿竟因吃路边摊",
-      "onboard_time": 1724081300,
-      "rank": 22,
+      "raw_hot": 271589,
+      "num": 271589,
+      "word": "蔬菜水果为什么突然变贵了",
+      "onboard_time": 1724093533,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -249,14 +281,6 @@
       "onboard_time": 1724068521,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168664,
-      "num": 168664,
-      "word": "蔬菜水果为什么突然变贵了",
-      "onboard_time": 1724093533,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 154116,
@@ -339,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121848,
+      "num": 121848,
+      "word": "女子莫名被男子压地打致面部流血",
+      "onboard_time": 1724108956,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120949,
       "num": 120949,
       "word": "江苏宿迁15万斤阳光玫瑰滞销",
@@ -387,6 +419,14 @@
       "category": "体育,动漫"
     },
     {
+      "raw_hot": 112675,
+      "num": 112675,
+      "word": "孙女不会做饭给92岁姥姥点披萨咖啡",
+      "onboard_time": 1724089813,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104719,
       "num": 112703,
       "word": "孙颖莎微博粉丝破700万",
@@ -427,6 +467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 98843,
+      "num": 223398,
+      "word": "山东银豆橛子都快吃不起了",
+      "onboard_time": 1724087954,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86895,
       "num": 66896,
       "word": "经常熬夜5年后身体有什么变化",
@@ -435,12 +483,44 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 85968,
-      "num": 223398,
-      "word": "山东银豆橛子都快吃不起了",
-      "onboard_time": 1724087954,
-      "rank": 29,
+      "raw_hot": 84672,
+      "num": 84672,
+      "word": "古巨基晒儿子为其庆生视频",
+      "onboard_time": 1724107934,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 84457,
+      "num": 84457,
+      "word": "每天吃1个奇异果身体会发生什么变化",
+      "onboard_time": 1724106132,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 84087,
+      "num": 84087,
+      "word": "乳糖不耐受多数是后天所致",
+      "onboard_time": 1724109196,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 58854,
+      "num": 58854,
+      "word": "成都市民拍到7个太阳同框",
+      "onboard_time": 1724109436,
+      "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58435,
+      "num": 58435,
+      "word": "华谊兄弟4天暴涨43%",
+      "onboard_time": 1724096171,
+      "rank": 32,
+      "category": "游戏,财经"
     },
     {
       "raw_hot": 57648,
@@ -464,14 +544,6 @@
       "word": "在离婚父母间来回拉扯二十年",
       "onboard_time": 1724101571,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52327,
-      "num": 52327,
-      "word": "孙女不会做饭给92岁姥姥点披萨咖啡",
-      "onboard_time": 1724089813,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -499,12 +571,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 40493,
-      "num": 40493,
-      "word": "华谊兄弟4天暴涨43%",
-      "onboard_time": 1724096171,
-      "rank": 32,
-      "category": "游戏,财经"
+      "raw_hot": 39988,
+      "num": 252168,
+      "word": "面对菲律宾的猖狂中国海警克制专业",
+      "onboard_time": 1724109016,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 39698,
@@ -563,20 +635,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29737,
+      "num": 704903,
+      "word": "中国空间站舷窗大片再上新",
+      "onboard_time": 1724074222,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28585,
       "num": 91271,
       "word": "申请劳动仲裁会影响找工作吗",
       "onboard_time": 1724099051,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27817,
-      "num": 36144,
-      "word": "每天吃1个奇异果身体会发生什么变化",
-      "onboard_time": 1724106132,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 27467,
@@ -593,14 +665,6 @@
       "onboard_time": 1724095752,
       "rank": 9,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 18764,
-      "num": 326832,
-      "word": "中国空间站舷窗大片再上新",
-      "onboard_time": 1724074222,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
