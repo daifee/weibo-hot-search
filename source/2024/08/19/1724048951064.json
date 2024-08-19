@@ -1,0 +1,410 @@
+{
+  "runTime": 1724048951064,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1219498,
+        "num": 1219498,
+        "word": "印度女医生",
+        "onboard_time": 1724046799,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1149503,
+        "num": 1149503,
+        "word": "爸爸忘拉手刹俩孩子随车冲进鱼塘",
+        "onboard_time": 1724045780,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67074,
+        "num": 1144982,
+        "word": "2024最美医生发布",
+        "onboard_time": 1724040382,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1144631,
+        "num": 1144631,
+        "word": "新版林黛玉",
+        "onboard_time": 1724040981,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 783151,
+        "num": 783151,
+        "word": "孤注一掷重映定档",
+        "onboard_time": 1724043560,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 690274,
+        "num": 690274,
+        "word": "发了一条朋友圈搭上了20万元",
+        "onboard_time": 1724033718,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 690450,
+        "num": 686811,
+        "word": "几年不见TFBOYS变化这么大",
+        "onboard_time": 1724047520,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 678554,
+        "num": 678554,
+        "word": "悬疑文作者给自己写害怕了",
+        "onboard_time": 1724043982,
+        "rank": 7,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 109214,
+        "num": 677575,
+        "word": "警方回应网文称女子饿死在出租屋",
+        "onboard_time": 1724048303,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59382,
+        "num": 676760,
+        "word": "当一个小学生面对寄宿",
+        "onboard_time": 1724047220,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31469,
+        "num": 674614,
+        "word": "给医生多一份守护和理解",
+        "onboard_time": 1724047701,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1568795,
+        "num": 673781,
+        "word": "公司要上四休三降薪1千",
+        "onboard_time": 1724040262,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 673072,
+        "num": 673072,
+        "word": "全红婵说到了发育关才知道芋汐的难",
+        "onboard_time": 1724031859,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 583314,
+        "num": 583314,
+        "word": "黑泽良平 没办法我只能哭了",
+        "onboard_time": 1724046619,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22634,
+        "num": 526491,
+        "word": "充值办卡就用支付宝的安心付",
+        "onboard_time": 1724047220,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 522140,
+        "num": 522140,
+        "word": "两个人买四寸蛋糕被老板挂朋友圈",
+        "onboard_time": 1724037019,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 475521,
+        "num": 475521,
+        "word": "离婚跟拍",
+        "onboard_time": 1724039242,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 418309,
+        "num": 418309,
+        "word": "异形 恶心",
+        "onboard_time": 1724046859,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 408655,
+        "num": 408655,
+        "word": "人社局回应41人事业编被集体清退",
+        "onboard_time": 1724045060,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394346,
+        "num": 394346,
+        "word": "易烊千玺Golden Goose",
+        "onboard_time": 1724043380,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1756228,
+        "num": 393067,
+        "word": "刚同居女朋友不愿意AA制",
+        "onboard_time": 1724043443,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 388722,
+        "num": 388722,
+        "word": "王阳明 我不比娘炮的动作",
+        "onboard_time": 1724039181,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 373155,
+        "num": 373155,
+        "word": "周杰伦演唱会抢票",
+        "onboard_time": 1724044700,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 340505,
+        "num": 340505,
+        "word": "孙颖莎谈女单夺银",
+        "onboard_time": 1724039119,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327796,
+        "num": 327796,
+        "word": "capper恋爱",
+        "onboard_time": 1724035638,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324781,
+        "num": 324781,
+        "word": "女子称三万买的手机太卡第二天想退",
+        "onboard_time": 1724026999,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317614,
+        "num": 317614,
+        "word": "造假证给孩子办入学男子下跪求放过",
+        "onboard_time": 1724043681,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298155,
+        "num": 298155,
+        "word": "为了不回信息在微信演了两年尸体",
+        "onboard_time": 1724030479,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111791,
+        "num": 296669,
+        "word": "红楼梦之金玉良缘 最顶格的恐怖",
+        "onboard_time": 1724043560,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32967,
+        "num": 295503,
+        "word": "不下赛道怎么造好车",
+        "onboard_time": 1724047459,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 295212,
+        "num": 295212,
+        "word": "导演胡玫发文痛斥",
+        "onboard_time": 1724038819,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 280534,
+        "num": 280534,
+        "word": "樊振东赛前和王皓确定了换衣策略",
+        "onboard_time": 1724037079,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275879,
+        "num": 275879,
+        "word": "大连暴雨2人意外死亡",
+        "onboard_time": 1724046740,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137178,
+        "num": 275196,
+        "word": "元莫是相柳的复活甲",
+        "onboard_time": 1724048241,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274905,
+        "num": 274905,
+        "word": "霍汶希否认阿娇皇甫圣华恋情",
+        "onboard_time": 1724044700,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272188,
+        "num": 272188,
+        "word": "赵丽颖好帅",
+        "onboard_time": 1724037258,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271665,
+        "num": 271665,
+        "word": "瑞幸补货",
+        "onboard_time": 1724047282,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 247952,
+        "num": 247952,
+        "word": "迪丽热巴 黄金时代",
+        "onboard_time": 1724035038,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 239000,
+        "num": 239000,
+        "word": "金敏喜 白发是装饰",
+        "onboard_time": 1724047160,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 233229,
+        "num": 233229,
+        "word": "李乃文即日起更名于和伟",
+        "onboard_time": 1724036839,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226073,
+        "num": 226073,
+        "word": "新版红楼梦 一黛不如一黛",
+        "onboard_time": 1724044221,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 225152,
+        "num": 225152,
+        "word": "苏林访华",
+        "onboard_time": 1724036119,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 212225,
+        "num": 212225,
+        "word": "致敬医师节",
+        "onboard_time": 1724032038,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201667,
+        "num": 201667,
+        "word": "黄一鸣带女儿拍写真照",
+        "onboard_time": 1724048662,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197249,
+        "num": 197249,
+        "word": "普罗米修斯",
+        "onboard_time": 1724042900,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193296,
+        "num": 193296,
+        "word": "中方回应菲船只故意冲撞我海警舰艇",
+        "onboard_time": 1724026219,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 187417,
+        "num": 187417,
+        "word": "iPhone16Pro四款配色",
+        "onboard_time": 1724027239,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 176659,
+        "num": 176659,
+        "word": "四问41人考编上岸后被清退事件",
+        "onboard_time": 1724043621,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167547,
+        "num": 167547,
+        "word": "肚子有条褐色竖线正常吗",
+        "onboard_time": 1724045360,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 166655,
+        "num": 166655,
+        "word": "蔡徐坤生日新歌",
+        "onboard_time": 1724038880,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同苏林会谈#"
+    }
+  }
+}
