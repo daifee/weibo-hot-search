@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724087979337,
+  "endTime": 1724088950283,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -5779,6 +5779,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 32844,
+      "num": 84090,
+      "word": "陈芋汐到大学报到被递扩音器",
+      "onboard_time": 1724088374,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32266,
       "num": 36525,
       "word": "李佳琦直播",
@@ -5801,6 +5809,14 @@
       "onboard_time": 1724019071,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 28015,
+      "num": 223398,
+      "word": "山东银豆橛子都快吃不起了",
+      "onboard_time": 1724087954,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27917,
@@ -5833,14 +5849,6 @@
       "onboard_time": 1723922951,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 26398,
-      "num": 100643,
-      "word": "山东银豆橛子都快吃不起了",
-      "onboard_time": 1724087954,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25422,
