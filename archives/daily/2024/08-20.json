@@ -1,6 +1,6 @@
 {
   "startTime": 1724084701164,
-  "endTime": 1724109687839,
+  "endTime": 1724110501066,
   "band_list": [
     {
       "raw_hot": 1218741,
@@ -35,6 +35,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 849824,
+      "num": 849824,
+      "word": "小海绵用Angelababy账号刷直播",
+      "onboard_time": 1724109616,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 716937,
+      "num": 716937,
+      "word": "张昊唯 孝出强大",
+      "onboard_time": 1724096952,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 699507,
       "num": 699507,
       "word": "梁洁 分寸感",
@@ -51,20 +67,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 659116,
-      "num": 659116,
-      "word": "张昊唯 孝出强大",
-      "onboard_time": 1724096952,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 609985,
       "num": 563547,
       "word": "张昊唯 戴向宇",
       "onboard_time": 1724082800,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 575194,
+      "num": 196464,
+      "word": "原来出门上班不关空调才省电",
+      "onboard_time": 1724108956,
+      "rank": 20,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 564334,
@@ -81,6 +97,14 @@
       "onboard_time": 1724079261,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 556993,
+      "num": 556993,
+      "word": "前员工曝东方甄选幕后成员面临二选一",
+      "onboard_time": 1724109738,
+      "rank": 5,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 554613,
@@ -107,6 +131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 504084,
+      "num": 504084,
+      "word": "黑神话悟空",
+      "onboard_time": 1724108835,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 484241,
       "num": 484241,
       "word": "银行为什么出现离职潮",
@@ -129,14 +161,6 @@
       "onboard_time": 1724072186,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 427236,
-      "num": 427236,
-      "word": "小海绵用Angelababy账号刷直播",
-      "onboard_time": 1724109616,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 398233,
@@ -163,14 +187,6 @@
       "category": "互联网,音乐"
     },
     {
-      "raw_hot": 362075,
-      "num": 132489,
-      "word": "原来出门上班不关空调才省电",
-      "onboard_time": 1724108956,
-      "rank": 20,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 327439,
       "num": 327439,
       "word": "王俊凯 清华也是我小时候的梦想",
@@ -179,20 +195,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 307979,
+      "num": 307979,
+      "word": "蔬菜水果为什么突然变贵了",
+      "onboard_time": 1724093533,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305194,
       "num": 305194,
       "word": "男爱豆签售上问女粉电话号码",
       "onboard_time": 1724064443,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 300319,
-      "num": 300319,
-      "word": "黑神话悟空",
-      "onboard_time": 1724108835,
-      "rank": 5,
-      "category": "游戏"
     },
     {
       "raw_hot": 298840,
@@ -211,20 +227,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 271589,
-      "num": 271589,
-      "word": "蔬菜水果为什么突然变贵了",
-      "onboard_time": 1724093533,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 254920,
       "num": 254920,
       "word": "网易云音乐补偿7天会员",
       "onboard_time": 1724061922,
       "rank": 21,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 226202,
+      "num": 226202,
+      "word": "全红婵王俊凯合影",
+      "onboard_time": 1724109738,
+      "rank": 16,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 223853,
@@ -235,11 +251,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 221217,
+      "num": 192915,
+      "word": "参加婚礼全程无桌还没人理",
+      "onboard_time": 1724109797,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 218472,
       "num": 492834,
       "word": "印度出现水泥做的假大蒜",
       "onboard_time": 1724061202,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215492,
+      "num": 215492,
+      "word": "女子莫名被男子压地打致面部流血",
+      "onboard_time": 1724108956,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -347,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131821,
+      "num": 131821,
+      "word": "孙女不会做饭给92岁姥姥点披萨咖啡",
+      "onboard_time": 1724089813,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130824,
       "num": 130824,
       "word": "遭网课爆破离世教师女儿称5人已道歉",
@@ -360,14 +400,6 @@
       "word": "印度女博主揭露实习医生被奸杀细节",
       "onboard_time": 1724060422,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121848,
-      "num": 121848,
-      "word": "女子莫名被男子压地打致面部流血",
-      "onboard_time": 1724108956,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -419,11 +451,11 @@
       "category": "体育,动漫"
     },
     {
-      "raw_hot": 112675,
-      "num": 112675,
-      "word": "孙女不会做饭给92岁姥姥点披萨咖啡",
-      "onboard_time": 1724089813,
-      "rank": 39,
+      "raw_hot": 109219,
+      "num": 109219,
+      "word": "成都市民拍到7个太阳同框",
+      "onboard_time": 1724109436,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -435,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104251,
+      "num": 223398,
+      "word": "山东银豆橛子都快吃不起了",
+      "onboard_time": 1724087954,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103175,
       "num": 112689,
       "word": "柳舟记 史密斯夫妇",
@@ -444,7 +484,7 @@
     },
     {
       "raw_hot": 103098,
-      "num": 103098,
+      "num": 115213,
       "word": "张若昀曾被校园霸凌",
       "onboard_time": 1724091852,
       "rank": 46,
@@ -467,12 +507,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 98843,
-      "num": 223398,
-      "word": "山东银豆橛子都快吃不起了",
-      "onboard_time": 1724087954,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 97853,
+      "num": 97853,
+      "word": "乳糖不耐受多数是后天所致",
+      "onboard_time": 1724109196,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 90858,
+      "num": 90858,
+      "word": "古巨基晒儿子为其庆生视频",
+      "onboard_time": 1724107934,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 89190,
+      "num": 89190,
+      "word": "每天吃1个奇异果身体会发生什么变化",
+      "onboard_time": 1724106132,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 86895,
@@ -483,36 +539,36 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 84672,
-      "num": 84672,
-      "word": "古巨基晒儿子为其庆生视频",
-      "onboard_time": 1724107934,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 75982,
+      "num": 75982,
+      "word": "房贷三十年还是租一辈子房",
+      "onboard_time": 1724109916,
+      "rank": 44,
+      "category": "情感"
     },
     {
-      "raw_hot": 84457,
-      "num": 84457,
-      "word": "每天吃1个奇异果身体会发生什么变化",
-      "onboard_time": 1724106132,
+      "raw_hot": 73510,
+      "num": 73510,
+      "word": "刘雨辰叫梁永铿猪猪侠",
+      "onboard_time": 1724110037,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 67905,
+      "num": 67905,
+      "word": "鹿晗新歌",
+      "onboard_time": 1724110456,
       "rank": 49,
-      "category": "健康医疗"
+      "category": "音乐"
     },
     {
-      "raw_hot": 84087,
-      "num": 84087,
-      "word": "乳糖不耐受多数是后天所致",
-      "onboard_time": 1724109196,
-      "rank": 34,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 58854,
-      "num": 58854,
-      "word": "成都市民拍到7个太阳同框",
-      "onboard_time": 1724109436,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 59552,
+      "num": 306983,
+      "word": "面对菲律宾的猖狂中国海警克制专业",
+      "onboard_time": 1724109016,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 58435,
@@ -571,14 +627,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 39988,
-      "num": 252168,
-      "word": "面对菲律宾的猖狂中国海警克制专业",
-      "onboard_time": 1724109016,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 39698,
       "num": 39698,
       "word": "边水往事",
@@ -611,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34936,
+      "num": 850897,
+      "word": "中国空间站舷窗大片再上新",
+      "onboard_time": 1724074222,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34574,
       "num": 34574,
       "word": "应届生身份是否该取消了",
@@ -632,14 +688,6 @@
       "word": "56岁女子边打工边写作4年写20万字",
       "onboard_time": 1724088255,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29737,
-      "num": 704903,
-      "word": "中国空间站舷窗大片再上新",
-      "onboard_time": 1724074222,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

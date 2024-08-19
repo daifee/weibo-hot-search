@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1724109687839,
+  "endTime": 1724110501066,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -13659,6 +13659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 849824,
+      "num": 849824,
+      "word": "小海绵用Angelababy账号刷直播",
+      "onboard_time": 1724109616,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 847776,
       "num": 847776,
       "word": "异形吓坏8岁小孩家长投诉影城",
@@ -15531,6 +15539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 716937,
+      "num": 716937,
+      "word": "张昊唯 孝出强大",
+      "onboard_time": 1724096952,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 716692,
       "num": 716692,
       "word": "向佐气哭俩老头",
@@ -16561,14 +16577,6 @@
       "onboard_time": 1723816883,
       "rank": 9,
       "category": "演出"
-    },
-    {
-      "raw_hot": 659116,
-      "num": 659116,
-      "word": "张昊唯 孝出强大",
-      "onboard_time": 1724096952,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 659076,
@@ -18451,6 +18459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 575194,
+      "num": 196464,
+      "word": "原来出门上班不关空调才省电",
+      "onboard_time": 1724108956,
+      "rank": 20,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 574444,
       "num": 574444,
       "word": "鹿晗 微醺",
@@ -18793,6 +18809,14 @@
       "onboard_time": 1724079261,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 556993,
+      "num": 556993,
+      "word": "前员工曝东方甄选幕后成员面临二选一",
+      "onboard_time": 1724109738,
+      "rank": 5,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 556879,
@@ -20081,6 +20105,14 @@
       "onboard_time": 1723263622,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 504084,
+      "num": 504084,
+      "word": "黑神话悟空",
+      "onboard_time": 1723503015,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 503538,
@@ -22777,14 +22809,6 @@
       "onboard_time": 1723850296,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 427236,
-      "num": 427236,
-      "word": "小海绵用Angelababy账号刷直播",
-      "onboard_time": 1724109616,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 426614,
@@ -25937,14 +25961,6 @@
       "onboard_time": 1723541182,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 362075,
-      "num": 132489,
-      "word": "原来出门上班不关空调才省电",
-      "onboard_time": 1724108956,
-      "rank": 20,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 361499,
@@ -29515,6 +29531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 307979,
+      "num": 307979,
+      "word": "蔬菜水果为什么突然变贵了",
+      "onboard_time": 1724093533,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 307786,
       "num": 629723,
       "word": "周深七夕发糖了",
@@ -30161,14 +30185,6 @@
       "onboard_time": 1724041161,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 300319,
-      "num": 300319,
-      "word": "黑神话悟空",
-      "onboard_time": 1723503015,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 300217,
@@ -32873,14 +32889,6 @@
       "onboard_time": 1723457421,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 271589,
-      "num": 271589,
-      "word": "蔬菜水果为什么突然变贵了",
-      "onboard_time": 1724093533,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 271431,
@@ -37555,6 +37563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 226202,
+      "num": 226202,
+      "word": "全红婵王俊凯合影",
+      "onboard_time": 1724109738,
+      "rank": 16,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 226157,
       "num": 226157,
       "word": "明日方舟",
@@ -38145,6 +38161,14 @@
       "onboard_time": 1723887198,
       "rank": 23,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 221217,
+      "num": 192915,
+      "word": "参加婚礼全程无桌还没人理",
+      "onboard_time": 1724109797,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 221216,
@@ -38929,6 +38953,14 @@
       "onboard_time": 1723520902,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215492,
+      "num": 215492,
+      "word": "女子莫名被男子压地打致面部流血",
+      "onboard_time": 1724108956,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215424,
@@ -50163,6 +50195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131821,
+      "num": 131821,
+      "word": "孙女不会做饭给92岁姥姥点披萨咖啡",
+      "onboard_time": 1724089813,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131778,
       "num": 131778,
       "word": "波兰男排vs美国男排",
@@ -50755,14 +50795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121848,
-      "num": 121848,
-      "word": "女子莫名被男子压地打致面部流血",
-      "onboard_time": 1724108956,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121625,
       "num": 216583,
       "word": "儿慈会要求陪睡才捐款的录音是假的",
@@ -51251,14 +51283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 112675,
-      "num": 112675,
-      "word": "孙女不会做饭给92岁姥姥点披萨咖啡",
-      "onboard_time": 1724089813,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 112624,
       "num": 1493119,
       "word": "谢谢杨思琪让世界看到中国的冲浪",
@@ -51433,6 +51457,14 @@
       "onboard_time": 1722458773,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109219,
+      "num": 109219,
+      "word": "成都市民拍到7个太阳同框",
+      "onboard_time": 1724109436,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109016,
@@ -51763,6 +51795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104251,
+      "num": 223398,
+      "word": "山东银豆橛子都快吃不起了",
+      "onboard_time": 1724087954,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104218,
       "num": 344658,
       "word": "中国第16金",
@@ -51828,7 +51868,7 @@
     },
     {
       "raw_hot": 103098,
-      "num": 103098,
+      "num": 115213,
       "word": "张若昀曾被校园霸凌",
       "onboard_time": 1724091852,
       "rank": 46,
@@ -52075,14 +52115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 98843,
-      "num": 223398,
-      "word": "山东银豆橛子都快吃不起了",
-      "onboard_time": 1724087954,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 98722,
       "num": 147412,
       "word": "王者新英雄少司缘",
@@ -52137,6 +52169,14 @@
       "onboard_time": 1723299396,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97853,
+      "num": 97853,
+      "word": "乳糖不耐受多数是后天所致",
+      "onboard_time": 1724109196,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 97743,
@@ -52619,6 +52659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90858,
+      "num": 90858,
+      "word": "古巨基晒儿子为其庆生视频",
+      "onboard_time": 1724107934,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90798,
       "num": 90798,
       "word": "张雨霏谈巴黎奥运获铜牌后哭泣",
@@ -52705,6 +52753,14 @@
       "onboard_time": 1722762024,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89190,
+      "num": 89190,
+      "word": "每天吃1个奇异果身体会发生什么变化",
+      "onboard_time": 1724106132,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 89072,
@@ -53035,28 +53091,12 @@
       "category": "综艺,体育"
     },
     {
-      "raw_hot": 84672,
-      "num": 84672,
-      "word": "古巨基晒儿子为其庆生视频",
-      "onboard_time": 1724107934,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 84654,
       "num": 726540,
       "word": "人社局称41人被清退会有善后安排",
       "onboard_time": 1724044580,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 84457,
-      "num": 84457,
-      "word": "每天吃1个奇异果身体会发生什么变化",
-      "onboard_time": 1724106132,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 84341,
@@ -53089,14 +53129,6 @@
       "onboard_time": 1723179983,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84087,
-      "num": 84087,
-      "word": "乳糖不耐受多数是后天所致",
-      "onboard_time": 1724109196,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 83859,
@@ -53539,6 +53571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75982,
+      "num": 75982,
+      "word": "房贷三十年还是租一辈子房",
+      "onboard_time": 1724109916,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 75809,
       "num": 2133018,
       "word": "今天已经立秋了",
@@ -53737,6 +53777,14 @@
       "onboard_time": 1722781057,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 73510,
+      "num": 73510,
+      "word": "刘雨辰叫梁永铿猪猪侠",
+      "onboard_time": 1724110037,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 73200,
@@ -54113,6 +54161,14 @@
       "onboard_time": 1723525822,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 67905,
+      "num": 67905,
+      "word": "鹿晗新歌",
+      "onboard_time": 1724110456,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 67780,
@@ -54891,6 +54947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59552,
+      "num": 306983,
+      "word": "面对菲律宾的猖狂中国海警克制专业",
+      "onboard_time": 1724109016,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 59496,
       "num": 1212565,
       "word": "这就是团队精神",
@@ -54960,14 +55024,6 @@
       "word": "当暑期游遇到文旅热",
       "onboard_time": 1723623319,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 58854,
-      "num": 58854,
-      "word": "成都市民拍到7个太阳同框",
-      "onboard_time": 1724109436,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -56835,14 +56891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 39988,
-      "num": 252168,
-      "word": "面对菲律宾的猖狂中国海警克制专业",
-      "onboard_time": 1724109016,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 39884,
       "num": 415851,
       "word": "在张杰演唱会看到了魏晨",
@@ -57344,6 +57392,14 @@
       "word": "李政道先生的入学履历表",
       "onboard_time": 1722853827,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34936,
+      "num": 1568875,
+      "word": "中国空间站舷窗大片再上新",
+      "onboard_time": 1724074222,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -57912,14 +57968,6 @@
       "word": "哈马斯领导人遇袭身亡让停火遥遥无期",
       "onboard_time": 1722580943,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29737,
-      "num": 1568875,
-      "word": "中国空间站舷窗大片再上新",
-      "onboard_time": 1724074222,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

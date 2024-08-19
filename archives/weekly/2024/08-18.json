@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724109687839,
+  "endTime": 1724110501066,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -883,6 +883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 849824,
+      "num": 849824,
+      "word": "小海绵用Angelababy账号刷直播",
+      "onboard_time": 1724109616,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 847776,
       "num": 847776,
       "word": "异形吓坏8岁小孩家长投诉影城",
@@ -1075,6 +1083,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 716937,
+      "num": 716937,
+      "word": "张昊唯 孝出强大",
+      "onboard_time": 1724096952,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 712258,
       "num": 908498,
       "word": "男狐狸精请按这个标准卷",
@@ -1161,14 +1177,6 @@
       "onboard_time": 1724027180,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 659116,
-      "num": 659116,
-      "word": "张昊唯 孝出强大",
-      "onboard_time": 1724096952,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 659057,
@@ -1323,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 575194,
+      "num": 196464,
+      "word": "原来出门上班不关空调才省电",
+      "onboard_time": 1724108956,
+      "rank": 20,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 571683,
       "num": 301827,
       "word": "印尼74岁老太被蟒蛇吞下身亡",
@@ -1369,6 +1385,14 @@
       "onboard_time": 1724079261,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 556993,
+      "num": 556993,
+      "word": "前员工曝东方甄选幕后成员面临二选一",
+      "onboard_time": 1724109738,
+      "rank": 5,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 556828,
@@ -1489,6 +1513,14 @@
       "onboard_time": 1724035879,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 504084,
+      "num": 504084,
+      "word": "黑神话悟空",
+      "onboard_time": 1724027480,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 503198,
@@ -1745,14 +1777,6 @@
       "onboard_time": 1723978758,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 427236,
-      "num": 427236,
-      "word": "小海绵用Angelababy账号刷直播",
-      "onboard_time": 1724109616,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 426423,
@@ -2033,14 +2057,6 @@
       "onboard_time": 1724030479,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 362075,
-      "num": 132489,
-      "word": "原来出门上班不关空调才省电",
-      "onboard_time": 1724108956,
-      "rank": 20,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 360963,
@@ -2347,6 +2363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 307979,
+      "num": 307979,
+      "word": "蔬菜水果为什么突然变贵了",
+      "onboard_time": 1724093533,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 307015,
       "num": 359635,
       "word": "谁家音综请了100位音乐人打call啊",
@@ -2385,14 +2409,6 @@
       "onboard_time": 1724041161,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 300319,
-      "num": 300319,
-      "word": "黑神话悟空",
-      "onboard_time": 1724027480,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 299882,
@@ -2625,14 +2641,6 @@
       "onboard_time": 1723947737,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 271589,
-      "num": 271589,
-      "word": "蔬菜水果为什么突然变贵了",
-      "onboard_time": 1724093533,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 270791,
@@ -3019,6 +3027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226202,
+      "num": 226202,
+      "word": "全红婵王俊凯合影",
+      "onboard_time": 1724109738,
+      "rank": 16,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 226073,
       "num": 257916,
       "word": "新版红楼梦 一黛不如一黛",
@@ -3081,6 +3097,14 @@
       "onboard_time": 1723974858,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221217,
+      "num": 192915,
+      "word": "参加婚礼全程无桌还没人理",
+      "onboard_time": 1724109797,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 220755,
@@ -3160,6 +3184,14 @@
       "word": "西安一物业撬门占用业主空置别墅",
       "onboard_time": 1723957219,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215492,
+      "num": 215492,
+      "word": "女子莫名被男子压地打致面部流血",
+      "onboard_time": 1724108956,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -4963,6 +4995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131821,
+      "num": 131821,
+      "word": "孙女不会做饭给92岁姥姥点披萨咖啡",
+      "onboard_time": 1724089813,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130908,
       "num": 130908,
       "word": "檀健次演唱会审美",
@@ -5083,14 +5123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 121848,
-      "num": 121848,
-      "word": "女子莫名被男子压地打致面部流血",
-      "onboard_time": 1724108956,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121057,
       "num": 558981,
       "word": "鬼秤称重显示可高出实际重量60%",
@@ -5187,14 +5219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 112675,
-      "num": 112675,
-      "word": "孙女不会做饭给92岁姥姥点披萨咖啡",
-      "onboard_time": 1724089813,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 111791,
       "num": 296669,
       "word": "红楼梦之金玉良缘 最顶格的恐怖",
@@ -5209,6 +5233,14 @@
       "onboard_time": 1723944618,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 109219,
+      "num": 109219,
+      "word": "成都市民拍到7个太阳同框",
+      "onboard_time": 1724109436,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109016,
@@ -5283,6 +5315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104251,
+      "num": 223398,
+      "word": "山东银豆橛子都快吃不起了",
+      "onboard_time": 1724087954,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103829,
       "num": 103829,
       "word": "陈芋汐一天称十次体重",
@@ -5300,7 +5340,7 @@
     },
     {
       "raw_hot": 103098,
-      "num": 103098,
+      "num": 115213,
       "word": "张若昀曾被校园霸凌",
       "onboard_time": 1724091852,
       "rank": 46,
@@ -5331,20 +5371,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 98843,
-      "num": 223398,
-      "word": "山东银豆橛子都快吃不起了",
-      "onboard_time": 1724087954,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 98206,
       "num": 2154341,
       "word": "2024最美医生发布",
       "onboard_time": 1724040382,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97853,
+      "num": 97853,
+      "word": "乳糖不耐受多数是后天所致",
+      "onboard_time": 1724109196,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 94301,
@@ -5379,12 +5419,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90858,
+      "num": 90858,
+      "word": "古巨基晒儿子为其庆生视频",
+      "onboard_time": 1724107934,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89828,
       "num": 193731,
       "word": "佟丽娅说妈妈就是超人",
       "onboard_time": 1723963098,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 89190,
+      "num": 89190,
+      "word": "每天吃1个奇异果身体会发生什么变化",
+      "onboard_time": 1724106132,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 86924,
@@ -5427,36 +5483,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 84672,
-      "num": 84672,
-      "word": "古巨基晒儿子为其庆生视频",
-      "onboard_time": 1724107934,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 84654,
       "num": 726540,
       "word": "人社局称41人被清退会有善后安排",
       "onboard_time": 1724044580,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 84457,
-      "num": 84457,
-      "word": "每天吃1个奇异果身体会发生什么变化",
-      "onboard_time": 1724106132,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 84087,
-      "num": 84087,
-      "word": "乳糖不耐受多数是后天所致",
-      "onboard_time": 1724109196,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 83273,
@@ -5499,6 +5531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75982,
+      "num": 75982,
+      "word": "房贷三十年还是租一辈子房",
+      "onboard_time": 1724109916,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 75692,
       "num": 525120,
       "word": "律师解读41名事业单位人员被清退",
@@ -5520,6 +5560,14 @@
       "word": "C罗无缘沙特首冠",
       "onboard_time": 1723937414,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 73510,
+      "num": 73510,
+      "word": "刘雨辰叫梁永铿猪猪侠",
+      "onboard_time": 1724110037,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -5579,6 +5627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67905,
+      "num": 67905,
+      "word": "鹿晗新歌",
+      "onboard_time": 1724110456,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 67636,
       "num": 1803800,
       "word": "我国盾构水下掘进深度破世界纪录",
@@ -5635,19 +5691,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59552,
+      "num": 306983,
+      "word": "面对菲律宾的猖狂中国海警克制专业",
+      "onboard_time": 1724109016,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 59382,
       "num": 676760,
       "word": "当一个小学生面对寄宿",
       "onboard_time": 1724047220,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 58854,
-      "num": 58854,
-      "word": "成都市民拍到7个太阳同框",
-      "onboard_time": 1724109436,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -5867,14 +5923,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 39988,
-      "num": 252168,
-      "word": "面对菲律宾的猖狂中国海警克制专业",
-      "onboard_time": 1724109016,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 38237,
       "num": 736563,
       "word": "律师分析汝州清退事业单位人员",
@@ -5920,6 +5968,14 @@
       "word": "湖南博物院辟谣曲裾式素纱单衣被盗",
       "onboard_time": 1724100910,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34936,
+      "num": 1568875,
+      "word": "中国空间站舷窗大片再上新",
+      "onboard_time": 1724074222,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -5993,14 +6049,6 @@
       "onboard_time": 1724019071,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 29737,
-      "num": 1568875,
-      "word": "中国空间站舷窗大片再上新",
-      "onboard_time": 1724074222,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28585,
