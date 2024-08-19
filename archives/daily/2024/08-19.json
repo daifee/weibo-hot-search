@@ -1,6 +1,6 @@
 {
   "startTime": 1723998199428,
-  "endTime": 1724060135646,
+  "endTime": 1724063031633,
   "band_list": [
     {
       "raw_hot": 9160024,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 7076695,
+      "num": 1414307,
+      "word": "张昊唯报警",
+      "onboard_time": 1724062222,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 5870597,
       "num": 5870597,
       "word": "樊振东回应退役传闻",
@@ -49,6 +57,14 @@
       "onboard_time": 1724056342,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3260655,
+      "num": 3260655,
+      "word": "网易云 没有删库没有跑路",
+      "onboard_time": 1724060422,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 3086203,
@@ -161,6 +177,14 @@
       "onboard_time": 1724054061,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1409335,
+      "num": 598863,
+      "word": "焦俊艳爆料杨幂很少参加同学聚会",
+      "onboard_time": 1724060422,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1384827,
@@ -539,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 577431,
+      "num": 577431,
+      "word": "王楠送国乒奥运冠军金牌曝光",
+      "onboard_time": 1724060182,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 573445,
       "num": 573445,
       "word": "时代少年团账号直播封禁",
@@ -603,12 +635,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 503198,
+      "num": 503198,
+      "word": "马龙孙颖莎等国乒队员访港行程敲定",
+      "onboard_time": 1724059822,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 500437,
       "num": 500437,
       "word": "网易云音乐",
       "onboard_time": 1724056821,
       "rank": 16,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 495076,
+      "num": 495076,
+      "word": "家属辟谣姜萍决赛第八",
+      "onboard_time": 1724060302,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 481895,
@@ -643,20 +691,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 447937,
-      "num": 447937,
-      "word": "马龙孙颖莎等国乒队员访港行程敲定",
-      "onboard_time": 1724059822,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 436746,
       "num": 244052,
       "word": "又是张昊唯",
       "onboard_time": 1724051240,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 433734,
+      "num": 594970,
+      "word": "黑神话要卖到300万份才能回本",
+      "onboard_time": 1724061443,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 422655,
@@ -731,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 386832,
+      "num": 386832,
+      "word": "姜萍",
+      "onboard_time": 1724061323,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 379061,
       "num": 379061,
       "word": "怀疑了一圈就是没怀疑网易云",
@@ -769,6 +825,14 @@
       "onboard_time": 1724034619,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 357838,
+      "num": 357838,
+      "word": "网易云音乐补偿7天会员",
+      "onboard_time": 1724061922,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 352985,
@@ -827,12 +891,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 321661,
+      "num": 321661,
+      "word": "印度女博主揭露实习医生被奸杀细节",
+      "onboard_time": 1724060422,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320674,
       "num": 320674,
       "word": "瑞幸补货",
       "onboard_time": 1724047282,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 320438,
+      "num": 320438,
+      "word": "印度出现水泥做的假大蒜",
+      "onboard_time": 1724061202,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 320216,
@@ -851,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314334,
+      "num": 314334,
+      "word": "刘雨辰欧烜屹谭强退出国家队",
+      "onboard_time": 1724060964,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 313907,
       "num": 313907,
       "word": "碳水和睡眠的关系",
@@ -865,6 +953,14 @@
       "onboard_time": 1724030898,
       "rank": 30,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 312420,
+      "num": 312420,
+      "word": "多家公司明日放假",
+      "onboard_time": 1724060062,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 310227,
@@ -907,6 +1003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 289890,
+      "num": 366148,
+      "word": "内娱李胜利",
+      "onboard_time": 1724060480,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 286056,
       "num": 286056,
       "word": "大连暴雨2人意外死亡",
@@ -937,6 +1041,14 @@
       "onboard_time": 1724028260,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 285159,
+      "num": 285159,
+      "word": "生活在小县城的人嘴真严",
+      "onboard_time": 1724059223,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 282657,
@@ -1041,6 +1153,14 @@
       "onboard_time": 1724026339,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241407,
+      "num": 298054,
+      "word": "王俊凯给黄雅琼刘雨辰送祝福",
+      "onboard_time": 1724059763,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 240295,
@@ -1219,14 +1339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210320,
-      "num": 210320,
-      "word": "王俊凯给黄雅琼刘雨辰送祝福",
-      "onboard_time": 1724059763,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 207957,
       "num": 207957,
       "word": "张昊唯 客户名单",
@@ -1267,6 +1379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203906,
+      "num": 203906,
+      "word": "NMIXX空降",
+      "onboard_time": 1724062763,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 203892,
       "num": 203892,
       "word": "当我脑抽买了45个龟儿子",
@@ -1291,14 +1411,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 203057,
-      "num": 203057,
-      "word": "生活在小县城的人嘴真严",
-      "onboard_time": 1724059223,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 200974,
       "num": 613267,
       "word": "离婚后宠物跟爸还是跟妈",
@@ -1321,6 +1433,14 @@
       "onboard_time": 1724042900,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 196851,
+      "num": 196851,
+      "word": "最右崩了",
+      "onboard_time": 1724061323,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 196245,
@@ -1539,6 +1659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170969,
+      "num": 286300,
+      "word": "韦礼安 你让我感到陌生",
+      "onboard_time": 1724062522,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170522,
       "num": 735299,
       "word": "33岁保安值夜班猝死家属发声",
@@ -1601,6 +1729,14 @@
       "onboard_time": 1724032158,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167669,
+      "num": 167669,
+      "word": "刺猬",
+      "onboard_time": 1724061922,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 167283,
@@ -1667,14 +1803,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 163908,
-      "num": 163908,
-      "word": "多家公司明日放假",
-      "onboard_time": 1724060062,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 163724,
       "num": 163724,
       "word": "薛之谦 爱的多的人总先掉眼泪",
@@ -1739,6 +1867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152362,
+      "num": 152362,
+      "word": "泰国人妖骗73名日本人超500万",
+      "onboard_time": 1724062944,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151968,
       "num": 151968,
       "word": "贵州中元节",
@@ -1760,6 +1896,30 @@
       "word": "会莫名其妙背下来些没用的东西",
       "onboard_time": 1723995500,
       "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 148054,
+      "num": 148054,
+      "word": "樊振东 奥运会直播观看人次最多",
+      "onboard_time": 1724062944,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 147434,
+      "num": 147434,
+      "word": "大祙子",
+      "onboard_time": 1724061743,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 146076,
+      "num": 146076,
+      "word": "福建人的嘴巴是真的严",
+      "onboard_time": 1724062581,
+      "rank": 49,
       "category": "幽默"
     },
     {
@@ -2083,6 +2243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79833,
+      "num": 586608,
+      "word": "打12345要求刘海复原否则跳楼",
+      "onboard_time": 1724061682,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79668,
       "num": 79668,
       "word": "狂飙兄弟被爆出轨",
@@ -2249,6 +2417,14 @@
       "onboard_time": 1724015771,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 44767,
+      "num": 593174,
+      "word": "生父及女友虐待女童致死最高可判死刑",
+      "onboard_time": 1724061624,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43181,
