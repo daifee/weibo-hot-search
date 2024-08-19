@@ -1,6 +1,6 @@
 {
   "startTime": 1724084701164,
-  "endTime": 1724098888673,
+  "endTime": 1724099700127,
   "band_list": [
     {
       "raw_hot": 1218741,
@@ -307,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132931,
+      "num": 132931,
+      "word": "张昊唯 孝出强大",
+      "onboard_time": 1724096952,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130824,
       "num": 130824,
       "word": "遭网课爆破离世教师女儿称5人已道歉",
@@ -337,14 +345,6 @@
       "onboard_time": 1724081541,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 117463,
-      "num": 117463,
-      "word": "张昊唯 孝出强大",
-      "onboard_time": 1724096952,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 114958,
@@ -435,7 +435,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 66871,
+      "raw_hot": 75532,
       "num": 81521,
       "word": "蔬菜水果为什么突然变贵了",
       "onboard_time": 1724093533,
@@ -491,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 38103,
+      "num": 38103,
+      "word": "A股",
+      "onboard_time": 1724096412,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 37768,
       "num": 39515,
       "word": "孙女不会做饭给92岁姥姥点披萨咖啡",
@@ -507,14 +515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32919,
-      "num": 32919,
-      "word": "A股",
-      "onboard_time": 1724096412,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 30906,
       "num": 32656,
       "word": "56岁女子边打工边写作4年写20万字",
@@ -523,8 +523,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28612,
-      "num": 28612,
+      "raw_hot": 29855,
+      "num": 29855,
       "word": "华谊兄弟4天暴涨43%",
       "onboard_time": 1724096171,
       "rank": 32,
@@ -547,11 +547,27 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 19555,
+      "num": 23034,
+      "word": "陶勇说一天最多做过86台手术",
+      "onboard_time": 1724099470,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16328,
       "num": 228552,
       "word": "中国空间站舷窗大片再上新",
       "onboard_time": 1724074222,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14496,
+      "num": 53686,
+      "word": "申请劳动仲裁会影响找工作吗",
+      "onboard_time": 1724099051,
+      "rank": 9,
       "category": "社会新闻"
     }
   ],

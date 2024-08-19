@@ -1,0 +1,410 @@
+{
+  "runTime": 1724099700127,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 141081,
+        "num": 141081,
+        "word": "教师遭网课爆破猝死案2成年人被拘留",
+        "onboard_time": 1724082020,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132931,
+        "num": 132931,
+        "word": "张昊唯 孝出强大",
+        "onboard_time": 1724096952,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13931,
+        "num": 109001,
+        "word": "中国空间站舷窗大片再上新",
+        "onboard_time": 1724074222,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101674,
+        "num": 101674,
+        "word": "女子迪士尼上厕所超时崩溃大哭",
+        "onboard_time": 1724075061,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95479,
+        "num": 95479,
+        "word": "张昊唯 把小姐笼络起来",
+        "onboard_time": 1724055439,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78563,
+        "num": 78563,
+        "word": "网易云 没有删库没有跑路",
+        "onboard_time": 1724060422,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 75532,
+        "num": 75532,
+        "word": "蔬菜水果为什么突然变贵了",
+        "onboard_time": 1724093533,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59976,
+        "num": 59976,
+        "word": "张若昀曾被校园霸凌",
+        "onboard_time": 1724091852,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 54257,
+        "num": 54257,
+        "word": "网易云音乐故障真相",
+        "onboard_time": 1724076082,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 14496,
+        "num": 53686,
+        "word": "申请劳动仲裁会影响找工作吗",
+        "onboard_time": 1724099051,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121717,
+        "num": 53482,
+        "word": "印度2岁女童惨遭已婚男子强奸",
+        "onboard_time": 1724070200,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84227,
+        "num": 53425,
+        "word": "张昊唯报警",
+        "onboard_time": 1724062222,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53278,
+        "num": 53278,
+        "word": "网易云",
+        "onboard_time": 1724085377,
+        "rank": 12,
+        "category": "互联网,音乐"
+      },
+      {
+        "raw_hot": 51325,
+        "num": 51325,
+        "word": "普京突然出国",
+        "onboard_time": 1724069721,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 45554,
+        "num": 45554,
+        "word": "黑神话悟空预售超4亿",
+        "onboard_time": 1724072186,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 45395,
+        "num": 45395,
+        "word": "女子怀孕6个月在飞机厕所突然分娩",
+        "onboard_time": 1724064980,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44960,
+        "num": 44960,
+        "word": "超级月亮",
+        "onboard_time": 1724066840,
+        "rank": 16,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 38103,
+        "num": 38103,
+        "word": "A股",
+        "onboard_time": 1724096412,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 37590,
+        "num": 37590,
+        "word": "张淼怡对林黛玉的角色理解",
+        "onboard_time": 1724079261,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 36220,
+        "num": 36220,
+        "word": "男爱豆签售上问女粉电话号码",
+        "onboard_time": 1724064443,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 36310,
+        "num": 35554,
+        "word": "经常熬夜5年后身体有什么变化",
+        "onboard_time": 1724091193,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 31697,
+        "num": 31697,
+        "word": "一起看今年首个超级月亮",
+        "onboard_time": 1724089454,
+        "rank": 21,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 31578,
+        "num": 31578,
+        "word": "孙杨回归",
+        "onboard_time": 1724066361,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29977,
+        "num": 29977,
+        "word": "泰国人妖骗73名日本人超500万",
+        "onboard_time": 1724062944,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29855,
+        "num": 29855,
+        "word": "华谊兄弟4天暴涨43%",
+        "onboard_time": 1724096171,
+        "rank": 24,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 29572,
+        "num": 29572,
+        "word": "印度女博主揭露实习医生被奸杀细节",
+        "onboard_time": 1724060422,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29567,
+        "num": 29567,
+        "word": "刘雨辰回应退出国家队",
+        "onboard_time": 1724074521,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28643,
+        "num": 28643,
+        "word": "海底捞回应顾客店内自制腐竹",
+        "onboard_time": 1724063900,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26568,
+        "num": 28320,
+        "word": "曾舜晞年纪上来了尺度下去了",
+        "onboard_time": 1724072061,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 26412,
+        "num": 28177,
+        "word": "毛不易骂人还是太狠毒了",
+        "onboard_time": 1724083338,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28130,
+        "num": 28130,
+        "word": "男子腹泻一年肝脏脓肿竟因吃路边摊",
+        "onboard_time": 1724081300,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27451,
+        "num": 27451,
+        "word": "山东银豆橛子都快吃不起了",
+        "onboard_time": 1724087954,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26586,
+        "num": 26586,
+        "word": "拇指西瓜卖80元一斤是智商税吗",
+        "onboard_time": 1724071160,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25728,
+        "num": 26176,
+        "word": "梁洁 分寸感",
+        "onboard_time": 1724080281,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25803,
+        "num": 25981,
+        "word": "王俊凯 清华也是我小时候的梦想",
+        "onboard_time": 1724076441,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25952,
+        "num": 25952,
+        "word": "与辉同行新疆场多款新疆产品卖断货",
+        "onboard_time": 1724080402,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 25752,
+        "num": 25752,
+        "word": "陈艺文 终于见到孩子了",
+        "onboard_time": 1724084898,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25693,
+        "num": 25693,
+        "word": "韩国漫画奥运游泳200米的排名",
+        "onboard_time": 1724072061,
+        "rank": 37,
+        "category": "体育,动漫"
+      },
+      {
+        "raw_hot": 24815,
+        "num": 24815,
+        "word": "女教师遭网课爆破后猝死一案已宣判",
+        "onboard_time": 1724071824,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24366,
+        "num": 24366,
+        "word": "江苏宿迁15万斤阳光玫瑰滞销",
+        "onboard_time": 1724064621,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24040,
+        "num": 24040,
+        "word": "王楚钦看了都一愣",
+        "onboard_time": 1724068521,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23913,
+        "num": 23913,
+        "word": "原来真有人命好的一塌糊涂",
+        "onboard_time": 1724076021,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23881,
+        "num": 23881,
+        "word": "边水往事",
+        "onboard_time": 1724080460,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23800,
+        "num": 23800,
+        "word": "柳眠棠的声线都变了",
+        "onboard_time": 1724072304,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23687,
+        "num": 23687,
+        "word": "印度出现水泥做的假大蒜",
+        "onboard_time": 1724061202,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23052,
+        "num": 23052,
+        "word": "孙女不会做饭给92岁姥姥点披萨咖啡",
+        "onboard_time": 1724089813,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22375,
+        "num": 23051,
+        "word": "台风格美致湖南资兴50人遇难",
+        "onboard_time": 1724074760,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20518,
+        "num": 23042,
+        "word": "宁夏一化工车间发生爆炸",
+        "onboard_time": 1724081660,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20264,
+        "num": 23041,
+        "word": "狮子座太害怕遗憾了",
+        "onboard_time": 1724082499,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19555,
+        "num": 23034,
+        "word": "陶勇说一天最多做过86台手术",
+        "onboard_time": 1724099470,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同苏林会谈#"
+    }
+  }
+}
