@@ -1,0 +1,410 @@
+{
+  "runTime": 1724080933011,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2559288,
+        "num": 2559288,
+        "word": "女子迪士尼上厕所超时崩溃大哭",
+        "onboard_time": 1724075061,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1482648,
+        "num": 1482648,
+        "word": "刘雨辰回应退出国家队",
+        "onboard_time": 1724074521,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67636,
+        "num": 1261575,
+        "word": "我国盾构水下掘进深度破世界纪录",
+        "onboard_time": 1724076262,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1174858,
+        "num": 1174858,
+        "word": "张昊唯 把小姐笼络起来",
+        "onboard_time": 1724055439,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1077012,
+        "num": 1077012,
+        "word": "银行为什么出现离职潮",
+        "onboard_time": 1724076441,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1053043,
+        "num": 1053043,
+        "word": "张昊唯报警",
+        "onboard_time": 1724062222,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1010328,
+        "num": 1010328,
+        "word": "女教师遭网课爆破后猝死一案已宣判",
+        "onboard_time": 1724071824,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 825162,
+        "num": 825162,
+        "word": "网易云 没有删库没有跑路",
+        "onboard_time": 1724060422,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 505641,
+        "num": 784942,
+        "word": "印度出现水泥做的假大蒜",
+        "onboard_time": 1724061202,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24852,
+        "num": 772832,
+        "word": "遭网课爆破离世教师女儿称5人已道歉",
+        "onboard_time": 1724080701,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1664651,
+        "num": 768330,
+        "word": "印度2岁女童惨遭已婚男子强奸",
+        "onboard_time": 1724070200,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 761885,
+        "num": 761885,
+        "word": "普京突然出国",
+        "onboard_time": 1724069721,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 755691,
+        "num": 755691,
+        "word": "女子怀孕6个月在飞机厕所突然分娩",
+        "onboard_time": 1724064980,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 670667,
+        "num": 670667,
+        "word": "张昊唯称被一个团伙盯上",
+        "onboard_time": 1724057722,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 618554,
+        "num": 618554,
+        "word": "王俊凯 清华也是我小时候的梦想",
+        "onboard_time": 1724076441,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 528423,
+        "num": 528423,
+        "word": "男爱豆签售上问女粉电话号码",
+        "onboard_time": 1724064443,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 520758,
+        "num": 520758,
+        "word": "武艺 第一个吃榴莲的人到底怎么想的",
+        "onboard_time": 1724074641,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 479187,
+        "num": 479187,
+        "word": "海底捞回应顾客店内自制腐竹",
+        "onboard_time": 1724063900,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242724,
+        "num": 436643,
+        "word": "网易云音乐故障真相",
+        "onboard_time": 1724076082,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 166617,
+        "num": 416560,
+        "word": "外国玩家为玩黑神话恶补西游记",
+        "onboard_time": 1724077822,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 414471,
+        "num": 414471,
+        "word": "原来真有人命好的一塌糊涂",
+        "onboard_time": 1724076021,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 357646,
+        "num": 357646,
+        "word": "孙杨回归",
+        "onboard_time": 1724066361,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 338327,
+        "num": 338327,
+        "word": "黑神话悟空预售超4亿",
+        "onboard_time": 1724072186,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 337824,
+        "num": 337824,
+        "word": "全红婵亮相刺猬首映礼",
+        "onboard_time": 1724078061,
+        "rank": 23,
+        "category": "电影,体育"
+      },
+      {
+        "raw_hot": 322476,
+        "num": 322476,
+        "word": "梁洁 分寸感",
+        "onboard_time": 1724080281,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313154,
+        "num": 313154,
+        "word": "网易云音乐补偿7天会员",
+        "onboard_time": 1724061922,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 284846,
+        "num": 284846,
+        "word": "套内28平米的复式loft小家",
+        "onboard_time": 1724077581,
+        "rank": 26,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 282204,
+        "num": 282204,
+        "word": "张淼怡对林黛玉的角色理解",
+        "onboard_time": 1724079261,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 265247,
+        "num": 265247,
+        "word": "超级月亮",
+        "onboard_time": 1724066840,
+        "rank": 28,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 113605,
+        "num": 233227,
+        "word": "花花荡秋千用脸刹车",
+        "onboard_time": 1724076322,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228693,
+        "num": 228693,
+        "word": "泰国人妖骗73名日本人超500万",
+        "onboard_time": 1724062944,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227031,
+        "num": 227031,
+        "word": "孙颖莎微博粉丝破700万",
+        "onboard_time": 1724076621,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220555,
+        "num": 220555,
+        "word": "台风格美致湖南资兴50人遇难",
+        "onboard_time": 1724074760,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217571,
+        "num": 217571,
+        "word": "曾舜晞年纪上来了尺度下去了",
+        "onboard_time": 1724072061,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 214998,
+        "num": 214998,
+        "word": "印度女博主揭露实习医生被奸杀细节",
+        "onboard_time": 1724060422,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213982,
+        "num": 213982,
+        "word": "江苏宿迁15万斤阳光玫瑰滞销",
+        "onboard_time": 1724064621,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203888,
+        "num": 203888,
+        "word": "王楚钦看了都一愣",
+        "onboard_time": 1724068521,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202857,
+        "num": 202857,
+        "word": "拇指西瓜卖80元一斤是智商税吗",
+        "onboard_time": 1724071160,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196083,
+        "num": 196083,
+        "word": "边水往事",
+        "onboard_time": 1724080460,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 427863,
+        "num": 195819,
+        "word": "银行人正在集体出走",
+        "onboard_time": 1724068821,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194309,
+        "num": 194309,
+        "word": "enhypen舞台态度被审判",
+        "onboard_time": 1724077461,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184956,
+        "num": 184956,
+        "word": "柳眠棠的声线都变了",
+        "onboard_time": 1724072304,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183140,
+        "num": 183140,
+        "word": "詹雯婷翻唱阿桑一直很安静",
+        "onboard_time": 1724073560,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182538,
+        "num": 182538,
+        "word": "黑神话要卖到300万份才能回本",
+        "onboard_time": 1724061443,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161665,
+        "num": 161665,
+        "word": "与辉同行新疆场多款新疆产品卖断货",
+        "onboard_time": 1724080402,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 146340,
+        "num": 146340,
+        "word": "龙梅子演唱会",
+        "onboard_time": 1724080641,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143972,
+        "num": 143972,
+        "word": "韩国漫画奥运游泳200米的排名",
+        "onboard_time": 1724072061,
+        "rank": 46,
+        "category": "体育,动漫"
+      },
+      {
+        "raw_hot": 143555,
+        "num": 143555,
+        "word": "柳舟记 史密斯夫妇",
+        "onboard_time": 1724072121,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135039,
+        "num": 135039,
+        "word": "章昊已读乱回功力一等",
+        "onboard_time": 1724080701,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129276,
+        "num": 129276,
+        "word": "男主什么都问了就忘了问性别",
+        "onboard_time": 1724071406,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同苏林会谈#"
+    }
+  }
+}
