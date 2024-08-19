@@ -1,6 +1,6 @@
 {
   "startTime": 1723998199428,
-  "endTime": 1724063031633,
+  "endTime": 1724064039352,
   "band_list": [
     {
       "raw_hot": 9160024,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 7076695,
-      "num": 1414307,
+      "num": 6063040,
       "word": "张昊唯报警",
       "onboard_time": 1724062222,
       "rank": 3,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 1409335,
-      "num": 598863,
+      "num": 665931,
       "word": "焦俊艳爆料杨幂很少参加同学聚会",
       "onboard_time": 1724060422,
       "rank": 6,
@@ -467,6 +467,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 691735,
+      "num": 667386,
+      "word": "姜萍",
+      "onboard_time": 1724061323,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 664426,
       "num": 664426,
       "word": "间谍利用大学生拍涉密科研基地照片",
@@ -499,6 +507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 634291,
+      "num": 634291,
+      "word": "王楠送国乒奥运冠军金牌曝光",
+      "onboard_time": 1724060182,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 629793,
       "num": 629793,
       "word": "郑钦文参加中国体育代表团表彰大会",
@@ -521,6 +537,14 @@
       "onboard_time": 1724043621,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 615041,
+      "num": 615041,
+      "word": "黑神话证明男性购买力",
+      "onboard_time": 1724056943,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 607733,
@@ -563,14 +587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 577431,
-      "num": 577431,
-      "word": "王楠送国乒奥运冠军金牌曝光",
-      "onboard_time": 1724060182,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 573445,
       "num": 573445,
       "word": "时代少年团账号直播封禁",
@@ -595,20 +611,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 548901,
-      "num": 548901,
-      "word": "黑神话证明男性购买力",
-      "onboard_time": 1724056943,
-      "rank": 17,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 538200,
       "num": 538200,
       "word": "迪丽热巴杂志销量",
       "onboard_time": 1724035760,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 534050,
+      "num": 534050,
+      "word": "网易云音乐补偿7天会员",
+      "onboard_time": 1724061922,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 521004,
@@ -667,12 +683,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 477645,
+      "num": 466063,
+      "word": "印度女博主揭露实习医生被奸杀细节",
+      "onboard_time": 1724060422,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 469828,
       "num": 376765,
       "word": "男朋友不接受猫上床",
       "onboard_time": 1724022795,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 466912,
+      "num": 594970,
+      "word": "黑神话要卖到300万份才能回本",
+      "onboard_time": 1724061443,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 463660,
@@ -699,12 +731,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 433734,
-      "num": 594970,
-      "word": "黑神话要卖到300万份才能回本",
-      "onboard_time": 1724061443,
-      "rank": 7,
-      "category": "游戏"
+      "raw_hot": 424905,
+      "num": 424905,
+      "word": "泰国人妖骗73名日本人超500万",
+      "onboard_time": 1724062944,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 422655,
@@ -779,14 +811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 386832,
-      "num": 386832,
-      "word": "姜萍",
-      "onboard_time": 1724061323,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 379061,
       "num": 379061,
       "word": "怀疑了一圈就是没怀疑网易云",
@@ -827,14 +851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 357838,
-      "num": 357838,
-      "word": "网易云音乐补偿7天会员",
-      "onboard_time": 1724061922,
-      "rank": 21,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 352985,
       "num": 333497,
       "word": "外交部回应菲律宾侵闯仙宾礁",
@@ -867,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 339893,
+      "num": 339893,
+      "word": "生活在小县城的人嘴真严",
+      "onboard_time": 1724059223,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 338333,
       "num": 338333,
       "word": "刘惜君金发",
@@ -891,12 +915,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 321661,
-      "num": 321661,
-      "word": "印度女博主揭露实习医生被奸杀细节",
-      "onboard_time": 1724060422,
-      "rank": 23,
+      "raw_hot": 330246,
+      "num": 330246,
+      "word": "印度出现水泥做的假大蒜",
+      "onboard_time": 1724061202,
+      "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321063,
+      "num": 321063,
+      "word": "多家公司明日放假",
+      "onboard_time": 1724060062,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 320674,
@@ -905,14 +937,6 @@
       "onboard_time": 1724047282,
       "rank": 36,
       "category": "美食"
-    },
-    {
-      "raw_hot": 320438,
-      "num": 320438,
-      "word": "印度出现水泥做的假大蒜",
-      "onboard_time": 1724061202,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 320216,
@@ -953,14 +977,6 @@
       "onboard_time": 1724030898,
       "rank": 30,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 312420,
-      "num": 312420,
-      "word": "多家公司明日放假",
-      "onboard_time": 1724060062,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 310227,
@@ -1004,7 +1020,7 @@
     },
     {
       "raw_hot": 289890,
-      "num": 366148,
+      "num": 382525,
       "word": "内娱李胜利",
       "onboard_time": 1724060480,
       "rank": 18,
@@ -1043,12 +1059,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 285159,
-      "num": 285159,
-      "word": "生活在小县城的人嘴真严",
-      "onboard_time": 1724059223,
+      "raw_hot": 284490,
+      "num": 384748,
+      "word": "NMIXX空降",
+      "onboard_time": 1724062763,
       "rank": 35,
-      "category": "情感"
+      "category": "音乐"
     },
     {
       "raw_hot": 282657,
@@ -1339,6 +1355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210000,
+      "num": 286300,
+      "word": "韦礼安 你让我感到陌生",
+      "onboard_time": 1724062522,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207957,
       "num": 207957,
       "word": "张昊唯 客户名单",
@@ -1377,14 +1401,6 @@
       "onboard_time": 1724041942,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 203906,
-      "num": 203906,
-      "word": "NMIXX空降",
-      "onboard_time": 1724062763,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 203892,
@@ -1659,14 +1675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 170969,
-      "num": 286300,
-      "word": "韦礼安 你让我感到陌生",
-      "onboard_time": 1724062522,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 170522,
       "num": 735299,
       "word": "33岁保安值夜班猝死家属发声",
@@ -1851,6 +1859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157675,
+      "num": 586608,
+      "word": "打12345要求刘海复原否则跳楼",
+      "onboard_time": 1724061682,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155436,
       "num": 155436,
       "word": "当猫咪看到经常投喂它的路人时",
@@ -1865,14 +1881,6 @@
       "onboard_time": 1724059463,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 152362,
-      "num": 152362,
-      "word": "泰国人妖骗73名日本人超500万",
-      "onboard_time": 1724062944,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151968,
@@ -1899,8 +1907,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 148054,
-      "num": 148054,
+      "raw_hot": 148176,
+      "num": 148176,
       "word": "樊振东 奥运会直播观看人次最多",
       "onboard_time": 1724062944,
       "rank": 47,
@@ -1913,6 +1921,14 @@
       "onboard_time": 1724061743,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146616,
+      "num": 146616,
+      "word": "樊振东觉得自己挺棒的",
+      "onboard_time": 1724063842,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 146076,
@@ -1953,6 +1969,14 @@
       "onboard_time": 1724048241,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135457,
+      "num": 135457,
+      "word": "海底捞回应顾客店内自制腐竹",
+      "onboard_time": 1724063900,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133590,
@@ -2241,14 +2265,6 @@
       "onboard_time": 1724023155,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 79833,
-      "num": 586608,
-      "word": "打12345要求刘海复原否则跳楼",
-      "onboard_time": 1724061682,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79668,
