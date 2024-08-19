@@ -1,0 +1,410 @@
+{
+  "runTime": 1724052916221,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9160024,
+        "num": 9160024,
+        "word": "网易云音乐崩了",
+        "onboard_time": 1724050040,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 3949610,
+        "num": 3949610,
+        "word": "张昊唯被曝涉嫌税务问题",
+        "onboard_time": 1724049981,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36476,
+        "num": 1847256,
+        "word": "你以生命相托我必全力以赴",
+        "onboard_time": 1724052861,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1110241,
+        "num": 1110241,
+        "word": "上海一展会低俗涉黄手办吓坏家长",
+        "onboard_time": 1724049260,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 848763,
+        "num": 848763,
+        "word": "爸爸忘拉手刹俩孩子随车冲进鱼塘",
+        "onboard_time": 1724045780,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533551,
+        "num": 533551,
+        "word": "印度女医生",
+        "onboard_time": 1724046799,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 72569,
+        "num": 528666,
+        "word": "2024最美医生发布",
+        "onboard_time": 1724040382,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3086203,
+        "num": 519605,
+        "word": "张昊唯录音",
+        "onboard_time": 1724050341,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 614562,
+        "num": 509671,
+        "word": "几年不见TFBOYS变化这么大",
+        "onboard_time": 1724047520,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 85299,
+        "num": 502216,
+        "word": "官方回应大连2人被水冲到车底遇难",
+        "onboard_time": 1724048720,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1226281,
+        "num": 493174,
+        "word": "公司要上四休三降薪1千",
+        "onboard_time": 1724040262,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 938259,
+        "num": 478719,
+        "word": "黄一鸣女儿会叫爸爸了",
+        "onboard_time": 1724049260,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477790,
+        "num": 477790,
+        "word": "发了一条朋友圈搭上了20万元",
+        "onboard_time": 1724033718,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1377253,
+        "num": 475520,
+        "word": "张昊唯 培养自己的妈咪",
+        "onboard_time": 1724052681,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447945,
+        "num": 447945,
+        "word": "两个人买四寸蛋糕被老板挂朋友圈",
+        "onboard_time": 1724037019,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 444835,
+        "num": 444835,
+        "word": "陌生男袒胸露肉亲小女孩妈妈报警",
+        "onboard_time": 1724051000,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425982,
+        "num": 425982,
+        "word": "异形 恶心",
+        "onboard_time": 1724046859,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 406525,
+        "num": 406525,
+        "word": "新版林黛玉",
+        "onboard_time": 1724040981,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 354204,
+        "num": 354204,
+        "word": "孤注一掷重映定档",
+        "onboard_time": 1724043560,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 322260,
+        "num": 322260,
+        "word": "黑泽良平 没办法我只能哭了",
+        "onboard_time": 1724046619,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 660599,
+        "num": 321907,
+        "word": "刚同居女朋友不愿意AA制",
+        "onboard_time": 1724043443,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 459903,
+        "num": 315450,
+        "word": "袜和祙是两个不同的字",
+        "onboard_time": 1724050400,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 308405,
+        "num": 308405,
+        "word": "全红婵说到了发育关才知道芋汐的难",
+        "onboard_time": 1724031859,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278278,
+        "num": 278278,
+        "word": "大连暴雨2人意外死亡",
+        "onboard_time": 1724046740,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263574,
+        "num": 263574,
+        "word": "离婚跟拍",
+        "onboard_time": 1724039242,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216507,
+        "num": 216507,
+        "word": "徐卓一是王楚钦的采访粉",
+        "onboard_time": 1724051840,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211926,
+        "num": 211926,
+        "word": "人社局回应41人事业编被集体清退",
+        "onboard_time": 1724045060,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46187,
+        "num": 208262,
+        "word": "给医生多一份守护和理解",
+        "onboard_time": 1724047701,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208133,
+        "num": 208133,
+        "word": "警方回应网文称女子饿死在出租屋",
+        "onboard_time": 1724048303,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200603,
+        "num": 200603,
+        "word": "王阳明 我不比娘炮的动作",
+        "onboard_time": 1724039181,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203348,
+        "num": 200524,
+        "word": "易烊千玺Golden Goose",
+        "onboard_time": 1724043380,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200344,
+        "num": 200344,
+        "word": "赵丽颖好帅",
+        "onboard_time": 1724037258,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198491,
+        "num": 198491,
+        "word": "一个四十多岁女性的20年相亲史",
+        "onboard_time": 1724049079,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198079,
+        "num": 198079,
+        "word": "capper恋爱",
+        "onboard_time": 1724035638,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41657,
+        "num": 197766,
+        "word": "多地捣毁改装销售鬼秤窝点",
+        "onboard_time": 1724050880,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197481,
+        "num": 197481,
+        "word": "迪丽热巴 黄金时代",
+        "onboard_time": 1724035038,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 121057,
+        "num": 195368,
+        "word": "鬼秤称重显示可高出实际重量60%",
+        "onboard_time": 1724050819,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194740,
+        "num": 194740,
+        "word": "网文女孩饿死在出租屋被质疑不实",
+        "onboard_time": 1724049680,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193220,
+        "num": 193220,
+        "word": "北大教授称要给400万医生体面收入",
+        "onboard_time": 1724051840,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191769,
+        "num": 191769,
+        "word": "孙颖莎谈女单夺银",
+        "onboard_time": 1724039119,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188711,
+        "num": 188711,
+        "word": "致敬医师节",
+        "onboard_time": 1724032038,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184453,
+        "num": 184453,
+        "word": "悬疑文作者给自己写害怕了",
+        "onboard_time": 1724043982,
+        "rank": 41,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 184396,
+        "num": 184396,
+        "word": "瑞幸CGO称男性购买力颠覆认知了",
+        "onboard_time": 1724052260,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 182913,
+        "num": 182913,
+        "word": "恋与深空肯德基",
+        "onboard_time": 1724052442,
+        "rank": 43,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 173962,
+        "num": 173962,
+        "word": "苏林访华",
+        "onboard_time": 1724036119,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 169364,
+        "num": 169364,
+        "word": "电影失孤原型案二审",
+        "onboard_time": 1724051181,
+        "rank": 45,
+        "category": "社会新闻,电影"
+      },
+      {
+        "raw_hot": 168027,
+        "num": 168027,
+        "word": "瑞幸回应黑神话悟空券核销不了",
+        "onboard_time": 1724038520,
+        "rank": 46,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 164422,
+        "num": 164422,
+        "word": "印度医学会呼吁医生举行全国大罢工",
+        "onboard_time": 1724052799,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160862,
+        "num": 160862,
+        "word": "30岁已经没有人联系我了",
+        "onboard_time": 1724051721,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155436,
+        "num": 155436,
+        "word": "当猫咪看到经常投喂它的路人时",
+        "onboard_time": 1724051780,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平为苏林举行欢迎仪式#"
+    }
+  }
+}
