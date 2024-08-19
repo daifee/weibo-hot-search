@@ -1,0 +1,410 @@
+{
+  "runTime": 1724035253519,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2504994,
+        "num": 2504994,
+        "word": "全红婵说到了发育关才知道芋汐的难",
+        "onboard_time": 1724031859,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1303729,
+        "num": 1303729,
+        "word": "女子称三万买的手机太卡第二天想退",
+        "onboard_time": 1724026999,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11248,
+        "num": 1135751,
+        "word": "神十八乘组太空出差中的轻松时刻",
+        "onboard_time": 1723958300,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1721286,
+        "num": 1116143,
+        "word": "为了不回信息在微信演了两年尸体",
+        "onboard_time": 1724030479,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1005006,
+        "num": 1005006,
+        "word": "发了一条朋友圈搭上了20万元",
+        "onboard_time": 1724033718,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 828357,
+        "num": 828357,
+        "word": "樊振东回应退役传闻",
+        "onboard_time": 1723991360,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 792811,
+        "num": 792811,
+        "word": "终于有剧一眼看出女扮男装了",
+        "onboard_time": 1724025378,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 781085,
+        "num": 781085,
+        "word": "迪丽热巴 黄金时代",
+        "onboard_time": 1724035038,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 188946,
+        "num": 769536,
+        "word": "人民网评汝州41人事业编被集体清退",
+        "onboard_time": 1724034619,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78696,
+        "num": 761660,
+        "word": "起底涉案资金过亿的社区书记",
+        "onboard_time": 1724034619,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 760306,
+        "num": 760306,
+        "word": "iPhone16Pro四款配色",
+        "onboard_time": 1724027239,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 740694,
+        "num": 740694,
+        "word": "樊振东回应换衣服后逆转张本智和",
+        "onboard_time": 1724033179,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 709865,
+        "num": 709865,
+        "word": "全红婵说两届金牌都自己拿不是很开心",
+        "onboard_time": 1724005512,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 647962,
+        "num": 647962,
+        "word": "每天睡六小时和八小时的区别",
+        "onboard_time": 1724028500,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 632232,
+        "num": 632232,
+        "word": "男狐狸精请按这个标准卷",
+        "onboard_time": 1724028559,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 543460,
+        "num": 543460,
+        "word": "迪丽热巴金九",
+        "onboard_time": 1724034859,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 517330,
+        "num": 517330,
+        "word": "瑞幸 黑神话悟空",
+        "onboard_time": 1724025259,
+        "rank": 16,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 486672,
+        "num": 486672,
+        "word": "中方回应菲船只故意冲撞我海警舰艇",
+        "onboard_time": 1724026219,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 306053,
+        "num": 418484,
+        "word": "陈牧驰 从精神抖擞到精神涣散",
+        "onboard_time": 1724027060,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225561,
+        "num": 387647,
+        "word": "陈哲远很爱报备一男的",
+        "onboard_time": 1724030239,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 533607,
+        "num": 386780,
+        "word": "因为给男朋友买衣服吵架了",
+        "onboard_time": 1724030479,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 385458,
+        "num": 385458,
+        "word": "中国海警对菲侵权船只依法依规实施管控措施",
+        "onboard_time": 1724022256,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 366600,
+        "num": 366600,
+        "word": "间谍利用大学生拍涉密科研基地照片",
+        "onboard_time": 1724027180,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340765,
+        "num": 340765,
+        "word": "致敬医师节",
+        "onboard_time": 1724032038,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35560,
+        "num": 338057,
+        "word": "您守护世界我守护您",
+        "onboard_time": 1724031679,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335685,
+        "num": 335685,
+        "word": "现在学会计还香吗",
+        "onboard_time": 1724028500,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 329831,
+        "num": 329831,
+        "word": "陈芋汐回应去读大学",
+        "onboard_time": 1723995201,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321594,
+        "num": 321594,
+        "word": "快递公司寄丢毕业证只赔36元法院判了",
+        "onboard_time": 1723990101,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213371,
+        "num": 314316,
+        "word": "任敏对路人说不怕我的粉丝揍你吗",
+        "onboard_time": 1723991959,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203304,
+        "num": 313501,
+        "word": "杨幂的受众还是太全面了",
+        "onboard_time": 1724026999,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 312973,
+        "num": 312973,
+        "word": "过期护发素不要扔",
+        "onboard_time": 1724030898,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 309534,
+        "num": 309534,
+        "word": "李佳琦在自己直播间办了披哥1.5公",
+        "onboard_time": 1723992501,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285301,
+        "num": 285301,
+        "word": "劳动仲裁怎么成了求职污点",
+        "onboard_time": 1724032399,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280606,
+        "num": 280606,
+        "word": "打开朋友圈发现大家都不用上班",
+        "onboard_time": 1724033237,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 234429,
+        "num": 234429,
+        "word": "菲律宾",
+        "onboard_time": 1724024598,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 233142,
+        "num": 233142,
+        "word": "第7个中国医师节",
+        "onboard_time": 1724027419,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227333,
+        "num": 227333,
+        "word": "加沙一母亲和6个孩子被炸死",
+        "onboard_time": 1724031258,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 213461,
+        "num": 213461,
+        "word": "目前我国新冠感染趋势如何",
+        "onboard_time": 1724032818,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 204723,
+        "num": 204723,
+        "word": "男朋友不接受猫上床",
+        "onboard_time": 1724022795,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202723,
+        "num": 202723,
+        "word": "菲律宾恶意冲撞中方海警船",
+        "onboard_time": 1724028260,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 194795,
+        "num": 194795,
+        "word": "张兰怒怼网友",
+        "onboard_time": 1724034379,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184795,
+        "num": 184795,
+        "word": "碳水和睡眠的关系",
+        "onboard_time": 1724025259,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 181745,
+        "num": 181745,
+        "word": "五台山的狐狸要胖成球了",
+        "onboard_time": 1724033298,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176017,
+        "num": 176017,
+        "word": "黑神话悟空",
+        "onboard_time": 1724027480,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175848,
+        "num": 175848,
+        "word": "3岁女童被虐致死生母放弃民事赔偿",
+        "onboard_time": 1723992921,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173633,
+        "num": 173633,
+        "word": "剑网3",
+        "onboard_time": 1724035158,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159561,
+        "num": 159561,
+        "word": "足协原副主席李毓毅被判11年",
+        "onboard_time": 1724030479,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159366,
+        "num": 159366,
+        "word": "陈芋汐 有遗憾但不后悔",
+        "onboard_time": 1724032158,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153641,
+        "num": 153641,
+        "word": "医师节",
+        "onboard_time": 1724025259,
+        "rank": 48,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 145373,
+        "num": 153439,
+        "word": "檀健次从i到e",
+        "onboard_time": 1724033119,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻文化根魂#"
+    }
+  }
+}
