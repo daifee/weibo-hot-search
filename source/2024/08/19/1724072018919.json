@@ -1,0 +1,410 @@
+{
+  "runTime": 1724072018919,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1893711,
+        "num": 1893711,
+        "word": "全红婵 我拿了金牌是不是不对",
+        "onboard_time": 1724067861,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1862039,
+        "num": 1862039,
+        "word": "警方确认女子死在出租屋事件属实",
+        "onboard_time": 1724068521,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39533,
+        "num": 1616642,
+        "word": "你以生命相托我必全力以赴",
+        "onboard_time": 1724052861,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1611956,
+        "num": 1611956,
+        "word": "张昊唯 把小姐笼络起来",
+        "onboard_time": 1724055439,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1500853,
+        "num": 1500853,
+        "word": "张昊唯报警",
+        "onboard_time": 1724062222,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1191241,
+        "num": 1191241,
+        "word": "孙杨回归",
+        "onboard_time": 1724066361,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1028203,
+        "num": 1028203,
+        "word": "网易云 没有删库没有跑路",
+        "onboard_time": 1724060422,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 886127,
+        "num": 886127,
+        "word": "王楚钦看了都一愣",
+        "onboard_time": 1724068521,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222831,
+        "num": 884715,
+        "word": "江苏宿迁15万斤阳光玫瑰滞销",
+        "onboard_time": 1724064621,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189803,
+        "num": 878691,
+        "word": "黑神话销量",
+        "onboard_time": 1724070742,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2850692,
+        "num": 877114,
+        "word": "印度2岁女童惨遭已婚男子强奸",
+        "onboard_time": 1724070200,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1414567,
+        "num": 870928,
+        "word": "普京突然出国",
+        "onboard_time": 1724069721,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 944388,
+        "num": 869702,
+        "word": "女子怀孕6个月在飞机厕所突然分娩",
+        "onboard_time": 1724064980,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 865652,
+        "num": 865652,
+        "word": "张昊唯称被一个团伙盯上",
+        "onboard_time": 1724057722,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 795697,
+        "num": 795697,
+        "word": "男爱豆签售上问女粉电话号码",
+        "onboard_time": 1724064443,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 645519,
+        "num": 645519,
+        "word": "海底捞回应顾客店内自制腐竹",
+        "onboard_time": 1724063900,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528443,
+        "num": 528443,
+        "word": "泰国人妖骗73名日本人超500万",
+        "onboard_time": 1724062944,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444277,
+        "num": 444277,
+        "word": "黑神话要卖到300万份才能回本",
+        "onboard_time": 1724061443,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 381325,
+        "num": 381325,
+        "word": "焦俊艳辟谣杨幂很少参加同学聚会",
+        "onboard_time": 1724064801,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337735,
+        "num": 375964,
+        "word": "张淼怡综艺首秀",
+        "onboard_time": 1724066900,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372437,
+        "num": 372437,
+        "word": "印度出现水泥做的假大蒜",
+        "onboard_time": 1724061202,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348311,
+        "num": 348311,
+        "word": "银行人正在集体出走",
+        "onboard_time": 1724068821,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306680,
+        "num": 306680,
+        "word": "网易云音乐补偿7天会员",
+        "onboard_time": 1724061922,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 302079,
+        "num": 302079,
+        "word": "印度女博主揭露实习医生被奸杀细节",
+        "onboard_time": 1724060422,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291795,
+        "num": 291795,
+        "word": "超级月亮",
+        "onboard_time": 1724066840,
+        "rank": 24,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 288687,
+        "num": 288687,
+        "word": "柳舟记17集反转",
+        "onboard_time": 1724068461,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280764,
+        "num": 280764,
+        "word": "王楠送国乒奥运冠军金牌曝光",
+        "onboard_time": 1724060182,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258401,
+        "num": 258401,
+        "word": "躺床上玩手机的正确姿势",
+        "onboard_time": 1724064562,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 251015,
+        "num": 251015,
+        "word": "完税证明",
+        "onboard_time": 1724068342,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208958,
+        "num": 239487,
+        "word": "男主什么都问了就忘了问性别",
+        "onboard_time": 1724071406,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238472,
+        "num": 238472,
+        "word": "黑神话证明男性购买力",
+        "onboard_time": 1724056943,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 237508,
+        "num": 237508,
+        "word": "马龙孙颖莎等国乒队员访港行程敲定",
+        "onboard_time": 1724059822,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192840,
+        "num": 192840,
+        "word": "父女骑电动车被积水冲至大客车底溺亡",
+        "onboard_time": 1724066419,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192545,
+        "num": 192545,
+        "word": "黑神话 请假",
+        "onboard_time": 1724066840,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184958,
+        "num": 184958,
+        "word": "网易云音乐称基础设施故障",
+        "onboard_time": 1724053520,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 183284,
+        "num": 183284,
+        "word": "生活在小县城的人嘴真严",
+        "onboard_time": 1724059223,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178517,
+        "num": 178517,
+        "word": "中药冰激凌火了",
+        "onboard_time": 1724072004,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 168384,
+        "num": 168384,
+        "word": "内娱李胜利",
+        "onboard_time": 1724060480,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167953,
+        "num": 167953,
+        "word": "刚同居女朋友不愿意AA制",
+        "onboard_time": 1724043443,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166312,
+        "num": 166312,
+        "word": "拇指西瓜卖80元一斤是智商税吗",
+        "onboard_time": 1724071160,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159731,
+        "num": 159731,
+        "word": "陌生男袒胸露肉亲小女孩妈妈报警",
+        "onboard_time": 1724051000,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159208,
+        "num": 159208,
+        "word": "女教师遭网课爆破后猝死一案已宣判",
+        "onboard_time": 1724071824,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158081,
+        "num": 158081,
+        "word": "迪丽热巴花絮更新",
+        "onboard_time": 1724071587,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155516,
+        "num": 155516,
+        "word": "高一新生遭多名学生霸凌被逼下跪",
+        "onboard_time": 1724067442,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153420,
+        "num": 153420,
+        "word": "西安网信回应网文称女孩饿死在出租屋",
+        "onboard_time": 1724067861,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152558,
+        "num": 152558,
+        "word": "柳眠棠掉马 复仇剧开场",
+        "onboard_time": 1724071766,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147951,
+        "num": 147951,
+        "word": "异形 恶心",
+        "onboard_time": 1724046859,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147928,
+        "num": 147928,
+        "word": "张雨霏期待去北师大听课",
+        "onboard_time": 1724071885,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144363,
+        "num": 144363,
+        "word": "孙杨重返赛场",
+        "onboard_time": 1724068280,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140100,
+        "num": 140100,
+        "word": "多家公司明日放假",
+        "onboard_time": 1724060062,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同苏林共同出席合作文件签字仪式#"
+    }
+  }
+}

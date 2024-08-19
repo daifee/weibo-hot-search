@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724071102748,
+  "endTime": 1724072018919,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2850692,
+      "num": 971991,
+      "word": "印度2岁女童惨遭已婚男子强奸",
+      "onboard_time": 1724070200,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2666575,
       "num": 2666575,
       "word": "全红婵说到了发育关才知道芋汐的难",
@@ -129,14 +137,6 @@
       "onboard_time": 1724040262,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 2324531,
-      "num": 971991,
-      "word": "印度2岁女童惨遭已婚男子强奸",
-      "onboard_time": 1724070200,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2265353,
@@ -179,12 +179,28 @@
       "category": "社会新闻,综艺"
     },
     {
+      "raw_hot": 1893711,
+      "num": 1893711,
+      "word": "全红婵 我拿了金牌是不是不对",
+      "onboard_time": 1724067861,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1886676,
       "num": 1886676,
       "word": "整容医生说亚洲脸安什么欧洲眼",
       "onboard_time": 1723941979,
       "rank": 0,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 1862039,
+      "num": 1862039,
+      "word": "警方确认女子死在出租屋事件属实",
+      "onboard_time": 1724068521,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1800733,
@@ -233,14 +249,6 @@
       "onboard_time": 1724045780,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1728310,
-      "num": 1728310,
-      "word": "全红婵 我拿了金牌是不是不对",
-      "onboard_time": 1724067861,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 1720310,
@@ -345,6 +353,14 @@
       "onboard_time": 1723990218,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1414567,
+      "num": 870928,
+      "word": "普京突然出国",
+      "onboard_time": 1724069721,
+      "rank": 15,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1409335,
@@ -553,14 +569,6 @@
       "onboard_time": 1724049260,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1040869,
-      "num": 1040869,
-      "word": "警方确认女子死在出租屋事件属实",
-      "onboard_time": 1724068521,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1040270,
@@ -841,14 +849,6 @@
       "onboard_time": 1723959199,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 832659,
-      "num": 832659,
-      "word": "普京突然出国",
-      "onboard_time": 1724069721,
-      "rank": 15,
-      "category": "国外时政"
     },
     {
       "raw_hot": 828112,
@@ -1947,6 +1947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 348311,
+      "num": 348311,
+      "word": "银行人正在集体出走",
+      "onboard_time": 1724068821,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347347,
       "num": 347347,
       "word": "樊振东低谷时看足球赛激励自己",
@@ -2235,6 +2243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291795,
+      "num": 609652,
+      "word": "超级月亮",
+      "onboard_time": 1724066840,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291233,
       "num": 291233,
       "word": "徐晔医生",
@@ -2385,14 +2401,6 @@
       "onboard_time": 1724038880,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 273971,
-      "num": 609652,
-      "word": "超级月亮",
-      "onboard_time": 1724066840,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 273528,
@@ -2552,14 +2560,6 @@
       "word": "第7个中国医师节",
       "onboard_time": 1724027419,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 253606,
-      "num": 253606,
-      "word": "银行人正在集体出走",
-      "onboard_time": 1724068821,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -2963,6 +2963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208958,
+      "num": 239487,
+      "word": "男主什么都问了就忘了问性别",
+      "onboard_time": 1724071406,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208889,
       "num": 208889,
       "word": "12岁小学生韩信比肩同期苏炳添",
@@ -3347,6 +3355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189803,
+      "num": 982546,
+      "word": "黑神话销量",
+      "onboard_time": 1724070742,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 189764,
       "num": 189764,
       "word": "王俊凯出道十一年最大尺度",
@@ -3561,6 +3577,14 @@
       "onboard_time": 1723990520,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 178517,
+      "num": 178517,
+      "word": "中药冰激凌火了",
+      "onboard_time": 1724072004,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 177994,
@@ -3779,6 +3803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166312,
+      "num": 166312,
+      "word": "拇指西瓜卖80元一斤是智商税吗",
+      "onboard_time": 1724071160,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166121,
       "num": 450265,
       "word": "安徽回应赵亮实名举报官商勾结",
@@ -3987,12 +4019,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159208,
+      "num": 159208,
+      "word": "女教师遭网课爆破后猝死一案已宣判",
+      "onboard_time": 1724071824,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158385,
       "num": 158385,
       "word": "王楚然手绘蛐蛐友友图",
       "onboard_time": 1723987399,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158081,
+      "num": 158081,
+      "word": "迪丽热巴花絮更新",
+      "onboard_time": 1724071587,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 157685,
@@ -4115,6 +4163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153420,
+      "num": 153420,
+      "word": "西安网信回应网文称女孩饿死在出租屋",
+      "onboard_time": 1724067861,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152727,
       "num": 152727,
       "word": "存款利率迈入1字头",
@@ -4129,6 +4185,14 @@
       "onboard_time": 1723946598,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 152558,
+      "num": 152558,
+      "word": "柳眠棠掉马 复仇剧开场",
+      "onboard_time": 1724071766,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 152174,
@@ -4176,14 +4240,6 @@
       "word": "疾控41名事业编遭清退涉事主任被停职",
       "onboard_time": 1723904722,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 149939,
-      "num": 149939,
-      "word": "西安网信回应网文称女孩饿死在出租屋",
-      "onboard_time": 1724067861,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -4240,6 +4296,14 @@
       "word": "韩美林08年奥运福娃创作手稿曝光",
       "onboard_time": 1724064621,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 147928,
+      "num": 147928,
+      "word": "张雨霏期待去北师大听课",
+      "onboard_time": 1724071885,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -4545,14 +4609,6 @@
       "onboard_time": 1723972760,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 128432,
-      "num": 982546,
-      "word": "黑神话销量",
-      "onboard_time": 1724070742,
-      "rank": 9,
-      "category": "游戏"
     },
     {
       "raw_hot": 128330,
