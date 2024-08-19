@@ -1,7 +1,15 @@
 {
   "startTime": 1724084701164,
-  "endTime": 1724085609825,
+  "endTime": 1724087979337,
   "band_list": [
+    {
+      "raw_hot": 1218741,
+      "num": 1218741,
+      "word": "教师遭网课爆破猝死案2成年人被拘留",
+      "onboard_time": 1724082020,
+      "rank": 5,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1189353,
       "num": 1189353,
@@ -25,14 +33,6 @@
       "onboard_time": 1724060422,
       "rank": 1,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 821239,
-      "num": 821239,
-      "word": "教师遭网课爆破猝死案2成年人被拘留",
-      "onboard_time": 1724082020,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 699507,
@@ -123,20 +123,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 373989,
+      "num": 373989,
+      "word": "网易云音乐故障真相",
+      "onboard_time": 1724076082,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 369624,
       "num": 369624,
       "word": "网易云",
       "onboard_time": 1724085377,
       "rank": 13,
       "category": "互联网,音乐"
-    },
-    {
-      "raw_hot": 354642,
-      "num": 354642,
-      "word": "网易云音乐故障真相",
-      "onboard_time": 1724076082,
-      "rank": 16,
-      "category": "互联网"
     },
     {
       "raw_hot": 327439,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 134300,
-      "num": 134300,
+      "num": 143838,
       "word": "拇指西瓜卖80元一斤是智商税吗",
       "onboard_time": 1724071160,
       "rank": 38,
@@ -416,6 +416,22 @@
       "word": "我国盾构水下掘进深度破世界纪录",
       "onboard_time": 1724076262,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26398,
+      "num": 100643,
+      "word": "山东银豆橛子都快吃不起了",
+      "onboard_time": 1724087954,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25507,
+      "num": 80144,
+      "word": "宁夏一化工车间发生爆炸",
+      "onboard_time": 1724081660,
+      "rank": 35,
       "category": "社会新闻"
     }
   ],

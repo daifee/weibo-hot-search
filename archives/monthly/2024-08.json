@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1724085609825,
+  "endTime": 1724087979337,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -9539,6 +9539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1218741,
+      "num": 1218741,
+      "word": "教师遭网课爆破猝死案2成年人被拘留",
+      "onboard_time": 1724082020,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1218189,
       "num": 1218189,
       "word": "闭幕式 齐天大圣从天而降",
@@ -14009,14 +14017,6 @@
       "onboard_time": 1723468280,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 821239,
-      "num": 821239,
-      "word": "教师遭网课爆破猝死案2成年人被拘留",
-      "onboard_time": 1724082020,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 819707,
@@ -25275,6 +25275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 373989,
+      "num": 708405,
+      "word": "网易云音乐故障真相",
+      "onboard_time": 1724076082,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 373795,
       "num": 461783,
       "word": "赵露思玩双杠",
@@ -26233,14 +26241,6 @@
       "onboard_time": 1723785804,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 355590,
-      "num": 708405,
-      "word": "网易云音乐故障真相",
-      "onboard_time": 1724076082,
-      "rank": 29,
-      "category": "互联网"
     },
     {
       "raw_hot": 355503,
@@ -57961,6 +57961,14 @@
       "onboard_time": 1723922951,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26398,
+      "num": 100643,
+      "word": "山东银豆橛子都快吃不起了",
+      "onboard_time": 1724087954,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26338,
