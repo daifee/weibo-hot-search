@@ -1,6 +1,6 @@
 {
   "startTime": 1723998199428,
-  "endTime": 1724035253519,
+  "endTime": 1724035860592,
   "band_list": [
     {
       "raw_hot": 5870597,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2504994,
-      "num": 2504994,
+      "raw_hot": 2666575,
+      "num": 2666575,
       "word": "全红婵说到了发育关才知道芋汐的难",
       "onboard_time": 1724031859,
       "rank": 39,
@@ -35,12 +35,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1721286,
-      "num": 1116143,
+      "raw_hot": 1754275,
+      "num": 1284067,
       "word": "为了不回信息在微信演了两年尸体",
       "onboard_time": 1724030479,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1345919,
+      "num": 1345919,
+      "word": "发了一条朋友圈搭上了20万元",
+      "onboard_time": 1724033718,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1333021,
@@ -49,6 +57,14 @@
       "onboard_time": 1724028500,
       "rank": 7,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1279507,
+      "num": 1279507,
+      "word": "迪丽热巴 黄金时代",
+      "onboard_time": 1724035038,
+      "rank": 7,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1229909,
@@ -75,20 +91,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1025467,
+      "num": 732278,
+      "word": "迪丽热巴金九",
+      "onboard_time": 1724034859,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1015120,
       "num": 1015120,
       "word": "中方回应菲船只故意冲撞我海警舰艇",
       "onboard_time": 1724026219,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1005006,
-      "num": 1005006,
-      "word": "发了一条朋友圈搭上了20万元",
-      "onboard_time": 1724033718,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 977315,
@@ -129,14 +145,6 @@
       "onboard_time": 1723990101,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 781085,
-      "num": 781085,
-      "word": "迪丽热巴 黄金时代",
-      "onboard_time": 1724035038,
-      "rank": 7,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 754987,
@@ -187,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 587168,
+      "num": 386780,
+      "word": "因为给男朋友买衣服吵架了",
+      "onboard_time": 1724030479,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 583173,
       "num": 583173,
       "word": "樊振东说其实有后怕",
@@ -201,22 +217,6 @@
       "onboard_time": 1723993162,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 543460,
-      "num": 543460,
-      "word": "迪丽热巴金九",
-      "onboard_time": 1724034859,
-      "rank": 15,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 533607,
-      "num": 386780,
-      "word": "因为给男朋友买衣服吵架了",
-      "onboard_time": 1724030479,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 481895,
@@ -355,6 +355,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 310227,
+      "num": 310227,
+      "word": "劳动仲裁怎么成了求职污点",
+      "onboard_time": 1724032399,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304492,
       "num": 304492,
       "word": "江西一私人影院进行卖淫嫖娼活动",
@@ -371,20 +379,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 285796,
+      "num": 285796,
+      "word": "剑网3",
+      "onboard_time": 1724035158,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 285771,
       "num": 285771,
       "word": "菲律宾恶意冲撞中方海警船",
       "onboard_time": 1724028260,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 285301,
-      "num": 285301,
-      "word": "劳动仲裁怎么成了求职污点",
-      "onboard_time": 1724032399,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 280606,
@@ -451,6 +459,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 234142,
+      "num": 234142,
+      "word": "目前我国新冠感染趋势如何",
+      "onboard_time": 1724032818,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 232439,
       "num": 387647,
       "word": "陈哲远很爱报备一男的",
@@ -497,14 +513,6 @@
       "onboard_time": 1723976839,
       "rank": 25,
       "category": "互联网,幽默"
-    },
-    {
-      "raw_hot": 213461,
-      "num": 213461,
-      "word": "目前我国新冠感染趋势如何",
-      "onboard_time": 1724032818,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 207794,
@@ -579,20 +587,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 179158,
+      "num": 194813,
+      "word": "capper恋爱",
+      "onboard_time": 1724035638,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174251,
       "num": 410547,
       "word": "于正解释新艺人名字",
       "onboard_time": 1723989200,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173633,
-      "num": 173633,
-      "word": "剑网3",
-      "onboard_time": 1724035158,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 170022,
@@ -611,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168387,
+      "num": 168387,
+      "word": "陈芋汐 有遗憾但不后悔",
+      "onboard_time": 1724032158,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167283,
       "num": 167283,
       "word": "网商银行涉违法违规被罚735万元",
@@ -625,6 +641,14 @@
       "onboard_time": 1723994301,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165529,
+      "num": 165529,
+      "word": "迪丽热巴杂志销量",
+      "onboard_time": 1724035760,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 165181,
@@ -659,6 +683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 163047,
+      "num": 163047,
+      "word": "富士康回应已婚女性不能组装iPhone",
+      "onboard_time": 1724035818,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 163041,
       "num": 163041,
       "word": "全红婵谈夺冠后拥抱陈芋汐",
@@ -691,12 +723,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 159366,
-      "num": 159366,
-      "word": "陈芋汐 有遗憾但不后悔",
-      "onboard_time": 1724032158,
-      "rank": 47,
-      "category": "体育"
+      "raw_hot": 158892,
+      "num": 158892,
+      "word": "25岁的我为什么会有这种思想",
+      "onboard_time": 1724035458,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 151968,
@@ -1140,7 +1172,7 @@
     },
     {
       "raw_hot": 13201,
-      "num": 1269814,
+      "num": 1286675,
       "word": "神十八乘组太空出差中的轻松时刻",
       "onboard_time": 1723958300,
       "rank": 2,
