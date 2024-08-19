@@ -1,0 +1,410 @@
+{
+  "runTime": 1724056764514,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8796495,
+        "num": 8796495,
+        "word": "网易云音乐崩了",
+        "onboard_time": 1724050040,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 5218396,
+        "num": 5218396,
+        "word": "张昊唯 把小姐笼络起来",
+        "onboard_time": 1724055439,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106334,
+        "num": 3324561,
+        "word": "前7个月超1725万人次外国人来华",
+        "onboard_time": 1724052921,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3155519,
+        "num": 3155519,
+        "word": "张昊唯被曝涉嫌税务问题",
+        "onboard_time": 1724049981,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1492099,
+        "num": 1492099,
+        "word": "日本靖国神社石柱又被涂鸦",
+        "onboard_time": 1724054061,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1316201,
+        "num": 1316201,
+        "word": "网易云音乐称基础设施故障",
+        "onboard_time": 1724053520,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 810749,
+        "num": 810749,
+        "word": "上海一展会低俗涉黄手办吓坏家长",
+        "onboard_time": 1724049260,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 734928,
+        "num": 734928,
+        "word": "男子18楼肉身撞窗测试质量",
+        "onboard_time": 1724053700,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55496,
+        "num": 723473,
+        "word": "菲律宾用无人机对中方进行间谍侦照",
+        "onboard_time": 1724056221,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270421,
+        "num": 697034,
+        "word": "女子称一女童撞脸女儿要求亲子鉴定",
+        "onboard_time": 1724055021,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2635775,
+        "num": 690123,
+        "word": "张昊唯甚至还想开青楼",
+        "onboard_time": 1724056342,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 796363,
+        "num": 657977,
+        "word": "陌生男袒胸露肉亲小女孩妈妈报警",
+        "onboard_time": 1724051000,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656706,
+        "num": 656706,
+        "word": "爸爸忘拉手刹俩孩子随车冲进鱼塘",
+        "onboard_time": 1724045780,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94531,
+        "num": 622026,
+        "word": "侧方停车真的那么难吗",
+        "onboard_time": 1724054660,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 607733,
+        "num": 607733,
+        "word": "光遇炸服",
+        "onboard_time": 1724055742,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 537426,
+        "num": 537426,
+        "word": "两个人买四寸蛋糕被老板挂朋友圈",
+        "onboard_time": 1724037019,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 464181,
+        "num": 464181,
+        "word": "庆余年",
+        "onboard_time": 1724055622,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 354621,
+        "num": 354621,
+        "word": "怀疑了一圈就是没怀疑网易云",
+        "onboard_time": 1724053459,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 348799,
+        "num": 348799,
+        "word": "杨旭文体重140斤都被抱起来了",
+        "onboard_time": 1724053400,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344972,
+        "num": 344972,
+        "word": "几年不见TFBOYS变化这么大",
+        "onboard_time": 1724047520,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 507578,
+        "num": 344839,
+        "word": "公司要上四休三降薪1千",
+        "onboard_time": 1724040262,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 352985,
+        "num": 333497,
+        "word": "外交部回应菲律宾侵闯仙宾礁",
+        "onboard_time": 1724054600,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 460757,
+        "num": 325832,
+        "word": "刚同居女朋友不愿意AA制",
+        "onboard_time": 1724043443,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 439594,
+        "num": 318986,
+        "word": "袜和祙是两个不同的字",
+        "onboard_time": 1724050400,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 318667,
+        "num": 318667,
+        "word": "结婚不用户口本我妈让我上交身份证",
+        "onboard_time": 1724053221,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 311905,
+        "num": 311905,
+        "word": "发了一条朋友圈搭上了20万元",
+        "onboard_time": 1724033718,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296075,
+        "num": 296075,
+        "word": "30岁已经没有人联系我了",
+        "onboard_time": 1724051721,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 281041,
+        "num": 281041,
+        "word": "异形 恶心",
+        "onboard_time": 1724046859,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 252261,
+        "num": 275556,
+        "word": "孤注一掷重映定档",
+        "onboard_time": 1724043560,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201059,
+        "num": 273118,
+        "word": "新版林黛玉",
+        "onboard_time": 1724040981,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 272422,
+        "num": 272422,
+        "word": "印度女医生",
+        "onboard_time": 1724046799,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 255049,
+        "num": 255049,
+        "word": "北大教授称要给400万医生体面收入",
+        "onboard_time": 1724051840,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253032,
+        "num": 253032,
+        "word": "全红婵说到了发育关才知道芋汐的难",
+        "onboard_time": 1724031859,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211359,
+        "num": 211359,
+        "word": "警方回应网文称女子饿死在出租屋",
+        "onboard_time": 1724048303,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207957,
+        "num": 207957,
+        "word": "张昊唯 客户名单",
+        "onboard_time": 1724056521,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203409,
+        "num": 203409,
+        "word": "徐卓一是王楚钦的采访粉",
+        "onboard_time": 1724051840,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198819,
+        "num": 198819,
+        "word": "浙大开学机器狗帮新生拿行李",
+        "onboard_time": 1724056281,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197538,
+        "num": 197538,
+        "word": "赵丽颖好帅",
+        "onboard_time": 1724037258,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192404,
+        "num": 192404,
+        "word": "薛之谦回头看了自己的天外来物",
+        "onboard_time": 1724055261,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187818,
+        "num": 187818,
+        "word": "王俊凯出道十一年最大尺度",
+        "onboard_time": 1724052621,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185966,
+        "num": 185966,
+        "word": "大连暴雨2人意外死亡",
+        "onboard_time": 1724046740,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183997,
+        "num": 183997,
+        "word": "夏令营里被性侵的女孩",
+        "onboard_time": 1724054780,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183526,
+        "num": 183526,
+        "word": "黑神话每小时开发成本至少1500万元",
+        "onboard_time": 1724056521,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182135,
+        "num": 182135,
+        "word": "迪丽热巴 黄金时代",
+        "onboard_time": 1724035038,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 174695,
+        "num": 174695,
+        "word": "易烊千玺Golden Goose",
+        "onboard_time": 1724043380,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170961,
+        "num": 170961,
+        "word": "离婚后宠物跟爸还是跟妈",
+        "onboard_time": 1724053700,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169032,
+        "num": 169032,
+        "word": "黑神话刷新Steam预下载记录",
+        "onboard_time": 1724056582,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166998,
+        "num": 166998,
+        "word": "capper恋爱",
+        "onboard_time": 1724035638,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163136,
+        "num": 165763,
+        "word": "骑行晋升为今年户外运动顶流",
+        "onboard_time": 1724056041,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 165547,
+        "num": 165547,
+        "word": "官方回应大连2人被水冲到车底遇难",
+        "onboard_time": 1724048720,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同苏林共同出席合作文件签字仪式#"
+    }
+  }
+}
