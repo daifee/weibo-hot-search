@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724067325016,
+  "endTime": 1724071102748,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -131,6 +131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2324531,
+      "num": 971991,
+      "word": "印度2岁女童惨遭已婚男子强奸",
+      "onboard_time": 1724070200,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2265353,
       "num": 2265353,
       "word": "官方通报李佩霞案件",
@@ -227,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1728310,
+      "num": 1728310,
+      "word": "全红婵 我拿了金牌是不是不对",
+      "onboard_time": 1724067861,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1720310,
       "num": 1720310,
       "word": "父母同时生病了独生子女该怎么办",
@@ -268,15 +284,23 @@
     },
     {
       "raw_hot": 1570331,
-      "num": 655271,
+      "num": 947967,
       "word": "女子怀孕6个月在飞机厕所突然分娩",
       "onboard_time": 1724064980,
       "rank": 11,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1540726,
+      "num": 1540726,
+      "word": "孙杨回归",
+      "onboard_time": 1724066361,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1521328,
-      "num": 836920,
+      "num": 837793,
       "word": "泰国人妖骗73名日本人超500万",
       "onboard_time": 1724062944,
       "rank": 46,
@@ -531,6 +555,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1040869,
+      "num": 1040869,
+      "word": "警方确认女子死在出租屋事件属实",
+      "onboard_time": 1724068521,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1040270,
+      "num": 1040270,
+      "word": "王楚钦看了都一愣",
+      "onboard_time": 1724068521,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1038790,
       "num": 1038790,
       "word": "神的银牌已工伤",
@@ -548,7 +588,7 @@
     },
     {
       "raw_hot": 1029892,
-      "num": 717897,
+      "num": 924447,
       "word": "男爱豆签售上问女粉电话号码",
       "onboard_time": 1724064443,
       "rank": 6,
@@ -803,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 832659,
+      "num": 832659,
+      "word": "普京突然出国",
+      "onboard_time": 1724069721,
+      "rank": 15,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 828112,
       "num": 828112,
       "word": "几年不见TFBOYS变化这么大",
@@ -817,6 +865,14 @@
       "onboard_time": 1723963578,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 816264,
+      "num": 816264,
+      "word": "海底捞回应顾客店内自制腐竹",
+      "onboard_time": 1724063900,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 813277,
@@ -1547,14 +1603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 428343,
-      "num": 428343,
-      "word": "孙杨回归",
-      "onboard_time": 1724066361,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 427557,
       "num": 427557,
       "word": "LNG对战TES",
@@ -1704,6 +1752,14 @@
       "word": "面对面",
       "onboard_time": 1723988539,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 380108,
+      "num": 418007,
+      "word": "张淼怡综艺首秀",
+      "onboard_time": 1724066900,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -1891,20 +1947,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 348237,
-      "num": 348237,
-      "word": "海底捞回应顾客店内自制腐竹",
-      "onboard_time": 1724063900,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 347347,
       "num": 347347,
       "word": "樊振东低谷时看足球赛激励自己",
       "onboard_time": 1723995560,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 341197,
+      "num": 341197,
+      "word": "柳舟记17集反转",
+      "onboard_time": 1724068461,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 340765,
@@ -1932,7 +1988,7 @@
     },
     {
       "raw_hot": 333507,
-      "num": 333507,
+      "num": 1020067,
       "word": "江苏宿迁15万斤阳光玫瑰滞销",
       "onboard_time": 1724064621,
       "rank": 23,
@@ -1993,6 +2049,14 @@
       "onboard_time": 1723936875,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 324040,
+      "num": 324040,
+      "word": "躺床上玩手机的正确姿势",
+      "onboard_time": 1724064562,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 320674,
@@ -2131,20 +2195,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 299882,
+      "num": 299882,
+      "word": "完税证明",
+      "onboard_time": 1724068342,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 299665,
       "num": 299665,
       "word": "柳舟记 父母偏心可偏偏女儿最争气",
       "onboard_time": 1723945158,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 298077,
-      "num": 298077,
-      "word": "躺床上玩手机的正确姿势",
-      "onboard_time": 1724064562,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 296075,
@@ -2323,20 +2387,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 273971,
+      "num": 609652,
+      "word": "超级月亮",
+      "onboard_time": 1724066840,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273528,
       "num": 412068,
       "word": "王源是真没把我们当外人",
       "onboard_time": 1723947737,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 271372,
-      "num": 609652,
-      "word": "超级月亮",
-      "onboard_time": 1724066840,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 270791,
@@ -2488,6 +2552,14 @@
       "word": "第7个中国医师节",
       "onboard_time": 1724027419,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253606,
+      "num": 253606,
+      "word": "银行人正在集体出走",
+      "onboard_time": 1724068821,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -3099,6 +3171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199320,
+      "num": 199320,
+      "word": "父女骑电动车被积水冲至大客车底溺亡",
+      "onboard_time": 1724066419,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198996,
       "num": 460263,
       "word": "新一波猴痘疫情青少年死亡比例大幅上升",
@@ -3153,6 +3233,14 @@
       "onboard_time": 1724043741,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 195764,
+      "num": 688058,
+      "word": "黑神话 请假",
+      "onboard_time": 1724066840,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 194951,
@@ -3483,6 +3571,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 176874,
+      "num": 176874,
+      "word": "高一新生遭多名学生霸凌被逼下跪",
+      "onboard_time": 1724067442,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176063,
+      "num": 176063,
+      "word": "咒术回战还剩5话完结",
+      "onboard_time": 1724069241,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 174410,
       "num": 174410,
       "word": "江苏盐城发生3.4级地震",
@@ -3497,6 +3601,14 @@
       "onboard_time": 1723994002,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173557,
+      "num": 173557,
+      "word": "咒术回战",
+      "onboard_time": 1724069781,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 172570,
@@ -3520,6 +3632,14 @@
       "word": "孤舟豆瓣开分4.7",
       "onboard_time": 1724066659,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 171277,
+      "num": 171277,
+      "word": "杨旭文夸郜思雯甜美",
+      "onboard_time": 1724069963,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -3859,6 +3979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160202,
+      "num": 160202,
+      "word": "孙杨重返赛场",
+      "onboard_time": 1724068280,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158385,
       "num": 158385,
       "word": "王楚然手绘蛐蛐友友图",
@@ -4051,6 +4179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149939,
+      "num": 149939,
+      "word": "西安网信回应网文称女孩饿死在出租屋",
+      "onboard_time": 1724067861,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149899,
       "num": 149899,
       "word": "丫丫已经判若两熊了",
@@ -4123,14 +4259,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 147197,
-      "num": 147197,
-      "word": "张淼怡综艺首秀",
-      "onboard_time": 1724066900,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 146622,
       "num": 146622,
       "word": "最低成本手机支架",
@@ -4177,14 +4305,6 @@
       "onboard_time": 1723977559,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 144979,
-      "num": 144979,
-      "word": "父女骑电动车被积水冲至大客车底溺亡",
-      "onboard_time": 1724066419,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 144194,
@@ -4243,6 +4363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 141990,
+      "num": 141990,
+      "word": "瑞幸今年已联名18次",
+      "onboard_time": 1724070142,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 141954,
       "num": 141954,
       "word": "多省审计报告曝光医药腐败问题",
@@ -4273,6 +4401,14 @@
       "onboard_time": 1723973179,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141070,
+      "num": 141070,
+      "word": "黄一鸣女儿发型",
+      "onboard_time": 1724068100,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 140948,
@@ -4409,6 +4545,14 @@
       "onboard_time": 1723972760,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 128432,
+      "num": 982546,
+      "word": "黑神话销量",
+      "onboard_time": 1724070742,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 128330,
@@ -4633,6 +4777,14 @@
       "onboard_time": 1724036839,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 105280,
+      "num": 151383,
+      "word": "被清退的苦果不该由无辜的41人来咽",
+      "onboard_time": 1724068881,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103829,
@@ -4987,14 +5139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54323,
-      "num": 688058,
-      "word": "黑神话 请假",
-      "onboard_time": 1724066840,
-      "rank": 8,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 54122,
       "num": 65003,
       "word": "檀健次 我们是正经的演唱会",
@@ -5017,6 +5161,14 @@
       "onboard_time": 1724040021,
       "rank": 14,
       "category": "互联网,游戏"
+    },
+    {
+      "raw_hot": 51743,
+      "num": 1847256,
+      "word": "你以生命相托我必全力以赴",
+      "onboard_time": 1724052861,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51489,
@@ -5137,14 +5289,6 @@
       "onboard_time": 1723950498,
       "rank": 29,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 36476,
-      "num": 1847256,
-      "word": "你以生命相托我必全力以赴",
-      "onboard_time": 1724052861,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33523,
