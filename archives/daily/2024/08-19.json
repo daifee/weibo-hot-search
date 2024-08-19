@@ -1,6 +1,6 @@
 {
   "startTime": 1723998199428,
-  "endTime": 1724035860592,
+  "endTime": 1724037769627,
   "band_list": [
     {
       "raw_hot": 5870597,
@@ -27,6 +27,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1765792,
+      "num": 1765792,
+      "word": "发了一条朋友圈搭上了20万元",
+      "onboard_time": 1724033718,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1762108,
       "num": 1762108,
       "word": "全红婵说两届金牌都自己拿不是很开心",
@@ -36,19 +44,11 @@
     },
     {
       "raw_hot": 1754275,
-      "num": 1284067,
+      "num": 1454839,
       "word": "为了不回信息在微信演了两年尸体",
       "onboard_time": 1724030479,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1345919,
-      "num": 1345919,
-      "word": "发了一条朋友圈搭上了20万元",
-      "onboard_time": 1724033718,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1333021,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 794462,
+      "num": 794462,
+      "word": "苏林访华",
+      "onboard_time": 1724036119,
+      "rank": 6,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 754987,
       "num": 891610,
       "word": "菲律宾",
@@ -155,8 +163,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 740694,
-      "num": 740694,
+      "raw_hot": 745306,
+      "num": 745306,
       "word": "樊振东回应换衣服后逆转张本智和",
       "onboard_time": 1724033179,
       "rank": 11,
@@ -187,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 711235,
+      "num": 711235,
+      "word": "李乃文即日起更名于和伟",
+      "onboard_time": 1724036839,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 664426,
       "num": 664426,
       "word": "间谍利用大学生拍涉密科研基地照片",
@@ -195,8 +211,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 649010,
+      "num": 649010,
+      "word": "capper恋爱",
+      "onboard_time": 1724035638,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 587168,
-      "num": 386780,
+      "num": 397519,
       "word": "因为给男朋友买衣服吵架了",
       "onboard_time": 1724030479,
       "rank": 38,
@@ -217,6 +241,22 @@
       "onboard_time": 1723993162,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 538200,
+      "num": 538200,
+      "word": "迪丽热巴杂志销量",
+      "onboard_time": 1724035760,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 504821,
+      "num": 504821,
+      "word": "网友总结少年白马醉春风大扑七宗罪",
+      "onboard_time": 1724035879,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 481895,
@@ -249,6 +289,14 @@
       "onboard_time": 1724009291,
       "rank": 49,
       "category": "社会正能量,艺人"
+    },
+    {
+      "raw_hot": 410492,
+      "num": 410492,
+      "word": "张远录制披荆斩棘受伤",
+      "onboard_time": 1724036898,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 403445,
@@ -291,12 +339,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 368138,
+      "num": 368138,
+      "word": "富士康回应已婚女性不能组装iPhone",
+      "onboard_time": 1724035818,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 362399,
       "num": 362399,
       "word": "足协原副主席李毓毅被判11年",
       "onboard_time": 1724030479,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 360963,
+      "num": 769536,
+      "word": "人民网评汝州41人事业编被集体清退",
+      "onboard_time": 1724034619,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 347347,
@@ -323,12 +387,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 335436,
+      "num": 335436,
+      "word": "遭事业单位集体清退当事人再发声",
+      "onboard_time": 1724036000,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332365,
       "num": 418927,
       "word": "杨幂的受众还是太全面了",
       "onboard_time": 1724026999,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 329504,
+      "num": 329504,
+      "word": "两个人买四寸蛋糕被老板挂朋友圈",
+      "onboard_time": 1724037019,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 320216,
@@ -401,6 +481,14 @@
       "onboard_time": 1724033237,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 271167,
+      "num": 271167,
+      "word": "25岁的我为什么会有这种思想",
+      "onboard_time": 1724035458,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 267668,
@@ -507,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215823,
+      "num": 215823,
+      "word": "赵丽颖好帅",
+      "onboard_time": 1724037258,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215767,
       "num": 215767,
       "word": "疯狂小杨哥杭州办公总部出租",
@@ -515,12 +611,28 @@
       "category": "互联网,幽默"
     },
     {
+      "raw_hot": 207911,
+      "num": 207911,
+      "word": "国羽大家庭 团魂",
+      "onboard_time": 1724036898,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207794,
       "num": 207794,
       "word": "3个近期间谍案例公布",
       "onboard_time": 1724027298,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204332,
+      "num": 204332,
+      "word": "肖战欧莱雅",
+      "onboard_time": 1724037141,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 194795,
@@ -545,14 +657,6 @@
       "onboard_time": 1724031079,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 188946,
-      "num": 769536,
-      "word": "人民网评汝州41人事业编被集体清退",
-      "onboard_time": 1724034619,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187900,
@@ -587,12 +691,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 179158,
-      "num": 194813,
-      "word": "capper恋爱",
-      "onboard_time": 1724035638,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 179259,
+      "num": 179259,
+      "word": "陈芋汐说没有全红婵不会达到这么高的水平",
+      "onboard_time": 1724036779,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 178452,
+      "num": 178452,
+      "word": "樊振东赛前和王皓确定了换衣策略",
+      "onboard_time": 1724037079,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 174251,
@@ -627,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167681,
+      "num": 167681,
+      "word": "郑钦文参加中国体育代表团表彰大会",
+      "onboard_time": 1724037741,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167283,
       "num": 167283,
       "word": "网商银行涉违法违规被罚735万元",
@@ -641,14 +761,6 @@
       "onboard_time": 1723994301,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 165529,
-      "num": 165529,
-      "word": "迪丽热巴杂志销量",
-      "onboard_time": 1724035760,
-      "rank": 44,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 165181,
@@ -683,14 +795,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 163047,
-      "num": 163047,
-      "word": "富士康回应已婚女性不能组装iPhone",
-      "onboard_time": 1724035818,
-      "rank": 46,
-      "category": "数码"
-    },
-    {
       "raw_hot": 163041,
       "num": 163041,
       "word": "全红婵谈夺冠后拥抱陈芋汐",
@@ -721,14 +825,6 @@
       "onboard_time": 1724025140,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158892,
-      "num": 158892,
-      "word": "25岁的我为什么会有这种思想",
-      "onboard_time": 1724035458,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 151968,
@@ -1019,6 +1115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67060,
+      "num": 217953,
+      "word": "小鹏MONA开起来像20万以上的车",
+      "onboard_time": 1724036839,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 66231,
       "num": 66231,
       "word": "张艺兴唱了晴天",
@@ -1057,6 +1161,14 @@
       "onboard_time": 1724000234,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 52706,
+      "num": 178487,
+      "word": "为什么医生都爱沃尔沃",
+      "onboard_time": 1724037680,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 51489,
@@ -1172,7 +1284,7 @@
     },
     {
       "raw_hot": 13201,
-      "num": 1286675,
+      "num": 1501370,
       "word": "神十八乘组太空出差中的轻松时刻",
       "onboard_time": 1723958300,
       "rank": 2,
