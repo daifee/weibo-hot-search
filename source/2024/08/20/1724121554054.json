@@ -1,0 +1,410 @@
+{
+  "runTime": 1724121554054,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5386583,
+        "num": 6636583,
+        "word": "黑神话悟空",
+        "onboard_time": 1724108835,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1215245,
+        "num": 1215245,
+        "word": "女生高考前骑车撞死人获谅解未被起诉",
+        "onboard_time": 1724116160,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44137,
+        "num": 1211586,
+        "word": "中国空间站舷窗大片再上新",
+        "onboard_time": 1724074222,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1211452,
+        "num": 1211452,
+        "word": "中秋节好像没放假又好像放了",
+        "onboard_time": 1724119521,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1006875,
+        "num": 1006875,
+        "word": "冯禧去拍戏了",
+        "onboard_time": 1724117238,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 830602,
+        "num": 830602,
+        "word": "小海绵用Angelababy账号刷直播",
+        "onboard_time": 1724109616,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 795239,
+        "num": 795239,
+        "word": "46岁李维嘉洁癖严重",
+        "onboard_time": 1724110697,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 528004,
+        "num": 528004,
+        "word": "腾讯曾上门给黑神话钱",
+        "onboard_time": 1724116459,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 78088,
+        "num": 515605,
+        "word": "郑州警方回应女子被男子压身下殴打",
+        "onboard_time": 1724121019,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89177,
+        "num": 513763,
+        "word": "八十一难第一难是解压",
+        "onboard_time": 1724121440,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 512306,
+        "num": 512306,
+        "word": "孙女不会做饭给92岁姥姥点披萨咖啡",
+        "onboard_time": 1724089813,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413507,
+        "num": 413507,
+        "word": "梁伟铿打乒乓球",
+        "onboard_time": 1724115140,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 403357,
+        "num": 403357,
+        "word": "日本多地允许带娃上班",
+        "onboard_time": 1724115260,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380555,
+        "num": 380555,
+        "word": "女子微信群抢红包涉赌被罚500元",
+        "onboard_time": 1724119219,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370309,
+        "num": 370309,
+        "word": "张昊唯 孝出强大",
+        "onboard_time": 1724096952,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361970,
+        "num": 361970,
+        "word": "全红婵王俊凯合影",
+        "onboard_time": 1724109738,
+        "rank": 15,
+        "category": "电影,体育"
+      },
+      {
+        "raw_hot": 358222,
+        "num": 358222,
+        "word": "小黑盒崩了",
+        "onboard_time": 1724120899,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 352528,
+        "num": 352528,
+        "word": "女子迪士尼上厕所超时崩溃大哭",
+        "onboard_time": 1724075061,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343380,
+        "num": 343380,
+        "word": "猿神 启动",
+        "onboard_time": 1724117179,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 303896,
+        "num": 342193,
+        "word": "朱正廷卢洋洋开机路透",
+        "onboard_time": 1724121200,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 599875,
+        "num": 330538,
+        "word": "泰剧已经把女主进化成这样了么",
+        "onboard_time": 1724120000,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 520923,
+        "num": 327460,
+        "word": "公务员考试 信息差",
+        "onboard_time": 1724116520,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 436172,
+        "num": 316967,
+        "word": "参加婚礼全程无桌还没人理",
+        "onboard_time": 1724109797,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 312451,
+        "num": 312451,
+        "word": "全红婵关注樊振东了",
+        "onboard_time": 1724119521,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306845,
+        "num": 306845,
+        "word": "房贷三十年还是租一辈子房",
+        "onboard_time": 1724109916,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 306117,
+        "num": 306117,
+        "word": "印度2岁女童惨遭已婚男子强奸",
+        "onboard_time": 1724070200,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217246,
+        "num": 286529,
+        "word": "迪丽热巴 从油画里走出来的神女",
+        "onboard_time": 1724113521,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 277346,
+        "num": 277346,
+        "word": "黑神话悟空开玩",
+        "onboard_time": 1724119159,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 40671,
+        "num": 270999,
+        "word": "小鹏MONA将于8月27日上市",
+        "onboard_time": 1724121140,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 20458,
+        "num": 269678,
+        "word": "韩男高试图杀害不愿与其交往女生",
+        "onboard_time": 1724121019,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269608,
+        "num": 269608,
+        "word": "网易云 没有删库没有跑路",
+        "onboard_time": 1724060422,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 264616,
+        "num": 264616,
+        "word": "国安部提醒这些快递不能寄",
+        "onboard_time": 1724114843,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260436,
+        "num": 260436,
+        "word": "黑神话悟空解压",
+        "onboard_time": 1724120839,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 253765,
+        "num": 253765,
+        "word": "张昊唯报警",
+        "onboard_time": 1724062222,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245629,
+        "num": 245629,
+        "word": "教师遭网课爆破猝死案2成年人被拘留",
+        "onboard_time": 1724082020,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242266,
+        "num": 242266,
+        "word": "黑神话悟空创Steam下载带宽纪录",
+        "onboard_time": 1724118018,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199301,
+        "num": 199301,
+        "word": "长期不吃早餐会发生什么",
+        "onboard_time": 1724117778,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 195035,
+        "num": 195035,
+        "word": "直面天命",
+        "onboard_time": 1724115860,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192256,
+        "num": 192256,
+        "word": "黑神话悟空全球解锁",
+        "onboard_time": 1724119580,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 179973,
+        "num": 179973,
+        "word": "伊朗称报复以色列无关加沙停火谈判",
+        "onboard_time": 1724120718,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 179362,
+        "num": 179362,
+        "word": "黑神话悟空默认语言中文这感觉好爽",
+        "onboard_time": 1724121140,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173274,
+        "num": 173274,
+        "word": "成毅飞习惯不会走路了",
+        "onboard_time": 1724120781,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210078,
+        "num": 172643,
+        "word": "蔬菜水果为什么突然变贵了",
+        "onboard_time": 1724093533,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170274,
+        "num": 170274,
+        "word": "多家公司为员工报销黑神话悟空费用",
+        "onboard_time": 1724121440,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168333,
+        "num": 168333,
+        "word": "张昊唯称被一个团伙盯上",
+        "onboard_time": 1724057722,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167955,
+        "num": 167955,
+        "word": "成都市民拍到7个太阳同框",
+        "onboard_time": 1724109436,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160964,
+        "num": 160964,
+        "word": "王一博新歌满满运动的快乐",
+        "onboard_time": 1724121440,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159235,
+        "num": 159235,
+        "word": "买黄金前一定要懂的信息差",
+        "onboard_time": 1724119040,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158767,
+        "num": 158767,
+        "word": "张若昀曾被校园霸凌",
+        "onboard_time": 1724091852,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154840,
+        "num": 154840,
+        "word": "网易云",
+        "onboard_time": 1724085377,
+        "rank": 49,
+        "category": "互联网,音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同苏林会谈#"
+    }
+  }
+}

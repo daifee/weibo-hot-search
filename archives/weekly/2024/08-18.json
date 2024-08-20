@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724118407181,
+  "endTime": 1724121554054,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -41,6 +41,14 @@
       "onboard_time": 1724062222,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 5386583,
+      "num": 6636583,
+      "word": "黑神话悟空",
+      "onboard_time": 1724027480,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 3949610,
@@ -161,14 +169,6 @@
       "onboard_time": 1724040262,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 2292597,
-      "num": 2292597,
-      "word": "黑神话悟空",
-      "onboard_time": 1724027480,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 2265353,
@@ -555,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1211452,
+      "num": 1211452,
+      "word": "中秋节好像没放假又好像放了",
+      "onboard_time": 1724119521,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1187853,
       "num": 1187853,
       "word": "韩国恋综嘉宾50多岁的状态",
@@ -720,6 +728,14 @@
       "word": "孔笙肖战开机同框",
       "onboard_time": 1723986440,
       "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1006875,
+      "num": 1006875,
+      "word": "冯禧去拍戏了",
+      "onboard_time": 1724117238,
+      "rank": 6,
       "category": "剧集"
     },
     {
@@ -939,14 +955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 845459,
-      "num": 845459,
-      "word": "冯禧去拍戏了",
-      "onboard_time": 1724117238,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 837014,
       "num": 837014,
       "word": "理解林志玲 好奇郭碧婷",
@@ -1012,7 +1020,7 @@
     },
     {
       "raw_hot": 784260,
-      "num": 306378,
+      "num": 316967,
       "word": "参加婚礼全程无桌还没人理",
       "onboard_time": 1724109797,
       "rank": 21,
@@ -1148,7 +1156,7 @@
     },
     {
       "raw_hot": 704333,
-      "num": 303977,
+      "num": 306845,
       "word": "房贷三十年还是租一辈子房",
       "onboard_time": 1724109916,
       "rank": 44,
@@ -1363,6 +1371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 599875,
+      "num": 330538,
+      "word": "泰剧已经把女主进化成这样了么",
+      "onboard_time": 1724120000,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 590405,
       "num": 590405,
       "word": "黑泽良平 没办法我只能哭了",
@@ -1539,6 +1555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 528004,
+      "num": 528004,
+      "word": "腾讯曾上门给黑神话钱",
+      "onboard_time": 1724116459,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 522378,
       "num": 522378,
       "word": "顾漫骄阳似我",
@@ -1553,6 +1577,14 @@
       "onboard_time": 1724037861,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 520923,
+      "num": 327460,
+      "word": "公务员考试 信息差",
+      "onboard_time": 1724116520,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 518968,
@@ -1819,14 +1851,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 442052,
-      "num": 301802,
-      "word": "公务员考试 信息差",
-      "onboard_time": 1724116520,
-      "rank": 24,
-      "category": "教育"
-    },
-    {
       "raw_hot": 441022,
       "num": 441022,
       "word": "成都市民拍到7个太阳同框",
@@ -1963,6 +1987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 403357,
+      "num": 476603,
+      "word": "日本多地允许带娃上班",
+      "onboard_time": 1724115260,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 403173,
       "num": 403173,
       "word": "游泳教练谈先天健身圣体女孩",
@@ -2033,6 +2065,14 @@
       "onboard_time": 1723988539,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 380555,
+      "num": 380555,
+      "word": "女子微信群抢红包涉赌被罚500元",
+      "onboard_time": 1724119219,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 380108,
@@ -2179,6 +2219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358222,
+      "num": 358222,
+      "word": "小黑盒崩了",
+      "onboard_time": 1724120899,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 355110,
       "num": 512134,
       "word": "台湾海峡海上巡航执法行动",
@@ -2249,6 +2297,14 @@
       "onboard_time": 1723995560,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 343380,
+      "num": 466585,
+      "word": "猿神 启动",
+      "onboard_time": 1724117179,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 341197,
@@ -2403,14 +2459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 315247,
-      "num": 295063,
-      "word": "腾讯曾上门给黑神话钱",
-      "onboard_time": 1724116459,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 314358,
       "num": 314358,
       "word": "赵露思 密云拍戏",
@@ -2449,6 +2497,14 @@
       "onboard_time": 1724030898,
       "rank": 30,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 312451,
+      "num": 312451,
+      "word": "全红婵关注樊振东了",
+      "onboard_time": 1724119521,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 310227,
@@ -2505,6 +2561,14 @@
       "onboard_time": 1723887318,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303896,
+      "num": 342193,
+      "word": "朱正廷卢洋洋开机路透",
+      "onboard_time": 1724121200,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 300884,
@@ -2747,6 +2811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 277346,
+      "num": 277346,
+      "word": "黑神话悟空开玩",
+      "onboard_time": 1724119159,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 274557,
       "num": 274557,
       "word": "瑞幸回应黑神话悟空券核销不了",
@@ -2857,6 +2929,14 @@
       "onboard_time": 1723878140,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260436,
+      "num": 260436,
+      "word": "黑神话悟空解压",
+      "onboard_time": 1724120839,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 260074,
@@ -3025,6 +3105,14 @@
       "onboard_time": 1724026339,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242266,
+      "num": 242266,
+      "word": "黑神话悟空创Steam下载带宽纪录",
+      "onboard_time": 1724118018,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 241928,
@@ -3619,14 +3707,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 202994,
-      "num": 476603,
-      "word": "日本多地允许带娃上班",
-      "onboard_time": 1724115260,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 202384,
       "num": 202384,
       "word": "婚后女生管钱和男生管钱的区别",
@@ -3697,6 +3777,14 @@
       "onboard_time": 1724066419,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199301,
+      "num": 199301,
+      "word": "长期不吃早餐会发生什么",
+      "onboard_time": 1724117778,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 198996,
@@ -3873,6 +3961,14 @@
       "onboard_time": 1724055261,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 192256,
+      "num": 192256,
+      "word": "黑神话悟空全球解锁",
+      "onboard_time": 1724119580,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 191928,
@@ -4131,12 +4227,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179973,
+      "num": 179973,
+      "word": "伊朗称报复以色列无关加沙停火谈判",
+      "onboard_time": 1724120718,
+      "rank": 39,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 179680,
       "num": 179680,
       "word": "米卡 中文的肌肉记忆",
       "onboard_time": 1723976119,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 179362,
+      "num": 179362,
+      "word": "黑神话悟空默认语言中文这感觉好爽",
+      "onboard_time": 1724121140,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 178520,
@@ -4219,6 +4331,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 173274,
+      "num": 173274,
+      "word": "成毅飞习惯不会走路了",
+      "onboard_time": 1724120781,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172570,
       "num": 172570,
       "word": "UFC",
@@ -4265,6 +4385,14 @@
       "onboard_time": 1724040081,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170274,
+      "num": 170274,
+      "word": "多家公司为员工报销黑神话悟空费用",
+      "onboard_time": 1724121440,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 170022,
@@ -4571,6 +4699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160964,
+      "num": 160964,
+      "word": "王一博新歌满满运动的快乐",
+      "onboard_time": 1724121440,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 160862,
       "num": 160862,
       "word": "张大大说不会允许伤害范丞丞",
@@ -4601,6 +4737,14 @@
       "onboard_time": 1724068280,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159235,
+      "num": 159235,
+      "word": "买黄金前一定要懂的信息差",
+      "onboard_time": 1724119040,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 158385,
@@ -4753,14 +4897,6 @@
       "onboard_time": 1723976178,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 152709,
-      "num": 152709,
-      "word": "黑神话悟空创Steam下载带宽纪录",
-      "onboard_time": 1724118018,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 152604,
@@ -5139,14 +5275,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 137381,
-      "num": 137381,
-      "word": "长期不吃早餐会发生什么",
-      "onboard_time": 1724117778,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 137350,
       "num": 222888,
       "word": "爸爸掐点散步偶遇31岁女儿下班",
@@ -5209,14 +5337,6 @@
       "onboard_time": 1723970059,
       "rank": 48,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 134370,
-      "num": 466585,
-      "word": "猿神 启动",
-      "onboard_time": 1724117179,
-      "rank": 13,
-      "category": "游戏"
     },
     {
       "raw_hot": 134133,
@@ -5659,6 +5779,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 89177,
+      "num": 513763,
+      "word": "八十一难第一难是解压",
+      "onboard_time": 1724121440,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 86924,
       "num": 101754,
       "word": "檀健次cos小蜜蜂",
@@ -5728,6 +5856,14 @@
       "word": "起底涉案资金过亿的社区书记",
       "onboard_time": 1724034619,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78088,
+      "num": 515605,
+      "word": "郑州警方回应女子被男子压身下殴打",
+      "onboard_time": 1724121019,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -6139,6 +6275,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 40671,
+      "num": 270999,
+      "word": "小鹏MONA将于8月27日上市",
+      "onboard_time": 1724121140,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 38237,
       "num": 736563,
       "word": "律师分析汝州清退事业单位人员",
@@ -6321,6 +6465,14 @@
       "onboard_time": 1724095752,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 20458,
+      "num": 269678,
+      "word": "韩男高试图杀害不愿与其交往女生",
+      "onboard_time": 1724121019,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19810,
