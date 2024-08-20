@@ -1,6 +1,6 @@
 {
   "startTime": 1724171081349,
-  "endTime": 1724189702590,
+  "endTime": 1724192320235,
   "band_list": [
     {
       "raw_hot": 1886523,
@@ -523,10 +523,42 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 30296,
-      "num": 30296,
+      "raw_hot": 37897,
+      "num": 37897,
       "word": "张颖颖让张兰放过去世的母亲",
       "onboard_time": 1724184911,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 34537,
+      "num": 37892,
+      "word": "脂肪肝最怕3种运动",
+      "onboard_time": 1724191271,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 33030,
+      "num": 37848,
+      "word": "要陌生女童做亲子鉴定当事人道歉",
+      "onboard_time": 1724191572,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28824,
+      "num": 37691,
+      "word": "韩剧的偶像设定是34岁的未婚",
+      "onboard_time": 1724191812,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 27975,
+      "num": 37654,
+      "word": "韩庚晒女儿给自己拍的照片",
+      "onboard_time": 1724192293,
       "rank": 49,
       "category": "艺人"
     },
