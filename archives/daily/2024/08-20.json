@@ -1,6 +1,6 @@
 {
   "startTime": 1724084701164,
-  "endTime": 1724138415225,
+  "endTime": 1724139302504,
   "band_list": [
     {
       "raw_hot": 7427869,
@@ -19,8 +19,8 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 2539342,
-      "num": 2539342,
+      "raw_hot": 2627951,
+      "num": 2627951,
       "word": "张大仙全球首吐",
       "onboard_time": 1724133143,
       "rank": 12,
@@ -33,6 +33,14 @@
       "onboard_time": 1724128583,
       "rank": 28,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 2252754,
+      "num": 2252754,
+      "word": "表彰大会路透",
+      "onboard_time": 1724135659,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 2180262,
@@ -57,14 +65,6 @@
       "onboard_time": 1724133083,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1901635,
-      "num": 1901635,
-      "word": "表彰大会路透",
-      "onboard_time": 1724135659,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 1801454,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1178685,
+      "num": 1178685,
+      "word": "樊振东剪头发了",
+      "onboard_time": 1724137100,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1088840,
       "num": 488914,
       "word": "印度2岁女童惨遭已婚男子强奸",
@@ -187,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 868431,
+      "num": 868431,
+      "word": "29岁女子吃素半年吃出中重度脂肪肝",
+      "onboard_time": 1724137821,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 867957,
       "num": 867957,
       "word": "韩国博主点评黑神话悟空",
@@ -211,19 +227,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 768994,
+      "num": 768994,
+      "word": "王楠夫妇回应送金牌",
+      "onboard_time": 1724134940,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 747772,
       "num": 747772,
       "word": "孙杨复出首站确定在合肥",
       "onboard_time": 1724125282,
       "rank": 11,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 739762,
-      "num": 739762,
-      "word": "王楠夫妇回应送金牌",
-      "onboard_time": 1724134940,
-      "rank": 43,
       "category": "体育"
     },
     {
@@ -291,6 +307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 620049,
+      "num": 620049,
+      "word": "孙杨在两项目仍具国内顶尖水平",
+      "onboard_time": 1724136320,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 616788,
       "num": 555719,
       "word": "全红婵王俊凯合影",
@@ -315,12 +339,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 578090,
-      "num": 578090,
-      "word": "樊振东剪头发了",
-      "onboard_time": 1724137100,
-      "rank": 13,
-      "category": "体育"
+      "raw_hot": 581218,
+      "num": 389195,
+      "word": "张颖颖说张兰一家谁沾上谁倒霉",
+      "onboard_time": 1724137220,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 575194,
@@ -427,12 +451,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 493437,
-      "num": 372379,
-      "word": "张颖颖说张兰一家谁沾上谁倒霉",
-      "onboard_time": 1724137220,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 501627,
+      "num": 388493,
+      "word": "女子高铁被超大行李箱砸头崩溃痛哭",
+      "onboard_time": 1724136560,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 493258,
@@ -449,14 +473,6 @@
       "onboard_time": 1724076441,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 455194,
-      "num": 455194,
-      "word": "孙杨在两项目仍具国内顶尖水平",
-      "onboard_time": 1724136320,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 450596,
@@ -513,14 +529,6 @@
       "onboard_time": 1724125702,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 408639,
-      "num": 372199,
-      "word": "女子高铁被超大行李箱砸头崩溃痛哭",
-      "onboard_time": 1724136560,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 403357,
@@ -651,6 +659,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 337186,
+      "num": 399151,
+      "word": "26岁程潇过着梦想生活",
+      "onboard_time": 1724138304,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 336485,
       "num": 998100,
       "word": "建昌暴雨",
@@ -755,6 +771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 287638,
+      "num": 313465,
+      "word": "徐梦洁摔伤",
+      "onboard_time": 1724138544,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284307,
       "num": 284307,
       "word": "毛不易骂人还是太狠毒了",
@@ -795,14 +819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 279588,
-      "num": 279588,
-      "word": "29岁女子吃素半年吃出中重度脂肪肝",
-      "onboard_time": 1724137821,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 278485,
       "num": 278485,
       "word": "BLACKPINK或将与霉霉合作",
@@ -817,6 +833,14 @@
       "onboard_time": 1724119159,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 276822,
+      "num": 276822,
+      "word": "杨紫奶油杨梅妆",
+      "onboard_time": 1724138662,
+      "rank": 28,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 274601,
@@ -859,7 +883,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 257015,
+      "raw_hot": 261309,
       "num": 1039530,
       "word": "辽宁葫芦岛4个村通信中断",
       "onboard_time": 1724133500,
@@ -1091,6 +1115,30 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 209431,
+      "num": 208319,
+      "word": "樊振东在全红婵旁边好像巨人",
+      "onboard_time": 1724138720,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 208781,
+      "num": 208781,
+      "word": "韩国大白菜涨到37元人民币一颗",
+      "onboard_time": 1724133801,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208233,
+      "num": 208233,
+      "word": "焦曼婷回忆父亲焦恩俊再婚",
+      "onboard_time": 1724136139,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205841,
       "num": 205841,
       "word": "41人上岸后被清退该如何善后",
@@ -1115,6 +1163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202349,
+      "num": 208328,
+      "word": "中国奥运天团巴黎经典记忆",
+      "onboard_time": 1724138782,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202091,
       "num": 202091,
       "word": "A股",
@@ -1129,14 +1185,6 @@
       "onboard_time": 1724127263,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 200409,
-      "num": 200409,
-      "word": "焦曼婷回忆父亲焦恩俊再婚",
-      "onboard_time": 1724136139,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 200026,
@@ -1291,8 +1339,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 178129,
-      "num": 178129,
+      "raw_hot": 178178,
+      "num": 178178,
       "word": "原来手机截完图能做这么多事",
       "onboard_time": 1724137881,
       "rank": 41,
@@ -1321,6 +1369,14 @@
       "onboard_time": 1724132121,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 176425,
+      "num": 176425,
+      "word": "黑神话悟空大头怪",
+      "onboard_time": 1724137520,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 175980,
@@ -1403,6 +1459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 168791,
+      "num": 168791,
+      "word": "少年白马醉春风扫楼",
+      "onboard_time": 1724139259,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168696,
       "num": 168696,
       "word": "四六级什么时候出成绩",
@@ -1411,20 +1475,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 168399,
+      "num": 168399,
+      "word": "金毛犼 神奇小狗大变身",
+      "onboard_time": 1724138840,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 168247,
       "num": 168247,
       "word": "电影出走的决心定档",
       "onboard_time": 1724124441,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 160446,
-      "num": 160446,
-      "word": "26岁程潇过着梦想生活",
-      "onboard_time": 1724138304,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 160249,
@@ -1451,14 +1515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155965,
-      "num": 155965,
-      "word": "韩国大白菜涨到37元人民币一颗",
-      "onboard_time": 1724133801,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154116,
       "num": 175337,
       "word": "龙梅子演唱会",
@@ -1473,14 +1529,6 @@
       "onboard_time": 1724074641,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 146768,
-      "num": 146768,
-      "word": "黑神话悟空大头怪",
-      "onboard_time": 1724137520,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 145727,
@@ -1859,11 +1907,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 54017,
+      "num": 875011,
+      "word": "工伤保险竟变成了唐僧肉",
+      "onboard_time": 1724139020,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52792,
       "num": 68292,
       "word": "在离婚父母间来回拉扯二十年",
       "onboard_time": 1724101571,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50663,
+      "num": 638954,
+      "word": "直播间赌石团伙诈骗数百万被捕",
+      "onboard_time": 1724139020,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1980,7 +2044,7 @@
     },
     {
       "raw_hot": 28806,
-      "num": 268914,
+      "num": 2151341,
       "word": "长三角区域低空空中载客航线打通",
       "onboard_time": 1724123721,
       "rank": 30,
