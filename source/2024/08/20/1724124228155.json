@@ -1,0 +1,410 @@
+{
+  "runTime": 1724124228155,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6481175,
+        "num": 6896173,
+        "word": "黑神话悟空",
+        "onboard_time": 1724108835,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2048413,
+        "num": 2048413,
+        "word": "中秋节好像没放假又好像放了",
+        "onboard_time": 1724119521,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 6165,
+        "num": 1854740,
+        "word": "2024中国丰收图景",
+        "onboard_time": 1724124202,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1736681,
+        "num": 1736681,
+        "word": "陆虎婚纱照",
+        "onboard_time": 1724122400,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 777744,
+        "num": 777744,
+        "word": "冯禧去拍戏了",
+        "onboard_time": 1724117238,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 760973,
+        "num": 760973,
+        "word": "女生高考前骑车撞死人获谅解未被起诉",
+        "onboard_time": 1724116160,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 770369,
+        "num": 696621,
+        "word": "小海绵用Angelababy账号刷直播",
+        "onboard_time": 1724109616,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 617082,
+        "num": 617082,
+        "word": "46岁李维嘉洁癖严重",
+        "onboard_time": 1724110697,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303934,
+        "num": 615228,
+        "word": "黑神话悟空在线人数",
+        "onboard_time": 1724123299,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 74563,
+        "num": 614677,
+        "word": "一个英国人的中国大厂历险记",
+        "onboard_time": 1724122940,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241202,
+        "num": 614367,
+        "word": "抓蚊子上下拍手更容易",
+        "onboard_time": 1724122280,
+        "rank": 10,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 614243,
+        "num": 614243,
+        "word": "八十一难第一难是解压",
+        "onboard_time": 1724121440,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 593420,
+        "num": 593420,
+        "word": "孙颖莎9000分世排第一",
+        "onboard_time": 1724121561,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47761,
+        "num": 465835,
+        "word": "黑神话同时在线人数破百万",
+        "onboard_time": 1724124021,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 39612,
+        "num": 440031,
+        "word": "货车司机运输途中去世背后",
+        "onboard_time": 1724122821,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27910,
+        "num": 425784,
+        "word": "关晓彤白到发光名场面",
+        "onboard_time": 1724122341,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416410,
+        "num": 416410,
+        "word": "腾讯曾上门给黑神话钱",
+        "onboard_time": 1724116459,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 414958,
+        "num": 414958,
+        "word": "女子微信群抢红包涉赌被罚500元",
+        "onboard_time": 1724119219,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323355,
+        "num": 409280,
+        "word": "成毅飞习惯不会走路了",
+        "onboard_time": 1724120781,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278686,
+        "num": 396987,
+        "word": "朱正廷卢洋洋开机路透",
+        "onboard_time": 1724121200,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45460,
+        "num": 374490,
+        "word": "小鹏MONA将于8月27日上市",
+        "onboard_time": 1724121140,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 777550,
+        "num": 359041,
+        "word": "泰剧已经把女主进化成这样了么",
+        "onboard_time": 1724120000,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 350797,
+        "num": 350797,
+        "word": "全红婵关注樊振东了",
+        "onboard_time": 1724119521,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 347994,
+        "num": 347994,
+        "word": "参加婚礼全程无桌还没人理",
+        "onboard_time": 1724109797,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 341445,
+        "num": 341445,
+        "word": "孙女不会做饭给92岁姥姥点披萨咖啡",
+        "onboard_time": 1724089813,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301019,
+        "num": 301019,
+        "word": "公务员考试 信息差",
+        "onboard_time": 1724116520,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 295059,
+        "num": 295059,
+        "word": "黑神话悟空开发时间6年半",
+        "onboard_time": 1724124141,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 272952,
+        "num": 278657,
+        "word": "全红婵王俊凯合影",
+        "onboard_time": 1724109738,
+        "rank": 27,
+        "category": "电影,体育"
+      },
+      {
+        "raw_hot": 270425,
+        "num": 278644,
+        "word": "张昊唯 孝出强大",
+        "onboard_time": 1724096952,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278637,
+        "num": 278637,
+        "word": "猿神 启动",
+        "onboard_time": 1724117179,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 28806,
+        "num": 268914,
+        "word": "长三角区域低空空中载客航线打通",
+        "onboard_time": 1724123721,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315564,
+        "num": 268470,
+        "word": "孙悟空大战二郎神",
+        "onboard_time": 1724123840,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 266034,
+        "num": 266034,
+        "word": "教师遭网课爆破猝死案2成年人被拘留",
+        "onboard_time": 1724082020,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179048,
+        "num": 253668,
+        "word": "国安部提醒这些快递不能寄",
+        "onboard_time": 1724114843,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248628,
+        "num": 248628,
+        "word": "相识一月结婚一周就闹离婚",
+        "onboard_time": 1724123540,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242563,
+        "num": 242563,
+        "word": "张昊唯报警",
+        "onboard_time": 1724062222,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231268,
+        "num": 231268,
+        "word": "女子迪士尼上厕所超时崩溃大哭",
+        "onboard_time": 1724075061,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229083,
+        "num": 229083,
+        "word": "郑州警方回应女子被男子压身下殴打",
+        "onboard_time": 1724121019,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216636,
+        "num": 216636,
+        "word": "多地农村地区离婚率上升",
+        "onboard_time": 1724122341,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213006,
+        "num": 213006,
+        "word": "二郎神 张翰",
+        "onboard_time": 1724123840,
+        "rank": 39,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 204427,
+        "num": 204427,
+        "word": "网易云 没有删库没有跑路",
+        "onboard_time": 1724060422,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 192810,
+        "num": 192810,
+        "word": "黑神话悟空登陆PS5",
+        "onboard_time": 1724122641,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172329,
+        "num": 172329,
+        "word": "房贷三十年还是租一辈子房",
+        "onboard_time": 1724109916,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170212,
+        "num": 170212,
+        "word": "日本多地允许带娃上班",
+        "onboard_time": 1724115260,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170157,
+        "num": 170157,
+        "word": "张昊唯称被一个团伙盯上",
+        "onboard_time": 1724057722,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165777,
+        "num": 165777,
+        "word": "伊朗称报复以色列无关加沙停火谈判",
+        "onboard_time": 1724120718,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 163404,
+        "num": 163404,
+        "word": "梁伟铿打乒乓球",
+        "onboard_time": 1724115140,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161288,
+        "num": 161288,
+        "word": "小黑盒崩了",
+        "onboard_time": 1724120899,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156817,
+        "num": 156817,
+        "word": "印度2岁女童惨遭已婚男子强奸",
+        "onboard_time": 1724070200,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156705,
+        "num": 156705,
+        "word": "王一博新歌满满运动的快乐",
+        "onboard_time": 1724121440,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#如何推动中越命运共同体建设走深走实#"
+    }
+  }
+}
