@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724158441676,
+  "endTime": 1724160218637,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2710335,
+      "num": 2710335,
+      "word": "中国体育代表团总结大会现场图",
+      "onboard_time": 1724157262,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2666575,
       "num": 2666575,
       "word": "全红婵说到了发育关才知道芋汐的难",
@@ -217,6 +225,14 @@
       "onboard_time": 1724128583,
       "rank": 28,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 2301831,
+      "num": 2301831,
+      "word": "全红婵和王俊凯葛优合照",
+      "onboard_time": 1724155162,
+      "rank": 4,
+      "category": "电影,体育"
     },
     {
       "raw_hot": 2265353,
@@ -297,14 +313,6 @@
       "onboard_time": 1724142681,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2028465,
-      "num": 2028465,
-      "word": "全红婵和王俊凯葛优合照",
-      "onboard_time": 1724155162,
-      "rank": 4,
-      "category": "电影,体育"
     },
     {
       "raw_hot": 1938691,
@@ -417,6 +425,14 @@
       "onboard_time": 1723982480,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1716856,
+      "num": 1716856,
+      "word": "吴艳妮晒合照",
+      "onboard_time": 1724158163,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 1705903,
@@ -739,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1239282,
+      "num": 1113858,
+      "word": "陈妍希 陈晓",
+      "onboard_time": 1724158882,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1229909,
       "num": 1229909,
       "word": "陈芋汐回应去读大学",
@@ -977,14 +1001,6 @@
       "onboard_time": 1724026219,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1010818,
-      "num": 1010818,
-      "word": "中国体育代表团总结大会现场图",
-      "onboard_time": 1724157262,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 1010413,
@@ -1659,6 +1675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 654949,
+      "num": 654949,
+      "word": "根正苗红的莎头",
+      "onboard_time": 1724155404,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 649010,
       "num": 649010,
       "word": "capper恋爱",
@@ -1681,14 +1705,6 @@
       "onboard_time": 1724061922,
       "rank": 21,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 635424,
-      "num": 635424,
-      "word": "根正苗红的莎头",
-      "onboard_time": 1724155404,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 631544,
@@ -1779,6 +1795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 611850,
+      "num": 611850,
+      "word": "樊振东贾一凡合影",
+      "onboard_time": 1724157441,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 611351,
       "num": 611351,
       "word": "请3天年假中秋可休8天",
@@ -1819,6 +1843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 597362,
+      "num": 597362,
+      "word": "王楚钦成打卡景点了",
+      "onboard_time": 1724157982,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 595076,
       "num": 1135294,
       "word": "韩国大白菜涨到37元人民币一颗",
@@ -1828,7 +1860,7 @@
     },
     {
       "raw_hot": 593980,
-      "num": 593980,
+      "num": 600098,
       "word": "张绍刚cue种地吧",
       "onboard_time": 1724155100,
       "rank": 15,
@@ -1865,6 +1897,14 @@
       "onboard_time": 1724030479,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 585834,
+      "num": 585834,
+      "word": "汪顺 巴黎奥运会end",
+      "onboard_time": 1724157504,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 584979,
@@ -2123,14 +2163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 508492,
-      "num": 508492,
-      "word": "樊振东贾一凡合影",
-      "onboard_time": 1724157441,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 507831,
       "num": 636269,
       "word": "陈赫说玩不到黑悟空好难受",
@@ -2233,14 +2265,6 @@
       "onboard_time": 1723991959,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 477849,
-      "num": 353116,
-      "word": "汪顺 巴黎奥运会end",
-      "onboard_time": 1724157504,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 476649,
@@ -2355,6 +2379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 458681,
+      "num": 458681,
+      "word": "高亚麟回怼网友",
+      "onboard_time": 1724158523,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 457148,
       "num": 298380,
       "word": "桃李面包怎么卖不动了",
@@ -2384,14 +2416,6 @@
       "word": "王楚钦孙颖莎双双保持世界第一",
       "onboard_time": 1724129480,
       "rank": 21,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 446333,
-      "num": 352215,
-      "word": "吴艳妮晒合照",
-      "onboard_time": 1724158163,
-      "rank": 31,
       "category": "体育"
     },
     {
@@ -2475,6 +2499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 426598,
+      "num": 493075,
+      "word": "他甚至检查了一遍玫瑰花枝的刺",
+      "onboard_time": 1724154801,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 426423,
       "num": 305465,
       "word": "41人考编上岸后被清退谁把招聘当儿戏",
@@ -2515,12 +2547,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 418520,
-      "num": 493075,
-      "word": "他甚至检查了一遍玫瑰花枝的刺",
-      "onboard_time": 1724154801,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 416854,
+      "num": 416854,
+      "word": "邱贻可孙颖莎合照 卡点才拍上",
+      "onboard_time": 1724158584,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 414471,
@@ -2577,6 +2609,14 @@
       "onboard_time": 1723974559,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 403888,
+      "num": 403888,
+      "word": "乐乐女王",
+      "onboard_time": 1724157742,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 403445,
@@ -2915,6 +2955,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 353226,
+      "num": 353226,
+      "word": "黑神话悟空全平台销量超450万份",
+      "onboard_time": 1724159424,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 353195,
       "num": 353195,
       "word": "WTT门票",
@@ -3033,14 +3081,6 @@
       "onboard_time": 1724125702,
       "rank": 22,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 341391,
-      "num": 341391,
-      "word": "王楚钦成打卡景点了",
-      "onboard_time": 1724157982,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 341197,
@@ -3315,6 +3355,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 313558,
+      "num": 313558,
+      "word": "吴艳妮和孙颖莎王楚钦合照",
+      "onboard_time": 1724159122,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 313062,
       "num": 609137,
       "word": "女子高速上没油竟当起人肉警示牌",
@@ -3379,6 +3427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 306993,
+      "num": 306993,
+      "word": "IVE内地应援大屏被举报",
+      "onboard_time": 1724159785,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 306878,
       "num": 306878,
       "word": "小米高管就直播炸麦致歉",
@@ -3425,14 +3481,6 @@
       "onboard_time": 1723945158,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 299192,
-      "num": 299192,
-      "word": "乐乐女王",
-      "onboard_time": 1724157742,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 297035,
@@ -3771,6 +3819,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 274102,
+      "num": 325176,
+      "word": "脱口秀回来了",
+      "onboard_time": 1724156123,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 273528,
       "num": 412068,
       "word": "王源是真没把我们当外人",
@@ -3859,6 +3915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 265989,
+      "num": 265989,
+      "word": "孙颖莎邱贻可总结大会合照",
+      "onboard_time": 1724157982,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 265150,
       "num": 265150,
       "word": "这个视角看孙颖莎打乒乓球好牛啊",
@@ -3945,14 +4009,6 @@
       "onboard_time": 1724142622,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 258634,
-      "num": 258634,
-      "word": "孙颖莎邱贻可总结大会合照",
-      "onboard_time": 1724157982,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 257947,
@@ -4137,6 +4193,14 @@
       "onboard_time": 1724070742,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 244640,
+      "num": 244640,
+      "word": "孙颖莎上新闻联播",
+      "onboard_time": 1724159902,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 243838,
@@ -4427,14 +4491,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 227824,
-      "num": 325176,
-      "word": "脱口秀回来了",
-      "onboard_time": 1724156123,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 227576,
       "num": 227576,
       "word": "黑神话悟空登陆PS5",
@@ -4537,6 +4593,14 @@
       "onboard_time": 1724127502,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 221991,
+      "num": 309285,
+      "word": "时代少年团直播",
+      "onboard_time": 1724157203,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 221693,
@@ -4691,14 +4755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215643,
-      "num": 309285,
-      "word": "时代少年团直播",
-      "onboard_time": 1724157203,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 215538,
       "num": 215538,
       "word": "爱犬被爸爸害死",
@@ -4752,6 +4808,14 @@
       "word": "警方回应网传33岁女子饿死在出租屋",
       "onboard_time": 1724049200,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212897,
+      "num": 212897,
+      "word": "训练营性侵14岁少女犯罪嫌疑人被批捕",
+      "onboard_time": 1724159603,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -5041,6 +5105,14 @@
       "onboard_time": 1723962498,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 204082,
+      "num": 204082,
+      "word": "乌合麒麟为射雕人物作画致敬金庸",
+      "onboard_time": 1724158823,
+      "rank": 49,
+      "category": "动漫,读书作家"
     },
     {
       "raw_hot": 203926,
@@ -7315,6 +7387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118542,
+      "num": 1110051,
+      "word": "学生春游坐过山车受伤致高位截瘫",
+      "onboard_time": 1724158823,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118056,
       "num": 118056,
       "word": "王玉雯叫檀健次giegie",
@@ -7900,7 +7980,7 @@
     },
     {
       "raw_hot": 61289,
-      "num": 360354,
+      "num": 1036579,
       "word": "好莱坞大明星太浩来了",
       "onboard_time": 1724157143,
       "rank": 45,
@@ -7916,7 +7996,7 @@
     },
     {
       "raw_hot": 60987,
-      "num": 238760,
+      "num": 420771,
       "word": "王传福感谢奔驰",
       "onboard_time": 1724158283,
       "rank": 42,
@@ -8328,6 +8408,14 @@
       "word": "美国一大学教授枪杀妻子",
       "onboard_time": 1724142861,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33279,
+      "num": 1786535,
+      "word": "文化中国行看超级月亮",
+      "onboard_time": 1724144422,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
