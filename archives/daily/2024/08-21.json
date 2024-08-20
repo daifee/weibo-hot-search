@@ -1,6 +1,6 @@
 {
   "startTime": 1724171081349,
-  "endTime": 1724185431466,
+  "endTime": 1724186167853,
   "band_list": [
     {
       "raw_hot": 1886523,
@@ -529,6 +529,14 @@
       "onboard_time": 1724175494,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 20804,
+      "num": 26282,
+      "word": "张颖颖让张兰放过去世的母亲",
+      "onboard_time": 1724184911,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 17721,
