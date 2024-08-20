@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724145779657,
+  "endTime": 1724146539426,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 2042854,
-      "num": 961464,
+      "num": 1002502,
       "word": "张颖颖 汪小菲",
       "onboard_time": 1724142681,
       "rank": 11,
@@ -299,6 +299,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 1845750,
+      "num": 1845750,
+      "word": "孙颖莎轻轻萌晕所有人",
+      "onboard_time": 1724142382,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1801454,
       "num": 1801454,
       "word": "陆虎婚纱照",
@@ -313,14 +321,6 @@
       "onboard_time": 1724052681,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1796336,
-      "num": 1796336,
-      "word": "孙颖莎轻轻萌晕所有人",
-      "onboard_time": 1724142382,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 1765792,
@@ -499,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1428056,
+      "num": 1428056,
+      "word": "黄子韬直播说脏话",
+      "onboard_time": 1724143461,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1419088,
       "num": 1419088,
       "word": "樊振东面对面专访",
@@ -595,14 +603,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1324904,
-      "num": 1324904,
-      "word": "黄子韬直播说脏话",
-      "onboard_time": 1724143461,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1314568,
       "num": 485798,
       "word": "女子参观兵马俑抱孩子走进俑坑",
@@ -664,6 +664,14 @@
       "word": "陈芋汐回应去读大学",
       "onboard_time": 1723995201,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1218815,
+      "num": 1218815,
+      "word": "孙颖莎换鞋了",
+      "onboard_time": 1724144061,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -787,20 +795,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1052930,
-      "num": 1052930,
-      "word": "孙颖莎换鞋了",
-      "onboard_time": 1724144061,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1052494,
       "num": 1052494,
       "word": "女流直播间被封",
       "onboard_time": 1724128043,
       "rank": 26,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 1041491,
+      "num": 1041491,
+      "word": "中国体育代表团总结大会举行",
+      "onboard_time": 1724143401,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 1040270,
@@ -1107,6 +1115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 846584,
+      "num": 846584,
+      "word": "华裔女子遭男友虐杀喉咙卡高尔夫球",
+      "onboard_time": 1724144422,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 846224,
       "num": 846224,
       "word": "3岁女童被虐致死生母放弃民事赔偿",
@@ -1257,14 +1273,6 @@
       "onboard_time": 1723939877,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 750252,
-      "num": 750252,
-      "word": "中国体育代表团总结大会举行",
-      "onboard_time": 1724143401,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 747772,
@@ -1907,14 +1915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 516460,
-      "num": 516460,
-      "word": "华裔女子遭男友虐杀喉咙卡高尔夫球",
-      "onboard_time": 1724144422,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 514437,
       "num": 495170,
       "word": "女子家的沙发被邻居混凝土浇筑了",
@@ -2000,6 +2000,14 @@
       "word": "张颖颖回击张兰",
       "onboard_time": 1724141363,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 486440,
+      "num": 599473,
+      "word": "又一段张昊唯微信语音曝光",
+      "onboard_time": 1724141240,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -2097,6 +2105,14 @@
       "onboard_time": 1723918454,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 464257,
+      "num": 464257,
+      "word": "手机太贵不敢偷结果偷了块28万的表",
+      "onboard_time": 1724145681,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 463660,
@@ -2283,14 +2299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 417417,
-      "num": 599473,
-      "word": "又一段张昊唯微信语音曝光",
-      "onboard_time": 1724141240,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 414471,
       "num": 414471,
       "word": "原来真有人命好的一塌糊涂",
@@ -2361,6 +2369,14 @@
       "onboard_time": 1723994900,
       "rank": 37,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 399728,
+      "num": 399728,
+      "word": "原来这才是结婚重要性排序",
+      "onboard_time": 1724143940,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 397635,
@@ -2449,6 +2465,14 @@
       "onboard_time": 1724121200,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 382551,
+      "num": 382551,
+      "word": "黑神话悟空回应闪退问题",
+      "onboard_time": 1724144601,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 380108,
@@ -2576,14 +2600,6 @@
       "word": "李佩霞被双开毛奇被调查",
       "onboard_time": 1723953078,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 364068,
-      "num": 364068,
-      "word": "手机太贵不敢偷结果偷了块28万的表",
-      "onboard_time": 1724145681,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -2771,14 +2787,6 @@
       "category": "电影,体育"
     },
     {
-      "raw_hot": 337204,
-      "num": 337204,
-      "word": "黑神话悟空回应闪退问题",
-      "onboard_time": 1724144601,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 336485,
       "num": 998100,
       "word": "建昌暴雨",
@@ -2907,14 +2915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 318131,
-      "num": 318131,
-      "word": "原来这才是结婚重要性排序",
-      "onboard_time": 1724143940,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 317642,
       "num": 317642,
       "word": "莎头比赛合照",
@@ -2937,6 +2937,14 @@
       "onboard_time": 1723955720,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 316918,
+      "num": 316918,
+      "word": "孙颖莎又成打卡景点了",
+      "onboard_time": 1724143281,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 315682,
@@ -3227,6 +3235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286008,
+      "num": 286008,
+      "word": "黑神话创始团队成员全部来自腾讯",
+      "onboard_time": 1724142441,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 285955,
       "num": 215151,
       "word": "这几天失眠可能跟月亮有关",
@@ -3451,20 +3467,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 269036,
-      "num": 269036,
-      "word": "黑神话创始团队成员全部来自腾讯",
-      "onboard_time": 1724142441,
-      "rank": 40,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 267951,
       "num": 292310,
       "word": "男主什么都问了就忘了问性别",
       "onboard_time": 1724071406,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 267739,
+      "num": 973995,
+      "word": "老人泡澡猝死儿子质疑与吸氢有关",
+      "onboard_time": 1724144422,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267668,
@@ -3635,14 +3651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 255564,
-      "num": 255564,
-      "word": "孙颖莎又成打卡景点了",
-      "onboard_time": 1724143281,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 255143,
       "num": 415532,
       "word": "檀健次 好小众的癖好赛道",
@@ -3747,6 +3755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 247479,
+      "num": 247479,
+      "word": "张博恒正脸路透呢",
+      "onboard_time": 1724145321,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246440,
       "num": 246440,
       "word": "enhypen舞台态度被审判",
@@ -3769,6 +3785,14 @@
       "onboard_time": 1724070742,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 244305,
+      "num": 244305,
+      "word": "请3天年假中秋可休8天",
+      "onboard_time": 1724145681,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243838,
@@ -3907,6 +3931,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 234270,
+      "num": 234270,
+      "word": "孙颖莎被女排姑娘拉着合影",
+      "onboard_time": 1724146340,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234225,
       "num": 234225,
       "word": "中元节习俗",
@@ -3945,6 +3977,14 @@
       "onboard_time": 1723976239,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232861,
+      "num": 232861,
+      "word": "一只猴子搅动A股",
+      "onboard_time": 1724143940,
+      "rank": 44,
+      "category": "游戏,财经"
     },
     {
       "raw_hot": 232439,
@@ -4233,14 +4273,6 @@
       "onboard_time": 1723957219,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216103,
-      "num": 216103,
-      "word": "一只猴子搅动A股",
-      "onboard_time": 1724143940,
-      "rank": 44,
-      "category": "游戏,财经"
     },
     {
       "raw_hot": 214360,
@@ -4571,20 +4603,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 203275,
-      "num": 203275,
-      "word": "请3天年假中秋可休8天",
-      "onboard_time": 1724145681,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 202631,
       "num": 328487,
       "word": "何广智快把黑神话悟空写进段子里",
       "onboard_time": 1724140160,
       "rank": 36,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 202421,
+      "num": 202421,
+      "word": "郑钦文现身表彰大会",
+      "onboard_time": 1724146461,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 202384,
@@ -4649,14 +4681,6 @@
       "onboard_time": 1724039420,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 200393,
-      "num": 200393,
-      "word": "张博恒正脸路透呢",
-      "onboard_time": 1724145321,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 200026,
@@ -4921,6 +4945,14 @@
       "onboard_time": 1723947798,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 192801,
+      "num": 192801,
+      "word": "黑神话悟空走红四年梳理",
+      "onboard_time": 1724146520,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 192404,
@@ -6123,14 +6155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150361,
-      "num": 973995,
-      "word": "老人泡澡猝死儿子质疑与吸氢有关",
-      "onboard_time": 1724144422,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149899,
       "num": 149899,
       "word": "丫丫已经判若两熊了",
@@ -6684,7 +6708,7 @@
     },
     {
       "raw_hot": 123488,
-      "num": 1508744,
+      "num": 1555147,
       "word": "大自然的调色盘一眼心动",
       "onboard_time": 1724144780,
       "rank": 2,
@@ -7203,6 +7227,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 71169,
+      "num": 1027058,
+      "word": "广西北海多人赶海遭雷击",
+      "onboard_time": 1724145681,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71097,
       "num": 71097,
       "word": "切尔西0比2曼城",
@@ -7217,6 +7249,14 @@
       "onboard_time": 1724037680,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 70011,
+      "num": 1018885,
+      "word": "辽宁多地大暴雨",
+      "onboard_time": 1724145381,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69797,
@@ -7273,14 +7313,6 @@
       "onboard_time": 1723999577,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 62899,
-      "num": 1000130,
-      "word": "辽宁多地大暴雨",
-      "onboard_time": 1724145381,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62750,
@@ -7540,7 +7572,7 @@
     },
     {
       "raw_hot": 49043,
-      "num": 751577,
+      "num": 851655,
       "word": "男子洞穴投药抓了60多只穴胫步甲",
       "onboard_time": 1724145681,
       "rank": 14,
@@ -7896,14 +7928,6 @@
       "word": "广州有我国最大的蚊子工厂",
       "onboard_time": 1724135239,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9298,
-      "num": 1010531,
-      "word": "广西北海多人赶海遭雷击",
-      "onboard_time": 1724145681,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
