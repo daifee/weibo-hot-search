@@ -1,6 +1,6 @@
 {
   "startTime": 1724171081349,
-  "endTime": 1724171081349,
+  "endTime": 1724171998104,
   "band_list": [
     {
       "raw_hot": 1886523,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 984865,
-      "num": 663564,
+      "num": 809305,
       "word": "陈妍希 陈晓",
       "onboard_time": 1724158882,
       "rank": 6,
@@ -41,6 +41,14 @@
       "onboard_time": 1724165662,
       "rank": 7,
       "category": "电影,体育"
+    },
+    {
+      "raw_hot": 751759,
+      "num": 563781,
+      "word": "冰箱误断电女子半年后回家臭吐了",
+      "onboard_time": 1724168183,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 718008,
@@ -72,14 +80,6 @@
       "word": "印度男子性侵2名学前班4岁女童",
       "onboard_time": 1724165604,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 563781,
-      "num": 563781,
-      "word": "冰箱误断电女子半年后回家臭吐了",
-      "onboard_time": 1724168183,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -315,6 +315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165629,
+      "num": 607824,
+      "word": "山西在等猴急游客",
+      "onboard_time": 1724166023,
+      "rank": 9,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 162578,
       "num": 162578,
       "word": "女儿沉迷抽小马宝莉妈妈扔卡扔到崩溃",
@@ -355,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139208,
+      "num": 139208,
+      "word": "张雨霏戴一串奖牌水灵灵地出现了",
+      "onboard_time": 1724170699,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135236,
       "num": 135236,
       "word": "郑钦文女王气质",
@@ -369,6 +385,14 @@
       "onboard_time": 1724162424,
       "rank": 47,
       "category": "电影,体育"
+    },
+    {
+      "raw_hot": 131405,
+      "num": 131405,
+      "word": "虎先锋三拳干碎大圣梦",
+      "onboard_time": 1724170820,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 130121,
@@ -387,12 +411,12 @@
       "category": "电影,体育"
     },
     {
-      "raw_hot": 93619,
-      "num": 607824,
-      "word": "山西在等猴急游客",
-      "onboard_time": 1724166023,
-      "rank": 9,
-      "category": "旅游,社会新闻"
+      "raw_hot": 91219,
+      "num": 126724,
+      "word": "脱口秀回来了",
+      "onboard_time": 1724156123,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 60678,
@@ -401,6 +425,14 @@
       "onboard_time": 1724162003,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42760,
+      "num": 320180,
+      "word": "美国大选追踪",
+      "onboard_time": 1724171778,
+      "rank": 17,
+      "category": "国外时政"
     }
   ],
   "hotgov_list": [
