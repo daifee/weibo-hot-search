@@ -1,6 +1,6 @@
 {
   "startTime": 1724171081349,
-  "endTime": 1724179204215,
+  "endTime": 1724181409055,
   "band_list": [
     {
       "raw_hot": 1886523,
@@ -483,6 +483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 49328,
+      "num": 49328,
+      "word": "不怪衣服不好看只怪自己不会搭",
+      "onboard_time": 1724178252,
+      "rank": 49,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 44389,
       "num": 48995,
       "word": "时代少年团超话",
@@ -515,14 +523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 38864,
-      "num": 48971,
-      "word": "不怪衣服不好看只怪自己不会搭",
-      "onboard_time": 1724178252,
-      "rank": 49,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 22755,
       "num": 126618,
       "word": "中职生获生物奥赛金牌",
@@ -531,11 +531,27 @@
       "category": "教育"
     },
     {
-      "raw_hot": 17337,
+      "raw_hot": 17721,
       "num": 251266,
       "word": "西汉黄金纪念币长啥样",
       "onboard_time": 1724161523,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14150,
+      "num": 39680,
+      "word": "花花怎么方头方脸的",
+      "onboard_time": 1724179214,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 12105,
+      "num": 88372,
+      "word": "第一视角夜探亚马孙雨林",
+      "onboard_time": 1724181072,
+      "rank": 10,
       "category": "社会新闻"
     }
   ],
