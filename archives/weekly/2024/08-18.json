@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724110501066,
+  "endTime": 1724117090777,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -219,6 +219,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 1854121,
+      "num": 1854121,
+      "word": "黑神话悟空",
+      "onboard_time": 1724027480,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1800733,
       "num": 718164,
       "word": "张昊唯 培养自己的妈咪",
@@ -299,6 +307,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1643820,
+      "num": 1643820,
+      "word": "46岁李维嘉洁癖严重",
+      "onboard_time": 1724110697,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1616086,
       "num": 1616086,
       "word": "全红婵跳207C经常平摔进水里",
@@ -369,6 +385,14 @@
       "onboard_time": 1723967419,
       "rank": 5,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1466610,
+      "num": 1466610,
+      "word": "小海绵用Angelababy账号刷直播",
+      "onboard_time": 1724109616,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1435855,
@@ -755,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 951648,
+      "num": 951648,
+      "word": "孙女不会做饭给92岁姥姥点披萨咖啡",
+      "onboard_time": 1724089813,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 944919,
       "num": 445177,
       "word": "客服回应旺旺碎冰冰疑有粪便",
@@ -883,14 +915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 849824,
-      "num": 849824,
-      "word": "小海绵用Angelababy账号刷直播",
-      "onboard_time": 1724109616,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 847776,
       "num": 847776,
       "word": "异形吓坏8岁小孩家长投诉影城",
@@ -969,6 +993,14 @@
       "onboard_time": 1723993162,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 784260,
+      "num": 305282,
+      "word": "参加婚礼全程无桌还没人理",
+      "onboard_time": 1724109797,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 772968,
@@ -1097,6 +1129,14 @@
       "onboard_time": 1724028559,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 704333,
+      "num": 303977,
+      "word": "房贷三十年还是租一辈子房",
+      "onboard_time": 1724109916,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 701192,
@@ -1243,6 +1283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 616788,
+      "num": 516203,
+      "word": "全红婵王俊凯合影",
+      "onboard_time": 1724109738,
+      "rank": 16,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 615982,
       "num": 714464,
       "word": "印度女博主揭露实习医生被奸杀细节",
@@ -1332,7 +1380,7 @@
     },
     {
       "raw_hot": 575194,
-      "num": 196464,
+      "num": 296583,
       "word": "原来出门上班不关空调才省电",
       "onboard_time": 1724108956,
       "rank": 20,
@@ -1427,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 544192,
+      "num": 544192,
+      "word": "梁伟铿打乒乓球",
+      "onboard_time": 1724115140,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 541895,
       "num": 541895,
       "word": "店主不在城管将多筐水果扔上执法车",
@@ -1457,6 +1513,14 @@
       "onboard_time": 1723952598,
       "rank": 6,
       "category": "美食"
+    },
+    {
+      "raw_hot": 528299,
+      "num": 454189,
+      "word": "蔬菜水果为什么突然变贵了",
+      "onboard_time": 1724093533,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 522378,
@@ -1513,14 +1577,6 @@
       "onboard_time": 1724035879,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 504084,
-      "num": 504084,
-      "word": "黑神话悟空",
-      "onboard_time": 1724027480,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 503198,
@@ -1593,6 +1649,14 @@
       "onboard_time": 1723952598,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 475677,
+      "num": 475677,
+      "word": "女生高考前骑车撞死人获谅解未被起诉",
+      "onboard_time": 1724116160,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 473937,
@@ -1739,6 +1803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 441022,
+      "num": 441022,
+      "word": "成都市民拍到7个太阳同框",
+      "onboard_time": 1724109436,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438776,
       "num": 438776,
       "word": "作者爱不爱自己笔下的角色很明显",
@@ -1881,6 +1953,14 @@
       "onboard_time": 1723977739,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 395747,
+      "num": 395747,
+      "word": "女子莫名被男子压地打致面部流血",
+      "onboard_time": 1724108956,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 392234,
@@ -2283,6 +2363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319033,
+      "num": 291519,
+      "word": "公务员考试 信息差",
+      "onboard_time": 1724116520,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 317614,
       "num": 622650,
       "word": "造假证给孩子办入学男子下跪求放过",
@@ -2363,12 +2451,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 307979,
-      "num": 307979,
-      "word": "蔬菜水果为什么突然变贵了",
-      "onboard_time": 1724093533,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 307849,
+      "num": 307849,
+      "word": "迪丽热巴 从油画里走出来的神女",
+      "onboard_time": 1724113521,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 307015,
@@ -2475,6 +2563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290668,
+      "num": 290668,
+      "word": "黑神话悟空制作人发文",
+      "onboard_time": 1724115500,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 290212,
       "num": 290212,
       "word": "黑神话",
@@ -2505,6 +2601,14 @@
       "onboard_time": 1723903103,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 286419,
+      "num": 471045,
+      "word": "国安部提醒这些快递不能寄",
+      "onboard_time": 1724114843,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 286056,
@@ -2577,6 +2681,14 @@
       "onboard_time": 1724056521,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 282638,
+      "num": 282638,
+      "word": "张若昀曾被校园霸凌",
+      "onboard_time": 1724091852,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 281943,
@@ -2819,6 +2931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251905,
+      "num": 251905,
+      "word": "直面天命",
+      "onboard_time": 1724115860,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 251758,
       "num": 251758,
       "word": "马嘉祺破音",
@@ -2913,6 +3033,14 @@
       "onboard_time": 1723956138,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 239925,
+      "num": 239925,
+      "word": "今天你从银行辞职了吗",
+      "onboard_time": 1724111718,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239000,
@@ -3027,14 +3155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 226202,
-      "num": 226202,
-      "word": "全红婵王俊凯合影",
-      "onboard_time": 1724109738,
-      "rank": 16,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 226073,
       "num": 257916,
       "word": "新版红楼梦 一黛不如一黛",
@@ -3097,14 +3217,6 @@
       "onboard_time": 1723974858,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221217,
-      "num": 192915,
-      "word": "参加婚礼全程无桌还没人理",
-      "onboard_time": 1724109797,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 220755,
@@ -3184,14 +3296,6 @@
       "word": "西安一物业撬门占用业主空置别墅",
       "onboard_time": 1723957219,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 215492,
-      "num": 215492,
-      "word": "女子莫名被男子压地打致面部流血",
-      "onboard_time": 1724108956,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -3379,6 +3483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205841,
+      "num": 205841,
+      "word": "41人上岸后被清退该如何善后",
+      "onboard_time": 1724112741,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205072,
       "num": 205072,
       "word": "时代少年团战至巅峰下周预告",
@@ -3505,6 +3617,14 @@
       "onboard_time": 1724039420,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 200026,
+      "num": 200026,
+      "word": "帆布鞋为啥不流行了",
+      "onboard_time": 1724112619,
+      "rank": 32,
+      "category": "时尚"
     },
     {
       "raw_hot": 200004,
@@ -3819,6 +3939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186216,
+      "num": 186216,
+      "word": "遭网课爆破猝死教师的女儿将在杭读研",
+      "onboard_time": 1724112681,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184628,
       "num": 184628,
       "word": "黑神话悟空倒计时1天",
@@ -3867,6 +3995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183030,
+      "num": 183030,
+      "word": "为什么大人去景区喜欢带水果",
+      "onboard_time": 1724111718,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 182913,
       "num": 182913,
       "word": "恋与深空肯德基",
@@ -3889,6 +4025,14 @@
       "onboard_time": 1724041581,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181748,
+      "num": 181748,
+      "word": "梁王 水灵灵地杀死了采访",
+      "onboard_time": 1724113040,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 181745,
@@ -3987,12 +4131,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 175980,
+      "num": 175980,
+      "word": "乳糖不耐受多数是后天所致",
+      "onboard_time": 1724109196,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 174410,
       "num": 174410,
       "word": "江苏盐城发生3.4级地震",
       "onboard_time": 1723990940,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174006,
+      "num": 174006,
+      "word": "听肖战用尽我的一切奔向你情感共振了",
+      "onboard_time": 1724113461,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 173960,
@@ -4025,6 +4185,14 @@
       "onboard_time": 1723988361,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 172088,
+      "num": 172088,
+      "word": "日本多地允许带娃上班",
+      "onboard_time": 1724115260,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171406,
@@ -4851,6 +5019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141298,
+      "num": 141298,
+      "word": "张昊唯可提起刑事自诉",
+      "onboard_time": 1724114061,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141070,
       "num": 141070,
       "word": "黄一鸣女儿发型",
@@ -4979,6 +5155,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 134133,
+      "num": 223398,
+      "word": "山东银豆橛子都快吃不起了",
+      "onboard_time": 1724087954,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134086,
       "num": 134086,
       "word": "晚10至11点睡对心血管最好",
@@ -4993,14 +5177,6 @@
       "onboard_time": 1723996700,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131821,
-      "num": 131821,
-      "word": "孙女不会做饭给92岁姥姥点披萨咖啡",
-      "onboard_time": 1724089813,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130908,
@@ -5025,6 +5201,14 @@
       "onboard_time": 1723972760,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 128383,
+      "num": 128383,
+      "word": "腾讯曾上门给黑神话钱",
+      "onboard_time": 1724116459,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 128330,
@@ -5235,14 +5419,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 109219,
-      "num": 109219,
-      "word": "成都市民拍到7个太阳同框",
-      "onboard_time": 1724109436,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109016,
       "num": 101367,
       "word": "半夜把讨厌的人全部设成了毕业删",
@@ -5315,14 +5491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 104251,
-      "num": 223398,
-      "word": "山东银豆橛子都快吃不起了",
-      "onboard_time": 1724087954,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 103829,
       "num": 103829,
       "word": "陈芋汐一天称十次体重",
@@ -5337,14 +5505,6 @@
       "onboard_time": 1723913777,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 103098,
-      "num": 115213,
-      "word": "张若昀曾被校园霸凌",
-      "onboard_time": 1724091852,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 101739,
@@ -5371,20 +5531,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 98801,
+      "num": 98801,
+      "word": "阿勒泰的秋天",
+      "onboard_time": 1724116400,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 98206,
       "num": 2154341,
       "word": "2024最美医生发布",
       "onboard_time": 1724040382,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97853,
-      "num": 97853,
-      "word": "乳糖不耐受多数是后天所致",
-      "onboard_time": 1724109196,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 94301,
@@ -5529,14 +5689,6 @@
       "onboard_time": 1723971680,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 75982,
-      "num": 75982,
-      "word": "房贷三十年还是租一辈子房",
-      "onboard_time": 1724109916,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 75692,
@@ -5843,6 +5995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49807,
+      "num": 1568875,
+      "word": "中国空间站舷窗大片再上新",
+      "onboard_time": 1724074222,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49582,
       "num": 338057,
       "word": "您守护世界我守护您",
@@ -5968,14 +6128,6 @@
       "word": "湖南博物院辟谣曲裾式素纱单衣被盗",
       "onboard_time": 1724100910,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34936,
-      "num": 1568875,
-      "word": "中国空间站舷窗大片再上新",
-      "onboard_time": 1724074222,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
