@@ -1,10 +1,10 @@
 {
   "startTime": 1724084701164,
-  "endTime": 1724121554054,
+  "endTime": 1724122210714,
   "band_list": [
     {
-      "raw_hot": 5386583,
-      "num": 6636583,
+      "raw_hot": 7427869,
+      "num": 8677869,
       "word": "黑神话悟空",
       "onboard_time": 1724108835,
       "rank": 5,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1404968,
+      "num": 1404968,
+      "word": "中秋节好像没放假又好像放了",
+      "onboard_time": 1724119521,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1384277,
       "num": 1384277,
       "word": "女生高考前骑车撞死人获谅解未被起诉",
@@ -41,14 +49,6 @@
       "onboard_time": 1724082020,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1211452,
-      "num": 1211452,
-      "word": "中秋节好像没放假又好像放了",
-      "onboard_time": 1724119521,
-      "rank": 3,
-      "category": "情感"
     },
     {
       "raw_hot": 1189353,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 711382,
+      "num": 330538,
+      "word": "泰剧已经把女主进化成这样了么",
+      "onboard_time": 1724120000,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 704333,
       "num": 306845,
       "word": "房贷三十年还是租一辈子房",
@@ -153,14 +161,6 @@
       "onboard_time": 1724082800,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 599875,
-      "num": 330538,
-      "word": "泰剧已经把女主进化成这样了么",
-      "onboard_time": 1724120000,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 575194,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 437639,
+      "num": 437639,
+      "word": "女子微信群抢红包涉赌被罚500元",
+      "onboard_time": 1724119219,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 403357,
       "num": 476603,
       "word": "日本多地允许带娃上班",
@@ -307,12 +315,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 380555,
-      "num": 380555,
-      "word": "女子微信群抢红包涉赌被罚500元",
-      "onboard_time": 1724119219,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 384110,
+      "num": 384110,
+      "word": "朱正廷卢洋洋开机路透",
+      "onboard_time": 1724121200,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 373989,
@@ -379,14 +387,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 303896,
-      "num": 342193,
-      "word": "朱正廷卢洋洋开机路透",
-      "onboard_time": 1724121200,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 298840,
       "num": 298840,
       "word": "海底捞回应顾客店内自制腐竹",
@@ -419,19 +419,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 281902,
+      "num": 281902,
+      "word": "黑神话悟空解压",
+      "onboard_time": 1724120839,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 280860,
+      "num": 280860,
+      "word": "孙颖莎9000分世排第一",
+      "onboard_time": 1724121561,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 277346,
       "num": 277346,
       "word": "黑神话悟空开玩",
       "onboard_time": 1724119159,
       "rank": 27,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 260436,
-      "num": 260436,
-      "word": "黑神话悟空解压",
-      "onboard_time": 1724120839,
-      "rank": 32,
       "category": "游戏"
     },
     {
@@ -465,6 +473,14 @@
       "onboard_time": 1724111718,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225785,
+      "num": 513763,
+      "word": "八十一难第一难是解压",
+      "onboard_time": 1724121440,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 223853,
@@ -539,6 +555,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 195994,
+      "num": 195994,
+      "word": "伊朗称报复以色列无关加沙停火谈判",
+      "onboard_time": 1724120718,
+      "rank": 39,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 195498,
       "num": 195498,
       "word": "张昊唯称被一个团伙盯上",
@@ -571,6 +595,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 190438,
+      "num": 190438,
+      "word": "王一博新歌满满运动的快乐",
+      "onboard_time": 1724121440,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 183030,
       "num": 183030,
       "word": "为什么大人去景区喜欢带水果",
@@ -579,28 +611,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 182013,
+      "num": 182013,
+      "word": "黑神话悟空默认语言中文这感觉好爽",
+      "onboard_time": 1724121140,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 181748,
       "num": 181748,
       "word": "梁王 水灵灵地杀死了采访",
       "onboard_time": 1724113040,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 179973,
-      "num": 179973,
-      "word": "伊朗称报复以色列无关加沙停火谈判",
-      "onboard_time": 1724120718,
-      "rank": 39,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 179362,
-      "num": 179362,
-      "word": "黑神话悟空默认语言中文这感觉好爽",
-      "onboard_time": 1724121140,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 175980,
@@ -643,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173872,
+      "num": 173872,
+      "word": "又一批水灵灵的05后要上大学啦",
+      "onboard_time": 1724121981,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173274,
       "num": 173274,
       "word": "成毅飞习惯不会走路了",
@@ -657,14 +689,6 @@
       "onboard_time": 1724121440,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 160964,
-      "num": 160964,
-      "word": "王一博新歌满满运动的快乐",
-      "onboard_time": 1724121440,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 159235,
@@ -691,12 +715,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145727,
+      "num": 145727,
+      "word": "缩水百亿今年暑期档为何集体哑火了",
+      "onboard_time": 1724119278,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142635,
       "num": 142635,
       "word": "泰国人妖骗73名日本人超500万",
       "onboard_time": 1724062944,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142353,
+      "num": 142353,
+      "word": "小猴子会成长 你也一样",
+      "onboard_time": 1724119521,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 141298,
@@ -819,6 +859,14 @@
       "category": "体育,动漫"
     },
     {
+      "raw_hot": 104962,
+      "num": 515605,
+      "word": "郑州警方回应女子被男子压身下殴打",
+      "onboard_time": 1724121019,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104719,
       "num": 112703,
       "word": "孙颖莎微博粉丝破700万",
@@ -875,28 +923,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 89177,
-      "num": 513763,
-      "word": "八十一难第一难是解压",
-      "onboard_time": 1724121440,
-      "rank": 9,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 86895,
       "num": 66896,
       "word": "经常熬夜5年后身体有什么变化",
       "onboard_time": 1724091193,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 78088,
-      "num": 515605,
-      "word": "郑州警方回应女子被男子压身下殴打",
-      "onboard_time": 1724121019,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73510,
@@ -937,6 +969,14 @@
       "onboard_time": 1724089454,
       "rank": 12,
       "category": "自然"
+    },
+    {
+      "raw_hot": 56088,
+      "num": 313935,
+      "word": "小鹏MONA将于8月27日上市",
+      "onboard_time": 1724121140,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 54485,
@@ -985,14 +1025,6 @@
       "onboard_time": 1724078003,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 40671,
-      "num": 270999,
-      "word": "小鹏MONA将于8月27日上市",
-      "onboard_time": 1724121140,
-      "rank": 28,
-      "category": "汽车"
     },
     {
       "raw_hot": 39698,

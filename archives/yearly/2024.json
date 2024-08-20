@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1724121554054,
+  "endTime": 1724122210714,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -2187,6 +2187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 7427869,
+      "num": 8677869,
+      "word": "黑神话悟空",
+      "onboard_time": 1716122058,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 7379450,
       "num": 7379450,
       "word": "香缇莫淘汰",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1714019539,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 6792938,
-      "num": 6792938,
-      "word": "国考出成绩",
-      "onboard_time": 1705147906,
-      "rank": 4,
-      "category": "教育"
     }
   ],
   "hotgov_list": [
