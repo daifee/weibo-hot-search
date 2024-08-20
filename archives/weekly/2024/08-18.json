@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724174340335,
+  "endTime": 1724175311852,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -2497,6 +2497,14 @@
       "onboard_time": 1723984099,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 455732,
+      "num": 455732,
+      "word": "黑神话悟空结局",
+      "onboard_time": 1724173216,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 453799,
@@ -5339,14 +5347,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 204460,
-      "num": 204460,
-      "word": "黑神话悟空结局",
-      "onboard_time": 1724173216,
-      "rank": 16,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 204447,
       "num": 204447,
       "word": "樊振东着红色礼服参加总结大会",
@@ -7348,7 +7348,7 @@
     },
     {
       "raw_hot": 139208,
-      "num": 305125,
+      "num": 323394,
       "word": "张雨霏戴一串奖牌水灵灵地出现了",
       "onboard_time": 1724170699,
       "rank": 43,
@@ -7683,6 +7683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119498,
+      "num": 119498,
+      "word": "入职2年高校教师吐槽评职称",
+      "onboard_time": 1724173157,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 119156,
       "num": 119156,
       "word": "曹缘评价全红婵陈芋汐",
@@ -7705,14 +7713,6 @@
       "onboard_time": 1723973840,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 118023,
-      "num": 118023,
-      "word": "入职2年高校教师吐槽评职称",
-      "onboard_time": 1724173157,
-      "rank": 33,
-      "category": "教育"
     },
     {
       "raw_hot": 117442,
@@ -8019,6 +8019,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 87708,
+      "num": 87708,
+      "word": "领笑员",
+      "onboard_time": 1724174115,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 86924,
       "num": 101754,
       "word": "檀健次cos小蜜蜂",
@@ -8169,14 +8177,6 @@
       "onboard_time": 1724022735,
       "rank": 46,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 72010,
-      "num": 81737,
-      "word": "领笑员",
-      "onboard_time": 1724174115,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 71855,
@@ -8345,6 +8345,14 @@
       "onboard_time": 1724158283,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 60492,
+      "num": 77962,
+      "word": "黑神话悟空带火西游记原著",
+      "onboard_time": 1724175254,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 59552,

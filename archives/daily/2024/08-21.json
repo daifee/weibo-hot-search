@@ -1,6 +1,6 @@
 {
   "startTime": 1724171081349,
-  "endTime": 1724174340335,
+  "endTime": 1724175311852,
   "band_list": [
     {
       "raw_hot": 1886523,
@@ -104,6 +104,14 @@
       "word": "黑神话悟空中很多翻译直接用了拼音",
       "onboard_time": 1724160323,
       "rank": 14,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 455732,
+      "num": 455732,
+      "word": "黑神话悟空结局",
+      "onboard_time": 1724173216,
+      "rank": 16,
       "category": "游戏"
     },
     {
@@ -251,14 +259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 204460,
-      "num": 204460,
-      "word": "黑神话悟空结局",
-      "onboard_time": 1724173216,
-      "rank": 16,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 203674,
       "num": 203674,
       "word": "李雯雯被夸女霸王",
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 139208,
-      "num": 305125,
+      "num": 323394,
       "word": "张雨霏戴一串奖牌水灵灵地出现了",
       "onboard_time": 1724170699,
       "rank": 43,
@@ -419,8 +419,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 118023,
-      "num": 118023,
+      "raw_hot": 119498,
+      "num": 119498,
       "word": "入职2年高校教师吐槽评职称",
       "onboard_time": 1724173157,
       "rank": 33,
@@ -443,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87708,
+      "num": 87708,
+      "word": "领笑员",
+      "onboard_time": 1724174115,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 76735,
       "num": 81755,
       "word": "汪顺 巴黎奥运会end",
@@ -451,20 +459,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 72010,
-      "num": 81737,
-      "word": "领笑员",
-      "onboard_time": 1724174115,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 60678,
       "num": 989608,
       "word": "直击地球裂缝上的花江峡谷大桥",
       "onboard_time": 1724162003,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60492,
+      "num": 77962,
+      "word": "黑神话悟空带火西游记原著",
+      "onboard_time": 1724175254,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 42760,
