@@ -1,6 +1,6 @@
 {
   "startTime": 1724171081349,
-  "endTime": 1724181409055,
+  "endTime": 1724182498841,
   "band_list": [
     {
       "raw_hot": 1886523,
@@ -539,20 +539,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17550,
+      "num": 88372,
+      "word": "第一视角夜探亚马孙雨林",
+      "onboard_time": 1724181072,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14150,
       "num": 39680,
       "word": "花花怎么方头方脸的",
       "onboard_time": 1724179214,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 12105,
-      "num": 88372,
-      "word": "第一视角夜探亚马孙雨林",
-      "onboard_time": 1724181072,
-      "rank": 10,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
