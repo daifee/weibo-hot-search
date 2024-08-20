@@ -1,6 +1,6 @@
 {
   "startTime": 1724084701164,
-  "endTime": 1724149275361,
+  "endTime": 1724150368771,
   "band_list": [
     {
       "raw_hot": 7427869,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1495817,
+      "num": 583067,
+      "word": "真的很讨厌办公室的奶茶文化",
+      "onboard_time": 1724146581,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1466610,
       "num": 1466610,
       "word": "小海绵用Angelababy账号刷直播",
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 1171279,
-      "num": 474275,
+      "num": 598965,
       "word": "张颖颖连发三条微博回应张兰",
       "onboard_time": 1724147602,
       "rank": 15,
@@ -243,6 +251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1007928,
+      "num": 619319,
+      "word": "黑神话梗图",
+      "onboard_time": 1724147782,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1006875,
       "num": 1006875,
       "word": "冯禧去拍戏了",
@@ -257,14 +273,6 @@
       "onboard_time": 1724089813,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 937323,
-      "num": 452879,
-      "word": "真的很讨厌办公室的奶茶文化",
-      "onboard_time": 1724146581,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 917736,
@@ -443,14 +451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 605806,
-      "num": 605806,
-      "word": "黑神话梗图",
-      "onboard_time": 1724147782,
-      "rank": 13,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 602109,
       "num": 602109,
       "word": "徐梦洁摔伤",
@@ -489,6 +489,22 @@
       "onboard_time": 1724108956,
       "rank": 20,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 574738,
+      "num": 574738,
+      "word": "由于我整个孕期不停的跳舞",
+      "onboard_time": 1724148141,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 573525,
+      "num": 573525,
+      "word": "四六级成绩",
+      "onboard_time": 1724148440,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 564334,
@@ -595,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 497272,
+      "num": 634918,
+      "word": "陈赫说玩不到黑悟空好难受",
+      "onboard_time": 1724146942,
+      "rank": 17,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 493258,
       "num": 493258,
       "word": "国安部提醒这些快递不能寄",
@@ -633,14 +657,6 @@
       "onboard_time": 1724129480,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 449486,
-      "num": 463407,
-      "word": "陈赫说玩不到黑悟空好难受",
-      "onboard_time": 1724146942,
-      "rank": 17,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 444842,
@@ -692,7 +708,7 @@
     },
     {
       "raw_hot": 419004,
-      "num": 419004,
+      "num": 600323,
       "word": "请3天年假中秋可休8天",
       "onboard_time": 1724145681,
       "rank": 46,
@@ -745,14 +761,6 @@
       "onboard_time": 1724136921,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 391037,
-      "num": 391037,
-      "word": "由于我整个孕期不停的跳舞",
-      "onboard_time": 1724148141,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 384110,
@@ -867,14 +875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 340631,
-      "num": 340631,
-      "word": "四六级成绩",
-      "onboard_time": 1724148440,
-      "rank": 33,
-      "category": "教育"
-    },
-    {
       "raw_hot": 336485,
       "num": 998100,
       "word": "建昌暴雨",
@@ -891,6 +891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 328833,
+      "num": 586455,
+      "word": "家昱户筱密逃录制路透",
+      "onboard_time": 1724147181,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 327439,
       "num": 327439,
       "word": "王俊凯 清华也是我小时候的梦想",
@@ -899,12 +907,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 321393,
-      "num": 459776,
-      "word": "家昱户筱密逃录制路透",
-      "onboard_time": 1724147181,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 322985,
+      "num": 322985,
+      "word": "张颖颖在线刚张兰",
+      "onboard_time": 1724149640,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 318956,
@@ -1147,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 264003,
+      "num": 264003,
+      "word": "郑钦文现身表彰大会",
+      "onboard_time": 1724146461,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 261309,
       "num": 1039530,
       "word": "辽宁葫芦岛4个村通信中断",
@@ -1235,14 +1251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 244919,
-      "num": 244919,
-      "word": "郑钦文现身表彰大会",
-      "onboard_time": 1724146461,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 242266,
       "num": 242266,
       "word": "黑神话悟空创Steam下载带宽纪录",
@@ -1275,12 +1283,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238959,
+      "num": 365750,
+      "word": "刘亦菲VOGUE黑白大片",
+      "onboard_time": 1724149761,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 237721,
       "num": 638296,
       "word": "黑神话第二难 着色器编译",
       "onboard_time": 1724124741,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 236401,
+      "num": 236401,
+      "word": "原来在事业单位的电话不能乱接",
+      "onboard_time": 1724148920,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 234741,
@@ -1531,6 +1555,14 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 202490,
+      "num": 202490,
+      "word": "原来我吃的掌中宝是鸡屁股",
+      "onboard_time": 1724148440,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 202349,
       "num": 208328,
       "word": "中国奥运天团巴黎经典记忆",
@@ -1635,12 +1667,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 193225,
-      "num": 193225,
-      "word": "原来在事业单位的电话不能乱接",
-      "onboard_time": 1724148920,
-      "rank": 43,
-      "category": "情感"
+      "raw_hot": 192875,
+      "num": 355910,
+      "word": "柳舟记",
+      "onboard_time": 1724149940,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 192801,
@@ -1689,6 +1721,22 @@
       "onboard_time": 1724121440,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 190434,
+      "num": 190434,
+      "word": "阳光玫瑰为什么失宠了",
+      "onboard_time": 1724150002,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188601,
+      "num": 208889,
+      "word": "柳舟记反转",
+      "onboard_time": 1724150119,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 187331,
@@ -1795,14 +1843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177412,
-      "num": 177412,
-      "word": "原来我吃的掌中宝是鸡屁股",
-      "onboard_time": 1724148440,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 176835,
       "num": 176835,
       "word": "易烊千玺复古皮衣工装裤",
@@ -1880,6 +1920,14 @@
       "word": "汪顺表彰大会路透神图",
       "onboard_time": 1724142861,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 172265,
+      "num": 172265,
+      "word": "想孙颖莎的风还是吹到了这里",
+      "onboard_time": 1724149340,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -2163,6 +2211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119165,
+      "num": 330573,
+      "word": "拜登告别演说数次落泪",
+      "onboard_time": 1724149761,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 115421,
       "num": 222722,
       "word": "异形吓坏小孩家长不能无视观影提醒",
@@ -2297,6 +2353,14 @@
       "onboard_time": 1724091193,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 84953,
+      "num": 626233,
+      "word": "日媒播音员称钓鱼岛是中国领土被解聘",
+      "onboard_time": 1724149100,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83365,
@@ -2523,11 +2587,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36337,
-      "num": 375497,
-      "word": "日媒播音员称钓鱼岛是中国领土被解聘",
-      "onboard_time": 1724149100,
-      "rank": 29,
+      "raw_hot": 38114,
+      "num": 632943,
+      "word": "执法人员称干垮一个企业太简单后续",
+      "onboard_time": 1724149820,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -2600,6 +2664,14 @@
       "word": "宁夏一化工车间发生爆炸",
       "onboard_time": 1724081660,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25969,
+      "num": 606416,
+      "word": "贪官开二手车租房装清廉",
+      "onboard_time": 1724149820,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
