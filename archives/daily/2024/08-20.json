@@ -1,10 +1,10 @@
 {
   "startTime": 1724084701164,
-  "endTime": 1724117090777,
+  "endTime": 1724118407181,
   "band_list": [
     {
-      "raw_hot": 1854121,
-      "num": 1854121,
+      "raw_hot": 2292597,
+      "num": 2292597,
       "word": "黑神话悟空",
       "onboard_time": 1724108835,
       "rank": 5,
@@ -25,6 +25,14 @@
       "onboard_time": 1724109616,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1384277,
+      "num": 1384277,
+      "word": "女生高考前骑车撞死人获谅解未被起诉",
+      "onboard_time": 1724116160,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1218741,
@@ -67,8 +75,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 845459,
+      "num": 845459,
+      "word": "冯禧去拍戏了",
+      "onboard_time": 1724117238,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 784260,
-      "num": 305282,
+      "num": 306378,
       "word": "参加婚礼全程无桌还没人理",
       "onboard_time": 1724109797,
       "rank": 21,
@@ -99,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 675574,
+      "num": 675574,
+      "word": "梁伟铿打乒乓球",
+      "onboard_time": 1724115140,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 675048,
       "num": 675048,
       "word": "张昊唯 把小姐笼络起来",
@@ -108,7 +132,7 @@
     },
     {
       "raw_hot": 616788,
-      "num": 516203,
+      "num": 555719,
       "word": "全红婵王俊凯合影",
       "onboard_time": 1724109738,
       "rank": 16,
@@ -163,14 +187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 544192,
-      "num": 544192,
-      "word": "梁伟铿打乒乓球",
-      "onboard_time": 1724115140,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 543615,
       "num": 306426,
       "word": "女教师遭网课爆破后猝死一案已宣判",
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 528299,
-      "num": 454189,
+      "num": 457934,
       "word": "蔬菜水果为什么突然变贵了",
       "onboard_time": 1724093533,
       "rank": 9,
@@ -195,19 +211,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 493258,
+      "num": 493258,
+      "word": "国安部提醒这些快递不能寄",
+      "onboard_time": 1724114843,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 484241,
       "num": 484241,
       "word": "银行为什么出现离职潮",
       "onboard_time": 1724076441,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 475677,
-      "num": 475677,
-      "word": "女生高考前骑车撞死人获谅解未被起诉",
-      "onboard_time": 1724116160,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -225,6 +241,14 @@
       "onboard_time": 1724072186,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 442052,
+      "num": 301802,
+      "word": "公务员考试 信息差",
+      "onboard_time": 1724116520,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 441022,
@@ -275,12 +299,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 319033,
-      "num": 291519,
-      "word": "公务员考试 信息差",
-      "onboard_time": 1724116520,
-      "rank": 24,
-      "category": "教育"
+      "raw_hot": 315247,
+      "num": 295063,
+      "word": "腾讯曾上门给黑神话钱",
+      "onboard_time": 1724116459,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 307849,
@@ -313,14 +337,6 @@
       "onboard_time": 1724115500,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 286419,
-      "num": 471045,
-      "word": "国安部提醒这些快递不能寄",
-      "onboard_time": 1724114843,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 284307,
@@ -379,6 +395,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212828,
+      "num": 212828,
+      "word": "黄松一审获刑七年",
+      "onboard_time": 1724117899,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 211549,
+      "num": 274744,
+      "word": "遭网课爆破猝死教师的女儿将在杭读研",
+      "onboard_time": 1724112681,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209730,
+      "num": 209730,
+      "word": "手总打不到蚊子的原因找到了",
+      "onboard_time": 1724118077,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 205841,
       "num": 205841,
       "word": "41人上岸后被清退该如何善后",
@@ -395,12 +435,28 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 202994,
+      "num": 476603,
+      "word": "日本多地允许带娃上班",
+      "onboard_time": 1724115260,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200026,
       "num": 200026,
       "word": "帆布鞋为啥不流行了",
       "onboard_time": 1724112619,
       "rank": 32,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 195498,
+      "num": 195498,
+      "word": "张昊唯称被一个团伙盯上",
+      "onboard_time": 1724057722,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 193433,
@@ -411,12 +467,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 186216,
-      "num": 186216,
-      "word": "遭网课爆破猝死教师的女儿将在杭读研",
-      "onboard_time": 1724112681,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 191928,
+      "num": 191928,
+      "word": "阿勒泰的秋天",
+      "onboard_time": 1724116400,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 183030,
@@ -475,20 +531,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172088,
-      "num": 172088,
-      "word": "日本多地允许带娃上班",
-      "onboard_time": 1724115260,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154116,
       "num": 175337,
       "word": "龙梅子演唱会",
       "onboard_time": 1724080641,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 152709,
+      "num": 152709,
+      "word": "黑神话悟空创Steam下载带宽纪录",
+      "onboard_time": 1724118018,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 148027,
@@ -531,6 +587,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 137381,
+      "num": 137381,
+      "word": "长期不吃早餐会发生什么",
+      "onboard_time": 1724117778,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 135110,
       "num": 135110,
       "word": "柳眠棠的声线都变了",
@@ -545,6 +609,14 @@
       "onboard_time": 1724074760,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134370,
+      "num": 466585,
+      "word": "猿神 启动",
+      "onboard_time": 1724117179,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 134300,
@@ -569,14 +641,6 @@
       "onboard_time": 1724080701,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128383,
-      "num": 128383,
-      "word": "腾讯曾上门给黑神话钱",
-      "onboard_time": 1724116459,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 124299,
@@ -667,12 +731,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 98801,
-      "num": 98801,
-      "word": "阿勒泰的秋天",
-      "onboard_time": 1724116400,
-      "rank": 49,
-      "category": "旅游"
+      "raw_hot": 99424,
+      "num": 461001,
+      "word": "黑神话制作人解锁前的三点叮嘱",
+      "onboard_time": 1724117477,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 90858,

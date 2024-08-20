@@ -1,0 +1,410 @@
+{
+  "runTime": 1724118407181,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2292597,
+        "num": 2292597,
+        "word": "黑神话悟空",
+        "onboard_time": 1724108835,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1384277,
+        "num": 1384277,
+        "word": "女生高考前骑车撞死人获谅解未被起诉",
+        "onboard_time": 1724116160,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43108,
+        "num": 1358819,
+        "word": "中国空间站舷窗大片再上新",
+        "onboard_time": 1724074222,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1347465,
+        "num": 1347465,
+        "word": "46岁李维嘉洁癖严重",
+        "onboard_time": 1724110697,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1334597,
+        "num": 1334597,
+        "word": "小海绵用Angelababy账号刷直播",
+        "onboard_time": 1724109616,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 847624,
+        "num": 847624,
+        "word": "孙女不会做饭给92岁姥姥点披萨咖啡",
+        "onboard_time": 1724089813,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 845459,
+        "num": 845459,
+        "word": "冯禧去拍戏了",
+        "onboard_time": 1724117238,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 675574,
+        "num": 675574,
+        "word": "梁伟铿打乒乓球",
+        "onboard_time": 1724115140,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 555719,
+        "num": 555719,
+        "word": "全红婵王俊凯合影",
+        "onboard_time": 1724109738,
+        "rank": 8,
+        "category": "电影,体育"
+      },
+      {
+        "raw_hot": 493258,
+        "num": 493258,
+        "word": "国安部提醒这些快递不能寄",
+        "onboard_time": 1724114843,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592471,
+        "num": 493034,
+        "word": "女子迪士尼上厕所超时崩溃大哭",
+        "onboard_time": 1724075061,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534773,
+        "num": 480066,
+        "word": "张昊唯 孝出强大",
+        "onboard_time": 1724096952,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202994,
+        "num": 476603,
+        "word": "日本多地允许带娃上班",
+        "onboard_time": 1724115260,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134370,
+        "num": 466585,
+        "word": "猿神 启动",
+        "onboard_time": 1724117179,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99424,
+        "num": 461001,
+        "word": "黑神话制作人解锁前的三点叮嘱",
+        "onboard_time": 1724117477,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 457934,
+        "num": 457934,
+        "word": "蔬菜水果为什么突然变贵了",
+        "onboard_time": 1724093533,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428739,
+        "num": 428739,
+        "word": "印度2岁女童惨遭已婚男子强奸",
+        "onboard_time": 1724070200,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332476,
+        "num": 332476,
+        "word": "成都市民拍到7个太阳同框",
+        "onboard_time": 1724109436,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316970,
+        "num": 316970,
+        "word": "网易云 没有删库没有跑路",
+        "onboard_time": 1724060422,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 307601,
+        "num": 307601,
+        "word": "迪丽热巴 从油画里走出来的神女",
+        "onboard_time": 1724113521,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 558136,
+        "num": 306378,
+        "word": "参加婚礼全程无桌还没人理",
+        "onboard_time": 1724109797,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 493701,
+        "num": 303530,
+        "word": "房贷三十年还是租一辈子房",
+        "onboard_time": 1724109916,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 442052,
+        "num": 301802,
+        "word": "公务员考试 信息差",
+        "onboard_time": 1724116520,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 402994,
+        "num": 298085,
+        "word": "教师遭网课爆破猝死案2成年人被拘留",
+        "onboard_time": 1724082020,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315247,
+        "num": 295063,
+        "word": "腾讯曾上门给黑神话钱",
+        "onboard_time": 1724116459,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 293628,
+        "num": 293628,
+        "word": "张昊唯报警",
+        "onboard_time": 1724062222,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211549,
+        "num": 274744,
+        "word": "遭网课爆破猝死教师的女儿将在杭读研",
+        "onboard_time": 1724112681,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274571,
+        "num": 274571,
+        "word": "女子莫名被男子压地打致面部流血",
+        "onboard_time": 1724108956,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245324,
+        "num": 245324,
+        "word": "张若昀曾被校园霸凌",
+        "onboard_time": 1724091852,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 244842,
+        "num": 244842,
+        "word": "黑神话悟空制作人发文",
+        "onboard_time": 1724115500,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 223392,
+        "num": 223392,
+        "word": "网易云音乐故障真相",
+        "onboard_time": 1724076082,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 212828,
+        "num": 212828,
+        "word": "黄松一审获刑七年",
+        "onboard_time": 1724117899,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209730,
+        "num": 209730,
+        "word": "手总打不到蚊子的原因找到了",
+        "onboard_time": 1724118077,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 195498,
+        "num": 195498,
+        "word": "张昊唯称被一个团伙盯上",
+        "onboard_time": 1724057722,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192260,
+        "num": 192260,
+        "word": "网易云",
+        "onboard_time": 1724085377,
+        "rank": 34,
+        "category": "互联网,音乐"
+      },
+      {
+        "raw_hot": 191928,
+        "num": 191928,
+        "word": "阿勒泰的秋天",
+        "onboard_time": 1724116400,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 174956,
+        "num": 174956,
+        "word": "为什么大人去景区喜欢带水果",
+        "onboard_time": 1724111718,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174478,
+        "num": 174478,
+        "word": "张淼怡对林黛玉的角色理解",
+        "onboard_time": 1724079261,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167089,
+        "num": 167089,
+        "word": "今天你从银行辞职了吗",
+        "onboard_time": 1724111718,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156018,
+        "num": 156018,
+        "word": "直面天命",
+        "onboard_time": 1724115860,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153533,
+        "num": 153533,
+        "word": "帆布鞋为啥不流行了",
+        "onboard_time": 1724112619,
+        "rank": 40,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 152709,
+        "num": 152709,
+        "word": "黑神话悟空创Steam下载带宽纪录",
+        "onboard_time": 1724118018,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 462149,
+        "num": 150620,
+        "word": "原来出门上班不关空调才省电",
+        "onboard_time": 1724108956,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 147458,
+        "num": 147458,
+        "word": "梁洁 分寸感",
+        "onboard_time": 1724080281,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147427,
+        "num": 147427,
+        "word": "乳糖不耐受多数是后天所致",
+        "onboard_time": 1724109196,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 146197,
+        "num": 146197,
+        "word": "梁王 水灵灵地杀死了采访",
+        "onboard_time": 1724113040,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143133,
+        "num": 143133,
+        "word": "听肖战用尽我的一切奔向你情感共振了",
+        "onboard_time": 1724113461,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137381,
+        "num": 137381,
+        "word": "长期不吃早餐会发生什么",
+        "onboard_time": 1724117778,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129891,
+        "num": 129891,
+        "word": "41人上岸后被清退该如何善后",
+        "onboard_time": 1724112741,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128215,
+        "num": 128215,
+        "word": "王俊凯 清华也是我小时候的梦想",
+        "onboard_time": 1724076441,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同苏林共同出席合作文件签字仪式#"
+    }
+  }
+}
