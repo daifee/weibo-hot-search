@@ -1,6 +1,6 @@
 {
   "startTime": 1724084701164,
-  "endTime": 1724163564385,
+  "endTime": 1724164627281,
   "band_list": [
     {
       "raw_hot": 7427869,
@@ -35,20 +35,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2923169,
+      "num": 1960583,
+      "word": "陈妍希 陈晓",
+      "onboard_time": 1724158882,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2840705,
       "num": 2840705,
       "word": "中国体育代表团总结大会现场图",
       "onboard_time": 1724157262,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2782394,
-      "num": 1960583,
-      "word": "陈妍希 陈晓",
-      "onboard_time": 1724158882,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 2627951,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1196017,
+      "num": 1196017,
+      "word": "全红婵对王俊凯说你小汁有点帅",
+      "onboard_time": 1724162424,
+      "rank": 13,
+      "category": "电影,体育"
+    },
+    {
       "raw_hot": 1189353,
       "num": 1189353,
       "word": "女子迪士尼上厕所超时崩溃大哭",
@@ -425,6 +433,14 @@
       "onboard_time": 1724127802,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 863570,
+      "num": 863570,
+      "word": "张淼怡发文回应",
+      "onboard_time": 1724163924,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 820229,
@@ -593,14 +609,6 @@
       "onboard_time": 1724136320,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 617979,
-      "num": 617979,
-      "word": "全红婵对王俊凯说你小汁有点帅",
-      "onboard_time": 1724162424,
-      "rank": 13,
-      "category": "电影,体育"
     },
     {
       "raw_hot": 616788,
@@ -875,6 +883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 444222,
+      "num": 817267,
+      "word": "和纸片人付费恋爱的年轻女孩们",
+      "onboard_time": 1724160624,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 441022,
       "num": 441022,
       "word": "成都市民拍到7个太阳同框",
@@ -929,6 +945,14 @@
       "onboard_time": 1724159424,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 418493,
+      "num": 418493,
+      "word": "美国男子手术半拉脑壳被医院弄丢",
+      "onboard_time": 1724162663,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 416854,
@@ -1091,20 +1115,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 357163,
+      "num": 357163,
+      "word": "黑神话悟空中很多翻译直接用了拼音",
+      "onboard_time": 1724160323,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 352112,
       "num": 973995,
       "word": "老人泡澡猝死儿子质疑与吸氢有关",
       "onboard_time": 1724144422,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 351266,
-      "num": 351266,
-      "word": "黑神话悟空中很多翻译直接用了拼音",
-      "onboard_time": 1724160323,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 350797,
@@ -1153,6 +1177,14 @@
       "onboard_time": 1724125702,
       "rank": 22,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 337911,
+      "num": 337911,
+      "word": "李雯雯被夸女霸王",
+      "onboard_time": 1724164102,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 336485,
@@ -1299,6 +1331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 304938,
+      "num": 388323,
+      "word": "葛优成功追星全红婵",
+      "onboard_time": 1724163263,
+      "rank": 48,
+      "category": "电影,体育"
+    },
+    {
       "raw_hot": 303237,
       "num": 392805,
       "word": "王俊凯全红婵自拍花絮",
@@ -1313,6 +1353,14 @@
       "onboard_time": 1724063900,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297661,
+      "num": 297661,
+      "word": "郑钦文女王气质",
+      "onboard_time": 1724161224,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 297035,
@@ -1339,6 +1387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 292129,
+      "num": 386625,
+      "word": "脱口秀回来了",
+      "onboard_time": 1724156123,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 291982,
       "num": 291982,
       "word": "谁懂魏哲鸣跑过去的这一瞬间",
@@ -1363,12 +1419,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 286991,
-      "num": 817267,
-      "word": "和纸片人付费恋爱的年轻女孩们",
-      "onboard_time": 1724160624,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 289565,
+      "num": 289565,
+      "word": "孙颖莎上新闻联播",
+      "onboard_time": 1724159902,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 286008,
@@ -1385,14 +1441,6 @@
       "onboard_time": 1724083338,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 283959,
-      "num": 283959,
-      "word": "孙颖莎上新闻联播",
-      "onboard_time": 1724159902,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 282638,
@@ -1467,12 +1515,12 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 276069,
-      "num": 325176,
-      "word": "脱口秀回来了",
-      "onboard_time": 1724156123,
-      "rank": 47,
-      "category": "综艺"
+      "raw_hot": 275208,
+      "num": 275208,
+      "word": "国产游戏黑神话悟空霸榜全球第一",
+      "onboard_time": 1724163983,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 274601,
@@ -1496,14 +1544,6 @@
       "word": "为什么朋友过得好我会不开心",
       "onboard_time": 1724143041,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 271533,
-      "num": 271533,
-      "word": "美国男子手术半拉脑壳被医院弄丢",
-      "onboard_time": 1724162663,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -1536,14 +1576,6 @@
       "word": "孙颖莎邱贻可总结大会合照",
       "onboard_time": 1724157982,
       "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 265602,
-      "num": 265602,
-      "word": "郑钦文女王气质",
-      "onboard_time": 1724161224,
-      "rank": 42,
       "category": "体育"
     },
     {
@@ -1593,6 +1625,14 @@
       "onboard_time": 1724115860,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 251080,
+      "num": 251080,
+      "word": "腾势Z9GT预售发布会",
+      "onboard_time": 1724164283,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 250582,
@@ -1681,14 +1721,6 @@
       "onboard_time": 1724122280,
       "rank": 10,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 240804,
-      "num": 240804,
-      "word": "葛优成功追星全红婵",
-      "onboard_time": 1724163263,
-      "rank": 48,
-      "category": "电影,体育"
     },
     {
       "raw_hot": 239925,
@@ -2867,6 +2899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 91951,
+      "num": 2086210,
+      "word": "直击地球裂缝上的花江峡谷大桥",
+      "onboard_time": 1724162003,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90858,
       "num": 90858,
       "word": "古巨基晒儿子为其庆生视频",
@@ -2891,6 +2931,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 86696,
+      "num": 444625,
+      "word": "张雨霏郑钦文合照",
+      "onboard_time": 1724164102,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84953,
       "num": 626233,
       "word": "日媒播音员称钓鱼岛是中国领土被解聘",
@@ -2907,11 +2955,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 79822,
-      "num": 2086210,
-      "word": "直击地球裂缝上的花江峡谷大桥",
-      "onboard_time": 1724162003,
-      "rank": 2,
+      "raw_hot": 77685,
+      "num": 900634,
+      "word": "村民讲述建昌暴雨致村庄被淹",
+      "onboard_time": 1724162424,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -3028,7 +3076,7 @@
     },
     {
       "raw_hot": 56288,
-      "num": 282138,
+      "num": 380082,
       "word": "比亚迪全新黑科技赋能腾势",
       "onboard_time": 1724163206,
       "rank": 37,
@@ -3116,10 +3164,18 @@
     },
     {
       "raw_hot": 47830,
-      "num": 414628,
+      "num": 419528,
       "word": "腾势Z9GT打破世界纪录",
       "onboard_time": 1724162122,
       "rank": 23,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 47779,
+      "num": 381818,
+      "word": "王传福说开中国豪华车有面子",
+      "onboard_time": 1724161224,
+      "rank": 30,
       "category": "汽车"
     },
     {
@@ -3171,14 +3227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 41901,
-      "num": 900634,
-      "word": "村民讲述建昌暴雨致村庄被淹",
-      "onboard_time": 1724162424,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 39698,
       "num": 39698,
       "word": "边水往事",
@@ -3193,14 +3241,6 @@
       "onboard_time": 1724122821,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38287,
-      "num": 377522,
-      "word": "王传福说开中国豪华车有面子",
-      "onboard_time": 1724161224,
-      "rank": 30,
-      "category": "汽车"
     },
     {
       "raw_hot": 35576,

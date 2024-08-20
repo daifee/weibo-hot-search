@@ -1,0 +1,410 @@
+{
+  "runTime": 1724164627281,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2059518,
+        "num": 2059518,
+        "word": "全红婵和王俊凯葛优合照",
+        "onboard_time": 1724155162,
+        "rank": 0,
+        "category": "电影,体育"
+      },
+      {
+        "raw_hot": 1970842,
+        "num": 1970842,
+        "word": "中国体育代表团总结大会现场图",
+        "onboard_time": 1724157262,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91951,
+        "num": 1705736,
+        "word": "直击地球裂缝上的花江峡谷大桥",
+        "onboard_time": 1724162003,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2923169,
+        "num": 1698909,
+        "word": "陈妍希 陈晓",
+        "onboard_time": 1724158882,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1686671,
+        "num": 1686671,
+        "word": "训练营性侵14岁少女犯罪嫌疑人被批捕",
+        "onboard_time": 1724159603,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1319865,
+        "num": 1319865,
+        "word": "吴艳妮晒合照",
+        "onboard_time": 1724158163,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1196017,
+        "num": 1196017,
+        "word": "全红婵对王俊凯说你小汁有点帅",
+        "onboard_time": 1724162424,
+        "rank": 6,
+        "category": "电影,体育"
+      },
+      {
+        "raw_hot": 1079089,
+        "num": 1079089,
+        "word": "马龙全红婵站一起",
+        "onboard_time": 1724155040,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 923571,
+        "num": 923571,
+        "word": "黑神话公司员工疯狂被挖",
+        "onboard_time": 1724150661,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 351076,
+        "num": 871339,
+        "word": "8月20日新闻联播",
+        "onboard_time": 1724153842,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 863570,
+        "num": 863570,
+        "word": "张淼怡发文回应",
+        "onboard_time": 1724163924,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 813733,
+        "num": 813733,
+        "word": "王楚钦成打卡景点了",
+        "onboard_time": 1724157982,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 656535,
+        "num": 656535,
+        "word": "陈妍希把婚戒摘了",
+        "onboard_time": 1724154862,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 630455,
+        "num": 630455,
+        "word": "被解雇中国籍播音员已在NHK工作22年",
+        "onboard_time": 1724152880,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619756,
+        "num": 619756,
+        "word": "阳光玫瑰为什么失宠了",
+        "onboard_time": 1724150002,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598629,
+        "num": 598629,
+        "word": "黑神话梗图",
+        "onboard_time": 1724147782,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 559926,
+        "num": 559926,
+        "word": "高亚麟回怼网友",
+        "onboard_time": 1724158523,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471806,
+        "num": 471806,
+        "word": "孙颖莎好像和衣服鞋子不太熟",
+        "onboard_time": 1724153781,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 445114,
+        "num": 445114,
+        "word": "陈梦表彰大会路透",
+        "onboard_time": 1724156242,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86696,
+        "num": 444625,
+        "word": "张雨霏郑钦文合照",
+        "onboard_time": 1724164102,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 444222,
+        "num": 444222,
+        "word": "和纸片人付费恋爱的年轻女孩们",
+        "onboard_time": 1724160624,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38924,
+        "num": 419528,
+        "word": "腾势Z9GT打破世界纪录",
+        "onboard_time": 1724162122,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 418493,
+        "num": 418493,
+        "word": "美国男子手术半拉脑壳被医院弄丢",
+        "onboard_time": 1724162663,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403306,
+        "num": 403306,
+        "word": "真的很讨厌办公室的奶茶文化",
+        "onboard_time": 1724146581,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 398187,
+        "num": 398187,
+        "word": "张颖颖连发三条微博回应张兰",
+        "onboard_time": 1724147602,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392277,
+        "num": 392277,
+        "word": "黑神话悟空全平台销量超450万份",
+        "onboard_time": 1724159424,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 334728,
+        "num": 390029,
+        "word": "张绍刚cue种地吧",
+        "onboard_time": 1724155100,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304938,
+        "num": 388323,
+        "word": "葛优成功追星全红婵",
+        "onboard_time": 1724163263,
+        "rank": 27,
+        "category": "电影,体育"
+      },
+      {
+        "raw_hot": 292129,
+        "num": 386625,
+        "word": "脱口秀回来了",
+        "onboard_time": 1724156123,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279947,
+        "num": 384197,
+        "word": "张淼怡的评论区",
+        "onboard_time": 1724152220,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 47779,
+        "num": 381818,
+        "word": "王传福说开中国豪华车有面子",
+        "onboard_time": 1724161224,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 49630,
+        "num": 380082,
+        "word": "比亚迪全新黑科技赋能腾势",
+        "onboard_time": 1724163206,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 378230,
+        "num": 378230,
+        "word": "乐乐女王",
+        "onboard_time": 1724157742,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 357163,
+        "num": 357163,
+        "word": "黑神话悟空中很多翻译直接用了拼音",
+        "onboard_time": 1724160323,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 337911,
+        "num": 337911,
+        "word": "李雯雯被夸女霸王",
+        "onboard_time": 1724164102,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 326697,
+        "num": 326697,
+        "word": "王楚钦穿正装太帅了",
+        "onboard_time": 1724152280,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 325894,
+        "num": 325894,
+        "word": "孙佳俊 真的俊",
+        "onboard_time": 1724155404,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 297661,
+        "num": 297661,
+        "word": "郑钦文女王气质",
+        "onboard_time": 1724161224,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289565,
+        "num": 289565,
+        "word": "孙颖莎上新闻联播",
+        "onboard_time": 1724159902,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275208,
+        "num": 275208,
+        "word": "国产游戏黑神话悟空霸榜全球第一",
+        "onboard_time": 1724163983,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 262858,
+        "num": 262858,
+        "word": "女儿沉迷抽小马宝莉妈妈扔卡扔到崩溃",
+        "onboard_time": 1724155822,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257104,
+        "num": 257104,
+        "word": "CCTV4报道黑神话",
+        "onboard_time": 1724162003,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 251080,
+        "num": 251080,
+        "word": "腾势Z9GT预售发布会",
+        "onboard_time": 1724164283,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 246408,
+        "num": 246408,
+        "word": "谁家男演员直播腿上盖毯子",
+        "onboard_time": 1724162304,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245895,
+        "num": 245895,
+        "word": "手机太贵不敢偷结果偷了块28万的表",
+        "onboard_time": 1724145681,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245818,
+        "num": 245818,
+        "word": "樊振东贾一凡合影",
+        "onboard_time": 1724157441,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244798,
+        "num": 244798,
+        "word": "汪顺 巴黎奥运会end",
+        "onboard_time": 1724157504,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244119,
+        "num": 244119,
+        "word": "黑神话悟空",
+        "onboard_time": 1724108835,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 77685,
+        "num": 243180,
+        "word": "村民讲述建昌暴雨致村庄被淹",
+        "onboard_time": 1724162424,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243124,
+        "num": 243124,
+        "word": "IVE内地应援大屏被举报",
+        "onboard_time": 1724159785,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平接见第33届奥运会中国体育代表团#"
+    }
+  }
+}
