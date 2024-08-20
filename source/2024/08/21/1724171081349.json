@@ -1,0 +1,410 @@
+{
+  "runTime": 1724171081349,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1886523,
+        "num": 1886523,
+        "word": "全红婵 他比黄子韬帅一点",
+        "onboard_time": 1724167282,
+        "rank": 0,
+        "category": "电影,体育"
+      },
+      {
+        "raw_hot": 1012128,
+        "num": 1012128,
+        "word": "游客呼吁山西一定要接住泼天的富贵",
+        "onboard_time": 1724165903,
+        "rank": 1,
+        "category": "旅游,游戏"
+      },
+      {
+        "raw_hot": 60678,
+        "num": 989608,
+        "word": "直击地球裂缝上的花江峡谷大桥",
+        "onboard_time": 1724162003,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 986798,
+        "num": 986798,
+        "word": "张淼怡发文回应",
+        "onboard_time": 1724163924,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 718008,
+        "num": 718008,
+        "word": "中国体育代表团总结大会现场图",
+        "onboard_time": 1724157262,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 664715,
+        "num": 664715,
+        "word": "黑神话公司员工疯狂被挖",
+        "onboard_time": 1724150661,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 984865,
+        "num": 663564,
+        "word": "陈妍希 陈晓",
+        "onboard_time": 1724158882,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 842448,
+        "num": 632557,
+        "word": "王俊凯点赞评论全红婵微博",
+        "onboard_time": 1724165662,
+        "rank": 7,
+        "category": "电影,体育"
+      },
+      {
+        "raw_hot": 474983,
+        "num": 621911,
+        "word": "阳光玫瑰为什么失宠了",
+        "onboard_time": 1724150002,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93619,
+        "num": 607824,
+        "word": "山西在等猴急游客",
+        "onboard_time": 1724166023,
+        "rank": 9,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 596942,
+        "num": 596942,
+        "word": "印度男子性侵2名学前班4岁女童",
+        "onboard_time": 1724165604,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563781,
+        "num": 563781,
+        "word": "冰箱误断电女子半年后回家臭吐了",
+        "onboard_time": 1724168183,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615314,
+        "num": 527549,
+        "word": "全红婵和王俊凯葛优合照",
+        "onboard_time": 1724155162,
+        "rank": 12,
+        "category": "电影,体育"
+      },
+      {
+        "raw_hot": 485085,
+        "num": 485085,
+        "word": "苍兰诀未公开合照",
+        "onboard_time": 1724165005,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 458374,
+        "num": 458374,
+        "word": "黑神话悟空中很多翻译直接用了拼音",
+        "onboard_time": 1724160323,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 446272,
+        "num": 446272,
+        "word": "美国男子手术半拉脑壳被医院弄丢",
+        "onboard_time": 1724162663,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444127,
+        "num": 444127,
+        "word": "马龙全红婵站一起",
+        "onboard_time": 1724155040,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 380512,
+        "num": 380512,
+        "word": "吴艳妮晒合照",
+        "onboard_time": 1724158163,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 364943,
+        "num": 364943,
+        "word": "黑神话梗图",
+        "onboard_time": 1724147782,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 342204,
+        "num": 342204,
+        "word": "和纸片人付费恋爱的年轻女孩们",
+        "onboard_time": 1724160624,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387844,
+        "num": 336462,
+        "word": "训练营性侵14岁少女犯罪嫌疑人被批捕",
+        "onboard_time": 1724159603,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377666,
+        "num": 335162,
+        "word": "真的很讨厌办公室的奶茶文化",
+        "onboard_time": 1724146581,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 329022,
+        "num": 329022,
+        "word": "国产游戏黑神话悟空霸榜全球第一",
+        "onboard_time": 1724163983,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 298671,
+        "num": 298671,
+        "word": "王楚钦成打卡景点了",
+        "onboard_time": 1724157982,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280592,
+        "num": 280592,
+        "word": "孙颖莎好像和衣服鞋子不太熟",
+        "onboard_time": 1724153781,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251836,
+        "num": 251836,
+        "word": "武汉一幼儿园收取百万学费后深夜搬离",
+        "onboard_time": 1724164823,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248476,
+        "num": 248476,
+        "word": "张雨霏郑钦文合照",
+        "onboard_time": 1724164102,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235122,
+        "num": 235122,
+        "word": "樊振东王楚钦好板正",
+        "onboard_time": 1724166804,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235050,
+        "num": 235050,
+        "word": "潘展乐称一切从零开始",
+        "onboard_time": 1724167581,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183664,
+        "num": 233577,
+        "word": "张绍刚cue种地吧",
+        "onboard_time": 1724155100,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233246,
+        "num": 233246,
+        "word": "被解雇中国籍播音员已在NHK工作22年",
+        "onboard_time": 1724152880,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223723,
+        "num": 223723,
+        "word": "张颖颖连发三条微博回应张兰",
+        "onboard_time": 1724147602,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216657,
+        "num": 216657,
+        "word": "8月20日新闻联播",
+        "onboard_time": 1724153842,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215579,
+        "num": 215579,
+        "word": "终于看到张博恒正脸了",
+        "onboard_time": 1724169261,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203674,
+        "num": 203674,
+        "word": "李雯雯被夸女霸王",
+        "onboard_time": 1724164102,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189533,
+        "num": 189533,
+        "word": "普洱地震",
+        "onboard_time": 1724166983,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188363,
+        "num": 188363,
+        "word": "穿正装的吴艳妮好美",
+        "onboard_time": 1724169141,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186421,
+        "num": 186421,
+        "word": "高亚麟回怼网友",
+        "onboard_time": 1724158523,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169497,
+        "num": 169497,
+        "word": "黄雨婷发博告别巴黎奥运会",
+        "onboard_time": 1724165423,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167535,
+        "num": 167535,
+        "word": "陈梦表彰大会路透",
+        "onboard_time": 1724156242,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166372,
+        "num": 166372,
+        "word": "孙颖莎上新闻联播",
+        "onboard_time": 1724159902,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162578,
+        "num": 162578,
+        "word": "女儿沉迷抽小马宝莉妈妈扔卡扔到崩溃",
+        "onboard_time": 1724155822,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154039,
+        "num": 154039,
+        "word": "黑神话悟空销售额超15亿元",
+        "onboard_time": 1724167342,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151051,
+        "num": 151051,
+        "word": "黑神话悟空",
+        "onboard_time": 1724108835,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147223,
+        "num": 147223,
+        "word": "脱口秀 我的电子榨菜",
+        "onboard_time": 1724168123,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142678,
+        "num": 142678,
+        "word": "国乒排排坐一个比一个乖",
+        "onboard_time": 1724168541,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135236,
+        "num": 135236,
+        "word": "郑钦文女王气质",
+        "onboard_time": 1724161224,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132815,
+        "num": 132815,
+        "word": "全红婵对王俊凯说你小汁有点帅",
+        "onboard_time": 1724162424,
+        "rank": 47,
+        "category": "电影,体育"
+      },
+      {
+        "raw_hot": 130121,
+        "num": 130121,
+        "word": "黑神话悟空全平台销量超450万份",
+        "onboard_time": 1724159424,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102998,
+        "num": 129556,
+        "word": "葛优成功追星全红婵",
+        "onboard_time": 1724163263,
+        "rank": 49,
+        "category": "电影,体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平接见第33届奥运会中国体育代表团#"
+    }
+  }
+}
