@@ -1,0 +1,410 @@
+{
+  "runTime": 1724132211579,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3525287,
+        "num": 3525287,
+        "word": "黑神话悟空",
+        "onboard_time": 1724108835,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2161251,
+        "num": 2161251,
+        "word": "二郎神 张翰",
+        "onboard_time": 1724123840,
+        "rank": 1,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 47302,
+        "num": 2138992,
+        "word": "2024中国丰收图景",
+        "onboard_time": 1724124202,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2131895,
+        "num": 2131895,
+        "word": "以色列暴发疫情",
+        "onboard_time": 1724128583,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1277653,
+        "num": 1277653,
+        "word": "网友向雷军举报王腾上班摸鱼",
+        "onboard_time": 1724125523,
+        "rank": 4,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 867957,
+        "num": 867957,
+        "word": "韩国博主点评黑神话悟空",
+        "onboard_time": 1724127802,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 856773,
+        "num": 856773,
+        "word": "陆虎婚纱照",
+        "onboard_time": 1724122400,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 630618,
+        "num": 779484,
+        "word": "泰剧已经把女主进化成这样了么",
+        "onboard_time": 1724120000,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 761365,
+        "num": 761365,
+        "word": "女流直播间被封",
+        "onboard_time": 1724128043,
+        "rank": 8,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 491370,
+        "num": 685233,
+        "word": "相识一月结婚一周就闹离婚",
+        "onboard_time": 1724123540,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 680516,
+        "num": 680516,
+        "word": "中秋节好像没放假又好像放了",
+        "onboard_time": 1724119521,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 611994,
+        "num": 611994,
+        "word": "完全没有表演痕迹才是最可怕的",
+        "onboard_time": 1724126784,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 516187,
+        "num": 516187,
+        "word": "金莎 睡九个小时我就满足",
+        "onboard_time": 1724128282,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99797,
+        "num": 457446,
+        "word": "黑神话 Steam特别好评",
+        "onboard_time": 1724131282,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 448788,
+        "num": 448788,
+        "word": "王楚钦孙颖莎双双保持世界第一",
+        "onboard_time": 1724129480,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 395708,
+        "num": 436875,
+        "word": "孙杨复出首站确定在合肥",
+        "onboard_time": 1724125282,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 354056,
+        "num": 429609,
+        "word": "杨紫费加罗封面",
+        "onboard_time": 1724125461,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 349808,
+        "num": 428155,
+        "word": "冯禧去拍戏了",
+        "onboard_time": 1724117238,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 427581,
+        "num": 427581,
+        "word": "黑神话悟空卡在广智了",
+        "onboard_time": 1724125702,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111356,
+        "num": 382082,
+        "word": "朱桢薛之谦合照",
+        "onboard_time": 1724131339,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 347888,
+        "num": 347888,
+        "word": "疑似张昊唯曝金晨男友",
+        "onboard_time": 1724130621,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327712,
+        "num": 327712,
+        "word": "黑神话悟空主角天命人商标被抢注",
+        "onboard_time": 1724126121,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 300039,
+        "num": 300039,
+        "word": "小海绵用Angelababy账号刷直播",
+        "onboard_time": 1724109616,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287252,
+        "num": 287252,
+        "word": "46岁李维嘉洁癖严重",
+        "onboard_time": 1724110697,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278485,
+        "num": 278485,
+        "word": "BLACKPINK或将与霉霉合作",
+        "onboard_time": 1724131761,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 325831,
+        "num": 278392,
+        "word": "金晨方声明",
+        "onboard_time": 1724132002,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274601,
+        "num": 274601,
+        "word": "张昊唯南京工作室多年0人参保",
+        "onboard_time": 1724122519,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188881,
+        "num": 274269,
+        "word": "孙颖莎9000分世排第一",
+        "onboard_time": 1724121561,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171635,
+        "num": 274263,
+        "word": "多地农村地区离婚率上升",
+        "onboard_time": 1724122341,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102745,
+        "num": 274262,
+        "word": "为什么外卖小哥和保安大哥老不对付",
+        "onboard_time": 1724130081,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274261,
+        "num": 274261,
+        "word": "戴了一个月的金项链变色了",
+        "onboard_time": 1724126603,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 270203,
+        "num": 270203,
+        "word": "专家称黑神话悟空将撼动中国游戏版图",
+        "onboard_time": 1724127204,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 262654,
+        "num": 262654,
+        "word": "张昊唯资源",
+        "onboard_time": 1724129961,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256440,
+        "num": 256440,
+        "word": "为什么只穿袜子比全裸更有羞耻感",
+        "onboard_time": 1724125702,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 226037,
+        "num": 226037,
+        "word": "中式英语成海外爆梗",
+        "onboard_time": 1724130201,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220672,
+        "num": 220672,
+        "word": "王昶梁伟铿将录制你好星期六",
+        "onboard_time": 1724131040,
+        "rank": 35,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 217992,
+        "num": 217992,
+        "word": "男朋友为了追我帮我遛狗",
+        "onboard_time": 1724127922,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213692,
+        "num": 213692,
+        "word": "上海大楼被回春丹整栋出租",
+        "onboard_time": 1724129241,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209706,
+        "num": 209706,
+        "word": "八十一难第一难是解压",
+        "onboard_time": 1724121440,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200837,
+        "num": 200837,
+        "word": "黄宗泽回应吴卓羲菊梓乔分手传闻",
+        "onboard_time": 1724127383,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176835,
+        "num": 176835,
+        "word": "易烊千玺复古皮衣工装裤",
+        "onboard_time": 1724131282,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176574,
+        "num": 176574,
+        "word": "人生观这东西越简单越好",
+        "onboard_time": 1724132121,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175109,
+        "num": 175109,
+        "word": "合租室友偷偷带男朋友回家",
+        "onboard_time": 1724131881,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164675,
+        "num": 164675,
+        "word": "四六级什么时候出成绩",
+        "onboard_time": 1724128883,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 162383,
+        "num": 162383,
+        "word": "黑神话 电脑带不动",
+        "onboard_time": 1724127502,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 51443,
+        "num": 162169,
+        "word": "华为阿维塔合资",
+        "onboard_time": 1724132060,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162119,
+        "num": 162119,
+        "word": "成毅飞习惯不会走路了",
+        "onboard_time": 1724120781,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162034,
+        "num": 162034,
+        "word": "私藏浪漫",
+        "onboard_time": 1724130802,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142104,
+        "num": 161679,
+        "word": "徐嘉余 活下来我就是神",
+        "onboard_time": 1724131402,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161463,
+        "num": 161463,
+        "word": "陈鑫海张淼怡兄友妹恭开机",
+        "onboard_time": 1724127922,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#如何推动中越命运共同体建设走深走实#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724131158521,
+  "endTime": 1724132211579,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -201,6 +201,14 @@
       "onboard_time": 1724037019,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2131895,
+      "num": 2131895,
+      "word": "以色列暴发疫情",
+      "onboard_time": 1724128583,
+      "rank": 28,
+      "category": "国外时政"
     },
     {
       "raw_hot": 2113689,
@@ -667,14 +675,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1068650,
-      "num": 1068650,
-      "word": "以色列暴发疫情",
-      "onboard_time": 1724128583,
-      "rank": 28,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 1057528,
       "num": 496920,
       "word": "李佩霞被批五毒俱全",
@@ -963,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 867957,
+      "num": 867957,
+      "word": "韩国博主点评黑神话悟空",
+      "onboard_time": 1724127802,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 866076,
       "num": 866076,
       "word": "本周桃花运最旺的星座",
@@ -1001,14 +1009,6 @@
       "onboard_time": 1723959199,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 833989,
-      "num": 833989,
-      "word": "韩国博主点评黑神话悟空",
-      "onboard_time": 1724127802,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 828112,
@@ -1097,6 +1097,14 @@
       "onboard_time": 1723975219,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 761365,
+      "num": 761365,
+      "word": "女流直播间被封",
+      "onboard_time": 1724128043,
+      "rank": 26,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 754987,
@@ -1435,6 +1443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 611994,
+      "num": 611994,
+      "word": "完全没有表演痕迹才是最可怕的",
+      "onboard_time": 1724126784,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 609985,
       "num": 563547,
       "word": "张昊唯 戴向宇",
@@ -1491,28 +1507,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 586228,
-      "num": 586228,
-      "word": "完全没有表演痕迹才是最可怕的",
-      "onboard_time": 1724126784,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 584979,
       "num": 610371,
       "word": "连线张大大女生向范丞丞和粉丝道歉",
       "onboard_time": 1723948577,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 578496,
-      "num": 578496,
-      "word": "女流直播间被封",
-      "onboard_time": 1724128043,
-      "rank": 26,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 575194,
@@ -1955,6 +1955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 448788,
+      "num": 448788,
+      "word": "王楚钦孙颖莎双双保持世界第一",
+      "onboard_time": 1724129480,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 444559,
       "num": 920188,
       "word": "黑神话悟空预售超4亿",
@@ -2027,6 +2035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 427581,
+      "num": 427581,
+      "word": "黑神话悟空卡在广智了",
+      "onboard_time": 1724125702,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 427557,
       "num": 427557,
       "word": "LNG对战TES",
@@ -2065,14 +2081,6 @@
       "onboard_time": 1723978040,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 414689,
-      "num": 414689,
-      "word": "王楚钦孙颖莎双双保持世界第一",
-      "onboard_time": 1724129480,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 414471,
@@ -2225,14 +2233,6 @@
       "onboard_time": 1724121200,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 382909,
-      "num": 382909,
-      "word": "黑神话悟空卡在广智了",
-      "onboard_time": 1724125702,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 380108,
@@ -2601,6 +2601,14 @@
       "onboard_time": 1723973840,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325831,
+      "num": 278392,
+      "word": "金晨方声明",
+      "onboard_time": 1724132002,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 325314,
@@ -3035,6 +3043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278485,
+      "num": 278485,
+      "word": "BLACKPINK或将与霉霉合作",
+      "onboard_time": 1724131761,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 277732,
       "num": 277732,
       "word": "原来醋和味精不能一起放",
@@ -3051,12 +3067,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 274601,
+      "num": 274601,
+      "word": "张昊唯南京工作室多年0人参保",
+      "onboard_time": 1724122519,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 274557,
       "num": 274557,
       "word": "瑞幸回应黑神话悟空券核销不了",
       "onboard_time": 1724038520,
       "rank": 44,
       "category": "游戏,美食"
+    },
+    {
+      "raw_hot": 274261,
+      "num": 274261,
+      "word": "戴了一个月的金项链变色了",
+      "onboard_time": 1724126603,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 274197,
@@ -3081,6 +3113,14 @@
       "onboard_time": 1724051840,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270203,
+      "num": 270203,
+      "word": "专家称黑神话悟空将撼动中国游戏版图",
+      "onboard_time": 1724127204,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 267951,
@@ -3233,14 +3273,6 @@
       "onboard_time": 1723989200,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 254988,
-      "num": 254988,
-      "word": "戴了一个月的金项链变色了",
-      "onboard_time": 1724126603,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 254886,
@@ -3579,6 +3611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226037,
+      "num": 226037,
+      "word": "中式英语成海外爆梗",
+      "onboard_time": 1724130201,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 225927,
       "num": 444643,
       "word": "刘光耀发长文对前妻提出九大质疑",
@@ -3611,14 +3651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 224625,
-      "num": 224625,
-      "word": "专家称黑神话悟空将撼动中国游戏版图",
-      "onboard_time": 1724127204,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 224256,
       "num": 252490,
       "word": "医生的第六感准得阎王都服气",
@@ -3649,6 +3681,14 @@
       "onboard_time": 1724058561,
       "rank": 31,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 220672,
+      "num": 220672,
+      "word": "王昶梁伟铿将录制你好星期六",
+      "onboard_time": 1724131040,
+      "rank": 49,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 219704,
@@ -4379,14 +4419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190941,
-      "num": 190941,
-      "word": "中式英语成海外爆梗",
-      "onboard_time": 1724130201,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 190438,
       "num": 190438,
       "word": "王一博新歌满满运动的快乐",
@@ -4699,6 +4731,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176835,
+      "num": 176835,
+      "word": "易烊千玺复古皮衣工装裤",
+      "onboard_time": 1724131282,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 176574,
+      "num": 176574,
+      "word": "人生观这东西越简单越好",
+      "onboard_time": 1724132121,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 176063,
       "num": 176063,
       "word": "咒术回战还剩5话完结",
@@ -4713,6 +4761,14 @@
       "onboard_time": 1724109196,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 175109,
+      "num": 175109,
+      "word": "合租室友偷偷带男朋友回家",
+      "onboard_time": 1724131881,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 174410,
@@ -4897,14 +4953,6 @@
       "onboard_time": 1723965019,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 168455,
-      "num": 168455,
-      "word": "王昶梁伟铿将录制你好星期六",
-      "onboard_time": 1724131040,
-      "rank": 49,
-      "category": "综艺,体育"
     },
     {
       "raw_hot": 168387,
@@ -5627,6 +5675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 142104,
+      "num": 161679,
+      "word": "徐嘉余 活下来我就是神",
+      "onboard_time": 1724131402,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141990,
       "num": 141990,
       "word": "瑞幸今年已联名18次",
@@ -6083,6 +6139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 111356,
+      "num": 382082,
+      "word": "朱桢薛之谦合照",
+      "onboard_time": 1724131339,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 111103,
       "num": 111103,
       "word": "看姥孙才知道自己是泪失禁体质",
@@ -6179,6 +6243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 102745,
+      "num": 606421,
+      "word": "为什么外卖小哥和保安大哥老不对付",
+      "onboard_time": 1724130081,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101739,
       "num": 101739,
       "word": "走钢丝坠落演员仍在救治中",
@@ -6201,6 +6273,14 @@
       "onboard_time": 1724022435,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 99797,
+      "num": 457446,
+      "word": "黑神话 Steam特别好评",
+      "onboard_time": 1724131282,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 99424,
@@ -6516,7 +6596,7 @@
     },
     {
       "raw_hot": 62499,
-      "num": 2023331,
+      "num": 2138992,
       "word": "2024中国丰收图景",
       "onboard_time": 1724124202,
       "rank": 2,
@@ -6683,12 +6763,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 51130,
-      "num": 606421,
-      "word": "为什么外卖小哥和保安大哥老不对付",
-      "onboard_time": 1724130081,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 51443,
+      "num": 162169,
+      "word": "华为阿维塔合资",
+      "onboard_time": 1724132060,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 50720,
