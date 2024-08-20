@@ -1,6 +1,6 @@
 {
   "startTime": 1724171081349,
-  "endTime": 1724196115852,
+  "endTime": 1724196892122,
   "band_list": [
     {
       "raw_hot": 1886523,
@@ -11,16 +11,16 @@
       "category": "电影,体育"
     },
     {
-      "raw_hot": 1113866,
-      "num": 1113866,
+      "raw_hot": 1267186,
+      "num": 1267186,
       "word": "黑神话悟空结局",
       "onboard_time": 1724173216,
       "rank": 16,
       "category": "游戏"
     },
     {
-      "raw_hot": 1012128,
-      "num": 1012128,
+      "raw_hot": 1157502,
+      "num": 1157502,
       "word": "游客呼吁山西一定要接住泼天的富贵",
       "onboard_time": 1724165903,
       "rank": 1,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 501998,
+      "num": 248657,
+      "word": "要陌生女童做亲子鉴定当事人道歉",
+      "onboard_time": 1724191572,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 485085,
       "num": 485085,
       "word": "苍兰诀未公开合照",
@@ -115,6 +123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 450666,
+      "num": 450666,
+      "word": "被解雇中国籍播音员已在NHK工作22年",
+      "onboard_time": 1724152880,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 446272,
       "num": 446272,
       "word": "美国男子手术半拉脑壳被医院弄丢",
@@ -131,19 +147,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 418236,
-      "num": 248657,
-      "word": "要陌生女童做亲子鉴定当事人道歉",
-      "onboard_time": 1724191572,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 410919,
-      "num": 410919,
-      "word": "被解雇中国籍播音员已在NHK工作22年",
-      "onboard_time": 1724152880,
-      "rank": 30,
+      "raw_hot": 411965,
+      "num": 411965,
+      "word": "女儿沉迷抽小马宝莉妈妈扔卡扔到崩溃",
+      "onboard_time": 1724155822,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -171,14 +179,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 375645,
-      "num": 375645,
-      "word": "女儿沉迷抽小马宝莉妈妈扔卡扔到崩溃",
-      "onboard_time": 1724155822,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 364943,
       "num": 364943,
       "word": "黑神话梗图",
@@ -193,6 +193,14 @@
       "onboard_time": 1724160624,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334444,
+      "num": 334444,
+      "word": "入职2年高校教师吐槽评职称",
+      "onboard_time": 1724173157,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 329022,
@@ -217,14 +225,6 @@
       "onboard_time": 1724153781,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 278412,
-      "num": 278412,
-      "word": "入职2年高校教师吐槽评职称",
-      "onboard_time": 1724173157,
-      "rank": 33,
-      "category": "教育"
     },
     {
       "raw_hot": 251836,
@@ -259,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225941,
+      "num": 225941,
+      "word": "日本男子搬家发现失踪10年母亲遗骸",
+      "onboard_time": 1724196376,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223723,
       "num": 223723,
       "word": "张颖颖连发三条微博回应张兰",
@@ -288,6 +296,14 @@
       "word": "李雯雯被夸女霸王",
       "onboard_time": 1724164102,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 196021,
+      "num": 196021,
+      "word": "李雯雯说退役后会考虑减肥",
+      "onboard_time": 1724172857,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -355,6 +371,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 159247,
+      "num": 159247,
+      "word": "不怪衣服不好看只怪自己不会搭",
+      "onboard_time": 1724178252,
+      "rank": 49,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 154039,
       "num": 154039,
       "word": "黑神话悟空销售额超15亿元",
@@ -379,12 +403,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146647,
-      "num": 146647,
-      "word": "李雯雯说退役后会考虑减肥",
-      "onboard_time": 1724172857,
-      "rank": 27,
-      "category": "体育"
+      "raw_hot": 147219,
+      "num": 147219,
+      "word": "突然发现电视买大了",
+      "onboard_time": 1724196678,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 145740,
+      "num": 145740,
+      "word": "脂肪肝最怕3种运动",
+      "onboard_time": 1724191271,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 142678,
@@ -427,6 +459,14 @@
       "category": "电影,体育"
     },
     {
+      "raw_hot": 132090,
+      "num": 248994,
+      "word": "香港男子侮辱国歌后以患自闭症求情",
+      "onboard_time": 1724196257,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130121,
       "num": 130121,
       "word": "黑神话悟空全平台销量超450万份",
@@ -435,24 +475,24 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 128104,
-      "num": 128104,
-      "word": "脂肪肝最怕3种运动",
-      "onboard_time": 1724191271,
-      "rank": 35,
-      "category": "健康医疗"
+      "raw_hot": 126892,
+      "num": 197102,
+      "word": "韩剧的偶像设定是34岁的未婚",
+      "onboard_time": 1724191812,
+      "rank": 47,
+      "category": "剧集"
     },
     {
-      "raw_hot": 126901,
-      "num": 126901,
-      "word": "不怪衣服不好看只怪自己不会搭",
-      "onboard_time": 1724178252,
-      "rank": 49,
-      "category": "时尚"
+      "raw_hot": 125676,
+      "num": 264310,
+      "word": "辽宁多个乡镇受灾网友在线求支援",
+      "onboard_time": 1724195656,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115023,
-      "num": 124665,
+      "num": 139218,
       "word": "韩庚晒女儿给自己拍的照片",
       "onboard_time": 1724192293,
       "rank": 49,
@@ -467,12 +507,20 @@
       "category": "电影,体育"
     },
     {
-      "raw_hot": 100648,
-      "num": 100648,
-      "word": "韩剧的偶像设定是34岁的未婚",
-      "onboard_time": 1724191812,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 100201,
+      "num": 100201,
+      "word": "表彰大会樊振东内场采访小视频",
+      "onboard_time": 1724196678,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 92148,
+      "num": 92148,
+      "word": "辛纳两次药检阳性",
+      "onboard_time": 1724196136,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 91219,
@@ -483,6 +531,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 89247,
+      "num": 89247,
+      "word": "给小猫嘴巴气成typec了",
+      "onboard_time": 1724196376,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 88248,
+      "num": 88248,
+      "word": "张颖颖让张兰放过去世的母亲",
+      "onboard_time": 1724184911,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 87768,
+      "num": 87768,
+      "word": "星穹铁道椒丘",
+      "onboard_time": 1724196136,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 87708,
       "num": 87708,
       "word": "领笑员",
@@ -491,12 +563,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 78431,
-      "num": 78431,
-      "word": "张颖颖让张兰放过去世的母亲",
-      "onboard_time": 1724184911,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 80634,
+      "num": 90365,
+      "word": "谁家男演员直播腿上盖毯子",
+      "onboard_time": 1724162304,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 76735,
@@ -507,16 +579,32 @@
       "category": "体育"
     },
     {
-      "raw_hot": 72153,
-      "num": 264310,
-      "word": "辽宁多个乡镇受灾网友在线求支援",
-      "onboard_time": 1724195656,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 75656,
+      "num": 75656,
+      "word": "外国网友开始打听一只中国猴子",
+      "onboard_time": 1724196798,
+      "rank": 44,
+      "category": "游戏"
     },
     {
-      "raw_hot": 65285,
-      "num": 65285,
+      "raw_hot": 73994,
+      "num": 73994,
+      "word": "2024科隆游戏展",
+      "onboard_time": 1724196136,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 70184,
+      "num": 70184,
+      "word": "梁伟铿说在刘雨辰婚礼合影",
+      "onboard_time": 1724196257,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 69362,
+      "num": 69362,
       "word": "双鱼座好运蓄势待发",
       "onboard_time": 1724175673,
       "rank": 32,
@@ -595,8 +683,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 33856,
-      "num": 588002,
+      "raw_hot": 37139,
+      "num": 660885,
       "word": "西汉黄金纪念币长啥样",
       "onboard_time": 1724161523,
       "rank": 2,

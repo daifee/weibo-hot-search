@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724196115852,
+  "endTime": 1724196892122,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -763,6 +763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1267186,
+      "num": 1267186,
+      "word": "黑神话悟空结局",
+      "onboard_time": 1724173216,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1266169,
       "num": 1266169,
       "word": "159个国家将采用金砖国家新支付系统",
@@ -859,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1157502,
+      "num": 1157502,
+      "word": "游客呼吁山西一定要接住泼天的富贵",
+      "onboard_time": 1724165903,
+      "rank": 33,
+      "category": "旅游,游戏"
+    },
+    {
       "raw_hot": 1144631,
       "num": 1144631,
       "word": "新版林黛玉",
@@ -905,14 +921,6 @@
       "onboard_time": 1724165662,
       "rank": 16,
       "category": "电影,体育"
-    },
-    {
-      "raw_hot": 1113866,
-      "num": 1113866,
-      "word": "黑神话悟空结局",
-      "onboard_time": 1724173216,
-      "rank": 16,
-      "category": "游戏"
     },
     {
       "raw_hot": 1110620,
@@ -1057,14 +1065,6 @@
       "onboard_time": 1724026219,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1012128,
-      "num": 1012128,
-      "word": "游客呼吁山西一定要接住泼天的富贵",
-      "onboard_time": 1724165903,
-      "rank": 33,
-      "category": "旅游,游戏"
     },
     {
       "raw_hot": 1010413,
@@ -2291,6 +2291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 501998,
+      "num": 248657,
+      "word": "要陌生女童做亲子鉴定当事人道歉",
+      "onboard_time": 1724191572,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 500437,
       "num": 500437,
       "word": "网易云音乐",
@@ -2675,14 +2683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 418236,
-      "num": 248657,
-      "word": "要陌生女童做亲子鉴定当事人道歉",
-      "onboard_time": 1724191572,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 416854,
       "num": 416854,
       "word": "邱贻可孙颖莎合照 卡点才拍上",
@@ -2705,6 +2705,14 @@
       "onboard_time": 1724009291,
       "rank": 49,
       "category": "社会正能量,艺人"
+    },
+    {
+      "raw_hot": 411965,
+      "num": 1224012,
+      "word": "女儿沉迷抽小马宝莉妈妈扔卡扔到崩溃",
+      "onboard_time": 1724155822,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 409748,
@@ -2873,14 +2881,6 @@
       "onboard_time": 1724144601,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 381162,
-      "num": 1224012,
-      "word": "女儿沉迷抽小马宝莉妈妈扔卡扔到崩溃",
-      "onboard_time": 1724155822,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 380108,
@@ -3289,6 +3289,14 @@
       "onboard_time": 1724074760,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334444,
+      "num": 334444,
+      "word": "入职2年高校教师吐槽评职称",
+      "onboard_time": 1724173157,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 333430,
@@ -3993,14 +4001,6 @@
       "onboard_time": 1724131761,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 278412,
-      "num": 278412,
-      "word": "入职2年高校教师吐槽评职称",
-      "onboard_time": 1724173157,
-      "rank": 33,
-      "category": "教育"
     },
     {
       "raw_hot": 277732,
@@ -4809,6 +4809,14 @@
       "onboard_time": 1724037800,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225941,
+      "num": 225941,
+      "word": "日本男子搬家发现失踪10年母亲遗骸",
+      "onboard_time": 1724196376,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225927,
@@ -5665,6 +5673,14 @@
       "onboard_time": 1724080460,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196021,
+      "num": 196021,
+      "word": "李雯雯说退役后会考虑减肥",
+      "onboard_time": 1724172857,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 195994,
@@ -6803,6 +6819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159247,
+      "num": 159247,
+      "word": "不怪衣服不好看只怪自己不会搭",
+      "onboard_time": 1724178252,
+      "rank": 49,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 159235,
       "num": 159235,
       "word": "买黄金前一定要懂的信息差",
@@ -7155,12 +7179,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 146647,
-      "num": 146647,
-      "word": "李雯雯说退役后会考虑减肥",
-      "onboard_time": 1724172857,
-      "rank": 27,
-      "category": "体育"
+      "raw_hot": 147219,
+      "num": 147219,
+      "word": "突然发现电视买大了",
+      "onboard_time": 1724196678,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 146622,
@@ -7193,6 +7217,14 @@
       "onboard_time": 1724062581,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145740,
+      "num": 145740,
+      "word": "脂肪肝最怕3种运动",
+      "onboard_time": 1724191271,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 145727,
@@ -7539,6 +7571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132090,
+      "num": 248994,
+      "word": "香港男子侮辱国歌后以患自闭症求情",
+      "onboard_time": 1724196257,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130908,
       "num": 130908,
       "word": "檀健次演唱会审美",
@@ -7579,14 +7619,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 128104,
-      "num": 128104,
-      "word": "脂肪肝最怕3种运动",
-      "onboard_time": 1724191271,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 128022,
       "num": 128022,
       "word": "花傲天自动回复",
@@ -7603,12 +7635,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 126901,
-      "num": 126901,
-      "word": "不怪衣服不好看只怪自己不会搭",
-      "onboard_time": 1724178252,
-      "rank": 49,
-      "category": "时尚"
+      "raw_hot": 126892,
+      "num": 197102,
+      "word": "韩剧的偶像设定是34岁的未婚",
+      "onboard_time": 1724191812,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 126757,
@@ -7649,6 +7681,14 @@
       "onboard_time": 1723985420,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 125676,
+      "num": 264310,
+      "word": "辽宁多个乡镇受灾网友在线求支援",
+      "onboard_time": 1724195656,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124394,
@@ -7788,7 +7828,7 @@
     },
     {
       "raw_hot": 115023,
-      "num": 124665,
+      "num": 139218,
       "word": "韩庚晒女儿给自己拍的照片",
       "onboard_time": 1724192293,
       "rank": 49,
@@ -7955,20 +7995,20 @@
       "category": "自然"
     },
     {
-      "raw_hot": 100648,
-      "num": 100648,
-      "word": "韩剧的偶像设定是34岁的未婚",
-      "onboard_time": 1724191812,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 100567,
       "num": 100567,
       "word": "小狗真的筋疲力尽了",
       "onboard_time": 1724022435,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 100201,
+      "num": 100201,
+      "word": "表彰大会樊振东内场采访小视频",
+      "onboard_time": 1724196678,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 99797,
@@ -8019,6 +8059,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 92148,
+      "num": 92148,
+      "word": "辛纳两次药检阳性",
+      "onboard_time": 1724196136,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91882,
       "num": 126537,
       "word": "金智秀韩剧新乌托邦",
@@ -8051,12 +8099,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 89247,
+      "num": 89247,
+      "word": "给小猫嘴巴气成typec了",
+      "onboard_time": 1724196376,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 89190,
       "num": 89190,
       "word": "每天吃1个奇异果身体会发生什么变化",
       "onboard_time": 1724106132,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 88248,
+      "num": 88248,
+      "word": "张颖颖让张兰放过去世的母亲",
+      "onboard_time": 1724184911,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 87768,
+      "num": 87768,
+      "word": "星穹铁道椒丘",
+      "onboard_time": 1724196136,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 87708,
@@ -8155,14 +8227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 78431,
-      "num": 78431,
-      "word": "张颖颖让张兰放过去世的母亲",
-      "onboard_time": 1724184911,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 78028,
       "num": 412702,
       "word": "花花和叶睡起了上下铺",
@@ -8195,12 +8259,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75656,
+      "num": 75656,
+      "word": "外国网友开始打听一只中国猴子",
+      "onboard_time": 1724196798,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 74147,
       "num": 526840,
       "word": "学员称新巴蜀特训营中殴打是常态",
       "onboard_time": 1723953679,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73994,
+      "num": 73994,
+      "word": "2024科隆游戏展",
+      "onboard_time": 1724196136,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 73825,
@@ -8225,14 +8305,6 @@
       "onboard_time": 1724022735,
       "rank": 46,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 72153,
-      "num": 264310,
-      "word": "辽宁多个乡镇受灾网友在线求支援",
-      "onboard_time": 1724195656,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 71855,
@@ -8275,6 +8347,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 70184,
+      "num": 70184,
+      "word": "梁伟铿说在刘雨辰婚礼合影",
+      "onboard_time": 1724196257,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70011,
       "num": 1018885,
       "word": "辽宁多地大暴雨",
@@ -8289,6 +8369,14 @@
       "onboard_time": 1723916355,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 69362,
+      "num": 69362,
+      "word": "双鱼座好运蓄势待发",
+      "onboard_time": 1724175673,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 68883,
@@ -8337,14 +8425,6 @@
       "onboard_time": 1723999577,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 65285,
-      "num": 65285,
-      "word": "双鱼座好运蓄势待发",
-      "onboard_time": 1724175673,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 62750,
@@ -8883,6 +8963,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 37139,
+      "num": 660885,
+      "word": "西汉黄金纪念币长啥样",
+      "onboard_time": 1724161523,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35576,
       "num": 36147,
       "word": "中方致力于对话协商处理中菲涉海争议",
@@ -8904,14 +8992,6 @@
       "word": "应届生身份是否该取消了",
       "onboard_time": 1724091433,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33856,
-      "num": 588002,
-      "word": "西汉黄金纪念币长啥样",
-      "onboard_time": 1724161523,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
