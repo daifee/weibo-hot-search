@@ -1,6 +1,6 @@
 {
   "startTime": 1724084701164,
-  "endTime": 1724128010943,
+  "endTime": 1724128882919,
   "band_list": [
     {
       "raw_hot": 7427869,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1324189,
+      "num": 1324189,
+      "word": "网友向雷军举报王腾上班摸鱼",
+      "onboard_time": 1724125523,
+      "rank": 4,
+      "category": "游戏,互联网"
+    },
+    {
       "raw_hot": 1218741,
       "num": 1218741,
       "word": "教师遭网课爆破猝死案2成年人被拘留",
@@ -73,14 +81,6 @@
       "onboard_time": 1724075061,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1090196,
-      "num": 1090196,
-      "word": "网友向雷军举报王腾上班摸鱼",
-      "onboard_time": 1724125523,
-      "rank": 4,
-      "category": "游戏,互联网"
     },
     {
       "raw_hot": 1088840,
@@ -132,11 +132,19 @@
     },
     {
       "raw_hot": 777550,
-      "num": 475274,
+      "num": 837536,
       "word": "泰剧已经把女主进化成这样了么",
       "onboard_time": 1724120000,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 747772,
+      "num": 747772,
+      "word": "孙杨复出首站确定在合肥",
+      "onboard_time": 1724125282,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 716937,
@@ -145,14 +153,6 @@
       "onboard_time": 1724096952,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 715515,
-      "num": 715515,
-      "word": "孙杨复出首站确定在合肥",
-      "onboard_time": 1724125282,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 704333,
@@ -403,8 +403,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 383392,
+      "num": 383392,
+      "word": "金莎 睡九个小时我就满足",
+      "onboard_time": 1724128282,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 381663,
-      "num": 381663,
+      "num": 771016,
       "word": "黑神话悟空主角天命人商标被抢注",
       "onboard_time": 1724126121,
       "rank": 21,
@@ -427,6 +435,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 371418,
+      "num": 271075,
+      "word": "完全没有表演痕迹才是最可怕的",
+      "onboard_time": 1724126784,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 369624,
       "num": 369624,
       "word": "网易云",
@@ -441,6 +457,14 @@
       "onboard_time": 1724120781,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 360425,
+      "num": 360425,
+      "word": "韩国博主点评黑神话悟空",
+      "onboard_time": 1724127802,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 358222,
@@ -475,8 +499,8 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 336795,
-      "num": 336795,
+      "raw_hot": 341680,
+      "num": 341680,
       "word": "黑神话悟空卡在广智了",
       "onboard_time": 1724125702,
       "rank": 23,
@@ -491,8 +515,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 312826,
-      "num": 312826,
+      "raw_hot": 315682,
+      "num": 315682,
       "word": "美国一别墅被飓风刮倒漂在海面",
       "onboard_time": 1724122220,
       "rank": 25,
@@ -505,6 +529,14 @@
       "onboard_time": 1724113521,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 306410,
+      "num": 306410,
+      "word": "女流直播间被封",
+      "onboard_time": 1724128043,
+      "rank": 26,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 305194,
@@ -521,6 +553,14 @@
       "onboard_time": 1724063900,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297035,
+      "num": 272154,
+      "word": "男朋友为了追我帮我遛狗",
+      "onboard_time": 1724127922,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 295059,
@@ -547,14 +587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 282915,
-      "num": 238037,
-      "word": "完全没有表演痕迹才是最可怕的",
-      "onboard_time": 1724126784,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 282638,
       "num": 282638,
       "word": "张若昀曾被校园霸凌",
@@ -571,6 +603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 280567,
+      "num": 280567,
+      "word": "陈鑫海张淼怡兄友妹恭开机",
+      "onboard_time": 1724127922,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 277346,
       "num": 277346,
       "word": "黑神话悟空开玩",
@@ -585,6 +625,22 @@
       "onboard_time": 1724121019,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266398,
+      "num": 266398,
+      "word": "黄宗泽回应吴卓羲菊梓乔分手传闻",
+      "onboard_time": 1724127383,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 256156,
+      "num": 273308,
+      "word": "以色列暴发疫情",
+      "onboard_time": 1724128583,
+      "rank": 28,
+      "category": "国外时政"
     },
     {
       "raw_hot": 254920,
@@ -611,6 +667,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 247614,
+      "num": 247614,
+      "word": "王腾上班第一件事是下载黑神话悟空",
+      "onboard_time": 1724127442,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 247131,
+      "num": 247131,
+      "word": "戴了一个月的金项链变色了",
+      "onboard_time": 1724126603,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 242266,
       "num": 242266,
       "word": "黑神话悟空创Steam下载带宽纪录",
@@ -633,14 +705,6 @@
       "onboard_time": 1724111718,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 237883,
-      "num": 237883,
-      "word": "王腾上班第一件事是下载黑神话悟空",
-      "onboard_time": 1724127442,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 237721,
@@ -683,20 +747,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 221124,
-      "num": 221124,
-      "word": "黄宗泽回应吴卓羲菊梓乔分手传闻",
-      "onboard_time": 1724127383,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 220796,
-      "num": 220796,
-      "word": "男朋友为了追我帮我遛狗",
-      "onboard_time": 1724127922,
-      "rank": 36,
-      "category": "情感"
+      "raw_hot": 222298,
+      "num": 222298,
+      "word": "黑神话 电脑带不动",
+      "onboard_time": 1724127502,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 219373,
@@ -723,14 +779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 216056,
-      "num": 216056,
-      "word": "韩国博主点评黑神话悟空",
-      "onboard_time": 1724127802,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 212828,
       "num": 212828,
       "word": "黄松一审获刑七年",
@@ -753,14 +801,6 @@
       "onboard_time": 1724118077,
       "rank": 32,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 206546,
-      "num": 206546,
-      "word": "陈鑫海张淼怡兄友妹恭开机",
-      "onboard_time": 1724127922,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 205841,
@@ -803,6 +843,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 199306,
+      "num": 199306,
+      "word": "黑神话悟空登顶Steam全球热玩榜",
+      "onboard_time": 1724128703,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 199301,
       "num": 199301,
       "word": "长期不吃早餐会发生什么",
@@ -811,12 +859,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 197122,
-      "num": 197122,
-      "word": "戴了一个月的金项链变色了",
-      "onboard_time": 1724126603,
-      "rank": 45,
-      "category": "情感"
+      "raw_hot": 199174,
+      "num": 199174,
+      "word": "专家称黑神话悟空将撼动中国游戏版图",
+      "onboard_time": 1724127204,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 195994,
@@ -851,6 +899,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 191752,
+      "num": 191752,
+      "word": "黑神话悟空取景地一眼惊艳",
+      "onboard_time": 1724128762,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190438,
       "num": 190438,
       "word": "王一博新歌满满运动的快乐",
@@ -865,14 +921,6 @@
       "onboard_time": 1724126603,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 185165,
-      "num": 185165,
-      "word": "专家称黑神话悟空将撼动中国游戏版图",
-      "onboard_time": 1724127204,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 183030,
@@ -897,6 +945,14 @@
       "onboard_time": 1724113040,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181553,
+      "num": 786119,
+      "word": "小镇长女拒绝重复母亲的人生",
+      "onboard_time": 1724126482,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175980,
@@ -1091,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129803,
+      "num": 389418,
+      "word": "前途无量男主精神状态",
+      "onboard_time": 1724128163,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124299,
       "num": 124299,
       "word": "印度女博主揭露实习医生被奸杀细节",
@@ -1195,14 +1259,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 90907,
-      "num": 786119,
-      "word": "小镇长女拒绝重复母亲的人生",
-      "onboard_time": 1724126482,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 90858,
       "num": 90858,
       "word": "古巨基晒儿子为其庆生视频",
@@ -1225,6 +1281,14 @@
       "onboard_time": 1724091193,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 84842,
+      "num": 751270,
+      "word": "孩子乖好还是不乖好",
+      "onboard_time": 1724126544,
+      "rank": 10,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 83365,
@@ -1321,14 +1385,6 @@
       "onboard_time": 1724076262,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46103,
-      "num": 751270,
-      "word": "孩子乖好还是不乖好",
-      "onboard_time": 1724126544,
-      "rank": 10,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 45545,
