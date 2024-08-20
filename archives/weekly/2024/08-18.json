@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724178430862,
+  "endTime": 1724179204215,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -8747,6 +8747,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 40446,
+      "num": 156301,
+      "word": "云南普洱4.6级地震",
+      "onboard_time": 1724176872,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39612,
       "num": 440031,
       "word": "货车司机运输途中去世背后",
@@ -8971,12 +8979,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 22252,
-      "num": 156301,
-      "word": "云南普洱4.6级地震",
-      "onboard_time": 1724176872,
+      "raw_hot": 22755,
+      "num": 126618,
+      "word": "中职生获生物奥赛金牌",
+      "onboard_time": 1724175494,
       "rank": 9,
-      "category": "社会新闻"
+      "category": "教育"
     },
     {
       "raw_hot": 21952,
@@ -9027,7 +9035,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15993,
+      "raw_hot": 17337,
       "num": 251266,
       "word": "西汉黄金纪念币长啥样",
       "onboard_time": 1724161523,

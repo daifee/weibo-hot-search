@@ -1,6 +1,6 @@
 {
   "startTime": 1724171081349,
-  "endTime": 1724178430862,
+  "endTime": 1724179204215,
   "band_list": [
     {
       "raw_hot": 1886523,
@@ -499,6 +499,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 40446,
+      "num": 156301,
+      "word": "云南普洱4.6级地震",
+      "onboard_time": 1724176872,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38972,
       "num": 48983,
       "word": "披荆斩棘",
@@ -515,15 +523,15 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 22252,
-      "num": 156301,
-      "word": "云南普洱4.6级地震",
-      "onboard_time": 1724176872,
+      "raw_hot": 22755,
+      "num": 126618,
+      "word": "中职生获生物奥赛金牌",
+      "onboard_time": 1724175494,
       "rank": 9,
-      "category": "社会新闻"
+      "category": "教育"
     },
     {
-      "raw_hot": 15993,
+      "raw_hot": 17337,
       "num": 251266,
       "word": "西汉黄金纪念币长啥样",
       "onboard_time": 1724161523,
