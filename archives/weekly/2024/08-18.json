@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724157524496,
+  "endTime": 1724158441676,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -299,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2028465,
+      "num": 2028465,
+      "word": "全红婵和王俊凯葛优合照",
+      "onboard_time": 1724155162,
+      "rank": 4,
+      "category": "电影,体育"
+    },
+    {
       "raw_hot": 1938691,
       "num": 1938691,
       "word": "年入22亿的李佳琦还要披荆斩棘吗",
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 1894796,
-      "num": 1747769,
+      "num": 1789617,
       "word": "陈妍希把婚戒摘了",
       "onboard_time": 1724154862,
       "rank": 3,
@@ -411,20 +419,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1713818,
-      "num": 1713818,
-      "word": "全红婵和王俊凯葛优合照",
-      "onboard_time": 1724155162,
-      "rank": 4,
-      "category": "电影,体育"
-    },
-    {
       "raw_hot": 1705903,
       "num": 868841,
       "word": "王阳明 我不比娘炮的动作",
       "onboard_time": 1724039181,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1705036,
+      "num": 1705036,
+      "word": "被解雇中国籍播音员已在NHK工作22年",
+      "onboard_time": 1724152880,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1692668,
@@ -448,6 +456,14 @@
       "word": "全红婵跳207C经常平摔进水里",
       "onboard_time": 1723991360,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1596570,
+      "num": 1596570,
+      "word": "马龙全红婵站一起",
+      "onboard_time": 1724155040,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -491,27 +507,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1530904,
-      "num": 1530904,
-      "word": "马龙全红婵站一起",
-      "onboard_time": 1724155040,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1521328,
       "num": 837793,
       "word": "泰国人妖骗73名日本人超500万",
       "onboard_time": 1724062944,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1515356,
-      "num": 1515356,
-      "word": "被解雇中国籍播音员已在NHK工作22年",
-      "onboard_time": 1724152880,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -795,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1159996,
+      "num": 1159996,
+      "word": "孙佳俊 真的俊",
+      "onboard_time": 1724155404,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1144631,
       "num": 1144631,
       "word": "新版林黛玉",
@@ -971,6 +979,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1010818,
+      "num": 1010818,
+      "word": "中国体育代表团总结大会现场图",
+      "onboard_time": 1724157262,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1010413,
       "num": 1010413,
       "word": "孔笙肖战开机同框",
@@ -1049,14 +1065,6 @@
       "onboard_time": 1723960039,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 956806,
-      "num": 956806,
-      "word": "孙佳俊 真的俊",
-      "onboard_time": 1724155404,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 953826,
@@ -1411,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 750894,
+      "num": 750894,
+      "word": "陈梦表彰大会路透",
+      "onboard_time": 1724156242,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 747772,
       "num": 747772,
       "word": "孙杨复出首站确定在合肥",
@@ -1665,6 +1681,14 @@
       "onboard_time": 1724061922,
       "rank": 21,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 635424,
+      "num": 635424,
+      "word": "根正苗红的莎头",
+      "onboard_time": 1724155404,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 631544,
@@ -1955,14 +1979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 551704,
-      "num": 551704,
-      "word": "陈梦表彰大会路透",
-      "onboard_time": 1724156242,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 550787,
       "num": 550787,
       "word": "李景亮不敌普拉特斯",
@@ -2083,14 +2099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 514476,
-      "num": 514476,
-      "word": "根正苗红的莎头",
-      "onboard_time": 1724155404,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 514437,
       "num": 495170,
       "word": "女子家的沙发被邻居混凝土浇筑了",
@@ -2113,6 +2121,14 @@
       "onboard_time": 1723976779,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 508492,
+      "num": 508492,
+      "word": "樊振东贾一凡合影",
+      "onboard_time": 1724157441,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 507831,
@@ -2217,6 +2233,14 @@
       "onboard_time": 1723991959,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 477849,
+      "num": 353116,
+      "word": "汪顺 巴黎奥运会end",
+      "onboard_time": 1724157504,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 476649,
@@ -2363,6 +2387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 446333,
+      "num": 352215,
+      "word": "吴艳妮晒合照",
+      "onboard_time": 1724158163,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 444559,
       "num": 920188,
       "word": "黑神话悟空预售超4亿",
@@ -2481,6 +2513,14 @@
       "onboard_time": 1723978040,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 418520,
+      "num": 493075,
+      "word": "他甚至检查了一遍玫瑰花枝的刺",
+      "onboard_time": 1724154801,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 414471,
@@ -2633,14 +2673,6 @@
       "onboard_time": 1724041942,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 388408,
-      "num": 388408,
-      "word": "中国体育代表团总结大会现场图",
-      "onboard_time": 1724157262,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 387188,
@@ -2843,6 +2875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360136,
+      "num": 1224012,
+      "word": "女儿沉迷抽小马宝莉妈妈扔卡扔到崩溃",
+      "onboard_time": 1724155822,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 359258,
       "num": 521476,
       "word": "长荣桂冠主厨称海外侨胞都不会接受",
@@ -2995,6 +3035,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 341391,
+      "num": 341391,
+      "word": "王楚钦成打卡景点了",
+      "onboard_time": 1724157982,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 341197,
       "num": 341197,
       "word": "柳舟记17集反转",
@@ -3051,14 +3099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 333547,
-      "num": 388158,
-      "word": "他甚至检查了一遍玫瑰花枝的刺",
-      "onboard_time": 1724154801,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 333430,
       "num": 333430,
       "word": "500万人看四川观察解压黑猴",
@@ -3113,14 +3153,6 @@
       "onboard_time": 1724073560,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 329210,
-      "num": 329210,
-      "word": "樊振东贾一凡合影",
-      "onboard_time": 1724157441,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 328974,
@@ -3201,6 +3233,14 @@
       "onboard_time": 1724133500,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 318948,
+      "num": 451022,
+      "word": "时代少年团夏日记忆",
+      "onboard_time": 1724152040,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 317642,
@@ -3387,6 +3427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 299192,
+      "num": 299192,
+      "word": "乐乐女王",
+      "onboard_time": 1724157742,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 297035,
       "num": 282689,
       "word": "男朋友为了追我帮我遛狗",
@@ -3553,14 +3601,6 @@
       "onboard_time": 1724028260,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 285706,
-      "num": 451022,
-      "word": "时代少年团夏日记忆",
-      "onboard_time": 1724152040,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 285414,
@@ -3763,14 +3803,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 269052,
-      "num": 269052,
-      "word": "汪顺 巴黎奥运会end",
-      "onboard_time": 1724157504,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 267951,
       "num": 292310,
       "word": "男主什么都问了就忘了问性别",
@@ -3913,6 +3945,14 @@
       "onboard_time": 1724142622,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 258634,
+      "num": 258634,
+      "word": "孙颖莎邱贻可总结大会合照",
+      "onboard_time": 1724157982,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 257947,
@@ -4187,6 +4227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 239237,
+      "num": 239237,
+      "word": "马龙和现场球迷一起唱国歌很骄傲",
+      "onboard_time": 1724157562,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239000,
       "num": 239000,
       "word": "金敏喜 白发是装饰",
@@ -4225,6 +4273,14 @@
       "onboard_time": 1724124741,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 235765,
+      "num": 235765,
+      "word": "水才到大腿根孩子却溺水了",
+      "onboard_time": 1724154202,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235679,
@@ -4331,14 +4387,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 231274,
-      "num": 231274,
-      "word": "水才到大腿根孩子却溺水了",
-      "onboard_time": 1724154202,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 230105,
       "num": 1078443,
       "word": "女子带狗进影院遭拒辱骂员工被泼水",
@@ -4377,6 +4425,14 @@
       "onboard_time": 1724125943,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 227824,
+      "num": 325176,
+      "word": "脱口秀回来了",
+      "onboard_time": 1724156123,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 227576,
@@ -4425,6 +4481,14 @@
       "onboard_time": 1723893800,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 225175,
+      "num": 225175,
+      "word": "葡萄中的爱马仕为什么不香了",
+      "onboard_time": 1724158163,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 224821,
@@ -4627,20 +4691,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215643,
+      "num": 309285,
+      "word": "时代少年团直播",
+      "onboard_time": 1724157203,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215538,
       "num": 215538,
       "word": "爱犬被爸爸害死",
       "onboard_time": 1724151920,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 214688,
-      "num": 214688,
-      "word": "时代少年团直播",
-      "onboard_time": 1724157203,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 214360,
@@ -4849,14 +4913,6 @@
       "onboard_time": 1724136139,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 208099,
-      "num": 208099,
-      "word": "脱口秀回来了",
-      "onboard_time": 1724156123,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 207957,
@@ -5673,14 +5729,6 @@
       "onboard_time": 1724111718,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 182946,
-      "num": 1224012,
-      "word": "女儿沉迷抽小马宝莉妈妈扔卡扔到崩溃",
-      "onboard_time": 1724155822,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182913,
@@ -7212,7 +7260,7 @@
     },
     {
       "raw_hot": 123488,
-      "num": 1752908,
+      "num": 1871114,
       "word": "大自然的调色盘一眼心动",
       "onboard_time": 1724144780,
       "rank": 2,
@@ -7851,12 +7899,28 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 61289,
+      "num": 360354,
+      "word": "好莱坞大明星太浩来了",
+      "onboard_time": 1724157143,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 61016,
       "num": 62799,
       "word": "鞠婧祎印花挂脖吊带",
       "onboard_time": 1723934953,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 60987,
+      "num": 238760,
+      "word": "王传福感谢奔驰",
+      "onboard_time": 1724158283,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 59552,
@@ -8057,14 +8121,6 @@
       "onboard_time": 1724139020,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50225,
-      "num": 210610,
-      "word": "好莱坞大明星太浩来了",
-      "onboard_time": 1724157143,
-      "rank": 45,
-      "category": "汽车"
     },
     {
       "raw_hot": 49896,
@@ -8331,20 +8387,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 30031,
+      "num": 223438,
+      "word": "蔡徐坤AVIA代言视频",
+      "onboard_time": 1724154681,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28585,
       "num": 91271,
       "word": "申请劳动仲裁会影响找工作吗",
       "onboard_time": 1724099051,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27966,
-      "num": 223438,
-      "word": "蔡徐坤AVIA代言视频",
-      "onboard_time": 1724154681,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 27917,
