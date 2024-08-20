@@ -1,6 +1,6 @@
 {
   "startTime": 1724171081349,
-  "endTime": 1724192320235,
+  "endTime": 1724193358083,
   "band_list": [
     {
       "raw_hot": 1886523,
@@ -299,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171418,
+      "num": 171418,
+      "word": "女儿沉迷抽小马宝莉妈妈扔卡扔到崩溃",
+      "onboard_time": 1724155822,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169497,
       "num": 169497,
       "word": "黄雨婷发博告别巴黎奥运会",
@@ -331,12 +339,12 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 162578,
-      "num": 162578,
-      "word": "女儿沉迷抽小马宝莉妈妈扔卡扔到崩溃",
-      "onboard_time": 1724155822,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 156736,
+      "num": 156736,
+      "word": "入职2年高校教师吐槽评职称",
+      "onboard_time": 1724173157,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 154039,
@@ -419,14 +427,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 119498,
-      "num": 119498,
-      "word": "入职2年高校教师吐槽评职称",
-      "onboard_time": 1724173157,
-      "rank": 33,
-      "category": "教育"
-    },
-    {
       "raw_hot": 102998,
       "num": 129556,
       "word": "葛优成功追星全红婵",
@@ -459,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71113,
+      "num": 71113,
+      "word": "要陌生女童做亲子鉴定当事人道歉",
+      "onboard_time": 1724191572,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65285,
       "num": 65285,
       "word": "双鱼座好运蓄势待发",
@@ -483,12 +491,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 50302,
+      "num": 50302,
+      "word": "韩剧的偶像设定是34岁的未婚",
+      "onboard_time": 1724191812,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 49328,
       "num": 49328,
       "word": "不怪衣服不好看只怪自己不会搭",
       "onboard_time": 1724178252,
       "rank": 49,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 48352,
+      "num": 48352,
+      "word": "脂肪肝最怕3种运动",
+      "onboard_time": 1724191271,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 46268,
+      "num": 49716,
+      "word": "韩庚晒女儿给自己拍的照片",
+      "onboard_time": 1724192293,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 44389,
@@ -507,6 +539,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 42335,
+      "num": 42335,
+      "word": "张颖颖让张兰放过去世的母亲",
+      "onboard_time": 1724184911,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40446,
       "num": 156301,
       "word": "云南普洱4.6级地震",
@@ -523,44 +563,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 37897,
-      "num": 37897,
-      "word": "张颖颖让张兰放过去世的母亲",
-      "onboard_time": 1724184911,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 34537,
-      "num": 37892,
-      "word": "脂肪肝最怕3种运动",
-      "onboard_time": 1724191271,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 33030,
-      "num": 37848,
-      "word": "要陌生女童做亲子鉴定当事人道歉",
-      "onboard_time": 1724191572,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28824,
-      "num": 37691,
-      "word": "韩剧的偶像设定是34岁的未婚",
-      "onboard_time": 1724191812,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 27975,
-      "num": 37654,
-      "word": "韩庚晒女儿给自己拍的照片",
-      "onboard_time": 1724192293,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 28573,
+      "num": 42291,
+      "word": "盛李豪潘展乐同框",
+      "onboard_time": 1724191453,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 22755,
@@ -579,8 +587,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 17721,
-      "num": 251266,
+      "raw_hot": 18421,
+      "num": 298858,
       "word": "西汉黄金纪念币长啥样",
       "onboard_time": 1724161523,
       "rank": 2,
