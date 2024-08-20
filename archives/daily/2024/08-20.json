@@ -1,6 +1,6 @@
 {
   "startTime": 1724084701164,
-  "endTime": 1724153795165,
+  "endTime": 1724157524496,
   "band_list": [
     {
       "raw_hot": 7427869,
@@ -17,6 +17,14 @@
       "onboard_time": 1724123840,
       "rank": 39,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 3051507,
+      "num": 3603015,
+      "word": "8月20日新闻联播",
+      "onboard_time": 1724153842,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2976861,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 2431274,
-      "num": 784540,
+      "num": 1861430,
       "word": "王楚钦穿正装太帅了",
       "onboard_time": 1724152280,
       "rank": 10,
@@ -99,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1894796,
+      "num": 1747769,
+      "word": "陈妍希把婚戒摘了",
+      "onboard_time": 1724154862,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1845750,
       "num": 1845750,
       "word": "孙颖莎轻轻萌晕所有人",
@@ -113,6 +129,14 @@
       "onboard_time": 1724122400,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1713818,
+      "num": 1713818,
+      "word": "全红婵和王俊凯葛优合照",
+      "onboard_time": 1724155162,
+      "rank": 4,
+      "category": "电影,体育"
     },
     {
       "raw_hot": 1643820,
@@ -131,12 +155,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1530904,
+      "num": 1530904,
+      "word": "马龙全红婵站一起",
+      "onboard_time": 1724155040,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1515356,
+      "num": 1515356,
+      "word": "被解雇中国籍播音员已在NHK工作22年",
+      "onboard_time": 1724152880,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1495817,
       "num": 583067,
       "word": "真的很讨厌办公室的奶茶文化",
       "onboard_time": 1724146581,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1492507,
+      "num": 1492507,
+      "word": "黑神话公司员工疯狂被挖",
+      "onboard_time": 1724150661,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 1466610,
@@ -185,14 +233,6 @@
       "onboard_time": 1724132002,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1236529,
-      "num": 1236529,
-      "word": "黑神话公司员工疯狂被挖",
-      "onboard_time": 1724150661,
-      "rank": 16,
-      "category": "游戏"
     },
     {
       "raw_hot": 1218815,
@@ -275,6 +315,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 1025555,
+      "num": 1025555,
+      "word": "孙颖莎好像和衣服鞋子不太熟",
+      "onboard_time": 1724153781,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1007928,
       "num": 777935,
       "word": "黑神话梗图",
@@ -291,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 956806,
+      "num": 956806,
+      "word": "孙佳俊 真的俊",
+      "onboard_time": 1724155404,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 951648,
       "num": 951648,
       "word": "孙女不会做饭给92岁姥姥点披萨咖啡",
@@ -300,7 +356,7 @@
     },
     {
       "raw_hot": 935466,
-      "num": 935466,
+      "num": 1084905,
       "word": "阳光玫瑰为什么失宠了",
       "onboard_time": 1724150002,
       "rank": 42,
@@ -403,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 712010,
+      "num": 791898,
+      "word": "张淼怡的评论区",
+      "onboard_time": 1724152220,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 704333,
       "num": 306845,
       "word": "房贷三十年还是租一辈子房",
@@ -441,14 +505,6 @@
       "onboard_time": 1724055439,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 667353,
-      "num": 791898,
-      "word": "张淼怡的评论区",
-      "onboard_time": 1724152220,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 660956,
@@ -531,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 593980,
+      "num": 593980,
+      "word": "张绍刚cue种地吧",
+      "onboard_time": 1724155100,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 581345,
       "num": 523758,
       "word": "张兰说不认识张颖颖",
@@ -593,6 +657,14 @@
       "onboard_time": 1724062222,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 551704,
+      "num": 551704,
+      "word": "陈梦表彰大会路透",
+      "onboard_time": 1724156242,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 543615,
@@ -659,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 514476,
+      "num": 514476,
+      "word": "根正苗红的莎头",
+      "onboard_time": 1724155404,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 507831,
       "num": 636269,
       "word": "陈赫说玩不到黑悟空好难受",
@@ -697,14 +777,6 @@
       "onboard_time": 1724076441,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 457380,
-      "num": 417813,
-      "word": "孙颖莎好像和衣服鞋子不太熟",
-      "onboard_time": 1724153781,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 450596,
@@ -819,6 +891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 388408,
+      "num": 388408,
+      "word": "中国体育代表团总结大会现场图",
+      "onboard_time": 1724157262,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 384110,
       "num": 396987,
       "word": "朱正廷卢洋洋开机路透",
@@ -873,6 +953,14 @@
       "onboard_time": 1724120781,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 366877,
+      "num": 366877,
+      "word": "樊振东新发型好帅",
+      "onboard_time": 1724154021,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 358222,
@@ -955,12 +1043,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333547,
+      "num": 388158,
+      "word": "他甚至检查了一遍玫瑰花枝的刺",
+      "onboard_time": 1724154801,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 333430,
       "num": 333430,
       "word": "500万人看四川观察解压黑猴",
       "onboard_time": 1724140042,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 332578,
+      "num": 332578,
+      "word": "欢迎中国体育代表团凯旋",
+      "onboard_time": 1724155221,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331047,
+      "num": 386931,
+      "word": "导演胡玫连发四条张淼怡剧照",
+      "onboard_time": 1724153362,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 329210,
+      "num": 329210,
+      "word": "樊振东贾一凡合影",
+      "onboard_time": 1724157441,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 328833,
@@ -1219,6 +1339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 269052,
+      "num": 269052,
+      "word": "汪顺 巴黎奥运会end",
+      "onboard_time": 1724157504,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 267615,
       "num": 515605,
       "word": "郑州警方回应女子被男子压身下殴打",
@@ -1339,12 +1467,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 243168,
-      "num": 347756,
-      "word": "导演胡玫连发四条张淼怡剧照",
-      "onboard_time": 1724153362,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 243468,
+      "num": 385171,
+      "word": "张家辉新片一句话净赚二十亿",
+      "onboard_time": 1724156061,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 242266,
@@ -1395,6 +1523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 235046,
+      "num": 235046,
+      "word": "覃海洋晒表彰大会打卡照",
+      "onboard_time": 1724153002,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234741,
       "num": 797475,
       "word": "多地农村地区离婚率上升",
@@ -1417,6 +1553,14 @@
       "onboard_time": 1724143940,
       "rank": 44,
       "category": "游戏,财经"
+    },
+    {
+      "raw_hot": 231274,
+      "num": 231274,
+      "word": "水才到大腿根孩子却溺水了",
+      "onboard_time": 1724154202,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230105,
@@ -1571,6 +1715,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 214688,
+      "num": 214688,
+      "word": "时代少年团直播",
+      "onboard_time": 1724157203,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 213741,
+      "num": 213741,
+      "word": "向中国代表团致以热烈祝贺诚挚慰问",
+      "onboard_time": 1724155162,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212850,
       "num": 212850,
       "word": "陈飞宇庄达菲的cp感",
@@ -1584,14 +1744,6 @@
       "word": "黄松一审获刑七年",
       "onboard_time": 1724117899,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 212441,
-      "num": 212441,
-      "word": "覃海洋晒表彰大会打卡照",
-      "onboard_time": 1724153002,
-      "rank": 42,
       "category": "体育"
     },
     {
@@ -1627,12 +1779,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 208279,
+      "num": 208279,
+      "word": "代表团全场响起长时间热烈掌声",
+      "onboard_time": 1724156362,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208233,
       "num": 208233,
       "word": "焦曼婷回忆父亲焦恩俊再婚",
       "onboard_time": 1724136139,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208099,
+      "num": 208099,
+      "word": "脱口秀回来了",
+      "onboard_time": 1724156123,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 206654,
@@ -1937,6 +2105,14 @@
       "onboard_time": 1724111718,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 182946,
+      "num": 1224012,
+      "word": "女儿沉迷抽小马宝莉妈妈扔卡扔到崩溃",
+      "onboard_time": 1724155822,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182013,
@@ -2340,7 +2516,7 @@
     },
     {
       "raw_hot": 123488,
-      "num": 1555147,
+      "num": 1752908,
       "word": "大自然的调色盘一眼心动",
       "onboard_time": 1724144780,
       "rank": 2,
@@ -2369,14 +2545,6 @@
       "onboard_time": 1724133861,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 115232,
-      "num": 789253,
-      "word": "被解雇中国籍播音员已在NHK工作22年",
-      "onboard_time": 1724152880,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114958,
@@ -2667,6 +2835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50225,
+      "num": 210610,
+      "word": "好莱坞大明星太浩来了",
+      "onboard_time": 1724157143,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 49807,
       "num": 1518767,
       "word": "中国空间站舷窗大片再上新",
@@ -2809,6 +2985,14 @@
       "onboard_time": 1724099051,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27966,
+      "num": 223438,
+      "word": "蔡徐坤AVIA代言视频",
+      "onboard_time": 1724154681,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 27910,
