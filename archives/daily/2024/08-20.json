@@ -1,6 +1,6 @@
 {
   "startTime": 1724084701164,
-  "endTime": 1724142366242,
+  "endTime": 1724143154012,
   "band_list": [
     {
       "raw_hot": 7427869,
@@ -91,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1607396,
+      "num": 820809,
+      "word": "张颖颖 汪小菲",
+      "onboard_time": 1724142681,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1567791,
       "num": 1567791,
       "word": "张昊唯和三个人被拍到三次",
@@ -155,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1091370,
+      "num": 1091370,
+      "word": "孟子义 想结婚就别谈太久恋爱",
+      "onboard_time": 1724141121,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1088840,
       "num": 488914,
       "word": "印度2岁女童惨遭已婚男子强奸",
@@ -211,6 +227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 820229,
+      "num": 820229,
+      "word": "国乒出发表彰大会",
+      "onboard_time": 1724139681,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 784260,
       "num": 347994,
       "word": "参加婚礼全程无桌还没人理",
@@ -243,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 757079,
+      "num": 757079,
+      "word": "孙颖莎轻轻萌晕所有人",
+      "onboard_time": 1724142382,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 747772,
       "num": 747772,
       "word": "孙杨复出首站确定在合肥",
@@ -265,14 +297,6 @@
       "onboard_time": 1724109916,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 699957,
-      "num": 699957,
-      "word": "国乒出发表彰大会",
-      "onboard_time": 1724139681,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 699507,
@@ -371,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 595076,
+      "num": 1135294,
+      "word": "韩国大白菜涨到37元人民币一颗",
+      "onboard_time": 1724133801,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 581218,
       "num": 389195,
       "word": "张颖颖说张兰一家谁沾上谁倒霉",
@@ -385,14 +417,6 @@
       "onboard_time": 1724108956,
       "rank": 20,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 569187,
-      "num": 569187,
-      "word": "孟子义 想结婚就别谈太久恋爱",
-      "onboard_time": 1724141121,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 564334,
@@ -483,6 +507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 523758,
+      "num": 523758,
+      "word": "张兰说不认识张颖颖",
+      "onboard_time": 1724142321,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 520923,
       "num": 327460,
       "word": "公务员考试 信息差",
@@ -507,20 +539,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 488144,
+      "num": 463511,
+      "word": "张颖颖回击张兰",
+      "onboard_time": 1724141363,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 484241,
       "num": 484241,
       "word": "银行为什么出现离职潮",
       "onboard_time": 1724076441,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 463511,
-      "num": 463511,
-      "word": "张颖颖回击张兰",
-      "onboard_time": 1724141363,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 450596,
@@ -707,8 +739,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 329059,
-      "num": 329059,
+      "raw_hot": 333430,
+      "num": 333430,
       "word": "500万人看四川观察解压黑猴",
       "onboard_time": 1724140042,
       "rank": 24,
@@ -731,12 +763,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 316127,
-      "num": 1135294,
-      "word": "韩国大白菜涨到37元人民币一颗",
-      "onboard_time": 1724133801,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 317642,
+      "num": 317642,
+      "word": "莎头比赛合照",
+      "onboard_time": 1724142560,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 315682,
@@ -801,6 +833,14 @@
       "onboard_time": 1724124141,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 293108,
+      "num": 293108,
+      "word": "在姚明面前汪顺也是小手办",
+      "onboard_time": 1724140941,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 291982,
@@ -939,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255143,
+      "num": 330752,
+      "word": "檀健次 好小众的癖好赛道",
+      "onboard_time": 1724139323,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254920,
       "num": 254920,
       "word": "网易云音乐补偿7天会员",
@@ -1003,12 +1051,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238547,
+      "num": 238547,
+      "word": "狐狸精给萨摩耶都迷成智障了",
+      "onboard_time": 1724142622,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 237721,
       "num": 638296,
       "word": "黑神话第二难 着色器编译",
       "onboard_time": 1724124741,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 237129,
+      "num": 840443,
+      "word": "为什么朋友过得好我会不开心",
+      "onboard_time": 1724143041,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234741,
@@ -1019,20 +1083,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233199,
-      "num": 315698,
-      "word": "檀健次 好小众的癖好赛道",
-      "onboard_time": 1724139323,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 233121,
       "num": 233121,
       "word": "中式英语成海外爆梗",
       "onboard_time": 1724130201,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 230105,
+      "num": 1078443,
+      "word": "女子带狗进影院遭拒辱骂员工被泼水",
+      "onboard_time": 1724140823,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229574,
+      "num": 229574,
+      "word": "黑神话创始团队成员全部来自腾讯",
+      "onboard_time": 1724142441,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 229151,
@@ -1139,8 +1211,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215901,
-      "num": 215901,
+      "raw_hot": 216323,
+      "num": 216323,
       "word": "黑神话悟空大头怪",
       "onboard_time": 1724137520,
       "rank": 49,
@@ -1148,7 +1220,7 @@
     },
     {
       "raw_hot": 214003,
-      "num": 315473,
+      "num": 330512,
       "word": "又一段张昊唯微信语音曝光",
       "onboard_time": 1724141240,
       "rank": 28,
@@ -1177,14 +1249,6 @@
       "onboard_time": 1724112681,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 210357,
-      "num": 210357,
-      "word": "在姚明面前汪顺也是小手办",
-      "onboard_time": 1724140941,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 209730,
@@ -1236,7 +1300,7 @@
     },
     {
       "raw_hot": 202631,
-      "num": 202631,
+      "num": 328487,
       "word": "何广智快把黑神话悟空写进段子里",
       "onboard_time": 1724140160,
       "rank": 36,
@@ -1307,19 +1371,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198022,
+      "num": 329414,
+      "word": "看个剧被HR点了",
+      "onboard_time": 1724142801,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197219,
       "num": 197219,
       "word": "宋亚轩又又又追星成功了",
       "onboard_time": 1724141601,
       "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 197121,
-      "num": 197121,
-      "word": "张兰说不认识张颖颖",
-      "onboard_time": 1724142321,
-      "rank": 38,
       "category": "艺人"
     },
     {
@@ -1380,7 +1444,7 @@
     },
     {
       "raw_hot": 187331,
-      "num": 187331,
+      "num": 327835,
       "word": "辽宁建昌有房屋被淹",
       "onboard_time": 1724139741,
       "rank": 41,
@@ -1553,6 +1617,14 @@
       "onboard_time": 1724121981,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173739,
+      "num": 173739,
+      "word": "汪顺表彰大会路透神图",
+      "onboard_time": 1724142861,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 171422,
@@ -1791,14 +1863,6 @@
       "num": 614677,
       "word": "一个英国人的中国大厂历险记",
       "onboard_time": 1724122940,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121577,
-      "num": 1078443,
-      "word": "女子带狗进影院遭拒辱骂员工被泼水",
-      "onboard_time": 1724140823,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -2051,7 +2115,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 53965,
+      "raw_hot": 54418,
       "num": 2151341,
       "word": "长三角区域低空空中载客航线打通",
       "onboard_time": 1724123721,
@@ -2168,6 +2232,14 @@
       "word": "应届生身份是否该取消了",
       "onboard_time": 1724091433,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33432,
+      "num": 326546,
+      "word": "美国一大学教授枪杀妻子",
+      "onboard_time": 1724142861,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
