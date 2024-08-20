@@ -1,6 +1,6 @@
 {
   "startTime": 1724084701164,
-  "endTime": 1724146539426,
+  "endTime": 1724149275361,
   "band_list": [
     {
       "raw_hot": 7427869,
@@ -57,6 +57,14 @@
       "onboard_time": 1724136080,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2058372,
+      "num": 2058372,
+      "word": "手机太贵不敢偷结果偷了块28万的表",
+      "onboard_time": 1724145681,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2048413,
@@ -187,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1171279,
+      "num": 474275,
+      "word": "张颖颖连发三条微博回应张兰",
+      "onboard_time": 1724147602,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1091370,
       "num": 1091370,
       "word": "孟子义 想结婚就别谈太久恋爱",
@@ -243,6 +259,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 937323,
+      "num": 452879,
+      "word": "真的很讨厌办公室的奶茶文化",
+      "onboard_time": 1724146581,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 917736,
+      "num": 846584,
+      "word": "华裔女子遭男友虐杀喉咙卡高尔夫球",
+      "onboard_time": 1724144422,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 913500,
       "num": 913500,
       "word": "相识一月结婚一周就闹离婚",
@@ -257,14 +289,6 @@
       "onboard_time": 1724127802,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 846584,
-      "num": 846584,
-      "word": "华裔女子遭男友虐杀喉咙卡高尔夫球",
-      "onboard_time": 1724144422,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 820229,
@@ -417,6 +441,14 @@
       "onboard_time": 1724082800,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 605806,
+      "num": 605806,
+      "word": "黑神话梗图",
+      "onboard_time": 1724147782,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 602109,
@@ -595,20 +627,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 464257,
-      "num": 464257,
-      "word": "手机太贵不敢偷结果偷了块28万的表",
-      "onboard_time": 1724145681,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 450596,
       "num": 450596,
       "word": "王楚钦孙颖莎双双保持世界第一",
       "onboard_time": 1724129480,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 449486,
+      "num": 463407,
+      "word": "陈赫说玩不到黑悟空好难受",
+      "onboard_time": 1724146942,
+      "rank": 17,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 444842,
@@ -651,20 +683,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 421915,
+      "num": 421915,
+      "word": "原来这才是结婚重要性排序",
+      "onboard_time": 1724143940,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 419004,
+      "num": 419004,
+      "word": "请3天年假中秋可休8天",
+      "onboard_time": 1724145681,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 407413,
+      "num": 407413,
+      "word": "孙颖莎被女排姑娘拉着合影",
+      "onboard_time": 1724146340,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 403357,
       "num": 476603,
       "word": "日本多地允许带娃上班",
       "onboard_time": 1724115260,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 399728,
-      "num": 399728,
-      "word": "原来这才是结婚重要性排序",
-      "onboard_time": 1724143940,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 398233,
@@ -697,6 +745,14 @@
       "onboard_time": 1724136921,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 391037,
+      "num": 391037,
+      "word": "由于我整个孕期不停的跳舞",
+      "onboard_time": 1724148141,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 384110,
@@ -763,6 +819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 352112,
+      "num": 973995,
+      "word": "老人泡澡猝死儿子质疑与吸氢有关",
+      "onboard_time": 1724144422,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 350797,
       "num": 350797,
       "word": "全红婵关注樊振东了",
@@ -795,6 +859,22 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 341524,
+      "num": 341524,
+      "word": "张颖颖 三年了还惹我",
+      "onboard_time": 1724147181,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 340631,
+      "num": 340631,
+      "word": "四六级成绩",
+      "onboard_time": 1724148440,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 336485,
       "num": 998100,
       "word": "建昌暴雨",
@@ -817,6 +897,14 @@
       "onboard_time": 1724076441,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 321393,
+      "num": 459776,
+      "word": "家昱户筱密逃录制路透",
+      "onboard_time": 1724147181,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 318956,
@@ -1043,14 +1131,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 267739,
-      "num": 973995,
-      "word": "老人泡澡猝死儿子质疑与吸氢有关",
-      "onboard_time": 1724144422,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267615,
       "num": 515605,
       "word": "郑州警方回应女子被男子压身下殴打",
@@ -1155,12 +1235,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 244305,
-      "num": 244305,
-      "word": "请3天年假中秋可休8天",
-      "onboard_time": 1724145681,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 244919,
+      "num": 244919,
+      "word": "郑钦文现身表彰大会",
+      "onboard_time": 1724146461,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 242266,
@@ -1209,14 +1289,6 @@
       "onboard_time": 1724122341,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 234270,
-      "num": 234270,
-      "word": "孙颖莎被女排姑娘拉着合影",
-      "onboard_time": 1724146340,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 233121,
@@ -1371,6 +1443,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212728,
+      "num": 1027058,
+      "word": "广西北海多人赶海遭雷击",
+      "onboard_time": 1724145681,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212370,
+      "num": 375829,
+      "word": "李飞追星被贴脸饭撒",
+      "onboard_time": 1724148080,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211549,
       "num": 274744,
       "word": "遭网课爆破猝死教师的女儿将在杭读研",
@@ -1403,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205688,
+      "num": 205688,
+      "word": "侯明昊直播",
+      "onboard_time": 1724149040,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204447,
       "num": 204447,
       "word": "樊振东着红色礼服参加总结大会",
@@ -1433,14 +1529,6 @@
       "onboard_time": 1724140160,
       "rank": 36,
       "category": "综艺,游戏"
-    },
-    {
-      "raw_hot": 202421,
-      "num": 202421,
-      "word": "郑钦文现身表彰大会",
-      "onboard_time": 1724146461,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 202349,
@@ -1547,6 +1635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 193225,
+      "num": 193225,
+      "word": "原来在事业单位的电话不能乱接",
+      "onboard_time": 1724148920,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192801,
       "num": 192801,
       "word": "黑神话悟空走红四年梳理",
@@ -1576,6 +1672,14 @@
       "word": "黑神话悟空取景地一眼惊艳",
       "onboard_time": 1724128762,
       "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 191103,
+      "num": 191103,
+      "word": "黑神话 村里第一个大学生",
+      "onboard_time": 1724148321,
+      "rank": 44,
       "category": "游戏"
     },
     {
@@ -1689,6 +1793,14 @@
       "onboard_time": 1724140581,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177412,
+      "num": 177412,
+      "word": "原来我吃的掌中宝是鸡屁股",
+      "onboard_time": 1724148440,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 176835,
@@ -1827,6 +1939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 167846,
+      "num": 175904,
+      "word": "罗PD版的ditto",
+      "onboard_time": 1724147961,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 160249,
       "num": 160249,
       "word": "郑钦文一下飞机就去训练",
@@ -1864,6 +1984,14 @@
       "word": "龙梅子演唱会",
       "onboard_time": 1724080641,
       "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 152139,
+      "num": 175755,
+      "word": "太湖湾音乐节抢票",
+      "onboard_time": 1724146881,
+      "rank": 49,
       "category": "演出"
     },
     {
@@ -2195,14 +2323,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 71169,
-      "num": 1027058,
-      "word": "广西北海多人赶海遭雷击",
-      "onboard_time": 1724145681,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 70011,
       "num": 1018885,
       "word": "辽宁多地大暴雨",
@@ -2259,6 +2379,14 @@
       "category": "游戏,财经"
     },
     {
+      "raw_hot": 57764,
+      "num": 637834,
+      "word": "国家防总派工作组赴辽宁协助防汛",
+      "onboard_time": 1724148021,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57648,
       "num": 110013,
       "word": "一起看今年首个超级月亮",
@@ -2296,6 +2424,14 @@
       "word": "在离婚父母间来回拉扯二十年",
       "onboard_time": 1724101571,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52208,
+      "num": 457438,
+      "word": "葫芦岛道路积水最深已超2米",
+      "onboard_time": 1724148021,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -2384,6 +2520,14 @@
       "word": "货车司机运输途中去世背后",
       "onboard_time": 1724122821,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36337,
+      "num": 375497,
+      "word": "日媒播音员称钓鱼岛是中国领土被解聘",
+      "onboard_time": 1724149100,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
