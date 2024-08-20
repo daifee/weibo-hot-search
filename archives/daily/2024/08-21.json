@@ -1,6 +1,6 @@
 {
   "startTime": 1724171081349,
-  "endTime": 1724186167853,
+  "endTime": 1724188853594,
   "band_list": [
     {
       "raw_hot": 1886523,
@@ -523,20 +523,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 27877,
+      "num": 27877,
+      "word": "张颖颖让张兰放过去世的母亲",
+      "onboard_time": 1724184911,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 22755,
       "num": 126618,
       "word": "中职生获生物奥赛金牌",
       "onboard_time": 1724175494,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 20804,
-      "num": 26282,
-      "word": "张颖颖让张兰放过去世的母亲",
-      "onboard_time": 1724184911,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 17721,

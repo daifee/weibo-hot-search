@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724186167853,
+  "endTime": 1724188853594,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -8939,6 +8939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27877,
+      "num": 27877,
+      "word": "张颖颖让张兰放过去世的母亲",
+      "onboard_time": 1724184911,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27041,
       "num": 33301,
       "word": "一图读懂如何防控猴痘",
@@ -9009,14 +9017,6 @@
       "onboard_time": 1724095752,
       "rank": 9,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 20804,
-      "num": 26282,
-      "word": "张颖颖让张兰放过去世的母亲",
-      "onboard_time": 1724184911,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 20458,
