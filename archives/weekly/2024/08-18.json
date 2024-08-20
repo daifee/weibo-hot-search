@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724150368771,
+  "endTime": 1724152758156,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -312,6 +312,14 @@
       "word": "孙颖莎轻轻萌晕所有人",
       "onboard_time": 1724142382,
       "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1831478,
+      "num": 592595,
+      "word": "王楚钦穿正装太帅了",
+      "onboard_time": 1724152280,
+      "rank": 10,
       "category": "体育"
     },
     {
@@ -713,6 +721,14 @@
       "onboard_time": 1724137100,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1176419,
+      "num": 574738,
+      "word": "由于我整个孕期不停的跳舞",
+      "onboard_time": 1724148141,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 1171279,
@@ -1243,6 +1259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 777728,
+      "num": 777728,
+      "word": "四六级成绩",
+      "onboard_time": 1724148440,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 777550,
       "num": 837614,
       "word": "泰剧已经把女主进化成这样了么",
@@ -1329,6 +1353,14 @@
       "onboard_time": 1724022256,
       "rank": 30,
       "category": "国内时政,社会新闻"
+    },
+    {
+      "raw_hot": 730616,
+      "num": 730616,
+      "word": "田中敦子去世",
+      "onboard_time": 1724150661,
+      "rank": 5,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 730566,
@@ -1473,6 +1505,14 @@
       "onboard_time": 1724115140,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 671973,
+      "num": 507713,
+      "word": "黑神话公司员工疯狂被挖",
+      "onboard_time": 1724150661,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 671059,
@@ -1643,6 +1683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 611351,
+      "num": 611351,
+      "word": "请3天年假中秋可休8天",
+      "onboard_time": 1724145681,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 609985,
       "num": 563547,
       "word": "张昊唯 戴向宇",
@@ -1745,22 +1793,6 @@
       "onboard_time": 1724108956,
       "rank": 20,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 574738,
-      "num": 574738,
-      "word": "由于我整个孕期不停的跳舞",
-      "onboard_time": 1724148141,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 573525,
-      "num": 573525,
-      "word": "四六级成绩",
-      "onboard_time": 1724148440,
-      "rank": 33,
-      "category": "教育"
     },
     {
       "raw_hot": 571683,
@@ -1987,6 +2019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 507831,
+      "num": 636269,
+      "word": "陈赫说玩不到黑悟空好难受",
+      "onboard_time": 1724146942,
+      "rank": 17,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 504821,
       "num": 504821,
       "word": "网友总结少年白马醉春风大扑七宗罪",
@@ -2009,14 +2049,6 @@
       "onboard_time": 1724056821,
       "rank": 16,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 497272,
-      "num": 634918,
-      "word": "陈赫说玩不到黑悟空好难受",
-      "onboard_time": 1724146942,
-      "rank": 17,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 495076,
@@ -2227,6 +2259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 451129,
+      "num": 451129,
+      "word": "阳光玫瑰为什么失宠了",
+      "onboard_time": 1724150002,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 450596,
       "num": 450596,
       "word": "王楚钦孙颖莎双双保持世界第一",
@@ -2347,14 +2387,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 419004,
-      "num": 600323,
-      "word": "请3天年假中秋可休8天",
-      "onboard_time": 1724145681,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 418843,
       "num": 418843,
       "word": "童禹坤生日会",
@@ -2465,6 +2497,14 @@
       "onboard_time": 1724108956,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 395226,
+      "num": 395226,
+      "word": "张颖颖 三年了还惹我",
+      "onboard_time": 1724147181,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 394244,
@@ -2827,14 +2867,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 341524,
-      "num": 341524,
-      "word": "张颖颖 三年了还惹我",
-      "onboard_time": 1724147181,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 341197,
       "num": 341197,
       "word": "柳舟记17集反转",
@@ -2865,6 +2897,14 @@
       "onboard_time": 1724078061,
       "rank": 28,
       "category": "电影,体育"
+    },
+    {
+      "raw_hot": 337179,
+      "num": 499018,
+      "word": "张淼怡的评论区",
+      "onboard_time": 1724152220,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 336485,
@@ -3363,6 +3403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 285706,
+      "num": 451022,
+      "word": "时代少年团夏日记忆",
+      "onboard_time": 1724152040,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 285414,
       "num": 285414,
       "word": "女子黄山遇见挑山工就发100元",
@@ -3392,6 +3440,14 @@
       "word": "毛不易骂人还是太狠毒了",
       "onboard_time": 1724083338,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 282886,
+      "num": 448155,
+      "word": "李纯说结不结婚得看马頔",
+      "onboard_time": 1724150960,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -3497,6 +3553,14 @@
       "onboard_time": 1724138662,
       "rank": 28,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 275338,
+      "num": 533524,
+      "word": "郑钦文现身表彰大会",
+      "onboard_time": 1724146461,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 274601,
@@ -3633,14 +3697,6 @@
       "onboard_time": 1724062522,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 264003,
-      "num": 264003,
-      "word": "郑钦文现身表彰大会",
-      "onboard_time": 1724146461,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 263703,
@@ -4003,8 +4059,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 236401,
-      "num": 236401,
+      "raw_hot": 237052,
+      "num": 237052,
       "word": "原来在事业单位的电话不能乱接",
       "onboard_time": 1724148920,
       "rank": 43,
@@ -4211,6 +4267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224583,
+      "num": 330573,
+      "word": "拜登告别演说数次落泪",
+      "onboard_time": 1724149761,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 224256,
       "num": 252490,
       "word": "医生的第六感准得阎王都服气",
@@ -4329,6 +4393,14 @@
       "onboard_time": 1724056281,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216993,
+      "num": 216993,
+      "word": "柳舟记反转",
+      "onboard_time": 1724150119,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 216965,
@@ -4491,6 +4563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211069,
+      "num": 211069,
+      "word": "四六级成绩什么时候出",
+      "onboard_time": 1724152341,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 209730,
       "num": 209730,
       "word": "手总打不到蚊子的原因找到了",
@@ -4593,6 +4673,14 @@
       "onboard_time": 1723945758,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206654,
+      "num": 206654,
+      "word": "谁懂回国录吃饭综艺对海外人的含金量",
+      "onboard_time": 1724151801,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 206549,
@@ -4875,6 +4963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198945,
+      "num": 198945,
+      "word": "蔡徐坤代言AVIA",
+      "onboard_time": 1724152521,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198616,
       "num": 198616,
       "word": "檀健次蒙娜丽莎湿身舞台",
@@ -5155,14 +5251,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 190434,
-      "num": 190434,
-      "word": "阳光玫瑰为什么失宠了",
-      "onboard_time": 1724150002,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189764,
       "num": 189764,
       "word": "王俊凯出道十一年最大尺度",
@@ -5203,14 +5291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 188601,
-      "num": 208889,
-      "word": "柳舟记反转",
-      "onboard_time": 1724150119,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 188111,
       "num": 188111,
       "word": "迪丽热巴妆容创作过程",
@@ -5225,6 +5305,14 @@
       "onboard_time": 1724028440,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187790,
+      "num": 632943,
+      "word": "执法人员称干垮一个企业太简单后续",
+      "onboard_time": 1724149820,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187423,
@@ -5299,6 +5387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 185370,
+      "num": 185370,
+      "word": "柳眠棠 配音",
+      "onboard_time": 1724151020,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184628,
       "num": 184628,
       "word": "黑神话悟空倒计时1天",
@@ -5345,6 +5441,14 @@
       "onboard_time": 1724054780,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183771,
+      "num": 183771,
+      "word": "不想开学 不想回学校",
+      "onboard_time": 1724150541,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 183397,
@@ -6923,14 +7027,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 119165,
-      "num": 330573,
-      "word": "拜登告别演说数次落泪",
-      "onboard_time": 1724149761,
-      "rank": 33,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 119156,
       "num": 119156,
       "word": "曹缘评价全红婵陈芋汐",
@@ -7755,6 +7851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49359,
+      "num": 206700,
+      "word": "极氪25款新品强在哪",
+      "onboard_time": 1724152521,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 49200,
       "num": 208072,
       "word": "乌称首都基辅遭俄导弹袭击",
@@ -7875,14 +7979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38114,
-      "num": 632943,
-      "word": "执法人员称干垮一个企业太简单后续",
-      "onboard_time": 1724149820,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 38061,
       "num": 765682,
       "word": "蛟龙号完成300潜",
@@ -7953,6 +8049,14 @@
       "onboard_time": 1724047459,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 32803,
+      "num": 605244,
+      "word": "支架出厂价5万代理商卖给医院12万",
+      "onboard_time": 1724151621,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32444,
