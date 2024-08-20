@@ -1,0 +1,410 @@
+{
+  "runTime": 1724136099221,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3010208,
+        "num": 3010208,
+        "word": "黑神话悟空",
+        "onboard_time": 1724108835,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2118839,
+        "num": 2118839,
+        "word": "以色列暴发疫情",
+        "onboard_time": 1724128583,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 51355,
+        "num": 1878112,
+        "word": "2024中国丰收图景",
+        "onboard_time": 1724124202,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1779122,
+        "num": 1779122,
+        "word": "金晨男友",
+        "onboard_time": 1724133083,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1402626,
+        "num": 1402626,
+        "word": "张昊唯和三个人被拍到三次",
+        "onboard_time": 1724133203,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1303307,
+        "num": 1303307,
+        "word": "张大仙全球首吐",
+        "onboard_time": 1724133143,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1047362,
+        "num": 1047362,
+        "word": "二郎神 张翰",
+        "onboard_time": 1724123840,
+        "rank": 6,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 973616,
+        "num": 973616,
+        "word": "女流直播间被封",
+        "onboard_time": 1724128043,
+        "rank": 7,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 1059692,
+        "num": 888299,
+        "word": "金晨方声明",
+        "onboard_time": 1724132002,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74687,
+        "num": 716620,
+        "word": "辽宁建昌全县停工停产",
+        "onboard_time": 1724134640,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545821,
+        "num": 545821,
+        "word": "网友向雷军举报王腾上班摸鱼",
+        "onboard_time": 1724125523,
+        "rank": 10,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 94399,
+        "num": 502497,
+        "word": "华为阿维塔合资",
+        "onboard_time": 1724132060,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 501237,
+        "num": 501237,
+        "word": "泰剧已经把女主进化成这样了么",
+        "onboard_time": 1724120000,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 484604,
+        "num": 484604,
+        "word": "表彰大会路透",
+        "onboard_time": 1724135659,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 462312,
+        "num": 462312,
+        "word": "日媒一中国籍播音员说钓鱼岛是中国的",
+        "onboard_time": 1724136080,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 404466,
+        "num": 404466,
+        "word": "陆虎婚纱照",
+        "onboard_time": 1724122400,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401105,
+        "num": 401105,
+        "word": "韩国博主点评黑神话悟空",
+        "onboard_time": 1724127802,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 391244,
+        "num": 391244,
+        "word": "王楚钦孙颖莎双双保持世界第一",
+        "onboard_time": 1724129480,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 366804,
+        "num": 366804,
+        "word": "中秋节好像没放假又好像放了",
+        "onboard_time": 1724119521,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59512,
+        "num": 355917,
+        "word": "李乃文 白宇你比个小裤衩吧",
+        "onboard_time": 1724135901,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 348690,
+        "num": 348690,
+        "word": "张昊唯说自己喜欢江疏影",
+        "onboard_time": 1724131761,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331251,
+        "num": 331251,
+        "word": "建昌暴雨",
+        "onboard_time": 1724129843,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318956,
+        "num": 318956,
+        "word": "易瘦体质潘玮柏上吃饭综艺了",
+        "onboard_time": 1724133500,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304148,
+        "num": 304148,
+        "word": "王楠夫妇回应送金牌",
+        "onboard_time": 1724134940,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295256,
+        "num": 295256,
+        "word": "黑神话悟空卡在广智了",
+        "onboard_time": 1724125702,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 290695,
+        "num": 290695,
+        "word": "葫芦岛建昌大部分地区电力通讯中断",
+        "onboard_time": 1724133321,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288372,
+        "num": 288372,
+        "word": "相识一月结婚一周就闹离婚",
+        "onboard_time": 1724123540,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281263,
+        "num": 281263,
+        "word": "晴天小猪作者去世",
+        "onboard_time": 1724133083,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 243365,
+        "num": 243365,
+        "word": "谁懂魏哲鸣跑过去的这一瞬间",
+        "onboard_time": 1724132241,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49197,
+        "num": 241685,
+        "word": "俄方称普京已排除与乌谈判可能性",
+        "onboard_time": 1724135780,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 241346,
+        "num": 241346,
+        "word": "辽宁葫芦岛4个村通信中断",
+        "onboard_time": 1724133500,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228976,
+        "num": 228976,
+        "word": "张大仙玩黑神话悟空玩晕了",
+        "onboard_time": 1724134222,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 227184,
+        "num": 227184,
+        "word": "孙杨复出首站确定在合肥",
+        "onboard_time": 1724125282,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220543,
+        "num": 220543,
+        "word": "金莎 睡九个小时我就满足",
+        "onboard_time": 1724128282,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216017,
+        "num": 216017,
+        "word": "戴了一个月的金项链变色了",
+        "onboard_time": 1724126603,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214880,
+        "num": 214880,
+        "word": "黑神话悟空 晕3D",
+        "onboard_time": 1724133143,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205691,
+        "num": 205691,
+        "word": "金晨方辟谣与孙喆一恋情",
+        "onboard_time": 1724134041,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200448,
+        "num": 200448,
+        "word": "冯禧去拍戏了",
+        "onboard_time": 1724117238,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195617,
+        "num": 195617,
+        "word": "BLACKPINK或将与霉霉合作",
+        "onboard_time": 1724131761,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192707,
+        "num": 192707,
+        "word": "陈飞宇庄达菲的cp感",
+        "onboard_time": 1724132490,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186638,
+        "num": 186638,
+        "word": "中式英语成海外爆梗",
+        "onboard_time": 1724130201,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42993,
+        "num": 185272,
+        "word": "暑期档高开低走电影院被抛弃了吗",
+        "onboard_time": 1724135180,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184410,
+        "num": 184410,
+        "word": "教师开直播拍视频的边界在哪里",
+        "onboard_time": 1724133681,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178081,
+        "num": 178081,
+        "word": "什么是3A游戏",
+        "onboard_time": 1724136080,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173902,
+        "num": 173902,
+        "word": "为什么只穿袜子比全裸更有羞耻感",
+        "onboard_time": 1724125702,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 172155,
+        "num": 172155,
+        "word": "王昶梁伟铿将录制你好星期六",
+        "onboard_time": 1724131040,
+        "rank": 45,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 170687,
+        "num": 170687,
+        "word": "你们不上班吗",
+        "onboard_time": 1724132302,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164485,
+        "num": 164485,
+        "word": "张昊唯南京工作室多年0人参保",
+        "onboard_time": 1724122519,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160996,
+        "num": 160996,
+        "word": "46岁李维嘉洁癖严重",
+        "onboard_time": 1724110697,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158870,
+        "num": 158870,
+        "word": "黑神话悟空引发联名热潮",
+        "onboard_time": 1724134819,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#如何推动中越命运共同体建设走深走实#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1724084701164,
-  "endTime": 1724135334254,
+  "endTime": 1724136099221,
   "band_list": [
     {
       "raw_hot": 7427869,
@@ -91,6 +91,14 @@
       "category": "游戏,互联网"
     },
     {
+      "raw_hot": 1303307,
+      "num": 1303307,
+      "word": "张大仙全球首吐",
+      "onboard_time": 1724133143,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1259374,
       "num": 980600,
       "word": "金晨方声明",
@@ -145,14 +153,6 @@
       "onboard_time": 1724117238,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 958174,
-      "num": 958174,
-      "word": "张大仙全球首吐",
-      "onboard_time": 1724133143,
-      "rank": 12,
-      "category": "游戏"
     },
     {
       "raw_hot": 951648,
@@ -403,12 +403,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 484604,
+      "num": 484604,
+      "word": "表彰大会路透",
+      "onboard_time": 1724135659,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 484241,
       "num": 484241,
       "word": "银行为什么出现离职潮",
       "onboard_time": 1724076441,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 462312,
+      "num": 462312,
+      "word": "日媒一中国籍播音员说钓鱼岛是中国的",
+      "onboard_time": 1724136080,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 450596,
@@ -587,6 +603,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 331251,
+      "num": 998100,
+      "word": "建昌暴雨",
+      "onboard_time": 1724129843,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327439,
       "num": 327439,
       "word": "王俊凯 清华也是我小时候的梦想",
@@ -595,20 +619,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 318956,
+      "num": 318956,
+      "word": "易瘦体质潘玮柏上吃饭综艺了",
+      "onboard_time": 1724133500,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 315682,
       "num": 315682,
       "word": "美国一别墅被飓风刮倒漂在海面",
       "onboard_time": 1724122220,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 312923,
-      "num": 312923,
-      "word": "易瘦体质潘玮柏上吃饭综艺了",
-      "onboard_time": 1724133500,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 307963,
@@ -633,6 +657,14 @@
       "onboard_time": 1724064443,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 304148,
+      "num": 304148,
+      "word": "王楠夫妇回应送金牌",
+      "onboard_time": 1724134940,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 298840,
@@ -665,6 +697,14 @@
       "onboard_time": 1724132241,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 290695,
+      "num": 290695,
+      "word": "葫芦岛建昌大部分地区电力通讯中断",
+      "onboard_time": 1724133321,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290668,
@@ -771,14 +811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 257642,
-      "num": 257642,
-      "word": "葫芦岛建昌大部分地区电力通讯中断",
-      "onboard_time": 1724133321,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 254920,
       "num": 254920,
       "word": "网易云音乐补偿7天会员",
@@ -827,6 +859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 241346,
+      "num": 1039530,
+      "word": "辽宁葫芦岛4个村通信中断",
+      "onboard_time": 1724133500,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241202,
       "num": 632354,
       "word": "抓蚊子上下拍手更容易",
@@ -873,6 +913,14 @@
       "onboard_time": 1724134041,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228976,
+      "num": 228976,
+      "word": "张大仙玩黑神话悟空玩晕了",
+      "onboard_time": 1724134222,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 228183,
@@ -939,14 +987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215012,
-      "num": 215012,
-      "word": "张大仙玩黑神话悟空玩晕了",
-      "onboard_time": 1724134222,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 212850,
       "num": 212850,
       "word": "陈飞宇庄达菲的cp感",
@@ -993,14 +1033,6 @@
       "onboard_time": 1724077581,
       "rank": 25,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 203335,
-      "num": 998100,
-      "word": "建昌暴雨",
-      "onboard_time": 1724129843,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202773,
@@ -1107,14 +1139,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 190033,
-      "num": 190033,
-      "word": "王楠夫妇回应送金牌",
-      "onboard_time": 1724134940,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 186733,
       "num": 186733,
       "word": "王心凌巡演2.0官宣",
@@ -1137,6 +1161,14 @@
       "onboard_time": 1724126603,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 184410,
+      "num": 1016244,
+      "word": "教师开直播拍视频的边界在哪里",
+      "onboard_time": 1724133681,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183030,
@@ -1169,6 +1201,14 @@
       "onboard_time": 1724126482,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178081,
+      "num": 178081,
+      "word": "什么是3A游戏",
+      "onboard_time": 1724136080,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 177571,
@@ -1257,6 +1297,14 @@
       "onboard_time": 1724129722,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170687,
+      "num": 170687,
+      "word": "你们不上班吗",
+      "onboard_time": 1724132302,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 170274,
@@ -1475,14 +1523,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 115068,
-      "num": 1039530,
-      "word": "辽宁葫芦岛4个村通信中断",
-      "onboard_time": 1724133500,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114958,
       "num": 114958,
       "word": "陈艺文 终于见到孩子了",
@@ -1579,12 +1619,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 95362,
-      "num": 1016244,
-      "word": "教师开直播拍视频的边界在哪里",
-      "onboard_time": 1724133681,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 94399,
+      "num": 970412,
+      "word": "华为阿维塔合资",
+      "onboard_time": 1724132060,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 90858,
@@ -1619,6 +1659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 74687,
+      "num": 716620,
+      "word": "辽宁建昌全县停工停产",
+      "onboard_time": 1724134640,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73510,
       "num": 73510,
       "word": "刘雨辰叫梁永铿猪猪侠",
@@ -1633,14 +1681,6 @@
       "onboard_time": 1724130261,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 69785,
-      "num": 970412,
-      "word": "华为阿维塔合资",
-      "onboard_time": 1724132060,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 67905,
@@ -1665,6 +1705,14 @@
       "onboard_time": 1724109016,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 59512,
+      "num": 355917,
+      "word": "李乃文 白宇你比个小裤衩吧",
+      "onboard_time": 1724135901,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 58435,
@@ -1715,6 +1763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49197,
+      "num": 241685,
+      "word": "俄方称普京已排除与乌谈判可能性",
+      "onboard_time": 1724135780,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 47724,
       "num": 821568,
       "word": "我国盾构水下掘进深度破世界纪录",
@@ -1731,20 +1787,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44975,
-      "num": 641064,
-      "word": "辽宁建昌全县停工停产",
-      "onboard_time": 1724134640,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 44300,
       "num": 66222,
       "word": "阴阳师",
       "onboard_time": 1724078003,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 42993,
+      "num": 451348,
+      "word": "暑期档高开低走电影院被抛弃了吗",
+      "onboard_time": 1724135180,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 42611,
@@ -1841,14 +1897,6 @@
       "onboard_time": 1724081660,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22422,
-      "num": 451348,
-      "word": "暑期档高开低走电影院被抛弃了吗",
-      "onboard_time": 1724135180,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 21824,
