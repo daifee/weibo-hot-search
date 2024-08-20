@@ -1,6 +1,6 @@
 {
   "startTime": 1724084701164,
-  "endTime": 1724124228155,
+  "endTime": 1724125097513,
   "band_list": [
     {
       "raw_hot": 7427869,
@@ -19,8 +19,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1736681,
-      "num": 1736681,
+      "raw_hot": 1801454,
+      "num": 1801454,
       "word": "陆虎婚纱照",
       "onboard_time": 1724122400,
       "rank": 3,
@@ -65,6 +65,14 @@
       "onboard_time": 1724075061,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1159215,
+      "num": 1159215,
+      "word": "二郎神 张翰",
+      "onboard_time": 1724123840,
+      "rank": 39,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 1088840,
@@ -155,6 +163,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 655803,
+      "num": 655803,
+      "word": "孙颖莎9000分世排第一",
+      "onboard_time": 1724121561,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 631544,
+      "num": 631544,
+      "word": "八十一难第一难是解压",
+      "onboard_time": 1724121440,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 616788,
       "num": 555719,
       "word": "全红婵王俊凯合影",
@@ -163,28 +187,12 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 614243,
-      "num": 614243,
-      "word": "八十一难第一难是解压",
-      "onboard_time": 1724121440,
-      "rank": 9,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 609985,
       "num": 563547,
       "word": "张昊唯 戴向宇",
       "onboard_time": 1724082800,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 593420,
-      "num": 593420,
-      "word": "孙颖莎9000分世排第一",
-      "onboard_time": 1724121561,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 575194,
@@ -235,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 533874,
+      "num": 268470,
+      "word": "孙悟空大战二郎神",
+      "onboard_time": 1724123840,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 528299,
       "num": 457934,
       "word": "蔬菜水果为什么突然变贵了",
@@ -265,6 +281,14 @@
       "onboard_time": 1724074521,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 495206,
+      "num": 495206,
+      "word": "相识一月结婚一周就闹离婚",
+      "onboard_time": 1724123540,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 493258,
@@ -347,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 378976,
+      "num": 615228,
+      "word": "黑神话悟空在线人数",
+      "onboard_time": 1724123299,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 373989,
       "num": 373989,
       "word": "网易云音乐故障真相",
@@ -361,6 +393,14 @@
       "onboard_time": 1724085377,
       "rank": 13,
       "category": "互联网,音乐"
+    },
+    {
+      "raw_hot": 367727,
+      "num": 409280,
+      "word": "成毅飞习惯不会走路了",
+      "onboard_time": 1724120781,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 358222,
@@ -395,22 +435,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 323355,
-      "num": 409280,
-      "word": "成毅飞习惯不会走路了",
-      "onboard_time": 1724120781,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 315564,
-      "num": 268470,
-      "word": "孙悟空大战二郎神",
-      "onboard_time": 1724123840,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 307849,
       "num": 307849,
       "word": "迪丽热巴 从油画里走出来的神女",
@@ -425,14 +449,6 @@
       "onboard_time": 1724064443,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 303934,
-      "num": 615228,
-      "word": "黑神话悟空在线人数",
-      "onboard_time": 1724123299,
-      "rank": 8,
-      "category": "游戏"
     },
     {
       "raw_hot": 298840,
@@ -491,6 +507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 267615,
+      "num": 515605,
+      "word": "郑州警方回应女子被男子压身下殴打",
+      "onboard_time": 1724121019,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254920,
       "num": 254920,
       "word": "网易云音乐补偿7天会员",
@@ -507,14 +531,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 248628,
-      "num": 248628,
-      "word": "相识一月结婚一周就闹离婚",
-      "onboard_time": 1724123540,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 242266,
       "num": 242266,
       "word": "黑神话悟空创Steam下载带宽纪录",
@@ -524,7 +540,7 @@
     },
     {
       "raw_hot": 241202,
-      "num": 614367,
+      "num": 632354,
       "word": "抓蚊子上下拍手更容易",
       "onboard_time": 1724122280,
       "rank": 10,
@@ -539,12 +555,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 229083,
-      "num": 515605,
-      "word": "郑州警方回应女子被男子压身下殴打",
-      "onboard_time": 1724121019,
-      "rank": 8,
+      "raw_hot": 234741,
+      "num": 234741,
+      "word": "多地农村地区离婚率上升",
+      "onboard_time": 1724122341,
+      "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227576,
+      "num": 227576,
+      "word": "黑神话悟空登陆PS5",
+      "onboard_time": 1724122641,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 223853,
@@ -555,28 +579,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 219373,
+      "num": 219373,
+      "word": "黑神话悟空闪退",
+      "onboard_time": 1724124681,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 218849,
+      "num": 218849,
+      "word": "周冬雨担任釜山电影节评委",
+      "onboard_time": 1724124501,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 218472,
       "num": 492834,
       "word": "印度出现水泥做的假大蒜",
       "onboard_time": 1724061202,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216636,
-      "num": 216636,
-      "word": "多地农村地区离婚率上升",
-      "onboard_time": 1724122341,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 213006,
-      "num": 213006,
-      "word": "二郎神 张翰",
-      "onboard_time": 1724123840,
-      "rank": 39,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 212828,
@@ -619,6 +643,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 202773,
+      "num": 202773,
+      "word": "张昊唯称被一个团伙盯上",
+      "onboard_time": 1724057722,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200026,
       "num": 200026,
       "word": "帆布鞋为啥不流行了",
@@ -643,28 +675,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 195498,
-      "num": 195498,
-      "word": "张昊唯称被一个团伙盯上",
-      "onboard_time": 1724057722,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 193433,
       "num": 193433,
       "word": "狮子座太害怕遗憾了",
       "onboard_time": 1724082499,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 192810,
-      "num": 192810,
-      "word": "黑神话悟空登陆PS5",
-      "onboard_time": 1724122641,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 192256,
@@ -771,6 +787,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 168247,
+      "num": 168247,
+      "word": "电影出走的决心定档",
+      "onboard_time": 1724124441,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 160249,
+      "num": 160249,
+      "word": "郑钦文一下飞机就去训练",
+      "onboard_time": 1724124621,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159235,
       "num": 159235,
       "word": "买黄金前一定要懂的信息差",
@@ -875,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133028,
+      "num": 498577,
+      "word": "黑神话同时在线人数破百万",
+      "onboard_time": 1724124021,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 130824,
       "num": 130824,
       "word": "遭网课爆破离世教师女儿称5人已道歉",
@@ -888,6 +928,14 @@
       "word": "印度女博主揭露实习医生被奸杀细节",
       "onboard_time": 1724060422,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123841,
+      "num": 614677,
+      "word": "一个英国人的中国大厂历险记",
+      "onboard_time": 1724122940,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -955,6 +1003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101211,
+      "num": 638296,
+      "word": "黑神话第二难 着色器编译",
+      "onboard_time": 1724124741,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 99892,
       "num": 112676,
       "word": "曾舜晞年纪上来了尺度下去了",
@@ -1001,14 +1057,6 @@
       "onboard_time": 1724091193,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 74563,
-      "num": 614677,
-      "word": "一个英国人的中国大厂历险记",
-      "onboard_time": 1724122940,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73510,
@@ -1083,18 +1131,18 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47761,
-      "num": 465835,
-      "word": "黑神话同时在线人数破百万",
-      "onboard_time": 1724124021,
-      "rank": 13,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 47724,
       "num": 821568,
       "word": "我国盾构水下掘进深度破世界纪录",
       "onboard_time": 1724076262,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46666,
+      "num": 1854740,
+      "word": "2024中国丰收图景",
+      "onboard_time": 1724124202,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -1224,14 +1272,6 @@
       "word": "韩男高试图杀害不愿与其交往女生",
       "onboard_time": 1724121019,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6165,
-      "num": 1854740,
-      "word": "2024中国丰收图景",
-      "onboard_time": 1724124202,
-      "rank": 2,
       "category": "社会新闻"
     }
   ],

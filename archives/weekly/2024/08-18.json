@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724124228155,
+  "endTime": 1724125097513,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -235,6 +235,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 1801454,
+      "num": 1801454,
+      "word": "陆虎婚纱照",
+      "onboard_time": 1724122400,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1800733,
       "num": 718164,
       "word": "张昊唯 培养自己的妈咪",
@@ -289,14 +297,6 @@
       "onboard_time": 1724045780,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1736681,
-      "num": 1736681,
-      "word": "陆虎婚纱照",
-      "onboard_time": 1724122400,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1720310,
@@ -577,6 +577,14 @@
       "onboard_time": 1723977859,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1159215,
+      "num": 1159215,
+      "word": "二郎神 张翰",
+      "onboard_time": 1724123840,
+      "rank": 39,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 1144631,
@@ -1275,6 +1283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 655803,
+      "num": 655803,
+      "word": "孙颖莎9000分世排第一",
+      "onboard_time": 1724121561,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 649010,
       "num": 649010,
       "word": "capper恋爱",
@@ -1297,6 +1313,14 @@
       "onboard_time": 1724061922,
       "rank": 21,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 631544,
+      "num": 631544,
+      "word": "八十一难第一难是解压",
+      "onboard_time": 1724121440,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 629793,
@@ -1363,14 +1387,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 614243,
-      "num": 614243,
-      "word": "八十一难第一难是解压",
-      "onboard_time": 1724121440,
-      "rank": 9,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 609985,
       "num": 563547,
       "word": "张昊唯 戴向宇",
@@ -1393,14 +1409,6 @@
       "onboard_time": 1724055742,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 593420,
-      "num": 593420,
-      "word": "孙颖莎9000分世排第一",
-      "onboard_time": 1724121561,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 590405,
@@ -1563,6 +1571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 533874,
+      "num": 268470,
+      "word": "孙悟空大战二郎神",
+      "onboard_time": 1724123840,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 532278,
       "num": 576271,
       "word": "奶茶重回10元以下",
@@ -1665,6 +1681,14 @@
       "onboard_time": 1724056821,
       "rank": 16,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 495206,
+      "num": 495206,
+      "word": "相识一月结婚一周就闹离婚",
+      "onboard_time": 1724123540,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 495076,
@@ -2123,6 +2147,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 378976,
+      "num": 615228,
+      "word": "黑神话悟空在线人数",
+      "onboard_time": 1724123299,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 378467,
       "num": 378467,
       "word": "现在学会计还香吗",
@@ -2193,6 +2225,14 @@
       "onboard_time": 1724035818,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 367727,
+      "num": 409280,
+      "word": "成毅飞习惯不会走路了",
+      "onboard_time": 1724120781,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 367687,
@@ -2467,14 +2507,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 323355,
-      "num": 409280,
-      "word": "成毅飞习惯不会走路了",
-      "onboard_time": 1724120781,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 320674,
       "num": 320674,
       "word": "瑞幸补货",
@@ -2505,14 +2537,6 @@
       "onboard_time": 1723955720,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 315564,
-      "num": 268470,
-      "word": "孙悟空大战二郎神",
-      "onboard_time": 1724123840,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 314358,
@@ -2609,14 +2633,6 @@
       "onboard_time": 1723887318,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 303934,
-      "num": 615228,
-      "word": "黑神话悟空在线人数",
-      "onboard_time": 1724123299,
-      "rank": 8,
-      "category": "游戏"
     },
     {
       "raw_hot": 300884,
@@ -2931,6 +2947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 267615,
+      "num": 515605,
+      "word": "郑州警方回应女子被男子压身下殴打",
+      "onboard_time": 1724121019,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267178,
       "num": 266562,
       "word": "韩国漫画奥运游泳200米的排名",
@@ -3115,14 +3139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 248628,
-      "num": 248628,
-      "word": "相识一月结婚一周就闹离婚",
-      "onboard_time": 1724123540,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 247807,
       "num": 221778,
       "word": "长期缺睡眠有哪些表现",
@@ -3196,7 +3212,7 @@
     },
     {
       "raw_hot": 241202,
-      "num": 614367,
+      "num": 632354,
       "word": "抓蚊子上下拍手更容易",
       "onboard_time": 1724122280,
       "rank": 10,
@@ -3249,6 +3265,14 @@
       "onboard_time": 1723950019,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 234741,
+      "num": 234741,
+      "word": "多地农村地区离婚率上升",
+      "onboard_time": 1724122341,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234543,
@@ -3315,20 +3339,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 229083,
-      "num": 515605,
-      "word": "郑州警方回应女子被男子压身下殴打",
-      "onboard_time": 1724121019,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228603,
       "num": 228603,
       "word": "郭敬明晒田嘉瑞燃霜为昼试妆照",
       "onboard_time": 1723976658,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227576,
+      "num": 227576,
+      "word": "黑神话悟空登陆PS5",
+      "onboard_time": 1724122641,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 227031,
@@ -3419,6 +3443,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219373,
+      "num": 219373,
+      "word": "黑神话悟空闪退",
+      "onboard_time": 1724124681,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 218849,
+      "num": 218849,
+      "word": "周冬雨担任釜山电影节评委",
+      "onboard_time": 1724124501,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 218071,
       "num": 218071,
       "word": "国羽大家庭 团魂",
@@ -3465,14 +3505,6 @@
       "onboard_time": 1723980919,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 216636,
-      "num": 216636,
-      "word": "多地农村地区离婚率上升",
-      "onboard_time": 1724122341,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216507,
@@ -3529,14 +3561,6 @@
       "onboard_time": 1724049200,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 213006,
-      "num": 213006,
-      "word": "二郎神 张翰",
-      "onboard_time": 1724123840,
-      "rank": 39,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 212828,
@@ -4059,14 +4083,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 192810,
-      "num": 192810,
-      "word": "黑神话悟空登陆PS5",
-      "onboard_time": 1724122641,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 192404,
       "num": 192404,
       "word": "薛之谦回头看了自己的天外来物",
@@ -4587,6 +4603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168247,
+      "num": 168247,
+      "word": "电影出走的决心定档",
+      "onboard_time": 1724124441,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 167669,
       "num": 167669,
       "word": "刺猬",
@@ -4832,6 +4856,14 @@
       "word": "全红婵说看我乐观但事情憋在心里",
       "onboard_time": 1723994121,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 160249,
+      "num": 160249,
+      "word": "郑钦文一下飞机就去训练",
+      "onboard_time": 1724124621,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -5475,6 +5507,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 133028,
+      "num": 498577,
+      "word": "黑神话同时在线人数破百万",
+      "onboard_time": 1724124021,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 132285,
       "num": 132285,
       "word": "种地吧",
@@ -5576,6 +5616,14 @@
       "word": "2024电影暑期档票房破100亿",
       "onboard_time": 1723948819,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123841,
+      "num": 614677,
+      "word": "一个英国人的中国大厂历险记",
+      "onboard_time": 1724122940,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -5819,6 +5867,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 101211,
+      "num": 638296,
+      "word": "黑神话第二难 着色器编译",
+      "onboard_time": 1724124741,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 100567,
       "num": 100567,
       "word": "小狗真的筋疲力尽了",
@@ -5991,14 +6047,6 @@
       "num": 525120,
       "word": "律师解读41名事业单位人员被清退",
       "onboard_time": 1723986079,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74563,
-      "num": 614677,
-      "word": "一个英国人的中国大厂历险记",
-      "onboard_time": 1724122940,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -6339,20 +6387,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47761,
-      "num": 465835,
-      "word": "黑神话同时在线人数破百万",
-      "onboard_time": 1724124021,
-      "rank": 13,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 47012,
       "num": 47012,
       "word": "三只羊回应杭州办公总部出租",
       "onboard_time": 1724015771,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 46666,
+      "num": 1854740,
+      "word": "2024中国丰收图景",
+      "onboard_time": 1724124202,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45545,
@@ -6664,14 +6712,6 @@
       "word": "交警不顾酷暑送饭山东司机哽咽感谢",
       "onboard_time": 1724006831,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6165,
-      "num": 1854740,
-      "word": "2024中国丰收图景",
-      "onboard_time": 1724124202,
-      "rank": 2,
       "category": "社会新闻"
     }
   ],
