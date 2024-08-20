@@ -1,0 +1,402 @@
+{
+  "runTime": 1724142366242,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2976861,
+        "num": 2976861,
+        "word": "29岁女子吃素半年吃出中重度脂肪肝",
+        "onboard_time": 1724137821,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1792072,
+        "num": 1792072,
+        "word": "张大仙全球首吐",
+        "onboard_time": 1724133143,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 53965,
+        "num": 1711594,
+        "word": "长三角区域低空空中载客航线打通",
+        "onboard_time": 1724123721,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1668896,
+        "num": 1668896,
+        "word": "黑神话悟空",
+        "onboard_time": 1724108835,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1329073,
+        "num": 1329073,
+        "word": "表彰大会路透",
+        "onboard_time": 1724135659,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1237323,
+        "num": 1237323,
+        "word": "日媒一中国籍播音员说钓鱼岛是中国的",
+        "onboard_time": 1724136080,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 897653,
+        "num": 1233694,
+        "word": "张昊唯和三个人被拍到三次",
+        "onboard_time": 1724133203,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 773356,
+        "num": 1161417,
+        "word": "26岁程潇过着梦想生活",
+        "onboard_time": 1724138304,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316127,
+        "num": 1135294,
+        "word": "韩国大白菜涨到37元人民币一颗",
+        "onboard_time": 1724133801,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121577,
+        "num": 1078443,
+        "word": "女子带狗进影院遭拒辱骂员工被泼水",
+        "onboard_time": 1724140823,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1069950,
+        "num": 1069950,
+        "word": "樊振东剪头发了",
+        "onboard_time": 1724137100,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 699957,
+        "num": 699957,
+        "word": "国乒出发表彰大会",
+        "onboard_time": 1724139681,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 672912,
+        "num": 672912,
+        "word": "二郎神 张翰",
+        "onboard_time": 1724123840,
+        "rank": 12,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 58506,
+        "num": 614150,
+        "word": "中药食品真能养生吗",
+        "onboard_time": 1724140823,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612686,
+        "num": 612686,
+        "word": "以色列暴发疫情",
+        "onboard_time": 1724128583,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 602109,
+        "num": 602109,
+        "word": "徐梦洁摔伤",
+        "onboard_time": 1724138544,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 569187,
+        "num": 569187,
+        "word": "孟子义 想结婚就别谈太久恋爱",
+        "onboard_time": 1724141121,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 561694,
+        "num": 561694,
+        "word": "黑神话悟空卡在广智了",
+        "onboard_time": 1724125702,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 368555,
+        "num": 504013,
+        "word": "金晨方声明",
+        "onboard_time": 1724132002,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 660956,
+        "num": 486908,
+        "word": "女子高铁被超大行李箱砸头崩溃痛哭",
+        "onboard_time": 1724136560,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463511,
+        "num": 463511,
+        "word": "张颖颖回击张兰",
+        "onboard_time": 1724141363,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418156,
+        "num": 418156,
+        "word": "孙杨在两项目仍具国内顶尖水平",
+        "onboard_time": 1724136320,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 382339,
+        "num": 382339,
+        "word": "王楠夫妇回应送金牌",
+        "onboard_time": 1724134940,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1038137,
+        "num": 358526,
+        "word": "金晨男友",
+        "onboard_time": 1724133083,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329059,
+        "num": 329059,
+        "word": "500万人看四川观察解压黑猴",
+        "onboard_time": 1724140042,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 362978,
+        "num": 324990,
+        "word": "张颖颖说张兰一家谁沾上谁倒霉",
+        "onboard_time": 1724137220,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320596,
+        "num": 320596,
+        "word": "陆虎婚纱照",
+        "onboard_time": 1724122400,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233199,
+        "num": 315698,
+        "word": "檀健次 好小众的癖好赛道",
+        "onboard_time": 1724139323,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214003,
+        "num": 315473,
+        "word": "又一段张昊唯微信语音曝光",
+        "onboard_time": 1724141240,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315404,
+        "num": 315404,
+        "word": "樊振东在全红婵旁边好像巨人",
+        "onboard_time": 1724138720,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284594,
+        "num": 284594,
+        "word": "女流直播间被封",
+        "onboard_time": 1724128043,
+        "rank": 30,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 215901,
+        "num": 215901,
+        "word": "黑神话悟空大头怪",
+        "onboard_time": 1724137520,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210357,
+        "num": 210357,
+        "word": "在姚明面前汪顺也是小手办",
+        "onboard_time": 1724140941,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207673,
+        "num": 207673,
+        "word": "泰剧已经把女主进化成这样了么",
+        "onboard_time": 1724120000,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204645,
+        "num": 204645,
+        "word": "杨紫奶油杨梅妆",
+        "onboard_time": 1724138662,
+        "rank": 34,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 204447,
+        "num": 204447,
+        "word": "樊振东着红色礼服参加总结大会",
+        "onboard_time": 1724140581,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202631,
+        "num": 202631,
+        "word": "何广智快把黑神话悟空写进段子里",
+        "onboard_time": 1724140160,
+        "rank": 36,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 197219,
+        "num": 197219,
+        "word": "宋亚轩又又又追星成功了",
+        "onboard_time": 1724141601,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197121,
+        "num": 197121,
+        "word": "张兰说不认识张颖颖",
+        "onboard_time": 1724142321,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193822,
+        "num": 193822,
+        "word": "刘浩存赵今麦合体拍摄大片",
+        "onboard_time": 1724140281,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188284,
+        "num": 188284,
+        "word": "建昌暴雨",
+        "onboard_time": 1724129843,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187331,
+        "num": 187331,
+        "word": "辽宁建昌有房屋被淹",
+        "onboard_time": 1724139741,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186855,
+        "num": 186855,
+        "word": "原来手机截完图能做这么多事",
+        "onboard_time": 1724137881,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 185197,
+        "num": 185197,
+        "word": "韩国博主点评黑神话悟空",
+        "onboard_time": 1724127802,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178496,
+        "num": 178496,
+        "word": "五指山下解压500年",
+        "onboard_time": 1724142200,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177541,
+        "num": 177541,
+        "word": "孙杨有望再次入选国家队",
+        "onboard_time": 1724140581,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162848,
+        "num": 162848,
+        "word": "相识一月结婚一周就闹离婚",
+        "onboard_time": 1724123540,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154230,
+        "num": 154230,
+        "word": "工伤保险竟变成了唐僧肉",
+        "onboard_time": 1724139020,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153817,
+        "num": 153817,
+        "word": "辽宁葫芦岛4个村通信中断",
+        "onboard_time": 1724133500,
+        "rank": 48,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#如何推动中越命运共同体建设走深走实#"
+    }
+  }
+}
