@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1724132211579,
+  "endTime": 1724135334254,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -4131,6 +4131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 2322051,
+      "num": 2322051,
+      "word": "以色列暴发疫情",
+      "onboard_time": 1724128583,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 2321517,
       "num": 2321517,
       "word": "樊振东与陈若琳食堂合影",
@@ -4625,14 +4633,6 @@
       "onboard_time": 1723041627,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2131895,
-      "num": 2131895,
-      "word": "以色列暴发疫情",
-      "onboard_time": 1724128583,
-      "rank": 28,
-      "category": "国外时政"
     },
     {
       "raw_hot": 2126729,
@@ -5457,6 +5457,14 @@
       "onboard_time": 1723258882,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1904104,
+      "num": 1904104,
+      "word": "金晨男友",
+      "onboard_time": 1724133083,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1902311,
@@ -7145,6 +7153,14 @@
       "onboard_time": 1722613887,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1567791,
+      "num": 1567791,
+      "word": "张昊唯和三个人被拍到三次",
+      "onboard_time": 1724133203,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1566055,
@@ -9323,6 +9339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1259374,
+      "num": 980600,
+      "word": "金晨方声明",
+      "onboard_time": 1724132002,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1258949,
       "num": 1258949,
       "word": "王楚钦飞机上签名球拍",
@@ -11267,6 +11291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1052494,
+      "num": 1052494,
+      "word": "女流直播间被封",
+      "onboard_time": 1724128043,
+      "rank": 26,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 1052324,
       "num": 536806,
       "word": "跳槽被降工资了",
@@ -12385,6 +12417,14 @@
       "onboard_time": 1723960039,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 958174,
+      "num": 958174,
+      "word": "张大仙全球首吐",
+      "onboard_time": 1724133143,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 956935,
@@ -14913,14 +14953,6 @@
       "onboard_time": 1722471627,
       "rank": 42,
       "category": "体育,综艺"
-    },
-    {
-      "raw_hot": 761365,
-      "num": 761365,
-      "word": "女流直播间被封",
-      "onboard_time": 1724128043,
-      "rank": 26,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 761035,
@@ -22163,6 +22195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 450596,
+      "num": 450596,
+      "word": "王楚钦孙颖莎双双保持世界第一",
+      "onboard_time": 1724129480,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 449781,
       "num": 449781,
       "word": "冯彬铁饼银牌",
@@ -22193,14 +22233,6 @@
       "onboard_time": 1722554182,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 448788,
-      "num": 448788,
-      "word": "王楚钦孙颖莎双双保持世界第一",
-      "onboard_time": 1724129480,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 448564,
@@ -25313,6 +25345,14 @@
       "onboard_time": 1722501448,
       "rank": 49,
       "category": "电影,体育"
+    },
+    {
+      "raw_hot": 378620,
+      "num": 378620,
+      "word": "张昊唯说自己喜欢江疏影",
+      "onboard_time": 1724131761,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 378617,
@@ -28515,14 +28555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 325831,
-      "num": 278392,
-      "word": "金晨方声明",
-      "onboard_time": 1724132002,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 325759,
       "num": 325759,
       "word": "孙颖莎往那一站跟个小手办似的",
@@ -29451,6 +29483,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 312923,
+      "num": 312923,
+      "word": "易瘦体质潘玮柏上吃饭综艺了",
+      "onboard_time": 1724133500,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 312910,
       "num": 312910,
       "word": "樊振东 拼东东式打法",
@@ -29897,6 +29937,14 @@
       "onboard_time": 1722631213,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 307963,
+      "num": 307963,
+      "word": "晴天小猪作者去世",
+      "onboard_time": 1724133083,
+      "rank": 27,
+      "category": "动漫"
     },
     {
       "raw_hot": 307849,
@@ -31353,6 +31401,14 @@
       "onboard_time": 1723228035,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 291982,
+      "num": 291982,
+      "word": "谁懂魏哲鸣跑过去的这一瞬间",
+      "onboard_time": 1724132241,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 291954,
@@ -34675,6 +34731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257642,
+      "num": 257642,
+      "word": "葫芦岛建昌大部分地区电力通讯中断",
+      "onboard_time": 1724133321,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257602,
       "num": 236353,
       "word": "一杯奶茶咖啡因抵3杯美式",
@@ -35417,6 +35481,14 @@
       "onboard_time": 1723175542,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 250582,
+      "num": 250582,
+      "word": "黑神话悟空 晕3D",
+      "onboard_time": 1724133143,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 250360,
@@ -37235,6 +37307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 233121,
+      "num": 233121,
+      "word": "中式英语成海外爆梗",
+      "onboard_time": 1724130201,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 232957,
       "num": 232957,
       "word": "巩立姣拿3块奥运奖牌只上过1次领奖台",
@@ -37697,6 +37777,14 @@
       "onboard_time": 1722736282,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 229151,
+      "num": 229151,
+      "word": "金晨方辟谣与孙喆一恋情",
+      "onboard_time": 1724134041,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 229052,
@@ -38169,14 +38257,6 @@
       "onboard_time": 1724037800,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 226037,
-      "num": 226037,
-      "word": "中式英语成海外爆梗",
-      "onboard_time": 1724130201,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 226014,
@@ -39611,6 +39691,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 215012,
+      "num": 215012,
+      "word": "张大仙玩黑神话悟空玩晕了",
+      "onboard_time": 1724134222,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 214957,
       "num": 214957,
       "word": "萧敬腾来上海 上海下雨",
@@ -39937,6 +40025,14 @@
       "onboard_time": 1723029263,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212850,
+      "num": 212850,
+      "word": "陈飞宇庄达菲的cp感",
+      "onboard_time": 1724132490,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 212830,
@@ -41761,6 +41857,14 @@
       "onboard_time": 1722921867,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 203335,
+      "num": 998100,
+      "word": "建昌暴雨",
+      "onboard_time": 1724129843,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203317,
@@ -44587,6 +44691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190033,
+      "num": 190033,
+      "word": "王楠夫妇回应送金牌",
+      "onboard_time": 1724134940,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189985,
       "num": 189985,
       "word": "cpp 难用",
@@ -46425,6 +46537,14 @@
       "onboard_time": 1722805571,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177571,
+      "num": 177571,
+      "word": "黑神话悟空引发联名热潮",
+      "onboard_time": 1724134819,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 177545,
@@ -52043,6 +52163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115421,
+      "num": 222722,
+      "word": "异形吓坏小孩家长不能无视观影提醒",
+      "onboard_time": 1724133861,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 115379,
       "num": 288424,
       "word": "刘诗诗把笛子耍出长剑感",
@@ -52073,6 +52201,14 @@
       "onboard_time": 1722468923,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 115068,
+      "num": 1039530,
+      "word": "辽宁葫芦岛4个村通信中断",
+      "onboard_time": 1724133500,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115054,
@@ -53177,6 +53313,14 @@
       "onboard_time": 1723258220,
       "rank": 36,
       "category": "军事"
+    },
+    {
+      "raw_hot": 95362,
+      "num": 1016244,
+      "word": "教师开直播拍视频的边界在哪里",
+      "onboard_time": 1724133681,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95265,
@@ -54937,6 +55081,14 @@
       "onboard_time": 1723916355,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 69785,
+      "num": 970412,
+      "word": "华为阿维塔合资",
+      "onboard_time": 1724132060,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 69774,
@@ -56739,14 +56891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 51443,
-      "num": 162169,
-      "word": "华为阿维塔合资",
-      "onboard_time": 1724132060,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 51401,
       "num": 607741,
       "word": "玛雅方特等多家水乐园被曝水质脏差",
@@ -57313,6 +57457,14 @@
       "onboard_time": 1722686847,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 44975,
+      "num": 641064,
+      "word": "辽宁建昌全县停工停产",
+      "onboard_time": 1724134640,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44780,
@@ -59419,6 +59571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22422,
+      "num": 451348,
+      "word": "暑期档高开低走电影院被抛弃了吗",
+      "onboard_time": 1724135180,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 22285,
       "num": 122373,
       "word": "哈马斯新领导人是强硬派",
@@ -59912,6 +60072,14 @@
       "word": "遥感四十三号01组卫星发射成功",
       "onboard_time": 1723798583,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9526,
+      "num": 693838,
+      "word": "广州有我国最大的蚊子工厂",
+      "onboard_time": 1724135239,
+      "rank": 13,
       "category": "社会新闻"
     },
     {

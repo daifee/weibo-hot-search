@@ -1,6 +1,6 @@
 {
   "startTime": 1724084701164,
-  "endTime": 1724132211579,
+  "endTime": 1724135334254,
   "band_list": [
     {
       "raw_hot": 7427869,
@@ -19,8 +19,8 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 2131895,
-      "num": 2131895,
+      "raw_hot": 2322051,
+      "num": 2322051,
       "word": "以色列暴发疫情",
       "onboard_time": 1724128583,
       "rank": 28,
@@ -33,6 +33,14 @@
       "onboard_time": 1724119521,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1904104,
+      "num": 1904104,
+      "word": "金晨男友",
+      "onboard_time": 1724133083,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1801454,
@@ -49,6 +57,14 @@
       "onboard_time": 1724110697,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1567791,
+      "num": 1567791,
+      "word": "张昊唯和三个人被拍到三次",
+      "onboard_time": 1724133203,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1466610,
@@ -73,6 +89,14 @@
       "onboard_time": 1724125523,
       "rank": 4,
       "category": "游戏,互联网"
+    },
+    {
+      "raw_hot": 1259374,
+      "num": 980600,
+      "word": "金晨方声明",
+      "onboard_time": 1724132002,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 1218741,
@@ -107,12 +131,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1052494,
+      "num": 1052494,
+      "word": "女流直播间被封",
+      "onboard_time": 1724128043,
+      "rank": 26,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 1006875,
       "num": 1006875,
       "word": "冯禧去拍戏了",
       "onboard_time": 1724117238,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 958174,
+      "num": 958174,
+      "word": "张大仙全球首吐",
+      "onboard_time": 1724133143,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 951648,
@@ -153,14 +193,6 @@
       "onboard_time": 1724120000,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 761365,
-      "num": 761365,
-      "word": "女流直播间被封",
-      "onboard_time": 1724128043,
-      "rank": 26,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 747772,
@@ -379,8 +411,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 448788,
-      "num": 448788,
+      "raw_hot": 450596,
+      "num": 450596,
       "word": "王楚钦孙颖莎双双保持世界第一",
       "onboard_time": 1724129480,
       "rank": 21,
@@ -483,6 +515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 378620,
+      "num": 378620,
+      "word": "张昊唯说自己喜欢江疏影",
+      "onboard_time": 1724131761,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 373989,
       "num": 373989,
       "word": "网易云音乐故障真相",
@@ -555,20 +595,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 325831,
-      "num": 278392,
-      "word": "金晨方声明",
-      "onboard_time": 1724132002,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 315682,
       "num": 315682,
       "word": "美国一别墅被飓风刮倒漂在海面",
       "onboard_time": 1724122220,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312923,
+      "num": 312923,
+      "word": "易瘦体质潘玮柏上吃饭综艺了",
+      "onboard_time": 1724133500,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 307963,
+      "num": 307963,
+      "word": "晴天小猪作者去世",
+      "onboard_time": 1724133083,
+      "rank": 27,
+      "category": "动漫"
     },
     {
       "raw_hot": 307849,
@@ -609,6 +657,14 @@
       "onboard_time": 1724124141,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 291982,
+      "num": 291982,
+      "word": "谁懂魏哲鸣跑过去的这一瞬间",
+      "onboard_time": 1724132241,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 290668,
@@ -715,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 257642,
+      "num": 257642,
+      "word": "葫芦岛建昌大部分地区电力通讯中断",
+      "onboard_time": 1724133321,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254920,
       "num": 254920,
       "word": "网易云音乐补偿7天会员",
@@ -728,6 +792,14 @@
       "word": "直面天命",
       "onboard_time": 1724115860,
       "rank": 27,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 250582,
+      "num": 250582,
+      "word": "黑神话悟空 晕3D",
+      "onboard_time": 1724133143,
+      "rank": 31,
       "category": "游戏"
     },
     {
@@ -787,6 +859,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233121,
+      "num": 233121,
+      "word": "中式英语成海外爆梗",
+      "onboard_time": 1724130201,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 229151,
+      "num": 229151,
+      "word": "金晨方辟谣与孙喆一恋情",
+      "onboard_time": 1724134041,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228183,
       "num": 228183,
       "word": "迪丽热巴杂志购买人数",
@@ -801,14 +889,6 @@
       "onboard_time": 1724122641,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 226037,
-      "num": 226037,
-      "word": "中式英语成海外爆梗",
-      "onboard_time": 1724130201,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 223853,
@@ -859,6 +939,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215012,
+      "num": 215012,
+      "word": "张大仙玩黑神话悟空玩晕了",
+      "onboard_time": 1724134222,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 212850,
+      "num": 212850,
+      "word": "陈飞宇庄达菲的cp感",
+      "onboard_time": 1724132490,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212828,
       "num": 212828,
       "word": "黄松一审获刑七年",
@@ -899,12 +995,28 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 203335,
+      "num": 998100,
+      "word": "建昌暴雨",
+      "onboard_time": 1724129843,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202773,
       "num": 202773,
       "word": "张昊唯称被一个团伙盯上",
       "onboard_time": 1724057722,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202091,
+      "num": 202091,
+      "word": "A股",
+      "onboard_time": 1724096412,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 201947,
@@ -995,6 +1107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 190033,
+      "num": 190033,
+      "word": "王楠夫妇回应送金牌",
+      "onboard_time": 1724134940,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186733,
       "num": 186733,
       "word": "王心凌巡演2.0官宣",
@@ -1049,6 +1169,14 @@
       "onboard_time": 1724126482,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177571,
+      "num": 177571,
+      "word": "黑神话悟空引发联名热潮",
+      "onboard_time": 1724134819,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 176835,
@@ -1339,6 +1467,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115421,
+      "num": 222722,
+      "word": "异形吓坏小孩家长不能无视观影提醒",
+      "onboard_time": 1724133861,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 115068,
+      "num": 1039530,
+      "word": "辽宁葫芦岛4个村通信中断",
+      "onboard_time": 1724133500,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114958,
       "num": 114958,
       "word": "陈艺文 终于见到孩子了",
@@ -1435,6 +1579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 95362,
+      "num": 1016244,
+      "word": "教师开直播拍视频的边界在哪里",
+      "onboard_time": 1724133681,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90858,
       "num": 90858,
       "word": "古巨基晒儿子为其庆生视频",
@@ -1481,6 +1633,14 @@
       "onboard_time": 1724130261,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 69785,
+      "num": 970412,
+      "word": "华为阿维塔合资",
+      "onboard_time": 1724132060,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 67905,
@@ -1547,14 +1707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51443,
-      "num": 162169,
-      "word": "华为阿维塔合资",
-      "onboard_time": 1724132060,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 49807,
       "num": 1518767,
       "word": "中国空间站舷窗大片再上新",
@@ -1577,6 +1729,14 @@
       "onboard_time": 1724088374,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44975,
+      "num": 641064,
+      "word": "辽宁建昌全县停工停产",
+      "onboard_time": 1724134640,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44300,
@@ -1609,14 +1769,6 @@
       "onboard_time": 1724122821,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38103,
-      "num": 38103,
-      "word": "A股",
-      "onboard_time": 1724096412,
-      "rank": 19,
-      "category": "财经"
     },
     {
       "raw_hot": 35576,
@@ -1691,6 +1843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22422,
+      "num": 451348,
+      "word": "暑期档高开低走电影院被抛弃了吗",
+      "onboard_time": 1724135180,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 21824,
       "num": 549063,
       "word": "法律咨询公司盗用律所名号招揽业务",
@@ -1712,6 +1872,14 @@
       "word": "韩男高试图杀害不愿与其交往女生",
       "onboard_time": 1724121019,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9526,
+      "num": 693838,
+      "word": "广州有我国最大的蚊子工厂",
+      "onboard_time": 1724135239,
+      "rank": 13,
       "category": "社会新闻"
     }
   ],
