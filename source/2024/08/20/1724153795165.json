@@ -1,0 +1,410 @@
+{
+  "runTime": 1724153795165,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1443119,
+        "num": 1443119,
+        "word": "黑神话悟空",
+        "onboard_time": 1724108835,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1431738,
+        "num": 1431738,
+        "word": "中国体育代表团总结大会举行",
+        "onboard_time": 1724143401,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70615,
+        "num": 1248396,
+        "word": "大自然的调色盘一眼心动",
+        "onboard_time": 1724144780,
+        "rank": 2,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 1236529,
+        "num": 1236529,
+        "word": "黑神话公司员工疯狂被挖",
+        "onboard_time": 1724150661,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 935466,
+        "num": 935466,
+        "word": "阳光玫瑰为什么失宠了",
+        "onboard_time": 1724150002,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 795948,
+        "num": 795948,
+        "word": "表彰大会路透",
+        "onboard_time": 1724135659,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 745900,
+        "num": 793876,
+        "word": "黄子韬直播说脏话",
+        "onboard_time": 1724143461,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 667353,
+        "num": 791898,
+        "word": "张淼怡的评论区",
+        "onboard_time": 1724152220,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115232,
+        "num": 789253,
+        "word": "被解雇中国籍播音员已在NHK工作22年",
+        "onboard_time": 1724152880,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12840,
+        "num": 786897,
+        "word": "郑钦文说体育精神是挑战最好的自己",
+        "onboard_time": 1724153721,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2431274,
+        "num": 784540,
+        "word": "王楚钦穿正装太帅了",
+        "onboard_time": 1724152280,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1143259,
+        "num": 781819,
+        "word": "手机太贵不敢偷结果偷了块28万的表",
+        "onboard_time": 1724145681,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 932316,
+        "num": 779368,
+        "word": "张颖颖 汪小菲",
+        "onboard_time": 1724142681,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 849091,
+        "num": 777935,
+        "word": "黑神话梗图",
+        "onboard_time": 1724147782,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 775943,
+        "num": 775943,
+        "word": "田中敦子去世",
+        "onboard_time": 1724150661,
+        "rank": 14,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 609371,
+        "num": 609371,
+        "word": "四六级成绩",
+        "onboard_time": 1724148440,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 518499,
+        "num": 518499,
+        "word": "29岁女子吃素半年吃出中重度脂肪肝",
+        "onboard_time": 1724137821,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376890,
+        "num": 464591,
+        "word": "陈赫说玩不到黑悟空好难受",
+        "onboard_time": 1724146942,
+        "rank": 17,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 357313,
+        "num": 443424,
+        "word": "李纯说结不结婚得看马頔",
+        "onboard_time": 1724150960,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346248,
+        "num": 432737,
+        "word": "蔡徐坤代言AVIA",
+        "onboard_time": 1724152521,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429171,
+        "num": 429171,
+        "word": "请3天年假中秋可休8天",
+        "onboard_time": 1724145681,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139251,
+        "num": 428610,
+        "word": "马龙说身后是强大的祖国",
+        "onboard_time": 1724152880,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 925989,
+        "num": 424773,
+        "word": "由于我整个孕期不停的跳舞",
+        "onboard_time": 1724148141,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 721067,
+        "num": 422510,
+        "word": "张颖颖连发三条微博回应张兰",
+        "onboard_time": 1724147602,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 718091,
+        "num": 419810,
+        "word": "真的很讨厌办公室的奶茶文化",
+        "onboard_time": 1724146581,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 457380,
+        "num": 417813,
+        "word": "孙颖莎好像和衣服鞋子不太熟",
+        "onboard_time": 1724153781,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 417185,
+        "num": 417185,
+        "word": "孙颖莎轻轻萌晕所有人",
+        "onboard_time": 1724142382,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270716,
+        "num": 360008,
+        "word": "时代少年团夏日记忆",
+        "onboard_time": 1724152040,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243168,
+        "num": 347756,
+        "word": "导演胡玫连发四条张淼怡剧照",
+        "onboard_time": 1724153362,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225307,
+        "num": 347619,
+        "word": "张昊唯和三个人被拍到三次",
+        "onboard_time": 1724133203,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347600,
+        "num": 347600,
+        "word": "郑钦文现身表彰大会",
+        "onboard_time": 1724146461,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316699,
+        "num": 316699,
+        "word": "孙颖莎换鞋了",
+        "onboard_time": 1724144061,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304499,
+        "num": 304499,
+        "word": "张颖颖 三年了还惹我",
+        "onboard_time": 1724147181,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44147,
+        "num": 288514,
+        "word": "极氪25款新品强在哪",
+        "onboard_time": 1724152521,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 280716,
+        "num": 280716,
+        "word": "老人泡澡猝死儿子质疑与吸氢有关",
+        "onboard_time": 1724144422,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271017,
+        "num": 271017,
+        "word": "二郎神 张翰",
+        "onboard_time": 1724123840,
+        "rank": 35,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 248885,
+        "num": 248885,
+        "word": "华裔女子遭男友虐杀喉咙卡高尔夫球",
+        "onboard_time": 1724144422,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248465,
+        "num": 248465,
+        "word": "王楚钦肖指导总结大会合照",
+        "onboard_time": 1724152280,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247008,
+        "num": 247008,
+        "word": "原来在事业单位的电话不能乱接",
+        "onboard_time": 1724148920,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218055,
+        "num": 218055,
+        "word": "柳舟记反转",
+        "onboard_time": 1724150119,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217709,
+        "num": 217709,
+        "word": "广西北海多人赶海遭雷击",
+        "onboard_time": 1724145681,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215538,
+        "num": 215538,
+        "word": "爱犬被爸爸害死",
+        "onboard_time": 1724151920,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212441,
+        "num": 212441,
+        "word": "覃海洋晒表彰大会打卡照",
+        "onboard_time": 1724153002,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209474,
+        "num": 209474,
+        "word": "家昱户筱密逃录制路透",
+        "onboard_time": 1724147181,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205824,
+        "num": 205824,
+        "word": "拜登告别演说数次落泪",
+        "onboard_time": 1724149761,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 62259,
+        "num": 203798,
+        "word": "支架出厂价5万代理商卖给医院12万",
+        "onboard_time": 1724151621,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203222,
+        "num": 203222,
+        "word": "原来这才是结婚重要性排序",
+        "onboard_time": 1724143940,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203138,
+        "num": 203138,
+        "word": "黑神话悟空回应闪退问题",
+        "onboard_time": 1724144601,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199195,
+        "num": 199195,
+        "word": "四六级成绩什么时候出",
+        "onboard_time": 1724152341,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 197986,
+        "num": 197986,
+        "word": "孙颖莎被女排姑娘拉着合影",
+        "onboard_time": 1724146340,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见斐济总理兰布卡#"
+    }
+  }
+}

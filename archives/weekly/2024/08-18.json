@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724152758156,
+  "endTime": 1724153795165,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2431274,
+      "num": 784540,
+      "word": "王楚钦穿正装太帅了",
+      "onboard_time": 1724152280,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2425726,
       "num": 2425726,
       "word": "女教师遭网课爆破后猝死一案已宣判",
@@ -312,14 +320,6 @@
       "word": "孙颖莎轻轻萌晕所有人",
       "onboard_time": 1724142382,
       "rank": 13,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1831478,
-      "num": 592595,
-      "word": "王楚钦穿正装太帅了",
-      "onboard_time": 1724152280,
-      "rank": 10,
       "category": "体育"
     },
     {
@@ -523,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1431738,
+      "num": 1431738,
+      "word": "中国体育代表团总结大会举行",
+      "onboard_time": 1724143401,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1428056,
       "num": 1428056,
       "word": "黄子韬直播说脏话",
@@ -681,6 +689,14 @@
       "onboard_time": 1724132002,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1236529,
+      "num": 1236529,
+      "word": "黑神话公司员工疯狂被挖",
+      "onboard_time": 1724150661,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 1229909,
@@ -843,14 +859,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 1041491,
-      "num": 1041491,
-      "word": "中国体育代表团总结大会举行",
-      "onboard_time": 1724143401,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1040270,
       "num": 1040270,
       "word": "王楚钦看了都一愣",
@@ -924,7 +932,7 @@
     },
     {
       "raw_hot": 1007928,
-      "num": 619319,
+      "num": 777935,
       "word": "黑神话梗图",
       "onboard_time": 1724147782,
       "rank": 13,
@@ -1033,6 +1041,14 @@
       "onboard_time": 1723964481,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 935466,
+      "num": 935466,
+      "word": "阳光玫瑰为什么失宠了",
+      "onboard_time": 1724150002,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 932294,
@@ -1275,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 775943,
+      "num": 775943,
+      "word": "田中敦子去世",
+      "onboard_time": 1724150661,
+      "rank": 5,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 773356,
       "num": 1161417,
       "word": "26岁程潇过着梦想生活",
@@ -1353,14 +1377,6 @@
       "onboard_time": 1724022256,
       "rank": 30,
       "category": "国内时政,社会新闻"
-    },
-    {
-      "raw_hot": 730616,
-      "num": 730616,
-      "word": "田中敦子去世",
-      "onboard_time": 1724150661,
-      "rank": 5,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 730566,
@@ -1507,14 +1523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 671973,
-      "num": 507713,
-      "word": "黑神话公司员工疯狂被挖",
-      "onboard_time": 1724150661,
-      "rank": 16,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 671059,
       "num": 496541,
       "word": "陈梦坦言遭质疑后曾不想再上赛场",
@@ -1537,6 +1545,14 @@
       "onboard_time": 1723907002,
       "rank": 20,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 667353,
+      "num": 791898,
+      "word": "张淼怡的评论区",
+      "onboard_time": 1724152220,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 664426,
@@ -2235,6 +2251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 457380,
+      "num": 417813,
+      "word": "孙颖莎好像和衣服鞋子不太熟",
+      "onboard_time": 1724153781,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 457148,
       "num": 298380,
       "word": "桃李面包怎么卖不动了",
@@ -2257,14 +2281,6 @@
       "onboard_time": 1723947858,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 451129,
-      "num": 451129,
-      "word": "阳光玫瑰为什么失宠了",
-      "onboard_time": 1724150002,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 450596,
@@ -2755,6 +2771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 357313,
+      "num": 448155,
+      "word": "李纯说结不结婚得看马頔",
+      "onboard_time": 1724150960,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 355110,
       "num": 512134,
       "word": "台湾海峡海上巡航执法行动",
@@ -2843,12 +2867,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347600,
+      "num": 533524,
+      "word": "郑钦文现身表彰大会",
+      "onboard_time": 1724146461,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 347347,
       "num": 347347,
       "word": "樊振东低谷时看足球赛激励自己",
       "onboard_time": 1723995560,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 346248,
+      "num": 432737,
+      "word": "蔡徐坤代言AVIA",
+      "onboard_time": 1724152521,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 343380,
@@ -2897,14 +2937,6 @@
       "onboard_time": 1724078061,
       "rank": 28,
       "category": "电影,体育"
-    },
-    {
-      "raw_hot": 337179,
-      "num": 499018,
-      "word": "张淼怡的评论区",
-      "onboard_time": 1724152220,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 336485,
@@ -3443,14 +3475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 282886,
-      "num": 448155,
-      "word": "李纯说结不结婚得看马頔",
-      "onboard_time": 1724150960,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 282657,
       "num": 282657,
       "word": "黑神话每小时开发成本至少1500万元",
@@ -3553,14 +3577,6 @@
       "onboard_time": 1724138662,
       "rank": 28,
       "category": "作品衍生,艺人"
-    },
-    {
-      "raw_hot": 275338,
-      "num": 533524,
-      "word": "郑钦文现身表彰大会",
-      "onboard_time": 1724146461,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 274601,
@@ -3891,6 +3907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 248465,
+      "num": 248465,
+      "word": "王楚钦肖指导总结大会合照",
+      "onboard_time": 1724152280,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 247807,
       "num": 221778,
       "word": "长期缺睡眠有哪些表现",
@@ -3913,6 +3937,14 @@
       "onboard_time": 1724145321,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 247008,
+      "num": 247008,
+      "word": "原来在事业单位的电话不能乱接",
+      "onboard_time": 1724148920,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 246440,
@@ -3953,6 +3985,14 @@
       "onboard_time": 1723897040,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243168,
+      "num": 347756,
+      "word": "导演胡玫连发四条张淼怡剧照",
+      "onboard_time": 1724153362,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 242777,
@@ -4057,14 +4097,6 @@
       "onboard_time": 1724124741,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 237052,
-      "num": 237052,
-      "word": "原来在事业单位的电话不能乱接",
-      "onboard_time": 1724148920,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 235679,
@@ -4371,6 +4403,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 218055,
+      "num": 218055,
+      "word": "柳舟记反转",
+      "onboard_time": 1724150119,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 217709,
+      "num": 1027058,
+      "word": "广西北海多人赶海遭雷击",
+      "onboard_time": 1724145681,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217415,
       "num": 217415,
       "word": "jisoo泡泡",
@@ -4393,14 +4441,6 @@
       "onboard_time": 1724056281,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216993,
-      "num": 216993,
-      "word": "柳舟记反转",
-      "onboard_time": 1724150119,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 216965,
@@ -4441,6 +4481,14 @@
       "onboard_time": 1723957219,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215538,
+      "num": 215538,
+      "word": "爱犬被爸爸害死",
+      "onboard_time": 1724151920,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 214360,
@@ -4499,14 +4547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 212728,
-      "num": 1027058,
-      "word": "广西北海多人赶海遭雷击",
-      "onboard_time": 1724145681,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 212608,
       "num": 212608,
       "word": "英国将把极端厌女视为恐怖主义",
@@ -4521,6 +4561,14 @@
       "onboard_time": 1723908442,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 212441,
+      "num": 212441,
+      "word": "覃海洋晒表彰大会打卡照",
+      "onboard_time": 1724153002,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 212370,
@@ -4961,14 +5009,6 @@
       "onboard_time": 1723968019,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 198945,
-      "num": 198945,
-      "word": "蔡徐坤代言AVIA",
-      "onboard_time": 1724152521,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 198616,
@@ -6715,6 +6755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 139251,
+      "num": 428610,
+      "word": "马龙说身后是强大的祖国",
+      "onboard_time": 1724152880,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139119,
       "num": 139119,
       "word": "金晨黄色连衣裙",
@@ -7096,6 +7144,14 @@
       "word": "前7个月超1725万人次外国人来华",
       "onboard_time": 1724052921,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115232,
+      "num": 789253,
+      "word": "被解雇中国籍播音员已在NHK工作22年",
+      "onboard_time": 1724152880,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -7611,6 +7667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62259,
+      "num": 605244,
+      "word": "支架出厂价5万代理商卖给医院12万",
+      "onboard_time": 1724151621,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61385,
       "num": 61385,
       "word": "如何看待毛坯人生与精装朋友圈",
@@ -7852,7 +7916,7 @@
     },
     {
       "raw_hot": 49359,
-      "num": 206700,
+      "num": 288514,
       "word": "极氪25款新品强在哪",
       "onboard_time": 1724152521,
       "rank": 43,
@@ -8051,14 +8115,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 32803,
-      "num": 605244,
-      "word": "支架出厂价5万代理商卖给医院12万",
-      "onboard_time": 1724151621,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 32444,
       "num": 36145,
       "word": "陶勇说一天最多做过86台手术",
@@ -8240,6 +8296,14 @@
       "word": "看塞罕坝荒漠沙地变千里松林",
       "onboard_time": 1723900521,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12840,
+      "num": 786897,
+      "word": "郑钦文说体育精神是挑战最好的自己",
+      "onboard_time": 1724153721,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
