@@ -1,6 +1,6 @@
 {
   "startTime": 1724171081349,
-  "endTime": 1724188853594,
+  "endTime": 1724189702590,
   "band_list": [
     {
       "raw_hot": 1886523,
@@ -523,8 +523,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 27877,
-      "num": 27877,
+      "raw_hot": 30296,
+      "num": 30296,
       "word": "张颖颖让张兰放过去世的母亲",
       "onboard_time": 1724184911,
       "rank": 49,
@@ -537,6 +537,14 @@
       "onboard_time": 1724175494,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 20823,
+      "num": 28998,
+      "word": "迪丽热巴首位芭莎金九90花",
+      "onboard_time": 1724189591,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 17721,
