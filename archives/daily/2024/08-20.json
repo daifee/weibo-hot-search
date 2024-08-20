@@ -1,6 +1,6 @@
 {
   "startTime": 1724084701164,
-  "endTime": 1724143154012,
+  "endTime": 1724145779657,
   "band_list": [
     {
       "raw_hot": 7427869,
@@ -67,6 +67,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2042854,
+      "num": 961464,
+      "word": "张颖颖 汪小菲",
+      "onboard_time": 1724142681,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1904104,
       "num": 1904104,
       "word": "金晨男友",
@@ -83,20 +91,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1796336,
+      "num": 1796336,
+      "word": "孙颖莎轻轻萌晕所有人",
+      "onboard_time": 1724142382,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1643820,
       "num": 1643820,
       "word": "46岁李维嘉洁癖严重",
       "onboard_time": 1724110697,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1607396,
-      "num": 820809,
-      "word": "张颖颖 汪小菲",
-      "onboard_time": 1724142681,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1567791,
@@ -129,6 +137,14 @@
       "onboard_time": 1724125523,
       "rank": 4,
       "category": "游戏,互联网"
+    },
+    {
+      "raw_hot": 1324904,
+      "num": 1324904,
+      "word": "黄子韬直播说脏话",
+      "onboard_time": 1724143461,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1259374,
@@ -185,6 +201,14 @@
       "onboard_time": 1724060422,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1052930,
+      "num": 1052930,
+      "word": "孙颖莎换鞋了",
+      "onboard_time": 1724144061,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1052494,
@@ -267,11 +291,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 757079,
-      "num": 757079,
-      "word": "孙颖莎轻轻萌晕所有人",
-      "onboard_time": 1724142382,
-      "rank": 13,
+      "raw_hot": 750252,
+      "num": 750252,
+      "word": "中国体育代表团总结大会举行",
+      "onboard_time": 1724143401,
+      "rank": 15,
       "category": "体育"
     },
     {
@@ -403,8 +427,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 581345,
+      "num": 523758,
+      "word": "张兰说不认识张颖颖",
+      "onboard_time": 1724142321,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 581218,
-      "num": 389195,
+      "num": 554884,
       "word": "张颖颖说张兰一家谁沾上谁倒霉",
       "onboard_time": 1724137220,
       "rank": 20,
@@ -507,14 +539,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 523758,
-      "num": 523758,
-      "word": "张兰说不认识张颖颖",
-      "onboard_time": 1724142321,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 520923,
       "num": 327460,
       "word": "公务员考试 信息差",
@@ -529,6 +553,14 @@
       "onboard_time": 1724074521,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 516460,
+      "num": 516460,
+      "word": "华裔女子遭男友虐杀喉咙卡高尔夫球",
+      "onboard_time": 1724144422,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 493258,
@@ -601,6 +633,14 @@
       "onboard_time": 1724126121,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 417417,
+      "num": 599473,
+      "word": "又一段张昊唯微信语音曝光",
+      "onboard_time": 1724141240,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 403357,
@@ -691,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 364068,
+      "num": 364068,
+      "word": "手机太贵不敢偷结果偷了块28万的表",
+      "onboard_time": 1724145681,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 358222,
       "num": 358222,
       "word": "小黑盒崩了",
@@ -731,6 +779,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 337204,
+      "num": 337204,
+      "word": "黑神话悟空回应闪退问题",
+      "onboard_time": 1724144601,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 336485,
       "num": 998100,
       "word": "建昌暴雨",
@@ -761,6 +817,14 @@
       "onboard_time": 1724133500,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 318131,
+      "num": 318131,
+      "word": "原来这才是结婚重要性排序",
+      "onboard_time": 1724143940,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 317642,
@@ -947,11 +1011,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 272092,
+      "num": 840443,
+      "word": "为什么朋友过得好我会不开心",
+      "onboard_time": 1724143041,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270203,
       "num": 270203,
       "word": "专家称黑神话悟空将撼动中国游戏版图",
       "onboard_time": 1724127204,
       "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 269036,
+      "num": 269036,
+      "word": "黑神话创始团队成员全部来自腾讯",
+      "onboard_time": 1724142441,
+      "rank": 40,
       "category": "游戏"
     },
     {
@@ -979,8 +1059,32 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258707,
+      "num": 258707,
+      "word": "狐狸精给萨摩耶都迷成智障了",
+      "onboard_time": 1724142622,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 257947,
+      "num": 257947,
+      "word": "黑神话发售网友求低价闲置PS5",
+      "onboard_time": 1724144061,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 255564,
+      "num": 255564,
+      "word": "孙颖莎又成打卡景点了",
+      "onboard_time": 1724143281,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 255143,
-      "num": 330752,
+      "num": 415532,
       "word": "檀健次 好小众的癖好赛道",
       "onboard_time": 1724139323,
       "rank": 27,
@@ -1027,6 +1131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 246233,
+      "num": 246233,
+      "word": "孙杨将冲击200自400自奖牌",
+      "onboard_time": 1724145441,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 242266,
       "num": 242266,
       "word": "黑神话悟空创Steam下载带宽纪录",
@@ -1051,12 +1163,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 238547,
-      "num": 238547,
-      "word": "狐狸精给萨摩耶都迷成智障了",
-      "onboard_time": 1724142622,
-      "rank": 38,
-      "category": "幽默"
+      "raw_hot": 239851,
+      "num": 239851,
+      "word": "张雨霏抓着一把奖牌",
+      "onboard_time": 1724143221,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 237721,
@@ -1065,14 +1177,6 @@
       "onboard_time": 1724124741,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 237129,
-      "num": 840443,
-      "word": "为什么朋友过得好我会不开心",
-      "onboard_time": 1724143041,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234741,
@@ -1097,14 +1201,6 @@
       "onboard_time": 1724140823,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 229574,
-      "num": 229574,
-      "word": "黑神话创始团队成员全部来自腾讯",
-      "onboard_time": 1724142441,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 229151,
@@ -1219,12 +1315,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 214003,
-      "num": 330512,
-      "word": "又一段张昊唯微信语音曝光",
-      "onboard_time": 1724141240,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 216103,
+      "num": 216103,
+      "word": "一只猴子搅动A股",
+      "onboard_time": 1724143940,
+      "rank": 44,
+      "category": "游戏,财经"
     },
     {
       "raw_hot": 212850,
@@ -1291,6 +1387,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 203275,
+      "num": 203275,
+      "word": "请3天年假中秋可休8天",
+      "onboard_time": 1724145681,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202773,
       "num": 202773,
       "word": "张昊唯称被一个团伙盯上",
@@ -1329,6 +1433,14 @@
       "onboard_time": 1724127263,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 200393,
+      "num": 200393,
+      "word": "张博恒正脸路透呢",
+      "onboard_time": 1724145321,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 200026,
@@ -1723,6 +1835,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 150361,
+      "num": 973995,
+      "word": "老人泡澡猝死儿子质疑与吸氢有关",
+      "onboard_time": 1724144422,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148027,
       "num": 148027,
       "word": "武艺 第一个吃榴莲的人到底怎么想的",
@@ -1864,6 +1984,14 @@
       "word": "一个英国人的中国大厂历险记",
       "onboard_time": 1724122940,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123488,
+      "num": 1508744,
+      "word": "大自然的调色盘一眼心动",
+      "onboard_time": 1724144780,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2051,6 +2179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 62899,
+      "num": 1000130,
+      "word": "辽宁多地大暴雨",
+      "onboard_time": 1724145381,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62499,
       "num": 2179572,
       "word": "2024中国丰收图景",
@@ -2153,6 +2289,14 @@
       "onboard_time": 1724135780,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 49043,
+      "num": 751577,
+      "word": "男子洞穴投药抓了60多只穴胫步甲",
+      "onboard_time": 1724145681,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47724,
@@ -2321,6 +2465,14 @@
       "onboard_time": 1724135239,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9298,
+      "num": 1010531,
+      "word": "广西北海多人赶海遭雷击",
+      "onboard_time": 1724145681,
+      "rank": 7,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -2332,6 +2484,9 @@
     },
     {
       "word": "#如何推动中越命运共同体建设走深走实#"
+    },
+    {
+      "word": "#习近平会见斐济总理兰布卡#"
     }
   ]
 }
