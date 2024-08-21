@@ -1,10 +1,10 @@
 {
   "startTime": 1724171081349,
-  "endTime": 1724251081560,
+  "endTime": 1724253681031,
   "band_list": [
     {
       "raw_hot": 2808899,
-      "num": 453883,
+      "num": 550205,
       "word": "印度16岁女孩乘公交遭司机等5人轮奸",
       "onboard_time": 1724245641,
       "rank": 10,
@@ -129,6 +129,14 @@
       "onboard_time": 1724223440,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1410026,
+      "num": 293294,
+      "word": "原来鲨鱼夹有这么多用法",
+      "onboard_time": 1724248822,
+      "rank": 24,
+      "category": "科学科普"
     },
     {
       "raw_hot": 1403522,
@@ -291,6 +299,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 934205,
+      "num": 934205,
+      "word": "7岁女孩用防晒喷雾后接近白肺",
+      "onboard_time": 1724250741,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 929309,
       "num": 929309,
       "word": "谷爱凌正面刚黑粉",
@@ -337,6 +353,14 @@
       "onboard_time": 1724239339,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 850349,
+      "num": 850349,
+      "word": "为老母1万6转院费三个儿子吵翻",
+      "onboard_time": 1724250263,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 845870,
@@ -563,12 +587,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 567780,
+      "num": 567780,
+      "word": "河北姑娘孙颖莎回家",
+      "onboard_time": 1724250381,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 565490,
       "num": 565490,
       "word": "BLG对战TES",
       "onboard_time": 1724233580,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 547242,
+      "num": 547242,
+      "word": "给储户赋红码被处分女官员任新职",
+      "onboard_time": 1724251820,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 540907,
@@ -617,14 +657,6 @@
       "onboard_time": 1724230821,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 520132,
-      "num": 293294,
-      "word": "原来鲨鱼夹有这么多用法",
-      "onboard_time": 1724248822,
-      "rank": 24,
-      "category": "科学科普"
     },
     {
       "raw_hot": 517306,
@@ -1011,20 +1043,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 328592,
-      "num": 328592,
-      "word": "7岁女孩用防晒喷雾后接近白肺",
-      "onboard_time": 1724250741,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 323920,
       "num": 323920,
       "word": "王楚钦谈新周期目标",
       "onboard_time": 1724242520,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 323758,
+      "num": 323758,
+      "word": "宋亚轩 准备中",
+      "onboard_time": 1724251641,
+      "rank": 17,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 320980,
@@ -1211,6 +1243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 268773,
+      "num": 374300,
+      "word": "中铁大桥局回应网传硕士工资2200元",
+      "onboard_time": 1724248700,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268676,
       "num": 634142,
       "word": "生父与情人打死3岁女童案今日开庭",
@@ -1299,6 +1339,14 @@
       "category": "电竞,游戏"
     },
     {
+      "raw_hot": 253487,
+      "num": 253487,
+      "word": "乘客错过高铁退票被拒后起诉",
+      "onboard_time": 1724249722,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253045,
       "num": 320497,
       "word": "王俊凯 周正这就出发了",
@@ -1344,14 +1392,6 @@
       "word": "张雨霏郑钦文合照",
       "onboard_time": 1724164102,
       "rank": 26,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 248082,
-      "num": 248082,
-      "word": "河北姑娘孙颖莎回家",
-      "onboard_time": 1724250381,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -1435,6 +1475,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 238370,
+      "num": 238370,
+      "word": "武僧以后不会轻易跟观众互动了",
+      "onboard_time": 1724248162,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 236979,
       "num": 236979,
       "word": "KSG对战狼队",
@@ -1449,6 +1497,14 @@
       "onboard_time": 1724231120,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 235330,
+      "num": 235330,
+      "word": "王楚钦说没有适应奥运三项的量",
+      "onboard_time": 1724252361,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 235122,
@@ -1472,6 +1528,14 @@
       "word": "山东一女子摸狗后喜中大奖",
       "onboard_time": 1724230460,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232206,
+      "num": 232206,
+      "word": "2岁女童失踪8天家属悬赏20万寻人",
+      "onboard_time": 1724249841,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1563,6 +1627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 224478,
+      "num": 224478,
+      "word": "周鸿祎说黑神话爆火就像国足进世界杯",
+      "onboard_time": 1724251641,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 223723,
       "num": 223723,
       "word": "张颖颖连发三条微博回应张兰",
@@ -1643,14 +1715,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 215776,
-      "num": 374300,
-      "word": "中铁大桥局回应网传硕士工资2200元",
-      "onboard_time": 1724248700,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215688,
       "num": 215688,
       "word": "山西文旅将发布黑神话旅游路线",
@@ -1673,6 +1737,14 @@
       "onboard_time": 1724223020,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214240,
+      "num": 214240,
+      "word": "女儿毛衣洗缩水爸爸认真撑大",
+      "onboard_time": 1724251221,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 213964,
@@ -1739,22 +1811,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 206707,
-      "num": 206707,
-      "word": "乘客错过高铁退票被拒后起诉",
-      "onboard_time": 1724249722,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206658,
-      "num": 206658,
-      "word": "武僧以后不会轻易跟观众互动了",
-      "onboard_time": 1724248162,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 206362,
       "num": 316738,
       "word": "电影刺猬卡不住的全国路演",
@@ -1772,7 +1828,7 @@
     },
     {
       "raw_hot": 205874,
-      "num": 205874,
+      "num": 241401,
       "word": "肖战和武侠风有多适配",
       "onboard_time": 1724251041,
       "rank": 41,
@@ -1817,6 +1873,14 @@
       "onboard_time": 1724222720,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 199867,
+      "num": 199867,
+      "word": "土象星座的专属金句语录",
+      "onboard_time": 1724251580,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 199291,
@@ -1881,6 +1945,14 @@
       "onboard_time": 1724172857,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195442,
+      "num": 246111,
+      "word": "严浩翔 小惊喜",
+      "onboard_time": 1724250921,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 194848,
@@ -2019,10 +2091,10 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 185285,
-      "num": 221745,
-      "word": "严浩翔 小惊喜",
-      "onboard_time": 1724250921,
+      "raw_hot": 185721,
+      "num": 218723,
+      "word": "宋亚轩染发",
+      "onboard_time": 1724253501,
       "rank": 34,
       "category": "作品衍生"
     },
@@ -2291,6 +2363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169468,
+      "num": 169468,
+      "word": "水瓶座对感情太挑剔了",
+      "onboard_time": 1724252961,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 168918,
       "num": 168918,
       "word": "中国AI推动者胡国平",
@@ -2371,12 +2451,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162939,
+      "num": 162939,
+      "word": "女子退房房东标出近百处问题拒退押金",
+      "onboard_time": 1724247981,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161928,
       "num": 161928,
       "word": "土豆片可以消很多结节",
       "onboard_time": 1724246421,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 161199,
+      "num": 161199,
+      "word": "周深 罚抄",
+      "onboard_time": 1724253380,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 160926,
@@ -2435,14 +2531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 158443,
-      "num": 158443,
-      "word": "2岁女童失踪8天家属悬赏20万寻人",
-      "onboard_time": 1724249841,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157267,
       "num": 250088,
       "word": "韩剧的偶像设定是34岁的未婚",
@@ -2465,14 +2553,6 @@
       "onboard_time": 1724201959,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 156532,
-      "num": 434103,
-      "word": "为老母1万6转院费三个儿子吵翻",
-      "onboard_time": 1724250263,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156056,
@@ -2513,6 +2593,14 @@
       "onboard_time": 1724218820,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 151228,
+      "num": 151228,
+      "word": "李娟访谈",
+      "onboard_time": 1724252720,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 150468,
@@ -2691,6 +2779,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 124277,
+      "num": 239678,
+      "word": "这就是中国奥运天团的精气神",
+      "onboard_time": 1724252240,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119996,
       "num": 547036,
       "word": "拼多多我的网络菜市场",
@@ -2785,6 +2881,14 @@
       "onboard_time": 1724209819,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 84535,
+      "num": 265144,
+      "word": "村民举报原村长违法占地建5000平别墅",
+      "onboard_time": 1724252420,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 81103,
@@ -2913,6 +3017,14 @@
       "onboard_time": 1724195896,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52259,
+      "num": 551679,
+      "word": "故宫回应怎么封黄牛",
+      "onboard_time": 1724252420,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51374,
@@ -3052,7 +3164,7 @@
     },
     {
       "raw_hot": 36644,
-      "num": 846372,
+      "num": 933043,
       "word": "中非现代化之路",
       "onboard_time": 1724247620,
       "rank": 2,
