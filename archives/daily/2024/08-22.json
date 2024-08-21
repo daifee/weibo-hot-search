@@ -1,6 +1,6 @@
 {
   "startTime": 1724257594927,
-  "endTime": 1724265628189,
+  "endTime": 1724267901903,
   "band_list": [
     {
       "raw_hot": 1101298,
@@ -443,6 +443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 53583,
+      "num": 53583,
+      "word": "单依纯比陈立农更像陈立农",
+      "onboard_time": 1724265193,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 47345,
       "num": 58121,
       "word": "刺猬路演",
@@ -451,12 +459,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 42709,
-      "num": 42709,
-      "word": "单依纯比陈立农更像陈立农",
-      "onboard_time": 1724265193,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 43236,
+      "num": 43236,
+      "word": "中国猴子硬控海内外",
+      "onboard_time": 1724265792,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 41597,
@@ -483,7 +491,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 31828,
+      "raw_hot": 33057,
       "num": 35655,
       "word": "男子救3童牺牲家乡给予百万慰问金",
       "onboard_time": 1724264772,
