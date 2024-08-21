@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724196892122,
+  "endTime": 1724203511400,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -539,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1562403,
+      "num": 737384,
+      "word": "许光汉入伍",
+      "onboard_time": 1724198000,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1552910,
       "num": 1552910,
       "word": "银行人正在集体出走",
@@ -683,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1383864,
+      "num": 309509,
+      "word": "消费降级后大家首先不买的是什么",
+      "onboard_time": 1724198959,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1377336,
       "num": 1377336,
       "word": "网友向雷军举报王腾上班摸鱼",
@@ -713,6 +729,14 @@
       "onboard_time": 1724036839,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1345612,
+      "num": 1345612,
+      "word": "黑神话悟空结局",
+      "onboard_time": 1724173216,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 1334400,
@@ -761,14 +785,6 @@
       "onboard_time": 1723909042,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1267186,
-      "num": 1267186,
-      "word": "黑神话悟空结局",
-      "onboard_time": 1724173216,
-      "rank": 16,
-      "category": "游戏"
     },
     {
       "raw_hot": 1266169,
@@ -873,6 +889,14 @@
       "onboard_time": 1724165903,
       "rank": 33,
       "category": "旅游,游戏"
+    },
+    {
+      "raw_hot": 1149400,
+      "num": 1037015,
+      "word": "日本男子搬家发现失踪10年母亲遗骸",
+      "onboard_time": 1724196376,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1144631,
@@ -1017,6 +1041,14 @@
       "onboard_time": 1723978040,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1033804,
+      "num": 1033804,
+      "word": "林大厨爆改",
+      "onboard_time": 1724197698,
+      "rank": 4,
+      "category": "美妆,作品衍生"
     },
     {
       "raw_hot": 1029892,
@@ -1209,6 +1241,14 @@
       "onboard_time": 1723963639,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 927976,
+      "num": 927976,
+      "word": "谷爱凌正面刚黑粉",
+      "onboard_time": 1724200762,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 924883,
@@ -1507,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 754578,
+      "num": 754578,
+      "word": "外国网友开始打听一只中国猴子",
+      "onboard_time": 1724196798,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 751759,
       "num": 563781,
       "word": "冰箱误断电女子半年后回家臭吐了",
@@ -1680,6 +1728,14 @@
       "word": "姜萍",
       "onboard_time": 1724061323,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 689427,
+      "num": 689427,
+      "word": "香港男子侮辱国歌后以患自闭症求情",
+      "onboard_time": 1724196257,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2292,7 +2348,7 @@
     },
     {
       "raw_hot": 501998,
-      "num": 248657,
+      "num": 373920,
       "word": "要陌生女童做亲子鉴定当事人道歉",
       "onboard_time": 1724191572,
       "rank": 37,
@@ -2417,6 +2473,14 @@
       "onboard_time": 1723984220,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 471277,
+      "num": 300777,
+      "word": "真的建议九月份的工资别乱花",
+      "onboard_time": 1724196918,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 470560,
@@ -2729,6 +2793,14 @@
       "onboard_time": 1724045060,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 407964,
+      "num": 407964,
+      "word": "奥运冠军见到妈妈秒变小孩姐",
+      "onboard_time": 1724201419,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 407918,
@@ -3083,6 +3155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358257,
+      "num": 358257,
+      "word": "购买学生票可提前预约了",
+      "onboard_time": 1724203160,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 358222,
       "num": 358222,
       "word": "小黑盒崩了",
@@ -3251,6 +3331,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 338198,
+      "num": 743245,
+      "word": "12306推出两项学生购票新功能",
+      "onboard_time": 1724202022,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 337911,
       "num": 337911,
       "word": "李雯雯被夸女霸王",
@@ -3265,6 +3353,14 @@
       "onboard_time": 1724078061,
       "rank": 28,
       "category": "电影,体育"
+    },
+    {
+      "raw_hot": 337151,
+      "num": 337151,
+      "word": "樊振东说体育运动让一个人成长",
+      "onboard_time": 1724202979,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 336485,
@@ -3979,6 +4075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 280219,
+      "num": 330192,
+      "word": "徐志胜 山东人在哪不考公务员",
+      "onboard_time": 1724197938,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280164,
       "num": 280164,
       "word": "爸爸随手扔4粒种子家被南瓜占领",
@@ -4089,6 +4193,14 @@
       "onboard_time": 1724127204,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 269323,
+      "num": 269323,
+      "word": "突然发现电视买大了",
+      "onboard_time": 1724196678,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 267951,
@@ -4787,6 +4899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 227425,
+      "num": 227425,
+      "word": "辛纳两次药检阳性",
+      "onboard_time": 1724196136,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 227031,
       "num": 227031,
       "word": "孙颖莎微博粉丝破700万",
@@ -4809,14 +4929,6 @@
       "onboard_time": 1724037800,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 225941,
-      "num": 225941,
-      "word": "日本男子搬家发现失踪10年母亲遗骸",
-      "onboard_time": 1724196376,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 225927,
@@ -4947,6 +5059,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 218663,
+      "num": 218663,
+      "word": "中国宝宝有自己的超级英雄",
+      "onboard_time": 1724202321,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 218071,
       "num": 218071,
       "word": "国羽大家庭 团魂",
@@ -5043,6 +5163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215688,
+      "num": 215688,
+      "word": "山西文旅将发布黑神话旅游路线",
+      "onboard_time": 1724200640,
+      "rank": 33,
+      "category": "旅游,游戏"
+    },
+    {
       "raw_hot": 215579,
       "num": 215579,
       "word": "终于看到张博恒正脸了",
@@ -5065,6 +5193,14 @@
       "onboard_time": 1723905142,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 214280,
+      "num": 214280,
+      "word": "黑神话悟空 空气墙",
+      "onboard_time": 1724202620,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 213911,
@@ -5651,6 +5787,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 196370,
+      "num": 325058,
+      "word": "李纯曾经试戏过花千骨糖宝",
+      "onboard_time": 1724199980,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196245,
       "num": 196245,
       "word": "鞠婧祎更新自拍",
@@ -5939,6 +6083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 187915,
+      "num": 187915,
+      "word": "TES海报 黑神话悟空",
+      "onboard_time": 1724202979,
+      "rank": 38,
+      "category": "电竞,游戏"
+    },
+    {
       "raw_hot": 187900,
       "num": 187900,
       "word": "全红婵陈芋汐谈发育期",
@@ -6105,6 +6257,14 @@
       "onboard_time": 1724111718,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 182965,
+      "num": 182965,
+      "word": "孙杨将代表浙江队出战",
+      "onboard_time": 1724200582,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 182913,
@@ -6305,6 +6465,14 @@
       "onboard_time": 1724131881,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 174930,
+      "num": 174930,
+      "word": "脂肪肝最怕3种运动",
+      "onboard_time": 1724191271,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 174410,
@@ -6611,6 +6779,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165658,
+      "num": 165658,
+      "word": "不怪衣服不好看只怪自己不会搭",
+      "onboard_time": 1724178252,
+      "rank": 49,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 165632,
+      "num": 165632,
+      "word": "全红婵好像误入巨人国",
+      "onboard_time": 1724203278,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165544,
       "num": 165544,
       "word": "樊振东说换球衣是想调整自己的节奏",
@@ -6819,14 +7003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 159247,
-      "num": 159247,
-      "word": "不怪衣服不好看只怪自己不会搭",
-      "onboard_time": 1724178252,
-      "rank": 49,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 159235,
       "num": 159235,
       "word": "买黄金前一定要懂的信息差",
@@ -6889,6 +7065,14 @@
       "onboard_time": 1723875979,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156575,
+      "num": 156575,
+      "word": "光与夜之恋齐司礼",
+      "onboard_time": 1724201959,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 156414,
@@ -7171,20 +7355,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147548,
+      "num": 250088,
+      "word": "韩剧的偶像设定是34岁的未婚",
+      "onboard_time": 1724191812,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147295,
       "num": 147295,
       "word": "檀健次 内娱高质量唱跳舞台",
       "onboard_time": 1723960158,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 147219,
-      "num": 147219,
-      "word": "突然发现电视买大了",
-      "onboard_time": 1724196678,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 146622,
@@ -7219,14 +7403,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 145740,
-      "num": 145740,
-      "word": "脂肪肝最怕3种运动",
-      "onboard_time": 1724191271,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 145727,
       "num": 145727,
       "word": "缩水百亿今年暑期档为何集体哑火了",
@@ -7257,6 +7433,14 @@
       "onboard_time": 1723952058,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 143849,
+      "num": 143849,
+      "word": "表彰大会樊振东内场采访小视频",
+      "onboard_time": 1724196678,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 143549,
@@ -7451,6 +7635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138116,
+      "num": 138116,
+      "word": "表彰大会运动员采访",
+      "onboard_time": 1724202620,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137785,
       "num": 137785,
       "word": "德国水上乐园的滑梯",
@@ -7571,14 +7763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132090,
-      "num": 248994,
-      "word": "香港男子侮辱国歌后以患自闭症求情",
-      "onboard_time": 1724196257,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130908,
       "num": 130908,
       "word": "檀健次演唱会审美",
@@ -7632,14 +7816,6 @@
       "word": "妈妈朋友的儿子",
       "onboard_time": 1723992322,
       "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 126892,
-      "num": 197102,
-      "word": "韩剧的偶像设定是34岁的未婚",
-      "onboard_time": 1724191812,
-      "rank": 47,
       "category": "剧集"
     },
     {
@@ -8003,14 +8179,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 100201,
-      "num": 100201,
-      "word": "表彰大会樊振东内场采访小视频",
-      "onboard_time": 1724196678,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 99797,
       "num": 457446,
       "word": "黑神话 Steam特别好评",
@@ -8057,14 +8225,6 @@
       "onboard_time": 1723997720,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 92148,
-      "num": 92148,
-      "word": "辛纳两次药检阳性",
-      "onboard_time": 1724196136,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 91882,
@@ -8257,14 +8417,6 @@
       "onboard_time": 1723986079,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 75656,
-      "num": 75656,
-      "word": "外国网友开始打听一只中国猴子",
-      "onboard_time": 1724196798,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 74147,
@@ -8715,6 +8867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51374,
+      "num": 1038134,
+      "word": "西汉黄金纪念币长啥样",
+      "onboard_time": 1724161523,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50720,
       "num": 393461,
       "word": "我靠户外徒步清班味儿",
@@ -8961,14 +9121,6 @@
       "onboard_time": 1723950498,
       "rank": 29,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 37139,
-      "num": 660885,
-      "word": "西汉黄金纪念币长啥样",
-      "onboard_time": 1724161523,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35576,
