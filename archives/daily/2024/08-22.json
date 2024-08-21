@@ -1,6 +1,6 @@
 {
   "startTime": 1724257594927,
-  "endTime": 1724264835474,
+  "endTime": 1724265628189,
   "band_list": [
     {
       "raw_hot": 1101298,
@@ -451,15 +451,23 @@
       "category": "电影"
     },
     {
-      "raw_hot": 39915,
-      "num": 39915,
+      "raw_hot": 42709,
+      "num": 42709,
+      "word": "单依纯比陈立农更像陈立农",
+      "onboard_time": 1724265193,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 41597,
+      "num": 41597,
       "word": "在广东永远也不要以貌取人",
       "onboard_time": 1724263752,
       "rank": 39,
       "category": "幽默"
     },
     {
-      "raw_hot": 39367,
+      "raw_hot": 39547,
       "num": 54544,
       "word": "杨志刚撞脸半个娱乐圈",
       "onboard_time": 1724262253,
@@ -467,15 +475,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 35662,
-      "num": 35662,
+      "raw_hot": 36182,
+      "num": 36182,
       "word": "内娱超Like排名第一是肖战",
       "onboard_time": 1724264054,
       "rank": 45,
       "category": "艺人"
     },
     {
-      "raw_hot": 28887,
+      "raw_hot": 31828,
       "num": 35655,
       "word": "男子救3童牺牲家乡给予百万慰问金",
       "onboard_time": 1724264772,
