@@ -1,6 +1,6 @@
 {
   "startTime": 1724171081349,
-  "endTime": 1724240198787,
+  "endTime": 1724243830346,
   "band_list": [
     {
       "raw_hot": 2704809,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1078385,
+      "num": 352326,
+      "word": "爷爷在甲醛超标的房子里住了大半年",
+      "onboard_time": 1724239039,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1072272,
       "num": 764242,
       "word": "Angelababy香港典礼路透",
@@ -283,6 +291,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 928778,
+      "num": 928778,
+      "word": "薛宝钗扮演者 她没有得到爱自己的丈夫",
+      "onboard_time": 1724238380,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 906870,
+      "num": 906870,
+      "word": "王俊凯 低声些难道光彩吗",
+      "onboard_time": 1724241560,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 905981,
       "num": 559811,
       "word": "张颖颖 伪豪门的生活真的很不易",
@@ -291,12 +315,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 892427,
-      "num": 892427,
-      "word": "薛宝钗扮演者 她没有得到爱自己的丈夫",
-      "onboard_time": 1724238380,
-      "rank": 6,
-      "category": "电影"
+      "raw_hot": 868806,
+      "num": 868806,
+      "word": "王楚钦回应巴黎奥运最开心的瞬间",
+      "onboard_time": 1724239339,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 845870,
@@ -339,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 783232,
+      "num": 783232,
+      "word": "奶奶摘花椒15分钟2岁孙女失踪",
+      "onboard_time": 1724241139,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 783129,
       "num": 783129,
       "word": "男子冒用表哥身份在国企上班26年",
@@ -369,6 +401,14 @@
       "onboard_time": 1724168183,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 745004,
+      "num": 561490,
+      "word": "Uzi玩黑神话悟空直播间被封",
+      "onboard_time": 1724241620,
+      "rank": 10,
+      "category": "游戏"
     },
     {
       "raw_hot": 718008,
@@ -425,6 +465,14 @@
       "onboard_time": 1724225120,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 639890,
+      "num": 639890,
+      "word": "全红婵陈艺文等被记大功",
+      "onboard_time": 1724240179,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 632030,
@@ -617,6 +665,14 @@
       "onboard_time": 1724212642,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 465139,
+      "num": 465139,
+      "word": "张颖颖张兰mandy在吵什么",
+      "onboard_time": 1724242520,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 460632,
@@ -819,11 +875,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350850,
+      "num": 350850,
+      "word": "BLG对战TES",
+      "onboard_time": 1724233580,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 348674,
       "num": 348674,
       "word": "花两三万玩黑神话悟空值吗",
       "onboard_time": 1724211260,
       "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 342778,
+      "num": 342778,
+      "word": "黑神话悟空 焦恩俊mod",
+      "onboard_time": 1724240301,
+      "rank": 22,
       "category": "游戏"
     },
     {
@@ -889,14 +961,6 @@
       "onboard_time": 1724232681,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 305814,
-      "num": 305814,
-      "word": "爷爷在甲醛超标的房子里住了大半年",
-      "onboard_time": 1724239039,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 305109,
@@ -977,6 +1041,14 @@
       "onboard_time": 1724197938,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 279757,
+      "num": 279757,
+      "word": "王楚钦谈新周期目标",
+      "onboard_time": 1724242520,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 276480,
@@ -1091,6 +1163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257398,
+      "num": 257398,
+      "word": "养猫家庭千万不要买的凳子",
+      "onboard_time": 1724242280,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 257065,
       "num": 257065,
       "word": "四六级成绩要出了",
@@ -1137,6 +1217,14 @@
       "onboard_time": 1724164102,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 247268,
+      "num": 355651,
+      "word": "香港迪士尼偶遇吴倩",
+      "onboard_time": 1724240839,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 244433,
@@ -1451,14 +1539,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 203740,
-      "num": 203740,
-      "word": "王楚钦回应巴黎奥运最开心的瞬间",
-      "onboard_time": 1724239339,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 203674,
       "num": 203674,
       "word": "李雯雯被夸女霸王",
@@ -1667,14 +1747,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 185548,
-      "num": 185548,
-      "word": "BLG对战TES",
-      "onboard_time": 1724233580,
-      "rank": 48,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 185143,
       "num": 185143,
       "word": "睡不着醒不来是缺维生素吗",
@@ -1745,6 +1817,14 @@
       "onboard_time": 1724217320,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178839,
+      "num": 178839,
+      "word": "深圳一楼盘5折卖房遭业主抵制",
+      "onboard_time": 1724241139,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178260,
@@ -1931,6 +2011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 161667,
+      "num": 215272,
+      "word": "张晚意演技",
+      "onboard_time": 1724241560,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160926,
       "num": 160926,
       "word": "我那根正苗红的双世一啊",
@@ -1995,6 +2083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157125,
+      "num": 157125,
+      "word": "黑神话正尽快准备更新补丁",
+      "onboard_time": 1724243060,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 156906,
       "num": 156906,
       "word": "黑神话走红老外说原来悟空是中国的",
@@ -2049,6 +2145,14 @@
       "onboard_time": 1724228660,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 148155,
+      "num": 148155,
+      "word": "身体3个部位看出气血好坏",
+      "onboard_time": 1724239100,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 147733,
@@ -2123,14 +2227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136585,
-      "num": 136585,
-      "word": "全红婵陈艺文等被记大功",
-      "onboard_time": 1724240179,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 135236,
       "num": 135236,
       "word": "郑钦文女王气质",
@@ -2145,6 +2241,22 @@
       "onboard_time": 1724170820,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 133707,
+      "num": 133707,
+      "word": "中国足协杯",
+      "onboard_time": 1724243780,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 133656,
+      "num": 133656,
+      "word": "檀健次演唱会的热度",
+      "onboard_time": 1724243060,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 132815,
@@ -2201,6 +2313,14 @@
       "onboard_time": 1724163263,
       "rank": 49,
       "category": "电影,体育"
+    },
+    {
+      "raw_hot": 98943,
+      "num": 150882,
+      "word": "被虐致死女童生母称想尽快离婚",
+      "onboard_time": 1724241620,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94064,
@@ -2363,6 +2483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56496,
+      "num": 133667,
+      "word": "辽宁建昌县洪灾中仍有乡镇失联",
+      "onboard_time": 1724241620,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54916,
       "num": 54916,
       "word": "黑神话悟空在线玩家突破200万",
@@ -2384,6 +2512,14 @@
       "word": "西汉黄金纪念币长啥样",
       "onboard_time": 1724161523,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47854,
+      "num": 580389,
+      "word": "被虐待致死3岁女童生母发声",
+      "onboard_time": 1724242581,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -2465,6 +2601,14 @@
       "onboard_time": 1724214081,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 38220,
+      "num": 566578,
+      "word": "为什么广东的雨这么大",
+      "onboard_time": 1724243419,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37720,
