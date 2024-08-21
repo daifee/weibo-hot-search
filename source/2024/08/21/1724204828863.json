@@ -1,0 +1,410 @@
+{
+  "runTime": 1724204828863,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1086590,
+        "num": 1173854,
+        "word": "黑神话悟空结局",
+        "onboard_time": 1724173216,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1046172,
+        "num": 1046172,
+        "word": "林大厨爆改",
+        "onboard_time": 1724197698,
+        "rank": 1,
+        "category": "美妆,作品衍生"
+      },
+      {
+        "raw_hot": 51229,
+        "num": 959779,
+        "word": "西汉黄金纪念币长啥样",
+        "onboard_time": 1724161523,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 929309,
+        "num": 929309,
+        "word": "谷爱凌正面刚黑粉",
+        "onboard_time": 1724200762,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 869229,
+        "num": 869229,
+        "word": "日本男子搬家发现失踪10年母亲遗骸",
+        "onboard_time": 1724196376,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 715787,
+        "num": 715787,
+        "word": "游客呼吁山西一定要接住泼天的富贵",
+        "onboard_time": 1724165903,
+        "rank": 5,
+        "category": "旅游,游戏"
+      },
+      {
+        "raw_hot": 638101,
+        "num": 638101,
+        "word": "外国网友开始打听一只中国猴子",
+        "onboard_time": 1724196798,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 607189,
+        "num": 636683,
+        "word": "陈妍希 陈晓",
+        "onboard_time": 1724158882,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442039,
+        "num": 635573,
+        "word": "张淼怡发文回应",
+        "onboard_time": 1724163924,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 14249,
+        "num": 634142,
+        "word": "生父与情人打死3岁女童案今日开庭",
+        "onboard_time": 1724204719,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1203151,
+        "num": 632481,
+        "word": "许光汉入伍",
+        "onboard_time": 1724198000,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 632030,
+        "num": 632030,
+        "word": "12306推出两项学生购票新功能",
+        "onboard_time": 1724202022,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 613512,
+        "num": 613512,
+        "word": "奥运冠军见到妈妈秒变小孩姐",
+        "onboard_time": 1724201419,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 587866,
+        "num": 587866,
+        "word": "香港男子侮辱国歌后以患自闭症求情",
+        "onboard_time": 1724196257,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530862,
+        "num": 530862,
+        "word": "全红婵好像误入巨人国",
+        "onboard_time": 1724203278,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 493770,
+        "num": 493770,
+        "word": "购买学生票可提前预约了",
+        "onboard_time": 1724203160,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460632,
+        "num": 460632,
+        "word": "樊振东说体育运动让一个人成长",
+        "onboard_time": 1724202979,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 359638,
+        "num": 359638,
+        "word": "王俊凯点赞评论全红婵微博",
+        "onboard_time": 1724165662,
+        "rank": 17,
+        "category": "电影,体育"
+      },
+      {
+        "raw_hot": 204346,
+        "num": 356567,
+        "word": "徐志胜 山东人在哪不考公务员",
+        "onboard_time": 1724197938,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198015,
+        "num": 344179,
+        "word": "边水往事 惩罚熬夜看剧的人",
+        "onboard_time": 1724203639,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1182972,
+        "num": 334913,
+        "word": "消费降级后大家首先不买的是什么",
+        "onboard_time": 1724198959,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 794462,
+        "num": 329558,
+        "word": "全红婵 他比黄子韬帅一点",
+        "onboard_time": 1724167282,
+        "rank": 21,
+        "category": "电影,体育"
+      },
+      {
+        "raw_hot": 617571,
+        "num": 324774,
+        "word": "真的建议九月份的工资别乱花",
+        "onboard_time": 1724196918,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 449424,
+        "num": 316304,
+        "word": "TES海报 黑神话悟空",
+        "onboard_time": 1724202979,
+        "rank": 23,
+        "category": "电竞,游戏"
+      },
+      {
+        "raw_hot": 308033,
+        "num": 308033,
+        "word": "要陌生女童做亲子鉴定当事人道歉",
+        "onboard_time": 1724191572,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292974,
+        "num": 292974,
+        "word": "印度男子性侵2名学前班4岁女童",
+        "onboard_time": 1724165604,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282598,
+        "num": 282598,
+        "word": "冰箱误断电女子半年后回家臭吐了",
+        "onboard_time": 1724168183,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264300,
+        "num": 264300,
+        "word": "黑神话悟空 空气墙",
+        "onboard_time": 1724202620,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189336,
+        "num": 256158,
+        "word": "张淼怡演的林黛玉",
+        "onboard_time": 1724203938,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169192,
+        "num": 254355,
+        "word": "李纯曾经试戏过花千骨糖宝",
+        "onboard_time": 1724199980,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253162,
+        "num": 253162,
+        "word": "国产游戏黑神话悟空霸榜全球第一",
+        "onboard_time": 1724163983,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 243717,
+        "num": 243717,
+        "word": "日媒评黑神话悟空",
+        "onboard_time": 1724204180,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 233693,
+        "num": 233693,
+        "word": "四六级成绩要出了",
+        "onboard_time": 1724204598,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 152845,
+        "num": 231445,
+        "word": "苍兰诀未公开合照",
+        "onboard_time": 1724165005,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230726,
+        "num": 230726,
+        "word": "全红婵和王俊凯葛优合照",
+        "onboard_time": 1724155162,
+        "rank": 34,
+        "category": "电影,体育"
+      },
+      {
+        "raw_hot": 221147,
+        "num": 221147,
+        "word": "黑神话悟空中很多翻译直接用了拼音",
+        "onboard_time": 1724160323,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197113,
+        "num": 197113,
+        "word": "突然发现电视买大了",
+        "onboard_time": 1724196678,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196021,
+        "num": 196021,
+        "word": "武汉一幼儿园收取百万学费后深夜搬离",
+        "onboard_time": 1724164823,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186209,
+        "num": 186209,
+        "word": "山西文旅将发布黑神话旅游路线",
+        "onboard_time": 1724200640,
+        "rank": 38,
+        "category": "旅游,游戏"
+      },
+      {
+        "raw_hot": 157267,
+        "num": 184649,
+        "word": "韩剧的偶像设定是34岁的未婚",
+        "onboard_time": 1724191812,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184438,
+        "num": 184438,
+        "word": "睡不着醒不来是缺维生素吗",
+        "onboard_time": 1724204240,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 177070,
+        "num": 177070,
+        "word": "辛纳两次药检阳性",
+        "onboard_time": 1724196136,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173623,
+        "num": 173623,
+        "word": "孙杨将代表浙江队出战",
+        "onboard_time": 1724200582,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172486,
+        "num": 172486,
+        "word": "脂肪肝最怕3种运动",
+        "onboard_time": 1724191271,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 168477,
+        "num": 168477,
+        "word": "被解雇中国籍播音员已在NHK工作22年",
+        "onboard_time": 1724152880,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163503,
+        "num": 163503,
+        "word": "美国大选",
+        "onboard_time": 1724204659,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 158170,
+        "num": 158170,
+        "word": "覃海洋和陈芋汐的体型",
+        "onboard_time": 1724204539,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155844,
+        "num": 155844,
+        "word": "历届残奥赛场震撼心灵的瞬间",
+        "onboard_time": 1724203519,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147893,
+        "num": 147893,
+        "word": "训练营性侵14岁少女犯罪嫌疑人被批捕",
+        "onboard_time": 1724159603,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146039,
+        "num": 146039,
+        "word": "女儿沉迷抽小马宝莉妈妈扔卡扔到崩溃",
+        "onboard_time": 1724155822,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平接见第33届奥运会中国体育代表团#"
+    }
+  }
+}

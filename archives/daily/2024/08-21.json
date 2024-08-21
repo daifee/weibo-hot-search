@@ -1,6 +1,6 @@
 {
   "startTime": 1724171081349,
-  "endTime": 1724203511400,
+  "endTime": 1724204828863,
   "band_list": [
     {
       "raw_hot": 1886523,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1383864,
-      "num": 309509,
+      "num": 334913,
       "word": "消费降级后大家首先不买的是什么",
       "onboard_time": 1724198959,
       "rank": 20,
@@ -51,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1033804,
-      "num": 1033804,
+      "raw_hot": 1046172,
+      "num": 1046172,
       "word": "林大厨爆改",
       "onboard_time": 1724197698,
       "rank": 4,
@@ -75,8 +75,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 927976,
-      "num": 927976,
+      "raw_hot": 929309,
+      "num": 929309,
       "word": "谷爱凌正面刚黑粉",
       "onboard_time": 1724200762,
       "rank": 5,
@@ -131,12 +131,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 632030,
+      "num": 743245,
+      "word": "12306推出两项学生购票新功能",
+      "onboard_time": 1724202022,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 617571,
+      "num": 324774,
+      "word": "真的建议九月份的工资别乱花",
+      "onboard_time": 1724196918,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 615314,
       "num": 527549,
       "word": "全红婵和王俊凯葛优合照",
       "onboard_time": 1724155162,
       "rank": 12,
       "category": "电影,体育"
+    },
+    {
+      "raw_hot": 613512,
+      "num": 613512,
+      "word": "奥运冠军见到妈妈秒变小孩姐",
+      "onboard_time": 1724201419,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 596942,
@@ -147,11 +171,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 530862,
+      "num": 530862,
+      "word": "全红婵好像误入巨人国",
+      "onboard_time": 1724203278,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 501998,
       "num": 373920,
       "word": "要陌生女童做亲子鉴定当事人道歉",
       "onboard_time": 1724191572,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 493770,
+      "num": 493770,
+      "word": "购买学生票可提前预约了",
+      "onboard_time": 1724203160,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -171,14 +211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 471277,
-      "num": 300777,
-      "word": "真的建议九月份的工资别乱花",
-      "onboard_time": 1724196918,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 470560,
       "num": 470560,
       "word": "黑神话悟空中很多翻译直接用了拼音",
@@ -187,12 +219,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 460632,
+      "num": 460632,
+      "word": "樊振东说体育运动让一个人成长",
+      "onboard_time": 1724202979,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 450666,
       "num": 450666,
       "word": "被解雇中国籍播音员已在NHK工作22年",
       "onboard_time": 1724152880,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 449424,
+      "num": 316304,
+      "word": "TES海报 黑神话悟空",
+      "onboard_time": 1724202979,
+      "rank": 38,
+      "category": "电竞,游戏"
     },
     {
       "raw_hot": 446272,
@@ -217,14 +265,6 @@
       "onboard_time": 1724155822,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 407964,
-      "num": 407964,
-      "word": "奥运冠军见到妈妈秒变小孩姐",
-      "onboard_time": 1724201419,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 387844,
@@ -259,36 +299,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 358257,
-      "num": 358257,
-      "word": "购买学生票可提前预约了",
-      "onboard_time": 1724203160,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 342204,
       "num": 459688,
       "word": "和纸片人付费恋爱的年轻女孩们",
       "onboard_time": 1724160624,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 338198,
-      "num": 743245,
-      "word": "12306推出两项学生购票新功能",
-      "onboard_time": 1724202022,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 337151,
-      "num": 337151,
-      "word": "樊振东说体育运动让一个人成长",
-      "onboard_time": 1724202979,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 334444,
@@ -324,7 +340,7 @@
     },
     {
       "raw_hot": 280219,
-      "num": 330192,
+      "num": 356567,
       "word": "徐志胜 山东人在哪不考公务员",
       "onboard_time": 1724197938,
       "rank": 18,
@@ -337,6 +353,14 @@
       "onboard_time": 1724196678,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 264300,
+      "num": 264300,
+      "word": "黑神话悟空 空气墙",
+      "onboard_time": 1724202620,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 251836,
@@ -355,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243717,
+      "num": 243717,
+      "word": "日媒评黑神话悟空",
+      "onboard_time": 1724204180,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 235122,
       "num": 235122,
       "word": "樊振东王楚钦好板正",
@@ -369,6 +401,14 @@
       "onboard_time": 1724167581,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 233693,
+      "num": 233693,
+      "word": "四六级成绩要出了",
+      "onboard_time": 1724204598,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 227425,
@@ -419,20 +459,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 214280,
-      "num": 214280,
-      "word": "黑神话悟空 空气墙",
-      "onboard_time": 1724202620,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 203674,
       "num": 203674,
       "word": "李雯雯被夸女霸王",
       "onboard_time": 1724164102,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198015,
+      "num": 344179,
+      "word": "边水往事 惩罚熬夜看剧的人",
+      "onboard_time": 1724203639,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 196370,
@@ -459,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189336,
+      "num": 256158,
+      "word": "张淼怡演的林黛玉",
+      "onboard_time": 1724203938,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 188363,
       "num": 188363,
       "word": "穿正装的吴艳妮好美",
@@ -467,20 +515,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 187915,
-      "num": 187915,
-      "word": "TES海报 黑神话悟空",
-      "onboard_time": 1724202979,
-      "rank": 38,
-      "category": "电竞,游戏"
-    },
-    {
       "raw_hot": 186421,
       "num": 186421,
       "word": "高亚麟回怼网友",
       "onboard_time": 1724158523,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184438,
+      "num": 184438,
+      "word": "睡不着醒不来是缺维生素吗",
+      "onboard_time": 1724204240,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 183664,
@@ -539,14 +587,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 165632,
-      "num": 165632,
-      "word": "全红婵好像误入巨人国",
-      "onboard_time": 1724203278,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 165629,
       "num": 607824,
       "word": "山西在等猴急游客",
@@ -555,12 +595,44 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 163503,
+      "num": 163503,
+      "word": "美国大选",
+      "onboard_time": 1724204659,
+      "rank": 45,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 158170,
+      "num": 158170,
+      "word": "覃海洋和陈芋汐的体型",
+      "onboard_time": 1724204539,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 157267,
+      "num": 250088,
+      "word": "韩剧的偶像设定是34岁的未婚",
+      "onboard_time": 1724191812,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156575,
       "num": 156575,
       "word": "光与夜之恋齐司礼",
       "onboard_time": 1724201959,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 155844,
+      "num": 155844,
+      "word": "历届残奥赛场震撼心灵的瞬间",
+      "onboard_time": 1724203519,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 154039,
@@ -577,14 +649,6 @@
       "onboard_time": 1724108835,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 147548,
-      "num": 250088,
-      "word": "韩剧的偶像设定是34岁的未婚",
-      "onboard_time": 1724191812,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 147223,
@@ -872,6 +936,14 @@
       "word": "第一视角夜探亚马孙雨林",
       "onboard_time": 1724181072,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14249,
+      "num": 634142,
+      "word": "生父与情人打死3岁女童案今日开庭",
+      "onboard_time": 1724204719,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
