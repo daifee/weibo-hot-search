@@ -1,6 +1,6 @@
 {
   "startTime": 1724257594927,
-  "endTime": 1724278743066,
+  "endTime": 1724279812235,
   "band_list": [
     {
       "raw_hot": 1101298,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 463747,
-      "num": 463747,
+      "num": 494173,
       "word": "印度法院裁决汉堡王是一个印度品牌",
       "onboard_time": 1724257517,
       "rank": 48,
@@ -211,6 +211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 154590,
+      "num": 154590,
+      "word": "云冈石窟回应检票员辱骂游客",
+      "onboard_time": 1724273231,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154329,
       "num": 154329,
       "word": "黑神话悟空 焦恩俊mod",
@@ -273,14 +281,6 @@
       "onboard_time": 1724248162,
       "rank": 37,
       "category": "互联网,游戏"
-    },
-    {
-      "raw_hot": 128713,
-      "num": 128713,
-      "word": "云冈石窟回应检票员辱骂游客",
-      "onboard_time": 1724273231,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116407,
@@ -427,12 +427,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 65796,
+      "num": 66042,
+      "word": "内娱超Like排名第一是肖战",
+      "onboard_time": 1724264054,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 65732,
       "num": 143639,
       "word": "这四样东西是一个人真正的底气",
       "onboard_time": 1724257278,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 59741,
+      "num": 65933,
+      "word": "杨志刚撞脸半个娱乐圈",
+      "onboard_time": 1724262253,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 56925,
@@ -467,14 +483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 52246,
-      "num": 61534,
-      "word": "内娱超Like排名第一是肖战",
-      "onboard_time": 1724264054,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 47345,
       "num": 58121,
       "word": "刺猬路演",
@@ -483,12 +491,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 43941,
-      "num": 60972,
-      "word": "杨志刚撞脸半个娱乐圈",
-      "onboard_time": 1724262253,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 45469,
+      "num": 45469,
+      "word": "中学暑假深夜转移学生有偿补课",
+      "onboard_time": 1724254221,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41597,
@@ -499,48 +507,40 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 40729,
-      "num": 40729,
+      "raw_hot": 41565,
+      "num": 41565,
       "word": "结婚前需要向对方坦诚到什么程度",
       "onboard_time": 1724269572,
       "rank": 32,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 39209,
-      "num": 39209,
-      "word": "中学暑假深夜转移学生有偿补课",
-      "onboard_time": 1724254221,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33057,
-      "num": 39193,
+      "raw_hot": 34371,
+      "num": 41511,
       "word": "男子救3童牺牲家乡给予百万慰问金",
       "onboard_time": 1724264772,
       "rank": 49,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29918,
-      "num": 39182,
+      "raw_hot": 34282,
+      "num": 45879,
       "word": "王一博新歌拍摄间隙",
       "onboard_time": 1724276952,
       "rank": 43,
       "category": "音乐"
     },
     {
-      "raw_hot": 26700,
-      "num": 39172,
+      "raw_hot": 29848,
+      "num": 41452,
       "word": "中国残奥代表团今日出征",
       "onboard_time": 1724269871,
       "rank": 45,
       "category": "体育"
     },
     {
-      "raw_hot": 26641,
-      "num": 39170,
+      "raw_hot": 27502,
+      "num": 41445,
       "word": "中方对欧盟乳制品反补贴立案调查",
       "onboard_time": 1724271611,
       "rank": 44,
@@ -553,6 +553,14 @@
       "onboard_time": 1724247620,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 25789,
+      "num": 41423,
+      "word": "李纯是马頔夸夸群群主",
+      "onboard_time": 1724279233,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 22686,
