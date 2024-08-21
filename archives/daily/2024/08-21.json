@@ -1,6 +1,6 @@
 {
   "startTime": 1724171081349,
-  "endTime": 1724222469267,
+  "endTime": 1724224744542,
   "band_list": [
     {
       "raw_hot": 2704809,
@@ -17,6 +17,14 @@
       "onboard_time": 1724207480,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2148222,
+      "num": 541790,
+      "word": "穆婷婷回应黑神话悟空争议",
+      "onboard_time": 1724222900,
+      "rank": 10,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 2137828,
@@ -123,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1108664,
+      "num": 538585,
+      "word": "你能接受连上22天连休8天吗",
+      "onboard_time": 1724220920,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1072272,
       "num": 764242,
       "word": "Angelababy香港典礼路透",
@@ -169,6 +185,14 @@
       "onboard_time": 1724216000,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 959860,
+      "num": 959860,
+      "word": "全红婵第一次做美甲自信展示",
+      "onboard_time": 1724220201,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 955093,
@@ -299,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 585210,
+      "num": 585210,
+      "word": "黑神话猪八戒",
+      "onboard_time": 1724223440,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 537910,
       "num": 537910,
       "word": "广州暴雨",
@@ -313,14 +345,6 @@
       "onboard_time": 1724215880,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 517902,
-      "num": 517902,
-      "word": "全红婵第一次做美甲自信展示",
-      "onboard_time": 1724220201,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 517306,
@@ -353,6 +377,14 @@
       "onboard_time": 1724203160,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 492837,
+      "num": 492837,
+      "word": "头一次这么直观地感受到阴阳",
+      "onboard_time": 1724218700,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 490797,
@@ -467,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 393593,
+      "num": 393593,
+      "word": "送养女儿15年后生父母讨要抚养权",
+      "onboard_time": 1724219481,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 387844,
       "num": 336462,
       "word": "训练营性侵14岁少女犯罪嫌疑人被批捕",
@@ -523,14 +563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 351076,
-      "num": 351076,
-      "word": "头一次这么直观地感受到阴阳",
-      "onboard_time": 1724218700,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 348674,
       "num": 348674,
       "word": "花两三万玩黑神话悟空值吗",
@@ -547,12 +579,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 335382,
-      "num": 335382,
-      "word": "送养女儿15年后生父母讨要抚养权",
-      "onboard_time": 1724219481,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 338316,
+      "num": 338316,
+      "word": "王鹤棣父亲注销四川乐山一餐饮店",
+      "onboard_time": 1724223260,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 334444,
@@ -611,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 276480,
+      "num": 276480,
+      "word": "普京在恐袭遇害者纪念碑前双膝跪地",
+      "onboard_time": 1724222960,
+      "rank": 25,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 275015,
       "num": 275015,
       "word": "黄雅琼汪顺自拍",
@@ -632,14 +672,6 @@
       "word": "突然发现电视买大了",
       "onboard_time": 1724196678,
       "rank": 25,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 268997,
-      "num": 268997,
-      "word": "你能接受连上22天连休8天吗",
-      "onboard_time": 1724220920,
-      "rank": 41,
       "category": "情感"
     },
     {
@@ -795,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 229162,
+      "num": 229162,
+      "word": "实习护士遇到金刚狼了",
+      "onboard_time": 1724221397,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 228459,
       "num": 228459,
       "word": "上海小狗6天走丢三次在浙江找回",
@@ -835,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223505,
+      "num": 223505,
+      "word": "打起精神的莎莎 努力睁眼的大头",
+      "onboard_time": 1724222781,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222963,
       "num": 332182,
       "word": "何与你是真渴了",
@@ -873,6 +921,14 @@
       "onboard_time": 1724169261,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215475,
+      "num": 272858,
+      "word": "马伯骞 黄子韬也能用来催婚了",
+      "onboard_time": 1724223020,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 213619,
@@ -1099,20 +1155,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183348,
+      "num": 183348,
+      "word": "郑钦文奥运会为啥打得这么有劲儿",
+      "onboard_time": 1724224040,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182965,
       "num": 182965,
       "word": "孙杨将代表浙江队出战",
       "onboard_time": 1724200582,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 180565,
-      "num": 180565,
-      "word": "实习护士遇到金刚狼了",
-      "onboard_time": 1724221397,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 180536,
@@ -1187,6 +1243,30 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 171841,
+      "num": 543201,
+      "word": "男子冒用表哥身份在国企上班26年",
+      "onboard_time": 1724223618,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171587,
+      "num": 314307,
+      "word": "导演胡玫晒力挺电影红楼梦文章",
+      "onboard_time": 1724221761,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 170769,
+      "num": 170769,
+      "word": "潘展乐下水一瞬间好像长出了尾巴",
+      "onboard_time": 1724222781,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169497,
       "num": 169497,
       "word": "黄雨婷发博告别巴黎奥运会",
@@ -1209,6 +1289,14 @@
       "onboard_time": 1724156242,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166978,
+      "num": 166978,
+      "word": "黑神话悟空销量",
+      "onboard_time": 1724222720,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 166413,
@@ -1267,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157863,
+      "num": 157863,
+      "word": "汪顺叫潘展乐C位大帅哥",
+      "onboard_time": 1724224399,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157267,
       "num": 250088,
       "word": "韩剧的偶像设定是34岁的未婚",
@@ -1283,6 +1379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156328,
+      "num": 156328,
+      "word": "凉山公安公开缉捕30名在逃人员",
+      "onboard_time": 1724224578,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155844,
       "num": 155844,
       "word": "历届残奥赛场震撼心灵的瞬间",
@@ -1297,6 +1401,14 @@
       "onboard_time": 1724167342,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 151727,
+      "num": 151727,
+      "word": "奥运冠军何可欣被求婚",
+      "onboard_time": 1724224697,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 151542,
@@ -1425,14 +1537,6 @@
       "onboard_time": 1724192293,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 107468,
-      "num": 314307,
-      "word": "导演胡玫晒力挺电影红楼梦文章",
-      "onboard_time": 1724221761,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 102998,
@@ -1579,6 +1683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 58771,
+      "num": 547740,
+      "word": "乐山一煤矿发生事故致7死",
+      "onboard_time": 1724223618,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57189,
       "num": 582771,
       "word": "对辽宁暴雨洪涝启动四级救灾应急响应",
@@ -1620,7 +1732,7 @@
     },
     {
       "raw_hot": 45166,
-      "num": 171645,
+      "num": 535034,
       "word": "田嘉瑞的花少美好瞬间",
       "onboard_time": 1724221880,
       "rank": 40,
@@ -1681,6 +1793,14 @@
       "onboard_time": 1724191453,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24513,
+      "num": 231221,
+      "word": "特朗普新口号让美国再次安全",
+      "onboard_time": 1724224220,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 20823,
