@@ -1,0 +1,410 @@
+{
+  "runTime": 1724229575010,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1422704,
+        "num": 1422704,
+        "word": "黑神话猪八戒",
+        "onboard_time": 1724223440,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1066235,
+        "num": 1066235,
+        "word": "黑神话悟空",
+        "onboard_time": 1724225120,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 43017,
+        "num": 998031,
+        "word": "中非媒体智库论坛",
+        "onboard_time": 1724226620,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 936492,
+        "num": 936492,
+        "word": "樊振东马龙陈梦退出澳门赛",
+        "onboard_time": 1724229321,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 845870,
+        "num": 845870,
+        "word": "撤回一个樊振东 送来一个王皓",
+        "onboard_time": 1724225601,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 761368,
+        "num": 761368,
+        "word": "男子冒用表哥身份在国企上班26年",
+        "onboard_time": 1724223618,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 679553,
+        "num": 679553,
+        "word": "欧阳妮妮张书豪登记结婚",
+        "onboard_time": 1724219599,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 502660,
+        "num": 578346,
+        "word": "周深单依纯也拍上电梯神图了",
+        "onboard_time": 1724226679,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 565612,
+        "num": 565612,
+        "word": "被虐待致死女童生父称愿意接受死刑",
+        "onboard_time": 1724227220,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8449,
+        "num": 542081,
+        "word": "被虐致死女童生母为丈夫背债20万",
+        "onboard_time": 1724229500,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1665077,
+        "num": 541588,
+        "word": "穆婷婷回应黑神话悟空争议",
+        "onboard_time": 1724222900,
+        "rank": 10,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 540907,
+        "num": 540907,
+        "word": "28岁小伙雷雨天钓鱼被雷击身亡",
+        "onboard_time": 1724225120,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 924604,
+        "num": 538472,
+        "word": "你能接受连上22天连休8天吗",
+        "onboard_time": 1724220920,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 733826,
+        "num": 537691,
+        "word": "王鹤棣父亲注销四川乐山一餐饮店",
+        "onboard_time": 1724223260,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 8269,
+        "num": 528959,
+        "word": "哪些情形可以撤销婚姻",
+        "onboard_time": 1724229500,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528616,
+        "num": 528616,
+        "word": "退伍军人被冒名顶替26年",
+        "onboard_time": 1724225120,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408990,
+        "num": 408990,
+        "word": "全红婵第一次做美甲自信展示",
+        "onboard_time": 1724220201,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 399321,
+        "num": 399321,
+        "word": "杨笠让罗永浩别骂了",
+        "onboard_time": 1724227520,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399191,
+        "num": 399191,
+        "word": "陈赫玩上黑神话悟空了",
+        "onboard_time": 1724225720,
+        "rank": 18,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 313522,
+        "num": 398370,
+        "word": "Angelababy香港典礼路透",
+        "onboard_time": 1724219360,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 354303,
+        "num": 397820,
+        "word": "凉山公安公开缉捕30名在逃人员",
+        "onboard_time": 1724224578,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 641603,
+        "num": 397781,
+        "word": "电车被偷好几年了突然给我发短信",
+        "onboard_time": 1724225120,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 397630,
+        "num": 397630,
+        "word": "妻子因病复发不能孕丈夫诉撤销婚姻",
+        "onboard_time": 1724207480,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385862,
+        "num": 385862,
+        "word": "生父与情人虐打3岁女童还录视频",
+        "onboard_time": 1724212822,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366025,
+        "num": 366025,
+        "word": "外交部回应黑神话悟空席卷游戏界",
+        "onboard_time": 1724227760,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 350923,
+        "num": 350923,
+        "word": "去世13年的爸爸救了我一命",
+        "onboard_time": 1724211560,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 343048,
+        "num": 343048,
+        "word": "小学生抽电子烟牵出千万级案件",
+        "onboard_time": 1724228120,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292384,
+        "num": 292384,
+        "word": "王者荣耀",
+        "onboard_time": 1724227341,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200970,
+        "num": 276437,
+        "word": "虞书欣永夜星河花絮照",
+        "onboard_time": 1724228900,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169543,
+        "num": 270456,
+        "word": "石原里美依然好甜",
+        "onboard_time": 1724212642,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270418,
+        "num": 270418,
+        "word": "甜馨打耳洞",
+        "onboard_time": 1724220740,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263675,
+        "num": 263675,
+        "word": "乒乓跳水游泳羽毛球击剑队员聚餐",
+        "onboard_time": 1724224040,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253354,
+        "num": 253354,
+        "word": "刘亦菲裸背大片",
+        "onboard_time": 1724216841,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 252860,
+        "num": 252860,
+        "word": "这应该就是结婚的意义",
+        "onboard_time": 1724226440,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 244185,
+        "num": 244185,
+        "word": "陈梦黄晓明同款扁头",
+        "onboard_time": 1724227520,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205092,
+        "num": 205092,
+        "word": "广州暴雨",
+        "onboard_time": 1724217080,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196709,
+        "num": 196709,
+        "word": "要开学了要开学了要开学了",
+        "onboard_time": 1724205259,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 197433,
+        "num": 196370,
+        "word": "肯尼亚肢解42名女性凶手已越狱",
+        "onboard_time": 1724211619,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194848,
+        "num": 194848,
+        "word": "黑神话悟空反映了中国文化的吸引力",
+        "onboard_time": 1724228000,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184330,
+        "num": 184330,
+        "word": "头一次这么直观地感受到阴阳",
+        "onboard_time": 1724218700,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179235,
+        "num": 179235,
+        "word": "大范围暴雨控场广东",
+        "onboard_time": 1724215880,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170794,
+        "num": 170794,
+        "word": "汪顺叫潘展乐C位大帅哥",
+        "onboard_time": 1724224399,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165118,
+        "num": 165118,
+        "word": "送养女儿15年后生父母讨要抚养权",
+        "onboard_time": 1724219481,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163870,
+        "num": 163870,
+        "word": "无限暖暖",
+        "onboard_time": 1724227099,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163524,
+        "num": 163524,
+        "word": "贾玲 中国观众对我非常好",
+        "onboard_time": 1724216000,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161139,
+        "num": 161139,
+        "word": "黑神话悟空 出电影",
+        "onboard_time": 1724229439,
+        "rank": 45,
+        "category": "游戏,电影"
+      },
+      {
+        "raw_hot": 161074,
+        "num": 161074,
+        "word": "黑神话悟空结局",
+        "onboard_time": 1724173216,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156213,
+        "num": 156213,
+        "word": "葫芦岛市强降雨致1名村支书牺牲",
+        "onboard_time": 1724229261,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150468,
+        "num": 155988,
+        "word": "方大同新歌 才二十三",
+        "onboard_time": 1724228660,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143615,
+        "num": 155922,
+        "word": "毛攀 超雄",
+        "onboard_time": 1724226800,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中越两党两国最高领导人会晤传递重要信号#"
+    }
+  }
+}
