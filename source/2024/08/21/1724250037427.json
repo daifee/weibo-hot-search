@@ -1,0 +1,410 @@
+{
+  "runTime": 1724250037427,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1246707,
+        "num": 1246707,
+        "word": "奶奶摘花椒15分钟2岁孙女失踪",
+        "onboard_time": 1724241139,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1152167,
+        "num": 1152167,
+        "word": "黑神话悟空",
+        "onboard_time": 1724225120,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 36644,
+        "num": 846372,
+        "word": "中非现代化之路",
+        "onboard_time": 1724247620,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 760874,
+        "num": 760874,
+        "word": "薛宝钗扮演者 她没有得到爱自己的丈夫",
+        "onboard_time": 1724238380,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 618443,
+        "num": 618443,
+        "word": "12306回应男子把卧铺让给妹妹被拒",
+        "onboard_time": 1724236999,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494481,
+        "num": 494481,
+        "word": "Uzi玩黑神话悟空直播间被封",
+        "onboard_time": 1724241620,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 489744,
+        "num": 489744,
+        "word": "佟丽娅 自己淋过雨所以为别人打伞",
+        "onboard_time": 1724244200,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 448653,
+        "num": 448653,
+        "word": "十年过去了TFBOYS和EXO还是碰上了",
+        "onboard_time": 1724248642,
+        "rank": 7,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 443892,
+        "num": 443892,
+        "word": "全红婵陈艺文等被记大功",
+        "onboard_time": 1724240179,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46375,
+        "num": 443303,
+        "word": "被虐致死女童生父曾起诉离婚争抚养权",
+        "onboard_time": 1724248822,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2589344,
+        "num": 423602,
+        "word": "印度16岁女孩乘公交遭司机等5人轮奸",
+        "onboard_time": 1724245641,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451387,
+        "num": 416190,
+        "word": "穆婷婷回应黑神话悟空争议",
+        "onboard_time": 1724222900,
+        "rank": 11,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 13409,
+        "num": 406001,
+        "word": "技术鬼才魏建军",
+        "onboard_time": 1724245401,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 398828,
+        "num": 398828,
+        "word": "你能接受连上22天连休8天吗",
+        "onboard_time": 1724220920,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137272,
+        "num": 374300,
+        "word": "中铁大桥局回应网传硕士工资2200元",
+        "onboard_time": 1724248700,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366766,
+        "num": 366766,
+        "word": "杨紫 花仙子",
+        "onboard_time": 1724244200,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 339148,
+        "num": 339148,
+        "word": "张颖颖张兰mandy在吵什么",
+        "onboard_time": 1724242520,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312464,
+        "num": 312464,
+        "word": "女子与司机冲突后在车顶脱衣跳舞",
+        "onboard_time": 1724244561,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279330,
+        "num": 311393,
+        "word": "第一次见剧里挨个和女同事结婚的",
+        "onboard_time": 1724244799,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37403,
+        "num": 310365,
+        "word": "男童被托管教师用教棍打出大片淤青",
+        "onboard_time": 1724248822,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 731949,
+        "num": 309509,
+        "word": "爷爷在甲醛超标的房子里住了大半年",
+        "onboard_time": 1724239039,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 588939,
+        "num": 308927,
+        "word": "下届奥运能不能加上这个比赛",
+        "onboard_time": 1724245039,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 307825,
+        "num": 307825,
+        "word": "狼队零封KSG",
+        "onboard_time": 1724249662,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 282714,
+        "num": 282714,
+        "word": "樊振东马龙陈梦退出澳门赛",
+        "onboard_time": 1724229321,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279249,
+        "num": 279249,
+        "word": "原来鲨鱼夹有这么多用法",
+        "onboard_time": 1724248822,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 194489,
+        "num": 279160,
+        "word": "柳舟记 他要坦白她要离开",
+        "onboard_time": 1724247441,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193291,
+        "num": 278108,
+        "word": "孙茜 原来综艺可以这么健康",
+        "onboard_time": 1724244499,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185563,
+        "num": 277916,
+        "word": "王俊凯 周正这就出发了",
+        "onboard_time": 1724246601,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 35115,
+        "num": 276714,
+        "word": "魏牌蓝山教育了魏建军",
+        "onboard_time": 1724248642,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 165306,
+        "num": 276404,
+        "word": "居然有综艺最后一期才请杨迪",
+        "onboard_time": 1724246662,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275946,
+        "num": 275946,
+        "word": "王楚钦回应巴黎奥运最开心的瞬间",
+        "onboard_time": 1724239339,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251937,
+        "num": 251937,
+        "word": "BLG对战TES",
+        "onboard_time": 1724233580,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 270817,
+        "num": 251173,
+        "word": "黄雅琼刘雨辰合影王俊凯",
+        "onboard_time": 1724248760,
+        "rank": 32,
+        "category": "体育,电影"
+      },
+      {
+        "raw_hot": 245149,
+        "num": 245149,
+        "word": "瑶典藏皮肤",
+        "onboard_time": 1724249662,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 236979,
+        "num": 236979,
+        "word": "KSG对战狼队",
+        "onboard_time": 1724245760,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 223211,
+        "num": 223211,
+        "word": "原来每个省都有自己专属的应急食品",
+        "onboard_time": 1724246960,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 219548,
+        "num": 219548,
+        "word": "显卡销量被黑神话悟空带飞了",
+        "onboard_time": 1724247382,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 216627,
+        "num": 216627,
+        "word": "用户借黑神话悟空发布性别对立被处置",
+        "onboard_time": 1724248162,
+        "rank": 37,
+        "category": "互联网,游戏"
+      },
+      {
+        "raw_hot": 216103,
+        "num": 216103,
+        "word": "黑神话悟空爆火后引发装机热潮",
+        "onboard_time": 1724247081,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201013,
+        "num": 201013,
+        "word": "魔兽世界原负责人怒斥黑神话被压分",
+        "onboard_time": 1724249481,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180936,
+        "num": 180936,
+        "word": "王楚钦谈新周期目标",
+        "onboard_time": 1724242520,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179158,
+        "num": 179158,
+        "word": "广东清远15万拿下两室两厅",
+        "onboard_time": 1724247201,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174464,
+        "num": 174464,
+        "word": "被虐致死女童外婆称不判死刑将上诉",
+        "onboard_time": 1724245220,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174051,
+        "num": 174051,
+        "word": "魏牌全新蓝山上市发布会",
+        "onboard_time": 1724249240,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 171878,
+        "num": 171878,
+        "word": "黑神话悟空 焦恩俊mod",
+        "onboard_time": 1724240301,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166254,
+        "num": 166254,
+        "word": "武僧以后不会轻易跟观众互动了",
+        "onboard_time": 1724248162,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165005,
+        "num": 165005,
+        "word": "王楚钦说混双夺金是最开心的瞬间",
+        "onboard_time": 1724247382,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162446,
+        "num": 162446,
+        "word": "乘客错过高铁退票被拒后起诉",
+        "onboard_time": 1724249722,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161928,
+        "num": 161928,
+        "word": "土豆片可以消很多结节",
+        "onboard_time": 1724246421,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134882,
+        "num": 161045,
+        "word": "杨紫直播",
+        "onboard_time": 1724244619,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视民营经济发展#"
+    }
+  }
+}
