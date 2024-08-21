@@ -1,0 +1,410 @@
+{
+  "runTime": 1724218590561,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1283335,
+        "num": 1283335,
+        "word": "潘展乐发完微博立马下线了",
+        "onboard_time": 1724210661,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1109717,
+        "num": 1109717,
+        "word": "生父与情人虐打3岁女童还录视频",
+        "onboard_time": 1724212822,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7841,
+        "num": 1004551,
+        "word": "中国青年一代自信乐观热情友好",
+        "onboard_time": 1724160323,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1180333,
+        "num": 984298,
+        "word": "妻子因病复发不能孕丈夫诉撤销婚姻",
+        "onboard_time": 1724207480,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 955093,
+        "num": 955093,
+        "word": "刘亦菲裸背大片",
+        "onboard_time": 1724216841,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 935642,
+        "num": 935642,
+        "word": "贾玲 中国观众对我非常好",
+        "onboard_time": 1724216000,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 595695,
+        "num": 595695,
+        "word": "全红婵好像误入巨人国",
+        "onboard_time": 1724203278,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 582944,
+        "num": 582944,
+        "word": "黑神话悟空结局",
+        "onboard_time": 1724173216,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 57189,
+        "num": 582771,
+        "word": "对辽宁暴雨洪涝启动四级救灾应急响应",
+        "onboard_time": 1724218221,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52498,
+        "num": 580344,
+        "word": "民办第一高中暴雷戳碎中产教育梦",
+        "onboard_time": 1724218340,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1078739,
+        "num": 577513,
+        "word": "去世13年的爸爸救了我一命",
+        "onboard_time": 1724211560,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 992008,
+        "num": 576063,
+        "word": "肯尼亚肢解42名女性凶手已越狱",
+        "onboard_time": 1724211619,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575122,
+        "num": 575122,
+        "word": "许光汉入伍",
+        "onboard_time": 1724198000,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479458,
+        "num": 479458,
+        "word": "余景天首谈退赛",
+        "onboard_time": 1724214862,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 465274,
+        "num": 465274,
+        "word": "石原里美依然好甜",
+        "onboard_time": 1724212642,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 462205,
+        "num": 462205,
+        "word": "被虐致死女童生母还没能与丈夫离婚",
+        "onboard_time": 1724211021,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414229,
+        "num": 414229,
+        "word": "陈妍希 陈晓",
+        "onboard_time": 1724158882,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409372,
+        "num": 409372,
+        "word": "美国大选",
+        "onboard_time": 1724204659,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 381497,
+        "num": 381497,
+        "word": "谷爱凌正面刚黑粉",
+        "onboard_time": 1724200762,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138242,
+        "num": 373440,
+        "word": "郭麒麟演技",
+        "onboard_time": 1724217800,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 372736,
+        "num": 372736,
+        "word": "消费降级后大家首先不买的是什么",
+        "onboard_time": 1724198959,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 411705,
+        "num": 352917,
+        "word": "陈晓旭 天选林黛玉",
+        "onboard_time": 1724212881,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276469,
+        "num": 276469,
+        "word": "广州暴雨",
+        "onboard_time": 1724217080,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274510,
+        "num": 274510,
+        "word": "大范围暴雨控场广东",
+        "onboard_time": 1724215880,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261436,
+        "num": 261436,
+        "word": "日媒评黑神话悟空",
+        "onboard_time": 1724204180,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 241892,
+        "num": 241892,
+        "word": "等不及给韩娱一点内娱秀粉震撼",
+        "onboard_time": 1724217979,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241183,
+        "num": 241183,
+        "word": "花两三万玩黑神话悟空值吗",
+        "onboard_time": 1724211260,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 231283,
+        "num": 231283,
+        "word": "覃海洋和陈芋汐的体型",
+        "onboard_time": 1724204539,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220222,
+        "num": 220222,
+        "word": "杨紫与父母外出吃饭",
+        "onboard_time": 1724208920,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218190,
+        "num": 218190,
+        "word": "李沁梦回小公主淳儿",
+        "onboard_time": 1724207360,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213763,
+        "num": 213763,
+        "word": "要开学了要开学了要开学了",
+        "onboard_time": 1724205259,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 199352,
+        "num": 199352,
+        "word": "多省教育经费被挤占挪用",
+        "onboard_time": 1724216421,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194781,
+        "num": 194781,
+        "word": "水硕水博还能招摇过市多久",
+        "onboard_time": 1724207539,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192477,
+        "num": 192477,
+        "word": "赵丽颖向阳花杀青了",
+        "onboard_time": 1724217440,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183410,
+        "num": 183410,
+        "word": "张淼怡发文回应",
+        "onboard_time": 1724163924,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179294,
+        "num": 179294,
+        "word": "暑期档电视剧TOP",
+        "onboard_time": 1724217320,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177322,
+        "num": 177322,
+        "word": "黑神话悟空Steam销量或达2000万份",
+        "onboard_time": 1724216421,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177017,
+        "num": 177017,
+        "word": "斩神一集能打15分钟",
+        "onboard_time": 1724217500,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 167811,
+        "num": 167811,
+        "word": "黑神话悟空",
+        "onboard_time": 1724108835,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166916,
+        "num": 166916,
+        "word": "经纪人回应许光汉入伍",
+        "onboard_time": 1724212281,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165161,
+        "num": 165161,
+        "word": "刘诗诗吴奇隆换班带娃",
+        "onboard_time": 1724218520,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164124,
+        "num": 164124,
+        "word": "孙上香",
+        "onboard_time": 1724211380,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163278,
+        "num": 163278,
+        "word": "印度男孩绝食3天逼妈妈买手机",
+        "onboard_time": 1724206939,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160398,
+        "num": 160398,
+        "word": "张淼怡演的林黛玉",
+        "onboard_time": 1724203938,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160115,
+        "num": 160115,
+        "word": "黄雅琼汪顺自拍",
+        "onboard_time": 1724210000,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158078,
+        "num": 158078,
+        "word": "瑶典藏",
+        "onboard_time": 1724209399,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149793,
+        "num": 149793,
+        "word": "央视记者现场直击美民主党大会场外抗议",
+        "onboard_time": 1724214741,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 149715,
+        "num": 149715,
+        "word": "椒丘不歪",
+        "onboard_time": 1724217500,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147733,
+        "num": 147733,
+        "word": "你们旅拍婚纱照的报喜不报忧",
+        "onboard_time": 1724217919,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144021,
+        "num": 144021,
+        "word": "安藤樱见到贾玲哭花了妆",
+        "onboard_time": 1724218399,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平接见第33届奥运会中国代表团#"
+    }
+  }
+}
