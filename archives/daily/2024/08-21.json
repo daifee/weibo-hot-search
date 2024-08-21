@@ -1,9 +1,9 @@
 {
   "startTime": 1724171081349,
-  "endTime": 1724207967028,
+  "endTime": 1724208526970,
   "band_list": [
     {
-      "raw_hot": 2631083,
+      "raw_hot": 2704809,
       "num": 727411,
       "word": "万茜删博",
       "onboard_time": 1724206219,
@@ -99,12 +99,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 847716,
+      "raw_hot": 929201,
       "num": 462293,
       "word": "覃海洋和陈芋汐的体型",
       "onboard_time": 1724204539,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 889907,
+      "num": 889907,
+      "word": "美国大选",
+      "onboard_time": 1724204659,
+      "rank": 45,
+      "category": "国外时政"
     },
     {
       "raw_hot": 842448,
@@ -113,14 +121,6 @@
       "onboard_time": 1724165662,
       "rank": 7,
       "category": "电影,体育"
-    },
-    {
-      "raw_hot": 793337,
-      "num": 793337,
-      "word": "美国大选",
-      "onboard_time": 1724204659,
-      "rank": 45,
-      "category": "国外时政"
     },
     {
       "raw_hot": 754578,
@@ -153,6 +153,14 @@
       "onboard_time": 1724196257,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 673798,
+      "num": 403497,
+      "word": "日媒评黑神话悟空",
+      "onboard_time": 1724204180,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 664715,
@@ -227,14 +235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 482710,
-      "num": 402635,
-      "word": "日媒评黑神话悟空",
-      "onboard_time": 1724204180,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 474983,
       "num": 621911,
       "word": "阳光玫瑰为什么失宠了",
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 449424,
-      "num": 400588,
+      "num": 419509,
       "word": "TES海报 黑神话悟空",
       "onboard_time": 1724202979,
       "rank": 38,
@@ -331,6 +331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 343822,
+      "num": 343822,
+      "word": "要开学了要开学了要开学了",
+      "onboard_time": 1724205259,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 342204,
       "num": 459688,
       "word": "和纸片人付费恋爱的年轻女孩们",
@@ -363,15 +371,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 298671,
-      "num": 298671,
-      "word": "王楚钦成打卡景点了",
-      "onboard_time": 1724157982,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 293014,
+      "raw_hot": 299791,
       "num": 411293,
       "word": "边水往事 惩罚熬夜看剧的人",
       "onboard_time": 1724203639,
@@ -379,12 +379,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 287673,
-      "num": 287673,
-      "word": "要开学了要开学了要开学了",
-      "onboard_time": 1724205259,
-      "rank": 30,
-      "category": "教育"
+      "raw_hot": 298671,
+      "num": 298671,
+      "word": "王楚钦成打卡景点了",
+      "onboard_time": 1724157982,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 280592,
@@ -409,6 +409,14 @@
       "onboard_time": 1724196678,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 268676,
+      "num": 634142,
+      "word": "生父与情人打死3岁女童案今日开庭",
+      "onboard_time": 1724204719,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 264300,
@@ -443,6 +451,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 249146,
+      "num": 249146,
+      "word": "妻子因病复发不能孕丈夫诉撤销婚姻",
+      "onboard_time": 1724207480,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248476,
       "num": 248476,
       "word": "张雨霏郑钦文合照",
@@ -475,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231724,
+      "num": 231724,
+      "word": "华为将发布首款轿跑SUV",
+      "onboard_time": 1724208140,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 227425,
       "num": 227425,
       "word": "辛纳两次药检阳性",
@@ -484,19 +508,11 @@
     },
     {
       "raw_hot": 225983,
-      "num": 295824,
+      "num": 307287,
       "word": "燃霜为昼开机",
       "onboard_time": 1724206820,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 225786,
-      "num": 634142,
-      "word": "生父与情人打死3岁女童案今日开庭",
-      "onboard_time": 1724204719,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 223723,
@@ -539,20 +555,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212503,
+      "num": 212503,
+      "word": "印度男孩绝食3天逼妈妈买手机",
+      "onboard_time": 1724206939,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205483,
       "num": 205483,
       "word": "美女基金经理暴亏70%带火民生加银",
       "onboard_time": 1724205798,
       "rank": 38,
       "category": "财经"
-    },
-    {
-      "raw_hot": 204788,
-      "num": 204788,
-      "word": "印度男孩绝食3天逼妈妈买手机",
-      "onboard_time": 1724206939,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 203674,
@@ -577,6 +593,14 @@
       "onboard_time": 1724172857,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191230,
+      "num": 287839,
+      "word": "李沁梦回小公主淳儿",
+      "onboard_time": 1724207360,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 189533,
@@ -627,6 +651,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181321,
+      "num": 181321,
+      "word": "詹妮弗洛佩兹大本离婚",
+      "onboard_time": 1724208260,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 175258,
+      "num": 175258,
+      "word": "黑神话Steam在线人数历史第二",
+      "onboard_time": 1724207599,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 174930,
       "num": 174930,
       "word": "脂肪肝最怕3种运动",
@@ -643,20 +683,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 171026,
-      "num": 171026,
-      "word": "黑神话Steam在线人数历史第二",
-      "onboard_time": 1724207599,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 169735,
-      "num": 287839,
-      "word": "李沁梦回小公主淳儿",
-      "onboard_time": 1724207360,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 170574,
+      "num": 170574,
+      "word": "treasure怎么了",
+      "onboard_time": 1724208440,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 169497,
@@ -755,6 +787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 152567,
+      "num": 470587,
+      "word": "被虐致死3岁女童遗体仍在殡仪馆",
+      "onboard_time": 1724206580,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147223,
       "num": 147223,
       "word": "脱口秀 我的电子榨菜",
@@ -825,14 +865,6 @@
       "onboard_time": 1724159424,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 127233,
-      "num": 470587,
-      "word": "被虐致死3岁女童遗体仍在殡仪馆",
-      "onboard_time": 1724206580,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125676,
@@ -963,6 +995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 56756,
+      "num": 435303,
+      "word": "水硕水博还能招摇过市多久",
+      "onboard_time": 1724207539,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54916,
       "num": 54916,
       "word": "黑神话悟空在线玩家突破200万",
@@ -1043,20 +1083,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 18800,
-      "num": 435303,
-      "word": "水硕水博还能招摇过市多久",
-      "onboard_time": 1724207539,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 17550,
       "num": 88372,
       "word": "第一视角夜探亚马孙雨林",
       "onboard_time": 1724181072,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15328,
+      "num": 285444,
+      "word": "美方被曝参与袭击库尔斯克州",
+      "onboard_time": 1724208079,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 14150,

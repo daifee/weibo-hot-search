@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724207967028,
+  "endTime": 1724208526970,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -171,20 +171,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2704809,
+      "num": 727411,
+      "word": "万茜删博",
+      "onboard_time": 1724206219,
+      "rank": 3,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 2666575,
       "num": 2666575,
       "word": "全红婵说到了发育关才知道芋汐的难",
       "onboard_time": 1724031859,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2631083,
-      "num": 727411,
-      "word": "万茜删博",
-      "onboard_time": 1724206219,
-      "rank": 3,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 2627951,
@@ -1267,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 929201,
+      "num": 462293,
+      "word": "覃海洋和陈芋汐的体型",
+      "onboard_time": 1724204539,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 924883,
       "num": 924883,
       "word": "王楚钦成打卡景点了",
@@ -1347,6 +1355,14 @@
       "category": "游戏,美食"
     },
     {
+      "raw_hot": 889907,
+      "num": 889907,
+      "word": "美国大选",
+      "onboard_time": 1724204659,
+      "rank": 45,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 885786,
       "num": 885786,
       "word": "导演胡玫发文痛斥",
@@ -1393,14 +1409,6 @@
       "onboard_time": 1723907242,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 847716,
-      "num": 462293,
-      "word": "覃海洋和陈芋汐的体型",
-      "onboard_time": 1724204539,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 846224,
@@ -1472,14 +1480,6 @@
       "word": "苏林访华",
       "onboard_time": 1724036119,
       "rank": 6,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 793337,
-      "num": 793337,
-      "word": "美国大选",
-      "onboard_time": 1724204659,
-      "rank": 45,
       "category": "国外时政"
     },
     {
@@ -1793,6 +1793,14 @@
       "onboard_time": 1724115140,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 673798,
+      "num": 403497,
+      "word": "日媒评黑神话悟空",
+      "onboard_time": 1724204180,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 671059,
@@ -2491,14 +2499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 482710,
-      "num": 402635,
-      "word": "日媒评黑神话悟空",
-      "onboard_time": 1724204180,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 481895,
       "num": 481895,
       "word": "任敏对路人说不怕我的粉丝揍你吗",
@@ -2676,7 +2676,7 @@
     },
     {
       "raw_hot": 449424,
-      "num": 400588,
+      "num": 419509,
       "word": "TES海报 黑神话悟空",
       "onboard_time": 1724202979,
       "rank": 38,
@@ -3355,6 +3355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 343822,
+      "num": 343822,
+      "word": "要开学了要开学了要开学了",
+      "onboard_time": 1724205259,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 343380,
       "num": 466585,
       "word": "猿神 启动",
@@ -3843,6 +3851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 299791,
+      "num": 411293,
+      "word": "边水往事 惩罚熬夜看剧的人",
+      "onboard_time": 1724203639,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 299665,
       "num": 299665,
       "word": "柳舟记 父母偏心可偏偏女儿最争气",
@@ -3889,14 +3905,6 @@
       "onboard_time": 1724060480,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 293014,
-      "num": 411293,
-      "word": "边水往事 惩罚熬夜看剧的人",
-      "onboard_time": 1724203639,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 292239,
@@ -3993,14 +4001,6 @@
       "onboard_time": 1723903103,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 287673,
-      "num": 287673,
-      "word": "要开学了要开学了要开学了",
-      "onboard_time": 1724205259,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 286056,
@@ -4273,6 +4273,14 @@
       "onboard_time": 1724196678,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 268676,
+      "num": 634142,
+      "word": "生父与情人打死3岁女童案今日开庭",
+      "onboard_time": 1724204719,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267951,
@@ -4561,6 +4569,14 @@
       "onboard_time": 1724205380,
       "rank": 34,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 249146,
+      "num": 249146,
+      "word": "妻子因病复发不能孕丈夫诉撤销婚姻",
+      "onboard_time": 1724207480,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249089,
@@ -4955,6 +4971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 231724,
+      "num": 231724,
+      "word": "华为将发布首款轿跑SUV",
+      "onboard_time": 1724208140,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 230105,
       "num": 1078443,
       "word": "女子带狗进影院遭拒辱骂员工被泼水",
@@ -5036,7 +5060,7 @@
     },
     {
       "raw_hot": 225983,
-      "num": 295824,
+      "num": 307287,
       "word": "燃霜为昼开机",
       "onboard_time": 1724206820,
       "rank": 28,
@@ -5048,14 +5072,6 @@
       "word": "刘光耀发长文对前妻提出九大质疑",
       "onboard_time": 1723945880,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 225786,
-      "num": 634142,
-      "word": "生父与情人打死3岁女童案今日开庭",
-      "onboard_time": 1724204719,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -5387,6 +5403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 212503,
+      "num": 212503,
+      "word": "印度男孩绝食3天逼妈妈买手机",
+      "onboard_time": 1724206939,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212370,
       "num": 375829,
       "word": "李飞追星被贴脸饭撒",
@@ -5617,14 +5641,6 @@
       "onboard_time": 1723962978,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204788,
-      "num": 204788,
-      "word": "印度男孩绝食3天逼妈妈买手机",
-      "onboard_time": 1724206939,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204645,
@@ -6139,6 +6155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191230,
+      "num": 287839,
+      "word": "李沁梦回小公主淳儿",
+      "onboard_time": 1724207360,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191103,
       "num": 191103,
       "word": "黑神话 村里第一个大学生",
@@ -6467,6 +6491,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 181321,
+      "num": 181321,
+      "word": "詹妮弗洛佩兹大本离婚",
+      "onboard_time": 1724208260,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180993,
       "num": 502216,
       "word": "官方回应大连2人被水冲到车底遇难",
@@ -6585,6 +6617,14 @@
       "onboard_time": 1724109196,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 175258,
+      "num": 175258,
+      "word": "黑神话Steam在线人数历史第二",
+      "onboard_time": 1724207599,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 175109,
@@ -6707,14 +6747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171026,
-      "num": 171026,
-      "word": "黑神话Steam在线人数历史第二",
-      "onboard_time": 1724207599,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 171002,
       "num": 171002,
       "word": "得闲谨制",
@@ -6729,6 +6761,14 @@
       "onboard_time": 1724132302,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 170574,
+      "num": 170574,
+      "word": "treasure怎么了",
+      "onboard_time": 1724208440,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 170522,
@@ -6768,14 +6808,6 @@
       "word": "蜀锦人家",
       "onboard_time": 1724056821,
       "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 169735,
-      "num": 287839,
-      "word": "李沁梦回小公主淳儿",
-      "onboard_time": 1724207360,
-      "rank": 29,
       "category": "剧集"
     },
     {
@@ -7377,6 +7409,14 @@
       "onboard_time": 1723946598,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 152567,
+      "num": 470587,
+      "word": "被虐致死3岁女童遗体仍在殡仪馆",
+      "onboard_time": 1724206580,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152558,
@@ -7985,14 +8025,6 @@
       "onboard_time": 1723992322,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127233,
-      "num": 470587,
-      "word": "被虐致死3岁女童遗体仍在殡仪馆",
-      "onboard_time": 1724206580,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126757,
@@ -8907,6 +8939,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 56756,
+      "num": 435303,
+      "word": "水硕水博还能招摇过市多久",
+      "onboard_time": 1724207539,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56288,
       "num": 380082,
       "word": "比亚迪全新黑科技赋能腾势",
@@ -9539,14 +9579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18800,
-      "num": 435303,
-      "word": "水硕水博还能招摇过市多久",
-      "onboard_time": 1724207539,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 17550,
       "num": 88372,
       "word": "第一视角夜探亚马孙雨林",
@@ -9569,6 +9601,14 @@
       "onboard_time": 1724004973,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15328,
+      "num": 285444,
+      "word": "美方被曝参与袭击库尔斯克州",
+      "onboard_time": 1724208079,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 14255,
