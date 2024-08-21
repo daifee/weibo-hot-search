@@ -1,0 +1,410 @@
+{
+  "runTime": 1724222469267,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1471998,
+        "num": 1471998,
+        "word": "欧阳妮妮张书豪登记结婚",
+        "onboard_time": 1724219599,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 728274,
+        "num": 728274,
+        "word": "潘展乐发完微博立马下线了",
+        "onboard_time": 1724210661,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11910,
+        "num": 684126,
+        "word": "中国青年一代自信乐观热情友好",
+        "onboard_time": 1724160323,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 931816,
+        "num": 675050,
+        "word": "Angelababy香港典礼路透",
+        "onboard_time": 1724219360,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 779532,
+        "num": 672924,
+        "word": "妻子因病复发不能孕丈夫诉撤销婚姻",
+        "onboard_time": 1724207480,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 660787,
+        "num": 660787,
+        "word": "生父与情人虐打3岁女童还录视频",
+        "onboard_time": 1724212822,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625393,
+        "num": 625393,
+        "word": "贾玲 中国观众对我非常好",
+        "onboard_time": 1724216000,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 568814,
+        "num": 568814,
+        "word": "黑神话悟空结局",
+        "onboard_time": 1724173216,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 546707,
+        "num": 546707,
+        "word": "刘亦菲裸背大片",
+        "onboard_time": 1724216841,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 531926,
+        "num": 545360,
+        "word": "大范围暴雨控场广东",
+        "onboard_time": 1724215880,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 814975,
+        "num": 542105,
+        "word": "甜馨打耳洞",
+        "onboard_time": 1724220740,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 751857,
+        "num": 538609,
+        "word": "去世13年的爸爸救了我一命",
+        "onboard_time": 1724211560,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 653583,
+        "num": 537378,
+        "word": "肯尼亚肢解42名女性凶手已越狱",
+        "onboard_time": 1724211619,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535604,
+        "num": 535604,
+        "word": "广州暴雨",
+        "onboard_time": 1724217080,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517902,
+        "num": 517902,
+        "word": "全红婵第一次做美甲自信展示",
+        "onboard_time": 1724220201,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 351076,
+        "num": 351076,
+        "word": "头一次这么直观地感受到阴阳",
+        "onboard_time": 1724218700,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 335382,
+        "num": 335382,
+        "word": "送养女儿15年后生父母讨要抚养权",
+        "onboard_time": 1724219481,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322927,
+        "num": 322927,
+        "word": "刘诗诗吴奇隆换班带娃",
+        "onboard_time": 1724218520,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314989,
+        "num": 314989,
+        "word": "全红婵好像误入巨人国",
+        "onboard_time": 1724203278,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107468,
+        "num": 314307,
+        "word": "导演胡玫晒力挺电影红楼梦文章",
+        "onboard_time": 1724221761,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 360026,
+        "num": 314278,
+        "word": "消费降级后大家首先不买的是什么",
+        "onboard_time": 1724198959,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 314008,
+        "num": 314008,
+        "word": "许光汉入伍",
+        "onboard_time": 1724198000,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301742,
+        "num": 301742,
+        "word": "石原里美依然好甜",
+        "onboard_time": 1724212642,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268997,
+        "num": 268997,
+        "word": "你能接受连上22天连休8天吗",
+        "onboard_time": 1724220920,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 254013,
+        "num": 254013,
+        "word": "美国大选",
+        "onboard_time": 1724204659,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 249297,
+        "num": 249297,
+        "word": "余景天首谈退赛",
+        "onboard_time": 1724214862,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241200,
+        "num": 241200,
+        "word": "1400余万别墅被保洁私自当垃圾房",
+        "onboard_time": 1724220080,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228459,
+        "num": 228459,
+        "word": "上海小狗6天走丢三次在浙江找回",
+        "onboard_time": 1724218880,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222963,
+        "num": 222963,
+        "word": "何与你是真渴了",
+        "onboard_time": 1724218642,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207934,
+        "num": 221157,
+        "word": "要开学了要开学了要开学了",
+        "onboard_time": 1724205259,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 220813,
+        "num": 220813,
+        "word": "民办第一高中暴雷戳碎中产教育梦",
+        "onboard_time": 1724218340,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213663,
+        "num": 213663,
+        "word": "内部消息孙杨复出战只报了400m自",
+        "onboard_time": 1724219300,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213619,
+        "num": 213619,
+        "word": "微博搜自己名字发现朋友的留言",
+        "onboard_time": 1724218642,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207028,
+        "num": 207028,
+        "word": "长城汽车回应被南方电网拉黑",
+        "onboard_time": 1724218700,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 205337,
+        "num": 205337,
+        "word": "谷爱凌正面刚黑粉",
+        "onboard_time": 1724200762,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204724,
+        "num": 204724,
+        "word": "陈晓旭 天选林黛玉",
+        "onboard_time": 1724212881,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200515,
+        "num": 200515,
+        "word": "多省教育经费被挤占挪用",
+        "onboard_time": 1724216421,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196090,
+        "num": 196090,
+        "word": "李斌 金池长老",
+        "onboard_time": 1724219901,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188826,
+        "num": 188826,
+        "word": "汪顺表彰大会vlog",
+        "onboard_time": 1724221580,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183175,
+        "num": 183175,
+        "word": "被虐致死女童生母还没能与丈夫离婚",
+        "onboard_time": 1724211021,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45166,
+        "num": 171645,
+        "word": "田嘉瑞的花少美好瞬间",
+        "onboard_time": 1724221880,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170874,
+        "num": 170874,
+        "word": "实习护士遇到金刚狼了",
+        "onboard_time": 1724221397,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159005,
+        "num": 159005,
+        "word": "日媒评黑神话悟空",
+        "onboard_time": 1724204180,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151482,
+        "num": 151482,
+        "word": "怪不得我上高中每天这么开心",
+        "onboard_time": 1724218820,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148685,
+        "num": 148685,
+        "word": "瑶典藏",
+        "onboard_time": 1724209399,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147413,
+        "num": 147413,
+        "word": "檀健次演唱会抢票",
+        "onboard_time": 1724219300,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147366,
+        "num": 147366,
+        "word": "郭麒麟演技",
+        "onboard_time": 1724217800,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145841,
+        "num": 145841,
+        "word": "花两三万玩黑神话悟空值吗",
+        "onboard_time": 1724211260,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142298,
+        "num": 142298,
+        "word": "等不及给韩娱一点内娱秀粉震撼",
+        "onboard_time": 1724217979,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136079,
+        "num": 136079,
+        "word": "张颖颖 告命夫人换人了",
+        "onboard_time": 1724220380,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平接见第33届奥运会中国代表团#"
+    }
+  }
+}
