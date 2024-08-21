@@ -1,6 +1,6 @@
 {
   "startTime": 1724257594927,
-  "endTime": 1724275186753,
+  "endTime": 1724276098310,
   "band_list": [
     {
       "raw_hot": 1101298,
@@ -427,6 +427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 60125,
+      "num": 60125,
+      "word": "云冈石窟回应检票员辱骂游客",
+      "onboard_time": 1724273231,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56925,
       "num": 58095,
       "word": "全红婵和广东健儿互动太可爱了",
@@ -491,19 +499,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 33669,
+      "num": 33669,
+      "word": "结婚前需要向对方坦诚到什么程度",
+      "onboard_time": 1724269572,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33057,
       "num": 35655,
       "word": "男子救3童牺牲家乡给予百万慰问金",
       "onboard_time": 1724264772,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28423,
-      "num": 28423,
-      "word": "结婚前需要向对方坦诚到什么程度",
-      "onboard_time": 1724269572,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -513,6 +521,14 @@
       "onboard_time": 1724247620,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 26079,
+      "num": 26079,
+      "word": "中学暑假深夜转移学生有偿补课",
+      "onboard_time": 1724254221,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23910,
@@ -529,14 +545,6 @@
       "onboard_time": 1724271611,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 22789,
-      "num": 33468,
-      "word": "云冈石窟回应检票员辱骂游客",
-      "onboard_time": 1724273231,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22686,
@@ -556,7 +564,7 @@
     },
     {
       "raw_hot": 11434,
-      "num": 28154,
+      "num": 61360,
       "word": "跟着悟空打卡青城山",
       "onboard_time": 1724269451,
       "rank": 25,
