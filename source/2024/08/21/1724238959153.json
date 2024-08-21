@@ -1,0 +1,410 @@
+{
+  "runTime": 1724238959153,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 923156,
+        "num": 1147705,
+        "word": "外交部回应黑神话悟空席卷游戏界",
+        "onboard_time": 1724227760,
+        "rank": 0,
+        "category": "游戏,国内时政"
+      },
+      {
+        "raw_hot": 733036,
+        "num": 733036,
+        "word": "12306回应男子把卧铺让给妹妹被拒",
+        "onboard_time": 1724236999,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4581,
+        "num": 732530,
+        "word": "中非媒体智库论坛",
+        "onboard_time": 1724226620,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1391655,
+        "num": 726714,
+        "word": "全红婵短短几句话震惊了我四次",
+        "onboard_time": 1724230880,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 757697,
+        "num": 717392,
+        "word": "樊振东马龙陈梦退出澳门赛",
+        "onboard_time": 1724229321,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 408769,
+        "num": 713741,
+        "word": "裴珠泫开球",
+        "onboard_time": 1724237240,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364649,
+        "num": 705675,
+        "word": "薛宝钗扮演者 她没有得到爱自己的丈夫",
+        "onboard_time": 1724238380,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 704104,
+        "num": 704104,
+        "word": "又见提灯定损",
+        "onboard_time": 1724231180,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46618,
+        "num": 653325,
+        "word": "蔬菜涨价现象不会持续太久",
+        "onboard_time": 1724238019,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181149,
+        "num": 628382,
+        "word": "广州暴雨大如白幕",
+        "onboard_time": 1724233821,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628134,
+        "num": 628134,
+        "word": "从上海飞广州飞了一晚上还在原地",
+        "onboard_time": 1724232561,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490479,
+        "num": 605699,
+        "word": "肖指导儿子",
+        "onboard_time": 1724234601,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 772728,
+        "num": 601002,
+        "word": "穆婷婷回应黑神话悟空争议",
+        "onboard_time": 1724222900,
+        "rank": 12,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 594459,
+        "num": 594459,
+        "word": "佟丽娅电梯神图",
+        "onboard_time": 1724231360,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 54483,
+        "num": 547036,
+        "word": "拼多多我的网络菜市场",
+        "onboard_time": 1724230401,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 305109,
+        "num": 541445,
+        "word": "YG新男团NEXTMONSTER",
+        "onboard_time": 1724236339,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 540995,
+        "num": 540995,
+        "word": "你能接受连上22天连休8天吗",
+        "onboard_time": 1724220920,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 456416,
+        "num": 456416,
+        "word": "黑神话悟空",
+        "onboard_time": 1724225120,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 223827,
+        "num": 404196,
+        "word": "刘亦菲衣服",
+        "onboard_time": 1724237178,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218947,
+        "num": 400182,
+        "word": "雅 妻子的闪耀是我的职责",
+        "onboard_time": 1724231239,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 397707,
+        "num": 397707,
+        "word": "黑神话猪八戒",
+        "onboard_time": 1724223440,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 381300,
+        "num": 381300,
+        "word": "张颖颖 伪豪门的生活真的很不易",
+        "onboard_time": 1724233102,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315371,
+        "num": 315371,
+        "word": "国乒开启新老交替",
+        "onboard_time": 1724238139,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 314319,
+        "num": 314319,
+        "word": "小学生抽电子烟牵出千万级案件",
+        "onboard_time": 1724228120,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300402,
+        "num": 300402,
+        "word": "时代少年团染发",
+        "onboard_time": 1724233161,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 292818,
+        "num": 292818,
+        "word": "不小心坐了发小飞行的航班",
+        "onboard_time": 1724232681,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 290149,
+        "num": 290149,
+        "word": "马龙王楚钦回先农坛体校",
+        "onboard_time": 1724236400,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220561,
+        "num": 220561,
+        "word": "职校干部输送学生去实习收好处费255万",
+        "onboard_time": 1724230821,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199542,
+        "num": 210312,
+        "word": "张真源白发",
+        "onboard_time": 1724232501,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195088,
+        "num": 208431,
+        "word": "欧阳妮妮张书豪登记结婚",
+        "onboard_time": 1724219599,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257307,
+        "num": 207937,
+        "word": "结婚十年女生对未婚女生的一些建议",
+        "onboard_time": 1724232861,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206663,
+        "num": 206663,
+        "word": "拜登批准涉中国高密核战略",
+        "onboard_time": 1724232981,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 205921,
+        "num": 205921,
+        "word": "王鹤棣父亲注销四川乐山一餐饮店",
+        "onboard_time": 1724223260,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204262,
+        "num": 204262,
+        "word": "潘展乐长达8秒C位",
+        "onboard_time": 1724238680,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187495,
+        "num": 187495,
+        "word": "严浩翔染粉发了",
+        "onboard_time": 1724233761,
+        "rank": 34,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 193565,
+        "num": 187124,
+        "word": "黑神话悟空的成功意味着什么",
+        "onboard_time": 1724238260,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186719,
+        "num": 186719,
+        "word": "肖战回宜昌机场路透",
+        "onboard_time": 1724236939,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185548,
+        "num": 185548,
+        "word": "BLG对战TES",
+        "onboard_time": 1724233580,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 177546,
+        "num": 177546,
+        "word": "电车被偷好几年了突然给我发短信",
+        "onboard_time": 1724225120,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174569,
+        "num": 174569,
+        "word": "孙颖莎往那一站就是兵",
+        "onboard_time": 1724234841,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174407,
+        "num": 174407,
+        "word": "芒果是多满意虞书欣",
+        "onboard_time": 1724231842,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174385,
+        "num": 174385,
+        "word": "终于看到全红婵的水花了",
+        "onboard_time": 1724236339,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172594,
+        "num": 172594,
+        "word": "妖王虎先锋动作捕捉原型竟是喵喵",
+        "onboard_time": 1724237598,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170765,
+        "num": 170765,
+        "word": "退伍军人被冒名顶替26年",
+        "onboard_time": 1724225120,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169658,
+        "num": 169658,
+        "word": "被虐死女童生父抢走娃索要抚养费",
+        "onboard_time": 1724234420,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167993,
+        "num": 167993,
+        "word": "小米第二季度净利润51亿元",
+        "onboard_time": 1724235499,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 163431,
+        "num": 163431,
+        "word": "时代少年团澳门演唱会二开",
+        "onboard_time": 1724234660,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158796,
+        "num": 158796,
+        "word": "黑神话悟能",
+        "onboard_time": 1724235980,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156039,
+        "num": 156039,
+        "word": "黑厂新女团MEOVV成员",
+        "onboard_time": 1724231719,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147518,
+        "num": 147518,
+        "word": "纪念碑谷3",
+        "onboard_time": 1724231601,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中越两党两国最高领导人会晤传递重要信号#"
+    }
+  }
+}

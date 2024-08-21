@@ -1,6 +1,6 @@
 {
   "startTime": 1724171081349,
-  "endTime": 1724236694736,
+  "endTime": 1724238959153,
   "band_list": [
     {
       "raw_hot": 2704809,
@@ -355,12 +355,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 733036,
+      "num": 733036,
+      "word": "12306回应男子把卧铺让给妹妹被拒",
+      "onboard_time": 1724236999,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 718008,
       "num": 718008,
       "word": "中国体育代表团总结大会现场图",
       "onboard_time": 1724157262,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 704104,
+      "num": 704104,
+      "word": "又见提灯定损",
+      "onboard_time": 1724231180,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 689427,
@@ -403,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 628134,
+      "num": 628134,
+      "word": "从上海飞广州飞了一晚上还在原地",
+      "onboard_time": 1724232561,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 617571,
       "num": 349587,
       "word": "真的建议九月份的工资别乱花",
@@ -433,14 +457,6 @@
       "onboard_time": 1724233161,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 605061,
-      "num": 605061,
-      "word": "又见提灯定损",
-      "onboard_time": 1724231180,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 596942,
@@ -545,6 +561,14 @@
       "onboard_time": 1724212881,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 490479,
+      "num": 605699,
+      "word": "肖指导儿子",
+      "onboard_time": 1724234601,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 485085,
@@ -667,6 +691,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 408769,
+      "num": 713741,
+      "word": "裴珠泫开球",
+      "onboard_time": 1724237240,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 408695,
       "num": 422699,
       "word": "陈赫玩上黑神话悟空了",
@@ -755,6 +787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 364649,
+      "num": 705675,
+      "word": "薛宝钗扮演者 她没有得到爱自己的丈夫",
+      "onboard_time": 1724238380,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 358779,
       "num": 550415,
       "word": "被虐致死3岁女童母亲和姥姥发声",
@@ -769,14 +809,6 @@
       "onboard_time": 1724224578,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 350479,
-      "num": 350479,
-      "word": "肖指导儿子",
-      "onboard_time": 1724234601,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 348674,
@@ -803,14 +835,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 332964,
-      "num": 332964,
-      "word": "从上海飞广州飞了一晚上还在原地",
-      "onboard_time": 1724232561,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 331599,
       "num": 331599,
       "word": "印度男孩绝食3天逼妈妈买手机",
@@ -835,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 315371,
+      "num": 315371,
+      "word": "国乒开启新老交替",
+      "onboard_time": 1724238139,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 314928,
       "num": 314928,
       "word": "纪念碑谷3",
@@ -851,8 +883,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 305109,
+      "num": 541445,
+      "word": "YG新男团NEXTMONSTER",
+      "onboard_time": 1724236339,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 301969,
-      "num": 333972,
+      "num": 400182,
       "word": "雅 妻子的闪耀是我的职责",
       "onboard_time": 1724231239,
       "rank": 28,
@@ -881,6 +921,14 @@
       "onboard_time": 1724227341,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 290149,
+      "num": 290149,
+      "word": "马龙王楚钦回先农坛体校",
+      "onboard_time": 1724236400,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 287288,
@@ -931,14 +979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 270957,
-      "num": 270957,
-      "word": "YG新男团NEXTMONSTER",
-      "onboard_time": 1724236339,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 269323,
       "num": 269323,
       "word": "突然发现电视买大了",
@@ -956,7 +996,7 @@
     },
     {
       "raw_hot": 268061,
-      "num": 268061,
+      "num": 628382,
       "word": "广州暴雨大如白幕",
       "onboard_time": 1724233821,
       "rank": 32,
@@ -1227,6 +1267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 223827,
+      "num": 404196,
+      "word": "刘亦菲衣服",
+      "onboard_time": 1724237178,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 223723,
       "num": 223723,
       "word": "张颖颖连发三条微博回应张兰",
@@ -1379,6 +1427,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 204262,
+      "num": 204262,
+      "word": "潘展乐长达8秒C位",
+      "onboard_time": 1724238680,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203674,
       "num": 203674,
       "word": "李雯雯被夸女霸王",
@@ -1491,6 +1547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193565,
+      "num": 187124,
+      "word": "黑神话悟空的成功意味着什么",
+      "onboard_time": 1724238260,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193108,
       "num": 547740,
       "word": "乐山一煤矿发生事故致7死",
@@ -1555,6 +1619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186719,
+      "num": 186719,
+      "word": "肖战回宜昌机场路透",
+      "onboard_time": 1724236939,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186421,
       "num": 186421,
       "word": "高亚麟回怼网友",
@@ -1569,6 +1641,14 @@
       "onboard_time": 1724210420,
       "rank": 47,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 185548,
+      "num": 185548,
+      "word": "BLG对战TES",
+      "onboard_time": 1724233580,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 185143,
@@ -1608,14 +1688,6 @@
       "word": "孙杨将代表浙江队出战",
       "onboard_time": 1724200582,
       "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 181562,
-      "num": 181562,
-      "word": "马龙王楚钦回先农坛体校",
-      "onboard_time": 1724236400,
-      "rank": 41,
       "category": "体育"
     },
     {
@@ -1699,6 +1771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174385,
+      "num": 174385,
+      "word": "终于看到全红婵的水花了",
+      "onboard_time": 1724236339,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174071,
       "num": 174071,
       "word": "专家警告盗版将杀死国产游戏",
@@ -1713,6 +1793,14 @@
       "onboard_time": 1724224697,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172594,
+      "num": 172594,
+      "word": "妖王虎先锋动作捕捉原型竟是喵喵",
+      "onboard_time": 1724237598,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 171587,
@@ -1731,19 +1819,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169658,
+      "num": 579356,
+      "word": "被虐死女童生父抢走娃索要抚养费",
+      "onboard_time": 1724234420,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169497,
       "num": 169497,
       "word": "黄雨婷发博告别巴黎奥运会",
       "onboard_time": 1724165423,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 169458,
-      "num": 169458,
-      "word": "终于看到全红婵的水花了",
-      "onboard_time": 1724236339,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -1859,6 +1947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158796,
+      "num": 158796,
+      "word": "黑神话悟能",
+      "onboard_time": 1724235980,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 158508,
       "num": 158508,
       "word": "两被告辩称殴打虐待是管教孩子",
@@ -1891,14 +1987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154255,
-      "num": 154255,
-      "word": "BLG对战TES",
-      "onboard_time": 1724233580,
-      "rank": 48,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 154039,
       "num": 154039,
       "word": "黑神话悟空销售额超15亿元",
@@ -1929,14 +2017,6 @@
       "onboard_time": 1724228660,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 148178,
-      "num": 148178,
-      "word": "黑神话悟能",
-      "onboard_time": 1724235980,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 147733,
@@ -2052,7 +2132,7 @@
     },
     {
       "raw_hot": 119996,
-      "num": 542748,
+      "num": 547036,
       "word": "拼多多我的网络菜市场",
       "onboard_time": 1724230401,
       "rank": 16,
@@ -2195,14 +2275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 61654,
-      "num": 579356,
-      "word": "被虐死女童生父抢走娃索要抚养费",
-      "onboard_time": 1724234420,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 60678,
       "num": 989608,
       "word": "直击地球裂缝上的花江峡谷大桥",
@@ -2256,6 +2328,14 @@
       "word": "西汉黄金纪念币长啥样",
       "onboard_time": 1724161523,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46618,
+      "num": 653325,
+      "word": "蔬菜涨价现象不会持续太久",
+      "onboard_time": 1724238019,
+      "rank": 8,
       "category": "社会新闻"
     },
     {

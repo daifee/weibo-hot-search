@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1724236694736,
+  "endTime": 1724238959153,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -16075,6 +16075,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 733036,
+      "num": 733036,
+      "word": "12306回应男子把卧铺让给妹妹被拒",
+      "onboard_time": 1724236999,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 732642,
       "num": 732642,
       "word": "刘宇坤接吻哥",
@@ -16617,6 +16625,14 @@
       "onboard_time": 1723263322,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 704104,
+      "num": 704104,
+      "word": "又见提灯定损",
+      "onboard_time": 1724231180,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 703931,
@@ -18171,6 +18187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 628134,
+      "num": 628134,
+      "word": "从上海飞广州飞了一晚上还在原地",
+      "onboard_time": 1724232561,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 627708,
       "num": 577829,
       "word": "韩林跺脚",
@@ -18769,14 +18793,6 @@
       "onboard_time": 1722875600,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 605061,
-      "num": 605061,
-      "word": "又见提灯定损",
-      "onboard_time": 1724231180,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 604170,
@@ -21761,6 +21777,14 @@
       "onboard_time": 1722796456,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 490479,
+      "num": 605699,
+      "word": "肖指导儿子",
+      "onboard_time": 1724234601,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 489777,
@@ -24987,6 +25011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 408769,
+      "num": 713741,
+      "word": "裴珠泫开球",
+      "onboard_time": 1724237240,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 408723,
       "num": 408723,
       "word": "郑钦文樊振东互关",
@@ -27363,6 +27395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 364649,
+      "num": 705675,
+      "word": "薛宝钗扮演者 她没有得到爱自己的丈夫",
+      "onboard_time": 1724238380,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 364508,
       "num": 364508,
       "word": "马尔尚无视粉丝再次道歉",
@@ -28233,14 +28273,6 @@
       "onboard_time": 1723229653,
       "rank": 42,
       "category": "体育,音乐"
-    },
-    {
-      "raw_hot": 350479,
-      "num": 350479,
-      "word": "肖指导儿子",
-      "onboard_time": 1724234601,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 350435,
@@ -29377,14 +29409,6 @@
       "onboard_time": 1723616061,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 332964,
-      "num": 332964,
-      "word": "从上海飞广州飞了一晚上还在原地",
-      "onboard_time": 1724232561,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 332893,
@@ -30659,6 +30683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 315371,
+      "num": 315371,
+      "word": "国乒开启新老交替",
+      "onboard_time": 1724238139,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 315366,
       "num": 315366,
       "word": "张博恒说奥运村很抽象",
@@ -31643,6 +31675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 305109,
+      "num": 541445,
+      "word": "YG新男团NEXTMONSTER",
+      "onboard_time": 1724236339,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 305103,
       "num": 229900,
       "word": "刘璇问为什么叫张博恒茶茶",
@@ -31956,7 +31996,7 @@
     },
     {
       "raw_hot": 301969,
-      "num": 333972,
+      "num": 400182,
       "word": "雅 妻子的闪耀是我的职责",
       "onboard_time": 1724231239,
       "rank": 28,
@@ -33161,6 +33201,14 @@
       "onboard_time": 1722683605,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 290149,
+      "num": 290149,
+      "word": "马龙王楚钦回先农坛体校",
+      "onboard_time": 1724236400,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 290137,
@@ -35043,14 +35091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 270957,
-      "num": 270957,
-      "word": "YG新男团NEXTMONSTER",
-      "onboard_time": 1724236339,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 270946,
       "num": 287758,
       "word": "金鹰奖片单",
@@ -35332,7 +35372,7 @@
     },
     {
       "raw_hot": 268061,
-      "num": 268061,
+      "num": 628382,
       "word": "广州暴雨大如白幕",
       "onboard_time": 1724233821,
       "rank": 32,
@@ -40587,6 +40627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 223827,
+      "num": 404196,
+      "word": "刘亦菲衣服",
+      "onboard_time": 1724237178,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 223811,
       "num": 570871,
       "word": "金珉奎腹肌",
@@ -43923,6 +43971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204262,
+      "num": 204262,
+      "word": "潘展乐长达8秒C位",
+      "onboard_time": 1724238680,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204261,
       "num": 204261,
       "word": "奥运会也是理发师的一次大考",
@@ -46499,6 +46555,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 193565,
+      "num": 187124,
+      "word": "黑神话悟空的成功意味着什么",
+      "onboard_time": 1724238260,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193561,
       "num": 220156,
       "word": "魏大勋听到粉丝喊老公的反应",
@@ -47867,6 +47931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186719,
+      "num": 186719,
+      "word": "肖战回宜昌机场路透",
+      "onboard_time": 1724236939,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186656,
       "num": 186656,
       "word": "胡歌谈和大鱼海棠姜子牙导演合作",
@@ -48025,6 +48097,14 @@
       "onboard_time": 1723227614,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185548,
+      "num": 185548,
+      "word": "BLG对战TES",
+      "onboard_time": 1724233580,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 185457,
@@ -48673,14 +48753,6 @@
       "onboard_time": 1723696462,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181562,
-      "num": 181562,
-      "word": "马龙王楚钦回先农坛体校",
-      "onboard_time": 1724236400,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 181553,
@@ -49747,6 +49819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174385,
+      "num": 174385,
+      "word": "终于看到全红婵的水花了",
+      "onboard_time": 1724236339,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174368,
       "num": 174368,
       "word": "瓦基弗银行官宣袁心玥加盟",
@@ -49977,6 +50057,14 @@
       "onboard_time": 1723887979,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172594,
+      "num": 172594,
+      "word": "妖王虎先锋动作捕捉原型竟是喵喵",
+      "onboard_time": 1724237598,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 172570,
@@ -50347,6 +50435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 169658,
+      "num": 579356,
+      "word": "被虐死女童生父抢走娃索要抚养费",
+      "onboard_time": 1724234420,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169655,
       "num": 169655,
       "word": "北欧女高中生的周末",
@@ -50377,14 +50473,6 @@
       "onboard_time": 1723548560,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 169458,
-      "num": 169458,
-      "word": "终于看到全红婵的水花了",
-      "onboard_time": 1724236339,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 169457,
@@ -51667,6 +51755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158796,
+      "num": 158796,
+      "word": "黑神话悟能",
+      "onboard_time": 1724235980,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 158637,
       "num": 158637,
       "word": "看来工业大摸底还是没摸干净",
@@ -52209,14 +52305,6 @@
       "onboard_time": 1722476125,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 154255,
-      "num": 154255,
-      "word": "BLG对战TES",
-      "onboard_time": 1724233580,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 154230,
@@ -52881,14 +52969,6 @@
       "onboard_time": 1724064621,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 148178,
-      "num": 148178,
-      "word": "黑神话悟能",
-      "onboard_time": 1724235980,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 148174,
@@ -54996,7 +55076,7 @@
     },
     {
       "raw_hot": 119996,
-      "num": 542748,
+      "num": 547036,
       "word": "拼多多我的网络菜市场",
       "onboard_time": 1724230401,
       "rank": 16,
@@ -59035,14 +59115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 61654,
-      "num": 579356,
-      "word": "被虐死女童生父抢走娃索要抚养费",
-      "onboard_time": 1724234420,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 61619,
       "num": 990797,
       "word": "俄方在布良斯克等州实行反恐行动制度",
@@ -60737,6 +60809,14 @@
       "onboard_time": 1723105885,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46618,
+      "num": 653325,
+      "word": "蔬菜涨价现象不会持续太久",
+      "onboard_time": 1724238019,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46582,
