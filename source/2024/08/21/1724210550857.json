@@ -1,0 +1,410 @@
+{
+  "runTime": 1724210550857,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1532224,
+        "num": 1532224,
+        "word": "妻子因病复发不能孕丈夫诉撤销婚姻",
+        "onboard_time": 1724207480,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1496870,
+        "num": 1496870,
+        "word": "美国大选",
+        "onboard_time": 1724204659,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 8936,
+        "num": 1348073,
+        "word": "西汉黄金纪念币长啥样",
+        "onboard_time": 1724161523,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1202958,
+        "num": 1202958,
+        "word": "全红婵好像误入巨人国",
+        "onboard_time": 1724203278,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1005067,
+        "num": 1005067,
+        "word": "wps崩了",
+        "onboard_time": 1724209279,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 769939,
+        "num": 769939,
+        "word": "覃海洋和陈芋汐的体型",
+        "onboard_time": 1724204539,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 684849,
+        "num": 684849,
+        "word": "黑神话悟空结局",
+        "onboard_time": 1724173216,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 612573,
+        "num": 612573,
+        "word": "谷爱凌正面刚黑粉",
+        "onboard_time": 1724200762,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 368665,
+        "num": 589335,
+        "word": "杨紫与父母外出吃饭",
+        "onboard_time": 1724208920,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239572,
+        "num": 550415,
+        "word": "被虐致死3岁女童母亲和姥姥发声",
+        "onboard_time": 1724205798,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2687625,
+        "num": 526109,
+        "word": "万茜删博",
+        "onboard_time": 1724206219,
+        "rank": 10,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 824771,
+        "num": 496333,
+        "word": "许光汉入伍",
+        "onboard_time": 1724198000,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484579,
+        "num": 484579,
+        "word": "日本男子搬家发现失踪10年母亲遗骸",
+        "onboard_time": 1724196376,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419884,
+        "num": 419884,
+        "word": "林大厨爆改",
+        "onboard_time": 1724197698,
+        "rank": 13,
+        "category": "美妆,作品衍生"
+      },
+      {
+        "raw_hot": 81103,
+        "num": 416667,
+        "word": "被虐致死女童生母称不知丈夫有外遇",
+        "onboard_time": 1724209219,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416092,
+        "num": 416092,
+        "word": "陈妍希 陈晓",
+        "onboard_time": 1724158882,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377513,
+        "num": 377513,
+        "word": "12306推出两项学生购票新功能",
+        "onboard_time": 1724202022,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308045,
+        "num": 374480,
+        "word": "张淼怡发文回应",
+        "onboard_time": 1724163924,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 255057,
+        "num": 373616,
+        "word": "边水往事 惩罚熬夜看剧的人",
+        "onboard_time": 1724203639,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242281,
+        "num": 370961,
+        "word": "王俊凯点赞评论全红婵微博",
+        "onboard_time": 1724165662,
+        "rank": 19,
+        "category": "电影,体育"
+      },
+      {
+        "raw_hot": 607309,
+        "num": 367211,
+        "word": "日媒评黑神话悟空",
+        "onboard_time": 1724204180,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 586582,
+        "num": 363376,
+        "word": "消费降级后大家首先不买的是什么",
+        "onboard_time": 1724198959,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 361770,
+        "num": 361770,
+        "word": "要开学了要开学了要开学了",
+        "onboard_time": 1724205259,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 333834,
+        "num": 333834,
+        "word": "游客呼吁山西一定要接住泼天的富贵",
+        "onboard_time": 1724165903,
+        "rank": 23,
+        "category": "旅游,游戏"
+      },
+      {
+        "raw_hot": 324232,
+        "num": 324232,
+        "word": "外国网友开始打听一只中国猴子",
+        "onboard_time": 1724196798,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 313201,
+        "num": 313201,
+        "word": "瑶典藏",
+        "onboard_time": 1724209399,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 281160,
+        "num": 281160,
+        "word": "真的建议九月份的工资别乱花",
+        "onboard_time": 1724196918,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275015,
+        "num": 275015,
+        "word": "黄雅琼汪顺自拍",
+        "onboard_time": 1724210000,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201461,
+        "num": 273460,
+        "word": "李沁梦回小公主淳儿",
+        "onboard_time": 1724207360,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184963,
+        "num": 273408,
+        "word": "张淼怡演的林黛玉",
+        "onboard_time": 1724203938,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 273365,
+        "num": 273365,
+        "word": "TES海报 黑神话悟空",
+        "onboard_time": 1724202979,
+        "rank": 30,
+        "category": "电竞,游戏"
+      },
+      {
+        "raw_hot": 268827,
+        "num": 268827,
+        "word": "印度男孩绝食3天逼妈妈买手机",
+        "onboard_time": 1724206939,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261191,
+        "num": 261191,
+        "word": "华为将发布首款轿跑SUV",
+        "onboard_time": 1724208140,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 225304,
+        "num": 225304,
+        "word": "香港男子侮辱国歌后以患自闭症求情",
+        "onboard_time": 1724196257,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219950,
+        "num": 219950,
+        "word": "水硕水博还能招摇过市多久",
+        "onboard_time": 1724207539,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201849,
+        "num": 201849,
+        "word": "俄宣布成立三个边境军团",
+        "onboard_time": 1724205380,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 199181,
+        "num": 199181,
+        "word": "国足世预赛名单",
+        "onboard_time": 1724208800,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178260,
+        "num": 198813,
+        "word": "treasure怎么了",
+        "onboard_time": 1724208440,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198482,
+        "num": 198482,
+        "word": "黑神话悟空",
+        "onboard_time": 1724108835,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198213,
+        "num": 198213,
+        "word": "被虐致死3岁女童遗体仍在殡仪馆",
+        "onboard_time": 1724206580,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198066,
+        "num": 198066,
+        "word": "韦世豪无缘国足18强赛名单",
+        "onboard_time": 1724210120,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85831,
+        "num": 197490,
+        "word": "乌克兰无人机袭击莫斯科被击退",
+        "onboard_time": 1724209819,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 197211,
+        "num": 197211,
+        "word": "生父与情人打死3岁女童案今日开庭",
+        "onboard_time": 1724204719,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187273,
+        "num": 187273,
+        "word": "国产游戏黑神话悟空霸榜全球第一",
+        "onboard_time": 1724163983,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185323,
+        "num": 185323,
+        "word": "全红婵和王俊凯葛优合照",
+        "onboard_time": 1724155162,
+        "rank": 44,
+        "category": "电影,体育"
+      },
+      {
+        "raw_hot": 180557,
+        "num": 180557,
+        "word": "燃霜为昼开机",
+        "onboard_time": 1724206820,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179248,
+        "num": 179248,
+        "word": "四六级成绩要出了",
+        "onboard_time": 1724204598,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 177651,
+        "num": 177651,
+        "word": "驻法使馆回应巴黎长荣桂冠酒店事件",
+        "onboard_time": 1724210420,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 177055,
+        "num": 177055,
+        "word": "詹妮弗洛佩兹大本离婚",
+        "onboard_time": 1724208260,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176044,
+        "num": 176044,
+        "word": "印度男子性侵2名学前班4岁女童",
+        "onboard_time": 1724165604,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平接见第33届奥运会中国体育代表团#"
+    }
+  }
+}
