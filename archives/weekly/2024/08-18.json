@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724214328494,
+  "endTime": 1724215144328,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -299,20 +299,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2137828,
+      "num": 2137828,
+      "word": "潘展乐发完微博立马下线了",
+      "onboard_time": 1724210661,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2113689,
       "num": 2113689,
       "word": "严浩翔麦没关",
       "onboard_time": 1723902200,
       "rank": 0,
       "category": "演出"
-    },
-    {
-      "raw_hot": 2108960,
-      "num": 2108960,
-      "word": "潘展乐发完微博立马下线了",
-      "onboard_time": 1724210661,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 2058372,
@@ -515,6 +515,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1656192,
+      "num": 634264,
+      "word": "肯尼亚肢解42名女性凶手已越狱",
+      "onboard_time": 1724211619,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1643820,
       "num": 1643820,
       "word": "46岁李维嘉洁癖严重",
@@ -649,14 +657,6 @@
       "onboard_time": 1723967419,
       "rank": 5,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1467218,
-      "num": 634264,
-      "word": "肯尼亚肢解42名女性凶手已越狱",
-      "onboard_time": 1724211619,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1466610,
@@ -881,6 +881,14 @@
       "onboard_time": 1724082020,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1197836,
+      "num": 895632,
+      "word": "去世13年的爸爸救了我一命",
+      "onboard_time": 1724211560,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 1196017,
@@ -1465,14 +1473,6 @@
       "onboard_time": 1724047520,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 825573,
-      "num": 825573,
-      "word": "去世13年的爸爸救了我一命",
-      "onboard_time": 1724211560,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 820229,
@@ -2483,6 +2483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 493896,
+      "num": 661071,
+      "word": "被虐致死女童生母还没能与丈夫离婚",
+      "onboard_time": 1724211021,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 493770,
       "num": 493770,
       "word": "购买学生票可提前预约了",
@@ -2803,6 +2811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 427936,
+      "num": 682727,
+      "word": "生父与情人虐打3岁女童还录视频",
+      "onboard_time": 1724212822,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 427557,
       "num": 427557,
       "word": "LNG对战TES",
@@ -2867,6 +2883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 419508,
+      "num": 689778,
+      "word": "杨紫与父母外出吃饭",
+      "onboard_time": 1724208920,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 418843,
       "num": 418843,
       "word": "童禹坤生日会",
@@ -2881,14 +2905,6 @@
       "onboard_time": 1724205259,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 418005,
-      "num": 689778,
-      "word": "杨紫与父母外出吃饭",
-      "onboard_time": 1724208920,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 416854,
@@ -2987,6 +3003,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 402943,
+      "num": 517398,
+      "word": "陈晓旭 天选林黛玉",
+      "onboard_time": 1724212881,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 397635,
       "num": 397635,
       "word": "来自央音专业第一的血脉压制",
@@ -3008,14 +3032,6 @@
       "word": "女子莫名被男子压地打致面部流血",
       "onboard_time": 1724108956,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 395702,
-      "num": 661071,
-      "word": "被虐致死女童生母还没能与丈夫离婚",
-      "onboard_time": 1724211021,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -3419,6 +3435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 348674,
+      "num": 348674,
+      "word": "花两三万玩黑神话悟空值吗",
+      "onboard_time": 1724211260,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 347600,
       "num": 533524,
       "word": "郑钦文现身表彰大会",
@@ -3731,6 +3755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317235,
+      "num": 420330,
+      "word": "余景天首谈退赛",
+      "onboard_time": 1724214862,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 316918,
       "num": 316918,
       "word": "孙颖莎又成打卡景点了",
@@ -3841,14 +3873,6 @@
       "onboard_time": 1724048662,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 308379,
-      "num": 308379,
-      "word": "花两三万玩黑神话悟空值吗",
-      "onboard_time": 1724211260,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 307963,
@@ -4212,7 +4236,7 @@
     },
     {
       "raw_hot": 280771,
-      "num": 360553,
+      "num": 361572,
       "word": "石原里美依然好甜",
       "onboard_time": 1724212642,
       "rank": 25,
@@ -4497,6 +4521,14 @@
       "onboard_time": 1723941377,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262945,
+      "num": 262945,
+      "word": "孙上香",
+      "onboard_time": 1724211380,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 261430,
@@ -4849,14 +4881,6 @@
       "onboard_time": 1724059763,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 241233,
-      "num": 346000,
-      "word": "陈晓旭 天选林黛玉",
-      "onboard_time": 1724212881,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 241202,
@@ -5403,6 +5427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216376,
+      "num": 475107,
+      "word": "李沁梦回小公主淳儿",
+      "onboard_time": 1724207360,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216323,
       "num": 216323,
       "word": "黑神话悟空大头怪",
@@ -5416,14 +5448,6 @@
       "word": "西安一物业撬门占用业主空置别墅",
       "onboard_time": 1723957219,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 215914,
-      "num": 682727,
-      "word": "生父与情人虐打3岁女童还录视频",
-      "onboard_time": 1724212822,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -5489,6 +5513,14 @@
       "onboard_time": 1723956980,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 213382,
+      "num": 392416,
+      "word": "詹妮弗洛佩兹大本离婚",
+      "onboard_time": 1724208260,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 213084,
@@ -5689,14 +5721,6 @@
       "onboard_time": 1723945758,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207082,
-      "num": 392416,
-      "word": "詹妮弗洛佩兹大本离婚",
-      "onboard_time": 1724208260,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 206654,
@@ -5905,14 +5929,6 @@
       "onboard_time": 1724127263,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 201461,
-      "num": 475107,
-      "word": "李沁梦回小公主淳儿",
-      "onboard_time": 1724207360,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 201286,
@@ -6160,14 +6176,6 @@
       "word": "黑神话 请假",
       "onboard_time": 1724066840,
       "rank": 8,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 195203,
-      "num": 195203,
-      "word": "孙上香",
-      "onboard_time": 1724211380,
-      "rank": 44,
       "category": "游戏"
     },
     {
@@ -6708,7 +6716,7 @@
     },
     {
       "raw_hot": 179891,
-      "num": 179891,
+      "num": 351446,
       "word": "跟着悟空游山西",
       "onboard_time": 1724213601,
       "rank": 48,
@@ -6817,6 +6825,14 @@
       "onboard_time": 1724109196,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 175957,
+      "num": 689780,
+      "word": "多地发文警示零首付买房风险",
+      "onboard_time": 1724212822,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175109,
@@ -7025,6 +7041,14 @@
       "onboard_time": 1724054480,
       "rank": 48,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 168918,
+      "num": 168918,
+      "word": "中国AI推动者胡国平",
+      "onboard_time": 1724214441,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 168791,
@@ -8563,6 +8587,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 101188,
+      "num": 494441,
+      "word": "央视记者现场直击美民主党大会场外抗议",
+      "onboard_time": 1724214741,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 100567,
       "num": 100567,
       "word": "小狗真的筋疲力尽了",
@@ -8643,6 +8675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90645,
+      "num": 535295,
+      "word": "原来文物修复可以这么酷",
+      "onboard_time": 1724211321,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89828,
       "num": 193731,
       "word": "佟丽娅说妈妈就是超人",
@@ -8705,14 +8745,6 @@
       "onboard_time": 1724091193,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 86895,
-      "num": 689780,
-      "word": "多地发文警示零首付买房风险",
-      "onboard_time": 1724212822,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 86734,
@@ -8832,14 +8864,6 @@
       "word": "律师解读41名事业单位人员被清退",
       "onboard_time": 1723986079,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74769,
-      "num": 535295,
-      "word": "原来文物修复可以这么酷",
-      "onboard_time": 1724211321,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -9532,7 +9556,7 @@
     },
     {
       "raw_hot": 38628,
-      "num": 321573,
+      "num": 350381,
       "word": "美民主党大会举办地多处收到炸弹威胁",
       "onboard_time": 1724214081,
       "rank": 29,
