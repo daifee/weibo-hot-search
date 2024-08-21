@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724261697542,
+  "endTime": 1724264835474,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -11483,12 +11483,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 39915,
+      "num": 39915,
+      "word": "在广东永远也不要以貌取人",
+      "onboard_time": 1724263752,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 39612,
       "num": 440031,
       "word": "货车司机运输途中去世背后",
       "onboard_time": 1724122821,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39367,
+      "num": 54544,
+      "word": "杨志刚撞脸半个娱乐圈",
+      "onboard_time": 1724262253,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 38972,
@@ -11577,6 +11593,14 @@
       "onboard_time": 1724248642,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 35662,
+      "num": 35662,
+      "word": "内娱超Like排名第一是肖战",
+      "onboard_time": 1724264054,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 35576,
@@ -11689,6 +11713,14 @@
       "onboard_time": 1724154681,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 28887,
+      "num": 35655,
+      "word": "男子救3童牺牲家乡给予百万慰问金",
+      "onboard_time": 1724264772,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28585,

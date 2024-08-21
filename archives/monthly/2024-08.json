@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1724261697542,
+  "endTime": 1724264835474,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -62379,6 +62379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39915,
+      "num": 39915,
+      "word": "在广东永远也不要以貌取人",
+      "onboard_time": 1724263752,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 39884,
       "num": 415851,
       "word": "在张杰演唱会看到了魏晨",
@@ -62465,6 +62473,14 @@
       "onboard_time": 1723381347,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39367,
+      "num": 54544,
+      "word": "杨志刚撞脸半个娱乐圈",
+      "onboard_time": 1724262253,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 39318,
@@ -62857,6 +62873,14 @@
       "onboard_time": 1723182021,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35662,
+      "num": 35662,
+      "word": "内娱超Like排名第一是肖战",
+      "onboard_time": 1724264054,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 35576,
@@ -63577,6 +63601,14 @@
       "onboard_time": 1723784547,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 28887,
+      "num": 35655,
+      "word": "男子救3童牺牲家乡给予百万慰问金",
+      "onboard_time": 1724264772,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28886,
