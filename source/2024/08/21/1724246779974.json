@@ -1,0 +1,410 @@
+{
+  "runTime": 1724246779974,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1800306,
+        "num": 1800306,
+        "word": "奶奶摘花椒15分钟2岁孙女失踪",
+        "onboard_time": 1724241139,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 954652,
+        "num": 954652,
+        "word": "黑神话悟空",
+        "onboard_time": 1724225120,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 5161,
+        "num": 871921,
+        "word": "中非媒体智库论坛",
+        "onboard_time": 1724226620,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 848826,
+        "num": 848826,
+        "word": "12306回应男子把卧铺让给妹妹被拒",
+        "onboard_time": 1724236999,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 751409,
+        "num": 751409,
+        "word": "薛宝钗扮演者 她没有得到爱自己的丈夫",
+        "onboard_time": 1724238380,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 519953,
+        "num": 519953,
+        "word": "BLG对战TES",
+        "onboard_time": 1724233580,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 480507,
+        "num": 480507,
+        "word": "杨紫 花仙子",
+        "onboard_time": 1724244200,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 473486,
+        "num": 473486,
+        "word": "全红婵陈艺文等被记大功",
+        "onboard_time": 1724240179,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 470141,
+        "num": 470141,
+        "word": "王楚钦回应巴黎奥运最开心的瞬间",
+        "onboard_time": 1724239339,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76714,
+        "num": 461710,
+        "word": "被虐致死女童外婆称不判死刑将上诉",
+        "onboard_time": 1724245220,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1851434,
+        "num": 453883,
+        "word": "印度16岁女孩乘公交遭司机等5人轮奸",
+        "onboard_time": 1724245641,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41049,
+        "num": 443246,
+        "word": "技术鬼才魏建军",
+        "onboard_time": 1724245401,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 802297,
+        "num": 431913,
+        "word": "王楚钦在我们队里只排第二",
+        "onboard_time": 1724245160,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 696626,
+        "num": 420322,
+        "word": "Uzi玩黑神话悟空直播间被封",
+        "onboard_time": 1724241620,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 36974,
+        "num": 417368,
+        "word": "女童被虐案被告称打孩子只是想教育",
+        "onboard_time": 1724245220,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496915,
+        "num": 403638,
+        "word": "张颖颖张兰mandy在吵什么",
+        "onboard_time": 1724242520,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397089,
+        "num": 397089,
+        "word": "穆婷婷回应黑神话悟空争议",
+        "onboard_time": 1724222900,
+        "rank": 16,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 342434,
+        "num": 396486,
+        "word": "孙茜 原来综艺可以这么健康",
+        "onboard_time": 1724244499,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272849,
+        "num": 395353,
+        "word": "第一次见剧里挨个和女同事结婚的",
+        "onboard_time": 1724244799,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120059,
+        "num": 394490,
+        "word": "女子与司机冲突后在车顶脱衣跳舞",
+        "onboard_time": 1724244561,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 923542,
+        "num": 394141,
+        "word": "爷爷在甲醛超标的房子里住了大半年",
+        "onboard_time": 1724239039,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 393605,
+        "num": 393605,
+        "word": "你能接受连上22天连休8天吗",
+        "onboard_time": 1724220920,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 365805,
+        "num": 365805,
+        "word": "国乒开启新老交替",
+        "onboard_time": 1724238139,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323920,
+        "num": 323920,
+        "word": "王楚钦谈新周期目标",
+        "onboard_time": 1724242520,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227353,
+        "num": 322859,
+        "word": "佟丽娅 自己淋过雨所以为别人打伞",
+        "onboard_time": 1724244200,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 222364,
+        "num": 320497,
+        "word": "王俊凯 周正这就出发了",
+        "onboard_time": 1724246601,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206362,
+        "num": 316738,
+        "word": "电影刺猬卡不住的全国路演",
+        "onboard_time": 1724245941,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193829,
+        "num": 313427,
+        "word": "脱口秀和Ta的朋友们",
+        "onboard_time": 1724245700,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181352,
+        "num": 311806,
+        "word": "裴珠泫开球",
+        "onboard_time": 1724237240,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135403,
+        "num": 309480,
+        "word": "大熊猫学会蹲小卖部了",
+        "onboard_time": 1724245580,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 307725,
+        "num": 307725,
+        "word": "樊振东马龙陈梦退出澳门赛",
+        "onboard_time": 1724229321,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275263,
+        "num": 275263,
+        "word": "下届奥运能不能加上这个比赛",
+        "onboard_time": 1724245039,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 269097,
+        "num": 269097,
+        "word": "养猫家庭千万不要买的凳子",
+        "onboard_time": 1724242280,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 256325,
+        "num": 256325,
+        "word": "TES赛前海报致敬悟空",
+        "onboard_time": 1724245881,
+        "rank": 33,
+        "category": "电竞,游戏"
+      },
+      {
+        "raw_hot": 240357,
+        "num": 240357,
+        "word": "结婚十年女生对未婚女生的一些建议",
+        "onboard_time": 1724232861,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 234002,
+        "num": 234002,
+        "word": "王者荣耀",
+        "onboard_time": 1724227341,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 228699,
+        "num": 228699,
+        "word": "黑神话正尽快准备更新补丁",
+        "onboard_time": 1724243060,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 214575,
+        "num": 214575,
+        "word": "野猪下山后家养母猪生出1窝小混血",
+        "onboard_time": 1724244860,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194335,
+        "num": 194335,
+        "word": "小学生抽电子烟牵出千万级案件",
+        "onboard_time": 1724228120,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191040,
+        "num": 191040,
+        "word": "KSG对战狼队",
+        "onboard_time": 1724245760,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 179423,
+        "num": 179423,
+        "word": "越来越多人因自由选择租房",
+        "onboard_time": 1724245519,
+        "rank": 40,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 178478,
+        "num": 178478,
+        "word": "杨紫直播",
+        "onboard_time": 1724244619,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176532,
+        "num": 176532,
+        "word": "张晚意演技",
+        "onboard_time": 1724241560,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173335,
+        "num": 173335,
+        "word": "外交部回应黑神话悟空席卷游戏界",
+        "onboard_time": 1724227760,
+        "rank": 43,
+        "category": "游戏,国内时政"
+      },
+      {
+        "raw_hot": 173288,
+        "num": 173288,
+        "word": "郭麒麟阎鹤祥又站到一起了",
+        "onboard_time": 1724246480,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163391,
+        "num": 163391,
+        "word": "黑神话悟空 焦恩俊mod",
+        "onboard_time": 1724240301,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159119,
+        "num": 159119,
+        "word": "深圳一楼盘5折卖房遭业主抵制",
+        "onboard_time": 1724241139,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157060,
+        "num": 157060,
+        "word": "土豆片可以消很多结节",
+        "onboard_time": 1724246421,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152117,
+        "num": 152117,
+        "word": "从上海飞广州飞了一晚上还在原地",
+        "onboard_time": 1724232561,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149349,
+        "num": 149349,
+        "word": "32%的Steam用户使用简体中文",
+        "onboard_time": 1724245039,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视民营经济发展#"
+    }
+  }
+}

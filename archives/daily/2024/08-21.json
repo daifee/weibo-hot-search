@@ -1,6 +1,6 @@
 {
   "startTime": 1724171081349,
-  "endTime": 1724244579593,
+  "endTime": 1724246779974,
   "band_list": [
     {
       "raw_hot": 2704809,
@@ -57,6 +57,22 @@
       "onboard_time": 1724167282,
       "rank": 0,
       "category": "电影,体育"
+    },
+    {
+      "raw_hot": 1851434,
+      "num": 453883,
+      "word": "印度16岁女孩乘公交遭司机等5人轮奸",
+      "onboard_time": 1724245641,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1800306,
+      "num": 1800306,
+      "word": "奶奶摘花椒15分钟2岁孙女失踪",
+      "onboard_time": 1724241139,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1753730,
@@ -163,14 +179,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1189345,
-      "num": 1189345,
-      "word": "奶奶摘花椒15分钟2岁孙女失踪",
-      "onboard_time": 1724241139,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1157502,
       "num": 1157502,
       "word": "游客呼吁山西一定要接住泼天的富贵",
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 1078385,
-      "num": 352326,
+      "num": 394141,
       "word": "爷爷在甲醛超标的房子里住了大半年",
       "onboard_time": 1724239039,
       "rank": 22,
@@ -353,6 +361,14 @@
       "onboard_time": 1724220740,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 802297,
+      "num": 431913,
+      "word": "王楚钦在我们队里只排第二",
+      "onboard_time": 1724245160,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 793201,
@@ -579,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 519953,
+      "num": 519953,
+      "word": "BLG对战TES",
+      "onboard_time": 1724233580,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 517306,
       "num": 661071,
       "word": "被虐致死女童生母还没能与丈夫离婚",
@@ -649,6 +673,14 @@
       "onboard_time": 1724165005,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 480507,
+      "num": 480507,
+      "word": "杨紫 花仙子",
+      "onboard_time": 1724244200,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 474983,
@@ -875,14 +907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 350850,
-      "num": 350850,
-      "word": "BLG对战TES",
-      "onboard_time": 1724233580,
-      "rank": 48,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 348674,
       "num": 348674,
       "word": "花两三万玩黑神话悟空值吗",
@@ -897,6 +921,14 @@
       "onboard_time": 1724240301,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 342434,
+      "num": 396486,
+      "word": "孙茜 原来综艺可以这么健康",
+      "onboard_time": 1724244499,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 342204,
@@ -931,8 +963,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 323551,
-      "num": 323551,
+      "raw_hot": 323920,
+      "num": 323920,
       "word": "王楚钦谈新周期目标",
       "onboard_time": 1724242520,
       "rank": 23,
@@ -1059,12 +1091,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 275263,
+      "num": 275263,
+      "word": "下届奥运能不能加上这个比赛",
+      "onboard_time": 1724245039,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 275015,
       "num": 275015,
       "word": "黄雅琼汪顺自拍",
       "onboard_time": 1724210000,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 272849,
+      "num": 395353,
+      "word": "第一次见剧里挨个和女同事结婚的",
+      "onboard_time": 1724244799,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 271887,
@@ -1089,6 +1137,14 @@
       "onboard_time": 1724196678,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 269097,
+      "num": 269097,
+      "word": "养猫家庭千万不要买的凳子",
+      "onboard_time": 1724242280,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 268676,
@@ -1163,20 +1219,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 257398,
-      "num": 257398,
-      "word": "养猫家庭千万不要买的凳子",
-      "onboard_time": 1724242280,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 257065,
       "num": 257065,
       "word": "四六级成绩要出了",
       "onboard_time": 1724204598,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 256325,
+      "num": 256325,
+      "word": "TES赛前海报致敬悟空",
+      "onboard_time": 1724245881,
+      "rank": 33,
+      "category": "电竞,游戏"
     },
     {
       "raw_hot": 252917,
@@ -1355,6 +1411,14 @@
       "category": "游戏,电影"
     },
     {
+      "raw_hot": 228699,
+      "num": 228699,
+      "word": "黑神话正尽快准备更新补丁",
+      "onboard_time": 1724243060,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 228459,
       "num": 228459,
       "word": "上海小狗6天走丢三次在浙江找回",
@@ -1369,6 +1433,14 @@
       "onboard_time": 1724196136,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227353,
+      "num": 322859,
+      "word": "佟丽娅 自己淋过雨所以为别人打伞",
+      "onboard_time": 1724244200,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 225983,
@@ -1411,20 +1483,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222364,
+      "num": 320497,
+      "word": "王俊凯 周正这就出发了",
+      "onboard_time": 1724246601,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 222128,
       "num": 222128,
       "word": "汪顺叫潘展乐C位大帅哥",
       "onboard_time": 1724224399,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 220598,
-      "num": 220598,
-      "word": "黑神话正尽快准备更新补丁",
-      "onboard_time": 1724243060,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 219861,
@@ -1473,6 +1545,14 @@
       "onboard_time": 1724223020,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214575,
+      "num": 214575,
+      "word": "野猪下山后家养母猪生出1窝小混血",
+      "onboard_time": 1724244860,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213619,
@@ -1529,6 +1609,14 @@
       "onboard_time": 1724219901,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 206362,
+      "num": 316738,
+      "word": "电影刺猬卡不住的全国路演",
+      "onboard_time": 1724245941,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 206283,
@@ -1651,6 +1739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193829,
+      "num": 313427,
+      "word": "脱口秀和Ta的朋友们",
+      "onboard_time": 1724245700,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193774,
       "num": 193774,
       "word": "齐司礼生日",
@@ -1675,20 +1771,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192698,
-      "num": 314554,
-      "word": "杨紫 花仙子",
-      "onboard_time": 1724244200,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 192477,
       "num": 192477,
       "word": "赵丽颖向阳花杀青了",
       "onboard_time": 1724217440,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 191040,
+      "num": 191040,
+      "word": "KSG对战狼队",
+      "onboard_time": 1724245760,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 190907,
@@ -1835,12 +1931,28 @@
       "category": "游戏,旅游"
     },
     {
+      "raw_hot": 179423,
+      "num": 179423,
+      "word": "越来越多人因自由选择租房",
+      "onboard_time": 1724245519,
+      "rank": 40,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 179294,
       "num": 179294,
       "word": "暑期档电视剧TOP",
       "onboard_time": 1724217320,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178478,
+      "num": 178478,
+      "word": "杨紫直播",
+      "onboard_time": 1724244619,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 178260,
@@ -1857,6 +1969,14 @@
       "onboard_time": 1724216421,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 176532,
+      "num": 307129,
+      "word": "张晚意演技",
+      "onboard_time": 1724241560,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 175973,
@@ -1923,6 +2043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173288,
+      "num": 173288,
+      "word": "郭麒麟阎鹤祥又站到一起了",
+      "onboard_time": 1724246480,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172594,
       "num": 172594,
       "word": "妖王虎先锋动作捕捉原型竟是喵喵",
@@ -1945,14 +2073,6 @@
       "onboard_time": 1724221761,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 170898,
-      "num": 307129,
-      "word": "张晚意演技",
-      "onboard_time": 1724241560,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 170769,
@@ -2107,6 +2227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157060,
+      "num": 157060,
+      "word": "土豆片可以消很多结节",
+      "onboard_time": 1724246421,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 156906,
       "num": 156906,
       "word": "黑神话走红老外说原来悟空是中国的",
@@ -2163,6 +2291,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 149349,
+      "num": 149349,
+      "word": "32%的Steam用户使用简体中文",
+      "onboard_time": 1724245039,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 147733,
       "num": 147733,
       "word": "你们旅拍婚纱照的报喜不报忧",
@@ -2203,28 +2339,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142621,
-      "num": 146906,
-      "word": "孙茜 原来综艺可以这么健康",
-      "onboard_time": 1724244499,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 142226,
       "num": 142226,
       "word": "葫芦岛暴雨",
       "onboard_time": 1724228721,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 141483,
-      "num": 163326,
-      "word": "佟丽娅 自己淋过雨所以为别人打伞",
-      "onboard_time": 1724244200,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 139208,
@@ -2257,6 +2377,14 @@
       "onboard_time": 1724243900,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 135403,
+      "num": 309480,
+      "word": "大熊猫学会蹲小卖部了",
+      "onboard_time": 1724245580,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 135236,
@@ -2300,7 +2428,7 @@
     },
     {
       "raw_hot": 132247,
-      "num": 132247,
+      "num": 394490,
       "word": "女子与司机冲突后在车顶脱衣跳舞",
       "onboard_time": 1724244561,
       "rank": 48,
@@ -2467,6 +2595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76714,
+      "num": 461710,
+      "word": "被虐致死女童外婆称不判死刑将上诉",
+      "onboard_time": 1724245220,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73994,
       "num": 73994,
       "word": "2024科隆游戏展",
@@ -2627,6 +2763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41049,
+      "num": 443246,
+      "word": "技术鬼才魏建军",
+      "onboard_time": 1724245401,
+      "rank": 11,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 40446,
       "num": 156301,
       "word": "云南普洱4.6级地震",
@@ -2664,6 +2808,14 @@
       "word": "黑医美躲进农村招摇撞骗",
       "onboard_time": 1724225420,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36974,
+      "num": 417368,
+      "word": "女童被虐案被告称打孩子只是想教育",
+      "onboard_time": 1724245220,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2791,6 +2943,9 @@
     },
     {
       "word": "#中越两党两国最高领导人会晤传递重要信号#"
+    },
+    {
+      "word": "#习近平总书记高度重视民营经济发展#"
     }
   ]
 }
