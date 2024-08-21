@@ -1,6 +1,6 @@
 {
   "startTime": 1724171081349,
-  "endTime": 1724215144328,
+  "endTime": 1724217584530,
   "band_list": [
     {
       "raw_hot": 2704809,
@@ -83,6 +83,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1285725,
+      "num": 1285725,
+      "word": "生父与情人虐打3岁女童还录视频",
+      "onboard_time": 1724212822,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1197836,
       "num": 895632,
       "word": "去世13年的爸爸救了我一命",
@@ -137,6 +145,14 @@
       "onboard_time": 1724158882,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 980365,
+      "num": 980365,
+      "word": "贾玲 中国观众对我非常好",
+      "onboard_time": 1724216000,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 929309,
@@ -251,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 517306,
+      "num": 661071,
+      "word": "被虐致死女童生母还没能与丈夫离婚",
+      "onboard_time": 1724211021,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 501998,
       "num": 373920,
       "word": "要陌生女童做亲子鉴定当事人道歉",
@@ -259,12 +283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 493896,
-      "num": 661071,
-      "word": "被虐致死女童生母还没能与丈夫离婚",
-      "onboard_time": 1724211021,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 498098,
+      "num": 498098,
+      "word": "余景天首谈退赛",
+      "onboard_time": 1724214862,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 493770,
@@ -273,6 +297,14 @@
       "onboard_time": 1724203160,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 490797,
+      "num": 517398,
+      "word": "陈晓旭 天选林黛玉",
+      "onboard_time": 1724212881,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 485085,
@@ -347,12 +379,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 427936,
-      "num": 682727,
-      "word": "生父与情人虐打3岁女童还录视频",
-      "onboard_time": 1724212822,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 433964,
+      "num": 433964,
+      "word": "石原里美依然好甜",
+      "onboard_time": 1724212642,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 419508,
@@ -377,14 +409,6 @@
       "onboard_time": 1724155822,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 402943,
-      "num": 517398,
-      "word": "陈晓旭 天选林黛玉",
-      "onboard_time": 1724212881,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 387844,
@@ -475,14 +499,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 317235,
-      "num": 420330,
-      "word": "余景天首谈退赛",
-      "onboard_time": 1724214862,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 299791,
       "num": 540522,
       "word": "边水往事 惩罚熬夜看剧的人",
@@ -499,14 +515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 280771,
-      "num": 361572,
-      "word": "石原里美依然好甜",
-      "onboard_time": 1724212642,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 280592,
       "num": 280592,
       "word": "孙颖莎好像和衣服鞋子不太熟",
@@ -521,6 +529,14 @@
       "onboard_time": 1724197938,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 276204,
+      "num": 276204,
+      "word": "大范围暴雨控场广东",
+      "onboard_time": 1724215880,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 275015,
@@ -571,6 +587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 261291,
+      "num": 261291,
+      "word": "刘亦菲裸背大片",
+      "onboard_time": 1724216841,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 261191,
       "num": 261191,
       "word": "华为将发布首款轿跑SUV",
@@ -585,6 +609,22 @@
       "onboard_time": 1724212583,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 258160,
+      "num": 475107,
+      "word": "李沁梦回小公主淳儿",
+      "onboard_time": 1724207360,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 257576,
+      "num": 257576,
+      "word": "广州暴雨",
+      "onboard_time": 1724217080,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257065,
@@ -659,6 +699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224545,
+      "num": 224545,
+      "word": "椒丘不歪",
+      "onboard_time": 1724217500,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 223723,
       "num": 223723,
       "word": "张颖颖连发三条微博回应张兰",
@@ -683,14 +731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 216376,
-      "num": 475107,
-      "word": "李沁梦回小公主淳儿",
-      "onboard_time": 1724207360,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 215688,
       "num": 215688,
       "word": "山西文旅将发布黑神话旅游路线",
@@ -713,6 +753,22 @@
       "onboard_time": 1724208260,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210605,
+      "num": 494441,
+      "word": "央视记者现场直击美民主党大会场外抗议",
+      "onboard_time": 1724214741,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 209039,
+      "num": 209039,
+      "word": "开始防啃小是95后长大的标志",
+      "onboard_time": 1724217500,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206283,
@@ -803,6 +859,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193774,
+      "num": 193774,
+      "word": "齐司礼生日",
+      "onboard_time": 1724216000,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 190907,
+      "num": 190907,
+      "word": "斩神一集能打15分钟",
+      "onboard_time": 1724217500,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 189533,
       "num": 189533,
       "word": "普洱地震",
@@ -891,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175895,
+      "num": 175895,
+      "word": "新裤子的新裤子害我莫名其妙笑了",
+      "onboard_time": 1724217500,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 174930,
       "num": 174930,
       "word": "脂肪肝最怕3种运动",
@@ -963,6 +1043,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 159240,
+      "num": 159240,
+      "word": "赵丽颖向阳花杀青了",
+      "onboard_time": 1724217440,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 159159,
       "num": 159159,
       "word": "麻六记回应产品质疑",
@@ -977,6 +1065,14 @@
       "onboard_time": 1724205080,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157935,
+      "num": 157935,
+      "word": "暑期档电视剧TOP",
+      "onboard_time": 1724217320,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 157267,
@@ -1009,6 +1105,14 @@
       "onboard_time": 1724167342,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 151542,
+      "num": 191397,
+      "word": "边水往事傀儡戏吓人",
+      "onboard_time": 1724215640,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 147223,
@@ -1107,12 +1211,12 @@
       "category": "电影,体育"
     },
     {
-      "raw_hot": 101188,
-      "num": 494441,
-      "word": "央视记者现场直击美民主党大会场外抗议",
-      "onboard_time": 1724214741,
-      "rank": 13,
-      "category": "国外时政"
+      "raw_hot": 96850,
+      "num": 514815,
+      "word": "多省教育经费被挤占挪用",
+      "onboard_time": 1724216421,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91219,
@@ -1217,6 +1321,14 @@
       "onboard_time": 1724175673,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 63155,
+      "num": 293579,
+      "word": "侯明昊三口干了一桶气泡水",
+      "onboard_time": 1724217380,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 60678,

@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724215144328,
+  "endTime": 1724217584530,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -811,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1285725,
+      "num": 1285725,
+      "word": "生父与情人虐打3岁女童还录视频",
+      "onboard_time": 1724212822,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1279507,
       "num": 1279507,
       "word": "迪丽热巴 黄金时代",
@@ -1217,6 +1225,14 @@
       "onboard_time": 1723961479,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 980365,
+      "num": 980365,
+      "word": "贾玲 中国观众对我非常好",
+      "onboard_time": 1724216000,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 979629,
@@ -2403,6 +2419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 517306,
+      "num": 661071,
+      "word": "被虐致死女童生母还没能与丈夫离婚",
+      "onboard_time": 1724211021,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 514437,
       "num": 495170,
       "word": "女子家的沙发被邻居混凝土浇筑了",
@@ -2467,6 +2491,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 498098,
+      "num": 498098,
+      "word": "余景天首谈退赛",
+      "onboard_time": 1724214862,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 495076,
       "num": 495076,
       "word": "家属辟谣姜萍决赛第八",
@@ -2480,14 +2512,6 @@
       "word": "江苏宿迁15万斤阳光玫瑰滞销",
       "onboard_time": 1724064621,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 493896,
-      "num": 661071,
-      "word": "被虐致死女童生母还没能与丈夫离婚",
-      "onboard_time": 1724211021,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -2505,6 +2529,14 @@
       "onboard_time": 1724114843,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 490797,
+      "num": 517398,
+      "word": "陈晓旭 天选林黛玉",
+      "onboard_time": 1724212881,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 488807,
@@ -2795,6 +2827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 433964,
+      "num": 433964,
+      "word": "石原里美依然好甜",
+      "onboard_time": 1724212642,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 433209,
       "num": 433209,
       "word": "刘惜君金发",
@@ -2809,14 +2849,6 @@
       "onboard_time": 1723993522,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 427936,
-      "num": 682727,
-      "word": "生父与情人虐打3岁女童还录视频",
-      "onboard_time": 1724212822,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 427557,
@@ -3001,14 +3033,6 @@
       "onboard_time": 1723994900,
       "rank": 37,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 402943,
-      "num": 517398,
-      "word": "陈晓旭 天选林黛玉",
-      "onboard_time": 1724212881,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 397635,
@@ -3755,14 +3779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 317235,
-      "num": 420330,
-      "word": "余景天首谈退赛",
-      "onboard_time": 1724214862,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 316918,
       "num": 316918,
       "word": "孙颖莎又成打卡景点了",
@@ -4235,14 +4251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 280771,
-      "num": 361572,
-      "word": "石原里美依然好甜",
-      "onboard_time": 1724212642,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 280606,
       "num": 280606,
       "word": "打开朋友圈发现大家都不用上班",
@@ -4321,6 +4329,14 @@
       "onboard_time": 1724138662,
       "rank": 28,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 276204,
+      "num": 276204,
+      "word": "大范围暴雨控场广东",
+      "onboard_time": 1724215880,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 275015,
@@ -4547,6 +4563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261291,
+      "num": 261291,
+      "word": "刘亦菲裸背大片",
+      "onboard_time": 1724216841,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 261191,
       "num": 261191,
       "word": "华为将发布首款轿跑SUV",
@@ -4603,6 +4627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 258160,
+      "num": 475107,
+      "word": "李沁梦回小公主淳儿",
+      "onboard_time": 1724207360,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 257947,
       "num": 257947,
       "word": "黑神话发售网友求低价闲置PS5",
@@ -4617,6 +4649,14 @@
       "onboard_time": 1723967900,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 257576,
+      "num": 257576,
+      "word": "广州暴雨",
+      "onboard_time": 1724217080,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257556,
@@ -5251,6 +5291,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 224545,
+      "num": 224545,
+      "word": "椒丘不歪",
+      "onboard_time": 1724217500,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 224256,
       "num": 252490,
       "word": "医生的第六感准得阎王都服气",
@@ -5425,14 +5473,6 @@
       "onboard_time": 1724051840,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 216376,
-      "num": 475107,
-      "word": "李沁梦回小公主淳儿",
-      "onboard_time": 1724207360,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 216323,
@@ -5611,6 +5651,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 210605,
+      "num": 494441,
+      "word": "央视记者现场直击美民主党大会场外抗议",
+      "onboard_time": 1724214741,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 209730,
       "num": 209730,
       "word": "手总打不到蚊子的原因找到了",
@@ -5641,6 +5689,14 @@
       "onboard_time": 1723953859,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209039,
+      "num": 209039,
+      "word": "开始防啃小是95后长大的标志",
+      "onboard_time": 1724217500,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208889,
@@ -6243,6 +6299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193774,
+      "num": 193774,
+      "word": "齐司礼生日",
+      "onboard_time": 1724216000,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193613,
       "num": 622026,
       "word": "侧方停车真的那么难吗",
@@ -6353,6 +6417,14 @@
       "onboard_time": 1724148321,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 190907,
+      "num": 190907,
+      "word": "斩神一集能打15分钟",
+      "onboard_time": 1724217500,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 190438,
@@ -6833,6 +6905,14 @@
       "onboard_time": 1724212822,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175895,
+      "num": 175895,
+      "word": "新裤子的新裤子害我莫名其妙笑了",
+      "onboard_time": 1724217500,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 175109,
@@ -7395,6 +7475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159240,
+      "num": 159240,
+      "word": "赵丽颖向阳花杀青了",
+      "onboard_time": 1724217440,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 159235,
       "num": 159235,
       "word": "买黄金前一定要懂的信息差",
@@ -7433,6 +7521,14 @@
       "onboard_time": 1724071587,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 157935,
+      "num": 157935,
+      "word": "暑期档电视剧TOP",
+      "onboard_time": 1724217320,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 157685,
@@ -7681,6 +7777,14 @@
       "onboard_time": 1723968080,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151542,
+      "num": 191397,
+      "word": "边水往事傀儡戏吓人",
+      "onboard_time": 1724215640,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 150993,
@@ -8587,14 +8691,6 @@
       "category": "自然"
     },
     {
-      "raw_hot": 101188,
-      "num": 494441,
-      "word": "央视记者现场直击美民主党大会场外抗议",
-      "onboard_time": 1724214741,
-      "rank": 13,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 100567,
       "num": 100567,
       "word": "小狗真的筋疲力尽了",
@@ -8624,6 +8720,14 @@
       "word": "2024最美医生发布",
       "onboard_time": 1724040382,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96850,
+      "num": 514815,
+      "word": "多省教育经费被挤占挪用",
+      "onboard_time": 1724216421,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -9025,6 +9129,14 @@
       "onboard_time": 1723999577,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 63155,
+      "num": 293579,
+      "word": "侯明昊三口干了一桶气泡水",
+      "onboard_time": 1724217380,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 62750,
