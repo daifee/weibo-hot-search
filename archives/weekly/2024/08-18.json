@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724246779974,
+  "endTime": 1724247414482,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -161,6 +161,14 @@
       "onboard_time": 1724157262,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2808899,
+      "num": 453883,
+      "word": "印度16岁女孩乘公交遭司机等5人轮奸",
+      "onboard_time": 1724245641,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2749018,
@@ -417,14 +425,6 @@
       "onboard_time": 1724167282,
       "rank": 43,
       "category": "电影,体育"
-    },
-    {
-      "raw_hot": 1851434,
-      "num": 453883,
-      "word": "印度16岁女孩乘公交遭司机等5人轮奸",
-      "onboard_time": 1724245641,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1845750,
@@ -1708,7 +1708,7 @@
     },
     {
       "raw_hot": 802297,
-      "num": 431913,
+      "num": 650514,
       "word": "王楚钦在我们队里只排第二",
       "onboard_time": 1724245160,
       "rank": 12,
@@ -2507,6 +2507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 565490,
+      "num": 565490,
+      "word": "BLG对战TES",
+      "onboard_time": 1724233580,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 564334,
       "num": 254989,
       "word": "男子腹泻一年肝脏脓肿竟因吃路边摊",
@@ -2729,14 +2737,6 @@
       "onboard_time": 1724116520,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 519953,
-      "num": 519953,
-      "word": "BLG对战TES",
-      "onboard_time": 1724233580,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 518968,
@@ -4347,6 +4347,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 311259,
+      "num": 322859,
+      "word": "佟丽娅 自己淋过雨所以为别人打伞",
+      "onboard_time": 1724244200,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 310227,
       "num": 310227,
       "word": "劳动仲裁怎么成了求职污点",
@@ -4483,6 +4491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 300217,
+      "num": 294978,
+      "word": "下届奥运能不能加上这个比赛",
+      "onboard_time": 1724245039,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 299882,
       "num": 299882,
       "word": "完税证明",
@@ -4521,6 +4537,14 @@
       "onboard_time": 1724051721,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 295787,
+      "num": 395353,
+      "word": "第一次见剧里挨个和女同事结婚的",
+      "onboard_time": 1724244799,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 295059,
@@ -4883,14 +4907,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 275263,
-      "num": 275263,
-      "word": "下届奥运能不能加上这个比赛",
-      "onboard_time": 1724245039,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 275015,
       "num": 275015,
       "word": "黄雅琼汪顺自拍",
@@ -4937,14 +4953,6 @@
       "onboard_time": 1723947737,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 272849,
-      "num": 395353,
-      "word": "第一次见剧里挨个和女同事结婚的",
-      "onboard_time": 1724244799,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 272092,
@@ -5313,6 +5321,14 @@
       "onboard_time": 1724027900,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253045,
+      "num": 320497,
+      "word": "王俊凯 周正这就出发了",
+      "onboard_time": 1724246601,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 252917,
@@ -5835,6 +5851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232069,
+      "num": 232069,
+      "word": "野猪下山后家养母猪生出1窝小混血",
+      "onboard_time": 1724244860,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231912,
       "num": 231912,
       "word": "大祙子",
@@ -5955,14 +5979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 227353,
-      "num": 322859,
-      "word": "佟丽娅 自己淋过雨所以为别人打伞",
-      "onboard_time": 1724244200,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 227031,
       "num": 227031,
       "word": "孙颖莎微博粉丝破700万",
@@ -6073,14 +6089,6 @@
       "onboard_time": 1724218642,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 222364,
-      "num": 320497,
-      "word": "王俊凯 周正这就出发了",
-      "onboard_time": 1724246601,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 222298,
@@ -6307,20 +6315,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 214575,
-      "num": 214575,
-      "word": "野猪下山后家养母猪生出1窝小混血",
-      "onboard_time": 1724244860,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 214360,
       "num": 214360,
       "word": "林俊杰李荣浩合唱曹操",
       "onboard_time": 1723905142,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 213964,
+      "num": 252908,
+      "word": "郭麒麟阎鹤祥又站到一起了",
+      "onboard_time": 1724246480,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 213911,
@@ -6851,6 +6859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200898,
+      "num": 200898,
+      "word": "KSG对战狼队",
+      "onboard_time": 1724245760,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 200753,
       "num": 200753,
       "word": "KPL梦之队要发新歌了",
@@ -7291,6 +7307,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 191865,
+      "num": 191865,
+      "word": "黑神话悟空爆火后引发装机热潮",
+      "onboard_time": 1724247081,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 191778,
       "num": 723473,
       "word": "菲律宾用无人机对中方进行间谍侦照",
@@ -7329,14 +7353,6 @@
       "onboard_time": 1724148321,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 191040,
-      "num": 191040,
-      "word": "KSG对战狼队",
-      "onboard_time": 1724245760,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 190907,
@@ -7425,6 +7441,14 @@
       "onboard_time": 1724049079,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187926,
+      "num": 394490,
+      "word": "女子与司机冲突后在车顶脱衣跳舞",
+      "onboard_time": 1724244561,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187900,
@@ -7803,6 +7827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179032,
+      "num": 179032,
+      "word": "京城大师赛",
+      "onboard_time": 1724246840,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 178520,
       "num": 178520,
       "word": "TT秋季赛周冠军",
@@ -7828,7 +7860,7 @@
     },
     {
       "raw_hot": 178478,
-      "num": 178478,
+      "num": 252629,
       "word": "杨紫直播",
       "onboard_time": 1724244619,
       "rank": 41,
@@ -8041,14 +8073,6 @@
       "onboard_time": 1724069781,
       "rank": 39,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 173288,
-      "num": 173288,
-      "word": "郭麒麟阎鹤祥又站到一起了",
-      "onboard_time": 1724246480,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 172594,
@@ -8363,6 +8387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165817,
+      "num": 165817,
+      "word": "广东清远15万拿下两室两厅",
+      "onboard_time": 1724247201,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165802,
       "num": 373440,
       "word": "郭麒麟演技",
@@ -8441,6 +8473,14 @@
       "onboard_time": 1724029879,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164093,
+      "num": 164093,
+      "word": "居然有综艺最后一期才请杨迪",
+      "onboard_time": 1724246662,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 163870,
@@ -8675,6 +8715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 157754,
+      "num": 157754,
+      "word": "土豆片可以消很多结节",
+      "onboard_time": 1724246421,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 157685,
       "num": 157685,
       "word": "七十多岁演人生的第一个女主",
@@ -8723,14 +8771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157060,
-      "num": 157060,
-      "word": "土豆片可以消很多结节",
-      "onboard_time": 1724246421,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 156906,
       "num": 156906,
       "word": "黑神话走红老外说原来悟空是中国的",
@@ -8761,6 +8801,14 @@
       "onboard_time": 1723976538,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 156077,
+      "num": 156077,
+      "word": "显卡销量被黑神话悟空带飞了",
+      "onboard_time": 1724247382,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 155844,
@@ -8865,6 +8913,14 @@
       "onboard_time": 1724067861,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153200,
+      "num": 153200,
+      "word": "王楚钦说混双夺金是最开心的瞬间",
+      "onboard_time": 1724247382,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 152727,
@@ -9419,6 +9475,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 136199,
+      "num": 309480,
+      "word": "大熊猫学会蹲小卖部了",
+      "onboard_time": 1724245580,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136127,
       "num": 136127,
       "word": "张大大问陈妍希在复活岛开心吗",
@@ -9433,14 +9497,6 @@
       "onboard_time": 1723979719,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 135403,
-      "num": 309480,
-      "word": "大熊猫学会蹲小卖部了",
-      "onboard_time": 1724245580,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 135159,
@@ -9529,14 +9585,6 @@
       "onboard_time": 1723996700,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132247,
-      "num": 394490,
-      "word": "女子与司机冲突后在车顶脱衣跳舞",
-      "onboard_time": 1724244561,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131229,
@@ -11352,6 +11400,14 @@
       "word": "一年多未见警犬还记得民警声音",
       "onboard_time": 1724001195,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18743,
+      "num": 432824,
+      "word": "花臂壮汉夹子音诈骗3人10余万",
+      "onboard_time": 1724247021,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
