@@ -1,0 +1,410 @@
+{
+  "runTime": 1724251081560,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1224180,
+        "num": 1224180,
+        "word": "奶奶摘花椒15分钟2岁孙女失踪",
+        "onboard_time": 1724241139,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1105447,
+        "num": 1105447,
+        "word": "黑神话悟空",
+        "onboard_time": 1724225120,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 35111,
+        "num": 810892,
+        "word": "中非现代化之路",
+        "onboard_time": 1724247620,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 786742,
+        "num": 786742,
+        "word": "薛宝钗扮演者 她没有得到爱自己的丈夫",
+        "onboard_time": 1724238380,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 609977,
+        "num": 609977,
+        "word": "十年过去了TFBOYS和EXO还是碰上了",
+        "onboard_time": 1724248642,
+        "rank": 4,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 589031,
+        "num": 589031,
+        "word": "12306回应男子把卧铺让给妹妹被拒",
+        "onboard_time": 1724236999,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524489,
+        "num": 524489,
+        "word": "Uzi玩黑神话悟空直播间被封",
+        "onboard_time": 1724241620,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 442553,
+        "num": 442553,
+        "word": "黄雅琼刘雨辰合影王俊凯",
+        "onboard_time": 1724248760,
+        "rank": 7,
+        "category": "体育,电影"
+      },
+      {
+        "raw_hot": 398247,
+        "num": 439522,
+        "word": "全红婵陈艺文等被记大功",
+        "onboard_time": 1724240179,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156532,
+        "num": 434103,
+        "word": "为老母1万6转院费三个儿子吵翻",
+        "onboard_time": 1724250263,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2319840,
+        "num": 431495,
+        "word": "印度16岁女孩乘公交遭司机等5人轮奸",
+        "onboard_time": 1724245641,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399907,
+        "num": 426217,
+        "word": "佟丽娅 自己淋过雨所以为别人打伞",
+        "onboard_time": 1724244200,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 420840,
+        "num": 420840,
+        "word": "你能接受连上22天连休8天吗",
+        "onboard_time": 1724220920,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 409810,
+        "num": 409810,
+        "word": "穆婷婷回应黑神话悟空争议",
+        "onboard_time": 1724222900,
+        "rank": 13,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 370827,
+        "num": 370827,
+        "word": "女子与司机冲突后在车顶脱衣跳舞",
+        "onboard_time": 1724244561,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328592,
+        "num": 328592,
+        "word": "7岁女孩用防晒喷雾后接近白肺",
+        "onboard_time": 1724250741,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318364,
+        "num": 318364,
+        "word": "狼队零封KSG",
+        "onboard_time": 1724249662,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 316925,
+        "num": 316925,
+        "word": "张颖颖张兰mandy在吵什么",
+        "onboard_time": 1724242520,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305283,
+        "num": 305283,
+        "word": "杨紫 花仙子",
+        "onboard_time": 1724244200,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 258900,
+        "num": 303113,
+        "word": "第一次见剧里挨个和女同事结婚的",
+        "onboard_time": 1724244799,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 734593,
+        "num": 299562,
+        "word": "爷爷在甲醛超标的房子里住了大半年",
+        "onboard_time": 1724239039,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 614715,
+        "num": 297007,
+        "word": "下届奥运能不能加上这个比赛",
+        "onboard_time": 1724245039,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 520132,
+        "num": 293294,
+        "word": "原来鲨鱼夹有这么多用法",
+        "onboard_time": 1724248822,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 306871,
+        "num": 290572,
+        "word": "樊振东马龙陈梦退出澳门赛",
+        "onboard_time": 1724229321,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290148,
+        "num": 290148,
+        "word": "瑶典藏皮肤",
+        "onboard_time": 1724249662,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 249494,
+        "num": 249494,
+        "word": "王楚钦回应巴黎奥运最开心的瞬间",
+        "onboard_time": 1724239339,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165681,
+        "num": 249339,
+        "word": "王俊凯 周正这就出发了",
+        "onboard_time": 1724246601,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159629,
+        "num": 248988,
+        "word": "孙茜 原来综艺可以这么健康",
+        "onboard_time": 1724244499,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156056,
+        "num": 248573,
+        "word": "探班央视中秋晚会",
+        "onboard_time": 1724250862,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35898,
+        "num": 248292,
+        "word": "魏牌蓝山教育了魏建军",
+        "onboard_time": 1724248642,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 248082,
+        "num": 248082,
+        "word": "河北姑娘孙颖莎回家",
+        "onboard_time": 1724250381,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239403,
+        "num": 239403,
+        "word": "原来每个省都有自己专属的应急食品",
+        "onboard_time": 1724246960,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 158351,
+        "num": 229781,
+        "word": "柳舟记 他要坦白她要离开",
+        "onboard_time": 1724247441,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226260,
+        "num": 226260,
+        "word": "魔兽世界原负责人怒斥黑神话被压分",
+        "onboard_time": 1724249481,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185285,
+        "num": 221745,
+        "word": "严浩翔 小惊喜",
+        "onboard_time": 1724250921,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 221226,
+        "num": 221226,
+        "word": "黑神话悟空 焦恩俊mod",
+        "onboard_time": 1724240301,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 216976,
+        "num": 216976,
+        "word": "BLG对战TES",
+        "onboard_time": 1724233580,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 11224,
+        "num": 216044,
+        "word": "技术鬼才魏建军",
+        "onboard_time": 1724245401,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 215776,
+        "num": 215776,
+        "word": "中铁大桥局回应网传硕士工资2200元",
+        "onboard_time": 1724248700,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206707,
+        "num": 206707,
+        "word": "乘客错过高铁退票被拒后起诉",
+        "onboard_time": 1724249722,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206658,
+        "num": 206658,
+        "word": "武僧以后不会轻易跟观众互动了",
+        "onboard_time": 1724248162,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205874,
+        "num": 205874,
+        "word": "肖战和武侠风有多适配",
+        "onboard_time": 1724251041,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194406,
+        "num": 194406,
+        "word": "用户借黑神话悟空发布性别对立被处置",
+        "onboard_time": 1724248162,
+        "rank": 42,
+        "category": "互联网,游戏"
+      },
+      {
+        "raw_hot": 190247,
+        "num": 190247,
+        "word": "KSG对战狼队",
+        "onboard_time": 1724245760,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188147,
+        "num": 188147,
+        "word": "广东清远15万拿下两室两厅",
+        "onboard_time": 1724247201,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182804,
+        "num": 182804,
+        "word": "被虐致死女童外婆称不判死刑将上诉",
+        "onboard_time": 1724245220,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180868,
+        "num": 180868,
+        "word": "KPL夏季赛",
+        "onboard_time": 1724250381,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 178813,
+        "num": 178813,
+        "word": "显卡销量被黑神话悟空带飞了",
+        "onboard_time": 1724247382,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175934,
+        "num": 175934,
+        "word": "黑神话悟空爆火后引发装机热潮",
+        "onboard_time": 1724247081,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158443,
+        "num": 158443,
+        "word": "2岁女童失踪8天家属悬赏20万寻人",
+        "onboard_time": 1724249841,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#携手构建人类命运共同体的中国答案#"
+    }
+  }
+}
