@@ -1,6 +1,6 @@
 {
   "startTime": 1724171081349,
-  "endTime": 1724224744542,
+  "endTime": 1724225766353,
   "band_list": [
     {
       "raw_hot": 2704809,
@@ -91,6 +91,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1356364,
+      "num": 538585,
+      "word": "你能接受连上22天连休8天吗",
+      "onboard_time": 1724220920,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1345612,
       "num": 1345612,
       "word": "黑神话悟空结局",
@@ -131,12 +139,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1108664,
-      "num": 538585,
-      "word": "你能接受连上22天连休8天吗",
-      "onboard_time": 1724220920,
-      "rank": 41,
-      "category": "情感"
+      "raw_hot": 1094826,
+      "num": 1094826,
+      "word": "黑神话猪八戒",
+      "onboard_time": 1724223440,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 1072272,
@@ -235,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 790265,
+      "num": 790265,
+      "word": "黑神话悟空",
+      "onboard_time": 1724108835,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 754578,
       "num": 754578,
       "word": "外国网友开始打听一只中国猴子",
@@ -321,14 +337,6 @@
       "onboard_time": 1724165604,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 585210,
-      "num": 585210,
-      "word": "黑神话猪八戒",
-      "onboard_time": 1724223440,
-      "rank": 5,
-      "category": "游戏"
     },
     {
       "raw_hot": 537910,
@@ -475,6 +483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 432290,
+      "num": 399291,
+      "word": "王鹤棣父亲注销四川乐山一餐饮店",
+      "onboard_time": 1724223260,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 419508,
       "num": 689778,
       "word": "杨紫与父母外出吃饭",
@@ -571,20 +587,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 347824,
+      "num": 543201,
+      "word": "男子冒用表哥身份在国企上班26年",
+      "onboard_time": 1724223618,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 342204,
       "num": 459688,
       "word": "和纸片人付费恋爱的年轻女孩们",
       "onboard_time": 1724160624,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 338316,
-      "num": 338316,
-      "word": "王鹤棣父亲注销四川乐山一餐饮店",
-      "onboard_time": 1724223260,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 334444,
@@ -609,6 +625,22 @@
       "onboard_time": 1724163983,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 320980,
+      "num": 248443,
+      "word": "乒乓跳水游泳羽毛球击剑队员聚餐",
+      "onboard_time": 1724224040,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 300047,
+      "num": 300047,
+      "word": "电车被偷好几年了突然给我发短信",
+      "onboard_time": 1724225120,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 299791,
@@ -641,6 +673,14 @@
       "onboard_time": 1724197938,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 278793,
+      "num": 278793,
+      "word": "撤回一个樊振东 送来一个王皓",
+      "onboard_time": 1724225601,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 276480,
@@ -689,6 +729,14 @@
       "onboard_time": 1724202620,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 263714,
+      "num": 263714,
+      "word": "28岁小伙雷雨天钓鱼被雷击身亡",
+      "onboard_time": 1724225120,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262945,
@@ -819,20 +867,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231499,
+      "num": 231499,
+      "word": "实习护士遇到金刚狼了",
+      "onboard_time": 1724221397,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 230520,
       "num": 230520,
       "word": "内部消息孙杨复出战只报了400m自",
       "onboard_time": 1724219300,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 229162,
-      "num": 229162,
-      "word": "实习护士遇到金刚狼了",
-      "onboard_time": 1724221397,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 228459,
@@ -889,6 +937,14 @@
       "onboard_time": 1724218642,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219356,
+      "num": 219356,
+      "word": "退伍军人被冒名顶替26年",
+      "onboard_time": 1724225120,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218663,
@@ -995,10 +1051,10 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199563,
-      "num": 199563,
-      "word": "黑神话悟空",
-      "onboard_time": 1724108835,
+      "raw_hot": 200465,
+      "num": 200465,
+      "word": "黑神话悟空销量",
+      "onboard_time": 1724222720,
       "rank": 43,
       "category": "游戏"
     },
@@ -1065,6 +1121,14 @@
       "onboard_time": 1724216000,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 193108,
+      "num": 547740,
+      "word": "乐山一煤矿发生事故致7死",
+      "onboard_time": 1724223618,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192477,
@@ -1227,6 +1291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 175734,
+      "num": 175734,
+      "word": "汪顺叫潘展乐C位大帅哥",
+      "onboard_time": 1724224399,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174930,
       "num": 174930,
       "word": "脂肪肝最怕3种运动",
@@ -1243,12 +1315,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 171841,
-      "num": 543201,
-      "word": "男子冒用表哥身份在国企上班26年",
-      "onboard_time": 1724223618,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 173634,
+      "num": 173634,
+      "word": "奥运冠军何可欣被求婚",
+      "onboard_time": 1724224697,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 171587,
@@ -1291,14 +1363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 166978,
-      "num": 166978,
-      "word": "黑神话悟空销量",
-      "onboard_time": 1724222720,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 166413,
       "num": 166413,
       "word": "星穹铁道fate联动角色",
@@ -1313,6 +1377,14 @@
       "onboard_time": 1724159902,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166137,
+      "num": 166137,
+      "word": "凉山公安公开缉捕30名在逃人员",
+      "onboard_time": 1724224578,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165802,
@@ -1339,6 +1411,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 162927,
+      "num": 162927,
+      "word": "陈赫玩上黑神话悟空了",
+      "onboard_time": 1724225720,
+      "rank": 49,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 159159,
       "num": 159159,
       "word": "麻六记回应产品质疑",
@@ -1353,14 +1433,6 @@
       "onboard_time": 1724205080,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157863,
-      "num": 157863,
-      "word": "汪顺叫潘展乐C位大帅哥",
-      "onboard_time": 1724224399,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 157267,
@@ -1379,14 +1451,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 156328,
-      "num": 156328,
-      "word": "凉山公安公开缉捕30名在逃人员",
-      "onboard_time": 1724224578,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155844,
       "num": 155844,
       "word": "历届残奥赛场震撼心灵的瞬间",
@@ -1401,14 +1465,6 @@
       "onboard_time": 1724167342,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 151727,
-      "num": 151727,
-      "word": "奥运冠军何可欣被求婚",
-      "onboard_time": 1724224697,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 151542,
@@ -1683,14 +1739,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 58771,
-      "num": 547740,
-      "word": "乐山一煤矿发生事故致7死",
-      "onboard_time": 1724223618,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 57189,
       "num": 582771,
       "word": "对辽宁暴雨洪涝启动四级救灾应急响应",
@@ -1785,6 +1833,14 @@
       "onboard_time": 1724214081,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 37720,
+      "num": 438369,
+      "word": "黑医美躲进农村招摇撞骗",
+      "onboard_time": 1724225420,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28573,
