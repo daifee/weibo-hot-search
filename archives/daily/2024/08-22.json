@@ -1,6 +1,6 @@
 {
   "startTime": 1724257594927,
-  "endTime": 1724279812235,
+  "endTime": 1724282400380,
   "band_list": [
     {
       "raw_hot": 1101298,
@@ -32,6 +32,14 @@
       "word": "给储户赋红码被处分女官员任新职",
       "onboard_time": 1724251820,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 862963,
+      "num": 862963,
+      "word": "印度法院裁决汉堡王是一个印度品牌",
+      "onboard_time": 1724257517,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -75,14 +83,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 463747,
-      "num": 494173,
-      "word": "印度法院裁决汉堡王是一个印度品牌",
-      "onboard_time": 1724257517,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 421595,
       "num": 179067,
       "word": "原来鲨鱼夹有这么多用法",
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 399832,
-      "num": 360813,
+      "num": 369690,
       "word": "乘客错过高铁退票被拒后起诉",
       "onboard_time": 1724249722,
       "rank": 9,
@@ -171,6 +171,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 221719,
+      "num": 221719,
+      "word": "云冈石窟回应检票员辱骂游客",
+      "onboard_time": 1724273231,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201953,
       "num": 362565,
       "word": "全红婵陈艺文等被记大功",
@@ -211,14 +219,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 154590,
-      "num": 154590,
-      "word": "云冈石窟回应检票员辱骂游客",
-      "onboard_time": 1724273231,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154329,
       "num": 154329,
       "word": "黑神话悟空 焦恩俊mod",
@@ -249,6 +249,22 @@
       "onboard_time": 1724252961,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 144802,
+      "num": 144802,
+      "word": "中铁大桥局回应网传硕士工资2200元",
+      "onboard_time": 1724248700,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144736,
+      "num": 144736,
+      "word": "2岁女童失踪8天家属悬赏20万寻人",
+      "onboard_time": 1724249841,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143290,
@@ -283,12 +299,20 @@
       "category": "互联网,游戏"
     },
     {
-      "raw_hot": 116407,
-      "num": 116407,
-      "word": "中铁大桥局回应网传硕士工资2200元",
-      "onboard_time": 1724248700,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 124276,
+      "num": 144747,
+      "word": "内娱超Like排名第一是肖战",
+      "onboard_time": 1724264054,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 114591,
+      "num": 144737,
+      "word": "李纯是马頔夸夸群群主",
+      "onboard_time": 1724279233,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 111488,
@@ -355,20 +379,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 104368,
+      "num": 104368,
+      "word": "董倩谈采访全红婵的感受",
+      "onboard_time": 1724281275,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103202,
       "num": 103202,
       "word": "这个月处女座是幸运儿",
       "onboard_time": 1724257996,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 100483,
-      "num": 100483,
-      "word": "2岁女童失踪8天家属悬赏20万寻人",
-      "onboard_time": 1724249841,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99766,
@@ -395,6 +419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 85838,
+      "num": 85838,
+      "word": "结婚前需要向对方坦诚到什么程度",
+      "onboard_time": 1724269572,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82668,
       "num": 82668,
       "word": "BLG对战TES",
@@ -403,12 +435,36 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 70964,
+      "raw_hot": 81894,
+      "num": 81894,
+      "word": "果然勇敢的人先享受世界",
+      "onboard_time": 1724282057,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 74276,
+      "num": 74276,
+      "word": "中学暑假深夜转移学生有偿补课",
+      "onboard_time": 1724254221,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73498,
       "num": 140928,
       "word": "今年秋天立下的第1个flag",
       "onboard_time": 1724255838,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71499,
+      "num": 295409,
+      "word": "黑神话悟空取景地门票销量暴涨3倍",
+      "onboard_time": 1724281455,
+      "rank": 9,
+      "category": "旅游,游戏"
     },
     {
       "raw_hot": 67209,
@@ -427,20 +483,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 65796,
-      "num": 66042,
-      "word": "内娱超Like排名第一是肖战",
-      "onboard_time": 1724264054,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 65732,
       "num": 143639,
       "word": "这四样东西是一个人真正的底气",
       "onboard_time": 1724257278,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 62988,
+      "num": 105695,
+      "word": "我不是条狗 我是 条狗",
+      "onboard_time": 1724280314,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 60239,
+      "num": 60239,
+      "word": "小伙请假玩黑神话主机被干冒烟",
+      "onboard_time": 1724281154,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 59741,
@@ -451,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58055,
+      "num": 66359,
+      "word": "中国猴子硬控海内外",
+      "onboard_time": 1724265792,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 56925,
       "num": 58095,
       "word": "全红婵和广东健儿互动太可爱了",
@@ -459,12 +531,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54779,
-      "num": 66359,
-      "word": "中国猴子硬控海内外",
-      "onboard_time": 1724265792,
-      "rank": 17,
-      "category": "游戏"
+      "raw_hot": 56187,
+      "num": 105298,
+      "word": "单依纯比陈立农更像陈立农",
+      "onboard_time": 1724265193,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 54248,
@@ -475,12 +547,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 53583,
-      "num": 54962,
-      "word": "单依纯比陈立农更像陈立农",
-      "onboard_time": 1724265193,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 52869,
+      "num": 60176,
+      "word": "山西2岁失踪女童家属发声",
+      "onboard_time": 1724282176,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47878,
+      "num": 60148,
+      "word": "美军内性侵案每年或超7万起",
+      "onboard_time": 1724282237,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 47730,
+      "num": 60139,
+      "word": "男子救3童牺牲家乡给予百万慰问金",
+      "onboard_time": 1724264772,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47345,
@@ -491,36 +579,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 45469,
-      "num": 45469,
-      "word": "中学暑假深夜转移学生有偿补课",
-      "onboard_time": 1724254221,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 41597,
       "num": 41597,
       "word": "在广东永远也不要以貌取人",
       "onboard_time": 1724263752,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 41565,
-      "num": 41565,
-      "word": "结婚前需要向对方坦诚到什么程度",
-      "onboard_time": 1724269572,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34371,
-      "num": 41511,
-      "word": "男子救3童牺牲家乡给予百万慰问金",
-      "onboard_time": 1724264772,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34282,
@@ -539,15 +603,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 27502,
-      "num": 41445,
-      "word": "中方对欧盟乳制品反补贴立案调查",
-      "onboard_time": 1724271611,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 26466,
+      "raw_hot": 28496,
       "num": 741854,
       "word": "中非现代化之路",
       "onboard_time": 1724247620,
@@ -555,12 +611,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 25789,
-      "num": 41423,
-      "word": "李纯是马頔夸夸群群主",
-      "onboard_time": 1724279233,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 27502,
+      "num": 41445,
+      "word": "中方对欧盟乳制品反补贴立案调查",
+      "onboard_time": 1724271611,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 22686,
