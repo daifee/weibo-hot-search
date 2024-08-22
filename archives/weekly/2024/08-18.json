@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724362587530,
+  "endTime": 1724365198208,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -12691,6 +12691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112866,
+      "num": 97819,
+      "word": "杨倩再续三年清华",
+      "onboard_time": 1724344697,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112821,
       "num": 278868,
       "word": "早安叫尤长靖的频率",
@@ -13235,12 +13243,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 82752,
-      "num": 82752,
-      "word": "杨倩再续三年清华",
-      "onboard_time": 1724344697,
-      "rank": 46,
-      "category": "体育"
+      "raw_hot": 82535,
+      "num": 82535,
+      "word": "印度女医生在医院惨遭奸杀引众怒",
+      "onboard_time": 1724359091,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82386,
@@ -14179,6 +14187,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 43854,
+      "num": 43854,
+      "word": "浙江婚假拟从3天延长至13天",
+      "onboard_time": 1724361312,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43613,
+      "num": 50996,
+      "word": "终于看到一个会提前报警的剧",
+      "onboard_time": 1724362391,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 42993,
       "num": 451348,
       "word": "暑期档高开低走电影院被抛弃了吗",
@@ -14299,6 +14323,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 39896,
+      "num": 88048,
+      "word": "360称儿童手表错误信息非AI回答",
+      "onboard_time": 1724353871,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39767,
       "num": 236101,
       "word": "张若昀 禁欲系",
@@ -14344,6 +14376,14 @@
       "word": "非法处置有毒废弃铁桶产业链曝光",
       "onboard_time": 1724338820,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38595,
+      "num": 38595,
+      "word": "医保费用断缴后该如何再参保",
+      "onboard_time": 1724357051,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -14451,36 +14491,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 34852,
-      "num": 34852,
-      "word": "印度女医生在医院惨遭奸杀引众怒",
-      "onboard_time": 1724359091,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34793,
-      "num": 88048,
-      "word": "360称儿童手表错误信息非AI回答",
-      "onboard_time": 1724353871,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 34759,
       "num": 39399,
       "word": "王一博探索新境要来了",
       "onboard_time": 1724350693,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 34627,
-      "num": 34627,
-      "word": "医保费用断缴后该如何再参保",
-      "onboard_time": 1724357051,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34574,
@@ -14611,8 +14627,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 29617,
-      "num": 29617,
+      "raw_hot": 29760,
+      "num": 31695,
       "word": "HPV疫苗随来随打几价都有",
       "onboard_time": 1724353572,
       "rank": 42,
@@ -14689,14 +14705,6 @@
       "onboard_time": 1724271611,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 27190,
-      "num": 27190,
-      "word": "浙江婚假拟从3天延长至13天",
-      "onboard_time": 1724361312,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27041,
