@@ -1,0 +1,410 @@
+{
+  "runTime": 1724326591839,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1442279,
+        "num": 1442279,
+        "word": "小孩骑行被碾压身亡肇事司机移送检方",
+        "onboard_time": 1724324840,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1441446,
+        "num": 1441446,
+        "word": "霍震霆回应郭晶晶担任跳水裁判长",
+        "onboard_time": 1724321780,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8610,
+        "num": 1085372,
+        "word": "2024已开启渐变色模式",
+        "onboard_time": 1724294659,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1017814,
+        "num": 1017814,
+        "word": "新版黛玉临终",
+        "onboard_time": 1724320941,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 775943,
+        "num": 775943,
+        "word": "王楚钦 下个周期更专注单打",
+        "onboard_time": 1724326040,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 714389,
+        "num": 714389,
+        "word": "印度",
+        "onboard_time": 1724322620,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592716,
+        "num": 592716,
+        "word": "老人急病离世藏了15万的床垫被扔了",
+        "onboard_time": 1724309360,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538629,
+        "num": 538629,
+        "word": "孙颖莎龙道一等被记大功",
+        "onboard_time": 1724325620,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 512301,
+        "num": 512301,
+        "word": "蔡少芬 香港第一个公开结婚的演员",
+        "onboard_time": 1724322500,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297880,
+        "num": 503984,
+        "word": "日本超20万人联名要求停排核污水",
+        "onboard_time": 1724319440,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500932,
+        "num": 500932,
+        "word": "黑神话第一批受害者出现了",
+        "onboard_time": 1724301621,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 488466,
+        "num": 488466,
+        "word": "潘展乐 先把你们应付过去",
+        "onboard_time": 1724317161,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 478614,
+        "num": 478614,
+        "word": "陈晓旭前夫是庆余年赖御史",
+        "onboard_time": 1724318300,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 444788,
+        "num": 444788,
+        "word": "原来关晓彤是林黛玉最初人选",
+        "onboard_time": 1724310079,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29404,
+        "num": 437485,
+        "word": "还有谁不知道UC天天送汽车",
+        "onboard_time": 1724324420,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 435116,
+        "num": 435116,
+        "word": "加沙14岁遇难男孩一生什么都没见过",
+        "onboard_time": 1724313680,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 391703,
+        "num": 391703,
+        "word": "印度女医生",
+        "onboard_time": 1724299879,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379711,
+        "num": 379711,
+        "word": "乃万",
+        "onboard_time": 1724326099,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362930,
+        "num": 362930,
+        "word": "检察院回应小孩骑行被碾压身亡",
+        "onboard_time": 1724324840,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318640,
+        "num": 318640,
+        "word": "迪丽热巴早期上戏新生自我介绍",
+        "onboard_time": 1724320760,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1400231,
+        "num": 318351,
+        "word": "金子涵瘦脱相",
+        "onboard_time": 1724316201,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 772755,
+        "num": 316516,
+        "word": "佟丽娅40岁备战艺考",
+        "onboard_time": 1724322620,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 608536,
+        "num": 315920,
+        "word": "乃万自证",
+        "onboard_time": 1724305580,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478799,
+        "num": 313851,
+        "word": "被微信状态背刺了",
+        "onboard_time": 1724313081,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 313533,
+        "num": 313533,
+        "word": "黑神话",
+        "onboard_time": 1724315421,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 269743,
+        "num": 269743,
+        "word": "全红婵给妈妈买手机",
+        "onboard_time": 1724308580,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252393,
+        "num": 252393,
+        "word": "秦海璐 30岁没结婚没什么关系",
+        "onboard_time": 1724319501,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312987,
+        "num": 251339,
+        "word": "乃万 乙游",
+        "onboard_time": 1724282897,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250016,
+        "num": 250016,
+        "word": "郑钦文带火的肌肉美整顿白瘦幼审美",
+        "onboard_time": 1724322980,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244993,
+        "num": 244993,
+        "word": "三岁道歉",
+        "onboard_time": 1724325379,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 233708,
+        "num": 233708,
+        "word": "胖布丁公司 性骚扰",
+        "onboard_time": 1724320161,
+        "rank": 30,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 207039,
+        "num": 207039,
+        "word": "猫咪以为家里没人偷偷唱起了歌",
+        "onboard_time": 1724323041,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205167,
+        "num": 205167,
+        "word": "黑神话悟空隐藏结局",
+        "onboard_time": 1724322921,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 202585,
+        "num": 202585,
+        "word": "新版林黛玉",
+        "onboard_time": 1724325561,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198048,
+        "num": 198048,
+        "word": "赵露思生图",
+        "onboard_time": 1724311160,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195951,
+        "num": 195951,
+        "word": "张晚意 她扎我是因为她爱我",
+        "onboard_time": 1724324120,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192227,
+        "num": 192227,
+        "word": "朱苏last night",
+        "onboard_time": 1724326340,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186874,
+        "num": 186874,
+        "word": "曾志伟出任三只羊香港分公司负责人",
+        "onboard_time": 1724312900,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184232,
+        "num": 184232,
+        "word": "印度女性称其身边几乎都有遭性侵案例",
+        "onboard_time": 1724325860,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182691,
+        "num": 182691,
+        "word": "办公室灵异事件",
+        "onboard_time": 1724324481,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173927,
+        "num": 173927,
+        "word": "中国女人普吉岛暴打老白男",
+        "onboard_time": 1724309240,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2280500,
+        "num": 171521,
+        "word": "女子吃完路边捡来死狗全身出血",
+        "onboard_time": 1724318061,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164145,
+        "num": 164145,
+        "word": "aespa蓝毯新闻图",
+        "onboard_time": 1724321722,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153879,
+        "num": 153879,
+        "word": "咱们中国开始考虑月球基建了",
+        "onboard_time": 1724309000,
+        "rank": 43,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 148279,
+        "num": 148279,
+        "word": "不出意外的话九部要出意外了",
+        "onboard_time": 1724325258,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146460,
+        "num": 146460,
+        "word": "周扬青看情敌不如看热闹",
+        "onboard_time": 1724323581,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125166,
+        "num": 146049,
+        "word": "医保费用断缴后如何再参保",
+        "onboard_time": 1724324420,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145822,
+        "num": 145822,
+        "word": "WTT中国大满贯参赛名单",
+        "onboard_time": 1724316560,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133275,
+        "num": 133275,
+        "word": "日本华裔乒乓名将涉嫌猥亵被捕",
+        "onboard_time": 1724319860,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133048,
+        "num": 133048,
+        "word": "老外给黑神话玩家写200页西游科普",
+        "onboard_time": 1724326579,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记接见奥运健儿时说了啥#"
+    }
+  }
+}
