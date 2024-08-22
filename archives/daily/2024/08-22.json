@@ -1,6 +1,6 @@
 {
   "startTime": 1724257594927,
-  "endTime": 1724308894390,
+  "endTime": 1724311236630,
   "band_list": [
     {
       "raw_hot": 2963809,
@@ -25,6 +25,22 @@
       "onboard_time": 1724291358,
       "rank": 1,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 2179644,
+      "num": 2179644,
+      "word": "全红婵 LV乌龟",
+      "onboard_time": 1724309659,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2150443,
+      "num": 2150443,
+      "word": "全红婵给妈妈买手机",
+      "onboard_time": 1724308580,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 2115056,
@@ -83,8 +99,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1517790,
-      "num": 312466,
+      "raw_hot": 1564543,
+      "num": 360514,
       "word": "以后解散微信群知道怎么说了",
       "onboard_time": 1724305280,
       "rank": 20,
@@ -299,12 +315,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 645624,
+      "num": 352702,
+      "word": "原来关晓彤是林黛玉最初人选",
+      "onboard_time": 1724310079,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 644810,
       "num": 644810,
       "word": "纪念邓小平同志诞辰120周年",
       "onboard_time": 1724284640,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 642909,
+      "num": 349333,
+      "word": "打算婚前买房的女生避坑",
+      "onboard_time": 1724306118,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 601033,
@@ -347,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 516334,
+      "num": 516334,
+      "word": "歌手2024官宣下一战歌手",
+      "onboard_time": 1724306359,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 500559,
       "num": 500559,
       "word": "倪萍自曝从楼梯摔下骨折",
@@ -355,12 +395,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 489868,
-      "num": 489868,
-      "word": "全红婵给妈妈买手机",
-      "onboard_time": 1724308580,
+      "raw_hot": 494043,
+      "num": 494043,
+      "word": "中国女人普吉岛暴打老白男",
+      "onboard_time": 1724309240,
       "rank": 12,
-      "category": "体育"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 468781,
@@ -401,14 +441,6 @@
       "onboard_time": 1724248822,
       "rank": 20,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 420979,
-      "num": 420979,
-      "word": "歌手2024官宣下一战歌手",
-      "onboard_time": 1724306359,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 414935,
@@ -467,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 365849,
+      "num": 365849,
+      "word": "嫦娥五号月壤研究又有新发现",
+      "onboard_time": 1724300301,
+      "rank": 34,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 364589,
       "num": 364589,
       "word": "钉崎野蔷薇回归",
@@ -523,19 +563,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 343115,
+      "num": 343115,
+      "word": "老人急病离世藏了15万的床垫被扔了",
+      "onboard_time": 1724309360,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 331109,
       "num": 331109,
       "word": "房东嫌我问题太多不想租给我了",
       "onboard_time": 1724284338,
       "rank": 23,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 330175,
-      "num": 310897,
-      "word": "打算婚前买房的女生避坑",
-      "onboard_time": 1724306118,
-      "rank": 22,
       "category": "情感"
     },
     {
@@ -561,14 +601,6 @@
       "onboard_time": 1724236999,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 314546,
-      "num": 314546,
-      "word": "嫦娥五号月壤研究又有新发现",
-      "onboard_time": 1724300301,
-      "rank": 34,
-      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 310535,
@@ -611,12 +643,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276449,
+      "num": 276449,
+      "word": "生父女友虐待女童称此为猎杀时刻",
+      "onboard_time": 1724307859,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275473,
       "num": 275473,
       "word": "河北姑娘孙颖莎回家",
       "onboard_time": 1724250381,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 271228,
+      "num": 271228,
+      "word": "刘端端差点登上北京奥运开幕式",
+      "onboard_time": 1724309960,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 268402,
@@ -723,6 +771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 241019,
+      "num": 241019,
+      "word": "东部战区回应美导弹驱逐舰过台湾海峡",
+      "onboard_time": 1724310141,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 236070,
       "num": 236070,
       "word": "简爱已下架被指辣嗓子酸奶",
@@ -753,6 +809,14 @@
       "onboard_time": 1724300420,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 229468,
+      "num": 266164,
+      "word": "陶昕然能不能把甄嬛传剧本交出来",
+      "onboard_time": 1724307680,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 228511,
@@ -841,6 +905,14 @@
       "onboard_time": 1724302821,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212521,
+      "num": 212521,
+      "word": "罗永浩微博改名了",
+      "onboard_time": 1724310380,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 211076,
@@ -947,28 +1019,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199276,
-      "num": 199276,
-      "word": "陶昕然能不能把甄嬛传剧本交出来",
-      "onboard_time": 1724307680,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197304,
       "num": 197304,
       "word": "张颖颖张兰mandy在吵什么",
       "onboard_time": 1724242520,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 196454,
-      "num": 196454,
-      "word": "生父女友虐待女童称此为猎杀时刻",
-      "onboard_time": 1724307859,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196326,
@@ -1099,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178137,
+      "num": 178137,
+      "word": "明明没有血缘关系也能长得像",
+      "onboard_time": 1724307979,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177802,
       "num": 177802,
       "word": "失孤原型案受害者称呼富吉是人间恶魔",
@@ -1155,14 +1219,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 168651,
-      "num": 168651,
-      "word": "明明没有血缘关系也能长得像",
-      "onboard_time": 1724307979,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167608,
       "num": 167608,
       "word": "2岁女童失踪8天家属悬赏20万寻人",
@@ -1203,6 +1259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 160980,
+      "num": 160980,
+      "word": "五条悟JUMP人气投票历代第一",
+      "onboard_time": 1724310619,
+      "rank": 40,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 160923,
       "num": 160923,
       "word": "梦之队团综先导片上线",
@@ -1225,6 +1289,14 @@
       "onboard_time": 1724307859,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 156328,
+      "num": 156328,
+      "word": "秦霄贤给王鹤棣备注最有安全感的男人",
+      "onboard_time": 1724311100,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 154329,
@@ -1283,6 +1355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 149563,
+      "num": 149563,
+      "word": "赵露思生图",
+      "onboard_time": 1724311160,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148876,
       "num": 365674,
       "word": "北京卫视发了肖战藏海传",
@@ -1305,6 +1385,14 @@
       "onboard_time": 1724252961,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 147547,
+      "num": 147547,
+      "word": "登陆计划 海报",
+      "onboard_time": 1724309719,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 147200,
@@ -1355,6 +1443,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143100,
+      "num": 143100,
+      "word": "黑神话悟空 手残党",
+      "onboard_time": 1724311040,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 142586,
+      "num": 142586,
+      "word": "广发行业严选基金3年亏掉近90亿",
+      "onboard_time": 1724311220,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 142508,
+      "num": 142508,
+      "word": "WBG对战DOU5",
+      "onboard_time": 1724310499,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141567,
       "num": 141567,
       "word": "AppStore负责人将离职",
@@ -1392,6 +1504,14 @@
       "word": "新疆库车5.0级地震",
       "onboard_time": 1724287040,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130138,
+      "num": 483248,
+      "word": "印度最高法介入医院奸杀案",
+      "onboard_time": 1724307259,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -1611,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93874,
+      "num": 479676,
+      "word": "网友称360儿童手表的智能回答毁三观",
+      "onboard_time": 1724310020,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92297,
       "num": 92297,
       "word": "山西2岁失踪女童家属发声",
@@ -1707,12 +1835,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 63403,
+      "num": 1602814,
+      "word": "武警连夜架桥连接4个受灾村",
+      "onboard_time": 1724294119,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60731,
       "num": 438026,
       "word": "郭刚堂之子被拐案时间线",
       "onboard_time": 1724289620,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60031,
+      "num": 142818,
+      "word": "华为阿维塔发布百万级高定车012",
+      "onboard_time": 1724310980,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 59741,
@@ -1737,6 +1881,14 @@
       "onboard_time": 1724259557,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56279,
+      "num": 559267,
+      "word": "HPV疫苗开启价格战",
+      "onboard_time": 1724310679,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 54248,
@@ -1776,14 +1928,6 @@
       "word": "离婚不离家的夫妻们该如何生活",
       "onboard_time": 1724308521,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41859,
-      "num": 1268819,
-      "word": "武警连夜架桥连接4个受灾村",
-      "onboard_time": 1724294119,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
