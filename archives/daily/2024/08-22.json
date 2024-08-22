@@ -1,10 +1,10 @@
 {
   "startTime": 1724257594927,
-  "endTime": 1724318497315,
+  "endTime": 1724319305027,
   "band_list": [
     {
-      "raw_hot": 3002918,
-      "num": 3002918,
+      "raw_hot": 3050899,
+      "num": 3050899,
       "word": "金子涵瘦脱相",
       "onboard_time": 1724316201,
       "rank": 0,
@@ -131,6 +131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1550450,
+      "num": 1550450,
+      "word": "女子吃完路边捡来死狗全身出血",
+      "onboard_time": 1724318061,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1403238,
       "num": 1403238,
       "word": "悟空被压了几百年都没有黑化",
@@ -185,6 +193,14 @@
       "onboard_time": 1724301743,
       "rank": 11,
       "category": "游戏,互联网"
+    },
+    {
+      "raw_hot": 1118917,
+      "num": 1118917,
+      "word": "潘展乐 先把你们应付过去",
+      "onboard_time": 1724317161,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 1106267,
@@ -411,6 +427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 634345,
+      "num": 634345,
+      "word": "陈晓旭前夫是庆余年赖御史",
+      "onboard_time": 1724318300,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 601033,
       "num": 923404,
       "word": "河南7岁男童被男子用椅子砸进icu",
@@ -425,22 +449,6 @@
       "onboard_time": 1724296939,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 563936,
-      "num": 563936,
-      "word": "潘展乐 先把你们应付过去",
-      "onboard_time": 1724317161,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 552600,
-      "num": 552600,
-      "word": "女子吃完路边捡来死狗全身出血",
-      "onboard_time": 1724318061,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 547230,
@@ -651,14 +659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 356975,
-      "num": 443455,
-      "word": "陈晓旭前夫是庆余年赖御史",
-      "onboard_time": 1724318300,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 356818,
       "num": 356818,
       "word": "Uzi玩黑神话悟空直播间被封",
@@ -731,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 329755,
+      "num": 329755,
+      "word": "一公斤真头发卖上万元媲美黄金",
+      "onboard_time": 1724315421,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327677,
       "num": 173638,
       "word": "爷爷在甲醛超标的房子里住了大半年",
@@ -795,14 +803,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 287715,
-      "num": 287715,
-      "word": "一公斤真头发卖上万元媲美黄金",
-      "onboard_time": 1724315421,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 286265,
       "num": 327079,
       "word": "极挑男人帮在边水往事碰头",
@@ -819,12 +819,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284106,
+      "num": 284106,
+      "word": "男子榨干母亲200万积蓄后又诈骗千万",
+      "onboard_time": 1724315899,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280421,
       "num": 358907,
       "word": "薛之谦 最后一次送别",
       "onboard_time": 1724312301,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 277589,
+      "num": 277589,
+      "word": "FPX.ZQ对战Gr",
+      "onboard_time": 1724318660,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 277435,
@@ -849,14 +865,6 @@
       "onboard_time": 1724287400,
       "rank": 33,
       "category": "汽车,互联网"
-    },
-    {
-      "raw_hot": 267656,
-      "num": 267656,
-      "word": "男子榨干母亲200万积蓄后又诈骗千万",
-      "onboard_time": 1724315899,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 265144,
@@ -1131,12 +1139,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 210666,
+      "num": 210666,
+      "word": "豆豆淘汰",
+      "onboard_time": 1724318902,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209510,
       "num": 485726,
       "word": "你要的山西旅游路线要来了",
       "onboard_time": 1724292678,
       "rank": 36,
       "category": "游戏,旅游"
+    },
+    {
+      "raw_hot": 207738,
+      "num": 207738,
+      "word": "严浩翔被灯牌吓到失去表情管理",
+      "onboard_time": 1724316921,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 206700,
@@ -1153,14 +1177,6 @@
       "onboard_time": 1724296519,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 206197,
-      "num": 206197,
-      "word": "严浩翔被灯牌吓到失去表情管理",
-      "onboard_time": 1724316921,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 205353,
@@ -1411,6 +1427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177868,
+      "num": 177868,
+      "word": "汝州事业编被清退人员工资已结算",
+      "onboard_time": 1724319020,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177802,
       "num": 177802,
       "word": "失孤原型案受害者称呼富吉是人间恶魔",
@@ -1465,6 +1489,14 @@
       "onboard_time": 1724289558,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 169755,
+      "num": 169755,
+      "word": "中行行长刘金因其他安排缺席董事会",
+      "onboard_time": 1724318961,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 167608,
@@ -1553,6 +1585,14 @@
       "onboard_time": 1724304920,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 160601,
+      "num": 160601,
+      "word": "游客擅入罗布泊被救后接受处理",
+      "onboard_time": 1724318541,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158653,
@@ -2027,6 +2067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99301,
+      "num": 683016,
+      "word": "汝州协调非事业编岗位供解聘人员双选",
+      "onboard_time": 1724317520,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97853,
       "num": 161235,
       "word": "严浩翔 小惊喜",
@@ -2089,14 +2137,6 @@
       "onboard_time": 1724233580,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 82130,
-      "num": 576978,
-      "word": "汝州协调非事业编岗位供解聘人员双选",
-      "onboard_time": 1724317520,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79763,
@@ -2267,6 +2307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 39340,
+      "num": 536876,
+      "word": "山西2岁失踪女童家人讲述事发经过",
+      "onboard_time": 1724318182,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34861,
       "num": 142908,
       "word": "美国67名声援巴勒斯坦抗议者遭逮捕",
@@ -2331,6 +2379,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 26724,
+      "num": 207743,
+      "word": "黑神话悟空带火PS5游戏馆",
+      "onboard_time": 1724317221,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 25462,
       "num": 259953,
       "word": "特朗普称非农数据下调是大规模丑闻",
@@ -2371,28 +2427,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 21514,
-      "num": 202050,
-      "word": "黑神话悟空带火PS5游戏馆",
-      "onboard_time": 1724317221,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 13020,
       "num": 115021,
       "word": "跟着悟空打卡青城山",
       "onboard_time": 1724269451,
       "rank": 25,
       "category": "旅游,游戏"
-    },
-    {
-      "raw_hot": 12159,
-      "num": 488032,
-      "word": "山西2岁失踪女童家人讲述事发经过",
-      "onboard_time": 1724318182,
-      "rank": 14,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

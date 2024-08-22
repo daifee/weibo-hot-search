@@ -1,0 +1,410 @@
+{
+  "runTime": 1724319305027,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3050899,
+        "num": 3050899,
+        "word": "金子涵瘦脱相",
+        "onboard_time": 1724316201,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1550450,
+        "num": 1550450,
+        "word": "女子吃完路边捡来死狗全身出血",
+        "onboard_time": 1724318061,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25999,
+        "num": 1376957,
+        "word": "2024已开启渐变色模式",
+        "onboard_time": 1724294659,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1327760,
+        "num": 1327760,
+        "word": "老人急病离世藏了15万的床垫被扔了",
+        "onboard_time": 1724309360,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1214307,
+        "num": 1214307,
+        "word": "加沙14岁遇难男孩一生什么都没见过",
+        "onboard_time": 1724313680,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1118917,
+        "num": 1118917,
+        "word": "潘展乐 先把你们应付过去",
+        "onboard_time": 1724317161,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 872785,
+        "num": 872785,
+        "word": "斐 家危速归",
+        "onboard_time": 1724313740,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 780852,
+        "num": 780852,
+        "word": "原来关晓彤是林黛玉最初人选",
+        "onboard_time": 1724310079,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 697642,
+        "num": 697642,
+        "word": "曾志伟出任三只羊香港分公司负责人",
+        "onboard_time": 1724312900,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99301,
+        "num": 683016,
+        "word": "汝州协调非事业编岗位供解聘人员双选",
+        "onboard_time": 1724317520,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1097457,
+        "num": 682280,
+        "word": "全红婵 LV乌龟",
+        "onboard_time": 1724309659,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 680987,
+        "num": 680987,
+        "word": "全红婵给妈妈买手机",
+        "onboard_time": 1724308580,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 634345,
+        "num": 634345,
+        "word": "陈晓旭前夫是庆余年赖御史",
+        "onboard_time": 1724318300,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 595635,
+        "num": 595635,
+        "word": "黑神话第一批受害者出现了",
+        "onboard_time": 1724301621,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 39340,
+        "num": 536876,
+        "word": "山西2岁失踪女童家人讲述事发经过",
+        "onboard_time": 1724318182,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492988,
+        "num": 492988,
+        "word": "中国女人普吉岛暴打老白男",
+        "onboard_time": 1724309240,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415577,
+        "num": 415577,
+        "word": "印度女医生",
+        "onboard_time": 1724299879,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412176,
+        "num": 412176,
+        "word": "黑神话",
+        "onboard_time": 1724315421,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 389395,
+        "num": 389395,
+        "word": "咱们中国开始考虑月球基建了",
+        "onboard_time": 1724309000,
+        "rank": 18,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 364273,
+        "num": 386216,
+        "word": "赵露思生图",
+        "onboard_time": 1724311160,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1067254,
+        "num": 383832,
+        "word": "被微信状态背刺了",
+        "onboard_time": 1724313081,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 721103,
+        "num": 381509,
+        "word": "乃万自证",
+        "onboard_time": 1724305580,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469894,
+        "num": 377283,
+        "word": "以后解散微信群知道怎么说了",
+        "onboard_time": 1724305280,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 373748,
+        "num": 373748,
+        "word": "HPV疫苗开启价格战",
+        "onboard_time": 1724310679,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334537,
+        "num": 334537,
+        "word": "WTT中国大满贯参赛名单",
+        "onboard_time": 1724316560,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 329755,
+        "num": 329755,
+        "word": "一公斤真头发卖上万元媲美黄金",
+        "onboard_time": 1724315421,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423716,
+        "num": 329586,
+        "word": "乃万 乙游",
+        "onboard_time": 1724282897,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327651,
+        "num": 327651,
+        "word": "女生称合租男室友多次偷进自己房间",
+        "onboard_time": 1724305160,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318829,
+        "num": 318829,
+        "word": "单依纯 黄子弘凡我劝你谨言慎行",
+        "onboard_time": 1724316020,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232601,
+        "num": 297385,
+        "word": "郑恺从奔跑吧无缝转场嗨放派",
+        "onboard_time": 1724311940,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284106,
+        "num": 284106,
+        "word": "男子榨干母亲200万积蓄后又诈骗千万",
+        "onboard_time": 1724315899,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281722,
+        "num": 281722,
+        "word": "黑神话创始人回应有玩家发现bug",
+        "onboard_time": 1724314161,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 279123,
+        "num": 279123,
+        "word": "男子称献血8次被告知不能优先用血",
+        "onboard_time": 1724298680,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277589,
+        "num": 277589,
+        "word": "FPX.ZQ对战Gr",
+        "onboard_time": 1724318660,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 275997,
+        "num": 275997,
+        "word": "打算婚前买房的女生避坑",
+        "onboard_time": 1724306118,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 264311,
+        "num": 264311,
+        "word": "朱雀第五人格",
+        "onboard_time": 1724317940,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 260511,
+        "num": 260511,
+        "word": "张颖颖 一生靠妈又骂妈的老大儿",
+        "onboard_time": 1724302102,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215714,
+        "num": 215714,
+        "word": "网友称360儿童手表的智能回答毁三观",
+        "onboard_time": 1724310020,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210666,
+        "num": 210666,
+        "word": "豆豆淘汰",
+        "onboard_time": 1724318902,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26724,
+        "num": 207743,
+        "word": "黑神话悟空带火PS5游戏馆",
+        "onboard_time": 1724317221,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 207738,
+        "num": 207738,
+        "word": "严浩翔被灯牌吓到失去表情管理",
+        "onboard_time": 1724316921,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205893,
+        "num": 205893,
+        "word": "李隼说王楚钦很有责任感",
+        "onboard_time": 1724313081,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197899,
+        "num": 197899,
+        "word": "孙颖莎连轴转",
+        "onboard_time": 1724314161,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177868,
+        "num": 177868,
+        "word": "汝州事业编被清退人员工资已结算",
+        "onboard_time": 1724319020,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172953,
+        "num": 172953,
+        "word": "孙杨复出前训练画面曝光",
+        "onboard_time": 1724313922,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169755,
+        "num": 169755,
+        "word": "中行行长刘金因其他安排缺席董事会",
+        "onboard_time": 1724318961,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 165607,
+        "num": 165607,
+        "word": "刘端端差点登上北京奥运开幕式",
+        "onboard_time": 1724309960,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164574,
+        "num": 164574,
+        "word": "嫦娥五号月壤研究又有新发现",
+        "onboard_time": 1724300301,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160601,
+        "num": 160601,
+        "word": "游客擅入罗布泊被救后接受处理",
+        "onboard_time": 1724318541,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158309,
+        "num": 158309,
+        "word": "美国日本都将翻拍你好李焕英",
+        "onboard_time": 1724316981,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记接见奥运健儿时说了啥#"
+    }
+  }
+}
