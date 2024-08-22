@@ -1,0 +1,410 @@
+{
+  "runTime": 1724291364713,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2004565,
+        "num": 2004565,
+        "word": "马来女生正常行驶撞死8名飞车党被判无罪",
+        "onboard_time": 1724283919,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1262582,
+        "num": 1262582,
+        "word": "乃万 乙游",
+        "onboard_time": 1724282897,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26955,
+        "num": 1204374,
+        "word": "中非现代化之路",
+        "onboard_time": 1724247620,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1169341,
+        "num": 1169341,
+        "word": "菩提祖师才是悟空唯一的师父",
+        "onboard_time": 1724284758,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 905342,
+        "num": 905342,
+        "word": "近四分之一驻阿美军女兵遭性侵",
+        "onboard_time": 1724289199,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 892732,
+        "num": 892732,
+        "word": "韩国快递员爬5层楼后暴力摔电脑",
+        "onboard_time": 1724283378,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 660242,
+        "num": 660242,
+        "word": "要出伏了",
+        "onboard_time": 1724288239,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653450,
+        "num": 653450,
+        "word": "黑神话悟空取景地门票销量暴涨3倍",
+        "onboard_time": 1724281455,
+        "rank": 7,
+        "category": "旅游,游戏"
+      },
+      {
+        "raw_hot": 649459,
+        "num": 649459,
+        "word": "女子240万新房被陌生人抢先入住",
+        "onboard_time": 1724289620,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317291,
+        "num": 645095,
+        "word": "刘晓庆 早期爱女第一人",
+        "onboard_time": 1724283857,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 748195,
+        "num": 645077,
+        "word": "印度16岁女孩乘公交遭司机等5人轮奸",
+        "onboard_time": 1724245641,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 644810,
+        "num": 644810,
+        "word": "纪念邓小平同志诞辰120周年",
+        "onboard_time": 1724284640,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 597331,
+        "num": 597331,
+        "word": "小米卖一辆车亏6万多",
+        "onboard_time": 1724282777,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 542235,
+        "num": 542235,
+        "word": "7岁女孩用防晒喷雾后接近白肺",
+        "onboard_time": 1724250741,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348486,
+        "num": 348486,
+        "word": "为老母1万6转院费三个儿子吵翻",
+        "onboard_time": 1724250263,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337577,
+        "num": 337577,
+        "word": "印度法院裁决汉堡王是一个印度品牌",
+        "onboard_time": 1724257517,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291083,
+        "num": 337391,
+        "word": "蒲熠星演我玩黑悟空",
+        "onboard_time": 1724288839,
+        "rank": 16,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 288978,
+        "num": 334405,
+        "word": "王俊凯说别模仿我吃中药拌面",
+        "onboard_time": 1724284099,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 244242,
+        "num": 332688,
+        "word": "沈腾有腹肌了",
+        "onboard_time": 1724254101,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131828,
+        "num": 330837,
+        "word": "愿轻风带走烦恼",
+        "onboard_time": 1724286920,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 728517,
+        "num": 327836,
+        "word": "如果你长期睡眠不足七小时",
+        "onboard_time": 1724284338,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 327475,
+        "num": 327475,
+        "word": "官方调查10岁女孩扁桃体微创手术死亡",
+        "onboard_time": 1724255239,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288079,
+        "num": 288079,
+        "word": "杭州警方通报街道强奸案",
+        "onboard_time": 1724286620,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268402,
+        "num": 268402,
+        "word": "雷军回应卖一辆车亏6万多",
+        "onboard_time": 1724287400,
+        "rank": 23,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 254032,
+        "num": 254032,
+        "word": "广州番禺通报有人疑似触电身亡",
+        "onboard_time": 1724283378,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249938,
+        "num": 249938,
+        "word": "房东嫌我问题太多不想租给我了",
+        "onboard_time": 1724284338,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248716,
+        "num": 248716,
+        "word": "大S看手机开红酒嘴角上扬",
+        "onboard_time": 1724254761,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185931,
+        "num": 245079,
+        "word": "相亲捡漏就像早高峰的共享单车",
+        "onboard_time": 1724281214,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170789,
+        "num": 239570,
+        "word": "懂事的导演已经开始递本子了",
+        "onboard_time": 1724254698,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165576,
+        "num": 235285,
+        "word": "成毅萧秋水斗笠造型",
+        "onboard_time": 1724290939,
+        "rank": 29,
+        "category": "作品衍生,综艺"
+      },
+      {
+        "raw_hot": 363740,
+        "num": 232522,
+        "word": "给储户赋红码被处分女官员任新职",
+        "onboard_time": 1724251820,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229328,
+        "num": 229328,
+        "word": "辽宁洪灾村一夜出现51米机械化桥",
+        "onboard_time": 1724287639,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213558,
+        "num": 213558,
+        "word": "女儿毛衣洗缩水爸爸认真撑大",
+        "onboard_time": 1724251221,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206184,
+        "num": 206184,
+        "word": "咒术回战",
+        "onboard_time": 1724283078,
+        "rank": 33,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 200626,
+        "num": 200626,
+        "word": "乘客错过高铁退票被拒后起诉",
+        "onboard_time": 1724249722,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189127,
+        "num": 189127,
+        "word": "高三女孩压力过大患上开学综合征",
+        "onboard_time": 1724284640,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181146,
+        "num": 181146,
+        "word": "电影失孤原型案今日二审",
+        "onboard_time": 1724288780,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167081,
+        "num": 167081,
+        "word": "用中国扎染打开初秋的浪漫",
+        "onboard_time": 1724288121,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152521,
+        "num": 152521,
+        "word": "奶奶摘花椒15分钟2岁孙女失踪",
+        "onboard_time": 1724241139,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142406,
+        "num": 142406,
+        "word": "处暑",
+        "onboard_time": 1724282597,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60731,
+        "num": 141513,
+        "word": "郭刚堂之子被拐案时间线",
+        "onboard_time": 1724289620,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141321,
+        "num": 141321,
+        "word": "上海5平米的loft长啥样",
+        "onboard_time": 1724290458,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128443,
+        "num": 128443,
+        "word": "云冈石窟回应检票员辱骂游客",
+        "onboard_time": 1724273231,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126077,
+        "num": 126077,
+        "word": "深切缅怀邓小平同志",
+        "onboard_time": 1724289259,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124309,
+        "num": 124309,
+        "word": "节气里的大美中国",
+        "onboard_time": 1724291179,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120348,
+        "num": 120348,
+        "word": "再说一声小平您好",
+        "onboard_time": 1724290877,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120212,
+        "num": 120212,
+        "word": "果然勇敢的人先享受世界",
+        "onboard_time": 1724282057,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119427,
+        "num": 119427,
+        "word": "邓紫棋官宣鸟巢四连开",
+        "onboard_time": 1724288839,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118624,
+        "num": 118624,
+        "word": "国产游戏需要更多高质量作品",
+        "onboard_time": 1724289558,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106225,
+        "num": 118244,
+        "word": "内娱超Like排名第一是肖战",
+        "onboard_time": 1724264054,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视民营经济发展#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724290028308,
+  "endTime": 1724291364713,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 2808899,
-      "num": 634503,
+      "num": 645077,
       "word": "印度16岁女孩乘公交遭司机等5人轮奸",
       "onboard_time": 1724245641,
       "rank": 10,
@@ -963,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1262582,
+      "num": 1262582,
+      "word": "乃万 乙游",
+      "onboard_time": 1724282897,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1259374,
       "num": 980600,
       "word": "金晨方声明",
@@ -1043,12 +1051,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1161936,
-      "num": 1161936,
-      "word": "乃万 乙游",
-      "onboard_time": 1724282897,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 1169341,
+      "num": 1169341,
+      "word": "菩提祖师才是悟空唯一的师父",
+      "onboard_time": 1724284758,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 1159996,
@@ -1593,6 +1601,14 @@
       "onboard_time": 1724233102,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 905342,
+      "num": 905342,
+      "word": "近四分之一驻阿美军女兵遭性侵",
+      "onboard_time": 1724289199,
+      "rank": 15,
+      "category": "国外时政"
     },
     {
       "raw_hot": 901152,
@@ -2259,6 +2275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 660242,
+      "num": 660242,
+      "word": "要出伏了",
+      "onboard_time": 1724288239,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 659057,
       "num": 659057,
       "word": "周杰伦演唱会抢票",
@@ -2291,6 +2315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 649459,
+      "num": 649459,
+      "word": "女子240万新房被陌生人抢先入住",
+      "onboard_time": 1724289620,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 649010,
       "num": 649010,
       "word": "capper恋爱",
@@ -2313,6 +2345,14 @@
       "onboard_time": 1724035458,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 644810,
+      "num": 644810,
+      "word": "纪念邓小平同志诞辰120周年",
+      "onboard_time": 1724284640,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 639890,
@@ -2377,14 +2417,6 @@
       "onboard_time": 1724037079,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 624771,
-      "num": 624771,
-      "word": "纪念邓小平同志诞辰120周年",
-      "onboard_time": 1724284640,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 620049,
@@ -3203,14 +3235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 463817,
-      "num": 463817,
-      "word": "要出伏了",
-      "onboard_time": 1724288239,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 463660,
       "num": 370582,
       "word": "袜和祙是两个不同的字",
@@ -3385,14 +3409,6 @@
       "onboard_time": 1724126121,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 433520,
-      "num": 433520,
-      "word": "近四分之一驻阿美军女兵遭性侵",
-      "onboard_time": 1724289199,
-      "rank": 15,
-      "category": "国外时政"
     },
     {
       "raw_hot": 433209,
@@ -3940,7 +3956,7 @@
     },
     {
       "raw_hot": 367594,
-      "num": 421973,
+      "num": 645095,
       "word": "刘晓庆 早期爱女第一人",
       "onboard_time": 1724283857,
       "rank": 17,
@@ -4883,6 +4899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291083,
+      "num": 418249,
+      "word": "蒲熠星演我玩黑悟空",
+      "onboard_time": 1724288839,
+      "rank": 19,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 290695,
       "num": 774681,
       "word": "葫芦岛建昌大部分地区电力通讯中断",
@@ -5289,6 +5313,14 @@
       "onboard_time": 1724204719,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268402,
+      "num": 268402,
+      "word": "雷军回应卖一辆车亏6万多",
+      "onboard_time": 1724287400,
+      "rank": 33,
+      "category": "汽车,互联网"
     },
     {
       "raw_hot": 268061,
@@ -5889,14 +5921,6 @@
       "onboard_time": 1724217979,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 241808,
-      "num": 241808,
-      "word": "雷军回应卖一辆车亏6万多",
-      "onboard_time": 1724287400,
-      "rank": 33,
-      "category": "汽车,互联网"
     },
     {
       "raw_hot": 241407,
@@ -7049,6 +7073,14 @@
       "onboard_time": 1724080460,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206184,
+      "num": 206184,
+      "word": "咒术回战",
+      "onboard_time": 1724069781,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 205874,
@@ -8219,6 +8251,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 181146,
+      "num": 617879,
+      "word": "电影失孤原型案今日二审",
+      "onboard_time": 1724288780,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180993,
       "num": 502216,
       "word": "官方回应大连2人被水冲到车底遇难",
@@ -8241,14 +8281,6 @@
       "onboard_time": 1724250381,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 180664,
-      "num": 180664,
-      "word": "女子240万新房被陌生人抢先入住",
-      "onboard_time": 1724289620,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 180536,
@@ -8305,14 +8337,6 @@
       "onboard_time": 1724246840,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 179026,
-      "num": 418249,
-      "word": "蒲熠星演我玩黑悟空",
-      "onboard_time": 1724288839,
-      "rank": 19,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 178520,
@@ -8555,14 +8579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 173557,
-      "num": 173557,
-      "word": "咒术回战",
-      "onboard_time": 1724069781,
-      "rank": 39,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 172594,
       "num": 172594,
       "word": "妖王虎先锋动作捕捉原型竟是喵喵",
@@ -8641,6 +8657,14 @@
       "onboard_time": 1723989020,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 170789,
+      "num": 256170,
+      "word": "懂事的导演已经开始递本子了",
+      "onboard_time": 1724254698,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 170769,
@@ -8851,6 +8875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 167081,
+      "num": 167081,
+      "word": "用中国扎染打开初秋的浪漫",
+      "onboard_time": 1724288121,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167051,
       "num": 416560,
       "word": "外国玩家为玩黑神话恶补西游记",
@@ -8897,6 +8929,14 @@
       "onboard_time": 1724178252,
       "rank": 49,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 165576,
+      "num": 235285,
+      "word": "成毅萧秋水斗笠造型",
+      "onboard_time": 1724290939,
+      "rank": 29,
+      "category": "作品衍生,综艺"
     },
     {
       "raw_hot": 165544,
@@ -8988,7 +9028,7 @@
     },
     {
       "raw_hot": 163819,
-      "num": 163819,
+      "num": 330837,
       "word": "愿轻风带走烦恼",
       "onboard_time": 1724286920,
       "rank": 42,
@@ -9017,14 +9057,6 @@
       "onboard_time": 1724031859,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 163032,
-      "num": 256170,
-      "word": "懂事的导演已经开始递本子了",
-      "onboard_time": 1724254698,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 163002,
@@ -9249,14 +9281,6 @@
       "onboard_time": 1724071587,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 157983,
-      "num": 157983,
-      "word": "用中国扎染打开初秋的浪漫",
-      "onboard_time": 1724288121,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157685,
@@ -9915,6 +9939,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 141321,
+      "num": 141321,
+      "word": "上海5平米的loft长啥样",
+      "onboard_time": 1724290458,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 141298,
       "num": 141298,
       "word": "张昊唯可提起刑事自诉",
@@ -10315,6 +10347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124309,
+      "num": 124309,
+      "word": "节气里的大美中国",
+      "onboard_time": 1724291179,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124277,
       "num": 239678,
       "word": "这就是中国奥运天团的精气神",
@@ -10369,6 +10409,14 @@
       "onboard_time": 1724050819,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120348,
+      "num": 120348,
+      "word": "再说一声小平您好",
+      "onboard_time": 1724290877,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 119996,
@@ -10843,14 +10891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 87321,
-      "num": 617879,
-      "word": "电影失孤原型案今日二审",
-      "onboard_time": 1724288780,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 86924,
       "num": 101754,
       "word": "檀健次cos小蜜蜂",
@@ -11289,6 +11329,14 @@
       "onboard_time": 1724158283,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 60731,
+      "num": 438026,
+      "word": "郭刚堂之子被拐案时间线",
+      "onboard_time": 1724289620,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60575,
@@ -11932,7 +11980,7 @@
     },
     {
       "raw_hot": 36644,
-      "num": 1177254,
+      "num": 1204374,
       "word": "中非现代化之路",
       "onboard_time": 1724247620,
       "rank": 2,
@@ -12280,14 +12328,6 @@
       "word": "故宫里的小动物壁纸",
       "onboard_time": 1724004973,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15450,
-      "num": 438026,
-      "word": "郭刚堂之子被拐案时间线",
-      "onboard_time": 1724289620,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
