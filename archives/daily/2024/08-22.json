@@ -1,10 +1,10 @@
 {
   "startTime": 1724257594927,
-  "endTime": 1724336428657,
+  "endTime": 1724337508357,
   "band_list": [
     {
       "raw_hot": 4183168,
-      "num": 443715,
+      "num": 620134,
       "word": "孙颖莎换头像和背景了",
       "onboard_time": 1724333661,
       "rank": 15,
@@ -491,6 +491,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 736240,
+      "num": 641939,
+      "word": "方大同 才二十三",
+      "onboard_time": 1724334743,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 725872,
+      "num": 640249,
+      "word": "马嘉祺 染发",
+      "onboard_time": 1724336061,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 704765,
       "num": 357403,
       "word": "大S看手机开红酒嘴角上扬",
@@ -547,6 +563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 645205,
+      "num": 645205,
+      "word": "梁伟铿回村吃席 老广标配",
+      "onboard_time": 1724335102,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 644810,
       "num": 644810,
       "word": "纪念邓小平同志诞辰120周年",
@@ -571,8 +595,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 633520,
-      "num": 633520,
+      "raw_hot": 637190,
+      "num": 637190,
       "word": "印度女性称其身边几乎都有遭性侵案例",
       "onboard_time": 1724325860,
       "rank": 38,
@@ -641,6 +665,14 @@
       "onboard_time": 1724250263,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 521590,
+      "num": 521590,
+      "word": "杨倩晒清华大学研究生录取通知书",
+      "onboard_time": 1724335400,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 516334,
@@ -715,14 +747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 443324,
-      "num": 443324,
-      "word": "方大同 才二十三",
-      "onboard_time": 1724334743,
-      "rank": 12,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 440643,
       "num": 429654,
       "word": "杭州警方通报街道强奸案",
@@ -761,14 +785,6 @@
       "onboard_time": 1724301800,
       "rank": 23,
       "category": "游戏,互联网"
-    },
-    {
-      "raw_hot": 424917,
-      "num": 424917,
-      "word": "梁伟铿回村吃席 老广标配",
-      "onboard_time": 1724335102,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 421595,
@@ -955,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 335822,
+      "num": 335822,
+      "word": "女子下雨天拉隐形车门被熏吐了",
+      "onboard_time": 1724336001,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 331109,
       "num": 331109,
       "word": "房东嫌我问题太多不想租给我了",
@@ -1041,6 +1065,14 @@
       "onboard_time": 1724292859,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 292359,
+      "num": 292359,
+      "word": "干坐一天就能赚钱的工作",
+      "onboard_time": 1724334321,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 290127,
@@ -1136,6 +1168,14 @@
       "word": "三岁道歉",
       "onboard_time": 1724325379,
       "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 271808,
+      "num": 271808,
+      "word": "WBG对战LNG",
+      "onboard_time": 1724335882,
+      "rank": 48,
       "category": "电竞"
     },
     {
@@ -1275,14 +1315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 239389,
-      "num": 239389,
-      "word": "干坐一天就能赚钱的工作",
-      "onboard_time": 1724334321,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 238075,
       "num": 238075,
       "word": "蒋敦豪巡演官宣",
@@ -1297,6 +1329,14 @@
       "onboard_time": 1724296939,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235827,
+      "num": 262632,
+      "word": "邓紫棋鸟巢演唱会",
+      "onboard_time": 1724326821,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 235651,
@@ -1329,14 +1369,6 @@
       "onboard_time": 1724304440,
       "rank": 49,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 230484,
-      "num": 262632,
-      "word": "邓紫棋鸟巢演唱会",
-      "onboard_time": 1724326821,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 230369,
@@ -1385,14 +1417,6 @@
       "onboard_time": 1724281214,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 225494,
-      "num": 258681,
-      "word": "马嘉祺 染发",
-      "onboard_time": 1724336061,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 225385,
@@ -1515,14 +1539,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 210631,
-      "num": 210631,
-      "word": "杨倩晒清华大学研究生录取通知书",
-      "onboard_time": 1724335400,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 209510,
       "num": 485726,
       "word": "你要的山西旅游路线要来了",
@@ -1627,6 +1643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 203767,
+      "num": 217036,
+      "word": "曾舜晞陈都灵要是这么演我可不困了",
+      "onboard_time": 1724336543,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203448,
       "num": 203448,
       "word": "失孤原型案人贩子毫无悔意",
@@ -1723,14 +1747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 195384,
-      "num": 195384,
-      "word": "女子下雨天拉隐形车门被熏吐了",
-      "onboard_time": 1724336001,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 195212,
       "num": 195212,
       "word": "四方馆",
@@ -1777,6 +1793,14 @@
       "onboard_time": 1724313922,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191156,
+      "num": 191156,
+      "word": "印度清洁工验尸房强行与女子亲热",
+      "onboard_time": 1724337021,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191064,
@@ -1963,6 +1987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181075,
+      "num": 181075,
+      "word": "九部的检察官连门卫都是绝杀",
+      "onboard_time": 1724335762,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180977,
       "num": 180977,
       "word": "檀健次新剧被叫人渣渣",
@@ -2091,12 +2123,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 168063,
-      "num": 168063,
-      "word": "九部的检察官连门卫都是绝杀",
-      "onboard_time": 1724335762,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 168379,
+      "num": 168379,
+      "word": "李雯雯 自信就是最美的",
+      "onboard_time": 1724334682,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 168035,
+      "num": 168035,
+      "word": "印度为何发生这么多强奸案",
+      "onboard_time": 1724336961,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167608,
@@ -2180,7 +2220,7 @@
     },
     {
       "raw_hot": 162257,
-      "num": 162257,
+      "num": 514084,
       "word": "杭州第一座万达广场要卖了",
       "onboard_time": 1724334141,
       "rank": 46,
@@ -2232,6 +2272,14 @@
       "word": "送crush黑神话悟空后表白失败了",
       "onboard_time": 1724307859,
       "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 157626,
+      "num": 157626,
+      "word": "有玩家因黑神话悟空难通关要求退款",
+      "onboard_time": 1724336842,
+      "rank": 46,
       "category": "游戏"
     },
     {
@@ -2339,6 +2387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151194,
+      "num": 151194,
+      "word": "马龙谈自己成功的秘诀",
+      "onboard_time": 1724335820,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150359,
       "num": 150359,
       "word": "魔兽世界原负责人怒斥黑神话被压分",
@@ -2443,14 +2499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 143333,
-      "num": 143333,
-      "word": "WBG对战LNG",
-      "onboard_time": 1724335882,
-      "rank": 48,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 142586,
       "num": 142586,
       "word": "广发行业严选基金3年亏掉近90亿",
@@ -2473,6 +2521,14 @@
       "onboard_time": 1724287760,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 141424,
+      "num": 141424,
+      "word": "侯明昊带头纱和我对视",
+      "onboard_time": 1724337382,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 138786,
@@ -2921,6 +2977,14 @@
       "onboard_time": 1724265792,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 57838,
+      "num": 622245,
+      "word": "合租男室友偷进女生房间涉嫌违法",
+      "onboard_time": 1724336421,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56925,
