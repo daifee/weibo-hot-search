@@ -1,14 +1,46 @@
 {
   "startTime": 1724257594927,
-  "endTime": 1724283401923,
+  "endTime": 1724290028308,
   "band_list": [
     {
+      "raw_hot": 2115056,
+      "num": 2115056,
+      "word": "马来女生正常行驶撞死8名飞车党被判无罪",
+      "onboard_time": 1724283919,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1309525,
+      "num": 1309525,
+      "word": "韩国快递员爬5层楼后暴力摔电脑",
+      "onboard_time": 1724283378,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1161936,
+      "num": 1161936,
+      "word": "乃万 乙游",
+      "onboard_time": 1724282897,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1101298,
-      "num": 358529,
+      "num": 617750,
       "word": "印度16岁女孩乘公交遭司机等5人轮奸",
       "onboard_time": 1724245641,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1032668,
+      "num": 1032668,
+      "word": "菩提祖师才是悟空唯一的师傅",
+      "onboard_time": 1724284758,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 1009534,
@@ -28,11 +60,19 @@
     },
     {
       "raw_hot": 865745,
-      "num": 154388,
+      "num": 249467,
       "word": "给储户赋红码被处分女官员任新职",
       "onboard_time": 1724251820,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 863315,
+      "num": 406480,
+      "word": "如果你长期睡眠不足七小时",
+      "onboard_time": 1724284338,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 862963,
@@ -41,6 +81,22 @@
       "onboard_time": 1724257517,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 818572,
+      "num": 818572,
+      "word": "黑神话悟空取景地门票销量暴涨3倍",
+      "onboard_time": 1724281455,
+      "rank": 9,
+      "category": "旅游,游戏"
+    },
+    {
+      "raw_hot": 772763,
+      "num": 772763,
+      "word": "小米卖一辆车亏6万多",
+      "onboard_time": 1724282777,
+      "rank": 22,
+      "category": "汽车"
     },
     {
       "raw_hot": 704765,
@@ -67,6 +123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 624771,
+      "num": 624771,
+      "word": "纪念邓小平同志诞辰120周年",
+      "onboard_time": 1724284640,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 541575,
       "num": 541575,
       "word": "黑神话悟空",
@@ -83,12 +147,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 444704,
-      "num": 444704,
-      "word": "韩国快递员爬5层楼后暴力摔电脑",
-      "onboard_time": 1724283378,
-      "rank": 4,
+      "raw_hot": 463817,
+      "num": 463817,
+      "word": "要出伏了",
+      "onboard_time": 1724288239,
+      "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 433520,
+      "num": 433520,
+      "word": "近四分之一驻阿美军女兵遭性侵",
+      "onboard_time": 1724289199,
+      "rank": 15,
+      "category": "国外时政"
     },
     {
       "raw_hot": 421595,
@@ -107,20 +179,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 398545,
-      "num": 398545,
-      "word": "黑神话悟空取景地门票销量暴涨3倍",
-      "onboard_time": 1724281455,
-      "rank": 9,
-      "category": "旅游,游戏"
-    },
-    {
       "raw_hot": 396918,
       "num": 172164,
       "word": "海底捞会惩罚每一个不做攻略的大学生",
       "onboard_time": 1724253321,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 392249,
+      "num": 392249,
+      "word": "广州番禺通报有人疑似触电身亡",
+      "onboard_time": 1724283378,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380104,
+      "num": 619452,
+      "word": "王俊凯说别模仿我吃中药拌面",
+      "onboard_time": 1724284099,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 367594,
+      "num": 421973,
+      "word": "刘晓庆 早期爱女第一人",
+      "onboard_time": 1724283857,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 363120,
@@ -147,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 331109,
+      "num": 331109,
+      "word": "房东嫌我问题太多不想租给我了",
+      "onboard_time": 1724284338,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 327677,
       "num": 173638,
       "word": "爷爷在甲醛超标的房子里住了大半年",
@@ -163,12 +259,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292048,
+      "num": 292048,
+      "word": "杭州警方通报街道强奸案",
+      "onboard_time": 1724286620,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275473,
       "num": 275473,
       "word": "河北姑娘孙颖莎回家",
       "onboard_time": 1724250381,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 265144,
+      "num": 265144,
+      "word": "辽宁洪灾村一夜出现51米机械化桥",
+      "onboard_time": 1724287639,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249871,
@@ -179,12 +291,44 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 246780,
+      "num": 246780,
+      "word": "高三女孩压力过大患上开学综合征",
+      "onboard_time": 1724284640,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243780,
+      "num": 243780,
+      "word": "女儿毛衣洗缩水爸爸认真撑大",
+      "onboard_time": 1724251221,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 241808,
+      "num": 241808,
+      "word": "雷军回应卖一辆车亏6万多",
+      "onboard_time": 1724287400,
+      "rank": 33,
+      "category": "汽车,互联网"
+    },
+    {
       "raw_hot": 232011,
       "num": 232011,
       "word": "十年过去了TFBOYS和EXO还是碰上了",
       "onboard_time": 1724248642,
       "rank": 17,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 226857,
+      "num": 419397,
+      "word": "相亲捡漏就像早高峰的共享单车",
+      "onboard_time": 1724281214,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 221719,
@@ -201,6 +345,14 @@
       "onboard_time": 1724282597,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205298,
+      "num": 205298,
+      "word": "果然勇敢的人先享受世界",
+      "onboard_time": 1724282057,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 201953,
@@ -235,12 +387,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 184152,
-      "num": 184152,
-      "word": "小米卖一辆车亏6万多",
-      "onboard_time": 1724282777,
-      "rank": 22,
-      "category": "汽车"
+      "raw_hot": 185567,
+      "num": 185567,
+      "word": "深切缅怀邓小平同志",
+      "onboard_time": 1724289259,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 181156,
@@ -251,6 +403,38 @@
       "category": "电影,体育"
     },
     {
+      "raw_hot": 180664,
+      "num": 180664,
+      "word": "女子240万新房被陌生人抢先入住",
+      "onboard_time": 1724289620,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179026,
+      "num": 418249,
+      "word": "蒲熠星演我玩黑悟空",
+      "onboard_time": 1724288839,
+      "rank": 19,
+      "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 170706,
+      "num": 170706,
+      "word": "咒术回战",
+      "onboard_time": 1724283078,
+      "rank": 46,
+      "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 170415,
+      "num": 170415,
+      "word": "国产游戏需要更多高质量作品",
+      "onboard_time": 1724289558,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 167608,
       "num": 167608,
       "word": "2岁女童失踪8天家属悬赏20万寻人",
@@ -259,20 +443,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 165433,
-      "num": 204251,
-      "word": "女儿毛衣洗缩水爸爸认真撑大",
-      "onboard_time": 1724251221,
-      "rank": 24,
-      "category": "幽默"
+      "raw_hot": 163819,
+      "num": 163819,
+      "word": "愿轻风带走烦恼",
+      "onboard_time": 1724286920,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 163032,
-      "num": 216935,
+      "num": 256170,
       "word": "懂事的导演已经开始递本子了",
       "onboard_time": 1724254698,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157983,
+      "num": 157983,
+      "word": "用中国扎染打开初秋的浪漫",
+      "onboard_time": 1724288121,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154329,
@@ -315,14 +507,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 149693,
-      "num": 149693,
-      "word": "果然勇敢的人先享受世界",
-      "onboard_time": 1724282057,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 148301,
       "num": 148301,
       "word": "水瓶座对感情太挑剔了",
@@ -331,12 +515,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 145528,
-      "num": 208738,
-      "word": "乃万 乙游",
-      "onboard_time": 1724282897,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 147200,
+      "num": 255616,
+      "word": "邓紫棋官宣鸟巢四连开",
+      "onboard_time": 1724288839,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 141567,
+      "num": 141567,
+      "word": "AppStore负责人将离职",
+      "onboard_time": 1724287760,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 135258,
@@ -345,6 +537,14 @@
       "onboard_time": 1724281275,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130162,
+      "num": 130162,
+      "word": "新疆库车5.0级地震",
+      "onboard_time": 1724287040,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129788,
@@ -499,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 87321,
+      "num": 617879,
+      "word": "电影失孤原型案今日二审",
+      "onboard_time": 1724288780,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84235,
       "num": 84235,
       "word": "小伙请假玩黑神话主机被干冒烟",
@@ -537,22 +745,6 @@
       "onboard_time": 1724255838,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 72853,
-      "num": 72853,
-      "word": "相亲捡漏就像早高峰的共享单车",
-      "onboard_time": 1724281214,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 71234,
-      "num": 71234,
-      "word": "咒术回战",
-      "onboard_time": 1724283078,
-      "rank": 46,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 67209,
@@ -619,14 +811,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 48464,
-      "num": 145885,
-      "word": "广州番禺通报有人疑似触电身亡",
-      "onboard_time": 1724283378,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 47730,
       "num": 60139,
       "word": "男子救3童牺牲家乡给予百万慰问金",
@@ -659,20 +843,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 32741,
+      "num": 1177254,
+      "word": "中非现代化之路",
+      "onboard_time": 1724247620,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 29848,
       "num": 41452,
       "word": "中国残奥代表团今日出征",
       "onboard_time": 1724269871,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 29475,
-      "num": 741854,
-      "word": "中非现代化之路",
-      "onboard_time": 1724247620,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 27502,
@@ -697,6 +881,14 @@
       "onboard_time": 1724266332,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 15450,
+      "num": 438026,
+      "word": "郭刚堂之子被拐案时间线",
+      "onboard_time": 1724289620,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13020,
