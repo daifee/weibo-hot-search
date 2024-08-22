@@ -1,0 +1,410 @@
+{
+  "runTime": 1724333010629,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1670199,
+        "num": 1670199,
+        "word": "周迅 50岁正是迷死人的年纪",
+        "onboard_time": 1724328920,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1277184,
+        "num": 1277184,
+        "word": "特朗普在防弹玻璃后讲话",
+        "onboard_time": 1724327180,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 20273,
+        "num": 1271090,
+        "word": "与莫高窟壁画古人一起别夏迎秋",
+        "onboard_time": 1724331979,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1267670,
+        "num": 1267670,
+        "word": "小孩骑行被碾压身亡肇事司机移送检方",
+        "onboard_time": 1724324840,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1210109,
+        "num": 1210109,
+        "word": "孙颖莎龙道一等被记大功",
+        "onboard_time": 1724325620,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 893281,
+        "num": 893281,
+        "word": "黛玉之死 马拉之死 好死不死",
+        "onboard_time": 1724328980,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 692053,
+        "num": 692053,
+        "word": "失踪女童父亲称有水的地方抽干也没找到",
+        "onboard_time": 1724327780,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 668080,
+        "num": 668080,
+        "word": "霍震霆回应郭晶晶担任跳水裁判长",
+        "onboard_time": 1724321780,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 633321,
+        "num": 633321,
+        "word": "印度女性称其身边几乎都有遭性侵案例",
+        "onboard_time": 1724325860,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224566,
+        "num": 493266,
+        "word": "父母双亡脑梗男子被好友拯救",
+        "onboard_time": 1724332101,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485573,
+        "num": 485573,
+        "word": "新版黛玉临终",
+        "onboard_time": 1724320941,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 484928,
+        "num": 484928,
+        "word": "王楚钦 下个周期更专注单打",
+        "onboard_time": 1724326040,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 469271,
+        "num": 469271,
+        "word": "老人急病离世藏了15万的床垫被扔了",
+        "onboard_time": 1724309360,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66067,
+        "num": 458215,
+        "word": "雷军认为小鹏MONA很OK",
+        "onboard_time": 1724328200,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 21398,
+        "num": 453536,
+        "word": "专家称很多网红游乐设备监管相对模糊",
+        "onboard_time": 1724331621,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450997,
+        "num": 450997,
+        "word": "红色月亮",
+        "onboard_time": 1724332460,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440644,
+        "num": 440644,
+        "word": "王昶对黄雅琼略略略略",
+        "onboard_time": 1724329580,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 374872,
+        "num": 374872,
+        "word": "原来关晓彤是林黛玉最初人选",
+        "onboard_time": 1724310079,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 370133,
+        "num": 370133,
+        "word": "老人藏4万6现金被儿子顺手扔掉",
+        "onboard_time": 1724330061,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38299,
+        "num": 365138,
+        "word": "大牌瑜伽裤能否找到国产平替",
+        "onboard_time": 1724331621,
+        "rank": 19,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 910836,
+        "num": 357634,
+        "word": "金子涵瘦脱相",
+        "onboard_time": 1724316201,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 895523,
+        "num": 345471,
+        "word": "乃万",
+        "onboard_time": 1724326099,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 595114,
+        "num": 336298,
+        "word": "印度",
+        "onboard_time": 1724322620,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330223,
+        "num": 330223,
+        "word": "余宇涵 电子烟",
+        "onboard_time": 1724332820,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280040,
+        "num": 330160,
+        "word": "白鹿李荣浩现身邓紫棋北京演唱会",
+        "onboard_time": 1724332820,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 88652,
+        "num": 329982,
+        "word": "1.2万元的黑神话悟空联名电脑秒售罄",
+        "onboard_time": 1724329281,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 524942,
+        "num": 329920,
+        "word": "被微信状态背刺了",
+        "onboard_time": 1724313081,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 252118,
+        "num": 329758,
+        "word": "蔡少芬 香港第一个公开结婚的演员",
+        "onboard_time": 1724322500,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329732,
+        "num": 329732,
+        "word": "在黎巴嫩中国公民尽快回国或离境",
+        "onboard_time": 1724328320,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 228043,
+        "num": 286331,
+        "word": "柳舟记太子身世曝光",
+        "onboard_time": 1724331080,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 424529,
+        "num": 282486,
+        "word": "肖战手拿羽毛",
+        "onboard_time": 1724328561,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277841,
+        "num": 277841,
+        "word": "乃万自证",
+        "onboard_time": 1724305580,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270043,
+        "num": 270043,
+        "word": "印度女医生",
+        "onboard_time": 1724299879,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251173,
+        "num": 251173,
+        "word": "黑神话",
+        "onboard_time": 1724315421,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 238906,
+        "num": 238906,
+        "word": "加沙14岁遇难男孩一生什么都没见过",
+        "onboard_time": 1724313680,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 226779,
+        "num": 226779,
+        "word": "陈晓旭前夫是庆余年赖御史",
+        "onboard_time": 1724318300,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208394,
+        "num": 208394,
+        "word": "邓紫棋鸟巢演唱会",
+        "onboard_time": 1724326821,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196795,
+        "num": 196795,
+        "word": "李若彤贺刚相差16岁演夫妻",
+        "onboard_time": 1724332221,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196078,
+        "num": 196078,
+        "word": "张大大探班赵露思",
+        "onboard_time": 1724331680,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194978,
+        "num": 194978,
+        "word": "检察院回应小孩骑行被碾压身亡",
+        "onboard_time": 1724324840,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193189,
+        "num": 193189,
+        "word": "秦海璐 30岁没结婚没什么关系",
+        "onboard_time": 1724319501,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191180,
+        "num": 191180,
+        "word": "央视boys话最少的一次直播",
+        "onboard_time": 1724332341,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188157,
+        "num": 188157,
+        "word": "潘展乐作为代表发言",
+        "onboard_time": 1724329460,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184565,
+        "num": 184565,
+        "word": "诚C一穿三",
+        "onboard_time": 1724332701,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 182200,
+        "num": 182200,
+        "word": "卫生巾过期再售卖严重威胁女性健康",
+        "onboard_time": 1724328021,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176551,
+        "num": 176551,
+        "word": "LGDNBW对战WB",
+        "onboard_time": 1724332701,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168489,
+        "num": 168489,
+        "word": "记者探秘试管婴儿黑作坊",
+        "onboard_time": 1724332162,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159611,
+        "num": 159611,
+        "word": "潘展乐 先把你们应付过去",
+        "onboard_time": 1724317161,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155518,
+        "num": 155518,
+        "word": "日本超20万人联名要求停排核污水",
+        "onboard_time": 1724319440,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152716,
+        "num": 152716,
+        "word": "纪念邓小平同志诞辰120周年座谈会",
+        "onboard_time": 1724332580,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#继续深入学习运用邓小平理论#"
+    }
+  }
+}
