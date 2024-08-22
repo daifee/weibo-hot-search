@@ -1,6 +1,6 @@
 {
   "startTime": 1724344132300,
-  "endTime": 1724358906784,
+  "endTime": 1724361670011,
   "band_list": [
     {
       "raw_hot": 1541133,
@@ -299,6 +299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 127801,
+      "num": 131559,
+      "word": "工作人员回应外卖不能带上楼",
+      "onboard_time": 1724355733,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127018,
       "num": 127018,
       "word": "失踪女童父亲称有水的地方抽干也没找到",
@@ -451,14 +459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 56026,
-      "num": 56026,
-      "word": "工作人员回应外卖不能带上楼",
-      "onboard_time": 1724355733,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 55320,
       "num": 55320,
       "word": "游戏科学",
@@ -491,19 +491,43 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 29228,
-      "num": 29228,
+      "raw_hot": 33674,
+      "num": 33674,
+      "word": "印度女医生在医院惨遭奸杀引众怒",
+      "onboard_time": 1724359091,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31126,
+      "num": 31126,
+      "word": "医保费用断缴后该如何再参保",
+      "onboard_time": 1724357051,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29617,
+      "num": 29617,
       "word": "HPV疫苗随来随打几价都有",
       "onboard_time": 1724353572,
       "rank": 42,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27690,
-      "num": 27690,
-      "word": "医保费用断缴后该如何再参保",
-      "onboard_time": 1724357051,
-      "rank": 46,
+      "raw_hot": 23777,
+      "num": 58128,
+      "word": "夜宿恐龙博物馆是啥体验",
+      "onboard_time": 1724357592,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22006,
+      "num": 25832,
+      "word": "浙江婚假拟从3天延长至13天",
+      "onboard_time": 1724361312,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -520,14 +544,6 @@
       "word": "民警陪警犬完成最后一次巡边",
       "onboard_time": 1724358672,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14306,
-      "num": 58128,
-      "word": "夜宿恐龙博物馆是啥体验",
-      "onboard_time": 1724357592,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
