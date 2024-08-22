@@ -1,7 +1,15 @@
 {
   "startTime": 1724344132300,
-  "endTime": 1724345046433,
+  "endTime": 1724347168670,
   "band_list": [
+    {
+      "raw_hot": 1432328,
+      "num": 1432328,
+      "word": "肯德基",
+      "onboard_time": 1724345057,
+      "rank": 0,
+      "category": "美食"
+    },
     {
       "raw_hot": 1145477,
       "num": 655955,
@@ -75,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 438275,
+      "num": 438275,
+      "word": "魏哲鸣一觉睡醒天塌了",
+      "onboard_time": 1724343859,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 438167,
       "num": 438167,
       "word": "孙颖莎龙道一等被记大功",
@@ -129,14 +145,6 @@
       "onboard_time": 1724336001,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259897,
-      "num": 259897,
-      "word": "魏哲鸣一觉睡醒天塌了",
-      "onboard_time": 1724343859,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 257923,
@@ -203,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181842,
+      "num": 441143,
+      "word": "在黎巴嫩中国公民尽快回国或离境",
+      "onboard_time": 1724328320,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 162322,
       "num": 162322,
       "word": "大龄相亲市场到底有多难",
@@ -225,6 +241,22 @@
       "onboard_time": 1724316201,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156506,
+      "num": 156506,
+      "word": "澳客机降落后一乘客强行打开应急出口",
+      "onboard_time": 1724341280,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149427,
+      "num": 149427,
+      "word": "乐华家族演唱会",
+      "onboard_time": 1724345177,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 145949,
@@ -297,22 +329,6 @@
       "onboard_time": 1724321780,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122601,
-      "num": 122601,
-      "word": "澳客机降落后一乘客强行打开应急出口",
-      "onboard_time": 1724341280,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121439,
-      "num": 441143,
-      "word": "在黎巴嫩中国公民尽快回国或离境",
-      "onboard_time": 1724328320,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 118842,
@@ -401,6 +417,38 @@
       "onboard_time": 1724320941,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 64790,
+      "num": 64790,
+      "word": "aespa颁奖礼开麦舞台",
+      "onboard_time": 1724346437,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 35464,
+      "num": 74178,
+      "word": "杭州第一座万达广场要卖了",
+      "onboard_time": 1724334141,
+      "rank": 38,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 21416,
+      "num": 118291,
+      "word": "假发公司月需高至10万顶年营收过亿",
+      "onboard_time": 1724347096,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12261,
+      "num": 537792,
+      "word": "下达2亿元支持辽吉灾后应急恢复",
+      "onboard_time": 1724331861,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6028,

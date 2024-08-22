@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724345046433,
+  "endTime": 1724347168670,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -921,6 +921,14 @@
       "onboard_time": 1723936634,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1432328,
+      "num": 1432328,
+      "word": "肯德基",
+      "onboard_time": 1724345057,
+      "rank": 0,
+      "category": "美食"
     },
     {
       "raw_hot": 1431738,
@@ -4019,6 +4027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 438275,
+      "num": 438275,
+      "word": "魏哲鸣一觉睡醒天塌了",
+      "onboard_time": 1724343859,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 437890,
       "num": 437890,
       "word": "丁海寅你怎么变成吊在俊了",
@@ -6481,14 +6497,6 @@
       "onboard_time": 1723910301,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259897,
-      "num": 259897,
-      "word": "魏哲鸣一觉睡醒天塌了",
-      "onboard_time": 1724343859,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 259562,
@@ -11235,6 +11243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156506,
+      "num": 156506,
+      "word": "澳客机降落后一乘客强行打开应急出口",
+      "onboard_time": 1724341280,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156414,
       "num": 156414,
       "word": "卢昱晓 韩系妆造",
@@ -11601,6 +11617,14 @@
       "onboard_time": 1723951879,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149427,
+      "num": 149427,
+      "word": "乐华家族演唱会",
+      "onboard_time": 1724345177,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 149349,
@@ -12504,14 +12528,6 @@
       "word": "大自然的调色盘一眼心动",
       "onboard_time": 1724144780,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122601,
-      "num": 122601,
-      "word": "澳客机降落后一乘客强行打开应急出口",
-      "onboard_time": 1724341280,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -13513,6 +13529,14 @@
       "onboard_time": 1724257278,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 64790,
+      "num": 64790,
+      "word": "aespa颁奖礼开麦舞台",
+      "onboard_time": 1724346437,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 63403,
@@ -14747,6 +14771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21416,
+      "num": 118291,
+      "word": "假发公司月需高至10万顶年营收过亿",
+      "onboard_time": 1724347096,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20823,
       "num": 28998,
       "word": "迪丽热巴首位芭莎金九90花",
@@ -14872,6 +14904,14 @@
       "word": "有家长花上万做小升初一对一咨询",
       "onboard_time": 1724236400,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12261,
+      "num": 537792,
+      "word": "下达2亿元支持辽吉灾后应急恢复",
+      "onboard_time": 1724331861,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

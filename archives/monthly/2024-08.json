@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1724345046433,
+  "endTime": 1724347168670,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -8481,6 +8481,14 @@
       "onboard_time": 1723254743,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1432328,
+      "num": 1432328,
+      "word": "肯德基",
+      "onboard_time": 1724345057,
+      "rank": 0,
+      "category": "美食"
     },
     {
       "raw_hot": 1432035,
@@ -24619,6 +24627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 438275,
+      "num": 438275,
+      "word": "魏哲鸣一觉睡醒天塌了",
+      "onboard_time": 1724343859,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 438068,
       "num": 559071,
       "word": "林俊杰 抢票",
@@ -37729,14 +37745,6 @@
       "onboard_time": 1723910301,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259897,
-      "num": 259897,
-      "word": "魏哲鸣一觉睡醒天塌了",
-      "onboard_time": 1724343859,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 259887,
@@ -54803,6 +54811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156506,
+      "num": 156506,
+      "word": "澳客机降落后一乘客强行打开应急出口",
+      "onboard_time": 1724341280,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156457,
       "num": 179503,
       "word": "男孩海上潜水被数只护士鲨包围",
@@ -55705,6 +55721,14 @@
       "onboard_time": 1723882520,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149427,
+      "num": 149427,
+      "word": "乐华家族演唱会",
+      "onboard_time": 1724345177,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 149368,
@@ -58073,14 +58097,6 @@
       "onboard_time": 1722528643,
       "rank": 29,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 122601,
-      "num": 122601,
-      "word": "澳客机降落后一乘客强行打开应急出口",
-      "onboard_time": 1724341280,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122487,
@@ -62224,6 +62240,14 @@
       "word": "by2暴风雨下的演出",
       "onboard_time": 1722830483,
       "rank": 19,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 64790,
+      "num": 64790,
+      "word": "aespa颁奖礼开麦舞台",
+      "onboard_time": 1724346437,
+      "rank": 45,
       "category": "演出"
     },
     {
@@ -67059,6 +67083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21416,
+      "num": 118291,
+      "word": "假发公司月需高至10万顶年营收过亿",
+      "onboard_time": 1724347096,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21342,
       "num": 352548,
       "word": "中国摔跤首枚奖牌",
@@ -67513,6 +67545,14 @@
       "onboard_time": 1722771089,
       "rank": 42,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 12261,
+      "num": 537792,
+      "word": "下达2亿元支持辽吉灾后应急恢复",
+      "onboard_time": 1724331861,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12179,
