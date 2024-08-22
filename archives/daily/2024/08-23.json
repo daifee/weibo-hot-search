@@ -1,6 +1,6 @@
 {
   "startTime": 1724344132300,
-  "endTime": 1724351245736,
+  "endTime": 1724352024499,
   "band_list": [
     {
       "raw_hot": 1541133,
@@ -443,8 +443,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 49981,
-      "num": 49981,
+      "raw_hot": 51632,
+      "num": 51632,
       "word": "薛之谦QQ号是六位数的",
       "onboard_time": 1724349973,
       "rank": 34,
@@ -467,20 +467,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 21833,
+      "num": 116059,
+      "word": "印度村庄开小偷学校教小孩当扒手",
+      "onboard_time": 1724351653,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17436,
+      "num": 135323,
+      "word": "悟空带飞济南灵岩寺咨询量增3倍",
+      "onboard_time": 1724349674,
+      "rank": 9,
+      "category": "游戏,旅游"
+    },
+    {
       "raw_hot": 12941,
       "num": 537792,
       "word": "下达2亿元支持辽吉灾后应急恢复",
       "onboard_time": 1724331861,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11137,
-      "num": 135323,
-      "word": "悟空带飞济南灵岩寺咨询量增3倍",
-      "onboard_time": 1724349674,
-      "rank": 9,
-      "category": "游戏,旅游"
     },
     {
       "raw_hot": 6028,
