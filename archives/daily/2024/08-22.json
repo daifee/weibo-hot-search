@@ -1,6 +1,6 @@
 {
   "startTime": 1724257594927,
-  "endTime": 1724305000267,
+  "endTime": 1724308098641,
   "band_list": [
     {
       "raw_hot": 2963809,
@@ -43,12 +43,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1885888,
+      "num": 1885888,
+      "word": "乃万自证",
+      "onboard_time": 1724305580,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1869731,
+      "num": 1374302,
+      "word": "女生称合租男室友多次偷进自己房间",
+      "onboard_time": 1724305160,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1814142,
       "num": 1814142,
       "word": "郑州官方称赋红码官员履新符合程序",
       "onboard_time": 1724296999,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1651995,
+      "num": 1651995,
+      "word": "黑神话第一批受害者出现了",
+      "onboard_time": 1724301621,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 1607632,
@@ -179,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 869489,
+      "num": 869489,
+      "word": "不怪樊振东嘴角逐渐向下",
+      "onboard_time": 1724305219,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 865745,
       "num": 249467,
       "word": "给储户赋红码被处分女官员任新职",
@@ -212,7 +244,7 @@
     },
     {
       "raw_hot": 773340,
-      "num": 598556,
+      "num": 630795,
       "word": "张颖颖 一生靠妈又骂妈的老大儿",
       "onboard_time": 1724302102,
       "rank": 16,
@@ -241,6 +273,14 @@
       "onboard_time": 1724250741,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 663807,
+      "num": 287548,
+      "word": "以后解散微信群知道怎么说了",
+      "onboard_time": 1724305280,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 660242,
@@ -313,14 +353,6 @@
       "onboard_time": 1724299580,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 480599,
-      "num": 480599,
-      "word": "黑神话第一批受害者出现了",
-      "onboard_time": 1724301621,
-      "rank": 21,
-      "category": "游戏"
     },
     {
       "raw_hot": 468781,
@@ -409,6 +441,14 @@
       "onboard_time": 1724284099,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 376144,
+      "num": 376144,
+      "word": "歌手2024官宣下一战歌手",
+      "onboard_time": 1724306359,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 367594,
@@ -531,6 +571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 303918,
+      "num": 285185,
+      "word": "打算婚前买房的女生避坑",
+      "onboard_time": 1724306118,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 286265,
       "num": 327079,
       "word": "极挑男人帮在边水往事碰头",
@@ -545,6 +593,14 @@
       "onboard_time": 1724302761,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 283771,
+      "num": 283771,
+      "word": "西安和洛阳谁才是中国第一古都",
+      "onboard_time": 1724304080,
+      "rank": 42,
+      "category": "科学科普"
     },
     {
       "raw_hot": 275473,
@@ -651,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236002,
+      "num": 236002,
+      "word": "妈妈帮游客与儿子拍成一家三口",
+      "onboard_time": 1724304980,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232011,
       "num": 232011,
       "word": "十年过去了TFBOYS和EXO还是碰上了",
@@ -723,11 +787,27 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 213950,
+      "num": 213950,
+      "word": "美国生育率15年间下降21%",
+      "onboard_time": 1724304440,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 213762,
       "num": 612694,
       "word": "被虐致死女童母亲失眠大把吃安眠药",
       "onboard_time": 1724293818,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212796,
+      "num": 833023,
+      "word": "官方通报退伍军人被冒名顶替26年",
+      "onboard_time": 1724302821,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -803,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202683,
+      "num": 202683,
+      "word": "黑神话连NPC蜘蛛精都火了",
+      "onboard_time": 1724307020,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 202211,
       "num": 202211,
       "word": "微博旅行家",
@@ -851,6 +939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 196122,
+      "num": 196122,
+      "word": "警方提醒玩黑神话悟空需要注意的事项",
+      "onboard_time": 1724304560,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 195212,
       "num": 195212,
       "word": "四方馆",
@@ -872,14 +968,6 @@
       "word": "拼积木成大学生暑期火热副业",
       "onboard_time": 1724294719,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190027,
-      "num": 833023,
-      "word": "官方通报退伍军人被冒名顶替26年",
-      "onboard_time": 1724302821,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -937,14 +1025,6 @@
       "onboard_time": 1724293158,
       "rank": 38,
       "category": "财经"
-    },
-    {
-      "raw_hot": 182769,
-      "num": 182769,
-      "word": "西安和洛阳谁才是中国第一古都",
-      "onboard_time": 1724304080,
-      "rank": 42,
-      "category": "科学科普"
     },
     {
       "raw_hot": 181409,
@@ -1043,6 +1123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 168651,
+      "num": 168651,
+      "word": "明明没有血缘关系也能长得像",
+      "onboard_time": 1724307979,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167608,
       "num": 167608,
       "word": "2岁女童失踪8天家属悬赏20万寻人",
@@ -1091,6 +1179,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 159785,
+      "num": 159785,
+      "word": "陶昕然能不能把甄嬛传剧本交出来",
+      "onboard_time": 1724307680,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 159505,
+      "num": 159505,
+      "word": "生父女友虐待女童称此为猎杀时刻",
+      "onboard_time": 1724307859,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158653,
       "num": 158653,
       "word": "马龙王楚钦北京台路透",
@@ -1099,11 +1203,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158308,
-      "num": 158308,
-      "word": "警方提醒玩黑神话悟空需要注意的事项",
-      "onboard_time": 1724304560,
-      "rank": 46,
+      "raw_hot": 157946,
+      "num": 157946,
+      "word": "送crush黑神话悟空后表白失败了",
+      "onboard_time": 1724307859,
+      "rank": 44,
       "category": "游戏"
     },
     {
@@ -1187,20 +1291,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 145315,
-      "num": 145315,
-      "word": "妈妈帮游客与儿子拍成一家三口",
-      "onboard_time": 1724304980,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144647,
-      "num": 144647,
-      "word": "美国生育率15年间下降21%",
-      "onboard_time": 1724304440,
-      "rank": 49,
-      "category": "国外时政"
+      "raw_hot": 146124,
+      "num": 146124,
+      "word": "溺水后如何安全施救",
+      "onboard_time": 1724306839,
+      "rank": 46,
+      "category": "科学科普"
     },
     {
       "raw_hot": 143983,
@@ -1217,6 +1313,22 @@
       "onboard_time": 1724287760,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 138786,
+      "num": 138786,
+      "word": "四六级明天6点查分",
+      "onboard_time": 1724306599,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 136884,
+      "num": 136884,
+      "word": "边水往事怎么不宣发",
+      "onboard_time": 1724305040,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 135258,
@@ -1264,6 +1376,14 @@
       "word": "节气里的大美中国",
       "onboard_time": 1724291179,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121015,
+      "num": 667976,
+      "word": "被虐死女童生父情人称把孩子当亲生的",
+      "onboard_time": 1724306421,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1361,6 +1481,14 @@
       "onboard_time": 1724251580,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 105647,
+      "num": 284679,
+      "word": "没感受过母爱却最懂母爱",
+      "onboard_time": 1724306839,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 104525,
@@ -1611,6 +1739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 39767,
+      "num": 236101,
+      "word": "张若昀 禁欲系",
+      "onboard_time": 1724306541,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 34282,
       "num": 45879,
       "word": "王一博新歌拍摄间隙",
@@ -1657,6 +1793,14 @@
       "onboard_time": 1724271611,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 24788,
+      "num": 288148,
+      "word": "媒体评电影失孤原型案",
+      "onboard_time": 1724306421,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23201,

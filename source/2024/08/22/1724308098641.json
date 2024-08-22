@@ -1,0 +1,410 @@
+{
+  "runTime": 1724308098641,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1885888,
+        "num": 1885888,
+        "word": "乃万自证",
+        "onboard_time": 1724305580,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1651995,
+        "num": 1651995,
+        "word": "黑神话第一批受害者出现了",
+        "onboard_time": 1724301621,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 4368,
+        "num": 1402568,
+        "word": "法润彩云南",
+        "onboard_time": 1724294960,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1869731,
+        "num": 1374302,
+        "word": "女生称合租男室友多次偷进自己房间",
+        "onboard_time": 1724305160,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1261437,
+        "num": 1261437,
+        "word": "男子称献血8次被告知不能优先用血",
+        "onboard_time": 1724298680,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1011990,
+        "num": 1011990,
+        "word": "乃万 乙游",
+        "onboard_time": 1724282897,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 869489,
+        "num": 869489,
+        "word": "不怪樊振东嘴角逐渐向下",
+        "onboard_time": 1724305219,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 771340,
+        "num": 771340,
+        "word": "雷军谈黑神话悟空",
+        "onboard_time": 1724301743,
+        "rank": 7,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 758046,
+        "num": 758046,
+        "word": "披哥没播一半哥哥已沦陷一半",
+        "onboard_time": 1724301200,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121015,
+        "num": 667976,
+        "word": "被虐死女童生父情人称把孩子当亲生的",
+        "onboard_time": 1724306421,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630795,
+        "num": 630795,
+        "word": "张颖颖 一生靠妈又骂妈的老大儿",
+        "onboard_time": 1724302102,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 622601,
+        "num": 622601,
+        "word": "印度女医生",
+        "onboard_time": 1724299879,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521756,
+        "num": 521756,
+        "word": "王楚钦解释奥运单打出局原因",
+        "onboard_time": 1724296037,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 428380,
+        "num": 428380,
+        "word": "韩国拍了个没有男演员的剧",
+        "onboard_time": 1724299341,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 390992,
+        "num": 390992,
+        "word": "通关黑神话悟空可免费游花果山",
+        "onboard_time": 1724299220,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 376144,
+        "num": 376144,
+        "word": "歌手2024官宣下一战歌手",
+        "onboard_time": 1724306359,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338825,
+        "num": 338825,
+        "word": "河南7岁男童被男子用椅子砸进icu",
+        "onboard_time": 1724297421,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289980,
+        "num": 289980,
+        "word": "丁海寅你怎么变成吊在俊了",
+        "onboard_time": 1724299879,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 288632,
+        "num": 288632,
+        "word": "为什么沙丘猫会被世界禁养",
+        "onboard_time": 1724300541,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 24788,
+        "num": 288148,
+        "word": "媒体评电影失孤原型案",
+        "onboard_time": 1724306421,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 663807,
+        "num": 287548,
+        "word": "以后解散微信群知道怎么说了",
+        "onboard_time": 1724305280,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 546467,
+        "num": 286308,
+        "word": "印度奸杀案引发30万医护罢工抗议",
+        "onboard_time": 1724291358,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 303918,
+        "num": 285185,
+        "word": "打算婚前买房的女生避坑",
+        "onboard_time": 1724306118,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105647,
+        "num": 284679,
+        "word": "没感受过母爱却最懂母爱",
+        "onboard_time": 1724306839,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 283771,
+        "num": 283771,
+        "word": "西安和洛阳谁才是中国第一古都",
+        "onboard_time": 1724304080,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 274746,
+        "num": 274746,
+        "word": "嫦娥五号月壤研究又有新发现",
+        "onboard_time": 1724300301,
+        "rank": 25,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 248833,
+        "num": 248833,
+        "word": "倪萍自曝从楼梯摔下骨折",
+        "onboard_time": 1724299580,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239169,
+        "num": 239169,
+        "word": "印度16岁女孩乘公交遭司机等5人轮奸",
+        "onboard_time": 1724245641,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233701,
+        "num": 237571,
+        "word": "程潇电竞简历",
+        "onboard_time": 1724303061,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39767,
+        "num": 236101,
+        "word": "张若昀 禁欲系",
+        "onboard_time": 1724306541,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 236002,
+        "num": 236002,
+        "word": "妈妈帮游客与儿子拍成一家三口",
+        "onboard_time": 1724304980,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233944,
+        "num": 233944,
+        "word": "极越高管称雷军是最恶劣的商人本质",
+        "onboard_time": 1724304800,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 233416,
+        "num": 233416,
+        "word": "贾玲安藤樱嘉人九月刊封面",
+        "onboard_time": 1724301443,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 219818,
+        "num": 219818,
+        "word": "悟空被压了几百年都没有黑化",
+        "onboard_time": 1724297180,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 213950,
+        "num": 213950,
+        "word": "美国生育率15年间下降21%",
+        "onboard_time": 1724304440,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 212796,
+        "num": 212796,
+        "word": "官方通报退伍军人被冒名顶替26年",
+        "onboard_time": 1724302821,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208897,
+        "num": 208897,
+        "word": "雷军回应王腾在公司玩黑神话",
+        "onboard_time": 1724301800,
+        "rank": 36,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 206564,
+        "num": 206564,
+        "word": "咒术回战267话",
+        "onboard_time": 1724299520,
+        "rank": 37,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 202683,
+        "num": 202683,
+        "word": "黑神话连NPC蜘蛛精都火了",
+        "onboard_time": 1724307020,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196122,
+        "num": 196122,
+        "word": "警方提醒玩黑神话悟空需要注意的事项",
+        "onboard_time": 1724304560,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180706,
+        "num": 180706,
+        "word": "女子240万新房被陌生人抢先入住",
+        "onboard_time": 1724289620,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168651,
+        "num": 168651,
+        "word": "明明没有血缘关系也能长得像",
+        "onboard_time": 1724307979,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159785,
+        "num": 159785,
+        "word": "陶昕然能不能把甄嬛传剧本交出来",
+        "onboard_time": 1724307680,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159505,
+        "num": 159505,
+        "word": "生父女友虐待女童称此为猎杀时刻",
+        "onboard_time": 1724307859,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157946,
+        "num": 157946,
+        "word": "送crush黑神话悟空后表白失败了",
+        "onboard_time": 1724307859,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154288,
+        "num": 154288,
+        "word": "周也素颜逛街",
+        "onboard_time": 1724298559,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146124,
+        "num": 146124,
+        "word": "溺水后如何安全施救",
+        "onboard_time": 1724306839,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 138786,
+        "num": 138786,
+        "word": "四六级明天6点查分",
+        "onboard_time": 1724306599,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 137422,
+        "num": 137422,
+        "word": "近四分之一驻阿美军女兵遭性侵",
+        "onboard_time": 1724289199,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 136884,
+        "num": 136884,
+        "word": "边水往事怎么不宣发",
+        "onboard_time": 1724305040,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这样勉励奥运健儿#"
+    }
+  }
+}
