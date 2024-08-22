@@ -1,6 +1,6 @@
 {
   "startTime": 1724344132300,
-  "endTime": 1724348155770,
+  "endTime": 1724351245736,
   "band_list": [
     {
       "raw_hot": 1541133,
@@ -427,6 +427,30 @@
       "category": "演出"
     },
     {
+      "raw_hot": 59036,
+      "num": 226912,
+      "word": "假发公司月需高至10万顶年营收过亿",
+      "onboard_time": 1724347096,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55320,
+      "num": 55320,
+      "word": "游戏科学",
+      "onboard_time": 1724348534,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 49981,
+      "num": 49981,
+      "word": "薛之谦QQ号是六位数的",
+      "onboard_time": 1724349973,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 35464,
       "num": 74178,
       "word": "杭州第一座万达广场要卖了",
@@ -435,12 +459,12 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 28128,
-      "num": 226912,
-      "word": "假发公司月需高至10万顶年营收过亿",
-      "onboard_time": 1724347096,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 34759,
+      "num": 39399,
+      "word": "王一博探索新境要来了",
+      "onboard_time": 1724350693,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 12941,
@@ -449,6 +473,14 @@
       "onboard_time": 1724331861,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11137,
+      "num": 135323,
+      "word": "悟空带飞济南灵岩寺咨询量增3倍",
+      "onboard_time": 1724349674,
+      "rank": 9,
+      "category": "游戏,旅游"
     },
     {
       "raw_hot": 6028,

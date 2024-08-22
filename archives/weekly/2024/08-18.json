@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724348155770,
+  "endTime": 1724351245736,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -13675,6 +13675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59036,
+      "num": 226912,
+      "word": "假发公司月需高至10万顶年营收过亿",
+      "onboard_time": 1724347096,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58506,
       "num": 614150,
       "word": "中药食品真能养生吗",
@@ -13801,6 +13809,14 @@
       "onboard_time": 1724039780,
       "rank": 23,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 55320,
+      "num": 55320,
+      "word": "游戏科学",
+      "onboard_time": 1724348534,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 54916,
@@ -13937,6 +13953,14 @@
       "onboard_time": 1724294960,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49981,
+      "num": 49981,
+      "word": "薛之谦QQ号是六位数的",
+      "onboard_time": 1724349973,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 49896,
@@ -14411,6 +14435,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 34759,
+      "num": 39399,
+      "word": "王一博探索新境要来了",
+      "onboard_time": 1724350693,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 34574,
       "num": 34574,
       "word": "应届生身份是否该取消了",
@@ -14577,14 +14609,6 @@
       "onboard_time": 1724191453,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 28128,
-      "num": 226912,
-      "word": "假发公司月需高至10万顶年营收过亿",
-      "onboard_time": 1724347096,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27917,
@@ -14929,6 +14953,14 @@
       "onboard_time": 1724336122,
       "rank": 40,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 11137,
+      "num": 135323,
+      "word": "悟空带飞济南灵岩寺咨询量增3倍",
+      "onboard_time": 1724349674,
+      "rank": 9,
+      "category": "游戏,旅游"
     },
     {
       "raw_hot": 9526,
