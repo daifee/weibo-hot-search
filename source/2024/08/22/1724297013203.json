@@ -1,0 +1,410 @@
+{
+  "runTime": 1724297013203,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2371440,
+        "num": 2371440,
+        "word": "王楚钦解释奥运单打出局原因",
+        "onboard_time": 1724296037,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2133167,
+        "num": 2133167,
+        "word": "印度奸杀案引发30万医护罢工抗议",
+        "onboard_time": 1724291358,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 40188,
+        "num": 1707454,
+        "word": "法润彩云南",
+        "onboard_time": 1724294960,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1518489,
+        "num": 1518489,
+        "word": "女子240万新房被陌生人抢先入住",
+        "onboard_time": 1724289620,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1307669,
+        "num": 1307669,
+        "word": "乃万 乙游",
+        "onboard_time": 1724282897,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 713902,
+        "num": 713902,
+        "word": "马来女生正常行驶撞死8名飞车党被判无罪",
+        "onboard_time": 1724283919,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540931,
+        "num": 540931,
+        "word": "近四分之一驻阿美军女兵遭性侵",
+        "onboard_time": 1724289199,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 353670,
+        "num": 536484,
+        "word": "黄奕张晚意古装淋雨戏",
+        "onboard_time": 1724292139,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19930,
+        "num": 525731,
+        "word": "郑州官方称赋红码官员履新符合程序",
+        "onboard_time": 1724296999,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80277,
+        "num": 515779,
+        "word": "异地购房团48小时豪买27套",
+        "onboard_time": 1724295859,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548917,
+        "num": 506079,
+        "word": "印度16岁女孩乘公交遭司机等5人轮奸",
+        "onboard_time": 1724245641,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503854,
+        "num": 503854,
+        "word": "韩国快递员爬5层楼后暴力摔电脑",
+        "onboard_time": 1724283378,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84428,
+        "num": 500164,
+        "word": "藏不住了宝藏茶",
+        "onboard_time": 1724294598,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 497605,
+        "num": 497605,
+        "word": "纪念邓小平同志诞辰120周年",
+        "onboard_time": 1724284640,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 468781,
+        "num": 468781,
+        "word": "孙颖莎河北文旅代言人",
+        "onboard_time": 1724293999,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 405332,
+        "num": 405332,
+        "word": "菩提祖师才是悟空唯一的师父",
+        "onboard_time": 1724284758,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 377331,
+        "num": 377331,
+        "word": "食物语开门",
+        "onboard_time": 1724296999,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 258086,
+        "num": 363601,
+        "word": "战至巅峰3公开全员电竞简历",
+        "onboard_time": 1724294539,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237816,
+        "num": 363478,
+        "word": "沈腾有腹肌了",
+        "onboard_time": 1724254101,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 211295,
+        "num": 363443,
+        "word": "蒲熠星演我玩黑悟空",
+        "onboard_time": 1724288839,
+        "rank": 19,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 363433,
+        "num": 363433,
+        "word": "黑神话悟空取景地门票销量暴涨3倍",
+        "onboard_time": 1724281455,
+        "rank": 20,
+        "category": "旅游,游戏"
+      },
+      {
+        "raw_hot": 356840,
+        "num": 356840,
+        "word": "小米卖一辆车亏6万多",
+        "onboard_time": 1724282777,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1106267,
+        "num": 320043,
+        "word": "小伙爆改自己2年后父亲变儿子",
+        "onboard_time": 1724292859,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447961,
+        "num": 312774,
+        "word": "如果你长期睡眠不足七小时",
+        "onboard_time": 1724284338,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 276439,
+        "num": 276439,
+        "word": "酒吧偶遇许光汉",
+        "onboard_time": 1724296939,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264389,
+        "num": 264389,
+        "word": "要出伏了",
+        "onboard_time": 1724288239,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199628,
+        "num": 263146,
+        "word": "任嘉伦录嗨放派没有一秒犹豫",
+        "onboard_time": 1724296037,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185840,
+        "num": 256586,
+        "word": "王俊凯说别模仿我吃中药拌面",
+        "onboard_time": 1724284099,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144629,
+        "num": 253461,
+        "word": "刘晓庆 早期爱女第一人",
+        "onboard_time": 1724283857,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129796,
+        "num": 250602,
+        "word": "极挑男人帮在边水往事碰头",
+        "onboard_time": 1724296580,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247428,
+        "num": 247428,
+        "word": "咒术回战",
+        "onboard_time": 1724283078,
+        "rank": 30,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 239944,
+        "num": 239944,
+        "word": "7岁女孩用防晒喷雾后接近白肺",
+        "onboard_time": 1724250741,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228511,
+        "num": 228511,
+        "word": "开心消消乐",
+        "onboard_time": 1724295439,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 214825,
+        "num": 214825,
+        "word": "在小县城无痛上班的第十年",
+        "onboard_time": 1724292859,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213762,
+        "num": 213762,
+        "word": "被虐致死女童母亲失眠大把吃安眠药",
+        "onboard_time": 1724293818,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202211,
+        "num": 202211,
+        "word": "微博旅行家",
+        "onboard_time": 1724296398,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 193331,
+        "num": 193331,
+        "word": "你要的山西旅游路线要来了",
+        "onboard_time": 1724292678,
+        "rank": 36,
+        "category": "游戏,旅游"
+      },
+      {
+        "raw_hot": 184135,
+        "num": 184135,
+        "word": "雷军回应卖一辆车亏6万多",
+        "onboard_time": 1724287400,
+        "rank": 37,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 184001,
+        "num": 184001,
+        "word": "中药茶饮到底算不算药",
+        "onboard_time": 1724296880,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 176191,
+        "num": 176191,
+        "word": "2024已开启渐变色模式",
+        "onboard_time": 1724294659,
+        "rank": 39,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 151853,
+        "num": 151853,
+        "word": "上海5平米的loft长啥样",
+        "onboard_time": 1724290458,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143983,
+        "num": 143983,
+        "word": "美国允许服用兴奋剂运动员继续比赛",
+        "onboard_time": 1724295920,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143161,
+        "num": 143161,
+        "word": "给储户赋红码被处分女官员任新职",
+        "onboard_time": 1724251820,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140596,
+        "num": 140596,
+        "word": "失孤原型案受害者称呼富吉是人间恶魔",
+        "onboard_time": 1724292139,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139281,
+        "num": 139281,
+        "word": "为什么提离职也会紧张",
+        "onboard_time": 1724296519,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137869,
+        "num": 137869,
+        "word": "官方调查10岁女孩扁桃体微创手术死亡",
+        "onboard_time": 1724255239,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136723,
+        "num": 136723,
+        "word": "简爱已下架被指辣嗓子酸奶",
+        "onboard_time": 1724296939,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135893,
+        "num": 135893,
+        "word": "女儿毛衣洗缩水爸爸认真撑大",
+        "onboard_time": 1724251221,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134086,
+        "num": 134086,
+        "word": "老外头戴紧箍玩黑神话悟空",
+        "onboard_time": 1724296519,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126548,
+        "num": 126548,
+        "word": "被虐致死女童母亲痛哭请求严处两被告",
+        "onboard_time": 1724295618,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记始终高度重视民族工作#"
+    }
+  }
+}
