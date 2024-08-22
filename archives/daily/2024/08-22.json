@@ -1,12 +1,20 @@
 {
   "startTime": 1724257594927,
-  "endTime": 1724311236630,
+  "endTime": 1724312106654,
   "band_list": [
     {
       "raw_hot": 2963809,
       "num": 2963809,
       "word": "王楚钦解释奥运单打出局原因",
       "onboard_time": 1724296037,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2627891,
+      "num": 2627891,
+      "word": "全红婵 LV乌龟",
+      "onboard_time": 1724309659,
       "rank": 0,
       "category": "体育"
     },
@@ -25,14 +33,6 @@
       "onboard_time": 1724291358,
       "rank": 1,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 2179644,
-      "num": 2179644,
-      "word": "全红婵 LV乌龟",
-      "onboard_time": 1724309659,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 2150443,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1564543,
-      "num": 360514,
+      "num": 369660,
       "word": "以后解散微信群知道怎么说了",
       "onboard_time": 1724305280,
       "rank": 20,
@@ -259,12 +259,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 854189,
+      "num": 854189,
+      "word": "原来关晓彤是林黛玉最初人选",
+      "onboard_time": 1724310079,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 818572,
       "num": 818572,
       "word": "黑神话悟空取景地门票销量暴涨3倍",
       "onboard_time": 1724281455,
       "rank": 9,
       "category": "旅游,游戏"
+    },
+    {
+      "raw_hot": 785583,
+      "num": 633065,
+      "word": "中国女人普吉岛暴打老白男",
+      "onboard_time": 1724309240,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 773340,
@@ -315,14 +331,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 645624,
-      "num": 352702,
-      "word": "原来关晓彤是林黛玉最初人选",
-      "onboard_time": 1724310079,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 644810,
       "num": 644810,
       "word": "纪念邓小平同志诞辰120周年",
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 642909,
-      "num": 349333,
+      "num": 369509,
       "word": "打算婚前买房的女生避坑",
       "onboard_time": 1724306118,
       "rank": 22,
@@ -347,12 +355,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 570895,
+      "num": 570895,
+      "word": "老人急病离世藏了15万的床垫被扔了",
+      "onboard_time": 1724309360,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 568932,
       "num": 568932,
       "word": "酒吧偶遇许光汉",
       "onboard_time": 1724296939,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 547230,
+      "num": 547230,
+      "word": "生父女友虐待女童称此为猎杀时刻",
+      "onboard_time": 1724307859,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 543557,
@@ -395,20 +419,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 494043,
-      "num": 494043,
-      "word": "中国女人普吉岛暴打老白男",
-      "onboard_time": 1724309240,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 468781,
       "num": 468781,
       "word": "孙颖莎河北文旅代言人",
       "onboard_time": 1724293999,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 445667,
+      "num": 445667,
+      "word": "刘端端差点登上北京奥运开幕式",
+      "onboard_time": 1724309960,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 440643,
@@ -491,6 +515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 369236,
+      "num": 369236,
+      "word": "赵露思生图",
+      "onboard_time": 1724311160,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 367594,
       "num": 645095,
       "word": "刘晓庆 早期爱女第一人",
@@ -563,14 +595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 343115,
-      "num": 343115,
-      "word": "老人急病离世藏了15万的床垫被扔了",
-      "onboard_time": 1724309360,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 331109,
       "num": 331109,
       "word": "房东嫌我问题太多不想租给我了",
@@ -619,6 +643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 290127,
+      "num": 290127,
+      "word": "东部战区回应美导弹驱逐舰过台湾海峡",
+      "onboard_time": 1724310141,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 288375,
       "num": 288375,
       "word": "西安和洛阳谁才是中国第一古都",
@@ -643,28 +675,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 276449,
-      "num": 276449,
-      "word": "生父女友虐待女童称此为猎杀时刻",
-      "onboard_time": 1724307859,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 275473,
       "num": 275473,
       "word": "河北姑娘孙颖莎回家",
       "onboard_time": 1724250381,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 271228,
-      "num": 271228,
-      "word": "刘端端差点登上北京奥运开幕式",
-      "onboard_time": 1724309960,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 268402,
@@ -771,19 +787,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 241019,
-      "num": 241019,
-      "word": "东部战区回应美导弹驱逐舰过台湾海峡",
-      "onboard_time": 1724310141,
-      "rank": 31,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 236070,
       "num": 236070,
       "word": "简爱已下架被指辣嗓子酸奶",
       "onboard_time": 1724296939,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232651,
+      "num": 667976,
+      "word": "被虐死女童生父情人称把孩子当亲生的",
+      "onboard_time": 1724306421,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -801,6 +817,14 @@
       "onboard_time": 1724304440,
       "rank": 49,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 230369,
+      "num": 483248,
+      "word": "印度最高法介入医院奸杀案",
+      "onboard_time": 1724307259,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229682,
@@ -851,14 +875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223656,
-      "num": 667976,
-      "word": "被虐死女童生父情人称把孩子当亲生的",
-      "onboard_time": 1724306421,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 221719,
       "num": 221719,
       "word": "云冈石窟回应检票员辱骂游客",
@@ -881,6 +897,14 @@
       "onboard_time": 1724303780,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 213998,
+      "num": 213998,
+      "word": "明明没有血缘关系也能长得像",
+      "onboard_time": 1724307979,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213762,
@@ -1091,6 +1115,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 185556,
+      "num": 185556,
+      "word": "WBG战胜DOU5",
+      "onboard_time": 1724311762,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 185103,
       "num": 198254,
       "word": "刺猬 哪吒自刎",
@@ -1155,14 +1187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178137,
-      "num": 178137,
-      "word": "明明没有血缘关系也能长得像",
-      "onboard_time": 1724307979,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177802,
       "num": 177802,
       "word": "失孤原型案受害者称呼富吉是人间恶魔",
@@ -1219,6 +1243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169290,
+      "num": 169290,
+      "word": "郑恺从奔跑吧无缝转场嗨放派",
+      "onboard_time": 1724311940,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167608,
       "num": 167608,
       "word": "2岁女童失踪8天家属悬赏20万寻人",
@@ -1243,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166567,
+      "num": 479676,
+      "word": "网友称360儿童手表的智能回答毁三观",
+      "onboard_time": 1724310020,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165576,
       "num": 235285,
       "word": "成毅萧秋水斗笠造型",
@@ -1251,12 +1291,28 @@
       "category": "作品衍生,综艺"
     },
     {
+      "raw_hot": 164103,
+      "num": 164103,
+      "word": "Gen1ES女团味太冲了",
+      "onboard_time": 1724311281,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 163819,
       "num": 330837,
       "word": "愿轻风带走烦恼",
       "onboard_time": 1724286920,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161123,
+      "num": 161123,
+      "word": "柳舟记下饭剧变上头剧",
+      "onboard_time": 1724311580,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 160980,
@@ -1299,6 +1355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154460,
+      "num": 154460,
+      "word": "我和四六级",
+      "onboard_time": 1724311701,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 154329,
       "num": 154329,
       "word": "黑神话悟空 焦恩俊mod",
@@ -1321,6 +1385,14 @@
       "onboard_time": 1724308100,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 153404,
+      "num": 153404,
+      "word": "拉黑臭车",
+      "onboard_time": 1724310799,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 153041,
@@ -1347,20 +1419,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151046,
+      "num": 151046,
+      "word": "黑神话悟空 手残党",
+      "onboard_time": 1724311040,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 150359,
       "num": 150359,
       "word": "魔兽世界原负责人怒斥黑神话被压分",
       "onboard_time": 1724249481,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 149563,
-      "num": 149563,
-      "word": "赵露思生图",
-      "onboard_time": 1724311160,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 148876,
@@ -1443,14 +1515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 143100,
-      "num": 143100,
-      "word": "黑神话悟空 手残党",
-      "onboard_time": 1724311040,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 142586,
       "num": 142586,
       "word": "广发行业严选基金3年亏掉近90亿",
@@ -1507,14 +1571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130138,
-      "num": 483248,
-      "word": "印度最高法介入医院奸杀案",
-      "onboard_time": 1724307259,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129788,
       "num": 129788,
       "word": "瑶典藏皮肤",
@@ -1536,6 +1592,14 @@
       "word": "被虐致死女童母亲痛哭请求严处两被告",
       "onboard_time": 1724295618,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125921,
+      "num": 635264,
+      "word": "HPV疫苗开启价格战",
+      "onboard_time": 1724310679,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1731,14 +1795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 93874,
-      "num": 479676,
-      "word": "网友称360儿童手表的智能回答毁三观",
-      "onboard_time": 1724310020,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92297,
       "num": 92297,
       "word": "山西2岁失踪女童家属发声",
@@ -1843,20 +1899,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61260,
+      "num": 369420,
+      "word": "华为阿维塔发布百万级高定车012",
+      "onboard_time": 1724310980,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 60731,
       "num": 438026,
       "word": "郭刚堂之子被拐案时间线",
       "onboard_time": 1724289620,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 60031,
-      "num": 142818,
-      "word": "华为阿维塔发布百万级高定车012",
-      "onboard_time": 1724310980,
-      "rank": 47,
-      "category": "汽车"
     },
     {
       "raw_hot": 59741,
@@ -1881,14 +1937,6 @@
       "onboard_time": 1724259557,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 56279,
-      "num": 559267,
-      "word": "HPV疫苗开启价格战",
-      "onboard_time": 1724310679,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 54248,
@@ -1928,6 +1976,14 @@
       "word": "离婚不离家的夫妻们该如何生活",
       "onboard_time": 1724308521,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42547,
+      "num": 369847,
+      "word": "抢购玉石红酒高价卖出实为新型传销",
+      "onboard_time": 1724311880,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
