@@ -1,0 +1,410 @@
+{
+  "runTime": 1724305000267,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1935311,
+        "num": 1935311,
+        "word": "男子称献血8次被告知不能优先用血",
+        "onboard_time": 1724298680,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1357351,
+        "num": 1357351,
+        "word": "乃万 乙游",
+        "onboard_time": 1724282897,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9259,
+        "num": 1220640,
+        "word": "法润彩云南",
+        "onboard_time": 1724294960,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1125650,
+        "num": 1125650,
+        "word": "雷军谈黑神话悟空",
+        "onboard_time": 1724301743,
+        "rank": 3,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 1057994,
+        "num": 1057994,
+        "word": "披哥没播一半哥哥已沦陷一半",
+        "onboard_time": 1724301200,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 908200,
+        "num": 908200,
+        "word": "通关黑神话悟空可免费游花果山",
+        "onboard_time": 1724299220,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 902416,
+        "num": 902416,
+        "word": "印度女医生",
+        "onboard_time": 1724299879,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 719502,
+        "num": 719502,
+        "word": "韩国拍了个没有男演员的剧",
+        "onboard_time": 1724299341,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 563259,
+        "num": 563259,
+        "word": "河南7岁男童被男子用椅子砸进icu",
+        "onboard_time": 1724297421,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23201,
+        "num": 562315,
+        "word": "当中年人成为实习律师",
+        "onboard_time": 1724304740,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1116014,
+        "num": 560366,
+        "word": "王楚钦解释奥运单打出局原因",
+        "onboard_time": 1724296037,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 773340,
+        "num": 557307,
+        "word": "张颖颖 一生靠妈又骂妈的老大儿",
+        "onboard_time": 1724302102,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 587486,
+        "num": 554586,
+        "word": "女子240万新房被陌生人抢先入住",
+        "onboard_time": 1724289620,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41435,
+        "num": 551724,
+        "word": "魏牌全新蓝山标配即顶配",
+        "onboard_time": 1724300420,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 550140,
+        "num": 550140,
+        "word": "悟空被压了几百年都没有黑化",
+        "onboard_time": 1724297180,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 480599,
+        "num": 480599,
+        "word": "黑神话第一批受害者出现了",
+        "onboard_time": 1724301621,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 464399,
+        "num": 464399,
+        "word": "倪萍自曝从楼梯摔下骨折",
+        "onboard_time": 1724299580,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422495,
+        "num": 422495,
+        "word": "丁海寅你怎么变成吊在俊了",
+        "onboard_time": 1724299879,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 437077,
+        "num": 406365,
+        "word": "印度16岁女孩乘公交遭司机等5人轮奸",
+        "onboard_time": 1724245641,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96941,
+        "num": 372400,
+        "word": "刺猬路演",
+        "onboard_time": 1724303780,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1124434,
+        "num": 368528,
+        "word": "印度奸杀案引发30万医护罢工抗议",
+        "onboard_time": 1724291358,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 360206,
+        "num": 360206,
+        "word": "雷军回应王腾在公司玩黑神话",
+        "onboard_time": 1724301800,
+        "rank": 21,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 348113,
+        "num": 348113,
+        "word": "为什么沙丘猫会被世界禁养",
+        "onboard_time": 1724300541,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 343672,
+        "num": 343672,
+        "word": "贾玲安藤樱嘉人九月刊封面",
+        "onboard_time": 1724301443,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 322923,
+        "num": 322923,
+        "word": "黑悟空",
+        "onboard_time": 1724303900,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 320540,
+        "num": 320540,
+        "word": "纪念邓小平同志诞辰120周年",
+        "onboard_time": 1724284640,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 254362,
+        "num": 254362,
+        "word": "嫦娥五号月壤研究又有新发现",
+        "onboard_time": 1724300301,
+        "rank": 26,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 253588,
+        "num": 253588,
+        "word": "极越高管称雷军是最恶劣的商人本质",
+        "onboard_time": 1724304800,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 252945,
+        "num": 252945,
+        "word": "酒吧偶遇许光汉",
+        "onboard_time": 1724296939,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237980,
+        "num": 248879,
+        "word": "周也素颜逛街",
+        "onboard_time": 1724298559,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245427,
+        "num": 245427,
+        "word": "咒术回战267话",
+        "onboard_time": 1724299520,
+        "rank": 30,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 242439,
+        "num": 242439,
+        "word": "近四分之一驻阿美军女兵遭性侵",
+        "onboard_time": 1724289199,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 236903,
+        "num": 236903,
+        "word": "程潇电竞简历",
+        "onboard_time": 1724303061,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219691,
+        "num": 219691,
+        "word": "张颖颖 没一句实话的老破狗",
+        "onboard_time": 1724302761,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217231,
+        "num": 217231,
+        "word": "阿莫西林只对这5种病有效",
+        "onboard_time": 1724298860,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 216063,
+        "num": 216063,
+        "word": "李一桐的包包是个哑铃",
+        "onboard_time": 1724303780,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 112193,
+        "num": 206892,
+        "word": "中药茶饮到底算不算药",
+        "onboard_time": 1724296880,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199718,
+        "num": 199718,
+        "word": "112名学生抽签入住77张床位",
+        "onboard_time": 1724301021,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109840,
+        "num": 191219,
+        "word": "回乡祭祖发现祖坟被挖下落不明",
+        "onboard_time": 1724302880,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190027,
+        "num": 190027,
+        "word": "官方通报退伍军人被冒名顶替26年",
+        "onboard_time": 1724302821,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188025,
+        "num": 188025,
+        "word": "如果你长期睡眠不足七小时",
+        "onboard_time": 1724284338,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 183288,
+        "num": 183288,
+        "word": "周深收到折耳根花束就吃上了",
+        "onboard_time": 1724301261,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182769,
+        "num": 182769,
+        "word": "西安和洛阳谁才是中国第一古都",
+        "onboard_time": 1724304080,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 169489,
+        "num": 169489,
+        "word": "刺猬 哪吒自刎",
+        "onboard_time": 1724302521,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168188,
+        "num": 168188,
+        "word": "马来女生正常行驶撞死8名飞车党被判无罪",
+        "onboard_time": 1724283919,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160923,
+        "num": 160923,
+        "word": "梦之队团综先导片上线",
+        "onboard_time": 1724304920,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158308,
+        "num": 158308,
+        "word": "警方提醒玩黑神话悟空需要注意的事项",
+        "onboard_time": 1724304560,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148808,
+        "num": 148808,
+        "word": "黑神话爆火中国文化强势出圈",
+        "onboard_time": 1724301501,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145315,
+        "num": 145315,
+        "word": "妈妈帮游客与儿子拍成一家三口",
+        "onboard_time": 1724304980,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144647,
+        "num": 144647,
+        "word": "美国生育率15年间下降21%",
+        "onboard_time": 1724304440,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记始终高度重视民族工作#"
+    }
+  }
+}
