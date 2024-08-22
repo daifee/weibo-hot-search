@@ -1,6 +1,6 @@
 {
   "startTime": 1724257594927,
-  "endTime": 1724330311580,
+  "endTime": 1724331245037,
   "band_list": [
     {
       "raw_hot": 3281746,
@@ -153,6 +153,14 @@
       "onboard_time": 1724321780,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1428644,
+      "num": 1428644,
+      "word": "周迅 50岁正是迷死人的年纪",
+      "onboard_time": 1724328920,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1403238,
@@ -339,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 896332,
+      "num": 714389,
+      "word": "印度",
+      "onboard_time": 1724322620,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 873278,
       "num": 1081960,
       "word": "韩国拍了个没有男演员的剧",
@@ -363,14 +379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 863992,
-      "num": 714389,
-      "word": "印度",
-      "onboard_time": 1724322620,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 863315,
       "num": 435254,
       "word": "如果你长期睡眠不足七小时",
@@ -385,6 +393,14 @@
       "onboard_time": 1724257517,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 822496,
+      "num": 822496,
+      "word": "特朗普在防弹玻璃后讲话",
+      "onboard_time": 1724327180,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 818572,
@@ -507,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 610450,
+      "num": 610450,
+      "word": "印度女性称其身边几乎都有遭性侵案例",
+      "onboard_time": 1724325860,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 601033,
       "num": 923404,
       "word": "河南7岁男童被男子用椅子砸进icu",
@@ -529,6 +553,14 @@
       "onboard_time": 1724296939,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 555647,
+      "num": 555647,
+      "word": "黛玉之死 马拉之死 好死不死",
+      "onboard_time": 1724328980,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 547230,
@@ -563,14 +595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 526055,
-      "num": 526055,
-      "word": "周迅 50岁正是迷死人的年纪",
-      "onboard_time": 1724328920,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 516334,
       "num": 516334,
       "word": "歌手2024官宣下一战歌手",
@@ -592,6 +616,14 @@
       "word": "倪萍自曝从楼梯摔下骨折",
       "onboard_time": 1724299580,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 496368,
+      "num": 496368,
+      "word": "肖战手拿羽毛",
+      "onboard_time": 1724328561,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -617,14 +649,6 @@
       "onboard_time": 1724293999,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 455871,
-      "num": 455871,
-      "word": "肖战手拿羽毛",
-      "onboard_time": 1724328561,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 445667,
@@ -683,14 +707,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 415565,
-      "num": 415565,
-      "word": "特朗普在防弹玻璃后讲话",
-      "onboard_time": 1724327180,
-      "rank": 13,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 414935,
       "num": 414935,
       "word": "乘客错过高铁退票被拒后起诉",
@@ -705,22 +721,6 @@
       "onboard_time": 1724320161,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 406066,
-      "num": 406066,
-      "word": "黛玉之死 马拉之死 好死不死",
-      "onboard_time": 1724328980,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 403088,
-      "num": 403088,
-      "word": "印度女性称其身边几乎都有遭性侵案例",
-      "onboard_time": 1724325860,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 396918,
@@ -793,6 +793,14 @@
       "onboard_time": 1724238380,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 360600,
+      "num": 360600,
+      "word": "肖战直播",
+      "onboard_time": 1724329460,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 358131,
@@ -907,6 +915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 318511,
+      "num": 318511,
+      "word": "失踪女童父亲称有水的地方抽干也没找到",
+      "onboard_time": 1724327780,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317403,
       "num": 317403,
       "word": "12306回应男子把卧铺让给妹妹被拒",
@@ -929,6 +945,14 @@
       "onboard_time": 1724292859,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 294487,
+      "num": 294487,
+      "word": "王昶对黄雅琼略略略略",
+      "onboard_time": 1724329580,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 290127,
@@ -1019,20 +1043,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 269080,
+      "num": 269080,
+      "word": "在黎巴嫩中国公民尽快回国或离境",
+      "onboard_time": 1724328320,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 268402,
       "num": 268402,
       "word": "雷军回应卖一辆车亏6万多",
       "onboard_time": 1724287400,
       "rank": 33,
       "category": "汽车,互联网"
-    },
-    {
-      "raw_hot": 267724,
-      "num": 267724,
-      "word": "在黎巴嫩中国公民尽快回国或离境",
-      "onboard_time": 1724328320,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 265144,
@@ -1177,14 +1201,6 @@
       "onboard_time": 1724319860,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 233981,
-      "num": 233981,
-      "word": "肖战直播",
-      "onboard_time": 1724329460,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 232651,
@@ -1369,14 +1385,6 @@
       "onboard_time": 1724292859,
       "rank": 31,
       "category": "美食"
-    },
-    {
-      "raw_hot": 209779,
-      "num": 209779,
-      "word": "失踪女童父亲称有水的地方抽干也没找到",
-      "onboard_time": 1724327780,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209510,
@@ -1611,6 +1619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191064,
+      "num": 191064,
+      "word": "潘展乐作为代表发言",
+      "onboard_time": 1724329460,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191024,
       "num": 191024,
       "word": "拼积木成大学生暑期火热副业",
@@ -1739,12 +1755,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 182434,
-      "num": 182434,
-      "word": "王昶对黄雅琼略略略略",
-      "onboard_time": 1724329580,
-      "rank": 45,
-      "category": "体育"
+      "raw_hot": 182199,
+      "num": 182199,
+      "word": "老人藏4万6现金被儿子顺手扔掉",
+      "onboard_time": 1724330061,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181773,
@@ -1803,14 +1819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178478,
-      "num": 178478,
-      "word": "老人藏4万6现金被儿子顺手扔掉",
-      "onboard_time": 1724330061,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177868,
       "num": 412491,
       "word": "汝州事业编被清退人员工资已结算",
@@ -1851,6 +1859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174182,
+      "num": 174182,
+      "word": "柳舟记太子身世曝光",
+      "onboard_time": 1724331080,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172791,
       "num": 172791,
       "word": "处暑亦为出暑",
@@ -1865,14 +1881,6 @@
       "onboard_time": 1724323581,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 171614,
-      "num": 171614,
-      "word": "潘展乐作为代表发言",
-      "onboard_time": 1724329460,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 171334,
@@ -1915,6 +1923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167358,
+      "num": 167358,
+      "word": "长乐曲",
+      "onboard_time": 1724330901,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167218,
       "num": 167218,
       "word": "潘展乐46秒40有第一次就能做到第二次",
@@ -1936,6 +1952,14 @@
       "word": "异地购房团48小时豪买27套",
       "onboard_time": 1724295859,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166135,
+      "num": 166135,
+      "word": "卫生巾过期再售卖严重威胁女性健康",
+      "onboard_time": 1724328021,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -2699,6 +2723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49635,
+      "num": 318653,
+      "word": "1.2万元的黑神话悟空联名电脑秒售罄",
+      "onboard_time": 1724329281,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 47730,
       "num": 60139,
       "word": "男子救3童牺牲家乡给予百万慰问金",
@@ -2707,7 +2739,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47368,
+      "raw_hot": 47698,
       "num": 406538,
       "word": "雷军认为小鹏MONA很OK",
       "onboard_time": 1724328200,
@@ -2801,14 +2833,6 @@
       "onboard_time": 1724247620,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 32077,
-      "num": 288369,
-      "word": "1.2万元的黑神话悟空联名电脑秒售罄",
-      "onboard_time": 1724329281,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 31831,
@@ -2937,6 +2961,14 @@
       "onboard_time": 1724269451,
       "rank": 25,
       "category": "旅游,游戏"
+    },
+    {
+      "raw_hot": 8850,
+      "num": 1309589,
+      "word": "新学期计划清单壁纸",
+      "onboard_time": 1724306178,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
