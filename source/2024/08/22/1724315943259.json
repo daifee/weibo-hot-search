@@ -1,0 +1,410 @@
+{
+  "runTime": 1724315943259,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1689101,
+        "num": 1689101,
+        "word": "老人急病离世藏了15万的床垫被扔了",
+        "onboard_time": 1724309360,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1231131,
+        "num": 1231131,
+        "word": "斐 家危速归",
+        "onboard_time": 1724313740,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172306,
+        "num": 1182649,
+        "word": "嫦娥五号月壤研究又有新发现",
+        "onboard_time": 1724300301,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1139767,
+        "num": 1139767,
+        "word": "全红婵给妈妈买手机",
+        "onboard_time": 1724308580,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1084461,
+        "num": 1084461,
+        "word": "原来关晓彤是林黛玉最初人选",
+        "onboard_time": 1724310079,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1037005,
+        "num": 1037005,
+        "word": "加沙14岁遇难男孩一生什么都没见过",
+        "onboard_time": 1724313680,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 713076,
+        "num": 713076,
+        "word": "曾志伟出任三只羊香港分公司负责人",
+        "onboard_time": 1724312900,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 658043,
+        "num": 658043,
+        "word": "HPV疫苗开启价格战",
+        "onboard_time": 1724310679,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 651549,
+        "num": 651549,
+        "word": "黑神话第一批受害者出现了",
+        "onboard_time": 1724301621,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 312756,
+        "num": 651172,
+        "word": "咱们中国开始考虑月球基建了",
+        "onboard_time": 1724309000,
+        "rank": 9,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 1777331,
+        "num": 649272,
+        "word": "全红婵 LV乌龟",
+        "onboard_time": 1724309659,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 957066,
+        "num": 648250,
+        "word": "乃万自证",
+        "onboard_time": 1724305580,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 669348,
+        "num": 647240,
+        "word": "中国女人普吉岛暴打老白男",
+        "onboard_time": 1724309240,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 646645,
+        "num": 646645,
+        "word": "女生称合租男室友多次偷进自己房间",
+        "onboard_time": 1724305160,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27881,
+        "num": 640206,
+        "word": "多地乱摊派乱收费行为被曝光",
+        "onboard_time": 1724314760,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 636572,
+        "num": 636572,
+        "word": "赵露思生图",
+        "onboard_time": 1724311160,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 482738,
+        "num": 482738,
+        "word": "印度女医生",
+        "onboard_time": 1724299879,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436805,
+        "num": 436805,
+        "word": "男子称献血8次被告知不能优先用血",
+        "onboard_time": 1724298680,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341650,
+        "num": 431333,
+        "word": "郑恺从奔跑吧无缝转场嗨放派",
+        "onboard_time": 1724311940,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309743,
+        "num": 425921,
+        "word": "刘端端差点登上北京奥运开幕式",
+        "onboard_time": 1724309960,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79763,
+        "num": 410106,
+        "word": "华为阿维塔发布百万级高定车012",
+        "onboard_time": 1724310980,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1671991,
+        "num": 398654,
+        "word": "被微信状态背刺了",
+        "onboard_time": 1724313081,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 593273,
+        "num": 386436,
+        "word": "以后解散微信群知道怎么说了",
+        "onboard_time": 1724305280,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 499187,
+        "num": 374699,
+        "word": "乃万 乙游",
+        "onboard_time": 1724282897,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373309,
+        "num": 373309,
+        "word": "打算婚前买房的女生避坑",
+        "onboard_time": 1724306118,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 344181,
+        "num": 344181,
+        "word": "李隼说王楚钦很有责任感",
+        "onboard_time": 1724313081,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289078,
+        "num": 289078,
+        "word": "网友称360儿童手表的智能回答毁三观",
+        "onboard_time": 1724310020,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280421,
+        "num": 280421,
+        "word": "薛之谦 最后一次送别",
+        "onboard_time": 1724312301,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 212950,
+        "num": 265014,
+        "word": "披哥没播一半哥哥已沦陷一半",
+        "onboard_time": 1724301200,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25462,
+        "num": 259953,
+        "word": "特朗普称非农数据下调是大规模丑闻",
+        "onboard_time": 1724315840,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 255391,
+        "num": 255391,
+        "word": "黑神话创始人回应有玩家发现bug",
+        "onboard_time": 1724314161,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 245153,
+        "num": 245153,
+        "word": "张颖颖 一生靠妈又骂妈的老大儿",
+        "onboard_time": 1724302102,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3865,
+        "num": 233913,
+        "word": "法润彩云南",
+        "onboard_time": 1724294960,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230460,
+        "num": 230460,
+        "word": "黑神话",
+        "onboard_time": 1724315421,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 220141,
+        "num": 220141,
+        "word": "一公斤真头发卖上万元媲美黄金",
+        "onboard_time": 1724315421,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215941,
+        "num": 215941,
+        "word": "孙颖莎连轴转",
+        "onboard_time": 1724314161,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194691,
+        "num": 194691,
+        "word": "不怪樊振东嘴角逐渐向下",
+        "onboard_time": 1724305219,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192225,
+        "num": 192225,
+        "word": "孙杨复出前训练画面曝光",
+        "onboard_time": 1724313922,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189135,
+        "num": 189135,
+        "word": "印度奸杀案引发30万医护罢工抗议",
+        "onboard_time": 1724291358,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 186946,
+        "num": 186946,
+        "word": "东部战区回应美导弹驱逐舰过台湾海峡",
+        "onboard_time": 1724310141,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 179084,
+        "num": 179084,
+        "word": "通关黑神话悟空可免费游花果山",
+        "onboard_time": 1724299220,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174085,
+        "num": 174085,
+        "word": "歌手2024官宣下一战歌手",
+        "onboard_time": 1724306359,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163024,
+        "num": 163024,
+        "word": "雷军谈黑神话悟空",
+        "onboard_time": 1724301743,
+        "rank": 42,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 161755,
+        "num": 161755,
+        "word": "在电影院玩黑神话是什么体验",
+        "onboard_time": 1724315840,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155453,
+        "num": 155453,
+        "word": "王一博纪录片",
+        "onboard_time": 1724315779,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155346,
+        "num": 155346,
+        "word": "黑神话悟空 手残党",
+        "onboard_time": 1724311040,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150650,
+        "num": 150650,
+        "word": "四六级",
+        "onboard_time": 1724314040,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 139064,
+        "num": 139064,
+        "word": "男子榨干母亲200万积蓄后又诈骗千万",
+        "onboard_time": 1724315899,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131605,
+        "num": 131605,
+        "word": "被虐死女童生父情人称把孩子当亲生的",
+        "onboard_time": 1724306421,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130768,
+        "num": 130768,
+        "word": "山西文旅",
+        "onboard_time": 1724315540,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记接见奥运健儿时说了啥#"
+    }
+  }
+}
