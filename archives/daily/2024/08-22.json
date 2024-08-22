@@ -1,6 +1,6 @@
 {
   "startTime": 1724257594927,
-  "endTime": 1724326591839,
+  "endTime": 1724330311580,
   "band_list": [
     {
       "raw_hot": 3281746,
@@ -139,8 +139,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1442279,
-      "num": 1442279,
+      "raw_hot": 1554404,
+      "num": 1554404,
       "word": "小孩骑行被碾压身亡肇事司机移送检方",
       "onboard_time": 1724324840,
       "rank": 3,
@@ -169,6 +169,14 @@
       "onboard_time": 1724313680,
       "rank": 16,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1369361,
+      "num": 1369361,
+      "word": "孙颖莎龙道一等被记大功",
+      "onboard_time": 1724325620,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 1309525,
@@ -299,6 +307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1009946,
+      "num": 1009946,
+      "word": "乃万",
+      "onboard_time": 1724326099,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1009534,
       "num": 1009534,
       "word": "官方调查10岁女孩扁桃体微创手术死亡",
@@ -344,6 +360,14 @@
       "word": "给储户赋红码被处分女官员任新职",
       "onboard_time": 1724251820,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 863992,
+      "num": 714389,
+      "word": "印度",
+      "onboard_time": 1724322620,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -409,14 +433,6 @@
       "onboard_time": 1724312900,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 714389,
-      "num": 714389,
-      "word": "印度",
-      "onboard_time": 1724322620,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 704765,
@@ -499,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 582456,
+      "num": 582456,
+      "word": "检察院回应小孩骑行被碾压身亡",
+      "onboard_time": 1724324840,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 568932,
       "num": 568932,
       "word": "酒吧偶遇许光汉",
@@ -531,20 +555,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 538629,
-      "num": 538629,
-      "word": "孙颖莎龙道一等被记大功",
-      "onboard_time": 1724325620,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 531293,
       "num": 531293,
       "word": "为老母1万6转院费三个儿子吵翻",
       "onboard_time": 1724250263,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 526055,
+      "num": 526055,
+      "word": "周迅 50岁正是迷死人的年纪",
+      "onboard_time": 1724328920,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 516334,
@@ -593,6 +617,14 @@
       "onboard_time": 1724293999,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 455871,
+      "num": 455871,
+      "word": "肖战手拿羽毛",
+      "onboard_time": 1724328561,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 445667,
@@ -651,6 +683,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 415565,
+      "num": 415565,
+      "word": "特朗普在防弹玻璃后讲话",
+      "onboard_time": 1724327180,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 414935,
       "num": 414935,
       "word": "乘客错过高铁退票被拒后起诉",
@@ -665,6 +705,22 @@
       "onboard_time": 1724320161,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 406066,
+      "num": 406066,
+      "word": "黛玉之死 马拉之死 好死不死",
+      "onboard_time": 1724328980,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 403088,
+      "num": 403088,
+      "word": "印度女性称其身边几乎都有遭性侵案例",
+      "onboard_time": 1724325860,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 396918,
@@ -707,14 +763,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 379711,
-      "num": 379711,
-      "word": "乃万",
-      "onboard_time": 1724326099,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 367594,
       "num": 645095,
       "word": "刘晓庆 早期爱女第一人",
@@ -745,14 +793,6 @@
       "onboard_time": 1724238380,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 362930,
-      "num": 362930,
-      "word": "检察院回应小孩骑行被碾压身亡",
-      "onboard_time": 1724324840,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 358131,
@@ -971,12 +1011,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 272336,
+      "num": 272336,
+      "word": "三岁道歉",
+      "onboard_time": 1724325379,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 268402,
       "num": 268402,
       "word": "雷军回应卖一辆车亏6万多",
       "onboard_time": 1724287400,
       "rank": 33,
       "category": "汽车,互联网"
+    },
+    {
+      "raw_hot": 267724,
+      "num": 267724,
+      "word": "在黎巴嫩中国公民尽快回国或离境",
+      "onboard_time": 1724328320,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 265144,
@@ -1083,14 +1139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 244993,
-      "num": 244993,
-      "word": "三岁道歉",
-      "onboard_time": 1724325379,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 243780,
       "num": 243780,
       "word": "女儿毛衣洗缩水爸爸认真撑大",
@@ -1129,6 +1177,14 @@
       "onboard_time": 1724319860,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 233981,
+      "num": 233981,
+      "word": "肖战直播",
+      "onboard_time": 1724329460,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 232651,
@@ -1315,6 +1371,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 209779,
+      "num": 209779,
+      "word": "失踪女童父亲称有水的地方抽干也没找到",
+      "onboard_time": 1724327780,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209510,
       "num": 485726,
       "word": "你要的山西旅游路线要来了",
@@ -1339,6 +1403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 206800,
+      "num": 202469,
+      "word": "肖战 欧莱雅",
+      "onboard_time": 1724329219,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206700,
       "num": 206700,
       "word": "虞书欣白色老花防风衣",
@@ -1353,6 +1425,14 @@
       "onboard_time": 1724296519,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 206016,
+      "num": 206016,
+      "word": "邓紫棋鸟巢演唱会",
+      "onboard_time": 1724326821,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 205353,
@@ -1427,6 +1507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 202541,
+      "num": 202541,
+      "word": "王楚钦到庆阳了",
+      "onboard_time": 1724329880,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202211,
       "num": 202211,
       "word": "微博旅行家",
@@ -1483,12 +1571,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193980,
+      "num": 193980,
+      "word": "阳光少年王楚钦",
+      "onboard_time": 1724328320,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192721,
       "num": 440036,
       "word": "张艺兴新歌MV里的中国元素",
       "onboard_time": 1724297240,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 192369,
+      "num": 192369,
+      "word": "黑诊所在公寓给女子做试管婴儿手术",
+      "onboard_time": 1724328021,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192227,
@@ -1555,12 +1659,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 186433,
+      "num": 186433,
+      "word": "张绍刚说如果种地吧明年还做",
+      "onboard_time": 1724329580,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186013,
       "num": 186013,
       "word": "爱尔兰运动员铜牌生锈变色被收回",
       "onboard_time": 1724297541,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185668,
+      "num": 185668,
+      "word": "MRC对战成都GG",
+      "onboard_time": 1724329162,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 185567,
@@ -1595,14 +1715,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 184232,
-      "num": 184232,
-      "word": "印度女性称其身边几乎都有遭性侵案例",
-      "onboard_time": 1724325860,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184001,
       "num": 857992,
       "word": "中药茶饮到底算不算药",
@@ -1625,6 +1737,14 @@
       "onboard_time": 1724324481,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 182434,
+      "num": 182434,
+      "word": "王昶对黄雅琼略略略略",
+      "onboard_time": 1724329580,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 181773,
@@ -1683,6 +1803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178478,
+      "num": 178478,
+      "word": "老人藏4万6现金被儿子顺手扔掉",
+      "onboard_time": 1724330061,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177868,
       "num": 412491,
       "word": "汝州事业编被清退人员工资已结算",
@@ -1737,6 +1865,14 @@
       "onboard_time": 1724323581,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171614,
+      "num": 171614,
+      "word": "潘展乐作为代表发言",
+      "onboard_time": 1724329460,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 171334,
@@ -2571,6 +2707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47368,
+      "num": 406538,
+      "word": "雷军认为小鹏MONA很OK",
+      "onboard_time": 1724328200,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 46474,
       "num": 599463,
       "word": "魏牌全新蓝山标配即顶配",
@@ -2627,6 +2771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38398,
+      "num": 406553,
+      "word": "每年假期都有未成年学生咨询整形",
+      "onboard_time": 1724329821,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34861,
       "num": 142908,
       "word": "美国67名声援巴勒斯坦抗议者遭逮捕",
@@ -2649,6 +2801,14 @@
       "onboard_time": 1724247620,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 32077,
+      "num": 288369,
+      "word": "1.2万元的黑神话悟空联名电脑秒售罄",
+      "onboard_time": 1724329281,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 31831,
@@ -2736,6 +2896,14 @@
       "word": "当中年人成为实习律师",
       "onboard_time": 1724304740,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23045,
+      "num": 402698,
+      "word": "通拓科技员工实名举报高管涉嫌舞弊",
+      "onboard_time": 1724329821,
+      "rank": 19,
       "category": "社会新闻"
     },
     {

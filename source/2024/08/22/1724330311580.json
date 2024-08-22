@@ -1,0 +1,410 @@
+{
+  "runTime": 1724330311580,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1554404,
+        "num": 1554404,
+        "word": "小孩骑行被碾压身亡肇事司机移送检方",
+        "onboard_time": 1724324840,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1369361,
+        "num": 1369361,
+        "word": "孙颖莎龙道一等被记大功",
+        "onboard_time": 1724325620,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19628,
+        "num": 1133421,
+        "word": "嫦娥五号月壤研究又有新发现",
+        "onboard_time": 1724300301,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1009946,
+        "num": 1009946,
+        "word": "乃万",
+        "onboard_time": 1724326099,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 936548,
+        "num": 936548,
+        "word": "霍震霆回应郭晶晶担任跳水裁判长",
+        "onboard_time": 1724321780,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 775093,
+        "num": 775093,
+        "word": "新版黛玉临终",
+        "onboard_time": 1724320941,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 704307,
+        "num": 704307,
+        "word": "王楚钦 下个周期更专注单打",
+        "onboard_time": 1724326040,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 590898,
+        "num": 590898,
+        "word": "老人急病离世藏了15万的床垫被扔了",
+        "onboard_time": 1724309360,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582456,
+        "num": 582456,
+        "word": "检察院回应小孩骑行被碾压身亡",
+        "onboard_time": 1724324840,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280543,
+        "num": 538442,
+        "word": "加沙14岁遇难男孩一生什么都没见过",
+        "onboard_time": 1724313680,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 526055,
+        "num": 526055,
+        "word": "周迅 50岁正是迷死人的年纪",
+        "onboard_time": 1724328920,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455871,
+        "num": 455871,
+        "word": "肖战手拿羽毛",
+        "onboard_time": 1724328561,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417214,
+        "num": 417214,
+        "word": "日本超20万人联名要求停排核污水",
+        "onboard_time": 1724319440,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415565,
+        "num": 415565,
+        "word": "特朗普在防弹玻璃后讲话",
+        "onboard_time": 1724327180,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 38398,
+        "num": 406553,
+        "word": "每年假期都有未成年学生咨询整形",
+        "onboard_time": 1724329821,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47368,
+        "num": 406538,
+        "word": "雷军认为小鹏MONA很OK",
+        "onboard_time": 1724328200,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 406525,
+        "num": 406525,
+        "word": "原来关晓彤是林黛玉最初人选",
+        "onboard_time": 1724310079,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 406066,
+        "num": 406066,
+        "word": "黛玉之死 马拉之死 好死不死",
+        "onboard_time": 1724328980,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 403088,
+        "num": 403088,
+        "word": "印度女性称其身边几乎都有遭性侵案例",
+        "onboard_time": 1724325860,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23045,
+        "num": 402698,
+        "word": "通拓科技员工实名举报高管涉嫌舞弊",
+        "onboard_time": 1724329821,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1138802,
+        "num": 400837,
+        "word": "金子涵瘦脱相",
+        "onboard_time": 1724316201,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 863992,
+        "num": 397421,
+        "word": "印度",
+        "onboard_time": 1724322620,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477882,
+        "num": 395912,
+        "word": "被微信状态背刺了",
+        "onboard_time": 1724313081,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 394669,
+        "num": 394669,
+        "word": "乃万自证",
+        "onboard_time": 1724305580,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374059,
+        "num": 374059,
+        "word": "蔡少芬 香港第一个公开结婚的演员",
+        "onboard_time": 1724322500,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358275,
+        "num": 358275,
+        "word": "陈晓旭前夫是庆余年赖御史",
+        "onboard_time": 1724318300,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 326094,
+        "num": 326094,
+        "word": "印度女医生",
+        "onboard_time": 1724299879,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32077,
+        "num": 288369,
+        "word": "1.2万元的黑神话悟空联名电脑秒售罄",
+        "onboard_time": 1724329281,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 272336,
+        "num": 272336,
+        "word": "三岁道歉",
+        "onboard_time": 1724325379,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 266283,
+        "num": 269503,
+        "word": "秦海璐 30岁没结婚没什么关系",
+        "onboard_time": 1724319501,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267724,
+        "num": 267724,
+        "word": "在黎巴嫩中国公民尽快回国或离境",
+        "onboard_time": 1724328320,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 255615,
+        "num": 255615,
+        "word": "黑神话",
+        "onboard_time": 1724315421,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 233981,
+        "num": 233981,
+        "word": "肖战直播",
+        "onboard_time": 1724329460,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229860,
+        "num": 229860,
+        "word": "潘展乐 先把你们应付过去",
+        "onboard_time": 1724317161,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209779,
+        "num": 209779,
+        "word": "失踪女童父亲称有水的地方抽干也没找到",
+        "onboard_time": 1724327780,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206016,
+        "num": 206016,
+        "word": "邓紫棋鸟巢演唱会",
+        "onboard_time": 1724326821,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202541,
+        "num": 202541,
+        "word": "王楚钦到庆阳了",
+        "onboard_time": 1724329880,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206800,
+        "num": 202469,
+        "word": "肖战 欧莱雅",
+        "onboard_time": 1724329219,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202281,
+        "num": 202281,
+        "word": "迪丽热巴早期上戏新生自我介绍",
+        "onboard_time": 1724320760,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193980,
+        "num": 193980,
+        "word": "阳光少年王楚钦",
+        "onboard_time": 1724328320,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10840,
+        "num": 192945,
+        "word": "2024已开启渐变色模式",
+        "onboard_time": 1724294659,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192369,
+        "num": 192369,
+        "word": "黑诊所在公寓给女子做试管婴儿手术",
+        "onboard_time": 1724328021,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191287,
+        "num": 191287,
+        "word": "郑钦文带火的肌肉美整顿白瘦幼审美",
+        "onboard_time": 1724322980,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186433,
+        "num": 186433,
+        "word": "张绍刚说如果种地吧明年还做",
+        "onboard_time": 1724329580,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185668,
+        "num": 185668,
+        "word": "MRC对战成都GG",
+        "onboard_time": 1724329162,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 182434,
+        "num": 182434,
+        "word": "王昶对黄雅琼略略略略",
+        "onboard_time": 1724329580,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178478,
+        "num": 178478,
+        "word": "老人藏4万6现金被儿子顺手扔掉",
+        "onboard_time": 1724330061,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173051,
+        "num": 173051,
+        "word": "猫咪以为家里没人偷偷唱起了歌",
+        "onboard_time": 1724323041,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171614,
+        "num": 171614,
+        "word": "潘展乐作为代表发言",
+        "onboard_time": 1724329460,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169714,
+        "num": 169714,
+        "word": "黑神话悟空隐藏结局",
+        "onboard_time": 1724322921,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记接见奥运健儿时说了啥#"
+    }
+  }
+}
