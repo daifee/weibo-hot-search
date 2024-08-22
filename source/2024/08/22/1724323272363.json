@@ -1,0 +1,410 @@
+{
+  "runTime": 1724323272363,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3037203,
+        "num": 3037203,
+        "word": "女子吃完路边捡来死狗全身出血",
+        "onboard_time": 1724318061,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 895600,
+        "num": 895600,
+        "word": "潘展乐 先把你们应付过去",
+        "onboard_time": 1724317161,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15221,
+        "num": 865810,
+        "word": "2024已开启渐变色模式",
+        "onboard_time": 1724294659,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 859973,
+        "num": 859973,
+        "word": "陈晓旭前夫是庆余年赖御史",
+        "onboard_time": 1724318300,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 769761,
+        "num": 769761,
+        "word": "老人急病离世藏了15万的床垫被扔了",
+        "onboard_time": 1724309360,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 670910,
+        "num": 670910,
+        "word": "加沙14岁遇难男孩一生什么都没见过",
+        "onboard_time": 1724313680,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 639073,
+        "num": 639073,
+        "word": "秦海璐 30岁没结婚没什么关系",
+        "onboard_time": 1724319501,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 594351,
+        "num": 594351,
+        "word": "黑神话第一批受害者出现了",
+        "onboard_time": 1724301621,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 398263,
+        "num": 587398,
+        "word": "胖布丁公司 性骚扰",
+        "onboard_time": 1724320161,
+        "rank": 8,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 101081,
+        "num": 587056,
+        "word": "失孤原型案二审未当庭宣判",
+        "onboard_time": 1724321722,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 957913,
+        "num": 587047,
+        "word": "新版黛玉临终",
+        "onboard_time": 1724320941,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 587021,
+        "num": 587021,
+        "word": "原来关晓彤是林黛玉最初人选",
+        "onboard_time": 1724310079,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 418458,
+        "num": 418458,
+        "word": "咱们中国开始考虑月球基建了",
+        "onboard_time": 1724309000,
+        "rank": 12,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 395630,
+        "num": 395630,
+        "word": "WTT中国大满贯参赛名单",
+        "onboard_time": 1724316560,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 381714,
+        "num": 381714,
+        "word": "全红婵给妈妈买手机",
+        "onboard_time": 1724308580,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 374538,
+        "num": 374538,
+        "word": "曾志伟出任三只羊香港分公司负责人",
+        "onboard_time": 1724312900,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1800052,
+        "num": 372262,
+        "word": "金子涵瘦脱相",
+        "onboard_time": 1724316201,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366500,
+        "num": 366500,
+        "word": "佟丽娅40岁备战艺考",
+        "onboard_time": 1724322620,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 322198,
+        "num": 322198,
+        "word": "蔡少芬 香港第一个公开结婚的演员",
+        "onboard_time": 1724322500,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301925,
+        "num": 301925,
+        "word": "印度女医生",
+        "onboard_time": 1724299879,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 718912,
+        "num": 286582,
+        "word": "被微信状态背刺了",
+        "onboard_time": 1724313081,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 678139,
+        "num": 284785,
+        "word": "乃万自证",
+        "onboard_time": 1724305580,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301969,
+        "num": 279697,
+        "word": "斐 家危速归",
+        "onboard_time": 1724313740,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 261632,
+        "num": 261632,
+        "word": "中国女人普吉岛暴打老白男",
+        "onboard_time": 1724309240,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261131,
+        "num": 261131,
+        "word": "aespa蓝毯新闻图",
+        "onboard_time": 1724321722,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 259754,
+        "num": 259754,
+        "word": "黑神话",
+        "onboard_time": 1724315421,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 425771,
+        "num": 254194,
+        "word": "乃万 乙游",
+        "onboard_time": 1724282897,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239519,
+        "num": 239519,
+        "word": "豆豆淘汰",
+        "onboard_time": 1724318902,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234734,
+        "num": 234734,
+        "word": "日本超20万人联名要求停排核污水",
+        "onboard_time": 1724319440,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231460,
+        "num": 231460,
+        "word": "日本华裔乒乓名将涉嫌猥亵被捕",
+        "onboard_time": 1724319860,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218325,
+        "num": 218325,
+        "word": "赵露思生图",
+        "onboard_time": 1724311160,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214693,
+        "num": 214693,
+        "word": "霍震霆回应郭晶晶担任跳水裁判长",
+        "onboard_time": 1724321780,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213073,
+        "num": 213073,
+        "word": "迪丽热巴早期上戏新生自我介绍",
+        "onboard_time": 1724320760,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205273,
+        "num": 205273,
+        "word": "游客擅入罗布泊被救后接受处理",
+        "onboard_time": 1724318541,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203448,
+        "num": 203448,
+        "word": "失孤原型案人贩子毫无悔意",
+        "onboard_time": 1724321660,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199936,
+        "num": 199936,
+        "word": "一公斤真头发卖上万元媲美黄金",
+        "onboard_time": 1724315421,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196969,
+        "num": 196969,
+        "word": "印度",
+        "onboard_time": 1724322620,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193421,
+        "num": 193421,
+        "word": "蒋敦豪巡演官宣",
+        "onboard_time": 1724320640,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189229,
+        "num": 189229,
+        "word": "韩国人吃的泡菜99.9%来自中国",
+        "onboard_time": 1724321300,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 40847,
+        "num": 189176,
+        "word": "95岁爷爷为带老伴出行挑战学车",
+        "onboard_time": 1724321181,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189135,
+        "num": 189135,
+        "word": "成毅赴山海血溅妆",
+        "onboard_time": 1724322559,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176974,
+        "num": 176974,
+        "word": "我妈说再这样说话跟我断绝母女关系",
+        "onboard_time": 1724322859,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176092,
+        "num": 176092,
+        "word": "黑神话创始人回应有玩家发现bug",
+        "onboard_time": 1724314161,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170228,
+        "num": 170228,
+        "word": "HPV疫苗开启价格战",
+        "onboard_time": 1724310679,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169316,
+        "num": 169316,
+        "word": "汝州事业编被清退人员工资已结算",
+        "onboard_time": 1724319020,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168946,
+        "num": 168946,
+        "word": "郑钦文带火的肌肉美整顿白瘦幼审美",
+        "onboard_time": 1724322980,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160359,
+        "num": 160359,
+        "word": "潘展乐46秒40有第一次就能做到第二次",
+        "onboard_time": 1724320941,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160151,
+        "num": 160151,
+        "word": "黑神话悟空隐藏结局",
+        "onboard_time": 1724322921,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157979,
+        "num": 157979,
+        "word": "猫咪以为家里没人偷偷唱起了歌",
+        "onboard_time": 1724323041,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153910,
+        "num": 153910,
+        "word": "360儿童手表语音问答出现争议答案",
+        "onboard_time": 1724319501,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "习近平总书记高度重视民营经济发展"
+    }
+  }
+}
