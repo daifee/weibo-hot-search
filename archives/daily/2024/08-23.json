@@ -1,6 +1,6 @@
 {
   "startTime": 1724344132300,
-  "endTime": 1724355381693,
+  "endTime": 1724358133836,
   "band_list": [
     {
       "raw_hot": 1541133,
@@ -459,12 +459,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 41465,
+      "num": 41465,
+      "word": "工作人员回应外卖不能带上楼",
+      "onboard_time": 1724355733,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35464,
       "num": 74178,
       "word": "杭州第一座万达广场要卖了",
       "onboard_time": 1724334141,
       "rank": 38,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 34793,
+      "num": 88048,
+      "word": "360称儿童手表错误信息非AI回答",
+      "onboard_time": 1724353871,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34759,
@@ -475,19 +491,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 27607,
-      "num": 28465,
+      "raw_hot": 29228,
+      "num": 29228,
       "word": "HPV疫苗随来随打几价都有",
       "onboard_time": 1724353572,
       "rank": 42,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21795,
-      "num": 88048,
-      "word": "360称儿童手表错误信息非AI回答",
-      "onboard_time": 1724353871,
-      "rank": 9,
+      "raw_hot": 24320,
+      "num": 24320,
+      "word": "医保费用断缴后该如何再参保",
+      "onboard_time": 1724357051,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -504,6 +520,14 @@
       "word": "下达2亿元支持辽吉灾后应急恢复",
       "onboard_time": 1724331861,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11250,
+      "num": 58128,
+      "word": "夜宿恐龙博物馆是啥体验",
+      "onboard_time": 1724357592,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
