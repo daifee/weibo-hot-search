@@ -1,6 +1,6 @@
 {
   "startTime": 1724257594927,
-  "endTime": 1724300652233,
+  "endTime": 1724301490954,
   "band_list": [
     {
       "raw_hot": 2963809,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1908202,
+      "num": 1908202,
+      "word": "男子称献血8次被告知不能优先用血",
+      "onboard_time": 1724298680,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1814142,
       "num": 1814142,
       "word": "郑州官方称赋红码官员履新符合程序",
@@ -64,14 +72,6 @@
       "word": "韩国快递员爬5层楼后暴力摔电脑",
       "onboard_time": 1724283378,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1230608,
-      "num": 1230608,
-      "word": "男子称献血8次被告知不能优先用血",
-      "onboard_time": 1724298680,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -139,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 882035,
+      "num": 882035,
+      "word": "通关黑神话悟空可免费游花果山",
+      "onboard_time": 1724299220,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 865745,
       "num": 249467,
       "word": "给储户赋红码被处分女官员任新职",
@@ -169,6 +177,14 @@
       "onboard_time": 1724281455,
       "rank": 9,
       "category": "旅游,游戏"
+    },
+    {
+      "raw_hot": 785057,
+      "num": 1081960,
+      "word": "韩国拍了个没有男演员的剧",
+      "onboard_time": 1724299341,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 772763,
@@ -219,12 +235,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 586187,
-      "num": 1081960,
-      "word": "韩国拍了个没有男演员的剧",
-      "onboard_time": 1724299341,
-      "rank": 6,
-      "category": "剧集"
+      "raw_hot": 600793,
+      "num": 600793,
+      "word": "印度女医生",
+      "onboard_time": 1724299879,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 568932,
@@ -233,6 +249,14 @@
       "onboard_time": 1724296939,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 558678,
+      "num": 923404,
+      "word": "河南7岁男童被男子用椅子砸进icu",
+      "onboard_time": 1724297421,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 543557,
@@ -259,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 486364,
+      "num": 486364,
+      "word": "倪萍自曝从楼梯摔下骨折",
+      "onboard_time": 1724299580,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 468781,
       "num": 468781,
       "word": "孙颖莎河北文旅代言人",
@@ -267,27 +299,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 454298,
-      "num": 454298,
-      "word": "通关黑神话悟空可免费游花果山",
-      "onboard_time": 1724299220,
-      "rank": 15,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 440643,
       "num": 429654,
       "word": "杭州警方通报街道强奸案",
       "onboard_time": 1724286620,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 435895,
-      "num": 923404,
-      "word": "河南7岁男童被男子用椅子砸进icu",
-      "onboard_time": 1724297421,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -323,8 +339,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 381300,
-      "num": 381300,
+      "raw_hot": 385782,
+      "num": 385782,
       "word": "下一战歌手",
       "onboard_time": 1724298078,
       "rank": 18,
@@ -339,12 +355,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 372803,
-      "num": 372803,
-      "word": "倪萍自曝从楼梯摔下骨折",
-      "onboard_time": 1724299580,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 374408,
+      "num": 374408,
+      "word": "丁海寅你怎么变成吊在俊了",
+      "onboard_time": 1724299879,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 367594,
@@ -411,12 +427,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 330932,
-      "num": 330932,
-      "word": "印度女医生",
-      "onboard_time": 1724299879,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 329209,
+      "num": 260960,
+      "word": "为什么沙丘猫会被世界禁养",
+      "onboard_time": 1724300541,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 327677,
@@ -433,6 +449,14 @@
       "onboard_time": 1724236999,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 313870,
+      "num": 313870,
+      "word": "嫦娥五号月壤研究又有新发现",
+      "onboard_time": 1724300301,
+      "rank": 34,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 310535,
@@ -459,14 +483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 277483,
-      "num": 324311,
-      "word": "丁海寅你怎么变成吊在俊了",
-      "onboard_time": 1724299879,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 275473,
       "num": 275473,
       "word": "河北姑娘孙颖莎回家",
@@ -483,6 +499,14 @@
       "category": "汽车,互联网"
     },
     {
+      "raw_hot": 266305,
+      "num": 266305,
+      "word": "披哥没播一半哥哥已沦陷一半",
+      "onboard_time": 1724301200,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 265144,
       "num": 265144,
       "word": "辽宁洪灾村一夜出现51米机械化桥",
@@ -491,20 +515,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261777,
+      "num": 261777,
+      "word": "开学第一天偶遇小S",
+      "onboard_time": 1724300780,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260511,
       "num": 260511,
       "word": "咒术回战",
       "onboard_time": 1724283078,
       "rank": 46,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 260186,
-      "num": 260186,
-      "word": "嫦娥五号月壤研究又有新发现",
-      "onboard_time": 1724300301,
-      "rank": 34,
-      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 258086,
@@ -667,6 +691,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 203780,
+      "num": 203780,
+      "word": "恋与深空",
+      "onboard_time": 1724301322,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 202842,
+      "num": 202842,
+      "word": "景甜似锦妆造",
+      "onboard_time": 1724300182,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202211,
       "num": 202211,
       "word": "微博旅行家",
@@ -715,6 +755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 195212,
+      "num": 195212,
+      "word": "四方馆",
+      "onboard_time": 1724300420,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192721,
       "num": 440036,
       "word": "张艺兴新歌MV里的中国元素",
@@ -731,14 +779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 189966,
-      "num": 189966,
-      "word": "为什么沙丘猫会被世界禁养",
-      "onboard_time": 1724300541,
-      "rank": 49,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 189217,
       "num": 189217,
       "word": "7成旅居者是北上广年轻人",
@@ -753,6 +793,14 @@
       "onboard_time": 1724290458,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 188349,
+      "num": 188349,
+      "word": "贾玲安藤樱嘉人九月刊封面",
+      "onboard_time": 1724301443,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 186013,
@@ -811,6 +859,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 179264,
+      "num": 179264,
+      "word": "闵孝琳否认怀二胎",
+      "onboard_time": 1724301380,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177802,
       "num": 177802,
       "word": "失孤原型案受害者称呼富吉是人间恶魔",
@@ -824,6 +880,14 @@
       "word": "处暑亦为出暑",
       "onboard_time": 1724294598,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171334,
+      "num": 769152,
+      "word": "网红零食蜡瓶糖多是三无产品",
+      "onboard_time": 1724299220,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1019,6 +1083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125872,
+      "num": 375222,
+      "word": "周深收到折耳根花束就吃上了",
+      "onboard_time": 1724301261,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124309,
       "num": 124309,
       "word": "节气里的大美中国",
@@ -1073,6 +1145,14 @@
       "onboard_time": 1724248162,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 108448,
+      "num": 1007885,
+      "word": "失孤原型郭刚堂透露新信息",
+      "onboard_time": 1724299220,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106814,
@@ -1163,19 +1243,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 96353,
+      "num": 485759,
+      "word": "郭刚堂谈儿子重回家庭后",
+      "onboard_time": 1724299039,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92297,
       "num": 92297,
       "word": "山西2岁失踪女童家属发声",
       "onboard_time": 1724282176,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 91737,
-      "num": 769152,
-      "word": "网红零食蜡瓶糖多是三无产品",
-      "onboard_time": 1724299220,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1227,14 +1307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 73062,
-      "num": 485759,
-      "word": "郭刚堂谈儿子重回家庭后",
-      "onboard_time": 1724299039,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 67646,
       "num": 456833,
       "word": "处暑至和大热天说声再见",
@@ -1249,14 +1321,6 @@
       "onboard_time": 1724245941,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 67128,
-      "num": 1007885,
-      "word": "失孤原型郭刚堂透露新信息",
-      "onboard_time": 1724299220,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 66833,
@@ -1323,6 +1387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 52606,
+      "num": 571549,
+      "word": "112名学生抽签入住77张床位",
+      "onboard_time": 1724301021,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50514,
       "num": 1707454,
       "word": "法润彩云南",
@@ -1347,8 +1419,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 45918,
-      "num": 205327,
+      "raw_hot": 46474,
+      "num": 431739,
       "word": "魏牌全新蓝山标配即顶配",
       "onboard_time": 1724300420,
       "rank": 45,

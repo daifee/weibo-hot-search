@@ -1,0 +1,410 @@
+{
+  "runTime": 1724301490954,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2282390,
+        "num": 2282390,
+        "word": "王楚钦解释奥运单打出局原因",
+        "onboard_time": 1724296037,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1908202,
+        "num": 1908202,
+        "word": "男子称献血8次被告知不能优先用血",
+        "onboard_time": 1724298680,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23683,
+        "num": 1670683,
+        "word": "法润彩云南",
+        "onboard_time": 1724294960,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1522502,
+        "num": 1522502,
+        "word": "乃万 乙游",
+        "onboard_time": 1724282897,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1386702,
+        "num": 1386702,
+        "word": "悟空被压了几百年都没有黑化",
+        "onboard_time": 1724297180,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 882035,
+        "num": 882035,
+        "word": "通关黑神话悟空可免费游花果山",
+        "onboard_time": 1724299220,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 839231,
+        "num": 839231,
+        "word": "女子240万新房被陌生人抢先入住",
+        "onboard_time": 1724289620,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 785057,
+        "num": 785057,
+        "word": "韩国拍了个没有男演员的剧",
+        "onboard_time": 1724299341,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 600793,
+        "num": 600793,
+        "word": "印度女医生",
+        "onboard_time": 1724299879,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52606,
+        "num": 571549,
+        "word": "112名学生抽签入住77张床位",
+        "onboard_time": 1724301021,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 651887,
+        "num": 565201,
+        "word": "印度16岁女孩乘公交遭司机等5人轮奸",
+        "onboard_time": 1724245641,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558678,
+        "num": 558678,
+        "word": "河南7岁男童被男子用椅子砸进icu",
+        "onboard_time": 1724297421,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553793,
+        "num": 553793,
+        "word": "纪念邓小平同志诞辰120周年",
+        "onboard_time": 1724284640,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 526202,
+        "num": 526202,
+        "word": "酒吧偶遇许光汉",
+        "onboard_time": 1724296939,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 504136,
+        "num": 504136,
+        "word": "周也素颜逛街",
+        "onboard_time": 1724298559,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486364,
+        "num": 486364,
+        "word": "倪萍自曝从楼梯摔下骨折",
+        "onboard_time": 1724299580,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46474,
+        "num": 431739,
+        "word": "魏牌全新蓝山标配即顶配",
+        "onboard_time": 1724300420,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 385782,
+        "num": 385782,
+        "word": "下一战歌手",
+        "onboard_time": 1724298078,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378883,
+        "num": 378883,
+        "word": "近四分之一驻阿美军女兵遭性侵",
+        "onboard_time": 1724289199,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 125872,
+        "num": 375222,
+        "word": "周深收到折耳根花束就吃上了",
+        "onboard_time": 1724301261,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1921934,
+        "num": 374880,
+        "word": "印度奸杀案引发30万医护罢工抗议",
+        "onboard_time": 1724291358,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 381371,
+        "num": 374830,
+        "word": "小伙爆改自己2年后父亲变儿子",
+        "onboard_time": 1724292859,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374408,
+        "num": 374408,
+        "word": "丁海寅你怎么变成吊在俊了",
+        "onboard_time": 1724299879,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 358088,
+        "num": 358088,
+        "word": "马来女生正常行驶撞死8名飞车党被判无罪",
+        "onboard_time": 1724283919,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350021,
+        "num": 350021,
+        "word": "咒术回战267话",
+        "onboard_time": 1724299520,
+        "rank": 24,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 313870,
+        "num": 313870,
+        "word": "嫦娥五号月壤研究又有新发现",
+        "onboard_time": 1724300301,
+        "rank": 25,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 283564,
+        "num": 283564,
+        "word": "如果你长期睡眠不足七小时",
+        "onboard_time": 1724284338,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 274818,
+        "num": 274818,
+        "word": "钉崎野蔷薇回归",
+        "onboard_time": 1724299281,
+        "rank": 27,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 266305,
+        "num": 266305,
+        "word": "披哥没播一半哥哥已沦陷一半",
+        "onboard_time": 1724301200,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261777,
+        "num": 261777,
+        "word": "开学第一天偶遇小S",
+        "onboard_time": 1724300780,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329209,
+        "num": 260960,
+        "word": "为什么沙丘猫会被世界禁养",
+        "onboard_time": 1724300541,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 256242,
+        "num": 256242,
+        "word": "孙颖莎河北文旅代言人",
+        "onboard_time": 1724293999,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255457,
+        "num": 255457,
+        "word": "韩国快递员爬5层楼后暴力摔电脑",
+        "onboard_time": 1724283378,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247524,
+        "num": 247524,
+        "word": "极挑男人帮在边水往事碰头",
+        "onboard_time": 1724296580,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224362,
+        "num": 224362,
+        "word": "菩提祖师才是悟空唯一的师父",
+        "onboard_time": 1724284758,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 223803,
+        "num": 223803,
+        "word": "要出伏了",
+        "onboard_time": 1724288239,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213187,
+        "num": 213187,
+        "word": "月饼口味有鄙视链吗",
+        "onboard_time": 1724300420,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 209344,
+        "num": 209344,
+        "word": "简爱已下架被指辣嗓子酸奶",
+        "onboard_time": 1724296939,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110924,
+        "num": 205135,
+        "word": "张艺兴新歌MV里的中国元素",
+        "onboard_time": 1724297240,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 203780,
+        "num": 203780,
+        "word": "恋与深空",
+        "onboard_time": 1724301322,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 202842,
+        "num": 202842,
+        "word": "景甜似锦妆造",
+        "onboard_time": 1724300182,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196098,
+        "num": 196098,
+        "word": "阿莫西林只对这5种病有效",
+        "onboard_time": 1724298860,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 195212,
+        "num": 195212,
+        "word": "四方馆",
+        "onboard_time": 1724300420,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190259,
+        "num": 190259,
+        "word": "虞书欣白色老花防风衣",
+        "onboard_time": 1724300122,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 188349,
+        "num": 188349,
+        "word": "贾玲安藤樱嘉人九月刊封面",
+        "onboard_time": 1724301443,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 179264,
+        "num": 179264,
+        "word": "闵孝琳否认怀二胎",
+        "onboard_time": 1724301380,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171334,
+        "num": 178105,
+        "word": "网红零食蜡瓶糖多是三无产品",
+        "onboard_time": 1724299220,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177550,
+        "num": 177550,
+        "word": "咒术回战",
+        "onboard_time": 1724283078,
+        "rank": 47,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 108448,
+        "num": 177203,
+        "word": "失孤原型郭刚堂透露新信息",
+        "onboard_time": 1724299220,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96353,
+        "num": 176759,
+        "word": "郭刚堂谈儿子重回家庭后",
+        "onboard_time": 1724299039,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记始终高度重视民族工作#"
+    }
+  }
+}
