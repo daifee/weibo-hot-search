@@ -1,7 +1,15 @@
 {
   "startTime": 1724257594927,
-  "endTime": 1724319305027,
+  "endTime": 1724322184232,
   "band_list": [
+    {
+      "raw_hot": 3281746,
+      "num": 3281746,
+      "word": "女子吃完路边捡来死狗全身出血",
+      "onboard_time": 1724318061,
+      "rank": 12,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3050899,
       "num": 3050899,
@@ -131,14 +139,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1550450,
-      "num": 1550450,
-      "word": "女子吃完路边捡来死狗全身出血",
-      "onboard_time": 1724318061,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1403238,
       "num": 1403238,
       "word": "悟空被压了几百年都没有黑化",
@@ -225,6 +225,14 @@
       "onboard_time": 1724245641,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1089790,
+      "num": 1089790,
+      "word": "陈晓旭前夫是庆余年赖御史",
+      "onboard_time": 1724318300,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 1069787,
@@ -427,12 +435,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 634345,
-      "num": 634345,
-      "word": "陈晓旭前夫是庆余年赖御史",
-      "onboard_time": 1724318300,
-      "rank": 19,
-      "category": "剧集"
+      "raw_hot": 610021,
+      "num": 610021,
+      "word": "秦海璐 30岁没结婚没什么关系",
+      "onboard_time": 1724319501,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 601033,
@@ -499,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 493798,
+      "num": 493798,
+      "word": "WTT中国大满贯参赛名单",
+      "onboard_time": 1724316560,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 487939,
       "num": 487939,
       "word": "黑神话",
@@ -521,6 +537,14 @@
       "onboard_time": 1724309960,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 442588,
+      "num": 442588,
+      "word": "新版黛玉临终",
+      "onboard_time": 1724320941,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 440643,
@@ -571,12 +595,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 397714,
-      "num": 397714,
-      "word": "WTT中国大满贯参赛名单",
-      "onboard_time": 1724316560,
-      "rank": 25,
-      "category": "体育"
+      "raw_hot": 409041,
+      "num": 409041,
+      "word": "胖布丁公司 性骚扰",
+      "onboard_time": 1724320161,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 396918,
@@ -875,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264130,
+      "num": 264130,
+      "word": "aespa蓝毯新闻图",
+      "onboard_time": 1724321722,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 261777,
       "num": 261777,
       "word": "开学第一天偶遇小S",
@@ -963,12 +995,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 238075,
+      "num": 238075,
+      "word": "蒋敦豪巡演官宣",
+      "onboard_time": 1724320640,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 236070,
       "num": 236070,
       "word": "简爱已下架被指辣嗓子酸奶",
       "onboard_time": 1724296939,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235651,
+      "num": 235651,
+      "word": "日本华裔乒乓名将涉嫌猥亵被捕",
+      "onboard_time": 1724319860,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 232651,
@@ -1043,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225272,
+      "num": 225272,
+      "word": "豆豆淘汰",
+      "onboard_time": 1724318902,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224090,
       "num": 571549,
       "word": "112名学生抽签入住77张床位",
@@ -1091,6 +1147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214617,
+      "num": 214617,
+      "word": "韩国人吃的泡菜99.9%来自中国",
+      "onboard_time": 1724321300,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 213998,
       "num": 213998,
       "word": "明明没有血缘关系也能长得像",
@@ -1131,6 +1195,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 212278,
+      "num": 212278,
+      "word": "迪丽热巴早期上戏新生自我介绍",
+      "onboard_time": 1724320760,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 211076,
       "num": 211076,
       "word": "暑去秋来吃什么",
@@ -1139,12 +1211,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 210666,
-      "num": 210666,
-      "word": "豆豆淘汰",
-      "onboard_time": 1724318902,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 210109,
+      "num": 210109,
+      "word": "日本超20万人联名要求停排核污水",
+      "onboard_time": 1724319440,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209510,
@@ -1315,12 +1387,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 188232,
+      "num": 188232,
+      "word": "360儿童手表语音问答出现争议答案",
+      "onboard_time": 1724319501,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187162,
       "num": 187162,
       "word": "美国日本都将翻拍你好李焕英",
       "onboard_time": 1724316981,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 186528,
+      "num": 186528,
+      "word": "失孤原型案人贩子毫无悔意",
+      "onboard_time": 1724321660,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186013,
@@ -1371,12 +1459,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 183646,
+      "num": 183646,
+      "word": "游客擅入罗布泊被救后接受处理",
+      "onboard_time": 1724318541,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182935,
       "num": 182935,
       "word": "A股",
       "onboard_time": 1724293158,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 181773,
+      "num": 181773,
+      "word": "上班放暑假好小众的词",
+      "onboard_time": 1724321300,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 181409,
@@ -1428,7 +1532,7 @@
     },
     {
       "raw_hot": 177868,
-      "num": 177868,
+      "num": 412491,
       "word": "汝州事业编被清退人员工资已结算",
       "onboard_time": 1724319020,
       "rank": 43,
@@ -1507,6 +1611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167218,
+      "num": 167218,
+      "word": "潘展乐46秒40有第一次就能做到第二次",
+      "onboard_time": 1724320941,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167081,
       "num": 725610,
       "word": "用中国扎染打开初秋的浪漫",
@@ -1529,6 +1641,14 @@
       "onboard_time": 1724290939,
       "rank": 29,
       "category": "作品衍生,综艺"
+    },
+    {
+      "raw_hot": 165395,
+      "num": 165395,
+      "word": "霍震霆回应郭晶晶担任跳水裁判长",
+      "onboard_time": 1724321780,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 164103,
@@ -1585,14 +1705,6 @@
       "onboard_time": 1724304920,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 160601,
-      "num": 160601,
-      "word": "游客擅入罗布泊被救后接受处理",
-      "onboard_time": 1724318541,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158653,
@@ -1913,6 +2025,14 @@
       "onboard_time": 1724290877,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 119047,
+      "num": 579179,
+      "word": "失孤原型案二审未当庭宣判",
+      "onboard_time": 1724321722,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114591,
@@ -2408,6 +2528,14 @@
       "word": "当中年人成为实习律师",
       "onboard_time": 1724304740,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23196,
+      "num": 419986,
+      "word": "95岁爷爷为带老伴出行挑战学车",
+      "onboard_time": 1724321181,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
