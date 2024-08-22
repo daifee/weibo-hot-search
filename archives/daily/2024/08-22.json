@@ -1,7 +1,15 @@
 {
   "startTime": 1724257594927,
-  "endTime": 1724291364713,
+  "endTime": 1724294419388,
   "band_list": [
+    {
+      "raw_hot": 2316109,
+      "num": 2316109,
+      "word": "女子240万新房被陌生人抢先入住",
+      "onboard_time": 1724289620,
+      "rank": 39,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2115056,
       "num": 2115056,
@@ -9,6 +17,14 @@
       "onboard_time": 1724283919,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1734413,
+      "num": 1734413,
+      "word": "印度奸杀案引发30万医护罢工抗议",
+      "onboard_time": 1724291358,
+      "rank": 1,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1309525,
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 863315,
-      "num": 406480,
+      "num": 435254,
       "word": "如果你长期睡眠不足七小时",
       "onboard_time": 1724284338,
       "rank": 21,
@@ -139,14 +155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 649459,
-      "num": 649459,
-      "word": "女子240万新房被陌生人抢先入住",
-      "onboard_time": 1724289620,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 648412,
       "num": 648412,
       "word": "沈腾有腹肌了",
@@ -176,6 +184,14 @@
       "word": "为老母1万6转院费三个儿子吵翻",
       "onboard_time": 1724250263,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 429654,
+      "num": 429654,
+      "word": "杭州警方通报街道强奸案",
+      "onboard_time": 1724286620,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -217,6 +233,14 @@
       "onboard_time": 1724284099,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 375946,
+      "num": 375946,
+      "word": "小伙爆改自己2年后父亲变儿子",
+      "onboard_time": 1724292859,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 367594,
@@ -275,20 +299,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 292048,
-      "num": 292048,
-      "word": "杭州警方通报街道强奸案",
-      "onboard_time": 1724286620,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 314386,
+      "num": 466604,
+      "word": "黄奕张晚意古装淋雨戏",
+      "onboard_time": 1724292139,
+      "rank": 15,
+      "category": "剧集"
     },
     {
-      "raw_hot": 291083,
-      "num": 418249,
+      "raw_hot": 310535,
+      "num": 533071,
       "word": "蒲熠星演我玩黑悟空",
       "onboard_time": 1724288839,
       "rank": 19,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 306057,
+      "num": 306057,
+      "word": "在小县城无痛上班的第十年",
+      "onboard_time": 1724292859,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 275473,
@@ -347,6 +379,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 231962,
+      "num": 231962,
+      "word": "咒术回战",
+      "onboard_time": 1724283078,
+      "rank": 46,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 226857,
       "num": 419397,
       "word": "相亲捡漏就像早高峰的共享单车",
@@ -363,12 +403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 206184,
-      "num": 206184,
-      "word": "咒术回战",
-      "onboard_time": 1724283078,
-      "rank": 46,
-      "category": "动漫,作品衍生"
+      "raw_hot": 211076,
+      "num": 211076,
+      "word": "暑去秋来吃什么",
+      "onboard_time": 1724292859,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 205353,
@@ -419,12 +459,44 @@
       "category": "情感"
     },
     {
+      "raw_hot": 192641,
+      "num": 192641,
+      "word": "孙颖莎河北文旅代言人",
+      "onboard_time": 1724293999,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 189803,
+      "num": 189803,
+      "word": "你要的山西旅游路线要来了",
+      "onboard_time": 1724292678,
+      "rank": 36,
+      "category": "游戏,旅游"
+    },
+    {
+      "raw_hot": 189050,
+      "num": 189050,
+      "word": "上海5平米的loft长啥样",
+      "onboard_time": 1724290458,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 185567,
       "num": 185567,
       "word": "深切缅怀邓小平同志",
       "onboard_time": 1724289259,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 182935,
+      "num": 182935,
+      "word": "A股",
+      "onboard_time": 1724293158,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 181156,
@@ -491,6 +563,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 162541,
+      "num": 162541,
+      "word": "失孤原型案受害者称呼富吉是人间恶魔",
+      "onboard_time": 1724292139,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158653,
+      "num": 158653,
+      "word": "马龙王楚钦北京台路透",
+      "onboard_time": 1724290278,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154329,
       "num": 154329,
       "word": "黑神话悟空 焦恩俊mod",
@@ -553,14 +641,6 @@
       "onboard_time": 1724287760,
       "rank": 46,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 141321,
-      "num": 141321,
-      "word": "上海5平米的loft长啥样",
-      "onboard_time": 1724290458,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 135258,
@@ -827,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59853,
+      "num": 442157,
+      "word": "处暑至和大热天说声再见",
+      "onboard_time": 1724293217,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59741,
       "num": 65933,
       "word": "杨志刚撞脸半个娱乐圈",
@@ -875,12 +963,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 41859,
+      "num": 1268819,
+      "word": "武警连夜架桥连接4个受灾村",
+      "onboard_time": 1724294119,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41597,
       "num": 41597,
       "word": "在广东永远也不要以貌取人",
       "onboard_time": 1724263752,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 37196,
+      "num": 531549,
+      "word": "被虐致死女童母亲失眠大把吃安眠药",
+      "onboard_time": 1724293818,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34282,
@@ -905,6 +1009,14 @@
       "onboard_time": 1724269871,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29149,
+      "num": 215094,
+      "word": "以代表直言联合国应关门从地球消失",
+      "onboard_time": 1724293940,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 27502,
@@ -937,6 +1049,14 @@
       "onboard_time": 1724269451,
       "rank": 25,
       "category": "旅游,游戏"
+    },
+    {
+      "raw_hot": 10314,
+      "num": 532156,
+      "word": "郭刚堂希望人贩子被判死刑",
+      "onboard_time": 1724294299,
+      "rank": 8,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -945,6 +1065,9 @@
     },
     {
       "word": "#习近平总书记高度重视民营经济发展#"
+    },
+    {
+      "word": "#习近平总书记始终高度重视民族工作#"
     }
   ]
 }
