@@ -1,6 +1,6 @@
 {
   "startTime": 1724344132300,
-  "endTime": 1724368826204,
+  "endTime": 1724369702013,
   "band_list": [
     {
       "raw_hot": 1541133,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 305147,
+      "num": 252897,
+      "word": "杨倩再续三年清华",
+      "onboard_time": 1724344697,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 304937,
       "num": 304937,
       "word": "王楚然 衣服影响了我的发挥",
@@ -145,6 +153,14 @@
       "onboard_time": 1724336842,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 274816,
+      "num": 274816,
+      "word": "终于看到一个会提前报警的剧",
+      "onboard_time": 1724362391,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 268264,
@@ -187,14 +203,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 232155,
-      "num": 232155,
-      "word": "杨倩再续三年清华",
-      "onboard_time": 1724344697,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 230881,
       "num": 230881,
       "word": "黑神话",
@@ -203,12 +211,52 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 223137,
+      "num": 223137,
+      "word": "孙悟空推倒人参果树是有原因的",
+      "onboard_time": 1724367015,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221393,
       "num": 221393,
       "word": "王楚钦 下个周期更专注单打",
       "onboard_time": 1724326040,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 214260,
+      "num": 214260,
+      "word": "印度为何发生这么多强奸案",
+      "onboard_time": 1724336961,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203685,
+      "num": 277688,
+      "word": "360称儿童手表错误信息非AI回答",
+      "onboard_time": 1724353871,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192684,
+      "num": 192684,
+      "word": "工作人员回应外卖不能带上楼",
+      "onboard_time": 1724355733,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189339,
+      "num": 167806,
+      "word": "豆豆淘汰徐志胜都哭了",
+      "onboard_time": 1724368095,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 188531,
@@ -243,12 +291,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166950,
+      "num": 166950,
+      "word": "KPL",
+      "onboard_time": 1724368939,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 162322,
       "num": 162322,
       "word": "大龄相亲市场到底有多难",
       "onboard_time": 1724337621,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 162242,
+      "num": 162242,
+      "word": "张颖颖说张兰母子经常对骂",
+      "onboard_time": 1724343020,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 160783,
@@ -259,14 +323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 160228,
-      "num": 160228,
-      "word": "终于看到一个会提前报警的剧",
-      "onboard_time": 1724362391,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 158971,
       "num": 158971,
       "word": "金子涵瘦脱相",
@@ -275,20 +331,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 156530,
-      "num": 156530,
-      "word": "印度为何发生这么多强奸案",
-      "onboard_time": 1724336961,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156316,
-      "num": 156316,
-      "word": "工作人员回应外卖不能带上楼",
-      "onboard_time": 1724355733,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 150546,
+      "num": 150546,
+      "word": "肯德基恋与深空",
+      "onboard_time": 1724368577,
+      "rank": 24,
+      "category": "游戏,美食"
     },
     {
       "raw_hot": 149427,
@@ -323,27 +371,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 139315,
-      "num": 139315,
-      "word": "张颖颖说张兰母子经常对骂",
-      "onboard_time": 1724343020,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 138733,
       "num": 138733,
       "word": "曾舜晞陈都灵要是这么演我可不困了",
       "onboard_time": 1724336543,
       "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 138728,
-      "num": 138728,
-      "word": "孙悟空推倒人参果树是有原因的",
-      "onboard_time": 1724367015,
-      "rank": 22,
       "category": "剧集"
     },
     {
@@ -363,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124154,
+      "num": 124154,
+      "word": "崔行舟发现柳眠棠就是陆文",
+      "onboard_time": 1724365333,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123541,
       "num": 123541,
       "word": "WBG战胜LNG",
@@ -377,6 +417,14 @@
       "onboard_time": 1724321780,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122968,
+      "num": 253408,
+      "word": "医生解释玩3D游戏头晕想吐现象",
+      "onboard_time": 1724368939,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 118842,
@@ -395,12 +443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 113116,
-      "num": 113116,
-      "word": "肯德基恋与深空",
-      "onboard_time": 1724368577,
-      "rank": 24,
-      "category": "游戏,美食"
+      "raw_hot": 114674,
+      "num": 114674,
+      "word": "晒一晒四六级成绩",
+      "onboard_time": 1724368516,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 110244,
@@ -435,15 +483,23 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 104446,
-      "num": 104446,
-      "word": "崔行舟发现柳眠棠就是陆文",
-      "onboard_time": 1724365333,
-      "rank": 45,
-      "category": "剧集"
+      "raw_hot": 104166,
+      "num": 104166,
+      "word": "大脑中的微塑料多到无法想象",
+      "onboard_time": 1724367074,
+      "rank": 42,
+      "category": "科学科普,健康医疗"
     },
     {
-      "raw_hot": 100048,
+      "raw_hot": 102828,
+      "num": 102828,
+      "word": "男朋友断联第五天可以报警吗",
+      "onboard_time": 1724368396,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 101957,
       "num": 116059,
       "word": "印度村庄开小偷学校教小孩当扒手",
       "onboard_time": 1724351653,
@@ -451,12 +507,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 94001,
-      "num": 97531,
-      "word": "豆豆淘汰徐志胜都哭了",
+      "raw_hot": 99857,
+      "num": 99857,
+      "word": "浙江婚假拟从3天延长至13天",
+      "onboard_time": 1724361312,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92392,
+      "num": 92392,
+      "word": "黑神话悟空",
       "onboard_time": 1724368095,
-      "rank": 29,
-      "category": "综艺"
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 91718,
@@ -465,14 +529,6 @@
       "onboard_time": 1724332221,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 91708,
-      "num": 91708,
-      "word": "浙江婚假拟从3天延长至13天",
-      "onboard_time": 1724361312,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 90515,
@@ -491,20 +547,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 89328,
-      "num": 89328,
-      "word": "黑神话悟空",
-      "onboard_time": 1724368095,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 82349,
-      "num": 82349,
-      "word": "晒一晒四六级成绩",
-      "onboard_time": 1724368516,
-      "rank": 39,
-      "category": "教育"
+      "raw_hot": 79709,
+      "num": 79709,
+      "word": "00后大学生试岗月薪一万五住家保姆",
+      "onboard_time": 1724369238,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 79181,
@@ -515,20 +563,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 75479,
+      "num": 75479,
+      "word": "全红婵陈艺文又去撸狗了",
+      "onboard_time": 1724369659,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74737,
       "num": 74737,
       "word": "aespa颁奖礼开麦舞台",
       "onboard_time": 1724346437,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 74021,
-      "num": 74021,
-      "word": "大脑中的微塑料多到无法想象",
-      "onboard_time": 1724367074,
-      "rank": 42,
-      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 68835,
@@ -560,14 +608,6 @@
       "word": "假发公司月需高至10万顶年营收过亿",
       "onboard_time": 1724347096,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 58916,
-      "num": 277688,
-      "word": "360称儿童手表错误信息非AI回答",
-      "onboard_time": 1724353871,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
