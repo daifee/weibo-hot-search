@@ -1,6 +1,6 @@
 {
   "startTime": 1724257594927,
-  "endTime": 1724312106654,
+  "endTime": 1724315122564,
   "band_list": [
     {
       "raw_hot": 2963809,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1887700,
+      "num": 361226,
+      "word": "被微信状态背刺了",
+      "onboard_time": 1724313081,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1869731,
       "num": 1374302,
       "word": "女生称合租男室友多次偷进自己房间",
@@ -80,6 +88,14 @@
       "word": "郑州官方称赋红码官员履新符合程序",
       "onboard_time": 1724296999,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1800920,
+      "num": 1800920,
+      "word": "老人急病离世藏了15万的床垫被扔了",
+      "onboard_time": 1724309360,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -129,6 +145,14 @@
       "onboard_time": 1724284758,
       "rank": 3,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1144285,
+      "num": 1144285,
+      "word": "原来关晓彤是林黛玉最初人选",
+      "onboard_time": 1724310079,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 1125650,
@@ -259,14 +283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 854189,
-      "num": 854189,
-      "word": "原来关晓彤是林黛玉最初人选",
-      "onboard_time": 1724310079,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 818572,
       "num": 818572,
       "word": "黑神话悟空取景地门票销量暴涨3倍",
@@ -281,6 +297,14 @@
       "onboard_time": 1724309240,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 784025,
+      "num": 784025,
+      "word": "斐 家危速归",
+      "onboard_time": 1724313740,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 773340,
@@ -304,6 +328,14 @@
       "word": "大S看手机开红酒嘴角上扬",
       "onboard_time": 1724254761,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 698274,
+      "num": 615021,
+      "word": "赵露思生图",
+      "onboard_time": 1724311160,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -347,19 +379,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 637223,
+      "num": 360363,
+      "word": "曾志伟出任三只羊香港分公司负责人",
+      "onboard_time": 1724312900,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 601033,
       "num": 923404,
       "word": "河南7岁男童被男子用椅子砸进icu",
       "onboard_time": 1724297421,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 570895,
-      "num": 570895,
-      "word": "老人急病离世藏了15万的床垫被扔了",
-      "onboard_time": 1724309360,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -467,6 +499,22 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 417295,
+      "num": 417295,
+      "word": "加沙14岁遇难男孩一生什么都没见过",
+      "onboard_time": 1724313680,
+      "rank": 16,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 415911,
+      "num": 635264,
+      "word": "HPV疫苗开启价格战",
+      "onboard_time": 1724310679,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 414935,
       "num": 414935,
       "word": "乘客错过高铁退票被拒后起诉",
@@ -515,14 +563,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 369236,
-      "num": 369236,
-      "word": "赵露思生图",
-      "onboard_time": 1724311160,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 367594,
       "num": 645095,
       "word": "刘晓庆 早期爱女第一人",
@@ -553,6 +593,14 @@
       "onboard_time": 1724238380,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 358131,
+      "num": 358131,
+      "word": "李隼说王楚钦很有责任感",
+      "onboard_time": 1724313081,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 356818,
@@ -635,6 +683,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 310042,
+      "num": 361802,
+      "word": "郑恺从奔跑吧无缝转场嗨放派",
+      "onboard_time": 1724311940,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306057,
       "num": 306057,
       "word": "在小县城无痛上班的第十年",
@@ -673,6 +729,22 @@
       "onboard_time": 1724302761,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 278972,
+      "num": 479676,
+      "word": "网友称360儿童手表的智能回答毁三观",
+      "onboard_time": 1724310020,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275638,
+      "num": 358907,
+      "word": "薛之谦 最后一次送别",
+      "onboard_time": 1724312301,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 275473,
@@ -867,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226101,
+      "num": 529928,
+      "word": "咱们中国开始考虑月球基建了",
+      "onboard_time": 1724309000,
+      "rank": 9,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 224090,
       "num": 571549,
       "word": "112名学生抽签入住77张床位",
@@ -891,12 +971,28 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 216514,
+      "num": 216514,
+      "word": "四六级",
+      "onboard_time": 1724314040,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 216063,
       "num": 216063,
       "word": "李一桐的包包是个哑铃",
       "onboard_time": 1724303780,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 215068,
+      "num": 215068,
+      "word": "孙颖莎连轴转",
+      "onboard_time": 1724314161,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 213998,
@@ -1171,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180977,
+      "num": 180977,
+      "word": "檀健次新剧被叫人渣渣",
+      "onboard_time": 1724314340,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179743,
       "num": 179743,
       "word": "2024已开启渐变色模式",
@@ -1243,14 +1347,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 169290,
-      "num": 169290,
-      "word": "郑恺从奔跑吧无缝转场嗨放派",
-      "onboard_time": 1724311940,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 167608,
       "num": 167608,
       "word": "2岁女童失踪8天家属悬赏20万寻人",
@@ -1275,20 +1371,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166567,
-      "num": 479676,
-      "word": "网友称360儿童手表的智能回答毁三观",
-      "onboard_time": 1724310020,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165576,
       "num": 235285,
       "word": "成毅萧秋水斗笠造型",
       "onboard_time": 1724290939,
       "rank": 29,
       "category": "作品衍生,综艺"
+    },
+    {
+      "raw_hot": 164338,
+      "num": 164338,
+      "word": "黑神话创始人回应有玩家发现bug",
+      "onboard_time": 1724314161,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 164103,
@@ -1299,12 +1395,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 164094,
+      "num": 164094,
+      "word": "罗永浩发自己熹贵妃回宫照",
+      "onboard_time": 1724313020,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 163819,
       "num": 330837,
       "word": "愿轻风带走烦恼",
       "onboard_time": 1724286920,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161783,
+      "num": 161783,
+      "word": "孙杨复出前训练画面曝光",
+      "onboard_time": 1724313922,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 161123,
@@ -1344,6 +1456,14 @@
       "word": "送crush黑神话悟空后表白失败了",
       "onboard_time": 1724307859,
       "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 157498,
+      "num": 157498,
+      "word": "黑神话悟空 手残党",
+      "onboard_time": 1724311040,
+      "rank": 46,
       "category": "游戏"
     },
     {
@@ -1419,14 +1539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 151046,
-      "num": 151046,
-      "word": "黑神话悟空 手残党",
-      "onboard_time": 1724311040,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 150359,
       "num": 150359,
       "word": "魔兽世界原负责人怒斥黑神话被压分",
@@ -1473,6 +1585,14 @@
       "onboard_time": 1724288839,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 146584,
+      "num": 146584,
+      "word": "性格真了不得啊",
+      "onboard_time": 1724313380,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 146124,
@@ -1563,6 +1683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130550,
+      "num": 130550,
+      "word": "解放军对美舰过航全程跟监警戒",
+      "onboard_time": 1724312301,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 130162,
       "num": 130162,
       "word": "新疆库车5.0级地震",
@@ -1592,14 +1720,6 @@
       "word": "被虐致死女童母亲痛哭请求严处两被告",
       "onboard_time": 1724295618,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125921,
-      "num": 635264,
-      "word": "HPV疫苗开启价格战",
-      "onboard_time": 1724310679,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1835,6 +1955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 79321,
+      "num": 487871,
+      "word": "华为阿维塔发布百万级高定车012",
+      "onboard_time": 1724310980,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 74276,
       "num": 74276,
       "word": "中学暑假深夜转移学生有偿补课",
@@ -1897,14 +2025,6 @@
       "onboard_time": 1724294119,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61260,
-      "num": 369420,
-      "word": "华为阿维塔发布百万级高定车012",
-      "onboard_time": 1724310980,
-      "rank": 47,
-      "category": "汽车"
     },
     {
       "raw_hot": 60731,
@@ -2003,6 +2123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 34861,
+      "num": 142908,
+      "word": "美国67名声援巴勒斯坦抗议者遭逮捕",
+      "onboard_time": 1724314280,
+      "rank": 46,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 34282,
       "num": 45879,
       "word": "王一博新歌拍摄间隙",
@@ -2089,6 +2217,14 @@
       "onboard_time": 1724269451,
       "rank": 25,
       "category": "旅游,游戏"
+    },
+    {
+      "raw_hot": 10834,
+      "num": 478022,
+      "word": "多地乱摊派乱收费行为被曝光",
+      "onboard_time": 1724314760,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
