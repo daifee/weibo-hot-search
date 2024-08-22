@@ -1,10 +1,10 @@
 {
   "startTime": 1724344132300,
-  "endTime": 1724344132300,
+  "endTime": 1724345046433,
   "band_list": [
     {
       "raw_hot": 1145477,
-      "num": 555175,
+      "num": 655955,
       "word": "男子通马桶眼睛被灼伤几乎失明",
       "onboard_time": 1724339302,
       "rank": 3,
@@ -27,24 +27,24 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 595170,
-      "num": 595170,
+      "raw_hot": 824984,
+      "num": 824984,
       "word": "泰国小型飞机坠毁有5名中国籍乘客",
       "onboard_time": 1724341522,
       "rank": 1,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 539100,
-      "num": 539100,
+      "raw_hot": 590964,
+      "num": 590964,
       "word": "店家回应全红婵给妈妈买手机",
       "onboard_time": 1724340502,
       "rank": 4,
       "category": "体育"
     },
     {
-      "raw_hot": 533957,
-      "num": 533957,
+      "raw_hot": 570554,
+      "num": 570554,
       "word": "方大同 才二十三",
       "onboard_time": 1724334743,
       "rank": 5,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259897,
+      "num": 259897,
+      "word": "魏哲鸣一觉睡醒天塌了",
+      "onboard_time": 1724343859,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 257923,
       "num": 257923,
       "word": "小孩骑行被碾压身亡肇事司机移送检方",
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 183139,
-      "num": 144384,
+      "num": 177029,
       "word": "逛公园碰到了国乒队",
       "onboard_time": 1724341941,
       "rank": 30,
@@ -291,20 +299,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122601,
+      "num": 122601,
+      "word": "澳客机降落后一乘客强行打开应急出口",
+      "onboard_time": 1724341280,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121439,
       "num": 441143,
       "word": "在黎巴嫩中国公民尽快回国或离境",
       "onboard_time": 1724328320,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 120263,
-      "num": 120263,
-      "word": "魏哲鸣一觉睡醒天塌了",
-      "onboard_time": 1724343859,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 118842,
@@ -371,20 +379,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 88218,
-      "num": 88218,
+      "raw_hot": 89644,
+      "num": 89644,
       "word": "乃万自证",
       "onboard_time": 1724305580,
       "rank": 47,
       "category": "艺人"
     },
     {
-      "raw_hot": 83957,
-      "num": 88206,
-      "word": "澳客机降落后一乘客强行打开应急出口",
-      "onboard_time": 1724341280,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 82752,
+      "num": 82752,
+      "word": "杨倩再续三年清华",
+      "onboard_time": 1724344697,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 79181,
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 6028,
-      "num": 562012,
+      "num": 687260,
       "word": "与莫高窟壁画古人一起别夏迎秋",
       "onboard_time": 1724331979,
       "rank": 2,
