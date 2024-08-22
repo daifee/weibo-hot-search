@@ -1,6 +1,6 @@
 {
   "startTime": 1724344132300,
-  "endTime": 1724352024499,
+  "endTime": 1724354243916,
   "band_list": [
     {
       "raw_hot": 1541133,
@@ -427,6 +427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 59694,
+      "num": 59694,
+      "word": "薛之谦QQ号是六位数的",
+      "onboard_time": 1724349973,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 59036,
       "num": 226912,
       "word": "假发公司月需高至10万顶年营收过亿",
@@ -443,12 +451,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 51632,
-      "num": 51632,
-      "word": "薛之谦QQ号是六位数的",
-      "onboard_time": 1724349973,
-      "rank": 34,
-      "category": "综艺"
+      "raw_hot": 54409,
+      "num": 116059,
+      "word": "印度村庄开小偷学校教小孩当扒手",
+      "onboard_time": 1724351653,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35464,
@@ -467,10 +475,10 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 21833,
-      "num": 116059,
-      "word": "印度村庄开小偷学校教小孩当扒手",
-      "onboard_time": 1724351653,
+      "raw_hot": 18447,
+      "num": 88048,
+      "word": "360称儿童手表错误信息非AI回答",
+      "onboard_time": 1724353871,
       "rank": 9,
       "category": "社会新闻"
     },

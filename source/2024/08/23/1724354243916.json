@@ -1,0 +1,410 @@
+{
+  "runTime": 1724354243916,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 395572,
+        "num": 395572,
+        "word": "肯德基",
+        "onboard_time": 1724345057,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 185451,
+        "num": 185451,
+        "word": "魏哲鸣一觉睡醒天塌了",
+        "onboard_time": 1724343859,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 6734,
+        "num": 162959,
+        "word": "下达2亿元支持辽吉灾后应急恢复",
+        "onboard_time": 1724331861,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142768,
+        "num": 142768,
+        "word": "韩安冉妈妈拿走了小猪妹的黄金",
+        "onboard_time": 1724339840,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 119001,
+        "num": 119001,
+        "word": "泰国小型飞机坠毁有5名中国籍乘客",
+        "onboard_time": 1724341522,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97900,
+        "num": 97900,
+        "word": "男子通马桶眼睛被灼伤几乎失明",
+        "onboard_time": 1724339302,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136251,
+        "num": 97099,
+        "word": "方大同 才二十三",
+        "onboard_time": 1724334743,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 94616,
+        "num": 94616,
+        "word": "店家回应全红婵给妈妈买手机",
+        "onboard_time": 1724340502,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88553,
+        "num": 88553,
+        "word": "在黎巴嫩中国公民尽快回国或离境",
+        "onboard_time": 1724328320,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18447,
+        "num": 88048,
+        "word": "360称儿童手表错误信息非AI回答",
+        "onboard_time": 1724353871,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150247,
+        "num": 87958,
+        "word": "印度清洁工验尸房强行与女子亲热",
+        "onboard_time": 1724337021,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87551,
+        "num": 87551,
+        "word": "孙颖莎龙道一等被记大功",
+        "onboard_time": 1724325620,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68581,
+        "num": 68581,
+        "word": "卫健委调查男子献血8次不能优先用血",
+        "onboard_time": 1724337802,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60641,
+        "num": 60641,
+        "word": "英国版比尔盖茨和女儿确认遇难",
+        "onboard_time": 1724340563,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60489,
+        "num": 60489,
+        "word": "王楚钦 下个周期更专注单打",
+        "onboard_time": 1724326040,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59694,
+        "num": 59694,
+        "word": "薛之谦QQ号是六位数的",
+        "onboard_time": 1724349973,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59609,
+        "num": 59609,
+        "word": "时代峰峻发声明",
+        "onboard_time": 1724339243,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54864,
+        "num": 54864,
+        "word": "黑神话",
+        "onboard_time": 1724315421,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 54409,
+        "num": 54409,
+        "word": "印度村庄开小偷学校教小孩当扒手",
+        "onboard_time": 1724351653,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52075,
+        "num": 52075,
+        "word": "周迅 50岁正是迷死人的年纪",
+        "onboard_time": 1724328920,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141278,
+        "num": 52044,
+        "word": "乃万",
+        "onboard_time": 1724326099,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106305,
+        "num": 51704,
+        "word": "有玩家因黑神话悟空难通关要求退款",
+        "onboard_time": 1724336842,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 50555,
+        "num": 50555,
+        "word": "女子下雨天拉隐形车门被熏吐了",
+        "onboard_time": 1724336001,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50426,
+        "num": 50426,
+        "word": "黛玉之死 马拉之死 好死不死",
+        "onboard_time": 1724328980,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 49419,
+        "num": 49419,
+        "word": "印度女性称其身边几乎都有遭性侵案例",
+        "onboard_time": 1724325860,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49297,
+        "num": 49297,
+        "word": "乐华家族演唱会",
+        "onboard_time": 1724345177,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 48810,
+        "num": 48810,
+        "word": "澳客机降落后一乘客强行打开应急出口",
+        "onboard_time": 1724341280,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48637,
+        "num": 48637,
+        "word": "杨倩再续三年清华",
+        "onboard_time": 1724344697,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47486,
+        "num": 47486,
+        "word": "金子涵瘦脱相",
+        "onboard_time": 1724316201,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46853,
+        "num": 46853,
+        "word": "印度",
+        "onboard_time": 1724322620,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46185,
+        "num": 46185,
+        "word": "乃万自证",
+        "onboard_time": 1724305580,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45934,
+        "num": 45934,
+        "word": "被微信状态背刺了",
+        "onboard_time": 1724313081,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 42094,
+        "num": 42094,
+        "word": "王楚然 衣服影响了我的发挥",
+        "onboard_time": 1724333360,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39933,
+        "num": 39933,
+        "word": "小孩骑行被碾压身亡肇事司机移送检方",
+        "onboard_time": 1724324840,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38801,
+        "num": 38801,
+        "word": "游戏科学",
+        "onboard_time": 1724348534,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 36904,
+        "num": 38800,
+        "word": "印度为何发生这么多强奸案",
+        "onboard_time": 1724336961,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36533,
+        "num": 38794,
+        "word": "逛公园碰到了国乒队",
+        "onboard_time": 1724341941,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36057,
+        "num": 38788,
+        "word": "邓紫棋鸟巢演唱会",
+        "onboard_time": 1724326821,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35589,
+        "num": 38779,
+        "word": "张颖颖说张兰母子经常对骂",
+        "onboard_time": 1724343020,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30856,
+        "num": 38773,
+        "word": "失踪女童父亲称有水的地方抽干也没找到",
+        "onboard_time": 1724327780,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29399,
+        "num": 38768,
+        "word": "马嘉祺 染发",
+        "onboard_time": 1724336061,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28751,
+        "num": 38763,
+        "word": "杨倩晒清华大学研究生录取通知书",
+        "onboard_time": 1724335400,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28654,
+        "num": 38761,
+        "word": "印度女医生",
+        "onboard_time": 1724299879,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28041,
+        "num": 38752,
+        "word": "肖战手拿羽毛",
+        "onboard_time": 1724328561,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28036,
+        "num": 38749,
+        "word": "假发公司月需高至10万顶年营收过亿",
+        "onboard_time": 1724347096,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27654,
+        "num": 38740,
+        "word": "老人藏4万6现金被儿子顺手扔掉",
+        "onboard_time": 1724330061,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26878,
+        "num": 38739,
+        "word": "曾舜晞陈都灵要是这么演我可不困了",
+        "onboard_time": 1724336543,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26390,
+        "num": 38729,
+        "word": "霍震霆回应郭晶晶担任跳水裁判长",
+        "onboard_time": 1724321780,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26232,
+        "num": 38726,
+        "word": "梁伟铿回村吃席 老广标配",
+        "onboard_time": 1724335102,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25697,
+        "num": 38719,
+        "word": "WBG战胜LNG",
+        "onboard_time": 1724338161,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#继续深入学习运用邓小平理论#"
+    }
+  }
+}
