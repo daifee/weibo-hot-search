@@ -1,6 +1,6 @@
 {
   "startTime": 1724344132300,
-  "endTime": 1724358133836,
+  "endTime": 1724358906784,
   "band_list": [
     {
       "raw_hot": 1541133,
@@ -451,20 +451,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56026,
+      "num": 56026,
+      "word": "工作人员回应外卖不能带上楼",
+      "onboard_time": 1724355733,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55320,
       "num": 55320,
       "word": "游戏科学",
       "onboard_time": 1724348534,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 41465,
-      "num": 41465,
-      "word": "工作人员回应外卖不能带上楼",
-      "onboard_time": 1724355733,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35464,
@@ -499,8 +499,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24320,
-      "num": 24320,
+      "raw_hot": 27690,
+      "num": 27690,
       "word": "医保费用断缴后该如何再参保",
       "onboard_time": 1724357051,
       "rank": 46,
@@ -515,19 +515,27 @@
       "category": "游戏,旅游"
     },
     {
+      "raw_hot": 16103,
+      "num": 43495,
+      "word": "民警陪警犬完成最后一次巡边",
+      "onboard_time": 1724358672,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14306,
+      "num": 58128,
+      "word": "夜宿恐龙博物馆是啥体验",
+      "onboard_time": 1724357592,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12941,
       "num": 537792,
       "word": "下达2亿元支持辽吉灾后应急恢复",
       "onboard_time": 1724331861,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11250,
-      "num": 58128,
-      "word": "夜宿恐龙博物馆是啥体验",
-      "onboard_time": 1724357592,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
