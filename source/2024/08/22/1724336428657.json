@@ -1,0 +1,410 @@
+{
+  "runTime": 1724336428657,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1501696,
+        "num": 1501696,
+        "word": "孙颖莎龙道一等被记大功",
+        "onboard_time": 1724325620,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1139283,
+        "num": 1139283,
+        "word": "周迅 50岁正是迷死人的年纪",
+        "onboard_time": 1724328920,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52854,
+        "num": 1065221,
+        "word": "与莫高窟壁画古人一起别夏迎秋",
+        "onboard_time": 1724331979,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1012741,
+        "num": 1012741,
+        "word": "王楚然 衣服影响了我的发挥",
+        "onboard_time": 1724333360,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 962334,
+        "num": 962334,
+        "word": "老人藏4万6现金被儿子顺手扔掉",
+        "onboard_time": 1724330061,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561723,
+        "num": 561723,
+        "word": "印度女性称其身边几乎都有遭性侵案例",
+        "onboard_time": 1724325860,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 626470,
+        "num": 549411,
+        "word": "黛玉之死 马拉之死 好死不死",
+        "onboard_time": 1724328980,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 528410,
+        "num": 528410,
+        "word": "霍震霆回应郭晶晶担任跳水裁判长",
+        "onboard_time": 1724321780,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 447966,
+        "num": 447966,
+        "word": "王楚钦 下个周期更专注单打",
+        "onboard_time": 1724326040,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210933,
+        "num": 444032,
+        "word": "在黎巴嫩中国公民尽快回国或离境",
+        "onboard_time": 1724328320,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 4183168,
+        "num": 443715,
+        "word": "孙颖莎换头像和背景了",
+        "onboard_time": 1724333661,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1010760,
+        "num": 443520,
+        "word": "小孩骑行被碾压身亡肇事司机移送检方",
+        "onboard_time": 1724324840,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443324,
+        "num": 443324,
+        "word": "方大同 才二十三",
+        "onboard_time": 1724334743,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 424917,
+        "num": 424917,
+        "word": "梁伟铿回村吃席 老广标配",
+        "onboard_time": 1724335102,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42962,
+        "num": 412036,
+        "word": "求职者因劳动仲裁被歧视该怎么办",
+        "onboard_time": 1724335222,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401555,
+        "num": 401555,
+        "word": "失踪女童父亲称有水的地方抽干也没找到",
+        "onboard_time": 1724327780,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388460,
+        "num": 388460,
+        "word": "中星4A卫星发射成功",
+        "onboard_time": 1724333780,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 328537,
+        "num": 385063,
+        "word": "李若彤贺刚相差16岁演夫妻",
+        "onboard_time": 1724332221,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272883,
+        "num": 383939,
+        "word": "新版黛玉临终",
+        "onboard_time": 1724320941,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 48339,
+        "num": 381222,
+        "word": "当致癌的水果患上植物癌症",
+        "onboard_time": 1724335222,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 841467,
+        "num": 376895,
+        "word": "乃万",
+        "onboard_time": 1724326099,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 715914,
+        "num": 373324,
+        "word": "金子涵瘦脱相",
+        "onboard_time": 1724316201,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 576802,
+        "num": 369201,
+        "word": "被微信状态背刺了",
+        "onboard_time": 1724313081,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 549640,
+        "num": 367149,
+        "word": "特朗普在防弹玻璃后讲话",
+        "onboard_time": 1724327180,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 364398,
+        "num": 364398,
+        "word": "老人急病离世藏了15万的床垫被扔了",
+        "onboard_time": 1724309360,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339356,
+        "num": 339356,
+        "word": "王昶对黄雅琼略略略略",
+        "onboard_time": 1724329580,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303382,
+        "num": 303382,
+        "word": "黑神话",
+        "onboard_time": 1724315421,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 289232,
+        "num": 289232,
+        "word": "父母双亡脑梗男子被好友拯救",
+        "onboard_time": 1724332101,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230484,
+        "num": 262632,
+        "word": "邓紫棋鸟巢演唱会",
+        "onboard_time": 1724326821,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 225494,
+        "num": 258681,
+        "word": "马嘉祺 染发",
+        "onboard_time": 1724336061,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 258541,
+        "num": 258541,
+        "word": "红色月亮",
+        "onboard_time": 1724332460,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245450,
+        "num": 245450,
+        "word": "印度",
+        "onboard_time": 1724322620,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239389,
+        "num": 239389,
+        "word": "干坐一天就能赚钱的工作",
+        "onboard_time": 1724334321,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 230808,
+        "num": 230808,
+        "word": "肖战手拿羽毛",
+        "onboard_time": 1724328561,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227428,
+        "num": 227428,
+        "word": "原来关晓彤是林黛玉最初人选",
+        "onboard_time": 1724310079,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210631,
+        "num": 210631,
+        "word": "杨倩晒清华大学研究生录取通知书",
+        "onboard_time": 1724335400,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202420,
+        "num": 202420,
+        "word": "Suk独狼吃鸡",
+        "onboard_time": 1724336001,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 196191,
+        "num": 196191,
+        "word": "陈晓旭前夫是庆余年赖御史",
+        "onboard_time": 1724318300,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195384,
+        "num": 195384,
+        "word": "女子下雨天拉隐形车门被熏吐了",
+        "onboard_time": 1724336001,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185814,
+        "num": 185814,
+        "word": "乃万自证",
+        "onboard_time": 1724305580,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11571,
+        "num": 182057,
+        "word": "韩国变美四件套成出国旅游团宠",
+        "onboard_time": 1724336122,
+        "rank": 40,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 179997,
+        "num": 179997,
+        "word": "蔡少芬 香港第一个公开结婚的演员",
+        "onboard_time": 1724322500,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173708,
+        "num": 173708,
+        "word": "上海申花2比1北京国安",
+        "onboard_time": 1724334923,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168063,
+        "num": 168063,
+        "word": "九部的检察官连门卫都是绝杀",
+        "onboard_time": 1724335762,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166586,
+        "num": 166586,
+        "word": "央视boys话最少的一次直播",
+        "onboard_time": 1724332341,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163567,
+        "num": 163567,
+        "word": "印度女医生",
+        "onboard_time": 1724299879,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162257,
+        "num": 162257,
+        "word": "杭州第一座万达广场要卖了",
+        "onboard_time": 1724334141,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160275,
+        "num": 160275,
+        "word": "张大大探班赵露思",
+        "onboard_time": 1724331680,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143333,
+        "num": 143333,
+        "word": "WBG对战LNG",
+        "onboard_time": 1724335882,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140447,
+        "num": 143120,
+        "word": "国乒天团来甘肃庆阳啦",
+        "onboard_time": 1724333541,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#继续深入学习运用邓小平理论#"
+    }
+  }
+}
