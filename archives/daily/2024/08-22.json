@@ -1,6 +1,6 @@
 {
   "startTime": 1724257594927,
-  "endTime": 1724294419388,
+  "endTime": 1724295015267,
   "band_list": [
     {
       "raw_hot": 2316109,
@@ -11,20 +11,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2225310,
+      "num": 2225310,
+      "word": "印度奸杀案引发30万医护罢工抗议",
+      "onboard_time": 1724291358,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 2115056,
       "num": 2115056,
       "word": "马来女生正常行驶撞死8名飞车党被判无罪",
       "onboard_time": 1724283919,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1734413,
-      "num": 1734413,
-      "word": "印度奸杀案引发30万医护罢工抗议",
-      "onboard_time": 1724291358,
-      "rank": 1,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1309525,
@@ -187,7 +187,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 429654,
+      "raw_hot": 511670,
+      "num": 391840,
+      "word": "小伙爆改自己2年后父亲变儿子",
+      "onboard_time": 1724292859,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 440643,
       "num": 429654,
       "word": "杭州警方通报街道强奸案",
       "onboard_time": 1724286620,
@@ -235,14 +243,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 375946,
-      "num": 375946,
-      "word": "小伙爆改自己2年后父亲变儿子",
-      "onboard_time": 1724292859,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 367594,
       "num": 645095,
       "word": "刘晓庆 早期爱女第一人",
@@ -275,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 344730,
+      "num": 712227,
+      "word": "黄奕张晚意古装淋雨戏",
+      "onboard_time": 1724292139,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 331109,
       "num": 331109,
       "word": "房东嫌我问题太多不想租给我了",
@@ -297,14 +305,6 @@
       "onboard_time": 1724236999,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 314386,
-      "num": 466604,
-      "word": "黄奕张晚意古装淋雨戏",
-      "onboard_time": 1724292139,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 310535,
@@ -371,6 +371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 239337,
+      "num": 230399,
+      "word": "孙颖莎河北文旅代言人",
+      "onboard_time": 1724293999,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 232011,
       "num": 232011,
       "word": "十年过去了TFBOYS和EXO还是碰上了",
@@ -409,6 +417,14 @@
       "onboard_time": 1724292859,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 209510,
+      "num": 485726,
+      "word": "你要的山西旅游路线要来了",
+      "onboard_time": 1724292678,
+      "rank": 36,
+      "category": "游戏,旅游"
     },
     {
       "raw_hot": 205353,
@@ -459,20 +475,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 192641,
-      "num": 192641,
-      "word": "孙颖莎河北文旅代言人",
-      "onboard_time": 1724293999,
+      "raw_hot": 191024,
+      "num": 191024,
+      "word": "拼积木成大学生暑期火热副业",
+      "onboard_time": 1724294719,
       "rank": 34,
-      "category": "体育"
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 189803,
-      "num": 189803,
-      "word": "你要的山西旅游路线要来了",
-      "onboard_time": 1724292678,
-      "rank": 36,
-      "category": "游戏,旅游"
+      "raw_hot": 189433,
+      "num": 471732,
+      "word": "战至巅峰3公开全员电竞简历",
+      "onboard_time": 1724294539,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 189050,
@@ -515,6 +531,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179743,
+      "num": 179743,
+      "word": "2024已开启渐变色模式",
+      "onboard_time": 1724294659,
+      "rank": 37,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 177802,
+      "num": 177802,
+      "word": "失孤原型案受害者称呼富吉是人间恶魔",
+      "onboard_time": 1724292139,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172791,
+      "num": 172791,
+      "word": "处暑亦为出暑",
+      "onboard_time": 1724294598,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170789,
       "num": 256170,
       "word": "懂事的导演已经开始递本子了",
@@ -540,7 +580,7 @@
     },
     {
       "raw_hot": 167081,
-      "num": 167081,
+      "num": 725610,
       "word": "用中国扎染打开初秋的浪漫",
       "onboard_time": 1724288121,
       "rank": 43,
@@ -561,14 +601,6 @@
       "onboard_time": 1724286920,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 162541,
-      "num": 162541,
-      "word": "失孤原型案受害者称呼富吉是人间恶魔",
-      "onboard_time": 1724292139,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158653,
@@ -867,6 +899,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68908,
+      "num": 612694,
+      "word": "被虐致死女童母亲失眠大把吃安眠药",
+      "onboard_time": 1724293818,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67646,
+      "num": 456833,
+      "word": "处暑至和大热天说声再见",
+      "onboard_time": 1724293217,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67209,
       "num": 105682,
       "word": "电影刺猬卡不住的全国路演",
@@ -907,14 +955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 59853,
-      "num": 442157,
-      "word": "处暑至和大热天说声再见",
-      "onboard_time": 1724293217,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 59741,
       "num": 65933,
       "word": "杨志刚撞脸半个娱乐圈",
@@ -939,12 +979,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56736,
+      "num": 175000,
+      "word": "藏不住了宝藏茶",
+      "onboard_time": 1724294598,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 54248,
       "num": 58131,
       "word": "狼队零封KSG",
       "onboard_time": 1724249662,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 50514,
+      "num": 1461925,
+      "word": "法润彩云南",
+      "onboard_time": 1724294960,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47730,
@@ -979,14 +1035,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 37196,
-      "num": 531549,
-      "word": "被虐致死女童母亲失眠大把吃安眠药",
-      "onboard_time": 1724293818,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 34282,
       "num": 45879,
       "word": "王一博新歌拍摄间隙",
@@ -1001,6 +1049,14 @@
       "onboard_time": 1724247620,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31831,
+      "num": 637406,
+      "word": "郭刚堂希望人贩子被判死刑",
+      "onboard_time": 1724294299,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29848,
@@ -1049,14 +1105,6 @@
       "onboard_time": 1724269451,
       "rank": 25,
       "category": "旅游,游戏"
-    },
-    {
-      "raw_hot": 10314,
-      "num": 532156,
-      "word": "郭刚堂希望人贩子被判死刑",
-      "onboard_time": 1724294299,
-      "rank": 8,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
