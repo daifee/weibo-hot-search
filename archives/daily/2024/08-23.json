@@ -1,6 +1,6 @@
 {
   "startTime": 1724344132300,
-  "endTime": 1724412940447,
+  "endTime": 1724416689852,
   "band_list": [
     {
       "raw_hot": 9647550,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1417967,
+      "num": 1417967,
+      "word": "面筋哥感谢女友拼命救他三次",
+      "onboard_time": 1724407220,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1371095,
       "num": 1371095,
       "word": "EDG",
@@ -256,6 +264,14 @@
       "word": "印度清洁工验尸房强行与女子亲热",
       "onboard_time": 1724337021,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 911737,
+      "num": 911737,
+      "word": "男子内急借用镇政府厕所被保安阻拦",
+      "onboard_time": 1724411420,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -380,7 +396,7 @@
     },
     {
       "raw_hot": 770134,
-      "num": 467337,
+      "num": 545405,
       "word": "两个杜华",
       "onboard_time": 1724408480,
       "rank": 25,
@@ -417,6 +433,14 @@
       "onboard_time": 1724401342,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 646733,
+      "num": 646733,
+      "word": "孙颖莎樊振东等将访港",
+      "onboard_time": 1724412921,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 641428,
@@ -523,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 578495,
+      "num": 578495,
+      "word": "严浩翔粉发蓝瞳",
+      "onboard_time": 1724413460,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 578149,
       "num": 578149,
       "word": "行李箱超2厘米加收700元女子大闹机场",
@@ -539,6 +571,30 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 561107,
+      "num": 561107,
+      "word": "刺猬 黑色幽默",
+      "onboard_time": 1724415499,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 544795,
+      "num": 544795,
+      "word": "时代少年团演唱会直播",
+      "onboard_time": 1724411359,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 536918,
+      "num": 536918,
+      "word": "马嘉祺solo舞台",
+      "onboard_time": 1724414719,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 534629,
       "num": 659467,
       "word": "狐妖小红娘月红篇收入",
@@ -553,6 +609,14 @@
       "onboard_time": 1724368939,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 502458,
+      "num": 502458,
+      "word": "刺猬票房",
+      "onboard_time": 1724411839,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 497260,
@@ -611,20 +675,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 463884,
-      "num": 293941,
-      "word": "时代少年团演唱会直播",
-      "onboard_time": 1724411359,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
       "raw_hot": 457670,
       "num": 457670,
       "word": "周迅 50岁正是迷死人的年纪",
       "onboard_time": 1724328920,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 452142,
+      "num": 452142,
+      "word": "吴宣仪乐华年会红毯",
+      "onboard_time": 1724409560,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 443562,
@@ -707,6 +771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 395819,
+      "num": 395819,
+      "word": "黄灿灿的微博像一本的青春校园小说",
+      "onboard_time": 1724414001,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 387611,
       "num": 387611,
       "word": "长乐曲定档",
@@ -771,6 +843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 366993,
+      "num": 366993,
+      "word": "丁程鑫克卜勒舞台",
+      "onboard_time": 1724415201,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 358700,
       "num": 358700,
       "word": "娜扎 丞磊你能不能转行啊",
@@ -793,6 +873,14 @@
       "onboard_time": 1724382140,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 348520,
+      "num": 348520,
+      "word": "刘耀文One More Night",
+      "onboard_time": 1724414719,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 345955,
@@ -835,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330021,
+      "num": 456776,
+      "word": "韩漫疑似抄袭汪顺人设",
+      "onboard_time": 1724411659,
+      "rank": 45,
+      "category": "体育,动漫"
+    },
+    {
       "raw_hot": 324272,
       "num": 324272,
       "word": "四六级差1分世界都变了",
@@ -843,19 +939,19 @@
       "category": "教育"
     },
     {
-      "raw_hot": 323368,
-      "num": 293658,
-      "word": "刺猬票房",
-      "onboard_time": 1724411839,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 321380,
       "num": 356508,
       "word": "易烊千玺发了好多羊",
       "onboard_time": 1724371158,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 306879,
+      "num": 306879,
+      "word": "侃爷一家去韩国了",
+      "onboard_time": 1724415439,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -915,11 +1011,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 294344,
-      "num": 375063,
-      "word": "面筋哥感谢女友拼命救他三次",
-      "onboard_time": 1724407220,
-      "rank": 19,
+      "raw_hot": 295465,
+      "num": 295465,
+      "word": "泰国出事飞机系顶奢酒店私有",
+      "onboard_time": 1724403682,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -936,14 +1032,6 @@
       "word": "程潇cos黛西",
       "onboard_time": 1724410099,
       "rank": 28,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 293636,
-      "num": 293636,
-      "word": "吴宣仪乐华年会红毯",
-      "onboard_time": 1724409560,
-      "rank": 35,
       "category": "作品衍生"
     },
     {
@@ -1043,6 +1131,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 269679,
+      "num": 269679,
+      "word": "马琳帮王曼昱弹飞虫",
+      "onboard_time": 1724413280,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 268264,
       "num": 268264,
       "word": "女子下雨天拉隐形车门被熏吐了",
@@ -1051,12 +1147,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 266870,
-      "num": 266870,
-      "word": "泰国出事飞机系顶奢酒店私有",
-      "onboard_time": 1724403682,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 268086,
+      "num": 268086,
+      "word": "王一博戴耳钉",
+      "onboard_time": 1724415981,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 265708,
@@ -1211,20 +1307,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 240192,
+      "num": 240192,
+      "word": "多位博主发声质疑黑神话悟空抄袭",
+      "onboard_time": 1724411718,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 239885,
       "num": 239885,
       "word": "他演了黑神话悟空百分之六七十的怪",
       "onboard_time": 1724382862,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 238627,
-      "num": 238627,
-      "word": "韩漫疑似抄袭汪顺人设",
-      "onboard_time": 1724411659,
-      "rank": 45,
-      "category": "体育,动漫"
     },
     {
       "raw_hot": 237949,
@@ -1323,6 +1419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219387,
+      "num": 219387,
+      "word": "京英战队中国力量",
+      "onboard_time": 1724412679,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219289,
       "num": 219289,
       "word": "当爸妈知道我在外租房会叫保洁阿姨",
@@ -1353,6 +1457,14 @@
       "onboard_time": 1724374340,
       "rank": 32,
       "category": "游戏,美食"
+    },
+    {
+      "raw_hot": 216939,
+      "num": 216939,
+      "word": "豆得儿与男友吵架",
+      "onboard_time": 1724415499,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 215839,
@@ -1449,6 +1561,14 @@
       "onboard_time": 1724396420,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203738,
+      "num": 203738,
+      "word": "王一博 松弛感",
+      "onboard_time": 1724416520,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 203685,
@@ -1587,6 +1707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190806,
+      "num": 190806,
+      "word": "姥姥的外孙",
+      "onboard_time": 1724416639,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 190693,
       "num": 190693,
       "word": "孙杨是年龄最大的参赛运动员",
@@ -1611,6 +1739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189779,
+      "num": 189779,
+      "word": "电影逆鳞今日上映",
+      "onboard_time": 1724416100,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 188905,
       "num": 265275,
       "word": "王一博勇气编织绳索汗水锻造决心",
@@ -1633,6 +1769,14 @@
       "onboard_time": 1724383579,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 188681,
+      "num": 188681,
+      "word": "法证先锋6大结局",
+      "onboard_time": 1724414960,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 188531,
@@ -1705,6 +1849,14 @@
       "onboard_time": 1724404041,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184707,
+      "num": 184707,
+      "word": "闵玧其今日前往警察局接受调查",
+      "onboard_time": 1724414839,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 184626,
@@ -1795,14 +1947,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 177327,
-      "num": 177327,
-      "word": "多位博主发声质疑黑神话悟空抄袭",
-      "onboard_time": 1724411718,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 175850,
       "num": 175850,
       "word": "黑神话悟空Steam在线玩家数破240万",
@@ -1873,14 +2017,6 @@
       "onboard_time": 1724372599,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 170310,
-      "num": 170310,
-      "word": "孙颖莎樊振东等将访港",
-      "onboard_time": 1724412921,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 169898,
@@ -2355,14 +2491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 105006,
-      "num": 388579,
-      "word": "男子内急借用镇政府厕所被保安阻拦",
-      "onboard_time": 1724411420,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 104988,
       "num": 104988,
       "word": "女子称男子在其家门口偷闻鞋舔鞋",
@@ -2433,6 +2561,14 @@
       "onboard_time": 1724305580,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87348,
+      "num": 545360,
+      "word": "印度31岁女医生遭奸杀父母发声",
+      "onboard_time": 1724415740,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87044,
@@ -2643,6 +2779,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 45305,
+      "num": 545189,
+      "word": "国博已封禁超百万个高频访问IP",
+      "onboard_time": 1724415621,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42228,
       "num": 337929,
       "word": "独居是一场自由与孤独的博弈",
@@ -2672,6 +2816,14 @@
       "word": "我国已掌握最先进卫星技术",
       "onboard_time": 1724405420,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36325,
+      "num": 415333,
+      "word": "古风的诗意被它拿捏了",
+      "onboard_time": 1724415800,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -2744,6 +2896,14 @@
       "word": "安徽鼓励探索钓鱼实名制",
       "onboard_time": 1724392820,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28513,
+      "num": 539023,
+      "word": "别一概而论摘野生沙葱被查是过度执法",
+      "onboard_time": 1724416220,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
