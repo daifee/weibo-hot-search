@@ -1,7 +1,15 @@
 {
   "startTime": 1724344132300,
-  "endTime": 1724387921315,
+  "endTime": 1724390403770,
   "band_list": [
+    {
+      "raw_hot": 9647550,
+      "num": 9647550,
+      "word": "黑神话悟空疑似抄袭",
+      "onboard_time": 1724386221,
+      "rank": 0,
+      "category": "游戏"
+    },
     {
       "raw_hot": 2842443,
       "num": 2842443,
@@ -251,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 578149,
+      "num": 578149,
+      "word": "行李箱超2厘米加收700元女子大闹机场",
+      "onboard_time": 1724384781,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 570554,
       "num": 570554,
       "word": "方大同 才二十三",
@@ -299,6 +315,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 487323,
+      "num": 487323,
+      "word": "邱贻可说孙颖莎值得信赖",
+      "onboard_time": 1724388982,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 484389,
       "num": 509235,
       "word": "花少6概念海报",
@@ -345,14 +369,6 @@
       "onboard_time": 1724325620,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 415628,
-      "num": 369611,
-      "word": "行李箱超2厘米加收700元女子大闹机场",
-      "onboard_time": 1724384781,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 413680,
@@ -427,12 +443,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 349270,
+      "num": 291435,
+      "word": "让领导窒息的婚假",
+      "onboard_time": 1724388621,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 345955,
       "num": 309250,
       "word": "去看演唱会找朋友借宿被拒了",
       "onboard_time": 1724372120,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 330469,
+      "num": 508845,
+      "word": "基层很忙为何群众不买账",
+      "onboard_time": 1724385621,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 324272,
@@ -483,12 +515,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 287540,
+      "num": 287540,
+      "word": "CPA难不难",
+      "onboard_time": 1724389522,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 287381,
       "num": 233025,
       "word": "乃万",
       "onboard_time": 1724326099,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 282767,
+      "num": 282767,
+      "word": "果然好的阿姨是不会出现在市场的",
+      "onboard_time": 1724387120,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 281102,
@@ -531,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266876,
+      "num": 266876,
+      "word": "黑神话悟空的真身是淄博小伙",
+      "onboard_time": 1724389821,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 263722,
       "num": 263722,
       "word": "鞠婧祎网宣组声明",
@@ -545,6 +601,14 @@
       "onboard_time": 1724378420,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259585,
+      "num": 294582,
+      "word": "刘亦菲VOGUE金九封面来了",
+      "onboard_time": 1724389702,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 257923,
@@ -593,14 +657,6 @@
       "onboard_time": 1724385199,
       "rank": 40,
       "category": "美食"
-    },
-    {
-      "raw_hot": 242258,
-      "num": 508845,
-      "word": "基层很忙为何群众不买账",
-      "onboard_time": 1724385621,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 239885,
@@ -665,6 +721,14 @@
       "onboard_time": 1724315421,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 226353,
+      "num": 226353,
+      "word": "盛李豪张雨霏等记大功",
+      "onboard_time": 1724389343,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 221393,
@@ -779,12 +843,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195041,
-      "num": 195041,
-      "word": "果然好的阿姨是不会出现在市场的",
-      "onboard_time": 1724387120,
-      "rank": 41,
-      "category": "情感"
+      "raw_hot": 194476,
+      "num": 268096,
+      "word": "上一秒她不配下一秒夫人好",
+      "onboard_time": 1724388681,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 192684,
@@ -793,6 +857,22 @@
       "onboard_time": 1724355733,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190869,
+      "num": 190869,
+      "word": "车险保费涨声一片",
+      "onboard_time": 1724387541,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188816,
+      "num": 188816,
+      "word": "披荆斩棘",
+      "onboard_time": 1724388681,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 188801,
@@ -875,12 +955,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 178580,
-      "num": 178580,
-      "word": "车险保费涨声一片",
-      "onboard_time": 1724387541,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 174917,
+      "num": 174917,
+      "word": "时代少年团渐染韶华写真",
+      "onboard_time": 1724388260,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 174153,
@@ -939,6 +1019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 164251,
+      "num": 164251,
+      "word": "张杰郑州",
+      "onboard_time": 1724390301,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 162322,
       "num": 162322,
       "word": "大龄相亲市场到底有多难",
@@ -976,6 +1064,14 @@
       "word": "老人藏4万6现金被儿子顺手扔掉",
       "onboard_time": 1724330061,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160132,
+      "num": 160132,
+      "word": "顾客花千元吃火锅吃出蟑螂索赔1万",
+      "onboard_time": 1724389880,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1064,6 +1160,14 @@
       "word": "曾舜晞陈都灵要是这么演我可不困了",
       "onboard_time": 1724336543,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 138007,
+      "num": 284987,
+      "word": "但拓不行 他不能捐",
+      "onboard_time": 1724390301,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -1347,6 +1451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 66262,
+      "num": 528861,
+      "word": "自己写的论文被误判为AI写作",
+      "onboard_time": 1724389222,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65538,
       "num": 69991,
       "word": "天秤座真的很容易出现黑马",
@@ -1401,6 +1513,22 @@
       "onboard_time": 1724382259,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 52015,
+      "num": 292928,
+      "word": "弟弟背哥哥上学13年考入同一所高校",
+      "onboard_time": 1724389222,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49284,
+      "num": 337703,
+      "word": "女生十小时夜爬老王山下山狂抖腿",
+      "onboard_time": 1724389222,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47377,
