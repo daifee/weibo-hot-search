@@ -1,6 +1,6 @@
 {
   "startTime": 1724344132300,
-  "endTime": 1724417608402,
+  "endTime": 1724419385542,
   "band_list": [
     {
       "raw_hot": 9647550,
@@ -227,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1116675,
+      "num": 1178668,
+      "word": "黄灿灿的微博像一本青春校园小说",
+      "onboard_time": 1724414001,
+      "rank": 0,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1105506,
       "num": 634767,
       "word": "大理摸排出大龄未婚男性3万余人",
@@ -312,6 +320,14 @@
       "word": "印度人为什么不试着冒充高种姓",
       "onboard_time": 1724402480,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 866721,
+      "num": 866721,
+      "word": "印度31岁女医生遭奸杀父母发声",
+      "onboard_time": 1724415740,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -441,6 +457,14 @@
       "onboard_time": 1724412921,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 643664,
+      "num": 643664,
+      "word": "刺猬票房",
+      "onboard_time": 1724411839,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 641428,
@@ -595,14 +619,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 546690,
-      "num": 503564,
-      "word": "刺猬票房",
-      "onboard_time": 1724411839,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 536918,
       "num": 536918,
       "word": "马嘉祺solo舞台",
@@ -617,6 +633,14 @@
       "onboard_time": 1724382441,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 531275,
+      "num": 531275,
+      "word": "全红婵因劳损跳水前要花半小时绑绷带",
+      "onboard_time": 1724418080,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 511808,
@@ -795,12 +819,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 383170,
+      "num": 383170,
+      "word": "张真源好会跳",
+      "onboard_time": 1724418920,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 380867,
       "num": 380867,
       "word": "时代峰峻发声明",
       "onboard_time": 1724339243,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 380752,
+      "num": 356616,
+      "word": "王一博戴耳钉",
+      "onboard_time": 1724415981,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 380093,
@@ -923,6 +963,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 332223,
+      "num": 332223,
+      "word": "孤舟大结局",
+      "onboard_time": 1724417961,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 331712,
+      "num": 331712,
+      "word": "贺峻霖谧境",
+      "onboard_time": 1724418320,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 330469,
       "num": 508845,
       "word": "基层很忙为何群众不买账",
@@ -945,14 +1001,6 @@
       "onboard_time": 1724371158,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 318774,
-      "num": 318774,
-      "word": "王一博戴耳钉",
-      "onboard_time": 1724415981,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 306879,
@@ -1020,7 +1068,7 @@
     },
     {
       "raw_hot": 295465,
-      "num": 409321,
+      "num": 552083,
       "word": "泰国出事飞机系顶奢酒店私有",
       "onboard_time": 1724403682,
       "rank": 32,
@@ -1267,6 +1315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 253457,
+      "num": 253457,
+      "word": "董倩谈潘展乐接受采访不耐烦原因",
+      "onboard_time": 1724418381,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251309,
       "num": 456770,
       "word": "实施网络传销涉案1000亿元嫌犯归案",
@@ -1297,6 +1353,14 @@
       "onboard_time": 1724407999,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 243740,
+      "num": 243740,
+      "word": "时代少年团澳门站女团舞",
+      "onboard_time": 1724418681,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 242939,
@@ -1523,6 +1587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 208145,
+      "num": 208145,
+      "word": "邓紫棋弹唱平行世界",
+      "onboard_time": 1724418802,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 208004,
       "num": 427628,
       "word": "家昱户筱试婚纱不像演的",
@@ -1587,6 +1659,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 204429,
+      "num": 204429,
+      "word": "金铲铲之战直播",
+      "onboard_time": 1724419280,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 204264,
       "num": 397121,
       "word": "泰国坠机5名乘客出生于浙江或上海",
@@ -1601,6 +1681,22 @@
       "onboard_time": 1724353871,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203611,
+      "num": 203611,
+      "word": "柳舟记23集",
+      "onboard_time": 1724416759,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 203271,
+      "num": 203271,
+      "word": "梦回防风邶",
+      "onboard_time": 1724419102,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 201758,
@@ -1625,6 +1721,14 @@
       "onboard_time": 1724393119,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199590,
+      "num": 199590,
+      "word": "高考完两个月仍无法释怀",
+      "onboard_time": 1724417360,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 199425,
@@ -1681,14 +1785,6 @@
       "onboard_time": 1724412259,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 195462,
-      "num": 195462,
-      "word": "柳舟记23集",
-      "onboard_time": 1724416759,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 195275,
@@ -1761,14 +1857,6 @@
       "onboard_time": 1724407520,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 190491,
-      "num": 190491,
-      "word": "高考完两个月仍无法释怀",
-      "onboard_time": 1724417360,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 190231,
@@ -1921,14 +2009,6 @@
       "onboard_time": 1724390301,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 184574,
-      "num": 545360,
-      "word": "印度31岁女医生遭奸杀父母发声",
-      "onboard_time": 1724415740,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 184513,
@@ -2739,6 +2819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 65476,
+      "num": 841165,
+      "word": "消防员靠传纸条确认300多户村民平安",
+      "onboard_time": 1724399481,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62731,
       "num": 571964,
       "word": "他在农村盖了十层哈尔的移动城堡",
@@ -2811,6 +2899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49818,
+      "num": 544144,
+      "word": "上月搭飞机登麦西岛中国游客发声",
+      "onboard_time": 1724418021,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49284,
       "num": 337703,
       "word": "女生十小时夜爬老王山下山狂抖腿",
@@ -2843,6 +2939,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 45889,
+      "num": 425307,
+      "word": "市民吐槽门诊楼现丁义珍式窗口",
+      "onboard_time": 1724418021,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42228,
       "num": 337929,
       "word": "独居是一场自由与孤独的博弈",
@@ -2867,19 +2971,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38446,
+      "num": 489442,
+      "word": "古风的诗意被它拿捏了",
+      "onboard_time": 1724415800,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36600,
       "num": 463572,
       "word": "我国已掌握最先进卫星技术",
       "onboard_time": 1724405420,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36325,
-      "num": 489442,
-      "word": "古风的诗意被它拿捏了",
-      "onboard_time": 1724415800,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -2995,11 +3099,27 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 23031,
+      "num": 243544,
+      "word": "拳击奥运冠军的反应速度",
+      "onboard_time": 1724418021,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 21886,
       "num": 302775,
       "word": "探访认知症养老院",
       "onboard_time": 1724392820,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18924,
+      "num": 479960,
+      "word": "机构称现房销售占比提至26.7%",
+      "onboard_time": 1724418021,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
