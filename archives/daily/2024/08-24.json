@@ -1,6 +1,6 @@
 {
   "startTime": 1724430385634,
-  "endTime": 1724445275840,
+  "endTime": 1724447933643,
   "band_list": [
     {
       "raw_hot": 1232325,
@@ -571,12 +571,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19361,
-      "num": 24812,
+      "raw_hot": 24041,
+      "num": 26597,
       "word": "梁王组合外出被当打卡人物",
       "onboard_time": 1724444892,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20964,
+      "num": 67209,
+      "word": "中式对称之美治愈强迫症",
+      "onboard_time": 1724444471,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19314,
@@ -587,11 +595,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 11102,
-      "num": 67209,
-      "word": "中式对称之美治愈强迫症",
-      "onboard_time": 1724444471,
-      "rank": 29,
+      "raw_hot": 7589,
+      "num": 65376,
+      "word": "艺术家出画室入船舱创人类记录",
+      "onboard_time": 1724446392,
+      "rank": 9,
       "category": "社会新闻"
     }
   ],
