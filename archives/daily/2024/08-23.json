@@ -1,6 +1,6 @@
 {
   "startTime": 1724344132300,
-  "endTime": 1724381408117,
+  "endTime": 1724383349953,
   "band_list": [
     {
       "raw_hot": 2407796,
@@ -11,7 +11,15 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1556959,
+      "raw_hot": 2052835,
+      "num": 2052835,
+      "word": "免费帮客人绞肉致残能索赔吗",
+      "onboard_time": 1724380940,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1585037,
       "num": 351869,
       "word": "印尼一女子洗澡时被鳄鱼拖走吞食",
       "onboard_time": 1724379559,
@@ -49,6 +57,14 @@
       "onboard_time": 1724368939,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1171429,
+      "num": 506573,
+      "word": "06年学生和97年老师坐一起像班主任",
+      "onboard_time": 1724380039,
+      "rank": 26,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1164326,
@@ -113,6 +129,14 @@
       "onboard_time": 1724341522,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 803681,
+      "num": 803681,
+      "word": "韩安冉否认曾和殷世航恋爱",
+      "onboard_time": 1724380758,
+      "rank": 49,
+      "category": "网红"
     },
     {
       "raw_hot": 803190,
@@ -195,14 +219,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 506573,
-      "num": 506573,
-      "word": "06年学生和97年老师坐一起像班主任",
-      "onboard_time": 1724380039,
-      "rank": 26,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 497260,
       "num": 497260,
       "word": "卫健委调查男子献血8次不能优先用血",
@@ -251,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 413890,
+      "num": 509235,
+      "word": "花少6概念海报",
+      "onboard_time": 1724381600,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 413680,
       "num": 413680,
       "word": "英国版比尔盖茨和女儿确认遇难",
@@ -265,6 +289,14 @@
       "onboard_time": 1724371638,
       "rank": 14,
       "category": "数码"
+    },
+    {
+      "raw_hot": 397353,
+      "num": 397353,
+      "word": "6年赚了300亿孙悟空才是真财神",
+      "onboard_time": 1724382140,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 380867,
@@ -291,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356243,
+      "num": 356243,
+      "word": "花儿与少年",
+      "onboard_time": 1724382140,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 345955,
       "num": 309250,
       "word": "去看演唱会找朋友借宿被拒了",
@@ -299,12 +339,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 325860,
-      "num": 325860,
-      "word": "韩安冉否认曾和殷世航恋爱",
-      "onboard_time": 1724380758,
-      "rank": 49,
-      "category": "网红"
+      "raw_hot": 338335,
+      "num": 338335,
+      "word": "长乐曲定档",
+      "onboard_time": 1724382380,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 334421,
+      "num": 334421,
+      "word": "狐妖小红娘月红篇收入",
+      "onboard_time": 1724382441,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 321380,
@@ -395,12 +443,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256371,
+      "num": 256371,
+      "word": "泰警方回应中国女子遭外国男子辱骂",
+      "onboard_time": 1724382862,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250013,
       "num": 250013,
       "word": "印度女性称其身边几乎都有遭性侵案例",
       "onboard_time": 1724325860,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244725,
+      "num": 258032,
+      "word": "魏哲鸣 劳斯儿",
+      "onboard_time": 1724382620,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 242559,
+      "num": 256494,
+      "word": "吴镇宇10秒无声演技",
+      "onboard_time": 1724381239,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 237949,
@@ -491,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204932,
+      "num": 204932,
+      "word": "电影刺猬今日上映",
+      "onboard_time": 1724382317,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 203685,
       "num": 277688,
       "word": "360称儿童手表错误信息非AI回答",
@@ -505,6 +585,14 @@
       "onboard_time": 1724368095,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195228,
+      "num": 195228,
+      "word": "当爸妈知道我在外租房会叫保洁阿姨",
+      "onboard_time": 1724382140,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 192684,
@@ -547,20 +635,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186642,
-      "num": 186642,
-      "word": "免费帮客人绞肉致残能索赔吗",
-      "onboard_time": 1724380940,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186198,
       "num": 186198,
       "word": "澳客机降落后一乘客强行打开应急出口",
       "onboard_time": 1724341280,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185718,
+      "num": 185718,
+      "word": "梁王组合称出圈后隐私曝光受困扰",
+      "onboard_time": 1724383279,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 183139,
@@ -595,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168607,
+      "num": 353847,
+      "word": "男子称车充电1分钟预估扣款7万多",
+      "onboard_time": 1724379382,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167511,
       "num": 167511,
       "word": "00后大学生试岗月薪一万五住家保姆",
@@ -619,6 +715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 165131,
+      "num": 165131,
+      "word": "他演了黑神话悟空百分之六七十的怪",
+      "onboard_time": 1724382862,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 162322,
       "num": 162322,
       "word": "大龄相亲市场到底有多难",
@@ -635,12 +739,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161567,
+      "num": 161567,
+      "word": "丫丫取笋费老鼻子劲",
+      "onboard_time": 1724380819,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160951,
+      "num": 160951,
+      "word": "超级红人节",
+      "onboard_time": 1724382740,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 160783,
       "num": 160783,
       "word": "老人藏4万6现金被儿子顺手扔掉",
       "onboard_time": 1724330061,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159485,
+      "num": 159485,
+      "word": "CPA",
+      "onboard_time": 1724374100,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 158971,
@@ -657,14 +785,6 @@
       "onboard_time": 1724380519,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 150982,
-      "num": 150982,
-      "word": "丫丫取笋费老鼻子劲",
-      "onboard_time": 1724380819,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149427,
@@ -721,14 +841,6 @@
       "onboard_time": 1724370678,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 141293,
-      "num": 141293,
-      "word": "吴镇宇10秒无声演技",
-      "onboard_time": 1724381239,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 140125,
@@ -803,14 +915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128661,
-      "num": 128661,
-      "word": "CPA",
-      "onboard_time": 1724374100,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
       "raw_hot": 125187,
       "num": 125187,
       "word": "梁伟铿回村吃席 老广标配",
@@ -859,20 +963,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 119464,
-      "num": 353847,
-      "word": "男子称车充电1分钟预估扣款7万多",
-      "onboard_time": 1724379382,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 118842,
       "num": 118842,
       "word": "干坐一天就能赚钱的工作",
       "onboard_time": 1724334321,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115693,
+      "num": 504158,
+      "word": "为什么我们越来越不爱看电视了",
+      "onboard_time": 1724382020,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114697,
@@ -1041,6 +1145,30 @@
       "onboard_time": 1724348534,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 42228,
+      "num": 337929,
+      "word": "独居是一场自由与孤独的博弈",
+      "onboard_time": 1724382020,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39166,
+      "num": 374776,
+      "word": "后厨是否干净不能单靠外卖员监督",
+      "onboard_time": 1724382020,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36661,
+      "num": 335654,
+      "word": "夏日派对青岛啤酒节",
+      "onboard_time": 1724382259,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 35464,
