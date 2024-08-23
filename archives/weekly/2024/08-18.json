@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724409503660,
+  "endTime": 1724411853081,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -1443,6 +1443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1169335,
+      "num": 833872,
+      "word": "印度10岁女孩遭叔叔性侵后勒死",
+      "onboard_time": 1724407640,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1164326,
       "num": 350789,
       "word": "男朋友断联第五天可以报警吗",
@@ -1608,6 +1616,14 @@
       "word": "小伙爆改自己2年后父亲变儿子",
       "onboard_time": 1724292859,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1105506,
+      "num": 634767,
+      "word": "大理摸排出大龄未婚男性3万余人",
+      "onboard_time": 1724405839,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -1953,14 +1969,6 @@
       "onboard_time": 1723958540,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 974303,
-      "num": 833872,
-      "word": "印度10岁女孩遭叔叔性侵后勒死",
-      "onboard_time": 1724407640,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 973851,
@@ -2339,6 +2347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 857924,
+      "num": 857924,
+      "word": "刘亦菲谈郑钦文夺冠",
+      "onboard_time": 1724408961,
+      "rank": 26,
+      "category": "作品衍生,体育"
+    },
+    {
       "raw_hot": 855483,
       "num": 855483,
       "word": "泰国坠机事件5名中国乘客遗体找到",
@@ -2545,6 +2561,14 @@
       "onboard_time": 1724309240,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 785581,
+      "num": 481751,
+      "word": "乐华艺人 精神状态",
+      "onboard_time": 1724408300,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 784260,
@@ -2785,6 +2809,14 @@
       "onboard_time": 1724382862,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 733444,
+      "num": 415676,
+      "word": "两个杜华",
+      "onboard_time": 1724408480,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 730566,
@@ -3201,14 +3233,6 @@
       "onboard_time": 1724061922,
       "rank": 21,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 634767,
-      "num": 634767,
-      "word": "大理摸排出大龄未婚男性3万余人",
-      "onboard_time": 1724405839,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 632267,
@@ -4251,14 +4275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 481751,
-      "num": 481751,
-      "word": "乐华艺人 精神状态",
-      "onboard_time": 1724408300,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 480507,
       "num": 480507,
       "word": "杨紫 花仙子",
@@ -4747,14 +4763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 415676,
-      "num": 415676,
-      "word": "两个杜华",
-      "onboard_time": 1724408480,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 414935,
       "num": 414935,
       "word": "乘客错过高铁退票被拒后起诉",
@@ -4793,14 +4801,6 @@
       "onboard_time": 1724155822,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 410439,
-      "num": 410439,
-      "word": "刘亦菲谈郑钦文夺冠",
-      "onboard_time": 1724408961,
-      "rank": 26,
-      "category": "作品衍生,体育"
     },
     {
       "raw_hot": 410209,
@@ -6403,6 +6403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 299721,
+      "num": 299721,
+      "word": "王一博是广东的",
+      "onboard_time": 1724409201,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 299665,
       "num": 299665,
       "word": "柳舟记 父母偏心可偏偏女儿最争气",
@@ -6457,6 +6465,14 @@
       "onboard_time": 1724394860,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 293896,
+      "num": 293896,
+      "word": "程潇cos黛西",
+      "onboard_time": 1724410099,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 293108,
@@ -6971,6 +6987,14 @@
       "category": "游戏,美食"
     },
     {
+      "raw_hot": 275039,
+      "num": 275039,
+      "word": "何炅 不要觉得内向的性格就不好",
+      "onboard_time": 1724408121,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 275015,
       "num": 275015,
       "word": "黄雅琼汪顺自拍",
@@ -7107,6 +7131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268745,
+      "num": 404870,
+      "word": "CPA经济法",
+      "onboard_time": 1724411718,
+      "rank": 10,
+      "category": "教育"
+    },
+    {
       "raw_hot": 268676,
       "num": 634142,
       "word": "生父与情人打死3岁女童案今日开庭",
@@ -7193,6 +7225,14 @@
       "onboard_time": 1724127383,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 266105,
+      "num": 266105,
+      "word": "吴宣仪乐华年会红毯",
+      "onboard_time": 1724409560,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 265989,
@@ -7579,6 +7619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 254518,
+      "num": 254518,
+      "word": "时代少年团演唱会直播",
+      "onboard_time": 1724411359,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 253797,
       "num": 253797,
       "word": "第7个中国医师节",
@@ -7889,6 +7937,14 @@
       "onboard_time": 1724156061,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 242939,
+      "num": 268405,
+      "word": "短剧镯中录",
+      "onboard_time": 1724409320,
+      "rank": 42,
+      "category": "游戏,剧集"
     },
     {
       "raw_hot": 242929,
@@ -8403,14 +8459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 230804,
-      "num": 230804,
-      "word": "何炅 不要觉得内向的性格就不好",
-      "onboard_time": 1724408121,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 230520,
       "num": 230520,
       "word": "内部消息孙杨复出战只报了400m自",
@@ -8851,6 +8899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 218659,
+      "num": 218659,
+      "word": "杜华问李汶翰你没事吧",
+      "onboard_time": 1724409981,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 218071,
       "num": 218071,
       "word": "国羽大家庭 团魂",
@@ -8913,14 +8969,6 @@
       "onboard_time": 1724056281,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 217164,
-      "num": 217164,
-      "word": "王一博是广东的",
-      "onboard_time": 1724409201,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 216965,
@@ -9057,6 +9105,14 @@
       "onboard_time": 1724321300,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 214423,
+      "num": 375063,
+      "word": "面筋哥感谢女友拼命救他三次",
+      "onboard_time": 1724407220,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214360,
@@ -9273,14 +9329,6 @@
       "onboard_time": 1724152341,
       "rank": 41,
       "category": "教育"
-    },
-    {
-      "raw_hot": 210950,
-      "num": 210950,
-      "word": "短剧镯中录",
-      "onboard_time": 1724409320,
-      "rank": 42,
-      "category": "游戏,剧集"
     },
     {
       "raw_hot": 210605,
@@ -11131,6 +11179,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 184040,
+      "num": 184040,
+      "word": "韩漫疑似抄袭汪顺人设",
+      "onboard_time": 1724411659,
+      "rank": 45,
+      "category": "体育,动漫"
+    },
+    {
       "raw_hot": 184001,
       "num": 857992,
       "word": "中药茶饮到底算不算药",
@@ -11579,6 +11635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177327,
+      "num": 177327,
+      "word": "多位博主发声质疑黑神话悟空抄袭",
+      "onboard_time": 1724411718,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 177322,
       "num": 177322,
       "word": "黑神话悟空Steam销量或达2000万份",
@@ -11961,6 +12025,14 @@
       "onboard_time": 1723989020,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 170922,
+      "num": 170922,
+      "word": "李诞评徐志胜脱口秀大叫驴",
+      "onboard_time": 1724411600,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 170789,
@@ -12409,6 +12481,14 @@
       "onboard_time": 1723951458,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164589,
+      "num": 164589,
+      "word": "刺猬票房",
+      "onboard_time": 1724411839,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 164422,
@@ -15411,6 +15491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 67670,
+      "num": 420635,
+      "word": "令人上瘾的烟卡要怎么断卡",
+      "onboard_time": 1724410820,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67646,
       "num": 456833,
       "word": "处暑至和大热天说声再见",
@@ -15456,14 +15544,6 @@
       "word": "第2次青藏科考重要成果集中发布",
       "onboard_time": 1723985660,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66546,
-      "num": 375063,
-      "word": "面筋哥感谢女友拼命救他三次",
-      "onboard_time": 1724407220,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -16115,6 +16195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47374,
+      "num": 335651,
+      "word": "何小鹏带雷军开MONA兜风",
+      "onboard_time": 1724410461,
+      "rank": 21,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 47012,
       "num": 47012,
       "word": "三只羊回应杭州办公总部出租",
@@ -16345,6 +16433,14 @@
       "onboard_time": 1724306541,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 39684,
+      "num": 385031,
+      "word": "烧bee玩偶引发网友质疑",
+      "onboard_time": 1724410820,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39612,
@@ -16819,6 +16915,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 25444,
+      "num": 388579,
+      "word": "男子内急借用镇政府厕所被保安阻拦",
+      "onboard_time": 1724411420,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25433,
       "num": 281542,
       "word": "汽车充电宝可自动导航实现桩找车",
@@ -17161,6 +17265,14 @@
       "onboard_time": 1724229500,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8003,
+      "num": 376429,
+      "word": "超级红人节红毯",
+      "onboard_time": 1724411061,
+      "rank": 14,
+      "category": "网红,互联网"
     },
     {
       "raw_hot": 7246,
