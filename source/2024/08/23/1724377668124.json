@@ -1,0 +1,410 @@
+{
+  "runTime": 1724377668124,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1723459,
+        "num": 1723459,
+        "word": "被骗至缅甸失联6天小伙家属发声",
+        "onboard_time": 1724371218,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 966659,
+        "num": 966659,
+        "word": "游泳馆办卡仅限45岁以下学士学位女性",
+        "onboard_time": 1724368939,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8180,
+        "num": 933964,
+        "word": "下达2亿元支持辽吉灾后应急恢复",
+        "onboard_time": 1724331861,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 902990,
+        "num": 902990,
+        "word": "四六级 就这个裸考爽",
+        "onboard_time": 1724374699,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 814479,
+        "num": 814479,
+        "word": "中国女子在泰国遭辱骂漂亮反击",
+        "onboard_time": 1724374819,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 787175,
+        "num": 787175,
+        "word": "未成年人整容易致面部比例失调",
+        "onboard_time": 1724371519,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 583618,
+        "num": 583618,
+        "word": "你真是瘦了",
+        "onboard_time": 1724372478,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 576272,
+        "num": 576272,
+        "word": "四六级分可查了",
+        "onboard_time": 1724370979,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 410060,
+        "num": 566188,
+        "word": "孙悟空推倒人参果树是有原因的",
+        "onboard_time": 1724367015,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 557079,
+        "num": 557079,
+        "word": "印度超30万医护罢工致医疗服务瘫痪",
+        "onboard_time": 1724369719,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 740010,
+        "num": 522458,
+        "word": "韩安冉妈妈拿走了小猪妹的黄金",
+        "onboard_time": 1724339840,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 467437,
+        "num": 467437,
+        "word": "樊振东陪小球迷打球像开了0.5倍速",
+        "onboard_time": 1724375960,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 439074,
+        "num": 439074,
+        "word": "医生解释玩3D游戏头晕想吐现象",
+        "onboard_time": 1724368939,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 418126,
+        "num": 418126,
+        "word": "卫健委调查男子献血8次不能优先用血",
+        "onboard_time": 1724337802,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383324,
+        "num": 383324,
+        "word": "iPhone16系列相机曝光",
+        "onboard_time": 1724371638,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 333935,
+        "num": 333935,
+        "word": "泰国小型飞机坠毁有5名中国籍乘客",
+        "onboard_time": 1724341522,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313544,
+        "num": 313544,
+        "word": "英国版比尔盖茨和女儿确认遇难",
+        "onboard_time": 1724340563,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283400,
+        "num": 313008,
+        "word": "易烊千玺发了好多羊",
+        "onboard_time": 1724371158,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261980,
+        "num": 312808,
+        "word": "黄晓明探班黄奕张晚意",
+        "onboard_time": 1724376859,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247978,
+        "num": 311753,
+        "word": "终于看到一个会提前报警的剧",
+        "onboard_time": 1724362391,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 831528,
+        "num": 311466,
+        "word": "男朋友断联第五天可以报警吗",
+        "onboard_time": 1724368396,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 462156,
+        "num": 310823,
+        "word": "印度清洁工验尸房强行与女子亲热",
+        "onboard_time": 1724337021,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423471,
+        "num": 309819,
+        "word": "男子通马桶眼睛被灼伤几乎失明",
+        "onboard_time": 1724339302,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331828,
+        "num": 309250,
+        "word": "去看演唱会找朋友借宿被拒了",
+        "onboard_time": 1724372120,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 308786,
+        "num": 308786,
+        "word": "四六级",
+        "onboard_time": 1724365393,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 275711,
+        "num": 275711,
+        "word": "肯德基恋与深空",
+        "onboard_time": 1724368577,
+        "rank": 25,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 237184,
+        "num": 237184,
+        "word": "张兰疑似回应张颖颖",
+        "onboard_time": 1724376980,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221236,
+        "num": 221236,
+        "word": "山姆烤鸡被曝吃出子弹状异物",
+        "onboard_time": 1724374880,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217233,
+        "num": 217233,
+        "word": "方大同 才二十三",
+        "onboard_time": 1724334743,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 213814,
+        "num": 216230,
+        "word": "娜扎 丞磊你能不能转行啊",
+        "onboard_time": 1724376379,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215599,
+        "num": 215599,
+        "word": "末伏最后1天",
+        "onboard_time": 1724373740,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214984,
+        "num": 214984,
+        "word": "第一次用外焦里嫩形容一台电脑",
+        "onboard_time": 1724374280,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187678,
+        "num": 187678,
+        "word": "孙颖莎龙道一等被记大功",
+        "onboard_time": 1724325620,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181094,
+        "num": 181094,
+        "word": "周迅 50岁正是迷死人的年纪",
+        "onboard_time": 1724328920,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179058,
+        "num": 179058,
+        "word": "豆豆淘汰徐志胜都哭了",
+        "onboard_time": 1724368095,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167511,
+        "num": 167511,
+        "word": "00后大学生试岗月薪一万五住家保姆",
+        "onboard_time": 1724369238,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166932,
+        "num": 166932,
+        "word": "孙颖莎用牛奶瓶颠球",
+        "onboard_time": 1724373260,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163978,
+        "num": 163978,
+        "word": "开学谐音祝福文案",
+        "onboard_time": 1724373140,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154784,
+        "num": 154784,
+        "word": "女子下雨天拉隐形车门被熏吐了",
+        "onboard_time": 1724336001,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154457,
+        "num": 154457,
+        "word": "XG演唱会 全世界的亚逼都来了",
+        "onboard_time": 1724377339,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154420,
+        "num": 154420,
+        "word": "印度为何发生这么多强奸案",
+        "onboard_time": 1724336961,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152310,
+        "num": 152310,
+        "word": "泰国北柳府一小型飞机坠毁",
+        "onboard_time": 1724372599,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151509,
+        "num": 151509,
+        "word": "黛玉之死 马拉之死 好死不死",
+        "onboard_time": 1724328980,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148286,
+        "num": 148286,
+        "word": "天命人山西集合",
+        "onboard_time": 1724377521,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145655,
+        "num": 145655,
+        "word": "郑钦文vs阿尼西莫娃",
+        "onboard_time": 1724370678,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142089,
+        "num": 142089,
+        "word": "辽宁建昌受灾村怎么样了",
+        "onboard_time": 1724375480,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140125,
+        "num": 140125,
+        "word": "檀健次也抢不到演唱会的票",
+        "onboard_time": 1724376800,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133385,
+        "num": 133385,
+        "word": "国自然放榜",
+        "onboard_time": 1724377100,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 132133,
+        "num": 132133,
+        "word": "有玩家因黑神话悟空难通关要求退款",
+        "onboard_time": 1724336842,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131722,
+        "num": 131722,
+        "word": "简爱",
+        "onboard_time": 1724377279,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#纪念邓小平同志诞辰120周年座谈会#"
+    }
+  }
+}
