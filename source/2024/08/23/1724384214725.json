@@ -1,0 +1,410 @@
+{
+  "runTime": 1724384214725,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2842443,
+        "num": 2842443,
+        "word": "免费帮客人绞肉致残能索赔吗",
+        "onboard_time": 1724380940,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1083349,
+        "num": 1083349,
+        "word": "被NHK解雇的中国籍员工全部发言",
+        "onboard_time": 1724377939,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134026,
+        "num": 877143,
+        "word": "末伏最后1天",
+        "onboard_time": 1724373740,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 802389,
+        "num": 802389,
+        "word": "四六级 就这个裸考爽",
+        "onboard_time": 1724374699,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 765187,
+        "num": 765187,
+        "word": "韩安冉否认曾和殷世航恋爱",
+        "onboard_time": 1724380758,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 743211,
+        "num": 743211,
+        "word": "中国女子在泰国遭辱骂漂亮反击",
+        "onboard_time": 1724374819,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6196,
+        "num": 721056,
+        "word": "下达2亿元支持辽吉灾后应急恢复",
+        "onboard_time": 1724331861,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 711790,
+        "num": 711790,
+        "word": "间谍借助学之名怂恿大山孩子窃密",
+        "onboard_time": 1724378420,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498334,
+        "num": 659467,
+        "word": "狐妖小红娘月红篇收入",
+        "onboard_time": 1724382441,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62134,
+        "num": 633315,
+        "word": "东北婚恋市场对体制内的执念有多深",
+        "onboard_time": 1724383881,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 624494,
+        "num": 624494,
+        "word": "黑神话结局",
+        "onboard_time": 1724378000,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 47032,
+        "num": 553535,
+        "word": "夏日派对青岛啤酒节",
+        "onboard_time": 1724382259,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 494913,
+        "num": 510053,
+        "word": "魏哲鸣 劳斯儿",
+        "onboard_time": 1724382620,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 509176,
+        "num": 509176,
+        "word": "6年赚了300亿孙悟空才是真财神",
+        "onboard_time": 1724382140,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 54520,
+        "num": 489693,
+        "word": "中药面包真能养生吗",
+        "onboard_time": 1724383881,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484389,
+        "num": 484389,
+        "word": "花少6概念海报",
+        "onboard_time": 1724381600,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 447358,
+        "num": 447358,
+        "word": "樊振东陪小球迷打球像开了0.5倍速",
+        "onboard_time": 1724375960,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 415825,
+        "num": 415825,
+        "word": "被骗至缅甸失联6天小伙家属发声",
+        "onboard_time": 1724371218,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 387611,
+        "num": 387611,
+        "word": "长乐曲定档",
+        "onboard_time": 1724382380,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 365842,
+        "num": 377601,
+        "word": "你真是瘦了",
+        "onboard_time": 1724372478,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1471166,
+        "num": 376736,
+        "word": "印尼一女子洗澡时被鳄鱼拖走吞食",
+        "onboard_time": 1724379559,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1037485,
+        "num": 375777,
+        "word": "06年学生和97年老师坐一起像班主任",
+        "onboard_time": 1724380039,
+        "rank": 21,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 374205,
+        "num": 374205,
+        "word": "印度清洁工验尸房强行与女子亲热",
+        "onboard_time": 1724337021,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355151,
+        "num": 373932,
+        "word": "游泳馆办卡仅限45岁以下学士学位女性",
+        "onboard_time": 1724368939,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373808,
+        "num": 373808,
+        "word": "泰警方回应中国女子遭外国男子辱骂",
+        "onboard_time": 1724382862,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320213,
+        "num": 320213,
+        "word": "余宇涵 鼻炎药",
+        "onboard_time": 1724378718,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303923,
+        "num": 303923,
+        "word": "男朋友断联第五天可以报警吗",
+        "onboard_time": 1724368396,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 280123,
+        "num": 280123,
+        "word": "吴镇宇10秒无声演技",
+        "onboard_time": 1724381239,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262102,
+        "num": 262102,
+        "word": "花儿与少年",
+        "onboard_time": 1724382140,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47377,
+        "num": 258121,
+        "word": "共享单车私装遛娃神器致孩子受伤",
+        "onboard_time": 1724383881,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290435,
+        "num": 257821,
+        "word": "梁王组合称出圈后隐私曝光受困扰",
+        "onboard_time": 1724383279,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256602,
+        "num": 256602,
+        "word": "郭刚堂说只有坚持才能有结果",
+        "onboard_time": 1724383341,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256478,
+        "num": 256478,
+        "word": "为什么我们越来越不爱看电视了",
+        "onboard_time": 1724382020,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239885,
+        "num": 239885,
+        "word": "他演了黑神话悟空百分之六七十的怪",
+        "onboard_time": 1724382862,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 238625,
+        "num": 238625,
+        "word": "男子通马桶眼睛被灼伤几乎失明",
+        "onboard_time": 1724339302,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237518,
+        "num": 237518,
+        "word": "四六级分可查了",
+        "onboard_time": 1724370979,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 236744,
+        "num": 236744,
+        "word": "CPA",
+        "onboard_time": 1724374100,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 229108,
+        "num": 229108,
+        "word": "印度超30万医护罢工致医疗服务瘫痪",
+        "onboard_time": 1724369719,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226861,
+        "num": 226861,
+        "word": "乃万 恋与深空",
+        "onboard_time": 1724384060,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219289,
+        "num": 219289,
+        "word": "当爸妈知道我在外租房会叫保洁阿姨",
+        "onboard_time": 1724382140,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211617,
+        "num": 211617,
+        "word": "四六级",
+        "onboard_time": 1724365393,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 204749,
+        "num": 204749,
+        "word": "电影刺猬今日上映",
+        "onboard_time": 1724382317,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 35029,
+        "num": 190519,
+        "word": "夏日歌单的正确打开方式",
+        "onboard_time": 1724383940,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188801,
+        "num": 188801,
+        "word": "终于知道狗为什么是个形容词了",
+        "onboard_time": 1724383579,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185310,
+        "num": 185310,
+        "word": "生日电话等弱口令密码有风险",
+        "onboard_time": 1724378420,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174240,
+        "num": 174240,
+        "word": "未成年人整容易致面部比例失调",
+        "onboard_time": 1724371519,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 174060,
+        "num": 174060,
+        "word": "娜扎 丞磊你能不能转行啊",
+        "onboard_time": 1724376379,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172403,
+        "num": 172403,
+        "word": "鞠婧祎网宣组声明",
+        "onboard_time": 1724380399,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171604,
+        "num": 171604,
+        "word": "男子称车充电1分钟预估扣款7万多",
+        "onboard_time": 1724379382,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169035,
+        "num": 169035,
+        "word": "张兰疑似回应张颖颖",
+        "onboard_time": 1724376980,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平强调始终走正道善于闯新路#"
+    }
+  }
+}

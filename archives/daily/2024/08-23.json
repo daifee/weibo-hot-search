@@ -1,7 +1,15 @@
 {
   "startTime": 1724344132300,
-  "endTime": 1724383349953,
+  "endTime": 1724384214725,
   "band_list": [
+    {
+      "raw_hot": 2842443,
+      "num": 2842443,
+      "word": "免费帮客人绞肉致残能索赔吗",
+      "onboard_time": 1724380940,
+      "rank": 31,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2407796,
       "num": 2407796,
@@ -11,16 +19,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 2052835,
-      "num": 2052835,
-      "word": "免费帮客人绞肉致残能索赔吗",
-      "onboard_time": 1724380940,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1585037,
-      "num": 351869,
+      "num": 376736,
       "word": "印尼一女子洗澡时被鳄鱼拖走吞食",
       "onboard_time": 1724379559,
       "rank": 20,
@@ -219,6 +219,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 509176,
+      "num": 509176,
+      "word": "6年赚了300亿孙悟空才是真财神",
+      "onboard_time": 1724382140,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 498334,
+      "num": 659467,
+      "word": "狐妖小红娘月红篇收入",
+      "onboard_time": 1724382441,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 497260,
       "num": 497260,
       "word": "卫健委调查男子献血8次不能优先用血",
@@ -227,12 +243,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 494913,
+      "num": 510053,
+      "word": "魏哲鸣 劳斯儿",
+      "onboard_time": 1724382620,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 489928,
       "num": 489928,
       "word": "杨倩晒清华大学研究生录取通知书",
       "onboard_time": 1724335400,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 484389,
+      "num": 509235,
+      "word": "花少6概念海报",
+      "onboard_time": 1724381600,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 482878,
@@ -267,14 +299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 413890,
-      "num": 509235,
-      "word": "花少6概念海报",
-      "onboard_time": 1724381600,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 413680,
       "num": 413680,
       "word": "英国版比尔盖茨和女儿确认遇难",
@@ -291,12 +315,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 397353,
-      "num": 397353,
-      "word": "6年赚了300亿孙悟空才是真财神",
-      "onboard_time": 1724382140,
-      "rank": 13,
-      "category": "游戏"
+      "raw_hot": 387611,
+      "num": 387611,
+      "word": "长乐曲定档",
+      "onboard_time": 1724382380,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 380867,
@@ -305,6 +329,14 @@
       "onboard_time": 1724339243,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 373808,
+      "num": 373808,
+      "word": "泰警方回应中国女子遭外国男子辱骂",
+      "onboard_time": 1724382862,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 367466,
@@ -339,22 +371,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 338335,
-      "num": 338335,
-      "word": "长乐曲定档",
-      "onboard_time": 1724382380,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 334421,
-      "num": 334421,
-      "word": "狐妖小红娘月红篇收入",
-      "onboard_time": 1724382441,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 321380,
       "num": 356508,
       "word": "易烊千玺发了好多羊",
@@ -387,12 +403,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 290435,
+      "num": 257821,
+      "word": "梁王组合称出圈后隐私曝光受困扰",
+      "onboard_time": 1724383279,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 287381,
       "num": 233025,
       "word": "乃万",
       "onboard_time": 1724326099,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 280123,
+      "num": 280123,
+      "word": "吴镇宇10秒无声演技",
+      "onboard_time": 1724381239,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 276660,
@@ -443,11 +475,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256371,
-      "num": 256371,
-      "word": "泰警方回应中国女子遭外国男子辱骂",
-      "onboard_time": 1724382862,
-      "rank": 30,
+      "raw_hot": 256602,
+      "num": 256602,
+      "word": "郭刚堂说只有坚持才能有结果",
+      "onboard_time": 1724383341,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256478,
+      "num": 504158,
+      "word": "为什么我们越来越不爱看电视了",
+      "onboard_time": 1724382020,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -459,20 +499,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 244725,
-      "num": 258032,
-      "word": "魏哲鸣 劳斯儿",
-      "onboard_time": 1724382620,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 242559,
-      "num": 256494,
-      "word": "吴镇宇10秒无声演技",
-      "onboard_time": 1724381239,
+      "raw_hot": 239885,
+      "num": 239885,
+      "word": "他演了黑神话悟空百分之六七十的怪",
+      "onboard_time": 1724382862,
       "rank": 45,
-      "category": "剧集"
+      "category": "游戏"
     },
     {
       "raw_hot": 237949,
@@ -489,6 +521,14 @@
       "onboard_time": 1724376980,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 236744,
+      "num": 236744,
+      "word": "CPA",
+      "onboard_time": 1724374100,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 235956,
@@ -523,12 +563,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 226861,
+      "num": 226861,
+      "word": "乃万 恋与深空",
+      "onboard_time": 1724384060,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221393,
       "num": 221393,
       "word": "王楚钦 下个周期更专注单打",
       "onboard_time": 1724326040,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219289,
+      "num": 219289,
+      "word": "当爸妈知道我在外租房会叫保洁阿姨",
+      "onboard_time": 1724382140,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 219166,
@@ -556,7 +612,7 @@
     },
     {
       "raw_hot": 215599,
-      "num": 502003,
+      "num": 877143,
       "word": "末伏最后1天",
       "onboard_time": 1724373740,
       "rank": 9,
@@ -587,20 +643,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195228,
-      "num": 195228,
-      "word": "当爸妈知道我在外租房会叫保洁阿姨",
-      "onboard_time": 1724382140,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 192684,
       "num": 192684,
       "word": "工作人员回应外卖不能带上楼",
       "onboard_time": 1724355733,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188801,
+      "num": 188801,
+      "word": "终于知道狗为什么是个形容词了",
+      "onboard_time": 1724383579,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 188531,
@@ -643,14 +699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 185718,
-      "num": 185718,
-      "word": "梁王组合称出圈后隐私曝光受困扰",
-      "onboard_time": 1724383279,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 183139,
       "num": 177029,
       "word": "逛公园碰到了国乒队",
@@ -667,6 +715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 171604,
+      "num": 353847,
+      "word": "男子称车充电1分钟预估扣款7万多",
+      "onboard_time": 1724379382,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170374,
       "num": 170374,
       "word": "泰国北柳府一小型飞机坠毁",
@@ -681,14 +737,6 @@
       "onboard_time": 1724378180,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 168607,
-      "num": 353847,
-      "word": "男子称车充电1分钟预估扣款7万多",
-      "onboard_time": 1724379382,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167511,
@@ -712,14 +760,6 @@
       "word": "黑神话悟空有多少个结局",
       "onboard_time": 1724378479,
       "rank": 40,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 165131,
-      "num": 165131,
-      "word": "他演了黑神话悟空百分之六七十的怪",
-      "onboard_time": 1724382862,
-      "rank": 45,
       "category": "游戏"
     },
     {
@@ -761,14 +801,6 @@
       "onboard_time": 1724330061,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159485,
-      "num": 159485,
-      "word": "CPA",
-      "onboard_time": 1724374100,
-      "rank": 45,
-      "category": "教育"
     },
     {
       "raw_hot": 158971,
@@ -971,14 +1003,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 115693,
-      "num": 504158,
-      "word": "为什么我们越来越不爱看电视了",
-      "onboard_time": 1724382020,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114697,
       "num": 114697,
       "word": "老人急病离世藏了15万的床垫被扔了",
@@ -1123,6 +1147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 62134,
+      "num": 633315,
+      "word": "东北婚恋市场对体制内的执念有多深",
+      "onboard_time": 1724383881,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59642,
       "num": 69955,
       "word": "医保费用断缴后该如何再参保",
@@ -1147,6 +1179,30 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 54520,
+      "num": 489693,
+      "word": "中药面包真能养生吗",
+      "onboard_time": 1724383881,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47377,
+      "num": 258121,
+      "word": "共享单车私装遛娃神器致孩子受伤",
+      "onboard_time": 1724383881,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47032,
+      "num": 553535,
+      "word": "夏日派对青岛啤酒节",
+      "onboard_time": 1724382259,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 42228,
       "num": 337929,
       "word": "独居是一场自由与孤独的博弈",
@@ -1163,20 +1219,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36661,
-      "num": 335654,
-      "word": "夏日派对青岛啤酒节",
-      "onboard_time": 1724382259,
-      "rank": 23,
-      "category": "美食"
-    },
-    {
       "raw_hot": 35464,
       "num": 74178,
       "word": "杭州第一座万达广场要卖了",
       "onboard_time": 1724334141,
       "rank": 38,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 35029,
+      "num": 190519,
+      "word": "夏日歌单的正确打开方式",
+      "onboard_time": 1724383940,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 34759,
@@ -1241,6 +1297,9 @@
     },
     {
       "word": "#继续深入学习运用邓小平理论#"
+    },
+    {
+      "word": "#习近平强调始终走正道善于闯新路#"
     }
   ]
 }
