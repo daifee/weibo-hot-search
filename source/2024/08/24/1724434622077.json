@@ -1,0 +1,410 @@
+{
+  "runTime": 1724434622077,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 741725,
+        "num": 741725,
+        "word": "中国象棋第一人王天一被批准逮捕",
+        "onboard_time": 1724430259,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487621,
+        "num": 487621,
+        "word": "黑神话悟空全球总销量破千万",
+        "onboard_time": 1724423481,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17774,
+        "num": 386120,
+        "word": "我国首个海上采油平台5.5G站点",
+        "onboard_time": 1724422101,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593814,
+        "num": 381838,
+        "word": "印度15岁放羊女孩遭轮奸",
+        "onboard_time": 1724407161,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365097,
+        "num": 365097,
+        "word": "台湾长荣集团认同九二共识反对台独",
+        "onboard_time": 1724425221,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 273273,
+        "num": 273273,
+        "word": "河南一名高一女生在校内身亡",
+        "onboard_time": 1724421681,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 268612,
+        "num": 268612,
+        "word": "蒋奇明演技",
+        "onboard_time": 1724428820,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260989,
+        "num": 260989,
+        "word": "张杰演唱会穿了歌迷设计的衣服",
+        "onboard_time": 1724428460,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 245452,
+        "num": 245452,
+        "word": "黄灿灿的微博像一本青春校园小说",
+        "onboard_time": 1724414001,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 47219,
+        "num": 207133,
+        "word": "住建部表示老百姓交了钱就应该拿到房",
+        "onboard_time": 1724433255,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403646,
+        "num": 206223,
+        "word": "印度31岁遭奸杀女医生系独生女",
+        "onboard_time": 1724427198,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 252558,
+        "num": 204800,
+        "word": "冯骥 为黑神话悟空喝彩",
+        "onboard_time": 1724427560,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192926,
+        "num": 192926,
+        "word": "印度女医生遇害前婚事已敲定",
+        "onboard_time": 1724424441,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169310,
+        "num": 169310,
+        "word": "潘展乐的事业编同事招人了",
+        "onboard_time": 1724429539,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164234,
+        "num": 164234,
+        "word": "全红婵因劳损跳水前要花半小时绑绷带",
+        "onboard_time": 1724418080,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163759,
+        "num": 163759,
+        "word": "男子通过酒店员工获取女友入住信息",
+        "onboard_time": 1724427681,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133991,
+        "num": 133991,
+        "word": "深圳提灯定损最新进展",
+        "onboard_time": 1724431396,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120130,
+        "num": 120130,
+        "word": "印度31岁女医生遭奸杀父母发声",
+        "onboard_time": 1724415740,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108115,
+        "num": 108115,
+        "word": "刺猬票房",
+        "onboard_time": 1724411839,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 93947,
+        "num": 107817,
+        "word": "乐华艺人 精神状态",
+        "onboard_time": 1724408300,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 563800,
+        "num": 106158,
+        "word": "黑神话悟空疑似抄袭",
+        "onboard_time": 1724386221,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 522792,
+        "num": 105528,
+        "word": "印度强奸案细节堪比恐怖片",
+        "onboard_time": 1724399900,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241389,
+        "num": 104107,
+        "word": "王一博cos低俗小说文森特",
+        "onboard_time": 1724407161,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 175667,
+        "num": 103815,
+        "word": "印度奸杀案",
+        "onboard_time": 1724393060,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103001,
+        "num": 103001,
+        "word": "男子内急借用镇政府厕所被保安阻拦",
+        "onboard_time": 1724411420,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106682,
+        "num": 102422,
+        "word": "印度10岁女孩遭叔叔性侵后勒死",
+        "onboard_time": 1724407640,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91848,
+        "num": 101845,
+        "word": "李现男高即视感",
+        "onboard_time": 1724430858,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 89102,
+        "num": 101140,
+        "word": "谁家男主第一集就被女主踩",
+        "onboard_time": 1724427441,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88986,
+        "num": 99982,
+        "word": "孤舟大结局",
+        "onboard_time": 1724417961,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53579,
+        "num": 99479,
+        "word": "没人管得了不想退押金的房东吗",
+        "onboard_time": 1724425221,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98881,
+        "num": 98881,
+        "word": "疑似林墨恋情",
+        "onboard_time": 1724420000,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96158,
+        "num": 96158,
+        "word": "小狗狗欺负大狗狗",
+        "onboard_time": 1724431277,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95509,
+        "num": 95509,
+        "word": "辽宁葫芦岛强降雨10人遇难14人失联",
+        "onboard_time": 1724424082,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94981,
+        "num": 94981,
+        "word": "董倩谈潘展乐接受采访不耐烦原因",
+        "onboard_time": 1724418381,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94944,
+        "num": 94944,
+        "word": "印度151名议员对妇女实施犯罪",
+        "onboard_time": 1724384301,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88253,
+        "num": 88253,
+        "word": "刺猬 黑色幽默",
+        "onboard_time": 1724415499,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 89559,
+        "num": 87984,
+        "word": "印度女医生",
+        "onboard_time": 1724299879,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84514,
+        "num": 84514,
+        "word": "吴宣仪好长的腿",
+        "onboard_time": 1724422882,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 82572,
+        "num": 82572,
+        "word": "王楚钦说马龙是最优秀的队长",
+        "onboard_time": 1724434515,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75380,
+        "num": 75380,
+        "word": "林墨工作室回应疑似林墨恋情",
+        "onboard_time": 1724433195,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72935,
+        "num": 72935,
+        "word": "专家称户口簿或将成为古董",
+        "onboard_time": 1724419521,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71252,
+        "num": 71252,
+        "word": "王一博李汶翰周艺轩年会合照",
+        "onboard_time": 1724424261,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 66722,
+        "num": 71244,
+        "word": "严浩翔粉发蓝瞳",
+        "onboard_time": 1724413460,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 66566,
+        "num": 71239,
+        "word": "快乐再出发3",
+        "onboard_time": 1724428099,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59388,
+        "num": 71234,
+        "word": "马嘉祺贺峻霖Simon",
+        "onboard_time": 1724422101,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 59139,
+        "num": 71228,
+        "word": "早安 一次外向换来一辈子内向",
+        "onboard_time": 1724425759,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58733,
+        "num": 71212,
+        "word": "刘亦菲谈郑钦文夺冠",
+        "onboard_time": 1724408961,
+        "rank": 46,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 58113,
+        "num": 71206,
+        "word": "何秋亊来成都了",
+        "onboard_time": 1724433616,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 52025,
+        "num": 71197,
+        "word": "马龙谢谢大家支持乒乓球",
+        "onboard_time": 1724426240,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54190,
+        "num": 71192,
+        "word": "马嘉祺solo舞台",
+        "onboard_time": 1724414719,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同斯塔默通电话#"
+    }
+  }
+}
