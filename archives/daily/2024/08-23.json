@@ -1,7 +1,15 @@
 {
   "startTime": 1724344132300,
-  "endTime": 1724369702013,
+  "endTime": 1724376349021,
   "band_list": [
+    {
+      "raw_hot": 2407796,
+      "num": 2407796,
+      "word": "被骗至缅甸失联6天小伙家属发声",
+      "onboard_time": 1724371218,
+      "rank": 0,
+      "category": "国外时政"
+    },
     {
       "raw_hot": 1541133,
       "num": 1541133,
@@ -9,6 +17,22 @@
       "onboard_time": 1724345057,
       "rank": 0,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1279642,
+      "num": 1279642,
+      "word": "游泳馆办卡仅限45岁以下学士学位女性",
+      "onboard_time": 1724368939,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1164326,
+      "num": 273372,
+      "word": "男朋友断联第五天可以报警吗",
+      "onboard_time": 1724368396,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 1145477,
@@ -43,12 +67,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 829199,
+      "num": 829199,
+      "word": "四六级 就这个裸考爽",
+      "onboard_time": 1724374699,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 824984,
       "num": 824984,
       "word": "泰国小型飞机坠毁有5名中国籍乘客",
       "onboard_time": 1724341522,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 684376,
+      "num": 684376,
+      "word": "印度超30万医护罢工致医疗服务瘫痪",
+      "onboard_time": 1724369719,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 592790,
+      "num": 592790,
+      "word": "四六级分可查了",
+      "onboard_time": 1724370979,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 590964,
@@ -59,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 588734,
+      "num": 588734,
+      "word": "孙悟空推倒人参果树是有原因的",
+      "onboard_time": 1724367015,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 570554,
       "num": 570554,
       "word": "方大同 才二十三",
@@ -67,20 +123,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 526138,
+      "num": 526138,
+      "word": "你真是瘦了",
+      "onboard_time": 1724372478,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 511808,
+      "num": 511808,
+      "word": "医生解释玩3D游戏头晕想吐现象",
+      "onboard_time": 1724368939,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 497260,
+      "num": 497260,
+      "word": "卫健委调查男子献血8次不能优先用血",
+      "onboard_time": 1724337802,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 489928,
       "num": 489928,
       "word": "杨倩晒清华大学研究生录取通知书",
       "onboard_time": 1724335400,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 460079,
-      "num": 460079,
-      "word": "卫健委调查男子献血8次不能优先用血",
-      "onboard_time": 1724337802,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 457670,
@@ -107,12 +179,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 381585,
-      "num": 381585,
+      "raw_hot": 425478,
+      "num": 425478,
+      "word": "未成年人整容易致面部比例失调",
+      "onboard_time": 1724371519,
+      "rank": 12,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 413680,
+      "num": 413680,
       "word": "英国版比尔盖茨和女儿确认遇难",
       "onboard_time": 1724340563,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408654,
+      "num": 408654,
+      "word": "iPhone16系列相机曝光",
+      "onboard_time": 1724371638,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 380867,
@@ -120,6 +208,38 @@
       "word": "时代峰峻发声明",
       "onboard_time": 1724339243,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 367466,
+      "num": 367466,
+      "word": "终于看到一个会提前报警的剧",
+      "onboard_time": 1724362391,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 361136,
+      "num": 361136,
+      "word": "中国女子在泰国遭辱骂漂亮反击",
+      "onboard_time": 1724374819,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 345955,
+      "num": 254365,
+      "word": "去看演唱会找朋友借宿被拒了",
+      "onboard_time": 1724372120,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 321380,
+      "num": 321380,
+      "word": "易烊千玺发了好多羊",
+      "onboard_time": 1724371158,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -155,14 +275,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 274816,
-      "num": 274816,
-      "word": "终于看到一个会提前报警的剧",
-      "onboard_time": 1724362391,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 268264,
       "num": 268264,
       "word": "女子下雨天拉隐形车门被熏吐了",
@@ -177,6 +289,22 @@
       "onboard_time": 1724324840,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253914,
+      "num": 253914,
+      "word": "肯德基恋与深空",
+      "onboard_time": 1724368577,
+      "rank": 24,
+      "category": "游戏,美食"
+    },
+    {
+      "raw_hot": 250679,
+      "num": 250679,
+      "word": "樊振东陪小球迷打球像开了0.5倍速",
+      "onboard_time": 1724375960,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 250013,
@@ -203,20 +331,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 231659,
+      "num": 231659,
+      "word": "郑钦文vs阿尼西莫娃",
+      "onboard_time": 1724370678,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 230881,
       "num": 230881,
       "word": "黑神话",
       "onboard_time": 1724315421,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 223137,
-      "num": 223137,
-      "word": "孙悟空推倒人参果树是有原因的",
-      "onboard_time": 1724367015,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 221393,
@@ -227,11 +355,27 @@
       "category": "体育"
     },
     {
-      "raw_hot": 214260,
-      "num": 214260,
+      "raw_hot": 219166,
+      "num": 219166,
+      "word": "第一次用外焦里嫩形容一台电脑",
+      "onboard_time": 1724374280,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 218704,
+      "num": 218704,
       "word": "印度为何发生这么多强奸案",
       "onboard_time": 1724336961,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212145,
+      "num": 212145,
+      "word": "山姆烤鸡被曝吃出子弹状异物",
+      "onboard_time": 1724374880,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -243,20 +387,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199157,
+      "num": 221615,
+      "word": "豆豆淘汰徐志胜都哭了",
+      "onboard_time": 1724368095,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192684,
       "num": 192684,
       "word": "工作人员回应外卖不能带上楼",
       "onboard_time": 1724355733,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189339,
-      "num": 167806,
-      "word": "豆豆淘汰徐志胜都哭了",
-      "onboard_time": 1724368095,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 188531,
@@ -267,12 +411,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 188219,
+      "num": 188219,
+      "word": "孙颖莎用牛奶瓶颠球",
+      "onboard_time": 1724373260,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187893,
       "num": 187893,
       "word": "马嘉祺 打耳钉",
       "onboard_time": 1724339181,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187634,
+      "num": 187634,
+      "word": "开学谐音祝福文案",
+      "onboard_time": 1724373140,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186718,
+      "num": 502003,
+      "word": "末伏最后1天",
+      "onboard_time": 1724373740,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186198,
@@ -289,6 +457,14 @@
       "onboard_time": 1724341941,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170374,
+      "num": 170374,
+      "word": "泰国北柳府一小型飞机坠毁",
+      "onboard_time": 1724372599,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166950,
@@ -331,14 +507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150546,
-      "num": 150546,
-      "word": "肯德基恋与深空",
-      "onboard_time": 1724368577,
-      "rank": 24,
-      "category": "游戏,美食"
-    },
-    {
       "raw_hot": 149427,
       "num": 149427,
       "word": "乐华家族演唱会",
@@ -371,11 +539,43 @@
       "category": "情感"
     },
     {
+      "raw_hot": 142063,
+      "num": 220498,
+      "word": "易烊千玺网站更新",
+      "onboard_time": 1724370678,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 140636,
+      "num": 140636,
+      "word": "00后大学生试岗月薪一万五住家保姆",
+      "onboard_time": 1724369238,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 139974,
+      "num": 139974,
+      "word": "辽宁建昌受灾村怎么样了",
+      "onboard_time": 1724375480,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138733,
       "num": 138733,
       "word": "曾舜晞陈都灵要是这么演我可不困了",
       "onboard_time": 1724336543,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 135406,
+      "num": 135406,
+      "word": "魏哲鸣口音",
+      "onboard_time": 1724370678,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -385,6 +585,14 @@
       "onboard_time": 1724326821,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 128661,
+      "num": 128661,
+      "word": "CPA",
+      "onboard_time": 1724374100,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 125187,
@@ -403,6 +611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123751,
+      "num": 123751,
+      "word": "美国人游重庆",
+      "onboard_time": 1724373622,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 123541,
       "num": 123541,
       "word": "WBG战胜LNG",
@@ -419,12 +635,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122968,
-      "num": 253408,
-      "word": "医生解释玩3D游戏头晕想吐现象",
-      "onboard_time": 1724368939,
-      "rank": 9,
-      "category": "游戏"
+      "raw_hot": 122514,
+      "num": 122514,
+      "word": "浙江婚假拟从3天延长至13天",
+      "onboard_time": 1724361312,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118842,
@@ -491,27 +707,11 @@
       "category": "科学科普,健康医疗"
     },
     {
-      "raw_hot": 102828,
-      "num": 102828,
-      "word": "男朋友断联第五天可以报警吗",
-      "onboard_time": 1724368396,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 101957,
       "num": 116059,
       "word": "印度村庄开小偷学校教小孩当扒手",
       "onboard_time": 1724351653,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 99857,
-      "num": 99857,
-      "word": "浙江婚假拟从3天延长至13天",
-      "onboard_time": 1724361312,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -545,14 +745,6 @@
       "onboard_time": 1724305580,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 79709,
-      "num": 79709,
-      "word": "00后大学生试岗月薪一万五住家保姆",
-      "onboard_time": 1724369238,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 79181,
@@ -668,7 +860,7 @@
     },
     {
       "raw_hot": 12941,
-      "num": 664596,
+      "num": 837559,
       "word": "下达2亿元支持辽吉灾后应急恢复",
       "onboard_time": 1724331861,
       "rank": 2,
