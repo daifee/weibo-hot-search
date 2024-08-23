@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724422870409,
+  "endTime": 1724423916165,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -489,6 +489,14 @@
       "onboard_time": 1724227760,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2063707,
+      "num": 2063707,
+      "word": "扁桃体手术身亡女孩家属称给医生送红包",
+      "onboard_time": 1724420659,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2058372,
@@ -1027,6 +1035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1481010,
+      "num": 1481010,
+      "word": "河南一名高一女生在校内身亡",
+      "onboard_time": 1724421681,
+      "rank": 7,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1479181,
       "num": 1308306,
       "word": "泰国大学生被学长火烧体毛霸凌",
@@ -1361,14 +1377,6 @@
       "onboard_time": 1724132002,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1231192,
-      "num": 1231192,
-      "word": "扁桃体手术身亡女孩家属称给医生送红包",
-      "onboard_time": 1724420659,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1231131,
@@ -2252,7 +2260,7 @@
     },
     {
       "raw_hot": 896852,
-      "num": 565141,
+      "num": 572777,
       "word": "疑似林墨恋情",
       "onboard_time": 1724420000,
       "rank": 31,
@@ -3097,14 +3105,6 @@
       "onboard_time": 1724115140,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 673899,
-      "num": 673899,
-      "word": "河南一名高一女生在校内身亡",
-      "onboard_time": 1724421681,
-      "rank": 7,
-      "category": "社会负面"
     },
     {
       "raw_hot": 673798,
@@ -4779,6 +4779,14 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 434131,
+      "num": 434131,
+      "word": "吴宣仪好长的腿",
+      "onboard_time": 1724422882,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 433209,
       "num": 433209,
       "word": "刘惜君金发",
@@ -5041,6 +5049,14 @@
       "onboard_time": 1723974559,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 404390,
+      "num": 404390,
+      "word": "马嘉祺贺峻霖Simon",
+      "onboard_time": 1724422101,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 403445,
@@ -5665,6 +5681,14 @@
       "onboard_time": 1724382140,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 355554,
+      "num": 355554,
+      "word": "时代少年团唱了干杯",
+      "onboard_time": 1724422942,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 355110,
@@ -6523,14 +6547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 306593,
-      "num": 306593,
-      "word": "马嘉祺贺峻霖Simon",
-      "onboard_time": 1724422101,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
       "raw_hot": 306514,
       "num": 358295,
       "word": "黄晓明探班黄奕张晚意",
@@ -6649,6 +6665,14 @@
       "onboard_time": 1723945158,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 298783,
+      "num": 459137,
+      "word": "专家称户口簿或将成为古董",
+      "onboard_time": 1724419521,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 298257,
@@ -6777,6 +6801,14 @@
       "onboard_time": 1724066840,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291399,
+      "num": 291399,
+      "word": "何蓝逗cos佟湘玉",
+      "onboard_time": 1724422522,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 291322,
@@ -7233,6 +7265,14 @@
       "onboard_time": 1724368577,
       "rank": 24,
       "category": "游戏,美食"
+    },
+    {
+      "raw_hot": 275217,
+      "num": 275217,
+      "word": "黑神话悟空全球总销量破千万",
+      "onboard_time": 1724423481,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 275039,
@@ -8123,6 +8163,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 245403,
+      "num": 245403,
+      "word": "天蝎座不相信一见钟情",
+      "onboard_time": 1724422040,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 244433,
       "num": 302847,
       "word": "时代少年团澳门演唱会二开",
@@ -8721,6 +8769,14 @@
       "onboard_time": 1724229799,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 231024,
+      "num": 231024,
+      "word": "AG锁定年总大师组",
+      "onboard_time": 1724423241,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 231017,
@@ -9427,14 +9483,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 213865,
-      "num": 459137,
-      "word": "专家称户口簿或将成为古董",
-      "onboard_time": 1724419521,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213762,
       "num": 612694,
       "word": "被虐致死女童母亲失眠大把吃安眠药",
@@ -9699,14 +9747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 209285,
-      "num": 209285,
-      "word": "何蓝逗cos佟湘玉",
-      "onboard_time": 1724422522,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 209213,
       "num": 209213,
       "word": "孙颖莎说热爱依旧",
@@ -9801,6 +9841,14 @@
       "onboard_time": 1724386100,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207985,
+      "num": 207985,
+      "word": "严浩翔演唱会solo打碟",
+      "onboard_time": 1724423541,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 207982,
@@ -9931,6 +9979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 206294,
+      "num": 206294,
+      "word": "王俊凯眼神戏",
+      "onboard_time": 1724423783,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 206283,
       "num": 316678,
       "word": "边水往事",
@@ -10049,6 +10105,14 @@
       "onboard_time": 1724301261,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205113,
+      "num": 205113,
+      "word": "xym",
+      "onboard_time": 1724422820,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 205082,
@@ -10499,14 +10563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199176,
-      "num": 199176,
-      "word": "天蝎座不相信一见钟情",
-      "onboard_time": 1724422040,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 199157,
       "num": 221615,
       "word": "豆豆淘汰徐志胜都哭了",
@@ -10609,14 +10665,6 @@
       "onboard_time": 1723953379,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 196933,
-      "num": 196933,
-      "word": "xym",
-      "onboard_time": 1724422820,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 196851,
@@ -10905,6 +10953,14 @@
       "onboard_time": 1724045360,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 193033,
+      "num": 193033,
+      "word": "柳舟记双双掉马",
+      "onboard_time": 1724423902,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 192965,
@@ -15963,6 +16019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 67911,
+      "num": 573109,
+      "word": "学校否认高一女生因军训中暑身亡",
+      "onboard_time": 1724423421,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67905,
       "num": 67905,
       "word": "鹿晗新歌",
@@ -16707,6 +16771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45751,
+      "num": 1482275,
+      "word": "我国首个海上采油平台5.5G站点",
+      "onboard_time": 1724422101,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45545,
       "num": 84090,
       "word": "陈芋汐到大学报到被递扩音器",
@@ -16769,6 +16841,14 @@
       "onboard_time": 1724177772,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 43554,
+      "num": 441293,
+      "word": "陈震脱口秀首秀",
+      "onboard_time": 1724421621,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 42993,
@@ -17187,14 +17267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 32217,
-      "num": 420981,
-      "word": "陈震脱口秀首秀",
-      "onboard_time": 1724421621,
-      "rank": 14,
-      "category": "网红"
-    },
-    {
       "raw_hot": 32136,
       "num": 294080,
       "word": "12亿协议存款消失牵出多个关联方",
@@ -17299,14 +17371,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 29354,
-      "num": 1134119,
-      "word": "我国首个海上采油平台5.5G站点",
-      "onboard_time": 1724422101,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 29294,
       "num": 682453,
       "word": "物业回应外卖员进小区必须买瓶水",
@@ -17393,6 +17457,14 @@
       "onboard_time": 1724271611,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 27320,
+      "num": 455564,
+      "word": "民企二代们卷向网红赛道",
+      "onboard_time": 1724423421,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27041,
@@ -17555,6 +17627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22438,
+      "num": 294544,
+      "word": "乐在其中茶香搭子好city",
+      "onboard_time": 1724422762,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 22103,
       "num": 52937,
       "word": "游戏科学的赤潮曾被苹果商店全球推荐",
@@ -17657,14 +17737,6 @@
       "onboard_time": 1724349674,
       "rank": 9,
       "category": "游戏,旅游"
-    },
-    {
-      "raw_hot": 16714,
-      "num": 201252,
-      "word": "乐在其中茶香搭子好city",
-      "onboard_time": 1724422762,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 16103,
@@ -17910,6 +17982,9 @@
     },
     {
       "word": "#进一步推动西部大开发形成新格局#"
+    },
+    {
+      "word": "#习近平同斯塔默通电话#"
     }
   ]
 }

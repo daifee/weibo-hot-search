@@ -1,0 +1,410 @@
+{
+  "runTime": 1724423916165,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2063707,
+        "num": 2063707,
+        "word": "扁桃体手术身亡女孩家属称给医生送红包",
+        "onboard_time": 1724420659,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1507481,
+        "num": 1507481,
+        "word": "全红婵因劳损跳水前要花半小时绑绷带",
+        "onboard_time": 1724418080,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45751,
+        "num": 1482275,
+        "word": "我国首个海上采油平台5.5G站点",
+        "onboard_time": 1724422101,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1554430,
+        "num": 1481801,
+        "word": "印度15岁放羊女孩遭轮奸",
+        "onboard_time": 1724407161,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1481010,
+        "num": 1481010,
+        "word": "河南一名高一女生在校内身亡",
+        "onboard_time": 1724421681,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 978942,
+        "num": 978942,
+        "word": "黄灿灿的微博像一本青春校园小说",
+        "onboard_time": 1724414001,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 614461,
+        "num": 614461,
+        "word": "男子内急借用镇政府厕所被保安阻拦",
+        "onboard_time": 1724411420,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609336,
+        "num": 609336,
+        "word": "印度31岁女医生遭奸杀父母发声",
+        "onboard_time": 1724415740,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586573,
+        "num": 586573,
+        "word": "刺猬票房",
+        "onboard_time": 1724411839,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 67911,
+        "num": 573109,
+        "word": "学校否认高一女生因军训中暑身亡",
+        "onboard_time": 1724423421,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 675036,
+        "num": 572777,
+        "word": "疑似林墨恋情",
+        "onboard_time": 1724420000,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 560749,
+        "num": 560749,
+        "word": "董倩谈潘展乐接受采访不耐烦原因",
+        "onboard_time": 1724418381,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 485896,
+        "num": 485896,
+        "word": "印度151名议员对妇女实施犯罪",
+        "onboard_time": 1724384301,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27320,
+        "num": 455564,
+        "word": "民企二代们卷向网红赛道",
+        "onboard_time": 1724423421,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43554,
+        "num": 441293,
+        "word": "陈震脱口秀首秀",
+        "onboard_time": 1724421621,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 434131,
+        "num": 434131,
+        "word": "吴宣仪好长的腿",
+        "onboard_time": 1724422882,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 404390,
+        "num": 404390,
+        "word": "马嘉祺贺峻霖Simon",
+        "onboard_time": 1724422101,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 387750,
+        "num": 387750,
+        "word": "印度10岁女孩遭叔叔性侵后勒死",
+        "onboard_time": 1724407640,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384625,
+        "num": 384625,
+        "word": "张真源严浩翔认输舞台首秀",
+        "onboard_time": 1724420302,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 355554,
+        "num": 355554,
+        "word": "时代少年团唱了干杯",
+        "onboard_time": 1724422942,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 2029359,
+        "num": 353483,
+        "word": "黑神话悟空疑似抄袭",
+        "onboard_time": 1724386221,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1220984,
+        "num": 350709,
+        "word": "印度强奸案细节堪比恐怖片",
+        "onboard_time": 1724399900,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645901,
+        "num": 346929,
+        "word": "王一博cos低俗小说文森特",
+        "onboard_time": 1724407161,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 544889,
+        "num": 345087,
+        "word": "印度奸杀案",
+        "onboard_time": 1724393060,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342141,
+        "num": 342141,
+        "word": "刺猬 黑色幽默",
+        "onboard_time": 1724415499,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 298783,
+        "num": 298783,
+        "word": "专家称户口簿或将成为古董",
+        "onboard_time": 1724419521,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22438,
+        "num": 294544,
+        "word": "乐在其中茶香搭子好city",
+        "onboard_time": 1724422762,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291875,
+        "num": 291875,
+        "word": "乐华艺人 精神状态",
+        "onboard_time": 1724408300,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170274,
+        "num": 291437,
+        "word": "孙颖莎樊振东等将访港",
+        "onboard_time": 1724412921,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291399,
+        "num": 291399,
+        "word": "何蓝逗cos佟湘玉",
+        "onboard_time": 1724422522,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 283113,
+        "num": 283113,
+        "word": "大理摸排出大龄未婚男性3万余人",
+        "onboard_time": 1724405839,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280370,
+        "num": 280370,
+        "word": "孤舟大结局",
+        "onboard_time": 1724417961,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275217,
+        "num": 275217,
+        "word": "黑神话悟空全球总销量破千万",
+        "onboard_time": 1724423481,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 267204,
+        "num": 267204,
+        "word": "刘亦菲谈郑钦文夺冠",
+        "onboard_time": 1724408961,
+        "rank": 33,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 267130,
+        "num": 267130,
+        "word": "时代少年团演唱会直播",
+        "onboard_time": 1724411359,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 247168,
+        "num": 247168,
+        "word": "严浩翔粉发蓝瞳",
+        "onboard_time": 1724413460,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 245403,
+        "num": 245403,
+        "word": "天蝎座不相信一见钟情",
+        "onboard_time": 1724422040,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 236264,
+        "num": 236264,
+        "word": "面筋哥感谢女友拼命救他三次",
+        "onboard_time": 1724407220,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231024,
+        "num": 231024,
+        "word": "AG锁定年总大师组",
+        "onboard_time": 1724423241,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 215363,
+        "num": 215363,
+        "word": "吴宣仪乐华年会红毯",
+        "onboard_time": 1724409560,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 214482,
+        "num": 214482,
+        "word": "迪丽热巴无袖白背心",
+        "onboard_time": 1724421501,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207985,
+        "num": 207985,
+        "word": "严浩翔演唱会solo打碟",
+        "onboard_time": 1724423541,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 206294,
+        "num": 206294,
+        "word": "王俊凯眼神戏",
+        "onboard_time": 1724423783,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205113,
+        "num": 205113,
+        "word": "xym",
+        "onboard_time": 1724422820,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 203739,
+        "num": 203739,
+        "word": "高考完两个月仍无法释怀",
+        "onboard_time": 1724417360,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201034,
+        "num": 201034,
+        "word": "印度女医生",
+        "onboard_time": 1724299879,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198960,
+        "num": 198960,
+        "word": "王一博戴耳钉",
+        "onboard_time": 1724415981,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196471,
+        "num": 196471,
+        "word": "成都GG对战Gr",
+        "onboard_time": 1724420840,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 193033,
+        "num": 193033,
+        "word": "柳舟记双双掉马",
+        "onboard_time": 1724423902,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191630,
+        "num": 191630,
+        "word": "丁程鑫宋亚轩刘耀文合唱黑色柳丁",
+        "onboard_time": 1724420961,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同斯塔默通电话#"
+    }
+  }
+}
