@@ -1,6 +1,6 @@
 {
   "startTime": 1724430385634,
-  "endTime": 1724438389444,
+  "endTime": 1724440588955,
   "band_list": [
     {
       "raw_hot": 1232325,
@@ -531,7 +531,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17437,
+      "raw_hot": 28137,
+      "num": 36535,
+      "word": "黑泽良平模仿林志玲",
+      "onboard_time": 1724440032,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 19314,
       "num": 273316,
       "word": "感谢救援人员带来的安全感",
       "onboard_time": 1724421621,
