@@ -1,0 +1,410 @@
+{
+  "runTime": 1724426640297,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1971261,
+        "num": 1971261,
+        "word": "河南一名高一女生在校内身亡",
+        "onboard_time": 1724421681,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1629876,
+        "num": 1629876,
+        "word": "黑神话悟空全球总销量破千万",
+        "onboard_time": 1724423481,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 59541,
+        "num": 1498484,
+        "word": "我国首个海上采油平台5.5G站点",
+        "onboard_time": 1724422101,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1455862,
+        "num": 1455862,
+        "word": "印度15岁放羊女孩遭轮奸",
+        "onboard_time": 1724407161,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 991136,
+        "num": 991136,
+        "word": "全红婵因劳损跳水前要花半小时绑绷带",
+        "onboard_time": 1724418080,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 824804,
+        "num": 824804,
+        "word": "黄灿灿的微博像一本青春校园小说",
+        "onboard_time": 1724414001,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 634070,
+        "num": 634070,
+        "word": "吴宣仪好长的腿",
+        "onboard_time": 1724422882,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188835,
+        "num": 551481,
+        "word": "台湾长荣集团认同九二共识反对台独",
+        "onboard_time": 1724425221,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 497681,
+        "num": 497681,
+        "word": "何蓝逗cos佟湘玉",
+        "onboard_time": 1724422522,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 69048,
+        "num": 476656,
+        "word": "没人管得了不想退押金的房东吗",
+        "onboard_time": 1724425221,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532090,
+        "num": 476332,
+        "word": "印度151名议员对妇女实施犯罪",
+        "onboard_time": 1724384301,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474315,
+        "num": 474315,
+        "word": "刺猬票房",
+        "onboard_time": 1724411839,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 436181,
+        "num": 436181,
+        "word": "男子内急借用镇政府厕所被保安阻拦",
+        "onboard_time": 1724411420,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51106,
+        "num": 426599,
+        "word": "王天一涉嫌买棋卖棋被批准逮捕",
+        "onboard_time": 1724425821,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20139,
+        "num": 425492,
+        "word": "超级红人节年度荣誉",
+        "onboard_time": 1724425221,
+        "rank": 14,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 34086,
+        "num": 424518,
+        "word": "乐在其中茶香搭子好city",
+        "onboard_time": 1724422762,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424492,
+        "num": 424492,
+        "word": "王一博李汶翰周艺轩年会合照",
+        "onboard_time": 1724424261,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 405722,
+        "num": 405722,
+        "word": "印度女医生遇害前婚事已敲定",
+        "onboard_time": 1724424441,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347362,
+        "num": 347362,
+        "word": "疑似林墨恋情",
+        "onboard_time": 1724420000,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388007,
+        "num": 346199,
+        "word": "印度10岁女孩遭叔叔性侵后勒死",
+        "onboard_time": 1724407640,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1552529,
+        "num": 339499,
+        "word": "黑神话悟空疑似抄袭",
+        "onboard_time": 1724386221,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1161531,
+        "num": 333899,
+        "word": "印度强奸案细节堪比恐怖片",
+        "onboard_time": 1724399900,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504681,
+        "num": 329629,
+        "word": "王一博cos低俗小说文森特",
+        "onboard_time": 1724407161,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 538245,
+        "num": 325494,
+        "word": "印度奸杀案",
+        "onboard_time": 1724393060,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324204,
+        "num": 324204,
+        "word": "董倩谈潘展乐接受采访不耐烦原因",
+        "onboard_time": 1724418381,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 324067,
+        "num": 324067,
+        "word": "辽宁葫芦岛强降雨10人遇难14人失联",
+        "onboard_time": 1724424082,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300783,
+        "num": 300783,
+        "word": "刺猬 黑色幽默",
+        "onboard_time": 1724415499,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 282299,
+        "num": 282299,
+        "word": "印度31岁女医生遭奸杀父母发声",
+        "onboard_time": 1724415740,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257654,
+        "num": 257654,
+        "word": "马嘉祺贺峻霖Simon",
+        "onboard_time": 1724422101,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 253577,
+        "num": 253577,
+        "word": "迪丽热巴无袖白背心",
+        "onboard_time": 1724421501,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240606,
+        "num": 240606,
+        "word": "印度女医生",
+        "onboard_time": 1724299879,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233265,
+        "num": 233265,
+        "word": "乐华艺人 精神状态",
+        "onboard_time": 1724408300,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 225557,
+        "num": 225557,
+        "word": "孤舟大结局",
+        "onboard_time": 1724417961,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216366,
+        "num": 216366,
+        "word": "专家称户口簿或将成为古董",
+        "onboard_time": 1724419521,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212500,
+        "num": 212500,
+        "word": "刘亦菲谈郑钦文夺冠",
+        "onboard_time": 1724408961,
+        "rank": 34,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 206475,
+        "num": 206475,
+        "word": "马龙谢谢大家支持乒乓球",
+        "onboard_time": 1724426240,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200232,
+        "num": 200232,
+        "word": "学校否认高一女生因军训中暑身亡",
+        "onboard_time": 1724423421,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199961,
+        "num": 199961,
+        "word": "鲍威尔讲话",
+        "onboard_time": 1724425521,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 199593,
+        "num": 199593,
+        "word": "时代少年团演唱会直播",
+        "onboard_time": 1724411359,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199479,
+        "num": 199479,
+        "word": "郑钧 歌手没有专业的",
+        "onboard_time": 1724425580,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195806,
+        "num": 195806,
+        "word": "天蝎座不相信一见钟情",
+        "onboard_time": 1724422040,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193966,
+        "num": 193966,
+        "word": "GR战队",
+        "onboard_time": 1724426480,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192813,
+        "num": 192813,
+        "word": "严浩翔粉发蓝瞳",
+        "onboard_time": 1724413460,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182094,
+        "num": 182094,
+        "word": "曾舜晞去看了时代少年团演唱会",
+        "onboard_time": 1724424021,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180864,
+        "num": 180864,
+        "word": "井胧感谢石凯阿如那",
+        "onboard_time": 1724426300,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177399,
+        "num": 177399,
+        "word": "面筋哥感谢女友拼命救他三次",
+        "onboard_time": 1724407220,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172571,
+        "num": 172571,
+        "word": "丁程鑫跳ABCD",
+        "onboard_time": 1724424201,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170096,
+        "num": 170096,
+        "word": "AG锁定年总大师组",
+        "onboard_time": 1724423241,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176054,
+        "num": 169689,
+        "word": "时代少年团唱了干杯",
+        "onboard_time": 1724422942,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169050,
+        "num": 169050,
+        "word": "美联储",
+        "onboard_time": 1724426600,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同斯塔默通电话#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1724344132300,
-  "endTime": 1724423916165,
+  "endTime": 1724426640297,
   "band_list": [
     {
       "raw_hot": 9647550,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1971261,
+      "num": 1971261,
+      "word": "河南一名高一女生在校内身亡",
+      "onboard_time": 1724421681,
+      "rank": 7,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1954007,
       "num": 1954007,
       "word": "F勒布伦谈球拍事件",
@@ -113,6 +121,14 @@
       "onboard_time": 1724394739,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1629876,
+      "num": 1629876,
+      "word": "黑神话悟空全球总销量破千万",
+      "onboard_time": 1724423481,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 1609694,
@@ -161,14 +177,6 @@
       "onboard_time": 1724414001,
       "rank": 0,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1481010,
-      "num": 1481010,
-      "word": "河南一名高一女生在校内身亡",
-      "onboard_time": 1724421681,
-      "rank": 7,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1472318,
@@ -515,6 +523,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 634070,
+      "num": 634070,
+      "word": "吴宣仪好长的腿",
+      "onboard_time": 1724422882,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 632267,
       "num": 632267,
       "word": "特朗普再遭死亡威胁",
@@ -691,6 +707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 497681,
+      "num": 497681,
+      "word": "何蓝逗cos佟湘玉",
+      "onboard_time": 1724422522,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 497260,
       "num": 497260,
       "word": "卫健委调查男子献血8次不能优先用血",
@@ -795,20 +819,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 434131,
-      "num": 434131,
-      "word": "吴宣仪好长的腿",
-      "onboard_time": 1724422882,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 428623,
       "num": 428623,
       "word": "CPA经济法",
       "onboard_time": 1724411718,
       "rank": 10,
       "category": "教育"
+    },
+    {
+      "raw_hot": 424492,
+      "num": 424492,
+      "word": "王一博李汶翰周艺轩年会合照",
+      "onboard_time": 1724424261,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 422694,
@@ -841,6 +865,14 @@
       "onboard_time": 1724371638,
       "rank": 14,
       "category": "数码"
+    },
+    {
+      "raw_hot": 405722,
+      "num": 405722,
+      "word": "印度女医生遇害前婚事已敲定",
+      "onboard_time": 1724424441,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 404390,
@@ -1059,6 +1091,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 324067,
+      "num": 324067,
+      "word": "辽宁葫芦岛强降雨10人遇难14人失联",
+      "onboard_time": 1724424082,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 322948,
       "num": 322948,
       "word": "成都GG对战Gr",
@@ -1171,14 +1211,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 291399,
-      "num": 291399,
-      "word": "何蓝逗cos佟湘玉",
-      "onboard_time": 1724422522,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 291148,
       "num": 291148,
       "word": "印度女医生",
@@ -1265,14 +1297,6 @@
       "onboard_time": 1724368577,
       "rank": 24,
       "category": "游戏,美食"
-    },
-    {
-      "raw_hot": 275217,
-      "num": 275217,
-      "word": "黑神话悟空全球总销量破千万",
-      "onboard_time": 1724423481,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 275039,
@@ -1419,6 +1443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 253577,
+      "num": 253577,
+      "word": "迪丽热巴无袖白背心",
+      "onboard_time": 1724421501,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 251309,
       "num": 456770,
       "word": "实施网络传销涉案1000亿元嫌犯归案",
@@ -1545,14 +1577,6 @@
       "onboard_time": 1724336061,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 232742,
-      "num": 232742,
-      "word": "迪丽热巴无袖白背心",
-      "onboard_time": 1724421501,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 231844,
@@ -1779,6 +1803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206475,
+      "num": 206475,
+      "word": "马龙谢谢大家支持乒乓球",
+      "onboard_time": 1724426240,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206343,
       "num": 206343,
       "word": "丁程鑫演唱会大屏视角",
@@ -1891,6 +1923,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 200232,
+      "num": 573109,
+      "word": "学校否认高一女生因军训中暑身亡",
+      "onboard_time": 1724423421,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200052,
       "num": 275323,
       "word": "娜扎 我跟你之间什么都可以",
@@ -1905,6 +1945,22 @@
       "onboard_time": 1724420481,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 199961,
+      "num": 199961,
+      "word": "鲍威尔讲话",
+      "onboard_time": 1724425521,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 199479,
+      "num": 199479,
+      "word": "郑钧 歌手没有专业的",
+      "onboard_time": 1724425580,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 199425,
@@ -1985,6 +2041,14 @@
       "onboard_time": 1724388681,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193966,
+      "num": 193966,
+      "word": "GR战队",
+      "onboard_time": 1724426480,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 193307,
@@ -2097,6 +2161,14 @@
       "onboard_time": 1724394260,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188835,
+      "num": 551481,
+      "word": "台湾长荣集团认同九二共识反对台独",
+      "onboard_time": 1724425221,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 188816,
@@ -2251,6 +2323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182094,
+      "num": 182094,
+      "word": "曾舜晞去看了时代少年团演唱会",
+      "onboard_time": 1724424021,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 181906,
       "num": 181906,
       "word": "陈梦说在南梁革命纪念馆心潮澎湃",
@@ -2265,6 +2345,14 @@
       "onboard_time": 1724385621,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180864,
+      "num": 180864,
+      "word": "井胧感谢石凯阿如那",
+      "onboard_time": 1724426300,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 179997,
@@ -2331,6 +2419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 172571,
+      "num": 172571,
+      "word": "丁程鑫跳ABCD",
+      "onboard_time": 1724424201,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 171604,
       "num": 353847,
       "word": "男子称车充电1分钟预估扣款7万多",
@@ -2369,6 +2465,14 @@
       "onboard_time": 1724401401,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 169050,
+      "num": 169050,
+      "word": "美联储",
+      "onboard_time": 1724426600,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 168729,
@@ -3011,20 +3115,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69048,
+      "num": 476656,
+      "word": "没人管得了不想退押金的房东吗",
+      "onboard_time": 1724425221,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68835,
       "num": 68835,
       "word": "薛之谦QQ号是六位数的",
       "onboard_time": 1724349973,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 67911,
-      "num": 573109,
-      "word": "学校否认高一女生因军训中暑身亡",
-      "onboard_time": 1724423421,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 65538,
@@ -3064,6 +3168,14 @@
       "word": "医保费用断缴后该如何再参保",
       "onboard_time": 1724357051,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59541,
+      "num": 1498484,
+      "word": "我国首个海上采油平台5.5G站点",
+      "onboard_time": 1724422101,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -3115,6 +3227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51106,
+      "num": 426599,
+      "word": "王天一涉嫌买棋卖棋被批准逮捕",
+      "onboard_time": 1724425821,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49284,
       "num": 337703,
       "word": "女生十小时夜爬老王山下山狂抖腿",
@@ -3145,14 +3265,6 @@
       "onboard_time": 1724410461,
       "rank": 21,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 45751,
-      "num": 1482275,
-      "word": "我国首个海上采油平台5.5G站点",
-      "onboard_time": 1724422101,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43554,
@@ -3241,6 +3353,14 @@
       "onboard_time": 1724353572,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34086,
+      "num": 424518,
+      "word": "乐在其中茶香搭子好city",
+      "onboard_time": 1724422762,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 33761,
@@ -3363,20 +3483,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 22438,
-      "num": 294544,
-      "word": "乐在其中茶香搭子好city",
-      "onboard_time": 1724422762,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 21886,
       "num": 302775,
       "word": "探访认知症养老院",
       "onboard_time": 1724392820,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20139,
+      "num": 425492,
+      "word": "超级红人节年度荣誉",
+      "onboard_time": 1724425221,
+      "rank": 14,
+      "category": "网红,互联网"
     },
     {
       "raw_hot": 17436,
