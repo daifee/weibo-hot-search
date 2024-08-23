@@ -1,0 +1,410 @@
+{
+  "runTime": 1724402378049,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2395091,
+        "num": 2395091,
+        "word": "印度强奸案细节堪比恐怖片",
+        "onboard_time": 1724399900,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1524973,
+        "num": 1524973,
+        "word": "警察叔叔我姐姐姑妈弟弟全丢了",
+        "onboard_time": 1724398821,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62732,
+        "num": 1318861,
+        "word": "今天是2024三伏天最后一天",
+        "onboard_time": 1724400140,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1258818,
+        "num": 1258818,
+        "word": "李庚希 你别跟我聊共情",
+        "onboard_time": 1724394739,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1185209,
+        "num": 1185209,
+        "word": "F勒布伦谈球拍事件",
+        "onboard_time": 1724401100,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1334246,
+        "num": 1107281,
+        "word": "印度151名议员对妇女实施犯罪",
+        "onboard_time": 1724384301,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 968421,
+        "num": 968421,
+        "word": "赵露思背上好多膏药贴",
+        "onboard_time": 1724399541,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 49385,
+        "num": 651471,
+        "word": "6名在校大学生假冒明星实施敲诈",
+        "onboard_time": 1724401821,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607675,
+        "num": 607675,
+        "word": "泰国坠机事件5名中国乘客遗体找到",
+        "onboard_time": 1724395399,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514743,
+        "num": 597064,
+        "word": "王昶称社交媒体资料被扒光",
+        "onboard_time": 1724395939,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 708264,
+        "num": 596983,
+        "word": "谢霆锋把手搭在王菲腿上",
+        "onboard_time": 1724394198,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 594794,
+        "num": 594794,
+        "word": "黑神话悟空全球首位白金玩家",
+        "onboard_time": 1724393541,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 474666,
+        "num": 474666,
+        "word": "小戏骨版林黛玉",
+        "onboard_time": 1724397259,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 466002,
+        "num": 466002,
+        "word": "特朗普再遭死亡威胁",
+        "onboard_time": 1724396120,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 453696,
+        "num": 453696,
+        "word": "免费帮客人绞肉致残能索赔吗",
+        "onboard_time": 1724380940,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372827,
+        "num": 372827,
+        "word": "Buzzy道歉",
+        "onboard_time": 1724398459,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334017,
+        "num": 334017,
+        "word": "男子光天化日当街抚摸倒地女子胸部",
+        "onboard_time": 1724401342,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293000,
+        "num": 293000,
+        "word": "CPA税法",
+        "onboard_time": 1724397799,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 279525,
+        "num": 279525,
+        "word": "财务自由才是真正的自由",
+        "onboard_time": 1724398940,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254907,
+        "num": 279353,
+        "word": "张予曦方发声",
+        "onboard_time": 1724401100,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16926,
+        "num": 279006,
+        "word": "美特斯邦威要做大牌平替",
+        "onboard_time": 1724398099,
+        "rank": 20,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 3356511,
+        "num": 278376,
+        "word": "黑神话悟空疑似抄袭",
+        "onboard_time": 1724386221,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1485015,
+        "num": 278174,
+        "word": "印度奸杀案",
+        "onboard_time": 1724393060,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332973,
+        "num": 277777,
+        "word": "全家给爸爸过生日忘了大学生在家",
+        "onboard_time": 1724398758,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 987179,
+        "num": 277272,
+        "word": "印度 高种姓",
+        "onboard_time": 1724390960,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296463,
+        "num": 277013,
+        "word": "让领导窒息的婚假",
+        "onboard_time": 1724388621,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 276791,
+        "num": 276791,
+        "word": "若黑神话悟空抄袭属实最高判赔50万",
+        "onboard_time": 1724402120,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 249144,
+        "num": 267126,
+        "word": "乃万 恋与深空",
+        "onboard_time": 1724384060,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228658,
+        "num": 264935,
+        "word": "Giselle看了也会惊讶的错位",
+        "onboard_time": 1724397321,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 210470,
+        "num": 264614,
+        "word": "电影刺猬今日上映",
+        "onboard_time": 1724382317,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 264541,
+        "num": 264541,
+        "word": "中共中央政治局8月23日召开会议",
+        "onboard_time": 1724398821,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 258930,
+        "num": 258930,
+        "word": "黑神话的音乐为何让人头皮发麻",
+        "onboard_time": 1724401761,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 245778,
+        "num": 245778,
+        "word": "男子开车打瞌睡80秒闭眼19次",
+        "onboard_time": 1724390661,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242622,
+        "num": 242622,
+        "word": "印度女医生",
+        "onboard_time": 1724299879,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228471,
+        "num": 228471,
+        "word": "李云中删博",
+        "onboard_time": 1724401160,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 224649,
+        "num": 224649,
+        "word": "李云中画的孙悟空",
+        "onboard_time": 1724391322,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222984,
+        "num": 222984,
+        "word": "王楚钦说公园大爷的球技水平很高",
+        "onboard_time": 1724399001,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213875,
+        "num": 213875,
+        "word": "EDG",
+        "onboard_time": 1724401521,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 204842,
+        "num": 204842,
+        "word": "黑神话悟空的真身是淄博小伙",
+        "onboard_time": 1724389821,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200310,
+        "num": 200310,
+        "word": "AI竟偷偷独自重写自己的代码",
+        "onboard_time": 1724398221,
+        "rank": 39,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 195269,
+        "num": 195269,
+        "word": "电影逆鳞",
+        "onboard_time": 1724402181,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192026,
+        "num": 192026,
+        "word": "国产剧男主终于撕掉老好人剧本了",
+        "onboard_time": 1724401580,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190119,
+        "num": 190119,
+        "word": "四方馆四方有志版预告",
+        "onboard_time": 1724401881,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186349,
+        "num": 186349,
+        "word": "泰坠毁飞机有5名中国游客最小12岁",
+        "onboard_time": 1724400080,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184053,
+        "num": 184053,
+        "word": "为什么一去医院看病就要抽血",
+        "onboard_time": 1724400920,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 182243,
+        "num": 182243,
+        "word": "巴黎残奥会奖牌长这样",
+        "onboard_time": 1724398758,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180106,
+        "num": 180106,
+        "word": "泰国坠机5名乘客出生于浙江或上海",
+        "onboard_time": 1724396420,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177675,
+        "num": 177675,
+        "word": "被NHK解雇的中国籍员工全部发言",
+        "onboard_time": 1724377939,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177114,
+        "num": 177114,
+        "word": "说唱歌手Buzzy在乃万评论区怼网友",
+        "onboard_time": 1724397738,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156313,
+        "num": 156313,
+        "word": "EDG胜决对阵LEV",
+        "onboard_time": 1724401220,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将出席2024年中非合作论坛峰会开幕式#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724401579999,
+  "endTime": 1724402378049,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -329,6 +329,14 @@
       "onboard_time": 1724371218,
       "rank": 0,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 2395091,
+      "num": 2395091,
+      "word": "印度强奸案细节堪比恐怖片",
+      "onboard_time": 1724399900,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2386649,
@@ -1012,7 +1020,7 @@
     },
     {
       "raw_hot": 1440974,
-      "num": 590244,
+      "num": 596983,
       "word": "谢霆锋把手搭在王菲腿上",
       "onboard_time": 1724394198,
       "rank": 22,
@@ -1049,14 +1057,6 @@
       "onboard_time": 1723990218,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1416823,
-      "num": 592998,
-      "word": "印度强奸案细节堪比恐怖片",
-      "onboard_time": 1724399900,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1414567,
@@ -1353,6 +1353,14 @@
       "onboard_time": 1723977859,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1185209,
+      "num": 1185209,
+      "word": "F勒布伦谈球拍事件",
+      "onboard_time": 1724401100,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 1178685,
@@ -1915,6 +1923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 968421,
+      "num": 968421,
+      "word": "赵露思背上好多膏药贴",
+      "onboard_time": 1724399541,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 962334,
       "num": 962334,
       "word": "老人藏4万6现金被儿子顺手扔掉",
@@ -2049,14 +2065,6 @@
       "onboard_time": 1724157982,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 921244,
-      "num": 921244,
-      "word": "赵露思背上好多膏药贴",
-      "onboard_time": 1724399541,
-      "rank": 3,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 917736,
@@ -3347,6 +3355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 594794,
+      "num": 594794,
+      "word": "黑神话悟空全球首位白金玩家",
+      "onboard_time": 1724393541,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 593980,
       "num": 600098,
       "word": "张绍刚cue种地吧",
@@ -3465,14 +3481,6 @@
       "onboard_time": 1724372478,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 582459,
-      "num": 582459,
-      "word": "黑神话悟空全球首位白金玩家",
-      "onboard_time": 1724393541,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 582456,
@@ -4323,14 +4331,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 451286,
-      "num": 451286,
-      "word": "F勒布伦谈球拍事件",
-      "onboard_time": 1724401100,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 450997,
       "num": 450997,
       "word": "红色月亮",
@@ -5051,6 +5051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 372827,
+      "num": 446039,
+      "word": "Buzzy道歉",
+      "onboard_time": 1724398459,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 371793,
       "num": 371793,
       "word": "刘诗诗吴奇隆换班带娃",
@@ -5603,12 +5611,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 334017,
+      "num": 334017,
+      "word": "男子光天化日当街抚摸倒地女子胸部",
+      "onboard_time": 1724401342,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 333430,
       "num": 333430,
       "word": "500万人看四川观察解压黑猴",
       "onboard_time": 1724140042,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 332973,
+      "num": 290967,
+      "word": "全家给爸爸过生日忘了大学生在家",
+      "onboard_time": 1724398758,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 332578,
@@ -5865,14 +5889,6 @@
       "onboard_time": 1723915394,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 319430,
-      "num": 446039,
-      "word": "Buzzy道歉",
-      "onboard_time": 1724398459,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 318956,
@@ -6355,14 +6371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 290967,
-      "num": 290967,
-      "word": "全家给爸爸过生日忘了大学生在家",
-      "onboard_time": 1724398758,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 290695,
       "num": 774681,
       "word": "葫芦岛建昌大部分地区电力通讯中断",
@@ -6707,6 +6715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 279525,
+      "num": 291253,
+      "word": "财务自由才是真正的自由",
+      "onboard_time": 1724398940,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 278838,
       "num": 381484,
       "word": "谁家男演员直播腿上盖毯子",
@@ -6761,6 +6777,14 @@
       "onboard_time": 1724138662,
       "rank": 28,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 276791,
+      "num": 276791,
+      "word": "若黑神话悟空抄袭属实最高判赔50万",
+      "onboard_time": 1724402120,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 276660,
@@ -7171,6 +7195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 258930,
+      "num": 258930,
+      "word": "黑神话的音乐为何让人头皮发麻",
+      "onboard_time": 1724401761,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 258847,
       "num": 258847,
       "word": "难哄的妈生漫画风回来了",
@@ -7321,6 +7353,14 @@
       "onboard_time": 1724307020,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 254907,
+      "num": 279353,
+      "word": "张予曦方发声",
+      "onboard_time": 1724401100,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 254886,
@@ -7497,14 +7537,6 @@
       "onboard_time": 1724126301,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 248547,
-      "num": 291253,
-      "word": "财务自由才是真正的自由",
-      "onboard_time": 1724398940,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 248465,
@@ -8267,6 +8299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 228471,
+      "num": 228471,
+      "word": "李云中删博",
+      "onboard_time": 1724401160,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 228459,
       "num": 228459,
       "word": "上海小狗6天走丢三次在浙江找回",
@@ -8835,6 +8875,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 213875,
+      "num": 213875,
+      "word": "EDG",
+      "onboard_time": 1724401521,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 213762,
       "num": 612694,
       "word": "被虐致死女童母亲失眠大把吃安眠药",
@@ -9088,14 +9136,6 @@
       "word": "开始防啃小是95后长大的标志",
       "onboard_time": 1724217500,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208907,
-      "num": 208907,
-      "word": "男子光天化日当街抚摸倒地女子胸部",
-      "onboard_time": 1724401342,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -9667,6 +9707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 200310,
+      "num": 200310,
+      "word": "AI竟偷偷独自重写自己的代码",
+      "onboard_time": 1724398221,
+      "rank": 38,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 200052,
       "num": 275323,
       "word": "娜扎 我跟你之间什么都可以",
@@ -9859,14 +9907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197852,
-      "num": 197852,
-      "word": "AI竟偷偷独自重写自己的代码",
-      "onboard_time": 1724398221,
-      "rank": 38,
-      "category": "互联网,社会新闻"
-    },
-    {
       "raw_hot": 197249,
       "num": 310040,
       "word": "普罗米修斯",
@@ -9977,6 +10017,14 @@
       "onboard_time": 1724386100,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195269,
+      "num": 195269,
+      "word": "电影逆鳞",
+      "onboard_time": 1724402181,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 195212,
@@ -10243,6 +10291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192026,
+      "num": 192026,
+      "word": "国产剧男主终于撕掉老好人剧本了",
+      "onboard_time": 1724401580,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191928,
       "num": 191928,
       "word": "阿勒泰的秋天",
@@ -10281,14 +10337,6 @@
       "onboard_time": 1724128762,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 191381,
-      "num": 191381,
-      "word": "张予曦方发声",
-      "onboard_time": 1724401100,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 191378,
@@ -10361,6 +10409,14 @@
       "onboard_time": 1724121440,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 190119,
+      "num": 190119,
+      "word": "四方馆四方有志版预告",
+      "onboard_time": 1724401881,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 189764,
@@ -10627,6 +10683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 186349,
+      "num": 602528,
+      "word": "泰坠毁飞机有5名中国游客最小12岁",
+      "onboard_time": 1724400080,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186280,
       "num": 186280,
       "word": "汪顺 猪大肠等我",
@@ -10795,6 +10859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184053,
+      "num": 184053,
+      "word": "为什么一去医院看病就要抽血",
+      "onboard_time": 1724400920,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 184001,
       "num": 857992,
       "word": "中药茶饮到底算不算药",
@@ -10897,6 +10969,14 @@
       "onboard_time": 1724324481,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 182243,
+      "num": 182243,
+      "word": "巴黎残奥会奖牌长这样",
+      "onboard_time": 1724398758,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 182200,
@@ -11217,14 +11297,6 @@
       "onboard_time": 1724337562,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 177053,
-      "num": 177053,
-      "word": "李云中删博",
-      "onboard_time": 1724401160,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 176974,
@@ -11723,14 +11795,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 169008,
-      "num": 169008,
-      "word": "为什么一去医院看病就要抽血",
-      "onboard_time": 1724400920,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 168918,
       "num": 168918,
       "word": "中国AI推动者胡国平",
@@ -11801,14 +11865,6 @@
       "onboard_time": 1724334682,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168272,
-      "num": 168272,
-      "word": "EDG",
-      "onboard_time": 1724401521,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 168247,
@@ -12529,6 +12585,14 @@
       "onboard_time": 1724311100,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156313,
+      "num": 156313,
+      "word": "EDG胜决对阵LEV",
+      "onboard_time": 1724401220,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 156094,
@@ -14419,14 +14483,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 100129,
-      "num": 602528,
-      "word": "泰坠毁飞机有5名中国游客最小12岁",
-      "onboard_time": 1724400080,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 99797,
       "num": 457446,
       "word": "黑神话 Steam特别好评",
@@ -14684,7 +14740,7 @@
     },
     {
       "raw_hot": 84379,
-      "num": 1079646,
+      "num": 1318861,
       "word": "今天是2024三伏天最后一天",
       "onboard_time": 1724400140,
       "rank": 2,
@@ -15593,6 +15649,14 @@
       "onboard_time": 1724331621,
       "rank": 19,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 49385,
+      "num": 651471,
+      "word": "6名在校大学生假冒明星实施敲诈",
+      "onboard_time": 1724401821,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 49359,

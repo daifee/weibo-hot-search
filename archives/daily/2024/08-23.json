@@ -1,6 +1,6 @@
 {
   "startTime": 1724344132300,
-  "endTime": 1724401579999,
+  "endTime": 1724402378049,
   "band_list": [
     {
       "raw_hot": 9647550,
@@ -41,6 +41,14 @@
       "onboard_time": 1724371218,
       "rank": 0,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 2395091,
+      "num": 2395091,
+      "word": "印度强奸案细节堪比恐怖片",
+      "onboard_time": 1724399900,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1805874,
@@ -100,19 +108,11 @@
     },
     {
       "raw_hot": 1440974,
-      "num": 590244,
+      "num": 596983,
       "word": "谢霆锋把手搭在王菲腿上",
       "onboard_time": 1724394198,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1416823,
-      "num": 592998,
-      "word": "印度强奸案细节堪比恐怖片",
-      "onboard_time": 1724399900,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1279642,
@@ -121,6 +121,14 @@
       "onboard_time": 1724368939,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1185209,
+      "num": 1185209,
+      "word": "F勒布伦谈球拍事件",
+      "onboard_time": 1724401100,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 1171429,
@@ -171,20 +179,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 968421,
+      "num": 968421,
+      "word": "赵露思背上好多膏药贴",
+      "onboard_time": 1724399541,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 940240,
       "num": 439875,
       "word": "印度清洁工验尸房强行与女子亲热",
       "onboard_time": 1724337021,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 921244,
-      "num": 921244,
-      "word": "赵露思背上好多膏药贴",
-      "onboard_time": 1724399541,
-      "rank": 3,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 902990,
@@ -299,6 +307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 594794,
+      "num": 594794,
+      "word": "黑神话悟空全球首位白金玩家",
+      "onboard_time": 1724393541,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 592790,
       "num": 592790,
       "word": "四六级分可查了",
@@ -361,14 +377,6 @@
       "onboard_time": 1724372478,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 582459,
-      "num": 582459,
-      "word": "黑神话悟空全球首位白金玩家",
-      "onboard_time": 1724393541,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 578149,
@@ -467,14 +475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 451286,
-      "num": 451286,
-      "word": "F勒布伦谈球拍事件",
-      "onboard_time": 1724401100,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 443562,
       "num": 443562,
       "word": "130平装成了300平的即视感",
@@ -563,6 +563,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 372827,
+      "num": 446039,
+      "word": "Buzzy道歉",
+      "onboard_time": 1724398459,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 367535,
       "num": 367535,
       "word": "凤凰传奇成都",
@@ -627,6 +635,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 334017,
+      "num": 334017,
+      "word": "男子光天化日当街抚摸倒地女子胸部",
+      "onboard_time": 1724401342,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 332973,
+      "num": 290967,
+      "word": "全家给爸爸过生日忘了大学生在家",
+      "onboard_time": 1724398758,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330469,
       "num": 508845,
       "word": "基层很忙为何群众不买账",
@@ -648,14 +672,6 @@
       "word": "易烊千玺发了好多羊",
       "onboard_time": 1724371158,
       "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 319430,
-      "num": 446039,
-      "word": "Buzzy道歉",
-      "onboard_time": 1724398459,
-      "rank": 44,
       "category": "艺人"
     },
     {
@@ -707,14 +723,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 290967,
-      "num": 290967,
-      "word": "全家给爸爸过生日忘了大学生在家",
-      "onboard_time": 1724398758,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 288774,
       "num": 288774,
       "word": "唐嫣拍摄张杰新歌MV",
@@ -761,6 +769,22 @@
       "onboard_time": 1724381239,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 279525,
+      "num": 291253,
+      "word": "财务自由才是真正的自由",
+      "onboard_time": 1724398940,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 276791,
+      "num": 276791,
+      "word": "若黑神话悟空抄袭属实最高判赔50万",
+      "onboard_time": 1724402120,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 276660,
@@ -811,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258930,
+      "num": 258930,
+      "word": "黑神话的音乐为何让人头皮发麻",
+      "onboard_time": 1724401761,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 257923,
       "num": 257923,
       "word": "小孩骑行被碾压身亡肇事司机移送检方",
@@ -851,6 +883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 254907,
+      "num": 279353,
+      "word": "张予曦方发声",
+      "onboard_time": 1724401100,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254627,
       "num": 254627,
       "word": "盛李豪张雨霏等记大功",
@@ -880,14 +920,6 @@
       "word": "披哥后期",
       "onboard_time": 1724393780,
       "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 248547,
-      "num": 291253,
-      "word": "财务自由才是真正的自由",
-      "onboard_time": 1724398940,
-      "rank": 27,
       "category": "综艺"
     },
     {
@@ -987,6 +1019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 228471,
+      "num": 228471,
+      "word": "李云中删博",
+      "onboard_time": 1724401160,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 222200,
       "num": 222200,
       "word": "WBG对战MRC",
@@ -1051,12 +1091,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208907,
-      "num": 208907,
-      "word": "男子光天化日当街抚摸倒地女子胸部",
-      "onboard_time": 1724401342,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 213875,
+      "num": 213875,
+      "word": "EDG",
+      "onboard_time": 1724401521,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 208004,
@@ -1115,6 +1155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200310,
+      "num": 200310,
+      "word": "AI竟偷偷独自重写自己的代码",
+      "onboard_time": 1724398221,
+      "rank": 38,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 200052,
       "num": 275323,
       "word": "娜扎 我跟你之间什么都可以",
@@ -1155,14 +1203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197852,
-      "num": 197852,
-      "word": "AI竟偷偷独自重写自己的代码",
-      "onboard_time": 1724398221,
-      "rank": 38,
-      "category": "互联网,社会新闻"
-    },
-    {
       "raw_hot": 196343,
       "num": 196343,
       "word": "MRC",
@@ -1177,6 +1217,14 @@
       "onboard_time": 1724386100,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195269,
+      "num": 195269,
+      "word": "电影逆鳞",
+      "onboard_time": 1724402181,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 194476,
@@ -1195,6 +1243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192026,
+      "num": 192026,
+      "word": "国产剧男主终于撕掉老好人剧本了",
+      "onboard_time": 1724401580,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191866,
       "num": 226644,
       "word": "张杰郑州",
@@ -1211,20 +1267,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 191381,
-      "num": 191381,
-      "word": "张予曦方发声",
-      "onboard_time": 1724401100,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 190869,
       "num": 190869,
       "word": "车险保费涨声一片",
       "onboard_time": 1724387541,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190119,
+      "num": 190119,
+      "word": "四方馆四方有志版预告",
+      "onboard_time": 1724401881,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 188905,
@@ -1299,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186349,
+      "num": 602528,
+      "word": "泰坠毁飞机有5名中国游客最小12岁",
+      "onboard_time": 1724400080,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186198,
       "num": 186198,
       "word": "澳客机降落后一乘客强行打开应急出口",
@@ -1323,6 +1387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184053,
+      "num": 184053,
+      "word": "为什么一去医院看病就要抽血",
+      "onboard_time": 1724400920,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 183139,
       "num": 177029,
       "word": "逛公园碰到了国乒队",
@@ -1339,20 +1411,20 @@
       "category": "游戏,互联网"
     },
     {
+      "raw_hot": 182243,
+      "num": 182243,
+      "word": "巴黎残奥会奖牌长这样",
+      "onboard_time": 1724398758,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181655,
       "num": 737175,
       "word": "究竟谁在贩卖容貌焦虑",
       "onboard_time": 1724385621,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177053,
-      "num": 177053,
-      "word": "李云中删博",
-      "onboard_time": 1724401160,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 175850,
@@ -1419,28 +1491,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 169008,
-      "num": 169008,
-      "word": "为什么一去医院看病就要抽血",
-      "onboard_time": 1724400920,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 168729,
       "num": 168729,
       "word": "为什么不能一户一莎",
       "onboard_time": 1724390781,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168272,
-      "num": 168272,
-      "word": "EDG",
-      "onboard_time": 1724401521,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 167511,
@@ -1537,6 +1593,14 @@
       "onboard_time": 1724393900,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156313,
+      "num": 156313,
+      "word": "EDG胜决对阵LEV",
+      "onboard_time": 1724401220,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 154177,
@@ -1883,14 +1947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 100129,
-      "num": 602528,
-      "word": "泰坠毁飞机有5名中国游客最小12岁",
-      "onboard_time": 1724400080,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92392,
       "num": 92392,
       "word": "黑神话悟空",
@@ -1924,7 +1980,7 @@
     },
     {
       "raw_hot": 84379,
-      "num": 1079646,
+      "num": 1318861,
       "word": "今天是2024三伏天最后一天",
       "onboard_time": 1724400140,
       "rank": 2,
@@ -2072,6 +2128,14 @@
       "word": "弟弟背哥哥上学13年考入同一所高校",
       "onboard_time": 1724389222,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49385,
+      "num": 651471,
+      "word": "6名在校大学生假冒明星实施敲诈",
+      "onboard_time": 1724401821,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
