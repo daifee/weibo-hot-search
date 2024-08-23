@@ -1,0 +1,410 @@
+{
+  "runTime": 1724412940447,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 905032,
+        "num": 1144805,
+        "word": "刘亦菲谈郑钦文夺冠",
+        "onboard_time": 1724408961,
+        "rank": 0,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 521534,
+        "num": 521534,
+        "word": "EDG晋级冠军赛总决赛",
+        "onboard_time": 1724409381,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 50355,
+        "num": 477811,
+        "word": "今天是2024三伏天最后一天",
+        "onboard_time": 1724400140,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2359349,
+        "num": 477127,
+        "word": "印度15岁放羊女孩遭轮奸",
+        "onboard_time": 1724407161,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1752839,
+        "num": 477104,
+        "word": "王一博cos低俗小说文森特",
+        "onboard_time": 1724407161,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 476084,
+        "num": 476084,
+        "word": "印度人为什么不试着冒充高种姓",
+        "onboard_time": 1724402480,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 770134,
+        "num": 467337,
+        "word": "两个杜华",
+        "onboard_time": 1724408480,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 764703,
+        "num": 449288,
+        "word": "乐华艺人 精神状态",
+        "onboard_time": 1724408300,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 428623,
+        "num": 428623,
+        "word": "CPA经济法",
+        "onboard_time": 1724411718,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 294344,
+        "num": 294344,
+        "word": "面筋哥感谢女友拼命救他三次",
+        "onboard_time": 1724407220,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1127772,
+        "num": 294337,
+        "word": "印度10岁女孩遭叔叔性侵后勒死",
+        "onboard_time": 1724407640,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1089980,
+        "num": 294197,
+        "word": "大理摸排出大龄未婚男性3万余人",
+        "onboard_time": 1724405839,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105006,
+        "num": 294130,
+        "word": "男子内急借用镇政府厕所被保安阻拦",
+        "onboard_time": 1724411420,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32136,
+        "num": 294080,
+        "word": "12亿协议存款消失牵出多个关联方",
+        "onboard_time": 1724412620,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1317,
+        "num": 293984,
+        "word": "超级红人节红毯",
+        "onboard_time": 1724411061,
+        "rank": 14,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 463884,
+        "num": 293941,
+        "word": "时代少年团演唱会直播",
+        "onboard_time": 1724411359,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 904120,
+        "num": 293833,
+        "word": "印度151名议员对妇女实施犯罪",
+        "onboard_time": 1724384301,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448783,
+        "num": 293748,
+        "word": "F勒布伦谈球拍事件",
+        "onboard_time": 1724401100,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323368,
+        "num": 293658,
+        "word": "刺猬票房",
+        "onboard_time": 1724411839,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 293636,
+        "num": 293636,
+        "word": "吴宣仪乐华年会红毯",
+        "onboard_time": 1724409560,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 962679,
+        "num": 292741,
+        "word": "印度强奸案细节堪比恐怖片",
+        "onboard_time": 1724399900,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38155,
+        "num": 288668,
+        "word": "何小鹏带雷军开MONA兜风",
+        "onboard_time": 1724410461,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 917335,
+        "num": 285840,
+        "word": "印度奸杀案",
+        "onboard_time": 1724393060,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632788,
+        "num": 281823,
+        "word": "李汶翰cos杜华",
+        "onboard_time": 1724406620,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 411962,
+        "num": 277189,
+        "word": "李庚希 你别跟我聊共情",
+        "onboard_time": 1724394739,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275910,
+        "num": 275910,
+        "word": "若黑神话悟空抄袭属实最高判赔50万",
+        "onboard_time": 1724402120,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 268246,
+        "num": 268246,
+        "word": "王一博是广东的",
+        "onboard_time": 1724409201,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 260358,
+        "num": 260358,
+        "word": "刘亦菲这组图几乎没修",
+        "onboard_time": 1724403320,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 265708,
+        "num": 258601,
+        "word": "杜华问李汶翰你没事吧",
+        "onboard_time": 1724409981,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 96969,
+        "num": 252327,
+        "word": "刘雨昕直播看海",
+        "onboard_time": 1724412320,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251860,
+        "num": 251860,
+        "word": "印度女医生",
+        "onboard_time": 1724299879,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249363,
+        "num": 249363,
+        "word": "赵露思背上好多膏药贴",
+        "onboard_time": 1724399541,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 246626,
+        "num": 246626,
+        "word": "程潇cos黛西",
+        "onboard_time": 1724410099,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 239588,
+        "num": 239588,
+        "word": "短剧镯中录",
+        "onboard_time": 1724409320,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238627,
+        "num": 238627,
+        "word": "韩漫疑似抄袭汪顺人设",
+        "onboard_time": 1724411659,
+        "rank": 34,
+        "category": "体育,动漫"
+      },
+      {
+        "raw_hot": 237231,
+        "num": 237231,
+        "word": "泰国出事飞机系顶奢酒店私有",
+        "onboard_time": 1724403682,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233021,
+        "num": 233021,
+        "word": "何炅 不要觉得内向的性格就不好",
+        "onboard_time": 1724408121,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 230355,
+        "num": 230355,
+        "word": "乐华年会",
+        "onboard_time": 1724403502,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204838,
+        "num": 204838,
+        "word": "狗因为太可爱试镜异形失败",
+        "onboard_time": 1724405540,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147613,
+        "num": 201763,
+        "word": "令人上瘾的烟卡要怎么断卡",
+        "onboard_time": 1724410820,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85316,
+        "num": 200465,
+        "word": "烧bee玩偶引发网友质疑",
+        "onboard_time": 1724410820,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199748,
+        "num": 199748,
+        "word": "谢霆锋把手搭在王菲腿上",
+        "onboard_time": 1724394198,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197791,
+        "num": 197791,
+        "word": "工作人员回应遗体火化过程可观看",
+        "onboard_time": 1724403561,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195820,
+        "num": 195820,
+        "word": "檀健次空降超话",
+        "onboard_time": 1724412259,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193343,
+        "num": 193343,
+        "word": "外交部回应日方呼吁中方取消水产品禁令",
+        "onboard_time": 1724406739,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 192136,
+        "num": 192136,
+        "word": "EDG",
+        "onboard_time": 1724401521,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 185652,
+        "num": 185652,
+        "word": "警察叔叔我姐姐姑妈弟弟全丢了",
+        "onboard_time": 1724398821,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174549,
+        "num": 174549,
+        "word": "黑神话悟空全球首位白金玩家",
+        "onboard_time": 1724393541,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170310,
+        "num": 170310,
+        "word": "孙颖莎樊振东等将访港",
+        "onboard_time": 1724412921,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167159,
+        "num": 167159,
+        "word": "EDG胜决对阵LEV",
+        "onboard_time": 1724401220,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将出席2024年中非合作论坛峰会开幕式#"
+    }
+  }
+}

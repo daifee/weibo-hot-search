@@ -1,6 +1,6 @@
 {
   "startTime": 1724344132300,
-  "endTime": 1724411853081,
+  "endTime": 1724412940447,
   "band_list": [
     {
       "raw_hot": 9647550,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 905032,
+      "num": 1144805,
+      "word": "刘亦菲谈郑钦文夺冠",
+      "onboard_time": 1724408961,
+      "rank": 26,
+      "category": "作品衍生,体育"
+    },
+    {
       "raw_hot": 902990,
       "num": 902990,
       "word": "四六级 就这个裸考爽",
@@ -289,14 +297,6 @@
       "onboard_time": 1724402480,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 857924,
-      "num": 857924,
-      "word": "刘亦菲谈郑钦文夺冠",
-      "onboard_time": 1724408961,
-      "rank": 26,
-      "category": "作品衍生,体育"
     },
     {
       "raw_hot": 855483,
@@ -379,20 +379,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 770134,
+      "num": 467337,
+      "word": "两个杜华",
+      "onboard_time": 1724408480,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 733569,
       "num": 733569,
       "word": "泰警方回应中国女子遭外国男子辱骂",
       "onboard_time": 1724382862,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 733444,
-      "num": 415676,
-      "word": "两个杜华",
-      "onboard_time": 1724408480,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 722459,
@@ -611,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 463884,
+      "num": 293941,
+      "word": "时代少年团演唱会直播",
+      "onboard_time": 1724411359,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 457670,
       "num": 457670,
       "word": "周迅 50岁正是迷死人的年纪",
@@ -641,6 +649,14 @@
       "onboard_time": 1724325620,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 428623,
+      "num": 428623,
+      "word": "CPA经济法",
+      "onboard_time": 1724411718,
+      "rank": 10,
+      "category": "教育"
     },
     {
       "raw_hot": 422694,
@@ -827,6 +843,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 323368,
+      "num": 293658,
+      "word": "刺猬票房",
+      "onboard_time": 1724411839,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 321380,
       "num": 356508,
       "word": "易烊千玺发了好多羊",
@@ -891,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294344,
+      "num": 375063,
+      "word": "面筋哥感谢女友拼命救他三次",
+      "onboard_time": 1724407220,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294083,
       "num": 294083,
       "word": "摄影作品版权",
@@ -904,6 +936,14 @@
       "word": "程潇cos黛西",
       "onboard_time": 1724410099,
       "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 293636,
+      "num": 293636,
+      "word": "吴宣仪乐华年会红毯",
+      "onboard_time": 1724409560,
+      "rank": 35,
       "category": "作品衍生"
     },
     {
@@ -1003,14 +1043,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 268745,
-      "num": 404870,
-      "word": "CPA经济法",
-      "onboard_time": 1724411718,
-      "rank": 10,
-      "category": "教育"
-    },
-    {
       "raw_hot": 268264,
       "num": 268264,
       "word": "女子下雨天拉隐形车门被熏吐了",
@@ -1027,11 +1059,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 266105,
-      "num": 266105,
-      "word": "吴宣仪乐华年会红毯",
-      "onboard_time": 1724409560,
-      "rank": 35,
+      "raw_hot": 265708,
+      "num": 258601,
+      "word": "杜华问李汶翰你没事吧",
+      "onboard_time": 1724409981,
+      "rank": 40,
       "category": "作品衍生"
     },
     {
@@ -1131,14 +1163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 254518,
-      "num": 254518,
-      "word": "时代少年团演唱会直播",
-      "onboard_time": 1724411359,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
       "raw_hot": 251309,
       "num": 456770,
       "word": "实施网络传销涉案1000亿元嫌犯归案",
@@ -1193,6 +1217,14 @@
       "onboard_time": 1724382862,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 238627,
+      "num": 238627,
+      "word": "韩漫疑似抄袭汪顺人设",
+      "onboard_time": 1724411659,
+      "rank": 45,
+      "category": "体育,动漫"
     },
     {
       "raw_hot": 237949,
@@ -1315,14 +1347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 218659,
-      "num": 218659,
-      "word": "杜华问李汶翰你没事吧",
-      "onboard_time": 1724409981,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 217919,
       "num": 217919,
       "word": "肯德基崩了",
@@ -1352,14 +1376,6 @@
       "word": "铁路客站男女厕位应为1比2",
       "onboard_time": 1724394620,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214423,
-      "num": 375063,
-      "word": "面筋哥感谢女友拼命救他三次",
-      "onboard_time": 1724407220,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1505,6 +1521,14 @@
       "onboard_time": 1724398039,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 195820,
+      "num": 195820,
+      "word": "檀健次空降超话",
+      "onboard_time": 1724412259,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 195275,
@@ -1707,14 +1731,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 184040,
-      "num": 184040,
-      "word": "韩漫疑似抄袭汪顺人设",
-      "onboard_time": 1724411659,
-      "rank": 45,
-      "category": "体育,动漫"
-    },
-    {
       "raw_hot": 183741,
       "num": 183741,
       "word": "世界第二大钻石2492克拉",
@@ -1859,6 +1875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170310,
+      "num": 170310,
+      "word": "孙颖莎樊振东等将访港",
+      "onboard_time": 1724412921,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169898,
       "num": 169898,
       "word": "蒋依依祝吉娜爱丽丝生日快乐",
@@ -1905,14 +1929,6 @@
       "onboard_time": 1724378479,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 164589,
-      "num": 164589,
-      "word": "刺猬票房",
-      "onboard_time": 1724411839,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 162322,
@@ -2065,6 +2081,14 @@
       "onboard_time": 1724398459,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147613,
+      "num": 420635,
+      "word": "令人上瘾的烟卡要怎么断卡",
+      "onboard_time": 1724410820,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147179,
@@ -2331,6 +2355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105006,
+      "num": 388579,
+      "word": "男子内急借用镇政府厕所被保安阻拦",
+      "onboard_time": 1724411420,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104988,
       "num": 104988,
       "word": "女子称男子在其家门口偷闻鞋舔鞋",
@@ -2361,6 +2393,14 @@
       "onboard_time": 1724351653,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96969,
+      "num": 252327,
+      "word": "刘雨昕直播看海",
+      "onboard_time": 1724412320,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 92392,
@@ -2400,6 +2440,14 @@
       "word": "羊毛党盯上运费险赔付漏洞",
       "onboard_time": 1724403619,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85316,
+      "num": 385031,
+      "word": "烧bee玩偶引发网友质疑",
+      "onboard_time": 1724410820,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -2481,14 +2529,6 @@
       "onboard_time": 1724349973,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 67670,
-      "num": 420635,
-      "word": "令人上瘾的烟卡要怎么断卡",
-      "onboard_time": 1724410820,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 65538,
@@ -2619,14 +2659,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 39684,
-      "num": 385031,
-      "word": "烧bee玩偶引发网友质疑",
-      "onboard_time": 1724410820,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 39166,
       "num": 374776,
       "word": "后厨是否干净不能单靠外卖员监督",
@@ -2683,6 +2715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32136,
+      "num": 294080,
+      "word": "12亿协议存款消失牵出多个关联方",
+      "onboard_time": 1724412620,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29977,
       "num": 265084,
       "word": "史妍 做物业和踢足球有什么区别",
@@ -2704,14 +2744,6 @@
       "word": "安徽鼓励探索钓鱼实名制",
       "onboard_time": 1724392820,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25444,
-      "num": 388579,
-      "word": "男子内急借用镇政府厕所被保安阻拦",
-      "onboard_time": 1724411420,
-      "rank": 12,
       "category": "社会新闻"
     },
     {

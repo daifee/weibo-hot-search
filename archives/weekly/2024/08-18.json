@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724411853081,
+  "endTime": 1724412940447,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -2179,6 +2179,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 905032,
+      "num": 1144805,
+      "word": "刘亦菲谈郑钦文夺冠",
+      "onboard_time": 1724408961,
+      "rank": 26,
+      "category": "作品衍生,体育"
+    },
+    {
       "raw_hot": 902990,
       "num": 902990,
       "word": "四六级 就这个裸考爽",
@@ -2345,14 +2353,6 @@
       "onboard_time": 1724257517,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 857924,
-      "num": 857924,
-      "word": "刘亦菲谈郑钦文夺冠",
-      "onboard_time": 1724408961,
-      "rank": 26,
-      "category": "作品衍生,体育"
     },
     {
       "raw_hot": 855483,
@@ -2683,6 +2683,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 770134,
+      "num": 467337,
+      "word": "两个杜华",
+      "onboard_time": 1724408480,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 768994,
       "num": 768994,
       "word": "王楠夫妇回应送金牌",
@@ -2809,14 +2817,6 @@
       "onboard_time": 1724382862,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 733444,
-      "num": 415676,
-      "word": "两个杜华",
-      "onboard_time": 1724408480,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 730566,
@@ -4387,6 +4387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 463884,
+      "num": 293941,
+      "word": "时代少年团演唱会直播",
+      "onboard_time": 1724411359,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 463660,
       "num": 370582,
       "word": "袜和祙是两个不同的字",
@@ -4641,6 +4649,14 @@
       "onboard_time": 1723993522,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 428623,
+      "num": 428623,
+      "word": "CPA经济法",
+      "onboard_time": 1724411718,
+      "rank": 10,
+      "category": "教育"
     },
     {
       "raw_hot": 428343,
@@ -5987,6 +6003,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 323368,
+      "num": 293658,
+      "word": "刺猬票房",
+      "onboard_time": 1724411839,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 322985,
       "num": 322985,
       "word": "张颖颖在线刚张兰",
@@ -6459,6 +6483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 294344,
+      "num": 375063,
+      "word": "面筋哥感谢女友拼命救他三次",
+      "onboard_time": 1724407220,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294083,
       "num": 294083,
       "word": "摄影作品版权",
@@ -6472,6 +6504,14 @@
       "word": "程潇cos黛西",
       "onboard_time": 1724410099,
       "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 293636,
+      "num": 293636,
+      "word": "吴宣仪乐华年会红毯",
+      "onboard_time": 1724409560,
+      "rank": 35,
       "category": "作品衍生"
     },
     {
@@ -7131,14 +7171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 268745,
-      "num": 404870,
-      "word": "CPA经济法",
-      "onboard_time": 1724411718,
-      "rank": 10,
-      "category": "教育"
-    },
-    {
       "raw_hot": 268676,
       "num": 634142,
       "word": "生父与情人打死3岁女童案今日开庭",
@@ -7227,20 +7259,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 266105,
-      "num": 266105,
-      "word": "吴宣仪乐华年会红毯",
-      "onboard_time": 1724409560,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 265989,
       "num": 265989,
       "word": "孙颖莎邱贻可总结大会合照",
       "onboard_time": 1724157982,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 265708,
+      "num": 258601,
+      "word": "杜华问李汶翰你没事吧",
+      "onboard_time": 1724409981,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 265150,
@@ -7617,14 +7649,6 @@
       "onboard_time": 1724389343,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 254518,
-      "num": 254518,
-      "word": "时代少年团演唱会直播",
-      "onboard_time": 1724411359,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 253797,
@@ -8113,6 +8137,14 @@
       "onboard_time": 1724149761,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 238627,
+      "num": 238627,
+      "word": "韩漫疑似抄袭汪顺人设",
+      "onboard_time": 1724411659,
+      "rank": 45,
+      "category": "体育,动漫"
     },
     {
       "raw_hot": 238247,
@@ -8899,14 +8931,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 218659,
-      "num": 218659,
-      "word": "杜华问李汶翰你没事吧",
-      "onboard_time": 1724409981,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 218071,
       "num": 218071,
       "word": "国羽大家庭 团魂",
@@ -9105,14 +9129,6 @@
       "onboard_time": 1724321300,
       "rank": 32,
       "category": "美食"
-    },
-    {
-      "raw_hot": 214423,
-      "num": 375063,
-      "word": "面筋哥感谢女友拼命救他三次",
-      "onboard_time": 1724407220,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 214360,
@@ -10291,6 +10307,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 195820,
+      "num": 195820,
+      "word": "檀健次空降超话",
+      "onboard_time": 1724412259,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195764,
       "num": 688058,
       "word": "黑神话 请假",
@@ -11177,14 +11201,6 @@
       "onboard_time": 1724400920,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 184040,
-      "num": 184040,
-      "word": "韩漫疑似抄袭汪顺人设",
-      "onboard_time": 1724411659,
-      "rank": 45,
-      "category": "体育,动漫"
     },
     {
       "raw_hot": 184001,
@@ -12083,6 +12099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170310,
+      "num": 170310,
+      "word": "孙颖莎樊振东等将访港",
+      "onboard_time": 1724412921,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170274,
       "num": 170274,
       "word": "多家公司为员工报销黑神话悟空费用",
@@ -12481,14 +12505,6 @@
       "onboard_time": 1723951458,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 164589,
-      "num": 164589,
-      "word": "刺猬票房",
-      "onboard_time": 1724411839,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 164422,
@@ -13505,6 +13521,14 @@
       "onboard_time": 1724217919,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 147613,
+      "num": 420635,
+      "word": "令人上瘾的烟卡要怎么断卡",
+      "onboard_time": 1724410820,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147547,
@@ -14779,6 +14803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105006,
+      "num": 388579,
+      "word": "男子内急借用镇政府厕所被保安阻拦",
+      "onboard_time": 1724411420,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104988,
       "num": 388780,
       "word": "女子称男子在其家门口偷闻鞋舔鞋",
@@ -14937,6 +14969,14 @@
       "onboard_time": 1724040382,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96969,
+      "num": 252327,
+      "word": "刘雨昕直播看海",
+      "onboard_time": 1724412320,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 96941,
@@ -15129,6 +15169,14 @@
       "onboard_time": 1724209819,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 85316,
+      "num": 385031,
+      "word": "烧bee玩偶引发网友质疑",
+      "onboard_time": 1724410820,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85223,
@@ -15489,14 +15537,6 @@
       "onboard_time": 1724110456,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 67670,
-      "num": 420635,
-      "word": "令人上瘾的烟卡要怎么断卡",
-      "onboard_time": 1724410820,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 67646,
@@ -16435,14 +16475,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 39684,
-      "num": 385031,
-      "word": "烧bee玩偶引发网友质疑",
-      "onboard_time": 1724410820,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 39612,
       "num": 440031,
       "word": "货车司机运输途中去世背后",
@@ -16699,6 +16731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32136,
+      "num": 294080,
+      "word": "12亿协议存款消失牵出多个关联方",
+      "onboard_time": 1724412620,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31990,
       "num": 668862,
       "word": "泽连斯基称袭击俄本土是为设立缓冲区",
@@ -16913,14 +16953,6 @@
       "onboard_time": 1724315840,
       "rank": 29,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 25444,
-      "num": 388579,
-      "word": "男子内急借用镇政府厕所被保安阻拦",
-      "onboard_time": 1724411420,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25433,
