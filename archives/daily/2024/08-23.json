@@ -1,6 +1,6 @@
 {
   "startTime": 1724344132300,
-  "endTime": 1724395281072,
+  "endTime": 1724397597059,
   "band_list": [
     {
       "raw_hot": 9647550,
@@ -24,6 +24,14 @@
       "word": "免费帮客人绞肉致残能索赔吗",
       "onboard_time": 1724380940,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2573340,
+      "num": 2573340,
+      "word": "印度奸杀案",
+      "onboard_time": 1724393060,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -51,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1556797,
+      "num": 1556797,
+      "word": "李庚希 你别跟我聊共情",
+      "onboard_time": 1724394739,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1541133,
       "num": 1541133,
       "word": "肯德基",
@@ -67,20 +83,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1494197,
-      "num": 1494197,
-      "word": "印度奸杀案",
-      "onboard_time": 1724393060,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1472318,
       "num": 1472318,
       "word": "被NHK解雇的中国籍员工全部发言",
       "onboard_time": 1724377939,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1440974,
+      "num": 470636,
+      "word": "谢霆锋把手搭在王菲腿上",
+      "onboard_time": 1724394198,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 1279642,
@@ -137,14 +153,6 @@
       "onboard_time": 1724339840,
       "rank": 0,
       "category": "网红"
-    },
-    {
-      "raw_hot": 957265,
-      "num": 451252,
-      "word": "谢霆锋把手搭在王菲腿上",
-      "onboard_time": 1724394198,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 940240,
@@ -235,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 658692,
+      "num": 658692,
+      "word": "泰国坠机事件5名中国乘客遗体找到",
+      "onboard_time": 1724395399,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 598874,
       "num": 598874,
       "word": "李云中画的孙悟空",
@@ -284,7 +300,7 @@
     },
     {
       "raw_hot": 586476,
-      "num": 302615,
+      "num": 303258,
       "word": "让领导窒息的婚假",
       "onboard_time": 1724388621,
       "rank": 21,
@@ -395,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 446959,
+      "num": 446959,
+      "word": "特朗普再遭死亡威胁",
+      "onboard_time": 1724396120,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 438275,
       "num": 438275,
       "word": "魏哲鸣一觉睡醒天塌了",
@@ -435,20 +459,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 388108,
+      "num": 388108,
+      "word": "130平装成了300平的即视感",
+      "onboard_time": 1724392041,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 387611,
       "num": 387611,
       "word": "长乐曲定档",
       "onboard_time": 1724382380,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 386150,
-      "num": 508560,
-      "word": "李庚希 你别跟我聊共情",
-      "onboard_time": 1724394739,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 380867,
@@ -467,12 +491,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 373523,
-      "num": 373523,
-      "word": "130平装成了300平的即视感",
-      "onboard_time": 1724392041,
-      "rank": 23,
-      "category": "情感"
+      "raw_hot": 367650,
+      "num": 303633,
+      "word": "男子开车打瞌睡80秒闭眼19次",
+      "onboard_time": 1724390661,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 367535,
@@ -587,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 303203,
+      "num": 303203,
+      "word": "王昶称社交媒体资料被扒光",
+      "onboard_time": 1724395939,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 298257,
       "num": 337015,
       "word": "女子运动减肥50斤被盗图卖减肥产品",
@@ -667,14 +699,6 @@
       "category": "游戏,美食"
     },
     {
-      "raw_hot": 270959,
-      "num": 270959,
-      "word": "男子开车打瞌睡80秒闭眼19次",
-      "onboard_time": 1724390661,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 268264,
       "num": 268264,
       "word": "女子下雨天拉隐形车门被熏吐了",
@@ -689,6 +713,14 @@
       "onboard_time": 1724380399,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 262515,
+      "num": 304492,
+      "word": "赵丽颖乔妍的心事贴片",
+      "onboard_time": 1724395700,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 261352,
@@ -795,6 +827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 233265,
+      "num": 304223,
+      "word": "电影刺猬今日上映",
+      "onboard_time": 1724382317,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 233253,
       "num": 233253,
       "word": "马嘉祺 染发",
@@ -825,6 +865,14 @@
       "onboard_time": 1724315421,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 222200,
+      "num": 222200,
+      "word": "WBG对战MRC",
+      "onboard_time": 1724396959,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 221393,
@@ -899,14 +947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 204932,
-      "num": 204932,
-      "word": "电影刺猬今日上映",
-      "onboard_time": 1724382317,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 204519,
       "num": 204519,
       "word": "原来婴儿的哭声有这么多含义",
@@ -921,6 +961,14 @@
       "onboard_time": 1724353871,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202842,
+      "num": 304132,
+      "word": "披哥后期",
+      "onboard_time": 1724393780,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 200052,
@@ -955,14 +1003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196554,
-      "num": 196554,
-      "word": "披哥后期",
-      "onboard_time": 1724393780,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 195275,
       "num": 195275,
       "word": "庆阳人民 王楚钦服不服",
@@ -985,6 +1025,14 @@
       "onboard_time": 1724355733,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192561,
+      "num": 284711,
+      "word": "小戏骨版林黛玉",
+      "onboard_time": 1724397259,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 191866,
@@ -1083,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183506,
+      "num": 183506,
+      "word": "黑神话悟空全球首位白金玩家",
+      "onboard_time": 1724393541,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 183139,
       "num": 177029,
       "word": "逛公园碰到了国乒队",
@@ -1105,6 +1161,14 @@
       "onboard_time": 1724385621,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177543,
+      "num": 177543,
+      "word": "杨戬的臂鞲",
+      "onboard_time": 1724393959,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 175850,
@@ -1251,14 +1315,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 157942,
-      "num": 157942,
-      "word": "杨戬的臂鞲",
-      "onboard_time": 1724393959,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 157631,
       "num": 157631,
       "word": "诺米讲脱口秀",
@@ -1275,19 +1331,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157374,
+      "num": 157374,
+      "word": "Giselle看了也会惊讶的错位",
+      "onboard_time": 1724397321,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 156085,
+      "num": 454748,
+      "word": "铁路客站男女厕位应为1比2",
+      "onboard_time": 1724394620,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154177,
       "num": 154177,
       "word": "如鸢",
       "onboard_time": 1724390661,
       "rank": 40,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 153339,
-      "num": 153339,
-      "word": "黑神话悟空全球首位白金玩家",
-      "onboard_time": 1724393541,
-      "rank": 47,
       "category": "游戏"
     },
     {
@@ -1305,6 +1369,14 @@
       "onboard_time": 1724345177,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 149271,
+      "num": 149271,
+      "word": "全红婵喜欢打游戏缓解紧张",
+      "onboard_time": 1724395819,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 148286,
@@ -1379,6 +1451,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 137587,
+      "num": 137587,
+      "word": "怎样看待基层干部人均一摞帽子",
+      "onboard_time": 1724396299,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136679,
       "num": 507394,
       "word": "哈里斯正式接受总统候选人提名",
@@ -1417,6 +1497,14 @@
       "onboard_time": 1724377100,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 132303,
+      "num": 132303,
+      "word": "185斤爸爸吃黄瓜暴瘦30斤割肝救女",
+      "onboard_time": 1724397560,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131722,
@@ -1636,7 +1724,7 @@
     },
     {
       "raw_hot": 78980,
-      "num": 2158172,
+      "num": 2322366,
       "word": "当动车组遇到月亮plus",
       "onboard_time": 1724384360,
       "rank": 2,
@@ -1649,6 +1737,14 @@
       "onboard_time": 1724369659,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75325,
+      "num": 397121,
+      "word": "泰国坠机5名乘客出生于浙江或上海",
+      "onboard_time": 1724396420,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74737,
@@ -1755,6 +1851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42835,
+      "num": 470929,
+      "word": "官方称渝昆高铁致6人死亡正在调查",
+      "onboard_time": 1724396420,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42228,
       "num": 337929,
       "word": "独居是一场自由与孤独的博弈",
@@ -1779,11 +1883,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36918,
-      "num": 454748,
-      "word": "铁路客站男女厕位应为1比2",
-      "onboard_time": 1724394620,
-      "rank": 9,
+      "raw_hot": 37635,
+      "num": 389718,
+      "word": "湖南居然还有人住在洞里",
+      "onboard_time": 1724396420,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
