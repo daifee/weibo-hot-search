@@ -1,6 +1,6 @@
 {
   "startTime": 1724344132300,
-  "endTime": 1724390403770,
+  "endTime": 1724391421762,
   "band_list": [
     {
       "raw_hot": 9647550,
@@ -371,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 425802,
+      "num": 291435,
+      "word": "让领导窒息的婚假",
+      "onboard_time": 1724388621,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 413680,
       "num": 413680,
       "word": "英国版比尔盖茨和女儿确认遇难",
@@ -385,6 +393,22 @@
       "onboard_time": 1724371638,
       "rank": 14,
       "category": "数码"
+    },
+    {
+      "raw_hot": 408294,
+      "num": 408294,
+      "word": "印度 高种姓",
+      "onboard_time": 1724390960,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 401384,
+      "num": 401384,
+      "word": "黑神话悟空的真身是淄博小伙",
+      "onboard_time": 1724389821,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 387611,
@@ -443,14 +467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 349270,
-      "num": 291435,
-      "word": "让领导窒息的婚假",
-      "onboard_time": 1724388621,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 345955,
       "num": 309250,
       "word": "去看演唱会找朋友借宿被拒了",
@@ -497,6 +513,14 @@
       "onboard_time": 1724344697,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 305060,
+      "num": 317501,
+      "word": "刘亦菲VOGUE金九封面来了",
+      "onboard_time": 1724389702,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 304937,
@@ -579,14 +603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 266876,
-      "num": 266876,
-      "word": "黑神话悟空的真身是淄博小伙",
-      "onboard_time": 1724389821,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 263722,
       "num": 263722,
       "word": "鞠婧祎网宣组声明",
@@ -601,14 +617,6 @@
       "onboard_time": 1724378420,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259585,
-      "num": 294582,
-      "word": "刘亦菲VOGUE金九封面来了",
-      "onboard_time": 1724389702,
-      "rank": 18,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 257923,
@@ -635,8 +643,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254627,
+      "num": 254627,
+      "word": "盛李豪张雨霏等记大功",
+      "onboard_time": 1724389343,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251309,
-      "num": 251309,
+      "num": 456770,
       "word": "实施网络传销涉案1000亿元嫌犯归案",
       "onboard_time": 1724386279,
       "rank": 35,
@@ -723,12 +739,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 226353,
-      "num": 226353,
-      "word": "盛李豪张雨霏等记大功",
-      "onboard_time": 1724389343,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 224962,
+      "num": 224962,
+      "word": "顾客花千元吃火锅吃出蟑螂索赔1万",
+      "onboard_time": 1724389880,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221393,
@@ -859,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191866,
+      "num": 226644,
+      "word": "张杰郑州",
+      "onboard_time": 1724390301,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 190869,
       "num": 190869,
       "word": "车险保费涨声一片",
@@ -931,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184626,
+      "num": 317459,
+      "word": "但拓不行 他不能捐",
+      "onboard_time": 1724390301,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183139,
       "num": 177029,
       "word": "逛公园碰到了国乒队",
@@ -995,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168729,
+      "num": 168729,
+      "word": "为什么不能一户一莎",
+      "onboard_time": 1724390781,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167511,
       "num": 167511,
       "word": "00后大学生试岗月薪一万五住家保姆",
@@ -1017,14 +1057,6 @@
       "onboard_time": 1724378479,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 164251,
-      "num": 164251,
-      "word": "张杰郑州",
-      "onboard_time": 1724390301,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 162322,
@@ -1067,14 +1099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 160132,
-      "num": 160132,
-      "word": "顾客花千元吃火锅吃出蟑螂索赔1万",
-      "onboard_time": 1724389880,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158971,
       "num": 158971,
       "word": "金子涵瘦脱相",
@@ -1083,12 +1107,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157631,
+      "num": 157631,
+      "word": "诺米讲脱口秀",
+      "onboard_time": 1724390720,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 154177,
+      "num": 154177,
+      "word": "如鸢",
+      "onboard_time": 1724390661,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 152358,
       "num": 152358,
       "word": "胡夏怎么又老又年轻的",
       "onboard_time": 1724380519,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152119,
+      "num": 152119,
+      "word": "李云中画的孙悟空",
+      "onboard_time": 1724391322,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 149427,
@@ -1147,6 +1195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140473,
+      "num": 140472,
+      "word": "男子开车打瞌睡80秒闭眼19次",
+      "onboard_time": 1724390661,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140125,
       "num": 140125,
       "word": "檀健次也抢不到演唱会的票",
@@ -1163,12 +1219,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138007,
-      "num": 284987,
-      "word": "但拓不行 他不能捐",
-      "onboard_time": 1724390301,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 138498,
+      "num": 138498,
+      "word": "炊事员端起大狙还拿了全国冠军",
+      "onboard_time": 1724391200,
+      "rank": 47,
+      "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 136679,
+      "num": 507394,
+      "word": "哈里斯正式接受总统候选人提名",
+      "onboard_time": 1724387481,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 136269,
@@ -1289,6 +1353,14 @@
       "onboard_time": 1724334321,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115151,
+      "num": 528861,
+      "word": "自己写的论文被误判为AI写作",
+      "onboard_time": 1724389222,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114697,
@@ -1435,28 +1507,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 71317,
-      "num": 507394,
-      "word": "哈里斯正式接受总统候选人提名",
-      "onboard_time": 1724387481,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 68835,
       "num": 68835,
       "word": "薛之谦QQ号是六位数的",
       "onboard_time": 1724349973,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 66262,
-      "num": 528861,
-      "word": "自己写的论文被误判为AI写作",
-      "onboard_time": 1724389222,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 65538,
@@ -1592,6 +1648,14 @@
       "word": "HPV疫苗随来随打几价都有",
       "onboard_time": 1724353572,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25433,
+      "num": 281542,
+      "word": "汽车充电宝可自动导航实现桩找车",
+      "onboard_time": 1724391020,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
