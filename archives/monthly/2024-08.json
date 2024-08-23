@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1724431299462,
+  "endTime": 1724433496050,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -17099,6 +17099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 734769,
+      "num": 734769,
+      "word": "中国象棋第一人王天一被批准逮捕",
+      "onboard_time": 1724430259,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 734358,
       "num": 636337,
       "word": "张本智和 被逆转的神",
@@ -20137,14 +20145,6 @@
       "onboard_time": 1723391723,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 601371,
-      "num": 423297,
-      "word": "中国象棋第一人王天一被批准逮捕",
-      "onboard_time": 1724430259,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 601033,
@@ -25089,6 +25089,14 @@
       "onboard_time": 1723052655,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 444872,
+      "num": 289074,
+      "word": "印度31岁遭奸杀女医生系独生女",
+      "onboard_time": 1724427198,
+      "rank": 34,
+      "category": "国外时政"
     },
     {
       "raw_hot": 444693,
@@ -45267,6 +45275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215458,
+      "num": 438499,
+      "word": "潘展乐的事业编同事招人了",
+      "onboard_time": 1724429539,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215424,
       "num": 215423,
       "word": "拳击女子75公斤级决赛",
@@ -51633,14 +51649,6 @@
       "onboard_time": 1724290458,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 189034,
-      "num": 189034,
-      "word": "印度31岁遭奸杀女医生系独生女",
-      "onboard_time": 1724427198,
-      "rank": 34,
-      "category": "国外时政"
     },
     {
       "raw_hot": 189020,
@@ -61011,6 +61019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117413,
+      "num": 126536,
+      "word": "深圳提灯定损最新进展",
+      "onboard_time": 1724431396,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117239,
       "num": 117239,
       "word": "美国女排晋级四强",
@@ -61715,6 +61731,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 106442,
+      "num": 147686,
+      "word": "李现男高即视感",
+      "onboard_time": 1724430858,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 106441,
       "num": 106441,
       "word": "孙颖莎在奥运期打了14场61局",
@@ -61915,6 +61939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 103608,
+      "num": 103608,
+      "word": "小狗狗欺负大狗狗",
+      "onboard_time": 1724431277,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103488,
       "num": 103488,
       "word": "马尔尚熄灭奥运圣火",
@@ -62096,14 +62128,6 @@
       "word": "阿尔弗雷德加冕女飞人",
       "onboard_time": 1722714073,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 101350,
-      "num": 438499,
-      "word": "潘展乐的事业编同事招人了",
-      "onboard_time": 1724429539,
-      "rank": 9,
       "category": "体育"
     },
     {
@@ -62297,14 +62321,6 @@
       "onboard_time": 1723513641,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 98274,
-      "num": 104278,
-      "word": "李现男高即视感",
-      "onboard_time": 1724430858,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 98206,
@@ -63041,14 +63057,6 @@
       "onboard_time": 1722740422,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 88525,
-      "num": 101966,
-      "word": "小狗狗欺负大狗狗",
-      "onboard_time": 1724431277,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 88506,
@@ -63993,6 +64001,14 @@
       "onboard_time": 1723191803,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75512,
+      "num": 93490,
+      "word": "林墨工作室回应疑似林墨恋情",
+      "onboard_time": 1724433195,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 75479,
@@ -69857,6 +69873,14 @@
       "onboard_time": 1723627222,
       "rank": 8,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 25149,
+      "num": 141428,
+      "word": "住建部表示老百姓交了钱就应该拿到房",
+      "onboard_time": 1724433255,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25061,

@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724431299462,
+  "endTime": 1724433496050,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -2891,6 +2891,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 734769,
+      "num": 734769,
+      "word": "中国象棋第一人王天一被批准逮捕",
+      "onboard_time": 1724430259,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 733856,
       "num": 733856,
       "word": "中国海警对菲侵权船只依法依规实施管控措施",
@@ -3585,14 +3593,6 @@
       "onboard_time": 1724138544,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 601371,
-      "num": 423297,
-      "word": "中国象棋第一人王天一被批准逮捕",
-      "onboard_time": 1724430259,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 601033,
@@ -4713,6 +4713,14 @@
       "onboard_time": 1724309960,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 444872,
+      "num": 289074,
+      "word": "印度31岁遭奸杀女医生系独生女",
+      "onboard_time": 1724427198,
+      "rank": 34,
+      "category": "国外时政"
     },
     {
       "raw_hot": 444559,
@@ -9531,6 +9539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215458,
+      "num": 438499,
+      "word": "潘展乐的事业编同事招人了",
+      "onboard_time": 1724429539,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215378,
       "num": 454748,
       "word": "铁路客站男女厕位应为1比2",
@@ -11393,14 +11409,6 @@
       "onboard_time": 1724290458,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 189034,
-      "num": 189034,
-      "word": "印度31岁遭奸杀女医生系独生女",
-      "onboard_time": 1724427198,
-      "rank": 34,
-      "category": "国外时政"
     },
     {
       "raw_hot": 188949,
@@ -15227,6 +15235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117413,
+      "num": 126536,
+      "word": "深圳提灯定损最新进展",
+      "onboard_time": 1724431396,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116494,
       "num": 359187,
       "word": "密室大逃脱",
@@ -15459,6 +15475,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 106442,
+      "num": 147686,
+      "word": "李现男高即视感",
+      "onboard_time": 1724430858,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 105834,
       "num": 727907,
       "word": "小鹏MONA开起来像20万以上的车",
@@ -15515,6 +15539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103608,
+      "num": 103608,
+      "word": "小狗狗欺负大狗狗",
+      "onboard_time": 1724431277,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103202,
       "num": 103202,
       "word": "这个月处女座是幸运儿",
@@ -15569,14 +15601,6 @@
       "onboard_time": 1724073142,
       "rank": 14,
       "category": "自然"
-    },
-    {
-      "raw_hot": 101350,
-      "num": 438499,
-      "word": "潘展乐的事业编同事招人了",
-      "onboard_time": 1724429539,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 101296,
@@ -15641,14 +15665,6 @@
       "onboard_time": 1724241620,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 98274,
-      "num": 104278,
-      "word": "李现男高即视感",
-      "onboard_time": 1724430858,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 98206,
@@ -15793,14 +15809,6 @@
       "onboard_time": 1724252420,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 88525,
-      "num": 101966,
-      "word": "小狗狗欺负大狗狗",
-      "onboard_time": 1724431277,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 88503,
@@ -16065,6 +16073,14 @@
       "onboard_time": 1723986079,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 75512,
+      "num": 93490,
+      "word": "林墨工作室回应疑似林墨恋情",
+      "onboard_time": 1724433195,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 75479,
@@ -17793,6 +17809,14 @@
       "onboard_time": 1724047220,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 25149,
+      "num": 141428,
+      "word": "住建部表示老百姓交了钱就应该拿到房",
+      "onboard_time": 1724433255,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25061,
