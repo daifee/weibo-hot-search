@@ -1,6 +1,6 @@
 {
   "startTime": 1724344132300,
-  "endTime": 1724387101273,
+  "endTime": 1724387921315,
   "band_list": [
     {
       "raw_hot": 2842443,
@@ -99,20 +99,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1069697,
+      "num": 1069697,
+      "word": "6年赚了300亿孙悟空才是真财神",
+      "onboard_time": 1724382140,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1057775,
       "num": 1057775,
       "word": "韩安冉妈妈拿走了小猪妹的黄金",
       "onboard_time": 1724339840,
       "rank": 0,
       "category": "网红"
-    },
-    {
-      "raw_hot": 941925,
-      "num": 941925,
-      "word": "6年赚了300亿孙悟空才是真财神",
-      "onboard_time": 1724382140,
-      "rank": 13,
-      "category": "游戏"
     },
     {
       "raw_hot": 940240,
@@ -315,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 480066,
+      "num": 480066,
+      "word": "渝昆高铁项目发生事故致6死",
+      "onboard_time": 1724384420,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 457670,
       "num": 457670,
       "word": "周迅 50岁正是迷死人的年纪",
@@ -339,11 +347,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 428835,
-      "num": 428835,
-      "word": "渝昆高铁项目发生事故致6死",
-      "onboard_time": 1724384420,
-      "rank": 16,
+      "raw_hot": 415628,
+      "num": 369611,
+      "word": "行李箱超2厘米加收700元女子大闹机场",
+      "onboard_time": 1724384781,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -379,12 +387,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 369611,
-      "num": 369611,
-      "word": "行李箱超2厘米加收700元女子大闹机场",
-      "onboard_time": 1724384781,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 380093,
+      "num": 380093,
+      "word": "四方馆空降",
+      "onboard_time": 1724386941,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 367535,
+      "num": 367535,
+      "word": "凤凰传奇成都",
+      "onboard_time": 1724386761,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 367466,
@@ -435,14 +451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 320061,
-      "num": 326577,
-      "word": "凤凰传奇成都",
-      "onboard_time": 1724386761,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
       "raw_hot": 306514,
       "num": 358295,
       "word": "黄晓明探班黄奕张晚意",
@@ -465,14 +473,6 @@
       "onboard_time": 1724333360,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 302576,
-      "num": 324412,
-      "word": "四方馆空降",
-      "onboard_time": 1724386941,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 288774,
@@ -587,6 +587,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242929,
+      "num": 242929,
+      "word": "简爱酸奶",
+      "onboard_time": 1724385199,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 242258,
+      "num": 508845,
+      "word": "基层很忙为何群众不买账",
+      "onboard_time": 1724385621,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239885,
       "num": 239885,
       "word": "他演了黑神话悟空百分之六七十的怪",
@@ -659,14 +675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 219535,
-      "num": 219535,
-      "word": "简爱酸奶",
-      "onboard_time": 1724385199,
-      "rank": 40,
-      "category": "美食"
-    },
-    {
       "raw_hot": 219289,
       "num": 219289,
       "word": "当爸妈知道我在外租房会叫保洁阿姨",
@@ -704,6 +712,22 @@
       "word": "末伏最后1天",
       "onboard_time": 1724373740,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208004,
+      "num": 427628,
+      "word": "家昱户筱试婚纱不像演的",
+      "onboard_time": 1724386100,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 205082,
+      "num": 205082,
+      "word": "物业称禁止外卖上楼获租户认可",
+      "onboard_time": 1724383699,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -747,12 +771,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195447,
-      "num": 427628,
-      "word": "家昱户筱试婚纱不像演的",
+      "raw_hot": 195275,
+      "num": 195275,
+      "word": "庆阳人民 王楚钦服不服",
       "onboard_time": 1724386100,
-      "rank": 17,
-      "category": "剧集"
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 195041,
+      "num": 195041,
+      "word": "果然好的阿姨是不会出现在市场的",
+      "onboard_time": 1724387120,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 192684,
@@ -761,22 +793,6 @@
       "onboard_time": 1724355733,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192245,
-      "num": 192245,
-      "word": "物业称禁止外卖上楼获租户认可",
-      "onboard_time": 1724383699,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190395,
-      "num": 190395,
-      "word": "庆阳人民 王楚钦服不服",
-      "onboard_time": 1724386100,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 188801,
@@ -801,6 +817,14 @@
       "onboard_time": 1724373260,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188008,
+      "num": 188008,
+      "word": "喜剧之王单口季",
+      "onboard_time": 1724387660,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 187893,
@@ -833,6 +857,30 @@
       "onboard_time": 1724341941,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183059,
+      "num": 183059,
+      "word": "周鸿祎用影院级设备玩黑神话悟空",
+      "onboard_time": 1724387780,
+      "rank": 45,
+      "category": "游戏,互联网"
+    },
+    {
+      "raw_hot": 181655,
+      "num": 737175,
+      "word": "究竟谁在贩卖容貌焦虑",
+      "onboard_time": 1724385621,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178580,
+      "num": 178580,
+      "word": "车险保费涨声一片",
+      "onboard_time": 1724387541,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174153,
@@ -1035,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133604,
+      "num": 367270,
+      "word": "被方大同新歌歌词刀哭",
+      "onboard_time": 1724387360,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 133385,
       "num": 133385,
       "word": "国自然放榜",
@@ -1147,14 +1203,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 114069,
-      "num": 508845,
-      "word": "基层很忙为何群众不买账",
-      "onboard_time": 1724385621,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110244,
       "num": 110244,
       "word": "印度女医生",
@@ -1193,14 +1241,6 @@
       "onboard_time": 1724367074,
       "rank": 42,
       "category": "科学科普,健康医疗"
-    },
-    {
-      "raw_hot": 102943,
-      "num": 737175,
-      "word": "究竟谁在贩卖容貌焦虑",
-      "onboard_time": 1724385621,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102731,
@@ -1291,6 +1331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71317,
+      "num": 507394,
+      "word": "哈里斯正式接受总统候选人提名",
+      "onboard_time": 1724387481,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 68835,
       "num": 68835,
       "word": "薛之谦QQ号是六位数的",
@@ -1371,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41302,
+      "num": 219851,
+      "word": "菌子中毒能走医保吗",
+      "onboard_time": 1724385621,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 39166,
       "num": 374776,
       "word": "后厨是否干净不能单靠外卖员监督",
@@ -1409,14 +1465,6 @@
       "onboard_time": 1724353572,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31729,
-      "num": 219851,
-      "word": "菌子中毒能走医保吗",
-      "onboard_time": 1724385621,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 23777,
