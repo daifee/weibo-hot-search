@@ -1,6 +1,6 @@
 {
   "startTime": 1724344132300,
-  "endTime": 1724398585516,
+  "endTime": 1724401579999,
   "band_list": [
     {
       "raw_hot": 9647550,
@@ -75,6 +75,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1526508,
+      "num": 1526508,
+      "word": "警察叔叔我姐姐姑妈弟弟全丢了",
+      "onboard_time": 1724398821,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1510736,
       "num": 1510736,
       "word": "中国女子在泰国遭辱骂漂亮反击",
@@ -92,11 +100,19 @@
     },
     {
       "raw_hot": 1440974,
-      "num": 529172,
+      "num": 590244,
       "word": "谢霆锋把手搭在王菲腿上",
       "onboard_time": 1724394198,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1416823,
+      "num": 592998,
+      "word": "印度强奸案细节堪比恐怖片",
+      "onboard_time": 1724399900,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1279642,
@@ -161,6 +177,14 @@
       "onboard_time": 1724337021,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 921244,
+      "num": 921244,
+      "word": "赵露思背上好多膏药贴",
+      "onboard_time": 1724399541,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 902990,
@@ -251,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 641428,
+      "num": 641428,
+      "word": "王昶称社交媒体资料被扒光",
+      "onboard_time": 1724395939,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 632267,
       "num": 632267,
       "word": "特朗普再遭死亡威胁",
@@ -315,12 +347,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 586470,
+      "num": 586470,
+      "word": "小戏骨版林黛玉",
+      "onboard_time": 1724397259,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 583618,
       "num": 583618,
       "word": "你真是瘦了",
       "onboard_time": 1724372478,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 582459,
+      "num": 582459,
+      "word": "黑神话悟空全球首位白金玩家",
+      "onboard_time": 1724393541,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 578149,
@@ -419,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 451286,
+      "num": 451286,
+      "word": "F勒布伦谈球拍事件",
+      "onboard_time": 1724401100,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 443562,
       "num": 443562,
       "word": "130平装成了300平的即视感",
@@ -440,22 +496,6 @@
       "word": "孙颖莎龙道一等被记大功",
       "onboard_time": 1724325620,
       "rank": 11,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 423274,
-      "num": 423274,
-      "word": "小戏骨版林黛玉",
-      "onboard_time": 1724397259,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 422874,
-      "num": 422874,
-      "word": "王昶称社交媒体资料被扒光",
-      "onboard_time": 1724395939,
-      "rank": 22,
       "category": "体育"
     },
     {
@@ -611,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 319430,
+      "num": 446039,
+      "word": "Buzzy道歉",
+      "onboard_time": 1724398459,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 306514,
       "num": 358295,
       "word": "黄晓明探班黄奕张晚意",
@@ -657,6 +705,14 @@
       "onboard_time": 1724394860,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 290967,
+      "num": 290967,
+      "word": "全家给爸爸过生日忘了大学生在家",
+      "onboard_time": 1724398758,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288774,
@@ -723,6 +779,14 @@
       "category": "游戏,美食"
     },
     {
+      "raw_hot": 269990,
+      "num": 269990,
+      "word": "中共中央政治局8月23日召开会议",
+      "onboard_time": 1724398821,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 268264,
       "num": 268264,
       "word": "女子下雨天拉隐形车门被熏吐了",
@@ -779,20 +843,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256140,
+      "num": 432568,
+      "word": "Giselle看了也会惊讶的错位",
+      "onboard_time": 1724397321,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 254627,
       "num": 254627,
       "word": "盛李豪张雨霏等记大功",
       "onboard_time": 1724389343,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 251318,
-      "num": 251318,
-      "word": "黑神话悟空全球首位白金玩家",
-      "onboard_time": 1724393541,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 251309,
@@ -816,6 +880,14 @@
       "word": "披哥后期",
       "onboard_time": 1724393780,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 248547,
+      "num": 291253,
+      "word": "财务自由才是真正的自由",
+      "onboard_time": 1724398940,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -899,20 +971,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231017,
+      "num": 231017,
+      "word": "王楚钦说公园大爷的球技水平很高",
+      "onboard_time": 1724399001,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 230881,
       "num": 230881,
       "word": "黑神话",
       "onboard_time": 1724315421,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 229045,
-      "num": 241028,
-      "word": "Giselle看了也会惊讶的错位",
-      "onboard_time": 1724397321,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 222200,
@@ -979,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208907,
+      "num": 208907,
+      "word": "男子光天化日当街抚摸倒地女子胸部",
+      "onboard_time": 1724401342,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208004,
       "num": 427628,
       "word": "家昱户筱试婚纱不像演的",
@@ -1027,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201758,
+      "num": 290979,
+      "word": "张晚意左肩工伤",
+      "onboard_time": 1724400802,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200052,
       "num": 275323,
       "word": "娜扎 我跟你之间什么都可以",
@@ -1057,6 +1145,22 @@
       "onboard_time": 1724386460,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198122,
+      "num": 198122,
+      "word": "第一次见男主提刀接亲的",
+      "onboard_time": 1724401040,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 197852,
+      "num": 197852,
+      "word": "AI竟偷偷独自重写自己的代码",
+      "onboard_time": 1724398221,
+      "rank": 38,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 196343,
@@ -1097,6 +1201,22 @@
       "onboard_time": 1724390301,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 191755,
+      "num": 191755,
+      "word": "邓为费加罗男士九月预告",
+      "onboard_time": 1724400382,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 191381,
+      "num": 191381,
+      "word": "张予曦方发声",
+      "onboard_time": 1724401100,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 190869,
@@ -1147,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188072,
+      "num": 397121,
+      "word": "泰国坠机5名乘客出生于浙江或上海",
+      "onboard_time": 1724396420,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188008,
       "num": 188008,
       "word": "喜剧之王单口季",
@@ -1187,6 +1315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184513,
+      "num": 240480,
+      "word": "说唱歌手Buzzy在乃万评论区怼网友",
+      "onboard_time": 1724397738,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183139,
       "num": 177029,
       "word": "逛公园碰到了国乒队",
@@ -1209,6 +1345,14 @@
       "onboard_time": 1724385621,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177053,
+      "num": 177053,
+      "word": "李云中删博",
+      "onboard_time": 1724401160,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 175850,
@@ -1243,14 +1387,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 172999,
-      "num": 240480,
-      "word": "说唱歌手Buzzy在乃万评论区怼网友",
-      "onboard_time": 1724397738,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 171604,
       "num": 353847,
       "word": "男子称车充电1分钟预估扣款7万多",
@@ -1275,12 +1411,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169387,
+      "num": 169387,
+      "word": "日常碎片plog",
+      "onboard_time": 1724401401,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 169008,
+      "num": 169008,
+      "word": "为什么一去医院看病就要抽血",
+      "onboard_time": 1724400920,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 168729,
       "num": 168729,
       "word": "为什么不能一户一莎",
       "onboard_time": 1724390781,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168272,
+      "num": 168272,
+      "word": "EDG",
+      "onboard_time": 1724401521,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 167511,
@@ -1411,14 +1571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148978,
-      "num": 148978,
-      "word": "Buzzy道歉",
-      "onboard_time": 1724398459,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 148286,
       "num": 148286,
       "word": "天命人山西集合",
@@ -1537,14 +1689,6 @@
       "onboard_time": 1724370678,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134831,
-      "num": 397121,
-      "word": "泰国坠机5名乘客出生于浙江或上海",
-      "onboard_time": 1724396420,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133604,
@@ -1739,6 +1883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100129,
+      "num": 602528,
+      "word": "泰坠毁飞机有5名中国游客最小12岁",
+      "onboard_time": 1724400080,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92392,
       "num": 92392,
       "word": "黑神话悟空",
@@ -1769,6 +1921,14 @@
       "onboard_time": 1724305580,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84379,
+      "num": 1079646,
+      "word": "今天是2024三伏天最后一天",
+      "onboard_time": 1724400140,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 79181,
@@ -1843,6 +2003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 62731,
+      "num": 571964,
+      "word": "他在农村盖了十层哈尔的移动城堡",
+      "onboard_time": 1724400021,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62134,
       "num": 633315,
       "word": "东北婚恋市场对体制内的执念有多深",
@@ -1868,7 +2036,7 @@
     },
     {
       "raw_hot": 57185,
-      "num": 209021,
+      "num": 366788,
       "word": "美特斯邦威要做大牌平替",
       "onboard_time": 1724398099,
       "rank": 33,
@@ -1979,6 +2147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33761,
+      "num": 597772,
+      "word": "韩国华城电池厂火灾调查结果公布",
+      "onboard_time": 1724400021,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29977,
       "num": 265084,
       "word": "史妍 做物业和踢足球有什么区别",
@@ -2068,6 +2244,9 @@
     },
     {
       "word": "#习近平强调始终走正道善于闯新路#"
+    },
+    {
+      "word": "#习近平将出席2024年中非合作论坛峰会开幕式#"
     }
   ]
 }

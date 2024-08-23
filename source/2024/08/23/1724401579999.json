@@ -1,0 +1,410 @@
+{
+  "runTime": 1724401579999,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1526508,
+        "num": 1526508,
+        "word": "警察叔叔我姐姐姑妈弟弟全丢了",
+        "onboard_time": 1724398821,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1441001,
+        "num": 1441001,
+        "word": "李庚希 你别跟我聊共情",
+        "onboard_time": 1724394739,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84379,
+        "num": 1079646,
+        "word": "今天是2024三伏天最后一天",
+        "onboard_time": 1724400140,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 921244,
+        "num": 921244,
+        "word": "赵露思背上好多膏药贴",
+        "onboard_time": 1724399541,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 719152,
+        "num": 719152,
+        "word": "泰国坠机事件5名中国乘客遗体找到",
+        "onboard_time": 1724395399,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1144345,
+        "num": 706240,
+        "word": "印度151名议员对妇女实施犯罪",
+        "onboard_time": 1724384301,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 641428,
+        "num": 641428,
+        "word": "王昶称社交媒体资料被扒光",
+        "onboard_time": 1724395939,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 603652,
+        "num": 603652,
+        "word": "特朗普再遭死亡威胁",
+        "onboard_time": 1724396120,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 100129,
+        "num": 602528,
+        "word": "泰坠毁飞机有5名中国游客最小12岁",
+        "onboard_time": 1724400080,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33761,
+        "num": 597772,
+        "word": "韩国华城电池厂火灾调查结果公布",
+        "onboard_time": 1724400021,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1416823,
+        "num": 592998,
+        "word": "印度强奸案细节堪比恐怖片",
+        "onboard_time": 1724399900,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 863006,
+        "num": 590244,
+        "word": "谢霆锋把手搭在王菲腿上",
+        "onboard_time": 1724394198,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 586470,
+        "num": 586470,
+        "word": "小戏骨版林黛玉",
+        "onboard_time": 1724397259,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 582459,
+        "num": 582459,
+        "word": "黑神话悟空全球首位白金玩家",
+        "onboard_time": 1724393541,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 62731,
+        "num": 571964,
+        "word": "他在农村盖了十层哈尔的移动城堡",
+        "onboard_time": 1724400021,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569590,
+        "num": 569590,
+        "word": "免费帮客人绞肉致残能索赔吗",
+        "onboard_time": 1724380940,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451286,
+        "num": 451286,
+        "word": "F勒布伦谈球拍事件",
+        "onboard_time": 1724401100,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 319430,
+        "num": 446039,
+        "word": "Buzzy道歉",
+        "onboard_time": 1724398459,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256140,
+        "num": 432568,
+        "word": "Giselle看了也会惊讶的错位",
+        "onboard_time": 1724397321,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254166,
+        "num": 402918,
+        "word": "乃万 恋与深空",
+        "onboard_time": 1724384060,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3737934,
+        "num": 386837,
+        "word": "黑神话悟空疑似抄袭",
+        "onboard_time": 1724386221,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 15692,
+        "num": 366788,
+        "word": "美特斯邦威要做大牌平替",
+        "onboard_time": 1724398099,
+        "rank": 21,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1713576,
+        "num": 359967,
+        "word": "印度奸杀案",
+        "onboard_time": 1724393060,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342823,
+        "num": 342823,
+        "word": "CPA税法",
+        "onboard_time": 1724397799,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1160439,
+        "num": 334768,
+        "word": "印度 高种姓",
+        "onboard_time": 1724390960,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301719,
+        "num": 301719,
+        "word": "让领导窒息的婚假",
+        "onboard_time": 1724388621,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 293794,
+        "num": 293794,
+        "word": "男子开车打瞌睡80秒闭眼19次",
+        "onboard_time": 1724390661,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248547,
+        "num": 291253,
+        "word": "财务自由才是真正的自由",
+        "onboard_time": 1724398940,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211377,
+        "num": 291085,
+        "word": "电影刺猬今日上映",
+        "onboard_time": 1724382317,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201758,
+        "num": 290979,
+        "word": "张晚意左肩工伤",
+        "onboard_time": 1724400802,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290967,
+        "num": 290967,
+        "word": "全家给爸爸过生日忘了大学生在家",
+        "onboard_time": 1724398758,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269990,
+        "num": 269990,
+        "word": "中共中央政治局8月23日召开会议",
+        "onboard_time": 1724398821,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 231199,
+        "num": 231199,
+        "word": "黑神话悟空的真身是淄博小伙",
+        "onboard_time": 1724389821,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 231017,
+        "num": 231017,
+        "word": "王楚钦说公园大爷的球技水平很高",
+        "onboard_time": 1724399001,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228327,
+        "num": 228327,
+        "word": "李云中画的孙悟空",
+        "onboard_time": 1724391322,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 208907,
+        "num": 208907,
+        "word": "男子光天化日当街抚摸倒地女子胸部",
+        "onboard_time": 1724401342,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198746,
+        "num": 198746,
+        "word": "印度女医生",
+        "onboard_time": 1724299879,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198122,
+        "num": 198122,
+        "word": "第一次见男主提刀接亲的",
+        "onboard_time": 1724401040,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197852,
+        "num": 197852,
+        "word": "AI竟偷偷独自重写自己的代码",
+        "onboard_time": 1724398221,
+        "rank": 38,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 191755,
+        "num": 191755,
+        "word": "邓为费加罗男士九月预告",
+        "onboard_time": 1724400382,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 191381,
+        "num": 191381,
+        "word": "张予曦方发声",
+        "onboard_time": 1724401100,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190268,
+        "num": 190268,
+        "word": "赵丽颖乔妍的心事贴片",
+        "onboard_time": 1724395700,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188072,
+        "num": 188072,
+        "word": "泰国坠机5名乘客出生于浙江或上海",
+        "onboard_time": 1724396420,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185714,
+        "num": 185714,
+        "word": "被NHK解雇的中国籍员工全部发言",
+        "onboard_time": 1724377939,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184513,
+        "num": 184513,
+        "word": "说唱歌手Buzzy在乃万评论区怼网友",
+        "onboard_time": 1724397738,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177053,
+        "num": 177053,
+        "word": "李云中删博",
+        "onboard_time": 1724401160,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169387,
+        "num": 169387,
+        "word": "日常碎片plog",
+        "onboard_time": 1724401401,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169008,
+        "num": 169008,
+        "word": "为什么一去医院看病就要抽血",
+        "onboard_time": 1724400920,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 168272,
+        "num": 168272,
+        "word": "EDG",
+        "onboard_time": 1724401521,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167668,
+        "num": 167668,
+        "word": "邱贻可说孙颖莎值得信赖",
+        "onboard_time": 1724388982,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将出席2024年中非合作论坛峰会开幕式#"
+    }
+  }
+}
