@@ -1,6 +1,6 @@
 {
   "startTime": 1724344132300,
-  "endTime": 1724416689852,
+  "endTime": 1724417608402,
   "band_list": [
     {
       "raw_hot": 9647550,
@@ -73,6 +73,14 @@
       "onboard_time": 1724401100,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1861935,
+      "num": 1861935,
+      "word": "男子内急借用镇政府厕所被保安阻拦",
+      "onboard_time": 1724411420,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1805874,
@@ -267,14 +275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 911737,
-      "num": 911737,
-      "word": "男子内急借用镇政府厕所被保安阻拦",
-      "onboard_time": 1724411420,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 905032,
       "num": 1144805,
       "word": "刘亦菲谈郑钦文夺冠",
@@ -451,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 639073,
+      "num": 639073,
+      "word": "黄灿灿的微博像一本的青春校园小说",
+      "onboard_time": 1724414001,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 632267,
       "num": 632267,
       "word": "特朗普再遭死亡威胁",
@@ -579,12 +587,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 544795,
-      "num": 544795,
+      "raw_hot": 559566,
+      "num": 559566,
       "word": "时代少年团演唱会直播",
       "onboard_time": 1724411359,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 546690,
+      "num": 503564,
+      "word": "刺猬票房",
+      "onboard_time": 1724411839,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 536918,
@@ -609,14 +625,6 @@
       "onboard_time": 1724368939,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 502458,
-      "num": 502458,
-      "word": "刺猬票房",
-      "onboard_time": 1724411839,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 497260,
@@ -763,20 +771,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 402648,
+      "num": 456776,
+      "word": "韩漫疑似抄袭汪顺人设",
+      "onboard_time": 1724411659,
+      "rank": 45,
+      "category": "体育,动漫"
+    },
+    {
       "raw_hot": 401384,
       "num": 401384,
       "word": "黑神话悟空的真身是淄博小伙",
       "onboard_time": 1724389821,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 395819,
-      "num": 395819,
-      "word": "黄灿灿的微博像一本的青春校园小说",
-      "onboard_time": 1724414001,
-      "rank": 26,
-      "category": "网红"
     },
     {
       "raw_hot": 387611,
@@ -923,14 +931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 330021,
-      "num": 456776,
-      "word": "韩漫疑似抄袭汪顺人设",
-      "onboard_time": 1724411659,
-      "rank": 45,
-      "category": "体育,动漫"
-    },
-    {
       "raw_hot": 324272,
       "num": 324272,
       "word": "四六级差1分世界都变了",
@@ -945,6 +945,14 @@
       "onboard_time": 1724371158,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 318774,
+      "num": 318774,
+      "word": "王一博戴耳钉",
+      "onboard_time": 1724415981,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 306879,
@@ -1012,7 +1020,7 @@
     },
     {
       "raw_hot": 295465,
-      "num": 295465,
+      "num": 409321,
       "word": "泰国出事飞机系顶奢酒店私有",
       "onboard_time": 1724403682,
       "rank": 32,
@@ -1075,6 +1083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 282422,
+      "num": 282422,
+      "word": "余景天音乐银行第一名",
+      "onboard_time": 1724416759,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 281102,
       "num": 281102,
       "word": "最近跟悟空攀上关系的人都赚了多少",
@@ -1132,7 +1148,7 @@
     },
     {
       "raw_hot": 269679,
-      "num": 269679,
+      "num": 512424,
       "word": "马琳帮王曼昱弹飞虫",
       "onboard_time": 1724413280,
       "rank": 32,
@@ -1145,14 +1161,6 @@
       "onboard_time": 1724336001,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268086,
-      "num": 268086,
-      "word": "王一博戴耳钉",
-      "onboard_time": 1724415981,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 265708,
@@ -1491,6 +1499,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213332,
+      "num": 213332,
+      "word": "王一博 松弛感",
+      "onboard_time": 1724416520,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 210114,
+      "num": 210114,
+      "word": "法证先锋6大结局",
+      "onboard_time": 1724414960,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208185,
       "num": 208185,
       "word": "王一博拖鞋登场",
@@ -1513,6 +1537,14 @@
       "onboard_time": 1724404880,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206343,
+      "num": 206343,
+      "word": "丁程鑫演唱会大屏视角",
+      "onboard_time": 1724416700,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 206196,
@@ -1561,14 +1593,6 @@
       "onboard_time": 1724396420,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203738,
-      "num": 203738,
-      "word": "王一博 松弛感",
-      "onboard_time": 1724416520,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 203685,
@@ -1635,6 +1659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196436,
+      "num": 196436,
+      "word": "陶喆上海站抢票",
+      "onboard_time": 1724417001,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 196343,
       "num": 196343,
       "word": "MRC",
@@ -1649,6 +1681,14 @@
       "onboard_time": 1724412259,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195462,
+      "num": 195462,
+      "word": "柳舟记23集",
+      "onboard_time": 1724416759,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 195275,
@@ -1723,6 +1763,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190491,
+      "num": 190491,
+      "word": "高考完两个月仍无法释怀",
+      "onboard_time": 1724417360,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 190231,
+      "num": 190231,
+      "word": "张歆艺与儿子为袁弘庆生",
+      "onboard_time": 1724416880,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190134,
       "num": 190134,
       "word": "进一步推动西部大开发形成新格局",
@@ -1747,6 +1803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 189765,
+      "num": 189765,
+      "word": "周琦成为受限制自由球员",
+      "onboard_time": 1724417120,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188905,
       "num": 265275,
       "word": "王一博勇气编织绳索汗水锻造决心",
@@ -1769,14 +1833,6 @@
       "onboard_time": 1724383579,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 188681,
-      "num": 188681,
-      "word": "法证先锋6大结局",
-      "onboard_time": 1724414960,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 188531,
@@ -1865,6 +1921,14 @@
       "onboard_time": 1724390301,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184574,
+      "num": 545360,
+      "word": "印度31岁女医生遭奸杀父母发声",
+      "onboard_time": 1724415740,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184513,
@@ -2563,11 +2627,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 87348,
-      "num": 545360,
-      "word": "印度31岁女医生遭奸杀父母发声",
-      "onboard_time": 1724415740,
-      "rank": 8,
+      "raw_hot": 88503,
+      "num": 545189,
+      "word": "国博已封禁超百万个高频访问IP",
+      "onboard_time": 1724415621,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2779,14 +2843,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 45305,
-      "num": 545189,
-      "word": "国博已封禁超百万个高频访问IP",
-      "onboard_time": 1724415621,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 42228,
       "num": 337929,
       "word": "独居是一场自由与孤独的博弈",
@@ -2820,7 +2876,7 @@
     },
     {
       "raw_hot": 36325,
-      "num": 415333,
+      "num": 489442,
       "word": "古风的诗意被它拿捏了",
       "onboard_time": 1724415800,
       "rank": 24,
