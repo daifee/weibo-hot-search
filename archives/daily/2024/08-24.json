@@ -1,6 +1,6 @@
 {
   "startTime": 1724430385634,
-  "endTime": 1724430385634,
+  "endTime": 1724431299462,
   "band_list": [
     {
       "raw_hot": 1232325,
@@ -19,8 +19,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1116771,
-      "num": 1116771,
+      "raw_hot": 1117585,
+      "num": 1117585,
       "word": "台湾长荣集团认同九二共识反对台独",
       "onboard_time": 1724425221,
       "rank": 0,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 601371,
+      "num": 423297,
+      "word": "中国象棋第一人王天一被批准逮捕",
+      "onboard_time": 1724430259,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 579158,
       "num": 579158,
       "word": "全红婵因劳损跳水前要花半小时绑绷带",
@@ -83,19 +91,19 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 511711,
+      "num": 394551,
+      "word": "冯骥 为黑神话悟空喝彩",
+      "onboard_time": 1724427560,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 425249,
       "num": 425249,
       "word": "男子通过酒店员工获取女友入住信息",
       "onboard_time": 1724427681,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 423297,
-      "num": 423297,
-      "word": "中国象棋第一人王天一被批准逮捕",
-      "onboard_time": 1724430259,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -107,28 +115,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 395248,
+      "num": 395248,
+      "word": "蒋奇明演技",
+      "onboard_time": 1724428820,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 367146,
       "num": 367146,
       "word": "张杰演唱会穿了歌迷设计的衣服",
       "onboard_time": 1724428460,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 362568,
-      "num": 174471,
-      "word": "冯骥 为黑神话悟空喝彩",
-      "onboard_time": 1724427560,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 332034,
-      "num": 332034,
-      "word": "蒋奇明演技",
-      "onboard_time": 1724428820,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 325532,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 240959,
-      "num": 193589,
+      "num": 195766,
       "word": "谁家男主第一集就被女主踩",
       "onboard_time": 1724427441,
       "rank": 24,
@@ -209,6 +209,14 @@
       "onboard_time": 1724420000,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189034,
+      "num": 189034,
+      "word": "印度31岁遭奸杀女医生系独生女",
+      "onboard_time": 1724427198,
+      "rank": 34,
+      "category": "国外时政"
     },
     {
       "raw_hot": 182906,
@@ -251,14 +259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162833,
-      "num": 157931,
-      "word": "印度31岁遭奸杀女医生系独生女",
-      "onboard_time": 1724427198,
-      "rank": 34,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 158134,
       "num": 158134,
       "word": "郑钧 歌手没有专业的",
@@ -291,8 +291,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138878,
-      "num": 138878,
+      "raw_hot": 141278,
+      "num": 141278,
       "word": "印度31岁女医生遭奸杀父母发声",
       "onboard_time": 1724415740,
       "rank": 38,
@@ -393,6 +393,30 @@
       "onboard_time": 1724424201,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 98274,
+      "num": 104278,
+      "word": "李现男高即视感",
+      "onboard_time": 1724430858,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 95806,
+      "num": 103837,
+      "word": "中餐厅",
+      "onboard_time": 1724430618,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 88525,
+      "num": 101966,
+      "word": "小狗狗欺负大狗狗",
+      "onboard_time": 1724431277,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 36130,
