@@ -1,0 +1,410 @@
+{
+  "runTime": 1724381408117,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1472318,
+        "num": 1472318,
+        "word": "被NHK解雇的中国籍员工全部发言",
+        "onboard_time": 1724377939,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1351422,
+        "num": 1351422,
+        "word": "中国女子在泰国遭辱骂漂亮反击",
+        "onboard_time": 1724374819,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7661,
+        "num": 1048650,
+        "word": "下达2亿元支持辽吉灾后应急恢复",
+        "onboard_time": 1724331861,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 803190,
+        "num": 803190,
+        "word": "黑神话结局",
+        "onboard_time": 1724378000,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 802203,
+        "num": 802203,
+        "word": "被骗至缅甸失联6天小伙家属发声",
+        "onboard_time": 1724371218,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 789446,
+        "num": 789446,
+        "word": "间谍借助学之名怂恿大山孩子窃密",
+        "onboard_time": 1724378420,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 717524,
+        "num": 717524,
+        "word": "樊振东陪小球迷打球像开了0.5倍速",
+        "onboard_time": 1724375960,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 493379,
+        "num": 566540,
+        "word": "你真是瘦了",
+        "onboard_time": 1724372478,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 440793,
+        "num": 534158,
+        "word": "余宇涵 鼻炎药",
+        "onboard_time": 1724378718,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514141,
+        "num": 533524,
+        "word": "游泳馆办卡仅限45岁以下学士学位女性",
+        "onboard_time": 1724368939,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533278,
+        "num": 533278,
+        "word": "四六级 就这个裸考爽",
+        "onboard_time": 1724374699,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 506573,
+        "num": 506573,
+        "word": "06年学生和97年老师坐一起像班主任",
+        "onboard_time": 1724380039,
+        "rank": 11,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 403080,
+        "num": 403080,
+        "word": "韩安冉妈妈拿走了小猪妹的黄金",
+        "onboard_time": 1724339840,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 386363,
+        "num": 386363,
+        "word": "未成年人整容易致面部比例失调",
+        "onboard_time": 1724371519,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 346247,
+        "num": 346247,
+        "word": "娜扎 丞磊你能不能转行啊",
+        "onboard_time": 1724376379,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328306,
+        "num": 328306,
+        "word": "四六级分可查了",
+        "onboard_time": 1724370979,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 325860,
+        "num": 325860,
+        "word": "韩安冉否认曾和殷世航恋爱",
+        "onboard_time": 1724380758,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 287785,
+        "num": 287785,
+        "word": "黄晓明探班黄奕张晚意",
+        "onboard_time": 1724376859,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267231,
+        "num": 267231,
+        "word": "四六级",
+        "onboard_time": 1724365393,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 244450,
+        "num": 266694,
+        "word": "易烊千玺发了好多羊",
+        "onboard_time": 1724371158,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1556959,
+        "num": 266211,
+        "word": "印尼一女子洗澡时被鳄鱼拖走吞食",
+        "onboard_time": 1724379559,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 633028,
+        "num": 265748,
+        "word": "男朋友断联第五天可以报警吗",
+        "onboard_time": 1724368396,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 356282,
+        "num": 264912,
+        "word": "男子通马桶眼睛被灼伤几乎失明",
+        "onboard_time": 1724339302,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296827,
+        "num": 264108,
+        "word": "印度清洁工验尸房强行与女子亲热",
+        "onboard_time": 1724337021,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263722,
+        "num": 263722,
+        "word": "鞠婧祎网宣组声明",
+        "onboard_time": 1724380399,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256277,
+        "num": 256277,
+        "word": "印度超30万医护罢工致医疗服务瘫痪",
+        "onboard_time": 1724369719,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244287,
+        "num": 244287,
+        "word": "生日电话等弱口令密码有风险",
+        "onboard_time": 1724378420,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217635,
+        "num": 217635,
+        "word": "孙悟空推倒人参果树是有原因的",
+        "onboard_time": 1724367015,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214710,
+        "num": 214710,
+        "word": "张兰疑似回应张颖颖",
+        "onboard_time": 1724376980,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193740,
+        "num": 193740,
+        "word": "肯德基崩了",
+        "onboard_time": 1724374340,
+        "rank": 29,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 187998,
+        "num": 187998,
+        "word": "卫健委调查男子献血8次不能优先用血",
+        "onboard_time": 1724337802,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186642,
+        "num": 186642,
+        "word": "免费帮客人绞肉致残能索赔吗",
+        "onboard_time": 1724380940,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180881,
+        "num": 180881,
+        "word": "iPhone16系列相机曝光",
+        "onboard_time": 1724371638,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 175394,
+        "num": 175394,
+        "word": "山姆烤鸡被曝吃出子弹状异物",
+        "onboard_time": 1724374880,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171061,
+        "num": 171061,
+        "word": "医生解释玩3D游戏头晕想吐现象",
+        "onboard_time": 1724368939,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94334,
+        "num": 166488,
+        "word": "辽宁建昌受灾村怎么样了",
+        "onboard_time": 1724375480,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164628,
+        "num": 164628,
+        "word": "末伏最后1天",
+        "onboard_time": 1724373740,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161939,
+        "num": 161939,
+        "word": "去看演唱会找朋友借宿被拒了",
+        "onboard_time": 1724372120,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119464,
+        "num": 159830,
+        "word": "男子称车充电1分钟预估扣款7万多",
+        "onboard_time": 1724379382,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158486,
+        "num": 158486,
+        "word": "XG演唱会 全世界的亚逼都来了",
+        "onboard_time": 1724377339,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152358,
+        "num": 152358,
+        "word": "胡夏怎么又老又年轻的",
+        "onboard_time": 1724380519,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150982,
+        "num": 150982,
+        "word": "丫丫取笋费老鼻子劲",
+        "onboard_time": 1724380819,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150884,
+        "num": 150884,
+        "word": "英国版比尔盖茨和女儿确认遇难",
+        "onboard_time": 1724340563,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146173,
+        "num": 146173,
+        "word": "蒋依依祝吉娜爱丽丝生日快乐",
+        "onboard_time": 1724378180,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141540,
+        "num": 141540,
+        "word": "方大同 才二十三",
+        "onboard_time": 1724334743,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141293,
+        "num": 141293,
+        "word": "吴镇宇10秒无声演技",
+        "onboard_time": 1724381239,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130776,
+        "num": 130776,
+        "word": "泰国小型飞机坠毁有5名中国籍乘客",
+        "onboard_time": 1724341522,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129214,
+        "num": 129214,
+        "word": "边水往事",
+        "onboard_time": 1724380099,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127630,
+        "num": 127630,
+        "word": "第一次用外焦里嫩形容一台电脑",
+        "onboard_time": 1724374280,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102731,
+        "num": 127270,
+        "word": "一些老年人决定自己选择老去方式",
+        "onboard_time": 1724379201,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#继续深入学习运用邓小平理论#"
+    }
+  }
+}
