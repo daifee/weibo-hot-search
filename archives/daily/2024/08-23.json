@@ -1,6 +1,6 @@
 {
   "startTime": 1724344132300,
-  "endTime": 1724384214725,
+  "endTime": 1724387101273,
   "band_list": [
     {
       "raw_hot": 2842443,
@@ -19,8 +19,16 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1805874,
+      "num": 1805874,
+      "word": "印度151名议员对妇女实施犯罪",
+      "onboard_time": 1724384301,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1585037,
-      "num": 376736,
+      "num": 420315,
       "word": "印尼一女子洗澡时被鳄鱼拖走吞食",
       "onboard_time": 1724379559,
       "rank": 20,
@@ -83,12 +91,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1125458,
+      "num": 1125458,
+      "word": "梁王组合称出圈后隐私曝光受困扰",
+      "onboard_time": 1724383279,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1057775,
       "num": 1057775,
       "word": "韩安冉妈妈拿走了小猪妹的黄金",
       "onboard_time": 1724339840,
       "rank": 0,
       "category": "网红"
+    },
+    {
+      "raw_hot": 941925,
+      "num": 941925,
+      "word": "6年赚了300亿孙悟空才是真财神",
+      "onboard_time": 1724382140,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 940240,
@@ -163,7 +187,15 @@
       "category": "体育"
     },
     {
-      "raw_hot": 684376,
+      "raw_hot": 733569,
+      "num": 733569,
+      "word": "泰警方回应中国女子遭外国男子辱骂",
+      "onboard_time": 1724382862,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 691775,
       "num": 684376,
       "word": "印度超30万医护罢工致医疗服务瘫痪",
       "onboard_time": 1724369719,
@@ -179,12 +211,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 591538,
+      "num": 733637,
+      "word": "乃万 恋与深空",
+      "onboard_time": 1724384060,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 590964,
       "num": 590964,
       "word": "店家回应全红婵给妈妈买手机",
       "onboard_time": 1724340502,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 590340,
+      "num": 590340,
+      "word": "魏哲鸣 劳斯儿",
+      "onboard_time": 1724382620,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 588734,
@@ -211,28 +259,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 534629,
+      "num": 659467,
+      "word": "狐妖小红娘月红篇收入",
+      "onboard_time": 1724382441,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 511808,
       "num": 511808,
       "word": "医生解释玩3D游戏头晕想吐现象",
       "onboard_time": 1724368939,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 509176,
-      "num": 509176,
-      "word": "6年赚了300亿孙悟空才是真财神",
-      "onboard_time": 1724382140,
-      "rank": 13,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 498334,
-      "num": 659467,
-      "word": "狐妖小红娘月红篇收入",
-      "onboard_time": 1724382441,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 497260,
@@ -243,20 +283,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 494913,
-      "num": 510053,
-      "word": "魏哲鸣 劳斯儿",
-      "onboard_time": 1724382620,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 489928,
       "num": 489928,
       "word": "杨倩晒清华大学研究生录取通知书",
       "onboard_time": 1724335400,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 488127,
+      "num": 488127,
+      "word": "CPA",
+      "onboard_time": 1724374100,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 484389,
@@ -299,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 428835,
+      "num": 428835,
+      "word": "渝昆高铁项目发生事故致6死",
+      "onboard_time": 1724384420,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 413680,
       "num": 413680,
       "word": "英国版比尔盖茨和女儿确认遇难",
@@ -331,11 +379,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 373808,
-      "num": 373808,
-      "word": "泰警方回应中国女子遭外国男子辱骂",
-      "onboard_time": 1724382862,
-      "rank": 30,
+      "raw_hot": 369611,
+      "num": 369611,
+      "word": "行李箱超2厘米加收700元女子大闹机场",
+      "onboard_time": 1724384781,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -371,12 +419,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 324272,
+      "num": 324272,
+      "word": "四六级差1分世界都变了",
+      "onboard_time": 1724384840,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 321380,
       "num": 356508,
       "word": "易烊千玺发了好多羊",
       "onboard_time": 1724371158,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320061,
+      "num": 326577,
+      "word": "凤凰传奇成都",
+      "onboard_time": 1724386761,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 306514,
@@ -403,12 +467,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 290435,
-      "num": 257821,
-      "word": "梁王组合称出圈后隐私曝光受困扰",
-      "onboard_time": 1724383279,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 302576,
+      "num": 324412,
+      "word": "四方馆空降",
+      "onboard_time": 1724386941,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 288774,
+      "num": 288774,
+      "word": "唐嫣拍摄张杰新歌MV",
+      "onboard_time": 1724385982,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 287381,
@@ -417,6 +489,14 @@
       "onboard_time": 1724326099,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 281102,
+      "num": 281102,
+      "word": "最近跟悟空攀上关系的人都赚了多少",
+      "onboard_time": 1724386100,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 280123,
@@ -491,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251309,
+      "num": 251309,
+      "word": "实施网络传销涉案1000亿元嫌犯归案",
+      "onboard_time": 1724386279,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250013,
       "num": 250013,
       "word": "印度女性称其身边几乎都有遭性侵案例",
@@ -515,20 +603,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237875,
+      "num": 237875,
+      "word": "叶修带队再夺荣耀冠军",
+      "onboard_time": 1724387001,
+      "rank": 36,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 237184,
       "num": 237184,
       "word": "张兰疑似回应张颖颖",
       "onboard_time": 1724376980,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 236744,
-      "num": 236744,
-      "word": "CPA",
-      "onboard_time": 1724374100,
-      "rank": 45,
-      "category": "教育"
     },
     {
       "raw_hot": 235956,
@@ -563,20 +651,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 226861,
-      "num": 226861,
-      "word": "乃万 恋与深空",
-      "onboard_time": 1724384060,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 221393,
       "num": 221393,
       "word": "王楚钦 下个周期更专注单打",
       "onboard_time": 1724326040,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219535,
+      "num": 219535,
+      "word": "简爱酸奶",
+      "onboard_time": 1724385199,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 219289,
@@ -627,6 +715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 204519,
+      "num": 204519,
+      "word": "原来婴儿的哭声有这么多含义",
+      "onboard_time": 1724383820,
+      "rank": 44,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 203685,
       "num": 277688,
       "word": "360称儿童手表错误信息非AI回答",
@@ -643,12 +739,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198814,
+      "num": 198814,
+      "word": "胭脂似火上药戏",
+      "onboard_time": 1724386460,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 195447,
+      "num": 427628,
+      "word": "家昱户筱试婚纱不像演的",
+      "onboard_time": 1724386100,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192684,
       "num": 192684,
       "word": "工作人员回应外卖不能带上楼",
       "onboard_time": 1724355733,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192245,
+      "num": 192245,
+      "word": "物业称禁止外卖上楼获租户认可",
+      "onboard_time": 1724383699,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190395,
+      "num": 190395,
+      "word": "庆阳人民 王楚钦服不服",
+      "onboard_time": 1724386100,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 188801,
@@ -1019,6 +1147,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 114069,
+      "num": 508845,
+      "word": "基层很忙为何群众不买账",
+      "onboard_time": 1724385621,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110244,
       "num": 110244,
       "word": "印度女医生",
@@ -1057,6 +1193,14 @@
       "onboard_time": 1724367074,
       "rank": 42,
       "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 102943,
+      "num": 737175,
+      "word": "究竟谁在贩卖容貌焦虑",
+      "onboard_time": 1724385621,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102731,
@@ -1115,6 +1259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 78980,
+      "num": 1300526,
+      "word": "当动车组遇到月亮plus",
+      "onboard_time": 1724384360,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75479,
       "num": 75479,
       "word": "全红婵陈艺文又去撸狗了",
@@ -1129,6 +1281,14 @@
       "onboard_time": 1724346437,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 72779,
+      "num": 421567,
+      "word": "企业回应卫生巾过期13年改码再卖",
+      "onboard_time": 1724385621,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 68835,
@@ -1187,20 +1347,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53737,
+      "num": 553535,
+      "word": "夏日派对青岛啤酒节",
+      "onboard_time": 1724382259,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 47377,
       "num": 258121,
       "word": "共享单车私装遛娃神器致孩子受伤",
       "onboard_time": 1724383881,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47032,
-      "num": 553535,
-      "word": "夏日派对青岛啤酒节",
-      "onboard_time": 1724382259,
-      "rank": 23,
-      "category": "美食"
     },
     {
       "raw_hot": 42228,
@@ -1228,7 +1388,7 @@
     },
     {
       "raw_hot": 35029,
-      "num": 190519,
+      "num": 415712,
       "word": "夏日歌单的正确打开方式",
       "onboard_time": 1724383940,
       "rank": 42,
@@ -1249,6 +1409,14 @@
       "onboard_time": 1724353572,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31729,
+      "num": 219851,
+      "word": "菌子中毒能走医保吗",
+      "onboard_time": 1724385621,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 23777,

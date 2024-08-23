@@ -1,0 +1,410 @@
+{
+  "runTime": 1724387101273,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2810665,
+        "num": 2810665,
+        "word": "免费帮客人绞肉致残能索赔吗",
+        "onboard_time": 1724380940,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1805874,
+        "num": 1805874,
+        "word": "印度151名议员对妇女实施犯罪",
+        "onboard_time": 1724384301,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78980,
+        "num": 1300526,
+        "word": "当动车组遇到月亮plus",
+        "onboard_time": 1724384360,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1125458,
+        "num": 1125458,
+        "word": "梁王组合称出圈后隐私曝光受困扰",
+        "onboard_time": 1724383279,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 941925,
+        "num": 941925,
+        "word": "6年赚了300亿孙悟空才是真财神",
+        "onboard_time": 1724382140,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 917486,
+        "num": 917486,
+        "word": "被NHK解雇的中国籍员工全部发言",
+        "onboard_time": 1724377939,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 649127,
+        "num": 750644,
+        "word": "韩安冉否认曾和殷世航恋爱",
+        "onboard_time": 1724380758,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 102943,
+        "num": 737175,
+        "word": "究竟谁在贩卖容貌焦虑",
+        "onboard_time": 1724385621,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591538,
+        "num": 733637,
+        "word": "乃万 恋与深空",
+        "onboard_time": 1724384060,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 733569,
+        "num": 733569,
+        "word": "泰警方回应中国女子遭外国男子辱骂",
+        "onboard_time": 1724382862,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 686393,
+        "num": 686393,
+        "word": "四六级 就这个裸考爽",
+        "onboard_time": 1724374699,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 590340,
+        "num": 590340,
+        "word": "魏哲鸣 劳斯儿",
+        "onboard_time": 1724382620,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 534629,
+        "num": 534629,
+        "word": "狐妖小红娘月红篇收入",
+        "onboard_time": 1724382441,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114069,
+        "num": 508845,
+        "word": "基层很忙为何群众不买账",
+        "onboard_time": 1724385621,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488127,
+        "num": 488127,
+        "word": "CPA",
+        "onboard_time": 1724374100,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 345067,
+        "num": 445231,
+        "word": "花少6概念海报",
+        "onboard_time": 1724381600,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 428835,
+        "num": 428835,
+        "word": "渝昆高铁项目发生事故致6死",
+        "onboard_time": 1724384420,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195447,
+        "num": 427628,
+        "word": "家昱户筱试婚纱不像演的",
+        "onboard_time": 1724386100,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53737,
+        "num": 426174,
+        "word": "夏日派对青岛啤酒节",
+        "onboard_time": 1724382259,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 72779,
+        "num": 421567,
+        "word": "企业回应卫生巾过期13年改码再卖",
+        "onboard_time": 1724385621,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1114618,
+        "num": 420315,
+        "word": "印尼一女子洗澡时被鳄鱼拖走吞食",
+        "onboard_time": 1724379559,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31781,
+        "num": 415712,
+        "word": "夏日歌单的正确打开方式",
+        "onboard_time": 1724383940,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 691775,
+        "num": 413665,
+        "word": "印度超30万医护罢工致医疗服务瘫痪",
+        "onboard_time": 1724369719,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437729,
+        "num": 412742,
+        "word": "06年学生和97年老师坐一起像班主任",
+        "onboard_time": 1724380039,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 410239,
+        "num": 410239,
+        "word": "黑神话结局",
+        "onboard_time": 1724378000,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 394881,
+        "num": 394881,
+        "word": "间谍借助学之名怂恿大山孩子窃密",
+        "onboard_time": 1724378420,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369611,
+        "num": 369611,
+        "word": "行李箱超2厘米加收700元女子大闹机场",
+        "onboard_time": 1724384781,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360341,
+        "num": 360341,
+        "word": "中国女子在泰国遭辱骂漂亮反击",
+        "onboard_time": 1724374819,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320061,
+        "num": 326577,
+        "word": "凤凰传奇成都",
+        "onboard_time": 1724386761,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 302576,
+        "num": 324412,
+        "word": "四方馆空降",
+        "onboard_time": 1724386941,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324272,
+        "num": 324272,
+        "word": "四六级差1分世界都变了",
+        "onboard_time": 1724384840,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 300001,
+        "num": 300001,
+        "word": "长乐曲定档",
+        "onboard_time": 1724382380,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288857,
+        "num": 288857,
+        "word": "樊振东陪小球迷打球像开了0.5倍速",
+        "onboard_time": 1724375960,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288774,
+        "num": 288774,
+        "word": "唐嫣拍摄张杰新歌MV",
+        "onboard_time": 1724385982,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 281102,
+        "num": 281102,
+        "word": "最近跟悟空攀上关系的人都赚了多少",
+        "onboard_time": 1724386100,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 251309,
+        "num": 251309,
+        "word": "实施网络传销涉案1000亿元嫌犯归案",
+        "onboard_time": 1724386279,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237875,
+        "num": 237875,
+        "word": "叶修带队再夺荣耀冠军",
+        "onboard_time": 1724387001,
+        "rank": 36,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 229563,
+        "num": 229563,
+        "word": "余宇涵 鼻炎药",
+        "onboard_time": 1724378718,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222515,
+        "num": 222515,
+        "word": "被骗至缅甸失联6天小伙家属发声",
+        "onboard_time": 1724371218,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 31729,
+        "num": 219851,
+        "word": "菌子中毒能走医保吗",
+        "onboard_time": 1724385621,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 219535,
+        "num": 219535,
+        "word": "简爱酸奶",
+        "onboard_time": 1724385199,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 215793,
+        "num": 215793,
+        "word": "他演了黑神话悟空百分之六七十的怪",
+        "onboard_time": 1724382862,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 207323,
+        "num": 207323,
+        "word": "为什么我们越来越不爱看电视了",
+        "onboard_time": 1724382020,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205098,
+        "num": 205098,
+        "word": "你真是瘦了",
+        "onboard_time": 1724372478,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204519,
+        "num": 204519,
+        "word": "原来婴儿的哭声有这么多含义",
+        "onboard_time": 1724383820,
+        "rank": 44,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 204501,
+        "num": 204501,
+        "word": "印度清洁工验尸房强行与女子亲热",
+        "onboard_time": 1724337021,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198814,
+        "num": 198814,
+        "word": "胭脂似火上药戏",
+        "onboard_time": 1724386460,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192245,
+        "num": 192245,
+        "word": "物业称禁止外卖上楼获租户认可",
+        "onboard_time": 1724383699,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190395,
+        "num": 190395,
+        "word": "庆阳人民 王楚钦服不服",
+        "onboard_time": 1724386100,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185122,
+        "num": 185122,
+        "word": "当爸妈知道我在外租房会叫保洁阿姨",
+        "onboard_time": 1724382140,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平强调始终走正道善于闯新路#"
+    }
+  }
+}
