@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/08/01 00:24:58 ~ 2024/08/23 23:24:00
+本榜单时间：2024/08/01 00:24:58 ~ 2024/08/23 23:38:28
 </p>
 </blockquote>
 <p>
@@ -5229,6 +5229,12 @@ F勒布伦谈球拍事件（热度：1954007）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E7%A5%9E%E8%AF%9D%E6%82%9F%E7%A9%BA%E5%85%A8%E7%90%83%E6%80%BB%E9%94%80%E9%87%8F%E7%A0%B4%E5%8D%83%E4%B8%87%23" target="weibo">
+黑神话悟空全球总销量破千万（热度：1695450）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%A5%B3%E5%8C%BB%E7%94%9F%23" target="weibo">
 印度女医生（热度：1692668）
 </a>
@@ -5459,12 +5465,6 @@ F勒布伦谈球拍事件（热度：1954007）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%AF%B4%E4%B8%8D%E8%83%BD%E8%AE%A9%E6%AF%94%E8%B5%9B%E5%BE%802%E6%AF%941%E5%8F%91%E5%B1%95%23" target="weibo">
 孙颖莎说不能让比赛往2比1发展（热度：1631025）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E7%A5%9E%E8%AF%9D%E6%82%9F%E7%A9%BA%E5%85%A8%E7%90%83%E6%80%BB%E9%94%80%E9%87%8F%E7%A0%B4%E5%8D%83%E4%B8%87%23" target="weibo">
-黑神话悟空全球总销量破千万（热度：1629876）
 </a>
 </li>
 

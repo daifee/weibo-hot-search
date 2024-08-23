@@ -1,6 +1,6 @@
 {
   "startTime": 1724344132300,
-  "endTime": 1724426640297,
+  "endTime": 1724427508801,
   "band_list": [
     {
       "raw_hot": 9647550,
@@ -123,8 +123,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1629876,
-      "num": 1629876,
+      "raw_hot": 1695450,
+      "num": 1695450,
       "word": "黑神话悟空全球总销量破千万",
       "onboard_time": 1724423481,
       "rank": 32,
@@ -400,6 +400,14 @@
       "word": "泰国小型飞机坠毁有5名中国籍乘客",
       "onboard_time": 1724341522,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 805494,
+      "num": 805494,
+      "word": "印度女医生遇害前婚事已敲定",
+      "onboard_time": 1724424441,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -867,14 +875,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 405722,
-      "num": 405722,
-      "word": "印度女医生遇害前婚事已敲定",
-      "onboard_time": 1724424441,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 404390,
       "num": 404390,
       "word": "马嘉祺贺峻霖Simon",
@@ -913,6 +913,14 @@
       "onboard_time": 1724382380,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 383570,
+      "num": 551481,
+      "word": "台湾长荣集团认同九二共识反对台独",
+      "onboard_time": 1724425221,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 380867,
@@ -1627,6 +1635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 224600,
+      "num": 224600,
+      "word": "郑钧 歌手没有专业的",
+      "onboard_time": 1724425580,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222622,
       "num": 222622,
       "word": "梦回防风邶",
@@ -1915,6 +1931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200523,
+      "num": 200523,
+      "word": "鲍威尔讲话",
+      "onboard_time": 1724425521,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 200310,
       "num": 200310,
       "word": "AI竟偷偷独自重写自己的代码",
@@ -1945,22 +1969,6 @@
       "onboard_time": 1724420481,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 199961,
-      "num": 199961,
-      "word": "鲍威尔讲话",
-      "onboard_time": 1724425521,
-      "rank": 37,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 199479,
-      "num": 199479,
-      "word": "郑钧 歌手没有专业的",
-      "onboard_time": 1724425580,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 199425,
@@ -2163,14 +2171,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 188835,
-      "num": 551481,
-      "word": "台湾长荣集团认同九二共识反对台独",
-      "onboard_time": 1724425221,
-      "rank": 7,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 188816,
       "num": 188816,
       "word": "披荆斩棘",
@@ -2217,6 +2217,14 @@
       "onboard_time": 1724339181,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187705,
+      "num": 186308,
+      "word": "井胧感谢石凯阿如那",
+      "onboard_time": 1724426300,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 187634,
@@ -2347,20 +2355,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180864,
-      "num": 180864,
-      "word": "井胧感谢石凯阿如那",
-      "onboard_time": 1724426300,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 179997,
       "num": 178515,
       "word": "王俊凯杭州路演",
       "onboard_time": 1724404460,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 179083,
+      "num": 179083,
+      "word": "美联储",
+      "onboard_time": 1724426600,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 177796,
@@ -2459,20 +2467,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169530,
+      "num": 169530,
+      "word": "早安 一次外向换来一辈子内向",
+      "onboard_time": 1724425759,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169387,
       "num": 169387,
       "word": "日常碎片plog",
       "onboard_time": 1724401401,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 169050,
-      "num": 169050,
-      "word": "美联储",
-      "onboard_time": 1724426600,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 168729,
@@ -2505,6 +2513,22 @@
       "onboard_time": 1724378479,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 165100,
+      "num": 165100,
+      "word": "几块钱的数据线能充上万元iPhone吗",
+      "onboard_time": 1724426841,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 163144,
+      "num": 163144,
+      "word": "谁家男主第一集就被女主踩",
+      "onboard_time": 1724427441,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 162322,
@@ -2697,6 +2721,14 @@
       "onboard_time": 1724313081,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 142542,
+      "num": 476656,
+      "word": "没人管得了不想退押金的房东吗",
+      "onboard_time": 1724425221,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142089,
@@ -3099,6 +3131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71006,
+      "num": 426599,
+      "word": "王天一涉嫌买棋卖棋被批准逮捕",
+      "onboard_time": 1724425821,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70664,
       "num": 389718,
       "word": "湖南居然还有人住在洞里",
@@ -3112,14 +3152,6 @@
       "word": "市民吐槽门诊楼现丁义珍式窗口",
       "onboard_time": 1724418021,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 69048,
-      "num": 476656,
-      "word": "没人管得了不想退押金的房东吗",
-      "onboard_time": 1724425221,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -3187,6 +3219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57806,
+      "num": 309706,
+      "word": "卢骁医生谈跨域创作意义",
+      "onboard_time": 1724426720,
+      "rank": 17,
+      "category": "网红,互联网"
+    },
+    {
       "raw_hot": 57185,
       "num": 366788,
       "word": "美特斯邦威要做大牌平替",
@@ -3224,14 +3264,6 @@
       "word": "弟弟背哥哥上学13年考入同一所高校",
       "onboard_time": 1724389222,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51106,
-      "num": 426599,
-      "word": "王天一涉嫌买棋卖棋被批准逮捕",
-      "onboard_time": 1724425821,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
