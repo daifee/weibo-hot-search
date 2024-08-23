@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724397597059,
+  "endTime": 1724398585516,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -187,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2916061,
+      "num": 2573340,
+      "word": "印度奸杀案",
+      "onboard_time": 1724393060,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2903140,
       "num": 2903140,
       "word": "女子称三万买的手机太卡第二天想退",
@@ -273,14 +281,6 @@
       "onboard_time": 1724309659,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2573340,
-      "num": 2573340,
-      "word": "印度奸杀案",
-      "onboard_time": 1724393060,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2458655,
@@ -699,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1740427,
+      "num": 1740427,
+      "word": "李庚希 你别跟我聊共情",
+      "onboard_time": 1724394739,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1720310,
       "num": 1720310,
       "word": "父母同时生病了独生子女该怎么办",
@@ -859,14 +867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1556797,
-      "num": 1556797,
-      "word": "李庚希 你别跟我聊共情",
-      "onboard_time": 1724394739,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1554404,
       "num": 1554404,
       "word": "小孩骑行被碾压身亡肇事司机移送检方",
@@ -1004,7 +1004,7 @@
     },
     {
       "raw_hot": 1440974,
-      "num": 470636,
+      "num": 529172,
       "word": "谢霆锋把手搭在王菲腿上",
       "onboard_time": 1724394198,
       "rank": 22,
@@ -2235,6 +2235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 855483,
+      "num": 855483,
+      "word": "泰国坠机事件5名中国乘客遗体找到",
+      "onboard_time": 1724395399,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 852239,
       "num": 852239,
       "word": "王楠送国乒奥运冠军金牌曝光",
@@ -2939,14 +2947,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 658692,
-      "num": 658692,
-      "word": "泰国坠机事件5名中国乘客遗体找到",
-      "onboard_time": 1724395399,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 658043,
       "num": 658043,
       "word": "HPV疫苗开启价格战",
@@ -3057,6 +3057,14 @@
       "onboard_time": 1724061922,
       "rank": 21,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 632267,
+      "num": 632267,
+      "word": "特朗普再遭死亡威胁",
+      "onboard_time": 1724396120,
+      "rank": 12,
+      "category": "国外时政"
     },
     {
       "raw_hot": 632030,
@@ -4291,14 +4299,6 @@
       "category": "电竞,游戏"
     },
     {
-      "raw_hot": 446959,
-      "num": 446959,
-      "word": "特朗普再遭死亡威胁",
-      "onboard_time": 1724396120,
-      "rank": 12,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 445667,
       "num": 445667,
       "word": "刘端端差点登上北京奥运开幕式",
@@ -4313,6 +4313,14 @@
       "onboard_time": 1724072186,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 443562,
+      "num": 443562,
+      "word": "130平装成了300平的即视感",
+      "onboard_time": 1724392041,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 442835,
@@ -4483,6 +4491,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 423274,
+      "num": 423274,
+      "word": "小戏骨版林黛玉",
+      "onboard_time": 1724397259,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 422874,
+      "num": 422874,
+      "word": "王昶称社交媒体资料被扒光",
+      "onboard_time": 1724395939,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 422655,
       "num": 422655,
       "word": "易烊千玺Golden Goose",
@@ -4513,6 +4537,14 @@
       "onboard_time": 1724208920,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 419182,
+      "num": 303633,
+      "word": "男子开车打瞌睡80秒闭眼19次",
+      "onboard_time": 1724390661,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 418843,
@@ -4819,14 +4851,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 388108,
-      "num": 388108,
-      "word": "130平装成了300平的即视感",
-      "onboard_time": 1724392041,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 387611,
       "num": 387611,
       "word": "长乐曲定档",
@@ -4963,6 +4987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 374915,
+      "num": 374915,
+      "word": "CPA税法",
+      "onboard_time": 1724397799,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 373989,
       "num": 708405,
       "word": "网易云音乐故障真相",
@@ -5057,14 +5089,6 @@
       "onboard_time": 1723939335,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 367650,
-      "num": 303633,
-      "word": "男子开车打瞌睡80秒闭眼19次",
-      "onboard_time": 1724390661,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 367594,
@@ -5489,6 +5513,14 @@
       "onboard_time": 1724078061,
       "rank": 28,
       "category": "电影,体育"
+    },
+    {
+      "raw_hot": 337418,
+      "num": 568314,
+      "word": "赵丽颖乔妍的心事贴片",
+      "onboard_time": 1724395700,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 336967,
@@ -6097,14 +6129,6 @@
       "onboard_time": 1724160144,
       "rank": 40,
       "category": "电影,体育"
-    },
-    {
-      "raw_hot": 303203,
-      "num": 303203,
-      "word": "王昶称社交媒体资料被扒光",
-      "onboard_time": 1724395939,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 301969,
@@ -7003,14 +7027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 262515,
-      "num": 304492,
-      "word": "赵丽颖乔妍的心事贴片",
-      "onboard_time": 1724395700,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 261777,
       "num": 261777,
       "word": "开学第一天偶遇小S",
@@ -7145,6 +7161,14 @@
       "onboard_time": 1724144061,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 257882,
+      "num": 304223,
+      "word": "电影刺猬今日上映",
+      "onboard_time": 1724382317,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 257602,
@@ -7315,6 +7339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 251318,
+      "num": 251318,
+      "word": "黑神话悟空全球首位白金玩家",
+      "onboard_time": 1724393541,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 251309,
       "num": 456770,
       "word": "实施网络传销涉案1000亿元嫌犯归案",
@@ -7377,6 +7409,14 @@
       "onboard_time": 1724205380,
       "rank": 34,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 249250,
+      "num": 304132,
+      "word": "披哥后期",
+      "onboard_time": 1724393780,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 249089,
@@ -7923,14 +7963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233265,
-      "num": 304223,
-      "word": "电影刺猬今日上映",
-      "onboard_time": 1724382317,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 233121,
       "num": 233121,
       "word": "中式英语成海外爆梗",
@@ -8121,6 +8153,14 @@
       "onboard_time": 1724134041,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229045,
+      "num": 241028,
+      "word": "Giselle看了也会惊讶的错位",
+      "onboard_time": 1724397321,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 228976,
@@ -8644,7 +8684,7 @@
     },
     {
       "raw_hot": 215599,
-      "num": 877143,
+      "num": 1321298,
       "word": "末伏最后1天",
       "onboard_time": 1724373740,
       "rank": 9,
@@ -8673,6 +8713,14 @@
       "onboard_time": 1724223020,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 215378,
+      "num": 454748,
+      "word": "铁路客站男女厕位应为1比2",
+      "onboard_time": 1724394620,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214617,
@@ -9187,6 +9235,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 205377,
+      "num": 205377,
+      "word": "杨戬的臂鞲",
+      "onboard_time": 1724393959,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 205353,
       "num": 205353,
       "word": "处暑",
@@ -9385,14 +9441,6 @@
       "onboard_time": 1724300182,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 202842,
-      "num": 304132,
-      "word": "披哥后期",
-      "onboard_time": 1724393780,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 202631,
@@ -9755,6 +9803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196343,
+      "num": 196343,
+      "word": "MRC",
+      "onboard_time": 1724398039,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196245,
       "num": 196245,
       "word": "鞠婧祎更新自拍",
@@ -10033,14 +10089,6 @@
       "onboard_time": 1724355733,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192561,
-      "num": 284711,
-      "word": "小戏骨版林黛玉",
-      "onboard_time": 1724397259,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 192477,
@@ -10643,14 +10691,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 183506,
-      "num": 183506,
-      "word": "黑神话悟空全球首位白金玩家",
-      "onboard_time": 1724393541,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 183397,
       "num": 183397,
       "word": "陈芋汐说没有全红婵不会达到这么高的水平",
@@ -11019,14 +11059,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 177543,
-      "num": 177543,
-      "word": "杨戬的臂鞲",
-      "onboard_time": 1724393959,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 177541,
       "num": 177541,
       "word": "孙杨有望再次入选国家队",
@@ -11289,6 +11321,14 @@
       "onboard_time": 1724224697,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172999,
+      "num": 240480,
+      "word": "说唱歌手Buzzy在乃万评论区怼网友",
+      "onboard_time": 1724397738,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 172791,
@@ -12196,7 +12236,7 @@
     },
     {
       "raw_hot": 158234,
-      "num": 158234,
+      "num": 551203,
       "word": "公园凉亭坍塌致6死10伤背后",
       "onboard_time": 1724394620,
       "rank": 40,
@@ -12283,14 +12323,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 157374,
-      "num": 157374,
-      "word": "Giselle看了也会惊讶的错位",
-      "onboard_time": 1724397321,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 157267,
       "num": 250088,
       "word": "韩剧的偶像设定是34岁的未婚",
@@ -12345,14 +12377,6 @@
       "onboard_time": 1723976538,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 156085,
-      "num": 454748,
-      "word": "铁路客站男女厕位应为1比2",
-      "onboard_time": 1724394620,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156056,
@@ -12771,6 +12795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148978,
+      "num": 148978,
+      "word": "Buzzy道歉",
+      "onboard_time": 1724398459,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148876,
       "num": 365674,
       "word": "北京卫视发了肖战藏海传",
@@ -12809,6 +12841,14 @@
       "onboard_time": 1724064621,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148208,
+      "num": 148208,
+      "word": "王建国谐音梗",
+      "onboard_time": 1724398459,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 147928,
@@ -12921,6 +12961,14 @@
       "onboard_time": 1724119278,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145610,
+      "num": 145610,
+      "word": "德国玩家称黑神话悟空的设计特别酷",
+      "onboard_time": 1724397979,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 145373,
@@ -13417,6 +13465,14 @@
       "onboard_time": 1724080701,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134831,
+      "num": 397121,
+      "word": "泰国坠机5名乘客出生于浙江或上海",
+      "onboard_time": 1724396420,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134588,
@@ -14579,6 +14635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77010,
+      "num": 470929,
+      "word": "官方称渝昆高铁致6人死亡正在调查",
+      "onboard_time": 1724396420,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76490,
       "num": 563542,
       "word": "夺回黑夜运动在印度激烈上演",
@@ -14601,14 +14665,6 @@
       "onboard_time": 1724369659,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 75325,
-      "num": 397121,
-      "word": "泰国坠机5名乘客出生于浙江或上海",
-      "onboard_time": 1724396420,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 74737,
@@ -14721,6 +14777,14 @@
       "onboard_time": 1724037680,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 70664,
+      "num": 389718,
+      "word": "湖南居然还有人住在洞里",
+      "onboard_time": 1724396420,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 70184,
@@ -15089,6 +15153,14 @@
       "onboard_time": 1724218221,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57185,
+      "num": 209021,
+      "word": "美特斯邦威要做大牌平替",
+      "onboard_time": 1724398099,
+      "rank": 33,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 56925,
@@ -15555,14 +15627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42835,
-      "num": 470929,
-      "word": "官方称渝昆高铁致6人死亡正在调查",
-      "onboard_time": 1724396420,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 42760,
       "num": 320180,
       "word": "美国大选追踪",
@@ -15760,14 +15824,6 @@
       "word": "黑医美躲进农村招摇撞骗",
       "onboard_time": 1724225420,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37635,
-      "num": 389718,
-      "word": "湖南居然还有人住在洞里",
-      "onboard_time": 1724396420,
-      "rank": 14,
       "category": "社会新闻"
     },
     {

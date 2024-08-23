@@ -1,0 +1,410 @@
+{
+  "runTime": 1724398585516,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1740427,
+        "num": 1740427,
+        "word": "李庚希 你别跟我聊共情",
+        "onboard_time": 1724394739,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2916061,
+        "num": 1617847,
+        "word": "印度奸杀案",
+        "onboard_time": 1724393060,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40450,
+        "num": 1321298,
+        "word": "末伏最后1天",
+        "onboard_time": 1724373740,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1229474,
+        "num": 1229474,
+        "word": "印度151名议员对妇女实施犯罪",
+        "onboard_time": 1724384301,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 855483,
+        "num": 855483,
+        "word": "泰国坠机事件5名中国乘客遗体找到",
+        "onboard_time": 1724395399,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1714388,
+        "num": 854395,
+        "word": "印度 高种姓",
+        "onboard_time": 1724390960,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632267,
+        "num": 632267,
+        "word": "特朗普再遭死亡威胁",
+        "onboard_time": 1724396120,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 337418,
+        "num": 568314,
+        "word": "赵丽颖乔妍的心事贴片",
+        "onboard_time": 1724395700,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96751,
+        "num": 551203,
+        "word": "公园凉亭坍塌致6死10伤背后",
+        "onboard_time": 1724394620,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549613,
+        "num": 549613,
+        "word": "免费帮客人绞肉致残能索赔吗",
+        "onboard_time": 1724380940,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1343506,
+        "num": 529172,
+        "word": "谢霆锋把手搭在王菲腿上",
+        "onboard_time": 1724394198,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443562,
+        "num": 443562,
+        "word": "130平装成了300平的即视感",
+        "onboard_time": 1724392041,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 52584,
+        "num": 432884,
+        "word": "当动车组遇到月亮plus",
+        "onboard_time": 1724384360,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432192,
+        "num": 432192,
+        "word": "李云中画的孙悟空",
+        "onboard_time": 1724391322,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 423274,
+        "num": 423274,
+        "word": "小戏骨版林黛玉",
+        "onboard_time": 1724397259,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 422874,
+        "num": 422874,
+        "word": "王昶称社交媒体资料被扒光",
+        "onboard_time": 1724395939,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 374915,
+        "num": 374915,
+        "word": "CPA税法",
+        "onboard_time": 1724397799,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 289554,
+        "num": 289554,
+        "word": "乃万 恋与深空",
+        "onboard_time": 1724384060,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257882,
+        "num": 288394,
+        "word": "电影刺猬今日上映",
+        "onboard_time": 1724382317,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 249250,
+        "num": 284865,
+        "word": "披哥后期",
+        "onboard_time": 1724393780,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 5361300,
+        "num": 283420,
+        "word": "黑神话悟空疑似抄袭",
+        "onboard_time": 1724386221,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 419182,
+        "num": 280333,
+        "word": "男子开车打瞌睡80秒闭眼19次",
+        "onboard_time": 1724390661,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369230,
+        "num": 277755,
+        "word": "让领导窒息的婚假",
+        "onboard_time": 1724388621,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 276216,
+        "num": 276216,
+        "word": "黑神话悟空的真身是淄博小伙",
+        "onboard_time": 1724389821,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 266071,
+        "num": 266071,
+        "word": "你们英专生嘴真严啊",
+        "onboard_time": 1724392041,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251318,
+        "num": 251318,
+        "word": "黑神话悟空全球首位白金玩家",
+        "onboard_time": 1724393541,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 243864,
+        "num": 243864,
+        "word": "印度女医生",
+        "onboard_time": 1724299879,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229045,
+        "num": 241028,
+        "word": "Giselle看了也会惊讶的错位",
+        "onboard_time": 1724397321,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172999,
+        "num": 240480,
+        "word": "说唱歌手Buzzy在乃万评论区怼网友",
+        "onboard_time": 1724397738,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171123,
+        "num": 240296,
+        "word": "邓紫棋演唱会上的白鹿",
+        "onboard_time": 1724394380,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 240225,
+        "num": 240225,
+        "word": "被NHK解雇的中国籍员工全部发言",
+        "onboard_time": 1724377939,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231155,
+        "num": 231155,
+        "word": "行李箱超2厘米加收700元女子大闹机场",
+        "onboard_time": 1724384781,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215378,
+        "num": 215378,
+        "word": "铁路客站男女厕位应为1比2",
+        "onboard_time": 1724394620,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57185,
+        "num": 209021,
+        "word": "美特斯邦威要做大牌平替",
+        "onboard_time": 1724398099,
+        "rank": 33,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 206774,
+        "num": 206774,
+        "word": "女子运动减肥50斤被盗图卖减肥产品",
+        "onboard_time": 1724392281,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205377,
+        "num": 205377,
+        "word": "杨戬的臂鞲",
+        "onboard_time": 1724393959,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196343,
+        "num": 196343,
+        "word": "MRC",
+        "onboard_time": 1724398039,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192639,
+        "num": 192639,
+        "word": "CPA难不难",
+        "onboard_time": 1724389522,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 177394,
+        "num": 177394,
+        "word": "邱贻可说孙颖莎值得信赖",
+        "onboard_time": 1724388982,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161022,
+        "num": 161022,
+        "word": "WBG对战MRC",
+        "onboard_time": 1724396959,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 77010,
+        "num": 155276,
+        "word": "官方称渝昆高铁致6人死亡正在调查",
+        "onboard_time": 1724396420,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153340,
+        "num": 153340,
+        "word": "基层很忙为何群众不买账",
+        "onboard_time": 1724385621,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152797,
+        "num": 152797,
+        "word": "顾客花千元吃火锅吃出蟑螂索赔1万",
+        "onboard_time": 1724389880,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149835,
+        "num": 149835,
+        "word": "黑神话引发换机潮部分机型不涨反降",
+        "onboard_time": 1724392879,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148978,
+        "num": 148978,
+        "word": "Buzzy道歉",
+        "onboard_time": 1724398459,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134831,
+        "num": 148308,
+        "word": "泰国坠机5名乘客出生于浙江或上海",
+        "onboard_time": 1724396420,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70664,
+        "num": 148236,
+        "word": "湖南居然还有人住在洞里",
+        "onboard_time": 1724396420,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148208,
+        "num": 148208,
+        "word": "王建国谐音梗",
+        "onboard_time": 1724398459,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146269,
+        "num": 146269,
+        "word": "梁王组合称出圈后隐私曝光受困扰",
+        "onboard_time": 1724383279,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145610,
+        "num": 145610,
+        "word": "德国玩家称黑神话悟空的设计特别酷",
+        "onboard_time": 1724397979,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平强调始终走正道善于闯新路#"
+    }
+  }
+}

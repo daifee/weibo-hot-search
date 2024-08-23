@@ -1,6 +1,6 @@
 {
   "startTime": 1724344132300,
-  "endTime": 1724397597059,
+  "endTime": 1724398585516,
   "band_list": [
     {
       "raw_hot": 9647550,
@@ -19,19 +19,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2916061,
+      "num": 2573340,
+      "word": "印度奸杀案",
+      "onboard_time": 1724393060,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2842443,
       "num": 2842443,
       "word": "免费帮客人绞肉致残能索赔吗",
       "onboard_time": 1724380940,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2573340,
-      "num": 2573340,
-      "word": "印度奸杀案",
-      "onboard_time": 1724393060,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -51,20 +51,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1740427,
+      "num": 1740427,
+      "word": "李庚希 你别跟我聊共情",
+      "onboard_time": 1724394739,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1585037,
       "num": 420315,
       "word": "印尼一女子洗澡时被鳄鱼拖走吞食",
       "onboard_time": 1724379559,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1556797,
-      "num": 1556797,
-      "word": "李庚希 你别跟我聊共情",
-      "onboard_time": 1724394739,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 1541133,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1440974,
-      "num": 470636,
+      "num": 529172,
       "word": "谢霆锋把手搭在王菲腿上",
       "onboard_time": 1724394198,
       "rank": 22,
@@ -179,6 +179,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 855483,
+      "num": 855483,
+      "word": "泰国坠机事件5名中国乘客遗体找到",
+      "onboard_time": 1724395399,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 849063,
       "num": 849063,
       "word": "间谍借助学之名怂恿大山孩子窃密",
@@ -243,12 +251,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 658692,
-      "num": 658692,
-      "word": "泰国坠机事件5名中国乘客遗体找到",
-      "onboard_time": 1724395399,
-      "rank": 6,
-      "category": "社会新闻"
+      "raw_hot": 632267,
+      "num": 632267,
+      "word": "特朗普再遭死亡威胁",
+      "onboard_time": 1724396120,
+      "rank": 12,
+      "category": "国外时政"
     },
     {
       "raw_hot": 598874,
@@ -411,12 +419,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 446959,
-      "num": 446959,
-      "word": "特朗普再遭死亡威胁",
-      "onboard_time": 1724396120,
-      "rank": 12,
-      "category": "国外时政"
+      "raw_hot": 443562,
+      "num": 443562,
+      "word": "130平装成了300平的即视感",
+      "onboard_time": 1724392041,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 438275,
@@ -433,6 +441,30 @@
       "onboard_time": 1724325620,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 423274,
+      "num": 423274,
+      "word": "小戏骨版林黛玉",
+      "onboard_time": 1724397259,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 422874,
+      "num": 422874,
+      "word": "王昶称社交媒体资料被扒光",
+      "onboard_time": 1724395939,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 419182,
+      "num": 303633,
+      "word": "男子开车打瞌睡80秒闭眼19次",
+      "onboard_time": 1724390661,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 413680,
@@ -459,14 +491,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 388108,
-      "num": 388108,
-      "word": "130平装成了300平的即视感",
-      "onboard_time": 1724392041,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 387611,
       "num": 387611,
       "word": "长乐曲定档",
@@ -491,12 +515,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 367650,
-      "num": 303633,
-      "word": "男子开车打瞌睡80秒闭眼19次",
-      "onboard_time": 1724390661,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 374915,
+      "num": 374915,
+      "word": "CPA税法",
+      "onboard_time": 1724397799,
+      "rank": 16,
+      "category": "教育"
     },
     {
       "raw_hot": 367535,
@@ -545,6 +569,14 @@
       "onboard_time": 1724372120,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 337418,
+      "num": 568314,
+      "word": "赵丽颖乔妍的心事贴片",
+      "onboard_time": 1724395700,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 336967,
@@ -609,14 +641,6 @@
       "onboard_time": 1724333360,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 303203,
-      "num": 303203,
-      "word": "王昶称社交媒体资料被扒光",
-      "onboard_time": 1724395939,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 298257,
@@ -715,14 +739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 262515,
-      "num": 304492,
-      "word": "赵丽颖乔妍的心事贴片",
-      "onboard_time": 1724395700,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 261352,
       "num": 261352,
       "word": "生日电话等弱口令密码有风险",
@@ -737,6 +753,14 @@
       "onboard_time": 1724324840,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257882,
+      "num": 304223,
+      "word": "电影刺猬今日上映",
+      "onboard_time": 1724382317,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 256602,
@@ -763,6 +787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 251318,
+      "num": 251318,
+      "word": "黑神话悟空全球首位白金玩家",
+      "onboard_time": 1724393541,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 251309,
       "num": 456770,
       "word": "实施网络传销涉案1000亿元嫌犯归案",
@@ -776,6 +808,22 @@
       "word": "印度女性称其身边几乎都有遭性侵案例",
       "onboard_time": 1724325860,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249250,
+      "num": 304132,
+      "word": "披哥后期",
+      "onboard_time": 1724393780,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 243864,
+      "num": 243864,
+      "word": "印度女医生",
+      "onboard_time": 1724299879,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -827,14 +875,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 233265,
-      "num": 304223,
-      "word": "电影刺猬今日上映",
-      "onboard_time": 1724382317,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 233253,
       "num": 233253,
       "word": "马嘉祺 染发",
@@ -865,6 +905,14 @@
       "onboard_time": 1724315421,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 229045,
+      "num": 241028,
+      "word": "Giselle看了也会惊讶的错位",
+      "onboard_time": 1724397321,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 222200,
@@ -916,9 +964,17 @@
     },
     {
       "raw_hot": 215599,
-      "num": 877143,
+      "num": 1321298,
       "word": "末伏最后1天",
       "onboard_time": 1724373740,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215378,
+      "num": 454748,
+      "word": "铁路客站男女厕位应为1比2",
+      "onboard_time": 1724394620,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -936,6 +992,14 @@
       "word": "黑神话引发换机潮部分机型不涨反降",
       "onboard_time": 1724392879,
       "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 205377,
+      "num": 205377,
+      "word": "杨戬的臂鞲",
+      "onboard_time": 1724393959,
+      "rank": 41,
       "category": "游戏"
     },
     {
@@ -961,14 +1025,6 @@
       "onboard_time": 1724353871,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 202842,
-      "num": 304132,
-      "word": "披哥后期",
-      "onboard_time": 1724393780,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 200052,
@@ -1003,6 +1059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196343,
+      "num": 196343,
+      "word": "MRC",
+      "onboard_time": 1724398039,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 195275,
       "num": 195275,
       "word": "庆阳人民 王楚钦服不服",
@@ -1025,14 +1089,6 @@
       "onboard_time": 1724355733,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192561,
-      "num": 284711,
-      "word": "小戏骨版林黛玉",
-      "onboard_time": 1724397259,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 191866,
@@ -1131,14 +1187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 183506,
-      "num": 183506,
-      "word": "黑神话悟空全球首位白金玩家",
-      "onboard_time": 1724393541,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 183139,
       "num": 177029,
       "word": "逛公园碰到了国乒队",
@@ -1161,14 +1209,6 @@
       "onboard_time": 1724385621,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177543,
-      "num": 177543,
-      "word": "杨戬的臂鞲",
-      "onboard_time": 1724393959,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 175850,
@@ -1201,6 +1241,14 @@
       "onboard_time": 1724377339,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 172999,
+      "num": 240480,
+      "word": "说唱歌手Buzzy在乃万评论区怼网友",
+      "onboard_time": 1724397738,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 171604,
@@ -1308,7 +1356,7 @@
     },
     {
       "raw_hot": 158234,
-      "num": 158234,
+      "num": 551203,
       "word": "公园凉亭坍塌致6死10伤背后",
       "onboard_time": 1724394620,
       "rank": 40,
@@ -1329,22 +1377,6 @@
       "onboard_time": 1724393900,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 157374,
-      "num": 157374,
-      "word": "Giselle看了也会惊讶的错位",
-      "onboard_time": 1724397321,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 156085,
-      "num": 454748,
-      "word": "铁路客站男女厕位应为1比2",
-      "onboard_time": 1724394620,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 154177,
@@ -1379,12 +1411,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148978,
+      "num": 148978,
+      "word": "Buzzy道歉",
+      "onboard_time": 1724398459,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148286,
       "num": 148286,
       "word": "天命人山西集合",
       "onboard_time": 1724377521,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148208,
+      "num": 148208,
+      "word": "王建国谐音梗",
+      "onboard_time": 1724398459,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 147179,
@@ -1401,6 +1449,14 @@
       "onboard_time": 1724327780,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145610,
+      "num": 145610,
+      "word": "德国玩家称黑神话悟空的设计特别酷",
+      "onboard_time": 1724397979,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 145305,
@@ -1481,6 +1537,14 @@
       "onboard_time": 1724370678,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134831,
+      "num": 397121,
+      "word": "泰国坠机5名乘客出生于浙江或上海",
+      "onboard_time": 1724396420,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133604,
@@ -1619,14 +1683,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 110244,
-      "num": 110244,
-      "word": "印度女医生",
-      "onboard_time": 1724299879,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109733,
       "num": 307382,
       "word": "时代少年团少年意气再度出发",
@@ -1731,20 +1787,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77010,
+      "num": 470929,
+      "word": "官方称渝昆高铁致6人死亡正在调查",
+      "onboard_time": 1724396420,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75479,
       "num": 75479,
       "word": "全红婵陈艺文又去撸狗了",
       "onboard_time": 1724369659,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 75325,
-      "num": 397121,
-      "word": "泰国坠机5名乘客出生于浙江或上海",
-      "onboard_time": 1724396420,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 74737,
@@ -1760,6 +1816,14 @@
       "word": "企业回应卫生巾过期13年改码再卖",
       "onboard_time": 1724385621,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70664,
+      "num": 389718,
+      "word": "湖南居然还有人住在洞里",
+      "onboard_time": 1724396420,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1801,6 +1865,14 @@
       "onboard_time": 1724347096,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57185,
+      "num": 209021,
+      "word": "美特斯邦威要做大牌平替",
+      "onboard_time": 1724398099,
+      "rank": 33,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 55320,
@@ -1851,14 +1923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42835,
-      "num": 470929,
-      "word": "官方称渝昆高铁致6人死亡正在调查",
-      "onboard_time": 1724396420,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 42228,
       "num": 337929,
       "word": "独居是一场自由与孤独的博弈",
@@ -1879,14 +1943,6 @@
       "num": 374776,
       "word": "后厨是否干净不能单靠外卖员监督",
       "onboard_time": 1724382020,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37635,
-      "num": 389718,
-      "word": "湖南居然还有人住在洞里",
-      "onboard_time": 1724396420,
       "rank": 14,
       "category": "社会新闻"
     },
