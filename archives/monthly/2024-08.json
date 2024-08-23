@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1724391421762,
+  "endTime": 1724394476825,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -3241,6 +3241,14 @@
       "onboard_time": 1722680783,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2734567,
+      "num": 2734567,
+      "word": "印度 高种姓",
+      "onboard_time": 1724390960,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2734068,
@@ -20275,6 +20283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 586476,
+      "num": 302615,
+      "word": "让领导窒息的婚假",
+      "onboard_time": 1724388621,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 585876,
       "num": 921142,
       "word": "浙江宁波舟山港一货轮集装箱爆炸",
@@ -20521,6 +20537,14 @@
       "onboard_time": 1723104505,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 575374,
+      "num": 575374,
+      "word": "李云中画的孙悟空",
+      "onboard_time": 1724391322,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 575194,
@@ -25475,20 +25499,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 425802,
-      "num": 291435,
-      "word": "让领导窒息的婚假",
-      "onboard_time": 1724388621,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 425680,
       "num": 266211,
       "word": "威廉姆斯好帅",
       "onboard_time": 1723391245,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 425680,
+      "num": 425680,
+      "word": "印度奸杀案",
+      "onboard_time": 1724393060,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 425664,
@@ -26361,14 +26385,6 @@
       "onboard_time": 1723024770,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 408294,
-      "num": 408294,
-      "word": "印度 高种姓",
-      "onboard_time": 1724390960,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 408286,
@@ -30667,6 +30683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 336967,
+      "num": 336967,
+      "word": "你们英专生嘴真严啊",
+      "onboard_time": 1724392041,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 336485,
       "num": 998100,
       "word": "建昌暴雨",
@@ -33619,6 +33643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302549,
+      "num": 302549,
+      "word": "谢霆锋把手搭在王菲腿上",
+      "onboard_time": 1724394198,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 302436,
       "num": 368030,
       "word": "郑合惠子啜妮新剧",
@@ -34289,6 +34321,14 @@
       "onboard_time": 1722688350,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 294992,
+      "num": 294992,
+      "word": "130平装成了300平的即视感",
+      "onboard_time": 1724392041,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 294969,
@@ -36963,6 +37003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 270959,
+      "num": 270959,
+      "word": "男子开车打瞌睡80秒闭眼19次",
+      "onboard_time": 1724390661,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270946,
       "num": 287758,
       "word": "金鹰奖片单",
@@ -38393,6 +38441,14 @@
       "onboard_time": 1724207360,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 258155,
+      "num": 234639,
+      "word": "邓紫棋演唱会上的白鹿",
+      "onboard_time": 1724394380,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 258093,
@@ -41715,6 +41771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231844,
+      "num": 231844,
+      "word": "顾客花千元吃火锅吃出蟑螂索赔1万",
+      "onboard_time": 1724389880,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231815,
       "num": 231815,
       "word": "张雨霏称奖牌太多太沉就不带纪念品了",
@@ -42809,14 +42873,6 @@
       "onboard_time": 1722745643,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 224962,
-      "num": 224962,
-      "word": "顾客花千元吃火锅吃出蟑螂索赔1万",
-      "onboard_time": 1724389880,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 224821,
@@ -46755,6 +46811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203839,
+      "num": 203839,
+      "word": "黑神话引发换机潮部分机型不涨反降",
+      "onboard_time": 1724392879,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 203831,
       "num": 203831,
       "word": "黑神话悟空PS5实机演示",
@@ -47691,6 +47755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200052,
+      "num": 275323,
+      "word": "娜扎 我跟你之间什么都可以",
+      "onboard_time": 1724393119,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200035,
       "num": 200035,
       "word": "符龙飞组为啥分这么低",
@@ -48577,6 +48649,14 @@
       "onboard_time": 1723595782,
       "rank": 39,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 196554,
+      "num": 196554,
+      "word": "披哥后期",
+      "onboard_time": 1724393780,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 196551,
@@ -49521,6 +49601,14 @@
       "onboard_time": 1724146520,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 192735,
+      "num": 302655,
+      "word": "披哥CP",
+      "onboard_time": 1724393839,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 192721,
@@ -52819,6 +52907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175850,
+      "num": 175850,
+      "word": "黑神话悟空Steam在线玩家数破240万",
+      "onboard_time": 1724393181,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 175802,
       "num": 175802,
       "word": "嗨放派3官宣定档",
@@ -52849,6 +52945,14 @@
       "onboard_time": 1723454420,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175545,
+      "num": 238643,
+      "word": "马嘉祺蓝发",
+      "onboard_time": 1724393959,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 175517,
@@ -54651,6 +54755,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 164041,
+      "num": 164041,
+      "word": "王一博勇气编织绳索汗水锻造决心",
+      "onboard_time": 1724394260,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 163870,
       "num": 163870,
       "word": "无限暖暖",
@@ -55427,6 +55539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 157942,
+      "num": 157942,
+      "word": "杨戬的臂鞲",
+      "onboard_time": 1724393959,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 157937,
       "num": 157937,
       "word": "整部剧凑不出一个正常家庭",
@@ -55923,6 +56043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154585,
+      "num": 337015,
+      "word": "女子运动减肥50斤被盗图卖减肥产品",
+      "onboard_time": 1724392281,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154571,
       "num": 399402,
       "word": "王俊凯百花奖提名证书",
@@ -56249,14 +56377,6 @@
       "onboard_time": 1724146881,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 152119,
-      "num": 152119,
-      "word": "李云中画的孙悟空",
-      "onboard_time": 1724391322,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 152079,
@@ -57139,6 +57259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145096,
+      "num": 145096,
+      "word": "黑神话悟空全球首位白金玩家",
+      "onboard_time": 1724393541,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 145054,
       "num": 145054,
       "word": "狼队对战TTG",
@@ -57665,14 +57793,6 @@
       "onboard_time": 1722503907,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140473,
-      "num": 140472,
-      "word": "男子开车打瞌睡80秒闭眼19次",
-      "onboard_time": 1724390661,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140396,
@@ -60227,6 +60347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104623,
+      "num": 307382,
+      "word": "时代少年团少年意气再度出发",
+      "onboard_time": 1724394019,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 104422,
       "num": 514493,
       "word": "黄子弘凡风扇行为开始人传人",
@@ -62028,7 +62156,7 @@
     },
     {
       "raw_hot": 78980,
-      "num": 1300526,
+      "num": 1997868,
       "word": "当动车组遇到月亮plus",
       "onboard_time": 1724384360,
       "rank": 2,
@@ -67595,6 +67723,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 28976,
+      "num": 337499,
+      "word": "安徽鼓励探索钓鱼实名制",
+      "onboard_time": 1724392820,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28903,
       "num": 248855,
       "word": "比亚迪李云飞否认收购克莱斯勒",
@@ -68217,6 +68353,14 @@
       "onboard_time": 1724012771,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 21886,
+      "num": 302775,
+      "word": "探访认知症养老院",
+      "onboard_time": 1724392820,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21824,

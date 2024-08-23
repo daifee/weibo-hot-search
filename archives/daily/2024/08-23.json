@@ -1,6 +1,6 @@
 {
   "startTime": 1724344132300,
-  "endTime": 1724391421762,
+  "endTime": 1724394476825,
   "band_list": [
     {
       "raw_hot": 9647550,
@@ -16,6 +16,14 @@
       "word": "免费帮客人绞肉致残能索赔吗",
       "onboard_time": 1724380940,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2734567,
+      "num": 2734567,
+      "word": "印度 高种姓",
+      "onboard_time": 1724390960,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -251,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 586476,
+      "num": 302615,
+      "word": "让领导窒息的婚假",
+      "onboard_time": 1724388621,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 583618,
       "num": 583618,
       "word": "你真是瘦了",
@@ -265,6 +281,14 @@
       "onboard_time": 1724384781,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 575374,
+      "num": 575374,
+      "word": "李云中画的孙悟空",
+      "onboard_time": 1724391322,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 570554,
@@ -371,12 +395,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 425802,
-      "num": 291435,
-      "word": "让领导窒息的婚假",
-      "onboard_time": 1724388621,
-      "rank": 21,
-      "category": "情感"
+      "raw_hot": 425680,
+      "num": 425680,
+      "word": "印度奸杀案",
+      "onboard_time": 1724393060,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 413680,
@@ -393,14 +417,6 @@
       "onboard_time": 1724371638,
       "rank": 14,
       "category": "数码"
-    },
-    {
-      "raw_hot": 408294,
-      "num": 408294,
-      "word": "印度 高种姓",
-      "onboard_time": 1724390960,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 401384,
@@ -475,6 +491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 336967,
+      "num": 336967,
+      "word": "你们英专生嘴真严啊",
+      "onboard_time": 1724392041,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 330469,
       "num": 508845,
       "word": "基层很忙为何群众不买账",
@@ -529,6 +553,22 @@
       "onboard_time": 1724333360,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 302549,
+      "num": 302549,
+      "word": "谢霆锋把手搭在王菲腿上",
+      "onboard_time": 1724394198,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 294992,
+      "num": 294992,
+      "word": "130平装成了300平的即视感",
+      "onboard_time": 1724392041,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 288774,
@@ -595,6 +635,14 @@
       "category": "游戏,美食"
     },
     {
+      "raw_hot": 270959,
+      "num": 270959,
+      "word": "男子开车打瞌睡80秒闭眼19次",
+      "onboard_time": 1724390661,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268264,
       "num": 268264,
       "word": "女子下雨天拉隐形车门被熏吐了",
@@ -617,6 +665,14 @@
       "onboard_time": 1724378420,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258155,
+      "num": 234639,
+      "word": "邓紫棋演唱会上的白鹿",
+      "onboard_time": 1724394380,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 257923,
@@ -723,6 +779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 231844,
+      "num": 231844,
+      "word": "顾客花千元吃火锅吃出蟑螂索赔1万",
+      "onboard_time": 1724389880,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231659,
       "num": 231659,
       "word": "郑钦文vs阿尼西莫娃",
@@ -737,14 +801,6 @@
       "onboard_time": 1724315421,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 224962,
-      "num": 224962,
-      "word": "顾客花千元吃火锅吃出蟑螂索赔1万",
-      "onboard_time": 1724389880,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 221393,
@@ -827,12 +883,28 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 203839,
+      "num": 203839,
+      "word": "黑神话引发换机潮部分机型不涨反降",
+      "onboard_time": 1724392879,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 203685,
       "num": 277688,
       "word": "360称儿童手表错误信息非AI回答",
       "onboard_time": 1724353871,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200052,
+      "num": 275323,
+      "word": "娜扎 我跟你之间什么都可以",
+      "onboard_time": 1724393119,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 199157,
@@ -851,6 +923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196554,
+      "num": 196554,
+      "word": "披哥后期",
+      "onboard_time": 1724393780,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195275,
       "num": 195275,
       "word": "庆阳人民 王楚钦服不服",
@@ -865,6 +945,14 @@
       "onboard_time": 1724388681,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192735,
+      "num": 302655,
+      "word": "披哥CP",
+      "onboard_time": 1724393839,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 192684,
@@ -987,6 +1075,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175850,
+      "num": 175850,
+      "word": "黑神话悟空Steam在线玩家数破240万",
+      "onboard_time": 1724393181,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 175545,
+      "num": 238643,
+      "word": "马嘉祺蓝发",
+      "onboard_time": 1724393959,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 174917,
       "num": 174917,
       "word": "时代少年团渐染韶华写真",
@@ -1059,6 +1163,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 164041,
+      "num": 164041,
+      "word": "王一博勇气编织绳索汗水锻造决心",
+      "onboard_time": 1724394260,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 162322,
       "num": 162322,
       "word": "大龄相亲市场到底有多难",
@@ -1107,12 +1219,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157942,
+      "num": 157942,
+      "word": "杨戬的臂鞲",
+      "onboard_time": 1724393959,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 157631,
       "num": 157631,
       "word": "诺米讲脱口秀",
       "onboard_time": 1724390720,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154585,
+      "num": 337015,
+      "word": "女子运动减肥50斤被盗图卖减肥产品",
+      "onboard_time": 1724392281,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154177,
@@ -1131,12 +1259,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152119,
-      "num": 152119,
-      "word": "李云中画的孙悟空",
-      "onboard_time": 1724391322,
-      "rank": 42,
-      "category": "游戏"
+      "raw_hot": 149542,
+      "num": 149542,
+      "word": "WTT",
+      "onboard_time": 1724393900,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 149427,
@@ -1179,6 +1307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145096,
+      "num": 145096,
+      "word": "黑神话悟空全球首位白金玩家",
+      "onboard_time": 1724393541,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 142089,
       "num": 563201,
       "word": "辽宁建昌受灾村怎么样了",
@@ -1193,14 +1329,6 @@
       "onboard_time": 1724370678,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140473,
-      "num": 140472,
-      "word": "男子开车打瞌睡80秒闭眼19次",
-      "onboard_time": 1724390661,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140125,
@@ -1411,6 +1539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104623,
+      "num": 307382,
+      "word": "时代少年团少年意气再度出发",
+      "onboard_time": 1724394019,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 104166,
       "num": 104166,
       "word": "大脑中的微塑料多到无法想象",
@@ -1476,7 +1612,7 @@
     },
     {
       "raw_hot": 78980,
-      "num": 1300526,
+      "num": 1997868,
       "word": "当动车组遇到月亮plus",
       "onboard_time": 1724384360,
       "rank": 2,
@@ -1651,6 +1787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28976,
+      "num": 337499,
+      "word": "安徽鼓励探索钓鱼实名制",
+      "onboard_time": 1724392820,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25433,
       "num": 281542,
       "word": "汽车充电宝可自动导航实现桩找车",
@@ -1664,6 +1808,14 @@
       "word": "夜宿恐龙博物馆是啥体验",
       "onboard_time": 1724357592,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21886,
+      "num": 302775,
+      "word": "探访认知症养老院",
+      "onboard_time": 1724392820,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
