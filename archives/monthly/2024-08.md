@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/08/01 00:24:58 ~ 2024/08/23 09:47:48
+本榜单时间：2024/08/01 00:24:58 ~ 2024/08/23 10:39:58
 </p>
 </blockquote>
 <p>
@@ -5955,6 +5955,12 @@ Kimi14岁身高（热度：1541456）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%B3%B0%E5%9B%BD%E9%81%AD%E8%BE%B1%E9%AA%82%E6%BC%82%E4%BA%AE%E5%8F%8D%E5%87%BB%23" target="weibo">
+中国女子在泰国遭辱骂漂亮反击（热度：1510736）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2%E8%BF%9B%E5%86%B3%E8%B5%9B%23" target="weibo">
 日本女团进决赛（热度：1510188）
 </a>
@@ -6005,12 +6011,6 @@ Kimi14岁身高（热度：1541456）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%81%8B%E6%83%85%E9%A3%8E%E6%B3%A2%E5%90%8E%E9%A6%96%E9%9C%B2%E9%9D%A2%23" target="weibo">
 范丞丞恋情风波后首露面（热度：1498060）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89%23" target="weibo">
-美国大选（热度：1496870）
 </a>
 </li>
 
