@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724526960698,
+  "endTime": 1724528096247,
   "band_list": [
     {
       "raw_hot": 2141711,
@@ -475,7 +475,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 61282,
+      "raw_hot": 66935,
       "num": 115043,
       "word": "2中学生网上利用卡牌盲盒设局诈骗",
       "onboard_time": 1724524273,
@@ -523,11 +523,27 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 24189,
+      "raw_hot": 33018,
       "num": 86308,
       "word": "为何这些丑东西成了年轻人的心头好",
       "onboard_time": 1724526132,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28089,
+      "num": 30966,
+      "word": "央视曝光的多家脏乱外卖停业整改",
+      "onboard_time": 1724527271,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20457,
+      "num": 42232,
+      "word": "外卖要想放心点平台监管不能缺位",
+      "onboard_time": 1724527991,
+      "rank": 24,
       "category": "社会新闻"
     }
   ],
