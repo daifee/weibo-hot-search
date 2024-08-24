@@ -1,6 +1,6 @@
 {
   "startTime": 1724430385634,
-  "endTime": 1724498196167,
+  "endTime": 1724499359738,
   "band_list": [
     {
       "raw_hot": 2529436,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1448817,
+      "num": 1448817,
+      "word": "郭艾伦加盟广州",
+      "onboard_time": 1724497698,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1429087,
       "num": 723429,
       "word": "长沙女干部不雅聊天事件当事男子发声",
@@ -89,6 +97,14 @@
       "onboard_time": 1724464997,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1238160,
+      "num": 1238160,
+      "word": "女子在车上注射胶原蛋白",
+      "onboard_time": 1724493619,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1232325,
@@ -179,6 +195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1027070,
+      "num": 1027070,
+      "word": "月嫂烫伤出生27天婴儿",
+      "onboard_time": 1724491820,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1021199,
       "num": 1021199,
       "word": "韩酒店火灾2人跳楼因气垫翻转遇难",
@@ -243,6 +267,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 947690,
+      "num": 947690,
+      "word": "峨眉山发现失踪半个多世纪的神秘物种",
+      "onboard_time": 1724493859,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 941841,
       "num": 312171,
       "word": "近视眼度数越来越低的习惯",
@@ -264,14 +296,6 @@
       "word": "性别比失衡情况下想生男孩的人会少吗",
       "onboard_time": 1724463318,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 848481,
-      "num": 848481,
-      "word": "月嫂烫伤出生27天婴儿",
-      "onboard_time": 1724491820,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -305,6 +329,14 @@
       "onboard_time": 1724484499,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 792962,
+      "num": 792962,
+      "word": "乐华家族演唱会",
+      "onboard_time": 1724487440,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 771385,
@@ -353,6 +385,14 @@
       "onboard_time": 1724488880,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 665914,
+      "num": 665914,
+      "word": "火锅店主救人牺牲众人排长队就餐致敬",
+      "onboard_time": 1724491640,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 661822,
@@ -435,20 +475,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 590297,
+      "num": 590297,
+      "word": "UNIQ合体",
+      "onboard_time": 1724495241,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 579158,
       "num": 579158,
       "word": "全红婵因劳损跳水前要花半小时绑绷带",
       "onboard_time": 1724418080,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 578595,
-      "num": 578595,
-      "word": "火锅店主救人牺牲众人排长队就餐致敬",
-      "onboard_time": 1724491640,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 577840,
@@ -489,6 +529,14 @@
       "onboard_time": 1724492359,
       "rank": 22,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 538006,
+      "num": 538006,
+      "word": "CPA战略",
+      "onboard_time": 1724498898,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 536026,
@@ -763,6 +811,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314214,
+      "num": 314214,
+      "word": "成都暴雨",
+      "onboard_time": 1724496200,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302016,
+      "num": 302016,
+      "word": "汪涵 父母更不舍得孩子",
+      "onboard_time": 1724498120,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 300744,
       "num": 300744,
       "word": "感觉图书馆考研人和考公人特好区分",
@@ -776,6 +840,14 @@
       "word": "新西游记PD李周亨车祸去世",
       "onboard_time": 1724480959,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 299118,
+      "num": 299191,
+      "word": "时代少年团直播",
+      "onboard_time": 1724494220,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -811,12 +883,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 290209,
-      "num": 290209,
-      "word": "峨眉山发现失踪半个多世纪的神秘物种",
-      "onboard_time": 1724493859,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 295573,
+      "num": 295573,
+      "word": "乐华演唱会直播要88块",
+      "onboard_time": 1724494280,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 287957,
@@ -921,14 +993,6 @@
       "onboard_time": 1724465181,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 261898,
-      "num": 299191,
-      "word": "时代少年团直播",
-      "onboard_time": 1724494220,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 261276,
@@ -1076,7 +1140,7 @@
     },
     {
       "raw_hot": 242126,
-      "num": 242126,
+      "num": 592921,
       "word": "孙颖莎说很开心看到小朋友学乒乓球",
       "onboard_time": 1724494159,
       "rank": 35,
@@ -1091,14 +1155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 239617,
-      "num": 239617,
-      "word": "UNIQ合体",
-      "onboard_time": 1724495241,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
       "raw_hot": 239491,
       "num": 239491,
       "word": "张碧晨陈昊宇包售后的",
@@ -1108,7 +1164,7 @@
     },
     {
       "raw_hot": 238082,
-      "num": 214917,
+      "num": 216179,
       "word": "宁王一命通关大圣残躯",
       "onboard_time": 1724493500,
       "rank": 34,
@@ -1131,12 +1187,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 235603,
-      "num": 235603,
-      "word": "乐华演唱会直播要88块",
-      "onboard_time": 1724494280,
-      "rank": 42,
-      "category": "演出"
+      "raw_hot": 235648,
+      "num": 235648,
+      "word": "steam崩了",
+      "onboard_time": 1724497280,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 233908,
@@ -1195,6 +1251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224344,
+      "num": 224344,
+      "word": "为了事业放弃孩子的女主",
+      "onboard_time": 1724496019,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222808,
       "num": 222808,
       "word": "早安 一次外向换来一辈子内向",
@@ -1209,6 +1273,14 @@
       "onboard_time": 1724471781,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 222162,
+      "num": 222162,
+      "word": "谁说的秦海璐大战邪恶银渐层",
+      "onboard_time": 1724497041,
+      "rank": 29,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 221726,
@@ -1233,6 +1305,14 @@
       "onboard_time": 1724455214,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219729,
+      "num": 219729,
+      "word": "李娟称谢谢你这一坨巨大的赞美",
+      "onboard_time": 1724498300,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 219390,
@@ -1265,6 +1345,14 @@
       "onboard_time": 1724484860,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215618,
+      "num": 215618,
+      "word": "TES对战WBG",
+      "onboard_time": 1724496679,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 213860,
@@ -1304,6 +1392,22 @@
       "word": "韩国一面包车与大巴车相撞致5死9伤",
       "onboard_time": 1724480780,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205918,
+      "num": 205918,
+      "word": "一句踩妈妈的手给我整泪目了",
+      "onboard_time": 1724497879,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205065,
+      "num": 205065,
+      "word": "广西民警为救落水者牺牲",
+      "onboard_time": 1724496258,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1369,14 +1473,6 @@
       "onboard_time": 1724481078,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 196703,
-      "num": 206965,
-      "word": "乐华家族演唱会",
-      "onboard_time": 1724487440,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 196406,
@@ -1467,6 +1563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 189021,
+      "num": 189021,
+      "word": "范丞丞剧组日常记录",
+      "onboard_time": 1724499259,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187667,
       "num": 187667,
       "word": "有一种友谊是草帽一伙",
@@ -1489,6 +1593,22 @@
       "onboard_time": 1724461518,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 184993,
+      "num": 184993,
+      "word": "刺猬 好看",
+      "onboard_time": 1724498480,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 184602,
+      "num": 184602,
+      "word": "TES",
+      "onboard_time": 1724497220,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 184226,
@@ -1515,6 +1635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183525,
+      "num": 183525,
+      "word": "孙颖莎说不忘初心继续努力",
+      "onboard_time": 1724498060,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182906,
       "num": 182906,
       "word": "快乐再出发3",
@@ -1529,6 +1657,22 @@
       "onboard_time": 1724480360,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181067,
+      "num": 181067,
+      "word": "刺猬repo",
+      "onboard_time": 1724491580,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 180996,
+      "num": 180996,
+      "word": "我去音乐节看吴克群他却在路边烤串",
+      "onboard_time": 1724497638,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 180395,
@@ -1563,14 +1707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177182,
-      "num": 177182,
-      "word": "刺猬repo",
-      "onboard_time": 1724491580,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 176527,
       "num": 176527,
       "word": "印度151名议员对妇女实施犯罪",
@@ -1595,6 +1731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 175151,
+      "num": 175151,
+      "word": "辽宁广州同曦达成三方交易",
+      "onboard_time": 1724498601,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174526,
       "num": 174526,
       "word": "icon与suki聊天记录",
@@ -1617,6 +1761,14 @@
       "onboard_time": 1724463439,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174260,
+      "num": 174260,
+      "word": "人气求生者487",
+      "onboard_time": 1724498839,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 170925,
@@ -1689,6 +1841,14 @@
       "onboard_time": 1724299879,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168156,
+      "num": 168156,
+      "word": "丁程鑫自称小菜转身拿五杀",
+      "onboard_time": 1724499080,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 167063,
@@ -1777,6 +1937,14 @@
       "onboard_time": 1724464339,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158485,
+      "num": 158485,
+      "word": "在杭州这奶茶是非喝不可吗",
+      "onboard_time": 1724497100,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 158337,
@@ -2283,14 +2451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 69647,
-      "num": 423849,
-      "word": "女子在车上注射胶原蛋白",
-      "onboard_time": 1724493619,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 68670,
       "num": 90071,
       "word": "黑泽良平模仿林志玲",
@@ -2648,6 +2808,14 @@
       "word": "宿迁一小区商铺发生火灾致6死",
       "onboard_time": 1724484620,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17387,
+      "num": 1340481,
+      "word": "法润彩云南",
+      "onboard_time": 1724485881,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
