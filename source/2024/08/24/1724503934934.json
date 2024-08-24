@@ -1,0 +1,410 @@
+{
+  "runTime": 1724503934934,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1349543,
+        "num": 1349543,
+        "word": "女子坐拥87套房被查封待拍卖",
+        "onboard_time": 1724490020,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1130729,
+        "num": 1130729,
+        "word": "女子在车上注射胶原蛋白",
+        "onboard_time": 1724493619,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26669,
+        "num": 1019435,
+        "word": "铸牢共同体中华一家亲",
+        "onboard_time": 1724503281,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1233331,
+        "num": 1018420,
+        "word": "Angelababy带小海绵游玩迪士尼",
+        "onboard_time": 1724501180,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 991909,
+        "num": 991909,
+        "word": "郭艾伦加盟广州",
+        "onboard_time": 1724497698,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 946240,
+        "num": 946240,
+        "word": "网友曝罗拉王能能没分手",
+        "onboard_time": 1724500040,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 938375,
+        "num": 938375,
+        "word": "一句踩妈妈的手给我整泪目了",
+        "onboard_time": 1724497879,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 703324,
+        "num": 703324,
+        "word": "steam崩了",
+        "onboard_time": 1724497280,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 631956,
+        "num": 631956,
+        "word": "朱正廷程潇 BG舞台",
+        "onboard_time": 1724500040,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 271882,
+        "num": 611774,
+        "word": "广西民警为救落水者牺牲",
+        "onboard_time": 1724496258,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595187,
+        "num": 595187,
+        "word": "孟美岐 沙漠姬",
+        "onboard_time": 1724502381,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 575929,
+        "num": 575929,
+        "word": "乐华家族演唱会",
+        "onboard_time": 1724487440,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 566392,
+        "num": 566392,
+        "word": "月嫂烫伤出生27天婴儿",
+        "onboard_time": 1724491820,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557696,
+        "num": 557696,
+        "word": "董宇辉3.58亿分手费已全部到账",
+        "onboard_time": 1724500159,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 512223,
+        "num": 512223,
+        "word": "郭艾伦 被通知",
+        "onboard_time": 1724501240,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65646,
+        "num": 424037,
+        "word": "什么配置能玩黑神话悟空",
+        "onboard_time": 1724501000,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 422676,
+        "num": 422676,
+        "word": "峨眉山发现失踪半个多世纪的神秘物种",
+        "onboard_time": 1724493859,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421513,
+        "num": 421513,
+        "word": "孙杨复出赛报名成绩",
+        "onboard_time": 1724483239,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 399881,
+        "num": 399881,
+        "word": "火锅店主救人牺牲众人排长队就餐致敬",
+        "onboard_time": 1724491640,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398984,
+        "num": 398984,
+        "word": "傅首尔 老刘已经有张硕了",
+        "onboard_time": 1724481200,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 840894,
+        "num": 393485,
+        "word": "男子内裤里藏3只甲虫入境被查",
+        "onboard_time": 1724489601,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 723530,
+        "num": 391090,
+        "word": "印度女医生案监控画面曝光",
+        "onboard_time": 1724473220,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375007,
+        "num": 375007,
+        "word": "UNIQ合体",
+        "onboard_time": 1724495241,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 365917,
+        "num": 365917,
+        "word": "张昊唯和伪造聊天记录发小已和解",
+        "onboard_time": 1724501721,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314664,
+        "num": 314664,
+        "word": "Gr对战WBG",
+        "onboard_time": 1724501180,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 290086,
+        "num": 290086,
+        "word": "曾舜晞买个防窥膜吧",
+        "onboard_time": 1724488520,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 264622,
+        "num": 264622,
+        "word": "偶遇贾乃亮甜馨逛商场",
+        "onboard_time": 1724500701,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252829,
+        "num": 252829,
+        "word": "TES对战WBG",
+        "onboard_time": 1724496679,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 247403,
+        "num": 247403,
+        "word": "樊振东国家队12年获112个冠军",
+        "onboard_time": 1724501902,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242358,
+        "num": 242358,
+        "word": "纸片人老公被妈妈认可了",
+        "onboard_time": 1724502500,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 241372,
+        "num": 241372,
+        "word": "张昊唯暂停演艺工作",
+        "onboard_time": 1724491101,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239136,
+        "num": 239136,
+        "word": "袁咏仪曝儿子想谈恋爱",
+        "onboard_time": 1724502021,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225883,
+        "num": 225883,
+        "word": "TheShy三命过黄风大圣",
+        "onboard_time": 1724491940,
+        "rank": 32,
+        "category": "电竞,游戏"
+      },
+      {
+        "raw_hot": 221338,
+        "num": 221338,
+        "word": "69岁妻子疑心丈夫有外遇引发矛盾",
+        "onboard_time": 1724500818,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218351,
+        "num": 218351,
+        "word": "华晨宇黑尾牙",
+        "onboard_time": 1724501541,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 217559,
+        "num": 217559,
+        "word": "李汶翰王晰合作舞台",
+        "onboard_time": 1724503161,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 217309,
+        "num": 217309,
+        "word": "WBG获胜",
+        "onboard_time": 1724493799,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 214042,
+        "num": 214042,
+        "word": "刺猬repo",
+        "onboard_time": 1724491580,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 211133,
+        "num": 211133,
+        "word": "给男朋友做的一周年纪念礼物",
+        "onboard_time": 1724499979,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206289,
+        "num": 206289,
+        "word": "成都暴雨",
+        "onboard_time": 1724496200,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201970,
+        "num": 201970,
+        "word": "孙颖莎说不忘初心继续努力",
+        "onboard_time": 1724498060,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200813,
+        "num": 200813,
+        "word": "乐华 业务能力",
+        "onboard_time": 1724503579,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199978,
+        "num": 199978,
+        "word": "黑神话悟空通关留言墙",
+        "onboard_time": 1724488880,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198684,
+        "num": 198684,
+        "word": "布莱顿半场1比0曼联",
+        "onboard_time": 1724503821,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193943,
+        "num": 193943,
+        "word": "包上恩拔智齿脸肿了",
+        "onboard_time": 1724503040,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193727,
+        "num": 193727,
+        "word": "鹭卓巡演",
+        "onboard_time": 1724503821,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193360,
+        "num": 193360,
+        "word": "喻言ignite舞台",
+        "onboard_time": 1724502801,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188774,
+        "num": 188774,
+        "word": "乐华演唱会直播要88块",
+        "onboard_time": 1724494280,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187713,
+        "num": 188341,
+        "word": "汪涵 父母更不舍得孩子",
+        "onboard_time": 1724498120,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188096,
+        "num": 188096,
+        "word": "周深 空壳",
+        "onboard_time": 1724503881,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视知识分子工作#"
+    }
+  }
+}
