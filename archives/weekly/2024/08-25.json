@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724534288459,
+  "endTime": 1724535377779,
   "band_list": [
     {
       "raw_hot": 2141711,
@@ -507,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50176,
+      "num": 50176,
+      "word": "醉酒男子看邻座不顺眼打人",
+      "onboard_time": 1724531831,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43817,
       "num": 43817,
       "word": "华晨宇重庆演唱会",
@@ -537,14 +545,6 @@
       "onboard_time": 1724493799,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 39287,
-      "num": 39287,
-      "word": "醉酒男子看邻座不顺眼打人",
-      "onboard_time": 1724531831,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30009,
@@ -579,8 +579,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 10413,
-      "num": 52112,
+      "raw_hot": 12505,
+      "num": 58443,
       "word": "栾留伟赵金拟被认定见义勇为",
       "onboard_time": 1724533691,
       "rank": 9,

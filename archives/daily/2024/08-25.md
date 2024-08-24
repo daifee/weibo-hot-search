@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/08/25 00:23:21 ~ 2024/08/25 05:18:08
+本榜单时间：2024/08/25 00:23:21 ~ 2024/08/25 05:36:17
 </p>
 </blockquote>
 <p>
@@ -393,6 +393,12 @@ TF三代登陆时刻演唱会（热度：89584）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%86%89%E9%85%92%E7%94%B7%E5%AD%90%E7%9C%8B%E9%82%BB%E5%BA%A7%E4%B8%8D%E9%A1%BA%E7%9C%BC%E6%89%93%E4%BA%BA%23" target="weibo">
+醉酒男子看邻座不顺眼打人（热度：50176）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E9%87%8D%E5%BA%86%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 华晨宇重庆演唱会（热度：43817）
 </a>
@@ -413,12 +419,6 @@ TF三代登陆时刻演唱会（热度：89584）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23WBG%E8%8E%B7%E8%83%9C%23" target="weibo">
 WBG获胜（热度：41555）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%86%89%E9%85%92%E7%94%B7%E5%AD%90%E7%9C%8B%E9%82%BB%E5%BA%A7%E4%B8%8D%E9%A1%BA%E7%9C%BC%E6%89%93%E4%BA%BA%23" target="weibo">
-醉酒男子看邻座不顺眼打人（热度：39287）
 </a>
 </li>
 
@@ -448,7 +448,7 @@ WBG获胜（热度：41555）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A0%BE%E7%95%99%E4%BC%9F%E8%B5%B5%E9%87%91%E6%8B%9F%E8%A2%AB%E8%AE%A4%E5%AE%9A%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%23" target="weibo">
-栾留伟赵金拟被认定见义勇为（热度：10413）
+栾留伟赵金拟被认定见义勇为（热度：12505）
 </a>
 </li>
 
