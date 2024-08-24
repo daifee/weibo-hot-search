@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724531695690,
+  "endTime": 1724534288459,
   "band_list": [
     {
       "raw_hot": 2141711,
@@ -443,6 +443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 106206,
+      "num": 106206,
+      "word": "为何这些丑东西成了年轻人的心头好",
+      "onboard_time": 1724526132,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95142,
       "num": 95142,
       "word": "乐华 业务能力",
@@ -475,11 +483,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 78760,
-      "num": 86308,
-      "word": "为何这些丑东西成了年轻人的心头好",
-      "onboard_time": 1724526132,
-      "rank": 9,
+      "raw_hot": 72110,
+      "num": 72110,
+      "word": "央视曝光的多家脏乱外卖停业整改",
+      "onboard_time": 1724527271,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -497,14 +505,6 @@
       "onboard_time": 1724521635,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 54500,
-      "num": 54500,
-      "word": "央视曝光的多家脏乱外卖停业整改",
-      "onboard_time": 1724527271,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43817,
@@ -539,11 +539,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 39287,
+      "num": 39287,
+      "word": "醉酒男子看邻座不顺眼打人",
+      "onboard_time": 1724531831,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30009,
       "num": 42232,
       "word": "外卖要想放心点平台监管不能缺位",
       "onboard_time": 1724527991,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26133,
+      "num": 57361,
+      "word": "网友呼吁下调景区门票老人免费年龄",
+      "onboard_time": 1724529852,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -563,10 +579,10 @@
       "category": "演出"
     },
     {
-      "raw_hot": 15760,
-      "num": 57361,
-      "word": "网友呼吁下调景区门票老人免费年龄",
-      "onboard_time": 1724529852,
+      "raw_hot": 10413,
+      "num": 52112,
+      "word": "栾留伟赵金拟被认定见义勇为",
+      "onboard_time": 1724533691,
       "rank": 9,
       "category": "社会新闻"
     }
