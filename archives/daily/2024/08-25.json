@@ -1,0 +1,411 @@
+{
+  "startTime": 1724516601503,
+  "endTime": 1724516601503,
+  "band_list": [
+    {
+      "raw_hot": 2141711,
+      "num": 2141711,
+      "word": "樊振东退赛",
+      "onboard_time": 1724512282,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1009610,
+      "num": 1009610,
+      "word": "孙颖莎去了邓紫棋演唱会",
+      "onboard_time": 1724511742,
+      "rank": 1,
+      "category": "体育,演出"
+    },
+    {
+      "raw_hot": 998750,
+      "num": 256081,
+      "word": "印度女医生奸杀案嫌疑人当庭翻供",
+      "onboard_time": 1724509701,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 853227,
+      "num": 255536,
+      "word": "睡前妄想症",
+      "onboard_time": 1724513601,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 850891,
+      "num": 850891,
+      "word": "杨紫工作室 审美",
+      "onboard_time": 1724513841,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 693676,
+      "num": 693676,
+      "word": "游客闯进全红婵爷爷家被微笑劝退",
+      "onboard_time": 1724510241,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 614744,
+      "num": 614744,
+      "word": "黑神话悟空杨戬演员回应撞脸张翰",
+      "onboard_time": 1724508502,
+      "rank": 5,
+      "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 588577,
+      "num": 588577,
+      "word": "王一博 绿海",
+      "onboard_time": 1724506522,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 547127,
+      "num": 547127,
+      "word": "央视曝回流药黑色产业链",
+      "onboard_time": 1724508922,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 526506,
+      "num": 526506,
+      "word": "樊振东 北京大满贯",
+      "onboard_time": 1724510962,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 495223,
+      "num": 495223,
+      "word": "檀健次跟爱奇艺道歉",
+      "onboard_time": 1724504723,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 485586,
+      "num": 485586,
+      "word": "冯骥 离职是最好的医美",
+      "onboard_time": 1724503939,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 462377,
+      "num": 253984,
+      "word": "男子内裤里藏3只甲虫入境被查",
+      "onboard_time": 1724489601,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369007,
+      "num": 369007,
+      "word": "女子坐拥87套房被查封待拍卖",
+      "onboard_time": 1724490020,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 366712,
+      "num": 366712,
+      "word": "WBG战胜TES",
+      "onboard_time": 1724511323,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 350051,
+      "num": 350051,
+      "word": "蒋奇明好帅",
+      "onboard_time": 1724513302,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 342980,
+      "num": 342980,
+      "word": "郭艾伦加盟广州",
+      "onboard_time": 1724497698,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 333408,
+      "num": 333408,
+      "word": "王一博新歌舞台",
+      "onboard_time": 1724506162,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 315588,
+      "num": 315588,
+      "word": "Angelababy带小海绵游玩迪士尼",
+      "onboard_time": 1724501180,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 269320,
+      "num": 269320,
+      "word": "女子美甲致真菌感染治疗花费近万元",
+      "onboard_time": 1724505383,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257547,
+      "num": 257547,
+      "word": "杨幂来看周深演唱会了",
+      "onboard_time": 1724504842,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 252418,
+      "num": 252418,
+      "word": "人竟然可以幸福到这种程度",
+      "onboard_time": 1724508742,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 249873,
+      "num": 249873,
+      "word": "夫妻离婚争13只乌龟抚养权",
+      "onboard_time": 1724512643,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231438,
+      "num": 231438,
+      "word": "Zoom 拿下",
+      "onboard_time": 1724513122,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 228673,
+      "num": 228673,
+      "word": "印度奸杀案双方父母都认为嫌疑人是替罪羊",
+      "onboard_time": 1724511381,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216912,
+      "num": 216912,
+      "word": "孟美岐 沙漠姬",
+      "onboard_time": 1724502381,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 216806,
+      "num": 216806,
+      "word": "广西民警为救落水者牺牲",
+      "onboard_time": 1724496258,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211234,
+      "num": 211234,
+      "word": "乐华家族演唱会",
+      "onboard_time": 1724487440,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 188638,
+      "num": 188638,
+      "word": "吴宣仪舞台被蝴蝶包围了",
+      "onboard_time": 1724514322,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 188620,
+      "num": 188620,
+      "word": "许凯西装配拖鞋的原因",
+      "onboard_time": 1724515281,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 179459,
+      "num": 179459,
+      "word": "一句踩妈妈的手给我整泪目了",
+      "onboard_time": 1724497879,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176314,
+      "num": 176314,
+      "word": "TES",
+      "onboard_time": 1724497220,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 173444,
+      "num": 173444,
+      "word": "断骨增高的人没有一天不后悔",
+      "onboard_time": 1724505200,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 170085,
+      "num": 170085,
+      "word": "陈昊宇野子现场",
+      "onboard_time": 1724508381,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 168733,
+      "num": 168733,
+      "word": "王一博说已回酒店",
+      "onboard_time": 1724514382,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 167135,
+      "num": 167135,
+      "word": "张昊唯和伪造聊天记录发小已和解",
+      "onboard_time": 1724501721,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 164228,
+      "num": 159428,
+      "word": "韩剧妈妈朋友的儿子",
+      "onboard_time": 1724509522,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 162156,
+      "num": 162156,
+      "word": "宋亚轩whatever甜妹舞",
+      "onboard_time": 1724515221,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 152849,
+      "num": 152849,
+      "word": "WBG晋级夏决",
+      "onboard_time": 1724511802,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 148566,
+      "num": 148566,
+      "word": "徐海乔的腰",
+      "onboard_time": 1724511083,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 148251,
+      "num": 148251,
+      "word": "李宇春我还年轻我还年轻",
+      "onboard_time": 1724513960,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 142216,
+      "num": 142216,
+      "word": "周深对杨幂唱爱的供养",
+      "onboard_time": 1724510241,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 139480,
+      "num": 139480,
+      "word": "程潇唱跳live好稳",
+      "onboard_time": 1724516540,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 138941,
+      "num": 138941,
+      "word": "网友曝罗拉王能能没分手",
+      "onboard_time": 1724500040,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 137180,
+      "num": 127373,
+      "word": "朱正廷程潇 BG舞台",
+      "onboard_time": 1724500040,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 134593,
+      "num": 134593,
+      "word": "贺峻霖西装眼镜杀疯了",
+      "onboard_time": 1724515042,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 131356,
+      "num": 131356,
+      "word": "杨紫镜头内外的日常",
+      "onboard_time": 1724516479,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 127629,
+      "num": 127629,
+      "word": "张镇麟发博",
+      "onboard_time": 1724503939,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 69848,
+      "num": 502976,
+      "word": "大一新生骑行1328公里北大报到",
+      "onboard_time": 1724507242,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43608,
+      "num": 906638,
+      "word": "渤海油气开发新突破",
+      "onboard_time": 1724508622,
+      "rank": 2,
+      "category": "国内时政"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#学习新语#"
+    }
+  ]
+}
