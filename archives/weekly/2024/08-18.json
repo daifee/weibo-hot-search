@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724512825512,
+  "endTime": 1724513696127,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -553,6 +553,14 @@
       "onboard_time": 1724119521,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2044094,
+      "num": 2044094,
+      "word": "樊振东退赛",
+      "onboard_time": 1724512282,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 2043021,
@@ -1251,6 +1259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1422052,
+      "num": 1422052,
+      "word": "孙颖莎去了邓紫棋演唱会",
+      "onboard_time": 1724511742,
+      "rank": 8,
+      "category": "体育,演出"
+    },
+    {
       "raw_hot": 1419088,
       "num": 1419088,
       "word": "樊振东面对面专访",
@@ -1289,6 +1305,14 @@
       "onboard_time": 1724060422,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1403640,
+      "num": 1064480,
+      "word": "印度女医生奸杀案嫌疑人当庭翻供",
+      "onboard_time": 1724509701,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1403522,
@@ -1424,14 +1448,6 @@
       "word": "女子参观兵马俑抱孩子走进俑坑",
       "onboard_time": 1723937414,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1312619,
-      "num": 1060271,
-      "word": "印度女医生奸杀案嫌疑人当庭翻供",
-      "onboard_time": 1724509701,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1787,6 +1803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1134653,
+      "num": 1134653,
+      "word": "央视曝回流药黑色产业链",
+      "onboard_time": 1724508922,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1133458,
       "num": 1181353,
       "word": "7岁女孩用防晒喷雾后接近白肺",
@@ -2139,14 +2163,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1022520,
-      "num": 1022520,
-      "word": "央视曝回流药黑色产业链",
-      "onboard_time": 1724508922,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1021199,
       "num": 1021199,
       "word": "韩酒店火灾2人跳楼因气垫翻转遇难",
@@ -2257,6 +2273,14 @@
       "onboard_time": 1724251820,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 998948,
+      "num": 998948,
+      "word": "樊振东 北京大满贯",
+      "onboard_time": 1724510962,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 998274,
@@ -2803,14 +2827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 849255,
-      "num": 849255,
-      "word": "孙颖莎去了邓紫棋演唱会",
-      "onboard_time": 1724511742,
-      "rank": 8,
-      "category": "体育,演出"
-    },
-    {
       "raw_hot": 849063,
       "num": 849063,
       "word": "间谍借助学之名怂恿大山孩子窃密",
@@ -2849,14 +2865,6 @@
       "onboard_time": 1724505383,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 839359,
-      "num": 839359,
-      "word": "樊振东 北京大满贯",
-      "onboard_time": 1724510962,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 838042,
@@ -6267,14 +6275,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 378987,
-      "num": 378987,
-      "word": "樊振东退赛",
-      "onboard_time": 1724512282,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 378976,
       "num": 615228,
       "word": "黑神话悟空在线人数",
@@ -7019,6 +7019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 335219,
+      "num": 335219,
+      "word": "人竟然可以幸福到这种程度",
+      "onboard_time": 1724508742,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 335101,
       "num": 335101,
       "word": "台风格美致湖南资兴50人遇难",
@@ -7121,14 +7129,6 @@
       "onboard_time": 1724153362,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 330976,
-      "num": 330976,
-      "word": "人竟然可以幸福到这种程度",
-      "onboard_time": 1724508742,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 330469,
@@ -7651,6 +7651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 305399,
+      "num": 305399,
+      "word": "游客闯进全红婵爷爷家被微笑劝退",
+      "onboard_time": 1724510241,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 305147,
       "num": 252897,
       "word": "杨倩再续三年清华",
@@ -7889,6 +7897,14 @@
       "onboard_time": 1724394860,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 293992,
+      "num": 246079,
+      "word": "陈伟霆在邓紫棋演唱会比心",
+      "onboard_time": 1724512402,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 293896,
@@ -8499,14 +8515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 275065,
-      "num": 275065,
-      "word": "游客闯进全红婵爷爷家被微笑劝退",
-      "onboard_time": 1724510241,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 275039,
       "num": 275039,
       "word": "何炅 不要觉得内向的性格就不好",
@@ -8624,6 +8632,14 @@
       "word": "FPX.ZQ对战WBG",
       "onboard_time": 1724490318,
       "rank": 34,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 270636,
+      "num": 270636,
+      "word": "Zoom 拿下",
+      "onboard_time": 1724513122,
+      "rank": 30,
       "category": "电竞"
     },
     {
@@ -9395,6 +9411,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 250675,
+      "num": 250675,
+      "word": "夫妻离婚争13只乌龟抚养权",
+      "onboard_time": 1724512643,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250582,
       "num": 250582,
       "word": "黑神话悟空 晕3D",
@@ -10075,6 +10099,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 235264,
+      "num": 235264,
+      "word": "徐海乔的腰",
+      "onboard_time": 1724511083,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235050,
       "num": 235050,
       "word": "潘展乐称一切从零开始",
@@ -10364,7 +10396,7 @@
     },
     {
       "raw_hot": 229752,
-      "num": 229752,
+      "num": 280030,
       "word": "印度奸杀案双方父母都认为嫌疑人是替罪羊",
       "onboard_time": 1724511381,
       "rank": 39,
@@ -10489,14 +10521,6 @@
       "onboard_time": 1724298860,
       "rank": 43,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 227142,
-      "num": 227142,
-      "word": "夫妻离婚争13只乌龟抚养权",
-      "onboard_time": 1724512643,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227031,
@@ -10649,14 +10673,6 @@
       "onboard_time": 1724251641,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 224375,
-      "num": 224375,
-      "word": "陈伟霆在邓紫棋演唱会比心",
-      "onboard_time": 1724512402,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 224344,
@@ -11043,14 +11059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 217206,
-      "num": 217206,
-      "word": "徐海乔的腰",
-      "onboard_time": 1724511083,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 217181,
       "num": 217181,
       "word": "浙大开学机器狗帮新生拿行李",
@@ -11409,6 +11417,14 @@
       "onboard_time": 1724067260,
       "rank": 38,
       "category": "军事"
+    },
+    {
+      "raw_hot": 212173,
+      "num": 212173,
+      "word": "蒋奇明好帅",
+      "onboard_time": 1724513302,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 211701,
@@ -13769,6 +13785,14 @@
       "onboard_time": 1724241139,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184802,
+      "num": 184802,
+      "word": "睡前妄想症",
+      "onboard_time": 1724513601,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 184707,
@@ -19219,6 +19243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 60527,
+      "num": 498606,
+      "word": "贾玲现身北京活动",
+      "onboard_time": 1724510721,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60492,
       "num": 77962,
       "word": "黑神话悟空带火西游记原著",
@@ -19617,14 +19649,6 @@
       "onboard_time": 1724389222,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51819,
-      "num": 498606,
-      "word": "贾玲现身北京活动",
-      "onboard_time": 1724510721,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 51743,
@@ -21009,6 +21033,14 @@
       "onboard_time": 1724247021,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18179,
+      "num": 274951,
+      "word": "WBG夏决再战BLG",
+      "onboard_time": 1724513363,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 17704,
