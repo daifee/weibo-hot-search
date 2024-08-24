@@ -1,6 +1,6 @@
 {
   "startTime": 1724430385634,
-  "endTime": 1724469724977,
+  "endTime": 1724470559764,
   "band_list": [
     {
       "raw_hot": 2123905,
@@ -83,6 +83,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1021199,
+      "num": 1021199,
+      "word": "韩酒店火灾2人跳楼因气垫翻转遇难",
+      "onboard_time": 1724466679,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1004939,
       "num": 1004939,
       "word": "河南一名高一女生在校内身亡",
@@ -105,14 +113,6 @@
       "onboard_time": 1724455455,
       "rank": 44,
       "category": "幽默,科学科普"
-    },
-    {
-      "raw_hot": 978607,
-      "num": 978607,
-      "word": "韩酒店火灾2人跳楼因气垫翻转遇难",
-      "onboard_time": 1724466679,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 971356,
@@ -163,12 +163,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 748110,
+      "num": 326627,
+      "word": "空气炸锅炸的东西越来越颠了",
+      "onboard_time": 1724467820,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 725107,
       "num": 725107,
       "word": "印度女医生遇害前婚事已敲定",
       "onboard_time": 1724424441,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 661822,
+      "num": 661822,
+      "word": "CPA审计",
+      "onboard_time": 1724469019,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 628921,
@@ -188,7 +204,7 @@
     },
     {
       "raw_hot": 598818,
-      "num": 328411,
+      "num": 540685,
       "word": "原来金莎之前说的都是真的",
       "onboard_time": 1724466498,
       "rank": 28,
@@ -201,6 +217,14 @@
       "onboard_time": 1724418080,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 563636,
+      "num": 324891,
+      "word": "原来故意避开的人才是真的在意",
+      "onboard_time": 1724465898,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 543216,
@@ -217,22 +241,6 @@
       "onboard_time": 1724414001,
       "rank": 7,
       "category": "网红"
-    },
-    {
-      "raw_hot": 529104,
-      "num": 326627,
-      "word": "空气炸锅炸的东西越来越颠了",
-      "onboard_time": 1724467820,
-      "rank": 22,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 517034,
-      "num": 517034,
-      "word": "CPA审计",
-      "onboard_time": 1724469019,
-      "rank": 6,
-      "category": "教育"
     },
     {
       "raw_hot": 516679,
@@ -339,12 +347,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 354598,
-      "num": 324891,
-      "word": "原来故意避开的人才是真的在意",
-      "onboard_time": 1724465898,
-      "rank": 26,
-      "category": "情感"
+      "raw_hot": 328279,
+      "num": 342747,
+      "word": "陈楚生 边界感",
+      "onboard_time": 1724466319,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 325532,
@@ -355,12 +363,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 310860,
-      "num": 342747,
-      "word": "陈楚生 边界感",
-      "onboard_time": 1724466319,
-      "rank": 46,
-      "category": "综艺"
+      "raw_hot": 315749,
+      "num": 315749,
+      "word": "男孩女卫生间偷窥家长语出惊人",
+      "onboard_time": 1724468059,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312171,
+      "num": 312171,
+      "word": "近视眼度数越来越低的习惯",
+      "onboard_time": 1724469619,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 298546,
@@ -385,14 +401,6 @@
       "onboard_time": 1724422522,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 279792,
-      "num": 279792,
-      "word": "近视眼度数越来越低的习惯",
-      "onboard_time": 1724469619,
-      "rank": 27,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 279607,
@@ -449,6 +457,14 @@
       "onboard_time": 1724424082,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262386,
+      "num": 323598,
+      "word": "王一博听到吃蜘蛛的反应",
+      "onboard_time": 1724465181,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 260172,
@@ -531,20 +547,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 231316,
-      "num": 231316,
-      "word": "男孩女卫生间偷窥家长语出惊人",
-      "onboard_time": 1724468059,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 229615,
       "num": 347978,
       "word": "嗨放派国家二级运动员占了一半",
       "onboard_time": 1724462478,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 227797,
+      "num": 227797,
+      "word": "泰国失事飞机没有黑匣子",
+      "onboard_time": 1724470518,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226334,
@@ -569,14 +585,6 @@
       "onboard_time": 1724455214,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 219966,
-      "num": 258788,
-      "word": "王一博听到吃蜘蛛的反应",
-      "onboard_time": 1724465181,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 211174,
@@ -627,6 +635,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190732,
+      "num": 190732,
+      "word": "老人向前女婿索要15万带孙费被判驳",
+      "onboard_time": 1724469019,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189621,
+      "num": 227210,
+      "word": "王俊凯聊私下发疯方式",
+      "onboard_time": 1724470039,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 185320,
       "num": 185320,
       "word": "iGN日本给黑神话打7分",
@@ -651,8 +675,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177471,
-      "num": 177471,
+      "raw_hot": 178881,
+      "num": 178881,
       "word": "起猛了以为马龙在卖豆腐",
       "onboard_time": 1724467278,
       "rank": 35,
@@ -681,6 +705,14 @@
       "onboard_time": 1724463439,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170535,
+      "num": 170535,
+      "word": "所有恋爱脑都不值得同情",
+      "onboard_time": 1724470218,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 170480,
@@ -715,12 +747,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166633,
+      "num": 166633,
+      "word": "战至巅峰3热血开赛",
+      "onboard_time": 1724469619,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165828,
       "num": 165828,
       "word": "日本人夏天都不怕热的吗",
       "onboard_time": 1724458578,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 164421,
+      "num": 164421,
+      "word": "港星沉迷从内地网购新中式",
+      "onboard_time": 1724469679,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 160509,
@@ -763,6 +811,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156256,
+      "num": 156256,
+      "word": "杨紫曾黎费加罗同月封面",
+      "onboard_time": 1724470278,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 155934,
+      "num": 155934,
+      "word": "日本赛石宇奇无缘决赛",
+      "onboard_time": 1724470278,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155177,
       "num": 155177,
       "word": "苹果发布会或9月10日举办",
@@ -801,14 +865,6 @@
       "onboard_time": 1724462358,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 147448,
-      "num": 147448,
-      "word": "老人向前女婿索要15万带孙费被判驳",
-      "onboard_time": 1724469019,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147275,
@@ -883,28 +939,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 136582,
-      "num": 136582,
-      "word": "战至巅峰3热血开赛",
-      "onboard_time": 1724469619,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 135015,
       "num": 135015,
       "word": "严浩翔粉发蓝瞳",
       "onboard_time": 1724413460,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 134679,
-      "num": 134679,
-      "word": "港星沉迷从内地网购新中式",
-      "onboard_time": 1724469679,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 134392,
@@ -1067,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66584,
+      "num": 324810,
+      "word": "打工人班味儿去除计划",
+      "onboard_time": 1724469199,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 65735,
       "num": 66106,
       "word": "印度低种姓的人到底有多惨",
@@ -1120,14 +1168,6 @@
       "word": "重庆街头惊现烧烤西瓜香蕉",
       "onboard_time": 1724455455,
       "rank": 47,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 53058,
-      "num": 160336,
-      "word": "打工人班味儿去除计划",
-      "onboard_time": 1724469199,
-      "rank": 42,
       "category": "美食"
     },
     {
