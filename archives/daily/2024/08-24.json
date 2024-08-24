@@ -1,14 +1,22 @@
 {
   "startTime": 1724430385634,
-  "endTime": 1724462650840,
+  "endTime": 1724463948571,
   "band_list": [
     {
-      "raw_hot": 1630127,
-      "num": 902687,
+      "raw_hot": 1771153,
+      "num": 985317,
       "word": "印度4名男子轮奸低种姓女孩获刑",
       "onboard_time": 1724458517,
       "rank": 3,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1265833,
+      "num": 1265833,
+      "word": "17岁主播在直播间倒下送医后死亡",
+      "onboard_time": 1724461459,
+      "rank": 13,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1232325,
@@ -35,6 +43,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1065521,
+      "num": 1065521,
+      "word": "董宇辉李娟访谈疑似不同频",
+      "onboard_time": 1724457858,
+      "rank": 1,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 1059301,
       "num": 1059301,
       "word": "黑神话悟空全球总销量破千万",
@@ -52,11 +68,19 @@
     },
     {
       "raw_hot": 985554,
-      "num": 293702,
+      "num": 349114,
       "word": "印度强奸案细节堪比恐怖片",
       "onboard_time": 1724399900,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 979613,
+      "num": 979613,
+      "word": "一只猴子拯救了整个电脑市场",
+      "onboard_time": 1724455455,
+      "rank": 44,
+      "category": "幽默,科学科普"
     },
     {
       "raw_hot": 971356,
@@ -68,19 +92,11 @@
     },
     {
       "raw_hot": 962385,
-      "num": 900712,
+      "num": 942259,
       "word": "印度31岁遭奸杀女医生系独生女",
       "onboard_time": 1724427198,
       "rank": 34,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 928102,
-      "num": 928102,
-      "word": "董宇辉李娟访谈疑似不同频",
-      "onboard_time": 1724457858,
-      "rank": 1,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 901658,
@@ -91,19 +107,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 885897,
-      "num": 885897,
-      "word": "一只猴子拯救了整个电脑市场",
-      "onboard_time": 1724455455,
-      "rank": 44,
-      "category": "幽默,科学科普"
-    },
-    {
       "raw_hot": 821173,
       "num": 821173,
       "word": "中国象棋第一人王天一被批准逮捕",
       "onboard_time": 1724430259,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 788584,
+      "num": 788584,
+      "word": "央视新闻曝30多家外卖店执照一样",
+      "onboard_time": 1724460857,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -115,8 +131,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 628446,
+      "num": 628446,
+      "word": "82岁爷爷一秒识破孙子嫖娼被抓骗局",
+      "onboard_time": 1724462598,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 599887,
-      "num": 599887,
+      "num": 740228,
       "word": "王一博在乐华没有在乎的人了吗",
       "onboard_time": 1724454074,
       "rank": 5,
@@ -164,11 +188,19 @@
     },
     {
       "raw_hot": 502880,
-      "num": 469336,
+      "num": 502305,
       "word": "印度的性侵案为何如此频繁",
       "onboard_time": 1724459119,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 457512,
+      "num": 347724,
+      "word": "五个人的髋打不开了",
+      "onboard_time": 1724458458,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 425249,
@@ -177,14 +209,6 @@
       "onboard_time": 1724427681,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 422189,
-      "num": 286685,
-      "word": "五个人的髋打不开了",
-      "onboard_time": 1724458458,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 406828,
@@ -211,14 +235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 376801,
-      "num": 376801,
-      "word": "17岁主播在直播间倒下送医后死亡",
-      "onboard_time": 1724461459,
-      "rank": 13,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 367146,
       "num": 367146,
       "word": "张杰演唱会穿了歌迷设计的衣服",
@@ -227,12 +243,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 327356,
-      "num": 327356,
+      "raw_hot": 358957,
+      "num": 358957,
       "word": "黑神话悟空剧情",
       "onboard_time": 1724459898,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 345695,
+      "num": 345695,
+      "word": "中医建议像小猫一样生活",
+      "onboard_time": 1724455754,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 325532,
@@ -243,14 +267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 303163,
-      "num": 275676,
-      "word": "中医建议像小猫一样生活",
-      "onboard_time": 1724455754,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 298546,
       "num": 270730,
       "word": "这和自己生的有什么区别",
@@ -259,12 +275,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 297064,
+      "num": 739907,
+      "word": "苏醒在朋友圈的功能是买单",
+      "onboard_time": 1724458819,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 287054,
+      "num": 358772,
+      "word": "姥姥的外孙包哭的",
+      "onboard_time": 1724461398,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 283364,
       "num": 283364,
       "word": "何蓝逗cos佟湘玉",
       "onboard_time": 1724422522,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 281718,
+      "num": 281718,
+      "word": "南科大回应教授在云南因菌子中毒失踪",
+      "onboard_time": 1724462719,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279607,
@@ -291,22 +331,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 273566,
-      "num": 546515,
-      "word": "央视新闻曝30多家外卖店执照一样",
-      "onboard_time": 1724460857,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 270804,
-      "num": 556216,
-      "word": "苏醒在朋友圈的功能是买单",
-      "onboard_time": 1724458819,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 268985,
       "num": 268985,
       "word": "超长三伏天正式下线",
@@ -329,6 +353,22 @@
       "onboard_time": 1724407640,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248921,
+      "num": 280197,
+      "word": "给刚出生的娃娃注册了微信号",
+      "onboard_time": 1724460919,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 245663,
+      "num": 245663,
+      "word": "网友模仿林黛玉的绝美哭",
+      "onboard_time": 1724460379,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 245646,
@@ -356,35 +396,27 @@
     },
     {
       "raw_hot": 235984,
-      "num": 299687,
+      "num": 352145,
       "word": "谁家加长悍马是跪着上的啊",
       "onboard_time": 1724450413,
       "rank": 24,
       "category": "综艺"
     },
     {
-      "raw_hot": 233507,
-      "num": 254537,
-      "word": "给刚出生的娃娃注册了微信号",
-      "onboard_time": 1724460919,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 229284,
+      "num": 355918,
+      "word": "王力宏演唱会",
+      "onboard_time": 1724459419,
+      "rank": 18,
+      "category": "演出"
     },
     {
-      "raw_hot": 226963,
-      "num": 226963,
-      "word": "网友模仿林黛玉的绝美哭",
-      "onboard_time": 1724460379,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 224605,
-      "num": 302293,
-      "word": "姥姥的外孙包哭的",
-      "onboard_time": 1724461398,
-      "rank": 16,
-      "category": "电影"
+      "raw_hot": 226334,
+      "num": 352821,
+      "word": "毛不易能不花钱尽量不花钱",
+      "onboard_time": 1724462358,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 222808,
@@ -419,28 +451,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 205560,
-      "num": 205560,
-      "word": "82岁爷爷一秒识破孙子嫖娼被抓骗局",
-      "onboard_time": 1724462598,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196344,
       "num": 196344,
       "word": "面筋哥肝移植后首面镜头",
       "onboard_time": 1724448131,
       "rank": 30,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 194012,
-      "num": 297847,
-      "word": "王力宏演唱会",
-      "onboard_time": 1724459419,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 192451,
@@ -457,6 +473,14 @@
       "onboard_time": 1724461518,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 184319,
+      "num": 184319,
+      "word": "性别比失衡情况下想生男孩的人会少吗",
+      "onboard_time": 1724463318,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182906,
@@ -499,20 +523,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166904,
+      "num": 277584,
+      "word": "嗨放派国家二级运动员占了一半",
+      "onboard_time": 1724462478,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165828,
       "num": 165828,
       "word": "日本人夏天都不怕热的吗",
       "onboard_time": 1724458578,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 158615,
-      "num": 245902,
-      "word": "毛不易能不花钱尽量不花钱",
-      "onboard_time": 1724462358,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 158134,
@@ -548,7 +572,7 @@
     },
     {
       "raw_hot": 153643,
-      "num": 153643,
+      "num": 273926,
       "word": "用西游记BGM打开今夏的天空",
       "onboard_time": 1724460618,
       "rank": 44,
@@ -595,12 +619,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 140092,
-      "num": 140092,
-      "word": "嗨放派国家二级运动员占了一半",
-      "onboard_time": 1724462478,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 141071,
+      "num": 141071,
+      "word": "外卖店铺和废品回收站开在一起",
+      "onboard_time": 1724463738,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139455,
@@ -608,6 +632,14 @@
       "word": "王楚钦说马龙是最优秀的队长",
       "onboard_time": 1724434515,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 139032,
+      "num": 139032,
+      "word": "郑钦文呼吁球迷宽容一点",
+      "onboard_time": 1724463918,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -739,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84596,
+      "num": 739997,
+      "word": "小罗伯特肯尼迪宣布退出2024美国大选",
+      "onboard_time": 1724463439,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75512,
       "num": 93490,
       "word": "林墨工作室回应疑似林墨恋情",
@@ -772,7 +812,7 @@
     },
     {
       "raw_hot": 66693,
-      "num": 902875,
+      "num": 990690,
       "word": "感谢救援人员带来的安全感",
       "onboard_time": 1724421621,
       "rank": 2,
@@ -851,6 +891,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 45742,
+      "num": 283240,
+      "word": "黑神话悟空联名",
+      "onboard_time": 1724461398,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 45453,
       "num": 45453,
       "word": "王楚钦眼中马龙队长是怎样的存在",
@@ -921,14 +969,6 @@
       "onboard_time": 1724440752,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26199,
-      "num": 280863,
-      "word": "黑神话悟空联名",
-      "onboard_time": 1724461398,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 25622,

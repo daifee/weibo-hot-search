@@ -1,0 +1,410 @@
+{
+  "runTime": 1724463948571,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1265833,
+        "num": 1265833,
+        "word": "17岁主播在直播间倒下送医后死亡",
+        "onboard_time": 1724461459,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1065521,
+        "num": 1065521,
+        "word": "董宇辉李娟访谈疑似不同频",
+        "onboard_time": 1724457858,
+        "rank": 1,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 64755,
+        "num": 990690,
+        "word": "感谢救援人员带来的安全感",
+        "onboard_time": 1724421621,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1771153,
+        "num": 985317,
+        "word": "印度4名男子轮奸低种姓女孩获刑",
+        "onboard_time": 1724458517,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 979613,
+        "num": 979613,
+        "word": "一只猴子拯救了整个电脑市场",
+        "onboard_time": 1724455455,
+        "rank": 4,
+        "category": "幽默,科学科普"
+      },
+      {
+        "raw_hot": 942259,
+        "num": 942259,
+        "word": "印度31岁遭奸杀女医生系独生女",
+        "onboard_time": 1724427198,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 788584,
+        "num": 788584,
+        "word": "央视新闻曝30多家外卖店执照一样",
+        "onboard_time": 1724460857,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534061,
+        "num": 740228,
+        "word": "王一博在乐华没有在乎的人了吗",
+        "onboard_time": 1724454074,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 84596,
+        "num": 739997,
+        "word": "小罗伯特肯尼迪宣布退出2024美国大选",
+        "onboard_time": 1724463439,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297064,
+        "num": 739907,
+        "word": "苏醒在朋友圈的功能是买单",
+        "onboard_time": 1724458819,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 739893,
+        "num": 739893,
+        "word": "潘展乐的事业编同事招人了",
+        "onboard_time": 1724429539,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 682537,
+        "num": 682537,
+        "word": "台湾长荣集团道歉",
+        "onboard_time": 1724458578,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 628446,
+        "num": 628446,
+        "word": "82岁爷爷一秒识破孙子嫖娼被抓骗局",
+        "onboard_time": 1724462598,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502305,
+        "num": 502305,
+        "word": "印度的性侵案为何如此频繁",
+        "onboard_time": 1724459119,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371013,
+        "num": 371013,
+        "word": "中国象棋第一人王天一被批准逮捕",
+        "onboard_time": 1724430259,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358957,
+        "num": 358957,
+        "word": "黑神话悟空剧情",
+        "onboard_time": 1724459898,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 287054,
+        "num": 358772,
+        "word": "姥姥的外孙包哭的",
+        "onboard_time": 1724461398,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 229284,
+        "num": 355918,
+        "word": "王力宏演唱会",
+        "onboard_time": 1724459419,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 226334,
+        "num": 352821,
+        "word": "毛不易能不花钱尽量不花钱",
+        "onboard_time": 1724462358,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179699,
+        "num": 352145,
+        "word": "谁家加长悍马是跪着上的啊",
+        "onboard_time": 1724450413,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 470870,
+        "num": 349114,
+        "word": "印度强奸案细节堪比恐怖片",
+        "onboard_time": 1724399900,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457512,
+        "num": 347724,
+        "word": "五个人的髋打不开了",
+        "onboard_time": 1724458458,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 345695,
+        "num": 345695,
+        "word": "中医建议像小猫一样生活",
+        "onboard_time": 1724455754,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 311497,
+        "num": 311497,
+        "word": "黑神话悟空全球总销量破千万",
+        "onboard_time": 1724423481,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 45742,
+        "num": 283240,
+        "word": "黑神话悟空联名",
+        "onboard_time": 1724461398,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 281718,
+        "num": 281718,
+        "word": "南科大回应教授在云南因菌子中毒失踪",
+        "onboard_time": 1724462719,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248921,
+        "num": 280197,
+        "word": "给刚出生的娃娃注册了微信号",
+        "onboard_time": 1724460919,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166904,
+        "num": 277584,
+        "word": "嗨放派国家二级运动员占了一半",
+        "onboard_time": 1724462478,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146518,
+        "num": 276560,
+        "word": "张杰演唱会穿了歌迷设计的衣服",
+        "onboard_time": 1724428460,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145548,
+        "num": 273926,
+        "word": "用西游记BGM打开今夏的天空",
+        "onboard_time": 1724460618,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273026,
+        "num": 273026,
+        "word": "河南一名高一女生在校内身亡",
+        "onboard_time": 1724421681,
+        "rank": 30,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 259477,
+        "num": 259477,
+        "word": "印度3名男子轮奸女孩被判终身监禁",
+        "onboard_time": 1724455275,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245663,
+        "num": 245663,
+        "word": "网友模仿林黛玉的绝美哭",
+        "onboard_time": 1724460379,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 238362,
+        "num": 238362,
+        "word": "这和自己生的有什么区别",
+        "onboard_time": 1724456057,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225832,
+        "num": 225832,
+        "word": "超长三伏天正式下线",
+        "onboard_time": 1724458217,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192891,
+        "num": 192891,
+        "word": "今日出伏",
+        "onboard_time": 1724455214,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192311,
+        "num": 192311,
+        "word": "为何年轻人现在连恋爱都不谈了",
+        "onboard_time": 1724457256,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184319,
+        "num": 184319,
+        "word": "性别比失衡情况下想生男孩的人会少吗",
+        "onboard_time": 1724463318,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177391,
+        "num": 177391,
+        "word": "黑神话悟空 打boss攻略",
+        "onboard_time": 1724459357,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176064,
+        "num": 176064,
+        "word": "印度15岁放羊女孩遭轮奸",
+        "onboard_time": 1724407161,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165337,
+        "num": 165337,
+        "word": "iGN日本给黑神话打7分",
+        "onboard_time": 1724461518,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155954,
+        "num": 155954,
+        "word": "印度奸杀案",
+        "onboard_time": 1724393060,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152480,
+        "num": 152480,
+        "word": "日本人夏天都不怕热的吗",
+        "onboard_time": 1724458578,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150530,
+        "num": 150530,
+        "word": "印度女医生遇害前婚事已敲定",
+        "onboard_time": 1724424441,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148516,
+        "num": 148516,
+        "word": "想攒钱一定要过低物欲生活吗",
+        "onboard_time": 1724462358,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147419,
+        "num": 147419,
+        "word": "台湾长荣集团认同九二共识反对台独",
+        "onboard_time": 1724425221,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141071,
+        "num": 141071,
+        "word": "外卖店铺和废品回收站开在一起",
+        "onboard_time": 1724463738,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139032,
+        "num": 139032,
+        "word": "郑钦文呼吁球迷宽容一点",
+        "onboard_time": 1724463918,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137522,
+        "num": 137522,
+        "word": "男子通过酒店员工获取女友入住信息",
+        "onboard_time": 1724427681,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134377,
+        "num": 136626,
+        "word": "风月不相关",
+        "onboard_time": 1724458638,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同斯塔默通电话#"
+    }
+  }
+}
