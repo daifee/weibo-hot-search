@@ -1,9 +1,9 @@
 {
   "startTime": 1724430385634,
-  "endTime": 1724476810726,
+  "endTime": 1724477941220,
   "band_list": [
     {
-      "raw_hot": 2462126,
+      "raw_hot": 2529436,
       "num": 478141,
       "word": "印度女医生案监控画面曝光",
       "onboard_time": 1724473220,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1137125,
-      "num": 684652,
+      "num": 775682,
       "word": "原来金莎之前说的都是真的",
       "onboard_time": 1724466498,
       "rank": 28,
@@ -121,6 +121,14 @@
       "onboard_time": 1724466679,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1014073,
+      "num": 1014073,
+      "word": "孙杨首秀比赛试水",
+      "onboard_time": 1724474360,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1004939,
@@ -187,14 +195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 822856,
-      "num": 822856,
-      "word": "孙杨首秀比赛试水",
-      "onboard_time": 1724474360,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 821173,
       "num": 821173,
       "word": "中国象棋第一人王天一被批准逮捕",
@@ -243,6 +243,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 635406,
+      "num": 277807,
+      "word": "四大名著为什么只不断翻拍红楼梦",
+      "onboard_time": 1724474659,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 628921,
       "num": 628921,
       "word": "王昶林高远你俩要考研啊",
@@ -275,20 +283,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 577840,
+      "num": 577840,
+      "word": "住房养老金",
+      "onboard_time": 1724472259,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 563636,
       "num": 324891,
       "word": "原来故意避开的人才是真的在意",
       "onboard_time": 1724465898,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 546129,
-      "num": 277807,
-      "word": "四大名著为什么只不断翻拍红楼梦",
-      "onboard_time": 1724474659,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 543216,
@@ -411,8 +419,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 372871,
-      "num": 372871,
+      "raw_hot": 377163,
+      "num": 377163,
       "word": "毛晓彤我那个从不扫兴的朋友",
       "onboard_time": 1724472858,
       "rank": 46,
@@ -467,14 +475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 320785,
-      "num": 320785,
-      "word": "住房养老金",
-      "onboard_time": 1724472259,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 298546,
       "num": 270730,
       "word": "这和自己生的有什么区别",
@@ -505,6 +505,14 @@
       "onboard_time": 1724464638,
       "rank": 44,
       "category": "社会新闻,社会正能量"
+    },
+    {
+      "raw_hot": 283493,
+      "num": 283493,
+      "word": "花花挠心",
+      "onboard_time": 1724476039,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 283364,
@@ -603,6 +611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 260895,
+      "num": 433503,
+      "word": "外卖档口粘满苍蝇的贴纸下就是炸锅",
+      "onboard_time": 1724468118,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260172,
       "num": 260172,
       "word": "郑钦文呼吁球迷宽容一点",
@@ -633,6 +649,14 @@
       "onboard_time": 1724476340,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 255970,
+      "num": 255970,
+      "word": "年轻人开始去洗浴中心打游戏",
+      "onboard_time": 1724475678,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251555,
@@ -771,12 +795,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 218840,
-      "num": 218840,
-      "word": "年轻人开始去洗浴中心打游戏",
-      "onboard_time": 1724475678,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 213860,
+      "num": 213860,
+      "word": "张真源哭了还不忘饭撒",
+      "onboard_time": 1724477420,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 211174,
@@ -795,6 +819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 207733,
+      "num": 207733,
+      "word": "30岁还没结婚的人都是什么理由",
+      "onboard_time": 1724475021,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 204314,
       "num": 204314,
       "word": "边水往事豆瓣开分8.1",
@@ -811,12 +843,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201509,
+      "num": 269918,
+      "word": "许嵩回应袖口进马蜂",
+      "onboard_time": 1724476279,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 197264,
+      "num": 197264,
+      "word": "程潇电竞爽文照进现实",
+      "onboard_time": 1724477239,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196344,
       "num": 196344,
       "word": "面筋哥肝移植后首面镜头",
       "onboard_time": 1724448131,
       "rank": 30,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 196008,
+      "num": 196008,
+      "word": "四方馆 一口气炫完6集",
+      "onboard_time": 1724477239,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 192451,
@@ -843,12 +899,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 189862,
-      "num": 189862,
-      "word": "花花挠心",
-      "onboard_time": 1724476039,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 190659,
+      "num": 190659,
+      "word": "马琳帮王曼昱弹虫子弹到刘国梁身上",
+      "onboard_time": 1724477659,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 189621,
@@ -859,12 +915,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 185596,
-      "num": 185596,
-      "word": "许嵩回应袖口进马蜂",
-      "onboard_time": 1724476279,
-      "rank": 37,
-      "category": "演出"
+      "raw_hot": 187664,
+      "num": 187664,
+      "word": "张弛 眉眼间毫无丹青之意",
+      "onboard_time": 1724475919,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 185330,
@@ -891,20 +947,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 183809,
+      "num": 183809,
+      "word": "阎鹤祥 德云太子妃",
+      "onboard_time": 1724476940,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182906,
       "num": 182906,
       "word": "快乐再出发3",
       "onboard_time": 1724428099,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 182397,
-      "num": 182397,
-      "word": "30岁还没结婚的人都是什么理由",
-      "onboard_time": 1724475021,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 180395,
@@ -955,12 +1011,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170660,
-      "num": 433503,
-      "word": "外卖档口粘满苍蝇的贴纸下就是炸锅",
-      "onboard_time": 1724468118,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 170715,
+      "num": 170715,
+      "word": "蹦床 又上当一个",
+      "onboard_time": 1724476580,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 170480,
@@ -969,14 +1025,6 @@
       "onboard_time": 1724415499,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 169759,
-      "num": 169759,
-      "word": "蹦床 又上当一个",
-      "onboard_time": 1724476580,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 169452,
@@ -1020,7 +1068,7 @@
     },
     {
       "raw_hot": 161375,
-      "num": 161375,
+      "num": 431828,
       "word": "为何近期羽毛球价格出现波动",
       "onboard_time": 1724473880,
       "rank": 46,
@@ -1065,14 +1113,6 @@
       "onboard_time": 1724425580,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157903,
-      "num": 157903,
-      "word": "张弛 眉眼间毫无丹青之意",
-      "onboard_time": 1724475919,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 157194,
@@ -1129,6 +1169,14 @@
       "onboard_time": 1724417961,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151272,
+      "num": 151272,
+      "word": "梦之队成员互送礼物局",
+      "onboard_time": 1724477839,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 150864,
@@ -1544,6 +1592,14 @@
       "word": "我国首个海上采油平台5.5G站点",
       "onboard_time": 1724422101,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35865,
+      "num": 293749,
+      "word": "年轻人开始卷1L装饮料",
+      "onboard_time": 1724477119,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

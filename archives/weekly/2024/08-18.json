@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724476810726,
+  "endTime": 1724477941220,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -307,7 +307,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2462126,
+      "raw_hot": 2529436,
       "num": 478141,
       "word": "印度女医生案监控画面曝光",
       "onboard_time": 1724473220,
@@ -1644,7 +1644,7 @@
     },
     {
       "raw_hot": 1137125,
-      "num": 684652,
+      "num": 775682,
       "word": "原来金莎之前说的都是真的",
       "onboard_time": 1724466498,
       "rank": 28,
@@ -2001,6 +2001,14 @@
       "onboard_time": 1724026219,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1014073,
+      "num": 1014073,
+      "word": "孙杨首秀比赛试水",
+      "onboard_time": 1724474360,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1012741,
@@ -2649,14 +2657,6 @@
       "onboard_time": 1724341522,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 822856,
-      "num": 822856,
-      "word": "孙杨首秀比赛试水",
-      "onboard_time": 1724474360,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 821173,
@@ -3531,6 +3531,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 635406,
+      "num": 277807,
+      "word": "四大名著为什么只不断翻拍红楼梦",
+      "onboard_time": 1724474659,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 634070,
       "num": 634070,
       "word": "吴宣仪好长的腿",
@@ -4003,6 +4011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 577840,
+      "num": 577840,
+      "word": "住房养老金",
+      "onboard_time": 1724472259,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 575194,
       "num": 296583,
       "word": "原来出门上班不关空调才省电",
@@ -4177,14 +4193,6 @@
       "onboard_time": 1724307859,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 546129,
-      "num": 277807,
-      "word": "四大名著为什么只不断翻拍红楼梦",
-      "onboard_time": 1724474659,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 543557,
@@ -5715,6 +5723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 377163,
+      "num": 377163,
+      "word": "毛晓彤我那个从不扫兴的朋友",
+      "onboard_time": 1724472858,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 377026,
       "num": 395152,
       "word": "肖战宜昌飞北京",
@@ -5769,14 +5785,6 @@
       "onboard_time": 1723979180,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 372871,
-      "num": 372871,
-      "word": "毛晓彤我那个从不扫兴的朋友",
-      "onboard_time": 1724472858,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 372827,
@@ -6691,14 +6699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 320785,
-      "num": 320785,
-      "word": "住房养老金",
-      "onboard_time": 1724472259,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 320674,
       "num": 320674,
       "word": "瑞幸补货",
@@ -7499,6 +7499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 283493,
+      "num": 283493,
+      "word": "花花挠心",
+      "onboard_time": 1724476039,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282767,
       "num": 282767,
       "word": "果然好的阿姨是不会出现在市场的",
@@ -8147,6 +8155,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 260895,
+      "num": 433503,
+      "word": "外卖档口粘满苍蝇的贴纸下就是炸锅",
+      "onboard_time": 1724468118,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260883,
       "num": 260883,
       "word": "丁程鑫宋亚轩刘耀文合唱黑色柳丁",
@@ -8353,6 +8369,14 @@
       "onboard_time": 1724476340,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 255970,
+      "num": 255970,
+      "word": "年轻人开始去洗浴中心打游戏",
+      "onboard_time": 1724475678,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 255394,
@@ -9891,14 +9915,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 218840,
-      "num": 218840,
-      "word": "年轻人开始去洗浴中心打游戏",
-      "onboard_time": 1724475678,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 218704,
       "num": 218704,
       "word": "印度为何发生这么多强奸案",
@@ -10153,6 +10169,14 @@
       "onboard_time": 1723974500,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 213860,
+      "num": 213860,
+      "word": "张真源哭了还不忘饭撒",
+      "onboard_time": 1724477420,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 213762,
@@ -10577,6 +10601,14 @@
       "onboard_time": 1724316921,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207733,
+      "num": 207733,
+      "word": "30岁还没结婚的人都是什么理由",
+      "onboard_time": 1724475021,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 207287,
@@ -11083,6 +11115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 201509,
+      "num": 269918,
+      "word": "许嵩回应袖口进马蜂",
+      "onboard_time": 1724476279,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 201286,
       "num": 201286,
       "word": "14岁男孩骑摩托飞驰送2娃赶兴趣班",
@@ -11363,6 +11403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197264,
+      "num": 197264,
+      "word": "程潇电竞爽文照进现实",
+      "onboard_time": 1724477239,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197249,
       "num": 310040,
       "word": "普罗米修斯",
@@ -11457,6 +11505,14 @@
       "onboard_time": 1724172857,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196008,
+      "num": 196008,
+      "word": "四方馆 一口气炫完6集",
+      "onboard_time": 1724477239,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 195994,
@@ -11931,6 +11987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190659,
+      "num": 190659,
+      "word": "马琳帮王曼昱弹虫子弹到刘国梁身上",
+      "onboard_time": 1724477659,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190438,
       "num": 190438,
       "word": "王一博新歌满满运动的快乐",
@@ -11961,14 +12025,6 @@
       "onboard_time": 1724401881,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189862,
-      "num": 189862,
-      "word": "花花挠心",
-      "onboard_time": 1724476039,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189779,
@@ -12163,6 +12219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187664,
+      "num": 187664,
+      "word": "张弛 眉眼间毫无丹青之意",
+      "onboard_time": 1724475919,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187634,
       "num": 187634,
       "word": "开学谐音祝福文案",
@@ -12321,14 +12385,6 @@
       "onboard_time": 1724408901,
       "rank": 44,
       "category": "教育"
-    },
-    {
-      "raw_hot": 185596,
-      "num": 185596,
-      "word": "许嵩回应袖口进马蜂",
-      "onboard_time": 1724476279,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 185567,
@@ -12515,6 +12571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183809,
+      "num": 183809,
+      "word": "阎鹤祥 德云太子妃",
+      "onboard_time": 1724476940,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183799,
       "num": 183799,
       "word": "檀健次演唱会抢票",
@@ -12617,14 +12681,6 @@
       "onboard_time": 1724324481,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 182397,
-      "num": 182397,
-      "word": "30岁还没结婚的人都是什么理由",
-      "onboard_time": 1724475021,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 182243,
@@ -13427,20 +13483,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170715,
+      "num": 170715,
+      "word": "蹦床 又上当一个",
+      "onboard_time": 1724476580,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170687,
       "num": 170687,
       "word": "你们不上班吗",
       "onboard_time": 1724132302,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 170660,
-      "num": 433503,
-      "word": "外卖档口粘满苍蝇的贴纸下就是炸锅",
-      "onboard_time": 1724468118,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170522,
@@ -13505,14 +13561,6 @@
       "onboard_time": 1724056821,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 169759,
-      "num": 169759,
-      "word": "蹦床 又上当一个",
-      "onboard_time": 1724476580,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 169755,
@@ -14084,7 +14132,7 @@
     },
     {
       "raw_hot": 161375,
-      "num": 161375,
+      "num": 431828,
       "word": "为何近期羽毛球价格出现波动",
       "onboard_time": 1724473880,
       "rank": 46,
@@ -14345,14 +14393,6 @@
       "onboard_time": 1724307859,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 157903,
-      "num": 157903,
-      "word": "张弛 眉眼间毫无丹青之意",
-      "onboard_time": 1724475919,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 157685,
@@ -14817,6 +14857,14 @@
       "onboard_time": 1724218820,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 151272,
+      "num": 151272,
+      "word": "梦之队成员互送礼物局",
+      "onboard_time": 1724477839,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 151228,
@@ -18473,6 +18521,14 @@
       "onboard_time": 1724248642,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 35865,
+      "num": 293749,
+      "word": "年轻人开始卷1L装饮料",
+      "onboard_time": 1724477119,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35576,

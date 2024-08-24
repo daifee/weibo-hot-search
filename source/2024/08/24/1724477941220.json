@@ -1,0 +1,410 @@
+{
+  "runTime": 1724477941220,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1044281,
+        "num": 1167085,
+        "word": "比伯海莉孩子出生",
+        "onboard_time": 1724470699,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1014073,
+        "num": 1014073,
+        "word": "孙杨首秀比赛试水",
+        "onboard_time": 1724474360,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10042,
+        "num": 851014,
+        "word": "感谢救援人员带来的安全感",
+        "onboard_time": 1724421621,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 834459,
+        "num": 834459,
+        "word": "印度4名男子轮奸低种姓女孩获刑",
+        "onboard_time": 1724458517,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 775682,
+        "num": 775682,
+        "word": "原来金莎之前说的都是真的",
+        "onboard_time": 1724466498,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 577840,
+        "num": 577840,
+        "word": "住房养老金",
+        "onboard_time": 1724472259,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 508176,
+        "num": 508176,
+        "word": "刘亦菲黄玫瑰主题生日写真",
+        "onboard_time": 1724474600,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 459794,
+        "num": 459794,
+        "word": "央视新闻曝30多家外卖店执照一样",
+        "onboard_time": 1724460857,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447401,
+        "num": 447401,
+        "word": "林依轮结婚 饿肚子的是石蕊",
+        "onboard_time": 1724472981,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38683,
+        "num": 431828,
+        "word": "为何近期羽毛球价格出现波动",
+        "onboard_time": 1724473880,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426964,
+        "num": 426964,
+        "word": "韩酒店火灾2人跳楼因气垫翻转遇难",
+        "onboard_time": 1724466679,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387387,
+        "num": 387387,
+        "word": "男孩女卫生间偷窥家长语出惊人",
+        "onboard_time": 1724468059,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377163,
+        "num": 377163,
+        "word": "毛晓彤我那个从不扫兴的朋友",
+        "onboard_time": 1724472858,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317676,
+        "num": 317676,
+        "word": "疑似TF四代被私生追尾",
+        "onboard_time": 1724472139,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35865,
+        "num": 293749,
+        "word": "年轻人开始卷1L装饮料",
+        "onboard_time": 1724477119,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283493,
+        "num": 283493,
+        "word": "花花挠心",
+        "onboard_time": 1724476039,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274368,
+        "num": 274368,
+        "word": "姥姥的外孙包哭的",
+        "onboard_time": 1724461398,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201509,
+        "num": 269918,
+        "word": "许嵩回应袖口进马蜂",
+        "onboard_time": 1724476279,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 268393,
+        "num": 268393,
+        "word": "性别比失衡情况下想生男孩的人会少吗",
+        "onboard_time": 1724463318,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261004,
+        "num": 261004,
+        "word": "韩国致7死酒店火灾最新画面",
+        "onboard_time": 1724471300,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2529436,
+        "num": 260991,
+        "word": "印度女医生案监控画面曝光",
+        "onboard_time": 1724473220,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 635406,
+        "num": 260953,
+        "word": "四大名著为什么只不断翻拍红楼梦",
+        "onboard_time": 1724474659,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 632305,
+        "num": 260931,
+        "word": "17岁主播在直播间倒下送医后死亡",
+        "onboard_time": 1724461459,
+        "rank": 22,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 434494,
+        "num": 260898,
+        "word": "近视眼度数越来越低的习惯",
+        "onboard_time": 1724469619,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 260895,
+        "num": 260895,
+        "word": "外卖档口粘满苍蝇的贴纸下就是炸锅",
+        "onboard_time": 1724468118,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255970,
+        "num": 255970,
+        "word": "年轻人开始去洗浴中心打游戏",
+        "onboard_time": 1724475678,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250232,
+        "num": 250232,
+        "word": "边水往事的质量有多高",
+        "onboard_time": 1724475498,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235854,
+        "num": 235854,
+        "word": "何蓝逗 乐华害我",
+        "onboard_time": 1724464997,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32364,
+        "num": 225553,
+        "word": "周鸿祎称小鹏MONA做出30万体验",
+        "onboard_time": 1724475800,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 222943,
+        "num": 222943,
+        "word": "林书豪当爸爸了",
+        "onboard_time": 1724473880,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213860,
+        "num": 213860,
+        "word": "张真源哭了还不忘饭撒",
+        "onboard_time": 1724477420,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 211331,
+        "num": 211331,
+        "word": "恋与制作人法式风情",
+        "onboard_time": 1724476340,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 207733,
+        "num": 207733,
+        "word": "30岁还没结婚的人都是什么理由",
+        "onboard_time": 1724475021,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202407,
+        "num": 202407,
+        "word": "边水往事豆瓣开分8.1",
+        "onboard_time": 1724474899,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197275,
+        "num": 197275,
+        "word": "无期迷途",
+        "onboard_time": 1724476160,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197264,
+        "num": 197264,
+        "word": "程潇电竞爽文照进现实",
+        "onboard_time": 1724477239,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196008,
+        "num": 196008,
+        "word": "四方馆 一口气炫完6集",
+        "onboard_time": 1724477239,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194587,
+        "num": 194587,
+        "word": "印度31岁遭奸杀女医生系独生女",
+        "onboard_time": 1724427198,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 190659,
+        "num": 190659,
+        "word": "马琳帮王曼昱弹虫子弹到刘国梁身上",
+        "onboard_time": 1724477659,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187664,
+        "num": 187664,
+        "word": "张弛 眉眼间毫无丹青之意",
+        "onboard_time": 1724475919,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186032,
+        "num": 186032,
+        "word": "原来故意避开的人才是真的在意",
+        "onboard_time": 1724465898,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183809,
+        "num": 183809,
+        "word": "阎鹤祥 德云太子妃",
+        "onboard_time": 1724476940,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177550,
+        "num": 177550,
+        "word": "老板救人牺牲妻子拒收捐款",
+        "onboard_time": 1724464638,
+        "rank": 42,
+        "category": "社会新闻,社会正能量"
+      },
+      {
+        "raw_hot": 173142,
+        "num": 173142,
+        "word": "黑神话悟空火到了甜品界",
+        "onboard_time": 1724475560,
+        "rank": 43,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 170715,
+        "num": 170715,
+        "word": "蹦床 又上当一个",
+        "onboard_time": 1724476580,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170590,
+        "num": 170590,
+        "word": "南科大回应教授在云南因菌子中毒失踪",
+        "onboard_time": 1724462719,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157123,
+        "num": 157123,
+        "word": "空气炸锅炸的东西越来越颠了",
+        "onboard_time": 1724467820,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 156756,
+        "num": 156756,
+        "word": "黑神话悟空剧情",
+        "onboard_time": 1724459898,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155101,
+        "num": 155101,
+        "word": "黑神话悟空全球总销量破千万",
+        "onboard_time": 1724423481,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151272,
+        "num": 151272,
+        "word": "梦之队成员互送礼物局",
+        "onboard_time": 1724477839,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同斯塔默通电话#"
+    }
+  }
+}
