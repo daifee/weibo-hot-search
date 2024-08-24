@@ -1,6 +1,6 @@
 {
   "startTime": 1724430385634,
-  "endTime": 1724481603085,
+  "endTime": 1724483866070,
   "band_list": [
     {
       "raw_hot": 2529436,
@@ -9,6 +9,14 @@
       "onboard_time": 1724473220,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2172041,
+      "num": 2172041,
+      "word": "傅首尔 老刘已经有张硕了",
+      "onboard_time": 1724481200,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 2123905,
@@ -131,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1020491,
+      "num": 1020491,
+      "word": "王楚钦 公园大爷确实不好打",
+      "onboard_time": 1724481200,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1014073,
       "num": 1014073,
       "word": "孙杨首秀比赛试水",
@@ -219,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 801308,
+      "num": 801308,
+      "word": "长沙女干部被曝不雅聊天记录后被免职",
+      "onboard_time": 1724478860,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 748110,
       "num": 326627,
       "word": "空气炸锅炸的东西越来越颠了",
@@ -257,14 +281,6 @@
       "onboard_time": 1724474659,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 631429,
-      "num": 631429,
-      "word": "长沙女干部被曝不雅聊天记录后被免职",
-      "onboard_time": 1724478860,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 628921,
@@ -363,6 +379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 508392,
+      "num": 322748,
+      "word": "吃过锅包肉的人嘴真严啊",
+      "onboard_time": 1724480238,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 502880,
       "num": 502305,
       "word": "印度的性侵案为何如此频繁",
@@ -435,20 +459,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 395325,
-      "num": 395325,
-      "word": "傅首尔 老刘已经有张硕了",
-      "onboard_time": 1724481200,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 395248,
       "num": 395248,
       "word": "蒋奇明演技",
       "onboard_time": 1724428820,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 393927,
+      "num": 393927,
+      "word": "黑神话悟空到底盘活了多少产业",
+      "onboard_time": 1724479459,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 393272,
@@ -483,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 371279,
+      "num": 371279,
+      "word": "孙颖莎看到刘国梁身上的虫子愣了",
+      "onboard_time": 1724482280,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 370618,
       "num": 392371,
       "word": "长沙女干部不雅聊天记录事件当事男子发声",
@@ -515,12 +547,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 345926,
+      "num": 345926,
+      "word": "美国5岁男童意外开枪打死自己",
+      "onboard_time": 1724481498,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 345048,
       "num": 345048,
       "word": "张弛 眉眼间毫无丹青之意",
       "onboard_time": 1724475919,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 334997,
+      "num": 334997,
+      "word": "30岁还没结婚的人都是什么理由",
+      "onboard_time": 1724475021,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 328279,
@@ -539,28 +587,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 324089,
-      "num": 324089,
-      "word": "30岁还没结婚的人都是什么理由",
-      "onboard_time": 1724475021,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 322362,
-      "num": 322362,
-      "word": "王楚钦 公园大爷确实不好打",
-      "onboard_time": 1724481200,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 300744,
       "num": 300744,
       "word": "感觉图书馆考研人和考公人特好区分",
       "onboard_time": 1724479159,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 299238,
+      "num": 299238,
+      "word": "新西游记PD李周亨车祸去世",
+      "onboard_time": 1724480959,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 298546,
@@ -585,6 +625,14 @@
       "onboard_time": 1724458819,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 293460,
+      "num": 243778,
+      "word": "孙杨复出赛报名成绩",
+      "onboard_time": 1724483239,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 287957,
@@ -617,14 +665,6 @@
       "onboard_time": 1724411420,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 279322,
-      "num": 279322,
-      "word": "黑神话悟空到底盘活了多少产业",
-      "onboard_time": 1724479459,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 276481,
@@ -739,6 +779,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 255633,
+      "num": 255633,
+      "word": "付航把周星驰逗笑了",
+      "onboard_time": 1724479398,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 251791,
+      "num": 251791,
+      "word": "樊振东拟获白玉兰杰出成就奖",
+      "onboard_time": 1724480719,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251555,
       "num": 302851,
       "word": "边水往事的质量有多高",
@@ -795,20 +851,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242404,
+      "num": 242404,
+      "word": "几块钱还包邮的洗发水是谁在买",
+      "onboard_time": 1724481860,
+      "rank": 31,
+      "category": "美妆,社会新闻"
+    },
+    {
       "raw_hot": 240959,
       "num": 195766,
       "word": "谁家男主第一集就被女主踩",
       "onboard_time": 1724427441,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 237071,
-      "num": 237071,
-      "word": "付航把周星驰逗笑了",
-      "onboard_time": 1724479398,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 236637,
@@ -825,14 +881,6 @@
       "onboard_time": 1724450413,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 234493,
-      "num": 234493,
-      "word": "吃过锅包肉的人嘴真严啊",
-      "onboard_time": 1724480238,
-      "rank": 42,
-      "category": "美食"
     },
     {
       "raw_hot": 230563,
@@ -899,12 +947,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 219377,
-      "num": 219377,
-      "word": "新西游记PD李周亨车祸去世",
-      "onboard_time": 1724480959,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 219308,
+      "num": 244111,
+      "word": "潘玮柏煮面要考研吗",
+      "onboard_time": 1724481860,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 213860,
@@ -921,6 +969,14 @@
       "onboard_time": 1724424261,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 211064,
+      "num": 211064,
+      "word": "印度遭奸杀女医生父母称警察14天还没破案",
+      "onboard_time": 1724483779,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208974,
@@ -947,6 +1003,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204086,
+      "num": 204086,
+      "word": "荣梓杉开学",
+      "onboard_time": 1724482520,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 202766,
+      "num": 202766,
+      "word": "王力宏演唱会水淋淋的吃皮肚面",
+      "onboard_time": 1724482040,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 202013,
       "num": 202013,
       "word": "打工人去班味只要一个东西",
@@ -961,6 +1033,14 @@
       "onboard_time": 1724476279,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 201443,
+      "num": 201443,
+      "word": "林大厨进一次冰柜虞书欣记一辈子",
+      "onboard_time": 1724481259,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 199221,
@@ -993,6 +1073,14 @@
       "onboard_time": 1724420000,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192060,
+      "num": 615431,
+      "word": "不自律以后我再也不焦虑了",
+      "onboard_time": 1724479819,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190891,
@@ -1091,6 +1179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 178889,
+      "num": 178889,
+      "word": "T1对战KT",
+      "onboard_time": 1724483419,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 178881,
       "num": 178881,
       "word": "起猛了以为马龙在卖豆腐",
@@ -1131,6 +1227,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170983,
+      "num": 170983,
+      "word": "戚薇希望录完巅峰还保持已婚",
+      "onboard_time": 1724483660,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 170925,
+      "num": 170925,
+      "word": "我从幼儿园就开始恐婚",
+      "onboard_time": 1724482882,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170876,
       "num": 308864,
       "word": "别人恋爱脑他俩恋案脑",
@@ -1161,14 +1273,6 @@
       "onboard_time": 1724299879,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167942,
-      "num": 167942,
-      "word": "林大厨进一次冰柜虞书欣记一辈子",
-      "onboard_time": 1724481259,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 166633,
@@ -1249,14 +1353,6 @@
       "onboard_time": 1724425580,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157726,
-      "num": 157726,
-      "word": "美国5岁男童意外开枪打死自己",
-      "onboard_time": 1724481498,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157194,
@@ -1347,6 +1443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 147464,
+      "num": 330492,
+      "word": "姥姥的外孙 懂事的人总被忽视",
+      "onboard_time": 1724482999,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 147275,
       "num": 147275,
       "word": "中医提醒饿瘦不如补瘦",
@@ -1361,14 +1465,6 @@
       "onboard_time": 1724474299,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 146804,
-      "num": 146804,
-      "word": "樊振东拟获白玉兰杰出成就奖",
-      "onboard_time": 1724480719,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 145845,
@@ -1401,6 +1497,14 @@
       "onboard_time": 1724458638,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143380,
+      "num": 318862,
+      "word": "长沙女干部不雅聊天事件已立案",
+      "onboard_time": 1724481739,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142112,
@@ -1499,6 +1603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 131837,
+      "num": 331822,
+      "word": "住房养老金谁来交",
+      "onboard_time": 1724480059,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 123648,
       "num": 158442,
       "word": "电影刺猬",
@@ -1513,14 +1625,6 @@
       "onboard_time": 1724421501,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 121298,
-      "num": 615431,
-      "word": "不自律以后我再也不焦虑了",
-      "onboard_time": 1724479819,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118692,
@@ -1609,14 +1713,6 @@
       "onboard_time": 1724479939,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 77719,
-      "num": 210419,
-      "word": "住房养老金谁来交",
-      "onboard_time": 1724480059,
-      "rank": 29,
-      "category": "财经"
     },
     {
       "raw_hot": 75512,
@@ -1739,6 +1835,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 55472,
+      "num": 355308,
+      "word": "官方回应24人采挖野生沙葱等被查处",
+      "onboard_time": 1724482221,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54764,
       "num": 237909,
       "word": "周鸿祎称小鹏MONA做出30万体验",
@@ -1780,7 +1884,7 @@
     },
     {
       "raw_hot": 45599,
-      "num": 817423,
+      "num": 1064422,
       "word": "预拨5000万支持辽宁防汛救灾",
       "onboard_time": 1724479219,
       "rank": 2,
@@ -1875,6 +1979,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29778,
+      "num": 373109,
+      "word": "超级红人节里的青岛啤酒",
+      "onboard_time": 1724481440,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 28985,
+      "num": 302074,
+      "word": "暴雨冲断东北小城通信",
+      "onboard_time": 1724479819,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27017,
       "num": 158439,
       "word": "印度数万妇女举行夺回黑夜游行",
@@ -1905,14 +2025,6 @@
       "onboard_time": 1724453775,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14846,
-      "num": 158388,
-      "word": "超级红人节里的青岛啤酒",
-      "onboard_time": 1724481440,
-      "rank": 45,
-      "category": "互联网"
     },
     {
       "raw_hot": 7589,
