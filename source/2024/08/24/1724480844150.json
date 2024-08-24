@@ -1,0 +1,410 @@
+{
+  "runTime": 1724480844150,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1223657,
+        "num": 1223657,
+        "word": "年轻人开始去洗浴中心打游戏",
+        "onboard_time": 1724475678,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 984784,
+        "num": 984784,
+        "word": "孙杨首秀比赛试水",
+        "onboard_time": 1724474360,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35789,
+        "num": 817423,
+        "word": "预拨5000万支持辽宁防汛救灾",
+        "onboard_time": 1724479219,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 794276,
+        "num": 794276,
+        "word": "印度4名男子轮奸低种姓女孩获刑",
+        "onboard_time": 1724458517,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 734636,
+        "num": 734636,
+        "word": "比伯海莉孩子出生",
+        "onboard_time": 1724470699,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 631100,
+        "num": 631100,
+        "word": "原来金莎之前说的都是真的",
+        "onboard_time": 1724466498,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 556029,
+        "num": 556029,
+        "word": "长沙女干部被曝不雅聊天记录后被免职",
+        "onboard_time": 1724478860,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85326,
+        "num": 506680,
+        "word": "不自律以后我再也不焦虑了",
+        "onboard_time": 1724479819,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500870,
+        "num": 500870,
+        "word": "全圆佑 密码",
+        "onboard_time": 1724479758,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44452,
+        "num": 490909,
+        "word": "韩国京畿道交通事故3名中国人罹难",
+        "onboard_time": 1724479939,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486123,
+        "num": 486123,
+        "word": "住房养老金",
+        "onboard_time": 1724472259,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 463588,
+        "num": 463588,
+        "word": "花花挠心",
+        "onboard_time": 1724476039,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415345,
+        "num": 415345,
+        "word": "程潇电竞爽文照进现实",
+        "onboard_time": 1724477239,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377984,
+        "num": 377984,
+        "word": "马琳帮王曼昱弹虫子弹到刘国梁身上",
+        "onboard_time": 1724477659,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 357441,
+        "num": 357441,
+        "word": "刘亦菲黄玫瑰主题生日写真",
+        "onboard_time": 1724474600,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 324089,
+        "num": 324089,
+        "word": "30岁还没结婚的人都是什么理由",
+        "onboard_time": 1724475021,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 312630,
+        "num": 312630,
+        "word": "男孩女卫生间偷窥家长语出惊人",
+        "onboard_time": 1724468059,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170876,
+        "num": 308864,
+        "word": "别人恋爱脑他俩恋案脑",
+        "onboard_time": 1724480118,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306531,
+        "num": 306531,
+        "word": "张弛 眉眼间毫无丹青之意",
+        "onboard_time": 1724475919,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17939,
+        "num": 300847,
+        "word": "22城试点住房养老金",
+        "onboard_time": 1724480539,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 2167843,
+        "num": 300831,
+        "word": "印度女医生案监控画面曝光",
+        "onboard_time": 1724473220,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397108,
+        "num": 300819,
+        "word": "17岁主播在直播间倒下送医后死亡",
+        "onboard_time": 1724461459,
+        "rank": 21,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 300744,
+        "num": 300744,
+        "word": "感觉图书馆考研人和考公人特好区分",
+        "onboard_time": 1724479159,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 269702,
+        "num": 269702,
+        "word": "毛晓彤我那个从不扫兴的朋友",
+        "onboard_time": 1724472858,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256922,
+        "num": 256922,
+        "word": "韩酒店火灾2人跳楼因气垫翻转遇难",
+        "onboard_time": 1724466679,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237232,
+        "num": 237232,
+        "word": "近视眼度数越来越低的习惯",
+        "onboard_time": 1724469619,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 232010,
+        "num": 232010,
+        "word": "付航把周星驰逗笑了",
+        "onboard_time": 1724479398,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227497,
+        "num": 227497,
+        "word": "林依轮结婚 饿肚子的是石蕊",
+        "onboard_time": 1724472981,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221447,
+        "num": 221447,
+        "word": "姥姥的外孙包哭的",
+        "onboard_time": 1724461398,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 49602,
+        "num": 210419,
+        "word": "住房养老金谁来交",
+        "onboard_time": 1724480059,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 208545,
+        "num": 208545,
+        "word": "黑神话悟空到底盘活了多少产业",
+        "onboard_time": 1724479459,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 208472,
+        "num": 208472,
+        "word": "老板救人牺牲妻子拒收捐款",
+        "onboard_time": 1724464638,
+        "rank": 31,
+        "category": "社会新闻,社会正能量"
+      },
+      {
+        "raw_hot": 196269,
+        "num": 196269,
+        "word": "原来故意避开的人才是真的在意",
+        "onboard_time": 1724465898,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187775,
+        "num": 187775,
+        "word": "央视新闻曝30多家外卖店执照一样",
+        "onboard_time": 1724460857,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187667,
+        "num": 187667,
+        "word": "有一种友谊是草帽一伙",
+        "onboard_time": 1724480118,
+        "rank": 34,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 179483,
+        "num": 179483,
+        "word": "蹦床 又上当一个",
+        "onboard_time": 1724476580,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168833,
+        "num": 168833,
+        "word": "许嵩回应袖口进马蜂",
+        "onboard_time": 1724476279,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157318,
+        "num": 157318,
+        "word": "性别比失衡情况下想生男孩的人会少吗",
+        "onboard_time": 1724463318,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155286,
+        "num": 155286,
+        "word": "边水往事",
+        "onboard_time": 1724478739,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154974,
+        "num": 154974,
+        "word": "潘玮柏最多的一次吃了七碗饭",
+        "onboard_time": 1724479998,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151647,
+        "num": 151647,
+        "word": "边水往事的质量有多高",
+        "onboard_time": 1724475498,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146709,
+        "num": 150054,
+        "word": "疑似TF四代被私生追尾",
+        "onboard_time": 1724472139,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148812,
+        "num": 148812,
+        "word": "吃过锅包肉的人嘴真严啊",
+        "onboard_time": 1724480238,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 148323,
+        "num": 148323,
+        "word": "杨笠回来了",
+        "onboard_time": 1724480360,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145845,
+        "num": 145845,
+        "word": "昌平市场监管局调查幽灵外卖",
+        "onboard_time": 1724480118,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145777,
+        "num": 145777,
+        "word": "林高远悠长夏日居家大片",
+        "onboard_time": 1724477959,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 145542,
+        "num": 145542,
+        "word": "羽毛球集体涨价的背后",
+        "onboard_time": 1724478980,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 145441,
+        "num": 145441,
+        "word": "韩国一面包车与大巴车相撞致5死9伤",
+        "onboard_time": 1724480780,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142770,
+        "num": 142770,
+        "word": "边水往事豆瓣开分8.1",
+        "onboard_time": 1724474899,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140991,
+        "num": 140991,
+        "word": "伴侣一直情绪稳定真的是好事吗",
+        "onboard_time": 1724480780,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视知识分子工作#"
+    }
+  }
+}

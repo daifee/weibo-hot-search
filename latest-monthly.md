@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/08/01 00:24:58 ~ 2024/08/24 13:39:01
+本榜单时间：2024/08/01 00:24:58 ~ 2024/08/24 14:27:24
 </p>
 </blockquote>
 <p>
@@ -6449,6 +6449,12 @@ Kimi14岁身高（热度：1541456）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E6%96%AF%E5%A1%94%E9%BB%98%E9%80%9A%E7%94%B5%E8%AF%9D%23%23" target="weibo">
 #习近平同斯塔默通电话#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E9%AB%98%E5%BA%A6%E9%87%8D%E8%A7%86%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E5%B7%A5%E4%BD%9C%23%23" target="weibo">
+#习近平总书记高度重视知识分子工作#
 </a>
 </li>
 
