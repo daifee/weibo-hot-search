@@ -1,22 +1,22 @@
 {
   "startTime": 1724430385634,
-  "endTime": 1724463948571,
+  "endTime": 1724467177855,
   "band_list": [
     {
-      "raw_hot": 1771153,
-      "num": 985317,
-      "word": "印度4名男子轮奸低种姓女孩获刑",
-      "onboard_time": 1724458517,
-      "rank": 3,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 1265833,
-      "num": 1265833,
+      "raw_hot": 2123905,
+      "num": 2123905,
       "word": "17岁主播在直播间倒下送医后死亡",
       "onboard_time": 1724461459,
       "rank": 13,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1771153,
+      "num": 1058688,
+      "word": "印度4名男子轮奸低种姓女孩获刑",
+      "onboard_time": 1724458517,
+      "rank": 3,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1232325,
@@ -24,6 +24,22 @@
       "word": "印度15岁放羊女孩遭轮奸",
       "onboard_time": 1724407161,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1197233,
+      "num": 1197233,
+      "word": "央视新闻曝30多家外卖店执照一样",
+      "onboard_time": 1724460857,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1185646,
+      "num": 628446,
+      "word": "82岁爷爷一秒识破孙子嫖娼被抓骗局",
+      "onboard_time": 1724462598,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -57,6 +73,14 @@
       "onboard_time": 1724423481,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1007573,
+      "num": 1007573,
+      "word": "何蓝逗 乐华害我",
+      "onboard_time": 1724464997,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1004939,
@@ -115,11 +139,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 788584,
-      "num": 788584,
-      "word": "央视新闻曝30多家外卖店执照一样",
-      "onboard_time": 1724460857,
-      "rank": 9,
+      "raw_hot": 809983,
+      "num": 809983,
+      "word": "南科大回应教授在云南因菌子中毒失踪",
+      "onboard_time": 1724462719,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -128,14 +152,6 @@
       "word": "印度女医生遇害前婚事已敲定",
       "onboard_time": 1724424441,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 628446,
-      "num": 628446,
-      "word": "82岁爷爷一秒识破孙子嫖娼被抓骗局",
-      "onboard_time": 1724462598,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -153,6 +169,22 @@
       "onboard_time": 1724418080,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 554353,
+      "num": 554353,
+      "word": "王昶林高远你俩要考研啊",
+      "onboard_time": 1724464279,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 544810,
+      "num": 411186,
+      "word": "性别比失衡情况下想生男孩的人会少吗",
+      "onboard_time": 1724463318,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 543216,
@@ -243,12 +275,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 363696,
+      "num": 363696,
+      "word": "姥姥的外孙包哭的",
+      "onboard_time": 1724461398,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 358957,
       "num": 358957,
       "word": "黑神话悟空剧情",
       "onboard_time": 1724459898,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 355362,
+      "num": 355362,
+      "word": "于正新签的05小生",
+      "onboard_time": 1724464398,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 345695,
@@ -283,28 +331,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 287054,
-      "num": 358772,
-      "word": "姥姥的外孙包哭的",
-      "onboard_time": 1724461398,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 283364,
       "num": 283364,
       "word": "何蓝逗cos佟湘玉",
       "onboard_time": 1724422522,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 281718,
-      "num": 281718,
-      "word": "南科大回应教授在云南因菌子中毒失踪",
-      "onboard_time": 1724462719,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 279607,
@@ -355,12 +387,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257907,
+      "num": 355918,
+      "word": "王力宏演唱会",
+      "onboard_time": 1724459419,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 254812,
+      "num": 254812,
+      "word": "沙利文将访华举行新一轮中美战略沟通",
+      "onboard_time": 1724466739,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 248921,
       "num": 280197,
       "word": "给刚出生的娃娃注册了微信号",
       "onboard_time": 1724460919,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 248527,
+      "num": 248527,
+      "word": "郑钦文呼吁球迷宽容一点",
+      "onboard_time": 1724463918,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 245663,
@@ -387,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237178,
+      "num": 237178,
+      "word": "原来故意避开的人才是真的在意",
+      "onboard_time": 1724465898,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 236637,
       "num": 236637,
       "word": "黑神话悟空 打boss攻略",
@@ -403,12 +467,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 229284,
-      "num": 355918,
-      "word": "王力宏演唱会",
-      "onboard_time": 1724459419,
-      "rank": 18,
-      "category": "演出"
+      "raw_hot": 229615,
+      "num": 347978,
+      "word": "嗨放派国家二级运动员占了一半",
+      "onboard_time": 1724462478,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 226334,
@@ -435,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218290,
+      "num": 218290,
+      "word": "韩酒店火灾2人跳楼因气垫翻转遇难",
+      "onboard_time": 1724466679,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211174,
       "num": 182324,
       "word": "王一博李汶翰周艺轩年会合照",
@@ -443,12 +515,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 210521,
+      "num": 221348,
+      "word": "原来金莎之前说的都是真的",
+      "onboard_time": 1724466498,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208974,
       "num": 208974,
       "word": "极品木灵根",
       "onboard_time": 1724459719,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 205767,
+      "num": 219430,
+      "word": "王一博听到吃蜘蛛的反应",
+      "onboard_time": 1724465181,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 196344,
@@ -475,20 +563,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 184319,
-      "num": 184319,
-      "word": "性别比失衡情况下想生男孩的人会少吗",
-      "onboard_time": 1724463318,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 182906,
       "num": 182906,
       "word": "快乐再出发3",
       "onboard_time": 1724428099,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180156,
+      "num": 180156,
+      "word": "打工人去班味只要一个东西",
+      "onboard_time": 1724466620,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 176527,
@@ -507,6 +595,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174319,
+      "num": 739997,
+      "word": "小罗伯特肯尼迪宣布退出2024美国大选",
+      "onboard_time": 1724463439,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173645,
+      "num": 173645,
+      "word": "已有6万多吨福岛核污染水流入大海",
+      "onboard_time": 1724463619,
+      "rank": 37,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 170480,
       "num": 170480,
       "word": "刺猬 黑色幽默",
@@ -523,20 +627,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166904,
-      "num": 277584,
-      "word": "嗨放派国家二级运动员占了一半",
-      "onboard_time": 1724462478,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 165828,
       "num": 165828,
       "word": "日本人夏天都不怕热的吗",
       "onboard_time": 1724458578,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 160509,
+      "num": 160509,
+      "word": "黄浦江巨鸭成为上海打卡新景点",
+      "onboard_time": 1724465898,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158134,
@@ -553,6 +657,14 @@
       "onboard_time": 1724426240,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156919,
+      "num": 156919,
+      "word": "外媒关注中国月壤制水",
+      "onboard_time": 1724466380,
+      "rank": 40,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 155177,
@@ -579,12 +691,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153336,
+      "num": 153336,
+      "word": "严浩翔第一次拒绝粉丝",
+      "onboard_time": 1724464339,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152371,
       "num": 152371,
       "word": "孤舟大结局",
       "onboard_time": 1724417961,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151743,
+      "num": 151743,
+      "word": "老板救人牺牲妻子拒收捐款",
+      "onboard_time": 1724464638,
+      "rank": 44,
+      "category": "社会新闻,社会正能量"
     },
     {
       "raw_hot": 150864,
@@ -601,6 +729,14 @@
       "onboard_time": 1724456057,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 145903,
+      "num": 145903,
+      "word": "陈楚生 边界感",
+      "onboard_time": 1724466319,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 144981,
@@ -632,14 +768,6 @@
       "word": "王楚钦说马龙是最优秀的队长",
       "onboard_time": 1724434515,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 139032,
-      "num": 139032,
-      "word": "郑钦文呼吁球迷宽容一点",
-      "onboard_time": 1724463918,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -771,14 +899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 84596,
-      "num": 739997,
-      "word": "小罗伯特肯尼迪宣布退出2024美国大选",
-      "onboard_time": 1724463439,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 75512,
       "num": 93490,
       "word": "林墨工作室回应疑似林墨恋情",
@@ -812,7 +932,7 @@
     },
     {
       "raw_hot": 66693,
-      "num": 990690,
+      "num": 1079208,
       "word": "感谢救援人员带来的安全感",
       "onboard_time": 1724421621,
       "rank": 2,
@@ -968,6 +1088,14 @@
       "word": "网购平台成烟卡销售重灾区",
       "onboard_time": 1724440752,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27017,
+      "num": 158439,
+      "word": "印度数万妇女举行夺回黑夜游行",
+      "onboard_time": 1724466498,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
