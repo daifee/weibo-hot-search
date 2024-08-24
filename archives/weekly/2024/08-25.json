@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724528096247,
+  "endTime": 1724530899407,
   "band_list": [
     {
       "raw_hot": 2141711,
@@ -475,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72026,
+      "num": 86308,
+      "word": "为何这些丑东西成了年轻人的心头好",
+      "onboard_time": 1724526132,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66935,
       "num": 115043,
       "word": "2中学生网上利用卡牌盲盒设局诈骗",
@@ -507,6 +515,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 42094,
+      "num": 42094,
+      "word": "央视曝光的多家脏乱外卖停业整改",
+      "onboard_time": 1724527271,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41822,
       "num": 41822,
       "word": "张杰苏州演唱会",
@@ -523,27 +539,35 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 33018,
-      "num": 86308,
-      "word": "为何这些丑东西成了年轻人的心头好",
-      "onboard_time": 1724526132,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28089,
-      "num": 30966,
-      "word": "央视曝光的多家脏乱外卖停业整改",
-      "onboard_time": 1724527271,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20457,
+      "raw_hot": 30009,
       "num": 42232,
       "word": "外卖要想放心点平台监管不能缺位",
       "onboard_time": 1724527991,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23046,
+      "num": 25023,
+      "word": "华晨宇用音乐唤醒善意",
+      "onboard_time": 1724520795,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 22697,
+      "num": 24997,
+      "word": "乐华家族演唱会彩排",
+      "onboard_time": 1724530691,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 15760,
+      "num": 57361,
+      "word": "网友呼吁下调景区门票老人免费年龄",
+      "onboard_time": 1724529852,
+      "rank": 9,
       "category": "社会新闻"
     }
   ],
