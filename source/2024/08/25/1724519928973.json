@@ -1,0 +1,410 @@
+{
+  "runTime": 1724519928973,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 955028,
+        "num": 955028,
+        "word": "樊振东退赛",
+        "onboard_time": 1724512282,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 615815,
+        "num": 615815,
+        "word": "杨紫工作室 审美",
+        "onboard_time": 1724513841,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25912,
+        "num": 534940,
+        "word": "渤海油气开发新突破",
+        "onboard_time": 1724508622,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 494104,
+        "num": 494104,
+        "word": "孙颖莎去了邓紫棋演唱会",
+        "onboard_time": 1724511742,
+        "rank": 3,
+        "category": "体育,演出"
+      },
+      {
+        "raw_hot": 419505,
+        "num": 419505,
+        "word": "王俊凯 出去别说是我粉丝",
+        "onboard_time": 1724517738,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 352894,
+        "num": 352894,
+        "word": "黑神话悟空杨戬演员回应撞脸张翰",
+        "onboard_time": 1724508502,
+        "rank": 5,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 306423,
+        "num": 306423,
+        "word": "游客闯进全红婵爷爷家被微笑劝退",
+        "onboard_time": 1724510241,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288972,
+        "num": 288972,
+        "word": "王一博 绿海",
+        "onboard_time": 1724506522,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 257289,
+        "num": 257289,
+        "word": "檀健次跟爱奇艺道歉",
+        "onboard_time": 1724504723,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199897,
+        "num": 216167,
+        "word": "央视曝回流药黑色产业链",
+        "onboard_time": 1724508922,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211970,
+        "num": 211970,
+        "word": "郭艾伦加盟广州",
+        "onboard_time": 1724497698,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206682,
+        "num": 206682,
+        "word": "杨幂对周深说少管我",
+        "onboard_time": 1724516899,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187162,
+        "num": 187162,
+        "word": "女子坐拥87套房被查封待拍卖",
+        "onboard_time": 1724490020,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184142,
+        "num": 184142,
+        "word": "WBG战胜TES",
+        "onboard_time": 1724511323,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 181498,
+        "num": 181498,
+        "word": "王一博新歌舞台",
+        "onboard_time": 1724506162,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180747,
+        "num": 180747,
+        "word": "蒋奇明好帅",
+        "onboard_time": 1724513302,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170480,
+        "num": 170480,
+        "word": "广西民警为救落水者牺牲",
+        "onboard_time": 1724496258,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164610,
+        "num": 164610,
+        "word": "樊振东 北京大满贯",
+        "onboard_time": 1724510962,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160624,
+        "num": 160624,
+        "word": "许凯西装配拖鞋的原因",
+        "onboard_time": 1724515281,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153330,
+        "num": 153330,
+        "word": "冯骥 离职是最好的医美",
+        "onboard_time": 1724503939,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 689410,
+        "num": 152691,
+        "word": "睡前妄想症",
+        "onboard_time": 1724513601,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 413290,
+        "num": 152681,
+        "word": "印度女医生奸杀案嫌疑人当庭翻供",
+        "onboard_time": 1724509701,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187724,
+        "num": 152511,
+        "word": "男子内裤里藏3只甲虫入境被查",
+        "onboard_time": 1724489601,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151921,
+        "num": 151921,
+        "word": "大一新生骑行1328公里北大报到",
+        "onboard_time": 1724507242,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151749,
+        "num": 151749,
+        "word": "Angelababy带小海绵游玩迪士尼",
+        "onboard_time": 1724501180,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135521,
+        "num": 135521,
+        "word": "吴宣仪舞台被蝴蝶包围了",
+        "onboard_time": 1724514322,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133334,
+        "num": 133334,
+        "word": "夫妻离婚争13只乌龟抚养权",
+        "onboard_time": 1724512643,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127190,
+        "num": 127190,
+        "word": "孟美岐 沙漠姬",
+        "onboard_time": 1724502381,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125683,
+        "num": 125683,
+        "word": "Zoom 拿下",
+        "onboard_time": 1724513122,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122680,
+        "num": 122680,
+        "word": "被中国唯一海洋民族传统服饰美到了",
+        "onboard_time": 1724519418,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119262,
+        "num": 119262,
+        "word": "印度女医生案监控画面曝光",
+        "onboard_time": 1724473220,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117212,
+        "num": 117212,
+        "word": "断骨增高的人没有一天不后悔",
+        "onboard_time": 1724505200,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 117049,
+        "num": 117049,
+        "word": "乐华家族演唱会",
+        "onboard_time": 1724487440,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112039,
+        "num": 112039,
+        "word": "张昊唯和伪造聊天记录发小已和解",
+        "onboard_time": 1724501721,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111855,
+        "num": 111855,
+        "word": "小孩姐上个山捡了几条命",
+        "onboard_time": 1724518637,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103309,
+        "num": 103309,
+        "word": "女子美甲致真菌感染治疗花费近万元",
+        "onboard_time": 1724505383,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98901,
+        "num": 98901,
+        "word": "李宇春我还年轻我还年轻",
+        "onboard_time": 1724513960,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 96176,
+        "num": 96176,
+        "word": "陈昊宇野子现场",
+        "onboard_time": 1724508381,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 95142,
+        "num": 95142,
+        "word": "乐华 业务能力",
+        "onboard_time": 1724503579,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 95065,
+        "num": 95065,
+        "word": "杨幂来看周深演唱会了",
+        "onboard_time": 1724504842,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 91633,
+        "num": 91633,
+        "word": "WBG晋级夏决",
+        "onboard_time": 1724511802,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 87215,
+        "num": 87215,
+        "word": "朱正廷程潇 BG舞台",
+        "onboard_time": 1724500040,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 87191,
+        "num": 87191,
+        "word": "王一博说已回酒店",
+        "onboard_time": 1724514382,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86882,
+        "num": 86882,
+        "word": "韩剧妈妈朋友的儿子",
+        "onboard_time": 1724509522,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85704,
+        "num": 85704,
+        "word": "出伏后秋老虎和瞌睡虫都要来了",
+        "onboard_time": 1724517499,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84969,
+        "num": 84969,
+        "word": "印度奸杀案双方父母都认为嫌疑人是替罪羊",
+        "onboard_time": 1724511381,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83730,
+        "num": 83730,
+        "word": "人竟然可以幸福到这种程度",
+        "onboard_time": 1724508742,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81424,
+        "num": 81424,
+        "word": "TES",
+        "onboard_time": 1724497220,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 79452,
+        "num": 79452,
+        "word": "张镇麟发博",
+        "onboard_time": 1724503939,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79359,
+        "num": 79359,
+        "word": "杨紫镜头内外的日常",
+        "onboard_time": 1724516479,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习新语#"
+    }
+  }
+}
