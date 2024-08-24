@@ -1,6 +1,6 @@
 {
   "startTime": 1724430385634,
-  "endTime": 1724506489848,
+  "endTime": 1724509121432,
   "band_list": [
     {
       "raw_hot": 2529436,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1944058,
+      "num": 1944058,
+      "word": "王一博 绿海",
+      "onboard_time": 1724506522,
+      "rank": 0,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1883977,
       "num": 1883977,
       "word": "比伯海莉孩子出生",
@@ -65,6 +73,22 @@
       "onboard_time": 1724458517,
       "rank": 3,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1676151,
+      "num": 1676151,
+      "word": "冯骥 离职是最好的医美",
+      "onboard_time": 1724503939,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 1463776,
+      "num": 1463776,
+      "word": "檀健次跟爱奇艺道歉",
+      "onboard_time": 1724504723,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 1459257,
@@ -89,6 +113,14 @@
       "onboard_time": 1724473098,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1414148,
+      "num": 640212,
+      "word": "贾玲 拍完了给我p一下",
+      "onboard_time": 1724506402,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 1295368,
@@ -163,6 +195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1155452,
+      "num": 631936,
+      "word": "王一博新歌舞台",
+      "onboard_time": 1724506162,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1137125,
       "num": 775682,
       "word": "原来金莎之前说的都是真的",
@@ -185,14 +225,6 @@
       "onboard_time": 1724425221,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1102366,
-      "num": 578462,
-      "word": "冯骥 离职是最好的医美",
-      "onboard_time": 1724503939,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 1065521,
@@ -305,14 +337,6 @@
       "onboard_time": 1724427198,
       "rank": 34,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 952264,
-      "num": 790087,
-      "word": "檀健次跟爱奇艺道歉",
-      "onboard_time": 1724504723,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 947690,
@@ -443,14 +467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 713240,
-      "num": 544410,
-      "word": "王一博新歌舞台",
-      "onboard_time": 1724506162,
-      "rank": 12,
-      "category": "演出"
-    },
-    {
       "raw_hot": 705748,
       "num": 423115,
       "word": "男孩女卫生间偷窥家长语出惊人",
@@ -539,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 607061,
+      "num": 490466,
+      "word": "张雪峰写给汪涵的信只有三个字",
+      "onboard_time": 1724504661,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 599887,
       "num": 740228,
       "word": "王一博在乐华没有在乎的人了吗",
@@ -553,6 +577,14 @@
       "onboard_time": 1724491341,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 597475,
+      "num": 597475,
+      "word": "女子美甲致真菌感染治疗花费近万元",
+      "onboard_time": 1724505383,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 596970,
@@ -609,6 +641,14 @@
       "onboard_time": 1724465898,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 561919,
+      "num": 422444,
+      "word": "乐华 业务能力",
+      "onboard_time": 1724503579,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 557696,
@@ -707,14 +747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 504412,
-      "num": 356027,
-      "word": "张雪峰写给汪涵的信只有三个字",
-      "onboard_time": 1724504661,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 502880,
       "num": 502305,
       "word": "印度的性侵案为何如此频繁",
@@ -771,20 +803,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 458055,
-      "num": 422444,
-      "word": "乐华 业务能力",
-      "onboard_time": 1724503579,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 457512,
       "num": 347724,
       "word": "五个人的髋打不开了",
       "onboard_time": 1724458458,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 453443,
+      "num": 611774,
+      "word": "广西民警为救落水者牺牲",
+      "onboard_time": 1724496258,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 442676,
@@ -827,20 +859,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 398190,
+      "num": 398190,
+      "word": "张雪峰女儿名字的含义",
+      "onboard_time": 1724507122,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 395248,
       "num": 395248,
       "word": "蒋奇明演技",
       "onboard_time": 1724428820,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 394932,
-      "num": 611774,
-      "word": "广西民警为救落水者牺牲",
-      "onboard_time": 1724496258,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 393272,
@@ -915,6 +947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 354316,
+      "num": 415100,
+      "word": "黑神话悟空杨戬演员回应撞脸张翰",
+      "onboard_time": 1724508502,
+      "rank": 18,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 351654,
       "num": 351654,
       "word": "Gr对战WBG",
@@ -923,12 +963,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 345136,
+      "num": 345136,
+      "word": "刘耀文严浩翔loverboy88",
+      "onboard_time": 1724508321,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 345048,
       "num": 345048,
       "word": "张弛 眉眼间毫无丹青之意",
       "onboard_time": 1724475919,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 343124,
+      "num": 343124,
+      "word": "宋亚轩张真源合唱你会找到我",
+      "onboard_time": 1724507902,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 337548,
@@ -1075,6 +1131,14 @@
       "category": "社会新闻,社会正能量"
     },
     {
+      "raw_hot": 286745,
+      "num": 286745,
+      "word": "东南大学迎来首名10后少年",
+      "onboard_time": 1724507722,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283378,
       "num": 283378,
       "word": "给男朋友做的一周年纪念礼物",
@@ -1139,6 +1203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 274051,
+      "num": 274051,
+      "word": "祺鑫",
+      "onboard_time": 1724507421,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 273404,
       "num": 273404,
       "word": "TES对战WBG",
@@ -1193,6 +1265,14 @@
       "onboard_time": 1724493799,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 266178,
+      "num": 266178,
+      "word": "被烟台灌汤包征服了",
+      "onboard_time": 1724508622,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 264622,
@@ -1307,14 +1387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 251646,
-      "num": 251646,
-      "word": "女子美甲致真菌感染治疗花费近万元",
-      "onboard_time": 1724505383,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251555,
       "num": 302851,
       "word": "边水往事的质量有多高",
@@ -1345,6 +1417,22 @@
       "onboard_time": 1724501902,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 246991,
+      "num": 246991,
+      "word": "陈昊宇野子现场",
+      "onboard_time": 1724508381,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 246391,
+      "num": 246391,
+      "word": "PUBG崩了",
+      "onboard_time": 1724500221,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 245663,
@@ -1403,6 +1491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 241774,
+      "num": 241774,
+      "word": "布莱顿 吃饭睡觉打曼联",
+      "onboard_time": 1724508862,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 240959,
       "num": 195766,
       "word": "谁家男主第一集就被女主踩",
@@ -1451,6 +1547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 233003,
+      "num": 233003,
+      "word": "CPA",
+      "onboard_time": 1724507302,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 230563,
       "num": 230563,
       "word": "王一博眼睛瞪得像铜铃",
@@ -1497,6 +1601,14 @@
       "onboard_time": 1724470879,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225957,
+      "num": 225957,
+      "word": "穿着清凉老板娘店面已转出",
+      "onboard_time": 1724507484,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224344,
@@ -1659,12 +1771,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 210039,
-      "num": 210039,
-      "word": "贾玲 拍完了给我p一下",
-      "onboard_time": 1724506402,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 210365,
+      "num": 210365,
+      "word": "人竟然可以幸福到这种程度",
+      "onboard_time": 1724508742,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 208974,
@@ -1681,6 +1793,14 @@
       "onboard_time": 1724480780,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204847,
+      "num": 204847,
+      "word": "诚C联赛2100淘汰",
+      "onboard_time": 1724508742,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 204713,
@@ -1769,6 +1889,14 @@
       "onboard_time": 1724505621,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 197157,
+      "num": 197157,
+      "word": "2024PEL",
+      "onboard_time": 1724509042,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 196406,
@@ -1875,6 +2003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190342,
+      "num": 190342,
+      "word": "王者新赛季金牌不掉星上线",
+      "onboard_time": 1724508562,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 189733,
       "num": 189733,
       "word": "王一博新歌舞台预告图",
@@ -1913,6 +2049,14 @@
       "onboard_time": 1724480118,
       "rank": 34,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 187089,
+      "num": 189966,
+      "word": "宋亚轩在手心里画了爱心",
+      "onboard_time": 1724508983,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 185330,
@@ -3019,6 +3163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45439,
+      "num": 412357,
+      "word": "酒驾被查爸爸成女儿反面教材",
+      "onboard_time": 1724508022,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44016,
       "num": 327033,
       "word": "9块9套餐围猎麦当劳",
@@ -3155,6 +3307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27286,
+      "num": 1542291,
+      "word": "渤海油气开发新突破",
+      "onboard_time": 1724508622,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27017,
       "num": 158439,
       "word": "印度数万妇女举行夺回黑夜游行",
@@ -3200,6 +3360,14 @@
       "word": "法润彩云南",
       "onboard_time": 1724485881,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16216,
+      "num": 590956,
+      "word": "CityRide为啥火了",
+      "onboard_time": 1724488700,
+      "rank": 9,
       "category": "社会新闻"
     },
     {

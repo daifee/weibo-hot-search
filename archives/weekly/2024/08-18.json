@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724506489848,
+  "endTime": 1724509121432,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -603,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1944058,
+      "num": 1944058,
+      "word": "王一博 绿海",
+      "onboard_time": 1724506522,
+      "rank": 0,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1938691,
       "num": 1938691,
       "word": "年入22亿的李佳琦还要披荆斩棘吗",
@@ -891,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1676151,
+      "num": 1676151,
+      "word": "冯骥 离职是最好的医美",
+      "onboard_time": 1724503939,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1656192,
       "num": 634264,
       "word": "肯尼亚肢解42名女性凶手已越狱",
@@ -1147,6 +1163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1463776,
+      "num": 1463776,
+      "word": "檀健次跟爱奇艺道歉",
+      "onboard_time": 1724504723,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1459257,
       "num": 1459257,
       "word": "年轻人开始去洗浴中心打游戏",
@@ -1241,6 +1265,14 @@
       "onboard_time": 1724069721,
       "rank": 15,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1414148,
+      "num": 640212,
+      "word": "贾玲 拍完了给我p一下",
+      "onboard_time": 1724506402,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 1410026,
@@ -1683,6 +1715,14 @@
       "category": "旅游,游戏"
     },
     {
+      "raw_hot": 1155452,
+      "num": 631936,
+      "word": "王一博新歌舞台",
+      "onboard_time": 1724506162,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1153400,
       "num": 882537,
       "word": "男子通马桶眼睛被灼伤几乎失明",
@@ -1849,14 +1889,6 @@
       "onboard_time": 1724405839,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1102366,
-      "num": 578462,
-      "word": "冯骥 离职是最好的医美",
-      "onboard_time": 1724503939,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 1098229,
@@ -2361,14 +2393,6 @@
       "onboard_time": 1724328980,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 952264,
-      "num": 790087,
-      "word": "檀健次跟爱奇艺道歉",
-      "onboard_time": 1724504723,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 951648,
@@ -3371,14 +3395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 713240,
-      "num": 544410,
-      "word": "王一博新歌舞台",
-      "onboard_time": 1724506162,
-      "rank": 12,
-      "category": "演出"
-    },
-    {
       "raw_hot": 712258,
       "num": 908498,
       "word": "男狐狸精请按这个标准卷",
@@ -4051,6 +4067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 607061,
+      "num": 490466,
+      "word": "张雪峰写给汪涵的信只有三个字",
+      "onboard_time": 1724504661,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 604505,
       "num": 604505,
       "word": "河北姑娘孙颖莎回家",
@@ -4097,6 +4121,14 @@
       "onboard_time": 1724491341,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 597475,
+      "num": 597475,
+      "word": "女子美甲致真菌感染治疗花费近万元",
+      "onboard_time": 1724505383,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 596970,
@@ -4409,6 +4441,14 @@
       "onboard_time": 1724418381,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 561919,
+      "num": 422444,
+      "word": "乐华 业务能力",
+      "onboard_time": 1724503579,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 561694,
@@ -4851,14 +4891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 504412,
-      "num": 356027,
-      "word": "张雪峰写给汪涵的信只有三个字",
-      "onboard_time": 1724504661,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 503198,
       "num": 503198,
       "word": "马龙孙颖莎等国乒队员访港行程敲定",
@@ -5299,14 +5331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 458055,
-      "num": 422444,
-      "word": "乐华 业务能力",
-      "onboard_time": 1724503579,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 457512,
       "num": 347724,
       "word": "五个人的髋打不开了",
@@ -5353,6 +5377,14 @@
       "onboard_time": 1723947858,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 453443,
+      "num": 611774,
+      "word": "广西民警为救落水者牺牲",
+      "onboard_time": 1724496258,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 452142,
@@ -5899,6 +5931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 398190,
+      "num": 398190,
+      "word": "张雪峰女儿名字的含义",
+      "onboard_time": 1724507122,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 397635,
       "num": 397635,
       "word": "来自央音专业第一的血脉压制",
@@ -5945,14 +5985,6 @@
       "onboard_time": 1724147181,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 394932,
-      "num": 611774,
-      "word": "广西民警为救落水者牺牲",
-      "onboard_time": 1724496258,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 394244,
@@ -6563,6 +6595,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 354316,
+      "num": 415100,
+      "word": "黑神话悟空杨戬演员回应撞脸张翰",
+      "onboard_time": 1724508502,
+      "rank": 18,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 354303,
       "num": 859659,
       "word": "凉山公安公开缉捕30名在逃人员",
@@ -6739,6 +6779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 345136,
+      "num": 345136,
+      "word": "刘耀文严浩翔loverboy88",
+      "onboard_time": 1724508321,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 345048,
       "num": 345048,
       "word": "张弛 眉眼间毫无丹青之意",
@@ -6753,6 +6801,14 @@
       "onboard_time": 1724117179,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 343124,
+      "num": 343124,
+      "word": "宋亚轩张真源合唱你会找到我",
+      "onboard_time": 1724507902,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 342951,
@@ -7955,6 +8011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286745,
+      "num": 286745,
+      "word": "东南大学迎来首名10后少年",
+      "onboard_time": 1724507722,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286265,
       "num": 327079,
       "word": "极挑男人帮在边水往事碰头",
@@ -8363,6 +8427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 274051,
+      "num": 274051,
+      "word": "祺鑫",
+      "onboard_time": 1724507421,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 273528,
       "num": 412068,
       "word": "王源是真没把我们当外人",
@@ -8601,6 +8673,14 @@
       "onboard_time": 1724127383,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 266178,
+      "num": 266178,
+      "word": "被烟台灌汤包征服了",
+      "onboard_time": 1724508622,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 265989,
@@ -9163,14 +9243,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 251646,
-      "num": 251646,
-      "word": "女子美甲致真菌感染治疗花费近万元",
-      "onboard_time": 1724505383,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251555,
       "num": 302851,
       "word": "边水往事的质量有多高",
@@ -9363,6 +9435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 246991,
+      "num": 246991,
+      "word": "陈昊宇野子现场",
+      "onboard_time": 1724508381,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 246780,
       "num": 246780,
       "word": "高三女孩压力过大患上开学综合征",
@@ -9385,6 +9465,14 @@
       "onboard_time": 1724077461,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 246391,
+      "num": 246391,
+      "word": "PUBG崩了",
+      "onboard_time": 1724500221,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 246233,
@@ -9593,6 +9681,14 @@
       "onboard_time": 1724217979,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241774,
+      "num": 241774,
+      "word": "布莱顿 吃饭睡觉打曼联",
+      "onboard_time": 1724508862,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 241407,
@@ -10345,6 +10441,14 @@
       "onboard_time": 1724206820,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225957,
+      "num": 225957,
+      "word": "穿着清凉老板娘店面已转出",
+      "onboard_time": 1724507484,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225927,
@@ -11219,20 +11323,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 210365,
+      "num": 210365,
+      "word": "人竟然可以幸福到这种程度",
+      "onboard_time": 1724508742,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 210114,
       "num": 210114,
       "word": "法证先锋6大结局",
       "onboard_time": 1724414960,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 210039,
-      "num": 210039,
-      "word": "贾玲 拍完了给我p一下",
-      "onboard_time": 1724506402,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 209730,
@@ -11713,6 +11817,14 @@
       "onboard_time": 1723962978,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204847,
+      "num": 204847,
+      "word": "诚C联赛2100淘汰",
+      "onboard_time": 1724508742,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 204713,
@@ -12339,6 +12451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197157,
+      "num": 197157,
+      "word": "2024PEL",
+      "onboard_time": 1724509042,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196851,
       "num": 196851,
       "word": "最右崩了",
@@ -12963,6 +13083,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 190342,
+      "num": 190342,
+      "word": "王者新赛季金牌不掉星上线",
+      "onboard_time": 1724508562,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190231,
       "num": 190231,
       "word": "张歆艺与儿子为袁弘庆生",
@@ -13249,6 +13377,14 @@
       "onboard_time": 1723984640,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187089,
+      "num": 189966,
+      "word": "宋亚轩在手心里画了爱心",
+      "onboard_time": 1724508983,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 186990,
@@ -19571,6 +19707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45439,
+      "num": 412357,
+      "word": "酒驾被查爸爸成女儿反面教材",
+      "onboard_time": 1724508022,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45415,
       "num": 373575,
       "word": "辽宁建昌27个失联乡镇恢复通信",
@@ -20387,6 +20531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27286,
+      "num": 1542291,
+      "word": "渤海油气开发新突破",
+      "onboard_time": 1724508622,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27041,
       "num": 33301,
       "word": "一图读懂如何防控猴痘",
@@ -20697,6 +20849,14 @@
       "onboard_time": 1724349674,
       "rank": 9,
       "category": "游戏,旅游"
+    },
+    {
+      "raw_hot": 16216,
+      "num": 590956,
+      "word": "CityRide为啥火了",
+      "onboard_time": 1724488700,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16103,

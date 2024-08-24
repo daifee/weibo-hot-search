@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1724506489848,
+  "endTime": 1724509121432,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -5659,6 +5659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1944058,
+      "num": 1944058,
+      "word": "王一博 绿海",
+      "onboard_time": 1724506522,
+      "rank": 0,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1944027,
       "num": 1944027,
       "word": "李娜纪录",
@@ -7131,6 +7139,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 1676151,
+      "num": 1676151,
+      "word": "冯骥 离职是最好的医美",
+      "onboard_time": 1724503939,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1674632,
       "num": 1674632,
       "word": "叫顺风车送狗被卖给乘客",
@@ -8483,6 +8499,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 1463776,
+      "num": 1463776,
+      "word": "檀健次跟爱奇艺道歉",
+      "onboard_time": 1724504723,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1459481,
       "num": 853472,
       "word": "刘清漪首轮胜美国选手",
@@ -8921,6 +8945,14 @@
       "onboard_time": 1724069721,
       "rank": 15,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1414148,
+      "num": 640212,
+      "word": "贾玲 拍完了给我p一下",
+      "onboard_time": 1724506402,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 1413098,
@@ -11363,6 +11395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1155452,
+      "num": 631936,
+      "word": "王一博新歌舞台",
+      "onboard_time": 1724506162,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1154887,
       "num": 1154887,
       "word": "谢瑜老家房屋连夜翻新",
@@ -12017,14 +12057,6 @@
       "onboard_time": 1722689011,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1102366,
-      "num": 578462,
-      "word": "冯骥 离职是最好的医美",
-      "onboard_time": 1724503939,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 1102177,
@@ -14001,14 +14033,6 @@
       "onboard_time": 1724328980,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 952264,
-      "num": 790087,
-      "word": "檀健次跟爱奇艺道歉",
-      "onboard_time": 1724504723,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 951900,
@@ -17867,14 +17891,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 713240,
-      "num": 544410,
-      "word": "王一博新歌舞台",
-      "onboard_time": 1724506162,
-      "rank": 12,
-      "category": "演出"
-    },
-    {
       "raw_hot": 712636,
       "num": 712636,
       "word": "乌克兰双杠分数",
@@ -20515,6 +20531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 607061,
+      "num": 490466,
+      "word": "张雪峰写给汪涵的信只有三个字",
+      "onboard_time": 1724504661,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 606885,
       "num": 530077,
       "word": "网球女单半决赛",
@@ -20793,6 +20817,14 @@
       "onboard_time": 1723119083,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 597475,
+      "num": 597475,
+      "word": "女子美甲致真菌感染治疗花费近万元",
+      "onboard_time": 1724505383,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 597130,
@@ -21761,6 +21793,14 @@
       "onboard_time": 1722774088,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 561919,
+      "num": 422444,
+      "word": "乐华 业务能力",
+      "onboard_time": 1724503579,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 561694,
@@ -23433,14 +23473,6 @@
       "onboard_time": 1723263622,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 504412,
-      "num": 356027,
-      "word": "张雪峰写给汪涵的信只有三个字",
-      "onboard_time": 1724504661,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 503538,
@@ -25187,14 +25219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 458055,
-      "num": 422444,
-      "word": "乐华 业务能力",
-      "onboard_time": 1724503579,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 457906,
       "num": 815799,
       "word": "邓超就这么水灵灵地杀进来了",
@@ -25449,6 +25473,14 @@
       "onboard_time": 1723947858,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 453443,
+      "num": 611774,
+      "word": "广西民警为救落水者牺牲",
+      "onboard_time": 1724496258,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 452866,
@@ -28179,6 +28211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 398190,
+      "num": 398190,
+      "word": "张雪峰女儿名字的含义",
+      "onboard_time": 1724507122,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 397781,
       "num": 397781,
       "word": "中国第20金",
@@ -28305,14 +28345,6 @@
       "onboard_time": 1724147181,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 394932,
-      "num": 611774,
-      "word": "广西民警为救落水者牺牲",
-      "onboard_time": 1724496258,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 394899,
@@ -30835,6 +30867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 354316,
+      "num": 415100,
+      "word": "黑神话悟空杨戬演员回应撞脸张翰",
+      "onboard_time": 1724508502,
+      "rank": 18,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 354303,
       "num": 859659,
       "word": "凉山公安公开缉捕30名在逃人员",
@@ -31523,6 +31563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 345136,
+      "num": 345136,
+      "word": "刘耀文严浩翔loverboy88",
+      "onboard_time": 1724508321,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 345048,
       "num": 345048,
       "word": "张弛 眉眼间毫无丹青之意",
@@ -31625,6 +31673,14 @@
       "onboard_time": 1724117179,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 343124,
+      "num": 343124,
+      "word": "宋亚轩张真源合唱你会找到我",
+      "onboard_time": 1724507902,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 342951,
@@ -36891,6 +36947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 286745,
+      "num": 286745,
+      "word": "东南大学迎来首名10后少年",
+      "onboard_time": 1724507722,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286719,
       "num": 337765,
       "word": "叶诗文无缘200混决赛",
@@ -38403,6 +38467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 274051,
+      "num": 274051,
+      "word": "祺鑫",
+      "onboard_time": 1724507421,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 273983,
       "num": 273983,
       "word": "潘展乐说金牌对我意义不太大",
@@ -39233,6 +39305,14 @@
       "onboard_time": 1722808573,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 266178,
+      "num": 266178,
+      "word": "被烟台灌汤包征服了",
+      "onboard_time": 1724508622,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 266162,
@@ -41107,14 +41187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 251646,
-      "num": 251646,
-      "word": "女子美甲致真菌感染治疗花费近万元",
-      "onboard_time": 1724505383,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251621,
       "num": 251621,
       "word": "亲历者口述日本投降那一天",
@@ -41737,6 +41809,14 @@
       "onboard_time": 1724148920,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 246991,
+      "num": 246991,
+      "word": "陈昊宇野子现场",
+      "onboard_time": 1724508381,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 246919,
@@ -42441,6 +42521,14 @@
       "onboard_time": 1724217979,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241774,
+      "num": 241774,
+      "word": "布莱顿 吃饭睡觉打曼联",
+      "onboard_time": 1724508862,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 241583,
@@ -44889,6 +44977,14 @@
       "onboard_time": 1724206820,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225957,
+      "num": 225957,
+      "word": "穿着清凉老板娘店面已转出",
+      "onboard_time": 1724507484,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225951,
@@ -47635,6 +47731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210365,
+      "num": 210365,
+      "word": "人竟然可以幸福到这种程度",
+      "onboard_time": 1724508742,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 210211,
       "num": 419462,
       "word": "丫丫生日排面",
@@ -47665,14 +47769,6 @@
       "onboard_time": 1723526122,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 210039,
-      "num": 210039,
-      "word": "贾玲 拍完了给我p一下",
-      "onboard_time": 1724506402,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 210001,
@@ -49097,6 +49193,14 @@
       "onboard_time": 1722834683,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204847,
+      "num": 204847,
+      "word": "诚C联赛2100淘汰",
+      "onboard_time": 1724508742,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 204713,
@@ -51171,6 +51275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197157,
+      "num": 197157,
+      "word": "2024PEL",
+      "onboard_time": 1723418901,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 197142,
       "num": 363040,
       "word": "今夕赫夕",
@@ -53011,6 +53123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190342,
+      "num": 190342,
+      "word": "王者新赛季金牌不掉星上线",
+      "onboard_time": 1724508562,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190324,
       "num": 190324,
       "word": "孙颖莎 感谢粉丝一直支持我",
@@ -53825,6 +53945,14 @@
       "onboard_time": 1723984640,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187089,
+      "num": 189966,
+      "word": "宋亚轩在手心里画了爱心",
+      "onboard_time": 1724508983,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 187085,
@@ -63923,14 +64051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 106863,
-      "num": 106863,
-      "word": "2024PEL",
-      "onboard_time": 1723418901,
-      "rank": 48,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 106836,
       "num": 106836,
       "word": "朴秀荣公开与妈妈的合照",
@@ -69891,6 +70011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45439,
+      "num": 412357,
+      "word": "酒驾被查爸爸成女儿反面教材",
+      "onboard_time": 1724508022,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45415,
       "num": 373575,
       "word": "辽宁建昌27个失联乡镇恢复通信",
@@ -72323,6 +72451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27286,
+      "num": 1542291,
+      "word": "渤海油气开发新突破",
+      "onboard_time": 1724508622,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27109,
       "num": 479975,
       "word": "乳液面膜是不是智商税",
@@ -73192,6 +73328,14 @@
       "word": "请君只看洛阳城",
       "onboard_time": 1723727420,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16216,
+      "num": 590956,
+      "word": "CityRide为啥火了",
+      "onboard_time": 1724488700,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
