@@ -1,0 +1,410 @@
+{
+  "runTime": 1724484895775,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2097849,
+        "num": 2097849,
+        "word": "傅首尔 老刘已经有张硕了",
+        "onboard_time": 1724481200,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1000446,
+        "num": 1000446,
+        "word": "年轻人开始去洗浴中心打游戏",
+        "onboard_time": 1724475678,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36608,
+        "num": 952913,
+        "word": "预拨5000万支持辽宁防汛救灾",
+        "onboard_time": 1724479219,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 908302,
+        "num": 908302,
+        "word": "王楚钦 公园大爷确实不好打",
+        "onboard_time": 1724481200,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 828511,
+        "num": 828511,
+        "word": "印度4名男子轮奸低种姓女孩获刑",
+        "onboard_time": 1724458517,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 646483,
+        "num": 646483,
+        "word": "长沙女干部被曝不雅聊天记录后被免职",
+        "onboard_time": 1724478860,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611619,
+        "num": 611619,
+        "word": "老刘 张硕",
+        "onboard_time": 1724484499,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 537184,
+        "num": 537184,
+        "word": "比伯海莉孩子出生",
+        "onboard_time": 1724470699,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466479,
+        "num": 466479,
+        "word": "美国5岁男童意外开枪打死自己",
+        "onboard_time": 1724481498,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17704,
+        "num": 466046,
+        "word": "宿迁一小区商铺发生火灾致6死",
+        "onboard_time": 1724484620,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30648,
+        "num": 465222,
+        "word": "超级红人节里的青岛啤酒",
+        "onboard_time": 1724481440,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1250405,
+        "num": 463983,
+        "word": "孙杨复出赛报名成绩",
+        "onboard_time": 1724483239,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 507462,
+        "num": 463264,
+        "word": "孙颖莎看到刘国梁身上的虫子愣了",
+        "onboard_time": 1724482280,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 462741,
+        "num": 462741,
+        "word": "黑神话悟空到底盘活了多少产业",
+        "onboard_time": 1724479459,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 388431,
+        "num": 388431,
+        "word": "原来金莎之前说的都是真的",
+        "onboard_time": 1724466498,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383738,
+        "num": 383738,
+        "word": "孙杨首秀比赛试水",
+        "onboard_time": 1724474360,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327451,
+        "num": 327451,
+        "word": "戚薇希望录完巅峰还保持已婚",
+        "onboard_time": 1724483660,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312796,
+        "num": 312796,
+        "word": "全圆佑 密码",
+        "onboard_time": 1724479758,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314562,
+        "num": 307388,
+        "word": "程潇电竞爽文照进现实",
+        "onboard_time": 1724477239,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290237,
+        "num": 290237,
+        "word": "住房养老金",
+        "onboard_time": 1724472259,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1582071,
+        "num": 288501,
+        "word": "印度女医生案监控画面曝光",
+        "onboard_time": 1724473220,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520577,
+        "num": 287655,
+        "word": "吃过锅包肉的人嘴真严啊",
+        "onboard_time": 1724480238,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 286582,
+        "num": 286582,
+        "word": "30岁还没结婚的人都是什么理由",
+        "onboard_time": 1724475021,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 284290,
+        "num": 284290,
+        "word": "新西游记PD李周亨车祸去世",
+        "onboard_time": 1724480959,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277925,
+        "num": 277925,
+        "word": "17岁主播在直播间倒下送医后死亡",
+        "onboard_time": 1724461459,
+        "rank": 24,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 255909,
+        "num": 255909,
+        "word": "几块钱还包邮的洗发水是谁在买",
+        "onboard_time": 1724481860,
+        "rank": 25,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 250375,
+        "num": 250375,
+        "word": "樊振东拟获白玉兰杰出成就奖",
+        "onboard_time": 1724480719,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249068,
+        "num": 249068,
+        "word": "王力宏演唱会水淋淋的吃皮肚面",
+        "onboard_time": 1724482040,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 248605,
+        "num": 248605,
+        "word": "男孩女卫生间偷窥家长语出惊人",
+        "onboard_time": 1724468059,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235248,
+        "num": 235248,
+        "word": "马琳帮王曼昱弹虫子弹到刘国梁身上",
+        "onboard_time": 1724477659,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208020,
+        "num": 208020,
+        "word": "印度遭奸杀女医生父母称警察14天还没破案",
+        "onboard_time": 1724483779,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200710,
+        "num": 200710,
+        "word": "付航把周星驰逗笑了",
+        "onboard_time": 1724479398,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196406,
+        "num": 196406,
+        "word": "桃晚安牵制位",
+        "onboard_time": 1724484561,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 190640,
+        "num": 190640,
+        "word": "刘亦菲黄玫瑰主题生日写真",
+        "onboard_time": 1724474600,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188970,
+        "num": 188970,
+        "word": "林大厨进一次冰柜虞书欣记一辈子",
+        "onboard_time": 1724481259,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183820,
+        "num": 183820,
+        "word": "潘玮柏煮面要考研吗",
+        "onboard_time": 1724481860,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179560,
+        "num": 179560,
+        "word": "荣梓杉开学",
+        "onboard_time": 1724482520,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175699,
+        "num": 175699,
+        "word": "阮经天新片 先天疯批圣体",
+        "onboard_time": 1724484320,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175086,
+        "num": 175086,
+        "word": "韩酒店火灾2人跳楼因气垫翻转遇难",
+        "onboard_time": 1724466679,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174154,
+        "num": 174154,
+        "word": "不自律以后我再也不焦虑了",
+        "onboard_time": 1724479819,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173416,
+        "num": 173416,
+        "word": "毛晓彤我那个从不扫兴的朋友",
+        "onboard_time": 1724472858,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172104,
+        "num": 172104,
+        "word": "刘亦菲花朵裙装",
+        "onboard_time": 1724481078,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169771,
+        "num": 169771,
+        "word": "时空中的绘旅人",
+        "onboard_time": 1724484620,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168711,
+        "num": 168711,
+        "word": "张弛 眉眼间毫无丹青之意",
+        "onboard_time": 1724475919,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165655,
+        "num": 165655,
+        "word": "花花挠心",
+        "onboard_time": 1724476039,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165105,
+        "num": 165105,
+        "word": "脱口秀演员听大张伟接梗会自卑",
+        "onboard_time": 1724484199,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156454,
+        "num": 156454,
+        "word": "博主喊话黑神话想借鉴可以打招呼",
+        "onboard_time": 1724482221,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154867,
+        "num": 154867,
+        "word": "韩国一面包车与大巴车相撞致5死9伤",
+        "onboard_time": 1724480780,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154820,
+        "num": 154820,
+        "word": "黑神话悟空爆火致华强北PS5卖断货",
+        "onboard_time": 1724484380,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154326,
+        "num": 154326,
+        "word": "百万保时捷提车4天就坏了",
+        "onboard_time": 1724484860,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视知识分子工作#"
+    }
+  }
+}
