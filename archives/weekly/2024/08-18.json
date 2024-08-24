@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724503934934,
+  "endTime": 1724505658119,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 2529436,
-      "num": 478141,
+      "num": 480595,
       "word": "印度女医生案监控画面曝光",
       "onboard_time": 1724473220,
       "rank": 8,
@@ -2539,6 +2539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 897213,
+      "num": 897213,
+      "word": "乐华家族演唱会",
+      "onboard_time": 1724345177,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 896852,
       "num": 572777,
       "word": "疑似林墨恋情",
@@ -2771,6 +2779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 829790,
+      "num": 779123,
+      "word": "张昊唯和伪造聊天记录发小已和解",
+      "onboard_time": 1724501721,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 828112,
       "num": 828112,
       "word": "几年不见TFBOYS变化这么大",
@@ -2937,14 +2953,6 @@
       "onboard_time": 1724223260,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 792962,
-      "num": 792962,
-      "word": "乐华家族演唱会",
-      "onboard_time": 1724345177,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 789161,
@@ -3248,6 +3256,14 @@
       "word": "刘耀文止咬器",
       "onboard_time": 1723907063,
       "rank": 7,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 729972,
+      "num": 645924,
+      "word": "孟美岐 沙漠姬",
+      "onboard_time": 1724502381,
+      "rank": 23,
       "category": "演出"
     },
     {
@@ -4051,20 +4067,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 596970,
+      "num": 596970,
+      "word": "张镇麟发博",
+      "onboard_time": 1724503939,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 596942,
       "num": 596942,
       "word": "印度男子性侵2名学前班4岁女童",
       "onboard_time": 1724165604,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 595187,
-      "num": 595187,
-      "word": "孟美岐 沙漠姬",
-      "onboard_time": 1724502381,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 595076,
@@ -4257,6 +4273,14 @@
       "onboard_time": 1724413460,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 578462,
+      "num": 578462,
+      "word": "冯骥 离职是最好的医美",
+      "onboard_time": 1724503939,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 578149,
@@ -4795,6 +4819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 506475,
+      "num": 506475,
+      "word": "檀健次跟爱奇艺道歉",
+      "onboard_time": 1724504723,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 504821,
       "num": 504821,
       "word": "网友总结少年白马醉春风大扑七宗罪",
@@ -5211,6 +5243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 462886,
+      "num": 462886,
+      "word": "杨幂来看周深演唱会了",
+      "onboard_time": 1724504842,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 462741,
       "num": 462741,
       "word": "黑神话悟空到底盘活了多少产业",
@@ -5587,6 +5627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 422444,
+      "num": 422444,
+      "word": "乐华 业务能力",
+      "onboard_time": 1724503579,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 421915,
       "num": 421915,
       "word": "原来这才是结婚重要性排序",
@@ -5883,6 +5931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 394932,
+      "num": 611774,
+      "word": "广西民警为救落水者牺牲",
+      "onboard_time": 1724496258,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394244,
       "num": 394244,
       "word": "异性恋比异形吓人",
@@ -5985,14 +6041,6 @@
       "onboard_time": 1724382380,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 387351,
-      "num": 611774,
-      "word": "广西民警为救落水者牺牲",
-      "onboard_time": 1724496258,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 387188,
@@ -6331,14 +6379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 365917,
-      "num": 365917,
-      "word": "张昊唯和伪造聊天记录发小已和解",
-      "onboard_time": 1724501721,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 365849,
       "num": 1182649,
       "word": "嫦娥五号月壤研究又有新发现",
@@ -6483,6 +6523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356027,
+      "num": 356027,
+      "word": "张雪峰写给汪涵的信只有三个字",
+      "onboard_time": 1724504661,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 355554,
       "num": 355554,
       "word": "时代少年团唱了干杯",
@@ -6537,6 +6585,14 @@
       "onboard_time": 1724144422,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351654,
+      "num": 351654,
+      "word": "Gr对战WBG",
+      "onboard_time": 1724501180,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 351473,
@@ -6761,6 +6817,14 @@
       "onboard_time": 1724078061,
       "rank": 28,
       "category": "电影,体育"
+    },
+    {
+      "raw_hot": 337548,
+      "num": 337548,
+      "word": "纸片人老公被妈妈认可了",
+      "onboard_time": 1724502500,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 337418,
@@ -7233,14 +7297,6 @@
       "onboard_time": 1724231601,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 314664,
-      "num": 314664,
-      "word": "Gr对战WBG",
-      "onboard_time": 1724501180,
-      "rank": 26,
-      "category": "电竞"
     },
     {
       "raw_hot": 314358,
@@ -7827,6 +7883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 288474,
+      "num": 288474,
+      "word": "王一博香槟色亮片西装",
+      "onboard_time": 1724505383,
+      "rank": 36,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 288375,
       "num": 288375,
       "word": "西安和洛阳谁才是中国第一古都",
@@ -7985,6 +8049,14 @@
       "onboard_time": 1724336543,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 283378,
+      "num": 283378,
+      "word": "给男朋友做的一周年纪念礼物",
+      "onboard_time": 1724499979,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 282767,
@@ -8281,6 +8353,14 @@
       "onboard_time": 1723947737,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 273404,
+      "num": 273404,
+      "word": "TES对战WBG",
+      "onboard_time": 1724496679,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 272336,
@@ -9019,14 +9099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 252829,
-      "num": 252829,
-      "word": "TES对战WBG",
-      "onboard_time": 1724496679,
-      "rank": 33,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 251905,
       "num": 251905,
       "word": "直面天命",
@@ -9435,14 +9507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 242358,
-      "num": 242358,
-      "word": "纸片人老公被妈妈认可了",
-      "onboard_time": 1724502500,
-      "rank": 45,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 242266,
       "num": 242266,
       "word": "黑神话悟空创Steam下载带宽纪录",
@@ -9481,6 +9545,14 @@
       "onboard_time": 1724217979,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241478,
+      "num": 241478,
+      "word": "69岁妻子疑心丈夫有外遇引发矛盾",
+      "onboard_time": 1724500818,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241407,
@@ -10451,14 +10523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 221338,
-      "num": 221338,
-      "word": "69岁妻子疑心丈夫有外遇引发矛盾",
-      "onboard_time": 1724500818,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 220755,
       "num": 220755,
       "word": "网易云称故障与机房无关",
@@ -11011,6 +11075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212326,
+      "num": 212326,
+      "word": "断骨增高的人没有一天不后悔",
+      "onboard_time": 1724505200,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 212286,
       "num": 222888,
       "word": "苏林抵达广州开启访华行程",
@@ -11025,6 +11097,14 @@
       "onboard_time": 1724067260,
       "rank": 38,
       "category": "军事"
+    },
+    {
+      "raw_hot": 211701,
+      "num": 211701,
+      "word": "严浩翔断眉",
+      "onboard_time": 1724504000,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 211652,
@@ -11059,14 +11139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211133,
-      "num": 211133,
-      "word": "给男朋友做的一周年纪念礼物",
-      "onboard_time": 1724499979,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 211076,
       "num": 211076,
       "word": "暑去秋来吃什么",
@@ -11099,6 +11171,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 210285,
+      "num": 210285,
+      "word": "刘耀文戴了眉钉",
+      "onboard_time": 1724504962,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 210114,
       "num": 210114,
       "word": "法证先锋6大结局",
@@ -11121,6 +11201,14 @@
       "onboard_time": 1724080641,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 209609,
+      "num": 209609,
+      "word": "女子美甲致真菌感染治疗花费近万元",
+      "onboard_time": 1724505383,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209601,
@@ -11907,14 +11995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 200813,
-      "num": 200813,
-      "word": "乐华 业务能力",
-      "onboard_time": 1724503579,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 200753,
       "num": 200753,
       "word": "KPL梦之队要发新歌了",
@@ -12209,6 +12289,14 @@
       "onboard_time": 1723953379,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197004,
+      "num": 197004,
+      "word": "黄明昊全开麦",
+      "onboard_time": 1724505621,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 196851,
@@ -17835,6 +17923,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 96734,
+      "num": 597235,
+      "word": "喻言海边落日舞台",
+      "onboard_time": 1724504421,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 96353,
       "num": 485759,
       "word": "郭刚堂谈儿子重回家庭后",
@@ -17881,6 +17977,14 @@
       "onboard_time": 1723997720,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 92426,
+      "num": 578610,
+      "word": "什么配置能玩黑神话悟空",
+      "onboard_time": 1724501000,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 92297,
@@ -18137,6 +18241,14 @@
       "onboard_time": 1724488160,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 80388,
+      "num": 612402,
+      "word": "60秒回顾孙杨泳池沉浮",
+      "onboard_time": 1724505200,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 79763,
@@ -18587,14 +18699,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 65646,
-      "num": 424037,
-      "word": "什么配置能玩黑神话悟空",
-      "onboard_time": 1724501000,
-      "rank": 15,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 65538,
       "num": 69991,
       "word": "天秤座真的很容易出现黑马",
@@ -18671,6 +18775,22 @@
       "num": 633315,
       "word": "东北婚恋市场对体制内的执念有多深",
       "onboard_time": 1724383881,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61780,
+      "num": 598347,
+      "word": "记者实探禁带外卖上楼奥美大厦",
+      "onboard_time": 1724504421,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61616,
+      "num": 646448,
+      "word": "直播间9.9元丑甲盲盒数万人买",
+      "onboard_time": 1724504421,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -19907,6 +20027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33543,
+      "num": 1019435,
+      "word": "铸牢共同体中华一家亲",
+      "onboard_time": 1724503281,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 33523,
       "num": 192112,
       "word": "伦敦地标建筑萨默塞特宫发生火灾",
@@ -19953,6 +20081,14 @@
       "onboard_time": 1724047459,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 32813,
+      "num": 487849,
+      "word": "为何瘦子也会得脂肪肝",
+      "onboard_time": 1724505021,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32444,
@@ -20249,14 +20385,6 @@
       "onboard_time": 1724317221,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 26669,
-      "num": 1019435,
-      "word": "铸牢共同体中华一家亲",
-      "onboard_time": 1724503281,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 26566,

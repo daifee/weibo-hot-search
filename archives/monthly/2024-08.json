@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1724503934934,
+  "endTime": 1724505658119,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -3676,7 +3676,7 @@
     },
     {
       "raw_hot": 2529436,
-      "num": 478141,
+      "num": 480595,
       "word": "印度女医生案监控画面曝光",
       "onboard_time": 1724473220,
       "rank": 8,
@@ -14811,6 +14811,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 897213,
+      "num": 897213,
+      "word": "乐华家族演唱会",
+      "onboard_time": 1724345177,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 897195,
       "num": 897195,
       "word": "张之臻王欣瑜冲击金牌",
@@ -15787,6 +15795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 829790,
+      "num": 779123,
+      "word": "张昊唯和伪造聊天记录发小已和解",
+      "onboard_time": 1724501721,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 828112,
       "num": 828112,
       "word": "几年不见TFBOYS变化这么大",
@@ -16329,14 +16345,6 @@
       "onboard_time": 1724223260,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 792962,
-      "num": 792962,
-      "word": "乐华家族演唱会",
-      "onboard_time": 1724345177,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 792937,
@@ -17537,6 +17545,14 @@
       "onboard_time": 1723041508,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 729972,
+      "num": 645924,
+      "word": "孟美岐 沙漠姬",
+      "onboard_time": 1724502381,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 728923,
@@ -20755,6 +20771,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 596970,
+      "num": 596970,
+      "word": "张镇麟发博",
+      "onboard_time": 1724503939,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 596942,
       "num": 596942,
       "word": "印度男子性侵2名学前班4岁女童",
@@ -20793,14 +20817,6 @@
       "onboard_time": 1723612761,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 595187,
-      "num": 595187,
-      "word": "孟美岐 沙漠姬",
-      "onboard_time": 1724502381,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 595076,
@@ -21313,6 +21329,14 @@
       "onboard_time": 1724413460,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 578462,
+      "num": 578462,
+      "word": "冯骥 离职是最好的医美",
+      "onboard_time": 1724503939,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 578164,
@@ -23331,6 +23355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 506475,
+      "num": 506475,
+      "word": "檀健次跟爱奇艺道歉",
+      "onboard_time": 1724504723,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 506149,
       "num": 506149,
       "word": "杨昊第一跳76.80分",
@@ -24985,6 +25017,14 @@
       "onboard_time": 1723807099,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 462886,
+      "num": 462886,
+      "word": "杨幂来看周深演唱会了",
+      "onboard_time": 1724504842,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 462758,
@@ -26819,6 +26859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 422444,
+      "num": 422444,
+      "word": "乐华 业务能力",
+      "onboard_time": 1724503579,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 422369,
       "num": 3443102,
       "word": "裴喜君的威胁是女性间共情",
@@ -28243,6 +28291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 394932,
+      "num": 611774,
+      "word": "广西民警为救落水者牺牲",
+      "onboard_time": 1724496258,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394899,
       "num": 394899,
       "word": "马尔尚四金四破纪录",
@@ -28641,14 +28697,6 @@
       "onboard_time": 1723003826,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 387351,
-      "num": 611774,
-      "word": "广西民警为救落水者牺牲",
-      "onboard_time": 1724496258,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 387349,
@@ -30003,14 +30051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 365917,
-      "num": 365917,
-      "word": "张昊唯和伪造聊天记录发小已和解",
-      "onboard_time": 1724501721,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 365849,
       "num": 1182649,
       "word": "嫦娥五号月壤研究又有新发现",
@@ -30675,6 +30715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356027,
+      "num": 356027,
+      "word": "张雪峰写给汪涵的信只有三个字",
+      "onboard_time": 1724504661,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 355682,
       "num": 275826,
       "word": "被孙颖莎抬手嘘帅到了",
@@ -30913,6 +30961,14 @@
       "onboard_time": 1722596724,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 351654,
+      "num": 351654,
+      "word": "Gr对战WBG",
+      "onboard_time": 1724501180,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 351610,
@@ -31985,6 +32041,14 @@
       "onboard_time": 1723107025,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 337548,
+      "num": 337548,
+      "word": "纸片人老公被妈妈认可了",
+      "onboard_time": 1724502500,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 337529,
@@ -33793,14 +33857,6 @@
       "onboard_time": 1723637961,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 314664,
-      "num": 314664,
-      "word": "Gr对战WBG",
-      "onboard_time": 1724501180,
-      "rank": 26,
-      "category": "电竞"
     },
     {
       "raw_hot": 314500,
@@ -36627,6 +36683,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 288474,
+      "num": 288474,
+      "word": "王一博香槟色亮片西装",
+      "onboard_time": 1724505383,
+      "rank": 36,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 288375,
       "num": 288375,
       "word": "西安和洛阳谁才是中国第一古都",
@@ -37273,6 +37337,14 @@
       "onboard_time": 1722907701,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 283378,
+      "num": 283378,
+      "word": "给男朋友做的一周年纪念礼物",
+      "onboard_time": 1724499979,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 283342,
@@ -38353,6 +38425,14 @@
       "onboard_time": 1723947737,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 273404,
+      "num": 273404,
+      "word": "TES对战WBG",
+      "onboard_time": 1724496679,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 273369,
@@ -40899,14 +40979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 252829,
-      "num": 252829,
-      "word": "TES对战WBG",
-      "onboard_time": 1724496679,
-      "rank": 33,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 252796,
       "num": 336264,
       "word": "女子称住酒店被强奸警方未立案",
@@ -42251,14 +42323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 242358,
-      "num": 242358,
-      "word": "纸片人老公被妈妈认可了",
-      "onboard_time": 1724502500,
-      "rank": 45,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 242266,
       "num": 242266,
       "word": "黑神话悟空创Steam下载带宽纪录",
@@ -42336,6 +42400,14 @@
       "word": "河南省监狱管理局回应18岁考生上岸",
       "onboard_time": 1723733122,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241478,
+      "num": 241478,
+      "word": "69岁妻子疑心丈夫有外遇引发矛盾",
+      "onboard_time": 1724500818,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -45467,14 +45539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 221338,
-      "num": 221338,
-      "word": "69岁妻子疑心丈夫有外遇引发矛盾",
-      "onboard_time": 1724500818,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 221319,
       "num": 326503,
       "word": "辛芷蕾用信封帮小演员挡裙子",
@@ -47187,6 +47251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212326,
+      "num": 212326,
+      "word": "断骨增高的人没有一天不后悔",
+      "onboard_time": 1724505200,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 212289,
       "num": 673341,
       "word": "詹姆斯当选奥运男篮MVP",
@@ -47307,6 +47379,14 @@
       "category": "电竞,体育"
     },
     {
+      "raw_hot": 211701,
+      "num": 211701,
+      "word": "严浩翔断眉",
+      "onboard_time": 1724504000,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 211657,
       "num": 354886,
       "word": "演员吉娜罗兰兹去世",
@@ -47401,14 +47481,6 @@
       "onboard_time": 1723089144,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 211133,
-      "num": 211133,
-      "word": "给男朋友做的一周年纪念礼物",
-      "onboard_time": 1724499979,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 211116,
@@ -47513,6 +47585,14 @@
       "onboard_time": 1722798614,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 210285,
+      "num": 210285,
+      "word": "刘耀文戴了眉钉",
+      "onboard_time": 1724504962,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 210211,
@@ -47640,6 +47720,14 @@
       "word": "四川康定山洪泥石流9人遇难18人失联",
       "onboard_time": 1722846268,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209609,
+      "num": 209609,
+      "word": "女子美甲致真菌感染治疗花费近万元",
+      "onboard_time": 1724505383,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -50083,14 +50171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200813,
-      "num": 200813,
-      "word": "乐华 业务能力",
-      "onboard_time": 1724503579,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 200760,
       "num": 200760,
       "word": "国乒男团女团迎半决赛",
@@ -51089,6 +51169,14 @@
       "onboard_time": 1722500184,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197004,
+      "num": 197004,
+      "word": "黄明昊全开麦",
+      "onboard_time": 1724505621,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 196965,
@@ -64555,6 +64643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96734,
+      "num": 597235,
+      "word": "喻言海边落日舞台",
+      "onboard_time": 1724504421,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 96725,
       "num": 662335,
       "word": "1.3亿厂房被1元钱拍卖1.8万成交",
@@ -64881,6 +64977,14 @@
       "onboard_time": 1722792145,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 92426,
+      "num": 578610,
+      "word": "什么配置能玩黑神话悟空",
+      "onboard_time": 1724501000,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 92297,
@@ -65809,6 +65913,14 @@
       "onboard_time": 1724488160,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 80388,
+      "num": 612402,
+      "word": "60秒回顾孙杨泳池沉浮",
+      "onboard_time": 1724505200,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 80022,
@@ -67163,14 +67275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 65646,
-      "num": 424037,
-      "word": "什么配置能玩黑神话悟空",
-      "onboard_time": 1724501000,
-      "rank": 15,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 65633,
       "num": 356781,
       "word": "我们在黑夜中相拥 上头",
@@ -67611,12 +67715,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61780,
+      "num": 598347,
+      "word": "记者实探禁带外卖上楼奥美大厦",
+      "onboard_time": 1724504421,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61619,
       "num": 990797,
       "word": "俄方在布良斯克等州实行反恐行动制度",
       "onboard_time": 1723260263,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 61616,
+      "num": 646448,
+      "word": "直播间9.9元丑甲盲盒数万人买",
+      "onboard_time": 1724504421,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61588,
@@ -71331,6 +71451,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 33543,
+      "num": 1019435,
+      "word": "铸牢共同体中华一家亲",
+      "onboard_time": 1724503281,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 33523,
       "num": 192112,
       "word": "伦敦地标建筑萨默塞特宫发生火灾",
@@ -71440,6 +71568,14 @@
       "word": "室内甲醛检测乱象调查",
       "onboard_time": 1723109426,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32813,
+      "num": 487849,
+      "word": "为何瘦子也会得脂肪肝",
+      "onboard_time": 1724505021,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -72233,14 +72369,6 @@
       "onboard_time": 1723087703,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26669,
-      "num": 1019435,
-      "word": "铸牢共同体中华一家亲",
-      "onboard_time": 1724503281,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 26659,
