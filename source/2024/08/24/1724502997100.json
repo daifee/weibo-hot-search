@@ -1,0 +1,410 @@
+{
+  "runTime": 1724502997100,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1403624,
+        "num": 1403624,
+        "word": "女子坐拥87套房被查封待拍卖",
+        "onboard_time": 1724490020,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1184729,
+        "num": 1184729,
+        "word": "女子在车上注射胶原蛋白",
+        "onboard_time": 1724493619,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13258,
+        "num": 1080116,
+        "word": "法润彩云南",
+        "onboard_time": 1724485881,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1015078,
+        "num": 1015078,
+        "word": "网友曝罗拉王能能没分手",
+        "onboard_time": 1724500040,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1010701,
+        "num": 1010701,
+        "word": "Angelababy带小海绵游玩迪士尼",
+        "onboard_time": 1724501180,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 972858,
+        "num": 972858,
+        "word": "一句踩妈妈的手给我整泪目了",
+        "onboard_time": 1724497879,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 972152,
+        "num": 972152,
+        "word": "郭艾伦加盟广州",
+        "onboard_time": 1724497698,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 838042,
+        "num": 838042,
+        "word": "steam崩了",
+        "onboard_time": 1724497280,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 668369,
+        "num": 668369,
+        "word": "朱正廷程潇 BG舞台",
+        "onboard_time": 1724500040,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 387351,
+        "num": 599938,
+        "word": "广西民警为救落水者牺牲",
+        "onboard_time": 1724496258,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 585223,
+        "num": 585223,
+        "word": "乐华家族演唱会",
+        "onboard_time": 1724487440,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 538693,
+        "num": 538693,
+        "word": "月嫂烫伤出生27天婴儿",
+        "onboard_time": 1724491820,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499375,
+        "num": 499375,
+        "word": "火锅店主救人牺牲众人排长队就餐致敬",
+        "onboard_time": 1724491640,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475861,
+        "num": 475861,
+        "word": "峨眉山发现失踪半个多世纪的神秘物种",
+        "onboard_time": 1724493859,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435121,
+        "num": 435121,
+        "word": "郭艾伦 被通知",
+        "onboard_time": 1724501240,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40786,
+        "num": 423045,
+        "word": "什么配置能玩黑神话悟空",
+        "onboard_time": 1724501000,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 418058,
+        "num": 418058,
+        "word": "孙杨复出赛报名成绩",
+        "onboard_time": 1724483239,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 417029,
+        "num": 417029,
+        "word": "UNIQ合体",
+        "onboard_time": 1724495241,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 389755,
+        "num": 389755,
+        "word": "傅首尔 老刘已经有张硕了",
+        "onboard_time": 1724481200,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375280,
+        "num": 375280,
+        "word": "董宇辉3.58亿分手费已全部到账",
+        "onboard_time": 1724500159,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 800912,
+        "num": 367965,
+        "word": "男子内裤里藏3只甲虫入境被查",
+        "onboard_time": 1724489601,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 716401,
+        "num": 356035,
+        "word": "印度女医生案监控画面曝光",
+        "onboard_time": 1724473220,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343242,
+        "num": 343242,
+        "word": "张昊唯和伪造聊天记录发小已和解",
+        "onboard_time": 1724501721,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340852,
+        "num": 340852,
+        "word": "孟美岐 沙漠姬",
+        "onboard_time": 1724502381,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 338884,
+        "num": 338884,
+        "word": "曾舜晞买个防窥膜吧",
+        "onboard_time": 1724488520,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 292462,
+        "num": 292462,
+        "word": "袁咏仪曝儿子想谈恋爱",
+        "onboard_time": 1724502021,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279560,
+        "num": 279560,
+        "word": "Gr对战WBG",
+        "onboard_time": 1724501180,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 278606,
+        "num": 278606,
+        "word": "张昊唯暂停演艺工作",
+        "onboard_time": 1724491101,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274105,
+        "num": 274105,
+        "word": "成都暴雨",
+        "onboard_time": 1724496200,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267106,
+        "num": 267106,
+        "word": "WBG获胜",
+        "onboard_time": 1724493799,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 264099,
+        "num": 264099,
+        "word": "偶遇贾乃亮甜馨逛商场",
+        "onboard_time": 1724500701,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247534,
+        "num": 247534,
+        "word": "樊振东国家队12年获112个冠军",
+        "onboard_time": 1724501902,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245531,
+        "num": 245531,
+        "word": "华晨宇黑尾牙",
+        "onboard_time": 1724501541,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 238053,
+        "num": 238053,
+        "word": "TheShy三命过黄风大圣",
+        "onboard_time": 1724491940,
+        "rank": 33,
+        "category": "电竞,游戏"
+      },
+      {
+        "raw_hot": 230727,
+        "num": 230727,
+        "word": "黑神话悟空通关留言墙",
+        "onboard_time": 1724488880,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225886,
+        "num": 225886,
+        "word": "汪涵 父母更不舍得孩子",
+        "onboard_time": 1724498120,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210741,
+        "num": 210741,
+        "word": "孙颖莎说不忘初心继续努力",
+        "onboard_time": 1724498060,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204713,
+        "num": 204713,
+        "word": "TF三代认输舞台",
+        "onboard_time": 1724501841,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201792,
+        "num": 201792,
+        "word": "TES对战WBG",
+        "onboard_time": 1724496679,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 197242,
+        "num": 197242,
+        "word": "李娟称谢谢你这一坨巨大的赞美",
+        "onboard_time": 1724498300,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 196289,
+        "num": 196289,
+        "word": "乐华演唱会直播要88块",
+        "onboard_time": 1724494280,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191658,
+        "num": 191658,
+        "word": "吴宣仪 信仰之歌",
+        "onboard_time": 1724501000,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189835,
+        "num": 189835,
+        "word": "刺猬repo",
+        "onboard_time": 1724491580,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187472,
+        "num": 187472,
+        "word": "喻言ignite舞台",
+        "onboard_time": 1724502801,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184533,
+        "num": 184533,
+        "word": "给男朋友做的一周年纪念礼物",
+        "onboard_time": 1724499979,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181541,
+        "num": 181541,
+        "word": "纸片人老公被妈妈认可了",
+        "onboard_time": 1724502500,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 169523,
+        "num": 169523,
+        "word": "时代少年团直播",
+        "onboard_time": 1724494220,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73681,
+        "num": 168955,
+        "word": "记者暗访以招聘培训圈钱家政企业",
+        "onboard_time": 1724500818,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168796,
+        "num": 168796,
+        "word": "CPA战略",
+        "onboard_time": 1724498898,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 161586,
+        "num": 161586,
+        "word": "谁说的秦海璐大战邪恶银渐层",
+        "onboard_time": 1724497041,
+        "rank": 49,
+        "category": "幽默,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视知识分子工作#"
+    }
+  }
+}
