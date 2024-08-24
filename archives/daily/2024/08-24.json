@@ -1,6 +1,6 @@
 {
   "startTime": 1724430385634,
-  "endTime": 1724470559764,
+  "endTime": 1724473424959,
   "band_list": [
     {
       "raw_hot": 2123905,
@@ -9,6 +9,14 @@
       "onboard_time": 1724461459,
       "rank": 13,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1883977,
+      "num": 1883977,
+      "word": "比伯海莉孩子出生",
+      "onboard_time": 1724470699,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1771153,
@@ -49,6 +57,14 @@
       "onboard_time": 1724462598,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1137125,
+      "num": 684652,
+      "word": "原来金莎之前说的都是真的",
+      "onboard_time": 1724466498,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 1118135,
@@ -131,6 +147,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 940688,
+      "num": 312171,
+      "word": "近视眼度数越来越低的习惯",
+      "onboard_time": 1724469619,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 901658,
       "num": 901658,
       "word": "台湾长荣集团道歉",
@@ -179,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 700473,
+      "num": 390035,
+      "word": "男孩女卫生间偷窥家长语出惊人",
+      "onboard_time": 1724468059,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 661822,
       "num": 661822,
       "word": "CPA审计",
@@ -203,20 +235,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 598818,
-      "num": 540685,
-      "word": "原来金莎之前说的都是真的",
-      "onboard_time": 1724466498,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 579158,
       "num": 579158,
       "word": "全红婵因劳损跳水前要花半小时绑绷带",
       "onboard_time": 1724418080,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 570564,
+      "num": 570564,
+      "word": "疑似TF四代被私生追尾",
+      "onboard_time": 1724472139,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 563636,
@@ -363,20 +395,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 315749,
-      "num": 315749,
-      "word": "男孩女卫生间偷窥家长语出惊人",
-      "onboard_time": 1724468059,
-      "rank": 31,
+      "raw_hot": 305364,
+      "num": 261355,
+      "word": "长沙女干部不雅聊天事件当事男子发声",
+      "onboard_time": 1724473098,
+      "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 312171,
-      "num": 312171,
-      "word": "近视眼度数越来越低的习惯",
-      "onboard_time": 1724469619,
-      "rank": 27,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 298546,
@@ -393,6 +417,14 @@
       "onboard_time": 1724458819,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 287957,
+      "num": 287957,
+      "word": "老板救人牺牲妻子拒收捐款",
+      "onboard_time": 1724464638,
+      "rank": 44,
+      "category": "社会新闻,社会正能量"
     },
     {
       "raw_hot": 283364,
@@ -435,6 +467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 273894,
+      "num": 273894,
+      "word": "原来出生证明不能折叠",
+      "onboard_time": 1724472199,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 268985,
       "num": 268985,
       "word": "超长三伏天正式下线",
@@ -467,6 +507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 261854,
+      "num": 306522,
+      "word": "林依轮结婚 饿肚子的是石蕊",
+      "onboard_time": 1724472981,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260172,
       "num": 260172,
       "word": "郑钦文呼吁球迷宽容一点",
@@ -489,6 +537,14 @@
       "onboard_time": 1724459419,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 249957,
+      "num": 249957,
+      "word": "所有恋爱脑都不值得同情",
+      "onboard_time": 1724470218,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 248921,
@@ -515,12 +571,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 240996,
-      "num": 240996,
-      "word": "老板救人牺牲妻子拒收捐款",
-      "onboard_time": 1724464638,
-      "rank": 44,
-      "category": "社会新闻,社会正能量"
+      "raw_hot": 245594,
+      "num": 272272,
+      "word": "港星沉迷从内地网购新中式",
+      "onboard_time": 1724469679,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 240959,
@@ -587,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221331,
+      "num": 221331,
+      "word": "CPA综合",
+      "onboard_time": 1724472858,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 211174,
       "num": 182324,
       "word": "王一博李汶翰周艺轩年会合照",
@@ -611,6 +675,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198364,
+      "num": 392371,
+      "word": "长沙女干部不雅聊天记录事件当事男子发声",
+      "onboard_time": 1724472018,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198121,
+      "num": 198121,
+      "word": "韩国致7死酒店火灾最新画面",
+      "onboard_time": 1724471300,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196836,
+      "num": 196836,
+      "word": "孙颖莎用牛奶瓶稳稳颠球",
+      "onboard_time": 1724470879,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196344,
       "num": 196344,
       "word": "面筋哥肝移植后首面镜头",
@@ -625,6 +713,14 @@
       "onboard_time": 1724420000,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192293,
+      "num": 192293,
+      "word": "周琦将加盟北京首钢",
+      "onboard_time": 1724473159,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 190891,
@@ -651,6 +747,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 185500,
+      "num": 185500,
+      "word": "在海底捞跟风最成功的一次",
+      "onboard_time": 1724471781,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 185320,
       "num": 185320,
       "word": "iGN日本给黑神话打7分",
@@ -672,6 +776,14 @@
       "word": "快乐再出发3",
       "onboard_time": 1724428099,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 180395,
+      "num": 180395,
+      "word": "时代少年团官宣战至巅峰3",
+      "onboard_time": 1724471719,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -707,12 +819,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170535,
-      "num": 170535,
-      "word": "所有恋爱脑都不值得同情",
-      "onboard_time": 1724470218,
+      "raw_hot": 172257,
+      "num": 172257,
+      "word": "毛晓彤我那个从不扫兴的朋友",
+      "onboard_time": 1724472858,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 170660,
+      "num": 170660,
+      "word": "外卖档口粘满苍蝇的贴纸下就是炸锅",
+      "onboard_time": 1724468118,
       "rank": 41,
-      "category": "情感"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170480,
@@ -739,14 +859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167173,
-      "num": 167173,
-      "word": "外卖档口粘满苍蝇的贴纸下就是炸锅",
-      "onboard_time": 1724468118,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166633,
       "num": 166633,
       "word": "战至巅峰3热血开赛",
@@ -761,14 +873,6 @@
       "onboard_time": 1724458578,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 164421,
-      "num": 164421,
-      "word": "港星沉迷从内地网购新中式",
-      "onboard_time": 1724469679,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 160509,
@@ -1099,6 +1203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66683,
+      "num": 305662,
+      "word": "住房养老金",
+      "onboard_time": 1724472259,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 66596,
       "num": 66596,
       "word": "马龙轻松拿捏背后击球",
@@ -1144,6 +1256,14 @@
       "word": "泰小型飞机坠毁搜寻仍在持续",
       "onboard_time": 1724451912,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58919,
+      "num": 306708,
+      "word": "商家宣传防晒喷雾随便喷小孩脸",
+      "onboard_time": 1724471719,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1240,6 +1360,14 @@
       "word": "我国首个海上采油平台5.5G站点",
       "onboard_time": 1724422101,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35029,
+      "num": 451297,
+      "word": "印度女医生案监控画面曝光",
+      "onboard_time": 1724473220,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
