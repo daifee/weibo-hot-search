@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724510133174,
+  "endTime": 1724512825512,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -1427,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1312619,
+      "num": 1060271,
+      "word": "印度女医生奸杀案嫌疑人当庭翻供",
+      "onboard_time": 1724509701,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1309525,
       "num": 1309525,
       "word": "韩国快递员爬5层楼后暴力摔电脑",
@@ -1947,6 +1955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1070261,
+      "num": 1070261,
+      "word": "黑神话悟空杨戬演员回应撞脸张翰",
+      "onboard_time": 1724508502,
+      "rank": 18,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 1069787,
       "num": 1069787,
       "word": "通关黑神话悟空可免费游花果山",
@@ -2059,6 +2075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1033962,
+      "num": 1033962,
+      "word": "WBG战胜TES",
+      "onboard_time": 1724511323,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1032668,
       "num": 1032668,
       "word": "菩提祖师才是悟空唯一的师傅",
@@ -2113,6 +2137,14 @@
       "onboard_time": 1723966459,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1022520,
+      "num": 1022520,
+      "word": "央视曝回流药黑色产业链",
+      "onboard_time": 1724508922,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1021199,
@@ -2771,6 +2803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 849255,
+      "num": 849255,
+      "word": "孙颖莎去了邓紫棋演唱会",
+      "onboard_time": 1724511742,
+      "rank": 8,
+      "category": "体育,演出"
+    },
+    {
       "raw_hot": 849063,
       "num": 849063,
       "word": "间谍借助学之名怂恿大山孩子窃密",
@@ -2809,6 +2849,14 @@
       "onboard_time": 1724505383,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 839359,
+      "num": 839359,
+      "word": "樊振东 北京大满贯",
+      "onboard_time": 1724510962,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 838042,
@@ -2905,6 +2953,14 @@
       "onboard_time": 1724220740,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 814115,
+      "num": 814115,
+      "word": "张雪峰女儿名字的含义",
+      "onboard_time": 1724507122,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 813277,
@@ -3835,6 +3891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 632573,
+      "num": 632573,
+      "word": "WBG晋级夏决",
+      "onboard_time": 1724511802,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 632267,
       "num": 632267,
       "word": "特朗普再遭死亡威胁",
@@ -4299,14 +4363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 582927,
-      "num": 582927,
-      "word": "黑神话悟空杨戬演员回应撞脸张翰",
-      "onboard_time": 1724508502,
-      "rank": 18,
-      "category": "游戏,艺人"
-    },
-    {
       "raw_hot": 582456,
       "num": 582456,
       "word": "检察院回应小孩骑行被碾压身亡",
@@ -4377,14 +4433,6 @@
       "onboard_time": 1723893499,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 570853,
-      "num": 570853,
-      "word": "张雪峰女儿名字的含义",
-      "onboard_time": 1724507122,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 568932,
@@ -4529,6 +4577,14 @@
       "onboard_time": 1723899201,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 554876,
+      "num": 554876,
+      "word": "TES",
+      "onboard_time": 1724497220,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 552451,
@@ -5867,6 +5923,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 408610,
+      "num": 408610,
+      "word": "TES对战WBG",
+      "onboard_time": 1724496679,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 407918,
       "num": 407918,
       "word": "猫妈妈把崽子叼到门口排成一排",
@@ -6201,6 +6265,14 @@
       "onboard_time": 1724053459,
       "rank": 16,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 378987,
+      "num": 378987,
+      "word": "樊振东退赛",
+      "onboard_time": 1724512282,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 378976,
@@ -7051,6 +7123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 330976,
+      "num": 330976,
+      "word": "人竟然可以幸福到这种程度",
+      "onboard_time": 1724508742,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 330469,
       "num": 508845,
       "word": "基层很忙为何群众不买账",
@@ -7819,6 +7899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 293644,
+      "num": 293644,
+      "word": "WBG获胜",
+      "onboard_time": 1724493799,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 293108,
       "num": 293108,
       "word": "在姚明面前汪顺也是小手办",
@@ -8025,6 +8113,14 @@
       "onboard_time": 1724231719,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 287288,
+      "num": 287288,
+      "word": "王一博舞台转圈",
+      "onboard_time": 1724511203,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 287069,
@@ -8403,6 +8499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275065,
+      "num": 275065,
+      "word": "游客闯进全红婵爷爷家被微笑劝退",
+      "onboard_time": 1724510241,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 275039,
       "num": 275039,
       "word": "何炅 不要觉得内向的性格就不好",
@@ -8465,14 +8569,6 @@
       "onboard_time": 1723947737,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 273404,
-      "num": 273404,
-      "word": "TES对战WBG",
-      "onboard_time": 1724496679,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 272336,
@@ -8673,14 +8769,6 @@
       "onboard_time": 1724037141,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 267106,
-      "num": 267106,
-      "word": "WBG获胜",
-      "onboard_time": 1724493799,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 266780,
@@ -9387,14 +9475,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 248610,
-      "num": 281671,
-      "word": "印度女医生奸杀案嫌疑人当庭翻供",
-      "onboard_time": 1724509701,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 248465,
       "num": 248465,
       "word": "王楚钦肖指导总结大会合照",
@@ -9763,14 +9843,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 240294,
-      "num": 240294,
-      "word": "央视曝回流药黑色产业链",
-      "onboard_time": 1724508922,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 240192,
       "num": 240192,
       "word": "多位博主发声质疑黑神话悟空抄袭",
@@ -10035,6 +10107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234548,
+      "num": 234548,
+      "word": "周深对杨幂唱爱的供养",
+      "onboard_time": 1724510241,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 234543,
       "num": 234543,
       "word": "加沙一母亲和6个孩子被炸死",
@@ -10283,6 +10363,14 @@
       "category": "游戏,电影"
     },
     {
+      "raw_hot": 229752,
+      "num": 229752,
+      "word": "印度奸杀案双方父母都认为嫌疑人是替罪羊",
+      "onboard_time": 1724511381,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229682,
       "num": 229682,
       "word": "月饼口味有鄙视链吗",
@@ -10401,6 +10489,14 @@
       "onboard_time": 1724298860,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 227142,
+      "num": 227142,
+      "word": "夫妻离婚争13只乌龟抚养权",
+      "onboard_time": 1724512643,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227031,
@@ -10553,6 +10649,14 @@
       "onboard_time": 1724251641,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 224375,
+      "num": 224375,
+      "word": "陈伟霆在邓紫棋演唱会比心",
+      "onboard_time": 1724512402,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 224344,
@@ -10939,6 +11043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217206,
+      "num": 217206,
+      "word": "徐海乔的腰",
+      "onboard_time": 1724511083,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217181,
       "num": 217181,
       "word": "浙大开学机器狗帮新生拿行李",
@@ -11187,6 +11299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213379,
+      "num": 213379,
+      "word": "幻贺 最后一舞",
+      "onboard_time": 1724512341,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 213332,
       "num": 213332,
       "word": "王一博 松弛感",
@@ -11361,14 +11481,6 @@
       "onboard_time": 1724214741,
       "rank": 13,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 210365,
-      "num": 210365,
-      "word": "人竟然可以幸福到这种程度",
-      "onboard_time": 1724508742,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 210114,
@@ -12321,6 +12433,14 @@
       "onboard_time": 1724506461,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 199473,
+      "num": 199473,
+      "word": "丁程鑫和全场粉丝自拍",
+      "onboard_time": 1724512222,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 199425,
@@ -13673,14 +13793,6 @@
       "onboard_time": 1724390301,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 184602,
-      "num": 184602,
-      "word": "TES",
-      "onboard_time": 1724497220,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 184565,
@@ -18715,6 +18827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71993,
+      "num": 1542291,
+      "word": "渤海油气开发新突破",
+      "onboard_time": 1724508622,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 71855,
       "num": 440345,
       "word": "葛优王俊凯跟唱爱江山更爱美人",
@@ -18977,14 +19097,6 @@
       "onboard_time": 1724418021,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 63561,
-      "num": 1542291,
-      "word": "渤海油气开发新突破",
-      "onboard_time": 1724508622,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 63403,
@@ -19505,6 +19617,14 @@
       "onboard_time": 1724389222,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51819,
+      "num": 498606,
+      "word": "贾玲现身北京活动",
+      "onboard_time": 1724510721,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 51743,

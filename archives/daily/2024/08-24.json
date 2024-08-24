@@ -1,6 +1,6 @@
 {
   "startTime": 1724430385634,
-  "endTime": 1724510133174,
+  "endTime": 1724512825512,
   "band_list": [
     {
       "raw_hot": 2529436,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1312619,
+      "num": 1060271,
+      "word": "印度女医生奸杀案嫌疑人当庭翻供",
+      "onboard_time": 1724509701,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1295368,
       "num": 1295368,
       "word": "何蓝逗 乐华害我",
@@ -227,6 +235,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1070261,
+      "num": 1070261,
+      "word": "黑神话悟空杨戬演员回应撞脸张翰",
+      "onboard_time": 1724508502,
+      "rank": 18,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 1065521,
       "num": 1065521,
       "word": "董宇辉李娟访谈疑似不同频",
@@ -243,11 +259,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1033962,
+      "num": 1033962,
+      "word": "WBG战胜TES",
+      "onboard_time": 1724511323,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1027070,
       "num": 1027070,
       "word": "月嫂烫伤出生27天婴儿",
       "onboard_time": 1724491820,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1022520,
+      "num": 1022520,
+      "word": "央视曝回流药黑色产业链",
+      "onboard_time": 1724508922,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -371,12 +403,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 849255,
+      "num": 849255,
+      "word": "孙颖莎去了邓紫棋演唱会",
+      "onboard_time": 1724511742,
+      "rank": 8,
+      "category": "体育,演出"
+    },
+    {
       "raw_hot": 843354,
       "num": 843354,
       "word": "女子美甲致真菌感染治疗花费近万元",
       "onboard_time": 1724505383,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 839359,
+      "num": 839359,
+      "word": "樊振东 北京大满贯",
+      "onboard_time": 1724510962,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 838042,
@@ -401,6 +449,14 @@
       "onboard_time": 1724430259,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 814115,
+      "num": 814115,
+      "word": "张雪峰女儿名字的含义",
+      "onboard_time": 1724507122,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 809983,
@@ -539,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 632573,
+      "num": 632573,
+      "word": "WBG晋级夏决",
+      "onboard_time": 1724511802,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 628921,
       "num": 628921,
       "word": "王昶林高远你俩要考研啊",
@@ -611,14 +675,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 582927,
-      "num": 582927,
-      "word": "黑神话悟空杨戬演员回应撞脸张翰",
-      "onboard_time": 1724508502,
-      "rank": 18,
-      "category": "游戏,艺人"
-    },
-    {
       "raw_hot": 579158,
       "num": 579158,
       "word": "全红婵因劳损跳水前要花半小时绑绷带",
@@ -633,14 +689,6 @@
       "onboard_time": 1724472259,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 570853,
-      "num": 570853,
-      "word": "张雪峰女儿名字的含义",
-      "onboard_time": 1724507122,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 564485,
@@ -673,6 +721,14 @@
       "onboard_time": 1724500159,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 554876,
+      "num": 554876,
+      "word": "TES",
+      "onboard_time": 1724497220,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 543216,
@@ -883,6 +939,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 408610,
+      "num": 408610,
+      "word": "TES对战WBG",
+      "onboard_time": 1724496679,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 406828,
       "num": 469842,
       "word": "吴宣仪好长的腿",
@@ -929,6 +993,14 @@
       "onboard_time": 1724505321,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 378987,
+      "num": 378987,
+      "word": "樊振东退赛",
+      "onboard_time": 1724512282,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 377163,
@@ -1016,6 +1088,14 @@
       "word": "30岁还没结婚的人都是什么理由",
       "onboard_time": 1724475021,
       "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 330976,
+      "num": 330976,
+      "word": "人竟然可以幸福到这种程度",
+      "onboard_time": 1724508742,
+      "rank": 43,
       "category": "情感"
     },
     {
@@ -1131,6 +1211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 293644,
+      "num": 293644,
+      "word": "WBG获胜",
+      "onboard_time": 1724493799,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 292462,
       "num": 292462,
       "word": "袁咏仪曝儿子想谈恋爱",
@@ -1153,6 +1241,14 @@
       "onboard_time": 1724464638,
       "rank": 44,
       "category": "社会新闻,社会正能量"
+    },
+    {
+      "raw_hot": 287288,
+      "num": 287288,
+      "word": "王一博舞台转圈",
+      "onboard_time": 1724511203,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 286745,
@@ -1219,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275065,
+      "num": 275065,
+      "word": "游客闯进全红婵爷爷家被微笑劝退",
+      "onboard_time": 1724510241,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 274803,
       "num": 274803,
       "word": "刺猬票房",
@@ -1233,14 +1337,6 @@
       "onboard_time": 1724507421,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 273404,
-      "num": 273404,
-      "word": "TES对战WBG",
-      "onboard_time": 1724496679,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 270781,
@@ -1281,14 +1377,6 @@
       "onboard_time": 1724503821,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 267106,
-      "num": 267106,
-      "word": "WBG获胜",
-      "onboard_time": 1724493799,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 266178,
@@ -1435,14 +1523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 248610,
-      "num": 281671,
-      "word": "印度女医生奸杀案嫌疑人当庭翻供",
-      "onboard_time": 1724509701,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 247534,
       "num": 247534,
       "word": "樊振东国家队12年获112个冠军",
@@ -1531,14 +1611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 240294,
-      "num": 240294,
-      "word": "央视曝回流药黑色产业链",
-      "onboard_time": 1724508922,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 239491,
       "num": 239491,
       "word": "张碧晨陈昊宇包售后的",
@@ -1571,6 +1643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234548,
+      "num": 234548,
+      "word": "周深对杨幂唱爱的供养",
+      "onboard_time": 1724510241,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 233908,
       "num": 211859,
       "word": "代号鸢新密探",
@@ -1595,6 +1675,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 229752,
+      "num": 229752,
+      "word": "印度奸杀案双方父母都认为嫌疑人是替罪羊",
+      "onboard_time": 1724511381,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229615,
       "num": 347978,
       "word": "嗨放派国家二级运动员占了一半",
@@ -1608,6 +1696,14 @@
       "word": "泰国失事飞机没有黑匣子",
       "onboard_time": 1724470518,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227142,
+      "num": 227142,
+      "word": "夫妻离婚争13只乌龟抚养权",
+      "onboard_time": 1724512643,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -1641,6 +1737,14 @@
       "onboard_time": 1724507484,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224375,
+      "num": 224375,
+      "word": "陈伟霆在邓紫棋演唱会比心",
+      "onboard_time": 1724512402,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 224344,
@@ -1763,6 +1867,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 217206,
+      "num": 217206,
+      "word": "徐海乔的腰",
+      "onboard_time": 1724511083,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214042,
       "num": 214042,
       "word": "刺猬repo",
@@ -1777,6 +1889,14 @@
       "onboard_time": 1724477420,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 213379,
+      "num": 213379,
+      "word": "幻贺 最后一舞",
+      "onboard_time": 1724512341,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 211701,
@@ -1809,14 +1929,6 @@
       "onboard_time": 1724498060,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 210365,
-      "num": 210365,
-      "word": "人竟然可以幸福到这种程度",
-      "onboard_time": 1724508742,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 208974,
@@ -1929,6 +2041,14 @@
       "onboard_time": 1724506461,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 199473,
+      "num": 199473,
+      "word": "丁程鑫和全场粉丝自拍",
+      "onboard_time": 1724512222,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 199221,
@@ -2137,14 +2257,6 @@
       "onboard_time": 1724498480,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 184602,
-      "num": 184602,
-      "word": "TES",
-      "onboard_time": 1724497220,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 184226,
@@ -3035,6 +3147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71993,
+      "num": 1542291,
+      "word": "渤海油气开发新突破",
+      "onboard_time": 1724508622,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 68670,
       "num": 90071,
       "word": "黑泽良平模仿林志玲",
@@ -3097,14 +3217,6 @@
       "onboard_time": 1724467820,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 63561,
-      "num": 1542291,
-      "word": "渤海油气开发新突破",
-      "onboard_time": 1724508622,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 60984,
@@ -3185,6 +3297,14 @@
       "onboard_time": 1724485820,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51819,
+      "num": 498606,
+      "word": "贾玲现身北京活动",
+      "onboard_time": 1724510721,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 51490,
