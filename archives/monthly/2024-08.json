@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1724509121432,
+  "endTime": 1724510133174,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -8619,6 +8619,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1447797,
+      "num": 640212,
+      "word": "贾玲 拍完了给我p一下",
+      "onboard_time": 1724506402,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1446783,
       "num": 1446783,
       "word": "樊振东巴黎不管结果如何我还是我",
@@ -8945,14 +8953,6 @@
       "onboard_time": 1724069721,
       "rank": 15,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1414148,
-      "num": 640212,
-      "word": "贾玲 拍完了给我p一下",
-      "onboard_time": 1724506402,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 1413098,
@@ -11396,7 +11396,7 @@
     },
     {
       "raw_hot": 1155452,
-      "num": 631936,
+      "num": 709968,
       "word": "王一博新歌舞台",
       "onboard_time": 1724506162,
       "rank": 12,
@@ -15649,6 +15649,14 @@
       "onboard_time": 1723433181,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 843354,
+      "num": 843354,
+      "word": "女子美甲致真菌感染治疗花费近万元",
+      "onboard_time": 1724505383,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 842907,
@@ -20532,7 +20540,7 @@
     },
     {
       "raw_hot": 607061,
-      "num": 490466,
+      "num": 494988,
       "word": "张雪峰写给汪涵的信只有三个字",
       "onboard_time": 1724504661,
       "rank": 30,
@@ -20817,14 +20825,6 @@
       "onboard_time": 1723119083,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 597475,
-      "num": 597475,
-      "word": "女子美甲致真菌感染治疗花费近万元",
-      "onboard_time": 1724505383,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 597130,
@@ -21267,6 +21267,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 582927,
+      "num": 582927,
+      "word": "黑神话悟空杨戬演员回应撞脸张翰",
+      "onboard_time": 1724508502,
+      "rank": 18,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 582851,
       "num": 750208,
       "word": "王俊凯 好尴尬先插个兜",
@@ -21561,6 +21569,14 @@
       "onboard_time": 1723713861,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 570853,
+      "num": 570853,
+      "word": "张雪峰女儿名字的含义",
+      "onboard_time": 1724507122,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 569045,
@@ -27379,6 +27395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 412490,
+      "num": 345136,
+      "word": "刘耀文严浩翔loverboy88",
+      "onboard_time": 1724508321,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 412462,
       "num": 412462,
       "word": "男子海边救人后说要谢就谢任贤齐",
@@ -28208,14 +28232,6 @@
       "word": "向佐淘汰",
       "onboard_time": 1723873640,
       "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 398190,
-      "num": 398190,
-      "word": "张雪峰女儿名字的含义",
-      "onboard_time": 1724507122,
-      "rank": 25,
       "category": "综艺"
     },
     {
@@ -30867,14 +30883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 354316,
-      "num": 415100,
-      "word": "黑神话悟空杨戬演员回应撞脸张翰",
-      "onboard_time": 1724508502,
-      "rank": 18,
-      "category": "游戏,艺人"
-    },
-    {
       "raw_hot": 354303,
       "num": 859659,
       "word": "凉山公安公开缉捕30名在逃人员",
@@ -31563,14 +31571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 345136,
-      "num": 345136,
-      "word": "刘耀文严浩翔loverboy88",
-      "onboard_time": 1724508321,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
       "raw_hot": 345048,
       "num": 345048,
       "word": "张弛 眉眼间毫无丹青之意",
@@ -32057,6 +32057,14 @@
       "onboard_time": 1723605501,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 337984,
+      "num": 323402,
+      "word": "陈昊宇野子现场",
+      "onboard_time": 1724508381,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 337927,
@@ -33297,6 +33305,14 @@
       "onboard_time": 1723795103,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 322246,
+      "num": 322246,
+      "word": "断骨增高的人没有一天不后悔",
+      "onboard_time": 1724505200,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 322016,
@@ -41651,6 +41667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 248610,
+      "num": 281671,
+      "word": "印度女医生奸杀案嫌疑人当庭翻供",
+      "onboard_time": 1724509701,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248465,
       "num": 248465,
       "word": "王楚钦肖指导总结大会合照",
@@ -41809,14 +41833,6 @@
       "onboard_time": 1724148920,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 246991,
-      "num": 246991,
-      "word": "陈昊宇野子现场",
-      "onboard_time": 1724508381,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 246919,
@@ -42291,6 +42307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243713,
+      "num": 243713,
+      "word": "韩剧妈妈朋友的儿子",
+      "onboard_time": 1724509522,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 243686,
       "num": 585426,
       "word": "王安宇上花少后怀疑自己情绪不稳定",
@@ -42673,6 +42697,14 @@
       "onboard_time": 1723820123,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 240294,
+      "num": 240294,
+      "word": "央视曝回流药黑色产业链",
+      "onboard_time": 1724508922,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 240282,
@@ -46003,6 +46035,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 219347,
+      "num": 219347,
+      "word": "王俊凯 骨子里的狠劲儿",
+      "onboard_time": 1724509344,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 219334,
       "num": 219334,
       "word": "樊振东未来一定更好",
@@ -46049,6 +46089,14 @@
       "onboard_time": 1722663202,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 219261,
+      "num": 219261,
+      "word": "2024PEL",
+      "onboard_time": 1723418901,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 219226,
@@ -47393,14 +47441,6 @@
       "onboard_time": 1723553541,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 212326,
-      "num": 212326,
-      "word": "断骨增高的人没有一天不后悔",
-      "onboard_time": 1724505200,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 212289,
@@ -49459,6 +49499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203901,
+      "num": 203901,
+      "word": "严浩翔 咖喱贝",
+      "onboard_time": 1724509760,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 203900,
       "num": 579035,
       "word": "韩国人说中国人会分身术",
@@ -49953,6 +50001,14 @@
       "onboard_time": 1723793363,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 202067,
+      "num": 202067,
+      "word": "宋亚轩在手心里画了爱心",
+      "onboard_time": 1724508983,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 202013,
@@ -51275,14 +51331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197157,
-      "num": 197157,
-      "word": "2024PEL",
-      "onboard_time": 1723418901,
-      "rank": 48,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 197142,
       "num": 363040,
       "word": "今夕赫夕",
@@ -51689,6 +51737,14 @@
       "onboard_time": 1723353500,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195747,
+      "num": 195747,
+      "word": "张碧晨巡演厦门站",
+      "onboard_time": 1724509222,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 195717,
@@ -52737,6 +52793,14 @@
       "onboard_time": 1724056221,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191766,
+      "num": 202084,
+      "word": "杨紫裙摆盛下初秋温柔",
+      "onboard_time": 1724509344,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 191755,
@@ -53945,14 +54009,6 @@
       "onboard_time": 1723984640,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 187089,
-      "num": 189966,
-      "word": "宋亚轩在手心里画了爱心",
-      "onboard_time": 1724508983,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 187085,
@@ -66051,6 +66107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80971,
+      "num": 412357,
+      "word": "酒驾被查爸爸成女儿反面教材",
+      "onboard_time": 1724508022,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80909,
       "num": 531895,
       "word": "一座睡城与虹桥机场的噪音纠葛",
@@ -67665,6 +67729,14 @@
       "onboard_time": 1723786403,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63561,
+      "num": 1542291,
+      "word": "渤海油气开发新突破",
+      "onboard_time": 1724508622,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 63475,
@@ -70009,14 +70081,6 @@
       "onboard_time": 1724436434,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 45439,
-      "num": 412357,
-      "word": "酒驾被查爸爸成女儿反面教材",
-      "onboard_time": 1724508022,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 45415,
@@ -72451,12 +72515,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27286,
-      "num": 1542291,
-      "word": "渤海油气开发新突破",
-      "onboard_time": 1724508622,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 27179,
+      "num": 590956,
+      "word": "CityRide为啥火了",
+      "onboard_time": 1724488700,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27109,
@@ -73328,14 +73392,6 @@
       "word": "请君只看洛阳城",
       "onboard_time": 1723727420,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16216,
-      "num": 590956,
-      "word": "CityRide为啥火了",
-      "onboard_time": 1724488700,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
