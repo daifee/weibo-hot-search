@@ -1,0 +1,410 @@
+{
+  "runTime": 1724542522065,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 590373,
+        "num": 889529,
+        "word": "樊振东退赛",
+        "onboard_time": 1724512282,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 479123,
+        "num": 479123,
+        "word": "黑神话悟空杨戬演员回应撞脸张翰",
+        "onboard_time": 1724508502,
+        "rank": 1,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 39069,
+        "num": 455873,
+        "word": "渤海油气开发新突破",
+        "onboard_time": 1724508622,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 453915,
+        "num": 453915,
+        "word": "为何这些丑东西成了年轻人的心头好",
+        "onboard_time": 1724526132,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309182,
+        "num": 309182,
+        "word": "游客闯进全红婵爷爷家被微笑劝退",
+        "onboard_time": 1724510241,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228284,
+        "num": 228284,
+        "word": "央视曝回流药黑色产业链",
+        "onboard_time": 1724508922,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221513,
+        "num": 221513,
+        "word": "杨紫工作室 审美",
+        "onboard_time": 1724513841,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 221160,
+        "num": 221160,
+        "word": "我国天文学家发现被黑洞撕裂2次的恒星",
+        "onboard_time": 1724522414,
+        "rank": 7,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 217539,
+        "num": 217539,
+        "word": "王俊凯 出去别说是我粉丝",
+        "onboard_time": 1724517738,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22496,
+        "num": 213178,
+        "word": "钓鱼佬甩竿救出水中落难鸵鸟",
+        "onboard_time": 1724539274,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210930,
+        "num": 210930,
+        "word": "大一新生骑行1328公里北大报到",
+        "onboard_time": 1724507242,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195400,
+        "num": 195400,
+        "word": "女子坐拥87套房被查封待拍卖",
+        "onboard_time": 1724490020,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153083,
+        "num": 153083,
+        "word": "黄宗泽回应与蔡洁绯闻",
+        "onboard_time": 1724540053,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146028,
+        "num": 146028,
+        "word": "王一博 绿海",
+        "onboard_time": 1724506522,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141799,
+        "num": 141799,
+        "word": "今年中秋国庆的假期好像很复杂",
+        "onboard_time": 1724535912,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138261,
+        "num": 138261,
+        "word": "印度奸杀案双方父母都认为嫌疑人是替罪羊",
+        "onboard_time": 1724511381,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131930,
+        "num": 131930,
+        "word": "孙颖莎去了邓紫棋演唱会",
+        "onboard_time": 1724511742,
+        "rank": 16,
+        "category": "体育,演出"
+      },
+      {
+        "raw_hot": 125012,
+        "num": 125012,
+        "word": "张昊唯和伪造聊天记录发小已和解",
+        "onboard_time": 1724501721,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119409,
+        "num": 119409,
+        "word": "郭艾伦加盟广州",
+        "onboard_time": 1724497698,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119245,
+        "num": 119245,
+        "word": "乐华 业务能力",
+        "onboard_time": 1724503579,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 263357,
+        "num": 119022,
+        "word": "印度女医生奸杀案嫌疑人当庭翻供",
+        "onboard_time": 1724509701,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118602,
+        "num": 118602,
+        "word": "被中国唯一海洋民族传统服饰美到了",
+        "onboard_time": 1724519418,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113435,
+        "num": 113435,
+        "word": "蒋奇明 这碗饭终于是吃上了",
+        "onboard_time": 1724540473,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113274,
+        "num": 113274,
+        "word": "男子内裤里藏3只甲虫入境被查",
+        "onboard_time": 1724489601,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109872,
+        "num": 109872,
+        "word": "猫咪被锁喉后宝宝因抱不动大哭",
+        "onboard_time": 1724542275,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108328,
+        "num": 108328,
+        "word": "15岁女孩跨省看完演唱会身上只剩3毛",
+        "onboard_time": 1724542035,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106655,
+        "num": 106655,
+        "word": "花八千培训养老护理师求职时成废纸",
+        "onboard_time": 1724535552,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105134,
+        "num": 105134,
+        "word": "檀健次跟爱奇艺道歉",
+        "onboard_time": 1724504723,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95123,
+        "num": 95123,
+        "word": "醉酒男子看邻座不顺眼打人",
+        "onboard_time": 1724531831,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92811,
+        "num": 92811,
+        "word": "王一博新歌舞台",
+        "onboard_time": 1724506162,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 92224,
+        "num": 92224,
+        "word": "樊振东 北京大满贯",
+        "onboard_time": 1724510962,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88250,
+        "num": 88250,
+        "word": "夫妻离婚争13只乌龟抚养权",
+        "onboard_time": 1724512643,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78219,
+        "num": 78219,
+        "word": "断骨增高的人没有一天不后悔",
+        "onboard_time": 1724505200,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 77685,
+        "num": 77685,
+        "word": "马立奥忘年交",
+        "onboard_time": 1724540414,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74571,
+        "num": 74571,
+        "word": "杨幂对周深说少管我",
+        "onboard_time": 1724516899,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 71607,
+        "num": 71607,
+        "word": "央视曝光的多家脏乱外卖停业整改",
+        "onboard_time": 1724527271,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68943,
+        "num": 68943,
+        "word": "女子美甲致真菌感染治疗花费近万元",
+        "onboard_time": 1724505383,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66209,
+        "num": 66209,
+        "word": "张镇麟发博",
+        "onboard_time": 1724541795,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63148,
+        "num": 63148,
+        "word": "冯骥 离职是最好的医美",
+        "onboard_time": 1724503939,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 62099,
+        "num": 62099,
+        "word": "原来小猫还不会盖被子",
+        "onboard_time": 1724542336,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61784,
+        "num": 61784,
+        "word": "久坐3小时心脏就会减少泵血",
+        "onboard_time": 1724542035,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 61215,
+        "num": 61215,
+        "word": "张大仙说黑神话好玩到吐",
+        "onboard_time": 1724540774,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 60504,
+        "num": 60504,
+        "word": "睡前妄想症",
+        "onboard_time": 1724513601,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60264,
+        "num": 60264,
+        "word": "蒋奇明好帅",
+        "onboard_time": 1724513302,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58711,
+        "num": 60121,
+        "word": "Angelababy带小海绵游玩迪士尼",
+        "onboard_time": 1724501180,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53814,
+        "num": 59931,
+        "word": "广西民警为救落水者牺牲",
+        "onboard_time": 1724496258,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51245,
+        "num": 59840,
+        "word": "陈昊宇野子现场",
+        "onboard_time": 1724508381,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 51038,
+        "num": 59697,
+        "word": "孟美岐 沙漠姬",
+        "onboard_time": 1724502381,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 50220,
+        "num": 59467,
+        "word": "乐华家族演唱会",
+        "onboard_time": 1724487440,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 45845,
+        "num": 59262,
+        "word": "王一博说已回酒店",
+        "onboard_time": 1724514382,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习新语#"
+    }
+  }
+}
