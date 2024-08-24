@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724519928973,
+  "endTime": 1724520889435,
   "band_list": [
     {
       "raw_hot": 2141711,
@@ -107,8 +107,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 419505,
-      "num": 419505,
+      "raw_hot": 447332,
+      "num": 447332,
       "word": "王俊凯 出去别说是我粉丝",
       "onboard_time": 1724517738,
       "rank": 4,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234922,
+      "num": 234922,
+      "word": "广西民警为救落水者牺牲",
+      "onboard_time": 1724496258,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231438,
       "num": 231438,
       "word": "Zoom 拿下",
@@ -217,14 +225,6 @@
       "onboard_time": 1724502381,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 216806,
-      "num": 216806,
-      "word": "广西民警为救落水者牺牲",
-      "onboard_time": 1724496258,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211234,
@@ -419,8 +419,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122680,
-      "num": 122680,
+      "raw_hot": 126744,
+      "num": 224288,
       "word": "被中国唯一海洋民族传统服饰美到了",
       "onboard_time": 1724519418,
       "rank": 29,
@@ -448,6 +448,14 @@
       "word": "乐华 业务能力",
       "onboard_time": 1724503579,
       "rank": 38,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 89584,
+      "num": 89584,
+      "word": "TF三代登陆时刻演唱会",
+      "onboard_time": 1724520256,
+      "rank": 34,
       "category": "演出"
     },
     {
