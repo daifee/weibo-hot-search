@@ -1,7 +1,15 @@
 {
   "startTime": 1724430385634,
-  "endTime": 1724474238440,
+  "endTime": 1724476810726,
   "band_list": [
+    {
+      "raw_hot": 2462126,
+      "num": 478141,
+      "word": "印度女医生案监控画面曝光",
+      "onboard_time": 1724473220,
+      "rank": 8,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2123905,
       "num": 2123905,
@@ -25,6 +33,14 @@
       "onboard_time": 1724458517,
       "rank": 3,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1429087,
+      "num": 723429,
+      "word": "长沙女干部不雅聊天事件当事男子发声",
+      "onboard_time": 1724473098,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1295368,
@@ -171,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 822856,
+      "num": 822856,
+      "word": "孙杨首秀比赛试水",
+      "onboard_time": 1724474360,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 821173,
       "num": 821173,
       "word": "中国象棋第一人王天一被批准逮捕",
@@ -204,7 +228,7 @@
     },
     {
       "raw_hot": 705748,
-      "num": 390035,
+      "num": 423115,
       "word": "男孩女卫生间偷窥家长语出惊人",
       "onboard_time": 1724468059,
       "rank": 31,
@@ -217,14 +241,6 @@
       "onboard_time": 1724469019,
       "rank": 6,
       "category": "教育"
-    },
-    {
-      "raw_hot": 661423,
-      "num": 365729,
-      "word": "长沙女干部不雅聊天事件当事男子发声",
-      "onboard_time": 1724473098,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 628921,
@@ -267,6 +283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 546129,
+      "num": 277807,
+      "word": "四大名著为什么只不断翻拍红楼梦",
+      "onboard_time": 1724474659,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 543216,
       "num": 543216,
       "word": "印度3名男子轮奸女孩被判终身监禁",
@@ -281,6 +305,14 @@
       "onboard_time": 1724414001,
       "rank": 7,
       "category": "网红"
+    },
+    {
+      "raw_hot": 535855,
+      "num": 535855,
+      "word": "刘亦菲黄玫瑰主题生日写真",
+      "onboard_time": 1724474600,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 516679,
@@ -307,8 +339,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 469458,
-      "num": 365135,
+      "raw_hot": 485221,
+      "num": 485221,
       "word": "林依轮结婚 饿肚子的是石蕊",
       "onboard_time": 1724472981,
       "rank": 17,
@@ -379,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 372871,
+      "num": 372871,
+      "word": "毛晓彤我那个从不扫兴的朋友",
+      "onboard_time": 1724472858,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 370618,
       "num": 392371,
       "word": "长沙女干部不雅聊天记录事件当事男子发声",
@@ -427,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320785,
+      "num": 320785,
+      "word": "住房养老金",
+      "onboard_time": 1724472259,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 298546,
       "num": 270730,
       "word": "这和自己生的有什么区别",
@@ -467,6 +515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 280150,
+      "num": 280150,
+      "word": "林书豪当爸爸了",
+      "onboard_time": 1724473880,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 279607,
       "num": 279607,
       "word": "男子内急借用镇政府厕所被保安阻拦",
@@ -481,6 +537,14 @@
       "onboard_time": 1724466739,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 275547,
+      "num": 275547,
+      "word": "韩国致7死酒店火灾最新画面",
+      "onboard_time": 1724471300,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 275125,
@@ -531,6 +595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 261276,
+      "num": 261276,
+      "word": "无期迷途",
+      "onboard_time": 1724476160,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 260172,
       "num": 260172,
       "word": "郑钦文呼吁球迷宽容一点",
@@ -553,6 +625,22 @@
       "onboard_time": 1724459419,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 256105,
+      "num": 256105,
+      "word": "恋与制作人法式风情",
+      "onboard_time": 1724476340,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 251555,
+      "num": 302851,
+      "word": "边水往事的质量有多高",
+      "onboard_time": 1724475498,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 249957,
@@ -601,14 +689,6 @@
       "onboard_time": 1724469679,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 243442,
-      "num": 266811,
-      "word": "毛晓彤我那个从不扫兴的朋友",
-      "onboard_time": 1724472858,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 240959,
@@ -691,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218840,
+      "num": 218840,
+      "word": "年轻人开始去洗浴中心打游戏",
+      "onboard_time": 1724475678,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211174,
       "num": 182324,
       "word": "王一博李汶翰周艺轩年会合照",
@@ -707,20 +795,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 204314,
+      "num": 204314,
+      "word": "边水往事豆瓣开分8.1",
+      "onboard_time": 1724474899,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202013,
       "num": 202013,
       "word": "打工人去班味只要一个东西",
       "onboard_time": 1724466620,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 198121,
-      "num": 265756,
-      "word": "韩国致7死酒店火灾最新画面",
-      "onboard_time": 1724471300,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196344,
@@ -755,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189862,
+      "num": 189862,
+      "word": "花花挠心",
+      "onboard_time": 1724476039,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189621,
       "num": 227210,
       "word": "王俊凯聊私下发疯方式",
@@ -763,12 +859,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 188238,
-      "num": 188238,
-      "word": "林书豪当爸爸了",
-      "onboard_time": 1724473880,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 185596,
+      "num": 185596,
+      "word": "许嵩回应袖口进马蜂",
+      "onboard_time": 1724476279,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 185330,
+      "num": 185330,
+      "word": "57岁正是奶奶勇闯kpop的年纪",
+      "onboard_time": 1724475740,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185320,
@@ -793,6 +897,14 @@
       "onboard_time": 1724428099,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182397,
+      "num": 182397,
+      "word": "30岁还没结婚的人都是什么理由",
+      "onboard_time": 1724475021,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 180395,
@@ -827,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174467,
+      "num": 174467,
+      "word": "黑神话悟空火到了甜品界",
+      "onboard_time": 1724475560,
+      "rank": 41,
+      "category": "游戏,美食"
+    },
+    {
       "raw_hot": 174319,
       "num": 739997,
       "word": "小罗伯特肯尼迪宣布退出2024美国大选",
@@ -836,7 +956,7 @@
     },
     {
       "raw_hot": 170660,
-      "num": 170660,
+      "num": 433503,
       "word": "外卖档口粘满苍蝇的贴纸下就是炸锅",
       "onboard_time": 1724468118,
       "rank": 41,
@@ -849,6 +969,14 @@
       "onboard_time": 1724415499,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 169759,
+      "num": 169759,
+      "word": "蹦床 又上当一个",
+      "onboard_time": 1724476580,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 169452,
@@ -881,6 +1009,14 @@
       "onboard_time": 1724458578,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 162232,
+      "num": 162232,
+      "word": "为什么现在年轻人讨厌接电话",
+      "onboard_time": 1724476518,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 161375,
@@ -929,6 +1065,14 @@
       "onboard_time": 1724425580,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157903,
+      "num": 157903,
+      "word": "张弛 眉眼间毫无丹青之意",
+      "onboard_time": 1724475919,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 157194,
@@ -1001,6 +1145,14 @@
       "onboard_time": 1724456057,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 147055,
+      "num": 147055,
+      "word": "以闪亮之名",
+      "onboard_time": 1724474299,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 144981,
@@ -1097,14 +1249,6 @@
       "onboard_time": 1724422101,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 132074,
-      "num": 478141,
-      "word": "印度女医生案监控画面曝光",
-      "onboard_time": 1724473220,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123648,
@@ -1235,14 +1379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 66683,
-      "num": 305662,
-      "word": "住房养老金",
-      "onboard_time": 1724472259,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 66596,
       "num": 66596,
       "word": "马龙轻松拿捏背后击球",
@@ -1321,6 +1457,14 @@
       "onboard_time": 1724455455,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 54764,
+      "num": 237909,
+      "word": "周鸿祎称小鹏MONA做出30万体验",
+      "onboard_time": 1724475800,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 51490,
