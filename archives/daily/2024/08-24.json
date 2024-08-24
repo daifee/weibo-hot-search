@@ -1,6 +1,6 @@
 {
   "startTime": 1724430385634,
-  "endTime": 1724480844150,
+  "endTime": 1724481603085,
   "band_list": [
     {
       "raw_hot": 2529436,
@@ -35,6 +35,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1459257,
+      "num": 1459257,
+      "word": "年轻人开始去洗浴中心打游戏",
+      "onboard_time": 1724475678,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1429087,
       "num": 723429,
       "word": "长沙女干部不雅聊天事件当事男子发声",
@@ -56,14 +64,6 @@
       "word": "印度15岁放羊女孩遭轮奸",
       "onboard_time": 1724407161,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1223657,
-      "num": 1223657,
-      "word": "年轻人开始去洗浴中心打游戏",
-      "onboard_time": 1724475678,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -259,12 +259,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 631429,
+      "num": 631429,
+      "word": "长沙女干部被曝不雅聊天记录后被免职",
+      "onboard_time": 1724478860,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 628921,
       "num": 628921,
       "word": "王昶林高远你俩要考研啊",
       "onboard_time": 1724464279,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 614031,
+      "num": 614031,
+      "word": "全圆佑 密码",
+      "onboard_time": 1724479758,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 599887,
@@ -305,14 +321,6 @@
       "onboard_time": 1724465898,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 556029,
-      "num": 556029,
-      "word": "长沙女干部被曝不雅聊天记录后被免职",
-      "onboard_time": 1724478860,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 543216,
@@ -363,14 +371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 500870,
-      "num": 500870,
-      "word": "全圆佑 密码",
-      "onboard_time": 1724479758,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 485221,
       "num": 485221,
       "word": "林依轮结婚 饿肚子的是石蕊",
@@ -403,6 +403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 439282,
+      "num": 439282,
+      "word": "程潇电竞爽文照进现实",
+      "onboard_time": 1724477239,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 433653,
       "num": 471613,
       "word": "于正新签的05小生",
@@ -419,14 +427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 415345,
-      "num": 415345,
-      "word": "程潇电竞爽文照进现实",
-      "onboard_time": 1724477239,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 406828,
       "num": 469842,
       "word": "吴宣仪好长的腿",
@@ -435,12 +435,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 395325,
+      "num": 395325,
+      "word": "傅首尔 老刘已经有张硕了",
+      "onboard_time": 1724481200,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 395248,
       "num": 395248,
       "word": "蒋奇明演技",
       "onboard_time": 1724428820,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 393272,
+      "num": 393272,
+      "word": "马琳帮王曼昱弹虫子弹到刘国梁身上",
+      "onboard_time": 1724477659,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 392573,
@@ -457,14 +473,6 @@
       "onboard_time": 1724456837,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 377984,
-      "num": 377984,
-      "word": "马琳帮王曼昱弹虫子弹到刘国梁身上",
-      "onboard_time": 1724477659,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 377163,
@@ -507,6 +515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 345048,
+      "num": 345048,
+      "word": "张弛 眉眼间毫无丹青之意",
+      "onboard_time": 1724475919,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 328279,
       "num": 342747,
       "word": "陈楚生 边界感",
@@ -531,12 +547,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 306531,
-      "num": 306531,
-      "word": "张弛 眉眼间毫无丹青之意",
-      "onboard_time": 1724475919,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 322362,
+      "num": 322362,
+      "word": "王楚钦 公园大爷确实不好打",
+      "onboard_time": 1724481200,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 300744,
@@ -601,6 +617,14 @@
       "onboard_time": 1724411420,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279322,
+      "num": 279322,
+      "word": "黑神话悟空到底盘活了多少产业",
+      "onboard_time": 1724479459,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 276481,
@@ -779,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237071,
+      "num": 237071,
+      "word": "付航把周星驰逗笑了",
+      "onboard_time": 1724479398,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236637,
       "num": 236637,
       "word": "黑神话悟空 打boss攻略",
@@ -795,12 +827,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 232010,
-      "num": 232010,
-      "word": "付航把周星驰逗笑了",
-      "onboard_time": 1724479398,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 234493,
+      "num": 234493,
+      "word": "吃过锅包肉的人嘴真严啊",
+      "onboard_time": 1724480238,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 230563,
+      "num": 230563,
+      "word": "王一博眼睛瞪得像铜铃",
+      "onboard_time": 1724481139,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 229615,
@@ -859,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219377,
+      "num": 219377,
+      "word": "新西游记PD李周亨车祸去世",
+      "onboard_time": 1724480959,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213860,
       "num": 213860,
       "word": "张真源哭了还不忘饭撒",
@@ -883,12 +931,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 208545,
-      "num": 208545,
-      "word": "黑神话悟空到底盘活了多少产业",
-      "onboard_time": 1724479459,
-      "rank": 30,
-      "category": "游戏"
+      "raw_hot": 206916,
+      "num": 206916,
+      "word": "韩国一面包车与大巴车相撞致5死9伤",
+      "onboard_time": 1724480780,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204314,
@@ -913,6 +961,14 @@
       "onboard_time": 1724476279,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 199221,
+      "num": 199221,
+      "word": "刘亦菲花朵裙装",
+      "onboard_time": 1724481078,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 196344,
@@ -1011,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182094,
+      "num": 182094,
+      "word": "杨笠回来了",
+      "onboard_time": 1724480360,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180395,
       "num": 180395,
       "word": "时代少年团官宣战至巅峰3",
@@ -1099,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167942,
+      "num": 167942,
+      "word": "林大厨进一次冰柜虞书欣记一辈子",
+      "onboard_time": 1724481259,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166633,
       "num": 166633,
       "word": "战至巅峰3热血开赛",
@@ -1139,6 +1211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160155,
+      "num": 160155,
+      "word": "广西一男子造谣诋毁吴艳妮被行拘",
+      "onboard_time": 1724481020,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159718,
       "num": 159718,
       "word": "电视剧春风化雨定档",
@@ -1169,6 +1249,14 @@
       "onboard_time": 1724425580,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157726,
+      "num": 157726,
+      "word": "美国5岁男童意外开枪打死自己",
+      "onboard_time": 1724481498,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157194,
@@ -1212,7 +1300,7 @@
     },
     {
       "raw_hot": 154974,
-      "num": 154974,
+      "num": 160266,
       "word": "潘玮柏最多的一次吃了七碗饭",
       "onboard_time": 1724479998,
       "rank": 39,
@@ -1259,22 +1347,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 148812,
-      "num": 148812,
-      "word": "吃过锅包肉的人嘴真严啊",
-      "onboard_time": 1724480238,
-      "rank": 42,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 148323,
-      "num": 148323,
-      "word": "杨笠回来了",
-      "onboard_time": 1724480360,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 147275,
       "num": 147275,
       "word": "中医提醒饿瘦不如补瘦",
@@ -1289,6 +1361,14 @@
       "onboard_time": 1724474299,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 146804,
+      "num": 146804,
+      "word": "樊振东拟获白玉兰杰出成就奖",
+      "onboard_time": 1724480719,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 145845,
@@ -1313,14 +1393,6 @@
       "onboard_time": 1724478980,
       "rank": 46,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 145441,
-      "num": 145441,
-      "word": "韩国一面包车与大巴车相撞致5死9伤",
-      "onboard_time": 1724480780,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 144981,
@@ -1443,6 +1515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 121298,
+      "num": 615431,
+      "word": "不自律以后我再也不焦虑了",
+      "onboard_time": 1724479819,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118692,
       "num": 131909,
       "word": "没人管得了不想退押金的房东吗",
@@ -1464,6 +1544,14 @@
       "word": "张晚意瀑布哭戏",
       "onboard_time": 1724428519,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 108681,
+      "num": 310632,
+      "word": "谁懂丁禹兮抬头的这一瞬间",
+      "onboard_time": 1724481440,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -1515,12 +1603,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 85326,
-      "num": 506680,
-      "word": "不自律以后我再也不焦虑了",
-      "onboard_time": 1724479819,
-      "rank": 7,
+      "raw_hot": 77980,
+      "num": 490909,
+      "word": "韩国京畿道交通事故3名中国人罹难",
+      "onboard_time": 1724479939,
+      "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77719,
+      "num": 210419,
+      "word": "住房养老金谁来交",
+      "onboard_time": 1724480059,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 75512,
@@ -1659,11 +1755,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 49602,
-      "num": 210419,
-      "word": "住房养老金谁来交",
-      "onboard_time": 1724480059,
-      "rank": 29,
+      "raw_hot": 49167,
+      "num": 309428,
+      "word": "22城试点住房养老金",
+      "onboard_time": 1724480539,
+      "rank": 19,
       "category": "财经"
     },
     {
@@ -1683,20 +1779,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 45599,
+      "num": 817423,
+      "word": "预拨5000万支持辽宁防汛救灾",
+      "onboard_time": 1724479219,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45453,
       "num": 45453,
       "word": "王楚钦眼中马龙队长是怎样的存在",
       "onboard_time": 1724436434,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 44452,
-      "num": 490909,
-      "word": "韩国京畿道交通事故3名中国人罹难",
-      "onboard_time": 1724479939,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44016,
@@ -1752,14 +1848,6 @@
       "word": "年轻人开始卷1L装饮料",
       "onboard_time": 1724477119,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35789,
-      "num": 817423,
-      "word": "预拨5000万支持辽宁防汛救灾",
-      "onboard_time": 1724479219,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1819,12 +1907,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17939,
-      "num": 300847,
-      "word": "22城试点住房养老金",
-      "onboard_time": 1724480539,
-      "rank": 19,
-      "category": "财经"
+      "raw_hot": 14846,
+      "num": 158388,
+      "word": "超级红人节里的青岛啤酒",
+      "onboard_time": 1724481440,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 7589,
