@@ -1,6 +1,6 @@
 {
   "startTime": 1724430385634,
-  "endTime": 1724467177855,
+  "endTime": 1724467732591,
   "band_list": [
     {
       "raw_hot": 2123905,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 1771153,
-      "num": 1058688,
+      "num": 1229203,
       "word": "印度4名男子轮奸低种姓女孩获刑",
       "onboard_time": 1724458517,
       "rank": 3,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1295368,
+      "num": 1295368,
+      "word": "何蓝逗 乐华害我",
+      "onboard_time": 1724464997,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1232325,
@@ -73,14 +81,6 @@
       "onboard_time": 1724423481,
       "rank": 1,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1007573,
-      "num": 1007573,
-      "word": "何蓝逗 乐华害我",
-      "onboard_time": 1724464997,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 1004939,
@@ -155,6 +155,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 630149,
+      "num": 411186,
+      "word": "性别比失衡情况下想生男孩的人会少吗",
+      "onboard_time": 1724463318,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 628921,
+      "num": 628921,
+      "word": "王昶林高远你俩要考研啊",
+      "onboard_time": 1724464279,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 599887,
       "num": 740228,
       "word": "王一博在乐华没有在乎的人了吗",
@@ -169,22 +185,6 @@
       "onboard_time": 1724418080,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 554353,
-      "num": 554353,
-      "word": "王昶林高远你俩要考研啊",
-      "onboard_time": 1724464279,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 544810,
-      "num": 411186,
-      "word": "性别比失衡情况下想生男孩的人会少吗",
-      "onboard_time": 1724463318,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 543216,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 410334,
+      "num": 294659,
+      "word": "原来金莎之前说的都是真的",
+      "onboard_time": 1724466498,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 406828,
       "num": 469842,
       "word": "吴宣仪好长的腿",
@@ -259,12 +267,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 392573,
+      "num": 345695,
+      "word": "中医建议像小猫一样生活",
+      "onboard_time": 1724455754,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 390739,
       "num": 286529,
       "word": "张大大 她都是为了你",
       "onboard_time": 1724456837,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 369018,
+      "num": 369018,
+      "word": "韩酒店火灾2人跳楼因气垫翻转遇难",
+      "onboard_time": 1724466679,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 367146,
@@ -283,28 +307,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 358957,
-      "num": 358957,
-      "word": "黑神话悟空剧情",
-      "onboard_time": 1724459898,
-      "rank": 14,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 355362,
-      "num": 355362,
+      "raw_hot": 362726,
+      "num": 451173,
       "word": "于正新签的05小生",
       "onboard_time": 1724464398,
       "rank": 16,
       "category": "艺人"
     },
     {
-      "raw_hot": 345695,
-      "num": 345695,
-      "word": "中医建议像小猫一样生活",
-      "onboard_time": 1724455754,
-      "rank": 26,
-      "category": "健康医疗"
+      "raw_hot": 358957,
+      "num": 358957,
+      "word": "黑神话悟空剧情",
+      "onboard_time": 1724459898,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 325532,
@@ -331,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 290053,
+      "num": 290053,
+      "word": "原来故意避开的人才是真的在意",
+      "onboard_time": 1724465898,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 283364,
       "num": 283364,
       "word": "何蓝逗cos佟湘玉",
@@ -345,6 +369,14 @@
       "onboard_time": 1724411420,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276481,
+      "num": 276481,
+      "word": "沙利文将访华举行新一轮中美战略沟通",
+      "onboard_time": 1724466739,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 275125,
@@ -379,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260172,
+      "num": 260172,
+      "word": "郑钦文呼吁球迷宽容一点",
+      "onboard_time": 1724463918,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 259785,
       "num": 259785,
       "word": "印度10岁女孩遭叔叔性侵后勒死",
@@ -387,20 +427,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 257907,
+      "raw_hot": 259410,
       "num": 355918,
       "word": "王力宏演唱会",
       "onboard_time": 1724459419,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 254812,
-      "num": 254812,
-      "word": "沙利文将访华举行新一轮中美战略沟通",
-      "onboard_time": 1724466739,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 248921,
@@ -409,14 +441,6 @@
       "onboard_time": 1724460919,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 248527,
-      "num": 248527,
-      "word": "郑钦文呼吁球迷宽容一点",
-      "onboard_time": 1724463918,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 245663,
@@ -441,14 +465,6 @@
       "onboard_time": 1724427441,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 237178,
-      "num": 237178,
-      "word": "原来故意避开的人才是真的在意",
-      "onboard_time": 1724465898,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 236637,
@@ -499,12 +515,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 218290,
-      "num": 218290,
-      "word": "韩酒店火灾2人跳楼因气垫翻转遇难",
-      "onboard_time": 1724466679,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 211339,
+      "num": 219430,
+      "word": "王一博听到吃蜘蛛的反应",
+      "onboard_time": 1724465181,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 211174,
@@ -515,14 +531,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 210521,
-      "num": 221348,
-      "word": "原来金莎之前说的都是真的",
-      "onboard_time": 1724466498,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 208974,
       "num": 208974,
       "word": "极品木灵根",
@@ -531,12 +539,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 205767,
-      "num": 219430,
-      "word": "王一博听到吃蜘蛛的反应",
-      "onboard_time": 1724465181,
-      "rank": 29,
-      "category": "作品衍生"
+      "raw_hot": 202013,
+      "num": 202013,
+      "word": "打工人去班味只要一个东西",
+      "onboard_time": 1724466620,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 196344,
@@ -563,20 +571,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 184226,
+      "num": 184226,
+      "word": "已有6万多吨福岛核污染水流入大海",
+      "onboard_time": 1724463619,
+      "rank": 37,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 184024,
+      "num": 184024,
+      "word": "陈楚生 边界感",
+      "onboard_time": 1724466319,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182906,
       "num": 182906,
       "word": "快乐再出发3",
       "onboard_time": 1724428099,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 180156,
-      "num": 180156,
-      "word": "打工人去班味只要一个东西",
-      "onboard_time": 1724466620,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 176527,
@@ -603,20 +619,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173645,
-      "num": 173645,
-      "word": "已有6万多吨福岛核污染水流入大海",
-      "onboard_time": 1724463619,
-      "rank": 37,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 170480,
       "num": 170480,
       "word": "刺猬 黑色幽默",
       "onboard_time": 1724415499,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 170305,
+      "num": 170305,
+      "word": "起猛了以为马龙在卖豆腐",
+      "onboard_time": 1724467278,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 168204,
@@ -643,6 +659,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159200,
+      "num": 159200,
+      "word": "严浩翔第一次拒绝粉丝",
+      "onboard_time": 1724464339,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 158337,
+      "num": 158337,
+      "word": "外媒关注中国月壤制水",
+      "onboard_time": 1724466380,
+      "rank": 40,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 158134,
       "num": 158134,
       "word": "郑钧 歌手没有专业的",
@@ -657,14 +689,6 @@
       "onboard_time": 1724426240,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 156919,
-      "num": 156919,
-      "word": "外媒关注中国月壤制水",
-      "onboard_time": 1724466380,
-      "rank": 40,
-      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 155177,
@@ -691,14 +715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153336,
-      "num": 153336,
-      "word": "严浩翔第一次拒绝粉丝",
-      "onboard_time": 1724464339,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 152371,
       "num": 152371,
       "word": "孤舟大结局",
@@ -723,6 +739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 150531,
+      "num": 150531,
+      "word": "全红婵在学校当起了跳水教练",
+      "onboard_time": 1724467519,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147275,
       "num": 147275,
       "word": "中医提醒饿瘦不如补瘦",
@@ -731,20 +755,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 145903,
-      "num": 145903,
-      "word": "陈楚生 边界感",
-      "onboard_time": 1724466319,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 144981,
       "num": 151185,
       "word": "风月不相关",
       "onboard_time": 1724458638,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142112,
+      "num": 142112,
+      "word": "中国游戏让外国玩家刮目相看",
+      "onboard_time": 1724466380,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 141278,
@@ -769,6 +793,14 @@
       "onboard_time": 1724434515,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138023,
+      "num": 138023,
+      "word": "深圳华强北出现装机热",
+      "onboard_time": 1724465898,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137940,
@@ -932,7 +964,7 @@
     },
     {
       "raw_hot": 66693,
-      "num": 1079208,
+      "num": 1255036,
       "word": "感谢救援人员带来的安全感",
       "onboard_time": 1724421621,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1724467732591,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1967732,
+        "num": 1967732,
+        "word": "17岁主播在直播间倒下送医后死亡",
+        "onboard_time": 1724461459,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1295368,
+        "num": 1295368,
+        "word": "何蓝逗 乐华害我",
+        "onboard_time": 1724464997,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12296,
+        "num": 1255036,
+        "word": "感谢救援人员带来的安全感",
+        "onboard_time": 1724421621,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1229203,
+        "num": 1229203,
+        "word": "印度4名男子轮奸低种姓女孩获刑",
+        "onboard_time": 1724458517,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1061145,
+        "num": 1061145,
+        "word": "央视新闻曝30多家外卖店执照一样",
+        "onboard_time": 1724460857,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 753307,
+        "num": 753307,
+        "word": "南科大回应教授在云南因菌子中毒失踪",
+        "onboard_time": 1724462719,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628921,
+        "num": 628921,
+        "word": "王昶林高远你俩要考研啊",
+        "onboard_time": 1724464279,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 473893,
+        "num": 473893,
+        "word": "潘展乐的事业编同事招人了",
+        "onboard_time": 1724429539,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 362726,
+        "num": 451173,
+        "word": "于正新签的05小生",
+        "onboard_time": 1724464398,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168257,
+        "num": 429866,
+        "word": "印度的性侵案为何如此频繁",
+        "onboard_time": 1724459119,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1163271,
+        "num": 407522,
+        "word": "82岁爷爷一秒识破孙子嫖娼被抓骗局",
+        "onboard_time": 1724462598,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630149,
+        "num": 389741,
+        "word": "性别比失衡情况下想生男孩的人会少吗",
+        "onboard_time": 1724463318,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369018,
+        "num": 369018,
+        "word": "韩酒店火灾2人跳楼因气垫翻转遇难",
+        "onboard_time": 1724466679,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355291,
+        "num": 355291,
+        "word": "台湾长荣集团道歉",
+        "onboard_time": 1724458578,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 325746,
+        "num": 325746,
+        "word": "姥姥的外孙包哭的",
+        "onboard_time": 1724461398,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 318881,
+        "num": 318881,
+        "word": "王一博在乐华没有在乎的人了吗",
+        "onboard_time": 1724454074,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 314826,
+        "num": 314826,
+        "word": "一只猴子拯救了整个电脑市场",
+        "onboard_time": 1724455455,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 295124,
+        "num": 295124,
+        "word": "黑神话悟空全球总销量破千万",
+        "onboard_time": 1724423481,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 259410,
+        "num": 295044,
+        "word": "王力宏演唱会",
+        "onboard_time": 1724459419,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 221117,
+        "num": 294951,
+        "word": "嗨放派国家二级运动员占了一半",
+        "onboard_time": 1724462478,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 777636,
+        "num": 294829,
+        "word": "印度31岁遭奸杀女医生系独生女",
+        "onboard_time": 1724427198,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 410334,
+        "num": 294659,
+        "word": "原来金莎之前说的都是真的",
+        "onboard_time": 1724466498,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392573,
+        "num": 294600,
+        "word": "中医建议像小猫一样生活",
+        "onboard_time": 1724455754,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 341112,
+        "num": 294375,
+        "word": "印度强奸案细节堪比恐怖片",
+        "onboard_time": 1724399900,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294362,
+        "num": 294362,
+        "word": "黑神话悟空剧情",
+        "onboard_time": 1724459898,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 290053,
+        "num": 290053,
+        "word": "原来故意避开的人才是真的在意",
+        "onboard_time": 1724465898,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 276481,
+        "num": 276481,
+        "word": "沙利文将访华举行新一轮中美战略沟通",
+        "onboard_time": 1724466739,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 260172,
+        "num": 260172,
+        "word": "郑钦文呼吁球迷宽容一点",
+        "onboard_time": 1724463918,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211339,
+        "num": 211339,
+        "word": "王一博听到吃蜘蛛的反应",
+        "onboard_time": 1724465181,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202013,
+        "num": 202013,
+        "word": "打工人去班味只要一个东西",
+        "onboard_time": 1724466620,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201106,
+        "num": 201106,
+        "word": "给刚出生的娃娃注册了微信号",
+        "onboard_time": 1724460919,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188832,
+        "num": 188832,
+        "word": "今日出伏",
+        "onboard_time": 1724455214,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184226,
+        "num": 184226,
+        "word": "已有6万多吨福岛核污染水流入大海",
+        "onboard_time": 1724463619,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 184061,
+        "num": 184061,
+        "word": "网友模仿林黛玉的绝美哭",
+        "onboard_time": 1724460379,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184024,
+        "num": 184024,
+        "word": "陈楚生 边界感",
+        "onboard_time": 1724466319,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170305,
+        "num": 170305,
+        "word": "起猛了以为马龙在卖豆腐",
+        "onboard_time": 1724467278,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167999,
+        "num": 167999,
+        "word": "超长三伏天正式下线",
+        "onboard_time": 1724458217,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165867,
+        "num": 165867,
+        "word": "中国象棋第一人王天一被批准逮捕",
+        "onboard_time": 1724430259,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163860,
+        "num": 163860,
+        "word": "小罗伯特肯尼迪宣布退出2024美国大选",
+        "onboard_time": 1724463439,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161064,
+        "num": 161064,
+        "word": "黑神话悟空 打boss攻略",
+        "onboard_time": 1724459357,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159200,
+        "num": 159200,
+        "word": "严浩翔第一次拒绝粉丝",
+        "onboard_time": 1724464339,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158337,
+        "num": 158337,
+        "word": "外媒关注中国月壤制水",
+        "onboard_time": 1724466380,
+        "rank": 41,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 153300,
+        "num": 153300,
+        "word": "iGN日本给黑神话打7分",
+        "onboard_time": 1724461518,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150531,
+        "num": 150531,
+        "word": "全红婵在学校当起了跳水教练",
+        "onboard_time": 1724467519,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149643,
+        "num": 149643,
+        "word": "印度奸杀案",
+        "onboard_time": 1724393060,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146406,
+        "num": 146406,
+        "word": "黄浦江巨鸭成为上海打卡新景点",
+        "onboard_time": 1724465898,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142112,
+        "num": 142112,
+        "word": "中国游戏让外国玩家刮目相看",
+        "onboard_time": 1724466380,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138023,
+        "num": 138023,
+        "word": "深圳华强北出现装机热",
+        "onboard_time": 1724465898,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549849,
+        "num": 137386,
+        "word": "董宇辉李娟访谈疑似不同频",
+        "onboard_time": 1724457858,
+        "rank": 48,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 135269,
+        "num": 135269,
+        "word": "老板救人牺牲妻子拒收捐款",
+        "onboard_time": 1724464638,
+        "rank": 49,
+        "category": "社会新闻,社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同斯塔默通电话#"
+    }
+  }
+}
