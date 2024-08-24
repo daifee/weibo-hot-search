@@ -1,6 +1,6 @@
 {
   "startTime": 1724430385634,
-  "endTime": 1724491254440,
+  "endTime": 1724492101856,
   "band_list": [
     {
       "raw_hot": 2529436,
@@ -35,6 +35,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1958625,
+      "num": 1059844,
+      "word": "男子内裤里藏3只甲虫入境被查",
+      "onboard_time": 1724489601,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1883977,
       "num": 1883977,
       "word": "比伯海莉孩子出生",
@@ -67,14 +75,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1372082,
-      "num": 1059844,
-      "word": "男子内裤里藏3只甲虫入境被查",
-      "onboard_time": 1724489601,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1295368,
       "num": 1295368,
       "word": "何蓝逗 乐华害我",
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1226111,
-      "num": 251874,
+      "num": 297556,
       "word": "男子发现家藏人参只剩外壳没有肉身",
       "onboard_time": 1724486480,
       "rank": 21,
@@ -243,6 +243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 884134,
+      "num": 884134,
+      "word": "张昊唯暂停演艺工作",
+      "onboard_time": 1724491101,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 868244,
       "num": 467051,
       "word": "性别比失衡情况下想生男孩的人会少吗",
@@ -347,6 +355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 633264,
+      "num": 633264,
+      "word": "浙江14岁女孩失联7天",
+      "onboard_time": 1724490081,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 628921,
       "num": 628921,
       "word": "王昶林高远你俩要考研啊",
@@ -401,6 +417,14 @@
       "onboard_time": 1724472259,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 565276,
+      "num": 565276,
+      "word": "张昊唯晒无犯罪记录证明",
+      "onboard_time": 1724491341,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 563636,
@@ -476,7 +500,7 @@
     },
     {
       "raw_hot": 493767,
-      "num": 493767,
+      "num": 622572,
       "word": "13岁女孩网上卖闪卡被骗8万多元",
       "onboard_time": 1724486960,
       "rank": 43,
@@ -523,6 +547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 459405,
+      "num": 459405,
+      "word": "弟弟这生日过的天塌了",
+      "onboard_time": 1724489000,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 457512,
       "num": 347724,
       "word": "五个人的髋打不开了",
@@ -537,6 +569,14 @@
       "onboard_time": 1724485700,
       "rank": 10,
       "category": "教育"
+    },
+    {
+      "raw_hot": 440762,
+      "num": 440762,
+      "word": "郑钦文否认1年360天吃鸡胸肉",
+      "onboard_time": 1724490441,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 439282,
@@ -643,14 +683,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 358263,
-      "num": 358263,
-      "word": "浙江14岁女孩失联7天",
-      "onboard_time": 1724490081,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 345048,
       "num": 345048,
       "word": "张弛 眉眼间毫无丹青之意",
@@ -681,14 +713,6 @@
       "onboard_time": 1724393060,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 317876,
-      "num": 317876,
-      "word": "弟弟这生日过的天塌了",
-      "onboard_time": 1724489000,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 317670,
@@ -1035,19 +1059,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226210,
+      "num": 459429,
+      "word": "孙杨回应能否坚持到2028年",
+      "onboard_time": 1724490679,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 226029,
       "num": 226029,
       "word": "孙颖莎用牛奶瓶稳稳颠球",
       "onboard_time": 1724470879,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 223252,
-      "num": 223252,
-      "word": "郑钦文否认1年360天吃鸡胸肉",
-      "onboard_time": 1724490441,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -1275,14 +1299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 189859,
-      "num": 189501,
-      "word": "张昊唯暂停演艺工作",
-      "onboard_time": 1724491101,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 189733,
       "num": 189733,
       "word": "王一博新歌舞台预告图",
@@ -1379,14 +1395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179836,
-      "num": 179836,
-      "word": "孙杨回应能否坚持到2028年",
-      "onboard_time": 1724490679,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 179483,
       "num": 179483,
       "word": "蹦床 又上当一个",
@@ -1459,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173379,
+      "num": 173379,
+      "word": "火锅店主救人牺牲众人排长队就餐致敬",
+      "onboard_time": 1724491640,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170925,
       "num": 170925,
       "word": "我从幼儿园就开始恐婚",
@@ -1497,6 +1513,14 @@
       "onboard_time": 1724467519,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169078,
+      "num": 169078,
+      "word": "高会直播",
+      "onboard_time": 1724491940,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 168684,
@@ -1555,12 +1579,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162494,
+      "num": 162494,
+      "word": "LPL选手玩黑神话的个人风格",
+      "onboard_time": 1724491940,
+      "rank": 36,
+      "category": "电竞,游戏"
+    },
+    {
       "raw_hot": 162232,
       "num": 162232,
       "word": "为什么现在年轻人讨厌接电话",
       "onboard_time": 1724476518,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161617,
+      "num": 161617,
+      "word": "TheShy三命过黄风大圣",
+      "onboard_time": 1724491940,
+      "rank": 37,
+      "category": "电竞,游戏"
     },
     {
       "raw_hot": 161375,
@@ -1699,6 +1739,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 154392,
+      "num": 154392,
+      "word": "CPA财管 计算器",
+      "onboard_time": 1724490139,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 153643,
       "num": 273926,
       "word": "用西游记BGM打开今夏的天空",
@@ -1715,12 +1763,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151677,
+      "num": 623748,
+      "word": "女子坐拥87套房被查封待拍卖",
+      "onboard_time": 1724490020,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151272,
       "num": 151272,
       "word": "梦之队成员互送礼物局",
       "onboard_time": 1724477839,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 150878,
+      "num": 150878,
+      "word": "刺猬repo",
+      "onboard_time": 1724491580,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 150864,
@@ -1859,12 +1923,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 140751,
-      "num": 140751,
-      "word": "CPA财管 计算器",
-      "onboard_time": 1724490139,
+      "raw_hot": 140616,
+      "num": 140616,
+      "word": "毛毛流",
+      "onboard_time": 1724492060,
       "rank": 48,
-      "category": "教育"
+      "category": "游戏"
     },
     {
       "raw_hot": 139455,
@@ -2001,14 +2065,6 @@
       "onboard_time": 1724481440,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106754,
-      "num": 500573,
-      "word": "女子坐拥87套房被查封待拍卖",
-      "onboard_time": 1724490020,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106442,
@@ -2219,6 +2275,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 54074,
+      "num": 160402,
+      "word": "跟庞博挑战鸿蒙最强王者",
+      "onboard_time": 1724491580,
+      "rank": 38,
+      "category": "数码,艺人"
+    },
+    {
       "raw_hot": 53410,
       "num": 169110,
       "word": "高校体育场该有偿使用吗",
@@ -2347,6 +2411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31379,
+      "num": 346907,
+      "word": "南京有学区房三年价格回调六成",
+      "onboard_time": 1724491820,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30784,
       "num": 39403,
       "word": "周深演唱会有自己的cos",
@@ -2368,6 +2440,14 @@
       "word": "网购平台成烟卡销售重灾区",
       "onboard_time": 1724440752,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29661,
+      "num": 459413,
+      "word": "月嫂烫伤出生27天婴儿",
+      "onboard_time": 1724491820,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
