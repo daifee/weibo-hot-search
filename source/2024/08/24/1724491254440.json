@@ -1,0 +1,410 @@
+{
+  "runTime": 1724491254440,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1409894,
+        "num": 1409894,
+        "word": "孙杨复出赛报名成绩",
+        "onboard_time": 1724483239,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1172224,
+        "num": 1172224,
+        "word": "曾舜晞买个防窥膜吧",
+        "onboard_time": 1724488520,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22028,
+        "num": 1060262,
+        "word": "超长三伏天正式下线",
+        "onboard_time": 1724458217,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1372082,
+        "num": 1059844,
+        "word": "男子内裤里藏3只甲虫入境被查",
+        "onboard_time": 1724489601,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1014936,
+        "num": 1014936,
+        "word": "傅首尔 老刘已经有张硕了",
+        "onboard_time": 1724481200,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 727461,
+        "num": 727461,
+        "word": "女子在泰国遭外国男子辱骂新进展",
+        "onboard_time": 1724486540,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 688826,
+        "num": 688826,
+        "word": "黑神话悟空通关留言墙",
+        "onboard_time": 1724488880,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 515533,
+        "num": 515533,
+        "word": "戚薇希望录完巅峰还保持已婚",
+        "onboard_time": 1724483660,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106754,
+        "num": 500573,
+        "word": "女子坐拥87套房被查封待拍卖",
+        "onboard_time": 1724490020,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493767,
+        "num": 493767,
+        "word": "13岁女孩网上卖闪卡被骗8万多元",
+        "onboard_time": 1724486960,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461017,
+        "num": 461017,
+        "word": "老刘 张硕",
+        "onboard_time": 1724484499,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449564,
+        "num": 449564,
+        "word": "印度4名男子轮奸低种姓女孩获刑",
+        "onboard_time": 1724458517,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 436686,
+        "num": 436686,
+        "word": "王楚钦 公园大爷确实不好打",
+        "onboard_time": 1724481200,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 358263,
+        "num": 358263,
+        "word": "浙江14岁女孩失联7天",
+        "onboard_time": 1724490081,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333044,
+        "num": 333044,
+        "word": "年轻人开始去洗浴中心打游戏",
+        "onboard_time": 1724475678,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318097,
+        "num": 318097,
+        "word": "美国5岁男童意外开枪打死自己",
+        "onboard_time": 1724481498,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317876,
+        "num": 317876,
+        "word": "弟弟这生日过的天塌了",
+        "onboard_time": 1724489000,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 302809,
+        "num": 302809,
+        "word": "比伯海莉孩子出生",
+        "onboard_time": 1724470699,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263858,
+        "num": 263858,
+        "word": "CPA财管",
+        "onboard_time": 1724485280,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 259959,
+        "num": 259959,
+        "word": "新西游记PD李周亨车祸去世",
+        "onboard_time": 1724480959,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 944577,
+        "num": 252218,
+        "word": "印度女医生案监控画面曝光",
+        "onboard_time": 1724473220,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 731891,
+        "num": 251874,
+        "word": "男子发现家藏人参只剩外壳没有肉身",
+        "onboard_time": 1724486480,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243520,
+        "num": 243520,
+        "word": "孙颖莎看到刘国梁身上的虫子愣了",
+        "onboard_time": 1724482280,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239491,
+        "num": 239491,
+        "word": "张碧晨陈昊宇包售后的",
+        "onboard_time": 1724490620,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137150,
+        "num": 225002,
+        "word": "百万保时捷提车4天就坏了",
+        "onboard_time": 1724484860,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223252,
+        "num": 223252,
+        "word": "郑钦文否认1年360天吃鸡胸肉",
+        "onboard_time": 1724490441,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220555,
+        "num": 220555,
+        "word": "黑神话悟空到底盘活了多少产业",
+        "onboard_time": 1724479459,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 215783,
+        "num": 215783,
+        "word": "吃过锅包肉的人嘴真严啊",
+        "onboard_time": 1724480238,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 23258,
+        "num": 205377,
+        "word": "当绿色发展遇上美食产业",
+        "onboard_time": 1724486719,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190743,
+        "num": 203121,
+        "word": "戚薇有了姐妹就忘了李承铉",
+        "onboard_time": 1724490441,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202563,
+        "num": 202563,
+        "word": "定风珠",
+        "onboard_time": 1724487619,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192334,
+        "num": 192334,
+        "word": "印度遭奸杀女医生父母称警察14天还没破案",
+        "onboard_time": 1724483779,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189733,
+        "num": 189733,
+        "word": "王一博新歌舞台预告图",
+        "onboard_time": 1724490139,
+        "rank": 32,
+        "category": "音乐,综艺"
+      },
+      {
+        "raw_hot": 189859,
+        "num": 189501,
+        "word": "张昊唯暂停演艺工作",
+        "onboard_time": 1724491101,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188830,
+        "num": 188830,
+        "word": "FPX.ZQ对战WBG",
+        "onboard_time": 1724490318,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187317,
+        "num": 187317,
+        "word": "原来金莎之前说的都是真的",
+        "onboard_time": 1724466498,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182180,
+        "num": 182180,
+        "word": "程潇电竞爽文照进现实",
+        "onboard_time": 1724477239,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179836,
+        "num": 179836,
+        "word": "孙杨回应能否坚持到2028年",
+        "onboard_time": 1724490679,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173231,
+        "num": 173231,
+        "word": "王力宏演唱会水淋淋的吃皮肚面",
+        "onboard_time": 1724482040,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170800,
+        "num": 170800,
+        "word": "樊振东拟获白玉兰杰出成就奖",
+        "onboard_time": 1724480719,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157757,
+        "num": 157757,
+        "word": "王一博DeepInTheSEA",
+        "onboard_time": 1724489601,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154778,
+        "num": 154778,
+        "word": "住房养老金",
+        "onboard_time": 1724472259,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 150376,
+        "num": 150376,
+        "word": "中国游戏科隆展惊艳外国玩家",
+        "onboard_time": 1724487679,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148842,
+        "num": 148842,
+        "word": "孙杨与泳队最小队友相差近20岁",
+        "onboard_time": 1724490679,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148653,
+        "num": 148653,
+        "word": "刘亦菲黄玫瑰主题生日写真",
+        "onboard_time": 1724474600,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148627,
+        "num": 148627,
+        "word": "icon与suki聊天记录",
+        "onboard_time": 1724487920,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147517,
+        "num": 147517,
+        "word": "乐华家族演唱会",
+        "onboard_time": 1724487440,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146913,
+        "num": 146913,
+        "word": "孙杨进行赛前训练",
+        "onboard_time": 1724490620,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140751,
+        "num": 140751,
+        "word": "CPA财管 计算器",
+        "onboard_time": 1724490139,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 134904,
+        "num": 134904,
+        "word": "黑神话悟空爆火致华强北PS5卖断货",
+        "onboard_time": 1724484380,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#带动全民健身青少年体育蓬勃开展#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1724430385634,
-  "endTime": 1724488608190,
+  "endTime": 1724491254440,
   "band_list": [
     {
       "raw_hot": 2529436,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1372082,
+      "num": 1059844,
+      "word": "男子内裤里藏3只甲虫入境被查",
+      "onboard_time": 1724489601,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1295368,
       "num": 1295368,
       "word": "何蓝逗 乐华害我",
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 1226111,
-      "num": 245011,
+      "num": 251874,
       "word": "男子发现家藏人参只剩外壳没有肉身",
       "onboard_time": 1724486480,
       "rank": 21,
@@ -105,6 +113,14 @@
       "onboard_time": 1724462598,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1172224,
+      "num": 1172224,
+      "word": "曾舜晞买个防窥膜吧",
+      "onboard_time": 1724488520,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 1137125,
@@ -275,6 +291,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 727461,
+      "num": 727461,
+      "word": "女子在泰国遭外国男子辱骂新进展",
+      "onboard_time": 1724486540,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 725107,
       "num": 725107,
       "word": "印度女医生遇害前婚事已敲定",
@@ -289,6 +313,14 @@
       "onboard_time": 1724468059,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 688826,
+      "num": 688826,
+      "word": "黑神话悟空通关留言墙",
+      "onboard_time": 1724488880,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 661822,
@@ -440,6 +472,14 @@
       "word": "印度的性侵案为何如此频繁",
       "onboard_time": 1724459119,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 493767,
+      "num": 493767,
+      "word": "13岁女孩网上卖闪卡被骗8万多元",
+      "onboard_time": 1724486960,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -603,6 +643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 358263,
+      "num": 358263,
+      "word": "浙江14岁女孩失联7天",
+      "onboard_time": 1724490081,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 345048,
       "num": 345048,
       "word": "张弛 眉眼间毫无丹青之意",
@@ -633,6 +681,14 @@
       "onboard_time": 1724393060,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317876,
+      "num": 317876,
+      "word": "弟弟这生日过的天塌了",
+      "onboard_time": 1724489000,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 317670,
@@ -748,7 +804,7 @@
     },
     {
       "raw_hot": 268985,
-      "num": 268985,
+      "num": 1060262,
       "word": "超长三伏天正式下线",
       "onboard_time": 1724458217,
       "rank": 27,
@@ -923,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 239491,
+      "num": 239491,
+      "word": "张碧晨陈昊宇包售后的",
+      "onboard_time": 1724490620,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 236637,
       "num": 236637,
       "word": "黑神话悟空 打boss攻略",
@@ -979,12 +1043,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 223106,
-      "num": 455304,
-      "word": "女子在泰国遭外国男子辱骂新进展",
-      "onboard_time": 1724486540,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 223252,
+      "num": 223252,
+      "word": "郑钦文否认1年360天吃鸡胸肉",
+      "onboard_time": 1724490441,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 222808,
@@ -993,14 +1057,6 @@
       "onboard_time": 1724425759,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 222579,
-      "num": 222579,
-      "word": "13岁女孩网上卖闪卡被骗8万多元",
-      "onboard_time": 1724486960,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 222444,
@@ -1044,7 +1100,7 @@
     },
     {
       "raw_hot": 218365,
-      "num": 218365,
+      "num": 225002,
       "word": "百万保时捷提车4天就坏了",
       "onboard_time": 1724484860,
       "rank": 49,
@@ -1203,6 +1259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190743,
+      "num": 203121,
+      "word": "戚薇有了姐妹就忘了李承铉",
+      "onboard_time": 1724490441,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190732,
       "num": 190732,
       "word": "老人向前女婿索要15万带孙费被判驳",
@@ -1211,12 +1275,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189859,
+      "num": 189501,
+      "word": "张昊唯暂停演艺工作",
+      "onboard_time": 1724491101,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 189733,
+      "num": 189733,
+      "word": "王一博新歌舞台预告图",
+      "onboard_time": 1724490139,
+      "rank": 32,
+      "category": "音乐,综艺"
+    },
+    {
       "raw_hot": 189621,
       "num": 227210,
       "word": "王俊凯聊私下发疯方式",
       "onboard_time": 1724470039,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 188830,
+      "num": 188830,
+      "word": "FPX.ZQ对战WBG",
+      "onboard_time": 1724490318,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 187667,
@@ -1289,6 +1377,14 @@
       "onboard_time": 1724471719,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179836,
+      "num": 179836,
+      "word": "孙杨回应能否坚持到2028年",
+      "onboard_time": 1724490679,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 179483,
@@ -1523,6 +1619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157757,
+      "num": 157757,
+      "word": "王一博DeepInTheSEA",
+      "onboard_time": 1724489601,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 157194,
       "num": 157194,
       "word": "马龙谢谢大家支持乒乓球",
@@ -1627,12 +1731,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 148383,
-      "num": 148383,
-      "word": "曾舜晞买个防窥膜吧",
-      "onboard_time": 1724488520,
-      "rank": 39,
-      "category": "演出"
+      "raw_hot": 150376,
+      "num": 150376,
+      "word": "中国游戏科隆展惊艳外国玩家",
+      "onboard_time": 1724487679,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 148842,
+      "num": 148842,
+      "word": "孙杨与泳队最小队友相差近20岁",
+      "onboard_time": 1724490679,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 147464,
@@ -1657,6 +1769,14 @@
       "onboard_time": 1724474299,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 146913,
+      "num": 146913,
+      "word": "孙杨进行赛前训练",
+      "onboard_time": 1724490620,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 145845,
@@ -1715,14 +1835,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 141424,
-      "num": 141424,
-      "word": "中国游戏科隆展惊艳外国玩家",
-      "onboard_time": 1724487679,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 141278,
       "num": 141278,
       "word": "印度31岁女医生遭奸杀父母发声",
@@ -1745,6 +1857,14 @@
       "onboard_time": 1724480780,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 140751,
+      "num": 140751,
+      "word": "CPA财管 计算器",
+      "onboard_time": 1724490139,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 139455,
@@ -1881,6 +2001,14 @@
       "onboard_time": 1724481440,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106754,
+      "num": 500573,
+      "word": "女子坐拥87套房被查封待拍卖",
+      "onboard_time": 1724490020,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106442,
@@ -2308,6 +2436,9 @@
     },
     {
       "word": "#习近平总书记高度重视知识分子工作#"
+    },
+    {
+      "word": "#带动全民健身青少年体育蓬勃开展#"
     }
   ]
 }
