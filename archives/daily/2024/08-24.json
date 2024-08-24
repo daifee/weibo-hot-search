@@ -1,6 +1,6 @@
 {
   "startTime": 1724430385634,
-  "endTime": 1724505658119,
+  "endTime": 1724506489848,
   "band_list": [
     {
       "raw_hot": 2529436,
@@ -187,6 +187,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1102366,
+      "num": 578462,
+      "word": "冯骥 离职是最好的医美",
+      "onboard_time": 1724503939,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1065521,
       "num": 1065521,
       "word": "董宇辉李娟访谈疑似不同频",
@@ -259,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 984158,
+      "num": 984158,
+      "word": "乐华家族演唱会",
+      "onboard_time": 1724487440,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 979613,
       "num": 979613,
       "word": "一只猴子拯救了整个电脑市场",
@@ -291,6 +307,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 952264,
+      "num": 790087,
+      "word": "檀健次跟爱奇艺道歉",
+      "onboard_time": 1724504723,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 947690,
       "num": 947690,
       "word": "峨眉山发现失踪半个多世纪的神秘物种",
@@ -313,14 +337,6 @@
       "onboard_time": 1724458578,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 897213,
-      "num": 897213,
-      "word": "乐华家族演唱会",
-      "onboard_time": 1724487440,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 868244,
@@ -379,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 785347,
+      "num": 785347,
+      "word": "杨幂来看周深演唱会了",
+      "onboard_time": 1724504842,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 771385,
       "num": 771385,
       "word": "郑钦文否认1年360天吃鸡胸肉",
@@ -417,6 +441,14 @@
       "onboard_time": 1724424441,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 713240,
+      "num": 544410,
+      "word": "王一博新歌舞台",
+      "onboard_time": 1724506162,
+      "rank": 12,
+      "category": "演出"
     },
     {
       "raw_hot": 705748,
@@ -555,14 +587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 578462,
-      "num": 578462,
-      "word": "冯骥 离职是最好的医美",
-      "onboard_time": 1724503939,
-      "rank": 17,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 577840,
       "num": 577840,
       "word": "住房养老金",
@@ -683,12 +707,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 506475,
-      "num": 506475,
-      "word": "檀健次跟爱奇艺道歉",
-      "onboard_time": 1724504723,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 504412,
+      "num": 356027,
+      "word": "张雪峰写给汪涵的信只有三个字",
+      "onboard_time": 1724504661,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 502880,
@@ -739,20 +763,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 462886,
-      "num": 462886,
-      "word": "杨幂来看周深演唱会了",
-      "onboard_time": 1724504842,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 462741,
       "num": 462741,
       "word": "黑神话悟空到底盘活了多少产业",
       "onboard_time": 1724479459,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 458055,
+      "num": 422444,
+      "word": "乐华 业务能力",
+      "onboard_time": 1724503579,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 457512,
@@ -793,14 +817,6 @@
       "onboard_time": 1724427681,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 422444,
-      "num": 422444,
-      "word": "乐华 业务能力",
-      "onboard_time": 1724503579,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 406828,
@@ -851,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 385079,
+      "num": 326623,
+      "word": "王一博后台采访",
+      "onboard_time": 1724505321,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 377163,
       "num": 377163,
       "word": "毛晓彤我那个从不扫兴的朋友",
@@ -889,14 +913,6 @@
       "onboard_time": 1724459898,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 356027,
-      "num": 356027,
-      "word": "张雪峰写给汪涵的信只有三个字",
-      "onboard_time": 1724504661,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 351654,
@@ -1139,6 +1155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 269001,
+      "num": 269001,
+      "word": "刘耀文戴了眉钉",
+      "onboard_time": 1724504962,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 268985,
       "num": 1060262,
       "word": "超长三伏天正式下线",
@@ -1153,6 +1177,14 @@
       "onboard_time": 1724467820,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 267201,
+      "num": 267201,
+      "word": "布莱顿半场1比0曼联",
+      "onboard_time": 1724503821,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 267106,
@@ -1176,6 +1208,14 @@
       "word": "辽宁葫芦岛强降雨10人遇难14人失联",
       "onboard_time": 1724424082,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263270,
+      "num": 263270,
+      "word": "69岁妻子疑心丈夫有外遇引发矛盾",
+      "onboard_time": 1724500818,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1267,6 +1307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 251646,
+      "num": 251646,
+      "word": "女子美甲致真菌感染治疗花费近万元",
+      "onboard_time": 1724505383,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251555,
       "num": 302851,
       "word": "边水往事的质量有多高",
@@ -1353,14 +1401,6 @@
       "onboard_time": 1724494159,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 241478,
-      "num": 241478,
-      "word": "69岁妻子疑心丈夫有外遇引发矛盾",
-      "onboard_time": 1724500818,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 240959,
@@ -1473,6 +1513,14 @@
       "onboard_time": 1724425759,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222792,
+      "num": 222792,
+      "word": "杨紫直播",
+      "onboard_time": 1724506222,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 222444,
@@ -1611,20 +1659,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 210285,
-      "num": 210285,
-      "word": "刘耀文戴了眉钉",
-      "onboard_time": 1724504962,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 209609,
-      "num": 209609,
-      "word": "女子美甲致真菌感染治疗花费近万元",
-      "onboard_time": 1724505383,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 210039,
+      "num": 210039,
+      "word": "贾玲 拍完了给我p一下",
+      "onboard_time": 1724506402,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 208974,
@@ -1707,6 +1747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199526,
+      "num": 199526,
+      "word": "WE对战WB",
+      "onboard_time": 1724506461,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 199221,
       "num": 199221,
       "word": "刘亦菲花朵裙装",
@@ -1715,16 +1763,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 198684,
-      "num": 198684,
-      "word": "布莱顿半场1比0曼联",
-      "onboard_time": 1724503821,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 197004,
-      "num": 197004,
+      "raw_hot": 197865,
+      "num": 197865,
       "word": "黄明昊全开麦",
       "onboard_time": 1724505621,
       "rank": 49,
@@ -2635,12 +2675,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110433,
+      "num": 597235,
+      "word": "喻言海边落日舞台",
+      "onboard_time": 1724504421,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 108681,
       "num": 310632,
       "word": "谁懂丁禹兮抬头的这一瞬间",
       "onboard_time": 1724481440,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108189,
+      "num": 646448,
+      "word": "直播间9.9元丑甲盲盒数万人买",
+      "onboard_time": 1724504421,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107018,
@@ -2691,12 +2747,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 96734,
-      "num": 597235,
-      "word": "喻言海边落日舞台",
+      "raw_hot": 97835,
+      "num": 598347,
+      "word": "记者实探禁带外卖上楼奥美大厦",
       "onboard_time": 1724504421,
-      "rank": 14,
-      "category": "演出"
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95806,
@@ -2752,6 +2808,14 @@
       "word": "记者暗访以招聘培训圈钱家政企业",
       "onboard_time": 1724500818,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73361,
+      "num": 487849,
+      "word": "为何瘦子也会得脂肪肝",
+      "onboard_time": 1724505021,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -2824,22 +2888,6 @@
       "word": "寻子9年的患癌母亲去世",
       "onboard_time": 1724467820,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61780,
-      "num": 598347,
-      "word": "记者实探禁带外卖上楼奥美大厦",
-      "onboard_time": 1724504421,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61616,
-      "num": 646448,
-      "word": "直播间9.9元丑甲盲盒数万人买",
-      "onboard_time": 1724504421,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -3027,6 +3075,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 37056,
+      "num": 1019435,
+      "word": "铸牢共同体中华一家亲",
+      "onboard_time": 1724503281,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 36130,
       "num": 1021202,
       "word": "我国首个海上采油平台5.5G站点",
@@ -3043,28 +3099,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33543,
-      "num": 1019435,
-      "word": "铸牢共同体中华一家亲",
-      "onboard_time": 1724503281,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 33151,
       "num": 39415,
       "word": "梁王组合外出被当打卡人物",
       "onboard_time": 1724444892,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 32813,
-      "num": 487849,
-      "word": "为何瘦子也会得脂肪肝",
-      "onboard_time": 1724505021,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31379,
