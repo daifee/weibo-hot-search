@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724516601503,
+  "endTime": 1724517585128,
   "band_list": [
     {
       "raw_hot": 2141711,
@@ -9,6 +9,14 @@
       "onboard_time": 1724512282,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1165750,
+      "num": 255536,
+      "word": "睡前妄想症",
+      "onboard_time": 1724513601,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 1009610,
@@ -25,14 +33,6 @@
       "onboard_time": 1724509701,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 853227,
-      "num": 255536,
-      "word": "睡前妄想症",
-      "onboard_time": 1724513601,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 850891,
@@ -283,6 +283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 167896,
+      "num": 502976,
+      "word": "大一新生骑行1328公里北大报到",
+      "onboard_time": 1724507242,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167135,
       "num": 167135,
       "word": "张昊唯和伪造聊天记录发小已和解",
@@ -305,6 +313,14 @@
       "onboard_time": 1724515221,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 155188,
+      "num": 155188,
+      "word": "刘雨昕让粉丝保证安全",
+      "onboard_time": 1724516780,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 152849,
@@ -356,7 +372,7 @@
     },
     {
       "raw_hot": 137180,
-      "num": 127373,
+      "num": 133123,
       "word": "朱正廷程潇 BG舞台",
       "onboard_time": 1724500040,
       "rank": 49,
@@ -379,6 +395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 131196,
+      "num": 131196,
+      "word": "杨幂对周深说少管我",
+      "onboard_time": 1724516899,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 127629,
       "num": 127629,
       "word": "张镇麟发博",
@@ -387,11 +411,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 69848,
-      "num": 502976,
-      "word": "大一新生骑行1328公里北大报到",
-      "onboard_time": 1724507242,
-      "rank": 9,
+      "raw_hot": 121425,
+      "num": 121425,
+      "word": "印度女医生案监控画面曝光",
+      "onboard_time": 1724473220,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57785,
+      "num": 196685,
+      "word": "出伏后秋老虎和瞌睡虫都要来了",
+      "onboard_time": 1724517499,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -406,6 +438,9 @@
   "hotgov_list": [
     {
       "word": "#学习新语#"
+    },
+    {
+      "word": "#带动全民健身青少年体育蓬勃开展#"
     }
   ]
 }
