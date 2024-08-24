@@ -1,6 +1,6 @@
 {
   "startTime": 1724430385634,
-  "endTime": 1724473424959,
+  "endTime": 1724474238440,
   "band_list": [
     {
       "raw_hot": 2123905,
@@ -147,7 +147,7 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 940688,
+      "raw_hot": 941841,
       "num": 312171,
       "word": "近视眼度数越来越低的习惯",
       "onboard_time": 1724469619,
@@ -203,7 +203,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 700473,
+      "raw_hot": 705748,
       "num": 390035,
       "word": "男孩女卫生间偷窥家长语出惊人",
       "onboard_time": 1724468059,
@@ -217,6 +217,14 @@
       "onboard_time": 1724469019,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 661423,
+      "num": 365729,
+      "word": "长沙女干部不雅聊天事件当事男子发声",
+      "onboard_time": 1724473098,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 628921,
@@ -235,20 +243,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 591109,
+      "num": 591109,
+      "word": "疑似TF四代被私生追尾",
+      "onboard_time": 1724472139,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 579158,
       "num": 579158,
       "word": "全红婵因劳损跳水前要花半小时绑绷带",
       "onboard_time": 1724418080,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 570564,
-      "num": 570564,
-      "word": "疑似TF四代被私生追尾",
-      "onboard_time": 1724472139,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 563636,
@@ -297,6 +305,22 @@
       "onboard_time": 1724459119,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 469458,
+      "num": 365135,
+      "word": "林依轮结婚 饿肚子的是石蕊",
+      "onboard_time": 1724472981,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 468457,
+      "num": 273894,
+      "word": "原来出生证明不能折叠",
+      "onboard_time": 1724472199,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 457512,
@@ -355,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 370618,
+      "num": 392371,
+      "word": "长沙女干部不雅聊天记录事件当事男子发声",
+      "onboard_time": 1724472018,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 367146,
       "num": 367146,
       "word": "张杰演唱会穿了歌迷设计的衣服",
@@ -395,20 +427,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 305364,
-      "num": 261355,
-      "word": "长沙女干部不雅聊天事件当事男子发声",
-      "onboard_time": 1724473098,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 298546,
       "num": 270730,
       "word": "这和自己生的有什么区别",
       "onboard_time": 1724456057,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 298178,
+      "num": 247730,
+      "word": "周琦将加盟北京首钢",
+      "onboard_time": 1724473159,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 297064,
@@ -467,14 +499,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 273894,
-      "num": 273894,
-      "word": "原来出生证明不能折叠",
-      "onboard_time": 1724472199,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 268985,
       "num": 268985,
       "word": "超长三伏天正式下线",
@@ -505,14 +529,6 @@
       "onboard_time": 1724465181,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 261854,
-      "num": 306522,
-      "word": "林依轮结婚 饿肚子的是石蕊",
-      "onboard_time": 1724472981,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 260172,
@@ -563,6 +579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 245657,
+      "num": 245657,
+      "word": "CPA综合",
+      "onboard_time": 1724472858,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 245646,
       "num": 245646,
       "word": "为何年轻人现在连恋爱都不谈了",
@@ -577,6 +601,14 @@
       "onboard_time": 1724469679,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243442,
+      "num": 266811,
+      "word": "毛晓彤我那个从不扫兴的朋友",
+      "onboard_time": 1724472858,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 240959,
@@ -627,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226029,
+      "num": 226029,
+      "word": "孙颖莎用牛奶瓶稳稳颠球",
+      "onboard_time": 1724470879,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222808,
       "num": 222808,
       "word": "早安 一次外向换来一辈子内向",
@@ -635,20 +675,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222444,
+      "num": 222444,
+      "word": "在海底捞跟风最成功的一次",
+      "onboard_time": 1724471781,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 221476,
       "num": 221476,
       "word": "今日出伏",
       "onboard_time": 1724455214,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221331,
-      "num": 221331,
-      "word": "CPA综合",
-      "onboard_time": 1724472858,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 211174,
@@ -675,28 +715,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198364,
-      "num": 392371,
-      "word": "长沙女干部不雅聊天记录事件当事男子发声",
-      "onboard_time": 1724472018,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198121,
-      "num": 198121,
+      "num": 265756,
       "word": "韩国致7死酒店火灾最新画面",
       "onboard_time": 1724471300,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196836,
-      "num": 196836,
-      "word": "孙颖莎用牛奶瓶稳稳颠球",
-      "onboard_time": 1724470879,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 196344,
@@ -713,14 +737,6 @@
       "onboard_time": 1724420000,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 192293,
-      "num": 192293,
-      "word": "周琦将加盟北京首钢",
-      "onboard_time": 1724473159,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 190891,
@@ -747,12 +763,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 185500,
-      "num": 185500,
-      "word": "在海底捞跟风最成功的一次",
-      "onboard_time": 1724471781,
-      "rank": 42,
-      "category": "幽默"
+      "raw_hot": 188238,
+      "num": 188238,
+      "word": "林书豪当爸爸了",
+      "onboard_time": 1724473880,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 185320,
@@ -819,14 +835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 172257,
-      "num": 172257,
-      "word": "毛晓彤我那个从不扫兴的朋友",
-      "onboard_time": 1724472858,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 170660,
       "num": 170660,
       "word": "外卖档口粘满苍蝇的贴纸下就是炸锅",
@@ -875,12 +883,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 161375,
+      "num": 161375,
+      "word": "为何近期羽毛球价格出现波动",
+      "onboard_time": 1724473880,
+      "rank": 46,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 160509,
       "num": 160509,
       "word": "黄浦江巨鸭成为上海打卡新景点",
       "onboard_time": 1724465898,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159718,
+      "num": 159718,
+      "word": "电视剧春风化雨定档",
+      "onboard_time": 1724473999,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 159200,
@@ -1073,6 +1097,14 @@
       "onboard_time": 1724422101,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 132074,
+      "num": 478141,
+      "word": "印度女医生案监控画面曝光",
+      "onboard_time": 1724473220,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123648,
@@ -1323,6 +1355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44016,
+      "num": 327033,
+      "word": "9块9套餐围猎麦当劳",
+      "onboard_time": 1724473820,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43638,
       "num": 45452,
       "word": "鞠婧祎晒粉丝画的像素画",
@@ -1360,14 +1400,6 @@
       "word": "我国首个海上采油平台5.5G站点",
       "onboard_time": 1724422101,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35029,
-      "num": 451297,
-      "word": "印度女医生案监控画面曝光",
-      "onboard_time": 1724473220,
-      "rank": 8,
       "category": "社会新闻"
     },
     {

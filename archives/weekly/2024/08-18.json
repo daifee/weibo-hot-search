@@ -1,6 +1,6 @@
 {
   "startTime": 1723911979361,
-  "endTime": 1724473424959,
+  "endTime": 1724474238440,
   "band_list": [
     {
       "raw_hot": 10598273,
@@ -2227,7 +2227,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 940688,
+      "raw_hot": 941841,
       "num": 312171,
       "word": "近视眼度数越来越低的习惯",
       "onboard_time": 1724469619,
@@ -3147,6 +3147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 705748,
+      "num": 390035,
+      "word": "男孩女卫生间偷窥家长语出惊人",
+      "onboard_time": 1724468059,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 704765,
       "num": 357403,
       "word": "大S看手机开红酒嘴角上扬",
@@ -3193,14 +3201,6 @@
       "onboard_time": 1724043982,
       "rank": 24,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 700473,
-      "num": 390035,
-      "word": "男孩女卫生间偷窥家长语出惊人",
-      "onboard_time": 1724468059,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 699507,
@@ -3329,6 +3329,14 @@
       "onboard_time": 1724469019,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 661423,
+      "num": 365729,
+      "word": "长沙女干部不雅聊天事件当事男子发声",
+      "onboard_time": 1724473098,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 660956,
@@ -3827,6 +3835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 591109,
+      "num": 591109,
+      "word": "疑似TF四代被私生追尾",
+      "onboard_time": 1724472139,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 590964,
       "num": 590964,
       "word": "店家回应全红婵给妈妈买手机",
@@ -3985,14 +4001,6 @@
       "onboard_time": 1723893499,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 570564,
-      "num": 570564,
-      "word": "疑似TF四代被私生追尾",
-      "onboard_time": 1724472139,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 568932,
@@ -4747,12 +4755,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 469458,
+      "num": 365135,
+      "word": "林依轮结婚 饿肚子的是石蕊",
+      "onboard_time": 1724472981,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 468781,
       "num": 468781,
       "word": "孙颖莎河北文旅代言人",
       "onboard_time": 1724293999,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 468457,
+      "num": 273894,
+      "word": "原来出生证明不能折叠",
+      "onboard_time": 1724472199,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 468132,
@@ -5761,6 +5785,14 @@
       "onboard_time": 1724226440,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 370618,
+      "num": 392371,
+      "word": "长沙女干部不雅聊天记录事件当事男子发声",
+      "onboard_time": 1724472018,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 369635,
@@ -6907,14 +6939,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 305364,
-      "num": 261355,
-      "word": "长沙女干部不雅聊天事件当事男子发声",
-      "onboard_time": 1724473098,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 305147,
       "num": 252897,
       "word": "杨倩再续三年清华",
@@ -7041,6 +7065,14 @@
       "onboard_time": 1724392281,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298178,
+      "num": 247730,
+      "word": "周琦将加盟北京首钢",
+      "onboard_time": 1724473159,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 297064,
@@ -7691,14 +7723,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 273894,
-      "num": 273894,
-      "word": "原来出生证明不能折叠",
-      "onboard_time": 1724472199,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 273528,
       "num": 412068,
       "word": "王源是真没把我们当外人",
@@ -8001,14 +8025,6 @@
       "onboard_time": 1724465181,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 261854,
-      "num": 306522,
-      "word": "林依轮结婚 饿肚子的是石蕊",
-      "onboard_time": 1724472981,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 261777,
@@ -8619,6 +8635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 245657,
+      "num": 245657,
+      "word": "CPA综合",
+      "onboard_time": 1724472858,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 245646,
       "num": 245646,
       "word": "为何年轻人现在连恋爱都不谈了",
@@ -8705,6 +8729,14 @@
       "onboard_time": 1724156061,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 243442,
+      "num": 266811,
+      "word": "毛晓彤我那个从不扫兴的朋友",
+      "onboard_time": 1724472858,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 242939,
@@ -9475,6 +9507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226029,
+      "num": 226029,
+      "word": "孙颖莎用牛奶瓶稳稳颠球",
+      "onboard_time": 1724470879,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225983,
       "num": 307287,
       "word": "燃霜为昼开机",
@@ -9611,6 +9651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222444,
+      "num": 222444,
+      "word": "在海底捞跟风最成功的一次",
+      "onboard_time": 1724471781,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 222298,
       "num": 222298,
       "word": "黑神话 电脑带不动",
@@ -9657,14 +9705,6 @@
       "onboard_time": 1724455214,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221331,
-      "num": 221331,
-      "word": "CPA综合",
-      "onboard_time": 1724472858,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 220755,
@@ -11179,14 +11219,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 198364,
-      "num": 392371,
-      "word": "长沙女干部不雅聊天记录事件当事男子发声",
-      "onboard_time": 1724472018,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198311,
       "num": 198311,
       "word": "小猫长得像刚入宫的安陵容",
@@ -11212,7 +11244,7 @@
     },
     {
       "raw_hot": 198121,
-      "num": 198121,
+      "num": 265756,
       "word": "韩国致7死酒店火灾最新画面",
       "onboard_time": 1724471300,
       "rank": 38,
@@ -11273,14 +11305,6 @@
       "onboard_time": 1724061323,
       "rank": 36,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 196836,
-      "num": 196836,
-      "word": "孙颖莎用牛奶瓶稳稳颠球",
-      "onboard_time": 1724470879,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 196436,
@@ -11659,14 +11683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192293,
-      "num": 192293,
-      "word": "周琦将加盟北京首钢",
-      "onboard_time": 1724473159,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 192256,
       "num": 192256,
       "word": "黑神话悟空全球解锁",
@@ -11987,6 +12003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188238,
+      "num": 188238,
+      "word": "林书豪当爸爸了",
+      "onboard_time": 1724473880,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188232,
       "num": 188232,
       "word": "360儿童手表语音问答出现争议答案",
@@ -12225,14 +12249,6 @@
       "onboard_time": 1724311762,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 185500,
-      "num": 185500,
-      "word": "在海底捞跟风最成功的一次",
-      "onboard_time": 1724471781,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 185370,
@@ -13195,14 +13211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 172257,
-      "num": 172257,
-      "word": "毛晓彤我那个从不扫兴的朋友",
-      "onboard_time": 1724472858,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 172201,
       "num": 172201,
       "word": "DRG对战AG",
@@ -13939,6 +13947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161375,
+      "num": 161375,
+      "word": "为何近期羽毛球价格出现波动",
+      "onboard_time": 1724473880,
+      "rank": 46,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 161351,
       "num": 161351,
       "word": "海贼王路娜天下",
@@ -14097,6 +14113,14 @@
       "onboard_time": 1724234841,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159718,
+      "num": 159718,
+      "word": "电视剧春风化雨定档",
+      "onboard_time": 1724473999,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 159235,
@@ -15625,6 +15649,14 @@
       "onboard_time": 1723996700,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132074,
+      "num": 478141,
+      "word": "印度女医生案监控画面曝光",
+      "onboard_time": 1724473220,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131722,
@@ -17971,6 +18003,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 44016,
+      "num": 327033,
+      "word": "9块9套餐围猎麦当劳",
+      "onboard_time": 1724473820,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43638,
       "num": 45452,
       "word": "鞠婧祎晒粉丝画的像素画",
@@ -18321,14 +18361,6 @@
       "onboard_time": 1724383940,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 35029,
-      "num": 451297,
-      "word": "印度女医生案监控画面曝光",
-      "onboard_time": 1724473220,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34861,
