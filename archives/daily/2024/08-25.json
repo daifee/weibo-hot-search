@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724592875138,
+  "endTime": 1724595436601,
   "band_list": [
     {
       "raw_hot": 14208627,
@@ -163,6 +163,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1421431,
+      "num": 1421431,
+      "word": "刘亦菲37岁庆生照",
+      "onboard_time": 1724591302,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1384068,
       "num": 1384068,
       "word": "孙杨回应复出首冠",
@@ -235,14 +243,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1153924,
-      "num": 1153924,
-      "word": "刘亦菲37岁庆生照",
-      "onboard_time": 1724591302,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1114092,
       "num": 1114092,
       "word": "15岁女孩跨省看完演唱会身上只剩3毛",
@@ -291,8 +291,8 @@
       "category": "体育,演出"
     },
     {
-      "raw_hot": 1003379,
-      "num": 1003379,
+      "raw_hot": 1007861,
+      "num": 1007861,
       "word": "边水往事 吓人",
       "onboard_time": 1724588480,
       "rank": 17,
@@ -331,6 +331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 957429,
+      "num": 957429,
+      "word": "在泰国被辱骂中国女子拒绝和解",
+      "onboard_time": 1724593101,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 951141,
       "num": 951141,
       "word": "超65万人预约观看孙杨复出战",
@@ -360,6 +368,14 @@
       "word": "许昕回应被抄袭",
       "onboard_time": 1724590221,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 886956,
+      "num": 886956,
+      "word": "面对面",
+      "onboard_time": 1724593941,
+      "rank": 7,
       "category": "体育"
     },
     {
@@ -435,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 810847,
+      "num": 810847,
+      "word": "央视专访孙颖莎",
+      "onboard_time": 1724594122,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 800519,
       "num": 800519,
       "word": "村民捡到女婴胎盘脐带均未剪",
@@ -505,6 +529,14 @@
       "onboard_time": 1724586081,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 716059,
+      "num": 716059,
+      "word": "张豆豆说孙杨很有安全感",
+      "onboard_time": 1724591722,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 705293,
@@ -611,6 +643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 580987,
+      "num": 841129,
+      "word": "牺牲民警让被救女孩好好活着",
+      "onboard_time": 1724587640,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 577935,
       "num": 577935,
       "word": "唐嫣连续10年为刘亦菲庆生",
@@ -625,6 +665,14 @@
       "onboard_time": 1724556319,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 559299,
+      "num": 559299,
+      "word": "大叔欠债200万在上海送外卖还清",
+      "onboard_time": 1724593041,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 549838,
@@ -779,6 +827,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 464083,
+      "num": 464083,
+      "word": "唯一演遍四大名著的女演员",
+      "onboard_time": 1724594242,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 463307,
       "num": 463307,
       "word": "程潇的妹妹和林墨是一个班的同学",
@@ -875,14 +931,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 417345,
-      "num": 841129,
-      "word": "牺牲民警让被救女孩好好活着",
-      "onboard_time": 1724587640,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 413477,
       "num": 413477,
       "word": "蒋奇明迟早拿影帝",
@@ -913,6 +961,14 @@
       "onboard_time": 1724583139,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 396980,
+      "num": 396980,
+      "word": "张钧甯与男友葡萄牙逛街",
+      "onboard_time": 1724592562,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 394720,
@@ -963,6 +1019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 359157,
+      "num": 359157,
+      "word": "卢昱晓出妆前后生图",
+      "onboard_time": 1724593221,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 357050,
       "num": 357050,
       "word": "CPA会计",
@@ -987,12 +1051,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 349464,
+      "num": 349464,
+      "word": "美国宇航员将乘龙飞船返回地球",
+      "onboard_time": 1724590942,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 349115,
       "num": 349115,
       "word": "虹口公安分局官方通报",
       "onboard_time": 1724579179,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348604,
+      "num": 348603,
+      "word": "袁启聪直播",
+      "onboard_time": 1724583198,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 347540,
@@ -1016,6 +1096,14 @@
       "word": "郭艾伦加盟广州",
       "onboard_time": 1724497698,
       "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 342400,
+      "num": 342400,
+      "word": "孙颖莎回应为何输陈梦",
+      "onboard_time": 1724595323,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -1089,6 +1177,14 @@
       "onboard_time": 1724584163,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 302709,
+      "num": 302709,
+      "word": "黄一鸣自曝座驾",
+      "onboard_time": 1724594362,
+      "rank": 37,
+      "category": "网红"
     },
     {
       "raw_hot": 300850,
@@ -1195,12 +1291,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 265980,
-      "num": 265980,
-      "word": "袁启聪直播",
-      "onboard_time": 1724583198,
-      "rank": 42,
-      "category": "汽车"
+      "raw_hot": 265631,
+      "num": 265631,
+      "word": "孙颖莎谈混双夺冠压力",
+      "onboard_time": 1724595143,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 261238,
@@ -1217,6 +1313,14 @@
       "onboard_time": 1724574499,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259402,
+      "num": 259402,
+      "word": "孙杨教练一开始只盼他能达标",
+      "onboard_time": 1724595143,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 258212,
@@ -1283,14 +1387,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 249880,
-      "num": 249880,
-      "word": "张豆豆说孙杨很有安全感",
-      "onboard_time": 1724591722,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 249873,
       "num": 249873,
       "word": "夫妻离婚争13只乌龟抚养权",
@@ -1347,6 +1443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241487,
+      "num": 906816,
+      "word": "在食品安全上泯灭良心终将付出代价",
+      "onboard_time": 1724591183,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240395,
       "num": 240395,
       "word": "东部战区运油20歼16夜间空中加油",
@@ -1361,14 +1465,6 @@
       "onboard_time": 1724566340,
       "rank": 37,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 237849,
-      "num": 250720,
-      "word": "张钧甯与男友葡萄牙逛街",
-      "onboard_time": 1724592562,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 237684,
@@ -1531,6 +1627,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 221857,
+      "num": 221857,
+      "word": "孙杨透露未来发展",
+      "onboard_time": 1724595202,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221271,
       "num": 279681,
       "word": "杨幂对周深说少管我",
@@ -1633,6 +1737,14 @@
       "onboard_time": 1724588301,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 211736,
+      "num": 211736,
+      "word": "切尔西 抽象",
+      "onboard_time": 1724595323,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 211234,
@@ -2819,14 +2931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 115577,
-      "num": 906816,
-      "word": "在食品安全上泯灭良心终将付出代价",
-      "onboard_time": 1724591183,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113435,
       "num": 113435,
       "word": "蒋奇明 这碗饭终于是吃上了",
@@ -3211,6 +3315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 24807,
+      "num": 563874,
+      "word": "王赫野铁肺歌手",
+      "onboard_time": 1724594421,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 23757,
       "num": 327591,
       "word": "王一博祝福新浪娱乐",
@@ -3239,6 +3351,14 @@
       "num": 213178,
       "word": "钓鱼佬甩竿救出水中落难鸵鸟",
       "onboard_time": 1724539274,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21558,
+      "num": 767879,
+      "word": "落水救援有哪些注意事项",
+      "onboard_time": 1724594723,
       "rank": 9,
       "category": "社会新闻"
     },
