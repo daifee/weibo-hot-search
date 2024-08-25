@@ -1,6 +1,6 @@
 {
   "startTime": 1724603016158,
-  "endTime": 1724613431344,
+  "endTime": 1724614492775,
   "band_list": [
     {
       "raw_hot": 1016869,
@@ -331,6 +331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156507,
+      "num": 156507,
+      "word": "特朗普说马上战胜拜登时哈里斯登场",
+      "onboard_time": 1724611814,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 155495,
       "num": 155495,
       "word": "朱志鑫solo舞台",
@@ -459,7 +467,7 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 70567,
+      "raw_hot": 72124,
       "num": 114508,
       "word": "男子偷21座佛像放家中供奉",
       "onboard_time": 1724609953,
@@ -481,14 +489,6 @@
       "onboard_time": 1724592562,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 47815,
-      "num": 90667,
-      "word": "特朗普说马上战胜拜登时哈里斯登场",
-      "onboard_time": 1724611814,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 41492,
@@ -515,7 +515,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 36537,
+      "raw_hot": 37436,
       "num": 43764,
       "word": "边水往事质感",
       "onboard_time": 1724604796,
@@ -523,7 +523,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 27319,
+      "raw_hot": 29876,
       "num": 32141,
       "word": "以色列北部拉响密集防空警报",
       "onboard_time": 1724612292,
@@ -531,7 +531,15 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 25642,
+      "raw_hot": 25949,
+      "num": 29863,
+      "word": "FPX",
+      "onboard_time": 1724614214,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 25691,
       "num": 32138,
       "word": "音乐缘计划",
       "onboard_time": 1724604857,
@@ -545,6 +553,14 @@
       "onboard_time": 1724608093,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 13578,
+      "num": 84403,
+      "word": "坐高铁1个多小时穿越中国南北",
+      "onboard_time": 1724613671,
+      "rank": 9,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
