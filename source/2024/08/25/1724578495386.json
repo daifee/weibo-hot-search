@@ -1,0 +1,410 @@
+{
+  "runTime": 1724578495386,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1542958,
+        "num": 1542958,
+        "word": "半个内娱都在看边水往事",
+        "onboard_time": 1724573359,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 868648,
+        "num": 868648,
+        "word": "孙杨 没起腿",
+        "onboard_time": 1724556440,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125083,
+        "num": 766021,
+        "word": "外国小姐姐带你144小时逛游古都",
+        "onboard_time": 1724574319,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669950,
+        "num": 669950,
+        "word": "孙杨重返国家队难度不小",
+        "onboard_time": 1724575699,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 626005,
+        "num": 626005,
+        "word": "以色列遭数百枚火箭弹袭击现场",
+        "onboard_time": 1724571019,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 621114,
+        "num": 621114,
+        "word": "沈梦辰家族群有71个人",
+        "onboard_time": 1724570178,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 614560,
+        "num": 614560,
+        "word": "印度轮奸案嫌犯逃跑时溺水身亡",
+        "onboard_time": 1724561241,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493350,
+        "num": 493350,
+        "word": "9岁女童1年长高9厘米查出性早熟",
+        "onboard_time": 1724566399,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451319,
+        "num": 451319,
+        "word": "时代峰峻就安检问题发声明",
+        "onboard_time": 1724572519,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 58072,
+        "num": 448904,
+        "word": "目击者讲述民警救人牺牲过程",
+        "onboard_time": 1724577740,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 624462,
+        "num": 448896,
+        "word": "广东36岁女子晋升当奶奶",
+        "onboard_time": 1724576060,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447917,
+        "num": 447917,
+        "word": "边水往事断更",
+        "onboard_time": 1724574619,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 430605,
+        "num": 430605,
+        "word": "张若昀生日蛋糕落款是糖",
+        "onboard_time": 1724567839,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412295,
+        "num": 412295,
+        "word": "孙杨曾说希望和潘展乐一起游接力",
+        "onboard_time": 1724572639,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52948,
+        "num": 398289,
+        "word": "民警救人牺牲事发地摆满鲜花蜡烛",
+        "onboard_time": 1724577800,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388657,
+        "num": 388657,
+        "word": "程潇的妹妹和林墨是一个班的同学",
+        "onboard_time": 1724574197,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370052,
+        "num": 370052,
+        "word": "南京体育学院张某某被停职",
+        "onboard_time": 1724566699,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359739,
+        "num": 359739,
+        "word": "EDG总决赛对阵TH",
+        "onboard_time": 1724569759,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 331217,
+        "num": 331217,
+        "word": "登陆计划安检",
+        "onboard_time": 1724572341,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 305643,
+        "num": 305643,
+        "word": "边水往事 敢拍",
+        "onboard_time": 1724573000,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1032837,
+        "num": 300513,
+        "word": "医生让我别穿洞洞鞋",
+        "onboard_time": 1724576359,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 292933,
+        "num": 292933,
+        "word": "菲船非法冲闯我仙宾礁附近海域",
+        "onboard_time": 1724573241,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 290301,
+        "num": 290301,
+        "word": "董志豪 32溺",
+        "onboard_time": 1724576781,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276136,
+        "num": 276136,
+        "word": "孙杨小组第一",
+        "onboard_time": 1724555481,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261123,
+        "num": 261123,
+        "word": "以色列总理发声明",
+        "onboard_time": 1724567359,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 259522,
+        "num": 259522,
+        "word": "三里屯偶遇贾玲",
+        "onboard_time": 1724570899,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256154,
+        "num": 256154,
+        "word": "黄一鸣听到300万的反应",
+        "onboard_time": 1724550619,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 253412,
+        "num": 253412,
+        "word": "历史老师玩黑神话投入到手抖",
+        "onboard_time": 1724575158,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252117,
+        "num": 252117,
+        "word": "康康五滴血五杀",
+        "onboard_time": 1724576119,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 236564,
+        "num": 236564,
+        "word": "程潇妹妹",
+        "onboard_time": 1724577800,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210873,
+        "num": 210873,
+        "word": "吉克隽逸美白后",
+        "onboard_time": 1724574859,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205190,
+        "num": 205190,
+        "word": "EDG",
+        "onboard_time": 1724571259,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 202458,
+        "num": 202458,
+        "word": "崔杋圭开球",
+        "onboard_time": 1724577980,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200259,
+        "num": 200259,
+        "word": "樊振东退赛",
+        "onboard_time": 1724512282,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196338,
+        "num": 196338,
+        "word": "在韩国孙悟空一个跟斗都不敢翻",
+        "onboard_time": 1724562319,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192558,
+        "num": 192558,
+        "word": "蒋敦豪巡演抢票",
+        "onboard_time": 1724578159,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189219,
+        "num": 189219,
+        "word": "燃烧的月亮羊群踩踏事件",
+        "onboard_time": 1724578220,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185919,
+        "num": 185919,
+        "word": "边水往事大结局收官礼",
+        "onboard_time": 1724578220,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185529,
+        "num": 185529,
+        "word": "男子闹市区一盒盒放生蟑螂",
+        "onboard_time": 1724559141,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176748,
+        "num": 176748,
+        "word": "专家称房屋养老金不需老百姓直接出钱",
+        "onboard_time": 1724571740,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165918,
+        "num": 165918,
+        "word": "蒋奇明迟早拿影帝",
+        "onboard_time": 1724570060,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160072,
+        "num": 160072,
+        "word": "时代峰峻 马来西亚演唱会",
+        "onboard_time": 1724576419,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159691,
+        "num": 159691,
+        "word": "以色列在未来48小时内进入紧急状态",
+        "onboard_time": 1724557582,
+        "rank": 42,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 158808,
+        "num": 158808,
+        "word": "孙杨说已经很久没有这种感觉了",
+        "onboard_time": 1724576841,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156885,
+        "num": 156885,
+        "word": "孙杨复出后连签两笔代言",
+        "onboard_time": 1724577560,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260315,
+        "num": 156880,
+        "word": "张雪峰回应给女儿起名张姩菡",
+        "onboard_time": 1724574499,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156806,
+        "num": 156806,
+        "word": "唐僧 最早的二手烟受害者",
+        "onboard_time": 1724578280,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152244,
+        "num": 154434,
+        "word": "TF三代白金王子装",
+        "onboard_time": 1724577079,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153813,
+        "num": 153813,
+        "word": "网红胡湾否认涉性交易",
+        "onboard_time": 1724565138,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 152529,
+        "num": 152529,
+        "word": "电影刺猬",
+        "onboard_time": 1724566879,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习绘文#"
+    }
+  }
+}
