@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724568002298,
+  "endTime": 1724570313917,
   "band_list": [
     {
       "raw_hot": 9253853,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1237845,
+      "num": 1237845,
+      "word": "9岁女童1年长高9厘米查出性早熟",
+      "onboard_time": 1724566399,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1165750,
       "num": 255536,
       "word": "睡前妄想症",
@@ -121,6 +129,14 @@
       "onboard_time": 1724565138,
       "rank": 1,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1026420,
+      "num": 1026420,
+      "word": "南京体育学院张某某被停职",
+      "onboard_time": 1724566699,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1009610,
@@ -153,6 +169,14 @@
       "onboard_time": 1724549298,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 926191,
+      "num": 926191,
+      "word": "以色列总理发声明",
+      "onboard_time": 1724567359,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 907439,
@@ -251,6 +275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 688706,
+      "num": 688706,
+      "word": "张若昀生日蛋糕落款是糖",
+      "onboard_time": 1724567839,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 687653,
       "num": 687653,
       "word": "孙杨回应妻子鼓励",
@@ -265,14 +297,6 @@
       "onboard_time": 1724553980,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 637209,
-      "num": 637209,
-      "word": "9岁女童1年长高9厘米查出性早熟",
-      "onboard_time": 1724566399,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 614744,
@@ -321,14 +345,6 @@
       "onboard_time": 1724554099,
       "rank": 46,
       "category": "运动健身,健康医疗"
-    },
-    {
-      "raw_hot": 527953,
-      "num": 527953,
-      "word": "南京体育学院张某某被停职",
-      "onboard_time": 1724566699,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 526506,
@@ -467,14 +483,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 414055,
-      "num": 414055,
-      "word": "以色列总理发声明",
-      "onboard_time": 1724567359,
-      "rank": 13,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 403564,
       "num": 424682,
       "word": "熟人作案 影视化",
@@ -603,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268857,
+      "num": 316141,
+      "word": "韩国街头偶遇白敬亭",
+      "onboard_time": 1724568379,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268579,
       "num": 268579,
       "word": "被中国唯一海洋民族传统服饰美到了",
@@ -691,12 +707,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 236384,
+      "num": 311224,
+      "word": "张凌赫是真没把我们当外人",
+      "onboard_time": 1724568440,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 234922,
       "num": 234922,
       "word": "广西民警为救落水者牺牲",
       "onboard_time": 1724496258,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234171,
+      "num": 234171,
+      "word": "这届大学生刚入学就开始防脱了",
+      "onboard_time": 1724569579,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 233134,
@@ -745,6 +777,14 @@
       "onboard_time": 1724565499,
       "rank": 36,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 226108,
+      "num": 226108,
+      "word": "郑钦文 咖位用在我身上太奇怪了",
+      "onboard_time": 1724568859,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 225358,
@@ -915,6 +955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201852,
+      "num": 257389,
+      "word": "陪哭的含金量只有女生能懂",
+      "onboard_time": 1724569640,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201547,
       "num": 259808,
       "word": "吴彦祖送女儿上中学",
@@ -929,6 +977,14 @@
       "onboard_time": 1724566879,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 199309,
+      "num": 256638,
+      "word": "蒋奇明迟早拿影帝",
+      "onboard_time": 1724570060,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 198435,
@@ -971,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191945,
+      "num": 649053,
+      "word": "EDG总决赛对阵TH",
+      "onboard_time": 1724569759,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 188638,
       "num": 188638,
       "word": "吴宣仪舞台被蝴蝶包围了",
@@ -993,6 +1057,14 @@
       "onboard_time": 1724567359,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184522,
+      "num": 184522,
+      "word": "陈梦回山东与小球员切磋球技",
+      "onboard_time": 1724568319,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 184394,
@@ -1059,6 +1131,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 172352,
+      "num": 172352,
+      "word": "沈梦辰家族群有71个人",
+      "onboard_time": 1724570178,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172236,
       "num": 287558,
       "word": "民警送回幼童家长才知道孩子丢了",
@@ -1115,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168847,
+      "num": 168847,
+      "word": "田曦薇粉色花裙搭雨靴",
+      "onboard_time": 1724569040,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 168733,
       "num": 168733,
       "word": "王一博说已回酒店",
@@ -1139,14 +1227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 167418,
-      "num": 167418,
-      "word": "张若昀生日蛋糕落款是糖",
-      "onboard_time": 1724567839,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 167135,
       "num": 167135,
       "word": "张昊唯和伪造聊天记录发小已和解",
@@ -1161,6 +1241,14 @@
       "onboard_time": 1724554819,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165389,
+      "num": 165389,
+      "word": "中国海警管控菲肇事船只",
+      "onboard_time": 1724567898,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 164940,
@@ -1315,6 +1403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151786,
+      "num": 151786,
+      "word": "王者新赛季1人1个ban位",
+      "onboard_time": 1724570298,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 150376,
       "num": 150376,
       "word": "热爱可抵岁月漫长",
@@ -1329,14 +1425,6 @@
       "onboard_time": 1724557042,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 149539,
-      "num": 149539,
-      "word": "中国海警管控菲肇事船只",
-      "onboard_time": 1724567898,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 149380,
@@ -1707,6 +1795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65075,
+      "num": 626400,
+      "word": "一个孩子在家上学7年后会怎样",
+      "onboard_time": 1724569220,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63334,
       "num": 708068,
       "word": "每一场烟火美食都有青岛啤酒",
@@ -1827,6 +1923,14 @@
       "category": "社会新闻,国外时政"
     },
     {
+      "raw_hot": 34466,
+      "num": 391362,
+      "word": "人到中年我还在被我妈掌控",
+      "onboard_time": 1724569220,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30582,
       "num": 715856,
       "word": "白宫称拜登正密切关注黎以局势",
@@ -1905,6 +2009,14 @@
       "onboard_time": 1724503281,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 663,
+      "num": 184557,
+      "word": "救人英雄开的火锅店全是五星好评",
+      "onboard_time": 1724562018,
+      "rank": 39,
+      "category": "社会正能量"
     }
   ],
   "hotgov_list": [
