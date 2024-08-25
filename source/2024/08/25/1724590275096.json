@@ -1,0 +1,410 @@
+{
+  "runTime": 1724590275096,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6657770,
+        "num": 6657770,
+        "word": "孙杨400自夺冠",
+        "onboard_time": 1724583622,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2228830,
+        "num": 2228830,
+        "word": "国务院食安办通报油罐车事件",
+        "onboard_time": 1724587700,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6221865,
+        "num": 2209217,
+        "word": "EDG全球冠军赛夺冠",
+        "onboard_time": 1724588663,
+        "rank": 2,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1843794,
+        "num": 1843794,
+        "word": "EDG总决赛对阵TH",
+        "onboard_time": 1724569759,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1491083,
+        "num": 1491083,
+        "word": "EDG",
+        "onboard_time": 1724571259,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1208301,
+        "num": 1208301,
+        "word": "孙杨提前伸脖子等待金牌",
+        "onboard_time": 1724587280,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1144516,
+        "num": 1144516,
+        "word": "李飞开宾利",
+        "onboard_time": 1724585421,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 954486,
+        "num": 954486,
+        "word": "孙杨回应复出首冠",
+        "onboard_time": 1724587939,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 675091,
+        "num": 754248,
+        "word": "边水往事 吓人",
+        "onboard_time": 1724588480,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104401,
+        "num": 744783,
+        "word": "严格落实食用油运输专车专用",
+        "onboard_time": 1724589444,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1026188,
+        "num": 742092,
+        "word": "GAI EDG太帅了",
+        "onboard_time": 1724589682,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 735723,
+        "num": 735723,
+        "word": "樊振东踢足球",
+        "onboard_time": 1724583501,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 729933,
+        "num": 729933,
+        "word": "曝黄一鸣的别墅是租的",
+        "onboard_time": 1724584522,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 633988,
+        "num": 633988,
+        "word": "鹿晗去看邓紫棋演唱会了",
+        "onboard_time": 1724586081,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152,
+        "num": 622203,
+        "word": "庞博文红人节",
+        "onboard_time": 1724587221,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 617627,
+        "num": 617627,
+        "word": "罗拉带王能能回老家",
+        "onboard_time": 1724584460,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 615673,
+        "num": 615673,
+        "word": "落水女孩被救后发声",
+        "onboard_time": 1724578939,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549838,
+        "num": 549838,
+        "word": "媒体反映的罐车运输食用油乱象查处通报",
+        "onboard_time": 1724588001,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502551,
+        "num": 502551,
+        "word": "迪丽热巴鼻子倒影",
+        "onboard_time": 1724589144,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 472181,
+        "num": 472181,
+        "word": "女子产后掉发1个月掉出1把马尾",
+        "onboard_time": 1724588121,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52210,
+        "num": 469092,
+        "word": "混运食用油29.38吨被分装销售",
+        "onboard_time": 1724588421,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512616,
+        "num": 468893,
+        "word": "医生让我别穿洞洞鞋",
+        "onboard_time": 1724576359,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 468650,
+        "num": 468650,
+        "word": "康康 世一决",
+        "onboard_time": 1724589380,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 414762,
+        "num": 414762,
+        "word": "韩国博主在印度搭便车遭绑架",
+        "onboard_time": 1724579419,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401911,
+        "num": 401911,
+        "word": "孙杨400自决赛",
+        "onboard_time": 1724580200,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 366091,
+        "num": 366091,
+        "word": "捐款百万的拾荒人胡雷哭诉寻手机",
+        "onboard_time": 1724584701,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356665,
+        "num": 356665,
+        "word": "孙杨泪洒决赛",
+        "onboard_time": 1724586380,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 336350,
+        "num": 336350,
+        "word": "苏新皓清唱",
+        "onboard_time": 1724583139,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285339,
+        "num": 285339,
+        "word": "半个内娱都在看边水往事",
+        "onboard_time": 1724573359,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238682,
+        "num": 270937,
+        "word": "边水往事断更",
+        "onboard_time": 1724574619,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184407,
+        "num": 270385,
+        "word": "油罐车混运涉事司机被刑事立案",
+        "onboard_time": 1724588541,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324537,
+        "num": 270341,
+        "word": "张豆豆观战孙杨决赛",
+        "onboard_time": 1724582600,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270010,
+        "num": 270010,
+        "word": "徐海博 等待时机和杨哥合照",
+        "onboard_time": 1724589080,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248063,
+        "num": 248063,
+        "word": "牺牲民警让被救女孩好好活着",
+        "onboard_time": 1724587640,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247270,
+        "num": 247270,
+        "word": "表兄妹结婚10年育一女被判婚姻无效",
+        "onboard_time": 1724584522,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234753,
+        "num": 234753,
+        "word": "被救女孩称警察叔叔把我推到救生绳",
+        "onboard_time": 1724580379,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226182,
+        "num": 226182,
+        "word": "无畏契约",
+        "onboard_time": 1724578579,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 211102,
+        "num": 211102,
+        "word": "孙杨国内赛400自取得17连胜",
+        "onboard_time": 1724588962,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207843,
+        "num": 207843,
+        "word": "登陆计划直播",
+        "onboard_time": 1724580920,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201041,
+        "num": 201041,
+        "word": "广东36岁女子晋升当奶奶",
+        "onboard_time": 1724576060,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200116,
+        "num": 200116,
+        "word": "门腔 招不到人就招个实习生",
+        "onboard_time": 1724589862,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191664,
+        "num": 191664,
+        "word": "EDG 我们是冠军",
+        "onboard_time": 1724589981,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 189000,
+        "num": 189000,
+        "word": "王俊凯 周正没我小时候被打的狠",
+        "onboard_time": 1724589080,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181910,
+        "num": 181910,
+        "word": "孙杨肩背贴满了胶布",
+        "onboard_time": 1724589202,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180475,
+        "num": 180475,
+        "word": "穆祉丞个人舞台3D",
+        "onboard_time": 1724590163,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41329,
+        "num": 180354,
+        "word": "神十八乘组展示太空菜园",
+        "onboard_time": 1724574140,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 180315,
+        "num": 180315,
+        "word": "许昕回应被抄袭",
+        "onboard_time": 1724590221,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57517,
+        "num": 178897,
+        "word": "新能源猎装不止纯电",
+        "onboard_time": 1724590043,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 178847,
+        "num": 178847,
+        "word": "孙杨重走来时路",
+        "onboard_time": 1724589202,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175856,
+        "num": 175856,
+        "word": "TF三代火力全开舞台",
+        "onboard_time": 1724590221,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习绘文#"
+    }
+  }
+}
