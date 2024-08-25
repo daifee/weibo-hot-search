@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724556994492,
+  "endTime": 1724559880147,
   "band_list": [
     {
       "raw_hot": 9253853,
@@ -19,6 +19,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2330009,
+      "num": 2330009,
+      "word": "孙杨哭了",
+      "onboard_time": 1724557701,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2141711,
       "num": 2141711,
       "word": "樊振东退赛",
@@ -33,6 +41,14 @@
       "onboard_time": 1724545097,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2050236,
+      "num": 2050236,
+      "word": "孙杨 没起腿",
+      "onboard_time": 1724556440,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 1766050,
@@ -155,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 748027,
+      "num": 748027,
+      "word": "以色列在未来48小时内进入紧急状态",
+      "onboard_time": 1724557582,
+      "rank": 5,
+      "category": "国外时政,军事"
+    },
+    {
       "raw_hot": 721396,
       "num": 756164,
       "word": "吴镇宇 为什么吐槽一个开玩笑的人",
@@ -195,12 +219,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 577539,
+      "num": 577539,
+      "word": "孙杨 闪耀洛杉矶",
+      "onboard_time": 1724556319,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 555532,
+      "num": 555532,
+      "word": "黎巴嫩真主党对以色列进行大规模袭击",
+      "onboard_time": 1724559199,
+      "rank": 8,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 547127,
       "num": 547127,
       "word": "央视曝回流药黑色产业链",
       "onboard_time": 1724508922,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 534485,
+      "num": 386930,
+      "word": "真的建议坐久了勾勾小腿",
+      "onboard_time": 1724554099,
+      "rank": 46,
+      "category": "运动健身,健康医疗"
     },
     {
       "raw_hot": 526506,
@@ -211,20 +259,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 507946,
+      "num": 709804,
+      "word": "董力cue到了阿拉蕾",
+      "onboard_time": 1724554460,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 495223,
       "num": 495223,
       "word": "檀健次跟爱奇艺道歉",
       "onboard_time": 1724504723,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 487356,
-      "num": 299306,
-      "word": "真的建议坐久了勾勾小腿",
-      "onboard_time": 1724554099,
-      "rank": 46,
-      "category": "运动健身,健康医疗"
     },
     {
       "raw_hot": 485586,
@@ -291,12 +339,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 440395,
-      "num": 709804,
-      "word": "董力cue到了阿拉蕾",
-      "onboard_time": 1724554460,
-      "rank": 14,
-      "category": "综艺"
+      "raw_hot": 444228,
+      "num": 444228,
+      "word": "泳帝",
+      "onboard_time": 1724557522,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 434484,
@@ -308,19 +356,11 @@
     },
     {
       "raw_hot": 403564,
-      "num": 403564,
+      "num": 424682,
       "word": "熟人作案 影视化",
       "onboard_time": 1724550978,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 394845,
-      "num": 394845,
-      "word": "孙杨 没起腿",
-      "onboard_time": 1724556440,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 369007,
@@ -339,12 +379,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 357050,
+      "num": 357050,
+      "word": "CPA会计",
+      "onboard_time": 1724557761,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 354570,
+      "num": 354570,
+      "word": "孙杨 水花消失术",
+      "onboard_time": 1724559499,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 350051,
       "num": 350051,
       "word": "蒋奇明好帅",
       "onboard_time": 1724513302,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 343126,
+      "num": 343126,
+      "word": "老孙头 余生请多游泳",
+      "onboard_time": 1724557941,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 342980,
@@ -395,12 +459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 266217,
-      "num": 266217,
-      "word": "孙杨 闪耀洛杉矶",
-      "onboard_time": 1724556319,
-      "rank": 23,
-      "category": "体育"
+      "raw_hot": 263520,
+      "num": 263520,
+      "word": "男子闹市区一盒盒放生蟑螂",
+      "onboard_time": 1724559141,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257547,
@@ -441,6 +505,14 @@
       "onboard_time": 1724507242,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241253,
+      "num": 290883,
+      "word": "景甜的手就是尺",
+      "onboard_time": 1724557221,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 240395,
@@ -579,12 +651,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 208947,
+      "num": 208947,
+      "word": "今晚孙杨决赛",
+      "onboard_time": 1724558899,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208841,
       "num": 208841,
       "word": "越吃越瘦的负能量食物真有",
       "onboard_time": 1724544317,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 206905,
+      "num": 535473,
+      "word": "非遗厨师把家乡风景做成了菜",
+      "onboard_time": 1724557941,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 201547,
@@ -619,6 +707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192259,
+      "num": 192259,
+      "word": "全球多地暴发西尼罗河病毒疫情",
+      "onboard_time": 1724558242,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191999,
       "num": 191999,
       "word": "中国非遗簪花和外国帅哥的适配度",
@@ -643,6 +739,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 187477,
+      "num": 268353,
+      "word": "张碧晨是懂周生如故名场面的",
+      "onboard_time": 1724558718,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 182908,
       "num": 208850,
       "word": "檀健次脸小具象化",
@@ -665,6 +769,14 @@
       "onboard_time": 1724497879,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176691,
+      "num": 176691,
+      "word": "肖战披肩毛衣白衬衫",
+      "onboard_time": 1724559799,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 176314,
@@ -723,12 +835,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 167648,
+      "num": 167648,
+      "word": "九部孩子身后的天终于亮了",
+      "onboard_time": 1724558960,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167135,
       "num": 167135,
       "word": "张昊唯和伪造聊天记录发小已和解",
       "onboard_time": 1724501721,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166313,
+      "num": 904144,
+      "word": "绍兴一医院眼科套取医保资金2000万",
+      "onboard_time": 1724554819,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164940,
@@ -745,6 +873,22 @@
       "onboard_time": 1724509522,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163873,
+      "num": 163873,
+      "word": "唯一不需要颗粒度的工作找到了",
+      "onboard_time": 1724558179,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 163241,
+      "num": 163241,
+      "word": "U17中国女排世锦赛夺冠",
+      "onboard_time": 1724559259,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 162554,
@@ -779,12 +923,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156464,
-      "num": 904144,
-      "word": "绍兴一医院眼科套取医保资金2000万",
-      "onboard_time": 1724554819,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 157077,
+      "num": 428780,
+      "word": "檀健次贴脸开大杜淳初舞台",
+      "onboard_time": 1724559019,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 155969,
@@ -843,6 +987,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 150144,
+      "num": 150144,
+      "word": "4年裸辞8次的女孩渴望工位",
+      "onboard_time": 1724557042,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149380,
+      "num": 149380,
+      "word": "有没有发现早餐的成本越来越贵",
+      "onboard_time": 1724554880,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 149269,
+      "num": 149269,
+      "word": "王一博的三次乐华红毯",
+      "onboard_time": 1724559740,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 148566,
       "num": 148566,
       "word": "徐海乔的腰",
@@ -857,14 +1025,6 @@
       "onboard_time": 1724513960,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 145103,
-      "num": 145103,
-      "word": "有没有发现早餐的成本越来越贵",
-      "onboard_time": 1724554880,
-      "rank": 43,
-      "category": "美食"
     },
     {
       "raw_hot": 142563,
@@ -1147,6 +1307,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 61588,
+      "num": 534875,
+      "word": "倪妮美出新高度",
+      "onboard_time": 1724555180,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 61215,
       "num": 64424,
       "word": "张大仙说黑神话好玩到吐",
@@ -1211,14 +1379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38297,
-      "num": 386738,
-      "word": "倪妮美出新高度",
-      "onboard_time": 1724555180,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 30264,
       "num": 58443,
       "word": "栾留伟赵金拟被认定见义勇为",
@@ -1276,7 +1436,7 @@
     },
     {
       "raw_hot": 12328,
-      "num": 1639216,
+      "num": 2106341,
       "word": "铸牢共同体中华一家亲",
       "onboard_time": 1724503281,
       "rank": 2,

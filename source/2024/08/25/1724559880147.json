@@ -1,0 +1,410 @@
+{
+  "runTime": 1724559880147,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7309908,
+        "num": 7309908,
+        "word": "孙杨小组第一",
+        "onboard_time": 1724555481,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2330009,
+        "num": 2330009,
+        "word": "孙杨哭了",
+        "onboard_time": 1724557701,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4280,
+        "num": 2106341,
+        "word": "铸牢共同体中华一家亲",
+        "onboard_time": 1724503281,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2050236,
+        "num": 2050236,
+        "word": "孙杨 没起腿",
+        "onboard_time": 1724556440,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 756854,
+        "num": 756854,
+        "word": "男子每天凌晨4点出门冒充特警查车",
+        "onboard_time": 1724552780,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 748027,
+        "num": 748027,
+        "word": "以色列在未来48小时内进入紧急状态",
+        "onboard_time": 1724557582,
+        "rank": 5,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 577539,
+        "num": 577539,
+        "word": "孙杨 闪耀洛杉矶",
+        "onboard_time": 1724556319,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 507946,
+        "num": 560415,
+        "word": "董力cue到了阿拉蕾",
+        "onboard_time": 1724554460,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 555532,
+        "num": 555532,
+        "word": "黎巴嫩真主党对以色列进行大规模袭击",
+        "onboard_time": 1724559199,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 206905,
+        "num": 535473,
+        "word": "非遗厨师把家乡风景做成了菜",
+        "onboard_time": 1724557941,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 879430,
+        "num": 535151,
+        "word": "黄一鸣听到300万的反应",
+        "onboard_time": 1724550619,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 61588,
+        "num": 534875,
+        "word": "倪妮美出新高度",
+        "onboard_time": 1724555180,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 534756,
+        "num": 534756,
+        "word": "孙杨晋级决赛",
+        "onboard_time": 1724555600,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 484623,
+        "num": 484623,
+        "word": "大唐不夜城半年仅赚23.53万元",
+        "onboard_time": 1724546479,
+        "rank": 13,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 447353,
+        "num": 447353,
+        "word": "父亲送女儿上班溺亡前细节回放",
+        "onboard_time": 1724547799,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444228,
+        "num": 444228,
+        "word": "泳帝",
+        "onboard_time": 1724557522,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 435910,
+        "num": 435910,
+        "word": "黄晓明 追星成功",
+        "onboard_time": 1724548639,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157077,
+        "num": 428780,
+        "word": "檀健次贴脸开大杜淳初舞台",
+        "onboard_time": 1724559019,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241308,
+        "num": 424682,
+        "word": "熟人作案 影视化",
+        "onboard_time": 1724550978,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 423178,
+        "num": 423178,
+        "word": "张豆豆发文支持孙杨",
+        "onboard_time": 1724550439,
+        "rank": 19,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 545693,
+        "num": 394634,
+        "word": "印度五名医生被指涉奸杀女医生案",
+        "onboard_time": 1724545097,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534485,
+        "num": 386930,
+        "word": "真的建议坐久了勾勾小腿",
+        "onboard_time": 1724554099,
+        "rank": 21,
+        "category": "运动健身,健康医疗"
+      },
+      {
+        "raw_hot": 530435,
+        "num": 380573,
+        "word": "樊振东退赛",
+        "onboard_time": 1724512282,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 360813,
+        "num": 360813,
+        "word": "超65万人预约观看孙杨复出战",
+        "onboard_time": 1724549298,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 357050,
+        "num": 357050,
+        "word": "CPA会计",
+        "onboard_time": 1724557761,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 354570,
+        "num": 354570,
+        "word": "孙杨 水花消失术",
+        "onboard_time": 1724559499,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 343126,
+        "num": 343126,
+        "word": "老孙头 余生请多游泳",
+        "onboard_time": 1724557941,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241253,
+        "num": 290883,
+        "word": "景甜的手就是尺",
+        "onboard_time": 1724557221,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197220,
+        "num": 275830,
+        "word": "李娟说和董宇辉的访谈好奇怪",
+        "onboard_time": 1724550318,
+        "rank": 28,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 187477,
+        "num": 268353,
+        "word": "张碧晨是懂周生如故名场面的",
+        "onboard_time": 1724558718,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 263520,
+        "num": 263520,
+        "word": "男子闹市区一盒盒放生蟑螂",
+        "onboard_time": 1724559141,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250574,
+        "num": 250574,
+        "word": "15岁女孩跨省看完演唱会身上只剩3毛",
+        "onboard_time": 1724542035,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208947,
+        "num": 208947,
+        "word": "今晚孙杨决赛",
+        "onboard_time": 1724558899,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194632,
+        "num": 194632,
+        "word": "董志豪仰泳现场直拍",
+        "onboard_time": 1724554400,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192259,
+        "num": 192259,
+        "word": "全球多地暴发西尼罗河病毒疫情",
+        "onboard_time": 1724558242,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189477,
+        "num": 189477,
+        "word": "孙杨好牛",
+        "onboard_time": 1724556140,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183907,
+        "num": 183907,
+        "word": "多少年了我还吃帝后cp这套",
+        "onboard_time": 1724552240,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176691,
+        "num": 176691,
+        "word": "肖战披肩毛衣白衬衫",
+        "onboard_time": 1724559799,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167648,
+        "num": 167648,
+        "word": "九部孩子身后的天终于亮了",
+        "onboard_time": 1724558960,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166313,
+        "num": 166313,
+        "word": "绍兴一医院眼科套取医保资金2000万",
+        "onboard_time": 1724554819,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163873,
+        "num": 163873,
+        "word": "唯一不需要颗粒度的工作找到了",
+        "onboard_time": 1724558179,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163241,
+        "num": 163241,
+        "word": "U17中国女排世锦赛夺冠",
+        "onboard_time": 1724559259,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161565,
+        "num": 161565,
+        "word": "黑神话悟空与86版西游记角色对照",
+        "onboard_time": 1724556380,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154260,
+        "num": 154260,
+        "word": "房屋养老金",
+        "onboard_time": 1724546717,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 150144,
+        "num": 150144,
+        "word": "4年裸辞8次的女孩渴望工位",
+        "onboard_time": 1724557042,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149380,
+        "num": 149380,
+        "word": "有没有发现早餐的成本越来越贵",
+        "onboard_time": 1724554880,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 149269,
+        "num": 149269,
+        "word": "王一博的三次乐华红毯",
+        "onboard_time": 1724559740,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144022,
+        "num": 144022,
+        "word": "吴镇宇 为什么吐槽一个开玩笑的人",
+        "onboard_time": 1724545159,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109145,
+        "num": 143396,
+        "word": "杨紫工作室 审美",
+        "onboard_time": 1724513841,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136465,
+        "num": 136465,
+        "word": "村民捡到女婴胎盘脐带均未剪",
+        "onboard_time": 1724545998,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习新语#"
+    }
+  }
+}
