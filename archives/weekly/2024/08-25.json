@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724625425549,
+  "endTime": 1724628008548,
   "band_list": [
     {
       "raw_hot": 14208627,
@@ -185,6 +185,14 @@
       "onboard_time": 1724546479,
       "rank": 0,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1454952,
+      "num": 1454952,
+      "word": "只要北京人的血是热的这家店就不会凉",
+      "onboard_time": 1724612053,
+      "rank": 46,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 1431286,
@@ -691,14 +699,6 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 613587,
-      "num": 613587,
-      "word": "只要北京人的血是热的这家店就不会凉",
-      "onboard_time": 1724612053,
-      "rank": 46,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 612433,
       "num": 809543,
       "word": "被救女孩称警察叔叔把我推到救生绳",
@@ -713,6 +713,14 @@
       "onboard_time": 1724595143,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 606478,
+      "num": 606478,
+      "word": "特朗普说马上战胜拜登时哈里斯登场",
+      "onboard_time": 1724611814,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 606313,
@@ -859,6 +867,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 489032,
+      "num": 489032,
+      "word": "杭州多起半夜骑行党相撞事故",
+      "onboard_time": 1724603418,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 485586,
       "num": 485586,
       "word": "冯骥 离职是最好的医美",
@@ -905,14 +921,6 @@
       "onboard_time": 1724589380,
       "rank": 22,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 468013,
-      "num": 468013,
-      "word": "杭州多起半夜骑行党相撞事故",
-      "onboard_time": 1724603418,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 464176,
@@ -1089,14 +1097,6 @@
       "onboard_time": 1724584701,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 385969,
-      "num": 385969,
-      "word": "特朗普说马上战胜拜登时哈里斯登场",
-      "onboard_time": 1724611814,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 381960,
@@ -1337,6 +1337,14 @@
       "onboard_time": 1724554400,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 296349,
+      "num": 296349,
+      "word": "黄一鸣回应想让女儿当网红",
+      "onboard_time": 1724607914,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 293476,
@@ -1593,6 +1601,14 @@
       "onboard_time": 1724553980,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 245077,
+      "num": 245077,
+      "word": "男子偷21座佛像放家中供奉",
+      "onboard_time": 1724609953,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244493,
@@ -2979,14 +2995,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 141830,
-      "num": 133122,
-      "word": "黄一鸣回应想让女儿当网红",
-      "onboard_time": 1724607914,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
       "raw_hot": 140193,
       "num": 598143,
       "word": "过期药翻新后流入市场",
@@ -3041,6 +3049,14 @@
       "onboard_time": 1724549900,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135108,
+      "num": 117359,
+      "word": "谁懂那句走吧下班了的含泪量",
+      "onboard_time": 1724625254,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 134966,
@@ -3195,6 +3211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 118102,
+      "num": 118102,
+      "word": "第一次见男女主都是小苦瓜的",
+      "onboard_time": 1724625433,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118084,
       "num": 395442,
       "word": "潘玮柏 男孩子的体重少打听",
@@ -3243,14 +3267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 108627,
-      "num": 114508,
-      "word": "男子偷21座佛像放家中供奉",
-      "onboard_time": 1724609953,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 105298,
       "num": 1152717,
       "word": "2024暑期档电影票房超110亿",
@@ -3264,6 +3280,14 @@
       "word": "柳眠棠嘴硬心软",
       "onboard_time": 1724564242,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 96949,
+      "num": 96949,
+      "word": "刘宇宁一开口这味就对了",
+      "onboard_time": 1724620990,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -3299,11 +3323,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82412,
+      "num": 93082,
+      "word": "弃婴里大部分是残障儿童或女婴",
+      "onboard_time": 1724626935,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 77685,
       "num": 77685,
       "word": "马立奥忘年交",
       "onboard_time": 1724540414,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 77615,
+      "num": 77615,
+      "word": "小S女儿绘画作品参展",
+      "onboard_time": 1724617751,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -3507,20 +3547,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45711,
+      "num": 59231,
+      "word": "迪丽热巴高马尾比耶",
+      "onboard_time": 1724625616,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 45200,
       "num": 1107908,
       "word": "渤海油气开发新突破",
       "onboard_time": 1724508622,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 44201,
-      "num": 58685,
-      "word": "刘宇宁一开口这味就对了",
-      "onboard_time": 1724620990,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 43950,
@@ -3627,14 +3667,6 @@
       "category": "社会新闻,国外时政"
     },
     {
-      "raw_hot": 38945,
-      "num": 42372,
-      "word": "小S女儿绘画作品参展",
-      "onboard_time": 1724617751,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 35232,
       "num": 267905,
       "word": "深蓝华为联合推进全民智驾",
@@ -3724,7 +3756,7 @@
     },
     {
       "raw_hot": 23082,
-      "num": 145062,
+      "num": 296743,
       "word": "一根琴弦的无限种可能",
       "onboard_time": 1724615532,
       "rank": 15,

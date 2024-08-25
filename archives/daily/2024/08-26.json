@@ -1,7 +1,15 @@
 {
   "startTime": 1724603016158,
-  "endTime": 1724625425549,
+  "endTime": 1724628008548,
   "band_list": [
+    {
+      "raw_hot": 1454952,
+      "num": 1454952,
+      "word": "只要北京人的血是热的这家店就不会凉",
+      "onboard_time": 1724612053,
+      "rank": 46,
+      "category": "社会正能量"
+    },
     {
       "raw_hot": 1016869,
       "num": 469513,
@@ -51,12 +59,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 613587,
-      "num": 613587,
-      "word": "只要北京人的血是热的这家店就不会凉",
-      "onboard_time": 1724612053,
-      "rank": 46,
-      "category": "社会正能量"
+      "raw_hot": 606478,
+      "num": 606478,
+      "word": "特朗普说马上战胜拜登时哈里斯登场",
+      "onboard_time": 1724611814,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 548446,
@@ -99,18 +107,18 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 473032,
-      "num": 473032,
-      "word": "国务院食安办通报油罐车事件",
-      "onboard_time": 1724587700,
+      "raw_hot": 489032,
+      "num": 489032,
+      "word": "杭州多起半夜骑行党相撞事故",
+      "onboard_time": 1724603418,
       "rank": 9,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 468013,
-      "num": 468013,
-      "word": "杭州多起半夜骑行党相撞事故",
-      "onboard_time": 1724603418,
+      "raw_hot": 473032,
+      "num": 473032,
+      "word": "国务院食安办通报油罐车事件",
+      "onboard_time": 1724587700,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -155,14 +163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 385969,
-      "num": 385969,
-      "word": "特朗普说马上战胜拜登时哈里斯登场",
-      "onboard_time": 1724611814,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 374757,
       "num": 374757,
       "word": "孙颖莎的时间表",
@@ -187,12 +187,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 306741,
+      "num": 351922,
+      "word": "美国宇航员将乘龙飞船返回地球",
+      "onboard_time": 1724590942,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 306644,
       "num": 306644,
       "word": "孙颖莎和教练父女版斗嘴",
       "onboard_time": 1724599161,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 296349,
+      "num": 296349,
+      "word": "黄一鸣回应想让女儿当网红",
+      "onboard_time": 1724607914,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 281150,
@@ -208,6 +224,14 @@
       "word": "媒体反映的罐车运输食用油乱象查处通报",
       "onboard_time": 1724588001,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245077,
+      "num": 245077,
+      "word": "男子偷21座佛像放家中供奉",
+      "onboard_time": 1724609953,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -241,14 +265,6 @@
       "onboard_time": 1724595143,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 207857,
-      "num": 351922,
-      "word": "美国宇航员将乘龙飞船返回地球",
-      "onboard_time": 1724590942,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205085,
@@ -387,14 +403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 141830,
-      "num": 133122,
-      "word": "黄一鸣回应想让女儿当网红",
-      "onboard_time": 1724607914,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
       "raw_hot": 139463,
       "num": 139463,
       "word": "孙杨透露未来发展",
@@ -419,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135108,
+      "num": 117359,
+      "word": "谁懂那句走吧下班了的含泪量",
+      "onboard_time": 1724625254,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132735,
       "num": 132735,
       "word": "薛之谦音乐节",
@@ -435,6 +451,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123890,
+      "num": 123890,
+      "word": "肖战唱出了天山峡谷的美",
+      "onboard_time": 1724595983,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 118102,
+      "num": 118102,
+      "word": "第一次见男女主都是小苦瓜的",
+      "onboard_time": 1724625433,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117949,
       "num": 117949,
       "word": "沙地塌陷埋压2孩童众人刨沙施救",
@@ -443,20 +475,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 108627,
-      "num": 114508,
-      "word": "男子偷21座佛像放家中供奉",
-      "onboard_time": 1724609953,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 96478,
+      "raw_hot": 116977,
       "num": 193990,
       "word": "韩国博主在印度搭便车遭绑架",
       "onboard_time": 1724579419,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96949,
+      "num": 96949,
+      "word": "刘宇宁一开口这味就对了",
+      "onboard_time": 1724620990,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 82412,
+      "num": 93082,
+      "word": "弃婴里大部分是残障儿童或女婴",
+      "onboard_time": 1724626935,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 77615,
+      "num": 77615,
+      "word": "小S女儿绘画作品参展",
+      "onboard_time": 1724617751,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 75031,
@@ -515,12 +563,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 44201,
-      "num": 58685,
-      "word": "刘宇宁一开口这味就对了",
-      "onboard_time": 1724620990,
-      "rank": 48,
-      "category": "剧集"
+      "raw_hot": 45711,
+      "num": 59231,
+      "word": "迪丽热巴高马尾比耶",
+      "onboard_time": 1724625616,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 41492,
@@ -545,14 +593,6 @@
       "onboard_time": 1724610192,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 38945,
-      "num": 42372,
-      "word": "小S女儿绘画作品参展",
-      "onboard_time": 1724617751,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 34032,
@@ -580,7 +620,7 @@
     },
     {
       "raw_hot": 23082,
-      "num": 145062,
+      "num": 296743,
       "word": "一根琴弦的无限种可能",
       "onboard_time": 1724615532,
       "rank": 15,
