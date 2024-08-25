@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724595436601,
+  "endTime": 1724596470993,
   "band_list": [
     {
       "raw_hot": 14208627,
@@ -99,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1821067,
+      "num": 1821067,
+      "word": "在泰国被辱骂中国女子拒绝和解",
+      "onboard_time": 1724593101,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1766050,
       "num": 903407,
       "word": "黄一鸣听到300万的反应",
@@ -163,6 +171,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1431286,
+      "num": 1431286,
+      "word": "孙颖莎回应为何输陈梦",
+      "onboard_time": 1724595323,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1421431,
       "num": 1421431,
       "word": "刘亦菲37岁庆生照",
@@ -217,6 +233,14 @@
       "onboard_time": 1724579419,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1258315,
+      "num": 1258315,
+      "word": "央视专访孙颖莎",
+      "onboard_time": 1724594122,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 1237845,
@@ -331,14 +355,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 957429,
-      "num": 957429,
-      "word": "在泰国被辱骂中国女子拒绝和解",
-      "onboard_time": 1724593101,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 951141,
       "num": 951141,
       "word": "超65万人预约观看孙杨复出战",
@@ -435,6 +451,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 831865,
+      "num": 831865,
+      "word": "大叔欠债200万在上海送外卖还清",
+      "onboard_time": 1724593041,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 827377,
+      "num": 827377,
+      "word": "张豆豆说孙杨很有安全感",
+      "onboard_time": 1724591722,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 820832,
       "num": 877420,
       "word": "赵丽颖带儿子出游",
@@ -449,14 +481,6 @@
       "onboard_time": 1724567839,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 810847,
-      "num": 810847,
-      "word": "央视专访孙颖莎",
-      "onboard_time": 1724594122,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 800519,
@@ -481,6 +505,14 @@
       "onboard_time": 1724580920,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 760255,
+      "num": 760255,
+      "word": "唯一演遍四大名著的女演员",
+      "onboard_time": 1724594242,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 758297,
@@ -529,14 +561,6 @@
       "onboard_time": 1724586081,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 716059,
-      "num": 716059,
-      "word": "张豆豆说孙杨很有安全感",
-      "onboard_time": 1724591722,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 705293,
@@ -635,20 +659,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 606313,
+      "num": 841129,
+      "word": "牺牲民警让被救女孩好好活着",
+      "onboard_time": 1724587640,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 588577,
       "num": 588577,
       "word": "王一博 绿海",
       "onboard_time": 1724506522,
       "rank": 6,
       "category": "演出"
-    },
-    {
-      "raw_hot": 580987,
-      "num": 841129,
-      "word": "牺牲民警让被救女孩好好活着",
-      "onboard_time": 1724587640,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 577935,
@@ -665,14 +689,6 @@
       "onboard_time": 1724556319,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 559299,
-      "num": 559299,
-      "word": "大叔欠债200万在上海送外卖还清",
-      "onboard_time": 1724593041,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 549838,
@@ -736,6 +752,14 @@
       "word": "董力cue到了阿拉蕾",
       "onboard_time": 1724554460,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 507713,
+      "num": 507713,
+      "word": "朱志鑫solo舞台",
+      "onboard_time": 1724595921,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -827,14 +851,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 464083,
-      "num": 464083,
-      "word": "唯一演遍四大名著的女演员",
-      "onboard_time": 1724594242,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 463307,
       "num": 463307,
       "word": "程潇的妹妹和林墨是一个班的同学",
@@ -857,6 +873,14 @@
       "onboard_time": 1724574619,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 457023,
+      "num": 457023,
+      "word": "孙颖莎回应王楚钦看自己脸色",
+      "onboard_time": 1724595743,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 453915,
@@ -931,6 +955,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 417549,
+      "num": 417549,
+      "word": "卢昱晓出妆前后生图",
+      "onboard_time": 1724593221,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 413477,
       "num": 413477,
       "word": "蒋奇明迟早拿影帝",
@@ -987,6 +1019,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 390416,
+      "num": 390416,
+      "word": "孙杨教练一开始只盼他能达标",
+      "onboard_time": 1724595143,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 381960,
+      "num": 381960,
+      "word": "袁启聪直播",
+      "onboard_time": 1724583198,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 377343,
       "num": 698526,
       "word": "张碧晨是懂周生如故名场面的",
@@ -1019,14 +1067,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 359157,
-      "num": 359157,
-      "word": "卢昱晓出妆前后生图",
-      "onboard_time": 1724593221,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 357050,
       "num": 357050,
       "word": "CPA会计",
@@ -1043,6 +1083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 352045,
+      "num": 352045,
+      "word": "黄一鸣自曝座驾",
+      "onboard_time": 1724594362,
+      "rank": 37,
+      "category": "网红"
+    },
+    {
       "raw_hot": 350051,
       "num": 350051,
       "word": "蒋奇明好帅",
@@ -1052,7 +1100,7 @@
     },
     {
       "raw_hot": 349464,
-      "num": 349464,
+      "num": 827768,
       "word": "美国宇航员将乘龙飞船返回地球",
       "onboard_time": 1724590942,
       "rank": 29,
@@ -1065,14 +1113,6 @@
       "onboard_time": 1724579179,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 348604,
-      "num": 348603,
-      "word": "袁启聪直播",
-      "onboard_time": 1724583198,
-      "rank": 42,
-      "category": "汽车"
     },
     {
       "raw_hot": 347540,
@@ -1096,14 +1136,6 @@
       "word": "郭艾伦加盟广州",
       "onboard_time": 1724497698,
       "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 342400,
-      "num": 342400,
-      "word": "孙颖莎回应为何输陈梦",
-      "onboard_time": 1724595323,
-      "rank": 33,
       "category": "体育"
     },
     {
@@ -1139,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 325196,
+      "num": 325196,
+      "word": "孙颖莎谈混双夺冠压力",
+      "onboard_time": 1724595143,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 323462,
       "num": 689101,
       "word": "惠英红 刘亦菲限定版调香师",
@@ -1153,6 +1193,14 @@
       "onboard_time": 1724562681,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 316431,
+      "num": 316431,
+      "word": "AG超玩会",
+      "onboard_time": 1724593401,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 315588,
@@ -1179,12 +1227,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 302709,
-      "num": 302709,
-      "word": "黄一鸣自曝座驾",
-      "onboard_time": 1724594362,
-      "rank": 37,
-      "category": "网红"
+      "raw_hot": 301858,
+      "num": 301858,
+      "word": "肖战唱出了天山峡谷的美",
+      "onboard_time": 1724595983,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 300850,
@@ -1251,6 +1299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 271889,
+      "num": 271889,
+      "word": "孙颖莎自己加练",
+      "onboard_time": 1724596103,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 270010,
       "num": 270010,
       "word": "徐海博 等待时机和杨哥合照",
@@ -1291,12 +1347,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 265631,
-      "num": 265631,
-      "word": "孙颖莎谈混双夺冠压力",
-      "onboard_time": 1724595143,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 261556,
+      "num": 261556,
+      "word": "AG对战狼队",
+      "onboard_time": 1724590281,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 261238,
@@ -1313,14 +1369,6 @@
       "onboard_time": 1724574499,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259402,
-      "num": 259402,
-      "word": "孙杨教练一开始只盼他能达标",
-      "onboard_time": 1724595143,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 258212,
@@ -1395,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249417,
+      "num": 249417,
+      "word": "KPL",
+      "onboard_time": 1724595143,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 247270,
       "num": 247270,
       "word": "表兄妹结婚10年育一女被判婚姻无效",
@@ -1433,6 +1489,14 @@
       "onboard_time": 1724581280,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 242473,
+      "num": 242473,
+      "word": "切尔西 抽象",
+      "onboard_time": 1724595323,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 242361,
@@ -1512,14 +1576,6 @@
       "word": "Zoom 拿下",
       "onboard_time": 1724513122,
       "rank": 25,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 231289,
-      "num": 231289,
-      "word": "AG对战狼队",
-      "onboard_time": 1724590281,
-      "rank": 45,
       "category": "电竞"
     },
     {
@@ -1737,14 +1793,6 @@
       "onboard_time": 1724588301,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 211736,
-      "num": 211736,
-      "word": "切尔西 抽象",
-      "onboard_time": 1724595323,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 211234,
@@ -3219,6 +3267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 41636,
+      "num": 615061,
+      "word": "王赫野铁肺歌手",
+      "onboard_time": 1724594421,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 41555,
       "num": 41555,
       "word": "WBG获胜",
@@ -3313,14 +3369,6 @@
       "onboard_time": 1724590821,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 24807,
-      "num": 563874,
-      "word": "王赫野铁肺歌手",
-      "onboard_time": 1724594421,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 23757,
