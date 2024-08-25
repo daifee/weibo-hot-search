@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724578495386,
+  "endTime": 1724581238508,
   "band_list": [
     {
       "raw_hot": 9253853,
@@ -51,12 +51,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2034220,
+      "num": 2034220,
+      "word": "孙杨400自决赛",
+      "onboard_time": 1724580200,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1766050,
       "num": 903407,
       "word": "黄一鸣听到300万的反应",
       "onboard_time": 1724550619,
       "rank": 22,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1625949,
+      "num": 368177,
+      "word": "医生让我别穿洞洞鞋",
+      "onboard_time": 1724576359,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 1617170,
@@ -145,14 +161,6 @@
       "onboard_time": 1724570178,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1032837,
-      "num": 308449,
-      "word": "医生让我别穿洞洞鞋",
-      "onboard_time": 1724576359,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 1026420,
@@ -275,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 771914,
+      "num": 771914,
+      "word": "孙杨重返国家队难度不小",
+      "onboard_time": 1724575699,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 748873,
       "num": 661963,
       "word": "男子闹市区一盒盒放生蟑螂",
@@ -297,6 +313,14 @@
       "onboard_time": 1724545159,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 720908,
+      "num": 720908,
+      "word": "董志豪 32溺",
+      "onboard_time": 1724576781,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 705293,
@@ -323,12 +347,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 669950,
-      "num": 669950,
-      "word": "孙杨重返国家队难度不小",
-      "onboard_time": 1724575699,
-      "rank": 10,
-      "category": "体育"
+      "raw_hot": 686790,
+      "num": 686790,
+      "word": "EDG总决赛对阵TH",
+      "onboard_time": 1724569759,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 672621,
+      "num": 515861,
+      "word": "广东36岁女子晋升当奶奶",
+      "onboard_time": 1724576060,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 671513,
+      "num": 671513,
+      "word": "程潇妹妹",
+      "onboard_time": 1724577800,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 665955,
@@ -347,20 +387,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 635427,
+      "num": 635427,
+      "word": "历史老师玩黑神话投入到手抖",
+      "onboard_time": 1724575158,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 629258,
       "num": 629258,
       "word": "登陆计划安检",
       "onboard_time": 1724572341,
       "rank": 9,
       "category": "演出"
-    },
-    {
-      "raw_hot": 624462,
-      "num": 448896,
-      "word": "广东36岁女子晋升当奶奶",
-      "onboard_time": 1724576060,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 614744,
@@ -603,12 +643,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 407852,
+      "num": 407852,
+      "word": "EDG",
+      "onboard_time": 1724571259,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 403564,
       "num": 424682,
       "word": "熟人作案 影视化",
       "onboard_time": 1724550978,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 386573,
+      "num": 386573,
+      "word": "登陆计划直播",
+      "onboard_time": 1724580920,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 377343,
@@ -635,14 +691,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 359739,
-      "num": 649053,
-      "word": "EDG总决赛对阵TH",
-      "onboard_time": 1724569759,
-      "rank": 8,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 357050,
       "num": 357050,
       "word": "CPA会计",
@@ -659,12 +707,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 352208,
+      "num": 352208,
+      "word": "落水女孩被救后发声",
+      "onboard_time": 1724578939,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 350051,
       "num": 350051,
       "word": "蒋奇明好帅",
       "onboard_time": 1724513302,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 349115,
+      "num": 349115,
+      "word": "虹口公安分局官方通报",
+      "onboard_time": 1724579179,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 343126,
@@ -697,6 +761,14 @@
       "onboard_time": 1724573000,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 327970,
+      "num": 327970,
+      "word": "韩国博主在印度搭便车遭绑架",
+      "onboard_time": 1724579419,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 323462,
@@ -763,19 +835,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 290301,
-      "num": 290301,
-      "word": "董志豪 32溺",
-      "onboard_time": 1724576781,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 285109,
       "num": 285109,
       "word": "南京体育学院回应张某某不当言论",
       "onboard_time": 1724566999,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278775,
+      "num": 278775,
+      "word": "朱志鑫戴皇冠",
+      "onboard_time": 1724578579,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 278085,
+      "num": 278085,
+      "word": "被救女孩称警察叔叔把我推到救生绳",
+      "onboard_time": 1724580379,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -851,14 +931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 253412,
-      "num": 253412,
-      "word": "历史老师玩黑神话投入到手抖",
-      "onboard_time": 1724575158,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 252418,
       "num": 252418,
       "word": "人竟然可以幸福到这种程度",
@@ -913,14 +985,6 @@
       "onboard_time": 1724566340,
       "rank": 37,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 236564,
-      "num": 236564,
-      "word": "程潇妹妹",
-      "onboard_time": 1724577800,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 234922,
@@ -995,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225478,
+      "num": 225478,
+      "word": "燃烧的月亮羊群踩踏事件",
+      "onboard_time": 1724578220,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225358,
       "num": 225358,
       "word": "甲状腺和乳腺为何容易一起长结节",
@@ -1017,6 +1089,14 @@
       "onboard_time": 1724565800,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 222962,
+      "num": 222962,
+      "word": "刘金辞去中国银行行长等职务",
+      "onboard_time": 1724579058,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 221271,
@@ -1099,6 +1179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 214990,
+      "num": 214990,
+      "word": "张泽禹飞吻饭撒",
+      "onboard_time": 1724581041,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 213364,
       "num": 213364,
       "word": "今年中秋国庆的假期好像很复杂",
@@ -1128,6 +1216,14 @@
       "word": "时代少年团把和粉丝合照放在C位",
       "onboard_time": 1724563759,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 209345,
+      "num": 209345,
+      "word": "韩国搜索最多的男女团成员",
+      "onboard_time": 1724579961,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -1171,12 +1267,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 205190,
-      "num": 205190,
-      "word": "EDG",
-      "onboard_time": 1724571259,
-      "rank": 46,
-      "category": "电竞"
+      "raw_hot": 205356,
+      "num": 205356,
+      "word": "TF三代演唱会饭撒",
+      "onboard_time": 1724580679,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 205184,
@@ -1195,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203914,
+      "num": 203914,
+      "word": "许嵩演唱会抢票",
+      "onboard_time": 1724580440,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 202458,
       "num": 202458,
       "word": "崔杋圭开球",
@@ -1209,6 +1313,14 @@
       "onboard_time": 1724569640,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201737,
+      "num": 201737,
+      "word": "孙杨热身",
+      "onboard_time": 1724580619,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 201547,
@@ -1267,6 +1379,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 195331,
+      "num": 195331,
+      "word": "谁家好孙子给姥姥吃预制菜",
+      "onboard_time": 1724580800,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 194843,
+      "num": 194843,
+      "word": "无畏契约",
+      "onboard_time": 1724578579,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 194549,
       "num": 194549,
       "word": "薛之谦两分钟八百个小节目",
@@ -1312,14 +1440,6 @@
       "word": "和刘诗诗有十年友情多难得",
       "onboard_time": 1724573060,
       "rank": 45,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 189219,
-      "num": 189219,
-      "word": "燃烧的月亮羊群踩踏事件",
-      "onboard_time": 1724578220,
-      "rank": 36,
       "category": "综艺"
     },
     {
@@ -1387,12 +1507,44 @@
       "category": "演出"
     },
     {
+      "raw_hot": 183511,
+      "num": 183511,
+      "word": "MEOVV成员SOOIN",
+      "onboard_time": 1724579301,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 182908,
       "num": 208850,
       "word": "檀健次脸小具象化",
       "onboard_time": 1724549119,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181168,
+      "num": 181168,
+      "word": "唐僧 最早的二手烟受害者",
+      "onboard_time": 1724578280,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 181065,
+      "num": 398289,
+      "word": "民警救人牺牲事发地摆满鲜花蜡烛",
+      "onboard_time": 1724577800,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180856,
+      "num": 180856,
+      "word": "EDG总决赛拿到赛点",
+      "onboard_time": 1724581101,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 180559,
@@ -1603,6 +1755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162817,
+      "num": 162817,
+      "word": "一棒敲了幽魂10000血",
+      "onboard_time": 1724580500,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 162554,
       "num": 162554,
       "word": "女主播直播时宣称服用了摇头丸",
@@ -1681,14 +1841,6 @@
       "onboard_time": 1724577560,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 156806,
-      "num": 156806,
-      "word": "唐僧 最早的二手烟受害者",
-      "onboard_time": 1724578280,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 156212,
@@ -1860,7 +2012,7 @@
     },
     {
       "raw_hot": 140193,
-      "num": 140193,
+      "num": 526035,
       "word": "过期药翻新后流入市场",
       "onboard_time": 1724576659,
       "rank": 49,
@@ -2179,6 +2331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69971,
+      "num": 401846,
+      "word": "家长称卫校组织学生聚餐每人收四百",
+      "onboard_time": 1724581041,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66935,
       "num": 115043,
       "word": "2中学生网上利用卡牌盲盒设局诈骗",
@@ -2275,19 +2435,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52948,
-      "num": 398289,
-      "word": "民警救人牺牲事发地摆满鲜花蜡烛",
-      "onboard_time": 1724577800,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 50976,
       "num": 475685,
       "word": "王昱珩的灵感原来来自这里",
       "onboard_time": 1724570779,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50254,
+      "num": 368565,
+      "word": "网约车司机为炫耀谎称猥亵醉酒女乘客",
+      "onboard_time": 1724581041,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -2353,6 +2513,14 @@
       "onboard_time": 1724567420,
       "rank": 9,
       "category": "社会新闻,国外时政"
+    },
+    {
+      "raw_hot": 35232,
+      "num": 267905,
+      "word": "深蓝华为联合推进全民智驾",
+      "onboard_time": 1724579719,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 30582,
