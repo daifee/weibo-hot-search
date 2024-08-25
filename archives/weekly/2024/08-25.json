@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724603944537,
+  "endTime": 1724606433622,
   "band_list": [
     {
       "raw_hot": 14208627,
@@ -897,6 +897,14 @@
       "onboard_time": 1724589380,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 468013,
+      "num": 468013,
+      "word": "杭州多起半夜骑行党相撞事故",
+      "onboard_time": 1724603418,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 464176,
@@ -3227,14 +3235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 97987,
-      "num": 430476,
-      "word": "杭州多起半夜骑行党相撞事故",
-      "onboard_time": 1724603418,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92135,
       "num": 295779,
       "word": "儿科看病为什么这么难",
@@ -3281,6 +3281,14 @@
       "onboard_time": 1724527271,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73617,
+      "num": 84019,
+      "word": "胡可晒安吉近照",
+      "onboard_time": 1724606296,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 70774,
