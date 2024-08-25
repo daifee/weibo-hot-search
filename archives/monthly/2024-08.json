@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1724606433622,
+  "endTime": 1724607456770,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -69705,6 +69705,14 @@
       "onboard_time": 1723147813,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 73516,
+      "num": 73516,
+      "word": "妈妈朋友的儿子更新",
+      "onboard_time": 1724606594,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 73513,
