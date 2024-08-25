@@ -1,0 +1,410 @@
+{
+  "runTime": 1724560717489,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6357366,
+        "num": 6357366,
+        "word": "孙杨小组第一",
+        "onboard_time": 1724555481,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1900059,
+        "num": 1900059,
+        "word": "孙杨 没起腿",
+        "onboard_time": 1724556440,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4392,
+        "num": 1825644,
+        "word": "铸牢共同体中华一家亲",
+        "onboard_time": 1724503281,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1752021,
+        "num": 1752021,
+        "word": "孙杨哭了",
+        "onboard_time": 1724557701,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 871882,
+        "num": 871882,
+        "word": "以色列在未来48小时内进入紧急状态",
+        "onboard_time": 1724557582,
+        "rank": 4,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 850668,
+        "num": 850668,
+        "word": "黎巴嫩真主党对以色列进行大规模袭击",
+        "onboard_time": 1724559199,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 515121,
+        "num": 843271,
+        "word": "董力cue到了阿拉蕾",
+        "onboard_time": 1724554460,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362431,
+        "num": 840654,
+        "word": "黄晓明 追星成功",
+        "onboard_time": 1724548639,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43950,
+        "num": 826002,
+        "word": "NHK开始预先录制中文新闻",
+        "onboard_time": 1724560219,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41976,
+        "num": 813128,
+        "word": "一线城市平均房租为每月84.82元一平",
+        "onboard_time": 1724560219,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 810632,
+        "num": 810632,
+        "word": "黄一鸣听到300万的反应",
+        "onboard_time": 1724550619,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 673279,
+        "num": 673279,
+        "word": "男子每天凌晨4点出门冒充特警查车",
+        "onboard_time": 1724552780,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539166,
+        "num": 539166,
+        "word": "孙杨 闪耀洛杉矶",
+        "onboard_time": 1724556319,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 456971,
+        "num": 456971,
+        "word": "大唐不夜城半年仅赚23.53万元",
+        "onboard_time": 1724546479,
+        "rank": 13,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 448877,
+        "num": 448877,
+        "word": "泳帝",
+        "onboard_time": 1724557522,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 411263,
+        "num": 411263,
+        "word": "父亲送女儿上班溺亡前细节回放",
+        "onboard_time": 1724547799,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261238,
+        "num": 410978,
+        "word": "景甜的手就是尺",
+        "onboard_time": 1724557221,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242361,
+        "num": 410447,
+        "word": "非遗厨师把家乡风景做成了菜",
+        "onboard_time": 1724557941,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230630,
+        "num": 410126,
+        "word": "熟人作案 影视化",
+        "onboard_time": 1724550978,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221067,
+        "num": 409789,
+        "word": "张碧晨是懂周生如故名场面的",
+        "onboard_time": 1724558718,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 538630,
+        "num": 409286,
+        "word": "印度五名医生被指涉奸杀女医生案",
+        "onboard_time": 1724545097,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472440,
+        "num": 408873,
+        "word": "樊振东退赛",
+        "onboard_time": 1724512282,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 404963,
+        "num": 408716,
+        "word": "张豆豆发文支持孙杨",
+        "onboard_time": 1724550439,
+        "rank": 22,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 408355,
+        "num": 408355,
+        "word": "孙杨晋级决赛",
+        "onboard_time": 1724555600,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118084,
+        "num": 395442,
+        "word": "潘玮柏 男孩子的体重少打听",
+        "onboard_time": 1724560639,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386350,
+        "num": 386350,
+        "word": "真的建议坐久了勾勾小腿",
+        "onboard_time": 1724554099,
+        "rank": 25,
+        "category": "运动健身,健康医疗"
+      },
+      {
+        "raw_hot": 382603,
+        "num": 382603,
+        "word": "孙杨 水花消失术",
+        "onboard_time": 1724559499,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 337148,
+        "num": 337148,
+        "word": "男子闹市区一盒盒放生蟑螂",
+        "onboard_time": 1724559141,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215248,
+        "num": 316890,
+        "word": "李娟一坨声明",
+        "onboard_time": 1724560399,
+        "rank": 28,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 207307,
+        "num": 311948,
+        "word": "肖战披肩毛衣白衬衫",
+        "onboard_time": 1724559799,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111684,
+        "num": 310205,
+        "word": "檀健次贴脸开大杜淳初舞台",
+        "onboard_time": 1724559019,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308536,
+        "num": 308536,
+        "word": "超65万人预约观看孙杨复出战",
+        "onboard_time": 1724549298,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290741,
+        "num": 290741,
+        "word": "老孙头 余生请多游泳",
+        "onboard_time": 1724557941,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267088,
+        "num": 267088,
+        "word": "CPA会计",
+        "onboard_time": 1724557761,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 217017,
+        "num": 217017,
+        "word": "全球多地暴发西尼罗河病毒疫情",
+        "onboard_time": 1724558242,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213813,
+        "num": 213813,
+        "word": "孙杨回应妻子鼓励",
+        "onboard_time": 1724560219,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202855,
+        "num": 202855,
+        "word": "15岁女孩跨省看完演唱会身上只剩3毛",
+        "onboard_time": 1724542035,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170955,
+        "num": 170955,
+        "word": "U17中国女排世锦赛夺冠",
+        "onboard_time": 1724559259,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169243,
+        "num": 169243,
+        "word": "王一博的三次乐华红毯",
+        "onboard_time": 1724559740,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168487,
+        "num": 168487,
+        "word": "多少年了我还吃帝后cp这套",
+        "onboard_time": 1724552240,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167190,
+        "num": 167190,
+        "word": "李娟说和董宇辉的访谈好奇怪",
+        "onboard_time": 1724550318,
+        "rank": 40,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 163474,
+        "num": 163474,
+        "word": "惠英红 刘亦菲限定版调香师",
+        "onboard_time": 1724560639,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157749,
+        "num": 157749,
+        "word": "董志豪仰泳现场直拍",
+        "onboard_time": 1724554400,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156158,
+        "num": 156158,
+        "word": "今晚孙杨决赛",
+        "onboard_time": 1724558899,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155684,
+        "num": 155684,
+        "word": "以军战机空袭黎巴嫩",
+        "onboard_time": 1724560399,
+        "rank": 44,
+        "category": "社会新闻,国外时政"
+      },
+      {
+        "raw_hot": 154981,
+        "num": 154981,
+        "word": "入职第一天就发现这个公司来对了",
+        "onboard_time": 1724560459,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154303,
+        "num": 154303,
+        "word": "黑神话悟空与86版西游记角色对照",
+        "onboard_time": 1724556380,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151891,
+        "num": 151891,
+        "word": "房屋养老金",
+        "onboard_time": 1724546717,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 150376,
+        "num": 150376,
+        "word": "热爱可抵岁月漫长",
+        "onboard_time": 1724557881,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147224,
+        "num": 147224,
+        "word": "代号鸢",
+        "onboard_time": 1724560281,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习新语#"
+    }
+  }
+}

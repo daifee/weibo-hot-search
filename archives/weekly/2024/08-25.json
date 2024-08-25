@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724559880147,
+  "endTime": 1724560717489,
   "band_list": [
     {
       "raw_hot": 9253853,
@@ -155,6 +155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 871882,
+      "num": 871882,
+      "word": "以色列在未来48小时内进入紧急状态",
+      "onboard_time": 1724557582,
+      "rank": 5,
+      "category": "国外时政,军事"
+    },
+    {
       "raw_hot": 850891,
       "num": 850891,
       "word": "杨紫工作室 审美",
@@ -163,20 +171,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 850668,
+      "num": 850668,
+      "word": "黎巴嫩真主党对以色列进行大规模袭击",
+      "onboard_time": 1724559199,
+      "rank": 8,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 800519,
       "num": 800519,
       "word": "村民捡到女婴胎盘脐带均未剪",
       "onboard_time": 1724545998,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 748027,
-      "num": 748027,
-      "word": "以色列在未来48小时内进入紧急状态",
-      "onboard_time": 1724557582,
-      "rank": 5,
-      "category": "国外时政,军事"
     },
     {
       "raw_hot": 721396,
@@ -227,14 +235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 555532,
-      "num": 555532,
-      "word": "黎巴嫩真主党对以色列进行大规模袭击",
-      "onboard_time": 1724559199,
-      "rank": 8,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 547127,
       "num": 547127,
       "word": "央视曝回流药黑色产业链",
@@ -259,8 +259,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 507946,
-      "num": 709804,
+      "raw_hot": 515121,
+      "num": 843271,
       "word": "董力cue到了阿拉蕾",
       "onboard_time": 1724554460,
       "rank": 14,
@@ -315,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 448877,
+      "num": 448877,
+      "word": "泳帝",
+      "onboard_time": 1724557522,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 447332,
       "num": 656361,
       "word": "王俊凯 出去别说是我粉丝",
@@ -339,14 +347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 444228,
-      "num": 444228,
-      "word": "泳帝",
-      "onboard_time": 1724557522,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 434484,
       "num": 434484,
       "word": "日本8轮核污水排海累计将达62500吨",
@@ -361,6 +361,14 @@
       "onboard_time": 1724550978,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 382603,
+      "num": 382603,
+      "word": "孙杨 水花消失术",
+      "onboard_time": 1724559499,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 369007,
@@ -387,14 +395,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 354570,
-      "num": 354570,
-      "word": "孙杨 水花消失术",
-      "onboard_time": 1724559499,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 350051,
       "num": 350051,
       "word": "蒋奇明好帅",
@@ -417,6 +417,14 @@
       "onboard_time": 1724497698,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 337148,
+      "num": 337148,
+      "word": "男子闹市区一盒盒放生蟑螂",
+      "onboard_time": 1724559141,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 333408,
@@ -459,12 +467,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 263520,
-      "num": 263520,
-      "word": "男子闹市区一盒盒放生蟑螂",
-      "onboard_time": 1724559141,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 261238,
+      "num": 410978,
+      "word": "景甜的手就是尺",
+      "onboard_time": 1724557221,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 257547,
@@ -507,12 +515,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 241253,
-      "num": 290883,
-      "word": "景甜的手就是尺",
-      "onboard_time": 1724557221,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 242361,
+      "num": 535473,
+      "word": "非遗厨师把家乡风景做成了菜",
+      "onboard_time": 1724557941,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 240395,
@@ -587,6 +595,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 221067,
+      "num": 409789,
+      "word": "张碧晨是懂周生如故名场面的",
+      "onboard_time": 1724558718,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 220646,
       "num": 220646,
       "word": "房屋养老金",
@@ -627,12 +643,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 217017,
+      "num": 217017,
+      "word": "全球多地暴发西尼罗河病毒疫情",
+      "onboard_time": 1724558242,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216912,
       "num": 216912,
       "word": "孟美岐 沙漠姬",
       "onboard_time": 1724502381,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 215248,
+      "num": 316890,
+      "word": "李娟一坨声明",
+      "onboard_time": 1724560399,
+      "rank": 28,
+      "category": "网红,互联网"
+    },
+    {
+      "raw_hot": 213813,
+      "num": 213813,
+      "word": "孙杨回应妻子鼓励",
+      "onboard_time": 1724560219,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 213364,
@@ -667,12 +707,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 206905,
-      "num": 535473,
-      "word": "非遗厨师把家乡风景做成了菜",
-      "onboard_time": 1724557941,
-      "rank": 9,
-      "category": "综艺"
+      "raw_hot": 207307,
+      "num": 311948,
+      "word": "肖战披肩毛衣白衬衫",
+      "onboard_time": 1724559799,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 201547,
@@ -707,14 +747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192259,
-      "num": 192259,
-      "word": "全球多地暴发西尼罗河病毒疫情",
-      "onboard_time": 1724558242,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191999,
       "num": 191999,
       "word": "中国非遗簪花和外国帅哥的适配度",
@@ -739,14 +771,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 187477,
-      "num": 268353,
-      "word": "张碧晨是懂周生如故名场面的",
-      "onboard_time": 1724558718,
-      "rank": 29,
-      "category": "演出"
-    },
-    {
       "raw_hot": 182908,
       "num": 208850,
       "word": "檀健次脸小具象化",
@@ -769,14 +793,6 @@
       "onboard_time": 1724497879,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176691,
-      "num": 176691,
-      "word": "肖战披肩毛衣白衬衫",
-      "onboard_time": 1724559799,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 176314,
@@ -819,12 +835,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170955,
+      "num": 170955,
+      "word": "U17中国女排世锦赛夺冠",
+      "onboard_time": 1724559259,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170085,
       "num": 170085,
       "word": "陈昊宇野子现场",
       "onboard_time": 1724508381,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 169243,
+      "num": 169243,
+      "word": "王一博的三次乐华红毯",
+      "onboard_time": 1724559740,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 168733,
@@ -883,12 +915,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163241,
-      "num": 163241,
-      "word": "U17中国女排世锦赛夺冠",
-      "onboard_time": 1724559259,
+      "raw_hot": 163474,
+      "num": 163474,
+      "word": "惠英红 刘亦菲限定版调香师",
+      "onboard_time": 1724560639,
       "rank": 41,
-      "category": "体育"
+      "category": "艺人"
     },
     {
       "raw_hot": 162554,
@@ -947,12 +979,28 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 155684,
+      "num": 155684,
+      "word": "以军战机空袭黎巴嫩",
+      "onboard_time": 1724560399,
+      "rank": 44,
+      "category": "社会新闻,国外时政"
+    },
+    {
       "raw_hot": 155188,
       "num": 155188,
       "word": "刘雨昕让粉丝保证安全",
       "onboard_time": 1724516780,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154981,
+      "num": 154981,
+      "word": "入职第一天就发现这个公司来对了",
+      "onboard_time": 1724560459,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 153083,
@@ -987,6 +1035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 150376,
+      "num": 150376,
+      "word": "热爱可抵岁月漫长",
+      "onboard_time": 1724557881,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150144,
       "num": 150144,
       "word": "4年裸辞8次的女孩渴望工位",
@@ -1003,14 +1059,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 149269,
-      "num": 149269,
-      "word": "王一博的三次乐华红毯",
-      "onboard_time": 1724559740,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 148566,
       "num": 148566,
       "word": "徐海乔的腰",
@@ -1025,6 +1073,14 @@
       "onboard_time": 1724513960,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 147224,
+      "num": 147224,
+      "word": "代号鸢",
+      "onboard_time": 1724560281,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 142563,
@@ -1219,6 +1275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 118084,
+      "num": 395442,
+      "word": "潘玮柏 男孩子的体重少打听",
+      "onboard_time": 1724560639,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113435,
       "num": 113435,
       "word": "蒋奇明 这碗饭终于是吃上了",
@@ -1347,12 +1411,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 43950,
+      "num": 826002,
+      "word": "NHK开始预先录制中文新闻",
+      "onboard_time": 1724560219,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43817,
       "num": 43817,
       "word": "华晨宇重庆演唱会",
       "onboard_time": 1724523972,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 41976,
+      "num": 813128,
+      "word": "一线城市平均房租为每月84.82元一平",
+      "onboard_time": 1724560219,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41822,
