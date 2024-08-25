@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724590275096,
+  "endTime": 1724592064777,
   "band_list": [
     {
       "raw_hot": 14208627,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 2228830,
-      "num": 2228830,
+      "num": 3853226,
       "word": "国务院食安办通报油罐车事件",
       "onboard_time": 1724587700,
       "rank": 5,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1625949,
-      "num": 476494,
+      "num": 644238,
       "word": "医生让我别穿洞洞鞋",
       "onboard_time": 1724576359,
       "rank": 20,
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 982501,
+      "num": 982501,
+      "word": "张峻豪舞台鞠躬道歉",
+      "onboard_time": 1724590521,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 980661,
       "num": 323395,
       "word": "在韩国孙悟空一个跟斗都不敢翻",
@@ -321,6 +329,14 @@
       "onboard_time": 1724550439,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 898230,
+      "num": 898230,
+      "word": "女子产后掉发1个月掉出1把马尾",
+      "onboard_time": 1724588121,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 885583,
@@ -395,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 808910,
+      "num": 808910,
+      "word": "边水往事 吓人",
+      "onboard_time": 1724588480,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 800519,
       "num": 800519,
       "word": "村民捡到女婴胎盘脐带均未剪",
@@ -433,6 +457,14 @@
       "onboard_time": 1724559141,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 744904,
+      "num": 744904,
+      "word": "许昕回应被抄袭",
+      "onboard_time": 1724590221,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 726162,
@@ -491,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 683762,
+      "num": 683762,
+      "word": "迪丽热巴鼻子倒影",
+      "onboard_time": 1724589144,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 676763,
       "num": 676763,
       "word": "程潇妹妹",
@@ -499,12 +539,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 675091,
-      "num": 754248,
-      "word": "边水往事 吓人",
-      "onboard_time": 1724588480,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 673345,
+      "num": 673345,
+      "word": "刘亦菲37岁庆生照",
+      "onboard_time": 1724591302,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 672621,
@@ -651,14 +691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 502551,
-      "num": 502551,
-      "word": "迪丽热巴鼻子倒影",
-      "onboard_time": 1724589144,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 499192,
       "num": 499192,
       "word": "汪顺 出门溜达溜达",
@@ -715,20 +747,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 472181,
-      "num": 472181,
-      "word": "女子产后掉发1个月掉出1把马尾",
-      "onboard_time": 1724588121,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 469127,
       "num": 586499,
       "word": "李娟说和董宇辉的访谈好奇怪",
       "onboard_time": 1724550318,
       "rank": 13,
       "category": "网红,互联网"
+    },
+    {
+      "raw_hot": 469010,
+      "num": 469010,
+      "word": "ZmjjKK获全球冠军赛FMVP",
+      "onboard_time": 1724590281,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 468650,
@@ -843,6 +875,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 417345,
+      "num": 612323,
+      "word": "牺牲民警让被救女孩好好活着",
+      "onboard_time": 1724587640,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 413477,
       "num": 413477,
       "word": "蒋奇明迟早拿影帝",
@@ -939,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347540,
+      "num": 744783,
+      "word": "严格落实食用油运输专车专用",
+      "onboard_time": 1724589444,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343126,
       "num": 343126,
       "word": "老孙头 余生请多游泳",
@@ -969,6 +1017,14 @@
       "onboard_time": 1724506162,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 332789,
+      "num": 332789,
+      "word": "孙杨看完成绩点了三下头",
+      "onboard_time": 1724590942,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 331299,
@@ -1051,12 +1107,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 289922,
+      "num": 289922,
+      "word": "Smoggy哭了",
+      "onboard_time": 1724590643,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 287655,
       "num": 337007,
       "word": "韩国搜索最多的男女团成员",
       "onboard_time": 1724579961,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 286615,
+      "num": 286615,
+      "word": "广州番禺区发生多车相撞",
+      "onboard_time": 1724591302,
+      "rank": 36,
+      "category": "社会负面"
     },
     {
       "raw_hot": 285109,
@@ -1097,6 +1169,14 @@
       "onboard_time": 1724519418,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268357,
+      "num": 379704,
+      "word": "张峻豪个人舞台原创新歌17",
+      "onboard_time": 1724591060,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 261238,
@@ -1184,14 +1264,6 @@
       "word": "夫妻离婚争13只乌龟抚养权",
       "onboard_time": 1724512643,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248063,
-      "num": 248063,
-      "word": "牺牲民警让被救女孩好好活着",
-      "onboard_time": 1724587640,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1531,6 +1603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211100,
+      "num": 211100,
+      "word": "允载允荷明年结婚",
+      "onboard_time": 1724591782,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210877,
       "num": 210877,
       "word": "孙杨说只有遗憾能堆出伟大的运动员",
@@ -1553,6 +1633,14 @@
       "onboard_time": 1724563759,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210510,
+      "num": 210510,
+      "word": "AG对战狼队",
+      "onboard_time": 1724590281,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 208947,
@@ -1627,6 +1715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204535,
+      "num": 204535,
+      "word": "袁启聪直播",
+      "onboard_time": 1724583198,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 203914,
       "num": 203914,
       "word": "许嵩演唱会抢票",
@@ -1697,6 +1793,14 @@
       "onboard_time": 1724589862,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198928,
+      "num": 198928,
+      "word": "徐海博 小孩哥",
+      "onboard_time": 1724589261,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 198507,
@@ -1963,14 +2067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180315,
-      "num": 180315,
-      "word": "许昕回应被抄袭",
-      "onboard_time": 1724590221,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 179459,
       "num": 179459,
       "word": "一句踩妈妈的手给我整泪目了",
@@ -2033,14 +2129,6 @@
       "onboard_time": 1724570298,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 175046,
-      "num": 175046,
-      "word": "袁启聪直播",
-      "onboard_time": 1724583198,
-      "rank": 42,
-      "category": "汽车"
     },
     {
       "raw_hot": 174958,
@@ -2169,14 +2257,6 @@
       "onboard_time": 1724558960,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 167347,
-      "num": 167347,
-      "word": "徐海博 小孩哥",
-      "onboard_time": 1724589261,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 167135,
@@ -2747,20 +2827,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 104401,
-      "num": 744783,
-      "word": "严格落实食用油运输专车专用",
-      "onboard_time": 1724589444,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 102708,
       "num": 309738,
       "word": "柳眠棠嘴硬心软",
       "onboard_time": 1724564242,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97559,
+      "num": 842257,
+      "word": "在食品安全上泯灭良心终将付出代价",
+      "onboard_time": 1724591183,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92135,
@@ -2932,7 +3012,7 @@
     },
     {
       "raw_hot": 57517,
-      "num": 178897,
+      "num": 646518,
       "word": "新能源猎装不止纯电",
       "onboard_time": 1724590043,
       "rank": 47,
@@ -3043,6 +3123,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 33865,
+      "num": 375292,
+      "word": "整个三星堆独一无二的金杖",
+      "onboard_time": 1724591542,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30582,
       "num": 715856,
       "word": "白宫称拜登正密切关注黎以局势",
@@ -3113,6 +3201,14 @@
       "onboard_time": 1724539274,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19607,
+      "num": 715901,
+      "word": "钎城战绩可查",
+      "onboard_time": 1724590821,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 15648,

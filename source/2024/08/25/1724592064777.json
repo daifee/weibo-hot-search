@@ -1,0 +1,410 @@
+{
+  "runTime": 1724592064777,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4452942,
+        "num": 4452942,
+        "word": "孙杨400自夺冠",
+        "onboard_time": 1724583622,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2046216,
+        "num": 3853226,
+        "word": "国务院食安办通报油罐车事件",
+        "onboard_time": 1724587700,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3323675,
+        "num": 3323675,
+        "word": "EDG全球冠军赛夺冠",
+        "onboard_time": 1724588663,
+        "rank": 2,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1282107,
+        "num": 1282107,
+        "word": "孙杨提前伸脖子等待金牌",
+        "onboard_time": 1724587280,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 982501,
+        "num": 982501,
+        "word": "张峻豪舞台鞠躬道歉",
+        "onboard_time": 1724590521,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 962623,
+        "num": 962623,
+        "word": "李飞开宾利",
+        "onboard_time": 1724585421,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 898230,
+        "num": 898230,
+        "word": "女子产后掉发1个月掉出1把马尾",
+        "onboard_time": 1724588121,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97559,
+        "num": 842257,
+        "word": "在食品安全上泯灭良心终将付出代价",
+        "onboard_time": 1724591183,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541709,
+        "num": 818345,
+        "word": "孙杨回应复出首冠",
+        "onboard_time": 1724587939,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 808910,
+        "num": 808910,
+        "word": "边水往事 吓人",
+        "onboard_time": 1724588480,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 840064,
+        "num": 805252,
+        "word": "曝黄一鸣的别墅是租的",
+        "onboard_time": 1724584522,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 777112,
+        "num": 777112,
+        "word": "EDG总决赛对阵TH",
+        "onboard_time": 1724569759,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 744904,
+        "num": 744904,
+        "word": "许昕回应被抄袭",
+        "onboard_time": 1724590221,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 734493,
+        "num": 734493,
+        "word": "GAI EDG太帅了",
+        "onboard_time": 1724589682,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19607,
+        "num": 715901,
+        "word": "钎城战绩可查",
+        "onboard_time": 1724590821,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 710823,
+        "num": 710823,
+        "word": "鹿晗去看邓紫棋演唱会了",
+        "onboard_time": 1724586081,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 683762,
+        "num": 683762,
+        "word": "迪丽热巴鼻子倒影",
+        "onboard_time": 1724589144,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 683530,
+        "num": 683530,
+        "word": "樊振东踢足球",
+        "onboard_time": 1724583501,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 673345,
+        "num": 673345,
+        "word": "刘亦菲37岁庆生照",
+        "onboard_time": 1724591302,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33932,
+        "num": 646518,
+        "word": "新能源猎装不止纯电",
+        "onboard_time": 1724590043,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 644238,
+        "num": 644238,
+        "word": "医生让我别穿洞洞鞋",
+        "onboard_time": 1724576359,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 417345,
+        "num": 612323,
+        "word": "牺牲民警让被救女孩好好活着",
+        "onboard_time": 1724587640,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610466,
+        "num": 610466,
+        "word": "EDG",
+        "onboard_time": 1724571259,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 590773,
+        "num": 590773,
+        "word": "落水女孩被救后发声",
+        "onboard_time": 1724578939,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551443,
+        "num": 551443,
+        "word": "罗拉带王能能回老家",
+        "onboard_time": 1724584460,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469010,
+        "num": 469010,
+        "word": "ZmjjKK获全球冠军赛FMVP",
+        "onboard_time": 1724590281,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 399349,
+        "num": 399349,
+        "word": "韩国博主在印度搭便车遭绑架",
+        "onboard_time": 1724579419,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393691,
+        "num": 393691,
+        "word": "媒体反映的罐车运输食用油乱象查处通报",
+        "onboard_time": 1724588001,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361615,
+        "num": 380203,
+        "word": "苏新皓清唱",
+        "onboard_time": 1724583139,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268357,
+        "num": 379704,
+        "word": "张峻豪个人舞台原创新歌17",
+        "onboard_time": 1724591060,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379652,
+        "num": 379652,
+        "word": "孙杨400自决赛",
+        "onboard_time": 1724580200,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33865,
+        "num": 375292,
+        "word": "整个三星堆独一无二的金杖",
+        "onboard_time": 1724591542,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371015,
+        "num": 371015,
+        "word": "康康 世一决",
+        "onboard_time": 1724589380,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 347540,
+        "num": 347540,
+        "word": "严格落实食用油运输专车专用",
+        "onboard_time": 1724589444,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332789,
+        "num": 332789,
+        "word": "孙杨看完成绩点了三下头",
+        "onboard_time": 1724590942,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289922,
+        "num": 289922,
+        "word": "Smoggy哭了",
+        "onboard_time": 1724590643,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 286615,
+        "num": 286615,
+        "word": "广州番禺区发生多车相撞",
+        "onboard_time": 1724591302,
+        "rank": 36,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 263296,
+        "num": 263296,
+        "word": "半个内娱都在看边水往事",
+        "onboard_time": 1724573359,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241769,
+        "num": 241769,
+        "word": "徐海博 等待时机和杨哥合照",
+        "onboard_time": 1724589080,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223986,
+        "num": 223986,
+        "word": "DRG教练",
+        "onboard_time": 1724573178,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 218258,
+        "num": 218258,
+        "word": "被救女孩称警察叔叔把我推到救生绳",
+        "onboard_time": 1724580379,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216913,
+        "num": 216913,
+        "word": "边水往事断更",
+        "onboard_time": 1724574619,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212923,
+        "num": 212923,
+        "word": "捐款百万的拾荒人胡雷哭诉寻手机",
+        "onboard_time": 1724584701,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212665,
+        "num": 212665,
+        "word": "登陆计划直播",
+        "onboard_time": 1724580920,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211100,
+        "num": 211100,
+        "word": "允载允荷明年结婚",
+        "onboard_time": 1724591782,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210510,
+        "num": 210510,
+        "word": "AG对战狼队",
+        "onboard_time": 1724590281,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 204535,
+        "num": 204535,
+        "word": "袁启聪直播",
+        "onboard_time": 1724583198,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 204425,
+        "num": 204425,
+        "word": "表兄妹结婚10年育一女被判婚姻无效",
+        "onboard_time": 1724584522,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199735,
+        "num": 199735,
+        "word": "张豆豆观战孙杨决赛",
+        "onboard_time": 1724582600,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198928,
+        "num": 198928,
+        "word": "徐海博 小孩哥",
+        "onboard_time": 1724589261,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习绘文#"
+    }
+  }
+}

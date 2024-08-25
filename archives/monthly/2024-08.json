@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1724590275096,
+  "endTime": 1724592064777,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -4692,7 +4692,7 @@
     },
     {
       "raw_hot": 2228830,
-      "num": 2228830,
+      "num": 3853226,
       "word": "国务院食安办通报油罐车事件",
       "onboard_time": 1724587700,
       "rank": 5,
@@ -7500,7 +7500,7 @@
     },
     {
       "raw_hot": 1625949,
-      "num": 476494,
+      "num": 644238,
       "word": "医生让我别穿洞洞鞋",
       "onboard_time": 1724576359,
       "rank": 20,
@@ -13891,6 +13891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 982501,
+      "num": 982501,
+      "word": "张峻豪舞台鞠躬道歉",
+      "onboard_time": 1724590521,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 982125,
       "num": 1721537,
       "word": "张元英吐舌头被吐槽",
@@ -15193,6 +15201,14 @@
       "onboard_time": 1723097002,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 898230,
+      "num": 898230,
+      "word": "女子产后掉发1个月掉出1把马尾",
+      "onboard_time": 1724588121,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 897756,
@@ -16531,6 +16547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 808910,
+      "num": 808910,
+      "word": "边水往事 吓人",
+      "onboard_time": 1724588480,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 806766,
       "num": 661529,
       "word": "孙颖莎打出3D球",
@@ -17776,6 +17800,14 @@
       "word": "游泳解说 咆哮",
       "onboard_time": 1722461412,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 744904,
+      "num": 744904,
+      "word": "许昕回应被抄袭",
+      "onboard_time": 1724590221,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -19027,6 +19059,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 683762,
+      "num": 683762,
+      "word": "迪丽热巴鼻子倒影",
+      "onboard_time": 1724589144,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 683476,
       "num": 683476,
       "word": "张怡宁丁宁解说孙颖莎陈梦争冠",
@@ -19219,14 +19259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 675091,
-      "num": 754248,
-      "word": "边水往事 吓人",
-      "onboard_time": 1724588480,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 674476,
       "num": 332778,
       "word": "郑钦文颁奖仪式",
@@ -19249,6 +19281,14 @@
       "onboard_time": 1724204180,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 673345,
+      "num": 673345,
+      "word": "刘亦菲37岁庆生照",
+      "onboard_time": 1724591302,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 672621,
@@ -24195,14 +24235,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 502551,
-      "num": 502551,
-      "word": "迪丽热巴鼻子倒影",
-      "onboard_time": 1724589144,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 502418,
       "num": 502418,
       "word": "有选手游完塞纳河吐了",
@@ -25387,14 +25419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 472181,
-      "num": 472181,
-      "word": "女子产后掉发1个月掉出1把马尾",
-      "onboard_time": 1724588121,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 472034,
       "num": 390112,
       "word": "王楚钦说奥运会太漫长了",
@@ -25489,6 +25513,14 @@
       "onboard_time": 1724550318,
       "rank": 13,
       "category": "网红,互联网"
+    },
+    {
+      "raw_hot": 469010,
+      "num": 469010,
+      "word": "ZmjjKK获全球冠军赛FMVP",
+      "onboard_time": 1724590281,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 468781,
@@ -28001,6 +28033,14 @@
       "onboard_time": 1722605848,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 417345,
+      "num": 612323,
+      "word": "牺牲民警让被救女孩好好活着",
+      "onboard_time": 1724587640,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 417091,
@@ -32243,6 +32283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 347540,
+      "num": 744783,
+      "word": "严格落实食用油运输专车专用",
+      "onboard_time": 1724589444,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347512,
       "num": 347512,
       "word": "冷门项目真的需要更多人的关注",
@@ -33384,6 +33432,14 @@
       "word": "王楚钦说马龙也很全面",
       "onboard_time": 1723345942,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 332789,
+      "num": 332789,
+      "word": "孙杨看完成绩点了三下头",
+      "onboard_time": 1724590942,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -37659,6 +37715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 289922,
+      "num": 289922,
+      "word": "Smoggy哭了",
+      "onboard_time": 1724590643,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 289637,
       "num": 289637,
       "word": "狗狗有案底考不了警犬了",
@@ -37993,6 +38057,14 @@
       "onboard_time": 1722628453,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 286615,
+      "num": 286615,
+      "word": "广州番禺区发生多车相撞",
+      "onboard_time": 1724591302,
+      "rank": 36,
+      "category": "社会负面"
     },
     {
       "raw_hot": 286566,
@@ -40145,6 +40217,14 @@
       "onboard_time": 1724287400,
       "rank": 33,
       "category": "汽车,互联网"
+    },
+    {
+      "raw_hot": 268357,
+      "num": 379704,
+      "word": "张峻豪个人舞台原创新歌17",
+      "onboard_time": 1724591060,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 268259,
@@ -42793,14 +42873,6 @@
       "onboard_time": 1722829522,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 248063,
-      "num": 248063,
-      "word": "牺牲民警让被救女孩好好活着",
-      "onboard_time": 1724587640,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 247995,
@@ -49107,6 +49179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211100,
+      "num": 211100,
+      "word": "允载允荷明年结婚",
+      "onboard_time": 1724591782,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211088,
       "num": 211088,
       "word": "张雨霏说身体右边都是麻掉的",
@@ -49217,6 +49297,14 @@
       "onboard_time": 1724563759,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210510,
+      "num": 210510,
+      "word": "AG对战狼队",
+      "onboard_time": 1724590281,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 210211,
@@ -50809,6 +50897,14 @@
       "onboard_time": 1723166362,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204535,
+      "num": 204535,
+      "word": "袁启聪直播",
+      "onboard_time": 1724583198,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 204519,
@@ -52464,6 +52560,14 @@
       "word": "潘展乐说夺冠因为有祖国撑腰",
       "onboard_time": 1722812780,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 198928,
+      "num": 198928,
+      "word": "徐海博 小孩哥",
+      "onboard_time": 1724589261,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -57283,14 +57387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 180315,
-      "num": 180315,
-      "word": "许昕回应被抄袭",
-      "onboard_time": 1724590221,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 180308,
       "num": 180308,
       "word": "中国游泳队玩狼人杀像开奥运总结会",
@@ -58225,14 +58321,6 @@
       "onboard_time": 1723391245,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 175046,
-      "num": 175046,
-      "word": "袁启聪直播",
-      "onboard_time": 1724583198,
-      "rank": 42,
-      "category": "汽车"
     },
     {
       "raw_hot": 175041,
@@ -59753,14 +59841,6 @@
       "onboard_time": 1724330901,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 167347,
-      "num": 167347,
-      "word": "徐海博 小孩哥",
-      "onboard_time": 1724589261,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 167292,
@@ -66787,14 +66867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 104401,
-      "num": 744783,
-      "word": "严格落实食用油运输专车专用",
-      "onboard_time": 1724589444,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 104357,
       "num": 2086210,
       "word": "直击地球裂缝上的花江峡谷大桥",
@@ -67305,6 +67377,14 @@
       "onboard_time": 1723142173,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97559,
+      "num": 842257,
+      "word": "在食品安全上泯灭良心终将付出代价",
+      "onboard_time": 1724591183,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97478,
@@ -71212,7 +71292,7 @@
     },
     {
       "raw_hot": 57517,
-      "num": 178897,
+      "num": 646518,
       "word": "新能源猎装不止纯电",
       "onboard_time": 1724590043,
       "rank": 47,
@@ -74411,6 +74491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33865,
+      "num": 375292,
+      "word": "整个三星堆独一无二的金杖",
+      "onboard_time": 1724591542,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33761,
       "num": 597772,
       "word": "韩国华城电池厂火灾调查结果公布",
@@ -76073,6 +76161,14 @@
       "onboard_time": 1723278981,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 19607,
+      "num": 715901,
+      "word": "钎城战绩可查",
+      "onboard_time": 1724590821,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 19374,
