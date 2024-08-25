@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724571388548,
+  "endTime": 1724574234560,
   "band_list": [
     {
       "raw_hot": 9253853,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 980661,
-      "num": 320360,
+      "num": 323395,
       "word": "在韩国孙悟空一个跟斗都不敢翻",
       "onboard_time": 1724562319,
       "rank": 35,
@@ -177,6 +177,14 @@
       "onboard_time": 1724567359,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 925975,
+      "num": 925975,
+      "word": "沈梦辰家族群有71个人",
+      "onboard_time": 1724570178,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 907439,
@@ -299,6 +307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 629258,
+      "num": 629258,
+      "word": "登陆计划安检",
+      "onboard_time": 1724572341,
+      "rank": 9,
+      "category": "演出"
+    },
+    {
       "raw_hot": 614744,
       "num": 614744,
       "word": "黑神话悟空杨戬演员回应撞脸张翰",
@@ -339,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 537911,
+      "num": 537911,
+      "word": "三里屯偶遇贾玲",
+      "onboard_time": 1724570899,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 534485,
       "num": 454138,
       "word": "真的建议坐久了勾勾小腿",
@@ -361,6 +385,14 @@
       "onboard_time": 1724560399,
       "rank": 28,
       "category": "网红,互联网"
+    },
+    {
+      "raw_hot": 518302,
+      "num": 518302,
+      "word": "孙杨曾说希望和潘展乐一起游接力",
+      "onboard_time": 1724572639,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 515121,
@@ -491,19 +523,19 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 413477,
+      "num": 413477,
+      "word": "蒋奇明迟早拿影帝",
+      "onboard_time": 1724570060,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 403564,
       "num": 424682,
       "word": "熟人作案 影视化",
       "onboard_time": 1724550978,
       "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 384709,
-      "num": 384709,
-      "word": "蒋奇明迟早拿影帝",
-      "onboard_time": 1724570060,
-      "rank": 28,
       "category": "剧集"
     },
     {
@@ -547,6 +579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 352967,
+      "num": 352967,
+      "word": "时代峰峻就安检问题发声明",
+      "onboard_time": 1724572519,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 350051,
       "num": 350051,
       "word": "蒋奇明好帅",
@@ -579,6 +619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 328771,
+      "num": 328771,
+      "word": "菲船非法冲闯我仙宾礁附近海域",
+      "onboard_time": 1724573241,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 323462,
       "num": 689101,
       "word": "惠英红 刘亦菲限定版调香师",
@@ -601,6 +649,22 @@
       "onboard_time": 1724501180,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 312170,
+      "num": 612366,
+      "word": "以色列遭数百枚火箭弹袭击现场",
+      "onboard_time": 1724571019,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 307560,
+      "num": 649053,
+      "word": "EDG总决赛对阵TH",
+      "onboard_time": 1724569759,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 300850,
@@ -627,20 +691,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 289446,
+      "num": 289446,
+      "word": "边水往事 敢拍",
+      "onboard_time": 1724573000,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 285109,
       "num": 285109,
       "word": "南京体育学院回应张某某不当言论",
       "onboard_time": 1724566999,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 283861,
-      "num": 283861,
-      "word": "沈梦辰家族群有71个人",
-      "onboard_time": 1724570178,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 269320,
@@ -657,6 +721,14 @@
       "onboard_time": 1724519418,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267665,
+      "num": 248858,
+      "word": "半个内娱都在看边水往事",
+      "onboard_time": 1724573359,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 261238,
@@ -739,6 +811,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 236781,
+      "num": 236781,
+      "word": "专家称房屋养老金不需老百姓直接出钱",
+      "onboard_time": 1724571740,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234922,
       "num": 234922,
       "word": "广西民警为救落水者牺牲",
@@ -755,20 +835,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 233578,
+      "num": 233578,
+      "word": "王勉把张淼怡踹掉了",
+      "onboard_time": 1724573479,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233134,
       "num": 233134,
       "word": "孙杨400自报名成绩仍属国内顶尖",
       "onboard_time": 1724521635,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 232008,
-      "num": 232008,
-      "word": "三里屯偶遇贾玲",
-      "onboard_time": 1724570899,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 231438,
@@ -825,6 +905,14 @@
       "onboard_time": 1724546479,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 224502,
+      "num": 224502,
+      "word": "DRG教练",
+      "onboard_time": 1724573178,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 224338,
@@ -939,14 +1027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 210362,
-      "num": 649053,
-      "word": "EDG总决赛对阵TH",
-      "onboard_time": 1724569759,
-      "rank": 8,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 208947,
       "num": 208947,
       "word": "今晚孙杨决赛",
@@ -993,6 +1073,14 @@
       "onboard_time": 1724560459,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 204725,
+      "num": 204725,
+      "word": "刘耀文出发新疆进组",
+      "onboard_time": 1724573599,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 201852,
@@ -1073,6 +1161,14 @@
       "onboard_time": 1724554640,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189721,
+      "num": 189721,
+      "word": "和刘诗诗有十年友情多难得",
+      "onboard_time": 1724573060,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 188638,
@@ -1179,6 +1275,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 173429,
+      "num": 173429,
+      "word": "薛之谦两分钟八百个小节目",
+      "onboard_time": 1724574020,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172626,
       "num": 172626,
       "word": "EDG",
@@ -1233,6 +1337,14 @@
       "onboard_time": 1724508381,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 169180,
+      "num": 169180,
+      "word": "程潇的妹妹和林墨是一个班的同学",
+      "onboard_time": 1724574197,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 169074,
@@ -1627,6 +1739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130572,
+      "num": 631416,
+      "word": "河南男子被关押1349天后无罪释放",
+      "onboard_time": 1724572399,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128731,
       "num": 128731,
       "word": "中国三代列车同框行驶一眼穿越了",
@@ -1771,6 +1891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102102,
+      "num": 478310,
+      "word": "温州14岁女孩失联8天家属发声",
+      "onboard_time": 1724573178,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89584,
       "num": 89584,
       "word": "TF三代登陆时刻演唱会",
@@ -1827,6 +1955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65703,
+      "num": 204957,
+      "word": "银川机场断电旅客用手机照明合唱",
+      "onboard_time": 1724572159,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65318,
       "num": 578064,
       "word": "甘肃河西强对流天气2人死亡",
@@ -1849,14 +1985,6 @@
       "onboard_time": 1724561119,
       "rank": 15,
       "category": "美食"
-    },
-    {
-      "raw_hot": 62541,
-      "num": 612366,
-      "word": "以色列遭数百枚火箭弹袭击现场",
-      "onboard_time": 1724571019,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 62099,
@@ -1907,8 +2035,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46409,
-      "num": 195705,
+      "raw_hot": 50976,
+      "num": 475685,
       "word": "王昱珩的灵感原来来自这里",
       "onboard_time": 1724570779,
       "rank": 34,
@@ -2019,6 +2147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25573,
+      "num": 871233,
+      "word": "神十八乘组展示太空菜园",
+      "onboard_time": 1724574140,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23757,
       "num": 327591,
       "word": "王一博祝福新浪娱乐",
@@ -2073,6 +2209,9 @@
     },
     {
       "word": "#带动全民健身青少年体育蓬勃开展#"
+    },
+    {
+      "word": "#学习绘文#"
     }
   ]
 }
