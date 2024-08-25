@@ -1,21 +1,21 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724584738459,
+  "endTime": 1724585688422,
   "band_list": [
+    {
+      "raw_hot": 14208627,
+      "num": 15458627,
+      "word": "孙杨400自夺冠",
+      "onboard_time": 1724583622,
+      "rank": 1,
+      "category": "体育"
+    },
     {
       "raw_hot": 10159619,
       "num": 10159619,
       "word": "孙杨400自决赛",
       "onboard_time": 1724580200,
       "rank": 0,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 9920551,
-      "num": 9675900,
-      "word": "孙杨400自夺冠",
-      "onboard_time": 1724583622,
-      "rank": 1,
       "category": "体育"
     },
     {
@@ -315,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 808951,
+      "num": 808951,
+      "word": "樊振东踢足球",
+      "onboard_time": 1724583501,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 800519,
       "num": 800519,
       "word": "村民捡到女婴胎盘脐带均未剪",
@@ -347,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 741989,
+      "num": 813728,
+      "word": "罗拉带王能能回老家",
+      "onboard_time": 1724584460,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 726162,
       "num": 726162,
       "word": "孙杨曾说希望和潘展乐一起游接力",
@@ -369,6 +385,14 @@
       "onboard_time": 1724576781,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 712181,
+      "num": 712181,
+      "word": "曝黄一鸣的别墅是租的",
+      "onboard_time": 1724584522,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 705293,
@@ -443,14 +467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 631045,
-      "num": 631045,
-      "word": "樊振东踢足球",
-      "onboard_time": 1724583501,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 629258,
       "num": 629258,
       "word": "登陆计划安检",
@@ -468,7 +484,7 @@
     },
     {
       "raw_hot": 612433,
-      "num": 764565,
+      "num": 809543,
       "word": "被救女孩称警察叔叔把我推到救生绳",
       "onboard_time": 1724580379,
       "rank": 27,
@@ -611,6 +627,14 @@
       "category": "网红,互联网"
     },
     {
+      "raw_hot": 464176,
+      "num": 464176,
+      "word": "CPA经济法 刁钻",
+      "onboard_time": 1724584882,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 463307,
       "num": 463307,
       "word": "程潇的妹妹和林墨是一个班的同学",
@@ -683,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440564,
+      "num": 440564,
+      "word": "孙杨 泳帝",
+      "onboard_time": 1724584401,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 435785,
       "num": 547935,
       "word": "菲船非法冲闯我仙宾礁附近海域",
@@ -724,7 +756,7 @@
     },
     {
       "raw_hot": 399016,
-      "num": 399016,
+      "num": 405066,
       "word": "苏新皓清唱",
       "onboard_time": 1724583139,
       "rank": 15,
@@ -737,6 +769,14 @@
       "onboard_time": 1724558718,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 371001,
+      "num": 371001,
+      "word": "CPA经济法",
+      "onboard_time": 1724584342,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 369007,
@@ -811,14 +851,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 336805,
-      "num": 336805,
-      "word": "CPA经济法",
-      "onboard_time": 1724584342,
-      "rank": 21,
-      "category": "教育"
-    },
-    {
       "raw_hot": 333408,
       "num": 333408,
       "word": "王一博新歌舞台",
@@ -865,6 +897,14 @@
       "onboard_time": 1724576119,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 307963,
+      "num": 404606,
+      "word": "张子墨 我一直在",
+      "onboard_time": 1724584163,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 300850,
@@ -915,27 +955,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 283680,
-      "num": 283680,
-      "word": "罗拉带王能能回老家",
-      "onboard_time": 1724584460,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 278775,
       "num": 278775,
       "word": "朱志鑫戴皇冠",
       "onboard_time": 1724578579,
       "rank": 26,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 272664,
-      "num": 272664,
-      "word": "张子墨 我一直在",
-      "onboard_time": 1724584163,
-      "rank": 25,
       "category": "演出"
     },
     {
@@ -969,6 +993,14 @@
       "onboard_time": 1724574499,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258212,
+      "num": 258212,
+      "word": "唐僧 最早的二手烟受害者",
+      "onboard_time": 1724578280,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 257547,
@@ -1059,6 +1091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 242937,
+      "num": 242937,
+      "word": "捐款百万的拾荒人胡雷哭诉寻手机",
+      "onboard_time": 1724584701,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242361,
       "num": 535473,
       "word": "非遗厨师把家乡风景做成了菜",
@@ -1083,12 +1123,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 239910,
-      "num": 239910,
-      "word": "唐僧 最早的二手烟受害者",
-      "onboard_time": 1724578280,
-      "rank": 46,
-      "category": "幽默"
+      "raw_hot": 237684,
+      "num": 237684,
+      "word": "徐海博",
+      "onboard_time": 1724585001,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 234922,
@@ -1131,14 +1171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 230530,
-      "num": 230530,
-      "word": "曝黄一鸣的别墅是租的",
-      "onboard_time": 1724584522,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 230487,
       "num": 230487,
       "word": "孙杨说要找回感觉",
@@ -1153,6 +1185,14 @@
       "onboard_time": 1724581101,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 228876,
+      "num": 228876,
+      "word": "李飞开宾利",
+      "onboard_time": 1724585421,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 228673,
@@ -1339,6 +1379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 210877,
+      "num": 210877,
+      "word": "孙杨说只有遗憾能堆出伟大的运动员",
+      "onboard_time": 1724584401,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210873,
       "num": 210873,
       "word": "吉克隽逸美白后",
@@ -1387,12 +1435,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 206929,
-      "num": 206929,
-      "word": "孙杨 泳帝",
-      "onboard_time": 1724584401,
-      "rank": 34,
-      "category": "体育"
+      "raw_hot": 206769,
+      "num": 206769,
+      "word": "朱志鑫 黄海",
+      "onboard_time": 1724584581,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 206514,
@@ -1483,6 +1531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 198507,
+      "num": 198507,
+      "word": "AG33单场MVP",
+      "onboard_time": 1724585182,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 198435,
       "num": 198435,
       "word": "云南亚洲象又出走了",
@@ -1497,6 +1553,14 @@
       "onboard_time": 1724545280,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196444,
+      "num": 196444,
+      "word": "柳舟记",
+      "onboard_time": 1724585061,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 195766,
@@ -1627,14 +1691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184751,
-      "num": 184751,
-      "word": "朱志鑫 黄海",
-      "onboard_time": 1724584581,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 184522,
       "num": 184522,
       "word": "陈梦回山东与小球员切磋球技",
@@ -1729,6 +1785,14 @@
       "onboard_time": 1724497220,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 175370,
+      "num": 175370,
+      "word": "全国夏季游泳锦标赛",
+      "onboard_time": 1724583259,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 175167,
@@ -1977,14 +2041,6 @@
       "onboard_time": 1724550018,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 158490,
-      "num": 158490,
-      "word": "捐款百万的拾荒人胡雷哭诉寻手机",
-      "onboard_time": 1724584701,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157825,
@@ -2539,6 +2595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65293,
+      "num": 403400,
+      "word": "景区魔毯事故致1死60伤后重新开业",
+      "onboard_time": 1724584641,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65208,
       "num": 577936,
       "word": "幽灵外卖乱象遭曝光",
@@ -2624,14 +2688,6 @@
       "word": "王昱珩的灵感原来来自这里",
       "onboard_time": 1724570779,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48664,
-      "num": 336863,
-      "word": "景区魔毯事故致1死60伤后重新开业",
-      "onboard_time": 1724584641,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -2787,20 +2843,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15648,
+      "num": 172080,
+      "word": "好看的女生是不是都来红人节了",
+      "onboard_time": 1724583983,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 12328,
       "num": 2106341,
       "word": "铸牢共同体中华一家亲",
       "onboard_time": 1724503281,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10230,
-      "num": 162183,
-      "word": "好看的女生是不是都来红人节了",
-      "onboard_time": 1724583983,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 4031,
