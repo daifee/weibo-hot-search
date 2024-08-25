@@ -1,10 +1,10 @@
 {
   "startTime": 1724603016158,
-  "endTime": 1724628008548,
+  "endTime": 1724628986578,
   "band_list": [
     {
-      "raw_hot": 1454952,
-      "num": 1454952,
+      "raw_hot": 1733397,
+      "num": 1733397,
       "word": "只要北京人的血是热的这家店就不会凉",
       "onboard_time": 1724612053,
       "rank": 46,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 676278,
+      "num": 676278,
+      "word": "特朗普说马上战胜拜登时哈里斯登场",
+      "onboard_time": 1724611814,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 670774,
       "num": 670774,
       "word": "孙杨提前伸脖子等待金牌",
@@ -59,12 +67,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 606478,
-      "num": 606478,
-      "word": "特朗普说马上战胜拜登时哈里斯登场",
-      "onboard_time": 1724611814,
+      "raw_hot": 572273,
+      "num": 572273,
+      "word": "杭州多起半夜骑行党相撞事故",
+      "onboard_time": 1724603418,
       "rank": 9,
-      "category": "国外时政"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 548446,
@@ -104,14 +112,6 @@
       "word": "牺牲民警让被救女孩好好活着",
       "onboard_time": 1724587640,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 489032,
-      "num": 489032,
-      "word": "杭州多起半夜骑行党相撞事故",
-      "onboard_time": 1724603418,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -171,6 +171,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 355924,
+      "num": 319590,
+      "word": "黄一鸣回应想让女儿当网红",
+      "onboard_time": 1724607914,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 345310,
+      "num": 351922,
+      "word": "美国宇航员将乘龙飞船返回地球",
+      "onboard_time": 1724590942,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338814,
       "num": 338814,
       "word": "大叔欠债200万在上海送外卖还清",
@@ -187,11 +203,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 306741,
-      "num": 351922,
-      "word": "美国宇航员将乘龙飞船返回地球",
-      "onboard_time": 1724590942,
-      "rank": 17,
+      "raw_hot": 318653,
+      "num": 318653,
+      "word": "男子偷21座佛像放家中供奉",
+      "onboard_time": 1724609953,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -201,14 +217,6 @@
       "onboard_time": 1724599161,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 296349,
-      "num": 296349,
-      "word": "黄一鸣回应想让女儿当网红",
-      "onboard_time": 1724607914,
-      "rank": 16,
-      "category": "网红"
     },
     {
       "raw_hot": 281150,
@@ -224,14 +232,6 @@
       "word": "媒体反映的罐车运输食用油乱象查处通报",
       "onboard_time": 1724588001,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 245077,
-      "num": 245077,
-      "word": "男子偷21座佛像放家中供奉",
-      "onboard_time": 1724609953,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -265,6 +265,14 @@
       "onboard_time": 1724595143,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206202,
+      "num": 206202,
+      "word": "第一次见男女主都是小苦瓜的",
+      "onboard_time": 1724625433,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 205085,
@@ -395,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146192,
+      "num": 146192,
+      "word": "肖战唱出了天山峡谷的美",
+      "onboard_time": 1724595983,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141919,
       "num": 141919,
       "word": "单依纯太阳公主舞台",
@@ -419,6 +435,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 137181,
+      "num": 137181,
+      "word": "弃婴里大部分是残障儿童或女婴",
+      "onboard_time": 1724626935,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 135681,
+      "num": 135681,
+      "word": "谁懂那句走吧下班了的含泪量",
+      "onboard_time": 1724625254,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135620,
       "num": 135620,
       "word": "孙杨回应复出首冠",
@@ -427,12 +459,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135108,
-      "num": 117359,
-      "word": "谁懂那句走吧下班了的含泪量",
-      "onboard_time": 1724625254,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 134238,
+      "num": 134238,
+      "word": "王哲林分享活该",
+      "onboard_time": 1724628077,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 132735,
@@ -451,20 +483,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 123890,
-      "num": 123890,
-      "word": "肖战唱出了天山峡谷的美",
-      "onboard_time": 1724595983,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 118102,
-      "num": 118102,
-      "word": "第一次见男女主都是小苦瓜的",
-      "onboard_time": 1724625433,
-      "rank": 19,
-      "category": "剧集"
+      "raw_hot": 123965,
+      "num": 193990,
+      "word": "韩国博主在印度搭便车遭绑架",
+      "onboard_time": 1724579419,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117949,
@@ -475,28 +499,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 116977,
-      "num": 193990,
-      "word": "韩国博主在印度搭便车遭绑架",
-      "onboard_time": 1724579419,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 110000,
+      "num": 110000,
+      "word": "边水往事",
+      "onboard_time": 1724628256,
+      "rank": 28,
+      "category": "剧集"
     },
     {
-      "raw_hot": 96949,
-      "num": 96949,
+      "raw_hot": 109089,
+      "num": 109089,
       "word": "刘宇宁一开口这味就对了",
       "onboard_time": 1724620990,
       "rank": 48,
       "category": "剧集"
     },
     {
-      "raw_hot": 82412,
-      "num": 93082,
-      "word": "弃婴里大部分是残障儿童或女婴",
-      "onboard_time": 1724626935,
-      "rank": 28,
-      "category": "电影"
+      "raw_hot": 96071,
+      "num": 184463,
+      "word": "广州番禺区发生多车相撞",
+      "onboard_time": 1724591302,
+      "rank": 29,
+      "category": "社会负面"
     },
     {
       "raw_hot": 77615,
@@ -507,12 +531,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 77468,
+      "num": 77468,
+      "word": "孙颖莎说追逐梦想挺幸福的",
+      "onboard_time": 1724628437,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75031,
       "num": 75031,
       "word": "张钧甯与男友葡萄牙逛街",
       "onboard_time": 1724592562,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 74015,
+      "num": 74015,
+      "word": "孙颖莎早操比别人早1小时",
+      "onboard_time": 1724628077,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 73617,
@@ -531,12 +571,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 72967,
-      "num": 184463,
-      "word": "广州番禺区发生多车相撞",
-      "onboard_time": 1724591302,
-      "rank": 29,
-      "category": "社会负面"
+      "raw_hot": 66968,
+      "num": 66968,
+      "word": "每卖1台问界华为车BU收费3.67万元",
+      "onboard_time": 1724628677,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 61767,
+      "num": 66963,
+      "word": "邓为费加罗暗夜鎏金大片",
+      "onboard_time": 1724628138,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 59053,
+      "num": 66956,
+      "word": "莎莎一如既往地沉稳",
+      "onboard_time": 1724628738,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 55562,
@@ -620,7 +676,7 @@
     },
     {
       "raw_hot": 23082,
-      "num": 296743,
+      "num": 335912,
       "word": "一根琴弦的无限种可能",
       "onboard_time": 1724615532,
       "rank": 15,
