@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724550885403,
+  "endTime": 1724553769390,
   "band_list": [
     {
       "raw_hot": 2141711,
@@ -19,20 +19,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1815576,
+      "num": 1815576,
+      "word": "孙杨复出首秀",
+      "onboard_time": 1724548339,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1737946,
+      "num": 568269,
+      "word": "黄一鸣听到300万的反应",
+      "onboard_time": 1724550619,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1505214,
       "num": 1505214,
       "word": "大唐不夜城半年仅赚23.53万元",
       "onboard_time": 1724546479,
       "rank": 0,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 1324884,
-      "num": 1324884,
-      "word": "孙杨复出首秀",
-      "onboard_time": 1724548339,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 1295456,
@@ -91,6 +99,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 811964,
+      "num": 811964,
+      "word": "张豆豆发文支持孙杨",
+      "onboard_time": 1724550439,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 800519,
       "num": 800519,
       "word": "村民捡到女婴胎盘脐带均未剪",
@@ -121,6 +137,14 @@
       "onboard_time": 1724508502,
       "rank": 5,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 611721,
+      "num": 611721,
+      "word": "超65万人预约观看孙杨复出战",
+      "onboard_time": 1724549298,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 588577,
@@ -161,6 +185,22 @@
       "onboard_time": 1724503939,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 479388,
+      "num": 479388,
+      "word": "孙杨抵达赛场",
+      "onboard_time": 1724549839,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 469127,
+      "num": 586499,
+      "word": "李娟说和董宇辉的访谈好奇怪",
+      "onboard_time": 1724550318,
+      "rank": 13,
+      "category": "网红,互联网"
     },
     {
       "raw_hot": 462377,
@@ -211,12 +251,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 403230,
-      "num": 403230,
-      "word": "李娟说和董宇辉的访谈好奇怪",
-      "onboard_time": 1724550318,
-      "rank": 13,
-      "category": "网红,互联网"
+      "raw_hot": 371979,
+      "num": 371979,
+      "word": "宝爸每次晚归都拿桃枝抽打自己",
+      "onboard_time": 1724550018,
+      "rank": 32,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 369007,
@@ -259,14 +299,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 327286,
-      "num": 327286,
-      "word": "孙杨抵达赛场",
-      "onboard_time": 1724549839,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 315588,
       "num": 315588,
       "word": "Angelababy带小海绵游玩迪士尼",
@@ -291,20 +323,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 267520,
-      "num": 267520,
-      "word": "黄一鸣听到300万的反应",
-      "onboard_time": 1724550619,
-      "rank": 22,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 259794,
-      "num": 259794,
-      "word": "张豆豆发文支持孙杨",
-      "onboard_time": 1724550439,
-      "rank": 23,
-      "category": "体育"
+      "raw_hot": 267830,
+      "num": 370496,
+      "word": "熟人作案 影视化",
+      "onboard_time": 1724550978,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 257547,
@@ -313,14 +337,6 @@
       "onboard_time": 1724504842,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 253595,
-      "num": 253595,
-      "word": "超65万人预约观看孙杨复出战",
-      "onboard_time": 1724549298,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 252418,
@@ -345,6 +361,14 @@
       "onboard_time": 1724507242,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240395,
+      "num": 240395,
+      "word": "东部战区运油20歼16夜间空中加油",
+      "onboard_time": 1724552358,
+      "rank": 31,
+      "category": "军事"
     },
     {
       "raw_hot": 234922,
@@ -387,6 +411,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 221271,
+      "num": 279681,
+      "word": "杨幂对周深说少管我",
+      "onboard_time": 1724516899,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 221160,
       "num": 221160,
       "word": "我国天文学家发现被黑洞撕裂2次的恒星",
@@ -395,20 +427,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 220100,
+      "num": 262361,
+      "word": "多少年了我还吃帝后cp这套",
+      "onboard_time": 1724552240,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219737,
       "num": 219737,
       "word": "长期睡眠不足七小时的危害",
       "onboard_time": 1724547558,
       "rank": 33,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 219186,
-      "num": 279681,
-      "word": "杨幂对周深说少管我",
-      "onboard_time": 1724516899,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 218734,
@@ -425,6 +457,22 @@
       "onboard_time": 1724502381,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 215460,
+      "num": 215460,
+      "word": "房屋养老金",
+      "onboard_time": 1724546717,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213404,
+      "num": 213404,
+      "word": "男子每天凌晨4点出门冒充特警查车",
+      "onboard_time": 1724552780,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213364,
@@ -451,27 +499,19 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 201547,
+      "num": 259808,
+      "word": "吴彦祖送女儿上中学",
+      "onboard_time": 1724550139,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197251,
       "num": 197251,
       "word": "熊猫为贴贴每根毛都在使劲",
       "onboard_time": 1724545280,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190772,
-      "num": 190772,
-      "word": "宝爸每次晚归都拿桃枝抽打自己",
-      "onboard_time": 1724550018,
-      "rank": 32,
-      "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 190021,
-      "num": 190021,
-      "word": "房屋养老金",
-      "onboard_time": 1724546717,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -497,6 +537,14 @@
       "onboard_time": 1724549119,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181199,
+      "num": 181199,
+      "word": "云南亚洲象又出走了",
+      "onboard_time": 1724552358,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179459,
@@ -531,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171287,
+      "num": 171287,
+      "word": "丁真有周迅微信",
+      "onboard_time": 1724552119,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170085,
       "num": 170085,
       "word": "陈昊宇野子现场",
@@ -552,14 +608,6 @@
       "word": "张昊唯和伪造聊天记录发小已和解",
       "onboard_time": 1724501721,
       "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 164831,
-      "num": 164831,
-      "word": "吴彦祖送女儿上中学",
-      "onboard_time": 1724550139,
-      "rank": 39,
       "category": "艺人"
     },
     {
@@ -585,6 +633,14 @@
       "onboard_time": 1724515221,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 159385,
+      "num": 159385,
+      "word": "居然有人能跟一匹马聊5分钟",
+      "onboard_time": 1724553078,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 158531,
@@ -667,6 +723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 140401,
+      "num": 140401,
+      "word": "王霏霏不一定斩男但一定斩女",
+      "onboard_time": 1724553680,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 139480,
       "num": 139480,
       "word": "程潇唱跳live好稳",
@@ -681,6 +745,14 @@
       "onboard_time": 1724500040,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137640,
+      "num": 137640,
+      "word": "薛之谦被毛不易怼了",
+      "onboard_time": 1724553320,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 137180,
@@ -723,6 +795,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 134002,
+      "num": 134002,
+      "word": "老外称上海咖啡店比欧洲多",
+      "onboard_time": 1724553500,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 131740,
       "num": 131740,
       "word": "四方馆嗷嗷哭完嘎嘎甜",
@@ -745,6 +825,22 @@
       "onboard_time": 1724516479,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 129414,
+      "num": 129414,
+      "word": "曲江文旅上半年亏1.87亿",
+      "onboard_time": 1724553140,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128731,
+      "num": 128731,
+      "word": "中国三代列车同框行驶一眼穿越了",
+      "onboard_time": 1724552177,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127629,
@@ -859,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70391,
+      "num": 569113,
+      "word": "电报创始人在法国被逮捕",
+      "onboard_time": 1724552418,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66935,
       "num": 115043,
       "word": "2中学生网上利用卡牌盲盒设局诈骗",
@@ -904,6 +1008,14 @@
       "word": "帅小伙回农村帮外婆收稻谷好温馨",
       "onboard_time": 1724548339,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49569,
+      "num": 409659,
+      "word": "这才是真正的火锅英雄",
+      "onboard_time": 1724552418,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -992,6 +1104,14 @@
       "word": "钓鱼佬甩竿救出水中落难鸵鸟",
       "onboard_time": 1724539274,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21284,
+      "num": 254520,
+      "word": "福岛多地集会要求停止核污染水排海",
+      "onboard_time": 1724553680,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
