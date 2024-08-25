@@ -1,6 +1,6 @@
 {
   "startTime": 1724603016158,
-  "endTime": 1724610303139,
+  "endTime": 1724611072130,
   "band_list": [
     {
       "raw_hot": 1016869,
@@ -419,20 +419,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114069,
+      "num": 114069,
+      "word": "黄一鸣回应想让女儿当网红",
+      "onboard_time": 1724607914,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 96478,
       "num": 193990,
       "word": "韩国博主在印度搭便车遭绑架",
       "onboard_time": 1724579419,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 86910,
-      "num": 86910,
-      "word": "黄一鸣回应想让女儿当网红",
-      "onboard_time": 1724607914,
-      "rank": 16,
-      "category": "网红"
     },
     {
       "raw_hot": 73617,
@@ -467,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52171,
+      "num": 52171,
+      "word": "张钧甯与男友葡萄牙逛街",
+      "onboard_time": 1724592562,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41492,
       "num": 53250,
       "word": "张泽禹出道战绿海",
@@ -475,7 +483,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 40626,
+      "raw_hot": 41339,
+      "num": 43817,
+      "word": "张泽禹吉他弹唱他一定很爱你",
+      "onboard_time": 1724610313,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 40685,
       "num": 53226,
       "word": "张杰未live巡回演唱会",
       "onboard_time": 1724610192,
@@ -483,8 +499,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 36135,
+      "num": 43764,
+      "word": "边水往事质感",
+      "onboard_time": 1724604796,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23941,
-      "num": 98545,
+      "num": 114508,
       "word": "男子偷21座佛像放家中供奉",
       "onboard_time": 1724609953,
       "rank": 13,
