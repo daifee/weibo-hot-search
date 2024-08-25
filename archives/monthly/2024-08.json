@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1724596470993,
+  "endTime": 1724599251402,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -6227,6 +6227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1846463,
+      "num": 1846463,
+      "word": "追的爱豆是自己的舅舅",
+      "onboard_time": 1724597723,
+      "rank": 0,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 1846292,
       "num": 1846292,
       "word": "校方回应研究生午休在工作室打游戏被重罚",
@@ -6841,6 +6849,14 @@
       "onboard_time": 1724045780,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1740954,
+      "num": 602555,
+      "word": "孙颖莎回应王楚钦看自己脸色",
+      "onboard_time": 1724595743,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 1740427,
@@ -12627,6 +12643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1073686,
+      "num": 602055,
+      "word": "张颖颖曝张兰带球上位",
+      "onboard_time": 1724597243,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1073461,
       "num": 1019254,
       "word": "伊藤美诚发球",
@@ -16147,6 +16171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 841988,
+      "num": 841988,
+      "word": "唯一演遍四大名著的女演员",
+      "onboard_time": 1724594242,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 840831,
       "num": 840831,
       "word": "汪顺连牙都是双开门",
@@ -17577,14 +17609,6 @@
       "onboard_time": 1724327780,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 760255,
-      "num": 760255,
-      "word": "唯一演遍四大名著的女演员",
-      "onboard_time": 1724594242,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 759413,
@@ -21379,6 +21403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 600185,
+      "num": 600185,
+      "word": "登陆计划出道人数",
+      "onboard_time": 1724598563,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 599943,
       "num": 1862073,
       "word": "魏晨去了张杰演唱会",
@@ -21905,6 +21937,14 @@
       "onboard_time": 1724397259,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 585995,
+      "num": 585995,
+      "word": "孙杨教练一开始只盼他能达标",
+      "onboard_time": 1724595143,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 585876,
@@ -25123,6 +25163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 482188,
+      "num": 482188,
+      "word": "孙颖莎的时间表",
+      "onboard_time": 1724596823,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 481952,
       "num": 481952,
       "word": "百花奖男明星生图",
@@ -26137,14 +26185,6 @@
       "onboard_time": 1724232501,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 457023,
-      "num": 457023,
-      "word": "孙颖莎回应王楚钦看自己脸色",
-      "onboard_time": 1724595743,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 456688,
@@ -29603,11 +29643,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 390416,
-      "num": 390416,
-      "word": "孙杨教练一开始只盼他能达标",
-      "onboard_time": 1724595143,
-      "rank": 42,
+      "raw_hot": 390407,
+      "num": 339389,
+      "word": "孙杨成绩能在杭州亚运会拿第5",
+      "onboard_time": 1724599161,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -36363,6 +36403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302568,
+      "num": 302568,
+      "word": "孙杨透露未来发展",
+      "onboard_time": 1724595202,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 302436,
       "num": 368030,
       "word": "郑合惠子啜妮新剧",
@@ -37779,6 +37827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 290327,
+      "num": 343045,
+      "word": "薛之谦音乐节",
+      "onboard_time": 1724598682,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 290282,
       "num": 301910,
       "word": "鑫仔 脱口秀票数",
@@ -37873,6 +37929,14 @@
       "onboard_time": 1724590643,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 289920,
+      "num": 289920,
+      "word": "邓紫棋直播",
+      "onboard_time": 1723418180,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 289637,
@@ -40089,6 +40153,14 @@
       "onboard_time": 1724513122,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 270587,
+      "num": 270587,
+      "word": "王哲林 发一首歌给辽宁的球迷们",
+      "onboard_time": 1724599041,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 270379,
@@ -42539,6 +42611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252021,
+      "num": 252021,
+      "word": "孙颖莎回应女单银牌",
+      "onboard_time": 1724598863,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251905,
       "num": 251905,
       "word": "直面天命",
@@ -42675,12 +42755,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 251071,
+      "num": 251071,
+      "word": "成为像孙颖莎一样的人",
+      "onboard_time": 1724598263,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 250971,
       "num": 250971,
       "word": "WPS补偿15天会员",
       "onboard_time": 1724229799,
       "rank": 31,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 250938,
+      "num": 250938,
+      "word": "狼队战胜AG",
+      "onboard_time": 1724598204,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 250823,
@@ -44579,6 +44675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237225,
+      "num": 237225,
+      "word": "奶奶收到莎头签名照",
+      "onboard_time": 1724598142,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 237184,
       "num": 237184,
       "word": "张兰疑似回应张颖颖",
@@ -46027,6 +46131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228593,
+      "num": 228593,
+      "word": "孙颖莎和教练父女版斗嘴",
+      "onboard_time": 1724599161,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 228570,
       "num": 228570,
       "word": "咱家这些家伙事儿自带安全感",
@@ -46105,6 +46217,14 @@
       "onboard_time": 1724125943,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 228067,
+      "num": 228067,
+      "word": "KSG锁定年总大师组",
+      "onboard_time": 1724599161,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 228001,
@@ -47216,14 +47336,6 @@
       "word": "神秘东方力量净化塞纳河",
       "onboard_time": 1723179683,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 221857,
-      "num": 221857,
-      "word": "孙杨透露未来发展",
-      "onboard_time": 1724595202,
-      "rank": 46,
       "category": "体育"
     },
     {
@@ -65923,6 +66035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120035,
+      "num": 514995,
+      "word": "在泰国遭辱骂女子透露事件最新进展",
+      "onboard_time": 1724599041,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119996,
       "num": 547036,
       "word": "拼多多我的网络菜市场",
@@ -68569,14 +68689,6 @@
       "onboard_time": 1724022616,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 85209,
-      "num": 106406,
-      "word": "邓紫棋直播",
-      "onboard_time": 1723418180,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 85162,
@@ -73603,6 +73715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41687,
+      "num": 582171,
+      "word": "沙地塌陷埋压2孩童众人刨沙施救",
+      "onboard_time": 1724599041,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41657,
       "num": 480762,
       "word": "多地捣毁改装销售鬼秤窝点",
@@ -74689,6 +74809,14 @@
       "onboard_time": 1722430044,
       "rank": 2,
       "category": "军事"
+    },
+    {
+      "raw_hot": 33636,
+      "num": 504916,
+      "word": "酒店代订服务省钱背后都有啥风险",
+      "onboard_time": 1724598322,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33610,
