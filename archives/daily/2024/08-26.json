@@ -1,6 +1,6 @@
 {
   "startTime": 1724603016158,
-  "endTime": 1724617412037,
+  "endTime": 1724618176763,
   "band_list": [
     {
       "raw_hot": 1016869,
@@ -539,6 +539,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 26703,
+      "num": 26703,
+      "word": "只要北京人的血是热的这家店就不会凉",
+      "onboard_time": 1724612053,
+      "rank": 46,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 25949,
       "num": 29863,
       "word": "FPX",
@@ -555,12 +563,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 24390,
-      "num": 24390,
-      "word": "只要北京人的血是热的这家店就不会凉",
-      "onboard_time": 1724612053,
-      "rank": 46,
-      "category": "社会正能量"
+      "raw_hot": 21952,
+      "num": 49213,
+      "word": "一根琴弦的无限种可能",
+      "onboard_time": 1724615532,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16299,
@@ -572,19 +580,11 @@
     },
     {
       "raw_hot": 15728,
-      "num": 34202,
+      "num": 61460,
       "word": "用民乐打开黑神话悟空太上头了",
       "onboard_time": 1724617391,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 11205,
-      "num": 49213,
-      "word": "一根琴弦的无限种可能",
-      "onboard_time": 1724615532,
-      "rank": 15,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
