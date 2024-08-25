@@ -1,6 +1,6 @@
 {
   "startTime": 1724603016158,
-  "endTime": 1724620709545,
+  "endTime": 1724621707389,
   "band_list": [
     {
       "raw_hot": 1016869,
@@ -299,8 +299,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162433,
-      "num": 162433,
+      "raw_hot": 166409,
+      "num": 180028,
+      "word": "只要北京人的血是热的这家店就不会凉",
+      "onboard_time": 1724612053,
+      "rank": 46,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 162678,
+      "num": 162678,
       "word": "特朗普说马上战胜拜登时哈里斯登场",
       "onboard_time": 1724611814,
       "rank": 9,
@@ -451,14 +459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 77809,
-      "num": 77809,
-      "word": "只要北京人的血是热的这家店就不会凉",
-      "onboard_time": 1724612053,
-      "rank": 46,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 73617,
       "num": 84019,
       "word": "胡可晒安吉近照",
@@ -523,7 +523,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 38137,
+      "raw_hot": 39141,
       "num": 43764,
       "word": "边水往事质感",
       "onboard_time": 1724604796,
@@ -563,15 +563,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21984,
-      "num": 24615,
+      "raw_hot": 25152,
+      "num": 25152,
       "word": "小S女儿绘画作品参展",
       "onboard_time": 1724617751,
       "rank": 44,
       "category": "艺人"
     },
     {
-      "raw_hot": 21952,
+      "raw_hot": 23082,
       "num": 49213,
       "word": "一根琴弦的无限种可能",
       "onboard_time": 1724615532,
@@ -585,6 +585,14 @@
       "onboard_time": 1724620450,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 20360,
+      "num": 24503,
+      "word": "刘宇宁一开口这味就对了",
+      "onboard_time": 1724620990,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 16299,

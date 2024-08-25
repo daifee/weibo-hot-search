@@ -1,0 +1,410 @@
+{
+  "runTime": 1724621707389,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 166409,
+        "num": 180028,
+        "word": "只要北京人的血是热的这家店就不会凉",
+        "onboard_time": 1724612053,
+        "rank": 0,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 162678,
+        "num": 162678,
+        "word": "特朗普说马上战胜拜登时哈里斯登场",
+        "onboard_time": 1724611814,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 22480,
+        "num": 114454,
+        "word": "整个三星堆独一无二的金杖",
+        "onboard_time": 1724591542,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94082,
+        "num": 94082,
+        "word": "在泰国被辱骂中国女子拒绝和解",
+        "onboard_time": 1724593101,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82114,
+        "num": 82114,
+        "word": "边水往事 吓人",
+        "onboard_time": 1724588480,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76969,
+        "num": 76969,
+        "word": "孙杨成绩能在杭州亚运会拿第5",
+        "onboard_time": 1724599161,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76642,
+        "num": 76642,
+        "word": "男子偷21座佛像放家中供奉",
+        "onboard_time": 1724609953,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74950,
+        "num": 74950,
+        "word": "牺牲民警让被救女孩好好活着",
+        "onboard_time": 1724587640,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52638,
+        "num": 73935,
+        "word": "唯一演遍四大名著的女演员",
+        "onboard_time": 1724594242,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21984,
+        "num": 72661,
+        "word": "孙杨教练一开始只盼他能达标",
+        "onboard_time": 1724595143,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89970,
+        "num": 71970,
+        "word": "张颖颖曝张兰带球上位",
+        "onboard_time": 1724597243,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86154,
+        "num": 70905,
+        "word": "孙颖莎回应王楚钦看自己脸色",
+        "onboard_time": 1724595743,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70347,
+        "num": 70347,
+        "word": "杭州多起半夜骑行党相撞事故",
+        "onboard_time": 1724603418,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70334,
+        "num": 70334,
+        "word": "黄一鸣回应想让女儿当网红",
+        "onboard_time": 1724607914,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 64675,
+        "num": 64675,
+        "word": "孙杨400自夺冠",
+        "onboard_time": 1724583622,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51157,
+        "num": 51157,
+        "word": "美国宇航员将乘龙飞船返回地球",
+        "onboard_time": 1724590942,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49516,
+        "num": 49516,
+        "word": "被救女孩称警察叔叔把我推到救生绳",
+        "onboard_time": 1724580379,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42097,
+        "num": 44620,
+        "word": "追的爱豆是自己的舅舅",
+        "onboard_time": 1724597723,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39141,
+        "num": 43551,
+        "word": "边水往事质感",
+        "onboard_time": 1724604796,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33385,
+        "num": 42986,
+        "word": "派克特力挺乃万",
+        "onboard_time": 1724599282,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42793,
+        "num": 42793,
+        "word": "孙杨400自决赛",
+        "onboard_time": 1724580200,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41555,
+        "num": 41555,
+        "word": "EDG全球冠军赛夺冠",
+        "onboard_time": 1724588663,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 39964,
+        "num": 39964,
+        "word": "孙颖莎回应为何输陈梦",
+        "onboard_time": 1724595323,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39599,
+        "num": 39599,
+        "word": "曝黄一鸣的别墅是租的",
+        "onboard_time": 1724584522,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 36030,
+        "num": 36030,
+        "word": "医生让我别穿洞洞鞋",
+        "onboard_time": 1724576359,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35509,
+        "num": 35509,
+        "word": "媒体反映的罐车运输食用油乱象查处通报",
+        "onboard_time": 1724588001,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31836,
+        "num": 34816,
+        "word": "卢昱晓出妆前后生图",
+        "onboard_time": 1724593221,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30023,
+        "num": 33903,
+        "word": "张钧甯与男友葡萄牙逛街",
+        "onboard_time": 1724592562,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29300,
+        "num": 33723,
+        "word": "张峻豪舞台鞠躬道歉",
+        "onboard_time": 1724590521,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29112,
+        "num": 32183,
+        "word": "刘亦菲37岁庆生照",
+        "onboard_time": 1724591302,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32048,
+        "num": 32048,
+        "word": "孙杨提前伸脖子等待金牌",
+        "onboard_time": 1724587280,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31208,
+        "num": 31208,
+        "word": "孙颖莎和教练父女版斗嘴",
+        "onboard_time": 1724599161,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29861,
+        "num": 29861,
+        "word": "大叔欠债200万在上海送外卖还清",
+        "onboard_time": 1724593041,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29795,
+        "num": 29795,
+        "word": "广州番禺区发生多车相撞",
+        "onboard_time": 1724591302,
+        "rank": 33,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 28775,
+        "num": 28775,
+        "word": "坐高铁1个多小时穿越中国南北",
+        "onboard_time": 1724613671,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28076,
+        "num": 28076,
+        "word": "韩国博主在印度搭便车遭绑架",
+        "onboard_time": 1724579419,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26109,
+        "num": 26109,
+        "word": "女子产后掉发1个月掉出1把马尾",
+        "onboard_time": 1724588121,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25152,
+        "num": 25152,
+        "word": "小S女儿绘画作品参展",
+        "onboard_time": 1724617751,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25061,
+        "num": 25061,
+        "word": "阎鹤祥脱口秀",
+        "onboard_time": 1724601319,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24768,
+        "num": 24768,
+        "word": "GAI EDG太帅了",
+        "onboard_time": 1724589682,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24678,
+        "num": 24678,
+        "word": "孙颖莎的时间表",
+        "onboard_time": 1724596823,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24511,
+        "num": 24511,
+        "word": "邓紫棋直播",
+        "onboard_time": 1724598443,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 24248,
+        "num": 24510,
+        "word": "孙杨回应复出首冠",
+        "onboard_time": 1724587939,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23426,
+        "num": 24510,
+        "word": "罗拉带王能能回老家",
+        "onboard_time": 1724584460,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23175,
+        "num": 24509,
+        "word": "以色列北部拉响密集防空警报",
+        "onboard_time": 1724612292,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 23082,
+        "num": 24506,
+        "word": "一根琴弦的无限种可能",
+        "onboard_time": 1724615532,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22207,
+        "num": 24505,
+        "word": "登陆计划出道人数",
+        "onboard_time": 1724598563,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21971,
+        "num": 24505,
+        "word": "单依纯太阳公主舞台",
+        "onboard_time": 1724601079,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20360,
+        "num": 24503,
+        "word": "刘宇宁一开口这味就对了",
+        "onboard_time": 1724620990,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20261,
+        "num": 24502,
+        "word": "朱志鑫solo舞台",
+        "onboard_time": 1724595921,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习新语#"
+    }
+  }
+}

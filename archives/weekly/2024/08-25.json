@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724620709545,
+  "endTime": 1724621707389,
   "band_list": [
     {
       "raw_hot": 14208627,
@@ -2627,6 +2627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166409,
+      "num": 180028,
+      "word": "只要北京人的血是热的这家店就不会凉",
+      "onboard_time": 1724612053,
+      "rank": 46,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 166313,
       "num": 904144,
       "word": "绍兴一医院眼科套取医保资金2000万",
@@ -2675,20 +2683,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162678,
+      "num": 162678,
+      "word": "特朗普说马上战胜拜登时哈里斯登场",
+      "onboard_time": 1724611814,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 162554,
       "num": 162554,
       "word": "女主播直播时宣称服用了摇头丸",
       "onboard_time": 1724550619,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 162433,
-      "num": 162433,
-      "word": "特朗普说马上战胜拜登时哈里斯登场",
-      "onboard_time": 1724611814,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 162394,
@@ -3291,14 +3299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 77809,
-      "num": 77809,
-      "word": "只要北京人的血是热的这家店就不会凉",
-      "onboard_time": 1724612053,
-      "rank": 46,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 77685,
       "num": 77685,
       "word": "马立奥忘年交",
@@ -3603,7 +3603,7 @@
       "category": "社会新闻,国外时政"
     },
     {
-      "raw_hot": 38137,
+      "raw_hot": 39141,
       "num": 43764,
       "word": "边水往事质感",
       "onboard_time": 1724604796,
@@ -3699,12 +3699,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25152,
+      "num": 25152,
+      "word": "小S女儿绘画作品参展",
+      "onboard_time": 1724617751,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 23757,
       "num": 327591,
       "word": "王一博祝福新浪娱乐",
       "onboard_time": 1724550018,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 23082,
+      "num": 49213,
+      "word": "一根琴弦的无限种可能",
+      "onboard_time": 1724615532,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23046,
@@ -3731,22 +3747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21984,
-      "num": 24615,
-      "word": "小S女儿绘画作品参展",
-      "onboard_time": 1724617751,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 21952,
-      "num": 49213,
-      "word": "一根琴弦的无限种可能",
-      "onboard_time": 1724615532,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 21558,
       "num": 767879,
       "word": "落水救援有哪些注意事项",
@@ -3761,6 +3761,14 @@
       "onboard_time": 1724620450,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 20360,
+      "num": 24503,
+      "word": "刘宇宁一开口这味就对了",
+      "onboard_time": 1724620990,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 16299,
