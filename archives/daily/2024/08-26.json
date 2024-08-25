@@ -1,6 +1,6 @@
 {
   "startTime": 1724603016158,
-  "endTime": 1724603016158,
+  "endTime": 1724603944537,
   "band_list": [
     {
       "raw_hot": 1016869,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 220777,
-      "num": 206653,
+      "num": 208459,
       "word": "曝黄一鸣的别墅是租的",
       "onboard_time": 1724584522,
       "rank": 30,
@@ -211,20 +211,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209323,
+      "num": 320252,
+      "word": "孙杨教练一开始只盼他能达标",
+      "onboard_time": 1724595143,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 207857,
+      "num": 351922,
+      "word": "美国宇航员将乘龙飞船返回地球",
+      "onboard_time": 1724590942,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205085,
       "num": 205085,
       "word": "孙杨400自决赛",
       "onboard_time": 1724580200,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 204752,
-      "num": 351922,
-      "word": "美国宇航员将乘龙飞船返回地球",
-      "onboard_time": 1724590942,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197404,
@@ -257,14 +265,6 @@
       "onboard_time": 1724589682,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 178332,
-      "num": 320252,
-      "word": "孙杨教练一开始只盼他能达标",
-      "onboard_time": 1724595143,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 176029,
@@ -347,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148546,
+      "num": 148546,
+      "word": "160斤女生当模特全身散发着自信",
+      "onboard_time": 1724602998,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141919,
       "num": 141919,
       "word": "单依纯太阳公主舞台",
@@ -387,15 +395,31 @@
       "category": "演出"
     },
     {
-      "raw_hot": 125361,
-      "num": 125361,
-      "word": "160斤女生当模特全身散发着自信",
-      "onboard_time": 1724602998,
+      "raw_hot": 124655,
+      "num": 124655,
+      "word": "ZmjjKK获全球冠军赛FMVP",
+      "onboard_time": 1724590281,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 117949,
+      "num": 117949,
+      "word": "沙地塌陷埋压2孩童众人刨沙施救",
+      "onboard_time": 1724599041,
       "rank": 49,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 37851,
+      "raw_hot": 97987,
+      "num": 430476,
+      "word": "杭州多起半夜骑行党相撞事故",
+      "onboard_time": 1724603418,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55562,
       "num": 729086,
       "word": "整个三星堆独一无二的金杖",
       "onboard_time": 1724591542,
