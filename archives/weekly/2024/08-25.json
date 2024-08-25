@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724575096701,
+  "endTime": 1724577662087,
   "band_list": [
     {
       "raw_hot": 9253853,
@@ -65,6 +65,14 @@
       "onboard_time": 1724561241,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1586777,
+      "num": 1586777,
+      "word": "半个内娱都在看边水往事",
+      "onboard_time": 1724573359,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 1561975,
@@ -315,6 +323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 664671,
+      "num": 664671,
+      "word": "以色列遭数百枚火箭弹袭击现场",
+      "onboard_time": 1724571019,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 629258,
       "num": 629258,
       "word": "登陆计划安检",
@@ -371,14 +387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 540494,
-      "num": 540494,
-      "word": "半个内娱都在看边水往事",
-      "onboard_time": 1724573359,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 534485,
       "num": 454138,
       "word": "真的建议坐久了勾勾小腿",
@@ -417,6 +425,14 @@
       "onboard_time": 1724554460,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 511399,
+      "num": 493117,
+      "word": "孙杨重返国家队难度不小",
+      "onboard_time": 1724575699,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 499192,
@@ -475,12 +491,28 @@
       "category": "网红,互联网"
     },
     {
+      "raw_hot": 463307,
+      "num": 463307,
+      "word": "程潇的妹妹和林墨是一个班的同学",
+      "onboard_time": 1724574197,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 462377,
       "num": 253984,
       "word": "男子内裤里藏3只甲虫入境被查",
       "onboard_time": 1724489601,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 460453,
+      "num": 460453,
+      "word": "边水往事断更",
+      "onboard_time": 1724574619,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 453915,
@@ -531,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 439569,
+      "num": 308449,
+      "word": "医生让我别穿洞洞鞋",
+      "onboard_time": 1724576359,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 435785,
       "num": 547935,
       "word": "菲船非法冲闯我仙宾礁附近海域",
@@ -563,20 +603,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 401289,
+      "num": 401289,
+      "word": "广东36岁女子晋升当奶奶",
+      "onboard_time": 1724576060,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377343,
       "num": 698526,
       "word": "张碧晨是懂周生如故名场面的",
       "onboard_time": 1724558718,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 370073,
-      "num": 612366,
-      "word": "以色列遭数百枚火箭弹袭击现场",
-      "onboard_time": 1724571019,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 369007,
@@ -643,12 +683,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 331299,
+      "num": 331299,
+      "word": "边水往事 敢拍",
+      "onboard_time": 1724573000,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 323462,
       "num": 689101,
       "word": "惠英红 刘亦菲限定版调香师",
       "onboard_time": 1724560639,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 319912,
+      "num": 649053,
+      "word": "EDG总决赛对阵TH",
+      "onboard_time": 1724569759,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 319037,
@@ -667,11 +723,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 307560,
-      "num": 649053,
-      "word": "EDG总决赛对阵TH",
-      "onboard_time": 1724569759,
-      "rank": 8,
+      "raw_hot": 311809,
+      "num": 311809,
+      "word": "康康五滴血五杀",
+      "onboard_time": 1724576119,
+      "rank": 19,
       "category": "电竞"
     },
     {
@@ -681,14 +737,6 @@
       "onboard_time": 1724554400,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 294004,
-      "num": 283035,
-      "word": "程潇的妹妹和林墨是一个班的同学",
-      "onboard_time": 1724574197,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 293476,
@@ -707,12 +755,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 289446,
-      "num": 289446,
-      "word": "边水往事 敢拍",
-      "onboard_time": 1724573000,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 290466,
+      "num": 478310,
+      "word": "温州14岁女孩失联8天家属发声",
+      "onboard_time": 1724573178,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285109,
@@ -721,14 +769,6 @@
       "onboard_time": 1724566999,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 272653,
-      "num": 257532,
-      "word": "边水往事断更",
-      "onboard_time": 1724574619,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 269320,
@@ -795,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253425,
+      "num": 253425,
+      "word": "张雪峰回应给女儿起名张姩菡",
+      "onboard_time": 1724574499,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252418,
       "num": 252418,
       "word": "人竟然可以幸福到这种程度",
@@ -824,6 +872,14 @@
       "word": "大一新生骑行1328公里北大报到",
       "onboard_time": 1724507242,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242817,
+      "num": 242817,
+      "word": "历史老师玩黑神话投入到手抖",
+      "onboard_time": 1724575158,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -1163,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197242,
+      "num": 197242,
+      "word": "董志豪 32溺",
+      "onboard_time": 1724576781,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195766,
       "num": 296049,
       "word": "周震南参加综艺是被夏之光骗来的",
@@ -1219,6 +1283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189071,
+      "num": 189071,
+      "word": "EDG",
+      "onboard_time": 1724571259,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 188638,
       "num": 188638,
       "word": "吴宣仪舞台被蝴蝶包围了",
@@ -1233,6 +1305,14 @@
       "onboard_time": 1724515281,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187157,
+      "num": 187157,
+      "word": "TF三代白金王子装",
+      "onboard_time": 1724577079,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 185611,
@@ -1257,6 +1337,14 @@
       "onboard_time": 1724562018,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184068,
+      "num": 184068,
+      "word": "时代峰峻 马来西亚演唱会",
+      "onboard_time": 1724576419,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 182908,
@@ -1329,14 +1417,6 @@
       "onboard_time": 1724505200,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 172626,
-      "num": 172626,
-      "word": "EDG",
-      "onboard_time": 1724571259,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 172236,
@@ -1491,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162394,
+      "num": 162394,
+      "word": "赛力斯115亿元入股引望智能",
+      "onboard_time": 1724577021,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 162298,
       "num": 162298,
       "word": "原神向玩家发放1000原石答谢礼",
@@ -1571,6 +1659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155427,
+      "num": 155427,
+      "word": "孙杨说已经很久没有这种感觉了",
+      "onboard_time": 1724576841,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155188,
       "num": 155188,
       "word": "刘雨昕让粉丝保证安全",
@@ -1635,6 +1731,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 149132,
+      "num": 149132,
+      "word": "菲律宾",
+      "onboard_time": 1724575460,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 148566,
       "num": 148566,
       "word": "徐海乔的腰",
@@ -1675,6 +1779,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 144383,
+      "num": 144383,
+      "word": "求神不如球神",
+      "onboard_time": 1724577380,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 142925,
+      "num": 142925,
+      "word": "孙杨复出后连签两笔代言",
+      "onboard_time": 1724577560,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142563,
       "num": 142563,
       "word": "原来人感染猫癣是这样的",
@@ -1689,6 +1809,14 @@
       "onboard_time": 1724510241,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 140193,
+      "num": 140193,
+      "word": "过期药翻新后流入市场",
+      "onboard_time": 1724576659,
+      "rank": 49,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 139480,
@@ -1835,14 +1963,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 126280,
-      "num": 478310,
-      "word": "温州14岁女孩失联8天家属发声",
-      "onboard_time": 1724573178,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125952,
       "num": 125952,
       "word": "薛飞王晓彤混双亚军",
@@ -1923,6 +2043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110585,
+      "num": 852233,
+      "word": "外国小姐姐带你144小时逛游古都",
+      "onboard_time": 1724574319,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110147,
       "num": 110147,
       "word": "醉酒男子看邻座不顺眼打人",
@@ -1945,6 +2073,14 @@
       "onboard_time": 1724564242,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92135,
+      "num": 295779,
+      "word": "儿科看病为什么这么难",
+      "onboard_time": 1724575699,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89584,
@@ -2192,14 +2328,6 @@
       "word": "网友呼吁下调景区门票老人免费年龄",
       "onboard_time": 1724529852,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26779,
-      "num": 852233,
-      "word": "外国小姐姐带你144小时逛游古都",
-      "onboard_time": 1724574319,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
