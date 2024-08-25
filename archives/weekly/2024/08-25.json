@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724621707389,
+  "endTime": 1724624408956,
   "band_list": [
     {
       "raw_hot": 14208627,
@@ -955,6 +955,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 452811,
+      "num": 452811,
+      "word": "只要北京人的血是热的这家店就不会凉",
+      "onboard_time": 1724612053,
+      "rank": 46,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 448877,
       "num": 448877,
       "word": "泳帝",
@@ -1337,6 +1345,14 @@
       "onboard_time": 1724568379,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291549,
+      "num": 291549,
+      "word": "特朗普说马上战胜拜登时哈里斯登场",
+      "onboard_time": 1724611814,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 290466,
@@ -2627,14 +2643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166409,
-      "num": 180028,
-      "word": "只要北京人的血是热的这家店就不会凉",
-      "onboard_time": 1724612053,
-      "rank": 46,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 166313,
       "num": 904144,
       "word": "绍兴一医院眼科套取医保资金2000万",
@@ -2681,14 +2689,6 @@
       "onboard_time": 1724580500,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 162678,
-      "num": 162678,
-      "word": "特朗普说马上战胜拜登时哈里斯登场",
-      "onboard_time": 1724611814,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 162554,
@@ -3499,6 +3499,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 44643,
+      "num": 57357,
+      "word": "边水往事质感",
+      "onboard_time": 1724604796,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 43950,
       "num": 826002,
       "word": "NHK开始预先录制中文新闻",
@@ -3603,12 +3611,12 @@
       "category": "社会新闻,国外时政"
     },
     {
-      "raw_hot": 39141,
-      "num": 43764,
-      "word": "边水往事质感",
-      "onboard_time": 1724604796,
-      "rank": 48,
-      "category": "剧集"
+      "raw_hot": 37289,
+      "num": 84403,
+      "word": "坐高铁1个多小时穿越中国南北",
+      "onboard_time": 1724613671,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35232,
@@ -3619,12 +3627,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 34202,
-      "num": 84403,
-      "word": "坐高铁1个多小时穿越中国南北",
-      "onboard_time": 1724613671,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 32653,
+      "num": 34725,
+      "word": "刘宇宁一开口这味就对了",
+      "onboard_time": 1724620990,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 32559,
+      "num": 34716,
+      "word": "以色列北部拉响密集防空警报",
+      "onboard_time": 1724612292,
+      "rank": 46,
+      "category": "国外时政"
     },
     {
       "raw_hot": 30582,
@@ -3651,14 +3667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29876,
-      "num": 32141,
-      "word": "以色列北部拉响密集防空警报",
-      "onboard_time": 1724612292,
-      "rank": 46,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 29655,
       "num": 411983,
       "word": "揭秘王天一买棋卖棋背后原因",
@@ -3673,6 +3681,14 @@
       "onboard_time": 1724529852,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28417,
+      "num": 34698,
+      "word": "小S女儿绘画作品参展",
+      "onboard_time": 1724617751,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 28172,
@@ -3699,14 +3715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 25152,
-      "num": 25152,
-      "word": "小S女儿绘画作品参展",
-      "onboard_time": 1724617751,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 23757,
       "num": 327591,
       "word": "王一博祝福新浪娱乐",
@@ -3716,7 +3724,7 @@
     },
     {
       "raw_hot": 23082,
-      "num": 49213,
+      "num": 105469,
       "word": "一根琴弦的无限种可能",
       "onboard_time": 1724615532,
       "rank": 15,
@@ -3761,14 +3769,6 @@
       "onboard_time": 1724620450,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 20360,
-      "num": 24503,
-      "word": "刘宇宁一开口这味就对了",
-      "onboard_time": 1724620990,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 16299,
