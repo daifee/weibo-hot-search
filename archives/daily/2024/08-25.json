@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724564255254,
+  "endTime": 1724567231351,
   "band_list": [
     {
       "raw_hot": 9253853,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1016725,
+      "num": 1016725,
+      "word": "网红胡湾否认涉性交易",
+      "onboard_time": 1724565138,
+      "rank": 1,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1009610,
       "num": 1009610,
       "word": "孙颖莎去了邓紫棋演唱会",
@@ -129,6 +137,14 @@
       "onboard_time": 1724509701,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 980661,
+      "num": 319866,
+      "word": "在韩国孙悟空一个跟斗都不敢翻",
+      "onboard_time": 1724562319,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 951141,
@@ -259,6 +275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 577935,
+      "num": 577935,
+      "word": "唐嫣连续10年为刘亦菲庆生",
+      "onboard_time": 1724563880,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 577539,
       "num": 577539,
       "word": "孙杨 闪耀洛杉矶",
@@ -307,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 499192,
+      "num": 499192,
+      "word": "汪顺 出门溜达溜达",
+      "onboard_time": 1724561540,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 498974,
       "num": 498974,
       "word": "孙杨 水花消失术",
@@ -321,14 +353,6 @@
       "onboard_time": 1724504723,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 493987,
-      "num": 493987,
-      "word": "汪顺 出门溜达溜达",
-      "onboard_time": 1724561540,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 485586,
@@ -361,6 +385,14 @@
       "onboard_time": 1724489601,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 460909,
+      "num": 276817,
+      "word": "小学成绩好的秘密",
+      "onboard_time": 1724562618,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 453915,
@@ -401,14 +433,6 @@
       "onboard_time": 1724547078,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 445501,
-      "num": 319866,
-      "word": "在韩国孙悟空一个跟斗都不敢翻",
-      "onboard_time": 1724562319,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 444691,
@@ -497,6 +521,14 @@
       "onboard_time": 1724506162,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 323872,
+      "num": 323872,
+      "word": "9岁女童1年长高9厘米查出性早熟",
+      "onboard_time": 1724566399,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 323462,
@@ -667,12 +699,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227051,
+      "num": 227051,
+      "word": "以色列称不寻求全面战争",
+      "onboard_time": 1724565499,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 225358,
       "num": 225358,
       "word": "甲状腺和乳腺为何容易一起长结节",
       "onboard_time": 1724546479,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 221725,
+      "num": 221725,
+      "word": "虎扑女神大赛16强",
+      "onboard_time": 1724566340,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 221271,
@@ -737,6 +785,14 @@
       "onboard_time": 1724542275,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 217729,
+      "num": 217729,
+      "word": "孙杨在被禁赛的4年中做了什么",
+      "onboard_time": 1724565800,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 217017,
@@ -827,6 +883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 202089,
+      "num": 202089,
+      "word": "南京体育学院张某某被停职",
+      "onboard_time": 1724566699,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201547,
       "num": 259808,
       "word": "吴彦祖送女儿上中学",
@@ -867,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188975,
+      "num": 275839,
+      "word": "电影刺猬",
+      "onboard_time": 1724566879,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 188638,
       "num": 188638,
       "word": "吴宣仪舞台被蝴蝶包围了",
@@ -883,20 +955,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 188292,
+      "num": 275789,
+      "word": "周震南参加综艺是被夏之光骗来的",
+      "onboard_time": 1724566820,
+      "rank": 29,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 184394,
       "num": 710642,
       "word": "男子开老头乐不满被超车刺伤他人",
       "onboard_time": 1724562018,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 183696,
-      "num": 183696,
-      "word": "小学成绩好的秘密",
-      "onboard_time": 1724562618,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 182908,
@@ -907,14 +979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181784,
-      "num": 181784,
-      "word": "唐嫣连续10年为刘亦菲庆生",
-      "onboard_time": 1724563880,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 180559,
       "num": 223378,
       "word": "王霏霏不一定斩男但一定斩女",
@@ -923,12 +987,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 179893,
+      "num": 179893,
+      "word": "南京体育学院回应张某某不当言论",
+      "onboard_time": 1724566999,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179459,
       "num": 179459,
       "word": "一句踩妈妈的手给我整泪目了",
       "onboard_time": 1724497879,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176693,
+      "num": 176693,
+      "word": "孙杨有点忐忑有点紧张",
+      "onboard_time": 1724566939,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 176568,
@@ -945,6 +1025,14 @@
       "onboard_time": 1724497220,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 174992,
+      "num": 174992,
+      "word": "菲律宾船非法冲闯中国南沙群岛",
+      "onboard_time": 1724567119,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 173444,
@@ -1017,6 +1105,14 @@
       "onboard_time": 1724514382,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 168568,
+      "num": 219086,
+      "word": "电影逆鳞",
+      "onboard_time": 1724565800,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 167648,
@@ -1145,6 +1241,14 @@
       "onboard_time": 1724516780,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154893,
+      "num": 154893,
+      "word": "入青云",
+      "onboard_time": 1724566579,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 153083,
@@ -1467,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103974,
+      "num": 1152717,
+      "word": "2024暑期档电影票房超110亿",
+      "onboard_time": 1724563699,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102708,
       "num": 309738,
       "word": "柳眠棠嘴硬心软",
@@ -1475,12 +1587,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92082,
+      "num": 277304,
+      "word": "沈腾 东北大哥的义气",
+      "onboard_time": 1724566640,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 89584,
       "num": 89584,
       "word": "TF三代登陆时刻演唱会",
       "onboard_time": 1724520256,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 89197,
+      "num": 275478,
+      "word": "崔行舟白天断情绝义晚上守身如玉",
+      "onboard_time": 1724567059,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 86314,
@@ -1519,6 +1647,22 @@
       "num": 115043,
       "word": "2中学生网上利用卡牌盲盒设局诈骗",
       "onboard_time": 1724524273,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65318,
+      "num": 578064,
+      "word": "甘肃河西强对流天气2人死亡",
+      "onboard_time": 1724565618,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65208,
+      "num": 577936,
+      "word": "幽灵外卖乱象遭曝光",
+      "onboard_time": 1724565618,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -1585,14 +1729,6 @@
       "onboard_time": 1724508622,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 44165,
-      "num": 1152717,
-      "word": "2024暑期档电影票房超110亿",
-      "onboard_time": 1724563699,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43950,
@@ -1664,6 +1800,14 @@
       "word": "外卖要想放心点平台监管不能缺位",
       "onboard_time": 1724527991,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29655,
+      "num": 411983,
+      "word": "揭秘王天一买棋卖棋背后原因",
+      "onboard_time": 1724565618,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
