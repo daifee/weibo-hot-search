@@ -1,0 +1,410 @@
+{
+  "runTime": 1724575096701,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1097022,
+        "num": 1175523,
+        "word": "孙杨 没起腿",
+        "onboard_time": 1724556440,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1050457,
+        "num": 1050457,
+        "word": "沈梦辰家族群有71个人",
+        "onboard_time": 1724570178,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26779,
+        "num": 852233,
+        "word": "外国小姐姐带你144小时逛游古都",
+        "onboard_time": 1724574319,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 726162,
+        "num": 726162,
+        "word": "孙杨曾说希望和潘展乐一起游接力",
+        "onboard_time": 1724572639,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 690086,
+        "num": 690086,
+        "word": "9岁女童1年长高9厘米查出性早熟",
+        "onboard_time": 1724566399,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 651279,
+        "num": 651279,
+        "word": "张若昀生日蛋糕落款是糖",
+        "onboard_time": 1724567839,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 633106,
+        "num": 633106,
+        "word": "印度轮奸案嫌犯逃跑时溺水身亡",
+        "onboard_time": 1724561241,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581669,
+        "num": 581669,
+        "word": "南京体育学院张某某被停职",
+        "onboard_time": 1724566699,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548652,
+        "num": 548652,
+        "word": "三里屯偶遇贾玲",
+        "onboard_time": 1724570899,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435785,
+        "num": 547935,
+        "word": "菲船非法冲闯我仙宾礁附近海域",
+        "onboard_time": 1724573241,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 547759,
+        "num": 547759,
+        "word": "以色列总理发声明",
+        "onboard_time": 1724567359,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 540494,
+        "num": 540494,
+        "word": "半个内娱都在看边水往事",
+        "onboard_time": 1724573359,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 517845,
+        "num": 517845,
+        "word": "时代峰峻就安检问题发声明",
+        "onboard_time": 1724572519,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 504590,
+        "num": 504590,
+        "word": "登陆计划安检",
+        "onboard_time": 1724572341,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 453739,
+        "num": 453739,
+        "word": "黄一鸣听到300万的反应",
+        "onboard_time": 1724550619,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 50129,
+        "num": 394998,
+        "word": "王昱珩的灵感原来来自这里",
+        "onboard_time": 1724570779,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386395,
+        "num": 386395,
+        "word": "网红胡湾否认涉性交易",
+        "onboard_time": 1724565138,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 386177,
+        "num": 386177,
+        "word": "蒋奇明迟早拿影帝",
+        "onboard_time": 1724570060,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370073,
+        "num": 370073,
+        "word": "以色列遭数百枚火箭弹袭击现场",
+        "onboard_time": 1724571019,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 291974,
+        "num": 291974,
+        "word": "孙杨小组第一",
+        "onboard_time": 1724555481,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 419755,
+        "num": 288916,
+        "word": "在韩国孙悟空一个跟斗都不敢翻",
+        "onboard_time": 1724562319,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 325436,
+        "num": 286627,
+        "word": "男子闹市区一盒盒放生蟑螂",
+        "onboard_time": 1724559141,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294004,
+        "num": 283035,
+        "word": "程潇的妹妹和林墨是一个班的同学",
+        "onboard_time": 1724574197,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126280,
+        "num": 280030,
+        "word": "温州14岁女孩失联8天家属发声",
+        "onboard_time": 1724573178,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279446,
+        "num": 279446,
+        "word": "边水往事 敢拍",
+        "onboard_time": 1724573000,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259338,
+        "num": 259338,
+        "word": "大唐不夜城半年仅赚23.53万元",
+        "onboard_time": 1724546479,
+        "rank": 25,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 272653,
+        "num": 257532,
+        "word": "边水往事断更",
+        "onboard_time": 1724574619,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255062,
+        "num": 255062,
+        "word": "专家称房屋养老金不需老百姓直接出钱",
+        "onboard_time": 1724571740,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254193,
+        "num": 254193,
+        "word": "河南男子被关押1349天后无罪释放",
+        "onboard_time": 1724572399,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253844,
+        "num": 253844,
+        "word": "王勉把张淼怡踹掉了",
+        "onboard_time": 1724573479,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235248,
+        "num": 235248,
+        "word": "EDG总决赛对阵TH",
+        "onboard_time": 1724569759,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 222308,
+        "num": 222308,
+        "word": "樊振东退赛",
+        "onboard_time": 1724512282,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206562,
+        "num": 206562,
+        "word": "吉克隽逸美白后",
+        "onboard_time": 1724574859,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203458,
+        "num": 203458,
+        "word": "赵丽颖带儿子出游",
+        "onboard_time": 1724560877,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201476,
+        "num": 201476,
+        "word": "时代峰峻",
+        "onboard_time": 1724574799,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194549,
+        "num": 194549,
+        "word": "薛之谦两分钟八百个小节目",
+        "onboard_time": 1724574020,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194161,
+        "num": 194161,
+        "word": "以色列在未来48小时内进入紧急状态",
+        "onboard_time": 1724557582,
+        "rank": 36,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 193210,
+        "num": 193210,
+        "word": "孙杨晋级决赛",
+        "onboard_time": 1724555600,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192143,
+        "num": 192143,
+        "word": "菲律宾船非法冲闯中国南沙群岛",
+        "onboard_time": 1724567119,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177720,
+        "num": 177720,
+        "word": "郑钦文 咖位用在我身上太奇怪了",
+        "onboard_time": 1724568859,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176902,
+        "num": 176902,
+        "word": "CPA税法",
+        "onboard_time": 1724571199,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 176038,
+        "num": 176038,
+        "word": "张凌赫是真没把我们当外人",
+        "onboard_time": 1724568440,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175041,
+        "num": 175041,
+        "word": "印度五名医生被指涉奸杀女医生案",
+        "onboard_time": 1724545097,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174958,
+        "num": 174958,
+        "word": "入青云出妆",
+        "onboard_time": 1724574920,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168885,
+        "num": 168885,
+        "word": "香汗淋漓王一博",
+        "onboard_time": 1724574979,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168799,
+        "num": 168799,
+        "word": "DRG教练",
+        "onboard_time": 1724573178,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 165551,
+        "num": 165551,
+        "word": "刘耀文出发新疆进组",
+        "onboard_time": 1724573599,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165318,
+        "num": 165318,
+        "word": "男子每天凌晨4点出门冒充特警查车",
+        "onboard_time": 1724552780,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163672,
+        "num": 163672,
+        "word": "小学成绩好的秘密",
+        "onboard_time": 1724562618,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 162125,
+        "num": 162125,
+        "word": "卢昱晓入青云出妆生图",
+        "onboard_time": 1724572278,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习绘文#"
+    }
+  }
+}
