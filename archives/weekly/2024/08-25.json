@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724567231351,
+  "endTime": 1724568002298,
   "band_list": [
     {
       "raw_hot": 9253853,
@@ -115,8 +115,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1016725,
-      "num": 1016725,
+      "raw_hot": 1078767,
+      "num": 1078767,
       "word": "网红胡湾否认涉性交易",
       "onboard_time": 1724565138,
       "rank": 1,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 980661,
-      "num": 319866,
+      "num": 320360,
       "word": "在韩国孙悟空一个跟斗都不敢翻",
       "onboard_time": 1724562319,
       "rank": 35,
@@ -235,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 705293,
+      "num": 317370,
+      "word": "小学成绩好的秘密",
+      "onboard_time": 1724562618,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 693676,
       "num": 693676,
       "word": "游客闯进全红婵爷爷家被微笑劝退",
@@ -257,6 +265,14 @@
       "onboard_time": 1724553980,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 637209,
+      "num": 637209,
+      "word": "9岁女童1年长高9厘米查出性早熟",
+      "onboard_time": 1724566399,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 614744,
@@ -305,6 +321,14 @@
       "onboard_time": 1724554099,
       "rank": 46,
       "category": "运动健身,健康医疗"
+    },
+    {
+      "raw_hot": 527953,
+      "num": 527953,
+      "word": "南京体育学院张某某被停职",
+      "onboard_time": 1724566699,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 526506,
@@ -387,14 +411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 460909,
-      "num": 276817,
-      "word": "小学成绩好的秘密",
-      "onboard_time": 1724562618,
-      "rank": 49,
-      "category": "教育"
-    },
-    {
       "raw_hot": 453915,
       "num": 453915,
       "word": "为何这些丑东西成了年轻人的心头好",
@@ -447,6 +463,14 @@
       "num": 434484,
       "word": "日本8轮核污水排海累计将达62500吨",
       "onboard_time": 1724543597,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 414055,
+      "num": 414055,
+      "word": "以色列总理发声明",
+      "onboard_time": 1724567359,
       "rank": 13,
       "category": "国外时政"
     },
@@ -523,14 +547,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 323872,
-      "num": 323872,
-      "word": "9岁女童1年长高9厘米查出性早熟",
-      "onboard_time": 1724566399,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 323462,
       "num": 689101,
       "word": "惠英红 刘亦菲限定版调香师",
@@ -571,6 +587,14 @@
       "category": "社会新闻,国外时政"
     },
     {
+      "raw_hot": 285109,
+      "num": 285109,
+      "word": "南京体育学院回应张某某不当言论",
+      "onboard_time": 1724566999,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269320,
       "num": 269320,
       "word": "女子美甲致真菌感染治疗花费近万元",
@@ -601,6 +625,14 @@
       "onboard_time": 1724504842,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 256861,
+      "num": 256861,
+      "word": "菲律宾船非法冲闯中国南沙群岛",
+      "onboard_time": 1724567119,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 252418,
@@ -649,6 +681,14 @@
       "onboard_time": 1724552358,
       "rank": 31,
       "category": "军事"
+    },
+    {
+      "raw_hot": 240178,
+      "num": 240178,
+      "word": "虎扑女神大赛16强",
+      "onboard_time": 1724566340,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 234922,
@@ -715,12 +755,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 221725,
-      "num": 221725,
-      "word": "虎扑女神大赛16强",
-      "onboard_time": 1724566340,
-      "rank": 37,
-      "category": "互联网"
+      "raw_hot": 224338,
+      "num": 224338,
+      "word": "孙杨在被禁赛的4年中做了什么",
+      "onboard_time": 1724565800,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 221271,
@@ -785,14 +825,6 @@
       "onboard_time": 1724542275,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 217729,
-      "num": 217729,
-      "word": "孙杨在被禁赛的4年中做了什么",
-      "onboard_time": 1724565800,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 217017,
@@ -883,20 +915,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 202089,
-      "num": 202089,
-      "word": "南京体育学院张某某被停职",
-      "onboard_time": 1724566699,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 201547,
       "num": 259808,
       "word": "吴彦祖送女儿上中学",
       "onboard_time": 1724550139,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200352,
+      "num": 305444,
+      "word": "电影刺猬",
+      "onboard_time": 1724566879,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 198435,
@@ -915,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195766,
+      "num": 296049,
+      "word": "周震南参加综艺是被夏之光骗来的",
+      "onboard_time": 1724566820,
+      "rank": 29,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 192768,
       "num": 192768,
       "word": "孙杨好牛",
@@ -929,14 +969,6 @@
       "onboard_time": 1724554640,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 188975,
-      "num": 275839,
-      "word": "电影刺猬",
-      "onboard_time": 1724566879,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 188638,
@@ -955,12 +987,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 188292,
-      "num": 275789,
-      "word": "周震南参加综艺是被夏之光骗来的",
-      "onboard_time": 1724566820,
-      "rank": 29,
-      "category": "综艺,电竞"
+      "raw_hot": 185611,
+      "num": 293549,
+      "word": "徐志胜 中国电影差点在我手里栽了",
+      "onboard_time": 1724567359,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 184394,
@@ -985,14 +1017,6 @@
       "onboard_time": 1724553680,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 179893,
-      "num": 179893,
-      "word": "南京体育学院回应张某某不当言论",
-      "onboard_time": 1724566999,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179459,
@@ -1025,14 +1049,6 @@
       "onboard_time": 1724497220,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 174992,
-      "num": 174992,
-      "word": "菲律宾船非法冲闯中国南沙群岛",
-      "onboard_time": 1724567119,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 173444,
@@ -1123,6 +1139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167418,
+      "num": 167418,
+      "word": "张若昀生日蛋糕落款是糖",
+      "onboard_time": 1724567839,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167135,
       "num": 167135,
       "word": "张昊唯和伪造聊天记录发小已和解",
@@ -1161,6 +1185,14 @@
       "onboard_time": 1724558179,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162902,
+      "num": 162902,
+      "word": "入青云",
+      "onboard_time": 1724566579,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 162554,
@@ -1235,20 +1267,20 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 155839,
+      "num": 155839,
+      "word": "孙杨粉丝穿西红柿配鸡蛋幸运色应援",
+      "onboard_time": 1724567898,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155188,
       "num": 155188,
       "word": "刘雨昕让粉丝保证安全",
       "onboard_time": 1724516780,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 154893,
-      "num": 154893,
-      "word": "入青云",
-      "onboard_time": 1724566579,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 153083,
@@ -1297,6 +1329,14 @@
       "onboard_time": 1724557042,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149539,
+      "num": 149539,
+      "word": "中国海警管控菲肇事船只",
+      "onboard_time": 1724567898,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 149380,
@@ -1475,6 +1515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128155,
+      "num": 311435,
+      "word": "沈腾 东北大哥的义气",
+      "onboard_time": 1724566640,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 128021,
       "num": 128021,
       "word": "柳舟记二楼文学",
@@ -1563,6 +1611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110814,
+      "num": 289781,
+      "word": "崔行舟白天断情绝义晚上守身如玉",
+      "onboard_time": 1724567059,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110147,
       "num": 110147,
       "word": "醉酒男子看邻座不顺眼打人",
@@ -1571,7 +1627,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 103974,
+      "raw_hot": 105298,
       "num": 1152717,
       "word": "2024暑期档电影票房超110亿",
       "onboard_time": 1724563699,
@@ -1587,28 +1643,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 92082,
-      "num": 277304,
-      "word": "沈腾 东北大哥的义气",
-      "onboard_time": 1724566640,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 89584,
       "num": 89584,
       "word": "TF三代登陆时刻演唱会",
       "onboard_time": 1724520256,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 89197,
-      "num": 275478,
-      "word": "崔行舟白天断情绝义晚上守身如玉",
-      "onboard_time": 1724567059,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 86314,
@@ -1777,6 +1817,14 @@
       "onboard_time": 1724553680,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39238,
+      "num": 512075,
+      "word": "以军称先发制人挫败黎真主党袭击",
+      "onboard_time": 1724567420,
+      "rank": 9,
+      "category": "社会新闻,国外时政"
     },
     {
       "raw_hot": 30582,
