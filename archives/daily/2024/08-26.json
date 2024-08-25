@@ -1,6 +1,6 @@
 {
   "startTime": 1724603016158,
-  "endTime": 1724611072130,
+  "endTime": 1724613431344,
   "band_list": [
     {
       "raw_hot": 1016869,
@@ -371,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141830,
+      "num": 114069,
+      "word": "黄一鸣回应想让女儿当网红",
+      "onboard_time": 1724607914,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 139463,
       "num": 139463,
       "word": "孙杨透露未来发展",
@@ -419,14 +427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 114069,
-      "num": 114069,
-      "word": "黄一鸣回应想让女儿当网红",
-      "onboard_time": 1724607914,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
       "raw_hot": 96478,
       "num": 193990,
       "word": "韩国博主在印度搭便车遭绑架",
@@ -459,6 +459,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 70567,
+      "num": 114508,
+      "word": "男子偷21座佛像放家中供奉",
+      "onboard_time": 1724609953,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55562,
       "num": 729086,
       "word": "整个三星堆独一无二的金杖",
@@ -473,6 +481,14 @@
       "onboard_time": 1724592562,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 47815,
+      "num": 90667,
+      "word": "特朗普说马上战胜拜登时哈里斯登场",
+      "onboard_time": 1724611814,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 41492,
@@ -499,7 +515,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 36135,
+      "raw_hot": 36537,
       "num": 43764,
       "word": "边水往事质感",
       "onboard_time": 1724604796,
@@ -507,12 +523,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 23941,
-      "num": 114508,
-      "word": "男子偷21座佛像放家中供奉",
-      "onboard_time": 1724609953,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 27319,
+      "num": 32141,
+      "word": "以色列北部拉响密集防空警报",
+      "onboard_time": 1724612292,
+      "rank": 46,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 25642,
+      "num": 32138,
+      "word": "音乐缘计划",
+      "onboard_time": 1724604857,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 16299,
