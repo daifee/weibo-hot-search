@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724599251402,
+  "endTime": 1724600154056,
   "band_list": [
     {
       "raw_hot": 14208627,
@@ -75,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2243111,
+      "num": 2243111,
+      "word": "追的爱豆是自己的舅舅",
+      "onboard_time": 1724597723,
+      "rank": 0,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 2141711,
       "num": 2141711,
       "word": "樊振东退赛",
@@ -99,14 +107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1846463,
-      "num": 1846463,
-      "word": "追的爱豆是自己的舅舅",
-      "onboard_time": 1724597723,
-      "rank": 0,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 1821067,
       "num": 1821067,
       "word": "在泰国被辱骂中国女子拒绝和解",
@@ -115,20 +115,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1806112,
+      "num": 605788,
+      "word": "孙颖莎回应王楚钦看自己脸色",
+      "onboard_time": 1724595743,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1766050,
       "num": 903407,
       "word": "黄一鸣听到300万的反应",
       "onboard_time": 1724550619,
       "rank": 22,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1740954,
-      "num": 602555,
-      "word": "孙颖莎回应王楚钦看自己脸色",
-      "onboard_time": 1724595743,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 1726845,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 1073686,
-      "num": 602055,
+      "num": 605583,
       "word": "张颖颖曝张兰带球上位",
       "onboard_time": 1724597243,
       "rank": 11,
@@ -473,6 +473,14 @@
       "onboard_time": 1724559199,
       "rank": 8,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 843381,
+      "num": 843381,
+      "word": "登陆计划出道人数",
+      "onboard_time": 1724598563,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 841988,
@@ -683,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 611073,
+      "num": 611073,
+      "word": "孙杨教练一开始只盼他能达标",
+      "onboard_time": 1724595143,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 606313,
       "num": 841129,
       "word": "牺牲民警让被救女孩好好活着",
@@ -691,28 +707,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 600185,
-      "num": 600185,
-      "word": "登陆计划出道人数",
-      "onboard_time": 1724598563,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 588577,
       "num": 588577,
       "word": "王一博 绿海",
       "onboard_time": 1724506522,
       "rank": 6,
       "category": "演出"
-    },
-    {
-      "raw_hot": 585995,
-      "num": 585995,
-      "word": "孙杨教练一开始只盼他能达标",
-      "onboard_time": 1724595143,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 577935,
@@ -787,6 +787,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 516015,
+      "num": 339389,
+      "word": "孙杨成绩能在杭州亚运会拿第5",
+      "onboard_time": 1724599161,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 515567,
+      "num": 515567,
+      "word": "孙颖莎的时间表",
+      "onboard_time": 1724596823,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 515121,
       "num": 843271,
       "word": "董力cue到了阿拉蕾",
@@ -841,14 +857,6 @@
       "onboard_time": 1724503939,
       "rank": 11,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 482188,
-      "num": 482188,
-      "word": "孙颖莎的时间表",
-      "onboard_time": 1724596823,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 479264,
@@ -987,6 +995,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 435332,
+      "num": 435332,
+      "word": "王哲林 发一首歌给辽宁的球迷们",
+      "onboard_time": 1724599041,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 434484,
       "num": 434484,
       "word": "日本8轮核污水排海累计将达62500吨",
@@ -1057,14 +1073,6 @@
       "onboard_time": 1724584701,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 390407,
-      "num": 339389,
-      "word": "孙杨成绩能在杭州亚运会拿第5",
-      "onboard_time": 1724599161,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 381960,
@@ -1283,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301398,
+      "num": 301398,
+      "word": "邓紫棋直播",
+      "onboard_time": 1724598443,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 300850,
       "num": 300850,
       "word": "董志豪仰泳现场直拍",
@@ -1331,14 +1347,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 289920,
-      "num": 289920,
-      "word": "邓紫棋直播",
-      "onboard_time": 1724598443,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 287655,
       "num": 337007,
       "word": "韩国搜索最多的男女团成员",
@@ -1355,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282856,
+      "num": 282856,
+      "word": "孙颖莎和教练父女版斗嘴",
+      "onboard_time": 1724599161,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 278775,
       "num": 278775,
       "word": "朱志鑫戴皇冠",
@@ -1368,14 +1384,6 @@
       "word": "孙颖莎自己加练",
       "onboard_time": 1724596103,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 270587,
-      "num": 270587,
-      "word": "王哲林 发一首歌给辽宁的球迷们",
-      "onboard_time": 1724599041,
-      "rank": 35,
       "category": "体育"
     },
     {
@@ -1715,14 +1723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228593,
-      "num": 228593,
-      "word": "孙颖莎和教练父女版斗嘴",
-      "onboard_time": 1724599161,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 228067,
       "num": 228067,
       "word": "KSG锁定年总大师组",
@@ -1899,6 +1899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 213020,
+      "num": 213020,
+      "word": "拜仁后防线",
+      "onboard_time": 1724599041,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212185,
       "num": 212185,
       "word": "第五人格",
@@ -1993,6 +2001,14 @@
       "onboard_time": 1724559740,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 205822,
+      "num": 205822,
+      "word": "在张杰演唱会听上西游记了",
+      "onboard_time": 1724599460,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 205817,
@@ -2107,11 +2123,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199177,
+      "num": 199177,
+      "word": "享界S9",
+      "onboard_time": 1724600121,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 198928,
       "num": 198928,
       "word": "徐海博 小孩哥",
       "onboard_time": 1724589261,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 198599,
+      "num": 198599,
+      "word": "狼队2比6切尔西",
+      "onboard_time": 1724600062,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -3076,7 +3108,7 @@
     },
     {
       "raw_hot": 120035,
-      "num": 514995,
+      "num": 606056,
       "word": "在泰国遭辱骂女子透露事件最新进展",
       "onboard_time": 1724599041,
       "rank": 18,
@@ -3371,6 +3403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 43042,
+      "num": 504916,
+      "word": "酒店代订服务省钱背后都有啥风险",
+      "onboard_time": 1724598322,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41976,
       "num": 813128,
       "word": "一线城市平均房租为每月84.82元一平",
@@ -3448,14 +3488,6 @@
       "word": "整个三星堆独一无二的金杖",
       "onboard_time": 1724591542,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33636,
-      "num": 504916,
-      "word": "酒店代订服务省钱背后都有啥风险",
-      "onboard_time": 1724598322,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
