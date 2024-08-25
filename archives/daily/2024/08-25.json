@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724549919435,
+  "endTime": 1724550885403,
   "band_list": [
     {
       "raw_hot": 2141711,
@@ -12,19 +12,35 @@
     },
     {
       "raw_hot": 2055167,
-      "num": 1107560,
+      "num": 1304886,
       "word": "印度五名医生被指涉奸杀女医生案",
       "onboard_time": 1724545097,
       "rank": 3,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1323186,
-      "num": 1323186,
+      "raw_hot": 1505214,
+      "num": 1505214,
       "word": "大唐不夜城半年仅赚23.53万元",
       "onboard_time": 1724546479,
       "rank": 0,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1324884,
+      "num": 1324884,
+      "word": "孙杨复出首秀",
+      "onboard_time": 1724548339,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1295456,
+      "num": 1295456,
+      "word": "父亲送女儿上班溺亡前细节回放",
+      "onboard_time": 1724547799,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1165750,
@@ -43,22 +59,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1106580,
-      "num": 1106580,
-      "word": "父亲送女儿上班溺亡前细节回放",
-      "onboard_time": 1724547799,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1073960,
-      "num": 1073960,
-      "word": "孙杨复出首秀",
-      "onboard_time": 1724548339,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1009610,
       "num": 1009610,
       "word": "孙颖莎去了邓紫棋演唱会",
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 885583,
+      "num": 885583,
+      "word": "黄晓明 追星成功",
+      "onboard_time": 1724548639,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 850891,
       "num": 850891,
       "word": "杨紫工作室 审美",
@@ -83,20 +91,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 707569,
-      "num": 707569,
-      "word": "吴镇宇 为什么吐槽一个开玩笑的人",
-      "onboard_time": 1724545159,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 704941,
-      "num": 704941,
+      "raw_hot": 800519,
+      "num": 800519,
       "word": "村民捡到女婴胎盘脐带均未剪",
       "onboard_time": 1724545998,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 721396,
+      "num": 756164,
+      "word": "吴镇宇 为什么吐槽一个开玩笑的人",
+      "onboard_time": 1724545159,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 693676,
@@ -139,14 +147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 498825,
-      "num": 498825,
-      "word": "黄晓明 追星成功",
-      "onboard_time": 1724548639,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 495223,
       "num": 495223,
       "word": "檀健次跟爱奇艺道歉",
@@ -187,8 +187,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 447180,
+      "num": 447180,
+      "word": "四川水果店老板躺冰柜里乘凉",
+      "onboard_time": 1724547078,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 444691,
-      "num": 671762,
+      "num": 751486,
       "word": "假特警路边查车要钱遇上真警察",
       "onboard_time": 1724542756,
       "rank": 8,
@@ -201,6 +209,14 @@
       "onboard_time": 1724543597,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 403230,
+      "num": 403230,
+      "word": "李娟说和董宇辉的访谈好奇怪",
+      "onboard_time": 1724550318,
+      "rank": 13,
+      "category": "网红,互联网"
     },
     {
       "raw_hot": 369007,
@@ -243,20 +259,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 327286,
+      "num": 327286,
+      "word": "孙杨抵达赛场",
+      "onboard_time": 1724549839,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 315588,
       "num": 315588,
       "word": "Angelababy带小海绵游玩迪士尼",
       "onboard_time": 1724501180,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 289214,
-      "num": 289214,
-      "word": "四川水果店老板躺冰柜里乘凉",
-      "onboard_time": 1724547078,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 269320,
@@ -275,12 +291,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267520,
+      "num": 267520,
+      "word": "黄一鸣听到300万的反应",
+      "onboard_time": 1724550619,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 259794,
+      "num": 259794,
+      "word": "张豆豆发文支持孙杨",
+      "onboard_time": 1724550439,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 257547,
       "num": 257547,
       "word": "杨幂来看周深演唱会了",
       "onboard_time": 1724504842,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 253595,
+      "num": 253595,
+      "word": "超65万人预约观看孙杨复出战",
+      "onboard_time": 1724549298,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 252418,
@@ -355,12 +395,20 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 220481,
-      "num": 220481,
-      "word": "超65万人预约观看孙杨复出战",
-      "onboard_time": 1724549298,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 219737,
+      "num": 219737,
+      "word": "长期睡眠不足七小时的危害",
+      "onboard_time": 1724547558,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 219186,
+      "num": 279681,
+      "word": "杨幂对周深说少管我",
+      "onboard_time": 1724516899,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 218734,
@@ -403,20 +451,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 206682,
-      "num": 279681,
-      "word": "杨幂对周深说少管我",
-      "onboard_time": 1724516899,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 197251,
       "num": 197251,
       "word": "熊猫为贴贴每根毛都在使劲",
       "onboard_time": 1724545280,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190772,
+      "num": 190772,
+      "word": "宝爸每次晚归都拿桃枝抽打自己",
+      "onboard_time": 1724550018,
+      "rank": 32,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 190021,
@@ -443,12 +491,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 181010,
-      "num": 181010,
-      "word": "长期睡眠不足七小时的危害",
-      "onboard_time": 1724547558,
-      "rank": 33,
-      "category": "健康医疗"
+      "raw_hot": 182908,
+      "num": 208850,
+      "word": "檀健次脸小具象化",
+      "onboard_time": 1724549119,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 179459,
@@ -475,6 +523,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 172236,
+      "num": 287558,
+      "word": "民警送回幼童家长才知道孩子丢了",
+      "onboard_time": 1724549539,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170085,
       "num": 170085,
       "word": "陈昊宇野子现场",
@@ -499,12 +555,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164831,
+      "num": 164831,
+      "word": "吴彦祖送女儿上中学",
+      "onboard_time": 1724550139,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164228,
       "num": 159428,
       "word": "韩剧妈妈朋友的儿子",
       "onboard_time": 1724509522,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162554,
+      "num": 162554,
+      "word": "女主播直播时宣称服用了摇头丸",
+      "onboard_time": 1724550619,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162156,
@@ -515,12 +587,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 157112,
-      "num": 287558,
-      "word": "民警送回幼童家长才知道孩子丢了",
-      "onboard_time": 1724549539,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 158531,
+      "num": 158531,
+      "word": "宋亚轩 我们要一直见",
+      "onboard_time": 1724550018,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 155969,
+      "num": 155969,
+      "word": "王俊凯 刺猬演技",
+      "onboard_time": 1724549780,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 155909,
+      "num": 155909,
+      "word": "小狗就算忘了你也会重新爱上你",
+      "onboard_time": 1724547078,
+      "rank": 38,
+      "category": "休闲"
     },
     {
       "raw_hot": 155188,
@@ -563,22 +651,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 148008,
-      "num": 208850,
-      "word": "檀健次脸小具象化",
-      "onboard_time": 1724549119,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 147965,
-      "num": 147965,
-      "word": "孙杨抵达赛场",
-      "onboard_time": 1724549839,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 142563,
       "num": 142563,
       "word": "原来人感染猫癣是这样的",
@@ -609,14 +681,6 @@
       "onboard_time": 1724500040,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 138801,
-      "num": 138801,
-      "word": "小狗就算忘了你也会重新爱上你",
-      "onboard_time": 1724547078,
-      "rank": 38,
-      "category": "休闲"
     },
     {
       "raw_hot": 137180,
@@ -667,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131659,
+      "num": 131659,
+      "word": "苹果AI或成iPhone16系列宣传重点",
+      "onboard_time": 1724549479,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 131356,
       "num": 131356,
       "word": "杨紫镜头内外的日常",
@@ -697,22 +769,6 @@
       "onboard_time": 1724544016,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125490,
-      "num": 125490,
-      "word": "苹果AI或成iPhone16系列宣传重点",
-      "onboard_time": 1724549479,
-      "rank": 47,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 125400,
-      "num": 125400,
-      "word": "王俊凯 刺猬演技",
-      "onboard_time": 1724549780,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 124078,
@@ -907,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23757,
+      "num": 327591,
+      "word": "王一博祝福新浪娱乐",
+      "onboard_time": 1724550018,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 23046,
       "num": 25023,
       "word": "华晨宇用音乐唤醒善意",
@@ -928,6 +992,14 @@
       "word": "钓鱼佬甩竿救出水中落难鸵鸟",
       "onboard_time": 1724539274,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12328,
+      "num": 1305257,
+      "word": "铸牢共同体中华一家亲",
+      "onboard_time": 1724503281,
+      "rank": 2,
       "category": "社会新闻"
     }
   ],

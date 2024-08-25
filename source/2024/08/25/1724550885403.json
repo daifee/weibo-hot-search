@@ -1,0 +1,410 @@
+{
+  "runTime": 1724550885403,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1505214,
+        "num": 1505214,
+        "word": "大唐不夜城半年仅赚23.53万元",
+        "onboard_time": 1724546479,
+        "rank": 0,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1324884,
+        "num": 1324884,
+        "word": "孙杨复出首秀",
+        "onboard_time": 1724548339,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12328,
+        "num": 1305257,
+        "word": "铸牢共同体中华一家亲",
+        "onboard_time": 1724503281,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1892447,
+        "num": 1304886,
+        "word": "印度五名医生被指涉奸杀女医生案",
+        "onboard_time": 1724545097,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1295456,
+        "num": 1295456,
+        "word": "父亲送女儿上班溺亡前细节回放",
+        "onboard_time": 1724547799,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 885583,
+        "num": 885583,
+        "word": "黄晓明 追星成功",
+        "onboard_time": 1724548639,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 843853,
+        "num": 843853,
+        "word": "15岁女孩跨省看完演唱会身上只剩3毛",
+        "onboard_time": 1724542035,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 800519,
+        "num": 800519,
+        "word": "村民捡到女婴胎盘脐带均未剪",
+        "onboard_time": 1724545998,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 721396,
+        "num": 756164,
+        "word": "吴镇宇 为什么吐槽一个开玩笑的人",
+        "onboard_time": 1724545159,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424009,
+        "num": 751486,
+        "word": "假特警路边查车要钱遇上真警察",
+        "onboard_time": 1724542756,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 749348,
+        "num": 749348,
+        "word": "樊振东退赛",
+        "onboard_time": 1724512282,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 447180,
+        "num": 447180,
+        "word": "四川水果店老板躺冰柜里乘凉",
+        "onboard_time": 1724547078,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435660,
+        "num": 435660,
+        "word": "黑神话悟空杨戬演员回应撞脸张翰",
+        "onboard_time": 1724508502,
+        "rank": 12,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 403230,
+        "num": 403230,
+        "word": "李娟说和董宇辉的访谈好奇怪",
+        "onboard_time": 1724550318,
+        "rank": 13,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 388603,
+        "num": 388603,
+        "word": "日本8轮核污水排海累计将达62500吨",
+        "onboard_time": 1724543597,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 373188,
+        "num": 373188,
+        "word": "王俊凯 出去别说是我粉丝",
+        "onboard_time": 1724517738,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 328332,
+        "num": 328332,
+        "word": "为何这些丑东西成了年轻人的心头好",
+        "onboard_time": 1724526132,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23757,
+        "num": 327591,
+        "word": "王一博祝福新浪娱乐",
+        "onboard_time": 1724550018,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 254246,
+        "num": 327294,
+        "word": "杨紫工作室 审美",
+        "onboard_time": 1724513841,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 327286,
+        "num": 327286,
+        "word": "孙杨抵达赛场",
+        "onboard_time": 1724549839,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 555594,
+        "num": 315354,
+        "word": "游客闯进全红婵爷爷家被微笑劝退",
+        "onboard_time": 1724510241,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273432,
+        "num": 273432,
+        "word": "孙颖莎去了邓紫棋演唱会",
+        "onboard_time": 1724511742,
+        "rank": 21,
+        "category": "体育,演出"
+      },
+      {
+        "raw_hot": 267520,
+        "num": 267520,
+        "word": "黄一鸣听到300万的反应",
+        "onboard_time": 1724550619,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 259794,
+        "num": 259794,
+        "word": "张豆豆发文支持孙杨",
+        "onboard_time": 1724550439,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253595,
+        "num": 253595,
+        "word": "超65万人预约观看孙杨复出战",
+        "onboard_time": 1724549298,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219737,
+        "num": 219737,
+        "word": "长期睡眠不足七小时的危害",
+        "onboard_time": 1724547558,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 219186,
+        "num": 219186,
+        "word": "杨幂对周深说少管我",
+        "onboard_time": 1724516899,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 208561,
+        "num": 208561,
+        "word": "大一新生骑行1328公里北大报到",
+        "onboard_time": 1724507242,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208026,
+        "num": 208026,
+        "word": "张昊唯暂时告别社交媒体",
+        "onboard_time": 1724547499,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182908,
+        "num": 197288,
+        "word": "檀健次脸小具象化",
+        "onboard_time": 1724549119,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196668,
+        "num": 196668,
+        "word": "熊猫为贴贴每根毛都在使劲",
+        "onboard_time": 1724545280,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195953,
+        "num": 195953,
+        "word": "甲状腺和乳腺为何容易一起长结节",
+        "onboard_time": 1724546479,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 190772,
+        "num": 190772,
+        "word": "宝爸每次晚归都拿桃枝抽打自己",
+        "onboard_time": 1724550018,
+        "rank": 32,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 186611,
+        "num": 186611,
+        "word": "越吃越瘦的负能量食物真有",
+        "onboard_time": 1724544317,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 184945,
+        "num": 184945,
+        "word": "房屋养老金",
+        "onboard_time": 1724546717,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 179385,
+        "num": 179385,
+        "word": "猫咪被锁喉后宝宝因抱不动大哭",
+        "onboard_time": 1724542275,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177692,
+        "num": 177692,
+        "word": "印度女医生奸杀案嫌疑人当庭翻供",
+        "onboard_time": 1724509701,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172236,
+        "num": 172236,
+        "word": "民警送回幼童家长才知道孩子丢了",
+        "onboard_time": 1724549539,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165489,
+        "num": 165489,
+        "word": "今年中秋国庆的假期好像很复杂",
+        "onboard_time": 1724535912,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164831,
+        "num": 164831,
+        "word": "吴彦祖送女儿上中学",
+        "onboard_time": 1724550139,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162554,
+        "num": 162554,
+        "word": "女主播直播时宣称服用了摇头丸",
+        "onboard_time": 1724550619,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158531,
+        "num": 158531,
+        "word": "宋亚轩 我们要一直见",
+        "onboard_time": 1724550018,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155969,
+        "num": 155969,
+        "word": "王俊凯 刺猬演技",
+        "onboard_time": 1724549780,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155909,
+        "num": 155909,
+        "word": "小狗就算忘了你也会重新爱上你",
+        "onboard_time": 1724547078,
+        "rank": 43,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 151943,
+        "num": 151943,
+        "word": "被中国唯一海洋民族传统服饰美到了",
+        "onboard_time": 1724519418,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148943,
+        "num": 148943,
+        "word": "王一博 绿海",
+        "onboard_time": 1724506522,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140786,
+        "num": 140786,
+        "word": "檀健次跟爱奇艺道歉",
+        "onboard_time": 1724504723,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136294,
+        "num": 136294,
+        "word": "原来人感染猫癣是这样的",
+        "onboard_time": 1724547199,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131659,
+        "num": 131659,
+        "word": "苹果AI或成iPhone16系列宣传重点",
+        "onboard_time": 1724549479,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 125620,
+        "num": 125620,
+        "word": "多个外卖用一个营业执照被立案调查",
+        "onboard_time": 1724549900,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#带动全民健身青少年体育蓬勃开展#"
+    }
+  }
+}
