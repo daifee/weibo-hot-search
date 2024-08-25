@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1724592064777,
+  "endTime": 1724592875138,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -1929,6 +1929,14 @@
       "onboard_time": 1722512606,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3764088,
+      "num": 4028177,
+      "word": "国务院食安办通报油罐车事件",
+      "onboard_time": 1724587700,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3761419,
@@ -4689,14 +4697,6 @@
       "onboard_time": 1723219166,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2228830,
-      "num": 3853226,
-      "word": "国务院食安办通报油罐车事件",
-      "onboard_time": 1724587700,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2225310,
@@ -11651,6 +11651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1153924,
+      "num": 1153924,
+      "word": "刘亦菲37岁庆生照",
+      "onboard_time": 1724591302,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1153860,
       "num": 905001,
       "word": "黄子韬也是翻身了",
@@ -13587,6 +13595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1003379,
+      "num": 1003379,
+      "word": "边水往事 吓人",
+      "onboard_time": 1724588480,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1001537,
       "num": 1001537,
       "word": "给储户赋红码被处分女官员任新职",
@@ -13721,6 +13737,14 @@
       "onboard_time": 1722773728,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 991766,
+      "num": 991766,
+      "word": "女子产后掉发1个月掉出1把马尾",
+      "onboard_time": 1724588121,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 990894,
@@ -15203,20 +15227,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 898230,
-      "num": 898230,
-      "word": "女子产后掉发1个月掉出1把马尾",
-      "onboard_time": 1724588121,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 897756,
       "num": 1153556,
       "word": "结婚登记不需要户口簿方便了谁",
       "onboard_time": 1723698382,
       "rank": 40,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 897258,
+      "num": 897258,
+      "word": "许昕回应被抄袭",
+      "onboard_time": 1724590221,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 897195,
@@ -16547,14 +16571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 808910,
-      "num": 808910,
-      "word": "边水往事 吓人",
-      "onboard_time": 1724588480,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 806766,
       "num": 661529,
       "word": "孙颖莎打出3D球",
@@ -17800,14 +17816,6 @@
       "word": "游泳解说 咆哮",
       "onboard_time": 1722461412,
       "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 744904,
-      "num": 744904,
-      "word": "许昕回应被抄袭",
-      "onboard_time": 1724590221,
-      "rank": 46,
       "category": "体育"
     },
     {
@@ -19281,14 +19289,6 @@
       "onboard_time": 1724204180,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 673345,
-      "num": 673345,
-      "word": "刘亦菲37岁庆生照",
-      "onboard_time": 1724591302,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 672621,
@@ -28036,7 +28036,7 @@
     },
     {
       "raw_hot": 417345,
-      "num": 612323,
+      "num": 841129,
       "word": "牺牲民警让被救女孩好好活着",
       "onboard_time": 1724587640,
       "rank": 33,
@@ -28787,6 +28787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 403585,
+      "num": 403585,
+      "word": "允载允荷明年结婚",
+      "onboard_time": 1724591782,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 403564,
       "num": 424682,
       "word": "熟人作案 影视化",
@@ -29257,6 +29265,14 @@
       "onboard_time": 1722625934,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 394720,
+      "num": 394720,
+      "word": "广州番禺区发生多车相撞",
+      "onboard_time": 1724591302,
+      "rank": 36,
+      "category": "社会负面"
     },
     {
       "raw_hot": 394523,
@@ -38059,14 +38075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 286615,
-      "num": 286615,
-      "word": "广州番禺区发生多车相撞",
-      "onboard_time": 1724591302,
-      "rank": 36,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 286566,
       "num": 543221,
       "word": "男子无故挨打后反杀一人被判刑",
@@ -40427,6 +40435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 266329,
+      "num": 266329,
+      "word": "DRG教练",
+      "onboard_time": 1724573178,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 266294,
       "num": 501916,
       "word": "泡泡玛特 光夜",
@@ -40505,6 +40521,14 @@
       "onboard_time": 1724157982,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 265980,
+      "num": 265980,
+      "word": "袁启聪直播",
+      "onboard_time": 1724583198,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 265798,
@@ -42651,6 +42675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249880,
+      "num": 249880,
+      "word": "张豆豆说孙杨很有安全感",
+      "onboard_time": 1724591722,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 249846,
       "num": 249846,
       "word": "尤长靖首谈偶练出道后消失了",
@@ -43369,6 +43401,14 @@
       "onboard_time": 1722478884,
       "rank": 47,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 244493,
+      "num": 244493,
+      "word": "康康 兰花草",
+      "onboard_time": 1724592142,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 244433,
@@ -44257,6 +44297,14 @@
       "onboard_time": 1724387001,
       "rank": 36,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 237849,
+      "num": 250720,
+      "word": "张钧甯与男友葡萄牙逛街",
+      "onboard_time": 1724592562,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 237824,
@@ -45353,6 +45401,14 @@
       "onboard_time": 1723462941,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231289,
+      "num": 231289,
+      "word": "AG对战狼队",
+      "onboard_time": 1724590281,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 231234,
@@ -46609,14 +46665,6 @@
       "onboard_time": 1724217500,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 224502,
-      "num": 224502,
-      "word": "DRG教练",
-      "onboard_time": 1724573178,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 224478,
@@ -49179,14 +49227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211100,
-      "num": 211100,
-      "word": "允载允荷明年结婚",
-      "onboard_time": 1724591782,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 211088,
       "num": 211088,
       "word": "张雨霏说身体右边都是麻掉的",
@@ -49297,14 +49337,6 @@
       "onboard_time": 1724563759,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 210510,
-      "num": 210510,
-      "word": "AG对战狼队",
-      "onboard_time": 1724590281,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 210211,
@@ -50499,6 +50531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205817,
+      "num": 205817,
+      "word": "EDG 我们是冠军",
+      "onboard_time": 1724589981,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 205752,
       "num": 205752,
       "word": "国际体育仲裁法庭宣布美国队申诉无效",
@@ -50897,14 +50937,6 @@
       "onboard_time": 1723166362,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 204535,
-      "num": 204535,
-      "word": "袁启聪直播",
-      "onboard_time": 1724583198,
-      "rank": 42,
-      "category": "汽车"
     },
     {
       "raw_hot": 204519,
@@ -51513,6 +51545,14 @@
       "onboard_time": 1723890018,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 202459,
+      "num": 202459,
+      "word": "穆祉丞唱跳好稳",
+      "onboard_time": 1724592801,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 202458,
@@ -54593,14 +54633,6 @@
       "onboard_time": 1723514601,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 191664,
-      "num": 191664,
-      "word": "EDG 我们是冠军",
-      "onboard_time": 1724589981,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 191662,
@@ -66035,6 +66067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115577,
+      "num": 906816,
+      "word": "在食品安全上泯灭良心终将付出代价",
+      "onboard_time": 1724591183,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115546,
       "num": 913221,
       "word": "川外回应食堂被举报卖僵尸肉",
@@ -67377,14 +67417,6 @@
       "onboard_time": 1723142173,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 97559,
-      "num": 842257,
-      "word": "在食品安全上泯灭良心终将付出代价",
-      "onboard_time": 1724591183,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 97478,
@@ -75315,6 +75347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28172,
+      "num": 715901,
+      "word": "钎城战绩可查",
+      "onboard_time": 1724590821,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 28163,
       "num": 161766,
       "word": "冰雪谣直播间吵成一锅粥了",
@@ -76161,14 +76201,6 @@
       "onboard_time": 1723278981,
       "rank": 49,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 19607,
-      "num": 715901,
-      "word": "钎城战绩可查",
-      "onboard_time": 1724590821,
-      "rank": 14,
-      "category": "电竞"
     },
     {
       "raw_hot": 19374,
