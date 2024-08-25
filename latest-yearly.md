@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/08/25 19:34:48
+本榜单时间：2024/01/01 00:21:05 ~ 2024/08/25 20:36:12
 </p>
 </blockquote>
 <p>
@@ -1743,6 +1743,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23EDG%E5%85%A8%E7%90%83%E5%86%A0%E5%86%9B%E8%B5%9B%E5%A4%BA%E5%86%A0%23" target="weibo">
+EDG全球冠军赛夺冠（热度：7188725）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%E7%AB%9F%E7%84%B6%E7%AC%AC%E4%B8%83%23" target="weibo">
 那英竟然第七（热度：7179323）
 </a>
@@ -1805,12 +1811,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E5%AE%98%E5%BE%AE%E5%9B%9E%E5%BA%94%23" target="weibo">
 歌手官微回应（热度：6947188）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%92%E4%B9%93%E7%90%83%E7%9B%B4%E6%92%AD%20%E5%8D%A1%23" target="weibo">
-乒乓球直播 卡（热度：6921144）
 </a>
 </li>
 
