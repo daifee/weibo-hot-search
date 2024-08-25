@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724553769390,
+  "endTime": 1724554378516,
   "band_list": [
     {
       "raw_hot": 2141711,
@@ -19,15 +19,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1815576,
-      "num": 1815576,
+      "raw_hot": 1827134,
+      "num": 1827134,
       "word": "孙杨复出首秀",
       "onboard_time": 1724548339,
       "rank": 5,
       "category": "体育"
     },
     {
-      "raw_hot": 1737946,
+      "raw_hot": 1766050,
       "num": 568269,
       "word": "黄一鸣听到300万的反应",
       "onboard_time": 1724550619,
@@ -131,20 +131,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 637848,
+      "num": 637848,
+      "word": "超65万人预约观看孙杨复出战",
+      "onboard_time": 1724549298,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 614744,
       "num": 614744,
       "word": "黑神话悟空杨戬演员回应撞脸张翰",
       "onboard_time": 1724508502,
       "rank": 5,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 611721,
-      "num": 611721,
-      "word": "超65万人预约观看孙杨复出战",
-      "onboard_time": 1724549298,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 588577,
@@ -193,6 +193,14 @@
       "onboard_time": 1724549839,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 479264,
+      "num": 371979,
+      "word": "宝爸每次晚归都拿桃枝抽打自己",
+      "onboard_time": 1724550018,
+      "rank": 32,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 469127,
@@ -251,14 +259,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 371979,
-      "num": 371979,
-      "word": "宝爸每次晚归都拿桃枝抽打自己",
-      "onboard_time": 1724550018,
-      "rank": 32,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 369007,
       "num": 369007,
       "word": "女子坐拥87套房被查封待拍卖",
@@ -299,12 +299,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 318420,
+      "num": 370496,
+      "word": "熟人作案 影视化",
+      "onboard_time": 1724550978,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 315588,
       "num": 315588,
       "word": "Angelababy带小海绵游玩迪士尼",
       "onboard_time": 1724501180,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 275984,
+      "num": 275984,
+      "word": "男子每天凌晨4点出门冒充特警查车",
+      "onboard_time": 1724552780,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269320,
@@ -321,14 +337,6 @@
       "onboard_time": 1724519418,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 267830,
-      "num": 370496,
-      "word": "熟人作案 影视化",
-      "onboard_time": 1724550978,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 257547,
@@ -353,6 +361,14 @@
       "onboard_time": 1724512643,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245340,
+      "num": 245340,
+      "word": "王一博腋下管理",
+      "onboard_time": 1724553980,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 243915,
@@ -427,6 +443,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 220646,
+      "num": 220646,
+      "word": "房屋养老金",
+      "onboard_time": 1724546717,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220100,
       "num": 262361,
       "word": "多少年了我还吃帝后cp这套",
@@ -457,22 +481,6 @@
       "onboard_time": 1724502381,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 215460,
-      "num": 215460,
-      "word": "房屋养老金",
-      "onboard_time": 1724546717,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 213404,
-      "num": 213404,
-      "word": "男子每天凌晨4点出门冒充特警查车",
-      "onboard_time": 1724552780,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213364,
@@ -507,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198435,
+      "num": 198435,
+      "word": "云南亚洲象又出走了",
+      "onboard_time": 1724552358,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197251,
       "num": 197251,
       "word": "熊猫为贴贴每根毛都在使劲",
@@ -539,14 +555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181199,
-      "num": 181199,
-      "word": "云南亚洲象又出走了",
-      "onboard_time": 1724552358,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179459,
       "num": 179459,
       "word": "一句踩妈妈的手给我整泪目了",
@@ -577,6 +585,14 @@
       "onboard_time": 1724549539,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171803,
+      "num": 171803,
+      "word": "居然有人能跟一匹马聊5分钟",
+      "onboard_time": 1724553078,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 171287,
@@ -635,20 +651,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 159385,
-      "num": 159385,
-      "word": "居然有人能跟一匹马聊5分钟",
-      "onboard_time": 1724553078,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 158531,
       "num": 158531,
       "word": "宋亚轩 我们要一直见",
       "onboard_time": 1724550018,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 157825,
+      "num": 157825,
+      "word": "薛之谦被毛不易怼了",
+      "onboard_time": 1724553320,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 155969,
@@ -691,6 +707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 152794,
+      "num": 152794,
+      "word": "孙杨亮相2024年全国夏季游泳锦标赛",
+      "onboard_time": 1724552300,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148566,
       "num": 148566,
       "word": "徐海乔的腰",
@@ -699,12 +723,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148529,
+      "num": 148529,
+      "word": "老外称上海咖啡店比欧洲多",
+      "onboard_time": 1724553500,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 148251,
       "num": 148251,
       "word": "李宇春我还年轻我还年轻",
       "onboard_time": 1724513960,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 145261,
+      "num": 145261,
+      "word": "真的建议坐久了勾勾小腿",
+      "onboard_time": 1724554099,
+      "rank": 46,
+      "category": "运动健身,健康医疗"
     },
     {
       "raw_hot": 142563,
@@ -747,12 +787,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137640,
-      "num": 137640,
-      "word": "薛之谦被毛不易怼了",
-      "onboard_time": 1724553320,
-      "rank": 46,
-      "category": "综艺"
+      "raw_hot": 138459,
+      "num": 272728,
+      "word": "曲江文旅上半年亏1.87亿",
+      "onboard_time": 1724553140,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137180,
@@ -795,14 +835,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 134002,
-      "num": 134002,
-      "word": "老外称上海咖啡店比欧洲多",
-      "onboard_time": 1724553500,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 131740,
       "num": 131740,
       "word": "四方馆嗷嗷哭完嘎嘎甜",
@@ -825,14 +857,6 @@
       "onboard_time": 1724516479,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 129414,
-      "num": 129414,
-      "word": "曲江文旅上半年亏1.87亿",
-      "onboard_time": 1724553140,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 128731,
@@ -931,6 +955,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 86314,
+      "num": 569113,
+      "word": "电报创始人在法国被逮捕",
+      "onboard_time": 1724552418,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85704,
       "num": 196685,
       "word": "出伏后秋老虎和瞌睡虫都要来了",
@@ -952,14 +984,6 @@
       "word": "央视曝光的多家脏乱外卖停业整改",
       "onboard_time": 1724527271,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 70391,
-      "num": 569113,
-      "word": "电报创始人在法国被逮捕",
-      "onboard_time": 1724552418,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -995,6 +1019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 57653,
+      "num": 409659,
+      "word": "这才是真正的火锅英雄",
+      "onboard_time": 1724552418,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55884,
       "num": 55884,
       "word": "孙杨400自报名成绩仍属国内顶尖",
@@ -1008,14 +1040,6 @@
       "word": "帅小伙回农村帮外婆收稻谷好温馨",
       "onboard_time": 1724548339,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 49569,
-      "num": 409659,
-      "word": "这才是真正的火锅英雄",
-      "onboard_time": 1724552418,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1049,6 +1073,14 @@
       "onboard_time": 1724493799,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 39770,
+      "num": 254520,
+      "word": "福岛多地集会要求停止核污染水排海",
+      "onboard_time": 1724553680,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30264,
@@ -1104,14 +1136,6 @@
       "word": "钓鱼佬甩竿救出水中落难鸵鸟",
       "onboard_time": 1724539274,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21284,
-      "num": 254520,
-      "word": "福岛多地集会要求停止核污染水排海",
-      "onboard_time": 1724553680,
-      "rank": 29,
       "category": "社会新闻"
     },
     {

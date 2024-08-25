@@ -1,0 +1,410 @@
+{
+  "runTime": 1724554378516,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1827134,
+        "num": 1827134,
+        "word": "孙杨复出首秀",
+        "onboard_time": 1724548339,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1015351,
+        "num": 1015351,
+        "word": "大唐不夜城半年仅赚23.53万元",
+        "onboard_time": 1724546479,
+        "rank": 1,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 4643,
+        "num": 945205,
+        "word": "铸牢共同体中华一家亲",
+        "onboard_time": 1724503281,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 931755,
+        "num": 931755,
+        "word": "父亲送女儿上班溺亡前细节回放",
+        "onboard_time": 1724547799,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1115791,
+        "num": 898784,
+        "word": "印度五名医生被指涉奸杀女医生案",
+        "onboard_time": 1724545097,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 797589,
+        "num": 797589,
+        "word": "张豆豆发文支持孙杨",
+        "onboard_time": 1724550439,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 713790,
+        "num": 713790,
+        "word": "黄晓明 追星成功",
+        "onboard_time": 1724548639,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 637848,
+        "num": 637848,
+        "word": "超65万人预约观看孙杨复出战",
+        "onboard_time": 1724549298,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 489165,
+        "num": 489165,
+        "word": "15岁女孩跨省看完演唱会身上只剩3毛",
+        "onboard_time": 1724542035,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448026,
+        "num": 448026,
+        "word": "李娟说和董宇辉的访谈好奇怪",
+        "onboard_time": 1724550318,
+        "rank": 9,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 1766050,
+        "num": 447526,
+        "word": "黄一鸣听到300万的反应",
+        "onboard_time": 1724550619,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 445272,
+        "num": 445272,
+        "word": "孙杨抵达赛场",
+        "onboard_time": 1724549839,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 388696,
+        "num": 388696,
+        "word": "吴镇宇 为什么吐槽一个开玩笑的人",
+        "onboard_time": 1724545159,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355711,
+        "num": 355711,
+        "word": "村民捡到女婴胎盘脐带均未剪",
+        "onboard_time": 1724545998,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318420,
+        "num": 318420,
+        "word": "熟人作案 影视化",
+        "onboard_time": 1724550978,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295544,
+        "num": 295544,
+        "word": "假特警路边查车要钱遇上真警察",
+        "onboard_time": 1724542756,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293310,
+        "num": 293310,
+        "word": "日本8轮核污水排海累计将达62500吨",
+        "onboard_time": 1724543597,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 292916,
+        "num": 292916,
+        "word": "四川水果店老板躺冰柜里乘凉",
+        "onboard_time": 1724547078,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275984,
+        "num": 275984,
+        "word": "男子每天凌晨4点出门冒充特警查车",
+        "onboard_time": 1724552780,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138459,
+        "num": 272728,
+        "word": "曲江文旅上半年亏1.87亿",
+        "onboard_time": 1724553140,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 801823,
+        "num": 265973,
+        "word": "樊振东退赛",
+        "onboard_time": 1724512282,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 479264,
+        "num": 259649,
+        "word": "宝爸每次晚归都拿桃枝抽打自己",
+        "onboard_time": 1724550018,
+        "rank": 21,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 279362,
+        "num": 252229,
+        "word": "游客闯进全红婵爷爷家被微笑劝退",
+        "onboard_time": 1724510241,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245340,
+        "num": 245340,
+        "word": "王一博腋下管理",
+        "onboard_time": 1724553980,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 217592,
+        "num": 243783,
+        "word": "王俊凯 出去别说是我粉丝",
+        "onboard_time": 1724517738,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 214094,
+        "num": 242732,
+        "word": "杨幂对周深说少管我",
+        "onboard_time": 1724516899,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86314,
+        "num": 239925,
+        "word": "电报创始人在法国被逮捕",
+        "onboard_time": 1724552418,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217066,
+        "num": 239090,
+        "word": "多少年了我还吃帝后cp这套",
+        "onboard_time": 1724552240,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177080,
+        "num": 235465,
+        "word": "杨紫工作室 审美",
+        "onboard_time": 1724513841,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 57653,
+        "num": 233532,
+        "word": "这才是真正的火锅英雄",
+        "onboard_time": 1724552418,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233279,
+        "num": 233279,
+        "word": "孙颖莎去了邓紫棋演唱会",
+        "onboard_time": 1724511742,
+        "rank": 30,
+        "category": "体育,演出"
+      },
+      {
+        "raw_hot": 230349,
+        "num": 230349,
+        "word": "黑神话悟空杨戬演员回应撞脸张翰",
+        "onboard_time": 1724508502,
+        "rank": 31,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 225262,
+        "num": 225262,
+        "word": "东部战区运油20歼16夜间空中加油",
+        "onboard_time": 1724552358,
+        "rank": 32,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 220646,
+        "num": 220646,
+        "word": "房屋养老金",
+        "onboard_time": 1724546717,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 198435,
+        "num": 198435,
+        "word": "云南亚洲象又出走了",
+        "onboard_time": 1724552358,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187650,
+        "num": 187650,
+        "word": "长期睡眠不足七小时的危害",
+        "onboard_time": 1724547558,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 180250,
+        "num": 180250,
+        "word": "吴彦祖送女儿上中学",
+        "onboard_time": 1724550139,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171803,
+        "num": 171803,
+        "word": "居然有人能跟一匹马聊5分钟",
+        "onboard_time": 1724553078,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163182,
+        "num": 163182,
+        "word": "越吃越瘦的负能量食物真有",
+        "onboard_time": 1724544317,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 39770,
+        "num": 160596,
+        "word": "福岛多地集会要求停止核污染水排海",
+        "onboard_time": 1724553680,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159789,
+        "num": 159789,
+        "word": "甲状腺和乳腺为何容易一起长结节",
+        "onboard_time": 1724546479,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157825,
+        "num": 157825,
+        "word": "薛之谦被毛不易怼了",
+        "onboard_time": 1724553320,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152794,
+        "num": 152794,
+        "word": "孙杨亮相2024年全国夏季游泳锦标赛",
+        "onboard_time": 1724552300,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151756,
+        "num": 151756,
+        "word": "檀健次脸小具象化",
+        "onboard_time": 1724549119,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148529,
+        "num": 148529,
+        "word": "老外称上海咖啡店比欧洲多",
+        "onboard_time": 1724553500,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 145315,
+        "num": 145315,
+        "word": "熊猫为贴贴每根毛都在使劲",
+        "onboard_time": 1724545280,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145261,
+        "num": 145261,
+        "word": "真的建议坐久了勾勾小腿",
+        "onboard_time": 1724554099,
+        "rank": 46,
+        "category": "运动健身,健康医疗"
+      },
+      {
+        "raw_hot": 144287,
+        "num": 144287,
+        "word": "为何这些丑东西成了年轻人的心头好",
+        "onboard_time": 1724526132,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139418,
+        "num": 139418,
+        "word": "王一博 绿海",
+        "onboard_time": 1724506522,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133627,
+        "num": 133627,
+        "word": "小狗就算忘了你也会重新爱上你",
+        "onboard_time": 1724547078,
+        "rank": 49,
+        "category": "休闲"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习新语#"
+    }
+  }
+}
