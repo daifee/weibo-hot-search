@@ -1,0 +1,410 @@
+{
+  "runTime": 1724642705430,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1946564,
+        "num": 1946564,
+        "word": "全红婵喝饮料网友告状陈若琳",
+        "onboard_time": 1724639299,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1594137,
+        "num": 1594137,
+        "word": "国漫对韩漫贴脸开大",
+        "onboard_time": 1724640199,
+        "rank": 1,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 69472,
+        "num": 1114169,
+        "word": "八桂大地展新颜",
+        "onboard_time": 1724641820,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 995842,
+        "num": 995842,
+        "word": "莫迪首次回应女实习医生遭奸杀案",
+        "onboard_time": 1724640980,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 983908,
+        "num": 983908,
+        "word": "今年中秋放假3天需调休",
+        "onboard_time": 1724632701,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 838396,
+        "num": 838396,
+        "word": "藏海花开播",
+        "onboard_time": 1724640019,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 670085,
+        "num": 670085,
+        "word": "黄景瑜 你粉蹭我衣服上了",
+        "onboard_time": 1724629938,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130499,
+        "num": 593988,
+        "word": "孩子的假期作业到底是留给谁的",
+        "onboard_time": 1724635279,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565464,
+        "num": 565464,
+        "word": "只要北京人的血是热的这家店就不会凉",
+        "onboard_time": 1724612053,
+        "rank": 8,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 443537,
+        "num": 547049,
+        "word": "设立房屋养老金需找准利益平衡点",
+        "onboard_time": 1724635880,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1003311,
+        "num": 547013,
+        "word": "孙杨成绩距本人奥运纪录差了近10秒",
+        "onboard_time": 1724631079,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 546892,
+        "num": 546892,
+        "word": "爷爷卖南瓜饼1元1个被顾客劝涨价",
+        "onboard_time": 1724635701,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110011,
+        "num": 524883,
+        "word": "把空奶盒当作业苦了学生还是家长",
+        "onboard_time": 1724641220,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124869,
+        "num": 508850,
+        "word": "男子仅退款被拒后起诉网店被驳回",
+        "onboard_time": 1724642600,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23110,
+        "num": 507372,
+        "word": "夏日烟台狂欢派对太疯狂",
+        "onboard_time": 1724641220,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506345,
+        "num": 506345,
+        "word": "居民称2名空调安装工10楼坠落",
+        "onboard_time": 1724637739,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435888,
+        "num": 435888,
+        "word": "网贷60万做榜1大哥后送外卖还债",
+        "onboard_time": 1724640800,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319893,
+        "num": 420919,
+        "word": "吴宣仪孟美岐程潇十年的友情",
+        "onboard_time": 1724632220,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35461,
+        "num": 417232,
+        "word": "有一种海边人生是青岛啤酒相伴",
+        "onboard_time": 1724641458,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 282459,
+        "num": 416258,
+        "word": "庞博文 立规矩",
+        "onboard_time": 1724631859,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 415900,
+        "num": 415900,
+        "word": "下月或停产的10款苹果产品",
+        "onboard_time": 1724631859,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 405638,
+        "num": 405638,
+        "word": "房屋养老金要不要老百姓直接出钱",
+        "onboard_time": 1724638219,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341198,
+        "num": 341198,
+        "word": "孙颖莎说奥运闭幕式的时候释怀了",
+        "onboard_time": 1724630417,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272959,
+        "num": 339454,
+        "word": "孔令美崇拜章子怡",
+        "onboard_time": 1724640918,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291544,
+        "num": 339203,
+        "word": "张颖颖晒回山东老家日常vlog",
+        "onboard_time": 1724640199,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 339181,
+        "num": 339181,
+        "word": "天津暴雨",
+        "onboard_time": 1724631802,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326845,
+        "num": 326845,
+        "word": "黄一鸣回应想让女儿当网红",
+        "onboard_time": 1724607914,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 300912,
+        "num": 300912,
+        "word": "女兵练出6块腹肌笑得好开心",
+        "onboard_time": 1724637859,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284959,
+        "num": 284959,
+        "word": "北京暴雨",
+        "onboard_time": 1724633541,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271385,
+        "num": 271385,
+        "word": "心动的信号7艺人阵容官宣",
+        "onboard_time": 1724640800,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65618,
+        "num": 260114,
+        "word": "直击辽宁葫芦岛抢险救援",
+        "onboard_time": 1724640678,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253930,
+        "num": 253930,
+        "word": "以前觉得谈个帅哥就老实了",
+        "onboard_time": 1724640139,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 251210,
+        "num": 251210,
+        "word": "男子凌晨骚扰独居女生爬窗拔监控",
+        "onboard_time": 1724633961,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235825,
+        "num": 235825,
+        "word": "郑钦文登美网官方海报",
+        "onboard_time": 1724638638,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235514,
+        "num": 235514,
+        "word": "肖战花田骑车",
+        "onboard_time": 1724642659,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231782,
+        "num": 231782,
+        "word": "东北县城女孩卖鸵鸟年入百万",
+        "onboard_time": 1724637739,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221124,
+        "num": 221124,
+        "word": "唯一演遍四大名著的女演员",
+        "onboard_time": 1724594242,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 214708,
+        "num": 214708,
+        "word": "赵丽颖剪短发plog",
+        "onboard_time": 1724641938,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208987,
+        "num": 208987,
+        "word": "中秋假期火车票9月1日开售",
+        "onboard_time": 1724640319,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208986,
+        "num": 208986,
+        "word": "阎鹤祥 现挂",
+        "onboard_time": 1724632280,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197550,
+        "num": 197550,
+        "word": "边水往事 吓人",
+        "onboard_time": 1724588480,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189065,
+        "num": 189065,
+        "word": "杭州警方回应一小区2人坠楼",
+        "onboard_time": 1724629877,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187553,
+        "num": 187553,
+        "word": "孙杨下一个赛场或在明年全运会",
+        "onboard_time": 1724639418,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181975,
+        "num": 181975,
+        "word": "梅德韦杰夫谈Telegram创始人被捕",
+        "onboard_time": 1724642121,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 167405,
+        "num": 167405,
+        "word": "官媒发声称房屋养老金不是房地产税",
+        "onboard_time": 1724642541,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157349,
+        "num": 157349,
+        "word": "相亲100次是什么体验",
+        "onboard_time": 1724639120,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155147,
+        "num": 155147,
+        "word": "我的邻居是掌管减肥的神",
+        "onboard_time": 1724640139,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154841,
+        "num": 154841,
+        "word": "颁奖时徐海博一直在准备与孙杨合照",
+        "onboard_time": 1724642300,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153861,
+        "num": 153861,
+        "word": "第31届东方风云榜节目单",
+        "onboard_time": 1724641340,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146515,
+        "num": 146515,
+        "word": "在泰国被辱骂中国女子拒绝和解",
+        "onboard_time": 1724593101,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习新语#"
+    }
+  }
+}

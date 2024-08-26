@@ -1,6 +1,6 @@
 {
   "startTime": 1724603016158,
-  "endTime": 1724640611361,
+  "endTime": 1724642705430,
   "band_list": [
     {
       "raw_hot": 3239838,
@@ -11,12 +11,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1946564,
+      "num": 1946564,
+      "word": "全红婵喝饮料网友告状陈若琳",
+      "onboard_time": 1724639299,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1733397,
       "num": 1733397,
       "word": "只要北京人的血是热的这家店就不会凉",
       "onboard_time": 1724612053,
       "rank": 46,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 1594137,
+      "num": 1594137,
+      "word": "国漫对韩漫贴脸开大",
+      "onboard_time": 1724640199,
+      "rank": 20,
+      "category": "动漫"
     },
     {
       "raw_hot": 1465553,
@@ -59,12 +75,28 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 995842,
+      "num": 995842,
+      "word": "莫迪首次回应女实习医生遭奸杀案",
+      "onboard_time": 1724640980,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 947283,
       "num": 969082,
       "word": "孙杨成绩能在杭州亚运会拿第5",
       "onboard_time": 1724599161,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 838396,
+      "num": 838396,
+      "word": "藏海花开播",
+      "onboard_time": 1724640019,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 826274,
@@ -88,14 +120,6 @@
       "word": "孙颖莎说奥运闭幕式的时候释怀了",
       "onboard_time": 1724630417,
       "rank": 6,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 777330,
-      "num": 777330,
-      "word": "全红婵喝饮料网友告状陈若琳",
-      "onboard_time": 1724639299,
-      "rank": 15,
       "category": "体育"
     },
     {
@@ -283,12 +307,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 399112,
-      "num": 338339,
-      "word": "国漫对韩漫贴脸开大",
-      "onboard_time": 1724640199,
-      "rank": 20,
-      "category": "动漫"
+      "raw_hot": 443537,
+      "num": 547049,
+      "word": "设立房屋养老金需找准利益平衡点",
+      "onboard_time": 1724635880,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 435888,
+      "num": 435888,
+      "word": "网贷60万做榜1大哥后送外卖还债",
+      "onboard_time": 1724640800,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 405638,
+      "num": 549071,
+      "word": "房屋养老金要不要老百姓直接出钱",
+      "onboard_time": 1724638219,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 393427,
@@ -355,14 +395,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 318956,
-      "num": 318956,
-      "word": "设立房屋养老金需找准利益平衡点",
-      "onboard_time": 1724635880,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 318653,
       "num": 318653,
       "word": "男子偷21座佛像放家中供奉",
@@ -387,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300912,
+      "num": 300912,
+      "word": "女兵练出6块腹肌笑得好开心",
+      "onboard_time": 1724637859,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295655,
       "num": 295655,
       "word": "上海已叫停房贷返点",
@@ -395,12 +435,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291544,
+      "num": 339203,
+      "word": "张颖颖晒回山东老家日常vlog",
+      "onboard_time": 1724640199,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 281150,
       "num": 281150,
       "word": "李飞开宾利",
       "onboard_time": 1724585421,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 272959,
+      "num": 339454,
+      "word": "孔令美崇拜章子怡",
+      "onboard_time": 1724640918,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 271385,
+      "num": 271385,
+      "word": "心动的信号7艺人阵容官宣",
+      "onboard_time": 1724640800,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 253930,
+      "num": 253930,
+      "word": "以前觉得谈个帅哥就老实了",
+      "onboard_time": 1724640139,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 248560,
@@ -427,6 +499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 235825,
+      "num": 235825,
+      "word": "郑钦文登美网官方海报",
+      "onboard_time": 1724638638,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 235647,
       "num": 235647,
       "word": "东北县城女孩卖鸵鸟年入百万",
@@ -435,36 +515,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235514,
+      "num": 235514,
+      "word": "肖战花田骑车",
+      "onboard_time": 1724642659,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227575,
       "num": 227575,
       "word": "男人最好的聘礼是一生的包容",
       "onboard_time": 1724629339,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 227232,
-      "num": 227232,
-      "word": "郑钦文登美网官方海报",
-      "onboard_time": 1724638638,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 226877,
-      "num": 226877,
-      "word": "以前觉得谈个帅哥就老实了",
-      "onboard_time": 1724640139,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 226142,
-      "num": 226142,
-      "word": "女兵练出6块腹肌笑得好开心",
-      "onboard_time": 1724637859,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 220777,
@@ -481,6 +545,14 @@
       "onboard_time": 1724593221,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214708,
+      "num": 214708,
+      "word": "赵丽颖剪短发plog",
+      "onboard_time": 1724641938,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 213063,
@@ -507,12 +579,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 207706,
-      "num": 227027,
-      "word": "藏海花开播",
-      "onboard_time": 1724640019,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 208987,
+      "num": 208987,
+      "word": "中秋假期火车票9月1日开售",
+      "onboard_time": 1724640319,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206202,
@@ -555,14 +627,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 193092,
-      "num": 549071,
-      "word": "房屋养老金要不要老百姓直接出钱",
-      "onboard_time": 1724638219,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185766,
       "num": 185766,
       "word": "被救女孩称警察叔叔把我推到救生绳",
@@ -579,12 +643,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 181882,
-      "num": 203147,
-      "word": "张颖颖晒回山东老家日常vlog",
-      "onboard_time": 1724640199,
-      "rank": 34,
-      "category": "网红"
+      "raw_hot": 181975,
+      "num": 181975,
+      "word": "梅德韦杰夫谈Telegram创始人被捕",
+      "onboard_time": 1724642121,
+      "rank": 43,
+      "category": "国外时政"
     },
     {
       "raw_hot": 180894,
@@ -609,14 +673,6 @@
       "onboard_time": 1724633541,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 176460,
-      "num": 176460,
-      "word": "中秋假期火车票9月1日开售",
-      "onboard_time": 1724640319,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176269,
@@ -665,6 +721,14 @@
       "onboard_time": 1724636478,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 167405,
+      "num": 167405,
+      "word": "官媒发声称房屋养老金不是房地产税",
+      "onboard_time": 1724642541,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161707,
@@ -723,12 +787,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157349,
+      "num": 388541,
+      "word": "相亲100次是什么体验",
+      "onboard_time": 1724639120,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155495,
       "num": 155495,
       "word": "朱志鑫solo舞台",
       "onboard_time": 1724595921,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155147,
+      "num": 155147,
+      "word": "我的邻居是掌管减肥的神",
+      "onboard_time": 1724640139,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 154841,
+      "num": 154841,
+      "word": "颁奖时徐海博一直在准备与孙杨合照",
+      "onboard_time": 1724642300,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 154748,
@@ -747,8 +835,16 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 153861,
+      "num": 153861,
+      "word": "第31届东方风云榜节目单",
+      "onboard_time": 1724641340,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152918,
-      "num": 152918,
+      "num": 593988,
       "word": "孩子的假期作业到底是留给谁的",
       "onboard_time": 1724635279,
       "rank": 43,
@@ -785,14 +881,6 @@
       "onboard_time": 1724595983,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143911,
-      "num": 388541,
-      "word": "相亲100次是什么体验",
-      "onboard_time": 1724639120,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 143679,
@@ -843,14 +931,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 136465,
-      "num": 136465,
-      "word": "我的邻居是掌管减肥的神",
-      "onboard_time": 1724640139,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 135681,
       "num": 135681,
       "word": "谁懂那句走吧下班了的含泪量",
@@ -899,6 +979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 124869,
+      "num": 508850,
+      "word": "男子仅退款被拒后起诉网店被驳回",
+      "onboard_time": 1724642600,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124655,
       "num": 124655,
       "word": "ZmjjKK获全球冠军赛FMVP",
@@ -920,6 +1008,14 @@
       "word": "沙地塌陷埋压2孩童众人刨沙施救",
       "onboard_time": 1724599041,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110011,
+      "num": 524883,
+      "word": "把空奶盒当作业苦了学生还是家长",
+      "onboard_time": 1724641220,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -995,12 +1091,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69472,
+      "num": 1114169,
+      "word": "八桂大地展新颜",
+      "onboard_time": 1724641820,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66968,
       "num": 66968,
       "word": "每卖1台问界华为车BU收费3.67万元",
       "onboard_time": 1724628677,
       "rank": 44,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 65618,
+      "num": 260114,
+      "word": "直击辽宁葫芦岛抢险救援",
+      "onboard_time": 1724640678,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61767,
@@ -1091,6 +1203,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 35461,
+      "num": 417232,
+      "word": "有一种海边人生是青岛啤酒相伴",
+      "onboard_time": 1724641458,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 34032,
       "num": 42343,
       "word": "以色列北部拉响密集防空警报",
@@ -1121,6 +1241,14 @@
       "onboard_time": 1724604857,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23110,
+      "num": 507372,
+      "word": "夏日烟台狂欢派对太疯狂",
+      "onboard_time": 1724641220,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23082,
